@@ -1,11 +1,15 @@
-Xpdf        --- command line tool (Windows/Unix) 		--- https://www.xpdfreader.com/about.html
-Camelot     --- conda install -c conda-forge camelot-py
-OpenCV      --- pip install opencv-python
-Ghostscript --- https://www.ghostscript.com/
-Hunspell    --- https://github.com/essential-data/hunspell-sk
-Tesseract   --- https://github.com/madmaze/pytesseract
-				https://github.com/tesseract-ocr/tesseract
----------------------------------------------------
+Crawler for UHP
+--------------------------------------------------------------------
+
+Dependencies:
+
+1. Xpdf
+2. Camelot  - conda install -c conda-forge camelot-py
+3. OpenCV      - pip install opencv-python
+4. Ghostscript - https://www.ghostscript.com/
+5. Hunspell    - https://github.com/essential-data/hunspell-sk
+6. Tesseract   - https://github.com/madmaze/pytesseract
+
 Ubuntu:
 pip install camelot-py
 pip install opencv-python
