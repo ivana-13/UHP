@@ -1,0 +1,495 @@
+ZMLUVA č. 00870/2018/4400
+O poskytovaní technickej podpory a servisu na informačný systém „SK CRIS“
+uzavretá podľa § 269 ods.2 Obchodného zákonníka v súlade s postupom v zmysle zákona č. 343/2015
+Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(ďalej len „zmluva“)
+
+1. STRANY ZMLUVY
+
+Objednávateľ:
+Centrum vedecko-technických informácií SR
+Lamačská cesta 8/A
+811 04 Bratislava
+IČO: 151 882
+DIČ: 2020798395
+Bank. spojenie: Štátna pokladnica
+IBAN SK05 8180 0000 0070 0006 4743
+Zastúpený: prof. RNDr. Ján Turňa, CSc., generálny riaditeľ
+a
+Dodávateľ:
+InterWay, a.s.
+Stará Vajnorská 21,
+831 04 Bratislava
+Právna forma: Akciová spoločnosť
+IČO:35 728 531
+DIČ: 2020268294
+IČ DPH: SK2020268294
+Bankové spojenie:
+IBAN:
+SWIFT:
+Zapísaný v registri: 03.04.2015, Obchodný register Okresného súdu Bratislava I, Oddiel: Sa,
+Vložka č. 6123/B
+Zastúpený: Ing. Petr Weber, prokurista
+
+2. DEFINÍCIE POJMOV
+2.1. Informačný systém SK CRIS je informačným systémom o výskume, vývoji a inováciách,
+zhotoveným v roku 2013 a prevádzkovaným CVTI SR v zmysle zákona 172/2005 Z.z. v znení
+neskorších predpisov ako súčasť Centrálneho informačného portálu pre výskum, vývoj a inovácie
+(CIP VVI), Pod Informačným systémom sa rozumejú všetky jeho moduly a komponenty, z ktorých
+je systém vybudovaný a ktoré sú súčasťou z pohľadu prevádzky.
+2.2. Skratka IS označuje pojem Informačný systém.
+2.3. Pod pojmom porucha sa rozumie čiastočné alebo úplné znefunkčnenie služby častí SK CRIS .
+2.4. Servisná požiadavka je požiadavka, ktorá sa dá zabezpečiť rutinnými alebo dobre definovanými
+postupmi
+2.5. Incident je definovaný ako porucha alebo servisná požiadavka
+2.6. Pod požiadavkou na zmenu sa rozumie doplnenie novej alebo úprava existujúcej funkčnosti častí
+SK CRIS
+2.7. Jeden človekodeň znamená 8 pracovných hodín.
+2.8. Jedna človekohodina je základná časová jednotka pre vykazovanie prácnosti, vyjadruje prácnosť
+realizovanú jedným človekom v rozsahu jednej hodiny, pričom najmenšia účtovateľná čiastka za
+prácnosť podľa tejto zmluvy je 0,5 hodiny (30 minút).
+2.9. Paušál znamená fixný poplatok, hradený objednávateľom dodávateľovi za služby podľa bodu 4.1
+bez ohľadu na ich skutočný rozsah
+
+3. PREDMET ZMLUVY
+Predmetom tejto zmluvy je:
+3.1. Záväzok dodávateľa poskytovať objednávateľovi technickú podporu informačného systému SK
+CRIS, jeho údržbu, servis a úpravy dodávateľským spôsobom (ďalej služby) podľa ustanovení tejto
+zmluvy
+3.2. Záväzok objednávateľa zaplatiť dodávateľovi za vykonané služby v zmysle ustanovení tejto
+zmluvy.
+3.3. Služba nezahŕňa podporu, údržbu a servis technických zariadení, na ktorých je IS SK CRIS
+u objednávateľa prevádzkovaný. Predmetom zmluvy nie je rutinné zálohovanie dát ani ich
+bezpečnosť.
+3.4. Neoddeliteľnú súčasť tejto zmluvy tvorí príloha č. 1 Zmluvy - Určenie poskytovaných služieb
+technickej podpory pre IS SK CRIS.
+
+4. ROZSAH SLUŽIEB A PODMIENKY ICH POSKYTOVANIA
+V rámci plnenia tejto zmluvy budú dodávateľom poskytované služby týkajúce sa všetkých
+komponentov SK CRIS v tomto rozsahu:
+a) Hotline a technická podpora
+b) Manažment incidentov
+
+c) Profylaktika aplikačnej vrstvy
+d) Požiadavka na zmenu (drobný rozvoj)
+
+a) Dodávateľ v rámci požiadavky „Hotline a technická podpora“ :
+-
+
+zabezpečí hotline a technickú podporu pre objednávateľa
+príjem všetkých otázok, požiadaviek a chýb od objednávateľa, ako aj evidenciu, identifikáciu
+a riešenie prijatých otázok, požiadaviek a chýb,
+sa zaväzuje podľa tejto zmluvy poskytovať služby počas pracovných dní okrem štátnych
+sviatkov v časoch od 8:00 hod. do 16:30 hod. Uvedená povinnosť dodávateľa sa vzťahuje na
+všetky služby poskytované v zmysle tejto zmluvy.
+
+b) Manažment incidentov spočíva v tom, že dodávateľ vyrieši incident v stanovenom čase
+a o výsledku servisného zásahu bude dodávateľ bezodkladne informovať objednávateľa.
+Termíny pre odstránenie nahlásených incidentov sa vzťahujú na dobu poskytovania služby v zmysle
+predchádzajúceho bodu a) „Hotline a technická podpora“ a počítajú sa nasledovne:
+i.
+Kategória A – Kritický incident: Dodávateľ je povinný začať práce na riešení kritického
+incidentu najneskôr do 1 hodiny od nahlásenia incidentu. Dodávateľ je povinný pokračovať
+v práci na obnovení služby do okamihu vyriešenia alebo do poskytnutia provizórneho riešenia.
+Dodávateľ je povinný obnoviť službu najneskôr do 8 hodín od prijatia oznámenia incidentu.
+Použitie provizórneho riešenia, ktorým sa eliminuje vplyv incidentu na prevádzku systému
+nezbavuje Dodávateľa povinnosti službu obnoviť.
+ii.
+Kategória B – Podstatný incident: Dodávateľ je povinný začať práce na riešení podstatného
+incidentu najneskôr do 4 hodín od nahlásenia incidentu, Dodávateľ je povinný pokračovať
+v práci na obnovení služby do okamihu vyriešenia alebo do poskytnutia provizórneho riešenia.
+Dodávateľ je povinný obnoviť službu najneskôr do 16 hodín od doručenia oznámenia incidentu.
+Použitie provizórneho riešenia, ktorým sa eliminuje vplyv incidentu na prevádzku systému,
+nezbavuje dodávateľa povinnosti službu obnoviť.
+iii.
+Kategória C – Nepodstatný incident: Dodávateľ je povinný odstrániť príčinu incidentu.
+v rámci pravidelnej plánovanej odstávky, pokiaľ nedôjde k inej dohode.
+c) Profylaktika aplikačnej vrstvy bude realizovaná nasledovne:
+i.
+ii.
+iii.
+
+všetky činnosti budú vykonávané na dennej báze pokiaľ sa nedohodne inak. Dodávateľ bude
+činnosti vykonávať prevažne vzdialeným prístupom,
+v prípade potreby odstávky prevádzky IS pre vykonanie profylaktiky aplikačnej vrstvy, bude
+profylaktika vykonaná v čase, na ktorom sa objednávateľ a dodávateľ vzájomne dohodnú,
+v prípade plánovanej technologickej odstávky bude profylaktika vykonaná v dohodnutom
+rozsahu vyžiadanom objednávateľom.
+
+d) Všetky služby „Požiadavka na zmenu“ poskytované dodávateľom podľa tohto bodu zmluvy sú
+poskytované nad rámec paušálu, podľa bodu 4.2. Nad paušál poskytuje dodávateľ tieto služby iba na
+základe požiadavky objednávateľa za podmienok dohodnutých v tejto zmluve.
+4.1.služby v rozsahu podľa bodu 4 písm. písm. a), b) c) poskytuje dodávateľ v rámci paušálneho
+plnenia 8 človekohodín mesačne. Služby poskytuje dodávateľ odo dňa účinnosti zmluvy po celé
+
+obdobie jej platnosti. V prípade, ak by došlo ku skončeniu zmluvy v priebehu kalendárneho mesiaca,
+cena za paušál sa vypočíta ako alikvotná časť poskytnutých služieb pripadajúca na pracovné dni (do dňa
+skončenia zmluvy).
+4.2. podľa bodu 4 písm. d) poskytuje dodávateľ službu na základe požiadavky zadanej
+
+objednávateľom. Požiadavka na zmenu (drobný rozvoj) je poskytovaná nad paušálne plnenie
+špecifikované v bode 4.1. Rozsah požiadavky bude špecifikovaný po konzultácii medzi objednávateľom
+a dodávateľom.
+
+4.3. Dodávateľ sa zaväzuje poskytovať služby objednávateľovi v rozsahu uvedenom v tejto zmluve za
+dohodnutých podmienok a objednávateľ sa zaväzuje zaplatiť za tieto služby dohodnutú cenu.
+4.4. Služby budú poskytované formou konzultácií, elektronickou poštou, telefonicky alebo osobne,
+formou diaľkovej správy a administrácie systému, v prípade potreby servisným zásahom
+u objednávateľa alebo inde podľa aktuálnej potreby po dohode zmluvných strán.
+4.5. Miesto plnenia na dodávku predmetu tejto zmluvy sú priestory objednávateľa v Bratislave a Žiline,
+prípadne iné miesto určené objednávateľom.
+4.6. Ak nie je v popisoch služieb dohodnuté inak alebo nepríde k dohode objednávateľa s dodávateľom,
+je základná doba pre poskytovanie služieb počas bežnej prevádzky podľa bodu 4 a).
+4.7. Ak povaha poskytovanej služby neumožňuje, aby bola služba vykonaná v čase bežnej prevádzky,
+po vzájomnej dohode zmluvných strán bude služba vykonaná aj v termínoch mimo bežnej prevádzky
+a to aj v dňoch pracovného pokoja alebo voľna, ako aj v nočných hodinách.
+4.8. V prípadoch vzniku havarijného stavu, bez závislosti na tom, z akého dôvodu tento stav vznikol,
+dodávateľ sa zaväzuje uviesť softvérovú časť systému do prevádzkyschopného stavu i v čase mimo
+bežnej prevádzky.
+
+5. OSOBY A SÚČINNOSŤ
+5.1. Objednávateľ je povinný na základe vzájomnej dohody a v rámci bezpečnostných štandardov
+Objednávateľa umožniť pracovníkom dodávateľa lokálny aj diaľkový prístup k dohodnutým
+zariadeniam a prvkom IS SK CRIS prostredia za účelom plnenia podľa zmluvy.
+5.2. Objednávateľ je povinný zabezpečiť potrebnú súčinnosť
+pre činnosti dodávateľa súvisiacich s plnením zmluvy.
+
+svojich
+
+pracovníkov nutnú
+
+Pracovníci objednávateľa sú povinní:
+a) byť dostupní e-mailom, telefonicky, alebo osobne v prípade riešenia problému a/alebo iného
+incidentu alebo požiadavky v súvislosti s poskytovaním služby,
+b) komunikovať dodávateľovi špecifické požiadavky na dostupnosť služby,
+c) spolupracovať pri riešení servisných požiadaviek.
+
+5.3. Objednávateľ je povinný zabezpečiť potrebnú súčinnosť pracovníkov dodávateľov SW aplikácii
+tretích strán, nutnú pre činnosti dodávateľa súvisiacich s plnením zmluvy.
+5.4. Objednávateľ je povinný zabezpečiť spoľahlivú prevádzku prostriedkov internetovej a
+e-mailovej komunikácie, firewall-y iné komponenty, ktoré priamo využíva IS SK CRIS.
+5.5. Objednávateľ nie je zodpovedný za škody a ujmy pracovníkov dodávateľa, ktoré im vzniknú pri
+plneniach v súvislosti s touto zmluvou.
+
+6. CENA
+Cena služieb poskytovaných dodávateľom podľa tejto zmluvy je stanovená na: 19 361,20 € bez DPH.
+6.1. Cena zahŕňa:
+a) podporu a servis IS SK CRIS podľa bodu 4 a), b), c) a v zmysle prílohy č.1 v rozsahu 1 človekodňa
+mesačne (paušál).
+b)- realizáciu požiadaviek na zmenu podľa bodu 4 d) v rozsahu neprekračujúcom cenu služieb spolu
+za práce podľa bodu 6.1.a) aj 6.1.b).
+6.2. Cena za služby je uvedená v eurách (€) a bude fakturovaná podľa bodu 7.
+6.3. Cena servisných i analyticko-programátorských prác podľa bodu 6.1.a), b) bude vo výške 49,90
+€/hod bez DPH.
+
+7. FAKTURÁCIA A PLATOBNÉ PODMIENKY
+7.1. Cenu za poskytnutie paušálnych služieb podľa bodu 4 a, b, c tejto zmluvy ako aj služieb
+poskytnutých na základe požiadaviek podľa bodu 4 d je objednávateľ povinný uhrádzať štvrťročne
+v celku na základe faktúry – účtovného dokladu vystaveného dodávateľom. Právo na zaplatenie
+ceny vznikne uplynutím príslušného štvrťroku, v ktorom bola predmetná služba poskytovaná.
+7.2. Prílohou faktúry je Pracovný výkaz o poskytnutých službách. Faktúra je splatná do 30 dní odo dňa
+jej doručenia objednávateľovi.
+7.3. Daň z pridanej hodnoty sa účtuje v zmysle platných predpisov v deň vystavenia faktúry.
+7.4. Objednávateľ je oprávnený pred uplynutím lehoty splatnosti vrátiť bez zaplatenia faktúru, ktorá
+neobsahuje náležitosti daňového dokladu alebo náležitosti stanovené ďalšími príslušnými právnymi
+predpismi alebo má iné nedostatky v obsahu podľa tejto zmluvy. Vo vrátenej faktúre musí vyznačiť
+dôvod vrátenia. Dodávateľ je v tomto prípade povinný podľa povahy nesprávnosti faktúru opraviť
+alebo nanovo vyhotoviť. Oprávneným vrátením faktúry prestáva plynúť pôvodná lehota splatnosti.
+Lehota splatnosti plynie znovu odo dňa doručenia opravenej alebo nanovo vyhotovenej faktúry
+objednávateľovi.
+
+8. NÁHRADA ŠKODY A ZMLUVNÉ POKUTY
+
+8.1. Dodávateľ neručí za škody vyplývajúce zo straty dát, ušlého zisku, využitia produktov, ani za žiadne
+následné škody vzniknuté v dôsledku neodborného používania systému IS SK CRIS
+objednávateľom.
+8.2. Pokiaľ sa akékoľvek činnosti budú vykonávať v sídle objednávateľa alebo na inom určenom mieste,
+ako aj vzdialeným prístupom k IKT infraštruktúre objednávateľa, zodpovedá dodávateľ za škody
+spôsobené pracovníkmi dodávateľa v plnom rozsahu podľa ustanovení Obchodného a Občianskeho
+zákonníka. Dodávateľ je predovšetkým povinný oboznámiť svojich pracovníkov o spôsoboch
+výkonu činnosti podľa tejto zmluvy, aby nedochádzalo z ich strany k vzniku zodpovednostných
+vzťahov zmluvných ako aj nezmluvných. Dodávateľ zodpovedá za dodržanie predpisov BOZP jeho
+pracovníkmi v sídle objednávateľa.
+8.3. Zmluvné
+strany
+sú
+oprávnené
+účtovať
+zmluvné
+pokuty
+nasledovne:
+a/ za omeškanie dodávateľa s poskytnutím služby (bod 4.1, 4.2 a príloha č. 1) zmluvnú pokutu vo
+výške 100.- EUR za každý deň omeškania. Zaplatením zmluvnej pokuty nezaniká nárok
+objednávateľa na prípadnú náhradu škody.
+b/ za omeškanie objednávateľa s platbou za poskytnuté služby úrok z omeškania vo výške 0,025%
+z nezaplatenej ceny za každý deň omeškania po lehote splatnosti faktúry.
+8.4. Ak niektorá zo strán nedodrží svoje záväzky stanovené touto zmluvou, a v takomto konaní bude
+pokračovať v rozsahu tridsať (30) dní po obdržaní písomného upozornenia na túto skutočnosť
+s odvolaním sa na toto ustanovenie, druhá strana môže odstúpiť od zmluvy celkom, alebo v jej
+jednotlivých častiach bez toho, že by sa tým zbavovala akýchkoľvek iných svojich práv. Toto
+nezbavuje povinnosti zmluvných strán vyrovnať svoje záväzky voči sebe ku dňu ukončenia platnosti
+zmluvy.
+8.5. Dodávateľ nebude zodpovedný za prípadné oneskorenia pri plnení svojich záväzkov podľa tejto
+zmluvy, ktoré sú dôsledkom príčin vzniknutých evidentne mimo možnosti jeho kontroly, výhradne
+z dôvodu vyššej moci brániacej splneniu jeho povinností.
+
+9. TRVANIE ZMLUVY
+9.2. Táto zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami oboch zmluvných
+strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom
+Úradom vlády Slovenskej republiky.
+9.3. Zmluva sa uzatvára na dobu určitú – do vyčerpania zmluvne dohodnutej sumy služieb podľa bodu
+6, najviac však jeden rok.
+9.4. Zmluvu je možné vypovedať kedykoľvek ktoroukoľvek zo zmluvných strán formou písomnej
+výpovede s jednomesačnou výpovednou lehotou, ktorá začína plynúť prvým dňom nasledujúceho
+mesiaca po doručení výpovede druhej zmluvnej strane.
+9.5. Ukončenie zmluvy nezbavuje žiadnu zo zmluvných strán povinnosti vyrovnať záväzky voči druhej
+strane vzniknuté do uplynutia výpovednej lehoty (skončenia zmluvy), vrátane povinnosti
+dodávateľa vrátiť pomernú časť ceny.
+
+10. POVINNOSTI ZMLUVNÝCH STRÁN
+Dodávateľ je povinný :
+
+a) pri poskytovaní služieb v zmysle zmluvy sa riadiť pokynmi a platnými smernicami dodávateľa,
+b) telefonicky, resp. písomne reagovať na každú požiadavku objednávateľa, týkajúcu sa predmetu
+tejto zmluvy. Formou písomne sa rozumie aj email,
+c) plniť jednotlivé služby podľa tejto zmluvy,
+d) informovať objednávateľa o všetkých faktoch, ktoré by mohli negatívne vplývať na predmet
+plnenia tejto zmluvy,
+e) na základe žiadosti objednávateľa zabezpečiť prítomnosť kvalifikovaných špecialistov
+(expertov), ktorá je nevyhnutná pre poskytovanie služieb v dohodnutom mieste plnenia,
+f) všetky osoby poskytujúce služby podľa tejto zmluvy sú zamestnancami dodávateľa, alebo
+dodávateľom povereného subdodávateľa a podliehajú výhradne riadeniu dodávateľa.
+Akékoľvek nároky či požiadavky objednávateľa voči týmto osobám si objednávateľ uplatňuje
+priamo u dodávateľa v plnom rozsahu.
+Objednávateľ je povinný:
+a) zabezpečiť vstup zamestnancov dodávateľa a jeho subdodávateľov do všetkých potrebných
+priestorov objednávateľa a to v rámci obvyklej pracovnej doby v prítomnosti zodpovedného
+zamestnanca objednávateľa s tým, že nenarušia prevádzku IS a ani ostatných systémov
+objednávateľa,
+b) zabezpečiť účinnú ochranu autorských a licenčných práv na dodané plnenie v zmysle zmluvy,
+c) všetky pripomienky, sťažnosti, výhrady, doplnky a pod. týkajúce sa poskytnutých služieb
+odovzdávať písomnou formou, prípadne formou emailu dodávateľovi,
+d) na základe žiadosti dodávateľa zabezpečiť prítomnosť kvalifikovaných špecialistov, ktorá je
+nevyhnutná pre poskytovanie plnení v dohodnutom mieste plnenia,
+e) na základe žiadosti dodávateľa zabezpečiť pre dodávateľa vzdialený prístup k IS a všetkým
+serverom, na ktorých sú tieto IS prevádzkované.
+
+11. MLČANLIVOSŤ A OCHRANA INFORMÁCIÍ
+11.1. Zmluvné strany sa zaväzujú zachovať mlčanlivosť o všetkých skutočnostiach, o ktorých sa
+v súvislosti s plnením tejto Zmluvy dozvedeli alebo im boli sprístupnené, a budú venovať dostatok
+pozornosti tomu, aby zabránili odhaleniu, publikovaniu, rozširovaniu a pod. dôverných informácií
+voči tretím stranám.
+11.2. Ak zmluvná strana poskytne (odovzdá) alebo sprístupní druhej zmluvnej strane informáciu,
+ktorá nie je verejne známou a túto informáciu písomne označí ako dôvernú (ďalej „dôverná
+informácia"), druhá zmluvná strana môže takúto informáciu poskytnúť tretej osobe iba v prípade:
+a) ak to bude potrebné pre plnenie jej povinností zo záväzkového vzťahu z tejto zmluvy, alebo zo
+záväzkového vzťahu vzniknutého v súvislosti s touto zmluvou,
+b) ak to bude potrebné pre výkon jej práv zo záväzkového vzťahu z tejto zmluvy alebo zo
+záväzkového vzťahu vzniknutého v súvislosti s touto zmluvou,
+c) ak na to bude povinná podľa všeobecne záväzného právneho predpisu alebo podľa vykonateľného
+rozhodnutia, opatrenia alebo výzvy príslušného orgánu,
+d) ak to bude potrebné v súdnych, rozhodcovských, správnych a iných obdobných konaniach
+e) ak treťou osobou bude osoba, ktorá vo vzťahu k poskytnutým alebo sprístupneným informáciám
+bude mať zákonom uloženú povinnosť zachovávania mlčanlivosti.
+
+11.3. Za informáciu podliehajúcu ustanoveniam tohto bodu zmluvy nebude považovaná taká
+informácia, ktorá je objednávateľovi známa alebo je verejne dostupná, či bola vyvinutá, alebo
+zákonne získaná od tretej strany bez obmedzenia s jej nakladaním v rámci zmluvy, alebo je
+objednávateľ povinný ju sprístupniť alebo zverejniť podľa zák. č. 211/2000 Z. z. o slobodnom
+prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších predpisov,
+pričom v takomto prípade sa zaväzuje chrániť dôverné informácie a obchodné tajomstvá dodávateľa
+v súlade s platnou právnou úpravou.
+11.4.
+
+Ustanovenie bodu 11.2 o ochrane informácií sa nevzťahuje na text zmluvy.
+
+12. OCHRANA OSOBNÝCH ÚDAJOV (OOÚ)
+12.1 Objednávateľ podľa čl. 28 nariadenia Európskeho parlamentu a Rady (EÚ) č. 2016/679
+o ochrane fyzických osôb pri spracovávaní osobných údajov a o voľnom pohybe takýchto údajov,
+ktorým sa zrušuje smernica 95/46/ES (ďalej len GDPR“) a zákona č. 18/2018 Z. z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 18/2018 Z. z.“) poveruje
+Dodávateľa spracovávaním osobných údajov v mene Objednávateľa:
+a) Predmet spracovávania: Dodávateľ smie vykonávať spracovávanie osobných údajov dotknutých
+osôb prostredníctvom neautomatizovaných prostriedkov spracovávania zo systému SK CRIS.
+b) Účel spracovávania: Účelom spracovávania je nevyhnutnosť riešenia a realizácie konkrétnych
+prípadov poskytovania služieb v zmysle tejto zmluvy.
+c) Typy a zoznam spracovávaných osobných údajov: Na vyššie uvedené účely smie Dodávateľ
+spracovávať nasledovné všeobecné osobné údaje dotknutých osôb: IP adresa, krstné meno,
+priezvisko, tituly, kontaktné údaje (poštová adresa, email, telefón), ID používateľa, pohlavie, dátum
+resp. rok narodenia, zamestnávateľská organizácia.
+d) Doba spracovávania: Dodávateľ smie vykonávať spracovávanie osobných údajov na dobu
+nevyhnutnú pre riešenie a realizáciu jednotlivých prípadov poskytovania služieb v zmysle tejto
+zmluvy, najviac po dobu trvania tejto zmluvy.
+e) Povaha spracovávania: Osobné údaje v systéme SK CRIS sú spracovávané na základe
+nevyhnutnosti splnenia úlohy realizovanej vo verejnom záujme podľa čl. 6 ods. 1 písm. e) GDPR,
+vyplývajúcej i zo Zákona o organizácii štátnej podpory výskumu a vývoja v znení neskorších
+predpisov (najmä § 26 a §26a) a Zákona o stimuloch pre výskum a vývoj.
+f) Kategórie dotknutých osôb: Dotknutými osobami sú používatelia systému SK CRIS, ktorí sú
+registrovaní na portáli SK CRIS, a/alebo osoby, údaje ktorých sú spracované v databáze SK CRIS
+z titulu vyplývajúceho zo Zákona 172/2005 Z.z. o organizácii štátnej podpory výskumu a vývoja
+v znení neskorších predpisov (najmä § 26 a §26a) a Zákona o stimuloch pre výskum a vývoj.
+12.2 Dodávateľ je oprávnený:
+a) zaznamenávanie už získaných údajov na iný nosič informácií a prehliadanie už získaných dát,
+b) spracovávať osobné údaje za účelom vytvárania štatistických zostáv po dohode
+s Objednávateľom,
+c) konať spôsobom, ktorý nie je v rozpore s GDPR, zákonom č. 18/2018 Z. z., ani inými právnymi
+predpismi a ani ich neobchádza.
+Za bezpečnosť poskytnutých osobných údajov zodpovedá Dodávateľ a chráni ich pred odcudzením,
+stratou, poškodením, neoprávneným prístupom, zmenou a rozširovaním. Dodávateľ sa za týmto
+účelom zaväzuje prijať primerané technické, organizačné a personálne opatrenia zodpovedajúce
+spôsobu spracovania osobných údajov.
+12.3
+
+Dodávateľ je povinný:
+
+a) postupovať pri spracovávaní osobných údajov podľa všeobecne záväzných právnych predpisov
+a podľa ďalších písomných pokynov Objednávateľa,
+b) informovať bez zbytočného odkladu Objednávateľa, ak má za to, že sa pokynom Objednávateľa
+porušujú všeobecne záväzné právne predpisy týkajúce sa ochrany osobných údajov,
+c) zachovávať mlčanlivosť o osobných údajoch získaných od Objednávateľa a/alebo s ktorými príde
+do styku, a to aj po skočení poverenia,
+d) spracovávať osobné údaje len na určený účel podľa bodu b) tejto zmluvy,
+e) spracovávať len také osobné údaje, ktoré rozsahom a obsahom zodpovedajú určenému účelu a sú
+nevyhnutné pre jeho dosiahnutie,
+f) spracovávať iba správne, kompletné a aktuálne osobné údaje vo vzťahu k účelu ich spracovávania
+a naložiť s nesprávnymi a nekompletnými osobnými údajmi v súlade so zákonom,
+g) udržiavať osobné údaje získané na rozdielne účely oddelene a zabezpečiť osobné údaje pred
+odcudzením, stratou, poškodením, zničením, neoprávneným prístupom, zmenou a rozširovaním, na
+tento účel prijme primerané technické, organizačné a personálne opatrenia zodpovedajúce spôsobu
+spracovávania osobných údajov,
+h) neposkytovať a nesprístupňovať osobné údaje bez predchádzajúceho písomného súhlasu
+Objednávateľa, okrem prípadov, ak poskytnutie a/alebo sprístupnenie je nevyhnutné na
+zabezpečenie spracovávania osobných údajov podľa tejto zmluvy alebo povinnosť poskytnutia
+a/alebo sprístupnenia osobných údajov vyplýva z osobitných právnych predpisov alebo na základe
+rozhodnutia orgánu verejnej moci,
+i) poskytnúť súčinnosť Objednávateľovi vhodnými technickými a organizačnými opatreniami pri
+plnení jeho povinnosti prijímať opatrenia na základe žiadosti dotknutej osoby pri uplatňovaní jej
+práv,
+j) zlikvidovať osobné údaje dotknutých osôb bezodkladne po dosiahnutí účelu spracovávania
+osobných údajov a zlikvidovať existujúce kópie, ktoré obsahujú osobné údaje dotknutých osôb;
+Objednávateľ je oprávnený žiadať od Dodávateľa potvrdenie o zlikvidovaní osobných údajov
+a Dodávateľ je povinný takejto požiadavke bezodkladne vyhovieť; týmto nie sú dotknuté
+ustanovenia všeobecne záväzných právnych predpisov ukladajúcich Dodávateľovi povinnosti
+uchovávania týchto osobných údajov,
+k) zabezpečiť, že všetky ním určené oprávnené osoby v zmysle OOÚ budú pred spracovávaním
+osobných údajov poučené a zaviazané povinnosťou mlčanlivosti o týchto údajoch, a to aj po zániku
+ich právneho vzťahu k Dodávateľovi,
+l) nahradiť Objednávateľovi škodu, ktorá mu vznikne v dôsledku porušenia tejto zmluvy zo strany
+Dodávateľa,
+m) vymazať bezodkladne po zániku tejto zmluvy všetky dokumenty obsahujúce osobné údaje, ktoré
+Objednávateľ poskytol a vymazať všetky ich kópie; týmto nie sú dotknuté ustanovenia všeobecne
+záväzných právnych predpisov ukladajúcich Dodávateľovi povinnosti uchovávania týchto
+osobných údajov,
+n) vykonať opatrenia podľa ustanovenia čl. 32 GDPR alebo § 39 zákona č. 18/2018 Z. z.,
+o) zdržať sa poverenia spacúvaním osobných údajov dotknutých osôb ďalšieho sprostredkovatela
+(subdodávateľa) v súlade s ustanovením bodu 12.6 tejto zmluvy,
+p) pomáhať Objednávateľovi pri zabezpečovaní plnenia povinností podľa čl. 32 až 36 GDPR alebo §
+39 až 43 zákona č. 18/2018 Z. z. s prihliadnutím na povahu spracovávania osobných údajov
+a informácie dostupné Dodávateľovi,
+q) poskytnúť Objednávateľovi informácie potrebné na preukázanie splnenia povinností ustanovených
+v tejto zmluve a poskytnúť súčinnosť v rámci auditu ochrany osobných údajov a kontroly zo strany
+Objednávateľa alebo audítora, ktorého poveril Objednávateľ,
+r) pri spracovávaní osobných údajov dodržiavať základné zásady spracovávania osobných údajov
+uvedené v kapitole II GDPR alebo v prvej hlave druhej časti zákona č. 18/2018 Z. z.,
+
+s) oznámiť Objednávateľovi porušenie ochrany osobných údajov (podozrenia úniku, straty, zničenia,
+zneužitia alebo iného nenáležitého nakladania s osobnými údajmi) bez zbytočného odkladu po tom,
+ako sa o ňom dozvedel,
+t) viesť záznamy o kategóriách spracovateľských činností, ktoré vykonal v mene Objednávateľa.
+12.4 Dodávateľ je oprávnený spracovávať osobné údaje zo systému SK CRIS len podľa ustanovení
+uvedených v bode 3 a špecifikácií v bode 12.2.
+12.5 Objednávateľ je oprávnený požadovať od Dodávateľa preukázanie splnenia všetkých povinností
+vrátane vykonania všetkých bezpečnostných opatrení na ochranu osobných údajov.
+12.6 Objednávateľ nesúhlasí, aby Dodávateľ spracovával osobné údaje prostredníctvom inej osoby,
+t. j. prostredníctvom subdodávateľa.
+12.7 Zmluvné strany si do siedmich dní od nadobudnutia účinnosti tejto zmluvy písomnou formou
+oznámia mená a kontaktné údaje zamestnancov, ktorí sú oprávnení konať za zmluvnú stranu pri
+plnení úloh vyplývajúcich z čl. 12 tejto zmluvy, tzv. oprávnené osoby v zmysle OOÚ. Prípadnú
+zmenu uvedených údajov si zmluvné strany bezodkladne oznámia e – mailom.
+12.8 Dodávateľ nesmie prenášať osobné údaje do tretích krajín alebo do medzinárodnej organizácie
+bez predchádzajúceho písomného súhlasu Objednávateľa, okrem prenosu na základe osobitného
+predpisu alebo medzinárodnej zmluvy, ktorou je Slovenská republika viazaná; Dodávateľ je pri
+takom prenose povinný oznámiť Objednávateľovi túto požiadavku pred spracovávaním osobných
+údajov, ak osobitný predpis alebo medzinárodná zmluva, ktorou je Slovenská republika viazaná,
+takéto oznámenie nezakazuje z dôvodov verejného záujmu.
+12.9 Dodávateľ berie na vedomie, že pokiaľ poruší GDPR alebo zákon č. 18/2018 Z. z. a sám určí
+účel a prostriedky spracovávania osobných údajov, považuje sa na tento účel za prevádzkovateľa na
+účely legislatívy týkajúcej sa ochrany osobných údajov a nesie rovnakú mieru zodpovednosti ako
+prevádzkovateľ.
+12.10 Dodávateľ je oprávnený spracovávať osobné údaje na základe tejto zmluvy odo dňa
+nadobudnutia jej účinnosti.
+12.11 V súvislosti so spracovávaním osobných údajov sa Objednávateľ zaväzuje poskytovať
+Dodávateľovi správne a aktuálne osobné údaje, tým nie je dotknutá zodpovednosť dotknutých osôb
+za pravdivosť poskytnutých osobných údajov.
+12.12
+
+Objednávateľsa zaväzuje písomné pokyny formulovať zrozumiteľne.
+
+12.13 Objednávateľ sa zaväzuje poskytovať Dodávateľovi potrebnú súčinnosť pri spracovávaní
+osobných údajov.
+
+13. ZÁVEREČNÉ USTANOVENIA
+13.1. Zmluvné strany súhlasia so zverejnením zmluvy, vrátane jej príloh a podpisov osôb
+oprávnených konať za obe zmluvné strany na internete (Centrálny register zmlúv) v súlade
+s platnými právnymi predpismi.
+13.2. Zmluva nadobúda platnosť dňom podpisu oboma Zmluvnými stranami, účinnosť nadobúda
+dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády SR.
+Ak sa Zmluva do troch mesiacov od jej uzavretia nezverejní platí, že k uzavretiu Zmluvy nedošlo.
+Zmluvné strany dávajú svoj výslovný a neodvolateľný súhlas so zverejnením Zmluvy, ako aj
+všetkých potrebných údajov z faktúr vystavených na základe tejto Zmluvy v zmysle zákona č.
+211/2000 Z.z. v platnom znení.
+13.3. Táto zmluva sa riadi právnym poriadkom Slovenskej republiky a miestom prejednávania
+všetkých sporov, ktoré môžu súvisieť s touto zmluvou budú príslušné súdy Slovenskej republiky.
+13.4. Zmluva je vyhotovená v slovenskom jazyku v štyroch vyhotoveniach, pričom každá zo
+Zmluvných strán obdrží po dvoch vyhotoveniach.
+13.5. Zmluvné strany považujú za dôverné všetky informácie, s ktorými prídu do styku v súvislosti
+s plneniami podľa tejto zmluvy. Ukončenie platnosti tejto zmluvy nemá na tento záväzok vplyv.
+13.6. Akékoľvek zmeny, či dodatky tejto zmluvy je možné vykonať len písomne po odsúhlasení
+oboma zmluvnými stranami.
+13.7. Zmluvné strany vyhlasujú, že zmluvu uzavreli slobodne, vážne, jej obsahu porozumeli a na znak
+súhlasu ju podpísali.
+
+dátum: ...................................
+Za dodávateľa:
+
+dátum: ................................
+Za objednávateľa:
+
+...............................................................
+
+........................................................
+
+Ing. Petr Weber
+prokurista
+
+prof. RNDr. Ján Turňa, CSc.,
+generálny riaditeľ
+
+Príloha 1
+Určenie poskytovaných služieb technickej podpory pre IS SK CRIS (ďalej systém)
+-
+
+pravidelné vykonávanie administrácie všetkých SW komponentov,
+diagnostikovanie všetkých SW komponentov systému,
+pravidelné vykonávanie technických a výkonových optimalizácii všetkých SW komponentov
+systému,
+pravidelné vykonávanie profylaktiky pre predchádzanie problémov,
+sústavný monitoring činností jednotlivých modulov systému i funkcionality systému ako celku ,
+definovanie požiadaviek na zálohovanie systému a zálohovanie komponentov (servery, databázy)
+pred plánovanými zásahmi do systému,
+konzultačná činnosť týkajúca sa administrácie a prevádzky systému,
+poradenská služba (hot-line) - elektronickým spôsobom alebo telefonicky ,
+analytická a metodická podpora pri prevádzke,
+konfigurácia a parametrizácia systému,
+analýza zistených chýb v jednotlivých moduloch systému, identifikácia druhu a miesta chyby,
+odstraňovanie zistených chýb v systéme,
+reporting o stave riešenia chýb,
+vykonávanie dohodnutých zmien v systéme ,
+nasadzovanie updatov systému a ich zavedenie, vrátane dokumentácie,
+podpora pri mimoriadnych udalostiach (napr. porušenie integrity systému následkom zlyhania HW),
+vykazovanie prácnosti v človekohodinách v rámci vykonávania technickej podpory podľa bodu
+4 d),
+riešenie štandardných servisných požiadaviek,
+úpravy funkcionalít systému podľa požiadaviek a v rozsahu zmluvných podmienok.
+
+

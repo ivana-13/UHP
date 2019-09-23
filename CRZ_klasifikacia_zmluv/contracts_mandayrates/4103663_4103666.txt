@@ -1,0 +1,567 @@
+Zmluva
+o údržbe a podpore modulárneho akademického informačného systému MAIS
+(ďalej len „zmluva“)
+
+č.: AOS-IX-33/2019
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodného zákonníka v znení
+neskorších predpisov (ďalej len ,,Obchodný zákonník“) medzi zmluvnými stranami:
+
+Akadémia ozbrojených síl generála Milana Rastislava Štefánika
+Sídlo organizácie:
+Demänová 393 031 01 Liptovský Mikuláš
+Zastúpený:
+doc. Ing. Jozef PUTTERA, CSc., rektorom
+IČO:
+37910337
+DIČ:
+2021872083
+bankové spojenie:
+Štátna pokladnica, Bratislava
+č. účtu:
+SK86 8180 0000 0070 0016 6299
+forma hospodárenia: štátna príspevková organizácia
+zriadená:
+zákonom č. 455/2004 Z. z.
+ďalej len ako „Objednávateľ“
+
+a
+
+Sídlo:
+Zastúpený:
+IČO:
+DIČ:
+IČ DPH:
+
+Bankové spojenie:
+Číslo účtu:
+Zapísaný v OR SR:
+
+ITernal, s.r.o.
+Sládkovičova 533/20, 018 41 Dubnica nad Váhom
+Ing. Daniel Koníček, konateľom
+47 991 461
+2024173888
+SK2024173888
+VÚB
+3431870351/0200
+SK0402000000003431870351
+Okresný súd Trenčín, vložka Sro, Oddiel č. 31142/R
+
+ďalej len ako „Poskytovateľ“
+spoločne aj ako „zmluvné strany“
+
+1
+
+1. Predmet zmluvy
+1.1. Predmetom plnenia podľa tejto zmluvy je poskytovanie služieb Poskytovateľa pre
+Objednávateľa, ktoré sa skladá z:
+a) služby štandardnej údržby a podpory systému MAIS, ktorá zahŕňa:
+● úpravy systému MAIS na základe legislatívnych zmien (pozri 2.3.) a zapracovanie
+
+do 2 kalendárnych dní pred dňom nadobudnutia platnosti,
+●
+
+úpravy systému na základe interných zmien (pozri 2.4.) a zapracovanie zmien
+
+● odstraňovanie Objednávateľom zistených systémových chýb a chýb spôsobených
+
+nesprávnym systémovým nastavením nezavineným Objednávateľom,
+● telefonická podpora pre používateľov systému MAIS Objednávateľa v pracovných
+
+dňoch v čase od 9:00 do 15:00 hod.,
+●
+
+elektronická podpora pomocou e-mailu support@mais.sk,
+
+● zaškolenie
+
+používateľov systému
+Objednávateľom a Poskytovateľom,
+
+MAIS
+
+na
+
+základe
+
+dohody
+
+medzi
+
+● pomoc s rekonštrukciou systému MAIS v prípade mimoriadnej živelnej udalosti,
+
+hardvérovej alebo softvérovej poruchy, resp. databázovej havárie systému,
+b)
+
+vývoj nových podsystémov MAIS, ich analýza, nasadenie, nastavenie, testovanie,
+špeciálne úpravy podľa požiadaviek Objednávateľa, integračné rozhrania
+s informačnými systémami, poradenské a konzultačné služby.
+
+1.2. Poskytovanie služieb uvedených v odseku 1.1. písm. b) tohto článku nad rámec
+dohodnutého mesačného plnenia je podmienené vzájomnou dohodou oboch zmluvných
+strán o rozsahu, mieste a čase plnenia a spôsobe financovania týchto služieb. Uvedené
+služby budú poskytované Poskytovateľom výlučne na základe písomnej objednávky
+Objednávateľa a prevzaté Objednávateľom na základe odovzdávacieho a preberacieho
+protokolu, ktorý bude podpísaný zástupcami obidvoch zmluvných strán. Zmluvné strany
+sa dohodli, že ak pri poskytovaní služieb uvedených v odseku 1.1. písm. b) tohto článku,
+bude výsledkom také technické zhodnotenie alebo vylepšenie systému MAIS, ktoré bude
+využívať aj tretia strana, môže si Objednávateľ nárokovať na spoluautorské práva k
+predmetnému technickému zhodnoteniu, resp. vylepšeniu systému MAIS formou
+písomného dodatku ku zmluve o údržbe a podpore systému MAIS.
+
+2
+
+2. Vymedzenie pojmov
+2.1. Systémová chyba je softvérová chyba v module systému MAIS, ktorá znemožňuje
+používateľovi dokončiť požadovanú akciu, na ktorú je tento modul určený.
+a) Systémová chyba má závažnosť Blokujúca, ak sa nachádza v bázovom module (pozri
+Príloha A) a neexistuje alternatívna možnosť dokončiť požadovanú akciu.
+b) Systémová chyba má závažnosť Kritická, ak sa nachádza v bázovom module a
+existuje alternatívna možnosť dokončiť požadovanú akciu alebo ak sa nachádza
+v inom ako bázovom module a neexistuje
+alternatívna možnosť dokončiť
+požadovanú akciu.
+c)
+
+Systémová chyba má závažnosť Závažná, ak sa nachádza v inom ako bázovom module a
+existuje alternatívna možnosť dokončiť požadovanú akciu.
+
+2.2. Človekodeň označuje množstvo práce vykonané 1 pracovníkom za jeden pracovný deň
+v rozsahu 8 pracovných hodín.
+2.3. Legislatívna zmena je zmena v právnom poriadku SR v zmysle §1 a §2 zákona č. 1/1993 Z.
+z. o Zbierke zákonov Slovenskej republiky v znení neskorších predpisov (ďalej „zákon č.
+1/1993 Z. z.“ ). Legislatívne zmeny všeobecne záväzných právnych predpisov sa riadia
+príslušnými ust. zákona č. 1/1993 Z. z. najmä §1 až 4 cit. zákona, upravujúce
+nadobudnutie ich platnosť a účinnosť, pričom platí nevyvrátiteľná právna domnienka
+v zmysle § 2 cit. Zákona.
+2.4. Interná zmena je zmena vo vnútornom poriadku Objednávateľa. Táto zmena musí byť
+oznámená Poskytovateľovi najmenej 55 kalendárnych dní pred účinnosťou
+zmeny. Poskytovateľ si vyhradzuje právo na odmietnutie zapracovania zmeny v prípade,
+že:
+a)
+
+táto zmena spôsobí zmenu hlavného úspešného scenára prípadu použitia
+v niektorom z modulov MAISu,
+
+b)
+
+odhadovaná prácnosť zapracovania zmeny presiahne ročnú sumu predplatených
+človekodní z odseku 3.3. zmluvy.
+
+3. Cena a podmienky plnenia
+3.1. Právo na odmenu za poskytnuté služby vznikne Poskytovateľovi po uplynutí kalendárneho
+mesiaca, v ktorom došlo k poskytnutiu služieb podľa tejto zmluvy.
+
+3
+
+3.2. Cena mesačného poplatku za služby poskytované podľa predmetu plnenia zmluvy (ďalej aj
+„mesačný paušál“) bola dohodnutá na čiastku, ktorá sa vypočíta ako súčet nasledovných
+položiek:
+a) Položka 1, ktorá je stanovená na 100 € bez DPH za služby uvedené v ods. 1.1. písm. a)
+zmluvy.
+b) Položka 2, ktorá je rovná súčinu počtu predplatených človekodní a čiastky 165,83 €
+bez DPH za služby uvedené v ods. 1.1. písm. b) zmluvy.
+3.3. Počet predplatených človekodní v zmysle ods. 3.2. písm. b) tohto článku bol stanovený na
+0 (slovom nula) človekodni/mesiac.
+3.4. Nevyčerpané predplatené človekodni prepadajú bez náhrady a je možné ich presúvať iba
+so súhlasom Poskytovateľa.
+3.5. Cena služieb poskytovaných podľa ods. 1.2 tejto zmluvy bola dohodnutá na čiastku 349 €
+bez DPH za jeden človekodeň.
+3.6. V cenách dohodnutých podľa predchádzajúcich odsekov tohto článku zmluvy sú zahrnuté
+všetky náklady Poskytovateľa.
+
+4. Záväzky zmluvných strán
+4.1. Poskytovateľ sa zaväzuje:
+a)
+
+aktualizovať systém MAIS podľa ods. 1.1. písm. a) a ods. 1.1. písm. b) zmluvy tak, aby
+nebol ohrozený proces výučby a vzdelávania na strane Objednávateľa,
+
+b)
+
+že bude rešpektovať ochranu dát vrátane osobných údajov Objednávateľa,
+neposkytne získané podklady a informácie bez písomného súhlasu Objednávateľa
+tretím osobám,
+
+c)
+
+preukázateľne oboznámi svojich zamestnancov zabezpečujúcich podporu MAIS
+Objednávateľa s príslušnými ustanoveniami zákona
+č. 18/2018 Z. z. o ochrane
+osobných údajov a o zmene a doplnení niektorých zákonov a zabezpečí ich
+dodržiavanie,
+
+d) ku každému prevádzkovanému modulu
+dokumentáciu v elektronickej podobe,
+
+dodá Objednávateľovi používateľskú
+
+e) poskytnúť systémovú príručku (deployment guide),
+f)
+
+komunikovať zapracovávanie požiadaviek Objednávateľa podľa ods. 1.1. zmluvy
+výlučne s kontaktnou osobou Objednávateľa.
+
+4
+
+4.2. Objednávateľ sa zaväzuje, že:
+a) zaplatí Poskytovateľovi cenu za služby spôsobom dohodnutým v tejto zmluve,
+b) umožní prístup zamestnancom Poskytovateľa do vlastných priestorov v nevyhnutnej
+miere potrebnej na dosiahnutie splnenia predmetu tejto zmluvy, zaistí potrebné
+technické a programové prostredie na dosiahnutie plnenia predmetu tejto zmluvy,
+c)
+
+zaistí potrebné kapacity a kvalifikačné predpoklady svojich zamestnancov, potrebné
+k dosiahnutiu plnenia predmetu tejto zmluvy,
+
+d) zaistí riadne a včasné plnenie úloh svojich zamestnancov pri poskytovaní súčinnosti s
+Poskytovateľom,
+e) vykoná všetky dostupné opatrenia na zabezpečenie toho, aby nemohlo prísť k strate
+dát a k iným škodám v súvislosti s vykonávaním predmetu tejto zmluvy,
+f)
+
+zabezpečí Poskytovateľovi bezprostredný prístup k informačnému systému pomocou
+diaľkového prenosu dát a vzdialený prístup cez Internet za účelom údržby, možného
+zistenia problému a jeho včasného vyriešenia, po dobu platnosti tejto zmluvy,
+
+g)
+
+poskytne Poskytovateľovi všetky informácie potrebné pre plnenie predmetu zmluvy,
+
+h) určí kontaktnú osobu, ktorá bude prijímať požiadavky Objednávateľa podľa ods. 1.1.
+zmluvy a ktorá uvedené požiadavky bude komunikovať s Poskytovateľom.
+4.3. Objednávateľ uplatňuje systémové požiadavky vyplývajúce z odseku 1.1. písm. a)
+a odseku 1.1 písm. b) zmluvy u Poskytovateľa na zistené vady a ďalšie nedostatky
+bezprostredne po ich zistení elektronickým systémom hlásenia porúch (ďalej len „systém
+JIRA“), v prípade výpadku systému JIRA alternatívne telefonicky alebo vo forme e-mailu
+uvedeného na stránkach systému MAIS (www.mais.sk).
+
+5. Ďalšie zmluvné dojednania
+5.1. Objednávateľ sa zaväzuje:
+a) uskutočniť primerané opatrenia pre prípad, že dodaný informačný systém MAIS
+nepracuje bezchybne. Primerané opatrenia spočívajú predovšetkým v zálohe dát,
+diagnóze poruchy v súčinnosti s ostatnými dodávateľmi a v pravidelnom preverovaní
+výsledkov,
+b) rešpektovať práva duševného vlastníctva týkajúce sa informačného systému MAIS,
+c)
+
+všetky údaje nahrané v informačnom systéme MAIS denne archivovať,
+
+d) hlásiť systémové chyby v systéme MAIS pomocou systému JIRA a určovať ich
+závažnosť podľa najlepšieho vedomia.
+
+5
+
+5.2. Poskytovateľ sa zaväzuje:
+a) reagovať (t.j. preveriť, potvrdiť závažnosť a po potvrdení začať riešiť) na zadanú
+systémovú chybu so závažnosťou Blokujúca bez zbytočného zdržania, najneskôr však
+nasledujúci pracovný deň po nahlásení problému a odstrániť ju najneskôr do 2
+pracovných dní od potvrdenia problému,
+b) reagovať (t.j. preveriť, potvrdiť závažnosť a po potvrdení začať riešiť) na zadanú
+systémovú chybu so závažnosťou Kritická bez zbytočného zdržania, najneskôr však 2
+pracovné dni po nahlásení problému a odstrániť ju najneskôr do 10 pracovných dní
+od potvrdenia problému,
+c)
+
+reagovať (t.j. preveriť, potvrdiť závažnosť a po potvrdení začať riešiť) na zadanú
+systémovú chybu so závažnosťou Závažná bez zbytočného zdržania, najneskôr však 3
+pracovné dni po nahlásení problému a odstrániť ju najneskôr do 20 pracovných dní
+od potvrdenia problému.
+
+5.3. Zmluvné strany sa dohodli, že v prípade nedodržania podmienok a termínov uvedených
+v tomto článku špecifikovaných v ods. 5.2. zo strany Poskytovateľa a systém nebude
+možné plne využívať pre potreby Objednávateľa, Objednávateľ je oprávnený v danom
+mesiaci znížiť cenu mesačného poplatku definovanú v čl. 3 ods. 3.2. písm. a) zmluvy takto:
+0,37 € plus 20% DPH/365 x počet dní systému v obmedzenom, alebo chybovom režime x
+počet študentov.
+
+6. Platobné podmienky
+6.1. Právo na zaplatenie ceny vzniká Poskytovateľovi riadnym a včasným splnením jeho
+záväzkov v súlade s touto zmluvou.
+6.2. Objednávateľ neposkytuje preddavok alebo zálohu na žiadne plnenie predmetu zmluvy.
+6.3. Splatnosť faktúry je 14 dní odo dňa jej preukázateľného doručenia Objednávateľovi.
+6.4. Faktúra vystavená Poskytovateľom musí obsahovať zmluvne dohodnuté náležitosti, ako aj
+náležitosti v zmysle § 74 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení
+neskorších predpisov (ďalej len ,,zákon o DPH“), najmä:
+a) údaje podľa § 74 zákona o DPH,
+b) číslo faktúry,
+c)
+
+číslo zmluvy vrátane dodatkov,
+
+d) predmet fakturácie,
+e) deň vystavenia faktúry,
+
+6
+
+f)
+
+termín splatnosti faktúry,
+
+g)
+
+dátum dodania materiálu,
+
+h) označenie peňažného ústavu a číslo účtu poskytovateľa, IČO,IČ DPH,
+i)
+
+meno, podpis a telefonické spojenie vystavovateľa faktúry,
+
+j)
+
+forma úhrady,
+
+k)
+
+výška plnenia celkom,
+
+l)
+
+suma k úhrade.
+
+m) potvrdený dodací list, obchodné meno, sídlo, adresu Objednávateľa.
+6.5. Pre prípad, že faktúra nebude obsahovať zmluvne dohodnuté a zákonom o DPH
+stanovené náležitosti, bude vystavená v neúplnom stave, je Objednávateľ oprávnený
+najneskôr do dňa jej splatnosti chybnú faktúru vrátiť Poskytovateľovi na prepracovanie,
+pričom v sprievodnom liste uvedie vady faktúry. Nová lehota splatnosti takto
+prepracovanej faktúry sa riadi ustanovením ods. 6.3 tohto článku, pričom za obdobie do
+splatnosti prepracovanej faktúry nie je Objednávateľ v omeškaní s jej úhradou.
+
+7. Výpoveď zmluvy, odstúpenie od zmluvy
+7.1. Táto zmluva sa uzatvára na dobu neurčitú. Zmluvu je možné vypovedať ktoroukoľvek
+zmluvnou stranou písomnou výpoveďou z akéhokoľvek dôvodu, ako i bez uvedenia
+dôvodu v trojmesačnej výpovednej lehote. Výpovedná lehota začína plynúť prvým dňom
+mesiaca nasledujúcom po mesiaci, v ktorom bola výpoveď doručená druhej zmluvnej
+strane.
+7.2. Zmluvné strany sa dohodli v prípade, že zmluva bude vypovedaná jednostranne
+poskytovateľom, tento je povinný k termínu ukončenia podpory systému poskytnúť
+objednávateľovi zdrojové kódy aktuálnej verzie modulárneho akademického
+informačného systému MAIS.
+7.3. Poskytovateľ je oprávnený odstúpiť od zmluvy v prípade, ak Objednávateľ opakovane
+nedodá potrebné informácie alebo údaje potrebné pre plnenie predmetu zmluvy v zmysle
+čl. 4. ods. 4.2. písm. g) zmluvy, po dobu dlhšiu ako jeden kalendárny mesiac.
+7.4. Objednávateľ je oprávnený jednostranne odstúpiť od zmluvy, ak Poskytovateľ
+nezabezpečí funkčnosť a aktualizáciu odovzdaných modulov v súlade s platnou
+legislatívou ani v termíne do 30 dní po uplynutí lehoty podľa čl. 1. ods. 1.1. písm. a) tejto
+zmluvy alebo nesplní niektorú z povinností podľa čl. 5 ods. 5.2. alebo čl. 4. ods. 4.1. tejto
+zmluvy.
+
+7
+
+7.5. Odstúpenie od zmluvy podľa ods. 7.3. a 7.4. tohto článku zmluvy je účinné, ak písomný
+prejav oprávnenej zmluvnej strany o odstúpení od zmluvy je doručený druhej zmluvnej
+strane.
+7.6. Porušenie zmluvných povinností podľa ods. 7.3 a 7.4 tohto článku sa považuje za
+podstatné porušenie.
+7.7. Zmluvné strany sa dohodli, že zmluvu je možné ukončiť i dohodou zmluvných strán
+v písomnej forme.
+
+8. Záverečné ustanovenia
+8.1. Táto zmluva nadobúda platnosť dňom jej podpisu oprávnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v zmysle § 47a
+zákona č. 40/1964 Zb. Občianskeho zákonníka v znení neskorších predpisov, v spojení s
+§ 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov. Štatutárne orgány zmluvných strán
+podpisom tejto zmluvy vyjadrujú svoj súhlas s jej zverejním v plnom rozsahu.
+8.2. Túto zmluvu možno zmeniť alebo dopĺňať len po dohode oboch zmluvných strán, a to
+písomným dodatkom schváleným a podpísaným oprávnenými zástupcami oboch
+zmluvných strán. Zmluvné strany vylučujú odklon od tejto požiadavky ústnym alebo
+konkludentným spôsobom. Vedľajšie ústne dohody nemajú žiadne právne následky.
+8.3. Zmluvné strany sa zaväzujú, že vyvinú maximálne úsilie a tvorivú spoluprácu na zmluvné
+zabezpečenie predmetu zmluvy. Prípadné spory súvisiace s touto zmluvou vyriešia
+zmluvné strany predovšetkým vzájomným rokovaním na základe vzájomnej dohody.
+8.4. Zmluva je vyhotovená v -troch exemplároch, kde objednávateľ obdrží 2 vyhotovenia
+a poskytovateľ 1 vyhotovenie zmluvy.
+8.5. Vzťahy touto zmluvou výslovne neupravené sa budú riadiť príslušnými ustanoveniami
+Obchodného zákonníka a ostatnými súvisiacimi všeobecne záväznými právnymi predpismi
+Slovenskej republiky.
+8.6. V prípade, ak niektoré ustanovenie tejto zmluvy je alebo sa stane neplatným či
+neúčinným, nedotýka sa to ostatných ustanovení tejto zmluvy, ktoré zostávajú platné
+a účinné. Zmluvné strany sa v takom prípade zaväzujú dodatkom k tejto zmluve nahradiť
+neplatné či neúčinné ustanovenie ustanovením platným či účinným, ktoré čo najlepšie
+zodpovedá pôvodne zamýšľanému účelu ustanovenia neplatného či neúčinného. Do
+uzavretia takého dodatku platí zodpovedajúca právna úprava všeobecne záväzných
+právnych predpisov Slovenskej republiky.
+8
+
+8.7. Neoddeliteľnou súčasťou tejto zmluvy sú prílohy: Príloha A – Zoznam bázových modulov
+MAIS a Príloha B – Zoznam nebázových modulov MAIS.
+8.8. Zmluvné strany prehlasujú, že si zmluvu prečítali, jej obsahu porozumeli a na znak súhlasu
+s jej znením ju vlastnoručne oprávnenými zástupcami zmluvných strán podpísali.
+
+V Liptovskom Mikuláši, dňa .......................
+
+V Dubnici nad Váhom, dňa .........................
+
+Štatutárny orgán Objednávateľa:
+
+Štatutárny orgán Poskytovateľa:
+
+...................................................................
+
+......................................................................
+
+doc. Ing. Jozef PUTTERA, CSc.
+rektor
+
+Ing. Daniel Koníček
+konateľ
+
+9
+
+Príloha A – Zoznam bázových modulov MAIS
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Administrátor – správa používateľov
+Administrátor – správa kôl PaZ
+Administrátor – správa PK
+Administrátor – správa rolí
+Pedagóg – Moje predmety
+Pedagóg – Termíny záverečného hodnotenia
+Pedagóg – Správa predmetov štúdia
+Pedagóg – Správa OŠP
+Pedagóg – Termíny štátnych skúšok
+Pedagóg – Evidencia výsledkov ŠS
+Pedagóg – rozvrh
+Pedagóg – záverečná práca
+Referent – Správa študentov
+Referent – Hromadné vydanie diplomu
+Referent – Hromadné tlače výstupných dokumentov
+Referent – Evidencia prihlášky PK
+Referent – Evidencia rozhodnutia o ne/prijatí
+Referent – preklápanie a zápis študentov
+Referent – hromadné generovanie štipendií
+Referent – termíny prijímacích skúšok
+Referent – správa CRŠ
+Referent – Tlač rozhodnutí o ne/prijatí
+Študent – rozvrh
+Študent – Termín
+Prihlásenie sa do systému
+
+10
+
+Príloha B – Zoznam nebázových modulov MAIS
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Administrátor - správa číselníkov
+Administrátor - správa zamestnancov
+Administrátor - správa duplicitných osôb
+Administrátor - správa akademických rokov
+Administrátor - správa období akademického roku
+Administrátor - ubytovanie
+Administrátor - inventár
+Administrátor - správa noviniek úvodnej stránky
+Administrátor - správa tlačových schém
+Administrátor - systémová administrácia
+Administrátor - správa konfigurácie
+Administrátor - správa premostení
+Administrátor - autotest
+Administrátor - výstupy
+Pedagóg – správa ŠPŠ
+Pedagóg – predzápis a zápis
+Pedagóg – rozvrh pedagóga
+Pedagóg – zadanie záverečnej práce
+Pedagóg – výstupy
+Pedagóg – štatistiky
+Pedagóg – anketa
+Pedagóg – novinky úvodnej stránky
+Referent – novinky úvodnej stránky
+Referent – ubytovanie
+Referent – financovanie ubytovania
+Referent – číselníky
+Referent – osoby
+Referent – hromadné spracovania prihlášok
+Referent – hromadné spracovania uchádzačov
+Referent – správa ÚIPŠ
+Referent – správa prijímacích skúšok
+Referent – evidencia a spracovanie pred/zápisu
+Referent – hromadné spracovanie študijných plánov
+Referent – kontroly štúdia
+Referent – štatistiky
+Referent – obrazovky správy financovania štúdia
+Referent – výstupy
+Študent – anketa
+Študent – ubytovanie
+Študent – financovanie
+Študent – moje predmety
+Študent – Záverečná práca
+11
+
+●
+●
+●
+●
+
+Študent – štipendiá
+Elektronická prihláška
+Verejný portál
+Študent – zápis na predmety
+
+12
+
+

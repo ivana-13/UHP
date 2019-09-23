@@ -1,0 +1,409 @@
+Zmluva o poskytovaní služieb č. Z201767182_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Geodetický a kartografický ústav Bratislava
+Chlumeckého 4, 82745 Bratislava, Slovenská republika
+17316219
+2020838083
+0
+SK8381800000007000062369
++421220816232
+
+Dodávateľ:
+Obchodné meno:
+
+eGroup Solutions, a. s.
+
+Sídlo:
+
+Mlynské Nivy 71, 82105 Bratislava, Slovenská republika
+
+IČO:
+
+44989709
+
+DIČ:
+
+2022913409
+
+IČ DPH:
+
+SK2022913409
+
+Číslo účtu:
+
+SK95 1100 0000 0029 2982 6564
+
+Telefón:
+
+0904178185
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Vytvorenie dohľadového centra pre sledovanie a vyhodnotenie dostupnosti verejne
+publikovaných a interných aplikácií
+
+Kľúčové slová:
+
+dátová podpora, servis a údržba v oblasti informačných technológií, softvér
+
+CPV:
+
+72267100-0 - Údržba programového vybavenia (softvér) informačných technológií;
+72267200-1 - Opravy programového vybavenia (softvér) informačných technológií;
+50324100-3 - Údržba systémov; 72261000-2 - Softvérové podporné služby; 72250000-2 Služby týkajúce sa podpory systému; 72251000-9 - Odstraňovanie porúch; 72266000-7 Softvérové poradenstvo; 72267000-4 - Služby na údržbu a opravu softvéru
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Vytvorenie dohľadového centra pre sledovanie a vyhodnotenie dostupnosti verejne publikovaných
+a interných aplikácií
+
+Funkcia
+Požaduje sa dodávka a implementácia SW dohľadového centra pre účely nepretržitého sledovania a vyhodnocovania
+dostupnosti verejne publikovaných a interných aplikácií Objednávateľa.
+Dodávka licencií (ak sú potrebné) pre min. 60 ks aplikačných serverov typu .NET, IIS, Java, Oracle vrátane operačného
+systému, min. 30 ks databázových systémov typu SQL, vrátane operačných systémov, min. 20 ks sieťových zariadení ethernet
+(s SNMP rozhraním), min. 8 ks sieťových zariadení SAN, min. 6 ks zariadení typu diskové pole (SNMP)
+Podpora implementovaného riešenia na obdobie 12 mesiacov v rozsahu min. 6 človekodní v mieste inštalácie
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Analýza:
+
+analýza štruktúry všetkých publikovaných a interných aplikácií
+(minimálne 60 ks)identifikácia ovládacích prvkov na jednotlivých
+testovaných web stránkachvypracovanie koncepcie monitorovania
+
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+
+Inštalácia a inicializácia:
+
+inštalácia servera a monitorovacieho systémuinštalácia minimálne
+jedného monitorovacieho agenta v rámci verejnej dátovej siete
+
+Inštalácia a inicializácia:
+
+inicializácia monitorovacieho systému (inštalácia a konfigurácia
+nadstavbových modulov)definovanie bezpečnostných pravidiel
+
+Vytvorenie nových metrík:
+
+pre monitorovanie dostupnosti verejných IP pre jednotlivé web
+stránky, pre monitorovanie registrácie domén vo verejnom DNS a
+pre monitorovanie blížiacej sa exspirácie SSL certifikátov
+
+Definovanie pravidiel pre monitorovanie jednotlivých
+Web stránok:
+
+definovanie scenárov pre monitorovanie jednotlivých web stránok
+(minimálne 60 ks),definovanie pravidiel pre monitorovanie
+autentifikácie pre vybrané web stránky
+
+Definovanie pravidiel pre monitorovanie jednotlivých
+Web stránok:
+
+monitorovane ovládacích prvkov na web stránkach (minimálne 60
+ks)
+
+Definovanie monitorovaných objektov:
+
+definovanie objektov pre jednotlivé web stránky (minimálne 60
+ks),definovanie objektov pre web služby (pre DNS záznamy,
+certifikáty)
+
+Definovanie monitorovaných objektov:
+
+definovanie objektov pre internet služby (WAN rozhrania pre
+pripojenie k ISP).
+
+Aplikovanie monitorovacích pravidiel:
+
+aplikovanie monitorovania web stránok a nových metrík pre
+jednotlivé objekty,definovanie korelácií (závislostí web služieb od
+internet služieb)
+
+Aplikovanie monitorovacích pravidiel:
+
+definovanie funkcií (liniek) pre kontextové zobrazenie nameraných
+údajov.
+
+Vytvorenie tematických máp:
+
+pre vizualizovanie stavu jednotlivých web stránok,pre
+vizualizovanie logických závislostí web služieb od internet
+služieb,definovanie privilégií pre jednotlivé tematické pohľady.
+
+Definovanie pravidiel pre hodnotenie dostupnosti
+služieb:
+
+definovanie hierarchického stromu Služieb,definovanie parametrov
+pre hodnotenie SLA,možnosť definovania intervalov plánovanej
+údržby, počas ktorých nebude hodnotené SLA.
+
+Reporting:
+
+definovanie reportu pre zobrazenie dostupnosti jednotlivých web
+služieb,definovanie reportu pre export udalostí z monitorovania
+web stránok,
+
+Reporting:
+
+definovanie reportov pre zobrazenie kvalitatívnych parametrov
+jednotlivých web stránok,definovanie reportov pre zobrazenie
+stavu plnenia SLA.
+
+Optimalizovanie funkcionality:
+
+proaktívne návrhy pre optimalizáciu systému podľa požiadaviek
+Objednávateľa;elektronická a technická pomoc pri riešení
+problémov a otázok, objasnenie dokumentácie,
+
+Optimalizovanie funkcionality:
+
+sprostredkovanie oznámenia o rozšírenej a novej funkčnosti
+produktov a technológií.
+
+Servisná podpora:
+
+požaduje sa evidencia zásahov v slovenskom jazyku na on-line
+portáli HelpDesku Dodávateľa s oddelenými a zabezpečenými
+prístupmi pre pracovníkov Objednávateľa
+
+Servisná podpora:
+
+(minimálne ssl a overovaním menom a heslom), so sledovaním
+statusu, časov otvorenia, prijatia a vyriešenia incidentu, s
+reportingom vykonaných činností a automatickou emailovou
+notifikáciou
+
+Servisná podpora:
+
+na definovaných riešiteľov;incidenty s najvyššou prioritou musia
+byť nahlasované telefonicky na centrálne číslo podpory
+dodávateľa; evidencia eskalačných procedúr pri nedodržaní časov
+reakcie
+
+Servisná podpora:
+
+a vyriešenia incidentu;podpora pri stanovení diagnostiky a
+rýchlejšieho vyriešenia vzniknutého problému, konzultácie pri
+riešení problémov vyskytujúcich sa v aktuálne podporovaných
+produktoch.
+
+Projektové riadenie:
+
+riadenie a koordinácia projektového tímu vo fáze implementácie
+systému ako aj vo fáze pilotnej prevádzky dohľadového systému,
+pravidelné stretnutia pracovnej skupiny.
+
+Ostatné:
+
+web aplikácie / stránky – minimálne v rozsahu 60ks,servre
+virtuálnej infraštruktúry – minimálne v rozsahu 80ks,definovanie
+notifikačných pravidiel,
+
+Ostatné:
+
+definovanie používateľských účtov a ich privilégií,vypracovanie
+používateľskej dokumentácie,zaškolenie.
+Strana 2 z 4
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Odsúhlasenie funkčnosti a odovzdanie dohľadového centra do produkčnej prevádzky musí byť potvrdené Objednávateľom na
+riadnom preberacom protokole.
+Dodávateľ do 3 pracovných dní preukáže minimálne 1 referenciu na dodávku rovnakého alebo podobného predmetu zákazky.
+Písomné prehlásenie (o referenciách/dodávkach) bude obsahovať minimálne nasledovné údaje: stručný opis predmetu
+zákazky, identifikačné a kontaktné údaje na odberateľa predmetu plnenia.
+Dodávateľ do 3 pracovných dní preukáže, že disponuje minimálne jedným vlastným technickým pracovníkom, dedikovaným
+pre účely implementácie a podpory ponúkaného systému, pričom Objednávateľ vyžaduje, aby tento pracovník mal minimálne
+3-ročnú prax s implementáciou a podporou ponúkaného dohľadového systému. Toto Dodávateľ preukáže životopisom
+pracovníka.
+Dodávateľ dodá do 3 pracovných dní vlastný návrh na plnenie predmetu zmluvy s presným označením a popisom ponúkaných
+produktov a činností vrátane kalkulácie ceny podľa zákona NR SR č. 18/1996 Z. z. o cenách v znení neskorších predpisov v
+spojení s vyhláškou MF SR č. 87/1996 Z. z., ktorou sa vykonáva zákon NR SR č. 18/1996 Z. z. o cenách v znení neskorších
+predpisov a vyjadrenej v eurách.
+Dodávateľ je povinný do 3 pracovných dní od uzavretia zmluvy preukázať Objednávateľovi, že je držiteľom certifikátu ISO
+9001 a ISO 27001.
+Dodávateľ je povinný do 3 pracovných dní od uzavretia zmluvy preukázať objednávateľovi, že v oblasti projektového
+manažmentu je držiteľom certifikátu min. ITIL PRINCE2 Practicioner - certifikácia pre riadenie projektových procesov v
+rozsahu min. 1 pracovník.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy preukáže, že je disponuje vlastným systémom na
+nahlasovanie porúch v režime 24x7 v slovenskom jazyku a to minimálne telefonicky, e-mailom s centrálnou adresou
+monitorovanou počas poskytovania podpory.
+Zaškolenie min. 3 osôb v mieste plnenia a to v nevyhnutnom rozsahu na zabezpečenie prevádzkových činností v produkčnej
+prevádzke.
+Nedodržanie ktorejkoľvek podmienky a požiadavky Objednávateľa uvedenej v opisnom formulári sa bude považovať za
+podstatné porušenie zmluvných podmienok.
+Faktúra musí obsahovať označenie, že ide o faktúru, všetky náležitosti podľa čl. XI Všeobecných zmluvných podmienok
+Trhoviska, číslo dodacieho listu, IČO a bankové spojenie oboch zmluvných strán vo formáte ABO, IBAN a BIC/SWIFT/.
+Lehota splatnosti faktúr je 30 (tridsať) dní odo dňa doručenia faktúry Objednávateľovi, pričom za deň splnenia peňažného
+záväzku sa považuje deň odpísania dlžnej sumy z účtu Objednávateľa v prospech účtu Dodávateľa.
+Pokiaľ posledný deň lehoty splatnosti pripadne podľa slovenského kalendára na deň pracovného voľna, pokoja alebo sviatok,
+ako deň splnenia peňažného záväzku bude zmluvným partnerom za rovnako dohodnutých cenových a platobných podmienok
+akceptovaný nasledujúci prvý pracovný deň.
+Bankové poplatky dlžníka znáša dlžník, bankové poplatky veriteľa znáša veriteľ. V prípade porušenia zmluvnej podmienky,
+súvisiacej s úhradou, znáša všetky bankové poplatky tá zmluvná strana, ktorá porušenie zavinila.
+V prípade akéhokoľvek omeškania Dodávateľa s plnením predmetu zmluvy v porovnaní s termínmi uvedenými vo Funkčnej
+špecifikácii a týchto OPNP je Objednávateľ oprávnený fakturovať Dodávateľovi zmluvnú pokutu vo výške 0,05% z celkovej
+ceny predmetu Zmluvy za každý deň omeškania.
+Zaplatením zmluvnej pokuty nie je dotknutý nárok Objednávateľa na náhradu spôsobenej škody v plnom rozsahu.
+V prípade omeškania so splnením peňažného záväzku má veriteľ právo fakturovať dlžníkovi úrok z omeškania vo výške 0,05
+% z dlžnej čiastky za každý, aj začatý deň omeškania. Úrok z omeškania nie je predmetom DPH.
+Lehota splatnosti faktúr, ktorými bola vyúčtovaná zmluvná pokuta a úrok z omeškania je 30 dní odo dňa doručenia faktúry
+druhej zmluvnej strane.
+Objednávateľ požaduje predložiť všetky požadované doklady aj v elektronickej podobe.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+
+Strana 3 z 4
+
+3.2
+
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava II
+
+Obec:
+
+Bratislava - mestská časť Ružinov
+
+Ulica:
+
+Chlumeckého 4
+
+Čas / lehota plnenia zmluvy:
+14.12.2017 14:30:00 - 22.12.2017 14:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+služba
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.2, účinná zo dňa 4.11.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 20 000,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 24 000,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 13.12.2017 09:18:01
+Objednávateľ:
+Geodetický a kartografický ústav Bratislava
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+eGroup Solutions, a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

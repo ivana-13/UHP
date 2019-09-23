@@ -1,0 +1,547 @@
+Kúpna zmluva č. Z201736859_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Kysucká nemocnica s poliklinikou Čadca
+Palárikova 2311, 02216 Čadca, Slovenská republika
+17335469
+2020552083
+SK 2020552083
+SK 69 8180 0000 0070 0047 9818
++421 41 4604490
+
+Dodávateľ:
+Obchodné meno:
+
+TatraMed Software s. r. o.
+
+Sídlo:
+
+Líščie údolie 9, 84104 Bratislava, Slovenská republika
+
+IČO:
+
+47025328
+
+DIČ:
+
+2023706751
+
+IČ DPH:
+
+SK2023706751
+
+Číslo účtu:
+Telefón:
+
++421 2 60202301
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+PACS systém
+
+Kľúčové slová:
+
+DICOM, digitálny elektronický systém, archivácia, vyhodnocovanie digitálnej rádiologickej
+pacientskej obrazovej DICOM dokumentácie
+
+CPV:
+
+33124110-9 - Diagnostické systémy
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• digitálny elektronický systém určený na dôveryhodnú archiváciu, vyhodnocovanie a prenos digitálnej rádiologickej
+pacientskej obrazovej DICOM dokumentácie z nemocníc /polikliník/, diagnostických centier v Slovenskej republike.
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+PACS systém musí byť elektronický systém určený na
+dôveryhodnú archiváciu, vyhodnocovanie a prenos
+digitálnej rádiologickej pacientskej obrazovej DICOM
+dokumentácie z vlastných DICOM kompatibilných
+rádiologických vyšetrovacích prístrojov alebo iných
+DICOM prístrojov v rozsahu SW licencií musí byť pre
+najmenej 10 prístrojov v cene dodávky.
+
+ks
+
+1
+
+PACS systém musí umožňovať prenos digitálnej
+rádiologickej pacientskej obrazovej DICOM
+dokumentácie do/z minimálne 100 nemocníc /polikliník/,
+diagnostických centier v Slovenskej republike.
+Dodávateľ/výrobca kedykoľvek musí poskytnúť
+obstarávateľovi aktuálny zoznam pripojených inštitúcií =
+nemocníc/polikliník/diagnostických centier v Slovenskej
+republike.
+
+ks
+
+1
+
+Strana 1 z 7
+
+Maximum
+
+Presne
+
+PACS systém musí poskytovať zákazníkovi súčasne
+možnosť diagnostiky a plnohodnotného klinického
+zobrazovania digitálnej obrazovej rádiologickej
+dokumentácie pacientov z diaľkovo prenesených DICOM
+rádiologických vyšetrení ako aj vlastných DICOM
+rádiologických vyšetrovacích prístrojov. Licenčný rozsah
+musí byť pre najmenej 100 konkurentne pracujúcich
+používateľov/licencií v cene.
+
+ks
+
+1
+
+PACS systém musí obsahovať súčasne WEB nadstavbu
+pre rýchle a šifrovaním zabezpečené zobrazovanie
+obrazovej dokumentácie z dátového úložiska PACS aj
+pre registrovaných a autentifikovaných lekárov mimo
+nemocničnej siete (LAN) . Zobrazovanie musí byť buď
+na pracovnú stanicu (WS/PC), alebo notebook, alebo
+tablet, alebo smartfóne pre OS Microsoft Windows,
+Windows Phone, Apple OSX a iOS alebo Google
+Android. Licenčný rozsah musí byť najmenej pre 20
+konkurentne pracujúcich lekárov/licencií v cene.
+
+ks
+
+1
+
+PACS systém musí obsahovať súčasne WEB nadstavbu
+pre vytváranie fotodokumentácie pacienta a preukazné
+ukladanie do dátového úložiska PACS systému vo
+formáte DICOM, vrátane podpory SW technológie
+"DICOM Modality Worklist Management". SW aplikácia
+nadstavby musí byť použiteľná na osobných
+zariadeniach so vstavanou kamerou a pre operačné
+systémy Microsoft Windows Phone, Apple iOS alebo
+Google Android a prehliadače Chrome, Safari, Internet
+Explorer, Microsoft Edge. Licenčný rozsah musí byť
+najmenej pre 10 konkurentne pracujúcich
+používateľov/licencií v cene.
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+PACS systém musí zahŕňať aj podporu pre integráciu s
+kompatibilným nemocničným informačným systémom NIS štandardom HL7. PACS systém musí poskytovať a
+musí používať nie inú než DICOM komunikáciu
+medzinárodný komunikačný štandard HL7 (pri
+komunikácii s aplikáciami tretích strán a to obidvoma
+smermi).
+PACS systém musí poskytovať možnosť spracovania
+elektronickej žiadanky, ktorá je generovaná lokálne v
+HL7 a prenášaná cez LAN. PACS systém musí
+poskytovať podporu/funkčnsoť DICOM Modality Work
+List Management.
+DICOM štúdie sa musia systémom PACS sprístupňovať
+a zobrazovať lokálne z LAN z ako aj cez WEB, a
+výrobca musí garantovať štandardnú integráciu s
+podporovaným NIS.
+PACS systém musí poskytovať možnosť ukladania
+digitálnej dokumentácie (popisy, texty, grafy) v pdf
+formáte k vyšetreniu priamo do dátového úložiska.
+PACS systém musí poskytovať
+funkčnosť súčasného volania štúdie a k nej
+prislúchajúceho popisu (napr. vo formáte pdf) a ich
+zobrazenie formou načítania z dátového úložiska.
+PACS systém musí podporovať DICOM MPPS,
+pomocou ktorej RDG modality posielajú detailnejšie
+informácie o vykonaných vyšetreniach (počet
+snímok/obrázkov, dĺžky trvania vyšetrení, začiatky a
+konce vyšetrení RDG modalitou, aktuálny stav
+vyšetrenia, výška radiačnej dávky pacienta). Získané
+údaje z modalít musí byť systém schopný poskytnúť SW
+aplikáciám tretích strán v DICOM, XML alebo HL7
+formáte.
+
+Strana 2 z 7
+
+PACS systém musí umožňovať spájanie štúdií podľa
+definovaných kritérií - Merge štúdií (nie ručným
+prepísaním) na základe HL7 požiadavky. Na základe
+ADT (Admin Discharge Transfer) HL7 správ prijatých od
+aplikácií tretích strán musí byť systém schopný
+vykonávať Merge štúdií, čiže preradenie vyšetrení
+patriacich zadanému pacientovi k záznamom iného
+pacienta.
+Pre konsolidáciu údajov s dátovým úložiskom PACS
+systém musí poskytovať funkcionalitu PIR (Patient
+Information Reconciliation), na základe HL7 požiadavky.
+Na základe ADT (Admin Discharge Transfer) HL7 správ
+prijatých od aplikácií tretích strán musí byť systém
+schopný upravovať informácie o pacientovi
+(demografické údaje pacienta) v uložených štúdiách.
+PACS systém musí umožňovať riadenie prístupu k
+údajom založené na princípe “ROLA používateľa“ s
+jednoznačne definovanými právami prístupu až na
+úroveň jednotlivých údajových položiek.
+PACS systém musí poskytovať funkcionalitu pre
+zasielanie alebo prijímanie štúdií a ich popisov
+zabezpečeným spôsobom do alebo od ostatných
+poskytovateľov zdravotnej starostlivosti (PZS) alebo
+systémov tretích strán a to zabezpečeným spôsobom s
+ochranou pred zneužitím pri prenose. PACS systém
+musí umožňovať jedine/výlučne zabezpečené
+odosielanie a príjem textových správ, dokumentov a
+príloh, s ochranou pred zneužitím pri ich prenose.
+PACS systém musí umožňovať, aby službukonajúci
+laboranti/diagnostikujúci lekári /ošetrujúci lekári mohli
+jednoduchým spôsobom, bez akýchkoľvek
+nadštandardných znalostí IT, odosielať obrazové dáta
+(najmä akútnych) pacientov okamžite, kedykoľvek,
+rýchlo, bez súčinnosti iných osôb, v režime 24x7, v
+akomkoľvek objeme a v pôvodnej kvalite podľa platnej
+normy STN EN 12052:2011(DICOM). Používateľské
+prostredie klientskej aplikácie musí byť uspôsobené pre
+jednoduchú obsluhu zdrav.personálom, formou a
+funkciami blízkou e-mailovým klientom - princíp príjmu
+alebo odoslania pacientskych obrazových dát vr
+Relevantné časti PACS systému určené koncovým
+používateľom (lekári a ostatný zdravotnícky personál)
+musia byť dodané v štátnom jazyku (slovenská
+lokalizácia). PACS systém musí obsahovať elektronický
+manuál v slovenskom jazyku.
+Centrálna časť PACS systému prenosu pacientskych
+obrazových dát musí byť spravovaná a prevádzkovaná
+na vlastnom technickom a programovom vybavení, so
+zabezpečením osobných údajov pred načítaním treťou
+stranou (mimo poskytovateľov zdravotnej starostlivosti odosielateľa a prijímateľa).
+Prenos pacientskych obrazových dát PACS systémom
+medzi Poskytovateľmi zdravotnej starostlivosti nesmie
+vyžadovať od komunikujúcich subjektov vytváranie VPN
+(Virtual Private Network) a nijako nesmie narúšať ich
+bezpečnostné a prípadným firewalom zabezpečené
+pripojenie do verejnej internetovej siete. Komunikačná
+služba musí využívať k výmene dát zákazníkov
+pripojených na Internet štandardne povolené TCP/IP
+porty ako napr. 443, 80. Zabezpečenie prenášaných dát
+musí byť šifrovaním.
+Služba zabezpečujúca komunikáciu medzi
+Poskytovateľmi zdravotnej starostlivosti musí byť
+prevádzkovateľná na operačnom systéme Microsoft
+Windows Vista alebo vyššom, na 32 bitovej alebo na 64
+bitovej platforme. Služba môže byť prevádzkovateľná na
+virtualizovanej platforme VMware ESX 5.5 alebo vyššie.
+
+Strana 3 z 7
+
+PACS systém musí poskytovať zákazníkovi počtom
+neobmedzenú licenciu klientskej aplikácie, k službe
+zabezpečujúcej komunikáciu s Poskytovateľmi
+zdravotnej starostlivosti, pre teoreticky všetky
+zákazníkove pracovné stanice s operačným systémom
+Microsoft Windows XP alebo vyšším (podľa politiky
+zákazníka)
+Softvérové stanice PACS systému určené koncovým
+používateľom (lekári) musia byť schopné zobrazovať
+formáty: Digital Subtract Angiography (DSA), Digitally
+Reconstructed Radiograph (DRR), MultiPlanar
+Reconstruction (MPR), Curved Planar Reconstruction
+(CPR), Maximum Intensity Projection (MIP), Multiframe
+Images a musia byť schopné registrovať a zobrazovať
+multimodalitnú fúziu snímok. Softvérové stanice PACS
+systému určené koncovým používateľom (lekári) musia
+byť schopné zobrazovať synchrónne ECG v
+normalizovanom formáte DICOM ECG/HD.
+Softvérové stanice PACS systému musia umožňovať:
+úpravy jasu, kontrastu, možnosť otáčania obrazu,
+meranie vzdialeností a uhlov a pod. prehrávanie
+(animáciu) sérií snímkov, export DICOM snímkov do
+formátov: .jpeg, .bmp; export serií snímkov v podobe
+filmu vo formáte AVI; možnosť prezerania EKG kriviek
+vo formáte DICOM ECG HD.
+Diaľkový prenos obrazových dát pacientov PACS
+systémom musí byť zabezpečený v zmysle platnej
+legislatívy o ochrane osobných údajov proti
+neoprávnenému sledovaniu/monitorovaniu
+sofistikovaným kryptovaním prenášaných dát, ktoré je pri
+súčasnom výkone VT prakticky neprelomiteľné.
+Po inštalácii PACS systému musí dodávateľ zabezpečiť
+migráciu existujúcich sieťovo dostupných relevantných
+DICOM dát zákazníka do dodávateľom dodávaného
+systému.
+Súčasťou ceny dodávky musí byť aj nakonfigurovanie
+všetkých existujúcich RDG modalít do systému PACS,
+ktoré poskytujú údaje v štandardnom formáte DICOM.
+Napojenie ďalších, neskôr pridaných RDG modalít
+obstarávateľa (až do celkového počtu 10) nesmie
+vyžadovať v budúcnosti žiadne ďalšie licenčné poplatky.
+PACS systém musí obsahovať DICOM interface s
+nasledovnými funkciami: Storage SC, Query/Retrieve
+SC, Verification SC. Systém PACS musí obsahovať
+plnú podporu DICOM Modality Worklist Management
+SC.
+Jadro PACS systému môže byť prevádzkované na
+serveri v plne virtualizovanom prostredí.
+PACS systém musí obsahovať všetky potrebné
+serverové licencie pre podporu modalít: CT, CR, DX,
+ES, MG, MR, RF, XA, XC, US, podporu formátu DICOM
+a príslušné sieťové výstupy.
+PACS systém (jeho serverová časť) musí byť
+manažovateľná diaľkovým prístupom.
+PACS systém musí umožňovať načítanie a uchovávanie
+DICOM dát (v centrálnom dátovom úložisku) získaných z
+pamäťových médií: CD, DVD, USB, SD pamäťovej karty,
+externého HDD – na všetkých pracovných staniciach s
+licenčným kľúčom.
+Softvér pracovnej stanice musí obsahovať možnosť
+prepnutia do dotykového módu ovládania zobrazenia
+pracovnej stanice, ktorý je vhodný pre operačné sály a
+sterilné prostredie.
+
+Strana 4 z 7
+
+Stacionárne pracovné diagnostické a klinické náhľadové
+stanice musia byť klinicky uvoľnené pre funkčnosť v
+operačnom systéme Microsoft Windows XP
+Professional, Vista, 7, 8.1 a 10. (Upozornenie:
+Spoločnosť Microsoft už systém Windows XP
+nepodporuje !)
+Pracovné stanice systému musia podporovať
+Multimodalitnú registráciu MIR a zobrazenia fúzie:
+maskovacie, váhované, zlučovacie, prahové.
+Pracovné stanice systému musia podporovať
+manažment "Hanging protocols". Zabezpečenie
+zrýchlenia včasnej diagnostiky pomocou aplikácie
+softvérovej technológie „Hanging Protocols“ na
+otvárané/prezerané obrazové dáta pacientov.
+Manažment „Hanging Protocols“ musí byť v réžii
+zákazníka s trvalou možnosťou úprav pre jednotlivé
+pracoviská.
+Zákazník musí mať plný administrátorský prístup k
+správe a administrácii PACS systému so súvisiacou
+podrobnou dokumentáciou, aktualizovanou minimálne
+počas celej doby záručnej alebo pozáručnej zmluvnej
+starostlivosti. Súčinnosť dodávateľa ako výrobcu nemusí
+byť k administrácii PACS systému nutná.
+PACS systém - časti určené na diagnostiku pacientov
+musia byť certifikované v triede Ila alebo IIb podľa
+požiadaviek EÚ (MDD 93/42/EEC a 2007/47/EC, EN
+ISO 13485).
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Vrátane inštalácie na mieste plnenia
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 7 dní od uzavretia zmluvy
+Požaduje sa predložiť vlastný návrh na plnenie predmetu zmluvy do 7 dní od uzavretia zmluvy
+Parametre servisnej podpory: a) registrované osoby (správcovia/administrátori) sa musia dovolať na k tomu určené telefónne
+čísla (telefónna linka + mobilný telefón) v režime 9x5 b) začiatok riešenia poruchy diaľkovým prístupom musí byť do 240
+minút elektronickou formou - od času nahlásenia poruchy v pracovných dňoch v čase od 8:00 do 17:00, c) oprava na mieste
+musí byť vykonaná po doručení náhradných dielov výrobcomd) servis musí byť vykonávaný autorizovaným servisným
+technikom výrobcu
+Maximálna doba inštalácie, implementácie a plného sprevádzkovania PACS systému komunikačnej SW časti - prenos, z alebo
+do uvedených minimálne 100 systémov nemocníc/polikliník/diagnostických centier v Slovenskej republike, musí byť
+maximálne 10 dní od času podpísania/právoplatnosti Kúpnej zmluvy. Plná funkčnosť sa musí preukázať náhodným výberom
+(zákazníkom) niekoľkých alebo všetkých inštitúcií na otestovanie prenosov. Dodávateľ musí poskytnúť zákazníkovi na
+požiadanie hocikedy aktuálny zoznam minimálne 100 pripojených nemocníc/polikliník a rádiologických diagnostických centier v
+SR.
+Maximálna doba inštalácie a plného sprevádzkovania PACS systému - používateľskej SW časti - prenos, uchovávanie a
+vyhodnocovanie digitálnej obrazovej rádiologickej dokumentácie pacientov z vlastných rádiologických vyšetrovacích prístrojov
+alebo dokumentačných prístrojov (plne DICOM kompatibilných zdrojov obrazovej dokumentácie) v rozsahu 10 prístrojov musí
+byť 10 dní od času podpísania/právoplatnosti Kúpnej zmluvy a pripravenosti všetkých predmetných RDG prístrojov a ostatných
+relevantných systémov.
+Maximálna doba inštalácie a plného sprevádzkovania PACS systému - všetky SW časti - používateľské aplikácie prenosu,
+uchovávania a diagnostiky digitálnej obrazovej rádiologickej dokumentácie pacientov musí byť maximálne 10 dní od času
+podpísania/právoplatnosti Kúpnej zmluvy a to vrátane školení všetkých aplikácií.
+Inštalácia softvérov PACS systému:Dodávka riešenia musí obsahovať inštaláciu softvérov PACS systému na kompatibilnú
+platformu; odovzdanie všetkých potrebných licencií; komplexnú konfiguráciu systému PACS do prostredia obstarávateľa.
+Migrácia existujúcich DICOM dát:Dodávka riešenia musí obsahovať migráciu existujúcich DICOM dát dostupných po sieti LAN
+štandardným protokolom DICOM. Migrácia musí prebiehať v dohodnutých časoch tak, aby sa minimalizoval vplyv na
+bežnú/dennú prevádzku zákazníka.
+Pripojenie DICOM modalít: dodávka riešenia musí obsahovať pripojenie existujúcich DICOM modalít dostupných po sieti LAN
+štandardným protokolom DICOM v maximálnom rozsahu 10 prístrojov.
+Strana 5 z 7
+
+Doba ukončenia implementácie a dodania Systému PACS: časť - (Prenos, uchovávanie a vyhodnocovanie digitálnej obrazovej
+zdravotnej dokumentácie pacientov) musí byť 9 dní odo dňa účinnosti zmluvy.
+Zaškolenie administrátorov pre rutinnú administráciu, monitoring a analýzu bežných problémov dodaného PACS systému sa
+požaduje minimálne v rozsahu 2h: 1h živá prezentácia + 2h zodpovedanie otázok
+Školenie (základné + pre pokročilých) používateľov dodaného riešenia sa požaduje pre maximálne 2 skupiny používateľov v
+dohodnutých dňoch pre každú zo skupín používateľov, spolu 4 školenia počas 9 dní. Dĺžka jedného školenia by mala byť: 2h
+živá prezentácia + 1h zodpovedanie otázok.
+Používateľský návod musí byť v elektronickej forme v rámci každej používateľskej aplikácie. Administrátor navyše musí dostať
+1 tlačenú podpísanú verziu každého návodu ako aj dátový nosič (USB pamäťový kľúč) s používateľskými návodmi a
+aplikáciami.
+Podpora prevádzky zo strany dodávateľa pre daný stupeň starostlivosti musí byť v režime 8x5 formou "Call center", ktoré musí
+byť prevádzkované dodávateľom/výrobcom v štátnom (slovenskom) jazyku. Telefónna linka aj mobilný telefón (slovenských
+operátorov) pre daný stupeň starostlivosti musí byť v režime 8x5.
+Podpora sa vyžaduje iba pre správcov systému, nie pre bežných používateľov zákazníka („Second line support“) a nesmie byť
+časovo ohraničená (počtom alebo dĺžkou volaní alebo početnosťou elektronickej komunikácie).
+Pravidelnú kontrolu systému musí vykonávať dodávateľ/výrobca minimálne 2x ročne v sídle zákazníka (táto môže byť v rámci
+servisného zásahu) a každý pracovný deň diaľkovým prístupom, ak mu to správca systému povolí.
+Aktualizácia softvérových aplikácií systému musí zahŕňať poskytnutie každej novej verzie, a to vždy do jedného mesiaca po jej
+klinickom uvoľnení. Na základe požiadavky zákazníka vykoná dodávateľ/výrobca zaškolenie v slovenskom jazyku v sídle
+zákazníka pri každej aktualizácii.
+Požadované parametre Podpory systému sú režime 8x5 garantované dodávateľom alebo výrobcom: a) registrované osoby
+(správcovia/administrátori) sa musia dovolať na k tomu určené telefónne čísla (telefónna linka + mobilný telefón) v režime 8x5,
+b) začiatok riešenia poruchy diaľkovým prístupom musí byť do 60 minút elektronickou formou - od času nahlásenia poruchy v
+pracovných dňoch v čase od 8:00 do 16:00, c) v prípade potreby začiatok riešenia poruchy na mieste musí byť do 32 hodín od
+času nahlásenia poruchy v pracovných dňoch v čase od 8:00 do 16:00 hod.
+Za nedodržanie lehoty na zahájenie odstránenia porúch systému sa nebude považovať vyššia moc, najmä vojna, prírodné
+katastrofy, dopravná alebo elektronická nedostupnosť, dopravná kalamita, zrušenie alebo meškanie spojov verejnej
+autobusovej, železničnej alebo leteckej dopravy. Dodávateľ/výrobca musí neodkladne informovať objednávateľa ak taký prípad
+nastane, ak mu to technické prostriedky umožnia.
+V paušálnej cene podpory musia byť zahrnuté všetky cestovné náklady, ako aj práce, náklady na pripojenie a všetky ďalšie
+náklady dodávateľa súvisiace s poskytovaním podpory systému.
+V cene PACS systému musia byť zahrnuté všetky náklady na obdobie 48 mesiacov vrátane počiatočných nákladov, všetkých
+licencií a tak isto aj podpory prevádzky. Počas tohto obdobia nesmú byť dodávateľom PACS systému účtované žiadne ďalšie
+poplatky.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Žilinský
+
+Okres:
+
+Čadca
+
+Obec:
+
+Čadca
+
+Ulica:
+
+Palárikova 2311
+
+Čas / lehota plnenia zmluvy:
+14.08.2017 15:00:00
+
+3.3
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+1,0000
+Strana 6 z 7
+
+3.4
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 40 990,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 49 188,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 03.08.2017 09:38:01
+Objednávateľ:
+Kysucká nemocnica s poliklinikou Čadca
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+TatraMed Software s. r. o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 7 z 7
+
+

@@ -1,0 +1,466 @@
+reg. č. 105/2018/Z
+
+Zabezpečenie technickej podpory a prevádzky informačného systému
+uzavretá podľa § 269 ods. 2 Obchodného zákonníka
+medzi zmluvnými stranami:
+
+Objednávateľ:
+Tlačová agentúra Slovenskej republiky
+Sídlo:
+Dúbravská cesta 14, 841 04 Bratislava
+IČO:
+31320414
+DIČ:
+2020291064
+IČ DPH:
+SK2020291064
+Bankové spojenie:
+Číslo účtu:
+IBAN číslo:
+Zapísaný v obchodnom registri Okresného súdu Bratislava I, oddiel: Po, vložka č.: 37/B
+Zastúpená:
+PhDr. Vladimír Puchala, generálny riaditeľ
+
+(ďalej len „objednávateľ“)
+
+a
+
+Obchodné meno :
+Streamstar, a.s.
+Sídlo:
+Dúbravská cesta 4, 841 04 Bratislava
+IČO:
+47032278
+IČ DPH:
+SK2023715606
+Bankové spojenie:
+Číslo účtu:
+IBAN číslo:
+Zapísaný v obchodnom registri Okresného súdu Bratislava I, oddiel SRo, vložka 5717/B
+Zastúpená:
+Radoslav Tóth, predseda predstavenstva
+
+(ďalej len „poskytovateľ“)
+
+Za účelom dosiahnutia maximálnej dostupnosti portálu www.videoservis.tasr.sk pre užívateľov, objednávateľ
+a poskytovateľ (ďalej ako „zmluvná strana“ alebo jednotlivo ako „zmluvné strany“) uzatvárajú túto Zmluvu
+o zabezpečovaní technickej podpory a prevádzky (ďalej len „zmluva“) v nasledovnom znení:
+
+Článok 1
+ÚVODNÉ USTANOVENIA A PREDMET ZMLUVY
+1.1
+
+Poskytovateľ sa zaväzuje v rozsahu a za podmienok dohodnutých v tejto zmluve poskytovať
+objednávateľovi podpornú servisnú službu a prevádzku (ďalej ako „služba“) pre internetový
+portál www.videoservis.tasr.sk (ďalej ako „portál“), a objednávateľ sa zaväzuje zaplatiť poskytovateľovi
+za poskytovanie týchto služieb dohodnutú odplatu
+
+1.2
+
+Súčasťou služieb podľa tejto zmluvy je:
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+
+nepretržitá telefonická a emailová podpora pre nahlasovanie chýb v čase od 09:00 do 17:00 denne,
+v pracovné dni,
+riešenie a odstránenie chýb, ktoré vzniknú objednávateľovi počas prevádzky portálu,
+zabezpečenie prevádzky a údržby archivačného a distribučného servera
+zabezpečenie a prístup k minimálne 8 TB primárneho úložného priestoru pre dáta
+zabezpečenie a prístup k minimálne 8 TB záložnému úložnému priestoru pre dáta v inej lokalite ako
+primárneho (redundancia)
+zabezpečenie pripojenia portálu a jej súčastí do internetu minimálne rýchlosťou 100 Mbit/s
+zabezpečenie pripojenia portálu a jej súčastí do siete SIX minimálne rýchlosťou 1 Gbit/
+Článok 2
+PODMIENKY POSKYTOVANIA SLUŽBY
+
+2.1
+
+Poskytovateľ sa zaväzuje zabezpečovať telefonickú a emailovú podporu pre nahlasovanie chýb portálu podľa
+tejto zmluvy. Chyby a vady portálu budú oznamovať oprávnené osoby objednávateľa výlučne kontaktnej
+osobe poskytovateľa (ďalej ako „operátor“):
+a)
+b)
+
+2.2
+
+telefonicky na telefónnom čísle:
+emailom na emailovú adresu
+
+0907 785 235
+ivanic@streamstar.com
+
+Každé oznámenie vady alebo chyby portálu nahlásené operátorovi musí obsahovať:
+a)
+b)
+c)
+
+podrobný popis vady,
+podmienky výskytu vady,
+časový údaj o výskyte vád alebo chýb portálu, a
+
+ďalej ako „oznámenie o výskyte chyby“. Každé oznámenie o výskyte vady oznámené objednávateľom
+telefonicky je objednávateľ (prostredníctvom oprávnenej osoby) povinný ihneď po zadaní telefonického
+oznámenia zaslať poskytovateľovi (operátorovi) aj formou emailu na zadanú emailovú adresu. V prípade, ak
+na základe predloženého oznámenia o výskyte chyby nie je možné začať s odstraňovaním vád alebo chýb
+portálu, najmä v dôsledku neúplnosti, nepresnosti alebo nepravdivosti údajov uvedených v oznámení
+o výskyte chyby, na takéto oznámenie o výskyte chyby sa neprihliada a poskytovateľ o tejto skutočnosti
+bezodkladne informuje objednávateľa a požiada ho o poskytnutie súčinnosti a dodatočných údajov
+potrebných pre začatie alebo odstraňovanie chyby.
+2.3
+
+Pre každú chybu prevzatú operátorom je poskytovateľ povinný zabezpečiť zásah na jej odstránenie
+v dobách definovaných v tomto článku podľa závažnosti chyby. Za odstránenie chyby sa považuje aj
+prekvalifikovanie chyby na chybu nižšej závažnosti.
+
+2.4
+
+Poskytovateľ zabezpečí odstránenie vady uvedenej v oznámení o výskyte chyby podľa nasledujúcej
+kategorizácie chýb:
+a)
+b)
+c)
+
+2.5
+
+Kategória A - Fatálna chyba: poskytovateľ odstráni vadu najneskôr do 6 hodín od momentu doručenia
+úplného oznámenia o výskyte chyby formou emailu;
+Kategória B - Vážna chyba: poskytovateľ odstráni vadu najneskôr do 48 hodín od momentu doručenia
+úplného oznámenia o výskyte chyby formou emailu;
+Kategória C - Bežná chyba: poskytovateľ odstráni vadu najneskôr do 96 hodín od momentu doručenia
+úplného oznámenia o výskyte chyby formou emailu.
+
+V prípade, ak riešenie a odstránenie prevzatej chyby nie je možné pre jeho závažnosť vykonať v lehotách
+určených v tomto článku, je poskytovateľ (prostredníctvom operátora) povinný oznámiť kontaktnej osobe
+objednávateľa, ktorá nahlasovala chybu, a to telefonicky alebo mailom túto skutočnosť a dohodnúť s ním
+inú primeranú lehotu.
+
+strana 2 z 6
+
+2.6
+
+Pre vylúčenie akýchkoľvek pochybností, povinnosť poskytovateľa poskytovať službu je podmienená
+správnym používaním a starostlivosťou objednávateľa o portál. Lehoty stanovené touto zmluvou pre
+odstraňovanie chýb sa vzťahujú výlučne na chyby a vady spôsobené prevádzkou systému portálu
+a nevzťahujú sa na chyby a odstraňovanie vád portálu spôsobených:
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+
+2.7
+
+nastavením alebo zmenou nastavenia serverovej infraštruktúry, doménových názvov pripadne DNS
+záznamov,
+nevykonaním úkonov alebo zásahov do portálu odporúčaných poskytovateľom za účelom
+predchádzania opakovaného výskytu chýb a vád portálu,
+nedostupnosťou alebo výpadkov elektrickej siete alebo siete internet,
+externých fyzikálnych vplyvov prostredia, v ktorom je portál používaný,
+nesprávnym používaním, neodborným alebo nekvalifikovaným zásahom do portálu objednávateľom
+alebo treťou stranou,
+poskytnutím neúplných alebo nepresných podkladov, nevhodných pokynov, na splnení ktorých
+objednávateľ napriek upozorneniu trval,
+vyššej moci,
+v dôsledku chybných dát poskytnutých objednávateľom.
+
+V prípade, ak poskytovateľ po doručení oznámenia o výskyte chyby zistí, že ide o chybu alebo vadu portálu
+podľa bodu 2.6 zmluvy, informuje o tejto skutočnosti objednávateľa a poskytovateľ zabezpečí odstránenie
+uvedených chýb až na základe osobitnej dohody zmluvných strán o podmienkach odstránenia takejto vady
+(najmä schválení výšky odmeny a lehoty pre odstránenie takejto chyby).
+Článok 3
+ZMENY PORTÁLU
+
+3.1
+
+Počas trvania tejto zmluvy môže objednávateľ vzniesť požiadavku na zmenu obsahovej alebo funkčnej
+stránky portálu (ďalej ako „zmeny portálu“).
+
+3.2
+
+Na základe požiadavky objednávateľa poskytovateľ pripraví a predloží návrh technického riešenia pre
+požiadavku objednávateľa na zmenu, spolu s odhadovanými nákladmi na realizáciu požiadavky (najmä
+s ohľadom na predpokladaný počet hodín), inými súvisiacimi nákladmi, harmonogramom plnenia a inými
+podmienkami realizácie požiadavky objednávateľa na zmenu. Poskytovateľ sa zaväzuje zabezpečiť realizáciu
+požiadavky objednávateľa na zmenu portálu výlučne po dohode zmluvných strán a schválení podmienok
+realizácie zmeny portálu.
+
+3.3
+
+V prípade, ak súčasťou plnenia zmeny portálu podľa tejto zmluvy je autorské dielo chránené v zmysle
+ustanovení zákona č. 185/2015 Z. z. Autorský zákon, je užívanie autorského diela a udelenie licencie
+predmetom osobitnej licenčnej zmluvy.
+Na odstraňovanie chýb a vád portálu vzniknutých pri realizácii zmien portálu podľa tejto zmluvy sa primerane
+vzťahujú ustanovenia článku 2 tejto zmluvy.
+
+3.4
+
+Článok 4
+SÚČINNOSŤ ZMLUVNÝCH STRÁN
+4.1
+
+4.2
+
+4.3
+
+Objednávateľ je povinný zabezpečiť a poskytnúť povereným osobám poskytovateľa potrebné prístupové
+údaje a súčinnosť potrebnú na plnenie tejto zmluvy, poskytovanie služby a vyriešenie a odstránenie
+prevzatej chyby.
+Objednávateľ sa zaväzuje priebežne informovať poskytovateľa o akýchkoľvek skutočnostiach, ktoré môžu
+mať vplyv na poskytovanie služieb.
+V prípade, ak objednávateľ požadovanú súčinnosť neposkytne, počas doby kým nedôjde k náprave, plynutie
+lehôt uvedených v článku 2 tejto zmluvy sa prerušuje.
+
+strana 3 z 6
+
+Článok 5
+CENA A PLATOBNÉ PODMIENKY
+5.1
+
+Zmluvné strany sa dohodli na paušálnom poplatku za poskytovanie služby a prevádzky systému podľa tejto
+zmluvy na obdobie 36 mesiacov a to vo výške 19 820,- Eur (ďalej ako „poplatok“) bez DPH.
+
+5.2
+
+Poplatok bude splatný na základe faktúr vystavených poskytovateľom v dvoch splátkach takto:
+a)
+
+Prvá splátka vo výške 9 910,- Eur bez DPH je splatná do 15. dní odo dňa účinnosti tejto zmluvy na
+základe faktúry vystavenej poskytovateľom.
+
+b)
+
+Druhá splátka vo výške 9 910,- Eur bez DPH je splatná v 6. mesiaci odo dňa účinnosti zmluvy na
+základe faktúry vystavenej poskytovateľom.
+
+Faktúra poskytovateľa je splatná do 14 dní odo dňa jej vystavenia a doručenia objednávateľovi. Faktúra je
+považovaná za uhradenú okamihom pripísania fakturovanej čiastky na účet poskytovateľa.
+
+5.3
+
+V prípade omeškania objednávateľa s úhradou fakturovanej sumy, má poskytovateľ nárok na úrok z
+omeškania vo výške 0,05 % z neuhradenej časti fakturovanej sumy za každý deň omeškania.
+
+5.4
+
+V prípade omeškania objednávateľa s úhradou fakturovanej sumy o viac ako 14 dní, je poskytovateľ
+oprávnený prerušiť poskytovanie služby a realizáciu plnenia zmien portálu až do momentu úplnej úhrady
+omeškaných platieb.
+
+6.1
+
+Článok 6
+TRVANIE ZMLUVY
+Táto zmluva sa uzatvára na dobu určitú 36 mesiacov odo dňa účinnosti tejto zmluvy.
+
+6.2
+
+Každá zo zmluvných strán je oprávnená od zmluvy odstúpiť v prípade jej podstatného porušenia druhou
+zmluvnou stranou, za predpokladu, že porušujúca zmluvná strana neodstráni závadný stav ani napriek
+písomnej výzve druhej zmluvnej strany v lehote ňou určenej. Súčasťou tejto výzvy bude oznámenie
+odstupujúcej zmluvnej strany, o prejavení vôle odstúpiť od tejto zmluvy, ak druhá zmluvná strana nevykoná
+nápravu v primeranej lehote určenej v písomnej výzve.
+
+6.3
+
+Odstúpenie je účinné dňom nasledujúcim po doručení písomného oznámenia o odstúpení druhej zmluvnej
+strane.
+
+6.4
+
+Túto zmluvu môžu zmluvné strany kedykoľvek ukončiť vzájomnou písomnou dohodou.
+
+Článok 7
+OCHRANA INFORMÁCIÍ
+7.1
+
+Zmluvné strany sú povinné zachovávať mlčanlivosť o dôverných informáciách, ibaže by zo zmluvy alebo
+z príslušných právnych predpisov vyplývalo inak. Za dôverné informácie sa považujú všetky skutočnosti,
+informácie a údaje, ktoré sú uvedené v zmluve, jej prílohách a dodatkoch, ako aj všetky skutočnosti,
+informácie a údaje ktoré sa zmluvné strany dozvedeli v súvislosti s touto zmluvou, jej plnením a rokovaniami
+s ňou súvisiacimi, o ktorých možno rozumne predpokladať, že majú byť považované dôverné a poskytovateľ
+tieto skutočnosti, informácie a údaje ochraňuje pred neoprávneným sprístupnením a použitím.
+
+7.2
+
+Zmluvné strany sa zaväzujú, že dôverné informácie bez predchádzajúceho písomného súhlasu druhej
+zmluvnej strany nevyužijú pre seba a/alebo pre tretie osoby, neposkytnú tretím osobám a ani neumožní
+prístup tretích osôb k dôverným informáciám.
+
+strana 4 z 6
+
+7.3
+
+Povinnosť zachovávať mlčanlivosť o dôverných informáciách sa nevzťahuje na:
+a)
+b)
+c)
+
+d)
+
+e)
+
+informácie, ktoré už sú v deň podpisu zmluvy verejne známe alebo ktoré je možné už v deň podpisu
+zmluvy získať z bežne dostupných informačných prostriedkov;
+informácie, ktoré sa stanú po podpise zmluvy verejne známymi alebo ktoré možno po tomto dni
+získať z bežne dostupných informačných prostriedkov;
+prípady, kedy na základe všeobecne záväzných právnych predpisov alebo na základe povinnosti
+uloženej postupom podľa všeobecne záväzných právnych predpisov je povinnosť poskytnúť dôverné
+informácie. V takom prípade je zmluvná strana povinná informovať druhú zmluvnú stranu o vzniku
+povinnosti poskytnúť dôverné informácie s uvedením rozsahu tejto povinnosti bez zbytočného
+odkladu,
+prípady poskytnutia dôverných informácií profesionálnym poradcom zmluvných strán, spriazneným
+osobám zmluvných strán, pokiaľ taká osoba prevezme na seba povinnosť mlčanlivosti podľa tohto
+ustanovenia;
+použitie potrebných dôverných informácií v prípadoch súdnych, rozhodcovských, správnych alebo
+iných konaniach vedených za účelom uplatňovania práv podľa zmluvy.
+
+Článok 8
+VYŠŠIA MOC
+8.1
+
+Zmluvné strany nezodpovedajú za porušenie svojich povinností podľa tejto zmluvy zapríčinených
+okolnosťami vyššej moci.
+
+8.2
+
+Pre účely tejto zmluvy sa za vyššiu moc považujú prekážky, ktoré nastali nezávisle od vôle povinnej strany
+a bránia jej v plnení jej povinnosti, ak nemožno rozumne predpokladať, že by povinná strana takúto prekážku
+v čase podpisu tejto zmluvy predvídala a že by následky takejto prekážky odvrátila alebo prekonala. Vyššou
+mocou sa na účely tejto zmluvy rozumie, napr. vojna, mobilizácia, povstanie, živelné pohromy, požiar,
+záplavy a iné.
+
+8.3
+
+Ak sa z dôvodu vyššej moci stane plnenie tejto zmluvy nemožným po dobu viac ako troch mesiacov od
+vyskytnutia sa prekážky, zmluvná strana, ktorá sa bude chcieť na predmetnú udalosť odvolať, písomne
+požiada druhú zmluvnú stranu o úpravu zmluvy vo vzťahu k predmetu, k cene a času plnenia. Pokiaľ nepríde
+k dohode v lehote do 30 dní od doručenia písomného požiadania, má ktorákoľvek zmluvná strana, právo od
+tejto zmluvy odstúpiť.
+
+Článok 9
+DORUČOVANIE A KOMUNIKÁCIA
+9.1
+
+Na účely tejto zmluvy zmluvné strany poskytujú nasledovné kontaktné údaje:
+a)
+
+Doručovanie -Objednávateľ:
+Adresa:
+Adresované na vedomie:
+E-mail:
+Telefonický kontakt:
+
+b)
+
+Dúbravská cesta 14, 841 04 Bratislava
+PhDr. Vladimír Puchala
+vladimir.puchala@tasr.sk
+02/59210401
+
+Doručovanie Poskytovateľ:
+Adresa:
+Adresované na vedomie:
+E-mail:
+Telefonický kontakt:
+
+Dúbravská cesta 4, 841 01 Bratislava
+Radoslav Tóth
+toth@streamstar.com
+0911 666 222
+
+strana 5 z 6
+
+c)
+
+Technicky oprávnená osoba - Objednávateľ:
+E-mail:
+Telefonický kontakt:
+
+9.2
+
+rudolf.zenis@tasr.sk
+02/59210332
+
+Pokiaľ nie je v zmluve uvedené inak, všetky oznámenia, vyhlásenia, žiadosti, výzvy a iné úkony v súvislosti
+so zmluvou a jej plnením, musia byť urobené v písomnej forme a doručené na adresu druhej zmluvnej
+strany uvedenú v záhlaví zmluvy, v tomto článku a/alebo na inú adresu, ktorú oznámi táto zmluvná strana.
+Písomnosť sa považuje za doručenú za nasledovných podmienok:
+a)
+
+b)
+
+c)
+
+v prípade osobného doručovania odovzdaním osobe oprávnenej prijímať písomnosti za túto zmluvnú
+stranu a podpisom takej osoby na doručenke a/alebo kópii doručovanej písomnosti, alebo
+odmietnutím prevzatia písomnosti takou osobou;
+v prípade doručovania prostredníctvom Slovenskej pošty, a.s. doručením na adresu zmluvnej strany
+a v prípade doporučenej zásielky odovzdaním písomnosti osobe oprávnenej prijímať písomnosti za
+túto zmluvnú stranu a podpisom takej osoby na doručenke, najneskôr však uplynutím troch (3) dní
+odo dňa uvedeného na podacom lístku, a to bez ohľadu na úspešnosť doručenia;
+v prípade doručovania prostredníctvom faxu a elektronickou poštou okamihom odoslania faxu alebo
+emailu.
+Článok 10
+ZÁVEREČNÉ USTANOVENIA
+
+10.1
+
+Táto zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami zmluvných strán a účinnosť
+dňom jej zverejnenia v centrálnom registri zmlúv SR.
+
+10.2
+
+Právne vzťahy zmluvných strán založené touto zmluvou, ak ich výslovne neupravuje, sa riadia príslušnými
+ustanoveniami upravenými v slovenskom právnom poriadku.
+
+10.3
+
+Akékoľvek zmeny zmluvy je možné vykonať výlučne formou písomných dodatkov podpísaných oboma
+zmluvnými stranami.
+
+10.4
+
+Ak by niektoré ustanovenia zmluvy mali byť neplatnými už v čase jej uzatvorenia, alebo ak sa stanú
+neplatnými neskôr po uzatvorení zmluvy, nie je tým dotknutá platnosť ostatných ustanovení zmluvy.
+Namiesto neplatných ustanovení zmluvy sa použijú ustanovenia Obchodného zákonníka a ostatných
+platných právnych predpisov, ktoré sú obsahom a účelom najbližšie obsahu a účelu zmluvy.
+
+10.5
+
+Vzniknuté spory budú zmluvné strany riešiť predovšetkým rokovaním a dohodou účastníkov zmluvy v dobrej
+viere a s dobrým úmyslom. V prípade, že nedôjde k dohode, budú takéto spory, rozpory alebo nároky
+s konečnou platnosťou vyriešené príslušnými súdmi Slovenskej republiky.
+
+10.6
+
+Zmluva sa vyhotovuje v dvoch (2) rovnopisoch v slovenskom jazyku, každá zmluvná strana obdrží po
+uzatvorení zmluvy po jednom (1) vyhotovení.
+
+Zmluvné strany vyhlasujú, že si túto zmluvu pozorne prečítali, jej obsahu porozumeli a ten predstavuje ich skutočnú
+a slobodnú vôľu zbavenú akéhokoľvek omylu. Svoje prejavy vôle obsiahnuté v tejto zmluve zmluvné strany
+považujú za určité a zrozumiteľné, vyjadrené nie v tiesni a nie za nápadne nevýhodných podmienok. Zmluvným
+stranám nie je známa žiadna okolnosť, ktorá by spôsobovala neplatnosť niektorého z ustanovení tejto zmluvy.
+Zmluvné strany na znak svojho súhlasu s obsahom tejto zmluvy túto zmluvu podpísali.
+V Bratislave, dňa
+
+____________________________
+poskytovateľ
+Rado Tóth
+Streamstar, a.s.
+
+___________________________
+objednávateľ
+PhDr. Vladimír Puchala
+Tlačová agentúra Slovenskej republiky
+
+strana 6 z 6
+
+

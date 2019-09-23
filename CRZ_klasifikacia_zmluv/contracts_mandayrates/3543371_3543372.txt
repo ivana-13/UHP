@@ -1,0 +1,750 @@
+O?
+
+/io
+
+Zmluva o poskytovaní služieb v rámci programu Microsoft CSP
+(ďalej iba „zmluva“)
+uzaWorená podl‘a ust. * 269 ods. 2v spojení s ust. 536 až 565 zákona č. 5 13/1991 Zb. Obchodný
+zákonník v znení neskorších predpisov (d‘alej len „Obchodný zákonník“)
+medzi zmluvnými stranami:
+
+Štátna ochrana prírody Slovenskej republiky
+Sídlo: Tajovského 28B, 974 01 Banská Bystrica, Slovenská Republika
+ICO: 17 058 520
+DIČ: 2021526188
+IČ DPH: 5K2021526188
+Bankové spojenie: Štátna pokladnica
+Císlo účtu.: 7000390899/8180
+IBAN: 5K35 8180 0000 0070 0039 0899
+BIC (SWIFT) kód: SPSRSKBAXXX
+Zastúpená: Ing. Martin Lakanda, generálny riaditel‘
+(d‘alej aj ako „OBJEDNÁVATEr“)
+a
+
+DIGMIA, s.r.o.
+Sídlo: Lazaretská 12, Bratislava, 81108
+
+IČo: 36654132
+DIČ: 2022215217
+IČ DPH: 5K2022215217
+Bankové spojenie: Tatra Banka, a.s.
+Císlo účtu.: 2621754736 / 1100
+IBAN: SKlO 1100 0000 0026 2175 4736
+BIC (SWIFT) kód: TATRSKBX
+Za spoločnost‘ koná: Mgr. Peter Fuska, konatel‘
+Spoločnost‘ je registrovaná v obchodnom registri Okresného súdu Bratislava I, Oddiel Sro, Vložka č.
+41496/B.
+(d‘alej aj ako „POSKYTOVATEĽ“)
+Vo veci technického plnenia zmluvy móžu ďalej jednat‘:
+Za poskytovatel‘a: Michal Kováč, rnichal.kovac(1idimia.com, +421 910 865 320
+Za objednávatel‘a: Ing. Martin Hrušecký, martin.hmsecky(sopsr.sk, +421 911 062 934
+
+Preambula
+Zmluvné strany pristúpili k uzatvoreniu tejto zmhtvy za účelom písomného dohodnutia podmienok
+vzajomnej spolupráce, spočívajúcej v poskytovaní služieb v rozsah ti upravenom a dohodnutom v nej
+nizsie.
+Zmluva sa uzatvára ako výsledok obstarávania v zmysle 117 zákona č. 343ĺ2015 Z. z. o verejnom
+obstarávaní a o zmene a doptnení niektorých zákonov v znení neskorších predpisov (ďalej len ZVO‘)
+na predmet zákaz/cy Poskytovanie e-mailových služieb, migrácia e-mailov a správa e-mailových
+slzižieb vrátane podpory pre koncových užívateľov“ (ďalej aj ako zákazka s nízkou hodnotou“),
+vykonaného Objednávatet‘om (obstarávateľom) v súlade so ZVO.
+Vzájomné vzťahy zmluvných strán sa nadia ustanoveniami ZVO a Obchodného zákonníka.
+„
+
+„
+
+„
+
+Článok 1
+Definícia pojmov
+
+1. Zariadenie predstavuje technologické vybavenie alebo technológiu hardvérovej povahy
+vlastnenú Obj ednávateľom, wátene jeho softvérového vybavenia (firmvéru).
+2. Systém predstavuje informačný systém tvorený Zariadeniami, t.j. technologickým vybavením
+alebo technológiou vlastnenou Obj ednávatel‘om
+3. Softvérová aplikácia je počítačový program alebo systém (programový kód, systémové dáta)
+používané v Zariadení vrátane licencie.
+4. Softvérje súhrnné pomenovanie pre Systém alebo Softvérovú aplikáciu alebo firmvér.
+5. Eardvérje Zariadenie bez Softvém
+6. Aktualizácia Softvéru (Update) znamená súbor opráv a/alebo vylepšení daného Softvéru bez
+zmeny funkcif.
+7. Nová verzia Softvéru (Upgrade) je nová verzia Softvéru s novými a/alebo vylepšenými
+funkciami.
+8. Porucha Zariadenia alebo Systému je stav, funkčnost‘ alebo spósob prevádzky Systému alebo
+Zariadenia alebo ich častí, ktorý sa líši od výrobcom alebo Poskytovatel‘om deklarovaného
+stavu, funkčnosti alebo prevádzky.
+9. Nahlásenie Poruchy je úkon predstavujúci oznámenie o zistení Poruchy, resp. Nedostupnosti
+Primárnej služby aje vykonávaný podl‘a podmienok zmluvy.
+
+10. Incident je kritická alebo vážna Porucha, ktorá bola Nahlásená na riešenie Poskytovatel‘ovi.
+11. Odstránenie Poruchy alebo Vyriešenie Incidentu je úkon, alebo sled úkonov, ktoré sú
+vykonávané za účelom odstránenia Poruchy Zariadenia alalebo Systému a/alebo
+Nedostupnosti Primárnej Služby, a obnovenia riadnej prevádzky.
+
+12. Workaround riešenieje úkon alebo sled úkonov, ktoré zabezpečia aj provizómym spósobom
+dočasne plnohodnotnú funkčnost‘ Systému a/alebo Zariadení a Dostupnost‘ Primárnej Služby.
+13. Primárna Služba predstavuje dostupnost‘ funkcií Systému ajeho všetkých služieb
+a funkčností pre koncového zákazníka Obj ednávatel‘a ako aj pre interných zamestnancov
+Objednávatel‘a a mých používatel‘ov Systému.
+
+14. Dostupnost‘ou Primárnej Služby (SA) sa rozumíe garantovaný podjel doby, v ktorom móže
+používatel‘ v stanovenom období využívat‘ Primárnu Službu v plnom rozsahu bez chýb a
+obmedzení v porovnaní s celkovou dobou stanoveného obdobia. Dostupnost‘ sa vypočíta
+nasledovne:
+SA = {(TS TN) / T$} x 100
+-
+
+(TS a TN v min., SA v %)
+
+TS čas prevádzkovania Primárnej Služby v kalendárnom mesiaci, tj. 30dní
+min=43 200 min.
+—
+
+IN
+
+—
+
+x
+
+24 hod x 60
+
+čas Nedostupnosti Primárnej Služby (v minútach) v kalendárnom mesiaci.
+
+Dostupnost‘ je vyj adrená v % zaokrúhlená na dve desatinné miesta. Pre potreby výpočtu
+Dostupnosti sa do času Nedostupnosti primárnej Služby (TN) nezahnije:
+•
+
+Nedostupnost‘ Primámej Služby spósobená preukázatel‘ne vyššou mocou;
+
+•
+
+Nedostupnosf Primárnej Služby spósobená plánovanými odstávkami;
+
+15. Nedostupnost‘ou Primárnej Služby sa rozumie časový úsek, kedy je Primárna Služba
+obmedzená, prerušená alebo nedostupná, čo má za následok nemožnost‘ úplného používania
+Primámej Služby zo strany používatel‘ov Systému, t.j. znemožnenie resp. st‘aženie používania
+Primárnej Služby obvyklým spósobom.
+
+16. Doba odozvy (alebo aj Reakčná doba) definuje dobu, v ktorej je Poskytovatel‘ povinný začat‘
+nešit‘ (resp. reagovat‘ na) požiadavku Obj ednávatel‘a.
+17. Začiatok riešenia Poruchy, bicidentu na základe požiadavky alebo Objednávky je časový
+okamih, kedy zástupca Poskytovatel‘a prijme informáciu o nej a začne jej riešenie.
+18. Doba riešenia Poruchy, Incidentu na základe požiadavky alebo Objednávky definuje čas
+požadovaný na fyzickú realizáciu riešenia Poruchy, Incidentu na základe požiadavky alebo
+Objednávky od Začiatku riešenia po vyriešenie problému.
+19. Nepretržitá prevádzka predstavuje prevádzku Systému 365 dní v roku, 7 dní v týždni 24
+hodín denne.
+20. Vzdialený prístup predstavuje pripojenie k Zariadeniam a informačným systémom
+prostredníctvom zabezpečeného a kryptovaného komunikačného kanála priamou
+komutovanou linkou alebo prostredfm Internetu (VPN, IPSec), za účelom poskytnutia
+dohodnutého plnenia.
+21. Service Desk predstavuje systém, ktorýje Poskytovatel‘om obvykle všeobecne používaný na
+menežovanie servisných požiadaviek (zadávanie, evidencia, rozpracovanost‘, ukončenie,
+notifikácie a pod.). Prístup do aplikácie Service Desk je zabezpečovaný obvykle na základe
+prístupových práv prostredníctvom WEB prehliadača.
+22. Užívatel‘ská podpora predstavuje podporu pre koncového používatel‘a e-mailovej služby ako
+napríldad.: vzdialené nastavenie e-mail klienta, riešenie problémov s prihlásením do účtu,
+riešenie všeobecných problémov s používaním e-mailovej služby a to telefonicky alebo
+prostredníctvom Vzdialeného prístupu.
+
+23. Systémová podpora predstavuje správu služby exchange online. Rozsah systémovej podpory
+zahíňa vytváran ie, editovanie, mazanie emailových účtov, spravovanie distribučných skupín
+a aliasov, nastavovanie presmerovaní a autoaway podl‘a požiadaviek Objednávatel‘a. Súčasfou
+systémovej podpory je aj konfigurácia bezpečnostných pravidiel pre emailových klientov na
+pracovných stanicíach (Outlook, Microsoft Mail, OSx, Webmail) a mobilných zariadeniach
+(Android, jOS).
+
+Článok2
+Predmet plnenia zmluvy
+1. Predmetom plnenia tejto zmluvy je záväzok Poskytovatel‘a zaistit‘ pre Objednávateľa práva
+prístupu a využívania online služieb a práva k využívaniu inštalácií Microsoft software
+spočívajúci v poskytovaní e-mailových služieb, migrácie e-majby a správe e-mailových
+služieb vrátane podpory pre koncových užívatel‘ov v zmysle špecifikácie uvedenej v Prílohe Č.
+1
+rozsah a ceny a poskytovat‘ k nim záldadnú podporu špecifikovanú v článku 6 tejto
+zmluvy.
+—
+
+2. Pre vymedzenie predmetu plnenia sú záväzné Všeobecné obchodné podmienky Microsoft
+uvedené v príbohe Č. 2 tejto zmluvy uvedené ako „Zmluva Microsoft Cloud Agreement“.
+3. Objednávatel‘ sa zaväzuje Poskytovatel‘ovi za poskytnuté plnenie uhrádzat‘ cenu vo výške,
+v termíne a spósobom stanoveným v tejto zmluve.
+4.
+
+Služby podl‘a odseku 1 tohto článku Poskytovatel‘ poskytuje spravidla prostredníctvom
+Vzdialeného prístupu, vo výnimočných prípadoch v sídle Objednávatel‘a.
+
+5. V prfpade, ak je potrebné službu vykonat‘ fyzicky v mÍeste inštalácie Systému aĺalebo
+Zariadenia u Objednávatel‘a, je Poskytovatel‘ povinný informovat‘ Objednávateľa o potrebe
+fyzického prístupu k Systému alalebo Zariadeniam. Objednávatet‘ zabezpečí Poskytovatel‘ovi
+prístup k Systému a/alebo Zariadeniam podl‘a požiadavky za podmienok, že tým nebude
+obmedzené poskytovanie služieb alatebo prevádzka Objednávatel‘a.
+
+6. 6. Objednávatel‘ sa zaväzuje pri výkone služieb poskytovať potrebnú súčinnosf, poskytnuté
+služby prevziaf a poruchy nahlasovať spósobom určeným v tejto zmluve. Osoby oprávnené
+v mene Objednávatel‘a Nahtasovat‘ Poruchy a incident)‘ podl‘a prílohy Č. 1, Objednávatel‘
+oznámi písomne Poskytovateľovi v lehote piatich (5) dní od podpisu zmluvy.
+Článok 3
+Cena a rozsah plnenia
+1. Cena a rozsah plnenia predmetu tejto zmluvy sú upravené v prílohe Č. I tejto zmluvy. Zmena
+ceny z dóvodu zmeny cien určených spotočnost‘ou Microsoft bude upravená písomnou formou
+a odsúhbasená oboma zmluvnými stranami vo forme dodatku k tejto zmíuve.
+2.
+
+Cena za poskytnuté služby podl‘a zmluvy je stanovená dohodou zmluvných strán v zmysle
+zákona Národnej rady Slovenskej republiky Č. I 8/1996 Z. z. o cenách v znenf neskorších
+predpisov a vyhlášky Ministerstva financií Slovenskej republiky č. 87/1996 Z. z., ktorou sa
+
+vykonáva zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách vznení
+neskoršfch predpisov a predstavuje cenu za jednotlivé položky predmetu tejto zmluvy.
+Celková cena za predmet tejto zmluvy nesmie presiahnut‘ sumu 48.480,00 Eur bez DPH.
+Článok4
+Doba trvania zmluvy
+1. Poskytovatel‘ sa zaväzuje realizovat‘ plnenie predmetu zmluvy podl‘a článku 2 tejto zmluvy po
+dobu 12 mesiacov odo dňa účinnosti tejto zmluvy resp. do vyčerpania fmančného limitu
+v zmysle Čt. 3 bod 2 tejto zmluvy, podl‘a toho, čo nastane skór.
+2. Túto zmluvu je možné predčasne ukončit kedykol‘vek písomnou dohodou zmluvných strán,
+odstúpením od zmluvy v súlade s príslušnými ustanoveniami Obchodného zákoimfka alebo
+výpoved‘ou za podmíenok podl‘a bodu 3 tohto článku zmluvy.
+
+3. Túto zmluvu móže ktorákol‘vek zo zmluvných strán vypovedat‘, a to aj bez udania dóvodu.
+Výpoved‘ si vyžaduje písomnú formu a nadobúda účinnost‘ uplynutím trojmesačnej lehoty
+začínajúcej prvým dňom ka[endámeho mesiaca nasledujúceho po doručení výpovede druhej
+zmluvnej strane. Za činnost‘ riadne uskutočnenú do účinnosti výpovede zo strany
+Objednávatel‘a má Poskytovatel‘ nárok na pomemú čast‘ odmeny zodpovedajúcej splnenému
+predmetu Zmluvy.
+4. Od zmluvy móže zmluvná strana okamžite odstúpit‘ v prípade podstatného porušenia zmluvy
+druhou zmluvnou stranou.
+5. Porušenie zmluvy je podstatné, ak strana porušujúca zmluvu vedela v čase uzavretia zmluvy
+alebo v tomto čase bob rozumné predvídat‘ s prihliadnutím na účel zmluvy, ktorý vyplynul
+zjej obsahu abebo z okolností, za ktorých bola zmluva uzavretá, že druhá zmluvná strana
+nebude mať záujem na plnení povirmostí pri takom porušení zmluvy alebo v prípade, ak tak
+zmluva ustanovuje. Zmluvné strany sa dohodli, že akékol‘vek porušenie zmluvy zo strany
+Poskytovatel‘a sa považuje za podstatné porušenie zmluvy oprávňujúce Objednávatel‘a od
+zmluvy okamžite odstúpit‘.
+
+Článok5
+Platobné podmieuky, omeškania a sankcie
+1. Odmena je splatná na základe faktúr Poskytovatel‘a, ktoré sa Poskytovatel‘ zaväzuje vystavit‘
+vždy mesačne, a to podl‘a rozsahu výkonov reálne uskutočnených v predchádzajúcom
+kalendámom mesiaci.
+2. Splatnost‘ faktúr bude 30 dní odo dňa ich vystavenia. Faktúra
+daňový doklad musí
+obsahovat‘ všetky náležitosti stanovené v zákone č. 222/2004 Z. z. o daní z pridanej hodnoty
+v znení neskorších predpisov, príp. mých právnych predpisoch stanovuj úcich náležitosti
+daňového dokladu. Ak faktúra nebude obsahovat‘ stanovené náležitosti alebo v nej nebudú
+správne uvedené údaje, je Objednávatel‘ oprávnený vrátit‘ ju v lehote desiatich dní od jej
+doručenia Poskytovatel‘ovi s uvedením chýbajúcich náležitostí alebo nesprávnych údajov.
+V takom prípade nová lehota splatnosti začne plynút‘ doručením opravenej faktúry. V prípade,
+že Obj ednávatel‘ vráti faktúru bezdóvodne, napriek tornu, že faktúra je správa a predpísané
+náležitosti obsahuje, lehota splatnosti sa nezastaví ani nepreruší, a pokial‘ Objednávatel‘
+faktúru nezaplatí v póvodnej lehote splatnosti je v omeškaní.
+—
+
+3. V prípade omeškania platby Objednávatel‘a má Poskytovatel‘ právo na úrok z omeškania
+podl‘a nariadenia vlády Stovenskej republiky č. 2 1/2013 Z. z., ktorým sa vykonávajú niektoré
+ustanovenia Obchodného zákonníka v znení neskorších predpisov.
+4. Každý z peňažných záväzkov Objednávatel‘a bude platený prostredníctvom banky a ako taký
+bude splnený odpísaním sumy peňažného záväzku (vrátane DPH) z účtu Objednávatel‘a
+v prospech účtu Poskytovatel‘a uvedeného v záhlaví tejto zmluvy.
+Článok 6
+Podpora
+1. Poskytovatel‘ sa zaväzuje realizovat‘ Systémovú Podporu a Užívatel‘skú Podporu k aktuálnemu
+rozsahu poskytovaných Microsoft online služieb bližšie špecifikovaných v Prílohe č. I
+písm. A zmluvy.
+Systémová Podpora je poskytovaná na základe požiadaviek špeciftkovaných a doručených na
+mail: hotline(digrnia.com
+Užívatel‘ská Podporaje poskytovaná na základe požiadaviek špecifikovaných a doručených na
+mail: sopsr(dimia.com
+2. Poskytovatel‘ je povinný vykonávat‘ podporu podl‘a tejto zmluvy v stanovenom rozsahu a v
+čase podl‘a Prílohy č.1 zmluvy.
+3. Poskytovatel‘ je povinný pri plneni predmetu tejto zmluvy postupovať zodpovedne, s
+odbornou starostlivost‘ou prostredníctvom riadne kvalifikovaných pracovníkov pre plnenie
+predmetu tejto zmluvy s využitím všetkých svoj ich teoretických znalostí a praktických
+skúseností s ciel‘om chránit‘ oprávnené záujmy, dobré meno a povest‘ Objednávatel‘a.
+4. Poskytovatel‘ nie je zodpovedný za nesptnenie svojich povinností podl‘a zmluvy, ak ich
+nemohol splnit v dósledku okolností vyššej moci, ktoré mu znemožnili uskutočnit‘ podporu,
+alebo v dósledku skutočností, že Objednávatel‘ počas vykonávania podpory nedodržal svoje
+povinnosti podľa čl. 8 zmluvy. Poskytovatel‘ tiež nie je zodpovedný za plnenie dojednaných
+terminov v prípadoch, kedy nastanú prekážky na strane Objednávatel‘a, Poskytovatel‘a alebo
+tretích osób, ktoré Poskytovatel‘ nedokázal predvídat ani nijakým spósobom priamo
+ovplyvnit‘, spósobené napr.:
+-
+
+-
+
+-
+
+-
+
+-
+
+poruchou hardvérového vybavenia Objednávatel‘a
+poruchou pripojenia do siete internet, resp. mého prostriedku vzdialenej správy na strane
+Objednávatel‘a, Poskytovatel‘a, alebo tretej osoby spósobeného poskytovatel‘om
+internetového pňpojenia, resp. mého prostriedku vzdialenej správy, ktoré nie je
+predmetom plnenia zmluvy.
+poruchou dodávok elektrickej energie,
+okolnostami vyššej moci (vis major),
+mými okolnost‘ami vylučujúcimi zodpovednost‘.
+
+5. Pri vzniku nepredvídatel‘ných okolností, resp. skutočnostf, ktoré spósobila tretía strana
+a Poskytovatel‘ ani Objednávatel‘ nemajú dosah na odstránenie týchto okolností, je možné po
+vzájomnej dohode stanovit‘ mé termíny odstránenia výpadku, ako je definované v tejto
+zmluve. Poskytovatel‘ v takom prfpade nie je povinný dodržat‘ termíny dohodnuté v tejto
+zmluve.
+
+6. Poskytovatel‘ je oprávnený poverit‘ vykonaním Systémovej podpory podl‘a zmluvy tretiu
+stranu. Pri vykonávaní Systémovej podpory tret‘ou stranou je Poskytovatel‘ zodpovedný,
+akoby činnosti vykonával sám. Zoznam Subdodávatel‘ov tvorí prílohu Č. 3 tejto zmhwy.
+Článok7
+Ostatné zmluvné dojednania
+
+1.
+
+Obj ednávatel‘ je povinný poskytnút‘ Poskytovatel‘ovi všetku súčinnost‘ nevylmutne potrebnú
+na vykonávanie služieb podl‘a zmluvy, a to najmä vykonaním, resp. zabezpečením
+nasledovných činností:
+-
+
+-
+
+-
+
+-
+
+zasielanie požiadaviek elektronickou formou zmluvne dojednaným spósobom,
+poskytnutie informácie o štruktúre počítačovej siete v ktorej sú Zariadenia pripojené,
+poskytnutie informácie o fyzickom umiestnení Zariadenia,
+poskytnutie všetkých informácif a pokynov, ktoré sú potrebné pre riadne splnenie
+záväzkov Poskytovatel‘a,
+v prípade poruchy alebo výpadku poskytnutie všetkých dostupných informácií o
+závadách a spolupósobenie pri ich odstránení v zmysle tejto zmluvy,
+
+-
+
+poskytnutie kontaktu na správcov Zariadení a informácií o podmienkach správy
+Zariadent
+
+2.
+
+Objednávatel‘ je povinný zabezpečit‘ Poskytovatel‘ovi Vzdialené prfstupy k Zariadeniam
+a Systémom, pre ktoré vykonáva služby podl‘a zmluvy za podmienok stanovených niternými
+predpismi Obj ednávatel‘a.
+
+3.
+
+Objednávatel‘ sa zaväzuje bez zbytočného odkladu, najneskór však do S dní písomne oznámit‘
+Poskytovatel‘ovi každú zmenu kontaktných tetefónnych čísiel, e-mailových adries a mien
+zodpovedných osób uvedených v Prítohe Č. I zmluvy bez potreby uzatvorenia dodatku k tejto
+zmluve.
+
+4.
+
+Objednávatel‘ prijme všetky potrebné opatrenia, aby zabránil prístupu neoprávnených osób na
+miesta, kde sú nainštalované a prevádzkované Zariadenia a tiež, aby zabránil akémukol‘vek
+neoprávnenému vzdialenému prístupu k Systémom a Zariadeniam.
+
+5.
+
+Obj ednávatel‘ sa zaväzuje, že vykoná preventívne a opravné zásahy dóvodne odporúčané
+Poskytovatet‘om vrátane opatrenf potrebných na ocbranu a bezpečnosť údajov.
+
+6.
+
+Objednávatel‘ je povinný zabezpečit‘ bezodkladný vstup pracovníkov Poskytovatel‘a do areálu
+Obj ednávatel‘a a bezodkladný a dostatočný prístup k Zariadeniam vyžaduj úcim riešenie
+Poruchy, bwidentu a vykonanie Systémovej podpory v režime 24 hodín denne, 7 dní v týždni,
+365 dní vroku.
+
+7. Obj ednávatel‘je povinný zabezpečit‘ pre prevádzku Zariadenia ňadne prevádzkové podinienky
+podl‘a originálnej technickej dokumentácie, najmú pracovnú teplotu, bezprašnost‘, rel. vlhkost‘
+a kvalitu napájacej elektňckej siete.
+8.
+
+Poskytovatel‘ je povinný pri výkone Systémovej podpory podl‘a tejto zniluvy rešpektovať
+všetky zákony, nariadenia, povolenia, dohody, registrácie, licencie a schválenia požadované
+kompetentnými úradmi za účelom plnenia povinností podl‘a tejto zmluvy.
+
+9. Poskytovatel‘ je povinný dodržiavat‘ všetky pravidlá, nariadenia a bezpečnostné opatrenia
+platné v pňestoroch Objednávatel‘a ako aj pravidlá, nariadenia a bezpečnostné opatrenia pre
+inforinačné systémy a Vzdialený prístup k nim podl‘a toho, ako ich Obj ednávatel‘ vydá.
+10. Objednávatel‘ je povinný o pravidtách, nariadeniach a bezpečnostných opatreniach v zmysle
+bodu 9. tejto zmluvy Poskytovatel‘a riadne a preukázateľne informovat.
+11. Poskytovatel‘ zodpovedá za kvalitu a prípadné vady poskytnutých služieb počas trvania tejto
+zmluvy.
+Článok8
+Vyššia moc
+1. Žiadna zo zmluvných strán nebude zodpovedná za oneskorenie plnenia alebo nesplnenie
+akýchkol‘vek povinností z tejto zmluvy vyplývajúcich, pokial‘ také oneskorenie alebo
+nesplnenie bude spósobené udalosťou vyššej moci, na ktorú príslušná zmluvná strana nemala
+možnost‘ vplývat a ktorej nemohla zabránit‘. Zmluvná strana, ktorá takto oneskorene splní
+alebo nesplní svoje povinnosti, bude však povinná vynaložit‘ všetko primerané úsilie na
+zabránenie takej udalosti alebo zmiemenie jej následkov, a znížif oneskorenie pri plnení
+svoj ich povinností.
+2. Pre účely tejto zmluvy sa za vyššiu moc považujú udalosti, ktoré nie sú závislé od konania
+zmluvných strán, a ktoré nemóžu zmluvné strany ani predvídat‘ ani nijakým spósobom priamo
+ovplyvnit‘, a to najmä, ale nie výlučne: vojna, mobilízácia, povstanie, živelné pohromy,
+extrémne poveternostné vplyvy, požiare, embargo, karantény, atd‘.
+
+Článok 9
+Doručovanie
+
+1. Zmluvné strany sa dohodli, že písomná komunikácia podl‘a tejto zmluvy alebo v súvislosti
+s touto zmluvou sa bude doručovat‘ doporučene poštou, tretou osobou oprávnenou doručovat
+zásielky alebo osobne na adresu uvedenú v záhlaví tejto zmluvy alebo na inú adresu písomne
+oznámenú druhej zmluvnej strane počas trvania tejto zmluvy, formou e-mailu, pri bežnej
+komunikácii zaslanfm spätného potvrdzujúceho e-mailu príjemcom, pričom za spätný
+potvrdzujúci e-mail príjemcu sa nepovažuje správa automaticky vygenerovaná systémom
+alebo faxom.
+2. Za deň doručenia sa považuje deň prevzatia pfsomnosti. V prípade, ak adresát odmietne
+písomnost‘ prevziat‘, za deň doručenia sa považuje deň odmietnutia prevzatia písomnosti.
+V prfpade, ak si adresát neprevezme písomnost v úložnej lehote na pošte, písomnost‘ sa
+považuje za doručenú v lehote 3 dní od jej vrátenia odosielatel‘ovi, a to aj vtedy, ak sa adresát
+
+o tom nedozvie. V prípade, ak sa písomnost‘ vráti odosielatei‘ovi s označením pošty „adresát
+neznámy“ aiebo „adresát sa odst‘ahoval“ alebo inou poznámkou podobného významu, za deň
+doručenia sa považuje deň vrátenia zásieiky odosieiatei‘ovi.
+Článok 10
+Záverečné ustaaovenia
+
+1. Táto Zmiuva sa uzatvára na dobu určitú, a to na 12 mesiacov odo dňa nadobudnutia jej
+účinnosti alebo do vyčerpania finančného timitu uvedeného v či. 3 bod 2 tejto zmiuvy, podi‘a
+toho ktorá skutočnost‘ nastane skór.
+2. Táto zmluva je vyhotovená v štyroch rovnopisoch v slovenskom jazyku, pričom každá zo
+zmluvných strán obdrží 2 rovnopisy.
+3. Neoddelitei‘nou súčast‘ou tejto zmiuvy sújej Prílohy:
+a. Príloha 1
+
+—
+
+špecifkácia predmetu plnenia
+
+b. Príloha 2— Zmluva Microsoft Cloud Agreement
+c. Príloha 3
+
+—
+
+Zoznam subdodávatei‘ovi
+
+4. Táto zmluva ajej Príiohy móžu byt‘ zmenené len formou písomných očíslovaných dodatkov
+s podpisom oprávnených zástupcov obidvoch zmluvných strán, ktoré sa stávajú
+neoddeiitel‘nou súčast‘ou tejto zmluvy.
+5. Zmluvné strany vyhlasujú, že si zmluvit dókiadne prečítaii, jej obsahu, právam a povinnostiam
+z nej pre nich vyplývajúcich úplne porozumeli a zavázujú sa ich v celom rozsahu bezvýhradne
+plnit‘, ich vói‘a je siobodná a vážna, ako aj prostá akéhokoi‘vek omylu a na znak súhiasu ju
+viastnoručne podpisujú.
+
+6. Táto zmluva nadobúda platnost‘ dňom jej podpisu zmluvnými stranami a účinnost‘ dňom
+nasledujúcim po dni jej zverejnenia v Centrálnom registň zmlúv (http:!/crz.gov.sk).
+V Bankej tii dňa:.
+Slovenskej republiky
+
+V BanskejBystrici dňa:
+
+DIGIV1IJ\
+
+l.4‘. Lď-vt
+
+S.t.O.
+Lazaretska 72, 811 08 Bratislava
+2
+
+Ing. Martin
+generálny riaditel‘
+
+Mgr. Peter Fuska
+konatei‘
+
+Štátna ochrana prírody SR
+
+DIGMIA, s.r.o.
+
+Prfloha 1
+Špecifikácia predmetu plnenia podl‘a zmluvy a ceny
+A. Špecifikácia predmetu plnenia podl‘a zmluvy
+
+Poskytovanie e-mailových služieb dostupných cez webové rozhranie a e-mailových klientov pre
+platformy stolových počítačov, prenosných počítačov a mobitných telefónov vrátane migrácie e
+majby do dodanej e-mailovej služby a technickej podpory služby.
+Detailná špecifikácie stužieb:
+VeFkost‘ e-mailových schránky 50 GB pre užívatel‘a.
+Odosielanie e-maitov do veľkosti 100 MB.
+Webové rozbranie pre prístup a prácu s nástrojnii pre správu e-majby, kontaktov, kalendárov
+a úloh
+Prístup 1 e-mailom zo stolových počítačov, prenosnýc[i počítačov, mobilných telefónov a
+tabletov.
+Natívna synchronizácia s aplikáciou Microsoft Outbook na platformách Microsoft, Windows,
+Apple Mac jOS, Android a Windows Mobile.
+Natívna integrácia s kancelárskym balfkom Microsoft Office.
+Služby zdiel‘ania kalendárov, kontaktov a úloh.
+Služby distribučných skupín.
+Správa a administrácia e- mailových kont, distribučných skupín a užívatel‘ov prostredníctvom
+administratívnej konzoly.
+Správa doručenej pošt)‘ filtrovanie e-majby.
+Antispamová, antivfrusová a antimalvérová ochrana.
+Migrácia eiistujúcich e-mailov do dodanej e-mailovej služby.
+Technická podpora správy e-mailových služieb v režime 24 hodín denne, 7 dní v týždni.
+Technická podpora pre koncových užívatel‘ov e-mailových služieb v režime pracovného času
+(8 hodín) počas pracovných dní.
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+—
+
+-
+
+-
+
+-
+
+-
+
+B. Špecifikácia priorít a prevádzkových dopadov
+
+Definícia priorit problémov a požiadaviek, na ktoré sa viaže poskytovanie Systémovej podpory podl‘a
+časti A tejto prílohy
+Priorita
+
+Kritická
+
+Vážna
+
+N e k ri c k‘a
+.
+
+Dopad
+Prevádzkovaný Systém je nedostupný, t.j. nastal úplný
+výpadok poskytovanej Primárnej Služby abebo Systém
+je dostupný ale niektoré jeho funkcie nefungujú alebo
+nefungujú správne, čo má dosah na zákazníkov
+Objednávatet‘a alebo jeho intemých používatel‘ov.
+Bola indikovaná čiastočná nefunkčnost‘ niektorej časti
+prevádzkovaného Systému a/abebo Zariadenia, ktorá
+nemá dopad na hlavnú funkčnost‘ Systému ajeho
+funkcie fungujú správne, t.j. zákazníci Objednávatel‘a
+ani interní používatelia nie sú nijako obmedzovaní.
+Boba špecifikovaná Porucha, ktorá nemá výrazný vplyv
+na prevádzkovaný Systém aje všeobecne tolerovatel‘ná.
+
+C. Špecwikácia podmienok vykonávaných Činností
+
+Podmienky Systémovej podpory v prípade Incidentu
+Manažér služby na strane Objednávatel‘a
+
+kig. Martin Hrušecký
+
+Jednotné iniesto kontaktu na strane Posk‘tovate1‘a
+pre Systémovú podporu v prfpade Incidentu
+
+lot1ine(dirnia.coi, +421 2 3260 3220
+
+Garantovaná doba pre začatie Systémovej
+podpory iri Incidente (Začiatok riešenia)
+
+do 4 hodin pri Vzdialenom prístupe do Systémov
+do 6 hodin pri nutnosti lokálneho prístupu do
+Systémov
+
+Prevádzkový čas pre poskytovanie Systémovej
+podpory v režime Incidentu
+
+24 hodin denne, 7 dní v týždni, 365 dní v roku
+
+Podmienky Užívatel‘skej podpory v prípade Incidentu
+Manažér služby na strane Objednávateľa
+
+Ing. Martin Hrušecký
+
+Jednotné miesto kontaktu na strane Poskytovateľa
+pre uzivatelsku podporu v pnpade Incidentu
+
+sopsr(dinmia.com, +421 917 808 808
+
+‘
+
+‘
+
+‚
+
+.
+
+do 8 hodfn pri Vzdialenom prístupe do Systémov
+Garantovaná doba pre začatie užívateľskej
+prostredníctvom aplikácie TeamViewer
+podpory pri Incidente (Začiatok riešenia)
+do 8 hodín pri nutnosti lokálneho prísmpu do
+Systémov
+Prevádzkový čas pre poskytovanie užívatel‘skej
+8 hodfn denne (8:00 až 16:00) 5 dní v týždni
+podpory v režime Incidentu
+(pondelok až piatok)
+Podmienky Systémovej podpory v prípade vykonávania činností na základe Objednávky
+Manažér služby na strane Objednávatel‘a
+Ing. Martin Hrušecký
+Jednotné miesto kontaktu na strane Poskytovatel‘a
+v prípade vykonávania činností na základe
+sa1esdiniia.com
+Objednávky
+‚
+
+D. Ceny za poskytovanie služieb
+Popis
+
+stužieb
+
+Dodávka e-maitových služieb s mesačnou
+fakturáciou najedného užívatel‘a pri
+minimálnom počte 400 užívateľov
+Zriadenie e-mailovejm služby a migrácia
+existujúcich e-mailových účtov na cieľové
+riešenie. Jednorázový poplatok
+Poskytovanie služieb správy a podpory
+v rozsahu správy a administrácie e-mailových
+kont, distribučných skupín a užívateľov,
+technicka podpora spravy e-mailovych sluzieb
+v režime 8/5 na obdobie 12 mesiacov
+s mesačnou fakturáciou
+
+MJ
+
+ks/mesiac
+
+Cena za
+MJ/€
+
+€ 3,40
+
+Počet
+
+Spolu bez
+DPUJ€
+
+550
+
+€ 1 870,00
+
+ks
+
+€ 6 000,00
+
+1
+
+€ 6 000,00
+
+ks/mesiac
+
+€ 1 670 00
+
+1
+
+€ 1 670 00
+
+E.
+
+Špecifikácia
+
+ceny
+
+v Prílohe Č. 1
+
+za
+
+vykonávanie
+
+podpory
+
+mimo
+
+rozsah
+
+S]užieb
+
+špecifikovaných
+
+bod A.
+
+Popis
+
+Cena
+
+Cena za človeko-deň on site
+
+(Práca fyzicky vykonávaná v priestoroch
+Objednávateľa alebo inde podl‘a požiadavky
+Objednávatel‘a mimo priestorov Poskytovateľa)
+Cena za človeko-deň
+
+500 €1 človeko-deň
+
+offsite
+
+(Práca fyzicky vykonávaná v priestoroch
+Poskytovatel‘a)
+Cena za výjazd v rámci Bratislavy
+Pri prácach u obj ednávatel‘a bude ku každému
+výjazdu účtovaný paušálny poplatok
+Cena za výjazd mimo Bratislavy
+Pri prácach u obj ednávateľa mimo Bratislavy
+bude ku každému výjazdu účtovaný paušálny
+poplatok + kilometrovné (ráta sa aj spiatočná
+cesta)
+Všetky ceny sú uvedené v EUR bez DPH.
+
+500 € / človeko-deň
+
+25 € / výjazd
+
+0,57 € / kilometer
+
+Cena za človeko-deň sa bude automaticky prispósobovat‘ vývoj u inflácie, a to tak, že sa každoročne
+(počnúc 1.1. prístušného roku) automaticky zvýši o ročnú mieru inflácie na základe údajov
+Slovenského štatistického úradu.
+V prípade,
+že
+uvedené
+práce
+budú
+Objednávatel‘om
+vyžiadané
+a Poskytovateľom
+vykonávané/vykonané
+• mimo pracovnej doby, t.j. 18:00 22:00 hod resp. 6:00 09:00 v pracovných dňoch a v
+denných hodinách víkendov a sviatkov, bude pre výpočet ceny za človeko-deň použitý
+koefkient 1,3
+• v nočných hodinách, t.j. 22:00 06:00 hod., bude pre výpočet ceny za človeko-deň použitý
+koeficient 1,5
+—
+
+-
+
+—
+
+Činnosti vykonávané mimo rozsah Služieb špecifikovaných v Prí lobe č. I bod A sú objednávané na
+základe samostatnej pfsomnej objednávky Obj ednávatel‘a.
+
+Príloha 3
+Zoznam subdodávatel‘ov
+
+1. obchodně meno: board.sk, s.r.o., IČO: 35 853 867
+sídlo: Železničná 76, 821 07 Bratistava, Slovenská republika
+osoba oprávnená konat‘: Patrik Cvengroš, Kríková 7, 821 07 Bratislava, nar: 10.05.1974
+
+

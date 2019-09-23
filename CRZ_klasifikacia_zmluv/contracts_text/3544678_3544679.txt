@@ -1,0 +1,485 @@
+Zmluva o dielo
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+Zápis v registri:
+
+Slovenská konsolidačná, a.s.
+Cintorínska 21, 814 99 Bratislava
+35 776 005
+Obchodný register Okresného súdu Bratislava I, oddiel: Sa, vložka
+č.: 2257/B
+Zastúpená :
+JUDr. Martin Lipovský, podpredseda predstavenstva a
+Ing. Eduard Čengel, člen predstavenstva
+(ďalej ako „objednávateľ“ alebo „SK, a.s.“)
+a
+Zhotoviteľ:
+Obchodné meno:
+Sídlo:
+IČO:
+Zápis v registri:
+
+SAS Slovakia, s. r. o.
+Lazaretská 12, 811 08 Bratislava
+44 450 524
+Obchodný register Okresného súdu Bratislava I, Oddiel Sro,vložka
+číslo 55225/B
+Zastúpená:
+Hana Kvartová, konateľka
+(ďalej ako „zhotoviteľ“)
+Objednávateľ a zhotoviteľ ďalej spolu aj ako „zmluvné strany“ a samostatne aj ako „zmluvná
+strana“
+I.
+Preambula
+Zmluvné strany uzatvárajú túto zmluvu na základe výsledkov verejného obstarávania zákazky
+s nízkou hodnotou na poskytnutie služby, ktoré realizoval verejný obstarávateľ v zmysle
+ust. § 117 ods. 1 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov, a ktorej predmetom je „Poskytnutie služieb na analýzu dát pre
+potreby implementácie centrálneho dátového skladu“. Zmluvné strany súčasne vyhlasujú, že
+táto zmluva je čo do vecných a právnych parametrov v súlade s požiadavkami predmetného
+verejného obstarávania.
+U objednávateľa vznikla potreba existujúce informácie a dáta z prevádzkovaných
+informačných systémov zjednotiť a upraviť ich do nového prostredia – dátového skladu.
+Dátový sklad bude jediným miestom, kde budú sústredené všetky dáta.
+II.
+Predmet plnenia
+1. Zhotoviteľ sa zaväzuje vykonať pre objednávateľa analýzu existujúcich typov databáz pre
+potreby vymáhania a správy pohľadávok podľa tu uvedenej funkčnej špecifikácie predmetu
+plnenia v zmysle bodu 2 tohto článku. Objednávateľ sa zaväzuje zaplatiť zhotoviteľovi za
+vykonané dielo cenu dohodnutú v čl. IV. tejto zmluvy.
+[1]
+
+2. Funkčná špecifikácia predmetu plnenia
+a) Objednávateľ plánuje implementáciu nového informačného systému a požaduje
+sprístupniť informácie z existujúcich databáz o dlžníkoch, pohľadávkach a ostatných dát
+v centralizovanej databáze. Nový systém je potrebné naplniť dátami z niekoľkých
+existujúcich zdrojov. Dáta je potrebné upraviť, vyriešiť chyby a nedostatky a navrhnúť
+komplexné riešenie pre migráciu a naplnenie dát do nového dátového skladu, ktoré
+bude slúžiť ako centrálne úložisko dát spoločnosti.
+b) Navrhovaný dátový sklad bude vytvorený pre potreby SK, a.s. a má slúžiť na uchovávanie
+a vyhodnocovanie informácií v súvislosti so správou pohľadávok a bude tvoriť jednotnú
+dátovú základňu (Master databázu) pre reportingy na všetkých úrovniach riadenia.
+c) V súčasnosti sú evidované primárne informácie o dlžníkoch, pohľadávkach
+a prislúchajúce ekonomické údaje (istina, úroky a iné finančné atribúty) v ekonomickom
+informačnom systéme IS SRS. Tieto informácie sa v nočnom spracovaní prenášajú do
+systému pre správu pohľadávok IS CDT, v ktorom sú k dlžníkom a pohľadávkam
+evidované ďalšie informácie ohľadne právnych úkonov (konkurzy, likvidácie, exekúcie,
+dobrovoľné dražby), súdnych sporov, zabezpečovacích inštitútov, stratégií, funkcionalít
+pre retailovú správu pohľadávok, evidenciu informácií o konsolidovaných pohľadávkach,
+evidenciu žiadostí ku konsolidovaným pohľadávkam a aktualizácie informácií
+z Obchodného vestníka. Ďalšími prevádzkovanými agendovými systémami sú systém
+pre správu elektronickej registratúry a informačný systém pre správu a riadenie
+dokumentov (DMS), v ktorých sú uložené a evidované doručené, odoslané a interné
+papierové, elektronické dokumenty a prevzaté dlžnícke spisy.
+d) Dáta ukladané do dátového skladu sa budú čerpať z existujúcich databázových systémov
+na platforme MS SQL.
+e) Pre vybudovanie jednotnej integrovanej databázovej základne pre potreby vymáhania
+pohľadávok je potrebné vykonať analýzu prevádzkového prostredia, zhodnotiť dátovú
+kvalitu a na základe zistení navrhnúť riešenia pre jednotlivé zistenia minimálne
+v rozsahu:
+- Vykonať analýzu existujúcich typov databáz (IS SRS, IS CDT, e-registratúra, DMS),
+- Vykonať popis vstupov a zdrojov jednotlivých dát,
+- Vykonať popis procesu zadávania a vstupov údajov,
+- Vykonať kategorizáciu údajov podľa zdrojov,
+- Identifikovať duplicity a nekonzistencie dát v jednotlivých databázach,
+- Identifikovať osobné údaje,
+- Identifikovať vzťahy medzi jednotlivými údajmi,
+- Identifikovať preklepy a chybne pridelené dáta,
+- Identifikovať údaje v nesprávnych poliach
+f) Na základe takto vykonanej vstupnej analýzy dodávateľ:
+- Navrhne štruktúru dátového skladu (DWH),
+- Navrhne postup migrácie do DWH,
+- Navrhne postup a proces čistenia, konsolidácie a údržby jednotlivých záznamov,
+- Navrhne proces zavedenia jednoznačných záznamov s príslušnou históriou,
+- Zabezpečí súčinnosť pri migrácii dát do novo navrhnutého dátového skladu a pri
+vytvorení všetkých skriptov a súvisiacich služieb.
+Vymedzenie minimálneho rozsahu aktivít a výstupov požadovaných v rámci predmetu plnenia
+je obsahom Prílohy 1 tejto zmluvy.
+[2]
+
+III.
+Spôsob, miesto a čas plnenia
+1. Zhotoviteľ sa zaväzuje odovzdať objednávateľovi predmet plnenia v písomnom vyhotovení
+a zároveň aj v elektronickej forme podľa dohody (vo formáte doc., pdf., „case nástroj“, na
+CD/DVD/USB nosiči ) v dohodnutom rozsahu a kvalite, podľa požiadaviek a špecifikácie
+uvedenej v čl. III zmluvy v lehote najneskôr do dvoch mesiacov odo dňa účinnosti zmluvy.
+Zmluvné strany sa dohodli, že v prípade ak dielo nebude spĺňať požiadavky a kritériá podľa
+čl. II zmluvy, jedná sa o podstatné porušenie zmluvy a objednávateľ je oprávnený
+postupovať v súlade s ustanoveniami § 436 a nasl. v nadväznosti na ustanovenia § 564
+Obchodného zákonníka.
+2. Zhotoviteľ odovzdá objednávateľovi predmet plnenia podľa čl. II v sídle objednávateľa,
+ktoré je zapísané v obchodnom registri a je uvedené aj v záhlaví tejto zmluvy.
+3. Zmluvné strany sa dohodli, že objednávateľ prevezme predmet plnenia protokolárne na
+základe výzvy zhotoviteľa, pričom zmluvné strany pristúpia k podpisu odovzdávajúceho
+a preberacieho protokolu najneskôr do 4 kalendárnych dní odo dňa doručenia výzvy
+zhotoviteľom. Výzvu je postačujúce doručiť na emailovú adresu kontaktnej osoby
+objednávateľa. Protokol o odovzdaní a prevzatí predmetu plnenia musí byť datovaný
+a podpísaný oboma zmluvnými stranami. Za deň prevzatia plnenia objednávateľom sa
+považuje deň podpisu preberacieho protokolu oboma zmluvnými stranami.
+4. V prípade omeškania zhotoviteľa s plnením má objednávateľ nárok na zmluvnú pokutu vo
+výške 0,05 % z ceny plnenia resp. jeho časti za každý deň omeškania. Tým nie je dotknutý
+prípadný nárok objednávateľa na náhradu škody. Zhotoviteľ nie je v omeškaní s plnením
+svojho záväzku po dobu omeškania alebo neposkytnutia súčinnosti objednávateľa.
+V súlade s § 364 Obchodného zákonníka sa zmluvné strany dohodli, že v prípade ak
+objednávateľovi vznikne nárok na zmluvnú pokutu, je oprávnený započítať tento nárok voči
+nároku zhotoviteľa na cenu za dielo. Nárok zhotoviteľa na cenu za dielo sa v takomto
+prípade zníži o nárok objednávateľa na zmluvnú pokutu.
+IV.
+Cena plnenia
+1. Cena diela je stanovená dohodou zmluvných strán v súlade so zákonom č. 18/1996 Z. z.
+o cenách v znení neskorších predpisov a vyhláškou Ministerstva financií Slovenskej
+republiky č. 87/1996 Z. z., ktorou sa vykonáva zákon o cenách v znení neskorších predpisov.
+2. Zmluvné strany sa dohodli, že objednávateľ zaplatí zhotoviteľovi za dielo cenu v celkovej
+výške 46 000,00 Eur bez DPH. Táto cena je konečná, zahŕňa v sebe všetky náklady, ktoré
+vzniknú zhotoviteľovi pri vykonaní diela alebo v súvislosti s ním vrátane odmeny za použitie
+diela podľa čl. VIII zmluvy. Cenu nemožno navýšiť.
+Zhotoviteľ sa zaväzuje vystaviť faktúru ako daňový doklad v súlade s ustanoveniami zákona
+č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov najskôr v deň
+podpísania Odovzdávacieho a preberacieho protokolu obidvomi zmluvnými stranami
+v súlade s článkom III. tejto zmluvy.
+V prípade, ak faktúra vystavená zhotoviteľom nebude obsahovať všetky zákonom
+stanovené náležitosti alebo bude obsahovať nesprávne alebo neúplné údaje, objednávateľ
+
+[3]
+
+má právo takúto faktúru vrátiť zhotoviteľovi na jej opravu resp. doplnenie. Zhotoviteľ je
+povinný vystaviť novú opravenú, resp. doplnenú faktúru s novou lehotou splatnosti.
+3. Splatnosť faktúry je 14 dní odo dňa jej doručenia objednávateľovi. Faktúra sa považuje za
+zaplatenú dňom zadania prevodného príkazu na úhradu objednávateľom.
+V.
+Kontaktné osoby
+1. Kontaktné osoby za objednávateľa:
+Mgr.
+, email:
+Ing.
+, email:
+
+@konsolidacna.sk, tel. č.: 02/
+@konsolidacna.sk, tel. č.: 02/
+
+2. Kontaktné osoby za zhotoviteľa:
+R
+, email:
+
+@sas.com, tel. č.: 090
+
+VI.
+Ochrana osobných údajov a informácií
+1. Objednávateľ je v súlade s článkom 4 ods. 2 Nariadenia Európskeho parlamentu a Rady
+(EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a voľnom pohybe
+týchto údajov, ktorým sa zrušuje smernica 95/46/ES (ďalej len „Nariadenie GDPR“)
+a zákona č. 18/2018 Z.z. o ochrane osobných údajov a o zmene a doplnení niektorých
+zákonov (ďalej „zákon č. 18/2018 Z.z.“) prevádzkovateľom, ktorý sám alebo spoločne s
+inými vymedzí účely a prostriedky spracúvania osobných údajov a spracúva osobné údaje
+vo vlastnom mene.
+2. Objednávateľ spracúva okrem iného osobné údaje dlžníkov, záložných dlžníkov, ručiteľov
+(ďalej aj „dotknutých osôb“), ktoré nadobudol na základe zmlúv o postúpení pohľadávok,
+zmlúv o postúpení/vymáhaní pohľadávok štátu, na základe rozhodnutí súdov a iných
+orgánov verejnej správy a samosprávy, v ktorých vystupujú dotknuté osoby, ktorých
+osobné údaje sú spracúvané, a ktoré prevádzkovateľ nadobudol s pohľadávkami voči
+dotknutým osobám od tretích osôb za účelom správy a vymáhania pohľadávok a
+uplatňovania právnych nárokov s nimi súvisiacich, ako aj za účelom plnenia úlohy
+realizovanej vo verejnom záujme, ktorou je vymáhanie pohľadávok, ktoré sú verejnými
+prostriedkami a uplatňovanie právnych nárokov s nimi súvisiacich v súlade s ustanovením
+článku 6 ods. 1 písm. c) a e) Nariadenia GDPR a zákona č. 18/2018 Z.z.
+3. Objednávateľ v postavení prevádzkovateľa spracúva bežné osobné údaje dotknutých osôb
+v rozsahu meno a priezvisko (vrátane rodného a predchádzajúceho), titul, dátum
+narodenia, dátum úmrtia, rodné číslo, adresa bydliska (trvalého a/alebo prechodného),
+údaje o majetkových pomeroch, číslo občianskeho preukazu alebo iného dokladu
+totožnosti, štátna príslušnosť a prípadné doplňujúce údaje uvedené v dotknutých
+dokumentoch (vrátane telefonického kontaktu a elektronickej komunikácie).
+4. Objednávateľ v postavení prevádzkovateľa v súlade s článkom 28 Nariadenia GDPR a
+ustanoveniami §34 zákona č. 18/2018 Z.z poveruje zhotoviteľa ako sprostredkovateľa na
+spracúvanie bežných osobných údajov dotknutých osôb podľa tohto článku za účelom
+plnenia predmetu tejto zmluvy. Zhotoviteľ je oprávnený spracúvať osobné údaje
+dotknutých osôb odo dňa účinnosti tejto zmluvy po celú dobu jej platnosti a účinnosti len
+v rozsahu uvedenom v bode 3. tohto článku zmluvy tak, aby spracúvanie osobných údajov
+[4]
+
+spĺňalo požiadavky Nariadenia GDPR a zákona č. 18/2018 Z.z, a aby sa zabezpečila ochrana
+práv dotknutých osôb.
+5. Spracúvanie osobných údajov sa bude realizovať za podmienok uvedených v tejto zmluve
+a zahŕňa usporadúvanie, vyhľadávanie, prehliadanie, preskupovanie, kombinovanie
+a premiestňovanie osobných údajov v nasledovných informačných systémoch
+prevádzkovateľa:
+- Ekonomický informačný systém – (IS SRS)
+- Správa a vymáhanie pohľadávok (IS CDT)
+- Správa registratúry (e - registratúra)
+- Document management system (DMS)
+6. Zhotoviteľ v postavení sprostredkovateľa sa zaväzuje spracúvať osobné údaje dotknutých
+osôb získané za účelom plnenia predmetu tejto zmluvy v súlade s dobrými mravmi, v
+rozsahu a za podmienok stanovených v tejto zmluve a iba pre účely splnenia predmetu
+tejto zmluvy: Pri spracúvaní osobných údajov dotknutých osôb sa zaväzuje neohrozovať
+ani nepoškodzovať ich práva a právom chránené záujmy, aby nedošlo k porušeniu
+základných práv a slobôd dotknutých osôb, najmä k neoprávneným zásahom do ich práva
+na ochranu súkromia.
+7. Objednávateľ v postavení prevádzkovateľa vyhlasuje, že pri výbere zhotoviteľa ako
+sprostredkovateľa dbal na jeho odbornú, technickú, organizačnú a personálnu spôsobilosť
+tak, aby spracúvanie osobných údajov spĺňalo požiadavky Nariadenia GDPR a zákona
+č. 18/2018 Z.z., a aby sa zabezpečila ochrana práv dotknutých osôb.
+8. Zhotoviteľ ako sprostredkovateľ je oprávnený spracúvať osobné údaje prostredníctvom
+inej osoby (ďalej len „Subdodávateľ“), avšak vždy výhradne na základe predchádzajúceho
+súhlasu objednávateľa. Sprostredkovateľ je oprávnený začať so spracúvaním osobných
+údajov odo dňa účinnosti tejto zmluvy. Objednávateľ berie na vedomie a súhlasí s tým, že
+Zhotoviteľ ma zámer zapojiť do spracúvania subdodávateľa, ktorý spĺňa požiadavky
+Nariadenia GDPR.
+9. Zmluvné strany sa dohodli, že všetky skutočnosti, informácie a údaje, ktoré sa zmluvné
+strany dozvedeli pri plnení predmetu tejto zmluvy alebo v súvislosti s ním sú informáciami,
+o ktorých sú zmluvné strany povinné zachovávať mlčanlivosť. Tento záväzok mlčanlivosti
+platí aj po skončení tejto zmluvy.
+10. Zhotoviteľ sa zaväzuje, že informácie podľa bodu 9. tohto článku nepoužije inak, než na
+účel splnenia predmetu tejto zmluvy a neposkytne tretím osobám, neumožní prístup
+tretích osôb k týmto informáciám, a to ani svojim zamestnancom a zástupcom s výnimkou
+tých, ktorí s týmito informáciami zabezpečujú plnenie pracovných úloh vyplývajúcich z ich
+pracovnej náplne a budú tieto informácie chrániť. Táto povinnosť zhotoviteľa platí aj po
+skončení tejto zmluvy.
+11. Zhotoviteľ sa zaväzuje, že jeho zamestnanci, zástupcovia a ďalšie osoby v obdobnom
+postavení, ktoré prídu do styku z dôvernými informáciami sa zaviažu k dodržiavaniu
+mlčanlivosti osobitným písomným vyhlásením, ktoré predloží objednávateľovi.
+12. Zmluvné strany sa zaväzujú zabezpečiť, že ich zamestnanci, zástupcovia a ďalšie osoby v
+obdobnom postavení budú zachovávať mlčanlivosť vo vzťahu k dôverným informáciám.
+Pokiaľ poruší niektorá z osôb zmluvnej strany uvedených v predchádzajúcej vete povinnosť
+mlčanlivosti vo vzťahu k dôverným informáciám, považuje sa to za porušenie povinnosti
+mlčanlivosti tejto zmluvnej strany.
+
+[5]
+
+VII.
+Zodpovednosť za vady, záruka
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+9.
+
+Objednávateľ je povinný oznámiť vady diela zhotoviteľovi bez zbytočného odkladu,
+najneskôr v lehote do 3 pracovných dní odo dňa zistenia vady. Oznámenie je postačujúce
+urobiť formou emailovej správy na adresu kontaktnej osoby zhotoviteľa. Zhotoviteľ sa
+zaväzuje odstrániť vadu diela bezplatne bez zbytočného odkladu, najneskôr do 3
+pracovných dní odo dňa doručenia oznámenia o vade.
+Vada sa považuje za odstránenú dňom podpísania Protokolu o odstránení vady obidvomi
+zmluvnými stranami.
+V prípade omeškania sa zhotoviteľa s odstránením vady diela má objednávateľ nárok na
+zmluvnú pokutu vo výške 0,05 % z ceny plnenia za každý deň omeškania. Tým nie je
+dotknutý prípadný nárok objednávateľa na náhradu škody. Zhotoviteľ nie je v omeškaní
+s plnením svojho záväzku po dobu omeškania alebo neposkytnutia súčinnosti
+objednávateľa. V súlade s § 364 Obchodného zákonníka sa zmluvné strany dohodli, že
+v prípade ak objednávateľovi vznikne nárok na zmluvnú pokutu, je oprávnený započítať
+tento nárok voči nároku zhotoviteľa na cenu za dielo pokiaľ nebola ešte zaplatená. Nárok
+zhotoviteľa na cenu za dielo sa v takomto prípade zníži o nárok objednávateľa na zmluvnú
+pokutu.
+Zhotoviteľ nie je zodpovedný za ušlý zisk, stratu predaja, ani za zvláštne, následné,
+náhodné, nepriame alebo zvýšené náhrady škôd, zo zmluvy alebo z delikventného
+jednania a to bez ohľadu na to, či možnosť takejto škody bola zhotoviteľovi oznámená
+alebo zhotoviteľ mohol takého škody predvídať.
+V žiadnom prípade celková zodpovednosť zhotoviteľa za škody akéhokoľvek druhu
+vyplývajúce z tejto zmluvy, vrátane skutočných škôd, nepresiahne čiastku uhradenú
+objednávateľom za dielo podľa článku IV tejto zmluvy. Objednávateľ konštatuje, že toto
+obmedzenie zodpovednosti je primerané a táto čiastka predstavuje maximálnu výšku
+škody, ktorú môže zhotoviteľ predvídať ako následok porušenia jeho povinností.
+Pre prípad, že by ustanovenie o obmedzenej náhrade škody obsiahnuté v tomto článku
+VII. bolo považované za nevymáhateľné, zmluvné strany sa dohodnú, že výška náhrady za
+akúkoľvek škodu, ktorá môže vzniknúť na základe tejto zmluvy, bude stanovená vo výške
+čiastky hradenej objednávateľom za dielo podľa článku IV. tejto zmluvy. Zmluvné strany
+výslovne prehlasujú, že túto čiastku považujú za primeranú s ohľadom na možné škody,
+ktoré môžu vzniknúť, a ťažkosti s ich vyčíslovaním. Toto ustanovenie nemá charakter
+penalizácie.
+Nároky z vadného poskytnutia Predmetu plnenia môžu byť vznášané len do uplynutia
+jedného roka odo dňa ukončenia diela, ak nie je osobitne dohodnutá iná lehota.
+Zhotoviteľ zaručuje, že je oprávnený objednávateľovi poskytnúť licenciu k Predmetu
+diela. Výlučné nároky objednávateľa v prípade porušenia tejto záruky sú uvedené v
+článku VIII, bod 4. tejto Zmluvy. Zhotoviteľ ďalej zaručuje, že dielo bude vykonávané
+kvalifikovanými osobami. Výlučným nárokom objednávateľa v prípade porušenia tejto
+záruky je vrátenie platby uhradenej za predmetné dielo. Zhotoviteľ vyslovene vylučuje
+akékoľvek ďalšie záruky, či už výslovné alebo implikované týkajúce sa diela alebo služieb
+poskytovaných podľa tejto zmluvy, vrátane akýchkoľvek záruk obchodovateľnosti alebo
+vhodnosti pre určitý účel alebo vyplývajúcich zo zvyklostí alebo užívania.
+Obmedzenie zodpovednosti za škody obsiahnuté v tomto článku sa nevzťahuje na
+povinnosť odškodnenia uvedenú v článku VIII. a na škodu spôsobenú úmyselne.
+[6]
+
+VIII.
+Ustanovenia o autorskom práve, odškodnenie
+1. Zhotoviteľ udeľuje objednávateľovi súhlas na použitie poskytnutého plnenia vrátane
+použitia vypracovaných detailných analýz, postupov a procesov na účel vyplývajúci zo
+zmluvy. Zhotoviteľ zároveň súhlasí, aby objednávateľ používal poskytnuté plnenie aj ako
+podklad v procesoch verejného obstarávania, ktorých cieľom bude obstarávanie nových
+súčastí vnútorných informačných systémov objednávateľa alebo návrhov novej
+infraštruktúry objednávateľa ako i zabezpečovanie ostatných potrieb objednávateľa
+dôležitých pre zabezpečenie jeho riadneho fungovania a súladu s ustanoveniami nového
+zákona na ochranu osobných údajov a GDPR.
+2. Súhlas zhotoviteľa je územne, vecne a časovo neobmedzený.
+3. Zmluvné strany sa dohodli, že odmena za použitie diela je už zahrnutá v cene plnenia podľa
+čl. IV zmluvy.
+4. V prípade žaloby za: a/ porušenie autorského práva, patentu, obchodného tajomstva alebo
+iného duševného vlastníctva voči objednávateľovi týkajúceho sa Predmetu diela; b/ ujmu
+na zdraví, smrť alebo škodu na hmotnom osobnom majetku, s výnimkou straty alebo
+poškodenia dát alebo software, vyplývajúcich z konania, za ktoré je výlučne zodpovedný
+zhotoviteľ, objednávateľ súhlasí, že bude okamžite informovať zhotoviteľa o tejto
+skutočnosti, umožní mu prevziať kontrolu nad súdnou žalobou a bude spolupracovať so
+zhotoviteľom na preskúmaní, obhajobe a/alebo vyrovnaní. Zhotoviteľ súhlasí, že prevezme
+kontrolu nad súdnou žalobou či sporom a za predpokladu, že objednávateľ splní svoju
+povinnosť podľa tohto bodu, odškodní objednávateľa zaplatením vyrovnania schváleného
+zhotoviteľom alebo akéhokoľvek iného rozsudku, nákladov alebo právnych poplatkov
+s konečnou platnosťou určených objednávateľovi v takomto spore. Objednávateľ sa môže
+zúčastniť na svoje vlastné náklady. Ak je vznesený takýto nárok, alebo podľa zhotoviteľa je
+pravdepodobné, že sa tak môže stať, zhotoviteľ má nasledujúce možnosti: (a) upraviť
+Predmet diela; (b) získať práva pre objednávateľa v pokračovaní užívania Predmetu diela;
+alebo (c) ukončiť licenciu pre sporný Predmet diela a vrátiť objednávateľovi odmenu
+zodpovedajúcu hodnote Predmetu diela. Objednávateľ sa zaväzuje rešpektovať
+rozhodnutie zhotoviteľa. Táto povinnosť odškodnenia sa nevzťahuje na rozsah, v ktorom sa
+nárok vzťahuje na kombináciu Predmetu diela s iným dielom alebo úpravu Predmetu diela
+(diela) objednávateľom, ak by takýto nárok nevznikol, keby nebolo danej kombinácie alebo
+úpravy.
+
+IX.
+Záverečné ustanovenia
+1. Zmluvné strany berú na vedomie, že zmluva je uzatvorená v súlade s ustanoveniami
+Obchodného zákonníka.
+2. Zmluva je vyhotovená v štyroch (4) rovnopisoch, z toho dva (2) rovnopisy sú určené pre
+objednávateľa a dva (2) rovnopisy sú určené pre zhotoviteľa.
+3. Zmluvu je možné meniť a dopĺňať len písomnými dodatkami podpísanými obidvomi
+zmluvnými stranami.
+
+[7]
+
+4. Zmluva nadobúda platnosť a zaväzuje účastníkov dňom jej podpísania obidvomi Zmluvnými
+stranami. Účinnosť nadobúda v súlade s § 47a ods. 1 Občianskeho zákonníka dňom
+nasledujúcim po dni zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády SR.
+5. Zmluvné strany vyhlasujú, že zmluvu uzavreli na základe ich slobodnej vôle, nebola
+uzavretá v tiesni za nápadne nevýhodných podmienok, ich zmluvná voľnosť nie je
+obmedzená. Zmluvu si prečítali, jej obsahu rozumejú a na znak súhlasu s i jej obsahom
+zmluvu podpisujú.
+
+Prílohy:
+Príloha 1 – Minimálny rozsah prác pri realizácii predmetu plnenia
+
+V Bratislave, dňa ..............
+
+V Bratislave, dňa ..............
+
+_______________________
+JUDr. Martin Lipovský
+podpredseda predstavenstva
+Slovenská konsolidačná, a.s.
+
+________________________
+Hana Kvartová
+konateľka
+SAS Slovakia, s. r. o.
+
+________________________
+Ing. Eduard Čengel
+člen predstavenstva
+Slovenská konsolidačná, a.s.
+
+[8]
+
+Príloha 1 – Minimálny rozsah prác pri realizácii predmetu plnenia
+Aktivita
+
+Výstup
+
+Vykonať analýzu existujúcich typov
+databáz,
+Vykonať popis vstupov a zdrojov
+jednotlivých dát,
+Vykonať kategorizáciu údajov podľa
+zdrojov,
+Identifikovať osobné údaje,
+Identifikovať vzťahy medzi
+jednotlivými údajmi,
+
+Výstup 1:
+Popis existujúcich databáz nasledovných zdrojových systémov :
+- Ekonomický informačný systém IS SRS,
+- Systému pre správu pohľadávok IS CDT,
+- Systém pre správu elektronickej registratúry,
+- Informačný systém pre správu a riadenie dokumentov (DMS).
+v rozsahu
+- zoznamu databázových tabuliek pre každý z uvedených systémov,
+- atribútov jednotlivých tabuliek,
+- dátového typu jednotlivých atribútov,
+- označenia, že daný atribút obsahuje osobné údaje.
+Kategorizácia údajov a vzťahy medzi údajmi vo forme subject-oriented
+diagramu.
+Výstup 2:
+Popis dátových rozhraní, ktorými sú napĺňané systémy (IS SRS, IS CDT, eregistratúra, DMS) vstupnými údajmi.
+
+Vykonať popis procesu zadávania
+a vstupov údajov,
+Identifikovať duplicity
+a nekonzistencie dát v jednotlivých
+databázach,
+Identifikovať preklepy a chybne
+pridelené dáta,
+Identifikovať údaje v nesprávnych
+poliach
+Navrhnúť štruktúru dátového skladu
+(DWH),
+Navrhnúť postup migrácie do DWH,
+
+Navrhnúť postup a proces čistenia,
+konsolidácie a údržby jednotlivých
+záznamov (DWH),
+Navrhnúť popis procesu zavedenia
+jednoznačných záznamov
+s príslušnou históriou,
+Zabezpečiť súčinnosť pri migrácii dát
+do novo navrhnutého dátového
+skladua pri vytvorení všetkých
+skriptov a súvisiacich služieb
+
+Výstup 3:
+Popis identifikovaných nekonzistencií, chybne zadaných dát resp.
+zadaných v nesprávnych poliach a duplicít v jednotlivých databázach
+zdrojových systémov na základe vykonaného základného profilingu (v
+rozsahu pre každý atribút dátový typ atribútu, zoznam najpočetnejších
+hodnôt, počet nevyplnených hodnôt, v prípade číselných polí aj
+maximálna, minimálna a priemerná hodnota) pre potrebný počet
+relevantných tabuliek pre každý zo zdrojových systémov.
+Výstup 4:
+Popis dátovej štruktúry cieľového dátového skladu vo forme entitnorelačného diagramu logického dátového modelu.
+Výstup 5:
+Popis konceptu jednotlivých krokov, ktorý povedie k migrácii dát zo
+súčasných DB zdrojových systémov (IS SRS, IS CDT, e-registratúra, DMS)
+do cieľového DWH.
+Výstup 6:
+Popis konceptu čistenia dát DWH v zmysle štandardizácie údajov ako je
+napr. rodné číslo, IČO, adresa, tel. číslo.
+Popis konceptu pri určení pravidiel, ktoré identifikujú, že viaceré
+záznamy vyjadrujú rovnakú entitu (dlžníka) a pravidiel, ktoré z týchto
+záznamov identifikujú tzv. master záznam.
+Dodávateľ zabezpečí súčinnosť pri vytváraní a spúšťaní skriptov na
+migráciu dát v potrebnom rozsahu..
+
+V Bratislave, dňa ..............
+
+V Bratislave, dňa ..............
+
+_______________________
+JUDr. Martin Lipovský, podpredseda predstavenstva
+Slovenská konsolidačná, a.s.
+
+________________________
+Hana Kvartová, konateľka
+SAS Slovakia, s. r. o.
+
+________________________
+Ing. Eduard Čengel, člen predstavenstva
+Slovenská konsolidačná, a.s.
+[9]
+
+

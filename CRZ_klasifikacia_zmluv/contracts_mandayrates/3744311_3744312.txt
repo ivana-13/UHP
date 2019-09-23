@@ -1,0 +1,1074 @@
+Kúpna zmluva č. Z201847183_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Štátny fond rozvoja bývania
+Lamačská cesta 8, 83304 Bratislava, Slovenská republika
+31749542
+2020823200
+SK09 8180 0000 0070 0000 3561
+0259364211
+
+Dodávateľ:
+Obchodné meno:
+
+Data System Soft, spol. s r.o.
+
+Sídlo:
+
+Trnavská cesta 82, 82102 Bratislava, Slovenská republika
+
+IČO:
+
+17330491
+
+DIČ:
+
+2020322172
+
+IČ DPH:
+
+SK2020322172
+
+Číslo účtu:
+Telefón:
+
+0249103811
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Hardvérové vybavenie novej infraštruktúry pre prevádzku produkčného prostredia
+
+Kľúčové slová:
+
+server, záložný zdroj, UPS, sieťový prepínač, zálohovacie zariadenie
+
+CPV:
+
+48822000-6 - Počítačové servery; 60000000-8 - Dopravné služby (bez prepravy odpadu);
+31682530-4 - Núdzové/pohotovostné napájanie; 32422000-7 - Sieťové komponenty;
+72250000-2 - Služby týkajúce sa podpory systému
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Zoznam položiek:
+1. Server typ 1
+2. Server typ 2
+3. Server typ 3
+4. UPS - záložný zdroj
+5. Sieťový prepínač typ 1
+6. Sieťový prepínač typ 2
+7. Podpora
+8. Zálohovacie zariadenie
+Položka č. 1:
+
+Server typ 1
+
+Funkcia
+Server typ 1
+Technické vlastnosti
+
+Jednotka
+
+1. Server typ 1
+
+ks
+
+2
+
+počet procesorových jadier ( z dôvodu licenčných
+obmedzení )
+
+ks
+
+12
+
+Strana 1 z 9
+
+Minimum
+
+Maximum
+
+Presne
+
+rozšíriteľnosť procesorových jadier
+
+ks
+
+24
+
+osadená operačná pamäť
+
+GB
+
+384
+
+rozšíriteľnosť operačnej pamäte
+
+TB
+
+1,5
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Server typ 1
+1.1.: platforma
+
+mikroprocesor typu x86 (alebo ekvivalentný)
+
+1.2.: výkonové číslo podľa benchmarku
+SPECint_rate_base2017
+
+min. 163 pri osadení dvoma procesormi (socket), požadujeme
+osadiť oba procesory
+
+1.3.: rozširujúce sloty
+
+min. 3 voľné sloty PCI-Express, možnosť rozšírenia na min 8
+slotov PCIe, min. 1 voľný USB / SD slot vo vnútri servera
+
+1.4.: HW RAID radič diskov
+
+podpora SAS alebo SATA diskov, min. RAID 0, 1, 5, 6, 10, 50, 60,
+tripple mirror. Vyrovnávacia pamäť min. 4GB chránená batériou
+alebo ekvivalentným spôsobom
+
+1.5.: pozície pre pevné disky
+
+min. 12 pozícií pre 3.5" disky typu SAS, SATA alebo SSD, min. 2
+pozície pre 2.5" disky typu SAS, SATA alebo SSD, všetky disky za
+chodu meniteľné / dopĺňateľné
+
+1.6.: rozšíriteľnosť pevných diskov
+
+rozšíriteľnosť interných diskov na min. 16x 3.5"
+
+1.7.: počet osadených pevných diskov
+
+min. 2x 300GB SAS, 12G, 10 000 otáčok za minútu, min. 4x 8TB
+SAS, 12G, 7200 otáčok za minútu, min. 2x 1.92TB SATA, 6G, SSD
+mixed use
+
+1.8.: SSD akcelerátor
+
+min. 2x 1.6TB mixed use, osadenie do PCIe slotu
+
+1.9.: sieťový adaptér
+
+min. 4x 1Gbps Ethernet Adaptér, RJ45, min. 4x 10Gbps Ethernet
+Adaptér, RJ45, min. 4x 10/25Gbps Ethernet Adaptér, SFP28,
+iWARP, RoCE, min. 4x prepojovací kábel SFP28 - SFP28
+
+1.10.: správa a manažment
+
+servisný procesor alebo karta pre systémový manažment
+poskytujúca podporu vzdialeného manažmentu servera, možnosť
+pripojenia vzdialených médií - CD-ROM, DVD-ROM,
+
+1.10.: správa a manažment
+
+možnosť štartu, reštartu a vypnutia servera cez sieť LAN,
+nezávisle od OS, resp. softvér potrebný na prevádzku, konfiguráciu
+a správu servera
+
+1.10.: správa a manažment
+
+Rozšírená ochrana na úrovni BIOSu servera, verifikácia
+bezpečnosti FW, automatická oprava infikovaných FW servera,
+pravidelné skenovanie FW integrity.Podpora bezpečnostnej
+certifikácie CNSA/SuiteB
+
+1.11.: predporuchová záruka
+
+minimálne na HDD a pamäťové moduly
+
+1.12.: inštalácia
+
+inštalácia HW na mieste u zákazníka
+
+1.13.: chladenie
+
+redundantné ventilátory, vymeniteľné za chodu
+
+1.14.: napájanie
+
+redundantné zdroje, vymeniteľné za chodu, min. 2x 1600W,
+účinnosť min. 94%
+
+1.15.: prevedenie
+
+19“ rack, súčasťou servera musia byť aj koľajnice na montáž do
+racku spolu s ramenom na vedenie kabeláže, ktoré umožňuje
+servisovanie počas behu servera. Výška servera v racku max. 2U.
+
+1.16.: podpora
+
+servisná podpora na min. 3 roky, s dobou odozvy min. v
+nasledujúci pracovný deň, možnosť nahlasovania servisných
+incidentov v pracovných hodinách (8:00 až 17:00)
+
+Položka č. 2:
+
+Server typ 2
+
+Funkcia
+Server typ 2
+Technické vlastnosti
+
+Jednotka
+
+2. Server typ 2
+
+ks
+
+1
+
+počet procesorových jadier ( z dôvodu licenčných
+obmedzení )
+
+ks
+
+12
+
+rozšíriteľnosť procesorových jadier
+
+ks
+
+24
+
+Strana 2 z 9
+
+Minimum
+
+Maximum
+
+Presne
+
+osadená operačná pamäť
+
+GB
+
+192
+
+rozšíriteľnosť operačnej pamäte
+
+TB
+
+1,5
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+2. Server typ 2
+2.1.: platforma
+
+mikroprocesor typu x86 (alebo ekvivalentný)
+
+2.2.: výkonové číslo podľa benchmarku
+SPECint_rate_base2017
+
+min. 163 pri osadení dvoma procesormi (socket), požadujeme
+osadiť jeden procesor
+
+2.3.: rozširujúce sloty
+
+min. 3 voľné sloty PCI-Express, možnosť rozšírenia na min 8
+slotov PCIe, min. 1 voľný USB / SD slot vo vnútri servera
+
+2.4.: HW RAID radič diskov
+
+podpora SAS alebo SATA diskov, min. RAID 0, 1, 5, 6, 10, 50, 60,
+tripple mirror. Vyrovnávacia pamäť min. 4GB chránená batériou
+alebo ekvivalentným spôsobom
+
+2.5.: pozície pre pevné disky
+
+min. 12 pozícií pre 3.5" disky typu SAS, SATA alebo SSD, všetky
+disky za chodu meniteľné / dopĺňateľné
+
+2.6.: rozšíriteľnosť pevných diskov
+
+rozšíriteľnosť interných diskov na min. 16x 3.5", plus min. 2 pozície
+pre 2.5" disky typu SAS, SATA alebo SSD
+
+2.7.: počet osadených pevných diskov
+
+min. 5x 8TB SAS, 12G, 7200 otáčok za minútu, min. 1x 960GB
+SATA, 6G, SSD mixed use
+
+2.8.: sieťový adaptér
+
+min. 4x 1Gbps Ethernet Adaptér, RJ45, min. 4x 10Gbps Ethernet
+Adaptér, RJ45
+
+2.9.: správa a manažment
+
+servisný procesor alebo karta pre systémový manažment
+poskytujúca podporu vzdialeného manažmentu servera, možnosť
+pripojenia vzdialených médií - CD-ROM, DVD-ROM,
+
+2.10.: správa a manažment
+
+možnosť štartu, reštartu a vypnutia servera cez sieť LAN,
+nezávisle od OS, resp. softvér potrebný na prevádzku, konfiguráciu
+a správu servera
+
+2.11.: správa a manažment
+
+Rozšírená ochrana na úrovni BIOSu servera, verifikácia
+bezpečnosti FW, automatická oprava infikovaných FW servera,
+pravidelné skenovanie FW integrity.Podpora bezpečnostnej
+certifikácie CNSA/SuiteB
+
+2.12.: predporuchová záruka
+
+minimálne na HDD a pamäťové moduly
+
+2.13.: inštalácia
+
+inštalácia HW na mieste u zákazníka
+
+2.14.: chladenie
+
+redundantné ventilátory, vymeniteľné za chodu
+
+2.15.: napájanie
+
+redundantné zdroje, vymeniteľné za chodu, min. 2x 800W,
+účinnosť min. 94%
+
+2.16.: prevedenie
+
+19“ rack, súčasťou servera musia byť aj koľajnice na montáž do
+racku spolu s ramenom na vedenie kabeláže, ktoré umožňuje
+servisovanie počas behu servera. Výška servera v racku max. 2U.
+
+2.17.: podpora
+
+servisná podpora na min. 3 roky, s dobou odozvy min. v
+nasledujúci pracovný deň, možnosť nahlasovania servisných
+incidentov v pracovných hodinách (8:00 až 17:00)
+
+Položka č. 3:
+
+Server typ 3
+
+Funkcia
+Server typ 3
+Technické vlastnosti
+
+Jednotka
+
+3. Server typ 3
+
+ks
+
+1
+
+počet procesorových jadier ( z dôvodu licenčných
+obmedzení )
+
+ks
+
+8
+
+rozšíriteľnosť procesorových jadier
+
+ks
+
+16
+
+osadená operačná pamäť
+
+GB
+
+48
+
+rozšíriteľnosť operačnej pamäte
+
+TB
+
+1,5
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+3. Server typ 3
+Strana 3 z 9
+
+Minimum
+
+Maximum
+
+Presne
+
+3.1.: platforma
+
+mikroprocesor typu x86 (alebo ekvivalentný)
+
+3.2.: výkonové číslo podľa benchmarku
+SPECint_rate_base2017
+
+min. 73 pri osadení dvoma procesormi (socket), požadujeme
+osadiť jeden procesor
+
+3.3.: rozširujúce sloty
+
+min. 3 voľné sloty PCI-Express, možnosť rozšírenia na min 8
+slotov PCIe, min. 1 voľný USB / SD slot vo vnútri servera
+
+3.4.: HW RAID radič diskov interný
+
+podpora SAS alebo SATA diskov, min. RAID 0, 1, 5, 6, 10, 50, 60,
+tripple mirror. Vyrovnávacia pamäť min. 4GB chránená batériou
+alebo ekvivalentným spôsobom
+
+3.5.:HW RAID radič diskov, externý
+
+podpora SAS alebo SATA diskov, podpora externej páskovej
+mechaniky / autoloader, min. RAID 0, 1, 5, 10
+
+3.6.: pozície pre pevné disky
+
+min. 12 pozícií pre 3.5" disky typu SAS, SATA alebo SSD, všetky
+disky za chodu meniteľné / dopĺňateľné
+
+3.7.: rozšíriteľnosť pevných diskov
+
+rozšíriteľnosť interných diskov na min. 16x 3.5", plus min. 2 pozície
+pre 2.5" disky typu SAS, SATA alebo SSD
+
+3.8.: počet osadených pevných diskov
+
+min. 7x 8TB SAS, 12G, 7200 otáčok za minútu, min. 1x 960GB
+SATA, 6G, SSD mixed use
+
+3.9.: sieťový adaptér
+
+min. 4x 1Gbps Ethernet Adaptér, RJ45, min. 4x 10Gbps Ethernet
+Adaptér, RJ45
+
+3.10.: správa a manažment
+
+servisný procesor alebo karta pre systémový manažment
+poskytujúca podporu vzdialeného manažmentu servera, možnosť
+pripojenia vzdialených médií - CD-ROM, DVD-ROM,
+
+3.10.: správa a manažment
+
+možnosť štartu, reštartu a vypnutie servera cez sieť LAN,
+nezávisle od OS, resp. softvér potrebný na prevádzku, konfiguráciu
+a správu servera
+
+3.10.: správa a manažment
+
+Rozšírená ochrana na úrovni BIOSu servera, verifikácia
+bezpečnosti FW, automatická oprava infikovaných FW servera,
+pravidelné skenovanie FW integrity.Podpora bezpečnostnej
+certifikácie CNSA/SuiteB
+
+3.11.: predporuchová záruka
+
+minimálne na HDD a pamäťové moduly
+
+3.12.: inštalácia
+
+inštalácia HW na mieste u zákazníka
+
+3.13.: chladenie
+
+redundantné ventilátory, vymeniteľné za chodu
+
+3.14.: napájanie
+
+redundantné zdroje, vymeniteľné za chodu, min. 2x 800W,
+účinnosť min. 94%
+
+3.15.: prevedenie
+
+19“ rack, súčasťou servera musia byť aj koľajnice na montáž do
+racku spolu s ramenom na vedenie kabeláže, ktoré umožňuje
+servisovanie počas behu servera. Výška servera v racku max. 2U.
+
+3.16.: podpora
+
+servisná podpora na min. 3 roky, s dobou odozvy min. v
+nasledujúci pracovný deň, možnosť nahlasovania servisných
+incidentov v pracovných hodinách (8:00 až 17:00)
+
+Položka č. 4:
+
+UPS - záložný zdroj
+
+Funkcia
+4. záložný zdroj
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+UPS - záložný zdroj
+
+ks
+
+počet chránených zásuviek IEC 320-C13
+
+ks
+
+8
+
+počet chránených zásuviek IEC 320-C19
+
+ks
+
+1
+
+kapacita
+
+VA
+
+3000
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Maximum
+
+Presne
+2
+
+4.1.: záložný zdroj
+4.2.: komunikačné rozhrania
+
+min. USB, RS232, LAN RJ45 1Gbps
+
+4.3.: výdrž
+
+min. 44 minút pri 50% zaťažení maximálneho výkonu UPS, je
+potrebné dodať aj zodpovedajúci počet rozširujúcich modulov
+
+4.4.: inštalácia
+
+inštalácia HW na mieste u zákazníka
+Strana 4 z 9
+
+4.5.: prevedenie
+
+2U pre UPS s montážnym kitom do 19“ racku, 2U pre rozširujúce
+moduly, od rovnakého výrobcu ako servery
+
+4.6.: podpora:
+
+servisná podpora na min. 3 roky, s dobou odozvy min. v
+nasledujúci pracovný deň, možnosť nahlasovania servisných
+incidentov v pracovných hodinách (8:00 až 17:00)
+
+Položka č. 5:
+
+Sieťový prepínač typ 1
+
+Funkcia
+5. sieťový prepínač
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Sieťový prepínač typ 1
+
+ks
+
+počet portov RJ45, 1/10Gbps
+
+ks
+
+12
+
+počet portov SFP+, 1/10Gbps
+
+ks
+
+4
+
+tranceivery SFP+, LC, SR
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Maximum
+
+Presne
+2
+
+5.1.: Sieťový prepínač typ 1
+5.2.: prevedenie
+
+rack, maximálna výška 1U
+
+5.3.: kabeláž
+
+min. 1ks SFP+ na SFP+ prepojovací kábel
+
+5.4.: priepustnosť
+
+min. 238Mbps, menej ako 5 mikrosekundová latencia
+
+5.5.: inštalácia
+
+inštalácia HW na mieste u zákazníka
+
+5.6.: podpora:
+
+servisná podpora na min. 3 roky, s dobou odozvy min. v
+nasledujúci pracovný deň, možnosť nahlasovania servisných
+incidentov v pracovných hodinách (8:00 až 17:00)
+
+Položka č. 6:
+
+Sieťový prepínač typ 2
+
+Funkcia
+6. sieťový prepínač
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Sieťový prepínač typ 2
+
+ks
+
+počet portov RJ45, 1Gbps
+
+ks
+
+48
+
+počet portov SFP+, 1/10Gbps
+
+ks
+
+2
+
+počet portov RJ45, 1/10Gbps
+
+ks
+
+2
+
+tranceivery SFP+, LC, SR
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Maximum
+
+Presne
+2
+
+6.1.: Sieťový prepínač typ 2
+6.2.: prevedenie
+
+rack, maximálna výška 1U
+
+6.3.: kabeláž
+
+min. 1ks SFP+ na SFP+ prepojovací kábel
+
+6.4.: priepustnosť
+
+min. 130Mbps, menej ako 1,5 mikrosekundová latencia
+
+6.5.: inštalácia
+
+inštalácia HW na mieste u zákazníka
+
+6.6.: podpora:
+
+servisná podpora na min. 3 roky, s dobou odozvy min. v
+nasledujúci pracovný deň, možnosť nahlasovania servisných
+incidentov v pracovných hodinách (8:00 až 17:00)
+
+Položka č. 7:
+
+Podpora
+
+Funkcia
+7. obnova podpory pre produkt HP P4500 na obdobie od 1.1.2019 do 31.12.2019
+Technické vlastnosti
+
+Jednotka
+Strana 5 z 9
+
+Minimum
+
+Maximum
+
+Presne
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+7.1.: podpora pre produkt HP P4500
+
+servisná podpora na zariadenie HP P4500 (BQ889A) SN:
+CZJ229143V ; s dobou výmeny min. v nasledujúci pracovný deň,
+
+7.2.: podpora pre produkt HP P4500
+
+možnosť nahlasovania servisných incidentov v pracovných
+hodinách (8:00 až 17:00)
+
+Položka č. 8:
+
+Zálohovacie zariadenie
+
+Funkcia
+8.Zálohovace zariadenie
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Maximum
+
+Presne
+
+Počet slotov plne osadených dátovými páskami v
+podporovanej natívnej kapacite min. 6TB
+
+ks
+
+príslušenstvo - dátové médiá s natívnou kapacitou min.
+6TB
+
+ks
+
+7
+
+príslušenstvo - čistiace páskové médium
+
+ks
+
+1
+
+príslušenstvo - nálepka s čiarovým kódom pre dátové
+médiá
+
+ks
+
+100
+
+príslušenstvo - nálepka s čiarovým kódom pre čistiace
+médiá
+
+ks
+
+5
+
+príslušenstvo - 1ks SAS kábel 2m na pripojenie na
+server s mini-SAS HD konektorom
+
+ks
+
+1
+
+príslušenstvo - napájací kábel na pripojenie do PDU
+pomocou C13/C14 2m kábla
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+8
+
+8.Zálohovacie zariadenie
+8.1.: prevedenie:
+
+Páskový autoloader s jednou páskovou mechanikou. Zariadenie
+musí obsahovať všetky potrebné komponenty na montáž do
+štandardného 19" racku.
+
+8.2.: páskové mechaniky:
+
+1x Pásková mechanika podporujúca rýchlosť zápisu 300MB/s,
+podpora kompresie dát na úrovni páskovej mechaniky
+
+8.3.: host konektivita:
+
+6Gbps SAS
+
+8.4.: vlastnosti:
+
+Zariadenie musí umožňovať rozšírenie o šifrovanie zálohovaných
+dát na úrovni mechany knižnice.
+
+8.4.: vlastnosti:
+
+Zariadenie musí umožňovať vymienať média pomocou magazínov
+na min. 4 dátové média. Grafické rozhranie pre správu a
+monitoring zariadenia
+
+8.5.: podporované backup SW:
+
+IBM TSM, Dell EMC NetWorker, HP Data Protector, VEEAM,
+Microsoft DPMCommvault, Symantec NetBackup
+
+8.6.: podpora:
+
+servisná podpora na min. 3 roky, s dobou výmeny min. v
+nasledujúci pracovný deň, možnosť nahlasovania servisných
+incidentov v pracovných hodinách (8:00 až 17:00)
+
+8.7.: inštalácia
+
+inštalácia HW na mieste u zákazníka
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Predmet zákazky musí byť NOVÝ, NEPOUŽÍVANÝ, NEREPASOVANÝ dodaný v originálnom, neotvorenom a neporušenom
+balení.
+Z dôvodu plynulej servisovateľnosti a jednoduchosti prevádzky celého riešenia, požadujeme dodávku a servisnú podporu
+všetkých HW komponentov od jedného výrobcu
+Do 3 pracovných dní od uzavretia zmluvy predloží dodávateľ elektronicky e-mailom na adresu zodpovednej osoby
+objednávateľa dokumentáciu zariadení, ktorá musí obsahovať minimálne označenie výrobcu, názov príslušnej položky určený
+výrobcom, ako aj hodnoty tých parametrov, ktoré sú uvedené v technickej špecifikácií zmluvy. Hodnoty v dokumentácií musia
+byť potvrdené výrobcom, alebo jeho obchodným zastúpením v súlade so skutočnými vlastnosťami dodávaného zariadenia.
+
+Strana 6 z 9
+
+Objednávateľ si vyhradzuje právo na posúdenie, či ponúkané zariadenie je plne kompatibilné s existujúcou infraštruktúrou
+objednávateľa a požiadavkami predmetu zákazky a to v lehote 4 pracovných dní od doručenia dokumentácie a certifikátov. V
+prípade, ak zariadenia nebudú spĺňať všetky požiadavky podľa technickej špecifikácie, je objednávateľ oprávnený od zmluvy
+odstúpiť.
+Certifikáty: Dodávateľ musí byť oficiálnym partnerom spoločnosti, ktorá je výrobcom zariadení, ktoré sú súčasťou jeho ponuky,
+pričom potvrdenie o uvedenom partnerstve doručí do 3 pracovných dní od uzavretia zmluvy.
+Dodávateľ predloží Objednávateľovi do 3 pracovných dní od nadobudnutia účinnosti zmluvy doklad vystavený výrobcom alebo
+oficiálnym distribútorom/zástupcom výrobcu, že je certifikovaným partnerom výrobcu zariadení a že výrobca garantuje
+vykonávanie odbornej inštalácie, odborného záručného servisu na zariadenia dodané prostredníctvom Dodávateľa aj v
+prípade zániku Dodávateľa, alebo ukončenia jeho pôsobnosti na trhu a to v zmysle všeobecných záručných podmienok
+výrobcu zariadení.
+V prípade, ak dodávateľ ponúkne ekvivalentný predmet plnenia, a Objednávateľ bude mať pochybnosti o tom, že tento
+ekvivalentný predmet spĺňa požiadavky Obstarávateľa na predmet zákazky, je Dodávateľ povinný do 5 kalendárnych dní odo
+dňa doručenia výzvy Objednávateľa predložiť potvrdenie nezávislej inštitúcie, že ním ponúkaný tovar je ekvivalentný v
+požadovaných technických parametroch a výbave.
+Požaduje sa dodávka vrátane dopravy na miesto plnenia, vrátane inštalácie, uvedenia do prevádzky, odskúšania funkčnosti a
+prevádzky schopnosti výrobkov v predmete Zmluvy a zaškolenia zamestnancov objednávateľa na obsluhu a údržbu na mieste
+plnenia.
+Požadujeme dodanie predmetu zákazky, ktorý je schválený na dovoz a predaj v Slovenskej republike, resp. v rámci Európskej
+únie a bude vyhovovať platným medzinárodným normám, STN a všeobecne záväzným právnym predpisom.
+Doklady, ktoré je dodávateľ povinný predložiť objednávateľovi do 5 pracovných dní od uzavretia zmluvy:
+- položkový aktualizovaný rozpočet predmetu zákazky,
+- podrobný technický opis ponúkaných zariadení vrátane súvisiacich služieb s uvedením obchodnej značky a údajmi
+deklarujúcimi technické parametre ponúkaných zariadení
+- informácie o kontaktnej osobe dodávateľa (meno a priezvisko, e-mailová adresa, telefónne číslo) zodpovednej za plnenie
+zmluvy
+Objednávateľ potvrdzuje dodávku na preberacom (akceptačnom) protokole a protokole o zaškolení zamestnancov
+objednávateľa, ktorý pripraví dodávateľ.
+Dodacia lehota a platobné podmienky:
+- požaduje sa lehota dodania do 4 týždňov od písomného odsúhlasenia aktualizovaného rozpočtu a technickej špecifikácie
+kupujúcim
+- cenu za predmet zákazky kupujúci uhradí po kompletnom dodaní a odovzdaní predmetu zmluvy do trvalej prevádzky na
+základe faktúry so splatnosťou 30 dní, bezhotovostným prevodom. preddavky poskytnuté nebudú.
+- faktúra musí obsahovať okrem povinných náležitostí aj číslo kúpnej zmluvy, jednotkovú cenu bez DPH, jednotkovú cenu s
+DPH, sadzbu DPH, celkovú cenu bez DPH, celkovú cenu s DPH,
+- presný deň dodania predmetu zmluvy a termín školenia užívateľov oznámi predávajúci kupujúcemu najneskôr 3 pracovné dni
+vopred
+- súčasťou odovzdania predmetu zákazky musí byť zoznam produktových, výrobných - sériových čísiel v elektronickej
+podobe
+Doba záruky. min. 36 mesiacov,
+Odborná údržba - pravidelný servis - bezpečnostno-technické prehliadky, opravy, údržba a testovanie v intervaloch
+predpísaných výrobcom musia byť vykonávané v záručnej dobe bezplatne.
+Dodávateľ berie na vedomie, že akékoľvek pohľadávky, ktoré eviduje voči objednávateľovi nie je možné postúpiť na tretiu
+osobu bez predchádzajúceho písomného súhlasu objednávateľa, pričom na písomný súhlas objednávateľa sa vyžaduje
+predchádzajúci súhlas Objednávateľa. V prípade ak dodávateľ postúpi pohľadávku na tretiu osobu bez predchádzajúceho
+písomného súhlasu objednávateľa je takéto postúpenie neplatné.
+Dodávateľ berie na vedomie, že započítanie pohľadávok štátu je možné len na základe písomnej dohody o započítaní
+pohľadávok štátu a to v zmysle § 8 zákona č. 374/2014 Z.z. o pohľadávkach štátu v znení neskorších zmien a doplnení.
+Pri komunikácii bude objednávateľ postupovať v súlade s § 187 ods. 8 zákona o verejnom obstarávaní, pričom pod pojmom
+elektronicky resp. v elektronickej podobe sa rozumie komunikácia uskutočňovaná prostredníctvom e-mailu.
+V zmysle bodu 6.4.6 Všeobecných zmluvných podmienok elektronického trhoviska, spolu s dodávkou predmetu zmluvy
+dodávateľ dodá objednávateľovi všetky doklady a dokumenty týkajúce sa tovaru, ktoré sú nevyhnutné pre ich riadne
+používanie, predovšetkým dodací list, preberací protokol, sprievodnú a technickú dokumentáciu v rozsahu zodpovedajúcemu
+charakteru predmetu zmluvy, záručný list, kópiu certifikátu respektíve vyhlásenia o zhode ponúkaného tovaru.
+
+Strana 7 z 9
+
+Pokuty: V prípade porušenia povinnosti dodávateľa dodať predmet zmluvy riadne a včas podľa zmluvy, je Objednávateľ
+oprávnený požadovať od dodávateľa zaplatenie zmluvnej pokuty vo výške 0,05 % z ceny plnenia a to denne. V prípade ak
+bolo dohodnuté dodanie zariadenia v ucelených častiach a dodávateľ poruší svoju povinnosť dodať túto ucelenú časť plnenia
+riadne a včas podľa zmluvy, je Objednávateľ oprávnený požadovať od dodávateľa zaplatenie zmluvnej pokuty vo výške 0,05%
+z ceny pripadajúcej na príslušnú ucelenú časť plnenia, ktorej sa takéto porušenia týka a to denne.
+Ak Dodávateľ nepredloží, alebo predloží Objednávateľovi prospekt, ktorý nezodpovedá zadanej technickej špecifikácií zmluvy
+a/alebo certifikát, v ktorom ktorákoľvek hodnota nebude v súlade so skutočnými alebo požadovanými vlastnosťami
+dodávaného zariadenia, alebo sa takýto prospekt/certifikát pokúsi dodať/predložiť, Objednávateľ je oprávnený uplatniť si u
+Dodávateľa zmluvnú pokutu v sume rovnajúcej sa 0,5 % z ceny predmetu zmluvy, minimálne však 300 EUR za každé také
+porušenie, pričom tým nie je dotknutý nárok na náhradu škody.
+V prípade, ak Objednávateľ odstúpi od zmluvy z dôvodov podľa čl. XVIII. bod 18.2 písm. a), b), c), d), e), f), g), i), j), k), l), p),
+q), t), u), w) VZP má objednávateľ nárok na zmluvnú pokutu vo výške 1.000 EUR za každý takýto dôvod odstúpenia od
+zmluvy.
+Vzťahy neuvedené v tejto zmluve sa riadia Obchodnými podmienkami elektronického trhoviska (OPET) a Obchodným
+zákonníkom.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava IV
+
+Obec:
+
+Bratislava - mestská časť Lamač
+
+Ulica:
+
+Lamačská cesta 8
+
+Čas / lehota plnenia zmluvy:
+10.12.2018 10:53:00 - 13.12.2018 10:54:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+12,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 145 000,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 174 000,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+Strana 8 z 9
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 07.11.2018 11:32:00
+Objednávateľ:
+Štátny fond rozvoja bývania
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Data System Soft, spol. s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 9 z 9
+
+

@@ -1,0 +1,456 @@
+Zmluva o dielo č. Z201736079_Z
+uzatvorená v zmysle §536 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Detská fakultná nemocnica s poliklinikou Bratislava
+Limbová 1, 83340 Bratislava, Slovenská republika
+00607231
+2020848368
+SK 2020848368
+SK32 8180 0000 0070 0027 9306
++421 259371571
+
+Dodávateľ:
+Obchodné meno:
+
+STAPRO SLOVENSKO s.r.o.
+
+Sídlo:
+
+Hroncova 3, 04001 Košice, Slovenská republika
+
+IČO:
+
+31710549
+
+DIČ:
+
+2020483982
+
+IČ DPH:
+
+SK2020483982
+
+Číslo účtu:
+
+SK89 0200 0000 0012 1814 9953
+
+Telefón:
+
+0918166720
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+MODERNIZÁCIA NIS (MODUL RDG, CP)
+
+Kľúčové slová:
+
+modernizácia NIS (modul RDG a Clinical Pathways)
+
+CPV:
+
+48000000-8 - Softvérové balíky a informačné systémy; 72000000-5 - Služby informačných
+technológií: konzultácie, vývoj softvéru, internet a podpora
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• RÁDIOLÓGIA - základným cieľom realizácie je zaistenie nasledovných procesov:
+• prehľadný a dokumentovateľný workflow pacienta od vystavenia žiadanky (na ambulancii alebo oddelení) až po jeho
+kontrolné vyšetrenie (opäť na ambulancii alebo oddelení) s plnohodnotnou integráciou systému manažmentu
+pacienta SystemOmega, nemocničného informačného systému MEDEA a výkazníctva StaproFONS – Výkazníctvo
+SK
+• prehľadný grafický diár s možnosťou definície vlastných šablón vyšetrení pre objednávky vrátane ich farebného
+odlíšenia, stanovenia dĺžky vyšetrenia, predvyplnenia základných údajov a jednoduché intuitívne objednávanie,
+predovšetkým Drag&Drop preobjednanie, zmena dĺžky vyšetrenia, storno objednávky
+• prehľadný zoznam vyšetrených pacientov – evidencia všetkých žiadaniek s možnosťou filtrovania podľa obdobia,
+aktuálneho stavu žiadanky v rámci vyšetrovacieho procesu, stavu vykázania, vytlačenia nálezu, či prehľad
+stornovaných vyšetrení
+• podpora fulltextového prehľadávania nálezov
+• plnohodnotná integrácia s Tatramed PACS (odosielanie HL7 správ na worklist server Tatramed, otváranie štúdií cez
+TomoCon, integrácia T3C)
+• podpora pre spracovanie MPPS stavov (Modality Performed Procedure Step): stavy posielané z modalít pre ďalšie
+spracovanie a riadenie procesu vyšetrenia.
+• ukladanie rádiologického nálezu a jeho príloh (žiadanka, kartička pacienta, laboratórne vyšetrenia, iné.) vo formáte
+enkapsulovaného PDF a ich archivávciu v dátovom úložisku PACS.
+• podpora pre tvorbu konfigurovateľných zostáv – možnosť tvorby reportov na základe spracovávaných údajov bez
+nutnosti zásahu dodávateľa – integrované inteligentné riešenie reportingu.
+
+Strana 1 z 6
+
+• sledovanie limitov zdravotných poisťovní tak formou online kontroly pri objednávaní (varovanie) ako aj formou
+jednoduchej a prehľadnej zostavy.
+• RÁDIOLÓGIA - požiadavky na riešenie procesov::
+• žiadanky na vyšetrenia – možnosť vystavenia a spracovania žiadanky tak z nemocničného informačného systému
+ako aj z web prostredia
+• objednávanie pacientov – prehľadný a intuitívny diár s možnosťou definície kontrol na rôzne udalosti, predovšetkým
+na dodržanie limitu zdravotnej poisťovne, súbežných objednávok, prestávok a pracovnej doby.
+• príchod pacienta - spracovanie žiadanky a zadanie všetkých potrebných údajov pre ďalšie vykonanie vyšetrenia s
+možnosťou scanovania žiadanky (a iných dokumentov) a vloženia priamo do dokumentácie pacienta. Po uložení je
+automaticky generovaný worklist pre modalitu.
+• čakáreň – zaradenie pacienta do čakárne vrátane evidencie času príchodu. Slúži zároveň ako informácia pre
+technikov o čakajúcich pacientoch.
+• spracovanie MPPS stavov – na základe stavov posielaných z modalít sú vykonávané zmeny v stavoch vyšetrenia
+pacienta, evidencia reálneho začiatku a ukončenia vyšetrenia
+• vyšetrenie pacienta – spracovanie žiadanky a zaevidovanie všetkých vykonaných vyšetrení, spotrebovaných
+materiálov s automatickým vykázaním výkonov do zdravotnej poisťovne alebo samoplatcom na pozadí, bez nutnosti
+priameho zadávania konkrétnych kódov výkonov. Po ukončení vyšetrenia je automaticky worklist ukončený, užívateľ
+má tak prehľadný a reálny stav na konzole modality
+• popis nálezu – integrácia s prehliadačom PACS poskytuje lekárovi jednoduchý a rýchly prístup k obrazovej
+dokumentácii pacienta. Lekár má pre vyhotovenie nálezu niekoľko možností práce:
+• - manuálny zápis nálezu, využitie preddefinovaných textov.
+• - vyhotovenie zvukového záznamu na profesionálny mikrofónoch (napr. Philips, Olympus), pričom po ukončení
+diktovania je zvukový záznam vložený priamo do dokumentácie pacienta a uložený na centrálny databázový server.
+Ovládanie zvukového záznamu prebieha priamo na mikrofóne, bez nutnosti klikania v aplikácii
+• - elektronická prepisovateľka – plnohodnotná integrácia externej aplikácie za účelom online prepisu hovoreného slova
+na text, pričom do dokumentácie pacienta je možné vložiť len text, ktorý lekár po sebe opraví, alebo aj zvukový
+záznam, určený na kontrolu pisárke.
+• prepis nálezu pisárkou – centralizované riešenie natívne podporuje činnosť interných aj externých pisárok, ktoré pre
+uľahčenie práce využívajú nožné pedále (napr. Olympus) pre prehrávanie zvukových záznamov. Po nadiktovaní
+zvukového záznamu lekárom tak pisárka ihneď vidí klinické udalosti určené k prepisu. Po prepísaní označí nález ako
+prepísaný
+• validácia nálezu – lekár či už kontrolou vlastného nálezu, alebo kontrolou nálezu po pisárke tento nález uzatvára, čím
+sa jeho ďalšia editácia stáva nemožná. FONS Enterprise podporuje editáciu takéhoto nálezu buď napísaním dodatku
+alebo stornovaním originálneho nálezu a vytvorením identickej kópie nového záznamu. V databáze tak ostáva
+informácia aj o pôvodnom náleze.
+• odosielanie nálezov externým žiadateľom – systém bez zásahu užívateľa generuje XML správy vo formáte DASTA
+(na Slovensku v tejto chvíli rozšírený formát pre výmenu laboratórnych aj rádiologických nálezov).
+• prístup k nálezom prostredníctvom web portálu pre externých žiadateľov - užívateľsky jednoduché riešenie, ktoré
+poskytne odosielajúcim lekárom na základe ich bezplatnej registrácie prístup ku všetkým nálezom vrátane obrazovej
+dokumentácie tých pacientov, ktorých oni sami odoslali na vyšetrenie. Systém po registrácii automaticky odošle
+vyplnenú zmluvu odosielajúcemu lekárovi aj administrátorovi portálu na email, po podpise zmluvy o ochrane
+osobných údajov je konto aktivované správcom portálu
+• CLINICAL PATHWAYS – klinické doporučené postupy (procesy):
+• klinické doporučené postupy s[ „systematicky vytvárané stanoviská, pomáhajúce lekárom, zdravotným sestrám a
+pacientom v špecifických klinických situáciách rozhodovať o primeranej zdravotnej starostlivosti.“ V posledných
+desiatich rokoch došlo k významnému pokroku na poli ich metodológie tvorby, adaptácie, implementácie a
+vyhodnotenia. Predovšetkým ku kvalite a štandardom doporučených postupov sa pristupuje viac systematicky
+• CLINICAL PATHWAYS - základným cieľom realizácie je zaistenie nasledovných procesov:
+• grafický užívateľský nástroj pre účely tvorby klinických doporučených postupov na úrovni zaškoleného užívateľa
+zdravotníckeho zariadenia
+• tvorba klinických doporučených postupov pre lekárov a ich následná praktické využívanie v dennodennej zdravotnej
+starostlivosti o pacienta
+• tvorba klinických doporučených postupov pre stredný zdravotný personál a ich následná praktické využívanie v
+dennodennej zdravotnej starostlivosti o pacienta
+• každý hospitalizovaný pacient môže mať 1..n aktívnych procesov
+• každý krok klinického doporučeného postupu je možné sledovať a vyhodnotiť (splnenie vrátane časovej známky a
+užívateľa, resp. nesplnenie vrátane časovej známky, užívateľa a uvedenia dôvodu).
+• na jednotlivé kroky procesu je možné naviazať akékoľvek klinické udalosti (napr. žiadanky, formuláre, tlačivá), alebo
+spustenie modulu.
+
+Strana 2 z 6
+
+• krok procesu môže byť označený ako povinný, čím užívateľ nemôže daný krok vynechať, t.j. označiť ako nesplnený
+• do procesov je možné vkladať tzv. ad hoc kroky procesu, nakoľko každá liečba a každý pacient je unikátny a môže
+vyžadovať vychýlenie sa definovanému klinickému doporučenému postupu.
+• jednotlivé kroky procesu generujú úlohy, tzv. tasky, ktoré sú užívateľovi v jednoduchej, prehľadnej a zrozumiteľnej
+podobe zobrazené (napr. dnešné odbery, merania teploty, žiadanky na zobrazovacie vyšetrenia a iné)
+• nad ukončenými aj bežiacimi procesmi je možné zostavovať štatistické prehľady, kontrolu plnenia úloh, prehľad
+nesplnených krokov jednotlivých procesov
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Modernizácia (upgrade) a nastavenie procesov NIS
+(modul RDG a CP)
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+2.4
+
+Minimum
+
+Maximum
+
+Presne
+1
+
+Osobitné požiadavky na plnenie:
+
+Názov
+I. CENA
+1. Dodávateľ predmetu zákazky je povinný predložiť podrobnú cenovú kalkuláciu do 5 pracovných dní od uzavretia zmluvy, v
+ktorej pre jednotlivé položky uvedie: jednotkové ceny bez DPH, jednotkové ceny s DPH, cenu celkom bez DPH, cenu celkom s
+DPH a v prípade ak dodávateľ predmetu zákazky ponúka ekvivalentný výrobok, uvedie aj typ / označenie tovaru (obchodné
+označenie, značku / výrobcu). Celková cena za predmet zákazky / zmluvy v cenovej kalkulácii musí byť v súlade s celkovou
+cenou predmetu zmluvy, uvedenej v článku IV. Zmluvy - Zmluvná cena.
+2. Celková cena predmetu zákazky / zmluvy a cena za jednotlivé položky obsahujú všetky náklady dodávateľa predmetu
+zákazky spojené s plnením predmetu uvedeného v časti Tech. špec. predmetu zákazky / zmluvy (doprava na miesto plnenia,
+vykládka do určených priestorov v miestach plnenia, inštalácia a zaškolenie zamestnancov objednávateľa predmetu zákazky,
+likvidácia obal. odpadu, odstraňovanie uznaných vád počas záručnej doby) a tiež všetky dane, clá, poplatky, platby vyberané v
+rámci uplatňovania nesadzobných opatrení ustanovené osobitnými predpismi, ako aj iné náklady spojené s plnením zmluvy.
+3. Dodávateľovi predmetu zákazky nevznikne nárok na úhradu akýchkoľvek dodatočných nákladov, ktoré si nezapočítal do
+ceny predmetu zákazky / zmluvy. Všetky ceny predložené dodávateľom predmetu zákazky zohľadňujú primerané,
+preukázateľné náklady a primeraný zisk.
+4. V prípade, že dodávateľ predmetu zákazky ku dňu predkladania ponuky nie je platcom DPH, avšak po podpise zmluvy sa
+ním stane, nemá nárok na zvýšenie ceny predmetu zákazky / zmluvy o hodnotu DPH.
+5. Ak je dodávateľ predmetu zákazky identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z
+iného členského štátu EÚ, tento Dodávateľ predmetu zákazky nebude pri plnení zmluvy fakturovať DPH. Vo svojej
+kontraktačnej ponuke však musí uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH.
+Objednávateľ predmetu zákazky nie je zdaniteľnou osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 zákona
+č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č. 222/2004 Z.z.
+II. MIMORIADNE NÍZKA PONUKA
+1. V prípade ak cena dodávateľa predmetu zákazky bude mimoriadne nízka vo vzťahu k predmetu zákazky / zmluvy, resp.
+bude vykazovať znaky mimoriadne nízkej ponuky podľa § 53 ods. 3 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o
+zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len "Zákon o verejnom obstarávaní") dodávateľ
+predmetu zákazky je povinný predložiť na požiadanie objednávateľa predmetu zákazky v lehote určenej objednávateľom
+predmetu zákazky doklady a vyjadrenie, ktorým preukáže v rozsahu § 53 Zákona o verejnom obstarávaní reálnosť plnenia za
+zmluvnú cenu.
+2. Ak dodávateľ predmetu zákazky v čase stanovenom objednávateľom predmetu zákazky nepredloží na základe písomnej
+výzvy doklady a vyjadrenie preukazujúce reálnosť plnenia predmetu zákazky / zmluvy za mimoriadne nízku cenu, resp. za
+cenu vykazujúcu znaky mimoriadne nízkej ponuky, považuje sa to za podstatné porušenie zmluvných podmienok a za dôvod
+na odstúpenie od zmluvy.
+III. PLENIE PREDMETU ZÁKAZKY
+1. Dodávateľ predmetu zákazky sa zaväzuje do 5 pracovných dní od uzavretia zmluvy predložiť objednávateľovi predmetu
+zákazky kontaktné údaje osoby zodpovednej za riadne plnenie predmetu zmluvy v rozsahu: meno, priezvisko, tel. číslo a
+e-mailová adresa.
+2. Dodávateľ predmetu zákazky je povinný na požiadanie objednávateľa predmetu zákazky do 5 pracovných dní odo dňa
+uzavretia zmluvy sprístupniť vzorku predmetu zákazky vo svojom sídle, obchodnej prevádzke, alebo v inom mieste a umožniť
+objednávateľovi predmetu zákazky vykonať osobnú obhliadku predmetu zákazky na overenie splnenia Technickej špecifikácie
+predmetu zákazky / zmluvy.
+Strana 3 z 6
+
+3. Miestom dodania je Bratislava; presnú adresu s kontaktnou osobou objednávateľ predmetu zákazky poskytne dodávateľovi
+predmetu zákazky do 5 pracovných dní od uzavretia zmluvy.
+4. Plnenie sa uskutoční v pracovné dni a v pracovnom čase objednávateľa predmetu zákazky (8:00 - 16:00 h / pružný
+pracovný čas 6:00 - 20:00).
+5. Dodávateľ predmetu zákazky je povinný spresniť deň a hodinu dodania predmetu zmluvy, resp. jeho časti telefonicky alebo
+e-mailom, minimálne jeden deň pred dodaním predmetu zmluvy a tento termín musí písomne potvrdiť zodpovedný zástupca
+objednávateľa predmetu zákazky. V prípade neoznámenia termínu dodávky tovaru, objednávateľ predmetu zákazky nie je
+povinný prevziať tovar v deň doručenia, ale až v nasledujúci deň. Všetky náklady spojené s odmietnutím prevzatia
+neoznámenej dodávky znáša dodávateľ predmetu zákazky.
+IV. POŽIADAVKY NA TOVAR
+1. Dodávateľ predmetu zákazky dodá tovar, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike, resp.
+v Európskej únii a bude vyhovovať platným medzinárodným normám, STN a všeobecne záväzným právnym predpisom.
+Dodávateľ predmetu zákazky je povinný na požiadanie objednávateľa preukázať uvedené certifikácie tovaru, ako aj všetky
+vlastnosti tovaru, ktoré sú vyžadované v Technickej špecifikácií predmetu zákazky / zmluvy.
+2. Dodávateľ predmetu zákazky predloží do 5 pracovných dní od uzavretia zmluvy potvrdenie od výrobcu NIS MEDEA a
+TOMOCON PACS, že dodávateľ predmetu zákazky je držiteľom autorizácie na dodávku, inštaláciu a rekonfiguráciu
+ponúknutého riešenia. Záručná doba na dodaný tovar je 2 roky. Dodávateľ predmetu zákazky predloží do 5 pracovných dní
+osobu, ktorá su bude priamo podielať na inštalácii a migrácii.
+3. Objednávateľ predmetu zákazky požaduje predložiť platný certifikát ISO 9001 a 27001 (pre oblasť rovnakú, alebo
+porovnateľnú s predmetom zákazky).
+4. Pokiaľ z Technickej špecifikácie predmetu zákazky / zmluvy vyplýva priame alebo nepriame označenie výrobku alebo
+výrobcu, výrobný postup, značka, obchodný názov, patent alebo typ, objednávateľ predmetu zákazky v takom prípade pripustí
+ekvivalentné plnenie / riešenie, za ktoré bude považovať výrobok rovnakých alebo vyšších parametrov. Dodávateľ predmetu
+zákazky je povinný objednávateľovi predmetu zákazky riadne preukázať parametre ekvivalentného plnenia.
+5. Dodávateľ predmetu zákazky je povinný dodať tovar podľa tejto zmluvy nový, nerepasovaný. Tovar nesmie byť pred
+dodaním používaný, opotrebovaný, ani iným spôsobom čiastočne alebo úplne znehodnotený vo svojich technických a / alebo
+materiálových vlastnostiach. Tovar nesmie pochádzať z výstav alebo byť pred dodaním vystavovaný.
+6. Objednávateľ predmetu zákazky si vyhradzuje právo prevziať iba tovar spĺňajúci všetky technické vlastnosti uvedené v
+Technickej špecifikácií predmetu zákazky / zmluvy, ktorý je funkčný, bez zjavných vád, dodaný v kompletnom stave a v
+požadovanom množstve. V opačnom prípade si objednávateľ predmetu zákazky vyhradzuje právo nepodpísať dodací list,
+neprevziať dodaný tovar a nezaplatiť cenu za riadne nedodaný tovar.
+7. Funkčné, technické a výkonnostné požiadavky na predmet zákazky, ktoré sú uvedené v Technickej špecifikácii predmetu
+zákazky/zmluvy sú považované za minimálne. Objednávateľ predmetu zákazky akceptuje aj také funkčné, technické a
+výkonnostné vlastnosti predmetu zákazky / zmluvy v rámci predloženej súťažnej ponuky, ktorých vyjadrené kvantifikovateľné
+aj nekvantifikovateľné parametre budú vyššie (lepšie) ako sú objednávateľom predmetu zákazky uvedené požadované
+parametre funkčných, technických a výkonnostných vlastnostiach predmetu zákazky / zmluvy.
+V. FAKTURÁCIA
+1. Úhrada za predmet zákazky / zmluvy bude realizovaná formou bezhotovostného platobného styku bez poskytnutia
+zálohovej platby. Cena za skutočne dodaný predmet zákazky / zmluvy bude uhradená jednorazovo na základe dodávateľom
+predmetu zákazky vyhotovenej a doručenej faktúry.
+2. Prílohou faktúry budú kópie dodacích listov potvrdených povereným zamestnancom objednávateľa predmetu zákazky alebo
+iný doklad o preprave alebo doručení zásielky tovaru.
+3. Splatnosť faktúry je minimálne 14 dní odo dňa jej doručenia do podateľne objednávateľa predmetu zákazky.
+4. Dodávateľ predmetu zákazky sa zaväzuje poslať vyhotovenú faktúru listinne poštou a súčasne aj v textovo čitateľnom
+súbore vo formáte PDF elektronicky, na e-mailovú adresu objednávateľa predmetu zákazky, a to bezodkladne po jej vystavení.
+Dodávateľ predmetu zákazky vyhlasuje, že obsah faktúry poslanej poštou sa bude zhodovať s faktúrou poslanou v
+elektronickej podobe na e-mailovú adresu objednávateľa predmetu zákazky.
+5. Miesto doručenia faktúry v listinnej faktúry je sídlo objednávateľa predmetu zákazky. E-mailovú adresu, na ktorú dodávateľ
+zašle faktúru elektronicky oznámi objednávateľ dodávateľovi predmetu zákazky do 5 pracovných dní odo dňa uzavretia tejto
+zmluvy.
+6. Dodávateľom predmetu zákazky vystavená faktúra ako daňový doklad musí byť vyhotovená v súlade s ustanoveniami
+zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov. V prípade, ak faktúra vystavená
+dodávateľom nebude obsahovať všetky zákonom stanovené náležitosti alebo bude obsahovať nesprávne alebo neúplné
+údaje, objednávateľ predmetu zákazky má právo takúto faktúru vrátiť dodávateľovi na jej doplnenie, resp. opravu a dodávateľ
+je povinný podľa charakteru nedostatku vystaviť novú, opravenú, resp. doplnenú faktúru s novou lehotu splatnosti.
+VI. PODMIENKY ÚČASTI
+1. Dodávateľ predmetu zákazky musí spĺňať podmienky účasti týkajúce sa osobného postavenia podľa § 32 zákona o
+verejnom obstarávaní. Objednávateľ predmetu zákazky upozorňuje dodávateľov na skutočnosť, že prijatím zákona č.
+343/2015 Z.z. o verejnom obstarávaní došlo k úprave podmienok týkajúcich sa osobného postavenia, ako aj k úprave
+podmienok zápisu do zoznamu hospodárskych subjektov.
+
+Strana 4 z 6
+
+2. Podmienkou nadobudnutia platnosti a účinnosti zmluvy je zápis údajov o dodávateľovi predmetu zákazky v registri partnerov
+verejného sektora podľa 315/2016 Z.z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov. Ak v
+momente uzavretia zmluvy nemá dodávateľ v registri partnerov verejného sektora v súlade s príslušnými ustanoveniami
+zákona, zmluva nadobudne účinnosť najskôr v deň zápisu dodávateľa predmetu zákazky do tohto registra (bod 4.4 VZP
+OPET).
+3. Objednávateľ predmetu zákazky je oprávnený od zmluvy odstúpiť ak v momente uzavretia zmluvy nie je dodávateľ
+predmetu zákazky v registri partnerov verejného sektora zapísaný v súlade s príslušnými ustanoveniami zákona a k zápisu do
+tohto registra nedôjde ani do 30 dní od momentu uzavretia zmluvy (bod 18.2, písm. v VZP OPET).
+4. Nepredloženie dokladov preukazujúcich splnenie podmienok účasti týkajúce sa osobného postavenia podľa § 32 zákona o
+verejnom obstarávaní sa považuje za podstatné porušenie zmluvy s možnosťou uplatnenia zmluvnej pokuty a s možnosťou
+využitia inštitútu odstúpenia od zmluvy pre podstatné porušenie zmluvných podmienok.
+5. Objednávateľ predmetu zákazky upozorňuje, že dodávateľ musí byť v zmysle § 32 ods. 1 písm. e) zákona o verejnom
+obstarávaní oprávnený poskytovať službu, ktorá zodpovedá predmetu zákazky. V prípade pochybností objednávateľa je
+dodávateľ povinný na požiadanie objednávateľa predmetu zákazky v lehote určenej objednávateľom predmetu zákazky
+preukázať splnenie podmienok dokladom podľa § 32 ods. 1 písm. e) zákona o verejnom obstarávaní. V opačnom prípade je
+objednávateľ predmetu zákazky oprávnený odstúpiť od zmluvy.
+VII. ĎAĽŠIE USTANOVENIA
+1. Objednávateľ predmetu zákazky požaduje zložiť na jeho účet vedený v Štátnej pokladnici sumu vo výške 10 % zo Zmluvnej
+ceny, ako výkonovú záruku zmluvného záväzku za účelom riadneho plnenia zmluvných povinností (najmä kvality a termínov
+plnenia) do 5 pracovných dní od uzatvorenia zmluvy. V prípade, ak dodávateľ predmetu zákazky riadne plnenie neuskutoční,
+uvedená finančná čiastka v plnej sume prepadá v prospech objednávateľa predmetu zákazky. V prípade riadneho plnenia
+zmluvných povinností dodávateľom predmetu zákazky je objednávateľ predmetu zákazky povinný do 3 pracovných dní ...
+... po splnení zmluvy vrátiť dodávateľovi predmetu zákazky na jeho účet výkonovú záruku v plnej výške.
+2. V prípade, ak dodávateľ predmetu zákazky poruší akúkoľvek zmluvnú podmienku a/alebo ktorékoľvek ustanovenie uvedené
+v osobitných požiadavkách na plnenie a/alebo dodaný tovar nebude spĺňať akúkoľvek vlastnosť uvedenú v Technickej
+špecifikácii predmetu zákazky / zmluvy, toto porušenie sa považuje za podstatné porušenie zmluvy a objednávateľ predmetu
+zákazky má právo odstúpiť od zmluvy a následne vyhotoví negatívnu referenciu dodávateľovi predmetu zákazky.
+3. V prípade porušenia povinnosti dodávateľa predmetu zákazky dodať celé plnenie riadne a včas podľa zmluvy je
+objednávateľ oprávnený požadovať od dodávateľa zaplatenie zmluvnej pokuty vo výške 0,10% ceny plnenia denne. Účelom
+zmluvnej pokuty je pokryť náklady, ktoré vzniknú objednávateľovi v dôsledku nutnosti zrušenia zmluvy a opakovania zákazky z
+dôvodu predloženia ponuky dodávateľom, ktorá nebude zodpovedať vlastnostiam uvedeným v Technickej špecifikácii
+predmetu zákazky / zmluvy a/alebo z dôvodu predloženia ponuky, za cenu ktorej tovar nebude možné dodať a/alebo z iného
+dôvodu na ...
+... strane dodávateľa predmetu zákazky.
+4. Všetky doklady a dokumenty musia byť predložené v štátnom jazyku. Ak je doklad alebo dokument vyhotovený v cudzom
+jazyku, predkladá sa spolu s jeho úradným prekladom do štátneho jazyka, to neplatí pre návrhy, doklady a dokumenty
+vyhotovené v českom jazyku.
+5. Objednávateľ predmetu zákazky si vyhradzuje právo odstúpiť od zmluvy v prípade ak proces verejného obstarávania
+nebude akceptovaný zo strany poskytovateľa finančných prostriedkov, alebo v prípade ak objednávateľovi predmetu zákazky
+nebudú pridelené finančné prostriedky na realizáciu zákazky zo strany ich poskytovateľa.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava III
+
+Obec:
+
+Bratislava - mestská časť Nové Mesto
+
+Ulica:
+
+Limbová 1
+
+Čas / lehota plnenia zmluvy:
+31.07.2017 08:00:00 - 31.10.2017 15:00:00
+Strana 5 z 6
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+riešenie
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 204 750,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 245 700,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 28.07.2017 12:38:02
+Objednávateľ:
+Detská fakultná nemocnica s poliklinikou Bratislava
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+STAPRO SLOVENSKO s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 6 z 6
+
+

@@ -1,0 +1,556 @@
+Zmluva
+o poskytnutí služieb
+zriadenia a prevádzky Registračnej autority
+Zmluvné strany:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Zapísaná:
+Zastúpená:
+(ďalej len „DTCA“)
+
+D. Trust Certifikačná Autorita, a.s.
+Plynárenská 7/C
+821 09 Bratislava
+35 840 005
+2020262651
+SK2020262651
+Tatra banka, 2622712298 / 1100
+Obchodný register, Okresný súd Bratislava I,
+oddiel Sa, vložka číslo 2986/B
+Ing. Július Lintner, predseda predstavenstva
+Ing. Anna Záhorčáková, člen predstavenstva
+
+a
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+IBAN:
+Zastúpená:
+
+Kancelária Najvyššieho súdu Slovenskej republiky
+Župné námestie č. 13,
+814 90 Bratislava
+50668277
+2120408994
+SK2120408994
+Štátna pokladnica
+SK49 8180 0000 0070 0056 6508
+JUDr. Ivan Solej, LL.M., vedúci
+
+(ďalej len „prevádzkovateľ RA“)
+(ďalej spolu aj „zmluvné strany“)
+sa v zmysle ustanovenia § 269 ods. 2. a nasl. Obchodného zákonníka v platnom znení dohodli na
+uzavretí tejto Zmluvy o poskytnutí služieb zriadenia a prevádzky Registračnej autority (ďalej len
+„Zmluva“):
+Preambula
+DTCA vyhlasuje, že ako exkluzívny zmluvný partner spoločnosti:
+První certifikační autorita, a.s.
+sídlo: Podvinný mlýn 2178/6, 190 00, Praha 9 - Libeň, Česká republika
+IČ: 264 39 395
+zapísanej v obchodnom registri vedenom Mestským súdom v Prahe, oddiel B, vložka 7136
+(ďalej len „ I.CA“) ,
+ktorá je kvalifikovaným poskytovateľom dôveryhodných služieb v zmysle Nariadenia EP a Rady (EÚ) č.
+910/2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom
+trhu a o zrušení smernice 1999/93/ES (eIDAS) a zákona č. 272/2016 Z.z. o dôveryhodných službách pre
+
+elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných
+službách) (ďalej len „Zákon o dôveryhodných službách“), je oprávnená poskytovať dôveryhodné služby
+vydávania kvalifikovaných certifikátov, poskytovanie kvalifikovaných elektronických časových pečiatok
+a poskytovanie ostatných dôveryhodných služieb v mene I.CA pre Slovenskú republiku. Neoddeliteľnou
+súčasťou tejto Zmluvy ako jej príloha č. 6 je prehlásenie deklarujúce zmluvný vzťah medzi DTCA a I.CA.
+Článok I.
+Predmet zmluvy
+1. Predmetom tejto Zmluvy sú služby zriadenia a zabezpečenia prevádzkovania Registračnej autority I.CA
+(ďalej len „RA“) u prevádzkovateľa RA.
+2. Poskytované služby v zmysle tejto Zmluvy zahŕňajú:
+-
+
+poskytnutie potrebného hardvéru pre zabezpečenie prevádzky RA, t. j. pre 1 RA je to 1 kus čítačky
+čipových kariet s klávesnicou vrátane licencie softvéru k čítačke a 2 ks čipových kariet
+
+-
+
+poskytnutie potrebného softvéru pre zabezpečenie prevádzky RA, t. j. SW ICARA v aktuálnej verzii
+
+-
+
+poskytnutie príslušného úvodného školenia pre operátorov ICARA
+
+-
+
+poskytnutie prístupu prostredníctvom ICARA na centrálny systém CA I.CA pre účely vystavenia
+certifikátov a zabezpečenie jeho prevádzky
+
+-
+
+poskytnutie podpory pri prevádzke RA
+
+3. Prevádzka RA sa riadi platnými ustanoveniami Certifikačného poriadku I.CA (ďalej len CP I.CA),
+Certifikačného poriadku I.CA pre kvalifikované certifikáty (CP QC I.CA) a platnou Prevádzkovou
+smernicou pre pracovníkov Registračných autorít I.CA (ďalej len „PS I.CA“), ktoré sú prílohami tejto
+Zmluvy. Všetky zmeny a doplnky uvedených dokumentov sú voči prevádzkovateľovi RA účinné
+okamihom zverejnenia na webovej stránke http://www.ica.cz/Slovensky, pričom nie je nutné meniť
+prílohy tejto Zmluvy.
+4. Poskytnutý hardvér pre zabezpečenie prevádzky RA zostáva vo vlastníctve DTCA, prevádzkovateľ RA
+je povinný ho používať len pre účely súvisiace s predmetom tejto Zmluvy a zabezpečiť jeho riadnu údržbu
+v zmysle požiadaviek uvedených v návodoch na jeho použitie a ochranu pred jeho poškodením.
+5. Poskytnutý softvér pre zabezpečenie prevádzky RA zostáva vo vlastníctve DTCA, prevádzkovateľ RA sa
+zaväzuje dodržiavať všetky povinnosti vyplývajúce z ochrany autorských práv pri jeho používaní, je
+povinný ho používať len pre účely súvisiace s predmetom tejto Zmluvy, nie je oprávnený ho nijako
+upravovať, analyzovať metódami softwarového inžinierstva, ani poskytnúť na žiadne účely tretej strane.
+Článok II.
+Štatút RA
+1. RA prevádzkované na základe tejto Zmluvy sú určené pre podávanie a vybavovanie žiadostí
+o kvalifikované osobné certifikáty s naplnením položiek jedinečného mena zodpovedajúce ods. 2. tohto
+článku Zmluvy.
+2. Žiadosti o osobné certifikáty vydávané podľa tejto Zmluvy musia spĺňať nasledovné naplnenie položiek
+jedinečného mena žiadateľa o certifikát:
+O=
+
+Kancelária Najvyššieho súdu Slovenskej republiky
+
+OU = naplnenie podľa potreby prevádzkovateľa RA
+3. Žiadosti o kvalifikované certifikáty vydávané podľa tejto Zmluvy musia u žiadateľov o certifikát spĺňať
+podmienky pre vydávanie kvalifikovaných certifikátov stanovené Zákonom o dôveryhodných službách
+a CPQC I.CA.
+
+Článok III.
+Zriadenie RA
+1. DTCA zriadi –1– RA na mieste určenom prevádzkovateľom RA, a to v termíne do dvoch týždňov od
+splnenia technických a personálnych predpokladov pre zriadenie RA.
+2. DTCA poskytne prevádzkovateľovi RA technické a programové vybavenie RA, skladajúce sa z 1 ks
+čítačky čipových kariet, 2 ks čipových kariet, pečiatky DTCA a príslušného softvéru pre každé z pracovísk
+RA.
+3. DTCA zabezpečí do začiatku činnosti RA potrebné zaškolenie pracovníkov prevádzkovateľa RA
+zodpovedných za prevádzku RA.
+4. Zriadenie a začiatok činnosti RA bude potvrdené protokolmi o odovzdaní a prebratí HW a SW RA (vzor
+v Prílohe č. 4 tejto Zmluvy) a prehlásením o zaškolení obsluhy (vzor v Prílohe č. 3 tejto Zmluvy), ktoré
+podpíšu poverení zástupcovia oboch strán.
+Článok IV.
+Záväzky DTCA
+1. DTCA nebude akceptovať z tejto RA žiadosti o vydanie osobného certifikátu, ktoré nespĺňajú naplnenie
+položiek žiadosti o certifikát uvedených v Čl. II., ods. 2, resp. 3 tejto Zmluvy.
+2. DTCA bude poskytovať prevádzkovateľovi RA podporu pre prevádzku RA a pomoc pracovníkom RA pri
+riešení reklamácií.
+3. DTCA vystaví osobe poverenej prevádzkou RA podľa čl. V, ods. 2 tejto Zmluvy plnomocenstvo podľa
+vzoru uvedeného v Prílohe č. 2 tejto Zmluvy. Predpokladom vystavenia plnomocenstva je čestné
+prehlásenie poverenej osoby podľa vzoru uvedeného v Prílohe č. 3 tejto Zmluvy a Poučenie oprávnenej
+osoby na spracúvanie osobných údajov podľa vzoru uvedeného v Prílohe č. 5 tejto Zmluvy.
+4. DTCA vyhlasuje, že pri výbere sprostredkovateľa dbalo na jeho odbornú, technickú, organizačnú
+a personálnu spôsobilosť a jeho schopnosť zaručiť bezpečnosť spracúvania osobných údajov.
+5. DTCA vyhlasuje, že zamestnáva personál a prípadne subdodávateľov s potrebnou odbornosťou,
+spoľahlivosťou, skúsenosťami, kvalifikáciou a vhodnou odbornou prípravou týkajúcou sa predpisov v
+oblasti bezpečnosti a ochrany osobných údajov a uplatňuje administratívne a riadiace postupy, ktoré
+zodpovedajú európskym alebo medzinárodným normám.
+Článok V.
+Záväzky prevádzkovateľa RA
+1. Prevádzkovateľ RA berie na seba zodpovednosť za fyzické overenie totožnosti žiadateľov o certifikát
+a kontrolu správnosti údajov uvedených v žiadosti o certifikát podľa ustanovení platného CP I.CA, CP
+QC I.CA a PS I.CA.
+2. Prevádzkovateľ RA poverí osoby zodpovedné za prevádzku RA. Tieto osoby preberú od DTCA potrebné
+vybavenie RA a v rozsahu činností RA spolupracujú s DTCA. V rámci tejto súčinnosti je prevádzkovateľ
+RA povinný poskytovať všetky informácie nutné k zabezpečeniu prevádzky RA. Rozsah a forma tejto
+súčinnosti tvorí Prílohu č. 1 tejto Zmluvy a je jej neoddeliteľnou súčasťou.
+3. Prevádzkovateľ RA sa zaväzuje dodržiavať pri prevádzke RA platný CP I.CA, CP QC I.CA a PS I.CA,
+ktoré sú prílohou tejto Zmluvy. Za škody vzniknuté v súvislosti s ich nedodržaním, najmä s vyzradením
+a zneužitím súkromného kľúča žiadateľa o certifikát, nesie plnú a výhradnú zodpovednosť prevádzkovateľ
+RA.
+
+4. Prevádzkovateľ RA nesie plnú zodpovednosť za škody spôsobené pracovníkmi prevádzkovateľa RA na
+RA, ako aj zodpovednosť za škody spôsobené nesprávnym postupom osôb poverených podľa ods. 2 tohto
+článku Zmluvy niesť zodpovednosť za prevádzku RA. Nesprávnym postupom sa rozumie postup, ktorý
+je v rozpore s platnými právnymi predpismi, v rozpore s touto Zmluvou a štatútom RA, nerešpektovanie
+pokynov DTCA alebo zneužitie vystaveného plnomocenstva.
+5. Prevádzkovateľ RA zodpovedá za bezpečnosť osobných údajov žiadateľov o certifikát v zmysle zákona
+č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov. Na ochranu týchto
+osobných údajov pred ich poškodením, zničením, stratou, zmenou, neoprávneným prístupom
+a sprístupnením, poskytnutím alebo zverejnením, ako aj pred akýmikoľvek inými neprípustnými
+spôsobmi spracúvania. Na tento účel prijme primerané technické, organizačné a personálne opatrenia vo
+forme bezpečnostného projektu, a to v lehote 6 mesiacov odo dňa nadobudnutia účinnosti tejto Zmluvy.
+6. Prevádzkovateľ RA sa zaväzuje pri plnení predmetu tejto Zmluvy zabezpečiť predmet Zmluvy proti
+neoprávnenému použitiu a dodržiavať všetky bezpečnostné pokyny DTCA. Prevádzkovateľ RA nesie
+plnú zodpovednosť za škody vzniknuté v súvislosti s nedodržaním tohto ustanovenia Zmluvy.
+Článok VI.
+Cena za poskytnuté služby
+1. Cena za poskytnuté služby v zmysle tejto Zmluvy je 1.250,- Eur (slovom: tisícdvestopäťdesiat eur) bez
+DPH jednorazovo za 1 pracovisko ICA RA.
+2. Prevádzkovateľ RA sa zaväzuje uhradiť cenu za poskytnuté služby podľa ods. 1 tohto článku Zmluvy na
+základe písomnej faktúry vystavenej DTCA so splatnosťou 30 kalendárnych dní odo dňa doručenia
+faktúry prevádzkovateľovi RA. V prípade, ak faktúra nebude obsahovať všetky náležitosti daňového
+dokladu, alebo ak bude vykazovať iné nedostatky, DTCA je povinná na základe výzvy prevádzkovateľa
+RA bez zbytočného odkladu vystaviť opravnú faktúru. Lehota splatnosti faktúry začne v takom prípade
+plynúť odo dňa doručenia opravnej faktúry prevádzkovateľovi RA.
+Článok VII.
+Uchovávanie a správa dokumentov DTCA
+1. „Dokumentom DTCA“ sa pre potreby tejto Zmluvy, vrátane všetkých jej prípadných dodatkov a príloh,
+rozumie listinná podoba originálu „Protokolu o podaní žiadosti o vydanie certifikátu I.CA“, listinná
+podoba originálu „Protokolu o tvorbe a odovzdaní certifikátu vydaného I.CA“, listinná podoba originálu
+„Zmluvy o vydaní a používaní certifikátov“ a ďalšie dokumenty, ktoré je RA povinná uchovávať v súlade
+s platným CP I.CA, CP QC I.CA a PS I.CA (ďalej len „Dokumenty“).
+2. Dokumenty sú majetkom DTCA.
+3. Dokumenty uchováva a spravuje príslušné pracovisko, na ktorom je prevádzkovaná RA.
+4. Dokumenty musia byť uchovávané vždy k určitému jedinečnému číslu žiadosti o poskytnutí služby zo
+strany DTCA. Všetky Dokumenty vzťahujúce sa k tej istej žiadosti musia byť uchovávané spolu.
+5. Dokumenty sa uchovávajú vždy na mieste zabezpečenom proti zničeniu, zneužitiu alebo odcudzeniu.
+6. Na písomnú žiadosť podpísanú oprávnenou osobou za DTCA je RA povinná požadované Dokumenty
+neodkladne vyhľadať a poskytnúť ich DTCA. Pri poskytnutí originálov Dokumentov urobí RA ich kópie,
+ktoré potvrdí svojím podpisom poverený zamestnanec DTCA, ktorému bol originál Dokumentov vydaný
+a zamestnanec – operátor RA, ktorý originál odovzdal.
+7. Vrátenie Dokumentov zapožičaných podľa ods. 6 tohto článku Zmluvy sa uskutoční protokolárne.
+Protokol podpíše zamestnanec DTCA, ktorý Dokumenty vracia a zamestnanec – operátor RA, ktorý
+Dokumenty prijíma. Protokol sa vyhotoví v dvoch rovnopisoch, z ktorých každý z uvedených
+zamestnancov obdrží po jednom rovnopise.
+
+Článok VIII.
+Lehota uchovávania a odovzdanie Dokumentov
+1. Doba uchovávania Dokumentov u prevádzkovateľa RA je jeden rok. Po tejto dobe ich prevádzkovateľ
+RA na požiadanie DTCA odovzdá poverenému zamestnancovi DTCA. DTCA zabezpečí ich archiváciu.
+2. Odovzdanie Dokumentov poverenému zamestnancovi DTCA sa uskutoční protokolárne. Protokol
+podpíše zamestnanec – operátor RA, ktorý Dokumenty odovzdáva a zamestnanec DTCA, ktorý
+Dokumenty prijíma. Protokol sa vyhotoví v dvoch rovnopisoch, z ktorých každý z uvedených
+zamestnancov obdrží po jednom rovnopise. Protokol obsahuje nasledovné údaje:
+-
+
+obdobie, za ktoré sa Dokumenty odovzdávajú,
+
+-
+
+interval čísiel žiadostí,
+
+-
+
+celkový počet jedinečných čísiel žiadostí, ku ktorým sa vzťahujú odovzdávané Dokumenty,
+
+-
+
+dátum odovzdania Dokumentov,
+
+-
+
+meno odovzdávajúceho (zástupca RA) a preberajúceho (DTCA).
+Článok IX.
+Zodpovednosť za stratu, zničenie alebo zneužitie Dokumentov
+
+1. Počas doby, keď sú Dokumenty uchovávané u prevádzkovateľa RA, zodpovedá prevádzkovateľ RA za
+ich stratu, zničenie alebo zneužitie.
+2. DTCA zodpovedá za stratu, zničenie alebo poškodenie Dokumentov v dobe, počas ktorej boli poskytnuté
+poverenému zamestnancovi DTCA podľa čl. VII., ods. 6 tejto Zmluvy.
+Článok X.
+Sankcie
+1. Za preukázateľné porušenie povinnosti pri uchovávaní a správe Dokumentov na RA prevádzkovateľa RA
+je DTCA oprávnená uplatniť voči prevádzkovateľovi RA náhradu škody, ktorá DTCA v dôsledku tohto
+porušenia vznikla.
+2. Náhradu škody podľa tohto článku Zmluvy nemožno uplatniť, ak došlo k škode v dôsledku vyššej moci
+alebo vlámania tretej osoby. Vyššou mocou sa na účely tejto Zmluvy rozumie prekážka, ktorá nastala
+nezávisle od vôle prevádzkovateľa RA a bráni mu v splnení jeho povinnosti, ak nemožno rozumne
+predpokladať, že by prevádzkovateľ RA túto prekážku alebo jej následky odvrátil alebo prekonal, a že by
+v čase vzniku záväzku túto prekážku predvídal (napr. živelné pohromy, vojna, mobilizácia a pod.).
+Vlámaním tretej osoby sa na účely tejto Zmluvy rozumie začatie trestného stíhania pre trestný čin
+spáchaný vlámaním v zmysle zákona č. 300/2005 Z. z. Trestný zákon v znení neskorších predpisov,
+pričom trestný čin je spáchaný vlámaní, ak páchateľ vnikol do uzavretého priestoru nedovoleným
+prekonaním uzamknutia alebo prekonaním inej zabezpečovacej prekážky použitím sily alebo ľsťou
+a takýto trestný čin je v priamej príčinnej súvislosti s porušením povinnosti zo strany prevádzkovateľa RA
+podľa ods. 1 tohto článku Zmluvy.
+3. Pri krádeži, strate alebo poškodení Dokumentov v čase, keď boli poskytnuté DTCA, je DTCA povinná na
+svoje náklady vyrobiť duplikáty.
+4. Pri krádeži, strate alebo poškodení Dokumentov uložených u prevádzkovateľa RA, je prevádzkovateľ RA
+povinný na svoje náklady bezodkladne vyrobiť duplikáty.
+5. V prípade poškodenia, zničenia, alebo straty poskytnutého technického vybavenia pre prevádzku RA sa
+prevádzkovateľ RA zaväzuje uhradiť DTCA sankciu vo výške 1.000,- Eur (slovom: tisíc eur) za vybavenie
+1 RA.
+
+Článok XI.
+Doručovanie
+1. Všetky oznámenia alebo písomnosti, ktoré majú byť doručené podľa tejto Zmluvy, je možné doručovať
+osobne, prostredníctvom doporučenej poštovej zásielky, alebo prostredníctvom elektronickej pošty
+príslušnej zmluvnej strane, ktorej majú byť doručené, na jej adresu podľa odseku 11.4 tejto Zmluvy alebo
+na inú adresu oznámenú v súlade s týmto článkom.
+2. Akékoľvek oznámenie alebo písomnosť bude považované za doručené:
+
+a) ak bolo doručené osobne, v dobe doručenia alebo odopretia doručenia; alebo
+b) ak bolo odoslané poštou, v piaty pracovný deň po dni, kedy bolo odovzdané pošte;
+c) ak bolo zaslané prostredníctvom elektronickej pošty, obdržaním správy o úspešnom doručení.
+3. Na preukázanie doručenia bude postačovať preukázanie, že doručenie bolo uskutočnené, že obálka
+obsahujúca oznámenie alebo písomnosť bola správne adresovaná a odovzdaná na poštovú prepravu ako
+doporučená poštová zásielka, alebo že e-mailová správa bola správne adresovaná a odoslaná.
+4. Adresy zmluvných strán pre účely ods. 11.1 tejto Zmluvy sú nasledovné:
+D. Trust Certifikačná Autorita, a.s.:
+Adresa:
+K rukám:
+E-mail:
+
+Plynárenská 7/C, 821 09 Bratislava
+Ing. Július Lintner
+info@dtca.sk
+
+Kancelária Najvyššieho súdu Slovenskej republiky:
+Adresa:
+K rukám:
+E-mail:
+
+Župné námestie č. 13, 814 90 Bratislava
+JUDr. Ivan Solej, LL.M.
+ivan.solej@nsud.sk
+Článok XII.
+Záverečné ustanovenia
+
+1. Zmluva sa uzatvára na dobu 12 mesiacov odo dňa nadobudnutia jej účinnosti.
+2. Zmluva nadobúda platnosť dňom podpisu oboma zmluvnými stranami a účinnosť dňom zverejnenia
+Zmluvy v Centrálnom registri zmlúv. Zverejnenie Zmluvy v Centrálnom registri zmlúv zabezpečí
+prevádzkovateľ RA.
+3. Zmluva zaniká
+a) písomnou dohodou zmluvných strán,
+b) písomnou výpoveďou zo strany DTCA z titulu porušenia ustanovení tejto Zmluvy zo strany
+prevádzkovateľa RA,
+c) písomnou výpoveďou zo strany prevádzkovateľ RA bez uvedenia dôvodu,
+d) odstúpením od Zmluvy podľa podmienok uvedených v ods. 12.5 tejto Zmluvy.
+4. Výpovedná doba v prípade výpovede podľa ods. 3 písm. b) a c) tohto článku Zmluvy je dvojmesačná
+a začne plynúť od prvého dňa mesiaca nasledujúceho po mesiaci, v ktorom bola výpoveď doručená druhej
+zmluvnej strane. Účinnosťou výpovede nie je dotknutý nárok na náhradu škody vzniknutej porušením
+
+Zmluvy, ani nárok na zaplatenie zmluvnej pokuty, ktorý vznikol pred účinnosťou výpovede, ani nárok
+DTCA na zaplatenie ceny za plnenie poskytnuté pred ukončením zmluvného vzťahu.
+5. Od tejto Zmluvy je možné odstúpiť za podmienok stanovených zákonom alebo touto Zmluvou. Pre účely
+možnosti odstúpenia od Zmluvy sa za podstatné porušenie zmluvných povinností považuje najmä
+opakované omeškanie zmluvnej strany s plnením ktoréhokoľvek jej záväzku podľa tejto Zmluvy, ktoré je
+dlhšie ako 60 (šesťdesiat) dní a na ktoré bola zmluvná strana opakovane písomne upozornená. Odstúpenie
+je účinné dňom doručenia písomného oznámenia o odstúpení druhej zmluvnej strane.
+6. Zánikom Zmluvy spôsobom podľa ods. 3 písm. b) a c) tohto článku Zmluvy nie je prevádzkovateľ RA
+zbavený povinnosti splniť všetky záväzky vzniknuté v dôsledku prevádzky RA do dňa zániku Zmluvy
+a bezodkladne uskutočniť všetky úkony potrebné na odvrátenie vzniku škody na strane DTCA.
+7. Právne vzťahy, ktoré vznikli touto Zmluvou, a ktoré nie sú upravené touto Zmluvou, sa riadia príslušnými
+ustanoveniami slovenského právneho poriadku, najmä Obchodného a Občianskeho zákonníka.
+8. Táto zmluva je vyhotovená v dvoch rovnopisoch, po jednom pre obe zmluvné strany. Všetky prílohy tejto
+Zmluvy sú jej neoddeliteľnou súčasťou.
+9. Na dôkaz toho, že zmluvné strany si zmluvu prečítali, porozumeli jej obsahu a bez výhrad s ňou súhlasia,
+prejav ich vôle je slobodný a vážny, určitý a zrozumiteľný, ju oprávnení zástupcovia zmluvných strán
+podpisujú.
+
+V Bratislave, dňa:
+
+V Bratislave, dňa:
+
+Za Prevádzkovateľa RA:
+
+Za DTCA:
+
+__________________________
+
+___________________________
+
+JUDr. Ivan Solej, LL.M.
+
+Ing. Július Lintner
+
+vedúci
+
+predseda predstavenstva
+
+___________________________
+Ing. Anna Záhorčáková
+člen predstavenstva
+Prílohy:
+-
+
+Príloha č. 1: Súčinnosť DTCA a osôb zodpovedných za prevádzku RA;
+Príloha č. 2: Plnomocenstvo (VZOR);
+Príloha č. 3: Prehlásenie (VZOR);
+Príloha č. 4: Odovzdávací a preberací protokol (VZOR);
+Príloha č. 5: Poučenie oprávnenej osoby (VZOR);
+Príloha č. 6: Prehlásenie DTCA o existencii zmluvného vzťahu s I.CA.
+
+Príloha č. 1
+Súčinnosť DTCA a osôb zodpovedných za prevádzku RA
+I. Úvod
+DTCA (ďalej len „Dodávateľ“) uzavrela s prevádzkovateľom RA zmluvu, na základe ktorej bude
+prevádzkovateľ RA prevádzkovať registračnú autoritu. Prevádzkovateľ RA poveril osoby zodpovedné za
+prevádzku RA (ďalej len „Vykonávateľ“), ktoré budú v rámci služieb DTCA zabezpečovať činnosť RA,
+zahrňujúcu nasledovné činnosti:
+- prijímanie žiadostí o certifikáty,
+- overovanie totožnosti žiadateľov o certifikáty v súlade s platným CP I.CA, CP QC I.CA a PS I.CA
+- vydávanie certifikátov,
+- uzatváranie zmlúv o vydaní certifikátu a s tým súvisiacich dokumentov
+- ostatné s tým súvisiace činnosti.
+II. Práva a povinnosti Vykonávateľa
+Vykonávateľ má právo:
+1. obdržať od Dodávateľa metodické materiály a ďalšie dokumenty potrebné pre činnosť podľa tejto
+Zmluvy a absolvovať školenia zabezpečené Dodávateľom,
+2. požadovať od Dodávateľa ďalšie nevyhnutné informácie a konzultácie,
+3. obdržať od Dodávateľa potrebné softvérové a špeciálne hardvérové vybavenie.
+Vykonávateľ je povinný:
+1. dodržiavať platný CP I.CA, CP QC I.CA a PS I.CA
+2. riadiť sa pokynmi Dodávateľa.
+III. Práva a povinnosti Dodávateľa
+Dodávateľ má právo:
+1. požadovať od Vykonávateľa dodržiavanie platného CP I.CA, CP QC I.CA a PS I.CA, upozorniť ho na
+zistené nedostatky a požadovať v primeranej lehote nápravu,
+2. po dohode s prevádzkovateľom RA uskutočňovať u Vykonávateľa kontrolu a nevyhnutné zisťovanie.
+Dodávateľ je povinný:
+1. zabezpečiť pre Vykonávateľa školenia nevyhnutné pre jeho činnosť, poskytnúť mu metodické materiály
+a ďalšie nevyhnutné dokumenty,
+2. poskytnúť Vykonávateľovi na jeho vyžiadanie ďalšie potrebné informácie a konzultácie.
+
+Príloha č. 2
+
+Plnomocenstvo
+( VZOR )
+
+Obchodné meno: První certifikační autorita a.s.
+Sídlo:
+Podvinný mlýn 2178/6,
+190 00 Praha 9 - Libeň,
+IČO:
+264 39 395
+Registrácia:
+Obchodný register, Mestský súd v Prahe,
+oddiel B, vložka číslo 7136
+Konajúca svojím riaditeľom
+(ďalej len „I.CA“)
+Splnomocnenec :
+Zodpovedná osoba prevádzkovateľa RA: Kancelária Najvyššieho súdu Slovenskej republiky,
+Župné námestie 13, 814 90 Bratislava
+Meno a priezvisko: ......................................................................
+rodné číslo …………………......
+vykonávateľ činností Registračnej autority I.CA.
+I.CA týmto splnomocnencovi udeľuje plnú moc, aby za I.CA konal a zastupoval ho pri vydávaní
+certifikátov I.CA, a to vrátane podpisovania všetkých dokumentov, ktoré v priebehu vydávania
+certifikátov vznikajú.
+Toto plnomocenstvo má účinnosť odo dňa jeho podpisu, do okamihu zániku zmluvy, ktorej súčasťou
+je toto plnomocenstvo.
+V Bratislave, dňa ......................................
+……………………………….
+Na základe plnomocenstva
+Ing. Lenka Budiš Capoušková, LLM
+Riaditeľka obchodného oddelenia pre oblasť MO
+První certifikační autorita, a.s.
+Plnomocenstvo prijímam:
+……………………………
+podpis splnomocnenca
+
+Príloha č. 3
+
+Prehlásenie
+( VZOR )
+
+Ja, …………………...…................, bytom ......................................., zamestnanec Kancelárie Najvyššieho
+súdu Slovenskej republiky
+
+vyhlasujem, že som
+1. bol vyškolený a som pripravený vykonávať činnosť pracovníka registračnej autority
+2. prevzal informácie o možnostiach získania týchto dokumentov:
+-
+
+Certifikačný poriadok I.CA pre vydávanie kvalifikovaných certifikátov
+http://www.ica.cz/Certifikacna-politika
+
+-
+
+Smernicu pre pracovníkov registračnej autority I.CA pre vydávanie kvalifikovaných certifikátov
+https://rainfo.ica.cz/cgi-bin/rainfo/default.cgi?=PageDownloadFile&id=1217
+
+-
+
+Užívateľskú príručku pre používanie SW registračnej autority https://rainfo.ica.cz/cgibin/rainfo/default.cgi?page=PageDownloadFile&id=1266
+Poznámka: pre prístup do https://rainfo.ica.cz/cgi-bin/rainfo/default.cgi je potrebné vlastniť platný
+operátorský certifikát.
+
+V Bratislave, dňa……………………
+
+……………………………
+podpis prehlasujúceho
+
+Príloha č. 4
+
+Odovzdávací a preberací protokol
+( VZOR )
+
+Odovzdávajúci:
+
+D. Trust Certifikačná Autorita, a.s.
+Plynárenská 7/C, 821 09 Bratislava
+
+Preberajúci:
+
+Kancelária Najvyššieho súdu Slovenskej republiky
+Župné námestie č. 13, 814 90 Bratislava
+IČO: 50668277
+DIČ: 2120408994
+IČ pre DPH: SK2120408994
+
+Dňom podpisu tohto protokolu je uvedená dodávka poskytnutého hardvéru a softvéru pre prevádzku
+RA považovaná za prebratú s tým, že preberajúci prehlasuje, že dodávka zodpovedá jeho
+požiadavkám:
+DODÁVKA
+Hardvérové vybavenie pre činnosť registračnej autority I.CA:
+Čítačka čipových kariet ev. č. ……………………..
+Čipová karta č. …………………….
+Softvérové vybavenie pre činnosť registračnej autority I.CA:
+Programové vybavenie RA
+V Bratislave, dňa .......
+Za odovzdávajúceho:
+Meno:
+
+Podpis:
+
+Za preberajúceho:
+Meno:
+
+Podpis:
+
+POUČENIE OPRÁVNENEJ OSOBY
+
+Príloha č.5
+
+v zmysle zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení
+niektorých zákonov
+( VZOR )
+Prevádzkovateľ
+První certifikační autorita a.s.
+so sídlom: Praha 9 - Libeň, Podvinný mlýn 2178/6, PSČ 190 00
+IČO: 264 39 395
+Zapísaná v obchodnom registri, vedenom Mestským súdom v Prahe, spisová značka – oddiel B, vložka 7136
+V zastúpení: Ing. Petr Budiš, Ph.D.
+So zástupcom prevádzkovateľa na území Slovenskej republiky
+D. Trust Certifikačná Autorita, a.s.
+so sídlom: Plynárenská 7/C, 821 09 Bratislava
+IČO: 35 840 005
+Zapísaná v Obchodnom registri Okresného súdu Bratislava I, vložka č. 2986/B
+V zastúpení:
+Ing. Július Lintner, predseda predstavenstva
+Ing. Anna Záhorčáková, člen predstavenstva
+týmto poveruje oprávnenú osobu:
+
+Meno:
+Pracovné zaradenie: operátor registračnej autority I.CA
+a vyhlasuje, že:
+1.
+2.
+
+3.
+
+Poučil oprávnenú osobu o právach a povinnostiach ustanovených zákonom č. 122/2013 Z. z. o ochrane
+osobných údajov a o zmene a doplnení niektorých zákonov a o zodpovednosti za ich porušenie.
+Rozsah oprávnení, popis povolených činností a podmienky spracúvania osobných údajov, ktorými sa riadi
+oprávnená osoba, sú uvedené v Zmluve o poskytnutí služieb zriadenia a prevádzky Registračnej autority, ktorej
+je toto poučenie súčasťou.
+Oboznámil oprávnenú osobu s obsahom bezpečnostného projektu v rozsahu potrebnom na plnenie jeho úloh.
+
+Deň poučenia oprávnenej osoby:
+Platnosť poverenia končí okamihom zániku zmluvy, ktorej je toto poučenie súčasťou.
+Poučenie vykonala: Mgr. Jana Žiarová
+Pracovné zaradenie: Obchodný manažér, zodpovedná osoba
+
+………………………………..
+Zodpovedná osoba na vykonanie poučenia
+
+……………………………
+Oprávnená osoba
+
+

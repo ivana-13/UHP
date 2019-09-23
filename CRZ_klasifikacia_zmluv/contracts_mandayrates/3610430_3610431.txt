@@ -1,0 +1,331 @@
+Zmluva o poskytovaní služieb č. Z201836140_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Geodetický a kartografický ústav Bratislava
+Chlumeckého 4, 82745 Bratislava, Slovenská republika
+17316219
+2020838083
+0
+SK8381800000007000062369
++421220816232
+
+Dodávateľ:
+Obchodné meno:
+
+InterWay, a. s.
+
+Sídlo:
+
+Stará Vajnorská 21, 83104 Bratislava, Slovenská republika
+
+IČO:
+
+35728531
+
+DIČ:
+
+2020268294
+
+IČ DPH:
+
+SK2020268294
+
+Číslo účtu:
+
+SK2302000000002075291059
+
+Telefón:
+
++421232788851
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Poskytovanie služieb podpory a prevádzky
+
+Kľúčové slová:
+
+správa
+
+CPV:
+
+72250000-2 - Služby týkajúce sa podpory systému
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Poskytovanie služieb podpory a prevádzky
+
+Funkcia
+Rozsah požadovanej podpory:
+• Reaktívna podpora pre nižšie uvedený HW a SW - požadovaná je SLA 24x7, 15 minút potvrdenie prijatia požiadavky na
+servisný zásah, nástup na riešenie v mieste inštalácie do 4 hodín - musí byť súčasťou ponuky a zahrnuté v mesačných
+paušálnych službách
+• Proaktívna podporu s nasledovnými parametrami - pravidelné kvartálne aktualizácie pre vybrané oblasti po dohode s
+objednávateľom - kontrola logov jednotlivých zariadení (viď. nižšie) a proaktívne riešenie vznikajúcich problémov - min. 5MD
+mesačne - musí byť súčasťou ponuky a zahrnuté v mesačných paušálnych službách
+• Zmenové požiadavky - požadované SLA 9x5, 15 minút potvrdenie prijatia požiadavky na servisný zásah, nástup na riešenie v
+mieste inštalácie do 6 hodín - min. 5MD mesačne - musí byť súčasťou ponuky a zahrnuté v mesačných paušálnych službách
+• Iné odporúčania pre optimalizáciu infraštruktúry - Objednávateľ očakáva proaktívne návrhy pre optimalizáciu infraštruktúry podľa požiadaviek Objednávateľa - musí byť súčasťou ponuky a zahrnuté v mesačných paušálnych službách
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Požadovaná podpora pre nasledovné zariadenia/oblasti:
+
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+
+• Podpora virtuálnej infraštruktúry - 2x vCenter server 26 vSphere host server v členení do datacentier,
+klastrov, skupín s obmedzenými zdrojmi, podpora min.
+500 VM
+• Podpora SAN infraštruktúry - Požadovaná podpora je
+pre 4x SAN switche na platforme Cisco MDS
+• Podpora LAN infraštruktúry - Požadovaná podpora je
+pre 2x Cisco Nexus
+• Podpora diskových polí: Požadovaná podpora je pre
+nasledovné typy diskových polí - 1x Netapp FAS series,
+- 1x HP 3PAR, - 2x HP P2000, - 1x IBM DS
+• Podpora web publishing/LB zariadení - Požadovaná
+podpora pre F5 Big IP klaster, podpora ASM a APM pre
+publikovanie aplikácií
+• Podpora operačných systémov - OS Windows (Server
+2003 – 2012R2) - OS Linux (rôzne distribúcie)
+• Podpora vybraných aplikácií - Požadovaná podpora
+pre MS Exchange ( verzia 2010 a novšie) - Požadovaná
+podpora pre MS SQL servre (po úroveň aplikácie, za
+databázy a obsah jednotlivých databáz zodpovedajú
+aplikační správcovia) - Požadovaná podpora pre MS AD
+(verzie min. 2008 a novšie), požadovaná podpora
+bezpečnostných nástrojov pre ochranu prístupov.
+• Podpora zálohovania - Požadovaná je podpora pre
+Veeam Backup and Replication min. verzia 7 a novšie, IBM Tivoli Storage Manager
+• Zabezpečenie plynulej prevádzky informačných
+systémov využívajúcich softvérové prostredie Oracle a
+systém hardvér-softvér Oracle Exadata (min. v. 11g) v
+rozsahu min. 3 MD mesačne: - Elektronická pomoc pri
+riešení problémov a otázok, objasnenie dokumentácie Sprostredkovanie oznámenia o rozšírenej a novej
+funkčnosti produktov a technológií - Technická pomoc
+pre problémy a otázky - Podpora pri stanovení
+diagnostiky a rýchlejšieho vyriešenia vzniknutého
+problému - Konzultácie pri riešení problémov
+vyskytujúcich sa v aktuálne podporovaných produktoch
+• Podpora pri prístupe a získavaní informácií k
+produktom Oracle v rozsahu min. 2 MD mesačne: Technické pokyny, návrhy riešení, informácie o vývoji
+produktov a dostupnosti produktov, oznámenia o
+ukončení podpory - Podobnosti o známych problémoch
+vrátane náhradných riešení - Sprostredkovanie
+informácií a článkov s relevantnými technickými
+informáciami - Podpora pri stanovení diagnostiky a
+rýchlejšieho vyriešenia vzniknutého problému
+Požadovaný projektový manažment a evidencia:
+• riadenie a koordinácia projektového tímu vo fáze
+preberania podpory ako aj vo fáze poskytovania
+podpory,
+• pravidelné stretnutia pracovnej skupiny min. 1x
+mesačne,
+• evidenciu zásahov na on-line portáli - s oddelenými a
+zabezpečenými prístupmi pre pracovníkov
+Objednávateľa minimálne ssl a overovaním menom a
+heslom, - so sledovaním statusu, časov otvorenia,
+prijatia a vyriešenia incidentu, - s reportingom
+vykonaných činností a automatickou e-mailovo
+notifikáciou na definovaných riešiteľov
+• eskalačné procedúry pri nedodržaní časov reakcie a
+vyriešenia incidentu,
+• komunikačné a sociálne schopnosti na vysokej úrovni,
+• reporting o vykonaných aktivitách podliehajúci
+akceptácii Objednávateľa 1x mesačne,
+Strana 2 z 4
+
+• reporting využívania HW zdrojov infraštruktúry - na
+vyžiadanie objednávateľa, min. však 1x štvrťročne.
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+1/ Vyžaduje sa aby súvisiace služby boli poskytované dodávateľom, ktorý je držiteľom certifikátov/osvedčení na riadenia
+kvality ISO 9001 a ISO 27001 a výrobcu na VMware v nasledujúcom rozsahu:
+• VCP6 - min. 4 pracovníci, pre VTSP SV - min. 1 pracovník, pre VTSP NV - min. 1 pracovník, pre VTSP BC - min. 1 pracovník
+a pre výrobcu na NetApp v rozsahu min. 2 pracovníci pre NCDA, min. 2 pracovníci pre NCIE a min. 1 pracovník pre NATSP,
+• Microsoft - Certified Technology Specialist – min. Microsoft Exchange Server 2010, Configuration - Certified Technology
+Specialist - Windows Server 2008 Active Directory, Configuration - MCITP - Enterprise Messaging Administrator minimálne pre
+Exchange 2010 - MCSA - Windows Server pre minimálne 2008 - MCTS - Certified Technology Specialist: Windows Server
+min. 2008 Applications Infrastructure, Configuration, Windows Server min. 2008 Network Infrastructure,
+• Veeam - VMTSP min. ver.7 – min. 1 pracovník, - VMSP min. ver. 7 - min. 1 pracovník, VMCE min. ver. 9 - 1 pracovník,
+• IBM – IBM TSM 7.1.1.Administrator – min. 1. pracovník, IBM TSM 7.1.1 Deployment Professional – min. 1 pracovník,
+• F5 - CA F5 Certified BIG-IP Administrator - CTS F5 Certified Technology Specialist, LTM - CTS F5 Certified Technology
+Specialist, ASM,
+• Oracle - Oracle Gold Partner vrátane PSA oprávnenia – certifikácia zmluvného dodávateľa na úrovni spoločnosti - General
+Product Support Specialist – min. 1 pracovník - Oracle Certified Expert, Oracle RAC and Grid Infrastructure Administrator (min.
+11g) – min. 1 pracovník - Oracle DB Security Certified Implementation Specialist (min. 11g) – min. 1 pracovník - Oracle DB
+Certified Professional (min. 11g) – min. 1 pracovník - Oracle Linux Certified Implementation Specialist – min. 1 pracovník,
+• Projektový manažment - Na základe metodického pokynu Ministerstva financií Slovenskej republiky č. MF/28999/2009-132
+pre riadenie IT projektov je požadované preukázanie certifikácie Prince2, min. verzie Practicionner – min. 1 pracovník - ITIL
+ver. 3 – certifikácia pre riadenie IT služieb a procesov prevádzky – min. 1 pracovník.
+Dodávateľ sa zaväzuje na požiadanie Objednávateľa uvedené preukázať predložením týchto certifikátov/osvedčení v
+elektronickej forme. Objednávateľ je oprávnený vyžiadať si aj originál alebo úradne osvedčenú kópiu z uvedených certifikátov
+v papierovej podobe. Dodávateľ je povinný tieto certifikáty predložiť do 7 dní od doručenia výzvy objednávateľa.
+Objednávateľ si vyhradzuje právo kedykoľvek počas trvania zmluvy overiť skutočnosť, že Dodávateľ disponuje
+certifikátmi/osvedčeniami uvedenými v predchádzajúcich bodoch. Ak Dodávateľ nepreukáže, že disponuje
+certifikátmi/osvedčeniami uvedenými v predchádzajúcich bodoch, má Objednávateľ právo vyrubiť Dodávateľovi pokutu vo
+výške 5000,00 eur a odstúpiť od tejto Zmluvy z dôvodu podstatného porušenia Zmluvy.
+2/ Súčasťou dodávky je pravidelné vykonávanie požadovaných služieb v uvedenom rozsahu v mieste inštalácie.
+3/ Dodávateľ sa zaväzuje na požiadanie Objednávateľa osobne prevziať v mieste inštalácie potrebné prístupy, dokumentáciu a
+oboznámiť sa s infraštruktúrou v rozsahu nevyhnutnom pre plnenie Zmluvy, a to do 3 dní od doručenia výzvy Objednávateľa o
+pripravenosti infraštruktúry na začatie poskytovania požadovanej podpory. Objednávateľ má právo výzvu doručiť Dodávateľovi
+písomne alebo v elektronickej forme na e-mailový kontakt Dodávateľa.
+4/ Nedodržanie ktorejkoľvek podmienky a požiadavky Objednávateľa uvedenej v špecifikácii predmetu sa bude považovať za
+podstatné porušenie zmluvných podmienok.
+5/ Dodávateľ je v prípade podstatného porušenia zmluvných podmienok povinný uhradiť Objednávateľovi zmluvnú pokutu v
+súlade s OPET na účet Objednávateľa v lehote 10-ich kalendárnych dní.
+6/ Objednávateľ v prípade podstatného porušenia zmluvných podmienok má právo odstúpiť od Zmluvy.
+7/ Konečná suma bude dodávateľovi uhrádzaná čiastkovo na základe pravidelnej mesačnej fakturácie.
+8/ Nárok na úhradu faktúry vzniká podpísaním preberacieho protokolu bez výhrad oboma zmluvnými stranami. Súčasťou
+faktúry bude preberací protokol. Splatnosť faktúry je 30 dní.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+Strana 3 z 4
+
+3.2
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava II
+
+Obec:
+
+Bratislava - mestská časť Ružinov
+
+Ulica:
+
+Chlumeckého 4
+
+Čas / lehota plnenia zmluvy:
+15.09.2018 12:00:00 - 15.12.2019 11:59:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+kalendárny mesiac
+
+Požadované množstvo:
+
+15,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 142 800,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 171 360,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 03.09.2018 12:38:01
+Objednávateľ:
+Geodetický a kartografický ústav Bratislava
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+InterWay, a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

@@ -1,0 +1,290 @@
+Číslo zmluvy dodávateľa: TMS-2019-034
+
+Číslo zmluvy objednávateľa:
+
+ZMLUVA O POSKYTOVANÍ CLOUD ARCHIVAČNÝCH SLUŽIEB
+uzavretá podľa Zákona č. 513/1991, Obchodný zákonník v znení neskorších predpisov
+I.
+Zmluvné strany
+1. Objednávateľ:
+sídlo:
+zastúpená:
+IČO:
+DIČ:
+IČ DPH:
+bank. spojenie:
+IBAN:
+2. Dodávateľ:
+sídlo:
+zastúpená:
+IČO:
+DIČ:
+IČ DPH:
+bank. spojenie:
+IBAN:
+
+Špecializovaná nemocnica sv. Svorada, n.o.
+zapísaná v Registri neziskových organizácií. Okresný úrad v Nitre č. VVS/NO-42/2004
+Kláštorská 134. 94988 Nitra- Zobor, Slovenská republika
+MUDr. Plamen Kabaivanov. riaditeľ
+37971832
+2021877792
+SK2021877792
+
+TatraMed Software s.r.o.
+zapísaná v Obchodnom registri Okresného súdu Bratislava I. oddiel Sro, vložka 87304/B
+Líščie údolie 9. 84104 Bratislava. Slovenská republika
+Ing. Juraj Kajan, konateľ
+47025328
+2023706751
+SK2023706751
+Tatra banka a.s., Bratislava
+SK06 1100 0000 0029 2789 0300
+
+(Objednávateľ a Dodávateľ ďalej spolu aj ..zmluvné strany"' alebo jednotlivo ..zmluvná strana")
+II.
+Účel zmluvy
+1.
+
+Účelom tejto zmluvy je zaistenie služieb Cloud archivačných služieb DICOM dát systému TomoCon® PACS
+nainštalovaného v pracovisku objednávateľa v Nitre - Zobor.
+III.
+Predmet zmluvy
+
+1.
+
+Na základe tejto zmluvy a za podmienok v nej uvedených sa dodávateľ zaväzuje poskytovať pre
+objednávateľa bezpečnú archiváciu (záložný aoff-line archív) DICOM dát systému TomoCon PACS
+využitím technológie Microsoft Azure (ďalej tiež ..Cloud archív").
+
+2.
+
+Cloud archív umožňuje nasledujúce funkcie:
+a) archiváciu, zálohovanie a prenos obrazovej zdravotníckej dokumentácie zo systému TomoCon PACS
+podľa normy STN EN 12052:2017 (DICOM),
+b) v prípade potreby obnovenie/prenos príslušnej/požadovanej dokumentácie z Cloud archívu do systému
+TomoCon PACS
+c) monitorovanie a diaľkovú správu predmetného Cloud archívu systému dodávateľom.
+
+3.
+
+Dodávateľ garantuje bezpečnosť a spoľahlivosť archivácie používaním technologických služieb:
+Microsoft Azure Storage V2,
+Prístup/Access Cool,
+Lokalita cloud archívu je Európska únia (West Európe),
+Replikácia Zóne redundant.
+Zabezpečenie dát šifrovaním 128-bit AES encryption.
+Počiatočná kapacita Cloud archívu =3TB (rovnomerný prírastok po dobu 24 mesiacov).
+Konečná kapacita Cloud archívu po 24 mesiacoch ~5TB.
+
+Strana 1 z 4
+
+Číslo zmluvy dodávateľa: TMS-2019-034
+
+4.
+
+Číslo zmluvy objednávateľa:
+
+Objednávateľ garantuje internet konektivitu s obojstranne dostatočnou priepustnosťou na zabezpečenie
+dátového toku do Cloud archívu a v prípade potreby aj z Cloud archívu späť do systému TomoCon PACS.
+IV.
+Spôsob plnenia
+
+1.
+
+Dodávateľ sa zaväzuje služby Cloud archivácie v súlade so všeobecne záväznými právnymi predpismi
+a príslušnými normami STN a EN, vrátane ochrany fyzických osôb pri spracovaní ich osobných údajov podľa
+Zákona č. 18/2018 Z. z.
+
+2.
+
+Objednávateľ zaistí potrebnú súčinnosť a dostupnosť systému PACS ako aj nevyhnutnej konektivity.
+
+3.
+
+Najneskôr tri mesiace pred ukončením zmluvného poskytovania Cloud služieb vyzve Dodávateľ
+Objednávateľa na neodkladné zmluvné predĺženie poskytovania Cloud služieb. V prípade, že nepríde
+k dohode o predĺžení poskytovania Cloud služieb, Poskytovateľ sa pokúsi zhrať všetky off-line dáta uložené
+v Cloud úložisku do miestneho PACS úložiska Objednávateľa, pokým mu to kapacita miestneho PACS
+úložiska umožní.
+
+4.
+
+Po ukončení poskytovania Cloud služieb nebude Dodávateľ zodpovedný za dáta archivované v Cloud
+archíve.
+V.
+Cena a platobné podmienky
+
+1.
+
+Paušálna úhrada za služby Cloud archivácie podľa článkov II., III. a IV. činí mesačne sumu EUR 304,00 bez
+DPH, DPH bude účtované podľa platnej legislatívy. Súčasťou paušálu sú všetky cestovné náklady ako aj
+práce, náklady na diaľkové pripojenie Dodávateľa za účelom správy PACS systému a všetky obdobné
+náklady dodávateľa súvisiace s poskytovaním služieb Cloud systému.
+
+2.
+
+Paušál za Cloud služby bude dodávateľ spolu fakturovať objednávateľovi mesačne spätne daňovými
+dokladmi. Splatnosť faktúr podľa tohto odseku činí 30 dní.
+
+3.
+
+V prípade vypovedania zmluvy zo strany objednávateľa, náklady za prenos do lokálneho úložiska bude
+znášať objednávateľ, podľa aktuálne cenníka spoločnosti Microsoft.
+
+4.
+
+Úhrada faktúr bude objednávateľom vykonaná bezhotovostným prevodom na účet dodávateľa uvedenom
+v či. I. ods. 2 tejto zmluvy. Záväzok splatnosti je splnený okamžikom pripísania príslušnej čiastky na účet
+dodávateľa. DPH bude účtované v súlade s platnými právnymi predpismi.
+
+VI.
+Sankcie za neplnenie
+1. Ak nedodrží Dodávateľ lehotu 8h na zahájenie odstránenia porúch poskytovaných Cloud služieb, je
+objednávateľ oprávnený požadovať zmluvnú pokutu vo výške EUR 3,32 za každú začatú hodinu omeškania,
+maximálne však v sume mesačného paušálu.
+2.
+
+Ak nedodrží objednávateľ lehotu splatnosti faktúry podľa čl. V. ods. 3 alebo 4, je dodávateľ oprávnený
+požadovať úrok z omeškanie vo výške 0,03 % z nezaplatenej časti fakturovanej čiastky za každý začatý deň
+omeškania.
+
+3.
+
+Za nedodržanie lehoty na zahájenie odstránenia porúch sa nepovažuje vyššia moc, najmä vojna, prírodné
+katastrofy, dopravná alebo elektronická nedostupnosť, zlyhanie internetových služieb, dopravná kalamita,
+zrušenie alebo meškanie spojov verejnej autobusovej, železničnej alebo leteckej dopravy. Dodávateľ je
+povinný neodkladne informovať objednávateľa ak taký prípad nastane, ak mu to technické prostriedky
+umožnia.
+
+| Strana 2 z 4
+
+Číslo zmluvy dodávateľa: TMS-2019-034
+
+Číslo zmluvy objednávateľa:
+
+VII
+Zodpovednosť za škodu, bezpečnosť a ochrana zdravia pri práci, požiarna ochrana
+1.
+
+Dodávateľ je povinný pri realizácii poskytovania služieb podľa tejto zmluvy vykonávať podľa svojich
+možností a vedomostí také opatrenia a počínať si tak, aby nedochádzalo k vzniku škôd.
+
+2.
+
+Ak dodávateľ alebo jeho subdodávatelia svojim neodborným konaním alebo hrubým porušením legislatívy
+alebo technických noriem spôsobia škodu objednávateľovi alebo iným subjektom, je dodávateľ povinný bez
+zbytočného odkladu škodu odstrániť.
+
+3.
+
+Dodávateľ zodpovedá za bezpečnosť a ochranu zdraví svojich zamestnancov pri práci a za dodržiavanie
+prevádzkového poriadku a požiarnych smerníc objednávateľa.
+
+VIII.
+Ostatné ustanovenia
+1.
+
+Dodávateľ je povinný voči tretím osobám zachovávať mlčanlivosť o všetkých skutočnostiach, ktoré sa
+dozvedel pri realizácii tejto zmluvy a v súvislosti s ňou a ktoré sú chránené príslušnými všeobecne záväznými
+právnymi predpismi (najmä obchodné tajomstvo, osobné údaje, utajované skutočnosti) alebo ktoré
+objednávateľ prehlásil za dôverné. Povinnosť mlčanlivosti trvá i po skončení platnosti tejto zmluvy. Tieto
+povinnosti sa dodávateľ zaväzuje zaistiť aj u všetkých svojich zamestnancov, prípadne iných osôb, ktoré
+dodávateľ k realizácii tejto zmluvy použije.
+
+2.
+
+Objednávateľ je povinný zaistiť, aby všetci zamestnanci dodávateľa pohybujúci sa v areáli objednávateľa boli
+dostatočne identifikovateľní (visačky apod.) ak to objednávateľ požaduje.
+
+3.
+
+Kontakt dodávateľa:
+V pracovnom čase od 8:00 do 16:00:
+štandardný servis PACS systémov: tel. +421 2 60202324. +421 903 776886,
+e-maJJ: podpora@tatramed.sk
+
+4.
+
+Kontaktné osoby objednávateľa:
+Ing. Imrich Balogh, tel. +421 915 892029. +421 37 6941110, e-mail: balogh@snzobor.sk
+MUDr. Jana Zeleňáková. +421 37 6941164, zelenakova@snzobor.sk
+Bc. Gejza Horváth, +421 37 6941149, horvath@snzobor.sk
+
+IX.
+Trvanie zmluvy
+1.
+
+Táto zmluva nadobúda platnosť dňom jej podpisu zmluvnými stranami a účinnosť dňom nasledujúcim po dni
+jej zverejnenia v CRZ.
+
+2.
+
+Tato zmluva sa uzatvára na dobu 24 mesiacov. Zmluvné strany doplnia zmluvu dodatkami v prípade
+rozširovania systému, predĺženia doby trvania a/alebo úprave rozsahu poskytovaných služieb alebo
+pristúpenia ďalších subjektov zastúpených objednávateľom.
+
+3.
+
+Túto zmluvu možno ukončiť písomnou výpoveďou ktorejkoľvek zmluvnej strany bez uvedenia dôvodov,
+s výpovednou lehotou 3 mesiace, ktorá začína plynúť prvým dňom mesiaca nasledujúceho po doručení
+výpovede druhej zmluvnej strane. Túto zmluvu možno ukončiť tiež písomnou dohodou zmluvných strán.
+X.
+Záverečné ustanovenia
+
+Strana 3 z 4
+
+Číslo zmluvy dodávateľa: TMS-2019-034
+
+Číslo zmluvy objednávateľa:
+
+1.
+
+Vo veciach výslovne neupravených touto zmluvou sa zmluvný vzťah založený touto zmluvou riadi právnym
+poriadkom Slovenskej republiky, najmä zákonom č. 513/1991 Zb., Obchodný zákonník v znení neskorších
+predpisov.
+
+2.
+
+Neplatnosť niektorého ustanovenia tejto zmluvy nemá za následok neplatnosť celej zmluvy.
+
+3.
+
+Podmienky tejto zmluvy, ktoré svojou povahou presahujú dobu platnosti tejto zmluvy zostávajú plne
+v platnosti a sú účinné až do okamžiku ich splnenia a platia pre prípadné nástupnícke zmluvné strany.
+
+4.
+
+Zmluvnú strany sa zaväzujú všetky spory vzniknuté z tejto zmluvy primárne riešiť zmierovacím konaním
+podľa platnej legislatívy Slovenskej republiky.
+
+5.
+
+Tuto zmluvu možné meniť alebo dopĺňať jedine na základe písomných, Číslovaných a oprávnenými
+zástupcami oboch zmluvných strán podpísaných dodatkov k tejto zmluve. Všetky dodatky, ktoré budú
+označené ako dodatky tejto zmluvy, sú nedeliteľnou súčasťou tejto zmluvy.
+
+6.
+
+Táto zmluva sa vyhotovuje v 2 rovnopisoch, z ktorých každá zmluvná strana dostane jedno vyhotovenie.
+V Bratislave, dňa
+
+2019
+
+Za dodávateľa:
+
+Ing. Juraj Kajan, konateľ
+TatraMed Software s.r.o.
+
+V Nitre - Zobor, dňa
+
+2019
+
+Za objednávateľa:
+
+MUDr. Plamen Kabaivanov, riaditeľ
+Špecializovaná nemocnica sv. Svorada, n.o.
+
+| Strana 4 z 4
+
+

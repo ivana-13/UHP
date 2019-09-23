@@ -1,0 +1,4925 @@
+ZMLUVA NA POSKYTOVANIE SLUŽIEB PODPORY A PREVÁDZKY
+uzavretá podľa ust. § 269 ods. 2 Obchodného zákonníka
+Článok I.
+ZMLUVNÉ STRANY
+Objednávateľ:
+sídlo:
+štatutárny orgán:
+bankové spojenie:
+IBAN:
+IČO:
+DIČ:
+IČ DPH:
+
+Úrad geodézie, kartografie a katastra Slovenskej republiky
+Chlumeckého ul. č. 2, 820 12 Bratislava
+Ing. Mária Frindrichová, predsedníčka
+.......................................
+...................................................
+00 166 260
+2020830240
+SK2020830240
+
+(ďalej len „Objednávateľ“)
+Poskytovateľ:
+sídlo:
+štatutárny orgán:
+bankové spojenie:
+IBAN:
+IČO:
+DIČ:
+IČ DPH:
+zapísaný:
+
+SEVITECH, a. s.
+Mlynské Nivy 71, 821 05 Bratislava
+Ing. Jaroslav Murár - predseda predstavenstva
+Jaroslav Gajdoš - člen predstavenstva
+..........................................
+........................................................
+31 605 052
+2020444338
+SK2020444338
+v Obchodnom registri Okresného súdu Bratislava I, oddiel: Sa, vložka
+č.: 4696/B
+
+(ďalej len „Poskytovateľ“)
+Článok II.
+Preambula
+2.1 Táto zmluva pod registračným číslom 107/2018/OIBKR sa uzatvára na základe výsledku
+verejného obstarávania postupom pre nadlimitnú zákazku vyhláseného v Úradnom vestníku EÚ
+zo dňa 26.07.2018 pod označením 2018/S 142-324824 a vo vestníku verejného obstarávania č.
+148/2018 zo dňa 27.03.2018 pod označením 10532 – MSS, ktorej predmetom je „Poskytovanie
+služieb podpory a prevádzky Základnej bázy údajov pre geografický informačný systém“ v súlade
+s ust. zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov (ďalej len „zákon o VO“).
+2.2 Výsledkom postupu zadávania zákazky uvedeného pod bodom 2.1 tohto článku je uzavretie
+zmluvy s poskytovateľom ako úspešným uchádzačom.
+2.3 Účelom Zmluvy je zabezpečiť podporu a prevádzku ZBGIS a stanoviť práva a povinnosti
+Zmluvných strán pri zabezpečovaní servisných služieb podpory a prevádzky. Štruktúra a
+špecifikácia servisných služieb podpory a prevádzky je uvedená v Prílohe č. 1 Zmluvy.
+Článok III.
+Definície
+Autorský zákon: je zákon č. 185/2015 Z. z. Autorský zákon v znení neskorších predpisov
+Celkový sumarizačný protokol: je celkový sumarizačný protokol špecifikovaný v Prílohe č. 1
+Cena za Plnenie: má význam definovaný v čl. VII bod 7.2 Zmluvy a v Prílohe č. 3 Zmluvy
+Cieľová dostupnosť Riešenia: je požadovaná miera dostupnosti ZBGIS počas Pracovnej doby a
+Mimopracovnej doby, ktorá je špecifikovaná v Prílohe č. 1 Zmluvy v časti označenej ako „Záväzné
+parametre“ pre servisnú službu „Dostupnosť Riešenia“ a pre príslušné prostredie ZBGIS (produkčné,
+testovacie, školiace) zvlášť; Cieľová dostupnosť Riešenia je daná pomerom doby v ktorej predmetné
+prostredie ZBGIS má byť dostupné k celkovej dĺžke sledovanej doby.
+Cieľová výkonnosť Riešenia: je požadovaná miera výkonnosti ZBGIS, ktorá je špecifikovaná v
+Prílohe č. 1 Zmluvy v časti označenej ako „Záväzné parametre“ pre servisnú službu „Výkonnosť
+Riešenia“
+
+1
+
+Čas poskytovania servisnej služby: má význam definovaný v čl. VI bod 6.3 Zmluvy
+Doba opravy: je doba, ktorá plynie od okamihu nahlásenia Incidentu Oprávneným zástupcom
+Objednávateľa na Help desk, do momentu odstránenia Incidentu alebo ak odstránenie Vady je
+podmienené sprístupnením riešenia tretích strán do momentu dodania návrhu riešenia Vady vrátane
+oznámenia termínu do kedy bude Vada odstránená v produkčnom prostredí a odoslania oznámenia o
+odstránení Incidentu z Help desku Objednávateľovi. Doba opravy alebo doba dodania návrhu riešenia
+Vady vrátane oznámenia termínu do kedy bude Vada odstránená v produkčnom prostredí začína
+plynúť len v rámci Času poskytovania servisnej služby „Manažment incidentov a problémov“ v zmysle
+Prílohy č. 1 Zmluvy
+Dostupnosť Riešenia: je stav uvedený v Prílohe č. 1 Zmluvy
+DPH: je daň z pridanej hodnoty
+Dôverné informácie: má význam definovaný v čl. XIV bod 14.2 Zmluvy
+Drobná vada: (tiež označená v Zmluve ako „Vada kategórie C“) je každá iná vada ZBGIS než Kritická
+vada alebo Vážna vada, ktorá však nespôsobuje nefunkčnosť ZBGIS ani jeho zásadné obmedzenie
+funkčnosti
+Help desk: je servisná služba Poskytovateľa špecifikovaná v Prílohe č. 1 Zmluvy
+Hot fix: je integrovaný a otestovaný Update pripravený na okamžité nasadenie do produkčného
+prostredia mimo plánovaného Releasu
+Kritická vada: (tiež označená v Zmluve ako „Vada kategórie A“) je vada ZBGIS, ktorá sa prejavuje
+zlyhaním, výpadkom, chybou či nedostupnosťou ZBGIS ako celku alebo nie je možné používať ani
+jednu jeho časť, ktorá tvorí najmenej 50 % služieb a aplikácií, ktoré sú špecifikované v Prílohe č. 1 ako
+služby a aplikácie kategórie 1. Kritická vada sa prejavuje globálne voči nezastupiteľnej skupine
+používateľov, je opakovane vyvolateľná alebo má trvalý charakter
+Mimopracovná doba: je časový úsek iný ako Pracovná doba
+Nedostupnosť Riešenia: je stav, kedy Riešenie je v inom stave než zodpovedajúcom stavu
+Dostupnosti riešenia
+Obchodný zákonník: je zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+Objednávateľ: má význam definovaný v čl. I Zmluvy
+Oprávnení zástupcovia Objednávateľa: má význam definovaný v čl. XVII bod 17.4 Zmluvy
+Oprávnení zástupcovia Poskytovateľa: má význam definovaný v čl. XVII bod 17.5 Zmluvy
+Patch: je na hmotnom nosiči alebo inak doručená oprava Vád, ktorá ich odstraňuje do času vydania
+Releasu
+Plnenie: má význam definovaný v čl. II bod 2.3 Zmluvy.
+Poskytovateľ: má význam definovaný v čl. I
+Pracovná doba: je časový úsek v pracovných dňoch od 8:00 hod. do 16:00 hod.
+Reakčná doba: je doba plynúca od okamihu preukázateľného nahlásenia Incidentu na Help desk
+Poskytovateľa do momentu prevzatia Incidentu Poskytovateľom. Podrobný proces je špecifikovaný v
+Prílohe č. 1 Zmluvy
+Release: je súhrn Updatov a Hot fixov
+Služby podpory a prevádzky zahrňujú služby poskytované v rámci paušálneho servisu zahŕňajúceho
+zabezpečovanie bežnej servisnej podpory, ako aj poskytovanie podpory pre zaistenie spoľahlivej,
+kontinuálnej a bezpečnej prevádzky Základnej bázy údajov pre geografický informačný systém (ďalej
+len „ZBGIS“) v súlade s aktuálnymi platnými funkčnými a nefunkčnými požiadavkami, vrátane riešenia
+problémov a pozostávajú z nasledovných služieb:
+ Služba Helpdesk (HELP001),
+ Manažment incidentov a problémov (SLA001),
+ Služba údržby ZBGIS (SLA002),
+ Služby monitoringu ZBGIS (SLA003),
+ Reporty (SLA004),
+ Služby súvisiace s dostupnosťou riešenia produkčného prostredia (OLA001), testovacieho
+prostredia (OLA002), školiaceho prostredia (OLA003),
+ Služby súvisiace so zabezpečením výkonnosti ZBGIS (OLA004).
+Termíny poskytovania Plnenia sú časové úseky špecifikované v Prílohe č. 1 Zmluvy v časti
+označenej ako „Záväzné parametre“ pre servisné služby „Manažment incidentov a problémov“ a
+„Reporty“
+Vada: (tiež označované ako „Incident“) je označenie pre Kritické vady a/alebo Vážne vady a/alebo
+Drobné vady a je také správanie sa ZBGIS v produkčnom prostredí, pri ktorom najmä:
+ Objednávateľ rutinne používajúci ZBGIS nedostáva správne výsledky (chybné algoritmy výpočtu)
+alebo
+ nie je dodržaná funkcionalita popísaná v dokumentácii k ZBGIS alebo
+ pri korektnej obsluhe dochádza k chybovému ukončeniu alebo
+
+2
+
+ dochádza k poškodzovaniu alebo strate užívateľských dát, v rámci opravy Vady sa odstraňuje len
+samotná Vada, neopravujú sa dáta.
+Vadou nie je: také správanie sa ZBGIS, ktoré by inak spĺňalo kritériá Vady, ak je nevyhovujúce
+správanie sa ZBGIS spôsobené:
+ nevhodným používaním ZBGIS alebo jej využívaním za iným účelom ako bolo preukázateľne
+určené;
+ administráciou produkčného prostredia do ktorého je ZBGIS nasadená, alebo administráciou
+ZBGIS Objednávateľom, alebo treťou osobou,
+ dátami, ktoré neprodukuje ZBGIS;
+ používaním ZBGIS za iných podmienok, ako bolo preukázateľne stanovené, alebo ak bola ZBGIS
+používaná v rozpore s pokynmi poskytnutými Objednávateľovi resp. obsiahnutými v dokumentácii k
+ZBGIS;
+ softvérom tretích strán a/alebo hardwarovým a/alebo softwarovým prostredím tretích strán;
+ udalosťami alebo skutočnosťami, ktoré Poskytovateľ nemohol ovplyvniť;
+ zmenou prostredia bez súhlasu Poskytovateľa, do ktorého Poskytovateľ ZBGIS nasadil;
+ výpadkom elektrickej energie počas trvania tohto výpadku, poruchou na hardvéri, poruchou na
+prístupových linkách a poruchou iných súvisiacich systémov a služieb;
+ zmenou legislatívy
+Vážna vada (tiež označená v Zmluve ako „Vada kategórie B“) je vada ZBGIS, ktorá sa prejavuje
+výpadkom, chybou či nedostupnosťou jednotlivých elektronických služieb alebo aplikácii, ktoré sú v
+Prílohe č. 1 definované ako služby a aplikácie kategórie 2, ZBGIS alebo ich funkcií, čo závažným
+spôsobom obmedzuje ich použitie, pričom neobmedzuje použitie všetkých elektronických služieb
+alebo aplikácii ZBGIS ako celku ani jeho podstatnej časti. Vážna vada sa prejavuje globálne voči
+nezastupiteľnej skupine používateľov a je opakovane vyvolávaná alebo má trvalý charakter
+Všeobecné nariadenie o ochrane údajov: je Nariadenie Európskeho parlamentu a Rady (EÚ)
+2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom
+pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES
+Update: je na hmotnom nosiči alebo inak doručená aktualizácia ZBGIS Objednávateľovi, ktorou sa
+komplexne odstraňujú Vady bez zvýšenia funkčnosti ZBGIS
+Upgrade: je na hmotnom nosiči alebo inak doručená aktualizácia ZBGIS Objednávateľovi, ktorou sa
+mení funkčnosť, zvyšuje užívateľský komfort, rozsah užívateľských funkcií, zvyšuje kvalita a/alebo
+objem obsahu a pod., t.j. skvalitnenie ZBGIS na vyššiu úroveň
+Vyššia moc: má význam definovaný v čl. XV bod 15.1 Zmluvy
+Zákon o VO: je zákon č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov
+Zákon o ochrane osobných údajov: je zákon č. 18/2018 Z. z. o ochrane osobných údajov a o
+zmene a doplnení niektorých zákonov
+Zákon o registri partnerov verejného sektora: je zákon č. 315/2016 Z. z. o registri partnerov
+verejného sektora a o zmene a doplnení niektorých zákonov
+Záručná doba: má význam definovaný v čl. XII bod 12.2 Zmluvy
+ZBGIS: je skratka pre Základnú bázu údajov pre geografický informačný systém (v rozsahu uvedenom
+v Prílohe č. 1 Zmluvy, kapitola „Opis predmetu zákazky – upresňujúce informácie“). Pre účely tejto
+zmluvy skratka ZBGIS nezahrňuje integráciu ZBGIS do prostredia eGovernmentu (samotnú
+integračná vrstva), t. j. integráciu na:
+ register fyzických osôb (overenie pri autentifikácii),
+ register právnických osôb (overenie pri autentifikácii),
+ register priestorových informácií
+ register adries (overovanie údajov o adresách),
+ register obcí SR,
+ register okresov SR,
+ spoločné moduly ústredného portálu verejnej správy.
+Zmluva: je táto zmluva vrátane jej príloh a dodatkov
+Zmluvné strany: je spoločné označenie pre Objednávateľa a Poskytovateľa
+Článok IV.
+Predmet Zmluvy
+
+3
+
+4.1 Predmetom Zmluvy je záväzok Poskytovateľa poskytovať počas účinnosti Zmluvy Plnenie a
+záväzok Objednávateľa poskytovať Poskytovateľovi pri poskytovaní Plnenia potrebnú súčinnosť
+podľa čl. VIII Zmluvy, riadne poskytnuté Plnenie prevziať a zaplatiť za poskytnuté Plnenie Cenu
+za Plnenie podľa článku VII Zmluvy.
+4.2 Poskytovateľ sa zaväzuje poskytovať Plnenie v súlade:
+a) so Zmluvou;
+b) s písomnými pokynmi Objednávateľa danými podľa Zmluvy a v jej medziach;
+c) so zmenami písomne dohodnutými medzi Objednávateľom a Poskytovateľom počas trvania
+Zmluvy s ohľadom na ust. § 18 zákona o VO;
+d) s príslušnými všeobecne záväznými právnymi predpismi účinnými v Slovenskej republike ku
+dňu odovzdania Plnenia podľa Zmluvy;
+e) s Cenou za Plnenie uvedenou v Prílohe č. 3 tejto Zmluvy;
+f) s Termínmi poskytovania Plnenia.
+Článok V.
+Poskytovanie Plnenia
+5.1 Poskytovateľ vyhlasuje, že je oprávnený a odborne spôsobilý poskytovať Plnenie podľa Zmluvy.
+5.2 Poskytovateľ je povinný poskytovať Plnenie s náležitou odbornou starostlivosťou a plniť si všetky
+povinnosti Poskytovateľa potrebné pre riadne poskytovanie Plnenia.
+5.3 Poskytovaním Plnenia sa pre účely Zmluvy rozumie zabezpečovanie servisných služieb podpory a
+prevádzky podľa Prílohy č. 1 Zmluvy.
+5.4 Poskytovateľ je povinný upozorniť Objednávateľa na všetky skutočnosti, ktoré môžu mať
+negatívny vplyv na riadne poskytovanie Plnenia.
+5.5 Poskytovateľ sa zaväzuje po uplynutí každého kalendárneho mesiaca trvania Zmluvy v rámci
+Plnenia servisnej služby SLA004 a v Termíne pre poskytnutie predmetného Plnenia vyhotovovať
+reporty v súlade Prílohou č. 1 Zmluvy.
+5.6 Celkový sumarizačný protokol vypracovaný podľa Prílohy č. 1 Zmluvy, schválený Objednávateľom
+na tento účel, bude prílohou faktúry Poskytovateľa podľa čl. IX bod 9.2 Zmluvy. Objednávateľ sa
+zaväzuje, že k doručenému Celkovému sumarizačnému protokolu sa písomne vyjadrí najneskôr
+do 10 pracovných dní odo dňa jeho doručenia, a to odsúhlasením Celkového sumarizačného
+protokolu Oprávneným zástupcom Objednávateľa a/alebo inou ním poverenou osobou, alebo
+uvedením námietok Objednávateľa ku konkrétnym položkám na predloženom Celkovom
+sumarizačnom protokole, vrátane odôvodnenia predmetných námietok. Pre vylúčenie pochybností
+platí, že pokiaľ sa Objednávateľ aj napriek predchádzajúcej písomnej výzve Poskytovateľa
+nevyjadrí k Celkovému sumarizačnému protokolu v zmysle predošlej vety, považuje sa Celkový
+sumarizačný protokol na účely Zmluvy za odsúhlasený Objednávateľom.
+5.7 Poskytovateľ sa zaväzuje, že svojím konaním pri poskytovaní Plnenia podľa tejto zmluvy nebude
+zasahovať do autorských práv autora ZBGIS (v zmysle definície ZBGIS uvedenej v čl. III tejto
+Zmluvy) a akceptuje skutočnosť, že Objednávateľ nemá k dispozícii ani zdrojové kódy k ZBGIS.
+Poskytovateľ sa zaväzuje za účelom úplného a riadneho poskytovania Plnenia vysporiadať vzťahy
+alebo iným spôsobom zabezpečiť súčinnosť nositeľa autorských práv (výrobcu), ak je to pre úplné
+a riadne poskytovanie plnenia podľa tejto Zmluvy nevyhnutné.
+5.8 Ak Poskytovateľ poruší svoj záväzok podľa bodu 5.7 tejto Zmluvy a v dôsledku porušenia jeho
+záväzku podľa bodu 5.7 tejto Zmluvy vznikne Objednávateľovi škoda, Poskytovateľ sa zaväzuje
+nahradiť ju Objednávateľovi.
+5.9 Poskytovateľ sa zaväzuje poskytovať Plnenie sám alebo prostredníctvom subdodávateľa riadne a
+včas v súlade s touto Zmluvou a jej prílohami. Poskytovateľ nesmie Plnenie podľa tejto zmluvy
+ako celok odovzdať na realizáciu inému subjektu. Časť predmetu Plnenia môže Poskytovateľ
+odovzdať na realizáciu svojmu subdodávateľovi, pričom je povinný túto skutočnosť písomne
+oznámiť Objednávateľovi v súlade s ust. bodu 5.13 tejto Zmluvy. V prípade, že Poskytovateľ
+využije na plnenie predmetu tejto Zmluvy svojho subdodávateľa, má Poskytovateľ voči
+Objednávateľovi rovnakú zodpovednosť za poskytovanie Plnenia a za prípadné škody, náklady a
+únik dôverných informácií spôsobený subdodávateľom, ako by plnil tieto záväzky sám.
+5.10 Poskytovateľ, jeho subdodávatelia a subdodávatelia podľa zákona o registri partnerov
+verejného sektora musia byť v súlade s § 11 ods. 1 zákona o VO zapísaní v registri partnerov
+verejného sektora podľa zákona o registri partnerov verejného sektora v čase uzatvorenia tejto
+zmluvy. Objednávateľ neuzatvorí zmluvu s Poskytovateľom, ak v čase uzatvorenia zmluvy
+nebude mať on, jeho subdodávatelia alebo subdodávatelia podľa zákona o registri partnerov
+verejného sektora splnenú podmienku zápisu v registri partnerov verejného sektora alebo ak
+Poskytovateľovi bude uložený zákaz účasti podľa § 182 ods. 3 písm. b) zákona o VO.
+Objednávateľ je oprávnený odstúpiť od tejto zmluvy, ak nebol Poskytovateľ a/alebo jeho
+
+4
+
+5.11
+
+5.12
+
+5.13
+
+5.14
+
+5.15
+
+5.16
+
+subdodávateľ v čase uzatvorenia zmluvy zapísaný v registri partnerov verejného sektora alebo
+ak bol vymazaný z registra partnerov verejného sektora, alebo ak mu bol právoplatne uložený
+zákaz účasti podľa § 182 ods. 3 písm. b) zákona o VO.
+Poskytovateľ sa zaväzuje, že zabezpečí, aby jeho zamestnanci a zamestnanci jeho
+subdodávateľov pri plnení tejto Zmluvy v objektoch Objednávateľa dodržiavali všetky
+všeobecne záväzné právne predpisy vzťahujúce sa k vykonávaniu činností, hlavne predpisy
+súvisiace s bezpečnosťou práce a požiarnou bezpečnosťou, interné predpisy Objednávateľa, o
+ktorých ho Objednávateľ preukázateľne oboznámil, najmä predpisy o vstupe do objektov
+Objednávateľa a prístupe k bezpečnosti systémov, a aby sa riadili organizačnými pokynmi
+oprávnených zamestnancov Objednávateľa, o ktorých ich Objednávateľ preukázateľne poučil.
+Objednávateľ má právo požiadať Poskytovateľa o zmenu subdodávateľa vybratého
+Poskytovateľom, ak má
+na to závažné dôvody (napr. nekvalitne realizované plnenia
+konkrétnym subdodávateľom na predchádzajúcich zákazkách a pod.). Poskytovateľ je povinný
+žiadosti Objednávateľa podľa predchádzajúcej vety bezodkladne vyhovieť a zmeniť
+subdodávateľa.
+Poskytovateľ je povinný počas plnenia tejto Zmluvy Objednávateľovi najneskôr
+a. v čase jej uzavretia uviesť údaje o všetkých známych subdodávateľoch, údaje o osobe
+oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko, adresa pobytu, dátum
+narodenia,
+b. v deň, ktorý bezprostredne nasleduje dňu, kedy nastala zmena oznámiť akúkoľvek zmenu
+údajov o subdodávateľovi,
+c. v deň, ktorý predchádza dňu, v ktorom nastane (akákoľvek) zmena subdodávateľa, predložiť
+písomné oznámenie o zmene subdodávateľa, ktoré bude obsahovať minimálne: podiel
+zákazky, ktorý má Poskytovateľ v úmysle zadať subdodávateľovi, údaje navrhovaného
+subdodávateľa, údaje o osobe oprávnenej konať za subdodávateľa v rozsahu meno a
+priezvisko, adresa pobytu, dátum narodenia.
+Objednávateľ vyžaduje, aby každý subdodávateľ spĺňal podmienky účasti týkajúce sa osobného
+postavenia v zmysle zákona o VO a neexistovali u neho dôvody na vylúčenie podľa § 40 ods. 6
+písm. a) až h) a ods. 7 zákona o VO; oprávnenie dodávať tovar, uskutočňovať stavebné práce
+alebo poskytovať službu sa preukazuje vo vzťahu k tej časti predmetu zákazky, ktorý má
+subdodávateľ plniť.
+Ak navrhovaný subdodávateľ nespĺňa podmienky účasti uvedené v bode 5.14 tejto Zmluvy,
+objednávateľ písomne požiada Poskytovateľa o jeho nahradenie. Poskytovateľ doručí návrh
+nového subdodávateľa do piatich pracovných dní odo dňa doručenia žiadosti podľa prvej vety,
+ak Objednávateľ neurčil dlhšiu lehotu.
+Ak Poskytovateľ kedykoľvek počas plnenia zmluvy nahradí niektorého zo svojich
+subdodávateľov, nový subdodávateľ musí spĺňať podmienky podľa bodu 5.14 tejto Zmluvy (t. j.
+podmienky účasti týkajúce sa osobného postavenia a neexistovali u neho dôvody na vylúčenie
+podľa § 40 ods. 6 písm. a) až h) a ods. 7 zákona o VO).
+Článok VI.
+Doba trvania Zmluvy a záväzné termíny poskytovania Plnenia
+
+6.1 Zmluva sa uzatvára na dobu určitú, a to na 48 mesiacov odo dňa nadobudnutia účinnosti Zmluvy.
+6.2 Zmluvné strany sa dohodli, že Plnenie podľa Zmluvy bude Poskytovateľom poskytované v súlade
+s Termínmi poskytovania Plnenia.
+6.3 Zmluvné strany sa zároveň dohodli, že Poskytovateľ sa zaväzuje zabezpečiť dostupnosť
+príslušných servisných služieb v časových úsekoch špecifikovaných v Prílohe č. 1 Zmluvy v časti
+„Čas poskytovania servisnej služby“ (ďalej len „Čas poskytovania servisnej služby“).
+Článok VII.
+Cena za Plnenie
+7.1 Cena za Plnenia za príslušné fakturačné obdobie je špecifikovaná v Prílohe č. 3 Zmluvy ako cena
+bez DPH. Cenu za Plnenie je možné zmeniť len za podmienok stanovených v Zmluve. K Cene za
+Plnenie bude pripočítaná príslušná DPH podľa právnych predpisov účinných v čase vzniku
+zdaniteľného plnenia. Cena za Plnenie uvedená v Prílohe č. 3 Zmluvy je dohodnutá tak, že
+zohľadňuje všetky náklady Poskytovateľa na riadne a včasné poskytnutie Plnenia v súlade so
+Zmluvou.
+7.2 Celková maximálna zmluvná cena za dohodnuté Plnenie podľa Zmluvy počas celej doby trvania
+Zmluvy je určená ako cena maximálna vo výške
+3.700.000,00 EUR bez DPH (slovom tri milióny sedemstotisíc EUR bez DPH).
+
+5
+
+7.3 Zmluvné strany sa zároveň dohodli, že Cena za Plnenie podľa Prílohy č. 3 Zmluvy je úplná a
+konečná a zahŕňa všetky náklady Poskytovateľa za účelom poskytnutia Plnenia podľa Zmluvy.
+7.4 Peňažný záväzok Objednávateľa zaplatiť Poskytovateľovi Cenu za Plnenie (alebo jej časť) platený
+prostredníctvom banky je splnený odpísaním sumy peňažného záväzku z bankového účtu
+Objednávateľa v prospech bankového účtu Poskytovateľa.
+Článok VIII.
+Spolupôsobenie Objednávateľa
+8.1 Objednávateľ je povinný poskytnúť Poskytovateľovi súčinnosť špecifikovanú v Zmluve, v Prílohe
+č. 1 Zmluvy ako aj ostatnú súčinnosť nevyhnutne potrebnú pre splnenie záväzkov Poskytovateľa
+podľa Zmluvy, čím sa ňou rozumie poskytnutie spolupôsobenia Objednávateľa v podobe
+zabezpečenia alebo poskytnutia nevyhnutných informácií, dokumentov, podmienok alebo
+vykonania takých činností, ktoré nie je povinný podľa tejto Zmluvy vykonať alebo zabezpečiť
+Poskytovateľ, a bez ktorých nie je možné riadne a včas poskytnúť Plnenia podľa Zmluvy.
+8.2 Objednávateľ sa zaväzuje, že umožní Poskytovateľovi za účelom poskytovania Plnenia prístup do
+svojho sídla ako aj ďalších relevantných priestorov, k hardwaru, softwaru, databázam a sieťovej
+infraštruktúre a systémom potrebným pre prevádzku Pôvodného diela a poskytovanie Plnenia.
+Objednávateľ zabezpečí pre Poskytovateľa možnosť vzdialeného prístupu k softwaru, databázam
+a sieťovej infraštruktúre Objednávateľa týkajúcej sa ZBGIS. Poskytovateľ sa zaväzuje dodržiavať
+všetky bezpečnostné a technické smernice, predpisy a opatrenia Objednávateľa týkajúce sa
+prístupu do priestorov Objednávateľa ako aj ďalších relevantných priestorov, výkonu práce v
+týchto priestoroch, lokálneho a vzdialeného prístupu k hardwaru, softwaru, databázam a sieťovej
+infraštruktúre a systémom Objednávateľa, s ktorými bude Poskytovateľ preukázateľne
+oboznámený, alebo ktoré mu boli preukázateľne sprístupnené.
+8.3 V rozsahu, v akom bude pre poskytovanie Plnenia podľa Zmluvy pre Poskytovateľa potrebné
+pristupovať k hardwaru alebo softwaru, databázam, údajovým modelom tretej strany, ktoré
+Objednávateľ používa, alebo zabezpečiť integráciu ZBGIS na ne, Objednávateľ poskytne
+Poskytovateľovi súčinnosť v podobe zabezpečenia potrebných špecifikácií, informácií, prístupov
+od príslušnej tretej strany.
+Článok IX.
+Fakturácia a platobné podmienky
+9.1 Poskytovateľ je oprávnený za Plnenie poskytnuté v súlade so Zmluvou fakturovať Cenu za
+Plnenie
+podľa
+Prílohy
+č.
+3
+Zmluvy
+kvartálne
+nasledovne:
+a. za Služby podpory a prevádzky poskytované v období od 01.01. kalendárneho roka do 31.03.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH,
+b. za Služby podpory a prevádzky poskytované v období od 01.04. kalendárneho roka do 30.06.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH,
+c. za Služby podpory a prevádzky poskytované v období od 01.07. kalendárneho roka do 30.09.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH,
+d. za Služby podpory a prevádzky poskytované v období od 01.10. kalendárneho roka do 31.12.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH
+najneskôr do 5 pracovných dní od ukončenia príslušného obdobia poskytovania služieb podpory
+a prevádzky; pri realizácii plnenia za neúplný kvartál bude poskytovateľ fakturovať alikvotnú časť
+cenu za Plnenie.
+V prípade nedodržania Cieľovej dostupnosti Riešenia pri servisných službách OLA001 alebo
+OLA002 alebo OLA003 špecifikovaných v Prílohe č. 1 Zmluvy, Poskytovateľ sa zaväzuje
+automaticky v nasledujúcej faktúre znížiť Cenu za Plnenie o zmluvne dojednanú zľavu podľa čl. XI
+bod 11.2 Zmluvy.
+9.2 Poskytovateľ je oprávnený vystaviť a doručiť Objednávateľovi faktúru na zaplatenie servisných
+služieb špecifikovaných v Prílohe č. 1 Zmluvy. Celkový sumarizačný protokol vzťahujúci sa k
+predchádzajúcemu fakturačnému obdobiu Ceny za Plnenie v zmysle Prílohy č. 3 a bodu 9.1 tejto
+Zmluvy odsúhlasený Objednávateľom bude prílohou faktúry. Zmluvné strany sa dohodli, že
+neoddeliteľnou prílohou každej ďalšej faktúry vystavenej Poskytovateľom bude Celkový
+sumarizačný protokol za predchádzajúce fakturačné obdobie Ceny za Plnenie podľa Prílohy č. 3
+a bodu 9.1 tejto Zmluvy.
+
+6
+
+9.3 Cena za Plnenie je splatná na základe faktúry Poskytovateľa, a to prostredníctvom banky na
+bankový účet Poskytovateľa uvedený vo faktúre; riadne vystavená faktúra Poskytovateľa je
+splatná do 30 dní odo dňa doručenia originálu faktúry Objednávateľovi podľa článku XIII Zmluvy.
+V prípade, že tento deň pripadne na deň pracovného pokoja alebo sobotu alebo nedeľu, za deň
+splatnosti sa považuje nasledujúci pracovný deň.
+9.4 Faktúra Poskytovateľa bude obsahovať nasledujúce údaje:
+a) označenie faktúry a jej číslo;
+b) obchodné meno alebo názov, právnu formu, sídlo a identifikačné číslo Objednávateľa a
+Poskytovateľa a označenie obchodného registra, v ktorom je Poskytovateľ zapísaný a číslo
+takéhoto zápisu;
+c) registračné číslo Zmluvy Objednávateľa;
+d) predmet a špecifikáciu Plnenia a dátum dodania Plnenia;
+e) deň vystavenia faktúry, lehotu jej splatnosti, pečiatku a podpis oprávnenej osoby;
+f) obchodné meno banky a IBAN, na ktorý sa má platiť;
+g) celkovú fakturovanú sumu bez DPH a celkovú fakturovanú sumu s DPH;
+h) ďalšie náležitosti vyplývajúce z platných a účinných právnych predpisov.
+9.5 Ak faktúra nezodpovedá požiadavkám podľa bodu 9.2 tohto článku Zmluvy alebo nemá
+dohodnuté náležitosti podľa bodu 9.4 tohto článku Zmluvy alebo ak nie je k nej priložený príslušný
+Celkový sumarizačný protokol, alebo ak faktúra obsahuje nesprávne údaje, má Objednávateľ
+právo vrátiť faktúru v lehote 3 pracovných dní bez jej úhrady Poskytovateľovi. Poskytovateľ je
+povinný vystaviť novú opravenú faktúru. Nová lehota splatnosti začne plynúť až po doručení
+opravenej alebo riadne doplnenej faktúry Objednávateľovi; na splatnosť opravenej alebo riadnej
+doplnenej faktúry Objednávateľa sa primerane vzťahuje dojednanie podľa bodu 9.3 tohto článku
+Zmluvy.
+9.6 V prípade omeškania Objednávateľa s úhradou faktúry má Poskytovateľ právo uplatniť úrok z
+omeškania vo výške stanovenej príslušnými právnymi predpismi.
+Článok X.
+Ďalšie dojednania
+10.1 Zmluvné strany sa zaväzujú, že si budú poskytovať potrebnú súčinnosť pri plnení záväzkov
+vyplývajúcich zo Zmluvy a navzájom sa budú včas informovať o všetkých skutočnostiach
+potrebných pre plnenie ich záväzkov podľa Zmluvy, najmä bez zbytočného odkladu vzájomne si
+oznamovať všetky zmeny a dôležité okolnosti, ktoré môžu mať vplyv na práva a povinnosti
+Zmluvných strán podľa Zmluvy.
+10.2 Poskytovateľ je povinný poskytovať Plnenie tak, aby bolo vykonávané v súlade s Termínmi
+poskytovania Plnenia, a teda aby pri poskytovaní Plnenia nevznikali zbytočné prieťahy ani
+žiadne dodatočné náklady (resp. nedošlo k zvýšeniu existujúcich nákladov) na strane
+Objednávateľa.
+10.3 Poskytovateľ vyhlasuje, že si je vedomý toho, že akékoľvek neplnenie povinností Poskytovateľa
+podľa Zmluvy môže mať za následok vznik škody na strane Objednávateľa, ktorá môže
+prevyšovať hodnotu poskytovaného Plnenia a zaväzuje sa nahradiť v celom rozsahu škodu,
+ktorá vznikne Objednávateľovi ako dôsledok porušenia povinností Poskytovateľa zo Zmluvy.
+10.4 Poskytovateľ vyhlasuje, že je poistený pre prípad všeobecnej zodpovednosti za škodu do výšky
+3 000 000 EUR (slovom tri milióny eur) poistného plnenia a zaväzuje sa toto poistenie nemeniť
+a nezrušiť do uplynutia 2 rokov od zániku Zmluvy. Poskytovateľ sa zaväzuje doručiť
+Objednávateľovi každý rok, ktorý trvá poistenie podľa predchádzajúcej vety tohto článku
+potvrdenie o poistení, a to najneskôr do 30. januára príslušného kalendárneho roka.
+10.5 Poskytovateľ nie je oprávnený svoju akúkoľvek pohľadávku voči Objednávateľovi vyplývajúcu
+zo Zmluvy alebo s ňou súvisiacu postúpiť na iného alebo založiť v prospech tretích osôb.
+10.6 Poskytovateľ sa zaväzuje v technicky primeranej lehote poskytnúť Objednávateľovi kedykoľvek
+všetky dostupné informácie a dokumenty, ktoré sa týkajú poskytovaného Plnenia.
+10.7 Poskytovateľ sa zaväzuje bez zbytočného odkladu informovať Objednávateľa o akýchkoľvek
+skutočnostiach, ktoré majú alebo by mohli mať za následok, že Poskytovateľ nemôže alebo
+nebude môcť poskytovať Plnenie podľa Zmluvy riadne alebo v súlade s Termínmi poskytovania
+Plnenia, bez zbytočného odkladu po tom, čo sa o nich dozvie. Poskytovateľ sa zároveň
+zaväzuje bez zbytočného odkladu informovať Objednávateľa aj o iných skutočnostiach
+týkajúcich sa Plnenia sťažujúcich poskytovanie Plnenia podľa Zmluvy alebo, ktoré by mohli mať
+za následok vznik škody alebo inej ujmy na strane Objednávateľa alebo tretích osôb.
+
+7
+
+10.8 Objednávateľ sa zaväzuje zabezpečiť Poskytovateľovi prístup k ZBGIS v rozsahu podľa čl. VIII
+Zmluvy.
+10.9 V prípade neposkytnutia súčinnosti Objednávateľom podľa čl. VIII Zmluvy alebo v prípade
+omeškania Objednávateľa so zaplatením Ceny za Plnenie, sa primerane predlžujú Termíny
+poskytovania Plnenia, ktoré je inak Poskytovateľ povinný v zmysle Zmluvy dodržať. Doba, o
+ktorú sa predĺžia Termíny poskytovania Plnenia, bude zodpovedať počtu dní, o ktoré sa
+Objednávateľ omeškal so zaplatením Ceny za Plnenie alebo počas ktorých neposkytol
+súčinnosť podľa čl. VIII Zmluvy.
+Článok XI.
+Zľavy, Zmluvné pokuty a zodpovednosť za škodu
+11.1 Zmluvné strany sa dohodli na zľavách a zmluvných pokutách uvedených v bodoch 11.2 až 11.7
+tohto článku Zmluvy.
+11.2 Ak v príslušnom období podľa bodu 9.1 tejto Zmluvy nebude Poskytovateľom dodržaná Cieľová
+dostupnosť Riešenia pri servisných službách OLA001 alebo OLA002 alebo OLA003 alebo
+OLA004 špecifikovaných v Prílohe č. 1 Zmluvy, Poskytovateľ sa zaväzuje vo faktúre za
+nasledujúce obdobie podľa bodu 9.1 tejto Zmluvy znížiť Cenu za Plnenie o nasledovnú zmluvne
+dojednanú zľavu, pokiaľ sa Zmluvné strany nedohodnú písomne inak:
+a) Pri servisnej službe OLA001 vo výške 200 EUR za každých začatých päť percentuálnych
+bodov rozdielu nameranej dostupnosti Riešenia počas pracovnej doby oproti príslušnej
+Cieľovej dostupnosti Riešenia, maximálne však 630 EUR,
+b) Pri servisnej službe OLA001 100 EUR za každých začatých päť percentuálnych bodov
+rozdielu nameranej dostupnosti Riešenia mimo pracovnej doby oproti príslušnej Cieľovej
+dostupnosti Riešenia, maximálne však 630 EUR,
+c) Pri servisnej službe OLA002 50 EUR za každých začatých päť percentuálnych bodov
+rozdielu nameranej dostupnosti Riešenia počas pracovnej doby oproti príslušnej Cieľovej
+dostupnosti Riešenia, maximálne však 160 EUR,
+d) Pri servisnej službe OLA003 50 EUR za každých začatých päť percentuálnych bodov
+rozdielu nameranej dostupnosti Riešenia počas pracovnej doby oproti príslušnej Cieľovej
+dostupnosti Riešenia, maximálne však 160 EUR,
+e) Pri servisnej službe OLA004 50 EUR za každých začatých päť percentuálnych bodov
+rozdielu nameranej výkonnosti Riešenia počas pracovnej doby oproti príslušnej Výkonnosti
+Riešenia, maximálne však 160 EUR.
+11.3 Zmluvné strany berú na vedomie, že poskytnutá zľava v zmysle bodu 11.2 tohto článku Zmluvy
+predstavuje dohodnutú paušálnu náhradu škody spojenú s nedodržaním príslušnej Cieľovej
+dostupnosti Riešenia.
+11.4 Ak v príslušnom kalendárnom mesiaci Poskytovateľ poruší svoju povinnosť dodržať Termíny
+poskytovania Plnenia pri poskytovaní servisnej služby označenej v Prílohe č. 1 ako SLA001
+„Manažment incidentov a problémov“, zaväzuje sa zaplatiť Objednávateľovi nasledovnú
+zmluvnú pokutu, pokiaľ sa zmluvné strany nedohodnú inak:
+a) Pri nedodržaní Reakčnej doby pri Vade kategórie A zmluvnú pokutu vo výške 300 EUR za
+každú hodinu presahujúcu zmluvne garantovanú Reakčnú dobu, maximálne však 1 260
+EUR,
+b) Pri nedodržaní Reakčnej doby pri Vade kategórie B zmluvnú pokutu vo výške 150 EUR za
+každé dve hodiny presahujúce zmluvne garantovanú Reakčnú dobu, maximálne však 630
+EUR,
+c) Pri nedodržaní Reakčnej doby pri Vade kategórie C zmluvnú pokutu vo výške 75 EUR za
+každý deň presahujúci zmluvne garantovanú Reakčnú dobu, maximálne však 630 EUR,
+d) Pri nedodržaní Doby opravy pri Vade kategórie A zmluvnú pokutu vo výške 300 EUR za
+každú hodinu presahujúcu zmluvne garantovanú Dobu opravy, maximálne však 1 260 EUR,
+e) Pri nedodržaní Doby opravy pri Vade kategórie B zmluvnú pokutu vo výške 150 EUR za
+každý deň presahujúci zmluvne garantovanú Dobu opravy, maximálne však 630 EUR,
+f) Pri nedodržaní Doby opravy pri Vade kategórie C zmluvnú pokutu vo výške 75 EUR za
+každý deň presahujúci zmluvne garantovanú Dobu opravy, maximálne však 630 EUR.
+11.5 Ak Poskytovateľ poruší povinnosť dodržať Termíny poskytovania Plnenia pre servisnú službu
+označenú v Prílohe č. 1 ako SLA004 „Reporty“, zaväzuje sa zaplatiť Objednávateľovi zmluvnú
+pokutu vo výške 200 EUR (slovom dvesto eur) za každé jednotlivé porušenie povinnosti a
+každý deň porušovania tejto povinnosti, maximálne však 630 EUR.
+
+8
+
+11.6 Ak Poskytovateľ poruší povinnosť dodržať Čas poskytovania servisnej služby HELP001 „Help
+Desk“, zaväzuje sa zaplatiť Objednávateľovi zmluvnú pokutu vo výške 200 EUR (slovom dvesto
+eur) za každé jednotlivé porušenie povinnosti a každý deň porušovania tejto povinnosti,
+maximálne však 630 EUR.
+11.7 Ak Poskytovateľ poruší povinnosť dodržať Čas poskytovania servisnej služby SLA002 „Údržba
+Riešenia“, zaväzuje sa zaplatiť Objednávateľovi zmluvnú pokutu vo výške 200 EUR (slovom
+dvesto eur) za každé jednotlivé porušenie povinnosti a každý deň porušovania tejto povinnosti,
+maximálne však 630 EUR.
+11.8 Zmluvné strany sa dohodli, že pohľadávka na zaplatenie zmluvnej pokuty vznikne len za
+podmienky, že dotknutá Zmluvná strana písomne vyzve porušujúcu Zmluvnú stranu na
+zaplatenie zmluvnej pokuty; táto pohľadávka je potom splatná v lehote uvedenej v písomnej
+výzve.
+11.9 Súčet všetkých zliav podľa bodu 11.2 tohto článku Zmluvy a zmluvných pokút podľa bodu 11.4
+až 11.7 tohto článku Zmluvy nepresiahne v príslušnom kalendárnom mesiaci sumu v celkovej
+výške 6 300 EUR (slovom šesťtisíctristo euro).
+11.10 Zmluvné strany sú povinné bez zbytočného odkladu sa vzájomne informovať o vzniku škody
+alebo bezprostrednej hrozbe vzniku škody v súvislosti s porušením záväzkov príslušnej
+zmluvnej strany vyplývajúcich zo Zmluvy.
+11.11 Zmluvné strany sa dohodli, že každá zo Zmluvných strán nesie zodpovednosť za spôsobenú
+škodu v rámci právnych predpisov a Zmluvy. Obe Zmluvné strany sa zaväzujú vyvinúť
+maximálne úsilie k predchádzaniu škôd a k minimalizácii vzniknutých škôd.
+11.12 Žiadna zo Zmluvných strán nezodpovedá za škodu, ktorá vznikla v dôsledku vecne
+nesprávneho alebo inak chybného zadania, informácie, podkladu či pokynu, ktoré obdržala od
+druhej zmluvnej strany. Žiadna zo Zmluvných strán nie je zodpovedná za škodu a nie je ani v
+omeškaní, ak k týmto skutočnostiam došlo v dôsledku omeškania s plnením záväzku druhej
+zmluvnej strany alebo v dôsledku okolností vylučujúcich zodpovednosť (ust. § 374 Obchodného
+zákonníka).
+11.13 Zmluvné strany vyhlasujú, že celková najvyššia predvídateľná výška škody, ktorá môže z
+porušenia povinností zodpovednej zmluvnej strany pri plnení Zmluvy vzniknúť poškodenej
+zmluvnej strane a ktorú môže alebo mohla zodpovedná zmluvná strana v dobe vzniku Zmluvy
+pri vynaložení obvyklej starostlivosti predvídať, nepresiahne čiastku 500 000 EUR (slovom
+päťstotisíc euro).
+11.14 Povinnosť zmluvných strán nahradiť druhej zmluvnej strane škodu spôsobenú porušením
+Zmluvy je obmedzená na:
+a) poskytnutie príslušnej zľavy z Ceny za Plnenie v prípadoch podľa bodu 11.2 tohto článku
+Zmluvy,
+b) povinnosť zaplatiť príslušnú zmluvnú pokutu uplatnenú v súlade s bodom 11.4 až 11.7 tohto
+článku Zmluvy Objednávateľom v prípadoch podľa bodu 11.4 až 11.7 tohto článku Zmluvy,
+c) nahradenie všetkých preukázateľných, skutočných priamych škôd najviac však v rozsahu
+najvyššej predvídateľnej výšky škody podľa bodu 11.13 tohto článku Zmluvy v ostatných
+prípadoch.
+11.15 Pre vylúčenie pochybností, škody presahujúce uvedené limity stanovené pre jednotlivé prípady
+podľa bodu 11.13, ako aj akékoľvek škody náhodné, následné nepriame ako napr. ušlé zisky,
+nerealizované výnosy, príjmy či úspory sú z povinnosti náhrady škody vyslovene vylúčené.
+11.16 Zľavu podľa bodu 11.2, Zmluvné pokuty podľa tohto článku ani náhradu škody Objednávateľ
+neuplatní pre skutočnosti, ktoré nastali počas Tranzitívneho obdobia nastavovania služieb
+definovaného v Prílohe 2 Zmluvy.
+Článok XII.
+Zánik Zmluvy
+12.1 Zmluvné strany sa dohodli, že Zmluva zaniká:
+a) uplynutím doby uvedenej v bode 6.1 tejto Zmluvy,
+b) dohodou Zmluvných strán,
+c) odstúpením od Zmluvy,
+12.2 Objednávateľ je oprávnený odstúpiť od Zmluvy, ak
+a. sa Poskytovateľ dostane do omeškania o viac ako 30 dní s plnením akejkoľvek podstatnej
+povinnosti podľa Zmluvy a neodstráni tento nedostatok ani v dodatočnej lehote 10 dní
+poskytnutej mu písomne za týmto účelom Objednávateľom,
+
+9
+
+Poskytovateľ poruší povinnosti podľa odseku 5.7 tejto Zmluvy,
+Poskytovateľ stratí právne alebo vecné predpoklady na riadne plnenie Zmluvy, pokiaľ
+poskytovateľ opätovne nezíska tieto predpoklady do 10 kalendárnych dní,
+d. sa preukáže, že Poskytovateľ v ponuke predložil nepravdivé doklady alebo uviedol
+nepravdivé, neúplné alebo skreslené údaje alebo informácie, na základe ktorých s ním
+bola uzavretá táto zmluvy,
+e. Poskytovateľ vstúpil do likvidácie, na jeho majetok bol vyhlásený konkurz alebo povolené
+vyrovnanie, reštrukturalizácia alebo bol podaný návrh na vyhlásenie konkurzu na jeho
+majetok alebo na povolenie vyrovnania alebo sa Poskytovateľ dostane do likvidácie, ako aj
+vtedy, ak existuje dôvodná obava, že plnenie záväzkov Poskytovateľa v zmysle tejto
+Zmluvy je vážne ohrozené,
+f.
+súd právoplatne uzná kohokoľvek z členov štatutárneho orgánu Poskytovateľa alebo
+zamestnancov Poskytovateľa za vinných z trestného činu bezprostredne súvisiaceho s
+uzatváraním a/alebo plnením tejto Zmluvy,
+g. Poskytovateľ a/alebo jeho subdodávateľ v čase uzatvorenia zmluvy nebol zapísaný v
+registri partnerov verejného sektora alebo ak bol počas plnenia tejto zmluvy vymazaný z
+registra partnerov verejného sektora, alebo ak mu bol právoplatne uložený zákaz účasti
+podľa § 182 ods. 3 písm. b) zákona o VO,
+h. Objednávateľ nebude disponovať finančnými prostriedkami na zabezpečenie plnení podľa
+tejto zmluvy.
+Poskytovateľ je oprávnený odstúpiť od Zmluvy, ak Objednávateľ je v omeškaní s ktoroukoľvek
+úhradou svojich peňažných záväzkov podľa Zmluvy o viac ako 30 dní po lehote splatnosti a
+tento nedostatok neodstráni ani v dodatočnej lehote 30 dní poskytnutej Objednávateľovi
+písomne za týmto účelom Poskytovateľom.
+V prípade odstúpenia Objednávateľa od Zmluvy podľa tohto článku Zmluvy je Poskytovateľ
+povinný poskytnúť Objednávateľovi primeranú súčinnosť potrebnú na zabezpečenie odovzdania
+akéhokoľvek Poskytovateľom rozpracovaného Plnenia, o ktoré Objednávateľ prejaví záujem a
+pri ktorom bude ochotný uhradiť alikvotnú časť príslušnej Ceny za Plnenie zodpovedajúcu
+dohodnutej miere rozpracovanosti.
+Odstúpením od Zmluvy nezanikajú ustanovenia o zmluvnej pokute, o náhrade škody, o
+zodpovednosti za Vady poskytnutého Plnenia, ktoré bolo do dňa zániku Zmluvy odovzdané a
+ani iné ustanovenia, ktoré podľa vôle Zmluvných strán alebo vzhľadom na svoju povahu majú
+pretrvať aj po zániku Zmluvy.
+Odstúpenie od Zmluvy musí mať písomnú formu a musí byť doručené druhej Zmluvnej strane.
+Účinkom odstúpenia ktorejkoľvek zmluvnej strany od Zmluvy je zánik Zmluvy ku dňu doručenia
+písomného odstúpenia druhej Zmluvnej strane.
+Každá zo Zmluvných strán má právo túto Zmluvu vypovedať formou písomnej výpovede, a to aj
+bez uvedenia dôvodu vo výpovednej lehote 3 mesiacov, ktorá začína plynúť prvým dňom
+mesiaca nasledujúcom po mesiaci, kedy bola výpoveď doručená druhej zmluvnej strane.
+Ustanovenia bodu 12.4 a 12.5 sa použijú v tomto prípade ku dňu uplynutia výpovednej doby
+obdobne.
+Pokiaľ Objednávateľ napriek vynaloženiu náležitej starostlivosti nemá zabezpečené finančné
+zdroje na krytie Ceny Plnenia podľa tejto Zmluvy na obdobie v tom čase aktuálneho
+kalendárneho roka, je Objednávateľ oprávnený písomne vypovedať Zmluvu s účinnosťou ku
+koncu kalendárneho mesiaca, v ktorom bola výpoveď doručená Poskytovateľovi, ak bola
+výpoveď doručená Poskytovateľovi najneskôr 5 dní pred koncom tohto kalendárneho mesiaca,
+a ak bola výpoveď doručená Poskytovateľovi menej ako 5 dní pred koncom kalendárneho
+mesiaca, potom takáto výpoveď nadobudne účinky až ku koncu kalendárneho mesiaca
+nasledujúceho po mesiaci, v ktorom bola táto výpoveď doručená Poskytovateľovi.
+b.
+c.
+
+12.3
+
+12.4
+
+12.5
+
+12.6
+
+12.7
+
+12.8
+
+Článok XIII.
+Doručovanie
+13.1 Zmluvné strany sa dohodli, že akákoľvek písomnosť doručovaná v súvislosti so Zmluvou sa
+považuje za doručenú druhej Zmluvnej strane v prípade doručovania prostredníctvom:
+a) faxu, okamihom vytlačenia potvrdenia o odoslaní faxovej správy z faxu použitého
+odosielateľom, ktoré potvrdí doručenie zasielanej písomnosti na číslo faxu príjemcu počas
+pracovného dňa; alebo
+
+10
+
+13.2
+
+13.3
+
+13.4
+13.5
+
+b) elektronickej pošty (ďalej len „e–mail“) dňom, kedy Zmluvná strana, ktorá prijala e-mail od
+odosielajúcej Zmluvnej strany, potvrdila jeho prijatie odoslaním potvrdzujúceho e-mailu
+odosielajúcej Zmluvnej strane (ďalej len „potvrdenie o prijatí e-mailu“). Prijímajúca Zmluvná
+strana je povinná doručiť odosielajúcej Zmluvnej strane potvrdenie o prijatí e-mailu do 48
+hodín, inak sa bude takýto email považovať za nedoručený, alebo
+c) pošty, kuriérom alebo v prípade osobné doručovania, doručením písomnosti adresátovi s
+tým, že v prípade doručovania prostredníctvom pošty musí byť písomnosť zaslaná
+doporučene s doručenkou preukazujúcou doručenie na adresu príslušnej Zmluvnej strany. V
+prípade doručovania inak ako poštou, je možné písomnosť doručovať aj na inom mieste ako
+na adrese príslušnej Zmluvnej strany, ak sa na tomto mieste Zmluvná strana v čase
+doručenia zdržuje. Za deň doručenia písomnosti sa považuje aj deň, v ktorý Zmluvná strana,
+ktorá je adresátom, odoprie doručovanú písomnosť prevziať, alebo tretí deň odo dňa
+uloženia zásielky na pošte, doručovanej poštou Zmluvnej strane, alebo v ktorý je na
+zásielke, doručovanej poštou Zmluvnej strane, preukázateľne zamestnancom pošty
+vyznačená poznámka, že „adresát sa odsťahoval“, „adresát je neznámy“ alebo iná
+poznámka podobného významu, ak sa súčasne takáto poznámka zakladá na pravde.
+Pre potreby doručovania prostredníctvom elektronickej pošty (e–mail) sa použije
+adresa Objednávateľa: ............................................
+adresa Poskytovateľa: ...................................
+Pre potreby doručovania prostredníctvom faxu sa použije:
+faxové číslo Objednávateľa: ...........................
+faxové číslo Poskytovateľa: ....................................
+Pre potreby doručovania prostredníctvom pošty sa použije adresa sídla Objednávateľa a adresa
+sídla Poskytovateľa, ibaže odosielajúcej Zmluvnej strane adresát písomnosti písomne oznámil
+novú adresu sídla, prípadne inú novú adresu určenú na doručovanie písomností. V prípade
+akejkoľvek zmeny adresy určenej na doručovanie písomností na základe Zmluvy alebo v
+súvislosti so Zmluvou sa príslušná Zmluvná strana zaväzuje o zmene adresy bezodkladne
+písomne informovať druhú Zmluvnú stranu; v takomto prípade je pre doručovanie rozhodujúca
+nová adresa riadne oznámená Zmluvnej strane pred odosielaním písomnosti.
+Zmluvné strany sa zároveň dohodli, že písomnosti týkajúce sa zániku alebo zmeny Zmluvy
+musia byť doručované výhradne poštou ako doporučená zásielka, kuriérom alebo osobne.
+Zmluvné strany sa dohodli, že určenie a zmena kontaktných údajov podľa bodu 13.2 a 13.3
+tohto článku Zmluvy je v ich výlučnej kompetencii; zmena v týchto kontaktných údajoch sa stáva
+účinnou vo vzťahu k druhej Zmluvnej strane dňom doručenia písomného oznámenia. Zmluvné
+strany sa zaväzujú bez zbytočného odkladu si písomne oznamovať zmeny v kontaktných
+údajoch uvedených v bode 13.2 a 13.3 tohto článku Zmluvy. Ak ktorákoľvek Zmluvná strana
+poruší svoj záväzok podľa predchádzajúcej vety, je príslušná Zmluvná strana oprávnená
+používať kontaktné údaje uvedené v bode 13.2 a 13.3 tohto článku Zmluvy až do okamihu,
+kedy jej bolo preukázateľne doručené písomné oznámenie druhej Zmluvnej strany o zmene
+kontaktných údajov podľa bodu 13.2 a 13.3 tohto článku Zmluvy.
+Článok XIV.
+Povinnosť mlčanlivosti
+
+14.1 Zmluvné strany sa zaväzujú zachovávať mlčanlivosť o dôverných informáciách (bod 14.2); tento
+záväzok Zmluvných strán nie je časovo obmedzený.
+14.2 Dôvernými informáciami sa na účely tejto Zmluvy rozumejú akékoľvek skutočnosti, informácie a
+údaje týkajúce sa Zmluvy, vrátane jej príloh a prípadných dodatkov a týkajúcich sa Zmluvných
+strán, alebo s nimi súvisiace, s výnimkou:
+a) informácií, ktoré sú v deň podpísania Zmluvy verejne známymi, alebo ktoré sa už v tento
+deň dali zadovážiť z bežne dostupných zdrojov,
+b) informácií, ktoré sa stali po dni podpísania Zmluvy verejne známymi, alebo ktoré sa po tomto
+dni už dajú zadovážiť z bežne dostupných zdrojov, a to inak než v dôsledku porušenia
+povinnosti Zmluvnej strany zachovávať mlčanlivosť podľa tohto článku,
+c) informácií, z ktorých povahy vyplýva, že Zmluvná strana nemá záujem o ich utajenie, ak ich
+Zmluvná strana výslovne neoznačila za dôverné,
+(ďalej len „Dôverné informácie“).
+14.3 Povinnosť zachovávať mlčanlivosť o Dôverných informáciách sa nevzťahuje:
+
+11
+
+a) na prípady, ak Zmluvná strana zverejnila Dôverné informácie s predchádzajúcim písomným
+súhlasom druhej Zmluvnej strany,
+b) na prípady, keď na základe zákona vznikne Zmluvnej strane povinnosť poskytnúť Dôverné
+informácie,
+c) na prípady, ak Zmluvná strana použila Dôverné informácie v prípadných súdnych,
+rozhodcovských, správnych a iných konaniach ohľadom práv a povinností vyplývajúcich zo
+Zmluvy alebo s ňou súvisiacich.
+14.4 Zmluvné strany sa zaväzujú, že Dôverné informácie bez predchádzajúceho písomného súhlasu
+druhej Zmluvnej strany ďalej neposkytnú tretím osobám a ani neumožnia prístup tretích osôb k
+Dôverným informáciám. Za tretie osoby sa však nepokladajú členovia orgánov Zmluvných
+strán, zamestnanci alebo iné poverené osoby Zmluvných strán vrátane subdodávateľa/-ov,
+audítori alebo právni a iní poradcovia Zmluvných strán, ktorí sú viazaní ohľadne im
+sprístupnených Dôverných informácii povinnosťou mlčanlivosti na základe zákona alebo
+Zmluvy, ako aj iné osoby, ktorým je potrebné poskytnúť Dôverné informácie za účelom riadneho
+splnenia povinností alebo výkonu oprávnení vyplývajúcich zo Zmluvy.
+14.5 Zmluvné strany sa zároveň zaväzujú, že priamo a ani prostredníctvom inej osoby nepoužijú
+Dôverné informácie v rozpore s ich účelom pre seba alebo pre inú osobu alebo v rozpore so
+záujmami druhej Zmluvnej strany.
+Článok XV.
+Vyššia moc
+15.1 Za okolnosti vylučujúce zodpovednosť sa považuje prekážka, ktorá nastala nezávisle od vôle
+povinnej Zmluvnej strany a bráni jej v splnení jej povinnosti, ak nemožno rozumne
+predpokladať, že by povinná Zmluvná strana túto prekážku alebo jej následky odvrátila alebo
+prekonala, a ďalej, že by v čase vzniku záväzku túto prekážku predvídala (ďalej len „Vyššia
+moc“), napr. vojny, živelné katastrofy značného rozsahu majúce súvislosť s predmetom Zmluvy,
+štrajky a pod.
+15.2 Nemožnosť Zmluvnej strany plniť svoje povinnosti podľa Zmluvy v dôsledku Vyššej moci
+nebude považovaná za porušenie Zmluvy, ak Zmluvná strana dotknutá Vyššou mocou:
+a) prijala všetky rozumné opatrenia a vynaložila náležitú starostlivosť s cieľom splniť svoje
+povinnosti podľa Zmluvy, a
+b) bez zbytočného odkladu, najneskôr však do 5 pracovných dní po vzniku Vyššej moci,
+písomne oznámila druhej Zmluvnej strane existenciu Vyššej moci.
+15.3 Zmluvná strana, ktorej bolo znemožnené plniť svoje povinnosti podľa Zmluvy v dôsledku Vyššej
+moci, nebude za predpokladu splnenia podmienok uvedených v bode 15.2 písm. a) a b) tohto
+článku Zmluvy zodpovedná za škody takto vzniknuté.
+15.4 Za predpokladu splnenia podmienok uvedených v bode 15.2 písm. a) a b) tohto článku Zmluvy
+sa lehota na splnenie povinnosti Zmluvnej strany predlžuje o čas, počas ktorého jej bolo
+znemožnené Vyššou mocou splniť túto svoju povinnosť.
+15.5 Dojednania podľa bodov 15.2 až 15.4 tohto článku Zmluvy sa nepoužijú, ak Vyššia moc vznikla
+až v čase, keď povinná Zmluvná strana bola v omeškaní s plnením svojej povinnosti.
+15.6 Zmluvná strana dotknutá Vyššou mocou je povinná oznámiť druhej Zmluvnej strane zánik
+Vyššej moci do piatich (5) pracovných dní od jej zániku.
+Článok XVI
+Dohoda o spracúvaní osobných údajov
+16.1 Objednávateľ v súlade s ustanovením čl. 28 všeobecného nariadenia o ochrane údajov
+a zákona o ochrane osobných údajov poveruje Poskytovateľa spracúvaním osobných údajov
+dotknutých osôb. Na účely legislatívy o ochrane osobných údajov sa Objednávateľ považuje za
+prevádzkovateľa a Poskytovateľ za sprostredkovateľa. Objednávateľ a Poskytovateľ v tomto
+článku upravujú vzájomné práva a povinnosti pri spracúvaní osobných údajov v súlade
+s ustanoveniami všeobecného nariadenia o ochrane údajov a zákona o ochrane osobných
+údajov.
+16.2 Poskytovateľ podpisom tejto Zmluvy vyhlasuje, že prijal všetky potrebné primerané technické,
+organizačné a personálne bezpečnostné opatrenia, tak aby spracúvanie osobných údajov
+spĺňalo požiadavky v zmysle všeobecného nariadenia o ochrane údajov a zákona o ochrane
+osobných údajov a aby sa zabezpečila ochrana práv dotknutej osoby. Na účely tejto Zmluvy
+Poskytovateľ vyhlasuje, že pri spracúvaní osobných údajov Poskytovateľom podľa tejto Zmluvy
+nebudú ohrozené alebo porušené práva a právom chránené záujmy dotknutých osôb.
+16.3 Predmet spracúvania osobných údajov vyplýva z plnenia predmetu tejto Zmluvy uvedeného
+v čl. IV tejto Zmluvy. Touto Zmluvou sa zabezpečuje ochrana osobných údajov dotknutých osôb
+
+12
+
+16.4
+
+16.5
+
+16.6
+
+16.7
+
+16.8
+
+16.9
+16.10
+
+spracúvaných v ZBGIS, ktorého súčasťou sú aj údaje z informačného systému katastra
+nehnuteľností v rozsahu stanovenom katastrálnym zákonom a vyhláškou č. 461/2009 Z. z.,
+zákonom č. 215/1995 Z. z. o geodézii a kartografii v znení neskorších predpisov a vykonávacou
+vyhláškou č. 300/2009 Z. z. ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č.
+215/1995 Z. z. o geodézii a kartografii v znení neskorších predpisov (ďalej len „vyhláška č.
+300/2009 Z. z.“).
+Doba spracúvania osobných údajov: Poskytovateľ je oprávnený spracúvať osobné údaje na
+základe tejto Zmluvy po dobu jej trvania (platnosť a účinnosť), alebo do doby kým trvá účel
+spracúvania osobných údajov určený Objednávateľom vzhľadom na zásadu minimalizácie
+uchovávania, podľa toho ktorá skutočnosť nastane skôr. Objednávateľ je povinný oznámiť
+Poskytovateľovi skutočnosť odôvodňujúcu ukončenie doby spracúvania osobných údajov,
+pokiaľ táto nastala pred ukončením platnosti tejto Zmluvy.
+Povaha spracúvania osobných údajov: Osobné údaje spracúvané podľa tejto Zmluvy sú
+povahou bežnými osobnými údajmi, t.j. nejde o citlivé osobné údaje patriace do osobitnej
+kategórie osobných údajov podľa čl. 9 všeobecného nariadenia o ochrane údajov. Súčasťou
+ZBGIS sú však údaje o dotknutých osobách, t.j. vlastníkoch, nájomcoch, správcoch, iných
+oprávnených osobách v rozsahu celého územia Slovenskej republiky, t.j. osobné údaje
+spracúvané v informačnom systéme katastra nehnuteľností sú rozsiahleho charakteru
+s dopadom na veľkú množinu fyzických osôb.
+Účel spracúvania osobných údajov v informačnom systéme katastra nehnuteľností, ktorého
+údaje sú obsiahnuté v ZBGIS, je ustanovený katastrálnym zákonom a vyhláškou č. 461/2009 Z.
+z. a je ním vedenie katastra nehnuteľností, a to najmä na účel ochrany práv k nehnuteľnostiam,
+daňové účely a poplatkové účely, oceňovanie nehnuteľností, najmä pozemkov, ochrany
+poľnohospodárskeho pôdneho fondu a lesného pôdneho fondu, tvorby a ochrany životného
+prostredia, ochrany nerastného bohatstva, ochrany národných kultúrnych pamiatok a ostatných
+kultúrnych pamiatok, ako aj chránených území a prírodných výtvorov a na budovanie ďalších
+informačných systémov o nehnuteľnostiach. Rovnako účel vyplýva najmä z ustanovenia § 4
+ods. 2 písm. h) zákona č. 215/1995 Z. z. a je ním zabezpečenie tvorby a prevádzkovania
+informačného systému geodézie, kartografie a katastra a poskytovanie informácií a vybraných
+údajov z informačného systému geodézie, kartografie a katastra. V zmysle uvedeného je
+Poskytovateľ na základe tejto Zmluvy oprávnený spracúvať osobné údaje v mene
+Objednávateľa na účely zabezpečenia podpory a prevádzky ZBGIS.
+Typ osobných údajov: Rozsah osobných údajov, ktorý je Poskytovateľ na základe tejto Zmluvy
+oprávnený spracúvať v mene Objednávateľa je uvedený v ustanovení § 8 ods. 1 písm. b)
+katastrálneho zákona.
+Kategórie dotknutých osôb: Dotknutými osobami sa na účely tejto Zmluvy rozumejú fyzické
+osoby – vlastníci, nájomcovia, správcovia, iné oprávnené osoby z práv k nehnuteľnostiam
+(napr. oprávnený z vecného bremena, záložný veriteľ, dlžník), ktoré sú evidované
+v informačnom systéme katastra nehnuteľností a zároveň v ZBGIS v súlade s
+ustanoveniami katastrálneho zákona a vyhlášky č. 461/2009 Z. z.
+Objednávateľ nesúhlasí, aby Poskytovateľ spracúval osobné údaje prostredníctvom inej osoby,
+t.j. prostredníctvom ďalšieho sprostredkovateľa.
+Práva a povinnosti Objednávateľa ako prevádzkovateľa:
+a) V súvislosti so spracúvaním osobných údajov sa Objednávateľ zaväzuje poskytovať
+Poskytovateľovi správne a aktuálne osobné údaje, tým nie je dotknutá zodpovednosť
+dotknutých osôb za pravdivosť poskytnutých osobných údajov. Objednávateľ nenesie
+zodpovednosť za spracúvanie nesprávnych osobných údajov, ak také poskytla priamo
+dotknutá osoba, alebo sú obsahom zmlúv, verejných listín alebo iných listín, ktoré boli
+predložené na zápis do katastra nehnuteľností.
+b) Objednávateľ sa zaväzuje poskytovať Poskytovateľovi potrebnú súčinnosť pri spracúvaní
+osobných údajov.
+c) Objednávateľ je oprávnený vykonať u Poskytovateľa kontrolu a audit spracúvania osobných
+údajov podľa tejto Zmluvy, resp. poveriť vykonaním kontroly a auditu inú osobu, pričom
+Poskytovateľ je povinný strpieť vykonanie kontroly a auditu. Objednávateľ alebo osoba
+poverená Objednávateľom na vykonanie kontroly alebo auditu je oprávnený vstupovať do
+priestorov Poskytovateľa, vyžadovať potrebné informácie a dokumenty, rovnako má právo
+na prístup do informačných systémov Poskytovateľa, v rámci ktorých dochádza
+k spracúvanie osobných údajov v mene Objednávateľa, resp. nevyhnutne súvisia
+s uvedenou činnosťou.
+d) Objednávateľ je oprávnený požadovať od Poskytovateľa preukázanie skutočnosti, že
+Poskytovateľ zaviazal osoby oprávnené spracúvať osobné údaje, že zachovajú mlčanlivosť
+o informáciách, o ktorých sa dozvedeli, pričom povinnosť mlčanlivosti trvá aj po ukončení
+spracúvania osobných údajov.
+
+13
+
+e) Objednávateľ je oprávnený požadovať od Poskytovateľa preukázanie vykonania opatrení
+podľa čl. 32 všeobecného nariadenia o ochrane údajov alebo § 39 zákona o ochrane
+osobných údajov (bezpečnosť spracúvania osobných údajov).
+f) Objednávateľ je oprávnený kontrolovať, či Poskytovateľ nepoveril spracúvaním osobných
+údajov ďalšieho sprostredkovateľa v rozpore s ustanoveniami tejto Zmluvy,
+g) Objednávateľ je oprávnený od Poskytovateľa požadovať súčinnosť pri plnení jeho povinností
+v súvislosti s uplatňovaním práv dotknutej osoby.
+h) Objednávateľ je oprávnený od Poskytovateľa požadovať súčinnosť pri zabezpečovaní
+plnenia povinností podľa čl. 32 až 36 všeobecného nariadenia o ochrane údajov alebo § 39
+až 43 zákona o ochrane osobných údajov (bezpečnosť osobných údajov).
+16.11 Práva a povinnosti Poskytovateľa ako sprostredkovateľa:
+a) Poskytovateľ je oprávnený spracúvať osobné údaje na základe tejto Zmluvy odo dňa
+nadobudnutia jej účinnosti.
+b) Poskytovateľ je povinný spracúvať osobné údaje len na základe zdokumentovaných
+(písomných) pokynov Objednávateľa. Poskytovateľ nesmie prenášať osobné údaje do
+tretích krajín alebo do medzinárodnej organizácie bez predchádzajúceho písomného
+súhlasu Objednávateľa, okrem prenosu na základe práva Európskej únie alebo osobitného
+predpisu alebo medzinárodnej zmluvy, ktorou je Slovenská republika viazaná; Poskytovateľ
+je pri takom prenose povinný oznámiť Objednávateľovi túto požiadavku pred spracúvaním
+osobných údajov, ak právo Európskej únie, osobitný predpis alebo medzinárodná zmluva,
+ktorou je Slovenská republika viazaná, takéto oznámenie nezakazuje z dôvodov verejného
+záujmu.
+c) Poskytovateľ je povinný zabezpečiť, aby sa osoby oprávnené spracúvať osobné údaje
+zaviazali, že zachovajú mlčanlivosť o informáciách, o ktorých sa dozvedeli. Povinnosť
+mlčanlivosti trvá aj po ukončení spracúvania osobných údajov. Poskytovateľ je povinný na
+požiadanie Objednávateľa preukázať skutočnosť, že zaviazal mlčanlivosťou osoby
+oprávnené spracúvať osobné údaje.
+d) Poskytovateľ je povinný vykonať opatrenia podľa ustanovenia čl. 32 všeobecného
+nariadenia o ochrane údajov alebo § 39 zákona o ochrane osobných údajov (bezpečnosť
+spracúvania osobných údajov) a na požiadanie Objednávateľa je povinný preukázať
+splnenie uvedených opatrení.
+e) Poskytovateľ nie je oprávnený poveriť spracúvaním osobných údajov ďalšieho
+sprostredkovateľa,
+f) Poskytovateľ je povinný po zohľadnení povahy spracúvania osobných údajov v čo najväčšej
+miere poskytnúť súčinnosť Objednávateľovi vhodnými technickými a organizačnými
+opatreniami pri plnení jeho povinnosti reagovať na žiadosti o výkon práv dotknutej osoby a
+prijímať opatrenia na základe žiadosti dotknutej osoby. Poskytovateľ je povinný v rámci
+svojej vnútornej organizácie prijať mechanizmy s cieľom pomáhať (poskytovať súčinnosť)
+Objednávateľovi pri plnení jeho povinností v súvislosti s uplatňovaním práv dotknutej osoby.
+g) Poskytovateľ je povinný poskytnúť súčinnosť Objednávateľovi pri zabezpečovaní plnenia
+povinností podľa čl. 32 až 36 všeobecného nariadenia o ochrane údajov alebo § 39 až 43
+zákona o ochrane osobných údajov (bezpečnosť osobných údajov) s prihliadnutím na
+povahu spracúvania osobných údajov a informácie dostupné Poskytovateľovi.
+h) Poskytovateľ je povinný vymazať osobné údaje alebo vrátiť Objednávateľovi osobné údaje,
+a to aj v prístupnej elektronickej forme ak existuje, po ukončení poskytovania služieb
+týkajúcich sa spracúvania osobných údajov na základe rozhodnutia Objednávateľa a
+vymazať existujúce kópie, ktoré obsahujú osobné údaje, ak právo Európskej únie alebo
+osobitný predpis alebo medzinárodná zmluva, ktorou je Slovenská republika viazaná,
+nepožaduje uchovávanie týchto osobných údajov.
+i) Poskytovateľ je povinný poskytnúť Objednávateľovi informácie potrebné na preukázanie
+splnenia povinností ustanovených v tejto Zmluve a poskytnúť súčinnosť v rámci auditu
+ochrany osobných údajov a kontroly zo strany Objednávateľa alebo audítora, ktorého poveril
+Objednávateľ, najmä je povinný umožniť Objednávateľovi alebo osobe poverenej
+Objednávateľom vstupovať do priestorov Poskytovateľa, predkladať potrebné informácie
+a dokumenty, rovnako umožniť prístup do informačných systémov Poskytovateľa, v rámci
+ktorých dochádza k spracúvanie osobných údajov v mene Objednávateľa, resp. nevyhnutne
+súvisia s uvedenou činnosťou.
+j) Poskytovateľ je povinný bez zbytočného odkladu informovať Objednávateľa, ak má za to, že
+sa pokynom Objednávateľa porušuje všeobecné nariadenie o ochrane údajov alebo zákon
+o ochrane osobných údajov, iné právne predpisy Európskej únie, osobitný predpis alebo
+medzinárodná zmluva, ktorou je Slovenská republika viazaná, ktoré sa týkajú ochrany
+osobných údajov.
+
+14
+
+k) Poskytovateľ je povinný oznámiť Objednávateľovi porušenie ochrany osobných údajov
+(podozrenia úniku, straty, zničenia, zneužitia alebo iného nenáležitého nakladania s
+osobnými údajmi) bez zbytočného odkladu po tom, ako sa o ňom dozvedel.
+l) Poskytovateľ je povinný pri spracúvaní osobných údajov dodržiavať základné zásady
+spracúvania osobných údajov uvedené v II. kapitole všeobecného nariadenia o ochrane
+údajov a v § 6 ž 18 zákona o ochrane osobných údajov.
+m) Poskytovateľ je povinný viesť záznamy o kategóriách spracovateľských činností, ktoré
+vykonal v mene Objednávateľa.
+n) Poskytovateľ berie na vedomie, že pokiaľ poruší všeobecné nariadenia o ochrane údajov
+alebo zákon o ochrane osobných údajov tým, že sám určí účel a prostriedky spracúvania
+osobných údajov, považuje sa v súvislosti s týmto spracúvaním osobných údajov za
+prevádzkovateľa na účely legislatívy o ochrane osobných údajov a nesie rovnakú mieru
+zodpovednosti ako prevádzkovateľ.
+o) Poskytovateľ je oprávnený spracúvať len tie údaje, ktoré zodpovedajú účelu ich spracúvania,
+pričom má povinnosť, okrem iného:
+i. spracúvať osobné údaje len na určené účely;
+ii. spracúvať len také osobné údaje, ktoré rozsahom a obsahom zodpovedajú určenému
+účelu a sú nevyhnutné pre jeho dosiahnutie;
+iii. získavať osobné údaje na vymedzený alebo ustanovený účel; je neprípustné získavať
+osobné údaje pod zámienkou iného účelu spracúvania alebo inej činnosti,
+iv. udržiavať osobné údaje získané na rozdielne účely oddelene a zabezpečiť, aby osobné
+údaje boli spracúvané iba spôsobom, ktorý zodpovedá účelu, pre ktorý boli
+zhromaždené;
+v. spracúvať osobné údaje v súlade s dobrými mravmi a konať spôsobom, ktorý nie je v
+rozpore s všeobecným nariadením o ochrane údajov, zákonom o ochrane osobných
+údajov, ani inými právnymi predpismi a ani ich neobchádza.
+p) Poskytovateľ je oprávnený pre účely plnenia tejto Zmluvy vykonávať len operácie, ktoré sú
+nevyhnutné pre splnenie účelu spracúvania osobných údajov, a to najmä nasledujúce
+operácie: získavať, zhromažďovať, usporadúvať, preskupovať, kombinovať, premiestňovať,
+využívať, uchovávať, likvidovať, zverejňovať, poskytovať, vyhľadávať, sprístupňovať.
+q) Objednávateľ si vyhradzuje právo rozhodnúť o poskytovaní osobných údajov z informačného
+systému tretím stranám alebo príjemcom. Poskytovateľ môže vykonať spracovateľskú
+operáciu spočívajúcu v poskytnutí, sprístupnení alebo zverejnení spracúvaných osobných
+údajov len s predchádzajúcim písomným súhlasom Objednávateľa a na základe jeho
+písomného pokynu.
+r) Za bezpečnosť poskytnutých osobných údajov zodpovedá Poskytovateľ tým, že ich chráni
+pred odcudzením, stratou, poškodením, neoprávneným prístupom, zmenou a rozširovaním.
+Poskytovateľ sa za týmto účelom zaväzuje prijať primerané technické, organizačné a
+personálne opatrenia zodpovedajúce spôsobu spracovania osobných údajov v informačnom
+systéme katastra nehnuteľností a to formou a za podmienok stanovených všeobecným
+nariadením o ochrane údajov alebo zákonom o ochrane osobných údajov.
+s) Poskytovateľ sa zaväzuje preukázateľne poučiť osoby oprávnené spracúvať osobné údaje o
+ich právach a povinnostiach pri ochrane osobných údajov vyplývajúcich z platných právnych
+predpisov, ako aj o zodpovednosti v prípade ich porušenia.
+t) Objednávateľ aj Poskytovateľ sa zaväzujú rešpektovať právo dotknutej osoby na informácie
+súvisiace so spracúvaním jej osobných údajov, pokiaľ si ho uplatní.
+16.12 Poskytovateľ je povinný nahradiť Objednávateľovi škodu, ktorá mu vznikne v dôsledku
+porušenia tejto Zmluvy zo strany Poskytovateľa.
+16.13 V prípade, že sa začne akékoľvek súdne, správne a/alebo iné konanie ohľadom spracúvania
+osobných údajov Poskytovateľ a/alebo Objednávateľom súvisiacim s touto Zmluvou, vrátane
+konania zo strany Úradu na ochranu osobných údajov Slovenskej republiky, proti ktorejkoľvek
+Zmluvnej strane, druhá Zmluvná strana dotknutej Zmluvnej strane poskytne súčinnosť pri
+príprave, poskytnutí a podaní dostupných námietok, dôkazov a/alebo podaní, ktoré by mohli
+viesť k zamietnutiu priznania nároku žiadateľa, nariadenia opatrenia, vydania rozhodnutia,
+uloženia peňažnej pokuty alebo inej sankcie voči dotknutej Zmluvnej strane, alebo ich
+zmierneniu.
+Článok XVII.
+Záverečné ustanovenia
+17.1 Zmluva sa spravuje Obchodným zákonníkom a na základe dohody Zmluvných strán, najmä
+primeranou aplikáciou ust. § 536 a nasl. Obchodného zákonníka ako aj ďalšími príslušnými
+ustanoveniami právnych predpisov Slovenskej republiky.
+
+15
+
+17.2 Zmluva môže byť s výnimkou zmeny kontaktných údajov Zmluvných strán podľa čl. XIII bod
+13.2 a 13.3 Zmluvy a podľa bodu 17.4 a 17.5 tohto článku Zmluvy zmenená len obojstrannými
+písomnými číslovanými zmluvnými dodatkami v súlade s ust. § 18 zákona o VO. Akékoľvek iné
+zápisy a protokoly sa nepovažujú za zmenu Zmluvy.
+17.3 Neoddeliteľnou súčasťou Zmluvy sú:
+a) Príloha č. 1 – Opis predmetu zákazky,
+b) Príloha č. 2 – Ponuka Poskytovateľa predložená v zadávaní zákazky, ktorej výsledkom bolo
+uzavretie tejto Zmluvy,
+c) Príloha č. 3 – Cenník,
+sú takto označené a podpísané Zmluvnými stranami.
+17.4 Oprávnení zástupcovia Objednávateľa sú:
+a) funkcia riaditeľ odboru informatiky, bezpečnosti a krízového riadenia (ÚGKK SR):
+Ing. Pavel Hajdin, tel: ................................., e-mail: ............................................
+b) funkcia vedúci odboru informačných a komunikačných technológií (GKÚ)
+Ing. Daniel Keblúšek, tel: ...................................., e-mail: ............................................
+c) oddelenie produktov, projektov a služieb GKÚ :
+Mgr. Ľuboslav Michalík, tel: ..........................., e-mail: ........................................................
+d) odbor referenčných údajov GIS:
+Ing. Valéria Molnárová, tel: ...................................., e-mail: ....................................................
+Zmluvné strany sa dohodli, že určenie a zmena osôb je vo výlučnej kompetencii Objednávateľa.
+Zmena v týchto osobách sa stáva účinnou dňom doručenia písomného oznámenia
+Poskytovateľovi.
+17.5 Oprávnení zástupcovia Poskytovateľa sú:
+a) funkcia senior projektový a delivery manažér (Sevitech)
+Ing. Adriana Majová, tel: ............................................., e-mail: .................................................
+b) funkcia Divízny riaditeľ IT servis podpory a outsourcingu (Sevitech)
+Ing. Ján Ďurov, tel: ......................................... , e-mail: ............................................
+c) funkcia obchodný riaditeľ (Sevitech)
+Ing. Vladimír Oravec, tel: ...................................., e-mail: ..............................................
+Zmluvné strany sa dohodli, že určenie a zmena osôb je vo výlučnej kompetencii Poskytovateľa.
+Zmena v týchto osobách sa stáva účinnou dňom doručenia písomného oznámenia
+Objednávateľovi.
+17.6 Zmluvné strany sa zaväzujú bez zbytočného odkladu si písomne oznamovať zmeny v osobách
+alebo kontaktných údajoch uvedených v bode 17.4 a 17.5 tohto článku Zmluvy.
+17.7 Ak niektoré ustanovenia Zmluvy nie sú celkom alebo sčasti účinné alebo neskôr stratia
+účinnosť, nie je tým dotknutá platnosť ostatných ustanovení. Namiesto neúčinných ustanovení
+a na vyplnenie medzier sa použije úprava, ktorá, pokiaľ je to právne možné, sa čo najviac
+približuje zmyslu a účelu Zmluvy, pokiaľ pri uzatváraní Zmluvy Zmluvné strany túto otázku brali
+do úvahy.
+17.8 Zmluva nadobúda platnosť dňom jej podpisu Zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia Objednávateľom spôsobom ustanoveným príslušným
+právnym predpisom.
+17.9 Zmluva je vyhotovená v dvoch rovnopisoch, jeden rovnopis pre Objednávateľa a jeden rovnopis
+pre Poskytovateľa.
+17.10 Zmluvné strany vyhlasujú, že si Zmluvu prečítali, jej obsahu porozumeli a na znak toho, že
+obsah Zmluvy zodpovedá ich skutočnej a slobodnej vôli, ju podpísali.
+Objednávateľ
+Úrad geodézie, kartografie a katastra
+Slovenskej republiky
+V Bratislave dňa .........................
+
+Poskytovateľ:
+
+V Bratislave dňa ........................
+
+Podpis: __________________________________ Podpis: ___________________________________
+Meno:
+Ing. Mária Frindrichová
+Meno:
+Ing. Jaroslav Murár
+Funkcia:
+predsedníčka
+Funkcia:
+predseda predstavenstva
+
+16
+
+Podpis ___________________________________
+Meno:
+Jaroslav Gajdoš
+Funkcia
+člen predstavenstva
+
+Príloha č. 1 – Opis predmetu zákazky
+POŽIADAVKY NA PREDMET ZÁKAZKY
+Úspešný uchádzač poskytne služby podpory a prevádzky v nasledovnej forme:
+ paušálny servis zahŕňajúci zabezpečovanie bežnej servisnej podpory, ako aj poskytovanie podpory
+pre zaistenie spoľahlivej, kontinuálnej a bezpečnej prevádzky Základnej bázy údajov pre geografický
+informačný systém (ďalej len „ZBGIS“) v súlade s aktuálnymi platnými funkčnými a nefunkčnými
+požiadavkami, vrátane riešenia problémov.
+ZBGIS je súčasťou informačného systému geodézie, kartografie a katastra, ktorý tvorí a prevádzkuje
+Úrad geodézie kartografie a katastra na základe zákona č. 215/1995 Z. z. o geodézii a kartografii v znení
+neskorších predpisov.
+ZBGIS je priestorovou objektovo orientovanou bázou údajov, ktorá je referenčným základom národnej
+infraštruktúry priestorových informácií. Vytvára lokalizačný a geometrický základ pre tvorbu tematických
+nadstavbových geografických informačných systémov a je záväzný pre tvorbu štátnych základných a
+štátnych tematických mapových diel.
+Účelom budovania ZBGIS je vytvorenie základu relevantných priestorových informácií o území
+Slovenskej republiky (SR) v systéme umožňujúcom ich uchovávanie, aktualizáciu, manipuláciu, analýzy a
+zobrazovanie.
+ZBGIS tvoria údaje a metaúdaje o priestorových objektoch krajiny, ich priestorových a tematických
+atribútov a vzájomných väzbách. Rozsah údajov o objektoch spravovaných v rámci ZBGIS určuje katalóg
+tried objektov. Vizualizácia údajov ZBGIS je prostredníctvom mapových kompozícii dostupná vo mapovej
+aplikácii Mapový klient ZBGIS®.
+Údaje ZBGIS predstavujú model reálneho sveta s presne definovanou mierou podrobnosti a abstrakcie
+podľa KTO ZBGIS, ktorý popisuje aspekty kvality objektov a javov v čase, umožňuje ich analyzovanie a
+grafickú prezentáciu.
+Katalóg tried objektov ZBGIS je súbor informácií, ktoré opisujú skupiny objektov spravovaných v
+geodatabázach ISGKK. Zároveň definuje metódy ich zberu, typ geometrie a ich vlastnosti (atribúty).
+Referenčné údaje ZBGIS pozostávajú z:
+ Priestorové údaje definované KTO ZBGIS, vrátane:
+o geografického názvoslovia (štandardizovaného aj neštandardizovaného),
+o administratívneho členenia,
+o geodetických referenčných bodov,
+ Ortofotosnímky,
+ Digitálny model reliéfu.
+Predmetom zákazky je poskytovanie služieb podpory a prevádzky ZBGIS (v rozsahu uvedenom
+v kapitole „Opis predmetu zákazky – upresňujúce informácie), ktoré je predmetom ochrany autorského
+práva, a ku ktorému verejný obstarávateľ nedisponuje ani autorskými právami, ani zdrojovými kódmi.
+Nositeľom autorských práv k ZBGIS (v rozsahu uvedenom v kapitole „Opis predmetu zákazky –
+upresňujúce informácie) je výrobca (autor).
+Verejný obstarávateľ požaduje, aby bol úspešný uchádzač za účelom úplného a riadneho poskytovania
+predmetu zmluvy autorizovaným partnerom výrobcu, resp. bol iným spôsobom oprávnený poskytovať
+služby tvoriace predmet zákazky a/alebo zabezpečil iným spôsobom súčinnosť výrobcu bez poškodenia
+alebo zasahovania do autorských práv výrobcu.
+Opis predmetu zákazky – upresňujúce informácie
+Úspešný uchádzač bude v rámci plnenia predmetu zákazky – paušálneho servisu poskytovať nasledovné
+služby:
+ Služba Helpdesk (HELP001),
+ Manažment incidentov a problémov (SLA001),
+ Služby údržba ZBGIS (SLA002),
+ Služby monitoringu ZBGIS (SLA003),
+ Reporty (SLA004),
+ Služby súvisiace s dostupnosťou riešenia produkčného prostredia (OLA001), testovacieho prostredia
+(OLA002), školiaceho prostredia (OLA003),
+ Služby súvisiace so zabezpečením výkonnosti ZBGIS (OLA004).
+
+Špecifikácia poskytovaných služieb:
+Skratka
+pre
+servisnú
+službu
+PM001
+
+HELP001
+
+Názov servisnej služby
+Manažment zdrojov
+
+Help desk
+
+Popis servisnej služby
+Manažér zabezpečujúci komunikáciu
+medzi verejným obstarávateľom
+a úspešným uchádzačom ako
+poskytovateľom služieb, manažujúci celý
+tím na strane úspešného uchádzača.
+Poskytovanie, správa Help Desku a
+telefonické linky, ktoré sú vyhradené pre
+účely podpory verejného obstarávateľa
+(cca 10 kľúčových používateľov verejného
+obstarávateľa).
+Zaznamenávanie prichádzajúcich hlásení
+a priradenie jednoznačného referenčného
+čísla.
+Zabezpečenie prvotnej odozvy, priebežné
+evidovanie stavov riešenia Incidentov pre
+účely analýzy a reportovania.
+Overenie správnosti vyplnenia formulára
+a relevantnosti (SLA rieši len 2nd level
+support, 3rd level support) pre servisné
+hlásenie zaslané verejným
+obstarávateľom do Help Desku
+úspešného uchádzača ako poskytovateľa
+SLA. V prípade potreby bude úspešný
+uchádzač požiadaný o doplnenie
+informácií, pokiaľ hlásenia Incidentu
+nebude dostačujúce a jednoznačné.
+Priradenie osoby, ktorá Incident bude
+riešiť.
+Informovanie verejného obstarávateľa
+o aktuálnom stave riešenia a jeho vývoji.
+Zabezpečenie údajov a informácií
+potrebných pre merania SLA (napr. emailové notifikácie pri každej zmene
+
+Záväzné parametre
+
+Čas poskytovania
+servisnej služby
+Pracovná doba
+8x5
+PON-PIA 8:00 - 16:00
+
+ÚGKK/verejný obstarávateľ Objednávateľ
+Úspešný uchádzač - Poskytovateľ
+Pomenovaní používatelia
+Nahlasovanie hlásení cez Help Desk
+Poskytovateľa SLA
+Kritická vada - aj telefonicky cez
+Hotline
+
+Pracovná doba
+8x5
+PON-PIA 8:00 - 16:00
+
+SLA001
+
+SLA002
+
+SLA003
+
+stavu Incidentu, informácie o vyriešení
+Incidentu a podobne.) na Help Desku
+úspešného uchádzača.
+Manažment Incidentov a Analýza chybových stavov ZBGIS a
+Reakčná doba
+problémov
+základných programových prvkov –
+Vada A
+1h
+aplikačná úroveň.
+Vada B
+4h
+8h
+Odstránenie chybových stavov ZBGIS (v Vada C
+rozsahu SLA).
+Testovanie implementovaných zmien
+aplikačných modulov.
+Evidencia verzií ZBGIS (release notes).
+Evidencia opráv a úprav konfigurácie
+riešenia – aplikačná úroveň.
+Údržba ZBGIS
+Profilaktika ZBGIS (pravidelná odborná
+údržba - napr.: čistenie logov, databázy a
+predchádzanie haváriám) – aplikačná
+úroveň.
+Riešenie synchronizácie a integrity
+ZBGIS - aplikačná úroveň.
+Opravy a úpravy konfigurácie ZBGIS –
+aplikačná úroveň.
+DRP pre zálohovanie a obnovu ZBGIS aplikačná úroveň. Aktualizácia DRP.
+Patchovanie riešenia tretích strán
+(nasadenie patchov a hotfixov len v
+prípade potreby) – aplikačná úroveň.
+Patchovanie a aktualizácia ZBGIS (nové
+funkcie, procesné zmeny, updaty len v
+prípade potreby) – aplikačná úroveň.
+Nasadenie nových verzií ZB GIS vrátane
+subsystémov (2x na produkčné
+prostredie, 2x na testovacie prostredie, 2x
+na školiace prostredie)
+Monitoring ZBGIS
+Monitoring SW - základných
+programových prvkov a databázy.
+Monitoring SW - aplikačného
+programového vybavenia.
+Monitoring HW - infraštruktúry (serverov a
+komunikačných prvkov).
+
+Doba opravy Pracovná doba
+8h
+3D
+8x5
+10D
+PON-PIA 8:00 - 16:00
+
+Pracovná doba
+8x5
+PON-PIA 8:00 - 16:00
+
+24x7
+PON-NE
+
+Monitoring a štatistiky dostupnosti
+elektronických služieb ZBGIS a aplikácií,
+používateľov, ktorý pristupujú z externého
+prostredia.
+Monitoring bezpečnosti - udalosti OS,
+infraštruktúry, aplikačných logov.
+SLA004
+
+Reporty
+Poskytovanie reportov:
+v rozsahu podľa matice reportov
+
+OLA001
+
+Dostupnosť
+ZBGIS
+produkčného prostredia
+
+Posledný deň v mesiaci, k času
+23:59.
+
+Pracovná doba
+8x5
+PON-PIA 8:00 - 16:00
+
+Dostupnosť ZBGIS:
+- počas pracovnej doby:
+Produkčné Internet 98%
+- mimopracovnej doby:
+Produkčné Internet 96%
+
+24x7
+PON-NE
+
+Zabezpečiť požadovanú dostupnosť
+ZBGIS a jeho služieb - aplikačná úroveň.
+
+OLA002
+
+OLA003
+
+Dostupnosť ZBGIS:
+počas pracovnej doby:
+Produkčné Intranet 75%
+- mimopracovnej doby:
+Produkčné Intranet 45%
+
+Pracovná doba
+8x5
+PON-PIA
+
+Dostupnosť
+ZBGIS
+Dostupnosť ZBGIS:
+testovacieho prostredia
+Zabezpečiť požadovanú dostupnosť
+- počas pracovnej doby:
+ZBGIS a jeho služieb - aplikačná úroveň. Testovacie Internet 50%
+Testovacie Intranet 25%
+Dostupnosť
+ZBGIS
+Dostupnosť Riešenia:
+Zabezpečiť požadovanú dostupnosť
+školiaceho prostredia
+- počas pracovnej doby:
+ZBGIS a jeho služieb - aplikačná úroveň.
+Školiace Internet 10%
+
+Pracovná doba
+8x5
+PON-PIA
+Pracovná doba
+8x5
+
+OLA004
+
+Výkonnosť ZBGIS
+
+Zabezpečiť požadovanú výkonnosť
+ZBGIS jednotlivých procesov, aplikácií,
+elektronických služieb ZBGIS a jobov
+systému.
+
+Školiace Intranet 10%
+PON-PIA
+Kategórie požadovanej odozvy GISkomponentov pri aktivite
+používateľa:
+24x7
+1. Neinteraktívna komunikácia PON-NE
+odozva klientskej aplikácie (webový
+alebo silný klient) pri činnostiach, kde
+sa nevyžaduje komunikácia s
+aplikačným serverom (napr.
+prechádzanie medzi poľami pri
+zadávaní údajov vo formulároch) - 1
+sek.
+2. Interaktívna komunikácia s vysokou
+prioritou - odozva komponentu pri
+činnostiach s vysokou prioritou,
+pričom je potrebná komunikácia s
+aplikačným serverom(napr. práca s
+mapou, meranie vzdialeností a plôch,
+vyhľadávanie, požiadavky na prechod
+medzi poľami formulára vyžadujúce
+interakciu so serverom, vytvorenie
+preddefinovaného objektu,
+prichytávanie na bod/na povrch,
+meranie nad DMR, generovanie
+zoznamu vykonaných operácií, log
+operácií, zmena jazykovej mutácie) 5 sek.
+3. Interaktívna komunikácia so
+strednou prioritou - odozva
+komponentu pri činnostiach so
+strednou prioritou, pričom je potrebná
+komunikácia s aplikačným serverom 10 sek.
+4. Interaktívna komunikácia s nízkou
+prioritou - odozva komponentu pri
+činnostiach s nízkou prioritou, pričom
+je potrebná komunikácia s aplikačným
+serverom - 20 sek.
+5. Interaktívna komunikácia bez
+
+časového obmedzenia - komplikované
+požiadavky a požiadavky dávkového
+spracovania (napr. načítavanie
+mapového klienta, vykonanie
+geoprocesnej úlohy, transformácia a
+konverzia údajov prostredníctvom
+transformačnej a konverznej služby,
+reporty, exporty, ...) – bez časového
+obmedzenia
+
+Parametre poskytovaných služieb:
+
+
+Služba Helpdesk (HELP001)
+Úspešný uchádzač bude poskytovať službu Helpdesk v režime 8x5 v pracovnej dobe v dňoch
+pondelok až piatok od 08:00 – 16:00.
+
+
+
+Manažment incidentov a problémov (SLA001)
+Úspešný uchádzač bude poskytovať službu Manažmentu incidentov a problémov v režime 8x5
+v pracovnej dobe v dňoch pondelok až piatok od 08:00 – 16:00 nasledovne:
+
+VADA
+
+Priradená
+elektronická
+SLA
+
+Čas poskytovania
+servisnej služby
+
+Reakčná
+doba
+
+1* pracovná
+hod.
+4* pracovné
+B
+SLA B
+Pracovná doba
+hod.
+8*
+C
+SLA C
+Pracovná doba
+pracovných
+hod.
+* uvedený čas plynie len počas Času poskytovania servisnej služby
+A
+
+SLA A
+
+Pracovná doba
+
+Doba opravy
+alebo dodania
+analýzy
+riešenia vady
+vrátane
+oznámenia
+termínu
+8 pracovných
+hod.
+3 prac. dni
+10 prac. dní
+
+
+
+Služby údržba ZBGIS (SLA002)
+Úspešný uchádzač bude poskytovať službu Helpdesk v režime 8x5 v pracovnej dobe v dňoch
+pondelok až piatok od 08:00 – 16:00.
+
+
+
+Služby monitoringu ZBGIS (SLA003)
+Úspešný uchádzač bude poskytovať službu Helpdesk v režime 24x7 v dňoch pondelok až nedeľa
+(t. j. sedem dní v týždni).
+
+
+
+Reporty (SLA004)
+Verejný obstarávateľ v rámci plnenia predmetu zákazky vyžaduje poskytovanie reportov podľa
+nasledovnej matice reportov :
+ID
+R01HELP001
+
+R02SLA001
+
+R03SLA002
+
+R04SLA003
+R05SLA004
+
+názov
+reportu
+Report
+plnenia –
+HelpDesk
+Report
+plnenia –
+Manažment
+incidentov
+a
+problémov
+Report
+plnenia Údržba
+riešenia
+Report
+plnenia –
+Monitoring
+riešenia
+Report
+plnenia –
+Reporty
+
+frekvencia forma
+
+doručenie
+
+potvrdenie
+prijatia
+
+mesačne
+
+xls
+
+e-mail
+
+e-mail
+
+mesačne
+
+xls
+
+e-mail
+
+e-mail
+
+mesačne
+
+xls
+
+e-mail
+
+e-mail
+
+mesačne
+
+elektronická
+
+e-mail
+
+e-mail
+
+mesačne
+
+papier
+
+Osobné/pošta podpis
+
+R06OLA001
+
+R07OLA002
+
+R08OLA003
+
+R09OLA002
+
+Report
+plnenia –
+Dostupnosť
+riešenia PP
+Report
+plnenia –
+Dostupnosť
+riešenia TP
+Report
+plnenia –
+Dostupnosť
+riešenia ŠP
+Report
+plnenia Výkonnosť
+riešenia
+
+mesačne
+
+elektronická
+
+e-mail
+
+e-mail
+
+mesačne
+
+elektronická
+
+e-mail
+
+e-mail
+
+mesačne
+
+elektronická
+
+e-mail
+
+e-mail
+
+mesačne
+
+elektronická
+
+e-mail
+
+e-mail
+
+Úspešný uchádzač doručí e-mailom do 5 pracovných dní po ukončení príslušného kalendárneho
+mesiaca reporty podľa vyššie uvedenej matice reportov.
+
+
+Služby súvisiace s dostupnosťou riešenia produkčného prostredia (OLA001), testovacieho
+prostredia (OLA002), školiaceho prostredia (OLA003)
+Úspešný uchádzač neobmedzí dostupnosť ZB GIS 24 x 7 x 365 dní v roku, mimo vopred
+dohodnutých a odsúhlasených časov, ktoré sú nevyhnutné a výlučne použité na servisné zásahy
+vyžadujúce obmedzenie dostupnosti v zmysle servisnej služby údržby ZBGIS.
+Úspešný uchádzač zabezpečí požadovanú dostupnosť ZBGIS a jeho služieb (aplikačná úroveň)
+nasledovne:
+ produkčné prostredie:
+o internet: poskytovanie služby v režime 24x7 – pondelok až nedeľa s dostupnosťou 98%
+počas pracovnej doby, 96% mimo pracovnej doby;
+o intranet: poskytovanie služby v režime 8x5 – pondelok až piatok s dostupnosťou: 75%
+počas pracovnej doby, 45% mimo pracovnej doby;
+ testovacie prostredie - poskytovanie služby v režime 8x5 – pondelok až piatok
+o internet: dostupnosť 50% počas pracovnej doby;
+o intranet: dostupnosť 25% počas pracovnej doby;
+ školiace prostredie - poskytovanie služby v režime 8x5 – pondelok až piatok
+o internet: dostupnosť 10% počas pracovnej doby;
+o intranet: dostupnosť 10% počas pracovnej doby.
+Dostupnosť ZBGIS bude úspešný uchádzač vyhodnocovať na mesačnej báze zvlášť pre príslušné
+časy poskytovania servisnej služby.
+Vzorec na výpočet dostupnosti:
+Dostupnosť v % =
+
+
+
+Čas poskytovania služby v hodinách – počet hodín Down Time
+× 100
+Čas poskytovania služby v hodinách
+
+Služby súvisiace so zabezpečením výkonnosti ZBGIS (OLA004)
+Výkonnosť ZBGIS bude úspešný uchádzač vyhodnocovať na mesačnej báze zvlášť pre príslušné
+časy poskytovania servisnej služby.
+Vzorec na výpočet výkonnosti:
+Výkonnosť v % =
+
+počet transakcií vykonaných v limite „požadovaná odozva“
+× 100
+počet všetkých vykonaných transakcií ∗
+
+* jedná sa o počet všetkých vykonaných transakcií s odpočtom transakcií
+
+Požiadavky na spôsob poskytovania služieb
+A. Definície pojmov:
+ DRP: je plán obnovy na aplikačnej úrovni.
+ Down Time: je čas, keď ZBGIS nie je dostupný mimo vopred dohodnutých a odsúhlasených
+časov oboma zmluvnými stranami v zmysle servisnej služby údržba ZBGIS.
+ Issue: je proaktívna aj reaktívna činnosť úspešného uchádzača spojená so servisnou službou
+údržba ZBGIS.
+ IT služba: je služba poskytovaná úspešným uchádzačom jednému alebo viacerým
+používateľom verejného obstarávateľa. IT služba je vytvorená kombináciou ľudí, procesov
+a technológií.
+ Problém: je spoločná príčina jedného alebo viacerých Incidentov; príčina zvyčajne nie je
+známa v čase, keď sa tvorí záznam o probléme.
+ Root caused fix: je odstránenie podstatnej alebo originálnej príčiny Incidentu alebo
+Problému.
+ Servisná požiadavka (request): je akákoľvek požiadavka oprávneného zástupcu verejného
+obstarávateľa, ktorá nemá charakter vady, napr. akákoľvek požiadavka verejného
+obstarávateľa na poskytnutie informácie, rady, štandardizovanej zmeny ZBGIS alebo
+poskytnutie prístupu k IT službe.
+ SLA (Service Level Agreement) – dohoda o úrovni poskytovanej služby - Dohoda medzi
+poskytovateľom IT služieb a zákazníkom. SLA popisuje IT službu, dokumentuje cieľovú
+úroveň služieb a špecifikuje zodpovednosti poskytovateľa IT služby a zákazníka.
+ Syntetická transakcia – je spôsob aktívneho monitorovania, ktorá sa vykonáva emuláciou
+reálnej činnosti používateľa. Reálna činnosť používateľa je jednorazovo zaznamenaná
+a nahratá do monitoringu. Takýto záznam sa opakovane spúšťa v špecifikovaných intervaloch
+a aktívne monitoruje dostupnosť s výkonnosť aplikačného riešenia.
+ Štandardizovaná zmena: je zmena, ktorej vykonanie sa bežne realizuje vopred predpísaným
+a predschváleným postupom, a je dopredu známa aj náročnosť na realizáciu ako napr. oprava
+popisu položky v číselníku, nastavenie novej hodnoty položky číselníka, zmena nastavenia
+periodicity pre generovanie reportu atď.
+ Temporary fix: je dočasné riešenie Incidentu, ktoré môže byť sprevádzané zníženou
+funkčnosťou Riešenia.
+ Tranzitívne obdobie: je časový úsek vyhradený na inštaláciu a konfiguráciu podporných
+technologických nástrojov v prostredí infraštruktúry verejného obstarávateľa.
+ Workaround je poskytnutie náhradného riešenia s cieľom eliminovania dopadu Incidentu,
+hoci úplné vyriešenie Incidentu nie je k dispozícii tak, že používateľ verejného obstarávateľa
+s akceptovateľným obmedzením dosiahne požadovaný výstup.
+B. Požiadavky na spôsob poskytovania služieb
+1. Služba Helpdesk
+Pre účely servisnej služby Help desk zabezpečí úspešný uchádzač webový portál na
+nahlasovanie vád a servisných požiadaviek verejného obstarávateľa. Webový portál bude
+dostupný 24 hodín 7 dní v týždni na web adrese v prostrední internetu. Prihlasovacie meno
+a heslo bude vytvorené na základe písomnej požiadavky verejného obstarávateľa. Verejný
+obstarávateľ bude na nahlasovanie vád a servisných požiadaviek primárne využívať portál
+úspešného uchádzača. Nástroj Help desk bude používať terminológiu ITIL.
+V prípade nedostupnosti web portálu je možné použiť e-mail resp. telefonický kontakt. V takomto
+prípade zapíše verejný obstarávateľ do predmetu e-mailu text: VADA kategórie x (kde x môže byť
+A alebo B alebo C) resp. SERVISNÁ POŽIADAVKA.
+Pri použití e-mailu a telefónu verejný obstarávateľ zadá vadu alebo servisnú požiadavku na
+webový portál dodatočne.
+Nahlasovanie Vád:
+Nahlásenie vád vyžaduje od vyplnenie detailného popis vád, ak je to možné priložiť podklady
+popisujúce vadu ako je napríklad kópia obrazovky s vadou (screen shot), log zo systému a pod.
+ako prílohu a označiť kategóriu vád (A alebo B alebo C).
+V prípade nejasnej formulácie vady zo strany verejného obstarávateľa, predovšetkým nebude z
+nej jasná závažnosť problému alebo stanovenie závažnosti bude rozdielna, môže úspešný
+uchádzač právo si vyžiadať jeho nasledujúce doplnkové spresnenie, a to cez Help desk, ale i
+písomnou formou (elektronickou poštou).
+Verejným obstarávateľom vyznačená klasifikácia vád je viazaná na parameter „Reakčná doba“,
+ktorý je záväzný pre úspešného uchádzača. Verejným obstarávateľom nahlásená klasifikácia vád
+sa bude riadiť mechanizmom schvaľovania klasifikácie vád:
+
+úspešný uchádzač kontaktuje verejného obstarávateľa a potvrdí navrhnutú klasifikáciu vady,
+alebo navrhne zmenu klasifikácie vady na základe analýzy príznakov vady. Navrhnutú zmenu
+klasifikácie vady musí elektronicky schváliť verejný obstarávateľ.
+- Každá zmena klasifikácie vady je zaznamenaná a auditovateľná. Ak mal nesprávny prvotný
+návrh klasifikácie vady zo strany verejného obstarávateľa dopad vo forme kratšej „Reakčnej
+doby“ na základe neskoršieho preklasifikovania vady na nižší stupeň závažnosti, bude časový
+rozdiel medzi reakčnou dobou pre daný (nižší) stupeň závažnosti vady a skutočne
+dosiahnutou reakčnou dobou riešenia danej vady klasifikovanej pôvodne vyšším stupňom
+závažnosti kalkulovaný v reporte služby za daný kalendárny mesiac ako časový kredit, o ktorý
+sa automaticky zníži prípadné meškanie úspešného uchádzača s reakčnou dobou pri riešení
+iných vád v rámci daného mesiaca. Tento princíp nie je možné aplikovať pre dobu vyriešenia
+Vady A.
+Do doby, kým existuje nevyriešená vada akejkoľvek kategórie, má riešenie vady prednosť pred
+riešením servisných požiadaviek.
+Súčasťou každej poskytovanej servisnej služby je aj aktualizácia dotknutej dokumentácie.
+Dodanie aktualizovanej dokumentácie nepodlieha ani inak nesúvisí s garantovanou úrovňou
+poskytovanej služby.
+Poskytovaním servisných služieb nevznikajú úspešnému uchádzačovi žiadne ďalšie tu neuvedené
+záväzky ani zodpovednosti. Servisné služby nenahradzujú školenia, dokumentáciu ani
+implementáciu.
+Verejný obstarávateľ sa zaväzuje informovať úspešného uchádzača o zmenách, ktoré plánuje
+vykonať na prostredí, v ktorom bolo plnenie nasadené. Prostredím sa rozumie HW a SW
+prostredie, do ktorého bolo plnenie nasadené, ako aj konfigurácia SW a HW prostredia. Úspešný
+uchádzač bez zbytočného odkladu vydá súhlasné stanovisko k plánovanej zmene, ak to nie je
+v rozpore s akýmikoľvek skutočnosťami, ktoré majú alebo by mohli mať za následok, že úspešný
+uchádzač nemôže alebo nebude môcť poskytovať služby podpory a prevádzky. V prípade, ak
+verejný obstarávateľ zmení prostredie bez súhlasu úspešného uchádzača, nie je úspešný
+uchádzač povinný poskytovať služby.
+Pre bezproblémové riešenie nahlásených incidentov bude na strane verejného obstarávateľa
+zabezpečená zodpovedajúca technická podpora a kontaktná osoba pre riešenie technických
+problémov.
+Pod zodpovedajúcou technickou podporou sa rozumie umožnenie prístupu ZBGIS aj
+prostredníctvom vzdialeného prístupu cez internet a v prípade potreby poskytnutie jedného
+pracovného miesta s pracovnou stanicou s prístupom do ZBGIS.
+Verejný obstarávateľ určí osoby oprávnené zadávať požiadavky. Tieto osoby budú mať
+zodpovedajúce znalosti o nastaveniach ZBGIS a príslušnú vecnú kompetenciu o procesoch, ktoré
+majú byť vykonávané.
+Všetky uzavreté hlásenia vád otestuje verejný obstarávateľ do piatich pracovných dní, ak sa
+nedohodne inak. Ak neznesie verejný obstarávateľ do piatich pracovných dní výhradu voči
+vykonanému, alebo doporučovanému riešeniu, považuje sa hlásenie za uzavreté. V prípade
+vznesenia dodatočných, alebo doplňujúcich námietok po uplynutí tejto lehoty, otvorí verejný
+obstarávateľ nové hlásenie.
+-
+
+Nahlasovanie SERVISNÝCH POŽIADAVIEK:
+K servisným požiadavkám nie je definovaný reakčný čas ani doba opravy. Na servisnú
+požiadavku nahlásenú prostredníctvom web-portálu reaguje úspešný uchádzač návrhom riešenia,
+resp. výzvou na detailnejšie informácie. Nahlásená servisná požiadavka podľa náročnosti môže
+nadobudnúť charakter dodatočného plnenia, ktoré však nie je súčasťou predmetu zákazky
+a následných plnení podľa zmluvy.
+Servisnou požiadavkou sa môže upraviť alebo doplniť ZBGIS, príp. zmeniť chovania či rozšírenia
+oproti dokumentácii a odsúhlaseným špecifikáciám. Každá takáto požiadavka bude najskôr
+zanalyzovaná a úspešný uchádzač pripraví návrh riešenia alebo funkčnej špecifikácie.
+Vyhodnocovanie servisnej služby
+Údaje na vyhodnotenie servisnej služby bude úspešný uchádzač čerpať z nástroja Help desk,
+ktorý zaručuje auditovateľnosť vyhodnotenia servisnej služby. K zaevidovanému incidentu
+a servisnej požiadavke bude archivovaný záznam o samotnej aktivite, o vykonávateľovi aktivity
+a čase. Auditovateľné sú aktivity:
+Vznik hlásenia incidentu alebo servisnej požiadavky, zmena popisu hlásenia, zmena klasifikácie
+Incidentu, priradenie riešiteľovi/riešiteľskej skupine, prevzatie riešiteľom, komentáre, zmena stavu
+riešenia Incidentu, uzavretie Incidentu, plnenie SLA, znovuotvorenie.
+
+Reporting
+Úspešný uchádzač na mesačnej báze vyhotoví a predloží verejnému obstarávateľovi report
+o servisnej službe, ktorý obsahuje výpis všetkých prijatých, uzavretých, znovuotvorených a tiež
+trvajúcich - hlásení incidentov v sledovanom období (kalendárny mesiac):
+Povinné informácie uvádzané v reporte sú:
+ Číslo ID
+ Čas vytvorenia
+ Nahlasovateľ
+ Priorita – kategória Vady
+ Popis
+ Riešiteľský tím
+ Riešiteľ
+ Stav riešenia
+ Čas uzavretia
+ Vyhodnotenie splnenia parametrov SLA
+ Znovuotvorenie
+2. Manažment incidentov a problémov
+Plnenie tejto služby priamo nadväzuje na plnenie služby Helpdesk, a to vo fáze, keď je verejným
+obstarávateľom nahlásená Vada kategórie A alebo B alebo C potvrdená úspešným uchádzačom
+jedným z vymenovaných spôsobov:
+ zmenou inicializačného stavu „Nespracované“ na iný z číselníka stavov v nástroji Help desk
+ emailom,
+a následne je riešenie priradené riešiteľskej skupine úspešného uchádzača.
+V systéme Help desk sa spúšťa elektronické meranie času podľa priradenej elektronickej SLA.
+Časomiera je aktívna len v Čase poskytovania servisnej služby a vypína sa aj v prípade, ak sa
+stav riešenia zmení na „rieši Objednávateľ“, kedy sa požaduje súčinnosť verejného obstarávateľa.
+Sú to najmä prípady, keď úspešný uchádzač nemôže pokračovať v riešení z technických príčin
+(napr. nefunkčné VPN pripojenia, resp. iná porucha na infraštruktúre verejného obstarávateľa),
+alebo z logických príčin (napr.: riešenie vyžaduje doplňujúce informácie, alebo rozhodnutie
+verejného obstarávateľa).
+Časomiera pre Dobu opravy alebo dodania analýzy riešenia vady vrátane oznámenia termínu na
+jej odstránenie sa spúšťa až potom ako je oboma stranami odsúhlasená kategória vady, jej
+identifikácia a rozsah Vady. Časomiery pre reakčnú dobu a dobu opravy alebo dodania analýzy
+riešenia neplynú súčasne.
+Notifikácie vo forme e-mailu zasiela systém podľa matice notifikácií:
+
+Stav riešenia
+1.Nespracované
+
+Typ notifikácie
+vytvorenie a priradenie ID
+
+Objednávateľ
+
+Poskytovateľ
+
+áno
+
+áno
+
+2.Rieši riešiteľ
+začatie riešenia
+3.Rieši riešiteľ - služba aplikovanie dočasného, náhradného
+obnovená
+riešenia
+
+áno
+
+áno
+
+áno
+
+áno
+
+4.Rieši Objednávateľ
+
+potreba spolupôsobenia
+
+áno
+
+áno
+
+5.Uzavreté - vyriešené
+
+vyriešenie
+
+áno
+
+áno
+
+6. Uzavreté - nevyriešené
+
+nevyriešenie
+
+áno
+
+áno
+
+Za účelom minimalizácie negatívneho dopadu vady na dostupnosť ZB GIS v čo najkratšom čase
+aplikuje úspešný uchádzač nielen konečné riešenie, ale aj náhradné alebo dočasné riešenie.
+Náhradné, dočasné alebo konečné riešenie je úspešný uchádzač povinný poskytnúť v čase „Doba
+opravy“ podľa klasifikácie vád. V prípade poskytnutia konečného riešenia sa incident uzavrie
+stavom „Uzavreté – vyriešené“. V prípade nasadenia dočasného, alebo náhradného riešenia sa
+incident neuzatvára konečným stavom „Uzavreté – vyriešené“ ale použije stav „Rieši riešiteľ –
+služba obnovená“. Úspešný uchádzač vytvorí nový, alebo priradí už existujúci problém, v ktorom
+hľadá konečné riešenie. Incident nie je možné uzavrieť stavom „Uzavreté - vyriešené“, kým
+existuje väzba na aspoň jeden aktívny problém.
+V prípade, že riešením Incidentu je aplikačná oprava - release, je úspešný uchádzač povinný
+vytvoriť záznam o novom release v Help desk a vytvoriť väzbu na aktívne incident(y) a (alebo)
+problém(y), ktoré budú po nasadenie release vyriešené. Záznam o release musí obsahovať aj
+
+popis opráv, prípadne funkcionalít, ktoré prináša a tiež výsledok testov vykonaných úspešným
+uchádzačom pred nasadením opravy.
+Ak uchádzač nájde konečné riešenie, popíše riešenie a označí Incident stavom „Uzavretévyriešené“. Ak nebude verejný obstarávateľ súhlasiť s riešením, vykoná „Znovuotvorenie“, zapíše
+pripomienku a incident vráti na riešenie úspešnému uchádzačovi so stavom „Nespracované“.
+Aktivita „znovuotvorenie“ je natrvalo zapísaná k incidentu a je aj reportovaná, čím vzniká prehľad
+o kvalite riešení. Evidenčné číslo Incidentu zostáva pôvodné a nezmenené.
+Vyhodnocovanie servisnej služby
+Údaje na vyhodnotenie servisnej služby bude úspešný uchádzač čerpať z nástroja Help desk,
+ktorý zaručuje auditovateľnosť vyhodnotenia servisnej služby. K zaevidovanému incidentu bude
+archivovaný záznam o samotnej aktivite, o vykonávateľovi aktivity a čase.
+Úspešný uchádzač vyhodnotí servisnú službu automatizovaným reportom z nástroja Help desk,
+ktorý obsahuje údaj o splnení/nesplnení reakčnej doby a doby opravy.
+Reporting
+Úspešný uchádzač na mesačnej báze vyhotoví a predloží verejnému obstarávateľovi report
+o servisnej službe, ktorý obsahuje prehľad všetkých uzavretých incidentov a problémov za
+sledované obdobie kalendárneho mesiaca.
+Povinné informácie uvádzané v reporte:
+ Číslo ID
+ Čas vytvorenia
+ Čas uzavretia
+ Nahlasovateľ
+ Priorita
+ Popis
+ Kategória - Zasiahnutá služba (len pre incidenty)
+ Riešiteľský tím
+ Stav riešenia
+ Splnenie SLA
+ Previazanie na incidenty alebo problémy
+ Znovuotvorenie
+Úspešný uchádzač raz za každých 6 mesiacov vyhotoví a predloží verejnému obstarávateľovi
+trendový report obsahujúci trend počtu uzavretých Incidentov za každý zo 6 predchádzajúcich
+mesiacov.
+3. Služba údržby ZB GIS
+V nástroji Help desk budú všetky aktivity spojené s údržbou riešenia evidované ako „Issue“
+Pred nasadením nových releasov je úspešný uchádzač povinný vytvoriť záznam o novom release
+v Help desk a vytvoriť väzbu na údržbovú aktivitu zaevidovanú ako issue, ktorá nasadenie rieši.
+Záznam o release musí obsahovať popis opráv, funkcionalít, ktoré prináša a tiež výsledok testov
+zo strany úspešného uchádzača.
+Vyhodnocovanie servisnej služby
+Údaje na vyhodnotenie servisnej služby bude úspešný uchádzač čerpať z nástroja Help desk,
+ktorý zaručuje auditovateľnosť vyhodnotenia servisnej služby. K zaevidovanému incidentu bude
+archivovaný záznam o samotnej aktivite, o vykonávateľovi aktivity a čase.
+Reporting
+Úspešný uchádzač na mesačnej báze vyhotoví a predloží verejnému obstarávateľovi report
+o servisnej službe, ktorý obsahuje prehľad všetkých uzavretých Issues.
+Povinné informácie uvádzané v reporte:
+ Číslo ID
+ Kategória údržbovej aktivity
+ Popis údržbovej aktivity
+ Čas vytvorenia
+ Čas uzavretia – reálny
+ Čas uzavretia – naplánovaný
+ Indikátor splnenia plánu
+
+4. Služba monitoringu ZBGIS
+Monitoring bude nepretržitý, pričom predmetom monitorovania bude software a hardware
+komponenty, ktoré sú súčasťou elektronických služieb verejného obstarávateľa.
+Porušenie alebo prekročenie hodnôt spustí mailové notifikácie a zobrazí sa alarm
+v monitorovacom nástroji.
+Úspešný uchádzač je povinný analyzovať alarmy a prípadne spustiť nadväzujúce procesy
+poskytovania servisnej služby.
+Úspešný uchádzač v čase poskytovania servisnej služby vyhodnotí alarm a ak má charakter vady,
+zakladá bezodkladne incident, alebo problém v Help desku. Vadu klasifikuje v súlade s definíciou
+a postupuje na riešiteľskú skupinu. Tu proces preberá služba manažmentu incidentov
+a problémov.
+Službu monitoringu ZBGIS zabezpečí úspešný uchádzač prostredníctvom monitorovacieho
+nástroja.
+Inštaláciu a konfiguráciu nástroja vykoná úspešný uchádzač s nevyhnutnou súčinnosťou
+verejného obstarávateľa. Úspešný uchádzač predloží do 5 pracovných dní od dátumu podpísania
+Zmluvy harmonogram vrátane plánu aktivít pre tranzitívne obdobie. Tranzitívne obdobie bude
+trvať najviac 40 pracovných dní. Súčasťou plánu aktivít bude aj požadovaná súčinnosť verejného
+obstarávateľa vyjadrená v človekodňoch pre jednotlivé aktivity s presným určením termínov.
+Úspešný uchádzač požiada e-mailom verejného obstarávateľa minimálne 2 pracovné dni vopred
+o každú neplánovane vyvolanú potrebu na súčinnosť. Ak verejný obstarávateľ nezabezpečí
+oprávnene požadovanú súčinnosť v požadovanom čase a rozsahu, tranzitívne obdobie sa
+alikvotne predĺži.
+Reporting
+Úspešný uchádzač na mesačnej báze vyhotoví a predloží verejnému obstarávateľovi report
+o servisnej službe, ktorý obsahuje report všetkých alarmov.
+Povinné informácie uvádzané v reporte:
+ čas vzniku alarmu,
+ popis
+ číslo ID vzniknutého incidentu, problému
+ čas ukončenia alarmu
+5. Reporty
+Úspešný uchádzač na mesačnej báze vyhotoví a predloží verejnému obstarávateľovi:
+ Mesačný report za sledované obdobie obsahujúci nasledovné informácie:
+o
+ID reportu /Názov reportu
+o
+Obdobie
+o
+Dátum odoslania
+ Celkový sumarizačný protokol za sledované obdobie obsahujúci nasledovné informácie:
+o
+ID reportu /Názov reportu
+o
+Obdobie
+o
+Dátum odoslania
+o
+Meno odovzdávajúceho za Poskytovateľa
+o
+Dátum akceptovania
+o
+Meno akceptujúceho za Objednávateľa
+o
+Povinné polia z Reportu dostupnosti
+o
+Povinné polia z Reportu plnenia – Manažment Incidentov a Problémov
+Vyhodnotenie servisnej služby bude na základe evidencie odovzdaných reportov podľa matice
+reportov uvedenej vyššie.
+6. Služby súvisiace s dostupnosťou riešenia produkčného prostredia, testovacieho
+prostredia, školiaceho prostredia
+Monitorovanie dostupnosti prebieha na princípe „syntetických transakcií“ prostredníctvom
+monitorovacieho nástroja. Syntetické transakcie zadá verejný obstarávateľ do monitorovacieho
+nástroja v rámci súčinnosti počas tranzitívneho obdobia.
+Syntetická transakcia opakovane generuje a spúšťa sadu transakcií, ktoré sú totožné s reálnou
+činnosťou verejného obstarávateľa. Ak transakcia nebude vykonaná, monitoring ohlási alarm.
+Úspešný uchádzač v čase poskytovania služby vyhodnotí alarm a v prípade neznámej príčiny
+bezodkladne zakladá problém v Help desku. Tu proces preberá servisná služba manažment
+incidentov a problémov.
+Reporting
+
+Úspešný uchádzač na mesačnej báze vyhotoví a predloží verejnému obstarávateľovi report
+dostupnosti obsahujúci nasledovné informácie:
+• Názov riešenia – ZBGIS
+• Označenie typu prostredia (Produkčné, Testovacie, Školiace)
+• Zmluvne garantovaná cieľová dostupnosť ZBGIS v %
+• Vypočítaná reálna dostupnosť ZBGIS v %
+7. Služby súvisiace so zabezpečením výkonnosti ZBGIS
+Monitorovaním výkonnosti prebieha na princípe „syntetických transakcií“ prostredníctvom
+monitorovacieho nástroja. Syntetické transakcie zadá verejný obstarávateľ do monitorovacieho
+nástroja v rámci súčinnosti počas tranzitívneho obdobia.
+Syntetická transakcia opakovane generuje a spúšťa sadu transakcií, ktoré sú totožné s reálnou
+činnosťou používateľa. K transakcii bude nastavená hodnota podľa tabuľky parametrov
+obsiahnutej uvedenej nižšie pre túto servisnú službu (OLA004) definovaná ako „požadovaná
+odozva“. Ak transakcia nebude vykonaná v limite a zníženie výkonnosti bolo spôsobené činnosťou
+úspešného uchádzača (nasadenie patch, nasadenie release, fixov), bude táto skutočnosť
+reportovaná podľa vzorca pre výpočet výkonnosti nižšie. Zároveň bude verejnému obstarávateľovi
+k dispozícii v Help desku aj informácia o celkovej výkonnosti systému, nakoľko bude systém
+monitorovaný v zmysle servisnej služby monitoring ZB GIS. V prípade aplikácie novej funkčnosti
+sa opakovane potvrdia hodnoty tabuľky parametrov pre servisnú službu OLA004 definované ako
+„požadovaná odozva“.
+Reporting
+Úspešný uchádzač na mesačnej báze vyhotoví a predloží verejnému obstarávateľovi report
+výkonnosti obsahujúci nasledovné informácie::
+• Názov riešenia – ZBGIS
+• Označenie typu prostredia (Produkčné, Testovacie, Školiace)
+• Zmluvne garantovaná výkonnosť v %
+• Vypočítaná reálne dosiahnutá výkonnosť v %
+Úspešný uchádzač môže poskytovať služby aj s využitím webového portálu, ktorý nepodporuje všetky
+vyššie uvedené požiadavky verejného obstarávateľa na spôsob poskytovania služieb alebo podporuje
+ich poskytovanie odlišným spôsobom.
+V takomto prípade uvedie uchádzač vo svojej ponuke spôsob poskytovania služieb prostredníctvom
+(jeho) webového portálu, a to vrátane popisu procesu najmä, ale nie obmedzene: nahlasovania vád
+a servisných požiadaviek, manažmentu incidentov a problémov, resp. monitoringu (vrátane
+monitorovania dostupnosti a výkonnosti) a zároveň aj spôsobu podpory vyhodnocovania
+poskytovaných služieb webovým portálom uchádzača a možností generovania reportov a notifikácií.
+Súčasťou predmetu zákazky NIE JE
+Súčasťou predmetu zákazky – služieb podpory a prevádzky NIE JE:
+ Zabezpečenie konektivity k systému z internej siete verejného obstarávateľa a zo vzdialeného
+prístupu (VPN):
+o Požiadavka na súčinnosť zo strany verejného obstarávateľa - Vzdialené pripojenie je nutné
+po dobu 7x24, v prípade, že nie je funkčné VPN pripojenie nie je možné garantovať doby na
+odstránenie vady. O čas kým nebolo funkčné pripojenie sa posúva čas realizácie odstránenia
+vady.
+ Inštalácia a správa serverových operačných systémov a databáz na ktorých je prevádzkovaný
+ZBGIS, vrátane patchovania OS;
+ Vytvorenie nového prostredia – nový OS, nové databázové prostredie pre inštaláciu nového
+prostredia;
+ Vykonávanie backup/zálohovania systému podľa dohodnutého plánu záloh;
+ Vykonávanie administrácie ZBGIS v nasledovnom rozsahu služieb:
+o Administrácia používateľov,
+o Administrácia oprávnení používateľov a profilov oprávnení,
+o Administrácia bežiacich jobov,
+o Administrácia tlačových služieb;
+ Siete a sieťové prvky;
+
+
+
+
+
+Inštalácia a aktualizácia OS na pracovných staniciach na ktorých je prevádzkovaná klientska časť
+riešenia ZBGIS, okrem FTG;
+Zálohovanie,
+Poskytovanie dodatočných plnení a služieb, t. j. plnení, ktoré nie sú zahrnuté do služieb podpory
+a prevádzky uvedených v kapitole „POŽIADAVKY NA PREDMET ZÁKAZKY“.
+
+Služby podpory a prevádzky podľa nezahŕňajú ani opravu chýb súvisiacich s úpravou a vylepšením
+ZBGIS, ktoré vyplývajú z ľubovoľných modifikácií a/alebo z vylepšení vykonaných verejným
+obstarávateľom, alebo akoukoľvek treťou stranou, prípadne preukázateľného nesprávneho
+používania, chyby alebo zanedbania zo strany verejného obstarávateľa alebo akoukoľvek treťou
+stranou.
+Súčasťou predmetu plnenia tejto zákazky nie je poskytovanie služieb podpory a prevádzky integrácie
+ZBGIS do prostredia eGovernmentu (samotná integračná vrstva), t. j. integrácia na:
+ register fyzických osôb (overenie pri autentifikácii),
+ register právnických osôb (overenie pri autentifikácii),
+ register priestorových informácií
+ register adries (overovanie údajov o adresách),
+ register obcí SR,
+ register okresov SR,
+ spoločné moduly ústredného portálu verejnej správy.
+Súčasťou predmetu zákazky nie je ani poskytovanie služieb súvisiacich s informačnou bezpečnosťou
+(napr. Zber podkladov pre analýzu rizík (aktíva, pravdepodobnosť hrozieb a pod), Analýza hodnotenia
+dopadu hrozieb, eliminácie rizík a návrh možných opatrene, odporúčaných krokov pre elimináciu rizík,
+integrácia s existujúcim prostredím), ako ani podpora hardvérových komponentov.
+
+VŠEOBECNÉ INFORMÁCIE
+(Opis súčasného stavu ZBGIS)
+POPIS ZBGIS
+ZBGIS tvoria údaje a metaúdaje o priestorových objektoch krajiny, ich priestorových a tematických
+atribútov a vzájomných väzbách. Rozsah údajov o objektoch spravovaných v rámci ZBGIS určuje
+katalóg tried objektov (KTO) ZBGIS. KTO bol vytvorený s cieľom čo najlepšie vystihnúť národné
+prostredie a jeho špecifiká a aj v súčasnosti ostáva jeho obsahová štruktúra otvorená. Logická
+štruktúra katalógu, ako aj objektová a atribútová špecifikácia, dodržuje kódovanie FACC podľa
+DIGESTu.
+ORGANIZAČNÝ POHĽAD (BUSINESS ARCHITEKTÚRA)
+Používatelia systému
+1. Anonymní používatelia
+Anonymní používatelia pristupujú do systému ZBGIS z prostredia internetu a ako základné
+rozhranie pre interakciu so systémom ZBGIS využívajú tenkého klienta ZBGIS.
+Pracovníci rezortu využívajúci služby ZBGIS používajú tenkého klienta ZBGIS nasadeného v
+prostredí intranetu takisto anonymne.
+Tenký klient poskytuje základné služby a funkcionality. Prístup do tenkého klienta je anonymný.
+2. Zmluvní používatelia
+Zmluvní používatelia vznikajú na základe uzatvorenia zmluvného vzťahu s ÚGKK SR alebo
+správcom IS GKK.
+V systéme ZBGIS využívajú prístup k publikovaným nevizuálnym službám, sprostredkovaný
+pomocou OM. Autentifikácia zmluvných používateľov sa vykonáva prostredníctvom rozhraní
+obchodného modulu.
+3. Interní používatelia – pracovníci rezortu
+Autentifikácia interných používateľov bude prebiehať automaticky bez nutnosti manuálneho
+prihlásenia využitím Active Directory objednávateľa (ÚGKK) a IAM – ZBGIS. Prihlásenie a správu
+interných používateľov budú zabezpečovať:
+• Active Directory
+Active Directory predstavuje technológiu umožňujúcu jednotnú centralizovanú správu
+počítačov v rámci jednej počítačovej siete. Okrem možnosti hromadnej inštalácie aplikačných
+nástrojov, aplikácie bezpečnostných záplat a iných, umožňuje tiež centralizovanú správu
+používateľskej politiky, používateľských kont a ich oprávnení. S pomocou technológie Active
+Directory je možné overiť totožnosť a oprávnenia používateľa na základe jeho existujúceho
+prihlásenia v systéme Microsoft Windows z externej aplikácie bez nutnosti opätovného
+manuálneho prihlásenia sa používateľa.
+• IAM - ZBGIS
+IAM - ZBGIS realizuje systém riadenia prístupov a spravovanie rolí ZBGIS. IAM zabezpečuje
+jednotnú definíciu používateľov a rolí v celom systéme ZBGIS a takisto synchronizáciu s
+Active Directory.
+APLIKAČNÁ A DÁTOVÁ ARCHITEKTÚRA
+Systém ZBGIS je tvorený webovými aplikáciami:
+Por.
+číslo
+
+Webová aplikácia
+
+1
+
+Mapový klient ZBGIS
+
+2
+
+Transformačná služba
+
+3
+
+Konverzná služba ZBGIS
+
+4
+
+Vyhľadávacia služba
+
+5
+
+Metaúdajový editor
+
+Systém ZBGIS je rozdelený na jednotlivé funkčné komponenty, t.j. subsystémy ZBGIS, ktoré
+zabezpečujú publikovanie a poskytovanie služieb podľa ich typu. Subsystémy sú navzájom
+previazané, pričom vzájomné väzby sú podmienené tokom údajov ako aj zdieľanými funkčnými
+
+komponentmi celého systému (napr. úložisko údajov). Jednotlivé subsystémy sú ďalej rozdelené na
+SW komponenty.
+Systém ZBGIS obsahuje najmä nasledovné subsystémy:
+ subsystém pre zobrazovanie služieb priestorových údajov,
+ subsystém pre publikovanie služieb priestorových údajov,
+ subsystém pre správu údajov (tvorba, aktualizácia, kontrola),
+ subsystém fotogrametrického spracovania údajov,
+ subsystém pre poskytovanie metainformácií,
+ subsystém pre prístup k službám.
+Aplikačná architektúra ZBGIS a jej interakcia s okolím (Internet a integrácia na služby ESKN15
+a Register adries) sú znázornené na nasledujúcom diagrame. V diagrame sú uvedené IP adresy
+platné pre prostredie PROD E.
+
+Aplikačné servery ZBGIS sú rozdelené do subsystémov:
+E_PG
+Subsystém pre geoprocesing
+E_PP
+Subsystém pre publikovanie služieb
+E_PZ
+Subsystém pre zobrazovanie služieb
+I_PG
+Interný subsystém pre geoprocesing
+I_PP
+Interný subsystém pre publikovanie služieb
+I_PZ
+Interný subsystém pre zobrazovanie služieb
+Produkčné prostredie
+
+ZBGIS_PP_E_PG
+
+ZBGIS_PP_E_PP
+
+ZBGIS_PP_E_PZ
+
+ZBGIS_PP_I_PG
+
+ZBGIS_PP_I_PP
+
+ZBGIS_PP_I_PZ
+
+Testovacie prostredie
+Testovacie prostredie je realizované v rovnakej topológii ako produkčné prostredie (subsystémy ETG,
+ETP, ETZ, ITG, ITP, ITZ). V nasledujúcej tabuľke sú uvedené parametre serverov testovacieho
+prostredia:
+
+Určenie
+
+OS
+
+Komponent, apl. SW
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+
+File server
+
+Win 2012R2
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+
+ET
+
+File server
+
+Win 2012R2
+
+ET
+
+Manažment server
+
+Win 2012R2
+
+Prostredie
+
+I_TZ
+
+I_TP
+
+I_TG
+
+IT
+
+E_TZ
+
+E_TP
+
+E_TG
+
+Microsoft .NET Framework 4.5, ArcGIS Desktop
+10.4.1 + DIE, ArcGIS 10.4 for INSPIRE, Oracle 12c
+Client
+
+ARCHITEKTÚRA INTEGRÁCIE RIEŠENIA
+Architektúra riešenia integrácie systému ZBGIS zabezpečuje optimálnu a efektívnu interoperabilitu
+systémov podieľajúcich sa na riešení projektu Elektronizácie služieb katastra nehnuteľnosti.
+Ústredným prvkom integračnej architektúry je integračná vrstva zabezpečujúca prístup k
+poskytovaným elektronickým službám v zmysle servisne orientovanej architektúry. Integračná vrstva
+poskytuje nasledovné funkcionality:
+
+•
+•
+•
+
+Zabezpečenie komunikácie IS prostredníctvom využívania elektronických služieb, doručovania
+správ, mediácia, zabezpečenie služieb
+Riadenie a orchestrácia obchodných procesov
+Monitorovanie prevádzky integračnej platformy
+
+Informačný systém ZBGIS poskytuje e-služby a ich publikovanie a poskytovanie je zabezpečené
+prepojením jednotlivých subsystémov ZBGIS na ostatné systémy e-Governmentu a systémom
+Elektronické služby katastra nehnuteľností (ESKN) aj s využitím prostriedkov integračnej platformy.
+Integračná vrstva v spolupráci s tenkým klientom, Obchodným modulom (OM) a subsystémami ZBGIS
+zastrešuje funkcionalitu subsystému pre prístup k službám ZBGIS.
+INFRAŠTRUKTÚRA
+K dispozícii sú nasledovné prostredia
+ Intranet (skupina prostredí určená pre interných užívateľov verejného obstarávateľa):
+o Produkčné,
+o Testovacie;
+ Internet (skupina prostredí určená pre verejnosť a vybrané spolupracujúce subjekty):
+o Produkčné,
+o Testovacie;
+ Školiace.
+Produkčné prostredie – prostredie, v ktorom sú implementované všetky aplikácie ZBGIS používané
+koncovými užívateľmi.
+Testovacie prostredie – prostredie, v ktorom sú implementované všetky aplikácie ZBGIS používané
+vybranou skupinou používateľov verejného obstarávateľa a používateľmi úspešného uchádzača ako
+poskytovateľa. Slúži na overovanie funkčnosti aplikačných častí riešenia, akceptáciu servisných
+požiadaviek, na simuláciu a riešenie vád. Funkčne ide o čiastočnú kópiu produkčného prostredia.
+Súčasťou riešenia systému ZBGIS je použitie virtualizácie serverov
+
+Všetky servery potrebné pre testovacie a produkčné prostredie ZBGIS sú virtualizované
+a prevádzkované na hardvéry, ktorý je plne v správe ÚGKK SR, resp. GKÚ vrátane licencií. Systém
+ZBGIS aktuálne využíva nasledovné virtuálne servery:
+Testovacie prostredie:
+DNS Name
+
+CPU
+Count
+
+HDD
+
+Memory
+Size
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+80 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+60 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+GKUxxxyyy.skgeodesy.local
+
+2
+2
+
+60 GB
+Disk D: I_T 300GB
+
+4 GB
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+4 GB
+Disk D: E_T 300 GB
+
+4 GB
+4 GB
+
+60 GB + 120 GB
+
+8 GB
+
+Produkčné prostredie:
+DNS Name
+
+vCPU
+
+HDD
+
+Memory Size
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+6
+
+60 GB
+
+12 GB
+
+GKUxxxyyy.skgeodesy.local
+
+6
+
+60 GB
+
+12 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+6
+
+60 GB
+
+12 GB
+
+GKUxxxyyy.skgeodesy.local
+
+6
+
+60 GB
+
+12 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+40 GB
+C: 60 GB + D: 20
+GB
+C: 60 GB + D: 20
+GB
+
+GKUxxxyyy.skgeodesy.local
+
+2
+
+Disk C: 40 GB,
+Disk D: 2000 GB,
+Disk E: 2000 GB
+
+4 GB
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+80 GB
+
+16 GB
+
+GKUxxxyyy.skgeodesy.local
+
+8
+
+40 GB
+
+16 GB
+
+GKUxxxyyy.skgeodesy.local
+
+8
+
+40 GB
+
+16 GB
+
+GKUxxxyyy.skgeodesy.local
+
+16
+
+60 GB
+
+24 GB
+
+GKUxxxyyy.skgeodesy.local
+
+16
+
+60 GB
+
+24 GB
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+40 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+40 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+12
+
+60 GB
+
+16 GB
+
+GKUxxxyyy.skgeodesy.local
+
+12
+
+60 GB
+
+16 GB
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+40 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+10
+
+GKUxxxyyy.skgeodesy.local
+
+10
+
+40 GB
+C: 60 GB + D: 120
+GB
+C: 60 GB + D: 120
+GB
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+Disk C: 40 GB,
+Disk D: 2000 GB,
+Disk E: 2000 GB
+
+8 GB
+
+GKUxxxyyy.skgeodesy.local
+
+4
+
+C: 60 GB + D: 120
+GB
+
+8 GB
+
+4 GB
+4 GB
+
+12 GB
+12 GB
+
+Oracle Licencie
+Existing License
+
+Product Name
+
+Quantity
+
+ORACLE MANAGEMENT PACK PLUS FOR
+SOA
+ORACLE SOA SUITE FOR ORACLE
+MIDDLEWARE
+
+Soa Management Pack Enterprise
+Edition
+
+4
+
+Soa Suite For Oracle Middleware
+
+4
+
+ORACLE WEBLOGIC SUITE
+
+Weblogic Suite
+
+4
+
+ORACLE MANAGEMENT PACK PLUS FOR
+SOA
+ORACLE SOA SUITE FOR ORACLE
+MIDDLEWARE
+ORACLE WEBLOGIC SERVER ENTERPRISE
+EDITION
+
+Soa Management Pack Enterprise
+Edition
+
+4
+
+Soa Suite For Oracle Middleware
+
+4
+
+Weblogic Server Enterprise Edition
+
+20
+
+ORACLE WEBLOGIC SUITE
+
+Weblogic Suite
+
+4
+
+ORACLE LINUX
+
+Linux Os
+
+4
+
+ORACLE VM
+ORACLE WEBLOGIC SERVER ENTERPRISE
+EDITION
+
+Oracle Vm
+
+4
+
+Weblogic Server Enterprise Edition
+
+20
+
+HW ARCHITEKTÚRA
+Hardvérová architektúra je vybudovaná na spoločnej hardvérovej infraštruktúre pre všetky aplikačné
+moduly. Údaje sú konsolidované na jednom spoločnom úložisku, ktoré efektívnym spôsobom spĺňa
+požiadavky na bezpečné uloženie dát.
+Hardvérová architektúra vychádza zo softvérovej architektúry, ktorá definuje štandardnú trojvrstvovú
+architektúru webových aplikácií s použitím databázovej, aplikačnej a prezentačnej vrstvy.
+Architektúra pozostáva z nasledujúcich oblastí:
+
+WAN
+
+LAN
+
+Prevádzkové servery – virtualizované
+
+Prevádzkové servery - nevirtualizované
+
+Obslužné servery
+
+SAN
+
+Storage
+
+Backup
+
+Ostatná pomocná infraštruktúra
+
+Bloková schéma hardvérovej architektúry
+TECHNOLOGICKÉ KOMPONENTY ZBGIS
+Táto kapitola popisuje jednotlivé technologické komponenty ZBGIS – stručný popis komponentu,
+sumarizácia softvérových modulov, z ktorých sa komponent skladá, vrátane verzií a typu licencií. Pre
+každý softvérový modul je vyšpecifikované miesto nasadenia (subsystém, server). Miesto nasadenia
+je špecifikované pre Produkčné prostredie ZBGIS. Pre testovacie prostredie (nie je explicitne
+uvedené) platí, že sú pre nasadenie použité servery ekvivalentného subsystému testovacieho
+prostredia (napr. E_PZ vs E_TZ).
+Rezortná transformačná služba/Konverzná služba
+
+Rezortná transformačná služba slúži na transformáciu bodov, údajov medzi vybranými geodetickými
+referenčnými systémami (GRS) prostredníctvom internetového portálu. Transformačná služba
+umožňuje transformovať rôzne formáty súborov s priestorovými údajmi, ale aj zoznamy bodov vo
+forme textových súborov. Zabezpečená je aj transformácia súradníc bodu jednotlivo.
+Konverzná služba ZBGIS slúži na konverziu údajov priestorových informácií medzi vybranými
+formátmi prostredníctvom internetového portálu. K dispozícii sú možnosti konverzie rôznych formátov
+priestorových údajov z technologických prostredí ArcGIS, MicroStation, AutoCAD, MapInfo, ale aj
+formátu GML, GPX a zoznamy bodov vo forme textových súborov.
+Softvér využitý v Rezortnej transformačnej službe a Konverznej službe je zosumarizovaný
+v nasledujúcej tabuľke:
+SW
+ArcGIS for Server
+
+Verzia
+10.4.1
+
+Webová aplikácia
+
+2.13
+
+ConvertTransformSvc
+
+1.1.2
+
+GDAL/OGR + PROJ
+
+1.9.1 +
+4.8.0
+0.3.0.3
+Python
+skripty
+geoprocesné služby
+
+scripts
+
+Popis
+Využitý
+pre
+publikáciu
+geoprocesných služieb
+Webová
+používateľské
+rozhranie pre ovládanie služby
+koncovým používateľom
+Nevizuálne SOAP rozhranie
+služby
+
+pre
+
+Licencia
+ESRI licenses types
+-
+
+Open source
+style license
+-
+
+MIT/X
+
+Nasadenie SW na HW (PROD):
+SW
+Webová aplikácia
+ConvertTransformSvc
+ArcGIS for Server, REST
+služby
+GDAL/OGR + PROJ
+scripts
+
+Subsystém
+EPG WEB
+EPG WEB
+EPG APP
+EPG APP
+EPG APP
+
+Reporty chýb a upozornení sú ukladané v log súboroch a uložené v adresároch.
+Exportná služba
+Exportná služba slúži pre export údajov ZBGIS pre potreby obchodného moduly a vybavovanie
+objednávok, ktoré sa týkajú údajov ZBGIS. Súčasťou exportnej služby je rozhranie pre vytváranie PDF
+súborov geodetických bodov.
+Softvér využitý v Exportnej službe je zosumarizovaný v nasledujúcej tabuľke:
+SW
+ArcGIS for Server
+
+Verzia
+10.4.1
+
+Webová aplikácia
+exportnej služby
+
+1.4.0.129
+
+Geoprocesná
+exportná služba
+
+1.10.1.1109
+
+Popis
+Využitý
+pre
+publikáciu
+geoprocesných služieb
+Webová aplikácia exportnej
+služby
+s nevizuálnym
+rozhraním
+a s funkcionalitu
+exportu geodetických bodov
+ESRI
+REST geoprocesná
+služba pre export údajov
+vytvorená
+pomocou
+ArcObjects
+
+Nasadenie SW na HW (PROD):
+SW
+Webová aplikácia exportnej
+služby
+
+Subsystém
+EPG WEB
+
+Licencia
+ESRI licenses types
+-
+
+-
+
+Geoprocesná
+služba
+
+exportná
+
+EPG APP
+
+Reporty chýb a upozornení sú ukladané v log súboroch a uložené v adresári.
+Rezortná proxy
+Softvér predstavuje samostatnú webovú aplikáciu, ktorá je umiestnená na webových serveroch (Web
+Adaptor) a z logického pohľadu je umiestnená medzi ArcGIS službami a používateľom služieb. GIS
+proxy riadi a zaznamenáva prístupy používateľov podľa konkrétneho typu služby a podľa
+používateľských práv jednotlivých klientov. Rezortná proxy je napojená na údajový model obchodného
+moduly, z ktorého získava údaje o povoleniach k prístupu jednotlivých používateľov k službám.
+Softvér využitý v rezortnej proxy je zosumarizovaný v nasledujúcej tabuľke:
+SW
+GisProxy
+
+Verzia
+2.2.0.1213
+
+DB
+schéma
+zbgis_sdipro_epa
+
+1.0
+
+Popis
+Aplikácia rezortnej proxy so
+svojimi rozhraniami.
+Databázová
+schéma
+so
+štruktúrou údajov obchodného
+modulu
+pre
+ukladanie
+používateľských práv
+
+Licencia
+-
+
+Nasadenie SW na HW (PROD):
+SW
+GisProxy
+GisProxy
+DB
+zbgis_sdipro_epa
+
+schéma
+
+Subsystém
+EPP WEB
+EPG WEB
+PEXDBPPN
+
+Reporty chýb a upozornení sú ukladané v log súboroch a uložené v lokálnom adresári.
+Mapový klient ZBGIS
+Mapový klient ZBGIS je mapová aplikácia pre zobrazovanie a prácu s vektorovými údajmi v rôznych
+formátoch a mapových služieb WMS a WMTS. Okrem štandardných funkcionalít mapovej aplikácie
+umožňuje identifikáciu, vyhľadávanie, meranie, kreslenie, objednávanie údajov.
+Použitý sw, licencia:
+ ArcGIS Server 10.4.1.
+Použité technológie:
+ Aplikácia ArcGIS API JavaScript for verzia 3.23
+ Aplikácia ArcGIS API JavaScript for verzia 4.6 pre zobrazovanie 3D údajov
+Aplikácia nasadená v PROD prostredí na HW:
+Prostredie Názov
+E_PZ
+
+DNS Name
+
+GKUxxxyyy
+
+GKUxxxyyy.skgeodesy.local
+
+GKUxxxyyy
+
+GKUxxxyyy.skgeodesy.local
+
+Reporty chýb a upozornení sú ukladané v log súboroch a uložené v adresári.
+ZBGIS Kartografické nástroje (Kartotools)
+Aplikácia ZBGIS Kartografické nástroje je rozšírením štandardných funkcionalít ArcMap. Slúži na
+správu a aktualizáciu kartografického vyjadrenia údajov ZBGIS.
+Funkcionality v Kartografických nástrojoch ZBGIS:
+ Manažment kartografických pravidiel,
+ Synchronizácia údajov medzi databázami,
+
+
+
+
+
+
+
+Vytváranie check-out repliky,
+Import check-out repliky,
+Správa check-out repliky,
+Manažment check-out repliky,
+Správa kartografie.
+
+Použitý sw, licencia:
+ ArcMap 10.4.1.
+KartoTools sú nasadené na klientskych PC zodpovedných
+a kartografického ústavu Bratislava v ich vlastnej réžii.
+
+pracovníkov
+
+Geodetického
+
+ZBGIS Nástroje (ZBGIStools)
+Aplikácia ZBGIS Nástroje je rozšírením štandardných funkcionalít ArcMap. Slúži na spracovanie,
+aktualizáciu a kontrolu údajov ZBGIS.
+Funkcionality nástrojov ZBGIS:
+ Preddefinované objekty,
+ Prichytávanie,
+ Presun objektov,
+ Presun atribútov,
+ Zmena atribútov,
+ Porovnanie databáz,
+ Validácia – topologická, atribútová, procedurálna,
+ Kontrola kvality,
+ Zoznam vykonaných operácií,
+ Logovanie operácií,
+ Export údajov
+ Meranie nad DMR,
+ Štatistika databázy.
+Použitý sw, licencia:
+ ArcGIS Catalog 10.4.1., ArcMap 10.4.1.
+ZBGIS Tools sú nasadené na klientskych PC zodpovedných pracovníkov
+a kartografického ústavu Bratislava v ich vlastnej réžii.
+
+Geodetického
+
+Vyhľadávacia služba
+Vyhľadávacia služba je založená na technológii Elasticsearch a jej jednotlivých produktov –
+Elastisearch, Logstash a Kibana, tzv. Elastic Stack. Elastic Stack je open-source technológia, ktorá
+umožňuje zber dát z rôznych dátových zdrojov a formátov, pričom umožňuje ich vyhľadávanie,
+analýzu a vizualizáciu v real-time režime. Bližší popis technológie Elastic Stack je dostupný na
+stránke: https://www.elastic.co/products.
+
+Všetky zdrojové údaje, ktoré vstupujú do vyhľadávania sú uložené v publikačnej databáze ZBGIS
+(PEXDBPPN). Zdrojové údaje sú zároveň využívané aj v mapových službách ZBGIS. Prostredníctvom
+ETL nástrojov (ArcGIS Desktop – Data Interoperability) sú všetky údaje integrované do jednej triedy
+objektov – TK_GEOSEARCH. Dátová štruktúra TK_GEOSEARCH je definovaná pre účely
+indexovania údajov pre mapovú aplikáciu. Údaje z TK_GEOSEARCH sú prostredníctvom Logstash
+
+indexované v ElasticSearch clustri. Proces importu a manažment Elasticsearch indexov sú
+realizované pomocou Powershell skriptov.
+K vyhľadávacej službe Elasticsearch pristupuje Mapový klient ZBGIS, ktorý pomocou dotazov na
+REST API Elasticsearch získava výsledky vo formáte JSON.
+Softvér využitý vo vyhľadávacej službe je zosumarizovaný v nasledujúcej tabuľke:
+SW
+Elasticsearch
+
+Verzia
+6.2.2
+
+Popis
+Vyhľadávací engine
+
+Kibana
+
+6.2.2
+
+Logstash
+
+6.2.2
+
+Vizualizačný nástroj
+a developer konzola
+Migračný nástroj
+
+scripts
+
+1.0
+
+Powershell skripty
+
+Licencia
+Open source
+Apache License 2.0
+Open source
+Apache License 2.0
+Open source
+Apache License 2.0
+-
+
+Nasadenie SW na HW (PROD):
+SW
+Elasticsearch
+Kibana
+Logstash
+scripts
+
+Subsystém
+EPZ WEB
+EPZ WEB1
+MGMT
+MGMT
+
+Spracovanie údajov (ETL)
+Pre potreby publikovania služieb sa údaje Mapového klienta ZBGIS spracovávajú a aktualizujú
+prostredníctvom nástrojov ETL. Zoznam ETL nástrojov je uvedený v nasledujúcej tabuľke:
+ETL nástroj
+ImportDataGeosearchRA2RA_Adresne_body
+
+Spracovávané údaje
+Adresné body
+
+ImportDataGeosearchRA2Geosearch
+
+Adresné body
+
+GN_to_HIST_VARIANT
+
+Geografické
+ZBGIS
+
+ZBGIS_GN_to_Geosearch
+
+Triedy
+objektov
+a
+geografické
+názvy
+ZBGIS
+
+RGB_Gateway_to_PEXDBPPN_SDE_TABLE
+(00)
+
+Referenčné geodetické
+body
+
+RGB_Gateway_to_PEXDBPPN (01)
+
+Referenčné geodetické
+body
+
+RGB_Gateway_to_PEXDBPPN_attachments
+(02)
+
+Referenčné geodetické
+body
+
+RGB_to_Geosearch
+
+Referenčné geodetické
+body
+
+názvy
+
+Účel
+Spracovanie
+adresných
+bodov pre zobrazovanie
+a identifikovanie
+v Mapovom klientovi ZBGIS
+Spracovanie
+adresných
+bodov pre vyhľadávanie
+v Mapovom klientovi ZBGIS
+Spracovanie geografických
+názvov pre podklad pre
+vyhľadávanie
+Spracovanie údajov ZBGIS
+a geografických názvov pre
+vyhľadávanie v Mapovom
+klientovi ZBGIS
+Prenos
+RGB
+z Informačného
+systému
+geodetických základov do
+databázy
+PEXDBPPN_zbgis_epa
+Spracovanie
+RGB
+pre
+zobrazovanie
+a identifikovanie
+v Mapovom klientovi ZBGIS
+Priradenie a uloženie príloh
+RGB pre zobrazovanie vo
+výsledkoch
+identifikácie
+a vyhľadávania
+v
+Mapovom
+klientovi
+ZBGIS
+Spracovanie
+RGB
+pre
+vyhľadávanie v Mapovom
+klientovi ZBGIS
+
+GEONAMES_TO_GEOSEARCH
+
+Geografické
+názvy
+mimo územia SR
+
+SMD_to_GEOSEARCH
+
+Topografické
+mapy,
+Základné mapy SR
+a klady
+mapových
+listov
+
+Spracovanie geografických
+názvov pre vyhľadávanie
+v Mapovom klientovi ZBGIS
+Spracovanie
+údajov
+o štátnych
+mapových
+dielach
+pre
+vyhľadávanie
+Mapovom
+klientovi ZBGIS
+
+Všetky ETL nástroje vyžadujú licenciu ArcGIS Data Interoperability for Desktop a spúšťajú sa na
+Manažment PC.
+Jednotlivé ETL nástroje sú uložené v toolbox-e PEXDBPPN_PROD_TOOLS a RAONLINETOOLS
+RA integrácia
+Integrácia na Register adries (RA) je popísaná v kap. Integrácia na externé systémy.
+Softvér použitý v RA integrácii:
+SW
+Ra.Updater
+
+Verzia
+1.1
+
+Logstash
+
+6.2.2
+
+Popis
+Nástroj na získanie
+a uloženie zmenovej
+dávky RA
+Migračný nástroj
+
+scripts
+
+1.0
+
+Powershell skripty
+
+Licencia
+-
+
+Open source
+Apache License 2.0
+-
+
+Nasadenie SW na HW (PROD):
+SW
+Ra.Updater
+Logstash
+scripts
+
+Subsystém
+EPZ GIS1
+MGMT
+MGMT
+
+Použitý ArcGIS SW
+
+Prostredie
+
+Určenie
+
+OS
+
+Komponent, apl. SW
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+
+I_PZ
+
+I_PP
+
+I_PG
+
+I
+
+File server
+
+Win 2012R2
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/ WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1, Oracle
+12c Client
+
+IIS/WebAdaptor
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+
+IIS/WebAdaptor
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+GIS Server
+
+Win 2012R2
+
+MS IIS, ArcGIS WebAdaptor
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+Microsoft .NET Framework 4.5, AGS 10.4.1 + DIE,
+Oracle 12c Client
+
+E
+
+File server
+
+Win 2012R2
+
+E
+
+Manažment server
+
+Win 2012R2
+
+E_PZ
+
+E_PP
+
+E_PG
+
+Microsoft .NET Framework 4.5, ArcGIS Desktop
+10.4.1 + DIE, ArcGIS 10.4 for INSPIRE, Oracle 12c
+Client
+
+Zoznam licencií ESRI produktov:
+Enterprise License Software - Unlimited Quantities
+Product Name
+
+Included
+
+Total
+Qty./Seats
+to Be Deployed
+
+ArcGIS for Desktop Software (Single & Concurrent Use)
+Advanced (Arc Info)
+Standard (Arc Editor)
+
+
+
+
+ArcGIS for Desktop Extensions (Single & Concurrent Use)
+ArcGIS 3D Analyst
+
+ArcGIS Spatial Analyst
+
+
+unlimited
+unlimited
+
+
+
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+
+
+unlimited
+
+
+
+
+
+
+
+unlimited
+unlimited
+unlimited
+unlimited
+unlimited
+
+ArcGIS Engine Extensions (Single & Concurrent Use)
+ArcGIS 3D Analyst
+
+ArcGIS Spatial Analyst
+
+
+unlimited
+unlimited
+
+
+
+
+unlimited
+unlimited
+
+ArcGIS Publisher
+ArcGIS Network Analyst
+ArcGIS for Server
+Enterprise - Advanced
+ArcGIS for Server Extensions
+ArcGIS 3D Analyst
+ArcGIS Network Analyst
+ArcGIS Spatial Analyst
+ArcGIS Image
+ArcGIS Engine (Single & Concurrent Use)
+
+ArcGIS Geodatabase Update
+ArcGIS Network Analyst
+
+Enterprise License Software—Limited Quantities
+Concurrent or
+Item
+Single Use
+(if applicable)
+ArcGIS Tracking Analyst for Desktop
+CU
+ArcGIS DataInteroperability Extension CU
+for Desktop
+ArcGIS Tracking Analyst for Engine
+CU
+ArcGIS DataInteroperability for Engine
+CU
+ArcGIS DataInteroperability Extension n/a
+for Server
+Esri City Engine Advanced
+CU
+Product
+Portal for ArcGIS
+ArcGIS Online
+
+Level
+n/a
+4
+
+Qty./Seats
+to Be Deployed
+
+Total
+
+2
+2
+
+2
+2
+
+25
+25
+20
+
+25
+25
+20
+
+3
+
+3
+
+Named Users
+250
+250
+
+Databázový server
+ZBGIS využíva inštancie SDE databáz.
+Produkčné prostredie:
+- PINDBPPN_zbgis_ipa – produkčná databáza, slúži na aktualizáciu referenčných údajov ZBGIS.
+- QINDBPPN_zbgis_karto_qpa – kartografická databáza, slúži na aktualizáciu reprezentácií a
+anotácií, tvorbu generovaných máp vo forme tzv. mapovej cache.
+- PEXDBPPN – publikačná databáza, slúži na publikovanie služieb priestorových údajov v prostredí
+internetu. V databáze sa nachádzajú nasledovné schémy:
+o zbgis_epa – slúži na publikovanie OGC služieb typu WMS, WFS a WCS a služieb pre
+mapového klienta;
+o zbgis_inspire_epa – slúži na publikovanie údajov INSPIRE služieb;
+o zbgis_wfst_epa – slúži na publikovanie údajov prostredníctvom služby typu WFS-T;
+o zbgis_sdipro_epa – schéma slúžiaca na uchovávanie prístupových práv pre služby
+publikované prostredníctvom GisProxy. Obsah schém je vytváraný automaticky
+prostredníctvom GisProxy.
+Testovacie prostredie:
+- PINDBTPN_zbgis_ipa – testovacia databáza, slúži na aktualizáciu referenčných údajov ZBGIS.
+- QINDBTPN_zbgis_karto_qpa – kartografická databáza testovacia, slúži na aktualizáciu
+reprezentácií a anotácií, tvorbu generovaných máp vo forme tzv. mapovej cache.
+- PEXDBTPN – publikačná databáza testovacia, slúži na publikovanie služieb priestorových údajov.
+ZOZNAM POSKYTOVANÝCH SLUŽIEB:
+Zoznam ArcGIS služieb systému ZBGIS:
+Názov služby
+
+Prostredie
+
+Popis
+
+ZBGIS
+
+E_PZ
+
+Podkladová mapa
+
+ZBGIS_gray
+
+E_PZ
+
+Podkladová mapa
+
+DMR
+
+E_PZ
+
+Podkladová mapa
+
+Ortofoto
+
+E_PZ
+
+DMR_hres
+
+E_PZ
+
+Ortofoto_hres
+
+E_PZ
+
+ZBGIS_hres
+
+E_PZ
+
+ZBGIS_gray_hres
+
+E_PZ
+
+Podkladová mapa
+Podkladová mapa
+vyššom rozlíšení
+Podkladová mapa
+vyššom rozlíšení
+Podkladová mapa
+vyššom rozlíšení
+Podkladová mapa
+vyššom rozlíšení
+
+RA_Adresne_body
+
+E_PZ
+
+Tematická mapa/vrstva
+
+vo
+vo
+vo
+vo
+
+(overlay)
+RGB
+
+E_PZ
+
+RGB_OM
+
+E_PZ
+
+DMR_vysky
+
+E_PZ
+
+DMR_sklony
+
+E_PZ
+
+DMR_orientacie
+
+E_PZ
+
+AMSR
+
+E_PZ
+
+ZMSR_10
+
+E_PZ
+
+ZMSR_50
+
+E_PZ
+
+ZMSR_100
+
+E_PZ
+
+ZMSR_200
+
+E_PZ
+
+ZMSR_500
+
+E_PZ
+
+ZMSR_1mil
+
+E_PZ
+
+RETM25
+
+E_PZ
+
+RETM50
+
+E_PZ
+
+Klady
+
+E_PZ
+
+Uzemnospravne_clenenie
+
+E_PZ
+
+GEONAMES
+
+E_PZ
+
+HM_III_VM
+
+E_PZ
+
+Konverzia
+
+E_PG
+
+Profile
+
+E_PG
+
+ExportWebMap
+
+E_PG
+
+zbgis_rts_wps
+
+E_PG
+
+ZBGIS_tks
+
+E_PG
+
+zbgisdata
+
+E_PG
+
+zbgis_administrativne_hranice_wms_featureinfo
+
+E_PP
+
+zbgis_administrativne_hranice_wms
+
+E_PP
+
+zbgis_antropogenne_prvky_wms_featureinfo
+
+E_PP
+
+Tematická mapa/vrstva
+(overlay)
+Mapová
+služba
+objednávania RGB pre
+OM
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay), breadcrumbs
+Tematická mapa/vrstva
+(overlay)
+Tematická mapa/vrstva
+(overlay)
+Služba pre pridávanie
+súborov
+z lokálneho
+PC
+Služba pre vytváranie
+výškového profilu
+Tlačová služba
+WPS
+služba
+pre
+transformáciu
+a konverziu údajov
+Služba
+pre
+transformáciu
+a konverziu údajov
+Služba
+pre
+export
+údajov pre Obchodný
+modul
+WMS
+služba
+administratívne hranice
+s atribútmi
+WMS
+služba
+administratívne hranice
+WMS
+služba
+antropogénne prvky s
+atribútmi
+
+zbgis_antropogenne_prvky_wms
+
+E_PP
+
+zbgis_dmr3_wms
+
+E_PP
+
+zbgis_geograficke_nazvoslovie_wms
+
+E_PP
+
+zbgis_letecko_navigacne_informacie_wms_featureinfo
+
+E_PP
+
+zbgis_letecko_navigacne_informacie_wms
+
+E_PP
+
+zbgis_ortofoto_wms
+
+E_PP
+
+zbgis_povrch_wms_featureinfo
+
+E_PP
+
+zbgis_povrch_wms
+
+E_PP
+E_PP
+
+zbgis_referencny_geodeticky_bod_wms_featureinfo
+E_PP
+zbgis_vegetacia_wms_featureinfo
+zbgis_vegetacia_wms
+
+E_PP
+E_PP
+
+zbgis_vodstvo_wms_featureinfo
+zbgis_vodstvo_wms
+
+E_PP
+E_PP
+
+zbgis_vyskopis_wms_featureinfo
+zbgis_vyskopis_wms
+
+E_PP
+
+WMS
+služba
+antropogénne prvky
+WMS služba DMR
+WMS
+služba
+geografické
+názvoslovie
+WMS služba leteckonavigačné informácie s
+atribútmi
+WMS služba leteckonavigačné informácie
+WMS služba Ortofoto
+WMS služba povrch s
+atribútmi
+WMS služba povrch
+WMS
+služba
+geodetický
+bod
+s atribútmi
+WMS služba vegetácia
+s atribútmi
+WMS služba vegetácia
+WMS služba vodstvo s
+atribútmi
+WMS služba vodstvo
+WMS služba výškopis
+s atribútmi
+WMS služba výškopis
+
+zbgis_wms
+
+E_PP
+
+WMS služba ZBGIS s
+atribútmi
+WMS služba ZBGIS
+
+zbgis_wmts_new
+
+E_PP
+
+WMTS služba ZBGIS
+
+E_PP
+
+WFS
+služba
+administratívne hranice
+WFS
+služba
+antropogénne prvky
+WCS služba DMR
+
+E_PP
+zbgis_wms_featureinfo
+
+zbgis_administrativne_hranice_wfs
+E_PP
+zbgis_antropogenne_prvky_wfs
+zbgis_dmr3_wcs
+
+E_PP
+
+zbgis_povrch_wfs
+
+E_PP
+
+WFS
+služba
+geografické
+názvoslovie
+WFS služba leteckonavigačné informácie
+WFS služba povrch
+
+zbgis_vegetacia_wfs
+
+E_PP
+
+WFS služba vegetácia
+
+zbgis_vodstvo_wfs
+
+E_PP
+
+WFS služba vodstvo
+
+zbgis_vyskopis_wfs
+
+E_PP
+
+WFS služba výškopis
+
+zbgis_wfs
+
+E_PP
+
+WFS služba ZBGIS
+
+zbgis_wfst
+
+E_PP
+
+WFST služba ZBGIS
+
+E_PP
+
+INSPIRE WFS služba
+administratívne hranice
+INSPIRE WMS služba
+administratívne hranice
+INSPIRE
+WFS
+geografické
+systémy
+sietí
+INSPIRE
+WMS
+geografické
+systémy
+sietí
+
+E_PP
+zbgis_geograficke_nazvoslovie_wfs
+E_PP
+zbgis_letecko_navigacne_informacie_wfs
+
+in_administrative_units_wfs
+E_PP
+in_administrative_units_wms
+E_PP
+in_geographical_grid_systems_wfs
+E_PP
+in_geographical_grid_systems_wms
+
+E_PP
+in_geographical_names_wfs
+E_PP
+in_geographical_names_wms
+E_PP
+
+in_hydrography_wfs
+
+E_PP
+in_hydrography_wms
+E_PP
+in_transport_networks_wfs
+E_PP
+in_transport_networks_wms
+
+INSPIRE
+WFS
+geografické
+názvoslovie
+INSPIRE
+WMS
+geografické
+názvoslovie
+INSPIRE WFS vodstvo
+INSPIRE
+vodstvo
+INSPIRE
+dopravné siete
+INSPIRE
+dopravné siete
+
+WMS
+WFS
+WMS
+
+ZOZNAM SLUŽIEB IS
+
+V zozname sú uvedené kódy a názvy IS služieb s technickým názvom ArcGIS služby, ktorá
+realizuje danú IS službu.
+Všetky IS služby sú publikované prostredníctvom rezortnej proxy, pomocou ktorej je možné
+nastaviť autentizáciu a autorizáciu a zbierať logy o prístupoch k IS službám (viď popis
+technologického komponentu Rezortná proxy).
+kód
+
+Názov
+
+sluzba_is_1511
+
+Zobrazenie digitálneho modelu
+terénu územia Slovenskej republiky
+Zobrazenie ortofotosnímok územia
+Slovenskej republiky
+Podanie žiadosti na prístup k
+službám ZBGIS
+Zápis údajov o objektoch ZBGIS a
+ich vlastnostiach
+Poskytnutie metaúdajov o súbore
+objektov
+ZBGIS
+podľa
+vyhľadávacích kritérií
+Poskytnutie
+priestorových
+a
+atribútových informácií zo súboru
+objektov ZBGIS
+Poskytnutie
+priestorovej
+a
+atribútovej informácie kategórie
+antropogénne prvky zo súboru
+objektov
+ZBGIS
+na
+základe
+výberových kritérií
+Poskytnutie
+priestorovej
+a
+atribútovej informácie kategórie
+vodstvo zo súboru objektov ZBGIS
+na základe výberových kritérií
+Poskytnutie
+priestorovej
+a
+atribútovej informácie kategórie
+výškopis zo súboru objektov ZBGIS
+na základe výberových kritérií
+Poskytnutie
+priestorovej
+a
+atribútovej informácie kategórie
+povrch zo súboru objektov ZBGIS
+na základe výberových kritérií
+Poskytnutie
+priestorovej
+a
+atribútovej informácie kategórie
+vegetácia zo súboru objektov
+ZBGIS na základe výberových
+kritérií
+Poskytnutie
+priestorovej
+a
+atribútovej informácie kategórie
+
+sluzba_is_1512
+sluzba_is_1513
+sluzba_is_1514
+sluzba_is_1515
+
+sluzba_is_1516
+
+sluzba_is_1517
+
+sluzba_is_1518
+
+sluzba_is_1519
+
+sluzba_is_1520
+
+sluzba_is_1521
+
+sluzba_is_1522
+
+Služba ArcGIS
+zbgis_dmr3_wms
+zbgis_ortofoto_wms
+zbgis_wfst
+zbgiscsw
+ZBGIS)
+
+(staré
+
+prostredie
+
+zbgis_wfs
+
+zbgis_antropogenne_prvky_wfs
+
+zbgis_vodstvo_wfs
+
+zbgis_vyskopis_wfs
+
+zbgis_povrch_wfs
+
+zbgis_vegetacia_wfs
+zbgis_letecko_navigacne_inform
+acie_wfs
+
+sluzba_is_1523
+
+sluzba_is_1524
+
+sluzba_is_1525
+sluzba_is_1526
+
+sluzba_is_1527
+sluzba_is_1528
+sluzba_is_1529
+
+sluzba_is_1530
+
+sluzba_is_1531
+
+sluzba_is_1532
+
+sluzba_is_1533
+
+sluzba_is_1534
+
+sluzba_is_1535
+
+sluzba_is_1536
+
+sluzba_is_1537
+
+sluzba_is_1538
+
+sluzba_is_1539
+
+sluzba_is_1540
+
+sluzba_is_1541
+
+letecko-navigačné informácie zo
+súboru objektov ZBGIS na základe
+výberových kritérií
+Poskytnutie
+priestorovej
+a
+atribútovej informácie kategórie
+hranica zo súboru objektov ZBGIS
+na základe výberových kritérií
+Poskytnutie
+priestorovej
+a
+atribútovej informácie geografického
+názvoslovia zo súboru objektov
+ZBGIS na základe vyhľadávacích
+kritérií
+Poskytnutie sledovania zmien o
+sprístupnení služieb ZBGIS
+Transformácia
+súradnicového
+systému a projekcie priestorových
+údajov ZBGIS
+Transformácia údajového modelu
+priestorových údajov ZBGIS
+Konverzia
+formátov
+súborov
+priestorových údajov ZBGIS
+Zobrazenie priestorových údajov
+kategórie antropogénne prvky zo
+súboru objektov ZBGIS
+Zobrazenie atribútových údajov
+kategórie antropogénne prvky zo
+súboru objektov ZBGIS
+Zobrazenie priestorových údajov
+kategórie vodstvo zo súboru
+objektov ZBGIS
+Zobrazenie atribútových údajov
+kategórie vodstvo zo súboru
+objektov ZBGIS
+Zobrazenie priestorových údajov
+kategórie výškopis zo súboru
+objektov ZBGIS
+Zobrazenie atribútových údajov
+kategórie výškopis zo súboru
+objektov ZBGIS
+Zobrazenie priestorových údajov
+kategórie povrch zo súboru objektov
+ZBGIS
+Zobrazenie atribútových údajov
+kategórie povrch zo súboru objektov
+ZBGIS
+Zobrazenie priestorových údajov
+kategórie vegetácia zo súboru
+objektov ZBGIS
+Zobrazenie atribútových údajov
+kategórie vegetácia zo súboru
+objektov ZBGIS
+Zobrazenie priestorových údajov
+kategórie
+letecko-navigačné
+informácie zo súboru objektov
+ZBGIS
+Zobrazenie atribútových údajov
+kategórie
+letecko-navigačné
+informácie zo súboru objektov
+ZBGIS
+Zobrazenie priestorových údajov
+kategórie
+hranica
+zo súboru
+objektov na základe vybraných
+
+zbgis_administrativne_hranice_
+wfs
+
+zbgis_geograficke_nazvoslovie_
+wfs
+transform.svc
+(ConvertTransformSvc)
+convert.svc
+(ConvertTransformSvc)
+zbgis_antropogenne_prvky_wm
+s
+zbgis_antropogenne_prvky_wm
+s_featureinfo
+
+zbgis_vodstvo_wms
+
+zbgis_vodstvo_wms_featureinfo
+
+zbgis_vyskopis_wms
+zbgis_vyskopis_wms_featureinf
+o
+
+zbgis_povrch_wms
+
+zbgis_povrch_wms_featureinfo
+
+zbgis_vegetacia_wms
+zbgis_vegetacia_wms_featureinf
+o
+
+zbgis_letecko_navigacne_inform
+acie_wms
+
+zbgis_letecko_navigacne_inform
+acie_wms_featureinfo
+zbgis_administrativne_hranice_
+wms
+
+kritérií
+sluzba_is_1542
+
+sluzba_is_1543
+
+sluzba_is_48648
+
+sluzba_is_48649
+
+sluzba_is_48650
+
+sluzba_is_48651
+sluzba_is_48652
+
+sluzba_is_48653
+
+sluzba_is_48654
+
+sluzba_is_48656
+
+sluzba_is_48657
+
+sluzba_is_49266
+
+sluzba_is_49267
+
+sluzba_is_49268
+
+sluzba_is_49269
+
+sluzba_is_49270
+
+Zobrazenie atribútových údajov
+kategórie
+hranica
+zo súboru
+objektov ZBGIS
+Zobrazenie údajov geografického
+názvoslovia zo súboru objektov
+ZBGIS
+Zobrazenie priestorových údajov zo
+súboru objektov
+ZBGIS (všetky
+kategórie) využitím dlaždíc (Tiles)
+Zobrazenie priestorových údajov zo
+súboru objektov
+ZBGIS (všetky
+kategórie)
+Zobrazenie atribútových údajov zo
+súboru objektov
+ZBGIS (všetky
+kategórie)
+Zobrazenie atribútových údajov pre
+referenčné geodetické body
+Zobrazenie priestorových údajov z
+INSPIRE témy Správne jednotky
+(Administrative units)
+Zobrazenie priestorových údajov z
+INSPIRE témy Geografické systémy
+sietí (Geographical grid systems)
+Zobrazenie priestorových údajov z
+INSPIRE
+témy
+Geografické
+názvoslovie (Geographical names)
+Zobrazenie priestorových údajov z
+INSPIRE
+témy
+Hydrografia
+(Hydrography)
+Zobrazenie priestorových údajov z
+INSPIRE témy Dopravné siete
+(Transport networks)
+Poskytnutie
+priestorovej
+a
+atribútovej informácie z INSPIRE
+témy
+Správne
+jednotky
+(Administrative units)
+Poskytnutie
+priestorovej
+a
+atribútovej informácie z INSPIRE
+témy Geografické systémy sietí
+(Geographical grid systems)
+Poskytnutie
+priestorovej
+a
+atribútovej informácie z INSPIRE
+témy
+Geografické
+názvoslovie
+(Geographical names)
+Poskytnutie
+priestorovej
+a
+atribútovej informácie z INSPIRE
+témy Hydrografia (Hydrography)
+Poskytnutie
+priestorovej
+a
+atribútovej informácie z INSPIRE
+témy Dopravné siete (Transport
+networks)
+
+zbgis_administrativne_hranice_
+wms_featureinfo
+zbgis_geograficke_nazvoslovie_
+wms
+
+zbgis_wmts_new
+
+zbgis_wms
+
+zbgis_wms_featureinfo
+zbgis_referencny_geodeticky_b
+od_wms_featureinfo
+inspire_administrative_units_wm
+s
+inspire_geographical_grid_syste
+ms_wms
+inspire_geographical_names_w
+ms
+
+inspire_hydrography_wms
+inspire_transport_networks_wm
+s
+
+inspire_administrative_units_wfs
+
+inspire_geographical_grid_syste
+ms_wfs
+
+inspire_geographical_names_wf
+s
+
+inspire_hydrography_wfs
+
+inspire_transport_networks_wfs
+
+V súčasnosti sú formou webových služieb sprístupnené údaje a služby ZB GIS definované katalógom
+tried objektov ZBGIS (KTO ZBGIS). Rozsah údajov o objektoch spravovaných v rámci ZBGIS určuje
+KTO ZB GIS. Vizualizácia údajov ZBGIS je prostredníctvom mapových kompozícii dostupná vo
+webovej aplikácii Mapový klient ZBGIS.
+Pre zobrazovanie a prácu s údajmi ZBGIS bola vyvinutá aplikácia Mapový klient ZBGIS. Aplikácia
+umožňuje pracovať aj s externými údajmi vo forme služieb WMS, WMTS a vektorovými údajmi vo
+viacerých formátoch. Aplikácia okrem bežných funkcionalít mapovej aplikácie umožňuje identifikáciu,
+
+rozšírené vyhľadávanie, meranie, tlač, ale aj funkcie objednávania údajov, služieb a geodetických
+údajov priamo z aplikácie.
+Ďalšie informácie sú uvedené v používateľskom manuáli voľne dostupného v prostrední internetu na
+stránke https://zbgis.skgeodesy.sk/mkzbgis/Help/sk/#Uvod.
+
+INTEGRÁCIA NA EXTERNÉ SYSTÉMY
+1. Kataster nehnuteľností
+Integrácia na kataster nehnuteľností je realizovaná online konzumáciou služieb ESKN15 bez
+ukladania údajov na strane ZBGIS. Konzumované sú vizuálne rozhrania ESKN15, a to mapové
+služby, geoprocesné služby a OData služby.
+Za účelom bezproblémového fungovania integrácie je potrebné monitorovať dostupnosť endpointov
+ESKN15:
+- z klientskeho webového prehliadača z aplikácie Mapový klient ZBGIS (internet): prístup na
+https://kataster.skgeodesy.sk,.
+- zo serverov ZBGIS: prístup k internému endpointu ESKN15.
+2. Register adries
+Integrácia na Register adries je realizovaná pravidelným sťahovaním zmenových dávok z Registra
+adries (RA) do lokálnej databázy ZBGIS (PEXDBPPN). Webové služby Registra adries sú pre potreby
+ZBGIS sprístupnené na integračnej platforme.
+Na aplikačnom serveri je nainštalovaný program RA.Updater.exe (C:\Program Files\RA), ktorý sa v
+pravidelných intervaloch (o 2:30 ráno) spúšťa prostredníctvom Windows TaskScheduler-a, dopytuje
+sa na servis registra adries “RA_changes” (cez integračnú platformu) a zapisuje zmeny do databázy
+PEXDBPPN_zbgis_epa (tabuľky s prefixom RA_*). Po zápise zmien do tabuliek RA_* sa spúšťajú dva
+ETL nástroje, ktoré zapisujú zmenené údaje do triedy objektov RA_Adresne_body
+a TK_GEOSEARCH. Údaje z triedy RA_Adresne_body slúžia na zobrazovanie adresných bodov
+v Mapovom klientovi (dynamická mapová služba RA_Adresne_body), kým údaje z TK_GEOSEARCH
+sa využívajú na indexovanie v ElasticSearch a vyhľadávanie.
+Automatická aktualizácia údajov z registra adries, popísaná v predchádzajúcej kapitole, sa vykonáva
+automaticky v nočných hodinách, s dennou periodicitou. V produkčnom prostredí sú využité servery
+E_PZ GIS a Manažment PC.
+Prvá fáza bežiaca vyžaduje konektivitu na webové služby Registra Adries. Druhá fáza vyžaduje
+licenciu DIE pre spustenie ETL. Obe fázy sú spúšťané nezávisle, pričom načasovanie je zvolené tak,
+aby bola pri spustení fázy 2 dostatočná časová rezerva na dokončenie fázy 1.
+Pre korektné fungovanie zapracovania zmenových dávok RA do ZBGIS je potrebné monitorovať
+dostupnosť endpointu webovej služby RA na internej integračnej platforme. Po automatickom
+zapracovaní zmenovej dávky je potrebné skontrolovať korektnosť výsledku v log súboroch.
+
+Príloha č. 2 – Ponuka Poskytovateľa predložená v zadávaní zákazky, ktorej výsledkom bolo
+uzavretie tejto Zmluvy
+Ponuka poskytovateľa je tvorená nasledovnými dokumentmi:
+- Návrh plnenia - čestné vyhlásenie a
+- Čestné vyhlásenie – monitorovacie centrum.
+
+Príloha č. 3 – Cenník
+P.č.
+
+1.
+
+Názov
+Služby podpory a prevádzky
+ZBGIS
+(HELP001, SLA001, SLA002,
+SLA003, SLA004, OLA001,
+OLA002, OLA003 a OLA004)
+CENA CELKOM
+
+M.j.
+
+Počet
+m. j.
+
+kalendárny
+mesiac
+
+48
+
+Cena celkom
+v EUR bez
+DPH
+
+DPH v
+EUR
+
+Cena celkom
+v EUR s DPH
+
+3.700.000,00
+
+740.000,00
+
+4.440.000,00
+
+3.700.000,00
+
+740.000,00
+
+4.440.000,00
+
+Kalendár fakturácie za Služby podpory a prevádzky ZBGIS:
+za Služby podpory a prevádzky poskytované v období od 01.01. kalendárneho roka do 31.03.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH,
+b. za Služby podpory a prevádzky poskytované v období od 01.04. kalendárneho roka do 30.06.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH,
+c. za Služby podpory a prevádzky poskytované v období od 01.07. kalendárneho roka do 30.09.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH,
+d. za Služby podpory a prevádzky poskytované v období od 01.10. kalendárneho roka do 31.12.
+kalendárneho roka vo výške 231.250,00 EUR bez DPH.
+najneskôr do 5 pracovných dní od ukončenia príslušného obdobia poskytovania služieb podpory
+a prevádzky v súlade s ustanoveniami článku IX Zmluvy.
+a.
+
+Pri realizácii plnenia za neúplné zúčtovacie obdobie (kvartál) bude poskytovateľ fakturovať alikvotnú
+časť cenu za Služby podpory a prevádzky.
+
+Poskytovanie servisných služieb podpory a prevádzky
+Základnej bázy údajov pre geografický informačný systém (ZB GI5)
+SEVITECH
+
+Návrh plnenia - čestné vyhlásenie
+Podpísaní
+Ing. Jaroslav Murár, narodený 03.05.1949, bytom Červená 8, 010 03 Žilina a
+Jaroslav Gajdoš, narodený 11.11.1971, bytom Rovinka 163, 900 41 Rovinka
+ako osoby oprávnené konať v mene uchádzača
+SEVITECH a.s., Mlynské nivy 71, 821 05 Bratislava, IČO: 31 605 052
+/ďalej len uchádzač/
+
+čestne vyhlasujeme,
+
+že uchádzač akceptuje a dodrží požiadavky na predmet zákazky stanovených verejným
+obstarávateľom v časti B.1 súťažných podkladov.
+
+V Bratislave dňa 03.09.2018
+
+Ing. Jarqslav Murár
+
+Jaroslav Gajdoš
+
+predseda predstavenstva
+
+člen predstavenstva
+
+Poskytovanie servisných služieb podpory a prevádzky
+Základnej bázy údajov pre geografický informačný systém (ZB GIS)
+SEVITECH
+
+Čestné vyhlásenie - monitorovacie
+centrum
+Podpísaní
+Ing. Jaroslav Murár, narodený 03.05.1949, bytom Červená 8, 010 03 Žilina a
+Jaroslav Gajdoš, narodený 11.11.1971, bytom Rovinka 163, 900 41 Rovinka
+ako osoby oprávnené konať v mene uchádzača:
+SEVITECH a.s., Mlynské nivy 71, 821 05 Bratislava, IČO: 31 605 052
+/ďalej len uchádzač/
+
+čestne vyhlasujeme v mene uchádzača,
+
+že disponujeme strojovým, prevádzkovým a technickým vybavením, ktoré umožňuje realizáciu
+predmetu tejto zákazky.
+Zároveň vyhlasujeme, že máme zriadený servisný portál https://sd.sevitech.sk za účelom realizácie
+predmetu zákazky - poskytovanie služby hotline, služieb softvérovej podpory, resp. za účelom
+nahlasovania, evidencie a riešenie chýb a požiadaviek verejného obstarávateľa.
+
+V Bratislave dňa 03.09.2018
+
+Tng. Jaroslav Murár
+edseda predstavenstva
+
+Jaroslav Gajdoš
+člen predstavenstva
+
+

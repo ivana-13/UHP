@@ -1,0 +1,263 @@
+Kúpna zmluva
+uzavretá podľa § 409 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov, ako
+aj podľa zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov (ďalej len „zmluva“)
+Číslo zmluvy kupujúceho: 27/NLC/2019-VO
+I.
+Zmluvné strany
+Kupujúci:
+Názov:
+Sídlo:
+Zastúpený:
+Osoba zodpovedná
+za plnenie predmetu zmluvy:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+IBAN:
+(ďalej len „kupujúci“)
+Predávajúci:
+Názov:
+Sídlo:
+Zápis:
+Zastúpený:
+Bankové spojenie:
+IBAN:
+IČO:
+DIČ:
+IČ DPH:
+e-mail:
+(ďalej len „predávajúci“)
+
+Národné lesnícke centrum
+T. G. Masaryka 22, 960 92 Zvolen
+Bc. Ing. Ľuboš Halvoň, PhD., generálny riaditeľ
+Radoslav Suchár
+42001315
+2022091027
+SK2022091027
+Štátna pokladnica
+SK20 8180 0000 0070 0024 1498
+
+EMM, spol. s r. o.
+Sekurisova 16, 841 02 Bratislava
+OR OS Bratislava I, oddiel: Sro, vložka číslo: 686/B
+Ing. Jozef Chebeň, konateľ
+Slovenská sporiteľňa, a.s.
+SK05 0900 0000 0006 3490 2743
+17316260
+2020316529
+SK2020316529
+emm@emm.sk
+
+Kupujúci a predávajúci sa ďalej spoločne označujú aj ako „zmluvné strany“.
+II.
+Preambula
+1. Zmluvné strany uzatvárajú túto zmluvu na základe víťaznej ponuky predávajúceho v rámci postupu
+verejného obstarávateľa (v zmluve uvedeného ako kupujúci) v zmysle § 117 zákona č. 343/2015 Z. z.
+o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+III.
+Predmet zmluvy
+1. Na základe tejto zmluvy sa predávajúci zaväzuje dodať kupujúcemu dva kusy serverov vo vysokej
+dostupnosti, pričom požiadavky kupujúceho na server sú nasledovné:
+CPU: 2-soketový server triedy x86 osadený procesorom disponujúcim desiatimi procesorovými
+jadrami na ploche jedného čipu
+minimálny akceptovateľný výkon plne osadeného servera je 880 bodov pre server obsadený dvoma
+procesormi podľa benchmarku SPECint_rate_base2006
+pamäť: min. 64 GB RAM vytvorených z rovnako veľkých modulov, rýchlosť modulu min. zhodná
+s rýchlosťou prístupu procesora na pamäť. Pamäťový subsystém založený na registered DDR4,
+minimálny počet pamäťových slotov v serveri 4, z toho voľných pre ďalšie rozširovanie min. 20
+slotov
+pevné disky: prevedenie „HotSwap“, s možnosťou osadiť min. 8 interných 2,5" HDD
+interný SD modul: možnosť osadiť interný redundantný SD modul s dvomi 64 GB SD kartami,
+využiteľný na bootovanie OS
+
+diskový radič: HW radič s podporou RAID 0, 1, 5 a 10 s 8GB Cache pamäte
+interné disky: 3x 120GB SSD SATA Hot Plus read-intensive
+optická mechanika: možnosť osadiť internú DVD-RW mechaniku
+sieťový adaptér: 2x 10Gb/s base-T Ethernet porty, 2x1Gb/s Base-T Ethernet porty nezaberajúcej
+PCIe slot
+napájacie zdroje: redundantné napájacie zdroje, prevedenie „HotSwap“ s min. výkonom 750W
+ventilátory: min 8x redundantné ventilátory v prevedení "HotSwap" s vektorovým chladením
+s možnosťou nastavenia minimálneho prúdenia vzduchu až po úroveň jednotlivých PCIe slotov v
+merateľných jednotkách (napr. Linear Feet per Minute) s podporou aj pre produkty tretích strán
+PCI rozširujúce sloty: min 8x PCIe + 1x dedikovaný PCIe slot pre RAID radič
+FC HBA adaptér: 2x 16Gb FC port
+porty: až 7x USB z toho - 2x USB 2.0, 2x USB 3.0 umiestnené vzadu, 1x interný USB 3.0 s
+možnosťou rozšírenia o 1x interný USB 3.0 s možnosťou ich povolenia alebo zakázania
+prostredníctvom interného managementu bez potreby reštartu servera
+management a vzdialená správa: servisný procesor alebo karta pre systémový manažment
+poskytujúca podporu vzdialeného manažmentu servera nezávislá od operačného systému servera,
+možnosť pripojenia vzdialených médií - CD-ROM, DVD-ROM, možnosť štartu, reštartu a shutdown
+servera cez sieť LAN, nezávisle od OS, resp. softvér potrebný na prevádzku, konfiguráciu a správu
+servera. Komunikácia medzi vzdialeným počítačom a serverom musí byť zabezpečená
+dvojfaktorovou autentifikáciou a šifrovaná na úrovni aspoň 128 bit SSL. požaduje sa podpora
+digitálneho podpisovania firmwaru servera SHA2 a bezpečného vymazania-odstránenia interných
+storage zariadení (vrátane HDD, SSD a NVMe). Samostatne vymeniteľné médium na ukladanie
+konfigurácií s veľkosťou min. 8GB.separátnej pamäťovej oblasti a možnosť využiť ju na driver
+management (zálohovanie a inštalácia ovládačov), sledovanie hardwarových senzorov (teplota,
+napätie, stav, chybové senzory), IPMI funkcionalita, prístup na obraz vzdialenej plochy servera aj
+bez spusteného OS, s podporou možnosti zobrazenia konfigurácie servera a zmeny nastavení
+pomocou NFC protokolu na mobilnom zariadení. V prípade potreby zakúpenia licencií sa vyžadujú
+doživotné licencie bez potreby ich dodatočného predlžovania.
+prevedenie: Tower, možnosť aj rackového prevedenia
+príslušenstvo: napájacie káble, káblový manažmentu, možnosť osadenia do stojana
+operačný systém a virtualizácia OS kompatibilný s operačným systémom MS Windows 2016
+DataCenter, virtualizácia kompatibilná minimálne s Vmware Standard so subscription na min. 1 rok
+(ďalej spolu aj ako „predmet kúpy“)
+2. Zmluvné strany sa dohodli, že súčasťou dodávky predmetu kúpy v súlade s bodom 1 tohto článku
+zmluvy je aj montáž predmetu kúpy, a jeho hardvérová konfigurácia, t.j. otestovanie funkčnosti
+v prostredí kupujúceho.
+3. Porušenie povinností predávajúceho uvedených v bode 1 a 2 tohto článku zmluvy sa považuje za
+podstatné porušenie zmluvy, a kupujúci je oprávnený od zmluvy okamžite odstúpiť. Predávajúci nemá
+nárok na úhradu kúpnej ceny.
+4. Predmetom zmluvy je zároveň aj záväzok kupujúceho riadne a včas dodaný predmet kúpy od
+predávajúceho prevziať, a zaplatiť zaň dohodnutú cenu.
+IV.
+Termín a miesto plnenia
+1. Zmluvné strany sa dohodli, že predávajúci dodá predmet kúpy do sídla kupujúceho, t.j. na adresu T. G.
+Masaryka 22, Zvolen (miesto dodania), kde zároveň zabezpečí montáž predmetu kúpy, otestovanie jeho
+funkčnosti, a to v lehote najneskôr do 7 dní odo dňa účinnosti zmluvy.
+2. Predávajúci sa zaväzuje upovedomiť kupujúceho (osobu zodpovednú za plnenie predmetu zmluvy)
+o dodávke predmetu kúpy aspoň 2 pracovné dni vopred, a dohodnúť bližšie podmienky dodania,
+montáže a otestovania.
+
+251659264
+2
+
+3. Predávajúci:
+
+dodá kupujúcemu predmet kúpy do miesta dodania osobne,
+osobe zodpovednej za plnenie predmetu zmluvy,
+za súčinnosti osoby zodpovednej za plnenie predmetu zmluvy
+zabezpečí montáž predmetu kúpy a jeho následné otestovanie (všetko v mieste dodania)
+dokladom o splnení vyššie uvedených povinností predávajúceho bude dodací list, ktorý za kupujúceho
+podpíše osoba zodpovedná za plnenie predmetu zmluvy, a podpisom ktorého potvrdí dodane predmetu
+kúpy v súlade s vyššie uvedenými požiadavkami. Predmet kúpy sa považuje za dodaný okamihom
+podpisu dodacieho listu kupujúcim, t.j. splnením vyššie uvedených povinností predávajúceho.
+
+V.
+Cena a platobné podmienky
+1. Cena za predmet kúpy (t.j. dva kusy serverov) v súlade s jeho špecifikáciou uvedenou v čl. III. bod 1
+zmluvy bola zmluvnými stranami stanovená v súlade s víťaznou ponukou predávajúceho v rámci procesu
+verejného obstarávania, ako aj v zmysle zákona č. 18/1996 Z. z. o cenách v znení neskorších predpisov
+nasledovne:
+cena bez DPH
+49.690,-EUR
+DPH 20%
+9.938,- EUR
+cena vrátane DPH
+59.628,- EUR
+(ďalej len ako „kúpna cena“)
+2. Kúpna cena je konečná a nemenná a sú v nej zahrnuté všetky náklady súvisiace s dodaním predmetu
+kúpy vrátane dopravy do miesta dodania, montážou a otestovaním funkčnosti.
+3. Zmluvné strany sa dohodli, že kupujúci uhradí kúpnu cenu na základe faktúry vystavenej predávajúcim.
+Predávajúci je oprávnený vystaviť faktúru až po podpise dodacieho listu kupujúcim. Faktúra musí spĺňať
+náležitosti daňového a účtovného dokladu v súlade s platnými právnymi predpismi, najmä so zákonom
+zák. č. 222/2004 Z. z. o DPH, v znení neskorších predpisov, a musí obsahovať originálny podpis
+vystavujúcej strany. Prílohou faktúry je dodací list.
+4. V prípade, že faktúra nebude obsahovať náležitosti dohodnuté v odseku 3. tohto článku zmluvy, je
+kupujúci oprávnený faktúru vrátiť bez zaplatenia. Oprávneným vrátením faktúry prestáva plynúť lehota
+splatnosti a táto plynie celá odo dňa doručenia opravenej (novej) faktúry.
+5. Zmluvné strany si ako spôsob platby dohodli bezhotovostný prevod na účet predávajúceho uvedený
+v záhlaví zmluvy. Splatnosť faktúry je 30 dní odo dňa doručenia faktúry kupujúcemu. Kúpna cena sa
+považuje za uhradenú okamihom jej odpísania z účtu kupujúceho v prospech účtu predávajúceho.
+VI.
+Záručná doba
+1. Záručná doba na predmet kúpy je 5 rokov, a plynie odo dňa dodania predmetu kúpy, t. j. odo dňa
+podpisu dodacieho listu kupujúcim.
+2. Pokiaľ sa počas záručnej doby na predmete kúpy vyskytne akákoľvek vada, je kupujúci povinný ju bez
+zbytočného odkladu po zistení písomne uplatniť u predávajúceho (reklamácia). Za písomné uplatnenie
+vady sa považuje aj uplatnenie vady prostredníctvom emailu na emailovú adresu uvedenú v bode 4
+tohto článku zmluvy s vyžiadaním potvrdenia o doručení emailu. V reklamácii musí byť vada popísaná.
+Predávajúci je povinný reklamovanú vadu bezplatne odstrániť do 4 hodín od nahlásenia v mieste
+inštalácie, 24 hodín denne, 365 dní v roku. Spôsob odstránenia vady dohodnú zmluvné strany
+v závislosti od povahy vady.
+3. V prípade ak predávajúci neodstráni vadu v súlade s vyššie uvedeným, považuje sa to za podstatné
+porušenie zmluvy, a kupujúci je oprávnený od zmluvy okamžite odstúpiť. Ak bude vada neodstrániteľná
+a/alebo sa bude opakovane vyskytovať (dva a viac krát) je kupujúci oprávnený od zmluvy okamžite
+odstúpiť, a predávajúci je povinný vrátiť uhradenú kúpnu cenu.
+4. Kontaktná osoba pre riešenie reklamácií na strane predávajúceho je Patrik Biznár, servisis@emm.sk,
++421-907788289.
+
+251659264
+3
+
+VII.
+Sankcie a prechod vlastníckeho práva
+1. V prípade nedodržania termínu dodania predmetu kúpy predávajúcim (vrátane montáže a overenia
+funkčnosti), je kupujúci oprávnený účtovať predávajúcemu zmluvnú pokutu vo výške 1,00 % z kúpnej
+ceny za každý deň omeškania.
+2. V prípade omeškania kupujúceho s peňažným plnením (úhradou faktúry) má predávajúci nárok na úroky
+z omeškania v súlade s nariadením vlády SR č. 21/2013 Z.z., ktorým sa vykonávajú niektoré ustanovenia
+Obchodného zákonníka.
+3. Vlastnícke právo k predmetu kúpy prechádza na kupujúceho okamihom dodania predmetu kúpy, t.j.
+podpisu preberacieho protokolu.
+VIII.
+Odstúpenie od zmluvy
+1. Ktorákoľvek zo zmluvných strán je oprávnená od zmluvy odstúpiť v prípade podstatného porušenia
+povinností stanovených zmluvou druhou zmluvnou stranou. Za podstatné porušenie povinností sa
+považujú prípady stanovené Obchodným zákonníkom, touto zmluvou, a to najmä porušenie povinností
+vyplývajúcich z čl. III., IV. a VI. zmluvy.
+2. Odstúpenie od zmluvy musí byť oznámené písomne. V odstúpení musí byť uvedený dôvod, pre ktorý
+strana odstupuje od zmluvy. Účinky odstúpenia nastávajú okamihom jeho doručenia druhej zmluvnej
+strane. Doručením odstúpenia sa zmluva zrušuje od počiatku, a zmluvné strany sú povinné vrátiť si
+plnenia, ktoré si navzájom poskytli.
+3. Zmluvu je možné ukončiť aj vzájomnou písomnou dohodou zmluvných strán.
+IX.
+Záverečné ustanovenia
+1. Táto zmluva nadobúda platnosť dňom jej podpisu obidvomi zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády SR.
+2. Zmeny a doplnenia k tejto zmluve je možné vykonať len formou písomných číslovaných dodatkov,
+podpísaných štatutárnymi zástupcami oboch zmluvných strán a v súlade so zákonom č. 343/2015 Z. z.
+o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+3. Právne vzťahy medzi predávajúcim a kupujúcim touto zmluvou neupravené sa riadia príslušnými
+ustanoveniami Obchodného zákonníka, ako aj ostatnými súvisiacimi právnymi predpismi platnými na
+území SR vzťahujúcimi sa na predmet zmluvy.
+4. Táto zmluva je vyhotovená v troch exemplároch, z ktorých kupujúci obdrží dva exempláre a predávajúci
+jeden exemplár.
+5. Táto zmluva je povinne zverejňovaná podľa § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe
+k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zmluvné strany
+výslovne súhlasia so zverejnením zmluvy v jej plnom rozsahu v centrálnom registri zmlúv vedenom na
+Úrade vlády SR.
+6. Zmluvné strany sa dohodli, že všetky písomnosti, ktoré má doručiť/bude doručovať v zmysle tejto
+zmluvy, ako aj po jej skončení jedna zmluvná strana druhej zmluvnej strane, budú doručované na
+adresu uvedenú v záhlaví zmluvy. Písomnosti budú doručované osobne alebo prostredníctvom pošty
+doporučene, pričom zásielka (písomnosť) sa bude považovať za doručenú dňom jej prevzatia adresátom
+– zmluvnou stranou, dňom, kedy zmluvná strana odmietne osobne doručovanú alebo poštou
+doručovanú zásielku prevziať, alebo dňom, kedy pošta vráti doručovanú zásielku odosielajúcej zmluvnej
+strane ako nevyžiadaná v odbernej (úložnej) lehote alebo s oznámením adresát neznámy, prípadne ako
+zásielku nedoručenú.
+7. V prípade kedy v súlade so zmluvou je možné doručovanie formou emailovej pošty, sa
+písomnosť/dokument považuje za doručený okamihom doručenia potvrdenia o doručení emailu
+odosielajúcej zmluvnej strane.
+
+251659264
+4
+
+8. Zmluvné strany sa dohodli, že táto zmluva a všetky vzťahy z nej vyplývajúce alebo s ňou súvisiace
+(vrátane akcesorických právnych vzťahov, zodpovednostných právnych vzťahov a právnych vzťahov
+z bezdôvodného obohatenia), forma zmluvy, náležitosti zmluvy, platnosť zmluvy, účinnosť zmluvy ako aj
+právne následky jej prípadnej neplatnosti a/alebo neúčinnosti, sa spravujú právnym poriadkom
+Slovenskej republiky a to bez zreteľa na jeho kolízne normy.
+9. Zmluvné strany prehlasujú, že túto zmluvu uzatvorili slobodne, vážne a nie v tiesni, že jej ustanovenia
+považujú za určité a zrozumiteľné, že jej podmienky nepovažujú za nápadne nevýhodné a že jej obsahu
+rozumejú a na znak súhlasu s jej obsahom ju vlastnoručne podpisujú.
+
+Vo Zvolene dňa ................
+
+V ....................... dňa ...................
+
+..............................................
+Bc. Ing. Ľuboš Halvoň, PhD.
+generálny riaditeľ
+
+.............................................
+Ing. Jozef Chebeň
+konateľ
+
+251659264
+5
+
+

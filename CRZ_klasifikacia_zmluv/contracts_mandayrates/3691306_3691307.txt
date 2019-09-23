@@ -1,0 +1,331 @@
+Zmluva o poskytovaní služieb č. Z201842147_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Národný onkologický ústav
+Klenová 1, 83110 Bratislava, Slovenská republika
+00165336
+SK2020830108
+SK2020830108
+SK5881800000007000281748
+0254772421
+
+Dodávateľ:
+Obchodné meno:
+
+TatraMed Software s. r. o.
+
+Sídlo:
+
+Líščie údolie 9, 84104 Bratislava, Slovenská republika
+
+IČO:
+
+47025328
+
+DIČ:
+
+2023706751
+
+IČ DPH:
+
+SK2023706751
+
+Číslo účtu:
+Telefón:
+
++421 2 60202301
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Služby zabezpečenej archivácie dát
+
+Kľúčové slová:
+
+archivácia dát
+
+CPV:
+
+72320000-4 - Databázové služby; 60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+zabezpečený archív pre veľké dátové objekty
+
+Funkcia
+poskytovanie vysoko škálovateľného úložiska pre veľké objekty (obrázky, videá, audio, iné binárne dáta) minimálne v rozsahu
+uvedenom v časti Technické vlastnosti
+garancia dodávaných služieb minimálne v rozsahu uvedenom v časti Technické vlastnosti
+správa služieb s používateľským administrátorským rozhraním prístupným prostredníctvom internetového prehliadača,
+umožňujúca online vytváranie, vymazanie a konfiguráciu služieb dátového úložiska
+správa služieb prostredníctvom programového rozhrania API, umožňujúca online vytváranie, mazanie a konfiguráciu služieb
+dátového úložiska
+možnosť automatizovane prenášať dáta cez API systému TomoCon (prevádzkovaného u zadávateľa) online z/do
+poskytovaného dátového úložiska
+možnosť preniesť dáta z/do dátového centra na fyzických diskoch do poskytovaného dátového úložiska
+dáta uložené v úložisku budú dostupné odkiaľkoľvek prostredníctvom http alebo https protokolu
+vysoko dostupné NFS služby prostredníctvom Server Message Block (SMB) protokolu
+možnosť šifrovania dát minimálne v rozsahu uvedenom v časti Technické vlastnosti
+možnosť obmedzenia prístupu na dátové úložisko len z vyhradenej siete
+možnosť výberu regiónu v rámci EÚ, v ktorom budú dáta uložené
+Strana 1 z 4
+
+garancia splnenia legislatívnych požiadaviek na ochranu dát
+možnosť poskytnúť rôzne „tiers“ určených pre rôzne typy dát (online r/w data, krátkodobé zálohy, dlhodobé zálohy, a iné)
+Technické vlastnosti
+
+Jednotka
+
+Dátový priestor
+
+TB
+
+Dostupnosť dát na zápis
+
+%
+
+99%
+
+Dostupnosť dát na čítanie
+
+%
+
+99,9%
+
+Latencia dát
+
+milisekundy
+
+Doba poskytovania služby počas, ktorej je garantované
+uloženia dát
+
+rok
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Geo-redundacia
+
+Je zabezpečená geo-redundacia – uloženie dát v minimálne dvoch
+dátových centrách spĺňajúcich minimálne TIER 4 špecifikáciu,
+geograficky rozdielne umiestnených.
+
+prístup k dátovému úložisku
+
+Je poskytovaný prístup prostredníctvom HTTPS protokolu a
+prostredníctvom siete Internet bez nutnosti zriaďovať VPN (IPSec
+tunel).
+
+dohľad nad dátovým úložiskom
+
+Je poskytovaný prehľad o úrovni využitia služieb, aj o spustených
+a vypnutých službách, možnosť vytvorenia vlastných prehľadov
+pomocou generátora zostáv.
+
+štatistika prevádzky
+
+Je poskytované štatistické zostavy o prevádzke úložiska,
+minimálne v rozsahu: voľba časového úseku pre štatistiku, voľba
+služby, prehľad nákladovosti služieb v čase.
+
+šifrovanie dát
+
+Je možné dáta zašifrovať vlastným kľúčom s použitím 256-bit AES
+encryption pred ich uložením do úložiska.
+
+2.3
+
+Minimum
+
+Maximum
+
+Presne
+60
+
+100
+2
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane inštalácie na mieste plnenia
+Vrátane zaškolenia max. 3 osôb v rozsahu max. 1 hodiny
+Predloženie vlastného návrhu na plnenie predmetu zmluvy do 7 dní od uzavretia zmluvy, ak nebol požadovaný ako vlastný
+návrh plnenia zákazky pri predložení ponuky
+Predloženie dokumentov potvrdzujúcich plnenie ustanovení všeobecné nariadenie na ochranu osobných údajov GDPR
+Platba je účtovaná len za skutočne obsadený dátový priestor a prenesený dátový objem s garantovanou (inak
+nespoplatnenou) prenosovou rýchlosťou minimálne 1Gbps na vstupe dátoveho centra (nevzťahuje sa na spomalenie prenosu
+dát v internete)
+Mesačná platba zahŕňa prenos 10% uloženého objemu dát z dátového úložiska do systému u zadávateľa. Prenos celého
+uloženého objemu dát bez obmedzenia je v cene služby pri ukončení poskytovania služby.
+Tarifikácia za využívané služby je maximálne po 1 minúte
+Vrátane dopravy na miesto plnenia
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 7 dní od uzavretia zmluvy
+Požaduje sa predložiť rozpis sadzby DPH a ceny s DPH alebo bez DPH, ktorá ako údaj v zmluve chýba v prípade plnenia
+zahŕňajúce rôzne sadzby DPH do 7 dní od uzavretia zmluvy
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z..
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí
+uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z.z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+
+Strana 2 z 4
+
+Požaduje sa predložiť funkčná a technická špecifikácia, vrátane technických listov preukazujúcich splnenie minimálnych
+požadovaných parametrov predmetu zákazky s uvedením presných názvov (obchodných značiek) nacenených výrobkov do 5
+pracovných dní od účinnosti Zmluvy, ak neboli požadované ako vlastný návrh plnenia zákazky pri predložení ponuky
+V súlade s EU trhovými pravidlami
+Vrátane inštalácie, uvedenia do prevádzky a zaškolenia osôb do údržby a prevádzky predmetu plnenia na mieste plnenia
+Požaduje sa predložiť špecifikáciu k predmetu plnenia do 7 dní od uzavretia zmluvy
+Faktúra za dodané tovary musí obsahovať jednotkovú cenu každej položky bez DPH, sadzbu DPH a s DPH danej položky
+Predmet plnenia zmluvy bude dodaný na základe objednávky v celom objeme a v termíne určenom objednávateľom, nie
+kratšom ako 30 kalendárnych dní od nadobudnutia účinnosti zmluvy
+Ochranná doba uloženia dát u dodávateľa je minimálne 6 mesiacov na prenos celého objemu dát na uložisko k
+objednávateľovi aj po ukončení poskytovania služby.
+Názov
+
+Upresnenie
+
+Služby zabezpečenej archivácie dát
+2.4
+
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava III
+
+Obec:
+
+Bratislava - mestská časť Nové Mesto
+
+Ulica:
+
+Klenová 1, 833 10 Bratislava, Slovenská republika
+
+Čas / lehota plnenia zmluvy:
+22.10.2018 09:00:00 - 26.10.2018 15:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+kompletne riesenie podla opisu
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 14 976,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 17 971,20 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+Strana 3 z 4
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 15.10.2018 09:38:04
+Objednávateľ:
+Národný onkologický ústav
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+TatraMed Software s. r. o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

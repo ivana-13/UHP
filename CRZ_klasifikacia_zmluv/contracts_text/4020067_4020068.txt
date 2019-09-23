@@ -1,0 +1,536 @@
+Kúpna zmluva č. Z201914958_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Geodetický a kartografický ústav Bratislava
+Chlumeckého 4, 82745 Bratislava, Slovenská republika
+17316219
+2020838083
+0
+SK8381800000007000062369
++421220816232
+
+Dodávateľ:
+Obchodné meno:
+
+Vision IT Solutions, a. s.
+
+Sídlo:
+
+Pribinova 25, 81109 Bratislava, Slovenská republika
+
+IČO:
+
+36815799
+
+DIČ:
+
+SK2022424008
+
+IČ DPH:
+
+36815799
+
+Číslo účtu:
+
+SK8811000000002927836056
+
+Telefón:
+
++421233553500
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Rozšírenie Informačného systému
+
+Kľúčové slová:
+
+prepínač, switch
+
+CPV:
+
+32420000-3 - Sieťové zariadenia; 60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Rozšírenie Informačného systému
+
+Funkcia
+Predmetom dodávky sú nové, doposiaľ nepoužívané plne funkčné zariadenia vrátene komplexnej implementácie a integrácie
+do existujúceho produkčného prostredia. Plnenie predmetu zmluvy musí byť vykonané tak, aby nedošlo k prerušeniu
+existujúcich prevádzkových procesov obstarávateľa.
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Manažovateľné gigabitové prepínače
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Maximum
+
+Presne
+7
+
+Manažovateľné gigabitové prepínače vlastnosti:
+Porty
+
+minimálne 48 x 10/100/1000 Mbps, všetky IEEE PoE+, možnosť
+rozšíriť až do 384 portov v režime „stack“, PoE, 60W UPOE alebo
+PoE+, minimálne 8 x 10 Gigabit Ethernet SFP+
+
+Switching capacity
+
+256 Gbps
+
+Advanced Switching
+
+L2/L3
+
+Kapacita
+
+IPv4 routes: 32000, IPv6 routes: 16000, NetFlow entries: 64000,
+Switched virtual interfaces (SVIs): 2000
+
+Virtual LAN support
+
+áno, 4000 VLAN
+
+Jumbo Frame Support
+
+áno, 9198 bytes
+Strana 1 z 5
+
+Autentifikácia
+
+Kerberos, RADIUS, Secure Shell (SSH), TACACS+
+
+Veľkosť tabuľky MAC adries
+
+32000 záznamov
+
+Status indikátory
+
+Port transmission speed, port duplex mode, system, status LED
+indikatory
+
+Routing Protocol
+
+RIP-1, RIP-2, OSPF, RIPng, Routed Access
+
+Napájanie
+
+redundantné, minimálne 715 Watt z toho 437 Watt využiteľné pre
+PoE, vymeniteľné počas prevádzky zariadenia
+
+Prevedenie
+
+rack-mountable, 1U
+
+Stacking
+
+Stacking bandwidth 480 Gbps, 208 routed ports per stack,
+možnosť zapojenia až 8 zariadení, zariadenia musia umožňovať
+stacking napájania zdrojov - zdieľané napájanie z iného switcha,
+
+Stacking
+
+súčasťou dodávky musí byť dátová kabeláž nevyhnutná pre
+zapojenie všetkých zariadení do stacking infraštruktúry minimálne
+v dĺžke 100 cm a zároveň napájacia kabeláž minimálne v dĺžke
+150 cm
+
+DRAM
+
+8 GB
+
+Flash
+
+16 GB
+
+WiFi
+
+zariadenie musí umožňovať rozšíriteľnosť (napríklad formou
+zakúpenia potrebnej rozširujúcej licencie)
+
+WiFi
+
+o podporu funkcionality Wireless Lan Controllera až pre pre 200
+bezdrôtových prístupových bodov, alebo až pre 2x200
+bezdrôtových prístupových bodov.
+
+Ostatné vlastnosti
+
+Switch fundamentals: Layer 2, Routed Access (RIP, EIGRP Stub,
+OSPF - 1000 routes), PBR, PIM Stub Multicast (1000 routes)),
+PVLAN, VRRP, PBR, CDP, QoS, FHS, 802.1X, MACsec-128,
+CoPP, SXP,
+
+Ostatné vlastnosti
+
+Switch Fundamentals: IP SLA Responder, SSO
+
+Ostatné vlastnosti
+
+Advanced switch capabilities and scale:BGP, EIGRP, HSRP, IS-IS,
+BSR, MSDP, PIM-BIDIR,* IP SLA, OSPF
+
+Ostatné vlastnosti
+
+Network segmentation:VRF, VXLAN, LISP, SGT, MPLS, mVPN
+
+Ostatné vlastnosti
+
+Automation:NETCONF, RESTCONF, gRPC, YANG, PnP Agent,
+ZTP/Open PnP, GuestShell (On-Box Python)
+
+Ostatné vlastnosti
+
+Telemetry and visibility:Model-driven telemetry, sampled NetFlow,
+SPAN, RSPAN
+
+Ostatné vlastnosti
+
+High availability and resiliency:Nonstop Forwarding (NSF),
+Graceful Insertion and Removal (GIR), Fast Software Upgrade
+(FSU)
+
+Ostatné vlastnosti
+
+IOT integration:AVB, PTP, CoAP
+
+Ostatné vlastnosti
+
+Security:MACsec-256
+
+Ostatné vlastnosti
+
+Safety compliance:UL 60950-1, CAN/CSA-C22.2 No. 60950-1, EN
+60950-1, IEC 60950-1, CCC, CE Marking
+
+Ostatné vlastnosti
+
+EMI and EMC compliance: FCC Part 15 (CFR 47) Class A,
+ICES-003 Class A, EN 55022 Class A, CISPR 22 Class A, AS/NZS
+3548 Class A, BSMI Class A (AC input models only), VCCI Class
+A,
+
+Ostatné vlastnosti
+
+EMI and EMC compliance: EN 55024, EN300386, EN 50082-1, EN
+61000-3-2, EN 61000-3-3EN61000-4-2, EN61000-4-3,
+EN61000-4-4, EN61000-4-5, EN61000-4-6, EN 61000-6-1
+
+Ostatné vlastnosti
+
+EMI and EMC compliance: Zariadenie musí umožňovať využitie
+jazyka Python a prevádzky kontajnerizovaných aplikácií tretích
+strán priamo na prepínači. Zariadenie musí umožňovať rozšírenie
+o pripojenie
+
+Ostatné vlastnosti
+
+do softvérovo definovanej siete s riadiacim prvkom, ktorý
+automatizuje nastavenia a prevádzku a sleduje optimálne
+parametre aj na báze telemetrie prepínača.
+
+Normy IEEE
+
+IEEE 802.1D, IEEE 802.1Q, IEEE 802.1p, IEEE 802.1s, IEEE
+802.1w, IEEE 802.1x, IEEE 802.3ad, IEEE 802.3af, IEEE 802.3ap,
+IEEE 802.3bz, IEEE 802.3u, IEEE 802.3z
+Strana 2 z 5
+
+Vzdialený manažment
+
+CLI, RMON 1, RMON 2, SNMP 1, SNMP 2c, SNMP 3, SSH, Telnet
+
+Stredná doba medzi poruchami
+
+až 277 770 hodín
+
+Vlastnosti dodávky:
+Inštalácia a integrácia do existujúceho prostredia
+
+Plnenie predmetu zmluvy musí zahŕňať záručné podmienky a
+úroveň SLA: - služby na podporu zariadení na obdobie minimálne
+36 mesiacov,
+
+Inštalácia a integrácia do existujúceho prostredia
+
+- nahlasovanie a prijatie požiadavky na servisný zásah v režime
+minimálne 8x5,
+
+Inštalácia a integrácia do existujúceho prostredia
+
+- odozvu a nástup na vykonanie servisného zásahu najneskôr na
+nasledujúci pracovný deň. Plnenie predmetu zmluvy musí zahŕňať
+všetky nevyhnutné úkony pre úspešnú implementáciu a integráciu
+zariadení do
+
+Inštalácia a integrácia do existujúceho prostredia
+
+produkčnej prevádzky Objednávateľa minimálne v rozsahu: analýza súčasného stavu sieťovej infraštruktúry, - kontrola stavu a
+funkcie existujúcich zariadení,
+
+Inštalácia a integrácia do existujúceho prostredia
+
+- porovnanie existujúceho stavu s aktuálnou dokumentáciou, zhrnutie analytických dát, - návrh re-konfigurácie net-stack
+prostredia, - návrh ďalších postupov projektu.
+
+Inštalácia a integrácia do existujúceho prostredia
+
+Súčasťou dodávky musí byť HW vybavenie nevyhnutné pre
+zapojenie zariadení do existujúcej infraštruktúry minimálne v počte
+14ks 10GBASE-SR SFP Module.
+
+Inštalácia a integrácia do existujúceho prostredia
+
+Podmienkou implementácie a integrácie dodaných zariadení je
+odsúhlasenie návrhov konfigurácie a ďalších postupov projektu
+Objednávateľom.
+
+Inštalácia a integrácia do existujúceho prostredia
+
+Plnenie predmetu zmluvy musí zahŕňať všetky nevyhnutné úkony
+pre úspešnú implementáciu a integráciu zariadení do produkčnej
+prevádzky Objednávateľa minimálne v rozsahu:
+
+Inštalácia a integrácia do existujúceho prostredia
+
+- inštalácia zariadení do existujúceho IT prostredia,- SW a HW
+aktualizácia dodaných zariadení,- integračný test kompatibility s
+existujúcou IT infraštruktúrou,
+
+Inštalácia a integrácia do existujúceho prostredia
+
+- konfigurácia prepínačov do navrhnutého stack-u,- integrácia
+dodaného prostredia do existujúcej HW infraštruktúry,- integrácia
+dodaného prostredia do existujúcej SW infraštruktúry,
+
+Inštalácia a integrácia do existujúceho prostredia
+
+- návrh akceptačných testov a postupov,- diagnostika a test
+dodanej infraštruktúry v produkčnom prostredí,- analýza výsledkov,
+- spracovanie technickej prevádzkovej dokumentácie.
+
+Inštalácia a integrácia do existujúceho prostredia
+
+Podmienkou úspešného plnenia predmetu zmluvy je obojstranná
+akceptácia pozitívneho výsledku záverečných testov.
+
+Inštalácia a integrácia do existujúceho prostredia
+
+Dodávateľ sa po dobu trvania záručnej lehoty dodaných zariadení
+zaväzuje vykonávať proaktívnu podporu na predmet zmluvy
+minimálne v rozsahu 96 človeko-hodín ročne v mieste plnenia
+zmluvy.
+
+Inštalácia a integrácia do existujúceho prostredia
+
+Dodávateľ sa zaväzuje, že pri plnení predmetu zmluvy nedôjde k
+prerušeniu existujúcich prevádzkových procesov obstarávateľa.
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Osobitné požiadavky na plnenie – ďalej v skrátenej forme ako OPNP:
+1. Požiadavky na predloženie podkladov k plneniu:
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy dodá vlastný návrh na plnenie predmetu zmluvy s presným
+označením a popisom ponúkaných produktov, ktoré musia súhlasiť s požadovanými vlastnosťami a parametrami zariadenia a
+služieb.
+Jednotkové ceny musia zodpovedať celkovej Zmluvnej cene, t. j. súčtu súčinov jednotkových cien a množstiev položiek
+uvedených v Technickej špecifikácii predmetu zákazky.
+Dodávateľ sa zaväzuje predložiť Objednávateľovi zoznam kontaktných osôb zodpovedných za plnenie tejto zmluvy v rozsahu
+meno, priezvisko, e-mailová adresa, telefónne číslo, funkcia, e-mailové adresy pre zasielanie objednávok, faktúr.
+
+Strana 3 z 5
+
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy preukáže, že je disponuje vlastným systémom na
+nahlasovanie porúch v režime 24x7 a to minimálne telefonicky, e-mailom s centrálnou adresou monitorovanou počas
+poskytovania servisu.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy predloží doklad vystavený výrobcom alebo oficiálnym
+distribútorom výrobcu, že zariadenia, ktoré sú predmetom zmluvy, pochádzajú z oficiálnej distribúcie určenej na predaj
+Slovenskej republike.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy predloží doklad vystavený výrobcom alebo oficiálnym
+distribútorom výrobcu, že je certifikovaným partnerom výrobcu zariadení a že výrobca garantuje vykonávanie odborného
+záručného a pozáručného servisu na zariadenia dodané prostredníctvom Dodávateľa aj v prípade zániku Dodávateľa, alebo
+ukončenia jeho pôsobenia na trhu a to v zmysle všeobecných záručných podmienok výrobcu zariadení.
+Dodávateľ dodá predmet zmluvy najneskôr do 10 pracovných dní odo dňa obdržania výzvy od Objednávateľa o jeho
+pripravenosti prevziať predmet zmluvy.
+Nesplnenie povinnosti podľa kapitoly 1. OPNP sa bude považovať za podstatné porušenie zmluvy zo strany Dodávateľa.
+2. Predmet plnenia:
+Vrátane dopravy na miesto plnenia.
+Nový, doposiaľ nepoužitý a ani repasovaný tovar. Požaduje sa dodávka nových zariadení od výrobcu (továrensky vyrobenú),
+zapečatenú ochrannými prvkami výrobcu t. j. krabica je prelepená originálnou neporušenou ochrannou páskou výrobcu.
+Dodávateľ dodá predmet zákazky, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike.
+Nesplnenie povinnosti podľa kapitoly 2. OPNP sa bude považovať za podstatné porušenie tejto zmluvy.
+3. Miesto plnenia:
+Zmluvné strany sa dohodli, že miestom plnenia sú prevádzkové priestory Objednávateľa.
+4. Fakturácia ceny – Platobné podmienky:
+Faktúra musí obsahovať označenie, že ide o faktúru, všetky náležitosti podľa čl. XI Všeobecných zmluvných podmienok
+Trhoviska, číslo dodacieho listu, IČO a bankové spojenie oboch zmluvných strán vo formáte ABO, IBAN a BIC/SWIFT/.
+Lehota splatnosti faktúr je 30 (tridsať) dní odo dňa doručenia faktúry Objednávateľovi, pričom za deň splnenia peňažného
+záväzku sa považuje deň odpísania dlžnej sumy z účtu Objednávateľa v prospech účtu Dodávateľa.
+Pokiaľ posledný deň lehoty splatnosti pripadne podľa slovenského kalendára na deň pracovného voľna, pokoja alebo sviatok,
+ako deň splnenia peňažného záväzku bude zmluvným partnerom za rovnako dohodnutých cenových a platobných podmienok
+akceptovaný nasledujúci prvý pracovný deň.
+Bankové poplatky dlžníka znáša dlžník, bankové poplatky veriteľa znáša veriteľ. V prípade porušenia zmluvnej podmienky,
+súvisiacej s úhradou, znáša všetky bankové poplatky tá zmluvná strana, ktorá porušenie zavinila.
+6. Sankcie:
+V prípade akéhokoľvek omeškania Dodávateľa s plnením predmetu zmluvy v porovnaní s termínmi uvedenými vo Funkčnej
+špecifikácii a týchto OPNP je Objednávateľ oprávnený fakturovať Dodávateľovi zmluvnú pokutu vo výške 0,05% z celkovej
+ceny predmetu Zmluvy za každý deň omeškania.
+Zaplatením zmluvnej pokuty nie je dotknutý nárok Objednávateľa na náhradu spôsobenej škody v plnom rozsahu.
+V prípade omeškania so splnením peňažného záväzku má veriteľ právo fakturovať dlžníkovi úrok z omeškania vo výške 0,05
+% z dlžnej čiastky za každý, aj začatý deň omeškania. Úrok z omeškania nie je predmetom DPH.
+Lehota splatnosti faktúr, ktorými bola vyúčtovaná zmluvná pokuta a úrok z omeškania je 30 dní odo dňa doručenia faktúry
+druhej zmluvnej strane.
+Objednávateľ požaduje predložiť všetky požadované doklady v elektronickej podobe. Objednávateľ je oprávnený vyžiadať si aj
+originál alebo úradne osvedčenú kópiu z uvedených certifikátov v papierovej podobe. Dodávateľ je povinný tieto certifikáty
+predložiť do 3 pracovných dní od doručenia výzvy Objednávateľa.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+Strana 4 z 5
+
+3.2
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava II
+
+Obec:
+
+Bratislava - mestská časť Ružinov
+
+Ulica:
+
+Chlumeckého 4
+
+Čas / lehota plnenia zmluvy:
+21.05.2019 12:00:00 - 07.06.2019 12:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+7,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.5, účinná zo dňa 1.1.2019 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 69 916,67 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 83 900,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 14.05.2019 10:20:01
+Objednávateľ:
+Geodetický a kartografický ústav Bratislava
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Vision IT Solutions, a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

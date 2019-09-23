@@ -1,0 +1,1272 @@
+Technická špecifikácia a cenník
+
+Príloha č. 2 k rámcovej dohode
+
+(s platnosťou na obdobie 60 dní odo dňa nadobudnutia účinnosti rámcovej dohody)
+
+Dodávateľ: S&T Slovakia s.r.o.
+3.časť: Servery, informačné systémy a softvér
+Výrobca a model: HPE ProLiant DL380 Gen9
+Server typ I
+
+Predpokladaný počet kusov: 40
+
+Parameter
+
+Diskový radič
+
+Požadované minimálne parametre
+19“ rack, výška 2U, súčasťou servera musia byť aj koľajnice na
+montáž do racku spolu s ramenom na vedenie kabeláže, ktoré
+umožňuje servisovanie počas behu servera (teda možnosť
+povytiahnuť server z racku pri servisnom zásahu bez nutnosti
+vyťahovať napríklad napájacie káble)
+Server s x86 mikroprocesorom s výkonom dávajúcim skóre 1240
+podľa benchmarku CINT2006 rate (base result) pri osadení dvomi
+procesormi
+2/2
+256GB,(8x 32GB) RDIMM (DDR4-2400), rozšíriteľná do 3 TB,
+s možnosťou online záložnej pamäte, minimálne 16 voľných DIMM
+slotov
+2 x 300GB 15k rpm, Serial attached SCSI (SAS) 12Gb, hotplug, 8
+interných hotswap diskových pozícií veľkosti 2.5", rozšíriteľných o 8
+resp. 16 interných diskových pozícií
+SAS, podpora RAID 0/1/5/6, 2GB cache zálohovaná flash
+
+Grafický adaptér
+
+Integrovaný, s rozlíšením 1280x1024/32 bit color, 16MB Video RAM
+
+Sieťový adaptér
+Ventilátory
+
+Integrovaný, 4 x RJ45, 10/100/1000/10000TX
+Plne redundantné, vymeniteľné za chodu
+Redundantné, vymeniteľné za chodu min. 750Watt, minimálna
+účinnosť 94%
+3x USB 3.0, z toho minimálne 1 interný slot a 1 slot na prednom
+paneli
+Osadené dve zrkadlené SD karty minimálne o veľkosti 8GB
+3 x PCI Express sloty + s možnosťou rozšírenia o ďalšie PCI
+Express sloty
+servisný procesor pre systémový manažment poskytujúci podporu
+vzdialeného manažmentu servera cez internet alebo intranet
+pomocou bezpečnej kryptovanej komunikácie (SSL, SSH, AES,
+3DES), podporu štandardu IPMI 2.0;
+Požadujeme aj rozšírené funkcie ako :
+Podpora grafického rozhrania; Dvojitá autentifikácia s integráciou do
+adresárovej služby (MS AD);
+Podpora záznamu a spätného prehrávania bootovacej obrazovky.
+Licencie na neobmedzené migrácie serverov medzi fyzickým
+aj virtuálnym prostredím (P2V, V2P, P2P, V2V)
+Software na diaľkovú správu servera – ovládanie všetkých funkcií
+vzdialenej správy
+HW inštalácia servera u zákazníka
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+
+Model – prevedenie
+
+Výkon servera
+Počet/max. počet
+Pamäť
+
+Subsystém pevných diskov
+
+Napájacie zdroje
+USB porty
+SD card sloty
+PCI sloty
+
+Správa a manažment
+
+Pripojenie k serveru
+
+Diaľková správa
+Predinštalovaný SW
+Inštalácia
+Záruka a servis
+Výrobca a model: HPE ProLiant DL380 Gen9
+Server typ II
+
+Predpokladaný počet kusov: 40
+
+Parameter
+
+Požadované minimálne parametre
+19“ rack, výška 2U, súčasťou servera musia byť aj koľajnice na
+montáž do racku spolu s ramenom na vedenie kabeláže, ktoré
+umožňuje servisovanie počas behu servera (teda možnosť
+povytiahnuť server z racku pri servisnom zásahu bez nutnosti
+vyťahovať napríklad napájacie káble)
+Server s x86 mikroprocesorom s výkonom dávajúcim skóre 795
+podľa benchmarku CINT2006 rate (base result) pri osadení dvomi
+procesormi
+2/2
+128GB,(8x 16GB) RDIMM (DDR4-2400), rozšíriteľná do 3 TB,
+s možnosťou online záložnej pamäte, minimálne 16 voľných DIMM
+slotov
+SAS, podpora RAID 0/1/5/6, 2GB cache zálohovaná flash, alebo
+ekvivalentným spôsobom
+2 x 300GB 15k rpm, Serial attached SCSI (SAS) 12Gb, hotplug, 8
+interných hotswap diskových pozícií veľkosti 2.5", rozšíriteľných o 8
+resp. 16 interných diskových pozícií
+DVD ROM
+Plne redundantné, vymeniteľné za chodu
+
+Model – prevedenie
+
+Výkon servera
+Počet/max. počet
+RAM
+Diskový radič
+Disky
+Optická mechanika
+Ventilátory
+
+Jednotková cena
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+16 507,40
+
+3 301,48
+
+19 808,88
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+10 770,30
+
+2 154,06
+
+12 924,36
+
+Sieťový adaptér
+USB
+SD card sloty
+PCI sloty
+Napájací zdroj
+Grafický adaptér
+
+Pripojenie k serveru
+
+Správa a manažment
+
+Diaľková správa
+Predinštalovaný SW
+Inštalácia
+Záruka a servis
+Výrobca a model: HPE ProLiant DL380 Gen9
+
+4 x 10/100/1000 Mbps Ethernet Adaptér s podporou TCP/IP Offload
+3x USB 3.0, z toho minimálne 1 interný slot a 1 slot na prednom
+paneli
+Osadené dve zrkadlené SD karty minimálne o veľkosti 8GB
+3 voľné sloty PCI-Express s možnosťou rozšírenia o ďalšie PCIExpress sloty
+Redundantné, vymeniteľné za chodu min. 450 Watt, minimálna
+účinnosť 94%
+Integrovaný, s rozlíšením 1280x1024/32 bit color, 16MB Video RAM
+Požadujeme aj rozšírené funkcie ako :
+Podpora grafického rozhrania; Dvojitá autentifikácia s integráciou do
+adresárovej služby (MS AD);
+Podpora záznamu a spätného prehrávania bootovacej obrazovky.
+servisný procesor pre systémový manažment poskytujúci podporu
+vzdialeného manažmentu servera cez internet alebo intranet
+pomocou bezpečnej kryptovanej komunikácie (SSL, SSH, AES,
+3DES), podporu štandardu IPMI 2.0;
+Licencie na neobmedzené migrácie serverov medzi fyzickým
+aj virtuálnym prostredím (P2V, V2P, P2P, V2V)
+Software na diaľkovú správu servera – ovládanie všetkých funkcií
+vzdialenej správy
+HW inštalácia servera u zákazníka
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+
+Server typ III
+
+Predpokladaný počet kusov: 10
+
+Parameter
+
+Optická mechanika
+Ventilátory
+
+Požadované minimálne parametre
+19“ rack, výška 2U, súčasťou servera musia byť aj koľajnice na
+montáž do racku spolu s ramenom na vedenie kabeláže, ktoré
+umožňuje servisovanie počas behu servera (teda možnosť
+povytiahnuť server z racku pri servisnom zásahu bez nutnosti
+vyťahovať napríklad napájacie káble)
+Server s x86 mikroprocesorom s výkonom dávajúcim skóre 1240
+podľa benchmarku CINT2006 rate (base result) pri osadení dvomi
+procesormi
+2/2
+512GB, (8x 64GB) LRDIMM (DDR4-2400), rozšíriteľná do 3 TB,
+s možnosťou online záložnej pamäte, minimálne 16 voľných DIMM
+slotov
+SAS, podpora RAID 0/1/5/6, 2GB cache zálohovaná flash, alebo
+ekvivalentným spôsobom
+4 x 600GB 15k rpm, Serial attached SCSI (SAS) 12Gb, hotplug, 8
+interných hotswap diskových pozícií veľkosti 2.5", rozšíriteľných o 8
+resp. 16 interných diskových pozícií
+DVD ROM
+Plne redundantné, vymeniteľné za chodu
+
+Sieťový adaptér
+
+4 x 10/100/1000 Mbps Ethernet Adaptér s podporou TCP/IP Offload
+
+Model – prevedenie
+
+Výkon servera
+Počet/max. počet
+RAM
+Diskový radič
+Disky
+
+USB
+SD card sloty
+PCI sloty
+Napájací zdroj
+Grafický adaptér
+Pripojenie k serveru
+
+Správa a manažment
+
+Diaľková správa
+Predinštalovaný SW
+Inštalácia
+Záruka a servis
+Výrobca a model: HPE Enciosure D3700
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+24 349,00
+
+4 869,80
+
+29 218,80
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+13 026,00
+
+2 605,20
+
+15 631,20
+
+3x USB 3.0, z toho minimálne 1 interný slot a 1 slot na prednom
+paneli
+Osadene dve zrkadlené SD karty minimálne o veľkosti 8GB
+3 voľné sloty PCI-Express s možnosťou rozšírenia o ďalšie PCIExpress sloty
+Redundantné, vymeniteľné za chodu min. 450 Watt, minimálna
+účinnosť 94%
+Integrovaný, s rozlíšením 1280x1024/32 bit colour, 16MB Video RAM
+Podpora grafického rozhrania; Dvojitá autentifikácia s integráciou do
+adresárovej služby (MS AD); Podpora záznamu a spätného
+prehrávania bootovacej obrazovky.
+servisný procesor pre systémový manažment poskytujúci podporu
+vzdialeného manažmentu servera cez internet alebo intranet
+pomocou bezpečnej kryptovanej komunikácie (SSL, SSH, AES,
+3DES), podporu štandardu IPMI 2.0;
+Licencie na neobmedzené migrácie serverov medzi fyzickým
+aj virtuálnym prostredím (P2V, V2P, P2P, V2V)
+Software na diaľkovú správu servera – ovládanie všetkých funkcií
+vzdialenej správy
+HW inštalácia servera u zákazníka
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+
+Disková polica
+
+Predpokladaný počet kusov: 2
+
+Parameter
+Min. počet pevných diskov
+Typy podporovaných pevných diskov
+
+Požadované minimálne parametre
+24
+12 GB/s SAS/SATA/SAS MDL 2,5“ Hot Plug
+
+Požadovaný počet diskov
+Možnosť ďalšieho rozšírenia
+Rozhranie zariadenia
+
+24 x 300GB SAS 15k rpm SFF HDD
+Možnosť kaskádovania zariadení 1+7
+12 Gb/s SAS
+Windows Server 2008 R2, Windows Server 2012, 2012 R2, Red Hat
+Kompatibilné operačné systémy
+EL 5, 6, SUSE Linux Enterprise Server 11, VMware ESXi 5, VMware
+vSphere 5.5
+SAS, podpora RAID 0/1/5/6, 4GB cache zálohovaná flash, alebo
+Diskový radič do servera
+ekvivalentným spôsobom
+Kompatibilita
+HP EVA P6350
+Prevedenie
+2U s montážnym kitom do 19“ racku
+Za chodu vymeniteľné zdroje napájania a ventilátory, I/O moduly,
+Redundantné komponenty
+pevné disky
+Záruka a servis
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Výrobca a model: APC Smart-UPS SRT 3 000 VA RM 230 V
+Záložný zdroj
+
+Predpokladaný počet kusov: 50
+
+Parameter
+Prevedenie/kapacita
+
+Požadované minimálne parametre
+3U rack prevedenie, 3000VA
+Menovité vstupné napätie: 230 V
+Vstupné kmitočet: 50/60 Hz +/- 5 Hz (autodetekcia)
+Maximálny nastaviteľný výkon: 2100 W/3000 VA
+Menovité výstupné napätie: 230 V
+Menovité výstupné napätie je možné nastaviť na 220, 230 alebo 240
+V
+Účinnosť pri plnom zaťažení: 92%
+Skreslenie výstupného napätia: menej ako 3%
+Výstupný kmitočet (synch.so sieťou): 50/60 Hz +/- 3 Hz nastaviteľné
+užívateľom o +/- 0,1 Hz
+Koeficient amplitúdy: 3: 1
+Druh priebehu: sínusoida
+Interný bypass (automatický i manuálny)
+8 x IEC 320 C13, 2 x IEC 320 C19, 2 x IEC Jumpers
+RJ-45, RS-232
+Podľa servisných podmienok (článok VI. rámcovej dohody), záruka
+na batérie 1 rok
+
+Vstup
+
+Výstup
+
+Výstupné zásuvky
+Komunikačné rozhrabania
+Záruka a servis
+Výrobca a model: HPE Proliant BL460 Gen9
+Blade server typ I
+
+Predpokladaný počet kusov: 10
+
+Parameter
+
+Požadované minimálne parametre
+Model servera s dvomi procesor typu x86 preukázateľne schopný
+dosiahnuť výkon 850 bodov podľa testu Spec CINT2006rate (base
+result). Osadené dvoma procesormi.
+128GB (8x 16GB), s funkciou detekcie a opravy multibitových chýb,
+on-line spare pamäte, rozšíriteľnosť na min. 2TB
+2x 10Gbps + 2x 1Gbps
+2x 8Gbps
+1 x interný port
+Osadené dve zrkadlené SD karty minimálne o veľkosti 8GB
+2 voľné sloty PCI-Express 3.0
+Integrovaný grafický adaptér
+servisný procesor pre systémový manažment poskytujúci podporu
+vzdialeného manažmentu servera cez internet alebo intranet
+pomocou bezpečnej kryptovanej komunikácie (SSL, SSH, AES,
+3DES), podporu štandardu IPMI 2.0 Rozšírené funkcie:
+Podpora grafického rozhrania, Dvojitá autentifikácia s integráciou do
+adresárovej služby (MS AD).
+Podpora záznamu a spätného prehrávania bootovacej obrazovky.
+Licencie na neobmedzené migrácie serverov medzi fyzickým
+aj virtuálnym prostredím (P2V, V2P, P2P, V2V)
+Pamäťové moduly
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Blade, kompatibilné s existujúcim šasi c7000
+
+Procesor
+RAM
+Sieťový adaptér
+FC rozhranie
+USB
+SD card sloty
+PCI sloty
+Grafický adaptér
+
+Správa a manažment
+
+Predporuchová záruka
+Záruka a servis
+Prevedenie
+Výrobca a model: HPE Proliant BL460 Gen9
+Blade server typ II
+
+Predpokladaný počet kusov: 20
+
+Parameter
+
+Požadované minimálne parametre
+Model servera s dvomi procesor typu x86 preukázateľne schopný
+dosiahnuť výkon 990 bodov podľa testu Spec CINT2006rate (base
+result). Osadené dvoma procesormi.
+256GB (8x 32GB), s funkciou detekcie a opravy multibitových chýb,
+on-line spare pamäte, rozšíriteľnosť na min. 2TB
+SAS, podpora RAID 0/1, min. 1GB cache zálohovaná flash, alebo
+ekvivalentným spôsobom
+2 x 300GB 10k rpm, Serial attached SCSI (SAS) 12Gb, hotplug
+2x 10Gbps + 2x 1Gbps
+2x 8Gbps
+
+Procesor
+RAM
+Diskový radič
+Disky
+Sieťový adaptér
+FC rozhranie
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+1 853,00
+
+370,60
+
+2 223,60
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+7 202,00
+
+1 440,40
+
+8 642,40
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+10 822,00
+
+2 164,40
+
+12 986,40
+
+USB
+PCI sloty
+Grafický adaptér
+
+Správa a manažment
+
+Predporuchová záruka
+Prevedenie
+Záruka a servis
+Výrobca a model: HPE Synergy 480 Gen9
+Blade server typ III
+
+1 x interný port
+2 voľné sloty PCI-Express 3.0
+Integrovaný grafický adaptér
+servisný procesor pre systémový manažment poskytujúci podporu
+vzdialeného manažmentu servera cez internet alebo intranet
+pomocou bezpečnej kryptovanej komunikácie (SSL, SSH, AES,
+3DES), podporu štandardu IPMI 2.0 Rozšírené funkcie:
+Podpora grafického rozhrania, Dvojitá autentifikácia s integráciou do
+adresárovej služby (MS AD).
+Podpora záznamu a spätného prehrávania bootovacej obrazovky.
+Licencie na neobmedzené migrácie serverov medzi fyzickým
+aj virtuálnym prostredím (P2V, V2P, P2P, V2V)
+Pamäťové moduly
+Blade, kompatibilné so šasi ponúknutým v nasledujúcom bode
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+
+Predpokladaný počet kusov: 20
+
+Požadované minimálne parametre
+Model servera s dvomi procesor typu x86 preukázateľne schopný
+Procesor
+dosiahnuť výkon 1000 bodov podľa testu Spec CINT2006rate (base
+result). Osadené dvoma procesormi.
+256GB (8x 32GB), s funkciou detekcie a opravy multibitových chýb,
+RAM
+on-line spare pamäte, rozšíriteľnosť na min. 1,5TB
+SAS, podpora RAID 0/1, min. 1GB cache zálohovaná flash, alebo
+Diskový radič
+ekvivalentným spôsobom
+Disky
+2 x 300GB 10k rpm, Serial attached SCSI (SAS) 12Gb, hotplug
+Sieťový adaptér
+2x 10Gbps + 2x 1Gbps
+FC rozhranie
+2x 8Gbps
+USB
+1 x interný port
+PCI sloty
+2 voľné sloty PCI-Express 3.0
+Grafický adaptér
+Integrovaný grafický adaptér
+servisný procesor pre systémový manažment poskytujúci podporu
+vzdialeného manažmentu servera cez internet alebo intranet
+pomocou bezpečnej kryptovanej komunikácie (SSL, SSH, AES,
+Správa a manažment
+3DES), podporu štandardu IPMI 2.0 Rozšírené funkcie:
+Podpora grafického rozhrania, Dvojitá autentifikácia s integráciou do
+adresárovej služby (MS AD).
+Podpora záznamu a spätného prehrávania bootovacej obrazovky.
+Predporuchová záruka
+Pamäťové moduly
+Prevedenie
+Blade, kompatibilné so šasi ponúknutým v nasledujúcom bode
+Záruka a servis
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Výrobca a model: HPE BladeSystem c7000 Enclosure
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+13 376,00
+
+2 675,20
+
+16 051,20
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+61 436,00
+
+12 287,20
+
+73 723,20
+
+Parameter
+
+Chassis typ I
+
+Predpokladaný počet kusov: 1
+
+Parameter
+Celkový počet pozícií pre servery
+Celkový počet pozícií pre pripojovacie prvky
+
+Požadované minimálne parametre
+16 ks blade serverov
+8 ks
+navzájom redundantné napájacie zdroje, plne osadené, za chodu
+meniteľné / dopĺňateľné
+navzájom redundantné ventilátory, plne osadené, za chodu meniteľné
+/ dopĺňateľné
+
+Napájanie
+Chladenie
+
+Správa a manažment
+
+Pripojenie k LAN a SAN
+
+Centrálne pripojenie na LAN
+
+navzájom redundantné servisné karty pre vzdialený systémový
+manažment šasi, serverov a pripojovacích prvkov, za chodu
+meniteľné / dopĺňateľné. Možnosť hromadnej automatizovanej zmeny
+FW edícií resp. ovládačov, možnosť automatického nahlasovania
+incidentov do servisného strediska výrobcu, možnosť sledovať
+hardware stav infraštruktúry v konzole vCenter reps. MS SCVMM.
+Chassis osadené aktívnymi sieťovými prvkami pre pripojenie
+všetkých serverov. Centralizovaný manažment umožňuje prenesenie
+MAC a WWN adries medzi servermi v rámci šasi aj medzi viacerými
+šasi navzájom.
+Centrálne pripojenie do LAN infraštruktúry sa realizuje pomocou
+navzájom redundnatných aktívnych sieťových prvkov s možnosťou
+vytvorenia jedného logického celku (stacking) tak, aby boli využité
+všetky sieťové rozhrania blade serverov. Aktívne prvky sú pripravené
+na pripojenie na 10Gbit infraštruktúru. Požadujeme pripojenie blade
+šasi do externej LAN infraštruktúry pomocou minimálne 4x 1Gbps RJ45 SFP+ a minimálne 4x 10Gb SFP+ SR
+
+Centrálne pripojenie na SAN
+
+Centrálne pripojenie do SAN infraštruktúry je realizované pomocou
+navzájom redundnatných aktívnych prvkov tak, aby boli využité
+všetky FC rozhrania blade serverov; Požadujeme pripojenie blade
+šasi do SAN prostredníctvom minimálne 4x 8Gbps Short wave SFP+
+
+Príslušenstvo:
+
+2x 7.3kVA PDU jednotka 32A
+
+Inštalácia
+Záruka a servis
+Prevedenie
+Výrobca a model: HPE Synergy 12000 Frame
+
+HW inštalácia šasi u zákazníka a implementácia do existujúcej siete
+LAN a SAN
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Rack; výška max 10U
+
+Chassis typ II
+
+Predpokladaný počet kusov: 1
+
+Parameter
+Celkový počet pozícií pre servery
+Celkový počet pozícií pre pripojovacie prvky
+
+Požadované minimálne parametre
+12 ks blade serverov
+6 ks
+navzájom redundantné napájacie zdroje, plne osadené, za chodu
+meniteľné / dopĺňateľné
+navzájom redundantné ventilátory, plne osadené, za chodu meniteľné
+/ dopĺňateľné
+
+Napájanie
+Chladenie
+
+Správa a manažment
+
+Pripojenie k LAN a SAN
+
+Centrálne pripojenie na LAN
+
+Centrálne pripojenie na SAN
+Príslušenstvo:
+Inštalácia
+Záruka a servis
+Prevedenie
+Výrobca a model: HPE Synergy 12000 Frame
+
+Parameter
+Celkový počet pozícií pre servery
+Celkový počet pozícií pre pripojovacie prvky
+
+Požadované minimálne parametre
+12 ks blade serverov
+6 ks
+navzájom redundantné napájacie zdroje, plne osadené, za chodu
+meniteľné / dopĺňateľné
+navzájom redundantné ventilátory, plne osadené, za chodu meniteľné
+/ dopĺňateľné
+
+Správa a manažment
+
+Pripojenie k LAN a SAN
+
+Centrálne pripojenie na LAN
+
+Cena s DPH
+
+74 326,00
+
+14 865,20
+
+89 191,20
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+33 158,00
+
+6 631,60
+
+39 789,60
+
+Chassis osadené aktívnymi sieťovými prvkami pre pripojenie
+všetkých serverov. Centralizovaný manažment umožňuje prenesenie
+MAC a WWN adries medzi servermi v rámci šasi aj medzi viacerými
+šasi navzájom.
+Centrálne pripojenie do LAN infraštruktúry sa realizuje pomocou
+navzájom redundnatných aktívnych sieťových prvkov s možnosťou
+vytvorenia jedného logického celku (stacking) tak, aby boli využité
+všetky sieťové rozhrania blade serverov. Aktívne prvky sú pripravené
+na pripojenie na 10Gbit infraštruktúru. Požadujeme pripojenie blade
+šasi do externej LAN infraštruktúry pomocou minimálne 8x 10Gb
+SFP+ SR
+Centrálne pripojenie do SAN infraštruktúry je realizované pomocou
+navzájom redundnatných aktívnych prvkov tak, aby boli využité
+všetky FC rozhrania blade serverov; požadujeme pripojenie blade
+šasi do SAN prostredníctvom minimálne 8x 8Gbps
+2x 7.3kVA PDU jednotka 32A
+HW inštalácia šasi u zákazníka a implementácia do existujúcej siete
+LAN a SAN
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Rack; výška max 10U
+
+Predpokladaný počet kusov: 1
+
+Chladenie
+
+DPH (20%)
+
+navzájom redundantné servisné karty pre vzdialený systémový
+manažment šasi, serverov a pripojovacích prvkov, za chodu
+meniteľné / dopĺňateľné. Možnosť hromadnej automatizovanej zmeny
+FW edícií resp. ovládačov, možnosť automatického nahlasovania
+incidentov do servisného strediska výrobcu, možnosť sledovať
+hardware stav infraštruktúry v konzole vCenter reps. MS SCVMM.
+
+Chassis typ III
+
+Napájanie
+
+Cena bez DPH
+
+navzájom redundantné servisné karty pre vzdialený systémový
+manažment šasi, serverov a pripojovacích prvkov, za chodu
+meniteľné / dopĺňateľné. Možnosť hromadnej automatizovanej zmeny
+FW edícií resp. ovládačov, možnosť automatického nahlasovania
+incidentov do servisného strediska výrobcu, možnosť sledovať
+hardware stav infraštruktúry v konzole vCenter reps. MS SCVMM.
+Je prípustné využiť manažment moduly zo chassis typ II v prípade, že
+bude zabezpečená vysoká dostupnosť a redundancia takéhoto
+zapojenia.
+Chassis osadené aktívnymi sieťovými prvkami pre pripojenie
+všetkých serverov. Centralizovaný manažment umožňuje prenesenie
+MAC a WWN adries medzi servermi v rámci šasi aj medzi viacerými
+šasi navzájom.
+Centrálne pripojenie do LAN infraštruktúry sa realizuje pomocou
+navzájom redundnatných aktívnych sieťových prvkov s možnosťou
+vytvorenia jedného logického celku (stacking) tak, aby boli využité
+všetky sieťové rozhrania blade serverov. Aktívne prvky sú pripravené
+na pripojenie na 10Gbit infraštruktúru. Požadujeme pripojenie blade
+šasi do externej LAN infraštruktúry pomocou minimálne 4x 10Gb
+SFP+ SR. Je prípustné pripojiť LAN zo chassis typ III na chassis typ
+II tak, aby bola zabezpečená požadovaná priepustnosť na všetky
+servery súčasne (teda bez agregácie, non blocking)
+
+Centrálne pripojenie na SAN
+
+Príslušenstvo:
+Inštalácia
+Záruka a servis
+Prevedenie
+Výrobca a model: HPE 3PAR 8400 2N
+
+Centrálne pripojenie do SAN infraštruktúry je realizované pomocou
+navzájom redundnatných aktívnych prvkov tak, aby boli využité
+všetky FC rozhrania blade serverov; požadujeme pripojenie blade
+šasi do SAN prostredníctvom minimálne 4x 8Gbps. Je prípustné
+pripojiť SAN zo chassis typ III na chassis typ II tak, aby bola
+zabezpečená požadovaná priepustnosť na všetky servery súčasne
+(teda bez agregácie, non blocking)
+2x 7.3kVA PDU jednotka 32A
+HW inštalácia šasi u zákazníka a implementácia do existujúcej siete
+LAN a SAN
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Rack; výška max 10U
+
+Diskové pole I
+
+Predpokladaný počet kusov: 1
+
+Parameter
+El. napájanie
+
+Požadované minimálne parametre
+Redundantné napájanie pomocou pripojenia na PDU
+
+Podpora redundancie kľúčových komponentov
+
+Radiče diskového poľa, cache pamäť, napájacie zdroje, ventilátory
+
+Host konektivita
+
+Min. 4x 16Gb FC s možnosťou rozšírenia na min. 16x 16Gb FC,
+všetky host porty musia obsahovať SFP moduly
+
+Radiče diskového poľa
+
+Min. 2 plne aktív/aktív s možnosťou online rozšírenia na 4. Radiče
+diskového poľa musia poskytovať plne symetrický aktív/aktív prístup
+ku každému volumu cez všetky host porty všetkých radičov
+diskového poľa (nie ALUA). Súčasťou riešenia musia byť multipath
+ovládače pre podporované OS
+
+Počet pevných diskov
+Spare disky
+Podporovaný počet pevných diskov
+Typy podporovaných pevných diskov
+Podporované veľkosti pevných diskov
+
+Cache pamäť
+
+Požadované SW funkcionality
+(v prípade licencovanej vlastnosti požadujeme
+licencie na celú kapacitu poľa)
+
+Správa zariadenia
+
+Podporovaná ochrana dát
+Počet logických jednotiek (LUN)
+Max. podporovaná veľkosť logickej jednotky (LUN)
+Počet pripojiteľných serverov
+Podpora replikácie
+
+Kompatibilné operačné systémy
+
+Správa zariadenia
+Prevedenie
+Redundantné komponenty
+
+Min. 6 x 400GB SSD, 40 x 1,2TB 10k SAS
+V prípade, ak diskové pole používa dedikované spare HDD,
+požadujeme:
+1x 400GB SSD, 2x 1,2TB 10k SAS HDD
+Minimálne 560 HDD diskov
+SAS alebo FC, SSD, Nearline SAS alebo SATA
+SAS 10k rpm –600GB, 1,2TB
+SAS 15k rpm – 300GB, 600GB
+SSD – 400GB a väčšie
+min. 64GB bez použitia flash-cache. Podpora rozšírenia cache
+pamäte pomocou využitia SSD ako flash cache. V prípade
+licencovania, ponuka musí obsahovať potrebné licencie pre flash
+cache.
+Licencie pre správu poľa musia byť časovo neobmedzené,
+licencované na celú dodávanú kapacitu diskového poľa a musia
+umožňovať správu RAID, tvorbu LUN a ich publikovanie k serverom.
+Online rozširovanie veľkosti volumov
+Thin provisioning, Thin Space reclamation. Automatický tiering na
+úrovni častí volumov.
+Nastavenie QoS politík pre jednotlivé volumy.
+Grafické rozhranie a príkazový riadok na správu diskového poľa,
+nástroj na sledovanie kapacity, výkonu diskového poľa a jeho
+komponentov (aktuálnych a historických údajov min. 6-mesiacov
+dozadu)
+Technológia RAID 1, 5, 6, 10
+1024
+16 TB
+512
+Podpora vytvárania snímok (SnapShot) a kópií (Clone) logických
+volumov
+Windows Server 2008
+Windows Server 2012, HyperV,
+RedHat, SuSe Linux,
+VMware
+Grafické rozhranie a príkazový riadok
+Modulárne diskové pole s možnosťou inštalácie do štandardného 19“
+racku, prípadne dodané v samostatnom racku
+Za chodu vymeniteľné zdroje napájania a ventilátory, radiče
+diskového pola, I/O Moduly, pevné disky
+
+Inštalácia
+
+Požaduje sa hardvérová inštalácia technikom s platným certifikátom
+výrobcu pre danú typovú radu zariadení, overenie funkčnosti a
+odovzdanie zariadenia v odporúčanom nastavení výrobcu. Inštalácia
+musí obsahovať pripojenie na vzdialený dohľad support centra
+výrobcu.
+
+Záruka a servis
+
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+
+Iné služby
+
+Automatické hlásenie chybových stavov do servisného centra
+bezplatne počas záručnej doby zariadenia
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+112 067,00
+
+22 413,40
+
+134 480,40
+
+Výrobca a model: NetApp E-Series E2824
+Diskové pole II
+
+Počet kusov: 20
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+22 432,00
+
+4 486,40
+
+26 918,40
+
+DPH (20%)
+
+Cena s DPH
+
+12 399,80
+
+74 398,80
+
+DPH (20%)
+
+Cena s DPH
+
+976,20
+
+5 857,20
+
+Požadované minimálne parametre
+Redundantné napájacie zdroje a chladiace ventilátory
+minimálne prostredníctvom FC a iSCSI, s možnosťou využitia
+Konektivita
+konektivity SAS pomocou rozširujúcej karty
+pole osadené dvomi kontrolérmi s funkcionalitou I/O path failover
+(presmerovania komunikačnej cesty pri výpadku jedného z
+Riadiaca jednotka
+kontrolerov), automatickým load balancingom a monitoringom medzi
+dvoma kontrolermi
+Podpora RAID režimov
+0, 1, 5, 6, 10 a DDP v prípade osadenia adekvátnym počtom diskov
+Požadovaná kapacita
+6x1,2TB HDD v RAID 6 konfigurácii
+Dostupnosť
+Pri voliteľnej konfigurácii poľa možnosť dosiahnuť až 99,999%
+Architektúra diskového poľa má dovoliť voliteľnú hybridnú kombináciu
+Architektúra diskového poľa
+rýchlych SSD diskov a rotačných diskov.
+Systémová polica v prevedení 2RU a s kapacitou min. 24 diskov,
+možnosť voliteľného rozšírenia kapacity poľa na 76,8TB v základnom
+Prevedenie
+prevedení systémovej police a až 1,4 PB pri rozšírení o diskové
+police na maximálnu kapacitu, možnosť voliteľne rozširovať počet
+rotačných diskov až do 180, resp. 120 SSD diskov
+Podpora diskov s kapacitou min. 900GB, 1.2/1.8TB SAS, 1.8TB SAS
+Podporované disky
+10K FIPS, 800GB, 1.6/3.2TB SSD
+1.6TB SSD FIPS
+Škálovateľnosť pri adekvátnej konfigurácii min. s hodnotami: Hostov:
+Škálovateľnosť
+256, volumov: 512, snapshot kópii: 512, zrkadlení: 32
+Podpora kompatibility s VmWare a Microsoft (VmWare vSphere
+Storage API – integrácia s diskovým poľom, Microsoft Offloaded Data
+Kompatibilné operačné systémy
+Transfer – asistovaný dátový transfer z Microsoft prostredia diskovým
+poľom)
+Redundantné komponenty
+Za chodu vymeniteľné zdroje napájania, pevné disky
+Požaduje sa hardvérová inštalácia technikom s platným certifikátom
+Inštalácia
+výrobcu pre danú typovú radu zariadení, overenie funkčnosti a
+odovzdanie zariadenia v odporúčanom nastavení výrobcu.
+Záruka a servis
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Výrobca a model: Vmware vSphere SRM Enterprise
+Cena bez DPH
+Parameter
+El. napájanie
+
+Softwarový nástroj pre nepretržitú dostupnosť
+aplikácií
+
+Predpokladaný počet kusov : 1 x 100 virtuálnych serverov
+
+Parameter
+
+Požadované minimálne parametre
+nástroj pre nepretržitú dostupnosť aplikácií a služieb na základe
+online replikácie dát a monitoringu stavu aplikácií a služieb v oboch
+dátových centrách. Podpora automatického prepnutia služieb
+z pasívneho servera na aktívny v prípade výpadku služby.
+Synchrónna aj asynchrónna replikácia dát umožňujúca replikáciu dát
+cez LAN, WAN a SAN prepojenia, s kompresiou dát pri replikácií.
+Monitoring dostupnosti aplikácií a služieb cez dedikované sieťové
+rozhranie, automatické upozornenia pre správcov, automatické
+prepnutie na funkčný uzol. Automatická migrácia na preferovaný
+server po odstránení chyby.
+
+Základná funkcionalita
+
+Replikačný mechanizmus
+
+Monitoring dostupnosti
+
+61 999,00
+
+(4 x licencia pre 25 serverov)
+
+Integrácia s existujúcim prostredím
+
+Podpora integrácie nástroja s existujúcim nástrojom na správu
+virtualizačnej infraštruktúry VMware vCenter.
+
+Požiadavky na kompatibilitu
+
+Kompatibilita riešenia s existujúcou virtualizačnou technológiou
+verejného obstarávateľa VMware vSphere certifikovaná výrobcom,
+s podporou replikácie medzi virtuálnymi a fyzickými servermi.
+
+Podpora existujúceho aplikačného vybavenia verejného
+obstarávateľa založená na produktoch Microsoft Windows Server
+Chránené aplikácie
+2008 R2 a novších, Microsoft Exchange 2010 a novších, Microsoft
+SQL Server 2008 R2 a novších.
+Zabezpečenie "nepretržitej" vysokej dostupnosti aplikácií a služieb
+v prípade výpadku hardvéru, chyby softvéru, výpadku napájania,
+alebo výpadku celého dátového centra s automatickým aktivovaním
+záložných systémov s definovaným RTO (Recovery Time Objective),
+Úroveň požadovanej ochrany
+t. j. množstvom času potrebného pre obnovenie dát a celej prevádzky
+nedostupného systému;
+Maximálna doba nedostupnosti aplikácií a služieb RTO = max. 2
+minúty mesačne.
+Automatická rekonfigurácia bez potreby spúšťania scriptov na
+chránených systémoch;
+Ďalšie vlastnosti
+Podpora vytvárania snímok (snapshot) aplikácií, služieb a dát pre
+potreby návratu (napr. pre potreby inštalácie bezpečnostných
+aktualizácií, prevencia pred vírusovými nákazami...)
+Záruka a možnosť upgrade-ov
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Ponúkané sú licencie pre 100 virtuálnych serverov. Každý z nich
+bude osadený dvomi procesormi.
+Výrobca a model: VMware vSphere Enterprise Plus
+Cena bez DPH
+Predpokladaný počet kusov: 32
+4 881,00
+Softwarový nástroj pre serverovú virtualizáciu
+
+Softwarový nástroj pre serverovú virtualizáciu
+Parameter
+Základná funkcionalita
+
+Automatizované riadenie zdrojov
+
+Rozšírená funkcionalita
+
+Manažment
+Aktualizačný manažér
+
+Virtuálny sieťový prepínač
+
+Windows Server cluster
+Deduplikácia
+Záruka a možnosť upgrade-ov
+Výrobca a model: VMware vCenter Standard
+Vcenter Server
+
+(licencie pre pokrytie min. 16ks serverov z dôvodu osadenia serverov
+dvomi procesormi)
+Požadované minimálne parametre
+Virtualizačný nástroj s funkcionalitou vysokej dostupnosti virtuálnych
+počítačov (High Availability) a voči chybám hardvéru (Fault
+Tolerance) pre business critical aplikácie
+Možnosť automatickej migrácie virtuálnych počítačov z jedného
+fyzického servera na iný, automatizované dynamické vyvažovanie
+zaťaženia, Správa napájania (Power Management), a on-line
+migrácia virtuálnych diskových zariadení (Storage vMotion) bez
+potreby zásahu administrátora
+Dynamické prideľovanie diskového priestoru, virtuálnych procesorov,
+operačnej pamäte RAM a I/O zdrojov podľa potrieb virtuálnych
+počítačov, jednoduché vytváranie virtuálnych počítačov s pomocou
+predkonfigurovaných šablón
+Škálovateľná a rozširovateľná architektúra, možnosť manažovania
+viacerých inštalácií z jedného miesta, možnosť replikácie rolí,
+oprávnení a licencií v rámci celej infraštruktúry
+Automatická aktualizácia a patchovanie virtuálnych strojov
+a virtualizačnej platformy
+Distribuovaný virtuálny sieťový prepínač (Distributed Network
+vSwitch) a profily pre sledovanie dodržiavania konfigurácie
+virtualizačnej platformy (Host Profiles), centrálna správa a
+monitoring, podpora cluster-level network aggregation
+podpora MSCS vo virtuálnom prostredí s Fibre Channel diskovým
+úložiskom
+Podpora deduplikácie pri vytváraní záloh
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+
+Predpokladaný počet kusov: 1
+
+Neoddeliteľný SW nástroj poskytujúci jednotnú centralizovanú
+správu a management požadovaného virtualizačného prostredia.
+Spravovanie min. 1000 bare metal hypervizor,
+Riadenie zdrojov
+10 000 virtuálnych klientov
+Základná funkcionalita provisioningu, monitorovania a konfiguráciu
+SW funkcionalita
+virtualizačného prostredia, vyhľadávači nástroj z jedného miesta,
+automatizovanie kľúčových IT procesov
+Záruka a možnosť upgrade-ov
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+Výrobca a model: Veeam Availability Suite Enterprise for Vmware
+
+4 881,00
+
+976,20
+
+5 857,20
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+8 715,00
+
+1 743,00
+
+10 458,00
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+36 428,00
+
+7 285,60
+
+43 713,60
+
+Základná funkcionalita
+
+Softwarový nástroj pre zálohovanie logickej
+infraštruktúry
+
+Predpokladaný počet ks: 1
+
+Parameter
+
+Požadované minimálne parametre
+Úplná funkčná kompatibilita a podpora existujúceho virtuálneho
+prostredia Vmware vSphere 6.
+
+Základná funkcionalita
+
+licencie na min. 16 ks serverov osadených po 2 CPU
+
+Centralizované zálohovanie a replikácia systémových a
+užívateľských dát s vysokou granularitou obnovy.
+Zálohovanie dát s natívnou funkcionalitou deduplikácie a kompresie.
+Všetky vlastnosti uvedené v opise musia byť súčasťou licencie.
+
+Rozšírená funkcionalita
+
+Obnova dát na úrovni granularity od úplných virtuálnych strojov, cez
+virtuálne disky až po jednotlivé dátové súbory.
+Rozšírená a bezpečná obnova zálohovaných dát na úrovni
+príslušných objektov z aplikačných sytémov MS SQL, Exchange,
+SharePoint a Active Directory, bez inštalácie agentov do vnútra
+virtuálnych serverov.
+Šifrovanie zálohovaných dát na určenom úložisku vrátane šifrovania
+systémového prenosu dát počas zálohovania.
+Obnova/spustenie požadovaného virtuálneho stroja priamo z miesta
+zálohovacieho úložiska.
+Obnova požadovaných dát priamo zo Storage Snapshots.
+Možnosť vytvárania sekundárnej zálohy na iný typ zálohovacieho
+média
+
+Rozšírená funkcionalita
+
+Natívna podpora zálohovania a integrácia na páskové úložné
+systémy, dohľadávanie konkrétneho virtuálneho stroja na konkrétnom
+dátovom médiu.
+Centrálna konzola pre nastavenie zálohovacích a replikačných
+procesov, monitoring zálohovacieho a replikačného procesu,
+vyhodnocovanie záťaže spôsobenej prenosom dát a identifikácia
+úzkych hrdiel v prenose dát.
+
+Manažment
+
+Manažment
+
+Monitoring virtualizovaného prostredie VMware vSphere,
+vyhodnocovanie stavu, predikcia problémov na základe sledovania
+trendov. Vytváranie kastomizovaných reportov o stave infraštruktúry.
+Možnosť automatizovanej plánovanej kontroly zálohovaných objektov
+formou naštartovania VM a kontroly aplikácie.
+Natívna grafická konzola na obnovenie objektu MS SQL, Exchange,
+SharePoint a Active Directory
+
+Záruka a možnosť upgrade-ov
+
+Podľa servisných podmienok (článok VI. rámcovej dohody).
+Podpora výrobcu a nárok na aktualizácie a nové verzie na obdobie 3
+rokov. Podpora musí byť poskytovaná priamo výrobcom softvéru.
+
+Výrobca a model: HPE SN3000B Fibre Channel Switch
+SAN switch
+
+Predpokladaný počet kusov: 2
+
+Parameter
+Prevedenie
+Technológia
+
+Požadované minimálne parametre
+Umiestniteľné do technologického stojanu (prevedenie
+16Gbps fibre-channel.
+24 fibre-channel portov s priepustnosťou 16Gb/s plne osadených s
+8Gbps shortwave SFP+ modulmi a minimalne jeden port na
+vzdialenosť 10km.
+F_Port, EX_Port, E_Port.
+
+Počet portov
+Podpora FC portov
+Licencie:
+
+Požadujeme dodať licencie na správu switchov, vrátane správy
+užívateľov a bezpečnosti, zón, prepojenia na vzdialenosť väčšiu ako
+10km, QoS, monitorovania výkonu.
+
+Montážne prevedenie
+
+Montovateľné do technologického stojanu.
+
+Káble
+
+12ks LC/LC 5m OM4
+12ks LC/LC 15m OM4
+Grafické rozhranie a príkazový riadok.
+Súčasťou ponuky musí byť inštalácia hardvéru, aktualizácia
+strojových kódov, integrácia do LAN a SAN prostredia, konfigurácia a
+funkčné testovanie
+Podľa servisných podmienok (článok VI. rámcovej dohody)
+
+Správa prepínačov
+Inštalácia
+Záruka:
+
+Cena bez DPH
+
+DPH (20%)
+
+Cena s DPH
+
+31 871,00
+
+6 374,20
+
+38 245,20
+
+

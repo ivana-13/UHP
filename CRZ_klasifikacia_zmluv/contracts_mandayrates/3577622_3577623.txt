@@ -1,0 +1,587 @@
+Zmluva o dielo č. Z201832149_Z
+uzatvorená v zmysle §536 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Kancelária prezidenta Slovenskej republiky
+Hodžovo námestie 1, 81000 Bratislava, Slovenská republika
+30845157
+20 20 851 085
+0
+0
++421-02-5788 8115
+
+Dodávateľ:
+Obchodné meno:
+
+eDevelopment s.r.o.
+
+Sídlo:
+
+Dlhá 2, 90031 Stupava, Slovenská republika
+
+IČO:
+
+35849428
+
+DIČ:
+
+2020208718
+
+IČ DPH:
+
+SK2020208718
+
+Číslo účtu:
+
+SK65 8330 0000 0029 0063 7356
+
+Telefón:
+
+0260252625
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Integrácia Informačných systémov objednávateľa s Ústredným portálom verejnej správy.
+
+Kľúčové slová:
+
+Software, Informačný systém, UPVS, Elektronická schránka OVM
+
+CPV:
+
+72268000-1 - Dodávky softvéru; 72261000-2 - Softvérové podporné služby; 72260000-5 Služby súvisiace so softvérom
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Dodávka programových modulov umožňujúcich komunikáciu objednávateľa napojením na
+Ústredný portál verejnej správy (UPVS). Integrácia programových modulov s existujúcimi
+Informačnými a agendovými systémami objednávateľa.
+
+Funkcia
+Existujúce aplikačné moduly bežia v rámci integrovaného enterprise collaboration systému na báze technológií IBM
+Domino/Notes, IBM Sametime, IBM Connections a ACSIS Framework s účelovým Java plugins. K modulom, ktoré sú
+predmetom integrácie, je objednávateľ vlastníkom licencií spolu s používateľskou a prevádzkovou dokumentáciou bez
+zdrojových kódov.
+1. Preberanie a evidovanie elektronických podaní z UPVS - Autentifikácia používateľa a prihlásenie sa od Elektronickej
+schránky objednávateľa. Stiahnutie doručených podaní a ich vloženie do Registratúrneho systému (RSU).
+2. Príprava elektronických listových zásielok objednávateľa - príprava (odpovede, oznámenia, rozhodnutia, výzvy ...) do formy
+umožňujúcej jej odoslanie do viacstupňového schvaľovacieho procesu a odoslanie adresátovi.
+3. Schvaľovací proces elektronických listových zásielok a objednávateľom vydávaných rozhodnutí - schválenie obsahu
+dokumentu, postupne určenými schvaľovateľmi. Zabezpečenie podrobného auditovania jednotlivých operácií.
+4. Podpisovanie dokumentov a ich doručovanie do elektronických schránok adresátov - Podpisovanie elektronických
+formulárov (a vložených príloh), vloženie časovej pečiatky a ich následné automatické doručovanie do elektronických schránok
+adresátov. Uchovávanie obsahu odosielaných dokumentov a informácií o ich doručení.
+5. Vytváranie, podpisovanie a odosielanie doložiek právoplatnosti - Automatické vytváranie a odosielanie doložiek
+právoplatnosti. Systém zabezpečí vytvorenie doložky, pridelenie čísla, zaradenie do agendového spisu a odoslanie doložky
+žiadateľovi.
+Strana 1 z 6
+
+6. Ďalšie súvisiace a požadované činnosti vyplývajúce z integrácie existujúcich informačných systémov na UPVS.
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Preberanie a evidovanie elektronických podaní z
+UPVS
+
+Automatické prihlásenie sa do UPVS, stiahnutie elektronických
+podaní a vloženie ich obsahu do RSU.
+
+a)
+
+transparentná autentifikácia používateľa z RSU resp. Agendových
+systémov objednávateľa (ASU),
+
+b)
+
+stiahnutie a spracovanie elektronického podania doručeného do
+elektronickej schránky objednávateľa na UPVS a jeho
+zaevidovanie v RSU,
+
+c)
+
+uloženie obsahu dokumentu vrátane príloh do RSU resp. ASU, k
+relevantnému e-záznamu v RSU resp. ASU,
+
+d)
+
+uloženie sprievodných dokumentov (potvrdenie dokladujúceho
+platnosť podpisu) k relevantnému e-záznamu v RSU resp. ASU,
+
+e)
+
+automatické spracovanie doručeniek, identifikácia riadiacich
+parametrov a zápis súvisiacich informácií k relevantnému
+e-záznamu v RSU resp. ASU,
+
+f)
+
+v prípade použitia agendových formulárov zabezpečiť automatické
+priradenie záznamu konkrétnemu organizačnému útvaru,
+
+g)
+
+možnosť pre zamestnanca podateľne RSU resp. garanta ASU
+preposlať chybné alebo nepodstatné podanie.
+
+2. Príprava elektronických listových zásielok
+objednávateľa
+
+Modul na prípravu elektronickej listovej zásielky (odpovede,
+oznámenia, výzvy ...) do formy umožňujúcej jej odoslanie do
+viacstupňového schvaľovacieho procesu a odoslanie adresátovi.
+
+a)
+
+príprava dokumentu pomocou vstupných formulárov pre jednotlivé
+typy elektronických listov,
+
+b)
+
+formuláre musia obsahovať vstupné entity pre určenie typu
+dokumentu (pre stanovenie podpisových postupov), obsahu listu,
+informáciu pre schvaľovateľov listu, adresáta, číslo spisu,
+dátumové údaje ...,
+
+c)
+
+formulár musí umožniť vloženie príloh v rôznych formátoch (PDF,
+DOC, XLS, ...),
+
+d)
+
+integrácia na existujúci modul Organizačná štruktúra, za účelom
+získania informácií o organizačnom zatriedení spracovateľa a jeho
+nadriadených osobách pre stanovenie schvaľovacích postupov,
+
+e)
+
+integrácia na existujúci modul RSU, za účelom automatického
+pridelenia čísla záznamu a zaradenia do agendového spisu,
+
+f)
+
+integrácia na existujúci modul IS Adresár pre získanie aktuálnych
+informácií o adresátovi zásielky,
+
+g)
+
+integrácia na existujúci Centrálny informačný systém a
+zabezpečenie zaslania informácií o pripravovanom rozhodnutí
+objednávateľa do schvaľovacieho procesu.
+
+3. Schvaľovací proces elektronických listových zásielok
+a objednávateľom vydávaných rozhodnutí
+
+Modul na schválenie obsahu dokumentu postupne určenými
+schvaľovateľmi. Zabezpečenie podrobného auditovania
+jednotlivých operácií.
+
+a)
+
+automatický obeh dokumentov v elektronickej forme,
+
+b)
+
+elektronické parafovanie dokumentov schvaľovateľmi v rámci
+interných podmienok spracovania,
+
+c)
+
+možnosť pripomienkovania a vrátenia návrhu dokumentu na
+dopracovanie,
+
+d)
+
+schválenie obsahu dokumentu (podľa podpisových postupov) a
+zabezpečenie trvalej informácie o schválení obsahu dokumentu
+jednotlivými schvaľovateľmi,
+
+e)
+
+komunikáciu s ostatnými existujúcimi systémami objednávateľa a
+novými integračnými modulmi,
+
+f)
+
+zasielanie notifikačných správ o aktuálnom stave dokumentu
+spracovateľovi a schvaľovateľom dokumentu,
+
+Strana 2 z 6
+
+Minimum
+
+Maximum
+
+Presne
+
+g)
+
+uzamknutie obsahu dokumentu po schválení jeho obsahu.
+
+4. Podpisovanie dokumentov a doručovanie do
+elektronických schránok adresátov
+
+Podpisovanie elektronických formulárov (vrátane vložených príloh)
+a ich doručovanie do elektronických schránok adresátov.
+Uchovávanie obsahu odosielaných dokumentov a informácií o ich
+doručení.
+
+a)
+
+v závislosti na type dokumentu podpísanie schváleného
+dokumentu Kvalifikovanou elektronickou pečaťou (KSC) a
+odoslanie dokumentu vrátane príloh do elektronickej schránky
+adresáta prostredníctvom UPVS
+
+b)
+
+v závislosti na type dokumentu podpísanie schváleného
+dokumentu Mandátnym certifikátom zamestnanca (MC) a
+odoslanie dokumentu vrátane príloh do elektronickej schránky
+adresáta prostredníctvom UPVS
+
+c)
+
+v závislosti od typu dokumentu, automatické podpísanie vloženej
+prílohy (vo formáte PDF) kvalifikovanou elektronickou pečaťou
+(alebo mandátnym certifikátom) a prevod do formátu Asic-E,
+
+d)
+
+vloženie a odoslanie príloh v rôznych formátoch (ASICE, DOC,
+XLS, ...), bez ich podpisovania,
+
+e)
+
+integrácia na existujúci modul s adresami spoločností pre získanie
+aktuálnej informácii o adresátovi,
+
+f)
+
+integrácia na existujúci modul RSU resp. ASU, za účelom
+automatického pridelenie čísla záznamu a jeho zaradenie do
+agendového spisu,
+
+g)
+
+integrácia na existujúci modul RSU resp. ASU, za účelom
+ukladania kompletného obsahu odoslaného e-záznamu do RSU
+resp. ASU,
+
+h)
+
+uchovanie informácie o evidenčných číslach dokumentov pre ich
+použitie v následných integračných postupoch
+
+i)
+
+evidenciu a vyhodnotenie správy z UPVS o prijatí dokumentu na
+spracovanie, v prípade neúspešného spracovania zaslanej správy,
+zaslanie notifikácie spracovateľovi a opakovanie odoslania správy
+
+5. Vytváranie, podpisovanie a odosielanie doložiek
+právoplatnosti
+
+Automatické vytváranie a odosielanie doložiek právoplatnosti.
+Systém zabezpečí vytvorenie doložky, pridelenie čísla, zaradenie
+do agendového spisu a odoslanie žiadateľovi.
+
+a)
+
+na základe údajov o vydanom rozhodnutí (uložených v ASU a
+RSU), vytvoriť dokument - doložku, obsahujúci platnou legislatívou
+vyžadované informácie a samotný dokument s rozhodnutím
+
+b)
+
+podpísanie doložky kvalifikovanou elektronickou pečaťou
+objednávateľa
+
+c)
+
+automatické odoslanie doložky prostredníctvom UPVS do
+elektronickej schránky žiadateľa
+
+d)
+
+evidenciu správy z UPVS o prijatí správy (doložky) na spracovanie
+
+e)
+
+v prípade neúspešného spracovania zaslanej správy, zaslanie
+notifikácie spracovateľov a umožnenie opakovaného odoslania
+správy
+
+f)
+
+automatickú evidenciu obsahu doložky k relevantnému e-záznamu
+v RSU resp. ASU.
+
+6. Ďalšie súvisiace a požadované činnosti
+a)
+
+aktívna podpora pri uzatváraní dohôd o integračných zámeroch
+(dodanie podkladov o pripravovaných moduloch, účasť na
+rokovaniach),
+
+b)
+
+integrácia existujúceho modulu s adresami subjektov na Register
+právnických osôb,
+
+c)
+
+umoženie automatického ukladanie odoslaných a prijatých
+elektronických záznamov do modulu dlhodobého uchovávania po
+jeho sfunkčnení,
+
+d)
+
+príprava a nasadenie rôznych typov elektronických formulárov pre
+zabezpečenie funkcionalít jednotlivých modulov informačného
+systému,
+
+Strana 3 z 6
+
+e)
+
+zabezpečenie systému podrobného auditovania operácií
+(logovanie jednotlivých akcií do samostatnej databázy),
+
+f)
+
+zabezpečenie napojenia na existujúci full-text engine RSU resp.
+ASU,
+
+g)
+
+umožniť dodatočné zašifrovanie citlivých informácií v RSU resp.
+ASU.
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+1) Predmetom zmluvy je úprava práv a povinností zmluvných strán pri poskytovaní služieb ktorých predmetom je záväzok
+dodávateľa vykonať pre objednávateľa služby za podmienok stanovených zmluvou a záväzok objednávateľa poskytnuté
+služby, ktoré sú predmetom plnenia prevziať a zaplatiť dodávateľovi dohodnutú cenu.
+2) Predmetom Plnenia (t.j. riešenia) sú softwarové produkty a služby spojené s integráciou a implementáciou pripojenia
+modulov informačného systému objednávateľa na Ústredný portál verejnej správy, vrátane inštalácie na mieste plnenia.
+3) Riešenie musí obsahovať kompletnú funkčnú dodávku integračných modulov vrátane návrhu realizačného projektu,
+nevyhnutných licencií, inštalácie, konfigurácie, projektového riadenia, aktualizácie, zaškolenie zamestnancov objednávateľa v
+potrebnom rozsahu, dodanie úplnej potrebnej dokumentácie pre potreby objednávateľa, ako aj pre potrebnú integráciu na iné
+systémy.
+4) Riešenie musí byť implementované v súlade so zákonom č. 395/2002 Z. z. o archívoch a registratúrach a následných
+novelizácií, v súlade s vyhlášku MV SR č. 628/2002 Z. z. a vyhláškou MV SR č. 410/2015 Z. z.
+5) Riešenie musí disponovať certifikátom o posúdení zhody s požiadavkami výnosu Ministerstva vnútra SR č. 525/2011 Z.z. o
+štandardoch pre elektronické informačné systémy na správu registratúry s úrovňou hodnotenia „Vysoká úroveň“ v čase
+nasadenia riešenia.
+6) Riešenie musí byť implementované v súlade s ďalšími všeobecne záväznými právnymi predpismi, najmä: Zákon č.
+305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov,
+Výnos MF SR č. 55/2014 Z.z. o štandardoch pre ISVS.
+7) Riešenie musí zabezpečiť obmedzený prístup k osobným údajom, napr. anonymizácia osobných údajov, ktorá zabezpečí
+plnenie nového všeobecného nariadenia o ochrane osobných údajov a nového zákona č. 18/2018 Z. z. o ochrane osobných
+údajov.
+8) Neoddeliteľnou súčasťou riešenia je vykonávanie upgrade integračného modulu podľa platnej legislatívy, najmenej po dobu
+poskytovanej záruky na dodaný predmet Plnenia. Záručná doba na predmet Plnenie v celom rozsahu je dohodnutá po dobu
+48 mesiacov od ukončeného plnenia, prevzatia predmetu Plnenia zástupcom objednávateľa a podpísania preberacieho
+protokolu.
+9) Súčasťou dodávky budú: Podrobná dokumentácia a návod na použitie v slovenskom jazyku, technická dokumentácia
+programu, užívateľská dokumentácia programu.
+10) Zhotoviteľ je povinný do svojej ponuky zahrnúť aj náklady na základný maintenance dodaných modulov na obdobie 4.
+rokov. Maintenace musí zahŕňať odstránenie nedostatkov, prípadne skrytých prevádzkových chýb v dodaných moduloch a
+riešenie bežných pripomienok objednávateľa na úpravu a existujúcich funkcionalít a integračných modulov. Rozsiahle
+požiadavky vyplývajúce z legislatívnych zmien budú riešené samostatne po vzájomnej dohode oboch zmluvných strán.
+11) Zhotoviteľ poskytne bezplatnú adekvátnu užívateľskú podporu počas 4. rokov od odovzdania do ostrej prevádzky v
+produkčnom prostredí, ktorá bude zahŕňať konzultácie ohľadom užívateľského rozhrania, interpretácie získaných výsledkov a
+informácii týkajúcich sa možností a obmedzení softvéru.
+12) Riešenie vytvorené na základe Zmluvy je dielom v zmysle Autorského zákona, ku ktorému majetkové práva vykonáva
+Zhotoviteľ.
+13) Zhotoviteľ v zmysle § 65 a nasl. Autorského zákona bezodplatne a bezpodmienečne udeľuje Objednávateľovi vecne,
+miestne a časovo neobmedzenú, výhradnú, trvalú licenciu, obsahom ktorej je nerušené a neobmedzené použitie Diela (ďalej
+len „Licencia“). Licencia neobsahuje infraštruktúrne komponenty tretích strán.
+14) Zároveň je Objednávateľ na základe licencie, platne a účinne nadobudnutej v zmysle bodu 13. tejto časti Zmluvy,
+oprávnený bez obmedzenia a bez predchádzajúceho, dodatočného alebo osobitného súhlasu Zhotoviteľa uplatňovať
+majetkové práva k Dielu, ako aj iné práva duševného vlastníctva k Dielu, v dôsledku čoho je Objednávateľ oprávnený všetky
+práva duševného vlastníctva nerušene a neobmedzene aplikovať, užívať, požívať, prepracovať, spracovať, adaptovať a ďalej
+vyvíjať.
+15) Ak Zhotoviteľ pri vytváraní Diela, prípadne jeho časti, ktorá bude predstavovať dielo podľa Autorského zákona, poverí tretiu
+osobu, je Zhotoviteľ povinný zabezpečiť, aby mu táto osoba udelila licenciu na jeho použitie v rozsahu rovnakom, ako je
+uvedené v bode 14 tejto časti Zmluvy, a to tak, aby Zhotoviteľ bol oprávnený licenciu postúpiť na Objednávateľa v súlade s
+touto Zmluvou v rozsahu uvedenom v tejto časti Zmluvy. Zároveň je Zhotoviteľ povinný odovzdať Objednávateľovi písomné
+vyhlásenie tretej osoby potvrdzujúce súhlas s postúpením licencie.
+
+Strana 4 z 6
+
+16) Ak je Zhotoviteľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí
+uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z.z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z.z.
+17) Cena za Plnenie je stanovená v súlade s § 3 zákona č. 18/1996 Z. z. o cenách a jeho vykonávacej vyhlášky č. 87/1996 Z.
+z. dohodou zmluvných strán.
+18) V dohodnutej cene za predmet Plnenia sú zahrnuté náklady na dopravu do miesta Plnenia, inštalácia, projektové riadenie,
+softwarové licencie, náklady na základný maintenance dodaných modulov na obdobie 4. rokov, uvedenie do prevádzky,
+poučenie a zaškolenie obsluhy v požadovanom rozsahu a pod. vrátane ostatných nákladov spojených s dodávkou predmetu
+Plnenia. Cena je uvádzaná v mene Slovenskej republiky v EUR. Dohodnutá cena je maximálna a konečná.
+19) Objednávateľ si vyhradzuje právo neprevziať Plnenie neúplné alebo vadné. V prípade, keď na základe skúšobnej
+prevádzky a fyzickej kontroly zistí nezrovnalosti – zrejmé chyby a vady Plnenia, resp. jeho nesúlad so zmluvou, Plnenie
+neprevezme a vystaví protokol nezrovnalostí. Zhotoviteľ je povinný na vlastné náklady zrejmé vady dodávok odstrániť a to
+najneskôr do 48 hodín hodín od uplatnenej reklamácie.
+20) Objednávateľ požaduje aby dodávateľ predmetu zákazky bol autorizovaný IBM Software Practice Accreditation Business
+Partner for IBM Domino/Notes.
+21) Zhotoviteľ najneskoršie do 3 pracovných dní odo dňa uzavretia zmluvy (vygenerovaním zmluvy funkcionalitami EKS)
+predloží objednávateľovi:
+a) požadované autorizačné certifikáty spoločnosti IBM,
+b) podrobný štruktúrovaný rozpočet s konkrétnym návrhom riešenia predmetu Plnenia.
+22) Nedodržiavanie ktorejkoľvek podmienky a požiadavky objednávateľa predmetu zákazky uvedenej v Opisnom formulári sa
+bude považovať na podstatné porušenie zmluvných podmienok. Objednávateľ predmetu zákazky si vyhradzuje právo na
+odstúpenie od zmluvy a vyhotovenie negatívnej referencie zhotoviteľovi predmetu zákazky.
+23) Zmluva môže zaniknúť okrem riadneho splnenia všetkých práv a povinností zmluvných strán z nej vyplývajúcich, na
+základe dohody zmluvných strán alebo spôsobmi uvedenými v zákone a v obchodných podmienkach Elektronického trhoviska,
+výpoveďou s výpovednou lehotou 14 dní. Výpovedná lehota plynie odo dňa nasledujúceho po dni doručenia výpovede druhej
+zmluvnej strane.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Štefánikova 2
+
+Čas / lehota plnenia zmluvy:
+06.08.2018 09:28:00 - 14.12.2018 09:26:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+Mesiac
+
+Požadované množstvo:
+
+48,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 23 900,00 EUR
+
+Strana 5 z 6
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 28 680,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 03.08.2018 10:02:00
+Objednávateľ:
+Kancelária prezidenta Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+eDevelopment s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 6 z 6
+
+

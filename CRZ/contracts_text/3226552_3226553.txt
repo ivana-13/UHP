@@ -1,0 +1,332 @@
+Kúpna zmluva č. Z201763413_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Finančné riaditeľstvo Slovenskej republiky
+Lazovná 63, 97401 Banská Bystrica, Slovenská republika
+42499500
+2023395253
+SK2023395253
+SK1481800000007000437837
++421 249234336
+
+Dodávateľ:
+Obchodné meno:
+
+Disig, a.s.
+
+Sídlo:
+
+Záhradnícka 151, 82108 Bratislava, Slovenská republika
+
+IČO:
+
+35975946
+
+DIČ:
+
+2022116976
+
+IČ DPH:
+
+SK2022116976
+
+Číslo účtu:
+
+SK1111000000002625768772
+
+Telefón:
+
+0220850140
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Nákup sieťových serverov pre antispamové riešenie systému elektronickej pošty
+
+Kľúčové slová:
+
+nákup serverov; antispamové riešenie systému elektronickej pošty
+
+CPV:
+
+48811000-6 - Systémy elektronickej pošty; 48821000-9 - Sieťové servery; 60000000-8 Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Zoznam položiek:
+1. Základná konfigurácia servera musí minimálne obsahovať
+2. Požiadavky na manažment zariadení
+Položka č. 1:
+
+Základná konfigurácia servera musí minimálne obsahovať
+
+Funkcia
+Brána pre elektronickú poštu na dedikovanom hardvérovom zariadení pre min. 10 000 používateľov
+Výkon emailovej brány škálovaný na doručenie min. 20 "čistých" emailových správ za sekundu (t. j. správ, ktoré sú doručené
+koncovým používateľom po splnení všetkých antispam pravidiel, antimalware filtrovania a lokálnych filtrov.
+V prípade ponuky s viacerými hardvérovými zariadeniami, každé zariadenie musí spĺňať nasledujúce parametre: 1. veľkosť
+zariadenia max. 2RU; 2. sieťová konektivita min. 4RJ-45 GE porty; 3. min. 1 dedikovaný port pre OOB manažment; 4. min. 2
+vstavané redundantné napájacie zdroje (AC 230V); 5. dátové úložisko s celkovou kapacitou min. 2 TB a hot-swap diskami v
+RAID konfigurácii).
+Súčasťou ponuky musí byť licencia pre 10 000 používateľov na prevádzku emailovej brány s podporou reputačného filtrovania,
+antispam, ochrany proti "day - 0" hrozbám a antimalware.
+Dokázateľne efektívny antispam na úrovni min. 98 % s globálnym reputačným filtrovaním na úrovni min. 300 miliárd
+spamových správ denne.
+Verejne dostupné informácie o prebiehajúcich spamových kampaniach (dodávateľ je zároveň autorom informácií)
+Prístup na portál znalostnej databázy
+Strana 1 z 4
+
+Podpora pre RFC5321 SMTP.
+Podpora pre RFC3207 Secure AMTP over TLS.
+Podpora pre RFC4871 DKIM singing and verification.
+Podpora pre RFC4870 DomainKeys singing and verefication.
+Podpora pre RFC4408 Sender Policy Framework verefication.
+Podpora pre kontrolu certifikátov TLS.
+Na základe reputačného filtrovania musí byť možné: 1. odmietnuť TCP spojenie; 2. prijať TCP spojenie a odmietnuť prijatie
+správy v rámci SMTP komunikácie (SMTP reject); 3. obmedziť počet správ prijatých od odosielateľa; vypnúť skenovanie správ
+pre vybraného odosielateľa.
+Podpora pre smerovanie správ s využitím LDAP.
+Podpora pre prepis adresy odosielateľa a príjemcu s pomocou LDAP.
+Verifikácia príjemcu v LDAP - odmietnutie správy pre neexistujúceho príjemcu, bez toho, aby bol prijatý obsah správy.
+Antispam akcia pre podozrivé emaily - doručenie, zahodenie, karanténa, doručenie ako príloha, presmerovanie, prepísanie
+podozrivých URL.
+Limitovanie maximálneho počtu súčasných spojení pre odosielateľa.
+Limitovanie maximálneho počtu správ na spojenie.
+Limitovanie maximálneho počtu príjemcov správy.
+Limitovanie maximálneho počtu príjemcov v čase.
+Podpora pre SMTP autentifikáciu.
+Ochrana pred directory harvest útokmi.
+Ochrana pred "greymail" a "bounce" spamom.
+Ochrana proti "spoofed" emailom, napr. správy s falošne udaným odosielateľom.
+Možnosť definovania "white/black" listov.
+Kontrola emailových príloh pomocou antimalware.
+Analýza súborov min. 2 nezávislými skenovacími engine.
+Reputačné filtrovanie súborov.
+Filtrovanie príloh na základe obsahu emailu (napr. kľúčové slová).
+Filtrovanie príloh na základe typu a veľkosti súboru.
+Filtrovanie príloh na základe obsahu súboru.
+Podpora regulárnych výrazov vo filtroch pre emailové správy.
+HTTPS manažment a CLI prístup pomocou SSH.
+Prístup na manažment a CLI po úspešnom overení používateľa
+Podpora rolí používateľov - min. administrátor, operátor, read - only.
+Podpora Syslog, SNMP, XML.
+Technické vlastnosti
+
+Jednotka
+
+Brána pre elektronickú poštu na dedikovanom
+hardvérovom zariadení pre min. 10 000 používateľov
+
+ks
+
+2
+
+Licencia pre 10 000 používateľov na prevádzku
+emailovej brány s podporou reputačného filtrovania,
+antispam, ochrany proti "day-0" hrozbám a malware
+
+ks
+
+10000
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Položka č. 2:
+
+Minimum
+
+Maximum
+
+Požiadavky na manažment zariadení
+
+Funkcia
+Softvér určený pre virtuálneho prostredia Vmware, HyperV alebo KVM.
+Podpora centrálneho manažmentu pre viac emailových brán, prípadná licencia je súčasť cenovej ponuky.
+Plný reporting prijímaných a odosielaných správ so širokými možnosťami.
+Strana 2 z 4
+
+Presne
+
+Centrálna karanténa a trasovanie emailov.
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+2.3
+
+Minimum
+
+Maximum
+
+Presne
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Vrátane inštalácie na mieste plnenia
+Dodávateľ je povinný predložiť podrobný rozpočet obsahujúci ceny (cena bez DPH, DPH, cena s DPH) jednotlivých položiek
+do 7 kalendárnych dní od účinnosti zmluvy. Všetky ceny uvedie zaokrúhlene na dve desatinné miesta.
+Dodávateľ je povinný dodať nový, doposiaľ nepoužitý krabicový softvér
+Požadovaná lehota dodania do 21 dní odo dňa podpisu zmluvy
+Dodávateľ zabezpečí opravu alebo výmenu do 48 hod. od oznámenia poruchy.
+Dodávateľ zabezpečí nástup na záručný servis do 24 hod. od oznámenia poruchy.
+Záruka na HW komponenty min. 2 roky v mieste inštalácie.
+Dodávateľ predloží objednávateľovi projektovú a technickú dokumentáciu.
+Dodávateľ zabezpečí pre objednávateľa dokumentáciu a zaškolenie administrátorov (8 h onsite školenie).
+Dodávateľ predloží objednávateľovi návrh bezpečnostných pravidiel a politík pre pilotné nasadenie.
+Základná inštalácia a konfigurácia zariadení do existujúcej infraštruktúry.
+Dodávateľ vykoná prípravu sieťového a aplikačného prostredia.
+Dodávateľ vykoná audit a analýzu existujúceho stavu (sieťová/aplikačná vrstva, politiky...).
+Dodávateľ dodá potrebné licencie pre emailové kontá objednávateľa v počte 10 000 ks na obdobie 1 roka.
+Dodávateľ predloží objednávateľovi do 7 dní odo dňa podpísania zmluvy potvrdenie od výrobcu, že dodávateľ je autorizovaný
+predávať a inštalovať predmet zákazky.
+Na predmet zákazky objednávateľ neposkytuje žiadne preddavky ani zálohové platby. Predmet zákazky bude financovaný z
+rozpočtových prostriedkov objednávateľa.
+Miesto dodania - Banskobystrický kraj. Presná adresa miesta dodania vrátane kontaktov bude poskytnutá dodávateľovi.
+Cenu je možné meniť iba pri zmene zákonnej sadzby DPH, pri zmene colných a daňových prepisov, v dôsledku legislatívnych
+zmien, ktoré majú dopad na tvorbu ceny, alebo preukázateľnou zmenou výrobných cien vždy len po vzájomnej dohode
+zmluvných strán v zmysle zákona č. 18/1996 Z. z. o cenách a jeho vykonávacej vyhlášky č. 87/1996 Z. z..
+Ak dodávateľ nie je platcom DPH, musí túto skutočnosť uviesť v ponuke.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Banskobystrický
+
+Okres:
+
+Banská Bystrica
+
+Obec:
+
+Banská Bystrica
+
+Ulica:
+
+Nová 13
+
+Čas / lehota plnenia zmluvy:
+
+Strana 3 z 4
+
+01.12.2017 09:15:00 - 22.12.2017 14:00:00
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+3,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.2, účinná zo dňa 4.11.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 113 300,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 135 960,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 30.11.2017 09:54:01
+Objednávateľ:
+Finančné riaditeľstvo Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Disig, a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

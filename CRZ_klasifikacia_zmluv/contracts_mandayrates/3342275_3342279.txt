@@ -1,0 +1,530 @@
+Zmluva o poskytovaní služieb technickej
+podpory Millennium Care
+č. 0202/M000/2018
+Millennium, spol. s r. o.
+Environmentálny fond
+
+Poskytovateľ
+Millennium, spol. s r. o.
+Plynárenská 7/C
+821 09 Bratislava 2
+Slovenská republika
+Spoločnosť Millennium, spol. s r. o. je zapísaná v Obchodnom registri Okresného súdu
+Bratislava I, oddiel Sro, vložka číslo 21072/B.
+Tel. č.: 02/59 100 300
+E-mail: mail@millennium.sk
+IČO: 35781271
+IČ DPH: SK2020222446
+Bankový ústav: VÚB, a. s., Bratislava
+Číslo účtu: SK10 0200 0000 0016 4230 4051
+V zastúpení: Miroslav Krempaský, konateľ
+(v ďalšom texte ako „Poskytovateľ“)
+
+Objednávateľ
+Environmentálny fond
+Martinská 49,
+821 05 Bratislava
+Tel. č.: +421906311905
+E-mail: podatelna@envirofond.sk
+IČO: 30 796 491
+DIČ: 2021925774
+Bankový ústav: Štátna pokladnica
+Číslo účtu: 7000198071/8180
+V zastúpení:
+Mgr. Peter Kalivoda, riaditeľ
+(v ďalšom texte ako „Objednávateľ“)
+
+Zmluvné strany sa v zmysle príslušných ustanovení Obchodného zákonníka dohodli na uzatvorení
+tejto zmluvy o poskytovaní služieb technickej podpory Millennium Care v nasledovnom znení (ďalej
+len „zmluva“):
+
+1
+
+Slovník pojmov
+1.1 Aplikácia – dielo, pre ktoré sa poskytujú služby technickej podpory Millennium Care podľa
+tejto zmluvy, vytvorené Poskytovateľom pre Objednávateľa na základe:
+a)
+
+tejto zmluvy;
+
+b)
+
+zmluvy o dielo uzatvorenej medzi zmluvnými stranami.
+
+1.2 Akceptačný proces – proces, v priebehu ktorého je Objednávateľom posúdená funkčnosť
+zmien a inovácií Aplikácie v súlade so záväznou požiadavkou na zmenu predloženou
+Objednávateľom v súlade s podmienkami tejto zmluvy.
+1.3 Akceptačný protokol – dokument podpísaný obidvoma zmluvnými stranami potvrdzujúci
+ukončenie akceptačného procesu a prevzatie výsledku služieb poskytnutých podľa tejto
+zmluvy Objednávateľom.
+1.4 Autorský zákon – zákon NR SR č. 618/2003 Z. z. o autorskom práve a právach súvisiacich
+s autorským právom (autorský zákon) v znení neskorších predpisov.
+1.5 Dedikovanie ľudských zdrojov – pridelenie poverených ľudských zdrojov Poskytovateľa,
+ktoré participovali počas priebehu vývoja Aplikácie alebo boli zaškolení do Funkčnej
+a Technickej špecifikácie projektu.
+1.6 Funkčná špecifikácia – dokument, ktorý popisuje Aplikáciu najmä z funkčného hľadiska.
+1.7 Nezhoda – odchýlka resp. nesúlad s Funkčnou alebo Technickou špecifikáciou, spôsobujúca
+neplnenie funkcií dodávanej Aplikácie.
+1.8 Obchodný zákonník – zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov.
+1.9 Používateľská podpora – konzultácie a súvisiace poradenstvo pre koncových používateľov
+Aplikácie súvisiace s jej používaním a funkčnosťou, ktoré Poskytovateľ poskytol v súlade
+s touto zmluvou.
+1.10 Pracovný deň – pracovný deň podľa kalendára platného pre Slovenskú republiku.
+1.11 Pracovná doba – pracovné dni od 8.00 hod. do 17.00 hod.
+1.12 Preberací protokol – dokument podpísaný obidvoma zmluvnými stranami potvrdzujúci
+zrealizovanie služieb poskytnutých podľa tejto zmluvy.
+
+1.13 Prevádzkové prostredie – technické prostredie, v ktorom Objednávateľ používa Aplikáciu
+pre svoju činnosť.
+1.14 Projekt – súbor prác a služieb poskytovaných Poskytovateľom Objednávateľovi podľa tejto
+zmluvy v rámci poskytovania technickej podpory, so špecifikovaným a schváleným
+rozsahom prác a časovým plánom.
+1.15 Projektohodina (PH) – jednotka pracovnej kapacity Poskytovateľa zodpovedajúca práci
+jedného člena projektového tímu Poskytovateľa po dobu jednej hodiny.
+1.16 Projektodeň (PD) – jednotka pracovnej kapacity Poskytovateľa zodpovedajúca práci
+jedného člena projektového tímu Poskytovateľa po dobu jedného dňa (zodpovedá ôsmim
+projektohodinám).
+1.17 Projektový tím – tím pracovníkov Poskytovateľa realizujúci práce a služby objednané
+Objednávateľom na Aplikácii.
+1.18 Technická špecifikácia – dokument, ktorý detailne definuje technické riešenie
+vymedzených funkčných vlastností Aplikácie a výsledkov služieb poskytnutých podľa tejto
+zmluvy vyplývajúcich z Funkčnej špecifikácie.
+1.19 Technické prostredie – súhrn hardwarových a softwarových prostriedkov Objednávateľa
+vytvárajúcich podmienky pre poskytnutie služieb podľa tejto zmluvy.
+1.20 Testovacie prostredie – technické prostredie, v ktorom si Objednávateľ overuje vlastnosti
+Aplikácie a výsledkov služieb poskytnutých podľa tejto zmluvy.
+1.21 Výkaz stavu Aplikácie – podrobný zoznam všetkých prijatých požiadaviek na zmenu
+Aplikácie, zapracovaných zmien, operatívnych zásahov, poskytnutej telefonickej podpory
+a ostatných vykonaných činností pracovníkov Poskytovateľa pre Objednávateľa počas
+definovaného časového obdobia.
+1.22 Vývojové prostredie – technické prostredie v sídle Poskytovateľa, v ktorom Poskytovateľ
+vyvíja Aplikáciu a overuje jej vlastnosti.
+
+2
+
+Predmet zmluvy
+2.1 Predmetom tejto zmluvy je záväzok Poskytovateľa poskytovať Objednávateľovi služby
+technickej podpory Millennium Care (ďalej len „Služby“), súvisiace s prevádzkou a ďalším
+vývojom aplikácie Elektronický register starých (ďalej len „Aplikácia“).
+Služby v sebe zahŕňajú tieto činnosti:
+a)
+
+Hosting riešenia
+
+b)
+
+SW Licencie
+
+c)
+
+Zabezpečenie priamej linky do systému IS NEV na MV SR
+
+d)
+
+Podpora aplikácie
+
+
+
+Riešenie incidentov na úrovni samotnej aplikácie
+
+
+
+Riešenie incidentov v súvislosti s výpadkom hostingu riešenia
+
+Podrobný popis činností sa nachádza v prílohe č. 1 ku zmluve
+
+2.2 Objednávateľ sa zaväzuje ním objednané plnenie podľa predmetu tejto zmluvy prevziať
+v čase dohodnutom v tejto zmluve (článok 3) a zaplatiť za plnenie cenu podľa článku 5.
+
+3
+
+Doba plnenia
+3.1 Poskytovateľ sa zaväzuje realizovať Služby podľa bodu 2.1 tejto zmluvy v období
+platnosti zmluvy od 01.03.2018 do 28.02.2019 podľa podmienok stanovených v
+tejto zmluve.
+3.2 V prípade omeškania Objednávateľa s platením cien alebo ich častí podľa tejto zmluvy
+je Poskytovateľ oprávnený po písomnom upozornení Objednávateľa, pozastaviť
+poskytovanie služieb podľa tejto zmluvy, pokiaľ nedôjde k úhrade všetkých splatných
+a neuhradených pohľadávok zo strany Objednávateľa.
+3.3 Ak dôjde k zastaveniu prác podľa prv uvedených bodov tohto článku tejto zmluvy,
+má Poskytovateľ nárok na úhradu účelne vynaložených nákladov, ktoré mu vznikli
+v súvislosti so zastavením a následným obnovením prác. Poskytovateľ je oprávnený
+ich vyfakturovať Objednávateľovi ihneď po tom, ako mu vznikli. Objednávateľ je povinný
+ich uhradiť v lehote platnej pre splatnosť faktúry ( bod 6.4).
+
+4
+
+Miesto plnenia
+4.1 Činnosť podľa predmetu tejto zmluvy bude Poskytovateľ vykonávať vo svojich priestoroch,
+resp. po vzájomnej písomnej dohode na mieste určenom Objednávateľom, pokiaľ
+je to technicky možné.
+
+5
+
+Cena poskytovaných služieb
+5.1 Cena za služby podľa bodu 2.1 je 1 000 Eur bez DPH mesačne.
+5.2 Zmluvné strany sa dohodli podľa zákona č. 18/1996 Z. z. o cenách v znení neskorších
+predpisov, že cena za objednané plnenie (definované v článku 2 tejto zmluvy) je stanovená
+ako zmluvná cena.
+5.3 Ak v priebehu kalendárneho mesiaca neboli vyčerpané Služby v rozsahu špecifikovanom
+touto zmluvou, nie je tým dotknutý nárok Poskytovateľa na úhradu ceny za tieto Služby
+v plnej výške.
+
+6
+
+Platobné podmienky
+6.1 Cena za poskytnuté Služby bude fakturovaná mesačne, pričom faktúra bude zasielaná
+na adresu Objednávateľa uvedenú v tejto zmluve.
+6.2 Objednávateľ sa zaväzuje Poskytovateľovi uhradiť odmenu za Služby za každý aj začatý
+mesiac.
+6.3 Poskytovateľ je oprávnený vystavovať faktúru vo výške dohodnutej ceny vždy v prvý deň
+nasledujúceho kalendárneho mesiaca a to na základe Objednávateľom podpísaného
+výkazu poskytnutých služieb.
+6.4 Sumu fakturovanú za poskytnuté Služby uhradí Objednávateľ Poskytovateľovi
+do 30 kalendárnych dní po obdŕžaní faktúry. Faktúra sa považuje za doručenú tretím
+pracovným dňom po jej preukázateľnom odoslaní, v prípade, že jej prevzatie
+Objednávateľom bolo odoprené. Za uhradenú sa faktúra považuje dňom doručenia príkazu
+na úhradu bankovej inštitúcii.
+6.5 V prípade, že faktúra neobsahuje určené náležitosti, príp. v nej nie sú uvádzané správne
+údaje, môže ju Objednávateľ vrátiť Poskytovateľovi na prepracovanie, najneskôr však
+do piatich kalendárnych dní po jej obdŕžaní a s uvedením chýbajúcich náležitostí alebo
+nesprávnych údajov. V prípade, ak je faktúra vrátená Poskytovateľovi podľa
+predchádzajúcej vety dôvodne, pre opätovne doručenú opravenú faktúru plynie nová
+lehota splatnosti podľa bodu 6.4 tohto článku.
+
+7
+
+Podmienky poskytovania služieb
+7.1 Služby špecifikované v článku 2 tejto zmluvy budú Poskytovateľom poskytované na základe
+iniciatívy Objednávateľa.
+7.2 V závislosti od charakteru a rozsahu požiadaviek na zmenu alebo požiadaviek o výkon
+služieb si Poskytovateľ a Objednávateľ môžu dohodnúť komunikáciu v elektronickej forme.
+Takáto dohoda musí byť v písomnej forme a podpísaná oboma zmluvným stranami.
+
+8
+
+Odovzdanie a prevzatie služieb
+8.1 Objednávateľ má právo na vykonanie kontroly, predovšetkým z pohľadu funkčnosti, formy
+a úplnosti poskytnutých služieb.
+8.2 V prípade, že Objednávateľ oboznámil Poskytovateľa s nezhodami, ktoré bránia prevzatiu
+služieb, je Poskytovateľ povinný tieto odstrániť v čo najkratšom technicky možnom čase.
+
+8.3 V závislosti od charakteru a rozsahu objednaného plnenia sa Poskytovateľ a Objednávateľ
+môžu dohodnúť na inej forme odovzdania a schválenia poskytnutých Služieb. Takáto
+dohoda musí byť v písomnej forme a podpísaná oboma zmluvnými stranami.
+8.4 Vlastníctvo k prípadnému novému dielu, ktoré vzniklo pri plnení tejto zmluvy,
+ako aj vlastníctvo k novovytvorenej súčasti Aplikácie, prejde na Objednávateľa po uhradení
+celej sumy za s tým súvisiace poskytnuté Služby. V prípade, že nové dielo, prípadne
+novovytvorená súčasť Aplikácie podlieha samostatným licenčným podmienkam,
+Poskytovateľ túto skutočnosť uvedie v Akceptačnom protokole.
+
+9
+
+Kvalita poskytovaných služieb, zodpovednosť za škody
+9.1 Poskytovateľ sa zaväzuje poskytovať Služby podľa predmetu tejto zmluvy v kvalite
+zodpovedajúcej účelu tejto zmluvy, príslušným právnym predpisom a záväzným
+technickým normám.
+9.2 Ak jedna zo zmluvných strán spôsobí akúkoľvek škodu druhej zmluvnej strane vo vzťahu
+k tejto zmluve, zodpovednosť za škody sa bude riadiť a spravovať podľa § 373 a nasl.
+Obchodného zákonníka a ostatných platných právnych predpisov.
+9.3 Žiadna zo zmluvných strán nie je zodpovedná za škody, ktorých vznik nemohla predvídať.
+
+10 Povinnosti Poskytovateľa
+10.1 Poskytovateľ je povinný poskytovať Služby podľa článku 2 tejto zmluvy po dobu účinnosti
+zmluvy v nasledujúcom rozsahu:
+a)
+
+Poskytovateľ poskytuje Služby podľa bodu 2.1 a) 2.1 b) 2.1 c) nepretržite.
+
+b)
+
+Poskytovateľ poskytuje Služby podľa bodu 2.1 d) 2.1 b) 2.1 c) v čase 8.00 – 17.00
+v pracovných dňoch.
+
+10.2 Poskytovateľ zaručuje, že ním poskytované Služby zodpovedajú jeho najvyšším poznatkom
+v danej problematike.
+
+11 Povinnosti Objednávateľa
+11.1 Objednávateľ je povinný poskytovať Poskytovateľovi súčinnosť v nasledujúcom rozsahu:
+a)
+
+V prípade nevyhnutnosti práce na Aplikácii podľa predmetu tejto zmluvy v mieste
+určenom Objednávateľom, poskytnúť Poskytovateľovi nevyhnutnú súčinnosť, najmä
+zabezpečiť vhodné Technické prostredie, pri dodržaní podmienok stanovených
+bezpečnostnou politikou informačných systémov Objednávateľa.
+
+12 Sankcie za neplnenie záväzkov
+12.1 V prípade omeškania Objednávateľa s úhradou splatnej faktúry je Poskytovateľ oprávnený
+uplatniť si úrok z omeškania vo výške 0,05 % z dlžnej sumy za každý aj začatý deň
+omeškania, max. však do výšky 20 % z hodnoty objednaného plnenia alebo inej služby.
+V prípade, ak si Poskytovateľ úrok z omeškania uplatní, je Objednávateľ povinný tento
+uhradiť v lehote platnej pre splatnosť faktúry (bod 6.4).
+
+13 Ochrana informácií
+13.1 Zmluvné strany sú povinné zachovávať mlčanlivosť o obsahu tejto zmluvy, okolnostiach,
+ktoré k nej viedli, ako aj všetkých skutočnostiach súvisiacich s touto zmluvou, s výnimkou
+tých skutočností a údajov, ktoré v súvislosti s plnením tejto zmluvy sú a budú prístupné
+tretím osobám a to bez zavinenia niektorej zo zmluvných strán.
+13.2 Objednávateľ podpisom tejto zmluvy berie na vedomie, že za dôverné informácie
+sa považujú všetky skutočnosti a informácie tvoriace predmet obchodného tajomstva
+v zmysle § 17 zákona č. 513/1991 Zb. Obchodný zákonník v platnom znení a ďalej
+tiež informácie jednoznačne a preukázateľne označené druhou stranou za dôverné. V tejto
+súvislosti Poskytovateľ označuje ako predmet obchodného tajomstva informácie uvedené
+v článkoch 2, 5, 6, 7, 8, 9, 10, 12, ako aj všetky podklady, technické špecifikácie a funkčné
+špecifikácie. V prípade porušenia obchodného tajomstva zo strany Objednávateľa je tento
+povinný okrem náhrady škody, ktorá tým Poskytovateľovi vznikne, uhradiť Poskytovateľovi
+aj zmluvnú pokutu vo výške 3 500,– Eur.
+13.3 Bez dotknutia skôr uvedených ustanovení, dôvernými informáciami sú aj akékoľvek
+informácie verejne neprístupné, technické, obchodné alebo iné informácie, ktoré niektorá
+strana tejto Zmluvy označí ako dôverné, alebo s ktorými sa má nakladať, vzhľadom
+na okolnosti známe druhej strane pri poskytnutí informácií, ako s dôvernými alebo
+akékoľvek informácie, z povahy ktorých je pochopiteľné pre akúkoľvek osobu,
+že sú dôverné. Dôverné informácie sú aj akékoľvek technické, obchodné alebo komerčné
+informácie, špecifikácie, plány, náčrty, modely, vzorky, dáta, počítačové programy, softvér,
+alebo dokumentácia v akejkoľvek podobe, či už zachytené hmotne alebo ústne poskytnuté,
+ako aj informácie prijaté od inej osoby ako je zmluvná strana, pokiaľ je táto osoba
+zaviazaná nimi nakladať ako s dôvernými. Za dôverné informácie sa považujú aj informácie
+o pomeroch jednej alebo druhej zo zmluvných strán, jej produktoch, procesoch
+a výkonoch. V záujme predchádzania sporom o povahe informácií sa zmluvné strany
+dohodli, že v prípade pochybnosti sa informácia má považovať za dôvernú.
+13.4 Tento záväzok zachovávania mlčanlivosti platí i po ukončení platnosti tejto zmluvy. Od tejto
+povinnosti môže byť zmluvná strana oslobodená len v prípade, ak tak ustanovuje právny
+
+predpis alebo písomným vyhlásením druhej zmluvnej strany. Povinnosť mlčanlivosti
+prechádza aj na právnych nástupcov zmluvných strán.
+13.5 Zmluvné strany sa ďalej zaväzujú, že informácie o druhej zmluvnej strane, ktoré podliehajú
+režimu mlčanlivosti podľa tohto článku, budú chrániť aspoň v takom rozsahu ako keby išlo
+o informácie ich vlastné a zaväzujú sa v rovnakom rozsahu zaviazať mlčanlivosťou svoje
+organizačné zložky, riadiacich zamestnancov alebo zamestnancov, ktorí sa dostanú
+s takýmito informáciami do styku, pričom za porušenie povinnosti týchto osôb každá
+zo zmluvných strán zodpovedá v plnom rozsahu.
+13.6 Za porušenie povinnosti mlčanlivosti podľa tohto článku sa nepovažuje:
+a)
+
+poskytnutie informácií tretím osobám, ktoré majú majetkovú účasť v niektorej
+zo zmluvných strán, pričom tieto osoby musia byť vždy vopred informované
+o povinnostiach mlčanlivosti a písomne zaviazané k dodržiavaniu povinnosti
+mlčanlivosti;
+
+b)
+
+poskytnutie informácií po písomnom súhlase druhej strany advokátom, či iným tretím
+osobám, ktoré sú podľa zákona viazané povinnosťou mlčanlivosti, pričom tieto osoby
+musia byť vopred informované o povinnostiach mlčanlivosti a zaviazané povinnosťou
+mlčanlivosti;
+
+c)
+
+poskytnutie informácií v prípade vyslovenia predchádzajúceho písomného súhlasu
+druhej zmluvnej strany k sprístupneniu jednotlivej informácie chránenej povinnosťou
+mlčanlivosti;
+
+d)
+
+poskytnutie zmluvy pre účely súdneho konania;
+
+e)
+
+poskytnutie informácií po písomnom súhlase druhej strany, ktoré je zmluvná strana
+povinná oznámiť na základe platného právneho predpisu SR;
+
+f)
+
+sprístupnenie informácie, ktoré je Objednávateľ povinný sprístupniť podľa zákona
+č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov (zákon o slobode informácií).
+
+13.7 Poskytovateľ je povinný všetky informácie a dokumenty o Objednávateľovi, ktoré získa
+v súvislosti s činnosťami vykonávanými pre Objednávateľa, uchovávať v tajnosti
+a neposkytnúť ich tretím osobám. Dodávateľ sa zaväzuje zabezpečiť plnenie povinnosti
+mlčanlivosti osôb plniacich jeho úlohy v súlade s § 18 ods. 3 zák. č. 428/2002 Z. z.
+o ochrane osobných údajov v znení neskorších predpisov.
+
+14 Spoločné ustanovenia
+14.1 Pre potreby tejto zmluvy sa stanovujú nasledovné adresy pre komunikáciu na strane
+Poskytovateľa:
+
+Millennium, spol. s r. o.
+Plynárenská 7/C
+821 09 Bratislava 2
+Slovenská republika
+E-mail: mail@millennium.sk
+Tel: 02/59 100 300
+14.2 Pre potreby tejto zmluvy sa stanovujú nasledovné adresy pre komunikáciu na strane
+Objednávateľa:
+Environmentálny fond
+Martinská 49
+821 05 Bratislava
+Tel: +421 906 31 1933
+E-mail:
+podatelna@envirofond.sk
+
+14.3 Kontaktné údaje v ods. 14.1 a 14.2 je možné meniť písomným oznámením, preukázateľne
+doručeným druhej zmluvnej strane.
+14.4 Zodpovednými zástupcami, ktorí sú oprávnení rokovať a rozhodovať vo veci plnenia tejto
+zmluvy sú:
+a)
+
+za Poskytovateľa: Jan Simon – obchodný manažér
+
+b)
+
+za Objednávateľa: Mgr. Peter Kalivoda – riaditeľ
+
+14.5 V odôvodnených prípadoch môžu zmluvné strany zmeniť zodpovedného zástupcu
+písomným oznámením, preukázateľne doručeným druhej zmluvnej strane.
+14.6 Zodpovednými osobami oprávnenými k zmenám tejto Zmluvy sú štatutárne orgány oboch
+zmluvných strán alebo nimi splnomocnení zástupcovia.
+14.7 Pre počítanie času platí, že lehota začína plynúť dňom nasledujúcim po uskutočnení úkonu,
+ktorý je pre začiatok jej plynutia rozhodujúci.
+14.8 V prípade bezdôvodného nepodpísania Preberacieho alebo Akceptačného protokolu je
+zmluvná strana, ktorá ho bezdôvodne nepodpíše, povinná nahradiť druhej zmluvnej strane
+všetku škodu, ktorá jej tým vznikne.
+
+15 Záverečné ustanovenia
+15.1 Zmluvné vzťahy neupravené touto zmluvou, uzatvorenou na základe § 269 ods. 2
+Obchodného zákonníka a jej prípadnými dodatkami sa riadia príslušnými ustanoveniami
+Obchodného zákonníka (najmä § 536 a nasl.) a ostatnými všeobecne záväznými právnymi
+predpismi platnými v Slovenskej republike.
+15.2 Pokiaľ by sa ktorékoľvek ustanovenie vyplývajúce z tejto zmluvy ukázalo ako neplatné
+či nevymáhateľné alebo sa takým počas trvania účinnosti tejto zmluvy stalo, nemá taká
+skutočnosť vplyv na ostatné ustanovenia, ak nestanoví inak donucujúce ustanovenie
+zákona.
+15.3 Všetky spory a prípady nejasností, ktoré vzniknú medzi zmluvnými stranami týkajúce
+sa právnych vzťahov definovaných v tejto zmluve a jej prípadných dodatkov budú v záujme
+predchádzaniu súdnych sporov najskôr riešené rokovaním zmluvných strán. V prípade,
+že nedôjde k dohode zmluvných strán, bude spor predložený na rozhodnutie vecne
+alebo miestne príslušnému súdu SR.
+15.4 Zmluvné strany vyhlasujú, že zmluvu uzatvárajú slobodne a že rozumejú jej obsahu, ktorý
+zodpovedá ich vôli. Rovnako vyhlasujú, že zmluvu neuzatvárajú pod nátlakom, v tiesni,
+ani za jednostranne nevýhodných podmienok.
+15.5 Táto zmluva nadobúda platnosť dňom jej podpísania oboma zmluvnými stranami a
+účinnosť podľa ust. § 47a ods. 1 Občianskeho zákonníka dňom nasledujúcim po dni
+jej zverejnenia.
+15.6 Každá zo zmluvných strán je oprávnená od tejto zmluvy odstúpiť, ak dôjde k podstatnému
+porušeniu tejto zmluvy druhou zmluvnou stranou, pričom odstúpenie od zmluvy sa riadi
+príslušnými ustanoveniami Obchodného zákonníka.
+15.7 Pokiaľ by došlo k odstúpeniu zmluvy v priebehu poskytovaných Služieb, Objednávateľ
+je povinný uhradiť alikvotnú časť ceny za skutočne zrealizované Služby a Poskytovateľ
+je povinný odovzdať výsledok zrealizovaných Služieb pre Objednávateľa na základe tejto
+zmluvy tak, aby nedošlo k zníženiu hodnoty tohto výsledku, či k inej škode na strane
+Objednávateľa.
+15.8 Všetky zmeny týkajúce sa tejto zmluvy a jej prípadných dodatkov budú považované
+za platné len vtedy, ak budú vykonané vo forme číslovaných dodatkov a budú podpísané
+oprávnenými zástupcami obidvoch zmluvných strán.
+15.9 Táto zmluva bola vypracovaná v dvoch rovnopisoch, v slovenskom jazyku, z ktorých každá
+zo zmluvných strán obdrží po jednom vyhotovení.
+
+Poskytovateľ
+
+Prijímateľ
+
+V Bratislave, dňa
+
+V Bratislave, dňa 22. 02. 2018
+
+Millennium, spol. s r. o.
+
+Environmentálny fond
+
+Miroslav Krempaský, konateľ
+
+Peter Kalivoda, riaditeľ
+
+Podpis a pečiatka
+
+Podpis a pečiatka
+
+Príloha č. 1- služby technickej podpory
+Technická časť
+A. Hosting riešenia
+ Virtual Cloud Server (Plnohodnotná virtualizácia – zaručená vysoká dostupnosť vďaka
+cloudovej infraštruktúre, server je odolný aj voči poruchám fyzického servera, na
+ktorom beží. Oproti bežnému VPS je tak dostupnejší a bezpečnejší.)
+o 4 virtuálne CPU
+o 8 GB RAM
+o 180 GB HDD
+ non-stop prevádzka servera
+ správa servera (Management server)
+ riešenie všetkých problémov týkajúcich sa hardvéru i konektivity
+ garancia dostupnosti 99,96%
+ IP KVM switch - Far & Close System
+ technická podpora
+ štatistiky objemu prenesených dát
+ dostupnosť (365/24/7)
+ zálohovanie (7krát denne)
+ zálohované napájanie elektrickou energiou
+
+B. SW Licencie
+ Microsoft SQL Server 2012 Enterprise (4 CPU)
+ Microsoft Windows Server 2008 Standard
+
+C. Zabezpečenie priamej linky do systému IS NEV na MV SR
+ Služba MPLS VPN - potrebné zabezpečenie pre komunikáciu so systémom IS NEV
+(Informačný systém národnej evidencie vozidiel), uzavretý digitálny dátový okruh.
+D. Podpora aplikácie
+ Riešenie incidentov na úrovni samotnej aplikácie
+ Riešenie incidentov v súvislosti s výpadkom hostingu riešenia
+
+Helpdesk - Používateľská podpora, poradenstvo
+a poskytovanie konzultácii týkajúcich sa Aplikácie
+Základné okruhy služby
+
+Prekonať problémy a Poruchy
+Vybaviť Požiadavky Používateľa
+Vybaviť sťažnosti Používateľa
+Odpovedať na všeobecné dopyty a žiadosť o pomoc
+Administrácia používateľov v obmedzenom rozsahu (najmä
+resetovanie hesiel, odblokovanie účtov)
+Oznámenia výpadku a ďalších informácií formou newslettra
+
+Komponenty Služby
+
+Prijatie volania
+Validácia volania
+Prvá úroveň diagnostiky
+Kategorizácia volania
+Riešenie volania – 1. úroveň podpory
+Analýza volania
+Ukončenie volania
+
+Jazyková podpora
+
+Slovenský jazyk
+
+Forma poskytovania
+služieb
+
+Telefonické volania
+
+Čas poskytovania
+služieb
+
+Služba je poskytovaná v pracovných dňoch
+
+Elektronický formulár
+
+v čase 8.00 – 17.00
+
+Rozsah podpory helpdesku je v dvoch rovinách:
+
+
+
+Poradenstvo pre fyzické osoby, ktoré odhlasujú vozidlá
+Poradenstvo smerom na Environmentálny fond, OÚŽP, MŽP
+
+Rozsah podpory:
+A. Opravy vo formulároch na základe hlásení OÚŽP (meno, adresa, VIN a pod...)
+B. Konzultácia s fyzickými osobami, ktorí potrebujú odhlásiť neexistujúce vozidlo a chcú vedieť
+ako postupovať (odporúčame, aby zašli na OÚŽP alebo im zavolali spolu s vysvetlením
+v jednoduchosti celého postupu, aby náhodou niekto iniciatívny nezaplatil správny poplatok
+skôr ako má vygenerovanú žiadosť a VS tak, ako to niektorí ľudia robia)
+C. Poradenstvo pri vytváraní nových účtov – (zasielame návod pre používateľov)
+D. Poradenstvo v oblasti legislatívnych vecí – (jednoduché veci poradíme, zložitejšie
+odporúčanie na MŽP)
+E. Poradenstvo pri párovaní platieb smerom na koncového prímateľa (dohľadania platieb)
+F. Poradenstvo pre fyzické osoby ohľadom úhrad poplatkov
+G. Ostatné oblasti
+
+

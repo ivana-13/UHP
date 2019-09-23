@@ -1,0 +1,593 @@
+ZMLUVA
+O rozvoji funkcionalít informačného systému SK CRIS uzavretá podľa § 269 ods.2 Obchodného
+zákonníka
+
+a
+podľa ust. § 40 a nasl. zák. č. 618/2003 Z.z. Autorský zákon v znení neskorších predpisov
+medzi Zmluvnými stranami
+
+Centrum vedecko-technických informácií SR
+Lamačská cesta 8/A, 811 04 Bratislava, Slovenská republika
+Zastúpené:
+IČO:
+IČ DPH:
+DIČ:
+Bank. spojenie:
+Číslo účtu:
+
+prof. RNDr. Ján Turňa, CSc., riaditeľ
+00 151 882
+SK2020798395
+2020798395
+Štátna pokladnica
+7000064743/8180
+(ďalej ako „Objednávateľ“) na jednej strane,
+a
+
+InterWay, spol. s r.o
+Vajnorská 21, 831 04 Bratislava, Slovenská republika
+Zastúpená:
+Ing. Petr Weber, prokurista
+IČO:
+307 728 531
+DIČ:
+2020268294
+Bank. spojenie:
+Číslo účtu:
+Zapísaná v Obchodnom registri Okresného súdu Bratislava I, vložka č. 15626/B
+(ďalej ako „Zhotoviteľ“) na druhej strane,
+(spolu ďalej ako „Zmluvné strany“)
+
+1/11
+
+Čl.1
+Predmet zmluvy
+Zmluva sa uzatvára v zmysle § 269 ods.2 Obchodného zákonníka v súlade so zákonom č.
+25/2006 Z.z. o verejnom obstarávaní v znení neskorších predpisov. Zhotoviteľ je spoločnosť,
+ktorá je autorom a výhradným dodávateľom systému pre výskum, vývoj a inovácie (SK CRIS),
+ktorý tvorí celoštátny register projektov financovaných z verejných zdrojov, register
+výskumníkov, register organizácií, vykonávajúcich vedu a výskum a register výsledkov vedy
+a výskumu. ktorého funkcionalita sa má rozšíriť a v ktorom sa majú vykonať požadované úpravy
+a práce. Na základe zákona č. 618/2003 Z.z. o autorskom práve a právach súvisiacich
+s autorským právom, tzn. predmet zákazky môže plniť len Zhotoviteľ.
+(1) Predmetom tejto Zmluvy je záväzok Zhotoviteľa realizovať rozvoj funkcionalít IS SK CRIS na
+základe požiadaviek Objednávateľa v 3 etapách:
+- Rozšírenie funkcionalít SK CRIS o modul spracovania projektov v zmysle požiadaviek
+manažérskeho informačného systému s dôrazom na evidenciu projektu počas celého
+životného cyklu a na spracovanie finančných ukazovateľov projektov
+- Implementácia najnovšej verzie dátového formátu CERIF do SK CRIS, súvisiacich nových
+funkcionalít a upgrade už existujúcich funkcionalít v zmysle nového dátového formátu.
+- Kvantitatívny aj kvalitatívny rozvoj integračných rozhraní SK CRIS, určených na prepojenie
+a výmenu dát s inými systémami a na získavanie externých dát,
+- poskytnutie licencie k realizovaným funkcionalitám IS SK CRIS.
+(2) Predmetom zákazky je aj vypracovanie Detailnej funkčnej špecifikácie (DFŠ) ako výsledku
+analytických prác pre každú etapu realizácie, dodanie licencií, technickej dokumentácie
+a zaškolenie pracovníkov Objednávateľa na používanie nových funkcionalít.
+(3) Predmet plnenia požadovaný v rámci realizácie 1. Etapy je špecifikovaný v Prílohe č. 1, ktorá je
+neoddeliteľnou súčasťou tejto Zmluvy. Predmet plnenia požadovaný v 2. etape bude predmetom
+rokovaní počas realizácie 1. Etapy najneskôr do 1 mesiaca od nadobudnutia účinnosti zmluvy.
+Predmet plnenia požadovaný v 3. etape bude predmetom rokovaní ako výsledok implementácie
+predchádzajúcich etáp tak, aby boli presne špecifikované najneskôr do 3 mesiacov od
+nadobudnutia účinnosti zmluvy. Po spracovaní podrobných špecifikácií týkajúcich sa 2. a 3. etapy
+nemôže prísť k zvýšeniu maximálnej zmluvnej ceny.
+(4) Na vyhotovenie predmetu zmluvy Zhotoviteľ
+a) odovzdá dokument „Detailná funkčná špecifikácia“, schválený Objednávateľom pre
+každú etapu riešenia
+b) odovzdá systém SK CRIS s realizovanými našpecifikovanými funkcionalitami podľa čl. 1
+ods. 2, pre každú etapu riešenia
+c) vykoná školenia podľa čl. 6 pre každú etapu riešenia
+d) vypracuje dokumentáciu k časti predmetu zmluvy podľa čl. 6. Pre každú etapu riešenia
+(5) Objednávateľ sa zaväzuje poskytnúť Zhotoviteľovi dohodnutú súčinnosť, prevziať vykonané časti
+predmetu zmluvy a dohodnutým spôsobom zaplatiť Zhotoviteľovi dohodnuté ceny za predmet
+zmluvy.
+
+2/11
+
+Čl.2
+Spôsob vykonávania predmetu zmluvy, termín dodania
+(1) Predmet Zmluvy bude Zhotoviteľom dodaný, vytvorený a vykonaný podľa čl. 1 ods. 2.
+(2) Zhotoviteľ dodá predmet Zmluvy podľa čl. 1 ods. 2 do:
+-
+
+Ukončenie realizácie 1. etapy do 1 mesiaca od nadobudnutia účinnosti zmluvy
+
+-
+
+Ukončenie realizácie 2. etapy do 3 mesiacov od nadobudnutia účinnosti zmluvy,
+Objednávateľ dodá špecifikáciu požadovaného predmetu plnenia 2. etapy do 1 mesiaca od
+nadobudnutia účinnosti zmluvy
+
+-
+
+Ukončenie realizácie 3. etapy do 5 mesiacov od nadobudnutia účinnosti zmluvy,
+Objednávateľ dodá špecifikáciu požadovaného predmetu plnenia 3. etapy do 3 mesiacov od
+nadobudnutia účinnosti zmluvy,
+
+Školenia (čl. 1 ods. 2) vykoná Zhotoviteľ v súlade s čl. 6.
+(3) Miestom prevzatia jednotlivých častí predmetu zákazky a školení je sídlo Objednávateľa.
+(4) Pri vykonávaní predmetu Zmluvy bude Zhotoviteľ postupovať podľa Objednávateľom dodanej
+špecifikácie a schválenej DFŠ. Spôsob odovzdania predmetu zmluvy Objednávateľovi sa
+uskutoční podľa čl. 5 tejto zmluvy.
+(5) Zhotoviteľ nebude v omeškaní, ak záväzok na plnenia, alebo činnosti podľa tejto zmluvy
+nemohol riadne a včas splniť pre okolnosti, ktoré po uzavretí tejto zmluvy vznikli v dôsledku ním
+nepredvídateľných a neodvrátiteľných skutočností mimoriadnej povahy (vyššia moc) - lehoty pre
+plnenia, alebo činnosti Zhotoviteľa podľa tejto zmluvy sa predĺžia o dobu zodpovedajúcu dobe
+trvania takýchto okolností.
+(6) Zhotoviteľ nebude v omeškaní, ak záväzok na plnenia, alebo činnosti podľa tejto zmluvy
+nemohol riadne a včas splniť pre nedodržanie súčinnosti Objednávateľa, príp. ak Objednávateľ
+nedodrží termíny stanovené pre výkon súčinnosti lehoty pre plnenia/činnosti Zhotoviteľa podľa
+tejto zmluvy sa predĺžia o dobu trvania neposkytnutia súčinnosti.
+Čl.3
+Poverené osoby
+(1) Poverenou osobou za Objednávateľa bude: Ing. Danica Zendulková
+Poverená osoba za Objednávateľa bude oprávnená na to, aby za Objednávateľa:
+- zabezpečovala potrebnú súčinnosť Objednávateľa,
+- prevzala časti predmetu zmluvy podľa čl. 5 a podpísala za Objednávateľa o tom príslušné
+dokumenty,
+- poskytovala Zhotoviteľovi dodatočné lehoty pri omeškaní, ak k omeškaniu došlo
+z dôvodov uvedených v čl .2, ods. 5 alebo 6.
+(2) Poverenou osobou za Zhotoviteľa bude: Ing. Miroslava Gajdošová
+Poverená osoba za Zhotoviteľa bude oprávnená na to, aby za Zhotoviteľa:
+- odovzdala časti predmetu zmluvy podľa čl. 5 a podpísala za Zhotoviteľa o tom príslušné
+dokumenty,
+- poskytovala dodatočné lehoty pri omeškaní druhej zmluvnej strany.
+(3) Zmluvné strany môžu zmeniť nimi určené poverené osoby. Zmena je účinná odo dňa jej
+písomného oznámenia druhej zmluvnej strane.
+3/11
+
+Čl.4
+Výmena informácií medzi zmluvnými stranami
+(1) V záujme napĺňania predmetu zmluvy s rešpektovaním potrieb zmluvných strán, ich očakávaní,
+priorít a zodpovedností si zmluvné strany vymieňajú/poskytujú informácie na základe
+ustanovených záväzných procesov komunikácie uvedených v ods. 2.
+(2) Vzájomná výmena informácií, resp. ich poskytovanie medzi Objednávateľom a Zhotoviteľom sa
+riadi týmito pravidlami:
+- informácie si vymieňajú/poskytujú poverené osoby zmluvných strán ustanovené
+zmluvnými stranami uvedené v čl. 3,
+- informácie sa zásadne vymieňajú e-mailom, resp. cez web rozhranie,
+- v prípade nutnosti je možná telefonická alebo osobná komunikácia, pričom po jej
+ukončení je potrebné vyhotoviť z komunikácie zápis; zápis tvorí volajúci alebo volaný
+a odosiela ho zmluvnej strane e-mailom, resp. ho umiestňuje cez web rozhranie.
+Čl.5
+Odovzdávanie a práva k dielu
+(1) Dodávka predmetu zmluvy alebo časti predmetu zmluvy sa bude považovať za kompletnú, ak:
+- bude funkcionalita časti predmetu zmluvy zodpovedať príslušnej špecifikácii uvedenej
+v prílohe č. 1 tejto Zmluvy,
+- bude dodávka predmetu zmluvy a jeho všetkých častí úspešne otestovaná,
+- o prevzatí všetkých častí predmetu zmluvy podľa čl. 1 ods. (2) a (3) bude oboma
+zmluvnými stranami podpísaný samostatný preberací protokol. Za dátum prevzatia sa
+bude považovať za dátum uvedenia do ostrej prevádzky.
+(2) Podmienkou prevzatia predmetu zmluvy bude vykonanie školení a dodanie kompletnej
+dokumentácie (podľa čl.7).
+(3) Súčasťou prevzatia bude dodanie rozširujúcich licencií na predmet dodávky. Rozširujúce licencie
+sa budú viazať na licencie vyplývajúce zo Zmluvy o zhotovení diela č. 6/PK/2011 (čl.13. ods 2.),
+ktorou bol pôvodný predmet zákazky (implementácia systému SK CRIS) obstaraný.
+Čl.6
+Licencie
+(1) K zhotovenému dielu bude ako k autorskému dielu v zmysle zákona č. 618/2003 Z.z. o
+autorskom práve a právach súvisiacich s autorským právom Objednávateľovi patriť výhradná
+licencia na používanie na dobu neurčitú bezodplatne.
+(2) Na základe poskytnutnutej licencie bude mať Objednávateľ oprávnenie na:
+- používanie diela,
+- neobmedzené vyhotovovanie rozmnožením diela pre svoje interné potreby,
+- zasahovanie do diela a to neobmedzene podľa vlastného uváženia – zdrojové texty
+a grafickú úpravu diela meniť, nahrázdať, prípadne inými spôsobmi s nimi manipulovať.
+(3) Objednávateľ nie je oprávnený dielo poskytnúť tretej strane, jeho povinnosťou je zaistiť jeho
+ochranu proti odcudzeniu, prípadne inému zneužitiu.
+(4) Oprávnenia z licencie k vytvorenému dielu vzniknú dňom podpisu preberacieho protokolu.
+Zhotoviteľ poskytuje licenciu bezodplatne - odmena za jej poskytnutie je zahrnutá v cene za
+vyhotovenie diela.
+4/11
+
+(5) Dokumentáciu dodanú zhotoviteľom bude objednávateľ oprávnený používať spôsobom
+vyplývajúcim z účelu, na ktorý bola vytvorená.
+(6) Zhotoviteľ vyhlasuje, že k autorskému dielu, ktoré je predmet tejto zmluvy má vyporiadané
+všetky majetkové autorské práva, že má právo uzatvoriť licenčnú zmluvu a vykonávať majetkové
+práva autorov v rozsahu vymedzenom v zmluve a je oprávnený poskytnúť licenciu (sublicenciu)
+podľa ustanovení zmluvy. V prípade, ak sa toto vyhlásenie ukáže v budúcnosti nepravdivým,
+objednávateľ má právo na náhradu škody, ktorá by mu takýmto nepravdivým vyhlásením bola
+spôsobená.
+(7) Zhotoviteľ sa zaväzuje, ak sa preukáže nepravdivé vyhlásenie podľa odseku (X), z takéhoto
+dôvodu vzniknutú nahradiť objednávateľovi akúkoľvek škodu, ktorá CVTI SR vznikne v dôsledku
+nepravdivého vyhlásenia a uplatnených nárokov tretích osôb, a to v plnej výške a bez
+akéhokoľvek obmedzenia.
+(8) Zhotoviteľ sa tiež zaväzuje na svoje vlastné náklady a výdavky neodkladne obstarať pre
+objednávateľa od autorov alebo osôb vykonávajúcich majetkové práva autorov (tretích osôb)
+súhlas na používanie jednotlivých plnení dodaných, poskytnutých, vykonaných a/alebo
+vytvorených tretími osobami pre objednávateľa, alebo upraviť jednotlivé plnenia dodané,
+poskytnuté, vykonané a/alebo vytvorené zhotoviteľom, subdodávateľom alebo tretími osobami
+pre objednávateľa tak, aby už ďalej neporušovali autorské práva a/alebo práva priemyselného
+a/alebo iného duševného vlastníctva tretej osoby, alebo nahradiť jednotlivé plnenia dodané,
+poskytnuté, vykonané a/alebo vytvorené zhotoviteľom, subdodávateľom alebo tretími osobami
+pre objednávateľa rovnakými alebo aspoň takými plneniami, ktoré majú podstatne podobné
+kvalitatívne, operačné a technické parametre a funkčnosti, alebo aj sa jedná o plnenie
+poskytnuté na základe licencie tretej osoby, taký nárok vyriešiť v súlade s tým, čo pre taký nárok
+stanovujú jej licenčné podmienky
+(9) Zhotoviteľ sa zaväzuje poskytnúť objednávateľovi akúkoľvek a všetku účinnú pomoc a uhradiť
+akékoľvek a všetky náklady a výdavky, ktoré vznikli/vzniknú objednávateľovi v súvislosti
+s uplatnením nárokov tretej osoby.
+(10) Objednávateľ sa zaväzuje neodkladne informovať zhotoviteľa o každom nároku vznesenom
+treťou osobou, bude v súvislosti s takým nárokom postupovať podľa primeraných pokynov
+zhotoviteľa tak, aby sa predišlo vzniku, prípadne zvýšeniu škôd, nevykoná smerom k takej tretej
+osobe žiaden úkon, v dôsledku ktorého by sa jej postavenie v súvislosti s takým uplatnením
+nároku zlepšilo a zhotoviteľovi vystaví plnú moc potrebnú na to, aby sa zhotoviteľ mohol za
+objednávateľa účinne takému nároku brániť a s takou treťou osobou o urovnaní sporu rokovať,
+a aj inak postupovať tak, ako je potrebné v záujme ochrany práv oboch strán.
+(11) V rámci plnenia tejto zmluvy zhotoviteľ poskytuje touto zmluvou zároveň aj súhlas na
+neobmedzené využívanie diela.
+(12) Zhotoviteľ, ako osoba vykonávajúca majetkové práva k autorskému dielu – upgradu SK CRIS –
+vyhlasuje, že má vyporiadané všetky majetkové autorské práva, že má právo uzatvoriť licenčnú
+zmluvu a vykonávať majetkové práva autorov v rozsahu vymedzenom v zmluve a je oprávnený
+poskytnúť licenciu (sublicenciu) podľa ustanovení tejto zmluvy.
+(13) Zmluvné strany sa dohodli, že po dodaní diela je Objednávateľ sám alebo prostredníctvom tretej
+osoby oprávnený vykonať zmeny dodaného diela alebo spojiť zhotovené dielo s dielom iného
+autora počítačového programu výlučne v takom prípade, ak sa Objednávateľ a zhotoviteľ
+nedohodnú na ďalšom spoločnom rozvoji diela.
+(14) Týmito licenčnými ujednaniami sa rozširujú tu dohodnuté licenčné ujednania aj na licenciu
+dohodnutú zmluvnými stranami v zmluve so zhotoviteľom systému pre výskum, vývoj a inovácie
+(SK CRIS) zo dňa 4.3.2011.
+
+5/11
+
+Čl.7
+Dokumentácia a školenia
+(1) Zhotoviteľ dodá Objednávateľovi dokumentáciu popisujúcu všetky úpravy a funkcionality
+implementované do systémov.
+(2) Školenia budú súčasťou odovzdávania predmetu zmluvy v priestoroch Objednávateľa. Školenia
+budú v rozsahu spolu maximálne 4 hodín a obsahovo budú rozdelené na školenie pre
+administrátorov (správcov) systému a na školenie pre používateľov
+
+Čl.8
+Ceny a spôsob ich platenia
+(1) Maximálna celková kúpna cena za dodanie predmetu zmluvy v rozsahu uvedenom v čl. 1 ods. 3
+tejto zmluvy je 125000,-€ bez DPH/ 150000.-€ s DPH spolu za etapy 1., 2. a 3.
+(2) Kúpna cena za dodanie 1. Etapy predmetu zmluvy v rozsahu uvedenom v čl. 1 ods. 3, tejto
+Zmluvy je 41500,-€ bez DPH/ 49800.-€ s DPH v súlade s rozpisom cien v Prílohe č. 1.
+(3) Kúpna cena za dodanie 2. a 3. Etapy bude stanovená v dodatkoch po upresnení a podrobnom
+došpecifikovaní a nacenení požadovaného predmetu plnenia a nesmie presiahnuť maximálnu
+cenu podľa ods.1. Kúpna cena sa stanoví na základe hodinovej sadzby za analytické,
+programátorské a iné implementačné služby súvisiace s predmetom plnenia. Hodinová sadzba je
+stanovená na 43,50€/hod s DPH, ktorá je obvyklou sadzbou Zhotoviteľa pre požadovaný druh
+služieb.
+(4) Právo fakturovať vznikne po protokolárnom odovzdaní každej etapy a prevzatí všetkých častí
+predmetu zmluvy (čl. 1 ods. 2)
+(5) Splatnosť faktúry Objednávateľom je do 60 dní od jej doručenia Objednávateľovi.
+Faktúra bude obsahovať minimálne:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+
+i.
+
+obchodné meno a sídlo, IČO, DIČ/DRČ Zhotoviteľa
+meno, sídlo, IČO, DIČ/DRČ Objednávateľa
+číslo tejto Zmluvy
+číslo faktúry
+deň vystavenia faktúry a deň splatnosti faktúry
+označenie finančného ústavu a čísla účtu Zhotoviteľa, na ktorý sa má platiť
+názov a množstvo tovaru: „Rozvoj funkcionalít SK CRIS (upgrade)“
+fakturovanú cenu celkom v EUR bez DPH/s DPH
+podpis oprávnenej osoby Zhotoviteľa
+
+(6) Neoddeliteľnou súčasťou faktúry je obojstranne podpísaný preberací protokol.
+(7) Objednávateľ neposkytne Zhotoviteľovi zálohu na plnenie predmetu zmluvy alebo jeho časti.
+Čl.9
+Záruky
+(1) Zodpovednosť zhotoviteľa za chyby predmetu plnenia sa riadi ustanoveniami Obchodného
+zákonníka, ktoré upravujú nároky zo zodpovednosti za chyby.
+(2) Prípadné chyby plnenia predmetu zmluvy alebo jeho častí bude Objednávateľ reklamovať
+písomne u Zhotoviteľa ihneď po zistení chyby, resp. v záručnej dobe.
+
+6/11
+
+(3) Záručná doba plynie od prebratia etapy realizácie predmetu zmluvy do ostrej prevádzky a trvá
+24 mesiacov.
+(4) V prípade, že sa počas záručnej doby zistia nejaké chyby systému, resp. dodatočne chýbajúca
+funkcionalita, Objednávateľ riadne zadokumentované chyby alebo chýbajúce funkčnosti
+odovzdá Zhotoviteľovi, ktorý je ich povinný bezodkladne odstrániť, prípadne sprevádzkovať
+funkcionalitu.
+(5) Záručná doba neplynie po dobu, počas ktorej zákazník nemôže používať predmet zmluvy pre
+chyby, za ktoré zodpovedá Zhotoviteľ, pričom sa záruka o túto dobu predlžuje po ukončení
+obdobia záruky dohodnutej v tejto zmluve.
+(6) Záruka sa nevzťahuje na prípady, keď akýkoľvek vopred nekonzultovaný zásah spôsobí výpadok
+časti systému alebo uplný výpadok systému. Tento sa týka:
+
+
+
+
+
+Neodborného zásahu do databázových štruktúr a údajov
+Zmeny a aktualizácie nastavenia a konfigurácie Operačného systému, Aplikačného softvéru,
+Databázy a sieťových nastavení
+Upgrade alebo zmena Operačného systému, Aplikačného softvéru a Databázy
+Integrácie novej technológie do systému
+
+Čl.10
+Zmluvné pokuty
+(1) Objednávateľ je oprávnený účtovať Zhotoviteľovi zmluvnú pokutu vo výške 0,05% z ceny
+predmetu zmluvy za každý kalendárny deň omeškania s odovzdaním Objednávateľovi.
+(2) Zhotoviteľ je oprávnený účtovať Objednávateľovi úrok z omeškania vo výške 0,05% za každý deň
+omeškania s úhradou oprávnene vystavenej faktúry Zhotoviteľovi. Oprávnenosť vystavenia
+faktúry Zhotoviteľom sa posudzuje vzhľadom na obsah čl. 7.
+Čl.11
+Ochrana dôverných informácií
+(1) Obidve zmluvné strany týmto prehlasujú, že všetky informácie, ktoré od seba navzájom získajú,
+budú použité výhradne pre potreby plnenia tejto zmluvy a považujú sa za dôverné v zmysle § 17
+Obchodného zákonníka. Obidve zmluvné strany sú povinné dodržovať pred treťou stranou
+všetky utajenia a mlčanlivosť o všetkých skutočnostiach a informáciách, ktoré nadobudli
+v súvislosti s predmetom plnenia tejto zmluvy v priebehu platnosti tejto zmluvy ako aj po
+skončení jej platnosti. Tieto informácie nebudú poskytnuté v žiadnej forme tretím stranám,
+pokiaľ nedôjde k písomnej dohode, ktorá by zaobchádzanie s týmito informáciami upravila iným
+spôsobom.
+(2) Zmluvné strany sa zaväzujú považovať za dôverné v zmysle § 17 Obchodného zákonníka taktiež
+všetky neverejné informácie získané ústnym podaním a zachovávať mlčanlivosť o týchto
+informáciách aj po ukončení zmluvného vzťahu.
+Čl.12
+Odstúpenie od zmluvy
+(1) Odstúpiť od zmluvy je možné v prípade podstatného porušenia tejto zmluvy, pričom za
+podstatné porušenie považujú zmluvné strany omeškania s plnením ich záväzkov, a to napriek
+písomnej výzve druhej strany s poskytnutím primeranej lehoty na dodatočné splnenie záväzku
+povinnej strany.
+7/11
+
+Čl.13
+Kontrola
+(1) Vzhľadom na skutočnosť, že predmet zákazky bude financovaný aj z prostriedkov štrukturálnych
+fondov EÚ, Zhotoviteľ je povinný strpieť výkon kontroly a poskytnúť súčinnosť pri výkone
+kontroly orgánu oprávnenému vykonávať kontrolu podľa zákona č. 528/2008 o pomoci
+a podpore poskytovanej z fondov Európskej únie v znení neskorších predpisov (ďalej len ako
+„zákon č. 528/2008“) a podľa článku 59 a nasl. nariadenia Rady (ES) 1083/2006, resp. subjektom
+a osobám povereným oprávnenými orgánmi podľa zákona č. 528/2008 a podľa článku 59 a nasl.
+nariadenia Rady (ES) 1083/2006 na výkon kontroly. Za strpenie výkonu kontroly a poskytnutie
+súčinnosti pri výkone kontroly neprináleží Zhotoviteľovi žiadna odmena, náhrada ani iné plnenie.
+Zhotoviteľ je povinný predovšetkým oznámiť nákladovú štruktúru plnenia zákazky na základe
+požiadavky Objednávateľa alebo oprávneného orgánu alebo nimi poverených subjektov a osôb,
+dodať podpornú dokumentáciu účtovného a iného charakteru za účelom doloženia
+požadovaných podkladov pre výkon kontroly podľa tohto odseku Zmluvy.
+(2) Nesplnenie povinností Zhotoviteľa v zmysle tohto odseku Zmluvy, t.j. nestrpenie kontroly,
+neposkytnutie súčinnosti a nedodanie požadovaných podkladov zo strany Zhotoviteľa v zmysle
+tohto Článku sa považuje za podstatné porušenie tejto Zmluvy. Zhotoviteľ je povinný nahradiť
+Objednávateľovi škodu vzniknutú porušením povinností Zhotoviteľa stanovených v tomto
+odseku Zmluvy. Povinnosti v zmysle tohto odseku Zmluvy má Zhotoviteľ po dobu upravenú
+všeobecne záväznými pravidlami pre implementáciu projektov zo štrukturálnych fondov EÚ v
+programovom období 2007-2013 (minimálne do 31. augusta 2021).
+Čl.14
+Záverečné ustanovenia
+(1) Obe zmluvné strany súhlasia so zverejnením zmluvy a jej prípadných dodatkov, vrátane jej príloh
+a podpisov štatutárnych zástupcov na internete v súlade s platnými právnymi predpismi.
+(2) Táto zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami oboch zmluvných
+strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom
+Úradom vlády Slovenskej republiky. Ak sa zmluva do troch mesiacov od jej uzavretia nezverejní,
+platí, že k uzavretiu zmluvy nedošlo.
+(3) Táto zmluva podlieha podľa zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov povinnému zverejneniu
+v Centrálnom registri zmlúv vedenom na Úrade vlády Slovenskej republiky. Zhotoviteľ berie na
+vedomie povinnosť Objednávateľa na zverejnenie tejto zmluvy ako aj jednotlivých faktúr
+vyplývajúcich z tejto zmluvy a svojím podpisom dáva súhlas na zverejnenie tejto zmluvy v plnom
+rozsahu.
+(4) Táto zmluva a záväzkový vzťah z tejto zmluvy sa spravuje zákonom č. 513/1991 Zb. Obchodný
+zákonník (v znení neskorších predpisov) a zákonom č. 618/2003 Z.z. o autorskom práve
+a právach súvisiacich s autorským právom.
+(5) Na záväzkový vzťah z tejto zmluvy sa nepoužijú (všeobecné) obchodné podmienky žiadnej zo
+zmluvných strán.
+(6) Táto zmluva sa podpisuje v štyroch rovnopisoch, pričom každá zmluvná strana obdrží po dvoch
+vyhotoveniach.
+
+8/11
+
+(7) Zmluvné strany vyhlasujú, že zmluvu uzatvorili slobodne a vážne, nie v tiesni a ani za inak
+nápadne nevýhodných podmienok, jej obsahu porozumeli, a preto ju po jej prečítaní na znak
+súhlasu vlastnoručne podpisujú.
+
+V Bratislave, dňa:
+
+V Bratislave dňa:
+
+za InterWay, spol. s r.o.
+
+za CVTI SR
+
+Ing. Petr Weber
+
+prof. RNDr. Ján Turňa, CSc.
+
+prokurista
+
+riaditeľ
+
+9/11
+
+Príloha č.1
+Požiadavky na rozvoj funkcionalít SK CRIS (upgrade) – 1. etapa
+Nasledujúca tabuľka špecifikuje požiadavky Nadobúdateľa na rozvoj funkcionalít SK CRIS – 1. etapa.
+Súčasťou špecifikácie je aj nacenenie jednotlivých požadovaných položiek.
+
+položka
+
+cena v
+€ bez
+DPH
+
+Opis
+
+1. Vytvorenie formulára projekty –
+plánované ukazovatele
+- Analýza požiadaviek
+- Návrh databázy
+- Programovanie formulára
+- Databázové procedúry, validácia
+vstupných dát
+- Workflow
+- Vyhľadávanie, indexácia
+- Integračné rozhranie pre import údajov
+- Vypracovanie dokumentácie
+
+6250
+
+2. Vytvorenie formulára projekty –
+ročný výkaz
+Analýza požiadaviek
+Návrh databázy
+Programovanie formulára
+Databázové procedúry, validácia
+vstupných dát
+Workflow
+Vyhľadávanie, indexácia
+Integračné rozhranie pre import
+údajov
+Zabudovanie mechanizmu
+aktualizácie vložených údajov o projekte
+Vypracovanie dokumentácie
+
+12500
+
+3. Vytvorenie formulára projekty –
+záverečná karta
+- Analýza požiadaviek
+Návrh databázy
+Programovanie formulára
+Databázové procedúry, validácia
+vstupných dát
+Workflow
+Vyhľadávanie, indexácia
+Integračné rozhranie pre import
+údajov
+Vytvorenie integrovaného výstupu
+z vložených údajov
+Vypracovanie dokumentácie
+
+V pôvodnom riešení sa počítalo s implementáciou verzie
+CERIF aktuálnej v čase formulácie zadania. K návrhu
+aktualizácie verzie v súlade s ďalším vývojom štandardov
+EÚ pre informačné systémy zamerané na vedu, výskum a
+inovácie došlo v priebehu realizácie projektu. Konkrétne,
+od formulácie predmetu verejného obstarávania boli
+zrealizované dva updaty dátového formátu CERIF
+(Common European Research Information Format).
+Updaty obsahujú definície predtým nepoužívaných
+objektov, ako sú napríklad štatistické ukazovatele a
+indikátory, ale hlavne precizácia evidencie finančných
+ukazovateľov projektov. Tieto ukazovatele sú dôležité aj
+pre využitie SK CRIS ako manažérskeho informačného
+systému. Úprava systému v zmysle týchto zmien je
+pomerne náročná, pretože si vyžaduje zásah do
+dátových štruktúr a tým aj prakticky do všetkých častí
+aplikácie (formuláre pre zber dát, vyhľadávacie rozhranie
+a integračné rozhranie).
+Vytvorenie formulára projektov pozostávajúceho z troch
+subformulárov podľa času a frekvencie vkladania údajov
+je požiadavkou na rozvoj funkcionality, týkajúcej sa
+spracovania dát o projektoch VaV. Doplnenie ďalších
+entít druhého stupňa zodpovedá aktuálnemu stavu
+vývoja formátu CERIF.
+
+6250
+
+10/11
+
+cena v
+€ bez
+DPH
+
+položka
+4. Doplnenie entít 2. stupňa
+Doplnenie zobrazenia, vyhľadávania a
+prepojenia vybraných entít 2. stupňa CERIF
+do používateľského rozhrania: laboratóriá,
+zariadenia, poskytované služby, podujatia
+a pod.)
+
+4000
+
+5. Úprava rozhrania s CREPČ
+Pri importe publikácií z CREPČ by nemal
+mať používateľ vôbec možnosť čokoľvek v
+zázname meniť či nastavovať. Sémantika
+by mala vychádzať z údajov zdroja,
+podobne typ dokumentu (mapovanie
+CERIFovských kategórií na kategorizáciu
+PČ)
+Skompletizovanie prenášaných údajov z
+CREPČ
+
+6.Zabudovanie
+aktualizačného
+nástroja pre register výskumníkov
+
+2000
+
+4000
+
+možnosť importu záznamov cez integračné
+rozhranie vrátane aktualizácie (import
+zmien)
+
+7. Grafická úprava rozhrania
+
+2000
+
+Údaje prenesené z verifikovaných zdrojov
+by mali byť farebne odlíšené od údajov,
+ktoré boli zadané cez portál (týka sa
+predovšetkým publikácií CREPČ, projektov
+importovaných cez webové rozhranie,
+organizácií, ktoré podávali žiadosť o
+hodnotenie spôsobilosti)
+
+8. Generovanie výstupných zostáv,
+pracujúcich s viacerými entitami
+súčasne
+
+2500
+
+9.Zabudovanie vyhľadávania
+zobrazovania historických dát
+
+2000
+
+a
+
+Opis
+Formát CERIF je predmetom kontinuálneho vývoja.
+Priebežná implementácia nových funkcionalít,
+napríklad nástroja pre výmenu dát CERIF_XML, je
+podmienkou zachovania interoperability SK CRIS s
+podobnými systémami prevádzkovanými v
+mnohých európskych krajinách. Tento nástroj
+umožní aj prepojenie s inými aplikáciami, ktoré
+majú kľúčový význam z hľadiska informačnej
+podpory vedy a výskumu. Významný rozvoj SK CRIS
+sa predpokladá v oblasti integrácie externých dát,
+pretože súčasná verzia pracuje len s vybranými
+zdrojmi informácií a pripravuje sa integrácia
+podstatne väčšieho množstva externých databáz a
+systémov. Aktuálne riešenie si preto vyžaduje aj
+rozširovanie a zdokonaľovanie integračných
+rozhraní, ktoré slúžia na komunikáciu s inými
+systémami. Pripravujeme výrazné kvalitatívne
+zmeny rozhraní: možnosť implementácie externých
+identifikátorov objektov, vstupujúcich do SK CRIS z
+iných systémov, funkcionalitu, zameranú na
+kontrolu duplicít, ako aj na oblasť aktualizácie
+vložených dát prostredníctvom týchto rozhraní.
+Súčasné riešenie má rezervy aj v používateľskom
+komforte. V rámci upgradu sa predpokladá
+skvalitnenie používateľského rozhrania
+zabudovaním grafických prvkov, rozšírením
+popisných prvkov objektov: klasifikácií, sémantiky,
+ontológií, ako aj úpravy vyhľadávacích kritérií,
+ktoré zvýši atraktivitu systému pre používateľa.
+Výstupné zostavy, ktoré pracujú s rôznymi
+objektmi súčasne sú žiadanou funkcionalitou, ktorá
+je pomerne technickú realizáciu. Podobne práca s
+historickými dátami, týkajúcimi sa najmä
+organizácií a osôb.
+
+11/11
+
+

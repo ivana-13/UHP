@@ -1,0 +1,376 @@
+Zmluva o poskytovaní služieb č. Z201914509_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Ministerstvo spravodlivosti Slovenskej republiky
+Župné námestie 13, 81311 Bratislava, Slovenská republika
+00166073
+2020830196
+0
+SK72 8180 0000 0070 0014 4241
+02/ 888 914 62
+
+Dodávateľ:
+Obchodné meno:
+
+PosAm, spol. s r.o.
+
+Sídlo:
+
+Bajkalská 28, 82109 Bratislava, Slovenská republika
+
+IČO:
+
+31365078
+
+DIČ:
+
+2020315440
+
+IČ DPH:
+Číslo účtu:
+
+SK74 1100 0000 0026 2134 0170
+
+Telefón:
+
+02 49 23 91 11
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Podpora a údržba HW
+
+Kľúčové slová:
+
+Technická podpora, maintenance, HW
+
+CPV:
+
+71356300-1 - Technická podpora; 72100000-6 - Hardvérové konzultačné služby
+(poradenstvo); 72250000-2 - Služby týkajúce sa podpory systému; 72251000-9 Odstraňovanie porúch
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Hardvér
+
+Funkcia
+Služby pre podporu hardvérových produktov (ďalej len "HW").
+Predmetom zákazky je zabezpečenie údržby a podpory HW garantovaných výrobcom na 24 mesiacov.
+Technické vlastnosti
+
+Jednotka
+
+Položka č.1: Server typ 6 – základ - DELL
+POWEREDGE R620
+
+ks
+
+20
+
+Položka č. 2: Diskové pole typ 3 - DELL POWERVAULT
+MD3620F
+
+ks
+
+7
+
+Položka č. 3: Diskové pole - DELL POWER VAULT
+MD1200
+
+ks
+
+1
+
+Položka č. 4: Diskové pole - DELL POWER VAULT
+MD3820f
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+
+Položka č. 1:
+Server montovateľný do racku, zaberajúci priestor 1U, s
+1 procesorom so skóre 13900 rozšíriteľný na 2
+procesory, 32GB pamäťou v 2 slotoch z 24, s
+integrovaným RAID adaptérom, 1 napájací zdroj, 2x1Gb
+eth porty, 8 slotov pre disky, 2 PCIe sloty, základná
+podpora a údržba
+
+479JS12; HK9JS12; 8G9JS12; CD9JS12; 2K9JS12; 7F9JS12;
+3J9JS12; D89JS12; 8C9JS12; 6H9JS12; DH9JS12; JF9JS12;
+J99JS12; JD9JS12; GG9JS12; B59JS12; 5B9JS12; 9K9JS12;
+799JS12; C69JS12
+
+Položka č. 2:
+Zariadenie montovateľné do racku, s 2 kontrolérmi v
+zapojení aktív/pasív, 4GB cache, 4x8GBps host ports,
+podpora RAID 5, 6, 10, podpora 6Gbps backend
+zbernice k diskom, s podporou SSD diskov s kapacitami
+aspoň 100GB, 15k rpm s kapacitami aspoň 300GB, 10k
+rpm s kapacitami aspoň 450GB, 900GB, 2TB 7.2k rpm.
+
+HCPPW02; CCPVW02; GCPPW02; JCPNW02; FCPPW02;
+4DPVW02; 2DPXW02
+
+V konfigurácii musí byť 10x300GB 15krpm pričom pokiaľ
+je v polici pre disky menej ako 30% voľných pozícií pre
+disky požadujeme dodať konfiguráciu so zaplnenými
+všetkými pozíciami, pričom doplnenie diskov oproti
+požadovaným musí byť typovo jeden z diskov použitých.
+Disk. pole musí podporovať 100 diskov a dodané s
+časovo a kapacitne neobmedzenou licenciou pre správu
+RAID, tvorbu LUN a ich publikovanie k serverom. Pole
+musí podporovať Microsoft Windows 2008, 2012, Red
+Hat Enterprise Linux, VMWare vSphere a Microsoft
+Hyper-V a mať redundantné za prevádzky vymeniteľné
+zdroje napájania a ventilátory
+Položka č. 3:
+Zariadenie montovateľné do racku, s 2 kontrolérmi v
+zapojení aktív/pasív, 4GB cache, 4x8GBps host ports,
+podpora RAID 5, 6, 10, podpora 6Gbps backend
+zbernice k diskom, s podporou SSD diskov s kapacitami
+aspoň 100GB, 15k rpm s kapacitami aspoň 300GB, 10k
+rpm s kapacitami aspoň 450GB, 900GB, 2TB 7.2k rpm.
+
+G7KVW02
+
+V konfigurácii musí byť 10x300GB 15krpm pričom pokiaľ
+je v polici pre disky menej ako 30% voľných pozícií pre
+disky požadujeme dodať konfiguráciu so zaplnenými
+všetkými pozíciami, pričom doplnenie diskov oproti
+požadovaným musí byť typovo jeden z diskov použitých.
+Disk. pole musí podporovať 100 diskov a dodané s
+časovo a kapacitne neobmedzenou licenciou pre správu
+RAID, tvorbu LUN a ich publikovanie k serverom. Pole
+musí podporovať Microsoft Windows 2008, 2012, Red
+Hat Enterprise Linux, VMWare vSphere a Microsoft
+Hyper-V a mať redundantné za prevádzky vymeniteľné
+zdroje napájania a ventilátory
+Položka č. 4:
+
+4BMR992
+
+Predmetom hardvérovej podpory a údržby je
+nasledovné:
+1. Telefonická podpora pri riešení a diagnostike
+hardvérových problémov. Hardvérové problémy sú
+nahlasované poskytovateľovi telefonicky alebo mailom
+počas servisného pokrytia podľa bodu 4 tejto
+špecifikácie.
+2. Údržba a podpora HW umiestneného na deviatich (9)
+miestach všetkých krajov SR. Z toho dve miesta v
+Bratislavskom kraji a po jednom mieste v Trnavskom
+kraji, Nitrianskom kraji, Trenčianskom kraji,
+Banskobystrickom kraji, Žilinskom kraji, Prešovskom
+kraji, Košickom kraji.
+3. Poskytovateľ poskytne nástroje a materiál, potrebný k
+udržiavaniu HW v dobrých prevádzkových podmienkach
+prostredníctvom nutnej výmeny alebo opravy
+komponentov.
+4. Servisné pokrytie – 24x7, Servisné pokrytie
+špecifikuje dobu počas ktorej sú tieto služby k dispozícii.
+
+Strana 2 z 4
+
+5. Doba odozvy – Poskytovateľ potvrdí zaregistrovanie
+nahláseného hardvérového problému najneskôr do 4
+(štyroch) hodín od nahlásenia hardvérového problému
+podľa bodu 1 tejto špecifikácie. Poskytovateľ vykoná
+servisný zásah s garantovanou opravou do 24 h od
+potvrdenia registrácie problému podľa predchádzajúcej
+vety.
+6.Servisný zásah na účely tejto špecifikácie predstavuje
+odstránenie hardvérového problému, teda uvedenie HW
+do funkčného stavu (obnovenie fungovania HW, resp.
+obnovenie jeho funkcionality), alebo so súhlasom
+Objednávateľa servisný zásah na účely tejto špecifikácie
+predstavuje i dosiahnutie primeraného pokroku.
+7. Riadenie eskalácie – koordinácia eskalácie
+problémov. Možnosť eskalovať nahlásenie problému na
+vyššiu úroveň v prípade nedodržania lehoty podľa bodu
+5 tejto špecifikácie.
+8. Prístup do elektronických a internetových nástrojov a
+služieb týkajúcich sa HW, ako sú aktualizácie firmvéru a
+proaktívne upozorňovacie služby.
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+1. Cena musí zahŕňať všetky a akékoľvek náklady Poskytovateľa súvisiace s dodaním požadovaného predmetu zákazky (s
+poskytnutím služieb), vrátane akýchkoľvek nákladov na dopravu, montáž, balenie, odstránenie odpadov a poplatkov za
+znovupridanie položky pod podporu výrobcu HW (ak je pri niektorých položkách/HW nutné takýto poplatok zaplatiť).
+2.Poskytovateľ je povinný do 7 (siedmich) dní odo dňa nadobudnutia účinnosti zmluvy predložiť objednávateľovi certifikát
+výrobcu HW o poskytnutí podpory HW, z ktorého bude zrejmá doba, počas ktorej je poskytovaná podpora HW podľa tejto
+zmluvy.
+3.Platnosť a aktuálny stav podpory pre konkrétne sériové číslo HW musí byť preukázateľný a overiteľný priamo u výrobcu HW.
+V prípade, ak niektorý servisovaný komponent (HW) nespadá pod garanciu výrobcu, resp. nie je možné overiť platnosť a
+aktuálny stav podpory podľa predchádzajúcej vety, považuje sa to za podstatné porušenie zmluvy.
+4.Za podstatné porušenie zmluvy, s následkom odstúpenia od zmluvy, sa ďalej považuje dodávka služby, ktorá nespĺňa
+požadovanú funkčnú a technickú špecifikáciu, ako aj nepredloženie certifikátu od výrobcu preukazujúci podporu na HW.
+5.Poskytovateľ je zároveň povinný zabezpečiť vlastné klientske pracovisko na nahlasovanie servisných požiadaviek, ktoré je
+prevádzkované nepretržite v režime 24/7.
+6.Poskytovateľ je povinný zabezpečiť, aby jeho subdodávatelia v zmysle § 2 ods. 1 písm. a) bod 7. zákona č. 315/2016 Z. z. o
+registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení zákona č. 38/2017 Z. z. (ďalej len
+„zákon č. 315/2016 Z. z.") alebo § 2 ods. 5 písm. e) zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov, ktorým v súvislosti s touto zmluvou vznikla povinnosť zápisu do registra
+partnerov verejného sektora v zmysle zákona č. 315/2016 Z. z. (ďalej len "RPVS") boli riadne, včas a po ...
+... celú dobu trvania zmluvy zapísaní do RPVS. S výnimkou prípadov, kedy je zápis subdodávateľa do RPVS podmienkou
+nadobudnutia účinnosti zmluvy v zmysle OPET, sa porušenie povinnosti v zmysle predchádzajúcej vety, považuje za
+podstatné porušenie zmluvy. V prípade ak Objednávateľ od zmluvy neodstúpi, má voči Dodávateľovi právo na zmluvnú pokutu
+vo výške 1 % (jedno percento) z hodnoty zákazky.
+7.Ak vzniknú dôvody pre odstúpenie od zmluvy podľa § 15 ods. 1 zákona č. 315/2016 Z. z. a k odstúpeniu od zmluvy
+Objednávateľom nedôjde, má Objednávateľ právo na zmluvnú pokutu od Poskytovateľa vo výške 5 % (päť percent) z hodnoty
+zákazky.
+8.Okrem porušenia povinností v zmysle bodu 3 a 6 týchto osobitných požiadaviek na plnenie sa za podstatné porušenie
+zmluvy považuje tiež dodávka služby, ktorá nespĺňa požadovanú funkčnú a technickú špecifikáciu, ako aj nepredloženie
+ktoréhokoľvek Objednávateľom požadovaného dokladu.
+Názov
+2.4
+Popis
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+Názov súboru
+
+III. Zmluvné podmienky
+
+Strana 3 z 4
+
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Župné námestie 13, 813 11 Bratislava
+
+Čas / lehota plnenia zmluvy:
+04.06.2019 00:00:00 - 03.06.2021 00:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+celok
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.5, účinná zo dňa 1.1.2019 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 65 830,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 78 996,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 27.05.2019 14:38:02
+Objednávateľ:
+Ministerstvo spravodlivosti Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+PosAm, spol. s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

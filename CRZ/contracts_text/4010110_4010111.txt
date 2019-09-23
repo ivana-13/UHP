@@ -1,0 +1,401 @@
+Zmluva o poskytovaní služieb č. Z201914232_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky
+Stromová 1, 81330 Bratislava, Slovenská republika
+00164381
+2020798725
+SK2020798725
+SK8081800000007000065236
++421259374365
+
+Dodávateľ:
+Obchodné meno:
+
+ANASOFT APR s.r.o.
+
+Sídlo:
+
+Mlynská dolina 41, 81102 Bratislava, Slovenská republika
+
+IČO:
+
+31361552
+
+DIČ:
+
+2020345778
+
+IČ DPH:
+
+SK2020345778
+
+Číslo účtu:
+Telefón:
+
++421 2 3223 4111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Rozšírenie Check point riešenia o 5800 NGTP Appliance
+
+Kľúčové slová:
+
+Check point, rozšírenie, IPS sonda, 5800 NGTP Appliance
+
+CPV:
+
+72000000-5 - Služby informačných technológií: konzultácie, vývoj softvéru, internet a
+podpora; 72250000-2 - Služby týkajúce sa podpory systému; 72500000-0 - Služby
+súvisiace s počítačmi; 72222300-0 - Služby informačných technológií; 32420000-3 Sieťové zariadenia; 32422000-7 - Sieťové komponenty; 32424000-1 - Infraštruktúra siete;
+30236200-4 - Zariadenia na spracovanie údajov
+
+Druh/y:
+
+Služba; Tovar
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Rozšírenie Check Point
+
+Funkcia
+Predmet zákazky slúži na rozšírenie funkcionality (rozšírenie o ďalší device kvôli redundancii) zariadenia objednávateľa, ktoré
+aktuálne má funkciu IPS Sondy, tak aby zariadenie zároveň poskytovalo aj funkciu Firewallu a proxy.
+Technické vlastnosti
+
+Jednotka
+
+1. CPAP-SG5800-NGTP-HPP-SSD-HA: Check Point
+5800 Next Generation Threat Prevention Appliance High Performance Package HA with SSD, 16GB RAM,
+10x 1GbE onboard, Slot 1 (2x 10GbE SFP+) and Slot 2
+
+ks
+
+1
+
+2. CPAC-4-1C-BP-B-INSTALL: Check Point 4 Port 1GE
+copper Bypass (Fail-Open) Network interface card
+(10/100/1000 Base-T) compatible with 5800 appliance
+
+ks
+
+1
+
+3. CPAC-RAM16GB-5000: Check Point Memory
+Upgrade Kit from 16GB to 32GB for 5800 appliances
+
+ks
+
+2
+
+4. CPSM-NGSM5-EVNT: Check Point Next Generation
+Security Management SmartEvent dedicated Server for
+5 gateways (perpetual)
+
+ks
+
+1
+
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+
+5. CPSB-MOB-50: Check Point Mobile Access Blade for
+50 concurrent connections
+
+ks
+
+1
+
+6. CPSB-MOB-50-HA: Check Point Mobile Access Blade
+for 50 concurrent connections
+
+ks
+
+1
+
+7. CPSB-NGTP-5800-2Y-HA: "Check Point NGTP
+Package subscription for 1 year for 5800 Appliance High Avalability (HA) platnosť: 1.5.2020 - 31.10.2021 pre
+nový 5800 appliance: bod 1."
+
+ks
+
+1
+
+8. CPAP-SBTE250X-8VM: Check Point SandBlast TE
+Appliance TE250X. Delivers SandBlast zero-day service
+to gateways covered by NGTX license
+
+ks
+
+1
+
+9. CPSG-VSEC-VEN-BUN-NGTX-3Y: "Licencia pre MTA
+(cieľová výsledná 4-core licencia na 3 roky):Check Point
+1 CloudGuard IaaS virtual core for VMware ESXi,
+Hyper-V, KVM Gateway. Integrating Check Point‘s Next
+Generation Threat Prevention & SandBlast (NGTX)
+annual subscription for 3 years. Platnosť do 31.10.2021."
+
+ks
+
+4
+
+10. CES-Standard-PRO: "Check Point - Collaborative
+Enterprise Support - Standard PRO platnosť do
+31.10.2021 pre všetky nové položky: bod 1. až 6., 8., 9. "
+
+ks
+
+1
+
+11. a) Inštalácia (v človekodňoch) - analýza existujúceho
+stavu, návrh harmonogramu inštalačných prác,inštalácia a konfigurácia nového a existujúceho Check
+Point 5800 appliance ako hlavné firewally, konfigurácia
+vysokej dostupnosti (Active/Passive cluster), migrácia a
+update firewallových pravidiel z existujúcich Cisco
+firewallov na obe Check Point 5800 appliance,konfigurácia doplnkových bezpečnostných funkcií: IPS,
+Antivirus, Antibot, Web security/URL filter,- konfigurácia
+VPN prístupov pre 30 používateľov,
+
+MD
+
+19
+
+21
+
+11. b) Inštalácia a konfigurácia Check Point Smart Event
+Servera na virtuálny server (poskytne objednávateľ),inštalácia a konfigurácia Check Point SandBlast
+TE-250X appliance,- inštalácia a konfigurácia Check
+Point CloudGuard ako email MTA na preposielanie
+emailov na emuláciu do sandbox appliance (SandBlast),
+- zaškolenie min. 2 pracovníkov objednávateľa na
+správu, konfiguráciu, prevádzku a údržbu
+bezpečnostného riešenia Check Point Smart Event
+Servera na virtuálny server (poskytne objednávateľ)
+
+MD
+
+19
+
+21
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Existujúce riešenie Check Point 5800 NGTP appliance
+(ako IPS sonda)
+a) Check Point 5800 Next Generation Threat Prevention
+Appliance - High Performance Package with SSD, 16GB
+RAM, 10x 1GbE onboard, Slot 1 (2x 10GbE SFP+, 2x
+SFP+ transceiver for 10G fiber Ports - short range) and
+Slot 2
+b) 4 Port 1GE copper Bypass (Fail-Open) Network
+interface card (10/100/1000 Base-T) compatible with
+5800 appliance
+c) Next Generation Security Management Software for 5
+gateways (perpetual)
+d) Check Point - Collaborative Enterprise Support Standard for 1 year. Platnosť maintenance je do
+31.10.2021. Check point account ID 8059014.
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+I. PLNENIE PREDMETU ZÁKAZKY
+1. Dodávateľ je povinný dodať dohodnuté plnenie/tovar v termíne do 30 dní od uzavretia zmluvy a maintenance do
+31.10.2021. V opačnom prípade je objednávateľ oprávnený odstúpiť od zmluvy. Miestom plnenia je Bratislava.
+Strana 2 z 4
+
+2. Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti tejto zmluvy oznámi: a) kontaktné údaje osôb zodpovedných za
+riadne plnenie predmetu zmluvy v rozsahu: meno, priezvisko, telefónne číslo a e-mailová adresa, a ďalej telefónne číslo a web
+na ohlasovanie incidentov v rámci poskytovania podpory, b) položkový rozpočet, c) vlastný návrh plnenia, ktorý bude následne
+schválený/neschválený objednávateľom do 3 pracovných dní.
+3. Objednávateľ upozorňuje na skutočnosť, že vzhľadom na charakter a budúce použitie predmetu zákazky u objednávateľa,
+vyžaduje poskytnutie služby presne podľa špecifikácie, aby bola zachovaná kompatibilita predmetu zákazky so súčasným SW
+a HW objednávateľa. V prípade, že dodávateľ ponúkne ekvivalentnú službu, resp. službu, ktorá nebude kompatibilná, alebo
+hocijakým iným spôsobom nebude zachovaná funkčnosť služby vo vzťahu k súčasnému SW a HW, alebo inému technickému
+zariadeniu objednávateľa, dodávateľ sa zaväzuje do 7 dní zabezpečiť nápravu. V opačnom prípade, objednávateľ odstúpi od
+zmluvy.
+4. Predmetom zmluvy je aj inštalácia zariadenia na mieste dodania, jeho konfigurácia a zaškolenie min. 2 osôb objednávateľa.
+Dodávateľ je povinný poskytnúť objednávateľovi plnenie uvedené v predchádzajúcej vete bez nároku na osobitnú odmenu.
+5. Celé plnenie bodu 11. a) a 11. b) uvedené v časti Technické vlastnosti bude v slovenskom prípadne v českom jazyku.
+6. Dodávateľ je povinný dodať tovar podľa tejto zmluvy nový, nerozbalený. Tovar nemôže byť repasovaný/refurbished/renew.
+Tovar nesmie byť pred dodaním používaný, opotrebovaný, ani iným spôsobom čiastočne alebo úplne znehodnotený vo svojich
+technických a/alebo materiálových vlastnostiach. Tovar nesmie pochádzať z výstav alebo byť pred dodaním vystavovaný v
+obchodnej prevádzke.
+7. Pokiaľ z opisu predmetu zákazky vyplýva priame alebo nepriame označenie výrobku alebo výrobcu, objednávateľ v takom
+prípade pripustí ekvivalentné plnenie, za ktoré bude považovať plnenie rovnakých alebo vyšších parametrov, ako je uvedené
+vo funkčnej špecifikácii a v technickej špecifikácii predmetu zákazky a ktoré bude plne kompatibilné s aktuálnym zariadením
+objednávateľa z dôvodu predĺženia servisnej podpory.
+II. CENA
+1. Celková cena predmetu zákazky/zmluvy obsahuje všetky náklady dodávateľa spojené s plnením predmetu uvedeného v
+časti Technická špecifikácia predmetu zákazky/zmluvy a tiež všetky dane, clá, poplatky, platby vyberané v rámci uplatňovania
+nesadzobných opatrení ustanovené osobitnými predpismi, ako aj iné náklady spojené s plnením zmluvy.
+2. Dodávateľovi nevznikne nárok na úhradu akýchkoľvek dodatočných nákladov, ktoré si nezapočítal do ceny predmetu
+zákazky/zmluvy. Všetky ceny predložené dodávateľom zohľadňujú primerané, preukázateľné náklady a primeraný zisk. V
+prípade, že dodávateľ ku dňu predkladania ponuky nie je platcom DPH, avšak po podpise zmluvy sa ním stane, nemá nárok
+na zvýšenie ceny predmetu zákazky/zmluvy o hodnotu DPH.
+III. FAKTURÁCIA
+1. Úhrada za predmet zákazky/zmluvy bude realizovaná formou bezhotovostného platobného styku jednorazovo, po
+nadobudnutí účinnosti zmluvy a riadnom dodaní predmetu zákazky/zmluvy, na základe dodávateľom vyhotovenej a doručenej
+faktúry. Splatnosť faktúry je najneskôr do 30 dní odo dňa jej doručenia objednávateľovi. Dodávateľ je oprávnený vystaviť a
+doručiť faktúru až po riadnom a včasnom dodaní predmetu zákazky/zmluvy objednávateľovi v zmysle zmluvy.
+2. Dodávateľ sa zaväzuje poslať vyhotovenú faktúru v listinnej podobe poštou a súčasne aj v textovo čitateľnom súbore vo
+formáte PDF elektronicky, na e-mailovú adresu objednávateľa, a to bezodkladne po jej vystavení.
+3. Dodávateľom vystavená faktúra ako daňový doklad musí byť vyhotovená v súlade s ustanoveniami zákona č. 222/2004 Z. z.
+o dani z pridanej hodnoty v znení neskorších predpisov. V prípade, ak faktúra vystavená dodávateľom nebude obsahovať
+všetky zákonom stanovené náležitosti alebo bude obsahovať nesprávne alebo neúplné údaje, objednávateľ má právo takúto
+faktúru vrátiť dodávateľovi na jej doplnenie, resp. opravu a dodávateľ je povinný podľa charakteru nedostatku vystaviť novú,
+opravenú, resp. doplnenú faktúru s novou lehotu splatnosti.
+IV. ĎALŠIE USTANOVENIA
+1. V prípade, ak dodávateľ poruší akúkoľvek zmluvnú podmienku a/alebo ktorékoľvek ustanovenie uvedené v osobitných
+požiadavkách na plnenie a/alebo dodaná služba nebude spĺňať akúkoľvek vlastnosť uvedenú v Technickej špecifikácii
+predmetu zákazky/zmluvy, toto porušenie sa považuje za podstatné porušenie zmluvy a objednávateľ má právo odstúpiť od
+zmluvy.
+2. Podmienkou nadobudnutia platnosti a účinnosti zmluvy je zápis údajov o Dodávateľovi v registri partnerov verejného sektora
+podľa zákona č. 315/2016 Z.z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov. Ak v momente
+uzavretia zmluvy nemá Dodávateľ zapísaných v registri partnerov verejného sektora konečných užívateľov výhod v súlade s
+príslušnými ustanoveniami zákona, zmluva nadobudne účinnosť najneskôr v deň zápisu Dodávateľa do tohto registra.
+3. Dodávateľ musí disponovať partnerským certifikátom minimálne na úrovni Check Point 3-Star Partner platným ku dňu
+uzavretia tejto zmluvy, alebo ak ku dňu uzavretia zmluvy dosiahol úroveň partnerstva minimálne Check Point Value Added
+Reseller.
+Názov
+2.4
+Popis
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+Názov súboru
+
+Strana 3 z 4
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava III
+
+Obec:
+
+Bratislava - mestská časť Nové Mesto
+
+Ulica:
+
+Stromová 1
+
+Čas / lehota plnenia zmluvy:
+13.05.2019 00:00:00 - 31.10.2021 00:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+súbor
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.5, účinná zo dňa 1.1.2019 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 133 250,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 159 900,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+Príloha č.2 Vlastný návrh plnenia zákazky Z201914232
+
+V Bratislave, dňa 06.05.2019 10:38:02
+Objednávateľ:
+Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+ANASOFT APR s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

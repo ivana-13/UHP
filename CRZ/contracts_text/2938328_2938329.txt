@@ -1,0 +1,811 @@
+Zmluva o poskytovaní služieb
+uzatvorená podľa § 269 ods. 2 zák. č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+
+I.
+
+Altamira Softworks, s. r. o
+
+sídlo:
+IČO:
+IČ DPH:
+registrovaná:
+
+Jaskový rad 187, 831 01 Bratislava
+448 807 74
+SK2022861368
+zapísaná v Obchodnom registri Okresného súdu Bratislava I.
+odd. Sro, vložka č. 59592/B
+Tatra banka, a.s., Bratislava
+2628204147/1100
+SK22 1100 0000 0026 2820 4147
+TATRSKBX
+Mgr. Tomáš Mašek, konateľ
+
+Bankové spojenie:
+Číslo účtu:
+IBAN:
+SWIFT:
+zastúpený:
+
+ako dodávateľ na strane jednej (ďalej len „Dodávateľ”)
+a
+II.
+
+Slovenské národné divadlo
+
+sídlo:
+IČO:
+IČ DPH:
+DIC:
+Bankové spojenie:
+Číslo účtu:
+SWIFT:
+V zastúpení:
+
+Pribinova 17, 819 01 Bratislava 111
+00164763
+SK 2020829954
+2020829954
+Štátna pokladnica
+SK4881800000007000069886
+SPSRSKBA
+Mgr. art. Marián Chudovský, generálny riaditeľ
+Bc. Daniel Rabina, riaditeľ Centra marketingu
+
+ako objednávateľ na strane druhej (ďalej len „Objednávateľ” alebo „SND“)
+uzatvárajú v zmysle ust. § 269 ods. 2 Obchodného zákonníka túto o poskytovaní služieb
+Preambula
+Táto zmluva sa uzatvára na základe výsledku prieskumu trhu v zákazke s nízkou hodnotou podľa § 117 Zákona
+č. 343/2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+Čl.I DEFINÍCIE POJMOV
+Pre účely tejto Zmluvy zmluvné strany chápu nasledovné použité výrazy tak, ako sú nižšie definované.
+1. Web dokument – Dokument s obsahom Objednávateľa, ktorý je umiestnený a sprístupnený v sieti internet
+pod dohodnutou doménou.
+2. Web sídlo – Všetky Web dokumenty umiestnené spravidla pod jednou doménou, vrátane akýchkoľvek
+aplikačných riešení prevádzkovaných na internetovej alebo intranetovej sieti a dostupných cez Web
+prehliadač.
+3. Web prehliadač – Program na počítači zákazníka Objednávateľa, umožňujúci prezeranie Web dokumentov.
+4. Doména – Internetová adresa, na ktorej je prevádzkované a prístupné Web sídlo.
+5. Server – Technologické zariadenie, hardvérové a softvérové riešenie, ktoré umožňuje prevádzkovať Web
+sídlo, nachádzajúce sa u Dodávateľa.
+6. Provider – Tretia strana, ktorá zabezpečuje pripojenie, konektivitu Servera na sieť internet.
+7. Redakčný systém – Nástroj, produkt Dodávateľa umožňujúci aktualizáciu a správu Web sídla
+Objednávateľom.
+8. CMS Drupal 7 – Meno redakčného systému
+9. Zmluva – tento dokument vrátane všetkých príloh a dodatkov k nej, pokiaľ sa výslovne nehovorí inak.
+10. Zákazník – akékoľvek tretia osoba, ktorá má záujem o Web dokumenty a ďalší obsah nachádzajúci sa na
+Web sídle Objednávateľa
+
+1
+
+Čl.II PREDMET ZMLUVY
+II.1
+
+Predmetom Zmluvy je záväzok Dodávateľa poskytovať služby súvisiace s prevádzkou webového
+sídla SND, čiže služby uvedené v bode III.1 pre web sídlo Objednávateľa - www.snd.sk.
+
+II.2
+
+Predmetom Zmluvy je okrem záväzku podľa bodu II.1 tejto Zmluvy poskytnúť aj službu hosting web
+sídiel, najmä www.eurokontext.sk, www.baletnapripravkasnd.sk, www.abonentka.snd.sk.
+
+II.3
+
+Predmetom tejto Zmluvy je záväzok Objednávateľa zaplatiť za služby dohodnutú cenu.
+ČL.III
+
+III.1
+
+SLUŽBY
+
+Dodávateľ sa počas trvania tejto Zmluvy zaväzuje poskytovať:
+III.1.1 služby uvedené podľa čl. III.2
+III.1.2 aktualizácie a zmeny Web sídla podľa požiadaviek Objednávateľa v prípade, že bude vedené
+v redakčnom systému Drupal 7.
+V prípade, že by počas trvania zmluvy došlo k zmene
+redakčného systému, zmluvné strany sa zaväzujú si poskytnúť navzájom súčinnosť pre
+dosiahnutie účelu tejto Zmluvy, aj po zmene redakčného systému.
+III.1.3 hosting web sídiel www.eurokontext.sk, www.baletnapripravkasnd.sk, www.abonentka.snd.sk
+najmä za podmienok v zmysle bodov III.2.1 a III.2.15 tejto Zmluvy.
+ďalej aj len „Služby“
+
+III.2
+
+Dodávateľ sa pri poskytovaní služieb ďalej zaväzuje:
+Webhosting a prevádzka web sídla www.snd.sk na Serveri Dodávateľa, pričom prevádzkou
+Web sídla sa rozumie udržiavanie nepretržitej prevádzky a konektivity Servera a požadovaných
+úprav v redakčnom systéme CMS DRUPAL.
+III.2.2 Zabezpečenie poskytovania služieb súvisiacich s prevádzkou webového sídla s primeranou
+rýchlosťou odozvy a robustnosti systému ,úmernej počtu pripájaných návštevníkov pri 250 000
+návštevách mesačne a 8 000 návštevách súčasne, s priestorom na rast.
+III.2.3 Zabezpečenie bezvýpadkového prístupu na Internet, okrem nevyhnutného času na údržbu
+servera po predchádzajúcom ozname minimálne 3 dni vopred.
+III.2.4 Pravidelná aktualizácia zverejneného zdrojového kódu na GIT LAB po každej zmene vykonanej
+na webovom sídle.
+III.2.5 Odstraňovanie porúch redakčného systému, pokiaľ spôsobujú obmedzenie funkčnosti alebo
+nefunkčnosť Web sídla Objednávateľa.
+III.2.6 Proaktívne monitorovanie dostupnosti a rýchlosti webového sídla.
+III.2.7 Záloha údajov a dát minimálne na 2 miestach vrátane ich zabezpečenia pred zneužitím.
+III.2.8 Odstraňovanie závad podľa nasledujúceho kľúča:
+- kritická závada: reakcia do 1 hodiny, návrh riešenia do 2 hodín.
+- vážna závada: reakcia do 2 hodín, návrh riešenia do 4 hodín.
+- iná závada: reakcia do 4 hodín, návrh riešenia do 8 hodín.
+III.2.9 Uchovávanie uložených a poskytnutých údajov a ochrana pred ich stratou a/alebo zničením a
+/alebo zneužitím.
+III.2.10 Zabezpečenie helpdesku v časoch:
+- Pracovné dni od 8.00 do 20.00
+- Víkend (a štátne sviatky) od 8.00 do 19.00
+III.2.11 Zabezpečenie prístupových práv k webovej stránke určeným zamestnancom SND na
+editovanie webovej stránky v určenom/vymedzenom rozsahu.
+III.2.12 Zabezpečenie ochrany osobných údajov objednávateľa, ako aj všetkých ostatných osôb, najmä
+zákon č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v
+znení neskorších právnych predpisov, v súvislosti s poskytovaním služieb.
+III.2.13 Dodržiavanie bezpečnostných pravidiel podľa Kontrolného zoznamu pre bezpečnosť webových
+aplikácií.
+III.2.14 Poskytnutie offline verzie webového sídla na požiadanie v elektronickej podobe.
+III.2.15 Webhosting pre sekundárne webové sídla menšieho rozsahu, napr. www.eurokontext.sk (od 1.
+júla 2017), www.abonentka.sk (Spolu max 5 sídiel v priebehu jedného roka). Prípadnú zmenu
+webového sídla nahlási Objednávateľ prostredníctvom e-mailu Dodávateľovi v dostatočnom
+predstihu, najmenej 30 dní pred plánovanou zmenou.
+III.2.16 Poradenstvo a konzultácie v súvislosti s Web sídlom verejného obstarávateľa v pracovnom
+čase. Čas potrebný na konzultácie a poradenstvo sa čerpá z predplateného objemu podľa bodu
+III.2.17.
+III.2.17 Aktualizácie a zmeny na Web sídle v rozsahu 4 osobohodín/mesiac (zahrnuté v cene za
+službu podľa tejto Zmluvy).
+III.2.1
+
+ČL.IV
+
+TERMÍNY TVORBY A DODANIA SLUŽIEB
+
+2
+
+IV.1
+
+Službu podľa bodu III.1.1 dodáva Dodávateľ Objednávateľovi priebežne v lehotách podľa bodu III.2.8
+tejto Zmluvy. Chyby, ktoré spôsobujú nefunkčnosť alebo chybnú funkčnosť Web sídla a ich
+odstránenie súvisiace s povinnosťami Dodávateľa v rámci plnenia Služieb v tejto Zmluve, je Dodávateľ
+povinný odstrániť od zistenia chýb pri monitorovaní Dodávateľom alebo nahlásenia chýb zo strany
+Objednávateľa.
+
+IV.2
+
+Objednávateľ a Dodávateľ sa dohodli, že aktualizáciu Web sídla si bude oprávnený za pomoci
+redakčného systému Drupal 7 vykonávať Objednávateľ sám, pričom pokiaľ by mal záujem o pomoc zo
+strany Dodávateľa, Dodávateľ bude plniť Služby podľa bodu III.1.2 priebežne na základe písomnej
+objednávky Objednávateľa. Na základe objednávky Objednávateľa si Dodávateľ a Objednávateľ
+dohodnú termín dodania aktualizácie a/alebo zmeny Web sídla a termín dodania potrebných
+podkladov a informácií zo strany Objednávateľa. Služba je dodaná momentom sprevádzkovania
+aktualizovaných a/alebo zmenených častí Web sídla Objednávateľa na Serveri Dodávateľa. V prípade,
+že Objednávateľ bude mať záujem o zabezpečenie aktualizácie a/alebo zmeny Web sídla, pričom
+rozsah Služieb už presiahol rozsah 4 osobohodín za mesiac, Dodávateľ je povinný vykonať tieto
+Služby iba ak sa s ním Objednávateľ dohodne na cene za tieto Služby nad rámec ceny podľa bodu
+VII.1. Práce nad zmluvne dohodnutý predplatený rozsah 4 osobohodín mesačne sú spoplatnené podľa
+článku VII.1.2 v rozsahu skutočne vykonaných prác a Dodávateľ je oprávnený ich vykonať len na
+základe predchádzajúcej písomnej objednávky Objednávateľom.
+
+IV.3
+
+Dodávateľ informoval Objednávateľa, že na zabezpečenie riadnej prevádzky Web sídla na jeho Serveri
+bude nevyhnutné, aby jedenkrát mesačne vykonával údržbu, inovácie a vylepšenia Servera, na čo
+bude nevyhnutné prerušiť prevádzkovanie alebo obmedziť prevádzkovanie Web sídla Objednávateľa.
+Objednávateľ dané akceptuje a potvrdzuje, že prerušenie alebo obmedzenie prevádzky Web sídla z
+tohto dôvodu na čas nevyhnutne potrebný, najdlhšie však na 24 hodín nie je porušením povinností
+Dodávateľa podľa tejto Zmluvy. Zmluvné strany sa dohodli, že o obmedzení alebo prerušení prevádzky
+Web sídla na tieto účely, bude Dodávateľ písomne informovať Objednávateľa vždy najneskôr 24 hodín
+pred plánovaným obmedzením alebo prerušením, pričom v oznámení uvedie aj predpokladaný čas
+trvania prerušenia alebo obmedzenia prevádzky. A zabezpečí oznámenie na stránke www.snd.sk
+oznamom „Ospravedlňujeme sa, prebieha úprava stránky.“ Ustanovenia tohto bodu platia aj pre
+prípad, že obmedzenie alebo nefunkčnosť Web sídla bude spôsobené v dôsledku vykonávania
+aktualizácie a/alebo zmeny Web sídla Dodávateľom alebo v prípade upgrade Drupal 7.
+
+IV.4
+
+V prípade, že Objednávateľ je v omeškaní s plnením svojich povinností, ktoré predchádzajú alebo sú
+potrebné k plneniu povinností zo strany Dodávateľa, lehoty stanovené na plnenie povinností
+Dodávateľa sa predĺžia o dobu, počas ktorej je Objednávateľ v omeškaní. Dodávateľ je oprávnený plniť
+svoje povinnosti podľa tejto Zmluvy počas plynutia lehoty, t.j. je oprávnený dodať Služby kedykoľvek
+počas plynutia lehoty.
+
+IV.5
+
+Odstránenie a oprava prípadných nahlásených chýb Objednávateľom sa čerpá z predplateného
+rozsahu osobohodín podľa bodu III.2.17, okrem chýb (vád), ktoré sú spôsobené dodávateľom a/alebo
+reklamované Objednávateľom, kedy je odstránenie a oprava zahrnutá v cene služby. V prípade, že
+odstránenie chyby podľa odhadu Dodávateľ zaberie viac než predplatený objem, Dodávateľ je povinný
+o tejto skutočnosti Objednávateľa informovať a poskytnúť mu časový odhad náročnosti. Dodávateľ je
+oprávnený na odstránení chyby pracovať až po schválení časového odhadu náročnosti
+Objednávateľom. Práce nad zmluvne dohodnutý predplatený rozsah 4 osobohodín mesačne sú
+spoplatnené podľa článku VII.1.2 v rozsahu skutočne vykonaných prác.
+
+ČL.V
+
+POVINNOSTI ZMLUVNÝCH STRÁN
+
+V.1
+
+Objednávateľ sa zaväzuje riadne a včas poskytnúť Dodávateľovi textové, obrazové podklady a ďalšie
+podklady a svoje požiadavky potrebné na plnenie povinností Dodávateľa v rámci plnenia Služby podľa
+bodu III.1.2, pokiaľ o ňu Dodávateľ požiada v súlade s bodom IV.2, pričom textové podklady musí
+dodať v elektronickej forme v bežne používanom formáte MS Word.
+
+V.2
+
+Objednávateľ je povinný pred poskytnutím podkladov, ktoré Dodávateľovi poskytuje výhradne
+Objednávateľ, vysporiadať všetky práva tretích osôb s nimi súvisiace, najmä autorské práva a iné
+práva tretích osôb. Objednávateľ vyhlasuje, že má právo nakladať s podkladmi do takej miery, že je ich
+možné použiť pri aktualizácii a/alebo zmene Web sídla, pričom týmto dáva súhlas na spracovanie
+podkladov v rámci aktualizácii a/alebo zmene WEB sídla. Dodávateľ nezodpovedá za porušenie práv
+tretích osôb vyplývajúce z použitia podkladov poskytnutých Objednávateľom. V prípade uplatnenia
+nárokov zo strany tretích strán priamo voči Dodávateľovi z dôvodov preukázaného porušenia
+povinnosti Objednávateľa podľa tohto bodu Zmluvy sa Objednávateľ zaväzuje Dodávateľa v plnom
+rozsahu odškodniť.
+
+V.3
+
+Objednávateľ zodpovedá za to, že obsah materiálov dodaných Objednávateľom na účely vytvorenia a
+prevádzky Web sídla neporušuje práva tretích osôb a je v súlade so zákonmi a ďalšími právnymi
+
+3
+
+predpismi Slovenskej republiky. Ak Dodávateľ preukáže opak alebo ak zistí takúto preukázateľnú
+skutočnosť, Dodávateľ je oprávnený a zároveň povinný vykonať také opatrenia, vďaka ktorým nebude
+Web sídlo Objednávateľa obsahovať také materiály, ktorých vlastníctvo napadli tretie osoby. Na tento
+účel je Dodávateľ oprávnený tieto materiály z Web sídla odstrániť a zároveň o tejto skutočnosti
+písomne a bezodkladne informovať Objednávateľa. Dodávateľ je oprávnený vykonať opatrenia na
+zneprístupnenie Web sídla Objednávateľa jeho Zákazníkom aj vtedy, ak bude o to požiadaný
+akýmkoľvek správnym alebo štátnym alebo iným orgánom vykonávajúcim štátnu moc, ktorý tak urobí v
+rámci riešenia porušenia právnych predpisov zo strany Objednávateľa, v rozsahu svojich právomocí
+a zároveň o tejto skutočnosti písomne a bezodkladne informovať Objednávateľa. Opatrenia podľa tohto
+bodu nemajú vplyv na povinnosť Objednávateľa platiť cenu podľa bodu VII.1. O opatreniach
+vykonaných podľa tohto bodu, rovnako ako aj o dôvode vykonania opatrenia je Dodávateľ povinný
+ihneď, najneskôr do 24 hodín informovať Objednávateľa.
+V.4
+
+Zmluvné strany sú povinné počas aktualizácie a/alebo zmeny Web sídla si navzájom a bezodkladne,
+najneskôr do 24 hodín odpovedať na dotazy súvisiace s Web sídlom a jeho konečným spracovaním.
+Zmluvné strany sú povinné si navzájom poskytnúť aj ďalšiu súčinnosť, o ktorú bude druhá strana
+požiadaná a bude potrebná pri plnení povinností podľa tejto Zmluvy.
+
+V.5
+
+Objednávateľ týmto udeľuje súhlas s tým, že Dodávateľ umiestni krátky text do 15 slov a hyperlinku z
+tohto textu na spodnej časti Web sídla Objednávateľa, ktorý bude informovať o použitej technológii
+spracovania Web sídla. Hyperlinka bude odkazovať na Web sídlo Dodávateľa.
+
+V.6
+
+Dodávateľ sa zaväzuje poskytovať služby podľa tejto Zmluvy na vlastnú zodpovednosť, s plnou
+odbornou starostlivosťou, plne v súlade s touto Zmluvou, ako aj plne súlade s pokynmi Objednávateľa,
+ako aj v súlade a na základe Zadania a propozícii SND, ktoré tvoria prílohu č. 1 k tejto Zmluve.
+
+V.7
+
+Dodávateľ sa zaväzuje dodržiavať všetky všeobecné právne predpisy, ako aj iné predpisy a normy
+vzťahujúce sa na poskytovanie činnosti podľa tejto Zmluvy. Dodávateľ plne zodpovedá za činnosť
+poskytovanú na základe tejto Zmluvy. V prípade, že je to potrebné na poskytnutie služby dodávateľom
+podľa tejto Zmluvy, zaväzuje sa Dodávateľ vysporiadať všetky práva a povinnosti tretích osôb, ktoré
+súvisia s poskytnutím služby Dodávateľom podľa tejto Zmluvy, pričom vysporiadanie podľa tejto vety je
+zahrnuté v cene podľa čl. VII bod VII.1 tejto Zmluvy.
+
+V.8
+
+Dodávateľ sa zaväzuje poskytnúť služby podľa tejto Zmluvy sám. V prípade, ak využíva tretie osoby, je
+potrebné, aby mal uzatvorený zmluvný vzťah s týmito osobami v súlade s právnymi predpismi platnými
+na území SR. Dodávateľ je povinný vopred písomne oznámiť Objednávateľovi všetkých
+subdodávateľov, ktorých bude počas trvania tejto Zmluvy používať, a to najneskôr do 15 dní od
+skutočnosti, keď sa o zabezpečení takéhoto subdodávateľa dozvie a Objednávateľ je oprávnený so
+subdodávateľom, ktorý nespĺňa podmienky podľa tejto Zmluvy, a/alebo podmienky stanovené
+právnymi predpismi platnými v Slovenskej republike odmietnuť, a to do 15 dní, keď sa o dôvode pre
+odmietnutie dozvie. Za poskytovanie služieb prostredníctvom subdodávateľov zodpovedá Dodávateľ
+tak, ako keby služby poskytoval on sám..
+
+ČL.VI
+
+VI.1
+
+KOMUNIKÁCIA ZMLUVNÝCH STRÁN
+
+Pre účely plnenia povinností podľa tejto Zmluvy, pre účely zasielania objednávok týkajúcich sa
+aktualizácie a/alebo zmeny Web sídla, upozorňovania na nefunkčnosť resp. obmedzené funkčnosť
+Web sídla, pre účely uplatňovania práv a nárokov voči druhej strane, ktoré vzniknú zmluvným stranám
+počas trvania tejto Zmluvy si Objednávateľ a Dodávateľ určujú týmto kontaktné osoby, ktoré budú
+oprávnené konať v mene tej ktorej strany, pričom týmito osobami sú:
+VI.1.1 Kontaktná osoba za Objednávateľa:
+Meno a priezvisko: Katarína Ševčíková
+adresa:
+Pribinova 17, 819 01 Bratislava
+e-mail:
+katarina.sevcikova@snd.sk
+tel. č.:
+02/2047 2506
+mobil:
+0908 978 263
+VI.1.2 Kontaktná osoba za Dodávateľa:
+Meno a priezvisko: Samuel Sásik, sales representative
+adresa:
+Gorazdova 24, 811 04 Bratislava
+e-mail:
+sasik@altamira.sk
+mobil:
+0948 656 863
+
+VI.2
+
+Určením kontaktných osôb nie sú obmedzené možnosti štatutárnych orgánov a ich členov zmluvných
+strán konať v mene zmluvných strán. Právne úkony týkajúce sa zmien tejto Zmluvy alebo jej ukončenia
+môžu vykonať len osoby, ktoré sú v mene zmluvnej strany oprávnené konať ako štatutárni zástupcovia
+alebo osoby, s postavením a/alebo pracovným zaradením, s ktorými je spojené oprávnenie vykonať, v
+mene tej ktorej zmluvnej strany, dané právne úkony.
+
+4
+
+VI.3
+
+Kontaktné osoby určené v bode VI.1 sú oprávnené konať za tú ktorú zmluvnú stranu, až do doby, kým
+tá ktorá zmluvná strana písomne neoznámi zmenu kontaktnej osoby. Následne po oznámení sú úkony
+pôvodnej kontaktnej osoby neplatné a neúčinné. Zmluvné strany v prípade zmeny kontaktných údajov
+oznámia nové údaje písomne, pričom nové údaje sú pre druhú zmluvnú stranu záväzné až doručením
+oznámenia druhej zmluvnej strane.
+
+VI.4
+
+V prípade, že podľa tejto Zmluvy sa vyžaduje, aby bol ten ktorý úkon pri plnení tejto Zmluvy urobený
+písomne je ho možné vykonať mailom, faxom alebo listom, a to na adresy a čísla uvedené v bode VI.1
+alebo oznámené podľa bodu VI.3, pokiaľ táto Zmluva výslovne nehovorí inak. Úkony smerujúce k
+zmene alebo zrušeniu tejto Zmluvy, je možné vykonať len listom alebo osobitným dokumentom.
+
+ČL.VII
+
+VII.1
+
+DOHODA O CENÁCH
+
+Objednávateľ sa zaväzuje platiť Dodávateľovi mesačne nasledovnú cenu:
+VII.1.1 za poskytovanie Služieb podľa bodu III.1.1 vo výške
+Popis práce
+Webhosting a prevádzka sídla www.snd.sk
+vrátane všetkých základných požiadaviek,
+definovaných v zadaní k výberovému konaniu
+
+Jednotka
+
+*Celková cena na mesiac:
+mesiac
+*Celková cena na 25 mesiacov (od nadobudnutia účinnosti)
+
+Cena bez DPH
+
+160,00 EUR
+4 000,00 EUR
+
+Cena s 20 % DPH
+
+192,00 EUR
+4 800,00 EUR
+
+* Cena podľa tohto bodu Zmluvy je konečná a zahŕňa požiadavky definované Dodávateľom
+(verejným obstarávateľom) v zadaní k výberovému konaniu – v jeho požiadavkách na predmet
+zákazky a všetky potrebné plnenia v súvislosti s poskytnutím služby podľa tejto Zmluvy, ak táto
+Zmluva nestanovuje niečo iné.
+VII.1.2 za poskytovanie služieb podľa článku III. nad rámec 4 osobohodín mesačne zahrnutých v cene
+podľa bodu VII.1.1
+Popis práce
+Cena služieb vykonávaných nad rámec
+základných požiadaviek verejného obstarávateľa
+
+Jednotka
+osobohodina
+
+Cena bez DPH
+21,50 €
+
+Cena s 20 % DPH
+25,80 €
+
+VII.2
+
+Dodávateľovi vzniká nárok na vystavenie faktúry za Služby podľa článku III. nad rámec osobohodín
+v počte podľa bodu IV.2 zahrnutých v cene podľa bodu VII.1.2, momentom jej poskytnutia.
+
+VII.3
+
+Ceny podľa predchádzajúcich bodov sú splatné na základe vystavenej faktúry, pričom splatnosť faktúr
+je 30 dní od ich doručenia Objednávateľovi. Dodávateľ je oprávnený vystaviť faktúru po tom, čo mu
+vznikne nárok na vystavenie tej ktorej faktúry za poskytnutie konkrétnej služby podľa tejto Zmluvy.
+
+VII.4
+
+Cena je uhradená dňom jej pripísania na účet Dodávateľa.
+
+VII.5
+
+V prípade omeškania Objednávateľa s uhradením ceny je Dodávateľ oprávnený účtovať
+Objednávateľovi úroky z omeškania vo výške 0,03% denne z dlžnej sumy za každý i začatý deň
+omeškania.
+
+VII.6
+
+Faktúra musí spĺňať náležitosti riadneho daňového dokladu v súlade so zákonom o účtovníctve a
+zákonom o dani z pridanej hodnoty. V opačnom prípade je Objednávateľ oprávnený ju vrátiť na
+prepracovanie Dodávateľovi, pričom v takom prípade začne plynúť nová lehota splatnosti až
+vystavením novej riadnej faktúry.
+
+Čl.VIII
+
+ZODPOVEDNOSŤ ZA ŠKODY A ZLUVNÁ POKUTA
+
+VIII.1
+
+Zmluvné strany sa dohodli, že zodpovednosť za škodu sa spravuje § 373 Obchodného zákonníka, ak
+táto Zmluva nestanovuje inak. Zmluvné strany nezodpovedajú za porušenie povinnosti podľa Zmluvy,
+pokiaľ je porušenie povinnosti spôsobené okolnosťou vylučujúcou zodpovednosť podľa ust. § 374
+Obchodného zákonníka.
+
+VIII.2
+
+Zmluvné strany sa zaväzujú navzájom bez zbytočného odkladu informovať o porušení zmluvnej
+povinnosti z dôvodu okolnosti vylučujúcej zodpovednosť.
+
+5
+
+VIII.3
+
+Každá zmluvná strana bude oslobodená od plnenia akejkoľvek povinnosti vyplývajúcej zo Zmluvy
+pokiaľ, a do tej miery, do ktorej je toto plnenie závažne obmedzené alebo znemožnené mimoriadnymi
+okolnosťami nezávislými od vôle danej zmluvnej strany, vrátane (do miery aplikovateľnej), ale nielen,
+vojny, štrajku, povstania, občianskych nepokojov, požiaru, teroristického útoku, povodne alebo inej
+živelnej katastrofy alebo reštrikcií na vývoz alebo dovoz zo strany zahraničných alebo vládnych
+právnych predpisov, akejkoľvek inej okolnosti mimo jej dosahu, za predpokladu, že táto zmluvná
+strana, ktorá požaduje takéto ospravedlnenie, ihneď oznámi druhej zmluvnej strane začatie a
+skončenie akejkoľvek podobnej okolnosti a vynaloží maximálne úsilie, aby minimalizovala nemožnosť
+plnenia svojich povinností podľa tejto Zmluvy. Po skončení tejto okolnosti ospravedlnená zmluvná
+strana bude ihneď pokračovať v plnení všetkých povinností, ktorých plnenie bolo touto okolnosťou
+prerušené. Ak by táto okolnosť trvala nepretržite viac ako 6 mesiacov, môžu sa zmluvné strany
+rozhodnúť, jednomyseľne prijatým rozhodnutím, či by Zmluva mala byť upravená alebo ukončená v
+dôsledku takejto udalosti vyššej moci.
+
+VIII.4
+
+Dodávateľ sa zaväzuje dodržiavať podmienky stanovené touto Zmluvou. V prípade neodstránenia
+závady ani po upozornení Objednávateľa a poskytnutí primeranej lehoty na odstránenie alebo
+v prípade opakovaného porušenia povinností Dodávateľom, je SND oprávnené vyžadovať za každé
+opakované porušenie zmluvy zaplatenie zmluvnej pokuty vo výške 300,-€ do 30 dní od doručenia
+výzvy na úhradu zo strany SND Dodávateľovi. Porušenie uvedené v predchádzajúcej vete tohto bodu
+Zmluvy sa týka tzv. kritických chýb, ktoré úplne znemožňujú použitie webovej stránky alebo vážnych
+chýb, ktoré zásadným spôsobom obmedzujú funkčnosť niektorej z dôležitých súčastí webového sídla
+SND. Týmto nie je dotknutý nárok na náhradu škody podľa tohto bodu Zmluvy v súvislosti s porušením
+povinnosti dodávateľom podľa tejto Zmluvy.
+
+VIII.5
+
+Dodávateľ je povinný uhradiť aj akékoľvek sankcie, pokuty alebo iné plnenia na základe konštatovania
+štátneho orgánu, správneho orgánu, súdu alebo iných oprávnených osôb alebo orgánov a inštitúcií,
+v prípade, že sankcia vyplýva z porušenia povinnosti dodávateľa podľa tejto Zmluvy.
+
+ČL.IX
+
+IX.1
+
+POVINNOSŤ MLČANLIVOSTI
+
+Zmluvné strany sa dohodli, že všetky skutočnosti, informácie a údaje, ktoré sa zmluvné strany
+dozvedeli v súvislosti s dojednávaním alebo plnením tejto Zmluvy o druhej zmluvnej strane alebo o jej
+produktoch a/alebo službách (ďalej len „Informácie“), ako aj osobné údaje súvisiace s poskytovaním
+služby, sú dôvernými informáciami okrem:
+Informácií, ktoré v čase ich sprístupnenia sú, boli alebo sa stali od ich sprístupnenia
+dostupnými verejnosti inak ako porušením tejto Zmluvy alebo sprístupnením treťou osobou,
+o ktorej zmluvná strana vedela, že táto tretia osoba porušila povinnosť nesprístupniť také
+Informácie;
+IX.1.2 Informácií, ktoré mala zmluvná strana k dispozícii v čase ich sprístupnenia alebo Informácie,
+ktoré si zmluvná strana nezávisle od sprístupnenia vytvorila; a
+IX.1.3 Informácií, ktoré boli sprístupnené zmluvným stranám treťou osobou, ktorá bola oprávnená
+tieto Informácie sprístupniť
+(ďalej len „Dôverné informácie“);
+o ktorých sú obe zmluvné strany povinné zachovávať mlčanlivosť, ak nie je v Zmluve dohodnuté inak.
+Záväzok zmluvných strán zachovávať mlčanlivosť podľa Zmluvy nie je časovo obmedzený a platí aj po
+ukončení platnosti a účinnosti Zmluvy v zmysle článku Čl.XI Zmluvy, a to až do doby, kým sa Dôverné
+informácie nestanú informáciami, ktoré podľa vyššie uvedeného, nie sú dôvernými informáciami.
+IX.1.1
+
+IX.2
+
+Objednávateľ sa zaväzuje, že Dôverné informácie Dodávateľa bez predchádzajúceho písomného
+súhlasu Dodávateľa ďalej neposkytne tretím osobám a ani neumožní prístup tretích osôb k Dôverným
+informáciám.
+
+IX.3
+
+Za porušenie povinnosti zachovávať mlčanlivosť podľa tohto článku ohľadne Dôverných informácií sa
+nepokladá ich poskytnutie príslušným štátnym orgánom, pokiaľ to vyplýva zo všeobecne záväzného
+právneho predpisu, ich použitie potrebných informácií alebo dokumentov v prípadných súdnych,
+správnych a iných konaniach ohľadom práv a povinností vyplývajúcich zo Zmluvy, poskytnutie
+účtovným, právnym a ďalším poradcom, ktorí budú Dôverné informácie potrebovať poznať na plnenie
+svojich úloh. Pri poskytnutí Dôverných informácií tretím osobám, v zmysle predchádzajúcej vety, je tá
+ktorá zmluvná strana povinná skutočnosť, že sa jedná o Dôverné informácie, tretej strane oznámiť a
+zaviazať ju mlčanlivosťou v rozsahu podľa tu uvedeného.
+
+IX.4
+
+Za porušenie povinnosti zachovávať mlčanlivosť podľa tohto článku sa taktiež nepovažuje zverejnenie
+tejto Zmluvy v zmysle zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene
+a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+
+ČL.X
+
+OCHRANA OSOBNÝCH ÚDAJOV A MLČANLIVOSŤ
+
+6
+
+X.1
+
+Dodávateľ sa zaväzuje zachovávať mlčanlivosť o všetkých skutočnostiach, informáciách a iných
+údajoch, vrátane osobných údajov v zmysle zákona č. 122/2013 Z. z. o ochrane osobných údajov v
+znení neskorších predpisov, o ktorých sa dozvedel v súvislosti s plnením tejto zmluvy. Dodávateľ sa
+rovnako zaväzuje dodržiavať právne predpisy súvisiace s poskytovaním služby. Dodávateľ sa
+zaväzuje chrániť práva duševného vlastníctva patriace Objednávateľovi ako aj práva tretích osôb, ktoré
+by mohli byť plnením tejto zmluvy dotknuté.
+
+X.2
+
+Objednávateľ vyhlasuje, že prijal potrebné bezpečnostné opatrenia zodpovedajúce spôsobu
+spracúvania osobných údajov podľa tejto Zmluvy. Zmluvné strany uzatvárajú túto Zmluvu za
+nasledujúcich podmienok:
+X.2.1
+
+Účelom spracúvania osobných údajov: definovaný Čl.III (ďalej len ako „Služby“).
+
+X.2.2
+
+Touto Zmluvou sa zabezpečuje ochrana nasledovných osobných údajov spracúvaných
+Dodávateľ v mene Objednávateľa:
+Osobné údaje v rozsahu uloženom na webovom priestore a serveroch Dodávateľa.
+
+X.2.3
+X.3
+
+Dotknutými osobami sa na účely tejto Zmluvy rozumejú fyzické osoby – návštevníci, alebo
+potenciálni návštevníci a klienti Objednávateľa.
+
+Zmluvné strany sa dohodli na nasledovných základných podmienkach ochrany osobných údajov pri ich
+spracúvaní:
+X.3.1
+
+Dodávateľ je oprávnený spracúvať osobné údaje poskytnuté Objednávateľom, jeho
+oprávnenými osobami výhradne v rozsahu a za podmienok ustanovených v platných právnych
+predpisoch a dojednaných v tejto Zmluve.
+
+X.3.2
+
+Dodávateľ je oprávnený pre účely plnenia tejto Zmluvy vykonávať len tie operácie, ktoré sú
+nevyhnutné pre splnenie účelu tejto Zmluvy.
+
+X.3.3
+
+Objednávateľ si vyhradzuje právo rozhodnúť o poskytovaní získaných osobných údajov
+z informačného systému tretím stranám, ktoré môže byť vykonané iba na základe
+predchádzajúceho písomného súhlasu vydaného oprávneným štatutárnym zástupcom
+Objednávateľa.
+
+X.3.4
+
+V súvislosti so spracúvaním osobných údajov sa Objednávateľ zaväzuje poskytovať
+Dodávateľ správne a aktuálne osobné údaje, tým nie je dotknutá zodpovednosť dotknutých
+osôb za pravdivosť poskytnutých osobných údajov.
+
+X.3.5
+
+Za ochranu a bezpečnosť poskytnutých osobných údajov zodpovedá Dodávateľ tým, že ich
+chráni pred odcudzením, stratou, poškodením, neoprávneným prístupom, zmenou
+a rozširovaním. Dodávateľ sa za týmto účelom zaväzuje prijať primerané technické,
+organizačné a personálne opatrenia zodpovedajúce spôsobu spracovania osobných údajov v
+informačnom systéme a to formou a za podmienok stanovených Zákonom.
+
+X.3.6
+
+Dodávateľ a ním poverení zamestnanci, ktorí prichádzajú do styku s osobnými údajmi
+dotknutých osôb sú povinní zachovávať o nich mlčanlivosť, povinnosť mlčanlivosti trvá aj po
+ukončení spracúvania osobných údajov. Tým nie sú dotknuté ustanovenia osobitných
+zákonov.
+
+X.3.7
+
+Dodávateľ sa zaväzuje preukázateľne poučiť vlastné oprávnené osoby o ich právach a
+povinnostiach pri ochrane osobných údajov vyplývajúcich z platných právnych predpisov, tejto
+Zmluvy, ako aj o zodpovednosti v prípade ich porušenia.
+
+X.3.8
+
+Dodávateľ sa zaväzuje bezodkladne písomne oznámiť Objednávateľovi každý prípad
+podozrenia úniku, straty, zničenia, zneužitia alebo iného nenáležitého nakladania s osobnými
+údajmi.
+
+X.3.9
+
+Objednávateľ aj Dodávateľ sa zaväzujú rešpektovať práva dotknutej osoby a to najmä na
+informácie súvisiace so spracúvaním jej osobných údajov v informačnom systéme.
+
+X.3.10
+
+Dodávateľ po skončení účelu spracúvania osobných údajov, najneskôr však po skončení
+platnosti tejto Zmluvy bezodkladne odovzdá Objednávateľovi všetky osobné údaje a doklady
+súvisiace s ich spracúvaním v informačnom systéme, ktoré mu boli poskytnuté
+Objednávateľom alebo dotknutými osobami. Dodávateľ následne zabezpečí bezodkladnú
+likvidáciu osobných údajov vo svojich systémoch. Objednávateľ po skončení účelu
+spracúvania osobných údajov zabezpečí úschovu a ochranu osobných údajov v súlade s
+platnou legislatívou.
+
+X.3.11
+
+Dodávateľ nie je oprávnený osobné údaje dotknutých osôb zverejňovať a tiež vykonať ich
+cezhraničný prenos do tretích krajín.
+
+X.3.12
+
+Dodávateľ vykonáva spracúvanie osobných údajov podľa tejto zmluvy osobne, pokiaľ si s
+Objednávateľom písomne v tejto zmluve nedohodne, že spracúvanie osobných údajov vykoná
+prostredníctvom inej osoby – subdodávateľa.
+
+7
+
+X.4
+
+ČL.XI
+
+X.3.13
+
+Dodávateľ je zodpovedný za výber subdodávateľa a musí dbať na jeho odbornú, technickú,
+organizačnú a personálnu spôsobilosť a jeho schopnosť zaručiť bezpečnosť spracúvaných
+osobných údajov prijatými primeranými opatreniami.
+
+X.3.14
+
+V zmysle § 8 ods. 4 písm. i) musí Objednávateľ vyjadriť súhlas na spracúvanie osobných
+údajov Dodávateľ prostredníctvom inej osoby – subdodávateľa. Údaje o subdodávateľovi
+musia byť uvedené v tejto zmluve, alebo formou dodatku k tejto zmluve.
+
+X.3.15
+
+Subdodávateľ spracováva osobné údaje a zabezpečuje ich ochranu na zodpovednosť
+Dodávateľa. Ustanovenie zákona č. 122/2013 Z. z. o dodávateľovi sa vzťahujú aj na
+subdodávateľa. Na subdodávateľa úrad nahliada ako na dodávateľa.
+
+X.3.16
+
+Súhlas Objednávateľa na spracovanie osobných údajov dodávateľom prostredníctvom inej
+osoby: je daný pre subdodávateľa: Nie je daný
+
+Dodávateľ je oprávnený začať so spracúvaním osobných údajov v mene Objednávateľa odo dňa
+nadobudnutia účinnosti tejto Zmluvy.
+TRVANIE A UKONČENIE ZMLUVY
+
+XI.1
+
+Túto Zmluvu uzatvárajú zmluvné strany na dobu určitú, na dobu 25 mesiacov od nadobudnutia jej
+účinnosti.
+
+XI.2
+
+Túto Zmluvu je možné ukončiť písomnou dohodou zmluvných strán, odstúpením od tejto Zmluvy podľa
+bodu XI.3 alebo vypovedaním tejto Zmluvy v zmysle bodu XI.4, alebo zánikom zmluvnej strany bez
+právneho nástupcu.
+
+XI.3
+
+Od tejto Zmluvy je možné odstúpiť, ak Zmluvná strany podľa tejto Zmluvy opakovane poruší svoju
+povinnosť podľa tejto Zmluvy a neurobí nápravu ani v dodatočnej primeranej lehote stanovenej
+oprávnenou stranou, alebo ak je zmluva porušená jednou zo zmluvných strán podstatným spôsobom,
+t. z. najmä v prípade, ak je užívanie práv duševného vlastníctva Dodávateľa zo strany Objednávateľa v
+rozpore s bodom IX.2 alebo pokiaľ Dodávateľ nezabezpečí funkčnosť Web sídla ani po 48 hodinách od
+nahlásenia porúch zo strany Objednávateľa, pokiaľ za poruchy zodpovedá Dodávateľ, ako aj v prípade
+porušenia zmluvných povinností vyplývajúcich Dodávateľovi z bodu III.1, III. 2, V.6 až V.9 tejto Zmluvy
+s tým, že:
+XI.3.1 odstúpenie od tejto Zmluvy musí byť vykonané v písomnej forme, musí byť doručené druhej
+zmluvnej strane a musí v ňom byť uvedený konkrétny dôvod odstúpenia od Zmluvy s
+odvolaním sa na konkrétne ustanovenie tejto Zmluvy, inak je neplatné,
+XI.3.2
+XI.3.3
+
+XI.4
+
+ČL.XII
+
+odstúpením od Zmluvy sa Zmluva ruší dňom doručenia oznámenia o odstúpení druhej
+zmluvnej strane, pokiaľ v odstúpení nebude určený neskorší termín ukončenia Zmluvy,
+oznámenie o odstúpení od tejto Zmluvy sa bude považovať za doručené i márnym uplynutím
+odbernej lehoty na pošte podľa posledného známeho sídla zmluvnej strany, ktorá svoje
+zmluvné povinnosti porušila.
+
+Túto Zmluvu môže bez uvedenia dôvodu vypovedať ktorákoľvek zo zmluvných strán, pričom
+výpovedná lehota je zmluvnými stranami dohodnutá na tri mesiace a začína plynúť prvým dňom
+kalendárneho mesiaca, nasledujúceho po mesiaci, v ktorom bola výpoveď druhej zmluvnej strane
+doručená. Ohľadne doručovania výpovede platí tiež bod XI.3.3.
+ZÁVEREČNÉ USTANOVENIA
+
+XII.1
+
+Žiadna zo zmluvných strán nemôže postúpiť, založiť, previesť alebo inak scudziť, resp. disponovať s
+pohľadávkami a inými majetkovými právami voči druhej zmluvnej strane, ktoré druhej zmluvnej strane
+vzniknú na základe Zmluvy na tretiu osobu bez predchádzajúceho písomného súhlasu druhej zmluvnej
+strany, okrem povinnosti postúpiť pohľadávku vyplývajúcu z tejto Zmluvy na základe zákonnej
+povinnosti.
+
+XII.2
+
+Nadpisy v Zmluve slúžia len pre uľahčenie orientácie jej čitateľa a nemajú vplyv na výklad jednotlivých
+ustanovení.
+
+XII.3
+
+Zmluvné vzťahy touto Zmluvou neupravené sa riadia príslušnými ustanoveniami Obchodného
+zákonníka a iných právnych predpisov platných v Slovenskej republike.
+
+XII.4
+
+Ak niektoré ustanovenia Zmluvy nie sú celkom alebo sčasti platné alebo účinné alebo neskôr stratia
+platnosť alebo účinnosť, nie je tým dotknutá platnosť a účinnosť ostatných ustanovení. Namiesto
+neplatných, resp. neúčinných ustanovení a na vyplnenie medzier sa použije úprava, ktorá, pokiaľ je to
+
+8
+
+právne možné, sa čo najviac približuje zmyslu a účelu Zmluvy, pokiaľ pri uzatváraní Zmluvy zmluvné
+strany túto otázku brali do úvahy.
+XII.5
+
+Túto Zmluvu je možné meniť jedine vzájomnou dohodou zmluvných strán, a to formou písomných
+dodatkov k tejto Zmluve.
+
+XII.6
+
+Zmluvné strany sú povinné so všetkými informáciami, ktoré nie sú verejne ani všeobecne dostupné,
+zaobchádzať ako s dôvernými informáciami.
+
+XII.7
+
+Táto Zmluva je vyhotovená v štyroch exemplároch, z ktorých Dodávateľ obdrží jedno vyhotovenie a
+Objednávateľ tri vyhotovenia.
+
+XII.8
+
+Túto Zmluvu uzatvárajú zmluvné strany slobodne, vážne, určite a zrozumiteľne, teda tak, aby v
+budúcnosti nevznikli žiadne pochybnosti o tom, čo chceli jej obsahom vyjadriť, Zmluvu si prečítali, jej
+obsahu porozumeli a s týmto súhlasia, na znak čoho ju vlastnoručne podpisujú.
+
+XII.9
+
+Zmluvné strany vyhlasujú a deklarujú, že všetky plnenia, ktoré si poskytli v období od 1.3.2017 do dňa
+podpísania/nadobudnutia účinnosti Zmluvy týkajúce sa predmetu Zmluvy si poskytli za rovnakých
+podmienok dohodnutých v Zmluve, pričom práva a povinnosti oboch Zmluvných strán vyplývajúcich zo
+Zmluvy sú čiastočne realizované a zahŕňajú práva a povinnosti oboch Zmluvných strán dojednané
+v ústnej zmluve na plnenia čiastočne poskytnuté v období od 1.3.2017 do dňa podpisu/nadobudnutia
+účinnosti Zmluvy.
+
+XII.10
+
+Zmluva nadobúda platnosť dňom jej podpisu zmluvnými stranami a účinnosť dňom nasledujúcim po
+dni jej zverejnenia podľa osobitného predpisu (zákon č. 211/2000 Z. z. o slobodnom prístupe k
+informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších
+predpisov).
+
+V Bratislave, dňa
+
+V Bratislave, dňa 1. apríla 2017
+
+________________________
+Mgr. Tomáš Mašek, konateľ
+Altamira Softworks, s. r. o
+za Dodávateľa
+
+__________________________
+Bc. Daniel Rabina,
+riaditeľ Centra marketingu SND
+za Objednávateľa
+
+__________________________
+Mgr. art. Marián Chudovský
+Generálny riaditeľ SND
+Za Objednávateľa
+
+9
+
+

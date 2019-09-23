@@ -1,0 +1,650 @@
+Zmluva
+podporu údržbu a zabezpečenie DR pre diskové pole NetApp
+VIT/DLP/003
+Dodávateľ:
+
+Vision IT Solution, a.s.
+Pribinova 25, 811 09 Bratislava
+IČO 36 815 799
+DIČ 2022424008
+IČ DPH SK2022424008
+Bankové spojenie: Tatra banka, a.s., č. ú.: 2927836056/1100
+zapísaná v obchodnom registri Okresného súdu Bratislava I.
+odd. Sa, vložka č. 5127/B
+zastúpená :Ing. Mgr. Gabrielom Herbrikom, predsedom predstavenstva
+(ďalej len „Dodávateľ“ alebo „VIT“)
+
+Objednávateľ: DLHOPIS, o.c.p., a.s.
+Trnavská cesta 100, 821 01 Bratislava
+IČO 35 695 820
+DIČ 2020860952
+IČ DPH SK 2020860952
+Bankové spojenie: SK02 0900 0000 0051 3121 8002
+zapísaná v obchodnom registri Okresného súdu Bratislava I. odd. Sa, vložka č. 1129/B
+zastúpená: Ing. Miloslav Michalík – generálny riaditeľ
+na základe Generálneho plnomocenstva zo dňa 27.09.2012
+(ďalej iba „Objednávateľ“)
+(Objednávateľ a Dodávateľ ďalej spoločne len ako „Zmluvné strany“)
+
+Zmluvné strany sa dnešného dňa po predchádzajúcich rokovaniach dohodli v súlade s ust. § 536 a nasl.
+ObZ v platnom znení na tejto Zmluve o dielo na dodávku upgrade, údržbu a zabezpečenie DR pre
+diskové pole NetApp (ďalej len „Zmluva“) za nasledovných podmienok:
+Čl. I.
+Predmet Zmluvy
+1.
+
+Dodávateľ sa zaväzuje vykonávať po dobu platnosti tejto Zmluvy pre Objednávateľa podporu
+a údržbu diskového poľa NetApp FAS2552, podľa Prílohy č. 1 a podľa Prílohy č. 3 tejto Zmluvy,
+implementovaných u Objednávateľa a zabezpečiť Disaster recovery pre produkčné prostredie (ďalej
+len „Dohodnutá činnosť“) v rozsahu :
+a) štandardné služby (ďalej len „Štandardné služby“) v rozsahu uvedenom v Prílohe č. 1, časť A
+tejto Zmluvy. Cena štandardných služieb je zahrnutá v paušálnom poplatku Standardných
+služieb počas celej doby trvania tejto Zmluvy.
+b) disaster recovery služby (ďalej len „DR služby“) v rozsahu uvedenom v Prílohe č. 1, časť B
+tejto Zmluvy. Cena DR služieb je zahrnutá v paušálnom poplatku DR služby počas celej doby
+trvania tejto Zmluvy.
+c) ďalšie práce a podporné činnosti nad rámec služieb špecifikovaných v písm. a) a b) v rozsahu 3
+osobohodín kvartálne (v rámci jedného kalendárneho štvrťroka) podľa Prílohy č. 1, tejto
+Zmluvy (ďalej len „Ďalšie služby“), ktoré sú zahrnuté v paušálnej odmene podľa tejto Zmluvy.
+
+Objednávateľ je v rámci mesačného paušálu oprávnený čerpať bezplatne najviac 1 osobohodinu Ďalších
+služieb mesačne. V prípade, ak v rámci kalendárneho štvrťroka Objednávateľ v prvom a/alebo druhom
+mesiaci tohto kalendárneho štvrťroka nevyčerpá celú 1 osobohodinu Ďalších služieb, prenáša sa suma
+nevyčerpaných osobohodín Ďalších služieb do druhého a/alebo tretieho mesiaca tohto kalendárneho
+
+štvrťroka.
+2. Zmluvné strany sa dohodli, že Dohodnutá činnosť zahŕňa hardvérovú a softvérovú podporu
+a údržbu (ďalej len „Služba podpory“) diskového poľa NetApp. Podrobná špecifikácia diskového
+poľa NetApp FAS2552 ku ktorému je viazané poskytovanie Služby je uvedená v Prílohe č. 3 tejto
+Zmluvy. Služba je súhrn činností nevyhnutých pre zabezpečenie plynulej a bezpečnej prevádzky
+riešenia pri dodržaní dohodnutých technických a prevádzkových parametrov.
+3. Zmluvné strany sa dohodli, že Dohodnutá činnosť zahŕňa službu disaster recovery (ďalej len
+„Služba DR“) z rozšíreného diskového poľa NetApp. Podrobná špecifikácia rozšíreného diskového
+poľa NetApp FAS2552 ku ktorému je viazané poskytovanie Služby a Služby DR je uvedená v
+Prílohe č. 3 tejto Zmluvy. Služba je súhrn činností nevyhnutých pre zabezpečenie obnovenia
+prevádzky riešenia pri nepredvídanej udalosti, pri dodržaní dohodnutých technických a
+prevádzkových parametrov.
+4. Miestom vykonania Služby je prevádzka Objednávateľa: Adresa umiestnenia, Trnavská cesta 100,
+Bratislava 821 01 a dátové centrum poskytovateľa (ďalej len „Miesto vykonania Služby“). Službu je
+možné poskytovať zo všetkých priestorov z ktorých je možné bezpečne sa pripojiť k spravovanej
+infraštruktúre Objednávateľa.
+5.
+
+Dodávateľ sa zaväzuje dosiahnuť úspešnosť dohodnutých parametrov SLA min. vo výške 90% v
+súlade s Prílohou č. 3 tejto Zmluvy.
+
+6.
+
+Objednávateľ sa zaväzuje platiť po dobu platnosti tejto Zmluvy Dodávateľovi za výkon Dohodnutej
+činnosti odplatu vo výške a spôsobom dohodnutým ďalej v tejto Zmluve riadne a včas.
+Čl. II.
+Odplata za výkon Dohodnutej činnosti a platobné podmienky
+
+1. Paušálna odmena za poskytovanie Dohodnutej činnosti podľa čl. I ods. 1 písm. a) až b) tejto
+Zmluvy je uvedená v Prílohe č. 3 tejto Zmluvy. Rozsah poskytovania Ďalších služieb je podrobne
+rozpísaný v Prílohe č. 1 tejto Zmluvy.
+2.
+
+Zmluvné strany si vyhradzujú právo v prípade podstatnej zmeny objektívnych ekonomických
+podmienok prehodnotiť odplatu za výkon Dohodnutej činnosti podľa tejto Zmluvy, o čom vopred
+včas upovedomia druhú stranu. Dohodnuté sadzby je možné zmeniť len formou písomného
+dodatku k tejto Zmluve podpísaného oboma Zmluvnými stranami.
+
+3.
+
+Zmluvné strany sa dohodli, že odplata za výkon dohodnutej činnosti podľa tejto Zmluvy vo výške
+súčtu paušálnej odplaty podľa ods. 1 zvýšenej o sumu DPH podľa platných právnych predpisov
+bude Dodávateľom fakturovaná mesačne po dodaní služby. Dodávateľ je oprávnený vystaviť
+faktúru za ten ktorý kalendárny mesiac vždy v posledný deň mesiaca, za ktorý je faktúra vystavená.
+
+4.
+
+Splatnosť faktúry podľa ods. 3 bude do 14 dní odo dňa jej doručenia Objednávateľovi.
+
+5.
+
+Zmluvné strany sa pre prípad omeškania Objednávateľa s úhradou akejkoľvek platby podľa tejto
+Zmluvy dohodli, že Dodávateľ je v takomto prípade oprávnený od Objednávateľa požadovať úrok
+z omeškania vo výške 0,04% z dlžnej sumy za každý deň omeškania.
+
+6.
+
+Zmluvné strany sa dohodli, že akákoľvek platba podľa tejto Zmluvy sa na účely tejto Zmluvy
+považuje za uhradenú okamihom jej pripísania k účtu Dodávateľa k jeho voľnej dispozícii.
+Čl. III.
+Práva a povinnosti Dodávateľa
+
+1.
+
+Dodávateľ sa zaväzuje vykonávať Dohodnutú činnosť podľa tejto Zmluvy riadne a včas s odbornou
+starostlivosťou prostredníctvom riadne kvalifikovaných pracovníkov.
+
+2.
+
+Dodávateľ je oprávnený poveriť vykonávaním svojich povinností podľa tejto Zmluvy tretiu stranu.
+Pri vykonávaní Dohodnutej činnosti treťou stranou má Dodávateľ zodpovednosť, akoby
+Dohodnutú činnosť vykonával sám.
+
+3.
+
+Dodávateľ je povinný bezodkladne oznámiť Objednávateľovi, že nastali skutočnosti vyššej moci,
+
+ktoré znemožňujú a/alebo predlžujú realizáciu žiadosti Objednávateľa na výkon Dohodnutej
+činnosti podľa tejto Zmluvy. Dodávateľ je oprávnený predĺžiť čas výkonu Dohodnutej činnosti na
+základe žiadosti Objednávateľa alebo nevykonať Dohodnutú činnosť len v prípade okolností vyššej
+moci, ktoré mu zabránili Dohodnutú činnosť vykonať riadne a včas a/alebo v prípade, ak mu
+Objednávateľ neposkytne nevyhnutnú súčinnosť v rozsahu podľa Prílohy č. 4 tejto Zmluvy.
+4.
+
+Dodávateľ nie je zodpovedný za nesplnenie svojich povinností podľa tejto Zmluvy, ak ich nemohol
+splniť v dôsledku objektívnych okolností vyššej moci a/alebo neposkytnutia nevyhnutnej súčinnosti
+zo strany Objednávateľa, ktoré mu znemožnili uskutočniť výkon Dohodnutej činnosti podľa tejto
+Zmluvy (napr. mu bol objektívne znemožnený prístup k prostriedkom) alebo v dôsledku
+skutočností, že Objednávateľ počas vykonávania Dohodnutej činnosti nedodržal svoje povinnosti
+podľa Čl. IV. tejto Zmluvy. V takomto prípade je Objednávateľ povinný uhradiť Dodávateľom už
+odpracované osobo-hodiny.
+
+5.
+
+Dodávateľ sa zaväzuje vopred informovať Objednávateľa o všetkých zásahoch a zmenách
+uskutočňovaných pri realizácii Dohodnutej činnosti.
+Čl. IV.
+Práva a povinnosti Objednávateľa
+
+1.
+
+Objednávateľ sa zaväzuje spolupracovať s Dodávateľom a poskytnúť mu pri plnení jeho záväzkov
+z tejto Zmluvy všetky informácie, potrebné pre výkon Dohodnutej činnosti, priestory a prístup ku
+prostriedkom, ktoré sú predmetom výkonu Dohodnutej činnosti podľa tejto Zmluvy ako i všetku
+nevyhnutnú súčinnosť v rozsahu podľa Prílohy č. 4 tejto Zmluvy.
+
+2.
+
+Objednávateľ má právo zrušiť tú ktorú žiadosť o výkon Dohodnutej činnosti, a to celkom alebo
+čiastočne. Pokiaľ však Objednávateľ zruší žiadosť o výkon Dohodnutej činnosti z iného dôvodu,
+ako v dôsledku porušenia Zmluvy zo strany Dodávateľa alebo iných skutočností na strane
+Dodávateľa, je povinný uhradiť už realizovaný rozsah prác v rámci výkonu Dohodnutej činnosti
+podľa tej ktorej žiadosti Dodávateľom.
+
+3.
+
+Objednávateľ sa zaväzuje, že vymenuje zodpovedného pracovníka, ktorý bude informovaný o
+nainštalovanom systéme a jeho použití a bude zodpovedný za vykonanie zásahov v systéme, ktoré
+budú odporúčané Dodávateľom.
+
+4.
+
+Objednávateľ sa zaväzuje po dobu platnosti tejto Zmluvy vykonávať a realizovať akékoľvek
+rozšírenie prostredia dátového centra, prislúchajúcej infraštruktúry a súvisiacich služieb po
+konzultácii, schválení a prostredníctvom Dodávateľa na základe samostatnej objednávky.
+
+5.
+
+Pokiaľ Dodávateľ nezrealizuje výkon Dohodnutej činnosti na základe tej ktorej žiadosti
+Objednávateľa v čase dohodnutom Zmluvnými stranami, má Objednávateľ právo požadovať od
+Dodávateľa zmluvnú pokutu vo výške 0,04 % z hodnoty paušálnej mesačnej platby ak sa jedná
+o omeškanie so Štandardnými službami alebo Ďalšími službami a to v každom jednotlivom prípade
+za každý aj začatý deň alebo hodinu omeškania podľa toho či čas plnenia je stanovený (dohodnutý)
+Zmluvnými stranami na hodiny alebo dni.
+Čl. V.
+Ochrana informácií
+
+1.
+
+Zmluvné strany sú povinné zabezpečiť utajenie získaných dôverných informácií spôsobom
+zvyčajným pri utajovaní takých informácií, ak nie je dohodnuté inak. Táto povinnosť platí bez
+ohľadu na ukončenie účinnosti tejto Zmluvy. Zmluvné strany majú právo požadovať navzájom
+preukázanie dostatočnosti utajenia dôverných informácií. Zmluvné strany sú povinné zaistiť utajenie
+dôverných informácií aj u svojich zamestnancov, zástupcov, ako aj iných spolupracujúcich tretích
+strán, pokiaľ im také informácie boli poskytnuté.
+
+2.
+
+Právo užívať, poskytovať a sprístupniť dôverné informácie majú Zmluvné strany iba v rozsahu a za
+podmienok nevyhnutných na riadne plnenie práv a povinností vyplývajúcich z tejto Zmluvy.
+
+3.
+
+Za dôverné informácie sa bez ohľadu na formu ich zachytenia považujú všetky informácie, ktoré
+neboli niektorou zo Zmluvných strán označené ako verejné a ktoré sa týkajú tejto Zmluvy a jej
+
+plnenia (najmä informácie o právach a povinnostiach Zmluvných strán ako aj informácie o cenách),
+ktoré sa týkajú niektorej zo Zmluvných strán alebo Objednávateľa (najmä obchodné tajomstvo,
+informácie o ich činnosti, štruktúre, hospodárskych výsledkoch, know-how) alebo informácie
+o nakladaní s ktorými je právnymi predpismi určený osobitný režim utajenia (najmä hospodárske
+tajomstvo, štátne tajomstvo, bankové tajomstvo, služobné tajomstvo). Ďalej sa považujú za dôverné
+informácie, ktoré sú ako dôverné výslovne niektorou zo Zmluvných strán označené.
+4.
+
+Za dôverné informácie sa v žiadnom prípade nepovažujú informácie, ktoré sa stali verejne
+prístupnými, pokiaľ sa tak nestalo porušením povinností ich ochrany, ďalej informácie získané na
+základe postupu nezávislého na tejto Zmluve alebo ktorejkoľvek Zmluvnej strane, pokiaľ je
+Zmluvná strana, ktorá informácie získala, schopná túto skutočnosť preukázať a informácie
+poskytnuté treťou osobou, ktorá také informácie nezískala porušením povinností ich ochrany.
+Čl. VI.
+Trvanie a ukončenie Zmluvy
+
+1. Táto Zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami obidvoch zmluvných
+strán a účinnosť po splnení zákonných podmienok, ktoré je povinný zabezpečiť Objednávateľ.
+2. Táto Zmluva je povinne zverejňovanou zmluvou v zmysle § 5a zákona č. 211/2000 Z.z. o
+slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode
+informácií) v platnom znení. Zmluvné strany berú na vedomie a súhlasia, že táto Zmluva vrátane
+všetkých jej súčastí a príloh bude zverejnená v Centrálnom registri zmlúv (ďalej len "register").
+Register je verejný zoznam povinne zverejňovaných zmlúv, ktorý vedie Úrad vlády Slovenskej
+republiky v elektronickej podobe. Zverejnenie Zmluvy s výnimkou Prílohy č. 1, Prílohy č. 3 a Prílohy
+č 6 tejto Zmluvy v registri sa nepovažuje za porušenie ani za ohrozenie obchodného tajomstva a
+informácie označené v tejto Zmluve ako dôverné v zmysle § 271 odsek 1 Obchodného zákonníka sa
+nepovažujú za dôverné informácie. Zmluva je účinná dňom nasledujúcim po dni jej zverejnenia v
+registri. Príloha č. 1 Príloha č. 3 a Príloha č. 6 sa s odkazom na ust. § 5a ods. 4 zákona o slobode
+informácií nezverejňuje.
+3.
+
+Táto Zmluva sa uzatvára na dobu určitú a to do 31.01.2020
+
+4.
+
+Túto Zmluvu je možné kedykoľvek ukončiť písomnou dohodou Zmluvných strán, predmetom
+ktorej bude aj dohoda Zmluvných strán o prípadnom vzájomnom finančnom vysporiadaní sa.
+
+5.
+
+Zmluvné strany sa výslovne dohodli, že ktorákoľvek Zmluvná strana môže vypovedať túto Zmluvu
+písomnou výpoveďou aj bez uvedenia dôvodu, pričom výpovedná lehota je 3 (tri) mesiace, počítajúc
+od prvého dňa mesiaca nasledujúceho po mesiaci, v ktorom bola výpoveď doručená druhej strane.
+
+6.
+
+Zmluvné strany sa dohodli, že v prípade podstatného porušenia tejto Zmluvy jednou so Zmluvných
+strán má neporušujúca Zmluvná strana právo odstúpiť od tejto Zmluvy. Za podstatné porušenie
+Zmluvy sa považuje neplnenie záväzkov tej ktorej Zmluvnej strany po dobu dlhšiu, ako 30 dní, ako
+aj iné prípady podľa Obchodného zákonníka.
+
+7.
+
+Odstúpenie od Zmluvy je účinné dňom jeho doručenia druhej Zmluvnej strane.
+
+8.
+
+Odstúpením od Zmluvy nie je dotknutý nárok neporušujúcej Zmluvnej strany na náhradu škody.
+
+9.
+
+Zmluvné strany berú na vedomie a súhlasia, že plnenia, ktoré boli vzájomne potvrdené a
+odsúhlasené pred odstúpením od tejto Zmluvy, sú si Zmluvné strany povinné poskytnúť a plnenia
+poskytnuté pred odstúpením od tejto Zmluvy sa nevracajú.
+
+10. V prípade skončenia platnosti tejto Zmluvy akýmkoľvek spôsobom, nie sú dotknuté ustanovenia o
+ochrane dôverných informácií, ktoré platia bez časového obmedzenia aj po skončení platnosti tejto
+Zmluvy. V prípade udelených licencií zo strany Dodávateľa, skončením platnosti tejto Zmluvy platia
+licencie udelené na dobu určitú do doby skončenia takto dojednanej doby a to aj v prípade, ak doba
+skončenia platnosti licencie presiahne dobu platnosti tejto Zmluvy. V prípade licencií udelených na
+dobu neurčitú, tieto platia bez časového obmedzenia aj po skončení platnosti tejto Zmluvy.
+
+Čl. VII.
+Zodpovednosť za škodu
+1. Zmluvné strany nesú zodpovednosť za spôsobenú škodu v rámci platných právnych predpisov
+Zmluvné strany sa zaväzujú vyvinúť maximálne úsilie na predchádzanie škodám a na minimalizáciu
+vzniknutých škôd.
+2. Každá Zmluvná strana zodpovedá za škodu, ktorá vnikla druhej z nich v dôsledku vecne
+nesprávneho alebo inak chybného zadania. Žiadna zo Zmluvných strán nie je zodpovedná za
+omeškanie spôsobené omeškaním s plnením záväzkov druhej Zmluvnej strany.
+3. Dodávateľ zodpovedá za škodu spôsobenú Objednávateľovi porušením ustanovení tejto Zmluvy v
+súlade s príslušnými ustanoveniami Obchodného zákonníka. Rozsah zodpovednosti Dodávateľa za
+škodu je obmedzený na maximálnu výšku rovnajúcu sa sume 50 % súčtu mesačných paušálnych
+poplatkov zaplatených podľa tejto Zmluvy v jednotlivom kalendárnom roku do dňa vzniku
+skutočnosti, zakladajúcej nárok na náhradu škody.
+4. Zmluvné strany sa zaväzujú upozorniť druhú Zmluvnú stranu bez zbytočného odkladu na vzniknuté
+okolnosti vylučujúce zodpovednosť brániace riadnemu plneniu tejto Zmluvy. Zmluvné strany sa
+zaväzujú vyvinúť maximálne úsilie na odvrátenie a prekonanie okolností vylučujúcich zodpovednosť.
+Čl. VIII.
+Spolupráca a vzájomná komunikácia
+1.
+
+Zmluvné strany sa zaväzujú vzájomne spolupracovať a poskytovať si všetky informácie potrebné na
+riadne plnenie svojich záväzkov vyplývajúcich z tejto Zmluvy tak, aby nedochádzalo k omeškaniu
+s plnením záväzkov Zmluvných strán z tejto Zmluvy.
+
+2.
+
+Zmluvné strany sú povinné informovať sa navzájom o všetkých skutočnostiach, ktoré sú alebo
+môžu byť dôležité pri riadnom plnení tejto Zmluvy.
+
+3.
+
+Všetka komunikácia medzi Zmluvnými stranami bude prebiehať prostredníctvom oprávnených
+osôb, poverených pracovníkov alebo štatutárnych zástupcov Zmluvných strán určených v Prílohe č.
+5 tejto Zmluvy.
+
+4.
+
+Všetky oznámenia medzi Zmluvnými stranami, ktoré musia byť vykonané v písomnej forme, budú
+dotknutej Zmluvnej strane doručené alebo osobne, alebo doporučeným listom či inou formou
+registrovaného poštového styku na adresu uvedenú v záhlaví tejto Zmluvy, pokiaľ nie je určené
+alebo medzi Zmluvnými stranami dohodnuté inak.
+
+5.
+
+Oznámenia zasielané doporučenou poštou sa považujú za doručené 3. (tretí) deň po ich
+preukázateľnom odoslaní na adresu dotknutej Zmluvnej strany uvedenú v záhlaví tejto Zmluvy,
+alebo na neskoršiu adresu, oznámenú písomne druhej Zmluvnej strane.
+
+6.
+
+Ak nevyžaduje Zmluva doručiť niektorý dokument v písomnej forme, môže byť doručený buď ako
+listina alebo v elektronickej (digitálnej) forme ako e-mail a/alebo súbor v dohodnutom formáte.
+Čl. IX.
+Riešenie sporov
+
+1.
+
+Zmluvné strany a zaväzujú vyvinúť maximálne úsilie na odstránenie vzájomných sporov
+vzniknutých v súvislosti s touto Zmluvou a k ich vyriešeniu najmä prostredníctvom rokovaní
+oprávnených osôb alebo štatutárnych zástupcov.
+
+2.
+
+Ak sa nedohodnú Zmluvné strany na spôsobe riešenia vzájomného sporu, má každá zo Zmluvných
+strán právo podať návrh na príslušný súd Slovenskej republiky.
+Čl. X.
+Autorské práva
+
+1.
+
+Zmluvné strany sa dohodli, že ak na základe tejto Zmluvy alebo Objednávky vytvorí alebo dodá
+Dodávateľ Objednávateľovi dielo alebo jeho časť, ktorá je samostatná alebo funkčne nezávislá od
+podporovaného systému, odovzdaním tohto diela alebo jeho časti, udeľuje Dodávateľ
+
+Objednávateľovi nevýhradnú, časovo neobmedzenú licenciu alebo sublicenciu na používanie tohto
+diela, v neobmedzenom rozsahu a na účel na ktoré bolo toto dielo alebo jeho časť vytvorená.
+Licencia je teritoriálne ohraničená územím Slovenskej republiky. Odplata za udelenie licencie alebo
+sublicencie je už zahrnutá v odmene, ktorú Objednávateľ zaplatí Dodávateľovi za dodanie diela
+alebo jeho časti v zmysle vystavenej Objednávky podľa tejto Zmluvy, alebo v rámci paušálneho
+poplatku.
+2.
+
+V prípade, ak na základe tejto Zmluvy alebo Objednávky vytvorí alebo dodá Dodávateľ
+Objednávateľovi modifikáciu pôvodného diela (individualizácia prostredia diskových polí NetApp),
+ktorá nebude samostatná alebo funkčne nezávislá diskového poľa NetApp, odovzdaním tejto
+modifikácie diela Objednávateľovi, vzťahuje sa k takto modifikovanému dielu rovnaká licencia ako
+licencia poskytnutá k pôvodnému dielu, pričom odplata za poskytnutie tejto licencie je už zahrnutá v
+odmene za vytvorenie modifikácie alebo modifikovaného diela.
+
+3.
+
+Dodávateľ prehlasuje, že plnením predmetu tejto zmluvy neporušuje žiadne autorské, licenčné alebo
+iné práva tretích osôb a že disponuje súhlasom autora diela (softvéru) na vykonávanie zásahov do
+diela nevyhnutne potrebných na plnenie predmetu tejto zmluvy.
+Čl. XI.
+Záverečné ustanovenia
+
+1.
+
+Táto Zmluva, ako aj práva a povinnosti vzniknuté na základe tejto Zmluvy alebo v súvislosti s ňou,
+sa riadia Obchodným zákonníkom platným na území SR.
+
+2.
+
+Táto Zmluva predstavuje úplnú dohodu Zmluvných strán o predmete tejto Zmluvy.
+
+3.
+
+Táto Zmluva má prednosť pred akýmikoľvek všeobecnými obchodnými podmienkami ktorejkoľvek
+zo Zmluvných strán.
+
+4.
+
+Túto Zmluvu je možné meniť a dopĺňať len písomnou dohodou Zmluvných strán vo forme
+číslovaných dodatkov tejto Zmluvy, podpísaných oprávnenými zástupcami Zmluvných strán.
+
+5.
+
+Nedeliteľnú súčasť tejto Zmluvy tvoria tieto prílohy:
+Príloha č. 1 – POPIS DIELA, SLUŽIEB A SLA
+Príloha č. 2 – KVALITATÍVNE CHARAKTERISTIKY PLNENIA
+Príloha č. 3 – POPIS PODPOROVANEJ INFRAŠTRUKTÚRY A PAUŠÁLNA ODMENA
+Príloha č. 4 – SÚČINNOSŤ OBJEDNÁVATEĽA
+Príloha č. 5 – KONTAKTNÉ OSOBY
+Príloha č. 6 – PP DR SLUŽBY
+
+6.
+
+Táto Zmluva je uzatvorená v 4 (štyroch) vyhotoveniach, z ktorých Objednávateľ obdrží 2 (dve)
+a Dodávateľ obdrží 2 (dve) vyhotovenia.
+
+7.
+
+Zmluvné strany vyhlasujú, že si túto Zmluvu pred jej podpísaním prečítali a že bola uzatvorená po
+vzájomnom prerokovaní ako prejav ich slobodnej vôle. Na dôkaz dohody o všetkých článkoch tejto
+Zmluvy pripájajú štatutárni zástupcovia Zmluvných strán svoje vlastnoručné podpisy.
+
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+Za Dodávateľa:
+
+Za Objednávateľa:
+
+Vision IT Solution, a.s.
+
+DLHOPIS, o.c.p., a.s.
+
+Ing. Mgr. Gabriel Herbrik
+predseda predstavenstva
+
+Ing. Miloslav Michalík
+generálny riaditeľ
+
+Príloha č. 2 k Zmluve
+KVALITATÍVNE CHARAKTERISTIKY PLNENIA
+Základnou kvalitatívnou charakteristikou je percentuálne vyjadrenie úspešnosti Dodávateľa dodržiavať
+dohodnuté parametre SLA, a to pre každý parameter zvlášť.
+Výpočet je nasledovný:
+(Počet Incidentov s dodržanými SLA / Počet všetkých Incidentov) * 100 [%]
+Pre výpočet percentuálnej úspešnosti plnenia zmluvne zakotvenej Úrovne poskytovania služieb, je
+potrebný minimálny počet Incidentov 20. Ak je tento počet menší než 20, počet povolených výpadkov
+SLA je jeden.
+Podkladom pre hodnotenie kvalitatívnych charakteristík plnenia Zmluvy sú zásadne systémové hlásenia a
+zápisy cez špecializovanú aplikáciu Help Desk. Prehľad kvalitatívneho plnenia zmluvy spracuje Dodávateľ
+a predloží ich na vyžiadanie 1x ročne.
+
+Príloha č. 4 k Zmluve
+SÚČINNOSŤ OBJEDNÁVATEĽA
+Objednávateľ sa zaväzuje poskytnúť Dodávateľovi pri plnení jeho povinností vyplývajúcich mu z tejto
+Zmluvy súčinnosť najmä avšak nie len v nasledovnom rozsahu:
+
+
+
+
+
+
+
+
+vytvorenie materiálnych podmienok pre pracovníkov Dodávateľa;
+poskytnutie dokumentov a informácií potrebných na riadne plnenie záväzkov Dodávateľa podľa
+tejto Zmluvy;
+zabezpečiť potrebnú dostatočnú časovú a informačnú súčinnosť poverených a pridelených
+pracovníkov Objednávateľa v požadovaných termínoch;
+zabezpečiť vhodné technologické prostredie potrebné na riadne plnenie záväzkov Dodávateľa podľa
+tejto Zmluvy;
+v prípade potreby súčinnosti tretích strán zabezpečiť potrebnú súčinnosť týchto strán. Náklady
+tretích strán spojené s poskytnutou súčinnosťou hradí Objednávateľ;
+po predchádzajúcej dohode poskytnúť Dodávateľovi potrebnú podporu pri poskytovaní služieb
+a/alebo podpory;
+pokiaľ bude poskytovanie služieb a/alebo podpory vykonávané v sídle Objednávateľa, zaistiť
+potrebné predpoklady na riadne poskytnutie služieb Dodávateľom, a to najmä:
+- zaistiť dostatočný prístup k hardwaru a softwaru;
+- zabezpečiť priestor pre 2 pracovné stanice pre pracovníkov Dodávateľa s možnosťou pripojenia
+vlastnej výpočtovej techniky Dodávateľa, a to vrátane prístupu do internetu (http, https a e-mail);
+- umožniť pracovníkom Dodávateľa, ktorí sa budú podieľať na poskytovaní služieb a/alebo
+podpory vzdialený prístup k príslušným systémom prostredníctvom VPN, pri rešpektovaní
+pravidiel bezpečnosti Objednávateľa;
+- zaistiť pracovníkom Dodávateľa, ktorí sa budú podieľať na poskytovaní služieb a/alebo podpory
+podľa tejto Zmluvy vstup do objektov Objednávateľa v závislosti od príslušnej SLA;
+- potvrdzovať predkladané dokumenty, odovzdávacie protokoly ďalšie písomnosti bezodkladne po
+ich doručení Dodávateľom;
+- vytvoriť na miestach pre zamestnancov Dodávateľa bezpečné pracovné prostredie v súlade s
+platnými právnymi predpismi SR. Objednávateľ bude informovať Dodávateľa o prípadnom
+nebezpeční pre zdravie a bezpečnosti na mieste pred začatím poskytovania služieb.
+
+Príloha č. 5 k Zmluve
+KONTAKTNÉ OSOBY
+Zoznam oprávnených a určených osôb, procesy a riadenie eskalácie
+- Táto príloha je neoddeliteľnou súčasťou Zmluva a obsahuje oprávnené a určené osoby za stranu
+Dodávateľa a Objednávateľa. Ďalej popisuje procesy nahlasovania servisných požiadaviek
+(Support), a procesy pre riadenie eskalácie.
+1
+Tabuľka s oprávnenych a určených osôb za stranu Dodávateľov:
+Meno
+Pozícia
+Dodávateľ
+Zodpovednosť
+kontakt
+Daniel
+Executive Director Vision IT
+Executive
+daniel.petergac@visionit.sk
+Petergáč
+Solutions
+Director
+Miroslav
+Technical Director Vision IT
+Technical
+miroslav.karell@visionit.sk
+Karell
+Solutions
+Director
+
+- Technical Hot-Line
+2
+
++421 911 182 621
+
+Tabuľka s oprávnenych a určených osôb za stranu Objednávateľa:
+
+Meno
+
+Pozícia
+
+Kontakt
+
+Ing Miloslav Michalík
+Ing. Alexandra Papešová
+
+Generálny riaditeľ
+Manažer PTU
+
+miloslav.michalik@dlhopisocp.sk
+alexandra.papesova@dlhopisocp.sk
+
+3
+
++421 911 873 007
++421 911 718 708
+
+Definovanie procesu nahlasovania servisných požiadaviek:
+- V súlade s touto Zmluvou môže oprávnená a určená osoba Objednávateľa nahlasovať
+požiadavky na Službu Dodávateľovi. Dodávateľ reaguje v zmysle Zmluvy v závislosti od
+zvolenej SLA.
+- oprávnená a určená osoba nahlasuje požiadavky na support na kontakty uvedené v bode 4 tejto
+Prílohy. Primárne na telefonický kontakt a webovú aplikáciu supportportal, ktorý je pre účely
+tejto Zmluvy k dispozícii 24x7;
+- oprávnená a určená osoba Objednávateľa je povinná telefonicky nahlásenú požiadavku na
+support vždy potvrdiť písomnou zachytiteľnou formou a to primárne v aplikácii supportportál
+alebo e-mailom na uvedené kontakty a to vypísaním nasledujúceho formulára v tele e-mailovej
+správy:
+Meno zákazníka, adresa
+Poruchu nahlásil (meno, kontakt)
+
+Prijatie servisnej požiadavky telefonicky (dátum a čas)
+D
+
+D
+
+M
+
+M
+
+R
+
+R
+
+R
+
+Popis poruchy
+
+Typ systému:
+
+Sériové číslo systému
+
+Iné technické údaje systému
+
+Porucha znemožňuje prevádzku
+
+Áno
+
+Nie
+
+Zásah je možný len mimo pracovnú dobu
+
+Áno
+
+Nie
+
+R
+
+h
+
+h
+
+m
+
+m
+
+- za čas nahlásenia servisnej požiadavky sa považuje čas prvého skontaktovania sa s oprávneným
+pracovníkom Dodávateľa. V prípade telefonického kontaktu je to čas uskutočnenia telefonátu, v
+prípade e-mailového či faxového kontaktu je to čas doručenia požiadavky Dodávateľovi
+(Delivery receipt);
+- oprávnená a určená osoba Objednávateľa je povinná pri nahlásení poruchy čo najpresnejšie
+popísať:
+o typ a model zariadenia, ktorého poruche došlo
+o ako k poruche, či vade zariadenia došlo
+o čo poruche predchádzalo,
+o aký dopad má porucha na prevádzku systémov a
+o či je zásah pracovníka možný okamžite, alebo po pracovnej dobe, či inom časovom
+intervale mimo špičky či produkčnej prevádzky dotknutého zariadenia;
+- oprávnená a určená osoba Dodávateľa zareaguje v závislosti od typu chyby na zariadení a
+zvolenej SLA. V spolupráci s oprávnenou a určenou osobou Objednávateľa navrhne spôsob
+riešenia požiadavky v súlade so zvolenou SLA.
+- po vyriešení požiadavky je oprávnená a určená osoba Dodávateľa zodpovedná za riešenie
+povinná predložiť písomný záznam o servisnom prípade, ktorého vzor je uvedený v Prílohe č.8 a
+oprávnená a určená osoba Objednávateľa je povinná záznam skontrolovať a potvrdiť v súlade
+s Prílohou č. 8 tejto Zmluvy
+4
+
+Primárny kontakt pre nahlasovanie servisných požiadaviek (Support):
+- Telefonicky 5x9:
++421 911 182 621
+- E-mail:
+support@visionit.sk
+- Web helpdesk portál:
+http://support.visionit.sk
+
+5.
+
+Proces riadenia eskalácií
+- Tento článok popisuje proces eskalácie pri riešení problému v súvislosti s Procesom nahlasovania
+servisných požiadaviek a Procesom objednávky tovarov a služieb.
+- eskalácia v prípade neprebratia servisného hlásenia na telefonický kontakt dostupný 5x8:
+- telefonická eskalácia na kontakt Technical Director
+- eskalácia e-mailom na kontakt Technical Director
+- eskalácia v prípade nedodržania času odozvy nahlásenej servisnej požiadavky v závislosti od
+zvolenej SLA (Response time):
+- telefonická eskalácia na kontakt Technical Director
+- eskalácia e-mailom na kontakt Technical Director
+- eskalácia v prípade nedodržania času vyriešenia nahlásenej servisnej požiadavky v závislosti od
+zvolenej SLA (FIX time):
+- telefonická eskalácia na kontakt Technical Director
+- eskalácia e-mailom na kontakt Technical Director
+
+

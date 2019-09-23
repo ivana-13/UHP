@@ -1,0 +1,7615 @@
+Zmluva
+č. 02245/2018/OLP-16
+o dodávke softvéru, zabezpečení a poskytnutí prác a služieb
+(ďalej len „zmluva“)
+uzatvorená v súlade s výsledkom nadlimitnej zákazky bez využitia elektronického trhoviska
+uskutočnenej podľa zákona č. 343/2015 Z. z o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov (ďalej len „zákon o verejnom obstarávaní“)
+a podľa ustanovenia § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení
+neskorších predpisov (ďalej len „Obchodný zákonník“)
+
+medzi zmluvnými stranami:
+1. Objednávateľ:
+Názov:
+
+Dopravný úrad
+
+Sídlo:
+
+Letisko M. R. Štefánika, 823 05 Bratislava
+
+Štatutárny orgán:
+IČO:
+DIČ:
+Bankové spojenie:
+
+Ing. Ján Breja, predseda Dopravného úradu
+42 355 826
+2023985568
+
+IBAN:
+Právna forma:
+
+štátna rozpočtová organizácia zriadená zákonom č. 402/2013
+Z. z. o Úrade pre reguláciu elektronických komunikácií
+a poštových služieb a Dopravnom úrade a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov
+
+Kontaktná osoba/osoba
+oprávnená
+preberať
+predmet zmluvy:
+Ing. Robert Mrštica
+tel. kontakt: +421 2 48 777 468, +421 917 283 885
+email: robert.mrstica@nsat.sk,
+(ďalej len „objednávateľ“)
+2. Dodávateľ:
+Názov:
+Sídlo:
+
+EMIS s.r.o.
+Ulica Jána Hollého 8479/5, 917 01 Trnava
+
+Štatutárny orgán:
+IČO:
+DIČ:
+IČ DPH:
+
+Ing. Miroslav Vanek, konateľ
+35 708 816
+2020265016
+SK2020265016
+
+Bankové spojenie:
+IBAN:
+Kontaktná osoba:
+
+, Tel: ,
+
+Označenie registra:
+OR Okresného súdu Trnava
+Číslo zápisu:
+Oddiel Sro, vložka č. 38499/T
+Dodávateľ je – nie je
+Dodávateľ je platcom DPH
+platcom DPH:
+Kontaktná osoba: (poznámka: uviesť, meno, priezvisko, telefonický a emailový kontakt)
+(ďalej len „dodávateľ“)
+(Objednávateľ a dodávateľ spolu ďalej aj ako „zmluvné strany“, každý z nich samostatne aj
+ako „zmluvná strana“)
+Preambula
+Objednávateľ a dodávateľ sa dohodli na tomto znení zmluvy, ktorá vyplýva z výsledkov
+verejnej súťaže zadávanej nadlimitnej zákazky bez využitia elektronického trhoviska podľa
+ustanovenia § 66 ods. 7 zákona o verejnom obstarávaní, ktorej predmetom bola zákazka
+uskutočňovaná na základe špecifických a pre daný prípad jedinečných požiadaviek - dodávka
+softvéru a implementačných prác, ktoré súvisia s napĺňaním, prevádzkou a aktualizáciou
+databázy registra železničnej infraštruktúry, služby podpory prevádzky a aplikačnej podpory.
+Zmluvné strany sa podľa ustanovenia § 269 ods. 2 Obchodného zákonníka dohodli, že ich
+záväzkový vzťah vyplývajúci z tejto zmluvy sa bude spravovať týmto zákonom.
+Článok 1
+Predmet zmluvy
+1.
+
+Dodávateľ v rámci ceny stanovenej touto zmluvou, s ohľadom na jednotlivé etapy plnenia
+zmluvy, dodá a poskytne objednávateľovi na základe a v lehotách podľa tejto zmluvy
+nasledovný softvér, všetky majetkové práva k nemu (vrátane majetkových práv autora
+k akémukoľvek autorskému dielu, resp. počítačovému programu, okrem zabudovaných
+licenčných modulov tretích strán, ku ktorým je povinný dodávateľ dodať objednávateľovi
+v cene uvedenej v tejto zmluve (jednotlivej etape, ku ktorej sa modul viaže) časovo
+a teritoriálne neobmedzenú licenciu na ich používanie k ich určenému účelu v rámci diela)
+a zdrojové kódy programových modulov vyvinutých na základe tejto zmluvy
+v objednávateľom požadovanej forme k nemu (digitálny nosič), ako aj súvisiace práce a
+služby:
+a) softvérovú aplikáciu a implementačné práce k softvérovej aplikácii pod názvom
+„Register železničnej infraštruktúry“ (ďalej len „aplikácia“ alebo „RINF“), ktorá
+bude prevádzkovaná na serveroch umiestených v sídle objednávateľa. Aplikácia musí
+byť vytvorená na základe vykonávacieho rozhodnutia Komisie č. 2014/880/EÚ z 26.
+novembra 2014 o spoločných špecifikáciách registra železničnej infraštruktúry
+a o zrušení vykonávacieho rozhodnutia 2011/633/EÚ v platnom znení, na základe
+špecifikácií Železničnej agentúry Európskej únie (ďalej len „EUAR“) a prispôsobená
+
+objednávateľovi podľa požiadaviek objednávateľa a v rozsahu podľa ods. 2 tohto
+článku,
+b) práce súvisiace s napĺňaním, prevádzkou a aktualizáciou databázy, údržbou,
+služby podpory prevádzky a aplikačnej podpory, samostatne podľa inštrukcií
+objednávateľa a z EUAR - v rozsahu podľa ods. 3 tohto článku.
+2. Dodávateľ poskytne objednávateľovi dodávku softvérovej aplikácie RINF
+a implementačné práce k aplikácii s funkcionalitou a s dohodnutým postupom podľa
+článku 8 ods. 1 až 4 tejto zmluvy, implementuje aplikáciu do prostredia Slovenskej
+republiky, a to najmä, nie však výlučne:
+a) Vytvorenie databázy na platforme Windows Server s jej následným umiestením na
+server v sídle objednávateľa.
+b) Poskytnutie softvérovej webovej aplikácie (klientskeho prostredia http://) s prístupom
+cez zabezpečené webové pripojenie z interného a externého prostredia s manažmentom
+prístupových práv (právo „čítať/zapisovať/editovať/zmazať“ alebo právo „čítať“),
+vrátane externého prístupu cez webové sídlo objednávateľa.
+c) Vytvorenie klientskeho prostredia v prostredí Microsoft (nie Google Chrome alebo
+Mozilla Firefox).
+d) Vytvorenie automatizovaného spôsobu zberu, zhromažďovania, importu
+a synchronizácie údajov pre databázu RINF z rozličných zdrojov údajov a tiež aj
+z externého prostredia mimo objednávateľa.
+e) Zmena štruktúry automatizovaného zberu a zobrazovania údajov v ktorejkoľvek etape
+riešenia najneskôr do 30-tich dní od zadania požiadavky objednávateľa, ak dôjde
+k zmene v špecifikácií údajov potrebných pre databázu – platí pre prípad oznámený
+objednávateľovi zo strany EUAR (napr. zmena používateľskej príručky k zberu údajov
+potrebných pre spoločné používateľské rozhranie a pod.).
+f) Zmena štruktúry automatizovaného zberu a zobrazovania údajov v ktorejkoľvek etape
+riešenia najneskôr do 120-tich dní od zadania požiadavky objednávateľa, ak dôjde
+k zmene v špecifikácií údajov potrebných pre databázu – platí pre prípad zmeny alebo
+vydania nového vykonávacieho rozhodnutia Európskej komisie o spoločných
+špecifikáciách registra železničnej infraštruktúry.
+g) Vytvorenie prepojenia RINF so spoločným používateľským rozhraním (ďalej len
+„CUI“) v EUAR.
+h) Vytvorenie možnosti generovania údajov z databázy RINF vo forme používateľsky
+prívetivého rozhrania do výstupov v rôznych formátoch súborov (.pdf, .xls, .html a pod.)
+s možnosťou voľby parametrov pre generovanie zostáv údajov z databázy.
+i) Vytvorenie mapového rozhrania s legendou pre verné zobrazovanie údajov
+obsiahnutých v databáze RINF vrátane používateľsky prívetivého rozhrania pre čítanie
+a generovanie údajov z databázy v rôznych formátoch súborov (.pdf, .xls, .html, .jpeg
+a pod.) so zobrazovaním hodnôt údajov o železničnej infraštruktúre pri výbere miesta
+prevádzky alebo úseku trate z mapového zobrazenia alebo zo zoznamu úseku tratí
+a miest prevádzky zahrnutých v databáze a so štruktúrou údajov v databáze podľa
+požiadaviek EUAR vrátane možnosti násobného výberu miest prevádzky a úsekov tratí.
+j) Generovanie základných kapacít železničnej infraštruktúry v správe manažéra
+infraštruktúry Železnice Slovenskej republiky z násobného výberu úsekov tratí a miest
+prevádzky vrátane celej železničnej siete manažéra infraštruktúry do formátu .xls, .html
+a .pdf ako napr. dĺžka železničných tratí, počet tunelov, dĺžka tunelov, trate koridorov
+nákladnej dopravy, počet železničných priecestí a pod. Presný zoznam základných
+kapacít železničnej infraštruktúry sa nachádza v prílohe č. 5 tejto zmluvy.
+
+k) Vytvorenie rozhrania pre generovanie a odosielanie údajov z databázy RINF do CUI
+v požadovanom tvare a podľa technických špecifikácií.
+l) Testovanie a uvedenie implementovaného riešenia pre Slovenskú republiku do
+prevádzky.
+m) Samostatná práca s akoukoľvek technickou dokumentáciou a to aj v anglickom jazyku
+vrátane samostatnej odbornej komunikácie s EUAR, s manažérmi železničnej
+infraštruktúry a s prevádzkovateľmi železničných dráh v Slovenskej republike, a to aj
+v anglickom jazyku.
+3. Dodávateľ poskytuje objednávateľovi práce súvisiace s napĺňaním, prevádzkou
+a aktualizáciou databázy, údržbou, služby podpory prevádzky a aplikačnej podpory
+a to najmä, nie však výlučne:
+Pravidelné zálohovanie databázy údajov.
+Zhromažďovanie údajov potrebných pre import do databázy RINF.
+Import údajov do databázy RINF.
+Správa a monitorovanie prepojenia RINF s CUI v EUAR.
+Zabezpečenie prevádzkovej funkčnosti aplikácie a databázy, ich údržby ako aj
+servisných zásahov v prípade ich nefunkčnosti.
+f) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI vrátane archivácie údajových
+súborov databázy RINF s možnosťou spätného pohľadu na železničnú sieť (tzv.
+historický pohľad na železničnú sieť).
+g) Poskytovanie konzultácií zodpovedným pracovníkom objednávateľa.
+h) Vytvorenie používateľskej príručky pre obsluhu a prácu s aplikáciou RINF vrátane jej
+aktualizácie vzhľadom na etapovitú implementáciu riešenia.
+a)
+b)
+c)
+d)
+e)
+
+4.
+
+Predmet zmluvy je rozdelený do piatich etáp podľa nasledujúceho rozpisu:
+4.1 Dodávka softvéru RINF a implementačné práce
+1. etapa:
+a) Zriadenie národného registra železničnej infraštruktúry (poznámka: registra Slovenskej
+republiky) v súlade so spoločnými špecifikáciami - vytvorenie pracovného prostredia,
+vývoj softvéru, inštalácia a konfigurácia systému, vytvorenie mapového prostredia pre
+zobrazovanie údajov v databáze podľa požiadaviek uvedených v prílohe č. 1 tejto
+zmluvy.
+b) Import údajov o infraštruktúrach koridorov nákladnej dopravy vymedzených v prílohe
+k nariadeniu Európskeho parlamentu a Rady (EÚ) č. 913/2010 z 22. septembra 2010 o
+európskej železničnej sieti pre konkurencieschopnú nákladnú dopravu v platnom znení
+do národného registra infraštruktúry a ich sprístupnenie cez CUI.
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. b)
+prostredníctvom mapy.
+d) Testovanie a sfunkčnenie rozhrania CUI s národným registrom železničnej
+infraštruktúry (poznámka: registra Slovenskej republiky) v testovacom režime.
+2. etapa:
+
+a) Sfunkčnenie rozhrania CUI s národným registrom železničnej infraštruktúry
+(poznámka: registrom Slovenskej republiky) v produkčnom režime.
+b) Import údajov o infraštruktúrach uvedených do prevádzky po 19. júli 2008 a pred 2.
+januárom 2015 do národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) a ich sprístupnenie cez CUI.
+c) Import údajov o železničných infraštruktúrach uvedených do prevádzky po 1. januári
+2015 do národného registra železničnej infraštruktúry (poznámka: registra Slovenskej
+republiky) a ich sprístupnenie cez CUI.
+d) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. b) a c)
+prostredníctvom mapy podľa požiadaviek uvedených v prílohe č. 1 tejto zmluvy.
+3. etapa:
+a) Import údajov zo všetkých ostatných hlavných železničných tratí do národného registra
+železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich sprístupnenie
+cez CUI.
+b) Import údajov o všetkých nových železničných infraštruktúrach do národného registra
+železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich sprístupnenie
+cez CUI.
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. a) a b)
+prostredníctvom mapy podľa požiadaviek uvedených v prílohe č. 1 tejto zmluvy.
+
+4. etapa:
+a) Import údajov zo všetkých ostatných vedľajších železničných tratí do národného
+registra železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich
+sprístupnenie cez CUI.
+b) Import údajov o všetkých nových železničných infraštruktúrach do národného registra
+železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich sprístupnenie
+cez CUI.
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. a) a b)
+prostredníctvom mapy podľa požiadaviek uvedených v prílohe č. 1 tejto zmluvy.
+5. etapa:
+a) Import údajov zo všetkých prevádzkovaných železničných dráh v súkromnom
+vlastníctve do národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) a ich sprístupnenie cez CUI.
+b) Import údajov o všetkých nových železničných infraštruktúrach do národného registra
+železničnej infraštruktúry (poznámka: registra Slovenskej republiky)
+a ich
+sprístupnenie cez CUI.
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. a) a b)
+prostredníctvom mapy podľa požiadaviek uvedených v prílohe č. 1 tejto zmluvy.
+4.2 Práce súvisiace s napĺňaním, prevádzkou a aktualizáciou databázy, údržbou, služby
+podpory prevádzky a aplikačnej podpory:
+
+1. etapa:
+a) Žiadne práce
+2. etapa:
+a) Zhromažďovanie údajov pre potreby RINF.
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) s napojením na CUI.
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+3. etapa:
+a) Zhromažďovanie údajov pre potreby RINF.
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) s napojením na CUI.
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+4. etapa:
+a) Zhromažďovanie údajov pre potreby RINF.
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) s napojením na CUI.
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+5. etapa:
+a) Zhromažďovanie údajov pre potreby RINF.
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) s napojením na CUI.
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+4.3 Rozpis jednotlivých etáp predmetu zmluvy
+
+Číslo
+etapy
+
+1
+
+Ukončenie etapy
+od dátumu
+nadobudnutia
+účinnosti zmluvy
+do 31.10.2018, ak
+niektoré
+
+Dodávka
+licenčného
+softvéru
+a implementačné
+práce
+[%]
+100
+
+Práce súvisiace s napĺňaním,
+prevádzkou a aktualizáciou
+databázy, údržba, služby podpory
+prevádzky a aplikačnej podpory
+[%]
+0
+
+Číslo
+etapy
+
+2
+
+3
+
+4
+5
+
+Ukončenie etapy
+od dátumu
+nadobudnutia
+účinnosti zmluvy
+ustanovenie tejto
+zmluvy nestanoví
+inak
+do 30.11.2018, ak
+niektoré
+ustanovenie tejto
+zmluvy nestanoví
+inak
+do dátumu
+stanoveného v
+akceptovanej
+objednávke
+do dátumu
+stanoveného v
+akceptovanej
+objednávke
+do 30.11.2021
+
+Dodávka
+licenčného
+softvéru
+a implementačné
+práce
+[%]
+
+Práce súvisiace s napĺňaním,
+prevádzkou a aktualizáciou
+databázy, údržba, služby podpory
+prevádzky a aplikačnej podpory
+[%]
+
+80
+
+20
+
+70
+
+30
+
+60
+
+40
+
+50
+
+50
+
+5.
+
+Objednávateľ má oprávnenie požadovať od dodávateľa plnenie akýchkoľvek úloh, ktoré
+boli predmetom opisu zákazky (príloha č. 1 zmluvy).
+
+6.
+
+Dohodnuté kontakty a ich dostupnosť, kategórie porúch a servisné zásahy dodávateľa sú
+uvedené v prílohe č. 2 tejto zmluvy.
+
+7.
+
+Zoznam železničných dráh v Slovenskej republike tvorí prílohu č. 4 tejto zmluvy.
+
+8.
+
+Zoznam základných kapacít železničnej infraštruktúry tvorí prílohu č. 5 tejto zmluvy.
+
+9.
+
+Koridory nákladnej dopravy sú vymedzené aktuálnym znením nariadenia Európskeho
+parlamentu a Rady (EÚ) č. 913/2010 z 22. septembra 2010 o európskej železničnej sieti
+pre konkurencieschopnú nákladnú dopravu v platnom znení.
+
+10. Dodávateľ s objednávateľom sa dohodli a sú si vedomí skutočnosti, že na základe tejto
+zmluvy bude vytvorená 1. a 2. etapa predmetu tejto zmluvy a k realizovaniu zvyšných etáp
+dôjde len v prípade stanovených touto zmluvou, to jest kumulatívneho splnenia podmienky
+disponovania s rozpočtovými prostriedkami zo strany objednávateľa a jeho objednávky.
+
+Článok 2
+Čas a miesto plnenia
+1. Táto zmluva sa uzatvára na dobu určitú, t. j. na obdobie do 31.12.2021 alebo do skončenia
+záručnej doby na dielo, resp. jeho jednotlivú časť, podľa toho, ktorá z týchto skutočností
+nastane neskôr.
+2. Miestom plnenia predmetu tejto zmluvy je sídlo objednávateľa: Dopravný úrad, Letisko M.
+R. Štefánika, 823 05 Bratislava, resp. jeho pracovisko: Dopravný úrad, divízia dráh
+a dopravy na dráhach, Prístavná ul. č. 10, 821 09 Bratislava, pokiaľ sa zmluvné strany
+nedohodnú inak.
+3. Objednávateľ preberá v zastúpení poverenej osoby, ktorou je kontaktná osoba uvedená
+v záhlaví tejto zmluvy, jednotlivé samostatne dodávané časti dodávky softvéru
+a implementačných prác, podpísaním akceptačného protokolu, ktorého vzor je uvedený
+v prílohe č. 3 tejto zmluvy.
+Článok 3
+Cena
+1. Celková cena za predmet dodávky je špecifikovaná v prílohe č. 1 B. tejto zmluvy a bola
+kalkulovaná ako súčet vlastných nákladov, režijných nákladov a zisku, pričom táto je
+výsledkom vykonaného verejného obstarávania. Celková cena pozostáva z ceny za dodávku
+softvéru a implementačných prác a prác súvisiacich s napĺňaním, prevádzkou
+a aktualizáciou databázy, údržby predmetu dodávky, služieb podpory prevádzky
+a aplikačnej podpory za obdobie trvania zmluvy a je:
+99 939,91 € bez DPH, slovom: deväťdesiatdeväťtisícdeväťstotridsaťdeväť EUR bez DPH
+a deväťdesiatjeden
+centov
+a
+119 927,90
+€
+s DPH,
+slovom:
+stodevätnásťtisícdeväťstodvadsaťsedem EUR s DPH a deväťdesiat centov.
+2. Cena spolu za dodávku softvéru a implementačné práce podľa prílohy č. 1 definovanej
+v zmysle článku 1 ods. 2 a ods. 4 bod 4.1 tejto zmluvy je: 78 608,74 € bez DPH, slovom:
+sedemdesiatosemtisícšestoosem EUR bez DPH a sedemdesiatštyri centov a 94 330,49 €
+s DPH, slovom: deväťdesiatštyritisíctristotridsať EUR s DPH a štyridsaťdeväť centov.
+3. Cena za práce súvisiace s napĺňaním, prevádzkou a aktualizáciou databázy, údržbou,
+služby podpory prevádzky a aplikačnej podpory podľa prílohy č. 1 tejto zmluvy,
+definované v zmysle článku 1 ods. 3 a ods. 4 bod 4.2 tejto zmluvy je: 21 331,17 € bez DPH,
+slovom: dvadsaťjedentisíctristotridsaťjeden EUR bez DPH a sedemnásť centov
+a 25 597,41 € s DPH, slovom: dvadsaťpäťtisícpäťstodeväťdesiatsedem EUR s DPH
+a štyridsaťjedna centov.
+Článok 4
+Platobné a fakturačné podmienky
+
+1. Objednávateľ sa zaväzuje cenu za predmet dodávky podľa tejto zmluvy uhradiť na základe
+vystavených faktúr dodávateľa podľa týchto podmienok:
+a) všetky ceny dohodnuté v tejto zmluve budú uvádzané v EUR bez DPH; v prípade, ak
+má dodávateľ sídlo v Slovenskej republike, bude vo faktúre uvedená aj cena v EUR
+s DPH, inak objednávateľ vykoná zdanenie v zmysle platných a účinných predpisov
+Slovenskej republiky,
+b) termín splatnosti faktúr je 30 dní od doručenia faktúry objednávateľovi.
+2. Cena za poskytnutú dodávku softvéru a implementačné práce podľa článku 3 ods. 2 tejto
+zmluvy bude počas plnenia predmetu zmluvy fakturovaná dodávateľom tak, aby bola
+faktúra najneskôr do 15 dní od prevzatia predmetu zmluvy (jeho časti/etapy/čiastkového
+plnenia) doručená objednávateľovi na adresu uvedenú v tejto zmluve.
+Harmonogram fakturácie plnenia:
+I.
+čiastkové plnenie 35 300,00 EUR bez DPH k 31.10.2018, doručenie faktúry
+najneskôr do 15 dní od ukončenia tejto etapy a jej prevzatia, ak táto zmluva nestanoví inak,
+II. čiastkové plnenie 16 547,82 EUR bez DPH k 30.11.2018, doručenie faktúry
+najneskôr do 15 dní od ukončenia tejto etapy a jej prevzatia, ak táto zmluva nestanoví inak,
+III. čiastkové plnenie 11 764,46 EUR bez DPH v lehote stanovenej v akceptovanej
+objednávke, doručenie faktúry najneskôr do 15 dní od ukončenia tejto etapy a jej prevzatia,
+ak táto zmluva nestanoví inak,
+IV. čiastkové plnenie 8 532,47 EUR bez DPH v lehote stanovenej v akceptovanej
+objednávke, doručenie faktúry najneskôr do 15 dní od ukončenia tejto etapy a jej prevzatia,
+ak táto zmluva nestanoví inak,
+V. čiastkové plnenie 6 463,99 EUR bez DPH najneskôr k 30.11.2021, doručenie faktúry
+najneskôr do 15.12.2021, ak táto zmluva nestanoví inak.
+3. Cena za poskytnutú dodávku softvéru a implementačné práce podľa článku 3 ods. 2 tejto
+zmluvy bude fakturovaná dodávateľom vo výške vopred odsúhlasenej objednávateľom
+podľa postupu uvedeného v článku 8 ods. 1 až 4 tejto zmluvy, pričom faktúru vystaví
+dodávateľ až po schválení a podpísaní akceptačného protokolu objednávateľom – ním
+poverenou osobou.
+4. Cena za práce súvisiace s napĺňaním, prevádzkou a aktualizáciou databázy, údržbou,
+služby podpory prevádzky a aplikačnej podpory podľa článku 3 ods. 3 tejto zmluvy bude
+počas plnenia predmetu zmluvy fakturovaná dodávateľom tak, aby bola faktúra najneskôr
+do 15 dní od prevzatia predmetu zmluvy (jeho časti/etapy/čiastkového plnenia) doručená
+objednávateľovi na adresu uvedenú v tejto zmluve.
+
+Harmonogram fakturácie plnenia:
+I.
+čiastkové plnenie 0,00 EUR bez DPH k 31.10.2018, doručenie faktúry najneskôr do
+15 dní od ukončenia tejto etapy a jej prevzatia, ak táto zmluva nestanoví inak,
+II. čiastkové plnenie 4 136,95 EUR bez DPH k 30.11.2018, doručenie faktúry najneskôr
+do 15 dní od ukončenia tejto etapy a jej prevzatia, ak táto zmluva nestanoví inak,
+
+III. čiastkové plnenie 5 041,91 EUR bez DPH v lehote stanovenej v akceptovanej
+objednávke, doručenie faktúry najneskôr do 15 dní od ukončenia tejto etapy a jej prevzatia,
+ak táto zmluva nestanoví inak,,
+IV. čiastkové plnenie 5 688,31 EUR bez DPH v lehote stanovenej v akceptovanej
+objednávke, doručenie faktúry najneskôr do 15 dní od ukončenia tejto etapy a jej prevzatia,
+ak táto zmluva nestanoví inak,
+V. čiastkové plnenie 6 463,99 EUR bez DPH k 30.11.2021, doručenie faktúry najneskôr
+do 15.12.2021,ak táto zmluva nestanoví inak.
+5. Dodávateľ zodpovedá za správnosť a úplnosť každej faktúry ako daňového dokladu, ktorý
+musí mať všetky náležitosti v zmysle platných právnych predpisov Slovenskej republiky.
+Objednávateľ je oprávnený vrátiť daňový doklad dodávateľovi na prepracovanie, pokiaľ
+nebude vystavený v súlade s ustanoveniami tejto zmluvy, resp. bude vystavený v rozpore
+s platnými právnymi predpismi Slovenskej republiky. Vrátením daňového dokladu na
+prepracovanie nastáva prerušenie plynutia lehoty splatnosti a nová lehota začína plynúť až
+dňom vystavenia nového, opraveného daňového dokladu. Prerušenie plynutia lehoty
+neplatí, ak sa preukáže, že daňový doklad bol objednávateľom vrátený neoprávnene.
+6. Za uhradenie daňového dokladu sa považuje deň, v ktorom bude fakturovaná suma odpísaná
+z účtu objednávateľa. V prípade, že splatnosť daňového dokladu pripadne na deň
+pracovného voľna alebo pracovného pokoja, bude sa za deň splatnosti daňového dokladu
+považovať najbližší nasledujúci pracovný deň.
+Článok 5
+Záruky
+1. Dodávateľ poskytuje záruku dva roky na dodanie softvéru (rozumie sa aj počítačového
+programu), poskytnutie prác a služieb podľa článku 1 tejto zmluvy. Záruka začína plynúť
+dňom odovzdania a prevzatia príslušných výsledkov riešenia objednávateľom na základe
+podpísaného príslušného akceptačného protokolu.
+2. Chyby a poruchy, ktoré sa vyskytnú behom záručnej lehoty, je dodávateľ povinný
+bezodkladne a bezplatne odstrániť, ak ide o záručnú opravu, najneskôr však do 30
+(tridsiatich) dní, ak chyba neovplyvňuje prevádzku systému, od písomného oznámenia
+chyby objednávateľom dodávateľovi, pokiaľ sa zmluvné strany v konkrétnom prípade
+nedohodnú inak, inak v reakčných časoch podľa bodu 7 tohto článku.
+3. Záruky poskytnuté dodávateľom sa nevzťahujú na nasledujúce prípady:
+a) chyby vzniknuté nesprávnou manipuláciou s údajmi zamestnancami objednávateľa,
+b) chyby vzniknuté z dôvodu nesprávneho používania aplikácie,
+c) chyby vzniknuté akýmkoľvek zásahom objednávateľa do programového vybavenia bez
+súhlasu dodávateľa,
+d) dodávateľ nenesie zodpovednosť za výsledok očakávaný objednávateľom, ktorý závisí
+od stupňa znalostí a schopností koncových používateľov systému a od toho, že sa
+nedopustia žiadnych chýb, či omylov pri práci so systémom.
+
+4. Žiadna zo zmluvných strán nezodpovedá za neplnenie zmluvných povinností
+v dôsledku prekážok, ktoré nastali nezávisle od vôle zmluvných strán a bránia im v splnení
+povinností vyplývajúcich z tejto zmluvy. Takéto prekážky je povinná zmluvná strana, na
+strane ktorej sa prekážka vyskytla, písomne oznámiť druhej zmluvnej strane.
+5. Ak nie je v zmluve uvedené inak, riadia sa záručné podmienky príslušnými ustanoveniami
+Obchodného zákonníka.
+6. Objednávateľ má nárok na odstránenie vád v záručnej lehote, pokiaľ sú splnené podmienky
+ustanovené v ods. 2 tohto článku a pokiaľ bola porucha nahlásená dodávateľovi v písomnej
+forme; porucha môže byť nahlásená aj prostredníctvom e-mailu adresovaného kontaktnej
+osobe dodávateľa uvedenej v tejto zmluve, resp. nahlásenej písomne zo strany dodávateľa
+objednávateľovi.
+7. Dodávateľ je na základe nahlásenia zo strany objednávateľa povinný odstrániť chyby
+systému. Požadované reakčné časy dodávateľa na odstránenie chýb nahlásených
+objednávateľom a maximálny čas ich odstránenia sú špecifikované v prílohe č. 2 tejto
+zmluvy a počítajú sa od písomného nahlásenia chyby alebo poruchy aplikácie
+dodávateľovi. Reakčný čas dodávateľa pri poruchách závažného charakteru sa netýka
+sobôt, nedieľ a štátnych sviatkov.
+8. Objednávateľ sa zaväzuje informovať dodávateľa o zmenách v aplikácii uskutočnených
+v priebehu trvania tejto zmluvy.
+Článok 6
+Pokuty
+1.
+
+Objednávateľ si môže uplatniť u dodávateľa nárok na zmluvnú pokutu vo výške 100,- € za
+každý deň omeškania pri neplnení alebo nesplnení akéhokoľvek záväzku vyplývajúceho
+z predmetu tejto zmluvy podľa článku 1 tejto zmluvy (s výnimkou lehôt, ktoré rieši odsek
+3 tohto článku zmluvy), pokiaľ sa v zmluve neuvádza inak. Toto ustanovenie sa vzťahuje
+aj na lehoty a podmienky uvedené v akceptovanej objednávke dodávateľom.
+
+2.
+
+Objednávateľ nemá nárok na zmluvnú pokutu z omeškania dodávateľa, ak má na meškaní
+podiel nesplnením niektorého svojho zmluvného záväzku.
+
+3.
+
+V prípade nedodržania lehôt stanovených v tejto zmluve dodávateľovi pre odstránenie
+záručných chýb a za splnenia podmienok uvedených v článku 5 ods. 6 tejto zmluvy, má
+objednávateľ právo na zmluvnú pokutu vo výške 20,00 EUR/deň (dvadsať eur) pri poruche
+závažného charakteru a na zmluvnú pokutu vo výške 10,00 EUR/deň (desať eur) pri
+poruche menej závažného charakteru.
+
+4.
+
+V prípade nedodržania termínov platieb podľa článku 4 tejto zmluvy, bude dodávateľ
+účtovať objednávateľovi úrok z omeškania v sadzbe, ktorú ustanoví vláda Slovenskej
+republiky nariadením (vykonávacím predpisom k Obchodnému zákonníku).
+
+5.
+
+V prípade, ak sa objednávateľ rozhodol od tejto zmluvy neodstúpiť a stanovil dodávateľovi
+na odstránenie vád a nedorobkov diela (jeho časti), ktoré nebránia užívaniu diela, lehotu
+na ich odstránenie (článok 8 ods. 4), a dodávateľ túto lehotu nedodrží, je objednávateľ
+oprávnený neaplikovať vo vzťahu k zmluvnej pokute ods. 1 tohto článku, ale vyfakturovať
+
+dodávateľovi zmluvnú pokutu vo výške nákladov spojených so zabezpečením odstránenia
+týchto vád a nedorobkov u iného dodávateľa.
+6.
+
+V prípade oprávneného odstúpenia od zmluvy zo strany objednávateľa je objednávateľ
+oprávnený neaplikovať vo vzťahu k zmluvnej pokute vyššie uvedené ustanovenia tohto
+článku, ale dodávateľovi vyfakturovať zmluvnú pokutu vo výške 3.000,- euro.
+Článok 7
+Ochrana dôverných informácií, osobných údajov, majetkové práva autora
+
+1. Zmluvné strany sú si vedomé, že pri zabezpečovaní služieb vyplývajúcich z tejto zmluvy
+môžu získať dôverné informácie protistrany.
+2. Objednávateľ považuje za dôverné nasledujúce typy informácií:
+a) Informácie/údaje o osobách získaných z úradnej činnosti,
+b) prístupové heslá a profily používateľov,
+c) modifikované vzory výstupných zostáv,
+d) stav informačných technológií.
+3. Dodávateľ považuje za dôvernú informáciu metodiku a postup implementácie.
+4. Zmluvné strany sa zaväzujú zachovávať mlčanlivosť o všetkých dôverných informáciách
+a údajoch uvedených podľa ods. 2 a ods. 3 tohto článku a zaobchádzať s týmito
+informáciami a údajmi ako s dôvernými v zmysle § 271 Obchodného zákonníka
+a povinnosť mlčanlivosti zachovávať i po ukončení vzájomnej spolupráce. Dodávateľ je
+oprávnený pre naplnenie predmetu tejto zmluvy poskytnúť potrebné informácie v rozsahu
+nutnom pre potreby tejto zmluvy vlastným zamestnancom, prípadne subdodávateľom
+s tým, že je ich povinný písomne upozorniť na skutočnosť, že sa jedná o dôverné
+informácie v zmysle tejto zmluvy. V prípade porušenia tohto záväzku je zmluvná strana,
+ktorá ho porušila (vrátane porušenia činnosťou zamestnancov/subdodávateľov), povinná
+uhradiť poškodenej zmluvnej strane preukázateľnú škodu v plnom rozsahu, pokiaľ sa
+zmluvné strany nedohodnú inak (§ 373 a nasl. Obchodného zákonníka).
+5. Objednávateľ zabezpečí pre naplnenie predmetu tejto zmluvy poskytnutie potrebných
+informácií a súčinnosti v rozsahu nutnom pre potreby tejto zmluvy vlastným
+zamestnancom, prípadne subdodávateľom.
+6. Dôverné informácie nezahŕňajú informácie už verejne známe a informácie získané od tretej
+strany, ktorá mala právo tieto informácie šíriť.
+7. Zmluvné strany súhlasia, že počas trvania platnosti tejto zmluvy i po jej skončení, okrem
+výslovne tu dovolených alebo jednotlivo a písomne schválených prípadov, nebudú
+využívať, komercionalizovať alebo poskytovať dôverné informácie protistrany a ich
+zmluvných partnerov akejkoľvek osobe alebo inštitúcii, okrem svojich vlastných
+
+zamestnancov, prípadne spolupracujúcich osôb, respektíve dozorným orgánom
+objednávateľa. Za zamestnancov, spolupracujúce osoby a ďalších príjemcov informácií
+však príslušná zmluvná strana zodpovedá v plnom rozsahu, s výnimkou dozorných
+orgánov objednávateľa.
+8. Zmluvné strany sa zaväzujú, že po dobu plnenia predmetu zmluvy a následnej záruky
+nepovedú bez písomného súhlasu druhej zmluvnej strany žiadne rokovania so
+zamestnancami zmluvného partnera s cieľom ponúknuť im zamestnanie. Pokiaľ
+nedodržaním záväzku dôjde ku škode na jednej zo zmluvných strán, má právo zmluvná
+strana, ktorá bola týmto počinom poškodená, vyzvať druhú zmluvnú stranu na konanie
+s cieľom dosiahnuť zmier cestou mimosúdneho vyrovnania. To isté platí aj vo všetkých
+iných sporných otázkach vyplývajúcich z tejto zmluvy.
+9. Povinnosť objednávateľa sprístupniť informácie podľa príslušných zákonov a predpisov nie
+je týmito ustanoveniami dotknutá.
+10. Dodávateľ je povinný zabezpečiť, aby všetci jeho zamestnanci, zamestnanci
+subdodávateľov, prípadne iné osoby, ktoré pre neho vykonávajú činnosti za účelom plnenia
+tejto zmluvy, zachovávali mlčanlivosť o osobných údajoch spracovávaných
+objednávateľom, s ktorými v rámci plnenia tejto zmluvy prídu do styku. Ak nesplnením
+tejto povinnosti vznikne objednávateľovi škoda, je dodávateľ povinný ju objednávateľovi
+nahradiť v plnom rozsahu.
+11. Objednávateľ získava odovzdaním diela (resp. jeho časti) a riadnym finančným plnením
+k RINF (resp. jeho časti) dodanému a implementovanému pre potreby objednávateľa, ako
+aj k poskytnutým prácam a službám k takto dodanému RINF, ktoré majú charakter
+autorského diela, všetky majetkové práva k dielu vykonanému na základe tejto zmluvy
+dodávateľom pre objednávateľa (to jest, objednávateľ má okrem iných práv, právo ho
+používať na účely, pre ktoré je v zmysle európskej a národnej legislatívy určené, udržiavať
+ho, obnovovať ho, rozširovať ho, a to aj za pomoci tretích osôb), a to riadnym finančným
+plnením v zmysle tejto zmluvy.
+Článok 8
+Ďalšie dohodnuté podmienky
+1. Etapy plnenia predmetu tejto zmluvy, s výnimkou prvej a druhej etapy, budú v zmysle tejto
+zmluvy realizované dodávateľom len na základe písomnej objednávky objednávateľa, inak
+povedané, ak si objednávateľ ich dodanie neobjedná, nebudú v zmysle tohto zmluvného
+vzťahu dodávateľom realizované. Dodávateľ je povinný dodať prvú etapu predmetu tejto
+zmluvy najneskôr do 31.10.2018, ak niektoré ustanovenie zmluvy nestanovuje inak, a druhú
+etapu predmetu tejto zmluvy najneskôr do 30.11.2018, ak niektoré ustanovenie zmluvy
+nestanovuje inak. Každú ďalšiu etapu plnenia predmetu tejto zmluvy si objednávateľ môže
+objednať u dodávateľa len, ak mu budú na to poskytnuté rozpočtové prostriedky
+rozpočtovým opatrením Ministerstva dopravy a výstavby Slovenskej republiky.
+Objednávateľ objednáva jednotlivé etapy plnenia predmetu tejto zmluvy formou písomnej
+objednávky, podpísanej štatutárnym orgánom objednávateľa, so špecifikovaním a popisom
+požiadavky a lehotou plnenia. Objednávka môže byť zo strany objednávateľa zaslaná
+
+dodávateľovi aj emailom. Dodávateľ musí v prípade zaslania objednávky emailom prijatie
+objednávky potvrdiť (postačuje opäť emailom). Dodávateľ je povinný do 5 (päť)
+pracovných dní od prijatia objednávky túto písomne akceptovať, postačuje aj formou
+emailu alebo uplatniť v tejto lehote voči nej svoje výhrady (postačuje opäť emailom); inak
+sa považuje objednávka zo strany dodávateľa za akceptovanú. Výhrady dodávateľa môžu
+byť uplatnené len voči lehote plnenia objednávky. Dodávateľ má právo objednávateľovi
+navrhnúť ním akceptovateľnú lehotu plnenia, resp. uviesť, že v zostávajúcom čase trvania
+zmluvného vzťahu nevie objednávku realizovať. V prípade, ak objednávateľ s návrhom
+lehoty zo strany dodávateľa súhlasí, zašle dodávateľovi objednávku so vzájomne
+akceptovanou lehotou plnenia (postačuje opäť emailom), ktorej prijatie/akceptáciu je
+dodávateľ do 5 (päť) pracovných dní povinný potvrdiť (postačuje opäť emailom), inak sa
+považuje za akceptovanú. Ak popísaným spôsobom nedôjde k akceptácii objednávky, táto
+zmluva zaniká.
+2. Dodávateľ najneskôr do 14-tich dní od účinnosti prvej a druhej etapy/doručenia objednávky
+predloží objednávateľovi časový harmonogram riešenia, alebo požiada objednávateľa
+o doplnenie špecifikácie.
+3. Dodávateľ začne plniť predmet zmluvy (každú jednotlivú etapu) až po vzájomnom
+odsúhlasení časového harmonogramu s poverenou osobou objednávateľa.
+4.
+
+Dodávateľ bude považovať práce za ukončené podľa časového harmonogramu, keď ich
+písomne odovzdá s akceptačným protokolom poverenej osobe objednávateľa, tzn.
+dodávateľ sa zaväzuje, že predmet zmluvy (má sa na mysli každá jednotlivá etapa)
+objednávateľovi odovzdá najneskôr do termínu ukončenia príslušnej etapy v zmluve (platí
+pre 1., 2. a 5 etapu) alebo do dohodnutého termínu uvedeného v záväznej objednávke (platí
+pre 3. a 4. etapu), pričom do tejto doby budú odstránené všetky zistené vady/chyby diela.
+Objednávateľ má právo na skúšobnú prevádzku, ktorá sa vykoná po dohode s dodávateľom
+avšak minimálne dva týždne pred odovzdaním predmetu zmluvy (diela) príslušnej etapy
+objednávateľovi (pred termínom ukončenia príslušnej etapy). Dodávateľ bude práce
+fakturovať objednávateľovi až po potvrdení akceptačného protokolu podpisom poverenej
+osoby objednávateľa. Poverená osoba nie je povinná prevziať dielo (má sa na mysli každá
+jednotlivá etapa) a súvisiace práce v zmysle tejto zmluvy z dôvodu akýchkoľvek
+vád/chýb/nedorobkov a objednávateľ je oprávnený od zmluvy odstúpiť (článok 9 ods. 2
+tejto zmluvy).V prípade, ak vady/chyby/nedorobky vzhľadom na ich charakter nebránia
+riadnemu užívaniu diela a ide o odstrániteľné vady/chyby/nedorobky predmetu zmluvy
+(diela/jeho jednotlivej etapy), poverená osoba objednávateľa predmet zmluvy (dielo) môže
+prevziať s tým, že v akceptačnom protokole dohodne s dodávateľom najneskorší dátum
+odstránenia vád a chýb dodávateľom. V tomto prípade má dodávateľ právo na zaplatenie
+ceny za čiastkové plnenie dohodnuté v tejto zmluve (článok 4 tejto zmluvy). Je len na
+rozhodnutí objednávateľa (podľa jeho vnímania charakteru chýb/vád/nedorobkov), či
+dielo/jeho časť s odstrániteľnými vadami/chybami/nedorobkami, ktoré nebránia užívaniu
+diela preberie alebo využije svoje právo a odstúpi od tejto zmluvy.
+
+5.
+
+Objednávateľ sa zaväzuje zabezpečiť dodávateľovi súčinnosť, všetky podklady a zdroje
+informácií potrebné pre plnenie predmetu zmluvy.
+
+6.
+
+Obe zmluvné strany sa zaväzujú, že sa budú vzájomne informovať o prípadných právnych
+zmenách, týkajúcich sa právnej subjektivity dodávateľa, resp. objednávateľa, a to do 15tich dní od uskutočnenia týchto zmien.
+
+7.
+
+Objednávateľ oprávňuje dodávateľa zverejniť jeho meno ako „Zákazník spoločnosti EMIS
+s.r.o.“ kdekoľvek vo svete a bez časového obmedzenia. Predtým, než dodávateľ použije
+meno objednávateľa k propagácii, reklame alebo v iných materiáloch na propagáciu
+pripravených dodávateľom alebo nazve objednávateľa iným menom než „Zákazník
+spoločnosti EMIS s.r.o.“, musí si vopred vyžiadať písomný súhlas objednávateľa
+s predložením náhradného, príp. opraveného textu (mena). Toto právo zaniká odstúpením
+od zmluvy.
+
+8.
+
+Objednávateľ nadobúda všetky majetkové práva autora na používanie softvérových
+produktov (počítačových programov), ktoré sú dodané v rámci zmluvy ich odovzdaním,
+resp. odovzdaním ich časti a v okamihu riadneho finančného plnenia v súlade
+s ustanoveniami tejto zmluvy. Dodávateľ je povinný odovzdať objednávateľovi všetky
+zdrojové kódy ku všetkým počítačovým programom (resp. všetkým softvérovým
+produktom) vyvinutým na základe tejto zmluvy vo forme stanovenej objednávateľom
+(digitálny nosič). Zdrojové kódy sa stávajú rovnako majetkom objednávateľa. Bez
+odovzdania zdrojových kódov nemôže byť dielo (príp. jednotlivá etapa) odovzdané.
+
+9.
+
+Dodávateľ zabezpečí samostatné spracovanie vstupnej technickej dokumentácie od
+manažérov železničnej infraštruktúry, od prevádzkovateľov železničných dráh
+v Slovenskej republike a od EUAR a to aj v anglickom jazyku a zároveň pokryje
+samostatnú technickú komunikáciu s manažérmi železničnej infraštruktúry,
+s prevádzkovateľmi železničných dráh v Slovenskej republike a s EUAR a to aj
+v anglickom jazyku.
+
+10. Dodávateľ preberá zodpovednosť za prípadné škody na majetku objednávateľa vzniknuté
+v súvislosti s plnením predmetu tejto zmluvy.
+11. Akákoľvek zásielka doručovaná v zmysle tejto zmluvy prostredníctvom poštového styku
+sa považuje za doručenú aj odmietnutím jej prijatia, resp. jej vrátením ako nedoručenej
+z adresy uvedenej v tejto zmluve, resp. inej adresy, ktorá bola zo strany druhej zmluvnej
+strany písomne a preukázateľne oznámená. Akákoľvek zásielka doručovaná osobne sa
+považuje za doručenú odovzdaním kontaktnej osobe zmluvnej strany uvedenej v tejto
+zmluve, resp. inej osobe písomne oznámenej zo strany zmluvnej strany na účely preberania
+písomností, resp. inej osobe splnomocnenej zmluvnou stranou na preberanie pošty, resp.
+doručená štatutárnemu zástupcovi zmluvnej strany, a to aj v prípade, ak akákoľvek z týchto
+osôb odmietne prevzatie písomnosti. Zásielka v zmysle tejto zmluvy, s výnimkou právnych
+úkonov smerujúcich k ukončeniu tejto zmluvy, môže byť doručovaná aj prostredníctvom
+emailu, ak druhá zmluvná strana, resp. jej kontaktná, poverená alebo splnomocnená osoba
+potvrdí prijatie emailu.
+12. Predmet zmluvy je realizovaný v piatich etapách s konkrétnym, v tejto
+zmluve/akceptovanej objednávke, stanoveným termínom/lehotou na odovzdanie predmetu
+zmluvy vzťahujúceho sa na konkrétnu etapu.
+
+13. Predmet zmluvy sa bude financovať z rozpočtových prostriedkov objednávateľa.
+Realizácia všetkých etáp predmetu zmluvy je závislá od pridelenia finančných
+prostriedkov objednávateľovi zo štátneho rozpočtu. Dodávateľ akceptuje skutočnosť, že
+v prípade nepridelenia finančných prostriedkov zo štátneho rozpočtu na ktorúkoľvek 3. až
+5. etapu zmluvy počas trvania zmluvy, môže objednávateľ túto zmluvu ukončiť
+výpoveďou.
+14. Dodávateľ garantuje objednávateľovi skutočnosť, že k akejkoľvek časti predmetu tejto
+zmluvy, ktorú objednávateľovi v zmysle tejto zmluvy dodá a táto bude mať charakter
+autorského diela, má všetky majetkové práva, resp. akékoľvek iné práva, ktoré ho
+oprávňujú previesť majetkové k dodanému predmetu zmluvy na objednávateľa alebo
+licenčné práva k využívaniu jednotlivých častí (ak ide o zabudované licenčné moduly
+tretích strán).
+15. Dodávateľ je povinný umožniť pred prevzatím diela (má sa na mysli každá jeho etapa) jeho
+testovanie objednávateľovi, a to minimálne v rozsahu dvoch týždňov, pričom je v rámci
+tejto lehoty povinný odstrániť všetky nedostatky/vady/nedorobky diela, poprípade dielo
+dorobiť v súlade s požiadavkami objednávateľa, ak sú v súlade s touto zmluvou, resp.
+objednávkou.
+16. Dodávateľ v súlade s ustanovením § 41 ods. 3 zákona o verejnom obstarávaní uvádza pre
+účely tejto zmluvy údaje o všetkých známych subdodávateľoch, s výnimkou dodávateľ
+tovaru:
+subdodávateľ: InterWay a.s., sídlom: Stará Vajnorská 21, 831 04 Bratislava, Slovenská
+republika, IČO: 35 728 531
+údaje o osobe oprávnenej konať za subdodávateľa:
+.
+17. Dodávateľ je povinný najneskôr 3 (tri) pracovné dni pred tým ako má v úmysle zmeniť
+subdodávateľa, túto zmenu oznámiť objednávateľovi spolu s údajmi o novom
+subdodávateľovi v zmysle odseku 16 tohto článku zmluvy, pričom navrhovaný
+subdodávateľ musí spĺňať podmienky účasti vyžadované v rámci verejného obstarávania
+uskutočneného pred uzatvorením tejto zmluvy na predmet zmluvy. Objednávateľ je
+povinný najneskôr do 10 (desať) pracovných dní vyjadriť súhlas, resp. nesúhlas so zmenou
+subdodávateľa, ak tak neučiní, má sa za to, že so zmenou subdodávateľa súhlasí. Dodávateľ
+nesmie vykonať zmenu subdodávateľa bez súhlasu objednávateľa. Porušenie tejto
+povinnosti sa považuje za hrubé porušenie tejto zmluvy a objednávateľ je oprávnený pri
+porušení tejto povinnosti s okamžitou platnosťou od tejto zmluvy odstúpiť. Dodávateľ
+zodpovedá objednávateľovi za akékoľvek škody, ktoré mu porušením tejto jeho povinnosti
+vzniknú.
+Článok 9
+Ukončenie zmluvy
+1. Zmluvu môže vypovedať ktorákoľvek zmluvná strana, a to aj bez udania dôvodov, vždy k
+dátumu ukončenia konkrétnej etapy, resp. aj v inom prípade stanovenom touto zmluvou
+(napr. článok 8, ods. 13). Výpovedná lehota začína plynúť prvým dňom nasledujúcim po
+
+doručení písomnej výpovede druhej zmluvnej strane a končí posledným dňom príslušnej
+etapy tejto zmluvy, ak bola výpoveď uskutočnená podľa prvej časti prvej vety tohto
+ustanovenia alebo končí uplynutím troch dní od jej doručenia, ak bola výpoveď uskutočnená
+podľa druhej časti prvej vety tohto ustanovenia (iný prípad stanovený touto zmluvou).
+2. Objednávateľ môže odstúpiť od zmluvy z dôvodu podstatného porušenia povinností
+vyplývajúcich dodávateľovi z tejto zmluvy. Za podstatné porušenie sa považuje:
+a) nesplnenie riadneho termínu odovzdávania požadovaných prác a služieb v zmysle tejto
+zmluvy/objednávky, resp. lehoty na odstránenie chýb/vád/nedorobkov,
+b) opakované dodávanie nekvalitne vykonávaných prác a služieb,
+c) opakované nedodržanie termínu začatia odstraňovania alebo odstránenia porúch,
+d) akékoľvek iné porušenie tejto zmluvy, ktoré dodávateľ ani na výzvu objednávateľa
+neodstráni,
+e) nedodanie, resp. dôvodné neprevzatie objednávateľom čiastkového plnenia zmluvy
+konkrétnej etapy v zmluvne dohodnutom termíne.
+3. Dodávateľ môže odstúpiť od zmluvy z dôvodu bezdôvodného neuhradenia faktúry po viac
+ako 30 (tridsať) dňovom meškaní reklamovanej úhrady platby za vykonané práce a služby
+alebo pre neodôvodnené neprevzatie objednávateľom čiastkového plnenia zmluvy
+konkrétnej etapy v zmluvne dohodnutom termíne.
+4. Odstúpenie od zmluvy je účinné doručením písomného prejavu vôle odstupujúcej zmluvnej
+strany druhej zmluvnej strane. V prípade odstúpenia od zmluvy alebo jej vypovedania si
+zmluvné strany vyrovnajú svoje záväzky uhradením pomernej ceny za vykonané a prevzaté
+práce. Práce, ktoré neboli objednávateľom, resp. jeho kontaktnou/poverenou osobou
+prevzaté, nie je objednávateľ povinný prevziať a uhradiť ich.
+5. Táto zmluva zaniká v prípade ustanovenom v článku 8 ods. 1 zmluvy, resp. aj v inom
+prípade, ak tak stanoví táto zmluva.
+6. Táto zmluva môže byť ukončená aj dohodou oboch zmluvných strán.
+7. Táto zmluva zaniká aj zánikom niektorej zo zmluvných strán bez právneho nástupcu alebo
+v prípade, ak dodávateľ nie je viac schopný plniť svoj zmluvný záväzok.
+Článok 10
+Záverečné ustanovenia
+1. Vo veciach neupravených touto zmluvou sa zmluvné strany zaväzujú riadiť príslušnými
+právne záväznými aktmi Európskej únie, ustanoveniami Obchodného zákonníka
+a ostatnými súvisiacimi ustanoveniami platných a účinných právnych predpisov Slovenskej
+republiky. V prípade sporu je na jeho rozhodnutie príslušný súd v Slovenskej republike,
+
+rozhodným právom je hmotné právo Slovenskej republiky. Komunikácia medzi zmluvnými
+stranami bude prebiehať v slovenskom, resp. českom jazyku, resp. v prípade plnenia
+predmetu zmluvy, v prípadoch stanovených touto zmluvou alebo objednávateľom, aj
+v anglickom jazyku.
+2. Pokiaľ niektoré ustanovenie tejto zmluvy bude považované súdom, úradným orgánom
+s príslušnou právomocou, zmluvnými stranami alebo v dôsledku zmeny právneho poriadku
+či spoločenských pomerov v Slovenskej republike ako neplatné alebo neúčinné, potom
+neplatnosť či neúčinnosť takéhoto ustanovenia neovplyvní ostatné ustanovenia tejto
+zmluvy, ktoré ako také zostávajú i naďalej v platnosti a účinnosti. Zmluvné strany týmto
+súhlasia, že po vzájomnom písomnom súhlase nahradia každé neplatné, resp. neúčinné
+ustanovenie tejto zmluvy ustanovením platným, resp. účinným, ktoré bude spĺňať v čo
+najväčšej miere ekonomické, právne a obchodné ciele už neplatného alebo
+nevykonateľného ustanovenia.
+3. Zmluvné strany prehlasujú, že si túto zmluvu prečítali, že bola uzatvorená po vzájomnom
+prerokovaní, prejave ich slobodnej vôle, určito, vážne a zrozumiteľne. Autentickosť tejto
+zmluvy potvrdzujú svojím podpisom.
+4. Táto zmluva nadobúda platnosť dňom podpísania oboma zmluvnými stranami a účinnosť
+vo vzťahu k prvej a druhej etape plnenia predmetu zmluvy dňom nasledujúcim po jej
+zverejnení podľa ustanovenia § 47a ods. 1 Občianskeho zákonníka v nadväznosti na § 5a
+zákona
+č. 211/2000 Z. z. o slobodnom prístupe k informáciám v znení
+neskorších predpisov. Zmluva vo vzťahu k ostatným etapám (3. až 5. etape) plnenia
+predmetu zmluvy nadobudne účinnosť až po pridelení finančných prostriedkov zo štátneho
+rozpočtu prostredníctvom rozpočtového opatrenia Ministerstva dopravy a výstavby
+Slovenskej republiky na konkrétnu etapu. Zmluvné strany sa ďalej dohodli, že zverejnenie
+zmluvy zabezpečí objednávateľ bezodkladne po podpise tejto zmluvy oboma zmluvnými
+stranami.
+5. Zmluva je vyhotovená celkom v 4 (štyroch) rovnopisoch, z ktorých každá má platnosť
+originálu. Objednávateľ dostane 2 (dve) vyhotovenia a 2 (dve) vyhotovenia dostane
+dodávateľ.
+6. Zmeny podmienok dohodnutých touto zmluvou sú platné, ak sú vypracované písomne
+formou dodatku k zmluve a sú podpísané oboma zmluvnými stranami.
+7. Neoddeliteľnou súčasťou zmluvy je päť (5) príloh:
+
+Príloha č. 1:
+
+Príloha č. 2:
+Príloha č. 3:
+Príloha č. 4:
+Príloha č. 5:
+
+A. Opis predmetu zákazky
+B. Cenová špecifikácia ako výsledok verejného obstarávania
+Kontakty a ich dostupnosť, kategórie porúch a servisné zásahy dodávateľa
+Akceptačný protokol
+Zoznam železničných dráh v Slovenskej republike
+Zoznam základných kapacít železničnej infraštruktúry
+
+Bratislava, dňa .........................
+
+Bratislava, dňa ............................
+
+Za objednávateľa:
+
+Za dodávateľa:
+
+--------v.r.-----------------------------------Ing. Ján B r e j a
+predseda Dopravného úradu
+a generálny tajomník
+služobného úradu
+
+-----------v.r.---------------------------Ing. Miroslav Vanek
+konateľ EMIS s.r.o.
+
+Príloha č. 1 ku zmluve
+A. Opis predmetu zákazky z verejného obstarávania
+1. Predmetom zadávanej zákazky je vytvorenie, prevádzka a údržba registra železničnej
+infraštruktúry (ďalej aj ako „RINF“) verejného obstarávateľa v zmysle
+vykonávacieho rozhodnutia Komisie 2014/880/EÚ z 26. novembra 2014 o
+spoločných špecifikáciách registra železničnej infraštruktúry a o zrušení
+vykonávacieho rozhodnutia 2011/633/EÚ v platnom znení a podľa pokynov
+Železničnej agentúry Európskej únie (ďalej aj ako „EUAR“), a to na základe dodania
+príslušnej softvérovej aplikácie a zabezpečenia príslušných prác spočívajúcich
+v implementácii danej aplikácie v nadväznosti na legislatívne požiadavky
+a požiadavky verejného obstarávateľa, ako aj prác spočívajúcich v napĺňaní danej
+aplikácie. Súčasne sa od uchádzača požadujú služby podpory prevádzky a služby
+aplikačnej podpory, zabezpečenie pravidelného zálohovania údajov na serveroch
+verejného obstarávateľa. Vyžaduje sa tiež vytvorenie, správa a monitorovanie
+prepojenia RINF so spoločným používateľským rozhraním (ďalej aj ako „CUI“) v
+EUAR. Ďalšou požiadavkou verejného obstarávateľa je samostatná práca
+s akoukoľvek technickou dokumentáciou a to aj v anglickom jazyku vrátane prevzatia
+zodpovednosti za škody vzniknuté na majetku verejného obstarávateľa.
+2. Stručný opis zákazky:
+2.1 Predmet zákazky ďalej obsahuje najmä, nie však výlučne:
+2.1.1 Vytvorenie databázy na platforme Windows Server s jej následným
+umiestením na server v sídle verejného obstarávateľa.
+2.1.2 Poskytnutie softvérovej webovej aplikácie (klientskeho prostredia http://)
+s prístupom cez zabezpečené webové pripojenie z interného a externého
+prostredia
+s manažmentom
+prístupových
+práv
+(právo
+„čítať/zapisovať/editovať/zmazať“ alebo právo „čítať“) vrátane externého
+prístupu cez webové sídlo verejného obstarávateľa.
+2.1.3 Vytvorenie klientskeho prostredia v prostredí Microsoft (nie Google
+Chrome alebo Mozilla Firefox).
+2.1.4 Vytvorenie automatizovaného spôsobu zberu, zhromažďovania, importu
+a synchronizácie údajov pre databázu RINF z rozličných zdrojov údajov
+a tiež aj z externého prostredia mimo verejného obstarávateľa.
+2.1.5 Zmena štruktúry automatizovaného zberu a zobrazovania údajov
+v ktorejkoľvek etape riešenia najneskôr do 30-tich dní od zadania
+požiadavky vereného obstarávateľa, ak dôjde k zmene v špecifikácií
+údajov potrebných pre databázu – platí pre prípad oznámený verejnému
+obstarávateľovi zo strany EUAR (napr. zmena používateľskej príručky
+k zberu údajov potrebných pre CUI a pod.).
+2.1.6 Zmena štruktúry automatizovaného zberu a zobrazovania údajov
+v ktorejkoľvek etape riešenia najneskôr do 120-tich dní od zadania
+požiadavky verejného obstarávateľa, ak dôjde k zmene v špecifikácií
+údajov potrebných pre databázu – platí pre prípad zmeny alebo vydania
+nového vykonávacieho rozhodnutia Európskej komisie o spoločných
+špecifikáciách registra železničnej infraštruktúry.
+
+2.1.7 Pravidelné zálohovanie databázy údajov.
+2.1.8 Vytvorenie, správa a monitorovanie prepojenia RINF s CUI v EUAR.
+2.1.9 Samostatná práca s akoukoľvek technickou dokumentáciou a to aj v
+anglickom jazyku vrátane samostatnej odbornej komunikácie s EUAR,
+s manažérmi
+železničnej
+infraštruktúry
+a s prevádzkovateľmi
+železničných dráh v Slovenskej republike a to aj v anglickom jazyku...
+2.1.10 Prevzatie zodpovednosti za škody vzniknuté na majetku verejného
+obstarávateľa.
+2.1.11 Vytvorenie možnosti generovania údajov z databázy RINF vo forme
+používateľsky prívetivého rozhrania do výstupov v rôznych formátoch
+súborov (.pdf, .xls, .html a pod.) s možnosťou voľby parametrov pre
+generovanie zostáv údajov z databázy.
+2.1.12 Vytvorenie mapového rozhrania s legendou pre verné zobrazovanie
+údajov obsiahnutých v databáze RINF vrátane používateľsky prívetivého
+rozhrania pre čítanie a generovanie údajov z databázy v rôznych formách
+súborov (.pdf, .xls, .html, .jpeg a pod.).formátoch súborov (.pdf, .xls,
+.html, .jpeg a pod.) so zobrazovaním hodnôt údajov o železničnej
+infraštruktúre pri výbere miesta prevádzky alebo úseku trate z mapového
+zobrazenia alebo zo zoznamu úseku tratí a miest prevádzky zahrnutých
+v databáze a so štruktúrou údajov v databáze podľa požiadaviek EUAR
+vrátane možnosti násobného výberu miest prevádzky a úsekov tratí.
+2.1.13 Generovanie základných kapacít železničnej infraštruktúry v správe
+manažéra infraštruktúry Železnice Slovenskej republiky z násobného
+výberu úsekov tratí, miest prevádzky vrátane celej železničnej siete
+manažéra infraštruktúry do formátu .xls, .html. a .pdf ako napr. dĺžka
+železničných tratí, počet tunelov, dĺžka tunelov, trate koridorov nákladnej
+dopravy, počet železničných priecestí a pod. Presný zoznam základných
+kapacít železničnej infraštruktúry sa nachádza v prílohe č. 5 tejto zmluvy.
+2.1.14 Vytvorenie rozhrania pre generovanie a odosielanie údajov z databázy
+RINF do CUI v požadovanom tvare a podľa technických špecifikácií.
+2.1.15 Zabezpečenie prevádzkovej funkčnosti aplikácie a databázy, ich údržby
+ako aj servisných zásahov v prípade ich nefunkčnosti.
+2.1.16 Pravidelná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI vrátane archivácie
+údajových súborov databázy RINF s možnosťou spätného pohľadu na
+železničnú sieť (tzv. historický pohľad na železničnú sieť).
+2.1.17 Testovanie a uvedenie implementovaného riešenia pre Slovenskú
+republiku do prevádzky.
+2.1.18 Poskytovanie konzultácií zodpovedným pracovníkom verejného
+obstarávateľa.
+2.1.19 Vytvorenie používateľskej príručky pre obsluhu a prácu s aplikáciou
+RINF vrátane jej aktualizácie vzhľadom na etapovitú implementáciu
+riešenia.
+2.1.20 Prevedenie všetkých majetkových práv (vrátane majetkových práv autora,
+okrem zabudovaných licenčných modulov tretích strán, okrem
+zabudovaných licenčných modulov tretích strán, ku ktorým je povinný
+uchádzač dodať verejnému obstarávateľovi v ponúknutej cene /jednotlivej
+etape, ku ktorej sa modul viaže/ časovo a teritoriálne neobmedzenú
+licenciu na ich používanie k ich určenému účelu v rámci diela)
+k akémukoľvek dielu, resp. počítačovému programu vytvorenému na
+
+základe tejto zákazky a odovzdanie zdrojových kódov k všetkým
+vytvoreným počítačovým programom vo forme požadovanej verejným
+obstarávateľom.
+2.2 Čas plnenia zákazky:
+- do 31.12.2021
+2.3 Rozpis jednotlivých etáp zákazky:
+Ukončenie
+etapy od
+dátumu
+nadobudnutia
+účinnosti
+zmluvy
+
+Číslo
+etapy
+
+1
+
+2
+
+3
+
+4
+5
+
+do 31.10.2018,
+ak niektoré
+ustanovenie
+priloženej
+zmluvy
+nestanoví inak
+do 30.11.2018,
+ak niektoré
+ustanovenie
+priloženej
+zmluvy
+nestanoví inak
+do dátumu
+stanoveného v
+akceptovanej
+objednávke
+do dátumu
+stanoveného
+v akceptovanej
+objednávke
+do 30.11.2021
+
+Dodávka
+licenčného
+softvéru
+a implementačné
+práce
+
+Práce súvisiace s napĺňaním,
+prevádzkou a aktualizáciou
+databázy, služby podpory prevádzky
+a aplikačnej podpory
+
+[%]
+
+[%]
+
+100
+
+0
+
+80
+
+20
+
+70
+
+30
+
+60
+
+40
+
+50
+
+50
+
+2.3.1 Dodávka softvéru RINF a implementačné práce
+1. etapa:
+a) Zriadenie národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) v súlade so spoločnými špecifikáciami - vytvorenie
+pracovného prostredia, vývoj softvéru, inštalácia a konfigurácia systému, vytvorenie
+mapového prostredia pre zobrazovanie údajov v databáze podľa požiadaviek
+uvedených v bode 2.1 tejto časti súťažných podkladov,
+b) Import údajov o infraštruktúrach koridorov nákladnej dopravy vymedzených
+v prílohe k nariadeniu Európskeho parlamentu a Rady (EÚ) č. 913/2010 z 22.
+septembra 2010 o európskej železničnej sieti pre konkurencieschopnú nákladnú
+
+dopravu v platnom znení do národného registra infraštruktúry a ich sprístupnenie
+cez CUI,
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. b)
+prostredníctvom mapy,
+d) Testovanie a sfunkčnenie rozhrania CUI s národným registrom železničnej
+infraštruktúry (poznámka: registra Slovenskej republiky) v testovacom režime.
+2. etapa:
+a) Sfunkčnenie rozhrania CUI s národným registrom železničnej infraštruktúry
+(poznámka: registra Slovenskej republiky) v produkčnom režime,
+b) Import údajov o infraštruktúrach uvedených do prevádzky po 19. júli 2008 a pred 2.
+januárom 2015 do národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) a ich sprístupnenie cez CUI,
+c) Import údajov o železničných infraštruktúrach uvedených do prevádzky po 1.
+januári 2015 do národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) a ich sprístupnenie cez CUI,
+d) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. b) a c)
+prostredníctvom mapy podľa požiadaviek uvedených v bode 2.1 tejto časti
+súťažných podkladov.
+3. etapa:
+a) Import údajov zo všetkých ostatných hlavných železničných tratí do národného
+registra železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich
+sprístupnenie cez CUI,
+b) Import údajov o všetkých nových železničných infraštruktúrach do národného
+registra železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich
+sprístupnenie cez CUI
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. a) a b)
+prostredníctvom mapy podľa požiadaviek uvedených v bode 2.1 tejto časti
+súťažných podkladov.
+4. etapa:
+a) Import údajov zo všetkých ostatných vedľajších železničných tratí do národného
+registra železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich
+sprístupnenie cez CUI,
+b) Import údajov o všetkých nových železničných infraštruktúrach do národného
+registra železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich
+sprístupnenie cez CUI,
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. a) a b)
+prostredníctvom mapy podľa požiadaviek uvedených v bode 2.1 tejto časti
+súťažných podkladov.
+5. etapa:
+a) Import údajov zo všetkých prevádzkovaných železničných dráh v súkromnom
+vlastníctve do národného registra železničnej infraštruktúry (poznámka: registra
+Slovenskej republiky) a ich sprístupnenie cez CUI,
+
+b) Import údajov o všetkých nových železničných infraštruktúrach do národného
+registra železničnej infraštruktúry (poznámka: registra Slovenskej republiky) a ich
+sprístupnenie cez CUI,
+c) Vytvorenie zobrazovania údajov v databáze RINF uvedených v písm. a) a b)
+prostredníctvom mapy podľa požiadaviek uvedených v bode 2.1 tejto časti
+súťažných podkladov.
+Zoznam hlavných a vedľajších železničných tratí a zoznam prevádzkovaných železničných
+dráh v súkromnom vlastníctve tvorí prílohu návrhu zmluvy (príloha č. 4 zmluvy). Koridory
+nákladnej dopravy sú vymedzené aktuálnym znením nariadenia Európskeho parlamentu
+a Rady (EÚ) č. 913/2010 z 22. septembra 2010 o európskej železničnej sieti pre
+konkurencieschopnú nákladnú dopravu v platnom znení.
+
+2.3.2 Práce súvisiace s napĺňaním, prevádzkou a aktualizáciou databázy, služby
+podpory prevádzky a aplikačnej podpory
+1. etapa:
+a) Žiadne práce
+2. etapa:
+a) Zhromažďovanie údajov pre potreby RINF,
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka:
+registra Slovenskej republiky) s napojením na CUI,
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+3. etapa:
+a) Zhromažďovanie údajov pre potreby RINF,
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka:
+registra Slovenskej republiky) s napojením na CUI,
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+
+4. etapa:
+a) Zhromažďovanie údajov pre potreby RINF,
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka:
+registra Slovenskej republiky) s napojením na CUI,
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+5. etapa:
+a) Zhromažďovanie údajov pre potreby RINF,
+
+b) Prevádzka a údržba národného registra železničnej infraštruktúry (poznámka:
+registra Slovenskej republiky) s napojením na CUI,
+c) Pravidelná automatizovaná aktualizácia údajov o už vložených železničných
+infraštruktúrach v RINF a ich sprístupnenie cez CUI.
+2.4 Miesto plnenia zákazky
+- v sídle verejného obstarávateľa, alebo na jeho pracovisku na Prístavnej ul. č. 10, 821 09
+Bratislava.
+2.5
+
+Ďalšie požiadavky na uchádzača
+a) etapové odovzdávanie riešenia pre verejného obstarávateľa.
+
+2.6 Špecifikácia predmetu zákazky:
+2.6.1 Dodávka licenčného softvéru a implementačné práce
+2.6.2 Práce súvisiace s napĺňaním, prevádzkou a aktualizáciou databázy, služby
+podpory prevádzky a aplikačnej podpory
+Požadované minimálne servisné zásahy dodávateľa
+Kategorizácia úrovne poskytovaných služieb vo vzťahu k poruchám aplikácie
+Kategória
+A
+B
+C
+D
+
+Popis poruchy
+Porucha systému znemožňujúca dostupnosť
+aplikácie.
+Porucha časti systému znemožňujúcu určitú
+činnosť potrebnú pre ďalšiu technologicky
+nadväzujúcu činnosť aplikácie.
+Porucha časti systému spôsobujúca nárast času
+odozvy pri dostupnosti aplikácie.
+Porucha časti systému, ktorá sa dá obísť inou
+funkciou neovplyvňujúcich v reálnom čase
+dostupnosť aplikácie.
+
+Reakčný čas
+
+Čas
+odstránenia
+
+4 hod.
+
+24 hod.
+
+12 hod.
+
+48 hod.
+
+3 dni
+
+14 dní
+
+14 dní
+
+30 dní
+
+Vysvetlivky:
+Kategória A = Porucha závažného charakteru,
+Kategória B, C, D = Porucha menej závažného charakteru,
+Reakčný čas = začatie dostatočnej aktivity dodávateľa k odstráneniu poruchy alebo
+zaistenie požiadavky po doručení objednávky servisnej služby zo
+strany verejného obstarávateľa,
+Čas odstránenia = Maximálny čas, v ktorom musí byť porucha odstránená a zabezpečená
+bezproblémová prevádzka systému; počíta sa od začiatku plynutia
+reakčného času.
+2.7 Zoznam základných kapacít železničnej infraštruktúry
+1. Celková dĺžka železničných tratí v km, z toho:
+1.1. jednokoľajné železničné trate v km
+1.2. dvojkoľajné železničné trate v km
+
+1.3. rozchodu 1435 mm v km
+1.4. rozchodu 1520 mm v km
+1.5. rozchodu 1000 mm v km
+1.6. rozchodu 760 mm v km
+2. Celková dĺžka železničných tratí v zhode s TSI INF v km, z toho:
+2.1. jednokoľajné železničné trate v km
+2.2. dvojkoľajné železničné trate v km
+3. Celková dĺžka železničných tratí súčasťou RFC v km, z toho:
+3.1. jednokoľajné železničné trate v km
+3.2. dvojkoľajné železničné trate v km
+4. Celková dĺžka tunelov v m, z toho:
+4.1. jednokoľajné tunely v m
+4.2. dvojkoľajné tunely v m
+5. Celková dĺžka tunelov v zhode s TSI SRT v m
+5.1. jednokoľajné tunely v m
+5.2. dvojkoľajné tunely v m
+6. Celkový počet tunelov v ks, z toho:
+6.1. jednokoľajné tunely v ks
+6.2. dvojkoľajné tunely v ks
+7. Celkový počet tunelov v zhode s TSI SRT v ks
+7.1. jednokoľajné tunely v ks
+7.2. dvojkoľajné tunely v ks
+8. Celkový počet železničných priecestí v ks
+9. Celková dĺžka elektrifikovaných železničných tratí v km, z toho:
+9.1. elektrifikované sústavou 25 kV 50 Hz v km
+9.2. elektrifikované sústavou 15 kV 16,7 Hz v km
+9.3. elektrifikované sústavou 3 kV v km
+9.4. elektrifikované sústavou 1,5 kV v km
+9.5. elektrifikované sústavou 0,6 kV v km
+10. Celková dĺžka elektrifikovaných železničných tratí v zhode s TSI ENE v km, z toho:
+10.1.
+elektrifikované sústavou 25 kV 50 Hz v km
+10.2.
+elektrifikované sústavou 15 kV 16,7 Hz v km
+10.3.
+elektrifikované sústavou 3 kV v km
+11. Celková dĺžka železničných tratí s inštalovaným zabezpečovacím systémom ETCS
+v km
+12. Celková dĺžka železničných tratí s inštalovaným rádiovým systémom GSM-R v km
+13. Celková dĺžka železničných tratí s inštalovaným národným systémom detekcie vlaku
+v km
+14. Celková dĺžka železničných tratí s inštalovaným národným rádiovým systémom v km
+
+B. Cenová špecifikácia ako výsledok verejného obstarávania
+
+Tabuľka č. 1
+
+Číslo
+etapy
+
+1
+
+2
+
+3
+
+4
+5
+
+Ukončenie
+etapy od
+dátumu
+účinnosti
+zmluvy
+do 31.10.2018,
+ak niektoré
+ustanovenie
+tejto zmluvy
+nestanoví inak
+do 30.11.2018,
+ak niektoré
+ustanovenie
+tejto zmluvy
+nestanoví inak
+do dátumu
+stanoveného v
+akceptovanej
+objednávke
+do dátumu
+stanoveného v
+akceptovanej
+objednávke
+do 30.11.20211
+
+Dodávka
+licenčného
+softvéru
+a implementačné
+práce
+[%]
+
+Práce súvisiace s napĺňaním,
+prevádzkou a aktualizáciou
+databázy, údržbou, služby podpory
+prevádzky a aplikačnej podpory
+[%]
+
+100
+
+0
+
+80
+
+20
+
+70
+
+30
+
+60
+
+40
+
+50
+
+50
+
+Tabuľka č. 2
+
+Cena bez DPH/s DPH v EUR za
+práce súvisiace s napĺňaním,
+prevádzkou a aktualizáciou
+databázy, údržbou, služby podpory
+prevádzky a aplikačnej podpory
+0,00 bez DPH/
+0,00 s DPH
+
+Číslo
+etapy
+
+Cena bez DPH/s DPH v EUR za
+dodávku softvéru a implementačné
+práce
+
+1
+
+35 300,00 bez DPH/ 42 360,00 s DPH
+
+2
+
+16 547,82 bez DPH/ 19 857,38 s DPH 4 136,95 bez DPH/ 4 964,35 s DPH
+
+3
+
+11 764,46 bez DPH/ 14 117,36 s DPH 5 041,91 bez DPH/ 6 050,30 s DPH
+
+4
+
+8 532,47 bez DPH/ 10 238,96 s DPH 5 688,31 bez DPH/ 6 825,97 s DPH
+
+5
+
+6 463,99 bez DPH/
+
+7 756,79 s DPH 6 463,99 bez DPH/ 7 756,79 s DPH
+
+Tabuľka č. 3
+
+Cena spolu za dodávku
+softvéru
+a implementačné práce
+
+Cena spolu za práce súvisiace
+s napĺňaním, prevádzkou
+a aktualizáciou databázy,
+údržbou, služby podpory
+prevádzky a aplikačnej podpory
+
+bez DPH v EUR
+
+78 608,74
+
+21 331,17
+
+DPH (20 %) v EUR
+
+15 721,75
+
+4 266,23
+
+s DPH v EUR
+
+94 330,49
+
+25 597,41
+
+SPOLU
+
+SPOLU CELKOM v EUR
+
+99 939,91 bez DPH
+
+119 927,90 s DPH
+
+Príloha č. 2 ku zmluve
+Kontakty a ich dostupnosť, kategórie porúch a servisné zásahy dodávateľa
+1. Kontakty a ich dostupnosť pre komunikáciu s dodávateľom
+Nahlasovanie požiadaviek na dodávku softvéru a implementačné práce, práce súvisiace
+s napĺňaním, prevádzkou a aktualizáciou databázy, údržbou, služby podpory prevádzky
+a aplikačnej podpory dodávateľa môže poverená osoba objednávateľa vykonávať jedným
+zo spôsobov uvedených v nasledovnej tabuľke.
+Tab. č. 1 - Kontakty na dodávateľa a ich dostupnosť pre nahlasovanie porúch
+a požiadaviek
+Spôsob nahlasovania
+požiadaviek
+
+Dostupnosť v
+hodinách
+7:30 – 16:30
+7:30 – 16:30
+
+Adresa / linka
+
+E-mailom / telefonicky
+
+e-mail:
+telefón:
+
+Písomne na adresu
+dodávateľa
+
+Ulica Jána Hollého 8479/5,917 01 Trnava
+
+7:30 – 16:30
+
+Dodávateľ bude informovať objednávateľa o zmenách vyššie uvedených údajov.
+
+Tab. č. 2 - Poverená osoba objednávateľa pre nahlasovanie porúch a požiadaviek na
+dodávateľa
+Činnosť
+
+Meno a priezvisko
+
+Nahlasovanie porúch
+
+Ing. Robert Mrštica
+
+Nahlasovanie
+požiadaviek
+
+Ing. Robert Mrštica
+
+Kontakt telefón/email
+02 / 48 777 468, +421 917 283 885
+robert.mrstica@nsat.sk
+02 / 48 777 468, +421 917 283 885
+robert.mrstica@nsat.sk
+
+Objednávateľ bude informovať objednávateľa o zmenách vyššie uvedených údajov.
+
+Tab. č. 3 - Kategórie porúch, reakčný čas a maximálny čas odstránenia porúch
+Kategórie
+A
+B
+
+Popis poruchy
+Porucha systému znemožňujúca dostupnosť
+aplikácie.
+Porucha časti systému znemožňujúcu určitú
+činnosť, potrebnú pre ďalšiu technologicky
+nadväzujúcu činnosť aplikácie.
+
+Reakčný čas
+
+Čas
+odstránenia
+
+4 hod.
+
+24 hod.
+
+12 hod.
+
+48 hod.
+
+C
+
+Porucha časti systému spôsobujúca nárast
+doby odozvy pri dostupnosti aplikácie.
+
+3 dni
+
+14 dní
+
+D
+
+Porucha časti systému, ktorá sa dá obísť inou
+funkciou neovplyvňujúcich v reálnom čase
+dostupnosť aplikácie.
+
+14 dní
+
+30 dní
+
+Kategória A - porucha závažného charakteru
+Kategória B, C, D - porucha menej závažného charakteru
+Reakčný čas - začatie dostatočnej aktivity dodávateľa k odstráneniu poruchy
+alebo zaistenie požiadavky po doručení objednávky servisnej služby zo strany
+objednávateľa.
+Čas odstránenia - maximálny čas, v ktorom musí byť porucha odstránená
+a zabezpečená bezproblémová prevádzka systému; počíta sa od začiatku
+plynutia reakčného času.
+
+Príloha č. 3 ku zmluve
+Akceptačný protokol
+DODÁVATEĽ:
+
+OBJEDNÁVATEĽ:
+Dopravný úrad
+Letisko M. R. Štefánika, 823 05 Bratislava
+IČO: 42355826
+DIČ: 2023985568
+OZNAČENIE DOKUMENTU:
+MIESTO HODNOTENIA:
+DÁTUM HODNOTENIA:
+
+SPRACOVAL:
+TELEFÓN:
+E-MAIL:
+
+SÚVISIACA ZMLUVA / OBJEDNÁVKA Č.:
+PRODUKT A VERZIA:
+MODUL:
+DÁTUM OZNÁMENIA O
+REALIZÁCII ÚLOHY:
+PREDMET A OBSAH ODOVZDANIA DIELA VRÁTANE ROZPISU PRÁC:
+
+VYJADRENIE OBJEDNÁVATEĽA KU KVALITE A TERMÍNU DODANIA DIELA A
+PRÁC:
+Dielo a práce boli / neboli1) dodané v dohodnutom termíne.
+Dielo a práce boli / neboli1) dodané v požadovanej kvalite:
+VADY DIELA A PRÁC:
+Poverená osoba zo strany objednávateľa potvrdzuje, že bol dodaný a zástupcom objednávateľa
+prevzatý a akceptovaný1) predmet odovzdania diela bez chýb, v súlade s požiadavkami
+objednávateľa a s vyššie uvedenými súvisiacimi dokumentmi.
+POZNÁMKA:
+ZOZNAM PRÍLOH:
+ZA DODÁVATEĽA:
+Meno a priezvisko
+
+Podpis
+Pečiatka
+
+1)
+
+Nevhodné preškrtnite
+
+ZA OBJEDNÁVATEĽA:
+Meno a priezvisko
+Podpis
+Pečiatka
+
+Príloha č. 4 ku zmluve
+Zoznam železničných dráh v Slovenskej republike
+Tab. č. 1 – Hlavné železničné trate
+Por. č.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+Úsek železničnej trate
+Čop (UZ) - Čierna nad Tisou – Košice
+Čop (UZ) – Čierna nad Tisou (ŠRT)
+Sátoraljaújhely (MÁV) – Slovenské Nové Mesto
+Barca (St. 1) – Košice nákl. stanica (koľ. 101)
+Barca (St. 1) – Košice nákl. stanica (koľ. 102)
+Užgorod (UZ) - Maťovce (ŠRT) - Haniska pri Košiciach (ŠRT)
+Medzilaborce -Michaľany
+Trebišov – Výh. Slivník
+Michaľanská spojka
+Bánovecká spojka
+Košice – Kraľovany
+Kraľovany – Žilina - Púchov
+Odb. Potok – Odb. Váh
+Varín – Žilina - Teplička – Odb. Váh
+Žilina – Čadca – Mosty u Jablunkova (ČD)
+Budatínska spojka
+Púchov – Lúky pod Makytou - Horní Lideč (ČD)
+Žilina - Teplička – (koľaj D22) – Odb. Váh – (koľaj B2) – Žilina -Teplička (odch. sk.) – (koľaj A2) –
+Žilina
+Muzsyna (PKP) – Plaveč – Kysak
+Košice - Plešivec
+Hidasnémeti (MÁV) – Barca
+Krásna nad Hornádom – Barca (St. 4)
+Margecany – Červená Skala
+Plaveč – Poprad - Tatry
+Čadca - Zwardoń (PKP)
+Plešivec – Zvolen os. st.
+Výh. Urbánka – Fiľakovo (St. 3)
+Bánréve (MÁV) - Lenartovce
+Somoskőújfalú (MÁV) - Fiľakovo
+Červená Skala – Banská Bystrica
+Zvolen východ - Hronská Dúbrava –Vrútky
+Zvolen os. st. – Banská Bystrica - Dolná Štubňa (odb.)
+Szob (MÁV) – Štúrovo – Bratislava hl. st.
+Komárom (MÁV) – Komárno – Nové Zámky
+Hronská Dúbrava - Palárikovo
+Prievidza – Nové Zámky
+Jelšovce – Zbehy
+Lužianky - Leopoldov
+Púchov - Bratislava hl. st.
+Bratislava hl. st. – Kúty – Lanžhot (ČD)
+Devínska Nová Ves – Marchegg (ÖBB)
+Bratislava - Vajnory – Bratislava východ (odch. sk. Juh) – Vinohrady (odb.)
+Bratislava - Vajnory – Bratislava východ (vchod. sk.) – Bratislava - Rača
+Bratislava východ (odch. sk. Juh) – Bratislava predmestie – Bratislava - Nové Mesto – Bratislava
+ÚNS – Bratislava - Petržalka – Rusovce – Rajka (MÁV)
+Bratislava - Petržalka – Kittsee (ÖBB)
+Močiar (odb.) – Bratislava predmestie
+
+Por. č.
+47
+48
+49
+50
+51
+
+Úsek železničnej trate
+Močiar (odb.) – Vinohrady (odb.)
+Bratislava - Nové Mesto – Bratislava hl. st.
+Leopoldov – Galanta
+Sereď – Trnava
+Trnava - Kúty
+
+Poznámka: Zmena údajov vyhradená. Aktuálny zoznam poskytne objednávateľ
+dodávateľovi.
+Tab. č. 2 – Vedľajšie železničné trate
+Por. č.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+
+Úsek železničnej trate
+Łupków (PKP) - Medzilaborce
+Maťovce – Bánovce nad Ondavou
+Stakčín - Humenné
+Vranov nad Topľou - Trebišov
+Bardejov – Kapušany pri Prešove
+Orlovská spojka
+Kysacká spojka
+Strážske – Prešov
+Spišské Podhradie – Spišské Vlachy
+Levoča – Spišská Nová Ves
+Dobšiná – Rožňava
+Plešivec - Slavošovce
+Plešivec - Muráň
+Medzev – Moldava nad Bodvou
+Spišská Belá (odb.) – Spišská Belá (nákl.)
+Tatranská Lomnica – Studený Potok zast. (výh.)
+Poprad - Tatry – Štrbské Pleso (TEŽ)
+Starý Smokovec – Tatranská Lomnica (TEŽ)
+Štrba – Štrbské Pleso (OŽ)
+Trstená – Kraľovany
+Žilina – Rajec
+Čadca – Makov
+Jesenské – Brezno - Halny (odb.) –Brezno
+Hronec – Chvatimech zast. (odb., výh. V1)
+Utekáč zast. – Lučenec
+Breznička – Katarínska Huta
+Lučenec – Veľký Krtíš
+Priekopská spojka
+Zvolenská spojka
+Zvolen os. st. – Šahy
+Šahy - Čata
+Levice - Štúrovo
+Banská Štiavnica - Hronská Dúbrava
+Horná Štubňa – Prievidza
+Chrenovecká spojka
+Nitrianske Pravno - Prievidza
+Kozárovce – Dražovce
+Topoľčianky - Úľany nad Žitavou
+Zbehy – Radošina
+Komárno – Bratislava - Nové Mesto
+Komárno – Kolárovo
+Neded - Šaľa
+Plavecký Mikuláš – Záhorská Ves
+Brezová pod Bradlom – Jablonica
+
+Por. č.
+45
+46
+47
+48
+49
+50
+51
+52
+
+Úsek železničnej trate
+Nové Mesto nad Váhom – Vrbovce – Velká nad Veličkou (ČD)
+Kúty – Sudoměřice nad Moravou (ČD)
+Hodonín (ČD) – Holíč nad Moravou
+Čachtická spojka
+Piešťany - Vrbové
+Trenčín – Chynorany
+Trenčianska Teplá – Vlárský průsmyk (ČD)
+Nemšová - Lednické Rovne
+
+Poznámka: Zmena údajov vyhradená. Aktuálny zoznam poskytne objednávateľ
+dodávateľovi.
+Tab. č. 3 – Železničné infraštruktúry v súkromnom vlastníctve
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+4
+
+Mondi Business Paper SCP,
+a.s.
+
+Ružomberok
+
+Ružomberok
+
+31637051
+
+11
+
+Považská cementáreň, a.s.
+
+Ladce
+
+Ladce
+
+31615716
+
+12
+
+DOLVAP, s.r.o.
+
+Varín
+
+Varín
+
+31594786
+
+13
+
+SURPACK – VL, a.s.
+
+Bratislava
+
+Veľké Leváre
+
+35735562
+
+27
+
+Kameňolomy, s.r.o.
+
+Nové Mesto nad Váhom
+
+Mníchova Lehota
+
+34121358
+
+37
+
+Ferrenit, a.s.
+
+Nitra
+
+Nitra
+
+31411649
+
+38
+
+KARPATY plus, s.r.o.
+
+Bratislava
+
+Senec
+
+34144943
+
+42
+
+Tatravagónka, a.s.
+
+Poprad
+
+Poprad
+
+31699847
+
+46
+
+ViOn, a.s.
+
+Zlaté Moravce
+
+Zlaté Moravce
+
+36526185
+
+47
+
+MIVA, s.r.o.
+
+Nitra
+
+Nitra
+
+17643597
+
+48
+
+Plastika, a.s.
+
+Nitra
+
+Nitra
+
+00152781
+
+55
+
+TATRAMAT-SPEDITION,
+s.r.o.
+
+Poprad
+
+Matejovce pri Poprade
+
+31668526
+
+67
+
+SMZ, a.s.
+
+Jelšava
+
+Lubeník
+
+31685340
+
+74
+
+Žiaromat, a.s.
+
+Kalinovo
+
+Kalinovo
+
+31633803
+
+75
+
+Fish buffet, s.r.o.
+
+Bratislava
+
+Bratislava
+
+30774756
+
+78
+
+STRABAG, s.r.o.
+
+Bratislava
+
+Sereď
+
+31355161
+
+94
+
+Poľnonákup Liptov, a.s.
+
+Liptovský Mikuláš
+
+Liptovský Mikuláš
+
+31562761
+
+95
+
+CEMMAC, a.s.
+
+Horné Srnie
+
+Horné Srnie
+
+31412106
+
+98
+
+SINTRA, s.r.o.
+
+Bratislava
+
+Poprad
+
+00685232
+
+101
+
+Strojsmalt Medzev, a.s.
+
+Medzev
+
+Medzev
+
+31720340
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+108
+
+Kameňolomy a
+štrkopieskovne, a.s.
+
+Zlaté Moravce
+
+Oslany
+
+34110003
+
+109
+
+Poľnoslužby Bebrava, a.s.
+
+Rybany
+
+Rybany
+
+31412289
+
+117
+
+EUROVIA SK, a.s.
+
+Košice
+
+Čaňa
+
+31651518
+
+118
+
+EUROVIA SK, a.s.
+
+Košice
+
+Udavské
+
+31651518
+
+119
+
+EUROVIA SK, a.s.
+
+Košice
+
+Nemcovce
+
+31651518
+
+126
+
+Správa štátnych
+hmotných rezerv SR
+
+Bratislava
+
+Vígľaš
+
+30844363
+
+127
+
+Správa štátnych
+hmotných rezerv SR
+
+Bratislava
+
+Kysucké Nové Mesto
+
+30844363
+
+128
+
+Správa štátnych
+hmotných rezerv SR
+
+Bratislava
+
+Slovenská Ľupča
+
+30844363
+
+129
+
+Správa štátnych hmotných
+rezerv SR
+
+Bratislava
+
+Čachtice
+
+30844363
+
+138
+
+OTF, a.s.
+
+Nižná
+
+Nižná
+
+31562990
+
+139
+
+SWS, spol. s r. o.
+
+Vojany
+
+Vojany
+
+31674518
+
+144
+
+Silgan Metal Packaging
+Nové Mesto, a.s.
+
+Nové Mesto nad Váhom
+
+Nové Mesto nad
+Váhom
+
+31416373
+
+167
+
+RONA, a.s.
+
+Lednické Rovne
+
+Lednické Rovne
+
+31642403
+
+168
+
+V-TRADING, a.s.
+
+Dolný Kubín
+
+Dolný Kubín
+
+31597751
+
+169
+
+NEOGRAFIA, a.s.
+
+Martin
+
+Vrútky
+
+31597912
+
+170
+
+AGROCHEMICKÝ
+PODNIK, s.r.o.
+
+Veľký Krtíš
+
+Veľký Krtíš
+
+31575170
+
+174
+
+Cementáreň Lietavská
+Lúčka, a.s.
+
+Lietavská Lúčka
+
+Lietavská Lúčka
+
+31561837
+
+189
+
+ELV PRODUKT a.s.
+
+Senec
+
+Senec
+
+34110135
+
+192
+
+ESENEX, s.r.o.
+
+Spišské Podhradie
+
+Spišská Nová Ves
+
+31653821
+
+195
+
+Premako, a.s.
+
+Maťovce
+
+Maťovce
+
+31677819
+
+196
+
+ŽOS Vrútky, a.s.
+
+Vrútky
+
+Vrútky
+
+31615619
+
+207
+
+OSRAM, a.s.
+
+Nové Zámky
+
+Nové zámky
+
+00613797
+
+209
+
+Chemolak, a.s.
+
+Smolenice
+
+Smolenice
+
+31411851
+
+216
+
+Inžinierske stavby, a.s.
+
+Košice
+
+Kysak
+
+31651402
+
+225
+
+Tibor Dubis - Palivá Šaľa
+
+Šaľa
+
+Šaľa
+
+30344999
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+229
+
+ST. NICOLAUS, a.s.
+
+Liptovský Mikuláš
+
+Liptovský Mikuláš
+
+31563066
+
+238
+
+BRENNTAG SLOVAKIA,
+s.r.o.
+
+Bratislava
+
+Pezinok
+
+31336684
+
+240
+
+BRENNTAG SLOVAKIA,
+s.r.o.
+
+Bratislava
+
+Banská Bystrica
+
+31336884
+
+243
+
+Železiarne Podbrezová, a.s.
+
+Podbrezová
+
+Podbrezová
+
+31562141
+
+249
+
+Drevona, a.s.
+
+Sereď
+
+Sereď
+
+36003735
+
+250
+
+HIRK, s.r.o.
+
+GalantaGalanta
+
+Sereď
+
+31355404
+
+251
+
+EFFECT, s.r.o.
+
+Bratislava
+
+Sereď
+
+17316791
+
+254
+
+Oravské výrobné družstvo
+
+Dolný Kubín
+
+Tvrdošín
+
+36379816
+
+256
+
+MEVAK, a.s.
+
+Nitra
+
+Nitra
+
+31412718
+
+257
+
+Elektrokarbon, a.s.
+
+Topoľčany
+
+Topoľčany
+
+31412432
+
+260
+
+Agronovaz, a.s.
+
+Nové Mesto nad Váhom
+
+Nové Mesto nad
+Váhom
+
+31411576
+
+261
+
+Agronovaz, a.s.
+
+Nové Mesto nad Váhom
+
+Vaďovce
+
+31411576
+
+263
+
+ecorec Slovensko, s.r.o.
+
+Pezinok
+
+Pezinok
+
+31358951
+
+279
+
+Železničné stavby Košice,
+a.s.
+
+Košice
+
+BarcaBarca
+
+31714421
+
+280
+
+Železničné stavby Košice,
+a.s.
+
+Košice
+
+HaniskaHaniska pri
+Košiciach
+
+31714421
+
+281
+
+Solivary, a.s..
+
+Prešov
+
+Prešov
+
+00661201
+
+283
+
+KOVOSTROJ, a.s.
+
+Dobšiná
+
+Dobšiná
+
+31659217
+
+288
+
+Ing. Ján Kačurek
+
+Vranov nad Topľou
+
+Vranov nad Topľou
+
+14326531
+
+292
+
+PARADISO Slovakia, s.r.o.
+
+Dunajská Streda
+
+Dunajská Streda
+
+34103406
+
+298
+
+Považské mlyny a
+cestovinárne, s.r.o.
+
+Piešťany
+
+Senec
+
+17333130
+
+308
+
+Mlyn Pohronský Ruskov,
+a.s.
+
+Pohronský Ruskov
+
+Pohronský Ruskov
+
+31412459
+
+337
+
+RADOMA, spol. s r. o.
+
+ZáhorskáZáhorská Ves
+
+Záhorská Ves
+
+17308861
+
+338
+
+TOWER AUTOMOTIVE,
+a.s.
+
+Malacky
+
+Malacky
+
+31106880
+
+340
+
+Pezinské tehelne, a.s.
+
+Pezinok
+
+Pezinok
+
+34132155
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+341
+
+Štefan Kýpus Obchod
+s palivom
+
+Bytča
+
+Hrabové
+
+17977061
+
+359
+
+KERKOSAND, s.r.o.
+
+Šajdíkove Humence
+
+Šajdíkove Humence
+
+36219371
+
+380
+
+Výroba kameňa a pieskov,
+s.r.o.
+
+Buková
+
+Buková
+
+34137009
+
+387
+
+SLOVNAFT, a.s.
+
+Bratislava
+
+Bratislava
+
+31322832
+
+394
+
+AGROPODNIK a.s.
+
+Hliník nad Hronom
+
+Hliník nad Hronom
+
+31611826
+
+399
+
+TATRA nábytkáreň Martin,
+a.s.
+
+Martin
+
+Martin
+
+31623280
+
+406
+
+Chemika, a.s.
+
+Bratislava
+
+Handlová
+
+35682205
+
+412
+
+Prvá uhoľná spoločnosť,
+spol. s r. o.
+
+Komárno
+
+Komárno
+
+31448453
+
+427
+
+Technické sklo, a.s.
+
+Bratislava
+
+Bratislava
+
+00012670
+
+430
+
+COOPCOOP Jednota
+Liptovský Mikuláš,
+spotrebné družstvo
+
+Liptovský Mikuláš
+
+Liptovský Mikuláš
+
+31560440
+
+431
+
+OSP, a.s.
+
+Prievidza
+
+Prievidza
+
+31560440
+
+434
+
+Železničné staviteľstvo
+Bratislava, s.r.o.
+
+Bratislava
+
+Žilina
+
+31382533
+
+435
+
+Textap Vlna, a.s.
+
+Lučenec
+
+Lučenec
+
+31616143
+
+436
+
+Lumix Trade, s.r.o.
+
+Trebišov
+
+Čerhov
+
+31686796
+
+437
+
+PREFA Sučany, a.s.
+
+Sučany
+
+Sučany
+
+31561748
+
+438
+
+Drevoindustria Varín, s.r.o.
+
+Varín
+
+Varín
+
+36371432
+
+443
+
+PREFA, s.r.o.
+
+Lipany
+
+Stará Ľubovňa
+
+31725490
+
+459
+
+A.S. Trade, s.r.o.
+
+Pribeník
+
+Pribeník
+
+31353339
+
+460
+
+MTH RENOVA, s.r.o.
+
+Košice
+
+Košice
+
+31683088
+
+462
+
+ŽPSV, a.s.
+
+Čaňa
+
+Čaňa
+
+31712975
+
+469
+
+Agropodnik, s.r.o.
+
+Bešeňová
+
+Liptovská Teplá
+
+31595120
+
+472
+
+Doprastav, a.s.
+
+Bratislava
+
+Senec
+
+31333320
+
+476
+
+ELBA, a.s.
+
+Kremnica
+
+Kremnica
+
+31615651
+
+480
+
+Knauf Insulation, s.r.o.
+
+Nová Baňa
+
+Nová Baňa
+
+31628109
+
+501
+
+Pratex Čadca, a.s.
+
+Čadca
+
+Čadca
+
+31635849
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+503
+
+Raven, a.s.
+
+Považská Bystrica
+
+Košice
+
+31595804
+
+516
+
+Železničné opravovne
+a strojárne Zvolen, a.s.
+
+Zvolen
+
+Zvolen
+
+31615783
+
+518
+
+Ústav na výkon trestu
+odňatia slobody a ústav na
+výkon väzby
+
+Leopoldov
+
+Leopoldov
+
+00738271
+
+523
+
+FRUCONA Košice, a.s.
+
+Košice
+
+Košice
+
+31709346
+
+529
+
+MENA, a.s.
+
+Košice
+
+Plešivec
+
+31687491
+
+532
+
+COOP Jednota, Vranov nad
+Topľou, spotrebné družstvo
+
+Vranov nad Topľou
+
+Vranov nad Topľou
+
+31737200
+
+537
+
+Vladimír Choma
+AUTOLAS
+
+Medzilaborce
+
+Medzilaborce
+
+32376952
+
+542
+
+SLOVMAG, a.s
+
+Lubeník
+
+Lubeník
+
+31686184
+
+543
+
+Bukocel, a.s.
+
+Hencovce
+
+Hencovce
+
+36445461
+
+548
+
+Poľnonákup Šariš, a.s.
+
+Prešov
+
+Sabinov
+
+00155012
+
+550
+
+Poľnonákup Šariš, a.s.
+
+Prešov
+
+Šarišské Lúky
+
+00155012
+
+558
+
+Agrodružstvo Bardejov
+
+Hertník
+
+Bardejov
+
+31689442
+
+565
+
+FPK Invest, a.s.
+
+Trenčín
+
+Čadca
+
+31561306
+
+567
+
+ACHP Levice, a.s.
+
+Levice
+
+Levice
+
+00005819
+
+571
+
+ŽOS Trnava, a.s.
+
+Trnava
+
+Trnava
+
+34108513
+
+580
+
+ELEKTROVOD Slovakia,
+s.r.o.
+
+Žilina
+
+Žilina
+
+31615317
+
+581
+
+SUNEX EAST, s.r.o.
+
+Košice
+
+Košice
+
+31677037
+
+585
+
+GEMERNÁKUP, a.s.
+
+Rimavská Sobota
+
+Rimavská Sobota
+
+31568297
+
+589
+
+Tate & Lyle Boleráz, s.r.o.
+
+Boleráz
+
+Boleráz
+
+31411011
+
+599
+
+Drevona, a.s.
+
+Bratislava
+
+Košice
+
+36003735
+
+607
+
+Cestné a stavebné
+mechanizmy Tisovec, a.s.
+
+Žilina
+
+Tisovec
+
+31561888
+
+608
+
+SLOVPANEL, a.s.
+
+Žilina
+
+Žilina
+
+31634770
+
+611
+
+Slovenská plavba a prístavy,
+a.s.
+
+Bratislava
+
+Komárno
+
+35705671
+
+614
+
+Dopravný podnik
+Bratislava, a.s.
+
+Bratislava
+
+Bratislava
+
+00492736
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+617
+
+MLM AGRO, a.s.
+
+Breziny pri Zvolene
+
+Slovenská Ľupča
+
+31563201
+
+621
+
+Kameňolom Dobšiná, s.r.o.
+
+Dobšiná
+
+Dobšiná
+
+31721893
+
+626
+
+AKTIV PARK, a.s.
+
+Korňa
+
+Spišská Nová Ves
+
+31651976
+
+627
+
+Doprastav, a.s.
+
+Bratislava
+
+Ružomberok
+
+31333320
+
+629
+
+TEPLÁREŇ Považská
+Bystrica, s.r.o.
+
+Považská Bystrica
+
+Považská Bystrica
+
+36300683
+
+636
+
+Premako, a.s.
+
+Maťovce
+
+Maťovce
+
+31677819
+
+639
+
+BEZ
+TRANSFORMÁTORY, a.s.
+
+Bratislava
+
+Bratislava – Rača
+
+31383475
+
+645
+
+NOVEL, s.r.o.
+
+Čadca
+
+Krásno nad Kysucou
+
+36004766
+
+647
+
+Speciality Minerals
+Slovakia, s.r.o.
+
+Ružomberok
+
+Ružomberok
+
+31627803
+
+652
+
+Bardejovské strojárne, a.s.
+
+Bardejov
+
+Bardejov
+
+00494020
+
+655
+
+Mestské lesy Košice, a.s.
+
+Košice
+
+Košice
+
+31672981
+
+660
+
+Cestné stavby Žilina, s.r.o.
+
+Žilina
+
+Žilina
+
+31568963
+
+663
+
+Biotika, a.s.
+
+Slovenská Ľupča
+
+Slovenská Ľupča
+
+31561900
+
+667
+
+Veľkoobchodný družstevný
+podnik, a.s.
+
+Levice
+
+Levice
+
+34126937
+
+668
+
+Poľnoslužby Bebrava, a.s.
+
+Bebrava
+
+Rybany
+
+31412289
+
+674
+
+NOVOFINAB, a.s.
+
+Fiľakovo
+
+Fiľakovo
+
+36010901
+
+678
+
+Východoslovenské tlačiarne,
+a.s.
+
+Košice
+
+Košice
+
+31717179
+
+681
+
+Agropodnik Rimavská
+Sobota, a.s.
+
+Rimavská Sobota
+
+Rimavská Sobota
+
+31570372
+
+683
+
+ZDROJ MT, s.r.o.
+
+Martin
+
+Martin
+
+31602444
+
+685
+
+WIENERBERGER
+SLOVENSKÉENSKÉ
+TEHELNE, s.r.o.
+
+Zlaté Moravce
+
+Zlaté Moravce
+
+31418821
+
+704
+
+ODSODS, s.r.o.
+
+Nižná na Orave
+
+Nižná na Orave
+
+36376256
+
+705
+
+Liehofruct White Lady,
+s.r.o.
+
+Levoča
+
+Levoča
+
+31710891
+
+709
+
+TOMATA, s.r.o.
+
+Kolárovo
+
+Kolárovo
+
+31384358
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+IČO
+
+Medzibrodie nad
+Oravou
+
+31600387
+
+Žilina
+
+30454468
+
+Bratislava
+
+Kuchyňa
+
+30845572
+
+724
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Liptovský Mikuláš
+
+30845572
+
+726
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Nemecká
+
+30845572
+
+727
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Nemšová
+
+30845572
+
+729
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Nováky
+
+30845572
+
+733
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Sklené
+
+30845572
+
+734
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Sliač
+
+30845572
+
+735
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Trenčín
+
+30845572
+
+737
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Bratislava
+
+Zemianske Kostoľany
+
+30845572
+
+738
+
+Compel Rail, a.s.
+
+Martin
+
+Martin
+
+36379913
+
+739
+
+ŽELOS, s.r.o.
+
+Trnava
+
+Trnava
+
+34111565
+
+741
+
+SEZ Krompachy, a.s.
+
+Krompachy
+
+Krompachy
+
+36177644
+
+752
+
+LIBETO, a.s.
+
+Liptovská Teplá
+
+Liptovská Teplá
+
+31562418
+
+758
+
+Slovpap Žilina, s.r.o.
+
+Žilina
+
+Bytčica
+
+36382281
+
+765
+
+DAKNA Námestovo,
+družstvo
+
+Námestovo
+
+Námestovo
+
+36005762
+
+766
+
+VSK, a.s.
+
+Spišská Nová Ves
+
+Spišská Nová Ves
+
+31710182
+
+713
+
+Agropodnik, s.r.o.
+
+720
+
+Ing. Jozef Holoda
+
+723
+
+Ministerstvo obrany SR,
+Ozbrojené sily SR, Gen.
+štáb
+
+Medzibrodie nad
+Oravou
+
+Prevádzka
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+771
+
+Poľnonákup Turiec, a.s.
+
+Martin
+
+Martin
+
+31562353
+
+777
+
+Bramac - strešné systémy,
+s.r.o.
+
+Ivanka pri Nitre
+
+Ivanka pri Nitre
+
+31372961
+
+778
+
+RWA SLOVAKIA, s.r.o.
+
+Bratislava
+
+Malacky
+
+35744723
+
+779
+
+HASIT SLOVAKIA, s.r.o.
+
+Lozorno
+
+Lozorno
+
+35755288
+
+783
+
+BOSKOP Poľnonákup
+Trenčín, a.s.
+
+Trenčín
+
+Zlatovce
+
+36304352
+
+787
+
+OLD HEROLD, s.r.o.
+
+Trenčín
+
+Trenčín
+
+36380547
+
+788
+
+SWS, s.r.o.
+
+Vojany
+
+Vojany
+
+31674518
+
+792
+
+TEZAS, s.r.o.
+
+Prievidza
+
+Prievidza
+
+36011185
+
+795
+
+Mestské lesy Dobšiná, .r.o.
+
+Dobšiná
+
+Dobšiná
+
+31683410
+
+797
+
+SORINO HOLZ, s.r.o.
+
+Vydrník
+
+Vydrník
+
+31442340
+
+805
+
+Gemerská nerudná
+spoločnosť, a.s.
+
+Hnúšťa
+
+Hnúšťa
+
+36034495
+
+807
+
+TAJBA, a.s.
+
+Čaňa
+
+Čaňa
+
+36188981
+
+808
+
+TAJBA, a.s.
+
+Čaňa
+
+Čečejovce
+
+36188981
+
+810
+
+TONDACH SLOVENSKO,
+s.r.o.
+
+Stupava
+
+Nitrianske Pravno
+
+31354912
+
+813
+
+MALEX 3, .r.o.
+
+Sečovce – Albínov
+
+Dvorianky
+
+31721362
+
+818
+
+Chemstar, s.r.o.
+
+Bratislava
+
+Veľký Meder
+
+31397719
+
+819
+
+OFZ, a.s.
+
+Istebné
+
+Medzibrodie nad
+Oravou
+
+36389030
+
+820
+
+OFZ, a.s.
+
+Istebné
+
+Párnica
+
+36389030
+
+826
+
+RWA SLOVAKIA, .r.o.
+
+Bratislava
+
+Podunajské Biskupice
+
+35744723
+
+828
+
+DRENOPI, s.r.o.
+
+Trnava
+
+Trnava
+
+31419798
+
+838
+
+DECODOM, .r.o.
+
+Topoľčany
+
+Topoľčany
+
+36305073
+
+841
+
+SANAS, a.s.
+
+Sabinov
+
+Sabinov
+
+36458562
+
+844
+
+IDEA NOVA, s.r.o.
+
+Nitra
+
+Ivanka pri Nitre
+
+36533769
+
+849
+
+SLADOVŇA, a.s.
+
+Michalovce
+
+Michalovce
+
+36184187
+
+850
+
+U.S. Steel Košice, s.r.o.
+
+Košice
+
+Haniska pri Košiciach
+NR
+
+36199222
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+851
+
+U.S. Steel Košice, s.r.o.
+
+Košice
+
+Haniska pri Košiciach
+ŠR
+
+36199222
+
+852
+
+U.S. Steel Košice, s.r.o.
+
+Košice
+
+Veľká Ida
+
+36199222
+
+853
+
+U.S. Steel Košice, s.r.o.
+
+Košice
+
+Veľká Ida - Bočiar
+
+36199222
+
+854
+
+U.S. Steel Košice, s.r.o.
+
+Košice
+
+Turňa nad Bodvou
+
+36199222
+
+857
+
+VOLKSWAGEN
+SLOVAKIA, a.s.
+
+Bratislava
+
+Devínska Nová Ves
+
+35757442
+
+858
+
+VOLKSWAGEN
+SLOVAKIA, a.s.
+
+Bratislava
+
+Martin
+
+35757442
+
+859
+
+MFC, s.r.o.
+
+Sereď
+
+Hlohovec
+
+31441319
+
+866
+
+AJ Metal Design, a.s.
+
+Hrnčiarovce nad Parnou
+
+Trnava
+
+31449557
+
+869
+
+Poľnonákup Galanta, a.s.
+
+Sereď
+
+Sereď
+
+35789310
+
+870
+
+Poľnonákup Galanta, a.s.
+
+Sereď
+
+Galanta
+
+35789310
+
+871
+
+MFC, s.r.o.
+
+Sereď
+
+Šaľa
+
+31441319
+
+875
+
+BLOOMSBURY PACIFIC
+SLOVAKIA, a.s.
+
+Lučenec
+
+Lučenec
+
+36040525
+
+877
+
+SKLOTEX, a.s.
+
+Revúca
+
+Revúca
+
+36029106
+
+882
+
+Lesy Slovenskej republiky,
+š.p. OZ L. Hrádok
+
+Liptovský Hrádok
+
+Liptovský Hrádok
+
+36038351
+
+884
+
+Lesy Slovenskej republiky,
+š.p. OZ L. Hrádok
+
+Liptovský Hrádok
+
+Ružomberok
+
+36038351
+
+885
+
+Lesy Slovenskej republiky,
+š.p. OZ L. Hrádok
+
+Liptovský Hrádok
+
+Ľubochňa
+
+36038351
+
+887
+
+SPOHYPO, a.s.
+
+Rimavská Sobota
+
+Rimavská Sobota
+
+31576788
+
+889
+
+DE-S-PE, s.r.o.
+
+Prievidza
+
+Prievidza
+
+31629113
+
+890
+
+CRH (Slovensko), a.s.
+
+Rohožník
+
+Bratislava
+
+00214973
+
+895
+
+Lesy Slovenskej republiky,
+š.p. OZ Topoľčianky
+
+Topoľčianky
+
+Jelenec
+
+36038351
+
+896
+
+Lesy Slovenskej republiky,
+š.p. OZ Topoľčianky
+
+Topoľčianky
+
+Topoľčianky
+
+36038351
+
+897
+
+GEMERNÁKUP, a.s.
+
+Rimavská Sobota
+
+Tornaľa
+
+31568297
+
+899
+
+Lesy Slovenskej republiky,
+š.p. OZ Námestovo
+
+Námestovo
+
+Podbiel
+
+36038351
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+900
+
+Lesy Slovenskej republiky,
+š.p. OZ Palárikovo
+
+Palárikovo
+
+Dunajská Streda
+
+36038351
+
+901
+
+Interport Servis, s.r.o.
+
+Košice
+
+Veľká Ida NR
+
+36202011
+
+902
+
+Interport Servis, s.r.o.
+
+Košice
+
+Haniska pri Košiciach
+ŠR
+
+36202011
+
+904
+
+Lesy Slovenskej republiky,
+š.p. OZ Žilina
+
+Žilina
+
+Príbovce
+
+36038351
+
+905
+
+Lesy Slovenskej republiky,
+š.p. OZ Topoľčianky
+
+Topoľčianky
+
+Trnovec nad Váhom
+
+36038351
+
+907
+
+REAL – H.M., s.r.o.
+
+Komárno
+
+Nové Zámky
+
+34144480
+
+909
+
+COMAX-TT, a.s.
+
+Trnava
+
+Trnava
+
+36238147
+
+910
+
+Lesy Slovenskej republiky,
+š.p. OZ Prešov
+
+Prešov
+
+Šarišské Lúky
+
+36038351
+
+912
+
+Lesy Slovenskej republiky,
+š.p. OZ Prešov
+
+Prešov
+
+Spišská Nová Ves
+
+36038351
+
+915
+
+Lesy Slovenskej republiky,
+š.p. OZ Prievidza
+
+Prievidza
+
+Topoľčany
+
+36038351
+
+916
+
+Lesy Slovenskej republiky,
+š.p. OZ Prievidza
+
+Prievidza
+
+Veľké Uherce
+
+36038351
+
+917
+
+Lesy Slovenskej republiky,
+š.p. OZ Prievidza
+
+Prievidza
+
+Nitrianske Pravno
+
+36038351
+
+918
+
+Lesy Slovenskej republiky,
+š.p. OZ Prievidza
+
+Prievidza
+
+Nováky
+
+36038351
+
+921
+
+Zemplínska veľkoobchodná
+spol.očnosť, a.s.
+
+Trebišov
+
+Trebišov
+
+36199583
+
+924
+
+Lesy Slovenskej republiky,
+š.p. OZ Trenčín
+
+Trenčín
+
+Bánovce nad
+Bebravou
+
+36038351
+
+925
+
+Lesy Slovenskej republiky,
+š.p. OZ Trenčín
+
+Trenčín
+
+Trenčianska Turná
+
+36038351
+
+926
+
+Lesy Slovenskej republiky,
+š.p. OZ Smolenice
+
+Smolenice
+
+Pezinok
+
+36038351
+
+927
+
+Lesy Slovenskej republiky,
+š.p. OZ Smolenice
+
+Smolenice
+
+Piešťany
+
+36038351
+
+928
+
+Lesy Slovenskej republiky,
+š.p. OZ Smolenice
+
+Smolenice
+
+Smolenice
+
+36038351
+
+930
+
+Lesy Slovenskej republiky,
+š.p. OZ Bardejov
+
+Bardejov
+
+Bardejov
+
+36038351
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+932
+
+Lesy Slovenskej republiky,
+š.p. OZ Krupina
+
+Krupina
+
+Malé Straciny
+
+36038351
+
+935
+
+Železničné stavebníctvo
+Bratislava, a.s.
+
+Bratislava
+
+Malacky
+
+31365701
+
+937
+
+Lesy Slovenskej republiky,
+š.p. OZ Krupina
+
+Krupina
+
+Hontianske Nemce
+
+36038351
+
+939
+
+GAMEX TRADING, s.r.o.
+
+Komárno
+
+Dvory nad Žitavou
+
+31443265
+
+940
+
+GAMEX TRADING, s.r.o.
+
+Komárno
+
+Gbelce
+
+31443265
+
+941
+
+Lesy Slovenskej republiky,
+š.p. OZ Beňuš
+
+Beňuš
+
+Závadka nad Hronom
+
+36038351
+
+942
+
+Lesy Slovenskej republiky,
+š.p. OZ Beňuš
+
+Beňuš
+
+Gašparovo
+
+36038351
+
+943
+
+Lesy Slovenskej republiky,
+š.p. OZ Beňuš
+
+Beňuš
+
+Červená Skala
+
+36038351
+
+944
+
+Lesy Slovenskej republiky,
+š.p. OZ Levice
+
+Levice
+
+Veľké Kozmálovce
+
+36038351
+
+945
+
+RUBENA Slovakia, a.s.
+
+Považská Bystrica
+
+Bytča
+
+36002658
+
+952
+
+SMZ, a.s.
+
+Jelšava
+
+Veľká Ida NR
+
+31685340
+
+965
+
+Slovnaft, a.s.
+
+Bratislava
+
+Stožok
+
+31322832
+
+967
+
+Slovnaft, a.s.
+
+Bratislava
+
+Kapušany pri Prešove
+
+31322832
+
+968
+
+Slovnaft, a.s.
+
+Bratislava
+
+Kľačany
+
+31322832
+
+970
+
+CASSPOS, a.s.
+
+Košice
+
+Michalovce
+
+31721648
+
+972
+
+Max Aicher Recycling
+Slovensko, s.r.o.
+
+Leopoldov
+
+Leopoldov
+
+36530409
+
+976
+
+Mlyn Šurany, s.r.o.
+
+Bratislava
+
+Šurany
+
+34139079
+
+980
+
+AREA HOLDING, a.s.
+
+Michalovce
+
+Michalovce
+
+36200573
+
+981
+
+ST OMEGA, s.r.o.
+
+Stará Ľubovňa
+
+Parchovany
+
+31702791
+
+983
+
+VVISS, s.r.o.
+
+Madunice
+
+Veľké Kostoľany
+
+30229529
+
+985
+
+KLF-ENERGETIKA, a.s.
+
+Kysucké Nové Mesto
+
+Kysucké Nové Mesto
+
+36400246
+
+986
+
+STELMO, a.s.
+
+Košice
+
+Krásna nad Hornádom
+
+31659942
+
+989
+
+KOVOZBER, s.r.o.
+
+Spišská Nová Ves
+
+Spišská Nová Ves
+
+31633404
+
+990
+
+PEPSI-COLA SR, s.r.o.
+
+Malacky
+
+Malacky
+
+31362681
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+993
+
+Košická stavebná
+spoločnosť, a.s.
+
+Košice
+
+Vlkanová
+
+31644422
+
+995
+
+Palivá a stavebniny, a.s.
+
+Košice
+
+Košice
+
+36187224
+
+999
+
+Lesy Slovenskej republiky,
+š.p. OZ Čierny Balog
+
+Čierny Balog
+
+Hronec
+
+36038351
+
+1000
+
+Amico Drevo, s.r.o.
+
+Oravský Podzámok
+
+Oravský Podzámok
+
+36401749
+
+1002
+
+Slovenské elektrárne, a.s.
+
+Bratislava
+
+Mochovce
+
+35829052
+
+1003
+
+Slovenské elektrárne, a.s.
+
+Bratislava
+
+Vojany
+
+35829052
+
+1004
+
+Slovenské elektrárne, a.s.
+
+Bratislava
+
+Nováky
+
+35829052
+
+1005
+
+Tepláreň Košice, a.s.
+
+Košice
+
+Košice
+
+36211541
+
+1006
+
+SLOVENSKÉ
+CUKROVARY, s.r.o.
+
+Sereď
+
+Sereď
+
+31568386
+
+1007
+
+FLAGA,.r.o.
+
+Pezinok
+
+Bánovce nad Ondavou
+
+34116940
+
+1009
+
+Lesy Slovenskej republiky,
+š.p. OZ Košice
+
+Košice
+
+Haniska pri Košiciach
+
+36038351
+
+1013
+
+Lesy Slovenskej republiky,
+š.p. OZ Košice
+
+Košice
+
+Slanec
+
+36038351
+
+1014
+
+Martinská teplárenská, a.s.
+
+Martin
+
+Martin
+
+36403016
+
+1015
+
+CRH (Slovensko), a.s.
+
+Rohožník
+
+Banská Bystrica
+
+00214973
+
+1018
+
+Lesy Slovenskej republiky,
+š.p. OZ Sobrance
+
+Sobrance
+
+Sečovce
+
+36038351
+
+1019
+
+Lesy Slovenskej republiky,
+š.p. OZ Sobrance
+
+Sobrance
+
+Michalovce
+
+36038351
+
+1021
+
+Zvolenská teplárenská, a.s.
+
+Zvolen
+
+Zvolen
+
+36052248
+
+1022
+
+Lesy Slovenskej republiky,
+š.p. OZ Košice
+
+Košice
+
+Mníšek nad Hnilcom
+
+36038351
+
+1023
+
+Lesy Slovenskej republiky,
+š.p. OZ Košice
+
+Košice
+
+Stará Voda
+
+36038351
+
+1024
+
+PRELIKA, a.s.
+
+Prešov
+
+Prešov
+
+36467782
+
+1025
+
+SLOVENSKÉ
+ENERGETICKÉ
+STROJÁRNE, a.s.
+
+Tlmače
+
+Tlmače
+
+31411690
+
+1027
+
+Pezinské tehelne –
+Paneláreň, a.s.
+
+Pezinok
+
+Nižný Hrabovec
+
+35757540
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1029
+
+Techservis, s.r.o.
+
+Nové Mesto nad Váhom
+
+Nové Mesto nad
+Váhom
+
+36312011
+
+1031
+
+SABAR, s.r.o.
+
+Markušovce
+
+Markušovce
+
+36191621
+
+1032
+
+STAVIVÁ - Garaj, s.r.o.
+
+Banská Bystrica
+
+Banská Bystrica
+
+31592872
+
+1035
+
+Lesy Slovenskej republiky,
+š.p. OZ Šaštín
+
+Šaštín
+
+Gbely
+
+36038351
+
+1036
+
+Ján Šiška – JAŠIM
+
+Spišská Nová Ves
+
+Drienovská Nová Ves
+
+34526706
+
+1037
+
+AGRORAMA, s.r.o.
+
+Šaľa
+
+Šaľa
+
+36522023
+
+1038
+
+KISS, s.r.o.
+
+Pribeník
+
+Pribeník
+
+36188123
+
+1039
+
+Vinársky závod Pezinok,
+s.r.o.
+
+Pezinok
+
+Pezinok
+
+34111077
+
+1041
+
+Lesy Slovenskej republiky,
+š.p. OZ Vranov nad Topľou
+
+Vranov nad Topľou
+
+Vranov nad Topľou
+
+36038351
+
+1042
+
+Lesy Slovenskej republiky,
+š.p. OZ Vranov nad Topľou
+
+Vranov nad Topľou
+
+Radvaň nad Laborcom
+
+36038351
+
+1043
+
+Lesy Slovenskej republiky,
+š.p. OZ Vranov nad Topľou
+
+Vranov nad Topľou
+
+Udavské
+
+36038351
+
+1047
+
+TEXICOM, a.s.
+
+Ružomberok
+
+Ružomberok
+
+35740299
+
+1048
+
+Červená Skala, s.r.o.
+
+Zvolen
+
+Červená Skala
+
+36040762
+
+1055
+
+MFC, s.r.o.
+
+Sereď
+
+Trnava
+
+31441319
+
+1064
+
+Východoslovenská
+energetika Holding, a.s.
+
+Košice
+
+Spišská Nová Ves
+
+36211222
+
+1065
+
+VENAS, a.s.
+
+Prešov
+
+Streda nad Bodrogom
+
+36206270
+
+1066
+
+S P E K T R U M, s.r.o.
+
+Hliník nad Hronom
+
+Hliník nad Hronom
+
+31559662
+
+1070
+
+TAMA SLOVAKIA, a.s.
+
+Trnava
+
+Trnava
+
+35755440
+
+1073
+
+Eko-Pack,P, a.s.
+
+Prešov
+
+Prešov
+
+36462241
+
+1078
+
+Žilinská teplárenská, a.s.
+
+Žilina
+
+Žilina
+
+36403032
+
+1080
+
+Margita Gulková - Agrosoľ
+
+Branč
+
+Nitra
+
+40233383
+
+1083
+
+M 5 – trade, s.r.o.
+
+Levice
+
+Levice
+
+31449077
+
+1085
+
+GAMEX TRADING, s.r.o.
+
+Komárno
+
+Zemianska Olča
+
+31443265
+
+1087
+
+MONY, s.r.o.
+
+Pohronský Ruskov
+
+Pohronský Ruskov
+
+34096779
+
+1089
+
+ZEOCEM, a.s.
+
+Bystré
+
+Čierne nad Topľou
+
+36457728
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1092
+
+MFC, s.r.o.
+
+Sereď
+
+Bratislava
+
+31441319
+
+1095
+
+PROGRESS TRADING,
+a.s.
+
+Spišská Nová Ves
+
+Trebišov
+
+31679765
+
+1096
+
+Lesy Jasov, s.r.o.
+
+Jasov
+
+Počkaj
+
+31695868
+
+1098
+
+DETOX, s.r.o.
+
+Banská Bystrica
+
+Rimavská Sobota
+
+31582028
+
+1100
+
+Slovenské liehovary
+a likérky, a.s.
+
+Leopoldov
+
+Leopoldov
+
+36241369
+
+1101
+
+Heineken Slovensko
+Sladovne, a.s.
+
+Nitra
+
+Ivanka pri Nitre
+
+36541991
+
+1108
+
+Lesy Slovenskej republiky,
+š.p. OZ Žarnovica
+
+Žarnovica
+
+Žarnovica
+
+36038351
+
+1112
+
+Bučina DDD, s.r.o..
+
+Zvolen
+
+Zvolen
+
+36059323
+
+1113
+
+PILEX SLOVAKIA, s.r.o.
+
+Bratislava
+
+Podolínec
+
+36042781
+
+1121
+
+ISOMEX, s.r.o.
+
+Bratislava
+
+Bratislava
+
+35851449
+
+1124
+
+PRO POPULO PP, a.s.
+
+Poprad
+
+Levoča
+
+17084725
+
+1126
+
+MEOPTIS, s.r.o.
+
+Bratislava
+
+Ťahanovce
+
+31371485
+
+1127
+
+Milan Kuchár – DRUSUR
+
+Ružomberok
+
+Ružomberok
+
+30527104
+
+1129
+
+HOFFER, s.r.o.
+
+Komárno
+
+Komárno
+
+36529214
+
+1131
+
+BELL Zvolen, a.s.
+
+Bratislava
+
+Zvolen
+
+35761628
+
+1133
+
+KOVOHUTY, a.s.
+
+Krompachy
+
+Krompachy
+
+36200867
+
+1137
+
+Vector Parks Bratislava
+(Rača), a.s.
+
+Bratislava
+
+Bratislava
+
+35755563
+
+1141
+
+Carmeuse Slovakia, s.r.o.
+
+Slavec
+
+Slavec
+
+36198749
+
+1143
+
+POĽNONÁKUP VRANOV,
+s.r.o.
+
+Vranov nad Topľou
+
+Vranov nad Topľou
+
+36486507
+
+1144
+
+Ferona Slovakia, a.s.
+
+Žilina
+
+Žilina
+
+36401137
+
+1145
+
+Ferona Slovakia, a.s.
+
+Žilina
+
+Martin
+
+36401137
+
+1146
+
+Ferona Slovakia, a.s.
+
+Žilina
+
+Nitra
+
+36401137
+
+1147
+
+Ferona Slovakia, a.s.
+
+Žilina
+
+Rovinka
+
+36401137
+
+1148
+
+Ferona Slovakia, a.s.
+
+Žilina
+
+Košice
+
+36401137
+
+1149
+
+BPS Market, s.r.o.
+
+Nemšová
+
+Nemšová
+
+36476129
+
+1150
+
+KOVMETAL, s.r.o.
+
+Košice
+
+Košice
+
+36196185
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1152
+
+Prvá Slovenská železničná,
+a.s.
+
+Bratislava
+
+Veľký Šariš
+
+35858664
+
+1154
+
+KORD Slovakia, a.s.
+
+Bánovce nad Bebravou
+
+Bánovce nad
+Bebravou
+
+35767308
+
+1156
+
+Lesy Slovenskej republiky,
+š.p. OZ Kriváň
+
+Kriváň
+
+Vígľaš
+
+36038351
+
+1157
+
+Lesy Slovenskej republiky,
+š.p. OZ Kriváň
+
+Kriváň
+
+Kriváň
+
+36038351
+
+1158
+
+Lesy Slovenskej republiky,
+š.p. OZ Kriváň
+
+Kriváň
+
+Lučenec
+
+36038351
+
+1160
+
+Lesy Slovenskej republiky,
+š.p. OZ Rimavská Sobota
+
+Rimavská Sobota
+
+Rimavská Baňa
+
+36038351
+
+1161
+
+Lesy Slovenskej republiky,
+š.p. OZ Rimavská Sobota
+
+Rimavská Sobota
+
+Rimavská Sobota
+
+36038351
+
+1162
+
+STAVIMAX, s.r.o.
+
+Košice
+
+Košice
+
+36196541
+
+1166
+
+MFC, s.r.o.
+
+Sereď
+
+Hlohovec
+
+31441319
+
+1167
+
+Calmit, .r.o.
+
+Bratislava
+
+Žirany
+
+36172162
+
+1168
+
+Lesy Slovenskej republiky,
+š.p. OZ Revúca
+
+RevúcaRevúca
+
+Tornaľa
+
+36038351
+
+1170
+
+EUROVIA – Kameňolomy,
+s.r.o.
+
+Košice – Barca
+
+Kráľova Lehota
+
+35574988
+
+1171
+
+ROBUS, s.r.o.
+
+Krupina
+
+Krupina
+
+36036081
+
+1172
+
+ACHP Levice, a.s.
+
+Levice
+
+Lužianky
+
+00005819
+
+1173
+
+ACHP Levice, a.s.
+
+Levice
+
+Tupá
+
+00005819
+
+1174
+
+RAVEN, a.s.
+
+Považská Bystrica
+
+Bratislava - Východ
+
+31595804
+
+1176
+
+Calmit, .r.o.
+
+Bratislava
+
+Margecany
+
+36172162
+
+1177
+
+Calmit, s.r.o.
+
+Bratislava
+
+Tisovec
+
+36172162
+
+1179
+
+ELTRA, s.r.o.
+
+Košice
+
+Košice
+
+31674267
+
+1182
+
+Letisko M. R. Štefánika Airport Bratislava, a.s.
+
+Bratislava
+
+Bratislava
+
+35884916
+
+1185
+
+LESY Slovenskej republiky,
+š.p., OZ Revúca
+
+Revúca
+
+Muráň
+
+36038351
+
+1186
+
+LESY Slovenskej republiky,
+š.p., OZ Revúca
+
+Revúca
+
+Revúca
+
+36038351
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1190
+
+Dinas Banská Belá, a.s.
+
+Banská Belá
+
+Banská Belá
+
+36042498
+
+1191
+
+Prvá Slovenská železničná,
+a.s.
+
+Bratislava
+
+Rimavská Sobota
+
+35858664
+
+1192
+
+LOKORAIL, a.s.
+
+Bratislava
+
+Bratislava
+
+36564443
+
+1193
+
+MIKONA, s.r.o.
+
+Púchov
+
+Púchov
+
+31570364
+
+1194
+
+TAJBA, a.s.
+
+Čaňa
+
+Trebišov
+
+36188981
+
+1196
+
+RAVEN, a.s.
+
+Považská Bystrica
+
+Považská Bystrica
+
+31595804
+
+1197
+
+HORNONITRIANSKÉ
+BANE zamestnanecká, a.s.
+
+Prievidza
+
+Zemianske Kostoľany
+
+36002887
+
+1198
+
+HORNONITRIANSKÉ
+BANE zamestnanecká, a.s.
+
+Prievidza
+
+Prievidza
+
+36002887
+
+1199
+
+HORNONITRIANSKÉ
+BANE zamestnanecká, a.s.
+
+Prievidza
+
+Handlová
+
+36002887
+
+1202
+
+KBZ, s.r.o.
+
+Košice
+
+Krásna nad Hornádom
+
+36034509
+
+1204
+
+WAGON TRADING, s.r.o.
+
+NitraNitra
+
+Poprad
+
+31657940
+
+1205
+
+ŽP EKO-QELET, a.s.
+
+Martin
+
+Martin
+
+36421120
+
+1206
+
+ŽP EKO-QELET, a.s.
+
+Martin
+
+Žilina
+
+36421120
+
+1207
+
+TIR, s.r.o.
+
+Brezno
+
+Podbrezová
+
+00633496
+
+1209
+
+LOKO TRANS Slovakia,
+s.r.o.
+
+Šurany
+
+Šurany
+
+36551261
+
+1211
+
+Valcovňa profilov, a.s.
+
+Košice
+
+Veľká Ida
+
+36181714
+
+1217
+
+OSIVO, a.s.
+
+Zvolen
+
+Levice
+
+31562965
+
+1218
+
+GAMOTA, a.s.
+
+Komárno
+
+Malé Straciny
+
+36542601
+
+1219
+
+MFC, s.r.o.
+
+Sereď
+
+Harmanec
+
+31441319
+
+1220
+
+Prvá Slovenská železničná,
+a.s.
+
+Bratislava
+
+Hurbanovo
+
+36528391
+
+1224
+
+LOKORAIL, a.s.
+
+Bratislava
+
+Senica
+
+36564443
+
+1226
+
+MFC, s.r.o.
+
+Sereď
+
+Veľké Kostoľany
+
+31441319
+
+1230
+
+PCA Slovakia, s.r.o.
+
+Trnava
+
+Trnava
+
+36256013
+
+1232
+
+ACHP Levice, a.s.
+
+Levice
+
+Želiezovce
+
+00005819
+
+1234
+
+LOKORAIL, a.s.
+
+Bratislava
+
+Senica
+
+36565443
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1235
+
+Agro Ostrov, s.r.o.
+
+Ostrov
+
+Bardejov
+
+36573906
+
+1236
+
+Jadrová a vyraďovacia
+spoločnosť, a.s.
+
+Jaslovské Bohunice
+
+Jaslovské Bohunice
+
+35946024
+
+1237
+
+Prvá Slovenská železničná,
+a.s.
+
+Bratislava
+
+Michalovce
+
+35858664
+
+1238
+
+Poľnonákup
+HORNONITRAN, a.s.
+
+Prievidza
+
+Prievidza
+
+31562914
+
+1239
+
+ELASTIK, s.r.o.
+
+Šelpice
+
+Šelpice
+
+17642108
+
+1243
+
+Duslo, a.s.
+
+Šaľa
+
+Šaľa
+
+35826487
+
+1245
+
+GEMERNÁKUP, a.s.
+
+Rimavská Sobota
+
+Jesenské
+
+31568297
+
+1246
+
+NAFTA, a.s.
+
+Gbely
+
+Veľké Leváre
+
+36286192
+
+1249
+
+LOKO TRANS Slovakia,
+s.r.o.
+
+Šurany
+
+Dubnica nad Váhom
+
+36551261
+
+1256
+
+EISEN, s.r.o.
+
+Šaľa
+
+Šaľa
+
+36543055
+
+1257
+
+PEGASS SK, .r.o.
+
+Sučany
+
+Turany
+
+36386022
+
+1258
+
+KBZ, s.r.o.
+
+Košice
+
+Zohor
+
+36034509
+
+1299
+
+Liaharenský podnik Nitra,
+a.s.
+
+Nitra – Párovské Háje
+
+Vráble
+
+00199010
+
+1300
+
+Železničná spoločnosť
+Cargo Slovakia, a.s.
+
+Bratislava
+
+Teplička nad Váhom
+
+35914921
+
+1302
+
+METRANS /Danubia/, a.s.
+
+Dunajská Streda
+
+Dunajská Streda
+
+36380032
+
+1305
+
+Kovplus, s.r.o.
+
+Kostoľany nad
+Hornádom
+
+Kostoľany nad
+Hornádom
+
+36206725
+
+1307
+
+AGROK, .r.o.
+
+Topoľčianky
+
+Lipany
+
+35698357
+
+1308
+
+EBA, s.r.o.
+
+Bratislava
+
+Sládkovičovo
+
+31376134
+
+1309
+
+NEW-INK, s.r.o.
+
+Michalovce
+
+Trebišov
+
+36428671
+
+1310
+
+TSS Grade, a.s.
+
+Bratislava
+
+Križovany nad
+Dudváhom
+
+35802723
+
+1311
+
+BETA – CAR, s.r.o.
+
+Pezinok
+
+Pezinok
+
+34127224
+
+1313
+
+ENVIRAL, a.s.
+
+Leopoldov
+
+Leopoldov
+
+36259233
+
+1315
+
+Zberné suroviny, a.s.
+
+Žilina
+
+Košice
+
+35701986
+
+1316
+
+NELUX, s.r.o.
+
+Bratislava
+
+Zlatovce
+
+35740710
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1317
+
+Lesy Slovenskej republiky,
+š.p. OZ Rožňava
+
+Rožňava
+
+Lipovník
+
+36038351
+
+1318
+
+Lesy Slovenskej republiky,
+š.p. OZ Rožňava
+
+Rožňava
+
+Betliar
+
+36038351
+
+1319
+
+DSC, a.s.
+
+Bratislava
+
+Brezno
+
+35811790
+
+1320
+
+Anna Válentová
+
+Štúrovo
+
+Štúrovo
+
+33124957
+
+1321
+
+C.B.R. Maťovce – Carbon
+Black Reloading, s.r.o.
+
+Maťovce
+
+Maťovce ŠR
+
+36199281
+
+1322
+
+C.B.R. Maťovce – Carbon
+Black Reloading, s.r.o.
+
+Maťovce
+
+Veľké Kapušany NR
+
+36199281
+
+1324
+
+SCM Logistics, s.r.o.
+
+Bratislava
+
+Sládkovičovo
+
+35914190
+
+1325
+
+Slovenská elektrizačná
+prenosná sústava, a.s.
+
+Bratislava
+
+Ličartovce
+
+35829141
+
+1326
+
+ABRISO SK, s.r.o.
+
+Čečejovce
+
+Čečejovce
+
+36607088
+
+1327
+
+DCP Timber, s.r.o.
+
+Martin
+
+Vrútky
+
+36014419
+
+1329
+
+INTOCAST Slovakia, a.s.
+
+Košice
+
+Hačava
+
+31654703
+
+1333
+
+ŽP EKO QELET, a.s.
+
+Martin
+
+Hliník nad Hronom
+
+36421120
+
+1335
+
+TOOŽ, a.s.
+
+Dolný Hričov
+
+Bošany
+
+43861105
+
+1336
+
+United Industries, a.s.
+
+Bratislava
+
+Šurany
+
+35686031
+
+1337
+
+United Industries, a.s.
+
+Bratislava
+
+Trnava
+
+35686031
+
+1341
+
+RT LOGISTIC, a.s.
+
+Leopoldov
+
+Leopoldov
+
+43814662
+
+1344
+
+MT CARGO SPEDITION,
+s.r.o.
+
+Košice
+
+Veľká Ida NR
+
+36579297
+
+1345
+
+MT CARGO SPEDITION,
+s.r.o.
+
+Košice
+
+Haniska pri Košiciach
+ŠR
+
+36579297
+
+1346
+
+METALEX, a.s.
+
+Košice
+
+Žilina
+
+36196622
+
+1350
+
+VSK MINERAL, s.r.o.
+
+Košice
+
+Slanec
+
+36706311
+
+1352
+
+CHYOSLA -STAV, s.r.o.
+
+Bratislava
+
+Zohor
+
+35718811
+
+1353
+
+PPS Group, a.s.
+
+Detva
+
+výhybňa Pstruša
+
+36011509
+
+1355
+
+DOKA DREVO, s.r.o.
+
+Banská Bystrica
+
+Banská Bystrica
+
+31619380
+
+1356
+
+IExplosivesE, a.s.
+
+Bratislava
+
+Sklené pri Handlovej
+
+44254504
+
+1358
+
+Spišské kŕmne zmesi, s.r.o.
+
+Spišské Vlachy
+
+Spišské Vlachy
+
+36758477
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1363
+
+ZLH Plus, a.s.
+
+Hronec
+
+Hronec
+
+36853151
+
+1366
+
+Evonik Fermas, s.r.o.
+
+Slovenská Ľupča
+
+Slovenská Ľupča
+
+31578896
+
+1370
+
+VSS Trading, s.r.o.
+
+Košice
+
+Košice – Barca
+
+36599140
+
+1371
+
+myWood Polomka Timber,
+s.r.o.
+
+Polomka
+
+Polomka
+
+36693979
+
+1372
+
+Slovglass Poltár, s.r.o.
+
+Poltár
+
+Poltár
+
+35837152
+
+1374
+
+TransContainer –
+Slovakiaakia, a.s.
+
+Košice
+
+Dobrá
+
+44833725
+
+1375
+
+TSS GRADE, a.s.
+
+Trnava
+
+Siladice
+
+35802723
+
+1376
+
+Železničná spoločnosť
+Cargo Slovakia, a.s.
+
+Bratislava
+
+Šarišské Lúky
+
+35914921
+
+1381
+
+CRHCR (Slovensko), a.s.
+
+Rohožník
+
+Rohožník
+
+00214973
+
+1383
+
+Zberné suroviny, a.s.
+
+Žilina
+
+Šurany
+
+35701986
+
+1384
+
+Zberné suroviny, a.s.
+
+Žilina
+
+Horný Hričov
+
+35701986
+
+1386
+
+Železničná spoločnosť
+Cargo Slovakia, a.s.
+
+Bratislava
+
+Vrútky
+
+35914921
+
+1387
+
+OZETA NEO, a.s.
+
+Topoľčany
+
+Liptovský Mikuláš
+
+36329843
+
+1388
+
+Slovglass Poltár, s.r.o.
+
+Poltár
+
+Katarínska Huta
+
+35837152
+
+1389
+
+Správa štátnych hmotných
+rezerv SR
+
+Bratislava
+
+Breziny
+
+30844363
+
+1390
+
+ACHP Levice, a.s.
+
+Levice
+
+Čab
+
+00005819
+
+1391
+
+INVITA, s.r.o.
+
+Košice
+
+Košice
+
+36853020
+
+1393
+
+MAXIMA, s.r.o.
+
+Martin
+
+Poprad
+
+36040011
+
+1394
+
+Zväz pre skladovanie zásob,
+a.s.
+
+Bratislava
+
+Horný Hričov
+
+36366862
+
+1395
+
+Zväz pre skladovanie zásob,
+a.s.
+
+Bratislava
+
+Hronský Beňadik
+
+36366862
+
+1396
+
+Železničná spoločnosť
+Cargo Slovakia, a.s.
+
+Bratislava
+
+Humenné
+
+35914921
+
+1402
+
+PK Doprastav, a.s.
+
+Žilina
+
+Ruskov
+
+35697814
+
+1403
+
+KM Group, .r.o.
+
+Košice
+
+Barca
+
+36214272
+
+1405
+
+Agropodnik, a.s.
+
+Trnava
+
+Trenčianske
+Bohuslavice
+
+31420494
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1406
+
+PROFIL RAKOVO, s.r.o.
+
+Rakovo
+
+Príbovce
+
+31617883
+
+1408
+
+TAJBA, a.s.
+
+Čaňa
+
+Lučenec
+
+36188981
+
+1409
+
+ZANINONI LOGISTIC,
+s.r.o.
+
+Sládkovičovo
+
+Sládkovičovo
+
+36236314
+
+1411
+
+DMG, s.r.o.
+
+Preseľany
+
+Koniarovce
+
+34104038
+
+1412
+
+SHP SLAVOŠOVCE, a.s.
+
+Slavošovce
+
+Slavošovce
+
+36200166
+
+1415
+
+KOVOD, a.s.
+
+Banská Bystrica
+
+Šalková
+
+36052957
+
+1417
+
+Preterm, s.r.o.
+
+Trebišov
+
+Trebišov
+
+45301816
+
+1418
+
+Metsa Tissue Slovakia, s.r.o.
+
+Žilina
+
+Žilina
+
+36381306
+
+1419
+
+PRO POPULO POPRAD,
+s.r.o.
+
+Spišská Teplica
+
+Vydrník
+
+17083851
+
+1421
+
+TransPlus (Slovensko), s.r.o.
+
+Rohožník
+
+Turňa nad Bodvou
+
+35731877
+
+1422
+
+Carmeuse Slovakia, s.r.o.
+
+Slavec
+
+Kostoľany nad
+Hornádom
+
+36198749
+
+1425
+
+Roman Valko KOVOVÝKUP
+
+Veľké Kostoľany
+
+Veľké Kostoľany
+
+33437793
+
+1426
+
+SCRAPMET
+SLOVAKIA, s.r.o.
+
+Banská Bystrica
+
+Drienovská Nová Ves
+
+36640468
+
+1430
+
+MYMA Invest, s.r.o.
+
+Žilina
+
+Žilina
+
+36692131
+
+1434
+
+TAJBA, a.s.
+
+Čaňa
+
+Hatalov
+
+36188981
+
+1435
+
+TAJBA, a.s.
+
+Čaňa
+
+Moldava nad Bodvou
+
+36188981
+
+1437
+
+METRANS /Danubia/, a.s.
+
+Dunajská Streda
+
+Haniska pri Košiciach
+
+36380032
+
+1438
+
+ACHP Levice, a.s.
+
+Levice
+
+Spišská Nová Ves
+
+00005819
+
+1439
+
+ŠROTSERVIS, s.r.o.
+
+Bratislava
+
+Galanta
+
+43997731
+
+1443
+
+TATRAVAGÓNKA, a.s.
+
+Poprad
+
+Trebišov ŠR
+
+31699847
+
+1444
+
+TATRAVAGÓNKA, a.s.
+
+Poprad
+
+Trebišov NRN
+
+31699847
+
+1446
+
+Rail Cargo Operator –a–
+CSKD, s.r.o., organizačná
+zložka
+
+Bratislava
+
+Bratislava
+
+46850961
+
+1447
+
+Rail Cargo Operator –
+CSKD, s.r.o., organizačná
+zložka
+
+Bratislava
+
+Košice
+
+46850961
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1448
+
+Rail Cargo Operator –
+CSKD, s.r.o., organizačná
+zložka
+
+Bratislava
+
+Žilina
+
+46850961
+
+1449
+
+KOVOD, a.s.
+
+Banská Bystrica
+
+Sereď
+
+36052957
+
+1451
+
+Železničná spoločnosť
+Cargo Slovakia, a.s.
+
+Bratislava
+
+Teplička nad Váhom
+
+35914921
+
+1456
+
+FORTISCHEM, a.s.
+
+Nováky
+
+Nováky
+
+46693874
+
+1457
+
+POLYTRANS, s.r.o.
+
+Prešov
+
+Šarišské Lúky
+
+31733085
+
+1458
+
+SAM-SHIPBULDING
+AND MACHINERY, a.s.
+
+Bratislava
+
+Komárno
+
+36246093
+
+1459
+
+EKODATEX, s.r.o.
+
+Bardejov
+
+Bardejov
+
+47093561
+
+1460
+
+Lahita TradeT, s.r.o.
+
+Martin
+
+Martin
+
+47159472
+
+1462
+
+CHEMOSVIT FOLIE, a.s.
+
+Svit
+
+Svit
+
+31719724
+
+1463
+
+SLZ NOVA, a.s.
+
+Hnúšťa
+
+Hnúšťa
+
+35719796
+
+1464
+
+EISEN, s.r.o.
+
+Šaľa
+
+Trnovec nad Váhom
+
+36543055
+
+1465
+
+Duslo, a.s.
+
+Šaľa
+
+Bratislava predmestie
+
+35826487
+
+1467
+
+TOMEGAS SK, s.r.o.
+
+Čadca
+
+Spišské Vlachy
+
+36410811
+
+1469
+
+Koľajové a dopravné stavby,
+s.r.o.
+
+Košice
+
+Košice - Barca
+
+31721401
+
+1471
+
+Oceľservis, .r.o.
+
+Nové Mesto nad Váhom
+
+Brezno
+
+34115391
+
+1472
+
+ACHP Levice, a.s.
+
+Levice
+
+Spišská Belá
+
+1475
+
+LOKOTRANS SERVIS,
+s.r.o., organizačná zložka
+
+Bratislava
+
+Devínska Nová Ves
+
+1476
+
+Východoslovenská
+distribučná, a.s.
+
+Košice
+
+Sečovce
+
+36599361
+
+1477
+
+Východoslovenská
+distribučná, a.s.
+
+Košice
+
+Košice
+
+36599361
+
+1478
+
+MSM Martin, s.r.o.
+
+Martin
+
+Trenčín
+
+36422991
+
+1479
+
+Chemko, a.s. Slovakia
+
+Bratislava
+
+Strážske
+
+36210625
+
+1480
+
+Chemko, a.s. Slovakia
+
+Bratislava
+
+Strážske
+
+36210625
+
+1481
+
+Chemko, a.s. Slovakia
+
+Bratislava
+
+Strážske
+
+36210625
+
+1482
+
+Priemyselný park Štúrovo,
+a.s.
+
+Štúrovo
+
+Štúrovo
+
+31410146
+
+5819
+47 254
+599
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1483
+
+ZSNP DA, a.s.
+
+Žiar nad Hronom
+
+Žiar nad Hronom
+
+47858338
+
+1484
+
+P R O B U G A S, a.s.
+
+Bratislava
+
+Čierna nad Tisou
+
+47695421
+
+1485
+
+P R O B U G A S, a.s.
+
+Bratislava
+
+Haniska pri Košiciach
+
+47695421
+
+1486
+
+P R O B U G A S, a.s.
+
+Bratislava
+
+Martin
+
+47695421
+
+1487
+
+Agropodnik, a.s.
+
+Trnava
+
+Dunajská Streda
+
+31420494
+
+1488
+
+Agropodnik, a.s.
+
+Trnava
+
+Lehnice
+
+31420494
+
+1489
+
+Agropodnik, a.s.
+
+Trnava
+
+Dolný Štál
+
+31420494
+
+1490
+
+PRP, s.r.o.
+
+Tomášovce
+
+Tomášovce
+
+31619665
+
+1491
+
+STRABAG Rail, a.s.,
+organizačná zložka
+
+Bratislava
+
+Trenčianska Turná
+
+44843526
+
+1492
+
+DELTA Reatrade, s.r.o.
+
+Levice
+
+Levice
+
+36290289
+
+1493
+
+TAJBA, a.s.
+
+Čaňa
+
+Michaľany
+
+36188981
+
+1494
+
+WAY INDUSTRIES, a.s.
+
+Krupina
+
+Krupina
+
+44965257
+
+1495
+
+Biopalm, a.s.
+
+Bratislava
+
+Šenkvice
+
+47747888
+
+1496
+
+Slovenská železničná
+dopravná spoločnosť, a.s.
+
+Bratislava
+
+Trnava
+
+35856742
+
+1497
+
+KAMETAL, s.r.o.
+
+Bitarová
+
+Žilina
+
+46640193
+
+1498
+
+DOPRASTAV EXPORT,
+s.r.o.
+
+Bratislava
+
+Zvolen
+
+35723696
+
+1499
+
+TSR Slovakia, s.r.o.
+
+Bratislava
+
+Bytča
+
+47258811
+
+1500
+
+Rettenmeier Tatra Timber,
+s.r.o.
+
+Liptovský Hrádok
+
+Liptovský Hrádok
+
+36387592
+
+1501
+
+D – Energy, s.r.o.
+
+Turčianske Teplice
+
+Zvolen
+
+43834078
+
+1502
+
+Veolia Utilities Žiar nad
+Hronom, a.s.
+
+Žiar nad Hronom
+
+Žiar nad Hronom
+
+44069472
+
+1503
+
+Koľajové a výškové práce,
+s.r.o.
+
+Banská Bystrica
+
+Trnava
+
+46907386
+
+1504
+
+Hornonitrianska Bane
+zamestnanecká, a.s.
+
+Prievidza
+
+Kúty
+
+36002887
+
+1505
+
+DEPON ZH, s.r.o.
+
+Ladomerská Vieska
+
+Žiar nad Hronom
+
+44091303
+
+1506
+
+Privéefina, s.r.o.
+
+Bratislava
+
+Sereď
+
+36869074
+
+1507
+
+Privéefina, s.r.o.
+
+Bratislava
+
+Sereď
+
+36869074
+
+Ev. č.
+
+Obchodné meno
+
+Sídlo
+
+Prevádzka
+
+IČO
+
+1508
+
+FEOX, s.r.o.
+
+Žilina
+
+Nižná Slaná
+
+45468087
+
+1509
+
+Mesto Spišské Podhradie
+
+Spišské Podhradie
+
+Spišské Podhradie
+
+00329622
+
+1510
+
+TIDLY real estate, s.r.o.
+
+Bratislava
+
+Komárno
+
+50245937
+
+1511
+
+BRENNTAG SLOVAKIA,
+s.r.o.
+
+Pezinok
+
+Slovenská Ľupča
+
+31336884
+
+1512
+
+RT Logistic, a.s.
+
+Leopoldov
+
+Bánovce nad Ondavou
+
+43814662
+
+1513
+
+BOWTEN, s.r.o.
+
+Sečovce
+
+Sečovce
+
+50070665
+
+1514
+
+MJM Agro Slovakia, s.r.o.
+
+Levice
+
+Levice
+
+50902393
+
+1515
+
+JDMR, s.r.o.
+
+Veľké Kostoľany
+
+Veľké Kostoľany
+
+43839649
+
+1516
+
+Continental Matador
+Rubber, s.r.o.
+
+Púchov
+
+Púchov
+
+36709557
+
+1517
+
+Prvá Slovenská železničná,
+a.s.
+
+Bratislava
+
+Želiezovce
+
+43839649
+
+1518
+
+MFC, s.r.o.
+
+Sereď
+
+Kráľová Lehota
+
+31441319
+
+1519
+
+MFC, s.r.o.
+
+Sereď
+
+Sučany
+
+31441319
+
+1520
+
+MFC, s.r.o.
+
+Sereď
+
+Štrba
+
+31441319
+
+1521
+
+EISEN, s.r.o.
+
+Šaľa
+
+Šaľa
+
+36543055
+
+Poznámka: Zmena údajov vyhradená. Aktuálny zoznam poskytne objednávateľ dodávateľovi.
+
+Príloha č. 5 ku zmluve
+Zoznam základných kapacít železničnej infraštruktúry
+1. Celková dĺžka železničných tratí v km, z toho:
+1.1. jednokoľajné železničné trate v km
+1.2. dvojkoľajné železničné trate v km
+1.3. rozchodu 1435 mm v km
+1.4. rozchodu 1520 mm v km
+1.5. rozchodu 1000 mm v km
+1.6. rozchodu 760 mm v km
+2. Celková dĺžka železničných tratí v zhode s TSI INF v km, z toho:
+2.1. jednokoľajné železničné trate v km
+2.2. dvojkoľajné železničné trate v km
+3. Celková dĺžka železničných tratí súčasťou RFC v km, z toho:
+3.1. jednokoľajné železničné trate v km
+3.2. dvojkoľajné železničné trate v km
+4. Celková dĺžka tunelov v m, z toho:
+4.1. jednokoľajné tunely v m
+4.2. dvojkoľajné tunely v m
+5. Celková dĺžka tunelov v zhode s TSI SRT v m
+5.1. jednokoľajné tunely v m
+5.2. dvojkoľajné tunely v m
+6. Celkový počet tunelov v ks, z toho:
+6.1. jednokoľajné tunely v ks
+6.2. dvojkoľajné tunely v ks
+7. Celkový počet tunelov v zhode s TSI SRT v ks
+7.1. jednokoľajné tunely v ks
+7.2. dvojkoľajné tunely v ks
+8. Celkový počet železničných priecestí v ks
+9. Celková dĺžka elektrifikovaných železničných tratí v km, z toho:
+9.1. elektrifikované sústavou 25 kV 50 Hz v km
+9.2. elektrifikované sústavou 15 kV 16,7 Hz v km
+9.3. elektrifikované sústavou 3 kV v km
+9.4. elektrifikované sústavou 1,5 kV v km
+9.5. elektrifikované sústavou 0,6 kV v km
+10. Celková dĺžka elektrifikovaných železničných tratí v zhode s TSI ENE v km, z toho:
+10.1.
+elektrifikované sústavou 25 kV 50 Hz v km
+10.2.
+elektrifikované sústavou 15 kV 16,7 Hz v km
+10.3.
+elektrifikované sústavou 3 kV v km
+11. Celková dĺžka železničných tratí s inštalovaným zabezpečovacím systémom ETCS
+v km
+12. Celková dĺžka železničných tratí s inštalovaným rádiovým systémom GSM-R v km
+13. Celková dĺžka železničných tratí s inštalovaným národným systémom detekcie vlaku
+v km
+14. Celková dĺžka železničných tratí s inštalovaným národným rádiovým systémom v km
+
+

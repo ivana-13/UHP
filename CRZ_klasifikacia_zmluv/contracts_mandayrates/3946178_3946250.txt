@@ -1,0 +1,962 @@
+Zmluva o dielo
+uzatvorená podľa § 536 a nasl. Obchodného zákonníka, zákona č. 343/2015 Z. z. o verejnom obstarávaní
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a zákona č. 185/2015 Z. z. Autorský
+zákon v znení neskorších predpisov (ďalej len „Zmluva“)
+
+Zmluvné strany
+Slovenská republika zastúpená Ministerstvom vnútra Slovenskej republiky
+Pribinova 2, 812 72 Bratislava
+IČO: 00 151 866
+bankové spojenie:
+V zastúpení: Ing. Ondrej Varačka, generálny tajomník služobného úradu MV SR, na základe plnomocenstva
+č.p.: KM-OPS4-2018/001604-117 zo dňa 30. 04. 2018
+(ďalej len ,,objednávateľ“)
+a
+Gratex International a.s.,
+Galvaniho 17/C, 824 01 Bratislava
+IČO: 35 743 468; IČ DPH: SK2020270604
+bankové spojenie:
+Spoločnosť zapísaná v OR Okresného súdu Bratislava I, odd.: Sa, vložka č.: 1696/B
+Konajúca: Ing. Jozef Kožár, predseda predstavenstva, Ing. Martin Polek, člen predstavenstva
+(ďalej len ,,zhotoviteľ“)
+(objednávateľ a zhotoviteľ ďalej spolu len „zmluvné strany“)
+
+sa v nadväznosti na oznámenie o dobrovoľnej transparentnosti ex ante zverejnené vo Vestníku verejného
+obstarávania č. 251/2018 zo dňa 21.12.2018 pod zn. 18301 – DES na predmet zákazky „Zmena zdrojového
+kódu na aplikačnej, databázovej a používateľskej úrovni informačného systému ES CO a súvisiacich služieb“
+dohodli na nasledovnom znení Zmluvy:
+
+ZMLUVA
+1 1 DEFINÍCIE ZMLUVY
+Nasledujúce slová a výrazy majú v tejto Zmluve významy ako je uvedené
+1.1. “Zmluva“ znamená táto Zmluva o dielo, vrátane príloh.
+1.2. “Príloha“ znamená príloha k Zmluve, vrátane všetkých budúcich zmien a dodatkov tak, ako
+povoľuje Zmluva.
+1.3. „eGovernment“ je elektronickou formou výkonu verejnej správy pri aplikácii informačnokomunikačných technológií (ďalej aj „IKT“) v procesoch verejnej správy.
+
+ZMLUVA O DIELO
+
+STRANA
+
+1
+
+|
+
+1.4. „ES CO“ alebo „elektronické služby centrálnej ohlasovne“ je informačný systém elektronických služieb Centrálnej ohlasovne vyhotovený pre objednávateľa na základe Zmluvy o dielo
+č. SE-OVO-4-100/2010 zo dňa 21.03.2011 v znení jej dodatkov a Zmluvy o dielo č. OVO12014/000230-024 zo dňa 02.06.2014.
+1.5. „Informačný systém Verejnej správy“ (v skrátenom tvare „IS VS“) znamená komunikáciu
+verejnej správy prostredníctvom informačno-komunikačných technológií (IKT).
+1.6. “Dielo” znamená plnenie realizované Zhotoviteľom podľa podmienok stanovených v tejto
+Zmluve.
+1.7. “Aplikačné programové vybavenie“ (v skrátenom tvare “APV“) znamená špecificky vytvorené programové vybavenie pre ES CO, s ním spojenú dokumentáciu, nasadenie aplikácií
+a počiatočné naplnenie dátami, ako súčasť Diela so všetkými doplnkami alebo modifikáciami tak, ako je v Zmluve dohodnuté.
+1.8. „Testovacia procedúra“ znamená testy, slúžiace na overenie vlastností a funkčnosti APV pri
+preberaní APV za účelom akceptácie.
+1.9. “Rutinná prevádzka“ znamená prevádzku APV v súlade s podmienkami tejto Zmluvy v celoplošnom nasadení.
+1.10. Chyby, vady, závady a nedostatky APV (ďalej len „chyby“) sa delia do skupín: kategória
+A, kategória B a kategória C.
+1.11. Za „Chyby kategórie A“ sa považujú zásadné chyby funkcionality APV, ktoré znemožňujú
+spracovanie údajov a ich zobrazovanie koncovým používateľom, vrátane problémov spojených s bezpečnosťou a poškodením dát, nesprávnych výsledkov výpočtov alebo chyby spôsobujúce, že je potrebné systém znovu zaviesť (reštartovať), pričom chybnú funkcionalitu
+APV zároveň nie je možné realizovať náhradným postupom.
+1.12. Za „Chyby kategórie B“ sa považujú chyby, ktoré by normálne patrili pod kategóriu A, ale
+ku ktorým je možné nájsť náhradný postup. Tento náhradný postup musí byť pre objednávateľa primerane akceptovateľný.
+1.13. Za „Chyby kategórie C“ sa považujú chyby, ktoré nebránia efektívnemu používaniu APV.
+Môžu to byť menšie chyby na obrazovkách alebo drobné odchýlky od očakávanej prevádzky.
+1.14. BBT- testovacie prostredie výpočtového strediska MV SR v Banskej Bystrici.
+1.15. BBP- produkčné prostredie výpočtového strediska MV SR v Banskej Bystrici.
+
+2 2 PREDMET ZMLUVY
+2.1. Predmetom tejto zmluvy je záväzok Zhotoviteľa vykonať pre objednávateľa Dielo spočívajúce v „Zmene zdrojového kódu na aplikačnej, databázovej a používateľskej úrovni informačného systému ES CO a súvisiacich služieb“ (ďalej len „Dielo“) v rozsahu uvedenom
+v Prílohe č. 1 tejto Zmluvy a záväzok objednávateľa za riadne a včas zhotovené Dielo zaplatiť zhotoviteľovi odmenu v súlade s článkom 11 tejto zmluvy.
+2.2. Zhotoviteľ poskytne objednávateľovi za podmienok uvedených v tejto Zmluve nasledujúce
+plnenia ako časti Diela:
+i) vykonanie analýzy a vyhotovenie funkčného a technického návrhu zmien,
+
+ZMLUVA O DIELO
+
+STRANA
+
+2
+
+|
+
+ii) tvorba - implementácia zmien APV a v rámci záverečnej fázy implementácie vykonanie interného testovania APV zhotoviteľom,
+iii) uvedenie do testovacej prevádzky na BBT,
+iv) realizácia podpory testovania na BBT (dodanie testovacích scenárov a zabezpečenie
+podpory testovania pre kľúčových používateľov objednávateľa),
+v) realizácia školení,
+vi) dodanie dokumentácie k zmenám APV (aktualizácia technickej a používateľskej dokumentácie v rozsahu zmien APV),
+vii) podpora uvedenia do rutinnej prevádzky na BBP,
+viii) podpora pri rutinnej prevádzke v rozsahu tridsať (30) dní od uvedenia do rutinnej
+prevádzky na BBP.
+2.3. Súčasťou Diela sú nasledovné plnenia:
+a) realizované v Etape I. bližšie vymedzené v časti I. Prílohy č.1 tejto Zmluvy s tým, že
+zhotoviteľ tieto plnenia vykoná v rozsahu aktivít podľa bodu 2.2. ods. i) až vii) tohto
+článku.
+b) realizované v Etape II. bližšie vymedzené v časti II. Prílohy č.1 tejto Zmluvy s tým, že
+zhotoviteľ tieto plnenia vykoná v rozsahu aktivít podľa bodu 2.2. ods. i) až viii) tohto
+článku.
+
+3 3 ČASOVÝ HARMONOGRAM REALIZÁCIE DIELA
+3.1. Zhotoviteľ sa zaväzuje realizovať Dielo vymedzené v článku 2 tejto Zmluvy v dvoch po sebe
+nasledujúcich etapách s tým, že podrobný časový harmonogram realizácie Diela je uvedený
+v Prílohe č. 2 tejto Zmluvy.
+3.2. V rámci Etapy II. zhotoviteľ vykoná podporu rutinnej prevádzky po dobu tridsiatich (30) dní
+od uvedenia Diela do rutinnej prevádzky na BBP.
+
+4 4 SPÔSOB VYKONANIA DIELA
+4.1. Zhotoviteľ vykoná Dielo v rozsahu a spôsobom uvedeným v tomto článku Zmluvy.
+4.2. Zhotoviteľ vykoná analýzu zmien a s prihliadnutím k tomu vyhotoví funkčný a technický
+návrh zmien, ktorý dodá do sídla objednávateľa v elektronickej forme na CD nosiči vo
+formáte PDF. Objednávateľ je oprávnený do piatich (5) pracovných dní od obdržania funkčného a technického návrhu od zhotoviteľa predložiť k nemu svoje pripomienky nerozširujúce rozsah plnenia zhotoviteľa nad rámec predmetu tejto Zmluvy. Zhotoviteľ do troch (3)
+pracovných dní od obdržania pripomienok od objednávateľa upraví v dotknutej časti funkčný a technický návrh zmien v súlade s pripomienkami objednávateľa a opätovne ho predloží objednávateľovi na schválenie, a to aj opakovane, pričom schválenie funkčného
+a technického návrhu zmien po zapracovaní prípadných pripomienok objednávateľa bude
+potvrdené podpisom Akceptačného protokolu.
+4.3. Vyhotovenie aplikačného programového vybavenia spočíva v implementácii zmien APV a
+ich dodaní objednávateľovi.
+4.3.1. APV je zhotoviteľ povinný vyhotoviť:
+a) v súlade so špecifikáciami uvedenými v Prílohe č. 1 tejto Zmluvy,
+b) v súlade s akceptovaným funkčným a technickým návrhom zmien,
+
+ZMLUVA O DIELO
+
+STRANA
+
+3
+
+|
+
+c) tak, aby jeho implementácia mohla byť realizovaná na existujúcej komunikačnej a
+technologickej infraštruktúre objednávateľa.
+4.3.2. Zhotoviteľ, pri poskytovaní súčinnosti zo strany objednávateľa, vykoná dodávku APV v
+nasledujúcej postupnosti krokov:
+a) zhotoviteľ odovzdá v elektronickej forme objednávateľovi výstup implementácie
+zmien APV, testovacie scenáre a uvedie Dielo do testovacej prevádzky na BBT;
+b) zhotoviteľ vykoná podporu testovania APV na BBT zo strany kľúčových používateľov
+objednávateľa, odstraňuje zistené chyby APV do akceptácie Diela v testovacom
+prostredí a poskytne objednávateľovi podporu pre uvedenie APV do rutinnej prevádzky na BBP. Realizácia týchto plnení zhotoviteľom bude potvrdená podpisom
+Akceptačného protokolu, a to najneskôr ku dňu spustenia rutinnej prevádzky na
+BBP, ak nebude dôvodný a oboma zmluvnými stranami potvrdený iný skorší termín;
+c) zhotoviteľ v rámci Etapy II. poskytne objednávateľovi podporu pri riadnej rutinnej
+prevádzke APV, a to po dobu tridsiatich (30) dní od jeho uvedenia do rutinnej prevádzky na BBP, pričom poskytovanie týchto služieb v uvedenom rozsahu bude dokumentované podpisom Akceptačného protokolu.
+4.4. Zhotoviteľ vykoná aktualizáciu technickej a používateľskej dokumentácie v rozsahu zmien
+APV podľa tejto Zmluvy (ďalej len „dokumentácia APV“ alebo „Dokumentácia“).
+4.4.1. Dokumentáciu APV dodá zhotoviteľ objednávateľovi do jeho sídla súčasne s dodaním
+APV, a to v elektronickej forme na CD nosiči, pričom dokumentácia APV bude v rozsahu
+zmien APV obsahovať aktualizáciu:
+a) popisu APV a jeho funkcií,
+b) postupov a úkonov potrebných pre riadne užívanie APV,
+c) chybových a neštandardných stavov a dostupných spôsobov ich riešenia,
+4.4.2. Objednávateľ má právo do piatich (5) pracovných dní od obdržania dokumentácie APV
+predložiť k nej zhotoviteľovi svoje pripomienky nerozširujúce rozsah plnenia zhotoviteľa
+nad rámec predmetu tejto Zmluvy. Zhotoviteľ bude povinný predložiť objednávateľovi
+upravenú dokumentáciu APV do troch (3) pracovných dní od obdržania pripomienok objednávateľa s tým, že pre schválenie finálnej verzie dokumentácie APV sa uplatní obdobne bod 4.2. tejto Zmluvy.
+
+5 5 DODACIE PODMIENKY PREDMETU ZMLUVY
+5.1. Dielo bude vykonané nasledovne:
+a) dodávkou jednotlivých plnení v zmysle článku 2 tejto Zmluvy spôsobom uvedeným
+v článkoch 4 a 6 tejto Zmluvy,
+b) akceptáciou plnení uvedených v bodoch 4.2., 4.3.2. písm. b) a c) tejto Zmluvy.
+5.2. Pri vykonávaní jednotlivých častí Diela uvedených v článku 2 tejto Zmluvy je zhotoviteľ povinný bez zbytočného odkladu zapracovať oprávnené pripomienky objednávateľa, t.j. také
+pripomienky, v ktorých bude objednávateľ namietať, že plnenie (časť Diela) odovzdané
+zhotoviteľom nie je vyhotovené a dodané v súlade s podmienkami uvedenými v tejto
+Zmluve.
+5.3. Dodávka jednotlivých plnení (častí Diela) uvedených v článkoch 4 a 6 tejto Zmluvy, ako aj
+predloženie čiastkových plnení podľa bodov 4.2. a 4.3.2. písm. b) tejto Zmluvy na akceptáciu objednávateľovi, bude dokumentované protokolom o odovzdaní a prevzatí podpísaným kontaktnými osobami oboch zmluvných strán.
+
+ZMLUVA O DIELO
+
+STRANA
+
+4
+
+|
+
+5.4. Akceptácia bude dokumentovaná Akceptačným protokolom, ktorý pripraví zhotoviteľ a
+predloží objednávateľovi, ktorý rozhodne o akceptácii do siedmich (7) dní, ak nie je dohodnuté inak. V prípade nepredloženia oprávnených pripomienok v lehote na to určenej
+sa príslušná časť Diela považuje za akceptovanú. Predpokladom podpisu Akceptačného
+protokolu je vždy odovzdanie a prevzatie jednotlivých plnení uvedených v bodoch 4.2. a
+4.3.2. písm. b), resp. poskytovanie služieb podľa bodu 4.3.2. písm. c) tejto Zmluvy po dobu
+tridsať (30) dní od uvedenia APV do rutinnej prevádzky na BBP.
+5.5. APV prejde úspešne akceptáciou v testovacom prostredí v zmysle bodu 4.3.2. písm. b) tejto Zmluvy za predpokladu, že:
+5.5.1. nezostali neopravené žiadne chyby kategórie A,
+5.5.2. všetky chyby kategórie B majú vzájomne odsúhlasený plán opráv a ich počet neprevyšuje počet sedem (7), alebo ich doba odstránenia nie je dlhšia ako 1 týždeň,
+5.5.3. všetky chyby kategórie C majú vzájomne odsúhlasený plán opráv a ich počet neprevyšuje počet pätnásť (15), alebo ich doba odstránenia nie je dlhšia ako 1 mesiac.
+5.5.4. všetky chyby treba preukázať a zdokumentovať spôsobom dohodnutým spolu
+s testovacími scenármi.
+5.6. Jednotlivé časti Diela budú predložené objednávateľovi na akceptáciu v termínoch uvedených v zmysle článku 3 a Prílohy č. 2 tejto Zmluvy.
+5.7. Akceptáciu dohodnutých plnení potvrdia zmluvné strany podpisom Akceptačného protokolu, ktorý bude podkladom pre fakturáciu v zmysle bodu 12.1. článku 12 tejto Zmluvy.
+Akceptačné protokoly k jednotlivým častiam Diela budú v mene oboch zmluvných strán
+podpisovať kontaktné osoby podľa článku 15 tejto Zmluvy.
+5.8. Vznik okolností vylučujúcich zodpovednosť (vyššia moc), ktoré sú upravené v článku 18
+tejto zmluvy oslobodzujú zhotoviteľa od plnenia definovaných dodávateľských povinností
+a pripúšťajú nové stanovenie primeraných dodacích lehôt, najdlhšie však o dobu trvania
+vyššej moci.
+
+6 6 ŠKOLENIE
+6.1. Zhotoviteľ vykoná školenia zamestnancov objednávateľa ohľadom zmien, ktoré budú
+predmetom dodávky, a to školenia prevádzky v rozsahu jeden (1) deň a školenia školiteľov
+v rozsahu jeden (1) deň.
+6.2. Školenia sa uskutočnia v priestoroch objednávateľa, pričom presný program a miesta školení dohodnú dodatočne kontaktné osoby oboch zmluvných strán po nadobudnutí účinnosti tejto Zmluvy.
+
+7 7 PRÁVA A POVINNOSTI ZHOTOVITEĽA
+7.1. Zhotoviteľ je pri plnení povinností podľa tejto Zmluvy viazaný podkladmi poskytnutými mu
+zo strany objednávateľa a pokynmi objednávateľa, ktoré nie sú v rozpore s ustanoveniami
+tejto Zmluvy.
+7.2. Zhotoviteľ je povinný bez zbytočného odkladu upozorniť kontaktnú osobu objednávateľa
+na nevhodnú povahu pokynov a/alebo podkladov daných mu objednávateľom, ak mohol
+túto nevhodnosť zistiť pri vynaložení odbornej starostlivosti, a je povinný postupovať pod-
+
+ZMLUVA O DIELO
+
+STRANA
+
+5
+
+|
+
+ľa takýchto nevhodných pokynov a/alebo podkladov objednávateľa len, ak objednávateľ
+napriek upozorneniu zo strany zhotoviteľa na nevhodných pokynoch a/alebo podkladoch
+písomne trval.
+7.3. Ak v tejto Zmluve nie je uvedené inak, zhotoviteľ je povinný informovať objednávateľa do
+dvoch (2) pracovných dní od obdržania jeho písomnej žiadosti o postupe plnenia povinností podľa tejto Zmluvy zo strany zhotoviteľa.
+
+8 8 PRÁVA A POVINNOSTI OBJEDNÁVATEĽA
+8.1. Objednávateľ je oprávnený vo VS MVSR, na Help Desk-u kedykoľvek kontrolovať priebeh a
+postup plnenia povinností podľa tejto Zmluvy zo strany zhotoviteľa.
+8.2. Objednávateľ do 24 hodín od obdŕžania požiadavky zhotoviteľa a len v rozsahu nevyhnutnom na riadne splnenie jeho povinností podľa tejto Zmluvy:
+(i) poskytne zamestnancom zhotoviteľa prístup k zariadeniam, systémom a aplikáciám,
+dotknutým plnením povinností zhotoviteľa podľa tejto Zmluvy,
+(ii) umožní zamestnancom zhotoviteľa prístup do VS MVSR, Help Desk-u a na pracoviská
+zákazníka, a to aj mimo pracovnej doby a v dňoch pracovného voľna v čase dohodnutom oboma stranami.
+8.3. Objednávateľ do 24 hodín od obdŕžania žiadosti zhotoviteľa zabezpečí, že v rozsahu nevyhnutnom na riadne a včasné vykonanie Diela podľa tejto Zmluvy zhotoviteľom budú zhotoviteľovi k dispozícii zamestnanci objednávateľa, ktorí budú zabezpečovať obsluhu relevantného APV ako aj administrátori systémov a aplikácii dotknutých plnením tejto Zmluvy
+zo strany zhotoviteľa. Zhotoviteľ môže požiadať o zabezpečenie prítomnosti zamestnancov objednávateľa mimo pracovnej doby a v dňoch pracovného voľna len v nevyhnutných
+prípadoch a aspoň tri (3) pracovné dni vopred, pokiaľ sa kontaktné osoby zainteresovaných zmluvných strán nedohodnú inak.
+8.4. Objednávateľ je povinný informovať zhotoviteľa o všetkých skutočnostiach, ktoré sú významné pre splnenie povinností zmluvných strán podľa tejto Zmluvy, najmä o skutočnostiach, ktoré môžu byť významné pre rozhodovanie zhotoviteľa v súvislosti s vykonaním
+Diela podľa tejto Zmluvy a/alebo o dôvodoch, ktoré objednávateľovi bránia riadne a včas
+splniť svoje povinnosti podľa tejto Zmluvy, a to do 48 hodín odkedy sa ich objednávateľ
+dozvedel.
+
+9 9 PRÁVA
+
+DUŠEVNÉHO VLASTNÍCTVA K DIELU
+
+9.1. K Dielu vrátane Dokumentácie vytvorenému pre objednávateľa na základe tejto Zmluvy a
+spĺňajúcemu pojmové znaky autorského diela v zmysle Autorského zákona č. 185/2015
+Z.z. v znení neskorších predpisov (ďalej len „Autorský zákon“), poskytuje zhotoviteľ objednávateľovi ku dňu podpisu príslušného Akceptačného protokolu práva uvedené v bodoch
+9.2. až 9.7. tohto článku.
+9.2. Objednávateľ je oprávnený použiť Dielo na účel, pre ktorý bolo vytvorené počas celej doby
+trvania majetkových práv k Dielu na celom území Slovenskej republiky a členských štátov
+Európskej únie ako aj právo na akékoľvek použitie Diela ako celku i jeho jednotlivých častí
+v neobmedzenom rozsahu, ktorý pre zamedzenie pochybností zahŕňa všetky spôsoby použitia Diela podľa § 19 ods. 4 Autorského zákona. Takýmto použitím Diela sa rozumie najmä, nie však výlučne:
+ZMLUVA O DIELO
+
+STRANA
+
+6
+
+|
+
+9.2.1. vyhotovenie neobmedzeného množstva rozmnožením Diela vrátane Dokumentácie,
+9.2.2. verejné rozširovanie originálu Diela vrátane Dokumentácie a/alebo ich rozmnoženín vypožičaním, nájmom, predajom alebo inou formou prevodu vlastníckych práv,
+ako aj verejný prenos Diela vrátane Dokumentácie, a to tak samotným objednávateľom ako aj osobami ním poverenými,
+9.2.3. spracovanie Diela,
+9.2.4. spojenie Diela s iným Dielom (počítačovým programom).
+9.3. Objednávateľ je ďalej oprávnený a zhotoviteľ mu touto Zmluvou udeľuje súhlas aj na:
+9.3.1. akúkoľvek zmenu Diela alebo iný zásah do Diela,
+9.3.2. spracovanie, zmeny, úpravy alebo preklad Diela (tak zdrojového, ako aj strojového
+kódu Diela) samotným objednávateľom alebo objednávateľom poverenými tretími
+osobami.
+9.3.3. dokončenie Diela.
+9.4. Práva objednávateľa podľa tohto článku zahŕňajú aj výslovný súhlas zhotoviteľa na udelenie sublicencie na použitie Diela vrátane Dokumentácie akejkoľvek tretej osobe, ako aj
+súhlas zhotoviteľa na postúpenie práv podľa tohto článku tretej osobe verejnej správy,
+a to vždy bez akéhokoľvek ďalšieho súhlasu zhotoviteľa.
+9.5. Zhotoviteľ je povinný pri podpise Akceptačného protokolu podľa bodu 4.3.2. písm. c) tejto
+Zmluvy dodať objednávateľovi aktuálnu verziu zdrojových kódov Diela s popisom, pričom
+zhotoviteľ bude ďalej povinný odovzdať objednávateľovi aj najaktuálnejšiu verziu zdrojových kódov Diela s popisom existujúcich ku dňu skončenia záručnej doby celého Diela, a to
+najneskôr do 30 dní od uplynutia záručnej doby na poslednú časť Diela.
+9.6. Odmena zhotoviteľa za poskytnutie práv a udelenie súhlasov podľa tohto článku k Dielu
+vrátane Dokumentácie je zahrnutá v zmluvnej cene podľa článku 11 tejto Zmluvy.
+9.7. Zhotoviteľ týmto potvrdzuje, že je oprávnený poskytnúť objednávateľovi oprávnenia a
+súhlasy v zmysle vyššie uvedených bodov tohto článku, a že tým nedochádza k porušeniu
+práv tretích osôb.
+
+10 10 NEBEZPEČENSTVO ŠKODY A VLASTNÍCKE PRÁVO
+Nebezpečenstvo škody na Diele, resp. jeho časti uvedenej v článku 2 tejto Zmluvy ako aj vlastnícke právo k nemu prechádza na objednávateľa dňom akceptácie Diela, resp. jeho časti potvrdenej zo strany objednávateľa formou podpisu Akceptačného protokolu.
+
+11 11 CENA ZA DIELO
+11.1.Zmluvné strany sa v súlade so zákonom Národnej rady Slovenskej republiky č. 18/1996 Z.
+z. a vyhlášky Ministerstva financií SR č. 87/1996 Z. z., ktorou sa vykonáva zákon Národnej
+rady Slovenskej republiky č. 18/1996 Z. z dohodli na celkovej cene Diela, ktoré je špecifikované v článku 2 tejto Zmluvy, nasledovne:
+vrátane 20% DPH:
+907 200,00 EUR
+(slovom deväťstosedemtisíc dvesto EUR ).
+ZMLUVA O DIELO
+
+STRANA
+
+7
+
+|
+
+z toho DPH:
+celková cena bez DPH:
+
+151 200,00 EUR
+756 000,00 EUR
+
+Cena za realizáciu predmetu tejto Zmluvy je konečná a je ju možné meniť len v prípade
+zmeny sadzby dane z pridanej hodnoty.
+11.2. Cena podľa bodu 11.1. tohto článku zahŕňa najmä:
+a) cenu a náklady vykonania Diela,
+b) odmena za poskytnutie práv a udelenie súhlasov podľa čl. 9 tejto Zmluvy,
+c) cenu a náklady za vykonávanie Telefonickej podpory podľa čl. 14 tejto Zmluvy,
+d) všetky ďalšie náklady, ktoré zhotoviteľovi vzniknú za účelom riadneho splnenia povinností zhotoviteľa podľa tejto Zmluvy.
+
+12 12 PLATOBNÉ PODMIENKY A FAKTURÁCIA
+12.1. Zhotoviteľ je oprávnený fakturovať cenu v zmysle článku 11 bod 11.1 tejto zmluvy po
+častiach (fakturačných míľnikoch) uvedených v Prílohe č. 3 tejto Zmluvy, pričom nárok
+na zaplatenie ceny vzniká zhotoviteľovi:
+a) v Etape I. po akceptácii plnení v zmysle bodov 4.2. a 4.3.2. písm. b) tejto Zmluvy,
+b) v Etape II. po akceptácii plnení v zmysle bodov 4.2. a 4.3.2. písm. b) a c) tejto Zmluvy.
+Cena bude zhotoviteľovi zaplatená v zmysle tohto bodu, na základe faktúry vystavenej
+zhotoviteľom, ktorá bude obsahovať náležitosti daňového dokladu v zmysle zákona č.
+222/2004 Z .z. o dani z pridanej hodnoty v znení neskorších predpisov.
+12.2. Vystavenú faktúru je zhotoviteľ povinný doručiť na túto adresu:
+Ministerstvo vnútra Slovenskej republiky
+Sekcia ekonomiky
+Pribinova 2
+812 72 Bratislava
+12.3. Splatnosť faktúry je tridsať (30) dní odo dňa doručenia faktúry objednávateľovi zo strany
+zhotoviteľa za predpokladu, že doručená faktúra bude spĺňať všetky zákonné náležitosti.
+12.4. V prípade, že doručená faktúra nebude spĺňať všetky zákonné náležitosti, alebo bude
+vyplnená nesprávne objednávateľ je oprávnený vrátiť faktúru zhotoviteľovi, pričom nová
+tridsaťdňová (30) lehota splatnosti faktúry začne plynúť dňom doručenia opravenej faktúry vystavenej zhotoviteľom objednávateľovi.
+12.5. Obálka, v ktorej bude faktúra doručovaná objednávateľovi, musí byť označená nápisom
+„FAKTÚRA". Faktúru je potrebné zaslať poštou ako doporučenú zásielku s doručenkou
+alebo kuriérom alebo doručiť osobne na adresu objednávateľa podľa bodu 12.2. tohto
+článku.
+12.6. Cena bude zaplatená objednávateľom bezhotovostným prevodom na bankový účet zhotoviteľa uvedený v záhlaví tejto zmluvy v časti Zhotoviteľ. Náklady banky príjemcu platby, ktoré sú spojené s prevodom týchto platieb, hradí príjemca platby. Cena sa považuje
+za uhradenú dňom odpísania finančných prostriedkov z účtu objednávateľa uvedeného
+v záhlaví tejto zmluvy v časti Objednávateľ.
+
+ZMLUVA O DIELO
+
+STRANA
+
+8
+
+|
+
+13 13 ZODPOVEDNOSŤ ZA VADY DIELA
+13.1. Dielo, alebo jeho časť má vady, ak nebolo vyhotovené a/alebo dodané zhotoviteľom objednávateľovi v súlade s podmienkami uvedenými v tejto Zmluve alebo nie je v súlade so
+špecifikáciami uvedenými vo funkčnom a technickom návrhu zmien akceptovanom objednávateľom. Vady je objednávateľ povinný oznámiť zhotoviteľovi do dvadsiatich (20)
+pracovných dní po tom, čo ich objednávateľ zistil, avšak najneskôr do uplynutia záručnej
+doby v trvaní dvoch (2) rokov od akceptácie príslušnej etapy vykonania Diela, ktorá má
+vady (t.j. uvedená záručná doba plynie osobitne pre plnenia realizované v Etape I.
+a Etape II. v zmysle bodu 2.3. tejto Zmluvy). Vady diela musia byť oznamované prostredníctvom ServiceDesku MVSR, pričom zhotoviteľ je povinný označovať postup odstraňovania vád bez zbytočných odkladov. Integrácia na prostredie Service Desku nie je predmetom plnenia tejto Zmluvy.
+13.2. Zhotoviteľ poskytuje na Dielo a jeho časti záruku (na súlad Diela a jeho častí so špecifikáciami uvedenými v tejto Zmluve a vo funkčnom a technickom návrhu zmien akceptovanom objednávateľom) v nižšie uvedenom rozsahu, ktorému zodpovedá právo objednávateľa požadovať od zhotoviteľa, aby na svoje náklady a bez zbytočného odkladu odstránil vady, a to:
+a) v prípade chýbajúcich častí Diela, dodaním chýbajúcich častí Diela; v prípade APV,
+dodaním chýbajúcich častí APV a ich implementáciou,
+b) v prípade iných vád:
+(i) opravou vadných častí Diela alebo jeho časti, v prípade APV opravou vadných
+častí APV a ich implementáciou alebo
+(ii) náhradou vadných častí Diela alebo jeho časti, náhradnými časťami Diela alebo
+jeho časti spĺňajúcimi špecifikácie podľa tejto Zmluvy, v prípade APV náhradou
+vadných častí APV a ich implementáciou; náhradné časti Diela alebo jeho časti
+je zhotoviteľ povinný dodať na svoje náklady.
+Voľba medzi (i) a (ii) patrí zhotoviteľovi.
+Povinnosťou zhotoviteľa odstrániť vady Diela bez zbytočného odkladu sa rozumie, že
+zhotoviteľ:
+(i) vadu kategórie A odstráni alebo navrhne náhradné riešenie na jej odstránenie do
+24 hodín od jej nahlásenia objednávateľom,
+(ii) vadu kategórie B odstráni do 1 týždňa od jej nahlásenia objednávateľom,
+(iii) vadu kategórie C odstráni do 1 mesiaca od jej nahlásenia objednávateľom.
+13.3. V prípade, že zhotoviteľ neodstráni vady APV v lehote podľa bodu 13.2. tohto článku bude objednávateľ oprávnený:
+(i) požadovať naďalej odstránenie vady v lehote predĺženej objednávateľom, a to aj
+opakovane, alebo
+(ii) odstrániť vady sám alebo ich nechať odstrániť tretej osobe a požadovať od zhotoviteľa náhradu primeraných nákladov takéhoto odstránenia vád do výšky obvyklej
+v mieste a čase odstránenia vady.
+Voľba medzi nárokmi (i) až (ii) patrí objednávateľovi.
+13.4. Zhotoviteľ za oznámené vady Diela nezodpovedá, ak bude zistené, že vada bola spôsobená neodbornou obsluhou alebo neodbornou údržbou zo strany objednávateľa, prípadne ním poverenej osoby. Práva objednávateľa zo záruky podľa bodov 13.1. až 13.3.
+tohto článku zanikajú v prípade, že bol vykonaný zásah do zdrojového kódu APV ES CO,
+resp. jeho časti objednávateľom alebo treťou osobou bez predchádzajúceho písomného
+súhlasu zhotoviteľa s tým, že záruka zaniká ku dňu vykonania predmetného zásahu.
+V prípadoch uvedených v prvej a druhej vete tohto bodu 13.4. môžu byť vady Diela odZMLUVA O DIELO
+
+STRANA
+
+9
+
+|
+
+stránené na náklady objednávateľa, a to na základe osobitnej dohody oboch zmluvných
+strán.
+13.5. Právne vady Diela alebo jeho časti je objednávateľ povinný oznámiť zhotoviteľovi písomne do dvadsiatich (20) pracovných dní po tom, čo sa dozvedel o uplatnení práva tretej osoby.
+13.6. Ak má akákoľvek časť Diela akúkoľvek právnu vadu:
+13.6.1. má objednávateľ vždy právo požadovať od zhotoviteľa, aby bez zbytočného odkladu,
+najneskôr do tridsiatich (30) pracovných dní od obdržania oznámenia objednávateľa o
+právnej vade:
+a) na svoje náklady odstránil právne vady, alebo
+b) aby vadnú časť Diela vymenil alebo modifikoval tak, aby Dielo alebo jeho časť
+nemali právne vady.
+Pre zamedzenie pochybností sa stanovuje, že voľba medzi a) a b) patrí zhotoviteľovi.
+13.6.2. v prípade, že zhotoviteľ neodstráni právne vady Diela alebo jeho časti v lehote podľa
+bodu 13.6.1. tohto bodu, bude objednávateľ oprávnený:
+a) požadovať naďalej odstránenie právnej vady v predĺženej lehote určenej objednávateľom, a to aj opakovane alebo
+b) odstrániť právne vady sám alebo ich nechať odstrániť tretej osobe a požadovať
+od zhotoviteľa náhradu primeraných nákladov takéhoto odstránenia právnych
+vád do výšky obvyklej v mieste a čase odstránenia právnej vady.
+Voľba medzi nárokmi a) a b) patrí výlučne objednávateľovi.
+
+14 14 TELEFONICKÁ PODPORA
+14.1. Zhotoviteľ sa zaväzuje počas trvania záručnej doby poskytovať objednávateľovi telefonickú podporu ohľadom APV, t.j. poskytovať rady, konzultácie a asistencie s cieľom zabezpečenia fungovania Diela po implementácii APV v súlade so špecifikáciami uvedenými v
+tejto Zmluve a dokumentácii APV, a to telefonicky na telefónnom čísle zhotoviteľa +4212-5341 1441 alebo prostredníctvom e-mailu na emailovej adrese zhotoviteľa ohlasovna.support@gratex.com (ďalej len „Telefonická podpora").
+Všetky náklady spojené s činnosťami zhotoviteľa podľa bodu 14.1. a 14.2. tohto článku
+počas záručnej doby znáša zhotoviteľ. Cena za vykonanie činností zhotoviteľom podľa
+bodov 14.1. a 14.2. tohto článku počas záručnej doby je zahrnutá v cene podľa čl. 11
+bod 11.1. tejto Zmluvy.
+14.2. Zhotoviteľ bude poskytovať objednávateľovi Telefonickú podporu online každý pracovný
+deň v čase od 7.30 hod. do 16.00 hod., a to najneskôr do 12 hod. od obdržania požiadavky objednávateľa o poskytnutie Telefonickej podpory.
+
+15 15 ORGANIZAČNÉ ZABEZPEČENIE PROJEKTU
+15.1. Zmluvné strany sa dohodli, že pre riadenie a koordináciu zhotovenia Diela určujú nasledovné kontaktné osoby:
+a) Za zhotoviteľa
+Martin Blichár
+b) Za objednávateľa:
+Andrej Bronda
+
+ZMLUVA O DIELO
+
+STRANA
+
+10
+
+|
+
+15.2. Kontaktné osoby budú plniť hlavne nasledujúce úlohy:
+a) organizačne zabezpečovať všetky činnosti súvisiace s plnením tejto Zmluvy,
+b) koordinovať činnosť zmluvných strán pri plnení tejto Zmluvy,
+c) informovať na vyžiadanie zmluvnej strany o postupe plnenia tejto Zmluvy,
+d) kontrolovať priebeh a postup plnenia tejto Zmluvy,
+e) pripravovať návrhy potrebných zmien a dodatkov tejto Zmluvy,
+f) podpisovať protokoly o odovzdaní a prevzatí jednotlivých plnení ako aj Akceptačné
+protokoly,
+g) vykonávať ďalšie právomoci im zverené touto Zmluvou.
+15.3. V prípade neprítomnosti kontaktnej osoby trvajúcej viac ako 14 dní sú zmluvné strany
+povinné určiť jej zástupcu po dobu trvania takejto neprítomnosti, prípadne iných prekážok v práci na strane kontaktnej osoby. Obe zmluvné strany sú oprávnené zmeniť svoju
+kontaktnú osobu formou písomného oznámenia doručeného druhej zmluvnej strane.
+
+16 16 POVINNOSŤ MLČANLIVOSTI
+16.1. Obidve zmluvné strany sa zaväzujú zachovávať mlčanlivosť o všetkých skutočnostiach, informáciách a údajoch, ktoré si navzájom poskytli pri rokovaní o uzavretí tejto Zmluvy,
+ako aj pri realizácii tejto Zmluvy a zaväzujú sa, že tieto skutočnosti, informácie a údaje
+nezverejnia ani nesprístupnia žiadnym spôsobom tretím osobám bez predchádzajúceho
+písomného súhlasu druhej zmluvnej strany.
+16.2. Povinnosť mlčanlivosti podľa bodu 16.1. tohto článku sa nevzťahuje na:
+a)
+zverejnenie a sprístupnenie skutočností, informácií a údajov tretím osobám, v rozsahu v ktorom to vyžadujú všeobecne záväzné právne predpisy platné na území
+Slovenskej republiky,
+b)
+sprístupnenie skutočností, informácií a údajov zo strany objednávateľa iným štátnym orgánom Slovenskej republiky a/alebo štátnym rozpočtovým a/alebo príspevkovým organizáciám Slovenskej republiky a/alebo obciam a/alebo vyšším
+územným celkom a/alebo iným osobám, na ktoré bude prenesený výkon štátnej
+správy v oblasti predmetných IS a/alebo tretím osobám, ktorým objednávateľ v
+prípade potreby poskytne informácie, ktorých realizácia je predmetom tejto
+Zmluvy,
+c)
+sprístupnenie informácií subdodávateľom zhotoviteľa, ktoré je nevyhnutné za
+účelom splnenia povinností zhotoviteľa podľa tejto Zmluvy; zhotoviteľ je v takomto prípade pred poskytnutím údajov povinný zaviazať príslušného subdodávateľa
+povinnosťou mlčanlivosti ako aj povinnosťou, aby subdodávateľ zaviazal svojich
+zamestnancov, ktorí sa zúčastnia plnenia povinností zhotoviteľa podľa tejto Zmluvy, takisto povinnosťou mlčanlivosti,
+d)
+sprístupnenie informácií zamestnancom zhotoviteľa, ktoré je nevyhnutné za účelom splnenia povinností zhotoviteľa podľa tejto Zmluvy; zhotoviteľ je v takomto
+prípade pred poskytnutím údajov povinný zaviazať príslušného zamestnanca povinnosťou mlčanlivosti.
+16.3. Zhotoviteľ je povinný v lehote štyroch (4) pracovných dní od obdržania výzvy objednávateľa predložiť objednávateľovi doklad o tom, že pred poskytnutím údajov podľa ods. 2
+písm. c) a d) tohto článku Zmluvy bol príslušný subdodávateľ a/alebo zamestnanec zaviazaný povinnosťou mlčanlivosti.
+
+ZMLUVA O DIELO
+
+STRANA
+
+11
+
+|
+
+16.4. Zmluvná strana, ktorá chce oznámiť skutočnosti, informácie a údaje tretím osobám podľa bodu 16.2. tohto článku Zmluvy, je povinná o tom štyri (4) pracovné dní vopred písomne informovať druhú zmluvnú stranu s uvedením rozsahu skutočností, informácií a
+údajov, ktoré sa majú oznámiť, ako aj názvu osoby, ktorej sa tieto skutočnosti, informácie a údaje majú oznámiť, ak to nie je v rozpore so všeobecne záväznými právnymi predpismi.
+16.5. Informácie týkajúce sa bezpečnostnej infraštruktúry a dát, ktoré sú súčasťou alebo súvisia s predmetnými ES CO v stave pred alebo po implementácii APV môže zhotoviteľ
+sprístupniť svojim zamestnancom alebo subdodávateľom alebo akýmkoľvek iným tretím
+osobám len s predchádzajúcim písomným súhlasom objednávateľa. Na tieto informácie
+sa neaplikuje bod 16.2. písm. c) a d) tohto článku.
+16.6. V prípade, ak sa zamestnanci zhotoviteľa pri plnení povinností podľa tejto Zmluvy oboznámia s utajovanými skutočnosťami, budú povinní riadiť sa príslušnými ustanoveniami
+zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov.
+16.7. Povinnosť mlčanlivosti podľa tohto článku trvá aj po splnení povinností podľa tejto Zmluvy ako aj po zrušení tejto Zmluvy.
+
+17 17 KOREŠPONDENCIA
+17.1. Ak v tejto Zmluve nie je uvedené inak, akákoľvek korešpondencia medzi zmluvnými stranami v súvislosti s touto Zmluvou musí mať písomnú formu a musí sa doručiť poštou ako
+doporučená zásielka s doručenkou alebo kuriérom alebo faxom alebo osobne s vyžiadaním potvrdenia o prijatí na nasledujúce adresy:
+a) v prípade objednávateľa:
+Ministerstvo vnútra Slovenskej republiky
+sekcia informatiky, telekomunikácií a bezpečnosti MV SR
+Pribinova 2
+812 72 Bratislava
+fax: +421 9610 44008
+b) v prípade zhotoviteľa:
+Gratex International, a.s.
+Galvaniho 17/C
+821 04 Bratislava
+Tel: +421 2 5341 1441
+fax: +421-2-5341 1522
+alebo na adresy oznámené podľa bodu 17.2. tohto článku.
+17.2. Každá zmluvná strana môže zmeniť adresu pre doručovanie korešpondencie podľa bodu
+17.1. tohto článku písomným oznámením druhej zmluvnej strane.
+17.3. Ak v tejto Zmluve nie je uvedené inak, akákoľvek korešpondencia a dokumenty súvisiace
+s touto Zmluvou musia byť doručované adresátovi v slovenskom jazyku alebo s úradne
+overeným prekladom do slovenského jazyka. Náklady spojené s vyhotovením korešpondencie a dokumentov v slovenskom jazyku a/alebo náklady spojené s úradným prekladom korešpondencie a dokumentov do slovenského jazyka znáša odosielateľ korešpondencie alebo dokumentov.
+
+ZMLUVA O DIELO
+
+STRANA
+
+12
+
+|
+
+17.4. V každej korešpondencii alebo dokumente vyhotovenom v súvislosti s touto Zmluvou
+uvedie zmluvná strana, ktorá ich vyhotovuje, číslo tejto Zmluvy.
+
+18 18 VYŠŠIA MOC
+18.1. Za okolnosti vyššej moci sa považujú okolnosti, ktoré nastali nezávisle od vôle povinnej
+strany a bránia jej v splnení jej povinností, ak nemožno rozumne predpokladať, že by povinná strana túto prekážku alebo jej následky odvrátila alebo prekonala, a že by v čase
+vzniku záväzku túto prekážku predvídala, napr. vojny, živelné katastrofy značného rozsahu majúce súvislosť s predmetom Zmluvy, štrajky a pod. Za vyššiu moc sa však nepovažujú napr. výpadky vo výrobe, nesplnenie alebo oneskorenie dodávok od subdodávateľov a zásahy úradov alebo nezískanie úradných povolení.
+18.2. Nemožnosť zmluvnej strany plniť svoje povinnosti podľa tejto Zmluvy v dôsledku vyššej
+moci nebude považovaná za porušenie tejto Zmluvy, ak zmluvná strana dotknutá vyššou
+mocou: a) prijala všetky rozumné opatrenia a vynaložila náležitú starostlivosť s cieľom
+splniť svoje povinnosti podľa tejto Zmluvy, a b) bez zbytočného odkladu, najneskôr však
+do 5 pracovných dní po vzniku vyššej moci, písomne oznámila druhej zmluvnej strane
+existenciu vyššej moci. Zmluvné strany sa ďalej dohodli na vylúčení aplikácie § 300 Obchodného zákonníka.
+18.3. Zmluvná strana, ktorej bolo znemožnené plniť svoje povinnosti podľa tejto Zmluvy v dôsledku vyššej moci, za predpokladu splnenia podmienok uvedených v písm.a) a b) bodu
+18.2. tohto článku nezodpovedá za škody takto vzniknuté.
+18.4. Za predpokladu splnenia podmienok podľa písm. a) a b) bodu 18.2 tohto článku sa lehota na splnenie povinnosti zmluvnej strany predlžuje o čas, počas ktorého je jej znemožnené vyššou mocou splniť túto svoju povinnosť.
+18.5. Body 18.2. a 18.4. tohto článku sa neuplatnia, ak vyššia moc vznikla až v čase, keď povinná strana bola v omeškaní s plnením svojej povinnosti.
+18.6. Zmluvná strana dotknutá vyššou mocou je povinná oznámiť druhej zmluvnej strane zánik
+vyššej moci do 5 pracovných dní od jej zániku.
+
+19 19 RIEŠENIE SPOROV
+19.1. V prípade vzniku sporu z tejto Zmluvy, vrátane sporu o jej platnosť, výklad alebo zrušenie,
+zmluvné strany vyvinú maximálne úsilie s cieľom vyriešiť spor dohodou medzi zmluvnými
+stranami. Ak sa zmluvným stranám spor podľa predchádzajúcej vety nepodarí vyriešiť
+dohodou do 20 pracovných dní od obdržania žiadosti jednej zmluvnej strany o vyriešenie
+sporu dohodou druhou zmluvnou stranou, každá zmluvná strana bude mať právo požiadať o riešenie sporu len vecne a miestne príslušný všeobecný súd Slovenskej republiky.
+
+20 20 RÔZNE
+20.1. Na akýkoľvek prevod práv a povinností vyplývajúcich z tejto Zmluvy a na jej základe vznikajúcich ako aj na akýkoľvek prevod práv a povinností, ktoré vzniknú zmluvným stranám
+v dôsledku zrušenia tejto Zmluvy, resp. jej časti na tretiu osobu je možný len s predchádzajúcim písomným súhlasom druhej zmluvnej strany. Každá zmluvná strana má právo aj
+bez udania dôvodu neudeliť takýto súhlas.
+
+ZMLUVA O DIELO
+
+STRANA
+
+13
+
+|
+
+20.2. Zhotoviteľ môže poveriť určitú osobu ako subdodávateľa za predpokladu, že tohto subdodávateľa pred poskytnutím skutočností, informácií a údajov súvisiacich s touto Zmluvou zaviaže povinnosťami v zmysle či. 16 bodu 16.2. písm. c) tejto Zmluvy.
+20.3. V prípadoch, keď podľa ustanovení tejto Zmluvy vzniká zmluvnej strane povinnosť zaplatiť zmluvnú pokutu, je poškodená zmluvná strana zároveň oprávnená požadovať náhradu škody spôsobenú porušením povinností, na ktorú sa vzťahuje zmluvná pokuta, ktorá
+prevyšuje výšku dohodnutej zmluvnej pokuty.
+20.4. Ak sa v tejto Zmluve uvádza oprávnenie jednej zo zmluvných strán odstúpiť od celej tejto
+Zmluvy, toto oprávnenie zahŕňa aj právo príslušnej zmluvnej strany odstúpiť od ktorejkoľvek časti tejto Zmluvy podľa rozhodnutia oprávnenej zmluvnej strany.
+20.5. Zrušenie tejto Zmluvy sa nedotýka nároku na náhradu škody vzniknutej porušením tejto
+Zmluvy, nároku na zaplatenie zmluvnej pokuty podľa ustanovení tejto Zmluvy a ďalej
+ustanovení tejto Zmluvy, ktoré vzhľadom na svoju povahu majú trvať aj po ukončení
+Zmluvy.
+20.6. Nároky objednávateľa na náhradu škody spôsobenej porušením povinností zhotoviteľa
+podľa tejto Zmluvy sú obmedzené do výšky sumy 378 000,00 EUR.
+20.7. Nároky zhotoviteľa na náhradu škody spôsobenej porušením povinností objednávateľa
+podľa tejto Zmluvy sú obmedzené do výšky sumy 378 000,00 EUR s výnimkou nárokov
+Objednávateľa podľa článku 13 bod 13.5. a 13.6.
+20.8. Nároky objednávateľa na zmluvnú pokutu v dôsledku porušenia povinností zhotoviteľa
+podľa tejto Zmluvy sú limitované sumou 189 000,00 EUR.
+20.9. Nároky zhotoviteľa na zmluvnú pokutu v dôsledku porušenia povinností objednávateľa
+podľa tejto Zmluvy sú limitované sumou 189 000,00 EUR.
+
+21 OSOBITNÉ USTANOVENIA VO VZŤAHU K SUBDODÁVATEĽOM
+
+21.1. V Prílohe č. 4 sú uvedené údaje o všetkých známych subdodávateľoch zhotoviteľa, ktorí
+sú známi v čase uzavretia tejto Zmluvy, a údaje o osobe oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko, adresa pobytu, dátum narodenia.
+21.2. Zhotoviteľ je povinný objednávateľovi oznámiť akúkoľvek zmenu subdodávateľov uvedených v Prílohe č. 4 tejto Zmluvy, a to bezodkladne.
+21.3. V prípade zmeny subdodávateľa je zhotoviteľ povinný najneskôr do 5 pracovných dní
+odo dňa zmeny subdodávateľa predložiť objednávateľovi informácie o novom subdodávateľovi v rozsahu údajov podľa bodu 21.1. tohto článku a predmety subdodávok, pričom pri výbere subdodávateľa musí zhotoviteľ postupovať tak, aby vynaložené náklady
+na zabezpečenie plnenia na základe zmluvy o subdodávke boli primerané jeho kvalite a
+cene. Subdodávateľ alebo subdodávateľ podľa osobitného predpisu, ktorý podľa § 11
+ods. 1 zákona č. 343/2015 Z. z. má povinnosť zapisovať sa do registra partnerov verejného sektora, musí byť zapísaný v registri partnerov verejného sektora.
+21.4. Zhotoviteľ zodpovedá za plnenie zmluvy o subdodávke subdodávateľom tak, ako keby
+plnenie realizované na základe tejto zmluvy realizoval sám. Zhotoviteľ zodpovedá za odbornú starostlivosť pri výbere subdodávateľa, ako aj za výsledok činnosti/plnenia vykonanej/vykonaného na základe zmluvy o subdodávke.
+
+ZMLUVA O DIELO
+
+STRANA
+
+14
+
+|
+
+22 SANKCIE
+
+22.1. V prípade, ak je zhotoviteľ v omeškaní s dodaním častí Diela v lehotách podľa Prílohy č. 2
+tejto Zmluvy, je zhotoviteľ povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške
+0,05 % z celkovej ceny tej etapy Diela podľa Prílohy č. 3 tejto Zmluvy, s dodávkou ktorej
+je zhotoviteľ v omeškaní, a to za každý aj začatý deň omeškania.
+22.2. V prípade, že zhotoviteľ neodstráni vady Diela ani v lehote predĺženej objednávateľom
+podľa článku 13 bod 13.3 tejto Zmluvy, objednávateľ je oprávnený požadovať od zhotoviteľa zmluvnú pokutu vo výške 0,05% z celkovej ceny tej etapy Diela podľa Prílohy č. 3
+tejto Zmluvy, ku ktorej sa vada vzťahuje, a to za každý aj začatý deň omeškania.
+22.3. Zmluvná strana, ktorá poruší svoju povinnosť podľa článku 16 bod 16.1. tejto zmluvy,
+bude povinná zaplatiť druhej zmluvnej strane za každé takéto porušenie zmluvnú pokutu
+vo výške 10 000,00 EUR.
+22.4. Zmluvná strana, ktorá poruší svoju povinnosť podľa článku 16 bod 16.4. tejto zmluvy,
+bude povinná zaplatiť druhej zmluvnej strane za každé takéto porušenie zmluvnú pokutu
+vo výške 3 500 EUR.
+22.5. V prípade, že je objednávateľ v omeškaní s úhradou splatnej faktúry, bude povinný zaplatiť zhotoviteľovi úrok z omeškania v zákonom stanovenej výške z neuhradenej časti
+ceny Diela za každý ukončený deň omeškania s jej uhradením.
+
+21 23. SKONČENIE
+
+ZMLUVY
+
+23.1. Túto Zmluvu je možné skončiť:
+a) písomnou dohodou zmluvných strán,
+b) písomným odstúpením.
+23.2. Zhotoviteľ má právo písomne odstúpiť od tejto Zmluvy, ak objednávateľ bude v omeškaní viac ako štyridsať (40) dní so zaplatením splatnej faktúry a nezabezpečí vykonanie nápravy ani v primeranej lehote po doručení písomnej výzvy zhotoviteľa na nápravu.
+23.3. Objednávateľ má právo písomne odstúpiť od tejto Zmluvy, ak zhotoviteľ bude v omeškaní s riadnym a včasným splnením ktorejkoľvek povinnosti podľa tejto Zmluvy za podmienok uvedených v tejto Zmluve o viac ako štyridsať (40) dní a nezabezpečí vykonanie
+nápravy ani v primeranej lehote po doručení písomnej výzvy objednávateľa na nápravu.
+23.4. Objednávateľ má ďalej právo odstúpiť od tejto Zmluvy, ak:
+23.4.1. zhotoviteľ a jeho subdodávatelia nebol/neboli v čase uzavretia tejto Zmluvy zapísaný/zapísaní v registri partnerov verejného sektora alebo ak bol/boli vymazaný/vymazaní z registra partnerov verejného sektora;
+23.4.2. došlo k splneniu iných zákonných dôvodov na odstúpenie od tejto Zmluvy podľa
+§ 19 zákona č. 343/2015 Z. z.;
+23.4.3. zhotoviteľ závažne koná v rozpore s touto Zmluvou a/alebo všeobecne záväznými právnymi predpismi platnými na území SR a na písomnú výzvu objednávateľa toto konanie a jeho následky v určenej primeranej lehote neodstráni;
+23.4.4. proti zhotoviteľovi sa začalo konkurzné konanie alebo reštrukturalizácia;
+23.4.5. zhotoviteľ vstúpil do likvidácie;
+
+ZMLUVA O DIELO
+
+STRANA
+
+15
+
+|
+
+23.4.6. pre zhotoviteľa sa stane plnenie tejto Zmluvy úplne nemožným.
+23.5. Odstúpením od Zmluvy sa táto Zmluva neruší od samého začiatku, ale táto Zmluva zaniká ku dňu doručenia oznámenia o odstúpení od Zmluvy druhej zmluvnej strane s tým, že
+zmluvné strany nebudú povinné vrátiť plnenia im už poskytnuté druhou zmluvnou stranou pred odstúpením od tejto Zmluvy.
+
+22 24 ZÁVEREČNÉ USTANOVENIA
+24.1. Táto Zmluva nadobúda platnosť dňom jej podpisu obidvoma zmluvnými stranami a
+účinnosť dňom nasledujúcom po dni jej zverejnenia v Centrálnom registri zmlúv, ktorý
+vedie Úrad vlády SR, v súlade so zákonom č.546/2010 Z. z., ktorým sa dopĺňa zákon
+č.40/1964 Zb. Občiansky zákonník v znení neskorších predpisov a ktorými sa menia a dopĺňajú niektoré zákony. Zmluvu zverejní objednávateľ.
+24.2. Zmluva a právne vzťahy z nej vyplývajúce sa riadia príslušnými ustanoveniami Obchodného zákonníka, zákona č. 185/2015 Z. z. a ostatných všeobecne záväzných právnych
+predpisov platných na území Slovenskej republiky.
+24.3. Všetky zmeny a doplnky tejto Zmluvy musia byť uskutočnené len formou očíslovaných písomných dodatkov a musia byť podpísané obidvoma zmluvnými stranami. Takto podpísané dodatky sa stávajú neoddeliteľnou súčasťou tejto Zmluvy.
+24.3. Táto Zmluva je vyhotovená v štyroch (4) rovnopisoch s platnosťou originálu v slovenskom jazyku, z ktorých každá zmluvnú strana obdrží dva (2) rovnopisy.
+24.4. Neoddeliteľnou súčasťou tejto Zmluvy sú:
+Príloha č. 1 – Špecifikácia úprav ES CO
+Príloha č. 2 – Harmonogram
+Príloha č. 3 – Špecifikácia ceny a platobných míľnikov
+Príloha č. 4 – Zoznam subdodávateľov
+23.5. Zmluvné strany vyhlasujú, že si túto Zmluvu pred jej podpisom prečítali, jej obsahu porozumeli a na potvrdenie toho, že obsah tejto Zmluvy zodpovedá ich skutočnej a slobodnej vôli, ju vlastnoručne podpísali.
+V BRATISLAVE DŇA:
+
+V BRATISLAVE DŇA:
+
+Ing. Jozef Kožár
+
+Ing. Ondrej Varačka
+
+predseda predstavenstva
+
+generálny tajomník služobného úradu MV SR
+na základe plnomocenstva č.p.: KM-OPS4-2018/001604-117
+zo dňa 30. 04. 2018
+
+Ing. Martin Polek
+člen predstavenstva
+
+ZMLUVA O DIELO
+
+STRANA
+
+16
+
+|
+
+PRÍLOHA č. 1 – ŠPECIFIKÁCIA ÚPRAV ES CO
+I. ETAPA
+
+I.1 Agenda - Zrušenie kontroly dĺžky prechodného pobytu (91d, 5 rok):
+Z novely zákona č. 253/1998 Z. z. o hlásení pobytu a registri vyplynula zmena pri evidovaní prechodného
+pobytu. Sú potrebné úpravy systému činností týkajúcich sa prechodného pobytu. Dátum predpokladaného
+ukončenia prechodného pobytu upraviť, aby bol v intervale „dátum prihlásenia + 91 dní“ do dátumu
+v budúcnosti vo formáte deň mesiac rok bez obmedzenia v budúcnosti.
+V nadväznosti na schválenie zákona č. 254/2016 Z.z. ktorým sa mení a dopĺňa zákon č. 253/1998 Z. z.
+o hlásení pobytu občanov Slovenskej republiky a registri obyvateľov Slovenskej republiky v znení neskorších
+predpisov, na pripravované zaradenie registra fyzických osôb do zoznamu referenčných registrov ako aj
+v súvislosti s odstránením iných zistených nedostatkov budú realizované nasledovné úpravy: uvedeným
+zákonom prišlo okrem iného k zrušeniu obmedzenia trvania dĺžky prechodného pobytu na päť rokov. Je
+preto potrebné zrušiť v CO a v elektronických službách „Podanie prihlásenia na prechodný pobyt“ a „Podanie prihlásenia inej osoby na prechodný pobyt“ kontrolu, ktorá v súčasnosti znemožňuje zápis dátumu presahujúceho lehotu piatich rokov odo dňa zápisu.
+I.2 Agenda - Predčasné ukončenie prechodného pobytu/prechodného pobytu v zahraničí:
+Úprava tlačiva o predčasnom ukončení prechodného pobytu a prechodného pobytu v zahraničí podľa dodaného vzoru.
+I.3 Agenda – Úprava údajov v štatistickom hlásení Obyv 5-12:
+Úprava generovania tlačiva Obyv 5-12 (Dopracovanie nahrávania celého rodného čísla do tlačiva)
+I.4 Report o platbách na obce CO a CISMA
+Vytvorenie štatistického reportu platieb na obce:
+ Sumárny report za jednotlivé obce mesačne
+ Detailný report za jednotlivé obce a jednotlivé podania mesačne
+I.5 Agenda - Zrušenie TP §7
+Úprava tlačiva "Oznámenie o zrušení trvalého pobytu"
+Doplnenie možnosti opakovanej tlače tlačiva (max. 15 dní od zrušenia trvalého pobytu)
+
+ZMLUVA O DIELO
+
+STRANA
+
+17
+
+|
+
+II. ETAPA
+
+II.1 Úprava vybraných služieb CO aby zohľadňovali nasledovné životné situácie:
+ Podanie prihlásenia na trvalý pobyt
+o Prihlasujem seba samého na svoju nehnuteľnosť
+o Prihlasujem seba samého na nehnuteľnosť môjho manžela/manželky kde má aktuálne platný trvalý pobyt, ktorý je vlastníkom danej nehnuteľnosti
+o Prihlasujem seba s celou rodinou na moju nehnuteľnosť
+ Podanie prihlásenia inej osoby na trvalý pobyt
+o Prihlasujem svoje dieťa na svoju nehnuteľnosť
+o Prihlasujem manžela/manželku na svoju nehnuteľnosť
+o Prihlasujem inú osobu na svoju nehnuteľnosť, ktorej som výlučný vlastník
+o Prihlasujem niekoho iného na jeho nehnuteľnosť
+ Podanie prihlásenia na trvalý pobyt za inú osobu
+o Prihlasujem samého seba, manžela/manželky a detí do 18 rokov ak som spoluvlastník danej
+nehnuteľnosti
+ Podanie odhlásenia trvalého pobytu z dôvodu presťahovania do zahraničia
+o Odhlasujem iba seba samého
+o Odhlasujem celú rodinu
+o Odhlasujem iba manžela/manželku
+o Odhlasujem iba vlastné dieťa
+bez vyžadovania listu vlastníctva ako prílohy žiadosti o službu.
+Zabezpečenie prístupu používateľov na obciach k centrálnym systémov je zodpovednosťou MV SR.
+Integrácia spoločných služieb ÚPVS zostáva na protokole SKTalk2.
+Pre elektronické služby CO je naďalej podporovaný len prehliadač Internet Explorer.
+II.2 Služby splnomocnení:
+ Definovanie súhlasu pre službu „Podanie prihlásenia na trvalý pobyt” kde bude zadaný občan, ktorý
+udeľuje súhlas, občan ktorému je udelený súhlas, adresa aj s číslom bytu a popisom, že sa jedná
+o celú rodinu.
+ Definovanie súhlasu pre službu „Podanie prihlásenia inej osoby na trvalý pobyt” kde bude zadaný občan, ktorý udeľuje súhlas, občan ktorému je udelený súhlas, občan (dieťa do 18r) na ktoré sa
+udeľuje súhlas, adresa aj s číslom bytu.
+o Portlet by mal zobraziť údaje osoby, ktorá udeľuje súhlas aj so zoznamom detí do 18r evidovaných v RFO. Potom bude potrebné zadať údaje občana ktorému sa ide udeliť súhlas (meno, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo) a následne sa v RFO overia
+zadané údaje, čí taká osoba existuje. Ak áno, je možné pokračovať.
+o Pri zadaní súhlasu v CESP je potrebné overiť pre zadané dieťa, že ten kto udeľuje súhlas je
+rodič ako aj ten komu je udelený súhlas je tiež rodič daného dieťaťa.
+ Definovanie súhlasu pre službu „Podanie odhlásenia trvalého pobytu z dôvodu presťahovania do zahraničia” kde bude zadaný občan, ktorý udeľuje súhlas, občan ktorému je udelený súhlas, občan
+(dieťa do 18r) na ktoré sa udeľuje súhlas, adresa v zahraničí – štát z číselníka a textom zadaná
+obec.
+o Portlet by mal zobraziť údaje osoby, ktorá udeľuje súhlas aj so zoznamom detí do 18r evidovaných v RFO. Potom bude potrebné zadať údaje občana ktorému sa ide udeliť súhlas (me-
+
+ZMLUVA O DIELO
+
+STRANA
+
+18
+
+|
+
+o
+
+no, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo) a následne sa v RFO overia
+zadané údaje, čí taká osoba existuje. Ak áno, je možné pokračovať.
+Pri zadaní súhlasu v CESP je potrebné overiť pre zadané dieťa, že ten kto udeľuje súhlas je
+rodič ako aj ten komu je udelený súhlas je tiež rodič daného dieťaťa.
+
+Vyhľadávanie súhlasu pre každý typ osoby v udelenom súhlase pre danú službu.
+II.3 Agenda - Podpora pre spoluvlastníkov a ťarchy:
+Úprava MiniK a Agendy CO (riešenie spoluvlastníkov a ťarchy)
+ prikladanie listu vlastníctva vo formáte PDF pracovníkom katastra a posielanie do agendy pre manuálne spracovanie
+ integrácia agendy CO na CESP (označovanie splnomocnení ako použité)
+II.4 Agenda - Úprava potvrdenia o pobyte
+Doplnenie adresy trvalého pobytu na portál pri žiadosti o potvrdenie o trvalom pobyte.
+II.5 Agenda - Kontrola zákazu pobytu pri službách
+Zapracovanie kontroly v CO a vo všetkých elektronických službách prihlásenia na trvalý a prechodný pobyt
+(za seba, rodinu, inú osobu...) na evidované zákazy pobytu. V súčasnosti totiž CO preberá údaje evidovaných zákazoch pobytu z REGOB, tieto údaje však umožňuje len zobraziť a nevyužíva ich na vykonanie kontroly, či je možné vykonať danému občanovi požadovaný zápis pobytu. Toto predstavuje veľký problém
+najmä pre všetky relevantné elektronické služby, pretože pri súčasnej funkcionalite je možné týmto spôsobom zrealizovať zápis pobytu aj napriek tomu, že v REGOB je evidovaný zákaz, ktorý takýto zápis vylučuje.
+II.6 Služby - Zrušenie TP §7
+Doplnenie nového stĺpca "Dátum zrušenia pobytu"
+
+ZMLUVA O DIELO
+
+STRANA
+
+19
+
+|
+
+PRÍLOHA č. 2 – HARMONOGRAM
+
+Predpokladaný začiatok projektu: 15.2.2019
+Etapa
+
+I
+
+II
+
+Plnenie
+
+Forma dodávky
+
+Termín dodania
+
+Funkčný a technický návrh zmien
+
+Dokument
+
+15.3.2019
+
+Implementácia funkcionality
+
+Nasadenie APV do BBT
+
+15.4.2019
+
+Podpora nasadenia do BBP
+
+Nasadenie APV do BBP
+
+15.5.2019
+
+Funkčný a technický návrh zmien
+
+Dokument
+
+30.4.2019
+
+Implementácia funkcionality
+
+Nasadenie APV do BBT
+
+30.9.2019
+
+Podpora nasadenia do BBP
+
+Nasadenie APV do BBP
+
+31.10.2019
+
+Podpora po nasadení do prod. prevádzky
+
+Služby podpory
+
+30.11.2019
+
+ZMLUVA O DIELO
+
+STRANA
+
+20
+
+|
+
+PRÍLOHA č. 3 – ŠPECIFIKÁCIA CENY A PLATOBNÝCH MÍĽNIKOV
+
+Etapa
+I
+
+II
+
+Platobný míľnik
+Funkčný a technický návrh zmien
+
+Cena bez DPH
+
+DPH
+
+Cena s DPH
+
+94 400,00 EUR
+
+18 880,00 EUR
+
+113 280,00 EUR
+
+Podpora nasadenia do BBP
+
+100 000,00 EUR
+
+20 000,00 EUR
+
+120 000,00 EUR
+
+Funkčný a technický návrh zmien
+
+259 200,00 EUR
+
+51 840,00 EUR
+
+311 040,00 EUR
+
+Podpora nasadenia do BBP
+
+280 800,00 EUR
+
+56 160,00 EUR
+
+336 960,00 EUR
+
+21 600,00 EUR
+
+4 320,00 EUR
+
+25 920,00 EUR
+
+Podpora po nasadení do prod. prevádzky
+
+ZMLUVA O DIELO
+
+STRANA
+
+21
+
+|
+
+PRÍLOHA č. 4 – ZOZNAM SUBDODÁVATEĽOV
+
+1. DITEC, a.s.
+Plynárenská 7/C
+821 09 Bratislava
+IČO: 31 385 401
+osoby oprávnené konať:
+
+PaedDr. Ivan Sůra, predseda predstavenstva
+dátum narodenia:
+trvale bytom
+Ing. Csaba Baráth, podpredseda predstavenstva
+dátum narodenia:
+trvale bytom
+
+2. Aliter Technologies, a.s.
+Turčianska 16
+821 09 Bratislava
+IČO: 36 831 221
+osoba oprávnená konať:
+
+Ing. Peter Dostál, predseda predstavenstva
+dátum narodenia:
+trvale bytom
+
+ZMLUVA O DIELO
+
+STRANA
+
+22
+
+|
+
+

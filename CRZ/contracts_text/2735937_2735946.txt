@@ -1,0 +1,57 @@
+Príloha 1 k Zmluve o dielo č.: AOS-IX-58/2016
+
+Rozsah poskytnutého diela:
+Modernizácia bude obsahovať možnosť spracovávať informáciu z módu S a viesť výcvik riadiacich
+na základe tejto informácie.
+Dodaný bude systém s Módom S ktorý je už zavedený a využívaný v OS SR ako aj v Leteckých
+prevádzkových službách Slovenskej republiky. Zavedením Módu S bude možné zabezpečiť:
+ Odstránenie problémov spôsobených nedostatkami kódov módu 3/A a C.
+ Jednoznačnú identifikáciu lietadiel.
+ Automatickú koreláciu s letovými plánmi.
+Po modernizácii musí simulátor riadenia letovej prevádzky LETVIS SIM MIL umožniť výcvik
+obslúh s využitím módu S tak, aby sa dosiahla kvalitatívne vyššia úroveň výcviku a následne, aby
+bolo možné využiť simulátor aj ako testovaciu platformu pre technické inovácie pre reálnu
+prevádzku.
+Súčasťou inovácie bude výmena niektorých technických a pracovných zariadení, ktoré sú po dobe
+životnosti a nespĺňajú požadované výkonové parametre, čím sa dosiahnu parametre adekvátne
+súčasným požiadavkám.
+Upgrade ďalej musí zahŕňať profylaktiku simulátora a simulátora hlasovej komunikácie na základe
+špecifikovaných požiadaviek. Ide o inštaláciu a test nasledovných SW a HW prvkov:
+ Simulátor hlasovej komunikácie a jeho modulov vrátane komunikačného rozhrania.
+ Simulátor RL informácie a jeho funkcionalít.
+Ďalej je požadovaná inštalácia a test dátových setov, ktorá zabezpečí kontrolu, zjednotenie a
+odstránenie chýb simulátora. Preverenie funkčnosť VoIP hlasovej ústredne, jej konfigurácia ako aj
+doplnenie dvoch modulov pre jej správu.
+Požiadavka na upgrade systému:
+Inštalácia a testovanie dátových setov, aktualizácia simulačného nástroja.
+Software
+Ks
+Upgrade LETVIS SIM (sim_cc, simd, km_route,
+1
+rli_gen)
+Upgrade LETVIS FDPS + FDP/ccl
+1
+Upgrade LETVIS MST + MST/ccl
+1
+Upgrade LETVIS SIM/INS
+1
+Upgrade LETVIS REP + bundle ADP
+1
+Upgrade LETVIS RDD (Zvolen)
+1
+Upgrade LETVIS RDD + bundle PSP
+3
+Upgrade LETVIS RDD
+3
+Upgrade LETVIS FDD
+3
+Výmena technických a pracovných zariadení.
+Hardware
+Stôl CP-T
+Zariadenia pre konfiguráciu hlasovej ústredne
+
+Ks
+5
+2
+
+

@@ -1,0 +1,999 @@
+Zmluva o dodaní a implementácii softwaru č. 4345/2018/5400/011
+uzatvorená podľa § 269 ods. 2 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník
+v znení neskorších predpisov
+(ďalej len „zmluva“)
+Článok I.
+Zmluvné strany
+1.1.
+
+Objednávateľ:
+
+Sídlo:
+Registrácia:
+Právna forma:
+Štatutárny orgán:
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie:
+SWIFT/BIC:
+IBAN:
+Adresa pre doručovanie
+písomností:
+E-mailová adresa, tel. č.:
+(ďalej len „objednávateľ“)
+1.2. Dodávateľ:
+Sídlo:
+Registrácia:
+
+Železnice Slovenskej republiky, Bratislava
+v skrátenej forme “ŽSR“
+Klemensova 8, 813 61 Bratislava
+Obchodný register Okresného súdu Bratislava I,
+oddiel: Po, vložka číslo 312/B
+Iná právnická osoba
+Ing. Juraj Tkáč, generálny riaditeľ
+31 364 501
+SK2020480121
+2020480121
+VÚB, a. s.
+SUBASKBX
+SK11 0200 0000 3500 0470 0012
+Železnice Slovenskej republiky - Železničné telekomunikácie
+Bratislava, Kováčska 3, 832 06 Bratislava
+zt@zsr.sk, +42120295310
+
+DWC Slovakia a.s.
+Mlynské nivy 71, 821 05 Bratislava
+Obchodný register Okresného súdu Bratislava I,
+oddiel: Sa, vložka číslo 4134/B
+Akciová spoločnosť
+Ing. Peter Axamít - predseda predstavenstva
+35 918 501
+xxxxx
+xxxxx
+xxxxx
+xxxxx
+xxxxx
+
+Právna forma:
+Štatutárny orgán:
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie:
+SWIFT/BIC:
+IBAN:
+Adresa pre doručovanie
+písomností:
+Mlynské nivy 71, 821 05 Bratislava
+E-mailová adresa, tel. č.:
+xxxxx
+(ďalej len „dodávateľ“)
+(objednávateľ a dodávateľ spolu aj ako „zmluvné strany“)
+
+Článok II.
+Predmet zmluvy
+2.1.
+
+Zmluvné strany uzatvárajú túto zmluvu ako výsledok verejného obstarávania zákazky s názvom „SW
+licencie pre potreby prevádzky aplikačného riešenia „Automatizovaná správa registratúry“
+
+vrátane inštalačných, bezpečnostných a konfiguračných služieb pre potreby ŽSR“ obstaranej
+postupom podľa interného predpisu objednávateľa ako obstarávateľa.
+2.2.
+
+Účelom zmluvy je upraviť vzájomné práva a povinnosti zmluvných strán pri dodaní a implementácii
+softwarových licencií a zaistiť nerušené užívanie softwaru objednávateľom v plne funkčnom stave.
+
+2.3.
+
+Predmetom zmluvy je záväzok dodávateľa dodávať postupne v priebehu platnosti tejto zmluvy na
+základe požiadaviek objednávateľa 1665 ks softwarových licencií (ďalej len „SW licencie“ alebo
+„software“) spĺňajúcich špecifikáciu uvedenú v Prílohe č. 1 – Popis požiadaviek na SW licencie pre
+potreby prevádzky aplikačného riešenia „Automatizovaná správa registratúry“ (ďalej len „príloha č. 1“),
+vrátane:
+2.3.1. zabezpečenia inštalačných a konfiguračných služieb súvisiacich s dodávkou SW licencií,
+2.3.2. zabezpečenia konfigurácie mandátových pravidiel v zmysle interných pravidiel a postupov
+zohľadňujúcich platnú organizačnú štruktúru objednávateľa a jeho vnútorných organizačných
+jednotiek (Registratúrny poriadok a registratúrny plán SR ŽSR, GR ŽSR a ÚS ŽSR),
+2.3.3. zabezpečenia konfigurácie profilových parametrov pre dodané SW licencie,
+2.3.4. zaškolenia školiteľov objednávateľa v rozsahu 10 MD,
+2.3.5. zabezpečenia 24 mesačnej podpory SW Maintenance na dodané SW licencie, ktorý zahŕňa:
+2.3.5.1. zabezpečenie súladu softwaru s aktuálnymi verziami softwarových a hardwarových
+produktov, s ktorými bude software integrovaný (t.j. MS Windows, MS Windows Server,
+databázy, XML, NET, Java, MS Office, webové prehliadače, mobilné zariadenia, Cofax
+Capture, PDF Viewer, AutoDesk, rôzne HW/SW archívne systémy a pod.),
+2.3.5.2. zabezpečenie správnej funkcionality softwaru (najmä prostredníctvom dodávky
+opravných patchov, ktoré budú reagovať na prípadné chyby v produkte alebo na problém
+spôsobený iným systémom, s ktorým je software integrovaný), a
+2.3.5.3. zabezpečenie aktualizácie softwaru na najvyššiu existujúcu verziu,
+v rozsahu a za podmienok uvedených v tejto zmluve.
+
+2.4.
+
+Objednávateľ sa zaväzuje za včas a riadne splnený predmet zmluvy zaplatiť cenu podľa článku IV.
+a poskytnúť dodávateľovi súčinnosť pri plnení predmetu zmluvy.
+
+2.5.
+
+Táto zmluva má povahu rámcovej zmluvy. Povinnosť a zároveň právo dodávateľa plniť predmet zmluvy
+vznikne dodávateľovi až na základe záväzných požiadaviek v zmysle bodu 6.1., ktoré budú mať povahu
+samostatných realizačných zmlúv, na ktoré sa budú primerane aplikovať ustanovenia § 409 a nasl.
+zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov (ďalej len „Obchodný
+zákonník“) a zákona č. 185/2015 Z. z. Autorský zákon v znení neskorších predpisov (ďalej len
+„Autorský zákon“).
+
+Článok III.
+Doba, na ktorú sa zmluva uzatvára, lehota a miesto plnenia predmetu zmluvy
+3.1.
+
+Zmluva sa uzatvára na dobu určitú, a to do doby vyčerpania maximálneho finančného objemu podľa
+bodu 4.3., najneskôr však do 24 mesiacov odo dňa nadobudnutia účinnosti zmluvy.
+
+3.2.
+
+Dodávateľ sa zaväzuje plniť predmet zmluvy podľa bodu 2.3. v rozsahu podľa požiadavky v zmysle
+bodu 6.1. v termínoch uvedených v príslušnej požiadavke. Požiadavka sa považuje za splnenú, ak
+v termíne resp. termínoch uvedených v požiadavke bol podpísaný Akceptačný protokol v zmysle bodu
+6.7. Objednávateľ sa zaväzuje stanoviť také termíny plnenia, aby bol dodávateľ objektívne schopný
+splniť požadovaný predmet zmluvy.
+
+3.3.
+
+Miestom dodania predmetu zmluvy budú Železničné telekomunikácie, Kováčska 3, 832 06 Bratislava.
+
+Článok IV.
+Cena a maximálny finančný objem
+4.1.
+
+Zmluvné strany sa dohodli na jednotkovej cene za dodanie 1 ks SW licencie vo výške 246,40 EUR bez
+DPH. Jednotková cena je pevná a nemenná, platí počas celej doby trvania tejto zmluvy a príslušnej
+požiadavky a sú v nej zahrnuté všetky náklady, ktoré dodávateľovi vzniknú pri a/alebo v súvislosti so
+splnením požadovaného predmetu zmluvy, najmä činností dodávateľa v zmysle bodov 2.3.1. až 2.3.5.
+Dodávateľ nie je oprávnený v súvislosti s plnením predmetu zmluvy účtovať objednávateľovi žiadne
+ďalšie položky.
+
+4.2.
+
+Daň z pridanej hodnoty (ďalej len „DPH“) bude účtovaná v zmysle platných právnych predpisov.
+
+4.3.
+
+Zmluvné strany sa dohodli na maximálnom finančnom objeme vo výške 414 585,- EUR bez DPH.
+
+Článok V.
+Platobné podmienky
+5.1.
+
+Objednávateľ neposkytne dodávateľovi žiadny preddavok ani zálohu na plnenie predmetu zmluvy.
+
+5.2.
+
+Platby budú realizované na základe faktúr vystavených a doručených objednávateľovi. Dodávateľ je
+oprávnený vystaviť faktúru za každú splnenú požiadavku zadanú v zmysle bodu 6.1., a to najskôr v deň
+podpísania Akceptačného protokolu oprávnenou osobou objednávateľa podľa bodu 6.7. alebo podpísania
+zápisu potvrdzujúceho odstránenie vady v prípade, ak bude súčasťou Akceptačného protokolu zoznam
+vád v zmysle bodu 6.7. druhá veta. Povinnou prílohou faktúry podľa tohto bodu bude kópia
+Akceptačného protokolu.
+
+5.3.
+
+Na základe súhlasu objednávateľa s elektronickým zasielaním faktúr, podmienky získania ktorého sú
+uvedené na webovom sídle www.zsr.sk, dodávateľ zašle riadne vystavenú faktúru v elektronickej
+podobe na e-mailovú adresu e-faktura.dodavatel@zsr.sk, alebo v listinnej podobe na fakturačnú adresu:
+Železnice Slovenskej republiky, Účelové stredisko Účtovné centrum, Klemensova 8, 813 61 Bratislava.
+
+5.4.
+
+Dodávateľom predložená faktúra na úhradu musí obsahovať náležitosti v zmysle zákona č. 222/2004 Z.
+z. o dani z pridanej hodnoty v znení neskorších predpisov (ďalej len „zákon o DPH“). Okrem toho musí
+obsahovať:
+5.4.1. označenie zmluvných strán, obchodné meno, sídlo objednávateľa, IČO, IČ DPH a adresu
+konečného príjemcu,
+5.4.2. číslo faktúry,
+5.4.3. deň vyhotovenia a deň splatnosti,
+5.4.4. označenie peňažného ústavu a číslo účtu, na ktorý sa má platiť,
+5.4.5. číslo objednávky doručenej dodávateľovi len pre účely zúčtovania faktúr,
+5.4.6. číslo tejto zmluvy,
+5.4.7. fakturovaná suma s rozčlenením DPH,
+5.4.8. označenie osoby, ktorá faktúru vystavila,
+5.4.9. pečiatka a podpis zodpovedného zástupcu dodávateľa (v prípade elektronickej faktúry sa
+nevyžaduje).
+
+5.5.
+
+Objednávateľ si vyhradzuje právo neúplnú faktúru a/alebo faktúru bez povinných príloh vrátiť, pričom
+lehota splatnosti takejto faktúry začína plynúť od začiatku počnúc dňom vrátenia opravenej a/alebo
+doplnenej faktúry objednávateľovi.
+
+5.6.
+
+Úhrada faktúry bude realizovaná bezhotovostným platobným stykom na účet dodávateľa uvedený
+v bode 1.2. Akákoľvek zmena účtu sa považuje za zmenu zmluvy, ktorú je možné vykonať len na
+základe dodatku uzatvoreného v súlade so zmluvou.
+
+5.7.
+
+Lehota splatnosti faktúr je 30 dní odo dňa jej doručenia objednávateľovi. V prípade faktúry zaslanej
+elektronickou formou sa za deň doručenia považuje deň prijatia elektronickej faktúry na e-mailovej
+adrese: e-faktura.dodavatel@zsr.sk. Objednávateľ nie je v omeškaní s úhradou faktúry, ak v posledný
+deň lehoty splatnosti zadá príkaz na jej úhradu svojmu peňažnému ústavu. V prípade, že splatnosť
+faktúry pripadne na deň pracovného voľna alebo pracovného pokoja, bude sa za deň splatnosti
+považovať nasledujúci pracovný deň.
+
+5.8.
+
+Dodávateľ vyhlasuje, že ku dňu podpisu zmluvy nie je závislou osobou voči objednávateľovi v zmysle §
+2 písm. n) zákona č. 595/2003 Z. z. o dani z príjmov v znení neskorších právnych predpisov (ďalej len
+„zákon o dani z príjmov“). Každú zmenu súvisiacu s personálnym, ekonomickým alebo iným
+prepojením voči objednávateľovi v súvislosti s ustanovením § 2 písm. n) zákona o dani z príjmov je
+dodávateľ povinný objednávateľovi písomne oznámiť, a to do 5 dní odo dňa vzniku zmeny.
+
+Článok VI.
+Základné podmienky plnenia predmetu zmluvy, práva a povinnosti zmluvných strán
+6.1.
+
+Dodávateľ je oprávnený a povinný plniť až na základe doručenej požiadavky vystavenej objednávateľom
+a zaslanej elektronicky na e-mailovú adresu dodávateľa xxxxx, alebo listom na adresu pre doručovanie
+písomností uvedenú v bode 1.2.
+
+6.2.
+
+Požiadavka v zmysle bodu 6.1. bude obsahovať nasledovné náležitosti: počet licencií, požadovaný
+termín dodania, meno, priezvisko, telefónne číslo a e-mailovú adresu poverenej osoby objednávateľa.
+
+6.3.
+
+V prípade, ak má dodávateľ pripomienky k doručenej požiadavke je povinný ich objednávateľovi
+predložiť do 5 pracovných dní od doručenia požiadavky.
+
+6.4.
+
+Objednávateľ je povinný poskytnúť dodávateľovi pri implementácii softwaru nevyhnutnú súčinnosť,
+ktorá je objektívne potrebná k splneniu povinností dodávateľa a bez ktorej sa dodávateľ nezaobíde.
+V prípade, ak objednávateľ neposkytne dodávateľovi súčinnosť, o ktorú dodávateľ žiadal ani
+v dodatočne stanovenej lehote, ktorú dodávateľ objednávateľovi písomne oznámil, termín resp. termíny
+plnenia uvedené v požiadavke sa automaticky posunú o dobu trvania omeškania objednávateľa
+s poskytnutím súčinnosti.
+
+6.5.
+
+Odovzdanie a prevzatie softwaru vrátane súvisiacich služieb v zmysle bodu 2.3. bude prebiehať
+prostredníctvom akceptačného konania. Cieľom akceptačného konania je overiť, či dodaný software má
+funkcionalitu požadovanú objednávateľom, spĺňa technické parametre, bezpečnostné požiadavky, je
+kompatibilný s existujúcimi informačnými systémami. Akceptačné konanie bude prebiehať postupne pre
+jednotlivé dodané SW licencie. O termíne zahájenia akceptačného konania pre jednotlivé SW licencie
+bude dodávateľ písomne informovať objednávateľa najmenej 5 pracovných dní dopredu.
+
+6.6.
+
+V prípade, ak v priebehu akceptačného konania budú zistené vady softwaru, je dodávateľ povinný tieto
+odstrániť, a to v primeranej lehote stanovenej dohodou medzi objednávateľom a dodávateľom a následne
+software odovzdať k opakovanému akceptačnému konaniu.
+
+6.7.
+
+O úspešnom ukončení akceptačného konania bude oprávnenými zástupcami zmluvných strán spísaný
+a potvrdený Akceptačný protokol. V prípade, ak budú zistené v priebehu akceptačného konania vady,
+ktoré nebránia užívaniu dodaného softwaru, súčasťou Akceptačného protokolu bude zoznam vád
+so stanovením lehoty na ich odstránenie.
+
+6.8.
+
+Dodávateľ je povinný najneskôr do potvrdenia Akceptačného protokolu odovzdať Objednávateľovi
+dokumentáciu v slovenskom jazyku, ktorá bude obsahovať všetky dokumenty potrebné pre riadne
+užívanie softwaru (technickú, prevádzkovú, užívateľskú dokumentáciu). Dokumentáciu dodávateľ
+odovzdá v listinnej podobe aj v elektronickej podobe na dátovom nosiči. Dodávateľ je povinný predložiť
+
+podrobne vyplnené dokumenty zabezpečujúce prevádzkovateľnosť v zmysle interného predpisu
+objednávateľa (Smernica – Prevádzková podpora IT aplikácií).
+6.9.
+
+Dodávateľ je povinný zaškoliť zamestnancov objednávateľa. Školenie sa uskutoční v pracovných dňoch,
+a to najneskôr do 30 dní odo dňa doručenia písomnej požiadavky na školenie zaslanej zo strany
+objednávateľa na e-mailovú adresu dodávateľa uvedenú v bode 6.1., ak sa zmluvné strany písomne
+nedohodnú inak. Požiadavka v zmysle predchádzajúcej vety musí obsahovať miesto školenia, termín
+školenia, počet osôb a počet dní školenia. Školenie je dodávateľ povinný zabezpečiť v rozsahu 10 MD
+(človekodeň).
+
+6.10. Dodávateľ sa zaväzuje, že školenie bude dostatočné k tomu, aby vyškolení zamestnanci ovládali funkcie
+softwaru.
+6.11. Dodávateľ sa zaväzuje, že svoje pohľadávky voči objednávateľovi nepostúpi (ani s nimi nebude inak
+obchodovať) tretej strane bez písomného súhlasu objednávateľa.
+6.12. Dodávateľ nie je oprávnený jednostranným úkonom započítať akúkoľvek svoju pohľadávku vyplývajúcu
+z tejto zmluvy proti pohľadávke objednávateľa.
+
+Článok VII.
+Zodpovednosť za vady
+7.1.
+
+Dodávateľ zodpovedá za to, že dodaný predmet zmluvy bude v súlade s ustanoveniami zmluvy,
+požiadavkou, príslušnými všeobecne záväznými právnymi predpismi a internými predpismi
+objednávateľa. Dodávateľ zodpovedá za to, že implementovaný software nebude mať po vykonaní
+úspešných akceptačných testov vady softwaru. Dodávateľ vyhlasuje, že predmet zmluvy netrpí žiadnymi
+právnymi vadami. Za vadu softwaru sa považuje najmä, ale nielen, ak software nefunguje vôbec
+prípadne sú nefunkčné niektoré jeho zásadné časti či funkcie, vlastnosti softwaru nezodpovedajú
+dohodnutým vlastnostiam, software nie je možné užívať pre dohodnutý účel. Zistené a uplatnené vady je
+dodávateľ povinný odstrániť bezodplatne v lehote podľa bodu 7.5.
+
+7.2.
+
+Dodávateľ poskytuje záruku za akosť dodaného softwaru v dĺžke 24 mesiacov odo dňa podpísania
+Akceptačného protokolu oprávnenou osobou objednávateľa. Vo vzťahu k vadám, o ktorých mal
+objednávateľ pri podpise Akceptačného protokolu vedomosť a napriek týmto vadám sa rozhodol
+podpísať Akceptačný protokol v zmysle bodu 6.7. druhá veta, začína plynúť záruka za akosť až dňom
+podpísania zápisu potvrdzujúceho odstránenie vady.
+
+7.3.
+
+Záruka sa nevzťahuje na nedostatky a chyby vzniknuté:
+7.3.1. prevádzkovaním predmetu plnenia v rozpore s dodanou dokumentáciou,
+7.3.2. neoprávneným zásahom do predmetu plnenia,
+7.3.3. zmenou parametrov prostredia, v ktorom sa dodaný softwarový produkt prevádzkuje, bez
+predchádzajúceho písomného súhlasu dodávateľa,
+7.3.4. vplyvom počítačových vírusov.
+
+7.4.
+
+Pokiaľ objednávateľ zistí vadu predmetu zmluvy, je povinný túto skutočnosť bez zbytočného odkladu
+písomne oznámiť dodávateľovi na e-mailovú adresu xxxxx. Takéto oznámenie musí obsahovať
+označenie a špecifikáciu vady a popis ako sa vada prejavuje. Objednávateľ je povinný poskytnúť všetku
+potrebnú súčinnosť na to, aby dodávateľ mohol vadu odstrániť v lehote podľa bodu 7.5.
+
+7.5.
+
+Dodávateľ je povinný uplatnenú vadu odstrániť najneskôr do 30 kalendárnych dní od písomného
+oznámenia vady, pokiaľ si zmluvné strany písomne nedohodnú v konkrétnom prípade inú lehotu.
+
+7.6.
+
+Nebezpečenstvo a všetky náklady súvisiace s odstránením vád znáša dodávateľ okrem prípadov, keď za
+vady a poruchy nezodpovedá v zmysle tejto zmluvy a platných právnych predpisov Slovenskej
+republiky.
+
+7.7.
+
+V prípade, ak dodávateľ oprávnene reklamované vady neodstráni v dohodnutej lehote napriek tomu, že
+objednávateľ ich riadne oznámil a vytvoril podmienky na ich odstránenie, má objednávateľ právo bez
+súhlasu dodávateľa odstrániť vady sám na náklady dodávateľa, alebo poveriť odstránením vád tretiu
+osobu na náklady dodávateľa.
+
+7.8.
+
+Uplatnením zodpovednosti za vady nie je dotknuté právo objednávateľa na zmluvnú pokutu a/alebo
+náhradu škody.
+
+7.9.
+
+Dodávateľ je povinný odstrániť každú reklamovanú vadu, tzn. aj takú pri ktorej nie je možné s istotou
+určiť, kto za vadu zodpovedá. V prípade, že sa v priebehu odstraňovania vady alebo po odstránení vady
+preukáže, že za ňu dodávateľ nezodpovedá, dodávateľ má nárok na úhradu účelne vynaložených
+nákladov v súvislosti s odstránením vady.
+
+Článok VIII.
+Zodpovednosť za škodu
+8.1.
+
+Ak vznikne objednávateľovi škoda na veciach, právach alebo iných majetkových hodnotách v dôsledku
+porušenia povinností uvedených v zmluve zo strany dodávateľa, je dodávateľ za tieto škody zodpovedný
+a je povinný objednávateľovi uhradiť tieto vzniknuté škody. Škoda sa nahrádza v peniazoch a v plnej
+výške.
+
+8.2.
+
+Ak škodu spôsobila tretia osoba, ktorej dodávateľ zveril plnenie svojej povinnosti, za škodu zodpovedá
+dodávateľ.
+
+8.3.
+
+Zmluvné pokuty dohodnuté v zmluve hradí povinná strana v plnej výške nezávisle od toho, či a v akej
+výške vznikne druhej strane škoda porušením povinnosti, ktorú možno vymáhať v celej výške
+samostatne.
+
+8.4.
+
+Zodpovednosť za škodu spôsobenú porušením povinností v súvislosti so zmluvou ktoroukoľvek
+zmluvnou stranou sa spravuje ustanoveniami § 373 a nasl. Obchodného zákonníka a ďalšími príslušnými
+právnymi predpismi o náhrade škody.
+
+Článok IX.
+Povinnosti dodávateľa v súvislosti s priamymi subdodávateľmi
+9.1.
+
+Dodávateľ zodpovedá za konanie, neplnenie, nedbanlivosť, opomenutie povinností alebo potrebného
+konania riadne a včas svojich subdodávateľov tak, ako by išlo o konanie, neplnenie, nedbanlivosť,
+opomenutie povinností alebo potrebného konania riadne a včas samotného dodávateľa.
+
+9.2.
+
+Dodávateľ je oprávnený poveriť časťou plnenia predmetu zmluvy len tých subdodávateľov, ktorí sú
+uvedení v zozname priamych subdodávateľov, ktorý tvorí prílohu č. 2 (ďalej len „príloha č. 2“) alebo
+ktorí budú do zoznamu subdodávateľov doplnení v súlade s bodom 9.3. alebo 9.4. Uvedené neplatí, ak
+ide o subdodávateľa, ktorý je výlučne dodávateľom tovaru.
+
+9.3.
+
+Dodávateľ je oprávnený počas trvania tejto zmluvy zmeniť subdodávateľa uvedeného v zozname
+priamych subdodávateľov len s predchádzajúcim písomným súhlasom objednávateľa. V písomnej
+žiadosti dodávateľa o udelenie súhlasu je dodávateľ povinný uviesť o subdodávateľovi všetky údaje
+uvedené v zozname priamych subdodávateľov. Objednávateľ písomne upovedomí dodávateľa o svojom
+rozhodnutí v lehote do 5 kalendárnych dní odo dňa doručenia žiadosti o súhlas, v ktorom v prípade
+neudelenia súhlasu uvedie príslušné dôvody. Ak sa objednávateľ v lehote podľa predchádzajúcej vety
+k žiadosti dodávateľa nevyjadrí, znamená to súhlas objednávateľa so subdodávateľom.
+
+9.4.
+
+Ak objednávateľ zistí, že subdodávateľ nie je schopný plniť si svoje záväzky alebo nevykonáva
+príslušnú časť predmetu zmluvy riadne, môže od dodávateľa okamžite požadovať náhradu za
+
+subdodávateľa. Dodávateľ je povinný spôsobom podľa bodu 9.3. žiadosti o náhradu vyhovieť najneskôr
+do 30 dní odo dňa doručenia žiadosti objednávateľa alebo v tejto lehote objednávateľovi oznámiť, že
+príslušný predmet plnenia bude plniť sám. Požiadavka objednávateľa na zmenu subdodávateľa podľa
+tohto bodu, nemá vplyv na povinnosť dodávateľa plniť na základe tejto zmluvy riadne a včas.
+9.5.
+
+Ak počas plnenia tejto zmluvy dôjde k zmene v subdodávateľoch, dodávateľ je povinný predložiť
+objednávateľovi aktuálny zoznam priamych subdodávateľov do piatich pracovných dní odo dňa
+uzatvorenia zmluvy s novým subdodávateľom (doplnenie subdodávateľa do zoznamu) alebo odo dňa
+skončenia zmluvy so subdodávateľom (vynechanie subdodávateľa zo zoznamu bez náhrady). Aktuálny
+zoznam bude predložený v rozsahu údajov podľa prílohy č. 2.
+
+9.6.
+
+Dodávateľ je povinný písomne oznámiť objednávateľovi akúkoľvek zmenu údajov o subdodávateľovi,
+a to najneskôr do 10 dní od kedy sa o zmene dozvedel. Pod pojmom „údaje o subdodávateľovi“ sa myslí
+najmä údaje uvedené v prílohe č. 2, zmena právnej formy subdodávateľa, zmena základného imania
+subdodávateľa, začatie konkurzného konania, reštrukturalizačného konania alebo likvidácie
+subdodávateľa.
+
+Článok X.
+Povinnosti dodávateľa v súvislosti s registrom partnerov verejného sektora
+10.1. Dodávateľ vyhlasuje, že je ku dňu podpísania tejto zmluvy zapísaný v registri partnerov verejného
+sektora v zmysle zákona č. 315/2016 Z. z. o registri partnerov verejného sektora (ďalej len „zákon
+o RPVS“) a tiež každý jemu známy subdodávateľ v ktoromkoľvek rade, ktorý je partnerom verejného
+sektora, je zapísaný v registri partnerov verejného sektora. Ďalej dodávateľ vyhlasuje, že ku dňu
+podpísania tejto zmluvy má ako partner verejného sektora alebo má osoba, ktorá plní povinnosti
+oprávnenej osoby pre dodávateľa v zmysle zákona o RPVS (ďalej len „oprávnená osoba“), splnené
+všetky povinnosti, ktoré pre dodávateľa ako partnera verejného sektora alebo pre oprávnenú osobu
+vyplývajú zo zákona o RPVS. Zmluvné strany sa dohodli, že ak sa vyhlásenia podľa tohto bodu ukážu
+ako nepravdivé, objednávateľ nie je v omeškaní s plnením podľa tejto zmluvy až do splnenia povinnosti
+dodávateľa resp. oprávnenej osoby.
+10.2. Dodávateľ je povinný objednávateľovi písomne oznamovať každú zmenu zapísaných údajov o jeho
+osobe v registri partnerov verejného sektora alebo jeho výmaz z registra partnerov verejného sektora
+najneskôr do 5 dní odo dňa vykonania zmeny zapísaných údajov alebo výmazu v registri partnerov
+verejného sektora.
+10.3. Po dobu omeškania dodávateľa ako partnera verejného sektora alebo oprávnenej osoby s plnením
+niektorej povinnosti podľa zákona o RPVS, objednávateľ nie je v omeškaní s plnením podľa tejto
+zmluvy až do splnenia povinnosti dodávateľa resp. oprávnenej osoby.
+10.4. Dodávateľ sa zaväzuje zabezpečiť, aby sa na plnení predmetu tejto zmluvy nepodieľal subdodávateľ
+v ktoromkoľvek rade (i) ktorý je partnerom verejného sektora a nie je zapísaný v registri partnerov
+verejného sektora alebo (ii) ktorý, ak je partnerom verejného sektora alebo osoba, ktorá plní povinnosti
+oprávnenej osoby pre subdodávateľa ako partnera verejného sektora v zmysle zákona o RPVS, si neplní
+povinnosti podľa zákona o RPVS.
+
+Článok XI.
+Licencia
+11.1. Dodávateľ udeľuje objednávateľovi nevýhradnú licenciu na používanie dodaného softwaru.
+Objednávateľ je oprávnený používať software v rozsahu udelených licencií neobmedzeným spôsobom
+(t.j. všetkými spôsobmi použitia známymi v čase podpisu tejto zmluvy na všetkých počítačoch
+
+objednávateľa) podľa svojich potrieb a bez časového obmedzenia na území Slovenskej republiky.
+Územné obmedzenie používania softwaru sa nevzťahuje na prípady používania užívateľmi na
+koncových zariadeniach patriacich objednávateľovi mimo územia Slovenskej republiky.
+11.2. Odmena za licenciu za dodanie príslušného softwarového produktu je zahrnutá v cene podľa bodu 4.1.
+
+Článok XII.
+Zmluvné pokuty
+12.1. V prípade omeškania objednávateľa s úhradou faktúry môže dodávateľ účtovať objednávateľovi úroky
+z omeškania v zmysle príslušných ustanovení Obchodného zákonníka.
+12.2. Nižšie uvedené zmluvné pokuty povinná strana hradí nezávisle od toho, či a v akej výške vznikne druhej
+strane škoda. Zmluvné strany sa dohodli, že oprávnená strana si môže nárokovať popri zmluvnej pokute
+nárok na náhradu škody v plnom rozsahu.
+12.3. Ak sa dodávateľ dostane do omeškania so splnením predmetu zmluvy podľa požiadavky v termíne
+uvedenom v požiadavke, je povinný zaplatiť zmluvnú pokutu vo výške 50,- EUR za každý aj začatý deň
+omeškania, za každú riadne nedodanú či implementovanú SW licenciu. Predmet zmluvy podľa
+požiadavky je splnený potvrdením Akceptačného protokolu v zmysle bodu 6.7.
+12.4. Ak sa dodávateľ dostane do omeškania s odstránením vady v lehote podľa bodu 7.5. je dodávateľ
+povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 50,- EUR za každý aj začatý deň omeškania,
+za každú dotknutú SW licenciu.
+12.5. Ak dodávateľ riadne v zmysle tejto zmluvy neposkytuje podporu SW Maintenance, je povinný zaplatiť
+objednávateľovi zmluvnú pokutu v sume určenej ako súčin 10,-EUR a počtu všetkých SW licencií
+dodaných na základe tejto zmluvy.
+12.6. Ak dodávateľ poverí časťou plnenia predmetu zmluvy aj iných subdodávateľov ako uvedených
+v zozname priamych subdodávateľov, resp. subdodávateľov doplnených do zoznamu v súlade s bodom
+9.3. alebo 9.4., je dodávateľ povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 300,- EUR za
+každý jednotlivý prípad.
+12.7. Ak dodávateľ poruší niektorú z povinností podľa bodu 9.4. druhá veta, 9.5. alebo 9.6. je dodávateľ
+povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 100,- EUR za každý jednotlivý prípad.
+12.8. Ak dodávateľ poruší povinnosť písomne oznámiť objednávateľovi každú zmenu zapísaných údajov
+o jeho osobe v registri partnerov verejného sektora alebo jeho výmaz z registra partnerov verejného
+sektora najneskôr do päť 5 dní odo dňa vykonania zmeny zapísaných údajov alebo výmazu, je dodávateľ
+povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 100,- EUR za každý aj začatý deň
+omeškania.
+12.9. Ak dodávateľ poruší povinnosť podľa bodu 10.4. je objednávateľ oprávnený uplatniť si voči
+dodávateľovi zmluvnú pokutu vo výške 1.000,- EUR za každý jednotlivý prípad. Zmluvnú pokutu
+možno za porušenie povinnosti podľa bodu 10.4. vo vzťahu k tomu istému subdodávateľovi udeliť aj
+opakovane, maximálne však 1x za kalendárny mesiac.
+12.10. V prípade porušenia povinnosti ustanovenej v bode 6.11., je dodávateľ povinný uhradiť objednávateľovi
+zmluvnú pokutu vo výške 20 % z hodnoty pohľadávky, ktorú postúpil. Pre vylúčenie akýchkoľvek
+pochybností týmto nie je dotknutá neplatnosť takéhoto úkonu. Právo objednávateľa na náhradu škody
+tým nie je dotknuté.
+12.11. Základom pre výpočet úrokov z omeškania a zmluvných pokút podľa tohto článku sú ceny bez DPH.
+
+12.12. Dlžník (povinná osoba pre uplatnenú sankciu) sa zaväzuje zmluvnú sankciu uhradiť veriteľovi do 14
+pracovných dní odo dňa doručenia faktúry vystavenej veriteľom (oprávnená osoba pre uplatnenú
+sankciu). Čiastka zmluvnej sankcie bude uhradená bezhotovostným prevodom na bankové účty uvedené
+v článku I.
+
+Článok XIII.
+Ukončenie zmluvného vzťahu
+13.1. Zmluvný vzťah dohodnutý touto zmluvou zaniká:
+13.1.1. uplynutím doby, na ktorú sa zmluva uzatvára,
+13.1.2. písomnou dohodou oboch zmluvných strán,
+13.1.3. výpoveďou zo strany objednávateľa, aj bez uvedenia dôvodu, s výpovednou lehotou 3 mesiace,
+ktorá začína plynúť od prvého dňa kalendárneho mesiaca nasledujúceho po doručení výpovede
+dodávateľovi,
+13.1.4. písomným odstúpením jednej zo zmluvných strán.
+13.2. Za podstatné porušenie zmluvných povinností v zmysle zmluvy, s právom oprávnenej zmluvnej strany
+okamžite od zmluvy odstúpiť, zmluvné strany považujú tieto skutočnosti:
+13.2.1. dodávateľ sa dostal do omeškania so splnením predmetu zmluvy podľa požiadavky o viac ako 3
+dni,
+13.2.2. dodávateľ nezačne, preruší alebo zastaví plnenie predmetu zmluvy podľa požiadavky z iných
+dôvodov ako dôvodov na strane objednávateľa alebo z dôvodov, ktoré dodávateľ nemohol
+predvídať v čase uzatvorenia zmluvy ani pri vynaložení náležitej starostlivosti, ktorú možno od
+neho požadovať,
+13.2.3. objednávateľ je v omeškaní so zaplatením faktúry o viac ako 60 dní,
+13.2.4. objednávateľ neposkytol dodávateľovi súčinnosť ani v dodatočne písomne stanovenej lehote, čo
+malo za následok nesplnenie lehoty plnenia.
+13.3. Objednávateľ je oprávnený okrem prípadov uvedených v bode 13.2. odstúpiť od zmluvy aj v prípade, ak:
+13.3.1. vyhlásenie dodávateľa v zmysle bodu 10.1. prvá veta alebo druhá veta sa ukáže ako nepravdivé,
+13.3.2. dodávateľ plní predmet zmluvy prostredníctvom subdodávateľa, ktorý je partnerom verejného
+sektora a nie je zapísaný v registri partnerov verejného sektora,
+13.3.3. dodávateľ bol právoplatným rozhodnutím súdu vymazaný z registra partnerov verejného sektora
+alebo mu bol právoplatným rozhodnutím Úradu pre verejné obstarávanie uložený zákaz účasti
+vo verejnom obstarávaní,
+13.3.4. ak objednávateľ zistí, že dodávateľ má nesplnenú povinnosť vyplatenia odmeny alebo odplaty
+zo zmluvy s osobou, ktorá je alebo bola jeho subdodávateľom, v súvislosti s plnením zmluvy.
+13.4. Objednávateľ je oprávnený okrem prípadov uvedených v bodoch 13.2. a 13.3. odstúpiť od zmluvy aj
+v prípade, ak dodávateľ porušil ďalšie povinnosti, ktoré mu vyplývajú z ustanovení zmluvy alebo z
+ustanovení príslušných právnych predpisov. Objednávateľ je v tomto prípade oprávnený odstúpiť od
+zmluvy už po druhom porušení ktorejkoľvek povinnosti zo strany dodávateľa, pričom objednávateľ po
+prvom porušení povinnosti písomne upozorní dodávateľa na porušenie zmluvných podmienok alebo
+ustanovení právnych predpisov s upozornením, že pri ďalšom porušení ktorejkoľvek povinnosti odstúpi
+od zmluvy. Objednávateľ v upozornení uvedie lehotu na nápravu, ak sa vyžaduje.
+13.5. Dodávateľ je oprávnený okrem prípadov podľa bodu 13.2. od zmluvy odstúpiť aj v prípade, ak
+objednávateľ opakovane závažným spôsobom poruší ďalšie povinnosti, ktoré mu vyplývajú z ustanovení
+zmluvy alebo z ustanovení príslušných právnych predpisov. Dodávateľ je v tomto prípade oprávnený
+odstúpiť od zmluvy už po druhom porušení ktorejkoľvek povinnosti zo strany objednávateľa závažným
+spôsobom, pričom dodávateľ po prvom porušení povinnosti závažným spôsobom písomne upozorní
+objednávateľa na porušenie zmluvných podmienok alebo ustanovení právnych predpisov s upozornením,
+
+že pri ďalšom porušení ktorejkoľvek povinnosti závažným spôsobom odstúpi od zmluvy. Dodávateľ
+v upozornení uvedie lehotu na nápravu, ak sa vyžaduje.
+13.6. Odstúpením od zmluvy podľa tohto článku zanikajú všetky práva a povinnosti zmluvných strán
+zo zmluvy s výnimkou nároku na náhradu škody vzniknutej porušením zmluvy, nárokov na dovtedy
+vzniknuté zmluvné resp. zákonné sankcie a úroky z omeškania, nárokov vyplývajúcich z ustanovení
+zmluvy o poskytovaní záruky a zodpovednosti za vady za časť predmetu zmluvy, ktorá bola do
+momentu odstúpenia zrealizovaná, ako aj s výnimkou povinností súvisiacich s odovzdaním a prevzatím
+časti predmetu zmluvy vykonanej do momentu odstúpenia, zmluvných ustanovení týkajúcich sa voľby
+práva alebo voľby Obchodného zákonníka, riešenia sporov medzi zmluvnými stranami a iných
+ustanovení, ktoré podľa prejavenej vôle strán alebo vzhľadom na svoju povahu majú trvať aj po
+ukončení zmluvy.
+13.7. Zmluvné strany sa dohodli, že odstúpenie od zmluvy bude účinné dňom jeho doručenia druhej zmluvnej
+strane. Odstúpenie od zmluvy musí byť podpísané oprávnenou osobou.
+13.8. Pre vylúčenie akýchkoľvek pochybností platí, že na požiadavky doručené dodávateľovi do zániku
+zmluvného vzťahu založeného touto zmluvou sa budú naďalej vzťahovať všetky relevantné ustanovenia
+tejto zmluvy (najmä, ale nielen povinnosť dodávateľa doručenú požiadavku splniť, povinnosť
+objednávateľa za riadne a včas splnenú požiadavku zaplatiť dohodnutú cenu, povinnosť zabezpečiť 24
+mesačnú podporu SW Maintenance na dodané SW licencie, zodpovednosť za vady, záruka, zmluvné
+pokuty) s výnimkou prípadu, ak v právnom úkone vykonanom zo strany objednávateľa, ktorým sa
+zmluvný vzťah založený touto zmluvou má skončiť, bude uvedené, že zanikajú aj všetky do momentu
+zániku zmluvného vzťahu dodávateľovi doručené požiadavky alebo len niektoré z nich.
+
+Článok XIV.
+Oznamovanie osôb poverených plnením činností v zmysle zmluvy a
+povinnosti v súvislosti s ochranou osobných údajov
+14.1. Dodávateľ sa zaväzuje najneskôr do piatich (5) pracovných dní odo dňa nadobudnutia účinnosti zmluvy
+oznámiť objednávateľovi na e-mailovú adresu uvedenú v bode 1.1. osobu resp. osoby, ktoré budú
+poverené plnením povinností podľa tejto zmluvy v rozsahu meno a priezvisko, e-mailová adresa
+a telefónne číslo. Dodávateľ je oprávnený osobu resp. osoby zmeniť, a to zaslaním oznámenia
+objednávateľovi s uvedením údajov a spôsobom podľa predchádzajúcej vety.
+14.2. Objednávateľ sa zaväzuje najneskôr do piatich (5) pracovných dní odo dňa nadobudnutia účinnosti
+zmluvy oznámiť dodávateľovi na e-mailovú adresu uvedenú v bode 1.2. osobu resp. osoby, ktoré budú
+poverené plnením povinností podľa tejto zmluvy v rozsahu meno a priezvisko, e-mailová adresa
+a telefónne číslo. Objednávateľ je oprávnený oznámenú osobu resp. osoby zmeniť a to zaslaním
+oznámenia dodávateľovi s uvedením údajov a spôsobom podľa predchádzajúcej vety.
+14.3. V prípade, ak sa v zmysle zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení
+niektorých zákonov (ďalej len „zákon o ochrane osobných údajov“) a v súlade s Nariadením Európskeho
+parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných
+údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (ďalej len „GDPR“)
+vyžaduje na spracúvanie osobných údajov oznámených v zmysle bodu 14.1. alebo bodu 14.2. súhlas
+dotknutej osoby na spracúvanie osobných údajov, zmluvné strany sa zaväzujú spolu s oznámením podľa
+bodu 14.1. alebo bodu 14.2. doručiť druhej zmluvnej strane súhlas dotknutej osoby so spracúvaním
+osobných údajov, ktorý bude spĺňať všetky náležitosti súhlasu so spracúvaním osobných údajov
+v zmysle zákona o ochrane osobných údajov a GDPR.
+
+14.4. V prípade, ak niektorá zmluvná strana pri plnení tejto zmluvy alebo v súvislosti s jej plnením bude
+sprístupňovať druhej zmluvnej strane osobné údaje aj inej osoby ako podľa oznámenia v zmysle bodu
+14.1. alebo bodu 14.2., zmluvná strana sprístupňujúca osobné údaje je povinná najneskôr pri prvom
+sprístupnení doručiť súhlas dotknutej osoby so spracúvaním osobných údajov, ktorý bude spĺňať všetky
+náležitosti súhlasu so spracúvaním osobných údajov v zmysle zákona o ochrane osobných údajov
+a GDPR.
+14.5. Ak dotknutá osoba, ktorá vyjadrila súhlas so spracúvaním jej osobných údajov, počas trvania tejto
+zmluvy tento súhlas odvolá, príslušná zmluvná strana je povinná zabezpečiť, aby táto osoba ďalej
+nevykonávala príslušnú činnosť pri plnení tejto zmluvy a bez zbytočného odkladu oznámi druhej
+zmluvnej strane novú osobu v dotknutej pozícii a to spôsobom podľa bodu 14.1. alebo bodu 14.2.
+14.6. V prípade, ak niektorá zmluvná strana má v súvislosti s plnením tejto zmluvy spracúvať osobné údaje
+v mene druhej zmluvnej strany, dodávateľ nezačne so spracúvaním osobných údajov skôr ako zmluvné
+strany medzi sebou neuzavrú Zmluvu o spracúvaní osobných údajov podľa ustanovení § 34 zákona
+o ochrane osobných údajov a v súlade s článkom 28 bodom 3 GDPR.
+14.7. Ak niektorá zmluvná strana v rozpore so zákonom o ochrane osobných údajov a GDPR sprístupní druhej
+zmluvnej strane osobné údaje dotknutej osoby bez predloženia súhlasu na spracovanie osobných údajov
+v zmysle bodu 14.3. alebo poruší zákon o ochrane osobných údajov a GDPR iným spôsobom,
+porušujúca zmluvná strana je povinná druhej zmluvnej strane nahradiť všetku škodu, ktorá jej tým
+vznikne vrátane nákladov vzniknutých v súvislosti s uplatnením si opodstatnených nárokov dotknutej
+osoby a tiež nákladov v súvislosti s úhradou sankcií právoplatne uložených zo strany štátnych orgánov.
+
+Článok XV.
+Záverečné ustanovenia
+15.1. Pokiaľ v zmluve nebolo dohodnuté niečo iné, vzájomné vzťahy zmluvných strán sa riadia ustanoveniami
+Obchodného zákonníka, subsidiárne ustanoveniami Občianskeho zákonníka a príslušnými právnymi
+predpismi Slovenskej republiky. Zmluvný vzťah sa bude riadiť právnym poriadkom platným na území
+Slovenskej republiky a na riešenie sporov je príslušný súd Slovenskej republiky.
+15.2. Zmluva môže byť menená a dopĺňaná len písomnými dodatkami podpísanými obidvoma zmluvnými
+stranami s výnimkou prípadov, ktoré zmluva predpokladá.
+15.3. Zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami zmluvných strán a účinnosť
+dňom nasledujúcim po dni jej zverejnenia v zmysle ustanovenia § 47a Občianskeho zákonníka.
+15.4. Všetky písomnosti podľa zmluvy sa doručujú poštou, kuriérom alebo osobne na adresu sídla zmluvných
+strán uvedenú v obchodnom registri v čase zaslania danej písomnosti, ak v zmluve nie je uvedené iné
+doručovanie. V prípade, že nedošlo k prevzatiu písomnosti, písomnosť nie je možné doručiť, pretože
+bola odmietnutá, alebo jej doručenie bolo inak zmarené konaním alebo opomenutím zmluvných strán,
+zmluvné strany sa dohodli, že písomnosť sa považuje za doručenú dňom odmietnutia alebo zmarenia jej
+prijatia, a ak nie je možné takýto deň určiť, tak dňom kedy bude písomnosť vrátená druhej zmluvnej
+strane ako nedoručiteľná.
+15.5. Zmluva je vyhotovená v štyroch (4) rovnocenných exemplároch, z ktorých objednávateľ obdrží dva (2)
+exempláre a dodávateľ dva (2) exempláre.
+15.6. Neoddeliteľnou súčasťou zmluvy sú prílohy:
+Príloha č. 1:
+Popis požiadaviek na SW licencie pre potreby prevádzky aplikačného riešenia
+„Automatizovaná správa registratúry“
+Príloha č. 2:
+Zoznam priamych subdodávateľov
+
+15.7. Obe zmluvné strany vyhlasujú, že si zmluvu pred jej podpísaním prečítali, že bola uzavretá slobodne,
+vážne, určite a zrozumiteľne a na znak súhlasu s jej obsahom ju vlastnoručne podpisujú.
+
+V Bratislave, dňa .....................
+
+V Bratislave, dňa .....................
+
+V mene objednávateľa:
+Železnice Slovenskej republiky, Bratislava
+v skrátenej forme “ŽSR“
+
+V mene dodávateľa:
+DWC Slovakia a.s.
+
+........................................ ..........
+Ing. Juraj Tkáč
+Generálny riaditeľ ŽSR
+
+...................................................
+Ing. Peter Axamít
+Predseda predstavenstva
+
+Príloha č. 1 - Popis požiadaviek na SW licencie pre potreby prevádzky aplikačného riešenia
+„Automatizovaná správa registratúry“
+
+Špecifikácia (minimálne požiadavky)
+
+Parameter
+
+
+
+Všeobecné
+požiadavky
+
+
+
+
+
+
+Jednotné
+dokumentové
+úložisko
+
+
+
+
+
+
+Procesný
+prístup
+
+Na týchto aktivitách sa môžu zúčastňovať viacerí používatelia, pričom procesy
+majú definovanú vnútornú logiku.
+
+
+
+Tok dokumentov v procesoch bude riadiť systém, pričom bude prideľovať
+používateľom aktuálne pracovné úlohy na spracovanie alebo riešenie.
+Systém musí poskytovať sofistikované prístupové práva s jemnou granularitou
+v integrácii s centrálnym identifikačným a autorizačným modulom.
+Okrem prístupových práv definovaných v čase návrhu systému, musia mať
+používatelia k dispozícii aj možnosť ad-hoc prideliť prístupové práca ku svojim
+spisom a záznamom.
+Systém musí podporovať statické aj dynamické prístupové práva na úrovni
+objektu a atribútov.
+Systém musí umožniť definovať prístupové práva pre dokument podľa
+potreby.
+
+
+
+
+
+Vyhľadávanie
+
+Vlastností a
+funkcionality
+jednotného
+dokumentového
+úložiska
+
+Centrálne dokumentové úložisko musí poskytovať jednotný, bezpečný a
+údajovo konzistentný zdroj dokumentov.
+Tento dokument manažment systém musí poskytovať dokumenty pre všetky
+ostatné aplikácie a systémy.
+Musí umožňovať dlhodobé, bezpečné uloženie elektronických dokumentov so
+zabezpečením ich integrity.
+Dokumenty sa musia v systéme priamo vytvoriť alebo musí byť možnosť
+importu z rôznych zdrojov, napr. importom z iných relevantných aplikácií.
+Prácu s jednotlivými dokumentmi (objektmi) možno chápať v zmysle procesov
+ako postupnosť aktivít nad daným dokumentom - integrovaný BPM systém.
+
+
+
+
+
+Prístupové
+práva
+
+Centralizovaný dokument manažment systém musí zabezpečiť jednotné
+prostredie pre správu elektronických dokumentov určených typov.
+Systém musí zabezpečovať štruktúrované uloženie dokumentov s definíciou
+užívateľských práv na manipuláciu s nimi a ich primeranú ochranu pred
+neoprávnenou manipuláciou.
+Musí poskytovať nástroje pre podporu spracovania dokumentov a tvorby
+pracovných verzií.
+Súčasťou musí byť aj mechanizmus pre dlhodobú ochranu dokumentov z
+hľadiska ich čitateľnosti a zaručenia ich dôveryhodnosti.
+Musí poskytovať integračné rozhrania na ostatné systémy, ktoré budú služby
+dokument manažment systému využívať. Ako minimálne integračné rozhrania
+systém musí ponúknuť štandardy ODMA, LDAP, a SOAP.
+Systém musí podporovať minimálne štandardy: HTTPS, WebDAV, CalDAV či
+CMIS.
+
+
+
+Systém musí poskytovať efektívne vyhľadávanie podľa všetkých údajov
+uložených v systéme.
+
+
+
+Obsahy dokumentov sa musia ukladať centrálne na serveri, popisné údaje
+(metadáta) sa musia ukladať v relačnej databáze.
+Škálovatelnosť – systém musí zabezpečiť možnosť pružného škálovania
+systému pri zachovaní doby odozvy a dostupnosti.
+Systém musí zabezpečiť možnosť konfigurovateľného auditovania činnosti
+systému.
+
+
+
+
+Špecifikácia (minimálne požiadavky)
+
+Parameter
+
+
+Vytvorenie
+dokumentu
+
+Správa verzií
+
+Spoločné
+spracovanie
+objektov
+Hierarchická
+štruktúra
+zložiek
+
+
+
+
+
+
+
+
+
+
+
+
+Systém musí zabezpečiť plnú podporu pre správu verzií.
+Systém musí zabezpečiť riadenie verzií.
+Systém musí zabezpečiť možnosť prístupu ku jednotlivým verziám.
+Systém musí zabezpečiť ľubovoľný počet verzií dokumentu.
+Systém musí zabezpečiť automatické generovanie čísla verzií.
+Systém musí ponúknuť offline prácu s dokumentami, pričom pri následnom
+obnovení konektivity musí dôjsť k následnej synchronizácii.
+
+
+
+Systém musí poskytnúť uzamykací mechanizmus, ktorý zabraňuje súčasnú
+zmenu objektu viacerými používateľmi.
+
+
+
+Systém musí umožniť ukladanie dokumentov v hierarchickej stromovej
+štruktúre zložiek.
+Systém musí podporovať uloženie dokumentu v zložke.
+Systém musí umožniť prideľovať prístupové práva na úrovni zložky.
+Systém musí umožniť prideľovať prístupové práva na úrovni dokumentu.
+
+
+
+
+
+
+
+
+Administrácia
+systému
+
+
+
+
+Dokument
+manažment
+systém musí
+taktiež
+podporovať
+
+Systém musí zabezpečiť podporu pre všetky typy dokumentov – minimálne
+dokumenty MS Office, Open Office, PDF, TXT, HTML, XML, RTF, JPG, PNG,
+súbory emailových archívov, ako napríklad PST alebo NSF a pod.
+Systém musí zabezpečiť implicitný check-in a check-out pri práci
+s dokumentmi.
+Systém musí zabezpečiť možnosť priradiť dokumentu ľubovoľné atribúty.
+Systém musí zabezpečiť jednotné centrálne úložisko dokumentov.
+Systém musí umožňovať upload dokumentov cez webové rozhranie, pričom
+musí byť možné uploadovať viac súborov naraz.
+
+
+
+
+
+
+
+Systém musí umožniť rozsiahle možnosti konfigurácie a správy systému,
+vysokú flexibilitu.
+Systém musí podporovať správu procesov, pričom musí umožňovať BPM ako
+integrálnu súčasť dokument manažment systému.
+Systém musí podporovať možnosť pre koncového používateľa ad-hoc
+definovať časť procesu pomocou grafického rozhrania s možnosťou uložiť
+definovanú časť ako šablónu.
+Systém musí umožňovať definovať účastníkov procesu aj na abstraktnej
+úrovni – ako napríklad Priamy nadriadený, Nadriadený 2. úrovne, Správca
+registratúry atď.
+Systém musí umožniť definovať termíny pre vykonanie úloh v rámci
+definovanej ad-hoc časti procesu.
+Prístup do systému pomocou WebDAV Linku.
+Konverziu dokumentov do formátu PDF/A.
+Umožňovať rýchle preview obsahu zložky - minimálne počet dokumentov
+v zložke.
+Nástroje na modulovanie procesov.
+Integráciu s MS Office.
+
+Špecifikácia (minimálne požiadavky)
+
+Parameter
+
+
+Operačné systémy
+o Windows Server 2012 R2 a vyšší
+
+
+
+Databázové servery
+
+o
+o
+
+Podporované
+platformy
+
+
+
+
+
+
+
+
+Špecifická
+funkcionalita
+
+
+
+
+
+RedHat Enterprise Linux
+Oracle Database 12c
+
+o Microsoft SQL Server 2016 a vyšší
+Internetové prehliadače
+o Microsoft Internet Explorer 11.0 a vyšší
+o Mozila Firefox 24 a vyšší
+o Google Chrome 31 a vyšší
+o Apple Safari 7 a vyšší
+Mobilné platformy
+o Apple iOS 9.0 a vyšší - pomocou natívnej aplikácie
+o Google Android 4.3 a vyšší - pomocou natívnej aplikácie
+Systém musí poskytovať integračné rozhrania na ostatné systémy, ktoré
+môžu v budúcnosti služby dokument manažment systému využívať – ako
+napríklad SAP, Microsoft Dynamics NAV a pod.
+Systém musí podporovať mobilné zariadenia a to ako prístup pomocou
+vstavaného internetového prehliadača tak formou natívnych aplikácií.
+Systém musí umožňovať prístup z mobilných platforiem minimálne so
+základnou funkcionalitou – čítanie, editovanie, vytváranie a mazanie
+dokumentov.
+Systém musí podporovať individuálne prispôsobenie zobrazenia zoznamu
+objektov s možnosťou odpamätania ako znovu použiteľnej šablóny.
+Systém musí umožňovať jednoduché filtrovanie zoznamu podľa ľubovoľného
+stĺpca.
+Systém musí umožňovať triedenie podľa jedného alebo viacerých stĺpcov
+a zároveň musí umožňovať stránkovanie dlhých zoznamov.
+
+Príloha č. 2 - Zoznam priamych subdodávateľov
+
+P. č.
+
+Meno a priezvisko /
+Obchodné meno
+
+Adresa pobytu
+alebo sídlo
+
+alebo názov
+
+x
+
+x
+
+x
+
+Identifikačné číslo
+
+Predmet subdodávky
+
+Podiel plnenia
+
+alebo dátum
+narodenia (ak nebolo
+pridelené
+identifikačné číslo)
+x
+
+(v %)
+
+Zápis v Zozname
+hospodárskych
+subjektov
+(ÁNO/NIE)
+
+x
+
+x
+
+x
+
+

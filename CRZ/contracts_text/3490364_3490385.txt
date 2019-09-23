@@ -1,0 +1,832 @@
+č. zmluvy: 142/2018
+
+Zmluva o dielo a poskytovanie služieb
+„E-learningová platforma“
+podľa § 536 a nasl. zákona č.
+
+/
+
+Zb. Obchodný zákonník v znení neskorších predpisov
+
+medzi zmluvnými stranami
+Poskytovateľ:
+MGROUP, s. r. o.
+Sídlo:
+Ponická ulica ,
+Banská Bystrica Šalková
+zastúpený:
+Martin Pechovský / konateľ
+IČO:
+45 859 922
+DIČ:
+2023122618
+IČ DPH:
+SK2023122618
+Bankové spojenie:
+Tatrabanka, a.s.
+Číslo účtu:
+2923845350/1100
+Zap. v Obchodnom registri Okresného súdu Banská Bystrica, Oddiel: Sro,
+vložka číslo:
+/S
+ďalej len „poskytovateľ“
+
+a
+Objednávateľ:
+Sídlo:
+zastúpený:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu:
+
+Úrad podpredsedu vlády SR pre investície a informatizáciu
+Štefánikova ,
+Bratislava
+Mgr. Patrik Krauspe / vedúci úradu
+50 349 287
+2120287004
+SK2120287004
+Národná banka Slovenska
+SK52 8180 0000 0070 0055 7142
+
+ďalej len „objednávateľ
+Článok I
+Definície
+
+„zmluva“
+„zdrojové texty k službe“
+
+znamená túto Zmluvu o dielo, poskytovaní služieb a licenčnú zmluvu
+
+znamená texty poskytnuté objednávateľom potrebné k zhotoveniu diela
+poskytovateľom
+
+„podkladový materiál“
+
+„cena“
+
+znamená materiál akéhokoľvek charakteru video, obrázky, multimediálne
+prvky...
+poskytnuté objednávateľom potrebné k zhotoveniu diela
+poskytovateľom
+
+znamená cenu popísanú v článku III zmluvy
+
+„DPH“
+„záväzný dizajn“
+
+„CMS“
+
+znamená daň z pridanej hodnoty vypočítanú podľa príslušného zákona
+platného v Slovenskej republike
+znamená
+- Dodanie x grafického návrhu pre hlavnú časť portálu a všetkých
+navrhovaných modulov.
+- Dodanie x štrukturovaného grafického návrhu pre meniace sa časti
+portálu.
+- Dodanie x grafického návrhu emailu pre newsletter a stratené heslo
+
+znamená - Content management system pre správu obsahu operatívnych
+častí portálu
+
+„LMS“
+Štandardná pracovná doba
+
+znamená Learning management system pre riadenie kurzov a testovania
+v portáli
+
+Štandardnú pracovnú dobu/hodiny definujú obe strany ako:
+-
+
+pondelok až piatok okrem dní pracovného pokoja)
+08:00 – 16:00 hod.
+
+Doba prípravy návrhu riešenia
+-
+
+Je čas v štandardných pracovných hodinách, resp. štandardných pracovných dňoch, ktorý uplynie od
+riadneho oznámenia požiadavky, do času, ktorý potrebuje Dodávateľ na prípravu zámeru/návrhu
+riešenia nie poskytnutie samotného riešenia . Zámer resp. návrh riešenia, musí okrem dostatočného
+popisu samotného riešenia v jednotlivých popísaných bodoch ,obsahovať aj návrh časového
+harmonogramu implementácie a jej súhrnný časový odhad v človekohodinách, pričom tento je pre
+Dodávateľa z pohľadu implementácie záväzný a je možné ho meniť len na základe dohody
+s Objednávateľom.
+
+Kontaktné údaje
+-
+
+Sú obojstranne akceptované a poverené osoby a ich údaje, prostredníctvom ktorých je uskutočňované
+doručovanie a riešenie požiadaviek, ako aj potrebná komunikácia medzi Dodávateľom a Odberateľom.
+
+Dostupnosť Poskytovateľa
+-
+
+Je garantovaná doba dostupnosti osôb, uvedených v Kontaktných údajoch, pre doručovanie požiadaviek
+Odberateľa a ich vzájomnú komunikáciu.
+
+Dostupnosť Objednávateľa
+-
+
+Je garantovaná doba dostupnosti osôb, uvedených v Kontaktných údajoch, pre doručovanie požiadaviek
+na súčinnosť Odberateľa s Dodávateľom a ich vzájomnú komunikáciu.
+
+Dostupnosť IT služby
+-
+
+Je percentuálne vyjadrenie dostupnosti IT služby prepočítanej na definované časové obdobie.
+
+Spôsob nahlasovania požiadaviek
+-
+
+Sú definované spôsoby, postupy a kontaktné údaje slúžiace na doručovanie požiadaviek a informácií
+medzi Dodávateľom a Odberateľom.
+
+„ostatné časti portálu“
+-
+
+Znamená všetky ostatné body popísané v špecifikácii, ktorá je neoddeliteľnou časťou tejto zmluvy
+
+„administrátorské prístupové práva“
+-
+
+Znamená prihlasovacie údaje s právami najvyššej úrovne do všetkých častí portálu
+
+„Správne pripravený VPS“
+-
+
+Znamená virtuálny server, na ktorom bude umiestnený portál so všetkými potrebnými knižnicami
+a nastaveniami pre plynulý chod portálu.
+
+Všetky ďalšie časti sú podrobne vysvetlené v Špecifikácií, ktorá je neoddeliteľnou súčasťou tejto zmluvy ako Príloha
+č. .
+Článok II
+Predmet zmluvy
+
+1. Poskytovateľ sa touto zmluvou zaväzuje vytvoriť vzdelávací portál E-learningová platforma ako
+manažovateľná služba, špeciálne prispôsobená potrebám obstarávateľa pre potreby interného vzdelávania
+zamestnancov a poskytnúť súvisiace služby, podporu a údržbu, ktoré sú bližšie špecifikované v Prílohe č.
+Špecifikácia, ktorá tvorí neoddeliteľnú súčasť tejto zmluvy ďalej jednotlivo tiež „časť služby“ a spolu
+„služba“ , a to za odmenu a podmienok ďalej stanovených v tejto zmluve.
+
+2. Predmetom tejto zmluvy nie je poskytnutie zdrojových textov k službe ani dodanie podkladových materiálov
+potrebných na jeho prípravu zo strany poskytovateľa.
+
+1.
+
+Článok III
+Cena za poskytnuté služby
+
+Za poskytnutie služieb zaplatí objednávateľ podľa podmienok dohodnutých v článku V tejto zmluvy
+poskytovateľovi dohodnutú cenu za poskytnuté služby nasledovne:
+1.1 Platba č. : 43 000,00 bez DPH za vytvorenie vzdelávacieho portálu E-learningova platforma a súvisiacich
+služieb
+1.2 Platba č. : 5 000,00bez DPH za poskytovanie podpory, údržby a ďalších súvisiacich služieb.
+1.3 Cena spolu bez DPH: 48 000,00 bez DPH
+
+2.
+
+3.
+
+4.
+5.
+
+6.
+
+7.
+
+8.
+
+K vypočítanej cene bez DPH bude pripočítaná hodnota DPH platná v čase uskutočnenia zdaniteľného plnenia, t. j.
+9 600 EUR pri aplikovaní DPH vo výške
+%. Celková cena s DPH ďalej len „Celková cena“ je stanovená vo
+výške
+600,00 EUR.
+
+V Celkovej cene sú zahrnuté všetky ekonomicky oprávnené náklady, ktoré sú spojené s realizáciou všetkých
+súvisiacich služieb.
+
+Zmluvné strany sa dohodli, že poskytovateľovi nebude uhradený žiadny preddavok ani zálohové platby.
+
+Zmluvné strany sa dohodli, že cena podľa tejto zmluvy bude objednávateľom uhradená na základe faktúry
+zaslanej poskytovateľom na adresu sídla objednávateľa bankovým prevodom. Splatnosť faktúry poskytovateľa je
+dní odo dňa doručenia objednávateľovi.
+
+Objednávateľ uhradí cenu za poskytnuté služby podľa bodu . . článku III bankovým prevodom na bankový účet
+poskytovateľa uvedený v záhlaví tejto zmluvy po dodaní a akceptácii diela a súvisiacich služieb tejto časti služieb
+objednávateľom prostredníctvom Akceptačného protokolu Príloha č. . Cenu za poskytnuté služby uvedené
+v bode . . článku III objednávateľ uhradí bankovým prevodom na bankový účet poskytovateľa uvedený v záhlaví
+tejto zmluvy po riadne a včas poskytnutej ďalšej časti služieb. Objednávateľova povinnosť uhradiť sumy uvedené
+v článku III bod č. zmluvy sú považované za splnené vtedy, keď príslušné sumy budú pripísané na bankový účet
+poskytovateľa.
+Faktúra musí obsahovať označenie tejto zmluvy a spĺňať náležitosti podľa §
+zákona č.
+/
+Z. z. o dani z
+pridanej hodnoty v znení neskorších predpisov ďalej len „zákon o DPH“ a náležitosti podľa zákona č.
+/
+Zb. Obchodného zákonníka v znení neskorších predpisov.
+
+V prípade, že faktúra bude obsahovať nesprávne alebo neúplné údaje, objednávateľ je oprávnený túto faktúru v
+lehote jej splatnosti vrátiť poskytovateľovi a ten odstráni nedostatky vystavením novej faktúry. Na tejto novej
+faktúre vyznačí novú lehotu splatnosti a doručí ju objednávateľovi.
+Článok IV
+Práva a povinnosti zmluvných strán
+
+1. Poskytovateľ sa zaväzuje, že službu poskytne riadne a včas s vynaložením náležitej odbornej starostlivosti.
+
+2. Plnenie predmetu zmluvy prostredníctvom tretej osoby je viazané na predchádzajúci súhlas objednávateľa.
+
+3. Poskytovateľ sa zaväzuje dodať predmet zmluvy v nasledujúcich termínoch:
+
+a) vytvorenie vzdelávacieho portálu E-learningová platforma do troch mesiacov odo dňa účinnosti tejto zmluvy,
+b) poskytovanie podpory a údržby po obdobie
+platforma objednávateľom.
+
+mesiacov odo dňa prevzatia vzdelávacieho portálu E-learningová
+
+4. Objednávateľ sa zaväzuje riadne a včas službu alebo akúkoľvek časť služby po schválení Akceptačným
+protokolom prevziať a zaplatiť za ňu poskytovateľovi cenu podľa tejto zmluvy.
+5. Objednávateľ sa zaväzuje, že poskytne poskytovateľovi riadne a včas všetku potrebnú súčinnosť, ktorá zahŕňa
+najmä, nie však výlučne:
+a)
+
+b)
+
+také konanie alebo strpenie objednávateľa, ktoré je obvykle nevyhnutné na riadne a včasné vykonanie
+služby;
+poskytnutie nevyhnutných podkladov, informácií, dokumentov a pokynov pre riadne plnenie
+povinností poskytovateľa;
+
+c)
+
+poskytnutie pracovníkov resp. kontaktov na pracovníkov pre konzultačné účely s príslušnými
+vedomosťami k predmetom zmluvy a kompetenciami;
+
+V prípade, že objednávateľ požiada poskytovateľa o vykonanie prác nad rámec dohodnutý v tejto Zmluve a jej
+prílohách, bude odmena dohodnutá vo forme písomného dodatku k tejto Zmluve, alebo samostatnou zmluvou medzi
+zmluvnými stranami.
+
+6. Poskytovateľ pre dodanie a poskytnutie služieb si vyžiada od objednávateľa všetky potrebné podklady, ako aj
+pripomienky k jednotlivým častiam zhotovovanej služby. Po dodaní všetkých podkladových materiálov
+potrebných k vykonaniu služby bude poskytovateľ informovať objednávateľa buď emailom alebo telefonicky,
+prípadne poštou na adresu uvedenú v tejto zmluve.
+
+7. V prípade nedodania poskytovateľovi vyžiadaných podkladových materiálov, alebo neposkytnutia potrebnej
+súčinnosti sa termín odovzdania časti služieb posúva o obdobie, počas ktorého Objednávateľ mešká
+s poskytnutím súčinnosti voči poskytovateľovi tak, ako je to uvedené v tomto bode.
+
+8. Poskytovateľ sa zaväzuje odovzdať dokumenty, ktoré sa vzťahujú k odovzdanému predmetu zmluvy, a ktoré sú
+potrebné na jeho riadne užívanie objednávateľovi spolu s predmetom zmluvy.
+
+9. Poskytovateľ je v súlade s §
+Obchodného zákonníka povinný bez zbytočného odkladu upozorniť na nevhodnú
+povahu alebo vady vecí, podkladov alebo pokynov daných mu objednávateľom na vyhotovenie predmetu zmluvy, ak
+Poskytovateľ mohol túto nevhodnosť zistiť pri vynaložení odbornej spôsobilosti. V prípade, že Objednávateľ trvá na
+dodržaní jeho pokynov, Poskytovateľ nezodpovedá za takto vzniknuté vady predmetu zmluvy. Ak Poskytovateľ zistí
+skryté prekážky na mieste, kde má predmet zmluvy zhotoviť, a ktoré mu bránia zhotoviť predmet zmluvy riadne, je
+povinný ihneď takéto prekážky oznámiť Objednávateľovi a navrhnúť mu zmenu predmetu zmluvy.
+10. Jednotlivé časti služby budú považované za zhotovené a poskytnuté riadne a včas vtedy, ak ich výstupy budú
+schválené objednávateľom prostredníctvom e-mailovej komunikácie alebo podpisom Akceptačného protokolu.
+O prevzatí a odsúhlasení všetkých výstupov jednotlivých činností vykonávaných v rámci jednotlivých častí služby
+bude spísaný Akceptačný protokol (Príloha č. 2).
+11. Miestom plnenia je sídlo objednávateľa.
+
+12. V prípade omeškania objednávateľa so zaplatením ceny alebo akejkoľvek jej časti podľa článku III tejto zmlvy
+o viac ako
+tridsať dní podľa tejto zmluvy, alebo s poskytnutím potrebnej súčinnosti, je poskytovateľ
+oprávnený po písomnom upozornení objednávateľa na také omeškanie, pozastaviť práce na poskytovaní služby
+úplne či čiastočne , a to do času, dokiaľ nedôjde zo strany objednávateľa k splneniu týchto povinností uvedených
+v tomto bode zmluvy. Ak dôjde k zastaveniu prác podľa tohto bodu zmluvy, má poskytovateľ nárok na úhradu
+účelne vynaložených nákladov, ktoré mu vznikli v súvislosti so zastavením a následným obnovením prác.
+Zmluvné strany sa dohodli, že termíny plnenia poskytovateľa sa predlžujú o dobu zastavenia prác z dôvodov,
+ktoré sú uvádzané v tomto bode ako aj o ďalšiu minimálnu dobu, potrebnú pre opätovné obnovenie plnení
+poskytovateľa podľa tejto zmluvy.
+
+1.
+
+2.
+
+3.
+
+Článok V
+Záruka za poskytnutie diela
+
+Poskytovateľ preberá záruku za kvalitu poskytnutého diela a zaručuje, že predmet plnenia bude spôsobilý na
+dohodnutý účel.
+
+Poskytovateľ nezodpovedá za vady predmetu plnenia, ktoré boli spôsobené použitím podkladov alebo vecí
+poskytnutých objednávateľom a poskytovateľ ani po vynaložení všetkej starostlivosti nemohol zistiť ich
+nevhodnosť alebo na ňu upozornil objednávateľa a ten na ich použití trval, za podmienky že tieto skutočnosti
+hodnoverne preukáže.
+Poskytovateľ poskytuje objednávateľovi záruku za poskytnuté dielo na dva roky odo dňa odovzdania príslušnej
+
+4.
+
+5.
+6.
+
+7.
+8.
+
+9.
+
+1.
+
+časti.
+
+Objednávateľ sa zaväzuje, že prípadné uplatnenie vád uplatní u poskytovateľa bezodkladne po ich zistení, a to
+písomným oznámením, v ktorom vadu dostatočne špecifikuje.
+Plynutie záručnej doby sa predlžuje o dobu uplatnenia vád až do ich odstránenia.
+
+Poskytovateľ je povinný začať s odstraňovaním vady na vlastné náklady bezodkladne, najneskôr do troch
+pracovných dní odo dňa jej uplatnenia a odstrániť ju najneskôr do
+dní od jej uplatnenia, ak sa zmluvné strany
+nedohodnú inak. Termín odstránenia vád sa musí dohodnúť písomne.
+
+O odstránení vady bude vyhotovená zápisnica, podpísaná oprávnenými zástupcami zmluvných strán.
+
+Porušenie povinnosti poskytovateľa začať s odstraňovaním vád v lehote podľa tohto článku zmluvy alebo
+porušenie povinnosti odstrániť uplatnené vady v lehote do
+dní od ich uplatnenia, resp. v lehote dohodnutej
+zmluvnými stranami, sa zmluvnými stranami považuje za podstatné porušenie zmluvy.
+V prípade ak poskytovateľ nezačne s odstraňovaním vady v lehote podľa tohto článku zmluvy, alebo neodstráni
+vady v lehote do
+dní od ich uplatnenia, resp. v lehote dohodnutej zmluvnými stranami, je objednávateľ
+oprávnený zabezpečiť odstránenie vady prostredníctvom tretej osoby na náklady zhotoviteľa.
+Článok VI
+Ochrana autorských práv
+
+Všetky výstupy z dodaných a poskytnutých služieb podľa tejto zmluvy ďalej tiež „Predmet Ochrany“ sa stávajú
+majetkom objednávateľa dňom úplného zaplatenia ceny podľa článku III tejto zmluvy, pričom týmto momentom
+nadobúda objednávateľ aj všetky majetkové práva k Predmetu Ochrany alebo k jeho niektorým častiam, ktoré sa
+považujú za výstupy podľa zákona č.
+/
+Z. z. Autorský zákon v znení neskorších zákonov.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Licencia sa poskytuje bezodplatne a udeľuje sa ako nevýhradná, teritoriálne a vecne neobmedzená a na dobu
+trvania majetkových autorských práv.
+
+Poskytovateľ vyhlasuje, že v prípade ak dodaním a/alebo poskytnutím služby v zmysle tejto zmluvy bude
+vytvorené autorské dielo podľa zákona č.
+/
+Z. z. Autorský zákon, je poskytovateľ nositeľom
+autorských práv k Predmetu Ochrany alebo jeho časti vykonanému, dodanému a poskytnutému podľa tejto
+zmluvy a je povinný poskytnúť objednávateľovi Predmet ochrany alebo jeho časť v súlade s podmienkami
+tejto zmluvy. Poskytovateľ zodpovedá voči tretím osobám za prípadné porušenie autorského práva.
+Pokiaľ v rámci plnenia podľa tejto zmluvy poskytovateľ použije autorské dielo tretej strany, je povinný
+zabezpečiť súhlas autora diela na použitie autorského diela tretej osobe a na plnenie podľa tejto zmluvy.
+
+Poskytovateľ sa zaväzuje vysporiadať všetky právne vzťahy s tretími osobami, ktoré sa budú podieľať na
+vytvorení e-learningovej platformy a poskytovania súvisiacich služieb v zmysle tejto zmluvy tak, aby si tieto
+osoby nemohli uplatňovať voči objednávateľovi a tretej strane žiadne nároky vyplývajúce im z osobnostných,
+priemyselných či iných obdobných práv v súvislosti s riadnym plnením záväzkov poskytovateľa podľa tejto
+zmluvy.
+Článok VII
+Mlčanlivosť
+
+1. Poskytovateľ a všetci jeho zamestnanci sa zaväzujú zachovávať mlčanlivosť o všetkých informáciách, o
+ktorých sa dozvedia v súvislosti s plnením tejto Zmluvy a sú povinní považovať ich za dôverné a neoznámiť
+ich žiadnej tretej osobe bez predchádzajúceho písomného súhlasu objednávateľa, v opačnom prípade sa
+poskytovateľ zaväzuje zaplatiť objednávateľovi zmluvnú pokutu vo výške
+,
+€ za každý jednotlivý
+prípad porušenia tejto povinnosti počas platnosti tejto zmluvy. Uplatnením si zmluvnej pokuty nezaniká
+
+nárok na náhradu škody.
+2. Záväzok mlčanlivosti podľa tejto zmluvy sa vzťahuje na dôverné informácie. Dôverné informácie sú všetky
+informácie verejne neprístupné, a to technické, obchodné alebo všetky iné informácie, ktoré objednávateľ
+poskytne poskytovateľovi v súvislosti s poskytovaním služieb alebo s ktorými sa poskytovateľ oboznámi
+iným spôsobom v súvislosti s poskytovaním služieb alebo informácie, s ktorými sa má nakladať, vzhľadom na
+okolnosti známe poskytovateľovi pri ich poskytnutí ako s dôvernými, alebo akékoľvek informácie a údaje, z
+povahy ktorých je pochopiteľné pre akúkoľvek osobu, že sú dôverné, vrátane osobitne chránených údajov
+ďalej len „dôverné informácie“ . Dôverné informácie sú najmä akékoľvek technické, obchodné alebo
+komerčné informácie, špecifikácie, plány, dáta, softvér alebo dokumentácia v akejkoľvek podobe či už
+zachytené hmotne alebo ústne poskytnuté, ako aj informácie prijaté od inej osoby ako je objednávateľ, pokiaľ
+je táto osoba zaviazaná nimi nakladať ako s dôvernými. Dôverné informácie poskytnuté poskytovateľovi
+priamo alebo v záujme objednávateľa sú chránené touto zmluvou.
+3. Povinnosť mlčanlivosti trvá aj po platnosti tejto zmluvy.
+Článok VIII
+Ochrana osobných údajov
+1.
+Poskytovateľ sa zaväzuje zachovávať mlčanlivosť v zmysle zákona č. 18/2018 Z. z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov ďalej len „zákon o ochrane osobných údajov“ , a to aj po ukončení
+spracúvania osobných údajov po skončení platnosti tejto zmluvy.
+
+2.
+Poskytovateľ sa zaväzuje, že objednávateľovi predloží zoznam fyzických osôb a právnických osôb, ktorí budú
+mať a môžu mať prístup k informačným systémom, v ktorých sú spracúvané osobné údaje objednávateľa.
+
+3.
+Objednávateľ a poskytovateľ sa dohodli, že objednávateľ je povinný poučiť všetky fyzické osoby a právnické
+osoby, ktoré majú alebo môžu mať prístup k informačným systémom, v ktorých sú spracúvané osobné údaje
+objednávateľa, o právach a povinnostiach ustanovených zákonom o ochrane osobných údajov a o zodpovednosti za
+ich porušenie. Neoddeliteľnou súčasťou tejto zmluvy je príloha č. „Poučenie o povinnosti mlčanlivosti“.
+4.
+V prípade porušenia povinností podľa tohto článku, poskytovateľ uhradí zmluvnú pokutu vo výške
+za každé jednotlivé porušenie. Uplatnením si zmluvnej pokuty nezaniká nárok na náhradu škody.
+
+,- EUR
+
+Článok IX
+Sankcie
+1.
+
+2.
+
+3.
+
+Zmluvné strany sa dohodli, že v prípade porušenia akejkoľvek z povinností objednávateľa uvedenej v článku
+III bode . , . , . tejto zmluvy je povinný zaplatiť poskytovateľovi zmluvnú pokutu vo výške , % z dlžnej
+sumy za každý deň omeškania, a to za každú zabezpečovanú povinnosť samostatne.
+
+V prípade omeškania Poskytovateľa voči harmonogramu uvedeného v bode článku IV tejto zmluvy, zaväzuje sa
+Poskytovateľ zaplatiť Objednávateľovi zmluvnú pokutu vo výške , 5% z ceny za každý deň omeškania.
+Poskytovateľ nie je v omeškaní v prípade, že v omeškaní je Objednávateľ.
+
+Zmluvná pokuta ktorá zo zmluvy vyplýva Objednávateľovi alebo Poskytovateľovi bude splatná do
+dní od
+doručenia písomnej výzvy druhou stranou na zaplatenie zmluvnej pokuty. Právo na akúkoľvek zmluvnú pokutu
+v rámci tejto zmluvy neovplyvní žiadne iné právo oprávnenej strany vyplývajúce zo slovenských zákonov, najmä
+právo na náhradu škody v celom rozsahu a právo odstúpiť od zmluvy. Zaplatením zmluvnej pokuty sa nezbavuje
+zmluvná strana svojich záväzkov z tejto zmluvy, najmä povinnosti splniť zabezpečovanú povinnosť.
+Článok X
+Riešenie sporov
+
+1.
+
+Zmluvné strany sa dohodli, že prípadné spory vyplývajúce z tejto zmluvy, alebo v súvislosti s ňou sa pokúsia
+vyriešiť vzájomným rokovaním a dohodou, alebo zmierom. Akýkoľvek spor vyplývajúci z tejto zmluvy alebo
+súvisiaci s ňou, ktorý nebude vyriešený vzájomnou dohodou alebo zmierom, vrátane sporov týkajúcich sa
+platnosti, výkladu alebo ukončenia tejto zmluvy, bude riešený v zmysle príslušných právnych predpisov platných
+v Slovenskej republike.
+
+2.
+
+Pokiaľ nie je v tejto zmluve dohodnuté inak riadia sa právne vzťahy vyplývajúce z tejto zmluvy Obchodným
+zákonníkom.
+Článok XI
+Doručovanie
+
+Zmluvné strany sa dohodli, že všetky oznamy, správy, výzvy, požiadavky a ostatné písomnosti doručované
+v súvislosti s touto Zmluvou druhej Zmluvnej strane sa považujú za doručené druhej Zmluvnej strane, ak
+táto Zmluva neurčuje inak,
+a. v prípade doručovania prostredníctvom elektronickej pošty e-mail dňom jej odoslania, pričom je
+potrebné preukázať doručenie elektronickej pošty e-mailu potvrdením o odoslaní e-mailu a potvrdením
+o prečítaní správy, pričom za spätný potvrdzujúci e-mail príjemcu sa nepovažuje správa automaticky
+vygenerovaná systémom alebo
+b. v prípade doručovania prostredníctvom pošty, kuriérom alebo v prípade osobného doručovania,
+doručením písomnosti druhej Zmluvnej strane s tým, že v prípade doručovania prostredníctvom pošty
+musí byť písomnosť zaslaná doporučene v obálke s doručenkou na adresu určenú záhlaví tejto Zmluvy.
+Za deň doručenia písomnosti sa považuje aj deň, v ktorý príslušná Zmluvná strana, ktorá je adresátom,
+odoprie doručovanú písomnosť prevziať, alebo tretí deň odo dňa uloženia zásielky doručovanej poštou na
+pošte, alebo v ktorý je na zásielke, doručovanej poštou príslušnej Zmluvnej strane, preukázateľné
+zamestnancom pošty vyznačená poznámka, že „adresát sa odsťahoval“, „adresát je neznámy“ alebo iná
+poznámka podobného významu. Kontaktnou osobou objednávateľa je Ing. Ján Bačko, e-mailová adresa:
+jan.backo@vicepremier.gov.sk.
+
+1.
+
+Zmluva zaniká:
+a)
+dohodou zmluvných strán
+b)
+výpoveďou
+c)
+odstúpením od zmluvy
+
+Článok XII
+Ukončenie zmluvy
+
+2. Zmluvné strany môžu ukončiť túto zmluvu uzavretím písomnej dohody, v ktorej dohodnú deň skončenia tejto
+zmluvy. V dohode o skončení tejto zmluvy zmluvné strany vysporiadajú alebo dohodnú spôsob vysporiadania
+všetkých vzájomných nárokov pochádzajúcich zo zmluvy.
+
+3. Každá zo zmluvných strán je oprávnená vypovedať zmluvu písomne, a to bez udania dôvodu. Výpovedná
+doba je
+pracovných dní a začína plynúť prvým dňom mesiaca nasledujúceho po mesiaci, v ktorom bola
+výpoveď doručená druhej zmluvnej strane.
+
+4. Zmluvu je možné ukončiť odstúpením od zmluvy v prípade podstatného porušenia povinností stanovených
+v tejto zmluve. Účinky odstúpenia od tejto zmluvy nastanú okamihom doručenia odstúpenia od zmluvy
+druhej zmluvnej strane alebo neskorším dňom uvedeným v odstúpení od zmluvy.
+
+5. Za podstatné porušenie povinností na strane objednávateľa sa považuje prípad, ak objednávateľ bude
+v omeškaní s ktoroukoľvek platbou alebo jej časťou viac ako šesťdesiat
+dní a/alebo objednávateľ bude
+v omeškaní s poskytnutím súčinnosti a táto súčinnosť nebude poskytnutá ani do desiatich
+dní od
+doručenia písomného oznámenia poskytovateľa o tomto jej neposkytnutí.
+
+6.
+7.
+
+1.
+
+2.
+
+3.
+4.
+
+5.
+6.
+7.
+
+Za podstatné porušenie povinnosti na strane poskytovateľa sa považuje prípad, ak poskytovateľ bude v
+omeškaní s poskytovaním služby podľa zmluvy počas obdobia dlhšieho ako 15 dní.
+
+Odstúpením od zmluvy nie sú dotknuté ustanovenia týkajúce sa ochrany informácií, voľby práva a riešenia
+sporov.
+Článok XIII
+Záverečné ustanovenia
+
+Zmluva nadobudne platnosť dňom podpisu obidvoch zmluvných strán a účinnosť deň po zverejnení tejto zmluvy
+v Centrálnom registri zmlúv.
+
+Zmluvné strany prehlasujú, že si text tejto zmluvy riadne a dôsledne prečítali, jeho obsahu porozumeli a že tento
+vyjadruje ich slobodnú a vážnu vôľu bez omylu, čo potvrdzujú svojimi vlastnoručnými podpismi.
+
+Právne vzťahy zmluvných strán neupravené touto zmluvou sa riadia ustanoveniami Obchodného zákonníka.
+
+Prípadná neplatnosť niektorej časti zmluvy nemá vplyv na platnosť a účinnosť ostatných zmluvných dojednaní.
+Ak je ktorékoľvek z ustanovení tejto zmluvy neplatné, alebo sa stane neplatným neskôr , platnosť alebo
+vykonateľnosť zostávajúcich ustanovení tejto zmluvy tým nebude ovplyvnená. Zmluvné strany sa zaväzujú, že
+bez zbytočného odkladu po zistení takejto okolnosti uzatvoria Dodatok k tejto zmluve, ktorým nahradia dotknuté
+ustanovenie tejto zmluvy tak, že pokiaľ by sa ukázalo, že je potrebné doplniť akýkoľvek obsah tejto zmluvy pre
+účely jej plnenia alebo pre účely splnenia akéhokoľvek záväzku z nej vyplývajúceho.
+Túto zmluvu je možné meniť alebo dopĺňať len na základe vzájomnej dohody oboch zmluvných strán, pričom
+akékoľvek zmeny a doplnky musia byť vykonané vo forme písomného dodatku k zmluve.
+
+Zmluva je vyhotovená v piatich rovnopisoch, z ktorých štyri vyhotovenia dostane
+objednávateľ a jedno vyhotovenie dostane poskytovateľ.
+Neoddeliteľnou súčasťou tejto zmluvy sú:
+
+Príloha č. časť: Špecifikácia zákazky
+Príloha č.2: Akceptačný protokol
+
+Príloha č. : Poučenie o povinnosti mlčanlivosti
+
+V Bratislave dňa ……………….
+
+Za poskytovateľa:
+
+V Bratislave dňa ……………….
+
+Za objednávateľa:
+
+MGROUP, s. r. o.
+
+ÚPPVII
+
+v jeho mene koná konateľ:
+
+v jeho mene koná vedúci úradu:
+
+Martin Pechovský
+
+Mgr. Patrik Krauspe
+
+Príloha č. Špecifikácia
+
+Funkčná špecifikácia portálu:
+
+
+
+
+
+
+
+
+
+
+
+Vytvorenie vzdelávacieho portálu: nasadenie rozhrania - jadro systému, zhotovenie responzívneho dizajnu
+portálu, naprogramovanie funkčných modulov pre potreby vzdelávania
+V portáli bude možnosť získavania certifikátov v rámci cyklu vzdelávania. Certifikát v .pdf
+Zverejnené príspevky prechádzajú recenziou a schválením rolami určenými objednávateľom, prípadne
+administrátorom, či koordinátorom portálu
+Portál bude obsahovať kalendár vzdelávacích aktivít s možnosťou prekliku na dané aktivity
+Filter príspevkov od najnovších, najčítanejších a tiež najlepšie hodnotených za posledných
+dní.
+Kategorizácia príspevkov: príspevky sú radené podľa jednotlivých kategórií a podkategórií
+Adaptívny režim vzdelávania: používateľom sa zobrazujú príspevky adaptívne podľa ich profilu, zamestnania
+a zamerania
+Automatický import používateľov
+Prevádzka systému počas kalendárneho roka od dátumu prevzatia služby v rozsahu Aktualizácia modulov,
+Optimalizácia výkonu, Rutinná prevádzka systému
+
+Typy obsahu v lekciách v kurze :
+1.
+2.
+3.
+4.
+5.
+6.
+
+Vkladanie html/html5 dokumentov
+Video/Audio
+Text
+Cvičenie
+Test
+Vkladanie hotových webinárov vo formáte .zip a html a .swf
+
+Moduly:
+ Modul systémová administrácia
+o administrácia jadra, štatistík, modulov, bezpečnosti, aktualizácií
+
+
+
+
+
+
+Modul administrácia rolí a oprávnení (LDAP)
+o Administrátor
+o Koordinátor vzdelávania – má prístup ku všetkým údajom a modulom okrem modulu systémovej
+administrácie
+o Ďalší počet rolí bude stanovený podľa dostupnej štruktúry inštitúcie objednávateľa
+o Oprávnená rola na vkladanie kurzu tvorca kurzu)
+o Rola pre tvorbu a editovanie adaptačných plánov zamestnanca
+o Rola pre študovanie kurzov
+o Zamedzenie hosťovského prístupu do vzdelávacieho obsahu
+
+Modul adaptačných plánov
+o Po vytvorení kurzov a je umožnené roliam pre tvorbu a editovanie adaptačných plánov vytvárať tieto
+plány vkladaním odporúčaných kurzov. Zväzkom týchto kurzov vznikne adaptačný plán.
+o Schvaľovanie plánov. Následne bude rola určená podľa štruktúry objednávateľa môcť schvaľovať
+adaptačné plány
+o Zamestnanci absolvujú adaptačný plán a modul štatistík bude viesť informáciu o tejto skutočnosti
+pre určené roly podľa štruktúry objednávateľa
+Modul kurz
+o Vytvorenie, editovanie a absolvovanie kurzu s rôznymi typmi vzdelávacích materiálov prvky kurzu :
+• Možnosť nahrať akýkoľvek zdrojový súbor najmä ppt, html5, .zip, .rar, mp4, avi ...)
+• Možnosť prezentovacieho módu so sledovaním času stráveného v kurze
+• Možnosť povoliť a zakázať prvky kurzu, možnosť zamknúť prvky kurzu, sledovanie pozície
+študenta v kurze, možnosť vytvárať skupiny kurzu a priraďovať roly
+• Možnosť zobrazenia výstupov modulu štatistík v kurze
+
+•
+•
+•
+
+
+
+
+
+
+Možnosť zobrazenia výstupov modulu testu v kurze, test s vyhodnotením po absolvovaní
+kurzu
+Možnosť publikovať kurz a uložiť rozpracovaný koncept
+Možnosť merania času študovania každého prvku kurzu v kurze
+
+Modul testy
+o Banka otázok s možnosťou tvorby otázok typu dichotomické, výberové
+o Vytváranie, editovanie testov z banky otázok
+o Náhodné poradie otázok v rámci testu
+o Časová limitácia vykonania testu
+Modul štatistiky
+o Počet absolvovaných testov
+o Počet účastníkov
+o Výsledky testov za účastníkov
+o Počet hodín študovania kurzov podmienka splnenia vzdelávania
+
+Modul profil
+o Profilové informácie
+o Informácie o celkovom vzdelávaní a činnosti používateľa, objednávateľ najmä eviduje tieto
+informácie:
+• titul, meno a priezvisko štátneho zamestnanca,
+• funkciu štátneho zamestnanca,
+• druh kompetenčného vzdelávania,
+• názov vzdelávacej aktivity,
+o Kurzy určené pre používateľov na základe ich zaradenia
+
+Príloha č. Akceptačný protokol
+Objednávateľ:
+
+ÚPPVII
+
+AKCEPTAČNÝ PROTOKOL č. X
+
+Sídlo:
+Štefánikova ,
+, Bratislava
+IČO:
+50349287
+DIČ:
+2120287004
+IČ DPH:
+SK2120287004
+Bankové spojenie: Národná banka Slovenska
+Číslo účtu:
+SK52 8180 0000 0070 0055 7142 ďalej
+len „objednávateľ“
+
+Poskytovateľ:
+
+MGROUP, s. r. o.
+
+Sídlo:
+Ponická ulica ,
+Banská Bystrica
+IČO:
+45 859 922
+DIČ:
+2023122618
+IČ DPH:
+SK2023122618
+Bankové spojenie: Tatrabanka, a.s.
+Číslo účtu:
+2923845350/1100
+Zap. v Obchodnom registri Okresného súdu Banská Bystrica,
+Oddiel: Sro, vložka číslo:
+/S
+ďalej len „poskytovateľ“
+
+Objednávateľ týmto protokolom schvaľuje zrealizovanie etapy:
+
+Názov
+
+Dátum a miesto
+realizácie
+Rekapitulácia
+poskytnutých
+služieb
+
+Zoznam príloh
+
+-
+
+Poznámky
+
+Za objednávateľa
+
+Meno: Ing. Ján Bačko, riaditeľ odboru
+
+Za poskytovateľa
+
+Meno: Martin Pechovský / konateľ
+
+Podpis,
+
+Podpis,
+
+pečiatka:
+
+pečiatka:
+
+Dátum:
+
+Dátum:
+
+Príloha č. Záznam o poučení o povinnosti mlčanlivosti
+ZÁZNAM O POUČENÍ O POVINNOSTI MLČANLIVOSTI
+
+podľa § 79 zákona č. 18/2018 Z. z. o ochrane osobných údajov
+a o zmene a dopl e í iektorých zákonov
+O jed ávateľ:
+Úrad podpredsedu vlády SR pre i vestície a i for atizáciu, Štefá ikova
+2120287004
+
+,
+
+Bratislava, IČO:
+
+, DIČ:
+
+Poskytovateľ:
+
+Za est a e zhotoviteľa:
+Titul, meno a priezvisko:
+Funkčné/pracovné zaradenie:
+
+1. Zamestnanec poskytovateľa bol poučený, že
+a) je zaviazaný mlčanlivosťou o osobných údajoch, s ktorými príde do styku u objednávateľa. Povinnosť
+mlčanlivosti podľa prvej vety musí trvať aj po skončení pracovného pomeru, štátnozamestnaneckého
+pomeru, služobného pomeru alebo obdobného pracovného vzťahu tejto fyzickej osoby.,
+b) povinnosť mlčanlivosti trvá aj po odovzdaní Diela „vzdelávací portál E-learningová platforma“
+Objednávateľovi,
+c) povinnosť mlčanlivosti podľa písm. a) a b) neplatí, ak je to nevyhnutné na plnenie úloh súdu a orgánov
+činných v trestnom konaní podľa osobitného zákona; tým nie sú dotknuté ustanovenia o mlčanlivosti
+podľa osobitných predpisov.
+2. Porušenie povinnosti zachovávať mlčanlivosť sa bude riadiť existujúcimi právnymi predpismi.
+Za est a e zhotoviteľa ........................................... svojím podpisom potvrdzuje, že svojim právam a
+povinnostiam vymedzeným v tomto zázname o pouče í v plnom rozsahu porozumel.
+Dátum poučenia:
+
+Zamestnanec zhotoviteľa
+
+Poučenie vykonal
+
+doc. Ing. Dagmar Vidriková, PhD.
+
+Powered by TCPDF (www.tcpdf.org)
+
+

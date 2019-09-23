@@ -1,0 +1,1686 @@
+Zmluva o poskytovaní služieb
+
+IC
+
+č.:
+
+:51 / ,Jo/7-
+
+uzavretá podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník
+(ďalej ako „Zmluva") medzi zmluvnými stranami
+
+Obchodné meno:
+Sídlo:
+IČO:
+
+Konajúci:
+Bankové spojenie:
+Číslo účtu:
+
+(ďalej
+
+Úrad priemyselného vlastníctva SR
+Švermova 43, 974 04 Banská Bystrica
+308 107 87
+JUDr. Richard Messinger, predseda
+Štátna pokladnica
+SK 93 8180 0000 0070 0006 0734
+
+len „Objednávatel"')
+
+a
+
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+
+Konajúci:
+Bankové spojenie:
+Číslo účtu:
+
+IBAN:
+SWIFT (BIC):
+Registrácia:
+
+(ďalej
+
+SAPTA, a.s.
+Šoltésovej 14, 811 08 Bratislava
+50 100 963
+2120174617
+SK2120174617
+Mgr. Miroslav Belica
+Tatra banka, a.s.
+2944016615 / 1100
+SK94 1100 0000 0029 4401 6615
+TATRSKBX
+OR OS Bratislava 1
+
+len „Poskytovatel"')
+
+(Poskytovateľ
+
+a Objednávateľ
+
+spoločne ďalej
+
+len „Zmluvné strany")
+
+1 z 17
+
+1
+Článok 1.
+
+Definície pojmov
+
+Doba odozvy
+
+je doba, v ktorej je Poskytovateľ povinný potvrdiť prevzatie nahlásenej Požiadavky vo
+forme mailovej notifikácie alebo odozvy priamo na mieste.
+
+Doba vyriešenia
+
+je doba, do ktorej sa Poskytovateľ zaväzuje Požiadavku vyriešiť.
+
+Incident
+
+je každá udalosť, ktorá nie je štandardnou funkcionalitou Servisovaného prostredia,
+a ktorá spôsobuje, alebo môže spôsobiť prerušenie alebo zníženie kvality fungovania
+Servisovaného prostredia.
+
+Service Request
+
+je požiadavka na konfiguračnú zmenu, ktorá je svojou podstatou predschválená. Ide o
+rutinnú požiadavku, ktorá neovplyvňuje komponenty Servisovaného prostredia. Do
+kategórie Service Request zaraďujeme aj konzultácie.
+
+Change Request
+
+je komplexná požiadavka, ktorá podlieha schvaľovaciemu procesu.
+
+Lokalita
+
+je miesto alebo miesta vymedzené v Prílohe č. 4 tejto Zmluvy, v ktorých sú umiestnené
+a nainštalované Komponenty Servisovaného prostredia, a v ktorých sa vykonáva Servis
+týchto komponentov.
+
+Vendor Maintenance
+
+sú Služby na Komponenty Servisovaného prostredia poskytované autorizovaným
+servisným partnerom alebo inou treťou stranou (najčastejšie výrobcom komponentu),
+ktoré sa riadia servisnými podmienkami definovanými touto treťou stranou, ak nie je v
+tejto Zmluve uvedené inak.
+
+Požiadavka
+
+je žiadosť Objednávateľa o poskytnutie Služby. Požiadavka moze mať formu
+Požiadavky na vyriešenie Incidentu (Incident), Žiadosti na zmenu (Change Request),
+Požiadavky na Service Request.
+
+Pracovný výkaz
+
+je formulár, ktorý sa vypÍňa pri poskytnutí Servisných služieb priamo v Lokalite,
+prípadne slúži ako podklad pre fakturáciu za činnosti podľa článku II., bodu 2.2,
+písmeno b. Tvorí Prílohu č. S tejto Zmluvy.
+
+Servis
+
+je kombinácia technických, administratívnych a riadiacich činností vykonávaných
+Poskytovateľom pre Objednávateľa na základe tejto Zmluvy za účelom vyriešenia
+Požiadavky.
+
+Služby
+
+sú konkrétne servisné, konzultačné a implementačné výkony Poskytovateľa realizované
+reaktívne (na základe identifikovanej alebo nahlásenej požiadavky) alebo proaktívne
+(napr. profylaktické, konzultačné služby a pod.) definované podľa článku II., bodu 2.2
+tejto Zmluvy a podrobne špecifikované v Prílohe č. 1 tejto Zmluvy.
+
+Servisované
+prostredie
+
+je prostredie pozostávajúce zo všetkých zariadení servisovanej infraštruktúry a pre ktoré
+Poskytovateľ poskytuje služby.
+
+2 z 17
+
+Softvér (SW)
+
+sú počítačové programy Objednávateľa obsiahnuté v Komponentoch Servisovaného
+prostredia zahŕňajúce predovšetkým, nie však výhradne, operačné systémy, databázové
+prostredia, systémové nástroje, nástroje pre vysokú dostupnosť, nástroje pre
+zálohovanie, systémové nástroje pre zvyšovanie a manažment IT bezpečnosti, a ktoré
+možno považovať za štandardný balíkový softvér. Každý systémový Softvér má
+definovaný svoj názov, verziu, Lokalitu inštalácie špecifikované v Prílohe č. 4 tejto
+Zmluvy.
+
+Vyššia moc
+
+znamená prekážku, ktorá nastala nezávisle od vôle povinnej Zmluvnej strany brániaca
+v splnení záväzku Zmluvnej strany podľa tejto Zmluvy, ak nemožno rozumne
+predpokladať, že by povinná Zmluvná strana túto prekážku alebo jej následky odvrátila
+alebo prekonala, a ktorú táto nemohla pred uzatvorením tejto Zmluvy predvídať.
+Výslovne sa stanovuje, že Vyššou mocou nie je štrajk personálu ani hospodárske
+pomery dotknutej Zmluvnej strany.
+
+MD(Man Day)
+
+znamená množstvo práce, ktoré môže byť vykonané jednou osobou za dobu 8 hodín
+
+Článok II.
+
+Predmet Zmluvy
+
+2.1
+
+Predmetom tejto Zmluvy je záväzok Poskytovateľa poskytovať Služby podľa bodu 2.2 tohto článku, ktoré
+sú bližšie špecifikované v Prílohe č. 1, a to v rozsahu, kvalite, spôsobom a za podmienok dohodnutých v
+tejto Zmluve.
+
+2.2
+
+Služby poskytované podľa tejto Zmluvy sú:
+a. Služby poskytované Objednávateľovi v rámci pravidelného mesačného poplatku definovaného
+v bode 4.2 tejto Zmluvy a bližšie definované v bode 1. Prílohy č. 1 tejto Zmluvy.
+b. Servisné, konzultačné, implementačné služby a dodávky nad rámec definovaný v bode 2.2 písm.
+a) tohto článku a bližšie definované v bode 2. Prílohy č. 1 tejto Zmluvy.
+
+2.3
+
+Objednávateľ sa zaväzuje od Poskytovateľa prevziať poskytnuté Služby a zaplatiť za ne dohodnutú odmenu
+vo výške a za podmienok podľa článku IV. tejto Zmluvy.
+
+2.4
+
+Zmluvné strany berú na vedomie, že bude možno potrebné niektoré Služby poskytovať aj na Komponenty
+Servisovaného prostredia, ktoré boli Objednávateľovi dodané tretími stranami a v takomto prípade je
+plnenie Poskytovateľa podmienené súčinnosťou Objednávateľa, spočívajúcou v riadnom a včasnom
+zabezpečení súčinnosti tretích strán. Pre vylúčenie pochybností sa stanovuje, že v rozsahu, v akom bude
+neplnenie záväzkov Poskytovateľa dôsledkom nezabezpečenia riadnej a včasnej súčinnosti tretích strán
+Objednávateľom, Poskytovateľ nebude v omeškaní a v tomto rozsahu nebude zodpovedať za škodu, ktorá
+prípadne Objednávateľovi v tej súvislosti vznikne.
+
+2.5
+
+Zmluvné strany sa dohodli, že Poskytovateľ sa zaväzuje dodať Objednávateľovi služby a dodávky podľa
+bodu 2.2 písm. b) tohto článku, a to na základe samostatnej písomnej objednávky. Písomnej objednávke
+predchádza cenová kalkulácia s uvedením rozsahu a typu prác Poskytovateľa.
+Článok III.
+
+Doba trvania Zmluvy
+
+3.1
+
+Zmluva sa uzatvára na dobu určitú, a to na 5 rokov odo
+3z17
+
+dňa jej účinnosti.
+
+Článok IV.
+
+Odmena a platobné podmienky
+4.1
+
+Odmena za všetky plnenia podľa tejto Zmluvy je určená dohodou Zmluvných strán v zmysle § 3 zákona
+NR SR č. 1811996 Z. z. o cenách v znení neskorších predpisov.
+
+4.2
+
+Odmena za všetky plnenia podľa článku II. bodu 2.2 písm. a) tejto Zmluvy je dohodnutá mesačne vo výške
+celkom 2 640 EUR (slovom: dvetisícšesťstoštyridsať eur) s DPH.
+
+4.3
+
+Odmena za všetky plnenia podľa článku II. bodu 2.2 písm. b) tejto Zmluvy bude účtovaná na základe
+skutočne vykonaných prác podľa cenníka uvedeného v Prílohe č. 3 tejto Zmluvy v rozsahu písomnej
+objednávky zo strany Objednávateľa. Podkladom pre vyčíslenie výšky odmeny bude Akceptačný protokol
+akceptovaný oboma zmluvnými stranami. Objednávateľ je oprávnený k zaslanému Akceptačnému
+protokolu v lehote piatich pracovných dní vzniesť pripomienky alebo Akceptačný protokol podpísať.
+
+4.4
+
+Maximálna ročná odmena za plnenia podľa článku II. bodu 2.2 tejto Zmluvy, na základe dohody
+Zmluvných strán, nesmie presiahnuť sumu 58 680,- EUR (slovom: päťdesiatosemtisícšesťstoosemdesiat
+eur) s DPH.
+
+4.5
+
+Odmena bude uhradená na
+
+4.6
+
+účet Poskytovateľa
+
+Všetky faktúry vystavené
+
+Poskytovateľom
+
+uvedený na faktúrach
+
+Poskytovateľa.
+
+sú splatné v lehote 30 dní od dátumu ich
+
+doručenia
+
+Objednávateľovi.
+
+4. 7
+
+Faktúry vystavené Poskytovateľom musia spÍňať všetky náležitosti daňového dokladu a prílohu faktúry
+bude tvoriť podpísaný Pracovný výkaz uvedený v Prílohe č. 5 tejto Zmluvy. Prílohou faktúry za plnenia
+podľa čl. II, bodu 2.2, písm. b) tejto Zmluvy bude obidvomi Zmluvnými stranami odsúhlasený Akceptačný
+protokol. V prípade, ak faktúra nespÍňa náležitosti daňového dokladu, je Objednávateľ oprávnený faktúru
+s uvedením chýbajúcich náležitostí alebo nesprávnych údajov vrátiť a Poskytovateľ je povinný faktúru
+prepracovať. V takomto prípade sa preruší plynutie lehoty splatnosti a plynutie lehoty splatnosti bude
+pokračovať po doručení opravenej faktúry.
+
+4.8
+
+Ak je Objednávateľ v omeškaní s akoukoľvek platbou podľa ustanovení tejto Zmluvy po dobu dlhšiu ako
+jeden kalendárny mesiac, je Poskytovateľ po márnom uplynutí dodatočne písomne stanovenej lehoty nie
+kratšej ako 14 kalendárnych dní oprávnený prerušiť poskytovanie Služieb podľa tejto Zmluvy, o čom
+bezodkladne písomne informuje Objednávateľa; tým nie je dotknutá možnosť Poskytovateľa jednostranne
+ukončiť Zmluvu v súlade s článkom IX. tejto Zmluvy.
+
+Článok V.
+
+Miesto plnenia
+5.1 Miesto plnenia podľa tejto zmluvy je sídlo Objednávateľa na adrese Švermova 43, 974 04 Banská Bystrica,
+príp. sídlo Poskytovateľa, pokiaľ to charakter prác umožňuje.
+Článok VI.
+
+Povinnosti a práva
+
+Poskytovateľa
+
+6.1
+
+Poskytovateľ sa zaväzuje Objednávateľovi poskytovať Služby v súlade s podmienkami dohodnutými
+v tejto Zmluve a to s odbornou starostlivosťou.
+
+6.2
+
+Poskytovateľ
+
+a.
+b.
+c.
+
+je
+
+ďalej
+
+povinný:
+Služby za podmienok špecifikovaných v bode 1 Prílohy č. 1 tejto Zmluvy.
+Zabezpečiť pre Objednávateľa možnosť nahlasovania Požiadaviek prostredníctvom Service
+<lesku Poskytovateľa podľa Prílohy č. 6.
+Na základe dohody Zmluvných strán a následnej objednávky Objednávateľa zabezpečiť
+poskytnutie Služieb, podľa podmienok osobitne dohodnutých Zmluvnými stranami pre tento
+prípad podľa článku II. bodu 2.2 písm. b) tejto Zmluvy.
+Vykonať
+
+4 z 17
+
+6.3
+
+Zmluvné strany sa dohodli, že Poskytovateľ nenesie akúkoľvek zodpovednosť za prerušenia a/alebo
+nemožnosť poskytovania Služieb spôsobených Objednávateľom a/alebo tretími stranami, napr. výpadok
+služieb telekomunikačných operátorov a dátových prenosov a dodávky el. energie.
+
+6.4
+
+Zmluvné strany sa dohodli, že v prípade, že Objednávateľ poruší povinnosť podľa článku VIL bod 7.3 písm.
+h) tejto Zmluvy , Poskytovateľ nezodpovedá za stratu dát, ani za nemožnosť vykonania ich obnovy
+v súvislosti s poskytovaním Služieb podľa tejto Zmluvy.
+
+6.5
+
+sa zaväzuje dodržiavať všetky technické a bezpečnostné predpisy, zároveň zabezpečí
+poučenie svojich pracovníkov o všeobecných predpisoch bezpečnosti a ochrany zdravia pri práci,
+zodpovedá za nich a znáša prípadné dôsledky porušenia týchto predpisov. Poskytovateľ a jeho pracovníci
+sú povinní riadiť sa pokynmi osoby zodpovednej za informačnú bezpečnosť menovanú Objednávateľom
+
+(
+
+Poskytovateľ
+
+Článok VII.
+
+Povinnosti a práva
+7.1
+
+Objednávateľ
+
+sa zaväzuje
+
+platiť Poskytovateľovi
+
+Objednávateľa
+
+odmenu vo výške a spôsobom dohodnutým v článku IV.
+
+tejto Zmluvy.
+7.2
+
+sa zaväzuje zabezpečiť nahlasovanie Požiadaviek pracovníkovi Service desku Poskytovateľa
+č. 6 tejto Zmluvy. Nahlasovať Požiadavky sú oprávnené len kontaktné osoby uvedené
+Prílohou
+s
+v súlade
+v Prílohe č. 2 tejto Zmluvy.
+
+7.3
+
+Objednávateľ je ďalej
+
+Objednávateľ
+
+a.
+
+b.
+
+povinný pri vykonávaní Servisných služieb zabezpečiť najmä:
+Sprístupnenie príslušných a súvisiacich Komponentov Servisovaného prostredia vrátane
+potrebných prístupových údajov (napr. prihlasovacie meno a heslo) s potrebnými prístupovými
+oprávneniami. Prístup je potrebné zabezpečiť ako priamo v mieste Servisu, tak aj pre vzdialený
+prístup k Servisovanému prostrediu.
+Povolenie vstupu pre servisných pracovníkov a dopravných prostriedkov Poskytovateľa do
+príslušných objektov na čas nevyhnutný k vykonaniu Servisu a možnosť príchodu auta
+Poskytovateľa ku vchodu do budovy. Pokiaľ tam nie sú verejné parkovacie plochy, Objednávateľ
+zabezpečí možnosť využitia parkovania na miestach vyhradených pre pracovníkov
+Objednávateľa.
+
+c.
+d.
+e.
+
+f.
+
+g.
+
+h.
+i.
+
+j.
+
+k.
+
+Oboznámenie Poskytovateľa s okolnosťami zadanej Požiadavky ako aj s ďalšími informáciami,
+ktoré môžu byť dôležité pre vykonanie Servisu Poskytovateľom.
+Preverenie a podpísanie Pracovného výkazu o Servise podľa Prílohy č. 5 tejto Zmluvy v prípade,
+že Servis je vykonaný priamo v Lokalite.
+Odovzdanie príslušných technických informácií a dokumentácie ku Komponentom
+Servisovaného prostredia podľa požiadaviek Poskytovateľa. Ak sa v priebehu plnenia zmluvy
+zistí, že tieto informácie a dokumenty sú chybné, nezrozumiteľné, neúplné alebo v rozpore so
+všeobecne záväznými právnymi predpismi a normami, Poskytovateľ ihneď upovedomí o tejto
+skutočnosti Objednávateľa, prípadne poskytne návrhy na odstránenie týchto nedostatkov.
+Pri vykonávaní Servisu v Lokalite podľa Prílohy č. 1 prítomnosť svojho pracovníka, ktorý je o
+danej Požiadavke informovaný, a ktorý bude k dispozícii počas celej doby Servisu.
+Pre Komponenty Servisovaného prostredia uchovávanie aktuálnych kópií konfiguračných dát
+a operačných systémov na záložných médiách tak, aby tieto záložné médiá boli k dispozícii pre
+použitie pri Servise.
+Vykonávanie procedúr zálohovania údajov, ktoré umožnia obnovu a rekonštrukciu stratených,
+alebo zmenených súborov, údajov Objednávateľa a Softvéru.
+Súčinnosť tretej strany v prípade, že Servis sa týka komponentu, na ktorý je Vendor Maintenance
+poskytovaný treťou stranou. Čas riešenia Požiadavky treťou stranou sa nezapočítava do
+vyhodnotenia úrovne a kvality poskytovaného Servisu podľa Prílohy č. 1.
+Sprístupnenie náhradných dielov zástupcovi Poskytovateľa okamžite po jeho príchode
+k Objednávateľovi, pokiaľ je Objednávateľ zodpovedný za držanie náhradné dielu pre vadný
+Komponent Servisovaného prostredia.
+Aby boli vyčlenené pre vykonávanie Servisných služieb a sprístupnené pre inštaláciu
+Komponentov Servisovaného prostredia priestory vyhovujúce zodpovedajúcim prevádzkovým
+podmienkam jednotlivých komponentov, špecifikované ich výrobcom v technickej
+dokumentácii, ktorá bola súčasťou dodávky komponentu. Pokiaľ nie je špecifikované inak, ide
+5 z 17
+
+najmä o prevádzkovú teplotu miestnosti 15-32°C, relatívnu vlhkosť 30% - 70%, elektroinštaláciu
+230 V podľa platných technicko-bezpečnostných predpisov.
+1. Poskytovateľovi potrebnú súčinnosť, informácie, podklady, zdroje, dáta a rozhodnutia
+požadované Poskytovateľom na vykonanie Servisných služieb.
+m. Poskytovateľovi vzdialený prístup do Servisovaného prostredia.
+7.4
+
+7.5
+
+7.6
+
+7. 7
+
+V prípade, ak Objednávateľ nezabezpečí požadovanú súčinnosť, zdržanie tým vzniknuté sa nezapočítava
+do časov, v ktorých je Poskytovateľ povinný vyriešiť Požiadavku pre Komponenty Servisovaného
+prostredia podľa tejto Zmluvy.
+Objednávateľ
+
+je povinný
+vnútornými predpismi..
+
+preukázateľne
+
+písomne
+
+oboznámiť
+
+pracovníkov
+
+Poskytovateľa
+
+so svojimi
+
+sa zaväzuje vopred písomne oznámiť Poskytovateľovi akékoľvek predpokladané činnosti
+tretích strán vykonávané na Komponentoch Servisovaného prostredia. Všetky činnosti tretích strán
+v
+vykonávané na Komponentoch Servisovaného prostredia musia byť vopred schválené Poskytovateľom,
+jeho
+plnení
+v
+omeškanie
+akékoľvek
+za
+sť
+zodpovedno
+niesť
+nebude
+eľ
+opačnom prípade Poskytovat
+povinností, prípadné vady plnenia, alebo spôsobené škody v rozsahu, v akom tieto mohli byť čo i Jen
+alebo odmietnuť takýto
+čiastočne ovplyvnené zásahom takej tretej strany. Poskytovateľ sa zaväzuje udeliť
+písomne požiadaný
+súhlasu
+súhlas bez zbytočného odkladu po tom, ako bol o udelenie takéhoto
+dôvodu.
+vážneho
+bez
+Objednávateľom, pričom sa zaväzuje neodoprieť udelenie súhlasu
+Objednávateľ
+
+spôsobom a s
+Objednávateľ sa zaväzuje užívať Komponenty Servisovaného prostredia takým
+komponenty.
+jednotlivé
+pre
+výrobcom
+definované
+podmienky
+starostlivosťou tak, ako to ukladajú
+
+riadnou
+
+Článok VIII.
+Licenčné
+
+8.1
+
+8.2
+
+8.3
+
+podmienky
+
+V prípade, že na základe tejto Zmluvy Poskytovateľ vytvorí autorské dielo poskytuje Objednávateľovi
+,
+výhradné právo (výhradnú licenciu) používať toto autorské dielo bez ohľadu na jeho povahu (dokument
+území
+na
+nemu
+k
+práv
+h
+majetkovýc
+trvania
+doby
+celej
+počas
+aplikačné programové vybavenie a pod.)
+Slovenskej republiky a členských štátov Európskej únie na účely na ktoré bolo vytvorené a/alebo na účely
+súvisiace s činnosťami Objednávateľa, a to nasledujúcimi spôsobmi:
+a. vyhotovenie neobmedzeného množstva jeho rozmnoženín,
+b. verejné rozširovanie jeho originálu a/alebo rozmnoženín vypožičaním alebo inou formou
+prevodu vlastníckeho práva ako predajom.
+je oprávnený spracované a/alebo upravené a/alebo preložené autorské dielo používať.
+a/alebo iným osobám, na
+Objednávateľ je oprávnený udeliť iným štátnym orgánom Slovenskej republiky
+a/alebo osobám,
+vytvorené
+dielo
+autorské
+bolo
+ktorú
+na
+oblasti,
+v
+ktoré bude prenesený výkon štátnej správy
+Objednávateľa,
+systémov
+ch
+informačný
+dotknutých
+z
+informácie
+ktorým Objednávateľ bude poskytovať
+preloženého
+a/alebo
+upraveného
+a/alebo
+ho
+spracované
+a/alebo
+diela
+autorského
+súhlas na použitie
+autorského diela v rovnakom rozsahu, k čomu Poskytovateľ udeľuje svoj súhlas.
+Objednávateľ
+
+Oprávnenie na výkon práv v rozsahu a spôsobmi
+na jeho právneho nástupcu.
+
+podľa
+
+tohto
+
+článku
+
+prechádza pri zániku
+
+Článok IX.
+Ukončenie
+
+9.1
+
+tejto Zmluvy
+
+Táto Zmluva môže byť ukončená nasledovnými spôsobmi:
+a. Uplynutím doby, na ktorú je táto Zmluva dohodnutá (článok III),
+b. Odstúpením z dôvodov a spôsobom podľa tejto Zmluvy,
+c. Výpoveďou ktorejkoľvek zo Zmluvných strán
+d. Dohodou Zmluvných strán.
+
+6 z 17
+
+Objednávateľa
+
+9.2.
+
+9.3.
+
+9.4.
+
+9.5.
+
+9.6
+
+9. 7
+
+Každá zo Zmluvných strán je oprávnená písomne
+zmluvnej povinnosti druhou Zmluvnou stranou.
+
+odstúpiť
+
+od tejto zmluvy pri podstatnom porušení
+
+rej služby
+tovateľa sa považuje neposkytnutie niekto
+Za podstatné porušenie zmluvných povinností Posky
+právo
+ania;
+omešk
+ku
+začiat
+ani po uplynutí 60 dní od
+tvoriacej predmet tejto Zmluvy podľa článku II. riadne
+o
+odnéh
+Obch
+302
+§
+e
+zmysl
+v
+je odstúpením od Zmluvy dotknuté
+Objednávateľa na zmluvnú pokutu nie
+zákonníka.
+považuje nezaplatenie odmeny v zmysle článku IV
+Za podstatné porušenie povinností Objednávateľa sa
+je odstúpením
+Poskytovateľa na úroky z omeškania nie
+ani po uplynutí 90 dní od začiatku omeškania; právo
+o zákonníka.
+od zmluvy dotknuté v zmysle § 351 ods. 1 Obchodnéh
+nosti Zmluvných strán s tým súvisiace sa riadia
+Podrobnosti odstúpenia od Zmluvy a práva a povin
+ustanoveniami § 344 až § 351 Obchodného zákonníka.
+vedná doba
+vypovedať aj bez udania dôvodu. Výpo
+Každá zo Zmluvných strán je oprávnená túto Zmluvu
+výpoveď
+bola
+ktorom
+v
+ci,
+mesia
+po
+ho
+ca nasledujúce
+je 6 mesiacov, pričom začína plynúť prvý deň mesia
+vných
+Zmlu
+nosti
+povin
+o
+práva
+jú
+ostáva
+doby
+plynutia výpovednej
+doručená druhej Zmluvnej strane. Počas
+inak.
+odnú
+strán nedotknuté, ak sa Zmluvné strany písomne nedoh
+písomné a doručené druhej Zmluvnej strane na adresu
+Odstúpenie a výpoveď podľa tohto článku musia byť
+j
+ktorú jedna Zmluvná strana písomne oznámila druhe
+sídla uvedenú v záhlaví Zmluvy resp. na inú adresu,
+Zmluvnej strane.
+Článok X.
+Zodpovednosť
+
+za škodu
+
+10.1
+
+u, ktorý určuje Zmluva, v kvalite a
+zodpovedá za to, že ním poskytnuté plnenie bude v rozsah
+touto Zmluvou.
+vyhotovení plne vyhovujúcim podmienkam dohodnutým
+
+10.2
+
+Zmluvy, ak toto neplnenie bolo
+Zmluvné strany nie sú zodpovedné za neplnenie tejto
+mocou.
+
+10.3
+
+Poskytovateľ
+
+zapríčinené
+
+Vyššou
+
+, ktorá vznikne v dôsledku porušenia povinností
+Zmluvné strany sa dohodli, že zodpovednosť za škodu
+ník v znení
+veniami zákona č. 513/1991 Zb. Obchodný zákon
+podľa tejto Zmluvy sa bude riadiť ustano
+stranami
+nými
+zmluv
+i
+medz
+za
+ktorá
+zisku,
+du ušlého
+neskorších predpisov, s výnimkou povinnosti na náhra
+musela
+že
+tým,
+la
+vznik
+strane
+vnej
+Zmlu
+denej
+poško
+týmto vylučuje. Za škodu sa považuje tiež ujma, ktorá
+povinnosti druhej Zmluvnej strany.
+vynaložiť náklady v dôsledku porušenia
+Článok XI.
+
+Sankcie
+
+niektorej Služby tvoriacej predmet tejto Zmluvy podľa
+V prípade omeškania Poskytovateľa s poskytnutím
+eľovi zmluvnú pokutu
+Objednávateľ právo účtovať Poskytovat
+článku II v termíne podľa Prílohy č. 1, má
+má Objednávateľ bez
+právo
+Toto
+ania.
+deň omešk
+vo výške 100 eur (slovom sto eur) za každý, aj začatý
+je dotknuté právo
+nie
+y
+pokut
+nej
+zmluv
+alebo nie. Zaplatením
+ohľadu na to, či od Zmluvy odstúpi
+výške.
+Objednávateľa na náhradu škodu v plnej
+(60) dní, je
+s úhradou faktúry Poskytovateľa viac ako šesťdesiat
+11.2 V prípade omeškania Objednávateľa
+y, ktorú
+sadzb
+vej
+úroko
+výške
+vo
+Objednávateľa úrok z omeškania
+Poskytovateľ oprávnený požadovať od
+EUR.
+v
+kcie
+transa
+hlavné refinančné
+uplatňuje Európska centrálna banka na svoje
+eľom o súčet
+e znížiť sumu na zaplatenie fakturovanú Poskytovat
+11.3 Objednávateľ je oprávnený jednostrann
+dňu zaplatenia faktúry.
+zmluvných pokút Poskytovateľa, ktoré sú splatné ku
+nej strane.
+dňa doručenia písomnej výzvy druhej zmluv
+Sankcie podľa tohto článku sú splatné do 30 dní odo
+
+11.1
+
+11.4
+
+7 z 17
+
+Článok XII.
+Súčinnosť
+
+12.1
+
+12.2
+
+12.3
+
+12.4
+
+12.5
+
+12.6
+
+a komunikácia Zmluvných strán
+
+ť potrebnú
+Zmluvné strany sa dohodli, že pri plnení záväzkov z tejto Zmluvy si budú navzájom poskytova
+ich
+plnenie
+pre
+ch
+významný
+ach
+okolnosti
+všetkých
+o
+ť
+informova
+včas
+súčinnosť a navzájom sa budú
+ovplyvniť
+záväzkov, a to najmä, že navzájom prerokujú všetky skutočnosti, ktoré by mohli negatívne
+oprávnený
+priebeh a výsledok realizácie Servisu, a že si oznámia všetky skutočnosti, ktoré by mohli ohroziť
+záujem druhej Zmluvnej strany.
+
+povinný určiť v Prílohe č. 2 tejto Zmluvy Kontaktné osoby Poskytovateľa k zabezpečeniu
+plnenia Servisných služieb a je povinný zabezpečiť, aby tieto Kontaktné osoby:
+a. Realizovali profesionálny kontakt s Objednávateľom.
+b. Riadili a koordinovali výkon povinností Poskytovateľa podľa tejto Zmluvy.
+c. Mali potrebné odborné vedomosti na zabezpečenia plnenia Servisných služieb.
+Poskytovateľ je
+
+v súvislosti s
+Ak v tejto Zmluve nie je uvedené inak, akákoľvek komunikácia medzi Zmluvnými stranami
+doručenkou
+s
+zásielka
+ná
+doporuče
+touto Zmluvou musí mať písomnú formu a musí sa doručiť poštou ako
+alebo kuriérom alebo osobne s vyžiadaním potvrdenia o prijatí.
+oznámením
+Každá Zmluvná strana môže aktualizovať údaje uvedené v Prílohe č. 2 Zmluvy písomným
+k Zmluve.
+dodatok
+uzatvárať
+povinné
+strany
+Zmluvné
+sú
+nie
+druhej Zmluvnej strane. O tejto zmene
+strane.
+Zmluvnej
+druhej
+a
+oznámeni
+o
+písomnéh
+m
+Účinnosť zmeny nastáva doručení
+sa v prípade
+Písomnosti zasielané poštou ako doporučená zásielka s doručenkou, alebo kuriérom
+neúspešnosti pokusu o ich doručenie považujú za doručené:
+alebo
+a. Uplynutím 3 pracovných dní od ich odoslania odosielateľom v prípade, že ich pošta,
+doručenie
+ich
+ak
+alebo
+eľné,
+nedoručit
+ako
+ľovi
+prevádzkovateľ kuriérskej služby vráti odosielate
+bolo zmarené konaním, alebo opomenutím zo strany adresáta, a to aj v prípade ak sa adresát
+o ich doručení nedozvedel, alebo
+b. momentom odmietnutia prevziať ich, ak adresát ich prevzatie odmietne.
+predpokladu, že
+V prípade písomnosti zasielanej faxom sa písomnosť považuje za riadne doručenú iba za
+ná zásielka s
+doporuče
+ako
+do 3 pracovných dní je zasielaná korešpondencia doručená adresátovi poštou
+doručenkou alebo kuriérom alebo osobne.
+
+Článok XIII.
+Záverečné
+
+13.1
+
+13.2
+
+13.3
+
+13.4
+
+ustanovenia
+
+výslovne
+Táto Zmluva sa riadi právnym poriadkom Slovenskej republiky. Právne vzťahy touto Zmluvou
+e
+všeobecn
+ch
+príslušný
+iných
+a
+a
+zákonník
+ho
+Obchodné
+iami
+ustanoven
+i
+neupravené sa riadia príslušným
+záväzných právnych predpisov Slovenskej republiky.
+cim po dni
+Zmluva nadobúda platnosť dňom jej podpísania zmluvnými stranami a účinnosť dňom nasledujú
+zákona č.
+1
+ods.
+47a
+§
+podľa
+SR
+jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády
+zákona č.
+6
+a
+1
+ods.
+5a
+§
+na
+sti
+nadväzno
+40/1964 Zb. Občiansky zákonník v znení neskorších predpisov
+(zákon o
+zákonov
+h
+niektorýc
+doplnení
+a
+zmene
+o
+a
+211/2000 Z. z. o slobodnom prístupe k informáciám
+.
+predpisov
+slobode informácií) v znení neskorších
+m, platnosť
+V prípade, že niektoré z ustanovení tejto Zmluvy je alebo sa stane neplatným a/alebo neúčinný
+že
+zaväzujú,
+a účinnosť ostatných ustanovení tejto Zmluvy tým nie je dotknutá. Zmluvné strany sa týmto
+svojim
+ktoré
+ím,
+ustanoven
+nahradia neplatné (neúčinné) ustanovenie Zmluvy iným platným a účinným
+o (neúčinného)
+obsahom a zmyslom najlepšie zodpovedá obsahu a zmyslu pôvodného neplatnéh
+ustanovenia.
+
+, podpísaných
+Táto Zmluva môže byť menená výhradne písomnou formou vzostupne číslovaných dodatkov
+forme.
+písomnej
+v
+iba
+zrušiť
+možné
+Zmluvnými stranami. Túto Zmluvu je
+
+8 z 17
+
+13.5
+
+Táto Zmluva je vyhotov ená v 2 rovnopi soch,
+rovnopise.
+
+13.6
+
+Neoddeliteľnou súčasťou
+
+pričom
+
+každá zo Zmluvn ých strán obdrží po jednom
+
+tejto Zmluvy sú nasledo vné prílohy:
+
+Príloha č. 1 - Špecifi kácia poskyto vaného Servisu
+Príloha č. 2 - Kontaktné osoby
+Príloha č. 3 - Zmluvn ý cenník MD
+Príloha č. 4 - Zoznam zariade ní a Systém ového Softvéru
+Príloha č. 5 - Pracovn ý výkaz
+Príloha č. 6 - Postup nahlaso vania požiada viek na Service tlesk
+
+Zmluvn é strany vyhlasujú, že túto Zmluvu uzatvorili slobodn e a vážne,
+že sa s jej obsaho m obozná mili, tomuto
+porozum eli a na znak súhlasu s ním Zmluvu podpisujú.
+
+V Banskej Bystrici dňa
+
+V Bratislave
+
+Objednávateľ:
+
+dňa
+
+Poskytovateľ:
+
+Mgr. Mirosla v Belica,
+SAPTA , a.s.
+predsed a predsta venstva
+
+D
+
+9z17
+
+Príloha
+
+č.
+
+1
+
+Špecifikácia poskytovaného Servisu
+Pre potreby nahlasovania servisných požiadaviek, bude Objednávateľ využívať služby Service desku
+poskytovaného a prevádzkovaného Poskytovateľom. Service tlesk Poskytovateľa prijíma servisné požiadavky len
+od Kontaktných osôb Objednávateľa podľa Prílohy č. 2.
+
+1. Služby dodávané Poskytovateľom v zmysle
+
+článku
+
+II. bodu 2.2 písm. a) Zmluvy
+
+Zoznam Servisných služieb
+a. Činnosti preventívnej a periodickej údržby Servisovaného prostredia (raz kvartálne) pozostávajúcej
+najmä z:
+Kontrola siete, preverenie konektivity, dohľad nad funkčnosťou jednotlivých sieťových
+zariadení a kontrola iných prevádzkových parametrov týchto zariadení.
+Kontrola serverov a príslušných operačných systémov, kontrola logov, naplnenosti diskového
+priestoru, operačnej pamäte a vyťaženosti CPU.
+Kontrola diskových polí a príslušných SAN komponentov, kontrola logov, naplnenosti
+diskového priestoru a SAN konektivity.
+Sledovanie a údržba zálohovacieho systému, kontrola jeho funkčnosti, pravidelné sledovanie a
+vyhodnocovanie funkčnosti monitorovaných komponentov.
+Sledovanie a kontrola bezpečnosti, bezpečnostných komponentov, udalostí a nastavení.
+j
+Konfiguračné úpravy Servisovaného prostredia nepresahujúce rozsah 2MD „Kvalifikačne
+obdobia.
+úrovne 3" podľa Prílohy č.3 Zmluvy v rámci zvažovaného kvartálneho
+b.
+
+Zabezpečovať
+
+aktualizácie Softvéru a
+
+bezpečnostných
+
+záplat používaných produktov Servisovaného
+
+prostredia.
+počas
+
+pracovných dní v roku
+
+c.
+
+Service <lesk pre nahlasovanie požiadaviek nepretržite 8 hodín denne
+(8:00-16:00).
+
+d.
+
+Dokumentovanie zmien a zásahov v konfiguráciách Servisovaného prostredia a jej bezplatné dodanie
+Objednávateľovi 1 krát ročne.
+
+e.
+
+Poskytovanie konzultácii
+Servisovaného prostredia.
+
+f.
+
+Udržiavanie technického a personálneho prostredia potrebného k zásahom u Poskytovateľa.
+
+2. Služby ponúkané
+
+k prípadným
+
+Poskytovateľom
+
+v zmysle
+
+otázkam
+
+článku
+
+Objednávateľa
+
+v súvislosti
+
+s prevádzkou
+
+II. bodu 2.2 písm. b) Zmluvy hlavne ale nie
+
+výlučne:
+
+a.
+
+Správa Servisovaného prostredia
+zariadení
+Podľa požiadaviek Objednávateľa zabezpečovať vývoj, aktualizáciu, údržbu a monitoring
+umiestnených v demilitarizovanej zóne (DMZ) a sieťových zariadení (prepínač) chrbticovej časti LAN
+siete infraštruktúry Objednávateľa spolu s pripojením infraštruktúry Objednávateľa do sietí Govnet/
+internet.
+
+b.
+
+Správa GOVNET-u
+
+10 z 17
+
+pravidlá pripojenia podľa požiadaviek a doporučení NASES (Národná agentúra pre
+sieťové a elektronické služby) pre nadrezortnú informačnú sieť GOVNET, ktorá je implementovaná
+do existujúceho informačného systému Objednávateľa (Objednávateľ je jej uzlom).
+
+Zabezpečovať
+
+oblasť
+
+servisovaného prostredia
+
+včítane
+
+riešení súvisiacich
+
+c.
+
+Dodávka a nasadzovanie SW riešení pre
+s webovým sídlom Objednávateľa.
+
+d.
+
+Predmetom obstarávania sú ďalej služby Poskytovateľa pre riešenie požiadaviek, ktoré vzniknú
+ako povinnej osobe v zmysle platnej legislatívy v oblasti informačných systémov
+s činnosťami inštalácie, konfigurácie, a konzultácie príp. služby SW vývoja
+spolu
+verejnej správy
+a návrhu SW systémov.
+Obstarávateľovi
+
+INTERNET, GOVNET
+
+CISCOASAFW
+
+~AS~P~~~"""T""~~.,--il~·~
+
+~--~~a
+
+DMZ
+
+CISC~:::r ·-1 ~ ~ ~~
+.....,..
+
+FRONT- END server
+
+MAIL WVYW ANTIVI R DNSIPROXY
+(Red Hat Linux Enterprise servers)
+
+(SUSE Linux E.nterprise server)
+
+-
+
+Cl$CO C296GS
+
+CISCOC4500
+
+LAN
+
+End users
+
+Obr. : Topologická schéma infraštruktúry Servisovaného prostredia
+
+11 z 17
+
+Obstarávateľa
+
+SLA parametre
+Názov produktu
+
+Úroveň Servisu
+
+1
+
+1
+
+8 hodín denne počas pracovných dní
+(8:00 - 16:00)
+
+Pokrytie
+Technická podpora
+
+P3
+
+P2
+
+Pl
+
+Priorita
+
+24hod
+
+8hod
+
+4hod
+
+Doba odozvy
+
+1
+
+1
+
+používateľov
+
+Pl
+
+Priorita 1 - Servisované prostredie nefunguje ako celok alebo je pre
+nedostupný. Stav sa prejavuje voči všetkým používateľom.
+
+P2
+
+Priorita 2 - Niektoré funkcie Servisovaného prostredia sú nefunkčné alebo nedostupné.
+Stav sa prejavuje voči všetkým používateľom. Stav je reprodukovateľný.
+Priorita 3 - Zmena konfigurácie Servisovaného prostredia (Service Request) vykazuje
+drobné chyby. Zistená nefunkčnosť komponentu sa prejavuje voči individuálnemu
+používateľovi. Stav je reprodukovateľný.
+
+P3
+
+Prioritu určí Objednávateľ pri nahlasovaní požiadavky na Service desk, pričom zohľadňuje definíciu
+priority a z toho vyplývajúci dopad na funkčnosť systému. V prípade nesprávneho určenia priority zo
+strany Objednávateľa je Service Desk oprávnený danú prioritu zmeniť. V takomto prípade pracovník
+ServiceDesku o tejto zmene informuje nahlasovateľa požiadavky.
+a.
+
+b.
+
+povinný:
+Zadefinovať popis požiadavky;
+Priradiť požiadavku na Poskytovateľa cez Service desk
+Zmluvy;
+Určiť typ požiadavky a prioritizáciu danej požiadavky.
+
+Objednávateľ je
+
+Objednávateľa podľa
+
+Prílohy
+
+č.6
+
+tejto
+
+je povinný na základe bodu a.:
+Skontrolovať úplnosť vstupných informácií zaslaných k danej požiadavke;
+Do uplynutia doby odozvy potvrdiť akceptáciu pridelenej požiadavky;
+O vyriešení nahlásenej požiadavky informovať Objednávateľa.
+
+Poskytovateľ
+
+-
+
+c. Objednávateľ je povinný na základe bodu b.:
+- V prípade potreby doplniť chýbajúce vstupné informácie k nahlásenej požiadavke;
+- Doba do zaslania chýbajúcich vstupných informácií k nahlásenej požiadavke sa neráta do Doby
+odozvy pre danú požiadavku.
+
+12
+
+z 17
+
+Príloha
+Kontaktné osoby
+
+č.
+
+2
+
+Objednávateľa
+
+a
+
+Poskytovateľa
+
+Poskytovateľa môžu požiadať o podporu len určené kontaktné osoby.
+bezplatne rozšíriť.
+
+Počet určených
+
+kontaktných osôb je možné
+
+Objednávateľ:
+
+Meno, Priezvisko
+
+Telefón
+
+Pozícia
+
+e-mail
+
+Riaditeľ odboru
+informatiky
+1
+1
+
+IT administrátor
+
+sk
+1
+
+1
+
+IT administrátor
+1
+
+Poskytovateľ:
+
+Meno, Priezvisko
+
+Pozícia
+
+Telefón
+
+e-mail
+
+Externý projektový
+manažér - hlavná
+kontaktná osoba pre v
+zmysle článku II. bodu
+2.2 písm. a) tejto
+zmluvy
+
+Projektový manažér hlavná kontaktná osoba
+pre služby v zmysle
+článku II. bodu 2.2 písm.
+b) tejto zmluvy
+
+Kontakt na ServiceDesk poskytovateľa:
+
+Telefón
+primárna linka: 0903 449 639
+
+Web formulár
+
+e-mail
+
+ServiceDesk web: isc.sapta.sk
+
+servicedesk@sagta.sk
+
+backup mobil:
+
+V kógií e-mailu vžd:i::
+
+(v prípade nefunkčnosti primárnej tel. linky)
+
+13 z 17
+
+Príloha
+
+č.
+
+3
+
+Zmluvný cenník MD
+
+·.
+
+'>
+
+KvaUt'ikaálá úroveň
+
+.
+
+C~aa23MD
+
+Rola
+
+(IURO)
+..
+
+Cena bez DPH: 400 €
+Kvalifikačná úroveň
+
+1
+
+Kvalifikačná úroveň
+
+2
+
+Kvalifikačná úroveň
+
+3
+
+Kvalifikačná úroveň
+
+4
+
+Senior Projektový manažér, Senior Integračný manažér. ...
+
+Cena s DPH: 480 €
+Cena bez DPH: 320 €
+
+Senior konzultant, Senior architekt, Senior analytik, HW
+špecialista„„
+
+Cena s DPH: 384 €
+Cena bez DPH: 280 €
+Cena s DPH: 336 €
+
+Projektový manažér, Systémový programátor, Analytik,
+Konzultant, Architekt, Systémový inžinier„„
+
+/
+
+Tester, Dokumentarista„ ..
+
+Sadzby za dopravné náklady mimo sídla objednávateľa:
+
+Kilometrovné
+
+14 z 17
+
+Príloha č. 4
+Zoznam Zariadení a Systémového Softvéru
+
+Hardware:
+HP ProLiant DL360p Gen8
+Cisco ASA 5515-X
+Check Point 4800 Appliance
+Check Point Smart-1 Extensible Security Management
+Cisco Catalyst C4507R+E
+Cisco Catalyst 2960
+Cisco Catalyst 2950
+Cisco Catalyst 2951
+Cisco SG300-10
+HP 8/24 SAN Switch
+EMCVNX5100
+HP P2000
+HP MSL 2024 UltriumL T0-5
+HP MSL 4048 UltriumL T0-4
+DS410NAS
+HP R5KV A UPS 3U IEC309-32A
+
+Typy
+
+operačných
+
+systémov:
+
+Microsoft Windows
+Red Hat Linux
+SUSE Linux
+CentOS
+
+Špecifický softvér:
+Nagios
+HPE Data Protector
+VMware vSphere
+Swift redakcny system
+Cisco ESA
+TMview / DesignView
+Eptos
+eFiling / eServices
+Microsoft Windows SQL Server
+
+15 z 17
+
+Príloha
+
+č.
+
+5
+
+PRACOVNÝ VÝKAZ
+1
+1
+
+Meno a priezvisko osoby:
+Obdobie vykonávania činností:
+Počet
+
+Čas vykonania prác
+P.č.
+
+Popis vykonaných
+
+Dátum
+od
+
+do
+
+činností
+
+odpracovaných
+hodín
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+
+SPOLU
+
+dátum:
+vypracoval: meno a priezvisko:
+
+podpis:
+
+dátum:
+podpis:
+
+odsúhlasil: meno a priezvisko
+
+16 z 17
+
+Príloha
+
+č.
+
+6
+
+Postup nahlasovania požiadaviek na Service desk
+
+1.
+
+Kontaktné údaje na Service desk
+
+Poskytovateľa
+
+a.
+
+Mailová adresa: servicedesk@sapta.sk, v kópií e-mailu vždy:.
+
+b.
+
+Telefón: 0903 449 639
+BackUp mobil:
+(v prípade nefunkčnosti primárnej telefónnej linky)
+
+c.
+
+2.
+
+Web formulár:
+
+isc.sapta.sk
+
+Postup nahlasovania požiadavky na Service desk Poskytovateľa
+
+a.
+
+nahlási na Service <lesk Poskytovateľa formou e-mailu, alebo telefonicky (súčasne potvrdiť emailom resp. cez Web formulár) alebo cez Web formulár požiadavku s minimálne nasledujúcimi údajmi:
+Objednávateľ
+
+Názov
+
+Objednávateľa:
+
+Číslo zmluvy:
+
+Kontaktná osoba Objednávateľa:
+
+Telefónne
+
+číslo
+
+a e-mailová adresa
+
+Incident /Service Request / Change Request
+Pl - kritická/ P2 - vážna/ P3 - nekritická
+
+Typ požiadavky:
+Priorita:
+Názov požiadavky:
+Popis požiadavky:
+Sériové
+
+číslo
+
+zariadenia:
+Adresa miesta vykonania servisného zásahu
+
+Lokalita:
+
+Pozn.: E-mail môže
+obrazoviek.
+
+b.
+
+Nahlasovať
+
+obsahovať doplňujúce
+
+požiadavky sú oprávnené iba osoby definované v Prílohe č.2 tejto Zmluvy.
+
+c. Po prijatí požiadavky Poskytovateľ zašle
+d.
+
+informácie vo forme pripojených súborov, resp. snímok
+
+Objednávateľovi
+
+potvrdzujúci e-mail o prijatí požiadavky.
+
+po vyriešení požiadavky, danú požiadavku uzavrie a
+s minimálne nasledujúcimi údajmi:
+
+Poskytovateľ
+
+ID požiadavky:
+
+ID generované aplikáciou
+
+zašle
+
+Objednávateľovi
+
+e-mail
+
+Poskytovateľa
+
+Popis riešenia:
+neakceptuje riešenie požiadavky zo strany Poskytovateľa, má možnosť do 5.
+lehoty,
+pracovných dní od uzavretia požiadavky požiadať o opätovné otvorenie požiadavky. Po uplynutí tejto
+je riešenie požiadavky považované za schválené.
+
+e. V prípade, že
+
+Objednávateľ
+
+17 / 17
+
+

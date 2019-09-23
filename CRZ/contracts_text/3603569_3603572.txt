@@ -1,0 +1,313 @@
+Číslo zmluvy dodávateľa: TMS-2018-104
+
+ZMLUVA O POSKYTOVANÍ TELERÁDIOLOGICKÝCH SLUŽIEB
+uzavretá podľa Zákona č. 513/1991, Obchodný zákonník v znení neskorších predpisov
+
+I.
+Zmluvné strany
+1. Objednávateľ:
+sídlo:
+zastúpená:
+IČO:
+DIČ:
+IČ DPH:
+bank. spojenie:
+IBAN:
+2. Dodávateľ:
+sídlo:
+zastúpená:
+IČO:
+DIČ:
+IČ DPH:
+bank. spojenie:
+IBAN:
+
+Fakultná nemocnica s poliklinikou F. D. Roosevelta Banská Bystrica
+Nám. L. Svobodu 1, 97517 Banská Bystrica, Slovenská republika
+Ing. Miriam Lapuníková, MBA, generálna riaditeľka
+Ing. Ivana Sklenková, ekonomická riaditeľka
+165 549
+2021095670
+SK2021095670
+Štátna pokladnica Bratislava
+SK35 8180 0000 0070 0027 8282
+
+TatraMed Software s.r.o.
+zapísaná v Obchodnom registri Okresného súdu Bratislava I, vložka 87304/B
+Líščie údolie 9, 84104 Bratislava
+Ing. Juraj Kajan, konateľ
+47025328
+2023706751
+SK2023706751
+Tatra banka a.s., Bratislava
+SK06 1100 0000 0029 2789 0300
+
+II.
+Účel zmluvy
+1. Účelom tejto zmluvy je poskytovanie služieb Telerádiologického komunikačného centra T3C® (ďalej aj
+T3C) dodávateľom pre objednávateľa (ďalej aj „zdravotnícke zariadenie“).
+
+III.
+Predmet zmluvy
+1. Na základe tejto zmluvy a za podmienok v nej uvedených sa dodávateľ zaväzuje poskytovať služby T3C
+objednávateľovi podľa Ponuky č. 2018-08-T3C-FNsPBB, ktorá je súčasťou tejto zmluvy.
+2. Telerádiologické komunikačné centrum T3C® je systém určený na zasielanie a prenos obrazovej
+pacientskej dokumentácie medzi zdravotníckymi zariadeniami alebo pracoviskami:
+a. Systém podporuje nasledovné formáty obrazovej a textovej informácie:
+A. Objekty DICOM: série snímok prípadne jednotlivé snímky všetkých RDG a NM modalít,
+Štruktúrované reporty, a podobne. Objekty DICOM nie sú limitované ani počtom, ani
+objemom dát.
+B. Prílohy: ľubovoľný počet súborov ľubovoľnej dĺžky, napr. MS Word dokumenty, prezentácie,
+a podobne.
+b. Systém umožňuje posielanie štúdií medzi PACS systémami, samostatnými stanicami a PACS
+systémom a samostatnou stanicou. Predpokladá sa, že aspoň jeden z klientov používa systém
+TomoCon.
+c. Systémom je zabezpečená centralizovaná správa prenosu a garancia, že prenášané údaje nebudú
+zo schránky T3C Servera vymazané skôr, než budú úspešne prijaté adresátom.
+d. Systém zabezpečuje prenos všetkých dát šifrovaním a použitím digitálnych podpisov.
+e. Šifrovanie a podpisovanie: klientom zadaný a heslom chránený privátny kľúč; silu kľúča si klient zvolí
+počas inštalácie (odporúčaná minimálna veľkosť 1024 bitov).
+
+Strana 1 (z 5)
+
+Číslo zmluvy dodávateľa: TMS-2018-104
+
+f.
+g.
+h.
+i.
+j.
+k.
+
+Šifrované sú všetky údaje a z dôvodu vysokého stupňa ochrany, nie je možné poslanie nechránených
+a nepodpísaných údajov.
+Autenticita údajov sa overuje u klientov i na T3C serveri, čím je vylúčené posielanie a príjem podvrhov.
+Komunikácia je možná medzi ľubovoľnými dvoma klientmi, bez možnosti sledovania tejto
+komunikácie ostatnými klientmi T3C.
+Klienti v rámci systému môžu byť viditeľní pre všetkých alebo iba pre zadanú skupinu.
+V prípade výpadkov internetového pripojenia je prenos na server alebo zo servera automaticky
+obnovený.
+Prenášané údaje sú automaticky bezstratovo komprimované (priemerné ušetrenie 50% preneseného
+objemu).
+
+T3C Server je implementovaný na platforme Intel pod operačným systémom RedHat/CentOS Linux.
+Server udržuje databázu autorizovaných klientov a jedine im umožňuje prístup k dátovým schránkam.
+Server komunikuje pomocou HTTP protokolu s použitím Apache/httpd.
+Údaje sú uložené v schránke servera v zašifrovanom stave; pre takto zašifrované údaje neexistuje
+spôsob rozšifrovania serverom v prípade útoku na server a ani odpočúvaním sieťovej komunikácie nie
+je možné získať akékoľvek informácie o pacientoch.
+p. V súčasnosti sa T3C Server fyzicky nachádza v chránených priestoroch pripojených na Centrálny pult
+Ochrany objektov Policajného zboru Slovenskej republiky.
+q. Je možné prevádzkovanie viacerých nezávislých serverov (uzlov), ktoré sa môžu navzájom prepojiť,
+a klienti môžu prenášať dokumentáciu pacientov medzi sebou, aj keď sú pod rôznymi uzlami. Aktuálne
+je v prevádzke 1 uzol v Slovenskej republike a 1 uzol v Čechách, ktoré sú navzájom prepojené.
+l.
+m.
+n.
+o.
+
+T3C Servis je softvérový proces implementovaný na platforme Intel pod operačným systémom
+Windows XP SP3/Vista/7.
+s. Servis je automaticky spúšťaný u klienta a zabezpečuje komunikáciu (prenos zašifrovaných snímok)
+medzi klientským pracoviskom a T3C Serverom.
+t. Servis je plne automatizovaný a môže fungovať bez zásahu používateľa.
+u. Servis je zodpovedný za šifrovanie, kompresiu a komunikáciu s T3C Serverom.
+v. Komunikácia s T3C serverom prebieha pomocou HTTP protokolu, to znamená, že nie je nutné
+dodatočne konfigurovať proxy, firewall a podobne, prípadne je možné, aby servis bežal za ľubovoľným
+firewall, ktorý prepúšťa iba odchádzajúce HTTP spojenia.
+w. Servis beží buď na pracovnej stanici klienta alebo na samostatnom serveri.
+r.
+
+x.
+y.
+z.
+aa.
+bb.
+cc.
+dd.
+ee.
+ff.
+gg.
+hh.
+ii.
+
+T3C Konzola (softvérová) je implementovaná na platforme Intel, operačný systém Windows XP
+SP3/Vista/7.
+Konzola slúži na ovládanie T3C Servisu.
+Použitím konzoly je možné odosielať a prijímať štúdie, ako aj sledovať priebeh jednotlivých činností.
+Tiež umožňuje sledovanie stavov spracovania štúdií u adresáta: dostupné, stiahnuté, uložené, zmazané.
+V systéme možno meniť prioritu prenášaných štúdií.
+Možnosť zasielania urgentných štúdií, ktoré budú mať prioritu pri odosielaní aj prijímaní.
+Konzola umožňuje zasielanie alebo prijímanie obrazových štúdii a prípadne aj ich príloh z alebo
+do stanice TomoCon.
+Systém plne podporuje Unicode (národnú abecedu s diakritikou).
+V prípade potreby je možné použiť T3C Konzolu na viacerých počítačoch súčasne a paralelne zasielať
+alebo prijímať obrazové štúdie rôznych pacientov.
+Konzola umožňuje prehľad a export záznamov o uskutočnených prenosoch.
+Konzola umožňuje odosielanie, prijímanie a prezeranie textových správ, požiadaviek na štúdie
+a vyšetrenia.
+Pomocou konzoly sa dajú spravovať používatelia a ich oprávnenia pre jednotlivé činnosti.
+Pomocou konzoly sa dajú definovať pravidlá pre zasielanie oznamov emailom pri zmenách stavov
+prenášaných štúdií.
+
+jj. T3C Konzola a T3C Servis sú dodávané v nasledujúcich jazykových mutáciách: slovenská, česká,
+anglická.
+3. Podpora zahŕňa udržiavanie správnej funkčnosti systému T3C v súlade s čl. III. odst. 2 tejto zmluvy a
+v súlade s príslušnými manuálmi k systému.
+Konzultácie znamenajú možnosť správcu pripojenia k systému T3C objednávateľa/zdravotníckeho zariadenia
+klásť dodávateľovi e-mailom, telefonicky, listom alebo faxom otázky, ktoré sa týkajú prevádzky a funkčnosti
+Strana 2 (z 5)
+
+Číslo zmluvy dodávateľa: TMS-2018-104
+systému T3C, pričom dodávateľ je povinný tieto otázky zodpovedať bez zbytočného omeškania a to všetko
+v pracovných dňoch od 8.00 do 16:00.
+Podpora je iba pre správcu pripojenia k systému T3C objednávateľa/zdravotníckeho zariadenia, nie pre
+pracovníkov zdravotníckeho zariadenia („Second line support“). Správca pripojenia k systému T3C
+objednávateľa/ zdravotníckeho zariadenia zaistí vlastnými kapacitami všetku rutinnú prevádzku a riešenie
+bežných záležitostí prevádzky najmä pre koncových používateľov („First line support“). Správca pripojenia k
+systému T3C objednávateľa/zdravotníckeho zariadenia sa bude na dodávateľa obracať iba vo veciach, ktoré
+nie je schopný vyriešiť samostatne.
+4. Aktualizácia pripojenia k systému T3C zahŕňa poskytnutie každej novej verzie SW nástrojov systému, a to
+vždy do 30 dní po vydaní, spravidla elektronicky.
+
+IV.
+Spôsob plnenia
+1. Dodávateľ sa zaväzuje poskytovať služby T3C v súlade s technickou dokumentáciou, so všeobecne
+záväznými právnymi predpismi a normami STN a EN v rozsahu podľa čl. III.
+2. Pod poruchou sa rozumie úplná nefunkčnosť systému T3C.
+3. Odstraňovanie porúch systému podľa čl. III. ods. 3 vykonáva dodávateľ na základe písomnej požiadavky
+vznesenej objednávateľom e-mailom, faxom alebo listom. Objednávateľ je povinný overiť si prijatie
+písomnej požiadavky dodávateľom, ak dodávateľ nepotvrdil príjem požiadavky. Dodávateľ sa zaväzuje
+k maximálnej súčinnosti predmetnú poruchu, ktorá bráni používaniu systému, odstrániť v čo najkratšej
+možnej lehote, zahájenie odstránenia poruchy je do:
+- 60 minút v pracovných dňoch od 8:00 do 16:00 diaľkovým prístupom,
+- 48 hodín na mieste podľa potreby pri ohlásení poruchy, ktorú nie je schopný správca systému
+objednávateľa/zdravotníckeho zariadenia vyriešiť samostatne, pričom sa počíta iba čas v pracovných
+dňoch, t.j. 24 hodín za jeden celý pracovný deň.
+V odôvodnených prípadoch môžu byť s písomným/e-mail súhlasom objednávateľa tieto lehoty primerane
+predĺžené.
+4. Objednávateľ zaistí všestrannú súčinnosť a dostupnosť systému pre diaľkový servis porúch i
+v mimopracovných hodinách. Objednávateľ zaistí fyzickú súčinnosť a fyzickú dostupnosť systému pre servis
+porúch v sídle zdravotníckeho zariadenia i v mimopracovných hodinách.
+5. Pri servise systému prostredníctvom diaľkového prístupu je dodávateľ povinný dodržiavať všetky
+objednávateľom/zdravotníckym zariadením a právnymi predpismi stanovené bezpečnostné zásady.
+6. Po ukončení servisného zásahu vypíše dodávateľ protokol, v ktorom môže špecifikovať príčinu poruchy a
+navrhnúť zdravotníckemu zariadeniu/ objednávateľovi technické a organizačné opatrenia na ich
+predchádzanie. Objednávateľ je povinný relevantné a odôvodnené opatrenia realizovať alebo realizovať
+obdobné opatrenia a tak predchádzať opakovaným poruchám na systéme, inak je povinný hradiť všetky
+náklady na opätovné servisné zásahy.
+
+V.
+Cena a platobné podmienky
+1. Paušálna úhrada za poskytovanie služieb T3C v konfigurácii systému v zdravotníckom zariadení, podľa čl.
+III. ods. 3 a 4 činí mesačne EUR 310,00 bez DPH. Súčasťou paušálu sú všetky cestovné náklady, ako aj
+práce, náklady na pripojenie a všetky ďalšie náklady dodávateľa súvisiace s poskytovaním služieb systému
+T3C.
+2. Paušál za servis podľa bodu 1. bude dodávateľ fakturovať objednávateľovi mesačne spätne daňovými
+dokladmi po EUR 310,00 plus platná sadzba DPH. Splatnosť faktúr podľa tohto odseku činí 30 dní.
+3. Úhrada faktúr bude objednávateľom vykonaná bezhotovostným prevodom na účet dodávateľa uvedenom
+v čl. I. ods. 2 tejto zmluvy. Záväzok splatnosti je splnený okamžikom pripísania príslušnej čiastky na účet
+dodávateľa. DPH bude účtované v súlade s platnými právnymi predpismi.
+Strana 3 (z 5)
+
+Číslo zmluvy dodávateľa: TMS-2018-104
+
+VI.
+Sankcie za neplnenie
+1. Ak nedodrží dodávateľ lehoty na zahájenie odstránenia porúch systému podľa článku IV. ods. 3 tejto zmluvy,
+je objednávateľ oprávnený požadovať zmluvnú pokutu vo výške EUR 3,32 za každú začatú hodinu
+omeškania.
+2. Ak nedodrží objednávateľ lehotu splatnosti faktúry podľa čl. V. ods. 2 alebo 3, je dodávateľ oprávnený
+požadovať úrok z omeškanie vo výške 0,03 % z nezaplatenej časti fakturovanej čiastky za každý začatý deň
+omeškania.
+3. Za nedodržanie lehoty na zahájenie odstránenia porúch systému T3C sa nepovažuje vyššia moc, najmä vojna,
+prírodné katastrofy, prerušenie dodávky elektrickej energie, teroristické útoky, nefunkčnosť elektronických
+sietí, dopravná alebo elektronická nedostupnosť, dopravná kalamita, zrušenie alebo meškanie spojov verejnej
+autobusovej, železničnej alebo leteckej dopravy. Dodávateľ je povinný neodkladne informovať
+objednávateľa ak taký prípad, ak mu to technické prostriedky umožnia.
+Čl. VII.
+Započítanie a postúpenie pohľadávok
+1. Zmluvné strany sa dohodli, že akékoľvek pohľadávky, ktoré eviduje dodávateľ voči objednávateľovi, nie je
+možné v zmysle § 525 ods. 2 zákona č. 40/1964 Zb. Občianskeho zákonníka postúpiť na tretiu osobu bez
+predchádzajúceho písomného súhlasu objednávateľa.
+Na platnosť súhlasu objednávateľa s postúpením pohľadávky na tretiu osobu sa, v zmysle Príkazu ministra
+zdravotníctva SR č. 7/2017 zo dňa 25.septembra 2017, vyžaduje predchádzajúci písomný súhlas Ministerstva
+zdravotníctva SR.
+V prípade ak dodávateľ postúpi pohľadávky na tretiu osobu v rozpore s týmto ustanovením zmluvy, je takéto
+postúpenie podľa ustanovenia § 39 zákona č. 40/1964 Zb. Občianskeho zákonníka neplatné.
+2. Dodávateľ berie na vedomie, že započítanie pohľadávok štátu je možné len na základe písomnej dohody
+o započítaní pohľadávok štátu a to v zmysle § 8 zákona č. 374/2014 Z. z. o pohľadávkach štátu v znení
+neskorších zmien a doplnení.
+
+VIII.
+Ostatné ustanovenia
+1. Dodávateľ je povinný voči tretím osobám zachovávať mlčanlivosť o všetkých skutočnostiach, ktoré sa
+dozvedel pri realizácii tejto zmluvy a v súvislosti s ňou a ktoré sú chránené príslušnými všeobecne
+záväznými právnymi predpismi (najmä obchodné tajomstvo, osobné údaje, utajované skutočnosti) alebo
+ktoré objednávateľ prehlásil za dôverné. Povinnosť mlčanlivosti trvá i po skončení platnosti tejto zmluvy.
+Tieto povinnosti sa dodávateľ zaväzuje zaistiť aj u všetkých svojich zamestnancov, prípadne iných osôb,
+ktoré dodávateľ k realizácii tejto zmluvy použije.
+2. Objednávateľ je povinný zaistiť, aby všetci zamestnanci dodávateľa pohybujúci sa v areálu objednávateľa/
+zdravotníckeho zariadenia byli dostatočne identifikovateľní (visačky apod.) ak to zdravotnícke zariadenie
+požaduje.
+3. Kontakt dodávateľa:
+Telefonický kontakt na servis PACS je +421 2 60202324, +421 0903 776886
+Emailový kontakt na servis PACS je support@tatramed.sk
+4. Kontaktné osoby objednávateľa:
+Ing. Milan Zorvan, vedúci OIT, mobil. +421 0905 785 046, email: mzorvan@nspbb.sk
+
+Strana 4 (z 5)
+
+Číslo zmluvy dodávateľa: TMS-2018-104
+
+IX.
+Trvanie zmluvy
+1. Táto zmluva nadobúda platnosť okamihom jej podpísania oprávnenými zástupcami oboch zmluvných strán a
+účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv SR.
+2. Tato zmluva sa uzatvára na dobu 24 mesiacov. Zmluvné strany doplnia zmluvu dodatkami v prípade
+rozširovania služieb systému alebo po úprave rozsahu poskytovaných služieb.
+3. Túto zmluvu možno ukončiť písomnou výpoveďou ktorejkoľvek zmluvnej strany bez uvedenia dôvodov,
+s výpovednou lehotou 1 mesiac, ktorá začína plynúť prvým dňom mesiaca nasledujúceho po doručení
+výpovede druhej zmluvnej strane. Túto zmluvu možno ukončiť tiež písomnou dohodou zmluvných strán.
+
+X.
+Záverečné ustanovenia
+1. Vo veciach výslovne neupravených touto zmluvou sa zmluvný vzťah založený touto zmluvou riadi právnym
+poriadkom Slovenskej republiky, najmä zákonom č. 513/1991 Zb., Obchodní zákonník v znení neskorších
+predpisov.
+2. Neplatnosť niektorého ustanovenia tejto zmluvy nemá za následok neplatnosť celej zmluvy.
+3. Podmienky tejto zmluvy, ktoré svojou povahou presahujú dobu platnosti tejto zmluvy zostávajú plne
+v platnosti a sú účinné až do okamžiku ich splnenia a platia pre prípadné nástupnícke zmluvné strany.
+4. Zmluvnú strany sa zaväzujú všetky spory vzniknuté z tejto zmluvy primárne riešiť zmierovacím konaním
+podľa platnej legislatívy Slovenskej republiky.
+5. Zmluvné strany sa dohodli, že miestne príslušným súdom je súd v sídle objednávateľa.
+6. Tuto zmluvu možné meniť alebo dopĺňať jedine na základe písomných, číslovaných a oprávnenými
+zástupcami oboch zmluvných strán podpísaných dodatkov k tejto zmluve. Všetky dodatky, ktoré budú
+označené ako dodatky tejto zmluvy, sú nedeliteľnou súčasťou tejto zmluvy.
+7. Táto zmluva sa vyhotovuje v 2 rovnopisoch, z ktorých každá zmluvná strana dostane jedno vyhotovenie.
+
+V Bratislave, ...................2018
+
+V Banskej Bystrici , dňa .................2018
+
+Za dodávateľa:
+
+Za objednávateľa:
+
+...........................................................
+Ing. Juraj Kajan, konateľ
+TatraMed Software s.r.o.
+
+.............................................................
+Ing. Miriam Lapuníková, MBA, gen. riaditeľka
+Fakultná nemocnica s poliklinikou F. D.
+Roosevelta Banská Bystrica
+
+.............................................................
+Ing. Ivana Sklenková, ekonomická riaditeľka
+Fakultná nemocnica s poliklinikou F. D.
+Roosevelta Banská Bystrica
+
+Strana 5 (z 5)
+
+

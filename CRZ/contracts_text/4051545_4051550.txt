@@ -1,0 +1,954 @@
+Reg. č. UPS/US1/SEODMRIS/BEZ/2019/15573
+
+Zmluva č. 347/OMIS/2019
+o poskytovaní servisných služieb – Service Level Agreement (SLA)
+uzavretá podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov a zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov (ďalej len „zákon o verejnom obstarávaní“)
+(ďalej len „Zmluva“)
+ČLÁNOK I.
+ZMLUVNÉ STRANY
+
+1.1
+
+Objednávateľ:
+Sídlo:
+Zastúpený:
+IČO:
+DIČ:
+Bankové spojenie:
+IBAN účtu:
+Kontaktná osoba:
+
+Ústredie práce, sociálnych vecí a rodiny
+Špitálska 8, 812 67 Bratislava
+Ing. Marián Valentovič, MBA, generálny riaditeľ
+a generálny tajomník služobného úradu
+30 794 536
+2021777780
+
+(ďalej len „Objednávateľ“)
+1.2
+
+Poskytovateľ:
+Sídlo:
+Zastúpený:
+IČO:
+DIČ:
+IČ DPH:
+Zapísaný v registri:
+
+SOFTIP, a.s.
+Business Center Aruba, Galvaniho 7/D, 821 04 Bratislava
+Ing. Dušan Guldan, predseda predstavenstva
+36 785 512
+2022390942
+SK2022390942
+Okresného súdu Bratislava I, oddiel: Sa, vložka č.4151/B
+
+Bankové spojenie:
+IBAN účtu:
+Kontaktná osoba:
+(ďalej len „Poskytovateľ“)
+(Objednávateľ a Poskytovateľ spolu ďalej v texte aj ako „zmluvné strany“)
+1.3
+
+Zmluva je výsledkom verejného obstarávania nadlimitnej zákazky vyhlásenej v
+Dodatku k Úradnému vestníku Európskej únie zo dňa 04.03.2019 pod číslom 2019/S
+
+Strana 1 z 17
+
+044-100541 a vo Vestníku verejného obstarávania č. 45/2019 zo dňa 05.03.2019 pod
+značkou 4882 - MSS.
+ČLÁNOK II.
+ÚVODNÉ USTANOVENIA
+2.1
+
+Poskytovateľ vyhlasuje, že spĺňa všetky podmienky a požiadavky v tejto Zmluve
+stanovené a je oprávnený túto Zmluvu uzavrieť a riadne plniť záväzky v nej
+obsiahnuté.
+
+2.2
+
+Zmluvné strany pristupujú k uzavretiu tejto Zmluvy za účelom úpravy práv a
+povinností pri poskytovaní servisných služieb ku komplexnému informačnému systému
+SOFTIP PROFIT (ďalej len “KIS SOFTIP PROFIT“), ktorý bol Objednávateľovi
+dodaný na základe v minulosti uzatvorených zmluvných vzťahov a následných
+zmenových riešení medzi Objednávateľom a spoločnosťou Softip, a.s.. Zmluvné strany
+uzatvárajú túto Zmluvu za účelom zabezpečenia garantovanej spoľahlivosti a
+stabilnosti KIS SOFTIP PROFIT jeho užívateľom tak, aby bola zaistená požadovaná
+úroveň dostupnosti servisných služieb, rýchle odstránenie prípadných problémov bez
+negatívneho dopadu na procesy fungovania organizácie Objednávateľa a zároveň za
+účelom úprav, zmien a/alebo aktualizácie, ktorá bude vynútená budúcimi
+legislatívnymi zmenami, zmenami pracovných postupov a/alebo zmenou vnútorných
+a/alebo vonkajších rozhraní systémov, s ktorými sa KIS SOFTIP PROFIT integruje
+alebo bude integrovať, prípadne na základe požiadavky Objednávateľa.
+
+2.3
+
+Objednávateľ je podľa Zmluvy č. 2027015 uzatvorenej dňa 9.11.2007 vrátane jej
+dodatkov, Zmluvy o dielo č. 2018037 uzatvorenej dňa 29.12.2008 vrátane jej dodatkov,
+Zmluvy o dielo č. 2018017 uzatvorenej dňa 28.11.2008, Zmluvy o dielo č. 2019016
+uzatvorenej dňa 27.11.2009, Zmluvy o dielo č. 20110011 uzatvorenej dňa 24.6.2010,
+Zmluvy o dielo č. 412/OU/2012 uzatvorenej dňa 6.12.2012, Zmluvy o dielo č.
+311/OaMIS/2014 uzatvorenej dňa 12.12.2014 oprávnený využívať aplikačné
+programové vybavenia (ďalej len ako „APV“) KIS SOFTIP PROFIT, pričom je
+nevyhnutné zabezpečiť efektívnu a bezpečnú prevádzku informačného systému,
+garantovanú úroveň servisných služieb a to na základe tejto Zmluvy tak, aby KIS
+SOFTIP PROFIT poskytoval kvalitnú a stabilnú úroveň funkčnosti.
+ČLÁNOK III.
+DEFINÍCIE POJMOV
+
+Pokiaľ priamo z kontextu Zmluvy nevyplýva inak, majú nasledujúce slová, výrazy a pojmy
+použité v tejto Zmluve a jej Prílohách nasledovný význam:
+
+Akceptačné konanie
+
+Akceptačné kritériá
+
+proces schvaľovania implementácie úprav alebo zmien KIS
+SOFTIP PROFIT, ktorého výsledkom je schválenie samotného
+riešenia a jeho realizácie.
+sú merateľné, technické alebo vecné parametre vopred dohodnuté
+Zmluvnými stranami vo funkčnej špecifikácii konkrétneho riešenia
+a spolu s funkčnou špecifikáciou sú odsúhlasené ešte pred
+samotnou realizáciou riešenia.
+
+Strana 2 z 17
+
+Akceptačné testovanie
+
+Akceptačný protokol
+
+Aplikačné
+programové
+vybavenie (APV)
+
+Autorský zákon
+
+Osobohodina
+
+CPZ / Centrum
+podpory zákazníka
+
+Dokumentácia
+
+Dôverné informácie
+
+Eskalačný
+mechanizmus
+
+proces preverenia funkčnosti implementovaných úprav alebo zmien
+vykonávaný Objednávateľom a/alebo Poskytovateľom podľa
+akceptačných kritérií.
+dokument, ktorým Objednávateľ potvrdí splnenie podmienok
+na implementáciu úpravy alebo zmeny informačného systému ako
+výsledok akceptačného konania.
+je počítačový program (programový kód vrátane programovej
+dokumentácie), a to vo forme jednotlivého modulu (jeden
+podsystém, príp. používateľský program) alebo celého
+programového komplexu modulov, ktorý je zaradený do distribúcie
+spoločnosti pod svojim obchodným názvom. Súčasťou APV je aj
+údajová základňa, zahrňujúca databázovú štruktúru a dátový model,
+využívaná modulmi APV. APV môže ďalej špecifikovať Zmluva.
+Ak nie je výslovne stanovené inak, APV sa poskytuje iba v
+strojovom texte a nezahŕňa podkladové materiály potrebné na
+prípravu APV.
+zákon číslo 185/2015 Z. z. o autorskom práve a právach súvisiacich
+s autorským právom (autorský zákon), v znení neskorších
+predpisov.
+je základná merná jednotka fakturácie servisných služieb, za ktorú
+sa považuje hodina práce jedného pracovníka Poskytovateľa
+(vrátane čo i len začatej hodiny práce). Osobohodina trvá 60 minút.
+internetová aplikácia s webovým rozhraním, ktorá umožňuje
+elektronickú komunikáciu s Poskytovateľom a zber a
+vyhodnocovanie prvotných záznamov o hlásení problémov
+a požiadaviek Objednávateľa.
+popis, detailná špecifikácia úprav alebo zmien KIS Softip Profit,
+alebo iný dokument dodávaný podľa Zmluvy.
+sú všetky informácie poskytnuté vedome či nevedome v ústnej
+alebo v písomnej forme jednou Zmluvnou stranou druhej, vrátane
+informácií, ktoré sa strany dozvedeli v súvislosti so Zmluvou, ako i
+know-how, ktorým sa rozumejú všetky poznatky obchodnej,
+výrobnej, technickej či ekonomickej povahy súvisiace s činnosťou
+Zmluvnej strany, ktoré majú skutočnú alebo aspoň potenciálnu
+hodnotu a ktoré nie sú v príslušných obchodných kruhoch bežne
+dostupné a majú byť utajené. Za dôverné informácie sú ďalej
+považované počítačové programy, diagnostika, dokumentácia a
+akékoľvek ďalšie informácie, ktoré sú označené ako dôverné
+informácie.
+hierarchický postup riešenia otvorených Incidentov.
+
+Strana 3 z 17
+
+Funkčná špecifikácia
+Garanti zmluvy
+
+HOT LINE
+
+HW infraštruktúra
+
+Implementácia
+
+Incident / Vada
+
+Informačný systém
+
+detailný popis požiadaviek kladených na informačný systém a
+návrh ich riešenia
+poverené osoby za Zmluvné strany.
+poskytnutie odpovede cez Call centrum na otázky týkajúce sa
+problémových situácií vzniknutých pri používaní APV, tzn. k
+obsluhe APV, k problémovým stavom APV, k správaniu sa APV v
+rozpore s opisom v programovej dokumentácii v časovom priestore
+maximálne 15 minút, prijatie nahlásených problémov a reklamácií.
+súbor hardvérových (HW) prostriedkov, sieťových komponentov a
+ich sieťovej konfigurácie nevyhnutných pre prevádzku systému IS
+SOFTIP PROFIT.
+proces, pri ktorom sú požadované
+zapracovávané do KIS SOFTIP PROFIT.
+
+zmeny
+
+alebo
+
+úpravy
+
+incident/vada je stav, pri ktorom dôjde k neplánovanému prerušeniu
+alebo degradácii poskytovanej služby. Tento stav musí byť
+odstránený okamžite, a to trvalým alebo náhradným riešením.
+je APV (alebo skupina APV), ktoré je obvykle upravené do
+jednotného systému na základe zmluvy so zákazníkom.
+
+komplexný informačný systém Objednávateľa, na ktorý sa viaže
+KIS SOFTIP PROFIT poskytovanie Servisných služieb podľa tejto Zmluvy.
+
+Konzultácia/
+konzultačná služba
+
+Kritický incident
+
+Legislatívna podpora
+
+Licencia
+
+konzultácia je Objednávateľom vyžiadaná odborná činnosť
+špecialistov Poskytovateľa, ktorá sa týka implementovaného alebo
+navrhovaného riešenia. Na poskytovanie konzultácií sa nevzťahuje
+reakčná doba ani doba neutralizácie stanovená touto Zmluvou.
+Konzultácie môžu byť súčasťou riešenia konkrétnej požiadavky
+Objednávateľa, prípadne môžu byť vyžiadané na základe
+samostatnej požiadavky.
+aj kritická chyba/vada aplikácie/í ohrozujúca zabezpečenie
+základných činností aplikácií v rámci softvéru. Ide o chybu, majúcu
+taký vplyv, že podstatné časti funkcionality APV sú u zákazníka
+nepoužiteľné
+pre
+zabezpečenie
+činností,
+vyplývajúcich
+zo zákonných noriem a zákazník nemôže pokračovať v práci
+náhradným spôsobom pomocou APV.
+poskytovanie aktuálnych verzií APV so zapracovanými zmenami
+právnych predpisov súvisiacich s funkciami APV.
+písomný súhlas Poskytovateľa vo forme licenčnej zmluvy alebo
+licenčného dojednania v inej zmluve v súlade s autorským zákonom
+na použitie APV zákazníkom (príp. i ďalšími osobami). Zmluva
+špecifikuje podmienky udelenia licencie. Ak také dojednanie alebo
+Strana 4 z 17
+
+jeho časť chýba, licencia je udeľovaná podpisom preberacieho
+protokolu ako nevýhradná, neprenositeľná, časovo a vecne
+neobmedzená v rozsahu majetkových práv autora a územne
+obmedzená na územie Slovenskej republiky.
+
+Nekritický incident
+
+Objednávka
+Obchodný zákonník
+
+Oprávnená osoba
+objednávateľa
+
+Požiadavka
+
+Prevádzka , údržba
+a podpora KIS
+SOFTIP PROFIT
+
+Problém
+Projektový manažér
+Poskytovateľa
+
+drobná chyba/vada porucha aplikácie/í, ktorá neobmedzuje
+zabezpečenie prevádzky softvéru a elektronických služieb alebo
+jeho/ich častí a nemá dôsledky na využívanie a prevádzku softvéru.
+je to dokument, ktorým objednávateľ objedná ďalšie zmeny
+a požiadavky v zmysle bodu 4.1.2 tejto Zmluvy, v nadväznosti na
+bod 7.4 Zmluvy.
+zákon číslo 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov.
+osoba, ktorá je oprávnená nahlasovať, riešiť a potvrdzovať
+vyriešenie problémov spôsobmi uvedenými v tejto Zmluve a
+zadávať požiadavky a potvrdzovať ich vybavenie podľa tejto
+Zmluvy.
+každá požiadavka Objednávateľa na poskytnutie servisných služieb
+v rozsahu tejto Zmluvy.
+zahŕňa zabezpečenie garantovanej spoľahlivosti a dostupnosti KIS
+SOFTIP PROFIT, servisné služby zahŕňajúce najmä, no nie však
+výhradne legislatívnu podporu, odstraňovanie incidentov,
+posudzovanie, inštaláciu, konfiguráciu a/alebo parametrizáciu KIS
+SOFTIP PROFIT a/alebo zabezpečenie prechodu KIS SOFTIP
+PROFIT na nové verzie, poskytnutie aktualizovaných verzií APV
+reflektujúcich vývoj v oblasti informačných technológií, ak k takej
+aktualizácii dôjde počas poskytovania podpory, ďalšie
+administrátorské práce a práce vykonávané na základe hlásení
+Objednávateľa na CPZ, bližšie definované v tejto Zmluve (paušálne
+služby).
+príčina jedného alebo viacerých incidentov.
+osoba vymenovaná Poskytovateľom, ktorá riadi práce na projekte.
+Je zodpovedný za detailné plánovanie, koordináciu a kontrolu
+všetkých činností vykonávaných v rámci realizácie projektu.
+
+Projektový manažér
+Objednávateľa
+
+osoba vymenovaná Objednávateľom, ktorá je zodpovedná za
+zabezpečenie zdrojov a kapacít Objednávateľa potrebných pre
+riadnu realizáciu projektu. Je zodpovedná za aktívnu spoluprácu
+zamestnancov Objednávateľa v spoločných pracovných tímoch.
+
+Reakčná doba
+
+časový úsek od okamihu, kedy pracovník Call centra potvrdí
+zákazníkovi prijatie nahláseného prvotného záznamu do začiatku
+jeho riešenia, s právom prerušiť riešenie nahláseného prvotného
+Strana 5 z 17
+
+záznamu počas pracovného voľna a pracovného pokoja.
+
+SLA parameter
+
+Servisné služby
+
+Súťažné podklady
+
+SW
+
+SW infraštruktúra
+
+SW komponent 3.
+strany
+
+Úpravy a zmeny
+
+Užívateľ
+Zákazník
+
+akákoľvek merateľná hodnota určená v tejto Zmluve, ktorá je v
+rámci servisných služieb prevádzky, podpory a údržby KIS SOFTIP
+PROFIT záväzná, pričom servisné služby musia byť vykonávané s
+dodržaním týchto parametrov.
+špecifikácia podmienok, vzájomných práv a povinností Zmluvných
+strán a rozsahu poskytovania servisných služieb prevádzky, údržby
+a podpory pre KIS SOFTIP PROFIT a taktiež riešenia a realizácie
+úprav a zmien KIS SOFTIP PROFIT.
+súťažné podklady v zmysle § 42 Zákona o verejnom obstarávaní,
+ktoré obsahujú podrobné vymedzenie predmetu zákazky, verejného
+obstarávania, ktorého výsledkom je táto Zmluva.
+Poskytovateľom vytvorená samostatná časť podporovaného KIS
+SOFTIP PROFIT, ktorú možno používať nezávisle od ostatných
+komponentov, zahrňujúcu SW infraštruktúru, na ktorej je
+prevádzkovaná.
+softvérová (SW) infraštruktúra predstavuje súbor SW komponentov
+tretích strán, ktoré sú inštalované na HW prostriedkoch a vytvárajú
+prostredie pre fungovanie SW komponentov
+KIS SOFTIP
+PROFIT.
+komponent SW, ktorý je bežne dostupným tovarom alebo službou
+na trhu a/alebo súčasť voľne šíriteľného SW (operačné systémy,
+databázy, zálohovacie systémy, monitorovacie systémy,
+bezpečnostné systémy, programovacie nástroje atď.) Za SW
+komponent 3. strany sa na účely tejto Zmluvy nepovažuje samotný
+KIS SOFTIP PROFIT a jeho komponenty.
+úpravy a zmeny KIS ktoré nepredstavujú rozšírenie funkčnosti KIS.
+Ide najmä o úpravy zamerané na zlepšenie používateľského
+komfortu, tvorba zostáv a výstupov, úprava nastavení a parametrov
+KIS a pod. Služby sú poskytované na základe požiadaviek
+Objednávateľa vzniknutých najmä v dôsledku legislatívnych zmien,
+zmien v pracovných postupoch, zmien vnútorných rozhraní alebo
+vonkajších rozhraní systémov, s ktorými sa KIS SOFTIP PROFIT
+integruje alebo bude integrovať. Ich zadanie nie je zo strany
+Poskytovateľa nárokovateľné.
+zamestnanec Objednávateľa (vrátane jeho podriadených
+organizačných zložiek a subjektov v jeho zriaďovateľskej
+pôsobnosti), ktorý v rámci svojej pridelenej agendy využíva KIS
+Softip Profit.
+subjekt na základe licencie oprávnený využívať KIS Softip Profit.
+
+Strana 6 z 17
+
+Závažný incident
+
+Zmenová požiadavka
+
+hlavná chyba/vada aplikácie/í, ktorá neohrozuje základné činnosti
+aplikácií v rámci softvéru. Spôsobuje však problémy s využívaním
+a prevádzkovaním softvéru alebo jeho komponentov. Umožňuje
+prevádzku bez dôsledkov na konzistenciu dát a výsledky
+spracovania. Je možné ju dočasne vyriešiť organizačným opatrením
+prevádzkovateľa.
+požiadavka na úpravu alebo zmenu funkčnosti KIS SOFTIP
+PROFIT oproti pôvodnej funkčnosti.
+ČLÁNOK IV.
+PREDMET ZMLUVY
+
+4.1
+
+Poskytovateľ sa zaväzuje za podmienok uvedených v tejto Zmluve, v súlade s účelom
+tejto Zmluvy poskytovať Objednávateľovi servisné služby zahŕňajúce servis APV,
+správu APV, údržbu a podporu APV, vrátane proaktívnych ako aj reaktívnych činností
+a realizáciu úprav a zmien APV podľa požiadaviek Objednávateľa v nasledovnom
+rozsahu:
+4.1.1 Prevádzka, údržba a podpora pre KIS SOFTIP PROFIT v súlade s Prílohou č. 1
+tejto Zmluvy (ďalej len „služby podľa bodu 4.1.1 Zmluvy“);
+4.1.2 Realizácia úprav a zmien KIS SOFTIP PROFIT na základe požiadavky
+Objednávateľa v súlade s Prílohou č. 2 tejto Zmluvy výlučne na základe
+vystavenej objednávky na požadované úpravy a zmeny a to spôsobom
+uvedeným v článku VII. tejto Zmluvy (ďalej len „služby podľa bodu 4.1.2
+Zmluvy“);
+(ďalej spolu aj ako „servisné služby“).
+
+4.2 Záväzku Poskytovateľa v zmysle bodu 4.1 tejto Zmluvy zodpovedá záväzok
+Objednávateľa za riadne a včas poskytnuté služby uhradiť Poskytovateľovi zmluvne
+dohodnutú cenu podľa článku VI. Zmluvy.
+4.3
+
+Služby poskytované Poskytovateľom pre Objednávateľa v zmysle tejto Zmluvy sú
+vykonávané v KIS SOFTIP PROFIT Objednávateľa v rozsahu a spôsobom uvedeným
+v tejto Zmluve.
+ČLÁNOK V.
+MIESTO PLNENIA A DOBA PLNENIA
+
+5.1
+
+Miestom plnenia, ak v zmluve nie je uvedené inak, je sídlo Objednávateľa.
+
+5.2
+
+Pokiaľ to povaha plnenia tejto Zmluvy umožňuje, je Poskytovateľ oprávnený
+poskytovať servisné služby aj vzdialeným prístupom alebo inak z miesta odlišného od
+miesta plnenia uvedeného v predchádzajúcom bode tejto Zmluvy.
+
+5.3
+
+Služby podľa bodu 4.1.1 Zmluvy poskytuje Poskytovateľ priebežne po dobu platnosti a
+účinnosti tejto Zmluvy, a to spôsobom špecifikovaným v Prílohe č. 1 tejto Zmluvy.
+
+5.4
+
+Služby podľa bodu 4.1.2 Zmluvy poskytuje Poskytovateľ bez zbytočného odkladu odo
+dňa, kedy si ich poskytnutie Objednávateľ objedná v súlade s touto Zmluvou.
+
+Strana 7 z 17
+
+ČLÁNOK VI.
+CENA A PLATOBNÉ PODMIENKY
+6.1
+
+Cena za poskytnuté služby podľa tejto Zmluvy je stanovená dohodou zmluvných strán
+podľa zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení
+neskorších predpisov a vyhlášky Ministerstva financií Slovenskej republiky č. 87/1996
+Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z.
+o cenách v znení neskorších predpisov.
+
+6.2
+
+Maximálna cena za poskytnuté servisné služby počas trvania tejto Zmluvy je spolu vo
+výške 3 418 648,00 EUR bez DPH (slovom trimiliónyštyristoosemnásťtisíc
+šesťstoštyridsaťosem EUR bez DPH), t.j. 4 102 377,60 EUR s DPH (slovom
+štyrimiliónystodvatisíctristosedemdesiatsedem EUR šesťdesiat centov s DPH).
+
+6.3
+
+Objednávateľ sa zaväzuje, že počas platnosti tejto Zmluvy Poskytovateľovi za služby
+podľa bodu 4.1.1 Zmluvy zaplatí mesačne zmluvnú cenu vo výške 64 296,50 EUR bez
+DPH (slovom šesťdesiatštyritisícdvestodeväťdesiatšesť EUR päťdesiat centov bez
+DPH), t.j. 77 155,80 EUR s DPH (slovom sedemdesiatsedemtisícstopäťdesiatpäť EUR
+osemdesiat centov s DPH), a to za každý aj začatý kalendárny mesiac. V rámci
+mesačnej zmluvnej ceny podľa tohto bodu Zmluvy má Objednávateľ nárok na 384
+osobohodín na realizáciu drobných úprav a zmien a realizáciu školení používateľov.
+Objednávateľ má právo prečerpať stanovený počet osobohodín v kalendárnom mesiaci
+na úkor osobohodín v ďalších mesiacoch, alebo v prípade nedočerpania preniesť tieto
+osobohodiny do ďalších mesiacov plnenia zmluvy.
+
+6.4
+
+Objednávateľ uhradí cenu podľa bodu 6.3 za služby špecifikované v bode 4.1.1 tejto
+Zmluvy na základe faktúr vystavených Poskytovateľom.
+
+6.5
+
+Objednávateľ a Poskytovateľ sa dohodli na cene za služby poskytované podľa bodu
+4.1.2 Zmluvy a stanovili ju na sumu 98,00 EUR bez DPH (slovom deväťdesiatosem
+EUR bez DPH), t.j. 117,60 EUR s DPH (slovom stosedemnásť EUR šesťdesiat centov s
+DPH) za 1 (jednu) osobohodinu poskytovania služieb podľa bodu 4.1.2. Maximálny
+finančný limit Objednávateľa za poskytnutie služieb podľa bodu 4.1.2 Zmluvy počas
+celého trvania zmluvy nesmie presiahnuť sumu 332 840,00 EUR bez DPH.
+Poskytovateľ poskytne služby podľa bodu 4.1.2 výhradne na základe písomnej
+objednávky Objednávateľa. Služby podľa bodu 4.1.2 sú zo strany Poskytovateľa voči
+Objednávateľovi nenárokovateľné.
+
+6.6
+
+Cena za konkrétnu službu poskytovanú podľa bodu 4.1.2 Zmluvy v KIS SOFTIP
+PROFIT bude vypočítaná ako súčin Zmluvnými stranami odsúhlasených osobohodín pri
+poskytnutí služieb podľa bodu 4.1.2 Zmluvy a ceny za 1 osobohodinu uvedenú v bode
+6.5 Zmluvy.
+
+6.7
+
+Objednávateľ uhradí cenu v zmysle bodu 6.5 Zmluvy za služby poskytované podľa
+bodu 4.1.2 Zmluvy na základe faktúr doručených Poskytovateľom, pričom Poskytovateľ
+je oprávnený vystaviť faktúru až po podpise akceptačného protokolu objednaných
+služieb, ktorého fotokópia bude tvoriť prílohu príslušnej faktúry.
+
+6.8
+
+Splatnosť faktúr je tridsať (30) kalendárnych dní odo dňa preukázateľného doručenia
+príslušnej faktúry Objednávateľovi.
+Strana 8 z 17
+
+6.9
+
+Poskytovateľom vystavená faktúra musí obsahovať:
+označenie zmluvných strán, ich sídlo, IČO, IČ DPH,
+číslo faktúry,
+číslo tejto Zmluvy,
+deň vystavenia a deň splatnosti faktúry,
+označenie peňažného ústavu a IBAN účtu, na ktorý má Objednávateľ poukázať
+finančné prostriedky,
+- fakturovanú sumu v EUR,
+- pečiatku a podpis oprávnenej osoby Poskytovateľa,
+- fotokópiu Objednávateľom podpísaného preberacieho/akceptačného protokolu služieb
+podľa Prílohy č. 3, v prípade servisných služieb poskytovaných v zmysle tejto
+Zmluvy, spočívajúcich v zmenách a úpravách APV.
+-
+
+6.10 Objednávateľ má právo vrátiť vystavenú faktúru Poskytovateľovi, ak vystavená faktúra
+obsahuje nesprávne cenové alebo iné údaje alebo neobsahuje náležitosti daňového
+dokladu podľa všeobecne záväzných právnych predpisov Slovenskej republiky alebo ak
+neobsahuje náležitosti podľa bodu 6.9 tejto Zmluvy. Takto Objednávateľom vrátenú
+faktúru Poskytovateľ podľa charakteru nedostatkov buď opraví alebo vystaví novú. V
+takom prípade sa zastaví plynutie lehoty splatnosti faktúry a nová 30 dňová lehota
+splatnosti začne plynúť dňom riadneho doručenia opravenej alebo novej faktúry
+Objednávateľovi.
+6.11 Faktúra sa uhrádza výhradne prevodným príkazom. V prípade, ak nastane omeškanie
+platby faktúry z dôvodov na strane Štátnej pokladnice, nie je Objednávateľ po túto dobu
+v omeškaní so zaplatením čiastok uvedených v tejto faktúre. Faktúra sa považuje za
+uhradenú dňom odpísania fakturovanej čiastky z účtu Objednávateľa.
+6.12 V prípade omeškania Objednávateľa s plnením jeho peňažných záväzkov má
+Poskytovateľ nárok na zaplatenie úroku z omeškania vo výške ustanovenej v § 369 ods.
+2 Obchodného zákonníka za každý deň omeškania.
+ČLÁNOK VII.
+SPÔSOB POSKYTOVANIA A PREVZATIA SLUŽIEB
+7.1
+
+Všetky na základe tejto zmluvy poskytované servisné služby, prevádzky, údržby a
+podpory sú bližšie špecifikované v Prílohách č. 1, 2, 4 a 5.
+
+7.2
+
+Službu Hot Line špecifikovanú v Prílohe č. 1 Zmluvy je Poskytovateľ povinný
+zabezpečovať v pracovných dňoch v čase od 8:00 do 16:00 hod na telefónnom čísle
+xxx/xxxx xxx.
+
+7.3
+
+Poskytovateľ je povinný bezodkladne po nadobudnutí účinnosti tejto zmluvy zabezpečiť
+Objednávateľovi prístup do centra podpory zákazníka (ďalej len „CPZ“).
+
+7.4
+
+Služby poskytované podľa bodu 4.1.2 Zmluvy poskytuje Poskytovateľ na základe
+písomnej objednávky Objednávateľa. Pred vyhotovením funkčnej špecifikácie zmien a
+úprav funkcionality KIS SOFTIP PROFIT si Zmluvné strany spôsobom určeným v tejto
+Zmluve vzájomne odsúhlasia predmet a rozsah úprav, predpokladaný rozsah prácnosti
+v osobohodinách, a tiež vymedzia čas, v akom sa predpokladá jeho realizácia.
+
+Strana 9 z 17
+
+7.5
+
+Zmluvné strany sa dohodli, že pri úprave KIS SOFTIP PROFIT podľa bodu 4.1.2
+Zmluvy sa zaväzujú dodržiavať nasledovný postup:
+7.5.1 V prípade potreby zabezpečenia úpravy KIS SOFTIP PROFIT, Objednávateľ
+požiada Poskytovateľa formou požiadavky zaevidovanej v CPZ o návrh analýzy
+riešenia, odhad prácnosti, ceny a času nevyhnutného na riešenie požiadavky.
+Poskytovateľ vyhodnotí, či ide o zmenovú požiadavku a
+7.5.1.1 ak ide o zmenovú požiadavku, predloží spracované podklady
+Objednávateľovi na rozhodnutie o ďalšom postupe,
+7.5.1.2 ak nepôjde o zmenovú požiadavku, zrealizuje požiadavku v rámci
+servisnej činnosti podľa bodu 4.1.1 Zmluvy.
+7.5.2 Ak Objednávateľ na základe predložených podkladov v zmysle bodu 7.5.1.1
+vyhodnotí, že nebude žiadať požiadavku v takom rozsahu realizovať, zaeviduje
+túto skutočnosť v CPZ ako uzavretú. V prípade ak Objednávateľ na základe
+predložených podkladov podľa bodu 7.5.1.1 vyhodnotí, že bude žiadať
+požiadavku realizovať, v CPZ potvrdí predmet požiadavky, obsah a rozsah
+plnenia.
+7.5.3 Na základe potvrdenej požiadavky podľa bodu 7.5.2 Zmluvy je Poskytovateľ
+povinný v lehote stanovenej Objednávateľom spracovať a predložiť
+Objednávateľovi na schválenie funkčnú špecifikáciu s popisom riešenia a
+časovým harmonogramom realizácie požiadavky. Momentom schválenia
+funkčnej špecifikácie Objednávateľom, vystaví Objednávateľ písomne
+objednávku, na základe ktorej Poskytovateľ začína s realizáciou
+Objednávateľovej požiadavky. Výsledkom realizácie je riadne a včas dodaná
+požadovaná úprava podľa odsúhlasenej funkčnej špecifikácie, pričom
+odovzdanie požadovanej úpravy prebehne formou akceptačného testovania.
+7.5.4 Služby poskytované Poskytovateľom podľa bodu 4.1.2 Zmluvy prevezme
+Objednávateľ podpísaním preberacieho/akceptačného protokolu služieb, ktorého
+vzor je uvedený v Prílohe č. 3 Zmluvy najneskôr v lehote desať (10)
+kalendárnych dní odo dňa úspešného vykonania akceptačného testovania.
+
+7.6
+
+Poskytovateľ sa zaväzuje byť počas platnosti a účinnosti tejto zmluvy držiteľom
+platných certifikátov ISO 9001, ISO 10006, ISO 14001, ISO/IEC 27001 a OHSAS
+18001STN a poskytované servisné služby podľa tejto Zmluvy musia po celú dobu
+plnenia spĺňať okrem vlastností dojednaných v tejto Zmluve, pokiaľ je to uplatniteľné aj
+požiadavky ISO 9001, ISO 10006, ISO 14001, ISO/IEC 27001 a OHSAS 18001STN.
+ČLÁNOK VIII.
+OSOBITNÉ USTANOVENIA
+
+8.1
+
+Zmluvné strany spoločne vyhlasujú, že sú si vedomé, že služby Poskytovateľ poskytne
+výhradne k APV špecifikovanom v Prílohe č. 5 tejto Zmluvy, a to iba za podmienky, že
+Objednávateľ také APV používa oprávnene a že plní svoje záväzky spojené s takýmto
+oprávnením.
+
+8.2
+
+Ak Poskytovateľ poskytne Objednávateľovi v rámci plnení tejto Zmluvy autorské dielo
+v zmysle § 3 autorského zákona, poskytuje Poskytovateľ Objednávateľovi k takému
+dielu licenciu v zmysle bodu 8.3 tejto Zmluvy, a to s účinnosťou odo dňa podpísania
+preberacieho/akceptačného protokolu.
+
+Strana 10 z 17
+
+8.3
+
+Licencie podľa tejto Zmluvy sa udeľujú ako nevýhradné, neprevoditeľné, časovo a
+vecne neobmedzené v rozsahu majetkových práv autora a územne obmedzené na
+územie Slovenskej republiky.
+
+8.4
+
+Pokiaľ v rámci plnenia predmetu tejto Zmluvy Poskytovateľ použije autorské dielo
+tretej strany, je povinný zabezpečiť súhlas autora diela na použitie autorského diela
+tretej osobe a na plnenie podľa tejto Zmluvy.
+
+8.5
+
+Objednávateľ je oprávnený používať autorské diela tretej strany v súlade s ich
+funkčným vymedzením podľa tejto Zmluvy a v súlade s pokynmi Poskytovateľa
+poskytnutými formou dokumentácie či v rámci zaškolenia. Ak táto Zmluva nestanoví
+inak, Objednávateľ nemá oprávnenie zasahovať alebo upravovať autorské dielo s
+výnimkou zásahov, ktoré v súlade s donucujúcimi ustanoveniami právnych predpisov
+nevyžadujú súhlas poskytovateľa licencie.
+
+8.6
+
+Objednávateľ je oprávnený využívať autorské dielo v zmysle bodu 8.2 tejto Zmluvy
+v súlade s ustanovením § 89 autorského zákona a udelenou licenciou v zmysle bodu 8.3
+tejto Zmluvy, pričom odmena za udelenie licencie na používanie autorského diela je
+zahrnutá v maximálnej cene podľa bodu 6.2 tejto Zmluvy.
+
+8.7
+
+Predchádzajúce ustanovenia tohto článku sa nevzťahujú na systémové vybavenie, ak je
+poskytované v súlade s touto Zmluvou, ani na APV s výnimkou tých súčastí APV, ktoré
+boli Objednávateľovi poskytnuté výhradne pri plnení záväzkov Poskytovateľa z tejto
+Zmluvy. Používateľské práva Objednávateľa vo vzťahu k systémovému vybaveniu sú
+špecifikované v tejto Zmluve a/alebo v dokumentácii, poskytnutej Poskytovateľom
+spoločne s takýmto vybavením.
+
+8.8
+
+Zmluvné strany výslovne vyhlasujú, že ak pri plnení podľa tejto Zmluvy vznikne
+činnosťou Poskytovateľa a Objednávateľa dielo spoluautorov podľa autorského zákona,
+dohodnú sa strany na spôsobe riešenia vzájomných práv k takému dielu, a to bez
+zbytočného omeškania odo dňa, kedy k tomu jedna strana druhú stranu písomne vyzve,
+ak sa zmluvné strany nedohodnú inak.
+ČLÁNOK IX.
+PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+
+9.1
+
+Poskytovateľ sa touto Zmluvou zaväzuje:
+9.1.1 poskytovať služby podľa tejto Zmluvy s odbornou starostlivosťou, riadne a včas,
+a to za predpokladu poskytnutia potrebnej súčinnosti Objednávateľa a včasného
+plnenia ďalších záväzkov Objednávateľa, pokiaľ sú tieto objektívne nevyhnutné
+pre plnenie záväzkov Poskytovateľa;
+9.1.2 pri vykonávaní prác v sídle Objednávateľa dodržiavať predpisy o ochrane
+bezpečnosti práce a zdravia pri práci, požiarnej ochrany, hygieny práce a
+životného prostredia;
+9.1.3 zaistiť, aby jeho pracovníci dodržiavali všetky interné predpisy Objednávateľa,
+s ktorými boli Objednávateľom vopred oboznámení;
+9.1.4 chrániť práva duševného vlastníctva Objednávateľa, ako aj práva tretích osôb,
+ktoré by mohli byť plnením Zmluvy dotknuté;
+
+Strana 11 z 17
+
+9.1.5 dodržiavať povinnosti ochrany osobných údajov v súlade so zákonom č. 18/2018
+Z.z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov.
+9.2
+
+Objednávateľ sa zaväzuje spolupracovať s Poskytovateľom pri plnení tejto Zmluvy,
+najmä mu s dostatočným predstihom poskytovať potrebnú súčinnosť, úplné, pravdivé
+a včasné informácie potrebné pre riadne plnenie záväzkov Poskytovateľa, a to v rozsahu
+potrebnom pre včasné a riadne plnenia Poskytovateľa, najmenej v rozsahu
+špecifikovanom v Prílohe č. 4 tejto Zmluvy.
+ČLÁNOK X.
+ZODPOVEDNOSŤ ZA VADY A ZÁRUKA
+
+10.1 Poskytovateľ zodpovedá za Incidenty/Vady vzniknuté počas trvania tejto Zmluvy, ako
+aj za Incidenty/Vady vzniknuté po poskytnutí požadovaných servisných služieb
+v zmysle tejto Zmluvy, ak boli spôsobené porušením jeho povinností vyplývajúcich
+z tejto Zmluvy.
+10.2 Pri vadnom plnení Poskytovateľ zodpovedá za Incidenty/Vady spôsobené konaním
+alebo opomenutím konania svojich zamestnancov a subdodávateľov alebo
+skutočnosťou, že servisné služby boli poskytnuté odlišne od dohodnutých servisných
+služieb podľa tejto Zmluvy. Pri výskyte Incidentov/Vád je Objednávateľ povinný
+oznámiť Poskytovateľovi vznik vady a Poskytovateľ je povinný ich odstrániť v lehote
+podľa Tabuľky 1 Prílohy č. 1 v závislosti od závažnosti incidentu/vady, ak sa zmluvné
+strany nedohodli inak. Objednávateľ oznamuje Poskytovateľovi Incidenty/Vady
+výhradne prostredníctvom CPZ. Reakčný čas na odozvu Poskytovateľa po doručení
+upozornenia na vady Objednávateľom prostredníctvom CPZ je 24 hod. od evidencie
+vady na CPZ počas pracovných dní.
+10.3 Zmluvné strany sa zaväzujú písomne upozorniť druhú zmluvnú stranu bez zbytočného
+odkladu na vzniknuté okolnosti vylučujúce zodpovednosť brániace riadnemu plneniu
+tejto Zmluvy. Zmluvné strany sa zaväzujú k vyvinutiu maximálneho úsilia k odvráteniu
+a prekonaniu okolností vylučujúcich zodpovednosť. Zmluvné strany sa dohodli, že ak
+niektorá zmluvná strana bude mať informáciu o akejkoľvek skutočnosti alebo okolnosti,
+ktorá by mohla byť spôsobilá priamo či nepriamo zmariť alebo podstatne sťažiť plnenie
+tejto Zmluvy, je táto zmluvná strana povinná okamžite o tejto skutočnosti alebo
+okolnosti písomne vyrozumieť druhú zmluvnú stranu.
+10.4 Na servisné služby poskytované v zmysle tejto Zmluvy, spočívajúce v zmenách a
+úpravách APV, t.j. na všetky servisné služby podľa bodu 4.1. Zmluvy poskytuje
+Poskytovateľ záruku v trvaní 24 mesiacov odo dňa podpísania protokolu o akceptovaní
+úpravy a zmeny APV do prevádzky. Záruka sa vzťahuje na prevádzkyschopnosť a
+funkčnosť APV.
+10.5 Poskytovateľ je povinný v záručnej dobe v zmysle bodu 10.4 Zmluvy na svoje náklady
+poskytovať Objednávateľovi záručný servis, ktorý spočíva v bezodplatnom odstránení
+vád plnenia a nedostatkov, na ktoré sa záruka vzťahuje, v dohodnutej lehote.
+10.6 Uplatnením zodpovednosti za vady poskytnutých servisných služieb nie je dotknutá
+zodpovednosť za škodu, ktorá v dôsledku vadného plnenia Objednávateľovi vznikla.
+
+Strana 12 z 17
+
+ČLÁNOK XI.
+ZMLUVNÉ POKUTY A ZODPOVEDNOSŤ ZA ŠKODU
+11.1 Ak sa Poskytovateľ dostane do omeškania s poskytnutím servisných služieb v zmysle
+tejto Zmluvy alebo do omeškania s poskytnutím služby podľa vzájomného dojednania
+zmluvných strán v prípade konkrétnej servisnej služby, Objednávateľ má právo uplatniť
+si voči Poskytovateľovi zmluvnú pokutu vo výške 0,05% z maximálnej zmluvnej ceny s
+DPH uvedenej v bode 6.2 Zmluvy, ak je Poskytovateľ v omeškaní s poskytnutím
+servisných služieb poskytovaných podľa bodu 4.1.1 a 4.1.2 Zmluvy za každý, aj začatý
+deň omeškania. Poskytovateľ sa zaväzuje, že takúto zmluvnú pokutu zaplatí
+Objednávateľovi najneskôr do 30 dní odo dňa doručenia jej vyúčtovania.
+11.2 Ak sa Poskytovateľ dostane do omeškania s odtraňovaním vád APV, Objednávateľ má
+právo uplatniť si voči Poskytovateľovi zmluvnú pokutu vo výške 0,05% z maximálnej
+zmluvnej ceny s DPH uvedenej v bode 6.2 Zmluvy za každý, aj začatý deň omeškania.
+Poskytovateľ sa zaväzuje, že takúto zmluvnú pokutu zaplatí Objednávateľovi najneskôr
+do 30 dní odo dňa doručenia jej vyúčtovania.
+11.3 Každá zo zmluvných strán zodpovedá za spôsobenú škodu v rámci platných právnych
+predpisov a tejto Zmluvy. Obe strany sa zaväzujú k vyvinutiu maximálneho úsilia k
+predchádzaniu škodám a k minimalizácii vzniknutých škôd.
+11.4 Nárok na náhradu škody zmluvnej strane nevzniká, ak k porušeniu zmluvných
+povinností došlo v dôsledku okolností vylučujúcich zodpovednosť v zmysle
+ustanovenia § 374 Obchodného zákonníka v platnom znení.
+11.5 Poskytovateľ nezodpovedá za škody vzniknuté poškodením alebo stratou dát, ktoré:
+11.5.1 boli spôsobené nevhodným softvérovým a/alebo hardvérovým vybavením,
+Objednávateľa, alebo nevhodným použitím systémového a aplikačného softvéru
+(t. j. v rozpore s používateľskou alebo administrátorskou dokumentáciou, resp.
+technickou alebo prevádzkovou dokumentáciou),
+11.5.2 spočívajú v nefunkčnosti APV vyvolanej poruchou serveru, hardvérového
+vybavenia, elektrickou napájacou a komunikačnou sieťou Objednávateľa,
+počítačovými vírusmi, preplnením diskových médií,
+11.5.3 boli spôsobené neodbornou činnosťou Objednávateľa,
+11.5.4 neboli spôsobené Poskytovateľom dodaným Softvérom. Zmluvné strany sú
+povinné sa vopred informovať o spôsobe práce v inom programovom prostredí
+v prípade poskytovania Servisných služieb za iných podmienok než sa dohodlo
+v tejto Zmluve.
+ČLÁNOK XII.
+TRVANIE ZMLUVY
+12.1 Táto Zmluva sa uzatvára na obdobie 48 mesiacov odo dňa nadobudnutia jej účinnosti,
+t.j. od prvého dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bude
+zmluva zverejnená v Centrálnom registri zmlúv.
+12.2 Zmluvu je možné ukončiť nasledovným spôsobom:
+a) písomnou dohodou Zmluvných strán,
+Strana 13 z 17
+
+b) výpoveďou ktorejkoľvek zmluvnej strany,
+c) odstúpením.
+12.3 Zmluvné strany majú právo zmluvný vzťah ukončiť výpoveďou aj bez uvedenia
+dôvodu s trojmesačnou výpovednou lehotou, ktorá začína plynúť prvým dňom
+kalendárneho mesiaca nasledujúceho po doručení písomnej výpovede druhej zmluvnej
+strane.
+12.4 Zmluvné strany majú právo odstúpiť od tejto Zmluvy podľa § 344 a nasl. zákona
+č. 513/1991 Zb. Obchodný zákonník v platnom znení. Odstúpením jednej zo
+zmluvných strán zanikajú všetky práva a povinnosti zmluvných strán vyplývajúce
+z tejto Zmluvy ku dňu doručenia odstúpenia druhej zmluvnej strane, okrem nárokov na
+náhradu spôsobenej škody a nároku na zmluvnú pokutu. Právne účinky odstúpenia od
+tejto Zmluvy nastávajú dňom doručenia písomného oznámenia o odstúpení druhej
+zmluvnej strane.
+12.5 Ktorákoľvek Zmluvná strana môže odstúpiť od tejto Zmluvy z dôvodu podstatného
+porušenia záväzku druhej Zmluvnej strany.
+12.6 Za podstatné porušenie záväzku sa považuje omeškanie s plnením záväzku zmluvnej
+strany, ktoré trvá po dobu viac ako tridsať (30) kalendárnych dní, ak povinná Zmluvná
+strana nezjedná nápravu ani v dodatočnej lehote, ktorú jej poskytne oprávnená Zmluvná
+strana v písomnom oznámení, v ktorom špecifikuje porušenie záväzku, ktorého sa
+dovoláva. Taká primeraná lehota nesmie byť kratšia ako pätnásť (15) kalendárnych dní.
+12.7 Za podstatné porušenie zmluvy zo strany Poskytovateľa sa považuje aj jeho opakované
+porušenie zmluvných podmienok, a to napriek predchádzajúcemu písomnému
+upozorneniu zo strany Objednávateľa.
+12.8 Odstúpenie od Zmluvy ani jej výpoveď nemajú vplyv na plnenie Poskytovateľa, ktoré
+bolo riadne prevzaté Objednávateľom a v súvislosti s ktorým bol obidvoma zmluvnými
+stranami podpísaný preberací/akceptačný protokol. Odstúpením ani výpoveďou nie je
+dotknutý
+12.8.1 nárok Poskytovateľa na zaplatenie ceny za riadne poskytnuté a Objednávateľom
+prevzaté plnenie podľa tejto Zmluvy,
+12.8.2 nárok Poskytovateľa na zaplatenie úroku z omeškania podľa tejto Zmluvy
+a nárok Objednávateľa na zaplatenie zmluvnej pokuty podľa tejto Zmluvy
+12.8.3 nárok Objednávateľa na udelenie licencie podľa článku 8 tejto Zmluvy,
+12.8.4 nárok Objednávateľa na záručný servis v zmysle bodu 10.4 tejto Zmluvy.
+12.9 Ak dôjde k ukončeniu tejto Zmluvy v priebehu kalendárneho mesiaca, určí sa cena
+paušálnych služieb podľa bodu 6.3 Zmluvy, poskytnutých v mesiaci v ktorom došlo
+k ukončeniu Zmluvy, ako podiel ceny za paušálne služby podľa bodu 6.3 Zmluvy
+a počtu dní tohto mesiaca vynásobené počtom kalendárnych dní od začiatku mesiaca do
+ukončenia tejto Zmluvy.
+
+Strana 14 z 17
+
+ČLÁNOK XIII.
+VÝKONOVÁ ZÁRUKA
+13.1 Výkonovou zárukou sa na účely tejto Zmluvy rozumie kaucia podľa bodu 13.3 Zmluvy.
+13.2 Výkonová záruka slúži na zabezpečenie a uspokojenie všetkých peňažných pohľadávok
+Objednávateľa voči Poskytovateľovi, ktoré vzniknú z tejto Zmluvy alebo na základe
+všeobecne záväzných právnych predpisov, ktorými sa táto dohoda spravuje.
+Objednávateľ je oprávnený výkonovú záruku použiť najmä na:
+a) uspokojenie svojej pohľadávky voči Poskytovateľovi vzniknutej z
+uplatneného nároku na zmluvnú pokutu v súlade s touto Zmluvou,
+b) uspokojenie svojho nároku na náhradu škody spôsobenej Poskytovateľom
+Objednávateľovi pri plnení tejto Zmluvy alebo v súvislosti s plnením podľa
+tejto Zmluvy.
+13.3 Na účel zabezpečenia záväzku je poskytovateľ povinný zložiť na účet Objednávateľa
+IBAN č. ....... pred podpísaním tejto Zmluvy výkonovú záruku vo výške 123 071,33 v €
+s DPH t.j. vo výške 3 % sumy maximálnej ceny uvedenej v bode 6.2 v € s DPH tejto
+Zmluvy.
+13.4 Výkonová záruka bude na účte zložená po celú dobu trvania tejto Zmluvy a vrátená
+Poskytovateľovi po ukončení platnosti tejto Zmluvy v prípade ak nenastane situácia
+podľa bodu 13.2 Zmluvy.
+13.5 Poskytovateľ je povinný po vyčerpaní alebo čiastočnom vyčerpaní výkonovej záruky
+doplniť výkonovú záruku do jej plnej výšky do 10 pracovných dní odo dňa doručenia
+Objednávateľovej výzvy na doplnenie výkonovej záruky.
+13.6 Na základe písomnej žiadosti Poskytovateľa Objednávateľ Poskytovateľovi do 30 dní
+odo dňa doručenia takej žiadosti vráti nespotrebovanú časť výkonovej záruky na
+bankový účet Poskytovateľa uvedený v tejto Zmluve. O vrátenie nespotrebovanej časti
+výkonovej záruky je Poskytovateľ oprávnený žiadať až po skončení platnosti tejto
+Zmluvy, najskôr však po tom, ako zaniknú všetky záväzky Poskytovateľa uvedené
+v bode 13.2 tejto Zmluvy.
+ČLÁNOK XIV.
+PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN SÚVISIACE S REGISTROM
+PARTNEROV VEREJNÉHO SEKTORA
+14.1 Poskytovateľ vyhlasuje, že ku dňu podpisu tejto Zmluvy sú on a jeho známi
+subdodávatelia uvedení v prílohe č. 6 zapísaní v registri partnerov verejného sektora v
+zmysle § 11 zákona o verejnom obstarávaní.
+14.2 Zmluvné strany berú na vedomie, že v zmysle ustanovenia § 19 ods. 3 zákona
+o verejnom obstarávaní Objednávateľ môže odstúpiť od tejto Zmluvy ak bol
+Poskytovateľ vymazaný z registra partnerov verejného sektora.
+14.3 Poskytovateľ je povinný bezodkladne písomne informovať Objednávateľa o každej
+zmene známeho subdodávateľa a požiadať Objednávateľa o jeho schválenie. V prípade,
+že nový subdodávateľ nahrádza inú osobu v zmysle § 33 ods. 2 alebo § 34 ods. 3 zákona
+Strana 15 z 17
+
+o verejnom obstarávaní je Poskytovateľ povinný súčasne preukázať doklady, ktorými
+nový subdodávateľ spĺňa podmienky § 33 ods. 2 alebo § 34 ods. 3 zákona o verejnom
+obstarávaní.
+ČLÁNOK XV.
+ZÁVEREČNÉ USTANOVENIA
+15.1 Túto Zmluvu je možné meniť a dopĺňať len formou písomných dodatkov podpísaných
+oboma zmluvnými stranami a za dodržania podmienok ustanovených zákonom
+o verejnom obstarávaní.
+15.2 Táto Zmluva podlieha povinnému zverejneniu v Centrálnom registri zmlúv vedenom
+Úradom vlády Slovenskej republiky v súlade so zákonom č. 211/2000 Z.z. o slobodnom
+prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov.
+15.3 Táto Zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom
+registri zmlúv vedenom Úradom vlády Slovenskej republiky
+15.4 Zmluvné strany sa dohodli, že účinky doručenia akýchkoľvek písomností podľa tejto
+Zmluvy nastávajú tiež dňom vrátenia nedoručenej zásielky odosielateľovi alebo dňom
+odmietnutia prijatia zásielky adresátom.
+15.5 Pokiaľ by sa ktorékoľvek ustanovenie tejto Zmluvy ukázalo ako neplatné či
+nevymáhateľné alebo sa takým počas trvania účinnosti tejto Zmluvy stalo, nemá taká
+skutočnosť vplyv na ostatné ustanovenia. Zmluvné strany sa zaväzujú také ustanovenie
+nahradiť platným a vymáhateľným ustanovením, ktoré je svojím obsahom pôvodnému
+ustanoveniu najbližšie.
+15.6 Objednávateľ pred podpisom Zmluvy overil, že Poskytovateľ je zapísaný v Registri
+partnerov verejného sektora v zmysle zákona č. 315/2016 Z. z. o registri partnerov
+verejného sektora a o zmene a o doplnení niektorých zákonov (ďalej len „Zákon o
+registri partnerov verejného sektora“), ktorého prevádzkovateľom je Ministerstvo
+spravodlivosti Slovenskej republiky.
+15.7 Práva a povinnosti zmluvných strán neupravené touto Zmluvou sa riadia právnymi
+predpismi Slovenskej republiky.
+15.8 Neoddeliteľnou súčasťou tejto Zmluvy sú Prílohy:
+Príloha č. 1
+Príloha č. 2
+Príloha č. 3
+Príloha č. 4
+Príloha č. 5
+Príloha č. 6
+Príloha č. 7
+
+Rozsah poskytovaných služieb podpory podľa čl. IV. bodu 4.1.1 Zmluvy
+Rozsah poskytovaných služieb podpory podľa čl. IV. bodu 4.1.2 Zmluvy
+Vzor preberacieho/akceptačného protokolu služieb
+Minimálny rozsah súčinnosti Objednávateľa
+Zoznam a rozsah KIS SOFTIP PROFIT, pre ktoré je poskytovaná
+servisná podpora a údržba
+Zoznam subdodávateľov
+Miesto inštalácie a oprávnené osoby
+
+Strana 16 z 17
+
+15.9 Táto Zmluva sa vyhotovuje v siedmich (7) rovnopisoch, z ktorých po ich podpise
+Poskytovateľ obdrží dva (2) rovnopisy a Objednávateľ obdrží päť (5) rovnopisov.
+15.10 Zmluvné strany vyhlasujú, že obsah Zmluvy je prejavom ich slobodnej vôle, Zmluva
+nebola uzatvorená v tiesni a ani za zvlášť nevýhodných podmienok. Súčasne vyhlasujú,
+že si Zmluvu riadne a dôsledne prečítali, jej obsahu porozumeli a na znak súhlasu ju
+vlastnoručne podpisujú.
+
+Za Objednávateľa:
+
+Za Poskytovateľa:
+
+V Bratislave dňa
+
+V........................ dňa
+
+___________________________________
+Ing. Marián Valentovič, MBA
+generálny riaditeľ
+a generálny tajomník služobného úradu
+
+___________________________________
+Ing. Dušan Guldan
+
+Strana 17 z 17
+
+predseda predstavenstva
+SOFTIP, a.s.
+
+

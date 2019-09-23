@@ -1,0 +1,368 @@
+Kúpna zmluva č. Z20172509_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Nemocnica s poliklinikou Prievidza so sídlom v Bojniciach
+Nemocničná 2, 97201 Bojnice, Slovenská republika
+17335795
+2021163276
+0905444729
+
+Dodávateľ:
+Obchodné meno:
+
+MICROCOMP - Computersystém s r.o.
+
+Sídlo:
+
+Kupecká 9, 94901 Nitra, Slovenská republika
+
+IČO:
+
+31410952
+
+DIČ:
+
+2020405354
+
+IČ DPH:
+
+SK2020405354
+
+Číslo účtu:
+
+IBAN SK38 1100 0000 0026 2729 0119
+
+Telefón:
+
+0376511306
+
+II. Predmet zmluvy
+2.1
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+emailový server, doménový server, Windows update server, a s tým súvisiace práce a
+nastavenia, doprava
+
+Kľúčové slová:
+
+emailový server, doménový server, Windows update server
+
+CPV:
+
+48820000-2 - Servery; 30200000-1 - Počítačové zariadenia a spotrebný materiál;
+72265000-0 - Konfigurovanie softvéru; 72611000-6 - Technické počítačové podporné
+služby; 72250000-2 - Služby týkajúce sa podpory systému; 60000000-8 - Dopravné služby
+(bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+2.2
+
+Funkčná špecifikácia predmetu Zmluvy:
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+1. Servery : RackServer
+
+ks
+
+2
+
+2. Widnows 2016 Server Standard (anglická verzia)
+
+ks
+
+2
+
+3. Windows 2016 Server Device CAL
+
+ks
+
+480
+
+4. NAS o zrkadlenej kapacite 4TB, 1x 1Gbit sieťová
+karta, podpora RAID1, rýchlosť pri zápise minimálne 100
+MB/s
+
+ks
+
+1
+
+5. UPS do Racku s výkonom minimálne 1kW so
+sieťovou kartou pre monitoring a korektné vypnutie
+serverov v prípade výpadku napájania
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. 2x RackServer, každý s nasledovnými parametrami:
+
+1x CPU 8 jadro min. 2,1GHz, 64GB RAM, diskový priestor pre
+systém 2x300GB HDD v RAID1a 6x600GB HDD v RAID6 pre dáta
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+
+1.
+
+všetky HDD minimálne s rýchlosťou 10tis. otáčok, radič HDD musí
+obsahovať minimálne 2GB vyrovnávaciu pamäť pre zápis a čítanie
+zálohovanú batériou, prípadne Flash pamäťou
+
+1.
+
+4x sieťová karta - 1Gbit/s, Podpora plnej vzdialenej správy bez
+ohľadu na operačný systém, Automatické nahlasovanie chybových
+stavov, Redundantné napájanie
+
+1.
+
+Rozšírená 3 ročná záruka s opravou na mieste 24x 7 so 4
+hodinovou odozvou
+
+1. Na serveroch bude použitá virtualizácia, pod ktorou
+budú spustené nasledovné virtuálne servery:
+
+2x radič windows doménových služieb so všetkými potrebnými
+funkciami, 1x WSUS server, 1x Linuxový emailový server
+
+Servery musia byť nainštalované tak, aby v prípade
+poruchy alebo plánovanej údržby všetky bežiace služby
+dokázal zabezpečiť druhý server.
+
+Zálohovanie všetkých virtuálnych serverov musí prebiehať plne
+automaticky v určených časových intervaloch na dedikované NAS
+zariadenie, ktoré bude fyzicky umiestnené mimo serverov.
+
+Windows doménové služby bude potrebné preniesť z
+existujúceho doménového radiča. Následne bude
+nasadený druhý doménový radič a prekonfigurovaní
+klienti (ktorí používajú statické IP adresy) aj pre podporu
+druhého radiča domény.
+Bude nainštalovaný nový WSUS (Windows Server
+Update Services) server, ktorý bude nastavený pre
+podporu Windows Vista až Windows 10 klientov a
+Windows 2008 – 2016 serverov. Budú zrevidované a
+prekonfigurované GPO nastavenia pre používanie
+nového WSUS servera.
+Linux emailový server
+
+Požadujeme migráciu existujúcej konfigurácie mailového (SMTP)
+servera na nový server.
+
+Linux emailový server
+
+Bude inštalovaný Eset Mail Security for Linux so základnou
+konfiguráciou existujúceho SMTP servera (licenčné kľúče poskytne
+zadávateľ).
+
+Linux emailový server
+
+Nutná je migrácia existujúcich mailových užívateľov a skupín
+vrátane prenesenia prihlasovacích údajov aby nebolo nutné meniť
+konfiguráciu mailových klientov na koncových počítačoch.
+
+Linux emailový server
+
+Zmena IP konfigurácie. Požadujeme zaškolenie obsluhy a
+administrácie nového prostredia.
+
+Rekonfigurácia firewallu Sophos SG310
+
+Zmena IP konfigurácie a routingu podľa zadania pre nové servery.
+
+Rekonfigurácia firewallu Sophos SG310
+
+Úprava nastavení pre Email Protection (routing, relaying),
+NetworkProtection - rekonfigurácia firewall pravidiel, NAT
+(Networkaddresstranslation) a masquerading pravidiel
+
+Rekonfigurácia firewallu Sophos SG310
+
+Zadávateľ poskytne potrebný prístup na firewall počas doby
+rekonfigurácie.
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Požiadavky, ktorých nesplnenie je dôvodom na odstúpenie od zmluvy zo strany objednávateľa: úspešný uchádzač musí byť
+zapísaný: v zozname hospodárskych subjektov podľa § 152 zákona o verejnom obstarávaní, v registri konečných užívateľov
+výhod, podľa § 11 zákona o verejnom obstarávaní.
+Zariadenia nové so zárukou v originálnom nepoškodenom balení ! Renovované, repasované, atď.. Rozbalené zariadenia,
+poškodené balenia neakceptujeme.
+Požadujeme spracovanie plánu obnovy služieb pre prípad výpadku HW komponenty alebo celého servera. Požadujeme
+zaškolenie obsluhy a administrácie nového prostredia.
+Vrátane dopravy na miesto plnenia
+Vrátane zaškolenia max. 3 osôb v rozsahu max. 1 hodiny
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 7 dní od uzavretia zmluvy
+Objednávateľ si vyhradzuje právo neprevziať tovar, ak nebude v súlade s opisom predmetu zákazky a tým odstúpiť od kúpnej
+zmluvy.
+
+Strana 2 z 4
+
+Nesplnenie ktorejkoľvek požiadavky na plnenie bude objednávateľ považovať za nesplnenie kvalifikačných, odborných,
+technických a iných predpokladov pre riadne plnenie predmetu zákazky a za podstatné porušenie zmluvných povinností
+dodávateľa.
+Požadujeme predložiť doklady k riadnemu užívaniu predmetu zákazky (certifikáty, doklady o zhode, návod v slovenskom
+jazyku, a pod.), protokol o prevzatí/inštalačný protokol, záručný list
+Dodávateľ do 3 dní odo dňa uzatvorenia zmluvy predloží záväznú ponuku s presnou špecifikáciou, konfiguráciou jednotlivých
+zariadení a uvedie ich značku a číslo.Objednávateľ do 3 dní odo dňa obdržania ponuky ponuku odsúhlasí, alebo odmietne,
+pokiaľ nebude spĺňať parametre uvedené v technickej špecifikácii predmetu zákazky.
+Pri uplatnení reklamácie je dodávateľ povinný predmet zákazky prevziať v sídle objednávateľa na vlastné náklady.
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z..
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí
+uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z.z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Trenčiansky
+
+Okres:
+
+Prievidza
+
+Obec:
+
+Bojnice
+
+Ulica:
+
+Nemocničná 2
+
+Čas / lehota plnenia zmluvy:
+06.02.2017 10:00:00 - 15.02.2017 10:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+komplet
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.0, účinná zo dňa 18.4.2016 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 26 113,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 31 335,60 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.0, účinná zo dňa 18.04.2016, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+Strana 3 z 4
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.0, účinná zo dňa 18.04.2016,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 25.01.2017 10:46:00
+Objednávateľ:
+Nemocnica s poliklinikou Prievidza so sídlom v Bojniciach
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+MICROCOMP - Computersystém s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

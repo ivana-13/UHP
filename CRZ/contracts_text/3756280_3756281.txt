@@ -1,0 +1,689 @@
+ZMLUVA O DIELO
+č. NSK-03774/2018
+uzatvorená podľa ustanovenia § 536 a nasl. Obchodného zákonníka,
+medzi zmluvnými stranami
+(ďalej ako „Zmluva“)
+Objednávateľ:
+Názov:
+Sídlo:
+IČO:
+DIČ:
+IBAN:
+Zastúpený:
+
+Štátny inštitút odborného vzdelávania
+Bellova 54/A, 837 63 Bratislava
+17 314 852
+2020887715
+SK27 8180 0000 0070 0006 4444
+Michal Němec, riaditeľ
+
+(ďalej ako „Objednávateľ“)
+a
+Zhotoviteľ:
+Obchodné meno:
+Asseco Central Europe, a.s.
+Sídlo:
+Trenčianska, 56/A, 821 09 Bratislava
+IČO:
+35760419
+DIČ:
+2020254159
+IČ DPH:
+SK7020000691
+Spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I, oddiel: Sa, vložka číslo: 2024/B
+V mene spoločnosti
+koná:
+Ing. Michal Navrátil, prokurista
+IBAN:
+SK49 0900 0000 0001 7152 4706
+(ďalej ako „Zhotoviteľ“)
+(spoločne ďalej ako „Zmluvné strany“)
+
+PREAMBULA
+A)
+
+B)
+
+Dňa 18.10.2018 bolo zo strany Objednávateľa, vystupujúceho v právnom postavení verejného
+obstarávateľa podľa zákona č.343/2015 Z.z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov (ďalej ako „ZVO“), vyhlásené verejné obstarávanie zákazky
+s nízkou hodnotou v zmysle § 117 ZVO na obstaranie zákazky „Obnovenie funkčnosti informačného
+systému Národnej sústavy kvalifikácií“ (ďalej aj ako „Verejné obstarávanie“);
+Ponuka Zhotoviteľa predložená vo verejnom obstarávaní uvedenom v bode A) bola na základe
+stanovených kritérií vyhodnotená ako úspešná a Objednávateľ túto Ponuku Zhotoviteľa prijal (ďalej len
+„Ponuka“).
+
+Vzhľadom na vyššie uvedené sa Zmluvné strany dohodli a uzatvárajú túto Zmluvu v nasledovnom znení:
+
+Strana 1 z 8
+
+Článok I
+Predmet zmluvy
+1.1 Zhotoviteľ sa zaväzuje pre Objednávateľa zhotoviť dielo „Obnovenie funkčnosti informačného systému
+Národnej sústavy kvalifikácií“ (ďalej len „Dielo") v nasledujúcom rozsahu:
+1.1.1
+
+Obnova externého portálu (www.kvalifikacie.sk)
+1.1.1.1
+Revízia existujúceho stavu aplikácie
+1.1.1.2
+Aktualizácia aplikácie (posledná verzia Drupal)
+1.1.1.3
+Obnova dát zo zálohy
+1.1.1.4
+1.1.1.5
+
+Inštalácia do Dátového centra rezortu školstva (ďalej ako „DCRŠ“) a testovanie
+Napojenie na bezpečnostný monitoring DCRŠ
+
+1.1.2
+
+Obnova interného portálu (https://tvorba.kvalifikacie.sk)
+1.1.2.1
+Revízia existujúceho stavu aplikácie
+1.1.2.2
+Aktualizácia aplikácie (posledná verzia Drupal)
+1.1.2.3
+V prípade nutnosti obnova zo zálohy
+1.1.2.4
+Nasadenie Secure Socket Layer (ďalej ako „SSL certifikát“)
+1.1.2.5
+Inštalácia do DCRŠ a testovanie
+1.1.2.6
+Napojenie na bezpečnostný monitoring DCRŠ
+
+1.1.3
+
+Revízia/obnova Databázy
+1.1.3.1
+Revízia existujúceho stavu databázy
+1.1.3.2
+Revízia funkčnosti a bezpečnosti prestupu na interný aj externý portál a ich povahy
+1.1.3.3
+V prípade nutnosti obnova plnej funkčnosti databázy (obnova zo zálohy, bezpečnostné
+úpravy)
+1.1.3.4
+Inštalácia do DCRŠ a testovanie
+
+1.1.4
+
+Projektový manažment
+1.1.4.1
+Aktualizácia prevádzkovej dokumentácie
+1.1.4.2
+Špecifikácia
+
+1.2 Objednávateľ sa zaväzuje riadne zhotovené Dielo prevziať a zaplatiť Zhotoviteľovi dohodnutú zmluvnú cenu.
+
+Článok II
+Spôsob a lehoty plnenia
+2.1 Predmet zmluvy bude realizovaný vo viacerých etapách, ktorých obsah a časová postupnosť je definovaná
+bode 1.1 tejto Zmluvy a tiež v Prílohe č.1 – Opis predmetu zákazky, ktorá tvorí neoddeliteľnú súčasť tejto
+Zmluvy.
+2.2 Súčasťou zhotovenia Diela je aj vykonanie všetkých potrebných skúšok Diela a odovzdanie dokladov, ktoré
+sa na Dielo vzťahujú a ktoré sú potrebné na jeho prevzatie a užívanie.
+2.3 Zmluvné strany sa dohodli, že Zhotoviteľ je povinný vytvoriť a dodať Dielo osobne, najneskôr do 2 mesiacov
+od nadobudnutia účinnosti tejto Zmluvy za podmienok stanovených touto Zmluvou.
+2.4 Dielo ako celok sa bude považovať za dokončené po jeho úspešnom testovaní vrátane penetračných testov
+(preukázanie požadovanej funkcionality a tiež funkčnosti celého Diela) a po podpísaní Protokolu oboma
+zmluvnými stranami(ďalej ako „Protokol“).
+Strana 2 z 8
+
+2.5 Vlastnícke právo k zhotovenému Dielu prechádza na Objednávateľa protokolárnym odovzdaním Diela.
+Týmto okamihom prechádza na Objednávateľa aj nebezpečenstvo škody na Diele.
+Článok III
+Miesto zhotovenia Diela a miesto odovzdania
+3.1 Miestom zhotovenia Diela je sídlo Zhotoviteľa uvedené v záhlaví tejto Zmluvy.
+3.2 Miestom odovzdania Diela je sídlo Objednávateľa uvedené v záhlaví tejto Zmluvy.
+Článok IV
+Cena a platobné podmienky
+4.1 Cena Diela je stanovená dohodou Zmluvných strán, v súlade so zákonom č. 18/1996 Z.z. o cenách v znení
+neskorších predpisov a vyhlášky MF SR č. 87/1996 Z. z., ktorou sa vykonáva Zákon o cenách a predstavuje
+celkovú cenu za vykonanie Diela, tak ako je definované v tejto Zmluve.
+Celková cena za zhotovenie Diela je 39.000,- € bez DPH (slovom tridsaťdeväťtisíc eur bez DPH),
+t. j. 46.800,-€ s DPH (slovom štyridsaťšesťtisícosemsto eur s DPH)
+4.2 Zhotoviteľ vystaví faktúru po riadnom zhotovení Diela, pričom neoddeliteľnou súčasťou faktúry bude kópia
+potvrdeného Protokolu.
+4.3 Objednávateľ je povinný uhradiť faktúru bezhotovostne na účet Zhotoviteľa uvedený v záhlaví tejto Zmluvy,
+pričom cena za zhotovenie Diela sa považuje za zaplatenú okamihom odpísania z účtu Objednávateľa.
+Faktúra je splatná najneskôr do 30 dní odo dňa jej doručenia Objednávateľovi na adresu uvedenú v záhlaví
+tejto Zmluvy.
+4.4 V cene Diela sú zahrnuté všetky náklady Zhotoviteľa spojené s vykonaním Diela. K uvedenej odmene bude
+Zhotoviteľ fakturovať daň z pridanej hodnoty v zmysle platných právnych predpisov účinných v čase vzniku
+daňovej povinnosti, pokiaľ všeobecne záväzné právne predpisy pre daň z pridanej hodnoty neustanovia inak.
+4.5 Ak faktúra nebude spĺňať náležitosti podľa platných právnych predpisov, nebude vystavená v súlade so
+Zmluvou, alebo nebude obsahovať požadované prílohy, má Objednávateľ právo vrátiť ju v termíne splatnosti
+Zhotoviteľovi na prepracovanie. Týmto prestáva platiť pôvodný termín splatnosti faktúry a Objednávateľ nie
+je v omeškaní s úhradou odmeny. Nový termín splatnosti faktúry začína plynúť dňom doručenia
+prepracovanej faktúry Objednávateľovi.
+Článok V
+Súčinnosť Zmluvných strán
+5.1 Zmluvné strany sa zaväzujú poskytnúť si navzájom pri plnení tejto Zmluvy súčinnosť nevyhnutnú na riadne
+zhotovenie Diela.
+5.2 V prípade, že Objednávateľ preukázateľne neposkytne Zhotoviteľovi potrebnú súčinnosť pri plnení tejto
+Zmluvy, alebo ju neposkytne riadne a včas, má Zhotoviteľ právo na predĺženie lehoty zhotovenia Diela o
+počet dní rovný omeškaniu s poskytnutím súčinnosti zo strany Objednávateľa. Takéto predĺženie lehoty v
+dôsledku omeškania Objednávateľa sa nepovažuje za omeškanie Zhotoviteľa s plnením jeho záväzkov podľa
+tejto Zmluvy.
+
+Strana 3 z 8
+
+Článok VI
+Práva a povinnosti Zmluvných strán
+6.1 Práva a povinnosti Zhotoviteľa
+6.1.1
+Zhotoviteľ sa zaväzuje dohodnutý predmet Zmluvy vykonať na vlastnú zodpovednosť, v rozsahu, v
+kvalite a v termínoch dohodnutých v tejto Zmluve v znení jej neoddeliteľných príloh.
+6.1.2
+Zhotoviteľ zodpovedá za bezpečnosť pri práci a ochranu zdravia svojich zamestnancov počas
+celého výkonu Diela v celom rozsahu. Rovnako zodpovedá za škodu, ktorú jeho zamestnanci
+spôsobili Objednávateľovi poškodením jeho hmotného alebo nehmotného majetku v súvislosti s
+realizáciou predmetu zmluvy.
+6.1.3
+Zhotoviteľ je ďalej povinný zachovávať mlčanlivosť o všetkých skutočnostiach, o ktorých sa dozvie
+v súvislosti so zmluvným vzťahom vzniknutým na základe tejto Zmluvy.
+6.1.4
+Keďže dielo je z časti financované z nenávratného finančného príspevku poskytnutého
+objednávateľovi zo strany Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky.
+Zhotoviteľ sa zaväzuje strpieť výkon akejkoľvek kontroly, auditu alebo iného overovania
+súvisiaceho so záväzkovým vzťahom založeným touto Zmluvou a poskytovať oprávneným orgánom
+všetku nevyhnutnú súčinnosť. Oprávneným orgánom na vykonanie kontroly, auditu alebo iného
+overovania sú najmä:
+6.1.4.1 Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky a ním poverené
+osoby,
+6.1.4.2 Útvar následnej finančnej kontroly a ním poverené osoby,
+6.1.4.3 Ministerstvo financií Slovenskej republiky, Najvyšší kontrolný úrad Slovenskej republiky,
+príslušná Správa finančnej kontroly a nimi poverené osoby,
+6.1.4.4 Orgán auditu, jeho spolupracujúce orgány a nimi poverené osoby,
+6.1.4.5 Splnomocnení zástupcovia Európskej komisie a Európskeho dvora audítorov,
+6.1.4.6 Osoby prizvané orgánmi uvedenými v ustanoveniach 6.1.4.1 až 6.1.4.5 tohto bodu v
+súlade s príslušnými právnymi predpismi Slovenskej republiky a Európskej únie.
+6.2 Práva a povinnosti Objednávateľa
+6.2.1
+Objednávateľ sa zaväzuje pre realizáciu plnení Zhotoviteľa podľa tejto Zmluvy zabezpečiť v záujme
+plynulého priebehu plnenia nevyhnutnú súčinnosť, spočívajúcu predovšetkým v poskytnutí
+nevyhnutných konzultácií a informácií, materiálnych prostriedkov v zmysle funkčnej špecifikácie
+informačného systému, personálneho zabezpečenia, odovzdaní potrebných údajov a podkladov,
+upresnení týchto údajov a podkladov, ktorých potreba bude medzi Zmluvnými stranami vopred
+dohodnutá, resp. sa preukáže v priebehu plnenia. Objednávateľ je povinný poskytnúť súčinnosť
+bezodkladne, najneskôr však v lehote do 2 pracovných dní odkedy o ňu požiada Zhotoviteľ.
+Článok VII
+Zodpovednosť za vady
+7.1 Dielo má vady, ak nespĺňa kvalitatívne, kvantitatívne a iné podmienky stanovené v tejto Zmluve a jej
+prílohách alebo za ktorých boli dohodnuté, ak môže byť objektívne zistená odchýlka od vlastností Diela
+dojednaných v tejto Zmluve a ak nebolo Dielo vykonané a odovzdané včas.
+7.2 Zhotoviteľ poskytuje na vykonané Dielo záruku 6 mesiacov, pričom záručná doba začína plynúť odo dňa
+protokolárneho odovzdania a prevzatia Diela Objednávateľom. Záručná doba neplynie v čase, kedy
+Objednávateľ nemohol užívať plnohodnotne a riadne Dielo, resp. jeho časť, pre vady, za ktoré zodpovedá
+Zhotoviteľ.
+7.3 O uplatnení reklamácie vady vystaví Objednávateľ písomnou listinnou alebo elektronickou formou
+oznámenie, ktoré obsahuje najmä:
+7.3.1
+špecifikáciu zmluvného vzťahu, na základe ktorého bolo vykonané plnenie (číslo Zmluvy a
+označenie Zmluvných strán),
+7.3.2
+miesto vykonania Diela,
+Strana 4 z 8
+
+7.3.3
+7.3.4
+7.3.5
+
+termín vykonania Diela,
+popis reklamovanej vady Diela,
+voľbu nároku, ktorý si Objednávateľ uplatňuje a primeranú lehotu, v ktorej má Zhotoviteľ
+poskytnúť zvolené záručné plnenie.
+
+7.5 Nahlásenie vady Zhotoviteľ bezodkladne potvrdí Objednávateľovi písomnou listinnou alebo elektronickou
+formou, čím zároveň prejaví svoj súhlas s dĺžkou lehoty na odstránenie vady. V prípade, ak s dĺžkou lehoty
+na odstránenie vady nesúhlasí, oznámi s preukázateľným odôvodnením rovnakým spôsobom
+Objednávateľovi návrh lehoty, ku ktorému sa Objednávateľ vyjadrí obratom. Tento postup sa bude opakovať
+až do momentu, kedy Zmluvné strany dospejú k dohode o primeranej dĺžke lehoty odstránenia vady.
+7.6 Objednávateľ sa zaväzuje vytvoriť Zhotoviteľovi podmienky potrebné na odstránenie vady, pripadne inú
+činnosť za účelom poskytnutia záručného plnenia.
+7.7 Zmluvné strany sa dohodli, že Zhotoviteľ je povinný poskytnúť Objednávateľovi ním zvolené záručné plnenie.
+Zhotoviteľ si z titulu poskytnutia záručného plnenia nebude uplatňovať voči Objednávateľovi žiadne finančné
+nároky.
+7.8 Zhotoviteľ sa zaväzuje začať s odstraňovaním prípadných vád Diela v najkratšom možnom čase. Pre vylúčenie
+pochybností sa uvádza, že predmetom tejto Zmluvy nie je údržba a podpora, či incident management.
+7.9 V prípade, že Zhotoviteľ oznámené (reklamované) vady neodstráni v dohodnutej lehote alebo v primeranej
+lehote napriek tomu, že Objednávateľ vytvoril Zhotoviteľovi podmienky na ich odstránenie, má Objednávateľ
+právo dať ich odstrániť tretej osobe na náklady Zhotoviteľa alebo odstúpiť od tejto Zmluvy.
+Článok VIII
+Zodpovednosť za škodu a sankcie
+8.1 Každá Zmluvná strana sa zaväzuje nahradiť skutočnú škodu, ktorú spôsobí druhej Zmluvnej strane
+porušením alebo opomenutím plnenia svojich povinností vyplývajúcich z tejto Zmluvy alebo z právnych
+predpisov, a to v súlade s príslušnými právnymi predpismi.
+8.2 Zhotoviteľ zodpovedá za škodu spôsobenú na veciach Objednávateľa použitých pri vykonávaní Diela, okrem
+prípadu, keď túto škodu nemohol odvrátiť ani pri vynaložení odbornej starostlivosti.
+8.3 Zhotoviteľ si môže uplatniť v prípade omeškania s plnením peňažných záväzkov Objednávateľa úrok z
+omeškania vo výške 0,02 % z nezaplatenej sumy za každý deň omeškania Objednávateľa.
+8.4 Objednávateľ si môže v prípade omeškania so zhotovením Diela uplatniť u Zhotoviteľa zmluvnú pokutu vo
+výške 50,- EUR za každý deň omeškania Zhotoviteľa.
+8.5 Objednávateľ si môže v prípade, že Zhotoviteľ neposkytne záručné plnenie riadne a včas, uplatniť u
+Zhotoviteľa zmluvnú pokutu vo výške 50,- EUR za každý aj začatý deň omeškania Zhotoviteľa.
+8.6 V prípade, ak niektorá zmluvná strana poruší záväzok mlčanlivosti môže si uplatniť u druhej zmluvnej strany
+zmluvnú pokutu vo výške 20 000.,- EUR za každé také porušenie povinnosti.
+8.7 Zaplatením zmluvnej pokuty nie je dotknutý nárok na náhradu škody.
+8.8 Splatnosť faktúry za zmluvnú pokutu vystavenej podľa tohto článku bude minimálne 15 kalendárnych dní.
+8.9 Zhotoviteľ sa zaväzuje, že v prípade, ak budú tretie osoby namietať voči Objednávateľovi porušenie svojich
+práv v súvislosti s užívaním Diela podľa Zmluvy, nahradí Objednávateľovi škodu, ktorá môže Objednávateľovi
+vzniknúť.
+8.10 Zhotoviteľ sa zaväzuje nahradiť Objednávateľovi skutočnú škodu, ktorá môže Objednávateľovi vzniknúť pri
+užívaní vadného Diela.
+Strana 5 z 8
+
+Článok IX
+Doručovanie
+9.1 Odstúpenie od Zmluvy, výpoveď Zmluvy, dodatky k Zmluve, faktúry, oznámenia, prípadne akékoľvek zmeny
+v údajoch Zmluvných strán, ktoré sa zapisujú do obchodného registra budú vyhotovené písomne v listinnej
+podobe a doručené druhej Zmluvnej strane osobne alebo zaslané poštou. Odstúpenie od Zmluvy a výpoveď
+Zmluvy doručujú Zmluvné strany formou doporučenej zásielky.
+9.2 Všetky písomnosti sa považujú za doručené aj v prípade neprevzatia zásielky odoslanej poštou Zmluvnou
+stranou na adresu uvedenú v záhlaví tejto Zmluvy. V prípade, ak adresát odmietne písomnosť prevziať, za
+deň doručenia sa považuje deň odmietnutia prevzatia písomnosti. V prípade, ak si adresát neprevezme
+písomnosť v úložnej dobe na pošte, za deň doručenia sa považuje posledný deň úložnej doby na pošte.
+V prípade, ak sa písomnosť vráti odosielateľovi s označením pošty „adresát neznámy“ alebo „adresát sa
+odsťahoval“ alebo s inou poznámkou podobného významu, za deň doručenia sa považuje deň vrátenia
+zásielky odosielateľovi.
+9.3 Ostatné prejavy vôle Zmluvných strán, na ktoré sa nevzťahuje bod 9.1 tejto Zmluvy, môžu byť doručované
+tiež faxom a elektronicky na adresy Zhotoviteľa a Objednávateľa uvedené v článku X tejto Zmluvy. V prípade
+doručovania podľa tohto bodu, druhá Zmluvná strana bezodkladne potvrdí prijatie doručenia
+preukázateľnou formou.
+Článok X
+Kontaktné osoby
+10.1Každá zo Zmluvných strán menuje kontaktné osoby. Kontaktné osoby budú koordinovať činnosť Zhotoviteľa,
+alebo jeho oprávnených osôb, pri vykonávaní Diela a budú zároveň oprávnené na prijímanie akýchkoľvek
+písomností, ktoré môžu vzniknúť v súvislosti s plnením podľa tejto Zmluvy.
+10.2 Kontaktnou osobou za Zhotoviteľa je: Marek Fano, riaditeľ divízie Public Consulting,
+marek.fano@asseco-ce.com, sales@asseco-ce.com, telefónne číslo: +421220838367
+
+email:
+
+10.3Kontaktnou osobou za Objednávateľa je: PaedDr. PhDr. Vladimír Kováčik MSc., vedúci odboru celoživotného
+vzdelávania, email: vladimir.kovacik@siov.sk, telefónne číslo: +421903469017
+10.4V prípade plánovanej zmeny v zozname kontaktných osôb je tá Zmluvná strana, ktorej sa to týka, povinná o
+tejto skutočnosti informovať druhú Zmluvnú stranu. Zmena voči druhej Zmluvnej strane je účinná
+momentom, keď sa o tejto zmene dozvedela.
+Článok XI
+Trvanie Zmluvy a spôsoby jej ukončenia
+11.1 Táto Zmluva trvá až do úplného splnenia všetkých vzájomných povinností a vysporiadania všetkých
+záväzkov Zmluvných strán na základe tejto Zmluvy, pokiaľ nedôjde k jej predčasnému ukončeniu v súlade
+s ustanoveniami tejto Zmluvy.
+11.2 Táto zmluva zanikne okrem splnenia všetkých práv a povinností obidvoch Zmluvných strán aj písomnou
+dohodou Zmluvných strán alebo písomným odstúpením od Zmluvy jednej zo Zmluvných strán.
+11.3 V prípade zániku zmluvy dohodou zmluvných strán, táto zaniká dňom uvedeným v tejto dohode. Dohoda
+o ukončení Zmluvy musí byť písomná. V tejto dohode sa upravia aj vzájomné nároky Zmluvných strán, ktoré
+vzniknú z plnenia zmluvných povinností alebo z ich porušenia druhou Zmluvnou stranou ku dňu zániku
+Zmluvy dohodou.
+
+Strana 6 z 8
+
+11.4 V prípade odstúpenia od Zmluvy sa Zmluvné strany budú riadiť ustanoveniami § 344 a nasl. Obchodného
+zákonníka. Odstúpenie je účinné jeho doručením druhej Zmluvnej strane.
+11.5 Zmluvné strany sa dohodli, že Zmluvu je možné ukončiť okamžitým odstúpením od Zmluvy v prípade
+podstatného porušenia Zmluvy, za ktoré sa považuje, ak:
+11.5.1 Zhotoviteľ:
+11.5.1.1
+nevykoná Dielo riadne a včas.
+11.5.2 Objednávateľ:
+11.5.2.1
+neposkytol potrebnú súčinnosť na plnenie predmetu tejto Zmluvy ani v dodatočnej
+primeranej lehote stanovenej Zhotoviteľom.
+11.6 V prípade ukončenia tejto Zmluvy z akéhokoľvek dôvodu sa zmluvné strany zaväzujú bezodkladne vrátiť
+všetky informácie uložené na nosiči informácií, podklady a materiály v písomnej, či inak materializovanej
+podobe, ktoré obdržali v súvislosti s touto Zmluvou a s jej plnením, druhej Zmluvnej strane.
+Článok XII
+Práva duševného vlastníctva
+12.1 V prípade, že Dielo a/alebo akákoľvek časť predmetu plnenia podľa tejto Zmluvy bude mať povahu
+autorského diela v zmysle Autorského zákona, tak Zhotoviteľ udeľuje Objednávateľovi v súlade
+s ustanovením § 65 a nasl. Autorského zákona licenciu, resp. sublicenciu, na použitie takto chráneného
+autorského diela, a to výhradnú, neobmedzenú (bez časového a teritoriálneho obmedzenia) v rozsahu
+nevyhnutnom na riadne fungovanie a užívanie Diela, prípadne inej časti plnenia, Objednávateľom v súlade
+s účelom tejto Zmluvy. Za týmto účelom a v tomto rozsahu je Objednávateľ oprávnený udeliť sublicenciu
+tretím osobám.
+12.2 Zhotoviteľ prehlasuje, že dodaním akéhokoľvek technického alebo akéhokoľvek iného zariadenia alebo
+dokumentácie, ktoré je súčasťou Diela nedochádza k porušovaniu ani ohrozovaniu žiadnych práv
+duševného vlastníctva tretích osôb vrátane iných obdobných práv. Zhotoviteľ odškodní a ochráni
+Objednávateľa pred akýmikoľvek prípadnými nárokmi tretích strán voči Objednávateľovi v súvislosti
+s inštaláciou a prevádzkou Diela.
+12.3 Zhotoviteľ sa zaväzuje, že zabezpečí akékoľvek a všetky potrebné licencie či iné súhlasy od akýchkoľvek,
+výrobcov a prevádzkovateľov systémov, softwarov, zariadení Diela, či akýchkoľvek iných osôb, potrebné pre
+prevádzkovanie Diela.
+12.4 Objednávateľ prevzatím Diela nepreberá žiadnu zodpovednosť za prípadne porušenie akýchkoľvek
+majetkových a/alebo autorských a priemyselných práv tretích osôb Zhotoviteľom v súvislosti s plnení tejto
+Zmluvy.
+12.5 Zhotoviteľ sa zaväzuje Objednávateľ odškodniť pred každým nárokom tretej osoby z porušenia akéhokoľvek
+patentového práva, registrovaného návrhu, autorského práva, ochrannej známky, obchodného záväzku,
+obchodného tajomstva, alebo iných duševných a priemyselných práv súvisiacich s Dielom, ktorý vznikne
+z alebo v súvislosti s Dokumentáciou Zhotoviteľa, výrobou alebo vyhotovením Diela alebo používaním Diela
+Objednávateľom. Zhotoviteľ v plnej miere zodpovedá za skutočnú škodu, ktorá Objednávateľovi vznikne
+v súvislosti s porušením akýchkoľvek povinností Zhotoviteľa podľa tohto bodu Zmluvy.
+Článok XIII
+Záverečné ustanovenia
+13.1 Osoby podpisujúce Zmluvu vyhlasujú, že sú oprávnené konať v mene Zmluvnej strany a zaväzovať Zmluvnú
+stranu svojim podpisom.
+
+Strana 7 z 8
+
+13.2 Práva a povinnosti výslovne neupravené Zmluvou sa riadia ustanoveniami Obchodného zákonníka a
+ostatných právnych predpisov platných v Slovenskej republike.
+13.3 V prípade, že niektoré z ustanovení Zmluvy sa stane neplatným, neúčinným alebo nevymáhateľným, zostáva
+platnosť ostatných ustanovení nedotknutá. Ak nastane takáto situácia, Zmluvné strany nahradia takéto
+neplatné, neúčinné či nevymáhateľné ustanovenie iným ustanovením, ktoré najlepšie zodpovedá rovnakým
+obchodným účelom ako ustanovenie neplatné, neúčinné alebo nevymáhateľné alebo sa dohodnú na
+riešení, ktoré zachová kontext a účel daného ustanovenia.
+13.4 Zmluvné strany sa dohodli, že akékoľvek zmeny Zmluvy sa uskutočnia formou písomného dodatku
+odsúhlaseného oboma zmluvnými stranami, ak v Zmluve nie je uvedené inak. Zmluvné strany berú na
+vedomie, že zmena Zmluvy je možná len v súlade s § 18 Zákona o verejnom obstarávaní a to za predpokladu,
+že sa nezmenia záväzky Zhotoviteľa, ku ktorým sa zaviazal v Ponuke.
+13.5 Akékoľvek spory medzi Zmluvnými stranami budú riešené prednostne dohodou zmluvných strán. Pokiaľ by
+tento spôsob vzájomnej dohody nebol možný, predmetný spor bude predložený vecne a miestne
+príslušnému súdu podľa slovenských procesných predpisov.
+13.6 Táto Zmluva nadobúda platnosť dňom jej podpisu oboma Zmluvnými stranami a účinnosť deň po dni jej
+zverejnenia v Centrálnom registri zmlúv v súlade s právnymi predpismi.
+13.7 Zhotoviteľ nie je oprávnený postúpiť akékoľvek pohľadávky (práva) vyplývajúce z tejto Zmluvy na tretiu
+osobu alebo sa dohodnúť s treťou osobou na prevzatí jeho záväzkov (povinností) vyplývajúcich z tejto
+Zmluvy bez predchádzajúceho písomného súhlasu Objednávateľa.
+13.8 Zmluva je vyhotovená v štyroch (4) rovnopisoch, pričom Objednávateľ obdrží dva (2) rovnopisy a Zhotoviteľ
+obdrží dva (2) rovnopisy.
+13.9 Zmluvné strany vyhlasujú, že sa s obsahom Zmluvy oboznámili, túto uzatvorili slobodne a vážne, že sa
+zhoduje s ich prejavom vôle a svoj súhlas s jej obsahom potvrdzujú vlastnoručným podpisom.
+13.10
+
+Neoddeliteľnou súčasťou zmluvy sú prílohy:
+Príloha č.1 - Opis predmetu zákazky
+
+V Bratislave, dňa ____________
+
+V Bratislave, dňa ___________
+
+Objednávateľ:
+
+Zhotoviteľ:
+
+Štátny inštitút odborného vzdelávania
+
+Asseco Central Europe, a.s.
+
+__________________________________
+Michal Němec, riaditeľ
+
+______________________________________
+Ing. Michal Navrátil, prokurista
+
+Strana 8 z 8
+
+Príloha č. 1 – Opis predmetu zákazky
+
+Názov zákazky:
+„Obnovenie funkčnosti Informačného systému Národnej sústavy kvalifikácii“
+
+DEFINOVANIE PREDMETU ZÁKAZKY - ŠPECIFIKÁCIA POŽIADAVIEK:
+1. Identifikácia verejného obstarávateľa:
+Štátny inštitút odborného vzdelávania
+Bellova 54/A
+837 63 Bratislava
+Zastúpený: Michal Němec – riaditeľ
+2. Predmet zákazky:
+„Obnovenie funkčnosti Informačného systému Národnej sústavy kvalifikácii“
+3. Podrobné vymedzenie predmetu zákazky:
+Zabezpečenie obnovenia funkčnosti Informačného systému Národnej sústavy kvalifikácii po
+hackerskom útoku.
+4. Druh zákazky: služba
+5. Zdroj finančných prostriedkov:
+Zákazka bude financovaná zo štátneho rozpočtu.
+6. Požiadavky na predmet zákazky:
+Zabezpečenie obnovenia funkčnosti Informačného systému Národnej sústavy kvalifikácii po
+hackerskom útoku.
+Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky uzatvorilo Zmluvy
+o nenávratný finančný príspevok so Štátnym inštitútom odborného vzdelávania (ďalej aj ako „
+ŠIOV“ alebo „Objednávateľ“) na národný projekt Tvorba národnej sústavy kvalifikácií. Súčasťou
+výstupov projektu bolo aj vytvorenie Informačného systému Národnej sústavy kvalifikácii (ďalej
+len „IS NSK“).
+IS NSK je systém, ktorý podporuje a zabezpečuje predovšetkým vytváranie jednotnej štruktúry
+Kariet kvalifikácií (KK) vrátanie ich zmien, sledovania generovaných zmien v rámci jednotlivých
+Kariet kvalifikácií, ich bezpečnú správu a archiváciu, publikovanie a tlač v definovanom formáte.
+Ďalej predstavuje nástroj komunikácie (on-line, synchrónnu, asynchrónnu) členov sektorových rád
+NSK a ich príslušných odvetvových skupín NSK a ďalší odborný personál.
+Systém pozostáva z tzv. „interného“ (Aplikačný softvér Národnej sústavy kvalifikácii – ďalej len
+„AS NSK“) a „externého“ portálu. AS NSK je systém, ktorý podporuje a zabezpečuje životný cyklus
+kariet kvalifikácií (ich správu, zmeny, publikovanie a tlač) a predstavuje nástroj kolaborácie pre
+
+Príloha č. 1 – Opis predmetu zákazky
+všetky zainteresované subjekty v projekte a databázy pre podporu ich funkcionalít a ukladanie
+dát. Externý portál pre verejnosť (www.kvalifikacie.sk) slúži odbornej a laickej verejnosti ako zdroj
+informácií o projekte s možnosťou zistiť si informácie o jednotlivých kvalifikáciách. Portál
+poskytuje databázu schválených kariet kvalifikácií, informácie o Slovenskom kvalifikačnom rámci a
+ostatné informácie týkajúce sa NSK, zároveň poskytuje možnosť registrovaným užívateľom
+prihlásiť sa do interného portálu IS NSK.
+Verejný obstarávateľ disponuje verziou produkčného prostredia interného portálu, externého
+portálu a databázy na serveroch Dátového centra rezortu školstva (ďalej len „DCRŠ“), na ktoré bol
+v rámci projektu Tvorba NSK migrovaný IS NSK od dodávateľa.
+Infraštruktúra DCRŠ je postavená pre prevádzku systémov pracujúcich na platforme Microsoft.
+Systémové prostredie podporuje operačné systémy Windows Server 2003 a 2008 (32 a 64 bitové
+verzie), Windows Server 2008 R2, s obmedzenou virtualizáciou - OS vo virtuálnom prostredí
+(využitie max. 4 virtuálnych CPU, max. 32GB RAM). Databázové prostredie používa Microsoft SQL
+Server 2005 x64 Enterprise. V prostredí DCRŠ sa využíva IBM Tivoli Storage Manager ako
+management software pre správu zálohovania a obnovy dát s viacúrovňovou zálohou centrálnej
+databázy.
+Aktuálny stav:
+ INTERNÝ portál
+o produkčné prostredie obsahujúce všetky funkcionality, najmä ohľadne životného
+cyklu KK a práce sektorových rád (SR); určený pre vybraných užívateľov z radov
+odbornej verejnosti
+Systémové požiadavky:
+Účel
+
+Frontendový server pre Systém pre tvorbu NSK
+
+Operačný systém
+
+Windows Server 2008 R2
+
+CPU
+
+4 vCPU
+
+RAM
+
+8 GB RAM
+
+Inštalačný priestor
+
+40 GB
+
+Prevádzkový priestor
+
+100 GB
+
+Typ diskov
+
+FC
+
+Požadované sieťové služby
+
+Webová aplikácia na serveri bude prístupná zo siete Internet.
+Prestup z nsk-web-prod na nsk-db-prod port 6432 TCP/IP.
+
+Pri priemernom zaťažení 50 užívateľmi 100 Mbps
+Parametre prístupu cez internet Pri zvýšenom zaťažení 250 užívateľmi 0,5 Gbps
+Priemerná rýchlosť sťahovania dát pre jedného užívateľa 300 kB/s
+
+Prístup používateľov k serveru
+
+Admin – VPN, RD
+Užívatelia cez internet
+Privilegovaní užívatelia cez internet
+
+Príloha č. 1 – Opis predmetu zákazky
+Účel
+
+Backend server pre Systém pre tvorbu NSK (Databáza)
+
+Operačný systém
+
+Windows Server 2008 R2
+
+CPU
+
+4 vCPU
+
+RAM
+
+8 GB RAM
+
+Inštalačný priestor
+
+40 GB
+
+Prevádzkový priestor
+
+80 GB
+
+Typ diskov
+
+FC
+
+Požadované sieťové služby
+
+Webová aplikácia na serveri bude prístupná zo siete Internet.
+Prestup z nsk-web-prod na nsk-db-prod port 6432 TCP/IP
+
+Pri priemernom zaťažení 50 užívateľmi 100 Mbps
+Parametre prístupu cez internet Pri zvýšenom zaťažení 250 užívateľmi 0,5 Gbps
+Priemerná rýchlosť sťahovania dát pre jedného užívateľa 300 kB/s
+
+Prístup používateľov k serveru
+
+
+
+Admin – VPN, RD
+Užívatelia cez internet
+Privilegovaní užívatelia cez internet
+
+EXTERNÝ portál, resp. Portál pre verejnosť (www.kvalifikacie.sk)
+o produkčné prostredie portálu obsahujúce informácie o projekte a zverejnené KK;
+určený pre širokú odbornú a laickú verejnosť
+
+Systémové požiadavky:
+Účel
+
+Frontend Portál NSK pre verejnosť
+
+Operačný systém
+
+Windows Server 2008 R2
+
+CPU
+
+4 vCPU
+
+RAM
+
+12 GB RAM
+
+Inštalačný priestor
+
+40 GB
+
+Prevádzkový priestor
+
+80 GB
+
+Typ diskov
+
+FC
+
+Požadované sieťové služby
+
+Webová aplikácia na serveri bude prístupná z verejnej IP adresy.
+
+Parametre prístupu cez internet
+
+Pri priemernom zaťažení 10 užívateľmi 10 Mbps
+Priemerná rýchlosť sťahovania dát pre jedného užívateľa 300 kB/s
+
+Prístup používateľov k serveru
+
+Admin – VPN, RD
+Užívatelia cez internet
+Privilegovaní užívatelia cez internet
+
+
+
+DÁTA
+o
+o
+o
+
+Dátový obsah – dáta 1000 kariet kvalifikácií a súvisiace dáta
+Dáta súborov – súbory používané v aplikácii ako dokumenty Aliancie, sektorových
+rád, atď.), prípadne ako prílohy k rôznym typom dátového obsahu
+Konfigurácie aplikácie produkčného prostredia
+
+Príloha č. 1 – Opis predmetu zákazky
+V júni 2018 došlo na serveroch DCRŠ k nevyžiadanej aktivite zvonku (napadnutie hackom), ktorá
+spôsobila nefunkčnosť oboch portálov a ich havarijný stav. Po analýze aktuálneho stavu je
+prioritne nevyhnutné komplexne reinštalovať verejný portál a aplikáciu upraviť tak, aby bola
+funkčná na poslednej stabilnej verzií redakčného systému Drupal. Zároveň bude potrebné vykonať
+forenzný audit a následne zaistiť bezpečnostné penetračné testy.
+Na obnovenie portálov a spustenie ich opätovnej činnosti sú identifikované nasledovné aktivity,
+ktorých súčasťou je aj manažment zabezpečenia ich realizácie:
+Požadovaný rozsah úloh:
+A Obnova externého portálu (www.kvalifikacie.sk)
+1 Revízia existujúceho stavu aplikácie
+2 Aktualizácia aplikácie (posledná verzia Drupal)
+3 Obnova dát zo zálohy
+4 Inštalácia do DCRŠ a testovanie
+5 Napojenie na bezpečnostný monitoring DCRŠ
+B Obnova interného portálu (https://tvorba.kvalifikacie.sk)
+1 Revízia existujúceho stavu aplikácie
+2 Aktualizácia aplikácie (posledná verzia Drupal)
+3 V prípade nutnosti obnova zo zálohy
+4 Nasadenie SSL certifikátu
+5 Inštalácia do DCRŠ a testovanie
+6 Napojenie na bezpečnostný monitoring DCRŠ
+C Revízia/obnova Databázy
+Revízia existujúceho stavu databázy
+Revízia funkčnosti a bezpečnosti prestupu na interný aj externý portál a ich
+povahy
+V prípade nutnosti obnova plnej funkčnosti databázy (obnova zo zálohy,
+bezpečnostné úpravy)
+Inštalácia do DCRŠ a testovanie
+Napojenie na bezpečnostný monitoring DCRŠ
+D Projektový manažment
+1 Aktualizácia prevádzkovej dokumentácie
+2 Špecifikácia
+3 Manažment aktivít
+
+Dátové centrum rezortu školstva v dobe od migrácie nasadených systémov prešlo svojou štruktúrou
+pod Vládny cloud SR. Popis zohľadňuje stav systémov po ich migrácii a nasadení v rámci ukončovania
+projektu Tvorba NSK. Je nutné pripustiť odchýlku od popisovaného stavu s prihliadnutím na interné
+zmeny ktoré boli vykonané za dané obdobie na nasadených systémoch zo strany DCRŠ.
+Všetky servisné zásahy a postup ich vykonávania musia prebiehať v úzkej spolupráci s verejným
+obstarávateľom a taktiež DCRŠ.
+
+Príloha č. 1 – Opis predmetu zákazky
+7. Spôsob financovania zákazky:
+Predmet zákazky bude hradený bezhotovostnou platbou v lehote 30 dní odo dňa doručenia
+faktúry verejnému obstarávateľovi. Právo na vystavenie faktúry vznikne dodávateľovi po
+odovzdaní a prevzatí zmluvných plnení vopred dohodnutých s verejným obstarávateľom.
+8. Typ zmluvného vzťahu:
+Zmluva o poskytnutí služieb uzatvorená v zmysle Obchodného zákonníka a § 3 ods. 1 a 2 zákona
+č. 343/2015 Z.z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov.
+9. Kritérium na vyhodnotenie ponúk:
+Kritériom na vyhodnotenie ponúk je najnižšia celková cena za poskytnutie služby v EUR vrátane
+DPH – váha kritéria je 100%.
+Ak uchádzač je platiteľ DPH, uvedie navrhovanú zmluvnú cenu v zložení:
+a) navrhovaná cena bez DPH,
+b) výška DPH,
+c) navrhovaná cena celkom vrátane DPH.
+Ak uchádzač nie je platiteľ DPH, uvedie navrhovanú zmluvnú cenu celkom a zároveň uvedie, že
+nie je platiteľ DPH.
+Cena musí byť uvedená ako konečná, vrátane všetkých ostatných nákladov súvisiacich s
+realizáciou predmetu zákazky.
+
+

@@ -1,0 +1,384 @@
+Zmluva o výkone auditu informačných systémov
+uzatvorená v zmysle § 269 ods.2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+a v súlade so zákonom č. 343/2015 Z.z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+(ďalej len „zmluva“)
+Číslo zmluvy objednávateľa: 164/NLC/2018-VO
+I.
+Zmluvné strany
+Objednávateľ:
+Názov:
+Sídlo:
+Štatutárny zástupca:
+Osoba zodpovedná
+za plnenie zmluvy:
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie:
+IBAN:
+(ďalej len „objednávateľ“)
+Poskytovateľ:
+Názov:
+Sídlo:
+Zápis:
+Zastúpený:
+Bankové spojenie:
+IBAN:
+IČO:
+DIČ:
+IČ DPH:
+e-mail:
+(ďalej len „poskytovateľ“)
+
+Národné lesnícke centrum
+T. G. Masaryka 22, 960 92 Zvolen
+Bc. Ing. Ľuboš Halvoň, PhD., generálny riaditeľ
+Bc. Viktor Šalgo
+42001315
+SK 2022091027
+2022091027
+Štátna pokladnica
+SK20 8180 0000 0070 0024 1498
+
+EMM, spol. s r.o.
+Sekurisova 16, 841 02 Bratislava
+v Obchodnom registri Okresného súdu Bratislava I, oddiel: Sro, vložka číslo:
+686/B
+Ing. Jozef Chebeň
+Slovenská sporiteľňa, a.s.
+SK05 0900 0000 0006 3490 2743
+17316260
+2020316529
+SK2020316529
+emm@emm.sk
+
+Objednávateľ a poskytovateľ sa spoločne označujú aj ako „zmluvné strany“.
+II.
+Preambula
+1. Zmluvné strany uzatvárajú túto zmluvu na základe víťaznej ponuky poskytovateľa v rámci postupu
+verejného obstarávateľa (v zmluve uvedeného ako objednávateľ) pri aplikovaní postupu verejného
+obstarávania, realizovaného formou výzvy na predkladanie ponúk pri zákazke s nízkou hodnotou v zmysle
+§ 117 zákona
+č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov.
+2. Na základe tejto zmluvy sa poskytovateľ zaväzuje vykonať pre objednávateľa audit informačných systémov
+objednávateľa (ďalej len „IS“), pričom pod pojmom výkon auditu IS sa na účely tejto zmluvy rozumie
+uskutočnenie systematického postupu za účelom preskúmania a získania dostatočných informácií
+o aktuálnom stave IS objednávateľa, výsledkom ktorého bude písomná správa vypracovaná
+poskytovateľom na základe zistení z auditu IS, ktorej súčasťou budú:
+návrh riešení na optimalizáciu IT pre jednotlivé mapované a hodnotené oblasti
+návrh bezpečnostných technológií a opatrení na zvýšenie úrovne bezpečnosti
+návrh logovacích štandardov pre jednotlivé komponenty v sieti
+návrh migrácie jednotlivých služieb a aplikácií mimo internej časti infraštruktúry
+zoznam rizík pri migrácií a následnej prevádzke infraštruktúry v cloude
+aktualizácia existujúcej prevádzkovej dokumentácie a predpisov v oblasti IT
+návrh na zlepšenie systému IS
+(ďalej aj „záverečná správa“)
+1
+
+3. Vypracovanie záverečnej správy v súlade s bodom 2 tohto článku zmluvy, je hlavným cieľom a účelom
+výkonu auditu IS. Záverečná správa bude následne objednávateľom použitá na tvorbu ďalších interných
+dokumentov, a zároveň bude slúžiť ako podklad pre prijatie opatrení v oblasti IS.
+4. Porušenie povinností poskytovateľa uvedených v bode 2 tohto článku zmluvy sa považuje za podstatné
+porušenie zmluvy. V takom prípade je objednávateľ oprávnený od zmluvy okamžite odstúpiť,
+a poskytovateľ nemá nárok na vyplatenie ceny za vykonanie auditu IS.
+
+III.
+Predmet zmluvy
+
+1. Poskytovateľ sa na základe tejto zmluvy zaväzuje vykonať audit IS v rozsahu auditu:
+a) sieťovej oblasti, v rámci ktorého sa poskytovateľ zaväzuje:
+zmapovať sieťovú infraštruktúru objednávateľa, stav siete, jej topológie, prehľad priepustnosti
+siete a identifikovať úzke hrdlá
+popísať sieťové prvky a urobiť rozbor konfiguračných a prevádzkových parametrov
+analyzovať internetovú komunikáciu - využitie šírky pásma
+zhodnotiť sieťové služby a ich kvalitu (DNS, DHCP, QoS, WiFi)
+zmapovať a zhodnotiť architektúru IT prostredia, prevádzku a bezpečnosť sieťovej časti
+b) serverovej časti, v rámci ktorého sa poskytovateľ zaväzuje:
+analyzovať hardvérové vybavenie
+analyzovať virtualizačné a serverové platformy
+zhodnotiť stav domény, doménových politík a celkovej štruktúry AD
+zmapovať stav logovania na jednotlivých serveroch, posúdiť relevantnosť
+c) aplikačnej časti, v rámci ktorého sa poskytovateľ zaväzuje:
+zmapovať a zhodnotiť stav systémového softvéru
+zmapovať a pomenovať používané systémové služby (interné aj externé)
+vyhodnotiť dopad v prípade migrácie služby do cloudu
+zmapovať stav monitorovania a zálohovania mapovaných služieb
+(ďalej všetko spolu len ako „audit IS“)
+2. Porušenie povinností poskytovateľa uvedených v bode 1 tohto článku zmluvy sa považuje za podstatné
+porušenie zmluvy. V takom prípade je objednávateľ oprávnený od zmluvy okamžite odstúpiť,
+a poskytovateľ nemá nárok na vyplatenie ceny za vykonanie auditu IS.
+3. Miestom výkonu auditu IS je sídlo objednávateľa, a jednotlivé pracoviská objednávateľa.
+4. Poskytovateľ sa zaväzuje vykonať audit IS, a vypracovať záverečnú správu vo vlastnom mene a na
+vlastnú zodpovednosť s vynaložení odbornej starostlivosti. Objednávateľ sa zaväzuje prevziať záverečnú
+správu, ktorá bola vyhotovená riadne a včas, a zaplatiť za audit IS vykonaný riadne a včas dohodnutú
+cenu.
+
+1.
+
+2.
+
+1.
+
+IV.
+Termín vykonania auditu
+Zmluvné strany sa dohodli na nasledovných termínoch vykonania auditu IS:
+termín začatia: najneskôr do 7 kalendárnych dní odo dňa nadobudnutia účinnosti zmluvy
+termín ukončenia: najneskôr do 90 kalendárnych dní od termínu začatia
+termín odovzdania záverečnej správy: najneskôr do 100 kalendárnych dní od termínu začatia
+Termíny stanovené v bode 1. tohto článku zmluvy sa môžu predlžovať o čas prekážok na strane
+objednávateľa, a to na základe vzájomnej dohody zmluvných strán.
+V.
+Cena a platobné podmienky
+Cena za vykonanie auditu IS vrátane vypracovania záverečnej správy je určená na základe výsledku
+verejného obstarávania, v súlade s ponukou poskytovateľa, a na základe zákona číslo 18/1996 Z. z.
+o cenách, v znení neskorších zmien a doplnkov vo výške:
+cena bez DPH
+49.500,00 €
+DPH 20%
+9.900,00 €
+cena celkom s DPH
+59.400,00 €
+slovom: päťdesiatdeväťtisíc štyristo EUR.
+(ďalej aj „cena za vykonanie auditu“)
+
+2
+
+2.
+
+1.
+
+Poskytovateľ sa zaväzuje, že cena za vykonanie auditu je konečná a nemenná, a že audit IS vrátane
+vypracovania záverečnej správy za túto cenu zrealizuje v súlade s požiadavkami stanovenými touto
+zmluvou, pri dodržaní všetkých príslušných všeobecne záväzných právnych predpisov vzťahujúcich sa na
+výkon auditu IS.
+VI.
+Fakturácia a splatnosť ceny
+Objednávateľ zaplatí poskytovateľovi cenu za vykonanie auditu na základe faktúry vystavenej
+poskytovateľom. Poskytovateľ je oprávnený vystaviť faktúru až po odovzdaní a prevzatí záverečnej
+správy objednávateľom, t. j. po podpise odovzdávacieho protokolu.
+
+2.
+
+Splatnosť faktúry je do 30 dní od doručenia faktúry objednávateľovi. Zmluvné strany si ako spôsob
+platby dohodli bezhotovostný prevod na účet poskytovateľa uvedený v záhlaví zmluvy. Cena za
+vykonanie auditu sa považuje za uhradenú dňom odpísania sumy z účtu objednávateľa v prospech účtu
+poskytovateľa.
+
+3.
+
+Faktúra musí spĺňať náležitosti daňového a účtovného dokladu v súlade s platnými právnymi predpismi,
+najmä v súlade so zákonom číslo 222/2004 Z. z. o DPH, v znení neskorších predpisov a musí obsahovať
+originálny podpis vystavujúcej strany. Prílohou faktúry bude aj odovzdávací protokol.
+
+4.
+
+V prípade, že faktúra nebude obsahovať náležitosti dohodnuté v odseku 3. tohto článku zmluvy, je
+objednávateľ oprávnený faktúru vrátiť bez zaplatenia. Oprávneným vrátením faktúry prestáva plynúť
+lehota splatnosti a táto plynie celá odo dňa doručenia opravenej (novej) faktúry.
+
+1.
+
+VII.
+Výkon auditu
+Poskytovateľ je povinný audit IS vykonať s náležitou odbornou starostlivosťou v súlade so všeobecne
+záväznými právnymi predpismi a vykonávacími vyhláškami platnými na území SR, ktoré sa na výkon
+auditu IS vzťahujú. V prípade porušenia uvedených povinností poskytovateľa, zodpovedá poskytovateľ za
+všetku škodu, ktorá jeho konaním vznikne, a znáša všetky vzniknuté náklady, vrátane náhrady škody.
+
+2.
+
+Poskytovateľ je povinný audit IS vykonať tak, aby žiadnym spôsobom nedošlo k poškodeniu IS
+objednávateľa, k prepisu dát, ich zmene, úniku dát z IS objednávateľa, znehodnoteniu, zničeniu a pod.
+
+3.
+
+Objednávateľ sa zaväzuje poskytnúť poskytovateľovi všetku dokumentáciu potrebnú k výkonu auditu IS
+a vypracovaniu záverečnej správy. Poskytnutú dokumentáciu je poskytovateľ bez zbytočného odkladu po
+odovzdaní záverečnej správy povinný vrátiť.
+
+4.
+
+Za riadenie a koordináciu auditu IS, ako aj za komunikáciu medzi objednávateľom a poskytovateľom, je
+na strane objednávateľa zodpovedná osoba zodpovedná za plnenie predmetu zmluvy.
+
+5.
+
+Objednávateľ sa zaväzuje poskytnúť poskytovateľovi všetku súčinnosť potrebnú pre výkon auditu IS
+a vypracovanie záverečnej správy, a to najmä prístup k jednotlivým dotknutým IS, ktoré budú
+predmetom výkonu auditu IS, ako aj v prípade potreby umožniť nasadenie monitorovacieho nástroja pre
+vykonanie auditu IS.
+
+6.
+
+Poskytovateľ sa zaväzuje pred vypracovaním a odovzdaním záverečnej správy, túto správu prerokovať
+s objednávateľom. Zmluvné strany sa dohodli, že za účelom prerokovania záverečnej správy zorganizujú
+v lehote najneskôr do 5 pracovných dní odo dňa ukončenia auditu IS (čl. IV. bod 1 zmluvy) pracovné
+stretnutie, na ktorom prerokujú návrh záverečnej správy vypracovanej a predloženej poskytovateľom.
+Účelom pracovného stretnutia je prípadne pripomienkovanie, doplnenie záverečnej správy zo strany
+objednávateľa. V prípade ak bude mať objednávateľ na pracovnom stretnutí k predloženému návrhu
+záverečnej správy pripomienky, doplnenia, je poskytovateľ povinný ich zapracovať tak, aby bola
+záverečná správa odovzdaná v lehote v súlade s čl. IV. bod 1 zmluvy. Miestom pracovného stretnutia
+zmluvných strán je sídlo objednávateľa.
+
+7.
+
+Poskytovateľ odovzdá objednávateľovi záverečnú správu v termíne stanovenom v čl. IV. bod 1 zmluvy.
+Poskytovateľ je povinný oznámiť objednávateľovi odovzdanie záverečnej správy najneskôr 2 dni vopred.
+Poskytovateľ odovzdá záverečnú správu objednávateľovi osobne v dvoch vyhotoveniach v tlačenej
+podobe, ako aj v elektronickej podobe na CD/USB (podľa dohody zmluvných strán), a to osobe
+zodpovednej za plnenie predmetu zmluvy. Miestom odovzdania je sídlo objednávateľa.
+
+3
+
+Zmluvné strany pri odovzdaní a prevzatí správy spíšu odovzdávací protokol, ktorý bude podpísaný
+zodpovednými zamestnancami oboch zmluvných strán a bude prílohou faktúry.
+8.
+
+Záverečná správa sa považuje za odovzdanú a audit IS za vykonaný okamihom podpisu odovzdávacieho
+protokolu osobou zodpovednou za plnenie predmetu zmluvy na strane objednávateľa, ktorá potvrdí
+vykonanie auditu IS a vypracovanie záverečnej správy v súlade so zmluvou.
+
+9.
+
+V prípade ak audit IS nebude vykonaný a záverečná správa nebude vypracovaná v súlade s touto
+zmluvou, je poskytovateľ povinný vykonať všetky potrebné úkony za účelom nápravy, a to v lehote
+určenej po dohode s objednávateľom. V prípade porušenia tejto povinnosti poskytovateľa je
+objednávateľ oprávnený okamžite odstúpiť od zmluvy, pričom poskytovateľ nemá nárok na úhradu ceny
+za vykonanie auditu IS.
+
+10. V prípade ak záverečná správa bude mať akékoľvek vady, t. j. nebude vypracovaná v súlade s čl. II. bod
+2 zmluvy, je objednávateľ povinný bez zbytočného odkladu ako vady zistí, oznámiť ich poskytovateľovi
+(aj formou emailovej pošty), ktorý je následne povinný objednávateľom oznámené vady bezodplatne
+odstrániť v dohodnutej lehote (doplnením prepracovaním záverečnej správy). V prípade, ak tak
+poskytovateľ neurobí, je objednávateľ oprávnený od zmluvy odstúpiť. V prípade odstúpenia od zmluvy zo
+strany objednávateľa z dôvodov uvedených v tomto bude zmluvy, je poskytovateľ povinný vrátiť cenu za
+vykonanie auditu uhradenú mu objednávateľom, ak ešte nebola uhradená nemá nárok na jej úhradu. Ak
+sú vady neodstrániteľné objednávateľ je oprávnený odstúpiť od zmluvy bez poskytnutia dodatočnej
+lehoty.
+
+1.
+
+VIII.
+Ukončenie platnosti zmluvy
+Platnosť zmluvy je možné ukončiť na základe vzájomne uzavretej písomnej dohody alebo odstúpením od
+zmluvy v prípadoch, ktoré stanovuje zákon a táto zmluva.
+IX.
+Odstúpenie od zmluvy
+
+1.
+
+Ktorákoľvek zo zmluvných strán je oprávnená od zmluvy odstúpiť v prípade podstatného porušenia
+zmluvných povinností druhou zmluvnou stranou.
+
+2.
+
+Za podstatné porušenie povinností poskytovateľa sa považuje najmä neplnenie jeho povinností
+vyplývajúcich z čl. II., III, IV, VII zmluvy. V takom prípade poskytovateľ nemá nárok na úhradu ceny za
+vykonanie auditu.
+
+3.
+
+Odstúpenie od zmluvy musí byť oznámené písomne. V odstúpení musí byť uvedený dôvod, pre ktorý
+strana odstupuje od zmluvy.
+
+4.
+
+Odstúpením od zmluvy zmluva zaniká dňom doručenia prejavu vôle oprávnenej strany druhej zmluvnej
+strane.
+
+1.
+
+1.
+
+2.
+
+X.
+Sankcie
+V prípade, že poskytovateľ nedodrží lehoty plnenia dohodnuté v tejto zmluve, objednávateľ má právo
+účtovať poskytovateľovi zmluvnú pokutu vo výške 0,05 % z ceny za vykonanie auditu za každý deň
+omeškania.
+XI.
+Záväzok mlčanlivosti
+Záväzok mlčanlivosti zahŕňa najmä povinnosť poskytovateľa neposkytovať a nesprístupniť tretím
+osobám vstupné údaje, informácie, výstupy a dokumenty súvisiace s predmetom zmluvy a jeho
+vykonaním (ďalej aj „dôverné informácie“). O dôverných informáciách je poskytovateľ povinný
+zachovávať mlčanlivosť. Poskytovateľ zaobchádza so všetkými materiálmi, podkladmi a informáciami,
+ktoré obdrží v súvislosti s vykonávaním predmetu zmluvy od objednávateľa ako s dôvernými. Za
+dôverné informácie sa považujú aj akékoľvek osobné údaje, ku ktorým poskytovateľ v rámci výkonu
+auditu IS získa prístup.
+Poskytovateľ nie je oprávnený bez predchádzajúceho písomného súhlasu objednávateľa dôverné
+informácie akýmkoľvek spôsobom sprístupniť/poskytnúť tretej osobe, zverejniť, a/alebo ich použiť inak
+než na účely plnenia predmetu tejto zmluvy.
+
+4
+
+3.
+
+Záväzok mlčanlivosti nie je časovo obmedzený, nezávisí od trvania alebo platnosti tejto zmluvy
+a nevzťahuje sa len na také dokumenty a informácie, u ktorých je, resp. bude preukázané, že sú alebo
+sa stali všeobecne známymi, bez zavinenia poskytovateľa.
+
+4.
+
+Zmluvné strany sú povinné dôverné informácie chrániť pred ich zneužitím, poškodením, zničením,
+znehodnotením, stratou a odcudzením.
+
+5.
+
+V prípade ak poskytovateľ porušením povinností stanovených týmto článkom zmluvy spôsobí akúkoľvek
+škodu, je za ňu zodpovedný, a je povinný ju v plnom rozsahu nahradiť.
+
+XII.
+Záverečné ustanovenia
+1. Vzťahy touto zmluvou neupravené sa riadia príslušnými ustanoveniami Obchodného zákonníka v znení
+neskorších zmien a doplnkov.
+2. Poskytovateľ súhlasí s použitím osobných údajov objednávateľom na ich ekonomické spracúvanie v súlade
+s osobitnými právnymi predpismi.
+3. Zmluva nadobúda platnosť dňom jej podpisu oboma zmluvnými stranami, a účinnosť dňom nasledujúcim
+po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády SR.
+4. Zmluva je vyhotovená v troch vyhotoveniach, jedno vyhotovenie pre poskytovateľa a dve vyhotovenia pre
+objednávateľa.
+5. Táto zmluva je povinne zverejňovaná podľa § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe
+k informáciám a o zmene a doplnení niektorých zákonov. Zmluvné strany výslovne súhlasia so zverejnením
+zmluvy v jej plnom rozsahu, v Centrálnom registri zmlúv vedenom na Úrade vlády SR.
+6. Zmluvné strany po prečítaní zmluvy prehlasujú, že súhlasia s jej obsahom v celom rozsahu, čo potvrdzujú
+svojimi podpismi. Zmluva je prejavom ich slobodnej vôle a nebola dojednaná v tiesni, ani za inak
+nevýhodných podmienok.
+7. Zmluvné strany sa dohodli, že táto zmluva a všetky vzťahy z nej vyplývajúce alebo s ňou súvisiace (vrátane
+akcesorických právnych vzťahov, zodpovednostných právnych vzťahov a právnych vzťahov z bezdôvodného
+obohatenia), forma zmluvy, náležitosti zmluvy, platnosť zmluvy, účinnosť zmluvy ako aj právne následky jej
+prípadnej neplatnosti a/alebo neúčinnosti, sa spravujú právnym poriadkom Slovenskej republiky a to bez
+zreteľa na jeho kolízne normy.
+8. Žiadna zo zmluvných strán nevyužije akékoľvek informácie, ktoré zistila, alebo s prihliadnutím na okolnosti
+mohla zistiť pri plnení predmetu tejto zmluvy vo svoj prospech, ani v prospech tretích strán, počas trvania
+zmluvného vzťahu, ani po jeho ukončení, prípadne odstúpení od zmluvy.
+9. Zmluvné strany sa dohodli, že všetky písomnosti, ktoré má doručiť/bude doručovať v zmysle tejto zmluvy,
+ako aj po jej skončení jedna zmluvná strana druhej zmluvnej strane, budú doručované na adresu uvedenú
+v záhlaví zmluvy. Písomnosti budú doručované osobne alebo prostredníctvom pošty doporučene, pričom
+zásielka (písomnosť) sa bude považovať za doručenú dňom jej prevzatia adresátom – zmluvnou stranou,
+dňom, kedy zmluvná strana odmietne osobne doručovanú alebo poštou doručovanú zásielku prevziať, alebo
+dňom, kedy pošta vráti doručovanú zásielku odosielajúcej zmluvnej strane ako nevyžiadaná v odbernej
+(úložnej) lehote alebo s oznámením adresát neznámy, prípadne ako zásielku nedoručenú.
+10. V prípade kedy v súlade so zmluvou je
+písomnosť/dokument považuje za doručený
+odosielajúcej zmluvnej strane.
+
+možné doručovanie formou emailovej pošty, sa
+okamihom doručenia potvrdenia o doručení emailu
+
+Vo Zvolene dňa ......................
+
+V Bratislave dňa ..................
+
+..............................................
+Bc. Ing. Ľuboš Halvoň, PhD.
+generálny riaditeľ
+
+.............................................
+Ing. Jozef Chebeň
+konateľ
+
+5
+
+

@@ -1,0 +1,414 @@
+□JTECD
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Zmenový list číslo 015/2018
+Objednávateľ
+Zhotoviteľ
+Produkt
+
+Finančné riaditeľstvo SR
+Asseco Central Európe, a.s.
+DWH FRSR
+
+Názov zadania
+Analýza a implementácia pre rozšírenie rozhrania z dátového zdroja KRUZ (Komunikácia
+s Registrom Účtovných Závierok) do DWH.
+Popis zadania______________________________________________________________________
+V rámci zabezpečenia potrieb FR SR a povinností vyplývajúcich z platnej legislatívy požadujeme
+vypracovať analýzu a realizovať implementáciu pre rozšírenie údajov preberaných z dátového zdroja
+KRUZ do dátového skladu (DWH) nasledovne:
+1. Zapracovanie požiadavky na úpravu preberania účtovných dokumentov z KRUZ do DWH:
+DWH v súčasnosti preberá z KRUZ iba vybrané štruktúrované účtovné dokumenty, pre ktoré platí
+stav „Úspešne odoslaný do RÚZ' (realizované ZL 008/2015). Ide o tieto účtovné dokumenty:
+•
+
+vzory štruktúrovaných účtovných dokumentov „Súvaha" a „Výkaz ziskov a strát“ pre ÚZ
+zostavené v sústave podvojného účtovníctva (UZPOD/UZMUJ),
+
+•
+
+vzory štruktúrovaných účtovných dokumentov „Výkaz o majetku a záväzkoch“ a „Výkaz
+o príjmoch a výdavkoch" pre UZ zostavené v sústave jednoduchého účtovníctva (UZFO).
+
+Do DWH však nie sú v súčasnosti preberané informácie o neštruktúrovaných účtovných
+dokumentoch a informácie o tých štruktúrovaných účtovných dokumentoch, ktoré boli účtovnou
+jednotkou, resp. daňovým subjektom podané, ale z rôznych dôvodov boli správcom dane v KRUZ
+pozastavené, resp. neboli odoslané do RÚZ. DWH aktuálne uvedené účtovné dokumenty
+následne vyhodnocuje ako nepodané, pričom táto informácia je ďalej využívaná v module
+Analytický list - Ukazovatele FEA a tiež v rámci vybraných atribútov DM modelov.
+Z tohto dôvodu bude do DWH zapracované preberanie stavov spracovania všetkých účtovných
+dokumentov podaných účtovnou jednotkou, resp. daňovým subjektom evidovaných v KRUZ.
+Všetky účtovné dokumenty (štruktúrované aj neštruktúrované) s detailnou informáciou o stave ich
+spracovania sa budú zobrazovať v DWH v module Analytický list nasledovne:
+a.
+
+b.
+c.
+
+) V záložke „Účtovné výkazy“, v rámci ktorej budú vytvorené dve nasledovné podzáložky:
+•
+
+„Účtovné dokumenty úspešne odoslané do RÚZ“ - v rámci tejto podzáložky budú
+zobrazené účtovné dokumenty v rovnakej štruktúre ako doteraz (stĺpec „Stav
+vybavenia“ bude premenovaný na „Stav spracovania - KRUZ),
+
+•
+
+„Zoznam účtovných dokumentov podaných daňovým subjektom" - v rámci tejto
+podzáložky budú zobrazené údaje záhlavia všetkých účtovných dokumentov
+podaných daňovým subjektom vrátane stavov ich spracovania.
+) V záložke „Ukazovatele“ v časti „Prehľad podaných účtovných výkazov“.
+
+) Pre účtovné dokumenty, ku ktorým budú zobrazené iba údaje zo záhlavia bude
+doplnený link na aplikáciu KRUZ, kde bude možné prezerať tieto účtovné dokumenty.
+
+Strana 1/3
+
+□JJECD
+CENTRAL EUROPE
+
+*
+V
+
+FINANČNÉ RIADITEĽSTVO
+
+j SLOVENSKEJ REPUBLIKY
+
+2. Zapracovanie požiadavky na vytváranie reportov (zoznamov) účtovných jednotiek:
+Realizáciou integrácie KRUZ a ISFS-SD za účelom generovania výzvy pre účtovnú jednotku
+na odstránenie nedostatkov podania bude k dispozícii možnosť identifikácie a vyzvania
+účtovných jednotiek resp. daňových subjektov, ktoré mali podať a nepodali účtovnú závierku
+v lehote na podanie daňového priznania.
+Na základe tohto bude rozšírené rozhranie z KRUZ do DWH o nové stavy spracovania a zároveň
+budú zapracované na portáli DWH reporty (zoznamy) účtovných jednotiek/daňových subjektov,
+ktoré nepodali účtovnú závierku (ale mali ju podať). V zoznamoch budú tiež prezentované
+preberané zdaňovacie obdobia s aktuálnym dátumom splatnosti so zohľadnením aj podaných
+oznámení o predĺžení lehoty.
+Riešenie bude realizované etapovité podľa požiadaviek definovaných objednávateľom nasledovne:
+1. Etapa
+Termín realizácie do 14.12.2018.
+V rámci tejto etapy bude realizovaná požiadavka uvedená v bode 1.
+2. Etapa
+Termín realizácie do 29.03.2019.
+V rámci tejto etapy budú realizovaná požiadavka uvedená v bode 2.
+Uvedené etapy budú implementované podľa príslušnej analýzy, ktorá budú pre účely jednotlivých
+etáp vypracovaná.
+
+#
+
+Príloha
+
+Formát
+
+Prílohy špecifikované v horeuvedenom zozname tvoria neoddeliteľnú súčasť tohto zmenového listu.
+Etapa 1:
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+14.12.2018
+694
+61 925.62,- EUR
+12 385,12,- EUR
+74 310,74,- EUR
+
+Etapa 2:
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+29.03.2019
+455
+40 599,65,- EUR
+8 119,93,- EUR
+48 719,58,- EUR
+
+Objednávateľ a zhotoviteľ sa pre realizáciu tohto ZL dohodli, že predmetné etapy budú fakturované
+samostatne po zmluvne definovanom akceptačnom konaní.
+Spolu:
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+Zodpovedný zástupca zo strany zhotoviteľa
+Zodpovedný zástupca zo strany objednávateľa
+
+1 149
+102 525,27,- EUR
+20 505,05,- EUR
+123 030,32,- EUR
+......​.............​.......
+.......​.........​............
+
+Strana 2/3
+
+□
+
+J
+
+J
+
+E
+
+c
+
+a
+
+CENTRAL EUROPE
+
+*0 ^1
+
+f in a n č n é r ia d it e ľ s t v o
+
+W B w
+
+SLOVENSKEJ REPUBLIKY
+
+v ír y
+
+Reštrikcie, poznámky k funkcionalite
+Objednávateľ zabezpečí pre zhotoviteľa súčinnosť v dostatočnom rozsahu a požadovanom čase
+vo forme konzultácií, dodania príslušných podkladov, údajov, výstupov a spolupráce zástupcov
+FR SR, ako aj s dodávateľmi dotknutých IS potrebných pre realizáciu riešenia v DWH.
+Toto zmenové konanie v zmysle bodu VI.3.C Zmluvy o poskytovaní servisu a údržby na programové
+vybavenie DWH a o technickej podpore na SW produkty pre DWH číslo ZD20020007 (ďalej len
+„Zmluva“) navyšuje hodnotu diela pre účely servisného paušálu o 30 %.
+. . .​.....​. .... .
+D ňa.................... ..............
+
+Štatutárny zástupca objednávateľa
+
+Strana 3/3
+
+□ J "J "E C O
+
+=^^1
+Itp f/
+
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Kalkulácia ZK 015/2018
+
+r r ä C iiG S ť
+
+P.č.
+
+Č in n o s ť
+
+Jôunütk.
+
+v člo v e k o -
+
+sum a
+
+S u m a b ez
+
+S ad zba
+
+S u m a DPH
+
+h od in ách
+
+v EUR
+
+D P H v EU R
+
+DPH v %
+
+v EU R
+
+S u m a celko m
+v EUR
+
+1
+
+Riadiace práce
+
+98
+
+89,23
+
+8 744,54
+
+20,00
+
+1 748,91
+
+10 493,45
+
+2
+
+Analytické práce spolu
+
+224
+
+89,23
+
+19 987,52
+
+20,00
+
+3 997,50
+
+23 985,02
+
+3
+
+Dizajnérske práce
+
+122
+
+89,23
+
+10 886,06
+
+20,00
+
+2177,21
+
+13 063,27
+
+4
+
+Programátorské práce
+
+325
+
+89,23
+
+28 999,75
+
+20,00
+
+5 799,95
+
+34 799,70
+
+5
+
+Testovacie práce u zhotoviteľa
+
+220
+
+89,23
+
+19 630,60
+
+20,00
+
+3 926,12
+
+23 556,72
+
+6
+
+Databázová a systémová podpora u zhotoviteľa
+
+60
+
+89,23
+
+5 353,80
+
+20,00
+
+1 070,76
+
+6 424,56
+
+7
+
+Zapracovanie zmien do dokumentácie
+
+34
+
+89,23
+
+3 033,82
+
+20,00
+
+606,76
+
+3 640,58
+
+8
+
+Podpora inštalačných prác u objednávateľa
+
+20
+
+89,23
+
+1 784,60
+
+20,00
+
+356,92
+
+2 141,52
+
+9
+
+Databázová a systémová podpora u objednávateľa
+
+20
+
+89,23
+
+1 784,60
+
+20,00
+
+356,92
+
+2 141,52
+
+10
+
+Podpora zhotoviteľa pri testovaní objednávateľom
+
+26
+
+89,23
+
+2 319,98
+
+20,00
+
+464,00
+
+2 783,98
+
+20 505,05
+
+123 030,32
+
+1 149
+
+S P O LU
+
+. ​. ​. . . ​. .......
+.
+
+.
+
+..
+
+Dňa ........................
+
+Štatutárni zástupcovia zhotoviteľa
+
+102 525,27
+
+

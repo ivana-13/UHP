@@ -1,0 +1,404 @@
+Kúpna zmluva č. Z201836059_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Úrad geodézie, kartografie a katastra Slovenskej republiky
+Chlumeckého č. 2, 82012 Bratislava , Slovenská republika
+00166260
+2020830240
+SK 2020830240
+SK40 8180 0000 0070 0006 3046
+02220816063
+
+Dodávateľ:
+Obchodné meno:
+
+Aliga, s.r.o.
+
+Sídlo:
+
+Robotnícka 1E, 03601 Martin, Slovenská republika
+
+IČO:
+
+47104694
+
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+043 3709302
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Náhrada zariadenia HSM nCipher nShield 500 (Thales HSM 500) na konci životnosti pre
+systémy využívajúce HSM pre uloženie a prácu s kryptografickými kľučmi.
+
+Kľúčové slová:
+
+HSM modul
+
+CPV:
+
+30210000-4 - Stroje na spracovanie údajov (hardvér); 60000000-8 - Dopravné služby (bez
+prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Zoznam položiek:
+1. Predmetom dodávky je:
+2. Podmienky:
+3. Požiadavky:
+4. Funkčné vlastnosti:
+5. Podporované operačné systémy:
+6. Cryptography:
+Položka č. 1:
+
+Predmetom dodávky je:
+
+Funkcia
+- Dodávka kompatibilného zariadenia•Implementácia zariadenia•Vybudovanie zdieľaného ReFS úložiska pre Security
+world.•Iniciácia autentizačných prostriedkov a nastavenie prístupov pre správu systému.•Migrácia existujúcich kľúčov/ Security
+World a implementácia do existujúcich prevádzkovaných systémov a aplikácií využívajúcich kompatibilnú technológiu.
+Migrácia kľúčov nesmie mať výrazný dopad na prevádzku týchto systémov (odstávka iba mimo pracovnej doby). •Nastavenie
+zálohovania dodaného riešenia v rámci existujúcej zálohovacej infraštruktúry.
+•Dokumentácia s popisom implementácie a základných prevádzkových postupov
+Technické vlastnosti
+
+Jednotka
+
+Strana 1 z 5
+
+Minimum
+
+Maximum
+
+Presne
+
+Technické vlastnosti
+Položka č. 2:
+
+Hodnota/Charakteristika
+
+Podmienky:
+
+Funkcia
+•Zariadenie kompatibilné s existujúcim riešením Thales HSM 500 pre migráciu a prácu s existujúcim Security
+World.•Zariadenie nesmie vyžadovať zmenu komponentov a aplikácií klientov. •Možnosť využitia virtualizovanými klientmi
+(sieťovo pripojené HSM).•Riešenie musí poskytovať vysokú dostupnosť (tolerancia zlyhania jedného zariadenia).•Počet
+pripojených klientov/serverov je 4•Požadovaný výkon jedného zariadenia pre RSA podpisovacie operácie s 2048 bit kľúčom
+150 za sekundu a s 4096 bit kľúčom 80 za sekundu
+•Zabezpečenie ochrany kľúčov s certifikáciou FIPS 140-2 Level 2 a 3•Dvojité napájanie s možnosťou výmeny zdroja bez
+prerušenia prevádzky•Možnosť montáže do racku 1U alebo 2U
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Položka č. 3:
+
+Minimum
+
+Maximum
+
+Presne
+
+Požiadavky:
+
+Funkcia
+•Požaduje sa predložiť podrobný rozpis cien jednotlivých položiek v členení podľa tech.špecifikácie zákazky do 3 pracovných
+dní od uzavretia zmluvy e-mailom kontaktnej osobe ver. obstarávateľa •Verejný obstarávateľ požaduje HW inštaláciu HSM
+modulu a požadovaných komponentov do existujúcej infraštruktúry pre prevádzku informačných systémov •Server aj HSM
+modul požaduje verejný obstarávateľ dodať nový - originál od výrobcu (nie repasovaný)
+•Verejný obstarávateľ nepripúšťa ekvivalent HSM modulu, vybraný typ spĺňa technické požiadavky, požiadavky kompatibility s
+existujúcimi aplikáciami, požiadavky na migráciu existujúcich kľúčov a je certifikovaný NBÚ •Verejný obstarávateľ požaduje
+aby dodávateľ predložil certifikát (nShield Certified System Engineer) o kvalifikácii špecialistov, ktorý budú vykonávať migráciu
+existujúcich kľúčov zo zariadení Thales nShield HSM 500.
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Položka č. 4:
+
+Minimum
+
+Maximum
+
+Presne
+
+Funkčné vlastnosti:
+
+Funkcia
+•Bezpečné úložisko kľúčov. •Odlahčenie záťaže procesora a akcelerácia kryptografických operácií•Viacstupňová kontrola
+prístupu s viacfaktorovou autentizáciou “k z n”•Autentizácia klientov pomocou zariadenia nToken•Bezpečné zabalenie kľúčov
+pri ich zálohovaní, replikácii a obnove•Chránené úložisko kľúčov bez obmedzení•Podpora pre riešenie vysokej dostupnosti
+(cluster) a rozloženia záťaže (load-ballancing)
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Položka č. 5:
+
+Minimum
+
+Maximum
+
+Presne
+
+Maximum
+
+Presne
+
+Podporované operačné systémy:
+
+Funkcia
+•Windows, Linux, Solaris
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Položka č. 6:
+
+Minimum
+
+Cryptography:
+
+Funkcia
+•Asymetrické algoritmy: RSA, Diffie-Hellman, DSA, KCDSA, ECDSA, ECDH.•Symetrické algoritmy: AES, ARIA, Camellia,
+CAST, RIPEMD160, HMAC, SEED, Triple DES.•Hash/message digest: SHA-1, SHA-2 (224, 256, 384, 512 bit).•Možnosť
+rozšírenia o podporu eliptických kriviek.
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+Strana 2 z 5
+
+Minimum
+
+Maximum
+
+Presne
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane inštalácie na mieste plnenia
+Vrátane dopravy na miesto plnenia
+Požaduje sa predložiť podrobný rozpis cien jednotlivých položiek v členení podľa technickej špecifikácie zákazky do 3
+pracovných dní od uzavretia zmluvy e-mailom kontaktnej osobe objednávateľa. Dodávateľ predloží do 7 pracovných dní od
+nadobudnutia účinnosti zmluvy zoznam kontaktných osôb zodpovedných za plnenie tejto zmluvy v rozsahu meno, priezvisko,
+e-mailová adresa, telefónne číslo, funkcia, - e-mailové adresy alebo telefonický kontakt pre nahlasovanie porúch a vád
+zariadenia.
+Objednávateľ požaduje HW inštaláciu HSM modulu a požadovaných komponentov do existujúcej infraštruktúry pre prevádzku
+informačných systémov
+HSM modul požaduje objednávateľ dodať' nový - originál od výrobcu (nie repasovaný)
+V prípade dodania ekvivalentu HSM modulu, musí vybraný typ zariadenia spĺňať podmienky špecifikované v článku 2. tejto
+zmluvy, požiadavky kompatibility s existujúcimi aplikáciami, požiadavky na migráciu existujúcich kľúčov a byť certifikovaný
+NBÚ
+Podkladom pre úhradu ceny bude faktúra vystavená Dodávateľom.
+•Nárok na úhradu faktúry vzniká podpísaním Preberacieho protokolu bez výhrad oboma zmluvnými stranami. Splatnosť faktúry
+je 30 pracovných dní od odo dňa jej doručenia Objednávateľovi. Faktúra musí obsahovať náležitosti daňového dokladu podľa
+právnych platných predpisov, číslo Zmluvy Objednávateľa kópiu podpísaného Preberacieho protokolu. Ak predložená faktúra
+nebude obsahovať náležitosti daňového dokladu alebo nebude vystavená v súlade s touto zmluvou, Objednávateľ ju vráti do 5
+pracovných dní od doručenia na prepracovanie.
+V takomto prípade lehota splatnosti faktúry začne plynúť doručením opravenej faktúry. Opravená faktúra je splatná do 30
+kalendárnych dní odo dňa jej doručenia kupujúcemu.
+Na predmet dodávky tejto zmluvy sa vzťahuje záruka minimálne 24 mesiacov.
+Záručná doba začína plynúť dňom podpísania preberacieho protokolu oprávnenými zástupcami zmluvných strán na prebratie
+a odovzdanie predmetu dodávky.
+Záruka zahŕňa najmä bezplatnú opravu (odstránenie vady) predmetu dodávky alebo výmenu vadných komponentov predmetu
+dodávky tak, aby boli zabezpečené požadované podmienky zariadenia špecifikované v článku 2 tejto zmluvy.
+Objednávateľ reklamuje vadu v záručnej dobe písomne u Dodávateľa bezodkladne po tom, čo sa o vade dozvedel. Pre
+dodržanie podmienky písomnej reklamácie postačí uplatniť reklamáciu e-mailom na adrese kontaktnej osoby Dodávateľa.
+Predávajúci sa zaväzuje počas záručnej doby bezplatne odstrániť všetky vady:- do 24 hodín odo dňa uplatnenia reklamácie
+Objednávateľom pri kritickej vade- do 3 pracovných dní odo dňa uplatnenia reklamácie Objednávateľom pri ostatných vadách.
+Dopravné náklady a prácu servisného technika počas trvania záručnej doby znáša Dodávateľ.
+V súlade s § 430 Obchodného zákonníka, záručná doba na predmet dodávky neplynie po dobu, po ktorú Objednávateľ
+nemôže užívať predmet dodávky pre jeho vady, za ktoré zodpovedá Dodávateľ.
+Zmluvné strany zodpovedajú za škody vzniknuté porušením zmluvných povinností v súlade so všeobecne záväznými
+právnymi predpismi platnými v Slovenskej republike.
+Zmluvné strany sa dohodli, že túto zmluvu je možné ukončiť písomnou dohodou zmluvných strán alebo jednostranným
+odstúpením od zmluvy.
+Objednávateľ a Dodávateľ sú oprávnení jednostranne odstúpiť od zmluvy v prípade, ak druhá strana tejto Zmluvy jednostranne
+podstatne porušuje ustanovenia Zmluvy a ani po písomnom upozornení neupustí od tohto konania.
+Pokiaľ vady nie sú Dodávateľom odstránené v lehote na odstránenie vád, Objednávateľ je oprávnený od zmluvy jednostranne
+odstúpiť.
+Dôvodom k okamžitému odstúpeniu od Zmluvy zo strany Objednávateľa sú:-vstup Dodávateľa do likvidácie,-vyhlásenie
+konkurzu na majetok Zhotoviteľa,-vady nie sú Dodávateľom odstránené v lehote na odstránenie vád,-anticipované podstatné
+porušenie zmluvy Zhotoviteľom podľa § 348 OZ
+zo strany Zhotoviteľa sú:-omeškanie Objednávateľa s platením dlhšie ako 6 týždňov,-vstup Objednávateľa do
+likvidácie,-vyhlásenie konkurzu na majetok Objednávateľa.
+Odstúpenie od zmluvy musí mať písomnú formu, musí sa v ňom uviesť dôvod odstúpenia a musí byť doručené druhej
+zmluvnej strane na adresu sídla uvedenú v záhlaví tejto zmluvy. Účinky odstúpenia od zmluvy nastanú dňom doručenia
+odstúpenia od zmluvy druhej zmluvnej strane. Odstúpením od zmluvy nezaniká nárok na náhradu škody. Platným odstúpením
+od zmluvy sa táto zmluva od počiatku zrušuje a zmluvné strany sú povinné si vydať dovtedy poskytnuté plnenia.
+V prípade zavineného omeškania Dodávateľa s dodaním predmetu dodávky podľa tejto Zmluvy, je Objednávateľ oprávnený
+účtovať Zhotoviteľovi zmluvnú pokutu vo výške 0,05% z celkovej hodnoty obstarania za každý začatý deň omeškania.
+V prípade omeškania Objednávateľa s plnením peňažného záväzku podľa tejto Zmluvy je Zhotoviteľ oprávnený účtovať
+Objednávateľovi úrok z omeškania vo výške 0,05% z dlžnej sumy za každý deň omeškania.
+Strana 3 z 5
+
+Zaplatenie zmluvnej pokuty nemá vplyv na nárok Objednávateľa na náhradu škody, ktorá mu vznikla z nesplnenia povinnosti
+zabezpečenej zmluvnou pokutou.
+Dodávateľ je v prípade podstatného porušenia zmluvných podmienok povinný uhradiť Objednávateľovi zmluvnú pokutu v
+súlade s OPET na účet objednávateľa v lehote desiatich kalendárnych dní. Nedodržanie ktorejkoľvek podmienky a požiadavky
+zo strany Dodávateľa uvedenej v tejto zmluve sa bude považovať za podstatné porušenie zmluvných podmienok.
+Dodanie predmetu dodávky je požadované do 30 kalendárnych dní od podpisu zmluvy
+Miesto plneniaÚrad geodézie, kartografie a katastra SR Chlumeckého 2, P.O.Box 57820 12 Bratislava 212
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava II
+
+Obec:
+
+Bratislava - mestská časť Ružinov
+
+Ulica:
+
+Chlumeckého 2
+
+Čas / lehota plnenia zmluvy:
+12.09.2018 12:00:00 - 11.10.2018 11:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+množstvo
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 33 649,17 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 40 379,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+Strana 4 z 5
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 10.09.2018 12:36:01
+Objednávateľ:
+Úrad geodézie, kartografie a katastra Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Aliga, s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

@@ -1,0 +1,1474 @@
+ZMLUVA O DIELO
+- návrh a implementácia manažmentu podnikovej architektúry
+Číslo zmluvy Objednávateľa: 2017/231
+Číslo zmluvy Zhotoviteľa: Z004-18
+uzatvorená v súlade so zákonom č. 513/1991 Zb. (Obchodný zákonník) v znení neskorších predpisov
+Zmluvné strany:
+Zhotoviteľ
+
+Skupina zhotoviteľov
+
+Člen skupiny zhotoviteľov 1 a súčasne líder skupiny zhotoviteľov:
+obchodné meno: MIM s.r.o.
+sídlo:
+Slnečná 211/1, 010 03 Žilina
+IČO:
+36 395 820
+DIČ:
+2020105450
+IČ DPH:
+SK2020105450
+bank. spojenie:
+č. účtu:
+spoločnosť zapísaná v Obchodnom registri Okresného súdu Žilina, oddiel: Sro, vložka číslo: 12610/L
+v zastúpení:
+Ing. Ján Staník, PhD., konateľ
+(ďalej ako „Zhotoviteľ 1“ )
+a
+Člen skupiny zhotoviteľov 2:
+obchodné meno: Fabrici Management Consulting, spol. s r.o.
+sídlo:
+Púpavova 4, 900 27 Bernolákovo
+IČO:
+35 929 090
+DIČ:
+2021981665
+IČ DPH:
+SK2021981665
+bank. spojenie:
+č. účtu:
+spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I, oddiel: Sro, vložka číslo: 35533/B
+v zastúpení:
+Michal Fabrici, konateľ
+(ďalej ako „Zhotoviteľ2“ )
+(ďalej Zhotoviteľ 1 a Zhotoviteľ 2 spoločne ako „Zhotoviteľ“)
+a
+Objednávateľ
+názov:
+Slovenská republika zastúpená Ministerstvom financií SR
+sídlo:
+Štefanovičova 5, 817 82 Bratislava 15
+IČO:
+00 151 742
+DIČ:
+2020798351
+IČ DPH:
+nie je platiteľom DPH
+bank. spojenie:
+č. účtu:
+v zastúpení:
+Ing. Albín Kotian, generálny tajomník služobného úradu
+(ďalej ako „Objednávateľ“)
+sa dohodli na uzavretí tejto Zmluvy o dielo - návrh a implementácia manažmentu podnikovej architektúry (ďalej aj
+ako „Zmluva“) s nasledovným obsahom:
+
+Preambula
+Zmluvné strany uzatvárajú túto Zmluvu na základe výsledku verejného obstarávania po splnení postupov
+zadávania zákazky - verejná súťaž podľa § 66 - stanovených zákonom č. 343/2015 Z.z. o verejnom obstarávaní a
+o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon o verejnom obstarávaní“).
+Zhotoviteľ sa ako skupina dodávateľov (pre účely tejto Zmluvy „skupina zhotoviteľov“) zúčastnil verejného
+obstarávania, ktoré realizoval Objednávateľ podľa zákona o verejnom obstarávaní na predmet zákazky „Návrh
+a implementácia manažmentu podnikovej architektúry“ a bol vyhlásený za úspešného uchádzača. Zákazka bola
+zverejnená v Úradnom vestníku Európskej únie pod číslom 2018/S 034-074078 zo dňa 17. 02. 2018 a vo Vestníku
+verejného obstarávania č. 36/2018 zo dňa 20. 02. 2018 pod číslom 2627 – MSS ( ďalej aj „zákazka“).
+Líder skupiny zhotoviteľov, MIM s.r.o., Slnečná 211/1, 010 03 Žilina , IČO 36 395 820, bol nominovaný členmi
+skupiny zhotoviteľov v procese verejného obstarávania zákazky do pozície lídra skupiny zhotoviteľov. Líder skupiny
+zhotoviteľov je oprávnený a povinný na prijímanie všetkých pokynov Objednávateľa a konanie v mene všetkých
+členov skupiny zhotoviteľov vo všetkých právnych úkonoch a činnostiach týkajúcich sa plnenia predmetu Zmluvy.
+Vystavovať a doručovať Objednávateľovi faktúry za riadne poskytovanie predmetu Zmluvy bude Zhotoviteľ 1 ako
+líder skupiny zhotoviteľov v zmysle vykonania a prevzatia výsledkov plnenia poskytnutých služieb lídrom skupiny
+zhotoviteľov podľa jednotlivých míľnikov harmonogramu Zmluvy (Príloha č. 1, časť 1.2 Etapizácia projektu) a vo
+výške podľa Prílohy č. 4 tejto Zmluvy. Členovia skupiny zhotoviteľov sú zodpovední spločne a nerozdielne zo
+záväzkov vyplývajúcich z tejto Zmluvy.
+Článok 1
+Predmet a cieľ zmluvy
+1. Predmetom tejto Zmluvy je záväzok Zhotoviteľa vytvoriť procesný a softvérový model riešenia pre
+automatické načítanie a spracovanie údajov podnikovej architektúry objednávateľa a implementovať ho
+v prostredí objednávateľa (ďalej aj ako „vytvorenie diela“). Zhotoviteľ sa zaväzuje vyhotoviť dielo vo
+vlastnom mene, na vlastnú zodpovednosť, riadne a včas, za podmienok uvedených v tejto Zmluve, podľa
+pokynov a požiadaviek Objednávateľa.
+2. Riešenie musí umožniť:
+a. zavedenie efektívneho kontrolného mechanizmu nad konfiguračnými prvkami IT služieb rezortu
+objednávateľa,
+b. zabezpečenie prehľadu o kľúčových konfiguračných prvkoch IT služieb,
+c. zabezpečenie vizuálnej kontroly a závislostí medzi konfiguračnými prvkami IKT,
+d. zabezpečenie identifikácie nekonzistencie štruktúry konfiguračných prvkov IKT,
+e. sledovanie histórie a zmien údajov.
+3. V rámci vytvorenia diela sa zhotoviteľ zaväzuje vykonať nasledujúce činnosti a vyhotoviť súvisiace
+písomné výstupy:
+a. analýza definovaných ISVS zaradených do projektu v súlade s požiadavkami AKVS,
+b. analýza výstupov GL po spracovaní údajov s CMDB,
+c. definovanie metodiky mapovania konfiguračných jednotiek z CMBD do Archimate 3.0,
+d. zber požiadaviek gestorov na definovanie a uchovávanie údajov jednotlivých objektov na jednotlivých
+vrstvách EA v BDA,
+e. modifikácia metamodelu v BDA a vytvorenie nových profilov,
+f. vytvorenie procesného a softvérového modelu riešenia pre načítanie a spracovanie údajov z CMBD
+do BDA a jeho implementácia a otestovanie v produkčnom prostredí,
+g. doplnenie modelu EA o objekty a väzby na aplikačnej vrstve podľa požiadaviek gestorov definujúcich
+objekty na aplikačnej vrstve,
+h. príprava požadovaných výstupov pre riadenie PA a META IS.
+4. Ako súčasť plnenia poskytnutého na základe tejto Zmluvy Zhotoviteľom Objednávateľovi je aj dodanie
+nasledujúcej dokumentácie týkajúcej sa plnenia:
+
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+
+detailná funkčná špecifikácia,
+návrh akceptačných testov,
+nasadenie riešenia do produkčnej prevádzky,
+používateľské a administrátorské príručky,
+zdrojové kódy so schémou a popisom dátového modelu,
+výsledky testovania, vyhodnotenie súladu s IT štandardami,
+dodávka diela, vyhodnotenie jeho súladu so štandardami (výnos o štandardoch pre ISVS č.
+1347/2015 Z.z. z 8. júna 2015).
+
+5. Bližšia špecifikácia predmetu Zmluvy, vrátane legislatívnych, funkčných, technologických prevádzkových
+požiadaviek je uvedená v prílohe č. 1, ktorá tvorí neoddeliteľnú súčasť tejto Zmluvy (ďalej aj ako
+„Plnenie“).
+6. Objednávateľ sa zaväzuje riadne a včas dodané Plnenia prevziať a zaplatiť za ne zhotoviteľovi dohodnutú
+cenu.
+7. Cieľom implementácie manažmentu podnikovej architektúry je implementácia a nasadenie automatizácie
+spracovania údajov podnikovej architektúry v rámci MF SR (s možnosťou jeho ďalšieho rozšírenia na
+organizácie v priamej riadiacej pôsobnosti MF SR podľa princípu „jeden krát a dosť“, vyplývajúceho
+z Národnej koncepcie informatizácie verejnej správy – NKVIS) s využitím už implementovaných
+techonologických nástrojov nasadených vo verejnej správe – modul BDA/BES Meta IS a nástroja
+Graphlytic.
+Článok 2
+Povinnosti zhotoviteľa a objednávateľa
+1. Zhotoviteľ je povinný:
+a. Dodať či poskytnúť Plnenie v súlade so všetkými charakteristikami, súčasťami a podmienkami
+stanovenými prílohou č. 1 Zmluvy (ďalej aj ako „Špecifikácia“) a inými podmienkami uvedenými
+v Zmluve riadne a včas, v dohodnutej technickej a funkčnej špecifikácii.
+b. Dodať či poskytnúť Plnenie, ktoré spĺňa okrem Špecifikácií tiež všetky požiadavky príslušných
+právnych predpisov a platných technických noriem záväzných pre takéto Plnenie a týkajúcich sa
+jeho uvádzania na trh.
+c. Spĺňať všetky kvalifikačné, odborné, technické a iné predpoklady, mať predpísané povolenia
+a skúšky, spĺňať akékoľvek iné predpoklady stanovené príslušnými právnymi predpismi a
+záväznými technickými normami pre riadne poskytnutie Plnenia a realizovať Plnenie len
+prostredníctvom osôb spĺňajúcich všetky predmetné požiadavky pre poskytovanie Plnenia.
+d. Identifikáciu osôb zodpovedných za poskytnutie Plnenia sa Zhotoviteľ zaväzuje oznámiť
+Objednávateľovi pred nástupom na výkon Plnenia. Odbornú spôsobilosť osôb zodpovedných za
+poskytnutie Plnenia sa Zhotoviteľ zaväzuje preukázať úradne overenou fotokópiou príslušného
+certifikátu, príslušného dokladu alebo dokladov o úspešnom absolvovaní školenia, certifikácie
+alebo kurzu. Doklady o splnení odbornej spôsobilosti osôb zodpovedných za poskytnutie Plnenia
+nie je Zhotoviteľ povinný predložiť Objednávateľovi, pokiaľ tieto Objednávateľovi predložil v
+priebehu verejného obstarávania, na základe ktorého sa uzatvára táto Zmluva.
+e. Pri poskytovaní či dodávke Plnenia dodržiavať bezpečnostné, technické a iné prevádzkové
+predpisy a smernice Objednávateľa, prípadne iné vnútorné predpisy, s ktorými ho Objednávateľ
+riadne a včas preukázateľne oboznámil.
+f. Plnenie pred dodaním podrobiť všetkým povinným technickým, funkčným či iným skúškam
+a/alebo certifikácii, ak je vyžadovaná v súlade so Špecifikáciou alebo príslušnými všeobecne
+záväznými právnymi predpismi alebo príslušnými technickými normami.
+g. Písomne oznámiť Objednávateľovi bez zbytočného odkladu všetky zmeny týkajúce sa najmä
+jeho identifikačných a kontaktných údajov uvedených v Zmluve, predmetu činnosti, vstupu do
+likvidácie, alebo začatia konania podľa Zákona o konkurze a reštrukturalizácii.
+
+h. Včas oznámiť Objednávateľovi všetky prekážky a skutočnosti, ktoré by mohli spôsobiť
+omeškanie Zhotoviteľa s riadnym a včasným poskytnutím Plnenia.
+2. Objednávateľ je povinný:
+a. Poskytnúť Zhotoviteľovi za účelom riadneho dodania či poskytnutia Plnenia v potrebnej dobe
+nevyhnutnú súčinnosť. Súčinnosťou Objednávateľa sa nerozumie plnenie alebo suplovanie
+povinností Zhotoviteľa vyplývajúcich z tejto Zmluvy či príslušných všeobecne záväzných
+právnych predpisov.
+b. Včas a preukázateľne informovať Zhotoviteľa o všetkých bezpečnostných, technických a iných
+prevádzkových predpisoch a smerniciach Objednávateľa, ktoré Objednávateľ požaduje od
+Zhotoviteľa dodržať.
+c. Písomne a bez zbytočného odkladu vyjadriť sa k písomnej žiadosti Zhotoviteľa na schválenie
+subdodávateľa ktorý by mal realizovať pre Zhotoviteľa časť Plnenia podľa Zmluvy, či s použitím
+subdodávateľa súhlasí alebo nie. Ak sa Objednávateľ k žiadosti Zhotoviteľa nevyjadrí do 15
+pracovných dní, má sa za to, že Objednávateľ s použitím subdodávateľa súhlasí.
+d. Objednávateľ nesmie súhlas s použitím subdodávateľa bezdôvodne odmietnuť. Zmluvné strany
+sa za účelom odstránenia akýchkoľvek pochybností dohodli, že za bezdôvodné odmietnutie sa
+nepovažuje dôvodná obava Objednávateľa o nesplnení predpokladov odbornej spôsobilosti
+subdodávateľa.
+Článok 3
+Preberacie konanie
+1. Zmluvné strany sa dohodli, že všetky Plnenia sa budú preberať výhradne na základe akceptačného a
+preberacieho protokolu, ktorého vzor tvorí prílohu č. 2 tejto Zmluvy (ďalej len „Akceptačný a preberací
+protokol“). Akceptačný a preberací protokol Zmluvné strany vyhotovia pri preberaní jednotlivej časti
+Plnenia (etapa/míľnik) podľa etapizácie projektu tvoriaceho súčasť prílohy č. 1 tejto Zmluvy (ďalej len
+„Harmonogram dodania“). V Akceptačnom a preberacom protokole bude uvedený rozpis poskytnutého
+Plnenia, resp. uskutočnených činností s uvedením dátumu poskytnutia Plnenia. Akceptačný a preberací
+protokol o poskytnutí objednaného Plnenia potvrdený podpisom Objednávateľa je podkladom pre
+fakturáciu ceny Plnenia v zmysle čiastkových fakturačných míľnikov, definovaných v prílohe č. 1 v časti
+Etapizácia projektu, ktorá je neoddeliteľnou súčasťou Zmluvy. Zmluvné strany sa dohodli, že Akceptačný
+a preberací protokol bude vždy vyhotovovaný a podpisovaný Zmluvnými stranami v sídle Objednávateľa.
+2. Objednávateľ je oprávnený odmietnuť prevziať akúkoľvek časť Plnenia, pokiaľ táto nespĺňa Špecifikácie,
+podmienky Harmonogramu dodania, resp. Plnenie vykazuje vady v zmysle článku 8. Zmluvy.
+3. V prípade, že Objednávateľ odmietne prevziať Plnenie v zmysle bodu 2. tohto článku Zmluvy, dôvody
+tohto odmietnutia vyznačí v Akceptačnom a preberacom protokole. Náhradný termín dodania alebo
+poskytnutia Plnenia bude určený na základe dohody Zmluvných strán. V prípade, že nedôjde k dohode
+Zmluvných strán o náhradnom termíne dodania alebo poskytnutia Plnenia, je tento termín oprávnený určiť
+Objednávateľ.
+4. Opätovné prevzatie predtým odmietnutého prevzatia Plnenia podľa bodu 2 tohto článku Zmluvy sa
+uskutoční na základe Akceptačného a preberacieho protokolu, v ktorom v prípade, že Zhotoviteľ odstránil
+všetky nedostatky mu vytýkané Objednávateľom, Objednávateľ potvrdí riadne dodanie alebo poskytnutie
+Plnenia. Pokiaľ dôjde k opätovnému odmietnutiu prevzatia Plnenia Objednávateľom, Zmluvné strany budú
+postupovať znova podľa bodu 3. tohto článku Zmluvy, pričom však platí, že zhotoviteľ sa dostal do
+omeškania s plnením a je povinný platiť zmluvnú pokutu za omeškanie s Plnením, resp. jeho časti podľa
+článku 10 bod 1 tejto Zmluvy.
+5. Ak je Zhotoviteľ v omeškaní s včasným dodaním alebo poskytnutím Plnenia, a také omeškanie
+predstavuje podstatné porušenie Zmluvy Zhotoviteľom, je Objednávateľ oprávnený omeškané Plnenie
+odoprieť a neprevziať, ak to bez zbytočného odkladu oznámi Zhotoviteľovi. V takom prípade je tiež
+Objednávateľ oprávnený od Zmluvy odstúpiť.
+
+6. V prípade, že Objednávateľ odmietne prevziať riadne dodané alebo poskytnuté Plnenie bez využitia
+postupu uvedeného v bode 3. tohto článku Zmluvy, je Zhotoviteľ povinný písomne vyzvať Objednávateľa
+na prevzatie Plnenia a to v lehote nie kratšej ako 5 pracovných dní odo dňa doručenia písomnej výzvy
+Zhotoviteľa Objednávateľovi.
+7. V prípade, že Objednávateľ odmietne prevziať riadne dodané alebo poskytnuté Plnenie bez využitia
+postupu uvedeného v bode 3. tohto článku Zmluvy v termíne určenom Zhotoviteľom na základe písomnej
+výzvy podľa bodu 6. tohto článku Zmluvy má toto konanie Objednávateľa rovnaké účinky ako prevzatie a
+potvrdenie daného Plnenia Objednávateľom, čo Zhotoviteľ vyznačí v príslušnom dokumente
+preukazujúcom prevzatie či poskytnutie Plnenia, ktorý v takom prípade podpisuje Zhotoviteľ sám.
+8. Ak na strane Zhotoviteľa vystupuje viac právnych subjektov ako dôsledok účasti skupiny uchádzačov
+ohľadom danej Zákazky, ak nevyplýva zo Zmluvy niečo iné, každý Zhotoviteľ je zo Zmluvy zaviazaný a
+oprávnený voči Objednávateľovi v rozsahu plnenia, ktorým preukazoval technickú alebo odbornú
+spôsobilosť vo verejnom obstarávaní.
+9. Zhotoviteľ je povinný poskytnúť Plnenie Objednávateľovi s náležitou odbornou starostlivosťou, v súlade
+so Špecifikáciou podľa Zmluvy a ostatnou Zmluvnou špecifikáciou na svoje náklady a na svoje
+nebezpečenstvo, v dohodnutom čase a mieste plnenia a v súlade s pokynmi Objednávateľa.
+10. Ak súčasťou alebo výsledkom poskytovania Plnenia, alebo v súvislosti s poskytnutím Plnenia Zhotoviteľ
+pre Objednávateľa vytvorí a predloží dokument, Objednávateľ momentom jeho odovzdania a prevzatia
+nadobúda vlastnícke právo k dokumentu a na takéto súčasti Plnenia sa primerane budú vzťahovať
+ustanovenia o zodpovednosti za vady a záruky vzťahujúce sa na dielo vytvorené podľa príslušných
+ustanovení Obchodného zákonníka v platnom znení.
+Článok 4
+Miesto plnenia zmluvy
+1. Zhotoviteľ bude plnenie Zmluvy realizovať:
+a. V sídle Objednávateľa a / alebo v Zhotoviteľovi vopred oznámených pracoviskách
+Objednávateľa,
+b. Vo vlastných priestoroch Zhotoviteľa, alebo v iných priestoroch, ak to bude nevyhnutné pre
+riadne plnenie Zmluvy.
+Článok 5
+Čas plnenia zmluvy
+1. Zhotoviteľ je povinný dodať a odovzdať celé Plnenie Objednávateľovi v lehote 9 kalendárnych mesiacov
+odo dňa účinnosti Zmluvy.
+2. Plnenie bude odovzdávané a preberané po etapách nasledovne:
+a. Metodika mapovania objektov medzi bázou metaúdajov (CMDB - configuration management
+database) a nástrojom pre modelovanie architektúry (BDA - BizzDesign Architect/BES BizzDesign Enterprise Studio) v lehote 3 kalendárnych mesiacov odo dňa účinnosti Zmluvy,
+b. Úprava Metamodelu BDA/BES v lehote 4 kalendárnych mesiacov odo dňa účinnosti Zmluvy,
+c. Automatizácia transformácie údajov z CMDB do BDA/BES – v lehote 6 kalendárnych mesiacov
+odo dňa účinnosti Zmluvy,
+d. Doplnenie modelu architektúry v BDA/BES o aplikačnú vrstvu v lehote 7 kalendárnych mesiacov
+odo dňa účinnosti Zmluvy,
+e. Príprava požadovaných výstupov pre riadenie podnikovej architektúry (ďalej len „PA“) a pre
+napĺňanie do METAIS v lehote 9 kalendárnych mesiacov odo dňa účinnosti Zmluvy.
+
+3. Ak to Zmluva výslovne nezakazuje a súčasne z povahy Plnenia nepochybne nevyplýva, že Objednávateľ
+môže mať záujem o takéto Plnenie pred zmluvne dohodnutou dobou plnenia, a tiež za predpokladu, že s
+tým pre Objednávateľa nebudú spojené neprimerané ťažkosti, je Zhotoviteľ oprávnený poskytnúť Plnenie
+aj pred uplynutím dohodnutej doby Plnenia podľa Zmluvy a Objednávateľ je povinný ho za splnenia
+ostatných podmienok prijať a prevziať.
+4. Ak predmetom Zmluvy je poskytnutie viacerých Plnení alebo ich kombinácie, považuje sa Plnenie podľa
+Zmluvy ako celok za dodané, vykonané a poskytnuté až dodaním, vykonaním a prevzatím posledného z
+Plnení podľa Zmluvy.
+5. Zhotoviteľ je oprávnený nárokovať si predĺženie lehoty plnenia príslušného Plnenia počas trvania Zmluvy,
+ak a iba do tej miery v akej je dodanie, poskytnutie či vykonanie daného Plnenia zapríčinené omeškaním
+Objednávateľa alebo okolnosťami vylučujúcimi zodpovednosť v zmysle ustanovenia § 374 Obchodného
+zákonníka. Po dobu omeškania Zhotoviteľa s poskytnutím príslušného Plnenia z dôvodov podľa predošlej
+vety Zhotoviteľ nie je v omeškaní s plnením svojej povinnosti poskytnúť príslušné Plnenie.
+Článok 6
+Cena
+1. Za riadne a včasné splnenie záväzkov Zhotoviteľa Objednávateľ zaplatí Zhotoviteľovi zmluvne dohodnutú
+odmenu vo výške 310 340,00 € bez DPH (slovom: tristodesaťtisíctristoštyridsať eur bez DPH), 20 % DPH
+vo výške 62 068,00 €, cena s DPH je 372 408,00 € (ďalej len „Cena“). Cena bude uhrádzaná v zmysle
+Akceptačných a fakturačných míľnikov podľa predchádzajúceho článku 5 bod 2 a prílohy č.1 časť
+Etapizácia projektu, ktorá tvorí neoddeliteľnú súčasť tejto Zmluvy.
+2. K príslušnej Cene bude Zhotoviteľ, ktorý je platiteľom DPH, účtovať daň z pridanej hodnoty v súlade s
+príslušnými všeobecne záväznými právnymi predpismi platnými a účinnými v deň vzniku daňovej
+povinnosti a Objednávateľ sa zaväzuje ju uhradiť spolu s Cenou.
+3. Zmluvná Cena je stanovená dohodou Zmluvných strán ako cena pevná, konečná a nemenná.
+4. Cena predstavuje odplatu za splnenie všetkých zmluvných záväzkov Zhotoviteľa vyplývajúcich zo Zmluvy
+a pokrýva tiež všetky a akékoľvek interné či externé náklady alebo výdavky Zhotoviteľa na splnenie
+Zmluvy, t.j. na riadne a včasné dodanie, poskytnutie a vykonanie dojednaných Plnení ako aj primeraného
+zisku.
+5. Zálohy a preddavky za účelom úhrady Ceny alebo jej časti sa neposkytujú.
+Článok 7
+Platobné podmienky
+1. Nárok Zhotoviteľa na zaplatenie Ceny vzniká riadnym vykonaním, odovzdaním a prevzatím čiastkových
+Plnení dohodnutého rozsahu, a to po potvrdení riadneho prevzatia príslušnej časti Plnenia
+Objednávateľom na základe Akceptačného a preberacieho protokolu. Čiastkové fakturačné míľniky sú
+definované v prílohe č.1, ktorá je súčasťou Zmluvy.
+2. Podkladom pre úhradu Ceny je faktúra, vystavená Zhotoviteľom 1 po vzniku nároku Zhotoviteľa na
+zaplatenie Ceny a doručená Objednávateľovi majúca okrem náležitostí vyžadovaných príslušnými
+všeobecne záväznými právnymi predpismi aj tieto náležitosti:
+a. číslo Zmluvy
+b. predmet fakturácie
+c. jednotkovú cenu bez DPH a počet jednotiek vzťahujúcich sa ku každej položke Plnenia, sadzbu
+DPH vzťahujúcu sa na príslušnú položku Plnenia
+d. deň vzniku práva na zaplatenie Ceny
+e. cenu bez DPH
+f. celkovú sumu DPH
+
+g. celkovú sumu k úhrade
+h. dátum splatnosti faktúry
+i. bankové spojenie a číslo účtu Zhotoviteľa 1, kam Zhotoviteľ 1 požaduje predmetnú faktúru
+uhradiť.
+3. Povinnou prílohou faktúry Zhotoviteľa 1 je podpísaný Akceptačný a preberací protokol, ktorý v súlade so
+Zmluvu preukazuje dodanie a prevzatia Plnenia alebo jeho časti, ktoré je predmetom fakturácie touto
+faktúrou.
+4. Faktúra musí byť doručená Objednávateľovi na adresu jeho sídla uvedenú v záhlaví tejto Zmluvy.
+5. Faktúra bude splatná v lehote 30 dní odo dňa jej doručenia Objednávateľovi.
+6. Objednávateľ je oprávnený namietať vecnú a formálnu správnosť a úplnosť faktúry či jej povinných príloh
+najneskôr do 15 dní odo dňa doručenia predmetnej faktúry Objednávateľovi vrátením faktúry s uvedením
+konkrétnych formálnych či vecných výhrad Objednávateľa voči predmetnej faktúre.
+7. Ak Objednávateľ vráti faktúru Zhotoviteľovi 1, nová lehota splatnosti faktúry začína plynúť dňom doručenia
+novej/opravenej faktúry do podateľne Objednávateľa.
+8. Objednávateľ si splní svoj záväzok zaplatiť Cenu bankovým prevodom v prospech účtu Zhotoviteľa 1,
+ktorý je uvedený v Zmluve. Za deň zaplatenia fakturovanej sumy sa považuje deň pripísania peňažnej
+sumy na bankový účet Zhotoviteľa 1.
+9. Všetky peňažné plnenia, cena a iné peňažné sumy v zmysle Zmluvy sú stanovené v mene EURO.
+Článok 8
+Zodpovednosť za vady a Záruka
+1. Plnenie má vady, ak nezodpovedá Špecifikácii, Zmluvnej špecifikácii, alebo ak má právne vady.
+2. Zhotoviteľ zodpovedá za vady Plnenia, ktoré má Plnenie v čase jeho prevzatia či poskytnutia a tiež za
+vady vzniknuté po prevzatí či poskytnutí Plnenia, ak boli spôsobené porušením povinností Zhotoviteľa.
+3. Objednávateľ je povinný Plnenie prezrieť a skontrolovať v rámci preberacieho konania pri osvedčovaní
+poskytnutého Plnenia.
+Objednávateľ je povinný oznámiť Zhotoviteľovi vady (podľa toho, k čomu dôjde skôr):
+a. Bez zbytočného odkladu po tom, čo ich zistí.
+b. Bez zbytočného odkladu po tom, čo ich mal zistiť pri vynaložení odbornej starostlivosti pri
+prehliadke a kontrole Plnenia.
+c. Bez zbytočného odkladu po tom, čo mohli byť zistené neskôr pri vynaložení odbornej
+starostlivosti Objednávateľa.
+d. Najneskôr do dvoch rokov od odovzdania či poskytnutia Plnenia.
+4. Zmluvné strany sa dohodli, že Zhotoviteľ poskytuje Objednávateľovi záruku za poskytnuté Plnenie v trvaní
+2 rokov od dátumu prevzatia poslednej časti Plnenia, že Plnenie bude počas uvedenej doby spĺňať
+Špecifikácie dohodnuté touto Zmluvou.
+5. V prípade ak je dodaním, vykonaním alebo poskytnutím Plnenia s vadami Zmluva porušená podstatným
+spôsobom, Objednávateľ je oprávnený:
+a. Požadovať odstránenie vád Plnenia dodaním náhradného Plnenia za chybné Plnenie, okrem
+toho ak Plnenie vzhľadom na jeho povahu nemožno vrátiť alebo odovzdať Zhotoviteľovi alebo ak
+od Zhotoviteľa nemožno spravodlivo žiadať prevzatie Plnenia späť s ohľadom na rozsah jeho
+používania pred zistením vady.
+b. Požadovať dodanie chýbajúcej časti, ak vada spočíva v neúplnosti Plnenia.
+c. Požadovať odstránenie právnych vád.
+
+d. Požadovať bezplatné odstránenie vád opravou Plnenia alebo predmetu Plnenia v primeranej
+dobe stanovenej Objednávateľom, ak sú vady odstrániteľné. Ak sa však ukáže, že vady Plnenia
+sú neopraviteľné alebo že s ich opravou by boli podľa posúdenia Zhotoviteľa spojené
+neprimerané náklady, môže Objednávateľ požadovať náhradné Plnenie alebo primeranú zľavu
+z Ceny. Ak Zhotoviteľ neodstráni vady Plnenia v primeranej dodatočnej lehote stanovenej
+Objednávateľom, alebo ak odoprie vadu odstrániť pred jej uplynutím, môže Objednávateľ
+odstúpiť od Zmluvy alebo požadovať primeranú zľavu z Ceny.
+e. Odstúpiť od Zmluvy.
+6. V prípade ak je dodaním, vykonaním alebo poskytnutím Plnenia s vadami Zmluva porušená nepodstatným
+spôsobom, Objednávateľ je oprávnený žiadať dodanie chýbajúceho Plnenia a odstránenie ostatných vád
+Plnenia v primeranej lehote stanovenej Objednávateľom. Ak Zhotoviteľ Vady Plnenia v lehote podľa
+predošlej vety neodstráni, uvedené považujú Zmluvné strany za podstatné porušenie Zmluvy a
+Objednávateľ môže uplatniť nárok na primeranú zľavu z Ceny alebo od Zmluvy odstúpiť.
+7. Právo voľby medzi nárokmi ustanovenými v bode 5 až 6 tohto článku patrí Objednávateľovi. Objednávateľ
+je povinný oznámiť voľbu nároku Zhotoviteľovi spravidla spolu s oznámením vady, inak bez zbytočného
+odkladu po oznámení vady Plnenia Zhotoviteľovi.
+8. Ak by v prípade uplatnenia nároku Objednávateľa (odstránenie vady Plnenia) bolo podľa stanoviska
+Zhotoviteľa odstránenie vád časovo alebo finančne náročné alebo inak neprimerané s ohľadom na
+okolnosti a účel Plnenia, alebo by si vyžadovalo podľa stanoviska Objednávateľa neprimeranú súčinnosť
+Objednávateľa, je Objednávateľ oprávnený požadovať bezplatné náhradné Plnenie za chybné Plnenie.
+9. V prípade omeškania Zhotoviteľa s odstránením vady Plnenia v lehote určenej Objednávateľom v
+prípadoch podľa bodu 3 a 4. článku 3 Zmluvy, alebo ak je zrejmé, že Zhotoviteľ nie je schopný vady
+Plnenia riadne odstrániť v určenej lehote, je Objednávateľ, ak od Zmluvy neodstúpi, oprávnený popri
+nároku na poskytnutie primeranej zľavy z Ceny tiež odstrániť vady sám alebo prostredníctvom tretej osoby
+na náklady Zhotoviteľa, pričom o tejto skutočnosti je Objednávateľ povinný Zhotoviteľa bezodkladne
+písomne informovať.
+10. Zhotoviteľ je povinný začať s odstraňovaním vád bez zbytočného odkladu od uplatnenia nároku na
+odstránenie vád Plnenia a vadu odstrániť v primeranej lehote určenej Objednávateľom, spravidla nie
+dlhšej ako 30 dní. V prípade ak Zhotoviteľ neodstráni vady Plnenia v lehote určenej Objednávateľom,
+považuje sa takéto porušenie za podstatné porušenie Zmluvy a Objednávateľ je oprávnený od Zmluvy
+odstúpiť, alebo požadovať primeranú zľavu z Ceny.
+11. Ak Objednávateľ požaduje v súlade s bodom 5. alebo s bodom 6. tohto článku zľavu z Ceny, táto sa určí
+ako rozdiel medzi hodnotou, ktorú by malo Plnenie bez vád, a hodnotou, ktorú má Plnenie dodané,
+poskytnuté či vykonané s vadami v čase, kedy Plnenie malo byť poskytnuté.
+12. Zhotoviteľ je povinný po odstránení vady vyzvať Objednávateľa na skontrolovanie a potvrdenie splnenia
+povinnosti odstrániť vadu Plnenia obdobným spôsobom ako Objednávateľ potvrdzuje Poskytnutie Plnenia,
+ak išlo o odstránenie vady poskytnutia Plnenia.
+13. Náklady na odstránenie vád Plnenia ako aj preukázateľné náklady Objednávateľa na uplatnenie nárokov
+z vád Plnenia, znáša Zhotoviteľ.
+14. Uplatnením nárokov z vád Plnenia nie je dotknutý nárok Objednávateľa na zaplatenie zmluvnej pokuty,
+náhradu škody alebo iného nároku, ktorý Objednávateľovi v dôsledkom vád Plnenia vznikol.
+
+Článok 9
+Osobitné ustanovenia o subdodávateľoch, registri partnerov verejného sektora a kľúčových
+expertov
+
+1. Na poskytovanie niektorých plnení, ktoré tvoria súčasť poskytovaných plnení pre Objednávateľa, má
+Zhotoviteľ, za podmienok dohodnutých v tejto Zmluve, právo uzatvárať subdodávateľské zmluvy.
+Zhotoviteľ zodpovedá za tieto plnenia akoby ich poskytoval sám a je povinný odovzdávať Objednávateľovi
+plnenia sám, na svoju zodpovednosť, v dohodnutom čase a v dohodnutej kvalite.
+2. V prípade ak bude Zhotoviteľ zabezpečovať plnenie Zmluvy prostredníctvom subdodávateľa/ľov
+zaväzuje sa najneskôr v čase uzavretia tejto Zmluvy predložiť zoznam všetkých známych
+subdodávateľov, a to v nasledovnom rozsahu podľa § 41 ods. 3 zákona č. 343/2015 Z.z. o verejnom
+obstarávaní v platnom znení: (i) meno a priezvisko alebo obchodné meno, resp. názov subdodávateľa, (ii)
+adresa pobytu alebo sídlo, (iii) IČO alebo dátum narodenia, ak nebolo pridelené IČO, (iv) údaje o osobe
+oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko, adresa pobytu a dátum narodenia, (v)
+podiel zákazky, ktorý má v úmysle zadať subdodávateľom a predmet subdodávok. Predmetné údaje o
+týchto subdodávateľoch sa stanú súčasťou tejto Zmluvy vo forme samostatnej prílohy .
+3. Zhotoviteľ je počas trvania Zmluvy povinný písomne oznámiť Objednávateľovi akúkoľvek zmenu
+subdodávateľa a údaje o novom subdodávateľovi bezodkladne po tom, ako sa o zmene dozvedel, a to
+v rozsahu podľa predchádzajúceho bodu 2, predposledná veta.
+4. Zhotoviteľ zaplatí Objednávateľovi zmluvnú pokutu vo výške 1 000 ,- eur, ak porušil alebo riadne a úplne
+nevykonal povinnosť uvedenú v bode 2 a 3 tohto článku predložiť písomné oznámenie o zmene a/alebo
+doplnení subdodávateľa.
+5. Zhotoviteľ, jeho subdodávatelia a subdodávatelia podľa zákona č. 315/2016 Z. z. o registri partnerov
+verejného sektora a o zmene a doplnení niektorých zákonov (ďalej ako „zákon č. 315/2016 Z.z.“), musia
+byť v súlade s § 11 ods. 1 zákona o verejnom obstarávaní zapísaní do registra partnerov verejného
+sektora, a to počas celej doby trvania Zmluvy. U subdodávateľov táto povinnosť platí len vtedy, ak
+subdodávatelia majú povinnosť byť zapísaní v registri partnerov verejného sektora podľa zákona č.
+315/2016 Z.z.
+6. Zhotoviteľ vyhlasuje, že jeho subdodávatelia, ktorí sú mu v čase uzavretia Zmluvy známi a ktorí majú
+povinnosť byť zapísaní v registri partnerov verejného sektora, a majú sa podieľať na plnení tejto Zmluvy,
+majú zapísaných konečných užívateľov výhod v registri partnerov verejného sektora.
+7. Zhotoviteľ zodpovedá za správnosť a úplnosť údajov zapísaných v registri partnerov verejného sektora,
+identifikáciu konečného užívateľa výhod a overovanie identifikácie konečného užívateľa výhod v zmysle
+§ 11 zákona č. 315/2016 Z.z. Kým Zhotoviteľ nevykoná overenie identifikácie konečného užívateľa výhod,
+Objednávateľ nie je povinný plniť zo Zmluvy a nedostane sa pri tom do omeškania.
+8. Objednávateľovi vzniká právo odstúpiť od tejto Zmluvy dňom právoplatnosti rozhodnutia o výmaze podľa
+§ 12 a rozhodnutia o pokute z dôvodov podľa § 13 ods. 2 zákona č. 315/2016 Z.z, ako aj v prípade
+omeškania o viac ako 30 dní so splnením povinnosti podľa § 10 ods. 2 tretej vety zákona č. 315/2016 Z.z.
+Kým Zhotoviteľ, jeho subdodávatelia a subdodávatelia podľa zákona č. 315/2016 Z. z. nesplnia svoje
+povinnosti podľa zákona č. 315/2016 Z.z., Objednávateľ nie je povinný plniť zo Zmluvy a nedostane sa pri
+tom do omeškania; ohľadne subdodávateľov to platí len vtedy, ak majú povinnosť byť zapísaní v registri
+partnerov verejného sektora.
+9. Zhotoviteľ sa zaväzuje plniť predmet Zmluvy expertami, prostredníctvom ktorých preukazoval splnenie
+podmienok účasti a ktorí splnili podmienky účasti určené vo verejnom obstarávaní k tejto zákazke týkajúce
+sa technickej a odbornej spôsobilosti podľa § 34 ods.1 písm. g) zákona o verejnom obstarávaní a ktorí sú
+
+uvedení v Prílohe č. 3 tejto Zmluvy. V prípade zmeny/výmeny/doplnenie experta Zhotoviteľom, je tento
+povinný takúto zmenu si vopred písomne odsúhlasiť s Objednávateľom v zmysle bodu 10 tohto článku.
+
+10. Ak z objektívnych príčin, ktoré pri uzatvorení tejto Zmluvy zmluvné strany nemohli predvídať, vznikne
+potreba zmeny/výmeny/doplnenie expertov, môže sa takáto zmena/výmena/doplnenie uskutočniť na
+základe písomnej požiadavky jednej zo zmluvných strán adresovanej druhej zmluvnej strane.
+Zmena/výmena/doplnenie expertov Zhotoviteľa bude vyjadrená obojstranným písomným súhlasom oboch
+zmluvných strán. Takáto zmena expertov nemôže mať dopad na zmenu ceny a celkový finančný limit tejto
+Zmluvy. Súčasťou obojstranného písomného súhlasu zmluvných strán na zmenu/výmenu/doplnenie
+expertov bude najmä zoznam nových expertov a podporná dokumentácia, preukazujúca znalosti a
+skúsenosti jednotlivých expertov v súlade s požiadavkami stanovenými vo verejnom obstarávaní k tejto
+zákazke v rámci podmienok účasti podľa § 34 ods. 1 písm. g) zákona o verejnom obstarávaní ako ten
+expert, ktorého má nahradiť.
+Článok 10
+Sankcie
+1. V prípade porušenia povinnosti Zhotoviteľa dodať, poskytnúť alebo vykonať Plnenie, resp. jeho časť
+riadne a včas podľa Zmluvy, je Objednávateľ oprávnený požadovať od Zhotoviteľa zaplatenie zmluvnej
+pokuty vo výške 0,05 % Ceny Plnenia alebo jeho časti bez DPH denne. Nárok Objednávateľa na plnú
+náhradu škody tým nebude dotknutý.
+2. V prípade porušenia povinnosti Zhotoviteľa odstrániť vadu spôsobom a v lehote podľa tejto Zmluvy, je
+Objednávateľ oprávnený požadovať od Zhotoviteľa zmluvnú pokutu vo výške 0,03% Ceny bez DPH
+príslušného chybného Plnenia, alebo celkového Plnenia podľa Zmluvy, v prípade ak cena tohto
+jednotlivého Plnenia zo Zmluvy nie je zrejmá, a to za každý aj začatý deň omeškania. Nárok
+Objednávateľa na náhradu škody tým nebude dotknutý.
+3. V prípade omeškania Objednávateľa s úhradou faktúry Zhotoviteľa, má Zhotoviteľ právo uplatniť si u
+Objednávateľa nárok na úrok z omeškania v zákonom stanovenej výške platnej k prvému dňu omeškania
+Objednávateľa, ktorá sa uplatní počas celej doby omeškania Objednávateľa.
+4. Zhotoviteľ sa zaväzuje zaplatiť zmluvnú pokutu vyúčtovanú Objednávateľovi na jeho bankový účet
+uvedený v Zmluve, a to najneskôr do 15 dní potom, čo bude Zhotoviteľovi doručená výzva na jej úhradu.
+Článok 11
+Zodpovednosť za škodu a okolnosti vylučujúce zodpovednosť
+1. Zmluvné strany si vzájomne zodpovedajú za škody vzniknuté dôsledkom porušenia ich povinností zo
+Zmluvy, zákona.
+2. Nárok na náhradu škody nevzniká oprávnenej strane ak povinná strana preukáže, že k porušeniu jej
+zákonnej alebo zmluvnej povinnosti došlo v dôsledku okolností vylučujúcich zodpovednosť.
+3. Za okolnosti vylučujúce zodpovednosť sa považuje prekážka, ktorá nastala nezávisle od vôle povinnej
+strany a bráni jej v splnení jej povinnosti, ak nemožno rozumne predpokladať, že by povinná strana túto
+prekážku alebo jej následky odvrátila alebo prekonala, a ďalej, že by v čase vzniku záväzku túto prekážku
+predvídala. Zodpovednosť však nevylučuje prekážka, ktorá vznikla až v čase, keď povinná strana bola v
+omeškaní s plnením svojej povinnosti, alebo vznikla z jej hospodárskych pomerov. Účinky vylučujúce
+zodpovednosť sú obmedzené iba na dobu, dokiaľ trvá prekážka, s ktorou sú tieto účinky spojené.
+4. Poškodená strana, resp. oprávnená strana nemá nárok na náhradu škody, ak nesplnenie povinnosti
+povinnej strany bolo spôsobené okolnosťou vylučujúcou zodpovednosť, porušením povinností
+poškodenou stranou alebo nedostatkom súčinnosti, na ktorú bola poškodená strana povinná.
+
+5. Zmluvná strana, ktorá porušuje svoju povinnosť, alebo ktorá s prihliadnutím na všetky okolnosti má vedieť
+alebo mohla vedieť, že poruší svoju povinnosť, je povinná oznámiť druhej Zmluvnej strane povahu
+prekážky, ktorá jej bráni alebo bude brániť v plnení jej povinnosti ako aj o jej dôsledkoch tohto porušenia,
+a to písomne bez zbytočného odkladu po tom, čo sa o prekážke dozvedela, alebo pri náležitej starostlivosti
+mohla dozvedieť.
+6. Zmluvná strana, ktorej bezprostredne hrozí škoda, je povinná s prihliadnutím na okolnosti prípadu vykonať
+všetky opatrenia na odvrátenie škody alebo na jej zmiernenie. Zmluvná strana, ktorá bezprostrednú
+hrozbu škody spôsobila, musí nahradiť náklady, ktoré vznikli druhej Zmluvnej strane pri odvracaní
+bezprostredne hroziacej škody alebo pri zmiernení jej následkov.
+Článok 12
+Ochrana dôverných informácií
+1. Za dôvernú informáciu budú Zmluvné strany považovať na účely tejto Zmluvy akýkoľvek údaj, podklad,
+poznatok, dokument, alebo akúkoľvek inú informáciu, bez ohľadu na formu jej zachytenia s výnimkami
+uvedenými v tejto Zmluve. Výnimka je definovaná ako informácia:
+a. ktorá sa týka Zmluvnej strany (najmä informácie o jej činnosti, štruktúre, hospodárskych
+výsledkoch, finančné, štatistické a účtovné informácie, informácie o jej majetku, aktívach a
+pasívach, pohľadávkach a záväzkoch, informácie o jej technickom a programovom vybavení,
+know-how, hodnotiace štúdie a správy, podnikateľské stratégie a plány, informácie týkajúce sa
+predmetov chránených právom priemyselného alebo iného duševného vlastníctva Zmluvnej
+strany,
+b. ktorá sa týka zamestnancov a obchodných partnerov Zmluvných strán,
+c. ktorá sa týka zmluvných vzťahov Zmluvných strán,
+d. ktorá je výslovne Zmluvnou stranou označená ako „dôverná“, „utajená“, „chránená zákonom“
+alebo iným obdobným označením, a to od okamihu oznámenia tejto skutočnosti druhej Zmluvnej
+strane,
+e. pre ktorú je stanovený všeobecne záväznými právnymi predpismi Slovenskej republiky osobitný
+režim nakladania (najmä obchodné tajomstvo, bankové tajomstvo, telekomunikačné tajomstvo,
+daňové tajomstvo, osobné údaje a utajované skutočnosti).
+2. Dôverné informácie nie sú informácie, ktoré:
+a. Objednávateľ ako povinná osoba je povinný sprístupňovať v zmysle príslušných ustanovení
+zákona č. 211/2000 Z.z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých
+zákonov (zákon o slobode informácií),
+b. boli alebo sú preukázateľne sprístupnené, zverejnené alebo poskytnuté Zmluvnou stranou, ktorej
+sa tieto informácie týkajú tretej osobe bez záväzku mlčanlivosti pred uzavretím Zmluvy,
+c. sa preukázateľne stanú všeobecne známymi a verejne dostupnými po uzavretí Zmluvy z iného
+dôvodu ako z dôvodu porušenia záväzku mlčanlivosti,
+d. boli preukázateľne vytvorené, vyvinuté či získané samostatne druhou Zmluvnou stranou, od tretej
+strany, ktorá ich legitímne získala alebo vyvinula, a ktorá nie je viazaná povinnosťou mlčanlivosti
+ohľadom nej.
+3. Zmluvné strany sú povinné zaistiť ochranu, utajenie a mlčanlivosť ohľadom dôverných informácií
+spôsobom obvyklým pre ochranu, zabezpečenie mlčanlivosti a utajovanie takýchto vlastných dôverných
+informácií. Zmluvné strany sú povinné zabezpečiť ochranu a utajenie dôverných informácií aj zo strany
+svojich zamestnancov, zástupcov, ako aj iných spolupracujúcich tretích strán, ak im takéto informácie boli
+poskytnuté.
+4. Dôverné informácie poskytnuté, odovzdané, oznámené, sprístupnené a/alebo akýmkoľvek iným
+spôsobom získané jednou Zmluvnou stranou od druhej Zmluvnej strany na základe a/alebo v akejkoľvek
+súvislosti so Zmluvou, môžu byť použité výhradne na účely plnenia Zmluvy.
+5. Zmluvné strany sa zaväzujú dôverné informácie ako aj všetky informácie poskytnuté, odovzdané,
+oznámené, sprístupnené alebo akýmkoľvek iným spôsobom získané Zmluvnými stranami na základe
+
+Zmluvy alebo v akejkoľvek súvislosti so Zmluvou udržiavať v tajnosti, a zachovávať o nich mlčanlivosť,
+chrániť ich pred zneužitím, poškodením, zničením, znehodnotením, stratou a odcudzením, a to i po
+ukončení platnosti a účinnosti Zmluvy.
+6. Zmluvná strana nie je oprávnená bez predchádzajúceho písomného súhlasu druhej Zmluvnej strany
+dôverné informácie poskytnúť, odovzdať, oznámiť, sprístupniť, zverejniť, publikovať, rozširovať, vyzradiť
+ani použiť inak než na účely Zmluvy, a to ani po ukončení platnosti a účinnosti Zmluvy, s výnimkou prípadu
+ich poskytnutia, odovzdania, oznámenia alebo sprístupnenia:
+a. odborným poradcom Zmluvnej strany (vrátane právnych, účtovných, daňových a iných poradcov,
+alebo audítorov), ktorí sú buď viazaní všeobecnou profesionálnou povinnosťou mlčanlivosti
+stanovenou alebo uloženou zákonom alebo sú povinní zachovávať mlčanlivosť na základe
+písomnej dohody so Zmluvnou stranou,
+b. subdodávateľom, ak sa subdodávateľ podieľa na plnení Zmluvy, a ak je to potrebné pre účely
+plnenia povinností podľa Zmluvy, pričom subdodávateľ musí byť viazaný minimálne rovnakým
+rozsahom povinností vo vzťahu k ochrane dôverných informácií, ako sú viazané Zmluvné strany
+podľa Zmluvy,
+c. na účely a v rozsahu nevyhnutnom pre hodnotenie plnenia Zmluvy a Zmluvnej strany,
+d. oprávnenej osobe na základe povinnosti ustanovenej zákonom, rozhodnutím súdu, prokuratúry,
+alebo rozhodnutím iného oprávneného orgánu verejnej moci v medziach ich právomoci, pričom
+v tomto prípade Zmluvná strana, ktorá je povinná informácie sprístupniť, bezodkladne doručí
+druhej Zmluvnej strane písomné oznámenie o tejto skutočnosti ešte pred sprístupnením týchto
+informácií.
+Článok 13
+Ukončenie Zmluvy
+1. Zmluva môže zaniknúť okrem riadneho splnenia všetkých práv a povinností Zmluvných strán z nej
+vyplývajúcich, na základe dohody Zmluvných strán alebo spôsobmi uvedenými v zákone.
+2. Objednávateľ je oprávnený od Zmluvy odstúpiť ak:
+a. Zhotoviteľ poruší svoju povinnosť podľa Zmluvy podstatným spôsobom.
+b. Zhotoviteľ poruší svoju povinnosť podľa Zmluvy iným než podstatným spôsobom, a takéto
+porušenie nenapraví ani v dodatočnej primeranej lehote na nápravu, poskytnutej
+Objednávateľom.
+c. Je alebo v dobe najneskôr troch rokov pred uzavretím Zmluvy bol so Zhotoviteľom v súdnom,
+alebo právnom spore nesúvisiacom so Zmluvou alebo Objednávateľ v tejto dobe odstúpil od
+zmluvy alebo zmluvu vypovedal z dôvodu jej porušenia Zhotoviteľom.
+d. V rámci kontroly procesu verejného obstarávania Zákazky, na základe ktorej došlo k uzavretiu
+Zmluvy, bolo konštatované porušenie zákona.
+e. Zhotoviteľ postúpi svoje práva zo Zmluvy alebo uzatvorí zmluvu o subdodávke v rozpore so
+Zmluvou.
+f. Zhotoviteľ poskytne Objednávateľovi vedome nepravdivé a zavádzajúce informácie.
+g. Na majetok Zhotoviteľa je vyhlásený konkurz, konkurzné konanie bolo zastavené pre nedostatok
+majetku alebo je Zhotoviteľovi povolená reštrukturalizácia.
+h. Zhotoviteľ vstúpi do likvidácie, preruší alebo iným ako vyššie uvedeným spôsobom skonči svoju
+podnikateľskú činnosť.
+i. Zhotoviteľ predá svoj podnik alebo časť podniku a podľa Objednávateľa sa tým zhorší
+vymožiteľnosť práv a povinností zo Zmluvy.
+j. Zhotoviteľ v procese verejného obstarávania alebo udeľovania grantov financovaných z rozpočtu
+Európskeho únie je prehlásený za subjekt, ktorý vážne porušil zmluvu tým, že si neplní svoje
+zmluvné povinnosti,.
+k. u Zhotoviteľa prebehla zmena kontroly, organizačná zmena, zmena právnej formy, zmena
+štatutárnych orgánov a tieto zmeny nie sú pre Objednávateľa konajúc rozumne a odôvodnene
+akceptovateľné.
+l. Ak okolnosti vylučujúce zodpovednosť Zhotoviteľa trvajú viac ako 60 dní.
+m. Zhotoviteľ nemá alebo stratí iné právne alebo vecné predpoklady na riadne plnenie Zmluvy.
+
+3. Zhotoviteľ je oprávnený od Zmluvy odstúpiť ak:
+a. Objednávateľ poruší svoju povinnosť podľa Zmluvy podstatným spôsobom.
+b. Objednávateľ poruší svoju povinnosť podľa Zmluvy iným než podstatným spôsobom, a takéto
+porušenie nenapraví ani v dodatočnej primeranej lehote na nápravu, poskytnutej Zhotoviteľom,
+c. u Zhotoviteľa existujú zákonné dôvody pre odmietnutie poskytnutia Plnenia,
+d. je alebo v dobe najneskôr troch rokov pred uzavretím Zmluvy bol s Objednávateľom v súdnom,
+alebo právnom spore alebo Zhotoviteľ v tejto dobe odstúpil od zmluvy alebo zmluvu vypovedal z
+dôvodu jej porušenia Objednávateľom,
+e. by poskytnutím Plnenia bol alebo mohol byť porušený zákon,
+f. ak okolnosti vylučujúce zodpovednosť Objednávateľa trvajú viac ako 60 dní.
+4. Pre účely Zmluvy sa porušenie povinnosti zmluvnej strany považuje za podstatné, v prípade ak:
+a. také porušenie Zmluva za podstatné porušenie vyslovene označuje, alebo
+b. ak strana porušujúca Zmluvu vedela v čase uzavretia Zmluvy alebo v tomto čase bolo rozumné
+predvídať s prihliadnutím na účel Zmluvy, ktorý vyplynul z jej obsahu alebo z okolností, za ktorých
+bola Zmluva uzavretá, že druhá strana nebude mať záujem na plnení povinností pri takom
+porušení Zmluvy,
+c. na odstránenie tohto porušenia Zmluvy bola strana porušujúca Zmluvu oprávnenou stranou
+vyzvaná a toto porušenie strana porušujúca Zmluvu neodstránila ani v lehote 14 dní od doručenia
+výzvy.
+5. Odstúpenie musí mať písomnú formu, účinné je dňom jeho doručenia druhej zmluvnej strane. V prípade
+pochybností má sa za to, že odstúpenie je doručené tretí deň odo dňa jeho odoslania. Odstúpením od
+Zmluvy zmluva zaniká ku dňu doručenia oznámenia jednej zmluvnej strany o odstúpení od Zmluvy druhej
+zmluvnej strane.
+6. Objednávateľ po odstúpení od Zmluvy ktoroukoľvek stranou, ku dňu odstúpenia od Zmluvy potvrdí cenu
+všetkých Zhotoviteľom riadne vykonaných plnení zo Zmluvy, ktoré boli Objednávateľom prevzaté.
+7. Ak sa zmluvné strany nedohodnú inak, Plnenia a protihodnotu za ne si zmluvné strany ponechajú a
+nebudú si ich povinné či oprávnené vrátiť, ak
+a. dôvod odstúpenia od Zmluvy nespočíva v porušení zmluvnej povinnosti v súvislosti s takými
+Plneniami a poskytnutím protihodnoty za ne jednou zo zmluvných strán,
+b. takéto Plnenie má pre Objednávateľa hospodársky význam aj bez dodania, poskytnutia či
+vykonania zvyšku Plnení.
+8. Vzájomne poskytnuté Plnenie a protihodnoty za ne, ktoré nezodpovedajú požiadavkám, si zmluvné strany
+vzájomne vrátia.
+9. Na výslovnú žiadosť Objednávateľa tiež Zhotoviteľ odovzdá Objednávateľovi bez zbytočného odkladu tie
+plnenia, ktoré ešte neboli Objednávateľom prevzaté, aj keď ide o Plnenia rozpracované. Objednávateľ je
+oprávnený, nie však povinný plnenia podľa predchádzajúcej vety prevziať ak za ne Zhotoviteľovi zaplatí
+primeranú časť Ceny, na ktorej sa zmluvné strany dohodli.
+10. Zhotoviteľ je v nadväznosti na odstúpenie od Zmluvy povinný poskytnúť Objednávateľovi maximálnu
+možnú súčinnosť za účelom výkonu práv a povinností Objednávateľa, najmä predložiť Objednávateľovi
+všetky podklady a informácie slúžiace na vyúčtovanie plnení Zmluvy.
+Článok 14
+Udelenie licencie
+1. Zhotoviteľ ako poskytovateľ licencie udeľuje Objednávateľovi ako nadobúdateľovi licencie súhlas na
+použitie Plnenia uvedeného v článku 1 tejto Zmluvy ako diela vytvoreného v zmysle Autorského zákona
+v platnom znení v rozsahu uvedenom v tomto článku 14 Zmluvy.
+
+2. Zhotoviteľ ako poskytovateľ vyhlasuje, že k dielu vykonáva všetky majetkové práva autora na základe
+súhlasu autora, a preto je v plnej miere oprávnený k udeleniu licencie v rozsahu podľa tejto Zmluvy.
+3. Zmluvné strany sa dohodli na týchto podmienkach udelenia licencie k poskytnutému Plneniu:
+a. Zhotoviteľ ako poskytovateľ licencie udeľuje Objednávateľovi licencie súhlas na použitie Plnenia
+ako diela neobmedzeným spôsobom uvedeným v § 19 ods. 4 zákona č. 185/2015 Z.z. Autorský
+zákon.
+b. Zhotoviteľ týmto Objednávateľovi udeľuje licenciu k poskytnutému Plneniu v neobmedzenom
+rozsahu. Objednávateľ je oprávnený použiť predmet licencie bez územného, vecného, časového
+alebo personálneho obmedzenia.
+c. Zhotoviteľ týmto Objednávateľovi udeľuje výhradnú licenciu k poskytnutému Plneniu.
+d. Zhotoviteľ týmto Objednávateľovi udeľuje licenciu k poskytnutému Plneniu s oprávnením
+Objednávateľa postúpiť sublicenciu subjektom verejnej správy.
+e. Zhotoviteľ týmto Objednávateľovi udeľuje licenciu k poskytnutému Plneniu bezodplatne.
+Článok 15
+Komunikácia zmluvných strán
+1. Akékoľvek oznámenia druhej Zmluvnej strane, vyžadujú písomnú formu, budú doručené na adresu druhej
+Zmluvnej strany uvedenú v záhlaví Zmluvy, alebo touto Zmluvnou stranou po uzavretí Zmluvy na tento
+účel písomne oznámenú.
+2. Každá správa, súhlas, schválenie alebo rozhodnutie, ktoré sa požadujú na základe Zmluvy, sa vyhotovia,
+ak nie je stanovené inak, v písomnej podobe. Odosielateľ akejkoľvek písomnej správy môže požadovať
+písomné potvrdenie príjemcu.
+3. Každá komunikácia týkajúca sa platnosti alebo účinnosti Zmluvy, jej zániku či zmeny musí byť písomná a
+doručovaná výhradne poštou ako doporučená zásielka, kuriérom alebo osobne.
+4. Akákoľvek písomnosť doručovaná v súvislosti so Zmluvou sa považuje za doručenú druhej Zmluvnej
+strane v prípade doručovania prostredníctvom:
+a. faxu, okamihom vytlačenia potvrdenia o odoslaní faxovej správy z faxu použitého odosielateľom,
+ktoré potvrdí doručenie zasielanej písomnosti na číslo faxu príjemcu počas obvyklého
+pracovného času adresáta
+b. elektronickej pošty (e–mail) dňom, kedy Zmluvná strana, ktorá prijala e-mail od odosielajúcej
+Zmluvnej strany, potvrdila jeho prijatie odoslaním potvrdzujúceho e-mailu odosielajúcej Zmluvnej
+strane. Prijímajúca Zmluvná strana je povinná doručiť odosielajúcej Zmluvnej strane potvrdenie
+o prijatí e-mailu do 48 hodín, inak sa bude takýto email považovať za nedoručený. Pre potreby
+doručovania prostredníctvom elektronickej pošty (e–mail) sa použije adresa Zmluvnej strany ak
+príslušná Zmluvná strana neurčí inak
+c. pošty, kuriérom alebo v prípade osobné doručovania, doručením písomnosti adresátovi s tým,
+že v prípade doručovania prostredníctvom pošty musí byť písomnosť zaslaná doporučene s
+doručenkou preukazujúcou doručenie na adresu príslušnej Zmluvnej strany. V prípade
+doručovania inak ako poštou, je možné písomnosť doručovať aj na inom mieste ako na adrese
+príslušnej Zmluvnej strany, ak sa na tomto mieste Zmluvná strana v čase doručenia zdržuje. Za
+deň doručenia písomnosti sa považuje aj deň, v ktorý Zmluvná strana, ktorá je adresátom,
+odoprie doručovanú písomnosť prevziať, alebo tretí deň odo dňa uloženia zásielky na pošte,
+doručovanej poštou Zmluvnej strane, alebo v ktorý je na zásielke, doručovanej poštou Zmluvnej
+strane, preukázateľne zamestnancom pošty vyznačená poznámka, že „adresát sa odsťahoval“,
+„adresát je neznámy“ alebo iná poznámka podobného významu, ak sa súčasne takáto poznámka
+zakladá na pravde.
+5. Objednávateľ a Zhotoviteľ sa zaväzujú bezodkladne oznámiť druhej Zmluvnej strane akúkoľvek zmenu
+svojich kontaktných údajov uvedených v Zmluve.
+
+6. Jazyk Zmluvy a celej písomnej komunikácie medzi Objednávateľom a Zhotoviteľom, ako aj a tretími
+osobami v súvislosti so Zmluvou, je slovenský jazyk ak Zmluva vyslovene neuvádza, alebo Zmluvné strany
+nedohodnú inak.
+Článok 16
+Rozhodné právo, riešenie sporov
+1. Zmluvné strany sa dohodli, že Zmluva a právne vzťahy ňou založené a s nimi súvisiace sa budú spravovať
+právnym poriadkom Slovenskej republiky, predovšetkým zákonom č. 513/1991 Zb. Obchodný zákonník v
+znení neskorších predpisov.
+2. Všetky spory vzniknuté medzi Zmluvnými stranami v súvislosti s právami a povinnosťami Zmluvných strán
+zo Zmluvy alebo Zmluvou založenými, vrátane sporov o ich plnenie, či neplnenie, o platnosť, neplatnosť,
+účinnosť, neúčinnosť, výklad a určenie práv a povinností Zmluvných strán vyplývajúcich zo Zmluvy, bude
+rozhodovať vecne príslušný všeobecný súd v mieste sídla Objednávateľa, ak príslušné všeobecne
+záväzné právne predpisy týkajúce sa občianskeho súdneho konania neustanovujú kogentne inak.
+Článok 17
+Platnosť a účinnosť zmluvy
+1. Zmluva nadobúda platnosť dňom podpisu zmluvnými stranami a účinnosť dňom nasledujúcim po dni jej
+zverejnenia v súlade s platnými právnymi predpismi Slovenskej republiky. Podpísaním tejto Zmluvy dáva
+Zhotoviteľ výslovný súhlas s jej zverejnením, vrátane všetkých jej príloh a prípadných budúcich dodatkov.
+2. Zmluvné strany sú oprávnené odstúpiť od Zmluvy iba z dôvodov stanovených touto Zmluvou alebo
+zákonom.
+Článok 18
+Záverečné ustanovenia
+1. Túto Zmluvu možno meniť alebo dopĺňať iba formou písomných dodatkov k Zmluve podpísaných obidvomi
+zmluvnými stranami.
+2. Zmluvné vzťahy neupravené touto Zmluvou sa riadia príslušnými ustanoveniami všeobecne záväzných
+právnych predpisov platných v Slovenskej republike.
+3. V prípade sporného chápania tejto Zmluvy alebo neplnenia záväzkov oboch strán sa obidve zmluvné
+strany budú snažiť pred zahájením právnych krokov predovšetkým o zhodu v dobrom. Pokiaľ sa zmluvné
+strany nedohodnú zhodou v dobrom, budú sa snažiť dosiahnuť súdny zmier.
+4. Ak sa niektoré z ustanovení Zmluvy stane nevynútiteľným alebo neplatným podľa platných právnych
+predpisov, bude toto ustanovenie neúčinné len do tej miery, do akej je nevynútiteľné, či neplatné. Ďalšie
+ustanovenia Zmluvy zostávajú naďalej záväzné a v plnej platnosti a účinnosti. Pokiaľ nastane takáto
+situácia, zmluvné strany nahradia toto nevynútiteľné či neplatné ustanovenie iným ustanovením, ktoré sa
+mu svojim obsahom bude čo najviac približovať.
+5. Podmienky tejto Zmluvy, ktoré svojou povahou presahujú dobu jej platnosti, zostávajú v platnosti v celom
+rozsahu a sú účinné až do okamihu ich splnenia a platia aj pre prípadných nástupcov a postupníkov
+zmluvných strán.
+6. Jazykom, v ktorom bude vypracované Plnenie, a zároveň rokovacím jazykom je štátny jazyk Slovenskej
+republiky.
+7. Účastníci tejto Zmluvy po jej prečítaní vyhlasujú, že súhlasia s jej obsahom, že bola spísaná na základe
+pravdivých údajov, ich slobodnej vôle a nebola dohodnutá v tiesni ani za nevýhodných podmienok.
+
+8. Táto Zmluva je vyhotovená v štyroch rovnopisoch, z ktorých každá zmluvná strana obdrží dva rovnopisy.
+Všetky rovnopisy majú rovnakú platnosť a záväznosť.
+9. Neoddeliteľnou súčasťou tejto Zmluvy sú nasledovné prílohy:
+a. Príloha č. 1: Špecifikácia predmetu zmluvy a návrh na plnenie kritérií
+b. Príloha č. 2: Vzor akceptačného a preberacieho protokolu
+c. Príloha č. 3: Požiadavky odbornej spôsobilosti, ktoré musia mať experti Zhotoviteľa
+d. Príloha č. 4: Rozdelenie realizovaných činností a zodpovednosti medzi členov skupiny
+zhotoviteľov
+
+V ..................................... dňa
+
+Za Objednávateľa:
+Slovenská republika
+zastúpená Ministerstvom financií Slovenskej republiky
+
+..........................................................
+Ing. Albín Kotian
+generálny tajomník služobného úradu
+
+Za Zhotoviteľa:
+MIM, s.r.o.
+
+.............................................................
+Ing. Ján Staník, PhD., konateľ
+
+Fabrici Management Consulting,
+spol. s r.o.
+
+............................................................
+Michal Fabrici, konateľ
+
+Príloha č. 1 Zmluvy o dielo - Špecifikácia predmetu zmluvy a návrh na plnenie kritérií
+Špecifikácia predmetu zmluvy
+Zoznam skratiek
+Skratka / Pojem
+AKVS
+API
+BDA
+BES
+CI
+CMDB
+DB
+DPH
+EA
+EÚ
+EXIN
+GL
+HPSM
+IKT
+IS
+ISVS
+IT
+ITIL
+META IS
+MF SR
+MPA
+NKIVS
+NR SR
+OVM
+PA
+
+Popis
+Architektonická kancelária verejnej správy
+rozhranie pre programovanie aplikácií
+BiZZdesign Architect
+BiZZdesign Enterprise Studio
+Konfiguračná jednotka
+Configuration management database
+databáza
+Daň z pridanej hodnoty
+Enterprise architektúra
+Európska únia
+Examination Institute For Information Science
+Graphlytic
+Helwet Packard Solution manager
+Informačno komunikačné technológie
+Informačný systém
+Informačné systémy verejnej správy
+Informačné technológie
+Information Technology Infrastructure Library
+Metainformačný systém
+Ministerstvo financií Slovenskej republiky
+Manažment podnikovej architektúry
+Národná koncepcia informatizácie verejnej správy
+Národná rada Slovenskej republiky
+Orgán verejnej moci
+Podniková architektúra
+
+Všeobecné východiská
+Ministerstvo financií SR (MF SR) v súlade s Národnou koncepciou informačných systémov verejnej správy
+schválenou vládou SR dňa 28. 9. 2016, ktorá definovala nový systematický a koordinovaný prístup do riešenia
+problematiky informatizácie verejnej správy predovšetkým tým, že detailnejšie zadefinovala aj problematiku
+informatizácie riešení jednotlivých povinných osôb, centrálnych pravidiel, tak aby verejná správa poskytovala
+kvalitné služby nielen voči občanom a podnikateľom, ale i voči iným orgánom verejnej moci (ďalej len „OVM“), a to
+aj cezhranične a to podporením zavedenia strategickej architektúry verejnej správy ako nástroja pre systematické
+modelovanie, analyzovanie a komunikovanie architektúry informačných systémov verejnej správy, musí na úrovni
+architektov povinnej osoby a segmentových architektov zabezpečiť zber, tvorbu, definovanie a rozvoj enterprise a
+segmentovej architektúry rezortu Ministerstva financií SR a to i úrovni jednotlivých informačných systémov v rámci
+technologickej, aplikačnej a biznisovej vrstve.
+V rámci rezortu MF SR je evidencia komponentov v rámci systémov konfiguračného manažmentu dátovo
+decentralizovaná, pričom jednotlivé systémy konfiguračného manažmentu v rámci jednotlivých organizácii rezortu
+obsahujú o IKT komponentoch, rôzne informácie na úrovni základných atribútov konfiguračných jednotiek, ich
+vzájomných logických a fyzických väzbách a teda nie je možné zabezpečiť využívanie predmetných údajov na
+efektívne riadenie prevádzky IT služieb.
+
+Taktiež na úrovni grafického zobrazenia predmetných väzieb v rámci prevádzky absentuje centrálny nástroj, ktorý
+by tieto dáta vedel v efektívnej forme zobraziť, riadiť prístup k dátam pre jednotlivých používateľov alebo skupiny
+
+používateľov a vykonával analýzy vyplývajúce z operatívnej a strategickej agendy prevádzky IT systémov v rezorte
+MF SR.
+Cieľom implementácie manažmentu podnikovej architektúry je (ďalej len „MPA“) je implementácia a nasadenie
+automatizácie spracovania údajov podnikovej architektúry v rámci MF SR (možnosť ďalšieho rozšírenia na
+organizácie v priamej pôsobnosti MF SR podľa princípu „jeden krát a dosť“ vyplývajúceho z Národnej koncepcie
+informatizácie verejnej správy - NKIVS) s využitím už implementovaných technologických nástrojov
+nasadených vo verejnej správe – modul BDA/BES Meta IS a nástroja Graphlytic (ďalej len „GL“) používaného
+v rámci prevádzky IS riadenia verejných financií prevádzkovaných DataCentrom, v rámci ktorého je
+nevyhnutné:
+
+
+Zabezpečiť konzistentnosť a správnosť údajov o infraštruktúre Informačných technológií MF SR
+v repozitári MPA MF SR, prostredníctvom zadefinovania jednotných pravidiel pre CMDB na úrovni
+jednotlivých CI a ich atribútov a väzieb ako predpokladu pre efektívne riadenie prevádzky IS rezortu MF
+SR
+
+
+
+Podporiť efektívne riadenie Informačných a komunikačných technológií pomocou dostupnosti
+aktuálnych a správnych údajov o infraštruktúre informačných systémov v rámci MF SR,
+
+
+
+Vytvoriť súlad medzi zdrojovými informáciami o infraštruktúre MF SR a informáciami poskytnutými do
+repozitára MetaIS,
+
+Riešenie musí spĺňať nasledovné požiadavky:
+Vytvoriť MPA MF SR čo najviac automatizovaným spôsobom (no so zachovaním rozhodnutia na samotnom
+architektovi, či vytvorenie/zmena/odstránenie konfiguračnej položky resp. vzťahu nezmení vnímanie pohľadu
+architekta na samotný model), pričom bude využívaný import údajov zo systému HPSM (CMDB HP Solution
+managera) do aplikácie Graphlytic a následne projekciou do repozitára BDA/BES (lokálny repozitár MFSR).
+Navrhované riešenie bude zobrazovať rozdielovú analýzu („gap“ analýzu) voči BDA/BES.
+
+Automatizovaný zber údajov z CMDB bude slúžiť, na základe definovanej jednoznačnej metodiky vytvárania
+jednotlivých konfiguračných prvkov pre účely zabezpečenia využívanie predmetných údajov, na efektívne
+riadenie prevádzky IT služieb ako i poskytovania dát do META IS.
+Popis jednotlivých konfiguračných prvkov musí obsahovať prinajmenej:
+-
+
+Informácie o detailných konfiguračných hodnotách charakterizujúcich jednotlivé konfiguračné prvky
+
+-
+
+Definíciu vzťahov, väzieb a závislostí konfiguračných prvkov medzi sebou
+
+-
+
+SLA parametre pre jednotlivé konfiguračné prvky
+
+Zabezpečiť, aby akákoľvek zmena na úrovni IT infraštruktúry bola efektívne (správne a včas) premietnutá do
+repozitára PA bez toho, aby vznikalo vysoké riziko neplatnosti a nesprávnosti údajov. Dobre navrhnutá CMDB
+môže zároveň slúžiť aj ako repozitár nielen pre solution architektúru (architektúra riešení), ale aj pre
+segmentovú architektúru a enterprise architektúru.
+Automatizovaný zber údajov z CMDB, spracovanie týchto údajov do repozitára PA, predpokladá zavedenie a
+nastavenie metodiky popisujúcej pravidlá transformácie IT komponentov z CMDB na objekty v PA modelované
+v jazyku ArchiMate 3.0., ktorá bude následne odladená a implementovaná v rámci riešenia.
+Riešenie musí umožniť:
+-
+
+Zavedenie efektívneho kontrolného mechanizmu nad konfiguračnými prvkami IT služieb rezortu
+
+-
+
+Zabezpečenie prehľadu o kľúčových konfiguračných prvkoch IT služieb
+
+-
+
+Zabezpečenie vizuálnej kontroly a závislostí medzi konfiguračnými prvkami IKT
+
+-
+
+Zabezpečenie identifikácie nekonzistencie štruktúry konfiguračných prvkov IKT
+
+-
+
+Sledovanie histórie a zmien údajov.
+
+1.
+
+Požadované činnosti zhotoviteľa
+
+1.1.
+
+Realizované činnosti
+
+V rámci dodávky objednávateľ požaduje vykonanie aktivít (so súvisiacimi výstupmi):
+ Analýzy definovaných ISVS zaradených do projektu v súlade s požiadavkami AKVS
+o Analýza a hodnotenie Solution Architektúry (architektúry riešenia) v nasledovných častiach:
+ Architektonický model riešenia infraštruktúry – klient/server, troj-vrstvová architektúra,
+charakteristika klienta,
+ Infraštruktúra – operačný systém, prevádzkový model (cluster/node, failover, single
+site),
+ Dáta – spôsob uloženia údajov (databáza), technológia pripojenia DB na aplikačnú
+úroveň,
+ Aplikačná vrstva – spôsob implementácie funkčnosti a business logiky, aplikačný
+server (pokiaľ je využitý),
+ Prezentačná úroveň – tenký / tučný klient, implementačná technológia klienta
+ Integrácia – prepojenie klienta na Business logiku, prepojenie Business logiky na
+okolité systémy, publikované API
+
+
+Analýzy výstupov GL po spracovaní údajov s CMDB,
+o Identifikovaná forma uloženia a obsahu údajov v CMDB a ich mapovanie na výstupy v GL,
+o Identifikované vzory mapovania medzi CMDB a GL,
+
+
+
+Definovania metodiky mapovania konfiguračných jednotiek z CMBD do Archimate 3.0
+o Definovaný jednoznačný prechod medzi modelmi CMDB, GL a ArchiMate 3.0,
+o Rozšírené vzory mapovania z CMDB na GL o transformáciu GL na ArchiMate 3.0 s verifikáciou
+pôvodného vzoru mapovania (kontrola výsledku voči reálnemu stavu v CMDB),
+o Definované a sumarizované požiadavky na úpravu uchovávania údajov v CMDB (charakteristické
+atribúty konfiguračných položiek) podľa potrieb zistených pri transformácií modelv (CMDB -> GL ->
+ArchiMate
+3.0)
+
+
+
+Zberu požiadaviek gestorov na definovanie a uchovávanie údajov jednotlivých objektov na jednotlivých
+vrstvách EA v BDA
+o Identifikované používané objekty pri modelovaní EA v BDA,
+o Pripravený zoznam best-practice evidovaných údajov ku jednotlivým typom objektov,
+o Zozbierané požiadavky na evidenciu údajov od gestorov porovnaných voči best-practice,
+o Vytvorený model evidovaných údajov ku jednotlivým objektom EA v BDA.
+
+
+
+Modifikácie metamodelu v BDA a vytvorenie nových profilov
+o Návrh realizácie úpravy metamodelu na základe vytvoreného modelu evidovaných údajov
+k objektom,
+o Upravený metamodel na základe definovaného návrhu reflektujúceho požadovanú evidenciu údajov,
+
+
+
+Vytvorenia procesného a softvérového modelu riešenia pre načítanie a spracovanie údajov z CMBD do BDA
+a jeho implementácia a otestovanie
+o Upravená konfigurácia GL pre potreby riešenia,
+o Implementácia úprav GL modelovacích vzorov pre účely iniciálneho manuálneho zadávania vstupov
+pre nové komponenty,
+o Implementované a odladené riešenie automatizovaného spracovania údajov CMDB -> GL
+-> ArchiMate 3.0 podľa pripravenej metodiky pre technologickú úroveň
+
+
+
+Doplnenie modelu EA o objekty a väzby na aplikačnej vrstve podľa požiadaviek gestorov definujúcich
+objekty na aplikačnej vrstve
+o Upravený model EA v BDA doplnený (rozšírený) o objekty a väzby Aplikačnej úrovne, ktoré nie sú
+súčasťou transformácie CMDB -> GL-> ArchiMate 3.0 a boli pripravené na základe analýzy
+Architektúry riešení
+
+o
+
+
+Doplnené údaje pre objekty na aplikačnej úrovni, ktoré boli manuálne namodelované.
+
+Príprava požadovaných výstupov pre riadenie PA a META IS
+o Definované požadované výstupy z BDA pre podporu riadenia PA a funkčnosti MetaIS
+o Návrh realizácie požadovaných výstupov,
+o Implementované a odladené požadované výstupy.
+
+V rámci zachovania konzistentnosti a správnosti údajov o IT infraštruktúre MF SR v súlade
+s požiadavkami AKVS je nutné využiť nižšie uvedené entity, ktoré v prípade potreby vyplývajúcej
+z požiadaviek gestorov môžu byť rozšírené.
+Tabuľka entít CMDB a položiek v nástroji na modelovanie architektúry
+Entita v CMDB
+Aplikačná Služba
+Informačný Systém Verejnej Správy
+Modul informačného systému verejnej správy
+Koncová služba
+Životná Situácia
+Projekt
+Program
+Proces
+Agenda
+Úsek Verejnej správy
+Povinná osoba
+Kanál
+Infraštruktúrna služba
+Platforma
+Výpočtový zdroj
+Sieťový prvok
+Špeciálna technológia
+Zálohovacie zariadenie
+Úložisko
+Systémový softvér
+Miesto prevádzky
+
+Objekty BDA/BES podľa notácie Archimate 3.0
+
+Položka v nástroji na modelovanie architektúry
+Application service
+Application component
+Application component
+Business service
+Business service
+Workpackage
+Workpackage
+Business process
+Business function
+Business function
+Business actor
+Business interface
+Infrastructure service
+Node
+Node
+Node
+Node
+Node
+Node
+System software
+Business location
+
+1.2.
+
+Etapizácia projektu
+
+
+
+
+
+
+
+Účinnosť zmluvy – T
+Metodika mapovania objektov medzi bázou metaúdajov (CMDB - configuration management database)
+a nástrojom pre modelovanie architektúry (BDA - BizzDesign Architect/BES - BizzDesign Enterprise
+Studio) – T+ 3 mesiace
+Úprava Metamodelu BDA/BES – T+4 mesiace
+Automatizácia transformácie údajov z CMDB do BDA/BES – T+6 mesiacov
+Doplnenie modelu architektúry v BDA/BES o aplikačnú vrstvu – T+7 mesiacov
+Príprava požadovaných výstupov pre riadenie podnikovej architektúry (ďalej len „PA“) a pre napĺňanie
+do METAIS - T+9 mesiacov
+
+2.
+2.1.
+
+Požiadavky
+Všeobecné požiadavky
+
+Vytvorenie metodiky mapovania konfiguračných jednotiek z CMBD do Archimate 3.0 popisujúcej pravidlá
+vytvárania a transformácie konfiguračných položiek - IT komponentov z CMBD na objekty v rámci prevádzkovej
+architektúry modelované v jazyku ArchiMate 3.0. Metodika musí jasne definovať predmet transformácie ako aj
+procesy a pravidlá aplikovateľné pre jednotlivé prípady fyzického IT prostredia, zabezpečiť jednoznačnosť
+premeny IT komponentov na architektonické objekty identického druhu a rovnako musí vylúčiť transformačné
+omyly vedúce k nejednoznačnosti IT architektúry.
+Zabezpečenie požiadaviek vyplývajúcich z Národnej koncepcie informatizácie verejnej správy pre dosiahnutie
+strategických zámerov budovania eGovermentu v rámci zabezpečenia dostupnosti relevantných a presných
+údajov o jednotlivých metaúdajoch potrebných pre podporu rozhodovania pri riadení budovania a výkonu
+eGovermentu. Predmetné požiadavky budú zabezpečené prostredníctvom vytvorenia importu do systému META
+IS zo systému manažmentu podnikovej architektúry na úrovni konfiguračných položiek, katalógu služieb ako
+i manažmentu kapacít.
+
+2.2.
+
+Legislatívne požiadavky
+
+Právny rámec pre vytvorenie MPA tvoria najmä nasledujúce zákony SR:
+ Zákon 570 z 1. decembra 2009,ktorým sa mení a dopĺňa zákon č. 275/2006 Z. z. o informačných
+systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a o
+zmene a doplnení niektorých zákonov.
+ Zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a
+doplnení niektorých zákonov (zákon o e-Governmente)
+ Národná koncepcia informatizácie verejnej správy
+ Výnos o štandardoch pre ISVS č.1347/2015 Z.z. z 8.júna 2015
+2.3.
+
+Funkčné požiadavky
+a) Automatické načítavanie konfiguračných prvkov z konfiguračnej databázy do aplikácie
+Graphlytic podľa schválenej metodiky mapovania konfiguračných jednotiek z CMBD
+do Archimate 3.0
+b) Implementované načítavanie a transformácia údajov z aplikácie Graphlytic do
+Business Design Architekta podľa schválenej metodiky mapovania konfiguračných
+jednotiek z CMBD do Archimate 3.0
+c) Implementovaný reporting nad Business Design Architect repozitárom na úrovni
+výstupov z BDA pre podporu riadenia PA a funkčnosti MetaIS
+d) Automatizované poskytovanie údajov na základe požiadaviek vyplývajúcich zo zberu
+IKT analýz ako i ostatných požiadaviek na vypĺňanie META IS
+
+2.4.
+
+Technologické požiadavky
+
+Realizácia požadovaného riešenia zahŕňa prepoužitie vizualizačného softvérového nástroja Graphlitic, BizzDesign
+Architecta ako i využívanie konfiguračných dát udržiavaných v rámci systémov konfiguračného manažmentu
+v rámci jednotlivých organizácii rezortu MF SR.
+
+2.5.
+
+Prevádzkové požiadavky
+
+Metodika mapovania konfiguračných jednotiek z CMDB do ArchiMate 3.0 musí zabezpečiť nastavenie procesov
+tak aby bola zabezpečená kvalita a správnosť evidovaných údajov o konfiguračných jednotkách v požadovanom
+rozsahu podľa metodiky, s definíciou jednotlivých rolí, ktoré budú zodpovedné za ich udržiavanie po nasadení do
+produkcie.
+CMDB musí zabezpečiť jednoznačné informácie o konfiguračných položkách na úrovni infraštruktúrnych
+a aplikačných komponentov a musí byť jednoducho udržiavateľná na základe procesov nastavených v metodike
+mapovania konfiguračných položiek z CMDB do ArchMate 3.0.
+Využitie obsahu CMDB pre potreby budovania architektúry rezortu MF SR prostredníctvom transformácie
+technických údajov na architektonický pohľad zabezpečujúci ich využitie pre vytvorenie strategického pohľadu.
+Používateľské a administrátorské príručky v členení podľa jednotlivých rolí definovaných v rámci metodiky
+mapovania konfiguračných jednotiek z CMDB do ArchiMate 3.0 ako i softvérového riešenia.
+2.6.
+
+Ostatné požiadavky
+
+V rámci projektu sú požadované nasledovné výstupy
+ Detailná funkčná špecifikácia,
+ návrh akceptačných testov,
+ nasadenie riešenia,
+ používateľské a administrátorské príručky,
+ zdrojové kódy so schémou a popisom dátového modelu,
+ výsledky testovania, vyhodnotenie súladu so štandardami.
+
+Návrh na plnenie kritérií.
+Názov aktivity projektu/
+čiastkové míľniky plnenia zákazky
+
+Cena za
+aktivitu v EUR
+bez DPH
+
+Výška DPH
+v EUR
+
+Cena za aktivitu
+v EUR s DPH
+
+(b)
+
+Aktuálne
+platná
+sadzba
+DPH v SR
+v%
+(c)
+
+(a)
+1. Metodika mapovania objektov medzi
+bázou metaúdajov (CMDB configuration management database) a
+nástrojom pre modelovanie
+architektúry (BDA - BizzDesign
+Architect/BES - BizzDesign Enterprise
+Studio)
+
+(d)
+
+(e)
+
+74 340,00
+
+20
+
+14 868,00
+
+89 208,00
+
+2. Úprava Metamodelu BDA/BES
+
+53 690,00
+
+20
+
+10 738,00
+
+64 428,00
+
+3. Automatizácia transformácie údajov
+z CMDB do BDA/BES
+
+106 790,00
+
+20
+
+21 358,00
+
+128 148,00
+
+4. Doplnenie modelu architektúry
+v BDA/BES o aplikačnú vrstvu
+
+35 400,00
+
+20
+
+7 080,00
+
+42 480,00
+
+40 120,00
+
+20
+
+8 024,00
+
+48 144,00
+
+310 340,00
+
+20
+
+62 068,00
+
+372 408,00
+
+5. Príprava požadovaných výstupov pre
+riadenie podnikovej architektúry („PA“)
+a pre napĺňanie do METAIS
+Celková cena za celý predmet zákazky
+v EUR
+
+Príloha č.2 Zmluvy o dielo - Vzor akceptačného a preberacieho protokolu
+
+Akceptačný protokol č.
+Dodávateľ:
+Objednávateľ:
+
+Ministerstvo financií SR, Štefanovičová 5, 811 02 Bratislava
+
+Zmluva:
+Dátum:
+
+Číslo Predmet odovzdania/prebrania
+
+Dátum
+Dátum
+Množstvo Jednotka
+odovzdania prebratia
+
+Vyhodnotenie objednávateľa:
+
+So znením akceptačného protokolu súhlasí:
+
+za objednávateľa:
+
+za dodávateľa:
+
+Preberací protokol
+
+Odovzdávajúci:
+
+Preberajúci:
+Ministerstvo financií Slovenskej republiky
+Štefanovičova 5
+817 82 Bratislava
+IČO: 00151742
+IČ DPH: SK2020798351
+
+Predmet prevzatia
+Popis plnenia
+
+Dátum prebratia:
+
+.............................................
+odovzdávajúci
+
+.....................................
+preberajúci
+
+Príloha č. 3 Zmluvy o dielo - Požiadavky odbornej spôsobilosti, ktoré musia mať experti Zhotoviteľa
+(v zmysle dokumentácie z verejného obstarávania)
+
+Kľúčový expert č. 1 Projektový manažér
+a) minimálne 5-ročné praktické skúsenosti (odborná prax) v oblasti projektového riadenia IT projektov; túto
+podmienku účasti uchádzač preukáže profesijným životopisom alebo ekvivalentným dokladom;
+b) minimálne 2 (dve) praktické skúsenosti (odborná prax) s realizáciou projektov/zmlúv v pozícii projektového
+manažéra v oblasti IT, s aplikovaním metodiky riadenia IPMA, PRINCE2 alebo ekvivalentnej, pričom minimálne
+jeden z týchto projektov bol zameraný na poskytovanie elektronických služieb klientom, túto podmienku účasti
+uchádzač preukáže profesijným životopisom alebo ekvivalentným dokladom;
+c) platný certifikát projektového manažmentu IPMA minimálne úrovne „B“ s PRINCE 2 Foundation alebo platný
+certifikát PRINCE 2 „Practitioner“. Túto podmienku účasti uchádzač preukáže prostredníctvom kópie platného
+certifikátu.
+Kľúčový expert č. 2 Expert pre oblasť procesnej analýzy a modelovania informačných systémov
+a) minimálne 5-ročné skúsenosti v oblasti procesnej analýzy a modelovania informačných systémov; túto
+podmienku účasti uchádzač preukáže profesijným životopisom alebo ekvivalentným dokladom,
+b) minimálne 3 (tri) profesionálne praktické skúsenosti v oblasti procesnej analýzy a modelovania informačných
+systémov; túto podmienku účasti uchádzač u kľúčového experta preukáže prostredníctvom vyššie uvedeného
+zoznamu kľúčového experta alebo ekvivalentným dokladom;
+c) platný certifikát s minimálnou úrovňou TOGAF Certified alebo ekvivalent; túto podmienku účasti uchádzač
+preukáže prostredníctvom kópie platného certifikátu;
+d) Platný certifikát s úrovňou ArchiMate 2 alebo ekvivalent, túto podmienku účasti uchádzač preukáže
+prostredníctvom kópie platného certifikátu.
+Kľúčový expert č. 3 Expert pre riadenie IT procesov
+a) minimálne 5-ročné skúsenosti s vypracovaním návrhov riešení informačných systémov; túto podmienku účasti
+uchádzač preukáže profesijným životopisom alebo ekvivalentným dokladom;
+b) minimálne 2 (dve) profesionálne praktické skúsenosti v pozícii experta pre riadenie IT procesov; túto podmienku
+účasti uchádzač u kľúčového experta preukáže prostredníctvom vyššie uvedeného zoznamu kľúčového experta
+alebo ekvivalentným dokladom;
+c) minimálne 1 platný certifikát /doklad o vykonaní skúšky v oblasti riadenia a správy služieb informačných a
+komunikačných technológií ITIL (Information Technology Infrastructure Library) podľa EXIN (Examination
+Institute For Information Science) minimálne v úrovni ITIL Expert in IT Service Management; alebo ekvivalent
+daného certifikátu od inej akreditovanej autority, túto podmienku účasti uchádzač u kľúčového experta preukáže
+prostredníctvom kópie platného certifikátu.
+Kľúčový expert č. 4 Expert pre oblasť analýzy grafových databáz
+a) minimálne 5-ročné skúsenosti s vypracovaním návrhov riešení v oblasti znalosti teórie grafov a analýzy
+grafových štruktúr; túto podmienku účasti uchádzač preukáže profesijným životopisom alebo ekvivalentným
+dokladom;
+b) minimálne 1 (jedna) profesionálna praktická skúsenosť v oblasti práce so systémom pokrývajúcim oblasť teórie
+grafov a analýzy grafových štruktúr v pozícii business inteligence experta; túto podmienku účasti uchádzač u
+kľúčového experta preukáže prostredníctvom vyššie uvedeného zoznamu kľúčového experta alebo
+ekvivalentným dokladom;
+c) doklad o absolvovaní školenia v predmetnej oblasti, túto podmienku účasti uchádzač u kľúčového experta
+preukáže prostredníctvom kópie platného dokladu.
+
+Príloha č. 4 Zmluvy o dielo - Rozdelenie realizovaných činností a zodpovednosti medzi členov skupiny
+zhotoviteľov
+a) Realizované činnosti a zodpovednosti zhotoviteľa 1 – MIM, s.r.o.
+
+
+
+
+Analýzy definovaných ISVS zaradených do projektu v súlade s požiadavkami AKVS
+o Analýza a hodnotenie Solution Architektúry (architektúry riešenia) v nasledovných
+častiach:
+
+-
+
+Infraštruktúra – operačný systém, prevádzkový model (cluster/node, failover,
+single site),
+
+-
+
+Dáta – spôsob uloženia údajov (databáza), technológia pripojenia DB na
+aplikačnú úroveň,
+
+Identifikované vzory mapovania medzi CMDB a GL,
+
+Definovania metodiky mapovania konfiguračných jednotiek z CMBD do Archimate 3.0
+o Rozšírené vzory mapovania z CMDB na GL o transformáciu GL na ArchiMate 3.0 s
+verifikáciou pôvodného vzoru mapovania (kontrola výsledku voči reálnemu stavu v
+CMDB),
+o
+
+
+
+Architektonický model riešenia infraštruktúry – klient/server, troj-vrstvová
+architektúra, charakteristika klienta,
+
+Analýzy výstupov GL po spracovaní údajov s CMDB,
+o Identifikovaná forma uloženia a obsahu údajov v CMDB a ich mapovanie na výstupy v
+GL,
+o
+
+
+
+-
+
+Definované a sumarizované požiadavky na úpravu uchovávania údajov v CMDB
+(charakteristické atribúty konfiguračných položiek) podľa potrieb zistených pri
+transformácií modelv (CMDB -> GL -> ArchiMate 3.0)
+
+Vytvorenia procesného a softvérového modelu riešenia pre načítanie a spracovanie údajov z
+CMBD do BDA a jeho implementácia a otestovanie
+o Upravená konfigurácia GL pre potreby riešenia,
+o
+
+Implementácia úprav GL modelovacích vzorov pre účely iniciálneho manuálneho
+zadávania vstupov pre nové komponenty,
+
+b) Realizované činnosti a zodpovednosti zhotoviteľa 2 – Fabrici Management Consulting, spol.
+s r.o
+
+
+Analýzy definovaných ISVS zaradených do projektu v súlade s požiadavkami AKVS
+o Analýza a hodnotenie Solution Architektúry (architektúry riešenia) v nasledovných
+častiach:
+
+-
+
+Aplikačná vrstva – spôsob implementácie funkčnosti a business logiky,
+aplikačný server (pokiaľ je využitý),
+
+-
+
+Prezentačná úroveň – tenký / tučný klient, implementačná technológia klienta
+
+-
+
+Integrácia – prepojenie klienta na Business logiku, prepojenie Business logiky
+na okolité systémy, publikované API
+
+
+
+Definovania metodiky mapovania konfiguračných jednotiek z CMBD do Archimate 3.0
+o Definovaný jednoznačný prechod medzi modelmi CMDB, GL a ArchiMate 3.0,
+
+
+
+Zberu požiadaviek gestorov na definovanie a uchovávanie údajov jednotlivých objektov na
+jednotlivých vrstvách EA v BDA
+o Identifikované používané objekty pri modelovaní EA v BDA,
+o
+
+Pripravený zoznam best-practice evidovaných údajov ku jednotlivým typom objektov,
+
+
+
+o
+
+Zozbierané požiadavky na evidenciu údajov od gestorov porovnaných voči best-practice,
+
+o
+
+Vytvorený model evidovaných údajov ku jednotlivým objektom EA v BDA.
+
+Modifikácie metamodelu v BDA a vytvorenie nových profilov
+o Návrh realizácie úpravy metamodelu na základe vytvoreného modelu evidovaných
+údajov k objektom,
+o
+
+Upravený metamodel na základe definovaného návrhu reflektujúceho požadovanú
+evidenciu údajov,
+
+
+
+Vytvorenia procesného a softvérového modelu riešenia pre načítanie a spracovanie údajov z
+CMBD do BDA a jeho implementácia a otestovanie
+o Implementované a odladené riešenie automatizovaného spracovania údajov CMDB ->
+GL -> ArchiMate 3.0 podľa pripravenej metodiky pre technologickú úroveň
+
+
+
+Doplnenie modelu EA o objekty a väzby na aplikačnej vrstve podľa požiadaviek gestorov
+definujúcich objekty na aplikačnej vrstve
+o Upravený model EA v BDA doplnený (rozšírený) o objekty a väzby Aplikačnej úrovne,
+ktoré nie sú súčasťou transformácie CMDB -> GL-> ArchiMate 3.0 a boli pripravené na
+základe analýzy Architektúry riešení
+o
+
+
+
+Doplnené údaje pre objekty na aplikačnej úrovni, ktoré boli manuálne namodelované.
+
+Príprava požadovaných výstupov pre riadenie PA a META IS
+o Definované požadované výstupy z BDA pre podporu riadenia PA a funkčnosti MetaIS
+o
+
+Návrh realizácie požadovaných výstupov,
+
+o
+
+Implementované a odladené požadované výstupy
+
+

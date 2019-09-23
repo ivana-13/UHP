@@ -1,0 +1,1136 @@
+51833-7/2017-BA
+
+Zmluva o poskytovaní služieb
+pri podpore, údržbe /upgrade/ a funkčnosti WWW stránky
+uzatvorená podľa § 269 ods. 2 Obchodného zákonníka
+a podľa zákona č.185/2015 Z. z. Autorský zákon
+
+Čl. I
+Zmluvné strany
+Objednávateľ:
+Obchodné meno:
+
+Sociálna poisťovňa
+
+Sídlo:
+
+Ul. 29. augusta 8 a 10, 813 63 Bratislava
+
+Štatutárny orgán:
+
+Ing. Ľubomír Vážny
+generálny riaditeľ Sociálnej poisťovne
+
+IČO:
+
+30807484
+
+DIČ:
+
+2020592332
+
+Bankové spojenie:
+
+Štátna pokladnica
+
+IBAN:
+
+SK40 8180 0000 0070 0016 4314
+
+SWIFT:
+
+SPSRSKBA
+
+(ďalej len „objednávateľ“)
+Poskytovateľ:
+Obchodné meno:
+
+TEMPEST, A.S.
+
+Sídlo:
+
+Galvaniho 17/B, 821 04 Bratislava
+
+Právna forma:
+
+Akciová spoločnost
+
+IČO:
+
+31326650
+
+DIČ:
+
+2020327716
+
+IČ DPH:
+
+SK2020327716
+
+Zapísaný v registri:
+
+Obchodný register vedený Okresným súdom
+Bratislava I
+Oddiel Sa, vložka .3771/B
+
+V zastúpení:
+
+Ing. Roman Kriško, člen predstavenstva
+
+Bankové spojenie:
+
+Tatra banka
+
+IBAN:
+
+SK13 1100 0000 0026 2004 1080
+
+SWIFT:
+
+TATR SK BX
+
+(ďalej len „poskytovateľ“)
+1
+
+51833-7/2017-BA
+Východiskovým podkladom na uzatvorenie tejto zmluvy o poskytovaní služieb pri podpore, údržbe
+/upgrade/ a funkčnosti WWW stránky Sociálnej poisťovne www.socpoist.sk podľa § 269 ods. 2
+Obchodného zákonníka a podľa zákona č. 185/2015 Z. z. Autorský zákon (ďalej len „zmluva“) je
+ponuka poskytovateľa zo dňa 26.9.2017, ktorá bola predložená objednávateľovi pri zadávaní zákazky
+s nízkou hodnotou podľa § 117 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov (ďalej len „zákon o verejnom obstarávaní“).
+Čl. II
+Predmet zmluvy
+1.
+
+Poskytovateľ sa zaväzuje, že objednávateľovi bude pri podpore, údržbe /upgrade/ a funkčnosti
+WWW stránky Sociálnej poisťovne www.socpoist.sk, poskytovať tieto služby:
+a) služby súvisiace s migráciou redakčného systému na 64-bitový systém v rozsahu:
+ Apache webserver a jeho nastavenia
+ Nastavenia PHP
+ Nastavenia databázy
+ Sieťové nastavenia
+ Nastavenia vysokej dostupnosti – Heartbeat
+ Monitorovací systém Nagios
+ Užívateľské účty a ich domovské priečinky
+ Cron nastavenia a skripty
+ Zálohovacie skripty
+ Webalizer štatistiky webových prístupov
+b) služby súvisiace s patchovaním redakčného systému na PHP 5.4:
+ aktuálna verzia PHP je 5.3.3,
+ odstránenie zastaraných a nepodporovaných funkcií a nahradenie ich ekvivalentami,
+napr.: session_register, session_unregister, register_globals, ereg,
+mysqli_bind_param(), call time pass by references, …
+ patchovanie bude prebiehať na test prostredí
+ testovanie funkčnosti opatchovaneho systému (frontend + backend)
+ nasadenie na produkčný server
+c)
+
+služby súvisiace s úpravami a zmenami www.socpoist.sk a funkčnosti v aplikáciách na
+automatizáciu činností spojených s prevádzkou a správou redakčného systému,
+
+d)
+
+služby súvisiace s neidentifikovanými potrebami objednávateľa nad rámec bodu c)
+(legislatívne požiadavky, …).
+
+Podrobné určenie rozsahu, kvality a spôsobu poskytovania služieb je uvedené v prílohe č. 1 k tejto
+zmluve.
+2.
+
+Objednávateľ sa zaväzuje poskytnúť dohodnutú alebo
+poskytovateľovi za poskytované služby dohodnutú cenu.
+
+potrebnú
+
+súčinnosť
+
+a
+
+uhradiť
+
+Čl. III
+Miesto a termín plnenia
+1. Miestom plnenia predmetu zmluvy je Sociálna poisťovňa, ústredie, Ul. 29. augusta 8 a 10,
+813 63 Bratislava.
+2. Poskytovateľ vykoná služby súvisiace s migráciou redakčného systému na 64-bitový systém podľa
+čl. II bod 1 písm. a) v termíne do 4 týždňov od nadobudnutia účinnosti tejto zmluvy.
+3. Poskytovateľ vykoná služby súvisiace služby súvisiace s patchovaním redakčného systému na
+PHP 5.4 podľa čl. II bod 1 písm. b) v termíne do 6 týždňov od nadobudnutia účinnosti tejto zmluvy.
+2
+
+51833-7/2017-BA
+4. Poskytovateľ bude poskytovať služby súvisiace s úpravami a zmenami www.socpoist.sk podľa čl. II
+bod 1 písm. c) a d) počas platnosti a účinnosti zmluvy na základe písomnej požiadavky
+objednávateľa.
+Čl. IV
+Cena za predmet zmluvy a spôsob jej platenia
+1. Cena za predmet zmluvy je stanovená dohodou zmluvných strán podľa zákona Národnej rady
+
+Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov a vyhlášky
+Ministerstva financií Slovenskej republiky č. 87/1996 Z. z., ktorou sa vykonáva zákon Národnej rady
+Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov. Cenová kalkulácia
+predmetu zmluvy je uvedená v prílohe č. 2 k zmluve.
+Celková cena za predmet zmluvy je dohodnutá zmluvnými stranami vo výške:
+Celková cena bez DPH
+
+48.440,- EUR
+
+Sadzba DPH (20%)
+
+9.688,- EUR
+
+Celková cena s DPH
+
+58.128,- EUR
+
+(slovom: päťdesiatosemtisícjednostodvadsaťosem eur s DPH).
+Ak uchádzač je platcom DPH uvedie celkovú cenu za predmet zmluvy a ceny za jednotlivé plnenia
+s DPH.
+Ak uchádzač nie je platcom DPH uvedie celkovú cenu za predmet zmluvy a ceny za jednotlivé
+plnenia bez DPH a na skutočnosť, že nie je platiteľom DPH upozorní v ponuke.
+V prípade, ak poskytovateľ nie je platiteľom DPH a počas plnenia zmluvy sa poskytovateľ stane
+platiteľom DPH, táto skutočnosť nie je dôvodom na zmenu dohodnutej celkovej ceny za predmet
+zmluvy a cien za jednotlivé plnenia a nezvyšujú sa o príslušnú sadzbu DPH.
+2. Objednávateľ sa zaväzuje, že za realizáciu služieb súvisiacich s migráciou redakčného systému na
+64-bitový systém podľa čl. II bodu 1 písm. a) zmluvy uhradí poskytovateľovi jednorazovo zmluvne
+dohodnutú cenu:
+cena bez DPH
+
+9.790,- EUR
+
+20 % DPH
+
+1.958,- EUR
+
+cena s DPH je
+
+11.748,- EUR
+
+(slovom: jedenásťtisícsedemstoštyridsaťosem eur s DPH).
+3. Objednávateľ sa zaväzuje, že za realizáciu služieb súvisiacich s patchovaním redakčného systému
+na PHP 5.4 podľa čl. II bodu 1 písm. b) zmluvy uhradí poskytovateľovi jednorazovo zmluvne
+dohodnutú cenu:
+cena bez DPH
+20 % DPH
+cena s DPH je
+
+11.050,- EUR
+2.210,- EUR
+13.260,- EUR
+
+(slovom: trinásťtisícdvestošesťdesiat eur s DPH).
+
+3
+
+51833-7/2017-BA
+4. Cena za poskytovanie služieb súvisiacich s úpravami a zmenami podľa čl. II bodu 1 písm. c) a d)
+zmluvy je dohodnutá ako súčin sadzby uvedenej v tomto bode za človekohodinu výkonu
+príslušných služieb a skutočného počtu vykonaných človekohodín podľa potvrdených
+akceptačných protokolov.
+Cena za 1 človekohodinu výkonu služieb:
+cena bez DPH
+
+69,- EUR
+
+20 % DPH
+
+13,80 EUR
+
+cena s DPH je
+
+82,80 EUR
+
+(slovom: osemdesiatdva eur a osemdesiat centov s DPH).
+5.
+
+Cena dohodnutá v bodoch 2, 3 a 4 tohto článku zmluvy za plnenia podľa čl. II bodu 1 tejto zmluvy
+obsahuje všetky náklady poskytovateľa súvisiace s poskytovaním predmetu zmluvy. V cene
+predmetu zmluvy sú započítané všetky náklady poskytovateľa spojené s plnením predmetu zmluvy
+podľa požiadaviek objednávateľa, ktoré sú uvedené v tejto zmluve. V dohodnutej zmluvnej cene sú
+obsiahnuté aj všetky zľavy, dane, clá, poplatky, platby vyberané v rámci uplatňovania
+nesadzobných opatrení ustanovené osobitnými predpismi, ako aj iné náklady súvisiace
+s poskytovaním predmetu zmluvy.
+
+6.
+
+Objednávateľ uhradí cenu za vykonanie služieb súvisiacich s migráciou redakčného systému na
+64-bitový systém dohodnutú v bode 2 tohto článku zmluvy za plnenia uvedené v čl. II v bode 1
+písm. a) zmluvy na základe faktúry vystavenej poskytovateľom, do desiatich (10) dní od prevzatia
+služieb súvisiacich s migráciou redakčného systému na 64-bitový systém vrátane nasadenia do
+prevádzky. Prílohou faktúry bude Protokol o prevzatí vykonaných služieb vrátane nasadenia do
+prevádzky podpísaný za objednávateľa riaditeľom odboru riadenia prevádzky a služieb IS
+a oprávneným zástupcom poskytovateľa.
+
+7.
+
+Objednávateľ uhradí cenu za vykonanie služieb súvisiacich s patchovaním redakčného systému
+na PHP 5.4 dohodnutú v bode 3 tohto článku zmluvy za plnenia uvedené v čl. II v bode 1 písm. b)
+zmluvy na základe faktúry vystavenej poskytovateľom, do desiatich (10) dní od prevzatia služieb
+súvisiacich s patchovaním redakčného systému na PHP 5.4 vrátane nasadenia do prevádzky.
+Prílohou faktúry bude Protokol o prevzatí vykonaných služieb vrátane nasadenia do prevádzky
+podpísaný za objednávateľa riaditeľom odboru riadenia prevádzky a služieb IS a oprávneným
+zástupcom poskytovateľa.
+
+8.
+
+Objednávateľ uhradí cenu za služby súvisiace s úpravami a zmenami podľa bodu 4 tohto článku
+zmluvy za plnenia uvedené v čl. II v bode 1 písm. c) a d) tejto zmluvy štvrťročne, na základe faktúr
+vystavených poskytovateľom. Poskytovateľ vystaví faktúru do 15. dňa nasledujúceho
+kalendárneho štvrťroka za predchádzajúci kalendárny štvrťrok. Prílohou faktúry budú akceptačné
+protokoly o vykonaných službách za príslušný kalendárny štvrťrok vrátane výpočtu fakturovanej
+ceny za vykonané služby určenej ako súčin dohodnutej sadzby za človekohodinu v bode 4 tohto
+článku a skutočného počtu človekohodín. Akceptačný protokol musí byť podpísaný za
+objednávateľa projektovým manažérom
+Ing. Rudolfom Melišom a oprávneným zástupcom
+poskytovateľa.
+
+9.
+
+Zmluvné strany sa dohodli na bezhotovostnom platobnom styku bez zálohovej platby. Splatnosť
+faktúr je najneskôr do 30 dní odo dňa ich doručenia do podateľne objednávateľa.
+
+10. Poskytovateľom vystavená faktúra ako daňový doklad musí byť vyhotovená v súlade
+s ustanoveniami zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov.
+11. Poskytovateľ sa zaväzuje vystavené faktúry zaslať listinne poštou a súčasne aj v textovo
+čitateľnom súbore vo formáte PDF elektronicky na e-mailovú adresu objednávateľa
+faktury@socpoist.sk, a to bezodkladne po ich vystavení. Poskytovateľ vyhlasuje, že obsah faktúr
+poslaných poštou sa bude zhodovať s faktúrami poslanými v elektronickej podobe na e-mailovú
+adresu objednávateľa. Miestom doručenia faktúry v listinnej forme je Sociálna poisťovňa, ústredie,
+4
+
+51833-7/2017-BA
+Ul. 29. augusta 8 a 10, 813 63 Bratislava.
+12. V prípade, ak faktúra vystavená poskytovateľom nebude obsahovať všetky zákonom stanovené
+náležitosti alebo bude obsahovať nesprávne alebo neúplné údaje, objednávateľ má právo takúto
+faktúru vrátiť v lehote splatnosti poskytovateľovi na jej doplnenie, resp. opravu a poskytovateľ je
+povinný podľa charakteru nedostatku vystaviť novú, opravenú, resp. doplnenú faktúru s novou
+lehotou splatnosti. Poskytovateľ je povinný bezodkladne poslať opravenú alebo novú faktúru znovu
+aj v elektronickej podobe na uvedenú e-mailovú adresu objednávateľa podľa bodu 11 tohto článku
+zmluvy.
+13. DPH bude účtovaná v aktuálnej sadzbe podľa všeobecne záväzných právnych predpisov, platných
+v čase zdaniteľného plnenia. Prípadná zmena sadzby DPH nevyžaduje úpravu formou písomného
+dodatku k zmluve.
+Čl. V
+Podmienky a rozsah záruky
+1. Na služby súvisiace s podporou, údržbou /upgrade/ a funkčnosti WWW stránky Sociálnej poisťovne
+podľa čl. II bodu 1 zmluvy poskytuje poskytovateľ záruku v trvaní 24 mesiacov od podpísania
+príslušných protokolov o prevzatí služieb, resp. akceptačných protokolov. Záruka sa vzťahuje na
+prevádzkyschopnosť a funkčnosti WWW stránky. Záruka sa nevzťahuje na akékoľvek vady, ktoré
+vznikli v dôsledku nesprávneho prevádzkovania WWW stránky objednávateľom alebo po
+odstránení vád treťou osobou na náklady poskytovateľa podľa bodu 3 tohto článku zmluvy.
+2. Poskytovateľ je povinný v záručnej dobe na svoje náklady poskytovať objednávateľovi záručný
+servis, ktorý spočíva v bezplatnom odstránení vád súvisiacich s podporou a údržbou WWW
+stránky, na ktoré sa záruka vzťahuje v dohodnutej lehote.
+3. V prípade, ak poskytovateľ vady plnenia v dohodnutej lehote neodstráni, je objednávateľ oprávnený
+po predchádzajúcom upozornení, zabezpečiť odstránenie vád treťou osobou, na náklady
+poskytovateľa.
+4. V prípade skončenia tejto zmluvy je poskytovateľ povinný odstrániť vady v lehote a za podmienok
+stanovených všeobecne záväznými právnymi predpismi Slovenskej republiky.
+Čl. VI
+Autorské práva a licenčné podmienky
+1. Licenčné podmienky dohodnuté v tomto článku zmluvy spĺňajú náležitosti § 65a nasl. Autorského
+zákona. Na autorské dielo, ktoré bude vytvorené a dodané v rámci tejto zmluvy vrátane
+spracovaného a/alebo upraveného a/alebo preloženého dokumentu (ďalej len „dielo“) poskytovateľ:
+a) poskytuje/udeľuje objednávateľovi časovo neobmedzenú (po dobu právnej ochrany majetkových
+práv trvajúcu) výhradnú licenciu a súhlas na každé a akékoľvek použitie diela ako celku i jeho
+jednotlivých častí bez časového obmedzenia, v neobmedzenom rozsahu, akýmkoľvek spôsobom
+na území Slovenskej republiky a Európskej únie, pričom objednávateľ alebo ním poverené osoby
+sú oprávnené najmä:
+- dielo upraviť alebo dať upraviť, kopírovať, vyhotoviť rozmnoženinu diela,
+- rozmnožovať dielo alebo dať rozmnožovať technickými prostriedkami zvolenými podľa jeho
+uváženia,
+- verejne rozširovať originál diela alebo jeho rozmnoženiny alebo uvádzať dielo na verejnosti
+akýmkoľvek spôsobom (napr. verejným rozširovaním diela, jeho časti alebo jeho
+rozmnoženiny, nájmom vypožičiavaním, alebo akoukoľvek formou prevodu vlastníckych práv,
+verejným vystavením diela, alebo jeho rozmnoženiny, verejným vykonaním diela, vysielaním,
+prípadne jeho káblovou retransmisiou alebo verejným prenosom iným spôsobom),
+- dielo spracovať, preložiť, alebo dať spracovať, preložiť (t. j. spracovanie, úpravy a preklad tak
+strojového ako aj zdrojového kódu),
+- adaptovať dielo, usporiadať, alebo inak spracovať (modifikovať) alebo dať adaptovať,
+5
+
+51833-7/2017-BA
+usporiadať alebo inak spracovať (modifikovať),
+- použiť a šíriť dielo (distribuovať) na akýchkoľvek nosičoch,
+- spojiť dielo s iným dielom,
+- prihlásiť dielo ako ochrannú známku,
+b) dáva objednávateľovi predchádzajúci výslovný súhlas na písomné udelenie sublicencie pre
+akékoľvek tretie osoby na akékoľvek použitie diela, prípadne iné práva na dielo sa vzťahujúce,
+ktoré objednávateľ nadobudne na základe tejto zmluvy, na postúpenie licencie na tretie osoby, a
+to aj bez výslovného ďalšieho súhlasu poskytovateľa; na udelenie súhlasu tretej osobe používať
+dielo, na spôsob a rozsah jeho použitia, na jeho časové a miestne určenie sa primerane použijú
+ustanovenia tejto zmluvy, týkajúce sa udelenia súhlasu poskytovateľom objednávateľovi na
+použitie diela.
+2. Odmena za vytvorenie, dodanie diela a udelenie výhradnej licencie ako aj iné nároky poskytovateľa
+z práva priemyselného a duševného vlastníctva sú v plnom rozsahu zahrnuté v cene za predmet
+zmluvy.
+3. Zmluvné strany sa dohodli, že právo na použitie diela ako celku i jeho jednotlivých častí podľa bodu
+1 tohto článku zmluvy nadobúda objednávateľ dňom zaplatenia ceny/jej časti podľa čl. IV tejto
+zmluvy. Práva a povinnosti uvedené v tomto článku zmluvy v prípade zániku objednávateľa
+prechádzajú na jeho právneho nástupcu. Práva objednávateľa podľa tohto článku zmluvy
+ukončením, resp. zánikom zmluvy nezanikajú a trvajú počas celej doby, po ktorú má poskytovateľ k
+autorskému dielu výhradné majetkové práva autora.
+4. Objednávateľ je oprávnený udeliť iným štátnym orgánom a orgánom verejnej správy Slovenskej
+republiky a/alebo právnickým osobám založenými týmito orgánmi a právnickým osobám založeným
+na základe zákona na osobitný účel plnenia potrieb vo všeobecnom záujme a/alebo iným osobám,
+na ktoré bude prenesený výkon štátnej alebo verejnej správy v oblasti na ktorú bol vytvorený
+a/alebo osobám, ktorým objednávateľ bude poskytovať informácie z informačného systému súhlas
+na použitie diela v rozsahu a spôsobmi uvedenými v bode 1 tohto článku zmluvy, k čomu mu
+poskytovateľ udeľuje svoj súhlas.
+5. Objednávateľ je oprávnený používať dielo v rozsahu a spôsobmi uvedenými v bode 1 tohto článku
+zmluvy a postúpiť ho zmluvou na iné štátne orgány a orgány verejnej správy Slovenskej republiky
+a/alebo právnické osoby založené týmito orgánmi a/alebo na právnické osoby založené na základe
+zákona na osobitný účel plnenia potrieb vo všeobecnom záujme a/alebo na iné osoby, na ktoré
+bude prenesený výkon štátnej alebo verejnej správy v oblasti na ktoré boli vytvorené, k čomu
+poskytovateľ udeľuje svoj súhlas.
+6. Poskytovateľ nesmie umožniť tretím osobám používať dielo, ani nesmie informácie o ňom
+sprístupniť tretím osobám, s výnimkou svojich subdodávateľov v rozsahu nevyhnutne potrebnom na
+riadne a včasné splnenie povinností poskytovateľa podľa tejto zmluvy.
+7. Poskytovateľ nesmie udeliť tretej osobe licenciu na spôsob použitia diela udelený výhradnou
+licenciou a je povinný, sám sa zdržať použitia diela spôsobom, na ktorý udelil výhradnú licenciu s
+výnimkou:
+a) jeho používania v rozsahu nevyhnutne potrebnom na riadne a včasné splnenie povinností
+poskytovateľa podľa tejto zmluvy,
+b) jeho používania so súhlasom objednávateľa.
+8. Poskytovateľ zodpovedá za to, že k jednotlivým plneniam (vrátane ich akýchkoľvek súčastí
+obsahujúcich najmä software) dodaným, poskytnutým, vykonaným alebo vytvoreným
+poskytovateľovými subdodávateľmi alebo tretími osobami pre objednávateľa má alebo vykonáva
+výhradné majetkové práva, resp. práva priemyselného alebo iného duševného vlastníctva; má alebo
+vykonáva právo na ich používanie na základe licencií udelených mu tretími osobami, ktoré k nim
+majú alebo vykonávajú autorské práva, resp. práva priemyselného alebo iného duševného
+vlastníctva. Poskytovateľ súčasne udeľuje objednávateľovi k vyššie uvedeným plneniam (vrátane ich
+akýchkoľvek súčastí obsahujúcich najmä software), ku ktorým má alebo vykonáva poskytovateľ
+právo na ich používanie na základe licencií udelených mu tretími osobami, právo na ich používanie
+6
+
+51833-7/2017-BA
+objednávateľom v súlade, v rozsahu, spôsobom a za ďalších podmienok, za ktorých boli tieto
+plnenia dodané/poskytnuté zmluvnej strane tretími osobami.
+9. Poskytovateľ zodpovedá za prípadné porušenie autorských práv alebo iného duševného vlastníctva
+objednávateľa v súvislosti s podkladmi predloženými k plneniu predmetu zmluvy.
+10. Ak počas plnenia predmetu zmluvy bude vytvorené, dodané alebo umožnené používať
+objednávateľovi iné autorské dielo, udeľuje poskytovateľ podpísaním akceptačného protokolu, resp.
+protokolu o prevzatí vykonaných služieb objednávateľovi súhlas na jeho použitie v rozsahu podľa
+tohto článku zmluvy.
+11. Poskytovateľ zodpovedá za prípadné porušenie autorských práv alebo iného duševného vlastníctva
+objednávateľa v súvislosti s podkladmi predloženými k plneniu predmetu zmluvy.
+12. V prípade, že si akákoľvek tretia osoba, vrátane zamestnancov poskytovateľa alebo subdodávateľov,
+uplatní akýkoľvek nárok proti objednávateľovi z titulu porušenia výhradných majetkových alebo
+výhradných osobnostných práv, resp. práv priemyselného alebo iného duševného vlastníctva tejto
+tretej osoby alebo akékoľvek iné nároky v akejkoľvek súvislosti so zmluvou, poskytovateľ sa
+zaväzuje:
+- bezodkladne získať na svoje vlastné náklady od takejto tretej osoby súhlas na používanie
+jednotlivých plnení dodaných/poskytnutých, vykonaných alebo vytvorených poskytovateľom,
+subdodávateľom alebo tretími osobami pre objednávateľa, alebo upraviť jednotlivé plnenie/a
+dodané/poskytnuté, vykonané alebo vytvorené poskytovateľom, subdodávateľom alebo tretími
+osobami pre objednávateľa tak, aby už ďalej neporušovali autorské práva, resp. práva
+priemyselného alebo iného duševného vlastníctva tretej osoby, alebo nahradiť jednotlivé plnenie/a
+dodané/poskytnuté, vykonané alebo vytvorené poskytovateľom, subdodávateľom alebo tretími
+osobami pre objednávateľa rovnakými alebo aspoň takými plneniami, ktoré majú aspoň podstatne
+podobné kvalitatívne, operačné a technické parametre a funkčnosti; alebo, ak sa jedná o plnenie
+poskytnuté na základe licencie tretej osoby, taký nárok vyriešiť v súlade s tým, čo pre taký prípad
+stanovujú jej licenčné podmienky uvedené v tejto zmluve, ak ich niet, tak v súlade s týmito
+podmienkami a
+- poskytnúť objednávateľovi akúkoľvek a všetku účinnú pomoc a uhradiť akékoľvek všetky náklady,
+ktoré vznikli/vzniknú objednávateľovi v súvislosti s uplatnením vyššie uvedeného nároku tretej
+osoby; a
+- nahradiť objednávateľovi akúkoľvek a všetku škodu, ktorá mu vznikne v dôsledku uplatnenia
+vyššie uvedeného nároku tretej osoby, a to v plnej výške a bez akéhokoľvek obmedzenia.
+13. Objednávateľ sa však zaväzuje, že o každom nároku vznesenom takou treťou osobou v zmysle hore
+uvedeného bude bez zbytočného odkladu informovať poskytovateľa, bude v súvislosti s takým
+nárokom postupovať podľa primeraných pokynov poskytovateľa a tak, aby sa predišlo vzniku a
+prípadne zvýšeniu škôd, nevykoná smerom k takej tretej osobe žiaden úkon, v dôsledku ktorého by
+sa jej postavenie v súvislosti s takým uplatnením nároku zlepšilo, a poskytovateľovi vystaví a bude
+po potrebnú dobu udržiavať v platnosti prevoditeľnú plnú moc potrebnú na to, aby sa poskytovateľ
+mohol za objednávateľa účinne takému nároku brániť a s takou treťou osobou o urovnaní sporu
+rokovať a aj inak postupovať tak, ako je to potrebné v záujme ochrany práv oboch zmluvných strán.
+14. Poskytovateľ nenesie zodpovednosť za akúkoľvek poskytovateľom neautorizovanú zmenu diela
+vykonanú objednávateľom alebo treťou osobou poverenou objednávateľom. Spôsob autorizácie
+zmien je povinnou súčasťou vytvoreného diela.
+15. Poskytovateľ sa zaväzuje, že objednávateľovi, na všetky softvérové aplikácie a programové balíky,
+ktoré budú vyvinuté v rámci poskytovaného/vytvoreného a dodaného predmetu zmluvy, a ktorých
+autorom a poskytovateľom licenčných oprávnení bude poskytovateľ, resp. jeho subdodávateľ,
+poskytne bezodplatne právo ich používania v neobmedzenom rozsahu pre neobmedzený počet
+používateľov podľa bodu 1 tohto článku zmluvy.
+16. Ak bude v rámci plnenia predmetu zmluvy vytvorené spoločné a/alebo zamestnanecké dielo,
+majetkové práva autora k týmto dielam bude vykonávať vo svojom mene a na svoj účet
+7
+
+51833-7/2017-BA
+objednávateľ.
+17. Autor, resp. autori spoločného diela a/alebo zamestnaneckého diela udeľujú objednávateľovi
+výhradnú licenciu na použitie týchto diel v rozsahu podľa tohto článku zmluvy vrátane súhlasu na
+udelenie sublicencie akejkoľvek tretej osobe na akékoľvek použitie diela podľa tohto článku zmluvy.
+18. Objednávateľ môže spoločné dielo a/alebo zamestnanecké dielo použiť sám alebo môže udeliť
+súhlas na jeho použitie a má právo aj na odmenu za takého použitie. Ak objednávateľ vykonáva
+majetkové práva autora k spoločnému dielu a/alebo zamestnaneckému dielu, platí nevyvrátiteľná
+právna domnienka, že autor udelil súhlas na zverejnenie diela, označenie diela menom, obchodným
+menom alebo názvom objednávateľa ako aj na dokončenie diela, zmenu diela alebo iný zásah do
+diela.
+19. Poskytovateľ je povinný dodať objednávateľovi najaktuálnejšiu verziu komentovaných zdrojových
+kódov, na ktoré sa vzťahuje licencia podľa tohto článku zmluvy, s popisom v elektronickej forme na
+CD/DVD, s tým, že objednávateľ bude oprávnený tieto bez akéhokoľvek časového a vecného
+obmedzenia použiť (vrátane možnosti ich dekompilácie a akýchkoľvek iných spôsobov úpravy).
+Súčasne je poskytovateľ povinný dodať objednávateľovi technickú a používateľskú dokumentáciu
+v slovenskom jazyku v elektronickej forme na CD/DVD, ako aj ostatné informácie podľa požiadaviek
+objednávateľa.
+Čl. VII
+Zmluvné pokuty, úrok z omeškania a zodpovednosť za škodu
+1. Ak poskytovateľ bude pri poskytovaní služieb ktoré sú predmetom zmluvy podľa čl. II bodu 1 zmluvy
+v omeškaní s poskytovaním služieb, v lehotách dohodnutých v čl. III zmluvy, resp. v požiadavke
+objednávateľa, objednávateľ má právo uplatniť si nárok na zmluvnú pokutu vo výške 150 EUR, za
+každý deň omeškania, za každé omeškanie, ak sa zmluvné strany nedohodnú inak. Poskytovateľ
+sa zaväzuje, že takúto zmluvnú pokutu zaplatí objednávateľovi najneskôr do 30 dní odo dňa
+doručenia jej vyúčtovania.
+2. V prípade omeškania objednávateľa s úhradou faktúry v lehote splatnosti je poskytovateľ oprávnený
+uplatniť si nárok na úrok z omeškania maximálne vo výške určenej nariadením vlády č. 21/2013 Z.
+z., ktorým sa vykonávajú niektoré ustanovenia Obchodného zákonníka v znení neskorších
+predpisov Objednávateľ sa zaväzuje, že takýto úrok z omeškania zaplatí poskytovateľovi najneskôr
+do 30 dní odo dňa doručenia jeho vyúčtovania na základe faktúry.
+3. V prípade, ak poskytovateľ neposkytne predmet zmluvy podľa čl. II bodu 1 a podľa prílohy č. 1
+k zmluve v dohodnutom rozsahu, kvalite a za dohodnutých podmienok, objednávateľ má právo
+uplatniť si nárok na zmluvnú pokutu vo výške 150 EUR za každé jedno porušenie, ak sa zmluvné
+strany nedohodnú inak. Poskytovateľ sa zaväzuje, že takúto zmluvnú pokutu zaplatí
+objednávateľovi najneskôr do 30 dní odo dňa doručenia jej vyúčtovania.
+4. Zmluvné strany sa dohodli, že zodpovednosť za škodu spôsobenú pri plnení záväzkov z tejto
+zmluvy sa bude riadiť príslušnými ustanoveniami Obchodného zákonníka.
+5. Uhradením zmluvnej pokuty nezaniká nárok objednávateľa na náhradu škody, ktorá prevyšuje
+výšku zmluvnej pokuty a nezaniká povinnosť, pre porušenie ktorej bola sankcia uložená.
+6. Zmluvné strany súhlasia so započítaním vzájomných pohľadávok v súlade s § 364 Obchodného
+zákonníka. Zmluvné strany sa dohodli, že objednávateľ je oprávnený započítať zmluvné pokuty
+podľa tohto článku zmluvy proti cene za predmet zmluvy alebo jej časti.
+
+8
+
+51833-7/2017-BA
+Čl. VIII
+Dôvernosť a mlčanlivosť
+1.
+
+Zmluvné strany, ich zamestnanci ako aj ich prípadní subdodávatelia a ich zamestnanci sú povinní
+zachovávať v tajnosti všetky dôverné informácie, ktoré sú uvedené v tejto zmluve a v jej prílohách
+a/alebo ktoré budú uvedené v jej dodatkoch a prílohách, a/alebo ktoré im boli poskytnuté, alebo
+ktoré inak získali v súvislosti so zmluvou alebo s ktorými sa oboznámili počas plnenia zmluvy, resp.
+ktoré súvisia s predmetom plnenia, s údajmi ktoré podliehajú ochrane podľa zákona č. 122/2013 Z.
+z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení zákona č.
+84/2014 Z. z. (ďalej len „zákon“), s údajmi z informačného systému objednávateľa a
+predzmluvnými rokovaniami s ňou súvisiacimi s výnimkou nasledujúcich prípadov:
+a) ak je poskytnutie informácie od dotknutej zmluvnej strany uložené na základe všeobecne
+záväzných právnych predpisov alebo na základe povinnosti uloženej postupom podľa
+všeobecne záväzných právnych predpisov (napr. zákon č. 211/2000 Z. z. o slobodnom prístupe
+k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení
+neskorších predpisov,
+b) ak je informácia verejne dostupná z iného dôvodu ako je porušenie povinnosti mlčanlivosti
+dotknutou zmluvnou stranou, informácie, ktoré už sú v deň podpísania zmluvy verejne známe
+alebo, ktoré je možné už v deň podpísania tejto zmluvy získať z bežne dostupných
+informačných prostriedkov,
+c) ak sa jedná o informácie, ktoré sa stanú po podpísaní zmluvy verejne známymi alebo, ktoré
+možno po tomto dni získať z bežne dostupných informačných prostriedkov,
+d) ak je informácia poskytnutá odborným poradcom dotknutej zmluvnej strany (vrátane právnych,
+účtovných, daňových a iných poradcov), ktorí sú buď viazaní všeobecnou profesionálnou
+povinnosťou mlčanlivosti alebo, ak sa voči dotknutej zmluvnej strane zaviazali povinnosťou
+mlčanlivosti,
+e) ak je to potrebné pre účely akéhokoľvek súdneho, rozhodcovského, správneho alebo iného
+konania, ktorého je dotknutá zmluvná strana účastníkom,
+f) ak je informácia poskytnutá so súhlasom druhej zmluvnej strany,
+g) sprístupnenie skutočností, informácií a údajov zo strany objednávateľa iným štátnym orgánom
+Slovenskej republiky a/alebo štátnym rozpočtovým a/alebo príspevkovým organizáciám
+Slovenskej republiky a/alebo obciam a/alebo vyšším územným celkom a/alebo iným osobám,
+na ktoré bude prenesený výkon štátnej správy v oblasti predmetu tejto zmluvy a/alebo osobám,
+ktorým objednávateľ bude poskytovať informácie,
+h) sprístupnenie informácií subdodávateľom poskytovateľa, ktoré je nevyhnutné za účelom
+splnenia povinností poskytovateľa podľa tejto zmluvy; poskytovateľ je v takomto prípade
+pred poskytnutím údajov povinný zaviazať príslušného subdodávateľa povinnosťou mlčanlivosti
+ako aj povinnosťou, aby subdodávateľ zaviazal svojich zamestnancov, ktorí sa zúčastnia
+plnenia povinností poskytovateľa podľa tejto zmluvy, takisto povinnosťou mlčanlivosti,
+i) sprístupnenie informácií zamestnancom poskytovateľa, ktoré je nevyhnutné za účelom splnenia
+povinností poskytovateľa podľa tejto zmluvy; poskytovateľ je v takomto prípade
+pred poskytnutím údajov povinný zaviazať príslušného zamestnanca povinnosťou mlčanlivosti,
+j) zverejnenie tejto zmluvy, jej dodatkov a faktúr súvisiacich so zmluvou na webovej stránke
+objednávateľa a v Centrálnom registri zmlúv vedenom na Úrade vlády Slovenskej republiky
+(ďalej len „register“).
+
+2.
+
+Zmluvné strany sa zaväzujú, že dôverné informácie bez predchádzajúceho písomného súhlasu
+druhej zmluvnej strany nevyužijú pre seba alebo pre tretie osoby, neposkytnú tretím osobám a ani
+neumožnia prístup tretích osôb k dôverným informáciám. Za tretie osoby sa nepokladajú členovia
+orgánov zmluvných strán, audítori alebo právni poradcovia zmluvných strán, ktorí sú ohľadne im
+sprístupnených informácií viazaní povinnosťou mlčanlivosti na základe všeobecne záväzných
+právnych predpisov.
+9
+
+51833-7/2017-BA
+3.
+
+Zmluvné strany, sa zaväzujú, že všetky zúčastnené osoby a subjekty budú s poskytnutými
+informáciami a zistenými skutočnosťami nakladať ako s dôvernými informáciami.
+
+4.
+
+Poskytovateľ sa zaväzuje oboznámiť a následne
+realizujúcich predmet plnenia zmluvy povinnosti:
+
+zabezpečiť
+
+od svojich
+
+zamestnancov
+
+a) dodržiavania ochrany údajov a záväzku mlčanlivosti o údajoch, s ktorými počas výkonu služieb
+pre objednávateľa prišli do styku, a to aj po ukončení pracovného, resp. služobného pomeru,
+b) zachovávať mlčanlivosť o osobných údajoch, s ktorými počas výkonu
+služieb
+pre objednávateľa prišiel do styku, ako aj o zákaze ich využitia pre osobnú potrebu, zverejnenia,
+poskytnutia a sprístupnenia s výnimkou orgánov činných v trestnom konaní a vo vzťahu k Úradu
+pre ochranu osobných údajov pri plnení jeho úloh.
+5.
+
+Požiadavka v bode 4 tohto článku zmluvy bude zabezpečená podpísaním vyhlásenia
+o mlčanlivosti zo strany príslušného zamestnanca poskytovateľa.
+
+6.
+
+Všetky podklady poskytnuté poskytovateľovi a evidované údaje musia byť po ukončení
+obchodných vzťahov bez vyzvania odovzdané objednávateľovi alebo podľa jeho rozhodnutia
+vymazané alebo skartované. Táto povinnosť sa vzťahuje aj na vyhotovené kópie.
+
+7.
+
+Poskytovateľ sa zaväzuje, že sa v žiadnom prípade bez vedomia objednávateľa nepokúsi získať
+prístup k informáciám, ktoré:
+a) sú prenášané na poskytovanej infraštruktúre a sú súčasťou prenášaných údajov,
+b) nie sú pre neho potrebné na výkon poskytovanej služby a ani ich žiadnym spôsobom
+nezneužije v prípade, ak sa k nim neoprávnene dostane.
+
+8.
+
+Poskytovateľ v súlade s § 21 zákona poučí svojich zamestnancov a všetky osoby, ktoré v rámci
+spolupráce s poskytovateľom majú prístup k informačným systémom objednávateľa, a to najmä s
+dôrazom na povinnosť mlčanlivosti (§ 22 zákona) a sankciami za porušenie tejto mlčanlivosti (§ 68
+ods. 7 písm. e) zákona).
+
+9.
+
+Zmluvné strany sa zaväzujú, že upovedomia druhú zmluvnú stranu o porušení povinnosti
+mlčanlivosti bez zbytočného odkladu po tom, ako sa o takomto porušení dozvedeli.
+
+10. Zmluvné strany sa zaväzujú, že budú ochraňovať dôverné informácie druhej zmluvnej strany
+s rovnakou starostlivosťou ako ochraňujú vlastné dôverné informácie rovnakého druhu, vždy však
+najmenej v rozsahu primeranej odbornej starostlivosti.
+11. Ustanovenia predchádzajúcich bodov zmluvy budú platiť aj po dobe platnosti a účinnosti zmluvy,
+a to až do doby, kedy sa informácie stanú verejne známymi.
+Čl. IX
+Skončenie zmluvy
+1.
+
+Zmluva môže skončiť:
+a)
+b)
+c)
+d)
+
+vyčerpaním celkovej ceny za predmet zmluvy,
+písomnou dohodou zmluvných strán,
+výpoveďou ktorejkoľvek zo zmluvných strán,
+odstúpením od zmluvy ktoroukoľvek zo zmluvných strán.
+
+2.
+
+Zmluvný vzťah môže byť skončený písomnou výpoveďou ktorejkoľvek zo zmluvných strán okrem
+dôvodov uvedených v tejto zmluve aj bez uvedenia dôvodu. Zmluvné strany sa dohodli na
+jednomesačnej výpovednej lehote, ktorá začína plynúť prvým dňom kalendárneho mesiaca,
+nasledujúceho po doručení písomnej výpovede druhej zmluvnej strane.
+
+3.
+
+Objednávateľ je, okrem prípadu podľa bodu 2 tohto článku zmluvy, oprávnený skončiť túto zmluvu
+písomným odstúpením od tejto zmluvy, doručeným druhej zmluvnej strane, a to:
+10
+
+51833-7/2017-BA
+3.1 v prípadoch podstatného porušenia zmluvy poskytovateľom; za podstatné porušenie sa
+považuje:
+a) omeškanie poskytovateľa s poskytovaním služieb, ktoré sú predmetom zmluvy
+v dohodnutom termíne o viac ako jeden pracovný deň,
+b) ak poskytovateľ neodovzdá služby, ktoré sú predmetom zmluvy v dohodnutej kvalite,
+rozsahu a za podmienok špecifikovaných v tejto zmluve a v prílohe č. 1 k tejto zmluve,
+v prípade nepodstatného porušenia zmluvy, len ak poskytovateľ nesplní svoju povinnosť ani
+v dodatočne primeranej lehote, ktorá mu bola poskytnutá,
+
+3.2
+
+3.3 v prípade opakovaného porušenia akýchkoľvek povinností poskytovateľom, ktoré vyplývajú
+z ustanovení tejto zmluvy, alebo z ustanovení všeobecne záväzných právnych predpisov;
+za opakované sa považuje preukázateľné porušenie dvakrát a viackrát,
+3.4
+
+podľa § 19 zákona o verejnom obstarávaní,
+
+3.5
+
+z dôvodov uvedených v tejto zmluve.
+
+Odstúpeniu objednávateľa od zmluvy musí predchádzať upozornenie poskytovateľa na neplnenie
+zmluvných povinností a na možnosť skončenia tejto zmluvy odstúpením.
+4.
+
+Poskytovateľ je, okrem prípadu podľa bodu 2 tohto článku zmluvy, oprávnený skončiť túto zmluvu
+písomným odstúpením od tejto zmluvy v prípade, ak je objednávateľ v omeškaní s úhradou riadne
+vystavenej faktúry podľa tejto zmluvy po dobu dlhšiu ako 30 kalendárnych dní odo dňa jej
+splatnosti; skončeniu zmluvy musí predchádzať upozornenie na neplnenie platobných povinností
+objednávateľa a na možnosť ukončenia tejto zmluvy odstúpením,
+
+5.
+
+Odstúpenie od zmluvy bude účinné dňom doručenia písomného oznámenia o odstúpení od
+zmluvy druhej zmluvnej strane. V prípade odstúpenia od zmluvy má poskytovateľ nárok na úhradu
+za vykonané plnenia podľa stupňa ich rozpracovanosti.
+Čl. X
+Osobitné ustanovenia
+
+1.
+
+Na plnenie predmetu zmluvy môže poskytovateľ využiť subdodávateľov. Poskytovateľ je povinný
+pri uzatvorení zmluvy uviesť zoznam subdodávateľov, ktorý obsahuje údaje o všetkých známych
+subdodávateľoch poskytovateľa v čase uzatvorenia tejto zmluvy a údaje o osobe oprávnenej konať
+za subdodávateľa v rozsahu meno a priezvisko, adresa pobytu a dátum narodenia. Zoznam
+subdodávateľov tvorí prílohu č. 3 k tejto zmluve a obsahuje okrem uvedených údajov podiel
+plnenia zo zmluvy v % a stručný opis časti zmluvy, ktorá bude predmetom subdodávky.
+
+2.
+
+Poskytovateľ je povinný písomne oznámiť objednávateľovi akúkoľvek zmenu údajov o
+subdodávateľovi, ktorý je uvedený v prílohe č. 3 k tejto zmluve najneskôr do piatich (5) pracovných
+dní odo dňa uskutočnenia tejto zmeny písomnou formou na adresu uvedenú v záhlaví zmluvy.
+
+3.
+
+V prípade zmeny subdodávateľa je poskytovateľ najneskôr tri (3) pracovné dni pred zmenou
+subdodávateľa povinný písomne oznámiť objednávateľovi údaje o navrhovanom novom
+subdodávateľovi a o osobe oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko,
+adresa pobytu a dátum narodenia. Nový subdodávateľ musí spĺňať podmienky podľa bodu 4 tohto
+článku zmluvy. Zmena nového subdodávateľa sa vykoná zápisom o zmene prílohy k zmluve, ktorý
+nadobudne platnosť dňom jeho podpísania oprávnenými zástupcami oboch zmluvných strán a
+účinnosť dňom nasledujúcim po dni jeho zverejnenia v registri; vzor zápisu o zmene prílohy k
+zmluve tvorí prílohu č. 4 k tejto zmluve; osobami oprávnenými konať vo veciach zmeny prílohy č. 3
+k zmluve sú:
+
+4.
+
+
+
+za poskytovateľa: doplniť funkciu, resp. meno a priezvisko
+
+
+
+za objednávateľa: riaditeľ sekcie informatiky.
+
+V prípade, ak objednávateľ v rámci zákazky s nízkou hodnotou vyžadoval, aby subdodávateľ
+spĺňal aj podmienky účasti týkajúce sa osobného postavenia a neexistovali u neho dôvody na
+11
+
+51833-7/2017-BA
+vylúčenie podľa § 40 ods. 6 písm. a) až h) a ods. 7 zákona o verejnom obstarávaní a oprávnenie
+poskytovať službu, musí tieto spĺňať aj nový subdodávateľ.
+5.
+
+Využitím subdodávateľov nie je dotknutá zodpovednosť poskytovateľa za plnenie predmetu
+zmluvy.
+
+6.
+
+Zmluvné strany sa zaväzujú ihneď písomne oznámiť druhej zmluvnej strane závažné skutočnosti,
+ktoré nastali po podpísaní zmluvy a súvisia s predmetom zmluvy.
+
+7.
+
+Pod vyššou mocou sa rozumejú okolnosti, ktoré nastanú po uzatvorení zmluvy ako výsledok
+nepredvídateľných a zmluvnými stranami neovplyvniteľných prekážok. V prípade, že takáto
+okolnosť bude brániť v plnení povinností podľa zmluvy poskytovateľovi alebo objednávateľovi,
+bude povinná zmluvná strana dotknutá vyššou mocou zbavená zodpovednosti za čiastočné alebo
+úplné nesplnenie záväzkov vyplývajúcich z tejto zmluvy primerane počas doby, po ktorú pôsobili
+tieto okolnosti.
+
+8.
+
+Skončením zmluvy zanikajú všetky práva a povinnosti zmluvných strán vyplývajúce zo zmluvy s
+výnimkou ustanovení, ktoré sa týkajú nároku na náhradu škody vzniknutej porušením tejto zmluvy,
+nároku na zaplatenie zmluvnej pokuty podľa ustanovení tejto zmluvy, ktoré vzhľadom na svoju
+povahu majú trvať aj po ukončení zmluvy, napr. dôvernosť informácií a mlčanlivosť.
+Čl. XI
+Záverečné ustanovenia
+
+1. Táto zmluva podlieha povinnému zverejneniu podľa § 5a ods. 1 zákona č. 211/2000 Z. z. o
+slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov a zákona č. 546/2010 Z. z., ktorým sa dopĺňa zákon č. 40/1964 Zb. Občiansky zákonník
+v znení neskorších predpisov a ktorým sa menia a dopĺňajú niektoré zákony. Poskytovateľ berie na
+vedomie povinnosť objednávateľa zverejniť túto zmluvu ako aj faktúry vyplývajúce z tejto zmluvy a
+svojim podpisom dáva súhlas na zverejnenie tejto zmluvy vrátane jej príloh v plnom rozsahu.
+2. Táto zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami oboch zmluvných
+strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v registri.
+3. Zmluva sa uzatvára na dobu určitú odo dňa nadobudnutia jej účinnosti do vyčerpania celkovej ceny
+predmetu zmluvy stanovenej v čl. IV bod 1 zmluvy vo výške 48. 440,- EUR bez DPH.
+4. Jednotlivé ustanovenia zmluvy môžu byť menené, doplňované, zrušené iba písomnou formou
+po vzájomnej dohode zmluvných strán formou číslovaných dodatkov, ktoré budú podpísané
+zmluvnými stranami a budú tvoriť neoddeliteľnú súčasť zmluvy s výnimkou zmeny/doplnenia
+subdodávateľa, ktorá sa vykoná zápisom o zmene prílohy a zmeny sadzby DPH, ktorá sa vykoná
+podľa čl. IV bodu 13 tejto zmluvy.
+5. Poskytovateľ je povinný bezodkladne písomne oznámiť objednávateľovi začatie akéhokoľvek
+súdneho, rozhodcovského, exekučného, konkurzného, reštrukturalizačného alebo obdobného
+konania, ktoré sa začalo proti nemu alebo ktoré sám inicioval v súvislosti s predmetom tejto zmluvy.
+Ďalej je povinný bezodkladne oznámiť objednávateľovi, ak niektorý z veriteľov poskytovateľa podal
+proti nemu návrh na vyhlásenie konkurzu alebo návrh na povolenie reštrukturalizácie alebo vstup
+do likvidácie a jej ukončenie
+6. Zmluvné strany sa v súlade s ustanovením § 262 ods. 1 Obchodného zákonníka dohodli, že
+záväzkový vzťah založený touto zmluvou sa spravuje ustanoveniami Obchodného zákonníka,
+Autorského zákona, zákona o verejnom obstarávaní a ostatnými všeobecne záväznými právnymi
+predpismi Slovenskej republiky a európskou legislatívou.
+7. Zmluvné strany sa zaväzujú, že všetky spory, vyplývajúce z tejto zmluvy, budú riešiť rokovaním o
+možnej dohode. Zmluvné strany sa dohodli, že vzťahy vzniknuté medzi nimi na základe tejto
+zmluvy sa riadia právnym poriadkom Slovenskej republiky. Prípadné spory, o ktorých sa strany
+nedohodli, budú postúpené na rozhodnutie vecne a miestne príslušnému súdu.
+
+12
+
+51833-7/2017-BA
+8. Každé ustanovenie zmluvy sa, pokiaľ je to možné, interpretuje tak, aby bolo účinné a platné podľa
+platných právnych predpisov. Pokiaľ by však niektoré ustanovenie tejto zmluvy bolo podľa platných
+právnych predpisov nevymožiteľné alebo neplatné, nebude tým dotknutá platnosť alebo
+vymožiteľnosť ostatných ustanovení tejto zmluvy, ktoré budú i naďalej záväzné a v plnom rozsahu
+platné a účinné. V prípade takejto nevymožiteľnosti alebo neplatnosti budú zmluvné strany v dobrej
+viere rokovať, aby sa dohodli na zmenách alebo dodatkoch k tejto zmluve, ktoré sú potrebné na
+realizáciu zámerov tejto zmluvy, potrebných v súvislosti s príslušnou nevymožiteľnosťou alebo
+neplatnosťou.
+9. Neoddeliteľnou súčasťou tejto zmluvy sú nasledujúce prílohy:
+Príloha č. 1 Rozsah, kvalita a podmienky poskytovaných služieb podľa čl. II bodu 1 zmluvy
+Príloha č. 2 Cenová kalkulácia predmetu zmluvy
+Príloha č. 3 Zoznam subdodávateľov
+Príloha č. 4 Zápis o zmene prílohy č. 3 k zmluve
+10. Táto zmluva sa vyhotovuje v 4 rovnopisoch, z ktorých každá zmluvná strana dostane po dva
+rovnopisy.
+11. Zmluvné strany vyhlasujú, že obsah zmluvy je prejavom ich slobodnej vôle, zmluva nebola uzavretá
+v tiesni a ani za zvlášť nevýhodných podmienok. Súčasne vyhlasujú, že si ju riadne a dôsledne
+prečítali, jej obsahu a právnym účinkom porozumeli a na znak súhlasu ju vlastnoručne podpísali.
+
+Za poskytovateľa:
+
+Za objednávateľa:
+
+Bratislava:
+
+Bratislava:
+
+Ing. Roman Kriško
+člen predstavenstva
+
+Ing. Ľubomír Vážny
+generálny riaditeľ
+Sociálnej poisťovne
+
+13
+
+Príloha č. 1 k zmluve
+o poskytovaní služieb pri podpore, údržbe /upgrade/ a funkčnosti WWW stránky
+Sociálnej poisťovne
+
+Rozsah, kvalita a podmienky poskytovaných služieb
+podľa čl. II bodu 1 zmluvy
+1.
+
+Predmetom zmluvy je zabezpečovanie podpory, údržby /upgrade/ a funkčnosti WWW stránky
+Sociálnej poisťovne.
+Predmet zmluvy obsahuje nasledovné služby
+a) Služby súvisiace s migráciou redakčného systému na 64-bitový systém v rozsahu:
+ Apache webserver a jeho nastavenia
+ Nastavenia PHP
+ Nastavenia databázy
+ Sieťové nastavenia
+ Nastavenia vysokej dostupnosti – Heartbeat
+ Monitorovací systém Nagios
+ Užívateľské účty a ich domovské priečinky
+ Cron nastavenia a skripty
+ Zálohovacie skripty
+ Webalizer štatistiky webových prístupov
+b) Služby súvisiace s patchovaním redakčného systému na PHP 5.4:
+• aktuálna verzia PHP je 5.3.3,
+• odstránenie zastaraných a nepodporovaných funkcií a nahradenie ich ekvivalentami,
+napr.: session_register, session_unregister, register_globals, ereg,
+mysqli_bind_param(), call time pass by references, …
+• patchovanie bude prebiehať na test prostredí
+• testovanie funkčnosti opatchovaneho systému (frontend + backend)
+• nasadenie na produkčný server
+c) Služby súvisiace s úpravami a zmenami www.socpoist.sk a funkčnosti v aplikáciách na
+automatizáciu činností spojených s prevádzkou a správou redakčného systému.
+d) Služby súvisiace s neidentifikovanými potrebami objednávateľa nad rámec bodu c) (legislatívne
+požiadavky,…)
+
+2.
+
+Služby špecifikované v bode 1 písm. a) a písm. b) prílohy č. 1 budú realizované v termínoch
+dohodnutých v čl. III zmluvy. Služby budú zrealizované jednorazovo. Vykonané služby budú
+preberané od poskytovateľa na základe Protokolu o prevzatí vykonaných služieb.
+
+3.
+
+Služby špecifikované v bode 1 písm. c) a písm. d) prílohy č. 1 budú vykonávané priebežne podľa
+aktuálnych potrieb objednávateľa počas zmluvného vzťahu na základe konkrétnych písomných
+požiadaviek objednávateľa, zaslaných poskytovateľovi v elektronickej forme (email). Požiadavka
+objednávateľa bude obsahovať druh požadovanej služby, jej rozsah a miesto plnenia. Zástupcovia
+objednávateľa, oprávnení na predkladanie požiadaviek, sú určení zástupcovia sekcie informatiky a
+komunikačného odboru. Vykonané služby budú preberané od poskytovateľa na základe
+Akceptačného protokolu.
+
+4.
+
+Poskytovateľ je povinný do 3 pracovných dní od obdržania písomnej požiadavky od oprávneného
+zástupcu objednávateľa poskytnúť súčinnosť potrebnú na dohodnutie postupu riešenia, termínu
+realizácie požiadavky a počtu človekohodín na vykonanie.
+
+5.
+
+Poskytovateľ poskytne požadované služby na základe objednávateľom schváleného postupu,
+rozsahu riešenia, odsúhlaseného počtu človekohodín a v dohodnutých termínoch.
+
+51833-7/2017-BA
+
+6.
+
+Vykonané služby špecifikované v bode 1 písm. c) a písm. d) prílohy č. 1 budú preberané
+od poskytovateľa na základe Akceptačného protokolu. Protokoly musia obsahovať:
+a) Obsah (popis) vykonaných služieb
+b) Druh služieb
+c) Dátum (vykonania služieb)
+d) Počet človekohodín
+e) Cena za vykonané služby a spôsob výpočtu ceny.
+
+51833-7/2017-BA
+Príloha č. 2 k zmluve
+o poskytovaní služieb pri podpore, údržbe /upgrade/ a funkčnosti WWW stránky
+Sociálnej poisťovne
+
+CENOVÁ KALKULÁCIA PREDMETU ZMLUVY
+
+Predmet zmluvy
+a) Čl. II bod 1 písm. a)
+- služby súvisiace
+s migráciou redakčného
+systému na 64-bitový systém
+b) Čl. II bod 1 písm. b)
+- služby súvisiace s
+patchovaním redakčného
+systému na PHP 5.4
+c) Čl. II bod 1 písm. c) služby
+súvisiace s úpravami a
+zmenami funkčnosti v
+aplikáciách na automatizáciu
+činností spojených s
+prevádzkou a správou
+redakčného systému,
+d) Čl. II bod 1 písm. d) služby
+súvisiace s
+neidentifikovanými potrebami
+objednávateľa nad rámec
+bodu c) (legislatívne
+požiadavky,…).
+
+Merná
+jednotka
+
+Počet
+
+Jednotková
+cena za predmet
+zmluvy
+v EUR bez DPH
+
+Cena za predmet
+zmluvy
+
+v EUR bez DPH
+
+9.790 EUR**
+
+9 790 EUR
+
+11.050 EUR**
+
+11.050 EUR
+
+predpokladaný
+počet
+400 *
+
+69 EUR
+
+27.600 EUR
+
+Spolu v EUR bez DPH
+
+x
+
+x
+
+48.440 EUR
+
+DPH 20 % v EUR
+
+x
+
+x
+
+9.688 EUR
+
+Celková cena v EUR s DPH
+
+x
+
+x
+
+58.128 EUR
+
+-
+
+-
+
+človekohodina
+
+-
+
+-
+
+* predpokladaný počet človekohodín je stanovený len pre výpočet ceny predmetu zmluvy; objednávateľ bude požadovať
+realizáciu služieb na základe aktuálnych potrieb formou písomných požiadaviek max do výšky celkovej ceny za predmet
+zmluvy dohodnutej v čl. IV od 1 zmluvy
+
+** cena za predmet zmluvy dohodnutý v čl. II bod 1 písm. a) a b) zmluvy je stanovená pevnou sumou v čl. IV
+v bodoch 2 a 3, ktoré sa budú hradiť jednorazovo.
+
+Dátum:
+.............................................................
+pečiatka, meno a podpis poskytovateľa*)
+
+*) Podpis poskytovateľa, jeho štatutárneho orgánu alebo iného zástupcu poskytovateľa, ktorý je oprávnený konať
+v mene poskytovateľa v záväzkových vzťahoch v súlade s dokladom o oprávnení podnikať, t.j. podľa toho, kto
+za poskytovateľa koná navonok.
+
+51833-7/2017-BA
+Príloha č. 3 k zmluve
+o poskytovaní služieb pri podpore, údržbe /upgrade/ a funkčnosti WWW stránky
+Sociálnej poisťovne
+
+ZOZNAM SUBDODÁVATEĽOV
+
+Obchodné meno poskytovateľa: TEMPEST, A.S
+Adresa sídla alebo miesta podnikania: Galvaniho 17/B, 821 04 Bratislava
+IČO: 31326650
+
+Na uskutočnení plnenia Zmluvy o poskytovaní služieb pri podpore, údržbe /upgrade/ a funkčnosti
+WWW stránky Sociálnej poisťovne č. 51833-7/2017-BA
+a) sa nebudú podieľať subdodávatelia a celý predmet zmluvy uskutočníme vlastnými kapacitami.*
+b) sa budú podieľať nasledovní subdodávatelia:*
+
+P.
+č.
+
+Meno
+a priezvisko
+alebo obchodné
+meno alebo
+názov
+subdodávateľa
+Adresa sídla
+alebo miesta
+podnikania
+
+Identifikačné
+číslo alebo
+dátum
+narodenia,
+ak nebolo
+pridelené
+identifikačné
+číslo
+
+Meno
+a priezvisko,
+adresa pobytu
+a dátum
+narodenia
+osoby
+oprávnenej
+konať za
+subdodávateľa
+
+IČO
+
+Podiel
+plnenia
+zo
+zmluvy o
+dielo v %
+
+Predmet
+subdodávok
+
+1.
+2.
+3.
+
+V .............. dňa .....................
+............................................................
+Meno a podpis štatutárneho orgánu poskytovateľa alebo
+člena štatutárneho orgánu alebo iného zástupcu poskytovateľa, oprávneného
+konať v mene poskytovateľa
+* Nehodiace sa prečiarknite
+
+51833-7/2017-BA
+Príloha č. 4 k zmluve
+o poskytovaní služieb pri podpore, údržbe /upgrade/ a funkčnosti WWW stránky
+Sociálnej poisťovne
+
+ZÁPIS O ZMENE PRÍLOHY Č. 3
+„ZOZNAM SUBDODÁVATEĽOV“
+k zmluve o poskytovaní služieb pri podpore, údržbe /upgrade/ a funkčnosti WWW stránky
+Sociálnej poisťovne
+uzatvorenej podľa § 269 ods. 2 Obchodného zákonníka a podľa zákona č.185/2015 Z.z. Autorský
+zákon
+(ďalej len „zmluva“) medzi:
+poskytovateľom TEMPEST, A.S, Galvaniho 17/B, IČO: 31326650
+(ďalej len „poskytovateľ“) a
+objednávateľom Sociálna poisťovňa, Ul. 29. augusta 8 a 10, 813 63 Bratislava, IČO: 30807484 (ďalej
+len „objednávateľ“)
+V súlade s článkom X bodom 3 zmluvy, v ktorom sa zmluvné strany dohodli o spôsobe zmeny
+prílohy č. 3 k zmluve „Zoznam subdodávateľov“, zmluvné strany v zastúpení ich oprávnenými
+zástupcami podpisujú tento zápis, ktorým sa mení/ruší príloha č. 3 k zmluve „Zoznam subdodávateľov“,
+ktorá tvorí prílohu k tomuto zápisu.
+Dôvod potreby uskutočnenia zmeny prílohy č. 3 k zmluve „Zoznam subdodávateľov“:
+.........................................................................................................................................................
+......................................................................................................................................................
+Tento zápis je neoddeliteľnou súčasťou zmluvy.
+Tento zápis nadobúda platnosť dňom jeho podpísania oprávnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jeho zverejnenia v Centrálnom registri zmlúv
+vedenom Úradom vlády Slovenskej republiky.
+Nadobudnutím účinnosti tohto zápisu sa v celom rozsahu mení/ruší znenie prílohy č. 3 k zmluve
+„Zoznam subdodávateľov“.
+Za poskytovateľa:
+
+Za objednávateľa:
+
+Bratislava, dňa
+
+Bratislava, dňa
+
+.........................................
+
+....................................
+
+oprávnená osoba
+
+oprávnená osoba
+
+Príloha:
+Príloha č. 3 k zmluve „Zoznam subdodávateľov“
+
+

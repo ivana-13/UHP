@@ -1,0 +1,3064 @@
+Zmluva o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy (APV
+PFS)
+
+uzatvorená v zmysle § 269 ods. 2 Obchodného zákonníka v znení neskorších predpisov a podľa § 58 písmeno b)
+zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(ďalej „zmluva“)
+medzi
+Číslo zmluvy objednávateľa: 2015246202
+Objednávateľ:
+
+Slovenská republika zastúpená Ministerstvom financií
+Slovenskej republiky
+
+Sídlo:
+
+Štefanovičova 5, 817 82 Bratislava
+
+V zastúpení:
+
+Ing. Jaroslav Mikla, vedúci služobného úradu
+
+IČO:
+
+00 151 742
+
+DIČ:
+
+2020798351
+
+IČ DPH:
+
+nie je platiteľom DPH
+
+Bankové spojenie:
+
+Štátna pokladnica
+
+IBAN(Číslo účtu):
+
+SK59 8180 0000 0070 0000 1400
+(ďalej len „Objednávateľ“)
+
+a
+Poskytovateľ:
+
+DITEC, a.s.
+Plynárenská 7/C
+821 09 Bratislava, Slovenská republika
+
+Zastúpený:
+
+PaedDr. Ivan Sůra, predseda predstavenstva
+Ing. Csaba Baráth, generálny riaditeľ a podpredseda
+predstavenstva
+
+IČO:
+
+31 385 401
+
+DIČ:
+
+2020304198
+
+IČ pre DPH:
+
+SK2020304198
+
+Bankové spojenie:
+
+Tatrabanka, a.s.
+
+IBAN (č. účtu):
+
+SK93 1100 000 0026 2700 7344
+(ďalej len „Poskytovateľ“)
+(ďalej aj „zmluvné strany“)
+
+-1/52-
+
+Preambula
+Objednávateľ na obstaranie predmetu tejto zmluvy použil metódu verejného obstarávania – priame rokovacie konanie
+podľa § 58 písmeno b) zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov. Poskytovateľ týmto čestne vyhlasuje, že má na predmet obstarávania výhradné autorské
+práva vyplývajúce zo Zmluvy o vytvorení, dodávke a implementácii Portálu finančnej správy číslo 2013003177 zo dňa
+3.1.2013 a Zmluvy o rozšírení funkcionality aplikačného programového vybavenia Portálu finančnej správy č.
+2014242202 zo dňa 2.10.2014 uzatvorenými medzi Slovenskou republikou zastúpenou Ministerstvom financií SR
+a spoločnosťou DITEC, a.s., Bratislava.
+Definície:
+a)
+
+Objednávateľ: verejný obstarávateľ uvedený v záhlaví tejto Zmluvy.
+
+b)
+
+Poskytovateľ: Poskytovateľ uvedený v záhlaví tejto Zmluvy.
+
+c)
+
+Projektový manažér Objednávateľa: fyzická osoba, ktorá riadi projektový tím pri realizácii plnení Zmluvy.
+Voči Poskytovateľovi je primárnou kontaktnou osobou za Objednávateľa. V súlade s rozhodnutiami
+Riadiaceho výboru PFS kontroluje v mene Objednávateľa podľa Zmluvy činnosť Poskytovateľa vrátane
+ukladania úloh a písomného preberania dokončených plnení Zmluvy, vrátane podpisovania čiastkových
+a finálneho akceptačného protokolu, monitoruje plnenie detailného harmonogramu dodávky a plní ďalšie
+úlohy v mene Objednávateľa podľa Zmluvy. Má u Objednávateľa dostatočné právomoci na základe
+poverenia alebo na základe výkonu funkcie na všetky úkony v mene Objednávateľa podľa Zmluvy; nemá
+oprávnenie na podpis dodatku k Zmluve resp. na uzavretie akejkoľvek dohody so Poskytovateľom, ktorá
+by znamenala zmenu tejto Zmluvy. Poverenej osobe Objednávateľa predkladá na akceptáciu Požiadavky
+na poskytnutie služieb v zmysle Prílohy č.4, Štúdiu realizovateľnosti a akceptované dokončené plnenia
+Zmluvy na Akceptačnom protokole v zmysle Prílohy č.3. Projektovému manažérovi Poskytovateľa
+predkladá Štúdiu realizovateľnosti a dokumenty vytvorené v zmysle Prílohy č.3, č.4 a č.5 po ich
+akceptácii poverenou osobou Objednávateľa a oprávnenou osobou Objednávateľa.
+
+d)
+
+Poverená osoba Objednávateľa: fyzická osoba poverená Objednávateľom v procese podmienok plnenia
+predmetu Zmluvy, akceptácie a preberacieho konania konať v mene Objednávateľa podľa Zmluvy.
+Podpisom potvrdzuje a akceptuje Požiadavku na poskytnutie služieb v zmysle Prílohy č.4, Štúdiu
+realizovateľnosti a Akceptačný protokol v zmysle Prílohy č.3. Následne ich predkladá na schválenie
+oprávnenej osobe Objednávateľa. Na základe Štúdie realizovateľnosti akceptovanej oprávnenou osobou
+Objednávateľa je poverená vystavením Objednávky práce na poskytnutie predmetu plnenia alebo jeho
+časti v zmysle bodu II.2.f) a v zmysle Prílohy č. 5, ktorú predkladá na schválenie a podpis oprávnenej
+osobe Objednávateľa.
+
+e)
+
+Oprávnená osoba Objednávateľa: fyzická osoba Objednávateľa oprávnená v procese podmienok plnenia
+predmetu Zmluvy, t.j. v procese akceptácie a preberacieho konania konať v mene Objednávateľa podľa
+Zmluvy. Podpisom finálne potvrdzuje a akceptuje predkladané dokumenty vytvorené v zmysle Prílohy
+č.3, č.4 a 5. a Štúdiu realizovateľnosti a predkladá ich projektovému manažérovi Objednávateľa.
+Oprávnená osoba Objednávateľa je na základe tejto zmluvy povereným zástupcom Ministerstva financií
+Slovenskej republiky. Zmena oprávnenej osoby je možná iba s výhradným písomný poverením
+Ministerstva financií SR, vydaným oprávneným zástupcom Ministerstva financií SR.
+
+f)
+
+Projektový manažér Poskytovateľa: fyzická osoba, ktorá riadi projektový tím Poskytovateľa pri realizácii
+plnení Zmluvy. Voči Objednávateľovi je primárnou kontaktnou osobou za Poskytovateľa. Má na základe
+poverenia Poskytovateľa alebo na základe výkonu funkcie u Poskytovateľa dostatočné právomoci na
+všetky úkony v mene Poskytovateľa podľa Zmluvy; nemá oprávnenie na podpis dodatku k Zmluve resp.
+-2/52-
+
+na uzavretie akejkoľvek dohody s Objednávateľom, ktorá by znamenala zmenu tejto Zmluvy. Predkladá
+dokončené plnenia Zmluvy na Akceptačnom protokole v zmysle Prílohy č.3 na schválenie projektovému
+manažérovi Objednávateľa. Predkladá návrh Štúdie realizovateľnosti po schválení poverenou osobou
+Poskytovateľa projektovému manažérovi Objednávateľa.
+g)
+
+Poverená osoba Poskytovateľa: fyzická osoba oprávnená v procese podmienok plnenia predmetu
+Zmluvy, akceptácie a preberacieho konania konať v mene Poskytovateľa podľa Zmluvy. Schvaľuje návrh
+Štúdie realizovateľnosti.
+
+h)
+
+Oprávnená osoba Poskytovateľa: fyzická osoba oprávnená v procese podmienok plnenia predmetu
+Zmluvy, akceptácie a preberacieho konania konať v mene Poskytovateľa podľa Zmluvy. Podpisuje
+schválenú objednávku prác v zmysle Prílohy č.5.
+
+i)
+
+Riadiaci výbor PFS: orgán riadenia realizácie predmetu Zmluvy zložený zo zástupcov Objednávateľa
+a Poskytovateľa.
+
+j)
+
+Časový harmonogram plnenia: termín plnenia uvedený v objednávke pre plnenia v zmysle bodu II.2.f)
+Zmluvy.
+
+Čl. I. Účel a cieľ Zmluvy
+1. Účelom tejto Zmluvy je upraviť práva a povinnosti zmluvných strán pri zabezpečovaní služieb technickej podpory
+softvérového riešenia pre automatizáciu činností spojených s aplikačným programovým vybavením Portálu
+finančnej správy (ďalej len „APV PFS“) a rozvoja funkcionality APV PFS ako komplexného informačného systému
+jednotného rozhrania medzi informačnými systémami Finančnej správy a okolím, pomocou prezentačných
+komponentov a modulov. Rozšírená funkcionalita APV PFS predstavuje zmeny v oblasti rozsahu funkčných
+vlastností APV PFS.
+2. Cieľom tejto Zmluvy je zabezpečenie služieb technickej podpory softvérového riešenia, úprav a zmien APV PFS
+z dôvodu zabezpečenia riadnej prevádzkyschopnosti a rozvoja funkcionality APV PFS.
+Čl. II. Predmet zmluvy
+1. Poskytovateľ sa touto zmluvou zaväzuje zabezpečiť služby technickej podpory softvérového riešenia pre
+automatizáciu činností spojených s APV PFS a poskytovať ich Objednávateľovi riadne a včas v rozsahu a za
+podmienok dohodnutých v tejto Zmluve a v jej prílohách a dodať a implementovať pre Objednávateľa dielo,
+spočívajúce v zmene a/alebo rozvoji funkcionality APV PFS, ktoré vznikne ako výsledok poskytovaných služieb
+zmysle bodu 2 písm. f) tohto článku, a ktoré sa Poskytovateľ zaväzuje riadne a včas odovzdať Objednávateľovi.
+Objednávateľ sa zaväzuje predmet Zmluvy alebo jeho časť prevziať a zaplatiť Poskytovateľovi cenu podľa čl. VI.
+Zmluvy. Služby budú zabezpečené a dielo vytvorené v súlade so špecifikáciou, uvedenou v Prílohe č. 1 Zmluvy
+a príslušnými objednávkami vystavenými v súlade so Zmluvou a bude vykazovať funkčné špecifikácie zmluvne
+popísané v príslušných ustanoveniach zmluva a jej príloh.
+2.
+
+Zmluvné strany sa dohodli, že predmetom tejto zmluvy je:
+a) poskytovanie služieb servisného hotline
+b) podpora pri realizácii prevádzkových zásahov (podpora prevádzky systému)
+c) realizácia pravidelných preventívnych zásahov (profylaktika a monitoring)
+d) realizácia servisných zásahov (riešenie incidentov) v prípade nefunkčnosti systému alebo jeho komponentov
+-3/52-
+
+e) realizácia servisných zásahov podľa požiadaviek (riešenie požiadaviek na zmenu konfigurácie)
+f) ostatné služby.
+3.
+
+Podrobná špecifikácia obsahu a rozsahu služieb technickej podpory APV PFS v zmysle bodu II.2.a-f) je uvedená
+v Prílohe č. 1 tejto Zmluvy.
+
+Čl. III. Podmienky plnenia predmetu zmluvy
+1. Služby technickej podpory (ďalej aj ako „služby“) v zmysle bodu II.2.a-f) sa Poskytovateľ zaväzuje vykonávať
+osobne, alebo vzdialeným prístupom prostredníctvom zabezpečeného sieťového VPN spojenia z priestorov
+Poskytovateľa ku infraštruktúre APV PFS v priestoroch Poskytovateľa alebo Objednávateľa v Bratislave a/alebo v
+Banskej Bystrici, kde sú alebo budú inštalované komponenty APV PFS v zmysle špecifikácie predmetu plnenia.
+2. Záväzky Poskytovateľa vyplývajúce z predmetu tejto Zmluvy sa považujú za riadne splnené poskytnutím služby
+uvedenej v bode II.2. Zmluvy a jej prevzatím Objednávateľom.
+3. Požiadavky na poskytnutie služieb je Objednávateľ povinný nahlasovať na nasledovné kontakty Poskytovateľa:
+a) Telefonicky na telefónnom čísle kontaktného centra Poskytovateľa:
+spolu so zákazníckym číslom pre APV PFS „Zákaznícke číslo: 0105“,
+b) alebo faxom na telefónnom čísle:, pričom Objednávateľ je povinný do záhlavia faxovej správy uviesť text pre APV
+PFS „Zákaznícke číslo: 0105“
+c) alebo emailom: pre APV PFS na adrese
+4. Zoznam osôb oprávnených pre nahlásenie požiadavky na poskytnutie služieb zo strany Objednávateľa a ich
+kontaktné údaje v zmysle bodu II.2.a-e) bude dodaný Poskytovateľovi v písomnej forme alebo e-mailom do 10 dní
+od nadobudnutia účinnosti tejto Zmluvy. Každá zmena bude bezodkladne nahlásená Poskytovateľovi písomne alebo
+e-mailom.
+5. Poskytovateľ sa zaväzuje poskytovať služby v zmysle bodu II.2.a-f) za nasledovných podmienok:
+a) Základná doba (ďalej len „Základné časové pokrytie“) pre poskytovanie služieb podľa tejto Zmluvy je od 8:00 do
+16:00 hod., od pondelka do piatku, s výnimkou štátom uznaných sviatkov (ďalej len „8x5“), pokiaľ nie je explicitne
+uvedené inak pre vybrané služby.
+b) Poskytovateľ sa zaväzuje poskytovať služby a vykonávať nasledovne:
+Úroveň časového pokrytia
+Servisná služba v súlade s bodom II.2. Zmluvy
+
+Kritické problémy
+a požiadavky
+
+Ostatné problémy
+a požiadavky
+s normálnou prioritou
+
+II.2.a) poskytovanie služieb servisného hotline
+
+24x7
+
+24x7
+
+II.2.b) podpora pri realizácii
+systému)
+
+24x7
+
+8x5
+
+II.2.c) realizácia pravidelných preventívnych zásahov (profylaktika a monitoring)
+
+8x5
+
+8x5
+
+II.2.d) realizácia servisných zásahov (riešenie incidentov) v prípade nefunkčnosti
+systému alebo jeho komponentov
+
+24x7
+
+8x5
+
+II.2.e) realizácia servisných zásahov podľa požiadaviek (riešenie požiadaviek na
+zmenu konfigurácie)
+
+24x7
+
+8x5
+
+prevádzkových zásahov (podpora prevádzky
+
+-4/52-
+
+c)
+
+Poskytovateľ sa zaväzuje začať so servisným zásahom kritického problému a požiadavky (riešením Incidentu
+kompetentným zamestnancom podpory) v lehote do 1 hodiny od nahlásenia Incidentu takto:
+i) v prípade potreby sa telefonicky spojí s technickou podporou Objednávateľa,
+ii) v prípade potreby je schopný okamžite sa vzdialene pripojiť na infraštruktúru objednávateľa,
+
+d)
+
+iii) v prípade potreby je schopný osobne sa dostaviť do priestorov prevádzky objednávateľa v Bratislave a/alebo
+v Banskej Bystrici
+Poskytovateľ sa zaväzuje začať so servisným zásahom bežného problému a požiadavky (riešením Incidentu
+kompetentným zamestnancom podpory) bez zbytočného odkladu v lehote najneskôr do 24 hodín od nahlásenia
+Incidentu takto:
+i) v prípade potreby sa telefonicky spojí s technickou podporou Objednávateľa,
+ii) v prípade potreby sa okamžite vzdialene pripojí na infraštruktúru objednávateľa,
+iii) v prípade potreby sa osobne dostaví do priestorov prevádzky objednávateľa v Bratislave a/alebo v Banskej
+Bystrici
+
+e) V prípade potreby sa Poskytovateľ zaväzuje v súčinnosti s technickou podporou Objednávateľa okamžite riešiť
+Incident až do:
+i) jeho vyriešenia, alebo
+ii) zabezpečenia dočasného režimu funkčnosti systému (funkcia a plánovaná použiteľnosť systému je v zmysle
+požiadaviek a funkčnej špecifikácie síce poskytovaná odlišne, avšak nie je podstatne ovplyvňované jej pôvodne
+plánované použitie) vytvorením náhradného postupu alebo dočasného riešenia.
+6. V prípade potreby a/alebo požiadavky Objednávateľa na poskytnutie predmetu plnenia v zmysle bodu II.2.f) Zmluvy
+je Objednávateľ oprávnený objednať príslušné plnenie na základe písomnej objednávky. Výsledkom poskytnutia
+takýchto služieb môže byť nové dielo v zmysle § 7 ods. 1 písm. a) Autorského zákona, ku ktorému nadobúda
+objednávateľ majetkové práva v zmysle čl. XI. tejto Zmluvy. Plnenia v zmysle bodu II.2.f) Zmluvy budú
+objednávané nasledovne:
+a) Projektový manažér zo strany Objednávateľa, prípadne ním poverená osoba, spracuje Požiadavku na
+poskytnutie služieb predmetu plnenia alebo jeho časti podľa vzoru uvedeného v Prílohe č. 4 a odošle
+poverenej osobe zo strany Objednávateľa na schválenie.
+b) Po schválení Poverenou osobou Objednávateľa bude predložená Požiadavka na poskytnutie služieb predmetu
+plnenia podľa vzoru uvedeného v Prílohe č. 4 oprávnenej osobe zo strany Objednávateľa na schválenie.
+c) Po schválení Požiadavky na poskytnutie služieb predmetu plnenia oprávnenou osobou Objednávateľa podľa
+vzoru uvedeného v Prílohe č. 4 predloží Projektový manažér Objednávateľa schválenú Požiadavku
+Projektovému manažérovi zo strany Poskytovateľa.
+d) Každá prijatá požiadavka bude považovaná za platnú v prípade, že bude spracovaná v zmysle nasledovných
+skutočností:
+i)
+
+bude odoslaná projektovým manažérom Objednávateľa;
+
+ii)
+
+bude doručená projektovému manažérovi Poskytovateľa,
+
+iii)
+
+Požiadavka bude spracovaná podľa Prílohy č. 4 Zmluvy, pričom všetky údaje budú náležite vyplnené
+a požiadavka bude podpísaná všetkými relevantnými zástupcami Objednávateľa.
+
+e) Postup uvedený v bodoch 6.a)-d) tohto článku sa nevzťahuje na platnú Požiadavku na poskytnutie služieb č.
+SLA_PFS_1/2015, ktorá tvorí Prílohu č.8 tejto Zmluvy. Termínom jej vystavenia je dátum účinnosti tejto
+Zmluvy.
+-5/52-
+
+f)
+
+Projektový manažér zo strany Poskytovateľa predloží spracovaný dokument “Štúdia realizovateľnosti“
+podpísaný poverenou osobou Poskytovateľa oprávnenej osobe Objednávateľa, ktorá ho po posúdení postúpi
+projektovému manažérovi Objednávateľa. V tomto dokumente bude uvedený popis predmetu plnenia,
+harmonogram realizácie, odhadovaný celkový rozsah prác, nevyhnutných na poskytnutie predmetu plnenia
+alebo jeho časti v zmysle bodu II.2.f) Zmluvy a cenová kalkulácia v zmysle písm. h) tohto bodu.
+
+g) Poverená osoba Objednávateľa na základe schválenej požiadavky vyhotoví a podpíše Objednávku práce
+v zmysle Prílohy č.5 a odošle oprávnenej osobe Objednávateľa na schválenie. Po schválení oprávnenou
+osobou zo strany Objednávateľa doručí projektový manažér Objednávateľa Objednávku práce spracovanú
+v zmysle Prílohy č.5 projektovému manažérovi Poskytovateľa. Oprávnená osoba Poskytovateľa príjme
+Objednávku práce v súlade s odsúhlasenou Štúdiou realizovateľnosti v písomnej forme. Platná Objednávka
+práce bude obsahovať špecifikáciu predmetu plnenia, harmonogram realizácie, cenu, platobné podmienky
+a podpis oprávnenej osoby Objednávateľa s podpisom poverenej osoby Objednávateľa alebo projektového
+manažéra Objednávateľa. Vzor Objednávky práce je uvedený v Prílohe č. 5 Zmluvy.
+h) Cena takého plnenia bude stanovená na základe samostatnej kalkulácie za použitia nasledovných
+jednotkových cien, pri zachovaní maximálneho finančného limitu podľa bodu VI.1. c) tejto Zmluvy, pričom cena
+1 človekomesiaca je 12.540,00€ bez DPH:
+Rola
+Operátor
+Technik podpory
+Mladší (junior) konzultant
+Konzultant
+Starší konzultant
+Programátor
+Dokumentarista
+Projektový manažér
+
+Sadzba za človekodeň bez DPH
+
+Sadzba za človekodeň s DPH
+
+541,00 €
+610,00 €
+720,00 €
+800,00 €
+830,00 €
+700,00 €
+660,00 €
+867,00 €
+
+649,20 €
+732,00 €
+864,00 €
+960,00 €
+996,00 €
+840,00 €
+792,00 €
+1 040,40 €
+
+7.
+
+Postup uvedený v bode 6.f)-h) tohto článku sa uplatňuje vrátane požiadavky podľa bodu 6.e) tohto článku.
+
+8.
+
+Poskytovateľ sa zaväzuje všetky prevádzkové a servisné zásahy realizovať v súlade s plánom prevádzkových
+zásahov a preventívnych zásahov, alebo na základe požiadania poverených zamestnancov Objednávateľa.
+Výnimku tvoria servisné zásahy v prípadoch, kedy je ohrozená prevádzkyschopnosť a dostupnosť systému. V
+tomto prípade sa Poskytovateľ zaväzuje realizovať zásah okamžite a súčasne informovať poverených
+zamestnancov Objednávateľa.
+
+9.
+
+Poskytovateľ bude mať zriadený prístup k podporovanej infraštruktúre v zmysle tejto Zmluvy.
+
+Čl. IV. Miesto plnenia
+1. Miesta plnenia sú:
+a) Finančné riaditeľstvo SR, Mierová 23, Bratislava, Slovenská republika,
+b) Finančné riaditeľstvo SR, Nová ul. 13, Banská Bystrica, Slovenská republika.
+
+-6/52-
+
+Čl. V. Doba trvania Zmluvy a termíny plnenia
+1. Táto Zmluva sa uzatvára na obdobie 24 mesiacov, ktoré začína plynúť dňom nadobudnutia účinnosti Zmluvy.
+2. Termíny plnenia:
+a)
+
+Zabezpečenie služieb podpory v zmysle bodu II.2. a-e) mesačne.
+
+b)
+
+Zabezpečenie ostatných služieb v zmysle bod II.2.f) na základe písomnej objednávky Objednávateľa schválenej
+podľa bodov III.6.g)-h) zmluvy.
+
+3. V prípade posunu termínu zo strany Objednávateľa sa pomerným spôsobom posúvajú všetky ďalšie termíny
+plnenia predmetu zmluvy v zmysle bodu II.2.f).
+Čl. VI. Cena za predmet zmluvy a odmena za udelenie súhlasu na použitie APV
+1. Zmluvné strany sa dohodli, že maximálna, počas trvania tejto Zmluvy neprekročiteľná, zmluvná cena za predmet
+plnenia
+tejto
+zmluvy
+je
+vo
+výške
+6 463 450,00
+EUR
+bez
+DPH
+(slovom:
+šesťmililónovštyristošesťdesiattritisícštyristopädesiat Eur) stanovená dohodou zmluvných strán podľa zákona č.
+18/1996 Z.z. o cenách a vyhlášky Ministerstva financií SR č. 87/1996 Z.z. ktorou sa vykonáva zákon č. 18/1996 Z.z.
+o cenách v znení neskorších predpisov nasledovne:
+a)
+
+Cena za poskytovanie služieb v zmysle bodu II.2.a-e) za obdobie do 31.12.2015 je stanovená vo výške 55
+820,00 EUR bez DPH formou mesačného paušálu (slovom: päťdesiatpäťtisícosemstodvadsať Eur). Cena za
+poskytovanie služieb v zmysle bodu II.2.a-e) za obdobie od 1.1.2016 je stanovená vo výške 84 094,00 EUR
+bez DPH formou mesačného paušálu (slovom: osemdesiatštyritisícdeväťdesiatštyri Eur). Celková cena za
+obdobie 24 mesiacov je stanovená v maximálnej výške 1 905 160,00 EUR bez DPH (slovom:
+jedenmilióndeväťstopäťtisícstošesťdesiat Eur).
+
+b)
+
+Cena za predmet plnenia v zmysle bodu II.2.f) je stanovená v súlade s bodom III.6.h) Zmluvy s maximálnym
+finančným limitom do výšky 2 279 145,00 EUR
+(slovom: dvamiliónydvestosedemdesiatdeväťtisícstoštyridsaťpäť EUR) bez DPH za obdobie 12 mesiacov..
+
+c)
+
+Maximálny neprekročiteľný finančný limit ceny predmetu Zmluvy v zmysle bodu II.2.f) počas trvania tejto
+Zmluvy je rovný maximálnemu finančnému limitu z bodu 1.b) tohto článku od 1. do 12. mesiaca od účinnosti
+zmluvy a maximálnemu finančnému limitu z bodu 1.b) tohto článku od 13. do 24. mesiaca od účinnosti
+zmluvy.
+
+K cene bez DPH bude pripočítaná DPH v sadzbe podľa všeobecne záväzných právnych predpisov v čase vystavenia
+faktúry. Podrobná cenová ponuka je súčasťou Prílohy č. 1 Zmluvy (viď tabuľka s názvom Rozpočet).
+2. Objednávateľ uhradí Poskytovateľovi stanovenú zmluvnú cenu podľa bodu 1. tohto článku Zmluvy za predmet
+plnenia podľa nižšie uvedených platobných podmienok, pričom:
+a)
+
+Cena v zmysle bodu 1.a) tohto článku bude uhradená po ukončení príslušného kalendárneho mesiaca a po
+riadnom poskytnutí služieb v zmysle bodu II.2.a-e).
+
+b)
+
+V prípade nadobudnutia účinnosti zmluvy k inému dňu ako je 1. deň v kalendárnom mesiaci, bude cena za
+plnenia podľa čl. II.2.a-e) vypočítaná ako podiel mesačného paušálu z bodu 1.a) tohto článku podľa
+príslušného kalendárneho obdobia a počtu kalendárnych dní príslušného mesiaca prenásobený počtom
+kalendárnych dní, za ktoré bola poskytnutá technická podporá v príslušnom mesiaci.
+Cena v zmysle bodu 1.b) tohto článku bude uhradená po odovzdaní a prevzatí riadne poskytnutých ostatných
+služieb v zmysle bodu II.2.f) súvisiacich s prevádzkou APV PFS a v súlade s príslušnou objednávkou.
+
+c)
+
+-7/52-
+
+3. Objednávateľ sa zaväzuje uhradiť cenu s pripočítaním DPH v zákonom stanovenej výške po riadnom vykonaní a
+protokolárnom prevzatí časti predmetu Zmluvy, a to na základe faktúr vystavených Poskytovateľom. Akceptačný
+protokol bude vystavený v zmysle Prílohy č.3 Zmluvy a bude tvoriť prílohu k faktúre.
+4. Výkony realizované mimo základného časového pokrytia musia byť vopred odsúhlasené Objednávateľom a budú
+účtované so 100% príplatkom.
+5. Dodatok, ktorým by sa zvyšovala cena plnenia alebo jeho časti, je možné uzatvoriť len v súlade s aplikovateľnými
+právnymi predpismi, platnými na území Slovenskej republiky.
+Čl. VII. Platobné podmienky a fakturácia
+1. Objednávateľ je povinný zaplatiť Poskytovateľovi cenu za predmet Zmluvy (alebo jeho časť), uvedenú v článku VI.
+Zmluvy, do 30 dní odo dňa podpísania akceptačného protokolu prevodom na účet Poskytovateľa uvedený v záhlaví
+tejto Zmluvy. Poskytovateľ sa zaväzuje doručiť faktúru do sídla Objednávateľa do piatich dní od podpisu
+akceptačného protokolu. Za deň doručenia sa považuje deň doručenia faktúry do sídla Objednávateľa.
+Neoddeliteľnou súčasťou faktúry bude potvrdený Akceptačný protokol podľa čl. IX. tejto Zmluvy.
+2. Pokiaľ nie je dohodnuté inak, nárok Poskytovateľa na vystavenie faktúry vzniká v deň akceptácie príslušného
+čiastkového plnenia. Ak sa po plnení zhotoviteľa má uskutočniť prehliadka plnenia na účel zistenia či zhotoviteľ plnil
+riadne, je objednávateľ v zmysle § 340b ods. 3 Obchodného zákonníka povinný plniť peňažný záväzok v lehote
+splatnosti 30 dní odo dňa skončenia prehliadky, ktorou sa zistilo riadne plnenie, t.j. odo dňa podpísania
+akceptačného protokolu.
+3. Cena za predmet Zmluvy bude Objednávateľom uhradená výlučne Poskytovateľovi podľa tejto Zmluvy a v zmysle
+Prílohy č.1 a/alebo v súlade s čl. VI. Zmluvy v príslušnej časti vždy po akceptácii príslušného čiastkového plnenia
+Poskytovateľa v súlade s článkom IX. tejto Zmluvy.
+4. Podkladom pre zaplatenie ceny bude faktúra, vystavená Poskytovateľom v súlade so zákonom č. 222/2004 Z. z. o
+dani z pridanej hodnoty v znení neskorších predpisov a zákona č. 431/2002 Z. z. o účtovníctve v platnom znení
+vždy po akceptácii čiastkového plnenia a odoslaná oprávnenej osobe Objednávateľa. Faktúra za plnenia bude
+vystavená po podpísaní príslušného akceptačného protokolu, ktorý tvorí prílohu k faktúre. Poskytovateľ zároveň
+uvedie na faktúre číslo zmluvy Objednávateľa. V deň fakturácie bude fakturovaná DPH v sadzbe podľa platného
+zákona o dani z pridanej hodnoty.
+5. Ak bude faktúra obsahovať nesprávne alebo neúplné údaje, má Objednávateľ právo v lehote splatnosti faktúru
+vrátiť Poskytovateľovi s uvedením nesprávnych alebo neúplných údajov. Poskytovateľ daňový doklad – faktúru
+opraví, alebo vystaví novú a doručí Objednávateľovi. Dňom vystavenia opravenej alebo novo-vystavenej faktúry
+začína plynúť nová lehota splatnosti.
+6. Každý z peňažných záväzkov Objednávateľa bude platený prostredníctvom banky a ako taký bude splnený
+pripísaním príslušnej sumy (vrátane DPH) na účet Poskytovateľa uvedeného v záhlaví tejto Zmluvy.
+7. Poskytovateľ môže prerušiť plnenie, ak Objednávateľ ani po predchádzajúcom písomnom upozornení neuhradí
+akúkoľvek splatnú čiastku podľa tejto Zmluvy ani v náhradnej lehote určenej Poskytovateľom v takom upozornení.
+Čl. VIII. Povinnosti zmluvných strán, súčinnosť a iné záväzky zmluvných strán
+1. Objednávateľ sa zaväzuje:
+
+-8/52-
+
+a)
+
+b)
+c)
+d)
+e)
+f)
+g)
+
+Poskytnúť Poskytovateľovi súčinnosť nevyhnutnú na vykonanie predmetu plnenia podľa tejto Zmluvy.
+Objednávateľ odovzdá Poskytovateľovi bez zbytočného odkladu po nadobudnutí účinnosti tejto Zmluvy všetky
+podklady potrebné na vykonanie predmetu plnenia.
+Zabezpečiť Poskytovateľovi prípadné konzultácie k súčasnému technologickému postupu.
+Pre zamestnancov Poskytovateľa zabezpečiť poverenia, na základe ktorých budú môcť získavať informácie
+nevyhnutné na poskytovanie služieb podľa tejto zmluvy, na dohodnutých miestach,
+Sprístupniť priestory, technickú, komunikačnú a systémovú infraštruktúru pre realizáciu plnenia podľa tejto
+zmluvy,
+Zabezpečiť prítomnosť poverenej osoby objednávateľa v mieste plnenia u Objednávateľa na splnenie
+záväzku Poskytovateľa v zmysle tejto Zmluvy.
+Zabezpečiť odborných garantov pre jednotlivé problémové oblasti s potrebnými kompetenciami pre
+rozhodovanie a bezodkladne oznámiť Poskytovateľovi akúkoľvek zmenu garantov a kontaktných osôb.
+Zabezpečiť Poskytovateľovi všetky relevantné legislatívne, metodické, koncepčné, dokumentačné,
+normatívne a ďalšie materiály a dokumenty vzťahujúce sa k problematike projektu.
+
+2. Poskytovateľ bude postupovať podľa procesného modelu projektového riadenia, v zmysle platného výnosu MF SR
+o štandardoch pre informačné systémy verejnej správy.
+3. Poskytovateľ sa zaväzuje:
+a)
+
+b)
+c)
+d)
+
+Vykonávať služby technickej podpory v rámci plnenia predmetu zmluvy, špecifikovaného touto Zmluvou
+riadne a včas, pričom jeho plnenie je podmienené poskytnutím súčinnosti zo strany Objednávateľa, najmä
+včasným poskytnutím všetkých potrebných podkladov a nevyhnutnej súčinnosti.
+Neodkladne písomne informovať Objednávateľa o každom prípadnom zdržaní, či iných skutočnostiach, ktoré
+by mohli ohroziť včasné a riadne poskytnutie jeho služieb.
+Riadiť
+sa
+odporučeniami
+miestneho
+správcu
+informačného
+systému
+Objednávateľa,
+s ktorými ho Objednávateľ preukázateľne oboznámi.
+predložiť Objednávateľovi vyhlásenie o splnení požiadaviek podľa platnej legislatívy, najmä výnosu MF SR
+o štandardoch pre informačné systémy verejnej správy.
+
+4. Objednávateľ a Poskytovateľ bude viesť o činnostiach realizovaných v rámci plnenia predmetu tejto zmluvy
+príslušnú dokumentáciu. Táto dokumentácia môže byť vedená aj v elektronickej forme. Spôsob aktualizácie
+dokumentácie a jej priebežného sprístupňovania bude dohodnutá zástupcami oboch zmluvných strán poverených
+koordináciou súčinnosti.
+5. Pred inštaláciou vykonávanou Poskytovateľom je Objednávateľ povinný zabezpečiť prípravu jej miesta v súlade s
+pokynmi vydanými Poskytovateľom, ktoré musia byť Poskytovateľom vydané v dostatočnom časovom predstihu,
+ktorý umožní Objednávateľovi riadne splniť uvedený záväzok.
+6. Pokiaľ Poskytovateľ vykonáva inštaláciu produktov/komponentov, platia nasledujúce podmienky:
+6.1. Objednávateľ bude povinný pred inštaláciou:
+a) riadne zaobchádzať s produktami/komponentami
+produktov/komponentov,
+
+v súlade
+
+s dokumentáciou
+
+výrobcu
+
+takých
+
+b) zaistiť všetky veci potrebné pre inštaláciu a primerane pripraviť miesto inštalácie v súlade s odporučením
+Poskytovateľa,
+-9/52-
+
+c) včas umožniť Poskytovateľovi prístup k produktom/komponentom za účelom ich inštalácie.
+7. Inštaláciu aplikačného programového vybavenia sa Poskytovateľ zaväzuje vykonať v súlade s príslušným
+popisom vlastností programových produktov/komponentov predmetu plnenia.
+8. Dodržanie termínu plnenia poskytovaného podľa bodu II.2. f) je závislé aj na včasnom a riadnom poskytnutí
+primeranej súčinnosti objednávateľa. Pre zamedzenie pochybností sa stanovuje, že súčasťou primeranej
+súčinnosti Objednávateľa nie sú plnenia, ktoré má Poskytovateľ poskytnúť ako súčasť predmetu Zmluvy. Ak si
+Objednávateľ nebude plniť svoje povinnosti, ktoré mu vyplývajú z tejto Zmluvy, má sa za to, že Poskytovateľ nie je
+v omeškaní s plnením svojich záväzkov vyplývajúcich z tejto Zmluvy. Poskytovateľ bude oprávnený primerane
+predĺžiť (oddialiť) termíny svojho plnenia alebo implementácie predmetu plnenia alebo jeho jednotlivých častí.
+Také predĺženie – oddialenie termínov bude prerokované a schválené na najbližšom zasadaní Riadiaceho výboru
+PFS. Predĺženie čiastkových termínov plnenia poskytovaného podľa bodu II.2.f) je v kompetencii Riadiaceho
+výboru PFS.
+9. Na poskytovanie niektorých služieb, ktoré tvoria súčasť poskytovaného plnenia pre Objednávateľa, má
+Poskytovateľ, za podmienok dohodnutých v tejto zmluve, právo uzatvárať subdodávateľské Zmluvy. Poskytovateľ
+zodpovedá za tieto plnenia akoby ich poskytoval sám a je povinný odovzdávať Objednávateľovi služby sám, na
+svoju zodpovednosť, v dohodnutom čase a v dohodnutej kvalite. Zoznam subdodávateľov tvorí prílohu č. 9 tejto
+Zmluvy.
+10. Poskytovateľ je oprávnený zmeniť subdodávateľa počas trvania Zmluvy, pričom subdodávateľ, ktorého sa návrh
+na zmenu týka, musí spĺňať podmienky podľa § 26 ods. 1 zákona o verejnom obstarávaní. Poskytovateľ je
+povinný Objednávateľovi najneskôr v deň, ktorý predchádza dňu, v ktorom subdodávateľ začne plniť predmet
+Zmluvy, predložiť písomné oznámenie o zmene subdodávateľa, ktoré bude obsahovať minimálne: podiel zákazky,
+ktorý má Poskytovateľ v úmysle zadať subdodávateľovi, identifikačné údaje navrhovaného subdodávateľa
+a čestné vyhlásenie Poskytovateľa, že navrhovaný subdodávateľ spĺňa podmienky podľa § 26 ods. 1 zákona
+o verejnom obstarávaní. Porušenie tejto povinnosti sa považuje za podstatné porušenie Zmluvy.
+11. Poskytovateľ zaplatí zmluvnú pokutu vo výške 3000,- EUR ak:
+a)
+
+Poskytovateľ zmení subdodávateľa počas trvania Zmluvy, pričom nový subdodávateľ nespĺňa podmienky
+podľa § 26 ods. 1 zákona o verejnom obstarávaní, alebo
+
+b)
+
+Poskytovateľ porušil alebo riadne a úplne nevykonal povinnosť uvedenú v bode 9. tohto článku, predložiť
+písomné oznámenie o zmene a/alebo doplnení subdodávateľa.
+
+12. Poskytovateľ je povinný pri vykonávaní predmetu Zmluvy postupovať s maximálnou odbornou starostlivosťou a
+v súlade s podmienkami uvedenými v Zmluve a jej prílohách.
+Čl. IX. Akceptácia a preberacie konanie
+1. Poskytnuté služby bude Poskytovateľ odovzdávať a Objednávateľ preberať pre predmet Zmluvy v zmysle bodu
+II.2.a-e) mesačne po ukončení príslušného kalendárneho mesiaca, pre predmet Zmluvy v zmysle bodu II.2.f) na
+základe dohodnutého časového harmonogramu definovaného v príslušnej objednávke. Odovzdanie a prevzatie
+predmetu plnenia (akceptáciu) potvrdia zmluvné strany v akceptačnom protokole, ktorého vzorje uvedený v Prílohe
+č. 3 tejto Zmluvy. Súčasťou akceptačného protokolu bude zoznam vybraných úkonov v zmysle Zmluvy.
+
+-10/52-
+
+2. Všetky vady plnenia a pripomienky objednávateľa k výsledku plnenia poskytovateľa treba zdokumentovať pri
+podpise akceptačného protokolu, vrátane termínov na odstránenie vád na náklady Poskytovateľa. Objednávateľ si
+vyhradzuje právo nepodpísať akceptačný protokol, ak plnenie má vady, brániace riadnemu užívaniu APV PFS.
+3. Preberanie predmetu Zmluvy alebo jeho časti v zmysle bodu II.2.f) Zmluvy sa bude vykonávať v postupných
+krokoch v súlade s objednávkou vystavenou podľa Prílohy č. 5 Zmluvy. Každé čiastkové plnenie predmetu Zmluvy
+v zmysle tohto bodu sa bude považovať za riadne dokončené po jeho akceptácii. Zmluvné strany o tom podpíšu
+akceptačný protokol podľa Prílohy č. 3 Zmluvy, ktorým potvrdia zmenu funkcionality alebo rozvoj APV PFS
+v súlade so zmluvou a jej prílohami, v zmysle bodu II.2.f) Zmluvy. Objednávateľ si vyhradzuje právo neprevziať
+predmet Zmluvy alebo jeho časť, ak vykazuje právne a /alebo faktické vady. Súčasťou akceptačného protokolu
+pre plnenie v zmysle bodu II.2.f) Zmluvy budú aj zdokumentované výsledky testovaní.
+4. Pre predmet Zmluvy poskytnutý v zmysle bodu II.2.f) platia nasledovné ustanovenia:
+4.1. Pokiaľ nie je alebo nebude dohodnuté inak, preberanie čiastkových plnení Zmluvy podliehajúcich preberacím
+testom, sa uskutoční na základe kladného výsledku akceptačného testu príslušného plnenia, ktorý bude
+dohodnutý medzi stranami, pričom test funkčnosti bude spočívať v preskúšaní, či predmetná časť predmetu
+Zmluvy nevykazuje vady znemožňujúce alebo podstatne obmedzujúce prevádzkovanie APV PFS.
+Objednávateľ si vyhradzuje právo neprevziať čiastkové plnenie, ak vykazuje právne a /alebo faktické vady.
+4.2. Poskytnutý predmet plnenia alebo jeho časť bude Poskytovateľ odovzdávať projektovému manažérovi
+Objednávateľa a Objednávateľ preberať na základe dohodnutého časového harmonogramu definovaného
+v príslušnej objednávke, a len za predpokladu úplnosti súvisiacich materiálov a dokladov. Odovzdanie a
+prevzatie predmetu plnenia alebo jeho časti (akceptáciu) potvrdia zmluvné strany v akceptačnom protokole
+v zmysle Prílohy č.3 Zmluvy. Poskytovateľ sa zaväzuje vypracovať a odovzdať aktualizáciu používateľskej,
+prevádzkovej a administrátorskej príručky, ktorú odovzdá Objednávateľovi pri preberaní diela. Objednávateľ
+schváli každú aktualizáciu príručky osobitne. V prípade nesúhlasu s rozsahom Poskytovateľ dopracuje
+príslušnú príručku v termíne stanovenom Objednávateľom.
+5. Projektový manažér, poverená osoba a oprávnená osoba zo strany Objednávateľa a/alebo Poskytovateľa bude
+druhej zmluvnej strane oznámená do 5 pracovných dní od nadobudnutia účinnosti tejto Zmluvy spolu so základnými
+kontaktnými údajmi (telefón a e-mail). Každá zo zmluvných strán oznámi druhej zmluvnej strane do piatich
+pracovných dní každú zmenu kontaktnej osoby.
+Čl. X. Zmenové konanie
+1. Pokiaľ nie je stanovené inak v tejto zmluve, zmeny Zmluvy s dopadom na predmet a cenu Zmluvy, budú dohodnuté
+vždy iba písomnými dodatkami k tejto zmluve, podpísanými oprávnenými zástupcami zmluvných strán, v súlade
+s platnou legislatívou Slovenskej republiky.
+2. Požiadavky na zmenu Zmluvy, ktoré nemajú dopad na predmet Zmluvy (zmena menšieho rozsahu) schvaľuje
+Riadiaci výbor PFS. Žiadna zmena rozsahu dodávky nebude účinná pokiaľ nebude dohodnutá v súlade s touto
+zmluvou. Bližší postup zmenového konania je popísaný v Prílohe č. 2 Zmluvy, ktorá tvorí jej neoddeliteľnú súčasť.
+3. Ak dôjde k dohode o zmene rozsahu predmetu Zmluvy, a z toho vyplývajúcich zmien podmienok plnenia
+Poskytovateľa, riadi sa zmenená časť predmetu Zmluvy tam, kde nebolo dohodnuté inak, pôvodnými ustanoveniami
+tejto Zmluvy.
+4. Poskytovateľ bude realizovať zmeny či doplnky v predmete Zmluvy iba v tom prípade, že bude dosiahnutá dohoda v
+otázkach zmien termínov a zvýšenia či zníženia ceny predmetu Zmluvy, alebo ďalších podmienok zmeneného
+plnenia Poskytovateľa. Bez ohľadu na iné ustanovenia, v prípade zmeny inej ako menšieho rozsahu, bude zmena
+
+-11/52-
+
+realizovaná až na základe samostatného postupu, výsledkom ktorého bude uzavretie písomného dodatku, alebo
+uzavretie samostatnej Zmluvy na také zmenené plnenie, a to v v súlade s platnou legislatívou Slovenskej republiky.
+Čl. XI. Práva a povinnosti Objednávateľa a Poskytovateľa vo vzťahu k novému dielu, autorské a majetkové práva
+k novému dielu
+1. Výsledkom poskytnutia služieb podľa bodu II.2 f) Zmluvy môže byť vytvorenie nového aplikačného programového
+vybavenia. Objednávateľ je na základe tejto Zmluvy oprávnený užívať novo vytvorené aplikačné programové
+vybavenie dodané na základe tejto Zmluvy vrátane projektovej a užívateľskej dokumentácie bez časového
+obmedzenia a spôsobom uvedeným v tomto článku Zmluvy, v súlade s príslušnými ustanoveniami autorského
+zákona.
+2. Objednávateľ je oprávnený:
+a) používať aplikačné programové vybavenie na svojich pracovných staniciach a serveroch a pracovných
+staniciach a serveroch osôb bez obmedzenia počtu používateľov aplikačného programového vybavenia,
+b) zhotoviť a udržiavať zálohové kópie originálneho aplikačného programového vybavenia len pre zabezpečovací
+účel, alebo na nahradenie oprávnene nadobudnutej inštalácie aplikačného programového vybavenia, ak sa
+pôvodná inštalácia zničila alebo inak poškodila.
+3. Objednávateľ sa spolu so Poskytovateľom stáva nositeľom autorského práva k aplikačnému programovému
+vybaveniu vytvorenému v rámci tejto Zmluvy, vrátane projektovej a užívateľskej dokumentácie a ostatných
+predmetov tvoriacich súčasť diela chráneného autorskými právami.
+4. Objednávateľ ani Poskytovateľ nie sú oprávnení bez predbežného súhlasu druhej strany:
+a) prenajímať, vypožičiavať alebo iným spôsobom sprístupňovať aplikačné programové vybavenie tretím
+stranám, alebo poskytovať oprávnenie na jeho užívanie; súhlas nie je potrebný, ak treťou stranou je inštitúcia
+verejnej správy, používajúca APV PFS,
+b) poskytovať resp. sprístupňovať tretím stranám projektovú a užívateľskú dokumentáciu vytvorenú v súvislosti s
+tvorbou aplikačného programového vybavenia; súhlas nie je potrebný, ak treťou stranou je inštitúcia verejnej
+správy, používajúca APV PFS,
+c) vykonávať, alebo si objednať spätnú analýzu aplikačného programového vybavenia realizovaného
+Poskytovateľom s cieľom vytvoriť konkurenčný produkt.
+5. Poskytovateľ vyhlasuje, a zmluvné strany berú na vedomie a súhlasia s tým, že k jednotlivým plneniam (vrátane
+ich akýchkoľvek súčastí zahŕňajúcich tiež software) dodaným alebo poskytnutým Poskytovateľom Objednávateľovi
+podľa tejto Zmluvy na základe licencií udelených Poskytovateľovi tretími osobami, ktoré k nim majú a/alebo
+vykonávajú autorské práva a/alebo práva priemyselného a/alebo iného duševného vlastníctva, Poskytovateľ
+udeľuje Objednávateľovi právo na ich používanie Objednávateľom v súlade, v rozsahu, spôsobom uvedeným
+v tejto Zmluve.
+6. V prípade, že akákoľvek tretia osoba, vrátane zamestnancov Poskytovateľa a/alebo subdodávateľov, bude mať
+akýkoľvek nárok proti Objednávateľovi z titulu porušenia jej autorských práv a/alebo práv priemyselného a/alebo
+iného duševného vlastníctva, Poskytovateľ sa zaväzuje:
+a) bezodkladne obstarať na svoje vlastné náklady a výdavky od takejto tretej osoby súhlas na používanie
+jednotlivých plnení dodaných, poskytnutých, vykonaných a/alebo vytvorených Poskytovateľom,
+subdodávateľom alebo tretími osobami pre Objednávateľa, alebo upraviť jednotlivé plnenie(a) dodané,
+poskytnuté, vykonané a/alebo vytvorené Poskytovateľom, subdodávateľom alebo tretími osobami pre
+-12/52-
+
+Objednávateľa tak, aby už ďalej neporušovali autorské práva a/alebo práva priemyselného a/alebo iného
+duševného vlastníctva tretej osoby, alebo, ak sa jedná o plnenie poskytnuté na základe licencie tretej osoby,
+taký nárok vyriešiť v súlade s tým, čo pre taký prípad stanovujú jej licenčné podmienky uvedené v tejto
+Zmluve, a ak ich niet, tak v súlade s týmito podmienkami; a
+b) poskytnúť Objednávateľovi akúkoľvek a všetku účinnú pomoc a uhradiť akékoľvek a všetky náklady a výdavky,
+ktoré vznikli Objednávateľovi v súvislosti s uplatnením vyššie uvedeného nároku tretej osoby; a
+c) nahradiť Objednávateľovi akúkoľvek a všetku škodu, ktorá vznikne Objednávateľovi v dôsledku uplatnenia
+vyššie uvedeného nároku tretej osoby, a to v plnej výške a bez akéhokoľvek obmedzenia.
+Objednávateľ sa však zaväzuje, že o každom nároku vznesenom takou treťou osobou v zmysle hore uvedeného
+bude bez zbytočného odkladu informovať Poskytovateľa, bude v súvislosti s takým nárokom postupovať podľa
+primeraných pokynov Poskytovateľa a tak, aby sa predišlo vzniku a prípadne zvýšeniu škôd, nevykoná smerom
+k takej tretej osobe žiaden úkon, v dôsledku ktorého by sa postavenie Objednávateľa v súvislosti s takým
+uplatnením nároku zhoršilo, a Poskytovateľovi vystaví a bude po potrebnú dobu udržiavať v platnosti prevoditeľnú
+plnú moc potrebnú na to, aby sa Poskytovateľ mohol za Objednávateľa účinne takému nároku brániť a s takou
+treťou osobou o urovnaní sporu rokovať, a aj inak postupovať tak, ako je to potrebné v záujme ochrany práv
+zmluvných strán.
+7. Poskytovateľ nenesie zodpovednosť za akúkoľvek Poskytovateľom neautorizovanú zmenu diela vykonanú
+Objednávateľom alebo treťou osobou poverenou Objednávateľom.
+8. Autorské práva k aplikačnému programovému vybaveniu v prípade zániku právneho subjektu Poskytovateľa
+prechádzajú v plnej miere na nástupnícky právny subjekt. Ak takýto subjekt v deň zániku právneho subjektu
+nebude ustanovený, alebo k takémuto dňu Poskytovateľ práva k aplikačnému programovému vybaveniu
+neprevedie na iný subjekt, prevádzajú sa autorské práva k aplikačnému programovému vybaveniu v plnej miere
+na Objednávateľa, a to ku dňu zániku Poskytovateľa bez právneho nástupcu.
+9. Cena za nadobudnuté licencie a odplata za udelenie licencie oprávňujúcej na používanie aplikačného
+programového vybavenia je zahrnutá v celkovej cene predmetu Zmluvy. Licencie nadobúda Objednávateľ dňom
+zaplatenia ceny za jednotlivé čiastkové plnenia podľa bodu VI.3. Zmluvy. Vlastnícke právo k súčastiam APV PFS,
+ktoré sa majú podľa Zmluvy stať vlastníctvom Objednávateľa, nadobúda Objednávateľ dňom zaplatenia ceny za
+jednotlivé čiastkové plnenia podľa bodu VI.3. Zmluvy.
+10. Objednávateľovi budú odovzdané zdrojové kódy aplikačného programového vybavenia, počítačových programov,
+ktorých rozmnoženiny budú inštalované a customizované podľa bodu VIII.6. Zmluvy.
+11. Ak v tejto zmluve nie je uvedené inak, na udelenie súhlasu použiť APV PFS sa použijú primerane ustanovenia
+zákona č. 618/2003 Z. z. autorský zákon v znení neskorších predpisov.
+Čl. XII. Náhrada škody
+1. Zmluvná strana, ktorá poruší svoju povinnosť vyplývajúcu z tejto Zmluvy, je povinná nahradiť škodu tým spôsobenú
+druhej zmluvnej strane. Poskytovateľ nezodpovedá za omeškanie a škodu, ktorá vznikla v dôsledku okolností
+vylučujúcich zodpovednosť.
+2. Pri uplatňovaní nárokov na náhradu spôsobenej škody sa zmluvné strany budú riadiť príslušnými ustanoveniami
+Obchodného zákonníka v platnom znení o náhrade škody.
+
+-13/52-
+
+Čl. XIII. Omeškanie a sankcie
+1. Ak bude Poskytovateľ v omeškaní s plnením povinnosti odovzdať Objednávateľovi plnenie poskytnuté podľa bodu
+II. 2. f), môže Objednávateľ požadovať od Poskytovateľa zaplatenie zmluvnej pokuty vo výške 0,04 % za každý deň
+omeškania z ceny tej časti predmetu Zmluvy vrátane DPH, s ktorou je v omeškaní
+2.
+
+Ak bude Poskytovateľ v omeškaní s plnením povinnosti podľa bodu III.5.c), môže Objednávateľ požadovať od
+Poskytovateľa zaplatenie zmluvnej pokuty vo výške 10 % denného paušálu podľa bodu VI.1.a).
+
+3.
+
+Ak bude Poskytovateľ v omeškaní s plnením povinnosti podľa bodu III.5.d), môže Objednávateľ požadovať od
+Poskytovateľa zaplatenie zmluvnej pokuty vo výške 5 % denného paušálu podľa bodu VI.1.a).
+
+4.
+
+V prípade oneskorenej úhrady fakturovanej čiastky je Objednávateľ povinný platiť úrok z omeškania vo výške podľa
+§ 369a v spojení s § 369 ods. 2 Obchodného zákonníka a § 1 ods. 1 nariadenia vlády SR č. 21/2013 Z.z., ktorou sa
+vykonávajú niektoré ustanovenia Obchodného zákonníka, ak ho o jeho zaplatenie Poskytovateľ požiada.
+
+5.
+
+Celková suma všetkých zmluvných pokút a úrokov z omeškania, ktoré bude mať Poskytovateľ a/alebo
+Objednávateľ povinnosť zaplatiť podľa tejto Zmluvy, neprekročí 30 % z finančného limitu podľa bodu VI.1.a)
+Zmluvy. Na zmluvné pokuty nad tento limit sa nebude prihliadať. Zaplatením zmluvnej pokuty nie je dotknutý nárok
+Objednávateľa na náhradu spôsobenej škody.
+
+6.
+
+Žiadna zo zmluvných strán nebude v omeškaní a ani úrok z omeškania neprináleží, ak je omeškanie spôsobené
+okolnosťami vylučujúcimi zodpovednosť, alebo ak omeškanie vzniklo úplne alebo čiastočne okolnosťami na strane
+oprávnenej zmluvnej strany alebo inak mimo kontrolu povinnej strany.
+
+Čl. XIV. Záväzok mlčanlivosti a ochrana údajov
+1. Zmluvné strany sú povinné zachovať obchodné tajomstvo vo vzťahu ku skutočnostiam obchodnej, výrobnej alebo
+technickej povahy súvisiacim s podnikateľskou činnosťou druhej zmluvnej strany, ktoré majú skutočnú, alebo aspoň
+potenciálnu materiálnu alebo nemateriálnu hodnotu, a nie sú v príslušných obchodných kruhoch bežne dostupné.
+2. Zmluvné strany sú povinné zachovávať mlčanlivosť o informáciách, ktoré získali v súvislosti s plnením predmetu
+zmluvy a získané výsledky nesmú ďalej použiť. V prípade, že jedna zo zmluvných strán preukázateľne poruší
+povinnosť mlčanlivosti, zaväzuje sa zaplatiť druhej zmluvnej strane náhradu škody vzniknutú preukázateľne
+porušením tejto povinnosti.
+3. Poskytovateľ sa zaväzuje zachovávať mlčanlivosť o všetkých informáciách, ktoré sa dozvedel v priebehu platnosti
+tejto Zmluvy, a to počas platnosti tejto Zmluvy, ako aj po ukončení platnosti tejto Zmluvy bez časového obmedzenia,
+pokiaľ ho Objednávateľ v konkrétnom prípade tejto povinnosti písomne nezbaví, alebo pokiaľ predmetné informácie
+nie sú verejne známe. Táto povinnosť bude platiť aj pre subdodávateľov Poskytovateľa. V rozsahu zaisťujúcom
+možnosť splnenia takej povinnosti Poskytovateľ uzatvorí s každým subdodávateľom dohodu o mlčanlivosti, pokiaľ
+obdobný záväzok nevyplýva pre takého subdodávateľa zo zákona. Poskytovateľ vyhlasuje, že oboznámil svojich
+zamestnancov, ktorí sa budú podieľať na plnení tejto Zmluvy s povinnosťou mlčanlivosti v zmysle tejto Zmluvy
+a/alebo, že zabezpečí také oboznámenie.
+4. Záväzok mlčanlivosti a ochrana údajov môže podliehať zákonu č. 122/2013 Z. z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov a Obchodnému zákonníku v platnom znení a pre prípad, že informácie
+poskytnuté pri plnení tejto Zmluvy takým právnym predpisom podliehajú, zaväzujú sa ich zmluvné strany
+dodržiavať.
+5. Poskytovateľ v súlade so zákonom č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých
+zákonov zabezpečí poučenie svojich zamestnancov a všetkých osôb, ktoré v rámci plnenia tejto Zmluvy majú
+-14/52-
+
+prístup na pracovisko Objednávateľa, a to najmä s dôrazom na povinnosť mlčanlivosti o osobných údajoch,
+s ktorými prídu do styku u Objednávateľa (§22) a sankciami za porušenie tejto mlčanlivosti (§ 68 ods. 7 písm. e).
+6. Za informáciu podliehajúcu ustanoveniam tohto článku nebude považovaná taká informácia, ktorá je už známa,
+alebo je verejne dostupná, či bola vyvinutá, alebo zákonne získaná od tretej strany bez obmedzenia s jej
+nakladaním v zmysle tejto Zmluvy, ako aj informácia, ktorú je Objednávateľ povinný sprístupniť alebo zverejniť
+podľa zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov
+(zákon o slobode informácií) .
+7. Objednávateľ súhlasí, že Poskytovateľ môže sprístupniť všetky informácie, vrátane informácií, ktoré sú dôverné
+podľa tohto článku, v rozsahu nevyhnutnom k plneniu tejto Zmluvy svojim subdodávateľom.
+8. Každá zo zmluvných strán je tiež oprávnená sprístupniť informáciu podliehajúcu povinnosti mlčanlivosti podľa
+tohto článku v rozsahu požadovanom právoplatným rozhodnutím súdu alebo iného štátneho orgánu alebo
+právnymi predpismi SR. Pred takým sprístupnením informuje o požiadavke na sprístupnenie druhú zmluvnú
+stranu a vykoná primerané opatrenia potrebné na ochranu dôverných informácií druhej zmluvnej strany.
+9. Za dôverné informácie sa považujú informácie, ktoré podliehajú povinnosti mlčanlivosti podľa tohto článku alebo
+podľa príslušných právnych predpisov.
+10. Zmluvné strany sa zaväzujú, že upovedomia druhú zmluvnú stranu o porušení povinnosti mlčanlivosti bez
+zbytočného odkladu potom, ako sa o takomto porušení dozvedeli.
+11. Zmluvné strany budú ochraňovať dôverné informácie druhej zmluvnej strany, a to s rovnakou starostlivosťou ako
+ochraňujú vlastné dôverné informácie rovnakého druhu, vždy však najmenej v rozsahu primeranej odbornej
+starostlivosti a v súlade s vypracovaným bezpečnostným projektom pre APV PFS.
+12. Ustanovenia bodov 1. až 11. tohto článku sú platné aj po dobe platnosti Zmluvy, a to až do doby, kedy sa
+informácie stanú verejne známymi.
+Čl. XV. Záruka, vady
+1. Poskytovateľ poskytuje na predmet plnenia záruku v rozsahu 24 mesiacov. Počas záruky Poskytovateľ zodpovedá
+za funkcionalitu APV PFS, ktorá musí byť v súlade s touto zmluvou a jej príslušnými prílohami. Poskytovateľ
+zodpovedá za to, že APV PFS neobsahuje objednávateľom vyžiadané alebo neschválené funkcie a vlastnosti.
+Nesplnenie tejto požiadavky je porušením tejto zmluvy. Súčasťou záruky je oprava akýchkoľvek zistených chýb
+a nesprávnych funkcií APV PFS, zistených objednávateľom v záručnej dobe, a to aj keď sa jedná o aktualizovanú
+verziu APV. Poskytovateľ je povinný vykonať opravu najneskôr do 10 pracovných dní alebo s písomným súhlasom
+objednávateľa do inej vzájomne dohodnutej lehoty. Ak je oprava zabezpečená dodaním novej verzie APV, súvisiace
+licencie sa objednávateľovi poskytnú bezodplatne v plnom rozsahu. Autorské práva k novému dielu podľa
+ustanovení článku XI. sa v rovnakej miere vzťahujú aj na novú verziu APV. Na oneskorenie v poskytovaní záruky sa
+vzťahujú rovnaké sankcie ako na oneskorenie pri poskytnutí plnenia podľa bodu II. 2. f) podľa článku XIII. tejto
+Zmluvy.
+2. Poskytovateľ zaručuje, že v záručnej dobe bude APV PFS spôsobilý na účel zodpovedajúci jeho určeniu. Záručná
+doba začne plynúť, keď vytvorený predmet plnenia alebo jeho časť bude riadne odovzdaný a prevzatý
+Objednávateľom do užívania.
+3. Poskytovateľ zaručuje, že odovzdaný predmet plnenia alebo jeho časť nemá právne vady, predovšetkým nie je
+zaťažený právami tretích osôb z priemyslového alebo iného duševného vlastníctva. Poskytovateľ sa zaväzuje
+
+-15/52-
+
+nahradiť Objednávateľovi škodu spôsobenú uplatnením nárokov tretích osôb z titulu porušenia ich chránených
+práv súvisiacich s plnením Poskytovateľa, alebo jeho subdodávateľov podľa tejto Zmluvy.
+4. Záruka sa nevzťahuje na vady predmetu plnenia alebo jeho časti, vzniknuté v dôsledku:
+a) nevhodnej alebo nesprávnej údržby, alebo kalibrácie produktov/komponentov a/alebo predmetu plnenia
+(customizácie produktov/komponentov) zo strany Objednávateľa alebo ním poverených osôb, alebo iných
+osôb neschválených Poskytovateľom, ak bola vykonaná v rozpore s pokynmi Poskytovateľa (uvedenými
+v odovzdanej a akceptovanej dokumentácii o nastavení systému),
+b) nesprávneho, alebo neadekvátneho používania produktov/komponentov a/alebo predmetu plnenia ako celku,
+t.j. používania, ktoré je v rozpore s pokynmi k používaniu daných produktov/komponentov a/alebo predmetu
+plnenia obsiahnutými v Poskytovateľom dodanej dokumentácii alebo v dokumentácii
+výrobcu
+produktov/komponentov alebo s tým, čo je pre používanie daných produktov/ komponentov obvyklé,
+c) neautorizovanej modifikácie, operácie, opravy, alebo využitia produktov/komponentov a/alebo predmetu
+plnenia,
+d) využitia produktov/komponentov a/alebo predmetu plnenia v prostredí inom než dodanom alebo odporučenom
+Poskytovateľom,
+e) nesprávnej prípravy a údržby miesta využívania produktov/komponentov a/alebo predmetu plnenia alebo ich
+častí,
+f)
+
+použitia softvéru, rozhraní, alebo náhradných dielov nedodaných, alebo neodporučených Poskytovateľom,
+alebo zo vzájomnej neznášanlivosti medzi takým softvérom, rozhraním, alebo náhradným dielom
+a produktom/komponentom dodaným Poskytovateľom,
+
+g) zneužitia, nedbalosti, straty, alebo poškodenia pri preprave zo strany iných osôb ako Poskytovateľa alebo
+osôb ním poverených,
+h) zásahu pracovníka tretej strany do predmetu plnenia bez súhlasu Poskytovateľa,
+i)
+
+poruchy alebo vady produktov/komponentov, ktoré musia byť Poskytovateľom preukázateľné.
+
+Čl. XVI. Doručovanie
+1. Doručením sa rozumie prijatie zásielky zmluvnou stranou, ktorej bola adresovaná na adresu Objednávateľa
+a Poskytovateľa.
+2. Za deň doručenia zásielky zmluvnej strane, ktorej bola adresovaná sa považuje takisto deň
+a) v ktorom táto zmluvná strana ju odoprela prijať,
+b) ktorým márne uplynula odberná lehota pre jej vyzdvihnutie si na pošte alebo
+c) v ktorý bola na nej zamestnancom pošty vyznačená poznámka, že “adresát sa odsťahoval”, “adresát je
+neznámy” alebo iná poznámka, ktorá podľa poštového poriadku znamená nedoručiteľnosť zásielky.
+Čl. XVII. Vyššia moc, ukončenie a odstúpenie od Zmluvy,
+1. Pre účely tejto Zmluvy sa za vyššiu moc považujú udalosti, ktoré nie sú závislé od konania zmluvných strán, a ktoré
+nemôžu zmluvné strany ani predvídať ani nijakým spôsobom priamo ovplyvniť, ako napr. vojna, mobilizácia,
+povstanie, živelné pohromy, požiare, embargo, karantény, atď.
+-16/52-
+
+2. Každá zo zmluvných strán je oprávnená vypovedať túto zmluvu, pokiaľ druhá zmluvná strana opakovane poruší
+svoju zmluvou určenú povinnosť a ani po písomnej výzve dotknutej zmluvnej strany, obsahujúcej aj určenie
+dodatočnej primeranej lehoty na splnenie predmetnej zmluvnej povinnosti, svoju povinnosť nesplní.
+3. Prípadné odstúpenie od tejto Zmluvy musí oprávnená zmluvná strana doručiť druhej zmluvnej strane v písomnej
+forme, v ktorej musí toto oprávnenie preukázať. Práva a povinnosti zmuvných strán pri odstúpení od Zmluvy sa
+budú riadiť príslušnými ustanoveniami Obchodného zákonníka.
+4. Zmluvné strany sú oprávnené ukončiť túto Zmluvu:
+a)
+
+písomnou dohodou oboch zmluvných strán, alebo
+
+b)
+
+výpoveďou bez uvedenia dôvodu s trojmesačnou výpovednou lehotou, pričom výpovedná lehota začína
+plynúť prvým dňom mesiaca nasledujúceho po doručení písomnej výpovede druhej zmluvnej strane.
+
+5. Odstúpením od Zmluvy nebudú dotknuté práva a povinnosti zmluvných strán ohľadom plnení Poskytovateľa, ktoré
+boli do tej doby Poskytovateľom riadne a včas vykonané a Objednávateľom riadne prevzaté (akceptované).
+6. Odstúpenie od Zmluvy sa nedotýka nárokov strán na náhradu škody vzniknutej porušením Zmluvy, ako aj tých
+ustanovení, ktoré podľa prejavenej vôle strán alebo vzhľadom na svoju povahu majú trvať aj po ukončení tejto
+Zmluvy.
+Čl. XVIII. Záverečné ustanovenia
+1. Táto zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami obidvoch zmluvných strán a účinnosť
+dňom nasledujúcim po dni jej zverejnenia podľa všeobecne záväzných predpisov platných v čase podpisu Zmluvy.
+2. Táto zmluva sa riadi:
+
+
+
+§ 536 a nasledujúcich Obchodného zákonníka, ako aj jeho inými súvisiacimi ustanoveniami, vždy
+pokiaľ také ustanovenia dispozitívnej povahy nie sú upravené ustanoveniami tejto Zmluvy,
+príslušnými ustanoveniami autorského zákona.
+
+3. Nevykonanie akéhokoľvek práva z tejto Zmluvy neznamená zrieknutie sa, alebo zrušenie takého práva. Ak
+akékoľvek ustanovenie tejto Zmluvy bude vyhlásené za neplatné, nemá táto skutočnosť vplyv na platnosť jej
+ostatných ustanovení.
+4. Podmienky tejto Zmluvy, ktoré svojou povahou presahujú dobu jej platnosti, zostávajú v platnosti v celom rozsahu
+a sú účinné až do okamihu ich splnenia a platia aj pre prípadných nástupcov a postupníkov zmluvných strán.
+5. Túto zmluvu je možné meniť iba formou písomného dodatku podpísaného oprávnenými zástupcami obidvoch
+zmluvných strán.
+6. Práva z tejto Zmluvy nie sú prevoditeľné bez predchádzajúceho písomného súhlasu obidvoch zmluvných strán,
+okrem prevodu užívacích práv a práva na udelenie sublicencie na Finančné riaditeľstvo SR, a to v rozsahu,
+v akom ich Objednávateľ nadobudol na základe tejto Zmluvy. Poskytovateľ bude oprávnený postúpiť neuhradené
+pohľadávky vždy len s predchádzajúcim písomným súhlasom Objednávateľa. Práva a záväzky vyplývajúce z tejto
+Zmluvy prechádzajú na zákonných právnych nástupcov zmluvných strán.
+7. Všetky oznámenia s právnym alebo zmluvným účinkom sa budú písať v slovenskom jazyku a posielať druhej
+strane doporučene (alebo na doručenku) na jej horeuvedenú alebo dodatočne písomne oznámenú adresu.
+
+-17/52-
+
+8. Zmluvné strany sa zaväzujú vyvinúť maximálne úsilie na odstránenie vzájomných sporov vzniknutých na základe
+tejto Zmluvy, alebo v súvislosti s touto zmluvou a k ich vyriešeniu predovšetkým prostredníctvom jednania
+kontaktných osôb, alebo poverených zástupcov.
+9. V prípade formálneho resp. interpretačného nesúladu tejto zmluvy, alebo ktorejkoľvek z príloh tejto zmluvy sú
+záväzné prednostne ustanovenia tejto zmluvy, potom ustanovenia jej príloh.
+10. Všetky spory zo Zmluvy budú podľa dohody obidvoch zmluvných strán riešiť príslušné súdy Slovenskej republiky.
+11. Táto zmluva je vyhotovená v piatich exemplároch, pričom Objednávateľ dostane tri a Poskytovateľ dva exempláre.
+12. Obidve zmluvné strany vyhlasujú, že si túto zmluvu pred jej podpisom prečítali a na dôkaz svojho súhlasu s celým
+obsahom tejto Zmluvy pripájajú osoby k tomu oprávnené každou zo strán svoje podpisy.
+13. Neoddeliteľnú súčasť tejto Zmluvy tvoria nasledovné prílohy:
+1.
+
+Opis predmetu Zmluvy a rozpočet
+
+2.
+
+Zmenové konanie
+
+3.
+
+Akceptačný protokol - vzor
+
+4.
+
+Požiadavka na poskytnutie služieb - vzor
+
+5.
+
+Objednávka práce - vzor
+
+6.
+
+Pravidlá na riadenie prístupu Poskytovateľa na Ministerstve financií Slovenskej republiky
+
+7.
+
+Všeobecné podmienky o zabezpečení informačnej bezpečnosti finančnej správy SR
+
+8.
+
+Požiadavka na poskytnutie služieb č. SLA_PFS_1/2015
+
+9.
+
+Zoznam subdodávateľov
+
+Bratislava, dňa ............................
+
+Bratislava, dňa ............................
+
+............................................................................
+Slovenská republika - Ministerstvo financií SR
+Ing. Jaroslav Mikla
+vedúci služobného úradu
+
+............................................................................
+DITEC, a.s.
+PaedDr. Ivan Sůra
+predseda predstavenstva
+
+...........................................................................
+DITEC, a.s.
+Ing. Csaba Baráth
+podpredseda predstavenstva a generálny riaditeľ
+
+-18/52-
+
+Príloha č. 1
+
+Opis predmetu Zmluvy a rozpočet
+
+Popis rozsahu služieb
+V rámci poskytovania služieb technickej podpory prevádzky APV PFS bude Poskytovateľ vykonávať tieto
+činnosti :
+a) poskytovanie služieb servisného hotline
+b)
+c)
+
+podpora pri realizácii prevádzkových zásahov (podpora prevádzky systému)
+realizácia pravidelných preventívnych zásahov (profylaktika a monitoring)
+
+d)
+
+realizácia servisných zásahov (riešenie incidentov) v prípade nefunkčnosti systému alebo jeho
+komponentov
+
+e)
+f)
+
+realizácia servisných zásahov podľa požiadaviek (riešenie požiadaviek na zmenu konfigurácie)
+ostatné služby
+
+1. Poskytovanie služieb servisného hotline v zmysle bodu II.2.a) Zmluvy
+a) Poskytovanie služieb servisného hotline zahŕňa služby kontaktného centra prostredníctvom
+komunikačných kanálov:
+i) telefonicky na telefónnom čísle kontaktného centra Poskytovateľa
+ii) alebo faxom na telefónnom čísle kontaktného centra Poskytovateľa
+iii) alebo emailom na emailovej adrese kontaktného centra Poskytovateľa
+b) Všetky vyžiadané požiadavky na služby technickej podpory bez ohľadu na primárny spôsob
+nahlásenia (telefón, fax) musia byť následne nahlásené Poskytovateľovi aj formou emailu na
+emailovej adrese kontaktného centra Poskytovateľa.
+c)
+
+Poskytovateľ je povinný formou emailu potvrdiť doručenie požiadavky na poskytnutie služieb
+technickej podpory na pracovisko centrálnej technickej podpory Objednávateľa.
+
+2. Podpora pri realizácii prevádzkových zásahov (podpora prevádzky systému v zmysle bodu II.2.b)
+Zmluvy, ktorými sú:
+a) podpora, resp. aktualizácia konfigurácie systému v súčinnosti s Objednávateľom
+b) podpora pri inštalácii aktualizácií a patchov štandardného systémového software (Objednávateľ
+garantuje vlastníctvo príslušných licencií) v súčinnosti s Objednávateľom
+i) podľa požiadaviek Objednávateľa a podľa vzorových pracovných postupov pre realizáciu
+aktualizácie štandardného programového vybavenia
+c)
+
+ii) na základe potreby plynúcej z aktualizácie aplikačného programového vybavenia
+inštalácie aktualizácií a patchov aplikačného programového vybavenia (bez rozvoja funkcionality
+systému)
+
+d)
+e)
+
+ladenie výkonnosti systému
+ostatné činnosti bežnej podpory prevádzky systému:
+
+-19/52-
+
+i) spracovanie a priebežná aktualizácia vzorovej konfigurácie systému, súčasne so zaškolením
+zamestnancov Objednávateľa,
+ii) spracovanie a priebežná aktualizovacia vzorových pracovných postupov pre aktualizáciu
+systému,
+iii) spracovania a priebežná aktualizovacia vzorových pracovných postupov pre realizáciu
+preventívnych zásahov,
+iv) spracovanie a priebežná aktualizácia vzorových pracovných postupov pre riešenie Incidentov,
+v) spracovanie a priebežná aktualizácia vzorových pracovných postupov pre štandarnú pravidelnú
+administráciu, súčasne so zaškolením zamestnancov Objednávateľa,
+vi) spracovanie a priebežná aktualizácia súpisu vyžadovaných licencií k podporovaným systémom,
+vii) v súčinnosti so zamestnancami Objednávateľa podieľanie sa na spracovaní a aktualizácií
+vzorových pracovných postupov pre zálohovanie a obnovu systému
+viii) Integrácia systémovej podpory, pre ktorú existuje štandardná podpora dodávateľov jednotlivých
+prvkov prevádzkovej infraštruktúry a ktorú môže vykonať Poskytovateľ na požiadanie
+Objednávateľa.
+3. Realizácia pravidelných preventívnych zásahov (profylaktika a monitoring) podľa Vzorových
+pracovných postupov pre realizáciu preventívnych zásahov v zmysle bodu II.2.c) Zmluvy
+a)
+
+b)
+
+c)
+
+Možné spôsoby realizácie preventívnych zásahov:
+i) automatizovaným spôsobom, pomocou SW vybavenia na to určeného,
+ii)vzdialeným prístupom pomocou služby Remote Access Server v súlade s bezpečnostnou
+politikou Objednávateľa,
+iii) osobne, na mieste prevádzky systému.
+Primárnym cieľom preventívnych zásahov je
+i) kontrola konzistencie konfigurácie APV PFS a konzistencie databáz APV PFS
+ii)identifikácia potenciálnych rizík, ohrozujúcich funkcionalitu, dostupnosť a prevádzku APV PFS
+spôsobujúcich výpadky systému, resp. obmedzenia funkcionality a dostupnosti systému.
+Vytvorenie zoznamov systémových služieb:
+i) Poskytovateľ zabezpečí spracovanie a priebežnú aktualizáciu zoznamu (súpisu) služieb,
+bežiacich nad jednotlivým systémom, ktoré je potrebné monitorovať pre zabezpečenie
+bezproblémového chodu systému
+ii) Poskytovateľ zabezpečí dostupnosť aktuálneho zoznamu služieb na monitorovanie systému pre
+zamestnancov objednávateľa prostredníctvom URL k helpdesk systému Poskytovateľa ako
+východiskovému systému pre poskytovanie mesačných výkazov,
+
+d ) Predmetom preventívnych zásahov pre dodaný hardvér a systémový softvér je predkladanie návrhov
+Poskytovateľa na servisné zásahy s cieľom eliminovať identifikované potenciálne riziká
+e)
+
+Konzultácia/asistencia Poskytovateľa pri monitorovaní a revízii stavu prostredia ORACLE
+(Objednávateľ garantuje vlastníctvo príslušných licencií) pre včasnú identifikáciu prípadných
+problémov.
+
+-20/52-
+
+4. Realizácia servisných zásahov (riešenie incidentov) v prípade nefunkčnosti systému alebo jeho
+komponentov v zmysle čl.II ods.2.d) tejto Zmluvy
+a)
+Incident je:
+i)
+výpadok systému – prerušenie prevádzky APV PFS sprevádzané nedostupnosťou služieb
+aplikačného a databázového software (aplikačného a/alebo databázového servera) pre jeho používateľov
+a integrované informačné systémy, spôsobené výlučne v dôsledku Poruchy aplikačného alebo
+databázového software,
+ii)
+porucha funkčnosti APV PFS sprevádzaná nedostupnosťou alebo nesprávnou
+funkčnosťou tak, že sa APV PFS nedá využívať pre pôvodne plánovaný účel a spôsobuje nepoužiteľnosť
+systému na stanovený účel,
+b)
+V prípade identifikácie incidentu, bude Poskytovateľ riešiť incidenty, súvisiace s prevádzkou
+systému:
+i)
+telefonicky, v spolupráci s technickou podporou Objednávateľa,
+ii)
+vzdialeným prístupom pomocou služby Remote Access Server,
+iii)
+osobne, na mieste vzniku Incidentu.
+c)
+Riešenie incidentu Poskytovateľ zrealizuje
+i)
+zmenou konfigurácie systému
+ii)
+reinštaláciou pôvodnej verzie aplikačného programového vybavenia
+iii)
+reinštaláciou pôvodnej verzie alebo inštaláciou aktualizácie systémového software
+v súčinnosti s Objednávateľom
+iv)
+dodaním novej verzie aplikačného programového vybavenia
+d)
+V rámci riešenia incidentu Poskytovateľ zrealizuje:
+i)
+analýzu identifikovaných incidentov a problémov v prevádzkovom prostredí Objednávateľa
+(aktuálna hardware infraštruktúra, systémový software, aplikačné programové vybavenie a obsah
+príslušných databáz)
+ii)
+odstraňovanie chýb v APV PFS ktoré boli spôsobené nekorektným zásahom užívateľov
+iii)
+dokumentovanie konfiguračných zmien a servisných zásahov súvisiacich s odstraňovaním
+incidentov a problémov
+e)
+Predpokladom odstránenia incidentu je:
+i)
+že sa jedná o poruchu funkčnosti systému,
+ii)
+sú splnené všetky technické predpoklady uvedené v dokumentácii pre prevádzku APV
+PFS
+iii)
+Objednávateľ poskytol pri riešení Incidentu požadovanú súčinnosť.
+5. Realizácia servisných zásahov podľa požiadaviek Objednávateľa (riešenie požiadaviek na zmenu
+konfigurácie) v zmysle bodu II.2.e) Zmluvy
+a)
+V prípade, že o to centrálna technická podpora Objednávateľa požiada, bude Poskytovateľ riešiť
+požiadavky na zmenu konfigurácie, súvisiace s prevádzkou systému :
+i)
+telefonicky, v spolupráci s technickou podporou Objednávateľa,
+ii)
+vzdialeným prístupom pomocou služby Remote Access Server,
+iii)
+osobne, na mieste vzniku Incidentu.
+b)
+Riešenie požiadavky na zmenu konfigurácie Poskytovateľ zrealizuje
+i)
+zmenou konfigurácie systému
+ii)
+reinštaláciou pôvodnej verzie aplikačného programového vybavenia
+iii)
+reinštaláciou pôvodnej verzie alebo inštaláciou aktualizácie systémového software
+v súčinnosti s Objednávateľom
+c)
+V rámci riešenia požiadavky na zmenu konfigurácie Poskytovateľ zrealizuje:
+i)
+analýzu identifikovaných požiadaviek na zmenu konfigurácie v prevádzkovom prostredí
+Objednávateľa (aktuálna hardware infraštruktúra, systémový software, aplikačné
+programové vybavenie a obsah príslušných databáz)
+
+-21/52-
+
+ii)
+
+d)
+
+e)
+
+dokumentovanie konfiguračných zmien a servisných zásahov súvisiacich s realizovaním
+požiadavky na zmenu konfigurácie
+Výkonnostný audit zvolenej databázy ORACLE (Objednávateľ garantuje vlastníctvo príslušných
+licencií) zahŕňajúci:
+i)
+Zber relevantných informácií o konfigurácii databázového servera, databázy, siete a
+klientov,
+ii)
+Zber výkonnostných parametrov jednotlivých komponentov systému včítane zberu SQL
+príkazov s najväčšou spotrebou zdrojov,
+iii)
+Analýza výkonnostných ukazovateľov a ďalších informácií o konfigurácii a architektúre
+systému a identifikácia úzkych miest v systéme. V prípade potreby identifikácia
+problematických SQL príkazov,
+iv)
+Návrh zmien systému vedúce k zvýšeniu výkonnosti. Môže sa jednať o zmenu parametrov
+databázy, štruktúry databázy, prístupu k dátam či návrh úpravy hardvéru. Pre
+problematické SQL príkazy bude navrhnutá ich optimalizácia,
+v)
+Pre jednotlivé opatrenia bude odhadnutá aj miera náročnosti realizácie opatrenia a taktiež
+miera vplyvu na vyriešenie problému, prípadne vedľajšie dopady na systém,
+vi)
+Vypracovanie správy, ktorá obsahuje popis identifikovaných problémov a konkrétne
+návrhy na ich odstránenie,
+vii)
+Implementácia opatrení v rozsahu 1 človekodňa ročne.
+Vykonanie bezpečnostného auditu (Security Assessment Service) pre zvolenú databázu . ORACLE
+(Objednávateľ garantuje vlastníctvo príslušných licencií) v rozsahu 1 človekodeň ročne. Vykonanie
+bezpečnostného auditu Poskytovateľom pozostáva z nasledujúcich činností:
+i)
+ii)
+iii)
+iv)
+v)
+
+vi)
+
+Poskytnutie informácií a vysvetlenie rozsahu činností, ktoré sú vykonávané v hodnotenej
+databáze formou prezentácie,
+Zber informácií o hodnotenej databáze formou vyplnenia dotazníka so všeobecnými
+otázkami ohľadne požiadaviek na zabezpečenie resp. stav zabezpečenia z pohľadu
+zákazníka, a na získanie základného prehľadu o stave bezpečnosti,
+Spustenie RDA (Remote Diagnostics Agent) – utility, ktorá poskytuje detailné informácie o
+nastavení databázového servera, resp. DB inštancie,
+Spustenie dodaných neinvazívnych skriptov, ktoré budú čítať dáta zo systémového
+katalógu DB inštancie a ukladať ich do výstupných súborov,
+Analýza security tímom,
+Vypracovanie výsledného dokumentu (vo formáte prezentácie) s poukázaním na
+nedostatky v oblasti bezpečnostných nastavení a doporučení na riešenie nájdených
+bezpečnostných problémov.
+
+7. Ostatné služby podľa požiadaviek Objednávateľa v zmysle bodu II.2.f) Zmluvy
+Poskytovateľ sa zaväzuje poskytovať ostatné služby za podmienok definovaných v príslušných
+ustanoveniach Zmluvy a v prípade potreby a/alebo požiadavky Objednávateľa. Ostatné služby
+v zmysle bodu II.2. f) Zmluvy zahŕňajú:
+a) Vykonanie úprav implementovaného APV PFS, ktoré predstavujú zmeny v nastaveniach existujúcej
+funkcionality APV PFS, vyplývajúce predovšetkým zo zmien legislatívy, zmien technologickej
+platformy a integračných rozhraní. Súčasťou týchto plnení je tiež úprava príslušnej dokumentácie,
+projektový manažment, koordinácia testovacieho procesu a prípadné vyškolenie používateľov APV
+PFS,
+b) Analýzy, návrh a vývoj riešenia, vylepšenia a/alebo modifikácie APV PFS, vyplývajúce
+z požiadaviek Objednávateľa a legislatívnych zmien.
+
+-22/52-
+
+c) Upgrade systémového software a aplikačného programového vybavenia nevyhnutného na
+zabezpečenie prevádzky APV PFS v jeho prevádzkovom prostredí,
+d) Konzultácie technologické (z oblasti jednotlivých technológií, ktoré sú súčasťou technickej,
+systémovej a aplikačnej infraštruktúry APV PFS) alebo metodické (z oblasti príslušných pracovných
+postupov)
+e) Školenia koncových používateľov, školenia školiteľov, administrátorov, metodikov v oblasti
+pracovných postupov
+f)
+
+Servisný zásah v prípade Incidentu spôsobeného poškodením technológie neodbornou obsluhou
+a/alebo poškodením technológie v dôsledku vyššej moci,
+g) Opravy škôd, ktoré vznikli porušením podmienok prevádzky, stanovených dodávateľom
+a definovaných v manuáloch dodaných k jednotlivým technológiám
+h) Odstránenia chybových stavov databáz po chybnom spracovaní
+i)
+j)
+
+Úpravy číselníkov a konfigurácie systému
+Služby podpory u Objednávateľa v rozsahu:
+
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+
+vydávanie kvalifikovaných certifikátov pre potreby zamestnancov Objednávateľa
+vydávanie SSL certifikátov pre servery objednávateľa
+vydávanie CodeSign certifikátu pre aplikačný vývoj objednávateľa
+poskytovanie certifikovaných zariadení pre používateľov objednávateľa
+poskytovanie služby OCSP pre prevádzku aplikácií objednávateľa
+zabezpečenie školení pre nových operátorov RA, zamestnancov objednávateľa v počte 2
+školenia/ročne pre max. počet 5 účastníkov na 1 školení
+k) prípadné iné služby, podľa požiadaviek Objednávateľa.
+
+Popis rozsahu APV PFS
+APV PFS je komplexný informačný systém jednotného rozhrania medzi informačnými systémami Finančnej
+správy (FS) a okolím.
+APV PFS je prioritne zamerané na:
+• poskytovanie informácií z prostredia FS
+• poskytovanie elektronických služieb (ES) pre colné a daňové subjekty zo strany FS
+Technický popis APV PFS je uvedený v platnej verzii dokumentu „Technický návrh – modul Portál FS“
+(dokument „PFS_Technicky_navrh_20130517.docx“).
+K termínu máj 2015 je v plnom rozsahu zrealizovaná 1.etapa projektu PFS, ktorá je definovaná v platnej
+verzii dokumentu „Detailná funkčná špecifikácia – 1.etapa, ES CEP – modul portál FS“ (dokument
+„PFS_DetailnaFunkcnaSpecifikacia_2v00_20130527_etapa1.docx“).
+V priebehu roka 2014 bol v zmysle „Zmluvy o rozšírení funkcionality APV PFS“ realizovaný ďalší rozvoj APV
+PFS v nasledovnom rozsahu:
+
+-23/52-
+
+UID
+
+Popis
+
+6
+8
+15
+16
+17
+26
+29
+30
+45
+2
+3
+4
+11
+31
+35
+
+Podávanie
+ZEP – časť 1
+Používanie DIČ
+Registrácia pre SPD, VP (SPD) - daňové subjekty
+Informovanie DS o chybách v KV DPH
+Neúspešné podania
+Tlač z formulárov
+Logovanie operácií
+Anglická mutácia PFS
+Integrácia PFS a ADMIS
+Integrácia PFS a MOSS
+Integrácia PFS a IS KZ
+Zoznam vymazaných platiteľov dane z pridanej hodnoty
+Exporty informačných zoznamov
+Aktualizácia údajov stránky "Čakacie doby" (riešenie nasadené, potrebné dotiahnuť
+riešenie na strane IS Talon)
+Integrácia PFS a ISFS – 1.časť
+Podpisovanie ZEP-om – časť 2
+PFS Admin
+Prevádzkové štatistiky
+Sťažnosť – formulár
+Nové tlačivá daňových priznaní (6x nový eForm)
+Všeobecné podanie (4x nový eForm, zmeny funkčnosti)
+OIZ - schránka správ (zobrazovanie správ v kontexte subjekt-používateľ)
+Dopady domigrácií (konsolidácia údajov v IAM z migrácie, ošetrenie právnych titulov
+konania)
+
+1
+9
+22
+38
+40
+7
+12
+20
+21
+23
+27
+32
+34
+39
+41
+42
+44
+1b
+
+Potvrdenka zo spracovania NAP KV DPH
+Prílohy k formulárom
+Upozorňujúce texty pre formuláre
+Mobilná aplikácia pre PFS
+Správa príloh, prílohy uložené na PFS
+Zapracovanie aktuálnych tém vyplývajúcich z prijatých legislatívnych zmien (nové
+zoznamy na PFS)
+Vytvorenie nového podania z HEK
+Detailné údaje z evidencie subjektu
+Integrácia PFS a ISFS – 2.časť
+
+Podrobný popis ku horeuvedeným témam je obsahom príslušnej DFŠ.
+
+-24/52-
+
+Prevádzka APV PFS
+APV PFS bude v prevádzke s poskytovanými elektronickými službami s nasledovnými parametrami:
+
+Prevádzkový parameter
+
+Hodnota parametra
+
+Merná jednotka
+
+Plánovaná doba dostupnosti
+
+24x7
+
+počet hodín x počet dní
+v týždni
+
+Úroveň dostupnosti
+
+99,00
+- max 16 hodín
+mesačne*nahlásenie
+nedostupnosti systému
+
+%
+
+Doba obnovenia služby (RTO)
+
+6
+
+Hodiny
+
+Doba servisnej podpory
+
+V zmysle čl.III.5.a)-b) Zmluvy
+
+Doba začatia servisu
+
+V zmysle čl.III.5.c)-e) Zmluvy
+
+Maximálna kumulatívna doba plánovaných
+odstávok za 1 mesiac
+
+Hodiny
+
+počet hodín x počet dní
+v týždni
+Hodiny
+
+* Plánovanú nedostupnosť je potrebné nahlásiť minimálne 48 hodín pred jej začatím.
+V prípade nezabezpečenia dostupnosti hardvérovej, sieťovej alebo systémovej infraštruktúry potrebnej pre
+prevádzku APV PFS Objednávateľom alebo prevádzkovateľom APV PFS, resp. v prípade ich poruchy,
+Poskytovateľ negarantuje parametre uvedené v tabuľke vyššie iba v prípade, ak Poskytovateľ
+Objednávateľa na potrebu zabezpečenia infraštruktúry v dostatočnom časovom predstihnu upozornil emailom.
+
+-25/52-
+
+Rozpočet Zmluvy do 31.12.2015 (okrem plnení podľa bodu II. 2. f)
+celková cena za mesiac bez
+DPH
+
+celková cena za mesiac s
+DPH
+
+I.2.a) poskytnutie služieb servisného hotline
+
+22 590,00 €
+
+27 108,00 €
+
+I.2.b) realizácia
+(správa systému)
+
+7 920,00 €
+
+9 504,00 €
+
+I.2.c) realizácia pravidelných preventívnych
+zásahov (profylaktika a monitoring)
+
+6 710,00 €
+
+8 052,00 €
+
+I.2.d) realizácia servisných zásahov (riešenie
+incidentov) v prípade nefunkčnosti systému
+alebo jeho komponentov
+
+8 640,00 €
+
+10 368,00 €
+
+I.2.e) realizácia servisných zásahov podľa
+požiadaviek (riešenie požiadaviek na zmenu
+konfigurácie)
+
+9 960,00 €
+
+11 952,00 €
+
+Spolu :
+
+55 820,00 €
+
+66 984,00 €
+
+Predmet zmluvy
+
+prevádzkových
+
+zásahov
+
+Rozpočet Zmluvy od 1.1.2016 (okrem plnení podľa bodu II. 2. f)
+
+celková cena za mesiac bez
+DPH
+
+celková cena za mesiac s
+DPH
+
+I.2.a) poskytnutie služieb servisného hotline
+
+33 694,00 €
+
+40 432,80 €
+
+I.2.b) realizácia
+(správa systému)
+
+11 520,00 €
+
+13 824,00 €
+
+I.2.c) realizácia pravidelných preventívnych
+zásahov (profylaktika a monitoring)
+
+10 980,00 €
+
+13 176,00 €
+
+I.2.d) realizácia servisných zásahov (riešenie
+incidentov) v prípade nefunkčnosti systému
+alebo jeho komponentov
+
+12 960,00 €
+
+15 552,00 €
+
+I.2.e) realizácia servisných zásahov podľa
+požiadaviek (riešenie požiadaviek na zmenu
+konfigurácie)
+
+14 940,00 €
+
+17 928,00 €
+
+Spolu :
+
+84 094,00 €
+
+100 912,80 €
+
+Predmet zmluvy
+
+prevádzkových
+
+zásahov
+
+-26/52-
+
+Príloha č.2 – Zmenové konanie
+k plneniu predmetu Zmluvy o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy (APV
+PFS) v zmysle bodu II.2.f) Zmluvy
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+7.
+
+Ak je potrebné uskutočniť akúkoľvek zmenu v obsahu a/alebo v rozsahu dodávky v súvislosti s poskytovaním
+plnenia podľa bodu II.2. f) Zmluvy, budú sa uplatňovať postupy zmenového konania popísané v tejto Prílohe,
+ako aj ostatné relevantné ustanovenia Zmluvy.
+Požiadavku na zmenu môže Oprávnenej osobe Poskytovateľa (Objednávateľa) predložiť výlučne Oprávnená
+osoba Objednávateľa (Poskytovateľa). Oprávnená osoba Poskytovateľa vedie evidenciu došlých požiadaviek
+na zmenu a zabezpečuje rámcové posúdenie požiadavky na zmenu najneskôr do troch pracovných dní od
+dátumu prevzatia požiadavky na zmenu.
+Výsledkom rámcového posúdenia požiadavky na zmenu je jej kategorizovanie na zmenu „menšieho rozsahu“
+alebo zmenu „väčšieho rozsahu“. Zmena menšieho rozsahu je klasifikovaná ako zmena, kde uvedená zmena
+nespôsobí zvýšenie ceny a nepredĺži časový harmonogram o viac ako 10 pracovných dní. V prípade zmeny,
+kde dôsledkom jej vykonania bude zvýšenie ceny predmetu Zmluvy alebo predĺženie termínu dodávky o viac
+ako 10 pracovných dní, bude táto považovaná za zmenu väčšieho rozsahu.
+V prípade zmeny menšieho rozsahu zabezpečí Oprávnená osoba Poskytovateľa detailné posúdenie
+predloženej požiadavky na zmenu do troch pracovných dní od dátumu rámcového posúdenia zmeny. V
+prípade zmeny väčšieho rozsahu si vedúci projektu obidvoch zmluvných strán dohodnú a písomne potvrdia
+termín detailného posúdenia navrhnutej zmeny.
+Výsledkom detailného posúdenia požiadavky na zmenu je stanovisko Oprávnenej osoby Poskytovateľa k
+vhodnosti, potrebnosti a realizovateľnosti navrhovaných úprav spolu s ich finančným a časovým ocenením,
+resp. ďalšími predpokladmi ich uskutočnenia. V závere stanoviska použije Oprávnená osoba Poskytovateľa
+nasledujúcu klasifikáciu navrhovanej zmeny:
+a. je možné realizovať bez dopadu na náklady alebo harmonogram plnenia,
+b. je možné realizovať, ale s dopadom na náklady alebo harmonogram plnenia,
+c. neodporúča realizovať,
+d. nie je možné realizovať,
+e. nie je možné realizovať v rámci existujúcej Zmluvy, odporúča sa evidovať ako námet pre nový projekt.
+Po vypracovaní detailného posúdenia požiadavky na zmenu Oprávnenou osobou Poskytovateľa vykoná
+posúdenie požiadavky na zmenu Oprávnená osoba Objednávateľa s návrhom na riešenie.
+Požiadavku na zmenu spolu s jej posúdením v zmysle vyššie uvedeného textu predkladá Oprávnená osoba
+príslušnej pracovnej skupiny Oprávnenej osobe Objednávateľa, ktorý po jeho posúdení zabezpečí jeho
+predloženie vždy na najbližšie zasadnutie Riadiaceho výboru PFS, ktorý následne odporučí resp. neodporučí
+oprávneným zástupcom zmluvných strán navrhovanú zmenu akceptovať.
+
+-27/52-
+
+Príloha č.3 - VZOR – Akceptačný protokol
+k plneniu predmetu Zmluvy o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy (APV
+PFS) v zmysle bodov II.2.a-e) Zmluvy
+zo dňa
+Preberajúca strana:
+
+Objednávateľ
+(ďalej len Objednávateľ/Preberajúci)
+
+Odovzdávajúca strana:
+
+Poskytovateľ
+(ďalej len Poskytovateľ/Odovzdávajúci)
+
+Predmet akceptačného protokolu:
+V súlade so Zmluvou o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy (APV PFS) (ďalej „Zmluva“) zo dňa
+X.XX.2015 predmetom akceptačného protokolu je odovzdanie a prevzatie služieb technickej podpory za mesiac XX/201x.
+
+Pohotovosť expertov
+16/24x7
+
+Pohotovosť expertov
+8x5
+
+Technik podpory
+
+Mladší (junior)
+konzultant
+
+Konzultant
+
+Projektový manažér
+
+Starší konzultant
+
+Programátor
+
+Dokumentarista
+
+Poskytovanie služieb servisného
+hotline
+Realizácia prevádzkových zásahov
+(správa systému)
+Realizácia
+pravidelných
+preventívnych zásahov (profylaktika
+a monitoring)
+Realizácia servisných zásahov
+(riešenie
+incidentov)
+v prípade
+nefunkčnosti systému alebo jeho
+komponentov
+Realizácia servisných zásahov podľa
+požiadaviek (riešenie požiadaviek na
+zmenu konfigurácie)
+Celkom
+
+Operátor
+
+Typ služby / Rola-Pozícia
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0,00
+
+-28/52-
+
+Výkony v predchádzajúcich
+obdobiach za daný rok [ČD]
+
+Výkony v danom v kalendárnom
+mesiaci [ČD]
+
+Zostatok predplatených výkonov
+[ČD]
+
+Rola-Pozícia
+Operátor
+Pohotovosť expertov 16/24x7
+Pohotovosť expertov 8x5
+Technik podpory
+Mladší (junior) konzultant
+Konzultant
+Starší konzultant
+Programátor
+Projektový manažér
+Dokumentarista
+Celkom
+
+Predplatené výkony [ČD/rok]
+
+Sumárny prehľad poskytovania služieb technickej podpory:
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+1.
+Odovzdávajúca strana potvrdzuje, že odovzdala predmet akceptačného protokolu. Preberajúca strana
+potvrdzuje, že prevzala predmet akceptačného protokolu.
+2.
+Odovzdávajúca a preberajúca strana zhodne konštatujú, že predmet plnenia bol dodaný v súlade so Zmluvou
+riadne, včas a v dohodnutej kvalite.
+3.
+Preberajúca strana potvrdzuje, že na odovzdanom predmete neboli zistené žiadne nedostatky, chyby a
+závady.
+V Bratislave dňa XX.XX.201x
+
+Pečiatka a podpis preberajúceho
+
+Pečiatka a podpis odovzdávajúceho
+
+-29/52-
+
+Príloha č.3 - VZOR – Akceptačný protokol
+k plneniu predmetu Zmluvy o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy (APV
+PFS) v zmysle čl. II bodu 2.f) Zmluvy
+zo dňa
+Preberajúca strana:
+
+Objednávateľ
+(ďalej len Objednávateľ/Preberajúci)
+
+Odovzdávajúca strana:
+
+Poskytovateľ
+(ďalej len Poskytovateľ/Odovzdávajúci)
+
+Predmet akceptačného protokolu:
+V súlade so Zmluvou o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy (APV PFS) (ďalej
+„Zmluva“) zo dňa X.XX.2015 predmetom akceptačného protokolu je odovzdanie a prevzatie predmetu plnenia
+nasledovne:
+Popis akceptačného konania:
+1.
+Predmetom akceptačného konania je plnenie v rozsahu:
+Popis služieb
+
+Rozsah
+
+a)
+
+XXX hod
+
+Popis predmetu plnenia
+
+XXX hod
+XXX hod
+b)
+
+Popis predmetu plnenia
+
+XXX hod
+XXX hod
+XXX hod
+
+2.
+Odovzdávajúca strana potvrdzuje, že odovzdala predmet akceptačného protokolu. Preberajúca strana
+potvrdzuje, že prevzala predmet akceptačného protokolu.
+3.
+Odovzdávajúca a preberajúca strana zhodne konštatujú, že predmet plnenia bol dodaný v súlade so Zmluvou
+a Objednávkou riadne, včas a v dohodnutej kvalite.
+4.
+Preberajúca strana potvrdzuje, že na odovzdanom predmete Objednávky neboli zistené žiadne nedostatky,
+chyby a závady.
+V .........................., dňa
+
+Projektový manažér Objednávateľa
+
+V .........................., dňa
+
+Projektový manažér Poskytovateľa
+
+Poverená osoba Objednávateľa
+
+Oprávnená osoba Objednávateľa
+
+-30/52-
+
+Príloha č.4 - VZOR – Požiadavka na poskytnutie služieb
+k plneniu predmetu Zmluvy o technickej podpore a rozvoja APV Portálu finančnej správy (APV PFS)
+v zmysle čl. II bodu 2.f) Zmluvy
+zo dňa:
+Kontaktné údaje Objednávateľa:
+
+Predmetom požiadavky je poskytnutie ostatných služieb v zmysle bodu II.2.f) Zmluvy o technickej podpore
+prevádzky APV Portálu finančnej správy (APV PFS) v rozsahu:
+Predmet požiadavky
+1.
+
+Požiadavka x - popis
+
+n.
+
+Požiadavka n - popis
+
+V .........................., dňa
+
+Za Objednávateľa:
+
+____________________________
+Projektový manažér Objednávateľa
+
+_________________________
+Poverená osoba Objednávateľa
+
+____________________________
+Oprávnená osoba Objednávateľa
+
+-31/52-
+
+Príloha č.5 - VZOR – Objednávka práce č.
+k plneniu predmetu Zmluvy o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy
+(APV PFS) v zmysle čl. II bodu 2.f) Zmluvy
+
+zo dňa:
+Fakturačné údaje Objednávateľa:
+
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie:
+IBAN (Číslo účtu):
+
+I. Predmet objednávky
+1.
+Predmetom tejto Objednávky je poskytnutie služieb podpory a rozvoja APV PFS v rozsahu:
+Popis služieb
+
+Pozícia
+
+Rozsah
+
+a)
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+b)
+
+Popis služieb XYZ
+
+Popis služieb XYZ
+
+2.
+Podrobná špecifikácia rozsahu predmetu plnenia je uvedená v prílohe č.1 tejto Objednávky, Príloha je
+neoddeliteľnou súčasťou tejto Objednávky.
+II. Cena a platobné podmienky
+1.
+Cena za predmet plnenia tejto Objednávky je:
+
+Popis služieb
+
+Sadzba
+
+Rozsah
+
+Cena
+
+Cena za realizáciu časti predmetu objednávky
+v zmysle bodu I.1.a)
+
+XXXXXX
+
+XXX hod
+
+XX.XXX,XX €
+
+XXXXXX
+
+XXX hod
+
+-32/52-
+
+Cena za realizáciu časti predmetu objednávky
+v zmysle bodu I.1.b)
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+XXXXXX
+
+XXX hod
+
+XX.XXX,XX €
+
+Zmluvná cena celkom bez DPH
+
+XXX.XXX,XX €
+
+Zmluvná cena celkom s DPH
+
+XXX.XXX,XX €
+
+2.
+Objednávateľ uhradí Zhotoviteľovi stanovenú zmluvnú cenu v článku II.1. tejto Objednávky za predmet
+plnenia po častiach podľa nižšie uvedených platobných podmienok:
+a)
+b)
+3.
+
+Cena v zmysle bodu II.1.a. po odovzdaní a prevzatí časti predmetu objednávky v zmysle bodu I.1.a)
+Cena v zmysle bodu II.1.b. po odovzdaní a prevzatí časti predmetu objednávky v zmysle bodu I.1.b)
+Akceptačný protokol a kópia tejto Objednávky tvorí prílohu k faktúre.
+
+III. Podmienky plnenia predmetu
+1.
+Hlavný koordinátor zo strany Objednávateľa je .... Objednávateľ oznámi Zhotoviteľovi bezodkladne
+každú zmenu kontaktnej osoby.
+2.
+Hlavný koordinátor zo strany Zhotoviteľa je .... Zhotoviteľ oznámi Objednávateľovi bezodkladne každú
+zmenu kontaktnej osoby.
+IV. Harmonogram realizácie
+1.
+Zmluvné strany sa dohodli na plnení predmetu Objednávky v etapách s nasledovným harmonogramom:
+a) Realizáciu časti predmetu objednávky v zmysle bodu I.1.a) do X mesiacov od podpisu objednávky.
+b)
+
+Realizáciu časti predmetu objednávky v zmysle bodu I.1.b) do X mesiacov od podpisu objednávky.
+
+V .........................., dňa
+
+V .........................., dňa
+
+Za Objednávateľa:
+
+Za Poskytovateľa:
+
+Poverená osoba Objednávateľa
+
+Oprávnená osoba Poskytovateľa
+
+Oprávnená osoba Objednávateľa
+
+-33/52-
+
+Príloha č.6 - Pravidlá na riadenie prístupu Poskytovateľa na Ministerstve
+financií Slovenskej republiky
+Táto príloha vychádza z ustanovení internej smernice objednávateľa č. 10/2014, upravujúcej prístup
+tretích strán na ministerstve.
+Ustanovenia tejto prílohy sa použijú pre účely tejto zmluvy primerane s prihliadnutím na predmet zmluvy
+a práva a povinnosti zmluvných strán v zmluve upravené.
+Treťou stranou pre účely tejto zmluvy je poskytovateľ, resp. jeho subdodávatelia, podieľajúci sa na
+plnení tejto zmluvy.
+
+
+Článok 1
+
+
+
+Pohyb tretích strán v objekte/priestoroch ministerstva
+
+(1)
+
+Zamestnanci Zhotoviteľa sú pri vstupe do objektu ministerstva a odchode z objektu ministerstva
+povinní riadiť sa pokynmi strážnej služby.
+
+(2)
+
+Do objektu ministerstva môžu zamestnanci Zhotoviteľa vstupovať a z neho odchádzať len k tomu
+určenými vchodmi pre osoby na Štefanovičovej alebo Kýčerského ulici.
+
+(3)
+
+Motorové vozidlá Zhotoviteľa môžu do priestorov ministerstva vchádzať a z neho vychádzať len
+vjazdom zo Štefanovičovej ulice na základe platného povolenia.
+
+
+
+Článok 2
+
+
+
+Základné povinnosti tretej strany voči ministerstvu pri poskytovaní prác a
+služieb spojených s naplnením účelu zmluvy, objednávky alebo projektu
+
+(1) Zhotoviteľ sa zaväzuje, že
+a)
+
+pred začatím činností spojených s naplnením účelu zmluvy, objednávky alebo projektu a pred
+pridelením prístupových práv potrebných na výkon týchto činností oznámi ministerstvu
+personálne obsadenie svojho tímu, ktorý bude vykonávať činnosti spojené s naplnením účelu
+zmluvy, objednávky alebo projektu pre ministerstvo,
+
+b)
+
+bude bezodkladne informovať ministerstvo o všetkých personálnych zmenách vo svojom tíme,
+ktorý vykonáva činnosti spojené s naplnením účelu zmluvy, objednávky alebo projektu pre
+ministerstvo,
+
+c)
+
+oboznámi svojich zamestnancov, resp. tretie osoby realizujúce činnosti spojené s naplnením
+účelu zmluvy, objednávky alebo projektu pre ministerstvo s bezpečnostnými požiadavkami
+v rozsahu tejto prílohy,
+
+d)
+
+oboznámi svojich zamestnancov resp. tretie osoby realizujúce činnosti spojené s naplnením
+účelu zmluvy, objednávky alebo projektu pre ministerstvo a následne zabezpečí od týchto
+zamestnancov dodržiavanie povinnosti:
+
+-34/52-
+
+1. ochrany údajov a záväzku mlčanlivosti o údajoch, s ktorými prišli počas výkonu prác na
+projekte pre ministerstvo do styku, a to aj po ukončení pracovného, resp. služobného pomeru,
+2. zachovávať mlčanlivosť o osobných údajoch, s ktorými počas práce na projekte pre
+ministerstvo prídu do styku, ako aj zákaz ich využitia pre osobnú potrebu, bez súhlasu
+ministerstva ich nesmie zverejniť, nikomu poskytnúť ani sprístupniť, pričom povinnosť
+mlčanlivosti trvá aj po skončení pracovného pomeru, štátnozamestnaneckého pomeru,
+služobného pomeru alebo obdobného pracovného vzťahu k Zhotoviteľovi; povinnosť
+mlčanlivosti neplatí, ak je to nevyhnutné na plnenie úloh súdu a orgánov činných v trestnom
+konaní podľa osobitného zákona, zdokumentovať všetky zásahy do IKT ministerstva podľa
+pokynov oprávneného zamestnanca za ministerstvo,
+3. rešpektovať operatívne pokyny zamestnancov s pridelenými bezpečnostnými rolami na
+ministerstve a oprávnených zamestnancov počas výkonu práce na projekte pre ministerstvo,
+4. rešpektovať autorské práva k materiálom poskytnutým ministerstvom,
+5. vrátiť ministerstvu všetky poskytnuté materiály a údaje vrátane elektronických a zlikvidovať
+všetky ich kópie, ak to nebude zmluvne dohodnuté inak.
+e)
+
+poskytne potrebnú súčinnosť audítorovi vykonávajúcemu audit IS, ak tento súvisí s výkonom
+práce na projekte pre ministerstvo,
+
+f)
+
+poskytne potrebnú súčinnosť ministerstvu pre prípadný audit svojich IS a IKT, ak tieto súvisia
+s predmetom plnenia projektu pre ministerstvo,
+
+g)
+
+ak predmet projektu súvisí s vývojom a aktualizáciou IS, resp. IKT ministerstva, bude dodržiavať
+bezpečnostné požiadavky bezpečnostnej politiky ministerstva, platnej bezpečnostnej legislatívy,
+najmä požiadaviek zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a súvisiaceho výnosu MF
+SR a nevniesť nepožadované alebo neschválené funkcie do IS ministerstva. Nenaplnenie tejto
+požiadavky sa bude považovať za porušenie zmluvného vzťahu.
+
+(2)
+
+Zhotoviteľ zodpovedá za všetky priame alebo nepriame škody (napr. náklady, ktoré musí ministerstvo
+vydať, aby sa vrátilo do doby pred vytváraním informačného systému, sankčné pokuty z dôvodu
+nedodržania termínov, stanovených napr. zákonom alebo sankčné pokuty za to, že dodávané dielo
+nespĺňa legislatívou stanovené požiadavky), ktoré svojim úmyselným alebo neúmyselným konaním
+spôsobí a zaväzuje sa nahradiť ich ministerstvu.
+
+(3)
+
+Zhotoviteľ je povinný zaplatiť zmluvnú pokutu vo výške 6 000 € v prípade porušenia podmienok na
+zabezpečenie informačnej bezpečnosti ministerstva vyplývajúcich z tejto prílohy.
+
+(4) V prípade nevyhnutnosti prístupu Zhotoviteľa k projektom obsahujúcim utajované skutočnosti sa
+postupuje podľa ustanovení zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov.
+
+
+
+Článok 3
+
+
+
+Povinnosti zamestnancov tretích strán pri riadení prístupu do IS a aplikácií
+ministerstva
+
+(1)
+
+Zamestnanec Zhotoviteľa, resp. tretia osoba realizujúca činnosti spojené s naplnením účelu zmluvy,
+-35/52-
+
+objednávky alebo projektu pre ministerstvo, je povinný prihlasovať sa do IS a aplikácií pod prideleným
+prihlasovacím účtom (ID používateľa) a heslom na prístup do tejto aplikácie alebo IS. Zdieľanie účtov
+je povolené len po písomnej autorizácii bezpečnostným manažérom a to iba v prípadoch, kedy nie je
+technologicky možné vynútiť iný spôsob prístupu.
+(2)
+
+Privilegované používateľské účty nesmú byť používané na bežné činnosti nevyžadujúce privilegované
+oprávnenia.
+
+(3)
+
+Zamestnanec Zhotoviteľa resp. tretia osoba realizujúca činnosti spojené s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo nesmie na vykonávanie konfigurácií využívať generické a
+servisné používateľské účty. Výnimku tvorí len ich individuálne použitie, ktoré musí byť vopred
+písomne schválené manažérom bezpečnosti ministerstva.
+
+(4)
+
+Pri práci s heslami je zamestnanec Zhotoviteľa povinný dodržiavať nasledovné zásady:
+a)
+
+pravidlá zmeny hesla do aplikácií v rámci LAN ministerstva upravuje príslušný garant systému a
+ich dodržiavanie kontroluje administrátor aplikácie,
+
+b)
+
+používateľ je povinný dodržiavať tieto všeobecné zásady tvorby hesla pre prístup do LAN
+ministerstva, podľa ktorých heslo:
+1. musí mať dĺžku minimálne 8 znakov,
+2. musí sa skladať z veľkých a malých písmen, číselných znakov (NumLock) a iných znakov
+(napr. veľké písmeno + malé písmeno + číslo alebo znak),
+3. nesmie byť slovníkovým slovom, menom ani názvom,
+4. nesmie byť odvodené od osobných údajov používateľa,
+5. nesmie byť tvorené priamou postupnosťou klávesov na klávesnici,
+6. pri zmene na nové heslo sa musí od pôvodného líšiť najmenej v štyroch znakoch.
+
+(5)
+
+Ak to aplikácia alebo IS dovoľuje, musí byť prvotné heslo, ktoré bolo zamestnancovi Zhotoviteľa na
+prístup do tejto aplikácie alebo IS pridelené, pri prvom prihlásení zmenené.
+
+(6)
+
+Zamestnanec Zhotoviteľa resp. tretia osoba realizujúca činnosti spojené s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo, ručí za dôvernosť a ochranu svojich prístupových hesiel a
+zodpovedá za všetky udalosti a transakcie, ktoré sa uskutočnili v IS s použitím jeho používateľského
+mena a hesla.
+
+(7)
+
+V prípade podozrenia na prezradenie prístupového hesla resp. v prípade jeho samotného prezradenia
+musí poškodený zamestnanec Zhotoviteľa okamžite informovať oprávneného zamestnanca za
+ministerstvo resp. príslušného správcu IS a nahlásiť udalosť ako bezpečnostný incident.
+
+(8)
+
+Po ukončení práce je zamestnanec Zhotoviteľa resp. tretia osoba realizujúca činnosti spojené s
+naplnením účelu zmluvy, objednávky alebo projektu pre ministerstvo, povinný znemožniť prístup k
+aplikáciám a programom a to tak, aby zabránil neoprávnenému prístupu alebo zneužitiu. Táto
+povinnosť sa nevzťahuje na zamestnanca Zhotoviteľa v prípade, ak mu to odôvodnene neumožňuje
+charakter vykonávaných prác a táto výnimka je písomne schválená manažérom bezpečnosti
+ministerstva.
+
+(9)
+
+Vzdialený prístup Zhotoviteľa a tretích strán v právnom vzťahu k dodávanému dielu do informačných
+systémov a ostatného softvéru ministerstva nie je možný. Prístup je možné povoliť iba manažérom
+bezpečnosti na základe písomnej žiadosti a to len v priestoroch, ktoré sú v správe ministerstva, a to
+iba s dohľadom na to určeného zamestnanca.
+
+-36/52-
+
+
+
+Článok 4
+
+
+
+Pripájanie prenosných počítačov a zariadení zamestnancov tretích strán do IS
+na ministerstve
+
+(1)
+
+Prenosné počítače zamestnancov Zhotoviteľa resp. tretích osôb v súvislosti s naplnením účelu zmluvy,
+objednávky alebo projektu ministerstva smú byť pripájané do IS ministerstva len na základe
+písomného súhlasu manažéra bezpečnosti ministerstva.
+
+(2)
+
+Zamestnanec Zhotoviteľa resp. tretie osoby realizujúce činnosti spojené s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo, ktorý uchováva na prenosnom počítači/zariadení
+informácie, ktorých vlastníkom je ministerstvo, je povinný:
+
+(3)
+
+a)
+
+chrániť ho pred krádežou alebo zneužitím; zamestnanec Zhotoviteľa nesmie ponechať prenosný
+počítač/zariadenie bez dozoru napr. na verejne dostupných miestach, v dopravných
+prostriedkoch, neuzamknutých kanceláriách a pod.,
+
+b)
+
+okamžite hlásiť stratu, prípadne krádež prenosného počítača ako bezpečnostný incident,
+
+c)
+
+ak sú na pevnom disku prenosného počítača/zariadenia ukladané informácie zaradené do triedy
+dôvernosti „INTERNÉ“ alebo „CHRÁNENÉ“, musia byť tieto informácie chránené dodatočným
+zabezpečovacím prostriedkom, t. j. šifrovaním.
+
+Dostatočnosť použitých šifrovacích prostriedkov posúdi na základe písomnej žiadosti manažér
+bezpečnosti ministerstva pred povolením uloženia dát na pevný disk prenosného počítača/zariadenia
+Zhotoviteľa.
+
+
+
+Článok 5
+
+
+
+Používanie elektronickej pošty ministerstva zamestnancami tretích strán
+
+Pri používaní elektronickej pošty je zamestnanec Zhotoviteľa povinný dodržiavať tieto zásady:
+a)
+
+využívať elektronickú poštu iba na účely služobných alebo pracovných úloh spôsobom a v
+rozsahu nevyhnutnom na zabezpečenie plnenia predmetu zmluvy,
+
+b)
+
+informovať Help Desk o všetkých neočakávaných správach s prílohami od neznámych
+odosielateľov (mimo ministerstva), ktoré mu boli doručené elektronickou poštou, správy neotvárať
+- nečítať z dôvodu ohrozenia zavírením a ďalej postupovať podľa pokynov pracovníka Help
+Desku,
+
+c)
+
+nezapĺňať kapacitu elektronickej pošty objemnými dátami v prílohách,
+
+d)
+
+po ukončení práce s elektronickou poštou prostredníctvom externého prístupu - Outlook web
+Access sa používateľovi odporúča odhlásiť sa a zavrieť okno internetového prehliadača,
+
+e)
+
+email s prílohami posielaný mimo ministerstva alebo v rámci siete LAN ministerstva nesmie
+prekročiť povolenú veľkosť; používateľ má mailovú schránku generovanú automatizovaným
+procesom s pevne stanovenou veľkosťou a bližšie informácie o kapacitách mailov a veľkosti
+-37/52-
+
+mailových schránok získa u pracovníkov Help Desku.
+
+
+
+Článok 6
+
+
+
+Riadenie bezpečnostných incidentov
+
+Každý zamestnanec Zhotoviteľa resp. tretie osoby realizujúce prácu v súvislosti s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo je povinný zistenie bezpečnostného incidentu alebo podozrenie na
+bezpečnostný incident bezodkladne nahlásiť na určené kontaktné miesto, ktorým je Help Desk (tel. číslo:, kl.:
+2400, resp. email:).
+
+
+
+Článok 7
+
+
+
+Vyšetrovanie bezpečnostných incidentov
+
+(1)
+
+Každý zamestnanec Zhotoviteľa resp. tretie osoby realizujúce prácu v súvislosti s naplnením účelu
+zmluvy, objednávky alebo projektu pre ministerstvo je povinný, pri vyšetrovaní bezpečnostných
+incidentov zamestnancom alebo zamestnancami ministerstva, poskytnúť potrebnú súčinnosť.
+
+(2)
+
+Po vzniku bezpečnostného incidentu nesmie zamestnanec Zhotoviteľa resp. tretia osoba realizujúce
+prácu v súvislosti s naplnením účelu zmluvy, objednávky alebo projektu pre ministerstvo vykonávať
+akékoľvek aktivity, ktoré by mohli viesť k znehodnoteniu dôkazov alebo k zhoršeniu dôsledkov BI.
+
+-38/52-
+
+Príloha č.7 - Všeobecné podmienky o zabezpečení
+informačnej bezpečnosti finančnej správy SR
+1. Úvodné ustanovenia
+Tieto Všeobecné podmienky, pre zabezpečenie informačnej bezpečnosti finančnej správy SR (ďalej len
+„všeobecné podmienky, resp. dohoda“) stanovujú povinnosti tretej strany, ak predmet plnenia zmluvy uzatvorenej
+medzi treťou stranou a Finančným riaditeľstvom (ďalej len „FR“) SR alebo Ministerstvom financií (ďalej len „MF“)
+SR (ďalej len „zmluva“) súvisí s informačno-komunikačnými technológiami Finančnej správy SR (ďalej len „IKT
+FS SR“).
+2. Výklad a definícia pojmov
+3. Na účely tohto dokumentu
+a) aktívum je všetko, čo má pre Finančnú správu (ďalej len „FS SR“) hodnotu (fyzické komponenty,
+softvér, dáta, služby, ľudské zdroje, povesť FS SR, ...),
+b) bezpečnostným incidentom je akýkoľvek spôsob narušenia bezpečnosti IKT, ako aj akékoľvek
+porušenie bezpečnostnej politiky a súvisiacich pravidiel,
+c) DataCentrom je samostatná rozpočtová organizácia so sídlom v Bratislave, ktorej zriaďovateľom je
+Ministerstvo financií SR. DataCentrum zabezpečuje vzájomnú prepojiteľnosť častí informačného
+systému rezortu MF SR a bezpečnosť informačného systému rezortu MF SR,
+d) dostupnosť je vlastnosť, že autorizovaní užívatelia majú v prípade požiadavky prístup k informáciám
+a aktívam,
+e) dôvernosť je vlastnosť, že informácia nie je dostupná alebo prístupná neautorizovaným jednotlivcom,
+entitám alebo procesom,
+f)
+
+externý prístup je prístup tretích strán ako i interných zamestnancov FS SR,
+
+g) externým subjektom je právnická osoba a štatutárom právnickej osoby určené fyzické osoby (ďalej
+len „zamestnanci externého subjektu“), ktoré nie sú zamestnancami FS a ktoré poskytujú FS služby v
+zmysle platných zmlúv, podľa ktorých môžu požiadať o prístup k IKT v presne určenom nevyhnutnom
+rozsahu,
+h) externým prístupom zamestnanca FS k IKT je iný prístup zamestnanca FS k IKT ako prístup zo
+štandardného pracoviska FS s LAN/WAN prepojením,
+i)
+
+externým prístupom zamestnancov externého subjektu k IKT je prístup zamestnanca externého
+subjektu k IKT,
+
+j)
+
+FR SR je Finančné riaditeľstvo SR,
+
+k) FS SR je Finančná správa SR,
+l)
+
+IKT sú informačno-komunikačné technológie,
+
+
+
+V prípade zmluvy uzatvorenie medzi treťou stranou a FR SR pôjde o Všeobecné podmienky o zabezpečení
+informačnej bezpečnosti Finančných orgánov SR a v prípade zmluvy medzi treťou stranou a MF SR pôjde
+o Dohodu o zabezpečení informačnej bezpečnosti Finančných orgánov SR.
+-39/52-
+
+m) IKT FS SR je súhrn nasledovných komponentov používaných na prípravu a spracovanie dát a na
+manažovanie informácií a procesov vo FS SR, okrem tých, ktoré sú verejne prístupné z vonkajšieho
+prostredia FS SR (napr. finančný portál):
+1.
+
+servery, pracovné stanice, faxy a príslušná dokumentácia,
+
+2.
+
+informačné systémy FS (aplikačné programové vybavenie a jeho vrstvy, ako napr. aplikačné
+servery, databázové servery) a príslušná dokumentácia,
+
+3.
+
+dáta a informácie spracovávané v informačných systémoch FS,
+
+4.
+
+zariadenia diskových polí, SAN infraštruktúra, zálohovacie zariadenia a príslušná dokumentácia,
+
+5.
+
+sieťová infraštruktúra a sieťové komponenty (napr. smerovače, firewally) a príslušná
+dokumentácia,
+
+6.
+
+zariadenia pre hlasovú komunikáciu implementované v sieťovej infraštruktúre FS (napr.
+pobočkové ústredne) a príslušná dokumentácia,
+
+7.
+
+písomné záznamy súvisiace s IS FS SR.
+
+n) IP adresa je adresa zariadenia pripojeného do počítačovej siete, definovaná na základe Internet
+Protokolu,
+o) informačné aktívum je aktívum v prostredí IKT FS SR,
+p) informačná bezpečnosť je súbor aspektov týkajúcich sa dosiahnutia a udržiavania dôvernosti,
+integrity a dostupnosti informačných aktív,
+q) informačný systém je súbor činností, ktoré zabezpečujú zber, prenos, spracovanie, uloženie, výber,
+distribúciu a prezentáciu informácií a dát (vrátane dát v papierovej podobe) pre potreby rozhodovania
+tak, aby riadiaci pracovníci mohli vykonávať funkcie riadenia vo všetkých zložkách systému riadenia,
+r)
+
+integrita je vlastnosť, že informácie a metódy ich spracovania sú presné a kompletné,
+
+s) IS je informačný systém,
+t)
+
+IS FS SR je súhrn všetkých informačných systémov FS SR,
+
+u) kontaktná osoba je SLA manažér tak za FS SR ako i za tretiu stranu,
+v) LAN/WAN je štandardná lokálna počítačová sieť a prepojenie komunikačných sietí pracovísk FS
+realizované spravidla technológiou MPLS v rámci rezortnej komunikačnej siete a spravovanej
+DataCentrom,
+w) manažér bezpečnosti je zamestnanec Oddelenia bezpečnosti Kancelárie prezidenta FR SR
+zodpovedný za celkovú bezpečnosť vo FS,
+x) manažér informačnej bezpečnosti IKT je zamestnanec Oddelenia bezpečnosti Kancelárie
+prezidenta FR SR zodpovedný za bezpečnosť IKT vo FS,
+y) MF SR – Ministerstvo financií SR
+z) organizačným útvarom sú organizačné útvary FR SR,
+aa) oprávnená osoba sú všetci zamestnanci sekcie informatiky FS SR, prípadne iný zamestnanec
+písomne poverený námestníkom sekcie informatiky na výkon úloh vyplývajúcich z činností spojených
+s tretími stranami a s externými prístupmi interných zamestnancov,
+bb) osobitná tretia strana je NKÚ resp. iný kontrolný alebo oprávnený orgán SR podľa príslušného
+všeobecne záväzného právneho predpisu,
+-40/52-
+
+cc) outsourcing je zabezpečenie podporných služieb externou organizáciou,
+dd) používateľom externého prístupu je zamestnanec FS alebo zamestnanec externého subjektu,
+ktorému bol povolený externý prístup k IKT,
+ee) prístup tretej strany k IKT FS SR je prístup tretej strany k hardvéru alebo softvéru alebo dátam IKT
+FS SR vrátane príslušnej dokumentácie za nasledujúcich podmienok:
+1.
+
+tretia strana má s FR SR podpísanú zmluvu o dodávaní alebo odoberaní tovarov, služieb alebo
+prác súvisiacich s IKT FS SR, ktorej súčasťou sú Všeobecné podmienky o zabezpečení
+informačnej bezpečnosti FS SR,
+
+2.
+
+tretia strana má s MF SR podpísanú zmluvu o dodávaní alebo odoberaní tovarov, služieb alebo
+prác súvisiacich s IKT FS SR a s FR SR uzatvorenú Dohodu o zabezpečení informačnej
+bezpečnosti FS SR (ďalej len „dohoda“), ktorej obsahom budú vhodne upravené všeobecné
+podmienky vo forme dohody medzi FR SR a treťou stranou. Za takúto dohodu sa bude
+považovať aj dohoda uzatvorená s DR SR alebo s CR SR pred vznikom FR SR,
+
+3.
+
+tretia strana realizuje dodávanie alebo odoberanie tovarov, služieb alebo práce súvisiace s IKT
+FS SR na základe outsourcingu, kde súčasťou tohto vzťahu sú Všeobecné podmienky
+o zabezpečení informačnej bezpečnosti FS SR,
+
+4.
+
+tretia strana má od FR SR iba objednávku bez zmluvného vzťahu súvisiacu s hardvérom,
+softvérom, údržbou alebo službou súvisiacou s IKT FS SR,
+
+5.
+
+treťou stranou je osobitná tretia strana.
+
+ff) Service Level Agreement (ďalej len „SLA“) je zmluva alebo dohoda medzi dodávateľom (externým
+alebo interným) a odberateľom služby IKT, ktorá dokumentuje dojednané parametre danej služby
+IKT,
+gg) SLA manažéri sú zamestnanci FS zodpovední za riadenie úrovne poskytovaných služieb externým
+subjektom, alebo zamestnanci tretej strany zodpovední za prípravu, spracovanie a realizáciu
+konkrétnych požiadaviek externého prístupu k IKT FS SR. Obvykle sú to osoby z prostredia IKT,
+hh) tretie strany sú externí dodávatelia a externí odberatelia vybraných služieb FR SR. V tejto súvislosti
+ide predovšetkým o externé subjekty, ktoré na zmluvnom základe s FR SR alebo MF SR dodávajú
+pre FR SR alebo odoberajú od FR SR špecializované údaje alebo vykonávajú pre FR SR
+špecializované práce súvisiace s návrhom, implementáciou, testovaním, dodávaním, údržbou,
+aktualizáciou alebo outsorucingom IKT, ako aj o ich subdodávateľov,
+ii) vedúci zamestnanec
+1.
+
+vedúci zamestnanec podľa § 9 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších
+predpisov,
+
+2.
+
+vedúci štátny zamestnanec podľa § 11 zákona č. 400/2009 Z. z., a
+
+3.
+
+nadriadený podľa § 4 zákona č. 200/1998 Z. z.
+
+jj) VPN kanál je bezpečnostný kanál, ktorý vytvára šifrované spojenie na pripojenie tretej strany k IKT
+FS SR na základe Virtual Private Network techník,
+kk) vzdialený prístup je prístup tretej strany k softvéru alebo dátam IKT FS SR z iného miesta ako z
+priestorov FS SR.
+ll)
+
+zamestnancom FS
+1. zamestnanec vykonávajúci prácu vo verejnom záujme v zmysle zákona č. 552/2003 Z. z. o
+výkone práce vo verejnom záujme v znení neskorších predpisov,
+-41/52-
+
+2.
+
+zamestnanec v štátnozamestnaneckom pomere v zmysle zákona č. 400/2009 Z.z.
+o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej
+len „zákon č. 400/2009 Z. z.“), a
+
+3.
+
+colník, ktorý vykonáva štátnu službu podľa zákona č. 200/1998 Z. z. o štátnej službe colníkov
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon č.
+200/1998 Z. z.“).
+
+mm)zásah do IKT sa rozumie akýkoľvek prístup do alebo k IKT, ktorý bol povolený tretej strane na
+základe žiadosti o povolenie prístupu.
+3. Základné požiadavky
+4. Tretia strana sa zaväzuje oboznámiť svojich zamestnancov zúčastňujúcich sa na predmete plnenia zmluvy
+s bezpečnostnými požiadavkami v rozsahu uvedenom v týchto všeobecných podmienkach pre zabezpečenie
+informačnej bezpečnosti FS SR.
+5.
+
+Tretia strana sa zaväzuje oboznámiť a následne zabezpečiť od svojich zamestnancov, realizujúcich
+predmet plnenia zmluvy, dodržiavanie týchto povinností:
+a) dodržiavať ochranu údajov a informácií súvisiacich s IKT a s existujúcimi alebo vyvíjanými
+informačnými systémami FS SR a záväzok mlčanlivosti o údajoch a informáciách, s ktorými počas
+výkonu prác vo FS SR prišli do styku, ako aj zákaz ich využitia pre osobnú potrebu, zverejnenia,
+poskytnutia a sprístupnenia, s výnimkou orgánov činných v trestnom konaní, a to aj po ukončení
+pracovného, resp. zmluvného pomeru,
+b) zachovávať daňové tajomstvo, s ktorým počas výkonu prác vo FS SR prišli do styku, ako aj zákaz
+jeho využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou orgánov
+činných v trestnom konaní a to aj po ukončení pracovného pomeru, resp. zmluvného pomeru,
+c)
+
+zachovávať mlčanlivosť o osobných údajoch, s ktorými počas výkonu prác vo FS SR prišli do styku,
+ako aj zákaz ich využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou
+orgánov činných v trestnom konaní a vo vzťahu k Úradu pre ochranu osobných údajov pri plnení jeho
+úloh,
+
+d) preukázať na vyzvanie svoju totožnosť buď zamestnancom strážnej služby alebo oprávnenej osobe
+určenej na priamu komunikáciu s ním (ďalej iba oprávnená osoba) pri vstupe do priestorov FS SR, ak
+strážna služba nie je zriadená,
+e) realizovať zásahy do IKT FS SR iba v určenom rozsahu v rámci poskytovania dohodnutých prác
+a služieb pre FS SR,
+f)
+
+použiť len také externé pripojenia k IKT FS SR, ktoré sú uvedené v písomnej žiadosti o prístup
+externého subjektu k IKT FS SR,
+
+g) použiť externé pripojenia k IKT FS SR len spôsobom, ktorý nie je v rozpore so všeobecne záväznými
+právnymi predpismi a bezpečnostnými politikami FS SR,
+h) používať externé pripojenia k IKT FS SR výhradne na plnenie povinností v zmysle platnej zmluvy
+uzatvorenej s cieľom poskytnutia služieb externého subjektu v prospech FS SR,
+i)
+
+neposkytnúť svoju elektronickú identitu (napr. login, heslo, a pod.) inej osobe,
+
+j)
+
+realizovať výkon dohodnutých prác a služieb tak, aby pri nich nedošlo k poškodeniu alebo zničeniu
+kľúčových komponentov IKT alebo k neočakávanému prerušeniu ich prevádzky,
+
+-42/52-
+
+k)
+
+riadiť sa pokynmi oprávnenej osoby, SLA manažéra FS SR, manažéra bezpečnosti a manažéra
+informačnej bezpečnosti IKT FS SR počas výkonu dohodnutých prác a služieb pre FS SR,
+
+l)
+
+zdokumentovať všetky zásahy do IKT FS SR podľa pokynov oprávnenej osoby a bezodkladne jej
+ohlásiť zistené bezpečnostné nedostatky, ktoré by mohli spôsobiť ohrozenie dôvernosti alebo integrity
+kódu alebo dokumentácie systému,
+
+m) pripájať svoje technologické prostriedky (napr. počítač, notebook, meracie prístroje a pod.) k IKT FS
+SR len po predchádzajúcom súhlase oprávnenej osoby, a to len na nevyhnutne potrebnú dobu
+a s rešpektovaním podmienok spojených so súhlasom, ako napríklad antivírusová kontrola
+a podobne,
+n) možnosti vynášať zariadenia, materiál a údaje patriace FS SR (informačno-komunikačné zariadenia,
+výsledky zostáv vytvorených na základe skriptov, zbery údajov, poskytované údaje, a pod.)
+z priestorov FS SR len s písomným súhlasom oprávnenej osoby, pričom zdokumentovaná e-mailová
+komunikácia je v odôvodnených a naliehavých prípadoch považovaná za súhlas oprávnenej osoby na
+priamu komunikáciu so žiadateľom,
+o) rešpektovať autorské práva k materiálom poskytnutým z FS SR, na ktoré bola tretia strana
+upozornená,
+p) vrátiť všetky materiály a údaje vrátane elektronických poskytnuté z FS SR a zlikvidovať všetky ich
+kópie, ak to nebolo zmluvne dohodnuté inak.
+4. Doplňujúce požiadavky
+6. V prípade, že predmet plnenia zmluvy súvisí s vývojom a aktualizáciou IKT FS SR, tretia strana akceptuje
+nasledujúce požiadavky:
+a) dodržiavanie bezpečnostných požiadaviek relevantných interných riadiacich aktov FS SR,
+bezpečnostných politík FS SR, platnej bezpečnostnej legislatívy (najmä požiadaviek zákona
+č.275/2006 Z.z. o informačných systémoch verejnej správy v znení neskorších predpisov
+a súvisiaceho výnosu), zachovávania mlčanlivosti o skutočnostiach zistených počas vývoja,
+nasadzovania a podpory vyvíjaného alebo aktualizovaného IS, zachovávanie mlčanlivosti týkajúcej sa
+daňového tajomstva a zachovávanie mlčanlivosti podľa zákona č. 122/2013 Z.z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov nevnesenie nepožadovaného kódu a
+nepožadovaných funkcií do IS, ktoré by mohli viesť k zneužitiu IS neautorizovanými prístupmi a
+osobami,
+b) zabezpečenie ochrany dôvernosti a integrity kódu a dokumentácie systému (do kontaktu s kódom
+a dokumentáciou systému môžu prichádzať iba tí zamestnanci tretej strany, ktorí podpísali Poučenie
+zamestnancov externého subjektu o informačnej bezpečnosti v prostredí IKT FS SR (ďalej len „
+poučenie“),
+c)
+
+povinnosť vopred deklarovať, podľa akej vývojovej metodiky, resp. normy postupuje pri vývoji
+systému, pričom tento postup musí byť schválený FR SR,
+
+d) právo FS SR vykonať audit svojho vývojového prostredia. Účelom tohto auditu je súlad vývoja
+s deklarovanou metodikou, resp. normou,
+e) súhlas s poskytnutím potrebnej súčinnosti audítorovi vykonávajúcemu audit IS, ak tento IS súvisí
+s predmetom zmluvy. V prípade, ak potreba súčinnosti podľa tohto bodu na strane tretej strany
+presiahne rozsah 20 (dvadsať) človekohodín, tretia strana nie je povinná poskytnúť súčinnosť bez
+dohody o úhrade nákladov na takúto súčinnosť,
+
+-43/52-
+
+f)
+
+súhlas s poskytnutím potrebnej súčinnosti FS SR pre prípadný audit svojich informačných systémov a
+IKT, ak tieto súvisia s predmetom plnenia zmluvy. V prípade, ak potreba súčinnosti podľa tohto bodu
+na strane tretej strany presiahne rozsah 20 (dvadsať) človekohodín, tretia strana nie je povinná
+poskytnúť súčinnosť bez dohody o úhrade nákladov na takúto súčinnosť,
+
+g) zabezpečenie, aby predmet plnenia zmluvy obsahoval aj bezpečnostné požiadavky pre vyvíjaný
+alebo aktualizovaný IS
+h) menovanie kontaktnej osoby (SLA manažér) FS SR zodpovednej za informačnú bezpečnosť
+a činnosti podľa písmena a) až h) týchto doplňujúcich požiadaviek,
+i)
+
+menovanie kontaktnej osoby (SLA manažér) tretej strany zodpovednej za informačnú bezpečnosť
+a činnosti podľa písmena a) až h) týchto doplňujúcich požiadaviek,
+
+j)
+
+vykonanie testovania pre činnosti súvisiace s bezpečnostnými požiadavkami súvisiacimi s vyvíjaným
+alebo aktualizovaným IS, a to najmenej vykonanie interného používateľského testovania v rozsahu
+minimálne jedného týždňa pred odovzdaním informačného systému, jeho časti alebo súvisiacej
+aplikácie v zmysle článku I. bodu 2.f.
+
+k)
+
+dodanie dokumentácie pre nové alebo aktualizované IKT alebo ich časti, ktorá obsahuje:
+
+l)
+
+7.
+
+1.
+
+používateľskú dokumentáciu, ktorou je návod na používanie systému, scenáre činností so
+systémom pre jednotlivé roly, pravidlá používania systému, opis bezpečnostných procedúr
+a ovládanie bezpečnostných mechanizmov, opis chybových hlásení v zmysle článku I. bodu 2.f.,
+
+2.
+
+prevádzkovú a administrátorskú dokumentáciu, ktorou je dokumentácia o architektúre
+informačného systému alebo jeho časti, popis prevádzkových postupov, postupy zotavenia sa
+z bežných chýb, rozdelenie rolí pri prevádzke a administrácii systému, opis konfigurácie systému
+a umiestnenia jednotlivých fyzických, aplikačných a dátových komponentov, väzby na existujúce
+informačné systémy, politiku použitia kryptografických opatrení, podrobný opis aktivít
+vyžadovaných pri administrácii systému, šablóny administrátorských a operátorských denníkov
+a uvedenie typov udalostí, ktoré sa do nich zapisujú v zmysle článku I. bodu 2.f.
+
+nesplnenie bezpečnostných požiadaviek podľa písm. a) až l) s výnimkou písm. h) tohto odseku bude
+dôvodom na neukončenie príslušnej etapy projektu alebo neschválenie prevzatia vykonávanej
+činnosti.
+
+V prípade, že predmet plnenia zmluvy sa priamo dotýka prístupu k IKT FS SR, tretia strana okrem
+požiadaviek uvedených v odseku 4 tohto článku akceptuje nasledujúce doplňujúce požiadavky:
+a) zabezpečí realizovanie prístupu k softvéru alebo dátam IKT FS SR na základe žiadosti o prístup
+externého subjektu k IKT FS SR (ďalej len „žiadosť“) podľa prílohy. V žiadosti musí byť uvedený
+dôvod prístupu, rozsah prístupu (časť IKT, resp. IS, ku ktorému je požadovaný prístup), miesto
+prístupu a IP adresa zariadenia na prístup (v prípade vzdialeného prístupu), stanovený dátum a čas
+prístupu a mená zamestnancov tretej strany, pre ktorých je požadovaný prístup. Záležitosti súvisiace
+so žiadosťou sa realizujú prostredníctvom kontaktných osôb a oprávnených zamestnancov. Žiadosť
+tretej strany o prístup k IKT FS SR podpísaná kontaktnou osobou za tretiu stranu, sa elektronicky
+(emailom so zoskenovanou žiadosťou alebo faxom), poštou alebo osobne doručí kontaktnej osobe
+FS SR. Kontaktná osoba FS SR doručí schválený resp. neschválený súhlas s prístupom k IKT FS
+SR elektronicky, poštou alebo osobne kontaktnej osobe tretej strany.
+
+
+
+Meno kontaktnej osoby za FS SR sa bude uvádzať v žiadosti o prístup externého subjektu k IKT FS SR
+Meno kontaktnej osoby za tretiu stranu sa bude uvádzať v žiadosti o prístup externého subjektu k IKT FS SR
+
+
+
+-44/52-
+
+b) zabezpečí, aby všetci jej zamestnanci realizujúci prístup k IKT FS SR na základe pokynov kontaktnej
+osoby FS SR alebo oprávneného zamestnanca podpísali pred prvým prístupom k IKT FS SR
+poučenie. V prípade odmietnutia podpísania tohto poučenia, nebude príslušnému zamestnancovi
+umožnený prístup k IKT FS SR,
+c)
+
+zabezpečí, aby všetky zásahy jej zamestnancov do IKT FS SR boli zaznamenané v protokole
+z prístupu tretích strán k IKT FS SR. Mesačný výpis bude dodaný raz mesačne vždy do 15 dňa
+nasledujúceho mesiaca po mesiaci realizácie zásahu.
+
+5. Záverečné ustanovenia
+8. Všeobecné podmienky sú záväzné pre tretiu stranu v plnom rozsahu pokiaľ v zmluve nie je ustanovené inak.
+9. V prípade porušenia týchto všeobecných podmienok, v dôsledku ktorého vznikne škoda pre FR SR, sa tretia
+strana riadi v zmysle článku XIV. tejto Zmluvy.
+Prílohy:
+
+Žiadosť o prístup externého subjektu k IKT FS SR
+Poučenie zamestnancov externého subjektu o pravidlách bezpečnosti v prostredí IKT FS SR
+
+V ......................... dňa
+
+___________________________________
+štatutárny zástupca tretej strany
+
+-45/52-
+
+ŽIADOSŤ O PRÍSTUP
+EXTERNÉHO SUBJEKTU K IKT FS SR
+
+Č.: (zo spisovej služby)
+P o r a d o v é č í s l o ž i a d o s t i / r o k (vyplní projektový manažér z evidencie):
+1.
+Subjekt
+(žiadateľ):
+2. Dôvod žiadosti
+o prístup:
+
+3. Rozsah požadovaného
+prístupu:
+4. Spôsob prístupu k IKT FS SR:
+
+5. Miesto, odkiaľ zamestnanci žiadateľa požadujú prístup:
+a) Miesto pripojenia v FS SR:
+b) Pracovisko žiadateľa:
+6. IP adresa/y, z ktorej/ých žiadateľ požaduje
+prístup:
+7. Dátum požadovaného prístupu (od – do):
+8. Čas požadovaného prístupu (od – do):
+9. Spôsob vedenia evidencie externého
+pripojenia k IKT FS SR:
+10. Mená zamestnancov žiadateľa s uvedením čísla občianskeho preukazu, e-mailovej adresy, pre ktorých je prístup
+požadovaný a spôsob ich autentifikácie (v prípade väčšieho počtu uviesť v prílohe):
+1.
+2.
+3.
+4.
+5.
+
+
+
+V prípade že ide o prístup tretej strany treba uviesť, či ide o rámcový (dlhodobý) prístup alebo o elementárny
+(krátkodobý) prístup v rámci dlhodobého prístupu. V tomto prípade, treba uviesť identifikačné číslo povolenia
+rámcového prístupu.
+
+Uveďte IP adresy zariadení, napr. IP servera s požadovanou aplikáciou.
+
+Napr. VPN, jeho IP, spôsob prihlásenia a ďalšie informácie.
+
+Vyplní SLA manažér alebo manažér bezpečnosti FS SR.
+
+Uveďte login, IP adresy, MAC adresy, kryptografické techniky, a pod. zamestnancov žiadateľa.
+-46/52-
+
+Kontaktná osoba žiadateľa s uvedením e-mailovej adresy:
+V
+
+dňa
+podpis
+
+Kontaktná osoba FS SR (projektový manažér) s uvedením e-mailovej adresy:
+V
+
+dňa
+podpis
+Vyjadrenie manažéra bezpečnosti FS SR:
+
+V
+
+dňa
+podpis
+Schválil:
+V
+
+dňa
+podpis
+
+Externý prístup zrušený dňa:
+
+Podpis projektového manažéra:
+
+-47/52-
+
+Finančné riaditeľstvo SR, Lazovná 63, 974 01 Banská Bystrica
+POUČENIE ZAMESTNANCOV
+EXTERNÉHO SUBJEKTU
+o pravidlách bezpečnosti v prostredí IKT FS SR
+V zmysle relevantných interných riadiacich aktov Finančnej správy SR (ďalej len „FS“), týkajúcich sa
+prístupu externých subjektov k informačným a komunikačným technológiám (ďalej len „IKT“) FS SR,
+bezpečnostných politík FS SR, platnej bezpečnostnej legislatívy (najmä požiadaviek zákona č. 275/2006 Z.z.
+o informačných systémoch verejnej správy v znení neskorších predpisov a súvisiaceho výnosu), mlčanlivosti
+týkajúcej sa daňového tajomstva a v súlade so zákonom č. 122/2013 Z.z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov, zamestnanec tretej strany má tieto povinnosti:
+a) dodržiavať ochranu údajov a informácií súvisiacich s IKT a s existujúcimi alebo vyvíjanými
+informačnými systémami FS SR a záväzok mlčanlivosti o údajoch a informáciách, s ktorými počas
+výkonu prác v FS SR prišli do styku, ako aj zákaz ich využitia pre osobnú potrebu, zverejnenia,
+poskytnutia a sprístupnenia, s výnimkou orgánov činných v trestnom konaní, a to aj po ukončení
+pracovného, resp. zmluvného pomeru,
+b) zachovávať daňové tajomstvo, s ktorým počas výkonu prác v FS SR prišli do styku, ako aj zákaz ich
+využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou orgánov činných v
+trestnom konaní a to aj po ukončení pracovného pomeru, resp. zmluvného pomeru,
+c) zachovávať mlčanlivosť o osobných údajoch, s ktorými počas výkonu prác v FS SR prišli do styku,
+ako aj zákaz ich využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou
+orgánov činných v trestnom konaní a vo vzťahu k Úradu pre ochranu osobných údajov pri plnení jeho
+úloh,
+d) preukázať na vyzvanie svoju totožnosť buď zamestnancom strážnej služby alebo oprávnenej osobe
+určenej na priamu komunikáciu s ním (ďalej iba oprávnená osoba) pri vstupe do priestorov FS SR, ak
+strážna služba nie je zriadená,
+e) realizovať zásahy do IKT FS SR iba v určenom rozsahu v rámci poskytovania dohodnutých prác
+a služieb pre FS SR,
+f)
+
+použiť len také externé pripojenia k IKT FS SR, ktoré sú uvedené v písomnej žiadosti o prístup
+externého subjektu k IKT FS SR,
+
+g) použiť externé pripojenia k IKT FS SR len spôsobom, ktorý nie je v rozpore so všeobecne záväznými
+právnymi predpismi a bezpečnostnými politikami FS SR,
+h) používať externé pripojenia k IKT FS SR výhradne na plnenie povinností v zmysle platnej zmluvy
+uzatvorenej s cieľom poskytnutia služieb externého subjektu v prospech FS SR,
+i)
+
+neposkytnúť svoju elektronickú identitu (napr. login, heslo, a pod.) inej osobe,
+
+j)
+
+realizovať výkon dohodnutých prác a služieb tak, aby pri nich nedošlo k poškodeniu alebo zničeniu
+kľúčových komponentov IKT alebo k neočakávanému prerušeniu ich prevádzky,
+
+k) riadiť sa pokynmi oprávnenej osoby, SLA manažéra FS SR, manažéra bezpečnosti a manažéra
+informačnej bezpečnosti IKT FS SR počas výkonu dohodnutých prác a služieb pre FS SR
+
+
+Poučenie je potrebné vyhotoviť v dvoch origináloch
+
+-48/52-
+
+l)
+
+zdokumentovať všetky zásahy do IKT FS SR podľa pokynov oprávnenej osoby a bezodkladne jej
+ohlásiť zistené bezpečnostné nedostatky, ktoré by mohli spôsobiť ohrozenie dôvernosti alebo integrity
+kódu alebo dokumentácie systému,
+
+m) pripájať svoje technologické prostriedky (napr. počítač, notebook, meracie prístroje a pod.) k IKT FS
+SR len po predchádzajúcom súhlase oprávnenej osoby, a to len na nevyhnutne potrebnú dobu
+a s rešpektovaním podmienok spojených so súhlasom, ako napríklad antivírusová kontrola a podobne,
+n) možnosti vynášať zariadenia, materiál a údaje patriace FS SR (informačno-komunikačné zariadenia,
+výsledky zostáv vytvorených na základe skriptov, zbery údajov, poskytované údaje, a pod.)
+z priestorov FS SR len s písomným súhlasom oprávnenej osoby, pričom zdokumentovaná e-mailová
+komunikácia je v odôvodnených a naliehavých prípadoch považovaná za súhlas oprávnenej osoby na
+priamu komunikáciu so žiadateľom,
+o) rešpektovať autorské práva k materiálom poskytnutým z FS SR, na ktoré bola tretia strana
+upozornená,
+p) vrátiť všetky materiály a údaje vrátane elektronických poskytnuté z FS SR a zlikvidovať všetky ich
+kópie, ak to nebolo zmluvne dohodnuté inak.
+Svojím vlastnoručným podpisom potvrdzujem, že som tomuto poučeniu v plnom rozsahu porozumel,
+nemám voči nemu žiadne výhrady a zaväzujem sa ho dodržiavať.
+
+P.č.
+
+Titul,
+meno Číslo
+a priezvisko
+občianskeho
+zamestnanca
+preukazu
+
+Funkcia
+
+Názov
+právnickej
+Dátum
+osoby
+/
+SZČO
+
+Podpis
+
+1.
+2.
+3.
+4.
+5.
+
+
+
+Je potrebné vyplniť všetky požadované údaje uvedené v tabuľke
+
+-49/52-
+
+Príloha č.8 – Požiadavka na poskytnutie služieb č. SLA_PFS_1/2015
+k plneniu predmetu Zmluvy o technickej podpore prevádzky a rozvoja APV Portálu finančnej správy
+(APV PFS) v zmysle bodu II.2.f) Zmluvy
+
+Predmetom požiadavky je poskytnutie ostatných služieb v zmysle bodu II.2.f) Zmluvy o technickej podpore
+prevádzky a rozvoja APV Portálu finančnej správy (APV PFS) v rozsahu:
+Predmet požiadavky
+Číslo
+
+Požiadavka
+
+Popis
+
+1.
+
+Doručovanie, resp.
+„doručovanie elektronických
+úradných dokumentov"
+
+Autorizácia zaručenou el. pečaťou , riešenie dopadov
+do zdrojových systémov, resp. registratúry FS,
+integrácia mechanizmov doručovania el. úradných
+dokumentov na back-end systémy FS
+
+2.
+
+Integrácie na ďalšie IS FS
+
+Zmena/rozšírenie integrácie ISFS
+Nová integrácia Admis
+Doplniť, rozšíriť obsah a rozsah poskytovaných
+služieb, realizovaných v rámci 2.etapy PFS podľa
+poskytovaných funkčností back-end IS FS (ISFS,
+Admis, ACIS), ktoré pribudnú po ukončení 2.etapy
+PFS
+Integrácia - backend systém vs. PFS - pre účely
+implementácie procesov, súvisiacich s úhradou
+poplatkov zo strany DS, používateľov PFS
+Integrácia PFS na RFO prostredníctvom "boxRFO"
+vytvoreného v rámci IS CEP, pre podporu
+registračného procesu nového používateľa PFS
+
+3.
+
+Úpravy a doplnenie existujúcej
+funkčnosti PFS
+
+Úpravy PFS v zmysle Novely výnosu o štandardoch IS
+VS
+Zapracovanie legislatívnych zmien - formuláre
+2016_2017
+Prelinkovanie odkazov z JASPI na nový portál
+právnych predpisov (www.slov-lex.sk)
+v súvislosti s pripravovaným zákonom o tvorbe
+právnych predpisov (zavedenie portálu SLOV-LEX v
+roku 2015)
+Vytvorenie dynamického zoznamu úradov, ich
+pobočiek a kontaktných miest
+Zabezpečenie vstupu údajov pre potreby FATCA
+
+4.
+
+Úpravy mobilnej aplikácie PFS
+
+Rozvoj mobilnej aplikácie FS podľa špecifikácie FS
+
+-50/52-
+
+Predmet požiadavky
+Číslo
+
+Požiadavka
+
+Popis
+
+5.
+
+Úpravy klientov eDane/win,
+eDane/Java
+
+Úprava klienta eDane/win a eDane/Java podľa
+špecifikácie FS
+
+-51/52-
+
+Príloha č.9 – Zoznam subdodávateľov
+
+-52/52-
+
+

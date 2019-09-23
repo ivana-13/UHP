@@ -1,0 +1,1343 @@
+SLA zmluva
+
+SERVISNÁ ZMLUVA O POSKYTOVANÍ SLUŽIEB
+(SLA zmluva)
+č. 110-08/07/2018
+
+1. ZMLUVNÉ STRANY
+1.1. Poskytovateľ servisu:
+Digital Systems a.s.
+Za hradbami 7
+Pezinok 902 01
+IČO:
+35 800 593
+DIČ:
+2020205044
+IČ DPH:
+SK2020205044
+bankové spojenie:
+XXXXXXXXXXXXXXX
+číslo účtu:
+XXXXXXXXXXXXXXX
+zapísaný:
+v Obchodnom registri Okresného súdu
+Bratislava I, oddiel Sa, vložka č. 5457/B
+zastúpený:
+Ing. Radoslav Hromý
+Člen predstavenstva
+a
+Bc. Peter Haško
+Predseda predstavenstva
+(ďalej len „poskytovateľ“ alebo „sprostredkovateľ“)
+
+1.2. Objednávateľ servisu:
+
+IČO:
+DIČ:
+IČ DPH:
+bankové spojenie:
+číslo účtu:
+zapísaný:
+zastúpený :
+
+Slovenská záručná a rozvojová banka, a. s.
+Štefánikova 27, P.O.BOX 154
+Bratislava 814 99
+00 682 420
+2020804478
+SK2020804478
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+v Obchodnom registri Okresného súdu Bratislava I,
+oddiel: Sa, vložka číslo: 3010/B
+Ing. Peter Ševčovic
+podpredseda predstavenstva
+a
+Ing. Zoltán Gyurász
+Člen predstavenstva
+
+(ďalej len „objednávateľ“ alebo „prevádzkovateľ“)
+
+110-08/07/2018 (č. zmluvy)
+Strana 1/22
+
+SLA zmluva
+1.3. Objednávateľ prehlasuje, že je spoločnosťou riadne založenou a existujúcou v súlade s právnym
+poriadkom Slovenskej republiky a ako taký je spôsobilý túto zmluvu uzavrieť.
+1.4. Poskytovateľ prehlasuje, že je spoločnosťou riadne založenou a existujúcou v súlade s právnym
+poriadkom Slovenskej republiky a ako taký je spôsobilý túto zmluvu uzavrieť.
+
+2. DEFINÍCIE POJMOV
+2.1. Ak v tejto zmluve nie je uvedené inak, nižšie uvedené výrazy majú v tejto zmluve nasledujúci
+význam:
+„Auto Accept“ znamená, že ak objednávateľ do 7 kalendárnych dní nezamietne a ani
+neakceptuje navrhnuté riešenie, bude takéto riešenie automaticky považované za akceptované.
+„Change request“ znamená zmenu, t.j. rozšírenie funkcionality, úpravu alebo odstránenie
+schválenej, plánovanej alebo podporovanej funkcionality/služby alebo jej časti a jej súvisiacej
+dokumentácie.
+„Change management“ je proces, ktorý slúži na realizáciu Change request.
+„CIO“ (Technical Director) je technický riaditeľ poskytovateľa.
+„DM“ (Direct Manager) - priamy nadriadený riešiteľa Ticketu.
+„GR“ (Executive Director) je výkonný riaditeľ poskytovateľa.
+„Hardware“ je technické zabezpečenie informačného systému.
+„HDM“ (Help Desk Manager / Koordinátor zákazníckej podpory) je pracovník poskytovateľa
+priamo zodpovedný za zabezpečovanie plnenia tejto zmluvy.
+„Hotpatch“ je súbor vytvorený podľa potreby poskytovateľom pre objednávateľa, ktorý
+obsahuje úpravy a opravy týkajúce sa odlišností inštalácie u objednávateľa.
+„Impact“ ( dopad ) – popisuje rozsah obmedzení, ktoré daný Incident spôsobil. Môže mať tri
+úrovne - „vysoký“ – ak Incident znemožňuje používanie IS ako celku; „stredný“ - ak Incident
+spôsobuje významné problémy pri používaní IS, a/alebo znemožňuje používanie tohto systému
+skupine užívateľov a „nízky“ – ak dôsledky Incidentu sa týkajú jednotlivca. Úroveň Impact-u
+určuje poskytovateľ.
+„Incident“ je udalosť, ktorá spôsobuje nefunkčnosť IS alebo jeho časti, prípadne také správanie
+tohto systému, ktoré znemožňuje alebo obmedzuje jeho používanie.
+„Incident management“ je proces, ktorý slúži na vyriešenie Incidentu v čo najkratšom čase.
+„Informačný systém“ alebo tiež „IS“ je funkčný celok, tvorený hardvérovými a softvérovými
+komponentmi bližšie špecifikovanými v prílohe č. 1 tejto zmluvy. Sú nimi technické zariadenia
+(servery, aktívne a pasívne sieťové komponenty, kabeláž), slúžiace na zaručenie služieb
+komunikácie a prenosu dát v rámci siete objednávateľa.
+„Konzultačná hodina“ sa rozumie každá začatá hodina (60 minút) práce jedného pracovníka
+poskytovateľa.
+„NBD“ (next business day) je ďalší pracovný deň nasledujúci po pracovnom dni, v ktorom dôjde
+k zadaniu Ticket-u alebo inej rozhodujúcej udalosti.
+„Patch“ je súbor vytvorený výrobcom ( napr. Cisco Systems, HP, IBM, Microsoft) a pravidelne
+distribuovaný poskytovateľom, ktorý obsahuje úpravy, opravy chýb v štandardnej verzii.
+„Pending“ (stav čakania) je stav Ticket-u, keď nie je možné pokračovať v riešení, pretože
+pracovníci poskytovateľa čakajú na súčinnosť objednávateľa (napríklad sprístupnenie priestorov,
+akceptácia ponúknutého riešenia a pod.) alebo súčinnosť výrobcu (napríklad riešenie Problem-u
+čaká na spoluprácu Cisco TAC, na nový Patch Microsoft a pod.). Doba, počas ktorej je Ticket v
+stave Pending sa nezapočítava do TTRep.
+„Pracovná doba“ alebo tiež „Štandardná Pracovná doba poskytovateľa je v pracovných dňoch
+v Slovenskej republike čas medzi 8:30 až 16:30 hod.
+„Pracovný deň“ alebo tiež „BD“ je každý deň v štáte sídla poskytovateľa, okrem sobôt, nedieľ,
+štátnych sviatkov a dní pracovného pokoja.
+110-08/07/2018 (č. zmluvy)
+Strana 2/22
+
+SLA zmluva
+„Pracovník poskytovateľa“ je každý zamestnanec poskytovateľa ako aj každá tretia osoba, ktorá
+na základe iného ako pracovnoprávneho vzťahu s poskytovateľom plní v mene poskytovateľa
+jeho povinnosti podľa tejto zmluvy.
+„Priorita“ je definovaná závažnosť Ticket-u. Tabuľka výpočtu priority tvorí prílohu č. 3 tejto
+zmluvy. Priorita sa rozdeľuje na:
+a) Priorita 1 (P1 Critical) - je pridelená podľa výpočtu vyplývajúceho z tabuľky – teda
+spravidla, ak je situácia veľmi naliehavá a prevádzkové problémy znemožňujú používanie
+IS, t.j. nie je zabezpečená elektronická komunikácia a tok dát IS a neexistuje postup pre
+náhradné riešenie problému použitím bežných postupov v kompetencii správcu systému.
+Takéto prevádzkové problémy sú riešené z obidvoch strán s najvyššou Prioritou a v
+riešení sa pokračuje až pokiaľ nie je dosiahnutá funkčnosť tej úrovne, ktorá bola pred
+nastaním Incidentu. Nahlásenie takéhoto Incidentu musí byť vždy vykonané telefonicky.
+b) Priorita 2 (P2 High) - je pridelená podľa výpočtu vyplývajúceho z tabuľky – teda spravidla
+pre Incidenty, obmedzujúce používanie IS pre skupinu užívateľov a spôsobujúce
+významné problémy pri používaní, avšak sú prekonateľné dočasným náhradným
+postupom. Takéto Incidenty sú riešené z obidvoch strán s najvyššou Prioritou a v riešení
+sa pokračuje až pokiaľ nie je dosiahnutá funkčnosť tej úrovne, ktorá bola pred nastaním
+Incidentu. Nahlásenie takéhoto Incidentu musí byť vždy telefonicky.
+c) Priorita 3 (P3 Medium) – je pridelená podľa výpočtu vyplývajúceho z tabuľky – teda
+spravidla pre Incidenty, ktoré majú dopad na malý počet užívateľov a/alebo, ktoré
+komplikujú postupy pri práci v rámci IS, t.j. prejavujú sa v nezhode ovládania či výstupov
+so správaním popísaným v dokumentácii / helpe, alebo nie sú uvedené v
+predchádzajúcich kategóriách. Takéto Incidenty sú riešené z obidvoch strán Nahlásenie
+takéhoto Incidentu je realizované urobením záznamu do aplikácie HelpDesk.
+d) Priorita 4 (P4 Low/Planning) – je pridelená podľa výpočtu vyplývajúceho z tabuľky – teda
+spravidla Incidentom s dopadom na malý počet užívateľov, (spravidla jeden) – a s nízkou
+dôležitosťou. Takéto Incidenty sú riešené z obidvoch strán počas pracovnej doby.
+Nahlásenie takéhoto Incidentu je realizované urobením záznamu do aplikácie HelpDesk.
+„Problem“ je neznáma podstatná príčina jedného závažného alebo viacerých opakujúcich sa
+Incidentov.
+„Problem management“ je proces, ktorý slúži na vyriešenie Problem-u.
+„QM“ ( Quality Manager ) je manažér kvality u poskytovateľa.
+„RPO“ (Recovery Point Objective) je Cieľový bod obnovenia t.j. okamih, do ktorého sa požaduje
+obnoviť dáta v produkčnom prostredí IS ak takáto požiadavka nastane. Cieľový bod obnovenia
+predstavuje všeobecnú definíciu "prijateľnej straty" v prípade zlyhania IS.
+„Request for Change“ je požiadavka na vykonanie konkrétnej činnosti ( drobnej zmeny)
+preddefinovanej v Katalógu služieb, napr., vytvorenie užívateľského konta, pridanie do skupiny,
+inštalácia PC, reset hesla a pod.
+„Software“ je programové vybavenie informačného systému.
+„HelpDesk“ je centrálny kontaktný bod poskytovateľa pre objednávateľa. Je to aplikácia slúžiaca
+na podporu plnenia zmluvy, zaznamenávanie úloh (Ticketov) a sledovanie ich životného cyklu.
+„Technická podpora“ znamená činnosť pracovníkov poskytovateľa u objednávateľa pri riešení
+„Ticket-ov“.
+„Ticket“ je zaznamenaná požiadavka objednávateľa v HelpDesk, (napr. Incident, Problem,
+Change). Tento záznam nesie v sebe informácie, potrebné pre vyhodnocovanie plnenia Zmluvy.
+„TTRep“ (Time to repair) je čas meraný od zaznamenania Ticketu v HelpDesk do doby vyriešenia.
+„TTRes“ (Time to respond - doba odozvy) je čas meraný od vytvorenia Ticketu v HelpDesk do
+doby začatia riešenia Ticketu.
+„Urgency“ (naliehavosť) tento parameter popisuje naliehavosť potreby riešenia vzniknutej
+situácie. Môže mať tri úrovne – nízku, strednú a vysokú. Úroveň naliehavosti určuje
+objednávateľ.
+110-08/07/2018 (č. zmluvy)
+Strana 3/22
+
+SLA zmluva
+
+3. PREDMET ZMLUVY
+3.1. Na základe tejto zmluvy sa poskytovateľ zaväzuje po dobu platnosti tejto zmluvy dodávať
+objednávateľovi servisné služby a technickú podporu ktorými bude zabezpečovať aktualizácie
+systému, poskytovanie služby zmien konfigurácie, technologické a funkčné upgrady systému,
+pravidelnú aktualizáciu dokumentácie, aktualizáciu konfiguračnej databázy a najmä
+poskytovanie služby „Incident“ a „Problem manažmentu“ v stanovených časoch, pre systémy,
+zariadenia a software v rozsahu v zmysle článku 4. tejto zmluvy.
+
+4. ŠPECIFIKÁCIA PROSTREDIA A ROZSAHU
+4.1. HelpDesk poskytovateľa za účelom poskytovania servisných služieb podľa tejto zmluvy bude
+objednávateľovi prístupný nasledovne:
+o
+4.2.
+
+BRONZE (štandardná podpora 8 hodín denne 5 pracovných dní v týždni medzi 08:30 16:30 hod.)
+Servisné služby bude poskytovateľ objednávateľovi poskytovať v:
+
+Slovenská záručná a rozvojová banka, a. s., Štefánikova 27, Bratislava
+
+4.3. Služby podpory zahŕňajú v rámci paušálnej ceny:
+4.3.1. Služby podľa Katalógu služieb v Prílohe č.2 podľa Prílohy č.1 počas trvania tejto zmluvy.
+4.3.2. Prístup na aplikáciu HelpDesk, ktorá je prístupná prostredníctvom centrálneho
+kontaktného miesta definovaného podľa článku 10.
+4.4. Služby podpory, ktoré nie sú pokryté paušálnou cenou, zahŕňajú:
+4.4.1. v prípade osobitnej dohody zmluvných strán priebežné vytváranie Recovery Point
+Objective poskytovateľom;
+4.4.2. obnovenie Recovery Point Objective poskytovateľom na základe požiadavky
+objednávateľa.
+4.5. Služby podpory nezahŕňajú hlavne:
+4.5.1. Údržbu, opravy, zálohovanie (okrem vytvárania RPO v zmysle čl. 4.4.1.) a iné
+manipulácie s používateľskými dátami IS.
+
+5. INCIDENT MANAGEMENT
+5.1. Incidenty sa členia do štyroch Priorít v závislosti od parametrov Impact a Urgency podľa tabuľky
+výpočtu Priority.
+5.2. V nasledujúcej tabuľke sú definované garancie časov pre jednotlivé Priority týkajúce systémov
+v zmysle článku č.4.tejto zmluvy:
+Reakcia
+TTRes
+TTRep
+
+P1 - Critical
+2 hod.
+24 hod.
+
+P2 - High
+2 hod.
+24 hod.
+
+P3 - Medium
+4 hod.
+48 hod.
+
+P4 - Low/Planning
+NBD
+120 hod.
+
+5.2.1. Vyriešenie Incidentu v danej Priorite je definované ako vyriešenie závady alebo
+poskytnutie prijateľného náhradného riešenia, alebo obchádzanie Incidentu, alebo
+návodu na obchádzanie alebo prevedenie daného Incidentu do nižšej kategórie alebo
+110-08/07/2018 (č. zmluvy)
+Strana 4/22
+
+SLA zmluva
+rozhodnutie, že ide o novú požiadavku na zmenu (CHANGE Manažment) vývoj/nastavenie systému.
+5.2.2. Jednotlivé časy predstavujú čistý čas, počítaný v rámci dostupnosti servisu, (napr. ak je
+dostupnosť servisu v pracovných dňoch (HelpDesk Silver a Bronze ) v rámci pracovnej
+doby a Incident je nahlásený v piatok o 17:00, je garancia Time To Respond pre Incident
+s Prioritou 1 (P1) v pondelok 8:00 pre HelpDesk Silver a 9:30 pre Bronze).
+
+6. PROBLEM MANAGEMENT
+6.1. Ak vyriešenie Incidentu nie je finálne ( napr. je poskytnuté náhradné riešenie alebo návod na
+obchádzanie) je vždy vytvorený Ticket Problem. Ticket Problem môže vytvárať aj objednávateľ,
+ak sa jednalo o závažný Incident, ktorý ohrozuje jeho podnikanie ako celku, alebo v prípade že sa
+daný Incident viac krát zopakoval.
+6.2. Ticketu Problem-u je po vzájomnej dohode priradená jedna zo štyroch Priorít, spravidla rovnaká
+ako Incident, z ktorého Ticket Problem vznikol.
+6.3. V nasledujúcej tabuľke sú definované garancie časov pre jednotlivé Priority Problem-ov týkajúce
+sa systémov v zmysle článku č.4.tejto zmluvy:
+Reakcia
+TTRes
+TTRep
+
+P1 - Critical
+NBD
+3 BD
+
+P2 - High
+NBD
+3 BD
+
+P3 - Medium
+NBD
+3 BD
+
+P4 - Low/Planning
+NBD
+5 BD
+
+6.3.1. Ticket Problem-y sú riešené v rámci štandardnej pracovnej doby, preto aj časy
+definované v tabuľke podľa čl. 6.3. sa vzťahujú k pracovným dňom.
+
+7. CHANGE MANAGEMENT
+7.1. V prípade že servisná požiadavka nespadá pod Incident alebo Problem, je klasifikovaná ako
+(Požiadavka na zmenu) Request for Change.
+7.2. Požiadavka na zmenu – Request for Change znamená zmenu, t.j. rozšírenie, upgrade funkčnosti
+systému, jeho úpravu alebo odstránenie schválenej, plánovanej alebo podporovanej služby
+alebo jej časti a súvisiacej dokumentácie.
+7.3. Incident alebo Problem je možné reklasifikovať ako (Požiadavka na zmenu) Request for Change.
+Následne je po vzájomnej dohode dohodnutá doba opravy TimeToRepair. Pokial nie je určené
+inak, Požiadavky na zmenu sú spoplatňované samostatne na základe skutočne vykonaných prác
+na základe hodinových sadzieb jednotlivých IT špecialistov alebo na základe oboma stranami
+odsúhlasenej cenovej kalkulácie s definovanými funkčnými požiadavkami a dodacími
+podmienkami.
+7.4. V nasledujúcej tabuľke sú definované garancie časov pre jednotlivé Request for Change tykajúcej
+sa systémov v zmysle článku č.4.tejto zmluvy:
+Reakcia
+TTRes
+TTRep
+
+P1 - Critical
+NBD
+
+P2 - High
+NBD
+
+P3 - Medium
+NBD
+
+P4 - Low/Planning
+NBD
+
+Na základe vypracovanej
+ponuky s presne
+definovanými
+podmienkami pre
+funkčnosť, cenu a termín
+dodania zmeny.
+
+Na základe vypracovanej
+ponuky s presne
+definovanými
+podmienkami pre
+funkčnosť, cenu a termín
+dodania zmeny.
+
+Na základe vypracovanej
+ponuky s presne
+definovanými
+podmienkami pre
+funkčnosť, cenu a termín
+dodania zmeny.
+
+Na základe vypracovanej
+ponuky s presne
+definovanými
+podmienkami pre
+funkčnosť, cenu a termín
+dodania zmeny.
+
+8. ESKALÁCIE
+110-08/07/2018 (č. zmluvy)
+Strana 5/22
+
+SLA zmluva
+8.1.
+
+V prípade nespokojnosti s poskytovaním plnenia tejto zmluvy má objednávateľ právo využiť
+eskalačnú procedúru zadaním Ticket Complaint podľa nasledovných pravidiel:
+8.1.1. Pre nahlásenie eskalácie môže byť použitý ktorýkoľvek zo spôsobov podľa článku 10.1.
+tejto zmluvy.
+8.1.2. Bez ohľadu na spôsob nahlásenia je poskytovateľ povinný každú eskaláciu evidovať v
+HelpDesku s definovaním Priority eskalácie.
+8.1.3. Priorita eskalácie je určená podľa nasledujúcej tabuľky:
+Priorita P1 - Critical
+
+Priorita P2 - High
+
+Priorita P3 - Medium
+
+Priorita P4 Low/Planning
+
+8.2.
+
+Konaním poskytovateľa bol zapríčinený výpadok služby
+alebo ohrozená činnosť objednávateľa alebo strata jeho
+dát, prípadne nastalo opakované zlyhanie podľa Priorita 2
+(P2 High)
+Konanie poskytovateľa viedlo k zhoršeniu dopadu situácie
+na objednávateľa alebo bola spôsobená degradácia služby,
+prípadne nastalo opakované zlyhanie podľa Priorita 3 (P3
+Medium)
+Konaním poskytovateľa bola zapríčinená čiastočná alebo
+úplná nefunkčnosť komponentu, pripadne nastalo
+opakované zlyhanie podľa Priorita 4 (P4 Low/Planning)
+Slúži na upozornenie na nespokojnosť objednávateľa s
+riešením situácie (spôsob komunikácie, technické riešenie,
+doba riešenia)
+
+Nasledujúca tabuľka predstavuje maticu zodpovedností pracovníkov poskytovateľa za riešenie
+eskalácie pre jednotlivé Priority eskalácie:
+Eskalácia
+
+Riešiteľ eskalácie
+
+Zodpovedný za riešenie
+
+Informovaní o riešení
+
+P1 – Critical
+
+DM
+
+CIO
+
+HDM, SDM, QM,CIO, GR
+
+P2 – High
+
+DM
+
+HDM
+
+HDM, SDM, QM, CIO
+
+P3 - Medium
+
+DM
+
+DM
+
+DM, QM, HDM
+
+P4 Low/Planning
+
+DM
+
+DM
+
+DM, QM, HDM
+
+9. RECOVERY POINT OBJECTIVE
+9.1.
+9.2.
+9.3.
+
+Cieľový bod obnovenia RPO zmluvné strany stanovujú na: 24 hod. Cieľový bod obnovenia je
+vyjadrený ako dĺžka času pred zlyhaním.
+Cieľový bod obnovenia je okamih, do ktorého môže objednávateľ požadovať obnoviť dáta v
+produkčnom prostredí, a poskytovateľ je povinný k takémuto RPO dáta obnoviť.
+Pokiaľ sa zmluvné strany nedohodnú inak, zálohovanie dát vždy k Cieľovému bodu obnovenia
+je povinný priebežne vykonávať objednávateľ, a to tak, aby boli uvedené dáta obnoviteľné
+dostupnými technickými prostriedkami poskytovateľa. Poskytovateľ nezodpovedá
+objednávateľovi za škodu ani za riadne obnovenie RPO v prípade, ak objednávateľ neplní svoju
+povinnosť podľa predchádzajúcej vety riadne.
+
+110-08/07/2018 (č. zmluvy)
+Strana 6/22
+
+SLA zmluva
+9.4.
+
+Objednávateľ berie na vedomie, že poskytovateľ obnoví dáta do RPO len na základe požiadavky
+objednávateľa. O potrebe vykonať obnovu RPO je však povinný poskytovateľ objednávateľa
+upovedomiť.
+Pre obnovenie dát do cieľového bodu obnovenia platia garancie časov v rámci Priorít ako
+v prípade Problem Management-u podľa čl. 6.3. Lehoty na plnenie uvedené v tejto zmluve sa
+prerušujú od momentu doručenia oznámenia poskytovateľa o potrebe vykonania RPO
+objednávateľovi až do momentu doručenia pokynu objednávateľa vykonať RPO
+poskytovateľovi.
+Objednávateľ berie na vedomie, že poskytovateľ obnoví dáta vždy len k cieľovému bodu
+obnovenia, a až do momentu nasledujúceho bodu obnovenia v zmysle čl. 9.1. za dáta
+vygenerované v takomto medziobdobí (medzi dvoma cieľovými bodmi obnovenia) nenesie
+poskytovateľ žiadnu zodpovednosť a v prípade zlyhania môže dôjsť k strate všetkých dát
+vygenerovaných v tomto medziobdobí.
+
+9.5.
+
+9.6.
+
+10. CENTRÁLNE KONTAKTNÉ MIESTO
+10.1. Jediným kontaktným miestom je HelpDesk. HelpDesk bude objednávateľ kontaktovať jedným
+z nasledovných spôsobov:
+-
+
+telefonicky: +421 (0) 2 634 525 39
+elektronicky prostredníctvom email: support@digitalsystems.eu
+elektronicky na adrese: https://helpdesk.svc.dsnet/
+
+11. CENA PREDMETU ZMLUVY
+11.1. Zmluvné strany sa dohodli na zmluvnej cene za Incident management , Problem management
+a Change manažment vo výške paušálneho poplatku bez DPH:
+Paušálny poplatok za služby
+
+Cena
+
+Jednotka
+
+DS Middleware - EXEC
+DS Middleware - AML
+DS Middleware – SEPA pred/post
+processing
+
+1470,1600,-
+
+EUR/mesiac
+EUR/mesiac
+
+1170,-
+
+EUR/mesiac
+
+Súčasťou súhrnného paušálneho poplatku za všetky paušálne služby sú práce v trvaní 12
+človeko-hodín za mesiac v kategórii Databázový špecialista/Programátor. Tieto hodiny je
+možné kumulovať a použiť na úpravy systému, alebo servisné zásahy podľa požiadaviek
+objednávateľa v rámci Incident management, Problem management a Change manažmentu.
+Je možné kumulovať hodiny maximálne za 6 po sebe nasledujúcich mesiacov.
+
+11.2 Zmluvné strany sa dohodli na zmluvnej cene za zriadenie a prvotnú konfiguráciu, ktorá obnáša
+vytvorenie VPN (virtual private network) zabezpečeného kanála, nastavenie komunikačných
+tokov, vytvorenie zákazníckych prístupov k Help Desku, zabezpečenie prístupových hesiel,
+naplnenie konfiguračnej databázy helpdesku. Všetky práce spojené s vytvorením systému
+helpdesk zabezpečí dodávateľ.
+11.3. Incidenty vzniknuté v dôsledku zásahov objednávateľa alebo tretích strán do podporovaných
+zariadení a software podľa Príloha č.1 sú riešené podľa im prislúchajúcich Priorít, ale na ich
+110-08/07/2018 (č. zmluvy)
+Strana 7/22
+
+SLA zmluva
+vyriešenie sa nevzťahujú zmluvné pokuty a ich riešenie je spoplatnené rovnakou sadzbou ako
+Change management podľa čl. 11.3.
+Popis
+Projektový manažment
+Programátor
+Databázový špecialista
+Školiteľ
+
+Cena/EUR bez dph
+75,68,68,50,-
+
+11.4. Zmluvné strany sa dohodli na zmluvnej cene podľa skutočne vykonaných prác pre Change
+management na základe hodinových sadzieb /a /alebo/ katalógu podľa tabuľky:
+Popis
+Projektový manažment
+Programátor
+Databázový špecialista
+Školiteľ
+
+Cena/EUR bez dph
+75,68,68,50,-
+
+11.5. Zmluvné strany sa dohodli na zmluvnej cene za:
+11.5.1. priebežné zálohovanie za účelom vytvorenia Cieľového bodu obnovenia (v prípade, ak
+sa zmluvné strany dohodnú, že to bude zabezpečovať poskytovateľ):
+Popis
+Projektový manažment
+Programátor
+Databázový špecialista
+
+Cena/EUR bez dph
+75,68,68,-
+
+11.5.2. obnovenie dát do RPO:
+Popis
+Projektový manažment
+Programátor
+Databázový špecialista
+
+Cena/EUR bez dph
+75,68,68,-
+
+11.6 Dopravné náklady, spojené s poskytovaním služieb nad rámec paušálneho poplatku budú
+fakturované podľa skutočne vykázaného počtu kilometrov vo výške 0.40 EUR/km bez DPH a
+času stráveného na ceste (počítané od najbližšej pobočky poskytovateľa), vynásobeného 70%
+hodinovej sadzby príslušného systémového inžiniera.
+11.7. Náklady na práce, spojené s poskytovaním služieb nad rámec paušálneho poplatku,
+poskytované v čase mimo štandardnej pracovnej doby poskytovateľa, budú fakturované s
+príplatkom 50% nad hodinovú sadzbu príslušného systémového inžiniera.
+11.8. Faktúry bude poskytovateľ vystavovať raz mesačne na základe reportov z HelpDesk-u.
+
+110-08/07/2018 (č. zmluvy)
+Strana 8/22
+
+SLA zmluva
+11.9. Objednávateľ sa zaväzuje zaplatiť na bankový účet poskytovateľa dohodnutú sumu, prípadne
+jej časti, na základe faktúr poskytovateľa do 7 dní odo dňa ich doručenia. Faktúry budú
+vystavované do 15 kalendárneho dňa v nasledujúcom mesiaci.
+11.10. Ceny uvedené v tejto zmluve sú uvedené bez DPH. Poskytovateľ ako platca DPH k fakturovanej
+sume pripočíta zákonnú sadzbu DPH.
+
+12. ZÁVÄZKY ZMLUVNÝCH STRÁN
+12.1. Poskytovateľ sa zaväzuje, že:
+12.1.1. bude informovať objednávateľa o všetkých zásahoch a zmenách uskutočnených pri
+realizácii technickej podpory;
+12.1.2. bude uskutočňovať technickú podporu len po súhlase objednávateľa;
+12.1.3. bude vykonávať technickú podporu takým spôsobom, aby sa minimalizovali možné
+následné technické problémy a nebola negatívne ovplyvnená funkcionalita
+objednávateľovho IS.
+12.1.4. bude predmet tejto zmluvy vykonávať sám alebo prostredníctvom tretích osôb na
+vlastnú zodpovednosť. Pokiaľ by poskytovateľ mal vykonávať niektoré časti predmetu
+zmluvy prostredníctvom tretích osôb, zodpovedá poskytovateľ v plnom rozsahu tak,
+ako by predmetné výkony a dodávky uskutočňoval sám.
+12.2. Objednávateľ sa zaväzuje, že:
+12.2.1. umožní poskytovateľovi alebo pracovníkom jeho dodávateľských organizácií, ktoré
+poverí poskytovateľ na realizáciu výkonov podľa tejto zmluvy počas celej doby výkonu
+technickej podpory prístup ku všetkým zariadeniam, na ktoré sa predmet plnenia
+vzťahuje;
+12.2.2. zabezpečí prítomnosť povereného pracovníka na pracovisku v rozsahu, v ktorom si to
+výkon technickej podpory vyžaduje;
+12.2.3. povolí poskytovateľovi vzdialený prístup a administrátorské heslá. Ďalej sa zaväzuje k
+naplneniu tejto zmluvy zabezpečiť poskytovateľovi potrebnú súčinnosť tak, aby sa
+umožnilo čo najefektívnejšie vykonanie predmetu plnenia tejto zmluvy. V prípade
+neposkytnutia súčinnosti platí ako dohodnuté, že termíny plnenia predmetu zmluvy
+budú automaticky predĺžené o čas neposkytnutia súčinnosti;
+12.2.4. písomne oznámi poskytovateľovi mená pracovníkov poverených na nahlasovanie
+požiadaviek na technickú podporu, ich telefónne čísla, e-mail adresy do 5 dní po
+podpise tejto zmluvy a bezodkladne písomne informovať druhú zmluvnú stranu pri
+každej ich zmene;
+12.2.5. riadne a včas uhradí všetky faktúry poskytovateľa.
+12.3. Potvrdením vykonania Technickej podpory je Ticket v stave akceptovaný v HelpDesk-u.
+12.4. Poskytovateľ je plne zodpovedný za to, že trvalo vymenené zariadenie bude rovnakej alebo
+lepšej kvality a bude mať rovnaké alebo lepšie parametre ako malo pôvodné zariadenie. Pri
+trvalej výmene v rámci záruky nefunkčného zariadenia za funkčné zariadenie je objednávateľ
+povinný vrátiť poskytovateľovi nefunkčné zariadenie.
+12.5. V prípade, že porucha bola spôsobená neodborným zásahom, úmyselným poškodením, alebo
+ak zariadenia boli používané v prostredí prípadne spôsobom, ktorý nie je v zhode s
+podmienkami špecifikovanými výrobcom pre ich prevádzku resp. boli poškodené vplyvom
+prírodného živlu, spíše sa o tom záznam podpísaný oboma stranami. Oprava bude vykonaná na
+základe požiadavky objednávateľa na jeho náklady.
+12.6. Poskytovateľ nezodpovedá za akékoľvek oneskorené poskytnutie či neposkytnutie riešenia v
+rámci tejto zmluvy, ak toto bude zavinené okolnosťami vylučujúcimi zodpovednosť.
+12.7. Poskytovateľ sa zaväzuje oznámiť objednávateľovi vopred ak je to možné, inak najneskôr do 2
+pracovných dní od vzniku oznamovanej skutočnosti že:
+- nezaplatí DPH alebo jej časť súvisiacu s úhradou podľa tejto zmluvy,
+110-08/07/2018 (č. zmluvy)
+Strana 9/22
+
+SLA zmluva
+-
+
+-
+
+sa stal/stane neschopným zaplatiť akúkoľvek inú DPH alebo jej časť v zmysle
+zákona č. 222/2004 Z.z. o dani z pridanej hodnoty v platnom znení ( ďalej aj ako
+„zákon o DPH“),
+protihodnota za plnenie uvedená na faktúre je bez ekonomického opodstatnenia
+neprimerane vysoká alebo neprimerane nízka a/alebo,
+je zverejnený v zozname platiteľov dane z pridanej hodnoty, u ktorých nastali
+dôvody na zrušenie registrácie pre DPH vedenom na portáli Finančnej správy SR.
+
+12.8. Skutočnosti uvedené podľa predchádzajúceho bodu 12.7. je poskytovateľ povinný oznámiť
+objednávateľovi zároveň pri:
+-
+
+dodaní zákazky alebo jej časti, a/alebo,
+aj pri doručení faktúry /daňového dokladu na základe ktorého má byť zaplatená
+cena/odmena za dodaný predmet zmluvy.
+
+12.9. V prípade, ak:
+-
+
+poskytovateľ nedodrží svoj záväzok podľa bodu 12.7. zmluvy a/alebo,
+nastane akákoľvek skutočnosť, na základe ktorej vznikne objednávateľovi
+zákonné ručenie za poskytovateľa podľa zákona o DPH a /alebo,
+podľa zistenia objednávateľa je poskytovateľ zverejnený v zozname platiteľov
+dane z pridanej hodnoty, u ktorých nastali dôvody na zrušenie registrácie pre
+DPH vedenom na portáli Finančnej správy SR,
+
+objednávateľ:
+a) nie je povinný prevziať zákazku alebo jej časť podľa zmluvy, pričom sa zmluvné
+strany dohodli, že zo strany objednávateľa nedôjde k porušeniu zmluvy,
+nedostane sa do omeškania s plnením akejkoľvek povinnosti podľa tejto zmluvy
+a poskytovateľ nie je oprávnený uplatniť voči objednávateľovi žiadne zmluvné
+alebo zákonné sankcie a/alebo zodpovednosť za škodu a /alebo,
+b) je oprávnený od zmluvy odstúpiť s okamžitou účinnosťou a/alebo,
+c) nie je povinný zaplatiť vyhotovenú a/alebo doručenú faktúru podľa tejto zmluvy,
+pričom sa zmluvné strany dohodli, že zo strany objednávateľa nedôjde
+k porušeniu zmluvy, nedostane sa do omeškania s plnením akejkoľvek povinnosti
+podľa tejto zmluvy a poskytovateľ nie je oprávnený uplatniť voči objednávateľovi
+žiadne zmluvné alebo zákonné sankcie a/alebo zodpovednosť za škodu a/alebo,
+d) je oprávnený žiadať od poskytovateľa zaplatenie zmluvnej pokuty vo výške
+zodpovedajúcej výške odmeny dohodnutej podľa tejto zmluvy a/alebo,
+e) je oprávnený poukázať poskytovateľovi na účet iba dohodnutú cenu zmluvného
+plnenia bez DPH. V tomto prípade objednávateľ sumu zodpovedajúcu výške DPH
+z ceny zmluvného plnenia uvedenú na faktúre poukáže (i) v zákonom stanovenej
+lehote splatnosti dane alebo (ii) po lehote splatnosti dane, avšak pred tým ako je
+vydané rozhodnutie podľa § 69b zákona o DPH priamo na osobný daňový účet
+poskytovateľa vedený v Štátnej pokladnici zistený prostredníctvom portálu
+vedenom daňovou sekciou Finančného riaditeľstva SR. Objednávateľ platbu DPH
+na osobný daňový účet poskytovateľa označí náležitým spôsobom podľa
+všeobecne záväzného predpisu, oznámi správcovi dane číslo faktúry z ktorej DPH
+uhrádza a identifikačné číslo poskytovateľa. Pre vylúčenie pochybností úhradou
+dohodnutej ceny zmluvného plnenia bez DPH na účet poskytovateľa a sumy
+110-08/07/2018 (č. zmluvy)
+Strana 10/22
+
+SLA zmluva
+zodpovedajúcej výške DPH na osobný daňový účet poskytovateľa sa rozumie
+povinnosť objednávateľa zaplatiť poskytovateľovi fakturovanú cenu za splnenú.
+12.10. Objednávateľ je oprávnený na postup podľa predchádzajúceho bodu 12.9. aj vtedy, ak bol
+dôvod jeho uplatnenia dodatočne odstránený.
+
+12.11. Uplatnené zmluvné sankcie nemajú vplyv na povinnosť poskytovateľa vrátiť objednávateľovi
+to, čo objednávateľ plnil ako ručiteľ za Poskytovateľa podľa zákona o DPH.
+
+12.12. Poskytovateľ sa zaväzuje zaplatiť objednávateľovi v plnom rozsahu sumu, ktorú zaplatí
+objednávateľ ako ručiteľ na základe rozhodnutia daňového úradu podľa zákona o DPH (ďalej
+aj ako „nezaplatená daň“), v lehote 8 (ôsmich) dní od doručenia výzvy objednávateľa.
+
+12.13. V prípade, ak je poskytovateľ v omeškaní s vrátením nezaplatenej dane alebo jej časti
+objednávateľovi, zaväzuje sa zaplatiť objednávateľovi na základe jeho výzvy úrok
+z omeškania vo výške podľa platných právnych predpisov.
+12.14. Touto zmluvou udeľuje autor nadobúdateľovi súhlas na použitie softvéru (ďalej len "licencie").
+Spôsob použitia softvéru rozsah licencií, čas, na ktorý autor licencie udeľuje a odmenu za licencie
+dohodli nasledovne:
+Licencia je nevýhradná, udelená pre účely jej užívania objednávateľom ako bankou v zmysle
+bankového povolenia udeleného Národnou Bankou Slovenska a pre potreby vykonávania služieb pre
+klientov objednávateľa ako banky ale inak vo vecne neobmedzenom rozsahu a v územnom rozsahu
+pre územie Európy. Licencia je udelená na dobu neurčitú. Odmena za licenciu je dojednaná vo výške
+uvedenej v prílohe č. 4 tejto zmluvy.
+Na ostatné právne vzťahy týkajúce sa licencie, vrátane tých ktoré vznikli pred účinnosťou tejto zmluvy
+sa primerane vzťahujú príslušné ustanovenia Rámcovej zmluvy č. 110-02/04/2009 dojednanej medzi
+poskytovateľom ako Partnerom a objednávateľom ako ODBERATEĽOM (ak v tejto zmluve nie je
+dohodnuté niečo iné) s výnimkou tých ustanovení, ktoré môžu byť v rozpore so súčasne platným
+znením kogentných ustanovení zákona č. 185/2015 Z.z. autorského zákona (ďalej len „autorský
+zákon“).
+
+13. ZMLUVNÉ POKUTY
+13.1. V prípade nedodržania doby TTRep špecifikovanej v bode 5.2. a 6.3. tejto zmluvy, si
+objednávateľ môže uplatniť voči poskytovateľovi zmluvnú pokutu nasledovne:
+Dodržiavanie TTRep vyjadrené v % za mesiac
+
+95% a viac
+90% – 95%
+80% - 90%
+Menej ako 80%
+110-08/07/2018 (č. zmluvy)
+Strana 11/22
+
+Zmluvná pokuta vyjadrená % z ceny
+podľa čl. 11.1. pripadajúcej na daný
+mesiac
+0%
+30%
+50%
+70%
+
+SLA zmluva
+
+13.2. Dodržiavanie TTRep predstavuje pomer medzi počtom Incidentov vyriešených v požadovanom
+čase k celkovému počtu Incidentov.
+13.3. V prípade, že TTRep bolo nedodržané o násobok definovaného času v príslušnej Priorite, je pre
+potreby výpočtu zmluvných pokút počítaný ako nový nesplnený Ticket a počet týchto Ticketov
+sa rovná počtu násobkov definovaného času pre príslušnú Prioritu.
+13.4 V prípade omeškania Poskytovateľa s dodaním služieb alebo prác objednaných
+Objednávateľom na základe bodu 7.3 tejto zmluvy si Objednávateľ má právo uplatniť
+u Poskytovateľa zmluvnú pokutu vo výške 0.1 % z ceny riadne a včas nedodaných služieb, s
+ktorými je Poskytovateľ v omeškaní, a to za každý aj začatý deň omeškania. Poskytovateľ nie je
+v omeškaní v prípade, ak dodaniu služieb bránia prekážky na strane Objednávateľa. Lehota
+dodania objednaných služieb sa v takom prípade predlžuje o dobu trvania prekážok na strane
+Objednávateľa.
+13.5. V prípade omeškania s platbou si poskytovateľ môže uplatniť voči objednávateľovi úrok
+z omeškania vo výške 0,05% z fakturovanej čiastky za každý začatý deň omeškania. V prípade
+omeškania s platbou o viac ako 15 dní po splatnosti, si poskytovateľ vyhradzuje právo, riešiť
+všetky Incidenty podľa pravidiel pre najnižšiu Prioritu, t.j. Prioritu 4. a to až do doby vyrovnania
+si všetkých finančných záväzkov zo strany objednávateľa.
+13.6. Uhradením zmluvnej pokuty na základe tejto zmluvy nie je dotknutý nárok zmluvnej strany
+tejto zmluvy na náhradu škody, spôsobenej porušením povinnosti zabezpečenej zmluvnou
+pokutou.
+
+14. MLČANLIVOSŤ
+14.1. Obe zmluvné strany sa zaväzujú, že zachovajú mlčanlivosť o akýchkoľvek informáciách , o
+ktorých sa dozvedeli pri plnení povinností v súvislosti s touto zmluvou, a ktoré sú predmetom
+bankového tajomstva a/alebo predmetom ochrany osobných údajov a/alebo predmetom
+autorskoprávnej ochrany v zmysle autorského zákona autorský zákon (ďalej len „autorský zákon“)
+alebo ich objednávateľ označí ako dôverné z dôvodu zachovávania bezpečnosti informačných
+systémov objednávateľa (ďalej spolu aj ako „dôverné informácie“).
+
+14.2. Zmluvné strany tejto zmluvy sa dohodli, že dôverné informácie neposkytnú tretím osobám a prijmú také
+opatrenia, ktoré znemožnia ich prístupnosť tretím osobám. Ustanovenia predchádzajúcej vety sa
+nevzťahuje na poskytnutie dôverných informácií:
+a)
+
+ak má objednávateľ zákonom stanovenú povinnosť takú informáciu sprístupniť alebo zverejniť;
+
+b)
+
+pre účely akéhokoľvek súdneho, rozhodcovského, správneho alebo iného konania, ktorého je
+príslušná zmluvná strana tejto zmluvy účastníkom;
+
+c)
+
+odborným poradcom zmluvnej strany tejto zmluvy (vrátane právnych, účtovných, daňových a
+iných poradcov), ktorí sú buď viazaní všeobecnou profesionálnou povinnosťou mlčanlivosti alebo
+ak sa voči príslušnej zmluvnej strane zaviazali povinnosťou mlčanlivosti;
+
+d)
+
+sa také informácie stanú verejne známymi či dostupnými inak, ako porušením povinností
+zmluvných strán vyplývajúcich z tejto zmluvy.
+
+110-08/07/2018 (č. zmluvy)
+Strana 12/22
+
+SLA zmluva
+
+14.2. Obe zmluvné strany sú si vedomé následkov, ktoré by proti nim mohli byť uplatnené v dôsledku
+škôd alebo porušenia zákonných ustanovení, vzniknutých nedodržaním tejto mlčanlivosti. Táto
+mlčanlivosť sa dotýka všetkých zamestnancov zmluvných strán. Za výber takýchto osôb
+zodpovedajú obe zmluvné strany.
+14.3. Žiadne z informácií, ktoré získali zmluvné strany v súvislosti s plnením tejto zmluvy, nesmú
+sprístupniť tretím osobám, ani využiť na iný účel bez písomného súhlasu druhej strany.
+Rovnako nesmú pripustiť, aby sa tak stalo z ich nedbanlivosti, alebo inak.
+14.4 Poskytovateľ (ďalej aj „spoločnosť“):
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+potvrdzuje, že bol objednávateľom poučený
+ o ochrane údajov charakteru bankového tajomstva v zmysle zákona č. 483/2001 Z. z. o
+bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a
+ ako prevádzkovateľom informačných systémov o ochrane osobných údajov v zmysle
+zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých
+zákonov,
+ ako aj o právach a povinnostiach, či sankciách ustanovených vyššie uvedenými
+zákonmi,
+zaväzuje sa, že údaje charakteru bankového tajomstva a osobné údaje, ku ktorým majú,
+resp. by mohli mať prístup v rámci plnenia predmetu tejto zmluvy zamestnanci, či
+zástupcovia poskytovateľa (ďalej spolu aj ako „zamestnanci poskytovateľa“) nezneužije
+pre svoje potreby a bez súhlasu objednávateľa ich nezverejní a nikomu neposkytne, ani
+nesprístupní, bude ich chrániť pred odcudzením, stratou, poškodením, neoprávneným
+prístupom a zmenou,
+je si vedomý, že povinnosť mlčanlivosti fyzických osôb – zamestnancov poskytovateľa
+o dôverných informáciách a to najmä o bankovom tajomstve a o osobných údajoch, ku
+ktorým majú, resp. by mohli mať prístup v rámci plnenia predmetu tejto zmluvy trvá aj po
+ukončení zmluvného vzťahu z tejto zmluvy,
+je povinný poučiť o povinnostiach, s ktorými bola oboznámený, najmä však o povinnosti
+mlčanlivosti všetkých zamestnancov poskytovateľa, prípadne aj ďalšie osoby, ktoré sa
+podieľajú na realizácii činností v zmysle tejto zmluvy,
+berie na vedomie, že za porušenie povinnosti mlčanlivosti fyzických osôb si objednávateľ
+môže nárokovať úhradu vzniknutej škody v zmysle dohôd dojednaných v tejto zmluve.
+
+V prípade osobných údajov Úrad na ochranu osobných údajov Slovenskej republiky môže
+danej osobe uložiť pokutu podľa zákona č. 18/2018 Z.z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov.
+Týmto nie je vylúčená prípadná trestnoprávna zodpovednosť, ak konanie bude napĺňať
+skutkovú podstatu trestného činu podľa ustanovení Trestného zákona.
+Článok [15]
+Ochrana osobných údajov
+1. Objednávateľ ako prevádzkovateľ touto zmluvou poveruje Poskytovateľa ako sprostredkovateľa
+na spracovanie osobných údajov v mene prevádzkovateľa podľa článku 28 odsek 3 nariadenia
+Európskeho parlamentu a Rady EÚ č. 2016/679 o ochrane fyzických osôb pri spracúvaní osobných
+110-08/07/2018 (č. zmluvy)
+Strana 13/22
+
+SLA zmluva
+údajov a o voľnom pohybe takýchto údajov (ďalej len „nariadenie“) a zákona č. 18/2018 Z.z.
+o ochrane osobných údajov (ďalej len „zákon o ochrane osobných údajov“).
+
+2. Sprostredkovateľ čestne vyhlasuje, že je spôsobilý odborne, technicky, organizačne a personálne
+zaručiť bezpečnosť spracúvaných osobných údajov opatreniami podľa nariadenia a zákona
+o ochrane osobných údajov a že bude dodržiavať povinnosti stanovené nariadením a zákonom
+o ochrane osobných údajov a touto zmluvou pri spracúvaní osobných údajov.
+
+3. Pre overenie súladu spracúvania s nariadením a zákonom o ochrane osobných údajov je
+sprostredkovateľ povinný poskytnúť prevádzkovateľovi všetky informácie potrebné na
+preukázanie splnenia povinnos stanovených v tomto článku a umožniť audity, ako aj kontroly
+vykonávané prevádzkovateľom alebo iným audítorom, ktorého poveril prevádzkovateľ, a
+prispievať k nim.
+
+4. Sprostredkovateľ je oprávnený spracúvať osobné údaje len na základe stanoveného predmetu,
+doby, povahy, účelu a typu osobných údajov a kategórie dotknutých osôb a povinností a práv
+prevádzkovateľa, ktoré stanovuje prevádzkovateľ podľa tohto poverenia.
+
+5. Sprostredkovateľ môže zapojiť ďalšieho sprostredkovateľa iba na základe predchádzajúceho
+písomného povolenia prevádzkovateľa. V prípade udelenia písomného povolenia sprostredkovateľ
+má povinnosť bez zbytočného odkladu informovať prevádzkovateľa o akýchkoľvek zamýšľaných
+zmenách v súvislosti s pridaním alebo nahradením ďalších sprostredkovateľov, čím sa
+prevádzkovateľovi dá možnosť namietať voči takýmto zmenám. Zapojenie ďalšieho
+sprostredkovateľa je možné iba po písomnom odsúhlasení prevádzkovateľom.
+
+6. Sprostredkovateľ je povinný:
+a. spracúvať osobné údaje v súlade s dobrými mravmi a len spôsobom a v medziach
+nariadenia a zákona o ochrane osobných údajov a v súlade s pokynmi
+prevádzkovateľa, tak aby nedošlo k porušeniu základných práv a slobôd dotknutých
+osôb,
+b. pri prvom kontakte s dotknutou osobou jej oznámiť, že spracúva jej osobné údaje
+v mene prevádzkovateľa, v rozsahu a na účel podľa tohto poverenia,
+c. pokiaľ je oprávnený získavať osobné údaje na základe tohto poverenia, získavať
+osobné údaje výlučne na účel a v rozsahu tohto poverenia a zabezpečiť spracúvanie
+len takých osobných údajov, ktoré svojím rozsahom a obsahom zodpovedajú účelu
+ich spracúvania a sú nevyhnutné pre jeho dosiahnutie,
+d. zabezpečiť spracúvanie osobných údajov a ich využívanie výlučne spôsobom, ktorý
+zodpovedá účelu, na ktorý boli osobné údaje zhromaždené,
+
+110-08/07/2018 (č. zmluvy)
+Strana 14/22
+
+SLA zmluva
+e. spracúvať len správne, úplné a podľa potreby aktualizované osobné údaje vo vzťahu
+k účelu spracúvania,
+f.
+
+zabezpečiť spracúvanie zhromaždených osobných údajov vo forme umožňujúcej
+identifikáciu dotknutých osôb len počas doby nie dlhšej ako je nevyhnutné
+na dosiahnutie účelu spracúvania,
+
+g. zlikvidovať tie osobné údaje, ktorých účel spracúvania sa skončil, ak má povolenie
+osobné údaje likvidovať podľa tohto poverenia,
+h. pomáhať prevádzkovateľovi vhodnými technickými a organizačnými opatreniami
+pri plnení jeho povinnosti reagovať na žiados o výkon práv dotknutej osoby,
+i.
+
+pomáhať prevádzkovateľovi zabezpečiť plnenie povinností podľa článkov 32 až 36
+nariadenia s prihliadnutím na povahu spracúvania a informácie dostupné
+sprostredkovateľovi.
+
+7. Sprostredkovateľ je povinný evidovať všetky bezpečnostné incidenty týkajúce sa osobných
+údajov a oznamovať prevádzkovateľovi porušenia ochrany osobných údajov bez zbytočného
+odkladu po tom ako sa o nich dozvedel.
+
+8. Sprostredkovateľ je povinný zabezpečiť, aby fyzické osoby, ktoré konajú v jeho mene
+na základe tohto poverenia a majú prístup k osobným údajom, spracúvali tieto údaje len
+na základe pokynov uvedených v tomto poverení a pokynov sprostredkovateľa.
+
+9. Sprostredkovateľ je povinný zaviazať mlčanlivosťou oprávnené osoby (zamestnancov)
+o osobných údajoch, ktoré sa dozvedeli pri spracúvaní podľa tohto poverenia. Povinnosť
+zachovávať mlčanlivosť trvá aj po ukončení spracúvania osobných údajov.
+
+10. Sprostredkovateľ je povinný v prípade zistenia zjavného porušenia nariadenia alebo zákona
+o ochrane osobných údajov prevádzkovateľom pri spracúvaní osobných údajov bezodkladne
+písomne upozorniť prevádzkovateľa o tomto porušení.
+
+11. Sprostredkovateľ je povinný vymazať alebo vrátiť prevádzkovateľovi všetky osobné údaje a
+existujúce kópie po ukončení poskytovania služieb týkajúcich sa spracúvania na základe
+rozhodnutia prevádzkovateľa.
+
+12. Sprostredkovateľ je povinný prijať primerané technické a organizačné opatrenia tak, aby
+spracúvanie spĺňalo požiadavky Článku 32 nariadenia a § 39 zákona o ochrane osobných
+údajov, tak aby sa zabezpečila ochrana práv dotknutej osoby.
+
+110-08/07/2018 (č. zmluvy)
+Strana 15/22
+
+SLA zmluva
+13. Prevádzkovateľ určuje základné podmienky spracúvania nasledovne:
+
+Predmet spracúvania:
+
+poskytovanie servisných služieb podľa Článku 3 tejto Zmluvy
+
+Doba spracúvania:
+
+po dobu platnosti zmluvy
+
+Povaha spracúvania:
+
+automatizované spracúvanie
+
+Účel spracúvania:
+
+poskytovanie servisných služieb a technickej podpory na programové
+vybavenie, prostredníctvom ktorého sa spracúvajú osobné údaje
+
+Kategórie osobných údajov: bežné osobné údaje v rozsahu, v akom sa nachádzajú v databázach
+Kategórie dotknutých osôb: klienti prevádzkovateľa
+
+15. UKONČENIE ZMLUVY
+15.1. Zmluva je uzavretá na dobu 24 mesiacov odo dňa jej účinnosti. Zmluvné strany tejto zmluvy sú
+oprávnené túto zmluvu vypovedať bez uvedenia dôvodu pričom výpovedná lehota je 90 dní
+ktorá začína plynúť doručením výpovede druhej zmluvnej strane tejto zmluvy.
+15.2. Zmluvné strany môžu od tejto zmluvy odstúpiť s okamžitou účinnosťou okamihom doručenia
+odstúpenia od tejto zmluvy jeho adresátovi (druhej zmluvnej strane tejto zmluvy)pri
+podstatnom porušení záväzkov vyplývajúcich zo zmluvy druhou zmluvnou stranou ako aj v
+súlade s § 536 a nasl. Obchodného zákonníka č. 513/1991 Zb. Za podstatné porušenie
+povinností podľa tejto zmluvy zo strany objednávateľa sa považuje aj omeškanie so zaplatením
+splatnej faktúry o viac ako 30 dní ako aj porušenie povinnosti poskytovateľa zachovávať
+mlčanlivosť o dôverných informáciách najmä o informáciách ktoré sú predmetom bankového
+tajomstva a/alebo ochrany osobných údajov klientov objednávateľa, ktorý je bankou.
+
+16. ZÁVEREČNÉ USTANOVENIA
+16.1. Táto zmluva nadobúda platnosť dňom jej podpísania oboma zmluvnými stranami a účinnosť
+dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády
+Slovenskej republiky. Zmluvné strany sa ďalej dohodli, že zverejnenie zmluvy zabezpečí
+objednávateľ bezodkladne, najneskôr do 5 pracovných dní od jej podpísania oboma zmluvnými
+stranami. Poskytovateľ súhlasí so zverejnením zmluvy v celom jej znení vrátane jej prípadných
+príloh v zmysle zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a
+doplnení niektorých zákonov v znení neskorších právnych predpisov (ďalej aj ako „zákon“),
+pričom vyhlasuje, že zmluva neobsahuje informácie, ktoré by nebolo možné zverejniť resp.
+sprístupniť v zmysle zákona a to najmä obchodné tajomstvo, bankové tajomstvo, daňové
+tajomstvo a pod. a v prípade, že také informácie obsahuje dáva objednávateľovi súhlas tieto
+informácie v zmysle zákona zverejniť resp. sprístupniť. V prípade, ak zmluvné strany
+nezverejnia túto zmluvu v zmysle zákona a v zmysle § 47a Občianskeho zákonníka v lehote
+troch mesiacov odo dňa uzatvorenia tejto zmluvy platí, že k uzatvoreniu tejto zmluvy nedošlo a
+zmluvné strany nie sú touto zmluvou viazané.
+16.2. Vzťahy medzi objednávateľom a poskytovateľom neupravené touto zmluvou sa riadia
+príslušnými právnymi predpismi platnými v Slovenskej republike najmä ustanoveniami
+110-08/07/2018 (č. zmluvy)
+Strana 16/22
+
+SLA zmluva
+Obchodného zákonníka a súvisiacich právnych predpisov. Pre posudzovanie záväzkových
+vzťahov vyplývajúcich z tejto zmluvy je rozhodné právo slovenské.
+16.3. Účastníci tejto zmluvy sa zaväzujú v prípade, že medzi nimi vznikne spor vyplývajúci z tejto
+zmluvy riešiť tento prednostne vzájomnou dohodou. V prípade, že spor nebude možné riešiť
+dohodou obrátia sa na príslušný súd.
+16.4. Rozsah a technický obsah predmetu zmluvy (doplnenie alebo vyradenie zariadení uvedených v
+Prílohe č.1, alebo služieb uvedených v Prílohe č.2) a s tým súvisiaca úprava ceny predmetu
+zmluvy môže byť oproti pôvodnému zneniu zmenený len formou písomného dodatku k tejto
+zmluve, obidvomi stranami podpísaného. To isté platí o akýchkoľvek zmenách alebo
+dodatkoch, týkajúcich sa tejto zmluvy.
+16.5. Kontaktné osoby:
+Za poskytovateľa:
+Aleš Remenár
+sales@digitalsystems.eu
+
+Za objednávateľa:
+Ján Homoljak
+
+16.6. Zmluva je vyhotovená v dvoch rovnopisoch, z ktorých objednávateľ a poskytovateľ obdržia po
+jednom rovnopise.
+Príloha č.1: Zoznam podporovaných zariadení a software
+Príloha č.2: Katalóg služieb
+Príloha č.3: Tabuľka výpočtu priority
+Príloha č.4: Licencie modulov DS Middleware
+
+17. PODPISY ZMLUVNÝCH STRÁN
+Poskytovateľ:
+Digital Systems a.s.
+
+Objednávateľ:
+Slovenská záručná a rozvojová banka, a.s.
+
+V Bratislave dňa ................
+
+V Bratislave dňa .............
+
+Podpis: ___________________________________Podpis: ___________________________________
+Ing. Radoslav Hromý
+
+Meno:
+
+Ing. Peter Ševčovic
+
+Meno:
+Funkcia:
+
+člen predstavenstva
+
+Funkcia:
+
+podpredseda predstavenstva
+
+Podpis: ___________________________________Podpis: ___________________________________
+Meno:
+Funkcia:
+
+Bc. Peter Haško
+predseda predstavenstva
+
+110-08/07/2018 (č. zmluvy)
+Strana 17/22
+
+Meno:
+
+Ing. Zoltán Gyurász
+
+Funkcia:
+
+člen predstavenstva
+
+SLA zmluva
+
+PRÍLOHA Č.1: ZOZNAM PODPOROVANÝCH ZARIADENÍ A SOFTWARE
+Softwarová aplikácia DS Middleware - pre účely užívateľského testovania bola
+nainštalovaná na testovací server SZRB v roku 2009
+Softwarová aplikácia DS Middleware - AML
+Testovacia verzia aplikácie DS Middleware - AML pre účely užívateľského testovania bola
+nainštalovaná na testovací server SZRB dňa 14.06.2016, vo verzii 1.4.13.
+Softwarová aplikácia DS Middleware - EXEC
+Testovacia verzia aplikácie DS Middleware - EXEC pre účely užívateľského testovania bola
+nainštalovaná na testovací server SZRB dňa 29.07.2016, vo verzii 1.4.15.4
+Softwarová aplikácia DS Middleware - SEPA Pred/Post processing
+Testovacia verzia aplikácie SEPA Pred/Post processing pre účely užívateľského testovania
+bola nainštalovaná na testovací server SZRB dňa 25.08.2014, vo verzii 1.17.1.0.
+
+110-08/07/2018 (č. zmluvy)
+Strana 18/22
+
+SLA zmluva
+
+PRÍLOHA Č.2: KATALÓG SLUŽIEB
+Tento Katalóg služieb popisuje služby poskytované v zmysle SERVISNEJ ZMLUVY O
+POSKYTOVANÍ SLUŽIEB (SLA zmluva) č. 110-08/07/2018, ktorej je tento katalóg služieb prílohou (ďalej
+len „zmluva“).
+.
+Katalóg obsahuje:
+Názov služby
+Popis služby
+Dostupnosť služby
+
+Názov služby : Administrácia supportu
+Popis služby
+S podpísaním zmluvy je objednávateľovi pridelený HDM (Help Desk Manager) ako primárny
+kontakt, zodpovedný za dodávku služieb podľa tohto Katalógu a administráciu celého
+supportu.
+Na začiatku zmluvného vzťahu je HDM zodpovedný za definovanie primárnych a
+sekundárnych kontaktov, nastavenie komunikačných tokov, vytvorenie zákazníckych
+prístupov k Help Desk, zabezpečenie prístupových hesiel, naplnenie konfiguračnej databázy,
+zabezpečenie dokumentácie a pod.
+Počas trvania zmluvy HDM zabezpečuje:
+ Sledovanie zmien a pravidelnú aktualizáciu vyššie uvedených údajov a dokumentov.
+ Podporu Incident a Problem manažmentu, manažment náhradných dielov a
+komunikáciu s výrobcami pri uplatňovaní záručných podmienok a eskaláciách
+Taskov.
+ Podporu Change Manažmentu.
+ Sledovanie plnenia zmluvy a pravidelné reporty o incidentoch.
+ Pravidelné review s poverenými zástupcami objednávateľa.
+ Riešenie eskalácií.
+
+Dostupnosť – v pracovnej dobe
+
+Názov služby : Help Desk
+Help Desk zabezpečuje vytváranie a evidenciu všetkých hlásených Ticketov a sledovanie ich
+životného cyklu. Za týmto účelom získava objednávateľ prístup na aplikáciu Help Desk.
+Help Desk zároveň zabezpečuje prvú supportnú líniu (preverenie dostupnosti liniek, riešenie
+jednoduchších úloh na základe postupov z vopred spracovanej dokumentácie a pod.) a
+prideľuje riešiteľa z druhej a tretej línie systémových inžinierov. Help Desk zabezpečuje aj
+generovanie pravidelných Taskov. Úlohou Help Desku je v tomto prípade aj vytváranie
+Taskov, vzniknutých z monitoringu.
+
+Názov služby : Incident a Problém manažment
+Popis služby
+110-08/07/2018 (č. zmluvy)
+Strana 19/22
+
+SLA zmluva
+Predmetom služby je poskytovanie Incident a Problém manažmentu tak ako je popísaný v
+článkoch 5. a 6. zmluvy pre zariadenia a systémy uvedené v Prílohe č.1 zmluvy.
+Súčasťou služby je aj riešenie Problémov eskaláciou ku výrobcovi – (prístup na technickú
+Podporu)
+V paušálnom poplatku podľa článku 11. zmluvy sú zahrnuté predplatené hodiny. Pre incident
+a Problem manažment Faktúry za realizované výkony budú vystavované podľa článku 11.
+zmluvy.
+
+Dostupnosť – podľa zvoleného programu v článku 4.1 zmluvy
+
+Názov služby : Change manažment
+Popis služby
+Predmetom služby je poskytovanie všetkých zmien (doplnenie, zmena konfigurácie,
+upgrade, funkčný upgrade na základe požiadaviek objednávateľa.) vzťahujúcich sa k
+supportovanej technológii.
+Zmenou v zmysle Change manažmentu tejto zmluvy je zavádzanie novej služby/systému a
+prebudovanie, prípadne zásah do existujúcej služby/systému, jeho upgrade, funkčný
+upgrade na základe požiadaviek objednávateľa. Zmeny budú realizované na požiadanie
+objednávateľa. Požiadavka bude zaevidovaná ako Ticket Change a realizovaná podľa
+aktuálneho procesu pre Change manažment. Poskytovateľ si vyhradzuje právo posúdiť
+navrhovanú zmenu a v odôvodnených prípadoch ju odmietnuť. (Odôvodneným prípadom sa
+rozumie napríklad to, že realizácia zmeny by mala negatívny vplyv na doterajšiu
+funkcionalitu, prípadne stabilitu služby/systému, nereálnosť termínu dodania zmeny
+v dôsledku jeho rozsahu a požiadavky na termín dodania zmeny.).
+Potvrdením rozsahu a realizácie zmeny zo strany objednávateľa je Ticket/objednávka v
+stave akceptovaný v Help Desku. Špecifickým druhom tejto služby sú telefonické a email
+konzultácie. Na konzultácie sa nevzťahuje schvaľovací proces, je možné ich podľa
+rovnakých pravidiel ako Change a pri prečerpaní sú aj rovnakým spôsobom spoplatňované.
+V paušálnom poplatku podľa článku 11. zmluvy sú zahrnuté predplatené hodiny. Pre Change
+manažment Faktúry za realizované výkony budú vystavované podľa článku 11 zmluvy.
+
+Dostupnosť – podľa zvoleného programu v článku 4.1 zmluvy
+
+110-08/07/2018 (č. zmluvy)
+Strana 20/22
+
+SLA zmluva
+
+PRÍLOHA Č.3: TABUĽKA VÝPOČTU PRIORITY
+
+D
+o
+p
+a
+d
+
+Impact/Dopad - Určuje poskytovateľ SLA
+
+Pri
+určovaní
+Naliehavosť
+priority
+sa
+používajú dopad a
+Urgency/Naliehavosť
+Určuje
+naliehavosť.
+Critical - High - Medium - Low - Planning
+
+zákazník
+
+P1: CRITICAL priorita je
+spravidla, ak je situácia
+veľmi
+naliehavá
+a
+prevádzkové
+problémy
+znemožňujú používanie IS.
+
+
+P2: HIGH je priorita pokiaľ
+je
+používanie
+IS
+obmedzujúce pre skupinu
+užívateľov a spôsobujúce
+významné problémy pri
+používaní, avšak problémy
+sú prekonateľné dočasným
+náhradným postupom. 
+
+P3: MEDIUM priorita je
+v prípade že sa jedná o
+dopad na malý počet
+užívateľov a/alebo, problémy
+ktoré komplikujú postupy pri
+práci
+v
+rámci
+IS.
+alebo
+
+P2: HIGH je priorita pokiaľ
+je
+používanie
+IS
+obmedzujúce pre skupinu
+užívateľov a spôsobujúce
+významné problémy pri
+používaní, avšak problémy
+sú prekonateľné dočasným
+náhradným postupom. 
+
+P3: MEDIUM priorita je
+v prípade že sa jedná o
+dopad na malý počet
+užívateľov
+a/alebo,
+problémy ktoré komplikujú
+postupy pri práci v rámci IS.
+alebo
+
+P4: LOW/PLANNING priorita
+je s dopadom na malý počet
+užívateľov, (spravidla jeden)
+– a s nízkou dôležitosťou.
+Takéto problémy sú riešené z
+obidvoch
+strán
+počas
+pracovnej doby 
+
+P3: MEDIUM priorita je
+v prípade že sa jedná o
+dopad na malý počet
+užívateľov
+a/alebo,
+problémy ktoré komplikujú
+postupy pri práci v rámci
+IS. alebo
+
+P4:
+LOW/PLANNING
+priorita je s dopadom na
+malý počet užívateľov,
+(spravidla jeden) – a s
+nízkou dôležitosťou. Takéto
+problémy sú riešené z
+obidvoch
+strán
+počas
+pracovnej doby 
+
+P4: LOW/PLANNING priorita
+je s dopadom na malý počet
+užívateľov, (spravidla jeden)
+– a s nízkou dôležitosťou.
+Takéto problémy sú riešené z
+obidvoch
+strán
+počas
+pracovnej doby 
+
+* Požadovaný spôsob nahlásenia,  telefonicky,  emailom alebo cez apl. HelpDESK
+
+110-08/07/2018 (č. zmluvy)
+Strana 21/22
+
+SLA zmluva
+
+PRÍLOHA Č.4: LICENCIE CERTIFIKOVANÝCH MODULOV DS MIDDLEWARE SWIFT CSP 2017
+Licencia je pre jeden SWIFT BIC
+Názov modulu DS Middleware
+
+Cena licencie za modul bez DPH
+
+modul DS Middleware MBP
+
+25 100,-
+
+modul DS Middleware CEPAO
+
+31 500,-
+
+modul DS Middleware ED
+
+40 000,-
+
+modul DS Middleware Autorization
+
+25 000,-
+
+modul DS Middleware Registry
+
+25 000,-
+
+modul DS Middleware AUDIT
+
+15 000,-
+
+modul DS Middleware Statutary
+
+20 500,-
+
+modul DS Middleware Task
+
+22 300,-
+
+modul DS Middleware Meetings
+
+21 100,-
+
+modul DS Middleware Org
+
+28 000,-
+
+modul DS Middleware Archive
+
+33 000,-
+
+modul DS Middleware ALM
+
+72 000,-
+
+modul DS Middleware AML
+
+75 000,-
+
+modul DS Middleware Sepa Gateway
+
+30 000,-
+
+110-08/07/2018 (č. zmluvy)
+Strana 22/22
+
+

@@ -1,0 +1,528 @@
+Kúpna zmluva č. Z201759716_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Úrad geodézie, kartografie a katastra Slovenskej republiky
+Chlumeckého č. 2, 82012 Bratislava , Slovenská republika
+00166260
+2020830240
+SK 2020830240
+SK40 8180 0000 0070 0006 3046
+02220816063
+
+Dodávateľ:
+Obchodné meno:
+
+InterWay, a. s.
+
+Sídlo:
+
+Stará Vajnorská 21, 83104 Bratislava, Slovenská republika
+
+IČO:
+
+35728531
+
+DIČ:
+
+2020268294
+
+IČ DPH:
+
+SK2020268294
+
+Číslo účtu:
+
+SK2302000000002075291059
+
+Telefón:
+
++421232788851
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Aplikačné dátové úložisko
+
+Kľúčové slová:
+
+diskové pole
+
+CPV:
+
+30233130-1 - Pamäťové jednotky s magnetickým diskom; 60000000-8 - Dopravné služby
+(bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Aplikačné dátové úložisko
+
+Funkcia
+Obstarávateľ požaduje doplnenie aplikačného dátového úložiska (diskové pole) pripojiteľného k existujúcej ICT infraštruktúre.
+Diskové pole musí umožňovať aplikačnú integráciu, dlhodobé odkladanie dát ako aj garanciu nezameniteľnosti uložených dát.
+Detailne popísané požiadavky sú v časti Technická špecifikácia.
+Objednávateľ požaduje funkčný celok – 1ks Diskové úložisko vrátane inštalácie a implementácie do ICT prostredia
+Objednávateľa podľa tejto špecifikácie:
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Prevedenie
+
+"rack mount" s výškou základného zariadenia 2U s možnosťou
+využitia až 24 pevných diskov o veľkosti 2,5" v základnom
+zariadení.
+
+Prevedenie
+
+Rozširujúce police alebo celé výpočtové diskové uzly v prevedení
+rack-mount s výškou max. 2U pre 2,5“ disky a do 4U pre 3,5“
+disky.
+
+Podpora pevných diskov
+
+2/3/4/6TB NL-SAS 7.2k FDE/non-FDE, 600/900GB, 1.2/1.8TB SAS
+10K FDE/non-FDE, 400/800/960/1600/3840GB SSD
+FDE/non-FDE (FDE - kryptovanie na úrovni jednotlivých diskov)
+
+Strana 1 z 5
+
+Minimum
+
+Maximum
+
+Presne
+
+Podpora pevných diskov
+
+Všetky typu hot-swap, vymeniteľné za prevádzky bez nutnosti
+odstávky
+
+Podpora pevných diskov
+
+Rozšíriteľnosť formou vysoko-dostupného zdvojeného pripojenia
+diskových políc alebo celých diskových uzlov na minimálne 140
+diskov prostredníctvom min. 12Gb SAS alebo 10GbE
+
+Požadovaná konfigurácia diskov
+
+Min. 12x 960GB SSD, 36x 1,2TB 10k SAS, 24x 4TB 7.2k NL-SAS,
+možnosť konfigurácie SSD diskov ako cache/tier pre Read/Write
+operácie
+
+Podpora kontrolerov a vysokej dostupnosti
+
+Minimálne 2 ks kontrolerov osadené v základnom zariadení, v
+zapojení High Availability, Active-Active vzájomne zastupiteľné, „no
+SPOF“
+
+Podpora kontrolerov a vysokej dostupnosti
+
+vymeniteľné v prípade poruchy počas prevádzky zariadenia bez
+prerušenia dostupnosti k dátam
+
+Podpora kontrolerov a vysokej dostupnosti
+
+Výpočtová kapacita dostačujúca na maximálne osadenie diskami,
+min. 64GB RAM cache z toho min. 8GB NVRAM zálohovaná v
+prípade výpadku napájania.
+
+Podpora kontrolerov a vysokej dostupnosti
+
+Podpora redundancie diskov – minimálne proti výpadku 3 diskov
+súčasne, automatické nahradenie hot-spare diskom pri poruche
+disku
+
+Požadovaný počet kontrolerov
+
+Min. 2ks kontrolerov. Súčasťou musí byť všetka zodpovedajúca
+kabeláž na vzájomné pripojenie aj pripojenie do okolitej ICT
+infraštruktúry Objednávateľa.
+
+Konektivita
+
+Pre každý kontroler min. 2x 10Gb SFP+, min. 4x univerzálny port
+10GbE/16GbFC, min. 2x 12Gb SAS.
+
+Konektivita
+
+Súčasťou musí byť všetka zodpovedajúca kabeláž – pre interné
+prepojenie v dostatočnej dĺžke, pre pripojenie k ICT infraštruktúre
+Objednávateľa min. v dĺžke 10m
+
+Požadované protokoly
+
+Možnosť pripojenia k ICT Objednávateľa prostredníctvom 10GbE a
+1GbE siete protokolmi CIFS, NFS, iSCSI a 16Gb Fiber Channel
+cez FCP
+
+Požadované protokoly
+
+možnosť výberu protokolov pre každý dátový zväzok zvlášť a
+prevádzka rôznych protokolov súčasne
+
+Požadované protokoly
+
+Všetky vyššie uvedené pripojenia musia byť súčasťou kontrolera v
+základnom zariadení.
+
+Podporované operačné systémy
+
+Windows Server 2008, Windows Server 2012, Windows Server
+2016, Linux®, Oracle® Solaris, AIX, HP-UX, Mac® OS, VMware®,
+ESX a štandardne podporované desktopové OS pre protokoly NFS
+a CIFS
+
+Požadované vlastnosti softvérovej výbavy
+
+Aplikačne konzistentné snapshoty (zaznamenávanie obrazu
+dátového zväzku v čase) a klony (kópie dátových zväzkov), ktoré
+môžu byť ďalej prezentované aj iným ako zdrojovým aplikačným
+serverom.
+
+Požadované vlastnosti softvérovej výbavy
+
+Snapshoty aj klony nesmú mať dopad na výkon aplikačného
+dátového úložiska, musí byť možné robiť snapshoty každú hodinu
+počas 24 hodín ukladať snapshoty minimálne 10 dní.
+
+Požadované vlastnosti softvérovej výbavy - Aplikačná
+konzistencia je požadovaná minimálne pre:
+
+MS Windows Sever od verzie 2008, VMware vSphere/vCenter od
+verzie 5.5, Microsoft SQL od verzie 2005, Oracle DB/Enterprise
+Manager a súborové systémy CIFS a NFS.
+
+Požadované vlastnosti softvérovej výbavy - Ochrana
+proti prepísaniu súborov
+
+zabezpečenie nepozmeniteľnosti uložených súborov počas
+definovanej časovej periódy.
+
+Požadované vlastnosti softvérovej výbavy - Ochrana
+proti prepísaniu súborov
+
+Dátové úložisko musí poskytovať nepozmeniteľný zdroj času a pre
+takto uložené súbory zabezpečiť, že zdrojový súbor nebude
+pozmenený na bitovej úrovni pred uplynutím doby, na ktorú bol
+uložený (WORM)
+
+Požadované vlastnosti softvérovej výbavy
+
+možnosť synchrónnej, asynchrónnej a semisynchrónnjej replikácie
+do DR lokality Objednávateľa,
+
+Požadované vlastnosti softvérovej výbavy
+
+autonómna replikácia diskovým poľom, bez nutnosti použitia
+externého replikačného servera, replikácia minimálne IP
+protokolom,
+
+Požadované vlastnosti softvérovej výbavy
+
+Thin Provisioning
+
+Strana 2 z 5
+
+Požadované vlastnosti softvérovej výbavy
+
+Efektivita ukladania na blokovej úrovni – možnosť konfigurácie
+deduplikácie/kompresie je požadovaná minimálne v
+post-procesingu, pokiaľ nebude in-line
+
+Požadované vlastnosti softvérovej výbavy
+
+Všetky vlastnosti musia byť zalicencované na neobmedzenú
+kapacitu, aby Obstarávateľ nemal pri prípadnom rozšírení
+nepredvídateľné náklady
+
+Požadované vlastnosti softvérovej výbavy
+
+Súlad s nariadením EÚ o ochrane fyzických osôb a ich osobných
+údajov
+
+Napájanie
+
+230V, zdroje napájania - redundantné, no SPOF, vymeniteľné v
+prípade poruchy počas prevádzky zariadenia. Napájacia kabeláž
+musí byť súčasťou dodávky, konektory typu C13-C14 pre
+pripojenie do rack PDU
+
+Monitoring a hlásenia
+
+Musí umožňovať automatické zasielanie statusu a logov diskového
+poľa priamo na support výrobcu so štatistickými informáciami o
+využití a to formou SMTP alebo HTTPS.
+
+Monitoring a hlásenia
+
+Portál výrobcu musí poskytovať on-line web prehľad o stave
+diskového poľa, prehľad logov s upozorneniami aktualizovaný
+minimálne 1x týždenne.
+
+Monitoring a hlásenia
+
+Automatická notifikácia prostredníctvom SNMP, SMTP v prípade
+poruchy akéhokoľvek komponentu na diskovom poli,
+
+Monitoring a hlásenia
+
+konfigurovateľné zasielanie notifikácií na support výrobcu a
+lokálnemu poskytovateľovi podpory (záruky) na dodaného
+zariadenia.
+
+Monitoring a hlásenia
+
+Musí poskytovať nástroj na vyhodnotenie prevádzky (výkonu a
+kapacity) v reálnom čase aj vyhodnotenie historických údajov s
+min. uchovávaním na obdobie 1 roka.
+
+Monitoring a hlásenia
+
+Tieto nástroje musia byť súčasťou riešenia Dodávateľa. Rozhranie
+poskytujúce pripojenie pre SIEM systémy.
+
+Záruka a servis
+
+Záručná doba min. 36 mesiacov, možnosť prijatia servisnej
+požiadavky 24x7, reakcia do 4 hodín, doručenie náhradného dielu
+najneskôr nasledujúci pracovný deň od identifikácie poruchy.
+
+Záruka a servis
+
+Na prijímanie servisných požiadaviek musí dodávateľ disponovať
+vlastným systémom na nahlasovanie požiadaviek a porúch v
+režime 24x7 a to minimálne telefonicky alebo e-mailom.
+
+Pripojenie k sieti
+
+Doplnenie SFP+ do existujúcej ICT infraštruktúry
+Objednávateľa:8ks 10GBASE-SR SFP+ Transceiver Module,
+850nm, 300m4ks Fiber kábel LC-LC,10m Duplex OM4 (50/125µm)
+
+Kvalita dodávky
+
+Objednávateľ požaduje dodávku výlučne nových nepoužívaných
+zariadení, nebude akceptovať používané alebo repasované
+zariadenia
+
+Dokumentácia
+
+Súčasťou dokumentácie k dielu je aj jeho architektonické
+zakreslenie v infraštruktúre objednávateľy v modelovacom jazyku
+Archimate min. 2.0, pričom výstupný model musí byť v súlade s
+požiadavkami META
+
+Dokumentácia
+
+IS (viď https://metais.finance.gov.sk/) vyžadovanými Úradom
+podpredsedu vlády SR pre investície a informatizáciu
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Dodávateľ vykoná všetky analýzy a úkony nevyhnutné pre úspešnú implementáciu dodaných zariadení do produkčného
+prostredia vrátane dopravy inštalácie a konfigurácie na mieste plnenia a to najmä:- analýza požiadaviek na pripojenie a
+konfiguráciu,- Kontrola matíc kompatibility,- Aktualizácia potrebných firmvérov,- Pripojenie do okolitej ICT, konfigurácia
+parametrov na základe analýzy,- Inštalácia potrebných komponentov pre úspešné nasadenie do produkčného prostredia,Sledovanie systému v pilotnej prevádzke a ladenie výkonu,
+Dodávateľ vykoná všetky analýzy a úkony nevyhnutné pre úspešnú implementáciu dodaných zariadení do produkčného
+prostredia vrátane dopravy inštalácie a konfigurácie na mieste plnenia a to najmä:
+-Akceptačné testy - návrh scenárov pre akceptačné testovanie a preukázanie vysokej dostupnosti po implementácii,
+
+Strana 3 z 5
+
+Dodávateľ vykoná všetky analýzy a úkony nevyhnutné pre úspešnú implementáciu dodaných zariadení do produkčného
+prostredia vrátane dopravy inštalácie a konfigurácie na mieste plnenia a to najmä:
+- Zaškolenie obsluhy - konfiguračná dokumentácia v rozsahu implementácie a zaškolenie min. 3 osôb v mieste plnenia a to v
+nevyhnutnom rozsahu na zabezpečenie prevádzkových činností v produkčnej prevádzke
+Súčasťou konfigurácie musí byť minimálne:- rozdelenie diskového priestoru v súlade s požiadavkami obstarávateľa,nastavenie pravidiel pre tiering, deduplikáciu/kompresiu,- prezentácia dátových zväzkov pre aplikácie,- migračné činnosti
+podľa požiadaviek Objednávateľa
+Miestom plnenia sú prevádzkové priestory Objednávateľa.
+Dodávateľ predloží do 7 pracovných dní od nadobudnutia účinnosti zmluvy: 1. originál certifikátu alebo úradne osvedčenú
+kópiu certifikátu o zavedení systému riadenia kvality v zmysle požiadaviek normy ISO 27000 vydaný nezávislou inštitúciou, 2.
+originál certifikátu alebo úradne osvedčenú kópiu certifikátu systému riadenia informačnej bezpečnosti v organizácií ISO 27001
+vydaný nezávislou inštitúciou, 3. originál certifikátu alebo úradne osvedčenú kópiu certifikátu systému manažérstva kvality v
+organizácií ISO 9001 vydaný nezávislou inštitúciou.
+Dodávateľ predloží do 7 pracovných dní od nadobudnutia účinnosti zmluvy: 4. Dodávateľ musí preukázať svoju odbornosť v
+oblasti návrhu architektúry v modelovacom jazyku Archimate 2.0 a to predložením platného certifikátu svojho experta, ktorý
+vytvorí model pre použitie v META IS.
+Dodávateľ predloží do 7 pracovných dní od nadobudnutia účinnosti zmluvy: 5. vlastný návrh na plnenie predmetu zmluvy s
+presným označením a popisom ponúkaných produktov a činností vrátane kalkulácie ceny podľa zákona NR SR č. 18/1996 Z.
+z. o cenách v znení neskorších predpisov v spojení s vyhláškou MF SR č. 87/1996 Z. z., ktorou sa vykonáva zákon NR SR č.
+18/1996 Z. z. o cenách v znení neskorších predpisov a vyjadrenej v eurách
+Dodávateľ predloží do 7 pracovných dní od nadobudnutia účinnosti zmluvy:
+-zoznam kontaktných osôb zodpovedných za plnenie tejto zmluvy v rozsahu meno, priezvisko, e-mailová adresa, telefónne
+číslo, funkcia, -e-mailové adresy alebo telefonický kontakt pre nahlasovanie porúch.
+Dodávateľ do 7 pracovných dní od nadobudnutia účinnosti zmluvy preukáže:-že je držiteľom certifikátu VMware Solution
+Provider Enterprise, alebo ekvivalentu formou predloženia originálu alebo kópie,-že je registrovaným a autorizovaným
+partnerom na predaj a podporu ním ponúkaných zariadení pre územie Slovenskej republiky,
+Dodávateľ do 7 pracovných dní od nadobudnutia účinnosti zmluvy preukáže:
+-že disponuje minimálne tromi vlastnými technickými pracovníkmi pre účely implementácie a podpory ponúkaného zariadenia,
+pričom Objednávateľ vyžaduje, aby títo pracovníci mali minimálne 3-ročnú prax s implementáciou a servisom ponúkaných
+zariadení. Toto Dodávateľ preukáže životopismi zamestnancov.
+Dodanie predmetu plnenia je požadované do 10 kalendárnych dní od doručenia výzvy Objednávateľa o pripravenosti vlastnej
+infraštruktúry na inštaláciu a implementáciu predmetu plnenia.
+V prípade, ak Dodávateľ ponúkne ekvivalentný predmet plnenia, zaväzuje sa spolu s jeho dodaním predložiť potvrdenie
+nezávislej inštitúcie, že ním ponúkaný tovar je ekvivalentný v požadovaných technických parametroch a výbave a to do 24
+hodín od doručenia výzvy Objednávateľa.
+V prípade, že Dodávateľ ponúkne tovar, ktorý považuje za ekvivalentný k špecifikácii a ten nebude zodpovedať špecifikácii,
+Dodávateľ sa zaväzuje do 3 pracovných dní bezplatne vymeniť tovar za tovar plne zodpovedajúci špecifikácii
+Nedodržanie ktorejkoľvek podmienky a požiadavky Objednávateľa uvedenej v opisnom formulári sa bude považovať za
+podstatné porušenie zmluvných podmienok
+Dodávateľ je v prípade podstatného porušenia zmluvných podmienok povinný uhradiť Objednávateľovi zmluvnú pokutu vo
+výške 5000 EUR bez DPH na účet verejného obstarávateľa v lehote desiatich kalendárnych dní.
+Objednávateľ požaduje predložiť všetky požadované doklady v elektronickej podobe. Objednávateľ je oprávnený vyžiadať si aj
+originál alebo úradne osvedčenú kópiu z uvedených certifikátov v papierovej podobe. Dodávateľ je povinný tieto certifikáty
+predložiť do 7 dní od doručenia výzvy objednávateľa.
+Vrátane inštalácie na mieste plnenia
+Vrátane dopravy na miesto plnenia
+Nárok na úhradu faktúry vzniká podpísaním preberacieho protokolu bez výhrad oboma zmluvnými stranami. Súčasťou faktúry
+bude preberací protokol. Splatnosť faktúry je 30 pracovných dní.
+Požaduje sa predložiť vlastný návrh na plnenie predmetu zmluvy do 7 dní od uzavretia zmluvy
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 7 dní od uzavretia zmluvy
+Objednávateľ požaduje, aby dodávateľ vykonal porovnanie parametrov ním ponúkaného tovaru s technickou
+špecifikácioupoložkovite (t.j. ku každej položke technickej špecifikácie uvedie parametre ponúkaného tovaru). Uvedené sa
+požaduje pre všetkypoložky opisného formulára. Nepredloženie tohto porovnania sa považuje za podstatné porušenie zmluvy.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Strana 4 z 5
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava II
+
+Obec:
+
+Bratislava - mestská časť Ružinov
+
+Ulica:
+
+Chlumeckého 2
+
+Čas / lehota plnenia zmluvy:
+20.11.2017 08:00:00 - 24.11.2017 08:58:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+množstvo
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.2, účinná zo dňa 4.11.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 132 500,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 159 000,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 15.11.2017 09:38:00
+Objednávateľ:
+Úrad geodézie, kartografie a katastra Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+InterWay, a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

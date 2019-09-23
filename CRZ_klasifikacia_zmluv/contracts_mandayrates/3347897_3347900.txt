@@ -1,0 +1,1052 @@
+Zmluva o servisnej podpore IT prostredia
+(ďalej len „servisná zmluva“)
+
+uzatvorená v zmysle § 269 ods. 2 a nasl. zákona č. 513/1991 Zb. v znení neskorších predpisov (ďalej len
+„Obchodný zákonník“) medzi
+
+1. ZMLUVNÉ STRANY
+Objednávateľ :
+
+Technická inšpekcia, a.s.
+
+IČO :
+
+36 653 004
+
+IČ DPH :
+
+SK2022210608
+
+Bankové spojenie :
+číslo účtu :
+Zapísaná v Obchodnom registri Okresného súdu Bratislava I, oddiel: Sa, vložka číslo: 3919/B
+Štatutárny orgán: Ing. Dušan Perniš, predseda predstavenstva
+Oprávnená osoba k rokovaniu : Ing. Kamil Papáč, informatik
+(ďalej len „Objednávateľ“)
+a
+Poskytovateľ:
+
+airo, s.r.o.
+Ivanská cesta 30/B, 821 04 Bratislava
+
+IČO :
+
+48 286 621
+
+IČ DPH :
+
+SK2120122488
+
+Bankové spojenie :
+SWIFT(BIC) kód :
+IBAN :
+Zapísaná v Obchodnom registri Okresného súdu v Bratislave I., oddiel: Sro Vložka č. 106156/B
+Štatutárny orgán : Ing. Tomáš Nečas, konateľ
+Ing Štefan Kopaj, konateľ
+Ladislav Liščák, konateľ
+Oprávnená osoba k rokovaniu :
+
+Ing. Rudolf Törvényi
+Ladislav Liščák
+
+(ďalej len „Poskytovateľ“)
+Zmluvné strany vyhlasujú, že údaje v bode 1. sú pravdivé a aktuálne a zaväzujú sa vzájomne, bez
+meškania, oznámiť druhej zmluvnej strane každú zmenu, ktorá by mohla mať vplyv na plnenie
+zmluvných záväzkov.
+Táto zmluva a všetky dodatky k nej dohodnuté v budúcnosti, tvoria zmluvu úplnú, upravujúcu práva
+a záväzky zmluvných strán.
+
+1
+
+2. DEFINÍCIA POJMOV
+Informačný systém (IS) je elektronický systém skladajúci sa z hardvéru a softvéru, ktorý
+zabezpečuje informačné, komunikačné alebo riadiace služby v rámci počítačovej siete. Hardvér
+informačného systému zahŕňa okrem serverov a diskových polí aj aktívne a pasívne sieťové prvky
+(prepínače, smerovače, firewally, káble)
+Hotline je kontaktný bod Poskytovateľa pre Objednávateľa. Zabezpečuje príjem Požiadaviek
+telefonickou cestou a prideľovanie servisného pracovníka jednotlivým požiadavkám.
+Servisné práce sú činnosti dohodnuté v rámci tejto zmluvy a vykonávané za účelom dosiahnutia
+vyriešenia Požiadavky typu Incident.
+Práce na vyžiadanie sú činnosti dohodnuté v rámci tejto zmluvy a vykonávané za účelom
+dosiahnutia vyriešenia Požiadavky typu Change Request.
+Pravidelné práce údržby (Profylaxia) sú činnosti dohodnuté v rámci tejto zmluvy vykonávané
+pravidelne každý mesiac ako údržba IS pokrytých touto zmluvou.
+Pracovná doba Poskytovateľa je v pracovných dňoch od 8:00 do 16:00.
+Servisný pracovník je technický pracovník Poskytovateľa, ktorý je oprávnený vykonávať Servisné
+práce alebo Práce na vyžiadanie u Objednávateľa. Zoznam Servisných pracovníkov je súčasťou
+prílohy č.1 tejto zmluvy.
+Požiadavka (Ticket) je záznam typu Incident alebo Change Request. Nesie v sebe informáciu
+potrebnú k začatiu Servisných prác na IS potrebných k vyriešeniu požiadavky podľa plnenia tejto
+zmluvy. Z pravidla býva zadaná Objednávateľom, ale môže byť zadaná aj Poskytovateľom (napr. pri
+Proaktívnom monitoringu).
+Incident je typ Požiadavky a znamená poruchu alebo udalosť, ktorá obmedzuje alebo ohrozuje
+funkčnosť Informačného systému a nebola zámerne iniciovaná človekom.
+Change Request je typ Požiadavky, ktorá bola iniciovaná Objednávateľom a zahŕňa konfiguračné
+práce na zmenu funkčnosti IS pokrytého touto zmluvou.
+Manažment Požiadaviek je súbor procesov, ktoré definujú postup pri tvorbe, riešení a uzatváraní
+požiadaviek.
+Oprávnený zadávateľ je definovaná osoba na strane Objednávateľa, ktorá je oprávnená zadávať
+Požiadavky na plnenie služieb určených touto zmluvou. Zoznam oprávnených zadávateľov na strane
+Objednávateľa je súčasťou prílohy č.1 tejto zmluvy.
+Priorita požiadavky je stupeň závažnosti Incidentu alebo urgentnosť požiadavky typu Change
+Request, ktorú určuje Oprávnený zadávateľ Požiadavky. Je to určujúci parameter pre následný
+časový plán a postupnosť vykonávania Servisných prác.
+Reakčný čas (Response time) je čas od zaznamenania Požiadavky e-mailom do potvrdenia príjmu
+Požiadavky Poskytovateľom.
+Potvrdenie prijatia požiadavky je odpoveď Poskytovateľa Objednávateľovi na zaznamenanú
+požiadavku e-mail správou alebo telefonickým hovorom.
+Čas vyriešenia (Fix time) je čas meraný od Potvrdenia prijatia požiadavky e-mailom alebo
+telefonicky do Vyriešenia požiadavky, alebo implementácie dočasného náhradného riešenia, ktoré
+zabezpečí funkčnosť zasiahnutého IS. Do tohto času sa nezapočítava doba, počas ktorej sa čaká na
+súčinnosť pracovníkov Objednávateľa, alebo súčinnosť výrobcu niektorej časti zasiahnutého IS.
+
+2
+
+Vyriešenie požiadavky je ukončenie prác na IS, výsledkom ktorého je úplné a trvalé odstránenie
+problému, kvôli ktorému vznikol Incident, bez zmeny predošlej funkčnosti IS alebo dokončenie prác
+na požiadavke typu Change Request.
+Vzdialený prístup je možnosť vykonávať servisné práce servisným pracovníkom elektronicky na
+diaľku použitím Internetu alebo inej komunikačnej siete bez závislosti na geografickej polohe
+servisného pracovníka (Off-Site).
+Servisný výjazd je vykonávanie servisných prác alebo Prác na vyžiadanie osobne servisným
+pracovníkom priamo v priestoroch Objednávateľa (On-Site) v prípade, že sa nedajú vykonať
+vzdialeným prístupom na diaľku.
+
+3. PRIORITY POŽIADAVIEK
+3.1
+
+Priorita Požiadavky typu Incident
+
+3.1.1
+
+Nízka priorita – je pri probléme, alebo poruche na IS, ktoré nemajú žiadny dopad na
+funkčnosť IS a ani ju bezprostredne neohrozujú v krátkodobom časovom horizonte (týždeň).
+/Napr. výpadok redundantného zdroja, alebo ventilátora na prepínači v redundantnom
+klastri./
+
+3.1.2
+
+Normálna priorita – je pri probléme, alebo poruche na IS, ktoré nemajú priamy dopad na
+funkčnosť IS. Môžu ju však ohroziť pri potenciálnom výskyte inej poruchy v rovnakom čase,
+alebo blízkej dobe, alebo môže byť mierne degradovaný výkon IS, ktorý však nie je citeľný pre
+koncového používateľa. /Napr. výpadok disku v RAID5 skupine na diskovom poli, alebo
+výpadok celého prepínača v redundantnom dvojčlennom klastri./
+
+3.1.3
+
+Vysoká priorita – je pri probléme, alebo poruche na IS, ktoré majú priamy dopad na
+funkčnosť IS, tým že je IS nedostupný, alebo je výrazne degradovaný jeho výkon, citeľný pre
+koncového používateľa. /Napr. výpadok celého diskového poľa, výpadok internetového
+pripojenia, zlyhanie celého aplikačného alebo databázového klastra./
+
+3.2
+
+Priorita Požiadavky typu Change Request
+
+3.2.1
+
+Normálna priorita – je pri Change Request Požiadavke, ktorej termín vyriešenia sa môže
+posunúť na neskôr v prípade výskytu požiadaviek s vyššou prioritou alebo Incidentov.
+
+3.2.2
+
+Vysoká priorita – je pri Change Request Požiadavke, ktorej začiatok riešenia bude mať
+prednosť pred požiadavkami nižšej priority.
+
+4. MANAŽMENT POŽIADAVIEK
+4.1
+
+Incident Management
+
+4.1.1
+
+Incident management je proces, ktorým sa riadi Objednávateľ a Poskytovateľ v prípade
+výskytu poruchy alebo udalosti na IS, ktorá spadá do Požiadavky typu Incident.
+
+4.1.2
+
+Postup pri poruche alebo udalosti zistenej pracovníkom Objednávateľa:
+1. Nahlásenie Požiadavky (Ticket) typu Incident prostredníctvom emailovej správy na
+support@airo.sk, alebo telefonicky a určenie priority podľa závažnosti Incidentu. V prípade
+výskytu Incidentu vysokej priority je navyše nutné telefonovať aj na Hotline.
+2. Poskytovateľ odpovie na požiadavku do určeného času Reakčný čas správou cez e-mail
+alebo telefonicky.
+3. Poskytovateľ vyrieši danú požiadavku do dohodnutého času Čas vyriešenia požiadavky a
+3
+
+uzavrie Požiadavku (Ticket) a informuje pracovníka Objednávateľa o ukončení prác.
+4. Objednávateľ v prípade spokojnosti s Vyriešením požiadavky nerobí žiadnu akciu.
+V opačnom prípade Objednávateľ znovu otvorí uzavretú Požiadavku (Ticket) správou cez email alebo telefonicky a pokračuje sa krokom 2.
+4.1.3
+
+Postup pri poruche alebo udalosti zistenej pracovníkom Poskytovateľa:
+1. Poskytovateľ informuje pracovníka Objednávateľa o zistenom Incidente.
+2. Poskytovateľ vyrieši danú požiadavku do dohodnutého času Čas vyriešenia požiadavky a
+uzavrie Požiadavku (Ticket) a informuje pracovníka Objednávateľa o ukončení prác.
+3. Objednávateľ v prípade spokojnosti s Vyriešením požiadavky nerobí žiadnu akciu.
+V opačnom prípade Objednávateľ znovu otvorí uzavretú Požiadavku (Ticket) správou cez email alebo telefonicky a pokračuje sa krokom 2. v bode 4.1.2 Porucha alebo udalosť zistená
+pracovníkom Objednávateľa.
+
+4.1.4
+
+4.2
+
+Pokiaľ nebude možné z objektívnych dôvodov odstrániť poruchu, alebo príčinu Incidentu, je
+možné za Vyriešenie požiadavky považovať aj náhradné riešenie, alebo návod na obídenie
+daného problému. Požiadavka (Ticket) ostane otvorená, pokým nebude porucha alebo príčina
+Incidentu odstránená úplne alebo pokým Objednávateľ neodsúhlasí náhradné riešenie ako
+trvalé.
+Change Request Management
+
+4.2.1
+
+Change Request management je proces, ktorým sa riadi Objednávateľ a Poskytovateľ v
+prípade potreby Prác na vyžiadanie (konfiguračné práce alebo zmeny na IS).
+
+4.2.2
+
+Postup pri zadaní Požiadavky typu Change Request pracovníkom Objednávateľa
+1. Nahlásenie Požiadavky (Ticket) typu Incident prostredníctvom emailovej správy na
+support@airo.sk, alebo telefonický hovor na Hotline a určenie priority podľa závažnosti
+Incidentu.
+2. Poskytovateľ posúdi uskutočniteľnosť a možnosti realizácie konfiguračných prác, alebo
+zmien a môže v prípade potreby informovať pracovníka Objednávateľa o pracovnom
+postupe, časovom harmonograme, cenovej kalkulácií alebo navrhovaných zmenách
+realizácie Požiadavky správou cez e-mail, alebo telefonicky, a ak si to okolnosti budú
+vyžadovať, vyžiadať si doplňujúce informácie k realizácií Požiadavky.
+3. Po Vyriešení požiadavky Poskytovateľ uzavrie Požiadavku (Ticket) a informuje pracovníka
+Objednávateľa o ukončení prác.
+4. Objednávateľ v prípade spokojnosti s Vyriešením požiadavky nerobí žiadnu akciu.
+V opačnom prípade Objednávateľ znovu otvorí uzavretú Požiadavku (Ticket) správou cez email, alebo telefonicky a pokračuje sa krokom 2. v tomto bode.
+
+4.2.3
+
+Poskytovateľ si vyhradzuje právo odmietnuť Požiadavku typu Change Request z objektívnych
+dôvodov. Objektívnym dôvodom môže byť napríklad neuskutočniteľnosť Požiadavky, alebo
+skutočnosť, že realizácia zmeny by mohla mať negatívny dopad na funkcionalitu, alebo
+spoľahlivosť IS pokrytého touto servisnou zmluvou. Dôvodom na odmietnutie Požiadavky
+môže byť tiež prekročenie rozsahu prác, pokrytých touto zmluvou, potrebných na realizáciu
+Požiadavky.
+
+4
+
+5. PREDMET ZMLUVY
+5.1
+
+Predmetom tejto zmluvy je záväzok Poskytovateľa poskytovať Objednávateľovi Servisné práce
+podľa Požiadaviek typu Incident v rámci rozsahu podľa Prílohy č. 3 a Prílohy č. 4 podľa
+reakčných časov a Časov vyriešenia Incidentu uvedených v Prílohe č. 2 na zariadeniach
+uvedených v Prílohe č. 5 a záväzok Objednávateľa zaplatiť Poskytovateľovi za poskytnuté služby
+dohodnutú sumu.
+
+5.2
+
+Na Servisné práce podľa Požiadaviek typu Incident sa nevzťahujú Časy vyriešenia Incidentu
+podľa Prílohy č. 2 tejto zmluvy, pokiaľ súčasti IS uvedené v Prílohe č. 5 nie sú pod servisnou
+podporou výrobcu relevantnou k povahe Incidentu.
+
+5.3
+
+Poskytovateľ sa zaväzuje poskytovať v prospech objednávateľa služby uvedené v tomto článku
+odo dňa nadobudnutia účinnosti tejto zmluvy v rozsahu 2,5-MD (2,5 človekodní, t. j. 20 hodín
+mesačne).
+
+5.4
+
+Nevyčerpané hodiny z rozsahu podľa bodu 5.3 sa budú kumulovať 3 mesiace, ich počet sa
+vynuluje vždy k poslednému dňu kalendárneho štvrťroka.
+
+5.5
+
+Predmetom tejto zmluvy je aj záväzok Poskytovateľa poskytovať Objednávateľovi Práce na
+vyžiadanie podľa Požiadaviek typu Change Request v rámci rozsahu podľa Prílohy č. 3 a Prílohy
+č. 4 na zariadeniach uvedených v Prílohe č. 5 a záväzok Objednávateľa zaplatiť Poskytovateľovi
+za poskytnuté služby dohodnutú sumu.
+
+5.6
+
+Predmetom tejto zmluvy je aj záväzok Poskytovateľa poskytovať Objednávateľovi Pravidelné
+práce údržby v rámci rozsahu podľa Prílohy č. 3 a Prílohy č. 4 na zariadeniach uvedených
+v Prílohe č. 5 a záväzok Objednávateľa zaplatiť Poskytovateľovi za poskytnuté služby dohodnutú
+sumu.
+
+6. MIESTO PLNENIA
+6.1
+
+Miestom plnenia služieb Poskytovateľa uvedených v tejto zmluve sú lokality Informačných
+systémov Objednávateľa uvedených v Prílohe č. 5 tejto zmluvy.
+
+6.2
+
+Pokiaľ to situácia bude dovoľovať, Poskytovateľ bude vykonávať služby uvedené v tejto zmluve
+prostredníctvom Vzdialeného prístupu elektronicky na diaľku bez ohľadu na geografickú polohu
+Servisného pracovníka (Off-Site). Ak budú práce uvedené v tejto zmluve vyžadovať Servisný
+výjazd Servisného pracovníka do priestorov Objednávateľa (On-Site), bude tento výjazd
+spoplatnený sadzbou podľa Prílohy č. 3 tejto zmluvy.
+
+6.3
+
+Poskytovateľ bude poskytovať služby Manažmentu Požiadaviek elektronicky prostredníctvom emailového kontaktu support@airo.sk a prostredníctvom telefonickej služby Hotline.
+
+7. SÚČINNOSŤ OBJEDNÁVATEĽA
+7.1
+
+Objednávateľ sa zaväzuje poskytnúť Poskytovateľovi a jeho Servisným pracovníkom nasledovnú
+súčinnosť:
+1. Poskytnúť fyzický prístup do priestorov, ktoré sa týkajú IS pokrytých službami v Predmete
+tejto Zmluvy.
+2. Poskytnúť vzdialený prístup k IS pokrytých službami v Predmete tejto Zmluvy v rozsahu
+potrebnom k plneniu tejto Zmluvy.
+3. Poskytnúť prístupové oprávnenia k IS pokrytých službami v Predmete tejto Zmluvy v rozsahu
+5
+
+potrebnom k plneniu tejto Zmluvy.
+4. Poskytnúť technickú dokumentáciu potrebnú k plneniu služieb uvedených v Predmete tejto
+Zmluvy.
+5. Aktualizovať poskytnutú technickú dokumentáciu v prípade, že dôjde k jej zmene.
+6. Minimálne 48 hodín vopred informovať Poskytovateľa o plánovaných zmenách na IS
+pokrytých službami v Predmete tejto Zmluvy.
+7. Poskytnúť informácie o chybovom stave a priložiť výpisy chybových hlášok (ak sú dostupné)
+v prípade výskytu Incidentu na IS pokrytých službami v Predmete tejto Zmluvy.
+8. Poskytnúť inú nevyhnutnú a potrebnú súčinnosť, alebo informácie v závislosti od konkrétnej
+situácie alebo požiadaviek Poskytovateľa.
+
+8. ĎALŠIE POVINNOSTI ZMLUVNÝCH STRÁN
+8.1
+
+V prípade, že Objednávateľ nesplní povinnosti plynúce z bodu 7., sa Poskytovateľ nedostáva do
+omeškania s plnením povinností podľa tejto zmluvy v Čase vyriešenia (Fix time) a tento čas sa
+predĺži o čas, počas ktorého bol Objednávateľ v omeškaní s plnením svojich povinností.
+
+8.2
+
+Objednávateľ sa zaväzuje dodržiavať technické a prevádzkové podmienky a parametre
+prostredia potrebné pre bezporuchovú funkciu IS. Každú inštaláciu nového resp. iného
+aplikačného systému na servery alebo na pracovné stanice, prípadne zmenu konfigurácie
+systému musí dať Objednávateľ vopred na odsúhlasenie Poskytovateľovi. Poskytovateľ
+neodmietne tento súhlas v prípade, že nový systém nie je na základe spoločného testu
+konfliktný. V opačnom prípade Poskytovateľ nenesie zodpovednosť za škody spôsobené
+nedodržaním tohto postupu a odstránenie takto vzniknutých chýb v systéme bude brané ako
+činnosť spadajúca do bodu 8.6.
+
+8.3
+
+Objednávateľ smie nechať spravovať systémy len osobou, ktorá je na to oprávnená zo strany
+Objednávateľa. V opačnom prípade Poskytovateľ nenesie zodpovednosť za škody spôsobené
+nedodržaním tohto postupu a odstránenie takto vzniknutých chýb v systéme bude brané ako
+činnosť spadajúca do bodu 8.6.
+
+8.4
+
+Poskytovateľ sa zaväzuje poskytnúť plnenie podľa tejto Zmluvy odborne spôsobilým
+personálom. Pritom sa Poskytovateľ zaväzuje poskytovať plnenie na báze systémových
+štandardov a odporúčaní výrobcov komponentov IS, aby zabezpečil kompaktnosť dát a integritu
+systému.
+
+8.5
+
+Počas platnosti tejto zmluvy sa objednávateľ zaväzuje používať pre systémy výhradne Služby
+podpory Poskytovateľa. V opačnom prípade Poskytovateľ nenesie zodpovednosť za škody
+spôsobené nedodržaním tohto postupu a odstránenie takto vzniknutých chýb v systéme bude
+brané ako činnosť spadajúca do bodu 8.6.
+
+8.6
+
+Chyba, ktorá vznikne na základe porušenia povinností Objednávateľa podľa bodu 8.2, 8.3 a 8.5,
+alebo chyba, ktorá vznikne na základe iného zásahu Objednávateľa alebo tretích osôb do
+systému, bude kvalifikovaná ako chyba spôsobená Objednávateľom. Na takýto druh chyby sa
+nevzťahujú Reakčné časy a oprava bude vykonaná na základe požiadavky Objednávateľa na jeho
+náklady.
+
+8.7
+
+Počas platnosti tejto zmluvy sa Objednávateľ zaväzuje poskytovať Poskytovateľovi súčinnosť
+požadovanú pre plnenie Zmluvy v rozsahu uvedenom v bode č. 7 tejto Zmluvy.
+
+6
+
+9. CENA A PLATOBNÉ PODMIENKY
+9.1
+
+Za činnosti Poskytovateľa uvedené v Prílohe č.3 tejto Zmluvy zaplatí Objednávateľ
+Poskytovateľovi cenu stanovenú vo forme paušálneho mesačného poplatku bez ohľadu na
+rozsah poskytovaných služieb vo výške 1200,00 EUR bez DPH. Paušálny mesačný poplatok bude
+Poskytovateľ fakturovať mesačne najneskôr v 10. deň aktuálneho mesiaca.
+
+9.2
+
+Činnosti, ktoré sú vykonávané nad rámec paušálneho poplatku sú spoplatnené podľa Prílohy č.
+4 tejto Zmluvy.
+
+9.3
+
+Všetky práce nad rámec paušálneho poplatku budú fakturované najneskôr v 10. deň
+kalendárneho mesiaca, ktorý nasleduje po mesiaci, v ktorom boli služby vykonané.
+
+9.4
+
+Všetky ceny uvedené v tejto Zmluve a jej Prílohách sú uvedené bez DPH. Poskytovateľ je
+platiteľom DPH.
+
+9.5
+
+Sadzba DPH sa stanoví podľa zákonných predpisov Slovenskej republiky platných a účinných
+vždy k dátumu dodania služby uvedeného na faktúre.
+
+9.6
+
+Poskytovateľ má právo vystaviť faktúru za činnosti uvedené v bode 9.2 po akceptácii
+oprávnenej osoby zo strany Objednávateľa. Právo vystaviť faktúru má Poskytovateľ aj vtedy, ak
+oprávnená osoba Objednávateľa bezdôvodne nevykoná akceptáciu najneskôr do 10. dňa
+nasledujúceho mesiaca, alebo neakceptovanie oprávnenej osoby Objednávateľa je zjavne
+neopodstatnené.
+
+9.7
+
+Splatnosť faktúr je tridsať (30) dní od dátumu doručenia faktúry Objednávateľovi.
+
+10. TRVANIE A UKONČENIE ZMLUVY
+10.1 Táto Zmluva nadobúda platnosť a účinnosť dňom jej podpísania obidvomi zmluvnými stranami
+a uzatvára sa na dobu určitú v trvaní 12 mesiacov odo dňa jej podpisu.
+10.2 Túto Zmluvu je možné ukončiť písomnou výpoveďou doručenou druhej zmluvnej strane
+s výpovednou lehotou tri (3) mesiace, a to aj bez uvedenia dôvodu. Výpovedná doba začína
+plynúť prvým dňom kalendárneho mesiaca nasledujúceho po doručení výpovede druhej
+zmluvnej strane.
+10.3 Každá zo zmluvných strán môže odstúpiť od Zmluvy, ak druhá zmluvná strana porušila svoju
+povinnosť podľa tejto Zmluvy a svoju povinnosť dodatočne nesplnila ani v lehote tridsať (30)
+dní po doručení písomnej výzvy druhej zmluvnej strane na dodatočné splnenie porušenej
+povinnosti.
+10.4 Za podstatné porušenie tejto Zmluvy sa považuje porušenie povinností podľa bodu 12.
+V takomto prípade môže zmluvná strana odstúpiť od Zmluvy bez toho, aby vyzvala zmluvnú
+stranu, ktorá porušila takúto povinnosť, na jej dodatočnom splnení.
+10.5 Odstúpenie od Zmluvy musí mať písomnú formu a je účinné dňom jeho doručenia druhej
+zmluvnej strane. Odstúpením od zmluvy nie je dotknutý nárok na náhradu škody.
+10.6 Túto Zmluvu je možné ukončiť aj dohodou zmluvných strán.
+
+11. ZODPOVEDNOSŤ ZA ŠKODU A SANKCIE
+7
+
+11.1 Ak Poskytovateľ zodpovedá za škody na zariadeniach, ktoré Objednávateľovi preukázateľne
+spôsobil v súvislosti s plnením tejto Zmluvy alebo porušením jeho povinností, tak v prípade
+spôsobenia takejto škody uvedie zariadenie do pôvodného stavu na vlastné náklady.
+11.2 Ak sa Objednávateľ dostane s úhradou vyfakturovanej ceny do omeškania, má Poskytovateľ
+nárok na úrok z omeškania vo výške 0,03% z neuhradenej čiastky za každý, aj začatý kalendárny
+deň omeškania.
+11.3 V prípade, že poskytovateľ bude v omeškaní s plnením predmetu zmluvy, má objednávateľ
+právo na uplatnenie úroku z omeškania vo výške 0,03% zo zmluvnej ceny za každý, aj začatý
+kalendárny deň omeškania.
+11.4 Objednávateľ je oprávnený vystaviť Poskytovateľovi faktúru na zmluvnú pokutu uvedenú
+v bode 11.3, splatnosť ktorej je tridsať (30) dní odo dňa doručenia Poskytovateľovi.
+
+12. POVINNOSŤ MLČANLIVOSTI
+12.1 Ak nebude písomne dohodnuté inak, považuje sa uzavretá Zmluva, všetky informácie
+a materiály, ktoré na základe nej budú dodané, pre zmluvné strany za dôverné, a to bez
+časového obmedzenia. Informácie nebudú voľne dostupné a použité inak ako na účely uvedené
+v predmete zmluvy alebo pre prípad posúdenia skutočnosti plnenia zmluvy.
+12.2 Obe zmluvné strany sa zaväzujú udržiavať v tajnosti všetky verbálne a písomné informácie o
+druhej zmluvnej strane, prípadne o klientoch druhej zmluvnej strany, o ich spôsobe práce,
+organizačnej štruktúre a know-how, zistené pri plnení predmetu podľa tejto zmluvy a
+nezverejňovať ich vo vzťahu k tretím stranám, s výnimkou subdodávateľov, avšak vždy len v
+rozsahu nevyhnutnom pre dohodnutú realizáciu plnenia a sú povinné zaviazať mlčanlivosťou
+všetkých svojich zamestnancov, zástupcov a zmluvných partnerov, ktorí v ich mene budú
+povinnosti podľa tejto Zmluvy plniť.
+12.3 Žiadna zo zmluvných strán nevyužije akékoľvek informácie a skutočnosti v akejkoľvek forme,
+ktoré zistila, alebo s prihliadnutím na okolnosti mohla zistiť pri plnení predmetu tejto Zmluvy vo
+svoj prospech, ani v prospech tretích strán, počas trvania zmluvného vzťahu, ani po jeho
+ukončení, prípadne odstúpení od Zmluvy.
+12.4 Za predmet obchodného tajomstva voči tretím stranám sa považuje aj predmet plnenia tejto
+Zmluvy a súvisiace zmluvné dojednania. Zmluvné strany sa dohodli na utajení skutočností,
+s ktorými prídu do kontaktu pri plnení predmetu Zmluvy. Jedná sa predovšetkým o:
+12.5 Obchodné tajomstvo, ktorého predmetom sú všetky skutočnosti obchodnej, technickej
+a ekonomickej povahy, ktoré súvisia s podnikaním danej zmluvnej strany a sú utajované.
+12.6 Skutočnosti, ktorých ochrana je zverená Poskytovateľovi pri plnení predmetu zmluvy, alebo sa
+stali pre Poskytovateľa inak prístupné.
+12.7 Obchodné zoznamy obchodných partnerov, nákupné ceny strojov a zariadení, dodacie a
+platobné podmienky obchodných partnerov, výnosnosť a efektívnosť jednotlivých obchodných
+prípadov, stratégia podniku a rozvojové plány.
+12.8 Obe zmluvné strany sa zaväzujú zachovávať mlčanlivosť aj o všetkých skutočnostiach, ktorých
+zverejnenie by mohlo byť spôsobilé poškodiť obchodné záujmy druhej zmluvnej strany. Tieto
+skutočnosti musia byť zmluvnými stranami vyhlásené za dôverné. Každá zo zmluvných strán sa
+zaväzuje zachovávať mlčanlivosť o týchto skutočnostiach od okamihu doručenia písomného
+vyjadrenia od druhej zmluvnej strany o tom, že niektoré skutočnosti prípadne informácie boli
+vyhlásené za dôverné.
+8
+
+12.9 Poskytovateľ sa zaväzuje zabezpečiť ochranu osobných údajov fyzických osôb obsiahnutých v
+informačnom systéme Objednávateľa, s ktorými môže prísť pri plnení predmetu tejto Zmluvy do
+styku alebo ktoré mu môžu byť sprístupnené, a to v súlade s právnymi predpismi Slovenskej
+republiky, najmä so zákonom č. 122/2013 Z.z. o ochrane osobných údajov v znení neskorších
+predpisov. Poskytovateľ takéto osobné údaje nespracúva. Ak bude predmet plnenia
+zabezpečený aj pomocou subdodávateľov, Poskytovateľ v celom rozsahu zodpovedá aj za
+dodržiavanie mlčanlivosti a ochrany subdodávateľmi, ako by predmet plnenia zabezpečoval
+sám.
+12.10 Informácie, s ktorými zmluvné strany nemusia nakladať ako s dôvernými informáciami, zahŕňajú
+predovšetkým akékoľvek informácie alebo dokumenty, o ktorých vie zmluvná strana preukázať,
+že:
+12.10.1 sú alebo boli verejne známe, alebo
+12.10.2 boli nezávisle vyvinuté zmluvnou stranou bez použitia dôverných informácií druhej zmluvnej
+strany, alebo
+12.10.3 ich získala od tretej strany, ktorá nebola vo vzťahu k týmto informáciám viazaná povinnosťou
+mlčanlivosti.
+12.11 Poskytovateľ a Objednávateľ si vyhradzuje právo uchovávať jednu kompletnú sadu dokumentov
+dokladujúcich servisnú činnosť Poskytovateľa ako evidenciu alebo dôkaz, pri rešpektovaní
+povinnosti mlčanlivosti.
+12.12 V prípade, ak ktorákoľvek zmluvná strana dostane rozhodnutie požadujúce zverejniť dôverné
+informácie ako celok alebo ich časť, ktoré je vydané na základe rozsudku alebo rozhodnutia
+príslušného súdu alebo rozhodnutia orgánu štátnej správy, táto zmluvná strana sa zaväzuje:
+12.12.1 okamžite druhej strane oznámiť obdŕžanie takéhoto rozhodnutia a relevantné skutočnosti,
+12.12.2 konzultovať s druhou stranou oprávnenosť prípadného uskutočnenia právnych krokov
+smerujúcich k odmietnutiu alebo obmedzeniu rozsahu prijatého rozhodnutia,
+12.12.3 ak zverejnenie dôverných informácií je uznané ako nevyhnutné alebo účelné, vynaložiť
+maximálne úsilie na získanie dôveryhodnej záruky, že poskytnuté dôverné informácie nebudú
+ďalej zverejňované.
+12.13 Záväzky zmluvných strán obsiahnuté v tomto článku trvajú neobmedzenú dobu po podpísaní
+tejto Zmluvy a sú nevypovedateľné.
+
+13. ZÁVEREČNE USTANOVENIA
+13.1 Túto Zmluvu je možné meniť len formou očíslovaných písomných dodatkov podpísaných oboma
+zmluvnými stranami.
+13.2 Zmluvné vzťahy neupravené touto Zmluvou sa riadia príslušnými ustanoveniami Obchodného
+zákonníka č. 513/1991 Zb. a ostatných všeobecne záväzných právnych predpisov platných
+a účinných v Slovenskej republike.
+13.3 Táto Zmluva je vyhotovená v štyroch rovnopisoch, z ktorých každá zo Zmluvných strán dostane
+dva po jej podpísaní.
+
+9
+
+13.4 Na účely tejto Zmluvy sa písomnosť považuje za doručenú, ak je doručovaná na adresu
+sídla/miesta podnikania zmluvnej strany uvedenej v Zmluve alebo na inú adresu, ktorú zmluvná
+strana, druhej zmluvnej strane preukázateľne oznámila. Písomnosť doručovaná na takúto
+adresu ako doporučená zásielka prostredníctvom Slovenskej pošty a.s. sa považuje za doručenú
+piatym (5.) dňom od jej odoslania, a to aj keď sa o jej obsahu z akéhokoľvek dôvodu adresát
+nedozvedel, alebo aj keď adresát odmietol zásielku prevziať.
+13.5 Neoddeliteľnou súčasťou tejto Zmluvy sú jej nasledovné prílohy :
+Príloha č. 1
+
+Zoznam Oprávnených zadávateľov a Servisných pracovníkov
+
+Príloha č. 2
+
+Reakčné časy a časy vyriešenia Incidentu a požiadaviek typu Change Request
+
+Príloha č. 3
+
+Činnosti v rámci paušálneho poplatku
+
+Príloha č. 4
+
+Cenník činností nad rámec paušálneho poplatku
+
+Príloha č. 5
+
+Opis služby
+
+V Bratislave, dňa....................
+
+V Bratislave, dňa....................
+
+Za objednávateľa:
+
+Za poskytovateľa:
+
+______________________
+
+_______________________
+
+Technická inšpekcia, a.s.
+Ing. Dušan Perniš
+predseda predstavenstva
+
+airo, s. r. o.
+Ladislav Liščák
+konateľ
+
+_______________________
+airo, s. r. o.
+Ing. Tomáš Nečas
+konateľ
+
+10
+
+Príloha č. 1
+(Zoznam Oprávnených zadávateľov a Servisných pracovníkov)
+Oprávnení zadávatelia:
+Meno
+
+Tel. kontakt
+
+E-mail
+
+Tel. kontakt
+
+E-mail
+
+Ing. Kamil Papáč
+Karol Bihari
+Servisní pracovníci:
+Meno
+Ing. Štefan Kopaj
+Ing. Tomáš Nečas
+Ing. Rudolf Törvényi
+Kontaktné údaje:
+Hotline: +421 905 634 205
+Helpdesk URL: https://support.airo.sk
+Helpdesk E-mail: support@airo.sk
+
+1
+
+Príloha č. 2
+(Reakčné časy a časy vyriešenia Incidentu a požiadaviek typu Change Request (SLA))
+Požiadavky typu Incident:
+Priorita Incidentu
+
+Reakčný
+time)
+
+čas
+
+(Response Čas vyriešenia (Fix time)
+
+Vysoká
+
+4 hodiny
+
+Nasledovný kalendárny deň (NCD)
+
+Normálna
+
+24 hodín
+
+Nasledovný pracovný deň (NBD)
+
+Nízka
+
+24 hodín
+
+3. nasledovný pracovný deň (3BD)
+
+Požiadavky typu Change Request:
+Priorita Požiadavky typu Reakčný
+Change Request
+time)
+
+čas
+
+(Response Čas vyriešenia (Fix time)
+
+Vysoká
+
+24 hodín
+
+Podľa najlepšieho úsilia (Best effort)
+
+Normálna
+
+48 hodín
+
+Podľa najlepšieho úsilia (Best effort)
+
+Predĺženie času vyriešenia Incidentu:
+Do Času vyriešenia Incidentu sa nezapočítava doba, počas ktorej sa čaká na súčinnosť pracovníkov
+Objednávateľa alebo súčinnosť výrobcu niektorej časti zasiahnutého IS.
+
+1
+
+Príloha č. 3
+(Činnosti v rámci paušálneho poplatku)
+Poskytovateľ sa zaväzuje poskytovať Objednávateľovi, za uvedených podmienok, nasledovné práce
+v rámci mesačného paušálneho poplatku:
+1. Práce na vyžiadanie (Požiadavky typu Change Request) v rozsahu 1,5 človekodňa mesačne.
+Všetky práce nad rámec paušálneho poplatku sa budú zvlášť účtovať podľa Prílohy č. 4.
+2. Pravidelné práce údržby (Profylaxia), vykonávané mesačne v rozsahu 1 človekodňa, ktoré budú
+zahŕňať nasledovné úkony podľa typu súčastí IS uvedených v Prílohe č. 5:
+Podporované typy zariadení
+
+Pravidelné činnosti
+
+Serverová infraštruktúra
+(fyzická aj virtuálna)
+
+Profylaxia serverov, kontrola logov a súvislosti medzi zistenými
+udalosťami, kontrola zálohovania, návrh riešenia zistených stavov
+
+Security (firewally, Security
+Appliances)
+
+Profylaxia zariadení, kontrola logov, úprava konfigurácii, inštalácia
+aktualizácii firmware, návrh riešenia zistených stavov
+
+Storage
+
+Profylaxia diskových poli a NAS úložísk, kontrola logov, inštalácia
+aktualizácii firmware, návrh riešenia zistených stavov
+
+SAN switche
+
+Profylaxia SAN switchov, kontrola logov, aktualizácia firmware podľa
+doporučení výrobcu, návrh riešenia zistených stavov
+
+LAN switche (serverová
+infraštruktúra)
+
+Profylaxia LAN switchov, kontrola logov, aktualizácia firmware podľa
+doporučení výrobcu, návrh riešenia zistených stavov
+
+3. Držanie pohotovosti 8 hodín / 5 dní v pracovné dni v čase od 8:00 do 16:00 a možnosť
+nahlasovať Incidenty telefonicky na Hotline.
+4. Práce spojené s poskytovaním služieb v rámci paušálneho poplatku, poskytované v čase mimo
+štandardnej Pracovnej doby Poskytovateľa, budú evidované ako 1,5 násobok reálne
+odpracovaného času. V prípade prác poskytovaných počas víkendov a štátnych sviatkov, budú
+evidované ako 2 násobok reálne odpracovaného času.
+5. Dopravné náklady spojené s poskytovaním služieb v rámci paušálu sa budú deliť na cestovné
+náklady, náhradu straty času na ceste a náklady spojené s ubytovaním. Cestovné náklady a
+ubytovanie budú evidované podľa skutočne vykázaného počtu kilometrov vo výške 0,35
+EUR/km bez DPH (počítané od hranice mesta Bratislava) a skutočných nákladov na ubytovanie.
+Čas strávený na ceste bude počítaný ako 40% z celkovo stráveného času systémového inžiniera
+na ceste. Každý výjazd mimo mesta Bratislava a náklady s tým spojené musia byť odsúhlasené
+Objednávateľom. Tieto náklady budú čerpané a odrátané z dohodnutého počtu predplatených
+hodín za mesiac v adekvátnej čiastke, pričom hodnota jednej hodiny je 60 € bez DPH, resp.
+hodnota 1 minúty je 1 €.
+Príklad: pri servisnom zásahu mimo BA servisný technik prejde 100 KM a na ceste strávi 1
+hodinu. Z predplatených mesačných hodín teda bude čerpaných 24 minút za čas strávený na
+ceste
+
+1
+
+(40% z 1 hodiny) a 35 min za počet najazdených kilometrov (0,35€ * 100 km = 35 € => 35 min).
+Spolu bude z predplatených hodín za cestovanie vyčerpaných
+59 minút.
+
+1
+
+Príloha č. 4
+(Cenník činností nad rámec paušálneho poplatku)
+1. Servisné práce na Požiadavkách typu Incident a práce na vyžiadanie na Požiadavkách typu
+Change Request, ktoré sú vykonávané nad rámec paušálneho poplatku podľa Prílohy č. 3, budú
+fakturované podľa skutočne vykonaných prác na základe hodinových sadzieb podľa nasledujúcej
+tabuľky:
+Popis
+
+Cena
+
+Jednotka
+
+Práce na zariadeniach typu Server / Storage
+
+62,5
+
+EUR/hod.
+
+75
+
+EUR/hod.
+
+Práce na zariadeniach typu Citrix / Oracle
+
+87,5
+
+EUR/hod.
+
+Cestovné náklady pre Servisný výjazd mimo Bratislavy
+
+0,35
+
+EUR/km
+
+Práce na zariadeniach typu Networking / Security
+
+2. Dopravné náklady spojené s poskytovaním služieb nad rámec paušálu sa budú deliť na cestovné
+náklady, náhradu straty času na ceste a náklady spojené s ubytovaním. Cestovné náklady a
+ubytovanie budú fakturované podľa skutočne vykázaného počtu kilometrov vo výške 0,35
+EUR/km bez DPH (počítané od hranice mesta Bratislava) a skutočných nákladov na ubytovanie.
+Čas strávený na ceste bude vynásobený 40% hodinovej sadzby príslušného systémového
+inžiniera podľa bodu č. 1 prílohy č. 4. Každý výjazd mimo mesta Bratislava a náklady s tým
+spojené musia byť odsúhlasené Objednávateľom.
+Príklad: pri servisnom zásahu nad rámec paušálu mimo BA servisný technik (práce typu
+Networking) prejde 100 KM a na ceste strávi 1 hodinu. Výška cestovných nákladov teda bude
+30 € za čas strávený na ceste (40% z 75 €) a 35 € za počet najazdených kilometrov
+(0,35€ * 100 km = 35 €). Výška cestovných nákladov spolu bude 65 € (bez DPH).
+3. Náklady na práce, spojené s poskytovaním služieb nad rámec paušálneho poplatku,
+poskytované v čase mimo štandardnej Pracovnej doby Poskytovateľa, budú fakturované s
+príplatkom 50% nad hodinovú sadzbu príslušného typu prác. V prípade prác poskytovaných
+počas víkendov a štátnych sviatkov, budú fakturované s príplatkom 100% nad hodinovú sadzbu
+príslušného typu prác.
+
+1
+
+Príloha č. 5
+(Opis služby)
+
+
+Predmetom zmluvy je zabezpečenie funkčnosti sieťovej a serverovej infraštruktúry Technickej inšpekcie a.s.
+(ďalej TI a.s.).
+
+
+
+Zabezpečenie funkčnosti predpokladá vykonávanie nasledovných činností:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+vypracovanie a aktualizácia dokumentácie infraštruktúry
+monitoring serverových HW prostriedkov
+monitoring aplikácií a služieb
+monitoring operačných systémov
+monitoring sieťovej infraštruktúry a sieťových protokolov
+kategorizácia hlásení a zasielanie hlásení administrátorovi TI a.s.
+prediktívne hlásenie potencionálnych problémov
+inštalácie systémov, služieb a aplikácií vymenovaných v dokumentácii infraštruktúry
+inštalácie verifikovaných záplat systémov a aplikácií
+mapovanie a štruktúrovaný pohľad na celé IT prostredie
+sledovanie parametrov SLA (Service Level Agreement)
+dispečing a zasielanie reportov o stave poskytovania služby v definovanom formáte minimálne raz za mesiac
+performance a capacity monitoring HW s generovaním štruktúrovaných správ o stave a odporúčaniach na
+upgrade monitorovaných HW
+stanovenie povinností, zodpovedností a práv administrátora TI a.s.
+obnova infraštruktúry v dôsledku zlyhania SW alebo HW
+obnova dát na serverovej infraštruktúre, zálohovaných aplikáciou Symantec Backup Exec 2012, na základe
+zálohovacieho plánu
+
+
+Kategorizácia infraštruktúry podľa dopadu na prevádzku v zoradení od najvyššej priority po najnižšiu:
+Závažnosť
+incidentu
+
+Opis incidentu
+
+Reakčný čas do: (od
+nahlásenia
+incidentu)
+
+Kategória A
+
+Zásadné chyby, ktoré nie je možné obísť pomocou nejakej obchádzky,
+alebo náhradného postupu. V dôsledku zlyhania SW alebo HW
+produktu odberateľ nie je schopný poskytovať svojim klientom
+niektorú zo služieb uvedených v „Zozname serverov a služieb“.
+
+4 hodín
+
+Kategória B
+
+Chyby SW alebo HW produktu, ku ktorým je možné nájsť obchádzku
+alebo náhradný postup. Táto obchádzka či náhradný postup musia
+byť pre odberateľa primerane akceptovateľné.
+
+24 hodín
+
+Kategória C
+
+Ide o problémy drobného charakteru a chyby, ktoré nebránia
+efektívnemu používaniu SW a HW produktu.
+
+48 hodín
+
+1
+
+
+Parametre obnovy infraštruktúry
+
+Kritické služby, systémy a aplikácie
+
+Parametre obnovy
+RTO1)
+RPO2)
+
+Domain Control & Network Services
+Local Area Network Connectivity (LAN)
+Internet Connectivity
+E-mail
+Antivirus Protection
+Backup Solutions (e.g. User Data on File Server)
+
+4 hod.
+4 hod.
+1 deň
+1 deň
+1 deň
+1 deň
+
+1)
+
+------1 deň
+--1 deň
+
+RTO ( Recovery Time Objective) – definovanie času, za ktorý treba službu obnoviť od začiatku riešenia
+RPO ( Recovery Point Objective) – parameter, ktorý určuje, ku ktorému časovému bodu obnovy bude obnova
+dát urobená
+
+2)
+
+Zoznam lokalít (miesta poskytovania služby):
+•
+•
+•
+•
+•
+
+Technická inšpekcia, a.s., ústredie, Trnavská cesta 56, 82101 Bratislava,
+Pracovisko Technickej inšpekcie, a.s., Železničiarska 18, 811 04 Bratislava,
+Pracovisko Technickej inšpekcie, a.s., Mostná 66, 94901 Nitra,
+Pracovisko Technickej inšpekcie, a.s., Partizánska cesta 71, 97401 Banská Bystrica,
+Pracovisko Technickej inšpekcie, a.s., Južná trieda 95, 04001 Košice.
+
+Zoznam serverov a služieb
+Pracovisko TI a.s. ústredie Bratislava
+1) Vmware vSphere 4x ESXi – verzia 6
+Služby sa týkajú :
+I. Operačného systému – vsphere 6.0
+II. Sieťových služieb
+2) HPE MSA 2040
+Služby sa týkajú :
+I. SAN
+3) Backup Server – Veritas Backup Exec 16
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012R2
+II. Zálohovacieho software – BackupExec 16
+4) Altiris – centrálna správa klientov
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2008R2 – virtual machine
+II. Symantec Altiris 8.1
+5) Citrix
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2008R2 – virtual machine
+6) Softip
+2
+
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2008R2 – virtual machine
+II. MS RDS
+7) Sharepoint
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012 – virtual machine
+8) 2x Domain Controller
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012 – virtual machine
+II. Active Directory
+9) Domino
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2008R2 – virtual machinePríloha č.1
+10) Exchange 2013
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012 – virtual machine
+II. Exchange 2013
+11) SEPM
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2008R2 – virtual machine
+II. Symantec Endpoint Protection Manager 14
+12) SQL
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012 – virtual machine
+II. SQL server 2014
+13) OWAS
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012 – virtual machine
+14) Bomgar
+Služby sa týkajú :
+I. Operačného systému – Red Hat Enterprise Linux
+II. Bomgar Remote Support
+15) Zabbix
+Služby sa týkajú :
+I. Operačného systému – Ubuntu Server
+II. Zabbix monitoring
+16) SMG
+Služby sa týkajú :
+I. Operačného systému – Centos Linux
+II. Symantec Messaging Gateway
+17) Sharepoint Publishing
+Služby sa týkajú :
+I. Operačného systému – Windows 2008R2
+II. Sharepoint Web publishing
+18) Owncloud
+Služby sa týkajú :
+I. Operačného systému – Ubuntu Linux
+II. Owncloud
+19) DLO server
+Služby sa týkajú :
+3
+
+I. Operačného systému – Windows 2008R2
+II. Veritas DLO server
+20) PaloAltoNetworks Firewall
+Služby sa týkajú :
+I. Sieťových služieb a bezpečnosti
+21) Cisco ASA 5506-X Firewall
+Služby sa týkajú :
+I.
+Sieťových služieb a Cisco AnyConnect VPN pripojeníPríloha č.1
+Pracovisko TI a.s. Bratislava
+1) ESXi
+
+Služby sa týkajú :
+I. Operačného systému – vsphere 6.0
+II. Sieťových služieb
+2) Domain Controller
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012R2
+II. Active Directory
+3) NAS
+Služby sa týkajú :
+I. Synology NAS
+II. Veritas System Recovery
+Pracovisko TI a.s. Košice
+1) ESXi
+
+Služby sa týkajú :
+I. Operačného systému – vsphere 6.0
+II. Sieťových služieb
+2) Domain Controller
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012R2
+II. Active Directory
+3) NAS
+Služby sa týkajú :
+I. Synology NAS
+II. Veritas System Recovery
+Pracovisko TI a.s. Banská Bystrica
+1) ESXi
+
+Služby sa týkajú :
+I. Operačného systému – vsphere 6.0
+II. Sieťových služieb
+2) Domain Controller
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012R2
+II. Active Directory
+3) NAS
+Služby sa týkajú :
+I. Synology NAS
+II. Veritas System Recovery
+Pracovisko TI a.s. Nitra
+4
+
+1) ESXi
+
+Služby sa týkajú :
+I. Operačného systému – vsphere 6.0
+II. Sieťových služieb
+2) Domain Controller
+Služby sa týkajú :
+I. Operačného systému – Windows Server 2012R2
+II. Active DirectoryPríloha č.1
+3) NAS
+Služby sa týkajú :
+I. Synology NAS
+II. Veritas System Recovery
+
+5
+
+

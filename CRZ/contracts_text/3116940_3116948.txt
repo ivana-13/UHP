@@ -1,0 +1,320 @@
+Dodatok č. 3
+k
+Zmluve na pozáručnú podporu zo dňa 23.7.2007
+Obchodné meno:
+Slovenská konsolidačná, a.s.
+Sídlo:
+Cintorínska 21, 814 99 Bratislava
+IČO:
+35 776 005
+Zápis v registri: Obchodný register Okresného súdu Bratislava I, oddiel: Sa, vložka č.: 2257/B
+Zastúpená :
+Ing. Brianom Liptákom, predsedom predstavenstva
+JUDr. Martinom Lipovským, podpredsedom predstavenstva
+(ďalej ako „Objednávateľ“ alebo „SK, a.s.“)
+a
+Obchodné meno:
+GRADIENT ECM s. r. o.
+Sídlo:
+Košická 56, 821 08 Bratislava
+IČO:
+31 367 232
+Zápis v registri: Obchodný register Okresného súdu Bratislava I, oddiel: Sro, vložka č.: 6533/B
+Zastúpená:
+Ing. Rastislavom Hlaváčom, konateľom
+(ďalej ako „Zhotoviteľ“)
+Objednávateľ a Poskytovateľ ďalej spolu aj ako „Zmluvné strany“ a samostatne aj ako „Zmluvná
+strana“
+I.
+Preambula
+1. Zmluvné strany uzatvorili dňa 23.7.2007 Zmluvu na pozáručnú podporu v znení Dodatku č. 1 zo
+dňa 10.12.2012 a Dodatku č. 2 zo dňa 20.05.2013 (ďalej len „Zmluva“), na základe ktorej má
+objednávateľ zabezpečenú prevádzku DMS systému. Dodatkom č. 1 zhotoviteľ poskytol
+objednávateľovi nevýhradnú licenciu s územným rozsahom pre Slovenskú republiku, ktorá nie je
+vecne obmedzená. Zmluvné strany sa dohodli, že v prípade ak zhotoviteľ vytvorí update a/alebo
+upgrade verzií softvéru, na ktorý poskytuje pozáručnú podporu, je povinný udeliť licenciu na
+použitie diela a zároveň sa zmluvné strany dohodli, že uzatvoria dodatok k Zmluve, ktorým
+upravia vzájomné práva a povinnosti s ohľadom na akýkoľvek update alebo upgrade softvéru.
+Objednávateľ nedisponuje zdrojovým ani strojovým kódom k systému DMS Hummingbird a k
+skenovaciemu softvéru Gscan. Z uvedených dôvodov zmluvné strany uzatvárajú tento Dodatok č.
+3 (ďalej aj „Dodatok“) k Zmluve na pozáručnú podporu zo dňa 23.07.2007 v znení Dodatku č. 1 zo
+dňa 10.12.2012 a Dodatku č. 2 zo dňa 20.05.2013. Uzatvoreniu Dodatku č. 3 predchádzalo priame
+rokovacie konanie v súlade s ust. § 81 písm. b/ ods. 3 a ust. § 82 zákona č. 343/2015 Z.z.
+o verejnom obstarávaní a o zmene a doplnení niektorých zákonov, ktoré sa uskutočnilo dňa
+22.09.2017 so začiatkom o 10.00 hod. v sídle objednávateľa.
+II.
+Predmet plnenia
+Za účelom rozšírenia databázových štruktúr DMS – Hummingbird, upgrade a úprava skenovacieho
+modulu GScan sa zmluvné strany dohodli, že zhotoviteľ poskytne objednávateľovi nasledujúce
+plnenie:
+Technická špecifikácia predmetu
+
+[1]
+
+V súvislosti s rozšírením identifikačných údajov dlžníkov a pohľadávok vykoná úpravu databázových
+štruktúr elektronického archívu dokumentov (DMS), skenovacieho softvéru GScan a exportovacieho
+nástroja GViewer. Úpravu skenovacieho nástroja a upgrade GScan je potrebné vykonať z dôvodu
+prechodu na nové klientske operačné systémy (súčasne prevádzkovanú verziu GScanu nie je možné
+prevádzkovať na nových operačných systémoch Windows 8,10).
+Názov
+
+Jednotka
+
+1. Rozšírenie databázových štruktúr DMS-Hummingbird (databázy
+SKREG.Konsolidacna.DB a SkDB), úprava exportovacieho nástroja človekodeň
+GViewer, rozšírenie GScan,
+2. Licencie GScan Forms
+licencia
+
+Presná
+hodnota
+14
+6
+
+1. Rozšírenie databázových štruktúr:
+a) Do databázy SKREG. Konsolidacna. DB je potrebné doplniť nasledovné polia:
+Dbo.klient
+ID dlžníka
+RČ dlžníka
+Dátum narodenia
+Meno a Priezvisko
+Dbo.uverovyucet
+Vlna
+Pôvod
+Pôvod SK
+Dbo.Okruhy
+Okruh naplniť z poľa „Pôvod“ automatizovane
+Rozšíriť o Pôvod_SK
+b) Rozšírenie štruktúr v SkDB (Hummingbird)
+Do hlavného profilu pridať nové položky z SKREG.Konsolidacna.DB
+2. Úprava aplikácie Gviewer
+Do aplikácie Gviewer doplniť položky v zmysle bodu 1.
+3. Upgrade GScan pre použitie v nových operačných systémoch Windows 8 a 10
+Systém GScan bude nahradený produktom GScan Forms a bude rozšírený o nasledovné
+funkcionality:
+a. Generovanie PDF súborov,
+b. Rozpoznávanie čiarového kódu slúžiaceho na identifikáciu úverového prípadu
+a naplnenie indexových položiek na základe čiarového kódu,
+c. Rozšírenie exportu o nové indexačné položky v zmysle bodu 1,
+d. Generovanie PDF súborov s textovou vrstvou (možnosť fulltextového vyhľadávania),
+e. Indexácia pomocou technológie Click-To-Index – klikaním na položky v náhľade
+dokumentu sa automaticky vyplnia položky v indexeri (napr. kliknutím na dátum alebo
+číslo pohľadávky),
+f. Možnosť automatického rozpoznávania statických formulárov,
+g. Export do SharePointu (SP2010, SP2013, SP2016 a Office365),
+h. Prepracovaný imaging na vylepšenie kvality obrazu (nie je potrebný softvér tretej strany
+VRS – virtual rescan)
+i. Autorotácia,
+ii. Orezávanie,
+iii. Vyčistenie pozadia,
+[2]
+
+iv. Adaptívny threshold – kvalitná binarizácia farebných obrázkov,
+v. Detekcia farebného obrázku,
+i. Možnosť vytvorenia vlastných skenovacích úloh s exportom do iných systémov (napr. na
+filesystém, do Sharepointu alebo iných DMS systémov)
+Osobitné požiadavky na plnenie
+1. Objednávateľ požaduje služby projektového riadenia, analýzy a prípravy vývojového prostredia,
+úpravu databáz, úpravu GScan, úpravu aplikácie GViewer, testovanie a vytvorenie inštalačných
+balíčkov, nasadenie a podporu po nasadení.
+2. Dodanie licencií GScan Forms,
+
+III.
+Spôsob, miesto a čas plnenia
+1. Zhotoviteľ sa zaväzuje odovzdať objednávateľovi predmet plnenia v dohodnutom rozsahu v sídle
+objednávateľa. Zhotoviteľ dodá plnenia v rozsahu a v termínoch, ktoré sú uvedené v Prílohe č. 1
+k Dodatku - „Harmonogram prác, špecifikácie ceny za jednotlivé plnenia“. Príloha č. 1 je
+neoddeliteľnou súčasťou Dodatku.
+2. Zmluvné strany sa dohodli, že objednávateľ bude protokolárne preberať plnenie predmetu
+Dodatku na základe výzvy zhotoviteľa, pričom zmluvné strany pristúpia k podpisu
+odovzdávajúceho a preberacieho protokolu najneskôr do 7 kalendárnych dní odo dňa doručenia
+výzvy zhotoviteľom. Výzvu je postačujúce doručiť na emailovú adresu kontaktnej osoby
+objednávateľa. Protokol o odovzdaní a prevzatí predmetu plnenia musí byť datovaný a podpísaný
+oboma zmluvnými stranami. Za deň dodania plnenia sa považuje deň podpisu preberacieho
+protokolu oboma zmluvnými stranami.
+3. V prípade omeškania zhotoviteľa s plnením má objednávateľ nárok na zmluvnú pokutu vo výške
+0,01 % z ceny plnenia resp. jeho časti za každý deň omeškania. Zhotoviteľ nie je v omeškaní
+s plnením svojho záväzku vyplývajúceho pre neho z Dodatku po dobu omeškania alebo
+nespolupôsobenia či neposkytnutia súčinnosti objednávateľa v zmysle podmienok Dodatku.
+IV.
+Cena plnenia
+1. Zmluvné strany sa dohodli, že objednávateľ zaplatí zhotoviteľovi cenu za poskytnuté plnenie v
+celkovej výške 9 640,- Eur bez DPH. Táto cena predstavuje súčet cien za jednotlivé plnenia
+tvoriace predmet plnenia podľa článku 2 Dodatku. Cena je konečná, zahŕňa v sebe všetky
+náklady, ktoré vzniknú zhotoviteľovi pri plnení predmetu Dodatku alebo v súvislosti s ním ako aj
+odmenu za licenciu podľa článku V tohto Dodatku. Cenu nemožno navýšiť. Špecifikácia cien
+jednotlivých plnení podľa článku 2 tohto Dodatku je uvedená v Prílohe č. 1 k Dodatku„Harmonogram prác, špecifikácie ceny za jednotlivé plnenia“, ktorá je neoddeliteľnou súčasťou
+Dodatku.
+2. Zmluvné strany sa dohodli, že v prípade , ak by došlo zo strany zhotoviteľa k neposkytnutiu
+niektorej oddeliteľnej časti plnenia podľa čl. II tohto Dodatku, celková cena plnenia sa znižuje
+o cenu neposkytnutej časti plnenia. Zmluvné strany súhlasia s tým, že v takomto prípade je
+objednávateľ oprávnený znížiť celkovú cenu o sumu pripadajúcu na neposkytnuté plnenie aj bez
+písomného dodatku k Zmluve.
+3. Objednávateľ sa zaväzuje zaplatiť dohodnutú cenu zhotoviteľovi po podpise odovzdávacieho
+a preberacieho protokolu na základe faktúry vystavenej zhotoviteľom. Cena je splatná do 14 dní
+odo dňa doručenia faktúry objednávateľovi. Cena sa považuje za zaplatenú dňom zadania
+prevodného príkazu na úhradu.
+
+[3]
+
+V.
+Licencia
+1. V súlade s čl. III Dodatku č. 1 k Zmluve udeľuje zhotoviteľ objednávateľovi na plnenie poskytnuté
+objednávateľovi podľa čl. II tohto dodatku nevýhradnú, územne vecne a časovo neobmedzenú
+licenciu podľa ustanovení zákona č. 185/2015 Z.z. Autorský zákon. Zmluvné strany sa dohodli, že
+podmienky udelenia licencie uvedené v Dodatku č. 1 k Zmluve sa vzťahujú aj na licenciu udelenú
+k plneniu podľa tohto Dodatku č. 3.
+2. Zmluvné strany sa výslovne dohodli, že odmena za poskytnutie licencie je zahrnutá
+v celkovej cene plnenia podľa čl. IV tohto Dodatku, pričom podrobne je špecifikovaná v Prílohe č.
+1 k Dodatku - „Harmonogram prác, špecifikácie ceny za jednotlivé plnenia“.
+VI.
+Kontaktné osoby
+1. Kontaktné osoby za objednávateľa:
+
+2. Kontaktné osoby za zhotoviteľa:
+
+VII.
+Ochrana osobných údajov a informácií
+1.
+
+2.
+
+Zmluvné strany sa zaväzujú, že ak by došlo pri plnení predmetu tohto Dodatku k spracovaniu
+alebo nakladaniu s osobnými údajmi, ktoré zhromažďuje SK, a.s. vo svojich informačných
+systémoch, budú postupujú podľa zákona č. 122/2013 Z.z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon
+č. 122/2013 Z.z.“), tak aby nedošlo k porušeniu základných práv a slobôd dotknutých osôb.
+Zmluvné strany sa zaväzujú, že všetky poskytované údaje a informácie na základe tejto dohody
+sa budú považovať za dôverné a nepoužijú ich inak, než za účelom splnenia predmetu tohto
+Dodatku. Účastníci dohody sa ďalej zaväzujú že informácie a údaje v súlade so všeobecne
+záväznými právnymi predpismi nebudú sprístupňovať tretím stranám, ani svojim vlastným
+zamestnancom a zástupcom, s výnimkou tých, ktorí s týmito informáciami zabezpečujú plnenie
+pracovných úloh, vyplývajúcich z ich pracovnej náplne a budú tieto informácie chrániť. Táto
+povinnosť platí aj po ukončení platnosti tejto dohody.
+VIII.
+Záverečné ustanovenia
+
+1. Ostatné ustanovenia Zmluvy nedotknuté týmto Dodatkom sa nemenia a zostávajú v plnom
+rozsahu v platnosti
+2. Dodatok je vyhotovený v štyroch (4) rovnopisoch, z toho dva (2) rovnopisy sú určené pre
+objednávateľa a dva (2) rovnopisy sú určené pre zhotoviteľa.
+3. Dodatok nadobúda platnosť a zaväzuje účastníkov dňom jeho podpísania oboma Zmluvnými
+stranami. Dodatok nadobúda účinnosť v súlade s § 47a ods. 1 Občianskeho zákonníka dňom
+nasledujúcim po dni zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády SR.
+[4]
+
+4. Zmluvné strany vyhlasujú, že Dodatok uzavreli na základe ich slobodnej vôle, Dodatok nebol
+uzavretý v tiesni za nápadne nevýhodných podmienok, ich zmluvná voľnosť nie je obmedzená,
+Dodatok si prečítali, jeho obsahu rozumejú a na znak súhlasu Dodatok podpisujú.
+
+V Bratislave, dňa ..............
+
+V Bratislave, dňa ..............
+
+________________________
+Ing. Brian Lipták
+predseda predstavenstva
+Slovenská konsolidačná, a.s.
+
+________________________
+Ing. Rastislav Hlaváč
+konateľ
+GRADIENT ECM s. r. o.
+
+________________________
+JUDr. Martin Lipovský
+podpredseda predstavenstva
+Slovenská konsolidačná, a.s.
+
+[5]
+
+Príloha č. 1 Harmonogram prác, špecifikácie ceny za jednotlivé plnenia
+
+Práce
+Termín *
+Aktivita
+MDs
+Projektové riadenie
+1
+Analýza a príprava vývojového prostredia
+2
+Úpravy DB
+1
+Úprava GScan
+4
+Úprava Gviever
+3
+Testovanie a vytvorenie inštalačných balíčkov
+2
+Nasadenie a podpora po nasadení
+1
+Spolu 14
+
+Priebežne
+D+5
+D+7
+D+12
+D+17
+D+20
+D+35
+
+Cena za 1
+MD
+560 €
+560 €
+560 €
+560 €
+560 €
+560 €
+560 €
+
+Celkom (bez DPH)
+560 €
+1 120 €
+560 €
+2 240 €
+1 680 €
+1 120 €
+560 €
+7 840 €
+
+Licencie
+Cena za 1 ks
+300 €
+
+Aktivita
+Zmena licencii GScan (pre DMS) na GScan Forms
+
+Počet ks
+6
+
+Celkom (bez DPH)
+1 800 €
+
+* Vysvetlivky:
+D – dátum účinnosti dodatku
+D+x – dátum účinnosti dodatku + x pracovných dní
+Priebežne – počas realizácie projektu
+
+V Bratislave, dňa ..............
+
+V Bratislave, dňa ..............
+
+________________________
+Ing. Brian Lipták
+predseda predstavenstva
+Slovenská konsolidačná, a.s.
+
+________________________
+Ing. Rastislav Hlaváč
+konateľ
+GRADIENT ECM s. r. o.
+
+________________________
+JUDr. Martin Lipovský
+podpredseda predstavenstva
+Slovenská konsolidačná, a.s.
+
+[6]
+
+

@@ -1,0 +1,266 @@
+Zmluva o poskytovaní služieb č. Z201744470_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Nemocnica s poliklinikou Ilava, n.o.
+Štúrova 3, 01901 Ilava, Slovenská republika
+36119385
+2021737828
+SK2021737828
+SK 88 8330 0000 0022 0101 0765
+0907705574
+
+Dodávateľ:
+Obchodné meno:
+
+STAPRO SLOVENSKO s.r.o.
+
+Sídlo:
+
+Hroncova 3, 04001 Košice, Slovenská republika
+
+IČO:
+
+31710549
+
+DIČ:
+
+2020483982
+
+IČ DPH:
+
+SK2020483982
+
+Číslo účtu:
+
+SK89 0200 0000 0012 1814 9953
+
+Telefón:
+
+0918166720
+
+II. Predmet zmluvy
+2.1
+
+Všeobecná špecifikácia predmetu Zmluvy:
+
+2.2
+
+Názov:
+
+Integrácia konektora na služby eZdravie
+
+Kľúčové slová:
+
+software, informačný systém, eHealth, eZdravie, FONS Enterprise
+
+CPV:
+
+72212180-4 - Služby na vývoj softvéru pre zdravotníctvo; 72212750-1 - Služby týkajúce sa
+vývoja softvéru na ukladanie na archivačné médiá; 72263000-6 - Implementácia softvéru;
+72265000-0 - Konfigurovanie softvéru; 60000000-8 - Dopravné služby (bez prepravy
+odpadu)
+
+Druh/y:
+
+Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Modul pre integráciu NIS FONS Enterprise na služby Národného zdravotníckeho informačného systému „eZdravie“,
+pričom integrované budú všetky ďalej uvedené služby:DajJRUZIdentifikator_GW_v2, DajOUPZS_v1,
+DajEIIdentifikacnyPredmetPrZS_GW_v2, DajZPr_v1, OverVerziuCiselnikov_v1, DajZP_PrZS_GW_v2,
+DajRodneCisloPrZS_GW_v2, ZapisSuhlasOsobyPrePZS, ZapisZaznamOVysetreni_v3, DajZaznamOVysetreni,
+VyhladajZaznamyOVysetreniach, ZapisZaznamOVysetreni, VyhladajZaznamyOVysetreniPreZiadatela,
+ZapisPacientskehoSumaruKontaktneUdaje, ZapisPacientskehoSumaruVarovania,
+ZapisPacientskehoSumaruOsobnaAnamneza,
+•
+
+ZapisPacientskehoSumaruOsobnaAnamneza, ZapisPacientskehoSumaruZdravotneProblemy,
+ZapisPacientskehoSumaruSocialnaAnamneza, ZapisOckovanie,ZapisReakcieNaOckovanie,
+ZapisPacientskehoSumaruVysetrenia, ZneplatniMedikacnyZaznam, StornujMedikacnyZaznam,
+ZapisMedikacnyZaznam, ZapisPacientskehoSumaruPorodnickaAnamneza, DajPacientskySumar,
+DajPacientskySumarKontaktneUdaje_v2, ZrusZapisZPacientskehoSumaru, VyhladajUdajeOUP,
+VyhladajDoplnujuceInformacie, VyhladajZaznamyEZKTlac, VyhladajKontaktneAICEUdaje,
+VyhladajUzvanieVolnopredajnychLiekov.
+
+• Služby v časti eRecept: ZapisERecept – nahradiť riešením eRecept VšZP, Dôvera, Union; StornujERecept – nahradiť
+riešením eRecept VšZP, Dôvera, Union; ZneplatniERecept – nahradiť riešením eRecept VšZP, Dôvera, Union;
+VyhladajERecepty – nahradiť riešením eRecept VšZP, Dôvera, Union.
+• Integračný modul bude nevyhnutne riešený takým spôsobom, aby užívateľ nemusel opustiť aplikáciu NIS FONS
+Enterprise.
+• Integračný modul bude nevyhnutne riešený takým spôsobom, aby užívateľ nemusel informácie zapisovať duplicitne,
+najmä ambulantný nález, prepúšťaciu správu a pacientsky sumár.
+
+Strana 1 z 3
+
+• Integračný modul musí umožniť prácu v NIS FONS Enterprise aj v prípade nedostupnosti služieb NZIS “eZdravie”, t.j.
+užívateľ môže plnohodnotne pracovať v NIS, ošetrovať pacientov a tlačiť zdravotnú dokumentáciu pre pacienta, či
+využiť archívne údaje.
+• Integračný modul musí umožniť prácu v NIS FONS Enterprise aj v prípade, že lekár nevloží kartu zdravotníckeho
+pracovníka do čítačky, t.j. užívateľ môže plnohodnotne pracovať v NIS, ošetrovať pacientov a tlačiť zdravotnú
+dokumentáciu pre pacienta, či využiť archívne údaje.
+• Integračný modul musí umožniť spätné odoslanie nálezov, ktoré do NZIS “eZdravie” neboli odoslané z rôznych
+dôvodov (napr. nedostupnosť služieb, nevložená karta, nefunkčná čítačka).
+• Integračný modul musí poskytnúť prehľad, ktoré správy boli odoslané do NZIS “eZdravie” a ktoré zostali uložené len v
+lokálnej databáze NIS FONS Enterprise.
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+2.4
+
+Minimum
+
+Maximum
+
+Presne
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy a konfigurácie na mieste plnenia podľa určenia objednávateľa predmetu zákazky.
+Vrátane inštalačných a konfiguračných prác v aplikačnom programovom vybavení NIS FONS Enterprise a testovania v
+potrebnom rozsahu.
+Objednávateľ predmetu zákazky požaduje predložiť podrobný štruktúrovaný rozpočet s konkrétnym návrhom riešenia
+dodávateľa predmetu zákazky do 3 pracovných dní od uzavretia zmluvy.
+Objednávateľ predmetu zákazky požaduje predložiť platné certifikáty ISO 9001 a ISO 27001 dodávateľa predmetu zákazky,
+čestné prehlásenie o spôsobilosti dodávateľa predmetu zákazky potvrdené výrobcom aplikačného programového vybavenia
+NIS FONS Enterprise do 3 pracovných dní od uzavretia zmluvy.
+Objednávateľ predmetu zákazky si vyhradzuje právo, že v prípade reklamácie dodaného tovaru neopustia žiadne dáta sídlo
+verejného obstarávateľa.
+Objednávateľ predmetu zákazky si vyhradzuje právo odmietnuť prevziať poškodený predmet zákazky alebo predmet zákazky,
+ktorý nebude dodaný v zmysle funkčnej a technickej špecifikácie predmetu zákazky, uvedenej v zmluve. Takýto predmet
+zákazky objednávateľ predmetu zákazky nebude akceptovať a má právo odstúpiť od zmluvy. Následne objednávateľ predmetu
+zákazky vyhotoví negatívnu referenciu dodávateľovi predmetu zákazky.
+Objednávateľ predmetu zákazky si vyhradzuje právo odmietnuť prevziať poškodený predmet zákazky. Výška storno poplatkov,
+ktorú si môže nárokovať dodávateľ predmetu zákazky je vo výške 0% z hodnoty takto vráteného predmetu zákazky.
+Objednávateľ predmetu zákazky požaduje, aby zmluvná cena v sebe zahŕňala aj dopravné náklady, vrátane doručenia a
+vyloženia predmetu plnenia, poistenie prepravy, poistenie pre prípad škody spôsobenej treťou osobou v priestoroch
+dodávateľa.
+Nedodržiavanie ktorejkoľvek podmienky a požiadavky objednávateľa predmetu zákazky uvedenej v Opisnom formulári sa
+bude považovať na podstatné porušenie zmluvných podmienok. Objednávateľ predmetu zákazky si vyhradzuje právo na
+odstúpenie od zmluvy a vyhotovenie negatívnej referencie dodávateľovi predmetu zákazky.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Trenčiansky
+
+Okres:
+
+Ilava
+
+Obec:
+
+Ilava
+Strana 2 z 3
+
+Ulica:
+3.2
+
+Štúrova 3
+
+Čas / lehota plnenia zmluvy:
+18.09.2017 00:00:00 - 31.12.2017 07:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 7 998,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 08.09.2017 10:38:01
+Objednávateľ:
+Nemocnica s poliklinikou Ilava, n.o.
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+STAPRO SLOVENSKO s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 3 z 3
+
+

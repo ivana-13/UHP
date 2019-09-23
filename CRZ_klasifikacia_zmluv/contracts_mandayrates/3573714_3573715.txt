@@ -1,0 +1,1013 @@
+Kúpna zmluva č. Z201830388_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Fakultná nemocnica s poliklinikou Žilina
+ul.Vojtecha Spanyola 43, 01207 Žilina, Slovenská republika
+17335825
+2020699923
+SK2020699923
+SK 32 8180 0000 0070 0028 0470
++421 415110193
+
+Dodávateľ:
+Obchodné meno:
+
+ReFoMa, s.r.o.
+
+Sídlo:
+
+Dolné Rudiny 1, 01001 Žilina, Slovenská republika
+
+IČO:
+
+43892345
+
+DIČ:
+
+2022541378
+
+IČ DPH:
+
+SK2022541378
+
+Číslo účtu:
+Telefón:
+
++421907612844
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Serverový cluster s príslušenstvom
+
+Kľúčové slová:
+
+server cluster, virtualizácia serverovej infraštruktúry
+
+CPV:
+
+48821000-9 - Sieťové servery; 72263000-6 - Implementácia softvéru; 79131000-1 Dokumentačné služby; 60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Serverový cluster s príslušenstvom alebo ekvivalent
+
+Funkcia
+Zvýšenie bezpečnosti: GDPR nariadenie Európskej únie kladie zvýšené požiadavky na zabezpečenie údajov. Súčasný stav je
+nevyhovujúci, neexistuje centrálne riadenie bezpečnosti, sledovanie siete, neexistuje doména. Používatelia využívajú len
+lokálne heslá, ktoré navzájom zdieľajú. Individualizovať prihlasovanie bez možností, ktoré poskytuje doména by vyžadovalo
+zvýšenie nákladov na pracovné sily.
+Zvýšenie stability systémov a rýchlosti spracovania: Navrhované riešenie zabezpečí mimoriadne vysokú stabilitu informačných
+systémov a v prípade výpadku jednej časti druhá časť bude schopná zabezpečiť plnú prevádzku.
+Technické vlastnosti
+
+Jednotka
+
+ETAPA č. 1 = Konsolidácia serverov, nainštalovanie
+Active Directory a pilotná prevádzka AD: 1. HPE
+Ethernet 10G 2p 546FLR-SFP+ Adaptér
+
+ks
+
+3
+
+2. HP 32GB (1x32GB) Dual Rank x4 DDR4-2400
+CAS-17-17-17 Registered Memory Kit
+
+ks
+
+6
+
+3. NTAP HW: E2800A,8GB Cntrlr,No HIC,16Gb
+FC,2-pt,-C
+
+ks
+
+1
+
+4. NTAP SW: OS
+Enable,Per-21TB,SANTRCTY,Perf-Stor,0E,-C
+
+ks
+
+1
+
+5. Vmware vSphere 6 Essential plus 3x2CPU
+
+ks
+
+1
+
+Strana 1 z 11
+
+Minimum
+
+Maximum
+
+Presne
+
+6. Win Server 2016
+
+ks
+
+3
+
+7. Win 2016 CAL per device
+
+ks
+
+50
+
+8. Networking, Switch, S1720X-16XWR(16 10 Gig
+SFP+,AC 110/220V)-Co-Care Basic 9x5xNBD-S
+Service-12Month
+
+ks
+
+2
+
+9. Prepojovací 10Gbps kábel s SFP + koncovkami
+
+ks
+
+12
+
+10. Server HP380G9 s 1CPU a 1RAM
+
+ks
+
+1
+
+ETAPA č. 2 = Zabezpečenie siete pomocou
+hardvérového FW a upgrade core prepínačov: 1. HPE
+Ethernet 10G 2p 546FLR-SFP+ Adptr
+
+ks
+
+3
+
+2. FortiGate 500E, HW + 8x5 UTM Protection 1YR
+
+ks
+
+2
+
+3. FortiAnalyzer VM, Base License
+
+ks
+
+1
+
+4. FortiAnalyzer VM, 1 GB Logs/Day Add-on
+
+ks
+
+1
+
+5. FortiAnalyzer VM, 24x7 FortiCare (for 1-6 GB
+Logs/Day) 1YR
+
+ks
+
+1
+
+6. FortiSwitch-1024D, HW only
+
+ks
+
+2
+
+7. FortiSwitch-1024D, 8x5 FortiCare 1YR
+
+ks
+
+2
+
+8. Prepojovaci 10Gbps kabel s SFP + koncovkami
+
+ks
+
+10
+
+ETAPA č. 3 = Záloha serverov a ukončenie pilotnej
+prevádzky AD: 1. QNAP TS-531X-2G
+
+ks
+
+1
+
+2. WD Red 3,5" HDD 6,0TB IntelliPower RPM 64MB
+SATA 6Gb/s
+
+ks
+
+4
+
+3. Veeam Backup Essentials Enterprise 2 socket bundle
+for VMware
+
+ks
+
+1
+
+4. 1additional year for Veeam Backup Essentials
+Enterprise 2 socket bundle fVMware
+
+ks
+
+1
+
+5. Win Server 2016
+
+ks
+
+2
+
+6. Win 2016 CAL per device
+
+ks
+
+550
+
+7. Prepojovací 10Gbps kábel s SFP + koncovkami
+
+ks
+
+4
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. ETAPA = KONSOLIDÁCIA SERVEROV,
+NAINŠTALOVANIE ACTIVE DIRECTORY A PILOTNÁ
+PREVÁDZKA ACTIVE DIRECTORY
+1. HPE Ethernet 10G 2p 546FLR-SFP+ Adaptér:
+Kompatibilita so serverom HP380G9. Rýchlosť prenosu
+dát: dva porty, každý 20Gbps obojsmerne, 40 Gbps
+agregovaná obojsmerná teoretická šírka pásma. Typ
+zbernice: PCI Express v3.0 (Gen 3) x8. Výkon:
+Maximálne 7W. Kompatibilné operačné systémy:
+Windows:Microsoft Windows Server 2012, 2012 R2,
+2008 R2 w/ SP1 (x64)Microsoft Windows Hyper-V 2008
+R2 w/SP1, 2012, 2012 R2; Linux: Red Hat Enterprise
+Linux 6.5 SUSE Linux Enterprise Server 11, SP3
+(x64)HyperVisors:VMware ESXi 5.1 U2, 5.5 U1Citrix
+XenServer 6.5 (Creedence)Citrix XenServer (Naples)
+(x64).
+
+IEEE štandardy: 802.3ae, 802.1Q, 802.3x, 802.1p, 802.3ad/LACP,
+802.1AB(LLDP), 802.1Qbg, 802.1Qbb, 802.1Qaz.
+
+2. HP 32GB (1x32GB) Dual Rank x4 DDR4-2400
+CAS-17-17-17 Registered Memory Kit: Kompatibilné so
+serverom HP380G9. Typ operačnej pamäte: DDR4
+SDRAM. Kapacita: 32GB. Typ modulu: Registered
+DIMM. Ranking: Dual Rank. Rýchlosť pamäte:
+2400MHz. Časovanie: CL 17. Počet pinov: 288. Napätie:
+1.20 V.
+
+Strana 2 z 11
+
+3. NTAP HW: E2800A,8GB Cntrlr,No HIC,16Gb
+FC,2-pt,-C & 4. NTAP SW: OS
+Enable,Per-21TB,SANTRCTY,Perf-Stor,0E,-C: Veľkosť:
+2U. Dual controller prevedenie: Áno. Cache systému per
+ctrl: 8 GB / ochrana batériou pre prípad výpadku
+napájania. Počet diskových pozícií: Min. 24,
+rozšíriteľnosť minimálne do 180 ks diskov. Minimálna
+veľkosť : 21TB dátového úložiska. Podporované disky:
+900GB, 1.2/1.8TB SAS; 1.8TB SAS 10K FIPS; 800GB,
+1.6/3.2TB SSD; 1.6TB SSD FIPS; 2,5” (10k rpm), 3,5”
+(7,2k rpm) a SSD. Systémová pamäť (RAM): Minimálne
+16GB.
+
+Počet portov na každý radič: 4x SFP+ Combo portov s možnosťou
+16Gbps FC alebo 10Gb iSCSI.
+
+Systémové minimá: Počet hostov: 250; Kópie
+snapshot-ov: 510; Počet mirror-ov: 30; Dostupnosť
+99,9%; 75TB RAW kapacity diskov na jedno zariadenie;
+Podpora 170 diskov; Podpora rozšírenia o ďalšie “shelf”.
+Počet radičov: Minimálne 2 s 8GB cache každý.
+Pripojiteľnosť k hostom: 8 portov 12Gb SAS.
+Škálovateľnosť pripojenia k hostom: možnosť pridať
+ďalšie 4 porty FC 16Gb/ iSCSI 10GbE, prepínanie medzi
+identitou portov FC a iSCSI prostredníctvom sw kľúčov
+bez potreby zmeny hardvéru. Napájacie káble: 2 ks rack
+káble, 2m, C14-C13 koncovka. Host káble: 4 ks miniSAS
+HD-miniSAS HD, SAS3, 5m.
+
+Podporované funkcionality: Možnosť vytvárania snapshotov a
+klonov LUN-ov s možnosťou vytvárania viacerých konzistentných
+skupín na úrovni jednotlivých aplikácií.
+
+Licenčné pokrytie: Uvedenú funkcionalitu poskytuje s
+kapacitne a časovo neobmedzeným licenčným pokrytím.
+Možnosť vytvárania väčších LUN ako 2TB, pričom
+uvedenú funkcionalitu poskytuje s kapacitne, časovo
+neobmedzenou licenciou. Bezodstávková prevádzka:
+Diskové pole musí umožňovať upgrade firmware
+diskového poľa (vrátane firmware diskov) bez odstávky
+diskového poľa. Diskové pole musí umožňovať aj
+dynamické rozširovanie diskových skupín, dynamické
+zväčšovanie LUNov a dynamickú zmenu RAID skupiny.
+Podpora tieringu: Áno.
+
+Cloudové služby: Možnosť zálohovania/restore do private/public
+cloudu prostredníctvom S3 protokolu. Napájanie a chladenie: Plne
+redundantné, zdroje a ventilátory typu hot-swap.
+
+Podpora replikácie(cez IP a FC): áno, synchrónna aj
+asynchrónna. Podpora RAID: 0, 1, 5, 6, a 10; v prípade
+použitia veľkokapacitných diskov možnosť vytvárania
+diskových poolov pre rýchlu rekonštrukciu paritných
+informácií. HA vlastnosti: Dvojitý aktívny kontrolér s
+automatickým prepnutím zlyhania I/O cesty. Automatické
+rozloženie záťaže a kontrola konektivity. Automatický
+reštart po zlyhaní. Podporované operačné systémy
+hostov: Microsoft Windows Server, Red Hat Enterprise
+Linux, Novell SUSE Linux Enterprise Server, Apple Mac
+OS, Oracle Solaris, HPE HP-UX, CentOS Linux, Oracle
+Enterprise Linux,
+
+IBM AIX,VMware ESX. Možnosti systému: Zabezpečenie údajov
+(T10-PI); Dynamické rozšírenie objemu; Dynamické rozšírenie
+kapacity a kontrakcia; Dynamická migrácia na úrovni RAID;Monitor
+udalostí systému.
+
+5. Vmware vSphere 6 Essential Plus + Basic Support na
+1 rok: Bundle licencia na VMware vSphere v6 na
+3servery s 2CPU.
+6. Win Server Standard 2016: Licencia na Windows
+Server 2016 Standard Core – OLP 16 Core NL
+7. Win 2016 CAL per device: Licencia na Windows 2016
+CAL na zariadenie.
+8. Networking, Switch, S1720X-16XWR(16 10 Gig
+SFP+,AC 110/220V)-Co-Care Basic 9x5xNBD-S
+Service-12Month: Veľkosť: 1U Rack Prepínač. Počet
+portov a prepínací výkon: Potrebné 16 x SFP+ portov;
+Prepínacia kapacita aspoň: 600 Gbit/s; Prepínací výkon
+aspoň: 200 Mpps. Administrácia: Webové rozhranie pre
+správu zariadenia; reset/reboot button = tlačídlo pre
+restart zariadenia či reset do factory default. Služby:
+Podpora ACL, RADIUS autentifikácie, 802.1X, VLANs;
+Podpora routovacích protokolov RIP, OSPF; Podpora 4k
+aktívnych VLAN; 32K MAC záznamov.
+9. Prepojovací 10Gbps kábel s SFP + koncovkami: 5m
+dlhé prepojovacie pasívne Twinax káblov 24AWG
+10Gbps s koncovkami SFP+
+
+Strana 3 z 11
+
+10. Server HP380G9 s 1CPU a 1RAM: Maximálna
+veľkosť: 2U Rack Server. HW požiadavky: Procesor Intel
+Xeon verzie 4 s výkonom minimálne 2.0 GHz
+(Maximálne 8 jadier); Potrebná pamäť RAM: 4x32GB
+(128GB DDR4); štyri 1GbE porty vstavané na základovej
+doske; 3x300GB SAS 10k SFF; osobitný port na
+pripojenie vzdialenej správy servera; tri USB3.0 portov;
+Podpora 12Gb/s SAS diskov a 40Gb NIC; Podporovaná
+disková kapacita aspoň 2.5TB a možnosť vloženia
+aspoň 8 diskových jednotiek; Možnosť rozšírenia o
+minimálne 3x PCIe sloty; dva 500W zdroje; 4 HotPlug
+ventilátory; Uchytenie do racku;
+
+Maximalne 2000BTU/hodinu pri 240V; DVD-RW. SW podpora:
+Podpora pre VMware ESX, Windows Server 2016. Služby:
+Možnosť šifrovania dát na HDD bez potreby inštalácie
+dodatočného HW.
+
+..........................................................................................
+........................
+
+...............................................................................................
+
+2. ETAPA = ZABEZPEČENIE SIETE POMOCOU
+HARDVÉROVÉHO FW A UPGRADE CORE
+PREPÍNAČOV
+1. HPE Ethernet 10G 2p 546FLR-SFP+ Adptr:
+Kompatibilita so serverom HP380G9. Rýchlosť prenosu
+dát: dva porty, každý 20Gbps obojsmerne; 40 Gbps
+agregovaná obojsmerná teoretická šírka pásma. Typ
+zbernice: PCI Express v3.0 (Gen 3) x8. Výkon:
+Maximálne 7W. Kompatibilné operačné systémy:
+Windows:Microsoft Windows Server 2012, 2012 R2,
+2008 R2 w/ SP1 (x64)Microsoft Windows Hyper-V 2008
+R2 w/SP1, 2012, 2012 R2; Linux: Red Hat Enterprise
+Linux 6.5 SUSE Linux Enterprise Server 11, SP3
+(x64)HyperVisors:VMware ESXi 5.1 U2, 5.5 U1Citrix
+XenServer 6.5 (Creedence)Citrix XenServer (Naples)
+(x64).
+
+IEEE štandardy: 802.3ae, 802.1Q, 802.3x, 802.1p, 802.3ad/LACP,
+802.1AB(LLDP), 802.1Qbg, 802.1Qbb, 802.1Qaz.
+
+2. FortiGate 500E, HW + 8x5 UTM Protection 1YR:
+Rozhrania a moduly: Minimálne 2 x GE SFP+ slot; 8 x
+GE RJ45 rozhranie; 8 x GE SFP slot; 2 x GE RJ45
+rohranie pre manažment; Minimálne 2 x USB port; 1 x
+RJ45 Konzolový port. Výkon systému a priepustnosti:
+Minimálna IPv4 priepustnosť(1518 / 512 / 64 byte, UDP):
+35 / 35 / 30 Gbps; Minimálna IPv6 priepustnosť(1518 /
+512 / 64 byte, UDP): 35 / 35 / 30 Gbps; Maximálne
+oneskorenie (64 byte, UDP): 2 μs; Priepustnosť (Paket
+za sekundu): 33 Mpps; Súčasné spojenia (TCP): 8
+milión spojení; Nové spojenia / sekunda (TCP): 300 000;
+
+Maximálny počet pravidiel: 11000; Ipsec VPN priepustnosť (512
+byte): 20Gbps; Minimálny počet IPsec Gateway-to-Gateway
+spojení: 1800; Maximálny počet IPsec Client-to-Gateway spojení:
+50 000;
+
+SSL-VPN priepustnosť: 5 Gbps; Maximálny počet
+súčasných SSL-VPN užívateľov: 500; Priepustnosť pri
+SSL inšpekcii: 6,8 Gbps; CAPWAP priepustnosť (1444
+byte, UDP): 18Gbps. Redundacia (HA): Active-Active,
+Active-Passive, Clustering. Služby: Služby VPN
+zahrnuté v cene Firewall-u; Možnosť modulárneho
+rozšírenia Firewall-u prostredníctvom prepínačov;
+Vstavaná funkcia bezdrôtového kontroléra; NGFW
+funkcionality. Záruka: 1 rok 8x5 záruka.
+3. FortiAnalyzer VM, Base License, & 4. FortiAnalyzer
+VM, 1 GB Logs/Day Add-on, & 5. FortiAnalyzer VM,
+24x7 FortiCare (for 1-6 GB Logs/Day) 1YR): Popis
+zariadenia: Zariadenie ,ktoré súčasne integruje nástroje
+pre analýzu siete, logovanie sieťovej prevádzky a nástroj
+pre vytváranie cieľových reportov zo získaných dát.
+Ďalej slúži na centralizovanú analýzu bezpečnostných
+udalostí, forenzný výskum siete, reportovací nástroj,
+archiváciu dát prechádzajúcich sieťou, karanténu pre
+nebezpečné a infikované súbory, e-maily, instant
+messaging a vulnerability management.
+
+Zariadenie je potrebné dodať vo verzií VM. Zariadenie musí
+spracovať minimálne 1 GB logov /deň pri kapacite disku 500 GB.
+
+Záruka: 1 rok (24/7). Kľúčové vlastnosti: Možnosť
+spravovať zdroje, ktoré využíva Analýzer
+prostredníctvom dodaného firewall-u. Korelácia
+sieťových udalostí. Vytváranie, štandardizovanie, úprava
+zjednodušených reportov. Škálovateľný výkon a
+kapacita. Plný rozsah záznamov logov - zahrňuje
+filtrovanie sieťovej prevádzky, udalostí, vírusov, útokov,
+webového obsahu a filtrovanie dát v emailoch.
+
+Strana 4 z 11
+
+6. FortiSwitch-1024D, HW only & 7. FortiSwitch-1024D,
+8x5 FortiCare 1YR: Veľkosť: 1U. Rozhrania: Musí vedieť
+pracovať ako modulárne rozšírenie pre firewall; Počet
+sieťových portov – 24x GE/10 GE SFP+; 10/100/1000
+Service port – 1x; RJ-45 sériový konzolový port – 1x.
+Výkon systému a priepustnosti: Prepínacia kapacita –
+minimálne 480 Gbps; Pakety za sekundu – minimálne
+714 Mpps; Počet uložených MAC adries – minimálne
+128000; Sieťová latencia - < 1us; Podporovaný počet
+VLAN – minimálne 4000; Paketový buffer – aspoň 9 MB.
+
+Hardvérove požiadavky: Pamäť DRAM – minimálne 2 GB; Pamäť
+NAND – minimálne 128 MB; MTBF – viac ako 10 rokov;
+Prevádzková teplota – 0-40 stupňov celzia.
+
+Služby: Statický routing (Hardware-based) – áno;
+Dynamické routovacie protokoly – OSPFv2, RIPv2,
+VRRP; DHCP Relay – áno; Port Mirroring – áno. Záruka:
+1 rok (8x5xNBD).
+8. Prepojovaci 10Gbps kabel s SFP + koncovkami: 5.5m
+dlhé prepojovacie káble Twinax káble 24AWG 10Gbps s
+koncovkami SFP+.
+..........................................................................................
+........................
+
+...............................................................................................
+
+3. ETAPA = ZÁLOHA SERVEROV A UKONČENIE
+PILOTNEJ PREVÁDZKY ACTIVE DIRECTORY
+1. QNAP TS-531X-2G: Porty: 2x 10 Gigabit SFP+; 2x
+Gigabit RJ45; 3 x USB 3.0. Hardvérové požiadavky:
+Systémová pamäť: minimálne 2GB DDR3; Maximálna
+pamäť: minimálne 16 GB; Pamäťové sloty: minimálne 2
+x SODIMM DDR3; Flash pamäť: minimálne 512 MB; Typ
+diskov: 5 x 3,5” SATA 6Gb/s HDD alebo 5 x 2,5” SATA
+6Gb/s HDD; PCIe slot: 1 x PCIe Gen2 (x2); LED:
+Status/Power, LAN, USB, HDD; Tlačidlo: Power, Reset;
+Prevádzková teplota: 0 – 40 stupňov celzia; Úroveň
+hluku: maximálne 22.8 dB(A); Napájanie: ATX 250W,
+100-240V AC, 50 – 60Hz, 3.5A. Softvérové požiadavky:
+
+Možnosti úložiska: RAID 0, 1 ,5 ,6 ,10; RAID recovery; Podpora
+snapshot-ov. Power management: Vnútorný HDD standby;
+Plánovanie vypnutia/zapnutia; Automatické zapnutie po obnovení
+napájania.
+
+Podporované klientské OS: Apple Mac OS 10.7 alebo
+novší; Linux a UNIX; Microsoft Windows 7,8 a 10;
+Microsoft Windows Server 2003, 2008 R2, 2012, 2012
+R2 a 2016. Sieť: TCP/IP (IPv4 a IPv6); NIC s Jumbo
+frame (failover, multi-IP settings, port trunking/NIC
+teaming); Proxy klient; Protokoly: CIFS/SMB, AFP
+(v3.3), NFS(v3), FTP, FTPS, SFTP, TFTP, HTTP(S),
+Telnet, SSH, iSCSI, SNMP, SMTP, and SMSC.
+Bezpečnosť: Ochrana sieťového prostredia s
+automatickým blokovaním: SSH, Telnet, HTTP(S), FTP,
+CIFS/SMB, AFP; CIFS kontrola prístupu pre zdieľané
+priečinky;
+
+AES 256-bit objemové šifrovanie dát; Importovateľné SSL
+certifikáty; Dvoj-kroková verifikácia.
+
+2. WD Red 3,5" HDD 6,0TB IntelliPower RPM 64MB
+SATA 6Gb/s: Optimalizované pre využitie v NAS.
+Kapacita: minimálne 5000 GB. Rozhranie: Serial ATA III
+– SATA 6Gb/s. Vyrovnávacia pamäť (Cache): 64 MB.
+Prenosová rýchlosť: 6 Gb/s. Rýchlosť otáčok:
+IntelliPower. Hluk: Činnost: 28 dB(A); Nečinnosť: 25
+dB(A). Maximálna spotreba: Čítanie, zápis: 4,60 W;
+Pokoj: 3,50 W; Úsporný režim: 0,80 W; Spánok: 0,60 W;
+Typ disku: 3,5 ".
+3. Veeam Backup Essentials Enterprise 2 socket bundle
+for VMware & 4. 1additional year for Veeam Backup
+Essentials Enterprise 2 socket bundle fVMware:
+Všeobecné požiadavky: Zálohovací software musí
+podporovať infraštruktúru VMware založenú na verziách
+vSphere 4.1, 5.0, 5.1, 5.5, 6.0 a Hyper-V 2012, Hyper-V
+2012 R2 a Hyper-V 2016 (podpora *.vhdx). Všetky nižšie
+popísané funkcionality musia byť splnené pre všetky
+spomínané verzie Hypervízorov. Software podporuje
+ESXi servery spravované pomocou VMware vCenter
+Serverov a samostatné ESXi servery Software
+podporuje Hyper-V servery spravované
+
+pomocou System Center Virtual Machine Managerem a
+samostatné Hyper-V servery.
+
+Strana 5 z 11
+
+Služby: Softvér musí podporovať abstrakčnú vrstvu pre
+vytváranie škálovateľného zálohovacieho adresára
+(single virtual pool) zloženého z troch extentov. Softvér
+musí podporovať priamou integráciu s VMware vCloud
+Director 5.1, 5.5, 5.6, 8.0, 8.10 a archívovať vCD
+metadata. Softvér poskytuje správu kľúčov a možnosť
+obnovy v prípade straty hesla k šifrovanému
+zálohovaciemu súboru. Softvér musí podporovať
+vytváranie archívu záloh na páskove knižnice s
+podporou trackovania VM na páskách. Potreba
+využívania výhod protokolu EMC DDBOOST v prípade
+použitia EMC DataDomain ako zálohováci adresár.
+
+Softvér musí využívať výhody protokolu Catalyst v prípade použitia
+HP StoreOnce ako zálohovací adresár.
+
+Softvér musí umožňovať indexovanie súborov z
+Microsoft a Linux VM, ktorá poskytuje rýchle
+vyhľadávanie súborov a záloh. Potrebná možnosť
+vytvárania izolovaného prostredia pre VMware a
+Hyper-V infraštruktúru spustením VM priamo zo zálohy.
+Podpora pre zálohu virtuálnych staníc. Dostupné funkcie
+vo forme agenta aj pre Microsoft aj Linux. Replikácia
+virtuálnych staníc pre podporu vysokej dostupnosti (HA).
+Obnovenie VM zo zálohy musí trvať menej ako 2 minúty.
+Automatické testovanie a overovanie jednotlivých záloh
+a virtuálnych staníc pre prípadne obnovenie.
+
+Potrebná integrácia s Microsoft Active Directory, Microsoft
+Exchange.
+
+5. Win Server Standard 2016: Licencia na Windows
+Server 2016 Standard Core – OLP 16 Core NL.
+6. Win 2016 CAL per device: Licencia na Windows 2016
+CAL na zariadenie.
+7. Prepojovací 10Gbps kábel s SFP + koncovkami: 5m
+dlhé prepojovacie pasívne Twinax káble 10Gbps s
+koncovkami SFP+ na prepojenie diskového poľa
+uvedeného v položke 2 so súčasnou infraštruktúrou.
+..........................................................................................
+........................
+
+...............................................................................................
+
+PRÁCE V JEDNOTLIVÝCH ETAPÁCH
+PRÁCE V 1. ETAPE (KONSOLIDÁCIA SERVEROV,
+NAINŠTALOVANIE ACTIVE DIRECTORY A PILOTNÁ
+PREVÁDZKA ACTIVE DIRECTORY): Analýza
+súčasného stavu, Konfigurácia diskového poľa
+(osadenie do racku; konfigurácia IP adries; konfigurácia
+failover medzi radičmi na dosiahnutie vysokej
+dostupnosti; konfigurácia 2 LUN o veľkosti určenej
+zákazníkom), Konfigurácia Switchov (osadenie do
+racku; konfigurácia manažmentovej IP adresy;
+prepojenie prepínaču s diskovým poľom; prepojenie
+prepínaču s už terajšími servermi), Konfigurácia
+VMware(nainštalovanie do virtualizovaného prostredia;
+nakonfigurovanie Clusteru
+
+v centrálnom manažmentu; pripojenie serveru do centrálneho
+manažmentu; nakonfigurovanie pripojenia serverov do
+infraštruktúry Nemocnice; nakonfigurovanie vMotion na porty;
+
+nakonfigurovanie pripojenia dát. úložiska a pripojenie
+vytvorených 2LUN), Konfigurácia ActiveDirectory =
+Nainštalovanie VMware ESX v6.5 na 3 serveroch
+HP380G9 s následnou konfiguráciou (nainštalovanie
+VMware ESX v6.5 na 3 serveroch; pridanie 3 serverov
+do centrálneho manažmentu vmWare; nakonfigurovanie
+pripojenia serverov do infraštruktúry Nemocnice;
+nakonfigurovanie vMotion na portoch; nakonfigurovanie
+pripojenia na dátové úložisko),
+
+Migrácia Serverov na VM (Migrácia 3 fyzických serverov do
+virtualizovaného prostredia), Implementácia=1. Server(osadenie
+do racku; pripojenie do prepínačov;
+
+inštalácia VMware ESX v6.5), 2. Inštalácia a
+konfigurácia doménovej štruktúry postavenej na
+Windows Server 2016 Standard (inštalácia 2 virtuálnych
+serverov s OS Windows Server 2016 Standard;
+nainštalovanie a nastavenie AD DS na 2 OS Windows
+Server 2016 Standard podľa “best practise”; nastavenie
+GPO podľa “best practise”; konfigurácia DHCP servera
+na jednu sieť; Konfigurácia DNS servera), 3. Inštalácia a
+konfigurácia servera na zdieľanie dát (inštalácia
+virtuálneho servera s OS Windows Server 2016
+Standard;
+
+nastavenie základnej konfigurácie zdieľania dát; konfigurácia
+tlačovej služby spravovania tlačiarní),
+
+Strana 6 z 11
+
+Projektové riadenie, Asistencia pri migrácii do Active
+Directory (ukážka migrácie počítačov do domény na
+vybraných 5 koncových staniciach, asistencia pri
+migrácií počítačov do domény na vybraných 5
+koncových staniciach), Dokumentácia (všetky práce
+musia byť zdokumentované).
+PRÁCE V 2. ETAPE (ZABEZPEČENIE SIETE
+POMOCOU HARDVÉROVÉHO FW A UPGRADE
+CORE PREPÍNAČOV): Analýza súčasného stavu.
+Navrhnutie adresného plánu (vytvorenie nového
+adresného plánu, ktorý bude zohľadňovať potreby
+oddelenia serverovej a LAN siete s rozdelením na
+oddelenia nemocnice). Konfigurácia Firewallov
+(osadenie do racku; konfigurácia základných nastavení;
+konfigurácia portov na základe adresného plánu;
+migrácia politik zo súčasného bezpečnostného
+zariadenia postaveného na OS Linux). Migrácia
+bezpečnostného zariadenia
+
+(rekonfigurácia kariet na serveroch do novej IP siete; odstránenie
+súčasného a nahradenie novým bezpečnostným zariadením;
+vykonanie testov dostupnosti).
+
+Konfigurácia FortiAnalyzer (Inštalácia zariadenia do
+virtuálneho prostredia; Pripojenie bezpečnostných
+zariadení do zariadenia). Konfigurácia FortiAnalyzer
+(Postupné zapínanie bezpečnostných funkcií
+bezpečnostného zariadenia na politikách, Vykonávanie
+testov dostupnosti). Dokumentácia (Všetky práce musia
+byť zadokumentované).
+
+Konfigurácia switchov (osadenie do racku, konfigurácia
+prístupových portov, pripojenie 3 serverov do prepínača,
+prepojenie so súčasnou infraštruktúrou)
+
+PRÁCE V 3. ETAPE (ZÁLOHA SERVEROV A
+UKONČENIE PILOTNEJ PREVÁDZKY ACTIVE
+DIRECTORY): Konfigurácia diskového pola(osadenie do
+racku; vloženie pevných diskov; vytvorenie RAID 5;
+konfigurácia IP adries; konfigurácia 2 LUN o veľkosti
+určenej zákazníkom), Inštalácia VEEAM(inštalácia
+manažmentu na server; inštalácia agentov na súčasné
+servery; konfigurácia zálohovania serverov podľa
+požiadaviek), Testovanie a nastavenie záloh
+(otestovanie správneho zálohovania pomocou vrátenia
+verzie, alebo iného dôkazu správnosti zálohovania),
+
+Inštalácia a konfigurácia servera WSUS (inštalácia Windows
+Server 2016 Standard; inštalácia služby WSUS; konfigurácia GPO
+pre sťahovanie update z WSUS;
+
+konfigurácia automatického uvoľňovaniu záplat po 2
+týždňoch od ich vydania), Projektové riadenie,
+Dokumentácia (všetky práce musia byť
+zdokumentované).
+..........................................................................................
+........................
+
+...............................................................................................
+
+SERVISNÉ SLUŽBY PRE PODPORU DODANÉHO
+TECHNICKÉHO RIEŠENIA NA DOBU 5 ROKOV
+Pre technické riešenie žiadame dodať extra podporu v
+trvaní 16 hodín za mesiac v nasledovnom zložení:
+1. Monitoring a riešenie incidentov v rozsahu 12 hodín
+za mesiac bez možnosti preniesť nevyužité hodiny do
+ďalšieho mesiaca. Služba obsahuje nasledovné činnosti:
+Monitoring sieťových a serverových prvkov, Reakcia na
+kritický incident na sieťových a serverových prvkoch,
+Náprava kritického incidentu na sieťových a serverových
+prvkoch. Pre službu je definovaná nasledovná Dohoda o
+poskytovaní služieb(SLA): Dostupnosť služby bude 8
+hodín 5 dní v týždni, t.j. počas pracovných dní od 8:00
+do 16:00.
+
+Reakčný čas na incident počas dostupnosti bude do jednej hodiny
+od nahlásenia incidentu na mieste inštalovaného zariadenia.
+
+2. Drobné zmeny v rozsahu 4 hodín za mesiac s
+možnosťou preniesť nevyčerpané hodiny do ďalšie
+mesiaca, maximálne však 8 hodín.Služba obsahuje
+nasledovné činnosti: Aplikovanie drobných zmien podľa
+požiadaviek klienta v rozsahu určenom, pričom drobnou
+zmenou sa rozumie zmena na zariadení ktorá zásadným
+spôsobom nezmení pôvodnú funkciu a jej vykonanie
+nezaberie viac ako jednu hodinu. Pravidelný update
+firmware, patchov a pod. Pre službu je definovaná
+nasledovná Dohoda o poskytovaní služieb(SLA):
+Dostupnosť služby bude 8 hodín 5 dní v týždni,t.j. počas
+pracovných dní od 8:00 do 16:00.
+
+Reakčný čas na drobnú zmenu je nasledovný pracovný deň.
+
+Strana 7 z 11
+
+Pozn.: Cluster bude pozostávať z 3 serverov (2 staré a 1
+nový)
+2.3
+
+Servisné služby sa uskutočnia minimálne v rozsahu 8 hodín
+mesačne on-site, t.j. v priestoroch objednávateľa.
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Vrátane inštalácie na mieste plnenia a uvedenia do prevádzky
+Vrátane spravovania dodaného technického riešenia po dobu 5 rokov.
+Vrátane zaškolenia max. 3 osôb v rozsahu 1 hodiny
+Nakoľko objednávateľ použil označenie konkrétneho výrobku je možné v technickom riešení použiť ekvivalent výrobku, ale len
+za predpokladu že dodávateľ preukáže rovnaké alebo lepšie kvalitatívne vlastnosti výrobku pri dodržaní plnej funkčnej
+charakteristiky výrobku. Za ekvivalent je považovaný prostriedok rovnakých alebo lepších parametrov
+Dodávateľ v prípade dodania ekvivalentu dodá platné Vyhlásenie o zhode výrobku, ktorý preukazuje zhodnosť ekvivalentu s
+požadovanými parametrami výrobku, s doplňujúcimi dokladmi k nemu, resp. certifikáty vydané autorizovanými osobami, ktoré
+majú oprávnenie na posudzovanie zhody výrobku. Konečné posúdenie ekvivalentnosti je výlučne v kompetencii
+objednávateľa.
+Ak dodávateľ nevyužije možnosť použitia ekvivalentu a neuvedie vo svojej ponuke obchodný názov materiálu alebo výrobku,
+bude mať objednávateľ za to, že dodávateľ uvažoval s tým výrobkom, ktorého obchodný názov uviedol objednávateľ v
+technickej špecifikácii predmetu zákazky.
+Objednávateľ je v zmysle § 17 ods. 6 zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých
+zákonov prevádzkovateľom základnej služby . Uzatvorením tejto zmluvy dodávateľ berie na vedomie ,že uzatvára zmluvu so
+subjektom,ktorý je zaradený do zoznamu základných služieb a jej prevádzkovateľa do registra prevádzkovateľov základných
+služieb , z čoho pre zmluvné strany vyplývajú práva a povinnosti.
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z..
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí
+uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z.z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+Nový, doposiaľ nepoužitý krabicový softvér
+Požaduje sa do 5 pracovných dní po uzatvorení zmluvy predložiť objednávateľovi podrobný aktualizovaný rozpočet predmetu
+zákazky ,rozpis jednotkovej ceny za ks v rozsahu cena bez DPH,cena s DPH
+Požaduje sa predložiť funkčná a technická špecifikácia, vrátane technických listov preukazujúcich splnenie minimálnych
+požadovaných parametrov predmetu zákazky s uvedením presných názvov (obchodných značiek) nacenených výrobkov do 5
+pracovných dní od účinnosti Zmluvy.
+Požaduje sa predložiť Vyhlásenie o zhode a CE certifikát do 5 pracovných dní od uzatvorenia zmluvy.
+Predmet plnenia musí spĺňať všetky minimálne požadované technické vlastnosti uvedené v technickej špecifikácii.
+Spôsob, čas a miesto dodania:
+a) termín dodania resp. inštalácie je do 60 pracovných dní od účinnosti zmluvy v pracovných dňoch v čase od 7:00 hod. do
+15:30 hod.
+b) súčasťou dodávky je povinne dodací list/faktúra, ktorý obsahuje najmä súpis položiek dodaného HW a SW, jeho množstvo,
+jeho celkovú cenu bez DPH a s DPH, sadzbu DPH a číslo zmluvy, servisná dokumentácia, návod na použitie, preberací
+protokol a protokol o zaškolení obsluhy.
+c) termín dodania oznámi dodávateľ objednávateľovi najmenej 3 pracovné dni vopred na jeho emailovú adresu
+d) oprávnená osoba objednávateľa a jeho e mailová adresa pre účely dodania a prevzatia bude upresnená dodávateľovi do
+72 hod. po nadobudnutí účinnosti zmluvy
+Nedodržanie akejkoľvek podmienky a požiadavky objednávateľa uvedenej v opisnom formulári sa bude považovať za
+podstatné porušenie zmluvných podmienok.
+Dodávateľ vyhlasuje, že sa pred uzavretím tejto Zmluvy riadne oboznámil s Technickou špecifikáciou predmetu zákazky a
+Osobitými podmienkami pre plnenie predmetu zákazky.
+Zmluvné a platobné podmienky:
+
+Strana 8 z 11
+
+- Ako poskytovateľ zdravotnej starostlivosti v zmysle Obchodného zákonníka č.513/1991 Zb. §340 b) ods.5 požadujeme lehotu
+splatnosti faktúr 60 dní odo dňa doručenia Fa objednávateľovi
+- Faktúra sa vystaví dňom splnenia dodávky danej etapy. Podkladom na vystavenie faktúry je povinne dodací list/ preberací
+protokol
+- Servisné služby podpory budú faktúrované mesačných intervaloch.
+- Každá etapa bude testovaná, odovzdávaná a vyfaktúrovaná samostatne.
+Kúpna cena je stanovená ako pevná a úplná , zahŕňa kúpnu cenu, vrátane dodania do miesta dodania, vrátane jeho
+inštalácie, vrátane správy servera po dobu 5 rokov.
+Dohodnutú kúpnu cenu nie je možné zvýšiť s výnimkou zmeny zákonnej sadzby DPH. Zmena kúpnej ceny z dôvodu zvýšenia
+zákonnej sadzby DPH je možná iba po dohode zmluvných strán na základe písomného dodatku
+Dodávateľ nie je oprávnený postúpiť podľa § 524 a nasl. Zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších
+predpisov svoju pohľadávku bez súhlasu objednávateľa. Právne úkony, postúpenie pohľadávky, ktoré budú vykonané bez
+súhlasu objednávateľa alebo v rozpore s dohodou dlžníka sú s poukazom na ustanovenie §39 Občianskeho zákonníka
+neplatné.
+Sankcie:
+- V prípade omeškania dodávateľa s dodaním tovaru má objednávateľ právo požadovať od dodávateľa zmluvnú pokutu vo
+výške 0,05 % z kúpnej ceny za každý kalendárny deň omeškania , nárok na náhradu škody nie je tým dotknutý
+- Objednávateľ má nárok na voľbu nárokov uvedených v § 436 OZ ods.1 písmen. a) až e) ak ju oznámi dodávateľovi včas v
+zaslanom oznámení vád alebo bez zbytočného odkladu po tomto oznámení.
+- Objednávateľ má popri nárokoch uvedených vyššie, aj nárok na náhradu škody a zmluvnú pokutu
+Dodávateľ môže požadovať
+- úrok z omeškania vo výške aktuálnej sadzby zákonných úrokov z omeškania podľa § 369 ods. 2 a § 369a Obchodného
+zákonníka v znení zákona č. 9/2013 Z. z. v spojení s § 1 ods. 1 nariadenia vlády Slovenskej republiky č. 21/2013 Z. z.
+Ukončenie zmluvného vzťahu:
+- zmluvu možno ukončiť dohodou oboch zmluvných strán
+- zmluva môže zaniknúť okrem riadneho splnenia všetkých práv a povinností zmluvných strán z nej vyplývajúcich , na základe
+dohody zmluvných strán alebo spôsobmi uvedenými v zákone a v aktuálnych obchodných podmienkach Elektronického
+trhoviska .
+Objednávateľ môže odstúpiť od zmluvy pre podstatné porušenie zmluvy dodávateľom za:
+a) nedodržanie termínu dodania, dohodnutého v zmluve, resp. v objednávke
+b) dodanie predmetu zmluvy, ktorý nezodpovedá vlastnostiam, akosti, množstve dohodnutých v zmluve
+c) neodovzdá doklady, ktoré sú potrebné na prevzatie a na užívanie tovaru a ostatné podstatné porušenia zmluvy, ktoré
+upravujú ustanovenia ktoré upravujú ustanovenia Obchodných podmienok trhoviska
+d) ak je dodávateľ v čase plnenia zmluvy zaradený do Zoznamu s kvalifikovanými negatívnymi referenciami ( black list)
+trhoviska.
+e) nedodržanie ktorejkoľvek požiadavky objednávateľa uvedenej v tomto opisnom formulári sa bude považovať za podstatné
+porušenie zmluvných povinností dodávateľa , pričom objednávateľ :
+- ukončí s dodávateľom zmluvný vzťah v súlade s OPET z dôvodu, že dodávateľ podstatne porušil svoje povinnosti
+-vystaví dodávateľovi negatívnu referenciu v EKS,
+- vystaví dodávateľovi negatívnu referenciu pre Úrad pre verejné obstarávanie, v ktorej objednávateľ úradu pre verejné
+obstarávanie oznámi, že došlo k predčasnému ukončeniu zmluvného vzťahu z dôvodu podstatného porušenia povinností
+dodávateľom.
+Dodávateľ ako aj všetky zúčastnené osoby na strane dodávateľa sú povinní byť v momente uzatvorenia zmluvy zapísaní v
+registri partnerov verejného sektora v prípade, že im táto povinnosť vyplýva zo zákona č. 315/2016 Z. z. o registri partnerov
+verejného sektora a o zmene a doplnení niektorých zákonov.
+Pri zámene tovaru, zaslaní iného sortimentu alebo množstva môže objednávateľ odmietnuť dodávku, náklady na vrátenie
+hradí dodávateľ
+Zodpovednosť za vady:
+Dodávateľ garantuje, že dodaný tovar ( služba) bude po dobu záručnej doby spôsobilý na použitie na dohodnutý účel, resp. na
+obvyklý účel a zachová si dohodnuté, resp. inak obvyklé vlastnosti. Záruka za akosť sa vzťahuje na všetky jeho vlastnosti po
+dobu záručnej doby.
+Dodávateľ zodpovedá za vady, ktoré má tovar ( služba) v okamihu, keď prechádza nebezpečenstvo škody na tovare na
+objednávateľa aj keď sa stane zjavnou až po tomto čase
+
+Strana 9 z 11
+
+Objednávateľ je povinný oznámiť bez zbytočného odkladu dodávateľovi všetky vady zistené pri preberaní predmetu zákazky ,
+alebo bezprostredne, najneskôr do 7 dní po zistení vady, v písomnej forme prostredníctvom pošty, alebo e-mailom
+Dodávateľ je povinný oznámené vady odstrániť bez zbytočného odkladu, na vlastné náklady a bez nároku na kompenzáciu
+týchto nákladov voči objednávateľovi, pričom odstránením vád sa rozumie výlučne dodanie náhradného tovaru (služby) za
+vadný tovar ( službu) , prípadne dodanie chýbajúceho tovaru ( služby) . Týmto ustanovením nie je dotknuté právo
+objednávateľovi odstúpiť od zmluvy.
+Zodpovednosť za vady v rozsahu, ktorý nie je upravený zmluvou bude Objednávateľ riešiť v zmysle Obchodného zákonníka.
+Zmluvná strana, ako verejný obstarávateľ, si v zmluve vyhradzuje právo na zmenu zmluvy/ rámcovej dohody v zmysle § 18
+zákona o verejnom obstarávaní.
+Názov
+
+Upresnenie
+
+Minimálna záručná doba od
+dodania a spustenia do prevádzky (
+ak nie je u danej položky uvedené
+inak)
+
+24 mesiacov
+
+Servisné služby pre podporu
+dodaného technického riešenia po
+dobu 5 rokov odo dňa odovzdania
+predmetu zákazky do užívania.
+2.4
+
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Žilinský
+
+Okres:
+
+Žilina
+
+Obec:
+
+Žilina
+
+Ulica:
+
+Vojtecha Spanyola 43
+
+Čas / lehota plnenia zmluvy:
+03.08.2018 07:30:00 - 30.10.2018 15:30:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+Súhrn položiek definovaných v technickom opise
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 136 000,20 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 163 200,24 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+Strana 10 z 11
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 31.07.2018 10:38:01
+Objednávateľ:
+Fakultná nemocnica s poliklinikou Žilina
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+ReFoMa, s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 11 z 11
+
+

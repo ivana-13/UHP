@@ -1,0 +1,302 @@
+Kúpna zmluva č. Z201727809_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Slovenská konsolidačná, a.s.
+Cintorínska 21, 81499 Bratislava, Slovenská republika
+35776005
+2021483585
+SK2021483585
+SK05 8180 0000 0070 0033 5179
++421257289158
+
+Dodávateľ:
+Obchodné meno:
+
+Vision IT Solutions, a. s.
+
+Sídlo:
+
+Pribinova 25, 81109 Bratislava, Slovenská republika
+
+IČO:
+
+36815799
+
+DIČ:
+
+SK2022424008
+
+IČ DPH:
+
+36815799
+
+Číslo účtu:
+
+SK8811000000002927836056
+
+Telefón:
+
++421233553500
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Rozšírenie kapacity diskového úložiska v záložnej lokalite
+
+Kľúčové slová:
+
+diskové pole, diskové úložisko
+
+CPV:
+
+30233141-1 - Nadbytočné pole nezávislých diskov (RAID); 51611100-9 - Inštalácia
+technického vybavenia (hardvér) počítačov; 60000000-8 - Dopravné služby (bez prepravy
+odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• 1. Rozšírenie existujúceho záložného diskového poľa NetApp E2724 – obstaranie 12ks SAS diskov v zmysle
+technickej špecifikácie predmetu zákazky.
+• 2. Služby spojené s dopravou, inštaláciou a konfiguráciou rozšírenia kapacity diskových polí dodanými diskami.
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Pevné disky - 12 kusov SAS 2,5" pevných diskov s
+kapacitou 900 GB a 10 000 otáčkami/s, vymeniteľné v
+prípade závady počas prevádzky zariadenia
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Rozšírenie kapacity diskového poľa - záložná lokalita
+
+Objednávateľ požaduje dodávku HW vybavenia – pevné dátové
+disky pre diskové úložisko 100% kompatibilné s existujúcim
+zariadením NetApp E2724.
+
+Charakteristika diskov
+
+Pevné disky - 12 kusov SAS 2,5" pevných diskov s kapacitou 900
+GB a 10 000 otáčkami/s, vymeniteľné v prípade závady počas
+prevádzky zariadenia.
+
+Strana 1 z 3
+
+Minimum
+
+Maximum
+
+Presne
+12
+
+Kompatibilita
+
+Pevné disky musia byt 100% kompatibilné s existujúcim
+zariadením NetApp E2724 s originálnym firmvérom výrobcu a
+uvedené v matici kompatibility publikovanej priamo výrobcom
+existujúceho zariadenia.
+
+Montáž a konfigurácia
+
+Doprava, montáž, konfigurácia, otestovanie a implementácia
+diskového poľa do produkčného prostredia podľa požiadavky
+objednávateľa.
+
+Záruka a servisná podpora
+
+záruka 36 mesiacov, doručenie náhradného dielu najneskôr v
+nasledujúci pracovný deň po diagnostike poruchy zariadenia
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Vrátane zaškolenia max. 3 osôb v rozsahu max. 1 hodiny
+Súčasťou dodávky je doručenie predmetu plnenia, inštalačné a konfiguračné práce certifikovanými technickými
+zamestnancami dodávateľa do existujúceho prostredia v záložnom dátovom centre.
+Dodávateľ vykoná všetky analýzy a úkony nevyhnutné pre úspešný upgrade prostredia v záložnom dátovom centre a to
+minimálne v rozsahu: 1. Analýza stavu výkonu storage v záložnom dátovom centre, analýza množstva, druhu a frekvencie
+zmien a prírastkov produkčných dát určených na zálohovanie, 2. Verifikácia dostupnej voľnej kapacity diskového poľa pre
+potreby bezpečného zálohovania, 3. Aktualizácia potrebných firmvérov a ovládačov storage v záložnom dátovom centre, 4.
+Konfigurácia parametrov diskového úložiska na základe úvodnej analýzy, pokračovanie:
+5. Analýza a kontrola výkonnostných a kapacitných charakteristík jednotlivých existujúcich diskov a skupín, 6. Návrh
+optimalizácie parametrov diskového úložiska a parametrov existujúceho zálohovacieho SW VEEAM pre zálohovanie a
+replikáciu, 7. Rekonfigurácia existujúcich diskových skupín podľa špecifických požiadaviek objednávateľa, 8. Úprava
+zálohovacích plánov vzhľadom na implementované rozšírenie diskového priestoru, vrátane kontrolného obnovenia
+produkčných dát tvorených virtualizačnou platformou VMware zo záloh uložených na dodanom zariadení, pokračovanie:
+9. Sledovanie systému v pilotnej prevádzke a ladenie výkonu, 10. Akceptačné testy - návrh scenárov pre akceptačné
+testovanie, realizácia akceptačných testov, 11. Spracovanie konfiguračnej dokumentácie v rozsahu implementácie a
+aktualizácia plánov zálohovania.
+Objednávateľ požaduje dodávku výlučne nových zariadení a neakceptuje používané alebo repasované zariadenia a disky.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti zmluvy dodá vlastný návrh na plnenie predmetu zmluvy s presným
+označením a popisom ponúkaných produktov.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti zmluvy preukáže, že je certifikovaným obchodným a servisným
+partnerom NetApp s certifikáciou GOLD alebo ekvivalentu.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti zmluvy preukáže, že disponuje vlastným technickým pracovníkom
+s platným certifikátom NetApp Certified Implementation Engineer alebo ekvivalentu so skúsenosťami z implementácií min. 3
+projektov rovnakého alebo podobného predmetu zákazky.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy preukáže, že je držiteľom certifikátu minimálne na úrovni
+Veaam GoldPartner alebo ekvivalentu formou predloženia originálu.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy preukáže, že disponuje minimálne jedným vlastným
+technickým pracovníkom s platným certifikátom VEEAM - VMCE alebo ekvivalent, so skúsenosťami z implementácií min. 3
+projektov rovnakého alebo podobného predmetu zákazky.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy preukáže, že je držiteľom certifikátu VMware Solution
+Provider Enterprise alebo ekvivalentu formou predloženia originálu.
+Dodávateľ do 3 pracovných dní od nadobudnutia účinnosti Zmluvy preukáže, že disponuje minimálne jedným vlastným
+technickým pracovníkom s platným certifikátom VMware Certified Professional so skúsenosťami z implementácií min. 3
+projektov rovnakého alebo podobného predmetu zákazky.
+Predmet zákazky je vrátane inštalácie, konfigurácie a dopravy na miesto plnenia.
+Objednávateľ požaduje predložiť všetky požadované doklady aj v elektronickej podobe (scan).
+Dodávateľ sa zaväzuje predložiť do 7 pracovných dní od účinnosti Zmluvy Objednávateľovi podrobný rozpis jednotkových cien
+položiek podľa Technickej špecifikácie predmetu zákazky s uvedením jednotkových cien za 1 ks tovaru (zariadenia) bez DPH
+ako aj vrátane DPH.
+Faktúra musí obsahovať rozpis položiek a ich jednotkových cien bez DPH a počet jednotiek vzťahujúcich sa ku každej položke
+plnenia, sadzbu DPH vzťahujúcu sa na príslušnú položku plnenia a celkovú cenu za položku.
+Názov
+
+Upresnenie
+
+Strana 2 z 3
+
+2.5
+
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Cintorínska 21
+
+Čas / lehota plnenia zmluvy:
+26.06.2017 15:00:00 - 07.07.2017 13:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+súbor položiek zákazky
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 15 540,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 18 648,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 16.06.2017 10:38:03
+Objednávateľ:
+Slovenská konsolidačná, a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Vision IT Solutions, a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 3 z 3
+
+

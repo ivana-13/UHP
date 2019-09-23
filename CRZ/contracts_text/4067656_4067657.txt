@@ -1,0 +1,320 @@
+Kúpna zmluva č. Z201917735_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Hlavné mesto Slovenskej republiky Bratislava
+Primaciálne námestie 1, 81499 Bratislava-Staré Mesto, Slovenská republika
+00603481
+2020372596
+SK2020372596
+SK2375000000000025827143CEKOSKBX
++421 259356342
+
+Dodávateľ:
+Obchodné meno:
+
+Atos IT Solutions and Services s.r.o.
+
+Sídlo:
+
+Pribinova 19/7828, 81109 Bratislava, Slovenská republika
+
+IČO:
+
+45650276
+
+DIČ:
+
+2023110661
+
+IČ DPH:
+
+SK2023110661
+
+Číslo účtu:
+
+SK27 1111 0000 0010 9789 5000
+
+Telefón:
+
++421903564796
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Nákup a implementácia HCI serverovej platformy
+
+Kľúčové slová:
+
+server
+
+CPV:
+
+48820000-2 - Servery; 32413100-2 - Sieťové smerovače; 48780000-9 - Softvérový balík na
+riadenie systémov, archivácie a obsahu; 48790000-2 - Softvérový balík na kontrolu verzií;
+51610000-1 - Inštalácia počítačov a zariadení na spracovanie informácií; 60000000-8 Dopravné služby (bez prepravy odpadu); 72600000-6 - Počítačové podporné služby a
+poradenstvo
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+HCI serverová platforma
+
+Funkcia
+A.Všeobecné požiadavky:
+1. Multinódový hyper converged infrastructure (ďalej len HCI) kláster postavený na serverovej architektúre x86_64bit
+2. Appliance model riešenia, tzn. výrobcom hardvéru zabudované a z výroby predinštalované (embedded) riešenie spájajúce v
+sebe hardvérovú a softvérovú platformu pre HCI pokrytú podporou výrobcu hardvéru, s jednotným riadiacim systémom, ktorý
+umožní jednotnú automatizáciu (provisioning), konfiguráciu, administráciu a prevádzku komponentov riešenia. Riešenie
+poskladané so samostatných hardvérových a softvérových nástrojov rôznych výrobcov nie je povolené
+3. Riešenie musí byť od výrobcov uvedených v Gartner Magic Quadrant pre HCI v kvadrante Leader (min. od začiatku
+posledného kalendárny roka, tzn. od januára 2018 po súčasnosť)
+4. Komponent vytvárajúci softvérovo definované úložisko v rámci HCI klástra musí byť integrovanou súčasťou použitého
+hypervízora pre virtualizáciu serverov, tzn. nie samostatný softvérový komponent nezávislý od použitého hypervízora pre
+virtualizáciu serverov.
+B. Kapacitné požiadavky:
+1. Dátová kapacita:
+
+Strana 1 z 4
+
+1.1. Čistá použiteľná dátová kapacita min. 55TiB, vypočítaná bez kompresie a deduplikácie, postavená ako all-flash riešenie,
+tzn. riešenie na SSD, resp. NVMe diskoch. Riešenie postavené ako hybridné, tzn. kombinácia SSD, resp. NVMe a rotačných
+diskov nie je povolené,
+1.2. Čistá použiteľná dátová kapacita musí byť z dôvodu výkonnosti postavená na min. 36 dátových diskoch, s minimálnou
+prepisovou kapacitou 1 DWPD (drive writes per day) počas piatich rokov,
+1.3. Riešenie musí obsahovať samostatnú diskovú cache (SSD alebo NVMe), ktorá sa nezapočítava do čistej použiteľnej
+dátovej kapacity, disková cache musí byť z dôvodu výkonnosti min. 4.8TB hrubej kapacity na kláster a musí byť postavená na
+min. 12 diskoch pre cache, s minimálnou prepisovou kapacitou 3 DWPD (drive writes per day) počas piatich rokov,
+1.4. Operačný systém pre HCI a hypervízor pre virtualizáciu serverového prostredia, musia byť nainštalované na
+samostatných SSD diskoch, tzn. mimo kapacity dátových diskov a diskov pre cache, s veľkosťou min. 240GB na SSD disk a s
+ochranou voči výpadku jedného disku,
+2. Výpočtová kapacita HCI klástra musí byť min. 120 jadier s frekvenciou min. 2,4GHz v základnej frekvencii (nie pretaktovaná
+frekvencia),
+3. Kapacita operačnej pamäte HCI klástra musí byť min. 1,5TB,
+4. Každý nód v rámci HCI klástra musí byť vybavený min. 4x 10Gb SFP+ Ethernet konektivitou s redundantnými sieťovými
+kartami,
+5. Každý nód v rámci HCI klástra musí byť vybavený servisným procesorom so samostatným portom min. 1x 1Gb RJ45
+Ethernet konektivitou. Servisný procesor musí byť vybavený najvyššou možnou licenciou na manažovanie, ktorá bude časovo
+neobmedzená,
+6. Všetky nódy v rámci HCI klástra musia byť hardvérovo a softvérovo identické,
+7. Riešenie musí obsahovať potrebnú kabeláž o dĺžke 2,5m LC-LC a SFP+ Multimode moduly potrebné na sfunkčnenie a chod
+riešenia, pričom na pripojenie do existujúcej infraštruktúry sú potrebné 4x 10Gb Ethernet pripojenie (ukončenie existujúcej
+infraštruktúry bude v tom istom racku).
+C. Požiadavky na rozšíriteľnosť:
+1. Rozšíriteľnosť HCI klástra na min. 64 nódov, rozšíriteľnosť doplňovaním po 1 nóde,
+2. Rozšíriteľnosť HCI klástra o ďalší nód, ako aj dopĺňanie diskovej kapacity navrhovaného HCI klástra musí prebiehať bez
+nutnosti odstávky nódov, resp. celého klástra,
+3. Rozšíriteľnosť dátovej kapacity o min. 96 diskov (platné len pre dátové disky a disky pre cache spolu) v rámci dodávaného
+HCI klástra, bez nutnosti dokúpenia ďalšieho nódu,
+D. Požiadavky na dostupnosť:
+1. Riešenie s dostupnosťou min. 99,999%
+2. Ochrana dátovej kapacity redundanciou min. N + 2, tzn. ochrana voči výpadku min. 2 nódov súčasne, pričom nódy musia
+byť vybavené redundantnými napájacími zdrojmi,
+3. V prípade súčasného výpadku 2 nódov musí byť HCI kláster schopný fungovať na min. 66% svojej výpočtovej kapacity a
+kapacity operačnej pamäte,
+4. Údržba a update (napr. firmvér hardvérových komponentov a verzie OS pre HCI) musí byť riešená pre celý HCI kláster z
+jedného manažovacieho nástroja. Update musí prebiehať bez nutnosti odstávky HCI klástra, musí byť aplikovaný na HCI
+kláster (nie po jednom nóde), pričom automaticky vykoná update jednotlivých nódov vrátane presunu a rebalansovania
+virtuálnych mašín,
+5. Riešenie musí obsahovať softvérový nástroj, ktorý bude integrovaný do manažmentu hypervízora a umožní z úrovne
+hypervízora vytvárať synchrónne, ako aj asynchrónne kópie dát na iné dátové úložisko (dátové úložisko môže byť iného typu
+ako HCI kláster) alebo do cloudu. Softvérový nástroj musí umožňovať obnovu dát do ľubovoľného časového okamihu v
+minulosti, musí byť zalicencovaný pre min. 30 virtuálnych serverov bez obmedzenia dátovej kapacity zdrojového, ako aj
+cieľového dátového úložiska a to na dobu definovanú v časti Služby tohto dokumentu.
+6. Riešenie musí podporovať možnosť budúceho vytvorenia tzv. stretched clustra s automatickým failoverom v geograficky
+oddelených lokalitách, pričom nie je požadované, aby táto funkcionalita bola v súčasnosti zalicencovaná.
+E. Ostatné požiadavky (zalicencované):
+1. Podpora pre plne automatizovaného rebalancovania dát, tzn. presun virtuálnej mašiny na iný nód nesmie byť podmienený
+nutnosťou prekopírovania dát na tento cieľový nód (lokalizácia dát nesmie byť podmienkou pre maximálny a vyrovnaný výkon
+riešenia),
+2. Natívna podpora deduplikácie a kompresie dát bez dopadu na výkonnosť riešenia,
+3. Podpora vytvárania klonov a snapshotov
+4. Podpora použitia HCI klástra ako iSCSI target pre externé zariadenia,
+5. Podpora nastavovania Quality of Service a IOPs limit pre jednotlivé virtuálne mašiny, s možnosťou dynamickej zmeny týchto
+parametrov,
+6. Podpora virtuálneho distribuovaného switcha,
+Strana 2 z 4
+
+7. Podpora tierovania dát z HCI klástra do cloudu (podpora cloud poskytovateľov ako Amazon WS, Google, MS Azure a pod.),
+pričom riešenie musí umožňovať kompresiu a deduplikáciu dát posielaných cez WAN,
+8. Podpora RAID 5 a 6 erasure coding medzi jednotlivými nódmi HCI klástra.
+F. Požiadavky na dodatočné softvérové vybavenie
+1. V rámci riešenia HCI klástra musia byť dodané licencie hypervízora VMware vSphere Standard pokrývajúce celú výpočtovú
+kapacitu klástra a licencia na manažovanie VMware vCenter Standard, obe s podporou pre produkčné prostredie v trvaní 3
+roky,
+1.1. školenie certifikovaným školiacim strediskom pre tento hypervízor pre 3 administrátorov v trvaní pokrývajúcim školenie na
+nasadenie a manažovanie tohto hypervízora,
+2. V prípade, že bude navrhnutý a dodaný iný hypervízor, tak požadujeme:
+2.1. dodanie všetkých potrebných manažovacích nástrojov pre fungovanie tohto hypervízora,
+2.2. školenie certifikovaným školiacim strediskom pre tento hypervízor pre 3 administrátorov v trvaní pokrývajúcim školenie na
+nasadenie a manažovanie tohto hypervízora,
+2.3. dodatočnú podporu v trvaní 10 človekodní na 1 rok na manažovanie a aktualizovanie tohto hypervízora.
+G. Služby:
+1. Požaduje sa záruka a technická podpora v trvaní min. 36 mesiacov, s dostupnosťou 24/7/365. Požaduje sa dodanie
+náhradných dielov a oprava nasledujúci pracovný deň po nahlásení poruchy,
+2. Riešenie musí mať aktívnu funkciu call home na nahlasovanie porúch priamo výrobcovi hardvéru.
+3. Požadujeme komunikáciu dodávateľa v slovenskom jazyku.
+H. Implementácia:
+Zmluvná cena bude zahŕňať aj cenu implementačných prác, ktoré budú pozostávať z inštalácie a sfunkčnenia HCI cluster
+riešenia, ktoré bude pripravené na migráciu virtuálnych serverov z existujúceho riešenia.
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+2.3
+
+Minimum
+
+Maximum
+
+Presne
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Verejný obstarávateľ požaduje dodanie predmetu zákazky do 7 týždňov odo dňa účinnosti zmluvy.
+Zmluvné strany sa dohodli, že za podstatné porušenie zmluvných podmienok sa bude považovať nedodanie predmetu
+zákazky v zmysle stanovených požiadaviek vyplývajúcich z opisu predmetu zákazky, ako aj nedodanie predmetu zákazky do 7
+týždňov odo dňa účinnosti zmluvy.
+Komponenty tvoriace predmet zákazky musia byť nové, nepoužité
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava
+
+Obec:
+
+Bratislava
+
+Ulica:
+
+Primaciálne námestie 1, 814 99 Bratislava
+
+Čas / lehota plnenia zmluvy:
+
+Strana 3 z 4
+
+31.07.2019 09:00:00
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+server
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.5, účinná zo dňa 1.1.2019 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 163 250,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 195 900,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 12.06.2019 16:22:01
+Objednávateľ:
+Hlavné mesto Slovenskej republiky Bratislava
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Atos IT Solutions and Services s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

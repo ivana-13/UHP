@@ -1,0 +1,645 @@
+Zmluva o poskytovaní služieb správy infonnačných systémov
+uzatvorená podľa § 269 ods.2 zákona č. 513/1991 Zb. Obchodný zákonnfk v znenl
+neskorších predpisov
+(ďalej len "zmluva")
+
+Člslo u objednávateľa: ZML-3-22/2018-520
+Číslo u poskytovateľa: 20180928/SUSR
+
+ZMLUVNÉ STRANY:
+Obchodné meno:
+Sfdlo:
+
+IČO:
+DIČ:
+IBAN:
+V zastúpení:
+
+štatisticky úrad Slovenskej republiky
+Mllelfčova 3, 824 67 Bratislava
+166197
+2020830218
+SK468180000000700007244
+Ing. Alexander Ballek, predseda úradu
+
+(ďalej len "objednávater alebo .zmluvná strana")
+
+a
+Obchodné meno:
+Sídlo:
+
+DIGMIA s.r.o,
+Lazaretská 12
+
+IČO:
+DIČ:
+DPHIČ:
+
+36654132
+2022215217
+
+IBAN:
+Obchodný register:
+
+SK2022215217
+SK10 1100 0000 0026 2175 4736
+OS BA I odd. Sro, vložka č. 41496/8
+
+Licencia:
+V zastupení:
+Peter Fuska, Konateľ
+(ďalej len "poskytovateľ alebo .zmluvná strana")
+
+Strana 1 z 10
+
+Článok 1
+Predmet zmluvy
+
+1.1
+
+Na základe tejto zmluvy sa poskytovateľ zaväzuje poskytovať objednávateľovi
+odborné služby (ďalej len .služba•) týkajúce sa realizácie a prevádzky bezpečnej web
+lokality na prezentáciu výsledkov volieb a referend v období 2018 až 2019 s
+dostupnosťou 99.8%, systémovej správy dodávaného riešenia. aktualizácie a
+AntiDDoS ochrany prenajatého servera, pričom rozsah poskytovania a detailná
+špecifikácia služieb je uvedená v čl. II tejto zmluvy.
+
+Článok 11
+Popis poskytovaných služieb a činnosti poskytovatera
+
+2.1
+
+Zriadenie a poskytovanie služby webhostingového priestoru na doméne volbysr.sk
+vrátane HW a inštalačných poplatkov.
+
+2.2
+
+Zriadenie a prevádzka záložnej web lokality pre replikáciu dát vrátane prenájmu
+virtuálneho privátneho servera (VPS).
+
+2.3
+
+Implementácia a prevádzka antiDDOS riešenia pre vystavovanie výsledkov volieb na
+doméne volbysr.sk s dostupnosťou 99.8%.
+
+2.4
+
+Správa funkčnosti a bezpečnosti systémov na doméne volbysr.sk:
+- upgrade ballkov na aktuálne verzie,
+- pravidelný automatizovaný remote auditing serverov,
+Monitoring a správa funkčnosti:
+- monitoring dostupnosti a funkčnosti spustených služieb 24 hodín denne, 7
+dni v týždni,
+- monitoring dostupnosti sieťovej konektivity,
+- zálohovanie konfigurácii na vzdialený záložný server.
+Technická podpora:
+- telefonická a e-mailová technická podpora pre nastavovanie a konfiguráciu
+služieb a zariadenl a hlásenie problémov.
+Úrovne technickej podpory:
+Štandardné SLA - dostupná 24 hod. v prac. dňoch , maximálna
+reakčná doba na nástup na riešenie problému je 4h pri vzdialenej
+správe a 6h pri fyzickom zásahu,
+SLA+ - dostupná 24 hod. v dňoch konania volieb , maximálna reakčná
+doba na nástup na riešenie problému je 1Ominút, pri vzdialenej správe
+a 1h pri fyzickom zásahu.
+
+•
+
+•
+
+2.5
+
+Uvedené služby sa objednajú čiastkovou objednávkou v zmysle prllohy č.1 zmluvy
+s uvedeným počtom položiek najneskôr 30 dní pred konaním volieb, alebo referenda.
+Súčasťou objednávky musia byť aj termíny zriadenia a poskytovania služieb.
+
+Strana 2 z 10
+
+Článok 111
+Miesto poskytovania služieb
+
+3.1
+
+Serverové služby budú umiestnené v serverhostingovom centre v priestoroch
+u poskytovateľa.
+Článok IV
+Service Level Agreement
+
+4.1
+
+Poskytovateľ vykonäva zmluvné činnosti podľa podmienok Service Level Agreement
+(Dohoda o úrovni poskytovania služieb) SLA, SLA+ v závislosti od objednävateľom
+požadovaného stupňa reakcie.
+
+Úrovne technickej podpory:
+a. štandardné SLA - dostupná 24 hod. v prac. dňoch , maximálna reakčná doba na
+nástup na riešenie problému je 4h pri vzdialenej správe a 6h pri fyzickom zásahu,
+b. SLA+ - dostupná 24 hod. v dňoch konania volieb , maximálna reakčná doba na
+nástup na riešenie problému je 1Ominút, pri vzdialenej sprave a 1h pri fyzickom
+zásahu.
+4.2
+4.3
+4.4
+
+4.5
+
+4.6
+
+Výpadky prevádzky zariadenl budú rozlišované v dvoch skupinách- urgent a normal.
+Výpadky budú poskytovateľovi nahlasované podľa čl. V tejto zmluvy, spolu s
+uvedenlm skupiny výpadku.
+Poskytovateľ začne odstraňovať všetky výpadky pokiaľ možno bezodkladne, s
+vyvinutím čo najväčšieho úsilia, najneskôr však v termlnoch podľa objednaného
+stupňa reakcie.
+Pri vzniku nepredvídateľných okolnosti, resp. skutočnosti, ktoré spôsobila tretia strana
+a poskytovateľ ani objednávateľ nemajú dosah na odstránenie týchto okolnosti, je
+možné po vzájomnej dohode stanoviť iné termlny odstránenia výpadku, ako je
+definované v predchádzajúcich bodoch tohto článku, čim zároveň zanikä
+zodpovednosť poskytovateľa za dodržanie termínov.
+Zmluvné strany sa výslovne dohodli, že poskytovateľ nezodpovedá za funkčnosť
+systémov, ani za plnenie dojednaných termínov odstraňovania výpadkov a porúch v
+prípadoch, kedy nastanú prekážky na strane objednävatera spôsobené napr.:
+-
+
+poruchou
+
+hardvérového
+
+vybavenia
+
+objednávateľa,
+
+ktoré
+
+nebolo
+
+dodané
+
+poskytovateľom,
+
+- poruchou pripojenia do siete internet, resp. iného prostriedku vzdialenej správy na
+strane objednávateľa, spôsobeného poskytovateľom internetového pripojenia, resp.
+iného prostriedku vzdialenej správy,
+- poruchou dodávok elektrickej energie,
+- okolnosťami vyššej moci (vis major),
+- inými okolnosťami vylučujúcimi zodpovednosť.
+
+Strana 3 z 10
+
+Článok V
+Technická podpora
+
+5.1
+
+5.2
+5.3
+
+Technická podpora pre objednávatera, pripadne riešenie iných požiadaviek, resp.
+dopytov objednávateľa je zo strany poskytovateľa zabezpečená a realizovaná jeho
+pracovníkmi prostredníctvom e-mailu: hotline@digmia.com. Na túto emailovú adresu
+zasiela objednávateľ svoje požiadavky a nahlasuje pripadne závady a poruchy podľa
+ustanovení tejto zmluvy.
+Objednávateľ má popri využití technickej podpory podľa predchádzajúceho bodu tohto
+článku, možnosť vyUŽiť telefonickú HOTLINE na tel. čl sie: 02 32603220.
+Pri využití technickej podpory podľa tohto článku zmluvy je objednávateľ povinný
+podrobne a presne sformulovať svoju požiadavku, najmä charakterizovať, resp. popfsať
+pripadnú závadu alebo poruchu, skupinu poruchy a svoje kontaktné údaje. V prípade
+nesplnenia tejto povinnosti poskytovateľ nezodpovedá za prlpadné omeškanie
+technickej podpory v zmysle tohto článku zmluvy.
+
+Článok Vl
+Práva a povinnosti zmluvných strán
+6.1
+
+Poskytovateľ je povinný poskytovať služby vykonávaním zmluvných činnosti riadne a
+včas
+
+s vynaloženlm náležitej odbornej spôsobilosti, v súlade so záujmami
+
+objednávateľa.
+
+6.2
+6.3
+
+6.4
+
+Objednávateľ je povinný v plnej miere kontrolovať poskytovanie služieb, vykonávanie
+
+objednaných činností, efektívne ich koordinovať a dohliadať na ich riadnu realizáciu.
+Poskytovateľ sa zaväzuje monitorovať prevádzku a dostupnosť jednotlivých serverov a
+zariadení, proaktlvne reagovať v prípade vypadkov, a ak je to nutné aj v súčinnosti s
+objednávateľom tieto výpadky eliminovať.
+Objednávateľ sa zaväzuje poskytovať poskytovateľovi všetku potrebnú súčinnosť, a to
+vykonaním, resp. zabezpečenfm nasledovných činností:
+a) zasielanie požiadaviek a dopytov elektronickou formou zmluvne dojednaným
+spôsobom,
+b) poskytnutie všetkých informácii a pokynov, ktoré sú potrebné pre riadne splnenie
+záväzkov poskytovateľa,
+c) v prípade poruchy alebo výpadku poskytnutie všetkých dostupných informácii o
+závadách a spolupôsobenie pri ich odstránenl v zmysle tejto zmluvy.
+
+6.5
+
+Poskytovateľ sa zaväzuje poskytovať objednávateľovi všetku potrebnú súčinnosť, a to
+vykonaním, resp. zabezpečenfm týchto činnosti:
+
+a) ochrana pred zverejnením a zneužitím osobných údajov a dát spracovávaných na
+serveri a v sieti objednávateľa, pokiaľ má k nej prístup,
+b) zabrániť situáciám, pri ktorých by mohlo dôjsť k zneužitiu týchto osobných údajov
+a dát,
+c) pravidelné školenie pracovnikov ohľadne technolôgil súvisiacich s výkonom
+dojednaných činnosti.
+
+Strana 4 z 10
+
+Článok VII
+Cena služieb a platobné podmienky
+7.1
+
+7.2
+7.3
+
+7.4
+
+Objednávateľ sa zaväzuje uhradiť v zmysle zákona č.1 B/1996 Z. z. o cenách v znení
+neskoršlch predpisov poskytovateľovi cenu špecifikovanú v prílohe č. 1 tejto zmluvy za
+všetky poskytnuté služby, objednané čiastkovou objednávkou v zmysle článku II
+zmluvy , a to na základe vystavenej faktúry, ktorej prllohou bude akceptačný protokol
+podpísaný oprávnenou osobou objednávateľa.
+
+Celková cena za predmet lejlo zmluvy nesmie presiahnuť sumu 23 OOO Eur bez DPH po dobu
+platnosti tejto zmluvy.
+K všetkým cenám služieb bude poskytovateľ, v prípade, ak bude platiteľ dane z pridanej
+hodnoty, účtovať príslušnú DPH v súlade s platnými právnymi predpismi.
+Služby budú objednávateľovi vyúčtované čiastkovými faktúrami, vystavenými v súlade
+s prílohou č.1 tejto zmluvy po podplsanl akceptačného protokolu oprávnenou osobou
+objednávateľa za vykonané služby. Podpísaný akceptačný protokol bude tvoriť prílohu
+faktúry.
+Splatnosť faktúry je 30 kalendárnych dni od jej doručenia objednávateľovi, pričom
+faktúra musí obsahovať všetky náležitosti daňového dokladu podľa § 74 zákona č.
+222/2004 Z. z. o dani z pridanej hodnoty, najmä:
+oznaôenie .faktúra" a jej člslo,
+odvolanie na túto zmluvu s uvedenlm jej čísla,
+obchodné meno, prlp. názov poskytovateľa a objednávateľa,
+sldlo, prlp. miesto podnikania poskytovatera a objednávatera,
+ICO, DIC objednávatera a poskytovateľa, pripadne IC DPH, ak Je pridelené,
+oznafenle bankového spojenia a člsla účtu poskytovateľa,
+de" vystavenia, odoslania a splatnosti faktúry,
+IBAN, označenie banky,
+fakturovanú sumu za uskutočnené zdaniteľné plnenie v EUR,
+suma k úhrade,
+podpis oprávnenej osoby.
+
+7.5
+
+V prípade, že faktúra poskytovateľa bude obsahovať nesprávne údaje, alebo nebude
+obsahovať náležitosti daňového dokladu výslovne uvedené v predchádzajúcom bode,
+
+je objednávateľ oprávnený vrátiť poskytovateľovi takúto nesprávnu alebo neúplnú
+faktúru a poskytovateľ je povinný faktúru opraviť, príp. doplniť. V prfpade oprávneného
+a odôvodneného vrátenia faktúry poskytovateľovi sa prerušuje plynutie lehoty splatnosti
+faktúry, a to až do doby doručenia opravenej faktúry (daňového dokladu)
+objednávateľovi s uvedením novej 30 dňovej lehoty splatnosti.
+
+Strana Sz 10
+
+Článok VIII
+Ochrana informácií
+8.1
+
+Zmluvné strany sa dohodli, že táto zmluva, jej obsah, ako aj všetky informácie (vrátane
+obchodných, technických a iných informácii), ktoré budú poskytnuté, zverené, alebo
+inak sprfstupnené druhej strane na základe tejto zmluvy alebo v súvislosti s ňou, alebo
+o ktorých sa druhá zmluvná strana dozvie pri plnení svojich povinnosti alebo
+vykonávanl dohodnutých činnosti podľa tejto zmluvy, sa v zmysle ustanovenia § 271
+Obchodného zákonnika považujú za prlsne dôverné a podľa svojej povahy môžu byť
+predmetom obchodného tajomstva (ďalej len .dôverné informácie").
+8.2 Objednávateľ a poskytovateľ sú povinnl uchovávať a chrániť obchodné tajomstvo,
+ktoré bolo poskytnuté, zverené, alebo Inak sprístupnené druhej zmluvnej strane v rámci
+plnenia tejto zmluvy, alebo o ktorom sa druhá zmluvná strana dozvedela akýmkoľvek
+iným spôsobom. Zároveň sa zmluvné strany zaväzujú, že tieto informácie alebo
+skutočnosti nepoužijú na Iné účely, než v súvislosti s plnenlm tejto zmluvy a
+neposkytnú, neoznámia alebo nesprístupnia tieto informácie alebo skutočnosti tretím
+osobám, ani ich nevyužijú pre svoje potreby, okrem pripadov, v ktorých je to nevyhnutné
+na splnenie účelu tejto zmluvy.
+8.3 Pokiaľ to nie je nevyhnutné pre účely plnia povinnosti podľa zmluvy, zmluvné strany sa
+zaväzujú chrániť a uchovávať v tajnosti dôverné informácie a bez predchádzajúceho
+plsomného súhlasu druhej zmluvnej strany ich nezverejňovať, neposkytovať,
+nezverovat', ani inak nespristupňovat' tretlm osobám, a to ani po zániku zmluvy.
+8.4 Za porušenie povinnosti podľa tohto článku zmluvy sa nepovažujú prípady, kedy pôjde
+o dôverné informácie, ktoré sú v dobe ich poskytnutia verejne dostupnými, alebo sa
+stanú verejne dostupnými Inak než porušením povinnosti mlčanlivosti zmluvných strán,
+alebo ktorých poskytnutie sa vyžaduje zákonom, na základe zákona, rozhodnutia súdu
+alebo iného príslušného orgánu verejnej moci.
+8.5 Zmluvné strany sa zaväzujú, že k povinnosti mlčanlivosti zaviažu všetkých svojich
+zamestnancov, spolupracovnlkov, externých partnerov, ako aj všetky ďalšie
+spolupracujúce osoby, ktoré z dôvodu pracovnoprávneho, obchodného či iného vzťahu
+k zmluvným stranám prídu, alebo môžu prísť do styku s dôvernými informáciami
+súvisiacimi s predmetom plnenia podľa tejto zmluvy, pričom za porušenie povinnosti
+mlčanlivosti týchto osôb zodpovedajú zmluvné strany rovnako, ako by sa porušenia
+dopustili sami.
+8.6 Porušenie povinnosti zmluvných strán podľa tohto článku zmluvy bude považované za
+podstatné porušenie zmluvy a zmluvné strany sú oprávnené domáhať sa náhrady
+škody, ktorá im vznikne porušenlm povinnosti druhej zmluvnej strany. Zmluvné strany
+sa výslovne dohodli, že záväzky podľa tohto článku zmluvy ostávajú v platnosti aj po
+zániku tejto zmluvy.
+
+Strana 6 z 10
+
+Článok IX
+Sankcie
+9.1
+
+9.2
+
+9.3
+9.4
+
+9.5
+
+9.6
+
+V prípade, ak poskytovateľ poruší lehoty na uskutočnenie zásahu určené podľa článku
+IV tejto zmluvy, je objednávateľ oprávnený uplatniť si zmluvnú pokutu vo výške 0,5% z
+celkovej ceny poskytovaných služieb podľa prllohy č.1 tejto zmluvy, a to za každú, aj
+začatú hodinu porušenia zabezpečovanej povinnosti poskytovateľa, maximálne však
+do výšky celkovej ceny služieb stanovenej v prflohe č.1 tejto zmluvy .
+V prípade, ak poskytovateľ nedodrž! termln zriadenia služby podľa čl. X bod 1 tejto
+zmluvy, je objednávateľ oprávnený uplatniť si zmluvnú pokutu vo výške 0,5% z celkovej
+ceny poskytovaných služieb podľa prílohy č.1 tejto zmluvy za každý aj začatý deň
+porušenia zabezpečovanej povinnosti.
+Objednávateľ sa v pripade omeškania s úhradou faktúry zaväzuje zaplatiť
+poskytovateľovi úroky z omeškania v zákonnej výške.
+Zmluvné strany sa dohodli, že sankcie je povinná strana uhradiť oprávnenej strane na
+základe vystavenej faktúry-daňového dokladu, so splatnosťou 30 kalendámych dni odo
+dňa jej doručenia.
+Zmluvné strany vyhlasujú a potvrdzujú, že výška zmluvných pokút, ako aj iných sankcii
+dojednaných touto zmluvou je obvyklá a primeraná povahe a významu
+zabezpečovaných povinnosti zmluvných strän.
+Vykonanim úhrady zmluvných pokút nie sú dotknuté práva zmluvných strán na
+uplatnenie sl náhrady škody v plnom rozsahu.
+
+Člänok X
+Trvanie a zánik zmluvy
+
+10.1 Zmluva sa uzatvára na dobu určitú do 31.12.2019.
+10.2 Zmluvu možno ukončiť niektorým z nasledovných spôsobov:
+plsomnou dohodou zmluvných strán,
+odstúpenlm od zmluvy z dôvodov uvedených v tejto zmluve alebo v Obchodnom
+zákonnlku,
+10.3 Objednávateľ je oprávnený okamžite odstúpiť od zmluvy z dôvodov podstatného
+porušenia tejto zmluvy poskytovateľom . Podstatným porušenlm zmluvy na strane
+poskytovateľa sa rozumie tiež:
+omeškanie poskytovateľa s termlnom plnenia dohodnutým podľa tejto zmluvy,
+vykonávanie činnosti preukázateľne v rozpore s podmienkami dohodnutými v
+zmluve napriek tomu, že objednávateľ poskytovateľa na takéto porušenie
+zmluvy písomne upozomil a poskytovateľ nedostatky neodstránil ani v
+primeranej dodatočnej lehote poskytnutej k tomuto účelu objednávateľom,
+
+Strana 7 z 10
+
+bezdôvodné prerušenie alebo zastavenie poskytovania služieb v rozpore s
+ustanoveniami tejto zmluvy, alebo iný prejav poskytovateľa, z ktorého niet
+pochýb, že poskytovateľ nemá záujem na splnení svojich záväzkov.
+10.4 Poskytovateľ je oprávnený odstúpiť od zmluvy z dôvodov podstatného porušenia tejto
+zmluvy objednávateľom. Podstatným porušením zmluvy na strane objednávateľa sa
+rozumie tiež omeškanie objednávateľa s úhradou dojednanej ceny služieb presahujúce
+30 dni, napriek tomu, že poskytovateľ objednávateľa na omeškanie písomne upozornil
+a objednávateľ úhradu nevykonal ani v primeranej dodatočnej lehote poskytnutej k
+tomuto účelu poskytovateľom.
+10.5 Odstúpenie od zmluvy musl byť vykonané plsomne a musl byt' doručené druhej
+zmluvnej strane. Odstúpenim sa zmluva zrušuje, s účinkami k okamihu, kedy bude
+odstupujúci prejav doručený druhej zmluvnej strane.
+10.6 Zánikom tejto zmluvy nie sú dotknuté nároky zmluvných strán, ktoré vznikli pred
+zánikom tejto zmluvy. V tejto súvislosti má poskytovateľ nárok na zaplatenie dojednanej
+ceny za služby poskytnuté pred zánikom tejto zmluvy. Odstúpením od tejto zmluvy nie
+sú dotknuté práva zmluvných strán na náhradu škody.
+
+Článok XI
+ustanovenia
+
+Záverečné
+
+11.1 Na právne vzťahy zmluvných strán vyplývajúce z tejto zmluvy, ktoré nie sú touto
+zmluvou osobitne upravené, sa vzťahujú prlslušné ustanovenia Obchodného
+zákonnlka a ďalších všeobecne zäväzných právnych predpisov vo vzťahu na predmet
+a obsah tejto zmluvy.
+11.2 Ak sa niektoré ustanovenie tejto zmluvy stane neplatným, neúčinným alebo
+nevykonateľným kedykoľvek po uzavreli tejto zmluvy, nebude tým dotknutá platnosť,
+účinnosť alebo vykonateľnosť ostatných ustanovení tejto zmluvy. Zmluvné strany sa v
+takom prípade zaväzujú bez zbytočného odkladu na základe vzájomnej dohody
+nahradiť takéto neplatné, neúčinné alebo nevykonateľné ustanovenie zmluvy novým
+ustanovenfm, ktoré bude platné, účinné a vykonateľné, a ktoré bude najviac
+zodpovedať hospodärskemu účelu nahrádzaného ustanovenia. Do toho času piati
+zodpovedajúca právna úprava podľa Obchodného zákonnlka a ostatných platných
+právnych predpisov.
+11.3 Táto zmluva sa môže meniť alebo doplňať len na základe obojstrannej dohody
+zmluvných strán, a to formou plsomných, priebežne čislovaných dodatkov,
+podplsaných oprávnenými zástupcami obidvoch zmluvných strán.
+11.4 Neoddeliteľnou súčasťou tejto zmluvy je jej prlloha č.1 , ktorá obsahuje stručnú
+špecifikáciu služieb vrátane ceny poskytovaných služieb a Servis Level Agreement.
+11.5 Zmluva nadobúda platnosť dňom jej podpisu oprävnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom
+registri zmlúv.
+11.6 Táto zmluva je vyhotovená v štyroch rovnopisoch, z ktorých každý má právnu silu
+originálu, pričom každá zo zmluvných strán dostane po dvoch rovnopisoch zmluvy.
+
+Strana 8 z 10
+
+11.7 Zmluvne strany vyhlasujú, že ich zmluvná voľnosť nie je obmedzená a potvrdzujú
+spôsobilosť uzavrieť túto zmluvu.
+11.8 Zmluvne strany vyhlasujú, že sa s obsahom zmluvy pred jej uzavretím riadne
+oboznámili, tomuto porozumeli, zmluva zodpovedá ich vôli, zmluvu uzatvárajú
+dobrovoľne, slobodne a vážne, s vedomím si následkov právneho úkonu, nie v tiesni
+za nápadne nevýhodných podmienok, na dôkaz čoho k zmluve pripájajú svoje podpisy.
+
+Za objednávateľa:
+
+Za
+
+• 3 -10- 2018
+
+V Bratislave, .................. ............. .
+Podp"rt: "
+
+,lr---
+
+(\
+
+''ilA.
+
+l
+
+poskytovateľa:
+
+V Bratislave, 28.9.2018
+Podpis:
+
+.J'
+A
+
+"
+Ing. Alexan er Ballek, predseda
+
+1 -
+
+Peter Fuska,
+
+konateľ
+
+ii
+
+Strana 9 z 10
+
+Príloha č.1 k zmluve č. ZML-3-21/2018-520: Popis stužleb, kalkulácia ceny a Servis Level
+Agreement pre voľby a referendá
+Popis služieb:
+
+Realizácia a prevädzka bezpečnej web lokality na prezentäciu výsledkov volieb a referend v obdobl
+2018 až 2019 s dostupnosťou 99.8%, systémová: sprava dodävaného riešenia, aktualizácie a
+AntiDDoS ochrana prenajatého servera
+Kalkulácia ceny:
+;Jo;
+
+~ ~
+
+t:.: c t·
+
+M.1
+
+Ct)1,1 Zd MJ
+
+Počet
+
+C:e~,i
+DPH
+
+heľ
+
+Ccr·a s Df>:-i
+
+Zriadenie a poskytovanie služby
+ks
+webhostlngového priestoru pre 1.kolo na
+doméne volbysr.sk vrátane HW a inštalačných
+nl'IDlatkov
+Zriadenie a prevádzka záložnej web lokality
+ks
+pre 1.kolo pre replil<äciu dát vrétane prenájmu
+virtuálneho privátneho servera (VPS).
+
+2500,00€
+
+1
+
+2500,00 E
+
+3000,00 E
+
+150,00€
+
+1
+
+150,00 €
+
+180,00E
+
+Implementácia a prevádzka anUDOOS
+riešenia pre 1.kolo pre vystavovanie
+výsledkov volleb na doméne volbysr.sk
+s dostu0nosťou 99.8%.
+Spréva funkčnosti a bezpečnosti systémov na
+doméne volbvsr sk cre 1.kolo
+Poskytovanie služby webhostingového
+priestoru pre 2.kolo na doméne volbysr.sk
+vrätane HW
+Prevádzka záložnej web lokality pre 2.kolo pre
+replikáciu dát vrátane prenájmu virtuálneho
+orivátneho servera CVPS).
+Prevádzka antiDDOS riešenia pre 2.kolo pre
+vystavovanie výsledkov volieb na doméne
+volbvsr.sk s dostuonosťou 99.8%.
+Spréva funkčnosti a bezpečnosti systémov na
+doméne volbvsr.sk pre 2.kolo
+
+ks
+
+1000,00 €
+
+1
+
+1000,00 €
+
+1200,00 e
+
+ks
+
+550,00 €
+
+1
+
+550,00€
+
+660,00€
+
+ks
+
+1000,00€
+
+1
+
+1000,00 €
+
+1200,00 €
+
+ks
+
+100,00€
+
+1
+
+100,00€
+
+120,00€
+
+ks
+
+500,00 €
+
+1
+
+500,00€
+
+600,00E
+
+ks
+
+400,00€
+
+1
+
+400,00 €
+
+480,00 €
+
+1
+
+Servis Level Agreement:
+
+SLA
+Pokrýva dostupnosľ telefonickej a e-mailovej hotline slutby v pracovné dni 24 hodln denne.
+Maximálna reakčná doba na nástup na riešenie problému je 4h pri vzdialenej správe a 6h pri
+fyzickom zásahu. SLA v sebe zahh'la proaktlvny monitoring a real<cle na výpadky v definovaných
+dostupnostiach SLA. Dostupnosť služby 99.8%.
+SLA+
+Pokrýva doslupnosľ telefonickej a e-mailovej hotline služby a zvýšenú pohotovosť v čase konania
+volieb (od 17:00 v deň konania volleb a referend do 17:00 v nasledujúci deň). Maximálna reakčná
+doba na nástup na riešenie problému pri vzdialenej sprave 10 minút a 1 h pri fyzickom zásahu.
+
+Strana 10 z 10
+
+-
+
+-t- .
+
+

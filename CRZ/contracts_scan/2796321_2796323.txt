@@ -1,0 +1,7092 @@
+Zmluva o poskytovani servisnych sluzieb - Service Level Agreement (SLA)
+
+uzavreta podla § 269 ods. 2 zakona €. 513/1991 Zb. Obchodny zdkonnik v zneni neskorsich predpisov
+(dalejlen ,SLA)
+
+uzatvorena medzi:
+
+1. Objednavatel’:
+
+nazov organizacie: Ministerstvo spravodlivosti Slovenskej republiky
+sidlo: Zupné namestie 13, 813 11 Bratislava
+
+zastúpený: JUDr. Jana Britaňáková, vedúca služobného úradu
+
+IČO: 00166073
+
+DIČ: 2020830196
+
+bankové spojenie: Statna pokladnica
+
+¢islo účtu: 7000144241/8180
+
+(dalej len ,,Objednavatel)
+
+2. Poskytovatel’:
+
+nazov organizacie: ensentia, s.r.o.
+
+sidlo: Priemyselna 6, 824 9o Bratislava
+
+zapisany v registri: Okresny sud Bratislava 1, odd.:Sro, vloZka ¢. 12138/B
+zastúpený: Ing. Jana Klimentová, konatel'ka
+
+osoba oprávnená konať vo veciach technických: Ing. Milan Paštrnák, technický riaditeľ
+
+osoba oprávnená konať vo veciach zmluvných: Ing. Jana Klimentová, konateľka
+
+IČO: 35 70 28 77
+
+DIČ: 2020341048
+
+IČ DPH: SK2020341048
+
+Číslo účtu IBAN: SKo8 1100 0000 0026 2702 9535
+SWIFT: TATRSKBX
+
+Strana: 1/ 82
+(d’alej len ,Poskytovatel™)
+(spolu dalej ako ,Zmluvné strany”)
+
+Clanok 1
+
+Uvodné ustanovenia
+
+1. Zmluvné strany dila 08.04.2014 uzavreli Zmluvu o vytvoreni Informaéného systému ESS (d’alej len
+
+JZakladna zmluva“). Zmluvné strany uzatvaraji túto SLA za účelom špecifikácie podmienok
+
+a rozsahu poskytovania:
+
+a) SluZieb prevadzkovej podpory,
+
+b) Sluzieb údržby,
+
+c) Údržby SW komponentov 3. strán a HW,
+
+d) Iných služieb súvisiacích sIS Objednávatela, napr. vybavovanie zmenovych požiadaviek
+Objednávateľa, ako aj slu¥by podla pism. a), b) a c) poskytované nad rámec predplatenych
+služieb uvedených v tejto SLA (ďalej len „Ostatné služby“),
+
+vo vzťahu k 1S Objednávateľa.
+
+Článok 2
+Definície pojmov
+
+1. Človekohodina: je základná merná jednotka fakturácie služieb, za ktorú sa považuje hodina
+práce jedného pracovníka Poskytovateľa (vrátane čo i len začatej hodiny práce).
+
+2. IS Objednávateľa: Informačný systém ESS zhotovený na základe Základnej zmiuvy, ktorý je
+predmetom služieb podľa tejto SLA.
+
+3. Služby prevádzkovej podpory: Služby prevádzkovej podpory môžu byť poskytované na základe
+objednávky Objednávateľa v rôznych variantoch uvedených v Prílohe č. 6 a úrovniach spracovania
+požiadaviek (ďalej len „USP“) uvedených v Prílohe č. 1. Ak riešenie vzniknutého problému nie je
+v rámci poskytovanej podpory, ktorá sa uhrádza paušálnym poplatkom, prináleží Poskytovateľovi
+úhrada za riešenie podľa cenníka pre Ostatné služby uvedeného v tejto SLA.
+
+4. Služby údržby (Maintenance): Zmeny a doplnky 1S Objednávateľa, pri ktorých sa jedná o
+úpravy IS Objednávateľa funkčného a prevádzkového charakteru, rozširujúce možnosti využitia
+tohto systému. Služby údržby môžu byť poskytované v rôznych variantoch uvedených v Prílohe č. 6
+podľa objednávky Objednávateľa.
+
+5. HW infraštruktúra: hardvérová (HW) infraštruktúra predstavuje súbor HW prostriedkov,
+sieťových komponentov a ich sieťovej konfigurácie.
+
+6. HW komponent: pod pojmom HW komponent sa rozumie Poskytovatelom dodaný komponent.
+Ide o HW súčasti ako serverova infrastruktdra, zalohovacia infradtruktiira, diskové pole,
+smerovade, firewally, prepinace, zariadenia pre rozdelovanie zitaZe, zariadenia pre bezpeénost a to
+pre produkéné, zaloZné a testovacie prostredie.
+
+Strana: 2 / 82
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+SW infraštruktúra: softvérová (SW) infraštruktúra predstavuje súbor SW komponentov 3.
+strán, ktoré sú inštalované na HW prostriedkoch a vytvárajú prostredie pre fungovanie SW
+komponentov 1S Objednávateľa.
+
+SW komponent: pod pojmom SW komponent sa rozumie Poskytovateľom vytvorena
+samostatná časť podporovaného IS Objednávatela, ktorů možno používať nezávisle od ostatných
+komponentov, zahrňujúcu SW infraštruktúru, na ktorej je prevádzkovaná.
+
+SW modul: pod pojmom SW modui (ďalej len „modul“) sa rozumie samostatná časť SW
+komponentu IS Objednávateľa, ktorú možno používať nezávisle od ostatných modulov SW
+komponentu.
+
+Funkcia SW modulu: pod pojmom funkcia SW modulu (dalej len ,funkeia”) sa rozumie
+samostatnd funkcia SW komponentu alebo vlastnost SW modulu podporovaného IS
+Objednavatela.
+
+SW komponent 3. strany: pod pojmom SW komponent 3. strany sa povaZuje SW komponent
+ako autorské dielo tretej strany, ktoré vytvorila tretia strana a/alebo ku ktorému vykonava autorské
+prava (majetkové a/alebo aj osobnostné) tretia strana. Za tretie strany sa povaZuji aj
+subdodavatelia Poskytovatela vpripade, Ze sa jednd o komerény softvér beine predivany
+subdodavatelom. V pripade, e subdodavatel vytvoril nové aplikadné programové vybavenie
+v ramci Ziakladnej zmluvy alebo tejto SLA, toto sa nepovaZuje za SW komponent 3. strany.
+
+HW: pod pojmom HW sa rozumie akykolvek hardvér dodany Poskytovatelom Objednavatelovi na
+zéklade Zikladnej zmluvy.
+
+Udrzba HW a SW komponentov 3. stran: pod pojmom Udrzba HW a SW komponentov 3.
+strdn sa rozumie poskytovanie technickej podpory, ktord zabezpeduje tretia strana, pri SW
+komponentoch ako vykonavatel autorskych prav, za podmienok uréenych touto trefou stranou. Jej
+predmetom je poskytovanie nových verzií zabezpecujucich odstraniovanie vad v HW, diele 3. strany
+a/alebo poskytovanie novych verzii obsahujiicich nové funkcie a/alebo poskytovame nahradnych
+dielov HW. Rozsah Údržby jednotlivých SW komponentov 3. strán a HW je uvedený v prílohe č. 6
+tejto SLA. Reakčné doby budú odsúhlasené medzi Objednávateľom a Poskytovateľom vo formulári
+uvedenom v Prilohe č. 3.
+
+Poziadavka: poZiadavka je kaZda poZiadavka Objedndvatela na poskytnutie sluZieb v rozsahu
+tejto SLA.
+
+Problém: problém je Objednavatelom hlaseny stav, ktory znemoZiiuje pouZivanie HW
+komponentu, SW komponentu, modulu alebo funkcie podporovaného IS Objedndvatela (vratane
+SW komponentov 3. stran a HW), je vaéZnym obmedzenim funk&nosti alebo rozporom fungovania
+oproti dodanej dokumentAcii.
+
+Konzultiacia: konzulticia je Objednavatelom vyZiadand odborná &innost špecialistov
+Poskytovatela, ktord sa tyka rieSenia. Na poskytovanie konzultacii sa nevztahuje reakéna doba ani
+doba neutralizicie stanovené touto SLA.
+
+Otazka: otazka je poZiadavka Objednavatela na poskytnutie informacii Poskytovatel'om, pricom
+nie je identifikovany problém. Na poskytovanie informécif sa nevztahuje reakéna doba ani doba
+neutralizacie stanovena touto SLA.
+
+Reak¢éna doba: reakéna doba je pre Poskytovatela stanoveny &as, do ktorého zah4ji predetrenie
+
+nahlaseného problému poc¢nic hlisenim Objednavatela vo forme e-mailu. Alternativou nahlasenia
+problému e-mailom je nahlasenie problému prostrednictvom call centra, resp. zaevidovanie
+
+Strana: 3 / 82
+19.
+
+20.
+
+21.
+
+22,
+
+23.
+
+24.
+
+25.
+
+problému priamo do systému ESSP, ktorého blížší popis, adresa a funkcionalita sú popísané
+v Prílohe č. 4. Reakčná doba závisí od USP a typu problému podľa Prílohy č. 1a č. 6 tejto SLA.
+
+Kritický problém: požiadavka Objednávateľa na riešenie problému Poskytovateľom, ktorý sa
+prejavuje výpadkom fungovania celého HW, SW komponentov 3. strán alebo SW komponentu, čo
+znemožňuje jeho použitie ako celku alebo jeho podstatnej časti. Za kritický sa považuje problém,
+ktorý sa prejavuje globálne voči nezastupiteľnej skupine používateľov a je predmetom tejto SLA.
+Ako kritický problém je charakterizovaný problém, ktorý je opakovane vyvolateľný alebo má trvalý
+charakter.
+
+Závažný problém: požiadavka Objednávateľa na riešenie problému Poskytovateľom, ktorý sa
+prejavuje výpadkom fungovania modulov a funkcií, čo závažným spôsobom obmedzuje ich
+použitie, pričom neobmedzuje použitie SW komponentov 3. strán, HW alebo SW komponentu ako
+celku alebo jeho podstatných častí. Za závažný sa považuje problém, ktorý sa prejavuje globálne
+voči nezastupiteľnej skupine používateľov a je predmetom tejto SLA. Ako závažný problém je
+charakterizovaný problém, ktorý je opakovane vyvolateľný alebo má trvalý charakter.
+
+Nekritický problém: požiadavka Objednávateľa na riešenie takého problému, ktorý znemožňuje
+používanie funkcií SW komponentov 3. strán, HW alebo SW komponentov z hľadiska koncového
+používateľa, pričom neobmedzuje použitie SW komponentov 3. strán, HW alebo SW komponentu
+alebo modulu ako celku alebo jeho podstatných častí.
+
+Doba neutralizácie problému: doba neutralizácie problému je pre Poskytovatela čas, do
+ktorého zabezpečí neutralizáciu nahláseného problému (počnúc hlásením Objednávateľa).
+Neutralizicia problému znamena obnovenie fungovania HW alebo SW komponentu ako celku
+alebo SW komponentu 3. strany, za predpokladu Ze rieSenie problému je predmetom SLA. Doba
+neutralizicie problému zivisi od USP a typu pozZiadavky. Do doby neutralizacie probiému sa
+zapotitava len ¢as podla platnej USP. Do doby neutralizécie problému sa nezapotitava Cas zdrZania
+nespdsobeny Poskytovatelom a ¢as ndsledného riesenia pri¢iny probiému.
+
+Elektronicky systém pre spravu poziadaviek: elektronicky systém pre spravu poZiadaviek
+(dalej aj len ,ESSP*) je informaény systém, prostrednictvom ktorého Poskytovatel a Objednéavatel
+zabezpeduja evidenciu a informécie o poZiadavkach.
+
+Reaktivna sprava o odstrafiovani problémov: kvartilna sprava obsahujtica zoznam vSetkych
+problémov, ktoré sa vyskytli v posudzovanom kvartéli, popis ich rieSenia a pripadne aj navrh
+opatreni na predchadzanie problémov do budiicnosti. Poskytovatel predkladd Reaktivmu spravu
+o odstrafiovani problémov najneskér do 10 kalendérnych dnf po skon€eni prislus$ného kvartalu.
+O implementacii navrhovanych opatreni rozhoduje Objednévatel ako o novej poZiadavke v stilade
+s touto SLA.
+
+Opravneni osoba Objednavatel'a: osoba uréena v Prilohe ¢&. 8 tejto SLA, ktora je opravnena
+nahlasovat, riesif a potvrdzovat vyrieSenie problémov spdsobmi uvedenymi v tejto SLA a zadávať
+poZiadavky a potvrdzovat ich vybavenie podla tejto SLA.
+
+Clanok 3
+Predmet SLA
+
+1. Poskytovatel sa zaviizuje za podmienok uvedenych v tejto SLA k poskytovaniu:
+
+1.1 SluZieb prevédzkovej podpory vo variante a v USP v zmysle objednavky Objednévatela podla ¢i.
+4 bod 1 tejto SLA, ak v tejto SLA nie je vislovne uvedené inak;
+
+1.2 SluZieb tidrzby na zéklade objednivky Objednéavatela podla €l. 4 bod 1 tejto SLA;
+
+1.3 Udrzby SW komponentov 3. strdn a HW na ziklade objednévky Objednévatela podla €l. 4 bod 2
+tejto SLA;
+
+Strana: 4 / 82
+1.4 Ostatnych sluzieb podla ¢l. 4 bod 3 tejto SLA.
+
+2. Ostatné sluZby podla bodu 1.4 tohto élanku SLA Objednévatel osobitne objedna od Poskytovatela
+a Poskytovatel ich bude poskytovaf za ceny podla cennika sluZieb uvedeného v tejto SLA ako cennik
+pre Ostatné sluzby.
+
+3. V pripade, ak Poskytovatel doda Objednavatelovi na ziklade tejto SLA akékolvek dielo, poskytuje
+Objednavatelovi na toto dielo rovnaka zaruku, ako poskytol na dielo rovnakého charakteru (resp.
+obdobného) vZikladnej zmluve. Ustanovenia Zakladnej zmluvy tykajuce sa  záruky
+(vritane odstrafiovania vad vzaruénej dobe) sa primerane vztahuji aj na prava a povinnost
+Zmluvnych strin vo vztahu k zéaruke na dielo dodané podla SLA.
+
+Clanok 4
+Objednavka
+
+1. Sluzby prevadzkovej podpory a Sluzby Gdrzby (Vol'ba variantu vratane USP)
+
+1.1 Poskytovatel pontka Objednavatelovi 12 variantov poskytovania SluZieb prevadzkovej
+podpory a ich rézne USP v spojeni s réznymi variantmi poskytovania SluZieb údržby, ktoré sú
+Specifikované v Prilohe €. 6 tejto SLA, tj. spolu je 12 variantov poskytovania uvedenych
+sluzieb. Objednéavatel si na zaklade vlastného uvaZenia moZe ka?dy tvrtrok trvania tejto SLA
+vybrat pre IS Objednavatel'a variant SluZieb previdzkovej podpory a USP a SluZieb tdriby
+podla Prilohy €. 6 tejto SLA tak, Ze odosle Poskytovatelovi objednavku na poskytovanie SluZieb
+prevadzkovej podpory a Sluzieb tGdrzby, vktorej uvedie okrem zikladnych vseobecnjch
+naleZitosti objednavky aj volbu variantu podla Prilohy & 6. Objednavatel zasle
+Poskytovatel'ovi prvii objednavku podla predchadzajlcej vety najneskor 14 dni kalendarnych
+pred zacatim poskytovania SluZieb previdzkovej podpory a SluZieb údržby.
+
+1.2 Objednavka Objednavatela podla predchidzajicej vety sa povaZuje za akceptovant diiom
+doručenia Poskytovatelovi. Poskytovatel odosle Objednavatelovi potvrdenie o dorudeni
+objednavky bez zbytoéného odkladu po jej obdrzani. V pripade, ak ma Objednavatel ziaujem
+zmenit variant sluZieb podla Prilohy ¢. 6, zasle najneskor 40 kalendarnych dni pred skonéenim
+prisludného Stvrfroku podfa bodu 1.1. tohto článku Poskytovatelovi objednavku na
+poskytovanie SluZieb prevadzkovej podpory a SluZieb adrzby v novom variante. Novy variant
+poskytovania SluZieb prevadzkovej podpory a SluZieb údržby nadobúda účinnosť uplynutím
+platnosti posledného zvoleného variantu poskytovania tychto sluZieb, t.j. kvartalu, v ktorom
+bola Poskytovatel'ovi doruéené objedndvka na novy variant podl'a Prilohy &. 6.
+
+1.3 Vpripade, ak Objednavatel nezasle Poskytovatefovi novit objednavku na novy variant podla
+bodu 1.2 tohto ¢lanku, prediZuje sa automaticky platnost posledného zvoleného variantu podľa
+tohto ¢lanku SLA.
+
+2. Objednavka Udrzby HW a SW komponentov 3. stran
+
+2.1 Objednavatel zasle Poskytovateľovi objednávku na Údržbu SW komponentov 3. strán
+uvedených v Prílohe č. 6 najneskôr 40 kalendárnych dní pred začatím poskytovama Udrzby
+SW komponentu 3. strany podla čl. 13 bod 2 tejto SLA na dobu 12 mesiacov. Podmienky
+vyuZivania SW komponentov 3. strán, na ktoré sa vzťahuje objednaná Údržba SW
+komponentov 3. strán určuje príslušný vyrobca SW komponentu 3. strán. Objednávateľ je
+následne na]neskor 40 kalendarnych dni pred vyro¢im poskytovama Udrsby SW komponentov
+3. strdn opravneny zaslať novů objednavku snovym zoznamom udrZiavanych SW
+komponentov 3. strin. V pripade, Ze si v niektorom obdobi Objednavatel’ neobjedné údržbu
+urcitého SW komponentu 3. strany, nie je moZné v d'alSom obdobi uZ objednat tdrzbu daného
+SW komponentu 3. strany v cene uvedenej v Prilohe & 6. Za vyrodie sa povaZuje uplynutie
+
+Strana: 5/ 82
+2.2
+
+2.3
+
+ka¥dych 12 kalendarnych mesiacov od zadatia poskytovania sluzby Udrzby SW komponentu 3.
+strany podla &. 13 bod 2 tejto SLA. Poskytovatel potvrdi Objednéavatefovi prijatie objednévky
+bez zbytoéného odkladu po jej dorudeni. Pre zamedzenie pochybnosti, potvrdenie prijatia
+objednavky sa nepovazuje za akceptaciu objednavky.
+
+Objednévatel zadle Poskytovatelovi objednivku na Údržbu HW uvedenú v Prilohe & 6
+najneskor 40 kalendarnych dni pred zacatim poskytovania Údržby)HW podľa čl. 13 bod 2 tejto
+SLA. Podmienky využívania HW, na ktoré sa vzťahuje objednaná Údržba HW určuje príslušný
+výrobca HW. Objednávateľ je následne najneskôr 40 kalendárnych dní pred výročím
+poskytovania Údržby HW oprávnený zaslať novů objednávku snovým zoznamom
+udržiavaných HW. V prípade, že si vniektorom období Objednávateľ neobjedná údržbu
+určitého HW, nie je možné v ďalšom období už objednať údržbu daného HW v cene uvedenej
+v Prilohe č. 6. Za výročie sa považuje uplynutie každých 12 kalendárnych mesiacov od začatia
+poskytovania služby Údržby HW podľa čl. 13 bod 2 tejto SLA. Poskytovateľ potvrdí
+Objednávateľovi prijatie objednávky bez zbytočného odkladu po jej doručení. Pre zamedzenie
+pochybností, potvrdenie prijatia objednávky sa nepovažuje za akceptáciu objednávky.
+Poskytovateľ sa bez zbytočného odkladu a v závislosti od aktuálne platnej USP príslušného
+výrobcu HW a SW komponentu 3. strany pisomne vyjadrí k objednávke Objednávateľa tak, že
+ju akceptuje, ak obsahuje všetky podmienky poskytnutia služby, odmietne, odošle
+Objednéavatelovi s pripomienkami alebo iniciuje vzdjomné rokovania alebo konzulticie za
+udelom dohody Zmluvnych strdn na podmienkach realizicie poZiadavky obsiahnutej
+v objednavke tak, aby bolo moZné zadat poskytovat objednant sluzbu odo diia uvedeného v ¢l.
+13 bod 2 SLA a prvého dna kazdého d’alsieho roka, pre ktory Objednavatel objedná túto sluzbu.
+
+3. Objednavka Ostatnych sluzieb
+
+3.1
+
+3.2
+
+V pripade Ostatnych slufieb Objednavatel zada Poskytovatel'ovi objednavku na ich poskytnutie
+a Poskytovatel na poZadované sluzby alebo dodivky poskytne Objednavatelovi ponuku.
+Objednavatel pisomne akceptuje ponuku alebo sa s Poskytovatelom pisomne dohodne na
+podmienkach poskytnutia poZadovanej sluzby podl'a tejto SLA.
+
+Bod 3.1 tohto ¢lanku SLA sa nevzfahuje na stuzby podla ¢l. 1 bod 1 pism. a), b} a c) tejto SLA
+poskytované nad ramec predplatenych sluzieb. Sluzby podla predchédzajicej vety sa poskytuju
+na zaklade poZiadavky Objednavatela zadanej podla ¢l. 7 tejto SLA.
+
+Clanok 5
+
+Miesto a ¢as plnenia
+
+1. Miestom plnenia tejto SLA je sidlo Objednévatela a sidla krajskych sidov, ak nie je dohodnuté, Ze
+md¥u byt poskytované aj formou dialkového pristupu podl'a čl. 10 bod 3 tejto SLA.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PSC Mesto Adresa
+S;IJiI'I;i\?(t)in?\E‘(;(S)ti SR 813 11 Bratislava Zupné namestie 13
+Krajsky sad v Bratislave | 813 66 Bratislava Zahradnicka 10
+Krajsky sid v Trnave 918 70 Trnava Vajanského 2/A
+Krajský súd v Trenčíne 191150 Trenčín Nám. Svätej Anny č. 28
+Krajský súd v Nitre 950 48 Nitra Štúrova 9
+Krajský súd v Žiline 010 01 Žilina Orlia 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Strana: 6 / 82
+ 
+
+ 
+
+ 
+
+ 
+
+Krajsky súd v Banskej , . .
+Bystrici 974 87 Banska Bystrica Skuteckého 7
+Krajsky siid v Presove 080 01 Presov Hlavna č. 22
+Krajský súd v Košiciach |04151 Košice Štúrova 29
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+1.
+
+Poskytovatel poskytuje Sluzby previdzkovej podpory v éase uréenom podla Prilohy ¢. 6 tejto SLA
+a Sluzby adrzby v dase osobitne dohodnutom medzi Zmluvnymi stranami. Poskytovatel moZe na
+pisomnu Ziadost Objednavatela poskytnat SluZby prevadzkovej podpory aj mimo éasu uvedeného
+v predchddzajticej vete, aviak za takiito ¢innost si bude Gétovat dvojnasobok odpracovanych hodin.
+
+Clanok 6
+Ceny a platobné podmienky
+
+SluZzby prevadzkovej podpory a Sluzby adriby:
+
+1.1
+
+1.2
+
+1.3
+
+1.4
+
+Ceny za Sluzby prevadzkovej podpory a ceny za SluZby údržby v rozsahu tejto SLA uhrádza
+Objednavatel' Poskytovatelovi jednym pausalnym poplatkom vo vyske uréenej v Prilohe &. 6
+(dalej len ,Poplatok za SPP a SÚ“). K vyslednej sume podla predchiadzajicej vety bude
+pripo¢itand DPH podla platnych pravaych predpisov. Poplatok za SPP a SU Poskytovatel
+fakturuje Objednévatelovi kvartélne, po uplynuti daného kvartalu, Faktira je splatna v lehote
+30 dni od jej doruéenia Objednávateľovi.
+
+Objednávateľ je oprávnený požiadať o vykonanie Služby prevádzkovej podpory aj nad rámec
+objednanej USP. V takomto prípade sa z príslušných predplatených človekohodín Služieb
+údržby odpočítava dvojnásobný počet hodín; v prípade
+
+a) vyCerpania prislusnych predplatenych ¢lovekohodin SluZieb údržby alebo
+
+b)  ak neboli predplatené Ziadne élovekohodiny Sluzby adrzby,
+
+sa fakturuje dvojnisobny pocet ¢lovekohodin prace v ramei Ostatnych sluZieb. Ostané sluzby
+podla tohto bodu sa fakturuju kvartalne po uplynuti daného kvartalu spolu s Poplatkom za
+SPP a SÚ podľa bodu 1.1 tohto článku alebo samostatne, vo výške určenej pre vybavovanie
+Ostatných služieb podľa cenníka v zmysle Prílohy č. 6 tejto SLA.
+
+Cena Služby prevádzkovej podpory je určená podľa rozsahu uvedenom v Prílohe č. 6 tejto SLA,
+V prípade, ak dôjde k rozsireniu IS Objednivatela nasadenim novych SW modulov s novou
+alebo rozsirenou funkcionalitou, od prvého dfia kalendarneho mesiaca nasledujiceho po
+akceptacii prislusného SW modulu zo strany Objednivatela, bude dopad do rozsahu
+poskytovania SluZieb prevadzkovej podpory aich ceny predmetom vzajomnej dohody
+zmluvnych strdn. Vpripade, ak rozsirenie IS Objednivatela vykoná iná osoba ako
+Poskytovatel, Zmluvné strany sa osobitne dohodnd na zmene tejto SLA v silade s platnymi
+pravnymi predpismi.
+
+V pripade vyčerpania predplatenych SluZieb udrzby sa daldie sluzby údržby považujú za
+Ostatné sluzby a fakturujii sa kvartalne, po uplynuti daného kvartilu, spolu s Poplatkom za
+SPP a SU podl'a bodu 1.1 tohto článku alebo samostatne, vo výške určenej pre vybavovanie
+Ostatných služieb, podľa cennika v zmysle Prílohy č. 6 tejto SLA.
+
+2. Údržba SW komponentov 3. strán a HW
+
+241
+
+Ceny za Udrzbu SW komponentov 3. strin a HW v rozsahu tejto SLA uhradza Objednavatel
+Poskytovatelovi vo vySke urlenej podla rozsahu objednivky Objednivatela aceny služby
+uvedenej v Prilohe ¢. 6.
+
+2.2 Poskytovatel fakturuje Objednévatelovi cenu Udrzby SW komponentov 3. stran a HW pred
+
+poskytnutim kaZdej tejto slulby Objedndvatelovi. Kvyslednej paudalnej sume podla
+predchadzajticej vety bude pripocitand DPH podla platnych pravnych predpisov. Fakttra je
+splatna v lehote 30 dni od jej doruéenia Objednéavatel'ovi.
+
+Strana: 7 / 82
+3. Ostatné sluzby
+
+3.1
+
+3.2
+
+Ceny za Ostatné sluzby méze Poskytovatel fakturovat az po:
+
+a) potvrdeni poskytnutia stuzby podla &. 7 bod 5 tejto SLA, ak sa jedna o sluzby podľa či. 1 bod
+1 pism. a), b) a c) tejto SLA poskytované nad ramec predplatenych sluZieb uvedenych v tejto
+SLA,
+
+b) na zaklade podpisaného Formulara o poskytnuti sluZieb (Priloba ¢. 2 tejto SLA) v pripade
+iných služieb podľa ¢l. 1 bod 1 pism. d) tejto SLA.
+
+Ceny za Ostatné sluzby Poskytovatel fakturuje vo výške určenej pre vybavovanie Ostatnych
+
+sluZieb podla cennika v zmysle Prilohy &. 6 tejto SLA, ak sa Zmluvné strany nedohodni inak
+
+alebo ak nie je v tejto SLA uvedené inak. Faktira je splatna v lehote 30 dni od jej doruenia
+
+Objednévatelovi.
+
+4. Platobné podmienky
+
+4.1
+
+4.2
+
+4.3
+
+4.4
+
+4.5
+
+4.6
+
+L
+
+Cena je stanovena podfa § 3 zdkona Nirodnej rady Slovenskej republiky ¢ 18/1996 Z.z.
+o cenách v zneni neskorsich predpisov a vyhlasky Ministerstva financii Slovenskej republiky č.
+87/1996 Z. z., ktorou sa vykonava zdkon Néarodnej rady Slovenskej republiky ¢. 18/1996 Z.z.
+o cenich v zneni neskordich predpisov. Zmluvna cena je vyjadrend v eurach.
+
+Cena za plnenie zahfiia vetky naklady Poskytovatela potrebné k poskytnutiu plnenia podla
+tejto SLA na jednotlivé miesta, vratane dopravy na miesta plnenia.
+
+Zmluvné strany sa dohodli na spdsobe platenia prostrednictvom bezhotovostného platobného
+styku, ktory sa bude realizovat vyhradne prevodnym prikazom.
+
+Zmluvné strany sa dohodli, Ze platba bude realizovana na zéklade faktary, ktort Poskytovatel
+vystavi Objednavatelovi po riadnom prevzati plnenia predmetu SLA v stilade s touto SLA, ak
+tato SLA neustanovuje inak. Prilohou faktry budt podpisané Pracovné vykazy o poskytnutych
+sluzbach (Priloha &. 5) a pri tovaroch dodacie listy, okrem faktary za Udrzbu SW komponentov
+3. strán a HW.
+
+Faktúra musí obsahovat vietky naleZitosti dafiového dokladu podla zakona ¢. 222/2004 Z. z.
+odani zpridanej hodnoty vzneni neskorSich predpisov azikona ¢&. 431/2002 Z. z.
+o iétovnictve vzneni neskorsich predpisov. Za spravne vyhotovenie faktiry zodpoveda v
+plnom rozsahu Poskytovatel.
+
+V pripade, %e fakttira nebude obsahovat prilohy podFa tejto SLA, vietky naleZitosti dafiového
+dokladu alebo bude obsahovaf iné zrejmé nespravnosti, vady v pisani alebo pocitani,
+Objednévatel ma pravo vratif ju Poskytovatelovi v lehote splatnosti na doplnenie alebo
+prepracovanie s uvedenim nedostatkov, ktoré sa maji odstranit. V takomto pripade sa ukončí
+póvodná lehota splatnosti a novd 30 dňová lehota splatnosti začne plynúť doručením
+doplnenej, opravenej, resp. novej faktúry Objednávateľovi.
+
+Článok 7
+
+Postup pri riešení problémov/požiadaviek
+
+Oprávnená osoba Objednávateľa nahlási problém/požiadavku v systéme ESSP na adrese
+
+https://otrs.ensentia.sk/otrs/customer.pl alebo e-mailom na adresu: sd@ensentia.sk a/alebo
+
+telefonicky v call centre Poskytovatela podfa Prilohy €. 3. Opravnena osoba Objednévatela
+
+nahlasuje problém podla predchidzajiicej vety Poskytovatelovi az potom, ako nebolo mozné
+
+vyriedit tento problém v prvom stupni Opravnenou osobou Objednavatela. Uskutoénit takéto
+
+hlasenie mo¥e vyluéne Opravnena osoba Objednavatela uvedena v tejto SLA. V pripade hlasenia
+e-mailom alebo prostrednictvom call centra Poskytovatel takéto hlésenie zaeviduje v systéme
+ESSP. Tento informaény systém vygeneruje identifikaéné ¢islo poZiadavky/problému.
+
+Akékolvek budtica komunikiacia medzi Poskytovatefom a Objednivatefom sa uskutočňuje
+
+použitím priradeného identifikaéného ¢isla poziadavky/problému.
+
+Strana: 8 / 82
+2. Sluzbukonajici Specialista Poskytovatel'a preveri poZiadavku/problém a za¢ne ich presetrenie. Podľa
+potreby kontaktuje Oprávnenú osobu Objednivatela. Komunikicia pracovnika Poskytovatela
+prebiecha priamo s Opravnenou osobou Objednédvatela. SluZbukonajtci ¥pecialista Poskytovatel'a
+oznami vysledok preSetrenia a odporicéané riesenie Opravnenej osobe Objednavatela. Na zaklade
+vysledkov preSetrenia bude pokradovat rie$enie problému.
+
+3. Problém bude rieSeny na ziklade priority uréenej dohodou Oprivnenej osoby Objednavatela a
+Poskytovatel'a. Opravnend osoba Objednévatel'a mé pravo zmenit poradie priorit rie$enia otvorenych
+problémov/poZiadavieck po dohode sopravnenym zastupcom zo strany Poskytovatefa
+dokumentovatelnym spdsobom. Nahlisené problémy rie§ia opravnené osoby Poskytovatela
+a Oprévnena osoba Objednévatela priamou komunikaciou.
+
+4. Po vykonani prac podpory (aj ¢iastkovych) pracovnikom Poskytovatela v priestoroch Objednévatela
+potvrdí Oprávnená osoba Objednavatela ich vykonanie vo formulari o poskytnuti sluZieb (Priloha ¢.
+2), z ktorého si ponechava kdpiu alebo potvrdi poskytnutie sluZieb v dohodnutom systéme ESSP.
+
+5. Vietky vyrieSené pozZiadavky /problémy Objednavatela musia byt potvrdené pisomne vo formulari
+onahldseni avyrieSeni problému/poZiadavky (Priloha & 3), ktory Poskytovatel predloZi
+Objednévatelovi alebo ich vyrieSenie musi byf zaevidované vsystéme ESSP. Splnenie kaZdej
+poZiadavky/problému bude potvrdené v rozsahu ich rieSenia Opravnenou osobou Objednavatela.
+Objednavatel je povinny potvrdit vyrieSenie ka7dej poziadavky/problému najneskér do 5 pracovnych
+dni odo dfa jej vyrieSenia. Plnohodnotnou alternativou akceptacie riedenia je akceptovanie riesenia
+poZiadavky/problému priamo vsystéme ESSP. Vopripade, ak Objednavatel riefenie
+poziadavky/problému neakceptuje, v rovnakej lehote svoje pripomienky a vyhrady uvedie do Prilohy
+¢. 2 tejto SLA (akcepta¢ného protokolu), ktora zasle Poskytovatelovi alebo priamo do systému ESSP.
+Ak Objednavatel bezdovodne neakeeptuje vyrieSenie poZiadavky/problému aani nevznesie
+pripomienky k rieSeniu poZiadavky/problému ani do 5 pracovnych dni od ich vykonania, povaZuje sa
+rieSenie poZiadavky/problému za akceptované.
+
+6. Ak je súčasne riešená kritická a nižšia úroveň problému, doba neutralizicie zavazného a nekritického
+problému sa predlZuje o dobu riesenia kritického problému, maximaine v8ak o dobu neutralizicie
+kritického problému definovaného prislu$nou USP podrla Prilohy &. 1. Doba neutralizacie kritického
+problému nie je ovplyviiovana poc¢tom otvorenych kritickych problémov.
+
+Clanok 8
+Uzatvaranie problémov
+
+1. Obidve strany povazuji problém v zmysle tejto SLA za uzavrety za tychto okolnosti:
+1.1 ak Poskytovatel poskytne Objednavatelovi rieSenie, ktoré neutralizuje nahliaseny problém
+a ktoré je konecné, ¢o Objednavatel potvrdi pisomne (Priloha &, 3) alebo potvrdi akceptaciu
+v systéme ESSP;
+1.2 ak Poskytovatel na ziklade presetrenia zistil a Objednévatel'ovi oznamil, že:
+
+a) problém sposobili chyby SW komponentov 3. strdn, na ktoré sa tato SLA nevztahuje,
+
+b) problém vznikol nesprivnym pouZivanim zo strany Objednavatela,
+
+c) problém vznikol nespravnou alebo neautorizovanou modifikdciou HW infrastruktiry, HW
+komponentov, SW infrastruktiry alebo SW komponentu vykonanou Objednavatelom bez
+vedomia Poskytovatel’a,
+
+d) problém vznikol znehodnotenim podporovaného systému alebo jeho časti, vrátane dat,
+spôsobeným napadnutim systému z vonku,
+
+e) problém vznikol nedodrZanim odportGéanych postupov Objednavatelom, uvedenych v
+prevadzkovej dokumentéacii dodanej Objednavatelovi,
+
+f) rieSenie problému nie je predmetom tejto SLA a ani sa na jeho rieSeni nedohodli,
+
+g) hlaseny problém je v rozpore s dodanou dokumentaciou.
+
+Článok 9
+Prava a povinnosti Poskytovatela
+
+1. Poskytovatel poskytuje informacie vetkym Opravnenym osobam Objednavatel'a aj prostrednictvom
+on-line pristupu do informaéného systému — ESSP, t.j. Poskytovatel poskytne Opravnenym osobiam
+
+Strana: 9 / 82
+Objednavatela pristup do systému ESSP, vktorom budii zaznamenané informécie urené pre
+Opravnené osoby Objednavatela.
+
+2. Poskytovatel je povinny predkladat Objednéavatelovi mesacne ,Pracovny vykaz o vykonanych
+službách“ podla Prilohy €. 5 v termine do 5. pracovného diia nasledujiiceho kalendarneho mesiaca.
+
+3. Poskytovatel sa zaviizuje, ¢ vramci rieSenia poZiadaviek nebudii vyvinuté alebo upravené SW
+komponenty obsahovat Ziadnu nezdokumentovana funkcionalitu nepoZadovant Objednavatelom,
+ktora nie je potrebné pre zabezpeéenie funkénosti SW komponentov (tzv. back-doors).
+
+4. V pripade poskytnutia sluzby na zaklade tejto SLA, ktorej vysledkom je autorské dielo, Poskytovatel
+udeluje Objednavatelovi licenciu k tomuto dielu za rovnakych podmienok a v rovnakom rozsahu,
+ako je uvedené v Zakladnej zmluve, pokial sa Zmluvné strany pisomne nedohodli alebo nedohodnt
+inak.
+
+5. Poskytovatel je povinny predkladat Objednéivatelovi pisomné Reaktivne spravy o odstrafiovani
+problémov najneskér do 10 kalendarnych dni po skonéeni prislusného kvartilu, za ktory sa sprava
+vyhotovuje.
+
+Clanok 10
+Prava a povinnosti Objednavatel’a
+
+1. Objednavatel je povinny nahlasovat Poskytovatelovi vietky poZiadavky/problémy postupom podfa
+tejto SLA.
+2. Objednavatel je povinny aktivne spolupracovat s Poskytovatefom na rieSeni problému a poskytovat
+mu súčinnosť.
+3. Objednávateľ je zodpovedný za zabezpečenie:
+a) primeraného pracovného prostredia,
+b) prístupu do potrebných priestorov a použitia všetkých zariadení Objednávateľa, ktoré
+Poskytovateľ potrebuje na účely poskytnutia služby a ktoré má Objednávateľ k dispozícii,
+¢) poskytnutie primeranych prostriedkov diaľkového prístupu pre servisné zásahy v súlade
+s platnými internými predpismi. Diaľkový prístup môže byť vykonávaný výhradne z primárneho
+alebo sekundárneho dátového centra (ďalej len „DC“). Pri prístupe zo sekundárneho DC
+smerom k primárnemu DC je okrem bežného autentifikačného procesu (napr. meno, heslo, iny
+autentifikačný predmet) potrebné potvrdiť Oprávnenou osobou Objednávateľa prístup
+k službám, zariadeniam a prostriedkom primárneho DC. Každý takýto prístup bude logovany
+vrátane všetkých vykonaných aktivít. Oprávnená osoba Objednávateľa bude mať možnosť on-
+line sledovať obrazovku zariadenia, ktoré sa pripája na diaľku a v nevyhnutnom pripade tieto
+aktivity prerušiť (pozastaviť).
+
+4. Objednávateľ je povinný poskytovať technické informácie a dokumenty, ktoré vlastní a týkajú sa
+požiadavky na službu podľa tejto SLA a požaduje ich Poskytovateľ.
+
+5. Objednávateľ je povinný vlehote 5 pracovných dní podpísať „Pracovný výkaz o vykonaných
+službách“ podľa Prílohy č. 5 doručený Poskytovateľom alebo doručiť Poskytovateľovi písomné
+zdôvodnenie odmietnutia podpísať uvedený výkaz s konkrétnymi výhradami a prípadne navrhnúť
+spôsob ich nápravy. V prípade, ak Objednávateľ bezdôvodne nesplní povinnosť uvedenú
+v predchádzajúcej vete, na uvedený výkaz sa hľadí, ako keby bol podpísaný Objednávateľom.
+
+Článok 11
+Sankcie
+
+1. Ak je Poskytovateľ vomeškaní sakýmkoľvek plnením podľa SLA, je Objednávateľ oprávnený
+požadovať za každý deň omeškania zmluvnú pokutu vo výške 0.05% z ceny mesačného paušálneho
+poplatku, ak ide o služby hradené paušálnym poplatkom, v ostatných prípadoch z ceny plnenia v
+omeškaní.
+
+2. V prípade omeškania Objednávateľa s úhradou riadne vyhotovenej faktúry, Poskytovateľ je
+oprávnený uplatniť voči Objednávateľovi úrok z omeškania vo výške 0,05 % z dižnej sumy za každý,
+aj začatý deň omeškania.
+
+Strana: 10 / 82
+o
+
+10.
+
+m
+*
+
+Článok 12
+Spósoby ukončenia SLA
+
+Túto SLA je možné ukončiť kedykoľvek písomnou dohodou zmluvných strán alebo odstúpením.
+
+. Od tejto SLA možno odstúpiť iba v prípadoch a za podmienok uvedených v tomto článku SLA.
+. Objednávateľ je oprávnený odstúpiť od SLA, pokiaľ Poskytovateľ:
+
+a) podstatne porušil svoju povinnosť vyplývajúcu z tejto SLA,
+
+b) vostatných prípadoch porušenia povinnosti podľa SLA, pokiaľ nevykonal nápravu ani
+v primeranej lehote, ktord mu poskytol Objednávateľ alebo ak sa jedná o opakované porušenie
+povinnosti, hoci ho Objednávateľ už písomne upozornil na tento nedostatok alebo písomne vyzval
+na jeho odstránenie.
+
+Za podstatné porušenie povinnosti Poskytovateľa sa považuje najmä nedodržanie doby neutralizácie
+kritického problému a závažného problému.
+
+. Odstúpenie od SLA sa netýka autorských práv k dielu, ktoré zostávajú zachované.
+. Poskytovateľ je oprávnený odstúpiť od SLA, ak Objednávateľ:
+
+a) bude v omeškaní s poskytnutím potrebnej súčinnosti podľa tejto SLA a túto súčinnosť
+neposkytne ani v dodatočnej lehote poskytnutej Poskytovateľom v dižke najmenej 30 dní,
+b) sa opakovane omešká s úhradou splatných faktúr o viac ako 15 dní odo dňa splatnosti faktúry.
+
+. Odstúpenie od SLA musí mať písomnú formu, musí v ňom byť uvedený dôvod, pre ktorý Zmluvná
+
+strana od SLA odstupuje.
+
+. Objednavatel' je opravneny odstipit od SLA aj v nasledujicich pripadoch ato bud v celom jej
+
+rozsahu alebo ¢iastoéne a to aj bez vyzvy na dodatoéné splnenie zévizkov v pripade:
+
+a) vyhlasenie konkurzu na Poskytovatela alebo povolenie restrukturalizicie Poskytovatela,
+
+b) vstup Poskytovatela do likvidacie,
+
+c) zadatie exekuéného konania proti Poskytovatel'ovi,
+
+d) ak komukol'vek, kto je sti¢astou organizicie Objednavatela alebo akémukolvek podriadenému &
+zastupcovi Objednavatela pontikne alebo d4 Gplatok Poskytovatel alebo jeho podriadeny alebo
+zastupca,
+
+e} ak dojde k ukondeniu Zakladnej zmluvy akymkolvek inym sp6sobom, ako jej splnenim (vréitane
+odstúpenia od Zakladnej zmluvy ktoroukol'vek stranou).
+
+. Odsttipenie od SLA nemd vplyv na pravo odstupujicej Zmluvnej strany domahat sa nihrady za
+
+vSetky nou vynaloZené naklady, $kodu, tiroky a sankeie, ktoré jej vyplyni z nesplnenych zavazkov, ak
+nie je uvedené inak.
+
+. Pri odstapeni od SLA z akéhokol'vek dévodu ktoroukolvek Zmluvnou stranou Objednavatel pisomne
+
+oznami Zhotovitelovi, ktoré plnenia si Zmluvné strany navzdjom vratia. Poskytovatel je povinny
+poskytnat Objednavatelovi plnenie uréené Objednavatelom podla predchadzajicej vety a plnenie,
+ktoré je povinny vratit, do 15 dni od Géinnosti odstiipenia od SLA.
+
+Poskytovatel pre pripad odstipenia udeluje Objednéavatel'ovi licenciu s néleZitostami uvedenymi
+v Z&kladnej zmluve ku vSetkym dielam, ktoré vytvoril alebo zabezpedil ich vytvorenie a ktoré boli
+odovzdané Objednavatelovi, resp. budi odovzdané na zéklade tejto SLA, pokial Objednavatel
+neziskal tieto licencie inym spôsobom. Zároveň sazavdzuje v pripade pisomnej Zadosti
+Objednavatela a za podmienock uvedenych v tejto SLA zabezpedit licencie k dielam tretich stran,
+ktoré sa tykaji odovzdanej casti poskytnutého plnenia.
+
+Clanok 13
+Zavereéné ustanovenia
+
+Tato SLA sa uzatvara na dobu určitů do 31.12.2018.
+
+. Tato SLA nadobuida platnost diiom jej podpisu opravnenymi osobami obidvoch Zmluvnych stran
+
+a účinnosť dňom odovzdania IS Objednéavatela podla Zikladnej zmluvy, najskdér vSak driom
+nasledujicim po dni jej zverejnenia v zmysle bodu 2 tohto ¢lanku SLA. Sluzby previdzkovej podpory
+v8ak bude Poskytovatel poskytovat a7 od uplynutia zaruénej doby IS Objednavatela (okrem HW a
+SW komponentov 3. strdn) podl'a Zakladnej zmluvy. Sluzby Udrzby SW komponentov 3. stran a HW
+bude Poskytovatel poskytovat azi od uplynutia zarucnej doby osobitne HW a osobitne SW
+komponentov 3. strédn podla Zakladnej zmluvy.
+
+Strana: 11 / 82
+ 
+
+3. Tato SLA je povinne zverejiiovanou zmluvou vzmysle § 5a zdkona &. 211/2000 Z.z. ¢
+pristupe k informécidm a o zmene adoplneni niektorych zdkonov (zdkon o slobode i,
+v platnom zneni. Zmluvné strany berti na vedomie a stihlasia, Ze tato SLA vritane vietkych i
+a priloh bude zverejnena v Centralnom registri zmliv Uradu vlady Slovenskej republiky. Zve
+SLA sa nepovaZzuje za porudenie ani ohrozenie obchodného tajomstva a informacie oznacené
+SLA ako dbverné v zmysle § 271 odsek 1 Obchodného zdkonnika sa nepovaZuji za déverné.
+4. Véetky zmeny tejto SLA moZno vykonat vyluéne dohodou vo forme odislovanych pisomn,
+dodatkov k tejto SLA, podpisanych zastupcami oboch Zmluvnych stran.,
+5. Vztahy a iné pravne zaleZitosti, ktoré nie st upravené v tejto SLA, sa riadia Zakladnou zmluvou
+a prisluSnymi ustanoveniami Obchodného zikonnfka a stvisiacimi ostatnymi vSeobecne
+zavaznymi predpismi v poradi uvedenom v tejto vete,
+6. Tato SLA je vyhotovené v iestich exemplaroch v slovenskom jazyku, z ktorych Objednavatel obdrzi
+4 {§tyri) vyhotovenia a Poskytovatel obdrzi 2 (dve) vyhotovenia.
+7. Neoddelitel'nou sufastou tejto SLA st nasledujtice prilohy:
+
+a)
+b)
+c)
+d)
+e)
+f)
+
+g)
+h)
+
+Príloha č. 1: Zoznam úrovní spracovania požiadaviek (USP),
+
+Príloha č. 2: Formulár o poskytnutí služieb,
+
+Príloha č. 3: Formuldr o nahlaseni a vyrieSeni problému/poZziadavky,
+Priloha ¢. 4: Systém ESSP,
+
+Priloha €. 5: Pracovny vykaz o vykonanych slubéch,
+
+Priloha &. 6: Specifikacia sluZieb a Cenntk,
+
+Priloha &. 7: Vzor Navrhu na zmenu,
+
+Priloha €. 8: Nahlasovanie problémov a Oprivneni osoba Objednévatela.
+
+8. Zmluvné strany vyhlasuji, Ze si tito SLA precitali, jej obsahu porozumeli a na znak toho, Ze cbsah
+tejto SLA zodpoveda ich skutočnej a slobodnej voli, ju podpisuja.
+
+34 m
+. V Bratislave dňa
+
+V Bratislave ARA ...,
+
+Ž
+
+Ministerstvo spravodlivosti SR
+JUDr. Jana Britafidkova,
+
+vedtica sluZobného firadu
+
+ 
+
+ensentia s.r.o.
+Ing. Jana Klimentova
+konatelka
+
+Strana: 12 / 82
+Priloha ¢. 1
+Zoznam Urovni spracovania poziadaviek
+
+Reakčná doba Poskytovatela na problém Objednavatela sa uréuje na zaklade
+prislusnej USP. Poskytovatel poskytuje Sluzby prevadzkovej podpory pre tieto typy
+urovni. ěas sa vždy meria od najbližše: pracovnej hodiny od momentu, keď cali
+centrum úspešne zaznamená hlásenie problému zo strany Objednávateľa, alebo od
+momentu, kedy je problém zaznamenany do systému ESSP alebo od momentu
+dorucdenia hlasenia problému emailom Poskytovatelovi.
+
+Uroven spracovania poziadaviek zakladna:
+
+Pracovné hodiny st podas pracovnych dni < 8:00; 16:00> (5x8). Cas mimo pracovné
+hodiny podla predchidzajticej vety sa do reakénej doby ani do doby neutralizacie
+problému nezapoditava.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Typ poziadavky -Reakéna doba Doba neutralizécie
+problému
+
+Kriticky problém 2 12
+
+Zavazny problém 4 24
+
+Nekriticky problém 8 46
+
+ 
+
+Urovent spracovania poziadaviek Stredna:
+
+Pracovné hodiny st poéas pracovnych dni <8:00; 20:00> (5x12). Cas mimo pracovné
+hodiny sa do reakénej doby ani do doby neutralizicie problému nezapoditava.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Typ poziadavky Reakéna doba Doba neutralizécie
+problému
+
+Kriticky problém 2 6
+
+Zavazny problém 4 12
+
+Nekritický problém 8 24
+
+Úroveň spracovania požiadaviek Vysoká:
+
+Pracovné hodiny sú nepretržite (24x7x365).
+
+Typ požiadavky Reakčná doba Doba neutralizácie
+problému
+
+Kritický problém 2 6
+
+Závažný problém 4 12
+
+Nekritický problém 8 24
+
+ 
+
+ 
+
+ 
+
+Strana: 13 / 52
+
+ 
+
+ 
+
+ 
+Priloha c. 2
+
+Formular o poskytnuti sluZieb
+
+ 
+
+Objednavatel
+
+Poskytovatel
+
+ 
+
+ 
+
+ 
+
+Ministerstvo spravodlivosti SR
+
+ensentia
+Bratislava, s.r.o.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sluzbu Datum 0d Do Odpracovany čas
+zabezpelil/-a
+
+Cas pripravy sluzby:
+
+Celkom v člh:
+
+Z toho čih v rámci
+
+predplatenych:
+SluZba vykonand v priestoroch Objedndvatela: Ano L] Nie[ |
+
+ 
+
+ 
+
+Strana:
+
+14/ 82
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Zoznam krokov pri poskytnutf sluzby resp. vystupov:
+
+ 
+
+ 
+
+Tymto akceptujem poskytovanu sluzbu.
+
+Celé meno Objednavatela: . nrenvác n vraana nnn ána
+
+Podpis Objednavatela: e,
+
+ 
+
+ 
+
+Interné poznamky spolocnosti:
+
+ 
+
+Strana: 15 / 82
+Priloha &. 3
+Formular o nahlaseni a vyrieseni
+
+problému/poziadavky
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ID Objednávateľ Poskytovateľ
+Ministerstvo spravodlivosti SR ensentia, s.r.o.
+Nahlasil Prevzal Datum/¢as
+vrrrverarnnnene [t
+Typ: Kriticky problém [ ] ZavaZny problém [ ]
+
+Nekriticky problém [} Ina poziadavka [_]
+
+ 
+
+ 
+
+Aplikacia/Systém:
+
+ 
+
+ 
+
+ 
+
+Popis problému/poZiadavky:
+
+ 
+
+Strana: 16 / 82
+
+ 
+ 
+
+ 
+
+ 
+
+Polet odpracovanych čih: Z toho spotreba z predplatenych ¢lh:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Poznamka :
+ID ozndmi nahlasujicemu zamestnancovi Objedndvatel'a zamestnanec
+Poskytovatel'a
+
+Tymto akceptujem poskytovani sluzbu.
+
+Celé meno Objednavatela:
+
+......................................................
+
+Podpis Objednavatela:
+
+......................................................
+
+Dátum a čas podpisu:
+
+................................................................
+
+Strana: 17 / 82
+Priloha ¢. 4
+System ESSP
+
+Nahlasovane vady sa do systému ESSP dostava dvoma spdsobmi:
+
+1} Telefonickym nahlasenim na telefénne Cislo 02/32382720
+2) zaslanim emailu na adresu sd@ensentia.sk
+
+1) Telefonické nahlasenie:
+
+Operator popise telefonické hlasenie do systému ESSP ruéne. Daléi proces prebieha
+rovnako ako pri zadavani e-mailom.
+
+2) Zadavanie e-mailom:
+
+Operator obsluhyjuci e-mailovl schranku prekopiruje popis vady do sys ESSP
+a nasledne spusti proces:
+
+nahlasenej vade priradi prioritu v zmysle zmluvy
+priradi jej riesitela za definovani oblast
+spusti proces
+
+riešiteľ prevezme zaevidovanu vadu, zmeni status na „v riešení“ a po
+vyrie§eni vady zmeni status na ,vyrieSené" a proces pokracuje
+
+vada v statuse ,vyrieSené® ie nasadena v dohodnutom čase zákazníkovi,
+ktory definuje korektnost opravy danej vady, €o ihned potvrdi e-mailom alebo
+telefonicky
+
+v zmysle horeuvedeného sa dana vada da do statusu ,uzavreté*
+
+Strana: 18 / 82
+Priloha €. 5
+Pracovny vykaz o vykonanych sluzbach
+
+Strana; 19/ 82
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Poskytovatel: Objednavatel:
+ensentia, s.r.o. Ministerstvo spravodlivosti SR
+1D Popis Požiad- | Zamestnanec |Záruky a | Hod Pozn.
+problému/požiadavky | avka zo | vykonávajúci |reklamácie
+dňa službu ZR,
+Servis S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPOLU počet hod prenesenych z predchadzajuceho mesiaca
+
+ 
+
+SPOLU pocéet hod vyCerpanych v danom mesiaci
+
+ 
+
+SPOLU pocet hod prenesenych do nasledujuceho mesiaca
+
+ 
+
+ 
+
+SPOLU podet hod vy&erpanych od zagé. pinenia SLAVT. ... |
+
+ 
+
+ 
+
+Prehfad vykonanych prac nad ramec|Cislo objednavky|Pocet ¢lh  |{Suma
+
+ 
+
+ 
+
+ 
+
+predplatenych ¢lovekohodin: + ID problému/
+poZiadavky
+
+Projekt manazment
+
+Analyza
+
+Konzultacie
+
+ 
+
+Navrhovanie
+
+ 
+
+Programovanie
+
+ 
+
+Testovanie
+
+ 
+
+Administracia a implementacia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dokumentacia
+
+ 
+
+Strana: 20 / 82
+
+ 
+ 
+
+Skolenia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Iné činnosti:
+
+Celkom:
+Odovzdal: Prevzal:
+Meno: Meno:
+
+Podpis: Podpis:
+
+ 
+
+Strana: 21 / 82
+
+ 
+
+ 
+78 / Tg 'eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8864 %02 Sr'99 5TO og'boz vaBidop yowmepeizod yofuuogz somei peu sraros fugruez | 8
+009533 %0¢ 000881 oo'b6 o00 EIUZENEZ N ZBJUOW © BROR{eISUl yomeperzod yoátmuoyez saurel peu siazas Aupnaez | L
+0095z %02 00'088I 006 o00 NIGAJOS BIOBINŠIJEOH youeperzod YD2AUUONEZ DOUIBI PRU SIASS AUPIEZ | 9
+965901 %0 OČ 888 o06 6 NIPADIEY BRRINSYUOY yomeperzod yofuuoyez sourgi peu spjaros fuon1ez |: S
+oo'gfee %0 o00'0g8T oo'bó oo'oz ALpzpeasid op emopenez oyaugyunjeu amuapaan yomeperzod ysáuuoyez soumi peu siaos Augniez | F
+oo'9Szz %6032 00‘0gg1l o06 00°02 yonrod stuescuenspo e eaezdo »Xomeperzod Yo4UUONEZ JAWET PeU States jupniez | €
+00691 %0%T oc‘orbr 0076 00751 noqoLfa oeyyoads eypod eynsouderp yoraepeizod YoSUUONEZ DOUIEI PEU SIAIS AUPNIEZ | E
+002691 OT ooo oo'P6 oGT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+naqoria moeads ejpod BIOdpod FYJIUUDDI
+
+ 
+
+ 
+
+TV LAVAM
+VZ VN349 WOM'149
+
+ 
+
+TIUBLILA MS ddŠ SMeaejsdo
+
+YIUUB9 e dSIZNIS BIDBYHIDSdS
+
+9 "2 eyojlid
+
+ 
+
+¥oraepeizod Y2AUMONTZ D9UIET PRl S1a10s fupnieZ
+
+ 
+
+ 
+
+ 
+
+ 
+T8 / €7 reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'gz1Y %0z oo'ovré o06 o001 PITBAOIOU ÁA staros swodpog | gz
+OUIUIOINYS FDEIUSWNYOP BIITZIBNINE B BQI0A] S
+OO“REIE %woz oo'otré oo'b6 00'01 SPEIUSTUNYOP 3
+(BAOXZpPBADIČ e (JYDLURGODBI PIDEZIJENYJE B EGIOAJ staas futodpod | 4z
+8]'L6TL %0e 06't99z 00't6 SÚg SPEBIUJMTEJOP FIAOPJALOIÁ eg1041 smAtos íurodpog | 97
+oo'gen %os 00°0¥6 0076 000t urodnzsod wáuoe jejsumy stuoumowusn sas áurodpog | Sz
+g8 %oz S1'gg Sz‘o og'bgz | Aynando: foysuoaojg rutozn eu sues futodpog | vz
+wion{ndny oygusgin eruourd e3seiw op eaeidop : :
+oo'gert %0z 00'ob6 o06 o0001 AOHIUAODBJÁ UDÁROTUUDIY omajoysez STAJOS ÁUJOdpod | €2
+0o'geIt 407 oo'oté od6 o0001 TIBAJOS OUFUIOČPO e sowisds yasuperado states fuzodpog | zz
+‘luspeLiez epeIndyuoy B epeEigupald Aů
+eruapeLrez ÁUONIOd OYTZLÍ
+HZIUZ WOBID S "AOUBSEZ yoáustaos ydfudganod
+9£'656 %0z Lb66L 00'b6 1Sg BRURUOJÁM € yoniod sofoipz ipdupgnuatod States faoxzpeanig | 1z
+BTUS{RYPO (UO[OYN BZ ACWIPISAS YOIORIPRLE A /
+v Yoduperado nzisa YOAUTEIIE ‘AGPONOINILE
+agxdo yosueyniodpo arpaciaswajdur
+ELRI6T %0T ¥6°g651 oo'tró TO oprpmy POROLŽOLOJO SIAJOS ÁAOHZDBAJIJ | OZ
+U1 SUBIEIA AO[ID YOAUDPRIYRU BYABPOP é ?
+
+g %03 Sr'99 Sz'o 09'v9z eaeidop STAJOS KAOJZpERAJIJ | 6T
+ELg161 %oz ró'gáčt oo'P6 1051 CHIUZEEZ N zvjuou B BIOR[RISUL SIA13s ÁAOJZPBADAJ | ST
+EL'g1o1 4O bó'gósr od6 1052 NIJAHOS BIOBINIYUDY Statos faoyzpraoag | Z1
+OO BT %02 oo'obé oo'bé o0001 NADAPILU PIOBINŠKUOCYH SIAJ9S ÁAOJZpBRAJUJ | 9T
+646861 %02 98591 oo'bé bo'lt £yzpesdid op BIAPELIEZ OYIUDURSU SLUIPIAT SIAI9S fa0NZpRARL] | ST
+965901 %0¢ 00888 006 57°6 tponiod zmreaoueijspo £ BALICO 18198 faoyzpeaald | Pt
+oo‘gell %028 oo'ovo oo'bó 00'01 noqouda toexyads epod eynsoudep s1A10s Aaoyzpeadnd | €1
+oo'gait %0% oo'obé 006 o0O1 NOGOIÁA UDEJYIDSÍS EJPOd L10dpod BYDRUHODI SIAJ9S KADOJZPBADIJ | zr
+0095923 *0 oo'o8ggi oo'b6 oo'oz BYMEZEJ Z 1 BIUapeLIez annuympzia -dsai ‘earido Youeperzod gofutoyp 5ourel peu sintes Augniez | 11
+
+BiURpELIRZ Aforntod oMz
+ZIUZ WO § ‘AoyeseZ YoAusiaias yodugarjod
+OD'BeTT %oz7 oo'obo oo'bo oo'or BLUBUOJÁM B Uomiod aofo.pz ypáujeouozod yoweperzod YoAuuoy ez J0WeRT peu SIS sugniez | o1
+BLUJJEUPO UMO[9IU 8z AOUgJSÁS UJDMLIPELI SRR ? / ' PR
+€ yodupetado [z UDÁHLENIJE ‘AOPONODILE
+agado yoduepniodpo auesciusuiajdug
+00'98z3z 407 O0“OggI 006 0007 spepni loprdojoye yomeperzod vafuuoyez sourer peu siatós Sugniez | 6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UD QUBJRIA AO[IIP YOAUPRIYRU BYARPOD
+
+ 
+
+ 
+
+ 
+78 / ¥¢ reuens
+
+ 
+
+ 
+
+ 
+
+ 
+
+ooo %oz 00°‘0 00‘0 0 IOTLERS YIA[EUE STUZIY Ayuonupod 2u29goaga | . g
+o000 %woz ooo odO 0 BIUISILL PANYIY Ayuomutpod Jusoqosga o
+000 9%0¢T ooo oo'o o pjpojupre iupeyxipdly Ayuomupod 3u24dogA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo0‘gSee
+
+9%0
+
+00°'0881
+
+oo'b6
+
+oo‘oz
+
+NUIJISÁS
+OYPUIR IO FRBIUITUTOD RIIBZIENPY
+
+AV SA9
+
+|E
+
+ 
+
+oo‘gSze
+
+OT
+
+oo'oggt
+
+oo'Pó
+
+oo'oz
+
+noweyljde yosuaqosods
+
+Aoraates gosupeyrde mypedda 11d ‘Aciaass
+TOÁUJENICÍE e zeqejep aqzIpn Lid nuojsás
+OUIUFEUHOJUT PS MTBABIÁS UMOUP.IEPULISIU
+ud nwgysis avoaerds speymzucy e e1odpod
+
+AdV SRS
+
+Le
+
+ 
+
+00'9See
+
+%0¢
+
+00°0881
+
+006
+
+oo'oz
+
+LUB]SÁS ÁUJRULIOJÚL
+BU BIUAAR(AA OA0IDAY0S OYsupIepuels jejdez
+ypdusougadzag e UDÁUJYUTY NAÁTA IATUBADOISILO
+
+AV stalag
+
+ot
+
+ 
+
+00°95ZT
+
+%02
+
+oo'oggt
+
+oo'bo
+
+0002
+
+NEUJISÁS OYJUTJRULIOJUÍ
+aeadr e jejdez gofulsougadzag e upáoyunz
+‘apado yopAupniez efueA0yjoAn Susgadzagey
+
+AdV Sialdg
+
+SE
+
+ 
+
+00‘g%ce
+
+%03
+
+oo'ogSgt
+
+oo'“P6
+
+oo‘oe
+
+e DIPAOLÁNSO arusuld aid yoduspun
+AJeAY] NUEFISAS B NSIZEURL OYueIndYuoy
+eagxds “Sugonuoy “usuwizeurur Laoppfold
+
+Ady SS
+
+v8
+
+ 
+
+0095z
+
+OT
+
+OV OBST
+
+oo'Pbó
+
+00'0T
+
+BIDIBAOJÁHSOd BABIČS A A Átopy “WNSAS
+ÁUBPUHOJÚL 31d NTYSAPÁLSH HUBAOJZPRAJIJ
+
+AV SIAIRS
+
+E
+
+ 
+
+00‘94ze
+
+%0
+
+O0“OGST
+
+oot
+
+oo'oz
+
+PIDIRAOLÁJSOUÚ
+BABIÁS A B UTOJIAEUU superysa of 3103y ‘erpansord
+OUDAOÍOAKA srueaonzpesaad e suapuseN
+
+AV slaldg
+
+2
+
+ 
+
+Q0'gegb
+
+9%0%T
+
+o0‘'061g
+
+00‘0%
+
+og'£or
+
+{suy-104)
+eqzns pysuspeiod RYRAUGJMO B VIS AOJJIUTEJEÁ
+prueAO}uEled Wwofepy vz nsoaojoyod stuagadzoqez
+
+AdV SIalog
+
+1t
+
+ 
+
+9S‘chge
+
+KO
+
+og'potz
+
+oo'Pó
+
+ovE
+
+ABIÍS UDÁUZIAJI BCHOAJ
+
+SIAJ95 Aurodpog
+
+o£
+
+ 
+
+ 
+
+LL BTOT
+
+ 
+
+OT
+
+ 
+
+vrá'gást
+
+ 
+
+oo'Po
+
+ 
+
+10°L1
+
+ 
+
+AQHIISAS B TUSPRURE [Z1A3] STUBARTONAA
+
+ 
+
+SIAJ3S Auzodpod
+
+ 
+
+6z
+
+ 
+78 / of reueng
+
+eavlpodezou nwajqord
+
+opezEennou  Aqop op IuB  Agop
+(augqear op es Ajea [eonfezpeyopoid
+epod Aurpoy suaooeld
+OUIITUI SBO "(8XG) 00:91 0p 00:8 Po Iup
+yofuaodeld sepod ns Aurpoy ouaoorid
+:,eupep[ez”
+
+yoraeperzod eruesoderds udaoa()
+
+"yameperzod YIAAOUSWIZ D1UDSDLE BU BYIUURD BiPOd DIUISAN BZ BPRILN 1AO]318A0IAYSO
+
+1zajeunid ‘wodieidod wAujegned ezpeayn es eio) ‘Adodpod [auenoiAysod 1dwes A 3f 31U NW|qOoId GYBINUJIÚZA IUBSIL Ry
+BISZIU fBUSPBAN 4sp aunoun ejpod Aanjuz
+
+ojfaj Hsoujejd sez0d ojamp o AAnjwz ejpod wioa)1eA0IAYSOd OYBUIIOAIAA S| LY Si PRA JDAJOJUDÁJE BIUBACUEJISPO (B
+
+niodpod aid 53 op ndnisyad
+
+BUI-U0 WOAJIIUPaIIS0.Id dainepeizod eludgaLl dARIS O 11DBWIOJUL IIUBACIAYSO (P
+
+SILY S1 nyeszod A Ajapn gaoyzpeaasd eu juedniodpo e Auodpod
+
+apnnujÁysod ‘nwaqold oysujaleroxynuap) 1veziesnsu d Ia0ja3earupalqo eInulAysed ejodpod — nwig|qoud auasals e ezAjeuy (2
+‘gjaeagupalqo S| oygueacsodpod nyeszol
+
+Anwsg|qosd oysuep nuRlad JeAoNyIIUIPI WOJAID S imojojeapeupolgo Douod sjnujÁysod — nuajgod ermexijijuopi (g
+
+: psouuy yoonlnpsiseu z eaejsozod
+
+BO 'S| 1 S| hwqoud mAysia eluesg|yeu Mjusiwpod ajusauds BUJNU BU BoRIZNIS ANOIUOa8) BUBAOMAYSOd BGZNIS sulT-1oH (e
+:Axodpod [paoyzpeassad Aqzn|S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ooo 407 oo'o ooo o AOWRYSAS YoRelpel Iojgesfold Ayuomupod susqoasA -
+o0'o 9407 00‘0 Qo0 o IISAL AMUBILUpPOÁ u2aqoagA gz
+oDO 407 000 o0'o o JOZBUBUU Áxoppolorg Ausyupod yudaqoaga | . bz
+000 %oz oo'o DOO o 4059201d B BUUSPĽLI 1sejqe axd Jieyjnzuoy Axuonmupod Judaqoasa | . A
+
+ 
+78 / 97 eueng
+
+ 
+
+008857 %02 oo'S11z o0" oS'ze noqozfa oeynads epod elodpod exotuyoay | sjeisepeizod YOAUUONEZ JoeI peu siatos ÁUgnIezZ
+
+ 
+
+ 
+
+TYLAVAM
+VZ VN3O NOX130
+
+ 
+
+ 
+
+T JUBLICA AAS ddS 2TUBIeISqo
+
+ 
+
+9v 8 wgqoad LPRIRPEN
+bz wqoxd Auzeaez
+(4} č morgoxd AponLny
+yoeuipoy
+Yyorsuaodead
+A nuRqoad yorurpoy yosusooead
+ARZI[RIINIU | A BUJBUIIXEW BOP BUYEIY
+
+eqop
+VUJEUTEXE MA
+
+ 
+
+Ý
+
+ 
+
+ 
+
+AwaAeperzod dár
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+z8 / [z reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00°2691 %07 o0'OTVE oo'bt6 o0051 nigagos oygurodpod e sowisds yoduperado
+‘tuspeuez epemiyguoy v wogeiguipard stasas futodpod | 23
+eruspeLiez Ayoniod oyizu JIZIUZ
+WOoan § ‘Aoyesez §afusiards yasugaaiod
+Go'68H %oz 1z'6611 o06 oiI PIUBUDJÁA B tprrod zolo1pz yodujpepunod STAT9S ÁAOHZPBADIJ | 1Z
+PIUSPBYPO UUCRIN BZ AOULIISÁS UROBIPLU Ť ?
+B UDÁUJRJJCO ILZIBA HOÁTIENIAJE AOPORJOTÝTUT
+agado yriueyniodpo suesopuaaidun
+608487 %0% 1h'g6Ez oo'v6 25z aeplayy foyatsofoxo s1a1as faoyzpeasid | oz
+(o QUBIIA AO[SIP YOSUPRIEE BYARPOD SRR *
+
+ZO'6TT %oz oó6 Gz'o 06'96¢ eaeadop stAT3s KAOJZDBAJIJ | 61
+čo'gigz %02 T góte oo'bé s39 fJUZENEZ N ZZWOW © PEJETEJSE s1atas Laoyzpeasid | g1
+60'8/8z %02 Lr'gots 00'v6 25z RIPALOS eRBINSYUOY siatas faoyzpeasig | L1
+OO TOMI 907 ooo oo'Pr6 00°GY nIzapiey epemdyuoy SLAJ9S ÁAOJZpEAJIJ | 91
+69'Fgóz %oz ve'/etz oo'v6 ob'gz Ayzpegaald I ——rT
+
+0p BIUSPRLIEZ OYQUINUINOU ITUSPIATE p :
+vo'góší %02 Srzett odó sL UDRTOd IUBAOULNHSPO & eaedo SLAJOS ÁAOHZPRADIJ | Pr
+002691 %0z 00°0TYT 006 0051 noqorfa moeyyeads eipod minsouleip siatas Axoyzpeaaig | £H
+o0'z691 %02 ooottt 00v6 o051 naqo1fa yoeyywads efped elodpod exomgoa) s1AIas faoyzpeasid | 21
+00'tgee 407 oo'ozgč oo'bó oo'oť mjiuzeygz
+n eIuopeLez sunuApzAs ‘dsar ‘eapado | PEPEIZOd (RAUUONEZ 03B PRU SIALRS ÁUZ | 11
+eruaspertez Ayoniod Ozl JIZIuz
+WO § ‘A0UeseZ YoAUSIATAS osuqgaod
+00'T691 %02 OO1 00'b6 001 PIUBUDJÁA E UPNIOd ADLOIpZ VOKUJETOUROd ,
+o RIUS[EYPO LIO[N B2 AOUINSAS GIIRIpRLL yataepeizod páuuoyez BT peu siades Augniey | ox
+e RAuesado Nzisa YoAu[en e ‘AOpPOYOI U
+aeido gafuepniedpo atuesojuainaiduur
+oo'bgLeL %oz oo'ozgz oo'té oo'oť IWEPIH YBOIOND | onmepeizod yofuuoyez ooue4 peu siaros 4ugn1e7 | 6
+Lot SUEIRIA AOJBIP YOAUDRIYEU BYABDOD s ? ? : ?
+
+ZO 2500 £2'66 Sz‘o 06'96¢ eavadop | youeperzod yoiuuoygz sowes peu s1aes fupniez | g
+00'bgEe %0z oo‘ozge 006 oo‘ot E)IUZEYEZ 1 ZPIUOW P PIOBIBISUL | yemeperzod yoAUUONgZ 09wWel PRU SIAIAS fupnieyz | 4
+00'Ygee %03 00°0282 od6 oo'ot npayos epem3yuoy | JOLMEPLIZOČ UDÁUUOJEZ JIUIBA Peu SIAJ0S fuon1ez | 9
+v6'gó51 %02 Sbezter 006 81kt nigapieu ememSyuoy | Yalarpeizod yoáuuoyez sawel peu s1azas fmpniez [ S
+00'vges 407 odozgr 00'F6 0008 Azpeastd
+
+op emoperiez oystpranjou dtuapaan Wataeperzod YofUUONEZ sourej peu states Augniez E: ¥
+00'rgee %0 000687 o0t6 oo'of UDNIOÁ JAUPACUBNSPO £ PABIČŤO | ysmepeizod yofutroyez samrel peu siatss Sugruez | €
+00°g€S5e %0% 00511z 00%6 ož NOGOLÁA NMOPYLLOÁS LIpod eynsouSerp j APIABPTLIZOd UDÁUHOVEZ DOUIEJ PeU STLAJIS KUDNIEZ | Z
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+78 / 8¢ ‘eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'bgfť 407 oo'ozgz oo't6 oo'og NUNISÁS AdY Sllog i 8£
+OUSUJEULIOJIH PIBIJUSTUNYOCP PIDBZAETUJY !
+NOPBYNÁE UOÁUJdOSOd5
+, ; ; aolaatas gosupesde mypedia ud ‘aoroalas
+00'hREE %0T 00‘028% oo'tó 000t yohugeude & zeqerep aqzipy wd "NUURISÁS AV samg | 48
+OY3UJEULIOJUI BS TUBABIÁS ULOUPIEPUBJSDU
+1rd nwisis aooagids speymzuoy B viodpod
+, . . W191sAs AUDEULICHH] B RTUIARGAA OYIA0IDAYOS
+oo'bgtfť %032 00'02ge 006 00‘0t ouysupiepuvys jejdez gosulsougedzaq © AdV SAg | 9£
+UDÁVUJAUNY NAÁA JFUBAGISIHO
+, , , NELISAS OYQUPBULIONT]
+00bgee %07 00'0zgT 006 oo'ot ARD e Jepdez yofuisougadzag e wwáuoyuny AV Starog | SE
+‘aR1do UDÁUJRNIBZ BRUBAOUJOAM S1aadzaqez
+, BIRIEAOIÁNSO HUJUJÚ DIÁ UPDÁUBRAIN ÁJITEAX
+00rgee %02 00'0T8T R 00’0t NUAISÁS B NIUJUJZBUBUU OHIUJEINŠUYUOY AdV SIARG | PE
+eaeids ‘Sujonuoy ‘juswzeurin Saoa{o1y
+oo'bgtt %oz 00‘02R]T oO6 00‘0t — gpea0lfysod asgids A of Loy "tUJSÁS Adv sg | ££
+Supeuniogur axd rojsapdjo S1UBAONZPERAIL] '
+s 6 . PIDIEAOJÁNSOČ DABICS A e
+OO“PEEE %0T oo'0zgz od“É 00‘0€ woyjofemu supeIy4a of 3103 ‘Erpamnsold Adý sasg | Z
+OTIA0TOAÁA SMUIBAOYZPpRASIJ E 3HMIIpesEN
+: : S . (SUH-104) egznys PYSUSpEJOd
+oo'zvéhh oČ oo'Sgzzr 00‘0S odb PYPUOJRNM e VIS AGNJUUEJEÁ PIUPACIUETEŽ Adv sumpg | 1£
+weEen ez nsoaojoyod stuapadzaqey,
+bg'tozi %03 ozv'ESSE o06 0gLE ABIdS UPÁUZIAJI BGIOAY stá1as Lurodpog | o€
+60°gLgT %02 T6 o06 e5'5e AOUIBISÁS B [USPEBLIEZ HZIAJI 9TURABUOYAA smias fwiodpod | 6z
+00691 9%0¢T ooo 00%6 00°G1 EHIIAOJOUÁA OUJUJOIIAS sta19s Ausodpog | 8z
+SPBJÚSLUNYOP PIDEZIJENPIE B BJYIOAT : ?
+O0“T69I %0T oo'orbr oo'tó O0“ST opezuoumyop PPAOJZPEABIČ STAT3S átuodpog | Lz
+€ FOXDIUUDI] EIDEZHENIXE B BOIOA} ' *
+zvs'obét %02 5&°L66% 006 £Szy apreuzumyop faopreloJd eg10a1 s1a19s Auiodpog | 97
+o0'z691 %02 odO 00’76 005t wiodnisod wfupefeisut ¥ SUAUIBUISH sta1as Áuxodpog | Sz
+ZO'611 OT £T'66 gz'c O@«@Gm Ěw_n—:ův.m .—.UMW:OPO_W azn e E._Uuwm.ﬂﬁwﬁ# SIATSS hEOQ..vanH FT
+OUSUBJINM eruauld eisetiu Op PABIČOP ' “
+002691 %07 oo'oPT oo'b6 0051 A0qTUAOORId YOANOTUYIA] DIUROHSEZ stazas fwodpod | €2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+78 / 67 eueng
+
+"Xomeperzod YoArouaz aiusgal) eu e))uLad B)pod S1uasals ez PPRIYN AOjojEAOJÁNSOJ
+
+1z3(eund ‘woxzejdod wAulesned ezpesyn es e103y ‘Alodpod faueaolAysod IJUBJ A af aiu nwi|qosd oYINUNIUZA BIUJSBU Ny
+alsziu [duapaan dsn auaoun gjpod Aanjwiz oyfaj
+
+13souleld seyod ofaip 0 AAnjwZ ejpod WOojB31BA0IANSOd OUDUDIOAIAA Si1Y S| PRA Y2AI0YANE BAIUBADUBNNSPO (8
+
+niodpod sud §) op ndnisiid auy
+
+-U0 WoARIupaiscLd yaiaeperzod elU3SSLL BAR]S O HIRUIIOU] DILBADIANSO (P
+
+SILY SI nyeszod A A3 saoyzpeaaud eu tuepnuodpo e Asodpod
+
+apnnujAÁysod inwajgod oysujejecoy j nuopi ipezijennou td inojojemApupoldo ejnujÁysod ejodpod — nwojgod ajuasan e ezÁJjevy (2
+'"BJajeagupaldo S| oysueamoodpod nyeszo4 A nuuajdousd
+
+oyauep nupld JeaAoyiiuopr Wojep s Aojecemeupal o Dowod anmmujÁysod — nuajgord e1eyunuopi (g
+
+: SoUU? UMRNÍNnpajsu Z BABISOZOd
+
+BIOD} ‘SiLY St nwajgold NIÁJSÁA BIUBSEJÚBU ÁJUBILUPOJ aiuoujds BUJNU BU BOBIZNIS Axoruojeje) eueaojiysod Bgznis suI-10H (e
+:Arodpod foa0yzperasad Agznys
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o00 %0 oo'o oo'o o AOUI3JSÁS UMIIPIPELI JOJEMEIŠOJ Ayuoamupod a29goo8gA -
+o00 %03 o000 000 o I3153], Aquatuzpod gudaqossa | | 9z
+000 %032 ooo ooo o IPZRUTUL ÁAAoPjpofoIg Ajuonupod amagoagA ¢ | vz
+o00 %02 00'0 oo'o o aosa00xd e eruapel jsejqo axd JUEBIJNZUDOY Austmapod gudagoasp | . A
+ooo OT o000 oo'o o JOĽU3S NLÁJENE SIUZIA Auanupod JuIqoaIsA S
+o0 0 oo'o o000 o ERIIJSALI PIDHUDIY Ayuomupod ZUJIGOBSA P . o
+oo'o %02 ooo ooo o ppinp.re iumeyrdy ANUuonupod JUDIGOASA 4
+
+ 
+ 
+
+ 
+
+JUELIEA MAS ddS 2IUeIelsqQO
+
+z8 / 0g reueng
+
+TYLAVAM
+VZ VN3O WOM13D
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be 8 mojdjord HN
+
+8I v wpqoad Auzeapz
+
+9 č wig[qo1d Hpnura
+
+yoyutpoy
+
+yoLluaooead
+
+A muupqoad Yoeurpoy ya4uasodead fAjaeperzod dAJ,
+
+JOBZI[BIMIIU | A BU[RWIIXEW BGOP BUXNEIY v“
+eqop
+
+PUJEUNMXETMA
+
+"eagjpodezou
+
+nurojdord aroRZI[RIINAU
+
+Aqop op me Aqop [oupyee:x
+op es Ápa [eonfezpeyopaxd ejpod
+Áumpouy ssmoserd ommu sej (enxy)
+00:02 Op o0:g po TUp TMPÁTAOJBId
+sepod 0s  ÁMpog — SUAOJELIJ
+
+:„pupans“ someperod
+vrueaodeads uJa01( )
+
+ 
+78 / 1€ reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9L'gSL %0¢ oL'zEr Se'o oc'675 eavadop SLAles faoyzpesald | 61
+gb'iEge %02 8g'L61t odb zo'bě PYLUZEJEZ N ZRIUOW B BIOR[RISUL S1A108 Aaoyzpeaald | g1
+griLegt %02 894616 006 o't nIRAj0s RRRINGYUOY siatos faoyzpeastd | L1
+00°94%% %oz OV O$SI 00't6 0002 RIFAPIY BIEINSYUOY STAJOS KAOHZpPEADIJ | o1
+85'6L6¢ %02 Ttigret od6 g75% ZDLAJIÁ op RIUIPELIEZ OURUINUNIOU aiuapaan STAJOS ÁAOJZDBADIJ | St
+
+ve P BIUIDE] UIUHUR[IU 21UID t AMONZDE
+
+THILIZ %02 09°9LLY 0076 O6g1 yontod suesoyenspo e eaexdo s1ATos faoNzpeaatd | b
+00°953T %02 0008g1 o0e 00'07 naqoafa roeyywads eipod eynsculerp staros faoxzpesaid | €1
+00°9522 %02 oo‘oggl 006 o0007 NOGOLÁA [oeyEjmods egpod eiodpod gyonuoal sta1as faoyzpeaudg | a1
+OD“TISr %02 000948 od6 oo‘ob ey ¢ Xomeperzod
+
+BYIUZEYPZ 1l RIUDPRLIEZ zHNUTRApzÁáA dsar “"exe1do UoÁUUOYLZ JAUUGI PLU STA14$ KUHNI87 H
+eruapeLrez Ayaniod oxrzu NZiuz
+; . , , O S “AOUBSEZ UPDÁUSLAJOS UIÁUJBITOÁ PIUBUOJÁRA
+009822 %02 000881 oo'b6 9007 e yopod sofoxpz pAupoustod ewoeype mwopn | L DRU mrm_ww%%%_m& o1
+©Z AOLLIDISAS (oidepel B yiugerado Nz Yosujeniye OO 21 peu sI AZ
+"Aopoyo p aeido yoduepniodpo srtteacjuawadiui
+oo'zisP %oz 00°‘09LE oo'tó ooo apepIAll Xomeperzod ] «
+fayorojoxe yo1 durIRIA AC[AID UJÁUPEJÚKU BYABPOP | — UPÁUHORVEBZ JSLUBI PLU STALIS ÁUJNIVZ
+9L'gSt %03 0E‘ZEI $z'o 0z°625 eavadop poueperzod -
+Y24ULONRZ D212 PBU STAIIS LUPNIRZ
+00‘zISh %0T ooog oo'+6 oo‘ob Xomeperzod
+PUUZENBE T ZEUOUW E OO ofuuonez dotues peu stes fugnigz |
+oo'zisP %02 000948 006 oo‘ob . youeperzod
+RIPAYOS BORINFFUOY UJAHLEONEZ 03UIRI PBU SIAI3S ÁUJTLIEZ 9
+Z6 TSI %oz 09°9LLT 00'%6 06g1 youepeizod
+! nIpApIEY BORINTGUOY U2ÁUEHOYEZ JOUBI peu STATas LAUpnivy, s
+00zISH %0z OD'09.LE oo't6 oo'ob Houepeizod
+Azpeaaid 0p RIUAPRLIRZ OLUIUPIUNISU SIIIPIAN PARUONRZ IOWEI PRU SIATSS AUINIEZ v
+oo'zistT 908 00‘09LE 00'v6 oo‘ob yolaepeizod | |
+6 ÚDTLIOCÁ STUBAOUBIJSPO g eaeido {PAUUONEZ OUTE] PEU SIAIAS ÁUJNI8Z €
+00‘PREE %02 oo‘oege oo'té 00‘0E yomeperzod ] .
+" ROGOLÁA povyypody ezpod vynsoudem usáuuoxez somrei peu staras Suonaez | *
+oo'bgff 407 000787 00b6 00°0% Nawuepewod
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+naqora moeywads ejpod eiodpod eyouyod
+
+ 
+
+ 
+
+[OALIIONEZ D3UIE] PBU SIAIS LUPNILZ
+
+ 
+
+ 
+
+ 
+78 / 7¢ eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, . , , UIJSÁS ÁUJPULIOJUL
+oo'z1sh %Oc 00‘09LE oo'bó oo'ořv BU PRIGABOÁA OHDAOJSAJOS OUJUPDIEPUPIE JEJČEZ AdYSLUoSŤ 9£
+UPDÁUISOUJSÍZIA e yoiupyuny nadlda anreanisaip
+; , , , NUIISAS OYIUIBULIOTUE
+00'zISY %02 00°094E 006 oo'ob Aeudn e jejdez jppátnsouzgadzag e yosugyuny Advsrg | SE
+‘apido UJÁUJNIEZ ERIEAOE JoAan apuagadzagey,
+: . , . gereacydpsod stuauyd aad yofuspim
+00‘z15Y %0t 000948 od6 oo'ol Ájipeax ntuajsás e niuouzeuem oyjsugemná uoy Agv tag | vg
+eaeds ‘Burjonuoy jioumzenem Avoppfo1g
+oo'ziSLP 07 00°09LE 006 oo‘ob gjoreaciisod aapads A of Liop|
+% TUJISÁT ÁUJEULIOJUL Bad nysopdjaH SUBACHZPEAIL] AďVSIOS | SE
+oo'TISh %0 00°09LE 00%6 oo‘ob goreaoifysod dapads 4 e wioypfew supeiyda af gropy Advsmiag | z8
+‘erpansold oygaofosfa sTUBAONZDEASII B 2IUSPESEN '
+: : : : (ouH-101)
+oo'gfog6T %0e 00°08EYT 0008 09°Let eqzns psuspeiod BYOMOO9) ¢ VIS sonaurered Advsipg | 1E
+erueaciuered wopen ez nsoacjoyod atuspadzaqez
+21690S %0% 09°LELY od6 ob'os ABIÁS HOÁUZIADI BYIOAJ siuas fwsodpog | o£
+ovátgt %02 8g°LotE 006 zo'vě AOWIISAS B FUOPRLIEZ IIZIADI S{UBABUONAA sas Aumodpog | 67
+? JuapeLresz 11zl (HBABUON ; P
+0095z %0g oo'oggt 006 oo'oz PLUBADIONJÁM s fwodpog | 8z
+OUDUOIMS SIIEIUSITDIOD BIBZI[ENINE € BYI0A] SR
+009922 %oz 00°0ggT oo't6 oo'oz QRN 0P siazas fwxodpog | 4z
+foxoyzprasid e fopruupoma BIDEZI[END{E P RAOA Y
+9L°56€9 OT 08'62£5 00%6 o95 amejnuomunyop (saoppoford egai0a1 sia19s fuzodpod | 9z
+009528 %0 O0"0g8T 0076 o00 wuodnzsod uáuse ejstu Y oitrouousn staras Atiodpog | Sz
+91891 %02 0€zET Sz‘o 0z62S Aqnqndai foysuaaolg fwezn stazos futodpog | vz
+BU urogfndmy oyguapin ewsuld eisepw op eazxdop : ?
+00°952% %02 00'08gT oo'bo oo'oz AOHHIAODBIČ HOÁHJODTUU OI RNUDJOHEEZ sas (urodpog | £z
+Mt PAFHN] JAPDTVXY L ) p
+00'95zz %0z 00‘0ggt 006 o0d nigajjos oysuzodpod £ AOTIISÁS staros Awiodpog | @z
+yasuperado ‘uapeLez eoemIguoy e ewepsuipaad ' :
+BIUSPELIEZ ÁUDNIOÚ OJIZLI JIZIUZ
+. . , , Wojap s “aouyesez UDÁUSLAJIS PpÁUJRIJOŤ PIUTETTOV ÁA
+vZ'gT6T %02 b6g651 0046 TO e yonzod aofo1pz yoiujenuasied eusfeypo wopn SIAIIS AAONZPRADL] | 1Z
+BZ AOUIJISÁS UJMDMETPEU © yodmpeIado [izisa yolujenyye
+‘sopoyon[iu seldo godurniodpo stteaojusurajdu
+9¥'LEQE %02 88°LO61E 006 zobť OPMEPMAAI SIAJ9S ÁAOJZpBAJIG | OT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+501280100 Yot ouRIBIA AOPIP YDAUPRIYRU BYARDOD
+
+ 
+
+ 
+
+ 
+78 / €€ eueng
+
+SILY Sl nyeszod A Ajan aaoyzpeaald eu juepniodpo e Alodpod
+
+alnuibisod ‘nwigigerd oyaujareaoyyiuapl 1Deziesnau Ld A0 31EARUPRIQO RINUIAYSOd eiodpod — nwjqoud ajuasalí e ezÁJevy (J
+
+"ejaleaeupalqQ | oyasueaocsodpod nyeszoa A nwigjgoud
+
+OyauEp NUIRLIA JBAOYIIZUBPI WOLSID S 1A0S1EARUP3[qQ ouod ajinujÁysod — muajgod emoeyuynuepi (g
+
+: HSOUUIB UDIDNÍNPAJSEU z eagjsozod
+
+BJOJY 'St1a4 S| nuojdojd NIÁUSÁA BIUDSEJÚBU ÁyUSILUPOÁČ BIUBUJÚS BUJNU BU BOBIZNIS ÁXRUOJMISI BUBAGIÁJSOd BGZNIS BUIT-10H (&
+
+:Arodpod
+[aaoqzpeadad Aqznis
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00‘0 %0T ooo oo'o o AOUIISAS UDIDBEPBILI Iojguieidolg Ayuarupod gudsgqoag -
+000 0T oo'o 000 0 13189], Áyuomupod JUJFIÁODSA 9%
+000 OT o00 o0O o Jazetem Axoppolorg Ayuoanupod sudagoasga | , br
+ooo KOč ooo oo'a o 4083201d ® eTUADELI jsejgo ad juBjjnzuoy Ajuarwpod gusogqoasa | . Ž1
+o0O KOč 000 oo'o o Jomuas xnÁápjeue stuzig Ayjusiwpod audoqoosy S
+00'0 %0¢T 000 000 o PLUJSOLI INDIEUIDIVY Ayuonupod 3u28doagA 9
+oo'o 9,02 ooo ooo o ppp Augeyydy Áyuamupod ZUDAÁJOBSA .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'TISh
+
+%0¢
+
+00°09.E
+
+0046
+
+oo‘ot
+
+MUSÁS OUSUJEUITOJUE JDERIOUNOP EMWLEZHENIYY AdV SiAlag
+
+gť
+
+ 
+
+ 
+
+00zISY
+
+ 
+
+%02
+
+ 
+
+O0‘09LE
+
+ 
+
+oo'tá
+
+ 
+
+oo'ob
+
+ 
+
+noweyide
+
+aduaqosods aoatas yodupenyde nypedia
+
+1d ‘aozeatas ysupeypde e zeqeiep aqzipy ud AdV Stalag
+‘NUIPSAS OYFUQBIULIOJUT BS [earlds WoupIepueigou
+ud nuwgysas aooarids apeynzucy e erodpog
+
+ 
+
+ 
+
+LE
+
+ 
+
+ 
+T8 / ¥¢ reueng
+
+ 
+
+ 
+
+|WVZ VN39 WOM7302
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vz 8 w9[qoad HPUIDPEN
+cI v wpqoad Auzeaey
+9 č mozgo1d PO
+yovuipoy
+yosuaooread
+A nupqoad yopurpoy yoLusode.xd Ayaeperzod d4J,
+JIIBZIJeIINIU A BURWIIXEW BGOP EUJYLI A v
+eqop
+"BUJBUTTXEJAL
+
+ 
+
+‘(S9exix{e) anznoxdau
+
+ns Aurpoy DUAODBIJ
+1, BJOSÁA“ HILALpLIZOČ
+erueaoowads UIA0I()
+
+"yomeperzod YyoAroUSWZ SIUBSILE BU B}IUUII Bjpod BIUdgaLl BZ EPEJUN 1A0)318A0A) S50
+
+izajeuníd ‘woxie|dod wAulesned ezpesyn es eiop] ‘Asodpod faueaoiAysod 1pwes A 3f aiu nwglqoad oyaintfiuza ajuagals Ry
+a15z1u fauapaan ¢S BUAGAIN glpod Aanjwz oifs
+
+nsoujejd sepod ofaip o AAnjwz gjpod wo|31eA0}ANS0d OYDUSIOAIAA S| L8 S| PRA YBAJOJUDÁXE BIUBAOUBJJSPO (8
+
+niodpod aid g| op ndnisud aul-uo
+
+UJOAJHUPBHSOJÚ JBIABPEIZOA Bluasals DARLS O IDBWIOJUT HUBAOIANSOd (P
+78 / 5€ eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'gTIT %02 oo'okbó oo'Fřó 000t IPAPIEY BOEINSYUOY $I13S Kaoxzpeasig | ot
+646961 %0 91'gS91 006 vl Azpeaasd
+Op BHIAPELIEZ OYIUINUNJIU SIUIPIATL SIMBS JA0NZpRAdL] | €1
+965901 %0% OČ 888 o06 Svo HONIOd SUBAOUBNSPO P PALIdO StAlas £aoyzpeaalg | br
+oo'gzTI %02 oo'obé oo'b6 0001 POGOLÁA oo oodg ejpod vynsousem statos faoyzpeadag | E1
+oo‘gerl 202 oo'ob6 o0t6 o0'oI nagosa %
+KOBXLNOSÁS LFIPOd vIOČpod FYDLUUDIJ SUMas fA0NzpgaaId | o1
+00°9SzT %03 00°08g1 oo'tó oo'az vyuzeyeZ
+n omuspeuez atgyjnuumpzám “dsal ‘earido HPIACPeIZod YRAUTONEZ D3UIE! PEU SIAISS fUpnIpZ | 17
+BIUApRLIRZ Ayontod
+OMIZLI JIZIUZ WO JOTI § ‘AOLBSPZ YOAUSIAIS
+. . . . rdugasiod BIUBUOJÁA g yonod
+90511 %0¢ oo'oté 006 90001 AO[OIpz UPÁUJEPUJSJOÁ PIUSRUPO ULOJDIU | YDNAPPEIZOČ UJÁUUOJEZ ODUIBI PRU SLAJOS ÁURUBZ | ot
+BZ AOUŽISÁS TDIIDRIPELI P oduperado
+HZIBA UDÁUJENIJE AOPOJOLATI
+ABIdO UJÁUEJNIOdpo RIUPADOJUJTUS ÍVI
+00'9Szz %02 oo‘oggl 00'b6 oo'oz apepnxy foyorgojoya ,
+41 IUEIBLA AC[OYD YPAUPEILEY EYATPOP Aoaepeizod Yosuuoygz souwres peu siuas fupraez | 6
+864 KO 5199 STo od7 BABIdOp | XSIABPELIZOČ UOÁUUHOJEZ FILLET PReU SLUJS ÁUDMIeZ | g
+00°9=zZ %02 000g8 oo'b6 oo'0z pyTUuzeyez n ZEJUOUI P PIDBFEISUŤ |  KOIACPLIZOČ UPÁVUUDYJEZ JDUIBI PRUSIAJIS fugnaez | 4
+o009577 oŤ 000881 od6 o0007 FLIJAJJOS BTDBINŠYUOY | HRACPELIZOA HOÁUUCJEZ S9WIE] PRU SIARS fugruez | ¢
+96°5g01 %0¢ OV 888 oo'bé Svo TLDApPIBY BDRINŽKGUOCY | yotseperzod goluuoyez sowes peu suaes fupruez | S
+00982z %0z 00'08R1 oo't6ó 00'0% Ayzpeaasd , S
+0p PIUJPELIEZ OUPUPAUNIJU ANUJPIAN Sameperzod yoáuuoyxez JRUBI PBU SLALIS KUpnIez d F
+oo'g5zz %02 000881 oo'bó o007 uoniod SAUBAOUEJNISpO L PALIdO | Someperzod yoíuuoyez sourei peu sruos Zugnaez | €
+00691 oo oo‘orbt o0“ 00T nogoxfa opyywads ejpod eynsouSerp | yeweperzod yosuuoyez sowgs peu sta1os fupnueyz | Z
+002691 90T OG“OTFT oo'tó o0I NOJOLÁA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOBXLJIDOdS vipod eaodpod exprayea
+
+TV LUVAM
+
+ 
+
+Yolagperzod yaduuoy gz 09UIRl PRU SIAISS Audniey
+
+ 
+
+ 
+
+ 
+78 / 9¢ reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BJa1RA0AYS0d
+oo'gSzz %oz 00'0ggT oo'v6 oo'oz onroujd a1d YIÁVDIM ÁHTRA nuzajsás B
+? njuetizeuew oyduyemsyuoy eagads AdV S35 § Pe
+‘BuesnIoy Qquatuzeusw ísoppolordg
+, . : : P SIPAOJÁHNSOČ
+oo‘gSee 407 O0“OBBT oo'b6 oo'oz BABIdS A A A101 "tugjsás Augeuuojut Adv siaaag | €€
+a1d nysapdpy mEeAONZPEARI]
+, , : . B]018A0}AS00 2ARIAS A B
+00'952z %08 000881 oo't6 0G0z woyzaleut supeiysa of aropf ‘erpansold AdY Stamog | f
+OUYAOfOAÁA STUEAOJZPRABAŤ E STUJPESEN
+; . , . (aurj-10Y) eqQZNTS BsuapeIod VYDLUOJANIDY
+008286 %02 00‘061g 00‘08 O89 ¢ V'S sonjowneied erueAorered AdV Statog | 1E
+O9 ez (soxojoujod sTuogodzoJ ez
+Ťg x07 og'gatťz oo'bo osc ABIds UDÁUZIADI BGIOA] swas Ausodpod | o€
+eL'g1o1 %0¢ v6'g651 o0%6 KI AOU9ISÁS P MUPPELIEZ HZIAJI RIUBABUOJÁR s1a1as futodpod | 62
+OV BELI %0% oo'obó oo'bó 00°0t PIU3A010YAs CYIUNOINYS sta19s áuiodpog | 8c
+SPEJUIDUIMYCP FIDKZIJENNÝE B RAOA t :
+00°geIT %0z oo'ové oo't+6 oo'ot _ apvjuswnyop aoyzpesd staros furodpog | 4z
+e foyomupa) BIOBZIENIE € B(I0A] t “
+882616 %03 06'7992 006 se'ge spguawmop faonifoid eqloay sss fusodpod | 9T
+00‘getl %0T 0006 006 co'o1 wodnysod wfugefeisul ¥ JlUSUIBWST staras Lutodpod | Sz
+QE6L %0z S1“99 Sz°0 og'bogz Angndar (o4suoaopg muezn eu umnfndníy
+ouzuJam emoaud zjsonu op sAexdop sas furodpog | be
+oo'gěTT %0 oo'obé o0+ oo'ot A0q1U1A00BId AU} JTUS[OYSEL swatas fuzodpog | €2
+i í s c nigAjos
+00 B1 %0¢ 00‘ot6 006 0001 oygwodpod e A0wigsAs yosuperado statas fulodpod | ze
+‘Juspelrez epemiguoy v eovieisuipand
+BIUapRLIEZ Agoniod
+ONIZLI JIZIUZ UIOJATD § ‘AOYBSZ UDÁUSTATOS
+, , . , yasuqanod epreuoysa L VONIOÍ
+9E656 %02 LP'66L o0t6 198 aofospz ypáujeďuajod emoajeupo uojecn sas Saoyzpeadig | 1Z
+PZ AOUOJSÁS UDIIEIPEL £ HIÁUIEIdO
+T1Z19A UDÁUJENPAE ‘AOPONOI| UL
+aeido yofurgniodpo sruesouRUaTd Wl
+EL°gr61 %02 ¥6g6S5T oov6 101 omepnxy foprdojoye S1A198 SAOMZpRADIg | O
+01 3URIBLA AOJOTP YIAUPBIYEU BYAEPOD ' “ -
+864 %0 §1'99 Se‘o o9+ BABIdOp SIAJ9S ÁAOJZpBAJIJ | 6T
+€L'g161 9%0T Fe‘gesT oo'Fó TO VYFUZEJCZ N ZBJUOUI B BIOB[EISUT STAJ9S KAOJZPRADIG | 81
+£L4°q161 %0¢T F6'g6S5t oo'Pó TOŠLI TLIJANJOS PLILINŠIJLOH SIAJ9S Kroyzpeadid | 41
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+78 / /g reuwng
+
+:Axodpod faaoyzpeaaad AgznfS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'o %woz ooo oo'a o AOWRSAS Yoneipel JojeueaSold Áyuonupod ZUJIGOJSA 2§
+DOO 407 ooo o0O o 19183, Aquattrpod sužádoosA gz
+oo'o %03 000 oo'o 0 Iapzeuswt faopefolg Ayuomupod Judaqoasy | | e
+000 %0 o00 oo'o o AOSBIGIÁ P BÍUSPELLI JSEJCO BIŤ JUBYJNZUOJ Ajuatwpod audoqoasa | . It
+ooo %woaz oo'o 000 o JOTUDS NÁTEU STUZLA Áyuojtupod SUJIÁOISA :g
+00'0 507 o00 oo'o o RIUASIL PaNyaIy Ayuanupod JUJIODASA -
+oc‘o %0% oDO o0G o prprycue ipeyjdy Aquaturpod QuIqodsA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'g5zz
+
+% 0T
+
+00'08RT
+
+oo'tó
+
+oo'oz
+
+TILUJISÁS
+OYIUPBULIOFUT 2DRIUSUNYOP ROTZIRNNY
+
+AdY SIALS
+
+gE
+
+ 
+
+oo'gtzz
+
+%0z
+
+000881
+
+oo'P6
+
+oo'oz
+
+nomeynde yoiuaqosods
+
+AOJBAJIS UDÁUJEHICE NYPEdáa
+
+HG ŠAOIBALIS UDÁTJEJ NÁE k ZEGRIEP
+SGZIPA LIA "nutgyjsís ouoYuUJEULIOJNI
+
+PS NIBABIdS LUOUPIEPUBISIU d
+
+nwsAs aooagsds SIDBIJNZUOCY B EIOdpod
+
+AďY SA
+
+E
+
+ 
+
+oo'gSrz
+
+9% 0T
+
+00‘0]81
+
+oo'F6
+
+oo'oz
+
+UAJSÁS
+
+ÁUJEUMOJUE EU PIUIABCGÁA OUSAOJJA1JOS
+ogguprepuels jejdez yosusouyadzag e
+gosupuny nadjda alueacisatQ
+
+AdV SIMRE
+
+gt
+
+ 
+
+ 
+
+oo'gSzz
+
+ 
+
+407
+
+ 
+
+OC“OBST
+
+ 
+
+oo'Pé
+
+ 
+
+oo'oz
+
+ 
+
+TIWYISAs OygupeuLIojul avxdn e
+je[dez yosusounadzaq v yodupjury ‘aeado
+UDÁUJNIEZ PIUPACUJOM ITUDAdzZaJj EZ
+
+ 
+
+AdV siateg
+
+ 
+
+SÚ
+
+ 
+
+ 
+78 / 8¢ reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be v wRiqoid Auzespz
+21 č wierqoad ApPnLD
+Yoguipoy
+
+CAavnuwRqoad | yoeurpoy yoLuscoead A . _ -
+
+"ompezgennou | VUJBUTXBULRGOP BUDYBSY | Awaeperzod dár
+
+. c edop nk
+"BABIIDOČBZIU
+nurajgord amezijeI nou
+
+Aqop op me Aqop [oupyea:
+op es Apa {onfezpeyopeard epod
+Autpoy guaovexd owrw se) (gxS)
+00:9T 0D 00:8 PO TUp UYoAuaooead
+segod 0Ns  Aulpoy  JuaodRld
+
+:„pupepez“ xomeperzod
+eruesocorads U3A0I()
+
+“ja1Aepeizod YoArOuSWZ 31UASIL BU BYIUUID BjpOd 31U3SBY) BZ BPRIYN INOI91BACIANSOd
+1zajeunid ‘woyiepdod wAujesned ezpesyn es esop ‘Adodpod [sueaoibysod 1owels A 3l 3ju NWIPIGOIH OYFINUNIUZA AUBSBU y
+
+atsziu [ouapaan d¢SN ouaoin ejpod Áanjuuz ojfe1
+
+nsoujejd sexod ojap o AAnjwiz ejpod WojejemAojÁySOg OUSUSJOAJÁA SÍ1i S[ PPA JBAJOJUDÁJE AUBADUBIJSPO (2
+
+SLLY SI NUBSZOJ A Ála9n a3AoyZpeAaalcd eu juepniodpo e Asodpod annuliysod
+
+‘nwiajqosd oysujaieaojauapl noeziennau ud 1ao)3jeaeupalqQ ejnujÁysod esodpod — nwajgod aiuasanL e ezAjeuy (p
+: Axodpod foaoqzpeasad
+
+qaIZn[Ss op ymurgez of N
+
+naodpod ad 5 op ndnaskucd au-uo
+
+WwoAIuUpaIsosd JBIABPEIZOd PIUBSBIUU BABYS O 1OeWopu) amuenoMÁysog (2
+
+'BfajeAeUpolgo 5) oyyueaoJodpod nyeszoJ A nwajdgod
+
+oyauep nuiRid JeACKIIIUBP! WO S Iagj@earupalqQ Dowod ajjnuzíÁysod — nujajdgod eeyiuijuopi (g
+
+: ijsouum yomninpajseu z eagisozod
+
+210% 'S|La S| nWuejdoJd nyAysÁíA elUSsSE|jyeu Áxuarupod aiuoujds 3ujnu Bu BoRIZN|S Áxoiuojeaje) PUBACIÁJSOd BAZNIS SUHTAJIOH (e
+78 / 6¢ reuens
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'rgte | 90z oo'ozgz oo't6 o0£ oprpiyy (oprdojoya xoneperzod oáuuoyez oog peu staros 4uoniez | 6
+Y1 3ueleLs AOPIP upáupeljgu eyÁappop
+
+L0611 %03 £3'66 Se'o 06°96% vavidop | spiaepeizod yoíuuioyez sourei peu sas áuonuiez | g
+oo'batt %03 oo'ozgz 006 00‘0% EYIUZEJEZ N ZBIUOLU € VIDBJEJSUL | yaleperzod YoAUuoyNez JDOUIBI PRU SIAJIS fupniez | £
+00Vgte %07 oo‘ozge o0é oo'ot nigajjos epeingyguoy | Someperzod yofuuoyez sourgi peu siuos ÁUDNIBZ |9
+bO BO %02 Sriett od6 BT9 nupapiey epeinSyuoy | ADLABPETZOÁ UJÁUNTOVEZ DOLUVBI pRU SLAJIS áugniez | S
+00'rgeLt %07 00°0zge ode oo'ot AAZPĽADIÁ Op EIUSPELIEZ OYFUJPJUTNJAU RUBPIAN Í yomeperzod yoduuoyez sourgi peu staros Auoniez | F
+oo'PatÉ %03 oo'orgz oo'b6 oo'oť gonzod swesonenspo e eaeido | yo2meperzod yofuuoyez sourgi peu staras (upmiez | 0E
+oo'gelz %02 OO ŠT o06 0S'ze naqorfa mepupads ejpoď eynsouSem [ xomeperzod ysíuuoyez saurei peu sas 4uámaez | 2
+oo'gtSz %0% OO“STIT oo'Fo6 o“e
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+jA MS JdďS smeieisno
+
+ 
+
+maqoasa Toegwads efpod ziodpod exomupooaj
+
+TV LUVAM
+VZ VN39 WOM139
+
+ 
+
+yoraeprizod UOÁUUOYEZ JAUMI PRU SIA.13S ÁugniIez
+
+ 
+
+ 
+
+ 
+
+ot
+
+urojgord HponLuPRN |
+
+ 
+78 / Oy reueng
+
+ 
+
+TR OOĽĽ
+
+oo'F6
+
+ZZ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bo'gágz %0¢ AOWIISAS © RIOPELIEZ HZIAJI PIUBABUOJÁM SA9s ÁUJodpod | 6z
+O0“T60T 9%0% oc‘otbi 006 00S1 BUAA0IOYAA sas furodpog | gz
+OUyIUJOJNAÉ JDBIUITUNAYOP BIREZIENINE B BGIOA} t /
+oo'zóogt 908 oo‘otbi 0076 o0“ SPEIUJUUNAOP stazas Lwodpog | Lz
+[PAOHZPELAJIÚ e yxinpej FIOEZIJENIAJE B BGI0AY š “
+TR'96LY %02 581668 006 ddd apezuoumyop aopyoford egi0a1 sas futodpod | gz
+00'z601 KOĽ 000t 006 o0051 wiodnisod WAUZERISUL ) TUSLISWIST sas futodpog | Se
+Zo'611 oz £z°66 Sz'o 06°96€ Aandar (oxsuaaojs puozn e
+% ? wippndny oyguspm eruoujdď eysatw op eakrdop staias futodpog | be
+002691 %02 00°01¥1 o0t6 o0051 AOXRIAODRI UDÁJIILDB] RAUHOXSEZ siajos Auurodpog | £z
+o0'z691 %oz oo'ortr oo'tó 001 NIZAJOS OUZUJOJpod e AOUBISÁS WDÁUJEJICO sues fuiodpog | zz
+‘uapeLIez BREINSFuoy ¢ eoeelsurpard * “
+PIUSPELIEZ ÁUoNnIod OJEZI
+HZIUZ WOJ210 S "AOTESEZ DAUSIAIIS yojugariod
+So'6cFr KOĽ 176611 oo'bó6 gi'et eiueuotAA € yaniod aofoapz yaureiounod staaas Asoyzpeaarg | 12
+PNUSJLYPO MOJIJN EZ AOUIFISÁS YMIeMPLUI t ' ’
+€ Yo4uRe1ado J1Z19A YIAU[ENI e ‘AOPON O HI
+aexdo yofuenrodpo stueaciuswapdurl
+60'g/gz 0T 1'g6ET oo'tó z6‘ST PPEPIAXNI foyordojoxe
+ej % š 191 SUTIEIA AO1 TPÁUPEJIEU BYATPOP Stas faoqzpyadid | 0
+LO*6TT %0T £2°66 TO o6“96ť eaexdop SLAJ9S £a0yzpeadld | 61
+60'gigT %0T 1P‘gbLe o0é z4'Se S{FIZENEZ N ZBIUOMU P POBLEISUE statas SAONZPRAANG | 8T
+mOnWBmN %woe ﬂvanMN oo'Fo 259Gz NIJAJOS _w..—U-w.H:m._mmDVm SIAIDS %MN@N}E& ZI
+00'2691 %07 oo‘othr 00%6 0051 nigapiey epemgyuox staros faoyzpeaara | 91
+69'Pgóz %03 ve'lghe 006 9bg ÁYZPBAJIÁ Op PIUJPELIEZ OHIUJYJUTJDU BIUSPIAN STAJ9S KAOHZpPBABIJ | ST
+b6'g6GT %0% pts o0ó 8 UDNIOČ MUBACUVBIJSPO P varido SIAJaS faoyzpeAdld | b1
+002691 %0c oo'orPr 006 0051 naqorfa yoeyueds ejpod eynsouderp STAJ9S ÁADJZPEAJIJ | E1
+002691 960% oo‘orbt 006 o05 naqoafa oeyypods vjpod erodpod oox sas AAOXZpPAXIJ | ot
+oo'bate %0¢ 00'0Z87 00°r6 00°0¢ BYIUZENEZ T BIUSpELEZ apnuyapzAa dsax ‘eaexdo | yameperzod yoduuoyez osurel peu siales Aupnaez | 11
+eluapeLez ÁYINIOd OYIZLI
+NZTUZ WO § “AOTRSEZ [IAUSIAIRS UDÁUGATNNOČ
+00'2691 | OT 00‘0THI o06 0051 BIUBUOJÁA € UJNIOÁ AOFOIPZ ÁTNO | oo o voraorer saures peu spaes Augnrez | O1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRIOTEUPO MOJIY EZ A0U SÁS UJIEI PLU
+B UDÁUPEJSCO HZAIDA UJDÁUJEMNIAE "AOPOMO.PTU
+aeado yaduepniodpo sueacjuduwapdin
+
+ 
+
+ 
+
+ 
+78 / Lp eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ooo %woz o0“ o00 o AOSIIOIÁ P BLUDPELE JSEKIO IČ JUEJNZUOM Axuosuupod UIBGOISA | | 4
+o000 %0% o00 o00 o 1omoas yHápeme sTUZIT ÁAyuanupod 2u92dgooga g
+o00 407 o00 ooo o BIUDSBLE POHYAMY Lpusturpod sudqOISA 9
+000 %0T ooo o000 o Ajusupod suseqoasp
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Waypre fug d
+
+ 
+
+ 
+
+ 
+
+oo'tgte
+
+oc
+
+00'0ZgT
+
+006
+
+000%
+
+NUIJISÁS
+OYUPRLLIOTUT IDETUIWTIHOP BIOBZI BNV
+
+AdV sialag
+
+|t
+
+ 
+
+oo'Fgtt
+
+%woz
+
+oo‘oege
+
+006
+
+ooo
+
+nopeyrde yofusqosods
+
+A0JaA198 UOÁUDEJECE NYPLdáA LEŤ AOJDAJOS
+TPÁUJEJNÁP £ ZEGEJEP aqzapn nd 'nurmgjsás
+OUYPUJRULICIU: BS FUBABIdS ULOUPIEPUBISIU
+1Id NUUBJSÁS AODABIČS ROVYNZUCY B BICÁdpod
+
+AdV Slalag
+
+a
+
+ 
+
+oo'tget
+
+40v
+
+oo'ozgz
+
+oo'tr6
+
+oo'oť
+
+UDJSÁS ÁAUJEULIOJUT
+BU PTUIABGAA OYJAOIYAYOS oyupIepur)s pe|dez
+yoamseuadzaq B HOÁUJHUTUY nadida amueaoisag
+
+AdV SIAIRG
+
+ot
+
+ 
+
+oo'bgeg
+
+%0z
+
+oo‘cege
+
+oo'to
+
+oo'of
+
+nuajsás oyoupeuLojut
+Apidn É jejdez ppáusougodzag e yaátoyun
+‘agrde yofupiuez BIURAOYJOAN JUIPadzagey
+
+z
+
+Ady siAoS
+
+e
+
+ 
+
+oo'bgt$
+
+ov
+
+oo'ozaz
+
+oo'bró
+
+oo‘og
+
+e fojeaoliysod sweuid aud yafdusgin
+AJRAY RUIFISAS B NJUSTIZBURW oyaugeIndgucy
+eagids ‘Surjonyuoy ‘Justuzeur Akoppfoidg
+
+AV slalag
+
+ve
+
+ 
+
+oo'Pbgtť
+
+%woz
+
+oo'ozgz
+
+oo'Fó
+
+oo‘ot
+
+go1eAa0)ANsod aarads a SÚ L1034 ‘wisss
+Aupeuuoyut aid mysopdiaH seaoyZpeaaid
+
+AdV S1AL38
+
+e
+
+ 
+
+oo'Fgtt
+
+407
+
+oo'ozgT
+
+oo'bó
+
+oo0‘of
+
+ElotRARAYSOd
+aapids A v woyelew supeiyia af 210 ‘eipaaisoid
+oyasofoasa auesoyzpeaald B oluapeseN
+
+Ady SsTAJaS
+
+zt
+
+ 
+
+OT
+
+KO
+
+DO“SETEI
+
+DO“OS
+
+od'Sbz
+
+(auti-10u)
+Pyznjs ysuopeiod vyoimojajea] E WVTS aojommered
+erueAcjueIed wiojay ez nsoaotoyoed aogodzadge7
+
+Ady sAIoS
+
+1€
+
+ 
+
+ 
+
+rg'tged
+
+ 
+
+%0e
+
+ 
+
+OT ESSE
+
+ 
+
+oo'ró
+
+ 
+
+OR°LE
+
+ 
+
+ABAÓS UDÁUZIAJI BGIOAJ
+
+ 
+
+SLAJOS ÁUJOŤPOJ
+
+ 
+
+o£
+
+ 
+
+ 
+z8 / zp eueng
+
+nuajdord orezijennan
+Aqop op rue Ágop (oupyeol
+op Bs Apa f[eonfezpeyopaad e[pod
+Aurpoy aumooeId oumu sej "(TIXS)
+00:0% Op 00:8 po TUp Yyoiuaocoerd
+sepod ns Áumoy  QUAOdRIG
+
+:„pupangs“ xomeperzod
+erueaodelds TDAN
+
+"JBIAPPEIZOd UJÁAOUBJUJZ Uaa BU PYJUUB Bipod BIUISIL BZ PPEJUN IACJBLPATGIÁJSOJ
+1zajeund ‘woylejdod wAujesned ezpelyn es ejopy "Aodpod [sueaoiAysod pwes A af siu nwigigosd oYaNuIUZA HAUDSU J
+
+otsziu [duapan dsn susoun gjpod Aanjuiz
+ojfaj Hsoujejd sepod ojajp 0 Aanjwiz ejpod WO 81en01ANSOd OUSUSJOAJÁA SL14 S| PRA MIAJOYUOÁJE SiueAoyenIspO (@
+
+SI1Y St nyeszou A Ajadn saozpeaasd eu juepniodpo e Aodpod
+
+annulAysod ‘nwgjqold oysujaieaoyiyuaps oezijesnau (1d jnojejemeupofgo PjnujÁxsod ejodpod — nuwejdod amuogaji e ezÁjeuy (p
+
+: Axodpod baoyzpeasad
+qa1ZRIS op Jmuayez of IIN
+
+niodpod a4d g| op ndnisud
+
+BUI-UO WOALIUPaLIS0Ld %¥aiABpRIZOd BIUSSSL BARIS O JIDEWLIOUI 3lUBAOIAYNSOd (O
+
+‘g|ajeaeupalqQ sy oyaueaosodpod nyeszod
+
+A nwizlqoad oyguep nutid 1BACHIHIUIPI WOSII S IA0j1eABUPRIqO 120wod 31nulAysod — nwdiqosd eneyynuspl (q
+
+: HSOUUII UDIDNÍNPSJSEL Z PABISOZOd
+
+BIOD "SLLY S RUJBIGOJd NMÁHSÁA elussejyeu Husiwpod siwauids suinu eu eoRIZNIS ÁJDIUOJDJB] PUBAOJÁNSOd BAZNIS SU1T-10H (e
+
+sArodpod foaoyzpeasad KgZzNnISg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o00 %08 000 00'0 AOUIRISAS TPDIPRIPPLI JOJEUTEIŠOJS Aquarurpod 2u0q0agA 28
+ooo 407 00'0 00’0 W3S9, ÁAyuamupod 2u92googA -9z
+o00 %OT o0O ooo JOZEUBIU Axoprpolorg Apustpod sudaquasA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"b
+
+ 
+78 / ¢% reueng
+
+ 
+
+TVLHVAM
+VZ VYN3J NOX13D
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+& 8 wi9qo1d APRIDPN
+
+el v urojdgosd Luzeaeyz
+
+? o OI ŠPRLNÍ
+
+yorurpoy
+UDáUAOJLAČ
+A nuroggoJd peunpoy uwwásaoJdvId
+PPEZOBNNOU | A RUBUIIXEW BGOP BURNEIY Axaeperzod dár
+eqop
+
+BUPWIXEIA
+
+ 
+
+ 
+
+ 
+
+“eAaR}DOdRZOU
+78 / pp reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g LEQE %0T gg'zorť oo'F6 zo'be opepnY foyorgojoya S1A195 ÁAOJZDBADIJ | OZ
+UD DUBJBIA AOBTP HOSUPEJOEU PYALPOP T í
+
+9P LEQE %02 88°L01E od6 zo'be eIUZReZ N ZEJUOLI € BIOBIEISTY s1a1es faonzpeadag | gt
+9bLEQE KOĽ 8g°Lo1E odó zo'bě N12A10S ERRINSHUOY SLAJ9S faoyzpeadlg | 41
+85646t %0t zE91th 006 ge'Sst ÁHZPEAJIŤ OP ETOPBLTEZ OGYSUJYJUTEJU AUJPIAN STAJOS ŠAOXZpBAJIJ | St
+zOIEH %02 09°9LL1 0076 ob'8T yontod apreaoyenIspo e eaeido SIAJ3S ÁAOHZpBADIA | Pr
+00°9%TT %0T 00’0831 006 00’02 nagozánx ey pads eipod ensouserp 51A498 fa0Nzpeaald | £T
+009522 %0% 00'088T o0é 0002 noqoifa roeygoeds epod erodpod syomusej STAJOS ÁAOJZpBADIJ | 21
+
+00‘TISk 0z 000948 o0'F6 oo‘ob EJIUZENRZ
+% 9 n emopeuez nn tápzka dsoz "eaeido MOnAEDEIZOd UDÁUUOHEZ JBUJEJ PEU STATos ÁUugTuB7 [ 1T
+
+PIUIPELIEZ ÁOTLIOČ OJIZLI
+
+HZIUZ MOJ3TI $ "AOUESÉZ UPKUSLAJIOS yoluganod
+oo'“937z %02 o0'oggrT 0076 00°0T prueucia  ganiod aofoipz yohugrouaiod yameperzod GOAUUONEZ XU PeU SIATIS Aupnaez | o1
+
+BIUD[EYPO WO ez AOWISAS yoperpenu | + - £ NA “ ’ ? KN
+
+T UPDÁTTJEJOO IEZIBA UDÁUJENIAJE AOPpoXOJSHU
+
+ABIdO UOKUBITNICApo JTUBACJUSUJSPÍUH
+
+00‘zISY 0z 00‘09LE 006 oo‘ob oprpnxI foprsojoya
+% 9 {01 SUBIEIA AOJOID PAUDEIYEL BYATPOD youeperzod yoAuuONEZ Jouni peu sas Aupnuez | 6
+9289 %02 08zl '0 od 65 Bagudop | Somepeizod yafuuoyez soumei peu stiazos (ugmuez |: 8
+oo'zršh %02 00°094E 0076 o0v PYIUZEMEZ TL ZBJUOUT E PDETRISUL | SoMEprizod UzáuuoNez JotugI peu smuuos fumnaez E: 4
+oo'zrsP %02 00'09LE 00'%6 o0+ NIDAJIOS PIDRIAŤLYNOH | JPIAPPLIZOČ yoáuuoyez sourgi peu statos ÁUDNEZ |9
+ZO TSTE OG OR9 oo'b6 O61 NAJAPIBY POBINAŽNJÚOA | YDRABPEIZOd HIÁTITOXEZ JOTOBI PRU SLAJOS ÁUPNIEZ E S
+00%Z15¢ %03 00°09LE 006 odO KAZDLADBIČ OP PIUJPELIEZ OUJUJJUTJU JALLDPIAN Í yowepeizod YoSULONgZ 99UIEL PeU SIS fupnuez | ¥
+OG 1ť %0¢ 00'0948 od“ó og'o¥ yowod sreaoyenspo e eaeido | piaepeizod yoAuuoyez d9twel peu SAIes fupniez | €
+oo'bgi8 %0z oo0‘0zge oo'P6 ooog nogozíx HoEyEEoSds ejpod exnsouserp | yomeperzod yoduuoyez Jaumgi peu siaos fmonez | ¢
+oo'Fgttť %woz oo'ozegz oo'bó oo‘ol Y
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nmdgouám meyjymods ejpod erodpod mpouyx3
+
+ 
+
+sforarpeizod HIAHONEZ JOUTEI PŘU STAI38 ÁUJNICZ
+
+ 
+
+ 
+78 / GF eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, , , . wiglsAs AUpeuLIoju;
+oo'zisP %oč 00‘09LE 00'%6 o0‘o¥ BU 2IIAABGAA OYIA0IIALOS OyupIepuels jejdez AdV sg | 9£
+UDÁUJSOUJDSČ ZIA B UYDÁLUDACINYJ NAÁ[dA 2MUBA03S210)
+, : ; . NUIPISAS OYFUPBULIOJUL
+odes %02 00°094E o0ó oo'ob Aeidn © jejdez uofunsougedzag e yoduzyun Ay tag | SE
+"ap1do yoáugniez PRIEAOUJOAN oTUagadzaj EZ
+, : , , eayeaoliysod SLUBUJÁ BIČ UBÁUBIIN
+oo'e15h 2600 00°09LE oo'b6 oo‘ob A[eay NWISAS B njudWZEURE OYUPRINSYLOY AdV siaag | PE
+eagids ‘Surjonuoy ‘quowrzeuews ÁAOJJAOLIA
+00'21S¥ %0% 00°09LE 006 oo‘ob v jpjeAojÁysod oag.1ds a af $108 "urg1sás Advsmos| £e
+ÁuJeuno 2ud nysapdjoH amueaoyzpeaald :
+, : , . gajeaoasod aapids a e
+oo'zish 407 00‘09LE 00'P6 oo‘ot woxfeur supeIyLa of 9101y ‘epansord AdVswig | z€
+oypaoioada sureaoyzpeaald e atuapesenN
+. , . , {aut-10Y) eqzn]s PYSUDPEJOd
+0095961 407 GO“OBEJI 0005 oot/zť mjomojajec e YS ao1oumed eiueaoiueles AdY sSg | 1£
+wopeRn ez 11soaojoyoed awagadzaqeyz
+g1'sg95 %60 Og°LELY 006 obos APAdS UDÁUZIAJI BGIOAJ stasas ÁUTodpod | o£
+gr'LERE %0 sg 26016 oo'P6 zo'Pě AOUBISÁS € [UJPELMEZ UZIADY JHTEABPUOYÁA siatas futodpog | 6z
+00°9%2z %0T 000881 00'v6 oo'oz BIIDA0JOYAA stagas Awtodpod | gc
+OLIUIOIMYS SDPIDUIF{OP BIDEZHENDE B BQIOA} : “
+oo'g9Szz %oz 000881 od6 00'0T PPRAUJUTMAOP statas futodpog | Lz
+foaoqzpeasid e FSYDIULG D PIJPZHENINE € BGIDAJ ' “
+9436t9 %02 08'62tS odb o£95 apejuommyop foaopjeford ega0a1 stuas futodpog | 9z
+00990 %0 00‘0g81 ode o00z umodnzsod wáugepejsum y omotumomsh swatas Lutodpod | Sz
+94'g51 407 0tzE1 Sz'o ozv'675 Aygndar foysuaxojg muozn eu swas fusodpod | bz
+umonáůuiny ouauaxm emoujd ejsomu op eavidop ' “
+00952z %0 000g8 006 0003 AOJFUACIBIČ UDÁPIUUJ3) SHUIONSeZ siadas Ausodpog | £z
+oo'gS7z 40 oo'oggt oo'b6 oo'oz NIJAJOS OÚUJUJOÁPOÁ © AO0UISJsÁS VPOKUJRLISdO suuas Aurodpog | zz
+‘fuaprLRZ vpeindyuoy e epepeisuipard : ’
+eiuapeuez Ayoniod oyizu
+JZIUZ WO S ‘A0 RSEZ YRAUSIAIS Yofuqarjod
+eL‘gion %02 vó'g6ýT oo'b6 10°41 eruEuoN4AA & yoniod aofopz yodujgpuotod Ssa1os faoyzpraasg | 1z
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BLUB[EYPO WOT3DN BZ AOLUJISÁS UDIOBIPELI
+¢ [Augesado NZIoA YoAUTENIE AGPOJOHITU
+agido yaduepniodpo siueaciusmwiapdiul
+
+ 
+
+ 
+
+ 
+
+ 
+78 / 9% 'eueng
+
+niodpod asd 5) op ndnislad
+
+BUI|-UO WOAIJUPaJIS0.d yaiaepejzod BIUBSBLI DARYS O J1DRWIOUI BIUBAOIARSO (O
+
+‘gjajeAgupalqo s oysuerosodpod nyeszos A nwigjqoud
+
+oyauep nuipld JeAOHINUIP! WOJR1 s IAojojeagupeaf o wowod annuidysod — nwjqosd ey yuapt (q
+: 1S0UUK? UDIDNÍNPESJSEU Z BABISOZOČ
+
+gJ "SLLY SI DUJBSJTOJÁ mAysAa elusselyeu Ayuaiupod BLUBUJÁS BUJNU BU BOBIZNIS ÁYRUCJJIB] RUBAGIÁJSOČ BYEZNIS BUH-JOH (e
+
+:Arodpod foaoyzpeasad Kaznis
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ooo %0T ooo oo'a o AOUISÁS YOMRTPEM JojEUeIŠOIJ ÁXAUBITUPOČ FUDIGOBSA e
+ooo %0 oo'o oo'o o Jajsa | ÁAyuomupod gudagoasA g2
+ooo %oz 000 000 o JIZLUBUJ KAOPÍOIJ Ayuarpod pudaqoesa | . be
+oc‘o %0T ooo 00‘0 o AOSIIOIÍ B PIUJPELI JSEJLO BAŤ JURIJJNZUCY Ayuonupod auxogoagA E . -
+o00 OT oo'D ooo o Jommas yHÁpeue sTUZIg Apuomupod 21m02doa2gA a
+ooo %wozm o00 oo'o o BIUJSOLI PIPRUJIY AJUJBILUpOd ZUIIODITA g
+000 %02 o00 000 o Py Aupendy Ayuonupod JUDIGODBA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'215Y %07 000948 006 oo‘ob NUJISÁS Adv sas | s£
+OUQUYEULIOJUI 210EjuoStNXop ERLEZIJENEJY :
+nopeyrde yoáínodosods
+, , . , AOJDAJIS gosupeyde nypedia LIA ADIDATIS
+o0‘2ISh 407 00'09LE oo'r6 oo'ot uoáuzeyide € zeqerep aqzipn 1id ‘nurnsds Advsmseg | €
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUPUJBULICJÚUL P5 FUPALIÁS MOUPIEPUČISSU
+LId NUDISÁS AODABIÁS JIDREJJNZUČY € v10dpog
+
+ 
+
+ 
+
+ 
+
+ 
+78 / /¥ reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bz 8 wg[qod ApurnaN
+
+< v wig[qoad fugearz
+
+0 e w9(qoad Dpuiy
+
+yorurpoy
+yorLuaooead
+A nuR[qoad yovurpoy yosusooerd
+LDBZIJENHNIU | A BPU[RWIXCW BOP BUDNRIY Ayaeperzod dár
+vgop
+
+pujppmnem
+
+"(Sotx/xPz)
+
+anznaxdau HS Aupoy Quaodrig
+5, BYOSAA“ yalaeperzod
+erueacorads UdA0I()
+
+“1a1aepeizod UDÁJOUBLUZ AUJSIU BU BYIUURD B)pOd B1LU3$3IE €2 BPEIYN IA0JB1EA0IANSO
+1z9j2ud ‘wioyie|dod wAulesned ezpeayn es eioy ‘Alodpod faueaoiAysod pwied A 3f s1u nwjqosd oyINUNIUZA oaluasan XY
+
+l571u [BUapaan Sz dumon ejpod Aanpuz ojlaj
+
+nsoulefd sepod of3ip 0 AAnjwz ejpod wWojojepaAojÁySsod OUSUSJOAJÁA S[14 S| PRA SOAJOYUDÁHE SIUBAOUERIISPO (a
+
+SILY S| nyeszod A Ajpan aaoyzpeaaud eu juedniodpo e Asodpod
+
+annuibisod ‘nw|gold oydusaieaoyynuspl noezijesinau Lid (aojejemeupolgo INUIAYSOd Bsodpod — ntuajdosd sluasals e ezAjeuy (p
+: Asodpod foaroyzpeaaad
+
+gorznig op muayez of AN
+z8 / g+ reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+96901 %02 06688 006 §v'6 yanaod amueaoyenspo & earvido SLAJOS ÁAOJZprAJIJ | b
+OO“BETI %0% 00’0V 006 0001 NIGOIÁA 1oeygoeds eipod eynsoudelp STAJOS KAOHZpBAJIJ | EI
+Do'gen %02 oo'obé oo'b6 ooor noqoLia pypads gipod elodpod Bypruyooy SIAI9S faoNzpeadad | o1
+00°95ze %0% 00'08g81 0016 000g PYIUZLABZ N PIUSPELIEZ HINEULApPZÁM d5 "BARIČO | ABABPLIZO UPÁTUORNEZ DSUTBI PRU SIAJOS ÁTRNUIEZ | HT
+BIUSPELIEZ ÁUDNIOJ CYTZLI
+AEZIUZ ULOJ2I2 S AOHESEZ UDÁUSLALOS UDÁUJgAJJOÁ
+oo‘gelt %03 00‘0t6 006 o0'0T EMMMŽĚ%_MMM%„_MMW.—_WMMM:„W_MMW„MM APIACPEIZOČ UDÁVUOAJEZ DIUIBI PRU SLAJIS ÁUDNIBZ | OT
+B ﬁwﬁwwmmmo mEMŠ, m__umn__wsĺm Soma.mc%ﬁ.:
+agado yosuepnucdpo stuesciuauiapduat
+o0“ %0 00‘0g8gT oo'bó oo'oz 191 DUBIELA AO91p MW_MWWWM_%_&MMMWMW yameperzod yoáuuosez soureI peu siaujos AupnaeZ | 6
+g %03 ST99 Sz'o 09Y9z eaeadop | Xameperzod yoáuuoygz saurgi peu staras fupniez | 8
+00'zb9T %0T oo'oTFT oo'bo o0I wyruzeyez n zvjuouu e emeTejsut | yeepeizod YoAUuoyez Jauigl peu sptes dupniez | L
+00°Z691 0€ oo'orbr o0ó 00°S1 nigayos epemSuguoy | yoweperzod yafutoNez daures peu sialas Augnigz | 9
+oo'gert %oz oo'obo o06 o001 nišApavu ebemánuoy | Xomeperzod yofuuoyez somre1 peu staras Áuoniez [ S
+oo'7óJI %oc OO1 oo'b6 00T Aqzpgaard op BlUSPRLIEZ OYRUMNURISU Stuapaan | Youepeizod YoAUUOYRZ DOTURI PBU SIS fupnaez | ¥
+00°2691 %02 oo‘otdt 00'%6 0051 yoruod areaoyedispo € eavido | yoweperzod qoiuuoNgs 0aulpd PRU SIAISS Supniez | €
+oog %oz oo'obě oo'b6 0001 NIGOLÁA HOPYLNSČE BYypod exnsouderp | Xemeperzod UDÁUULOREZ JRUUBI PRU STALRS AURRIEZ | T
+OO“BTTE 407 oo'ové vo'boó 00°01 noqoiia mouoads epod wiodpod PYNH 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TV LUVAM
+VZ VN49 WOM7309
+
+ 
+
+yoweperzod UVJDÁUOOJEZ DOUJBI PEU sas Áugnuivz
+
+ 
+
+ 
+
+ 
+28 / 6F reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'gSzz %02 oo'oggt oo'té o000 EJPIRAOJÁJSOd DABIÁS A A ÁTO wrgisds
+fupeunoqut aid rjsepdioH PIUPADOJZPEAIJ AdV S1105 | PE
+; . , : BJOIRAOIAY SO
+00'9922 %0% 00 08g1 oo'b6 900 BABIÍS A e woyafew DUPRIUÁR af 310 Rrponsoid AdV siang | z£
+OUYZFAG(OAÁA JTULAOMZDRAJIKÍ E JMUIPpESEN
+00'gegbd %0 ‘06 ‘05 © ( p-10g)
+geg %0T 00 0013 000 Og 59I EgGZNÍS PYSUDPLICČ MOUOJABL B VIS AOJJOUIEJEC AdY statog | 1E
+erueaojueIed wojspn Pz Hsoaojouod smogodzagez
+oŠ ebne %0T 0g'g9te oo'b6 occ aerds UDÁUZIAJA BAUOAT s1azes Aurodpog | of
+eLg161 %0¢ v6'g6S5i 00%6 TO AOWIPISAS € NISPBLIBY [EZIADI ATUBABUOJÁR s1a198 Autodpod | 67
+oo'geit %oz oo‘ob6 oo'tó 0001 BIUDAOJOUÁA . 6
+OURU0INYS SPEIUSUINNOP BIDPZI[END{R B RAOA stA1as áurodpog [ 8e
+oo'gzIT %02 oo‘obé o0“É 0001 , Sherislanyop stas fwodpog | Lz
+(SAOJZPBAJIČ v (SYDLUYDJ BOBZITENIJXE B BGIOA) V
+88°L61E %02 0699z Qo6 SEg oamejoumyop (saoproloid eg1oa) siatos (urodpog | 97
+00g1 %0c 00‘ov6 oo'bó o001 tuodnisod WÁUJEJEISUT Y PTUJUJDUUSTI staxas fwiodpod | Sz
+Qe6L % 0T ŠĽ9 Sz og'boz Ayriqndaz faysusaofg muozn eu
+winfndny oysuazsn prusupd eisarur op eavadop sta1os útiodpog | bz
+o0'gčir %02 0o‘0b6 o0é OO1 AOXIGADJBIÁ HIDÁH AUROJSEZ swaas {wodpog | €2
+00°gTIL %07 00'0%6 0096 oo‘o1 ruRayjos oygurodpoed e sowlsAs yasupesado .
+: ‘iuapenrez epemiyuoy e eoeRsupald S1s fusodpog | 22
+euopeLez Ayonrod oz
+HZJUZ WOW § ‘AOYESYZ UDÁUSLAJIS UDÁUGANOÁ
+9£°656 %0z LY66L o0é 1Sg BIUBUONAA © tpnod zofopz yoáujemuojod :
+BIUS[EYPO WO BZ AOWPISAS Y2I10RIPELL STAJ0S fA0NZPEAIG | T2
+E yafuperado pziaa goAupenpye ‘Aopoyo.DiIw
+aexdo yafuepniodpo aueaciuswaajdugt
+CLQIBT 4O P6“BOST oo't6 1041 oprpnyI xordojoya .
+HA JUBJBIA AOJ9RIp IUPÁUPLIJEU PYABPOP silos ŠAOJZpRADIJ | OF
+ge'6L %0¢ S1 99 Sz'o 09'v9e eaeidop sas faoNzpRadid | 61
+t/'gtór %0% PO“BOST 00%6 T0°41 BYJUZENBZ (. ZEJUOLI B PIJBJEJSUT SIAJOS ÁAOJZDBAJAJ | Bt
+L8161 %oz to'goSsrT oo'řó 10°L1 NIPAYOS BOEINIYUOY s1A108 faoyzpeaslg | L1
+00‘geI1 %08 oo'obá oo'to 0001 NIBAPIBY BIDEINIYUOY STAJ9S ÁAOJZPBADIJ | 91
+6/'6961 %03 9859 oo'kbé vo'Lr Aqzpeasid op BIUIPELIEZ OYFUP{UTYIU J{USPAAN sas (voyzpeanig | ST
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+78 / 0g ‘eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00‘00801 OT 000006 o05 oo'zé ACWIRISAS UITOPT PEU Jojputeidold Ajuatuipod 3useqoRgA | . 0
+
+oo'gbrog %0T oo‘obos ou‘Sot oo‘gh 191891 Ayuanupod JUIaqoasA g2
+ob*rL6E KO 00°TIEE oo‘gEt oo'Fz 1zzeueu Ksopaford úyuonupod 3u23go28A e
+ot‘otgt %0% 00%61E 00‘EET oo'be A0sa00.d B LTUSPELI 1se(qo axd jueznzuoy Axuonupod ZUDAOBA | y
+ol‘oEgt %0T 00'261¢ OO“LET oo'bz 101U YRATRUE STUZIg Áwuouupod »m2goagA g
+or ti6ť %oz oo‘zitt oo‘gtl oo'Pz BIUBSOLI PRIYOIY Áyuomupod yuaaqoaga 9
+ot bL6E %02 00‘Z1%E oo'gET oo'bz PP Suedy Asuarupod JUDRGODSA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'gszz
+
+407
+
+OC“OBBT
+
+ono'řó
+
+o007
+
+NUY]SAS
+OT[QURBULIOIH ALRIUIUNYOP RIDRZI[ENIY
+
+AdV SIAI3g
+
+|
+
+ 
+
+oo'gSzz
+
+Vv
+
+DOO “OBST
+
+oo'Pó
+
+oo'oz
+
+nopeyde yofuaqoseds
+
+40124195 todupeide mjped4a ud ‘Actoatas
+yofugextide e zgqetep 9qzipn 1d ‘nwglsis
+OUSUJEULIOJIH PS MUPABIdS UJOUPIEPULISIU
+11d nwugysAs aooaexds arynzuoy e BIodpog
+
+AV SIAIRS
+
+e
+
+ 
+
+0098z
+
+%0T
+
+00‘0RgL
+
+oo'Fó
+
+00‘02
+
+WSAS ÁUJEULIOJIH
+BU BIUaARQAA OYIAGIPAYJOS OYpupiepues jeidez
+yoduisougadzaq e g nadjda a1ugacisag
+
+AdV sialeg
+
+9%t
+
+ 
+
+oo‘gSee
+
+OT
+
+oo'oggt
+
+oo'+6
+
+o0G
+
+NWPISAS OYIUIRULIOJUT
+aeadn e yerdez ypiugsougadzaq e yjoáuzyum
+‘aerdo yodugnaez erueaoy joan srudgadzaqe7
+
+AdV S1Alag
+
+SE
+
+ 
+
+ 
+
+oo‘gSee
+
+ 
+
+%02
+
+ 
+
+00‘08K1
+
+ 
+
+oo'Fó
+
+ 
+
+oo'oz
+
+ 
+
+BJRIBAOIJÁJSOÁA smoujd 21d yoátozm
+Anea] nUIISAS B NIUSWIZeURW oypuemEnuoy
+eagads ‘Burjoriuoy JUDUJZEUEUT ÁAOPJROLA
+
+ 
+
+AdY SA9g
+
+ 
+
+ve
+
+ 
+78 / 16 reueng
+
+ 
+
+ 
+
+9v 8 wgqod HouLnPN
+be v worqoad Auzeaeyz
+
+ 
+
+ 
+
+ 
+
+        
+
+zT Z mojdoJd KPTLTY
+w T T = TTT TTT T
+
+: upámoovuIď
+S Anugqoad:
+-SPYZENHNIU
+| wqop -
+BUU
+
+ 
+ 
+ 
+
+> __owš_čw__„_:&gcua_ä___ | s VK
+A RUPUIXBUI BQOP YURDESY | Ayaeperzod dá p
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"BABLIDOČEZSU
+nurajgord OPZOELNINOSU
+Aqop op e Aqop [oupgyvoar
+op es Ajea [eonfezpeyopoad ejpod
+Autpoy auaooerd owrw se) (gxS)
+00:9T Op 00:8 po IUp Ydisuaooeld
+sepod 05  AWpoy  UAOORIG
+
+:,pupepiez* youepeizod
+rrueaooeads U204}
+
+"yomeperzod yJÁAOUSLUZ JIUDSA 84 PYIUU3I EjPOd BIUBSIL eZ BPRIYN IACJS1BAOIAYSO]
+
+Hzajeund "tuoxjejdod wÁujesned ezperjn es ej0jy ‘Atodpod faueroibysod i5uwe3 A af aru nuajdosd OYDINUHIUZA SIUISII Y
+alsziu fouapaan 4sn auaoun gjpod Aanjuz oy
+
+13souletd sepod ojaip 0 AAn|wiZ e]pod WOJ31BAOIAYSOd OUBUBI0AIAA SL1Y S| PeA XBAJOJUDJÁJe BIUPAOUEJISPO (B
+
+niodpod asd SI op ndnisnsd
+
+3U||-UO WOAIUPaIISoLd 3BIARPRIZOC BIUJSBILI BABIS O HOBULIOSUJ BAIUPADZÁHSOJ (P
+
+SLLH S NÚeSzOJ A Ája2n BAOJZPPABIČ BU jueniodpo e ÁArodpod
+
+apnujÁysod inwoajgord OUYBUJBJEAOAIJIZUBPE HDEZJEJJINIU Ld JAGJBLEABUpIÍJO ejnujÁysod esodpod — nuwaigod amasan e ezÁjeny (2
+'eBjajempupalgo 5| oypuemoJodpod nyeszoaj A nwuajgojd
+
+OUŽUEP NUA JeAONi u opr wuojep s IAojojemeupalgo Dowod ajznujíysod — nuuajdgoct eneyyrnuep) (g
+
+> fIsouury yaoninpaiseu z eag)sozod
+
+BIOP ‘SILY St nhwigiqosd mAysha eusseiyeu Ayuaiupod siusu|ds puinu eu eoeiznis AoIU0810} BUBADIAYSOT BqZN|S SUIT-10H (B
+:ú1odpod faoyzpeaazd Aqzn[s
+28 / 7¢ eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00‘PREL %07 00'0T8T oo'b6 ooo REĽ OO | zomeperzod uofauowez souga peu siros Augniez | 6
+r ouejeia aopem YPAUPEYRU BATpOp | T b o o DRSO PRI
+
+oó %0% £2°66 Sz'o 06°96¢ eaeadop | ADIABPEIZOČ UJÁVUUOJBZ DSUUBI PRU SLAJIS ÁURTUBZ | 8
+oo'bgtí %07 OV OBĽ oo'bo 00'0% PYTUZEXEZ N ZBIUOUJ e PDRJRISUT | yermepeizod [AULONPEZ JOWET PRU SIAISS SUPIuez | 4
+oo'bgtt %0 00'0283 0016 00°0% nigayos eemdyuoy | youepezod YISULONRZ scourgz peu siajas Aupniez { 9
+00°95¢e %02 00'0ggl oo'bé 00°03 TUIJApPILY epeMSguoy | yereperzod GofuuoyEz JOUIRI PBU SIAIDS Augniez { S
+00°gEST %02 oo'fITz oo'bé 082z AqzpeadId 1 vomeperzod uofuuosyez soure: peu statos ugmuez | Y
+
+op emrepeuez oygugyunzou atuopean PA ? ? : : X
+
+oo'gtSz %02 006112 006 0t'zT yanaod sweaoyenspo e eaexdo | yaumepeizod YoAuuogz 0u peu staras Auoniez | €
+o009577 %02 000881 0076 oo‘oe noqoxfa ropyyads ejpod mmsousep | XPIABPEIZOA UDÁUUOJEZ DRUIBI PRU SLAJOS ÁUPNIBZ | T
+no'gszz %0z 00‘0ggT o0é oo‘oT NOA x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oeyyrads epod eiodpod eyorugoay
+
+TV LUVAN
+VZ VN39 WOM1302
+
+8 IUEITEA MS ddS STeIe1sgo
+
+ 
+
+yamepeizod YofUUONRZ 05UIRI PRU SIAIIS AUDILIEZ
+
+ 
+
+ 
+
+ 
+
+ 
+78 / €6 reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60gLga %0z 1v'gote o0ú 5%z AOUIISAS € TUSPELIEZ HZIAJI SIUBABUONAA SLAJ0S Áudodpog | 6
+
+00'2691 %02 o001 006 00'G1 EMIaA0I0Y A OG9UROINYS sta19s fuodpog | gz
+SPRIUIWIIOP PLBZIBAINE © RGI0AT e
+
+00'PgEE %oč oo'ozgz oov6 ooo opyuaumyop foaoyzpeasid s1a19s Auzodpog | ZZ
+© [9401uy03} BOBZIENIE B BQIOA) ěS A
+
+2g'96Ly %02 Se'Loot 00%6 ov JPEBIUJUTNHOP FPACPLIOIA RAIDA s1es Autodpod | 9z
+
+oo'bgtí %0 00°0zge 006 ooo wodmsod WIfugejeIsuT x omouousn s1a19s {utodpog | Sz
+
+/o'611 %oz £2°66 gz‘o 06°96€ £qnqndas foxjsusaojg jwazy eu wonindny staos Autodpog | bz
+
+olpuenn BLUBUJÍ visatt op eaeldop : -
+00°9Szz %03 00°08g1 0076 o00 ADJJUAODEJÁ UDÁHITUUDY HAUDJOJSLZ sas átuodpog | £z
+s : . : TLIBAJJOS
+o0 9c 200 000881 oo 90007 oygutodpod e acuisss yodugesado siates futodpog | gz
+"Mmoapenez PDEMNÁHUOY ¢ eroereisutpord
+eruapeLez Ayoniod ONIZU Jzjuz
+UJ S "aoyjesez Yodusialas yolugoiod
+00PgEE %0Z 000283 0076 00'0€ PmIEUNOJÁA B Yoniod soforpz yodu[giouajod stros Aaoyzpessid | 1z
+B{UI{BYPO WIO[RRT) BZ ACWIISAS YoIRIpRL ooo :
+E pámnermdo 12134 UDÁVUJENIHE "AOPOYONJTEU
+agido yosuepniodpo sruvaojuomojduut:
+6o'g/gz %oz w'gógz o0t6 z*z opeprayy foprdojoa SiAzes Saoqzpeadid | oz
+TO1 URIEIA AORIP YOAUPEI{EU EAEPODP T “
+
+ŽO'OLE %oz £260 Se'o 06‘g6E eagzdop STAJOS KAOJZpRLADIJ | 6T
+bo'glge %03 17°g6tT o0ó L eJUZENLZ N ZRIUOW B BIOB[RISUL stAtes faoyzpeasid | g1
+00'bget %02 OVOE oo‘t6 oo'ot MI9AHjOS PrOBINÍEUOY stA1os (aoyzpeaoig | LT
+oo'bgtt %woz 00°0ZRZ 006 oddĽ TLIGAPIBU PIDRINSUYUOY SIAJ9S (AOMZpBASIJ | 9I
+O0“PgELE %03 000282 006 00°0€ Axzpeasid SIA10S froyzpesaLd | St
+
+Op BIUIPPLIEZ OUPUPNUNJIU SIUSPIAR MO9S ?
+00'rgee %0 oo‘0zge oo'b6 00’0k yontod siueaoyenspo e eaeido s1ATaS £AONZpRARId | b1
+o0s %0¢ 00°078% 006 oořot noqoLsa Ineywads epod eynsouderp sas (aoyzpeaarg | £1
+oovgLL %07 000g oo“+é ooo FOGOTÁA -
+woppyLeds ejpod esodpod gyonuas) SIS froxrpeaid | S
+00PREE %02 oo'ozgzT oo'w6 oo'of T} PIUIPELIEZ SAUYADZAA - %MM_MMMMMMM Woraepeizod UJÁUNOHEZ OBLUBJ PRU SLAJIS (uoniez | 11
+eluapeLez Ayoruod OfIZLI jizpuz
+TO9 S "AOUBSPZ UJÁUSTAJIS Yyodugaziod
+O0“PgEE %0z oo‘ozge 006 0008 BRUBUOJÁA v yanaod acforpz yoiurgpualed youepeizod UDKTUOXEZ JDUIBI PRU STAJIS ÁUDNIBZ Í o1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PIUJLPUPO UIOPRIT BZ AOLIIISÁS YOPDLIPLU
+P UDÁUJEJSÁO HZIJA UPDÁTUIENPP AOPOJOJATUU
+ABIdO UDÁTRINICÁ pO attrEaojuouro d
+
+ 
+
+ 
+
+ 
+
+ 
+78 / ¥G reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ob‘otge %03 00'z61E oo oo'be 20sa001d e emapeu zsejdo ad juvymzuoy úyuonupod »xusagodsa | .
+otbofgt 407 00‘TOIE o0'CEr od“ 10rU9S AHÁFEUY SIUZIA Auaturpod Jusaqoass 5
+obvL6E %02 00‘2IEE O0“BET oo'be BIU3$AL POJYOIY Aruonupod 2u20gosA o
+ob b6Ľ %0 00‘2ILE 00‘geT ode Doy Sugesr[dy Axuonupod 9usogooga | .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'vgLÉ
+
+407
+
+00‘0ZRT
+
+oo'bó
+
+ac‘ot
+
+NUFISAS
+OHPDUJBTUJOJÚL JALIBIUJUTNYCP TIOBZNENÍJY
+
+AdV SIAIOS
+
+8€
+
+ 
+
+o0bREL
+
+%02
+
+oo'ozgT
+
+oo'téó
+
+oo'of
+
+nopeyrde yoámagosods
+
+AOJBAJIS UDÁUJEJEÍE NYPEdáa LIA 'A01oA1as
+UDÁUJEYKÁE B ZLGRISP aqzIpn ud ‘nugisds
+OUDUPPULIOJÚL P5 TUBARIdS WOUPIEPURISIU
+ud nuwgisds aooagids soeymzuoy g eiodpog
+
+Ady SS
+
+LE
+
+ 
+
+00'PRES
+
+%03
+
+00‘02gT
+
+006
+
+ooo
+
+WMaJSÁS
+
+AugeurIoful U BIUSABQAA OYIAOIPAYOS
+oraupiepuels jepdez gofmsoupadzag v
+yosupuny nadda araeac)saiO
+
+AdV SRS
+
+9t
+
+ 
+
+00'bgEE
+
+%02
+
+000287
+
+oo'tó
+
+oo'of
+
+NUIJISÁS OHFUJBULICJÚI
+ABIČN e Jepdez UDKUJSOUPAdZIAG B UODKUPYUNYÝ
+‘agxdo yadupnaez erueaoyjoan stuagadzaqey
+
+A
+
+AdV S98
+
+GE
+
+ 
+
+oo'Pbeatt
+
+%woz
+
+oo'ozýz
+
+oo'tFó6
+
+ooo
+
+B PILAOJÁHSOČ STUBUJÁ BIŤ ujpáutozm Apeay
+NuHYJSÁS E nIUJUUZEUBU OUSUILINZYUOCY
+paprds "Stonuoy yamzeueum fvoppefoig
+
+AV SIAlRg
+
+ve
+
+ 
+
+oo'tagtt
+
+9OT
+
+00‘0TRT
+
+oo'té
+
+oo'ot
+
+BPIBACOLÓSOČ BABIČS A SÚ ÁTOPJ "UFRHSÁS
+Aupeurioyul 91d NYSODPÁJIH SIUPACXJZPRADIJ
+
+AdV SIARg
+
+ve
+
+ 
+
+00“PEEE
+
+%oz
+
+oo'ozgz
+
+o0t6
+
+oo'og
+
+RJNLAOIANSOE JARIGS A B
+
+uoyjoleur auperyámA of 310 ‘erpansoid
+oyaaofoada atueaoyzpeanad E JIUSPESEN
+
+AdV slaag
+
+zt
+
+ 
+
+oOT
+
+%02
+
+Qo0'Sgeel
+
+0005
+
+OĽ VT
+
+(2u-jou) egznys pysuopeiod
+PYoTUOjaja] E VIS AOHJJUJEJEÁ PIUBAOJUBJEŤ
+uojace Bz gsoacjoyod amuagadzaqeyz
+
+AdV siaiag
+
+1€
+
+ 
+
+ 
+
+tg'tozv
+
+ 
+
+9,02
+
+ 
+
+oz“CUuSť
+
+ 
+
+oo'Po
+
+ 
+
+og/E
+
+ 
+
+AR1ds YoAUZIARI BGIOA}
+
+ 
+
+siaIas Awtodpod
+
+ 
+
+ot
+
+ 
+78 / €5 reueng
+
+‘eABRMDOdRZOU
+nurajdgord aprpzijennou
+Aqop op e Aqop  fougyear
+op es Appa (eonfezpeyopasd epod
+Aurpoy guaoderd oumu sej (TTXS)
+00:07 op o0:g po mip UDÁMAOJEBIÁd
+sepod ns Áumou | 2umo9B1g
+
+:„pupons“ Xomeperzod
+erueaoorads uasoa)
+
+“jeirepeizod YoArouawz aiuagal eu exuUSd ejpod a1uasals 6Z BpRIYN INOIIBACIANSOd
+
+1z8jeund ‘woxiejdod wAujesned ezpeayn es eioly ‘Asodpod [aueaoiAysod Pwes A of atu NWigiqod oyainuyIuza aluasaLl y
+aIsziu [3uapain 4sn auaosn ejpod Aanjwiz 03fa3
+
+BI0)4 SILLY SI NLUBIGOJÁ NIÁJYSÁA BiUBSSEJÚBU Hjuaiwpod alusuids aujnu 8u esSeizn
+
+*AA
+
+HSOUJEJd sezod ojom o AAnjuuz ejpod WiojojeAOjÁNSOJd OUSUAJOAMJÁA S| S] PPA XYDBAJOJUDÁJE SIUBADOUERINASPO (8
+
+niodpod 34+d st op ndnisiud BU1]
+
+-UD UUOAJJIUPIJISOJÁ HILACPEIZOA PBIUJSILI BABIS O HIBLUJOJÚI BIUBACIÁJSOJ (P
+
+SLLY SI nyeszoa A Ajaan aaoxzpeaasd eu juepntodpo e Atodpod
+oynujÁysod ‘nwjqosd oysujaieroynuapl yoezljesnau 14d 1A0js1eaeupalgQ ejnujÁysod e1odpod — nwajgosd auasau e ezhjeuy (3
+"ej21eARUpalqQ S| cysueaolodpod nyeszod A nwigjgosd
+
+oypuep NUIRLIC JRADHIHIUIPE WOJAI3 S 1A0j21ARUPBIGO mowod ajinujÁysod — NUA ereyynuepy (q
+
+L fIsouurp yooninpayseu z eagjsozod
+
+1S Axoiu0jeie) eueac)Aysod egzn|s aul-1oH (e
+
+:Arodpod fosoyzpeasad Aqznjg
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'0080T %02 00°‘0006 00°Szr 00'zL Aomsks yaoeIpeu zozpwessord Aquoympod guoaqoasa | o
+oo'girog OT 00‘otos 00501 oo‘gb I9193L Sypuaturpod Jusaqoasp 5
+o PL6E 407 oo'z1tE oo'gfT 00'vz 13zRURW AAOYR0I] Apuatupod 3ussqooss bz
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+78 / 9¢ reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'oPaS 0T 0000l oo'bó 0008 HPDIARPETŽOČ
+9 % yoniod atueaorenspo e eaeido {PAULONGZ DOUIEI DU SIAIDS AUPNIEZ
+oo‘obos oz 00‘00LY oo'F6 o0‘0S NSABPEIZOU
+? % nogozáa jeg oodg ejpod ejnsouŠem | ooy J0UIBI pru SLATOS Augniez
+oo'tatt 0z 00‘0Z8T 00P6 0008 XOLEPEIZOG
+š * š NOJOLÁA KOBAUNPOdE BJpod eiodpod Py UDÁTUOXJBZ DIDLUBI PBU SLAJOS ÁUPTLIEZ,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUPBLIEX MS dd$S STTEJejSKO
+
+TYLNVAY
+
+VZ VN3O WNOM130
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o 8 uojgo1d HPRLARN
+cI v urajgod KUZBABZ
+9 g OÍ ŠPALA
+YPrĽUpoU
+yosuaodvad
+AnuRqoxd yorurpoy yosuaodexd Ayaeperzod dá
+opezgjennou: |A vUJEUHXEUM LYOP ĽUDYJEDY vA
+vdgop
+BUJBUIIXEIA
+
+ 
+
+ 
+
+ 
+78 / /G reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00°bgEE %02 00‘0zge 006 odd ADYTUAODBAŤ UJLHDMUJO RUJROJIEZ suuos Awiodpog | €z
+00'FgEE %0 O0“0zgz oo'vb6 o0£ NIJAJOS OGIUJOJpod £ AOULAISÁS UDÁTMJEJSČO ,
+‘uapeliez vpanfiuoy e epeeisuipald ss jurodpog | 22
+epuopeLez Lyontod OYIZLI HZIUZ
+WO 30 § “AOYESTZ YIAUSIALS a4Luqanod
+oobatť %0T 000283 00Y6 0008 BIUTBUOJÁM B parod sofoipz yaiugpusiod
+BIUI|EY PO WOIPN BZ AOUIJISÁS UDRIOBIPELI staros faonzpeadld | 12
+B UDÁUJEJICO HZIJA goAuBRINE "AOPOJOJJKU
+agado yosueyniodpo stuesojuswardun
+9V LERE %0T 8gg'/615 oo'P6 zo'PpE opep foprgojoya .
+o1 SUBIRIA AO[AID YISUPRIHEU BYAEPOP STAJOS ŠAOJZpBADIJ | O
+94851 %0z O£“TET Szo 07625 eaexdop stazós faoyzpesslg| 61
+ov ZEĽ %0z 284618 0076 zO'PE ENIUZENEZ 1 ZEIUOW E BIOR[EISUT STAJ9S Aaoyzpoaalg | 81
+gritge 2600 ByLOIE 006 eo'PE NIJAHOS BIDLINZYULOX SLAJ3S ÁAOXZpBAdIJ | L
+oo'PbgtE %0z 00‘0TRT 00'F6 00‘0E NABAPITY BIDRINIKUOX sas ÁAOHZPLABIJ | ot
+85'6.L6€ %02 ZE9IEE o0é gz‘SE Axzpeadid -
+
+“ Op BíUapeLiez oupuzytumjau amapaan smuios jaoyzpeaoig | ST
+oo'bgtt 9407 oo'ozgz oo'Pó oo'at yonuod spueaoyuenspo e eaeido STAJ9S ŠACOJZpDBAJIJ | b1
+00°ges 0G ov'ozgz oo'b6 ooo NOOLÁA 1u mads ejpod oynsoušem STAJ9S faoyzpeaoig | €1
+o0 bgiť %03 00°02ge o0+ oo'os nogozáa 1Deyyypods ejpod eiodpod wpruusaj sas faoyzpeanig | 21
+O0“TIS+ 407 00‘09LE 006 oo'ob PJIUZEJEĽ Xomeperzod | „
+
+N Bluapeliez sunuyiapzia “dsas ‘eaetdo | | YoÁUUOYEZ JUE1 PEU STAJ3S KUJTLIEZ
+eruapeLrez Áyoniod oyFZLI JIzpuz
+WO S AOHBSÚZ Yoáusinoas jofudgorod
+00'Pges %02 00‘028T o06 oo'o£ PRIEUOYÁA E UoOd aofoipz upáujepuojod Yowepeizod |
+BIUS[EYPO WOIPN BZ ACUINISAS (OIIRIPELI | UDÁVUUOJEZ JBTUBI PeU SLAJIS KUDTUBZ
+® yodugetado ZIDA qasuenye ‘AOpPONOD{ILE
+apado yosueniodpo stuesojuswapdun
+00215k %07 00‘09LE oo'b6 oo'ov spepnxi loorfgojoxye ypoueperzod |
+DI QUEIBIA AO[RIP YDAUPRIYBU BYARPOP | YoAUUONEZ DIUILL PRU SIAIDS AUDNIey
+9£81 %0% OTE Sz'o oz'6zS eavidop R — _řv__w%w%u.„„_mwm 8
+oo'tett 407 oo'ozgz oo't6 oo'oť . Fotaeperzod
+PUZ ÉZ T BAHOU B BRge GOÁUUOJEZ DOUIEI PEU SLAJOS ÁUDNIBZ é
+og'609£ wozT oo'goof o0t6 oo'zť XOIALPETZOČ
+MUBAJJOS POLANŠYUCY HDÁUUCJEZ DDUBAI PRU SLAJAS ÁTTONIEZ ?
+oo‘ghee %0ZT 00'0628E oo'F6 00°SE yolseperzod
+nigapaeuy eoyměyuoy UOAÁUUOJEZ JIMBI p STAWS ÁUanILZ S
+OD“TISť %02 00'09LE 00'F6 oo‘ob ANzpeadad yoteperod |,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Op BIUOPBLIBZ OYUNUNIIU JUIAPIAN
+
+ 
+
+UDÁUHĽOVJEZ DALUBI PEU SLUDS ÁUJTLIEZ
+
+ 
+
+ 
+
+ 
+ 
+
+78 / 85 reueng
+
+ 
+
+oo'tó
+
+NUFISAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'ggloa %oz oo'orgS 00'09 Advslag | g€
+OYQUPBTILIOJU] SDPJUILTNOP BOTZIENIY .
+nopeyyde jpoáusgosods
+, , AOIDAJIS UDÁUJEJNÁP NYpeČkA Hd AOJBALIS
+oo'galo 407 oo'oFaS o0é 00‘09 yosugeynde € zeqerep aqzipy 1d ‘nuwisks AdV SIaldg | ZE
+OYSUPLULIOJU] BS TUeAg1ds WoUpIepuelgau
+ud nwugsss acoaeads spogynzuoy g viodpod
+, , , tuzzsÁS ÁUJEULIOJUT BU PIUSABYJÁL OUJAOIIAJJOS
+oo'gaflag %02 vo'obaS o0t6 00'09 ouguprepurls 1ejdez yosmsougadzeq © Adv mg | of
+UDÁUJYUNY NAÁTdA HUBACISINLO
+, , . , NUIY)SAS OYIUPBULIOFUT
+00949 %0¢ oo‘obgs 006 0009 aeidy e yepdez yofuisoupadzaq e yofupyumng Adv swag | SE
+‘“apado yodupnrez erueaoyjosn amogadzadez
+. . , , eareacitysod stuoujdď Id UDÁUBIIN Ájijeay
+00'8949 %0 oo'oboasS o0t6 00°09 NS4S B NUSWZEUBUI OYuReIn3yuoy AdV SIAIRg | €
+eaeids ‘Surjorjuoy ‘usurzeuril Axoppeforg
+00'89L9 %03 00095 oo't6 0009 BPIEACIÁNSOÁ BABIÁS A l Á0x UIRISÁS Advswisg | ££
+KUJEULIOJEL 1Á {sopd[oH SMUEBAONZPRARI] "
+, : , E[21BA0IAYS0d 2ARIdS A B
+008949 %0¢T oo'obaS oo'P6 0009 umoyjofeu supergárx of arop ‘erpansold Adv sg | zg
+OUJAOÍOAÁA JHIPAOYZprAJI E SMIOPLESLEN
+, , ; , (our-104) Bqzns gysuaperod
+0095961 %02 OVOE9 o003 09'LzE VYRHUOJAMIA & VIS scnawered euesojuered AdVSRg | 18
+W)y ez nsoaojoyod aruagadzaqez
+TU'Gg9s %02 09°LELY 00%6 obos ABIds YIÁUZIAOI P41041 swuas furodpod | o£
+oátgt %oc 88'L6o1E 00%6 zo'bě AOUIISAS B JUSPBLIEZ NZIAI ZIUPLAPUOYÁA sites fwiodpog | 62
+00‘PgEE %oz oo'ozgz oO6 oo'oť BJUIACIOYAL OYIUROINNS smuiss fwodpog | ge
+SLOBIUSWINYOP BIIEZI[ENIE ¥ B(I0A) : ?
+ooPgLL %woz oo'ozgz oo'tó oo'0£ | opeiuoumyop faaoyzpeaord sams fwiodpog | Lz
+e ĽRYPLUUDB] POEZITENINE B BqIOA] V
+925609 %02 0g'6zts 00%6 o95 apguoumyop foaopjeford eg10a1 startas Aurodpog | 97
+oo'vgte %02 000282 00%6 oo'oť MOdnISOd UÁUJPEJEJSUT A RAUDUJIMISN swes fusodpod | Sz
+91891 %02 04zt Sz'o oz'628 Apyqndas feysuasolg muoze eu mmonfndny sss 4uzodpodg | bz
+
+ 
+
+ 
+
+ 
+
+ 
+
+oypuapIn erwauld eisat op raridop
+
+ 
+
+ 
+
+ 
+
+ 
+"SLLY SI NUSIGOJÁ MAsAA eluaseiyeu Mjuaiupod siusulds suinu eu ecsezn
+
+"yomepe
+
+78 / 6g ees
+
+1, BYOSAA “ Yo1aeperzod
+
+n
+
+erueAOORIdS UDACIJ)
+
+1zod UYJÁAOUBLUUZ BIUBSBLI BU PYIUUBI R/POd SIUBSI4 PZ EpesJÚyN IAGJDLPAOJÁJSOJ IZBJPULIÁ
+‘woxie|dod wAulesned ezpeayn es eiop; ‘Adodpod faueaoihysod pwies A 3l aiu NGO DUYBINUJIUZA SUDBSBU YY
+ASZIU fBUBPBAN 4SN daumon ejpod ÁAnjWuz ojfa) ijsoujejd
+
+mm
+
+sezod ojamp o ÁAn|wuz ejpod wWwojojeaAojÁNSOd OUSPUDIOAJÁA SL1LH S| DRA JBAJOJUJÁJE BIURADUBNSPO (9
+niodpod 24d ) op ndnisiid SuUlj-U0 WOAIIUP3JIS0Ld
+
+YDIARPEIZOČ PIUJSIL BAR15 O HIBLUJOJUI BIUBAOJÁJSOJ (P
+
+SILY SI nyeszoud A Ajapn paoyzpeaasd eu wwedniodpo e Asodpod sinnulAysod
+‘nuR)qoud oyaujsieaoiuapt meziieansu Lid inojojemgupalgo eanulAysod erodpod — nwigjgoud sluagals e ezAleuy (0
+‘ejaleagupa{qQ S| oysueacsodpod nyeszos A nwg|qosd oyauep
+nupnid JeAO y uopr Wojai s Aojojemeupalgo 120wod annuiAysod — nwgigold epexyiszuap; (g
+: HSOUUD UJISDNÍNPSISEU Z BABISOZOd BICJY
+
+=
+
+jS ÁXoiuojajo) PUBAOJÁYNSOJ BQZNS BUIT-10H (B
+
+:Arodpod
+fosoyzpesaxd  Aqznfs
+
+ 
+
+0000801
+
+%0%
+
+Q00006
+
+00‘Szt
+
+00‘TL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AOWIPSAS YOIDRIPELI I0JgLIRIFOL] Lyuatupod gusaqoasa ©
+00‘grog %0T oo'obos oo'Sor oo'gh 1S9 Ázuonupod JudaqoasA .
+oF b6Ľ %02 OOTIEE 00'gEr oo'be xyzeuew faopjoforg Auanupod 392go028A -
+oboteť %03 00'z61E 00'EET oo'be aos2001d € PIUOpLLI 158jq0 21d JURYNZUOY Auatwpod uoaqoasa |,
+obřoťgt 407 00°2618 OOGET oo'Pz 0195 JHÁFEUE STUZIK ÁHUDBILIPOŤ PUDIUORSA o
+ob“bl6rť %02 00'TILE O0“BEL oo'bz BIUSSLE PIRAUYILY Spusipod JUIIGOISA 9
+obPbécr %woz oo'zitE OO“BET oo‘be
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PogoIe fupexdy
+
+ 
+
+ 
+
+Ajuomupod sudaqoasp
+
+ 
+
+ 
+78 / D9 seurng
+
+ 
+
+00°gz1T %02 oo'ové o06 00‘01 mpmads eipod eiodpod gyorugoco) | yowepeizod YOAUUONLZ SOWEL PBU SIAI9S AUDNIBZ | T
+
+ 
+
+ 
+
+   
+
+Ty LAVAN
+|VZ YN3D WOXT3D
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ve 8 wrqoad SN
+
+o1 v utojgord Auzeaey
+
+9 č wR[qo1d ApnLny
+
+Yyopulpoy
+
+gosuaodead
+
+A nuapqoad yoeuipoy yaAauascoead AyAeprrzod dár
+
+dPeZI[ennou | A PUTBUWIXEUI BqOD BUMNEY a
+eqop
+
+BUJeUIIXeIA
+
+ 
+
+ 
+
+"(S9€x/xbT) anizna1dou
+ns Aurpoy QUACDRIJ
+78 / 19 eueng
+
+ 
+
+OW{ZLE }IZIUZ UIOJAID S “ACYRSEZ YIAUSIAIDS
+yaduqanod ejweucyda e yoniod
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+98'656 903 Lt 66l 06 15"8 Aoforpz upáuperouajod emojeypo uojen
+" BZ ACHI9ISAS [OIOBIPEU B Ya4upeiado sia1as faoyzpeaaig | 1Z
+1Z12A (DAU[ENINE ‘AOPOYOR{IUL
+aeado yaduepnrodpo sneaojusuraidul
+£48161 %0z 76°g6ST 006 1041 opeprYy fopordojoye
+o1 SUEIZIA AO[IP YOSUPBIEU BYARDPOP Stazas faoyzpeasid | 02
+gt'6L 07 51'99 oo ogc PARIdOp SIAJ9S £a0yzpadid | 61
+€L'gIO %0¢ Póg 0076 101 FAYLUZEAEZ A ZBJUOUUI B BRI SIAJ2S ÁAOJZPBAJIJA | ST
+L81601 %02 6865t o06 TO NI2AY0S eRMSyuoy SIAJ3S fa0Nzpeadlg | L1
+00‘ge1l %0 oo'oto oo'bo 00°01 TLIJAPIEU BOBINŠKÚOX s1A138 faoyzZpeaald | 9i
+66861 4OT gr'gSql o0t6 SA Ayzpessid STAJ3S KAOJZpPLAJIJ | ST
+0p ENISPELIEZ OUJUPJÚNIJAU STUIPIAM HS AD
+9675901 ZOo 00888 o0ó '6 yonuod amreaoyenspo e eaeido s1atas £aoqzpeaald | b1
+0081 %0% ooo oo'P6 0001 nogofa poeyyoeds eipod eynsouserp 514095 Saozpeasig | €1
+oo‘gziL 9%0% 00‘0F6 00'P6 co‘or NIJOJÁA .
+mmjywads eipod erodpod exoruygaa; sia1as faoyzpgeald | 2t
+oo'gsSzz woz 000881 oo'Pr6 oo'oz eiuzeyez
+n emopeiiez oninuyiapzán 'dsor "eaexdo ¥oraepeizod YIAUUONEEZ J961 peu stAJas Agnie7 | t1
+BUSPELIEZ AYDNIOT
+ONIZUI JIZIUZ UIOJ3[0 S ‘AOYESEZ YoAUSIALSS
+. . , , UOÁUJIH OČ BIUTBUOJÁM # HoNIOd
+00 811 %0 oo'obé 006 0001 Aoforpz poáujemuojod ermiajeypo mojeon || YDIALPLIZOČ UDÁUUOVEZ DBLUBI PPRU SLAJIS ÁUINIEZ | OT
+PZ AOLTSJSÁS UJBBIPLLI B HOKUJEJTOÍO
+HZIDA UDÁUJPNIE “AOPOROJI
+ABIdO UIÁUPILOÁPO JIUBACJUJLUJ ÍE
+00°9%zz %02 000881 00v6 oo'oz apepiaxt loprdojoyo R
+691 JUBIBIA AO[21p UPÁUPEJÚCU VYALPOP YPIALPBIZOČ UJÁUUOJEZ D3LURE PRU SLAIS Aupniez | 6
+8E'6L %03 3199 Se'o og'bgz eaeadop | Sotmeperzod ypáuuovyvz soure peu staras 4ugntez | ©
+o0'z691 %02 OO1 oo 00°ST VYMUZEJEZ A ZEJUOUU B BIDBFEISUE | yoiaepeizod YoAUUONEZ JaUIg] PR SIS Aupnrez | 4
+002691 %07 oo'orbI 0076 OO NI9AYOS BORINSHUO a1ArpRIZOd GOAUUONBZ DSUIRI PBU S1AJ3S AUPNIRZ | o
+AYJOS BIORINAHUOY | HAARDRIZOA [DAULONE I peu ST „UH
+o0'gzIT %02 volobé oo'bó o0001 TUJAPIEU PROBINŠYUOX | youeperzod UPÁUNOXBZ sourei peu siaos duoniez |: S
+00°z691 9%0% OVI o0pé 001 ANzpgAdId _ :
+op emapeez ojsuoyunau amuopaan yomeperzod YoAULONBZ JILET PRU S1AI9S AupnigZ | Y
+00°2691 %02 oo'orPI 006 0061 oniod stueaoyenspo v eaesdo | joseperzod yosuuoyez satea peu siatos {ugniez | €
+oy ! Jel)sp HIAEPEBIZOA 2AUUONE g1 pel 51 MIITLIE
+O0“BTI %03 oo'obé 006 oo'or NOGOJKA nogyads eipod vynsoužem | Xomeperzod uydáuuoyez soumei peu s1alds Aupniez | T
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+naqoLsia
+
+-
+
+ 
+
+ 
+
+ 
+78 / 79 eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UIISAS
+oo‘gSze %0T 00‘0ggl oo'P6 00‘'0% AUFEULIOJUT BU BIUSABLAA OYPACIPALOS AJV Sg d 9£
+CUSUpPIEpPUBIŤ JEJŤeZ VOKUJSOUJOd ZA B '
+UPÁUJXUNY NAÁA STUERACISHO)
+, NUIJISÁS OHIUJBUHIOJUL ABIdN E
+00°9Sze %0% 00‘0881 006 o00€6 yejdez yofmsounadzaq e godupjuny ‘agsdo Adv siarag ] SE
+YOAUINIEZ BIUBAOKJOAN Slusgadzaqey
+BPILADOJÁJSOd
+oo'gs$zz %woz oo'oggt 0076 0002 aruaupd aud HOÁUBIIM ÁJEAY NUIFISÁS E AdY Stos | +€
+MIUJUZBUBUÍ OYSUJEJMŠYUOJ BALIÁS !
+"SUHOJIUCY "jomzeueu faona{oid
+< s eoIRAOANSOd
+00'957Z %0¢T 00‘088I o0“É 000z aagads 4 of Lropy ‘wsis AUDBULIOJU AdV slazag | €€
+ad mysapdjaH sIueAOZpEARI]
+, , PIRIBACJÁNSOU BABIÓS A B
+o0‘gSee %02 000881 00%6 000 1uoxzafew oupenpíc al 2101x 'emonsoid AdY sta12g | SE
+O13A0[0AAA DIUIRAONZPRAIL © AIUJPESEN
+; ; ; (2up-joy) edgznys eysuopeiod pyomojojoi
+oo'geg6 %oz 00'061g oo'oS og'“tgr e v aonpwered eueaoiueres AdV SIalag § 1€
+woppn ez nsoacioyod stusgadzaqez
+9ehe %03 08‘g9te 006 0z'Sz apads yoAuziaal eqIoA} statas Auiodpod | o€
+4 gT6I %03 v6°g641 006 TO AOLUBISÁS € MIJPELIEZ HZIADI SIUBABUONAA STAJOS (tzodpog | 67
+00°geI1 %02 oo‘ove o06 o0001 BIUBAOIOTAA OYIUROINYS staros fusodpod | gz
+apoejuoumyop BIICZ[[ENIE € BGIOA) i
+00gEIL %0 oo'otré oo'b6 o001 opejmumop (aoyzpeaard s1at9s fwiodpod | Lz
+e (axomnooy emezijenpje € BGIOA) PAy u
+8g'L61E OT o6'Pggz 00°%6 St'gz smemnoumyop Paopaford eqloas s1a19s fusodpog | 9z
+O BT %0% oo'obé 0076 00°01 wiodmsod WAUYB[RISUT X AIUIUIIWST s1A19s Awiodpod | St
+8E'6L %02 Sr'gg S ogbyť Ayngndar fxysuoxojs nusazh eu umnidny S9s Áu10dpog | ¥e
+OHJUPIIN emoaujd BISDNU op eaeidop S
+00°g3IT %0% oo‘ot6 006 0001 AOJIUAODBIŤ UJÁRDTUK DJ PLUJOJSEZ siatas futodpod | €2
+, , TNIDAJJOS
+00‘gelt 2%0g oo‘ob6 o0t6 d0 0T oypurodpod e aowsAs yosugersdo spas fwiodpog | 22
+
+‘quaperez epeIndguoy e eperergurpaid
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+eruapeLez Lyorrod
+
+ 
+
+ 
+
+ 
+ 
+
+78 / £9 reueng
+
+niodpod a1d g} op ndnjsud su-uo
+
+WOoAHUPansold yaiaepe|zod ejuagatl 2ALIS 0 |19BWIOJU] BIURAOIANSOJ (D
+
+"e|31eApUPalqO St Oyauesosodpod nyeszos A nw|qosd
+
+Oyauep nuld JeAOHIHIUSP! WOJ3ID s iAojajemeupolo ioowuod aiynujÁysod — nwajgold eexyiuap] {q
+
+: souu) yotoninpsiseu z eagjsozod
+
+1O "SLLA SI NUZIGOJÁ miAysAa eluase(yeu Ajusiupod amuoujds sujnu BU BOBIZNIS Áyoruojejej gueAojíysod edznjs 2urj4oH (e
+:Arodpod baoyzpeadad Aqznjs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00°‘00go1 %02 00'0006 000Gzl oo'čá AOWURISAS YoorIpeL Jojpurerdoly Lpusiapod gusaqoasa -
+o0‘ghog %oz oo'obos oo'$oOT oo‘gl 121931 Ajuomupod JUDIAGOBSA -
+ob6 %oz 00°218E 00‘gel 0otz JOZBUBEU ÁAOPJAOLH Axuonupod BUDIAGODSA | | bz
+ob‘oEge %oz oo'zórt 00‘EET 00z 4053001d P BIUJPELLI JSEJLO JLŤ JUBJNZUOY Áyuomupod SUDIGOBSA | . L1
+oboteťt %w0z oo'zó1E O0O'SET o0e 1omuas y ÁJEUNE STUZIYT Lquarupod guoaqoasp g
+otřbé6E %0Z 00'TIEE oo'get oo‘Fe PRS PAUZR Áyuojtupod Yuosqoasy 9
+OV bí6Eť 40% OdEIEĽ O0“BET oo'Pz PYDHUDIE ÁUFPEJEJÍV AgUBILIPOd JUDIGODBA 7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'gýgzz 407 O0“OBSI o0“r6 po'oz TNUISÁS
+: OHSTJPEULIOJUT HADBIUJUHINOP EDEZIENINY AdY S35 | 80
+noweyde yoduagosods
+
+Aotaax3s yodupeyide nypedga
+
+00°952z %08 0o0‘oggl 00t6 00'0T Hd ‘aotaa108 Pofugemyde e zeqeyep
+3qzspn ud ‘NS4S OYQUDBLLIOJUE AdV SIS | L8
+
+BS 1ueagads woupaepueiseu pd
+
+nuiss avoaeids aprynzUCY B Blodpod
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+78 / 9 ‘eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9+ 8 wRjqord HPHIDPN
+vz v wepqoad ÁUZBALZ
+cI ů uoanord AJoALM
+L yowuaipoy .
+.__._n—_ohgcum.a_._ L
+a nurojgoad — __.____._Aošo:.._u_nšoä.ab e L
+Šoš.n_:o: |B u egóp w:wu_aum „.._„Ě„E.ww_moag
+edgop - - T S
+UTBUIX AL
+raRiIpOdRZOU
+numjdord aroezrjemnau
+
+Aqop op me Aqop [oupyesa
+op es Aoa {eonlezpeyoperd ejpod
+Autpoy guaooeid owrmu sg) (gxS)
+00:91 0p 00:8 PO Tup Yydiuaoderd
+sepod ns  Auipoy  guaooeld
+
+:„pupepiez“ Nomepemzod
+vrueaodeads UaA0I()
+
+"YBIAPPEIZOd UJÁROUBUIŽ JIUBSBLI PU BYJUUBI Bjpod S1UdSSLI BZ BPERIYN MOJBJLAOIÁNSOJ
+
+xA
+
+IzajeULd ‘woxeidod wAujesned ezpejyn es p1014 "ÁJodpod [auBPAO1ÁJSOd IB A Í 1U NLUSJJOJÁ OYBINUJIUZA SIUSSBLI AV
+
+aisziu [auapann s auaon gjpod Aanjwz oife
+1psouiejd segod ojaip 0 AAnjwz ejpod woja1eA0IANSOd OUBUBIOAJÁR SLLY SI PRA JBALOJUDÁJE SIUBAOUEJISPO (8
+SILY SI nyeszos A Ajan 2A0Nzpeaasd eu juegniodpo e Aiodpod
+annuiAysod ‘nwajqold oydueieaoyynuapl 1oezljesinau Lid jaopieagupalqo ganuibisod esodpod — nwigjqosd aluagaul e ezAjeuy (p
+
+: Azodpod Gaoyzpeasaad
+goizni§ op muayez Sf SN
+
+ 
+78 / 59 reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'PgeE %02 oo'ozgz oo'bó ooog e — k»oﬁomﬁﬂwmm%ﬁﬂxﬁmﬂwww Noueperzod yaAuTOYeZ detres peu stales Aupnigz | 6
+
+L0°611 OČ £2'66 Sz'o 06°g6% eavadop | yaueperzod yofuuoyez osusel peu siaes áAugniez ] ©
+oog %02 o0‘0zg8T 00v6 00’08 BYIUZEYEZ N ZEJUOUJ B PIOBIRISUT | dueperzod yodutoygz osures peu s1a1es Aupnrez | £
+o0'rgtt %0t 00'0zg8z 00%6 ooo neajos epeinSyuoy | jetaeperzod yafuaoyez sowes pru s1ates Lugniez | 9
+00°9523 %02 00°0g81 00%6 oo'oz aIgaprey eoemdyuoy | xemeperzod yposuuoyez oswel pea suaes Ampnez | S
+o0 gĽs %02 OVS o06 of'ze op vruopeLIE cawmmxcﬁawmmww%%m“wﬂm youepeizod yofuuoyez dawel pea siaaes áuoniez | Y
+00'gEsz %0t O9 S o06 ode UDNIO STUBACUBNISPO € BARIČO | yataepeizod YoAUUONRZ D9WIBI PRU SIALS AUpNIRZ | ‘€
+00'gSeT %03 00°0881 0076 oo'oz naqorfa feyads ejpod exnsouSelp | Yewepeizod yofuuoyez oowel peu siades fupniez | z
+00'gSzz o0 O0“OBSI o0“+6 ooo NOČOJÁA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+meygads epod eiodpod eyotuyoe;
+
+TVLYVAY
+
+VZ VNO NOM 139
+
+ 
+
+TT JUBIIeA MS ddS STUeaeisqo
+
+ 
+
+Yareperzod yaAuuoyez SoUIRI PRU SIALS AUDNIBY
+
+ 
+
+ 
+
+ 
+
+ 
+78 / 99 reueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00°2691 %02 oo‘otbt 00'P6 00°St PIIAOJOUÁA OHJUJOJNAS sss furodpod | 8z
+SRRNIBWINYOP BIORZIENINE B BGIOAL Y
+oo'bgtr %woz 00°0TRT 006 0008 spguawn{op (aoyzpesard sates fuzodpog | Lz
+© {o){DIUY39] CIORZI[ENINE B BqI0A] S
+T8°96LY %0% SE'L668 oo sS apejnuoumyop fsxoppofoid ega0a1 sta14s futodpod | 9z
+ootgtt %oz7 vo'ozgz o0 00°0¢ wodmsod WAUE[EIFUI ¥ SIUIUIAESN s1a19s fwsodpog | Sz
+Zo'611 407 €2°66 Sz‘o 06°968 Agqndar fysusaols fwazn eu wpnndny sas Sutodpog | vz
+oypuagn erustijd eisaiw op eaerdop SR
+0o‘gSee %0 OD“GREST oo'+6 00°02 Aoqruaodead YoDPRIYOST JAIUJJOJSEZ stazas futodpod | €2
+, , , , NIJAJJOS
+00957z 9%0% 00°088t 006 bo'oz oyJUTO0dpod ť AOUIIISÁS UPÁUJEJÍSCO sas ÁUrodpod | TE
+‘juapeLuIez epwIndyuoy v epeeigupaId
+BIUIPELIEZ ADNIOG
+O)IZLI JIZIUZ U10 J212 § ‘AOYBSEZ YOAUSIAIIS
+. . . . yoduganod ejueuoAa e yontod
+00‘FgEE %02 00°0Tge 006 00°0€ Aolorpz ypoáujerouajod enmojeypo mojean stATas ÁAOHZpBAJIJ j TČ
+BZ AOUIJJSÁS UJIIEIPEM E HIÁUDEJOCO
+HZIDA UDÁUJENYHJE "AOPOHJOTYTU
+aexdo yoduegniodpo atueaoiuatuaidur
+60'g/gz 907 tr'górz 006 258Gz opepinyI (opordojoo STAJOS ÁAOXZpEAMUJ | OT
+401 SUBIGIA AC[IP YOAUPEIYEU EYAZPOD A A
+ZO'6TT 9%0%T £2T'66 Sz'o 06968 earidop SIAIDS ŠAOJZDEAMJ P ÓT
+60828 %02 h'g6ee oo'tó oÚ BYTUZEYEZ N ZBJUOUG P RIOR[EISU sia1os Áxoyzpeaatda | g1
+00'Fgee 9OT oo'ozčgz o0+ o0O TUBAJOS POLMŽLYUCY SLAJ3S ÁAOXZpBADIJ | LI
+00‘tgLe %0T CO'0ZRZ 00't6 ooo nigapiey eoemSyuoy sas ÁAOHZPBADIJ | 9T
+O0“PgEĽ %0z 00°028e 006 oo'oť£ AyzppasTd STATOS SAONZPEASI] | ST
+Op BHIOPELIEZ OYIUD{ULYOU I]UIPIATY oo d ?
+oo'Pagtt %02 0o‘0zge 006 o0£ HONIOČ ANUBACUENSPO P BALIČO STAJ9S ÁAOZpBAJIA | FT
+oog 2960€0 00'0z8% 006 oo'ot noqo1fa noeyyads efpod exusouSerp STAJ9S KAOJZPBAJIJ | E1
+oo'vgfLC %oz oo'ozgz oo't6 oo'oť NOÁ
+" 8 moegrads gipod viodpod eyoluds) sta1os SAONZPRAR | EI
+oo‘vgEe 0T 00‘0EgT oo'tó oo'oť vyuzEeTEZ
+% L BIUSPELIEZ ormutrapzáa “dsal “earrdo woraeperzod mofuuoHez oowug1 peu sios fupniez | 17
+BIuapeLez AYonIod
+OMIZLE JIZIUZ WOJRI § ‘AOYeSEZ YoAUSIAIIS
+; , , , UDÁUJDHOČ BTUBUOJÁA P UJNIOČ
+oobgtť *%0c 00'0zgT oo'bó oo‘ot aofoipz yoAurgrouatod eruapetpo wopan | yameperzod YoAUUOYNPZ 05WIRL PRU SlAdes AnieZ Í OT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BZ AQWIPISAS UDWEIPEL ¢ yoiupessdo
+HZAIDA UDÁUJENIXE AOPOROLÝNU
+ABAdO UPOÁUBINICÁ pO JATUBACJUJENUJJ ŤV
+
+ 
+
+ 
+
+ 
+78 / L9 eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ot‘ofgl 407 00'z61E 0O‘EET oo'Pz 107U9S YUA[EUE STUZIg Auanupod 3useqoagy a
+ob bl6ť %OT 00‘TIEL oo'ačí oo‘ve RILIFOL PRIV Ayusturpod JuoaqossA 9
+ot'tL6E % 0T oo‘zZ1ee 00‘gEr oo'Pz
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ppp froeygdy
+
+ 
+
+Ayuonupod SUJIGOASA
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo'bRÉÉ
+
+%0z
+
+0o‘ozgeT
+
+oo'b6
+
+oo'oť
+
+NEUJISÁS
+SUYJUJBULICJÚ JADBIUJTIMUNYOP PIPZHENINY
+
+AdV SA9g
+
+8%
+
+ 
+
+oo'tpgtt
+
+40v
+
+00'028T
+
+oo'tó
+
+od oť
+
+nongyide yofuaqosods
+
+A0JoA1as UDÁTOBY IE NYpedáa
+
+11d ‘aozantas psugeyide e zeqeiep
+3Gz1pn Lid “nuajsÁíS OUoUJEULIOJEU
+
+s [ueagxds woupiepurigau pid
+
+NWSAS Aooagads atogynzuoy e erodpog
+
+AdY SLUŠS
+
+LT
+
+ 
+
+oo'tatí
+
+%02
+
+00‘0ZRT
+
+oo'řó
+
+oo'ot
+
+U2jSÁS
+
+ÚtHJPUMLIOJUT BU PIUDSABJÁA OUBAOIJAJJOS
+oyupaepuelg jejdez yoduisoudadzoq e
+yodununy nadjda sieacisaig
+
+AV SBs
+
+9t
+
+ 
+
+oo'btgtt
+
+%woz
+
+oo'ozaz
+
+oo'*bó
+
+ooo
+
+NEUJISÁS OUFUJBULIOJÚI ABRIÁN B
+JEJdez yosusoupadzag e yasudjuny ‘aeido
+YOAUINIRZ PIUBACHJOAN SIUIJIÚZIJEZ
+
+AV SIAI9S
+
+S
+
+ 
+
+oo'bgtť
+
+OT
+
+Q0‘0TRE
+
+QoY 6
+
+oDt
+
+BIDIRACIÁNSOČ
+
+oiuoujdď ad yoáuanm Ae NUIDISAS e
+njustuzeueul oypupeandyuoy eagads
+“Jurfonyuoy ‘jusluzeuew ÁAOPPAÁOLI
+
+AdV S1AID5
+
+e
+
+ 
+
+oobgee
+
+%0T
+
+000282
+
+oo'bó
+
+oo'oť
+
+e rojpaopAysod
+
+aagads A of 101y *wsAs KUJBULIOJÚT
+ad nyýsopdjop aTuRACHZPRAIL]
+
+Ady simoS
+
+s£
+
+ 
+
+oo'baLE
+
+oT
+
+oo‘oege
+
+o046
+
+o0£
+
+B SIEAOIÁHSO BABIČS A B
+uoxpolemu supesysa af alop ‘eiparisord
+oyaaofoasa amesoyzpesasd e sudpesen
+
+AdV S9g
+
+ot
+
+ 
+
+oo‘ebiyt
+
+%0
+
+oo'tgzzT
+
+oo'oG
+
+oL'She
+
+(SULH-J0U) ĽYZNIS VYSUSPEJOČ pyomojaje]
+e VISAOHJMBIEÁ BIUBACJÚEJEŠ
+woppn BZ OSOAOIGUOÁ SNIDIIÁZIA Z
+
+Adv SLdo5
+
+1€
+
+ 
+
+Po'tgch
+
+oc
+
+0z‘645T
+
+oo'P6
+
+0g'ZE
+
+ARXdS YOAUZIADL RQE0A]
+
+swles Awodpod
+
+ot
+
+ 
+
+ 
+
+60°'gLgT
+
+ 
+
+%01
+
+ 
+
+T BOĽ
+
+ 
+
+od6
+
+ 
+
+čz
+
+ 
+
+AOWIDISAS E MIpeULZ [[ZIADT STUBARUOYAA
+
+ 
+
+SIAJ3S (tmiodpodg
+
+ 
+
+6z
+
+ 
+
+ 
+78 / 89 ‘eueng
+
+Ágdop op e Adqop [oupyee:
+op ®s Aa fsonfezpeyopard ejpod
+Agpoy guaodexd ommu se) (erxS)
+00:0g Op 00:8 po TUp UDÁTAOJBIČ
+sepod Ús Áumoy  auaooei]
+
+:,, BUPO.NS“ Yoreperzod
+erueAocORIdS UdaA0I()
+
+"YDIARPEIZOd UJÁAOUBLUZ JIUISLI BU BHIUUD BjPOd B1UBSDI BZ BPEIYN IA0|21RA0IANSO
+1zajeunsd ‘woxeidod wAugesned ezpeayn es esopy| ‘Asodpod [sueaciAysod el A 3f iU nW|qoud oyINUNIUZA BlUBFIL XY
+
+1521t [oUaPaAAN ds(} dunosn ejpod Aanjuz 01l
+
+nsouleid sepod 0j31p 0 AAnjuwiz 2)pod Woga1eA0IANSOd OUIUBIOAIAA 1LY Si PRA YSAJONYIANE 3lueaoyelsp (3
+
+5114 S| nyeszou A Ajazn aaovzpeaasd eu juedruodpo e Atodpod
+
+annuiAysod NUBJAOJd OUJUJBIBACY JH UBPI NDEZNEJINAU 11d LVAOPDIEARUpSÍLO ginujÁysod eodpod — nuajdgod djuagau e ezAjeuy (p
+: Arodpod foaroyzpeascad
+
+qoiznjs op muwryez f SIN
+
+niodpod aid 5| op ndn)sud aujj-uo
+
+WOAIUPaIISosd y3IAepeIZOd 2IUDSBL BABYS © HDBLUJOJUJ BIUBACIÁJSOJ 3
+
+‘gla1eaeupalqQ s oyaueaocsodpod nyeszos A nwajqoud
+
+oyauep nuiud 1eACNIIIUIP] Wo31I s iAojojemeupafgo bowod sjnujíÁysod — nwajdgod eeyynuepi (d
+
+: HSOUUIJ UDJISNÍNPSISEU Z PABISOZOČ
+
+81014 "SLLY SI NUISJTOJÁ NIÁJSÁA BIUBSEJÚBU ÁJUBILUPOd ajuauids suinu eu eoeiznis A4oiuoeid] euBA0ISOd BAZNIS BUH-ICH (e
+:Axodpod foaoqzpeadad Kdznig
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0000801 %08 00‘0006 oo'SzI o“T AOWERISAS YPIRIPRLI TOJBUNRAŽOLA Áxuonupod PUJRGOBBA e
+oo'gřrag %0T oo‘obos a0 Go1 oo'gř 191531 Axuatpod JUIOGOSSA gz
+obbéó OT o0‘E1EE 00‘geT oo'bz 1ozeuem KAOIXO1I Ajuanupod JusdqossA e
+o¥‘ofge %02 00‘e61E oo'EET 00%z 40s3004d B BIUSPELI jSEJgOo 21d JuBHNZUOY Ajuonupod NDOA | L
+
+ 
+8 / 60 reueng
+
+ 
+
+TYLUVAY
+VZ VN39 WOX139
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bz 8 wig[qoad ŠPALLSN
+
+21 v wo[qold Auzeaegyz
+
+9 g uorgord HpoyLní
+
+yogurpoy
+yoLuaodead
+A nwgjqoxd Yoeurpoy yoLuaooead a
+opvrziennou: | sujeunxeu egop vuzyvo y Ayaeperzod dár
+vdop
+
+PUJBUNTXEJAL
+
+"BABYIDOČEZIU
+
+nwjqoad aeZI[ennau
+z8 / 0z ‘eueng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ob*LEQE %02 SL6TE 006 zo'vL sprpnyn foyordojoe
+% 8 T2 SUBRIA AO[RIP YIAUDRIYRU WARDOD SIAIDS JAONZPPASL | OT
+9Ž HS 9407 ottt Sz‘o occ evaeidop SIAISS fACNZPEADI | ÓT
+gbiEgL %0 88°L6TE oo'bé zo'bě B{IUZE e N ZZIUOWE € BOB[EISUL siatas Saoqzpeadld | 8T
+o OT 8|R'L61E oo'bó zov TUDAHOS BREANSYUOY S8 SaONZpBASLd | Z1
+oo'batt %0T 00‘02ge o0t6 oo‘ot NIJAPIBU BIDRINŠUUCY SIAIOS SaoNzZpeARId | ot
+RG‘6L6E %oz ZE OTEĽ oo0+é ge'SE Afzpeasid Op BruspRLIRZ OYRUP|UNYaU ojutapaam SiAdas faoqzpeasig | St
+oo'bgtÉ %0¢ 000282 odb 000t yonaod spreAcYENSPO € BABIAO smlos faovzpeaaag | Pr
+oo'Patt %woz7 oo'ozgz o06 oo'oť nagoláx meyyrods ejpod exusoudernp SLAJ9S faoyzpeaeid |: E1
+oobatí %02 oo'ozgz 00%6 oořot NOGOLÁA ioeyseds gpod exodpod eyonrgaa) stazes faoyzpeadrd | TT
+00'zTSY %woz 00‘09.E 00'6 oo‘ob EUZENRZ yolaepeizod ,
+n eruapeLez annuyIApzAa “dsea ‘earado | yofuuongz 0otrpl peu Stalas fupniez
+eruapeltez Ayanaod oylzu
+HZIUZ WO § ‘A0 eSEZ YoAusiAIes yafuganod
+00bgEE %0z oo'ozgz oo'b6 oo'oť EIUBUOJÁA e gontod aoforpz ypiuppousiod ypuepezod | m
+RIUS[RYPO MIO[)T BZ AOWIISAS YOIDBIPRLI | UDAUUONEZ D2WIRI PRU SIAIIS SUPTLIEZ
+e gaduperado 12194 YIAU[BNPIE ‘AOPONOI{ILE
+ag1do yasuegniodpo anueaojuswadurt
+O0“cISť %oz 000948 00%6 oo‘ob apepLofy (218010 yamepeizod | -
+oI SUBIRIA AOJIIP YOAUDBIYRY BYAEPOD | UDÁUUOJEZ JOUIEI PEU SIALDS AUDnIez
+94891 %oz oPZEL gz'o oz'679 APIALPETZOČ
+PaBIdOp UDÁUUCJEZ JAIBI peu sIAos ÁUgnILZ 8
+00'Pgee 407 00°02gT o0t6 oo'oť o Meprrzod
+EYJUZEATE [ Z73LOUL B BRI UPÁVTUOXJEZ JBLUBI PRU SLAJOS ŠUPNIEZ é
+og'609g9£ 0z 00‘800E 006 00'EE YelaBpRIZOU
+% NJAJJOS TPLANŠYJUOH UPDÁUUOXJEZ IJDUTEI PRUI SLAJIS ÁTDNLIEZ 9
+oo'ebot OT 00°062E 006 00°6E Fouepetzod
+TUJAPIEU BRORINŠYUCY UDÁUUOJEZ FIUIEJ PREU SIAIDS AURNIEZ s
+oo'ziSL 9,02 00°09LE 00'v6 oo‘ob YorAepelzod
+Azpeaaid OP BIUSPELIEZ OGFUJXUTNJSU DIUSPIAT UPÁUUOJEZ DOUIBI PEU SLAJS ÁUDNIEZ v
+oo‘obgs %0z 00'00LP oo't6 oo'oS yomeperzod | .
+UJNIOd HRTUBACUEJNISPO B RABIČO OAUUONPZ 35UIEI PeU SLAJOS ÁUDNIEZ g
+oc‘orgs 9%0¢ o0O o0“F6 oo‘os youeperzod| |
+noqoafa fogyyads gpod vynsouŠer UPÁUUOJEZ JBJ PEU STA13s ÁUSnIEZ v
+oo'FgtÉ woz oo'ozgz oo't6 00°0€ womeperzod | L
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOHOJÁA MOBYUIDSÁS LIpOd LBIOČPOd FYJIUUDIJ
+
+ 
+
+UPÁUUCJEZ JRULA pELI SLAJBS ÁUJATLIEZ
+
+ 
+
+ 
+78 / 1/ reueng
+
+ 
+
+ 
+
+UL]JSÁS ÁUSEULIOSUL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00°89L9 %03 oo'oboti 006 0009 BU BIUDARGAS OY3A019A3J0S OYIUpIepUR)S Ieidez AdV SRS | 9£
+yoduisougadzaq e yosuppuny nadida stueaoisaiy
+.y ; . , NTUJRISÁS OUYJUJBLLIOJÚT
+008929 %07 00'0b9S 006 00’09 aexdn e yefdez yodmsougedzaq € yagupyum] AdY Statog | SE
+"Agado UDÁUJNIEZ PIUBACU JOAN JR ZIKEZ
+; . . , BJDIBACIÁNSOd SIUDUJÁ BId goduagin
+008929 %02 oo'obgs oo'b6 0009 ÁT BAY NUTBISÁS ¥ NIJUJDUZBUPUI OUJUJLINTSYUCY Advsiaag | PE
+eagads ‘Buijoniucy juouzeuem ŠAOA
+00°§YLY %02 oo'obra$ o006 0009 E JPIBAOJÁNSOČ DABIČS A of L101] ‘WIsAs
+Aupeuiiojur 21d rwjsapdiafy dueA0qZpRAAL] AdV SO | €8
+.y o : : , rjaRaotAsod BABIdS A P
+00 8949 %02 00‘ob9S 00%6 0009 wroyfew SUPENHJÁM A 101 ‘erpansord AdV Ss | z
+oygaofoada ajueaozpeaald e oluopeseN
+. , . ; (pur-10Y)} eqznys vysuapelod
+0095961 %0 00°08€91 o005 094z BYOILOO[S) & VIS Acajewered euescueles Advsing | TE
+woEPn ez fseacjoyod ausgadzqez
+1589t %0% 09'Lely 006 ob'of agads yofuzjaal eqioa; staras K£urodpog | o£
+gritge %03 8g8°LoLE 006 so've AOUIISAS © JUIPBLIPZ fiZIADI STURABUONAA swuas furodpog | 62
+00'bgee %03 oo'ozgz 006 0008 EITBAOJOUÁA
+OUJUŽOJNYS BAOBJUDLUNYOCP BIDEZIJENINE P LALOAJ swis futodpo | g2
+oo'tgtt %0 oo'ozgz oo'to oo'of SRTJUBUNLIOP a
+loaoyzpeaond e (01109} BIEZI[ENIYE € BAIOAJ statas fuiodpad | L2
+945689 %0z 08°6zE< 00'76 04’95 opejtouunyop [saoppolord BGIOA) suaas fwiodpod | 9c
+co'rgee %02 00‘0ege 006 oo'ct wodnysod WAUIR{RISUL A IUJUJIUUSN SIAJ9S ÁULIOdpog | Sz
+91891 407 OI Sz'o 08628 Spiqndas faysusaolg (wiszy eu AÓ
+? umponufindny oysuoam FIUJUJÁ gysonu op earrdop spes fuiodpod | be
+00°7gEE %02 00°0283 o0ó oo'ot A0NJUAODEId YILYRTUYDS] DIUSONSEZ siuos (muodpog | €z
+DO“PBEE %0z oo'ozgz 0076 00‘'0% napayos cyzuwiodpod e sowsis yosugesado
+‘ruapeLiez epeIndyuoy B PTOPLEJSUTPOČ suos fuiodpod | 22
+BIUSPELIEZ Agoruod oyrzu
+FIZIUZ W00 § ‘A0LRSEZ YRÁUSTAJIS TPÁUJ a 0d
+00'¥gEE %02 000282 00F6 0008 PRIEUOJÁA £ yoniod Aofo1pz ypAuigpUsled s1as0s Aronzpeasid | 1z
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BIUS[EYPO WO BZ ACUIPISAS OI0BIPELI
+2 yoAuperado nzioa yoAupenie ‘AOPONODU
+agido yaduenrodpo atuesojustuaidimi
+
+ 
+
+ 
+
+ 
+78 / z/ eveng
+
+niodpod a.d g op ndnisiad aull-uoc wWoAIupalscad
+JBIAPPEIZOd eluaSaLs DARLS O |1DBWIOLUI 31URA0IANSOd (9
+‘eja1eARUPalgO S| oydueacsodpod nyeszos A nwaigold
+oyauep NUIIIC JEAONLIIUSPI WOJ3ID S IA0R1eARUP3IGO foowod annuAysed — nwagoud erdexynuapl (q
+: 3souul yoonipaiseu z eagjsozod
+Bi0P 'S11Y St hw|qosd NIÁJSÁA eluaseiyeu Ausiwpod aluauds suinu eu eaeizn|s Ayol1uoelel gueAo}iysod eqznis auif-joH (e
+
+:Arodpod
+(eaoqzpeaaxd  Aqznis
+
+ 
+
+00'0006
+
+OoO'SzI
+
+OO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00“GOBOT %Oc AOUIIISÁS UDBELPELI TOJBRUBIOLE Ayuanupod FUDRGOMA | .0
+oo'ghog OT oo“oroS D0“SOT oo‘gh 19159 Ayuomipod udsqoasA z
+otbl6ť %02 00‘2IEE o0'gET od+ 19zeuem šaopplo1g Aquarupod 3u28googA ] 1
+oFotgt %0T 00‘z6IE O0'EET oo'Pz aosa00ad E PIUOPpLU jsejgo ad jueyjnzuoy Ayuenupod augadgoogA | , a
+obvosegt %0T oo'zórť 00°‘EET o0“ 101199 NATeUE SUZIg Aquarupod JU0aqosgA a
+otF/65 %oz ODIEĽ O0“BET oo'bz PmUaSaH DPRIUHIV Apusnupod 2159do028A 9
+obPL6E %02 o0IEĽ O0“BET oo'Pz MDNHOJE Augeyidy Axuonupod 2u00goosA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'g9LY %0T oo‘ot9S 006 00‘09 NULIISÁS
+OUPUJEULIOZUL SIEJUDUTTJOP PEOBZIPENINY Ady sas] BB
+
+noreynde ypoáuadgosods
+
+, , . , AOIDAJOS UJÁUPDEJECE NYDEČÁA LIA AOIBATSS
+00'89L9 407 oc“obg5 oo'vó6 00'09 yofugexyde e zeqerep PGZIPR HŤ "MULISÁS Advstanmg| Z
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUIFUJEULIOJET LS MILAGIÁS UIOUPIEPULISIU
+1id nurgisAs sooarads aeynzuoy e riodpod
+
+ 
+
+ 
+
+ 
+
+ 
+78 / / reuens
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v 8 uo1go1d HpPRLDRN
+
+°t v Ug1 AUZLALZ
+
+2 e uipqoad Honuny
+
+Yoeurpoy
+yosuaooead
+A nurajego d yopurpoy yosusooead
+JWEZI[ENNIU | A PU[PWIXBW BGOP BUPEIY AMaeperzod dár,
+eqop
+
+BUJBUTKEJA
+
+ 
+
+ 
+
+ 
+
+(S9€xLxb2) onznoaidou
+
+ns ÁUTpPOU JUAODLIJ
+L PNOSAA® Yo1avpeRIZOd
+viueAodeads uaaoa)
+
+'yamepejzod y ÁAOUDLUZ JILIga BU e)IuURD Bjpod BIU3SaI BZ BPRIYN FAOJBIBACIÁNSOJ
+1zsjeunid ‘woxieidod wAutesned ezpeayn es gioy ‘Atodpod faueaoiAysod 1pwed A 3f a1u nwajqoud CUBINUYILZA DIUISILL Ny
+
+oisziu [BUBPBAN 4SN 3uAosn g)pod Aanjwiz 03fa3 nsouleld
+
+seod oja1p 0 AAn|wiZ 2]pod Woj21eA0IANSOd OYIUIIOAIAA §i|Y S| PEA YSAONYDAE SluBAOURASPO (2
+
+SILY S| nyeszoud A Ajpan aaoxzpeassd eu juepnsodpo e Auodpod ainuAysod
+
+NUA oyaujaleroyyiIuapl 119ezieaINaU 1id 1A0)31eARUPSIGO BINUIAYSO Riodpod — nwajqo.d ajuasal e ezAjeuy (p
+: A1odpod
+
+faoyzpradad  qaiznig
+
+op 9muayez of aN
+78 / ¥4 eueng
+
+ 
+
+ 
+
+ 
+
+/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o0O %0T 0 (ISIBAIZN ÁUBACUJMIOČ
+- BU E) SA 21d 910US0T] B I9AYOS-00UBUSIUIRHE BUYOY
+000 %0T 0 (0000t JI0YS - 1053001d BU BIDUAII) SIUBARPEIYAA |
+amuasieIul 21d 2104301 B I9AJOS~IOUBUDIUIBT PUOY |
+000 %07 0 (J23eAIZn AUSEYNS - BIOUSDI] 1) STURARPE]YAA //:/
+SUJUJŽITORIUI JŤ JUH E I2Ayg Og-2UBUDIUTEM PUJOJ „%//
+0T'£TL 0F %0T {9095 €0'871 {00007 (B[918A1ZN OYQUSEQDS I BU BIDWADIL) N
+10jipo AuunroSrpeju: 21d apouovory e 19AJOS-I0URUDIUTEUL BUDOY |
+ov'867 £ %0č | T7809 TOg 00002 (orearzn fuesouawod |
+-o111) Te3x0d 91d SI0USDI] B 19A1JOS-20UBUSIUIBUL BUQOY
+00’0 %0T 0 (000T 310Y5-1089001d BU JE {V']) AOJUSUI{OP
+amepepn agoyojp s1d 910U B IZAJJOS-00URURIUIEU BUROY
+000 %0 0 (IPIBAJZN KUSEJNS AT (V.LI) ACJUDTGNYOP |
+amepepyn PGOUOJP IÍ FTIUDO B IDAJJOS-DIUBUJJÚUTEMI RUIOY
+00798 9p7 %Oč — |OTLSOŤ Ev'TS [00000r (IPTBAZN ŠTTRAOUIUMOČ-INNT) (VLI) AOJUSTINYOP
+JAUEPEPIN PLOHOTP 4d ATOUJIA B IJAYOG-BIUPUJJUTENMU EUJOY
+Ť, 0, ď
+00 868 č OČ SIve 123 00 Z (g1) GdT Op Ze ‘gL Opois |
+oaopea nojoedey s ajod JACHSIP - 90UBUDIUTRUT BUJOT fi]
+ov'zTv v %07  |££9E S8'e8T |00°0C
+
+(SNY) HO1 T TUBAJ] A BYTIRZ PUSJISZOI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ý .„„„,„.Ž/
+
+S
+
+Ý
+A
+
+ 
+
+k
+
+     
+
+S
+WOX130
+
+OT
+
+|
+
+M| ] 0)
+
+ 
+
+ 
+c8 / 6/ eueng
+
+ 
+
+ 
+
+ 
+
+'get %0 9z'/oT BUTPOY0qOS0 Jomas Jueinzuoy fupeyydy | Ojuamupod 3usogoosA "£
+Lé‘ogt 407 T8“001 BUIPOYOYOso Jounf jueynzuoy fuenndy | Ajustuipod uoaqoagA ‘T
+gE'EEL %02 S BUIPOYO(OSO pramoae Auoeyndy | Ausuumpod susaqoaga "
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+    
+
+ 
+
+ 
+
+Momepe
+
+* C1
+
+ 
+
+ 
+
+ 
+
+ 
+
+00'0 %oz |0 (O0OO0T 31035 — 10s301
+
+BU BLOUDIIÝ Azgqele( o1d JUD] B IJAYOS-SIUBUBJUTRU BUJOJ [
+000 %02 0 (J33%A1Zn duseons
+
+- BIOUON T) AZgqeie( DIÁ SIDUDILÍ B IPAIJOS-S0URUIIUTRUI BUOY
+000 %0T7 0 (IPIPAIZN KUPAOUJTIOŤ
+
+- lUt T) ÁZPYBJEJ DN JHEHUDIT R IBAJJOS-SODUBUJJUTEUI RUJDOY
+000 %0¢ 0 {00001 210Ys - 10sa001d
+
+ 
+
+ 
+
+000 %0T 0 ([o1eAIZN dusegns
+- EUD T) SN dR TOUII B IJAJYJOS-DOUPUJJUTEĽU PUJDOY |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+z8 / 94 ‘eueng
+
+ 
+
+VUBINSSE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+č š .
+té'get %oz 9TÍLOT PUupouodoso Aupenb e fpeay npozuoy eu PISIEPČS Ayuoruupoed x122goo$A 9%
+29101 %0T go'tg BUIPOYOGOSO JUJISISE jaoppofoJg Ayuomipod sudsqoass ‘G
+9EE %0T g1 BUIPOYOGOSO Izeuews Saoppafold | Apuatmpod 3Udaqoaga bz
+g4'ob 0€ So'og BUIPOYOYOS0 zsojensumupe faopplord | Auamupoed sudeqoasp ‘8T
+g5‘CEt %0t ČI BUTPOUOGOSO JOZBUBUJ ÁAOUTRISOLI | AMusTWIpOd JUISGOISA ‘2T
+1i'gen 20T 93'L01 BUIPOY0QOSO IOTUDS $a01AT9s ayts DIÁ Popejod ÁuJogpo | Áyxuanupod JUDIGOBSA 1z
+Zó'ozct %ozv tg'ooT BUIPOYOGOSO Jomunf $301a19¢ 931s 21d voperod Zuzsodgpo | Ausiwpod JUdIOISA ‘0T
+i'getl %02 9z‘LoT BUIPOYOGOSO IBLILICISUR) € J1331E1]S NS0 A JURNZUION Ayusnupod quaagqoag '61
+T28 40 90201 BUIPGOYOSO 1] soppadse yoámved jsejgo ad jueymzuoy Ayuonupod 3u29go028A 'gr
+1i'ger % 0T 90201 BUIPOY QOS50 A0s3001d v pTUapel 1se[qo a1d Jueynzuoy | Sjuorupod uneqossa a
+14'ge1 902 9z Lot BUIPOYOGOSO FURSILI HOAAOAIRAPO JURHNZUOY Aquonupod uodqOIgA "g1
+1é'ger %oz gz Lol BUIPOUOGOSO eisypeioadg 11| Aquatupod SUDIJOBSA 1
+1281 %0%T 9gLlot BUIPOOQOSO eisyenads Awgpungeyyuy | Ajuonupod 3usogoogA *F1
+9SEET %02 gt BUIPOYOqOSO Payose íugeunojuj | Apuomupod auoaqodsA €1
+at‘got 407 s£8g BUIPOYOGOSO Joufezip Hpyern | Auomupod sudaqoaga '71
+TČ GE 3407 9ELOV PULPOUCAOSO g1 jsougadzoq vu wisyeadg | Suonupod JUDIKOBSA I
+1L'ger 90T gz Lot BUIPOYOQOSO eisieads 4aczeqelec] Ayuanupoed 3uoqoagA O1
+IČ eT %02 9T'LoT BUPOYOQOSO eisgewads Laoieq | Aqustepod 3udeqoasa ô
+1L°ger OT 9z'/OT BUIPOYOQOS0 Jomas yideue siuzig | Ayusturpod JuasqoasA ‘8
+Lé‘ozt %0T 18001 BUIPOYOGOSO Jonumf yudjeue STUZIA Ayuomupod »u92goasgA Ž
+95EI %0% ŠT BUIPOYOGOSO BIUaSOL praygaay | Aduotupod 9usaqoasp "g
+L6'oTt %OT 18°001 BUIPOYOGOSO J01uas 1efoada fupeyiidy Ayuonupod JudagoasA G
+
+b6°16 %02 z29°94 BUIPOYOQOSO zopun{ mpfoada fupeyndy | Ojronupod 2us2goaga +
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+T8 / Z/ eueng
+
+ 
+
+Lozt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+%0g 18'001 BUIPOYOQOSO EYS[IIRAIZN BIRIUS WO AXUDIUIPOČ JUIIGORIA ‘08
+Lozt %OT 18001 BUIPOY0GOSO BIOJRLSIUIWPE egImawnoqg | Ájuonupod susaqooga g€
+il'get %oz 9T LOT BUTPOLOGOSO spreagnaudiong | Apuonupod 2092dgoagAa "LE
+ri'get %OT 9z'LoT BUIPOYOYOSO eIclensuHupe austoNg | Lustwpaod pusaqoaga 9t
+
+s i . JYZBUČU .
+1280 0€ 9g'L01 BUIPOLOGOSO - AOUIISÁS 1 Axzpeasid K1odpod yruacoeig Ayuomupod JUagosA e
+PgrI %oz gé'96 BUIPOY 0GOS0 op AYUJUIPOŤ JUDBAORSA e
+v : 4 ureay - aowsas [ Ayzpeasad Liodpod yjuasooeig : “ M
+
+T9TOT %03T 8918 BULPOHOGOSO AOUTBJSÁS LE Sfzpesdad ArOdpod HIUADJBIJ | — Axuomupod 2022goaga €€
+LboTT 9%0%T 18°'001 RUIPOYOQOSO aowsss yoroemperr Joetweidord | | ÁXtonupod 2u23googA "cE
+1281 9,02 9z’ lo1 BUIPOYOGOSO 1313099 UDKAOJBP BISHENDAdE | Aquarmrpod guosqoogy "8
+té'gat 9% 0% 92°LOT BUIPOYOJOSO TŠHUJI UDŠACIBP jupyjnzuoy j Auatwpod pusaqoaga o
+1Ž8 %0 98201 BLUIpPOUOOSO BISIETODČS ÁAOGODM | AJUDILUpOd JUDIgBASA 6%
+8L'g6 %0z So'og BUIPOL0OGOSO 391591, | Aonuupod udaqoasp 'go
+té'gar OT 9z Lot RUIPOYOGOSO esieads Avois | Aquantupod gudaqosss L2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Priloha ¢. 7
+Vzor Navrhu na zmenu
+
+ 
+
+Objednavatel Poskytovatel ID
+
+ 
+
+ 
+
+ensentia
+
+Ministerstvo spravodlivosti SR .
+Bratislava, s.r.o.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sluzbu Datum Od Do Odpracovany čas
+
+ 
+
+ 
+
+zabezpecluje
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cas pripravy sluzby:
+
+ 
+
+ 
+
+ 
+
+Celkom v ¢lh:
+
+ 
+
+ 
+
+ 
+
+7 toho ¢lh v ramci
+
+ 
+
+ 
+
+predplatenych:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Poskytovatel priloZi detailny rozpoéet ndvrhu poskytovanych sluzieb v prilche tohto
+formularu.
+
+ 
+
+ 
+
+SluZba bude vykonana v priestoroch Objedndvatela: Ano [} Nie[ ]
+
+ 
+
+ 
+
+Strana: 78 / 82
+
+ 
+ 
+
+ 
+
+Zoznam krokov resp. popis Navrhu na zmenu:
+
+ 
+
+ 
+
+Tymto akceptujem tento Navrh na zmenu.
+
+Celé meno Objedndvatela:
+
+Podpis Objedndvatel’a:
+
+.............................................
+
+.............................................
+
+ 
+
+interné poznámky spoločnosti:
+
+ 
+
+Strana: 79 / 62
+
+ 
+
+ 
+Strana: 80 / 82
+Priloha ¢. 8
+
+Nahlasovanie problémov a Opravnena osoba Objednavatel’a
+
+Opravnené osoby
+
+Podporné stredisko Poskytovatefa
+
+ 
+
+ensentia, s.r.o
+Priemyselna 6, 824 90 Bratislava
+Tel.: +421 2 58 24 67 11, fax: +421 2 58 24 61 48
+
+www.ensentia.sk
+
+ 
+
+PSZ tel: 02/32382720
+
+e-mail: sd@ensentia.sk
+
+ 
+
+Cisto faxu tel: 02/32382720
+
+ 
+
+Systém ESSP https:/ /otrs.ensentia.sk/otrs/customer.pl
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zamestnanci Poskytovatela uréeni pre eskalaciu
+
+ 
+
+ 
+
+Uroven eskalacie Kontaktné (daje
+1. úroveň - Martin Pauliny, Projektovy | Martin.Pauliny@ensentia.sk
+manazér
+
+ 
+
+ 
+
+2. Grovefi — Milan Pastrnak, Technicky riaditel’ | Milan.Pastrnak@ensentia.sk
+
+ 
+
+ 
+
+Zamestnanci Objednavatefa ureni pre zasielanie servisnych hlaseni
+
+ 
+
+Kontakt v standardnom pracovnom case Kontaktna e-mail adresa pre vietky typy komunikacie
+
+ 
+
+8.00 hod — 17.00 hod frantisek.kutik@justice.sk
+
+ 
+
+rudolf.hormann@justice, sk
+
+ 
+
+karol.halasz@justice.sk
+
+ 
+
+miroslav.durco@justice.sk
+
+ 
+
+peter.kajaba@justice.sk
+
+ 
+
+daniela.galova@justice.sk
+
+ 
+
+stefan.gaura@justice.sk
+
+ 
+
+daniel.racik@justice.sk
+
+ 
+
+mirosiav.gaborcik@justice.sk
+
+ 
+
+ 
+
+ 
+
+tatiana.cinovaZz @justice.sk
+
+ 
+
+Strana: 81 / 82
+
+ 
+
+ 
+ 
+
+ivan.dovicovic@justice.sk
+
+ 
+
+marek.endel@justice.sk
+
+ 
+
+marek.jusko@justice.sk
+
+ 
+
+rastislav.pivovar@justice.sk
+
+ 
+
+marian.ozimy@justice.sk
+
+ 
+
+ivan.masar@justice.sk
+
+ 
+
+mirosiav.racik@justice.sk
+
+ 
+
+igor.blasko@justice.sk
+
+ 
+
+martin.benko@justice.sk
+
+ 
+
+martin.veng@justice.sk
+
+ 
+
+ 
+
+ 
+
+roman.pechy@justice.sk
+
+ 
+
+Zamestnanci Objednavatefa uréeni pre eskalaciu
+
+ 
+
+Urover: eskalacie
+
+Kontakt
+
+ 
+
+1. Urovefi - Tatiana Cinova, projektovy manazér
+
+Tatiana.cinova2@justice.sk
+
+ 
+
+ 
+
+2. Grover — Karol Janedek, projektovy manazér
+
+karol.janecek@justice.sk
+
+ 
+
+ 
+
+Zamestnanci Objednavatela uréeni pre zadavanie otazok pri Konzultaénej podpore
+
+ 
+
+Meno a priezvisko Kontaktna e-mail adresa pre vSetky typy komunikacie
+
+ 
+
+1. úroveň - —- Miroslav Gaborcik, | miroslav.gaborcik@justice.sk
+
+riaditel’ odboru
+
+ 
+
+ 
+
+ 
+
+2. Groven - Daniel Racik daniel.racik@justice.sk
+
+ 
+
+Strana: 82 / 82
+
+ 
+
+ 
+
+ 
+

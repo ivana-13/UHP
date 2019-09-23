@@ -1,0 +1,340 @@
+Kúpna zmluva č. Z201749020_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Generálna prokuratúra Slovenskej republiky
+Štúrova 2, 81285 Bratislava , Slovenská republika
+166481
+2020830328
+SK31 8180 0000 0070 0000 4038
++421259532705
+
+Dodávateľ:
+Obchodné meno:
+
+TEMPEST a.s.
+
+Sídlo:
+
+Galvaniho 17/B, 82104 Bratislava, Slovenská republika
+
+IČO:
+
+31326650
+
+DIČ:
+
+2020327716
+
+IČ DPH:
+
+SK2020327716
+
+Číslo účtu:
+
+SK13 1100 0000 0026 2004 1080
+
+Telefón:
+
+0250267111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Konsolidácia technických prostriedkov a dátového úložiska pre systém SunRay na
+virtualizačnej platforme VMware
+
+Kľúčové slová:
+
+hardverové komponenty, konsolidácia, dátové úložisko
+
+CPV:
+
+32580000-2 - Dátové zariadenia; 32420000-3 - Sieťové zariadenia; 72252000-6 Počítačová archivácia; 72511000-0 - Softvérové služby na správu sietí; 72510000-3 Služby súvisiace so správou počítačov; 72300000-8 - Dátové služby; 72710000-0 - Služby
+pre lokálne siete LAN; 32424000-1 - Infraštruktúra siete; 60000000-8 - Dopravné služby
+(bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka:
+
+Konsolidácia technických prostriedkov a dátového úložiska pre systém SunRay na virtualizačnej
+platforme VMware
+
+Funkcia
+Konsolidácia technických prostriedkov a dátového úložiska pre systém SunRay na virtualizačnej platforme VMware
+Technické vlastnosti
+
+Jednotka
+
+Odborné služby a hardvérové komponenty podľa
+nasledovnej špecifikácie
+
+súbor
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Odborné služby:
+- archivácia existujúcich dát vybraných serverov
+zákazníka (10ks Solaris SPARC) na dátové úložisko
+- bezpečné vymazanie dát (data shredding) vybraných
+serverov zákazníka (10ks Solaris SPARC) pred ich
+vyradením z majetku
+
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+1
+
+- odrackovanie vybraných hardverových komponentov,
+optimalizácia ich umiestnenia a opätovné umiestnenie
+do rackov
+- aktualizácia firmvéru a softvéru (patchovanie 4ks
+Solaris, 28ks SunRay)
+- revízia a optimalizácia sieťových tokov (úprava IP
+plánu, oddelenie sieťových služieb: SunRay, print,
+desktop)
+- inštalácia dátového úložiska do existujúceho racku
+- konfigurácia dátového úložiska podľa požiadaviek
+obstarávateľa
+- online migrácia dát existujúceho produkčného VMware
+prostredia zákazníka na nové úložisko
+- rekonfigurácia firewallu
+- migrácia na nový HW vrátane konfigurácie
+nasledovných služieb: legacy print server USB edge
+port, Sunray hot desking
+- konfigurácia monitorovacích nástrojov a nastavenie
+automatických notifikácií administrátorov
+- aktualizácia RACK plánu
+2. Hardverové komponenty
+- 2ks pevná polica do 19“ racku s hĺbkou 100cm,
+nosnosť 50kg
+Minimálne technické parametre dátového úložiska:
+- minimálne 4x 1Gbps iSCSI Ethernet porty pre
+pripojenie serverov (front-end konektivita)
+- minimálne 4x 16Gbps FC porty pre pripojenie serverov
+(front-end konektivita)
+- minimálne 3x 400GB Flash Drive (SSD)
+- minimálne 9x 2TB NL-SAS Drive
+- minimálne dva aktívne kontroléry obsluhujúce I/O
+operácie
+- použiteľná kapacita spolu minimálne 10.4TB
+- diskové úložisko podporuje minimálne RAID 1/0, 5, 6
+- možnosť priameho pripojenia FC serverov na diskové
+úložisko (direct attach) bez nutnosti použiť FC prepínače
+- architektúra diskového úložiska neobsahuje SPOF
+(Single Point of Failure)
+- diskové úložisko poskytuje dostupnosť na úrovni
+99,999%
+- možnosť upgrade diskového úložiska na vyšší model
+bez nutnosti výmeny celého diskového úložiska
+- podpora súčasného natívneho blokového aj
+súborového pripojenia/prístupu bez nutnosti
+dodatočného HW pomocou 16 Gb/s FC, 8 Gb/s FC, 1
+Gb/s a 10 Gb/s iSCSI, 1 Gb/s a 10 Gb/s CIFS, NFS
+- diskové úložisko podporuje súčasné pripojenie hostov
+pomocou protokolov FC, iSCSI, CIFS a NFS
+- podpora SAS 12 Gbps pre diskovú (back-end)
+konektivitu
+- podpora SAS, NL-SAS a SSD diskov s možnosťou
+mixovania diskov v rámci jednej diskovej police
+
+Strana 2 z 4
+
+- diskové úložisko musí obsahovať kapacitne
+neobmedzenú licenciu pre inline kompresiu dát s
+možnosťou nastavenia zdroja, nad ktorým bude
+kompresia prebiehať (LUN, diskový pool, celý systém
+atď.)
+- diskové úložisko musí obsahovať kapacitne
+neobmedzenú licenciu pre thin provisioning
+- diskové úložisko podporuje enkrypciu dát vykonávanú
+priamo prostriedkami diskového úložiska
+- podpora VMware vVols
+- podpora virtuálneho prostredia (VAAI, VASA)
+- podpora GUI (preferujeme HTML5) a príkazového
+riadku pre menežment diskového úložiska
+- podpora zálohovania zápisovej cache na disky pri
+výpadku
+- riešenie musí obsahovať softvér na meranie výkonnosti
+diskového úložiska a QoS (Quality of Service)
+menežment
+- podpora SNMP, e-mail notifikácii a podpora call-home
+- možnosť rozšírenia front-end konektivity diskového
+úložiska o ďaľšie 16 Gbps FC porty
+- podpora systémovej pamäte minimálne 48 GB
+- diskové úložisko je škálovateľné minimálne do 150
+diskov
+- diskové úložisko podporuje riešenie pre absorbovanie
+výkonových špičiek rozšírením cache o SSD disky
+- SSD cache podporuje čítanie aj zápis
+- diskové úložisko musí obsahovať kapacitne
+neobmedzenú licenciu pre automatický tiering - diskové
+úložisko je schopné dynamicky optimalizovať
+umiestnenie dát medzi 3 typmi diskov, SSD, SAS,
+NL-SAS, na základe užívateľských politík.
+Dáta sú presúvané po blokoch na základe I/O prístupu,
+t.j. intenzívne používané bloky dát sú umiestnené na
+rýchlejšie disky, menej používané bloky dát na pomalšie
+disky.
+- podpora permanentného hot sparingu, t.j. v prípade
+výpadku disku sa stane hot spare permanentným
+členom diskovej skupiny a nie je nutné po výmene disku
+dáta kopírovať späť
+- podpora lokálnej a vzdialenej synchrónnej a
+asynchrónnej replikácie dát na neobmedzenú kapacitu
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+- vyžaduje sa VMware certifikovaný administrátor
+- vyžaduje sa predloženie aspoň dvoch referencií o inštalácii a konfigurácii VMware prostredia s uvedením kontaktnej osoby
+zákazníka
+- vyžaduje sa predloženie aspoň dvoch referencií o inštalácii a konfigurácii SunRay prostredia s uvedením kontaktnej osoby
+zákazníka
+Vrátane dopravy na miesto plnenia
+Vrátane inštalácie na mieste plnenia
+Vrátane zaškolenia max. 3 osôb v rozsahu max. 1 hodiny
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 7 dní od uzavretia zmluvy
+Nový, doposiaľ nepoužitý tovar
+Strana 3 z 4
+
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava
+
+Obec:
+
+Bratislava
+
+Ulica:
+
+Kvetna 13
+
+Čas / lehota plnenia zmluvy:
+05.10.2017 10:00:00 - 03.11.2017 15:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+sub.
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 25 800,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 30 960,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 02.10.2017 10:38:01
+Objednávateľ:
+Generálna prokuratúra Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+TEMPEST a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+Strana 4 z 4
+
+

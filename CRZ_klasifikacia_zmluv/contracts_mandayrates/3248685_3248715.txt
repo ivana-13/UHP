@@ -1,0 +1,1091 @@
+Servisná zmluva na poskytovanie služieb údržby a rozvoja existujúceho systému
+pre podporu elektronickej správy registratúry
+uzavretá podľa § 56 zákona č. 343/2015 Z. z. o verejnom obstarávaní
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon o VO“)
+a § 269 ods. 2 Obchodného zákonníka (ďalej len „zmluva“)
+Č. NBÚ: 06859/2017/SEP/OMTZ-017
+1.
+
+Č. DWC Slovakia a. s.:
+
+ZMLUVNÉ STRANY
+
+1.1. Objednávateľ:
+Názov:
+Sídlo:
+Štatutárny orgán:
+Osoba oprávnená na rokovanie:
+IČO:
+Bankové spojenie:
+IBAN:
+(ďalej len ,,objednávateľ“)
+
+Národný bezpečnostný úrad
+Budatínska 30, 851 06 Bratislava
+Ing. Jozef Magala, riaditeľ
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+36 061 701
+Štátna pokladnica
+SK62 8180 0000 0070 0019 9517
+
+a
+1.2. Dodávateľ:
+Obchodné meno:
+Sídlo:
+Zápis v obch. reg.:
+Štatutárny orgán:
+Osoby oprávnené na rokovanie:
+- vo veciach zmluvných a finančných
+- vo veciach technických
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+IBAN:
+(ďalej len ,,dodávateľ“)
+
+DWC Slovakia a. s.
+Mlynské nivy 71, 821 05 Bratislava
+Obch. reg. OS Ba 1., oddiel: Sa, vložka č. 4134/B
+Ing. Peter Axamít, predseda predstavenstva
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+35 918 501
+2021942307
+SK2021942307
+Tatra banka a.s., Bratislava
+SK97 1100 0000 0026 2303 0272
+
+(Objednávateľ a dodávateľ sú ďalej spoločne označovaní ako „strany zmluvy“ alebo „strany“)
+1.3. Sídla strán zmluvy sú zároveň ich korešpondenčnými adresami.
+
+1
+
+2.
+
+VYSVETLENIE POJMOV
+
+2.1. Služba Hot-Line predstavuje riadenie poskytovaných servisných služieb a činností Service
+desku. Ďalej znamená poskytovanie prvoúrovňovej podpory objednávateľovi pri využívaní
+systému automatizovanej správy registratúry, t. j. poskytovanie doplňujúcich informácií,
+potrebných pri práci s počítačovým programom Fabasoft. Projektová podpora zabezpečuje
+koordináciu všetkých projektových procesov týkajúcich sa riešenia incidentov požiadaviek
+na zmenu, eskalácii, reportovania a štatistických hlásení medzi objednávateľom a dodávateľom.
+2.2. Službou Požiadavka na zmenu sa rozumejú služby dodávateľa vedúce k ďalšiemu rozvoju,
+úpravám a integrácii systému automatizovanej správy registratúry, na základe požiadavky
+objednávateľa, prípadne na základe odporučenia dodávateľa a za podmienok uvedených v tejto
+zmluve. Požiadavka na zmenu (PZ)/ Správa zmien znamená, že funkčnosť systému nie je
+degradovaná. Ide o zmenu existujúceho systému s cieľom zmeniť jeho funkčnosť, zmenu
+existujúceho systému s cieľom pridať novú funkčnosť alebo o zmenu existujúceho systému
+s cieľom aktualizovať jeho riadiace parametre.
+2.3. Službou Servisný zásah sa rozumie záväzok dodávateľa poskytnúť riešenie pri prípadných
+výskytoch kritických a nekritických problémoch systému automatizovanej správy registratúry
+v stanovenom čase.
+2.4. Službou Držanie pohotovosti sa rozumie pripravenosť dodávateľa poskytnúť riešenie
+pri prípadných výskytoch kritických a nekritických problémoch informačného systému Fabasoft
+v stanovenom čase.
+2.5. Službu Profylaktika aplikačnej vrstvy. Táto služba predstavuje činnosti správy a údržby
+serverov, systémového softvéru a systému automatizovanej správy registratúry. Tieto činnosti sa
+vykonávajú pravidelne počas pracovnej doby, v mieste inštalácie systému s cieľom preventívne
+identifikovať možné problémy. Ide zväčša o monitorovanie a kontrolovanie definovaných
+parametrov na základe vopred definovaného profylaktického plánu. Vykonané služby kontroly sa
+zapisujú do pracovného výkazu, dodávateľ je povinný vykonať službu vo vopred dohodnutom
+termíne.
+2.6. Rozvoj systému automatizovanej správy registratúry na platforme Fabasoft podľa
+požiadaviek objednávateľa môže byť využívaný počas trvania tejto zmluvy na základe
+objednávok vystavených objednávateľom na konfiguráciu a sprístupnenie potrebných odborných
+modulov súvisiacich s rozvojom informačného systému Fabasoft, s odbornou činnosťou
+objednávateľa a rozširovaním počtu licencii Fabasoft. Jednotkové ceny jednotlivých služieb sú
+uvedené v Prílohe č.1.
+2.7. Skratka ASR označuje pojem Automatizovaná správa registratúry.
+2.8. Automatizovaná správa registratúry je systém, ktorý umožňuje komplexný prehľad
+o procesoch vo fáze vybavovania dokumentov (od zaevidovania dokumentov v organizácii
+až po ich vyradenie) s rešpektovaním aktuálne platnej legislatívy.
+2.9. Skratka IS označuje pojem Informačný systém.
+2.10. Informačný systém je systém na zber, udržiavanie, spracovanie a poskytovanie informácií;
+pre účely tejto zmluvy ide o súhrnný názov pre informačný systém automatizovanej správy
+registratúry a dokument manažment systému.
+2
+
+2.11. Dokument manažment systém predstavuje systém umožňujúci konzistentnú, efektívnu
+a bezpečnú prácu s elektronickými dokumentmi v súlade s legislatívnymi požiadavkami počas
+celého životného cyklu.
+2.12. Doba odozvy je doba, do ktorej pracovník dodávateľa bezodkladne kontaktuje (emailom, ak nie
+je uvedené inak) kontaktnú osobu zo strany objednávateľa a informuje ju o začatí riešenia
+servisnej požiadavky.
+2.13. Prvotná odozva je doba medzi postúpením požiadavky objednávateľom dodávateľovi a prvotnou
+informáciou dodávateľa o krokoch, ktoré boli (budú) zrealizované a predpokladanom cieľovom
+čase na vyriešenie požiadavky.
+2.14. Čas na zabezpečenie náhradného riešenia znamená, že bolo uplatnené riešenie do systému
+(služba/prevádzka bola čiastočne obnovená), pričom čas je počítaný iba v rámci daného
+časového pokrytia od okamihu nahlásenia incidentu/problému kontaktnou osobou zo strany
+objednávateľa do okamihu, keď dodávateľ vykoná náhradné riešenie problému.
+2.15. Zabezpečenie náhradného riešenia znamená dosiahnutie dočasného režimu funkčnosti
+systému (funkcia a plánovaná použiteľnosť systému je v zmysle požiadaviek a funkčnej
+špecifikácie síce poskytovaná odlišne, avšak nie je podstatne ovplyvňované jej pôvodne
+plánované použitie) vytvorením náhradného postupu bez podstatného vplyvu na zvýšené
+personálne alebo časové nároky na strane objednávateľa.
+2.16. Doba trvalého vyriešenia znamená najneskorší čas, dokedy dodávateľ musí vyriešiť
+objednávateľov incident/problém, t. j. znamená čas, kedy bolo uplatnené trvalé riešenie
+do systému (služba/prevádzka bola plne obnovená), pričom čas je počítaný iba v rámci daného
+časového pokrytia od okamihu nahlásenia incidentu/problému kontaktnou osobou zo strany
+objednávateľa do okamihu, keď dodávateľ poskytne trvalé riešenie incidentu/problému.
+2.17. Incident/problém s prioritou "Kritická" je spôsobený výlučne v dôsledku poruchy funkčnosti
+informačného systému a znamená, že je pre zabezpečenie činnosti u objednávateľa
+nepoužiteľný, je nefunkčný, alebo jeho funkčnosť je degradovaná s dopadom na kvalitu
+poskytovanej služby s majoritným dopadom na užívateľov, prestal pracovať, pričom objednávateľ
+je závislý na plnofunkčnom vykonávaní funkcie, s ohrozením vzniku okamžitého alebo budúceho
+katastrofického dopadu na základné činnosti objednávateľa. Funkčnosť IS nie je možné využívať
+náhradným spôsobom.
+2.18. Incident/problém s prioritou "Normálna" znamená, že funkčnosť je degradovaná s dopadom
+na kvalitu poskytovanej služby s minoritným dopadom na užívateľov, informačný systém prestal
+z časti pracovať, pričom objednávateľ je závislý na plnej funkčnosti IS s možnosťou vzniku
+situácie majúcej dopad na činnosť objednávateľa, funkčnosť informačného systému nie je možné
+plne využívať, ale je ju možné nahradiť iným spôsobom. Alebo funkčnosť je degradovaná
+bez dopadu na kvalitu poskytovanej služby, príslušnú funkčnosť vzhľadom na definovaný
+problém je komplikované užívať, alebo nie je možné plne užívať, alebo je ju možné užívať
+náhradným spôsobom.
+2.19. Incident/problém s prioritou "Nízka" znamená, že funkčnosť je degradovaná bez dopadu
+na kvalitu poskytovanej služby s minoritným dopadom na užívateľov. Objednávateľ nie je závislý
+na plnej funkčnosti IS, funkčnosť informačného systému je možné nahradiť iným spôsobom.
+Alebo funkčnosť je degradovaná bez dopadu na kvalitu poskytovanej služby, príslušnú funkčnosť
+vzhľadom na definovaný problém je možné užívať náhradným spôsobom.
+
+3
+
+2.20. Bežná prevádzka predstavuje prevádzku v bežný pracovný deň v čase od 7:30 h do 16:00 h
+s výnimkou štátom uznaných sviatkov a víkendov.
+2.21. Jeden človekodeň znamená 8 pracovných hodín.
+2.22. Jedna človekohodina je základná časová jednotka pre vykazovanie prácnosti, vyjadruje
+prácnosť realizovanú jedným človekom v rozsahu jednej hodiny, pričom najmenšia účtovateľná
+čiastka za prácnosť podľa tejto zmluvy je 0,5 hodiny (30 minút).
+
+3.
+
+PREDMET ZMLUVY
+
+3.1. Predmetom tejto zmluvy je záväzok dodávateľa vykonávať a zabezpečovať pre objednávateľa
+služby/plnenia spojené s údržbou a rozvojom informačného systému elektronickej registratúry
+na platforme Fabasoft (ďalej len „služby“), a to ako služby poskytované mesačne a ako služby
+poskytované na základe objednávky (článok 4 tejto zmluvy) a záväzok objednávateľa za riadne
+dodané služby zaplatiť. V rámci plnenia tejto zmluvy budú dodávateľom poskytované služby
+v tomto rozsahu:
+3.1.1. Hotline a projektová podpora,
+3.1.2. Servisný zásah,
+3.1.3. Profylaktika aplikačnej vrstvy,
+3.1.4. Rozvoj systému automatizovanej správy registratúry na platforme Fabasoft
+podľa požiadaviek objednávateľa.
+3.2. Služby podľa bodu 3.1.1. až 3.1.3. poskytuje dodávateľ mesačne (mesačný paušál) odo dňa
+účinnosti tejto zmluvy po celú dobu jej platnosti. Ak by došlo ku skončeniu zmluvy v priebehu
+kalendárneho mesiaca, cena za paušál sa vypočíta ako alikvotná časť poskytnutých služieb
+pripadajúca na pracovné dni (do dňa skončenia zmluvy).
+3.3. Služby podľa bodu 3.1.4. poskytuje dodávateľ na základe objednávky vystavenej
+objednávateľom; tieto služby sú riadne prebraté preberacími protokolmi ku dňu dodania služieb.
+Dodávateľ sa zaväzuje služby podľa tohto ustanovenia zmluvy poskytovať objednávateľovi
+v rozsahu uvedenom v príslušnej objednávke a za podmienok dohodnutých v zmluve.
+Objednávka bude obsahovať najmä predmet plnenia, čas poskytnutia služby/plnenia, meno,
+podpis oprávnenej osoby objednávateľa, dátum vystavenia objednávky.
+3.4. Služby podľa bodu 3.1. (body 3.1.1. až 3.1.4.) môžu využívať len oprávnené osoby objednávateľa
+podľa bodu 14.1. tejto zmluvy.
+
+4.
+
+ROZSAH SLUŽIEB A PODMIENKY ICH POSKYTOVANIA
+
+4.1. Dodávateľ
+4.1.1. zabezpečí tím prvoúrovňovej podpory Hotline a projektovú podporu pre koncových
+používateľov,
+4.1.2. príjem a evidenciu všetkých otázok, požiadaviek a chýb od objednávateľa resp. jeho
+oprávnených osôb,
+4.1.3. identifikáciu a riešenie prijatých otázok, požiadaviek a chýb v rámci získaných poznatkov
+zo školení resp. poučení,
+4.1.4. sa zaväzuje všetky služby podľa tejto zmluvy poskytovať počas času bežnej prevádzky.
+4.2.
+
+Hotline a projektová podpora (bod 3.1.1.)
+4
+
+-
+
+Rozsah činností
+
+-
+
+riadenie a poskytovanie servisných služieb a činností,
+vedenie evidencie nahlásených incidentov/problémov,
+reportovanie zamerané na spracovávanie požadovaných reportov
+a operatívnych informácii o ich riešení,
+prevádzka hotline strediska,
+zber a evidencia incidentov/problémov,
+identifikácia problému, ktorý vznikol nekorektným zásahom objednávateľa,
+jeho analýza a samotné riešenie,
+poskytovanie konzultácii o incidentoch/problémoch,
+poskytovanie mailového hotlinu poučením zamestnancom objednávateľa,
+projektové riadenie poskytovaných činností,
+riešenie eskalácii,
+poskytovanie reportovania a štatistických hlásení.
+
+4.3. Servisný zásah (bod 3.1.2.)
+- dodávateľ poskytne riešenie v prípade kritických/normálnych/nízkych
+incidentoch/problémoch v stanovenom čase,
+- o výsledku servisného zásahu bude dodávateľ informovať objednávateľa
+bezodkladne,
+- lehota na začatie riešenia incidentu/problému začína plynúť počas času
+bežnej prevádzky; vzhľadom na absenciu vzdialeného prístupu pri riešení
+incidentov/problémov, čas na zabezpečenie náhradného riešenia a doba
+trvalého vyriešenia incidentu/problému sa začíta počítať až od momentu
+pridelenia fyzických prístupov pre konzultantov dodávateľa do IS
+Rozsah činností
+objednávateľa v sídle objednávateľa, zároveň sa dodávateľ zaväzuje
+dostaviť sa do sídla objednávateľa k riešeniu incidentov/problémov
+bezodkladne od jeho nahlásenia v čase bežnej prevádzke,
+- posúdenie incidentu/problému na kritický/normálny/nízky je v kompetencii
+objednávateľa,
+aby nedošlo k pochybnostiam, čiastočným vyriešením incidentu/problému
+sa rozumie aj zníženie úrovne incidentu/problému, t. j. z kritického na
+normálny/nízky; toto však nezbavuje dodávateľa povinnosti úplne
+odstrániť incident/problém v lehote určenej podľa zníženej úrovne
+incidentu/problému.
+4.4. Kategórie incidentov/problémov
+Kategória
+Služba / Aktivita
+Doba odozvy
+Prvotná odozva
+Kritická
+Čas na zabezpečenie
+náhradného riešenia
+Doba trvalého vyriešenia
+Doba odozvy
+Prvotná odozva
+Normálna
+Čas na zabezpečenie
+náhradného riešenia
+Doba trvalého vyriešenia
+Doba odozvy
+Nízka
+Prvotná odozva
+5
+
+Reakčná doba
+1h
+4h
+8h
+32 h
+1h
+8h
+40 h
+80 h
+1h
+32 h
+
+Čas na zabezpečenie
+náhradného riešenia
+Doba trvalého vyriešenia
+
+80 h
+160 h
+
+4.5. Incidenty/problémy nahlasuje objednávateľ písomne prostredníctvom Servis Desku alebo
+e-mailom na adresu podpora@dwcslovakia.sk. Objednávateľ môže problémy nahlasovať nepretržite
+365 dní v roku 24 hodín denne. Lehota na Dobu odozvy na incident začína plynúť v čase bežnej
+prevádzky. Lehota na vyriešenie incidentu sa počíta iba v rámci pracovných hodín.
+4.6. Nahlasovaný incident/problém musí obsahovať tieto podrobné informácie zabezpečujúce jeho
+jednoznačnú simuláciu:
+4.6.1. podrobný popis,
+4.6.2. printscreen obrazovky alebo identifikácia dotknutého objektu (číslo záznamu alebo spisu),
+4.6.3. typ prostredia (prevádzkové, testovacie),
+4.6.4. identifikáciu používateľa, u ktorého sa daná chyba prejavila.
+4.7. Správa incidentov a problémov obsahuje:
+4.7.1. Klasifikáciu, ktorej výstupom je
+4.7.1.1. odsúhlasenie klasifikácie podpornej služby,
+4.7.1.2. návrh na preklasifikovanie podpornej služby,
+4.7.1.3. odsúhlasenie kategórie,
+4.7.1.4. návrh na preklasifikovanie kategórie,
+4.7.1.5. odsúhlasenie Priority,
+4.7.1.6. návrh na preklasifikovanie Priority.
+4.7.2. Analýzu (preskúmavanie a diagnostika v sídle objednávateľa), ktorej výstupom je
+4.7.2.1. hĺbková analýza incidentu/problému,
+4.7.2.2. návrh náhradného riešenia s analýzou dopadov,
+4.7.2.3. kvalifikovaný odhad termínu jeho nasadenia, alebo
+4.7.2.4. návrh konečného riešenia (kvalifikovaný odhad termínu konečného vyriešenia),
+4.7.2.5. potreba zásahu – prístupu dodávateľa do IS objednávateľa,
+4.7.2.6. rozsah požadovanej súčinnosti od objednávateľa.
+4.7.3. Vyriešenie resp. dočasná obnova prevádzky IS, ktorej výstupom je
+4.7.3.1. vyriešenie, resp. náhradné riešenie,
+4.7.3.2. obnova, resp. dočasná obnova prevádzky, funkčný test.
+4.7.4. Uzavretie, ktorého výstupom je
+4.7.4.1. akceptácia objednávateľa,
+4.7.4.2. zápis o ukončení podpísaný kontaktnou osobou objednávateľa,
+4.7.4.3. zápis o ukončení v call centre dodávateľa.
+4.8. Okrem súčinnosti podľa článku 5. tejto zmluvy objednávateľ poskytne dodávateľovi na účely
+plnenia tejto zmluvy primeranú, účelnú, potrebnú a požadovanú súčinnosť, ktorú tvorí najmä:
+4.8.1. backup (záloha), restore & recovery (obnova) časti alebo celej databázy,
+4.8.2. management dátového úložiska databázy,
+4.8.3. riešenie problémov spôsobených komponentmi inštalovanými na žiadosť objednávateľa,
+4.8.4. riešenie problémov infraštruktúry IKT IS v priestoroch dátových centier objednávateľa
+a zabezpečenie súčinnosti tretích strán,
+4.8.5. prevádzka HW,
+4.8.6. prevádzka a inštalácia aktualizácií a patchov štandardného systémového software, SQL
+DB,
+4.8.7. prevádzku sieťovej infraštruktúry.
+4.9. Dodávateľ musí vykonať činnosti klasifikácia (bod 4.7.1.) a analýza (bod 4.7.2.) prostredníctvom
+svojho Hotline a výstupy poskytnúť objednávateľovi v dohodnutom čase Doby odozvy.
+6
+
+4.10. Ak nahlásený incident/problém má za následok znemožnenie prevádzky IS (kategória
+KRITICKÁ), je dodávateľ povinný, po vzájomnej dohode s oprávnenými osobami objednávateľa,
+súbežne s riešením incidentu/problému, zabezpečiť náhradné riešenie tak, aby neboli narušené
+činnosti objednávateľa.
+4.11. Ak pri akceptácii konečného vyriešenia incidentu/problému dôjde objednávateľom k zisteniu
+nových chýb, ktoré majú dopad na štandardnú prevádzku IS, budú pre tieto chyby
+objednávateľom založené nové incidenty/problémy.
+4.12. Novovzniknuté incidenty/problémy budú klasifikované podľa štandardných kritérií a lehoty na ich
+vyriešenie sa riadia podľa klasifikácie ich priority.
+4.13. Čas od poskytnutia riešenia – vyriešenia incidentu/problému dodávateľom do akceptovania/
+neakceptovania, resp. nahlásenia chýb, alebo súvisiacich nových incidentov/problémov
+objednávateľom sa do času riešenia incidentu/problému dodávateľom nezapočítava.
+4.14. V prípade nutnosti zabezpečenia súčinnosti iného partnera alebo zamestnanca na strane
+objednávateľa pre potreby vyriešenia incidentu, čas na zabezpečenie náhradného riešenia
+a/alebo doba trvalého vyriešenia začína plynúť od poskytnutia súčinnosti zo strany objednávateľa
+v zmysle bodu 4.8.
+4.15. Profylaktika aplikačnej vrstvy (3.1.3.)
+- pravidelná kontrola funkčnosti aplikácie, softvérového vybavenia,
+- pravidelná kontrola nastavenia systému podľa posledného
+odsúhlaseného stavu IS, kontrola synchronizácie služieb v prípade
+clustrovaných služieb,
+- kontrola správnosti smerovania,
+- pravidelná kontrola parametrov systému definovaných v akceptačných
+a výkonnostných testoch,
+- logovanie činností za účelom optimálnej prevádzky a vyhodnocovania
+incidentov,
+Rozsah činností
+- kontrola a vyhodnocovanie záznamov zo systémových logov, aplikačných
+logov,
+- kontrola prostredia, v ktorom IS beží,
+- udržiavanie repozitára zdrojov kódov,
+- udržiavanie dokumentácie v aktuálnosti – inštalačnej, prevádzkovej,
+administrátorskej a užívateľskej,
+- realizácia prevádzkových zásahov (správa systému),
+- predkladanie pracovného výkazu o vykonaných službách (Príloha č.2),
+- podpora, resp. aktualizácia konfigurácie systému,
+- monitorovanie aplikácie.
+4.16. Podpora pri plánovaných odstávkach IS
+4.16.1. Všetky činnosti budú vykonávané v čase bežnej prevádzky, ak sa nedohodne inak.
+Dodávateľ môže činnosti vykonávať iba v mieste inštalácie IS a môže použiť
+aj automatické nástroje na monitorovanie a sledovanie parametrov tejto služby alebo
+môže využiť nástroje objednávateľa; v tomto prípade dodá zoznam potrebných nastavení
+na adekvátne vyhodnocovanie parametrov.
+4.16.2. V prípade potreby odstávky prevádzky IS pre vykonanie profylaktiky aplikačnej vrstvy,
+bude profylaktika vykonaná v čase, na ktorom sa objednávateľ a dodávateľ vzájomne
+7
+
+dohodnú. Technologické odstávky budú plánované v čase, na ktorom sa objednávateľ
+a dodávateľ vzájomne dohodnú.
+4.16.3. V prípade plánovanej technologickej odstávky bude profylaktika vykonaná v dohodnutom
+rozsahu vyžiadanom objednávateľom.
+4.16.4. Záznamy o vykonaných činnostiach tejto služby dodáva dodávateľ objednávateľovi
+prostredníctvom služby Reporting/Hodnotenie.
+4.17. Ak sa strany zmluvy nedohodnú na činnostiach zmenového procesu alebo na rovnakej klasifikácií
+služby, resp. kategorizácií služby, resp. rovnakej kategorizácii priority, eskalujú to na oprávnené
+osoby oboch strán zmluvy, ktoré sú uvedené s článku 1. tejto zmluvy.
+4.18. Rozvoj systému automatizovanej správy registratúry na platforme Fabasoft podľa
+požiadaviek objednávateľa (bod 3.1.4.)
+- objednávateľ už v súčasnosti používa nasadený informačný systém
+dokument manažment systém pre správu elektronickej registratúry, ktorý
+spĺňa všetky požiadavky kladené Ministerstvom vnútra Slovenskej
+republiky podľa zákona č. 395/2002 Z. z. o archívoch a registratúrach
+a o doplnení niektorých zákonov v znení neskorších predpisov a taktiež
+podľa výnosu Ministerstva vnútra Slovenskej republiky č. 525/2011 Z. z.
+o štandardoch pre elektronické informačné systémy na správu
+registratúry. V súčasnosti je informačný systém plne nasadený do rutinnej
+prevádzky, t. j. dielo je plne funkčné a objednávateľ ho využíva v rámci
+určenia. V informačnom dokument manažment systéme je dôsledne
+implementovaný a dodržiavaný registratúrny plán objednávateľa a s tým
+súvisiaci adresár príslušníkov/zamestnancov a ich služobné/pracovné
+zaradenie a pod. Zároveň informačný systém slúži v súčasnosti ako
+úložisko dokumentov;
+- objednávateľ vzhľadom na nové požiadavky na elektronizáciu
+a automatizáciu, rýchlosť spracovania požiadaviek a unifikáciu
+administratívnych procesov objednávateľa potrebuje nasadiť
+do systému nové rozširujúce funkcionality, ktoré zachovajú základný
+princíp systému, a zároveň rozšíria a doplnia funkcionalitu a vytvoria tiež
+možnosti pre integráciu na prípadne ďalšie informačné systémy
+Rozsah činnosti
+objednávateľa. Tieto funkcionality jednoducho a intuitívne rozšíria
+možnosti existujúceho informačného systému o potrebnú funkcionalitu pre
+správu dokumentov a ich bezpečné dlhodobé uloženie (archiváciu),
+automatizované a unifikované procesné spracovanie administratívnych
+procesov organizácie (workflow/proces manažment), možnosti
+fulltextového
+a fazetového
+vyhľadávania
+dát
+a kľúčových
+reťazcov v komplexnom dokument manažment systéme a jeho
+nadstavbových modulov vrátane podpory sémantiky;
+- pod rozvojom automatizovanej správy registratúry na platforme
+Fabasoft sa rozumie analytické a komplexné programátorské služby pre
+rozvoj a rozšírenie funkcionalít a možnosti širšieho využitia existujúceho
+systému;
+- ďalej pod rozvojom automatizovanej správy registratúry na platforme
+Fabasoft rozumieme implementáciu odborných aplikácii na elektronické
+spracovanie administratívnych procesov objednávateľa. Pod odbornými
+aplikáciami rozumieme funkčné celky so špecifickou funkcionalitou pre
+danú oblasť alebo typy dokumentov. Sú určené na automatizáciu
+komplexných procesov, kde sa pracuje s papierovými dokumentmi alebo
+inými formami obsahu, pričom je ich možné integrovať s externými
+systémami. Umožňuje ľahko archivovať svoje dáta, nezávisle na ich druhu
+8
+
+a pôvodu, na jednom mieste, s podporou pre automatizáciu a audit
+s cieľom transparentnosti vo všetkých spracovávaných dokumentoch.
+Napríklad môže ísť:
+- o implementáciu služieb umožňujúcich plne elektronické spracovanie
+celého životného cyklu doručených faktúr – od ich evidencie vrátane
+skenovania, cez overenie formálnej správnosti, overenie vecnej
+správnosti a rozúčtovanie na nákladové štruktúry, schválenie až po
+zaúčtovanie,
+- podporuje evidenciu, tvorbu a procesné spracovanie všetkých typov
+požiadaviek na objednávky,
+- služby vedúce k podpore komplexnej evidencii, tvorbe
+a spracovaniu všetkých typov zmlúv a dodatkov, s ktorými organizácia
+pracuje. Elektronizácia procesu tvorby nových zmlúv a dodatkov na
+základe preddefinovaných šablón podľa typu zmluvy, ich
+pripomienkovanie, schvaľovanie a publikovanie,
+- implementácia služieb, ktorých výsledkom bude riešenie podporujúce
+riadiacu a kontrolnú činnosť vedúcich pracovníkov, v oblasti zadávania
+a sledovania pracovných úloh a porád. Bude umožňovať vedúcim
+pracovníkom plánovať a realizovať porady, zadávať úlohy riešiteľom,
+sledovať a vyhodnocovať ich riešenie,
+- implementácia služieb pre elektronickú evidenciu, tvorbu
+a procesné spracovanie tuzemských aj zahraničných cestovných
+príkazov so zohľadnením legislatívnych požiadaviek a schvaľovacích
+postupov u objednávateľa s podporou spracovania všetkých
+potrebných činností s cestovnými príkazmi pred uskutočnením
+služobnej/pracovnej cesty, ako aj po jej ukončení,
+- rozvoj vedúci k elektronickej evidencii, tvorbe a spracovaniu žiadaniek
+o služobné motorové vozidlo s podporou procesného riadenia
+organizácie, uľahčuje a sprehľadňuje manipuláciu s takýto žiadankami,
+- implementácia procesov pre komplexnú evidenciu, tvorba
+a procesné spracovanie žiadostí o dovolenku so zohľadnením
+hierarchického organizačného členenia a schvaľovacích postupov u
+objednávateľa,
+- implementácia komunikačného rozhrania na ústredný portál verejnej
+správy,
+- implementácia procesov zaručenej konverzie alebo rovnopisu
+elektronického úradného dokumentu, ktorý nie je možné doručiť
+elektronicky a takto konvertovaný dokument doručiť v papierovej
+podobe a opačne,
+- ďalej pod rozvojom automatizovanej správy registratúry na platforme
+Fabasoft sa rozumie služby poučenia užívateľov aplikácii na platforme
+Fabasoft a administrátorov platformy Fabasoft, rozšírenie počtu licencii
+a aktualizácii licencii platformy Fabasoft,
+- pod rozvojom automatizovanej správy registratúry na platforme
+Fabasoft sa rozumie aj analytické a komplexné programátorské a
+testovacie práce súvisiace s prechodom (technologický update) na vyššiu
+verziu platformy Fabasoft,
+- služba Rozvoj automatizovanej správy registratúry na platforme
+Fabasoft podľa požiadaviek objednávateľa bude realizovaná na
+základe objednávok so strany objednávateľa; objednávka bude prílohou
+faktúry.
+4.19. Realizácia procesu „Požiadavka na zmenu“
+9
+
+4.19.1.
+4.19.2.
+
+4.19.3.
+
+4.19.4.
+4.19.5.
+
+4.19.6.
+
+4.19.7.
+4.19.8.
+
+5.
+
+Na špecifikáciu a kategorizáciu požiadaviek na zmenu je používaný jednotný formulár
+“Požiadavka na zmenu“ (Príloha č. 3 – Formulár o nahlásení problému/požiadavky).
+K jednotlivým požiadavkám na zmenu vyjadruje dodávateľ svoje stanovisko doplnením
+formulára o nahlásení problému/požiadavky (viď Príloha č. 3) a jeho zaslaním
+príslušnej oprávnenej osobe objednávateľa v dobe odozvy pre túto službu. Rozsah
+potrebnej prácnosti uvedie dodávateľ vo formulári (viď Príloha č. 3). V Analýze dopadov
+budú uvedené, ktoré iné časti funkčnosti IS budú ovplyvnené, ak dôjde k predmetnej
+realizácii požiadavky na zmenu.
+K začatiu realizácie požiadavky na zmenu dôjde až po zaslaní Formulára o nahlásení
+problému/požiadavky (Prílohy č. 3) zo strany objednávateľa určenými oprávnenými
+osobami objednávateľa pre službu, ktoré sú dodávateľovi nahlásené (bod 3.4.).
+Ak navrhované riešenie požiadavky na zmenu predpokladá finančnú úhradu, dôjde
+k realizácií až po prijatí objednávky od objednávateľa. Ak sa objednávateľ rozhodne
+požiadavku na zmenu nerealizovať, oznámi to bez zbytočného odkladu dodávateľovi.
+Realizácia zmeny pozostáva z:
+4.19.3.1. zostavenie (build) a nasadenie (deployment) pre testovacie inštancie
+v prostredí dodávateľa,
+4.19.3.2. príprava migračných skriptov, ak sú potrebné,
+4.19.3.3. výkon interných funkčných / integračných testov v prostredí dodávateľa,
+4.19.3.4. zostavenie (build) a nasadenie (deployment) pre testovacie a prototypové
+inštancie v prostredí objednávateľa,
+4.19.3.5. podpora pri výkone funkčného a akceptačného testu u objednávateľa,
+4.19.3.6. zostavenie (build) a nasadenie (deployment) pre produkčnú inštanciu
+v prostredí objednávateľa podľa dohodnutých pravidiel,
+4.19.3.7. notifikácia o nasadení zmien v uvoľnenej verzii (Release Notes),
+4.19.3.8. výkon dátovej migrácie (podľa potreby).
+Dodávateľ sa zaväzuje otestovať implementovanú zmenu na vlastných vývojových
+prostriedkoch a následne zmenu nasadiť na testovacie prostredie objednávateľa.
+Zapracovania – nasadenie požiadavky na zmenu bude objednávateľom po vykonaní
+akceptačného testu potvrdené prostredníctvom formulára (Prílohe č. 3). Akceptáciu
+objednávateľ vykonáva na vlastnom testovacom prostredí po nasadení požiadavky
+na zmenu dodávateľom.
+Ak si to zmeny v informačnom systéme vyžadujú, dodávateľ spolu s dodaním nových
+modulov je povinný zabezpečiť pri odovzdávaní riešenia aj dodanie zmenových
+príručiek a zaznamenanie vykonaných zmien. Rovnako podľa potreby dodávateľ
+zabezpečí aktualizáciu Používateľskej alebo Administračnej príručky.
+V prípade rozsiahlejších zmien v informačnom systéme zabezpečí dodávateľ
+požadované poučenia pre objednávateľa v rozsahu minimálne 2 pracovníkov
+objednávateľa.
+Záznamy o vykonaných činnostiach tejto služby dodáva dodávateľ objednávateľovi
+prostredníctvom Formulár o nahlásení problému/požiadavky (Príloha č. 3).
+
+SÚČINNOSŤ
+
+5.1. Objednávateľ sa zaväzuje, že pre riadne plnenie záväzkov dodávateľa v rámci tejto zmluvy
+poskytne tomuto bezodplatne potrebnú súčinnosť, a to najmä tým, že:
+5.1.1. zabezpečí odborný personál pre definovanie požiadaviek na zmeny, úpravy alebo
+rozvoj systému automatizovanej správy registratúry,
+5.1.2. umožní dodávateľovi monitoring systému automatizovanej správy registratúry a jeho
+testovacej a prevádzkovej infraštruktúry v prevádzkovom prostredí objednávateľa,
+5.1.3. zabezpečí zálohovanie a obnovu produkčnej infraštruktúry automatizovanej správy
+registratúry,
+10
+
+5.1.4.
+5.1.5.
+
+zabezpečí nasadzovanie nových verzií, záručných opráv, funkčných a bezpečnostných
+záplat IS Fabasoft na testovaciu a prevádzkovú zostavu v správe objednávateľa,
+zaväzuje sa dodávateľovi včas poskytnúť aj súčinnosť určenú v dohodnutých
+podmienkach realizácie úprav systému automatizovanej správy registratúry,
+resp. riešenia incidentov/problémov.
+
+5.2. Dodávateľ nebude v omeškaní, ak jeho záväzok na plnenia/činnosti vzniknutý podľa tejto zmluvy
+alebo na jej základe nemohol byť riadne a včas splnený z toho dôvodu, že mu objednávateľ,
+z akéhokoľvek dôvodu riadne a včas, neposkytol súčinnosť povinnú podľa tejto zmluvy alebo
+určenú v dohodnutých podmienkach realizácie úprav automatizovanej správy registratúry.
+5.3. Dodávateľ sa zaväzuje poskytnúť objednávateľovi súčinnosť potrebnú na splnenie jeho
+povinností v zmysle tejto zmluvy.
+5.4. Súčinnosťou podľa článku 5. tejto zmluvy nie je dotknutá súčinnosť podľa iných bodov tejto
+zmluvy, najmä podľa bodu 4.8. tejto zmluvy.
+
+6.
+
+PREBERANIE PREDMETU ZMLUVY
+
+6.1. Služby podľa bodu 3.1.1. až 3.1.3. tejto zmluvy sú riadne prebraté podpisom Pracovného výkazu
+o vykonaných službách (Príloha č. 2).
+6.2. Služby podľa bodu 3.1.4. tejto zmluvy sú riadne prebraté akcetačno-preberacími protokolmi
+ku dňu ich dodania.
+
+7.
+
+CENA
+
+7.1. Celková cena za poskytovanie služieb/plnení podľa tejto zmluvy je stanovená dohodou strán
+zmluvy v zmysle zákona č. 18/1996 Z. z. o cenách v znení neskorších predpisov maximálne
+vo výške 49 500,00 EUR bez DPH, t. j. 59 400,00 EUR s DPH. V celkovej cene sú zahrnuté
+všetky náklady dodávateľa súvisiace s poskytovaním služieb/plnení podľa tejto zmluvy.
+Špecifikácia ceny tvorí Prílohu č. 1 tejto zmluvy.
+7.2. Cena za mesačný paušál (služby podľa bodu 3.1.1. až 3.1.3. tejto zmluvy) je 1 750,00 EUR
+bez DPH, t. j. 2 100,00 EUR s DPH.
+
+8.
+
+FAKTURÁCIA A PLATOBNÉ PODMIENKY
+
+8.1. Cenu za poskytnutie mesačných paušálnych služieb podľa bodu 3.1.1. až 3.1.3. tejto zmluvy je
+objednávateľ povinný uhrádzať mesačne vcelku na základe faktúry – účtovného dokladu
+vystaveného dodávateľom. Právo na zaplatenie ceny vznikne uplynutím príslušného
+kalendárneho mesiaca, v ktorom bola predmetná služba poskytovaná. Prílohou faktúry je
+Pracovný výkaz o vykonaných službách (Príloha č. 2). Faktúra je splatná do 30 dní odo dňa jej
+doručenia objednávateľovi.
+8.2. Cena za služby poskytované dodávateľom na základe objednávky budú uhradené v súlade
+s príslušnou objednávkou na základe vystavenej faktúry, ktorej súčasťou bude akceptačnopreberací protokol podpísaný oboma stranami zmluvy. Splatnosť faktúry je 30 dní odo dňa jej
+doručenia objednávateľovi.
+11
+
+8.3. Daň z pridanej hodnoty sa účtuje v zmysle platných predpisov v deň vystavenia faktúry.
+8.4. Objednávateľ je oprávnený pred uplynutím lehoty splatnosti vrátiť bez zaplatenia faktúru, ktorá
+neobsahuje náležitosti daňového dokladu v zmysle zákona č. 222/2004 Z. z. o dani z pridanej
+hodnoty alebo náležitosti stanovené ďalšími príslušnými právnymi predpismi alebo má iné vady
+v obsahu podľa tejto zmluvy. Vo vrátenej faktúre musí vyznačiť dôvod vrátenia. Dodávateľ je
+v tomto prípade povinný podľa povahy nesprávnosti faktúru opraviť alebo vyhotoviť novú faktúru.
+Oprávneným vrátením faktúry prestáva plynúť pôvodná lehota splatnosti. Lehota splatnosti
+30 dní plynie znovu odo dňa doručenia opravenej alebo novo vyhotovenej faktúry
+objednávateľovi.
+
+9.
+
+ZÁRUKA
+
+9.1. Dodávateľ sa zaväzuje, že bude riadne, včas a v dohodnutej kvalite poskytovať služby podľa tejto
+zmluvy a jej príloh, ako aj podľa príslušných objednávok.
+9.2. Dodávateľ sa zaväzuje, že služby podľa tejto zmluvy a jej príloh poskytne s odbornou
+starostlivosťou, a že zabezpečí všetko primerané úsilie na to, aby za podmienok stanovených
+v tejto zmluve IS mali požadovanú kvalitu a dohodnutú funkcionalitu, a to minimálne po dobu
+dvadsaťštyri (24) mesiacov odo dňa jej prevzatia. Záruka za kvalitu predmetu zmluvy platí
+za predpokladu, že IS ASR na platforme Fabasoft je prevádzkovaný na dohodnutom prostredí
+bez dokázateľných rušivých vplyvov iného programového vybavenia, ktorých inštalácia nebola
+s dodávateľov vopred konzultovaná. Dohodnutým prostredím sa rozumie prevádzkové prostredie
+objednávateľa v čase podpisu tejto zmluvy.
+9.3. Záručná doba na každú službu je dvadsaťštyri (24) mesiacov odo dňa jej prevzatia. Ak sa počas
+používania IS ASR na platforme Fabasoft zistí, že funkcionalita a/alebo kvalita poskytnutej služby
+nie je v súlade s touto zmluvou z dôvodov na strane dodávateľa, dodávateľ sa zaväzuje takýto
+nesúlad bezodkladne odstrániť na svoje náklady.
+9.4. Obmedzenie záruky – dodávateľ neručí za problémy vzniknuté v dôsledku dodatočne
+inštalovaného programového vybavenia, resp. zmien v existujúcom IS ASR na platforme
+Fabasoft spôsobených neodborným zásahom tretích strán. Táto podmienka však neplatí,
+ak dodávateľ poruší svoje povinnosti podľa tejto zmluvy alebo iné všeobecne záväzné predpisy.
+
+10.
+
+AUTORSKÉ A LICENČNÉ PRÁVA
+
+10.1. Dodávateľ vyhlasuje, že služby poskytnuté na základe tejto zmluvy sú bez akýchkoľvek právnych
+vád vyplývajúcich z autorských práv, a to v zmysle ustanovení Autorského zákona. Dodávateľ
+vyhlasuje a svojim podpisom na zmluve zaručuje, že k jednotlivým službám dodaným,
+poskytnutým, vykonaným a/alebo vytvoreným dodávateľom alebo tretími osobami
+pre objednávateľa:
+10.1.1. má alebo vykonáva autorské práva alebo iné duševné vlastníctvo; a /alebo
+10.1.2. má a/alebo vykonáva právo na ich používanie na základe licencií udelených mu tretími
+stranami, ktoré k nim majú a/alebo vykonávajú autorské práva a/alebo iné duševné
+vlastníctvo.
+10.2. Ak sa akékoľvek tvrdenie dodávateľa uvedené v bode 10.1. ukáže byť nepravdivé alebo si
+akákoľvek tretia strana, vrátane zamestnancov dodávateľa alebo tretej strany, ktorá plnila za
+dodávateľa, uplatní akýkoľvek nárok proti objednávateľovi z titulu porušenia autorských práv
+12
+
+alebo iného duševného vlastníctva tejto tretej strany alebo akékoľvek iné nároky v akejkoľvek
+súvislosti s touto zmluvou zaväzuje sa dodávateľ:
+10.2.1. bezodkladne obstarať na svoje vlastné náklady a výdavky od takejto tretej strany súhlas
+na používanie jednotlivých služieb dodaných, poskytnutých, vykonaných a/alebo
+vytvorených dodávateľom alebo tretími stranami pre objednávateľa, alebo upraviť
+jednotlivé služby dodané, poskytnuté, vykonané a/alebo vytvorené dodávateľom, alebo
+tretími stranami pre objednávateľa tak, aby už ďalej neporušovali autorské práva
+a/alebo iného duševného vlastníctva tretej strany, alebo nahradiť jednotlivé plnenie
+dodané, poskytnuté, vykonané a/alebo vytvorené dodávateľom alebo tretími stranami
+pre objednávateľa rovnakými alebo aspoň takými plneniami, ktoré majú aspoň
+podstatne podobné kvalitatívne, operačné a technické parametre a funkčnosti
+a zároveň,
+10.2.2. uhradiť škodu, ktorá vznikne objednávateľovi v prípade, ak sa tvrdenie dodávateľa
+ukáže byť nepravdivým a/alebo v dôsledku uplatnenia vyššie uvedeného nároku tretej
+strany, a to v plnej sume bez akéhokoľvek obmedzenia.
+10.3. Dodávateľ sa ďalej zaväzuje poskytnúť objednávateľovi akúkoľvek účinnú pomoc a uhradiť
+akékoľvek náklady a výdavky, ktoré vznikli/vzniknú objednávateľovi v súvislosti s uplatnením
+vyššie uvedeného nároku/nárokov tretej strany.
+10.4. Ak v rámci poskytovania služby podľa tejto zmluvy vznikne autorské dielo (ďalej len „dielo“),
+udeľuje dodávateľ objednávateľovi týmto ku dňu prevzatia služby súhlas na jeho použitie, a to
+ako časovo neobmedzenú (po dobu právnej ochrany majetkových práv trvajúcu), nevýhradnú
+a cenou podľa tejto zmluvy plne splatenú licenciu na akékoľvek použitie takého autorského diela
+ako celku i jeho jednotlivých častí v neobmedzenom rozsahu, ktorý pre zamedzenie pochybností
+zahŕňa právo dielo spracovať (zmeniť a/alebo upraviť, kopírovať, prekladať, prispôsobiť,
+modifikovať, distribuovať, publikovať a začleniť do iných diel). Objednávateľ je oprávnený
+používať dielo len v rámci svojej organizačnej štruktúry, a to na počítačových systémoch k tomu
+určených.
+10.5. Práva udelené v tejto zmluve sa udeľujú osobitne objednávateľovi a nesmú sa preniesť na tretiu
+osobu bez predchádzajúceho súhlasu dodávateľa.
+10.6. Objednávateľ je oprávnený vytvoriť kópie aplikácií na archívne účely v súlade s ustanoveniami
+Autorského zákona.
+10.7. Objednávateľ nebude používať predmet plnenia na zdieľanie technológie, prenájom, servisné
+služby alebo školenie tretej strany.
+
+11.
+
+POVINNOSTI STRÁN ZMLUVY
+
+11.1. Dodávateľ je povinný
+11.1.1. dodať používateľskú, servisnú a administrátorskú dokumentáciu, prípadne jej doplnky,
+zodpovedajúce aktuálnemu stavu poskytnutých plnení,
+11.1.2. dodať inštalačnú príručku a spôsob a rozsah zálohovania,
+11.1.3. zapracovávať všetky zmeny do dodaného IS ASR na platforme Fabasoft v dohodnutých
+časových termínoch; ak to nie je stanovené, dodávateľ bude bezodkladne informovať
+objednávateľa o lehote vykonania týchto zmien,
+11.1.4. vyšpecifikovať a dodať požiadavky na potrebný HW a kompatibilitu SW v minimálnej
+HW a SW konfigurácii a v doporučenej HW a SW konfigurácii. V prípade akejkoľvek
+zmeny, ktorá si bude vyžadovať zmenu jestvujúceho HW alebo SW licencií tretích strán,
+predloží návrh objednávateľovi na schválenie,
+13
+
+11.1.5.
+
+zachovať všetky obchodné tajomstvá a dôverné informácie, poskytnuté, odovzdané,
+oznámené, sprístupnené alebo akýmkoľvek iným spôsobom získané dodávateľom (ním
+vedených údajov) od objednávateľa na základe tejto zmluvy alebo v akejkoľvek
+súvislosti s touto zmluvou;. tieto môžu byť použité výhradne na účely plnenia predmetu
+zmluvy a dodávateľ sa zaväzuje ich udržiavať v prísnej tajnosti, zachovávať o nich
+mlčanlivosť a chrániť ich pred zneužitím, poškodením, zničením, znehodnotením tak,
+aby sa o nich nedozvedeli tretie osoby;. na účely tejto zmluvy sa dôvernými
+informáciami rozumejú aj osobné údaje,
+11.1.6. zabezpečiť riadne a včasné utajenie dôverných informácií a zachovávanie povinnosti
+mlčanlivosti o dôverných informáciách aj u svojich zamestnancov, štatutárnych
+orgánov, členov štatutárnych orgánov, dozorných rád, členov dozorných orgánov,
+zástupcov, splnomocnencov, subdodávateľov ako i iných spolupracujúcich tretích osôb,
+ak im takéto dôverné informácie boli poskytnuté, odovzdané, oznámené alebo
+sprístupnené v súlade s touto zmluvou,
+11.1.7. telefonicky, resp. písomne reagovať na každú požiadavku objednávateľa, týkajúcu sa
+predmetu tejto zmluvy; formou písomne sa rozumie aj e-mail,
+11.1.8. plniť jednotlivé služby podľa tejto zmluvy,
+11.1.9. informovať objednávateľa o všetkých faktoch, ktoré by mohli negatívne vplývať
+na predmet plnenia tejto zmluvy,
+11.1.10. na základe žiadosti objednávateľa zabezpečiť prítomnosť kvalifikovaných špecialistov
+(expertov), ktorá je nevyhnutná pre poskytovanie služieb v dohodnutom mieste plnenia,
+11.1.11. zabezpečiť pre všetky servery, na ktorých sú predmetné IS prevádzkované:
+11.1.11.1. Patche spoločnosti Microsoft sa nesmú automaticky inštalovať na servery,
+ale musia byť v stave pripravených na inštaláciu. Samotnú inštaláciu
+vykonať až po dohode s objednávateľom,
+11.1.11.2. Service pack-y operačných systémov a service pack-y softvérových
+produktov Microsoft aplikovať až po dohode s objednávateľom,
+11.1.12. sledovať legislatívne zmeny a tieto zapracovať do IS.
+11.2. Objednávateľ je povinný:
+11.2.1. zabezpečiť vstup zamestnancov dodávateľa a jeho subdodávateľov do všetkých
+potrebných priestorov objednávateľa, a to v rámci času bežnej prevádzky v prítomnosti
+zodpovedného zamestnanca objednávateľa s tým, že nenarušia prevádzku IS a ani
+ostatných systémov objednávateľa,
+11.2.2. zabezpečiť, aby dodávateľ bol okamžite upovedomený o aktuálnych legislatívnych
+zmenách interného charakteru, zmenách organizačnej štruktúry objednávateľa, príp.
+iných zmenách u objednávateľa, ktoré majú vplyv na predmet zmluvy a IS,
+11.2.3. zabezpečiť účinnú ochranu autorských a licenčných práv na dodané plnenie v zmysle
+tejto zmluvy,
+11.2.4. všetky pripomienky, sťažnosti, výhrady, doplnky a pod. týkajúce sa poskytnutých
+služieb odovzdávať písomnou dodávateľovi; formou písomne sa rozumie aj e-mail,
+11.2.5. na základe žiadosti dodávateľa zabezpečiť prítomnosť kvalifikovaných špecialistov,
+ktorá je nevyhnutná pre poskytovanie plnení v dohodnutom mieste plnenia,
+11.2.6. zabezpečiť pre všetky servery, na ktorých sú predmetné IS prevádzkované:
+11.2.6.1.
+Patche spoločnosti Microsoft sa nesmú automaticky inštalovať na servery,
+ale musia byť v stave pripravených na inštaláciu. Samotnú inštaláciu
+vykonať až po dohode s dodávateľom,
+11.2.6.2.
+Service pack-y operačných systémov a service pack-y softvérových
+produktov Microsoft aplikovať až po dohode s dodávateľom.
+11.3. Strany zmluvy sú povinné zachovať obchodné tajomstvo vo vzťahu ku skutočnostiam obchodnej,
+výrobnej alebo technickej povahy, ktoré majú skutočnú alebo aspoň potenciálnu materiálnu alebo
+nemateriálnu hodnotu, nie sú v príslušných odborných kruhoch bežne dostupné, majú byť podľa
+14
+
+vôle jednej zo strán zmluvy utajené a táto strana zmluvy ich utajenie zodpovedajúcim spôsobom
+zabezpečuje.
+
+12.
+
+MLČANLIVOSŤ A OCHRANA INFORÁCIÍ
+
+12.1. Dodávateľ sa zaväzuje zachovávať mlčanlivosť o všetkých informáciách, ktoré sa dozvedel počas
+doby trvania zmluvy, ak ho objednávateľ v konkrétnom prípade tejto povinnosti písomne nezbaví,
+alebo predmetné informácie nie sú verejne známe. Táto povinnosť platí aj pre subdodávateľov
+dodávateľa. V rozsahu zaisťujúcom možnosť splnenia tejto povinnosti dodávateľ uzatvorí
+s každým subdodávateľom dohodu o mlčanlivosti. Záväzok mlčanlivosti dodávateľa trvá aj
+po ukončení platnosti zmluvy.
+12.2. Objednávateľ sa zaväzuje chrániť pred vyzradením informácií dodávateľa, ktoré sú jasne
+a písomne označené dodávateľom ako dôverné. Táto povinnosť trvá aj po ukončení platnosti
+tejto zmluvy. Za informáciu podliehajúcu ustanoveniam tohto bodu zmluvy nebude považovaná
+taká informácia, ktorá je objednávateľovi známa alebo je verejne dostupná, či bola vyvinutá, alebo
+zákonne získaná od tretej osoby bez obmedzenia s jej nakladaním v rámci zmluvy alebo je
+objednávateľ povinný ju sprístupniť alebo zverejniť podľa zákona č. 211/2000 Z. z. o slobodnom
+prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších predpisov,
+pričom v takomto prípade sa zaväzuje chrániť dôverné informácie a obchodné tajomstvá
+dodávateľa v súlade s platnou právnou úpravou.
+12.3. Dodávateľ sa zaväzuje zaobchádzať s informáciami poskytnutými objednávateľom ako
+s dôvernými najmä v súlade s § 17 Obchodného zákonníka a zákona č. 122/2013 Z. z. o ochrane
+osobných údajov a o zmene a doplnení niektorých zákonov (ďalej len „dôverné informácie“) a je
+povinný zabezpečiť ich ochranu pred tretími osobami. Dodávateľ je oprávnený poskytnúť tretej
+osobe dôverné informácie len s predchádzajúcim písomným súhlasom objednávateľa, okrem
+prípadu, ak by povinnosť zverejnenia vyplývala zo zákona alebo z právoplatného rozhodnutia
+príslušného orgánu verejnej moci. Dodávateľ je ďalej oprávnený poskytnúť dôverné informácie
+svojim subdodávateľom podieľajúcim sa na plnení tejto zmluvy, avšak vždy len v nevyhnutnom
+rozsahu a výlučne za predpokladu, že príslušný subdodávateľ bol zaviazaný povinnosťou
+mlčanlivosti podľa bodu 12.1. Táto zmluva neovplyvňuje akúkoľvek zmluvu medzi stranami
+zmluvy o dôvernosti informácií.
+
+13.
+
+NÁHRADA ŠKODY A ZMLUVNÉ POKUTY
+
+13.1. Dodávateľ zodpovedá za škodu vzniknutú v súvislosti s poskytovaním služby v zmysle tejto
+zmluvy, a to v súlade s platnými právnymi predpismi.
+13.2. V prípade omeškania objednávateľa s úhradou faktúr sa objednávateľ zaväzuje uhradiť
+dodávateľovi úrok z omeškania vo výške 0,05 % denne z nezaplatených čiastok za každý, aj
+začatý deň omeškania.
+13.3. V prípade, ak dodávateľ nepotvrdí alebo nevyrieši incidenty/problémy v lehotách v zmysle tejto
+zmluvy, je povinný zaplatiť nasledovné zmluvné pokuty:
+13.3.1. pri kritickom incidente/probléme v sume 2 000,00 eur za každé individuálne porušenie
+tejto povinnosti, najviac však do sumy jednej dvanástiny ročnej sadzby ceny
+mesačného paušálu (Príloha č. 1),
+13.3.2. pri normálnom incidente/probléme v sume 500,00 eur za každé individuálne porušenie
+tejto povinnosti, najviac však do sumy jednej dvanástiny ročnej sadzby ceny
+mesačného paušálu (Príloha č. 1),
+15
+
+13.3.3.
+
+pri nízkom incidente/probléme v sume 200,00 eur za každé individuálne porušenie tejto
+povinnosti, najviac však do sumy jednej dvanástiny ročnej sadzby ceny mesačného
+paušálu (Príloha č. 1).
+
+13.4. Zaplatenie zmluvnej pokuty dodávateľom nebude mať vplyv na právo objednávateľa na náhradu
+škody preukázateľne vzniknutej v súvislosti s porušením povinností dodávateľa prekračujúcej
+zaplatenú zmluvnú pokutu.
+13.5. Zmluvná pokuta alebo úrok z omeškania sú splatné do 30 dní od vyčíslenia a doručenia druhej
+strane zmluvy na základe faktúry vystavenej dotknutou stranou zmluvy, ak sa nedohodnú strany
+zmluvy písomne inak.
+13.6. Žiadna zo strán zmluvy nebude v omeškaní a úrok z omeškania jej neprináleží, ak je omeškanie
+spôsobené okolnosťami vylučujúcimi zodpovednosť.
+
+14.
+
+OSTATNÉ DOJEDNANIA
+
+14.1. V prípadoch stanovených touto zmluvou je oprávnená konať za objednávateľa kontaktná osoba,
+ktorou je:
+14.1.1. xxxxxxxxxxxxxxxxxxx – aplikačný správca (vo veciach technických), tel.:
+xxxxxxxxxxxxxxxxxxx, e-mail: xxxxxxxxxxxxxxxx
+14.1.2. xxxxxxxxxxxxxxxxxxx – aplikačný správca (vo veciach technických), tel.:
+xxxxxxxxxxxxxxx, e-mail: xxxxxxxxxxxxxxxx,
+14.1.3. xxxxxxxxxxxxxxxxxxxx – aplikačný správca (vo veciach technických),
+tel.: xxxxxxxxxxxxxxxxxxxx, e-mail: xxxxxxxxxxxxxxxxxx,
+14.1.4. xxxxxxxxxxxxxxxxxxxxxxxxxx
+(vo
+veciach
+administratívnych),
+tel.: xxxxxxxxxxxxxxxxxxxx, e-mail: xxxxxxxxxxxxxxxxxxxxxxx,
+14.2. Ak dôjde k zmene oprávnených osôb podľa bodu 14.1., objednávateľ je povinný nahlásiť túto
+zmenu e-mailom na adresu podpora@dwcslovakia.sk v lehote troch (3) kalendárnych dní. Zmena
+je účinná dňom jej oznámenia dodávateľovi.
+14.3. Miestom plnenia predmetu tejto zmluvy je sídlo objednávateľa.
+14.4. Dodávateľ nesmie predmet plnenia podľa tejto zmluvy ako celok odovzdať na vykonanie inému
+subjektu. Časť predmetu plnenia podľa tejto zmluvy môže dodávateľ s predchádzajúcim
+písomným súhlasom objednávateľa odovzdať na vykonanie svojmu subdodávateľovi.
+
+15.
+
+TRVANIE ZMLUVY
+
+15.1. Táto zmluva sa uzatvára na dobu určitú na dvanásť (12) mesiacov odo dňa nadobudnutia
+účinnosti zmluvy alebo do vyčerpania maximálneho finančného limitu uvedeného v bode 7.1. tejto
+zmluvy, a to podľa toho, ktorá skutočnosť nastane skôr.
+15.2. Táto zmluva môže zaniknúť pred uplynutím lehoty podľa bodu 15.1.:
+15.2.1. písomnou dohodou podpísanou obidvoma stranami zmluvy,
+15.2.2. písomnou výpoveďou,
+15.2.3. odstúpením od zmluvy.
+15.3. Strany zmluvy sú oprávnené vypovedať zmluvu bez udania dôvodu, výpovedná doba je tri (3)
+mesiace a začína plynúť prvým dňom kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom
+16
+
+bola výpoveď doručená druhej strane zmluvy. Výpoveďou podľa tohto bodu nie je dotknuté právo
+dodávateľa na zaplatenia ceny resp. jej časti za služby riadne poskytnuté a prevzaté
+objednávateľom do uplynutia výpovednej doby.
+15.4. Dodávateľ je oprávnený odstúpiť od zmluvy, ak objednávateľ bezdôvodne i napriek písomnému
+upozorneniu dodávateľa a stanoveniu primeraného dodatočného termínu na plnenie je
+v omeškaní s úhradou faktúry podľa tejto zmluvy.
+15.5. Objednávateľ je oprávnený odstúpiť od zmluvy, ak dodávateľ opakovanie t. j. minimálne 2x
+nedodrží lehoty uvedené v bode 4. tejto zmluvy.
+15.6. Objednávateľ aj dodávateľ sú ďalej oprávnení odstúpiť od zmluvy, ak druhá strana zmluvy nesplní
+svoju povinnosť vyplývajúcu z tejto zmluvy ani v primeranej lehote na to určenej druhou stranou
+zmluvy.
+15.7. Odstúpením od zmluvy nebudú dotknuté práva a povinnosti zmluvných strán týkajúce sa plnení,
+ktoré boli do tejto doby riadne objednané, dodané a prevzaté, vrátane práv vyplývajúcich
+z licencií.
+15.8. Odstúpenie je účinné jeho doručením druhej strane zmluvy, týmto dňom zmluva zaniká.
+
+16.
+
+ZÁVEREČNÉ USTANOVENIA
+
+16.1. Strany zmluvy sa dohodli, že záväzkové vzťahy založené touto zmluvou, ktoré v nej nie sú
+výslovne upravené, sa riadia príslušnými ustanoveniami Obchodného zákonníka a ostatných
+platných právnych predpisov Slovenskej republiky.
+16.2. Ak niektoré ustanovenia tejto zmluvy prestanú byť aktuálne, neznamená to, že by celá zmluva
+strácala platnosť. V takomto prípade sa strany zmluvy dohodli, že nájdu formulácie a znenie čo
+najviac podobné pôvodnému zámeru a nahradia ich tak, aby bol zachovaný účel a cieľ tejto
+zmluvy, pri rešpektovaní nových faktov, bez ujmy pre obidve strany zmluvy.
+16.3. V prípade nezhôd sa strany zmluvy zaväzujú riešiť spor spoločným konsenzom. Ak sa strany
+zmluvy nedohodnú, je oprávnená ktorákoľvek z nich podať návrh na vecne a miestne príslušný
+súd v Slovenskej republike.
+16.4. Ustanovenia tejto zmluvy je možné meniť len formou písomných a očíslovaných dodatkov
+k zmluve, podpísaných oboma stranami zmluvy.
+16.5. Zmluva sa vyhotovuje v dvoch rovnopisoch, pričom každá zo strán zmluvy obdrží jeden rovnopis.
+16.6. Strany zmluvy vyhlasujú, že zmluvu uzatvárajú na základe ich skutočnej, slobodnej a vážnej vôle,
+ktorú prejavili určito a zrozumiteľne, zmluvu uzatvorili dobromyseľne a v dobrej viere
+a neuzatvorili ju v omyle, ani pod nátlakom a ani za nápadne nevýhodných podmienok, zmluvu
+si prečítali, obsahu porozumeli a na znak súhlasu s obsahom zmluvy ju vlastnoručne podpisujú.
+16.7. Zmluva nadobúda platnosť dňom podpisu oprávnenými zástupcami oboch strán zmluvy
+a účinnosť dňom 01.01.2018.
+16.8. Neoddeliteľnou súčasťou tejto zmluvy sú prílohy:
+16.8.1. Príloha č. 1 – Špecifikácia ceny,
+16.8.2. Príloha č. 2 – Výkaz prác a nahlasovaných požiadaviek za kalendárny mesiac,
+17
+
+16.8.3.
+
+Príloha č. 3 – Formulár o nahlásení problému/požiadavky.
+
+Dátum:
+
+Dátum:
+Za objednávateľa:
+
+Za dodávateľa:
+
+.........................................
+Ing. Jozef Magala
+riaditeľ
+
+.........................................
+Ing. Peter Axamít
+predseda predstavenstva
+
+18
+
+Príloha č. 1 – Špecifikácia ceny
+
+č.
+
+Rozsah služieb počas
+trvania zmluvy
+
+Jednotková cena
+bez DPH
+(€/m.j.)
+
+Mesačný paušál
+
+3,5 MD*12 mesiacov
+(28 človekohodín * 12
+mesiacov)
+
+500 €/MD
+1 750 €*12 mesiacov
+
+21 000 €
+
+Podľa požiadavky
+zákazníka
+
+57 MD
+(456 človekohodín)
+
+500 €/MD
+
+28 500 €
+
+Názov položky
+
+1.1 Hotline a projektová podpora
+1.2 Servisný zásah
+1.3 Profylaktika aplikačnej vrstvy
+1.4 Rozvoj ASR systému na platforme Fabasoft
+
+Jednotkové ceny služieb za 1 človekohodinu nad rámec bodu 1.4:
+Pozícia špecialistu
+a)
+b)
+c)
+d)
+
+Projektový manažér
+Analytik, návrh riešenia, technický konzultant
+Programátor, vývojár
+Školiteľ, tester
+
+19
+
+J.c. v € bez DPH/
+človekohodina
+62,50 €
+62,50 €
+62,50 €
+62,50 €
+
+Cena na celé trvanie
+zmluvy
+bez DPH
+
+Príloha č.2 – Výkaz prác nahlasovaných požiadaviek za kalendárny mesiac
+Príloha k faktúre:
+Zákazník:
+Národný bezpečnostný úrad
+Budatínska 30, 851 06 Bratislava
+Projekt:
+Support
+
+Dátum
+
+Odpracované Faktúrovateľné
+(hod.)
+(hod.)
+
+Dodávateľ:
+DWC Slovakia a.s.
+Mlynské Nivy 71, Bratislava
+
+Vykonal
+
+Spolu
+Predplatené hodiny
+Celkom na fakturáciu
+Odovzdal (meno, podpis):
+Prevzal (meno, podpis):
+Dátum: xy.xy.201x
+
+20
+
+Obdobie:
+xy/201x
+
+Požiadavka od Číslo hlásenia
+
+Činnosť
+
+Typ
+
+Príloha č.3 – Formulár o nahlásení problému/požiadavky
+
+Formulár o nahlásení problému/požiadavky
+
+Číslo Zmeny zo
+Service Desku
+
+Iniciátor zmeny
+(Objednávateľ):
+
+Organizácia:
+
+Telefón:
+
+E-mail:
+
+Manažér zmien
+(Objednávateľ):
+
+Telefón:
+
+Dátum a čas zadania
+požiadavky:
+
+Požadovaný
+termín
+ukončenia
+realizácie:
+
+Kategória zmeny
+Štandardná zmena:
+Urgentná zmena:
+Popis zmeny:
+Detailný popis požiadavky na
+zmenu:
+Prílohy:
+
+21
+
+

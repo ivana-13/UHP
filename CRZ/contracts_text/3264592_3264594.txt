@@ -1,0 +1,1885 @@
+číslo zmluvy objednávate!'a: 2017-0431-1139230
+Číslo zmluvy poskytovateľa
+
+ZMLUVA O ZABEZPEČENÍ PREVÁDZKY A ÚDRŽBY TELEKOMUNIKAČNÝCH
+A KOMUNIKAČNÝCH SIETÍ A ZARIADENÍ
+uzatvorená v zmysle §269 z. č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov (ďalej aj ako "Obchodný zákonník)
+(ďalej
+
+aj ako "zmluva")
+
+1. ZMLUVNÉ STRANY
+1.1.
+
+Objednávateľ:
+
+Menom
+
+Slovenská elektrizačná prenosová sústava, a.s.
+Mlynské nivy 59/A
+824 84 Bratislava
+
+spoločnosti
+
+koná: Ing. Miroslav Obert, predseda predstavenstva
+Ing. Miroslav Stejskal. podpredseda predstavenstva
+
+Registrácia :
+
+v obchodnom registri Okresného súdu Bratislava 1., oddiel Sa.
+vložka č. 2906/B
+
+IČO
+
+35 829 141
+2020261342
+SK2020261342
+
+Bankové spojenie
+Číslo účtu
+
+IBAN: SK 30 1100 0000 0026 2019 1900
+Tatra banka, a.s.
+2620191900/1100
+
+Oprávnený rokovať
+vo veciach zmluvných:
+
+Ing. Jozef Maslen, výkonný riaditel' sekcie ICT
+
+DIČ
+IČDPH
+
+Oprávnený rokovať
+vo veciach technických:
+
+(ďalej
+
+1.2.
+
+aj ako
+
+Menom
+
+Ing. Roman Martinkovič, vedúci odboru telekomunikácií
+Ing. Eva Gorfolová, vedúci odboru správy ASZD
+Ing. Pavel Rísik, špecialista odboru telekomunikácií
+Bc. Peter Kazimír, špecialista odboru telekomunikácií
+
+"objednávateľ",
+
+Poskytovateľ:
+
+SWIFT: TATRSKBX
+
+alebo "SEPS")
+
+SOITRON, s.r.o.
+Plynárenská 5
+829 75 Bratislava
+
+spoločnosti
+
+koná: Ing. Ondrej Smolár, výkonný riaditel' a konatel'
+
+Registrácia:
+
+v obchodnom registri Okresného súdu Bratislava l., oddiel Sro,
+vložka č . 37618/B
+
+IČO
+DIČ
+IČDPH
+
+35 955 678
+2022066937
+SK2022066937
+
+Bankové spojenie
+Číslo účtu
+
+IBAN: SK 40 1100 0000 0026 2583 2658
+Tatra banka, a.s.
+2625832658/11 oo
+
+Oprávnený rokovať
+vo veciach zmluvných:
+
+Ing. Tibor Bálint, obchodný zástupca
+
+Oprávnený rokovať
+vo veciach technických:
+
+Ing. Maroš Kura, Account delivery manager
+
+(ďalej
+
+aj ako
+
+SWIFT: TATRSKBX
+
+"poskytovateľ")
+
+(ďalej spoločne
+.,.~, .... ~ ~ -~"~-~~"-m í
+
+aj ako "zmluvné strany" alebo jednotlivo aj ako "zmluvná strana")
+
+prevádzky a údržby
+
+telekomunikačných
+
+a
+
+komunikačných
+
+sietí a zariadení
+
+Strana 1 z 9
+
+Podkladom na uzatvorenie tejto zmluvy je výberové konanie a ponuka
+úspešného uchádzača zo dňa 15.12.2017.
+
+poskytovateľa
+
+ako
+
+2. DEFINÍCIE POJMOV
+2.1.
+
+KPI (Key Performance lndicator) - Kľúčový výkonnostný indikátor kvality - stanovuje
+požadovanú úroveň poskytovaných služieb.
+
+2.2.
+
+Oprávnená osoba- je osoba, ktorá je oprávnená za svoju spoločnosť vydávať a
+rozhodnutie v zmysle ustanovení tejto zmluvy.
+
+2.3.
+
+Telekomunikačné
+objednávateľa
+
+prijímať
+
+priestory - priestory, v ktorých sú umiestnené spravované zariadenia
+v rozsahu podl'a Prílohy č . 1
+
+2.4.
+
+Centrálny ServiceDesk - linka podpory servisných služieb s nepretržitou prevádzkou
+(24x7) pre zmluvného partnera, slúži na nahlasovanie porúch, servisných zásahov
+a vyžiadanie technickej podpory, ich evidenciu, potvrdenie odstránenia poruchy a na
+vyhodnocovanie poskytovaných služieb.
+
+2.5.
+
+Prevádzkový problém- je znefunkčneni e spravovaného zariadenia resp. siete alebo jeho
+časti , prípadne také správanie týchto zariadení, ktoré znemožňuje alebo obmedzuje ich
+používanie.
+
+2.6.
+
+Servisné služby - predstavujú
+prevádzkového problému.
+
+2. 7.
+
+Priorita- je definovaná závažnosť prevádzkového problému.(Príloha č. 3).
+
+2.8.
+
+TTO (ľime to open - doba odozvy) doby začatia riešenia Ticketu .
+
+2.9.
+
+TTR (Time to resolve) - čas meraný od zaznamenania Ticketu v se do doby vyriešenia.
+
+2.1 O.
+
+Incident management- proces, ktorý slúži na vyriešenie Incidentu v čo najkratšom čase.
+
+2. 11.
+
+Pr·oblem management - proces. ktorý slúži na vyriešenie Problemu.
+
+2.12.
+
+Change management- proces, ktorý slúži na realizáciu zmeny.
+
+2.13.
+
+Pending ~ (stav čakania) je stav Ticketu, keď nie je možné pokračovať v riešeni . pretože
+pracovníci poskytovatel'a čakajú na súčinnosť objednávateľa (napríklad spristupnenie
+priestorov, akceptácia ponúknutého riešenia a pod.) alebo súčinnosť výrobcu (napríklad
+ŕiešenie Problemu čaká na spoluprácu Cisco TAC, na nový Patch Microsoft a pod.}. Doba.
+počas ktorej je Ticket v stave Pending sa nezapočítava do TTR.
+
+2.14.
+
+Auto Accept -znamená, že ak objednávateľ do 7 kalendárnych dni nezamietne a ani
+neakceptuje navrhnuté riešenie, bude takéto riešenie automaticky považované za
+akceptované.
+
+či nnosť
+
+pracovnikov poskytovate ľa
+
+čas
+
+pri
+
+riešení
+
+meraný od vytvorenia Ticketu v se do
+
+3. PREDMET ZMLUVY
+3.1.
+
+Na základe tejto zmluvy sa poskytovateľ zaväzuje po dobu platnosti tejto zmluvy
+poskytovať objednávatel'ovi služby zabezpečenia prevádzky a údržby, ktoré umožnia
+spol'ahlívý a bezporuchový chod telekomunikačnej , komunikačnej (sieť LAN, WAN a SAN)
+infraštruktúry a telefónnej siete (elseo VoiP). Predmetom zmluvy je zabezpečenie
+prevádzky a údržby pre siete a zariadenia podl'a Prílohy č. 1. v rozsahu požadovaných
+služieb uvedených v .,Katalógu poskytovaných služieb" - Príloha č. 2:
+3.1.1. S ieť optických káblov (kombinovaných zemných lán a zemných optických káblov),
+3.1.2. sieť SDH NG vrátane manažmentu,
+3.1.3. sieť flexibilných multiplexerov (F-MUX) vrátane manažmentu,
+3.1.4. sieť rádioreleových zariadení vrátane manažmentu,
+3.1.5. zariadeniach na prenos signálov ochrán vrátane manažmentov (FOXMAN,
+DORIS),
+
+Zmluva o
+
+zabezpečení
+
+prevádzky a údržby telekomunikačných a
+
+komunikačných
+
+sieti a zariadeni
+
+Strana 2 z 9
+
+3. 1.6. napájacie zdroje pre telekomunikačné zariadenia vrátane manažmentu.
+3.1.7. sieťach LAN, WAN a SAN vrátane manažovacieho systému LMS,
+3.1 .8. privátnu telefónnu sieť (VoiP),
+3.1 .9. zariadenia zabezpečujúce bezpečnosť LAN a WAN (firewally - Security
+Perimeter),
+3.1. 1o.zariadenia bezpečnosti web komunikácie a mailovej komunikácie (webwasher,
+ironmail),
+3.1.11 . systémoch nahrávania telefónnych hovorov REDAT,
+3.1 .12. zariadenia UPS,
+3.1 .13. zariadenia pre satelitnú telefóniu IRIDIUM,
+3.1.14. zariadenia NTP (časové servre).
+
+Q
+
+d i aľku
+
+3.2.
+
+Služby podra tejto zmluvy budú poskytované na
+umiestnené spravované zariadenia.
+
+3.3.
+
+Poskytovanie služby Centrálny ServiceDesk.
+
+3.4.
+
+V prípade technologickej potreby alebo v naliehavom prípade na základe požiadavky zo
+strany objednávateľa, zabezpečiť externé dodávky prác a služieb.
+
+3.5.
+
+Objednávateľ
+
+sa zaväzuje za poskytnuté služby
+
+zaplatiť
+
+a priamo v objektoch kde sú
+
+dohodnutú cenu.
+
+4. ŠPECIFIKÁCIA PROSTREDIA A ROZSAHU
+4.1 .
+
+Dostupnosť
+
+4.2.
+
+Umiestnenie: Prevádzky SEPS a iných právnych subjektov na území Slovenskej
+republiky, v ktorých sú umiestnené spravované zariadenia.
+
+4.3.
+
+Dodané služby
+4.3.1.
+
+poskytovaných služieb: nepretržite 24 hodin x 7 dni.
+
+zahŕňajú
+
+Zabezpečenie
+
+v rámci paušálnej ceny:
+
+prevádzky a údržby na zariadenia
+
+podľa
+
+Prílohy
+
+č . 1 počas
+
+trvania
+
+tejto zmluvy.
+4.3.2.
+
+Zabezpečenie monitoringu spravovaných zariadení a sietí
+exitujúcich dohľadových a manažovacích systémoch.
+
+s predikciou poruchy na
+
+4.3.3. Poskytuje službu Centrálny ServiceDesk 24x7.
+4.3.4. Technická pomoc (telefonicky, e-mail}.
+4.4.
+
+Poskytované služby v rámci paušálnej ceny
+
+nezahŕňajú
+
+:
+
+4.4.1. Rozširovanie spravovanej infraštruktúry, prípadne jej
+
+častí
+
+a komponentov.
+
+5. ZABEZPEČENIE PREVÁDZKY A ÚDRŽBY
+5.1 .
+
+Poskytovateľ sa zaväzuje zabezpečiť spol'ahlivú a bezporuchovú prevádzku a údržbu sietí
+a zariadení podl'a Prílohy č.1.
+
+5.2.
+
+Poskytovate ľ
+(ďalej "KPI"}
+
+sa zaväzuje dodržiavať dohodnuté kľúčové výkonnostné indikátory kvality
+podl'a Prílohy č. 3. Príloha č. 3 zároveň stanovuje aj klasifikáciu priorft
+odstraňovania vzniknutých porúch a problémov.
+
+5.3.
+
+Poskytovateľ bude preventívne kontrolovať technický stav spravovanej infraštruktúry a
+zariadení a robiť také technické zásahy a údržbu, ktoré budú minimalizovať jej
+poruchovosť. Taktiež bude navrhovať také zásahy do konfigurácie, prípadne update
+systému, ktoré umožnia objednávateľovi efektívnejšie využívať spravované siete
+a zariadenia.
+
+5.4.
+
+Ďalej sa poskytovatel' zaväzuje zabezpečiť konfigurovanie optimálneho nastavenia
+
+spravovaných zariadení, ich správu , systémové konfigurácie a nastavenie, pravidelné
+zálohovanie konfigurácií a poskytovať Hot-line.
+5.5.
+
+Poskytovatel' sa zaväzuje že:
+5.5.1. Bude informovať objednávatel'a o všetkých zásahoch a zmenách
+pri realizácii poskytovaných služieb.
+
+uskutočnených
+
+Zmluva o zabezpečení prevádzky a údržby telekomunikačných a komunikačných sietí a zariadeni
+
+Strana 3 z 9
+
+5.5.2. Bude uskutočňovať zmeny v konfigurácii spravovaných sietí a zariadeni len po
+súhlase objednávateľa .
+5.5.3. Bude zabezpečovať prevádzku a údržbu takým spôsobom , aby sa minimalizovali
+možné následné technické problémy a nebola negatívne ovplyvnená funkcionalita
+spravovaných systémov ako aj prenosovej sústavy SR.
+5.6.
+
+Poskytovatel' nezodpovedá za akékol'vek oneskorené poskytnutie či neposkytnutie služby
+v rámci tejto zmluvy , ak toto bude zavinené okolnosťami vylučujúcimi zodpovednosť .
+
+5.7.
+
+Hlásenie prevádzkových problémov , na hlasovanie požiadaviek a konzultácie budú
+realizované prostredníctvom poskytovatel'a:
+5.7 .1. Poruchy bude objednávate!' oznamoval' jednou z nasledujúcich možnosti:
+5.7.1.1.
+telefonicky na telefónne číslo : +421 2 582 24 099
+5.7.1.2.
+elektronicky na adrese: support@soitron.sk
+5.7 .1. 3.
+prístupom na Centrálny ServiceDesk
+https://apps.soitron.sklsupportcentrall
+zriadenie, zrušenie resp. zmeny v telekomun ikačných ,
+telefónnych a optických linkách a okruhoch:
+elektronicky na adrese: support@soitron.sk
+prístupom na Centrálny ServiceDesk:
+
+5.7.2. Požiadavky
+
+na
+
+komunikačných ,
+
+5. 7.2.1.
+5.7.2.2.
+
+https://apps.soitron.sklsupportcentrall
+5.7.3. Technickú pomoc zabezpečí
+5.7.3.1.
+5.7 .3.2.
+
+poskytovateľ
+
+služieb prostredníctvom :
+
+telefónnej linky: +421 2 582 24 099
+elektronicky prostredníctvom email: support@soitron.sk
+
+6. CENA PREDMETU ZMLUVY
+6.1.
+
+Zmluvná cena je stanovená dohodou podl'a § 3 zákona NR SR č . 18/1996 Z. z. o cenách
+v znení neskorších predpisov. Zmluvné strany sa dohodli na nasledujúcich zmluvných
+cenách bez DPH ktoré zahŕňajú výkony podl'a prílohy č. 2 na zariadeniach podl'a Prilohy
+Č. 1:
+Popis
+
+6.1 .1.
+
+Mesačný
+
+Cena (bez DPH)
+63 600 ,92 EUR
+!(slovom šesťdesiattritisíc šesťsto eúr devat'desiatdva centov)
+
+poplatok
+
+Cena celkom
+(za obdobie 1.1.201831 .12.2018)
+
+763 211 ,- EUR
+(slovom sedemstošesťdesiattritisíc dvestojedenásť eúr)
+
+K cene bude uplatnená DPH v zmysle platného zákona o DPH.
+č.
+
+6.2.
+
+Cenová kalkulácia je v Prílohe
+
+6.3.
+
+Práce naviac vykonávané poskytovateľom v zmysle bodu 4.4, budú
+základe písomnej objednávky s vopred dohodnutým rozsahom prác.
+
+4.
+uskutočnené
+
+na
+
+7. PLATOBNÉ PODMIENKY
+7 .1.
+
+Úhrady za poskytnuté služby budú realizované na základe faktúry, ktorú je poskytovatel'
+v zmysle bodu 6.1. oprávnený vystaviť do 15 dní po uplynutí príslušného kalendárneho
+mesiaca, za ktorý boli služby poskytnuté na základe preberacích prip. servisných
+protokolov.
+
+7.2.
+
+Splatnosť
+
+7.3.
+
+Každá faktúra musi
+
+faktúry je 60 dní odo dňa jej
+o bsahovať
+
+doručenia
+
+objednávatel'ovi.
+
+náležitosti v zmysle platných právnych predpisov,
+
+Zmluva o zabezoečení nrevádzky a údržby telekomunikačných a komunikačných sieti a zariadeni
+
+číslo
+
+Strana 4 z 9
+
+zmluvy (objednávate ľa) , číslo bankového účtu v tvare l BAN, podpísaný protokol obidvoma
+zmluvnými stranami ~ v opačnom prípade bude vrátená na prepracovanie a preruší sa
+plynutie lehoty splatnosti faktúry, Nová lehota splatnosti začne plynúť doručen ím
+opravenej faktúry.
+7.4.
+
+V prípade omeškania s platbou je poskytovateľ oprávnený účtovať objednávate ľovi úrok
+z omeškania vo výške 1M EURIBOR + 2% p.a. za každý de ň omeškania. Pre výpočet
+úroku sa použije hodnota 1M EURIBOR, ktorá je platná k prvému dňu omeškania s
+platbou.
+
+7.5.
+
+Poskytovatel' vyhlasuje, že ku dňu podpisu tejto zmluvy neexistujú dôvody, na základe
+ktorých by objednávate ľ mal, či mohol byť ručiteľom v zmysle ust. § 69 ods. 14 v
+nadväznosti na ust. § 69b zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení
+neskorších predpisov (ďalej len "zákon o DPH'') za daňovu povinnosť poskytovatel'a
+vzniknutú z DPH, ktorú poskytovatel' objednávatel'ovi fakturoval k cene podľa tejto zmluvy.
+Poskytovateľ vyhlasuje a zaväzuje sa. že v priebehu trvania tejto zmluvy podá k DPH
+riadne daňové priznania a v prípade vzniku povinnosti zaplatí DPH a túto daň odved ie
+miestne príslušnému daňovému úradu do určenej lehoty splatnosti podľa platného zákona
+o DPH. Poskytovatel' vyhlasuje, že nemá akýkoľvek úmysel neplatiť DPH vzťahujúcu sa k
+predmetu plnenia podľa tejto zmluvy, alebo úmysel skrátiť daň . či prípadne vylákať daňovú
+výhodu a nemá úmysel dostať sa do postavenia, kedy túto daň nebude môcť zaplatiť.
+
+7.6.
+
+Poskytovatel' je povinný informovať objednávateľa , ak v priebehu trvania ich záväzkového
+vzniknú dôvody, na základe ktorých by objednávate!' mal, i mohol byt' ručiteľom v
+zmysle ust. § 69 ods. 14 v nadväznosti na ust. § 69b zákona ô DPH za daňovú povinnosť
+poskytovate ľa vzniknutú z DPH , ktorú poskytovateľ objednávatel'ovi fakturoval k cene
+podl'a tejto zmluvy, a to bezodkladne po ich vzniku (ďal ej len "informačná povinnost").
+
+vzťahu
+
+7.7.
+
+Objednávateľ je oprávnený zadržať sumu zodpovedajúcu hodnote DPH zo všetkých
+fakturovaných plnení s dátumom vzniku daňovej povinnosti ku dňu zverejnenia
+poskytovatel'a v zozname osôb, u ktorých nastali dôvody na zrušenie registrácie pod ľa
+ust.§ 81 ods. 4 písm. b) druhého bodu zákona o DPH vedenom Finančným riaditeľstvom
+SR (ďalej len "zoznam"), ako aj zo všetkých fakturovaných plnení po tomto dátume.
+
+7.8.
+
+Zadržanie sumy zodpovedajúcej DPH z faktúr vystavených poskytovatel'om pod ľa
+predchádzajúceho bodu sa nepovažuje za omeškanie objednávatel'a s úhradou
+predmetných faktúr.
+
+7.9.
+
+Zadržaná suma za každú jednotlivú faktúru bude poskytovatel'ovi vyplatená do 10 dní odo
+dňa , kedy objednávatel'ovi dôveryhodne preukáže, že daňovému úradu zaplatil DPH ,
+ktorú bol povinný zaplatiť z plnenia poskytnutého objednávateľovi na základe vystavenej
+faktúry, a to písomným potvrdením príslušného daňového úradu o splnení sí uvedenej
+povinnosti.
+
+7.1 O.
+
+Ak objednávate!' v dôsledku zákonného ručenia podľa ust. § 69b zákona o DPH uhradí za
+poskytovatef'a DPH na základe rozhodnutia príslušného daňového úradu, alebo ak daňový
+úrad na základe rozhodnutia použije na úhradu nezaplatenej DPH nadmerný o d počet
+alebo jeho časť od objednávateľa , má objednávater nárok na náhradu takto vzniknutej
+škody voči poskytovateľovi.
+
+7.11 .
+
+Objednávate!' je oprávnený si započítať pohl'adávku na náhradu škody vzniknutej
+v dôsledku zákonného ručen ia voči akejkoľvek inej pohľadávke poskytovateľa voči
+objednávatel'ovi a to aj pred lehotou splatností danej pohl'adávky, vrátane poh ľadávky
+poskytovatel'a na vrátenie zadržanej sumy DPH.
+
+7.12.
+
+V prípade, ak po úhrade DPH objednávatel'om v dôsledku zákonného ručenia v zmysle
+ust. § 69 ods. 14 v nadväznosti na ust. § 69b zákona o DPH dôjde aj k úhrade
+zodpovedajúcej DPH zo strany poskytovateľa jeho správcovi dane, a ten následne vráti
+objednávatel'ovi ako zákonnému ručite ľovi ním uhradenú DPH resp. jej časť, prevedie
+objednávate!' bez zbytočného odkladu tieto finančné prostriedky na účet poskytovate ľa.
+
+7.1 3.
+
+Zmluvné strany sa dohodli, že v prípade, ak dôjde k zverejneniu poskytovatel'a v zozname
+počas trvania tejto zmluvy, je objednávateľ oprávnený odstúpiť od zmluvy ku dňu
+
+Zmluva o zabezpečen í prevádzky a údržby tel ekomunikačných a komu nikačných sieti a zariadeni
+
+Strana 5 z 9
+
+doručenia
+
+písomného oznámenia
+
+obj ednávateľa
+
+8. POVINNOSTI
+
+POSKYTOVATEĽA
+
+8. 1.
+
+Poskytovať
+
+8.2.
+
+Odsúhlasovať s oprávnenou osobou objednávateľa každú zmenu konfigurácie a topológie
+spravovaných sietí.
+
+8.3.
+
+Rešpektovať
+
+pravidlá a požiadavky objednávateľa pre vstup do energetických objektov.
+Poskytovateľ nie je oprávnený umožn iť vstup tretieh osôb do telekomunikačných
+priestorov objednávatel'a iba ak za prítomnosti oprávneného zamestnanca objednávateľa .
+
+8.4.
+
+Zamestnanci poskytovatel'a nesmú
+špecifikovaných v Prílohe č. 1.
+
+8.5.
+
+Pri prácach na spravovaných zariadeniach postupovať tak, aby zachoval ich
+a nespôsobil prerušenie služieb v nich zriadených .
+
+8.6.
+
+Poskytovatel' sa zaväzuje potvrdiť preukazným spôsobom začiatok servisného zásahu na
+E-mail objednávateľa notifikáciou z Centrálneho ServiceDesk-u. Potvrdenie musí
+obsahovať evidenčné číslo, dátum a čas začiatku servisného zásahu. Podrobné
+informácie o servisnom zásahu budú dostupné v Centrálnom ServiceDesk-u
+
+služby a
+
+zabezpečovať
+
+poskytovaterovi o odstúpení od zmluvy.
+
+kvalitu služieb
+
+vykonávať
+
+podľa
+
+Prílohy č.3 (KPI).
+
+žiadne zásahy do iných než do zariadeni
+funkčnosť
+
+Poskytovateľa .
+
+8.7.
+
+Poskytovateľ je povinný dodržiavať ustanovenia vyplývajúce z Prílohy č . 5 Všeobecné
+zmluvné podmienky zabezpečovanie BOZP a OPP a Prílohy č. 6 Všeobecné zmluvné
+podmienky zabezpečovania informačnej bezpečnosti.
+
+8.8.
+
+Pri plneni zmluvy je poskytovateľ povinný počínaf si tak. aby nedochádzalo ku Skodám na
+zdraví, na majetku, na prírode a životnom prostredí. Ak poskytovateľ resp. jeho
+subdodávatelia spôsobia v súvislosti s činnosťami , ktoré sú vykonávané v rám ci plnenia
+predmetu zmluvy objednávateľovi škodu, poskytovatel' sa zaväzuje objednávateľovi
+nahradiť túto škodu v plnom rozsahu.
+9. POVINNOSTI OBJEDNÁVATEĽA
+
+9.1 .
+
+Objednávatef' sa zaväzuje umožniť poskytovateľovi na realizáciu výkonov podľa tejto
+zmluvy počas celej doby výkonu servisných služieb prístup ku všetkým zariadeniam , na
+ktoré sa predmet plnenia vzťahuje.
+
+9.2.
+
+Objednávate!' sa zaväzuje k naplneniu tejto zmluvy zabezpečiť poskytovateľovi potrebnú
+súčinnosť tak. aby sa umožnilo čo najefektívnejšie vykonanie predmetu plnenia tejto
+zmluvy.
+
+9.3.
+
+Umožniť používanie telefónnej siete objednávateľa pre potreby plnenia predmetu zmluvy,
+okrem hovorov do verejných telefónnych sieti.
+
+9.4.
+
+Umožn iť používať zdroje elektrickej energie pre výkon predmetu zmluvy (pre meracie
+prístroje, pomôcky a drobné elektrické náradie) potrebné pre plnenie predmetu zmluvy.
+
+9.5.
+
+Nahlasovanie a špecifikovanie porúch resp. požiadaviek na realizáciu aktivit na Centrálny
+ServiceDesk poskytovateľa sú oprávnení vykonať len oprávnení zamestnanci
+objednávatel'a podľa bodu 9.8.
+
+9.6.
+
+Ukončenie servisného zásahu bude potvrdené na "Servisnom protokole" resp.
+v Centrálnom ServiceDesk-u poskytovatel'a oprávneným zamestnancom objednávateľa .
+
+9.7.
+
+V prípade, že porucha bola spôsobená neodborným zásahom , úmyselným poškodením,
+alebo ak zariadenia boli používané v prostredí prípadne spôsobom, ktorý nie je v zhode s
+podmienkami špecifikovanými výrobcom pre ich prevádzku resp. boli poškodené vplyvom
+prírodného živlu, spíše sa o tom záznam podpísaný oboma stranami. Oprava bude
+vykonaná na základe požiadavky objednávatel'a a na jeho náklady.
+
+9.8.
+
+Objednávater sa zaväzuje písomne oznámiť poskytovaterovi mená oprávnených
+zamestnancov, ich telefónne čísla , e-mail adresy do 5 dni po podpise tejto zmluvy a
+
+Zmluva o zabezpečení prevádzky a údržby telekomunikačných a komunikačných sietí a zariadení
+
+Strana 6 z 9
+
+bezodkladne písomne informoval' druhú zmluvnú stranu pri každej ich zmene .
+10. ZMLUVNÉ POKUTY
+
+V prípade nedodržania KPl špecifikovaných v Prílohe č. 3 tejto zmluvy, si objednávate!'
+môže uplatniť voči poskytovatel'ovi zmluvnú pokutu nasledovne:
+
+10.1 .
+
+Vyhodnocovanie aktivít bude reportované a kontrolované prostredníctvom Centrálneho
+ServiceDesk-u poskytovatel'a mesačne . Pri neplneni stanovených KPI sa uplatní paušálna
+zmluvná pokuta vo výške 1000 EUR bez DPH za každé nedodržané KP l pod ľa Prílohy
+č.3 .
+
+Zaplatením zmluvnej pokuty nezaniká právo objednávateľa na uplatnenie náhrady škody
+spôsobenej porušením zmluvných povinnosti poskytovaterom.
+
+10.2.
+
+11. ZMENOVÉ KONANIE A ESKALÁCIA PROBLÉMOV
+
+11 .1.
+
+Pre účely riešenia problémových situácií sú určené riadiace oprávnené osoby zmluvného
+vzťahu za obidve zmluvné strany. Oprávnené osoby sú definované v článku č . 1 .
+
+11.2.
+
+Návrh na zmenu dohodnutého obsahu zmluvy je oprávnená
+poskytovateľa výlučne oprávnená osoba objednávateľa .
+
+11.3.
+
+Oprávnená osoba poskytovateľa vedie evidenciu doručených návrhov zmien v zmysle
+článku 11 .2. a zabezpečuje rámcové posúdenie zmeny spolu s predložením návrhu
+riešenia, najneskôr do 10 pracovných dní od dátumu prevzatia návrhu na zmenu.
+Výsledkom detailného posúdenia návrhu na zmenu bude stanovisko oprávnenej osoby
+poskytovatera k vhodnosti, potrebnosti a rea lizovateľnosti navrhovaných úprav, spolu
+s ich finančným a časovým ocenením, resp. ďalšími predpokladmi ich aplikovania do
+zmluvného vzťahu.
+
+11 .4.
+
+Návrh na zmenu , spolu s posúdením, predkladá oprávnená osoba vždy na najbližšie
+rokovanie oprávnených osôb podl'a článku č. 1 . Na rokovaní budú posúdené predložené
+návrhy a následne vypracované odporúčanie , resp. neodporúčanie štatutárnym orgánom
+zmluvných strán navrhovanú zmenu akceptovať.
+
+predložiť
+
+oprávnenej osobe
+
+12. POVINNOSŤ MLČANLIVOSTI
+
+12.1.
+
+V tejto zmluve "dôverné informácie" znamenajú všetky informácie, ktoré sa týkajú alebo
+môžu týkať predmetu Zmluvy, vrátane a bez obmedzenia všetkých údajov a informácií,
+dokumentov a správ, ponúk, cien , návrhov kontraktov, know-how, vzorcov, postupov,
+projektov, fotografií, výkresov, špecifikácií, softwarových programov a akýchkoľvek iných
+médií nesúcich, alebo zahrňujúcich takéto informácie a akýchkoľvek materiálov, ktoré
+budú pri použití týchto dokumentov spracované a budú tieto informácie obsahovať.
+
+12.2.
+
+Poskytovatel' a objednávate!' sa zaväzujú:
+12.2.1. použiť všetky dôverné informácie takto poskytnuté výlučne pre potreby realizácie
+predmetu zmluvy. Akékoľvek ďalšie použitie informácií bude podliehať
+predchádzajúcemu písomnému súhlasu tej zmluvnej strany, ktorá takéto
+informácie pôvodne poskytla, ibaže by poskytnutie, resp. zverejnenie konkrétnej
+informácie stanovil právny predpis SR ako povinné , alebo by bola konkrétna
+informácia poskytnutá príslušnému štátnemu orgánu na žiadosť pod ľa právneho
+predpisu SR,
+12 . 2.2 . sprístupniť
+
+dôverné informácie tretej strane výlučne na základe pisomného
+poverenia iba dodávateľom a zamestnancom týchto subjektov, avšak len tým , ktorí
+preukázateľne potrebujú poznať alebo vlastniť takéto dôverné informácie pre účely
+riadneho a včasného vyhotovenia diela,
+
+12 .2.3. pri poskytovaní dôverných informácií svojim
+dohodu o povinnosti mlčanlivosti,
+
+dodávate ľom uzatvoriť
+
+vhodnú
+
+12.2.4. nebudú robiť kópie dôverných informácií, poki aľ to nebude nevyhnutne nutné pre
+potreby oprávnených osôb, zaviazaných mlčanlivosťou .
+?~lo " ' 0
+
+n
+
+· ~"A·~-.:rv.n:
+
+Mevádzky a údržby
+
+telekomun ikač ných
+
+a
+
+komunikačných
+
+sieti a zariadeni
+
+Strana 7 z 9
+
+Dohoda o ochrane dôverných informácií sa uzatvára na dobu 10 rokov od uzavretia tejto
+zmluvy, ak nebude pre špecifické dôverné informácie zmenená písomnou dohodou medzi
+zmluvnou stranou poskytujúcou informácie a zmluvnou stranou prijimajúcou informácie.
+12.4.
+
+V prípade, že niektorá zo zmluvných strán poruší túto dohodu o ochrane týchto dôverných
+informácií, je povinná druhej zmluvnej strane zapl atiť zmluvnú pokutu vo výške 20 000,EUR. Zaplaten ím zmluvnej pokuty nie je dotknutý nárok na náhradu škody. Zmluvná
+strana je oprávnená požadovať aj náhradu škody prevyšujúcu zmluvnú pokutu.
+
+12.5.
+
+Za patentovú č istotu a neporušenie zásad priemyselného vlastníctva v rozsahu predmetu
+tejto zmluvy v plnom rozsahu zodpovedá poskytovatel'.
+
+13. UKONČENIE ZMLUVY
+určitú
+
+13 .1 .
+
+Zmluva je uzavretá na dobu
+
+- na obdobie od 1.1.2018 do 31 .12.2018.
+
+13.2.
+
+Zmluvu je možné vypovedať bez udania dôvodu s 6-mesačnou výpovednou lehotou.
+Výpovedná lehota začína plynúť od prvého dňa kalendárneho mesiaca. nasledujúceho po
+doručeni písomnej výpovede druhej zmluvnej strane.
+
+13.3.
+
+Objednávate ľ môže počas poskytovania služieb vypovedať zmluvu písomnou formou s 2
+mesačnou výpovednou lehotou a to z dôvodu opakovaného neplnenia služieb
+poskytovateľom podl'a článku 4. tejto zmluvy. Výpovedná lehota začí na plynúť od prvého
+dňa kalendárneho mesiaca, nasledujúceho po doručeni písomnej výpovede druhej
+
+zmluvnej strane.
+13.4.
+
+Poskytovateľ je oprávnený vypovedať zmluvu písomnou formou s 2 mesačnou
+výpovednou lehotou v prípade dlhodobého porušovania finančnej disciplíny zo strany
+objednávateľa . Za dlhodobé porušovanie fi nančnej disciplíny sa považuje neuhradenie 3
+za sebou nasledujúcich mesačných paušálov. Výpovedná lehota začína plynúť od prvého
+dňa kalendárneho mesiaca, nasledujúceho po doručení písomnej výpovede druhej
+zmluvnej strane.
+
+13.5.
+
+Túto zmluvu možno ukon čiť dohodou zmluvných strán. Zmluvné strany môžu od tejto
+zmluvy odstúpil' s okamžitou účinnosťou pri podstatnom porušení záväzkov vyplývajúcich
+zo zmluvy druhou zmluvnou stranou ako aj v súlade s § 536 a nasl. Obchodného
+zákonníka .
+
+13.6.
+
+Podstatným porušením Zmluvy v zmysle ustanovenia § 345 Obchodného zákonníka a
+teda dôvodom na okamžité odstúpenie od tejto Zmluvy sa považuje:
+13.6.1. Dlhodobé prekra čovan ia
+v zmysle prílohy č. 3.
+13.6.2. Strata oprávnenia
+13.6.3. Zverejnenie
+
+kľúčových
+
+výkonnostných indikátorov kvality - KPI
+
+vykonávať podn i kate ľskú či nnosť.
+
+poskytovateľa
+
+v zozname
+
+podľa
+
+bodu 7.1 3.
+
+13.7.
+
+Nepodstatným porušením Zmluvy sa rozumie nedodržanie ostatných zmluvných
+podmienok Zmluvy okrem podmienok uvedených v bode 13.6. Na nepodstatné porušenie
+Zmluvy objednávater zhotoviteľa písomne upozorní. Po opakovanom porušení tej istej
+zmluvnej povinnosti je objednávate!' oprávnený od Zmluvy odstúpiť.
+
+13.8.
+
+Odstúpenie od Zmluvy je účinné
+Zmluvy druhej zmluvnej strane.
+
+dňom d o ručeni a
+
+písomného oznámenia o odstúpení od
+
+14. OSOBITNÉ USTANOVENIA
+
+14.1.
+
+zabezpečen ie splnenia úloh objednávateľa stanovených Rozhodnutím MH SR
+č.1 80/20 13 -2000 pre subjekt hospodárskej mobilizácie je poskytovater povinný vykonávať
+predmet zmluvy (uvedený v čl ánku 3) pre obj ednávateľa aj po vyhlásení krízového stavu.
+
+Pre
+
+15. ZÁVEREČNÉ USTANOVENIA
+
+15.1.
+
+Táto zmluva nadobúda platnosť dňom podpísania zmluvnými stranami a ú činnosť dňom
+1.1.2018 za podmienky jej predchádzaj úceho zverejnenia v súlade s ust. § 47a ods. 1
+
+7 ......~o ..,,."
+
+..........,.....,.;<" "' ' ""lládzky a údrtby telekom unikačných a
+
+komunikačných
+
+sietí a zariadeni
+
+Strana 8 z 9
+
+Občianskeho
+
+zákonníka.
+
+15.2.
+
+Nakol'ko spoločnosť Slovenská elektrizačná prenosová sústava, a.s. je povinnou osobou
+v zmysle zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám v platnom znení
+(ďalej len zákon o slobodnom prístupe k informáciám), zmluvné strany sú oboznámené s
+tým , že zmluva a daňové doklady súvisiace so zmluvou budú zverejnené takým
+spôsobom , ktorý pre povinne zverejňované zmluvy, objednávky a faktúry ukladá zákon o
+slobodnom prístupe k informáciám vo svojom ust. § Sa a § 5b.
+
+15.3.
+
+Vzťahy
+
+medzi objednávateľom a poskytovateľom neupravené touto zmluvou sa riadia
+prfslušnými právnymi predpismi platnými v Slovenskej republike najmä ustanoveniami
+Obchodného zákonníka a súvisiacich právnych predpisov. Pre posudzovanie
+záväzkových vzťahov vyplývajúcich z tejto zmluvy je rozhodné právo slovenské.
+
+15.4.
+
+Rozsah a technický obsah predmetu zmluvy môže byť oproti pôvodnému zadaniu
+zmenený len formou písomného dodatku k tejto zmluve, obidvomi stranami podpísaného.
+To isté platí o akýchkoľvek zmenách alebo dodatkoch, týkajúcich sa tejto zmluvy.
+
+15.5.
+
+Nedeliternou
+
+súčasťou
+
+tejto zmluvy sú prílohy:
+
+Príloha č. 1 - Zoznam spravovaných zariadení.
+Príloha č. 2 - Katalóg poskytovaných služieb.
+Priloha č. 3 - Kľúčové výkonnostné indikátory kvality.
+Príloha č. 4 - Cenová kalkulácia.
+Príloha č. 5 - Všeobecné zmluvné podmienky zabezpečovanie BOZP a OPP.
+Príloha č. 6 - Všeobecné zmluvné podmienky zabezpečovania informačnej bezpečnosti.
+Príloha č. 7 - Zoznam subdodávatel'ov.
+15.6.
+
+Zmluva je vyhotovená v štyroch rovnopisoch , z ktorých každá zmluvná strana dostane po
+dvoch rovnopisoch.
+
+15. 7.
+
+Ak niektoré z ustanovení tejto zmluvy bolo, alebo sa stalo neúčinným , neplatným,
+nezákonným alebo nevykonate ľným (ďalej aj ako "vada pôvodného ustanovenia"),
+nebude tým dotknutá, ani obmedzená platnosť, účinnosť a vykonateľnosť ostatných
+ustanovení tejto zmluvy, Zmluvné strany sa zaväzujú, že takto dotknuté ustanovenia
+zmluvy nahradia novým ustanovením. ktoré netrpí vadou pôvodného ustanovenia a v čo
+najvyššej možnej miere zodpovedá duchu a účelu úpravy práv a povinnosti, obsiahnutých
+v zrušenom ustanovení.
+
+15.8.
+
+Zmluvné strany vyhlasujú , že zmluva nebola uzavretá v tiesni ani za nápadne
+nevýhodných podmienok a predstavuje prej av ich vôle, ktorý je urobený slobodne, vážne,
+určite a zrozumiteľne a ktorý nie je urobený v omyle a svojim obsahom alebo účelom
+neodporuje alebo neobchádza zákon. Ďalej zmluvné strany vyhlasujú, že ich zmluvná
+voľnosť nie je žiadnym spôsobom obmedzená, sú spôsobilé na uzatvorenie tejto zmluvy
+a jej plnenie je možné, sú oboznámené s jej obsahom a bez výhrad s ním súhlasia , na
+znak čoho k tejto zmluve pripájajú svoje podpisy.
+
+V Bratislave
+Za
+
+dňa :
+
+objednávatel'a~
+
+Za
+
+Qoskytovate ľa :
+
+........ ... .................... ..... ...... .......... ..
+Ing. O drej Smolár,
+výko ý riaditel' a konatel' spoločnosti
+~ ~
+
+Ing. Miroslav ~l,
+predseda predstavenstva/"'\
+
+Ing. MiroslaJ ~skal,
+podpredseda r redstavenstva
+
+Zmluva o zabezoečení prevádzky a údržby telekomunikačných a komunikačných sietí a zariadení
+
+Strana 9 z 9
+
+Príloha č. 3 Krúčové výkonnostné indikátory kvali1y
+
+Kľúčové
+
+výkonnostné indikátory (KPI)
+
+1. Pre aktivity zriadenie, prekládku, zmena typu, zrušenie telekomunikačného okruhu,
+optickej prenosovej cesty, LAN, WAN, SAN, konfigurácia telefónnej siete alebo telefónnej
+klapky, Firewall:
+• 1OO% aktivit vykonať do 1O pracovných dní (TTR 1Odní)
+2. Pre odstraňovanie porúch telekomunikačných okruhov :
+80 o/o do 4 hodin,
+• Priorita 1
+80% do 6 hodin,
+• Priorita 2
+• Priorita 3
+80% do 10 hodín,
+80% do 12 hodín,
+• Priorita 4
+
+100% do 1 dňa (TTR 4 hod)
+100% do 1 dňa (lTR 6 hod)
+100% do 1 dňa (TTR 10 hod)
+100% do 2 dni (TTR 12 hod)
+
+3. Pre odstraňovanie porúch na zariadeniach pre prenos signálov ochrán:
+• 90 % do 4 hodin. 100% do 1 dňa (TTR 4 hod}
+4. Pre odstraňovanie poruchy telefónnej prevádzky, LAN, W/\N, SAN:
+• Priorita 1
+80 o/o do 4 hodfn, 1OO% do 1 dňa
+
+•
+•
+•
+
+Priorita 2
+Priorita 3
+Priorita 4
+
+5. Pre odstraňovanie porúch
+komunikácia:
+• Priorita 1
+• Priorita 2
+• Priorita 3
+• Priorita 4
+
+80% do 8 hodin, 100% do 1 dňa
+1OO% do 1 dňa
+1OO% do 2 dni
+bezpečnostnej
+
+(TTR 4 hod}
+{TIR 8 hod}
+(TTR 24 hod)
+
+(TTR 48 hod)
+
+infraštruktúry (Firewalls, WEB a E-mail
+
+80 % do 4 hodin, 100% do 1 dňa (TTR 4 hod}
+
+80% do 6 hodin, 100% do 1 dňa (TTR 6 hod)
+80% do 8 hodin, 100% do 1 dňa (TTR 10 hod)
+80% do 12 hodin, 100% do 2 dnf {TTR 12 hod)
+
+Klasifikácia priorit
+-
+
+Rozdelenie porúch do priorít pre bod 2.:
+-
+
+-
+
+Rozdelenie porúch do pr!orft pre bod 4:
+-
+
+-
+
+Priorita 1 ~ okruhy pre prenos signálov pre dispečérske riadenie
+Priorita 2 - okruhy na prenos sfgnálov ochrán
+Priorita 3 • okruhy pre zber údajov pre obchodné merante
+Priorita 4- okruhy pre ostatné účely (dohlad ochrán, zdrojov,
+objektová bezpečnosť, liS....)
+Priorita 1 .. Nefunkčná telefónna prevádzka v celej lokalite, alebo
+poschodf, nefunkčná telefónna klapka pre dispečérske riadenie
+a obchodný dispečing
+Priorita 2 ~ Nefunkčné zaznamenávanie telefónnych hovorov
+Priorita 3 - Nefunkčná časf telefónnej prevádzky v lokalite resp.
+poschodí {do 5 klapiek)
+Priorita 4 - Ostatné poruchy telefónnej siete
+
+Rozdelenie porúch do pdorrt pre bod 5:
+Priorita 1- nefunkčné firewally, nefunkčný intranet, nefunkčná
+emailová komunikácia, nefunkčný pristup do siete Internet
+- Priorita 2- nefunkčné zóny, alebo VLANy
+- Priorita 3- nefunkčné tunely, infraštruktúra CITRIX
+- Priorita 4- odblokovanie webovej stránky a e-mailovej adresy,
+~tatné poruchy bezpečnostnej infraštruktúry
+
+Zmluva o zabezpečeni prevádzky a údržby telekomunikačných a komunikačnym sletf a zariadeni
+
+Strana 1 z 2
+
+Príloha č. 3 Króčové výkonnostné i n dik~ tory kvality
+
+Systém vyhodnocovania
+
+Vyhodnocovanie aktivit bude reportované a kontrolované prostrednfctvom Centrálneho
+ServiceDesk-u poskytovateľa mesačne .
+V pripade nedodržania stanovených KPI sa môže uplatniť paušálna pokuta vo výäke 1000,EUR bez DPH za každé nedodržané KPI uvedené v tejto Prflohe.
+
+Zmluva o zabezpečení prevádzky a údržby telekomunikačných a komunikačných sieti a zariadeni
+
+Strana 2 z 2
+
+Príloha
+
+č. 4
+
+Cenová kalkulácia
+
+Kalkulácia ceny služby
+Názov činnosti
+
+Cena
+[€ bez DPH/rok)
+
+správa siete Alcatel SDH NG
+
+57 564,00
+
+správa siete F-MUX Alcatel MS 3600
+
+54 372,00
+
+správa siete rádioreleových zariadení
+
+19112,00
+
+správa zariadení na prenos signálov ochrán
+
+38418,00
+
+správa siete optických vlákien {KZL a ÚOK)
+
+4 188,00
+
+správa sieti LAN, WAN a SAN
+
+589 557,00
+
+CENA CELKOM (za obdoble1.1.2018 • 31.12.2018}
+
+763 211,00
+
+VAetky uvedené ceny sú bez 20% DPH.
+Poznámka: značenie poskytovaných slu~ieb korešponduje so znaeenfm v Prltohe č. 1
+
+Zmluva o zabez~čeni prevédzky a údržby telekomunikačných a komunikatných sieti a zariadeni
+
+Strana 1 z 1
+
+Prlloha
+
+č.
+
+5 V~obecné zmluvné podmienky zabezpečenia BOZP a OPP
+
+Všeobecné zmluvné podmienky zabezpečovania BOZP a OPP
+1. Poskytovater v zmysle rozsahu predmetu zmluvy a počas doby jej plnenia v plnom
+rozsahu zodpovedá za bezpečnosť práce svojich zamestnancov, zamestnancov svojich
+subdodávaterov ako aj spmupôsobíacich fyzických osôb - podnikaterov pri výkone
+zmluvných činností pre objednávatera .
+
+2. Objednáva1ef, v zmysle zmluvy a počas doby jej plnenia,
+
+zabezpeč i
+
+pred začatím jej
+
+plnenia pre zodpovedného zástupcu poskytovateľa
+
+Meno a priezvisko:
+
+Maroš KUrA
+
+Funkcie:
+
+Account delivery manager
+
+a technika požiarnej ochrany poskytovateľa
+Meno a priezvisko:
+
+Ing. Tomáš Vyskoč -Inštitút bezpečnosti práce s.r.o.
+
+tislo osvedčenia:
+
+N-02/0/17 234/20 15/TT
+
+oboznámenie zamerané na problematiku dodržiavania predpisov bezpečnosti a ochrany
+zdravia pri práci a ~ko len ie o ochrane pred požianni. Zodpovedný zástupca objednávatefa
+bude oboznámený s určenlm niektorých prác spojených so zvý!eným ohrozením zdravia
+vyplývajúcim z pracovných podmienok .
+3. Poskytovateľ v zmysle zmluvy a počas doby jej plnenia preberá na seba povinností
+ustanovené legislatlvnyml predpismi Slovenskej republiky a osobitnými predpismi pre
+oblasť bezpečnosti a ochrany zdravia pri práci:
+~
+
+Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene
+a doplnenr niektorých zákonov v zneni neskolilch predpisov,
+
+~
+
+Zákon č. 12512006 Z. z. o inšpekcii práce a o zmene a dopfnenr zákona č. 8212005
+Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplneni
+niektorých zákonov v zneni neskor§lch predpisov,
+
+~
+
+Zákon č. 35512007 Z. z. o ochrane, podpore a rozvoji vereJného zdravia a o zmene
+a doplneni niektorých zákonov v znenr neskoräl<:h predpisov,
+
+4. Poskytovater v zmysle zmluvy a počas doby jej plnenia, preukázateľne zabezpečí pred
+začatlm
+plnenia zmluvy pre svojich zamestnancov, zamestnancov svojich
+subdodávaterov ako aj spolupôsobiacich fyzických osôb - podnlkaterov oboznámenie a
+odbornú spôsobilosť ako aj pravidelné oboznámenie ustanovené osobitnými predpismi,
+potvrdené podpismi všetkých zúčastnených osôb. Pre vlastných zamestnancov,
+zamestnancov svoj'ch subdodávatefov ako aj pre spolupôsobiace fyzické osoby podnikateľov, zabezpeči Akolenie o ochrane pred požiarmi, ktor! sa s vedomím
+poskytova1efa zdržujú v objektoch a priestoroch SEPS, hore uvedeným technikom
+požiarnej ochrany. Poskytovateľ je povinný aj v prípade zmeny u svojich
+zamestnancov, zamestnancov subdodávate.rov a spolupôsobiacich fyzických osôb podnika1erov (zvýšenie počtu, výmena skupin a pod.) preukázateľne vykonať
+oboznámenie a äkoleníe týchto osôb.
+5. Poskytovater v zmysle zmluvy a počas doby jej plnenia predloži na požiadanie
+objednávaterovi, ešte pred uzavretím zmluvy, fotokópie platných dokladov odbornej a
+zdravotnej spôsobilosti, doklady o oboznámeni s predpismi na zaistenie bezpečnosti a
+ochrany zdravia pri práci a doktady o školeni z predpisov o ochrane pred požiarmi na
+výkon zmluvne dohodnutých pracovných činnosti svojich zamestnancov, zamestnancov
+svojích subdodávatefov ako aj spolupôsobiacich fyzických osôb- podnika1erov.
+6. Poskytovater v zmysle zmluvy a počas doby jej plnenia zabezpeči pre všetky
+spolupOsoblace osoby bez odbornej spôsobilosti v zmysle vyhläiky č. 508/2009 Z. z. , v
+znenr neskorälch predpisov stály dozor pri práci fyzickou osobou, ktorá splňa požiadavky
+Zmluva o#zpečenl prevédzky a údržby telekomunikačných a komunikatných sieti a zariadeni
+
+Strana 1 z 3
+
+Prlloha e. 5 Všeobecné zmluvné podmienky zabezpečenia BOZP a OPP
+
+odbornej spôsobilosti elektrotechnika na riadenie činnosti alebo na riadenie prevádzky
+a podľa STN 34 3100 pre práce na elelctrických zariadeniach v btfzkosti častí pod napätfm.
+Dozor pri práci nesmie vykonávat' vedúci práce určený v prislušnom príkaze .. B ".
+7
+
+Poskytovater v zmysle zmluvy a počas doby jej plnenia je povinný plniť povinností
+ustanovené v legislatívnych predpisoch pre oblasť ochrany pred požiarmi a súvisiacich
+slovenských technických noriem:
+c> Zákon č. 31412001 Z. z. o ochrane pred požiarmi a o zmene a doplneni niektorých
+zákonov v znení neskorších predpisov,
+c> Vyhláška MV SR č. 12112002 Z. z. o požiamej prevencii v zneni neskoršlch
+predpisov,
+
+8. Poskytovatef je povinný umožniť
+kontrolu plnenia podmienok výkonu diela
+zamestnancom objednávateľa, v zmysle Zákona č. 12412006 Z. z. o bezpečnosti
+a ochrane zdravia pri práci a o zmene a doplneni niektorých zákonov v zneni neskoršfch
+predpisov a Zákona č. 314/2001 Z. z. o ochrane pred požiarmi v zneni neskorifch
+predpisov.
+9. V pňpade vzniku mimoriadnej udalosti (pracovný úraz, nebezpečná udalosť, závatná
+priemyselná havária, požiar} počas výkonu pracovnej činnosti pre objednávatera, je
+poskytovater povinný vykonať ohlásenie tejto udalosti v zmysle Zákona č. 124/2006 Z. z.
+o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnenr niektorých zákonov v
+zneni neskortlch predpisov resp. Zákona č. 314/2001
+z. o ochrane pred požiarmi v
+znení neskorších predpisov a zabezpečiť povinnosti vyplývajúce z uvedených zákonov.
+Vznik tejto udalosti je poskytovater povinný ihneď ohlásit' a následne písomne oznámlf aj
+objednávaterovi s ciefom zabezpečenia objektívneho vyšetrenia.
+
+z.
+
+1O. Poskytovateľ v zmysle zmluvy a počas doby jej plnenia zodpovedá za kompletné
+vybavenie a používanie osobných ochranných pracovných prostriedkov svojimi
+zamestnancami, zamestnancami subdodávatefa a spolupOsobiaclml fyzickými osobami podnikatermi v zmysle Nariadenie vlády SR č. 39512006 z. z. o minimálnych
+požiadavkách na poskytovanie a používanie osobných ochranných pracovných
+prostriedkov v znenf neskoršfch predpisov.
+11 . Poskytovater je povinný zabezpečiť jednotné oblečenie a viditerné označenie svojich
+zamestnancov názvom - logom firmy, ako aj zamestnancov svojich subdodávateľov
+a spolupôsoblaclch fyzických osOb - podnikaterov.
+12. Poskytovater je povinný rešpektovať zákaz fajčenia. prinášať a požívať na pracoviskách
+a v priestoroch v pôsobnosti objednávatera akékoľvek alkoholické nápoje alebo omamné
+a psychotropné látky. Za nedodržanie tohoto bodu je povinn~ a zaväzuje sa uhradiť
+zmluvnú pokutu vo výike 1000,- € za každého zamestnanca, porušujúceho uvedené
+zákazy ako aj za spolupôsobiacich dodávateľov. Záznam o pfsomnom oboznámeni
+všetkých zúčastnených osôb so zákazom fajčenia a požfvať na pracoviskách
+a v priestoroch objednávatera akékoľvek alkohoUcké nápoje alebo omamné a
+psychotropné látky , musr poskytovateľ na požiadanie predložiť zodpovednému
+zástupcovi objednávateľa .
+13. Poskytovateľ je povinný písomne požiadať objednávateľa o povolenie vjazdu vozidiel
+s uvedením typu, EČV a účelu vjazdu vozidla. V objektoch objednávateľa sú vozidlá
+poskytovateľa a jeho spolupôsobiacich dodávaterov povinné dodrtiavať
+miestne
+dopravné značenie , maximálnu povolenú rýchlosť a pokyny zodpovedného zástupcu
+objednávateľa. Zamestnancom dodávaterských a servisných organizácií je vstup do
+objektov umožnený až po schváleni žiadosti na vstup v zmysle internej dokumentácií
+SEPS - Režimové opatrenia pre vstup a pobyt osôb v objektoch elektrických stanrc
+spoločnosti, formulár F0221 Povolenie na vstup a po predloženi dokladu o absolvovaní
+oboznámenia sa s predpismi BOZP a OPP v zmysle prisluäných predpisov.
+14. Za nedodržanie zákazu parkovania na vyhradených miestach je poskytovater povinný
+uhradiť zmluvnú pokutu vo výške 200... E za každé vozidlo parkujúce na. vyhradenom
+mieste a zároveň v prípade vzniku mimoriadnej udalosti (pracovný úraz, nebezpečná
+
+~luva o ~8čenr prevádzky a údržby telekomunikačných a komunikačných sieti a zariadení
+
+Strana 2 z 3
+
+Prlloha
+
+č.
+
+5 V~obecné zmluvné podmienky zabezpečenia BOZP a OPP
+
+udalosť. závažná priemyselná havária, požiar) uhradiť škody spôsobené znemožnenlm
+
+príjazdu vozidiel hasičského a záchranného zboru alebo rýchlej zdravotnej služby.
+15. V prípade nerešpektovania dopravného značenia a povolenej rýchlosti vozidlom
+poskytovateľa alebo jeho spolupôsobiaceho dodávatera v objekte objednávateľa, bude
+s okamžitou platnosťou vydaný objednáva1erom resp. zmluvným prevádzkovateľom
+zákaz vjazdu pre uvedené motorové vozidlo do objektu objednávateľa.
+
+16. Objednávateľ nezodpovedá za škody vzniknuté na motorových vozidlách
+
+poskytovateľa
+
+spôsobené nerešpektovanlm dopravného značenia a parkovaním na vyhradených
+miestach pre vozidlá hasičského a záchranného zboru alebo rýchlej zdravotnej služby.
+
+17. Poskytovateľ je povinný na pracovisku objednávatera
+
+dodržiavať všetky zmluvné
+podmienky a predpisy bezpečnosti a ochrany zdravia pri práci a ochrany pred požiarmi
+pri prácach, ktoré bude v zmysle zmluvy a počas doby jej plnenia vykonávať. Na
+skutočnosti odporujúce predpisom bezpečnosti a ochrany zdravia pri práci a ochrany pred
+požiarmi je povinný písomne upozorniť zodpovedného zástupcu objednávateľa.
+
+18. Povinnosťou
+
+poskytovateľa je preukázateľne upozorniť objednávatera na riziká,
+vyplývajúce z činností pre splnenie predmetu zmluvy, ktoré bude na pracoviskách a v
+priestoroch objednávateľa vykonávať.
+
+poskytovateľa resp. jeho spolupôsobiac! dodávatelia sú povinnf počas
+pracovnej doby zdržiavať sa na mieste výkonu práce, udržiavať na pracoviskách
+a v priestoroch SEPS čistotu a poriadok počas celej doby trvania a plnenia predmetu
+zmluvy.
+
+19. Zamestnanci
+
+20. Objednávater, poskytovater a jeho spolupôsoblaci dodávatelia sú povinnf na spoločnom
+pracovisku zabezpečit' koordináciu činnosti a vzájomnú informovanost' o možných
+ohrozeniach, preventívnych opatreniach a opatreniach na poskytnutie prvej pomoci. na
+zdolávanie požiarov, na vykonanie záchranných prác a na evakuáciu osôb prftomných na
+pracovisku. Posk.ytovatef je povinný organizovať všetky zmluvne dohodnuté pracovné
+činnosti tak, aby svojou činnosťou nenarušoval plynulý, bezpečný a včasný výkon
+ostatných pracovných činnosti prftomných osôb ako aj bezPeČI"Iosť prevádzkovaných
+zariadeni.
+
+21 . Poskytovateľ v zmysle zmluvy a
+
+počas doby jej plnenia je povinný dodržiavať interné
+bezpečnostné, prevádzkové a technologické predpisy objednávatera, ktoré mu boli
+poskytnuté, napr.: pri zaisťovan{, preberani a odovzdávani pracoviska a zariadeni. V
+
+prfpade porušenia týchto predpisov zo strany zamestnancov poskytovatera resp. jeho
+spolupôsobiacich dodávaterov bude týmto odobraté oprávnenie pre vstup do objektu
+objednávatera bez dopadu na plnenie zmluvných záväzkov poskytovateľa.
+
+22. Za nedodržanie zmluvnýeh podmienok BOZP a OPP je poskytovater povinný
+uhradiť zmluvnťl pokutu vo výike 2000,~ €. V prípade, ak objednávater zistí, že
+zamestnanci poskytovateľa alebo jeho spolupôsobiaci dodávatelia zjavným spôsobom
+porušujú zásady bezpečnosti a ochrany zdravia pri práci a ochrany pred požiarmi,
+zmluvné podmienky zabezpečovania BOZP a iné písomne dohodnuté podmienky, môže
+uložil' d'alšiu pokutu až do dvojnásobku pokuty uvedenej v tomto bode alebo
+odstúpiť od zmluvy bez toho, aby poskytovatefovi vznikol nárok na náhradu pripadnej
+tkody alebo nabehnutých nákladov.
+
+poskytovateľ zbavený zodpovednosti za nedostatky
+v oblasti BOZP a OPP zistené kontrolnými orgánmi, ktoré boli spôsobené činnost'ou
+poskytovatera. Ak bude na základe zisteného porušenia právnych predpisov činnosťou
+poskytovatera uložená pokuta objednávateľovi, poskytovateľ uhradí uloženú pokutu
+v plnej výške.
+
+23. Uloženfm zmluvnej pokuty nie je
+
+Zápis o poučení zodpovedného zamestnanca a požiarneho technika poskytovateľa povereným
+zamestnancom SEPS je neoddeliteľnou súčasťou uzatvorenej zmluvy o zabezpečení
+prevádzky a údržby telekomunikačných a komunikačných sietí a zariadení.
+
+Zmluva n z.ai1P.Zt'1'P.čeni prevádzky a údržby telekomunikačn9Ch a komunika~ých sietf a zariadeni
+
+Strana 3 z 3
+
+Priloha č. 6 Všeobecné zmluvné podmienky zabezpečovania informačnej bezpečnosti
+
+Vieobecné zmluvné podmienky zabezpečovania
+
+infonnačnej
+
+bezpečnosti
+Povinná priloha ku zmluvam a objednávkam, ktorých predmetom sú práce, služby alebo tovary v
+oblasti ICT
+
+1
+
+1.1
+
+Rámec
+
+Úvod
+
+Tento dokument definuje základné bezpečnostné pravldlé a požiadavky SEPS navrhnuté za účelom
+optimálneho zabezpečenia dôvernosti, dostupnosti a integrity informácií ako objednávatera, tak a] informácii
+poskytovatefa, proti neautorizovaneJ úmyselnej alebo náhodnej mocflfikécil, poškodeniu, zničeniu alebo
+prezradenlu.
+
+1.2 Rozsah
+Rozsah tejto politiky je definovaný v zmysle zavedeného systému riadenia informačnej bezpečnosti
+v spolo~sti SEPS v súlade s požiadavkami ISO 27001 :2013.
+
+1.3 Organizácia
+rokovať vo veciach zmluvných za SEPS Každý zmluvný partner l poskytovater má
+v zmklve definovan(! Osobu oprávnenú rokovaf vo veciach zmluvných za SEPS, zodpovednú za vlastníctvo
+obchodného vzťahu a jeho celcové vykonévanie vrátane dodrfiavania súladu s bezpečnostnými požiadavkami.
+
+Osoba opr6vneni
+
+lnfonna~ného systému za SEPS: zodpovedá za opodstatnenosť a prirneranosr schvélenych
+oprávnen! a rozsahu ICT prostriedkov (HW, SW, síefové služby) poskytovatefovi prac, služieb alebo tovarov
+v oblasti ICT. Gestor informačného systému za SEPS dalej zodpovedá za stanownle technických
+a §peclflckýeh bezpečnostných požiadaviek a pravidiel vo vzťahu k samotným informačným systémom,
+aplikáciám, databázam ako aj k sieťovému pros1rediu a jeho komponen1om a za primerané nastavenie kvality
+poskytovaných služieb prostredníctvom detailne definovaných SlA v zmluvách a za ich näslednú kontrolu
+počas plnenia predmetu zmluvy.
+
+Gestor
+
+Standardne je to za SEPS v zmluvách uvádzaná osoba oprávnená rokovať vo veciach technických.
+Vedťlci odboru bezpečnosti SEPS : Vedúci odboru bezpečnosti SEPS musr zhodnotiť riziká spojené so
+zmluvnými partnermi voči objednévaterovi a v prípade potreby navrhnúť primerané technické, organizačné
+alebo personáJne opatrenia na zniženie identifikovaných rizik na akceptovatefnú úroveň. Z uvedených dOvodov
+je Vedúci odboru bezpečnosti SEPS oprávnený vykonať u poskytovatera bezpečnostný audit v rozsahu
+defmovanom medzinárodným itandardom ISO 27001. Vedúci odboru ~ečnosti SEPS musf úzko
+spolupracovať s Manažérom bezpečnosti poskytovatera na udrfiavani primeranej odozvy na bezpečnostné
+incidenty/V9sledky auditov a poskytnúť aktuallzécle skýchkofvek prebiehajúcich zmien bezpečnostných
+postupov a politik objednávatera.
+
+Manalér poskytovateľa & Manažér bezpečnosti poskytovatera: Manažér poskytovatera (Atandardne je to
+osoba poakytovatera definované v zmluve ako osoba oprávnená rokovať vo veciach zmluvných) musi
+identifi{ovaf Manažéra bezpečnosti poskytovatel'a zodpovedného za dodržiavanie bezpečnostn~ch pravidiel a
+politik objednávatera. Manažér bezpečnosti poskytovatera spolupracuje pri bezpečnostných auditoch
+vykonaných vedúcim odboru bezpečnosti SEPS alebo ním povereným externým subjektom a je zodpovedný
+za implementá~u primeraných organizačných, technických alebo personálnych opatreni za účelom znfženia
+rizfk identifíkovaných bezpečnostným auditom. Manažér bezpečnosti poskytovatera je dalej zodpovedný za
+priebežnú aktualizáciu a riadenie rizik súvisiacich s poskytovanými prácami, službami alebo tovarmi
+s potenciálnym dopadom na objednévatera. Zodpovednosťou manažéra poskytovatera je aj informovanie
+objednávatera za SEPS o akýchkofvek subdodávkach resp. outsourcovanej práci pri plneni predmetu zmluvy
+a udržiavanie primeranej bezpečnostneJ úrovne a dohôd aj u subdodévatefov.
+
+Zmluva o zabezpečeni prevádzky a údr.tby telekomunikačných a komooikačných sieti a zariadeni
+
+Strana 1 z 4
+
+Prlloha
+
+2
+
+Vieobecné
+
+2.1
+2. 1.1
+
+2.1.2
+
+2.1.3
+
+2.1.4
+
+2.1.5
+
+2.2
+2.2.1
+
+2.2.2
+
+č.
+
+6 V§eobecné zmluvné podmienky zabezpečovania informačnej
+
+bezpečnostné
+
+Bezpečnostný
+
+bezpečnosti
+
+požiadavky
+
+audit
+
+SEPS ako objednévater je oprávnený vykonávať bezpečnostné audity v rozsahu definovanom
+Atanderdom ISO 27001 u poskytovatera tovaru, služieb alebo prác so zameranrm na predmet zmluvy.
+Objednévater mMe vykonanlm bezpečnostného auditu poveriť aj externý subjekt. Poskytovater mU$[
+poskytnllf primeranú súčinnosť pri bezpečnostných auditoch. Objednávater je povinný plsomne
+informovať poskytovatela o plánovanom audite najmenej 15 pracovných dnf pred začatlm auditu.
+Manažér bezpečnosti poskytovatera musi preskOmaf spolu s vedúcim odboru bezpečnosti SEPS
+(ďalej len VOB SEPS) v~tk.y riziká identifikované prostrednfctvom preverenia infraštruktúry a auditov.
+Poskytovater musi byt' pripravený na požiadanie posl<ytnúf potrebnú technickú, prevádzkovú alebo
+bezpečnostnú dokumentáciu sUvlsiacu s dodávanými tovarmi, službami alebo prácami ako podporu
+pre externé audity ISMS v SEPS.
+Okrem auditov zmluvných dohôdlzévazlcov vo vzťahu k SEPS. musi poskytovater vyhovieť žiadosti
+objednávatera ako aj zabezpečiť súčinnosť pri vykonani jednej komplexnej bezpečnostnej
+previerky/auditu za rok, vrátane, ale bez obmedzenia na preskúmanie politik. procesov, postupov,
+dokumentécie a opatreni týkajúcich sa fyzickej bezpečnosti, siete, systémov a aplikácii v súlade s ISO
+27001. líadosr o vykonanie komplexného bezpečnostného auditu objednévater oznámi
+poskytovatefovi písomne min. 30 kalendárnych dni pred začatlm auditu.
+Objednávater má právo prizvať na posúdenie zavedených procesov a postupov aj externého
+špecialistu v prfpade, ak nie sú v rámci SEPS interné kapacity na dostatočnej úrovni znalosti
+konkrétneho systému. resp. aplikačného vybavenia.
+
+Personálna bezpečnost'
+Poskytovater musi mať zavedené procesy a ipecifické ustanovenia, pre zabezpečenie primeranej
+prevlerlcy personálneho pozadia pracovnikov, ktorí sú nasadzovanl na plnenie predmetu zmluvy
+v SEPS. Toto ustanovenie je povinne auditované u poskytovatera, ktorý zabezpečuje dodévku tovarov.
+prác alebo služieb pre objednávatera na kr~icMch systémoch, aplikáciách, resp. má prlstup k citlivým
+
+infonnáciém.
+Manažér bezpečnosti poskytovatera musi zabezpečit primerané monitorovanie pridelených ICT
+prostriedkov, prostrednlctvom ktorých je zabezpečované plnenie predmetu zmluvy vo vzfahu
+k objednávaterovi. O tejto skutočnosti musia byt' preukázate!ne poučení vAetci zamestm!nci
+poskytovatera, ktorť sa podielajú na plneni predmetu zmluvy. Manažér ~nosti poskytovatera musi
+mat' definovaný formálny proces pre odozw na poruäenie bezpečnostných politik a predpisov.
+
+2.3 Inventár, vlastn{ctvo a klasifikácia aktfv
+2.3.1
+2.3.2
+
+Poskytovatef musi maf formalizovaný a zavedený proces riadenia akt! v, minimálne v rozsahu:
+Inventár lidajov a lnforméclf: zmluvnl partneri musia udriiavať inventár ~kých Informačných aktív
+(vo vzťahu k SEPS). Inventár musi zahfll!af:
+2.3.2.1 názov, umiestnenie, uchovávanie a klasifil<ačný stupeň údajov. Týka sa to informačných aktiv ako
+napr. technické dokumentácie, prevádzkové postupy, databäzy ale napr. aj prfstupové údaje,
+konfiguračné údaje systémov atd'.
+2.3.3 Inventár fyzických aktfv: zmluvnl partneri musia udržiavaf inventár fyzických aktlv použlvaných pri
+plneni predmetu zmluvy voči SEPS.
+2.3.3.1 Fyzické aktíva a vybavenie musi mať evidenčné §tltky alebo zaznamenané sériové čhsla.
+2.3.3.2 Každému aktfw musi byt' priradený vlastnlk a musia byt' definované požiadavky a podmienky pre
+primerané použivanie aktlv.
+2.3.4 lnventér softvéru: zmluvn! partneri musia udržiavať inventár softvéru používaného pri plneni
+predmetu zmluvy voči SEPS.
+
+2.4 Ukladanie a narábanie s údajmi, ochrana Informáci(
+2.4.1
+
+Zmluvnf partneri musia pri ukladani údajov, resp. pri nakladani s nimi dodržiavať mini mé lne potiadavky
+spfr'lajúce nasledovné odporúčania:
+2.4.1.1 Neverejné informácie musia byť uložené zamknuté, chrénené heslom/zašifrované.
+
+Zmluva o zabezpeeenl prevádzky a údržby telekomunikaených a komunikačných sieti a zariadení
+
+Strana 2z 4
+
+Prlloha č. 6 Všeobecné zmluvné podmienky zabezpečovania
+2.4.1.2
+
+infonnačnej bezpečnosti
+
+Pri práci s papierovými dokumentmi SEPS je potrebné sa riadiť politikou čistého stola. Tlač citlivých
+dokumentov SEPS nesmie byť ponechané bez dozoru.
+Heslá do systémov a aplikácií SEPS nesmú byť uložené vo fonnáte nechráneného textu.
+
+2.4.1.3
+2.4.2 Nesmú sa robiť kópie ciUívých informácH bez povolenia vlastníka informácii za SEPS.
+2.4.3 Údaje a dokumenty SEPS používané poskytovaterom za účelom plnenia predmetu zmluvy, nesmú byť
+ukladané alebo replikované u prfpadných subdodávaterov bez súhlasu objednávatela; súhlas musi dať
+objednávate! eAte pred prenosom údajov subdodávaterovi alebo ktorejkolvek ďalšej entite mimo
+d?jednávatera a poskytovatefa. Manažér poskytovatera musi udň:lavaf zoznam subdodávaterov, ktori
+dostávajú údaje, úeel prenosu údajov, metódu prenosu a !ifrovanialoehrany alebo protokol, že údaje
+sú prenesené a schvarovater za SEPS (gestor informačného systému za SEPS alebo vedúci odboru
+bezpečnosti z:a SEPS), ktorl autorizovali prenos s týmito opatreniami.
+2.4.4 Poskytovater a všetci jeho zamestnanci podialajóci sa na plneni predmetu zmluvy sú povinn!
+zachovávať mlčanlivosť o vietkýchskutoCnostiach, s ktorými sa oboznámili počas výkonu prác, služieb
+alebo dodávke 1ovarov v zmysle predmetu zmluvy e to ako po dobu trvania zmluvy, tak aj po jej
+skončeni.
+
+Poskytovater je oprávnený poskytovať zmluvou dohodnuté činnosti len prostredníctvom
+zamestnancov, ktorl boli odsúhlasenl objednávaterom.
+Pri ukonČW! í alebo vypovedani zmluvného vzfahu musia zmluvnf partneri poskytnúť objednávaterovi
+kópie wetkých lnformácn ud~iavaných v rámci zmluvného vzfahu, ako aj vietky záložné a archfvne
+médiá obsahujúce lnformécie SEPS.
+Pri ukončeni zmk.Jvného vzfahu musr byf spolOčne so zmluvnými partnermi dohodnutý proces zničenia
+údajov kvOII odstráneniu vAetkých lnformacli SEPS zo systémov a aplikácii zmluvných partnerov.
+Obdobným sp(lsobom musia byť zničené aj údaje v tlačenej forme.
+
+2 .4.5
+2.4.6
+
+2.4.7
+
+2.5
+
+Výmena informécU
+
+Zmluvnf partneri musia pri výmene informácii s objednávaterom dodržiavať nasledovné odpoi'Učania:
+Email: Citlivé informáci& SEPS musia byť pri prenose elektronickou poštou vo forme prlloh .šifrované.
+2 .5 .1.2 Doručovanie tlačených zásielok: Posielať citlivé tlačené lnformécle SEPS prostrednrctvom kuriéra
+alebo doporučenou pošiou so sledovanlmleVidenciou zásielky.
+
+2.6.1
+
+2.5.1.1
+
+2 .5 .1.3
+2.5.1.4
+2 .5.1.5
+
+Fax: citlivé informácie sa neodpoi'Učajú vymieňať faxom.
+Telefón: citlivé informácie SEPS nesmú byť diskutované prostrednldvom pevných alebo lP telefónov.
+Mobiln~ telefóny: citlivé infonnácie SEPS nesmú byf diskutované prostrednlctvom mobilných
+
+telefónov.
+
+2.6
+2.6.1
+2.6.2
+
+2.6.3
+
+2.7
+2 .7.1
+
+2.7.2
+
+2.7.3
+
+Pravidlá pre Notebooky/PC poskytovatera pripájané do infraštruktúry SEPS
+Zmluvn! partneri musia mar definovanú politiku pre Primerané poutitie ICT prostriedkov.
+Zmluvn! partneri musia ud~iavať bezpečnosf počltačov/notebookov prostrednlctvom preukázatefného
+patch manažmentu a pravidelne aktualizovaného antivírového programu. Pre vtetky notebooky/PC s
+OS Windows pripéjaných do siete SEPS sa vyžaduje zapnutie osobného firewall-u.
+Údaje SEPS nesmú byť uložené na notebookoch alebo iných prenosných zari;adeniach zmluvných
+partnerov, pokiaf ich disky nie sú chránené Mrovanlm.
+
+Kontinuita činnosU
+Mana!ér bezpečnosti poskytovatera zodpovedá za aktuálnosť a funkčnosť plánov obnovy činností
+súvisiacich s plnenlm predmetu zmluvy voči objednévaterovi tak, aby dodávka služieb, prác alabo
+tovarov vyplývajúcich z predmetu zmluvy neboli ohrozené ani v prípadoch neočakávaných alebo
+havarijných situácii.
+Vedúci odboru bezpečnos11 SEPS musí zabezpečíf prlpravu, udržiavanie a pravidelné testy BCPIOR
+plánov, ktoré umožnia dostupnosť všetkých kritických služieb vo vzfahu k objednávaterovi v prípade
+núdze alebo katastrofy a splňajú podmienky minimálnej požadovanej úrovne služieb.
+Akýkofvek stav núdze, havárie alebo inej neočakávanej situácie, ktorá má (mOže maľ) za následok
+prerušenie alebo znemožnenie plnenia predmetu zmluvy musr byť bezodkladne nahlásený Osobe
+oprávnenej rokovať vo veciach zmluvných -za SEPS .
+
+Zmluva o zabezpečeni prevádzky a údržby t~lekomuniksčných a komunikačných sieti a zariadeni
+
+Strana 3z 4
+
+Prfloha
+
+č.
+
+6 V~eobecné zmluvné podmienky zabezpečovania
+
+infonnačnej bezpečnosti
+
+2.8 Odozva na lncídenty
+2.8.1
+2.8.2
+
+2.8.3
+
+Manažér bezpečnosti poskytovatera musi udržíavaf a aktualizovať plán odozvy na bezpečnostné
+Incidenty.
+Manažér bezpečnosti poskytovatela musí vedúceho odboru bezpečnosti SEPS bezodkladne
+infonnovať o bezpečnostných incidentoch, ktoré poskytovater zisti pri plneni predmetu zmluvy (jedné
+sa najmä o incidenty charakteru neautorizovaný prlstup, narušenie dôvernosti alebo dostupnosti
+citlivých údajov, ldentifllc:ovaný äkodlivý kód).
+Pokiaf z predmetu zmluvy pre poskytovatera vyplýva povinnosť zabez.pečovať primeranú úroveň
+dôvernosti a/alebo dostupnosti systému alebo údajov v systéme, v oznámeni o incidente musia byť
+poplsané navrhované opatrenia ako aj návrh plánu budúcich einnosti na prevenciu pred podobnými
+incidentmi v budúcnosti. Manažér bezpečnosti poskytovatela a vedúci odboru bezpečnosti SEPS
+musia v čo najkratäom možnom čase dohodnúť postup, resp. vzájomne odsúhlasiť zmeny za účelom
+odstránenia bezpečnostného incidentu a spOsob realizácie plánu budúcich činnosti.
+
+2.9 Súlad s predpismi
+Ak je ktorékofvek ustanovenie tejto poJitiky v konflikte s pofrtikami poskytovatera, tento problém musí
+byť predložený vedúcemu odboru bezpečnos1i SEPS na preskúmanie a vyrieäenie e!te pred podpisom
+zmluvy.
+
+2.10
+
+Doplňujúce
+
+infonnácie
+
+Oa~ie bezpečnostné požiadavky, najmä ipecifické vo vzťahu ku konkrétnym aplikéciám, systémom
+
+ako aj ku síet'ovej konektivite mOžu byf ipeclflkované Gestorom
+priamo v zmluve.
+
+informačného
+
+Zmluva o zabezpečeni prevádzky a údržby telekomunikačných a k.omuníl<ačných siet! a zarladenf
+
+systému za SEPS
+
+Strana 4 :z 4
+
+Prlloha č. 7
+
+Zoznam subdodávaterov
+
+Por.č.
+
+Meno kontaktnej
+osoby
+
+Obchodné meno
+
+~
+
+1
+
+2
+
+3
+4
+5
+
+~
+
+..............
+
+"'-...
+
+~
+
+..............
+
+6
+
+č.
+
+telefónu
+
+e--mail
+
+Webové sld lo
+
+DIČ
+
+r--....
+
+~
+
+8
+
+~
+
+~ .....
+
+~
+
+9
+10
+11
+
+"' '-....... --.....
+
+............
+-...........
+
+12
+13
+14
+
+15
+
+"'
+
+~
+
+-----------
+
+Podiel na
+celkovej
+dodávke v %
+
+'
+
+7
+
+--------
+
+IČO
+
+Rozsah subdodávok
+vyjadrených v (
+
+-----
+
+Zmluva o zabezpečeni prevádzky a údržby telekomunikačných a komunikačných sieti a zaňadenl
+
+------
+
+-...........
+
+!'-.......
+
+- - L_ _
+
+Strana 1 z 1
+
+~
+
+

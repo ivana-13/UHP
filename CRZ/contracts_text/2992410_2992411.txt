@@ -1,0 +1,575 @@
+Kúpna zmluva č. Z201729850_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Nitriansky samosprávny kraj
+Rázusova 2A, 94901 Nitra, Slovenská republika
+37861298
+2021611999
+SK35 8180 0000 0070 0031 5530
+0376922915
+
+Dodávateľ:
+Obchodné meno:
+
+MICROCOMP - Computersystém s r.o.
+
+Sídlo:
+
+Kupecká 9, 94901 Nitra, Slovenská republika
+
+IČO:
+
+31410952
+
+DIČ:
+
+2020405354
+
+IČ DPH:
+
+SK2020405354
+
+Číslo účtu:
+
+IBAN SK38 1100 0000 0026 2729 0119
+
+Telefón:
+
+0376511306
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+„1. etapa externého auditu informačných systémov a pracovných procesov vo všetkých
+organizáciách v zriaďovateľskej pôsobnosti Nitrianskeho samosprávneho kraja – 2. časť
+(nákup HW a implementácia)“
+
+Kľúčové slová:
+
+externý audit, informačné systémy, pracovné procesy, nákup HW, implementácia
+
+CPV:
+
+48810000-9 - Informačné systémy; 48800000-6 - Informačné systémy a servery;
+60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• „1. etapa externého auditu informačných systémov a pracovných procesov vo všetkých organizáciách v
+zriaďovateľskej pôsobnosti Nitrianskeho samosprávneho kraja – 2. časť (nákup HW a implementácia)“
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Exchange server
+
+ks
+
+3
+
+switch 1GB
+
+ks
+
+2
+
+Rack+UPS+PDU+KVM
+
+ks
+
+1
+
+Load Balancer
+
+ks
+
+1
+
+Implementácia systému/služieb; nastavenie, inštalácia a
+konfigurácia dodaných systémov
+
+ks
+
+1
+
+a) Inštalácia dodaných zariadení a zároveň konfigurácia
+a inštalácia nižšie uvedených produktov:
+
+počet licencií
+
+1
+
+b) Win Server Std Core 2 SL 2016
+
+počet licencií
+
+24
+
+c) Exchange Server Enterprise SL 2016
+
+počet licencií
+
+3
+
+Strana 1 z 5
+
+Minimum
+
+Maximum
+
+Presne
+
+d) Win Svr ECL 2016
+
+počet licencií
+
+3
+
+e) Exchange Standard User CAL 2016
+
+počet licencií
+
+930
+
+f) Windows Server User CAL 2016
+
+počet licencií
+
+220
+
+g) Office O365 Education pre študentov a školy
+
+počet licencií
+
+5000
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+DELL PowerEdge R730xd
+
+Exchange server
+
+2-soketový server triedy x86 osadený dvomi procesormi
+disponujúci štyrmi procesorovými jadrami na ploche
+jedného čipu. Minimálny akceptovateľný výkon plne
+osadeného servera je 375 bodov podľa benchmarku
+SPECint_rate_base2006
+
+a) CPU
+
+64 GB RDIMM 2400MT/s, celkovo min. 24 pamäťových
+slotov, z toho ešte min. 20 slotov voľných na dodatočné
+rozšírenie
+
+b) Pamäť
+
+prevedenie s možnosťou osadiť súčastne min. 12x 3,5"
+HDD a 2x 2,5" HDD v prevedení „Hot-plug“
+
+c) Pevné disky
+
+8x 4TB SATA 6Gbps, 7.2k ot./min. v prevedení Hot-plug
+a 4x 600GB SAS 12Gbps, 10k ot./min. v prevedení
+Hot-plug
+
+d) Osadené pevné disky
+
+možnosť osadiť interný redundantný SD modul s dvomi
+16 GB SD kartami, využitelný na bootovanie OS
+
+e) Interný SD modul
+
+diskový radič, podpora RAID 0, 1, 5, 6, 10, 50, 60, 1 GB
+cache zálohovaná flash, alebo obdobnou technológiou,
+nezaberajúca rozširujúce PCI-e sloty
+
+f) Radič poľa RAID
+
+4x 1 Gbps Base-T
+
+g) Sieťový adaptér
+
+redundantné napájacie zdroje, prevedenie „HotSwap“ s
+min. výkonom 750W
+
+h) Napájacie zdroje
+
+redundantné ventilátory
+
+i) Ventilátory
+
+6 x PCIe 3.0, z toho min. 4x PCIe x8 a 2x PCIe x16
+
+j) PCI rozširujúce sloty
+
+4x USB, 1x sériový port RS-232, 1x D-Sub
+
+k) Porty
+
+Servisný procesor alebo karta pre systémový
+management serveru nezávislý na operačnom systéme
+poskytujúci následujúce management funkcie a
+vlastnosti: web GUI (grafické rozhranie) a dedikovaná IP
+adresa a separátnym RJ45 portom, logovanie udalostí
+do separátnej pamäťovej oblasti a možnosť využit ju na
+driver management (zálohovanie a inštalácia
+ovladačov), sledovanie hardwarových senzorov (teplota,
+napätie, stav, chybové sensory), IPMI funkcionalita,
+prístup na obraz vzdialenej plochy servera aj bez
+spusteneho OS, možnosť zobrazenia konfiguracie
+servera
+
+l) Management a vzdialená správa
+
+a zmeny nastavení pomocou NFC protokolu na
+mobilnom zariadení.
+
+Management a vzdialená správa
+
+max. 2U
+
+m) Prevedenie
+
+ano, vyžaduje sa predložiť
+
+n) Certifikát o zhode
+
+36 mesiacov, odstranenie závad nejneskôr do
+následujúceho pracovného dňa od nahlásenia v mieste
+inštalácie, 24 hodín denne, 365 dní v roku.
+
+o) Záruka
+
+Dell Networking N1048
+
+Sieťový prepínač - 1GbE
+
+Sieťový 1GbE L2/L3 (lite) prepínač
+
+a) Typ zariadenia
+
+Optimalizované na umiestnenie do 19“ rackovej skrine
+
+b) Prevedenie
+
+48x 10/100/1000Mb auto-sensing RJ45 portov, 4x
+10GbE SFP/SFP+ portov.
+
+c) Typ a počet portov
+
+Strana 2 z 5
+
+Možnosť vytvorenia stohu so 4 prepínačmi,
+manažovatelnými ako jeden virtuálny prepínač.
+Stohovacie porty sú požadované ako súčasť prepínača.
+
+d) Stohovanie/Stacking
+
+1.5 MB
+
+e) Pamäť/cache
+
+176 Gbps
+
+f) Kapacita prepínania / Switching capacity
+
+164 Mpps
+
+g) Kapacita preposieľania / Forwarding capacity
+
+Static, RIP
+
+h) L3 funkcie
+
+Podpora Jumbo Frames, Open Flow, Port Mirroring,
+Broadcast storm control, Auto MDI/MDIX, ARP,
+802.1S—Multiple Spanning Tree , 802.1W—Rapid
+Spanning Tree , 802.1Q , 802.1X 802.3x— Flow
+Control , 802.3ac—VLAN Tagging , IGMPv1/v2/v3,
+VLAN podporovaných 512, static routes 256 (IPv4) / 128
+(IPv6), Dynamic routes 256 (IPv4), Počet
+podporovaných MAC adries - 16k.
+
+i) Dalšie funkcionality a požadované parametre
+
+Správa cez webové grafické rozhranie - GUI, príkazový
+riadok CLI. Podpora SNMPv1/v2, RMON, MIB, Telnet,
+SSH, SSL.
+
+j) Správa a bezbečnosť
+
+Voliteľný, dodatočný redundantný zdroj napájania.
+
+k) Napájanie
+
+36 mesiacov, odstranenie závad nejneskôr do
+následujúceho pracovného dňa od nahlásenia v mieste
+inštalácie, 24 hodín denne, 365 dní v roku
+
+l) Záruka
+
+Net shelter 42U - je rackova skrina + APC rack PDU +
+UPS DELL 5000VA s 5kVA Rackmount Battery Pack +
+DAV 2216 + monitor 18.5in LED KMM - monitor do
+racku, 16 kablov
+
+RACK + PDU+ UPS + KVM
+
+Rack s výškou 42U, min. 60cm šírkou, min. 1000cm
+hĺbkou
+
+a) Rack
+
+2x rozvádzač napájania (PDU) zabezpečujúci pripojenie
+všetkých komponentov v racku k záložnému a
+externému zdroju napájania
+
+b) Rozvod napájania v racku
+
+záložný zdroj napájania montovateľný do racku s
+kapacitou minimálne 5.000VA, vrátane rozširujúcej
+batérie pre zvýšenie času napájania v prípade výpadku
+externého napájania, manažovateľný po LAN
+
+c) Záložný zdroj napájania
+
+1x KVM switch s minimálne 16 portami, vrátane 8
+káblov na pripojenie komponentovMonitor a klávesnica
+zasúvateľná do racku, výška max. 1U
+
+d) Príslušenstvo racku
+
+36 mesiacov, odstranenie závad nejneskôr do
+následujúceho pracovného dňa od nahlásenia v mieste
+inštalácie, 24 hodín denne, 365 dní v roku.
+
+e) Záruka na infraštruktúrne komponenty
+
+LoadMaster LM-3000 Load Balancer
+
+Load Balancer
+
+4x 1Gb port
+
+a) Porty
+
+1,7 Gbps
+
+b) Priepustnosť
+
+Rackmount
+
+c) Prevedenie
+
+1000 SSL TPS (2k keys SSL transakcií za sekundu)
+
+d) Akcelerácia
+
+100,000 L7 a 8,600,000 L4
+
+e) Súbežné prepojenia
+
+4GB
+
+f) RAM
+
+Max priepustnosť interface 4 X 949.2Mbps69,000 L7
+(http) odozva za sekundu.
+
+g) Ďalšie parametre
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+
+Strana 3 z 5
+
+Nakoľko sa sa jedná o rozšírenie existujúcej infraštruktúry a je nutné zachovanie jednotného managementu už s existujúcimi
+zariadeniami, nie je umožné ponúknúť ekvivalent riešenia.
+Dodávateľ je povinný predložiť potvrdenie výrobcu, že dodávateľ je certifikovaný predajca predmetu zmluvy do 3 dní od
+nadobudnutia účinnosti zmluvy. Porušenie tejto povinnosti sa považuje za podstatné porušenie zmluvy zo strany dodávateľa.
+Dodávateľ je povinný predložiť potvrdenie výrobcu, že dodávateľ je certifikovaným servisným strediskom do 3 dní od
+nadobudnutia účinnosti zmluvy. Porušenie tejto povinnosti sa považuje za podstatné porušenie zmluvy zo strany dodávateľa.
+Dodávateľ je povinný nastúpiť na servis do 4h od nahlásenia.
+Dodávateľ je povinný predložiť podrobný aktualizovaný rozpočet doplnený o dátové hárky (produktové listy) ponúknutých
+zariadení, z bežne dostupných zdrojov overiteľné aj cez stránku výrobcu do 3 dní od nadobudnutia účinnosti zmluvy.
+Porušenie tejto povinnosti sa považuje za podstatné porušenie zmluvy zo strany dodávateľa.
+Dodávateľ je povinný poskytnúť objednávateľovi bezplatné funkčné vzorky predmetu zmluvy do 6 dní od doručenia požiadavky
+na ich predloženie dodávateľovi.
+Dodávateľ je povinný vykonať implementáciu inštalácie licencií osobne na rôznych lokalitách (cca 80 miest v regióne
+Západného Slovenska), vrátane migrácie.
+Dodávateľ dodá predmet zákazky, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike, resp. v rámci
+Európskej únie a bude vyhovovať platným medzinárodným normám, STN a všeobecne záväzným právnym predpisom.
+Dodávateľ je povinný dodať celý predmet zákazky/plnenia nový, nesmie byť pred dodaním používaný alebo opotrebovaný, či
+testovaný.
+Požadujeme Certifikát systému manažérstva kvality napr. podľa STN EN ISO 9001
+Požadujeme Certifikát systému environmentálneho manažmentu napr. podľa STN EN ISO 14 001
+Požadujeme Certifikát systému manažérstva bezpečnosti informácií napr. podľa STN EN ISO 27001
+Za nedodržanie ktorejkoľvek z vyššie uvedených požiadaviek môže obstarávateľ požadovať zmluvnú pokutu až do výšky 1000
+EUR.
+Zmluvná pokuta je splatná do 15 dní odo dňa doručenia výzvy objednávateľa na zaplatenie zmluvnej pokuty dodávateľovi a to
+na bankový účet objednávateľa uvedený vo výzve.
+Preukázanie odbornej spôsobilosti pre implementačné práce:
+Expert č. 1: Systémový inžinier pre serverové prostredie Windows (v počte 1):
+a) minimálne trojročné odborné skúseností vrátane 3 praktických skúseností v oblasti nasadenia, správy a administrácie
+serverového prostredia Windows (preukáže prostredníctvom životopisu),
+b) získaný a platný certifikát MCSE Server Infrastructure odbornú spôsobilosť pre správu Windows Server prostredia alebo
+ekvivalent daného certifikátu od inej akreditovanej autority (preukáže predložením originálu alebo úradne osvedčenej kópie
+certifikátu).
+Expert č. 2: Systémový inžinier pre serverové prostredie Windows (v počte 1):
+a) minimálne trojročné odborné skúseností vrátane 3 praktických skúseností v oblasti nasadenia, správy a administrácie
+serverového prostredia Windows (preukáže prostredníctvom životopisu),
+b) získaný a platný certifikát MCSA Windows Server 2012 na odbornú spôsobilosť pre správu Windows Server prostredia
+alebo ekvivalent daného certifikátu od inej akreditovanej autority (preukáže predložením originálu alebo úradne osvedčenej
+kópie certifikátu).
+Expert č. 3: Systémový inžinier pre nasadenia a konfiguráciu portálového riešenia (v počte 1):
+a) minimálne trojročné odborné skúseností vrátane 3 praktických skúseností v oblasti nasadenia a konfigurácii portálového
+riešenia (preukáže prostredníctvom životopisu),
+b) získaný a platný certifikát MCTS Microsoft Sharepoint 2010, Configuration na odbornú spôsobilosť pre nasadenia a
+konfiguráciu portálového riešenia alebo ekvivalent daného certifikátu od inej akreditovanej autority (preukáže predložením
+originálu alebo úradne osvedčenej kópie certifikátu).
+Expert č. 4: administrátor na správu mailového serveru (v počte 1):
+a) minimálne trojročné odborné skúseností vrátane 3 praktických skúseností v oblasti správy mailového serveru (preukáže
+prostredníctvom životopisu),
+b) získaný a platný certifikát MC IT Profesional enterprise Messaging Administrator on Exchange na odbornú spôsobilosť v
+oblasti správy mailového servera alebo ekvivalent daného certifikátu od inej akreditovanej autority (preukáže predložením
+originálu alebo úradne osvedčenej kópie certifikátu).
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Strana 4 z 5
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Nitriansky
+
+Okres:
+
+Nitra
+
+Obec:
+Ulica:
+3.2
+
+Čas / lehota plnenia zmluvy:
+29.06.2017 12:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+komplet
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 152 900,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 183 480,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 22.06.2017 14:38:01
+Objednávateľ:
+Nitriansky samosprávny kraj
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+MICROCOMP - Computersystém s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

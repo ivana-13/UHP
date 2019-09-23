@@ -1,0 +1,3714 @@
+Ev. č. 383/18/Mi
+
+Rámcová zmluva o poskytovaní služieb technickej podpory
+SW ARIS
+(ďalej len „zmluva“)
+uzavretá v zmysle § 269 ods. 2 Obchodného zákonníka v platnom znení
+medzi zmluvnými stranami:
+Objednávateľ
+
+Slovenský plynárenský priemysel, a.s.
+
+Sídlo:
+
+Mlynské nivy 44/a
+825 11 Bratislava 26
+Akciová spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I.
+Oddiel Sa, vložka 2749/B
+Splnomocnený zástupca:
+Mgr. Zuzana Lomnická, strategický nákupca
+IČO
+35 815 256
+IČ DPH
+SK2020259802
+DIČ
+2020259802
+Bankové spojenie I.
+VÚB, a.s.
+BIC /SWIFT/
+SUBASKBX
+IBAN/SEPA
+SK85 0200 0000 0000 3110 0012
+Bankové spojenie II.
+Tatra banka, a.s.
+BIC /SWIFT/
+TATRSKBX
+IBAN/SEPA
+SK55 1100 0000 0026 4700 0019
+Osoba oprávnená zastupovať
+Ing. Renáta Črepovská, strategický nákupca
+Objednávateľa vo veciach zmluvných
+Osoba oprávnená zastupovať
+Ing. Martin Páchnik, vedúci odd. komp. centra a vývoja
+Objednávateľa vo veciach technických
+ďalej len „Objednávateľ“
+a
+
+Dodávateľ
+
+itelligence Slovakia, s.r.o.
+
+Sídlo:
+
+Prievozská 4/C
+821 09 Bratislava
+
+Spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I.
+Oddiel Sro, vložka 9677/B
+Zastúpená
+Ing. Martin Déneši, konateľ
+IČO
+31 403 646
+IČ DPH
+SK2020355018
+DIČ
+2020355018
+Bankové spojenie
+Tatra banka, a.s.
+BIC /SWIFT/
+TATRSKBX
+IBAN/SEPA
+SK15 1100 0000 0026 2625 3797
+Osoba oprávnená zastupovať
+Peter Šághy, Sales manager
+Dodávateľa vo veciach zmluvných
+Osoba oprávnená zastupovať
+Peter Šághy, Sales manager
+Objednávateľa vo veciach technických
+ďalej len „Dodávateľ“
+
+1 / 35
+
+1.
+
+2.
+3.
+4.
+5.
+6.
+
+7.
+
+8.
+9.
+10.
+
+DEFINÍCIE
+Softvér ARIS - sa pre účely tejto zmluvy rozumejú softvérové produkty a licencie spoločnosti
+Software AG a používané Objednávateľom ako oprávneným držiteľom licencií v zmysle licenčných
+podmienok, uvedených v Prílohe č. 2 tejto zmluvy. Zoznam a počet licencií softvéru ARIS:
+Názov SW licencií ARIS
+Počet licencií
+ARIS Business Architect (Base system)
+4
+ARIS Business Designer (Base system)
+2
+ARIS Business Publisher (Base system pre 100 pracovísk)
+1
+ARIS Business Server (1-25 uživateľov na Oracle DB)
+1
+Upgrade - sa pre účely tejto zmluvy rozumie aplikácia novej verzie softvéru ARIS.
+Update - sa pre účely tejto zmluvy rozumie aplikácia všeobecne dostupnej súhrnnej opravy
+softvéru ARIS.
+Ostatnými službami sa pre účely tejto zmluvy rozumie poskytovanie školení, konzultácií a
+odborného poradenstva.
+Dodatočným vývojom softvéru ARIS sa pre účely tejto zmluvy rozumie vývoj a úprava dodaného
+softvéru ARIS alebo jeho časti, za podmienok dohodnutých podľa tejto zmluvy.
+Vadou sa pre účely tejto zmluvy rozumie akákoľvek vada, chyba, nedostatok, porucha alebo
+akýkoľvek iný problém softvéru ARIS brániaci jeho riadnemu a/alebo bezchybnému užívaniu
+(vrátane právnych vád softvéru ARIS (časti softvéru ARIS), a/alebo spôsobujúci jeho čiastočnú
+alebo úplnú nefunkčnosť, a/alebo spôsobujúci čiastočné a/alebo úplné obmedzenie jeho
+používania/prevádzky.
+Na účely plnenia predmetu tejto zmluvy vady rozdeľujeme do troch kategórií:
+a) Vada kategórie A – dodaný softvér ARIS nie je použiteľný vo svojich základných funkciách,
+alebo sa vyskytuje kritická funkčná vada znemožňujúca jeho činnosť a zakladajúca možnosť
+vzniku škody.
+b) Vada kategórie B – funkčnosť dodaného softvéru ARIS je vo svojich funkciách znížená tak,
+že tento stav obmedzuje bežnú prevádzku Objednávateľa.
+c) Vady kategórie C – ostatné drobné vady dodaného softvéru ARIS, ktoré nespadajú do
+kategórie vád A a B.
+Termín plnenia – sa pre účely tejto zmluvy rozumie dátum, dokedy bude uskutočnené požadované
+plnenie.
+Človekodňom (MD) sa pre účely tejto zmluvy rozumie 8 (osem) človekohodín strávených 1
+(jedným) pracovníkom Dodávateľa a poskytovaním príslušného plnenia predmetu tejto zmluvy.
+Dcérske spoločnosti - sa pre účely tejto zmluvy rozumejú spoločnosti s minimálne 50 %
+majetkovou účasťou Objednávateľa.
+I.
+PREDMET ZMLUVY
+
+1.
+1.1.
+
+1.2.
+2.
+
+Predmetom tejto zmluvy je:
+záväzok Dodávateľa poskytovať v prospech Objednávateľa za podmienok tejto zmluvy:
+a) služby starostlivosti a údržby k softvéru ARIS, za účelom udržania jeho funkčnosti v zmysle
+podmienok služieb údržby a podpory produktov spoločnosti Software AG, ktoré tvoria Prílohu
+č. 2 tejto zmluvy,
+b) vývoj softvéru ARIS podľa požiaviek Objednávateľa,
+c) ostatné služby podľa požiaviek Objednávateľa;
+záväzok Objednávateľa prevziať výsledky týchto plnení a zaplatiť za ne Dodávateľovi cenu
+v zmysle čl. IV. tejto zmluvy.
+Plnenie tejto zmluvy je možné len na základe čiastkových zmlúv, ktoré Objednávateľ uzatvorí
+s Dodávateľom v prípade potreby poskytnutia služieb, tvoriacich predmet zmluvy (resp. ak sa
+rozhodne požiadať Dodávateľa o poskytnutie služieb). Čiastkové zmluvy môžu mať aj formu
+objednávok, ktoré vystavuje Objednávateľ a akceptuje Dodávateľ. Pre účely tejto zmluvy majú
+pojmy čiastková zmluva a objednávka identický obsah.
+
+2 / 35
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+9.
+
+1.
+
+2.
+
+1.
+1.1.
+
+Objednávateľ je oprávnený požadovať plnenie v rozsahu podľa svojich potrieb, teda aj v menšom
+rozsahu ako je uvedený v bode 1.1. tohto článku. Rozsah a druh plnenia Objednávateľ určí
+v čiastkovej zmluve, resp. objednávke, ktorá musí obsahovať minimálne tieto náležitosti: označenie
+zmluvných strán, rozsah a presnú špecifikáciu požadovaného plnenia (t.j. požadované množstvo,
+rozsah), termín a miesto plnenia a cenu určenú spôsobom dohodnutým v tejto zmluve, dátum
+a podpis oprávnenej osoby Objednávateľa.
+Dodávateľ sa zaväzuje poskytnúť požadované plnenie v rozsahu určenom v objednávke,
+vystavenej v súlade s touto zmluvou, najneskôr v termíne určenom v objednávke. Zmluvné strany
+sa dohodli, že záväzok poskytnúť plnenie na základe objednávky vzniká Dodávateľovi
+akceptovaním objednávky.
+Zmluvné strany sa dohodli, že Objednávateľ zašle vystavenú objednávku Dodávateľovi vo forme
+scanu na e-mailovú adresu Dodávateľa uvedenú v bode 8. tohto článku zmluvy. Dodávateľ sa
+zaväzuje bezodkladne, najneskôr však do dvoch (2) pracovných dní odo jej doručenia akceptovať
+a potvrdiť každú objednávku Objednávateľa vyhotovenú a doručenú v súlade s touto zmluvou.
+Dodávateľ akceptuje a potvrdí objednávku tým spôsobom, že ju podpíše osoba oprávnená konať
+za Dodávateľa, pričom sa uvedie meno, priezvisko a podpis oprávnenej osoby, odtlačok pečiatky
+Dodávateľa a dátum s poznámkou potvrdzujem. Potvrdenú akceptovanú objednávku je Dodávateľ
+povinný zaslať Objednávateľovi naskenovanú na e-mailovú adresu Objednávateľa uvedenú
+v objednávke. Neakceptovanie objednávky vyhotovenej v súlade s touto zmluvou zo strany
+Dodávateľa sa považuje za podstatné porušenie zmluvných povinností.
+Čiastková zmluva, resp. objednávka sa považuje za uzavretú okamihom doručenia potvrdeného
+návrhu čiastkovej zmluvy, resp. objednávky Objednávateľovi. Pre účely uzavretia čiastkovej
+zmluvy, resp. objednávky je rozhodujúci deň doručenia potvrdeného návrhu čiastkovej zmluvy,
+resp. objednávky e-mailom.
+V prípade, ak Objednávateľ zašle Dodávateľovi objednávku označenú ako tzv. „elektronická
+objednávka“ Dodávateľ nie je povinný objednávku podpísať oprávnenou osobou a opatriť ju
+odtlačkom pečiatky Dodávateľa, je však povinný ju do dvoch pracovných dní akceptovať tak, že
+zašle Objednávateľovi súhlas s objednávkou prostredníctvom e-mailu na e-mailovú adresu
+Objednávateľa uvedeného v objednávke. Neakceptovanie objednávky zo strany Dodávateľa sa
+považuje za podstatné porušenie zmluvných povinností.
+E-mailová adresa Dodávateľa pre doručovanie objednávok podľa vyššie uvedených bodov je
+peter.saghy@itelligence.sk.
+V prípade, ak sa zmení e-mailová adresa Dodávateľa určená pre zasielanie objednávky, Dodávateľ
+je povinný o tejto zmene bezodkladne, prostredníctvom e-mailu, informovať Objednávateľa.
+V prípade zmeny e-mailovej adresy pre zasielanie objednávky nie je nutné uzatvárať dodatok
+k tejto Zmluve a postačuje e-mailová informácia podľa predchádzajúcej vety.
+II.
+MIESTO A TERMÍNY PLNENIA ZMLUVY
+Miestom plnenia tejto zmluvy sú prevádzkové priestory Objednávateľa na adrese sídla
+Objednávateľa. Dodávateľ sa zaväzuje poskytovať Objednávateľovi plnenia predmetu zmluvy
+špecifikované v čl. I bod 1.1. tejto zmluvy priebežne počas doby platnosti zmluvy.
+Termíny plnenia budú budú uvedené v konkrétnej objednávke.
+III.
+SPÔSOB POSKYTOVANIA SLUŽIEB
+Služby starostlivosti a údržby k softvéru ARIS
+Počas trvania platnosti tejto zmluvy je Dodávateľ povinný poskytovať Objednávateľovi služby
+starostlivosti a údržby o softvér ARIS nasledovne:
+a) update softvéru ARIS,
+b) upgrade softvéru ARIS,
+c) poskytnutie údržby a podpory softvéru ARIS v termínoch a podľa podmienok služieb údržby a
+podpory produktov spoločnosti Software AG, uvedených v Prílohe č.2,
+d) informovať písomne alebo elektronickou poštou o nových verziách softvéru ARIS bez
+zbytočného odkladu po uvedení na trh,
+e) poskytnúť nevyhnutnú súčinnosť a odbornú spoluprácu pri implementácii update a upgrade
+softvéru ARIS u Objednávateľa.
+
+3 / 35
+
+1.2.
+
+Objednávateľ berie na vedomie, že majiteľ autorských práv k softvéru ARIS je oprávnený
+pozastaviť ďalší vývoj softvéru, alebo jeho jednotlivých súčastí, pričom je svoje rozhodnutie
+povinný oznámiť Objednávateľovi prostredníctvom Dodávateľa najmenej dvanásť (12) mesiacov
+vopred a súčasne ponúknuť Objednávateľovi návrh náhradného riešenia.
+
+2.
+2.1.
+
+Vývoj softvéru ARIS
+Objednávateľ môže kedykoľvek počas platnosti tejto zmluvy požiadať o zmenu a/alebo úpravu
+(doplnenie, rozšírenie) softvéru ARIS.
+Návrh na zmenu/úpravu softvéru ARIS bude predkladaný vo forme formulára „Žiadosť o vývoj /
+zmenu aplikácie“, ktorý je obsahom Prílohy č. 3 tejto zmluvy. Žiadosť o vývoj / zmenu aplikácie
+musí byť odovzdaná Dodávateľovi v písomnej forme a musí obsahovať: popis dodávky (zmena
+a nová funkcionalita, dodanie nových softvérov a licencií, nové komponenty a moduly softvéru
+a pod.), dôvod (účel) dodávky a navrhovaný termín dodávky.
+Žiadosť o vývoj / zmenu predkladá osoba poverená za Objednávateľa alebo ním poverená osoba
+osobe poverenej za Dodávateľa.
+Žiadosť o vývoj / zmenu aplikácie sa stane záväznou, keď zmluvné strany uzavrú čiastkovú zmluvu
+alebo objednávku, v ktorej budú uvedené minimálne tieto náležitosti:
+a) popis požadovanej dodávky a špecifikácia jej realizácie,
+b) termín a spôsob dodania,
+c) cena a podmienky prevzatia,
+d) požadovanú súčinnosť.
+Ku každej Žiadosti o vývoj / zmenu aplikácie vypracuje Dodávateľ stanovisko v termíne vzájomne
+dohodnutom zmluvnými stranami, ktoré zapíše do predloženej Žiadosti o vývoj / zmenu aplikácie
+(časť II. Návrh riešenia – ponuka) a v ktorom uvedie:
+a) či navrhovanú úpravu a/alebo zmenu softvéru ARIS považuje za realizovateľnú,
+b) popis navrhovaného riešenia,
+c) odhad časových a personálnych kapacít a navrhovaných nákladov u Objednávateľa,
+d) predpokladané dopady na softvéru ARIS a informačné systémy tretích strán, s ktorými
+softvéru ARIS komunikuje a potrebné úpravy na strane dotknutých systémov,
+e) navrhovaný spôsob a podmienky akceptácie riešenia,
+f)
+navrhované varianty úpravy a/alebo zmeny softvéru ARIS, pokiaľ také variantné riešenie
+existuje a je relevantné,
+g) definovanie požadovanej súčinnosti Objednávateľa,
+h) termín dodania/realizácie úpravy a/alebo zmeny softvéru ARIS.
+
+2.2.
+
+2.3.
+2.4.
+
+2.5.
+
+2.6.
+
+2.7.
+
+2.8.
+
+Pre vypracovanie stanoviska Objednávateľ poskytne Dodávateľovi súčinnosť nevyhnutnú na jeho
+vypracovanie. Následne Žiadosť o vývoj / zmenu aplikácie doplnenú o stanovisko Dodávateľa
+predloží osoba poverená za Dodávateľa osobe poverenej za Objednávateľa. Osoba poverená za
+Objednávateľa má právo požiadať o spresnenie Žiadosti o vývoj / zmenu aplikácie, pokiaľ
+stanovisko a návrh riešenia Dodávateľa nie je špecifikované jednoznačne, alebo nepokrýva všetky
+súvislosti riešenia. Osoba poverená za Dodávateľa je povinná špecifikáciu najneskôr do desiatich
+(10) pracovných dní doplniť. Zmeny/úpravy softvéru ARIS budú vykonané až následne na základe
+odsúhlasenia a schválenia Objednávateľom. Návrh ponuky zmeny/úpravy softvéru ARIS vypracuje
+Dodávateľ na vlastné náklady.
+Dohodnutý a schválený rozsah prác ohodnotený v MD potrebný pre realizáciu úprav a/alebo
+zmien softvéru ARIS je pre obe zmluvné strany konečný a záväzný. Pri akejkoľvek úprave a/alebo
+zmene softvéru ARIS alebo jeho/jej časti je Dodávateľ povinný doplniť a aktualizovať všetku
+relevantnú dokumentáciu, vrátane používateľskej a technickej dokumentácie (formou aktualizácie
+dotknutých častí dokumentácie). Zmenená a doplnená dokumentácia bude nevyhnutnou súčasťou
+odovzdania úpravy a/alebo zmeny softvéru ARIS do prevádzky. Dodávateľ sa zaväzuje udržiavať
+dokumentáciu zodpovedajúcu aktuálnemu stavu.
+Pri úpravách a/alebo zmenách softvéru ARIS vykonávaných Dodávateľom, je Dodávateľ povinný
+na základe uplatnenej požiadavky Objednávateľa zabezpečiť v prospech pracovníkov
+Objednávateľa alebo jeho pridružených osôb všetky potrebné relevantné školenia používateľov
+a správcov softvéru ARIS v rámci rozsahu konkrétnej úpravy a/alebo zmeny softvéru ARIS.
+Rozsah školení bude určený v návrhu riešenia pre príslušnú úpravu a/alebo zmenu softvéru ARIS
+ako súčasť Žiadosti o vývoj / zmenu aplikácie.
+
+4 / 35
+
+2.9.
+
+2.10.
+
+2.11.
+
+2.12.
+
+2.13.
+
+2.14.
+
+2.15.
+
+3.
+3.1.
+
+3.2.
+
+3.3.
+
+Úpravy a/alebo zmeny softvéru ARIS realizované Dodávateľom budú odovzdané a prevzaté
+preberacím protokolom vystaveným na základe ich písomného akceptovania osobou poverenou za
+Objednávateľa a Dodávateľa na základe splnenia všetkých náležitostí špecifikovaných v Žiadosti
+o vývoj / zmenu aplikácie. Akceptačné testy budú vykonané podľa špecifikácie schválenej osobami
+poverenými za obe zmluvné strany.
+a) Ak sa pri akceptačnom teste vyskytnú vady, ktoré budú znemožňovať užívanie úprav a/alebo
+zmien softvéru ARIS alebo jej častí, alebo budú obmedzovať ich základné používanie (vady
+kategórie A alebo B), po odstránení týchto vád sa vykoná opakovaný test akceptácie.
+b) Ak sa pri akceptačnom teste nevyskytnú vady alebo sa vyskytnú vady iné ako vady kategórie
+A a B, realizácia úprav a/alebo zmien softvéru ARIS sa bude považovať za vykonanú a za
+pripravenú na odovzdanie Objednávateľovi. Osoby poverené za obe zmluvné strany podpíšu
+zápisnicu o výsledkoch akceptačného testu, ako aj protokol o prevzatí úprav a/alebo zmien
+softvéru ARIS do prevádzky a dojednajú primeranú lehotu na odstránenie prípadných vád.
+c) Podmienkou akceptácie pri prevzatí úprav a/alebo zmien softvéru ARIS do prevádzky bude
+odovzdanie aktualizovanej dokumentácie softvéru ARIS podľa požiadaviek Objednávateľa.
+Zmluvné strany sa dohodli, že v prípade neúspešného výsledku opakovaného akceptačného testu
+podľa bodu 2.9 písm. a) tohto článku, v dôsledku čoho predmet plnenia v zmysle čiastkovej zmluvy
+alebo objednávky ako celok nemôže byť prevzatý Objednávateľom, je Objednávateľ oprávnený
+odstúpiť od čiastkovej zmluvy alebo objednávky ako dôsledok podstatného porušenia zmluvných
+povinností a vrátiť Dodávateľovi všetky poskytnuté plnenia predmetu čiastkovej zmluvy alebo
+objednávky, bez nároku na úhradu ceny.
+Zmluvné strany sa dohodli, že za samostatné dielo považujú všetky výsledky plnenia realizované
+na základe čl. I bod 1.1. b) a obsiahnuté v jednej objednávke (t.j. rozsah diela je definovaný
+príslušnou objednávkou).
+Dodávateľ sa podpisom tejto zmluvy súčasne zaväzuje, že dňom odovzdania a Objednávateľom
+potvrdeného prevzatia (preberací protokol) jednotlivých výsledkov plnenia predmetu zmluvy ako
+diela (v zmysle čl. I bod 1.1 b), poskytnúť Objednávateľovi k jednotlivým výsledkom plnenia ako
+autorským dielam územne neobmedzenú, nevýhradnú licenciu na dobu 99 rokov. Objednávateľ je
+oprávnený používať dielo v celom rozsahu na účely, pre ktoré bolo vytvorené, bez obmedzenia
+počtu užívateľov. Objednávateľ je tiež oprávnený vyhotoviť rozmnoženinu diela.
+V prípade rozdelenia alebo zrušenia Objednávateľa bez likvidácie s právnym nástupcom,
+prechádzajú práva a povinnosti v súlade s používaním licenčných práv k dielu uvedených v tomto
+článku na právneho nástupcu.
+Dodávateľ udeľuje Objednávateľovi súhlas na používanie diela aj dcérskymi spoločnosťami
+Objednávateľa (spoločnosti s minimálne 50 % priamou alebo nepriamou majetkovou účasťou
+Objednávateľa), bez úhrady ďalších licenčných poplatkov.
+Dodávateľ sa zaväzuje na základe požiadavky Objednávateľa zabezpečiť udelenie práva na
+prevod licencie k dielu alebo jeho rozmnoženiny na tretiu osobu bez úhrady ďalších licenčných
+poplatkov najneskôr do 30 dní od doručenia takejto požiadavky. Pre účely tohto záväzku sa za
+tretiu osobu považujú dcérske spoločnosti Objednávateľa (spoločnosti s minimálne 50 % priamou
+alebo nepriamou majetkovou účasťou Objednávateľa).
+Ostatné služby
+Dodávateľ je povinný poskytovať Objednávateľovi aj Ostatné služby, ktoré zahŕňajú:
+a)
+školenia užívateľov a správcov softvéru ARIS,
+b)
+konzultácie a/alebo odborné poradenstvo v otázkach, ktoré sa môžu vyskytnúť pri používaní
+softvéru ARIS a ktoré nie je možné vyriešiť pomocou dokumentácie pre softvéru ARIS.
+Dodávateľ bude Ostatné služby poskytovať Objednávateľovi po obojstrannej dohode – uzavretí
+čiastkovej zmluvy, na základe písomnej požiadavky Objednávateľa. Požiadavka musí byť
+potvrdená osobou poverenou za Objednávateľa, inak nie je Dodávateľ oprávnený tieto služby
+realizovať. Ostatné služby budú vykonané na vopred dohodnutom mieste, v dohodnutom čase
+a dohodnutým spôsobom.
+Potvrdením o vykonaní ostatných služieb podľa bodu 3.1 písm. a) tohto článku je prezenčná listina
+podpísaná účastníkom školenia a v prípade požiadavky Objednávateľa vyplnený test o obsahu
+školenia. Dodávateľ o absolvovaní školenia vystaví potvrdenie o absolvovaní školenia pre každého
+účastníka zvlášť.
+
+5 / 35
+
+3.4.
+
+Potvrdením o vykonaní ostatných služieb podľa bodu 3.2 písm. b) tohto článku je protokol
+o poskytnutí konzultácie a odborného poradenstva podpísaný príjemcom konzultácie a/alebo
+odborného poradenstva.
+
+4.
+4.1.
+
+Oprávnené osoby
+Osobou poverenou konať vo veciach realizácie predmetu zmluvy za Objednávateľa je: Ing.
+Miroslav Urban tel. číslo: +421 2 6262 3131 email: miroslav.urban@spp.sk, (osoba poverená
+za Objednávateľa) alebo v prípade jeho neprítomnosti, ním vopred písomnou formou poverená
+osoba. Poverenie inej osoby bude písomne oznámené osobe poverenej Dodávateľom.
+Osoba poverená za Objednávateľa je oprávnená v mene Objednávateľa:
+a) predkladať požiadavky na zmeny a/alebo úpravy softvéru ARIS,
+b) dohodovať podmienky realizácie zmien a/alebo úprav softvéru ARIS,
+c) potvrdzovať výkazy prác,
+d) zabezpečovať poskytovanie súčinnosti Objednávateľa,
+e) podpisovať zápisnice o výsledku akceptačných testov zmien a/alebo úprav softvéru ARIS
+a protokoly o ich odovzdaní a prevzatí do prevádzky,
+
+4.2.
+
+Osobou poverenou konať vo veciach realizácie predmetu zmluvy za Dodávateľa je: Peter Šághy
+tel. číslo: +421 915 752 562 email: peter.saghy@itelligence.sk (osoba poverená za Dodávateľa),
+alebo ním vopred písomnou formou poverená osoba. Poverenie inej osoby bude písomne
+oznámené osobe poverenej za Objednávateľa.
+Osoba poverená za Dodávateľa je oprávnená v mene Dodávateľa:
+a) vypracovať stanovisko k návrhom Objednávateľa na zmenu a/alebo úpravu softvéru ARIS,
+b) dohodovať podmienky realizácie zmien a/alebo úprav softvéru ARIS,
+c) riadiť práce pri úpravách a/alebo zmenách softvéru ARIS, ako aj pri poskytovaní ostatných
+služieb Dodávateľa, týkajúcich sa plnenia predmetu tejto zmluvy,
+d) podpisovať zápisnice o výsledku akceptačných testov zmien a/alebo úprav softvéru ARIS
+a protokoly o ich odovzdaní a prevzatí do prevádzky.
+Zmluvné strany môžu kedykoľvek zmeniť nimi poverenú osobu. Zmena je voči druhej zmluvnej
+strane účinná odo dňa doručenia písomného oznámenia o zmene poverenej osoby.
+Zmluvné strany môžu kedykoľvek zmeniť, alebo doplniť nimi dohodnuté kontaktné čísla a adresy.
+Zmena voči druhej zmluvnej strane je účinná odo dňa doručenia písomného oznámenia o zmene
+kontaktných údajov.
+
+4.3.
+4.4.
+
+1.
+
+2.
+
+3.
+4.
+
+5.
+
+IV.
+CENA
+Zmluvné strany sa dohodli na cene za poskytované plnenie predmetu zmluvy v súlade so zákonom č.
+18/1996 Z. z. o cenách v platnom znení. Ceny sú uvedené bez dane z pridanej hodnoty.
+K fakturovaným cenám bude uplatnená DPH v zmysle platných právnych predpisov.
+Zmluvné strany sa dohodli na cene za poskytované plnenie predmetu zmluvy podľa čl. I bod 1.1 a) vo
+výške uvedenej v Prílohe č. 1 Tabuľka č. 1 tejto zmluvy. V prípade zmeny počtu licencií, cena za
+poskytované plnenie bude určená na základe jednotkových cien plnenia v zmysle Prílohy č.1 Tabuľka
+č. 1, počtu licencií (určí Objednávateľ) a časového obdobia. Jednotkové ceny sú uvedené bez dane
+z pridanej hodnoty. K fakturovaným cenám bude uplatnená DPH v zmysle platných právnych
+predpisov.
+Cena za plnenie podľa čl. I. bod 1.1. a) tejto zmluvy bude fakturovaná štvrťročne, po poskytnutí
+plnenia (uplynutí príslušného štvrťroka) na základe príslušnej čiastkovej zmluvy.
+Cena za plnenie podľa čl. I. bod 1.1. b) a c) tejto zmluvy bude fakturovaná po vykonaní a prevzatí
+plnenia na základe uzavretej čiastkovej zmluvy (objednávky) a oboma zmluvnými stranami
+schváleného preberacieho protokolu. Cena uvedená na faktúre bude určená ako súčin počtu
+človekodní poskytnutých služieb a jednotkovej ceny človekodňa podľa Prílohy č. 1 Tabuľka 2, po
+vykonaní a prevzatí plnenia na základe čiastkovej zmluvy, resp. objednávky. Prílohou faktúry budú
+doklady podľa článku III. bod 2.9 a/alebo bodu 3.3 a/alebo bodu 3.4 tejto zmluvy. Ak bude
+v kalendárnom mesiaci uskutočnených viacero plnení, Dodávateľ môže vystaviť za všetky plnenia
+jednu súhrnnú faktúru
+Zmluvné strany sa dohodli, že v prípade dvoch neúspešných akceptačných testov podľa článku III.
+bod 2.10 tejto zmluvy má Objednávateľ právo pri každom ďalšom akceptačnom testovaní uplatniť si
+u Dodávateľa zľavu z ceny čiastkovej zmluvy alebo objednávky (vykonaného diela). Celková výška
+
+6 / 35
+
+zľavy z ceny sa vypočíta ako súčin vynaložených MD na akceptačné testovanie na strane
+Objednávateľa a ceny za 1 MD prác konzultanta Dodávateľa bez DPH v zmysle Prílohy č. 1 Tabuľka
+2 tejto zmluvy.
+6. V cene plnenia sú zahrnuté všetky náklady Dodávateľa, spojené s plnením predmetu zmluvy.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+V.
+PLATOBNÉ A FAKTURAČNÉ PODMIENKY
+Právo na zaplatenie ceny v zmysle čl. IV. tejto zmluvy vzniká Dodávateľovi na základe faktúry
+vystavenej Dodávateľom po riadnom splnení Objednávateľom objednaného plnenia. Faktúry budú
+vystavené v mene EURO. Prílohou faktúry musí byť akceptačný alebo preberací protokol potvrdený
+Objednávateľom.
+Úhrada ceny za poskytnuté plnenia bude vykonaná bezhotovostným bankovým prevodom bez
+preddavkov na základe faktúr, ktoré vystaví Dodávateľ za každé čiastkové plnenie podľa tejto zmluvy
+(na základe objednávky). Úhrada záväzkov zmluvných strán bude vykonaná v EURO.
+Právo na zaplatenie ceny za plnenie predmetu zmluvy podľa čl. I. bod 1.1. a) vzniká Dodávateľovi
+splnením jeho záväzku, po poskytnutí služby a prevzatí jej výsledkov Objednávateľom, potvrdenom
+preberacím a/alebo akceptačným protokolom po uplynutí príslušného štvrťroka na základe čiastkovej
+zmluvy vo výške ¼ ročnej ceny plnenia podľa Prílohy č. 1 Tabuľka 1.
+Právo na zaplatenie ceny za plnenie predmetu zmluvy podľa čl. I. bod 1.1. b) a c) vzniká
+Dodávateľovi splnením jeho záväzku, po dodaní a prevzatí jej výsledkov Objednávateľom,
+potvrdenom preberacím a/alebo akceptačným protokolom na základe príslušnej čiastkovej
+zmluvy/objednávky vo výške dohodnutej v príslušnej čiastkovej zmluve/objednávke.
+Faktúra musí obsahovať všetky náležitosti v zmysle platných právnych predpisov a ďalej musí
+obsahovať: označenie, že ide o faktúru; IČO a bankové spojenie oboch zmluvných strán vo forme
+IBAN a BIC /SWIFT/; číslo objednávky zaevidovanej v SAPe; odpočet uhradených záloh (v prípade
+existencie záloh); sumu celkom k úhrade v mene, v ktorej sa bude uhrádzať.
+Faktúra ďalej môže obsahovať: číslo zmluvy (vrátane platných dodatkov); pečiatku vystavovateľa
+faktúry; miesto plnenia; konštantný symbol; dohodnutú formu úhrady; meno, podpis a telefonické / emailové spojenie zodpovedného pracovníka vystavovateľa; deň splatnosti faktúry (potrebné uvádzať
+počet dní od doručenia faktúry).
+V prípade, že faktúra nebude obsahovať dohodnuté náležitosti podľa tejto zmluvy, Objednávateľ je
+oprávnený faktúru vrátiť bez zaplatenia. Oprávneným vrátením faktúry prestáva plynúť lehota
+splatnosti a táto plynie celá znovu odo dňa doručenia novej (opravenej) faktúry.
+Bankové spojenie veriteľa vo forme IBAN a SWIFT /BIC/ uvedené na faktúre musí byť zhodné
+s bankovým spojením dohodnutým v zmluve. V opačnom prípade je dlžník oprávnený uhradiť
+fakturovanú sumu na bankové spojenie uvedené na faktúre. V prípade uvedenia nesprávneho
+bankového spojenia vo formáte IBAN a SWIFT /BIC/ alebo rozdielneho bankového spojenia vo
+formáte IBAN a SWIFT /BIC/ v zmluve a vo faktúre zo strany veriteľa, dlžník nezodpovedá za
+prípadnú škodu, ktorá môže v dôsledku takto nesprávne adresovanej úhrady vzniknúť; v prípade, ak
+z takéhoto dôvodu škoda vznikla na ťarchu dlžníka, dlžník má právo uplatniť si náhradu škody
+u veriteľa, ktorý škodu spôsobil, a to v plnej výške formou vystavenej faktúry.
+Tuzemský dodávateľ: Bankové poplatky dlžníka znáša dlžník, bankové poplatky veriteľa znáša
+veriteľ.
+Zahraničný dodávateľ: Bankové poplatky na území SR bude znášať Objednávateľ, bankové poplatky
+v zahraničí bude znášať Dodávateľ.
+V prípade porušenia zmluvnej podmienky, súvisiacej s úhradou, znáša všetky bankové poplatky tá
+zmluvná strana, ktorá porušenie zavinila.
+Zmluvné strany postupujú pri vysporiadaní svojich daňových povinností podľa platných právnych
+predpisov štátu, v ktorom sú rezidentmi a v súlade s platnými medzinárodnými právnymi normami s
+vylúčením možnosti prevzatia daňovej povinnosti za obchodného partnera.
+Lehota splatnosti faktúr je 60 dní odo dňa ich doručenia druhej zmluvnej strane. Za deň splnenia
+peňažného záväzku sa považuje deň odpísania dlžnej sumy z účtu dlžníka v prospech účtu veriteľa.
+Pokiaľ posledný deň lehoty splatnosti pripadne podľa slovenského kalendára na deň pracovného
+voľna, pokoja alebo sviatok ako deň splnenia peňažného záväzku bude zmluvným partnerom za
+rovnako dohodnutých cenových a platobných podmienok akceptovaný nasledujúci prvý pracovný
+deň.
+
+7 / 35
+
+11. Vystavené faktúry budú zaslané na adresu sídla Objednávateľa: Slovenský plynárenský priemysel,
+a.s., Mlynské nivy 44/a, 825 11 Bratislava.
+12. Zmluvné strany sa dohodli, že žiadna zmluvná strana nesmie previesť svoje práva vyplývajúce z tejto
+zmluvy bez predchádzajúceho písomného súhlasu druhej zmluvnej strany. V opačnom prípade je
+takýto prevod práv neplatný. Súhlas podľa predchádzajúcej vety sa nevyžaduje v prípadoch
+postúpenia tejto zmluvy, vcelku alebo sčasti, v rámci Podniku, ktorého súčasťou je zmluvná strana,
+alebo na právneho nástupcu, kedy sa súhlas druhej zmluvnej strany nevyžaduje. Dodávateľ je
+povinný takúto zmenu Objednávateľovi písomne oznámiť do 10 dní od kedy nastala takáto
+skutočnosť.
+13. Obe zmluvné strany vylučujú postúpenie pohľadávky/záväzku bez predchádzajúcej písomnej dohody.
+VI.
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+DAŇOVÉ PODMIENKY
+Ak Dodávateľ nemá sídlo v SR, je povinný predložiť Objednávateľovi úradne overené potvrdenie
+daňového (finančného) úradu o daňovom domicile (rezidencii), najneskôr do 10 dní odo dňa uzavretia
+tejto zmluvy, ak tak neurobil pri uzavretí tejto zmluvy.
+Ak Dodávateľ nemá sídlo v SR, je povinný predložiť čestné prehlásenie o tom, či má alebo nemá na
+území Slovenskej republiky stálu prevádzkareň v zmysle právnych predpisov platných v Slovenskej
+republike, resp. príslušnej zmluvy o zamedzení dvojitého zdanenia (ďalej len „medzinárodná zmluva“)
+pri uzavretí zmluvy, najneskôr do 10 dní odo dňa uzavretia zmluvy, ak tak neurobil pri uzavretí
+zmluvy. Ak Dodávateľovi vznikne na území Slovenskej republiky stála prevádzkareň po uzavretí
+zmluvy, je povinný o tejto skutočnosti bezodkladne informovať Objednávateľa.
+Ak Dodávateľ nemá sídlo v SR ale bude realizovať predmet zmluvy prostredníctvom svojej
+organizačnej zložky umiestnenej na území SR, je povinný predložiť Objednávateľovi pri uzavretí
+zmluvy, najneskôr do 10 dní odo dňa uzavretia zmluvy, úradne overenú kópiu výpisu z Obchodného
+registra tejto organizačnej zložky, nie staršieho ako 3 mesiace.
+V prípade, že Dodávateľ je rezidentom členského štátu EÚ a má na území SR organizačnú zložku
+alebo stálu prevádzkareň, je povinný pri uzavretí zmluvy alebo najneskôr do 10 dní odo dňa uzavretia
+zmluvy predložiť Objednávateľovi prehlásenie, že podlieha zdaneniu na území toho členského štátu
+EÚ z príjmov zo zdroja na území, ako aj mimo územia tohto členského štátu EÚ, pričom Dodávateľ
+nie je považovaný na území SR za daňovníka s neobmedzenou daňovou povinnosťou.
+Ak Dodávateľ, ktorý nie je rezidentom členského štátu, ale má na území SR organizačnú zložku
+alebo stálu prevádzkareň, je povinný predložiť Objednávateľovi úradne osvedčené kópie osvedčenia
+o registrácii za platiteľa dane z príjmov na území Slovenskej republiky a (právoplatného) rozhodnutia
+príslušného správcu dane o tom, že platí preddavky na daň podľa zákona o dani z príjmov platného a
+účinného v Slovenskej republike, najneskôr do 10 dní odo dňa uzavretia zmluvy, ak tak neurobil pri
+uzavretí zmluvy. V prípade, že Dodávateľ predloží vyššie uvedené doklady včas, Objednávateľ
+nezrazí príslušnú sumu na zabezpečenie dane, prípadne bude postupovať podľa toho, ako bude
+uvedené v rozhodnutí príslušného správcu dane.
+Ak má Dodávateľ na území SR organizačnú zložku alebo stálu prevádzkareň a nepredloží
+rozhodnutie príslušného správcu dane o platení preddavkov na daň z príjmov, v takom prípade
+Objednávateľ zrazí z platieb príslušnú sumu na zabezpečenie dane v súlade so zákonom o dani
+z príjmu platným a účinným v SR, resp. v súlade s medzinárodnou zmluvou, ktorá má prednosť pred
+týmto zákonom, a to v deň úhrady. V prípade, že Dodávateľ platí preddavky na daň z príjmov, avšak
+príslušný správca dane rozhodol vo veci zrážania preddavkov na zabezpečenie dane inak, bude
+Objednávateľ postupovať podľa tohto rozhodnutia správcu dane.
+Ak Dodávateľovi po podpise tejto zmluvy vznikne na území SR stála prevádzkareň, pričom o tejto
+skutočnosti neinformuje Objednávateľa, Dodávateľ vyhlasuje a zároveň sa zaväzuje kompenzovať
+Objednávateľovi zabezpečenie dane, pokuty a úroky, ktoré môžu Objednávateľovi vzniknúť v
+dôsledku nezrazenia preddavku na zabezpečenie dane, kde takéto nezrazenie vyplynulo z porušenia
+oznamovacej alebo inej povinnosti Dodávateľa voči Objednávateľovi, Objednávateľ môže požadovať
+vyššie uvedenú kompenzáciu najskôr v deň doručenia platobného výmeru vydaného príslušným
+daňovým úradom adresovaného Objednávateľovi.
+V prípade, že Dodávateľ je na území Slovenskej republiky registrovaným platiteľom DPH, predloží
+Objenávateľovi aj úradné osvedčenie o registrácii za platiteľa DPH s aktuálnym dátumom vydania.
+V prípade, že Dodávateľ je registrovaným platiteľom DPH v inom členskom štáte EÚ a predmet tejto
+zmluvy bude vykonávať ako platiteľ DPH registrovaný k DPH v inom členskom štáte EÚ (príslušný
+
+8 / 35
+
+9.
+
+10.
+
+11.
+
+12.
+13.
+
+členský štát EÚ mu pridelil IČ DPH), je rovnako povinný predložiť Objednávateľovi úradne overenú
+kópiu osvedčenia o registrácii za platiteľa DPH v krajine, ktorá ho za platiteľa k DPH zaregistrovala
+(ktorá mu pridelila IČ DPH, pod ktorým vykonáva predmet tejto zmluvy).
+V prípade, že Dodávateľ bude realizovať predmet zmluvy prostredníctvom svojej organizačnej zložky
+alebo stálej prevádzkarne umiestnenej na území SR, pričom táto organizačná zložka alebo stála
+prevádzkareň je platiteľom DPH v SR, Dodávateľ je povinný predložiť Objednávateľovi aj úradne
+overenú kópiu osvedčenia o registrácii za platiteľa DPH s aktuálnym dátumom overenia.
+Ak z akéhokoľvek dôvodu správca dane vráti Dodávateľ zrazený a odvedený preddavok na
+zabezpečenie dane prostredníctvom platiteľa dane, t.j. prostredníctvom Objednávateľa, bude
+táto suma dane poukázaná na účet Dodávateľa vo výške a v mene uvedenej v rozhodnutí
+príslušného správcu dane, maximálne však do výšky zrazenej dane v cudzej mene.
+Zmluvné strany sa zaväzujú akceptovať akékoľvek legislatívne zmeny v právnom poriadku
+Slovenskej republiky, vrátane zmien v daňových zákonoch, ktoré sa dotknú zmluvy a budú
+rešpektovať ich aplikáciu počas doby ich platnosti. Dodávateľ sa zaväzuje akúkoľvek zmenu vo
+svojom vzťahu k daňovým povinnostiam voči SR ihneď konzultovať s Objednávateľom a na
+vyžiadanie predloží Objednávateľovi všetky podklady potrebné pre riadne vysporiadanie svojich
+daňových povinností.
+Zmluvné strany vylučujú postúpenie pohľadávky/záväzku bez predchádzajúcej písomnej dohody.
+Dodávateľ, ktorý je platiteľom dane v zmysle zákona č. 222/2004 Z.z. o dani z pridanej hodnoty
+v znení neskorších predpisov („zákon o DPH“) vyhlasuje, že ku dňu uzavretia zmluvy u neho
+nenastali dôvody na zrušenie registrácie pre daň z pridanej hodnoty podľa § 81 ods. 4 písm. b)
+druhého bodu zákona o DPH a/alebo nie je zverejnený v príslušnom zozname platiteľov dane z
+pridanej hodnoty, u ktorých nastali dôvody na zrušenie registrácie vedenom Finančným riaditeľstvom
+Slovenskej republiky v zmysle ustanovenia § 69 ods. 14 písm. b) a § 69 ods. 15 zákona o DPH (ďalej
+aj ako „zoznam DPH platiteľov vedený Finančným riaditeľstvom Slovenskej republiky“) .
+Dodávateľ vyhlasuje, že ku dňu uzavretia zmluvy jeho štatutárny orgán, člen štatutárneho orgánu
+alebo spoločník nie je štatutárnym orgánom, členom štatutárneho orgánu alebo spoločníkom
+Objednávateľa.
+V prípade, ak kedykoľvek po uzavretí zmluvy a pred zánikom zmluvy
+a) nastanú u Dodávateľa dôvody na zrušenie registrácie pre daň z pridanej hodnoty podľa § 81
+ods. 4 písm. b) druhého bodu zákona o DPH a/alebo Dodávateľ bude zverejnený v príslušnom
+zozname DPH platiteľov vedenom Finančným riaditeľstvom Slovenskej republiky, alebo
+b) štatutárny orgán, člen štatutárneho orgánu alebo spoločník Dodávateľa sa stane štatutárnym
+orgánom, členom štatutárneho orgánu alebo spoločníkom Objednávateľa okrem prípadu, ak je
+Dodávateľom spoločnosť, v ktorej má Objednávateľ priamu majetkovú účasť alebo ak je
+Dodávateľom spoločnosť, ktorá má priamu majetkovú účasť v spoločnosti Objednávateľa,
+alebo
+c) vstúpi Dodávateľ do likvidácie, začne sa voči Dodávateľovi konkurzné konanie alebo
+reštrukturalizačné konanie,
+sa Dodávateľ zaväzuje najneskôr do 3 dní od vzniku tejto skutočnosti písomne oznámiť vznik tejto
+skutočnosti Objednávateľovi. V prípade, že Dodávateľ v stanovenej lehote neoznámi písomne vznik
+niektorej zo skutočností uvedených v písm. a), b) a c) tohto bodu Objednávateľovi, je Objednávateľ
+oprávnený vyúčtovať Dodávateľovi zmluvnú pokutu vo výške 2 000,- €. Dodávateľ je povinný
+Objednávateľom vyúčtovanú zmluvnú pokutu zaplatiť Objednávateľovi. Zaplatením zmluvnej pokuty
+nie je dotknutý nárok Objednávateľa na náhradu vzniknutej škody v celom rozsahu.
+V prípade, ak kedykoľvek po uzavretí zmluvy a pred zánikom zmluvy vznikne (nastane) ktorákoľvek
+zo skutočností uvedených v písm. a), b) a c) tohto bodu vyššie, má Objednávateľ právo zadržať
+z ceny plnenia alebo z častí ceny plnenia fakturovaných Dodávateľom podľa zmluvy, čiastku vo výške
+zodpovedajúcej výške dane z pridanej hodnoty uvedenej na príslušnej faktúre (ďalej aj ako
+„nevyplatená čiastka z ceny plnenia“). Vo vzťahu k nevyplatenej čiastke z ceny plnenia sa
+Objednávateľ nedostáva do omeškania ani sa nedopúšťa iného porušenia zmluvy, ak nevyplatenú
+čiastku z ceny plnenia vysporiada alebo použije podľa ustanovení tohto bodu.
+Objednávateľ uhradí Dodávateľovi nevyplatenú čiastku z ceny plnenia bezodkladne po tom, čo
+Dodávateľ Objednávateľovi preukáže, že daň z pridanej hodnoty uvedenú na faktúre pre
+Objednávateľa podľa zmluvy v plnej výške odviedol príslušnému daňovému úradu.
+Ak daňový úrad rozhodnutím uloží Objednávateľovi ako ručiteľovi uhradiť Dodávateľom nezaplatenú
+daň z pridanej hodnoty (ďalej aj ako „nezaplatená daň“), Objednávateľ túto skutočnosť bezodkladne
+oznámi Dodávateľovi. Dodávateľ je povinný bezodkladne, najneskôr však do 3 dní odo dňa doručenia
+
+9 / 35
+
+oznámenia Objednávateľa podľa predchádzajúcej vety, poskytnúť Objednávateľovi všetky informácie
+a dokumenty, na základe ktorých možno uplatniť námietky voči povinnosti Objednávateľa ako ručiteľa
+uhradiť daňovému úradu Dodávateľom nezaplatenú daň. Komunikácia medzi zmluvnými stranami
+môže byť v tomto prípade realizovaná e-mailom na adresu Dodávateľa peter.saghy@itelligence.sk
+a adresu Objednávateľa dph@spp.sk a zoscanovanými prílohami, na požiadanie je každá zo
+zmluvných strán povinná potvrdiť druhej zmluvnej strane príslušné oznámenie písomne. Dokumenty
+umožňujúce uplatnenie námietky voči povinnosti Objednávateľa ako ručiteľa uhradiť daňovému úradu
+dodávateľom nezaplatenú daň je Dodávateľ povinný poskytnúť Objednávateľovi v origináli alebo
+v notársky overenej kópii.
+Ak daňový úrad uloží Objednávateľovi ako ručiteľovi povinnosť uhradiť Dodávateľom nezaplatenú
+daň, Objednávateľ je oprávnený použiť nevyplatenú čiastku z ceny plnenia na úhradu takejto
+nezaplatenej dane. Objednávateľ ako ručiteľ je oprávnený použiť na úhradu Dodávateľom
+nezaplatenej dane na základe rozhodnutia daňového úradu akúkoľvek nevyplatenú čiastku z ceny
+plnenia, vrátane nevyplatených čiastok z ceny plnenia z iných faktúr vystavených Dodávateľom
+Objednávateľovi, a to aj na základe iných zmlúv uzavretých medzi Objednávateľom a Dodávateľom.
+Objednávateľ je oprávnený, nie však povinný, uplatniť akékoľvek opravné prostriedky proti
+rozhodnutiu daňového úradu, ktorým Objednávateľovi ako ručiteľovi uloží zaplatiť Dodávateľom
+nezaplatenú daň. V prípade rozhodnutia Objednávateľa o podaní opravného prostriedku je Dodávateľ
+povinný poskytnúť Objednávateľovi plnú súčinnosť. O použití príslušnej nevyplatenej čiastky z ceny
+plnenia na úhradu Dodávateľom nezaplatenej dane bude Objednávateľ informovať Dodávateľa.
+Dodávateľ nemá nárok na vyplatenie nevyplatenej čiastky z ceny plnenia, ktorú Objednávateľ použil
+podľa tohto bodu. Objednávateľ je oprávnený postupovať podľa tohto odseku bez ohľadu na
+vykonanie oznámení podľa predchádzajúceho odseku.
+Ak Objednávateľ ako ručiteľ uhradí daňovému úradu Dodávateľom nezaplatenú daň a z akéhokoľvek
+dôvodu nebude pre Objednávateľa možné alebo vhodné použiť na úhradu nevyplatenú čiastku
+z ceny plnenia, vzniká Objednávateľovi pohľadávka voči Dodávateľovi vo výške takto zaplatenej dane
+(ďalej aj ako „Pohľadávka“). O zaplatení dane z titulu ručenia za Dodávateľa bez použitia
+nevyplatenej čiastky z ceny plnenia bude Objednávateľ informovať Dodávateľa. Vzniknutá
+Pohľadávka sa stáva splatnou dňom nasledujúcim po dni odpísania zaplatenej dane z účtu
+Objednávateľa. Objednávateľ je oprávnený jednostranne si započítať Pohľadávku proti akejkoľvek
+pohľadávke alebo pohľadávkam Dodávateľa voči Objednávateľovi, a to bez ohľadu na skutočnosť, či
+sú splatné alebo nesplatné. Objednávateľ je tiež oprávnený vymáhať voči Dodávateľovi zaplatenie
+Pohľadávky všetkými právnymi prostriedkami. Pre vylúčenie pochybností platí, že Dodávateľ nie je
+oprávnený jednostranne si započítať nevyplatenú čiastku z ceny plnenia proti Pohľadávke ani proti
+akýmkoľvek iným pohľadávkam Objednávateľa voči Dodávateľovi a Dodávateľ tiež nie je oprávnený
+postúpiť pohľadávku spočívajúcu v nevyplatenej čiastke z ceny plnenia na tretiu osobu bez
+predchádzajúceho písomného súhlasu Objednávateľa.
+Ustanovenia tohto bodu majú prednosť pred akýmikoľvek odchylnými ustanoveniami zmluvy
+a zostávajú zachované aj v prípade zániku zmluvy, týmto zmluvné strany vylučujú vo vzťahu k tomuto
+bodu aplikovateľnosť ustanovenia § 273 ods. 2 Obchodného zákonníka. zmluvné strany výslovne
+vylučujú oprávnenie Dodávateľa ako dlžníka podľa ustanovenia § 309 Obchodného zákonníka na
+uplatnenie námietok voči Objednávateľovi ako ručiteľovi, ak Objednávateľ ako ručiteľ uhradí z titulu
+ručenia daň nezaplatenú Dodávateľom ako dlžníkom bez vedomia Dodávateľa.
+VII.
+PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+1. Dodávateľ je povinný plniť túto zmluvu prostredníctvom vhodného a odborne kvalifikovaného
+personálu. Objednávateľ má právo v odôvodnených prípadoch jednotlivých členov personálu
+Dodávateľa odmietnuť.
+2. Dodávateľ sa zaväzuje udržiavať aktuálny stav poznatkov o softvéri ARIS, ktorý je predmetom
+starostlivosti a údržby v zmysle tejto zmluvy. Ak by na základe starostlivosti softvéru ARIS došlo
+v ňom k podstatným zmenám, Dodávateľ sa na základe uplatnenej požiadavky Objednávateľa,
+zaväzuje vykonať školenia jednotlivých užívateľov a správcov, za vopred písomne dohodnutých
+podmienok.
+3. Objednávateľ je povinný poskytnúť Dodávateľovi súčinnosť, nevyhnutne potrebnú na splnenie
+predmetu tejto zmluvy, najmä umožniť Dodávateľovi primeraný prístup k príslušnému softvéru ARIS,
+ako aj použitie ďalšieho súvisiaceho zariadenia alebo pamäťových médií, nevyhnutných pre výkon
+služieb starostlivosti a údržby podľa tejto zmluvy.
+
+10 / 35
+
+4. Objednávateľ je povinný používať softvér ARIS podľa používateľskej a administrátorskej
+dokumentácie alebo podľa inštrukcií Dodávateľa. Objednávateľ nesmie vykonávať žiadne úpravy
+alebo opravy softvéru ARIS a prevádzkového prostredia, ktoré neodporúča používateľská,
+administrátorská, produktová a technická dokumentácia dodávaná vlastníkom softvéru alebo
+Dodávateľom.
+5. Objednávateľ je zodpovedný za udržovanie aktuálnych záložných kópií prevádzkovaného softvéru
+ARIS tak, aby tieto boli prístupné v prípade, ak budú potrebné pri riešení problému.
+6. Dodávateľ je povinný poskytovať Objednávateľovi raz štvrťročne report o uskutočnených službách
+v rámci plnenia na základe tejto zmluvy v štruktúre podľa predmetu zmluvy.
+7. Objednávateľ urobí všetky potrebné opatrenia na to, aby v súvislosti s plnením predmetu zmluvy na
+pracoviskách Objednávateľa zaistil bezpečnosť svojich zamestnancov ako i bezpečnosť
+zamestnancov Dodávateľa.
+8. Dodávateľ sa zaväzuje
+a) dodržiavať právne predpisy na zaistenie BOZP a PO; dodržiavať ostatné predpisy, zásady
+bezpečnej práce, zásady ochrany zdravia pri práci a zásady bezpečného správania na
+pracoviskách Objednávateľa, určené pracovné postupy a interné pokyny Objednávateľa na
+zaistenie BOZP a PO, s ktorými bol vopred preukázateľne oboznámený a písomne súhlasil s ich
+dodržiavaním,
+b) vykonávať iba práce, obsluhovať iba stroje a zariadenia a používať látky, ktoré sú určené
+špecifikáciou predmetu zmluvy a ktoré neohrozujú zamestnancov Objednávateľa a ktoré mohol
+rozpoznať pri vynaložení primeranej odbornej starostlivosti a/alebo sú obvykle používané pri
+plnení podobných povinností dodávateľov z oblasti výpočtovej techniky,
+c) v súvislosti s plnením zmluvy náležite inštalovať, používať a udržiavať bezpečnostné a ochranné
+zariadenia nevyhnutné pre ochranu zamestnancov Objednávateľa s ktorými ho Objednávateľ
+vopred preukázateľne oboznámil,
+d) plniť predmet zmluvy iba zamestnancami a osobami, konajúcimi v jeho mene, ktorým bol
+Objednávateľom udelený súhlas na vstup do jeho objektov,
+e) plniť predmet zmluvy v prípade onsite podpory až po absolvovaní školenia BOZP a ochrany pred
+požiarmi jeho zamestnancov alebo osôb konajúcich v jeho mene v rozsahu vyplývajúcom pre
+dodávateľov zo všeobecne záväzných právnych predpisov a ďalej v intervaloch určených
+Objednávateľom.
+9. Dodávateľ je povinný:
+a) vybaviť svojich zamestnancov s viditeľným označením logom firmy dodávateľa,
+b) zabezpečiť pohyb svojich zamestnancov a ďalších osôb, konajúcich v jeho mene len na
+pracoviskách a priestoroch súvisiacich s plnením predmetu tejto zmluvy.
+10. Dodávateľ akceptuje, že služby a softvér ARIS ním poskytované v zmysle tejto zmluvy budú v plnom
+rozsahu využívané aj dcérskymi spoločnosťami Objednávateľa (spoločnosti s minimálne 50 %
+priamou alebo nepriamou majetkovou účasťou Objednávateľa), pričom tieto dcérske spoločnosti nie
+sú zmluvnými stranami tejto Zmluvy na strane Objednávateľa.
+11. Zoznam osôb vrátane kontaktných údajov (tel. číslo, email), ktoré môžu konať vo veciach realizácie
+predmetu tejto zmluvy za Objednávateľa a Dodávateľa si zmluvné strany doručia do seidmich dní od
+podpsiu zmluvy zmluvnými stranami. V prípade neprítomnosti poverenej osoby,môže v jej mene
+konať ňou vopred písomnou formou poverená osoba. Poverenie inej osoby bude písomne oznámené
+osobe poverenej druhej zmluvnej strany.
+12. Zmluvné strany môžu kedykoľvek počas platnosti tejto zmluvy meniť kontaktné údaje o osobách, emailových adresách, telefónnych číslach a adresách miesta plnenia a to písomným oznámením
+doručeným druhej zmluvnej strane.
+13. Objednávateľ je povinný Dodávateľovi písomne oznámiť zmenu počtu objednávaných licencií na
+nasledujúci kalendárny rok najneskôr do 30.9.
+VIII.
+ZODPOVEDNOSŤ ZA VADY A ZÁRUKA
+1. Dodávateľ zodpovedá za bezchybné vykonávanie podporných služieb starostlivosti a údržby
+tvoriacich predmet plnenia tejto zmluvy podľa čl. I. bod 1.1 a), t.j. za to, že tieto služby budú
+poskytované s vynaložením primeranej odbornej starostlivosti a budú zodpovedať aktuálnemu popisu
+príslušnej služby, uvedenému v Prílohe č. 2 tejto zmluvy, vrátane kritérií plnenia, ako aj za to, že tieto
+služby vykonáva v súlade so všeobecne záväznými právnymi predpismi a technickými normami.
+
+11 / 35
+
+2. Dodávateľ poskytuje na výsledky plnenia služieb a funkčné úpravy a/alebo zmeny softvéru ARIS
+záruku v trvaní tri (3) mesiace, ktorej dĺžku upravujú štandardné záručné podmienky spoločnosti
+Software AG. Záručná doba začína plynúť odo dňa protokolárneho prevzatia výsledku plnenia
+Objednávateľom. Počas záručnej doby vzniká Objednávateľovi právo požadovať a Dodávateľovi
+povinnosť odstrániť vzniknuté vady bez ďalšej úhrady nákladov, najneskôr v lehotách podľa typu
+vady uvedenom v bode 3. tohto článku od nahlásenia príslušnej vady Dodávateľovi (telefonicky alebo
+e-mailového oznámenia), ak sa zmluvné strany nedohodnú inak.
+3. Objednávateľ je povinný u Dodávateľa písomne reklamovať vadu poskytnutého plnenia bez
+zbytočného odkladu po jej zistení a Dodávateľ je povinný ju odstrániť bez zbytočného odkladu po
+oznámení vady, najneskôr v lehote podľa Prílohy č. 2 tejto zmluvy.
+4. V prípade, ak Dodávateľ nezabezpečí odstránenie vady v zmysle bod 2 tohto článku a funkčnosť
+softvéru ARIS tak, ako bola popísaná v používateľskej, produktovej alebo technickej dokumentácii je
+vážne poškodená, alebo naďalej neplní svoje funkcie, alebo je vada neodstrániteľná (nefunkčnosť),
+pričom vada nie je spôsobená vlastnosťou/chybou softvéru ARIS, má Objednávateľ právo požadovať
+primerané zníženie cien služieb (zľavu) za dobu tejto nefunkčnosti, od momentu oznámenia
+reklamovanej vady do doby jej odstránenia, ak sa zmluvné strany nedohodnú inak.
+IX.
+ZODPOVEDNOSŤ ZA ŠKODU
+1. Ak poruší jedna zmluvná strana svoje povinnosti alebo akýkoľvek záväzok, vyplývajúci z tejto
+zmluvy, je povinná nahradiť preukázateľnú priamu škodu tým spôsobenú druhej zmluvnej strane. Za
+škodu sa považuje skutočná škoda, ušlý zisk a náklady vzniknuté poškodenej zmluvnej strane
+v súvislosti so škodovou udalosťou v rámci tejto zmluvy ako priamy dôsledok takéhoto porušenia.
+2. Zmluvná strana, ktorá porušila svoju povinnosť alebo akýkoľvek záväzok, vyplývajúci z tejto zmluvy,
+sa môže zbaviť zodpovednosti na náhradu škody, ak preukáže, že k porušeniu povinnosti alebo
+akéhokoľvek záväzku, vyplývajúceho z tejto zmluvy, došlo v dôsledku porušení povinností druhej
+zmluvnej strany alebo okolností vylučujúcich zodpovednosť, v zmysle §374 Obchodného zákonníka.
+
+1.
+
+2.
+
+3.
+
+4.
+
+X.
+ZMLUVNÉ SANKCIE
+V prípade neplnenia alebo porušenia povinností Dodávateľa s plnením podporných služieb
+starostlivosti a údržby podľa čl. I bod 1.1. a) v zmysle podmienok a termínov, uvedených v čl. III bod
+1. a Prílohe č. 2 tejto zmluvy, je Objednávateľ oprávnený fakturovať Dodávateľovi zmluvnú pokutu vo
+výške 0,2 % z celkovej štvrťročnej ceny podporných služieb, určenej podľa Prílohy č. 1, za príslušný
+štvrťrok, v ktorom došlo k omeškaniu, a to za každý aj začatý deň omeškania, a to za každé
+omeškanie zvlášť, ak sú termíny plnenia uvedené v dňoch alebo zmluvnú pokutu vo výške 0,02 %
+z celkovej štvrťročnej ceny podporných služieb, určenej podľa Prílohy č. 1 za príslušný štvrťrok,
+v ktorom došlo k omeškaniu, a to za každú hodinu omeškania a za každé omeškanie zvlášť, ak sú
+termíny plnenia uvedené v hodinách.
+V prípade omeškania Dodávateľa s plnením služieb podľa článku I. ods. 1. bod 1.1. písm. b) a c)
+v termínoch uvedených v tejto zmluve alebo dohodnutých v čiastkovej zmluve (objednávke), je
+Objednávateľ oprávnený fakturovať Dodávateľovi zmluvnú pokutu vo výške 0,05 % z celkovej ceny
+plnenia príslušnej čiastkovej zmluvy/objednávky, s plnením ktorej je Dodávateľ v omeškaní, a to za
+každú, aj začatú hodinu omeškania, ak sú termíny uvedené alebo dohodnuté v hodinách alebo 0,5 %
+z celkovej ceny plnenia príslušnej čiastkovej zmluvy/objednávky, s plnením ktorej je Dodávateľ
+v omeškaní, a to za každý deň omeškania, ak sú termíny uvedené alebo dohodnuté v dňoch.
+V prípade neodstránenia vád plnenia poskytnutého/dodaného na základe príslušnej čiastkovej
+zmluvy/objednávky v termínoch uvedených v čl. VIII. bod 3. tejto zmluvy, je Objednávateľ oprávnený
+fakturovať Dodávateľovi zmluvnú pokutu vo výške 0,05 % z celkovej ceny plnenia príslušnej
+čiastkovej zmluvy/objednávky, s plnením ktorej je Dodávateľ v omeškaní, a to za každú, aj začatú
+hodinu omeškania, ak sú termíny uvedené alebo dohodnuté v hodinách alebo 0,5 % z celkovej ceny
+plnenia príslušnej čiastkovej zmluvy/objednávky, s plnením ktorej je Dodávateľ v omeškaní, a to za
+každý deň omeškania, ak sú termíny uvedené alebo dohodnuté v dňoch až do odstránenia vady
+(vrátane) a za každú neodstránenú vadu zvlášť.
+V prípade omeškania so splnením peňažného záväzku je veriteľ oprávnený fakturovať dlžníkovi úrok
+z omeškania vo výške 0,02% z dlžnej sumy za každý deň omeškania.
+
+12 / 35
+
+5. Uplatnením nároku na zaplatenie zmluvnej pokuty nie je dotknuté právo Objednávateľa na náhradu
+preukázateľnej škody, prevyšujúcej výšku zmluvnej pokuty.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+XI.
+OCHRANA DÔVERNÝCH INFORMÁCIÍ
+Zmluvné strany sú si vedomé toho, že v rámci plnenia zmluvy môžu oni alebo ich zamestnanci či
+zmluvní partneri, získať vedomou činnosťou druhej zmluvnej strany alebo jej opomenutím prístup
+k dôverným informáciám tejto druhej zmluvnej strany.
+Dodávateľovi môže Objednávateľ počas plnenia predmetu tejto zmluvy umožniť prístup k
+informačným systémom a softvérovým aplikáciám Objednávateľa s databázami obsahujúcimi osobné
+údaje, ktoré súvisia s výkonom jeho dohodnutých pracovných činností, na základe určených alebo
+sprístupnených prístupových práv v rozsahu potrebnom na splnenie predmetu plnenia tejto zmluvy.
+Pre plnenie predmetu zmluvy nie je potrebný a Dodávateľ ani nebude využívať náhľad, prehliadanie
+alebo akýkoľvek iný spôsob spracúvania osobných údajov alebo databáz osobných údajov,
+sprístupnenie a využívanie testovacej vzorky osobných údajov poskytnutej Objednávateľom,
+z priestorov Objednávateľa Dodávateľ nevynesie, nezhotoví kópiu záznamu a bez predchádzajúceho
+súhlasu určeného zamestnanca Objednávateľa neodpojí záznamové, zberné alebo archívne
+zariadenie obsahujúce osobné údaje v majetku Objednávateľa.
+Dôvernou informáciou sa rozumie informácia, ktorú označuje zmluvná strana, ktorá informáciu
+poskytuje, ako dôvernú, vrátane informácií, týkajúcich sa jej výskumu, vývoja, obchodných údajov,
+osobných údajov zamestnancov alebo údajov o produktoch, materiáloch a metodológiách,
+vlastnených príslušnou zmluvnou stranou, vrátane know – how.
+Zmluvné strany sa zaväzujú, že zabezpečia dostatočné a preukázateľné poučenie pre všetky osoby,
+ktoré sa na ich strane budú zúčastňovať na plnení tejto zmluvy, o podstate dôvernej informácie
+v zmysle tejto zmluvy a nevyhnutnosti jej utajenia v súlade s touto zmluvou a o povinnosti mlčanlivosti
+pri prípadnom oboznámení sa s osobnými údajmi v majetku Objednávateľa podľa právnych predpisov
+platných a účinných v oblasti ochrany osobných údajov na území Slovenskej republiky, ktorými sú ku
+dňu uzatvorenia tejto zmluvy Nariadenie (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní
+osobných údajov a o voľnom pohybe takýchto údajov a zákon č. 18/2018 Z.z. o ochrane osobných
+údajov. Prístup k dôverným informáciám bude obmedzený na tých zamestnancov zmluvnej strany,
+ktoré tieto informácie potrebujú poznať na účely a v rozsahu, vymedzenom touto zmluvou. Zmluvné
+strany sú povinné zabezpečiť, aby záväzok utajenia dôverných informácií a o povinnosti mlčanlivosti
+pri oboznámení sa s osobnými údajmi v majetku Objednávateľa v zmysle tejto zmluvy prevzali aj
+všetky osoby, ktoré sú odlišné od samotných zmluvných strán a ktoré sa budú zúčastňovať na plnení
+tejto zmluvy. Splnenie tejto povinnosti je príslušná zmluvná strana povinná preukázať, ak ju o to
+druhá zmluvná strana požiada.
+Zmluvné strany sa zaväzujú zaobchádzať s dôvernými informáciami ako s predmetom obchodného
+tajomstva, najmä uchovávať ich v tajnosti a zabezpečiť vykonanie všetkých právnych a technických
+opatrení, zabraňujúcich ich neoprávnenému sprístupneniu tretej osobe či ich zneužitiu, a to v rozsahu
+a spôsobom primeraným stupňu utajenia príslušnej dôvernej informácie a jej zrejmému významu,
+alebo významu, ktorý tejto dôvernej informácii zreteľne priradí tá zmluvná strana, ktorej príslušná
+dôverná informácia prislúcha.
+Zmluvné strany môžu poskytnúť tieto dôverné informácie len svojim zamestnancom alebo zmluvným
+partnerom v rozsahu nutnom pre riadne plnenia tejto zmluvy, pri súčasnej realizácii vyššie uvedených
+opatrení. Dôverné informácie nesmú byť kopírované alebo reprodukované bez písomného súhlasu
+zmluvnej strany, ktorá tieto informácie poskytla.
+V prípade porušenia povinností, uvedených v tomto článku zmluvy, je poškodená zmluvná strana
+oprávnená uplatniť si nárok na zaplatenie zmluvnej pokuty vo výške 3 000,- EUR, za každé porušenie
+povinností zvlášť.
+
+XII.
+TRVANIE A UKONČENIE ZMLUVY
+1. Táto zmluva sa uzatvára na dobu určitú do 31.12.2020.
+2. Táto zmluva nadobúda platnosť a účinnosť dňom podpísania oprávnenými zástupcami oboch
+zmluvných strán, ustanovenia osobitných predpisov tým nie sú dotknuté. Objednávateľ je oprávnený
+požadovať od Dodávateľa uzavretie čiastkovej zmluvy (objednávky) do posledného dňa trvania
+platnosti tejto zmluvy. Čiastkové zmluvy (objednávky) vystavené Objednávateľom a potvrdené
+
+13 / 35
+
+3.
+
+4.
+
+5.
+
+6.
+
+Dodávateľom do posledného dňa trvania platnosti tejto zmluvy, budú zrealizované/poskytnuté na
+základe podmienok tejto zmluvy.
+Platnosť tejto zmluvy môže byť ukončená:
+a) písomnou dohodou zmluvných strán;
+b) zánikom niektorej zo zmluvných strán bez právneho nástupcu;
+c) výpoveďou;
+d) odstúpením od zmluvy;
+e) uplynutím platnosti zmluvy.
+Objednávateľ je oprávnený platnosť zmluvy ukončiť písomnou výpoveďou bez uvedenia dôvodov s
+troj (3) mesačnou výpovednou lehotou. Výpovedná lehota začína plynúť prvým dňom kalendárneho
+mesiaca nasledujúceho po mesiaci, v ktorom bola doručená výpoveď druhej zmluvnej strane. Ak sa
+zmluvné strany nedohodnú inak, tak plnenia poskytované na základe tejto zmluvy podľa čl. I. bod 1.1.
+tejto zmluvy, ktorých realizácia bola zmluvnými stranami objednaná a odsúhlasená (potvrdená
+objednávka) pred doručením výpovede, budú poskytované do ich riadneho splnenia podľa
+podmienok uvedených v tejto zmluve a čiastkovej zmluve (objednávke). Okrem tohto nemôže
+Dodávateľ po doručení výpovede, bez písomného súhlasu Objednávateľa, poskytovať žiadne nové
+plnenie predmetu tejto zmluvy.
+Objednávateľ je oprávnený od čiastkovej zmluvy (objednávky) odstúpiť za podmienky, ak Dodávateľ
+bude v omeškaní s plnením čiastkovej zmluvy (objednávky) o viac ako 10 dní. Takéto odstúpenie
+nemá vplyv na povinnosť Dodávateľa zaplatiť zmluvnú pokutu za omeškanie plnenia. Právne účinky
+odstúpenia od čiastkovej zmluvy (objednávky) nastávajú dňom doručenia písomného oznámenia
+o odstúpení druhej zmluvnej strane.
+Ktorákoľvek zo zmluvných strán je oprávnená odstúpiť od tejto zmluvy v prípade jej podstatného
+porušenia druhou zmluvnou stranou. Odstúpenie od zmluvy musí byť vykonané v písomnej forme a
+musia v ňom byť uvedené dôvody odstúpenia. Odstúpenie od zmluvy nadobúda právne účinky
+doručením oznámenia o odstúpení od zmluvy druhej zmluvnej strane. Za podstatné porušenie sa pre
+účely tejto zmluvy rozumie porušenie akejkoľvek zmluvnej povinnosti, ak k náprave nedôjde ani po
+uplynutí dodatočnej primeranej lehoty, poskytnutej druhou zmluvnou stranou na odstránenie tohto
+porušenia.
+
+XIII.
+RIEŠENIE SPOROV A ROZHODNÉ PRÁVO
+1. Zmluvné strany sa zaväzujú, že v prípade sporov o obsah a plnenie tejto zmluvy vynaložia všetko
+úsilie, ktoré je možné od nich spravodlivo požadovať k tomu, aby tieto spory boli vyriešené cestou
+zmieru, najmä, aby boli odstránené okolnosti vedúce k vzniku práva od zmluvy odstúpiť alebo
+okolností spôsobujúcich jej neplatnosť.
+2. Ak sa nedohodnú zmluvné strany na spôsobe riešenia vzájomného sporu, má každá zo zmluvných
+strán právo predložiť spor na rozhodnutie príslušnému súdu.
+
+1.
+
+2.
+
+3.
+
+4.
+
+XIV.
+ZÁVEREČNÉ USTANOVENIA
+Právne vzťahy touto zmluvou neupravené a ich právne dôsledky, vrátane otázok platnosti tejto
+zmluvy sa riadia právnym poriadkom Slovenskej republiky, najmä zákonom č. 513/1991 Zb.
+Obchodný zákonník v platnom znení.
+V prípade, ak by sa niektoré ustanovenia tejto zmluvy stali neplatnými alebo neúčinnými, alebo ak by
+sa v dôsledku legislatívnych zmien dostali niektoré z ustanovení tejto zmluvy do rozporu s platným
+právnym poriadkom Slovenskej republiky, nie je týmto dotknutá platnosť a účinnosť zostávajúcich
+ustanovení tejto zmluvy. Namiesto neplatného alebo neúčinného ustanovenia platia za zmluvne
+dohodnuté tie ustanovenia, ktoré sa svojim zmyslom a účelom neplatnému alebo neúčinnému
+ustanoveniu zmluvy najviac približujú.
+Pokiaľ nie je v tejto zmluve výslovne uvedené inak, túto zmluvu je možné zmeniť len po vzájomnej
+dohode zmluvných strán formou písomného dodatku očíslovaného podľa poradia jeho prijatia
+podpísaného oprávnenými zástupcami oboch zmluvných strán.
+Zmluvné strany sa dohodli, že pre účely tejto zmluvy sa za doručenú písomnosť bude považovať (ak
+doručenie nenastane preukázateľne skôr):
+- písomnosť odoslaná e-mailom na adresu kontaktnej osoby druhej zmluvnej strany – najbližší
+pracovný deň nasledujúci po dni odoslania písomnosti,
+
+14 / 35
+
+-
+
+5.
+6.
+
+7.
+8.
+
+9.
+
+10.
+
+písomnosť odoslaná poštovou prepravou – uplynutím lehoty 3 pracovných dní odo dňa uloženia
+neprevzatej písomnosti na pošte, alebo
+- dňom odmietnutia prevzatia doručovanej písomnosti.
+Pokiaľ nie je v tejto zmluve výslovne uvedené inak, pod pojmom písomne sa rozumie vyhotovenie
+a doručenie dokumentu buď v listinnej alebo elektronickej forme.
+Dodávateľ je povinný dodržiavať právne predpisy a zabezpečiť dodržiavanie právnych predpisov
+tretími osobami, ktoré sa podieľajú na plnení zmluvy, zdržať sa akéhokoľvek konania, ktoré je
+v rozpore s právnymi predpismi alebo ktoré je spôsobilé ohroziť alebo porušiť záujmy
+Objednávateľa, a zabrániť takémuto konaniu. Pri plnení zmluvy je Dodávateľ povinný najmä zdržať
+sa konania, ktoré by mohlo viesť k vyvodeniu trestnej zodpovednosti kupujúceho v zmysle zákona č.
+91/2016 Z.z. o trestnej zodpovednosti právnických osôb v znení neskorších predpisov alebo takého
+predpisu, ktorý ho nahradí.
+Táto zmluva vrátane príloh je vyhotovená v štyroch (4) origináloch v slovenskom jazyku, pre každú
+zmluvnú stranu po dva (2) rovnopisy.
+Zmluvné strany prehlasujú, že si túto zmluvu pred jej podpisom prečítali a že bola uzatvorená po
+vzájomnom podrobnom oboznámení sa s jej obsahom ako určitý, vážny a zrozumiteľný prejav
+slobodnej vôle zmluvných strán bez akéhokoľvek nátlaku a nie za nevýhodných podmienok pre
+ktorúkoľvek zo zmluvných strán. Na dôkaz potvrdenia tejto skutočnosti pripájajú poverení
+zástupcovia oboch zmluvných strán svoje vlastnoručné podpisy. Podpisom zmluvy zmluvné strany
+zároveň potvrdzujú prevzatie nasledovných príloh, ktoré sú neoddeliteľnou súčasťou tejto zmluvy
+Práva a povinnosti neupravené touto zmluvou a jej prílohami sa riadia ustanoveniami Prílohy č.2.
+Práva a povinnosti upravené touto zmluvou majú prednosť pred ustanoveniami uvedenými v Prílohe
+č. 2.
+Neoddeliteľnou súčasťou tejto zmluvy sú Prílohy:
+Príloha č. 1 Cenník
+Príloha č. 2 Štandardné podmieky AG podpory
+Príloha č. 3 Žiadosť o vývoj / zmenu aplikácie
+
+Za Objednávateľa:
+
+Za Dodávateľa:
+
+V Bratislave dňa ...................................
+
+V Bratislave dňa ...........................
+
+.......................................................
+Ing. Renáta Črepovská
+strategický nákupca
+
+.......................................................
+Mgr. Zuzana Lomnická
+strategický nákupca
+
+.......................................................
+Ing. Martin Déneši
+konateľ
+
+15 / 35
+
+Príloha č. 1
+
+Cenník
+
+Tabuľka č. 1
+Cena v EUR bez DPH za obdobie:
+Starostlivosť a údržba SW produktov Počet
+rok 2019
+ARIS Platform
+licencií Jednotková
+spolu
+cena/rok
+
+rok 2020
+Jednotková
+spolu
+cena/rok
+
+ARIS Business Architect (Base system)
+
+4
+
+1 030,97
+
+4 123,88
+
+1 030,97
+
+4 123,88
+
+ARIS Business Designer (Base system)
+
+2
+
+412,38
+
+824,76
+
+412,38
+
+824,76
+
+1
+
+2 617,07
+
+2 617,07
+
+2 617,07
+
+2 617,07
+
+1
+
+2 934,29
+
+2 934,29
+
+2 934,29
+
+2 934,29
+
+ARIS Business Publisher (Base system
+pre 100 pracovísk)
+ARIS Business Server (1-25 uživateľov
+na Oracle DB)
+
+Spolu
+
+-
+
+10 500,00
+
+-
+
+10 500,00
+
+Tabuľka č. 2
+Typ
+práce
+
+Názov práce
+
+Q1
+Q2
+Q3
+Q4
+Q5
+Q6
+Q7
+
+Riadenie projektu
+Konzultačné práce
+Analytické práce - technický špecialista
+Programátorské práce
+Práce spojené s prípravou školení a školiacich materiálov
+Školiace práce
+Inštalačné práce
+
+Cena za 1
+človekodeň
+505,00 Eur
+505,00 Eur
+505,00 Eur
+505,00 Eur
+505,00 Eur
+505,00 Eur
+505,00 Eur
+
+Cena je v Eur bez DPH.
+
+16 / 35
+
+Príloha č. 2
+
+Štandardné podmieky AG podpory
+
+Licence and Maintenance Terms and Conditions
+(Annex 2)
+Transfer of Software
+Section 1 Right of use
+
+Obchodné podmienky pre poskytovanie
+licencií a údržby (Príloha 2)
+Prevod Softwaru
+Oddiel 1 Právo užívania
+
+(1) The Licensor grants to the Licensee a right to use the software
+products (hereinafter "Software") identified in the Software
+Licence and Software Maintenance Agreement (hereinafter
+"Agreement"). This Agreement sets forth the scope of the
+conforming use and therefore the scope of the granted right of
+use.
+
+(1) Poskytovateľ licencie poskytuje Nadobúdateľovi licencie
+právo na užívanie Softwarových produktov (ďalej uvádzaný
+ako "software") uvedených v Licenčnej zmluve a zmluve o
+údržbe
+software.
+Táto
+Zmluva
+upravuje
+rozsah
+odpovedajúceho použitia a rozsah udelených užívacích práv.
+
+(2) In the event the scope of use as stipulated in this Agreement is
+extended, an additional licence fee will be owed for the
+extended use. If maintenance is provided for the relevant
+Software under the terms of this Agreement, then the additional
+licence fee owed is calculated based on the difference between
+the licence fee for the extended use under the Licensor's thencurrent price list and the licence fee for the previous use under
+the Licensor's then-current price list. If no maintenance is
+provided for the Software under the terms of this Agreement,
+then the additional licence fee owed is calculated based on the
+difference between the licence fee for the extended use under
+the Licensor’s then-current price list and the licence fee
+actually paid in the past for the previous use
+
+(2) V prípade, že sa rozsah užívania tak, ako je uvedený v tejto
+Zmluve, rozšíri, vznikne povinnosť zaplatiť dodatočný
+licenčný poplatok pre rozšírené užívanie. Pokiaľ je podľa
+podmienok tejto Zmluvy poskytnutá údržba daného
+Softwaru, dodatočné licenčné poplatky sa vypočítajú a budú
+splatné na základe rozdielu medzi licenčným poplatkom pre
+rozšírené užívanie podľa vtedy platného cenníku
+Poskytovateľa licencie a medzi licenčným poplatkom za
+predchádzajúce užívanie podľa vtedy platného cenníku
+Poskytovateľa licencie. Pokiaľ nie je poskytnutá údržba
+daného Softwaru podľa podmienok tejto Zmluvy, dodatočný
+licenčný poplatok sa vypočíta na základe rozdielu medzi
+licenčným poplatkom pre rozšírené užívanie podľa vtedy
+platného cenníku Poskytovateľa licencie a medzi licenčným
+poplatkom
+skutočne
+zaplateným
+v
+minulosti
+za
+predchádzajúce užívanie.
+
+(3) The agreed scope of use also applies to any Software versions,
+which were provided to the Licensee for use in connection with
+the maintenance of the Software (Section 4 et seq. of these
+Licence and Maintenance terms and conditions). Upon using a
+new Software version, the right of use for the version last
+deployed by the Licensee will expire, unless the Licensee is
+required to rely on the previous version because of difficulties
+with the new version. Except for a backup copy, the previous
+version must be deleted in its entirety.
+
+(3) Dohodnutý rozsah užívania sa vzťahuje rovnako na všetky
+verzie Softwaru, ktoré boli poskytnuté Nadobúdateľovi
+licencie k užívaniu v súvislosti s údržbou Softwaru (Oddiel 4
+a násl. týchto Obchodných podmienok pre licenciu a údržbu
+Softwaru). Pri použití novej verzie Softwaru právo na
+užívanie naposledy aktualizovanej verzie Nadobúdateľovi
+licencie skončí, okrem prípadu, kedy Nadobúdateľ licencie
+bude nútený užívať predchádzajúcu verziu kvôli problémom
+s novou verziou.
+Okrem záložnej kópie musia byť
+predchádzajúce verzie odstránené v celom rozsahu.
+
+(4) The relevant right of use for the Software will end when the
+agreed term of use expires, unless permanent right of use had
+been agreed.
+
+(4) Príslušné právo k užívaniu Softwaru zaniká uplynutím
+dohodnutej doby užívania, pokiaľ nebolo dohodnuté trvalé
+užívanie.
+
+(5) The relevant right of use for the Software will expire, if the
+Licensee commits a material breach of its contractual duties. In
+such case, the Licensor may withdraw from the Agreement. The
+aforementioned applies specifically where the Licensee utilises
+the Software beyond the agreed scope of use without
+authorization or violates other previsions intended as protection
+against unauthorised use.
+
+(5) Príslušné právo k užívaniu Softwaru zanikne, pokiaľ
+Nadobúdateľ licencie poruší svoje zmluvné povinnosti.
+V takom prípade má Poskytovateľ licencie právo odstúpiť od
+Zmluvy. Vyššie uvedené platí hlavne v prípade, pokiaľ
+Nadobúdateľ licencie neoprávnene používa Software nad
+rámec dohodnutého rozsahu alebo porušuje iné ustanovenia,
+ktorých cieľom je ochrana pred neoprávneným užívaním.
+
+(6) If the Licensee's right of use ends is revoked or otherwise
+expires, then the Licensee will be obligated to return all
+documents concerning the Software (documentation, user
+handbooks, and data carriers and copies thereof) and to delete
+the Software from its systems. At the Licensor's request, the
+Licensee must verify the timely and complete performance of
+this obligation.
+
+(6) Pokiaľ užívacie právo Nadobúdateľa licencie skončí, je
+zrušené alebo inak zanikne, potom má Nadobúdateľ licencie
+povinnosť vrátiť všetky dokumenty týkajúce sa Softwaru
+(dokumentáciu, užívateľské príručky, nosiče dát a ich kópie)
+a odstrániť Software zo svojich systémov. Na požiadanie
+Poskytovateľa licencie musí Nadobúdateľ licencie potvrdiť
+včasné a úplné splnenie tejto povinnosti.
+
+(7) If the duties to return as provided in subsection 6 above are
+breached or the Software is used beyond the scope of use
+granted under this Agreement, then a contractual penalty will
+
+(7) Pokiaľ je povinnosť vrátiť Software, tak ako je stanovené
+v bode 6 vyššie, porušená alebo Software je užívaný nad
+rámec rozsahu jeho užívania stanoveného touto Zmluvou,
+
+17 / 35
+
+be owed. Where the right of use is permanent the penalty
+equals 25% of the licence fees for permanent use of the
+Software, where the right of use is limited in time the
+contractual penalty equals a one-year licence fee for the use of
+the Software.
+
+vznikne povinnosť zaplatiť zmluvnú pokutu. V prípade, že
+užívacie právo je trvalé, pokuta sa rovná výške 25 %
+licenčných poplatkov za trvalé užívanie Softwaru; Pokiaľ je
+právo na užívanie časove obmedzené, zmluvná pokuta sa
+rovná ročnému licenčnému poplatku za používanie Softwaru.
+
+(8) The Licensee agrees to keep, and not to tamper with, any and
+all copyright symbols, serial numbers or other features and
+marks identifying and affixed to the Software.
+
+(8) Nadobúdateľ licencie sa zaväzuje udržiavať a nemanipulovať
+so žiadnymi symbolmi označujúcimi autorské práva, so
+sériovými číslami alebo inými znakmi a identifikačnými
+značkami umiestnenými na Softwari.
+
+Section 2 Delivery
+
+Oddiel 2 Dodávka
+
+(1) The Licensor agrees to furnish or otherwise grant access to the
+Software (in object code form) and any related user handbooks.
+Licensor retains the sole ownership of and title to any tangible
+media containing the Software, the documentation and user
+handbooks. If the Licensee makes or has third parties make any
+copy of the Software, the documentation or the user handbooks,
+Licensor shall acquire sole ownership and title to any such copy.
+
+(1) Poskytovateľ licencie sa zaväzuje poskytnúť alebo inak
+sprístupniť Software(vo forme objektového kódu) a všetky
+súvisiace užívateľské príručky. Poskytovateľ licencie si
+ponecháva výhradné vlastnícke právo a všetky nároky k
+akýmkoľvek hmotným médiám obsahujúcim Software, k
+dokumentácii a k užívateľskej príručke. Pokiaľ si
+Nadobúdateľ licencie sám alebo prostredníctvom tretej
+strany obstará kópie Softwaru, dokumentácie alebo
+užívateľskej príručky, Poskytovateľ licencie získa výhradné
+vlastnícke právo a nárok k akejkoľvek takejto kópii.
+
+(2) The Software shall be deemed accepted by Licensee upon
+delivery by Licensor. Delivery shall be deemed to have occurred
+when (i) in case of delivery of the Software on a CD or other
+data carrier, Licensor ships (F.O.B. Licensor’s distribution
+facility) a copy of the Software to the Licensee, or (ii) in case of
+Software that is downloaded by Licensee via the Internet, upon
+delivery of the software activation key and download
+instructions.
+
+(2) Software sa považuje za prijatý Nadobúdateľom licencie jej
+doručením od Poskytovateľa licencie. Doručenie sa považuje
+za prevedené, pokiaľ (i) v prípade dodávky Softwaru na CD
+alebo inom nosiči Poskytovateľ licencie odošle (F.O.B. na
+distribučnom zariadení Poskytovateľa licencie) kópiu
+Softwaru Nadobúdateľovi licencie, alebo (ii) v prípade, že je
+Software sťahovaný Nadobúdateľom licencie cez internet,
+doručením Softwarového aktivačného kľúča a stiahnutím
+pokynov.
+
+(3) The Licensor's duties of performance under this Agreement do
+not include installing the Software. Additional support services
+such as installing the Software or training the Licensee's
+employees must be agreed to separately.
+
+(3) Povinnosti Poskytovateľa licencie vyplývajúce z tejto Zmluvy
+nezahrňujú inštaláciu Softwaru. Ďalšie služby podpory, ako
+napríklad inštalácia Softwaru alebo školenie zamestnancov
+Nadobúdateľa licencie, musí byť dohodnuté samostatne.
+
+(4) The Licensor reserves the right to make technical improvements
+and upgrades to the Software.
+
+(4) Poskytovateľ licencie si vyhradzuje právo
+technické vylepšenia a upgrady Softwaru.
+
+Section 3 Warranty; Software defects
+
+vykonávať
+
+Oddiel 3 Záruky; vady Software
+
+(1) Licensor warrants that (i) the Software substantially conforms to
+the documentation; and (ii) the data carriers containing the
+Software, if any, are free from any substantial defects in
+materials and workmanship. Within the time period of 90 days
+after the Software is physically delivered or is otherwise made
+available for access (“Warranty Period”), Licensee may notify
+Licensor of any non-conformance with the aforesaid warranty.
+Upon such notice, Licensor shall, at its sole discretion, (i)
+deliver non-defective (contractually conforming) substitute
+Software, (ii) cure the defect (e.g., by providing work-around
+solutions or patches), or (iii) refund the Licensee any paid
+license fees against return of the Software, the documentation,
+the user handbooks and any copies thereof. The aforementioned
+remedies shall be Licensee’s sole remedies with respect to any
+non-conformance or defects of the Software. This warranty does
+not apply to any failures caused by any of Licensee’s employees,
+hardware, or modifications of the Software.
+
+(1) Poskytovateľ licencie zaručuje, že (i) Software sa zhoduje
+s dokumentáciou; a (ii) nosiče dát, obsahujúce Software,
+pokiaľ takéto sú, neobsahujú žiadne podstatné vady
+materiálu či spracovania. V lehote 90 dní odo dňa, kedy je
+Software fyzicky dodaný alebo je inak sprístupnený
+(“Záručná doba”) môže Nadobúdateľ licencie oznámiť
+Poskytovateľovi akékoľvek rozpory s vyššie uvedenými
+zárukami. Na základe takéhoto oznámenia Poskytovateľ
+licencie podľa vlastného uváženia (i) dodá bezchybný
+(zmluve odpovedajúci) náhradný Software, (ii) odstráni
+vadu (napr. poskytnutím výmeny na mieste alebo opravou),
+alebo (iii) vráti Nadobúdateľovi licencie všetky licenčné
+poplatky oproti vráteniu Softwaru, dokumentácie,
+užívateľskej príručky a ich možných kópii. Vyššie uvedené
+možnosti nápravy sú jedinými možnosťami nápravy
+Nadobúdateľovej licencie, vo vzťahu k akýmkoľvek
+nezhodám alebo vadám Softwaru. Táto záruka sa
+nevzťahuje na poruchy spôsobené zamestnancom
+Nadobúdateľa licencie, hardvérom
+alebo úpravou
+Softwaru.
+
+Maintenance of Software
+
+Údržba Softwaru
+
+18 / 35
+
+Section 4 Scope of performance
+
+Oddiel 4 Rozsah plnenia
+
+(1) To the extent stipulated in the Agreement, the Licensor shall
+provide the following services beyond the defect remedy
+services set forth in Section 3.
+
+(1) V rozsahu stanovenom Zmluvou bude Poskytovateľ licencie
+poskytovať nasledujúce služby nad rámec služieb
+odstraňovania vád, stanovených v Oddiely 3.
+
+(a) Errors in the Software shall be processed and eliminated as
+described in Annex 1 to the Agreement (Software AG Product
+Support and Maintenance Service) relating to the Software.
+
+(a) Chyby Softwaru budú spracované a odstránené tak, ako je
+popísané v Prílohe 1 k Zmluve (Služby podpory a údržby
+produktov Software AG) vo vzťahu k Softwaru.
+
+If an alleged error in the Software arises, the Licensee shall
+provide adequate information about the circumstances in which
+the error arose and the manner of the error’s appearance in the
+form of file descriptions and backup transcripts (dumps). If, in
+exceptional circumstances, test runs are required to localise the
+problem, then the Licensee shall make machine time available
+free of charge. Any work, which the Licensor performs to cure
+the alleged error, will be invoiced at the then relevant fee
+rates, if it emerges that there was no Software error.
+
+Pokiaľ nastane údajná závada Softwaru, Nadobúdateľ
+licencie poskytne adekvátnu informáciu o okolnostiach, za
+ktorých chyba nastala a o spôsobe, akým sa chyba prejavila,
+a to formou popisov súborov a transkripcií záloh (dumps).
+Pokiaľ je vo výnimočných prípadoch potrebné za účelom
+lokalizácie problému spustenie testu, Nadobúdateľ licencie
+zdarma sprístupní zariadenie v potrebnom rozsahu.
+V prípade, že sa zistí, že Software nevykazoval žiadnu
+chybu, budú všetky práce, vykonané Poskytovateľom
+licencie za účelom odstránenia údajnej chyby fakturované
+v tej dobe aktuálnych sadzbách.
+
+In connection with the maintenance, only those errors will be
+cured, which fall within the Licensor's area of responsibility.
+Errors, not falling within its area of responsibility include, for
+example, errors that are caused by the fact that a Third Party’s
+representations regarding the compatibility of the Software
+platforms are untrue and there is in fact no such compatibility.
+
+V súvislosti s údržbou budú odstránené len tie chyby, ktoré
+spadajú do oblasti zodpovednosti Poskytovateľa licencie.
+Chyby, ktoré nespadajú do oblasti jeho zodpovednosti, sú
+napr. chyby, ktoré môžu spôsobiť zástupcovi Tretej strany
+nepravdivými
+prehláseniami
+ohľadne
+kompatibility
+Softwarovej platformy, keď v skutočnosti žiadna taká
+kompatibilita nie je.
+
+(b) As part of the maintenance, the Licensor will also provide
+technical improvements and updates to the Software and the
+documentation prepared for that purpose. This may occur by
+delivering new versions of the Software.
+
+(b) Ako súčasť údržby bude Poskytovateľ licencie poskytovať aj
+technické
+vylepšenia
+a
+aktualizácie
+Softwaru
+a
+dokumentácie spracované za týmto účelom. K tomuto môže
+dôjsť poskytnutím novej verzie Softwaru.
+
+(2) Any services, which extend beyond the maintenance services
+described above, need to be agreed upon separately.
+
+(2) Akékoľvek služby, ktoré prekročia rámec služieb údržby,
+popísaný vyššie, musia byť dohodnuté samostatne.
+
+Section 5 New versions
+
+Oddiel 5 Nové verzie
+
+(1) The Licensee agrees to always install the newest Software
+version provided to it by the Licensor and to make any
+corrections (SML) to the Software which is reported by the
+Licensor. Maintenance is provided only for the two most recent
+versions of the Software, with Licensor’s obligation to provide
+maintenance for the earlier version expiring twelve months after
+release of the new version.
+
+(1) Nadobúdateľ licencie sa zaväzuje vždy nainštalovať
+najnovšiu verziu Softwaru, ktorú dostane od Poskytovateľa
+licencie, a tiež, že vykoná príslušné Softwarové úpravy
+(SML), ktoré sú mu Poskytovateľom licencie oznámené.
+Údržba je poskytovaná len pre posledné dve najnovšie
+Softwarové verzie. Povinnosť Poskytovateľa licencie
+poskytovať údržbu na staršie verzie končí uplynutím
+dvanástich mesiacov po vydaní novej verzie.
+
+(2) The Licensor shall approve and release new Software versions
+only for the most updated operating system version. To the
+extent the manufacturer of an operating system warrants
+compatibility with other operating system versions, the release
+for this version will be made in reliance upon the accuracy of
+this warranty.
+
+(2) Poskytovateľ licencie schváli a vydá nové verzie Softwaru
+len pre najaktuálnejšie verzie operačného systému.
+V rozsahu, v ktorom výrobca operačného systému zaručuje
+kompatibilitu s ďalšími verziami operačného systému bude
+vydanie pre túto verziu uskutočnené v závislosti na presnosti
+tejto záruky.
+
+Section 6 Maintenance fee
+(1) The Licensee agrees to pay an annual maintenance fee in
+advance for each calendar year of maintenance. For the second
+year of the term of the maintenance as provided in Section 8
+below, the Licensor may adjust the annual maintenance fee by
+the percentage the Consumer Price Index has increased
+compared to the prior year published by the Czech Statistical
+Office. Thereafter, the Licensor may increase the annual
+maintenance fee annually, but the adjustment may not exceed
+more than 5%. The Licensor will give three months prior notice
+of adjustment the maintenance fees. If the Licensor has not
+increased the maintenance fee in one or more years, then it will
+be entitled in the next year to increase the maintenance fee up
+to the total percentage of the increases that were possible in
+the preceding years. Any adjustments to the maintenance fee
+are documented in the relevant invoices. No new contract is
+required.
+
+Oddiel 6 Poplatok za údržbu
+(3) Nadobúdateľ licencie sa zaväzuje platiť ročný poplatok za
+údržbu vopred za celý kalendárny rok údržby. Pre druhý rok
+zmluvného obdobia údržby, ako je uvedené nižšie v Oddiely
+8, môže Poskytovateľ licencie upraviť ročný poplatok za
+údržbu percentom rastu indexu spotrebiteľských cien
+zverejneným Slovenským štatistickým úradom v porovnaní s
+predchádzajúcim rokom. Podľa toho môže Poskytovateľ
+licencie ročne zvyšovať ročný poplatok za údržbu, ale táto
+úprava nesmie presiahnuť viac ako 5 %. Poskytovateľ
+licencie oznámi úpravu ceny za údržbu tri mesiace dopredu.
+Pokiaľ Poskytovateľ licencie nezvýšil poplatok za údržbu
+jeden alebo dva roky, bude mať v nasledujúcom roku právo
+zvýšiť poplatok za údržbu až o celkové percento zvýšenia,
+ktoré bolo možné za predchádzajúce roky. Akékoľvek úpravy
+poplatku za údržbu sú zachytené v príslušných faktúrach.
+Nie je vyžadovaná žiadna nová zmluva.
+
+19 / 35
+
+(2) In the event that the agreed scope of use stipulated in the
+Agreement is extended, the maintenance fee will also be
+increased beginning on the date of the extended use in
+accordance with the Licensor's then-current list price.
+
+(4) V prípade, že je rozšírený dohodnutý rozsah užívania podľa
+Zmluvy, bude navýšený aj poplatok za údržbu, a to počnúc
+dátumom zahájenia rozšíreného užívania v súlade s vtedy
+aktuálnym cenníkom Poskytovateľa licencie.
+Oddiel 7 Záruka; Vady Software
+
+Section 7 Warranty; Software defects
+(1) Licensor warrants that (i) the Software delivered as part of the
+Licensor's maintenance obligations substantially conforms to the
+documentation, and (ii) the data carriers containing the
+Software, if any, are free from any substantial defects in
+materials and workmanship. Within the time period of 90 days
+after the Software is physically delivered or is otherwise made
+available for access (“Warranty Period”), Licensee may notify
+Licensor of any non-conformance with the aforesaid warranty.
+Upon such notice, Licensor shall, at its sole discretion, (i)
+deliver non-defective (contractually conforming) substitute
+Software, (ii) cure the defect (e.g., by providing work-around
+solutions or patches), or (iii) refund the Licensee any paid
+license fees against return of the Software, the documentation,
+the user handbooks and any copies thereof. The aforementioned
+remedies shall be Licensee’s sole remedies with respect to any
+non-conformance or defects of the Software. This warranty does
+not apply to any failures caused by any of Licensee’s employees,
+hardware, or modifications of the Software.
+
+(1) Poskytovateľ licencie zaručuje, že (i) Software, dodaný ako
+súčasť povinností údržby Poskytovateľa licencie odpovedá
+dokumentácii, a (ii) nosiče dát obsahujúce Software, pokiaľ
+takéto sú, neobsahujú žiadne podstatné vady materiálu ani
+spracovania. V lehote 90 dní potom, čo je Software fyzicky
+odovzdaný alebo inak sprístupnený (“Záruční doba”), môže
+Nadobúdateľ licencie upovedomiť Poskytovateľa licencie
+o akýchkoľvek rozporoch s vyššie uvedenou zárukou. Na
+základe takéhoto oznámenia Poskytovateľ licencie podľa
+vlastného
+uváženia
+(i)
+dodá
+bezchybný
+(zmluve
+odpovedajúci) náhradný Software, (ii) odstráni vadu (napr.
+poskytnutím výmeny na mieste alebo opravou), alebo (iii)
+vráti Nadobúdateľovi licencie všetky licenčné poplatky
+oproti vráteniu Softwaru, dokumentácie, užívateľskej
+príručky a jej možných kópii. Vyššie uvedené možnosti
+nápravy sú jedinými možnosťami nápravy Nadobúdateľa
+licencie, vo vzťahu k akýmkoľvek nezhodám alebo vadám
+Softwaru. Táto záruka sa nevzťahuje na poruchy spôsobené
+zamestnancom Nadobúdateľa licencie, hardvérom alebo
+úpravou Softwaru.
+Oddiel 8 Doba trvania Zmluvy
+
+Section 8 Term
+(1) The part of the Agreement relating to maintenance will continue
+for an indefinite period of time and may be terminated by a
+written notice of the party without giving any reason always to
+the end of the calendar year, under the condition that the
+notice is delivered to the other contracting party three months
+before the end of the calendar year at the latest.
+
+(1)
+
+Časť Zmluvy, vzťahujúca sa k údržbe, bude trvať
+počas doby neurčitej, a môže byť ukončená písomnou
+výpoveďou ktorejkoľvek zo strán bez udania dôvodu, a to
+vždy ku koncu kalendárneho roku za podmienky, že výpoveď
+bude doručená druhej zmluvnej strane najneskôr tri mesiace
+pred koncom kalendárneho roku.
+
+(2) In case the Licensor repeatedly fails to meet reaction time set
+out in Article 3 of Annex 1 of "Software AG Produkt Support and
+Maintenance Service" and his conduct does not be brought into
+conformity with the Agreement even after the written notice
+from the Licensee, the Licensee shall have the right to
+terminate the part of the Agreement relating to maintenance by
+a written notice at any time during the calendar year. The
+notice period shall be two months. In case the termination of
+the part of the Agreement relating to maintenance from this
+reason, the Licensor shall refund to the Licensee the proportion
+of paid annual maintenance fee for the calendar year, counted
+according to the number of months remaining from termination
+of the Agreement to the end of the calendar year.
+
+(2)
+
+Pokiaľ Poskytovateľ licencie opakovane nedodrží
+reakčné časy stanovené v čl. 3 prílohy č. 1 Zmluvy „Služby
+podpory a údržby produktov Software AG“ a svoje jednanie
+neuvedie do súladu so Zmluvou ani po písomnom upozornení
+zo strany Nadobúdateľa licencie, má Nadobúdateľ licencie
+právo písomne vypovedať z tohto dôvodu časť Zmluvy
+vzťahujúcu sa k údržbe, a to kedykoľvek v priebehu
+kalendárneho roku. Výpovedná lehota je v tomto prípade
+dva mesiace. V prípade ukončenia časti Zmluvy týkajúcej sa
+údržby z tohto dôvodu vráti Poskytovateľ licencie
+Nadobúdateľovi licencie pomernú časť zaplatenej ročnej
+ceny údržby za daný kalendárny rok, vypočítanú podľa počtu
+mesiacov ostávajúcich od ukončenia Zmluvy do konca
+kalendárneho roku.
+
+General Previsions
+
+Všeobecné ustanovenia
+
+Section 9 Terms and conditions of payment
+
+Oddiel 9 Platobné podmienky
+Všetky platby sú splatné do 30 dní odo dňa vystavenia faktúry
+(bez akýchkoľvek zrážok).
+
+(1) All payments are due within 30 days after invoice (with no
+deductions).
+(2) All invoiced amounts will be net, to which the VAT (in the
+amount in accordance with the relevant legislation) will apply.
+
+Section 10 Set-off; Withholding counter-performance
+(1) The Licensee may set-off against the Licensor's claims, only if
+the counter-claims, which form the basis of the set-off, are
+undisputed, have been finally decided upon by a judge, or are
+ready for a judicial decision.
+
+(1) Všetky fakturované čiastky budú v čistej výške, ku ktorej sa
+pripočíta DPH (vo výške podľa príslušných právnych
+predpisov).
+Oddiel 10 Zápočet; Zadržanie protiplnenia
+(1) Nadobúdateľ licencie môže urobiť zápočet proti nárokom
+Poskytovateľa licencie len
+pokiaľ protinárok, ktorý je
+základom pre zápočet, je nesporný, bolo o ňom s konečnou
+platnosťou rozhodnuté sudcom alebo sa čaká na súdne
+
+20 / 35
+
+rozhodnutie.
+
+(2) The Licensee may enforce its rights to withhold counterperformance, if the counterclaims, upon which the withholding
+is based, relate to the same contractual relationship and are
+undisputed, have been finally decided upon by a judge, or are
+ready for a judicial decision.
+
+Section 11 Liability
+
+(2)
+
+Nadobúdateľ licencie môže uplatniť svoje práva na
+zadržanie protiplnenia v prípade, že protinároky, na
+ktorých je zadržanie založené, sa vzťahujú k tomu istému
+zmluvnému vzťahu a sú nesporné, bolo o nich s konečnou
+platnosťou rozhodnuté sudcom alebo čakajú na súdne
+rozhodnutie.
+Oddiel 11 Zodpovednosť
+
+(1) In no event shall the Licensor be liable for (i) damages caused by
+negligence, unless the damages are caused by wilful misconduct
+of the Licensor’s employees; and (ii) any indirect, incidental,
+special, or consequential damages, including lost profits,
+however caused, whether foreseeable or unforeseeable. This
+limitation shall apply regardless of whether liabilities arise
+under a contract, tort law, quasi-contractual obligations,
+statute, or on any other legal theory.
+
+(1) V žiadnom prípade nebude Poskytovateľ
+licencie
+zodpovedný za (i) škody spôsobené z nedbanlivosti, pokiaľ
+škody boli spôsobené vedomým nesprávnym jednaním
+niektorého zo zamestnancov Poskytovateľa licencie, a (ii)
+akékoľvek nepriame, náhodné, zvláštne alebo následné
+škody, včítane ušlého zisku, bez ohľadu na to, ako boli
+spôsobené, bez ohľadu na to, či sú predvídateľné alebo
+nepredvídateľné. Toto obmedzenie platí bez ohľadu na to, či
+zodpovednosť vzniká na základe dohody, právneho deliktu,
+kvázi - zmluvného záväzku, zákona, alebo na základe
+akejkoľvek inej právnej teórie.
+
+(2) The Licensee is obligated to take reasonable courses of action to
+avoid or mitigate damages. The Licensee is specifically obligated
+to regularly – at least once daily – backup its data.
+
+(2) Nadobúdateľ licencie je povinný prijať primerané postupy na
+zabránenie alebo zmienenie škôd. Nadobúdateľ licencie je
+obzvlášť povinný pravidelne - aspoň raz denne - zálohovať
+svoje dáta.
+
+Section 12 Assignment of rights
+
+Oddiel 12 Postúpenie práv
+
+(1) The Licensee may not assign its rights under this Agreement to
+any Third Parties. The assignment of rights in connection with a
+sale of business to its part or business unit is subject to the
+express prior consent of the Licensor which cannot be denied in
+case that license has already paid all licence and maintenance
+fees. The consent may be conditioned upon the payment of
+additional licence fees, if this accords with the Licensor's
+legitimate interests.
+
+(1) Nadobúdateľ licencie nesmie postúpiť svoje práva z tejto
+Zmluvy na akúkoľvek tretiu stranu. Postúpenie práv v
+spojitosti s predajom podniku či jeho časti alebo obchodnej
+jednotky podlieha predchádzajúcemu výslovnému súhlasu
+Poskytovateľa licencie, ktorý nemôže byť odoprený, pokiaľ
+sú zo strany Nadobúdateľa licencie uhradené všetky licenčné
+poplatky a poplatky za údržbu. Súhlas môže byť podmienený
+úhradou dodatočných licenčných poplatkov, pokiaľ toto
+odpovedá oprávneným záujmom Poskytovateľa licencie.
+
+(2) The Licensee agrees that the Licensor may assign to any
+affiliated company (i.e. the company within the concern
+according to the Section 66a of the Commercial Code) the
+Agreement and all of Licensor’s rights and/or obligations under
+the Agreement.
+
+(2) Nadobúdateľ licencie súhlasí s tým, že Poskytovateľ licencie
+môže postúpiť na ktorúkoľvek pridruženú spoločnosť (tj.
+spoločnosť v rámci koncernu podľa ust. § 66a Obchodného
+zákonníku) Zmluvu a všetky práva a/alebo povinnosti
+Poskytovateľa licencie podľa Zmluvy.
+
+Section 13 Confidentiality
+(1) The Licensee is obligated to treat as confidential any
+information to which it has become privy and which relate to
+the Software, and to impose this same duty of confidentiality on
+any and all persons, who come into contact with the Software.
+
+Section 14 Disclosure; controls
+
+Oddiel 13 Dôvernosť
+(1) Nadobúdateľ licencie sa zaväzuje nakladať s každou
+informáciou, ktorá mu bola poskytnutá a ktorá sa týka
+Softwaru ako s dôvernou, a uložiť rovnakú povinnosť
+mlčanlivosti akejkoľvek osobe a osobám, ktoré prídu do
+kontaktu so Softwarom.
+Oddiel 14 Sprístupnenie; kontroly
+
+(1) The Licensee will, within 10 working days from the date of
+receipt of a written request from the Licensor (such requests
+not to be submitted by the Licensor more than twice in any 12
+month period), confirm to the Licensor in writing which
+Software is installed on which machines at which locations and
+set out details of the operating capacity thereof. This
+confirmation shall include sufficient detail to enable the
+Licensor to assess compliance by the Licensee with the terms
+and conditions set out in this Agreement.
+
+(1) Nadobúdateľ licencie písomne potvrdí Poskytovateľovi do 10
+pracovných dní od dátumu doručenia písomnej žiadosti od
+Poskytovateľa licencie (taká žiadosť nebude predložená
+Poskytovateľom licencie viackrát než dvakrát v období 12
+mesiacov), aký Software je inštalovaný na ktorom počítači,
+na akom mieste a popíše podrobnosti ich prevádzkovej
+kapacity. Toto potvrdenie musí obsahovať dostatočne
+podrobný popis, aby Poskytovateľ licencie posúdil
+dodržiavanie obchodných podmienok stanovených Zmluvou
+Nadobúdateľom licencie.
+
+(2) Licensor, or at Licensor’s discretion an independent consultant
+appointed by the Licensor, shall have the right on giving
+reasonable notice to the Licensee to enter into any premises
+where any Software is held and have access to the relevant
+machines on which any of the Software is installed for the
+
+(2) Poskytovateľ licencie alebo na základe jeho rozhodnutí
+nezávislý konzultant menovaný Poskytovateľom licencie
+bude mať možnosť, na základe predchádzajúcej dohody s
+Nadobúdateľom licencie, prístupu k zariadeniam, na ktorých
+je Software nainštalovaný, pre účely kontroly užívania
+
+21 / 35
+
+purpose of auditing the use of the Licensee of the Software in
+accordance with the terms set out in this Agreement.
+
+Softwaru Nadobúdateľom licencie v súlade s podmienkami
+stanovenými touto Zmluvou.
+
+(3) The Licensor's right to access all information concerning the
+details of the Software installed, in no way can be understood as
+to nullify or to diminish the Licensee's responsibility to inform
+the Licensor of any changes to the installation or to the usage of
+the Software which exceeds the agreed upon scope of the
+license grant and terms and conditions of this agreement.
+
+(3) Právo Poskytovateľa licencie na prístup ku všetkým
+informáciám, ktoré sa týkajú podrobností inštalovaného
+Softwaru, nemožno za žiadnych okolností vykladať ako
+zrušenie alebo obmedzenie zodpovednosti Nadobúdateľa
+licencie informovať Poskytovateľa licencie o akýchkoľvek
+zmenách v inštalácii alebo užívania Softwaru, ktoré
+presahujú
+dohodnutý
+rozsah
+poskytnutej
+licencie
+a podmienok dohodnutých v tejto Zmluve.
+
+(4) If it is determined that the license grant and/or the terms and
+conditions governing the usage of the Software has been
+exceeded, then, at the Licensor’s request, this Agreement is to
+be upgraded accordingly. The upgrade shall apply from the point
+in time when the license grant and terms and conditions agreed
+upon have been exceeded for the first time.
+
+(4) Pokiaľ sa zistí, že poskytnutá licencia a / alebo podmienky,
+ktorými sa používanie Softwaru riadi, boli prekročené,
+potom sa na žiadosť Poskytovateľa musí aktualizovať táto
+Zmluva. Aktualizácia platí od momentu, kedy boli
+dohodnuté licenčné podmienky po prvýkrát prekročené.
+
+Section 15 Intellectual property rights
+
+Oddiel 15 Práva duševného vlastníctva
+
+(1) Licensor represents to Licensee that it has the full right, title
+and interest to the Software. Licensor shall hold harmless and
+indemnify Licensee and its customers for all damages incurred
+by Licensee and its customers and further for any costs,
+damages, expenses and the related attorney´s fees and pay all
+amount of a compromise or settlement, if any, which Licensor
+might agree, with respect to any infringement, or alleged
+infringement, of any patent, trademark, copyright or any other
+industrial or intellectual property right by virtue of the use or
+other disposition of any Software furnished to Licensee.
+
+(1) Poskytovateľ licencie prehlasuje Nadobúdateľovi licencie, že
+má plné právo, právny dôvod a záujem na Softwari.
+Poskytovateľ licencie bude chrániť a odškodní Nadobúdateľa
+licencie a jeho zákazníkov za všetky škody, ktoré vznikli
+Nadobúdateľovi licencie a jeho zákazníkom, a ďalej všetky
+náklady, škody, výdaje a súvisiace právne poplatky a zaplatí
+všetky sumy týkajúce sa vysporiadania alebo narovnania,
+pokiaľ takéto sú, s ktorými Poskytovateľ licencie môže
+súhlasiť, v súvislosti s akýmkoľvek porušením alebo údajným
+porušením akéhokoľvek patentu, ochrannej známky,
+autorského práva alebo iného práva priemyselného alebo
+duševného vlastníctva z dôvodu užívania alebo iného
+nakladania
+s
+akýmkoľvek
+Softwarom
+poskytnutým
+Nadobúdateľovi licencie.
+
+Licensor shall defend or settle, at its own expense, any action or
+suit against Licensee and its customers related to the use of the
+Software within the scope of this Agreement.
+
+Poskytovateľ licencie na vlastné náklady obháji alebo
+urovná akýkoľvek súdny spor alebo žalobu voči
+Nadobúdateľovi licencie a jeho zákazníkom v súvislosti
+s použitím Softwaru v rozsahu tejto Zmluvy.
+
+Licensee shall notify Licensor promptly of any claim or infringement for which the Licensor is responsible, and shall cooperate
+with Licensor in every reasonable way at Licensor´s request and
+expense to facilitate the defence of any such claim.
+
+Nadobúdateľ licencie bude ihneď informovať Poskytovateľa
+licencie o akomkoľvek nároku alebo porušeniu, za ktorý je
+Poskytovateľ licencie zodpovedný a bude spolupracovať s
+Poskytovateľom licencie všetkými rozumnými spôsobmi na
+žiadosť a náklady Poskytovateľa licencie tak, aby uľahčil
+obhajobu vo veci akéhokoľvek takéhoto nároku.
+
+(2) If Licensee´s and/or the customer’s use of the Software shall be
+prevented by injunction of court order because of any such
+infringement, Licensor shall at no expense to Licensee and/or
+the customer either (1) replace such Software with equally
+suitable Software free of infringement, or (2) modify such
+Software Products so that they will be free of infringement, but
+equally suitable or (3) by license or other release from claim of
+infringement procure for Licensee´s and/or the customers
+benefit the equal right to use such Software.
+
+(2) Pokiaľ použitie Softwaru Nadobúdateľom licencie a/alebo
+zákazníkom bude zakázané súdnym príkazom z dôvodu
+akéhokoľvek takéhoto porušenia, Poskytovateľ licencie
+zabezpečí pre Nadobúdateľa licencie a/alebo zákazníka bez
+ďalších nákladov buďto (1) náhradu Softwaru za rovnako
+vhodný, ktorý neporušuje práva, alebo (2) úpravu takéhoto
+Softwarového Produktu tak, aby neporušoval práva, ale bol
+rovnako vhodný, alebo (3) obstaraním licencie alebo iným
+spôsobom sa zbaví nároku tretích osôb z porušovania práv, a
+tím obstará k prospechu Nadobúdateľa licencie alebo jeho
+zákazníkov rovnaké právo užívať takýto Software.
+
+(3) Licensor shall have no liability for any claim as specified in
+Section 15.1 hereto based on Licensee´s and/or the customers
+use of the Software received from Licensor if such claims would
+have been avoided if used in conjunction with other third party
+software which causes a breach of third party intellectual
+property rights, or if there is a correction or modification of the
+Software not provided by Licensor.
+
+(3) Poskytovateľ licencie nepreberá žiadnu zodpovednosť za
+akýkoľvek nárok uvedený v Oddiely 15.1 tejto Zmluvy, ktorý
+je založený na užívaní Softwaru dodaného Poskytovateľom
+licencie Nadobúdateľovi licencie a/alebo zákazníkom, pokiaľ
+sa takým nárokom dalo zabrániť užívaním, pokiaľ bol
+užívaný v spojení s iným Softwarom tretej strany a takéto
+užívanie spôsobuje porušenie práv duševného vlastníctva
+tretej strany, alebo pokiaľ opravy alebo úpravy Softwaru nie
+sú vykonávané Poskytovateľom licencie.
+
+22 / 35
+
+Section 16 Export restrictions
+(1) Licensee may not download or otherwise export or re-export any
+underlying software, technology or other information from the
+licensed Software except as stated explicitly in this Agreement
+and in full compliance with all applicable national and
+international laws and regulations. Licensee agrees to indemnify
+and hold harmless and defend Licensor against any and all
+liability arising from or relating to Licensee’s breach of this
+Section.
+
+Section 17 Final previsions
+
+Oddiel 16 Zákaz vývozu
+(1) Nadobúdateľ licencie nesmie sťahovať ani inak exportovať
+alebo
+reexportovať
+akýkoľvek
+základný
+Software,
+technológiu alebo iné informácie z licencovaného Softwaru,
+s výnimkou výslovných ustanovení v tejto Zmluve a v plnej
+zhode so všetkými platnými národnými i medzinárodnými
+normami a predpismi. Nadobúdateľ licencie sa zaväzuje
+odškodniť, ochrániť a brániť Poskytovateľa licencie v
+prípade akejkoľvek zodpovednosti vyplývajúcej z, alebo
+vzťahujúcej sa k porušeniu tohto Oddielu Nadobúdateľom
+licencie.
+Oddiel 17 Záverečné ustanovenia
+
+(1) The Licensee's standard terms and conditions will not apply even
+if the Licensor has not expressly rejected the application of such
+terms and conditions.
+
+(1) Štandardné obchodné podmienky Nadobúdateľa licencie sa
+neuplatnia ani v prípade, že Poskytovateľ licencie výslovne
+neodmietol uplatňovanie takýchto podmienok.
+
+(2) Any modifications to, or supplements of, this Agreement must
+be made in writing by an amendment signed by both contracting
+parties. The aforementioned also applies to any modifications
+to, or supplements of, this writing requirement clause.
+
+(2) Akékoľvek zmeny alebo doplnenia k tejto Zmluve musia byť
+vyhotovené v písomnej forme, a to dodatkom podpísaným
+oboma zmluvnými stranami. Vyššie uvedené platí aj na
+všetky zmeny alebo doplnenia tohto ustanovenia o
+požiadavku na písomnou formu.
+
+(3) This Agreement is construed and will be enforced under the laws
+of the Czech Republic. Place of jurisdiction is the Czech
+Republic.
+
+(3) Táto Zmluva je spísaná a bude uplatňovaná v súlade so
+zákonmi Slovenskej republiky. Miestom jurisdikcie je
+Slovenská republika.
+
+(4) In case the dispute is not resolved by statutory bodies of
+contracting Parties, all disputes arising from the Agreement
+and/or in connection with it shall be finally decided with
+general courts of the Czech Republic.
+
+(4) Pokiaľ nebude sporná záležitosť vyriešená na úrovni
+štatutárnych orgánov, budú všetky spory vznikajúce z tejto
+Zmluvy a/alebo v súvislosti s ňou rozhodované obecnými
+súdmi Slovenskej republiky.
+
+(5) This Agreement is executed in Czech and English language
+version; in case of discrepancies, the Czech version shall prevail.
+
+(5) Táto Zmluva je vyhotovená v slovenskej a anglickej
+jazykovej verzii; v prípade rozporu je rozhodujúce slovenské
+znenie.
+
+(6) If any previsions of this Agreement are invalid, the remaining
+previsions hereof will not be affected thereby. The invalid
+prevision shall be replaced by a valid prevision, which most
+closely reflects the legal and economic intent of the parties.
+
+(6) Pokiaľ sú ktorékoľvek ustanovenia tejto Zmluvy neplatné,
+ostávajúce ustanovenia Zmluvy tým nebudú dotknuté.
+Neplatné
+ustanovenia
+budú
+nahradené
+platným
+ustanovením, ktoré čo najpresnejšie odráža právny a
+ekonomický zámer zmluvných strán.
+
+23 / 35
+
+Assignment of processors to processor core
+performance classes valid as per the agreement’s
+effective date:
+Processor Core Performance
+Class/ Trieda výkonu jadra
+procesoru
+
+A
+(Minimum of 2 Cores/
+minimálne 2 jadrá)
+
+B
+
+Priradenie procesoru k triedam výkonu jadra
+procesoru platným ku dni účinnosti zmluvy:
+
+Processor Vendor/
+Dodávateľ procesoru
+
+Processor Name/ Názov procesoru
+
+IBM
+
+PowerPC 970
+
+IBM
+
+PowerXCell, Cell/B.E.Bi
+
+Sun / Fujitsu
+
+UltraSparc T1, T2
+
+Intel
+
+Xeon (Pre-Nehalem)
+
+AMD
+
+Athlon, Opteron, Sempren
+
+IBM
+
+Power 5
+
+IBM
+
+System z9, z990 & earlier
+
+HP / Intel
+
+Itanium 1, 2; PA-RISC
+
+Intel
+
+Xeon (Nehalem)
+
+Sun / Fujitsu
+
+Sparc 64 VI, VII; UltraSparc IV; Sparc 65 V
+
+Any
+
+Any other Single and/or Multi Core generally available
+on or before Oct. 11th, 2010
+
+IBM
+
+Power 6
+
+IBM
+
+System z10
+
+IBM
+
+Power 7
+
+IBM
+
+System z196
+
+C
+
+D
+
+24 / 35
+
+Software AG Product Support and Maintenance
+Service
+
+Služby podpory a údržby produktov Software
+AG
+
+Customer is a licensee of certain Software AG
+products under a Software License and Software
+Maintenance
+Agreement
+(hereinafter
+as
+“Licensee”) that the customer has executed with
+a Software AG's contractual partner, itelligence,
+a.s. (hereinafter as “Licensor”). The product
+support and maintenance services that the
+Licensor has agreed to deliver as provided in the
+software license and software maintenance
+agreement are defined herein, and this document
+forms an attachment to the Software License and
+Software Maintenance Agreement.
+
+Zákazník je nadobúdateľom licencie k určitým
+produktom Software AG na základe Licenčnej
+zmluvy a zmluvy o údržbe software (ďalej len
+„Nadobúdateľ licencie“), ktorú zákazník uzavrel so
+zmluvným partnerom Software AG, spoločnosťou
+itelligence
+Slovakia,
+s.r.o.
+(ďalej
+len
+„Poskytovateľ licencie“). V tomto dokumente sú
+definované podmienky služieb podpory a údržby
+produktov, ktoré sa Poskytovateľ licencie zaviazal
+poskytovať na základe licenčnej zmluvy a zmluvy o
+údržbe software, pričom tento dokument tvorí
+prílohu licenčnej zmluvy a zmluvy o údržbe
+software.
+
+25 / 35
+
+© Software AG
+1.1.1.
+
+1. Definitions
+
+1. Definície
+
+a.
+
+Business Day. “Business Day” shall mean the
+days from Monday to Friday excluding public
+holidays in [country- as specified in the Licensee
+address field on the first page of the underlying
+Software License- and Software Maintenance
+Agreement] that correspond with Software AG’s
+Global Support operating days.
+
+a.
+
+Pracovný deň. „Pracovný deň“ znamená dni od
+pondelka do piatka s výnimkou štátnych sviatkov
+(štát – ako je uvedený v adrese Nadobúdateľ licencie
+na prvej strane danej licenčnej zmluvy a zmluvy o
+údržbe software), ktoré korešpondujú s dňami
+prevádzky Global Support spoločnosti Software AG.
+
+b.
+
+Business Hour. “Business Hour” shall mean the
+hours from 8.00 am to 5.00 pm on a Business
+Day of the main support hub within Licensee’s
+region based on country specification under a.:
+•
+EMEA – 8 to 5 Central European Time (CET)
+•
+APJ - 8 to 5 Malaysia Time (MYT)
+•
+US – 8 to 5 Mountain Time (MT)
+Global Support operating hours may change from
+time to time.
+
+b.
+
+c.
+
+Documentation. ”Documentation” shall mean
+the user manuals that the Licensor makes
+available to Licensees of the Software.
+
+c.
+
+Dokumentácia.
+„Dokumentácia“
+znamená
+užívateľské príručky, ktoré Poskytovateľ licencie
+sprístupní Nadobúdateľovi licencie k Software.
+
+d.
+
+Error. ”Error” shall mean any verifiable and
+reproducible failure of the Software to
+substantially conform to the specifications for
+such Software. Notwithstanding the foregoing,
+”Error” shall not include any such failure that is
+caused by: (i) the use or operation of the
+Software with any other software or code or in
+an environment other than that intended or
+recommended in the Documentation, (ii)
+modifications to the Software not made or
+approved by Software AG in writing, or (iii) any
+bug, defect, or error in third-party Software
+used with the Software.
+
+d.
+
+Chyba. „Chyba“ znamená akékoľvek overiteľné a
+navoditeľné
+zlyhanie
+Softwaru
+spočívajúce
+v podstatnom porušení špecifikácií daných pre daný
+Software. Bez ohľadu na vyššie uvedené sa za
+„Chybu“ nepovažuje akékoľvek zlyhanie, pokiaľ je
+spôsobené: (i) užívaním alebo prevádzkou Softwaru
+s iným softwarom alebo kódom alebo v prostredí
+inom, ako je to predpokladané alebo doporučené
+v Dokumentácii, (ii) modifikáciami Softwaru, ktoré
+boli vykonané alebo písomne schválené zo strany
+Software AG, alebo (iii) akákoľvek závada, defekt
+alebo chyba Softwaru tretej strany užívaného so
+Softwarom.
+
+e.
+
+Error Correction. ”Error Correction” shall mean
+either a modification or addition to or deletion
+from the Software having the effect that such
+Software substantially conforms to the then
+current specifications, or a procedure or routine
+that, when exercised in the regular operation of
+the Software, eliminates any material adverse
+effect on the customer caused by an Error. An
+Error Correction may be a correction,
+workaround, fix, or service pack.
+
+e.
+
+f.
+
+Software AG Global Support. “Software AG
+Global Support” shall mean Software AG’s
+Global Support Organization providing the
+support and maintenance services for the
+respective Licensor.
+
+f.
+
+Oprava chyby. „Oprava chyby“ znamená buď zmenu
+alebo doplnenie do alebo odstránenie zo Softwaru,
+ktorého účinkom je, že tento Software je zásadne v
+súlade s vtedy platnými špecifikáciami, alebo
+procedúrou alebo bežnou praxou, ktoré, keď sú
+vykonané v bežnej prevádzke Softwaru, odstráni
+akékoľvek materiálne negatívne účinky na zákazníka,
+spôsobené
+Chybou.
+Oprava
+môže
+spočívať
+v samotnej oprave chyby, jej stabilizácii, nájdení
+náhradného riešenia, alebo uvoľnení opravného
+servisného balíčku.
+Software AG Global Support. „Software AG Global
+Support“ znamená Global Support Organization
+spoločnosti Software AG poskytujúca služby podpory
+a údržby pre príslušného Poskytovateľa licencie.
+
+g.
+
+License Agreement. “License Agreement” shall
+mean the software license and software
+maintenance agreement under which the
+Software is licensed to the customer.
+
+g.
+
+Pracovná doba. „Pracovná doba“ znamená čas od
+8:00 do 17:00 v priebehu Pracovného dňa hlavnej
+jednotky podpory v rámci regiónu Nadobúdateľa
+licencie
+určenom
+podľa
+špecifikácie
+jeho
+domovského štátu:
+•
+EMEA – od 8 do 17 stredoeurópskeho času
+(CET)
+•
+APJ – od 8 do 17 malazijského času (MYT)
+•
+US – od 8 do 18 v horskom časovom pásme (MT)
+Operačná doba Global Support sa môže príležitostne
+meniť.
+
+Licenčná zmluva. „Licenčná zmluva“ je licenčná
+zmluva a zmluva o údržbe software, na ktorej
+základe je Software licencovaný zákazníkovi.
+
+26 / 35
+
+h.
+
+Software. “Software” shall mean the Software
+AG software programs licensed to the customer
+under the License Agreement.
+
+h.
+
+Software. „Software“ znamená softwarové programy
+Software AG licencované zákazníkovi na základe
+Licenčnej zmluvy.
+
+i.
+
+Software AG’s Support Portal. “Software AG’s
+Support Portal” shall mean Software AG’s webbased customer support system, designed with
+proactive services, information and Error
+Corrections. Software AG’s Support Portal can
+currently
+be
+accessed
+on
+https://empower.softwareag.com (this URL may
+change from time to time).
+
+i.
+
+Support Portal Software AG. „Support Portal
+Software AG“ je webový zákaznícky systém podpory
+Software
+AG,
+tvorený proaktívnymi
+službami,
+informáciami a Opravami chýb. Support Portal
+Software AG je v súčasnosti prístupný na
+http://empower.softwareag.com (táto URL sa môže
+občas meniť).
+
+j.
+
+Update. An ”Update” comprises the application
+of a fix and/or a documentation refresh within a
+major, minor version.
+
+j.
+
+Update. „Update“ pozostáva z aplikácie opravy
+a/alebo dokumentácie v rámci hlavnej a vedľajšej
+verzie.
+
+k.
+
+Upgrade: An “Upgrade” is a modification to a
+new major, minor version or service pack.
+
+k.
+
+Upgrade. „Upgrade“ je modifikácia novej hlavnej či
+vedľajšej verzie alebo opravného balíčku.
+
+l.
+
+Major Version. Software AG defines a “major
+version” as one in which significant new
+features and functionality are delivered. Some
+but not all of the major versions may also
+contain architecture changes, thus requiring a
+complete reinstall to upgrade, rather than the
+simple "install over" that is typical of minor
+versions and service packs. A version that ends
+in "X.0" is considered a major version.
+
+l.
+
+Hlavná verzia. Software AG definuje „hlavnú verziu“
+ako tú, v ktorej rámci sa poskytujú významne nové
+vylepšenia a funkcionalita. Niektoré, nie však všetky
+hlavné verzie, môžu taktiež obsahovať zmeny
+architektúry, a preto budú vyžadovať kompletnú
+reinštaláciu pre Upgrade ako, iba jednoduchú
+„reinštaláciu“, ktorá je typická pre vedľajšiu verziu
+a servisný balíček. Verzia končiaca na „X.0“ sa
+považuje za hlavnú verziu.
+
+m. Minor Version. Software AG defines a “minor
+version” as one in which some new features and
+functionality are delivered along with fixes.
+Versions with numbering of "X.Y" are usually
+considered minor versions, e.g. webMethods 7.1
+or Natural 6.3. Minor versions usually offer easy
+upgrade and an “install over” approach to
+upgrade.
+
+m. Vedľajšia verzia. Software AG definuje „vedľajšiu
+verziu“ ako tú, v ktorej rámci sa poskytujú niektoré
+nové prvky a funkcionalita spoločne s úpravami.
+Verzie číslované „X.Y“ sa obvykle považujú za
+vedľajšiu verziu, napríklad webMethods 7.1 alebo
+Natural 6.3. Vedľajšia verzia obvykle ponúka
+jednoduchý Upgrade a prevedenie Upgrade
+spôsobom „reinštalácie“.
+
+n.
+
+n.
+
+Fix. Software AG creates defect fixes at the
+component level to resolve specific issues.
+These issues may be identified in our QA labs, or
+at customer installations. Fixes are:
+•
+•
+
+•
+•
+
+Tested to ensure the issue is resolved within
+the target configuration
+Cumulative within functional subcomponents, e.g., Integration Server
+Scheduler
+Periodically rolled up into planned,
+cumulative Service Packs
+Made available to other customers via
+Software AG Extranet Site
+
+2. Service Description
+To the extent that Licensee has chosen a Software
+Maintenance Agreement, Licensee is entitled to
+receive / request the following services for the
+Software against payment of the agreed-upon
+support and maintenance fees and according to
+agreed-upon terms & conditions.
+
+Standard Product Support Service
+Software AG’s Standard Product Support Service
+
+Opravy. Software AG vytvára opravy chýb na úrovni
+komponentov s cieľom vyriešiť konkrétny problémy.
+Tieto problémy môžu byť identifikované v našich QA
+laboratóriách alebo na úrovni zákazníckych
+inštalácií. Opravy sú:
+•
+Testované, aby odstránili daný problém
+v rámci cieľovej konfigurácie
+•
+Kumulatívne v rámci funkčných subkomponentov, napr. Integration Server
+Scheduler
+•
+Periodicky vydávané v plánovaných,
+kumulatívnych Servisných balíčkoch
+•
+Sprístupnené zákazníkom prostredníctvom
+Software AG Extranet Site
+
+2. Popis služieb
+V rozsahu vybranom Nadobúdateľom licencie v Zmluve
+o údržbe Softwaru je Nadobúdateľ licencie oprávnený
+získavať / požadovať nasledujúce služby pre Software
+proti zaplateniu dohodnutých poplatkov za podporu a
+údržbu a v súlade s dohodnutými obchodnými
+podmienkami.
+
+Služby štandardnej podpory Produktu
+Služby štandardnej podpory Software AG pozostávajú
+
+27 / 35
+
+comprises the following services:
+•
+
+•
+
+•
+
+•
+
+•
+
+Twenty-four (24) hour access to Software AG’s
+Support Portal including access for authorized
+technical contacts to Software AG’s request
+reporting system for browsing and submitting
+trouble tickets, online access to new product
+information, documentation, knowledge center,
+and information on available Software fixes.
+24x7 support service for crisis cases. Telephone
+support according to this agreement is available
+24x7 (24 hours a day; 7 days a week) for crisis
+requests and is provided in English language
+only.
+9x5 (9 hours a day; 5 days a week) telephone
+support according to this agreement during
+Business Hours. The respective telephone
+number is available in Software AG’s Support
+Portal. If not provided in local language,
+telephone support is provided in English
+language.
+Seven (7) authorized technical contacts (ATC) of
+the customer entitled to access Software AG’s
+Support Portal. This restriction applies per
+customer and not per contract. All authorized
+technical contacts shall have appropriate
+professional and technical qualifications and
+shall be assigned internally by Licensee to
+process queries from users about the Software.
+To protect against improper use of services,
+services may only be requisitioned by these
+authorized technical contacts previouslyreported to Software AG. Licensee may contract
+for additional authorized contacts. ATC Group
+accounts that are used by multiple customer
+representatives are not allowed. One customer
+representative equals one ATC only.
+Information on new features, events, and
+customer application articles.
+
+3. Processing Customer Requests
+
+3. Spracovanie požiadaviek zákazníka
+
+Customer requests will be received by Software AG
+Global Support and will be documented in Software
+AG’s Support Portal for further processing. The
+customer will be given a reference processing
+number for future reference.
+
+1.3.1.
+
+Crisis/ Krízová
+
+Požiadavky zákazníka bude prijímať Software AG
+Global Support a bude ich dokumentovať v Software
+AG Support Portal pre ďalšie spracovanie. Zákazník
+dostane spisové číslo spracovania pre ďalšiu
+komunikáciu.
+
+1.3.2.
+
+Service Expectations
+
+The following support severities are used for
+classifying
+the
+customer’s
+issues.
+These
+classifications ensure consistent treatment of issues
+handled by Software AG Global Support. Software AG
+Global Support will determine the appropriate
+severity level according to the following table:
+
+Severity
+Level/
+Úroveň
+závažnosti
+
+z nasledujúcich služieb:
+•
+Dvadsaťštyri (24) hodinový prístup do Software
+AG
+Support
+Portal
+vrátane
+prístupu
+pre autorizované technické kontakty do systému
+podávania správ Software AG pre účely
+prehliadania a zasielania problémových hlásení,
+pre online prístup k informáciám o nových
+produktoch, dokumentácii, pre centrum znalostí
+a informácie o dostupných opravách Softwaru.
+•
+24x7 služby podpory pre kritické prípady.
+Telefonická podpora podľa tejto zmluvy je
+k dispozícii 24x7 (24 hodín denne, 7 dní
+v týždni) pre kritické požiadavky a je
+poskytovaná výhradne v anglickom jazyku.
+•
+9x5 (9 hodín denne, 5 dní v týždni) telefonická
+podpora podľa tejto zmluvy v priebehu
+Pracovnej doby. Príslušné telefónne číslo je
+k dispozícii na Software AG Support Portal.
+Pokiaľ nie je poskytovaná v miestnom jazyku,
+telefonická podpora je poskytovaná v angličtine.
+•
+Sedem
+(7)
+autorizovaných
+technických
+kontaktov
+(ACT)
+zákazníka
+oprávnených
+k prístupu k Software AG Support Portal. Toto
+obmedzenie sa vzťahuje na zákazníka a nie na
+jednu zmluvu. Všetky oprávnené technické
+kontakty budú mať potrebnú odbornú a
+technickú
+kvalifikáciu
+a
+interne
+budú
+Nadobúdateľom licencie poverené spracovávať
+požiadavky užívateľov týkajúce sa Softwaru. Na
+ochranu pred nesprávnym užívaním služieb môžu
+služby požadovať iba autorizované technické
+kontakty, vopred nahlásené Software AG.
+Nadobúdateľ licencie môže uzavrieť zmluvu na
+dodatočné autorizované kontakty. Účty ATC
+Skupiny,
+ktoré
+sú
+používané
+viacerými
+zástupcami zákazníka, nie sú povolené. Jeden
+zástupca zákazníka sa rovná iba jednému ATC.
+•
+Informácie
+o
+nových
+funkcionalitách,
+udalostiach a odborných článkoch.
+
+Úroveň zaistenia služieb
+
+Nasledujúce stupne závažnosti podpory sa budú
+používať pre zatriedenie požiadaviek zákazníka.
+Toto členenie zaistí konzistentné vybavenie
+požiadaviek vybavovaných Software AG Global
+Support. Software AG Global Support určí vhodný
+stupeň závažnosti v súlade s nasledujúcou tabuľkou:
+
+Critical/ Kritická
+
+Standard/ Štandardná
+
+28 / 35
+
+Customer’s
+problem has a
+severe
+business
+impact, e.g.
+production
+down.
+Customer
+is
+unable to use
+the Software,
+resulting in a
+major impact
+on customer’s
+operations.
+Work cannot
+reasonably
+continue.
+
+Definition/
+Definícia
+
+Reaction
+time
+Reakčná
+doba
+
+Problém
+zákazníka má
+zásadný dopad
+na
+jeho
+obchodnú
+činnosť, napr.
+zníženie
+výroby.
+Zákazník
+nemôže
+používať
+Software,
+čo
+má
+výrazný
+dosah
+na
+prevádzkové
+činnosti
+zákazníka.
+V
+prácach nie je
+možné rozumne
+pokračovať.
+
+1 Hour: call- 1 hodina: spätný
+back
+or hovor
+alebo
+/ electronic
+elektronická
+reply
+odpoveď
+
+Problém
+zákazníka má
+zásadný
+dopad na jeho
+obchodnú
+činnosť; avšak
+prevádzková
+činnosť môže
+pokračovať v
+obmedzenom
+rozsahu.
+Software je
+použiteľný,
+ale je výrazne
+obmedzený.
+Žiadne
+prijateľné
+riešenie nie
+je dostupné.
+Zákazník čelí
+významnému
+výpadku
+služieb.
+
+4
+Business
+Hours:
+callback
+or
+electronic
+reply
+
+4 hodiny v 1 Business Day:
+Pracovnej
+call-back
+or
+dobe: spätný electronic reply
+hovor
+alebo
+elektronická
+odpoveď
+
+1 Pracovný deň:
+spätný
+hovor
+alebo
+elektronická
+odpověď
+
+Pre
+každý
+jednotlivý
+prípad ako je
+dohodnuté so
+Software AG
+Global Support
+
+Pre
+každý
+jednotlivý
+prípad ako je
+dohodnuté
+so
+Software
+AG
+Global Support
+
+(unless
+otherwise
+agreed
+with
+Software AG
+Global Support
+on a case-bycase basis)
+
+Podávanie správ
+na dennej báze
+(pokiaľ nie je
+dohodnuté inak
+so Software AG
+Global Support
+v
+každom
+jednotlivom
+prípade)
+
+as
+agreed
+with Software
+AG
+Global
+Support on a
+case-by-case
+basis
+
+customer
+is
+provided with
+a timeline for
+Error
+Correction
+
+Zákazníkovi sa
+poskytne
+časový odhad
+Odstránenia
+chyby
+
+customer
+is
+provided with
+a timeline for
+Error
+Correction
+
+daily reporting
+Reporting
+(timeframe)
+/ Podávanie
+správ
+(časový
+rámec)
+
+Customer’s
+problem has a
+significant
+business
+impact;
+however,
+operations
+can continue
+in
+a
+restricted
+fashion. The
+Software
+is
+usable
+but
+severely
+limited.
+There is no
+acceptable
+workaround
+available.
+Customer is
+experiencing
+a significant
+loss
+of
+service.
+
+Reaction
+measure
+/
+Reakčné
+opatrenie
+
+Required
+effort
+/
+Vyžadované
+úsilie
+
+Zákazníkovi
+sa
+poskytne
+časový odhad
+Odstránenia
+chyby
+
+Customer’s
+problem
+has
+some
+business
+impact.
+The
+Software
+is
+usable
+and
+causes
+only
+minor
+inconvenience. It
+may be a minor
+Error,
+documentation
+Error,
+or
+incorrect
+operation of the
+application,
+which does not
+significantly
+impede
+the
+operation of a
+system.
+
+as agreed with
+Software
+AG
+Global Support on
+a
+case-by-case
+basis
+
+• information
+about
+publication
+date of the
+Software
+release that
+will solve the
+issue
+• indication that
+changes/
+enhancements
+are being
+handled in
+accordance
+with Software
+AG's strategy
+
+economically
+justifiable
+effort
+within
+standard scope
+
+Ekonomicky
+primerané úsilie
+v rámci bežného
+rozsahu zdrojov
+
+reasonable
+effort within
+standard scope
+of resources
+
+Adekvátne
+reasonable effort
+vynaložené
+within
+standard
+úsilie v rámci scope of resources
+bežného
+
+Problém
+zákazníka
+má
+istý dopad na
+jeho obchodnú
+činnosť.
+Software
+je
+možné používať
+a spôsobuje iba
+menší problém.
+Môže sa jednať
+o
+menšiu
+Chybu, Chybu
+dokumentácie,
+nesprávny chod
+aplikácie, ktorý
+zásadne
+nebráni
+v
+prevádzke
+systému.
+
+• informácia o
+dátume
+zverejnenia
+vydania
+Software,
+ktorý vyrieši
+daný problém
+• indikácia, že
+zmeny/
+zlepšenia sa
+vykonávajú v
+súlade so
+stratégiou
+Software AG
+
+Adekvátne
+vynaložené úsilie
+v rámci bežného
+rozsahu zdrojov
+
+29 / 35
+
+of resources
+
+It is recommended that crisis requests are
+reported by telephone to obtain best possible
+service in crisis situations. The reaction time is
+the time from the report of the customer´s
+request in which a Software AG support
+representative gets in contact with the customer.
+Software AG Global Support is not obliged to solve
+the customer’s issue within the reaction time.
+
+Tools and Processes
+Software AG Global Support uses the following
+processes and tools to solve or find a workaround
+to the customer’s issues:
+
+Fault diagnosis/analysis for Software AG products:
+•
+•
+•
+•
+•
+
+Evaluation of customer data supplied
+(including diagnostic information)
+Classification of the reported situation as
+product issue, user issue or third-party issue
+Research
+in
+Software
+AG’s
+Support
+Knowledge Center
+Reproduction of the error situation (if
+possible)
+Coordination with Software AG’s product
+development
+
+Results and/or solutions or workarounds will be
+provided via one of the following media:
+•
+•
+•
+•
+
+Telephone
+Software AG’s Support Portal
+E-mail
+Data carriers
+
+2.4.
+
+Remote Diagnosis
+
+rozsahu
+zdrojov
+
+Doporučuje sa, aby krízové požiadavky boli
+predkladané telefonicky, aby bolo možné získať
+najlepšie možné služby v krízovej situácii.
+Reakčný čas je doba od nahlásenia požiadavky
+zákazníka, v ktorej sa zástupca podpory Software
+AG skontaktuje so zákazníkom. Global Support
+nie je povinný vyriešiť problémy zákazníka
+v rámci reakčnej doby.
+
+Nástroje a procesy
+Software AG Global Support využíva nasledujúce
+procesy a nástroje k vyriešeniu alebo nájdeniu
+riešenia problému zákazníka:
+Diagnostika/analýza chýb produktov Software AG:
+•
+Vyhodnotenie predložených dát zákazníka
+(vrátane informácií diagnostiky)
+•
+Klasifikácia
+nahlásenej
+situácie
+ako
+produktovej otázky, užívateľskej otázky
+alebo otázky tretej strany
+•
+Prieskum v Support Knowledge Center
+Software AG
+•
+Zopakovanie chybovej situácie (pokiaľ je to
+možné)
+•
+Koordinácia s vývojom produktov Software
+AG
+Výsledky a/alebo riešenia budú poskytnuté jedným
+z nasledujúcich spôsobov:
+•
+Telefón
+•
+Support Portal Software AG
+•
+E-mail
+•
+Nosiče dát
+
+Vzdialená diagnostika
+
+Software AG Global Support may perform remote
+diagnosis to facilitate issue analysis. In such case,
+Software AG Global Support will access customer’s
+environment via a Remote Online Diagnostic Tool for
+purposes of diagnosis and analysis only.
+
+Software AG Global Support môže poskytovať
+vzdialenú
+diagnostiku
+pre
+uľahčenie
+analýzy
+problému. V takomto prípade vstúpi Software AG
+Global
+Support
+do
+prostredia
+zákazníka
+prostredníctvom nastroja Remote Online Diagnostic
+Tool, a to výlučne pre účely diagnostiky a analýzy.
+
+Remote access to customer’s environments will occur
+during Business Hours at the times agreed between
+the customer and Software AG Global Support.
+
+Vzdialený prístup do prostredia zákazníka bude
+uskutočnený v priebehu Pracovnej doby v časoch
+dohodnutých medzi zákazníkom a Software AG Global
+Support.
+
+4. Software and Documentation Updates
+
+4. Aktualizácia Software a dokumentácie
+
+On a when and if available basis, Software AG
+Global Support provides:
+
+Pokiaľ budú dostupné a v dobe kedy budú dostupné,
+poskytne Software AG Global Support:
+•
+Nové verzie licencovaných produktov
+Software AG
+•
+Aktualizácie licencovaného Softwaru
+obsahujúceho opravy chýb
+
+•
+•
+
+New versions of licensed Software AG
+products
+Updates of licensed Software containing error
+
+30 / 35
+
+•
+
+corrections
+Documentation updates for the Software
+
+•
+
+Aktualizácia dokumentácie pre Software
+
+Information regarding availability of Software and
+Documentation updates is available in Software AG’s
+Support Portal.
+
+Informácie ohľadne dostupnosti aktualizácií Softwaru
+a Dokumentácie sú dostupné na Support Portal
+Software AG.
+
+5. Services outside the scope of Software
+AG’s Product Support and Maintenance
+Service
+
+5. Služby nad rámec rozsahu služieb podpory
+a údržby produktov Software AG
+
+In addition to the scope of Support and Maintenance
+Services as defined in this agreement and the
+underlying Licence and Maintenance Terms and
+Conditions, the Licensee may request additional
+Support and Maintenance Services, e.g. Premium
+Support Services.
+
+Dodatočne k rozsahu služieb podpory a údržby, ktoré
+sú definované v tejto zmluve a základných licenčných
+podmienkach
+a
+podmienkach
+údržby,
+môže
+Nadobúdateľ licencie požadovať dodatočné služby
+podpory a údržby, napríklad Premium Support
+Services.
+V závislosti od dostupnosti môžu byť takéto služby
+ponúknuté v rámci samostatnej servisnej zmluvy a na
+základe zaplatenia príslušných poplatkov:
+
+Based on availability, such services can be offered as
+part of a separate service agreement and payment of
+applicable fees:
+The following services are Premium Support
+Services examples and may be subject to change at
+irregular intervals:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Customer Success Manager
+Designated Engineer
+On-call duty
+On-site Support
+Upgrade advisory
+Health Check
+Performance Optimization
+Migration Services
+Installation
+Database Administration
+Coaching
+
+Nasledujúce služby sú príklady Premium Support
+Services a v nepravidelných intervaloch sa môžu
+meniť:
+•
+Customer Success Manager
+•
+Pridelený špecialista
+•
+Pohotovostná služba
+•
+Podpora na mieste
+•
+Dohľad nad Upgrade
+•
+Health Check
+•
+Optimalizácia výkonu
+•
+Služby migrácie
+•
+Inštalácia
+•
+Správa databáz
+•
+Koučing
+Ďalšie informácie môžete nájsť na Support Portal
+Software AG.
+
+Further information can be found on the Software
+AG’s Support Portal.
+
+6. Customer Responsibilities
+The services to be performed are subject to the
+following conditions:
+•
+
+•
+
+•
+•
+
+The customer entered into a valid software
+support and maintenance agreement with the
+Licensor and has fully paid the respective
+support and maintenance fees
+The customer entered into a valid License
+Agreement with the Licensor regarding the
+Software to be supported and has fully paid
+the respective license fees that are due to
+payment
+The Software is installed at the customer’s
+site
+The customer provides appropriate tools to
+enable remote access for Software AG Global
+Support (e.g. Interactive Problem Control
+System (IPCS), Time Sharing Option (TSO),
+
+6. Povinnosti zákazníka
+Na poskytované služby sa vzťahujú nasledujúce
+podmienky:
+•
+zákazník uzavrel platnú zmluvu o službách
+podpory a údržby Softwaru s Poskytovateľom
+licencie a v plnom rozsahu zaplatil príslušné
+poplatky za podporu a údržbu
+•
+zákazník uzavrel platnú licenčnú zmluvu
+s Poskytovateľom licencie
+týkajúcu sa
+Softwaru,
+ktorého
+podpora
+má
+byť
+poskytovaná, a v plnom rozsahu zaplatil
+príslušné (splatné) poplatky
+•
+Software
+je
+inštalovaný
+v priestoroch
+zákazníka
+•
+Zákazník
+poskytuje
+príslušné
+nástroje
+umožňujúce vzdialený prístup pre Software
+AG Global Support (napr. Interactive Problem
+Control Systém (IPCS), Time Sharing Option
+(TSO), Terminal-Emulation, Netviewer)
+31 / 35
+
+•
+
+•
+•
+
+•
+
+Terminal-Emulation, Netviewer)
+The
+customer
+establishes
+appropriate
+security measures to ensure that Software AG
+Global Support’s access is restricted to
+permissible areas
+The customer has installed the release levels
+of the Software which are supported at the
+time the relevant customer request occurs
+The customer uses hardware, operating
+system software and database software that
+comply with the specifications of the release
+levels of the Software which are supported at
+the time the relevant customer request
+occurs; the release levels of the Software
+which are supported at the time the relevant
+customer request occurs can be identified on
+Software AG’s Support Portal
+The customer provides Software AG Global
+Support with
+o sufficient information and assistance as
+requested by Software AG Global Support
+regarding the customer’s environment
+(including appropriate computing time)
+and all necessary information on the
+error
+o specific third party expertise relevant to
+the
+customer’s
+environment,
+if
+applicable
+o information on any used software tools
+upon Software AG Global Support’s
+request
+o diagnostic information such as traces,
+dumps, parameters, etc. upon Software
+AG Global Support’s request.
+
+•
+
+•
+•
+
+•
+
+Zákazník prijme potrebné bezpečnostné
+opatrenia k zabezpečeniu toho, aby prístup
+Software AG Global Support bol obmedzený
+iba na povolené oblasti
+Zákazník inštaloval vydané verzie Softwaru,
+ktoré sú v dobe vznesenia požiadavky
+zákazníkom podporované
+Zákazník používa hardware, operačný systém
+a databázový systém, ktorý je v súlade so
+špecifikáciou vydanej verzie Softwaru, ktorá
+je podporovaná v dobe vznesenia požiadavky
+zákazníkom; vydané verzie Softwaru, ktoré
+sú podporované v dobe vznesenia požiadavky
+zákazníkom je možné nájsť na Support Portal
+Software AG
+Zákazník poskytne Software AG Global
+Support:
+o Dostatočné informácie a asistenciu podľa
+požiadaviek Software AG Global Support
+ohľadne
+zákazníckeho
+prostredia
+(vrátane potrebného času na prácu
+s počítačom)
+a
+všetky
+potrebné
+informácie o chybe
+o Uvedie odborné údaje tretej strany
+relevantné pre prostredie zákazníka,
+pokiaľ je to potrebné
+o Informácie o akýchkoľvek používaných
+softwarových nástrojoch na žiadosť
+Software AG Global Support
+o Diagnostické informácie ako stopy,
+výpisy, parametre, atď. na žiadosť
+Software AG Global Support
+
+32 / 35
+
+Príloha č. 3
+
+Žiadosť o vývoj / zmenu aplikácie
+
+I. Požiadavka základné údaje (vypĺňa Objednávateľ)
+Referenčné číslo:
+Názov požiadavky:
+Požadovaný termín
+realizácie:
+Odvolávka na
+legislatívu (názov
+a číslo):
+Funkčná a technická
+špecifikácia:
+(v prípade potreby
+uveďte ďalšie
+informácie v osobitnej
+prílohe)
+
+Osobné údaje
+
+Budú spracovávané osobné údaje (zákazníci / zamestnanci / iné
+osoby):
+
+Doterajšie postupy
+spracovania:
+Riziká / dopady
+z nerealizácie
+požiadavky:
+Požadovaný rozsah
+dodávky:
+Objednávateľ
+požaduje v rámci
+realizácie tejto
+požiadavky (t.j. až po
+vystavení
+objednávky), dodať
+nasledovné plnenia.
+Je v zodpovednosti
+Dodávateľa, aby
+požadovaný rozsah
+dodávky (body
+označené vo
+formulári) zahrnul do
+návrhu riešenia
+a cenovej kalkulácie.
+
+Realizácia v projektovom režime - dopracovanie dokumentu
+Definícia projektu (podľa šablóny SPP); účasť tímu Dodávateľa na
+kickoff stretnutí; pravidelné stretnutia projektových manažérov;
+účasť na stretnutiach RK; vypracovávanie zápisov; tvorba
+projektovej dokumentácie; vypracovanie záverečnej správy.
+Vypracovanie detailného harmonogramu dodávky riešenia (formát
+mpp)
+Vykonanie analýzy pre návrh riešenia a dodávka dokumentu
+„Analýza pre návrh riešenia“
+Vykonanie a zdokumentovanie bezpečnostnej analýzy
+Vykonanie a zdokumentovanie
+osobných údajov
+
+analýzy
+
+z pohľadu
+
+ochrany
+
+Vypracovanie detailného návrhu riešenia a dodávka dokumentu
+„Detailný návrh riešenia“
+Dodávka SW / SW licencií
+Vývoj, implementácia, inštalácia, konfigurácia riešenia
+Príprava na vykonanie akceptačného testovania (vyhotovenie
+testovacích prípadov a scenárov, plánu akceptačného testovania
+a sumárneho protokolu testov)
+Dodávateľské testovanie s vyhodnotením a preukázaním výsledkov
+vo forme testovacieho protokolu zrealizovaného v réžii dodávateľa
+Vykonanie akceptačného testovania za účasti objednávateľa,
+vrátane nevyhnutného zaškolenia pracovníkov objednávateľa
+
+33 / 35
+
+Dodanie kompletnej projektovej, používateľskej a technickej
+dokumentácie a štandardnej dokumentácie výrobcu SW
+Školenie používateľov
+Školenie IT správcov / administrátorov
+Vyhotovenie a dodanie plánu nasadenia do produkčnej prevádzky
+Inštalácia, konfigurácia a oživenie na produkčnom prostredí
+Príprava a migrácia dát do produkčného prostredia
+Podpora po nasadení do produkčnej (produktívnej) prevádzky
+<na prípadné doplnenie>
+<na prípadné doplnenie>
+Poznámky
+
+Kontaktná osoba (osoby) za účelom poskytnutia detailnejších informácií:
+Meno a Priezvisko:
+Kontakt:
+
+sekcia, odbor:
+mobil:
+
+e-mail:
+
+34 / 35
+
+II. Návrh riešenia – ponuka (vypĺňa Dodávateľ)
+Koordinátor riešenia (kontaktná osoba na strane dodávateľa):
+Meno a Priezvisko:
+Kontakt:
+
+pracovná pozícia:
+mobil:
+
+e-mail:
+
+(v prípade variantného riešenia zopakujte nasledovnú tabuľku pre každý variant)
+Názov riešenia:
+Popis navrhovaného
+riešenia:
+(v prípade potreby uveďte
+ďalšie informácie v osobitnej
+prílohe)
+Predpoklady realizácie:
+Požadovaný HW/SW sizing:
+Nevyhnutné úpravy na
+strane dotknutých systémov:
+Požadovaná súčinnosť SPP:
+Čo nie je súčasťou riešenia
+zo strany Dodávateľa:
+Najskorší možný termín
+dodania:
+Stručný harmonogram
+realizácie:
+Navrhovaný spôsob
+a podmienky akceptácie:
+Poznámky, zhodnotenie,
+odporúčanie dodávateľa:
+Kroky realizácie
+
+Počet
+ČD:
+
+Cena (€):
+
+Poznámky:
+
+Príprava projektu
+Vypracovanie analýzy
+Detailný návrh riešenia
+Dodávka SW / SW licencií
+Vývoj, implementácia,
+konfigurácia riešenia
+Testovanie a akceptácia
+riešenia
+Dodanie dokumentácie
+Školenia
+Nasadenie do produkcie
+Migrácia dát
+Podpora po nasadení
+<iné – špecifikovať>
+SPOLU
+
+35 / 35
+
+

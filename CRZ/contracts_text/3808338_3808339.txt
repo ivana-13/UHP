@@ -1,0 +1,867 @@
+Kúpna zmluva č. Z201855076_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Ministerstvo dopravy a výstavby Slovenskej republiky
+Námestie slobody č. 6, 81005 Bratislava, Slovenská republika
+30416094
+2020799209
+
+00421259494824
+
+Dodávateľ:
+Obchodné meno:
+
+TEMPEST a.s.
+
+Sídlo:
+
+Galvaniho 17/B, 82104 Bratislava, Slovenská republika
+
+IČO:
+
+31326650
+
+DIČ:
+
+2020327716
+
+IČ DPH:
+
+SK2020327716
+
+Číslo účtu:
+
+SK13 1100 0000 0026 2004 1080
+
+Telefón:
+
+0250267111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Sieťové komponenty
+
+Kľúčové slová:
+
+Sieťové smerovače, Sieťové zariadenia, Videoprojektory
+
+CPV:
+
+32413100-2 - Sieťové smerovače; 32420000-3 - Sieťové zariadenia; 38652120-7 Videoprojektory; 60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Zoznam položiek:
+1. Bezdrôtový kontroler
+2. Autentifikačná platforma
+3. Prístupové body Model A0
+4. Prístupové body Model A1
+5. Bezdrôtový kontroler
+6. Dataprojektor
+Položka č. 1:
+
+Bezdrôtový kontroler
+
+Funkcia
+kontroler bezdrôtovej siete
+Technické vlastnosti
+
+Jednotka
+
+počet
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Prevedenie
+
+Špecializovaný HW appliance (nepripúšťa sa virtualizovaný
+kontroler). Veľkosť 1U s montážou do štandardného 19” dátového
+rozvádzača
+
+Strana 1 z 8
+
+Minimum
+
+Maximum
+
+Presne
+2
+
+Rozhrania
+
+Minimálne 8x 1000BASE-T/SFP kombo portov gigabit ethernet
+
+Kapacita
+
+Minimálny podporovaný počet AP bez nutnosti pridávania
+hardware: 64 AP
+
+Kapacita
+
+Minimálny podporovaný počet súčasne pripojených klientov: 4 000
+
+Kapacita
+
+Minimálny výkon statefull firewallu: 8 Gbit/s a 65 000 session
+
+SW
+
+Licencie pre všetky dodané APZdielanie licencií medzi viacerými
+kontrolermi
+
+Autentifikácia
+
+Typy autentizácie: WPA/WPA2-PSK, WPA/WPA2-Enterprise,
+802.1X, MAC autentizácie, “captive portal”,
+
+Autentifikácia
+
+802.1X overenie s následným overením MACPodporované
+autentizačné/autorizačné zdroje: RADIUS, LDAP, Active Directory,
+RFC 3576 Change of Authorization
+
+RF
+
+Funkcia riadenia a ochrany rádiového spektra s automatickou
+optimalizáciou siete (prideľovanie kanálov, fast roaming,
+rozdelenie klientov na jednotlivé AP)
+
+Prioritizácia
+
+Automatické dynamické rozpoznanie a prioritizácia hlasových
+protokolov ako SIP, SCCP, VOCERA a SVP pomocou funkcie DPI
+a ich SLA monitoring
+
+Funkcie firewallu
+
+Podpora rozpoznávania aplikácií na 7. vrstve (aplikácie typu:
+Youtube, Facebook, Dropbox, BitTorrent, Skype, Office365, a
+pod.).
+
+Funkcie firewallu
+
+Možnosť ich povoľovania, zakazovania, prioritizácie alebo
+obmedzovania s možnosťou vytvoriť minimálne 20 súbežných
+aplikačných pravidiel k obmedzeniu prevádzky konkrétnych
+aplikácií.
+
+RF bezpečnosť
+
+Podpora Rogue Wireless detekcie a containment
+
+Management
+
+CLI formou RJ45 serial console portUSB port pre prenos
+konfigurácie a firmware
+
+Management
+
+Dual boot flashPodpora SSHv2 a HTTPS web GUISNMPv2c,
+SNMPv3Integrované nástroje na diagnostiku bezdrôtovej siete –
+ping, traceroute, AAA test
+
+Management
+
+Nástroj pre odchytávanie WLAN dátovej prevádzky vrátane 802.11
+hlavičiek a možnosť jeho zaslania do Eternetového
+analyzátoruPodpora upgrade firmware pomocou: HTTPS, TFTP,
+FTP a USB
+
+kvalita
+
+Napr. ako Aruba 7030 (RW) alebo ekvivalentný*
+
+Položka č. 2:
+
+Autentifikačná platforma
+
+Funkcia
+Autentizačná platforma (AAA) pre riadenie prístupu užívateľov a zariadenia do LAN a WiFi.
+Technické vlastnosti
+
+Jednotka
+
+počet
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Vyhotovenie
+
+Autentizačná platforma (AAA) pre riadenie prístupu užívateľov a
+zariadenia do LAN a WiFi.
+
+Vyhotovenie
+
+On-premise appliance, neprípustné je cloud riešenie.
+
+Vyhotovenie
+
+Virtuálna appliance bez nutnosti dodatočných licencií napr. pro OS
+alebo databázy.
+
+Hlavná funkcia
+
+Podporované hypervisory: VMware (.OVA formát), Hyper-V, KVM.
+
+Hlavná funkcia
+
+Podpora 802.1X autentizácie pro bezdrôtové siete, Ethernet LAN
+siete a VPN.
+
+Vyhotovenie
+
+Podpora minimálne pre 1000 súčasne autentizovaných zariadení
+(pomocou 802.1X).
+
+Strana 2 z 8
+
+Minimum
+
+Maximum
+
+Presne
+1
+
+Vyhotovenie
+
+Možnosť vytvárania active-active clustrov. Cluster musí poskytovať
+vysokú dostupnosť pre všetky funkcionality a umožňovať
+navýšenie počtu podporovaných užívateľov pridaním ďalšej
+inštancie.
+
+Autentifikácia
+
+Podpora minimálne nasledujúcich autentifikačných metód:
+PEAP-MSCHAPv2, EAP-TLS, EAP-TTLS, MAC autentizácie.
+
+Autentifikácia
+
+Platforma musí umožňovať úplné oddelenie autentizácie a
+autorizácie, napr. autentizácie proti službe Active Directory, ale
+autorizácie proti externej SQL databáze.
+
+Autentifikácia
+
+Autorizácia zariadení a užívateľov na základe kontextových
+informácií ako čas, miesto pripojenia, typ zariadenia, osobný profil
+či členstvo v skupine v Active Directory.
+
+Ďalšie funkcie
+
+Podpora ďalších spôsobov autentizácie a autorizácie. Minimálne:
+LDAP, MS AD, Token, MAC auth, generická SQL databáza,
+Kerberos,
+
+Ďalšie funkcie
+
+HTTPS web autentizácia, Single Sign-On (minimálne SAML 2+ IdP
+a SP, OAuth, Shibboleth a Okta).
+
+Ďalšie funkcie
+
+Zber dodatočných informácií o pripojených zariadeniach
+(profilovanie) ako DHCP voľba klienta, HTTP užívateľský agent či
+predvoľba MAC adresy.
+
+Ďalšie funkcie
+
+Vyššie uvedené informácie o funkcionalite uvedené v
+predchádzajúcom bode je možné využiť pre doplnkové overenie
+prístupu zariadení do siete.
+
+Ďalšie funkcie
+
+Zber dodatočných informácii o pripojených IoT zariadeniach
+(profilovanie), pomocou aktívnych metód ako sú: SNMP, WMI a
+NMAP scan.
+
+Ďalšie funkcie
+
+Vyššie uvedené informácie o funkcionalite uvedené v
+predchádzajúcom bode je možné využiť pre doplnkové overenie
+prístupu zariadení do siete.
+
+Ďalšie funkcie
+
+Podpora REST API pre väčšinu základných úkonov AAA platformy.
+
+Ďalšie funkcie
+
+Podpora REST volania vyvolaného autentizačnou či autorizačnou
+udalosťou (pre predanie informácie o klientovi inému systému,
+automatické založenie support ticketu atď.).
+
+Ďalšie funkcie
+
+Funkcia pre riadenie prístupu hostov – LAN a WiFi Guest Captive
+portál
+
+Manažment
+
+HTTPS rozhranie s podporou konfiguračných sprievodcov a
+predkonfigurovaných šablón.
+
+Manažment
+
+Appliance podporuje šifrovanie diskov alebo súborov.Appliance
+podporuje CLI prístup a umožňuje v ňom konfiguráciu základných
+nastavení.
+
+kvalita
+
+Napr. ako Aruba ClearPass alebo ekvivalentný*
+
+Položka č. 3:
+
+Prístupové body Model A0
+
+Funkcia
+indoor prístupový bod
+Technické vlastnosti
+
+Jednotka
+
+počet
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Podpora bezdrôtových štandardov
+
+802.11a/b/g/n, 802.11ac wave1802.11ac wave2Plnohodnotná
+certifikácia Wi-Fi Aliancie IEEE 802.11a/b/g/n/ac
+
+Podpora bezdrôtových štandardov
+
+Podpor. pracovné režimy: AP riadené kontrolerom (lightweight) a
+autonómne AP Minimálny počet ethernet portov LAN:
+1x10/100/1000 Mbit/s RJ45Podpora štandardu IEEE 802.3af (PoE)
+a IEEE 802.3at (PoE+)
+
+Podpora bezdrôtových štandardov
+
+Podpora štandardného PoE 15,4W bez nutnosti redukcie výkonu
+5GHz rádiaPodpora napájania z AC napájacieho zdroja
+
+Strana 3 z 8
+
+Minimum
+
+Maximum
+
+Presne
+4
+
+RF
+
+Vstavaná interná anténa MIMO, omni down-tiltRádiová časť: dual
+band, súčasná podpora pásiem 2,4GHz a 5GHz
+
+RF
+
+MIMO a počet nezávislých streamov na 2,4GHz rádio: 2x2:2MIMO
+a počet nezávislých streamov na 5GHz rádio minimálne 3x3:3
+
+RF
+
+Automatické ladenie kanálu a sily signálu v koordinácii s ostatnými
+AP
+
+RF
+
+Hardware filtre pre filtráciu intermodulačných rušení
+pochádzajúcich z mobilných sietí (Advanced Cellular Coexistence)
+
+Bezpečnosť
+
+Integrovaný TPM pre bezpečné uloženie certifikátov a kľúčov
+
+kvalita
+
+Napr. ako Aruba IAP-305 alebo ekvivalentný*
+
+Položka č. 4:
+
+Prístupové body Model A1
+
+Funkcia
+indoor prístupový bod
+Technické vlastnosti
+
+Jednotka
+
+počet
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Prevedenie
+
+Uzatvorená konštrukcia bez ventilátorov, súčasťou AP je
+príslušenstvo pre montáž na stenu alebo strop
+
+Podpora bezdrôtových štandardov
+
+802.11a/b/g/n, 802.11ac wave1Plnohodnotná certifikácia Wi-Fi
+Aliancie IEEE 802.11a/b/g/n/ac
+
+Podpora bezdrôtových štandardov
+
+Podporované pracovné režimy: AP riadené kontrolerom
+(lightweight) a autonómne AP Minimálny počet ethernet portov
+LAN: 1x10/100/1000 Mbit/s RJ45
+
+Podpora bezdrôtových štandardov
+
+Podpora štandardu IEEE 802.3af (PoE) a IEEE 802.3at
+(PoE+)Podpora štandardného PoE 15,4W bez nutnosti redukcie
+výkonu 5GHz rádiaPodpora napájania z AC napájacieho zdroja
+
+RF
+
+Vstavaná interná anténa MIMO, omni down-tiltRádiová časť: dual
+band, súčasná podpora pásiem 2,4GHz a 5GHz
+
+RF
+
+MIMO a počet nezávislých streamov na 2,4GHz rádio: 2x2:2MIMO
+a počet nezávislých streamov na 5GHz rádio minimálne 2x2:2
+
+RF
+
+Automatické ladenie kanálu a sily signálu v koordinácii s ostatnými
+AP
+
+RF
+
+Hardware filtre pre filtráciu intermodulačných rušení
+pochádzajúcich z mobilných sietí (Advanced Cellular Coexistence)
+
+Bezpečnosť
+
+Integrovaný TPM pre bezpečné uloženie certifikátov a kľúčov
+
+kvalita
+
+Napr. ako Aruba IAP-207 alebo ekvivalentný*
+
+Položka č. 5:
+
+Minimum
+
+Maximum
+
+Presne
+34
+
+Bezdrôtový kontroler
+
+Funkcia
+L2 switch
+Technické vlastnosti
+
+Jednotka
+
+počet
+
+ks
+
+8
+
+Dostupný výkon pre PoE+ napájanie
+
+W
+
+195
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Prevedenie
+
+do racku, 1U
+
+Rozhrania
+
+Minimálne 24x10/100/1000Mbit RJ45 metalických portovMinimálne
+4x1Gbit SFP optických portov s voliteľným fyzickým rozhraním
+
+Rozhrania
+
+nezávislé1GE interface spätne kompatibilný s 100Mbit/s
+transceivramiPodpora PoE+ podľa štandardu 802.3at
+
+Strana 4 z 8
+
+Minimum
+
+Maximum
+
+Presne
+
+Management
+
+CLI formou RJ45 serial console portUSB konzolový
+portKonfigurácia zariadenia v človeku čitateľnej textovej
+formePodpora managementu cez IPv4 i IPv6SSHv2 a SFTP
+
+Management
+
+Podpora SNMPv2c a SNMPv3RMONPodpora oddelených čítačov
+paketov pre IPv4 a IPv6 prevádzkuPodpora RADIUS vrátane
+RADIUS CoA (RFC3576)
+
+Management
+
+Aktívny monitoring dostupnosti RADIUSu prednastaveným menom
+a heslomPodpora TACACS+Konfiguračné zmeny pomocou
+naplánovaných pracovných úloh (Job scheduler)
+
+Management
+
+Analýza prevádzky sFlow podľa RFC 3176Zrkadlenie portov SPAN
+v režime N:1Podpora Zero Touch Provisioning (ZTP)
+
+Management
+
+Automatická konfigurácia portu podľa pripojeného
+zariadeniaPodpora Cloud based management
+
+Kvalita
+
+Napr. ako Aruba 2530 24G PoE+ Switch alebo ekvivalentný*
+
+Položka č. 6:
+
+Dataprojektor
+
+Funkcia
+videoprojektor
+Technické vlastnosti
+
+Jednotka
+
+počet
+
+ks
+
+Maximálna uhlopriečka obrazu
+
+cm
+
+Minimálna uhlopriečka obrazu
+
+cm
+
+hlučnosť
+
+db
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Typ projekčnej vzdialenosti
+
+Normal Throw - bežná
+
+Formát zobrazenia
+
+16:09
+
+Podporované rozlíšenie
+
+VGA (640×480) až WUXGA_RB (1920×1200)
+
+Technológia
+
+DLP
+
+Osvetlenie
+
+Halogénové
+
+Grafické vstupy
+
+HDMI, VGA (D-SUB)
+
+Rozhranie
+
+PC (D-Sub)Monitor out (D-Sub 15 pin)2× HDMI (jeden zdieľa
+MHL)RJ-452× USB-AUSB-B miniRS-232Audio In/Out2× IR reciver
+(vpredu/hore)
+
+Svietivosť
+
+4 000 lm
+
+Výbava
+
+Reproduktory, Diaľkové ovládanie
+
+Funkcia
+
+Zoom, MHL, 3D
+
+Prichytenie
+
+Na strop, Na stôl alebo na zem
+
+Príslušenstvo
+
+Ovládač + batérieVGA kábel - kryt na šošovku- manuál- Napájací
+kábel
+
+kvalita
+
+Napr. ako BenQ MH733 alebo ekvivalentný*
+
+2.3
+
+Minimum
+
+Maximum
+
+Presne
+5
+
+762 (300 ")
+76,2 (30 ")
+33
+
+Osobitné požiadavky na plnenie:
+
+Názov
+*1. Konkrétne výrobky sú uvedené ako príklad kvality. Kupujúci pripúšťa ekvivalentné riešenie, za ktoré bude považovať
+výrobok rovnakých alebo vyšších parametrov. Predávajúci je povinný kupujúcemu riadne preukázať parametre ekvivalentného
+riešenia spĺňajúce technické vlastnosti uvedené vo Funkčnej, technickej špecifikácii predmetu zákazky.
+2. Tovar musí byť dodaný nový ( nie repasovaný alebo inak renovovaný), bez vád, s požadovanými vlastnosťami, nepoužitý, v
+originálnom balení s príslušnou dokumentáciou (záručný list) v slovenskom jazyku. Predávajúci dodá predmet zákazky, ktorý
+je certifikovaný a schválený na dovoz a predaj v SR, resp. v rámci EÚ a bude vyhovovať platným medzinárodným normám,
+STN a všeobecne záväzným právnym predpisom.
+3. Dodávaný tovar musí byť nový a nepoužívaný, vyrobený najneskôr v roku 2018.
+Strana 5 z 8
+
+4. Predmetom zákazky je aj doprava, vynáška dodávaného tovaru na miesto plnenia. Miestom plnenia je sídlo kupujúceho.
+5. Predávajúci do troch pracovných dní od uzavretia kúpnej zmluvy predloží kupujúcemu:
+5.1 zoznam, v ktorom uvedie údaje kontaktných osôb (meno, priezvisko, telefón, e-mail, adresu) pre realizáciu dodávky.
+5.2 podrobný zoznam dodávaného tovaru spolu s jednoznačnými identifikátormi dodávaného tovaru (part number) a s
+uvedením jednotkových cien jednotlivých položiek vychádzajúci z celkovej ceny plnenia podľa Technickej špecifikácie
+predmetu zákazky. Jednotkové ceny položiek musia byť uvedené na maximálne dve desatinné miesta.
+5.3 potvrdenie zastúpenia výrobcu v SR (v detaile pre každú ponúknutú položku), že ponúknutý tovar je dodávaný v rámci
+štandardných obchodných kanálov výrobcu a vzťahujú sa na naň štandardné záručné podmienky výrobcu.
+5.4 potvrdenie zastúpenia výrobcu v SR (pre každú ponúknutú obchodnú značku tovarov), že má status obchodného partnera.
+6. Predávajúcemu vzniká povinnosť dodať tovar až na základe vystavenia objednávky Kupujúcim.
+7. Kupujúci si vyhradzuje právo v lehote 90 dní od dodania tovaru dodaný tovar kedykoľvek vrátiť bez udania dôvodu. V
+prípade ak takáto skutočnosť nastane po uhradení faktúry, kupujúcemu budú vrátené finančné prostriedky v plnej výške.
+Kupujúci má tak možnosť odskúšania jednotlivých zariadení po dobu 90 dní.
+8. Kupujúci má právo odmietnuť prevzatie tovaru pre preukázateľné vady dodaného tovaru (napr. nedostatočná kvalita nedodržanie špecifikácie a požiadaviek na tovar, definovaných v bode II. Funkčná a technická špecifikácia predmetu
+zákazky,poškodený tovar a pod.).
+9. Predávajúcemu vznikne právo na vystavenie faktúry dňom riadneho a včasného dodania predmetu zmluvy po podpise
+preberacieho protokolu alebo dodacieho listu poverenými zástupcami oboch zmluvných strán. Podkladom pre zaplatenie
+kúpnej ceny bude faktúra vystavená predávajúcim.
+9.1 Ak je Predávajúci identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského
+štátu EÚ, tento Predávajúci nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť
+príslušnú sadzbu avýšku DPH podľa zákona č. 222/2004 Z. z. a cenu vrátane DPH. Kupujúci nie je zdaniteľnou osobou a v
+tomto prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z. z. a bude povinný odviesť DPH v SR podľa
+zákona č. 222/2004 Z. z..
+9.2 Ak je Predávajúci identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Predávajúci nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však
+musí uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z. z. a cenu vrátane DPH. Kupujúci nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z. z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z. z..
+9.3 Faktúra musí obsahovať všetky náležitosti daňového dokladu v zmysle zákona č. 222/2004 Z. z. o Dani z pridanej hodnoty
+v znení neskorších predpisov (ďalej len "zákon o DPH"). V prípade nesplnenia náležitostí v súlade so zákonom o DPH,
+Kupujúci faktúru vráti Predávajúcemu a lehota splatnosti začína plynúť dňom doručenia opravenej faktúry.
+10. Ak Predávajúci nepredloží Kupujúcemu zoznam dodávaného tovaru (ďalej len ,,zoznam“) alebo predloží zoznam, v ktorom
+ktorákoľvek hodnota/charakteristika nebude v súlade so skutočnými alebo požadovanými vlastnosťami dodávaného tovaru,
+alebo sa takýto produkt pokúsi dodať, objednávateľ je oprávnený uplatniť si u dodávateľa zmluvnú pokutu v sume rovnajúcej
+sa 10% z predpokladanej hodnoty zákazky, minimálne však 5000,00 € za každé také porušenie, pričom tým nie je dotknutý
+nárok na náhradu škody.
+11. V prípade, že Predávajúci dodá Kupujúcemu iný tovar ako požadovaný, alebo nesplní službu tak, ako bola požadovaná,
+Kupujúci je oprávnený uplatniť si u Predávajúceho zmluvnú pokutu v sume rovnajúcej sa 10% z predpokladanej hodnoty
+zákazky, minimálne však 5000,00 € za každý takýto prípad, pričom tým nie je dotknutý nárok na náhradu škody.
+12. Účelom zmluvnej pokuty je pokryť náklady, ktoré vzniknú v dôsledku nutnosti zrušenia zmluvy a opakovania obstarania
+vrátane všetkých pridružených procesov z dôvodu úmyselného alebo nezodpovedného ponúkania nezodpovedajúceho tovaru
+alebo služieb, ceny za ktorú to nie je možné dodať alebo nedokázaním splniť osobitné požiadavky. Zmluvná pokuta sa
+nežiada, ak ide o preklep alebo o zjavný omyl, príp. ak je veľmi pravdepodobné, že sa jedná o ojedinelý prípad prehliadnutia,
+alebo nepresnosti, čo posúdi Kupujúci.
+13. Kupujúci bude oprávnený odstúpiť od zmluvy v zmysle § 19 zákona o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov ( ďalej len ,,zákon o verejnom obstarávaní") alebo pri podstatnom porušení
+zmluvy alebo v prípadoch uvedených v týchto osobitných požiadavkách na plnenie alebo na základe dôvodov uvedených v
+Obchodných podmienkach elektronického trhoviska.
+14. Za podstatné porušenie zmluvy sa považuje ak:
+14.1 Predávajúci nepredloží doklady a potvrdenia špecifikované v bode 5. osobitných požiadavkách na plnenie do 3
+pracovných dní od uzavretia zmluvy.
+14.2 Predávajúci dodá tovar v rozpore s požadovanou Technickou špecifikáciou predmetu zákazky alebo tovar neposkytne.
+14.3 Predávajúci v omeškaní, t.j. neplní riadne a včas svoje záväzky vyplývajúce mu zo zmluvy a podľa požiadaviek
+Kupujúceho.
+14.4 Predávajúci jednostranne odstúpi od zmluvy po jej zverejnení v Centrálnom registri zmlúv (www.crz.gov.sk).
+
+Strana 6 z 8
+
+15. Pri podstatnom porušení zmluvy Predávajúcim Kupujúci odstúpi od zmluvy v súlade s článkom XVIII, bod 18.2, písm. a)
+časti OPET 2. ČASŤ „VŠEOBECNÉ ZMLUVNÉ PODMIENKY“, vystaví Predávajúcemu negatívnu referenciu v EKS a vystaví
+negatívnu referenciu pre Úrad pre verejné obstarávanie (ďalej len ,,ÚVO“), v ktorej Kupujúci oznámi, že došlo k predčasnému
+ukončeniu zmluvného vzťahu z dôvodu podstatného porušenia povinnosti Predávajúcim.
+16. Predávajúci musí mať vo výpise z obchodného registra resp. vo výpise zo živnostenského registra zapísanú činnosť
+rovnakú alebo obdobnú ako je predmet plnenia. V prípade ak túto skutočnosť nemá zapísanú v predmete činnosti vo výpise z
+obchodného registra resp. vo výpise zo živnostenského registra, je to dôvod na odstúpenie od zmluvy.
+17. Predávajúci má povinnosť zapísať sa do registra partnerov verejného sektora, ak sú splnené podmienky podľa § 2 zákona
+č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov. Nesplnenie tejto povinnosti
+podľa § 19 ods. 3 zákona o verejnom obstarávaní bude mať za následok odstúpenie od zmluvy zo strany Kupujúceho.
+18. Kupujúci potvrdzuje, že sa pred uzatvorením tejto zmluvy riadne oboznámil s Funkčnou, Technickou špecifikáciou
+predmetu zákazky a Osobitnými požiadavkami na plnenie predmetu zákazky.
+19. Predávajúci je povinný dodať predmet kúpy najneskôr do 6 týždňov odo dňa nadobudnutia účinnosti kúpnej zmluvy.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Námestie slobody 6
+
+Čas / lehota plnenia zmluvy:
+19.12.2018 13:00:00 - 30.01.2019 13:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+projekt
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 89 158,33 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 106 990,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+Strana 7 z 8
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 17.12.2018 13:38:01
+Objednávateľ:
+Ministerstvo dopravy a výstavby Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+TEMPEST a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 8 z 8
+
+

@@ -1,0 +1,323 @@
+ZMLUVA O POSKYTNUTÍ SLUŽIEB
+uzatvorená podľa § 269 ods. 2 Zákona č. 513/1991 Zb. Obchodného zákonníka v znení
+neskorších predpisov
+Číslo zmluvy objednávateľ:
+Číslo zmluvy poskytovateľ: 2017/VÚVH/SZ/001
+
+I. ZMLUVNÉ STRANY
+Objednávateľ:
+
+Výskumný ústav vodného hospodárstva
+Nábr. arm. gen. L. Svobodu 5
+812 49 Bratislava 1
+
+V zastúpení:
+
+Ing. Ľubica Kopčová,PhD.
+generálna riaditeľka
+
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu – IBAN:
+Zapísaný v :
+
+00 156 850
+2020798593
+SK2020798593
+Štátna pokladnica
+SK45 8180 0000 0070 0038 9943
+Úplné znenie Zriaďovacej listiny vydané Rozhodnutím ministra
+životného prostredia SR z 29. mája 2006 č. 21/2006-1.6.,
+
+/ďalej len ,,Objednávateľ“/
+
+a
+Poskytovateľ:
+
+JTS spol. s r.o.
+Stará Vajnorská cesta 16
+831 04 Bratislava 3
+
+V zastúpení:
+
+Ing. Anton Sucha
+konateľ
+
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu - IBAN:
+Zapísaný v :
+
+356 811 28
+2020338969
+SK2020338969
+Tatra banka a.s., Hodžovo námestie 3, 850 05 Bratislava
+SK28 1100 0000 0026 2802 3813
+Obchodný register Okresného súdu Bratislava I, Oddiel Sro,
+vložka číslo 10155_B
+
+/ďalej len ,,Poskytovateľ“/
+
+1
+
+PREAMBULA
+Zhotoviteľ je autorom diela „Aplikačné programové vybavenie (APV)
+DUSIČNANY a databázový design k databáze DUSIČNANY“ v zmysle zák. č. 185/2015
+Z.z. v znení neskorších predpisov, na ktorom je založená databáza VÚVH „iMonDUSIČNANY“ zameraná na zabezpečenie úloh v oblasti vodného hospodárstva a v oblasti
+vodohospodársko – ekologických problémov v celom komplexe.
+
+II. PREDMET ZMLUVY (dielo)
+1. Poskytovateľ sa touto zmluvou zaväzuje poskytnúť objednávateľovi služby spočívajúce
+vo vykonaní:
+
+Rozšírenie „Aplikačného programového vybavenia (APV) DUSIČNANY a
+databázového designu k databáze DUSIČNANY“ ( ďalej len iMon-DUSIČNANY ).
+1. Špecifikácia služieb:
+Rozšírenie iMon-DUSIČNANY v správe VÚVH.
+Rozšírenie iMon-DUSIČNANY spočíva:
+1) Rozšírenie funkcionality o automatické doplnenie atribútov objektu pri jeho vytváraní na
+základe vložených súradníc v S-JTSK (bez zadania polohy nebude objekt vytvorený). Ide o
+tieto atribúty:
+
+
+
+
+
+
+ID katastrálneho územia, názov katastrálneho územia
+ID obce, názov obce
+ID okresu, názov okresu
+ID kraja, názov kraja
+ID povodia, názov povodia
+ID útvaru podzemných vôd ( vyhľadá sa ID Kvartéru aj ID predkvartéru. Používateľ vyberie
+požadovaný útvar z combo-boxu), názov útvaru podzemných vôd
+
+2) Rozšírenie karty Merania-Terénne merania o tieto informácie a funkcionalitu
+
+
+
+
+
+
+
+
+Hĺbka odberu s možnosťami "od pažnice/terénu" s automatickým prepočtom hĺbky
+pridať nový check-box "málo vody". Po zaškrtnutí sa vymažú a zamknú polia pre tieto
+hodnoty terénnych meraní: teplota vody, pH, EK, rozpustný kyslík.
+Po zaškrtnutí check-boxu "suchý vrt" sa vymažú a zamknú polia pre tieto hodnoty terénnych
+meraní: teplota vody, pH, EK, rozpustný kyslík.
+pridať novú položku "nezadaný" pre combo-box "pach vzorky"
+nahradiť v databáze pach vzorky s hodnotou "žiadny" na "bez zápachu"
+pridať pole "NRL číslo"
+pole "Vzorku odobral" zmeniť na read-only a automaticky nastaviť túto hodnotu na
+vedúceho vzorkovacej cesty
+pridať nové pole "Poznámka" (max. 256 znakov)
+
+3) Rozšírenie karty Merania-Laboratórne merania o tieto vlastnosti
+
+
+Pri vkladaní údajov meraní povoliť vloženie prázdneho poľa ( hodnotu NULL ) pre hodnoty
+ukazovateľov. Teraz je nutné zadať nejaké číslo.
+
+2
+
+4) Rozšírenie karty Objekt-Základné o tieto informácie
+
+
+
+
+
+
+
+stav objektu
+stav vody
+osadenie označovača
+zaradenie do "Hodnotených oblastí", zoznam obcí na ktoré má objekt dopad.
+o pre nové objekty bude môcť používateľ vybrať okolité čísla obcí zo zoznamu
+o pre existujúce objekty sa tieto informácie doplnia dávkovo zo zoznamu dodaného
+VÚVH
+o každá hodnotená oblasť bude obsahovať informáciu o tom, či sa jedná o
+"Zraniteľnú oblasť " (ZO), dátum zaradenia a dôvod zaradenia
+o pre každú hodnotenú oblasť bude možné zobraziť jej históriu zaradenia do ZO
+zaviesť históriu zmeny položky "Označenie objektu". Pri zmene hodnoty zaznamenať
+dátumy platnosti označenia, kto a kedy to zmenil
+
+5) Rozšírenie karty Objekt-Hladina podzemnej vody o tieto informácie
+ pridať radio-button s novou položkou "Kras"
+6) Rozšírenie funkcionality v časti administrácia
+
+
+
+
+zamedziť možnosti vytvorenia duplicitného užívateľa
+pridať možnosť nastaviť status užívateľovi "aktívny/neaktívny". Neaktívny užívateľ sa
+nebude môcť prihlásiť do aplikácie
+
+7) Rozšíriť časť vzorkovanie o funkcionalitu "Vkladanie údajov z protokolov"
+
+
+
+
+
+vytvoriť nahrávací frame pre vkladanie údajov z protokolov pre všetky relevantné údaje z
+časti Merania-Terénne merania a Merania-Laboratórne merania
+zakázať možnosť výberu položky OV v combo-boxe "stav vody" (položka tam musí zostať
+kvôli histórii)
+v combo-boxe "údržba" zrušiť detailný výber druhu údržby
+
+8) Rozšíriť aplikáciu IMON-Dusičnany o modul "Exporty"
+
+
+
+
+
+
+
+
+
+
+vytvoriť frame pre zadanie parametrov exportov a ich spustenie
+export "Základné informácie" do csv
+export "Podrobné informácie" do csv
+export "Geológia" do csv
+export "Hladina vody a hĺbka vrtu" do csv
+export "Stav objektu" do csv
+export "Analýzy" do csv
+export "Hodnotenie" do csv
+
+2. Objednávateľ sa zaväzuje poskytnúť poskytovateľovi potrebnú súčinnosť v zmysle tejto
+zmluvy a zaplatiť mu za poskytnuté služby odplatu.
+
+III. ČAS A MIESTO PLNENIA
+1. Služby budú realizované do 31.12.2017.
+2. Miestom plnenia tejto zmluvy je VÚVH Bratislava, Nábr. arm. gen. L. Svobodu 5, 812 49
+Bratislava.
+3. Poskytovateľ sa zaväzuje zabezpečiť vykonanie služby na serveri VÚVH
+(hostname: bodove-zdroje.vuvh.sk) cez vzdialený prístup alebo osobne v mieste plnenia.
+
+3
+
+IV. CENA PREDMETU ZMLUVY
+1. Cena za vykonanie služieb v rozsahu uvedenom v čl. II. tejto zmluvy je stanovená
+dohodou zmluvných strán v zmysle zákona č. 18/1996 Z.z. o cenách v znení doplňujúcich
+predpisov ako cena maximálna. Zmena stanovenej ceny je možná len v prípade zmeny
+predpisov upravujúcich DPH alebo písomnou dohodou zmluvných strán.
+Cena bez DPH:
+20% DPH:
+Cena s DPH:
+
+4.800,00 EUR
+960,00 EUR
+5.760,00 EUR
+
+slovom: päťtisícsedemstošesťdesiat EUR s DPH
+2. V prípade, že dôjde k zmene právnej úpravy upravujúcej výšku DPH, použije sa vždy
+platná sadzba DPH. Z uvedeného dôvodu sa môže výška konečnej ceny zmeniť bez
+písomnej dohody zmluvných strán.
+
+V. ÚDAJE O FINANCOVANÍ A FAKTUROVANÍ
+1. Fakturácia sa uskutoční po riadnom poskytnutí služieb, ktoré sú predmetom zmluvy na
+základe faktúry vystavenej vo výške podľa čl. IV. tejto zmluvy.
+2. Poskytovateľ vystaví faktúru najskôr dňom nasledujúcim po dni vykonaní služieb, ktoré
+sú predmetom.
+3. Faktúra bude doložená preberacím protokolom potvrdeným zodpovedným zástupcom
+VÚVH.
+4. Splatnosť faktúry je stanovená do 30 dní od jej doručenia.
+
+VI. SPÔSOB ODOVZDÁVANIA A PREBERANIA
+1. Služby podľa tejto zmluvy sa považujú za poskytnuté ich riadnym vykonaním
+v dohodnutom termíne na dohodnutom mieste.
+2. Poskytovateľ je povinný poskytovať objednávateľovi služby s odbornou starostlivosťou.
+
+4
+
+3. Objednávateľ je povinný poskytovať poskytovateľovi súčinnosť potrebnú pre
+poskytovanie služieb. Za súčinnosť podľa tejto zmluvy sa považuje najmä umožnenie
+plnenia tejto zmluvy v dohodnutom rozsahu, na dohodnutom mieste a v dohodnutom čase.
+4. Odovzdanie a prebranie predmetu zmluvy sa uskutoční na základe protokolu o odovzdaní
+a prevzatí predmetu zmluvy potvrdeného zodpovednými zástupcami oboch zmluvných
+strán.
+5. Funkčnosť úprav za objednávateľa potvrdzuje Ing. Roman Cibulka.
+
+VII. REKLAMÁCIE
+1. Reklamácie je poskytovateľ povinný vybaviť v lehote najviac 10 pracovných dní od
+
+oznámenia reklamácie. Poskytovateľ vydá objednávateľovi doklad o prijatí reklamácie
+a spôsobe jej vybavenia.
+
+VIII. SANKCIE
+1. Pri omeškaní úhrady faktúry sa určujú úroky z omeškania objednávateľovi podľa § 369a
+Obchodného zákonníka a § 1 ods. 1 nar. vlády č. 21/2013 Z.z., v zmysle ktorého Sadzba
+úrokov z omeškania sa rovná základnej úrokovej sadzbe Európskej centrálnej banky1)
+platnej k prvému dňu príslušného kalendárneho polroka omeškania zvýšenej o osem
+percentuálnych bodov; takto určená sadzba úrokov z omeškania sa použije počas celého
+tohto kalendárneho polroka omeškania.
+V prípade zmeny právnej úpravy úrokov z omeškania sa použije vždy účinné zákonné
+znenie.
+2. Objednávateľ je oprávnený od zmluvy odstúpiť v prípade, že poskytovateľ si neplní svoje
+povinnosti, ktoré mu vyplývajú z tejto zmluvy. Pred odstúpením od zmluvy je
+objednávateľ povinný písomne vyzvať poskytovateľa, aby si splnil svoje zmluvné
+povinnosti. V prípade, ak si poskytovateľ svoje zmluvné povinnosti nesplní ani v lehote 15
+kalendárnych dní od doručenia výzvy, je objednávateľ oprávnený za podmienok
+uvedených v tejto zmluve od zmluvy odstúpiť.
+3. Poskytovateľ je povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 0,25%
+z celkovej ceny poskytnutých služieb za každý omeškaný deň, ak služby, ktoré sú
+predmetom zmluvy nebudú poskytnuté v dohodnutom čase, na dohodnutom mieste
+a v požadovanej kvalite, maximálne do výšky 1.000,00 EUR.
+
+IX. ZÁVEREČNÉ USTANOVENIA
+1. Táto zmluva je vyhotovená v štyroch exemplároch, pričom poskytovateľ obdrží jedno
+vyhotovenio a objednávateľ obdrží tri vyhotovenia. Všetky exempláre zmluvy majú
+rovnakú platnosť. Zmluva je platná odo dňa podpisu obidvomi zmluvnými stranami a
+účinná dňom nasledujúcim po dni jej zverejnenia CRZ.
+
+5
+
+2. Túto zmluvu možno zmeniť, upraviť alebo doplniť jedine písomnými dodatkami k nej
+potvrdenými obidvoma zmluvnými stranami. V prípade, ak sa niektorá zo zmluvných strán
+dozvie o skutočnostiach vyžadujúcich zmenu, úpravu alebo doplnenie tejto zmluvy, je
+povinná o tom obratom informovať druhú zmluvnú stranu.
+3. Poskytovateľ sa zaväzuje poskytnúť služby, ktoré sú predmetom zmluvy s náležitou
+starostlivosťou a odbornosťou, v súlade
+s požiadavkami objednávateľa v rámci
+dohodnutého predmetu zmluvy a stanovených termínov.
+4. Za zmluvnú stranu objednávateľa sú oprávnení rokovať:
+v technických otázkach: Ing. Miloš Reháček, Mgr. Anna Tlučáková
+v zmluvných otázkach: Jurek, advokátska kancelária, s.r.o., Bratislava
+5. Za zmluvnú stranu poskytovateľa sú oprávnení rokovať:
+v technických otázkach: Ing. Anton Sucha, Ing. Peter Koniar, Mgr. Martin Sucha
+v zmluvných otázkach: Ing. Anton Sucha
+6. Pre vzťahy medzi objednávateľom a poskytovateľom platia dojednania stanovené v tejto
+zmluve. Záležitosti, ktoré neboli výslovne dojednané v tejto zmluve sa riadia príslušnými
+ustanoveniami Obchodného zákonníka.
+7. Zmluvné strany vyhlasujú, že s touto zmluvou boli riadne oboznámené, že nebola uzavretá
+v tiesni, ani za iných, jednostranne nevýhodných podmienok.
+8. Poskytovateľ berie na vedomie, že v zmysle platnej právnej úpravy je VÚVH ako
+príspevková organizácia povinná túto zmluvu zverejniť v Centrálnom registri zmlúv.
+9. Poskytovateľ sa zaväzuje, že umožní, strpí výkon kontroly /auditu/ overovania na serveri
+bodove-zdroje.vuvh.sk súvisiaceho s dodávanými službami kedykoľvek počas platnosti
+a účinnosti zmluvy a to oprávnenými osobami a poskytne im všetku potrebnú súčinnosť.
+
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+Za objednávateľa:
+
+Za poskytovateľa:
+
+...................................................
+Ing. Ľubica Kopčová, PhD.
+generálna riaditeľka
+
+...................................................
+Ing. Anton Sucha
+konateľ
+
+6
+
+

@@ -1,0 +1,1197 @@
+Servisná zmluva č. 39/2016/110
+na zabezpečenie servisnej podpory informačného systému IACS
+(ďalej len „Zmluva“)
+uzavretá podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších
+predpisov
+1. Zmluvné strany
+1.1. Objednávateľ:
+Názov:
+Sídlo:
+IČO:
+Bankové spojenie:
+IBAN:
+Štatutárny zástupca:
+Rozpočtová organizácia:
+Poverený zamestnanec na
+rokovanie vo veciach Zmluvy:
+
+Pôdohospodárska platobná agentúra
+Dobrovičova č. 12, 815 26 Bratislava
+307 94 323
+Štátna pokladnica Bratislava
+SK32 8180 0000 0070 0011 6152
+Ing. Juraj Kožuch, PhD.
+generálny riaditeľ
+zriadená zákonom č. 473/2003 Z. z. v znení neskorších predpisov, s
+pôsobnosťou podľa zákona č. 543/2007 Z. z. v znení neskorších predpisov
+Riaditeľ sekcie informačných technológií v spolupráci s vecne príslušnými vedúcimi
+zamestnancami, podľa pôsobnosti uvedenej v Organizačnom poriadku PPA.
+
+(ďalej len „Objednávateľ“)
+a
+1.2. Dodávateľ:
+Obchodné meno:
+sídlo:
+V mene ktorého koná:
+IČO:
+IČ DPH:
+bankové spojenie:
+IBAN: 1672895251
+spoločnosť zapísaná v:
+Poverení zamestnanci na
+rokovanie vo veciach Zmluvy
+a zodpovední za jednotlivé
+oblasti jej plnenia:
+
+AXASOFT, a. s.
+Radničné nám. 4, 821 05 Bratislava
+Ing. Juraj Polák, predseda predstavenstva
+Ing. Dušan Kráľ, člen predstavenstva
+35 738 219
+SK2020269691
+OTP Banka Slovensko
+Obchodnom registri Okresného súdu Bratislava I, Oddiel: Sa, Vložka č. 1627/B
+
+Ing. Alica Sirotová, tel.: 0903 464 733, alica.sirotova@axasoft.eu, projektový
+manažér IACS
+Ondrej Bielik, tel.: 0918 702 732, ondrej.bielik@axasoft.eu, projektový manažér
+OS a DB
+
+(ďalej len „Dodávateľ“)
+(Objednávateľ a Dodávateľ ďalej spolu ako „Zmluvné strany“)
+
+2. Preambula
+A.
+
+B.
+
+C.
+
+Dodávateľ ako zhotoviteľ sa podieľal na vytvorení a dodaní počítačového programu Integrovaný
+administratívny a kontrolný systém IACS (ďalej len „IACS“) pre Objednávateľa na základe (i) Zmluvy o dielo
+na dodávku Integrovaného administratívneho a kontrolného systému v rezorte Ministerstva pôdohospodárstva
+Slovenskej republiky zo dňa 15.01.2003 v znení dodatkov 1 až 13 (táto zmluva ďalej v znení neskorších
+dodatkov len ako „Zmluva o dielo IACS“) a (ii) Zmluvy č. 4/2011 zo dňa 15.12.2011 o vytvorení počítačového
+programu dodávka úpravy systému IACS pre rok 2011 podľa aktuálnych podmienok pre poskytovanie
+priamych platieb, úprava modulu IACS pre autorizáciu platieb a pokynov na ich úhradu, doplnenie webových
+služieb a upgrade prostredia Oracle na verziu 11g (táto zmluva ďalej len ako „Zmluva o vytvorení počítačového
+programu IACS“) uzavretými medzi zmluvnými stranami.
+IACS vrátane jeho modifikácií je komplexné aplikačné programové vybavenie, ktorého vývoj a používanie, ako
+aj s tým súvisiace zmluvné a licenčné vzťahy siahajú do roku 2003. Ide o špecializovaný systém, ktorý bol
+vyvinutý, dlhodobo modifikovaný a upravovaný špecificky podľa potrieb Objednávateľa a požiadaviek
+vyplývajúcich z aplikovateľnej legislatívy. Dodávateľ je jediným subjektom disponujúcim osobitným know-how
+vo veci metodológie fungovania IACS a vzájomnej interoperability IACS a ďalších informačných systémov
+Objednávateľa.
+S ohľadom na technické dôvody v danom prípade neexistuje hospodárska súťaž ani žiadna primeraná
+alternatíva s tým, že táto skutočnosť nie je výsledkom umelého zúženia parametrov verejného obstarávania.
+Vzhľadom na uvedené sú naplnené podmienky na zadanie zákazky Dodávateľovi priamym rokovacím konaním
+podľa § 81 písm. b) bodu 2 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov, v znení neskorších predpisov.
+
+3. Výklad pojmov a skratiek použitých v Zmluve
+„Aplikácia“ – Pod pojmom „Aplikácia“ sa rozumie:
+a) IACS, ktorý bol vytvorený a dodaný na základe a za podmienok dohodnutých v Zmluve o dielo IACS a v
+Zmluve o vytvorení počítačového programu IACS,
+b) modifikácia a vývoj IACS na základe:
+(i) Zmluvy o dielo č. 9/2013 na dodávku zmien, úprav a rozvoja vybraných funkcionalít aplikačného
+programového vybavenia systému IACS a systému AGIS
+(ii) Servisnej zmluvy č. 12/2012 na zabezpečenie servisnej podpory informačných systémov IACS a AGIS
+c) prípadný upgrade IACS.
+„Subdodávateľ“ – Je tretia osoba, ktorú je Dodávateľ oprávnený použiť na plnenie predmetu Zmluvy po
+predchádzajúcom súhlase Objednávateľa.
+„Systém“ – Pre účely Zmluvy je pod pojmom Systém potrebné chápať Aplikáciu vytvorenú Dodávateľom, operačný
+systém a SW ORACLE, na ktorých je prevádzkovaná Aplikácia.
+„Incident“ – Neplánované prerušenie funkčnosti Systému alebo zníženie jej kvality.
+„Vada“ – Nesprávna funkčnosť Systému vykazujúca chyby.
+„Pracovníci Dodávateľa“ – Sú pracovníci určení Dodávateľom na plnenie predmetu Zmluvy. Zoznam pracovníkov
+Dodávateľ písomne predloží Objednávateľovi v lehote do pätnástich dní od účinnosti tejto Zmluvy.
+„Oprávnení zamestnanci Objednávateľa“ – Sú zamestnanci Objednávateľa určení Objednávateľom na
+špecifikovanie a zadávanie incidentov a požiadaviek, využívanie jednotlivých Služieb, potvrdzovanie kontrolných
+listov, verifikovanie preberacích (akceptačných) protokolov a poskytovanie potrebnej súčinnosti Dodávateľovi na
+plnenie jeho zmluvných povinností vyplývajúcich mu zo Zmluvy. Zoznam týchto zamestnancov Objednávateľa
+Objednávateľ písomne predloží Dodávateľovi v lehote do pätnástich dní od účinnosti tejto Zmluvy.
+„Služba“ – Je súbor činností, ktoré sú bližšie popísané v Prílohe č. 1 Zmluvy.
+„Riadiaci výbor“ – Rozumie sa výbor, ktorého členovia sú nominovaní každou zmluvnou stranou a do ktorého
+pôsobnosti patrí vykonávanie zásadných činností v rámci zabezpečovania Servisnej zmluvy; štruktúra a pôsobnosť
+Riadiaceho výboru sú detailne špecifikované v článku 11 Zmluvy.
+
+4. Predmet Zmluvy
+4.1.
+
+4.2.
+
+Dodávateľ poskytne Objednávateľovi Služby, ktoré sú bližšie popísané v Prílohe č. 1 Zmluvy za účelom
+zabezpečenia servisnej podpory Systému a Objednávateľ uhradí za ich vykonávanie Dodávateľovi cenu
+podľa článku 7 tejto Zmluvy.
+V prípade nesúladu (rozporu) medzi ustanoveniami pojednávajúcimi o spôsobe a pravidlách zabezpečenia
+predmetu tejto Zmluvy a zmluvami uzatvorenými medzi Objednávateľom a Dodávateľom pred dátumom
+podpisu tejto Zmluvy, majú ustanovenia tejto Zmluvy prednosť pred ustanoveniami v tomto článku
+zmienených zmlúv.
+Strana 2 / 21
+
+5. Povinnosti Dodávateľa
+5.1.
+5.2.
+
+5.3.
+5.4.
+
+5.5.
+
+5.6.
+5.7.
+
+5.8.
+
+5.9.
+
+5.10.
+
+5.11.
+5.12.
+
+5.13.
+
+5.14.
+
+5.15.
+
+Dodávateľ sa zaväzuje poskytovať Služby podľa predmetu Zmluvy a dodržať lehoty, rozsah, kvalitu a
+povinnosti stanovené v Zmluve.
+Ak Dodávateľ pri poskytovaní Služby zistí, že Systém vykazuje bezpečnostné nedostatky, zaväzuje sa to
+neodkladne oznámiť Objednávateľovi elektronicky (emailom na dotknutých Oprávnených zamestnancov
+Objednávateľa, pri vážnom incidente okamžite po odhalení takéhoto incidentu) a bezodkladne odstrániť
+zistené bezpečnostné nedostatky ak nie sú zapríčinené vadami tretích strán.
+Dodávateľ sa zaväzuje zdokumentovať relevantné vykonávané Služby na základe tejto Zmluvy podľa Prílohy
+č. 1 Zmluvy.
+Dodávateľ sa zaväzuje na základe požiadavky Objednávateľa zaevidovanej v HelpDesk systéme
+Dodávateľa prostredníctvom rozhrania medzi HelpDesk systémami Objednávateľa a Dodávateľa
+poskytovať súčinnosť ostatným dodávateľom Objednávateľa.
+Dodávateľ sa zaväzuje rešpektovať autorské práva k materiálom poskytnutým Objednávateľom a všetky
+poskytnuté materiály vrátiť po použití späť Objednávateľovi, pokiaľ nebude dohodnuté inak. Dodávateľ a
+Subdodávatelia majú právo vynášať údaje, materiály a zariadenia patriace Objednávateľovi z priestorov
+Objednávateľa len na základe písomného súhlasu Oprávneného zamestnanca Objednávateľa. Dodávateľ a
+Subdodávatelia nesmú vynášať údaje, materiály a zariadenia patriace Objednávateľovi zo svojho
+technologického prostredia, priestorov do iných prostredí a priestorov patriacich tretím stranám bez
+predchádzajúceho písomného súhlasu Objednávateľa.
+Dodávateľ sa zaväzuje udržiavať vlastné vývojové prostredie identické s prostredím produkčnej prevádzky
+Objednávateľa a odborne spôsobilý vývojový tím pracovníkov.
+Dodávateľ sa zaväzuje na základe požiadavky Objednávateľa zaevidovanej v HelpDesk systéme
+Dodávateľa prostredníctvom rozhrania medzi HelpDesk systémami Objednávateľa a Dodávateľa poskytovať
+súčinnosť pri výkone kontroly/auditu/overovania u Odberateľa súvisiaceho s dodávanými Službami.
+Dodávateľ sa zaväzuje poskytnúť súčinnosť a realizovať odstránenie auditných zistení Systému na základe
+požiadavky Objednávateľa zaevidovanej v HelpDesk systéme Dodávateľa prostredníctvom rozhrania medzi
+HelpDesk systémami Objednávateľa a Dodávateľa.
+Dodávateľ sa zaväzuje dodržiavať povinnosti vyplývajúce zo zákona č. 122/2013 Z. z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov, v znení neskorších predpisov (ďalej len „zákon o ochrane
+osobných údajov“). V prípade, ak Dodávateľ pri poskytovaní Služieb poruší niektorú z povinností podľa
+zákona o ochrane osobných údajov a Úrad na ochranu osobných údajov SR z tohto dôvodu uloží
+Objednávateľovi pokutu, Dodávateľ sa zaväzuje nahradiť Objednávateľovi škodu v podobe takto uloženej
+a Objednávateľom zaplatenej pokuty.
+Všetky informácie a osobné údaje o klientovi – žiadateľovi o podporu (meno, priezvisko, titul, bydlisko, rodné
+číslo, identifikačné číslo organizácie, bankový účet/účty), budú vo vývojovom a v testovacom prostredí
+Dodávateľa vedené len v anonymizovanej podobe. Dodávateľ nebude v rámci plnenia Zmluvy spracúvať
+osobné údaje klientov – žiadateľov o podporu. Dodávateľ sa zaväzuje použiť akékoľvek údaje, ktoré mu
+Objednávateľ poskytne alebo inak sprístupní v súvislosti s touto Zmluvou, len za účelom plnenia predmetu
+Zmluvy.
+Dodávateľ sa zaväzuje prenášať údaje definované v bode 5.10 do svojho prostredia už anonymizované.
+Ak Dodávateľ použije Subdodávateľov na plnenie tejto Zmluvy, zodpovedá za ich činnosť ako by plnil
+predmet Zmluvy sám. Zoznam Subdodávateľov Dodávateľ písomne predloží Objednávateľovi v lehote do
+pätnástich dní od účinnosti tejto Zmluvy. V prípade, že práce Subdodávateľa presahujú 15% z ceny diela,
+musí byť uvedený v zmluve.
+V prípade plánovanej zmeny v zozname Pracovníkov Dodávateľa je Dodávateľ povinný o tejto skutočnosti
+informovať písomne Objednávateľa najneskôr päť pracovných dní pred touto zmenou, pričom je Dodávateľ
+povinný predložiť Objednávateľovi aktualizovaný zoznam Pracovníkov Dodávateľa. Zmena voči
+Objednávateľovi je účinná momentom, keď sa o tejto zmene Objednávateľ dozvedel.
+Dodávateľ sa zaväzuje, že bezodkladne písomne oznámi Objednávateľovi, ak bude na neho vyhlásený
+konkurz, bude povolená reštrukturalizácia, alebo vstúpi do likvidácie. Objednávateľ má z tohto dôvodu právo
+písomne odstúpiť od tejto Zmluvy. Doručenie odstúpenia Objednávateľa sa spravuje ustanovením bodu
+14.8. tejto Zmluvy.
+Dodávateľ sa zaväzuje, že strpí výkon kontroly/auditu/overovania súvisiaceho s dodávanými Službami
+počas účinnosti tejto Zmluvy zo strany oprávnených osôb (ďalej aj ako „Kontrola oprávnenými osobami“).
+Oprávnené osoby na výkon kontroly/auditu/overovania sú najmä:
+
+Poskytovateľ podpory/príspevku, (PPA a MPRV SR) a ním poverené osoby,
+
+Najvyšší kontrolný úrad SR, Úrad vládneho auditu,
+
+Certifikačný orgán a ním poverené osoby,
+
+Splnomocnení zástupcovia Európskej Komisie a Európskeho dvora audítorov.
+Strana 3 / 21
+
+Objednávateľ sa zaväzuje minimálne jeden mesiac pred výkonom kontroly/auditu/overovania súvisiaceho
+s dodávanými Službami informovať Dodávateľa o zámere vykonať kontrolu/audit/overovanie s uvedením
+termínu a miesta Kontroly oprávnenými osobami, jej obsahu, formy a predpokladaného rozsahu súčinnosti
+požadovanej zo strany Dodávateľa. Pokiaľ Objednávateľ z objektívnych príčin nemôže dodržať dojednanú
+lehotu na oznámenie Kontroly oprávnenými osobami, zaväzuje sa informovať Dodávateľa o tejto kontrole
+v rozsahu podľa predchádzajúcej vety bezodkladne potom, ako sa o zámere vykonať Kontrolu oprávnenými
+osobami dozvie.
+5.16. Dodávateľ sa zaväzuje po zadaní požiadavky na opravu Systému vždy vykonať analýzu dopadov na
+jednotlivé časti Systému. Analýza dopadov musí obsahovať aj zhodnotenie možných rizík z hľadiska
+dôvernosti, dostupnosti a integrity dát. Táto analýza dopadov bude súčasťou funkčnej špecifikácie ku každej
+požiadavke na opravu Systému.
+5.17. Dodávateľ sa zaväzuje vykonávať zmeny v Systéme tak, aby boli dodržané pravidlá podľa medzinárodných
+štandardov ISO 27001 a ISO 27002, ktorými je viazaný Objednávateľ.
+6. Povinnosti Objednávateľa
+6.1.
+
+6.2.
+
+6.3.
+
+6.4.
+
+6.5.
+
+6.6.
+
+Objednávateľ sa zaväzuje zaistiť podľa Zmluvy súčinnosť, ktorú je oprávnene možné považovať za obvyklú
+a primeranú. Touto súčinnosťou sa rozumie najmä poskytovanie informácií v potrebnom rozsahu na
+identifikáciu príčin neštandardného správania Systému, poskytovanie informácií potrebných na
+zapracovanie legislatívnych opráv Systému a spolupráca pri testovaní zapracovaných opráv.
+Objednávateľ sa zaväzuje zabezpečiť prístup Pracovníkom Dodávateľa k Systému v nevyhnutnom rozsahu
+na vykonávanie Služieb v rozsahu predmetu Zmluvy na úrovni fyzickej (prístup do priestorov) ako aj logickej
+(prístup k databázam a informačným systémom). Bližšia špecifikácia nevyhnutného rozsahu prístupu je
+uvedená v popise poskytovaných Služieb v Prílohe č. 1 Zmluvy.
+V prípade plánovanej zmeny v zozname Oprávnených zamestnancov Objednávateľa je Objednávateľ
+povinný o tejto skutočnosti informovať písomne Dodávateľa bezodkladne po uskutočnenej zmene, pričom je
+Objednávateľ povinný predložiť Dodávateľovi aktualizovaný zoznam Oprávnených zamestnancov
+Objednávateľa. Zmena voči Dodávateľovi je účinná momentom, keď sa o tejto zmene dozvedel.
+Objednávateľ sa zaväzuje všetky vady/incidenty nahlasovať a evidovať v HelpDesk systéme Objednávateľa.
+Objednávateľ je povinný tieto hlásenia poskytnúť Dodávateľovi prostredníctvom dohodnutého rozhrania do
+HelpDesk systému Dodávateľa.
+Objednávateľ prostredníctvom Oprávneného zamestnanca Objednávateľa e-mailom potvrdí svoj súhlas do
+štyroch hodín v rámci pracovnej doby a do dvanástich hodín mimo pracovných hodín Objednávateľa s
+výkonom Služby Pracovníkov Dodávateľa vyžadujúcou fyzický prístup (prístup do priestorov), alebo logický
+prístup (prístup k databázam a informačným systémom) na základe písomnej alebo emailovej požiadavky
+Dodávateľa. Dodávateľ zabezpečí realizáciu Služby až po doručení písomného súhlasu Objednávateľa
+Dodávateľovi. Písomný súhlas môže mať formu listu, alebo emailu zaslaného príslušnému projektovému
+manažérovi Dodávateľa.
+V prípade havarijného stavu „Systém mimo prevádzky“ je Objednávateľ prostredníctvom Oprávneného
+zamestnanca Objednávateľa povinný emailom alebo telefonicky potvrdiť svoj súhlas s fyzickým a/alebo
+logickým prístupom na základe požiadavky Dodávateľa bez zbytočného odkladu. Prípadné oneskorenie
+Dodávateľa s výkonom Služby spôsobené oneskorením písomného súhlasu Objednávateľa nie je a nemôže
+byť vysvetľované ako porušenie reakčného času alebo času na odstránenie havarijného stavu a z tohto titulu
+nevzniká Objednávateľovi nárok na uplatnenie akejkoľvek sankcie, zmluvnej pokuty alebo náhrady škody
+voči Dodávateľovi.
+
+7. Rozsah a cena poskytovaných Služieb
+7.1.
+7.2.
+
+Dodávateľ v rámci Služieb č. 1, 3, 4, 5, 6 a 7 uvedených v Prílohe č.1 Zmluvy bude pre Objednávateľa
+realizovať výkony v rozsahu 1 728 hodín mesačne ocenené hodinovou sadzbou 70,04 EUR.
+Dodávateľ v rámci Služieb č. 2, 8, 9 a 10 uvedených v Prílohe č.1 Zmluvy bude pre Objednávateľa realizovať
+výkony ocenené hodinovou sadzbou 70,04 EUR. Zmluvný rozsah poskytovania týchto Služieb je 50 688
+hodín na obdobie štyroch rokov. Dodávateľ bude mesačne fakturovať čiastku, ktorá je vypočítaná ako súčin
+hodinovej sadzby a Služieb č. 2, 8, 9 a 10 podľa reálne odpracovaných hodín v danom mesiaci.
+Objednávateľ môže Služby č. 2, 8, 9 a 10 čerpať nerovnomerne, na základe požiadavky, ale v jednom
+kalendárnom mesiaci nemôže požadovať plnenie v rozsahu väčšom ako 3 000 hodín. V prípade, že
+Objednávateľ bude požadovať pri poskytovaní Služieb mesačné čerpanie viac ako 3 000 hodín, musí zadať
+písomnú požiadavku minimálne 3 mesiace pred plánovaným čerpaním, ktorá následne podlieha súhlasu
+Dodávateľa.
+Strana 4 / 21
+
+7.3.
+7.4.
+
+7.5.
+7.6.
+7.7.
+
+7.8.
+7.9.
+
+Ceny v bodoch 7.1 a 7.2 sú uvedené bez dane z pridanej hodnoty, ktorá sa bude určovať podľa všeobecne
+záväzných právnych predpisov v čase fakturácie.
+Ak účinnosť Zmluvy nastane k inému termínu ako je prvý pracovný deň kalendárneho mesiaca, potom v
+prvom a poslednom kalendárnom mesiaci trvania Zmluvy bude Dodávateľ fakturovať Objednávateľovi
+alikvotnú časť mesačného poplatku uvedeného v bodoch 7.1 a 7.2 Zmluvy pripadajúcu na počet dní trvania
+Zmluvy v dotknutom kalendárnom mesiaci.
+Dodávateľ vystaví mesačne faktúru pre Objednávateľa a to najneskôr do 10. dňa nasledujúceho mesiaca za
+Služby poskytované Objednávateľovi v predchádzajúcom mesiaci.
+Lehota splatnosti faktúr je do tridsiatich kalendárnych dní odo dňa ich doručenia Objednávateľovi.
+Prílohu faktúry tvorí (i) výkaz vykonaných prác za Služby č. 1, 3, 4, 5, 6 a 7 jednotlivými Pracovníkmi
+Dodávateľa za príslušný mesiac potvrdený podpisom osoby, ktorá práce vykonala a príslušného
+projektového manažéra Dodávateľa (ii) akceptačné protokoly Služieb č. 2, 8, 9 a 10 potvrdené podpisom
+Oprávneným zamestnancom Objednávateľa a príslušným projektovým manažérom Dodávateľa.
+Všetky platby Objednávateľa v prospech Dodávateľa budú poukázané na bankový účet Dodávateľa, ktorý
+je uvedený v záhlaví Zmluvy.
+Ak faktúra nebude obsahovať všetky náležitosti daňového dokladu alebo bude inak nesprávne vystavená,
+Objednávateľ je oprávnený ju vrátiť Dodávateľovi do piatich pracovných dní od jej doručenia na doplnenie
+alebo prepracovanie a nová lehota splatnosti začne plynúť dňom doručenia správne doplnenej alebo
+prepracovanej faktúry Dodávateľom Objednávateľovi.
+
+8. Miesto poskytovania Služieb
+8.1.
+8.2.
+
+Miestom poskytovania Služieb je sídlo Objednávateľa – Dobrovičova 12, 815 26 Bratislava.
+Poskytovanie Služieb je možné aj prostredníctvom zabezpečeného vzdialeného prístupu cez internet do
+testovacieho a produkčného prostredia Objednávateľa v súlade s bodom 6.5 tejto Zmluvy.
+
+9. Pravidlá riadenia informačnej bezpečnosti
+9.1.
+
+9.2.
+
+9.3.
+9.4.
+
+Dodávateľ sa zaväzuje postupovať v súlade s politikou informačnej bezpečnosti a ostatnou bezpečnostnou
+dokumentáciou Objednávateľa v rozsahu, v ktorom s ňou Objednávateľ Dodávateľa vopred riadne oboznámi
+, a to hlavne za účelom zabezpečenia informačnej bezpečnosti pri fyzickom aj logickom prístupe k Systému
+a plánu obnovy IS. Dodávateľ sa tiež zaväzuje postupovať v súlade s internými riadiacimi aktmi
+Objednávateľa pre riešenie a nahlasovanie vád/incidentov IS PPA, a to v rozsahu, v ktorom s nimi
+Objednávateľ Dodávateľa vopred preukázateľne oboznámil. V rámci vykonávania Služieb v zmysle
+predmetu Zmluvy ide najmä o:
+- opis každej činnosti, ktorá má byť Pracovníkom Dodávateľa sprístupnená a vykonávaná v rámci
+Systému,
+- dohodu o riadení prístupu a používaní jedinečných identifikátorov pre Pracovníkov Dodávateľa pri vstupe
+do Systému,
+- aktualizovanie a udržiavanie menného zoznamu Pracovníkov Dodávateľa autorizovaných pre
+používanie Služieb Systému,
+- právo Objednávateľa monitorovať prácu Pracovníkov Dodávateľa, vykonávanie auditu ich činnosti alebo
+ponechanie vykonania takéhoto auditu tretej strane.
+Dodávateľ sa zaväzuje vykonať všetky dostupné opatrenia na zabezpečenie toho, aby nemohlo dôjsť ku
+strate dát, k poškodeniu zariadení, alebo k neočakávanému prerušeniu prevádzky v súvislosti so servisnými
+prácami vykonávanými na Systéme. V prípade, že napriek preukázateľným opatreniam zo strany
+Dodávateľa dôjde ku strate dát, k poškodeniu zariadení, alebo k neočakávanému prerušeniu prevádzky v
+súvislosti s prácami na Systéme, Dodávateľ sa zaväzuje neodkladne o tom informovať manažéra pre
+informačnú bezpečnosť Objednávateľa emailom aj telefonicky (prípadne SMS správou, ak je Objednávateľ
+nedostupný) najneskôr však do jednej hodiny počas pracovnej doby Objednávateľa. Objednávateľ sa
+zaväzuje Dodávateľovi bezodkladne emailom potvrdiť príjem emailu a SMS správy od Dodávateľa podľa
+predchádzajúcej vety. V prípade havárie Systému, kedy Objednávateľ nemôže využívať Systém, sa
+Dodávateľ zaväzuje vyvinúť maximálne úsilie, aby navrátil Systém do stavu pred neočakávaným prerušením
+prevádzky.
+Dodávateľ sa zaväzuje rešpektovať počas výkonu prác operatívne pokyny manažéra pre informačnú
+bezpečnosť Objednávateľa a Oprávnených zamestnancov Objednávateľa.
+Dodávateľ sa zaväzuje spracovať a kontinuálne udržiavať aktuálny zoznam Pracovníkov Dodávateľa.
+Dodávateľ sa zaväzuje uschovať poučenie Pracovníkov Dodávateľa, na formulároch „Poučenie tretích
+strán“, ktorý Objednávateľ poskytne Dodávateľovi do pätnástich dní od účinnosti tejto Zmluvy.
+Strana 5 / 21
+
+9.5.
+
+9.6.
+
+9.7.
+9.8.
+
+9.9.
+9.10.
+
+9.11.
+
+9.12.
+
+9.13.
+
+Objednávateľ sa zaväzuje poskytovať Dodávateľovi informácie o politike informačnej bezpečnosti a ostatnej
+bezpečnostnej dokumentácii v rozsahu nevyhnutnom pre plnenie záväzkov Dodávateľa vyplývajúcich zo
+Zmluvy.
+Ak Dodávateľ požaduje výnimku z bezpečnostných požiadaviek Objednávateľa, je nutné, aby predložil
+manažérovi pre informačnú bezpečnosť Objednávateľa žiadosť e-mailom s odôvodnením tejto výnimky.
+Dodávateľ sa zaväzuje rešpektovať rozhodnutie Objednávateľa.
+Dodávateľ sa zaväzuje nemeniť bezpečnostné a konfiguračné nastavenia Systému bez písomného súhlasu
+manažéra pre informačnú bezpečnosť.
+Objednávateľ sa zaväzuje bez predchádzajúceho písomného súhlasu Dodávateľa nevykonávať zmeny v
+konfiguráciách Systému a nezmeniť hardvérové vybavenie, na ktorom je nasadený Systém. Objednávateľ
+sa ďalej zaväzuje dodržiavať Dodávateľom odporúčané hardvérové požiadavky. Všetky opravy vykonané
+Objednávateľom na základe písomného súhlasu Dodávateľa podľa vyššie uvedeného sa Objednávateľ
+zaväzuje zaznamenávať formou logov do vyhradeného adresára, ktorý bude sprístupnený Dodávateľovi.
+Objednávateľ berie na vedomie, že v prípade nedodržania povinností uvedených v predchádzajúcich vetách
+tohto bodu Zmluvy sa môže obmedziť funkčnosť Systému, resp. sa môžu vyskytnúť vady/incidenty Systému
+a Dodávateľ v tomto prípade nezodpovedá za vady/incidenty Systému a za škodu spôsobenú porušením
+povinností Objednávateľa.
+Objednávateľ sa zaväzuje zabezpečiť technické, bezpečnostné a administratívne podmienky pre oddelenie
+testovacieho a produktívneho prostredia Systému.
+Dodávateľ sa zaväzuje zachovať mlčanlivosť o všetkých informáciách, ktoré mu budú sprístupnené v rámci
+plnenia predmetu Zmluvy. Pracovníci Dodávateľa, prichádzajúci do styku s týmito informáciami, musia byť
+poučení o povinnostiach ochrany údajov a záväzku mlčanlivosti o údajoch, s ktorými môžu prísť do styku
+počas výkonu prác u Objednávateľa, ako aj o bezpečnostných požiadavkách vyplývajúcich zo Zmluvy a z
+formuláru „Poučenie tretích strán“.
+Dodávateľ je oprávnený použiť na plnenie predmetu Zmluvy Subdodávateľov. Ak Dodávateľ bude riešiť
+realizáciu Služieb formou subdodávky, platia v plnom rozsahu pre tohto Subdodávateľa všetky povinnosti
+vyplývajúce zo Zmluvy ako pre Dodávateľa a Dodávateľ zodpovedá za ich splnenie Objednávateľovi.
+Pracovníci Dodávateľa môžu pripojiť nové zariadenia do siete Objednávateľa (napr. notebook) len po
+predchádzajúcom súhlase manažéra pre informačnú bezpečnosť Objednávateľa, len na nevyhnutne
+potrebnú dobu a s rešpektovaním prípadných obmedzení spojených so súhlasom (napr. antivírová kontrola)
+a v súlade s formulárom „Poučenie tretích strán“. Pripojenie takéhoto zariadenia bude uvedené v kontrolnom
+liste spolu s odôvodnením nutnosti pripojenia takéhoto zariadenia (v rozsahu názov terminálu, pridelená IP
+adresa a MAC adresa).
+Prípadné zistenia o bezpečnostných nedostatkoch Systému Objednávateľa, ako aj zistenia či podozrenia o
+výskyte bezpečnostných incidentov, je povinný Dodávateľ bezodkladne ohlásiť e-mailom manažérovi pre
+informačnú bezpečnosť najneskôr však do štyroch hodín po zistení nedostatku alebo bezpečnostného
+incidentu Systému. Objednávateľ sa zaväzuje Dodávateľovi bezodkladne emailom potvrdiť príjem emailu od
+Dodávateľa podľa predchádzajúcej vety.
+
+10. Úroky z omeškania, zmluvné pokuty a sankcie
+10.1. V prípade omeškania Objednávateľa so zaplatením faktúry je Dodávateľ oprávnený fakturovať
+Objednávateľovi zmluvnú pokutu vo výške 0,05% z dlžnej sumy za každý deň omeškania až do zaplatenia
+a Objednávateľ je takto vyfakturovanú zmluvnú pokutu povinný Dodávateľovi zaplatiť. Nárok na zmluvnú
+pokutu Dodávateľa zaniká, ak si ju písomne neuplatní u Objednávateľa najneskôr do dvoch mesiacov po
+mesiaci, v ktorom k porušeniu povinnosti Objednávateľa došlo.
+10.2. V prípade, ak Dodávateľ poruší svoje zmluvné povinnosti:
+- podľa bodov 5.2, 5.5, 5.6, 5.15, 9.2, 9.4, 9.7, 9.10 a 9.12 Zmluvy, je Objednávateľ oprávnený
+Dodávateľovi fakturovať zmluvnú pokutu vo výške 300,00 EUR za každé porušenie maximálne v súhrne
+do výšky 30 000,00 EUR mesačne,
+- podľa bodov 5.10, 5.11, 5.12 Zmluvy, je Objednávateľ oprávnený Dodávateľovi fakturovať zmluvnú
+pokutu vo výške 1 000,00 EUR za každé porušenie maximálne v súhrne do výšky 100 000,00 EUR
+mesačne,
+- podľa bodu 5.1 Zmluvy, je Objednávateľ oprávnený Dodávateľovi fakturovať zmluvnú pokutu, ktorej
+výška je stanovená v prílohe č. 1 Zmluvy, pre jednotlivé Služby v nej definované, maximálne do výšky
+30 000,00 EUR mesačne. Príloha č. 1 je neoddeliteľnou súčasťou tejto Zmluvy.
+Nárok na zmluvnú pokutu Objednávateľa zaniká, ak si ju písomne neuplatní u Dodávateľa najneskôr do
+dvoch mesiacov po mesiaci, v ktorom k porušeniu povinnosti Dodávateľa došlo.
+10.3. Ceny v bode 10.2 sú uvedené bez dane z pridanej hodnoty, ktorá sa bude určovať podľa všeobecne
+záväzných právnych predpisov v čase fakturácie pokuty.
+Strana 6 / 21
+
+10.4. Podkladom pre zaplatenie zmluvnej pokuty je faktúra vystavená Zmluvnou stranou s lehotou splatnosti
+tridsiatich dní odo dňa jej doručenia druhej Zmluvnej strane. Zaplatením zmluvnej pokuty nie je dotknuté
+právo poškodenej Zmluvnej strany na náhradu škody vo výške presahujúcej zaplatenú zmluvnú pokutu.
+10.5. Uplatnením zmluvnej pokuty nie je dotknuté právo na náhradu škody. Objednávateľ má nárok na uplatnenie
+náhrady skutočnej škody preukázateľne spôsobenej Dodávateľom, jeho nesprávnym postupom alebo jeho
+nečinnosťou, resp. nedodržaním lehôt, v plnej výške skutočne spôsobenej škody.
+11. Riadiaci výbor
+11.1. Pre účely organizácie poskytovania Služieb zmluvné strany do piatich pracovných dní od nadobudnutia
+účinnosti Zmluvy vymenujú členov Riadiaceho výboru. Do pôsobnosti Riadiaceho výboru patrí najmä:
+(1) organizačné riadenie a koordinácia procesu poskytovania Služieb;
+(2) rozhodovanie sporných momentov pri poskytovaní Služieb.
+11.2. Riadiaci výbor sa skladá zo šiestich členov, z ktorých:
+(1) traja členovia sú nominovaní Objednávateľom; a z nich jeden člen bude poverený funkciou predsedu
+Riadiaceho výboru; a
+(2) traja členovia sú nominovaní Dodávateľom.
+Každá zmluvná strana uvedie mená, priezviska a kontaktné údaje osôb, ktorých poverila výkonom funkcie
+člena Riadiaceho výboru. Objednávateľ uvedie, ktorého z členov ním nominovaných poveril funkciou
+predsedu Riadiaceho výboru.
+11.3. Zasadnutie Riadiaceho výboru môže iniciovať ktorýkoľvek člen Riadiaceho výboru s uvedením dôvodu, pre
+ktorý žiada uskutočnenie zasadnutia Riadiaceho výboru. Zasadnutie Riadiaceho výboru sa uskutoční do
+šiestich (6) pracovných dní odo dňa jeho zvolania iniciujúcim členom Riadiaceho výboru. Zasadnutie
+Riadiaceho výboru sa zvoláva formou e-mailovej správy, ktorú zasiela člen Riadiaceho výboru, ktorý inicioval
+zvolanie zasadnutia Riadiaceho výboru, ostatným členom Riadiaceho výboru. Zasadnutie Riadiaceho
+výboru sa považuje za riadne zvolané, ak každý z ostatných členov potvrdzujúcou e-mailovou správou
+vezme na vedomie zvolanie zasadnutia Riadiaceho výboru.
+11.4. Riadiaci výbor je uznášaniaschopný, ak sú na zasadnutí Riadiaceho výboru prítomní aspoň dvaja členovia
+Riadiaceho výboru za každú zmluvnú stranu, za stranu Objednávateľa musí byť však prítomný predseda
+Riadiaceho výboru alebo nim poverená osoba s rozhodovacími právomocami predsedu Riadiaceho výboru.
+Každý člen Riadiaceho výboru je oprávnený splnomocniť tretiu osobu, aby ho táto zastupovala na zasadnutí
+Riadiaceho výboru a vykonávala hlasovacie práva. Riadiaci výbor prijíma rozhodnutia na svojom zasadnutí
+nadpolovičnou väčšinou hlasov všetkých členov alebo nimi splnomocnených zástupcov. V prípade rovnosti
+hlasov je hlas predsedu Riadiaceho výboru rozhodujúci. Rozhodnutie Riadiaceho výboru má pre zmluvné
+strany záväzný charakter.
+11.5. Riadiaci výbor prijíma rozhodnutia zo zasadnutia vo forme zápisnice. Pred tým, ako Riadiaci výbor pristúpi
+k rokovaniu, poverí niektorého jej člena spísaním zápisnice zo zasadnutia Riadiaceho výboru.
+Zapisovateľom nemôže byť predseda riadiaceho výboru. Zápisnicu v dvoch vyhotoveniach podpisujú všetci
+členovia Riadiaceho výboru s učením, či hlasovali za prijatie rozhodnutia Riadiaceho výboru alebo proti
+prijatiu tohto rozhodnutia. Každá zmluvná strana obdrží jedno vyhotovenie zápisnice.
+12. Práva duševného vlastníctva
+12.1. Objednávateľ je oprávnený používať Aplikáciu na základe licencií udelených v rámci jednotlivých zmlúv
+vymedzených v článku 2 Zmluvy.
+12.2. V prípade, ak v rámci plnenia záväzkov z tejto Zmluvy vznikne duševnou tvorivou činnosťou Dodávateľa
+dielo v zmysle zákona č. 185/2015 Autorský zákon, v znení neskorších predpisov, alebo ak bude
+Objednávateľovi inak umožnené také dielo vytvorené Dodávateľom užívať, Dodávateľ udeľuje
+Objednávateľovi s účinnosťou od momentu dodania takého diela súhlas na použitie diela (licenciu). Licencia
+sa udeľuje ako nevýhradná, časovo, územne a vecne neobmedzená, a to na spôsob použitia diela v súlade
+s účelom, na ktoré je určené, inak s účelom, na aký obvykle také dielo slúži. Objednávateľ je oprávnený
+udeliť sublicenciu na použitie diela tretím osobám v jeho zriaďovacej alebo inej pôsobnosti, ako aj ďalším
+subjektom, ktoré sú oprávnenými používateľmi Aplikácie. Iným subjektom je Objednávateľ oprávnený udeliť
+sublicenciu s predchádzajúcim písomným súhlasom Dodávateľa; Objednávateľ však nie je oprávnený
+postúpiť licenciu k dielu alebo udeliť sublicenciu na použitie diela tretej osobe, ktorá má rovnaký alebo
+podobný predmet činnosti ako Dodávateľ. Objednávateľ nie je oprávnený, priamo ani prostredníctvom tretích
+osôb, dielo akýmkoľvek spôsobom upravovať alebo meniť a je povinný zdržať sa akýchkoľvek zásahov do
+diela, s výnimkou zásahov, ktoré v zmysle kogentných ustanovení aplikovateľných právnych predpisov
+Strana 7 / 21
+
+nemožno vylúčiť. Licencia sa udeľuje ako odplatná, pričom cena za licenciu je zahrnutá v cene Služieb podľa
+tejto Zmluvy.
+12.3. V prípade, ak tvorivou duševnou činnosťou Dodávateľa a Objednávateľa vznikne dielo spoluautorov
+v zmysle § 15 ods. 1 zákona č. 185/2015 Autorský zákon, v znení neskorších predpisov, zmluvné strany sa
+dohodli, že budú postupovať v zmysle bodu 12.5. tejto Zmluvy.
+12.4. Pokiaľ činnosťou Dodávateľa a Objednávateľa vznikne spoločné dielo v zmysle § 92 ods. 1 zákona č.
+185/2015 Autorský zákon, v znení neskorších predpisov, zmluvné strany vyhlasujú a potvrdzujú, že toto
+spoločné dielo bolo vytvorené na podnet Objednávateľa a pod vedením Dodávateľa, zmluvné strany sa
+dohodli, že budú postupovať v zmysle bodu 12.5. tejto Zmluvy.
+12.5. Pre vylúčenie akýchkoľvek pochybností Zmluvné strany týmto vyhlasujú, že spoločné práva k dielam
+špecifikovaným v bodoch 12.3. a 12.4. tejto Zmluvy budú vykonávať spoločne.
+13. Platnosť a účinnosť Zmluvy
+13.1. Táto Zmluva nadobúda platnosť dňom podpísania obidvomi Zmluvnými stranami.
+13.2. Zmluva nadobudne účinnosť v zmysle § 47a ods. 1 Občianskeho zákonníka.
+13.3. Táto Zmluva je povinne zverejňovaná podľa § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k
+informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších
+predpisov.
+13.4. Zmluvné strany berú na vedomie, že v prípade nezverejnenia Zmluvy do troch mesiacov od jej podpisu
+oboma Zmluvnými stranami platí v zmysle ustanovenia § 47a ods. 4 Občianskeho zákonníka, že k uzavretiu
+Zmluvy nedošlo.
+13.5. Zmluva sa uzatvára na dobu určitú štyridsaťosem mesiacov odo dňa jej účinnosti.
+14. Ďalšie dojednania
+14.1. Každá zo Zmluvných strán sa druhej Zmluvnej strane v rámci realizácie tejto Zmluvy zaväzuje, že (i) všetky
+údaje, dáta, dokumenty, podklady alebo akékoľvek iné informácie (vrátane všetkých súborov, kópií
+dokumentov a poznámok), zaznamenané či už v písomnej, v elektronickej alebo v akejkoľvek inej zmyslami
+vnímateľnej podobe jej odovzdané, poskytnuté, sprístupnené alebo akýmkoľvek iným spôsobom ňou
+získané od druhej Zmluvnej strany alebo jej Subdodávateľov alebo tretích strán podieľajúcich sa na plnení
+Zmluvy (ďalej len „Dôverné informácie“) bude udržiavať v tajnosti a zachovávať o nich mlčanlivosť, bude ich
+chrániť pred zneužitím, poškodením, zničením, znehodnotením, stratou a odcudzením, nevyzradí ich,
+nesprístupní ich, nezverejní ich, nebude ich šíriť, nebude ich používať inak ako na plnenie tejto Zmluvy
+nebude používať v rozpore s týmto vyhlásením a ani žiadne z Dôverných informácií neodovzdá ani
+neposkytne žiadnej inej fyzickej ani právnickej osobe, a to počas ani po ukončení Zmluvy, (ii) zabezpečí
+riadne a včasné utajenie a zachovávanie mlčanlivosti o Dôverných informáciách aj u svojich zamestnancov,
+štatutárnych orgánov, členov štatutárnych orgánov, dozorných orgánov, členov dozorných orgánov,
+zástupcov, splnomocnencov, Subdodávateľov ako i iných tretích osôb, (iii) v prípade nedodržania
+ktoréhokoľvek z vyhlásení urobených alebo porušenia ktorejkoľvek povinnosti alebo záväzku uvedených v
+tomto článku Zmluvy nahradí každá zo Zmluvných strán druhej Zmluvnej strane podľa § 373 a nasl.
+Obchodného zákonníka akúkoľvek a všetku škodu, ktorá jej nedodržaním alebo porušením týchto vyhlásení,
+povinností alebo záväzkov vznikla.
+14.2. Objednávateľ je v omeškaní s poskytnutím súčinnosti v prípadoch, ak Objednávateľ, alebo organizácia v
+jeho priamej riadiacej pôsobnosti, alebo iný orgán štátnej správy ako aj tretia strana, ktorá je v zmluvnom
+vzťahu s Objednávateľom, neposkytne pre potreby realizácie Zmluvy údaje podľa pokynov Dodávateľa a
+požadovanú súčinnosť riadne a včas. Lehoty plnenia sa predlžujú o dobu, po ktorú je Objednávateľ v
+omeškaní s poskytnutím súčinnosti podľa predchádzajúcej vety.
+14.3. Pri omeškaní dlhšom ako pätnásť dní každej zo Zmluvných strán má druhá Zmluvná strana právo prerušiť
+poskytovanie svojho plnenia až do dňa, v ktorý bude také omeškanie ukončené. Prerušenie plnenia Zmluvná
+strana písomne oznámi druhej Zmluvnej strane a o dobu prerušenia sa predlžujú všetky lehoty jej plnenia
+dohodnuté v Zmluve. Dojednaním podľa tohto bodu nie je dotknutá povinnosť Objednávateľa uhradiť
+Dodávateľovi faktúry za poskytnuté Služby v dojednanej lehote splatnosti.
+14.4. Žiadna zo Zmluvných strán nebude zodpovedná za omeškanie svojho plnenia z tejto Zmluvy, a ustanovenia,
+ktoré stanovujú dôsledky takého omeškania sa nepoužijú, ak je také omeškanie spôsobené okolnosťami, (i)
+ktoré táto Zmluvná strana nemohla ovplyvniť, (ii) vylučujúcimi zodpovednosť v zmysle § 374 Obchodného
+zákonníka, a to ani ak také okolnosti nastali v dobe, keď už taká Zmluvná strana bola v omeškaní.
+14.5. Zmluvné strany sú oprávnené poskytnúť Dôverné informácie (i) kompetentnému súdu, ak je ich poskytnutie
+požadované v súlade so zákonom, alebo iným všeobecne záväzným predpisom podľa ktorého je Zmluvná
+Strana 8 / 21
+
+14.6.
+
+14.7.
+
+14.8.
+
+14.9.
+
+14.10.
+
+14.11.
+
+14.12.
+
+14.13.
+
+14.14.
+14.15.
+
+strana povinná konať, (ii) štátnemu, bankovému, daňovému alebo inému kontrolnému orgánu, ktorý je
+oprávnený a kompetentný ich vyžadovať a ostatným oprávneným osobám.
+Každá zo Zmluvných strán má právo odstúpiť od tejto Zmluvy v prípade jej podstatného porušenia druhou
+Zmluvnou stranou. Za podstatné porušenie Zmluvy niektorou zo Zmluvných strán sa považuje len také
+porušenie, ktoré spĺňa požiadavky § 345 ods. 2 Obchodného zákonníka a trvá viac ako deväťdesiat
+kalendárnych dní po tom, čo na túto skutočnosť bola druhou Zmluvnou strana písomne upozornená.
+Zmluvné strany sa dohodli, že akákoľvek komunikácia medzi nimi na základe tejto Zmluvy sa bude
+uskutočňovať v písomnej forme, ak táto Zmluva v konkrétnych prípadoch výslovne nestanovuje inak.
+Písomná forma sa považuje za dodržanú aj v prípade použitia elektronickej pošty bez zaručeného
+elektronického podpisu, s výnimkou zmien tejto Zmluvy, úkonov smerujúcich k jej ukončeniu a úkonom
+smerujúcich k uplatneniu sankcií.
+Pre doručenie akejkoľvek písomnosti, vrátane oznámenia o odstúpení od Zmluvy platí, že povinnosť
+doručenia písomnosti službou doporučene je splnená, keď ju adresát prevezme, odmietne prevziať alebo
+dňom, keď ju pošta vrátila odosielajúcej strane ako nedoručenú.
+Zmluvné strany ustanovujú nasledovné osoby ako kontaktné a oprávnené osoby pre účely vzájomnej
+komunikácie podľa tejto Zmluvy:
+za Objednávateľa: Ing. Jurij Daškevič, tel.: 0907 714 897, jurij.daskevic@apa.sk
+za Dodávateľa: Ing. Alica Sirotová, tel.: 0903 464 733, alica.sirotova@axasoft.eu
+Ondrej Bielik, tel.: 0918 702 732, ondrej.bielik@axasoft.eu
+Zmluvné strany sú oprávnené meniť svoje oprávnené osoby podľa predchádzajúceho bodu písomným
+oznámením doručeným druhej Zmluvnej strane podľa tejto Zmluvy; takáto zmena nadobúda účinnosť prvým
+dňom nasledujúcim po doručení oznámenia.
+Všetky spory vyplývajúce zo Zmluvy alebo súvisiace s ňou, ktoré medzi účastníkmi Zmluvy vzniknú, sa budú
+riešiť predovšetkým vzájomnou dohodou. V prípade ak sa Zmluvné strany nedohodnú, svoje práva si
+uplatnia podľa sídla Objednávateľa na miestne a vecne príslušnom súde v SR.
+V prípade akýchkoľvek zmien (obchodného mena, sídla, štatutárov, IČO, IČ DPH, poverených
+zamestnancov a Subdodávateľov) v subjektoch účastníkov Zmluvy, sú Zmluvné strany povinné si ich
+navzájom písomne oznámiť. Ak dôjde z dôvodu neoznámenia zmien v subjektoch účastníkov Zmluvy k
+spôsobeniu škody, má poškodená Zmluvná strana nárok na jej náhradu.
+Pokiaľ ktorékoľvek ustanovenie tejto Zmluvy alebo jeho časť zanikne, je alebo sa stane neplatným či
+nevynútiteľným rozhodnutím súdu, či iného príslušného orgánu, nebude mať táto neplatnosť alebo
+nevynútiteľnosť vplyv na platnosť či vynútiteľnosť ostatných ustanovení tejto Zmluvy alebo jej časti, pokiaľ
+nevyplýva priamo z obsahu tejto Zmluvy, že toto ustanovenie alebo jeho časť nemožno oddeliť od obsahu
+ďalších ustanovení. Zmluvné strany sa zaväzujú neúčinné a neplatné ustanovenia nahradiť novým
+ustanovením, ktoré je svojim účelom a hospodárskym významom najbližšie k ustanoveniu Zmluvy, ktoré má
+byť nahradené.
+Ak Dodávateľ písomne neupozorní Objednávateľa na neposkytnutie súčinnosti, údajov alebo že si inak
+neplní povinnosti dohodnuté v Zmluve, považuje sa postup Objednávateľa v súlade s uzavretou Zmluvou.
+Ak Objednávateľ písomne neupozorní Dodávateľa na skutočnosť, že neposkytuje súčinnosť alebo že si inak
+neplní povinnosti dohodnuté v Zmluve, považuje sa postup Dodávateľa v súlade s uzavretou Zmluvou.
+
+15. Právny predpis, podľa ktorého sa Zmluva uzatvára
+15.1. Právne vzťahy neupravené v Zmluve a v jej Prílohách, ktoré sú neoddeliteľnou súčasťou Zmluvy, sa riadia
+ustanoveniami zákona č. 513/1991 Zb. v znení neskorších predpisov (Obchodný zákonník) a ostatnými
+platnými právnymi predpismi SR.
+16. Zodpovednosť za škodu
+16.1. Ak ktorákoľvek Zmluvná strana spôsobí druhej Zmluvnej strane v súvislosti s touto Zmluvou škodu, nahradí
+akúkoľvek a všetku škodu ktorá vznikla poškodenej Zmluvnej strane. Zodpovednosť za škodu sa bude riadiť
+a spravovať podľa § 373 a nasl. Obchodného zákonníka. Pred uplatnením náhrady škody poškodená
+Zmluvná strana druhej Zmluvnej strane preukáže skutočnosti odôvodňujúce vznik škody.
+16.2. Dodávateľ zodpovedá aj za škodu spôsobenú Objednávateľovi Subdodávateľmi tak, ako keby túto škodu
+spôsobil sám Dodávateľ.
+
+Strana 9 / 21
+
+17. Skončenie Zmluvy
+17.1. Zmluva môže skončiť písomnou dohodou Zmluvných strán, písomnou výpoveďou ktorejkoľvek Zmluvnej
+strany aj bez uvedenia dôvodu alebo iným spôsobom uvedeným v Zmluve alebo v súlade s Obchodným
+zákonníkom.
+17.2. V prípade vypovedania tejto Zmluvy ktoroukoľvek zo Zmluvných strán táto Zmluva zaniká uplynutím
+výpovednej lehoty, ktorá je tri (3) mesiace a začína plynúť prvým dňom mesiaca nasledujúceho po doručení
+písomnej výpovede druhej Zmluvnej strane.
+17.3. Ak Zmluva skončí akýmkoľvek spôsobom, ostávajú v platnosti ustanovenia, ktoré podľa svojej povahy majú
+trvať aj po ukončení Zmluvy, najmä dojednania upravujúce záväzok mlčanlivosti, ochranu Dôverných
+informácií, voľbu práva a riešenie sporov.
+18. Záverečné ustanovenia
+18.1. Zmluva je vyhotovená v štyroch rovnopisoch, z ktorých každá zo Zmluvných strán obdrží dva rovnopisy.
+18.2. Zmluva sa môže meniť a dopĺňať len so vzájomným súhlasom Zmluvných strán vo forme písomných
+dodatkov podpísaných oprávnenými zástupcami Zmluvných strán, ak nie je v Zmluve uvedené inak. Zmluvu
+je možné zrušiť len písomne.
+18.3. Práva a povinnosti vyplývajúce zo Zmluvy prechádzajú na právnych nástupcov Zmluvných strán.
+19. Prílohy
+
+Príloha č. 1 – Katalógový list Služieb SLA (pričom jej ustanovenia tvoria súčasť zmluvných dojednaní).
+
+Za objednávateľa:
+
+Za Dodávateľa:
+
+V Bratislave, dňa ____________ 2016
+
+V Bratislave, dňa ____________ 2016
+
+Pôdohospodárska platobná agentúra
+
+AXASOFT, a. s.
+
+Ing. Juraj Kožuch, PhD., generálny riaditeľ
+
+Ing. Dušan Kráľ, člen predstavenstva
+
+Ing. Juraj Polák, predseda predstavenstva
+
+Strana 10 / 21
+
+Príloha č. 1 - Katalógový list služby SLA
+Prehľad služieb
+Číslo služby
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Názov služby
+
+HelpDesk a pohotovosť;
+Riešenie vád/incidentov;
+Servisná a prevádzková podpora platformy;
+Pravidelná údržba systému;
+Profylaktická údržba produkčného a testovacieho prostredia;
+Manažment služieb servisnej podpory;
+Zabezpečenie kontinuity - obnova systému;
+Zabezpečenie funkčnosti IS v súlade s platnou legislatívou;
+Poskytovanie konzultácií súvisiacich so správou a prevádzkou IACS;
+Zabezpečenie zvýšenej pohotovosti.
+
+Strana 11 / 21
+
+Služba č. 1 HelpDesk a pohotovosť v rozsahu 160 hodín mesačne
+Názov služby: HelpDesk („Hot-Line“) a pohotovosť
+Popis služby a spôsob realizácie
+Ide o poskytovanie služby HelpDesk II. stupňa. Služba je poskytovaná prostredníctvom HelpDesku Dodávateľa, ktorú
+zabezpečuje poverený Pracovník Dodávateľa v čase vymedzenom dostupnosťou tejto služby. Pracovníci HelpDesku
+Objednávateľa (zabezpečujúci HelpDesk I. stupňa) alebo Oprávnení zamestnanci Objednávateľa, majú možnosť obrátiť
+sa na HelpDesk II. stupňa, v prípade potreby nahlásenia:
+- požiadaviek na riešenie vád/incidentov Systému, ktoré nevedia sami vyriešiť (v tomto prípade zadajú aj
+kategorizáciu vady/incidentu),
+- požiadaviek na konzultáciu,
+- požiadaviek na školenie,
+- požiadaviek na zvýšenú pohotovosť.
+Služba je poskytovaná za účelom zabezpečenia priamej pomoci Oprávneným zamestnancom Objednávateľa v prípade
+výskytu vád/incidentov Systému (popísaných v službe č.2 tejto Prílohy), poradenstva v oblasti používateľského
+nastavenia Systému, metodických postupov pri práci so Systémom, vysvetleniu nejasností pri ovládaní Systému a
+požiadaviek na modifikáciu Systému.
+Pracovníci HelpDesku Dodávateľa na základe uvedených informácií v požiadavkách od Oprávnených zamestnancov
+Objednávateľa zistia o aký druh vady/incidentu ide a postúpia ich príslušnému pracovníkovi Dodávateľa, ktorý
+zabezpečuje pohotovosť Dodávateľa v príslušnej aplikačnej oblasti. Pracovník Dodávateľa prevezme požiadavku,
+a následne sa skontaktuje do termínu, ktorý je stanovený reakčnou dobou príslušnej kategórie požiadavky
+s Oprávneným zamestnancom Objednávateľa, ktorý nahlásil vadu/incident a dohodnú sa na ďalšom postupe.
+Služba pre Objednávateľa bude poskytovaná počas účinnosti Zmluvy v čase dostupnosti služby v danom mesiaci.
+Dostupnosť služby
+V čase 8:00 - 16:30 hod. v pracovných dňoch a čase zvýšenej pohotovosti podľa pravidiel poskytovania služby č.10
+tejto Prílohy
+Administratívne zabezpečenie služby
+Služba HelpDesk („Hot-Line“) a pohotovosť bude zabezpečovaná Pracovníkmi Dodávateľa nepretržite v čase
+dostupnosti služby.
+
+Služba č. 2 Riešenie vád/incidentov v rozsahu 140 hodín mesačne
+Názov služby: Riešenie vád/incidentov
+Popis služby a spôsob realizácie
+Služba Riešenie vád/incidentov zabezpečuje riešenie jednotlivých Objednávateľom nahlásených požiadaviek na
+riešenie vád/incidentov Systému (ďalej len Požiadavka) Pracovníkmi Dodávateľa, ktorí za týmto účelom zabezpečujú
+ich vyriešenie.
+Pracovníci HelpDesku Objednávateľa/Oprávnení zamestnanci Objednávateľa prostredníctvom rozhrania medzi
+HelpDesk systémami Objednávateľa a Dodávateľa zadajú Požiadavku, ktorú nevedia sami vyriešiť a zároveň uvedú
+kategóriu nahlasovanej vady/incidentu.
+Objednávateľ pri zadávaní vady/incidentu používa nasledovnú kategorizáciu, ktorú je možné v priebehu riešenia zmeniť
+po vzájomnej dohode Objednávateľa a Dodávateľa:
+1. Kategória 1 – „high“ – do tejto kategórie spadajú vady/incidenty spojené s používaním a rutinnou prevádzkou
+produktívneho prostredia Systému. Ide o vady/incidenty, ktoré zabraňujú používaniu Systému ako celku, alebo
+jeho podstatnej časti, a ktoré priamo ohrozujú chod a fungovanie hlavných činností Objednávateľa.
+2. Kategória 2 – „medium“ – do tejto kategórie spadajú všetky ostatné vady/incidenty spojené s používaním a
+rutinnou prevádzkou produktívneho a testovacieho prostredia Systému. Ide o vady/incidenty, ktoré zabraňujú
+Strana 12 / 21
+
+používaniu menej podstatných častí Systému, a ktoré neohrozujú chod a fungovanie hlavných činností
+Objednávateľa. Spadajú sem aj vady/incidenty, ktoré zabraňujú používaniu Systému ako celku alebo jeho
+podstatnej časti a ktoré priamo ohrozujú chod a fungovanie testovacieho prostredia.
+3. Kategória 3 – „low“ – do tejto kategórie spadajú všetky vady/incidenty spojené s používaním a rutinnou
+prevádzkou buď produktívneho prostredia Systému, ktoré nespadajú do kategórie 1 a 2, alebo ide o
+vady/incidenty testovacieho prostredia Systému, ktoré nespadajú do kategórie 2. Ide o vady/incidenty, ktoré
+neobmedzujú používanie Systému a to z dôvodu, že nahlásená vada/incident:
+a. má malý alebo žiadny efekt na bežné prevádzkové transakcie,
+b. sa týka funkcie, ktorá sa využíva zriedkavo, alebo pre fungovanie Systému má nízku dôležitosť,
+vyskytla sa v procese testovania v testovacom prostredí Systému.
+HelpDesk Dodávateľa potvrdí prijatie požiadavky z HelpDesku Objednávateľa do 1 hodiny v rámci dostupnosti služby
+od jej doručenia.
+Dodávateľ predloží ku každej Požiadavke špecifikáciu jej riešenia. Špecifikácia obsahuje popis nahláseného problému,
+spôsob/návrh a termín vyriešenia. Termínom odovzdania riešenia sa bude rozumieť termín nasadenia riešenia do
+testovacieho prostredia u Objednávateľa alebo vykonanie aplikačného zásahu do produkčného prostredia, pokiaľ
+vykonanie takého zásahu nepredchádza jeho nasadeniu do testovacieho prostredia.
+Dodávateľ ďalej pre uvedené kategórie vád/incidentov garantuje nasledovné reakčné doby:
+1. Pracovník Dodávateľa je po prevzatí Požiadavky kategórie 1 v HelpDesku Dodávateľa povinný kontaktovať
+Oprávneného zamestnanca Objednávateľa, ktorý vadu/incident nahlásil, najneskôr do 2 pracovných hodín od
+termínu, kedy Oprávnený zamestnanec Objednávateľa zaslal Požiadavku do HelpDesk systému Dodávateľa
+prostredníctvom rozhrania medzi HelpDesk systémami Objednávateľa a Dodávateľa. Pracovník Dodávateľa
+v prípade nutnosti požiada Oprávneného zamestnanca Objednávateľa o zabezpečenie vzdialeného prístupu
+do produktívneho prostredia a po zabezpečení tohto prístupu ihneď začína vadu/incident riešiť. Vyriešenie
+vady/incidentu Dodávateľ zabezpečí do 6 pracovných hodín od prijatia Požiadavky, resp. od poskytnutia
+prístupu do produktívneho prostredia, pokiaľ je zabezpečenie takého prístupu na riešenie vady/incidentu
+potrebné. Pokiaľ v tejto lehote vadu/incident z objektívnych príčin nebude možné vyriešiť, Dodávateľ o tejto
+skutočnosti pred uplynutím predmetnej lehoty informuje Objednávateľa a navrhne mu opatrenia na zmiernenie
+dopadov vady/incidentu; ďalší postup bude predmetom dohody oboch zmluvných strán.
+2. Pracovník Dodávateľa je po prevzatí Požiadavky kategórie 2 z HelpDesku Dodávateľa povinný kontaktovať
+Oprávneného zamestnanca Objednávateľa, ktorý vadu/incident nahlásil najneskôr nasledovný pracovný deň
+po dni, kedy Oprávnený zamestnanec Objednávateľa zadal Požiadavku do HelpDesk systému Dodávateľa
+prostredníctvom rozhrania medzi HelpDesk systémami Objednávateľa a Dodávateľa a zároveň začína
+vadu/incident riešiť.
+Pracovník Dodávateľa predloží Objednávateľovi špecifikáciu do jedného pracovného dňa od uplynutia lehoty
+na prevzatie Požiadavky podľa predchádzajúceho odseku. Pokiaľ pracovník Dodávateľa klasifikuje riešenie
+Požiadavky ako zložité, informuje o tejto skutočnosti Objednávateľa v lehote podľa predchádzajúcej vety a
+predloží špecifikáciu najneskôr do troch pracovných dní od uplynutia lehoty na prevzatie Požiadavky podľa
+predchádzajúceho odseku.
+Oprávnený zamestnanec Objednávateľa môže k špecifikácii predložiť výhrady a vrátiť ju na prepracovanie do
+dvoch pracovných dní od doručenia, uplynutím tejto lehoty sa považuje špecifikácia za schválenú. Oprávnené
+výhrady je Pracovník Dodávateľa povinný zapracovať do špecifikácie a predložiť opätovne Oprávnenému
+zamestnancovi Objednávateľa na verifikáciu.
+Vyriešenie bežnej Požiadavky Dodávateľ zabezpečí do dvoch pracovných dní a pri zložitej Požiadavke do
+štyroch pracovných dní od termínu schválenia špecifikácie. Pokiaľ v tejto lehote Požiadavku z objektívnych
+príčin nebude možné vyriešiť, Dodávateľ o tejto skutočnosti pred uplynutím predmetnej lehoty informuje
+Objednávateľa; ďalší postup bude predmetom dohody oboch zmluvných strán.
+Ak je predmetom špecifikácie oprava Systému, Dodávateľ pripraví na základe špecifikácie opravu Systému.
+V prípade ak nie je potrebné testovanie (riešenie je aplikačným zásahom dodávateľa) Dodávateľ požiada
+o prístup do produkčného prostredia a zabezpečí opravu.
+Oprava v produkčnom prostredí sa vykoná po ukončení testovania a povolení prístupu do produkčného
+prostredia.
+Strana 13 / 21
+
+3. Pracovník Dodávateľa je po prevzatí Požiadavky kategórie 3 z HelpDesku Dodávateľa povinný kontaktovať
+Oprávneného zamestnanca Objednávateľa, ktorý vadu/incident nahlásil do troch pracovných dní od termínu,
+kedy Oprávnený zamestnanec Objednávateľa zadal Požiadavku do HelpDesk systému Dodávateľa
+prostredníctvom rozhrania medzi HelpDesk systémami Objednávateľa a Dodávateľa a zároveň začína
+vadu/incident riešiť.
+Pracovník Dodávateľa predloží Objednávateľovi špecifikáciu do troch pracovných dní od uplynutia lehoty na
+prevzatie Požiadavky podľa predchádzajúceho odseku. Pokiaľ pracovník Dodávateľa klasifikuje riešenie
+Požiadavky ako zložité, informuje o tejto skutočnosti Objednávateľa v lehote podľa predchádzajúcej vety a
+predloží špecifikáciu najneskôr do siedmich pracovných dní od uplynutia lehoty na prevzatie Požiadavky podľa
+predchádzajúceho odseku.
+Oprávnený zamestnanec Objednávateľa môže k špecifikácii predložiť výhrady a vrátiť ju na prepracovanie do
+štyroch pracovných dní od doručenia, uplynutím tejto lehoty sa považuje špecifikácia za schválenú. Oprávnené
+výhrady je Pracovník Dodávateľa povinný zapracovať do špecifikácie a predložiť opätovne Oprávnenému
+zamestnancovi Objednávateľa na verifikáciu.
+Vyriešenie bežnej Požiadavky Dodávateľ zabezpečí do štyroch pracovných dní a zložitej Požiadavky do
+desiatich pracovných dní od termínu schválenia špecifikácie. Pokiaľ v tejto lehote Požiadavku z objektívnych
+príčin nebude možné vyriešiť, Dodávateľ o tejto skutočnosti pred uplynutím predmetnej lehoty informuje
+Objednávateľa; ďalší postup bude predmetom dohody oboch zmluvných strán.
+Ak je predmetom špecifikácie oprava Systému, Dodávateľ pripraví na základe špecifikácie opravu Systému.
+V prípade ak nie je potrebné testovanie (riešenie je aplikačným zásahom dodávateľa) Dodávateľ požiada
+o prístup do produkčného prostredia a zabezpečí opravu.
+Oprava v produkčnom prostredí sa vykoná po ukončení testovania a povolení prístupu do produkčného
+prostredia.
+Lehoty špecifikované v predchádzajúcich bodoch 1-3 môžu byť predĺžené. Predĺženie lehoty podlieha schváleniu
+Riadiaceho výboru.
+Personálne zabezpečenie Pracovníkmi Dodávateľa
+Oblasť
+IACS modul priame podpory
+IACS modul eKNM
+JRŽ
+SW ORACLE
+Operačné Systémy
+Opravy v zmysle platnej
+legislatívy
+
+4 osoby
+2 osoby
+2 osoby
+2 osoby
+2 osoby
+10 osôb
+
+Personálne zabezpečenie projektovými manažérmi – 2 osoby
+Dostupnosť služby
+V čase 8:00 - 16:30 hod. v pracovných dňoch a čase zvýšenej pohotovosti podľa pravidiel poskytovania služby č.10
+tejto Prílohy
+Administratívne zabezpečenie služby
+Dodávateľ v rámci svojho HelpDesk systému eviduje všetky zadané požiadavky na riešenie vád/incidentov, ktoré
+obsahujú dátum a čas prijatia požiadavky, meno Oprávneného zamestnanca Objednávateľa, meno Pracovníka
+Dodávateľa, ktorý je zodpovedný za riešenie vady/incidentu, popis vady/incidentu, stav riešenia. Všetky tieto údaje sú
+odosielané do HelpDesk systému Objednávateľa.
+
+Strana 14 / 21
+
+Projektoví manažéri Dodávateľa a Objednávateľa pravidelne monitorujú a verifikujú stav jednotlivých požiadaviek na
+riešenie vád/incidentov v príslušných HelpDesk systémoch u Dodávateľa a Objednávateľa. Po ukončení mesiaca
+Projektový manažér Dodávateľa spracuje výpis z HelpDesk systému Dodávateľa, ktorý je prílohou k faktúre.
+Zmluvné pokuty
+V prípade, že Dodávateľ nedodrží termín na vyriešenie vady/incidentu, Objednávateľ si môže uplatniť zmluvnú pokutu,
+ktorej výška bude stanovená na základe výpočtu P = Os2 x IN / IV, kde P znamená suma pokuty, OS2 znamená výška
+mesačnej odplaty za službu č.2, IN znamená počet incidentov/vád, ktoré v danom mesiaci mali byť, ale neboli vyriešené
+a IV znamená počet všetkých incidentov/vád, ktoré v danom mesiaci mali byť vyriešené
+Ak si Objednávateľ zmluvnú pokutu písomne uplatní do konca nasledujúceho mesiaca, Dodávateľ je povinný v tom
+mesiaci adekvátne znížiť mesačnú fakturovanú čiastku o výšku oprávnenej pokuty.
+
+Služba č. 3 Servisná a prevádzková podpora platformy v rozsahu 1200 hodín mesačne
+Názov služby: Servisná a prevádzková podpora platformy
+Popis služby a spôsob realizácie
+Obsahom tejto služby je zabezpečovanie podpory platformy Systému z pohľadu vývoja aplikovateľnej legislatívy EÚ
+a SR. Úpravy sú iniciované buď samostatnou požiadavkou Objednávateľa alebo schválením funkčnej špecifikácie
+spracovanej Dodávateľom a predloženej PPA podľa Služby č. 8.
+Objednávateľ zadá Dodávateľovi požiadavku na realizáciu Služby vo svojom HelpDesk systéme.
+Pokiaľ požiadavke na realizáciu Služby nepredchádzalo spracovanie funkčnej špecifikácie v rámci Služby č. 8,
+Dodávateľ do desiatich pracovných dní od prijatia požiadavky Objednávateľa vypracuje funkčnú špecifikáciu (návrh
+riešenia, časový harmonogram a analýzu dopadov na ostatné časti Systému) a odošle ju na HelpDesk systém
+Objednávateľa. Pokiaľ s ohľadom na zložitosť požiadavky Objednávateľa nie je možné spracovať špecifikáciu v lehote
+podľa predchádzajúcej vety, Dodávateľ o tejto skutočnosti bez zbytočného odkladu informuje Objednávateľa a termín
+vypracovania špecifikácie bude stanovený na základe dohody oprávnených osôb Objednávateľa a Dodávateľa; tieto
+osoby sú oprávnené v prípade potreby vec predložiť na rozhodnutie Riadiacemu výboru.
+Objednávateľ navrhnutú špecifikáciu odsúhlasí, zamietne alebo požiada o dopracovanie. V prípade pripomienok zo
+strany Objednávateľa Dodávateľ zapracuje pripomienky, alebo predloží k nim stanovisko najneskôr do piatich
+pracovných dní. Po odsúhlasení špecifikácie Objednávateľom Dodávateľ začne riešiť požiadavku.
+Po dosiahnutí očakávaných výsledkov interného testovania Dodávateľ dodá aktualizáciu príslušnej dokumentácie a
+implementuje legislatívnu opravu Systému na testovacie prostredie Objednávateľa. Objednávateľ v súčinnosti s
+Dodávateľom vykonajú testovanie na testovacom prostredí Objednávateľa, pričom Objednávateľ je povinný zabezpečiť
+súčinnosť tretích strán, ktoré môžu byť zmenou Systému ovplyvnené.
+Po dosiahnutí očakávaných výsledkov testovania Systému Objednávateľom Dodávateľ implementuje po odsúhlasení
+Objednávateľom legislatívnu úpravu Systému na produkčné prostredie Objednávateľa .
+Administratívne zabezpečenie služby
+Administráciu služby zaisťuje Objednávateľ podľa aplikovateľných interných smerníc Objednávateľa. Objednávateľ
+oboznámi Dodávateľa s platnými smernicami ako aj s ich všetkými ďalšími aktualizáciami. Dodávateľ je povinný riadiť
+sa týmito smernicami.
+Záručná doba na realizované legislatívou vyžadované opravy Systému je 24 mesiacov od podpísania akceptačného
+protokolu Objednávateľom.
+V prípade potreby je Riadiaci výbor oprávnený na realizáciu konkrétnej požiadavky stanoviť odlišný postup
+administratívneho zabezpečenia služby.
+Zmluvné pokuty
+Strana 15 / 21
+
+V prípade omeškania Dodávateľa s realizáciou plnení v rámci tejto Služby v termínoch dojednaných zmluvnými
+stranami má Objednávateľ nárok na zaplatenie zmluvnej pokuty vo výške 1% z hodnoty plnenia, s ktorým je Dodávateľ
+v omeškaní, za každý deň omeškania, a to až do maximálnej výšky 20% z hodnoty takého plnenia; suma zmluvnej
+pokuty presahujúca 20% hodnoty dotknutého plnenia sa neuhrádza.
+
+Služba č. 4 Pravidelná údržba systému v rozsahu 64 hodín mesačne
+Názov služby: Pravidelná údržba systému
+Popis služby a spôsob realizácie
+Obsahom služby je vykonávanie diagnostických úkonov periodicky štyri krát mesačne za IACS v produkčnom a
+záložnom prostredí Objednávateľa, kontrola a vyhodnotenie systémových záznamov udalostí Aplikácie.
+V rámci tejto časti služby sú realizované nasledovné pracovné úkony:
+- Kontrola verzie programov v adresároch aplikácie na produkčných aplikačných serveroch,
+- Kontrola vykonávania auditu vybraných činností,
+- Kontrola validity databázových objektov,
+- Servis Discoverer,
+- Kontrola logov aplikácií na aplikačných serveroch.
+Obsahom tejto služby je aj vykonávanie diagnostických úkonov na úrovni operačného systému serverov periodicky štyri
+krát mesačne na serveroch produkčného prostredia IACS v centrále Objednávateľa, záložného prostredia
+Objednávateľa, kontrola a vyhodnotenie systémových záznamov udalostí operačného systému LINUX.
+V rámci tejto časti služby sú realizované nasledovné pracovné úkony:
+- Kontrola systémových logov,
+- Údržba systémového priestoru (odstránenie dočasných, prípadne nepotrebných súborov),
+- Kontrola záťaže systému (vyťaženosť procesora, diskov, sieťových rozhraní a operačnej pamäte),
+- Kontrola prípadného pokusu o neautorizované vniknutie do OS,
+- Kontrola správneho vykonania naplánovaných úloh.
+Obsahom tejto služby je aj vykonávanie diagnostických úkonov a kontrola a vyhodnotenie systémových záznamov
+udalostí databáz ORACLE periodicky štyri krát mesačne. Dodávateľ vykonáva systémové zásahy v databázach IACS
+produkčného a záložného prostredia Objednávateľa.
+V rámci tejto časti služby sú realizované nasledovné pracovné úkony:
+- Kontrola chodu všetkých inštancií databáz,
+- Kontrola vytvárania a zasielania archívnych logov do stand by databázy,
+- Kontrola alert logov z chodu databáz na všetkých databázových serveroch,
+- Kontrola obsadenosti table space,
+- Kontrola nastavenia parametrov prostredia ORACLE na všetkých produkčných serveroch,
+- Kontrola dostupnosti databázových serverov.
+Služba je vykonávaná na základe zoznamu pracovných úkonov v kontrolnom liste. Po dohode oboch Zmluvných strán
+je možné zmeniť spôsob a formu poskytovania tejto Služby. V prípade zistenia výskytu udalosti nasvedčujúcej
+vadu/incident Aplikácie budú Pracovníci Dodávateľa a Poverení zamestnanci Objednávateľa postupovať podľa
+postupov uvedených v službe č. 2 tejto Prílohy.
+Požiadavky na Objednávateľa pre prístup k Aplikácii v priestoroch Objednávateľa pre pracovníkov Dodávateľa:
+- prístup do miestnosti centrálnej serverovne Objednávateľa,
+- prístup k aplikačným a databázovým serverom,
+- prístup do miestnosti oddelenia správy systémov v odbore IT,
+- prístup k pracovným staniciam na centrále Objednávateľa,
+- prístup do záložného prostredia,
+- prístup na Regionálne pracovisko s pracovnou stanicou Aplikácie.
+Požiadavky na logický prístup k Aplikácii pre pracovníkov Dodávateľa:
+- prístup do Aplikácie na centrálnom a záložnom serveri Objednávateľa a k záznamom rozhraní na
+komunikačnom serveri na register pôdy a register zvierat s oprávnením prezerať záznamy,
+Strana 16 / 21
+
+-
+
+prístup do produkčnej a záložnej databázy Aplikácie s oprávnením prezerania, v prípade potreby
+s právom opravy a zápisu,
+prístup k operačnému systému ako používateľ root (správca operačného systému),
+prístup k transakčným logom databázy ORACLE a systémovým logom Aplikácie s oprávnením čítania a
+prezerania.
+
+Pracovník Dodávateľa nahlási Poverenému zamestnancovi Objednávateľa vykonávanie Služby (návštevu) aspoň jeden
+deň pred jej plánovaným vykonaním. Objednávateľ je povinný umožniť Dodávateľovi logický a fyzický prístup k Aplikácii
+a Systému.
+Administratívne zabezpečenie služby
+Pravidelná údržba Systému bude v HelpDesk systéme definovaná paušálne ako štyri požiadavky.
+Ku každej požiadavke budú Pracovníkmi Dodávateľa mesačne vytvorené štyri kontrolné listy, v ktorých budú uvedené
+zrealizované úkony a zaznamenané ich výsledky. Vytvorené kontrolné listy budú tvoriť prílohu k požiadavke v HelpDesk
+systéme Dodávateľa a budú odosielané do HelpDesk systému Objednávateľa za účelom ich akceptácie Povereným
+zamestnanom Objednávateľa.
+Administráciu služby zaisťuje Dodávateľ. Dodávateľ vytvára kontrolné listy v pravidelných intervaloch, najneskôr päť
+pracovných dní po vykonaní tejto služby, ktoré sú následne bezodkladne po ich spracovaní akceptované a podpísané
+Objednávateľom. Objednávateľ nie je oprávnený bezdôvodne odmietnuť akceptáciu kontrolných listov. Objednávateľ je
+oprávnený odmietnuť akceptáciu kontrolného listu iba z dôvodu porušenia Zmluvy Dodávateľom a to najmä v prípadoch
+neúplnosti jeho obsahu, chýb a podobne. Objednávateľ je povinný pri odmietnutí akceptácie kontrolných listov
+Dodávateľovi odovzdať emailom písomné odôvodnenie odmietnutia do dvoch pracovných dní, inak sa služba považuje
+za akceptovanú. Dodávateľ skutočnosť bezdôvodného odmietnutia uvedie v kontrolnom liste, ktorý sa v tomto prípade
+považuje za akceptovaný.
+Dostupnosť služby
+V čase 8:00 – 16:30 hod.
+Zmluvné pokuty
+V prípade nevytvorenia jedného kontrolného listu v zmluvne stanovenom termíne si Objednávateľ môže uplatniť pokutu
+vo výške 50 EUR bez DPH.
+V prípade nevytvorenia viac ako jedného kontrolného listu v zmluvne stanovenom termíne si Objednávateľ môže
+uplatniť pokutu vo výške počtu nevytvorených kontrolných listov krát 50 EUR bez DPH.
+
+Služba č. 5 Profylaktická údržba produkčného a testovacieho prostredia v rozsahu 64 hodín
+mesačne
+Názov služby: Profylaktická údržba produkčného a testovacieho prostredia
+Popis služby a spôsob realizácie
+Obsahom tejto služby je vykonávanie proaktívneho monitoringu a realizácia preventívnych opatrení produkčného
+a testovacieho prostredia (aplikačných a databázových serverov) Objednávateľa, komunikačného servera registra pôdy
+a registra zvierat a záložného prostredia Objednávateľa za účelom predchádzania možných vád/incidentov. V prípade
+zistenia výskytu udalosti nasvedčujúcej vadu/incident Systému budú Pracovníci Dodávateľa a Poverení zamestnanci
+Objednávateľa postupovať podľa postupov uvedených v Službe č. 2 tejto Prílohy.
+V rámci tejto časti služby sú realizované nasledovné pracovné úkony, pre ktoré nebudú vytvárané kontrolné listy:
+- Monitorovanie jednotlivých systémov OS, RDBMS ORACLE, Weblogic ORACLE pomocou
+monitorovacieho nástroja CLOUD CONTROL,
+- Analýza a vyhodnocovanie správania systémov a následne kroky uvedené v službe č. 2.
+V rámci tejto časti služby sú realizované nasledovné pracovné úkony pre, ktoré budú vytvárané kontrolné listy:
+- Kontrola štruktúry databázy,
+Strana 17 / 21
+
+Kontrola neuvoľnených lock-ov,
+Kontrola dostupnosti komunikačných serverov VUPOP a ŠPU.
+
+-
+
+Požiadavky na logický prístup k Aplikácii pre systémových špecialistov Dodávateľa:
+- prístup do produkčnej, testovacej a záložnej databázy Aplikácie s oprávnením prezerania, v prípade
+potreby s právom opravy a zápisu
+- prístup k operačnému systému ako používateľ root a ORACLE,
+- prístup k transakčným logom databázy ORACLE s oprávnením čítania.
+Služba je vykonávaná na základe zoznamu pracovných úkonov v kontrolnom liste.
+Služba pre Objednávateľa bude poskytovaná počas účinnosti Zmluvy pravidelne v čase dostupnosti tejto služby.
+Administratívne zabezpečenie služby
+Služba Profylaktická údržba produkčného a testovacieho prostredia bude v HelpDesk systému definovaná paušálne
+ako jedna požiadavka a k nej mesačne jeden kontrolný list za IACS.
+K požiadavke bude vytvorený kontrolný list, v ktorom budú uvedené zrealizované činnosti Pracovníkom Dodávateľa
+a zaznamenané ich výsledky. Vytvorený kontrolný list bude tvoriť prílohu k požiadavke v HelpDesk systéme Dodávateľa
+a bude odosielaný do HelpDesk systému Objednávateľa za účelom jeho akceptácie Povereným zamestnanom
+Objednávateľa.
+Administráciu služby zaisťuje Dodávateľ. Dodávateľ vytvára kontrolné listy v pravidelných intervaloch, najneskôr 5
+pracovných dní po vykonaní tejto služby, ktoré sú následne bezodkladne po ich spracovaní akceptované a podpísané
+Objednávateľom. Objednávateľ nie je oprávnený bezdôvodne odmietnuť akceptáciu kontrolných listov. Objednávateľ je
+oprávnený odmietnuť akceptáciu kontrolného listu iba z dôvodu porušenia Zmluvy Dodávateľom a to najmä v prípadoch
+neúplnosti jeho obsahu, chýb a podobne. Objednávateľ je povinný pri odmietnutí akceptácie kontrolných listov
+Dodávateľovi odovzdať emailom písomné odôvodnenie odmietnutia do dvoch pracovných dní, inak sa služba považuje
+za akceptovanú. Dodávateľ skutočnosť bezdôvodného odmietnutia uvedie v kontrolnom liste, ktorý sa v tomto prípade
+považuje za akceptovaný.
+Dostupnosť služby
+V čase 8:00 – 16:30 hod. v pracovných dňoch.
+Zmluvné pokuty
+V prípade vynechania 1 profylaktickej údržby si Objednávateľ môže uplatniť pokutu vo výške 3 % z mesačnej
+fakturovanej sumy za túto Službu. V prípade vynechania 2-och profylaktických údržieb si Objednávateľ môže uplatniť
+pokutu vo výške 5 % z mesačnej fakturovanej sumy za túto Službu. V prípade vynechania viacerých ako 2
+profylaktických údržieb si Objednávateľ môže uplatniť pokutu vo výške 20 % z mesačnej fakturovanej sumy za túto
+Službu.
+
+Služba č. 6 Manažment služieb servisnej podpory v rozsahu 168 mesačne
+Názov služby: Manažment služieb servisnej podpory
+Popis služby a spôsob realizácie
+Touto službou Dodávateľ zabezpečuje funkciu manažmentu služieb servisnej podpory .
+o
+
+Vykonanie analýzy dopadov a vypracovanie potrebných požiadaviek na Systém
+
+o
+
+Vyžiadanie si príslušných podkladov od Objednávateľa.
+
+o
+
+Tvorba návrhu pracovných plánov a postupov spolu s odhadom pracovných úloh a počtom
+potrebných pracovníkov.
+
+o
+
+Ohodnotenie a odporúčania na systémové požiadavky Objednávateľových potrieb.
+Strana 18 / 21
+
+o
+
+Návrh technických inštrukcií, postupov a iných potrebných dokumentov tákajúcich sa integrácie.
+
+o
+
+Spolupráca s jednotlivými tímami Objednávateľa a iných dodávateľov v prípade ak majú dodávané
+systémy dopad na Systém.
+
+o
+
+Návrh testovacích plánov a procedúr.
+
+o
+
+Zabezpečenie výkonu podpory pre Objednávateľa počas a po inštalačných procedúrach.
+
+Projektoví manažéri za stranu Dodávateľa a Poverení zamestnanci Objednávateľa tvoria projektový tím údržby (ďalej
+len „PTU") a na stretnutiach PTU riešia projektové záležitosti a vyhodnocujú stav riešenia vád/incidentov a požiadaviek.
+Termíny stretnutí sú dohodnuté operatívne na oboch stranách podľa potreby. PTU zo svojho rokovania vyhotovuje
+zápis.
+Tento zápis sú povinní podpísať všetci prítomní členovia PTU. Na rokovaní:
+ Objednávateľ je povinný zaistiť informovanosť Dodávateľa o IT projektoch, ktoré sa pripravujú a môžu mať
+dopad na riešenie rozvoj Systému či už z hľadiska integrácie, rozvoja funkčnosti Systému a pod.
+ Objednávateľ v prípade potreby prizýva kompetentných účastníkov za stranu Dodávateľa na stretnutia s tretími
+stranami ohľadom rokovaní v oblasti IT pre zabezpečenie systémovej integrácie.
+ Objednávateľ informuje o stave paralelne bežiacich poprípade prevádzkovaných IT projektov realizovaných
+tretími stranami.
+Administratívne zabezpečenie služby
+Služba Manažment služieb servisnej podpory bude v HelpDesk systéme definovaná paušálne ako jedna požiadavka
+mesačne.
+Dostupnosť služby
+V čase 8:00 – 16:30 hod. v pracovných dňoch.
+
+Služba č. 7 Zabezpečenie kontinuity - obnova systému v rozsahu 72
+Názov služby: Zabezpečenie kontinuity obnova systému
+Popis služby a spôsob realizácie
+Obsahom tejto služby je zabezpečiť:
+- pravidelne zálohovanie Systému pre jeho prípadnú obnovu,
+- pravidelné preverovanie čitateľnosti a funkčnosti záloh Systému,
+- obnovu Systému s použitím záloh.
+Mimo uvedeného je potrebné minimálne jedenkrát za rok zrealizovať úplnú obnovu Systému (tzv. Disaster Recovery)
+pri nasimulovaní havarijného stavu. Dodávateľ na základe požiadavky v HelpDesk systéme Dodávateľa vyšpecifikuje a
+určí potrebné časy na obnovu Systému.
+Administratívne zabezpečenie služby
+Služba Zabezpečenie kontinuity - čitateľnosť médií a obnova systému bude v HelpDesk systéme evidovaná ako jedna
+požiadavka mesačne a k nej jeden kontrolný list. Úplná obnova Systému v rámci tejto služby bude realizovaná
+minimálne jedenkrát ročne.
+K požiadavke bude vytvorený kontrolný list, v ktorom budú uvedené zrealizované činnosti Pracovníkom Dodávateľa
+a zaznamenané ich výsledky. Vytvorený kontrolný list bude tvoriť prílohu k požiadavke v HelpDesk systéme Dodávateľa
+a bude odosielaný do HelpDesk systému Objednávateľa za účelom jeho akceptácie Povereným zamestnanom
+Objednávateľa.
+Administráciu Služby zaisťuje Dodávateľ. Dodávateľ vytvára kontrolný list, v pravidelných intervaloch jedenkrát
+mesačne. Objednávateľ nie je oprávnený bezdôvodne odmietnuť akceptáciu kontrolného listu. Objednávateľ je
+oprávnený odmietnuť akceptáciu kontrolného listu iba z dôvodu porušenia Zmluvy Dodávateľom a to najmä v prípadoch
+Strana 19 / 21
+
+neúplnosti jeho obsahu, chýb a podobne. Objednávateľ je povinný pri odmietnutí akceptácie kontrolného listu
+Dodávateľovi odovzdať emailom písomné odôvodnenie odmietnutia do dvoch pracovných dní, inak sa služba považuje
+za akceptovanú. Dodávateľ skutočnosť bezdôvodného odmietnutia uvedie v kontrolnom liste, ktorý sa v tomto prípade
+považuje za akceptovaný. Akceptovaný kontrolný list bude prílohou faktúry.
+Dostupnosť služby
+Na základe dohody s Objednávateľom, pri havarijnom stave okamžite.
+
+Služba č. 8 Zabezpečenie funkčnosti IS v súlade s platnou legislatívou v rozsahu 788 hodín
+mesačne
+Názov služby: Zabezpečenie funkčnosti IS v súlade s platnou legislatívou
+Popis služby a spôsob realizácie
+Ide o poskytovanie proaktívnej Služby zo strany Dodávateľa. Dodávateľ zabezpečuje funkčnosť IS v súlade s platnou
+legislatívou EÚ a SR najmä tým, že priebežne monitoruje vývoj legislatívy upravujúcej alebo súvisiacej s poskytovaním
+Služieb, identifikuje tie legislatívne úpravy, ktoré môžu mať dopad na Systém, analyzuje technické aspekty týchto
+dopadov na Systém a na jeho prevádzku na úrovni dopadov na procesy PPA, aplikačné prostredie a dátové toky a
+odporúča konkrétne technicko-aplikačné riešenia. Realizáciu jednotlivých oprav pre zabezpečenie súladu s platnou
+legislatívou Dodávateľ následne realizuje na základe požiadavky PPA v rámci Služby č. 3.
+Administratívne zabezpečenie služby
+Dodávateľ na základe relevantných zmien aplikovateľnej legislatívy predkladá PPA vo forme funkčných špecifikácií
+návrhy oprav Systému. Súčasťou funkčných špecifikácií bude vždy analýza dopadov implementácie technickoaplikačného riešenia na ostatné časti Systému.
+
+Služba č. 9 Poskytovanie konzultácií súvisiacich so správou a prevádzkou IACS v rozsahu 56 hodín
+Názov služby: Poskytovanie konzultácií súvisiacich so správou a prevádzkou IACS
+Popis služby a spôsob realizácie
+Obsahom služby je poskytovanie konzultácii Objednávateľovi na dosiahnutie vzájomnej súčinnosti Systému so
+systémami tretích strán, ako aj konzultácie potrebné pre orgány dohľadu a kontroly. O účasti tretích strán na
+konzultáciách v zmysle tejto služby rozhoduje Objednávateľ po súhlase Dodávateľa. Dodávateľ neposkytuje priame
+konzultácie v zmysle tejto služby žiadnej tretej osobe, komunikácia bude prebiehať vždy prostredníctvom
+Objednávateľa. Dodávateľ nenesie žiadnu zodpovednosť za škodu, ktorú spôsobí tretia osoba, ktorej Objednávateľ
+informáciu získanú konzultáciou poskytol.
+Objednávateľ zadá požiadavku na konzultáciu, ktorá musí obsahovať predmet konzultácie, predpokladané osoby
+Objednávateľa, ktoré sa jej zúčastnia, návrh na termín začatia konzultácie a presne definované otázky, na ktoré
+Objednávateľ požaduje odpoveď a čas potrebný na prípravu a realizácie konzultácií. Požiadavka Objednávateľa na
+konzultáciu musí byť zadaná najmenej päť pracovných dní pred predpokladaným termínom konzultácie. V prípade, že
+konzultácie sa budú dotýkať komunikácie Systému so systémami tretích strán, Objednávateľ v požiadavke uvedie aj
+označenie počítačového programu, s ktorým má byť vykonávaná komunikácia a identifikuje tretie strany.
+V Ponuke na konzultáciu pripravenej Dodávateľom bude uvedený počet Pracovníkov Dodávateľa a predpokladaný
+rozsah hodín. V prípade, že po posúdení požiadavky Dodávateľ zistí, že pre niektorú konkrétnu problematiku nemá
+špecialistov, má právo zamietnuť požiadavku. Túto ponuku Dodávateľa je objednávateľ povinný schváliť alebo
+odmietnuť bez zbytočného odkladu.
+Konzultácie môžu byť poskytované písomne alebo ústne. Z každej konzultácie na základe tejto služby vznikne písomný
+zápis, ktorý overia obe Zmluvne strany a po potvrdení správnosti podpíšu ich poverené osoby. V zápise z každej
+konzultácie bude uvedený okrem poskytnutej konzultácie aj počet človekohodín vykonaných konzultácií Dodávateľom.
+Strana 20 / 21
+
+Administratívne zabezpečenie služby
+Služba Konzultácie bude v HelpDesk systéme evidovaná ako požiadavka Objednávateľa a bude odosielaná do
+HelpDesk systému Dodávateľa. Dodávateľ k požiadavke priloží oboma stranami podpísaný zápis z poskytnutej
+konzultácie. Zápis z poskytnutej konzultácie s odsúhlaseným počtom hodín konzultácie bude prílohou k faktúre.
+Dostupnosť služby
+v čase 8:00 - 16:30 hod. v pracovných dňoch.
+
+Služba č. 10 Zabezpečenie zvýšenej pohotovosti v rozsahu 72 hodín mesačne
+Názov služby: Zvýšená pohotovosť
+Popis služby a spôsob realizácie
+Obsahom tejto služby je zabezpečenie zvýšenej pohotovosti pracovníkov Dodávateľa. V prípade zistenia výskytu
+vady/incidentu Systému v čase pohotovosti Dodávateľ bude zabezpečovať riešenie vady/incidentu Systému podľa
+Služieb č.1 a č.2..
+Objednávateľ zadá Dodávateľovi požiadavku na realizáciu tejto služby minimálne päť dni pred požadovanou realizáciou
+zvýšenej pohotovosti. Požiadavka obsahuje dátum, čas a dôvod pohotovosti. Na základe požiadavky Dodávateľ
+vypracuje Zoznam pracovníkov, ktorí budú zabezpečovať pohotovosť, kalkuláciu rozsahu hodín. Zoznam obsahuje
+telefonický kontakt a emailové adresy na jednotlivých pracovníkov vykonávajúcich zvýšenú pohotovosť. Zoznam
+Dodávateľ zašle zadávateľovi požiadavky a požiada ho o odsúhlasenie návrhu.
+Administratívne zabezpečenie služby
+Služba Zvýšená pohotovosť bude v HelpDesk systéme evidovaná ako požiadavka Objednávateľa a bude odosielaná
+do HelpDesk systému Dodávateľa. Dodávateľ k požiadavke priloží Zoznam pracovníkov, ktorí budú zabezpečovať
+pohotovosť na pracovisku a mimo pracoviska, ako aj kalkuláciu rozsahu hodín.
+Službu Zvýšená pohotovosť Dodávateľ poskytuje Objednávateľovi až do vyčerpania predplatených hodín.
+Dostupnosť služby
+Služba bude poskytovaná v čase uvedenom v požiadavke.
+
+Strana 21 / 21
+
+

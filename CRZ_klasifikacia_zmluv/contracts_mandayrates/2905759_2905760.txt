@@ -1,0 +1,1586 @@
+Číslo zmluvy objednávateľa: 46001748
+
+ZMLUVA O DIELO
+uzavretá podľa ustanovení § 536 a nasl. nasl. Obchodného zákonníka
+č. 513/1991 Zb. v znení neskorších predpisov medzi
+obchodné meno:
+sídlo:
+IČO:
+DIČ:
+
+Tepláreň Košice, a. s. v skratke TEKO, a. s.
+Teplárenská 3, 042 92 Košice
+36 211 541
+2020048580
+
+IČ DPH: SK2020048580
+BIC (SWIFT):
+zapísaná v Obchodnom registri Okresného súdu Košice I v oddiele Sa vo vložke č. 1204/V
+v mene spoločnosti konajú Ing. Ladislav Koch, predseda predstavenstva, a Ing. František Hazala, člen
+predstavenstva
+(ďalej len „objednávate!"')
+IBAN:
+
+a
+CORA GEO, s. r. o.
+obchodné meno:
+A. Kmeťa 5397 /23, 036 01 Martin
+sídlo:
+31 612 989
+IČO:
+IČ DPH: SK2020433888
+2020433888
+DIČ:
+IBAN:
+BIC (SWIFT):
+zapísaná v Obchodnom registri Okresného súdu Žilina v oddiele Sro vo vložke č. 2134/L
+v mene spoločnosti koná Ing. Jozef Habiňák, konateľ
+(ďalej len „zhotovitel"')
+(ďalej spoločne len „zmluvné strany")
+takto:
+1.
+
+PREDMET ZMLUVY
+
+1.1
+
+Zhotoviteľ sa touto zmluvou zaväzuje vykonať činnosti súvisiace s „Update termovíznej snímky
+SCZT a súvisiaca technická podpora aplikácie GIS" (ďalej len „dielo") a objednávateľ sa zaväzuje
+riadne a včas vykonané dielo prevziať a zaplatiť zhotoviteľovi dohodnutú cenu diela.
+
+1.2
+
+Dielo pozostáva z:
+a. Update termovíznej snímky SCZT v rozsahu:
+a.1 projektová časť
+• realizačný návrh leteckej termografickej diagnostiky rozvodov tepla v rámci SCZT Košice
+v dvoch vyhotoveniach v papierovej forme a v jednom vyhotovení v elektronickej
+forme,
+• návrh trasy letu
+a.2 implementácia update Zber a spracovanie dát, georeferencovanie, termálne mapovanie,
+• kópia obrazových dát primárneho termovízneho záznamu na DVD alebo CD
+• vytvorenie digitálnych dát (v prípade zberu primárnych dát analógovou metódou digitalizácia dát )
+• spracovanie jednotlivých a súvislých obrazových sekvencií
+• definícia obrazových chýb a ich korektúra
+• georeferencovanie obrazových sekvencií (transformácia
+súradnicového systému JTSK)
+• spojenie obrazových sekvencií do súvislých čiastkových obrazov
+
+Číslo zmluvy objednávateľa: 46001748
+
+• rektifikovanie (oprava priestorového skreslenia) a jemná georeferenciácia
+• spojenie čiastkových obrazov do jedného globálneho obrazu
+• vyhotovenie termálnych máp v 256 odtieňoch šedi a a vo farbe
+a.3 vyhodnotenie dát a interpretácia výsledkov
+• vytvorenie digitálnych mapových súborov (mapa SCZT so zobrazením jednotlivých
+vrstiev - preletov resp. termálnych máp ) s výstupom na CD, DVD nosič pre potreby
+integrácie do GIS - formát GEO-TIFF, JPEG, TIFF resp. bude upresnený s vybraným
+zhotoviteľom
+• tlač termálnych máp v mierke vo formáte A0 v 1 vyhotovení v odtieňoch šedi a v 2
+vyhotoveniach vo farbe ( celá SCZT )
+• tlač termálnych máp v mierke vo formáte A3 ( rozdelenie podľa etáp alebo podľa
+mapových listov a v rovnakom formáte a veľkosti s rokom 2007 pre účely porovnania ) v
+odtieňoch šedi v jednom vyhotovení, v 2 vyhotoveniach vo farbe
+• vyhodnocovacia správa vo formáte A4 v dvoch vyhotoveniach v papierovej forme
+a v jednom vyhotovení v elektronickej forme s analýzou v tabuľkovej forme s
+klasifikáciou anomálií a rozdelením do troch poruchových skupín ( napr. ľahko, stredne,
+silné anomálie )
+b. Update údajov z GIS pre aplikácie DYMOS a MOP v rozsahu:
+b.1 Implementácia update údajov za rok 2016,
+c. Doplnenie aplikácie mobilného GISu o údaje zo SAP
+c.1 analýza doplnenia prepojenia o údaje zo SAP
+c.2 implementácia
+d. Riešiteľská a technická podpora v rozsahu:
+d.1 CG Hotline (vzdialená správa),
+d.2 Metodická podpora,
+d.3 Riadenie projektu,
+d.4 Technická podpora,
+d.5 Upgrade ASW (TGIS a SRTD),
+d.6 Upgrade LSW v rozsahu:
+• DB Oracle35
+• LIDS Aplication Server (LAS)-Edit - Select2
+• LIDS Aplication Server (LAS)- Explorer- Select20
+• LIDS Edít Bundle - Select2
+• LIDS Explorer Edit - Select20
+• LIDS Aplication Server - WMS - select10
+Realizácia a funkčnosť upgrade LSW je priamo naviazaná na realizáciu upgrade ASW GIS
+(aplikačný softvér, geografický informačný systém) a SRTD (systém riadenia technickej
+dokumentácie), bez realizácie upgrade ASW GIS a SRTD bude upgrade LSW vo forme
+pravidelného poplatku za používanie LSW potvrdená, nebude však implementovaná.
+1.3
+
+Touto zmluvou sa zhotoviteľ zaväzuje vykonať dielo, udeliť objednávateľovi licenciu na
+používanie upgrade aplikačného a licenčného softvéru GIS a SRTD, vykonávať technick'
+podporu a odovzdať hnuteľné veci, na ktorých a prostredníctvom ktorých je dielo v J dt:eti ,u �
+o
+všetku sprievodnú technickú dokumentáciu a podkladové materiály a objednávate
+z väz ·e
+.,.;.,�
+�
+prijať licenciu na používanie upgrade aplikačného a licenčného softvéru GIS a S 'Ô, prev i 1ý
+hnuteľné veci, na ktorých a prostredníctvom ktorých je dielo vyjadrené, všet u�spriev d Ó
+�-
+
+Vl
+
+g
+
+"?
+
+�
+
+o
+
+,,
+
+ll)'
+
+�
+
+2
+e.
+-<lska ka -,.c;
+
+�.:,
+
+Číslo zmluvy objednávateľa: 46001748
+
+technickú dokumentáciu a podkladové materiály a zaplatiť zhotoviteľovi cenu za dielo podľa
+podmienok stanovených v tejto zmluve.
+1.4
+
+Poskytovateľ sa zaväzuje dokumentáciu zabezpečenú a/alebo vytvorenú poskytovateľom pri
+vykonávaní diela, resp. v súvislosti s vykonávaním diela a/alebo vydanú v súvislosti
+s vykonávaním diela, ak taká bude, odovzdávať objednávateľovi minimálne v jednom (1)
+vyhotovení v písomnej forme a v jednom (1) vyhotovení v elektronickej forme (.doc, .xls, .pdf,
+.dwg) na CD nosiči (ďalej len „dokumentácia").
+
+1.5
+
+Poskytovateľ vyhlasuje, že sa v plnom rozsahu oboznámil s charakterom a rozsahom diela
+v zmysle podmienok stanovených objednávateľom, a že sú mu známe technické, kvalitatívne
+a iné podmienky vykonávania činnosti.
+
+1.6
+
+Poskytovateľ vyhlasuje, že disponuje takými odbornými znalosťami a �apacitami, ktoré sú
+k vykonávaniu diela potrebné, a že dielo vykoná s odbornou starostlivosťou na svoje náklady
+a na svoje nebezpečenstvo.
+
+1.7
+
+Zhotoviteľ vyhlasuje a zaručuje objednávateľovi, že:
+a) je vykonávateľom majetkových práv k upgrade aplikačného softvéru GIS a SRTD bez
+obmedzenia iným zmluvným vzťahom alebo dohodou s treťou osobou, či už písomnou
+alebo ústnou, ktorá by mohla akýmkoľvek spôsobom ovplyvniť majetkové práva,
+budúce užívanie alebo budúcu dispozíciu s ním, a že neprebiehajú a ani nemá vedomosť
+o tom, že by mohli prebiehať akékoľvek súdne alebo iné konania, ktoré by mohli mať takéto
+alebo obdobné následky,
+b) je oprávneným licenčným partnerom pre vykonávanie upgrade licenčného softvéru
+a poskytovanie služieb s tým súvisiacich,
+c) objednávateľa oboznámil so všetkými právnymi vzťahmi týkajúcimi sa upgrade aplikačného
+a licenčného softvéru GIS a SRTD, a že neexistujú žiadne iné právne vzťahy k upgrade
+aplikačného a licenčného softvéru GIS a SRTD, ktoré by neboli opísané v tejto zmluve,
+d) následne po uzatvorení tejto zmluvy sa zdrží akéhokoľvek konania, ktoré by prekážalo alebo
+bránilo prevodu hnuteľných vecí, na ktorých a prostredníctvom ktorých je upgrade
+aplikačného a licenčného softvéru GIS a SRTD vyjadrená, a všetkých podkladových
+materiálov na objednávateľa a zaväzuje sa konať tak, aby mohol splniť svoje povinnosti
+podľa tejto zmluvy,
+e) nie sú mu známe žiadne vady upgrade aplikačného a licenčného softvéru GIS a SRTD, na
+ktoré by mal objednávateľa osobitne upozorniť (najmä vady spôsobujúce nefunkčnosť
+upgrade aplikačného a licenčného softvéru GIS a SRTD).
+Zhotoviteľ berie na vedomie, že pravdivé vyhlásenia uvedené v tomto odsekoch sú podstatnou
+skutočnosťou pre uzatvorenie tejto zmluvy a v prípade, že sa ukáže nepravdivosť vyššie
+uvedených vyhlásení, je to pre objednávateľa dôvodom na odstúpenie od tejto zmluvy s tým, že
+právo na náhradu škody tým nie je dotknuté. Odstúpenie od tejto zmluvy nadobúda účinnosť
+dňom doručenia písomného oznámenia o odstúpení zhotoviteľovi.
+
+2
+2.1
+
+PODMIENKY VYKONÁVANIA DIELA
+
+Číslo zmluvy objednávateľa: 46001748
+
+tejto zmluvy, ako aj informácie potrebné na udelenie doplňujúcich alebo pozmeňujúcich
+pokynov. Zároveň je povinný upozorniť objednávateľa na zrejmú nevhodnosť jeho pokynov,
+ktoré by mohli mať za následok vznik škody, inak za takúto škodu zodpovedá. Od pokynov
+objednávateľa sa môže poskytovateľ odchýliť, len ak je to naliehavo nevyhnutné v záujme
+objednávateľa a poskytovateľ nemôže včas dostať jeho súhlas. Ani v týchto prípadoch sa však
+poskytovateľ nesmie od pokynov odchýliť, ak s tým objednávateľ nesúhlasí.
+2.2
+
+Záväzok vykonať dielo resp. jeho časť podľa tejto zmluvy bude splnený podpísaním protokolu
+o prevzatí diela, resp. jeho časti objednávateľom, ak bolo dielo vykonané riadne a včas v súlade
+s ustanoveniami tejto zmluvy a poskytovateľ odovzdal objednávateľovi všetku súvisiacu
+dokumentáciu, ak taká existuje.
+
+2.3
+
+Poskytovateľ sa zaväzuje začať vykonávať dielo podľa článku 1 ods. 1.1 a 1.2 tejto zmluvy dňom
+účinnosti tejto zmluvy.
+
+2.4
+
+Poskytovateľ sa zaväzuje plniť predmet zmluvy priebežne a splniť najneskôr v nasledovných
+termínoch:
+a) časť diela podľa článku 1 ods. 1.2a najneskôr do 31. decembra 2017,
+b) časť diela podľa článku 1 ods. 1.2b najneskôr do 30. júna 2017,
+c) časť diela podľa článku 1 ods. 1.2c najneskôr do 30. júna 2017,
+d) časť diela podľa článku 1 ods. 1.2 d.1 až d.4 najneskôr do 15. decembra 2017
+e) časť diela podľa článku 1 ods. 1.2 d.5 a d.6 najneskôr do 30. septembra 2017
+
+2.5
+
+Zhotoviteľ je povinný ihneď písomne oboznámiť objednávateľa o vzniku akejkoľvek udalosti,
+ktorá bráni alebo sťažuje vykonávanie predmetu tejto zmluvy s dôsledkom možného omeškania
+zhotoviteľa so splnením záväzku vykonať dielo alebo jeho časť v lehote podľa harmonogramu,
+ktorý je záväzný.
+
+2.6
+
+Ak zhotoviteľ splní svoj záväzok vykonať dielo alebo jeho časť na základe tejto zmluvy pred
+lehotou stanovenou harmonogramom, objednávateľ sa zaväzuje pristúpiť k prevzatiu diela
+alebo jeho časti aj v skoršom termíne ponúkanom zhotoviteľom, ak budú splnené podmienky
+stanovené v odseku 2.2 tohto článku zmluvy.
+
+2.7
+
+Miestom vykonávania diela podľa tejto zmluvy je sídlo objednávateľa Teplárenská 3, Košice
+a sústava centralizovaného zásobovania teplom mesta Košice.
+
+2.8
+
+Dokumentácia zabezpečená a/alebo vytvorená zhotoviteľom pri vykonávaní diela, resp.
+v súvislosti s vykonávaním diela, resp. vydaná v súvislosti s vykonávaním diela podľa tejto
+zmluvy, ak taká existuje, je vlastníctvom objednávateľa a zhotoviteľ ju nesmie použiť pre
+akúkoľvek tretiu osobu bez predchádzajúceho výslovného písomného súhlasu objednávateľa.
+
+2.9
+
+Zhotoviteľ je povinný uchovávať doklady a iné veci, ktoré v súvislosti so svojou činnosťou
+nadobudol od objednávateľa alebo od tretích osôb. Najneskôr po ukončení trvania tejto zmluvy,
+inak vždy na požiadanie objednávateľa, je povinný tieto doklady odovzdať objednávateľovi.
+
+2.10
+
+Dokumentácia a iné veci, ktoré objednávateľ poskytol zhotoviteľovi, alebo ktoré
+iovitelí
+'c
+nadobudol od tretích osôb v súvislosti s výkonom diela podľa tejto zmluvy, patria t!© majetku r;,..,.
+objednávateľa a zhotoviteľ je povinný ich starostlivo opatrovať; pritom dbá o ie /i_ chova i
+��
+kompletnosť.
+n(
+�
+�
+I
+
+?"
+
+of
+
+<fit ke.
+
+Číslo zmluvy objednávateľa: 46001748
+
+2.11
+
+Pri pln ení činností podľa tejto zmluvy je zhotoviteľ povinný postupovať v súlade s touto zmluvou
+a všeo becne záväznými právnymi predpismi a technickými normami, aj keď nie sú právne
+záväzné.
+
+2.12
+
+Zhotoviteľ je povinný dodržiavať všeo becne zavazné právne predpisy upravujúce spôso b
+nakladania s oso bnými údajmi, najmä zákon č. 428/2002 Z. z. o ochrane oso b ných údajov
+v znení neskor ších predpisov.
+
+2.13
+
+O bjed návateľ je povinný zhotoviteľovi poskytovať pri plnení t ejto zmluvy všetku rozumne
+požadovanú a potre bnú súčinnosť.
+
+2.14
+
+Zhotoviteľ je povinný vykonať časť diela podľa článku 1 ods. 1.2a počas vykurovacej sezóny na
+základe objednávateľom poskytnutého podkladu - siete SCZT v elektro nic�ej forme vo formáte
+DWG v JTSK. Doporučené podmienky zalieta nia:
+• suchý zemský povrch
+• teplota pod S°C
+• bezvetrie ale bo sla bý vietor
+• min požadované geometrické rozlíšenie zobrazeného bodu 1 pixel=S0 cm
+• predpokladaná plocha cca 32 km2•
+Zhotovit eľ za bezpečí v dostatočnom časovom predstihu v zmysle § 64 ods. 3 zák. č. 215/2004 Z.
+z. v platnom znení o ochrane utajených skutočností povolenie leteckého snímkovania, ktoré
+vydáva Ministerstvo o brany SR.
+
+2.15
+
+O bjed návateľ je oprávnený v kt oromkoľvek štádiu vykonávania diela kontrolovať jeho
+vykonávanie. V prípade, že počas vykonávania diela le bo jeho časti o bjednávat eľ zistí, že
+zhotoviteľ preukázateľne stratil predpoklady na zhotovenie diela, ale bo zhotovit eľ je pri
+zhotovovaní diela v takom omeškaní, že nebude schopný dodržať termí ny podľa ods. 2.4 tohto
+člá nku zmluvy a zhotoviteľ ani v primeranej lehote, kt orá nemôže byť kratšia ako 14 dní,
+dôveryhodným spôso bom nepreukáže zmenu takéhoto stavu, je o bjednávateľ opráv nený bez
+ďalš ieho od tejto zmluvy odstúpiť. V takomt o prípade má zhotoviteľ nárok len na náhradu
+preukázateľne a účelne vynaložených nákladov (nie na ce nu za dielo) na plnenie predmetu tejto
+zmluvy, ktoré môže o bjednávateľ v budúcnosti využiť pre svoju potrebu, inak nárok na náhradu
+nákladom nemá.
+
+2.16
+
+Zhot ovit eľ z náša ne bezpečenstvo vzniku škody na hnut eľných veciach, na ktorých
+a prostred níctvom ktorých je dielo vyjadrené, a na všetkých podkladových materiáloch k dielu
+až do ich odovzdania objednávateľovi podľa článku 4 t ejto zmluvy. Dňom podpisu
+odovzdávacieho a pre beracieho prot okolu zmluvnými stranami podľa článku 4 t ejto zmluvy:
+prechádza ne bezpečenstvo vzniku škody na hnuteľ ných veciach, na ktorých
+a prostred níctvom ktorých je dielo vyjadrené, a na všetkých podkladových mat eriáloch
+k dielu zo zhotovit eľa na o bjednávat eľa,
+prechádza vlastnícke právo k hnuteľným veciach, na ktorých a prostredníctvom ktorých je
+dielo vyjadrené, a ku všetkým podkladovým materiálom k dielu ak dovtedy nenáležalo
+objed návat eľovi, zo zhotoviteľa na o bjednávat eľa, je o bjed návateľ opráv nený používať
+predmet diela, ak na jeho používanie ne bol o bjednávateľ oprávnený už skôr.
+:-::-:---......
+/:'.:-ť�'1Tl0IJ
+
+2.17
+
+/._,o_'Q
+
+e
+
+-t",--�
+
+b'aň :
+���;��� �!t:l�� :to�: =��;�: �:�a/:����č���� v;:on:::�! ��:i; p:d:: ::j�� J::�u;:t
+-,
+t
+
+š
+
+b
+
+n
+
+y
+
+r
+
+f
+
+r-1'1
+
+1
+
+�-
+
+"L
+
+o,f.
+
+,..
+
+.-;..%
+....
+
+I
+
+s �,....
+
+.�
+
+---
+
+t:Jt..,k.a
+
+,.'-'
+
+Číslo zmluvy objednávateľa: 46001748
+podpisu písomného protokolu zmluvnými stranami podľa článku 4 tejto zmluvy prechádza
+nebezpečenstvo vzniku škody na hardvérovom a softvérovom vybavení objednávateľa zo
+zhotoviteľa na objednávateľa.
+3
+
+OSOBITNÉ USTANOVENIA
+
+3.1
+
+Objednávateľ je subjektom verejného sektora v zmysle ustanovení zákona č. 315/2016 Z. z.
+o registri partnerov verejného sektora. V prípade, že je to dôvodné, zhotoviteľ sa zaväzuje
+najneskôr v deň podpisu tejto zmluvy objednávateľovi predložiť zoznam subdodávateľov, ktorým
+budú poskytnuté finančné prostriedky nad limity stanovené v ustanovení § 2 ods. 2 zákona č.
+351/2016 Z. z. o registri partnerov verejného sektora.
+
+3.2
+
+Zákaz nelegálneho zamestnávania. Zhotoviteľ sa zaväzuje pri plnení tejto zmluvy dodržiavať
+zákaz nelegálneho zamestnávania v rozsahu stanovenom všeobecne �áväznými právnymi
+predpismi. Zhotoviteľ súčasne zodpovedá objednávateľovi za porušenie zákazu nelegálneho
+zamestnávania osobami, ktorých kapacity pri plnení tejto zmluvy využije.
+
+3.3
+
+Bezpečnosť a nakladanie s odpadmi. Pri plnení tejto zmluvy sa zhotoviteľ zaväzuje dodržiavať
+právne predpisy a plniť úlohy na úseku bezpečnosti a ochrany zdravia pri práci (ďalej len „BOZP")
+a ochrany pred požiarmi na účely predchádzania vzniku požiarov a zabezpečenia podmienok
+na účinné zdolávanie požiarov (ďalej len „PO") v sídle, priestoroch, objektoch a na pracoviskách
+objednávateľa, v ktorých sa bude plniť táto zmluva, (ďalej len „pracovisko"). Zhotoviteľ je
+povinný ochraňovať a zlepšovať stav životného prostredia a všetkých jeho zložiek, najmä
+ovzdušia, vôd, hornín, pôdy a organizmov (ďalej len „ŽP"). Najmä je povinný predchádzať
+znečisťovaniu ŽP a poškodzovaniu ŽP a minimalizovať nepriaznivé dôsledky svojej činnosti pri
+plnení tejto zmluvy na ŽP. Zhotoviteľ preberá vo vzťahu k objednávateľovi plnú zodpovednosť
+za ekologickú ujmu, ktorú pri plnení tejto zmluvy spôsobí.
+
+3.4
+
+Objednávateľ je povinný odovzdať zhotoviteľovi pracovisko tak, aby zhotoviteľ mohol riadne
+a včas plniť túto zmluvu. O odovzdaní a prevzatí pracoviska spíšu zmluvné strany zápisnicu.
+V prípade, ak zhotoviteľ začne plniť túto zmluvu bez zápisničného prevzatia pracoviska, má sa za
+to, že pracovisko bolo objednávateľom odovzdané a zhotoviteľom prevzaté riadne.
+
+3.5
+
+Za vytvorenie podmienok na zaistenie BOZP, PO a ochrany ŽP, zabezpečenie a vybavenie
+pracoviska na bezpečný výkon práce za účelom plnenia tejto zmluvy a dodržiavanie všeobecne
+záväzných právnych predpisov, ako aj technických noriem (aj keď nie sú všeobecne záväzné) pri
+plnení tejto zmluvy na pracovisku zodpovedá v plnom rozsahu a výlučne zhotoviteľ.
+
+3.6
+
+Zhotoviteľ vyhlasuje, že bude vykonávať činnosť podľa tejto zmluvy výlučne takými fyzickými
+osobami, ktorých zdravotný stav, schopnosti, vek, kvalifikačné predpoklady a odborná
+spôsobilosť zodpovedajú tejto činnosti podľa zmluvy, a to podľa právnych predpisov všeobecne,
+ako aj osobitne podľa právnych predpisov a ostatných predpisov na zaistenie BOZP, a to bez
+ohľadu na jeho právny vzťah k uvedeným fyzickým osobám (ďalej len „zamestnanci").
+Zamestnancom sa na účely tohto článku rozumejú všetky fyzické osoby, ktoré sa budú podieľať
+na plnení tejto zmluvy, okrem zamestnancov objednávateľa, a to zhotoviteľ, ak je fyzickou
+osobou, a jeho spolupracujúce osoby, jeho zamestnanci, jeho subzhotovitelia, ak sú fyzickými
+osobami, a ich spolupracujúce osoby a ich zamestnanci.
+
+3.7
+
+Zhotoviteľ je povinný preukázateľne informovať zamestnancov o nebezp -�nstvá'eh \"o
+?,;.
+a ohrozeniach, ktoré sa pri plnení zmluvy môžu vyskytnúť, a o výsledkoch po • ďenia nz1
+_
+�
+o preventívnych opatreniach a ochranných opatreniach, ktoré vykonal z bloviteľ al
+0
+�
+objednávateľ na zaistenie BOZP, PO a ochrany ŽP a ktoré sa vzťahujú šeobecne
+
+číslo zmluvy objednávateľa: 46001748
+zamestnancov a na nimi vykonávané práce na pracovisku pri plnení tejto zmluvy, o opatreniach
+a postupe v prípade poškodenia zdravia vrátane poskytnutia prvej pomoci, ako aj o opatreniach
+a postupe v prípade zdolávania požiaru, záchranných prác a evakuácie, a preukázateľne ich
+poučiť o pokynoch na zaistenie BOZP, PO a ochranu ŽP platných pre pracovisko (ďalej len
+„preškolenie"). Za účelom preškolenia objednávateľ poskytol zhotoviteľovi písomné informácie
+a pokyny za zaistenie BOZP, PO a ochranu ŽP platné pre pracovisko.
+3.8
+
+Prípadné nedostatky pracoviska a informácií a pokynov poskytnutých objednávateľom je
+zhotoviteľ povinný uplatniť písomne pred začatím plnenia tejto zmluvy, inak platí, že pracovisko
+je náležite zabezpečené a vybavené na bezpečný výkon práce za účelom plnenia tejto zmluvy,
+zhotoviteľ dostal potrebné a dostatočné informácie a pokyny na zaistenie BOZP, PO a ochranu
+ŽP platné pre pracovisko a že plnenie žiadnych ďalších povinností na úseku BOZP, PO a ochrany
+ŽP sa zo strany objednávateľa nevyžaduje. Zhotoviteľ je povinný písomne uplatňovať
+u objednávateľa nedostatky týkajúce sa BOZP, PO a ochrany ŽP, ktoré sa, vyskytnú neskôr pri
+plnení tejto zmluvy, za odstránenie ktorých zodpovedá objednávateľ.
+
+3.9
+
+Objednávateľ vystaví zamestnancom bezdotykové identifikačné karty, ktoré ich budú
+oprávňovať na peší a automobilový vstup na pracovisko, a to aj mimo pracovnej doby, v súlade
+s požiadavkami objednávateľa na plnenie tejto zmluvy. Bezdotykové identifikačné karty budú
+zhotoviteľovi vydané po uzatvorení tejto zmluvy a preškolení. Za tým účelom je zhotoviteľ
+povinný bez zbytočného odkladu odo dňa uzatvorenia tejto zmluvy odovzdať objednávateľovi
+zoznam zamestnancov. Po splnení tejto zmluvy je zhotoviteľ povinný bez zbytočného odkladu
+bezdotykové identifikačné karty vrátiť objednávateľovi. V prípade porušenia tejto povinnosti je
+objednávateľ oprávnený požadovať od zhotoviteľa zmluvnú pokutu vo výške 67 € za každú
+nevrátenú bezdotykovú identifikačnú kartu.
+
+3.10
+
+Objednávateľ nie je povinný zabezpečovať zamestnancom doprovod na pracovisku.
+
+3.11
+
+Zamestnanci nesmú na pracovisku požívať alkoholické nápoje, omamné látky, psychotropné
+látky alebo prípravky a plniť túto zmluvu pod ich vplyvom. Ďalej musia dodržiavať zákaz fajčenia
+a musia používať a nosiť osobné ochranné pracovné pomôcky a prostriedky.
+
+3.12
+
+Zhotoviteľ je povinný ihneď oznámiť vznik každého pracovného úrazu objednávateľovi.
+
+3.13
+
+Ak pri plnení tejto zmluvy ide o činnosť so zvýšeným nebezpečenstvom vzniku požiaru,
+zhotoviteľ je povinný postupovať tak, aby bola zabezpečená PO, najmä vydáva písomný pokyn
+na zabezpečenie PO a písomné povolenie na činnosť, ak sa vyžaduje, zriaďuje protipožiarnu
+asistenčnú hliadku a zabezpečuje plnenie jej úloh a odbornú prípravu a zabezpečuje potrebné
+množstvo vhodných druhov hasiacich prostriedkov a iných vecných prostriedkov PO, ktoré je
+možné prenajať aj od objednávateľa za určené nájomné.
+
+3.14
+
+Zhotoviteľ je povinný bez zbytočného odkladu ohlásiť objednávateľovi ekologickú ujmu, ktorú pri
+plnení Zmluvy spôsobí, najmä je povinný ohlásiť mimoriadne zhoršenie alebo ohrozenie kvality
+vôd alebo iných zložiek ŽP alebo únik znečisťujúcich látok pri manipulácii s nimi alebo pri ich
+preprave. Informácie sa podávajú zmenovému inžinierovi objednávateľa na tel. č. 055/, GSM .
+Prípadmi mimoriadneho zhoršenia, alebo ohrozenia kvality vôd sú najmä úniky znečisťujúcich
+látok súvisiace s ich manipuláciou a prepravou (ropné látky, chemikálie, náterové hmoty a pod.) do
+voľnej pôdy a do prostredia súvisiaceho s povrchovou alebo podzemnou vodou, technické poruchy
+a chyby na strojných zariadeniach, ... d��vnýolit {;
+jných mechanizmoch, ktoré sú príčinou úniku znečisťujú r'látok do , ô��
+k
+�������� ;�: ; : ��
+e
+st
+i
+
+o
+
+a.,I.;
+
+i:
+
+�
+
+'1'.
+
+ô.f"'
+�k
+
+I
+
+a
+7
+
+Číslo zmluvy objednávateľa: 46001748
+
+3.15
+
+Zhotoviteľ (prevádzkovateľ kuchyne) podľa zákona č.79/2015 Z. z. o odpadoch zodpovedá za
+nakladanie s biologicky rozložiteľným kuchynským odpadom a reštauračným odpadom, ktorého
+je pôvodcom. Je povinný zaviesť a zabezpečovať vykonávanie triedeného zberu pre biologicky
+rozložiteľný kuchynský odpad a reštauračný odpad, ktorého je pôvodcom. Prevádzkovateľovi
+kuchyne sa zakazuje uložiť biologicky rozložiteľný kuchynský a reštauračný odpad, ktorého je
+pôvodcom, do nádob určených obcou na zber komunálneho odpadu, používať drviče biologicky
+rozložiteľného kuchynského a reštauračného odpadu napojené na verejnú kanalizáciu a zbaviť sa
+použitých jedlých olejov a tukov vypúšťaním do kanalizácie.
+
+3.16
+
+Zmesový komunálny odpad vznikajúci pri bežnej spotrebe je zhotoviteľ povinný ukladať do
+zberných nádob určených obcou na zber zmesového komunálneho odpadu. Medzi zmesový
+komunálny odpad nepatria obaly z papiera a lepenky, obaly z plastov (PET fľaše), ani akékoľvek
+odpady súvisiace s podnikateľskou činnosťou prevádzkovateľa kuchyne. Zhotoviteľ je povinný na
+vlastné náklady zabezpečiť zhodnotenie resp. zneškodnenie všetkých druhov odpadov, ktoré
+vzniknú počas prevádzky kuchyne, okrem zmesového komunálneho odpadu.
+
+3.17
+
+Spoločné ustanovenia. Zhotoviteľ zodpovedá objednávateľovi za všetky škody spôsobené
+porušením akejkoľvek povinnosti na úseku BOZP, PO a ochrany a tvorby ŽP vrátane OH a zákazu
+nelegálneho zamestnávania. Za škodu sa na účely tejto zmluvy považujú aj sankcie (pokuty)
+uložené príslušnými štátnymi orgánmi a orgánmi verejnej správy za porušenie povinnosti na
+úseku BOZP, PO a ochrany a tvorby ŽP vrátane OH, ak tieto povinnosti podľa tohto článku
+zaťažovali zhotoviteľa a nie objednávateľa, ktoré boli objednávateľovi po vyčerpaní opravných
+prostriedkoch uložené, ak objednávateľ riadne a včas umožnil zhotoviteľovi uplatňovať
+v príslušných konaniach všetky dostupné návrhy, opravné prostriedky a námietky, o ktorých
+uplatnenie v týchto konaniach alebo za účelom začatia opravných konaní zhotoviteľ
+objednávateľa písomne požiadal, a ak náklady spojené s uplatňovaním týchto návrhov,
+opravných prostriedkov a námietok zhotoviteľ objednávateľovi na jeho žiadosť zaplatil.
+
+3.18
+
+Zhotoviteľ je povinný na požiadanie objednávateľa preukázať splnenie svojich povinností na
+úseku BOZP, PO, ochrany a tvorby ŽP vrátane OH a zákazu nelegálneho zamestnávania v lehote
+troch (3) pracovných dní od dňa doručenia žiadosti objednávateľa, a to najmä predložením
+dokladov preukazujúcich preškolenie zamestnancov, predložením oprávnení zamestnancov na
+výkon činnosti podľa tejto zmluvy a predložením dokladov o určení bezpečných pracovných
+postupov pre činnosti vykonávané podľa tejto zmluvy.
+
+3.19
+
+Zhotoviteľ zodpovedá objednávateľovi za všetky škody spôsobené porušením akejkoľvek
+povinnosti na úseku BOZP, PO, ochrany a tvorby ŽP vrátane OH a zákazu nelegálneho
+zamestnávania. Za škodu sa na účely tejto zmluvy považujú aj sankcie (pokuty) uložené
+príslušnými štátnymi orgánmi a orgánmi verejnej správy za porušenie povinnosti na úseku BOZP,
+PO, ochrany a tvorby ŽP vrátane OH a zákazu nelegálneho zamestnávania, ak tieto povinnosti
+podľa tohto článku zaťažovali zhotoviteľa a nie objednávateľa, ktoré boli objednávateľovi po
+vyčerpaní opravných prostriedkov uložené, ak objednávateľ riadne a včas umožnil zhotoviteľovi
+uplatňovať v príslušných konaniach všetky dostupné návrhy, opravné prostriedky a námietky,
+o ktorých uplatnenie v týchto konaniach alebo za účelom začatia opravných konaní zhotoviteľ
+objednávateľa písomne požiadal, a ak náklady spojené s uplatňovaním týchto návrhov,
+opravných prostriedkov a námietok zhotoviteľ objednávateľovi na jeho žiadosť zaplatil.
+
+3.20
+
+Porušovanie pravidiel BOZP, PO, ochrany a tvorby ŽP vrátane OH a zákazu neleg_áln.eho
+zamestnávania zo strany zhotoviteľa oprávňuje objednávateľa k odstúpeniu od zmly.v'f)�:'ín
+�,
+
+f{
+
+\�'''í..
+
+� �,
+
+, "'< 2"
+
+\..,. ,-
+
+?
+
+\.,e,
+
+·(��
+
+-�
+
+.,�
+
+Číslo zmluvy objednávateľa: 46001748
+
+4
+
+ODOVZDANIE A PREVZATIE DIELA
+
+4.1
+
+O odovzdaní a prevzatí diela alebo jeho časti spíšu zmluvné strany písomný protokol. Protokol
+bude obsahovať najmä základné údaje o diele alebo jeho časti, jeho odovzdaní a prevzatí, súpis
+odovzdanej dokumentácie týkajúcej sa diela alebo jeho časti a prípadných zistených vád
+a nedorobkov, opatrenia a lehoty na odstránenie zistených vád diela, bude datovaný
+a podpísaný zmluvnými stranami. Zhotoviteľ je povinný zistené vady diela odstrániť
+v dohodnutej, inak primeranej lehote, ktorá nebude dlhšia ako 3 pracovných dní. Návrh
+protokolu je povinný vypracovať a predložiť zhotoviteľ.
+
+4.2
+
+Objednávateľ nie je povinný prevziať vadné alebo nedokončené dielo alebo jeho časť, ak však
+prevezme vadné alebo nedokončené dielo alebo jeho časť, jeho práva zo zodpovednosti za vady
+diela ostávajú v plnom rozsahu zachované. Ak sa však jedná o vady diela, ktorých charakter
+umožňuje riadne užívanie diela, tieto nie sú dôvodom pre neprevzatie die!a, zhotoviteľ je však
+povinný ich odstrániť v lehote troch (3) pracovných dní, pokiaľ sa v protokole zmluvné strany
+nedohodnú inak.
+
+4.3
+
+V prípade, ak objednávateľ v rozpore s touto zmluvou neprevezme dielo alebo jeho časť ani
+v lehote desiatich (10) pracovných dní od doručenia výzvy zhotoviteľa na jeho prevzatie,
+považuje sa záväzok vykonať dielo alebo jeho časť za splnený, ibaže objednávateľ preukáže opak.
+V takom prípade sa podpis objednávateľa na protokole nevyžaduje.
+
+4.4
+
+Za objednávateľa je poverený dielo prevziať XXX.
+
+5
+
+ZODPOVEDNOSŤ ZA VADY
+
+5.1
+
+Zmluvné strany dojednávajú pre dielo záručnú dobu v trvaní dvadsiatichštyroch (24) mesiacov,
+ktorá začína plynúť dňom odovzdania a prevzatia celého diela alebo dňom riadneho odstránenia
+vád diela, na odstránení ktorých sa zmluvné strany dohodli pri odovzdaní a prevzatí diela.
+
+5.2
+
+Zhotoviteľ preberá záruku, že počas záručnej doby:
+a) dielo bude presne v súlade so všetkými špecifikáciami podľa tejto zmluvy,
+b) dielo bude najvyššej kvality a bezvadné v spracovaní a materiály,
+c) objednávateľ získa vlastnícke právo k dielu, neobmedzené žiadnymi záložnými právami,
+bremenami a skutočnými alebo uplatnenými porušeniami patentov, autorských práv alebo
+ochranných známok alebo iných práv k predmetom duševného (vrátane priemyselného)
+vlastníctva,
+d) dielo bude bezpečné a vhodné na objednávateľom zamýšľané účely.
+
+5.3
+
+Zodpovednosť zhotoviteľa za vady diela nie je dotknutá tým, že objednávateľ neoznámil
+zhotoviteľovi vady bez zbytočného odkladu potom, čo ich zistiť mal pri vynaložení odbornej
+starostlivosti pri prehliadke alebo kedykoľvek neskôr. Objednávateľ teda môže reklamovať vady
+diela bez obmedzenia času počas celej záručnej doby. Prípadné reklamácie je objednávateľ
+povinný uplatniť u zhotoviteľa písomne najneskôr do konca uplynutia záručnej doby. Uplatnenie
+vád diela a nárokov zo zodpovednosti za vady diela musí objednávateľ uskutočniť písomne, inak
+sa naň neprihliada. Uplatnenie vady diela musí obsahovať stručný opis vady alebo toho, ako sa
+vada prejavuje.
+
+5.4
+
+V prípade výskytu vád na diele počas záručnej doby má objednávateľ práva .y��ajúce 4,.,
+z Obchodného zákonníka, ktoré môžu byť vykonané počas celej záručnej doby. V pr:í ifde nárok
+�·
+I�
+na odstránenie vád diela je zhotoviteľ povinný vady na vlastný účet odstráni
+primeran
+%
+c
+lehote, najneskôr však do 3 pracovných dní od doručenia písomnej reklam \e, pokiaľ 1 �
+(
+
+t
+
+f
+
+.,.,.,A
+
+�o
+,f.
+
+�
+
+C
+:ri;-
+
+číslo zmluvy objednávateľa: 46001748
+zmluvné strany nedohodnú písomne inak. Po márnom uplynutí tejto lehoty sa vada bude
+považovať za neodstrániteľnú. Nárok na odstúpenie od tejto zmluvy je možné uplatniť aj len
+čiastočne čo do vadnej časti diela.
+S.S
+
+V prípade, že zhotoviteľ dielo v stanovenej lehote nevykoná alebo vadu diela neodstráni ani
+v náhradnej primeranej lehote, je objednávateľ oprávnený dielo vykonať alebo vady diela
+odstrániť prostredníctvom tretej osoby na náklady zhotoviteľa. V takomto prípade ostáva záruka
+podľa ods. 5.1. tohto článku zmluvy poskytnutá zhotoviteľom zachovaná v celom rozsahu.
+
+5.6
+
+V súlade s ustanoveniami § 72 ods. 4 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení
+neskorších predpisov je objednávateľ oprávnený vystaviť čo do nároku na zľavu z ceny za dielo za
+vadné dielo alebo jeho časť faktúru v mene a na účet zhotoviteľa, a to za podmienok, že
+objednávateľ riadne reklamoval vady diela a zhotoviteľ nevystavil dobropis alebo opravnú
+faktúru na zľavu z ceny za dielo v lehote 30 dní odo dňa doručenia reklamácje zhotoviteľovi.
+
+6
+
+SANKCIE
+
+6.1
+
+V prípade, že sa zhotoviteľ dostane do omeškania so splnením záväzku vykonať dielo alebo jeho
+časť, objednávateľ je oprávnený požadovať od zhotoviteľa zmluvnú pokutu vo výške 0,05 %
+z celkovej ceny za dielo za každý začatý deň omeškania. To isté platí v prípade, že sa zhotoviteľ
+dostane do omeškania s odstraňovaním vád a nedorobkov diela. Nedotýkajúc sa uvedeného,
+objednávateľ je v takomto prípade oprávnený poskytnúť zhotoviteľovi primeranú lehotu na
+vykonanie diela alebo jeho časti, ktorá nemusí byť dlhšia ako tri (3) dni, po ktorej márnom
+uplynutí je oprávnený od tejto zmluvy odstúpiť.
+
+6.2
+
+Objednávateľ je oprávnený požadovať od zhotoviteľa zmluvnú pokutu vo výške 100 € za každé
+menej závažné porušenie povinnosti vyplývajúcej z pravidiel zákazu nelegálneho zamestnávania,
+pravidiel BOZP, PO a ochrany a tvorby životného prostredia vrátane OH podľa tejto zmluvy a vo
+výške 2000 € za každé hrubé porušenie povinnosti vyplývajúcej z pravidiel zákazu nelegálneho
+zamestnávania, pravidiel BOZP, PO a ochrany a tvorby životného prostredia vrátane OH podľa
+tejto zmluvy.
+
+6.3
+
+Zmluvné pokuty podľa tejto zmluvy sú splatné na základe písomnej výzvy, resp. faktúry
+objednávateľa doručenej zhotoviteľovi a v lehote do 15 dní od jej doručenia.
+
+6.4
+
+Zaplatením zmluvnej pokuty nie je dotknuté právo na náhradu škody spôsobenej porušením
+povinnosti, pre prípad porušenia ktorej bola dohodnutá; náhrada škody môže byť uplatňovaná
+objednávateľom voči zhotoviteľovi v plnej výške.
+
+6.5
+
+Objednávateľ je oprávnený jednostranne započítať proti pohľadávke zhotoviteľa voči nemu na
+zaplatenie ceny za dielo podľa článku 7 ods. 7.1 tejto zmluvy všetky svoje prípadné pohľadávky
+voči zhotoviteľovi na zaplatenie zmluvných pokút podľa tejto zmluvy.
+
+7
+
+CENA DIELA
+
+7.1
+
+Zmluvné strany sa dohodli na cene za uskutočňovanie jednotlivých činností súvisiacich
+s vykonaním diela vo výške podľa odseku 7.2 tohto článku. Objednávateľ sa zaväzuje zaplatiť
+zhotoviteľovi odplatu v rozsahu zhotoviteľom skutočne vykonaného dielo podľa tejto� zmluvy.
+Celková cena diela nepresiahne sumu 188 712,00,- €, slovom stoosemdesia't,osemtišíc'·,)
+sedemstodvanásť euro bez DPH. Takto stanovená cena diela je maximálna, apli�)e sa p as "v.
+I
+celej doby trvania tejto zmluvy a môže byť zmenená len dohodou zmluvných strá l-'
+%
+
+10 '
+.,_v
+�
+
+.
+
+....
+
+číslo zmluvy objednávateľa: 46001748
+
+7.2
+
+Cena jednotlivých častí diela, tak ako sú špecifikované v článku 1, ods. 1.2 tejto zmluvy je
+stanovená na:
+a) časť diela podľa článku 1 ods. 1.2a je vo výške .........................................70 000,00 €,
+b) časť diela podľa článku 1 ods. 1.2b je vo výške .........................................12 896,20 €,
+c) časť diela podľa článku 1 ods. 1.2c je vo výške .........................................19 400,00 €,
+d) časť diela podľa článku 1 ods. 1.2d.1 až d.4 je vo výške ..............................5 405,80 €,
+e) časť diela podľa článku 1 ods. 1.2d.5 a d.6 je vo výške ..............................81 010,00 €,
+Takto stanovené ceny jednotlivých častí diela sú maximálne, aplikujú sa počas celej doby trvania
+tejto zmluvy a môžu byť zmenené len dohodou zmluvných strán.
+
+7.3
+
+Ceny uvedené v ods. 7.1. a 7.2 tohto článku zmluvy sú bez dane z pridanej hodnoty, ktorú
+zhotoviteľ vyúčtuje podľa všeobecne záväzných právnych predpisov účinných v čase vzniku
+daňovej povinnosti.
+
+7.4
+
+V cene diela podľa článku 7 tejto zmluvy sú zahrnuté všetky náklady zhotoviteľa spojené
+s vykonávaním diela alebo jeho časti podľa tejto zmluvy.
+
+8
+
+PLATOBNÉ PODMIENKY
+
+8.1
+
+Na základe dohody zmluvných strán bude objednávateľ cenu za dielo zhotoviteľovi uhrádzať po
+častiach podľa článku 7 ods. 7.2 tejto zmluvy základe faktúr vystavených zhotoviteľom.
+Zhotoviteľ je oprávnený vystaviť faktúru po riadnom vykonaní tej-ktorej časti diela a jej
+protokolárnom prevzatí podľa termínov stanovených v článku 2., ods. 2.4 tejto zmluvy.
+Jednotlivé faktúry sú splatné v lehote 60 dní odo dňa ich doručenia objednávateľovi. V prípade,
+ak základ pre DPH prevyšuje sumu 50 OOO,- €, prílohou faktúry musí byť originál potvrdenia
+vystaveného správcom dane nie staršieho ako sedem (7) dni, že dodávateľ nemá nezaplatenú
+DPH a že u neho ani nenastali dôvody pre zrušenie registrácie pre DPH podľa zákona č. 222/2004
+Z. z. o dani z pridanej hodnoty v znení neskorších predpisov (ďalej len „zákon o DPH").
+
+8.2
+
+V prípade námietok objednávateľa voči správnosti vystavenej faktúry je objednávateľ
+oprávnený:
+a)
+
+faktúru, ktorá má chybu vyplývajúcu z nesprávne uvedeného množstva alebo ceny, do 14
+pracovných dní odo dňa jej doručenia objednávateľovi reklamovať u zhotoviteľa spolu
+s vytknutím jej nesprávnosti, pričom zhotoviteľ je povinný chybnú faktúru opraviť
+vyhotovením nového účtovného dokladu - faktúry, ktorý dopÍňa pôvodnú faktúru s tým, že
+tento doklad musí okrem povinných údajov obsahovať aj poradové číslo pôvodnej faktúry;
+alebo
+
+b) faktúru, ktorá nespÍňa formálne náležitosti podľa ustanovení§ 74 ods. 1 zákona č. 222/2004
+Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, vrátiť zhotoviteľovi spolu
+s vytknutím jej nesprávnosti.
+c) V prípade oprávnených námietok uvedených vyššie v tomto odseku sa má za to, že faktúra
+nebola doručená objednávateľovi.
+8.3
+
+V prípade reklamácie vád diela, až do vyriešenia reklamácie pre zmluvné strany záv&zflým ,
+/ ')
+spôsobom (právoplatné ukončenie reklamačného konania), objednávateľ nie je v. omeška
+i°
+s úhradou ceny za dielo alebo akúkoľvek jej časť.
+I..;
+D.
+1
+
+11
+
+číslo zmluvy objednávateľa: 46001748
+
+8.4
+
+Pre prípad omeškania objednávateľa s platením ceny za dielo si zmluvné strany dohodli platenie
+úrokov z omeškania vo výške 0,02 % zo sumy, s ktorou je objednávateľ v omeškaní, za každý deň
+z omeškania.
+
+8.5
+
+Objednávateľ je oprávnený zadržať sumu vo výške 10 % z celkovej fakturovanej sumy ako
+zábezpeku na svoje prípadné nároky zo zodpovednosti za vady diela, ktorú vyplatí zhotoviteľovi
+vo výške 50 % zadržanej sumy po uplynutí 12 mesiacov zo záručnej doby a zvyšok zadržanej
+sumy po uplynutí celej záručnej doby. Objednávateľ vyplatí zhotoviteľovi zadržanú sumu podľa
+predchádzajúcej vety tohto odseku kedykoľvek počas plynutia záručnej doby ihneď potom, čo
+zhotoviteľ preukáže objednávateľovi, že zabezpečil svoj záväzok zo zodpovedností za vady diela
+bankovou zárukou podľa odseku 8.6 tohto článku.
+
+8.6
+
+Zhotoviteľ je oprávnený zabezpečiť svoj záväzok zo zodpovednosti za vady diela bankovou
+zárukou zriadenou v prospech objednávateľa vo výške 10 % z ceny za dielo, podľa článku 7 tejto
+zmluvy, ktorá musí byť vystavená na dobu minimálne 24 mesiacov odo dňa podpísania protokolu
+podľa článku 4 odsek 4.1 zmluvy, prípadne odo dňa podpísania zápisnice o odstránení všetkých
+vád a nedorobkov uvedených v protokole o odovzdaní a prevzatí diela. Banková záruka musí byť
+vystavená tuzemskou bankou a musí oprávňovať objednávateľa na čiastočné alebo úplné
+využívanie bankovej záruky. Banková záruka nesmie obsahovať zákaz odstúpenia, založenia
+alebo vinkulácie nárokov zo záruky.
+
+8.7
+
+Postúpenie pohľadávky na zaplatenie ceny za dielo zhotoviteľom je možné iba s písomným
+súhlasom objednávateľa.
+
+8.8
+
+Objednávateľ je oprávnený zadržať časť ceny za dielo vo výške zodpovedajúcej dani z pridanej
+hodnoty vyúčtovanej faktúrou v prípade, ak u zhotoviteľa nastanú dôvody pre zrušenie
+registrácie pre daň z pridanej hodnoty a/alebo Finančné riaditeľstvo Slovenskej republiky
+zverejní zhotoviteľa v zozname osôb, u ktorých nastali dôvody pre zrušenie registrácie pre daň
+z pridanej hodnoty vedenom na portáli Finančnej správy Slovenskej republiky, a to až do času,
+keď zhotoviteľ hodnoverným spôsobom preukáže objednávateľovi, že u neho tieto dôvody
+pominuli.
+
+9. MLČANLIVOSŤ
+9.1
+
+Zmluvné strany budú mať pri plnení tejto zmluvy prístup k informáciám týkajúcim sa druhej
+zmluvnej strany (ďalej len „dotknutá zmluvná strana") a jej podnikania, najmä k akýmkoľvek
+informáciám obchodnej, výrobnej, prevádzkovej, marketingovej, finančnej, majetkovej,
+organizačnej, personálnej, hospodárskej a/alebo technickej povahy. Tieto informácie alebo
+akékoľvek iné informácie verejne neprístupné a súvisiace s činnosťou dotknutej zmluvnej strany,
+ktoré druhá zmluvná strana získa ústne, písomne alebo v akejkoľvek inej forme pri plnení tejto
+zmluvy alebo v jej súvislosti, sú predmetom obchodného tajomstva dotknutej zmluvnej strany,
+alebo ich dotknutá zmluvná strana týmto označuje ako dôverné v zmysle ustanovenia § 271
+Obchodného zákonníka (ďalej len „dôverné informácie").
+
+9.2
+
+Zmluvné strany sa zaväzujú, že počas trvania tejto zmluvy, ako aj po jej skončení:
+a)
+
+b)
+
+budú zachovávať mlčanlivosť o dôverných informáciách, najmä sa zaväzujú tieto dôverné
+informácie bez výslovného predchádzajúceho písomného súhlasu dotknutej .,.zmr VWjÍ
+strany priamo alebo nepriamo tretej osobe neoznámiť, nesprístupniť, nezvere·n·fo11tt>0 pre
+seba alebo iného nevyužiť,
+písomne oznámia dotknutej zmluvnej strane akékoľvek okolnosti,
+k vzniku konfliktu záujmov s dotknutou zmluvou stranou,
+
+J
+
+12
+
+/
+
+ro-
+
+, (;
+
+číslo zmluvy objednávateľa: 46001748
+
+c)
+d)
+e)
+
+použijú dôverné informácie iba v súvislosti s plnením predmetu tejto zmluvy a na
+dosiahnutie účelu podľa tejto zmluvy,
+obmedzia zverenie dôverných informácií iba tým svojim zamestnancom, ktorí sú určení na
+plnenie predmetu tejto zmluvy a u ktorých zabezpečujú dodržiavanie dôvernosti týchto
+informácií a povinností s tým súvisiacich,
+o každom sprístupnení dôverných informácií tretej strane v prípadoch stanovených
+všeobecne záväznými právnymi predpismi budú informovať dotknutú zmluvnú stranu,
+
+pričom sa uvedené povinnosti zaväzujú vykonávať so všetkou potrebnou odbornou
+starostlivosťou.
+9.3
+
+V prípade porušení ktorejkoľvek povinnosti podľa odseku 9.2 tohto článku zmluvou stranou je
+dotknutá zmluvná strana oprávnená požadovať od druhej zmluvnej strany zaplatenie zmluvnej
+pokuty vo výške 3 OOO,- EUR, a to za každé jedno porušenie danej povinnosti s tým, že
+zaplatením zmluvnej pokuty nie je dotknutý nárok na náhradu škody spôsobenej prípadným
+porušením týchto povinností.
+
+9.4
+
+Zhotoviteľ berie na vedomie, že v prípade objednávateľa ide o právnickú osobu
+majetkovou účasťou štátu, ktorá môže byť zaviazaná k povinnosti zverejniť túto
+internete, s čím zhotoviteľ bez výhrad súhlasí. Ak ku takej skutočnosti dôjde,
+zhotoviteľ uplatňovať žiadne nároky voči objednávateľovi a taktiež sa táto
+nepovažuje za porušenie žiadneho ustanovenia zmluvy.
+
+10
+
+DORUČOVANIE
+
+10.1
+
+Všetky listiny, dokumenty, požiadavky a oznámenia (ďalej len „oznámenia") budú medzi
+zmluvnými stranami zabezpečované listami doručenými poštou alebo osobne alebo e-mailom.
+Oznámenia vykonané e-mailom musia byť do48 hodín doručené druhej strane poštou alebo
+osobne. Ak bolo oznámenie zasielané poštou, považuje sa za doručené dňom, v ktorom ho
+adresát prevzal alebo odmietol prevziať, alebo na tretí deň odo dňa podania zásielky na pošte,
+ak sa uložená zásielka zaslaná na adresu podľa odseku 10.2 tohto článku vrátila späť
+odosielateľovi. Ak bolo oznámenie zasielané e-mailom alebo doručované osobne v pracovný
+deň v čase do 16.00 hod., považuje sa za doručené v momente prenosu, resp. oznámenia, inak
+v nasledujúci pracovný deň; ustanovenie druhej vety tohto odseku tým nie je dotknuté.
+
+10.2
+
+Pre objednávateľa budú všetky oznámenia doručované alebo oznamované na nižšie uvedené
+údaje:
+adresa:
+kontaktná osoba:
+
+so 100 %
+zmluvu na
+nebude si
+skutočnosť
+
+Tepláreň Košice, a. s. v skratke TEKO, a. s.
+Teplárenská 3, 042 92 Košice
+tel.
+e-mail:
+
+, fax:
+
+a pre zhotoviteľa budú všetky oznámenia doručované alebo oznamované na nižšie uvedené
+údaje:
+adresa:
+kontaktné osoby:
+
+CORA GEO, s. r. o.
+štefániková 15, 058 01 Poprad
+tel.
+e-mail
+
+, fax
+
+·lÍ
+
+,'v
+�'-'
+
+alebo na akúkoľvek inú adresu, faxové, telefónne alebo mobilné telefónne číslo a e'bo e-mai v
+1
+
+Číslo zmluvy objednávateľa: 46001748
+
+adresu, ktoré budú druhej zmluvnej strane vopred písomne oznámené.
+10.3
+
+Zmluvné strany sa zároveň zaväzujú oznamovať si navzájom akékoľvek zmeny údajov, ktoré sa
+ich týkajú a sú potrebné na prípadné uplatnenie oznámenia, najmä všetky zmeny týkajúce sa
+uzavretej tejto zmluvy, zmenu, či zánik ich právnej subjektivity, adresu ich sídla, bydliska alebo
+miesta podnikania, bankového spojenia, vstup do konkurzného konania, reštrukturalizácie alebo
+likvidácie ktorejkoľvek zmluvnej strany. Ak niektorá zmluvná strana nesplní túto povinnosť,
+nebude oprávnená namietať, že neobdržala akúkoľvek oznámenie, a zároveň zodpovedá za
+akúkoľvek takto spôsobenú škodu.
+
+10.4
+
+Každá zo zmluvných strán je oprávnená nahrávať všetky telefonické rozhovory realizované na
+telefónnom čísle objednávateľa
+alebo na telefónnom čísle zhotoviteľa
+pričom sa zmluvné strany dohodli a súhlasia s tým, že tieto nahrávky budú slúžiť
+ako zdroj informácií a budú spôsobilým dôkazným prostriedkom.
+
+11
+
+POISTENIE
+
+11.1
+
+Zhotoviteľ sa zaväzuje ku dňu začatia vykonávania diela uzatvoriť poistenie zodpovednosti za
+škody s poistným krytím minimálne 100.000,- €, ktoré by v súvislosti poskytovaním služieb
+a touto zmluvou mohol objednávateľovi spôsobiť sám zhotoviteľ, príp. tretie osoby.
+
+11.2
+
+Zhotoviteľ je povinný poistenie uvedené v odseku 11.1 tohto článku udržiavať po celý čas
+vykonávania diela, vinkulovať prípadné poistné plnenie v prospech objednávateľa, ako aj plniť
+všetky ďalšie podmienky zmluvne vyhradené poistiteľom, pre prípad neplnenia ktorých poistiteľ
+bude oprávnený znížiť alebo odmietnuť poistné plnenie v prípade vzniku poistnej udalosti v/na
+diele, lebo majetku objednávateľa, a riadne platiť poistné v zmysle uzatvorenej poistnej zmluvy.
+
+11.3
+
+Zhotoviteľ je povinný najneskôr do 3 dní odo dňa začatia zhotovenia diela odovzdať jedno
+vyhotovenie poistnej zmluvy objednávateľovi.
+
+11.4
+
+V prípade vzniku poistnej udalosti súvisiacej s poskytovaním služieb je zhotoviteľ povinný
+písomne alebo faxom informovať poistiteľa o poistnej udalosti a následne priamo alebo
+prostredníctvom poistiteľa aj objednávateľa a zabezpečiť všetky dôkazy a iné doklady
+nevyhnutné k zabezpečeniu poistného plnenia; ďalej je povinný poskytnúť objednávateľovi a
+poistiteľovi všetku súčinnosť. Zhotoviteľ je tiež povinný bez zbytočného odkladu zabezpečiť
+uvedenie diela, resp. majetku objednávateľa do stavu predchádzajúceho poistnej udalosti na
+svoje náklady, pokiaľ sa zmluvné strany nedohodnú inak. Táto povinnosť zhotoviteľa nie je
+dotknutá tým, že poistné plnenie nepokryje náklady na uvedenie diela, resp. majetku
+objednávateľa do pôvodného stavu pred poistnou udalosťou a dobou, kedy poistiteľ príslušné
+poistné plnenie vyplatí.
+
+11.5
+
+Ak zhotoviteľ nesplní povinnosti podľa odsekov 11.1 až 11.4 tohto článku a dôjde k poškodeniu
+alebo zničeniu diela alebo majetku objednávateľa, zhotoviteľ sa zaväzuje nahradiť
+objednávateľovi celú takto vzniknutú škodu bez ohľadu na prípadnú zodpovednosť tretích osôb.
+V prípade odmietnutia alebo čiastočného odmietnutia poistného plnenia zo strany poistiteľa, je
+zhotoviteľ povinný uhradiť objednávateľovi rozdiel, a to až do výšky, v ktorej škoda nebola
+pokrytá poistným plnením.
+
+Číslo zmluvy objednávateľa: 46001748
+
+12
+
+ZÁVEREČNÉ USTANOVENIA
+
+12.1
+
+Táto zmluva sa spravuje zákonmi Slovenskej republiky bez prihliadnutia ku kolíznym normám.
+Súdy Slovenskej republiky majú výlučnú právomoc na rozhodovanie akýchkoľvek sporov
+týkajúcich sa tejto zmluvy.
+
+12.2
+
+Právne vzťahy neupravené touto zmluvou sa riadia ustanoveniami Obchodného zákonníka č.
+513/1991 Zb. v znení neskorších predpisov a súvisiacimi predpismi.
+
+12.3
+
+Táto zmluva sa môže meniť alebo ukončiť iba dohodou zmluvných strán v písomnej forme.
+
+12.4
+
+Ak by sa dôvod neplatnosti vzťahoval len na časť tejto zmluvy, bude neplatnou len táto časť.
+
+12.5
+
+Táto zmluva tvorí úplnú dohodu medzi zmluvnými stranami týkajúcu sa prepmetnej záležitosti.
+Podpisom tejto zmluvy zanikajú všetky predchádzajúce písomné a ústne dohody súvisiace
+s predmetom tejto zmluvy a žiadna zo zmluvných strán sa nemôže dovolávať zvláštnych v tejto
+zmluve neuvedených ústnych dojednaní a dohôd.
+
+12.6
+
+Táto zmluva bola vyhotovená v štyroch rovnopisoch, po dvoch pre každú zmluvnú stranu.
+
+12.7
+
+Prílohy k tejto zmluve sú:
+a) príloha č. 1 - výpisy z registrov zmluvných strán
+
+12.8
+
+Táto zmluva nadobúda platnosť dňom podpisu oboma zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni zverejnenia v Centrálnom registri zmlúv.
+
+12.9
+
+Zmluvné strany vyhlasujú, že sú plne spôsobilé na právne úkony, že ich zmluvná voľnosť nie je
+ničím obmedzená, že zmluvu neuzavreli ani v tiesni, ani za nápadne nevýhodných podmienok, že
+si obsah zmluvy dôkladne prečítali a že tento im je jasný, zrozumiteľný a vyjadrujúci ich
+slobodnú, vážnu a spoločnú vôľu, a na znak súhlasu ju podpisujú.
+
+Za objednávateľa:
+
+Za zhotoviteľa:
+
+V K ši�iach dňa Z 4 APR. 2017
+
+V Martine dňa ____
+
+Ing. Ladislav Koch
+predseda predsta :enstva
+
+Ing. Jozef Habiňák
+konateľ
+
+Číslo zmluvy objednávateľa: 46001748
+
+Príloha č. 1
+Výpisy z registrov zmluvných strán
+
+16
+
+Číslo dožiadania: el-4282/2017/V
+VÝPIS Z OBCHODNÉHO REGISTRA
+Okresného súdu Košice 1
+k dátumu 21.02.2017
+Oddiel: Sa
+Vložka číslo: 1204/V
+1. Obchodné meno
+Tepláreň Košice, a. s. v skratke TEKO, a. s.
+II. Sídlo
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Teplárenská 3
+Názov obce: Košice
+PSČ: 042 92
+Štát: Slovenská republika
+III. IČO: 36 211 541
+IV. Deň zápisu: 21.01.2002
+V. Právna forma: Akciová spoločnosť
+Vl. Predmet podnikania (činnosti)
+1. výroba, výkup a odbyt elektrickej energie
+2. výroba, výkup, rozvod a odbyt tepelnej energie
+3. montáž a opravy meracej a regulačnej techniky
+4. vykonávanie skúšok a rozborov v chemickom laboratóriu
+5. kovoobrábanie
+6. zváracie práce
+7. prenájom náradia
+8. požičiavanie motorových vozidiel
+9. prevádzkovanie dráhy
+10. investičná výstavba energetických zariadení
+11. výroba a predaj demineralizovanej vody
+12. oprava, odborné prehliadky a odborné skúšky vyhradených technických zariadení
+elektrických v rozsahu:
+E1 .1 technické zariadenia elektrické s napätím do 123 kV vrátane bleskozvodov
+E2 technické zariadenia elektrické s napätím do 1OOO V vrátane bleskozvodov
+Strana 1
+
+Triedy objektov:
+A objekty bez nebezpečenstva výbuchu
+B objekty s nebezpečenstvom výbuchu
+13. oprava, odborné prehliadky a odborné skúšky vyhradených technických zariadení
+tlakových v rozsahu:
+- technické zariadenia tlakové skupina A
+- technické zariadenia tlakové skupina B
+14. oprava a montáž určených meradiel v rozsahu:
+- merače pretečeného množstva vody - na studenú vodu
+- merače pretečeného množstva vody - na teplú vodu
+- merače tepla a ich členy
+15. montáž, rekonštrukcie, údržba elektrických zariadení
+16. montáž, rekonštrukcie a údržba tlakových zariadení
+17. výkon činnosti stavbyvedúceho
+Inžinierske stavby
+- potrubné, energetické a iné líniové stavby
+18. faktoring a forfaiting
+19. montáž, rekonštrukcie, údržba plynových zariadení
+20. odborné prehliadky a odborné skúšky vyhradených technických plynových zariadení v
+rozsahu:
+technické zariadenia plynové skupina A na:
+f znižovanie tlaku plynu so vstupným pretlakom plynu nad 0,4 MPa
+h spotreba plynov spaľovaním s výkonom nad 0,5 MW vrátane zariadení na výrobu
+ochranných atmosfér pri tepelnom spracovaní
+technické zariadenia plynové skupina B na:
+f znižovanie tlaku plynu so vstupným pretlakom plynu do 0,4 MPa
+g1 rozvod plynov s pretlakom plynu do 0,4 MPa vrátane
+g3 rozvod plynov s pretlakom plynu do 0,005 MPa
+h1 spotrebu plynov spaľovaním s výkonom od 5 kW do 0,5 MW vrátane zariadení na
+výrobu ochranných atmosfér pri tepelnom spracúvaní a všetky spotrebiče, pri ktorých sa
+vyžaduje napojenie na odťah spalín
+h2 spotrebu plynov spaľovaním s výkonom od 5 kW do 50 kW vrátane zariadení na
+výrobu ochranných atmosfér pri tepelnom spracúvaní a všetky spotrebiče, pri ktorých sa
+vyžaduje napojenie na odťah spalín
+21. zámočníctvo
+22. vodoinštalatérstvo a kúrenárstvo
+23. podnikanie v oblasti nakladania s nebezpečným odpadom
+24. výroba, montáž, údržba a opravy zariadení pre dodávku tepla okrem vyhradených
+technických zariadení
+25. prenájom nebytových priestorov a poskytovanie iných než základných služieb
+spojených s prenájmom
+26. podnikanie v oblasti nakladania s odpadmi okrem nebezpečného odpadu
+27. vnútroštátna nákladná cestná doprava
+VII. Štatutárny orgán: predstavenstvo
+Funkcia: predseda
+
+Strana 2
+
+Meno a priezvisko: Ing. Ladislav Koch
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Tomašíkova 15
+Názov obce: Košice
+PSČ: 040 01
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 14.06.2012
+Funkcia: člen
+Meno a priezvisko: Ing. František Hazala
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Pri pošte 1257/25
+Názov obce: Košice
+PSČ: 040 17
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 15.05.2015
+Funkcia: člen
+Meno a priezvisko: Mgr. Vladimír Vágási
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Česká 1
+Názov obce: Košice - mestská časť Sever
+PSČ: 040 01
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 22.09.2016
+Spôsob konania štatutárneho orgánu v mene akciovej spoločnosti:
+Vo všetkých veciach zaväzujúcich spoločnosť sú oprávnení konať všetci členovia
+predstavenstva, pričom v mene spoločnosti podpisujú vždy dvaja členovia predstavenstva,
+a to predseda spolu s členom predstavenstva spoločnosti. Podpisovanie za spoločnosť sa
+vykoná tak, že k vytlačenému alebo napísanému názvu spoločnosti, menám a funkciám v
+predstavenstve podpisujúci pripoja svoj podpis.
+VIII. Dozorná rada
+Meno a priezvisko: Ing. Miroslav Prokopič
+
+Strana 3
+
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Karpatská 1
+Názov obce: Košice
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 25.09.2014
+Meno a priezvisko: Ing. Marek Mitterpák, PhD.
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+ldanská 4
+Názov obce: Košice - mestská časť Západ
+PSČ: 040 11
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 04.11.2016
+Meno a priezvisko: Mgr. Martin Pastirik
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Nižná Rybnica 27
+Názov obce: Sobrance
+PSČ: 073 01
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 04.11.2016
+IX. Akcionár
+Obchodné meno/názov:
+MH Manažment, a. s.
+Sídlo:
+Názov ulice {iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Trnavská cesta 100
+Názov obce: Bratislava - mestská časť Ružinov
+PSČ: 821 01
+Štát: Slovenská republika
+X. Výška základného imania
+38 21 O 898,000000 EUR
+
+Strana 4
+
+XI.Akcie
+Počet: 1111
+Forma: Akcia na doručiteľa
+Podoba: Zaknihované
+Menovitá hodnota: 33 194,000000 EUR
+Počet: 1585
+Forma: Akcia na doručiteľa
+Podoba: Zaknihované
+Menovitá hodnota: 34,000000 EUR
+Počet: 38
+Forma: Akcia na meno
+Podoba: Zaknihované
+Menovitá hodnota: 33 194,000000 EUR
+Počet: 503
+Forma: Akcia na meno
+Podoba: Zaknihované
+Menovitá hodnota: 34,000000 EUR
+Ďalšie právne skutočnosti
+XII. Predaj
+Predaj časti podniku
+Zmluva o predaji časti podniku uzatvorená medzi spoločnosťou Tepláreň Košice, a. s. so
+sídlom Teplárenská 3,042 92 Košice, IČO 36 211 541 ako predávajúcim a spoločnosťou
+SPRAVBYTKOMFORT, a. s. Prešov so sídlom Volgogradská 88, 080 01 Prešov, IČO 31
+718 523 ako kupujúcim zo dňa 21. decembra 2009.
+XIII. Iné ďalšie právne skutočnosti
+1. Akciová spoločnosť bola založená zakladateľskou zmluvou zo dňa 13.12.2001 v súlade
+so zák.č. 513/1991 Zb. Vznikla rozdelením akciovej spoločnosti Slovenské elektrárne,
+a.s., so sídlom Bratislava, Hraničná 12 v súlade s§ 69 ods. 4 zák.č. 513/1991 Zb. na
+akciové spoločnosti Slovenské elektrárne, a.s., so sídlom Bratislava, Hraničná 12,
+Slovenská elektrizačná prenosová sústava, a.s., so sídlom Bratislava, Miletičova 5 a
+Tepláreň Košice, a.s., so sídlom Košice, Teplárenská 3. Notárska zápisnica o založení
+akciovej spoločnosti Tepláreň Košice, a.s. zo dňa 13.12.2001.
+Stanovy akciovej spoločnosti podľa zák. 513/1991 Zb.
+Majetok, veci, práva, povinnosti a záväzky zrušenej akciovej spoločnosti v rozsahu podľa
+Zápisnice zo dňa 13.12.2001 prešli na Tepláreň Košice, a.s.
+2. Rozhodnutie predstavenstva zo dňa 28.2.2002.
+Deň vzniku funkcie prokuristu Ing. Petra Schwartza 28.2.2002.
+
+Strana 5
+
+3. Rozhodnutie valného zhromaždenia - not. záp. č. N 1804/02 Nz 1804/02 zo dňa
+16.12.2002. Rozhodnutie predstavenstva zo dňa 7.1.2003.
+Zánik funkcie prukuristu: Ing. Peter Schwartz, r.č. 510923/1780, Slovenskej jednoty 46,
+Košice: 7.1.2003.
+
+Výpis zo dňa 21.02.2017
+
+Strana 6
+
+]l
+
+ig �
+g!
+
+o
+<ii
+
+POŠTA
+
+Slovenská pošta, a.s
+Partizánska cesta 9
+97599 Banská Bystrica
+IČO 36631124,OR OS 88,
+oddiel Sa, vložka é.8031S
+
+Osvedčovacia doložka k žiadosti č.: 9803-20170221-001584-805-1-1
+Osvedčovacia doložka údaje
+Počet listov/strán výstupu:
+
+6/6
+
+Doložka osvedčuje:
+
+Výpis z Obchodného registra
+36211541
+Sa/1204/Košice l (oddiel/ vložka/ súd)
+
+IČO
+
+Spisová značka:
+
+Na základe žiadosti bol vydaný elektronický odpis povinnej osoby podpísaný jej zaručeným elektronickým podpisom
+podľa zákona 275/2006 Z.z., ktorý bol prevedený do listinnej podoby a opatrený touto osvedčovacou doložkou
+pracoviskom IOM Slovenskej pošty. Listinná podoba výstupu sa doslovne zhoduje s údajmi uvedenými v
+elektronickom odpise. Osvedčený výstup je zapísaný v evidencii osvedčujúcej osoby pod poradovým číslom: 980320170221-001584-805-1-1-1.
+
+Dátum vyhotovenia: 21.02.2017
+
+Miesto vyhotovenia: Košice 12
+
+Čas vyhotovenia el. odpisu: 08:27:02
+
+Meno zamestnanca Slovenskej pošty, a.s.:
+
+Číslo dožiadania : el-1220/2017/L
+VÝPiS Z OBCHC;Db!i�HO REC�ISTH,\
+Okresného sl'.1du Žilina
+k dátumu ·17 01 .2017
+Oddiel· -:;;·:i
+Vložka číslo: 213.c�/L
+
+1. Ubchc.dné iTieno
+CORA GEO, s. 1·. o.
+
+:Hiz ·.· �::;-:::2 (:néhc .reľe; éh,:. p:·icstr-a,;s'.'. a) a orientačné číslo (príp. súpisné číslo):
+f-U<:rneta 5397/23
+Názov s ::::-2: �;raľtin
+PSČ: 036 0·1
+Štát: Slovenská republika
+!Ii. iČO: 3·1 5·12 989
+IV. Dei'i �á;:>ísu: 22.08.1994
+. ;::-;·2·"' ,::. forrna: Spoločnosť s ručením obmedzeným
+\/;. ri"e,·:r;�et !JOd,1i;,;ania (čin;1ostl)
+1. - nákup a predaJ rozličnél10 tovaru v rozsahu voľnej živnosti
+2. - sproslrecikovanie obchodu, výkonu služier) a poskytovanie leasingu
+3 - poskytovanie software - predaj hotových programov na základe zmluvy s autorom
+4. - poradenská činnosť v oblasti výpočtovej iechniky
+5. - technicko-organizačné zabezpečenie školení a seminárov
+6. - nákup a predaj nehnuteľností
+7. - vedenie (1čtovníctva
+8. - L1držba a oprava kancelárskych a počítacích strojov a zariadení a reprodukčnej
+techniky
+9. - geodetické a kartografické práce.
+1 O. - poradenská služba k technickému vybaveniu počítača (hardware), technické
+poradenstvo pre nevýrobnú sféru v oblasti hardware
+11. - spracovanie (1dajov a služby s tým spojené, riadenie a vedenie činnosti zariadení na
+spracov;:.nie (;daJov, počítačové spracovanie (rdajov a služby s tým spojené, poskytovanie
+
+Strana 1
+
+služieb súvisiacich so spracovaním údajov a ich tabeláciou, pre11osy údajov, prípravné
+práce nc:1 spracovanie (1dajov 2 spľacovanIe údaJov n2 strojoch
+12. - služby súvisi2ce s činnosi'ou databánk v rozsahu voľných živností
+·13. - služby súvisiace s čini1osťou počitačov
+14. pren2101ľ1 1ľ,otorov;1 cl1 vozidiel
+
+č;/d �s:�·:.i:
+::�1zc,.· .:.:::e ;:.:&:-.::: ·-:2ťej,:é-h,:, ,:;;·\03tré!r,st;:,; ?t orientačné Či:31::i (prip. súpisné číslo):
+iVleciza 3�;�:4(1 O
+: :b:i:.O'. ..:, .J :: 2: Spišská Nová Ves
+Štá(: Slovenské republika
+Gátum . ,;:.:-.:..-:'2nié.,:
+r{·')c/:· ľ=: š::;:ei:
+
+:n2no; >rie�:vis�:u: Ing. Tomáš Habi11ák
+By�;is��J:
+: tz,:,' ,::í-:'e (icé:·:o \ere;néilc p iestranst':é-) H orientačné číslo (príp. súpisné číslo):
+1=> od z21w:·d2mi 320'í /6<'.I
+,·:i::..ov ·:;;J·:.:e: Bťatislavc:
+É;t}i:: Slo 11enské ľepubiika
+Gát1_..... :-. :.:·cd2:1;,::
+.--:.::ciné �; �.:::::
+1
+
+./:..nik . � ... >.:::l&: 'iO 02.2005
+-�!=·Jso:: ,.._c.,n::.niz. šta�utá:- .e:,c ,:,rgánJ \ rr:2: ,e spoločnosti s ručením obmedzeným:
+Spolobosť zastupuJ(i a za 11u podpisuj(1 �onatelia, každý samostatne.
+
+r-:12no 2 ,,riezvis>,o: Ing. Jozef Habiňák
+3yd:is:·-.::
+1':áz0v t:;1:2 (ir,ého verejného p!·lestranstlf::,; & odentač:né č:slo (príp. súpisné číslo):
+Medza 3LAL:-/'I O
+'.''.ázc,,,: obc::.i: Spišsf<á I\Jová Ves
+PSČ: 0:52 0·1
+��2t: Siovenská repul)lika
+Výš'.�a .::::?ciL'.: 3 320,000000 EUR
+Rozs2r1 ;;:iia22n;3: 3 320,000000 EUR
+N1e,10 2 yi0zv:s>:o: l119. Tomáš Habiňák
+
+Strana 2
+
+Nbzov :..Ii,::-: (ir;éh::;, v&rejnéľlc príestrsnst··.'éi)
+Pod zál1íacJ2mi 3201/64
+Názov c..::;s::e: Bratisl2va-DC1b1avl,2
+ps(: 8L: 'i 02
+t: Slovenská republika
+
+::=:
+
+orier.tačr.é číslo (príp. súpisné číslo):
+
+V):fra ·:>:::id�i: 3 320.000000 EUR
+,'-e,zs::.c". s;:Jls�eni21: 3 320,000000 EUR
+
+6 640.000000 EUR
+
+·1. Spolo1=:nost s ručením obmedzeným boia :,:alužená spoločenskou zmluvou zo dňa
+27.6ťl
+podľa§ 'I 05 a nasl. zák. č. 5'13/9'1 Zb. Stary spis S r o. 5915
+2. f\Ja Vcjnorn zhrom2Žcle11í lwnanom dr�a 12.81996 bol schválený Dodatok č. í k
+zrnluve.
+spoloče
+3. Na Valnom zhromaždení konanom d11a 7 i 0.1998 bol schválený dodatok č. 2 k
+Spoloče11skej zmluve.
+4. f\la vai11om zhromaždení dľ1a ·19.3.2002 bol schválený dodatok č. 3 k spoločenskej
+zmluve.
+
+Výpis zo dha 17 0'1 .2017
+
+Strana 3
+
+i,<: ti1l,• li,lin,1- kturľ1 _ie lisl111nuu pud,;b,\11
+
+c,dpisu ľ1 daw1 / info rrnaéného sv stému
+sprd11. p,,1u,i:"11 ;qľtľd / 2 l1,111(,,, / :1
+verejnej
+.3 str:111(_1) sa du,101 ilľ ,,:lwdui,. s
+ľ1d :i_jrni I i 1 tlt i r111:1C·nu111 si sté111e Vťťc1111 1:1r11(\:ll) m ckktro 1 1iľk 1111
+j11c:j spriivy
+vc·1i,knľ11
+
+.:islurn '\oľ 5, 2017
+
+-
+
+

@@ -1,0 +1,331 @@
+'¿ oáP
+
+ZMLUVA O POSKYTNUTÍ SLUŽIEB
+uzatvorená v zmysle § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov
+Zmluvné strany
+OBJEDNÁVATEĽ:
+Názov:
+Sídlo:
+Štatutárny orgán:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu:
+Právna forma:
+
+Národné osvetové centrum
+Námestie SNP č. 12, 812 34 Bratislava
+JUDr. Ing. Michal Bartók, generálny riaditeľ
+00164615
+2020829888
+SK 2020829888
+
+štátna príspevková organizácia Ministerstva kultúry Slovenskej
+republiky, pôsobiaca na základe nového znenia Zriaďovacej listiny,
+vydaného Ministerstvom kultúry SR MK-2472/2016-110/8080
+
+(ďalej len „objednávateľ")
+a
+POSKYTOVATEĽ:
+Názov:
+Sídlo:
+Štatutárny orgán:
+Prokúra:
+IČO:
+DIČ:
+IČ DPH:
+Zapísaný v:
+Bankové spojenie:
+Číslo účtu:
+(ďalej len „poskytovateľ")
+
+RAINSIDE s.r.o.
+Teslova 43, 821 02 Bratislava
+Mgr. Roman Polakovič, konateľ
+Richard Polakovič
+31386946
+2020309247
+SK2020309247
+OR SR Okr. súd BA I. vl.č.8201/B, oddiel: Sro
+
+(spoločne ďalej len „zmluvné strany")
+uzatvárajú Zmluvu o poskytnutí služieb (ďalej len „zmluva") s nasledovným obsahom:
+Preambula
+Na základe zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých
+zákonov, účinného od 1. 4. 2018 bol pre sektor Informačného systému verejnej správy stanovený
+ústredný orgán Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu, ktorý
+má za úlohu identifikovať základnú službu a prevádzkovateľa základnej služby.
+Vzhľadom na túto úlohu je nevyhnutné poskytnúť Úradu podpredsedu vlády Slovenskej republiky pre
+investície a informatizáciu kompletný zoznam techniky, procesov a služieb v prostredí informačnokomunikačných technológií v inštitúcii.
+Keďže Národné osvetové centrum nedisponuje udržiavaným zoznamom WAN, LAN, zoznamom
+počítačov a softvérového vybavenia, ISVS systémov, webových služieb, domén a podobne, je
+
+nevyhnutné v prvom kroku kompletný zoznam vypracovať a následne zaviesť procesy na jeho
+udržiavanie.
+Táto zmluva sa uzatvára ako výsledok verejného obstarávania v zmysle zákona č. 343/2015 Z. z. o
+verejnom obstarávaní a o zmene a doplnení niektorých zákonov (ďalej len „zákon o verejnom
+obstarávaní") na predmet zákazky „Analýza stavu IKT v inštitúcii" realizovanej objednávateľom.
+Objednávateľ na obstaranie predmetu tejto zmluvy použil postup verejného obstarávania podľa §
+117 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov. Objednávateľ uzatvára zmluvu s poskytovateľom ako s úspešným
+uchádzačom vo verejnom obstarávaní.
+Článok 1
+Predmet zmluvy
+1.1
+
+Predmetom tejto zmluvy je nasledovné plnenie poskytovateľa:
+1.1.1 Analýza technického vybavenia:
+1.1.1.1 analýza serverovne/serverovní,
+1.1.1.2 technika v serverovniach,
+1.1.1.3 analýza prístupov do priestorov a technického vybavenia.
+1.1.2
+
+Analýza WAN:
+1.1.2.1 pripojenie do VPN siete Ministerstva kultúry Slovenskej republiky,
+1.1.2.2 pripojenie na internet,
+1.1.2.3 prístupy z internetu,
+1.1.2.4 VPN prístupy do siete, externé prístupy do siete,
+1.1.2.5 prepojenia s inými sieťami,
+1.1.2.6 firewall resp. ochrana lokálnej siete,
+1.1.2.7 bezpečnostný test z internetu.
+
+1.1.3
+
+Analýza LAN a lokálneho IKT:
+1.1.3.1 topológia siete,
+1.1.3.2 typ a rýchlosť lokálnej siete,
+1.1.3.3 lokálne sieťové prvky,
+1.1.3.4 prepojenia kancelárií,
+1.1.3.5 zmapovanie stavu označenia koncových bodov, patch panelov,
+1.1.3.6 audit serverového vybavenia, rolí serverov, stavu serverov,
+1.1.3.7 kontrola bezpečnostného nastavenia serverov,
+1.1.3.8 Wifi zariadenia, Wifi siete,
+1.1.3.9 počet a umiestnenie osobných staníc,
+1.1.3.10 audit vybraných počítačov za účelom kontroly nastavení, licencií,
+1.1.3.11 zoznam SW vybavenia PC.
+
+1.1.4
+
+Analýza
+1.1.4.1
+1.1.4.2
+1.1.4.3
+1.1.4.4
+1.1.4.5
+1.1.4.6
+1.1.4.7
+
+používaných služieb:
+registrované domény,
+webové stránky,
+informačné systémy,
+hostingy,
+emailové služby,
+DNS služby,
+ďalšie služby - FTP, SFTP, SSH, vzdialený prístup, cloudové služby.
+
+1.1.5
+
+Analýza
+1.1.5.1
+1.1.5.2
+1.1.5.3
+
+procesov:
+zmapovanie procesov správy počítačovej siete,
+životný cyklus prístupov v sieti,
+životný cyklus externých prístupov,
+
+2/5
+
+1.1.5.4
+1.1.5.5
+1.2
+
+pridanie, odobratie PC zo siete,
+analýza dokumentácie, konfiguračnej databázy.
+
+Výsledkom analýzy bude zdokumentovanie aktuálneho stavu podľa okruhov špecifikovaných
+vyššie ako aj návrh na kontinuálne udržiavanie dokumentácie resp. stavu. Obstarávate!'
+očakáva aj návrhy na bezpečnostné riešenia v prípade, že pri analýze budú identifikované
+bezpečnostné hrozby ako aj návrhy na zefektívnenie prevádzky.
+Článok 2
+Práva a povinnosti zmluvných strán
+
+2.1
+
+Poskytovateľ sa zaväzuje poskytovať plnenie podľa čl. 1 ods. 1.1 zmluvy riadne a včas
+s odbornou starostlivosťou v zmysle podmienok dohodnutých v zmluve.
+
+2.2
+
+Objednávateľ sa zaväzuje poskytnúť poskytovateľovi všetku súčinnosť potrebnú pre riadne
+plnenie zmluvy poskytovateľom.
+
+2.3
+
+V prípade, že niektorá zmluvná strana poruší svoje povinnosti podľa tejto zmluvy, je povinná
+nahradiť druhej zmluvnej strane preukázanú škodu, ktorá jej porušením povinnosti vznikla.
+Oprávnená zmluvná strana si náhradu škody uplatní písomnou výzvou.
+Článok 3
+Termín a miesto plnenia
+
+3.1
+
+Poskytovateľ je povinný dodať predmet zmluvy do 30 dní odo dňa účinnosti zmluvy.
+
+3.2
+
+Poskytovateľ začne s poskytovaním služieb odo dňa účinnosti zmluvy.
+
+3.3
+
+Miesto plnenia predmetu zmluvy je v závislosti od potrieb objednávateľa sídlo objednávateľa
+alebo sídlo poskytovateľa.
+
+3.4
+
+Odovzdanie a prevzatie predmetu plnenia zmluvy sa uskutoční na základe Protokolu
+o poskytnutí a prevzatí služby podpísaného obidvoma zmluvnými stranami.
+Článok 4
+Finančné a platobné podmienky
+
+4.1
+
+Odmena za plnenie predmetu zmluvy je stanovená na základe výsledku verejného
+obstarávania, v súlade s predloženou cenovou ponukou zo dňa 19. 10. 2018 vo výške: 4
+300,00€ bez DPH, slovom: štyritisíctristo eur bez DPH, výška DPH 860,00€, celková cena
+5 160,00.€s DPH.
+
+4.2
+
+Poskytovateľ zašle objednávateľovi faktúru v dvoch vyhotoveniach najneskôr do 14 dní odo
+dňa podpisu protokolu o prevzatí služby obidvoma zmluvnými stranami.
+
+4.3
+
+Objednávateľ uhradí odmenu podľa článku 4 ods. 4.1 zmluvy bankovým prevodom na účet
+poskytovateľa uvedený v záhlaví zmluvy a to na základe faktúry vystavenej poskytovateľom
+v lehote do 30 dní od jej doručenia objednávateľovi.
+
+4.4
+
+V prípade omeškania objednávateľa s úhradou faktúry podľa čl. 3 ods. 3.1 zmluvy je
+poskytovateľ oprávnený požadovať úrok z omeškania v zákonnej výške.
+Článok 5
+Sankcie, náhrada škody
+
+5.1
+
+V prípade omeškania poskytovateľa s plnením predmetu zmluvy má objednávateľ nárok na
+zmluvnú pokutu od poskytovateľa vo výške 0,05 % zo zmluvnej ceny za každý, aj začatý, deň
+
+3/5
+
+omeškania. Tým nie je dotknuté právo objednávateľa na náhradu vzniknutej škody. Zaplatením
+zmluvnej pokuty sa poskytovateľ nezbavuje povinnosti vykonať predmet zmluvy.
+Článok 6
+Platnosť a účinnosť zmluvy
+6.1
+
+Táto zmluva sa uzatvára na dobu určitú, do 31. 12. 2018. Poskytovateľ je povinný splniť
+predmet zmluvy podľa čl. 1 zmluvy do 30 dní odo dňa účinnosti zmluvy.
+
+6.2
+
+Platnosť zmluvy skončí:
+6.2.1 uplynutím doby podľa čl. 6 ods. 6.1 zmluvy,
+6.2.2 písomnou dohodou zmluvných strán,
+6.2.3 písomným odstúpením od zmluvy podľa čl. 6 ods. 6.3 zmluvy.
+
+6.3
+
+Objednávateľje oprávnený odstúpiť od tejto zmluvy v prípade porušenia zmluvných povinností
+poskytovateľom, na ktoré bol poskytovateľ objednávateľom písomne upozornený, pričom
+nedostatky neodstránil ani v primeranej náhradnej lehote poskytnutej mu objednávateľom.
+Opakované porušenie povinností poskytovateľom sa považuje za podstatné porušenie zmluvy.
+
+6.4
+
+Účinky odstúpenia od zmluvy nastávajú dňom nasledujúcim po dni jeho doručenia druhej
+zmluvnej strane.
+
+6.5
+
+Odstúpením od zmluvy nie je dotknuté právo odstupujúcej strany na náhradu škody, ktorá jej
+vznikla dôvodom odstúpenia od zmluvy.
+
+6.6
+
+Zmluva nadobúda platnosť dňom jej podpísania zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády
+Slovenskej republiky.
+Článok 7
+Záverečné ustanovenia
+
+7.1
+
+Zmluvné strany sa dohodli, že písomné zásielky si budú doručovať do miesta sídla zmluvnej
+strany uvedeného v záhlaví zmluvy. V prípade, že sa písomná zásielka vráti ako nedoručená na
+adresu uvedenú zmluvnou stranou, bude sa táto považovať za doručenú, a to v deň vrátenia
+nedoručenej zásielky, aj keď sa o tom adresát zásielky nedozvedel.
+
+7.2
+
+Právne vzťahy neupravené touto zmluvou sa spravujú príslušnými ustanoveniami zákona č.
+513/1991 Zb. Obchodný zákonník v znení neskorších predpisov a subsidiárne ďalšími právnymi
+predpismi Slovenskej republiky.
+
+7.3
+
+Ak sa akékoľvek ustanovenie zmluvy stane neplatným v dôsledku jeho rozporu so všeobecne
+záväznými právnymi predpismi Slovenskej republiky a/alebo právnymi aktmi Európskej únie,
+nespôsobí to neplatnosť celej zmluvy. Zmluvné strany sa v takomto prípade zaväzujú
+bezodkladne vzájomným rokovaním nahradiť neplatné zmluvné ustanovenie novým platným
+ustanovením tak, aby zostal zachovaný účel zmluvy a obsah jednotlivých ustanovení.
+
+7.4
+
+Zmluvu je možné meniť alebo dopĺňať len na základe vzájomnej dohody zmluvných strán,
+pričom akékoľvek zmeny a doplnky musia byť vo forme písomného a očíslovaného dodatku k
+zmluve, pokiaľ v zmluve nie je uvedené inak.
+
+7.5
+
+Zmluvné strany sa dohodli, že všetky spory, ktoré vzniknú v súvislosti so zmluvou, vrátane
+sporov o jej platnosť, výklad alebo ukončenie budú prednostne riešiť vzájomnými zmierovacími
+rokovaniami a dohodami.
+
+7.6
+
+Zmluva je vyhotovená v troch (3) rovnopisoch, z ktorých poskytovateľ dostane jedno (1)
+vyhotovenie a objednávateľ dve (2) vyhotovenia.
+
+4/5
+
+7.7
+
+Zmluvné strany vyhlasujú, že si text zmluvy riadne a dôsledne prečítali, jej obsahu a právnym
+účinkom z nej vyplývajúcim porozumeli, zmluva nebola uzatvorená v tiesni za nápadne
+nevýhodných podmienok, ich zmluvné prejavy sú dostatočne jasné, určité a zrozumiteľné,
+podpisujúce osoby sú oprávnené na podpis zmluvy a na znak súhlasu zmluvu podpisujú.
+
+Za objednávateľa:
+V Bratislave dňa
+
+Za poskytovateľa:
+V Bratislave dňa
+
+JUDr. Ing. Michal Bartók
+generálny riaditeľ
+Národné osvetové centrum
+
+Richard Polakovič
+prokurista
+RAINSIDE s.r.o.
+
+5/5
+
+

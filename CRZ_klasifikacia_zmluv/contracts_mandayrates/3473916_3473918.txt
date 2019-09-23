@@ -1,0 +1,812 @@
+Ev. č. 126/18/Mi
+
+Rámcová zmluva na poskytovanie služieb
+pre IBM servery pSeries770
+uzatvorená podľa § 269 ods.2 a § 536 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení
+neskorších právnych predpisov medzi zmluvnými stranami:
+1. Objednávateľ
+
+Slovenský plynárenský priemysel, a.s.
+
+Sídlo:
+
+Mlynské nivy 44/a
+
+825 11 Bratislava 26
+Akciová spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I., Oddiel: Sa,
+Vložka č.: 2749/B
+Splnomocnený zástupca:
+Mgr. Zuzana Lomnická, strategický nákupca - senior
+IČO:
+
+35 815 256
+
+IČ DPH:
+
+SK2020259802
+
+DIČ:
+
+2020259802
+
+Bankové spojenie I.:
+
+VÚB, a.s.
+
+SWIFT (BIC):
+
+SUBASKBX
+
+IBAN:
+
+SK85 0200 0000 0000 3110 0012
+
+Bankové spojenie II.:
+
+Tatra banka, a.s.
+
+SWIFT (BIC):
+
+TATRSKBX
+
+IBAN:
+
+SK55 1100 0000 0026 4700 0019
+
+Kontaktná osoba vo veciach zmluvných:
+
+Ing. Renáta Črepovská, strategický nákupca
+
+Kontaktná osoba vo veciach technických:
+
+vedúci oddelenia prevádzky ICT
+
+ďalej len „Objednávateľ“
+a
+2. Dodávateľ
+
+Atos IT Solutions and Services s.r.o.
+
+Sídlo:
+
+Pribinova 19/7828, 811 09 Bratislava
+
+Spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I, Oddiel: Sro, Vložka č.:
+66638/B
+Zastúpená:
+Martin Sůra, konateľ
+IČO:
+
+45 650 276
+
+IČ DPH:
+
+SK 2023110661
+
+DIČ:
+
+2023110661
+
+Bankové spojenie:
+
+UniCredit Bank Slovakia a.s.
+
+SWIFT (BIC):
+
+UNCRSKBX
+
+IBAN:
+SK27 1111 0000 0010 9789 5000
+Osoba oprávnená zastupovať dodávateľa vo
+veciach zmluvných:
+Osoba oprávnená zastupovať dodávateľa vo
+veciach technických:
+(ďalej len „Dodávateľ“)
+
+1/11
+
+Ev. č. 126/18/Mi
+
+1.
+
+DEFINÍCIE
+Hardvér (HW) - (ďalej len „HW“ alebo „pSeries alebo „riešenie pSeries“) sa pre účely tejto
+zmluvy rozumie súbor technických prostriedkov – zariadení IBM P770, ktoré boli dodané na
+základe „Rámcovej zmluvy na dodanie a implementáciu Obnovy UNIX serverov“ ev. číslo
+239/12/Mi, serverov v rozsahu:
+
+Položka
+HWMA: 24x7 Fix24 pre Server 1 BA (POWER 770) S/N 062C567
+HWMA: 24x7 Fix24 pre Server 2 BA (POWER 770) S/N 062C557
+2.
+3.
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+Počet
+kusov
+1
+1
+
+Mikrokódy pre HW – sú sada strojových inštrukcií viazaných na konkrétne typy procesorov,
+ktoré umožňujú efektívne fungovanie základných častí počítačov/serverov.
+Update, patch - sa pre účely tejto zmluvy rozumie aplikácia všeobecne dostupnej aktualizácie
+mikrokódu a/alebo súhrnnej opravy mikrokódu a údajov.
+Vadou - sa pre účely tejto zmluvy rozumie akákoľvek vada, chyba, nedostatok, porucha alebo
+akýkoľvek iný problém pSeries, brániaci jeho riadnemu a/alebo bezchybnému užívaniu (vrátane
+právnych vád riešenia pSeries, resp. ich častí), a/alebo spôsobujúci ich čiastočnú alebo úplnú
+nefunkčnosť, a/alebo spôsobujúci čiastočné a/alebo úplné obmedzenie ich používania/
+prevádzky.
+Na účely plnenia predmetu tejto zmluvy vady rozdeľujeme do troch kategórií:
+a. Vada kategórie A – dodaný HW nie je použiteľný vo svojich základných funkciách, alebo
+sa vyskytuje kritická funkčná vada znemožňujúca jej činnosť a zakladajúca možnosť
+vzniku škody.
+b. Vada kategórie B – funkčnosť dodaného HW je vo svojich funkciách znížená tak, že tento
+stav obmedzuje alebo ohrozuje bežnú prevádzku Objednávateľa.
+c. Vady kategórie C – ostatné drobné vady dodaného HW, ktoré nespadajú do vád kategórie
+A a B.
+Človekohodina sa pre účely tejto zmluvy rozumie 1 (jedna) hodina strávená 1 (jedným)
+pracovníkom Dodávateľa poskytovaním príslušného plnenia predmetu tejto zmluvy v pracovnej
+dobe objednávateľa (pracovné dni 8.00 - 16.00 hod.).
+Človekodeň (MD) - sa pre účely tejto zmluvy rozumie 8 (osem) človekohodín, strávených 1
+(jedným) pracovníkom Dodávateľa poskytovaním príslušného plnenia predmetu tejto zmluvy.
+Fix time (FT) – sa pre účely tejto zmluvy rozumie čas od doby nahlásenia vady Objednávateľom
+do doby jej odstránenia Dodávateľom.
+I.
+PREDMET ZMLUVY
+
+1.
+1.1.
+1.2.
+2.
+
+3.
+
+4.
+
+Predmetom tejto zmluvy je:
+záväzok Dodávateľa poskytovať v prospech Objednávateľa za podmienok tejto zmluvy služby
+HW údržby serverov pSeries za účelom udržania ich funkčnosti - tzv. HW maintenance,
+záväzok Objednávateľa prevziať výsledky týchto služieb a zaplatiť za ne Dodávateľovi cenu
+v zmysle čl. IV. tejto zmluvy.
+Plnenie tejto zmluvy je možné len na základe čiastkových zmlúv, ktoré Objednávateľ uzatvorí
+s Dodávateľom v prípade potreby poskytnutia služieb, tvoriacich predmet tejto zmluvy (resp. ak
+sa rozhodne požiadať Dodávateľa o poskytnutie služieb). Čiastkové zmluvy môžu mať aj formu
+objednávky.
+Objednávateľ je oprávnený požadovať plnenie v rozsahu podľa svojich potrieb, teda aj
+v menšom rozsahu ako je uvedený v bode 1.1 tohto článku. Čiastková zmluva, resp.
+objednávka musí obsahovať minimálne tieto náležitosti: označenie zmluvných strán, rozsah
+a presnú špecifikáciu požadovaného plnenia, termín plnenia a cenu určenú spôsobom
+dohodnutým v tejto zmluve.
+Objednávateľ zašle návrh čiastkovej zmluvy, resp. objednávku na adresu sídla Dodávateľa
+poštou alebo e-mailom na mailovú adresu andrej.hrazdil@atos.net. Dodávateľ je povinný návrh
+
+2/11
+
+Ev. č. 126/18/Mi
+
+čiastkovej zmluvy, resp. objednávku potvrdiť do dvoch (2) pracovných dní od doručenia a takto
+potvrdený návrh čiastkovej zmluvy, resp. objednávku zaslať Objednávateľovi e-mailom na emailovú adresu uvedenú v objednávke, a následne poštou na adresu sídla Objednávateľa.
+Dodávateľ potvrdí návrh čiastkovej zmluvy, resp. objednávku tým spôsobom, že k svojmu
+obchodnému menu pripojí dátum, slovo „akceptujem“, prípadne iné slovo vyjadrujúce súhlas
+s návrhom čiastkovej zmluvy, resp. objednávky, vrátane podpisu oprávnenej osoby a pripojí
+odtlačok svojej pečiatky. Neakceptovanie návrhu čiastkovej zmluvy, resp. objednávky
+vystavenej Objednávateľom v súlade s touto Zmluvou do určeného termínu zo strany
+Dodávateľa sa považuje za podstatné porušenie zmluvných povinností.
+Čiastková zmluva, resp. objednávka sa považuje za uzavretú okamihom doručenia potvrdeného
+návrhu čiastkovej zmluvy, resp. objednávky Objednávateľovi. Pre účely uzavretia čiastkovej
+zmluvy, resp. objednávky je rozhodujúci deň doručenia potvrdeného návrhu čiastkovej zmluvy,
+resp. objednávky e-mailom a/lebo poštou.
+
+1.
+
+II.
+MIESTO PLNENIA ZMLUVY
+Miestom plnenia tejto zmluvy sú prevádzkové priestory na adrese sídla Objednávateľa.
+III.
+SPÔSOB POSKYTOVANIA SLUŽIEB
+
+HW maintenance pSeries
+Počas trvania platnosti tejto zmluvy je Dodávateľ povinný poskytovať Objednávateľovi:
+1.
+Služby údržby HW pSeries nasledovne:
+a. v prípade vzniku vád serverov pSeries, ktoré zabraňujú jeho normálnej funkčnej prevádzke,
+sa Dodávateľ zaväzuje poskytovať Objednávateľovi údržbu 7 dní v týždni 24 hodín denne,
+s Fix Time najneskôr 24 hodín t.j. vada servera pSeries musí byť odstránená najneskôr 24
+hodín od jej nahlásenia Objednávateľom alebo poskytnuté náhradné riešenie.
+b. Pomoc pri riešení vzniknutých vád buď vo forme zodpovedania otázok Objednávateľa
+(telefonické poradenstvo – hotline) alebo vo forme servisného zásahu diaľkovo a/alebo
+v mieste plnenia (servisný zásah údržby). Predpokladom poskytovania služieb údržby je
+oznámenie vzniku vady z e-mailovej adresy Service Desku Objednávateľa
+ServiceDesk@spp.sk
+formou
+notifikácie
+na
+e-mailovú
+adresu
+Dodávateľa:
+servicedesk.sk@atos.net . Dodávateľ je povinný na základe tejto notifikácie prevziať
+riešenie vady v dohodnutom čase formou potvrdenia prevzatia v Service Desku
+Objednávateľa a po vyriešení vady oznámiť vyriešenie na Service Desk Objednávateľa
+(ServiceDesk@spp.sk, tel. 02 62622222). Oznámenie vady musí obsahovať popis vady,
+miesto výskytu vady, meno a priezvisko, emailovú adresu a telefónne číslo osoby, ktorá
+vadu oznamuje, dátum a čas nahlásenia vady. Všeobecné otázky ohľadne údržby je
+potrebné posielať Dodávateľovi na e-mailovú adresu: servicedesk.sk@atos.net
+V prípade dočasnej nefunkčnosti tejto e-mailovej adresy môže Objednávateľ oznámiť vznik
+problému a potrebu údržby operatívne aj telefonicky na telefónne číslo +421 0850 311323.
+a zároveň je nevyhnutné zadať požiadavku aj vyplnením notifikácie. Dodávateľ je povinný
+obratom elektronicky potvrdiť Objednávateľovi na e-mailovej adrese servicedesk@spp.sk,
+prijatie notifikácie. V prípade, že nie je možné prijatie potvrdiť elektronicky, Dodávateľ
+telefonicky potvrdí Objednávateľovi prijatie notifikácie na telefónnom čísle +421 6262 2222.
+Následne po sfunkčnení e-mailovej adresy potvrdenie pošle aj elektronickou cestou.
+c. Servisný zásah údržby je odstraňovanie vád HW (najmä: identifikácia vady, demontáž
+vadného HW, inštalácia nového HW, nastavenie, odskúšanie), vrátane dodania potrebných
+náhradných dielov.
+2.
+Ak je na základe definovania vady nevyhnutný zásah kvalifikovaného personálu, je Dodávateľ
+povinný zabezpečiť jeho vyslanie do miesta plnenia, pokiaľ sa nedá definovaná vada odstrániť
+vzdialeným prístupom.
+3.
+Dodávateľ je povinný Objednávateľovi zabezpečiť:
+a. prístup k databáze služieb zo strany výrobcu/vlastníka SW (IBM) na adrese www.ibm.com a
+k databáze technických problémov IBM,
+b. prehľad diagnostických informácií, ktoré môžu zistiť príčinu vzniknutého problému,
+c. informácie o aktuálnom stave podporovaných produktov,
+
+3/11
+
+Ev. č. 126/18/Mi
+
+d. prístup k mikrokódom pre HW (bez podpory OS – AIX, GPFS, PowerHA atď.),
+e. update mikrokódu, ak to vyžaduje odstránenie vady / problému,
+f. výmenu náhradného dielu, ak to vyžaduje odstránenie vady / problému.
+IV.
+CENA
+1. Zmluvné strany sa dohodli na cene za poskytované plnenie predmetu zmluvy v súlade so
+zákonom č. 18/1996 Z. z. o cenách v platnom znení. Ceny sú uvedené bez dane z pridanej
+hodnoty. K fakturovaným cenám bude uplatnená DPH v zmysle platných právnych predpisov.
+2. Cena za plnenie podľa čl. I. bod 1.1. tejto zmluvy bude fakturovaná raz za mesiac po poskytnutí
+služieb za príslušný mesiac vo výške 3.519,00 Eur slovom Tritisícpäťstodevätnásť eur. Cena je
+nemenná počas celej doby trvania platnosti tejto zmluvy a Dodávateľ nie je oprávnený požadovať
+jej zvýšenie.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+7.
+8.
+
+9.
+
+10.
+
+V.
+PLATOBNÉ A FAKTURAČNÉ PODMIENKY
+Právo na zaplatenie ceny vzniká Dodávateľovi v zmysle čl. IV bodov 2. tejto zmluvy na základe
+faktúry vystavenej Dodávateľom. Faktúry budú vystavené v mene EURO. Úhrada záväzkov
+zmluvných strán bude vykonaná v EURO.
+Právo na zaplatenie ceny za plnenie predmetu zmluvy vzniká Dodávateľovi splnením jeho
+záväzku, po odovzdaní a prevzatí plnenia Objednávateľom, potvrdenom preberacím a/alebo
+akceptačným protokolom.
+Faktúra musí obsahovať všetky náležitosti v zmysle platných právnych predpisov a ďalej musí
+obsahovať: označenie, že ide o faktúru; IČO a bankové spojenie oboch zmluvných strán vo forme
+IBAN a BIC /SWIFT/; číslo objednávky zaevidovanej v SAPe; odpočet uhradených záloh (v
+prípade existencie záloh); sumu celkom k úhrade v mene, v ktorej sa bude uhrádzať. Faktúra
+ďalej môže obsahovať: číslo zmluvy (vrátane platných dodatkov); pečiatku vystavovateľa faktúry;
+miesto plnenia; konštantný symbol; dohodnutú formu úhrady; meno, podpis a telefonické / emailové spojenie zodpovedného pracovníka vystavovateľa; deň splatnosti faktúry (potrebné
+uvádzať počet dní od doručenia faktúry).
+V prípade, že faktúra nebude obsahovať náležitosti podľa bodu 4 tohto článku, Objednávateľ má
+právo vrátiť faktúru bez zaplatenia. Oprávneným vrátením faktúry prestáva plynúť lehota splatnosti
+a táto plynie odznova odo dňa doručenia novej (opravenej) faktúry.
+Bankové spojenie veriteľa vo forme IBAN a SWIFT (BIC) uvedené na faktúre musí byť zhodné
+s bankovým spojením dohodnutým v zmluve. V opačnom prípade je dlžník oprávnený uhradiť
+fakturovanú sumu na bankové spojenie uvedené na faktúre. V prípade uvedenia nesprávneho
+bankového spojenia vo formáte IBAN a SWIFT (BIC) alebo rozdielneho bankového spojenia vo
+formáte IBAN a SWIFT (BIC) v zmluve a vo faktúre zo strany veriteľa, dlžník nezodpovedá za
+prípadnú škodu, ktorá môže v dôsledku takto nesprávne adresovanej úhrady vzniknúť; v prípade,
+ak z takéhoto dôvodu škoda vznikla na ťarchu dlžníka, dlžník má právo uplatniť si náhradu škody
+u veriteľa, ktorý škodu spôsobil, a to v plnej výške formou vystavenej faktúry.
+Zmluvné strany sa dohodli, že žiadna zmluvná strana nesmie previesť svoje práva vyplývajúce z
+tejto zmluvy bez predchádzajúceho písomného súhlasu druhej zmluvnej strany.
+Bankové poplatky dlžníka znáša dlžník, bankové poplatky veriteľa znáša veriteľ.
+Zmluvné strany postupujú pri vysporiadaní svojich daňových povinností podľa právnych predpisov
+platných v Slovenskej republike s vylúčením možnosti prevzatia daňovej povinnosti za
+obchodného partnera.
+Lehota splatnosti faktúr je 60 dní odo dňa ich doručenia druhej zmluvnej strane. Za deň splnenia
+peňažného záväzku sa považuje deň odpísania dlžnej sumy z účtu dlžníka v prospech účtu
+veriteľa. Pokiaľ posledný deň lehoty splatnosti pripadne podľa slovenského kalendára na deň
+pracovného voľna, pokoja alebo sviatok ako deň splnenia peňažného záväzku bude zmluvným
+partnerom za rovnako dohodnutých cenových a platobných podmienok akceptovaný nasledujúci
+prvý pracovný deň.
+Úhrada záväzkov oboch zmluvných strán bude vykonaná v mene euro.
+
+4/11
+
+Ev. č. 126/18/Mi
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+VI.
+DAŇOVÉ ZÁLEŽITOSTI
+Ak Dodávateľ nemá sídlo v SR, je povinný predložiť Objednávateľovi úradne overené potvrdenie
+daňového (finančného) úradu o daňovom domicile (rezidencii), najneskôr do 10 dní odo dňa
+uzavretia tejto zmluvy, ak tak neurobil pri uzavretí tejto zmluvy.
+Ak Dodávateľ nemá sídlo v SR, je povinný predložiť čestné prehlásenie o tom, či má alebo nemá
+na území Slovenskej republiky stálu prevádzkareň v zmysle právnych predpisov platných
+v Slovenskej republike, resp. príslušnej zmluvy o zamedzení dvojitého zdanenia (ďalej len
+„medzinárodná zmluva“) pri uzavretí Zmluvy, najneskôr do 10 dní odo dňa uzavretia Zmluvy, ak
+tak neurobil pri uzavretí Zmluvy. Ak Dodávateľovi vznikne na území Slovenskej republiky stála
+prevádzkareň po uzavretí Zmluvy, je povinný o tejto skutočnosti bezodkladne informovať
+Objednávateľa.
+Ak Dodávateľ nemá sídlo v SR ale bude realizovať predmet Zmluvy prostredníctvom svojej
+organizačnej zložky umiestnenej na území SR, je povinný predložiť Objednávateľovi pri uzavretí
+Zmluvy, najneskôr do 10 dní odo dňa uzavretia Zmluvy, úradne overenú kópiu výpisu
+z Obchodného registra tejto organizačnej zložky, nie staršieho ako 3 mesiace.
+V prípade, že Dodávateľ je rezidentom členského štátu EÚ a má na území SR organizačnú
+zložku alebo stálu prevádzkareň, je povinný pri uzavretí Zmluvy alebo najneskôr do 10 dní odo
+dňa uzavretia Zmluvy predložiť Objednávateľovi prehlásenie, že podlieha zdaneniu na území
+toho členského štátu EÚ z príjmov zo zdroja na území, ako aj mimo územia tohto členského štátu
+EÚ, pričom Dodávateľ nie je považovaný na území SR za daňovníka s neobmedzenou daňovou
+povinnosťou.
+Ak Dodávateľ, ktorý nie je rezidentom členského štátu, ale má na území SR organizačnú zložku
+alebo stálu prevádzkareň, je povinný predložiť Nadobúdateľovi úradne osvedčené kópie
+osvedčenia o registrácii za platiteľa dane z príjmov na území Slovenskej republiky a
+(právoplatného) rozhodnutia príslušného správcu dane o tom, že platí preddavky na daň podľa
+zákona o dani z príjmov platného a účinného v Slovenskej republike, najneskôr do 10 dní odo
+dňa uzavretia Zmluvy, ak tak neurobil pri uzavretí Zmluvy. V prípade, že Dodávateľ predloží
+vyššie uvedené doklady včas, Objednávateľ nezrazí príslušnú sumu na zabezpečenie dane,
+prípadne bude postupovať podľa toho, ako bude uvedené v rozhodnutí príslušného správcu
+dane.
+Ak má Dodávateľ na území SR organizačnú zložku alebo stálu prevádzkareň a nepredloží
+rozhodnutie príslušného správcu dane o platení preddavkov na daň z príjmov, v takom prípade
+Objednávateľ zrazí z platieb príslušnú sumu na zabezpečenie dane v súlade so zákonom o dani
+z príjmu platným a účinným v SR, resp. v súlade s medzinárodnou zmluvou, ktorá má prednosť
+pred týmto zákonom, a to v deň úhrady. V prípade, že Dodávateľ platí preddavky na daň
+z príjmov, avšak príslušný správca dane rozhodol vo veci zrážania preddavkov na zabezpečenie
+dane inak, bude Objednávateľ postupovať podľa tohto rozhodnutia správcu dane.
+Ak Dodávateľovi po podpise tejto Zmluvy vznikne na území SR stála prevádzkareň, pričom o tejto
+skutočnosti neinformuje Objednávateľa, Dodávateľ
+vyhlasuje a zároveň sa zaväzuje
+kompenzovať Objednávateľovi zabezpečenie dane, pokuty a úroky, ktoré môžu Objednávateľovi
+vzniknúť v dôsledku nezrazenia preddavku na zabezpečenie dane, kde takéto nezrazenie
+vyplynulo z porušenia oznamovacej alebo inej povinnosti Dodávateľa voči Objednávateľovi,
+Objednávateľ môže požadovať vyššie uvedenú kompenzáciu najskôr v deň doručenia platobného
+výmeru vydaného príslušným daňovým úradom adresovaného Objednávateľovi.
+V prípade, že Dodávateľ je na území Slovenskej republiky registrovaným platiteľom DPH,
+predloží Objednávateľovi aj úradné osvedčenie o registrácii za platiteľa DPH s aktuálnym
+dátumom vydania. V prípade, že Dodávateľ je registrovaným platiteľom DPH v inom členskom
+štáte EÚ a predmet tejto Zmluvy bude vykonávať ako platiteľ DPH registrovaný k DPH v inom
+členskom štáte EÚ (príslušný členský štát EÚ mu pridelil IČ DPH), je rovnako povinný predložiť
+Objednávateľovi úradne overenú kópiu osvedčenia o registrácii za platiteľa DPH v krajine, ktorá
+ho za platiteľa k DPH zaregistrovala (ktorá mu pridelila IČ DPH, pod ktorým vykonáva predmet
+tejto Zmluvy).
+V prípade, že Dodávateľ bude realizovať predmet Zmluvy prostredníctvom svojej organizačnej
+zložky alebo stálej prevádzkarne umiestnenej na území SR, pričom táto organizačná zložka
+alebo stála prevádzkareň je platiteľom DPH v SR, Dodávateľ je povinný predložiť
+Objednávateľovi aj úradne overenú kópiu osvedčenia o registrácii za platiteľa DPH s aktuálnym
+dátumom overenia.
+
+5/11
+
+Ev. č. 126/18/Mi
+
+10. Ak z akéhokoľvek dôvodu správca dane vráti Dodávateľovi zrazený a odvedený preddavok na
+zabezpečenie dane prostredníctvom platiteľa dane, t.j. prostredníctvom Objednávateľa, bude
+táto suma dane poukázaná na účet Dodávateľa vo výške a v mene uvedenej v rozhodnutí
+príslušného správcu dane, maximálne však do výšky zrazenej dane v cudzej mene.
+11. Zmluvné strany sa zaväzujú akceptovať akékoľvek legislatívne zmeny v právnom poriadku
+Slovenskej republiky, vrátane zmien v daňových zákonoch, ktoré sa dotknú zmluvy a budú
+rešpektovať ich aplikáciu počas doby ich platnosti. Dodávateľ sa zaväzuje akúkoľvek zmenu vo
+svojom vzťahu k daňovým povinnostiam voči SR ihneď konzultovať s Objednávateľom a na
+vyžiadanie predloží Objednávateľovi všetky podklady potrebné pre riadne vysporiadanie svojich
+daňových povinností.
+12. Zmluvné strany vylučujú postúpenie pohľadávky/záväzku bez predchádzajúcej písomnej dohody.
+13. Dodávateľ, ktorý je platiteľom dane v zmysle zákona č. 222/2004 Z.z. o dani z pridanej hodnoty
+v znení neskorších predpisov („zákon o DPH“) vyhlasuje, že ku dňu uzavretia Zmluvy u neho
+nenastali dôvody na zrušenie registrácie pre daň z pridanej hodnoty podľa § 81 ods. 4 písm. b)
+druhého bodu zákona o DPH a/alebo nie je zverejnený v príslušnom zozname platiteľov dane z
+pridanej hodnoty, u ktorých nastali dôvody na zrušenie registrácie vedenom Finančným
+riaditeľstvom Slovenskej republiky v zmysle ustanovenia § 69 ods. 14 písm. b) a § 69 ods. 15
+zákona o DPH (ďalej aj ako „zoznam DPH platiteľov vedený Finančným riaditeľstvom Slovenskej
+republiky“) .
+Dodávateľ vyhlasuje, že ku dňu uzavretia Zmluvy jeho štatutárny orgán, člen štatutárneho orgánu
+alebo spoločník nie je štatutárnym orgánom, členom štatutárneho orgánu alebo spoločníkom
+Objednávateľa.
+V prípade, ak kedykoľvek po uzavretí Zmluvy a pred zánikom Zmluvy
+a) nastanú u Dodávateľa dôvody na zrušenie registrácie pre daň z pridanej hodnoty podľa § 81
+ods. 4 písm. b) druhého bodu zákona o DPH a/alebo Dodávateľ bude zverejnený
+v príslušnom zozname DPH platiteľov vedenom Finančným riaditeľstvom Slovenskej
+republiky, alebo
+b) štatutárny orgán, člen štatutárneho orgánu alebo spoločník Dodávateľa sa stane štatutárnym
+orgánom, členom štatutárneho orgánu alebo spoločníkom Objednávateľa okrem prípadu, ak
+je Dodávateľom spoločnosť, v ktorej má Objednávateľ priamu majetkovú účasť alebo ak je
+Dodávateľom spoločnosť, ktorá má priamu majetkovú účasť v spoločnosti Objednávateľa,
+alebo
+c) vstúpi Dodávateľ do likvidácie, začne sa voči Dodávateľovi konkurzné konanie alebo
+reštrukturalizačné konanie,
+sa Dodávateľ zaväzuje najneskôr do 3 dní od vzniku tejto skutočnosti písomne oznámiť vznik
+tejto skutočnosti Objednávateľovi. V prípade, že Dodávateľ v stanovenej lehote neoznámi
+písomne vznik niektorej zo skutočností uvedených v písm. a), b) a c) tohto bodu
+Objednávateľovi, je Objednávateľ oprávnený vyúčtovať Dodávateľovi zmluvnú pokutu vo výške
+2 000,-€. Dodávateľ je povinný Objednávateľom vyúčtovanú zmluvnú pokutu zaplatiť
+Objednávateľovi. Zaplatením zmluvnej pokuty nie je dotknutý nárok Objednávateľa na náhradu
+vzniknutej škody v celom rozsahu.
+V prípade, ak kedykoľvek po uzavretí Zmluvy a pred zánikom Zmluvy vznikne (nastane)
+ktorákoľvek zo skutočností uvedených v písm. a), b) a c) tohto bodu, má Objednávateľ právo
+zadržať z ceny plnenia alebo z častí ceny plnenia fakturovaných Dodávateľom podľa Zmluvy,
+čiastku vo výške zodpovedajúcej výške dane z pridanej hodnoty uvedenej na príslušnej faktúre
+(ďalej aj ako „nevyplatená čiastka z ceny plnenia“). Vo vzťahu k nevyplatenej čiastke z ceny
+plnenia sa Objednávateľ nedostáva do omeškania ani sa nedopúšťa iného porušenia Zmluvy, ak
+nevyplatenú čiastku z ceny plnenia vysporiada alebo použije podľa ustanovení tohto bodu.
+Objednávateľ uhradí Dodávateľovi nevyplatenú čiastku z ceny plnenia bezodkladne po tom, čo
+Dodávateľ Objednávateľovi preukáže, že daň z pridanej hodnoty uvedenú na faktúre pre
+Objednávateľa podľa Zmluvy v plnej výške odviedol príslušnému daňovému úradu.
+Ak daňový úrad rozhodnutím uloží Objednávateľovi ako ručiteľovi uhradiť Dodávateľom
+nezaplatenú daň z pridanej hodnoty (ďalej aj ako „nezaplatená daň“), Objednávateľ túto
+skutočnosť bezodkladne oznámi Dodávateľovi. Dodávateľ je povinný bezodkladne, najneskôr
+však do 3 dní odo dňa doručenia oznámenia Objednávateľa podľa predchádzajúcej vety,
+poskytnúť Objednávateľovi všetky informácie a dokumenty, na základe ktorých možno uplatniť
+námietky voči povinnosti Objednávateľa ako ručiteľa uhradiť daňovému úradu Dodávateľom
+nezaplatenú daň. Komunikácia medzi zmluvnými stranami môže byť v tomto prípade realizovaná
+
+6/11
+
+Ev. č. 126/18/Mi
+
+e-mailom na adresu Dodávateľa vladimir.sevcech@atos.net a adresu Objednávateľa
+dph@spp.sk a zoscanovanými prílohami, na požiadanie je každá zo zmluvných strán povinná
+potvrdiť druhej zmluvnej strane príslušné oznámenie písomne. Dokumenty umožňujúce
+uplatnenie námietky voči povinnosti Objednávateľa ako ručiteľa uhradiť daňovému úradu
+Dodávateľom nezaplatenú daň je Dodávateľ povinný poskytnúť Objednávateľovi v origináli alebo
+v notársky overenej kópii.
+Ak daňový úrad uloží Objednávateľovi ako ručiteľovi povinnosť uhradiť Dodávateľom nezaplatenú
+daň, Objednávateľ je oprávnený použiť nevyplatenú čiastku z ceny plnenia na úhradu takejto
+nezaplatenej dane. Objednávateľ ako ručiteľ je oprávnený použiť na úhradu Dodávateľom
+nezaplatenej dane na základe rozhodnutia daňového úradu akúkoľvek nevyplatenú čiastku
+z ceny plnenia, vrátane nevyplatených čiastok z ceny plnenia z iných faktúr vystavených
+Dodávateľom Objednávateľovi, a to aj na základe iných zmlúv uzavretých medzi Objednávateľom
+a Dodávateľom. Objednávateľ je oprávnený, nie však povinný, uplatniť akékoľvek opravné
+prostriedky proti rozhodnutiu daňového úradu, ktorým Objednávateľovi ako ručiteľovi uloží
+zaplatiť Dodávateľom nezaplatenú daň. V prípade rozhodnutia Objednávateľa o podaní
+opravného prostriedku je Dodávateľ povinný poskytnúť Objednávateľovi plnú súčinnosť. O použití
+príslušnej nevyplatenej čiastky z ceny plnenia na úhradu Dodávateľom nezaplatenej dane bude
+Objednávateľ informovať Dodávateľa. Dodávateľ nemá nárok na vyplatenie nevyplatenej čiastky
+z ceny plnenia, ktorú Objednávateľ použil podľa tohto bodu. Objednávateľ je oprávnený
+postupovať podľa tohto odseku bez ohľadu na vykonanie oznámení podľa predchádzajúceho
+odseku.
+Ak Objednávateľ ako ručiteľ uhradí daňovému úradu
+Dodávateľom nezaplatenú daň
+a z akéhokoľvek dôvodu nebude pre Objednávateľa možné alebo vhodné použiť na úhradu
+nevyplatenú čiastku z ceny plnenia, vzniká Objednávateľovi pohľadávka voči Dodávateľovi vo
+výške takto zaplatenej dane (ďalej aj ako „Pohľadávka“). O zaplatení dane z titulu ručenia za
+Dodávateľa bez použitia nevyplatenej čiastky z ceny plnenia bude Objednávateľ informovať
+Dodávateľa. Vzniknutá Pohľadávka sa stáva splatnou dňom nasledujúcim po dni odpísania
+zaplatenej dane z účtu Objednávateľa. Objednávateľ je oprávnený jednostranne si započítať
+Pohľadávku proti akejkoľvek pohľadávke alebo pohľadávkam Dodávateľa voči Objednávateľovi,
+a to bez ohľadu na skutočnosť, či sú splatné alebo nesplatné. Objednávateľ je tiež oprávnený
+vymáhať voči Dodávateľovi zaplatenie Pohľadávky všetkými právnymi prostriedkami. Pre
+vylúčenie pochybností platí, že Dodávateľ nie je oprávnený jednostranne si započítať
+nevyplatenú čiastku z ceny plnenia proti Pohľadávke ani proti akýmkoľvek iným pohľadávkam
+Objednávateľa voči Dodávateľovi a Dodávateľ tiež nie je oprávnený postúpiť pohľadávku
+spočívajúcu v nevyplatenej čiastke z ceny plnenia na tretiu osobu bez predchádzajúceho
+písomného súhlasu Objednávateľa.
+Ustanovenia tohto bodu majú prednosť pred akýmikoľvek odchylnými ustanoveniami Zmluvy
+a zostávajú zachované aj v prípade zániku Zmluvy, týmto zmluvné strany vylučujú vo vzťahu
+k tomuto bodu aplikovateľnosť ustanovenia § 273 ods. 2 Obchodného zákonníka. Zmluvné strany
+výslovne vylučujú oprávnenie Dodávateľa ako dlžníka podľa ustanovenia § 309 Obchodného
+zákonníka na uplatnenie námietok voči Nadobúdateľovi ako ručiteľovi, ak Objednávateľ ako
+ručiteľ uhradí z titulu ručenia daň nezaplatenú Dodávateľom ako dlžníkom bez vedomia
+Dodávateľa.
+VII.
+PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+1. Dodávateľ je povinný plniť túto zmluvu prostredníctvom vlastného vhodného a odborne
+vyškoleného personálu, alebo môže využiť vyškolených špecialistov výrobcu (IBM). Objednávateľ
+má právo v odôvodnených prípadoch jednotlivých členov personálu Dodávateľa odmietnuť.
+2. Objednávateľ je povinný poskytnúť Dodávateľovi súčinnosť, nevyhnutne potrebnú na splnenie
+predmetu tejto zmluvy, najmä umožniť Dodávateľovi primeraný prístup k príslušnému
+softvéru/mikrokódom, a dodaným serverom pSeries, ako aj použitie ďalšieho súvisiaceho
+zariadenia alebo pamäťových médií, nevyhnutných pre výkon služieb údržby podľa tejto zmluvy.
+3. Objednávateľ je povinný používať pSeries podľa dodanej používateľskej a administrátorskej
+dokumentácie alebo podľa inštrukcií Dodávateľa. Objednávateľ nesmie vykonávať žiadne úpravy
+alebo opravy pSeries a prevádzkového prostredia, ktoré by boli v rozpore s používateľskou,
+administrátorskou, produktovou a technickou dokumentáciou dodávanou výrobcom, alebo
+Dodávateľom.
+
+7/11
+
+Ev. č. 126/18/Mi
+
+4. Objednávateľ je zodpovedný za udržovanie aktuálnych záložných kópií prevádzkovaného softvéru
+tak, aby tieto boli prístupné v prípade, ak budú potrebné pri riešení problému.
+5. Dodávateľ urobí všetky potrebné opatrenia na to, aby v súvislosti s plnením predmetu zmluvy na
+pracoviskách Objednávateľa zaistil bezpečnosť svojich zamestnancov ako i bezpečnosť
+zamestnancov Objednávateľa.
+6. Dodávateľ zodpovedá za prípravu a vykonávanie opatrení na zaistenie bezpečnosti, ochrany
+zdravia pri práci (ďalej len „BOZP“) a potrebnú koordináciu činností ak v súvislosti s plnením
+predmetu zmluvy zamestnancami Dodávateľa môže dôjsť k ohrozeniu chráneného záujmu
+Účastníka.
+7. Dodávateľ sa zaväzuje:
+a. dodržiavať právne predpisy na zaistenie BOZP a PO; dodržiavať ostatné predpisy, zásady
+bezpečnej práce, zásady ochrany zdravia pri práci a zásady bezpečného správania na
+pracoviskách Objednávateľa, určené pracovné postupy a interné pokyny Objednávateľa
+na zaistenie BOZP a PO, s ktorými bol preukázateľne oboznámený,
+b. vykonávať iba práce, obsluhovať iba stroje a zariadenia a používať látky, ktoré sú určené
+špecifikáciou predmetu zmluvy a ktoré neohrozujú zamestnancov Objednávateľa,
+c. v súvislosti s plnením zmluvy náležite inštalovať, používať a udržiavať bezpečnostné a
+ochranné zariadenia nevyhnutné pre ochranu zamestnancov Objednávateľa,
+d. plniť predmet zmluvy iba zamestnancami a osobami, konajúcimi v jeho mene, ktorým bol
+Objednávateľom udelený súhlas na vstup do jeho objektov.
+e. plniť predmet zmluvy až po absolvovaní školenia BOZP a ochrany pred požiarmi jeho
+zamestnancov alebo osôb konajúcich v jeho mene a ďalej v intervaloch určených
+Objednávateľom.
+8. Dodávateľ je povinný:
+a. vybaviť svojich zamestnancov s viditeľným označením logom firmy dodávateľa,
+b. zabezpečiť pohyb svojich zamestnancov a ďalších osôb, konajúcich v jeho mene len na
+pracoviskách a priestoroch súvisiacich s plnením predmetu tejto zmluvy.
+VIII.
+ZODPOVEDNOSŤ ZA VADY
+1. Dodávateľ zodpovedá za bezchybné vykonávanie servisných služieb, tvoriacich predmet plnenia
+tejto zmluvy, ako aj za to, že tieto služby vykonáva v súlade s podmienkami dohodnutými touto
+zmluvou, všeobecne záväznými právnymi predpismi a technickými normami.
+2. Objednávateľ je povinný u Dodávateľa písomne reklamovať vadu poskytnutého plnenia bez
+zbytočného odkladu po jej zistení. Dodávateľ je povinný pri obmedzení funkčností riešenia pSeries
+začať s odstraňovaním reklamovanej vady bez zbytočného odkladu po doručení reklamácie,
+najneskôr v lehote uvedenej v čl. III bod 1 tejto zmluvy.
+3. V prípade, ak Dodávateľ neodstráni vadu, ktorá bola Objednávateľom riadne oznámená, a
+funkčnosť pSeries tak, ako bola popísaná v používateľskej, produktovej alebo technickej
+dokumentácii je vážne poškodená, alebo naďalej neplní svoje funkcie, alebo je vada
+neodstrániteľná, má Objednávateľ právo požadovať primerané zníženie cien služieb (zľavu) za
+dobu tejto nefunkčnosti, od momentu oznámenia reklamovanej vady do doby jej odstránenia, až
+do výšky celkovej ceny za plnenie predmetu zmluvy, určenej podľa čl. IV. bod 2. tejto Zmluvy za
+celú dobu platnosti zmluvy alebo odstúpiť od tejto zmluvy spôsobom uvedeným v čl. XII tejto
+zmluvy, ak sa zmluvné strany nedohodnú inak.
+IX.
+ZODPOVEDNOSŤ ZA ŠKODU
+1. Ak poruší jedna zmluvná strana svoje povinnosti alebo akýkoľvek záväzok, vyplývajúci z tejto
+zmluvy je povinná nahradiť škodu tým spôsobenú druhej zmluvnej strane. Za škodu sa považuje
+skutočná škoda a náklady vzniknuté poškodenej zmluvnej strane v súvislosti so škodovou
+udalosťou. Zmluvné strany sa dohodli, že maximálna výška náhrady škody, ktorú si oprávnená
+zmluvná strana bude môcť uplatniť voči druhej zmluvnej strane môže byť za obdobie jedného roka
+trvania tejto zmluvy najviac 100 % z celkovej ceny ročného plnenia. Zmluvné strany uznávajú, že
+v čase vzniku záväzkového vzťahu z tejto zmluvy nemôže druhá zmluvná strana ako možný
+dôsledok porušenia jej povinností pri plnení záväzkov z tejto zmluvy alebo inak v súvislosti s touto
+zmluvou predvídať škody celkovo vyššie je uvedené v predchádzajúcej vete.
+
+8/11
+
+Ev. č. 126/18/Mi
+
+2. Zmluvná strana, ktorá porušila svoju povinnosť alebo akýkoľvek záväzok, vyplývajúci z tejto
+zmluvy, sa môže zbaviť zodpovednosti na náhradu škody, ak preukáže, že k porušeniu povinnosti
+alebo akéhokoľvek záväzku, vyplývajúceho z tejto zmluvy, došlo v dôsledku okolností vylučujúcich
+zodpovednosť.
+3. Medzi okolnosti vylučujúce zodpovednosť patria prípady tzv. vyššej moci, medzi ktoré na základe
+dohody zmluvných strán bez ohraničenia ich výpočtu a stanovenia ich poradia patria napríklad:
+neobvyklé zmeny počasia, vojna, požiar, štrajk, vzbura, verejné nepokoje, explózia, povodeň,
+zosuv pôdy, búrka, zásah blesku, embargo, rozhodnutie vojenského orgánu, ako aj zásah štátnej
+moci alebo právne akty štátnej moci vydané v dôsledku takéhoto zásahu s výnimkou v rozsahu
+stanovenom v predchádzajúcom bode, zmena právnych predpisov, ktoré sú zmluvnými stranami
+nezavinené a ani v dôsledku ich konania či nekonania nevznikli.
+
+1.
+
+2.
+3.
+4.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+X.
+ZMLUVNÉ SANKCIE
+V prípade akéhokoľvek neplnenia alebo porušenia povinností Dodávateľa s plnením služieb podľa
+čl. I bod 1.1 v zmysle podmienok, uvedených v čl. III., je Objednávateľ oprávnený fakturovať
+Dodávateľovi zmluvnú pokutu vo výške 5 % z mesačnej ceny služieb, uvedenej v čl. IV. bod 2.
+tejto Zmluvy, za každú aj začatú hodinu omeškania alebo za každé porušenie či nesplnenie
+povinnosti zvlášť maximálne však do výšky 50% mesačného poplatku za službu.
+V prípade omeškania so splnením peňažného záväzku je veriteľ oprávnený fakturovať dlžníkovi
+úrok z omeškania vo výške 0,02% z dlžnej sumy za každý deň omeškania.
+Uplatnením nároku na zaplatenie zmluvnej pokuty nie je dotknuté právo Objednávateľa na
+náhradu preukázateľnej škody, prevyšujúcej výšku zmluvnej pokuty.
+V prípade porušenia povinností vyplývajúcich z čl. VII bod 7. je Objednávateľ oprávnený
+fakturovať Dodávateľovi zmluvnú pokutu vo výške 1.000 EUR za každé porušenie zvlášť, celkovo
+však najviac za všetky porušenia 10.000,- EUR.
+XI.
+OCHRANA DÔVERNÝCH INFORMÁCIÍ
+Zmluvné strany sú si vedomé toho, že v rámci plnenia Zmluvy môžu oni alebo ich zamestnanci či
+zmluvní partneri, získať vedomou činnosťou druhej zmluvnej strany alebo jej opomenutím prístup
+k dôverným informáciám tejto druhej zmluvnej strany.
+Dôvernou informáciou sa rozumie každá informácia, ktorú označuje zmluvná strana, ktorá
+informáciu poskytuje, ako dôvernú, vrátane informácií, týkajúcich sa jej výskumu, vývoja,
+obchodných údajov, osobných údajov zamestnancov alebo údajov o produktoch, materiáloch
+a metodológií, vlastnených zmluvnou stranou, vrátane know – how.
+Zmluvné strany sa zaväzujú, že zabezpečia dostatočné a preukázateľné poučenie pre všetky
+osoby, ktoré sa na ich strane budú zúčastňovať na plnení tejto Zmluvy, o podstate dôvernej
+informácie v zmysle tejto Zmluvy a nevyhnutnosti jej utajenia v súlade s touto Zmluvou. Prístup
+k dôverným informáciám bude obmedzený na tých zamestnancov zmluvnej strany, ktoré tieto
+informácie potrebujú poznať na účely a v rozsahu, vymedzenom touto Zmluvou. Zmluvné strany
+sú povinné zabezpečiť, aby záväzok utajenia dôverných informácií v zmysle tejto Zmluvy prevzali
+všetky osoby, ktoré sú odlišné od samotných zmluvných strán a ktoré sa budú zúčastňovať na
+plnení tejto Zmluvy. Splnenie tejto povinnosti je príslušná zmluvná strana povinná preukázať, ak ju
+o to druhá zmluvná strana požiada.
+Zmluvné strany sa zaväzujú zaobchádzať s dôvernými informáciami ako s predmetom
+obchodného tajomstva, najmä uchovávať ich v tajnosti a zabezpečiť vykonanie všetkých
+právnych a technických opatrení, zabraňujúcich ich neoprávnenému sprístupneniu tretej osobe či
+ich zneužitiu, a to v rozsahu a spôsobom primeraným stupňu utajenia príslušnej dôvernej
+informácie a jej zrejmému významu, alebo významu, ktorý tejto dôvernej informácii zreteľne priradí
+tá zmluvná strana, ktorej príslušná dôverná informácia prislúcha.
+Zmluvné strany môžu poskytnúť tieto dôverné informácie len svojim zamestnancom alebo
+zmluvným partnerom v rozsahu nutnom pre riadne plnenia tejto Zmluvy, pri súčasnej realizácii
+vyššie uvedených opatrení. Dôverné informácie nesmú byť kopírované alebo reprodukované bez
+písomného súhlasu zmluvnej strany, ktorá tieto informácie poskytla.
+
+9/11
+
+Ev. č. 126/18/Mi
+
+6. V prípade porušenia povinností, uvedených v tomto článku zmluvy, je poškodená zmluvná strana
+oprávnená uplatniť si nárok na zaplatenie zmluvnej pokuty vo výške 10 000,- EUR, za každé
+porušenie povinností zvlášť, celkovo však najviac za všetky porušenia do výšky 100 000,- EUR.
+
+1.
+2.
+
+3.
+
+4.
+
+5.
+
+XII.
+TRVANIE A UKONČENIE ZMLUVY
+Táto zmluva sa uzatvára na dobu určitú do 06.03.2019.
+Táto zmluva nadobúda platnosť a účinnosť dňom podpísania oprávnenými zástupcami oboch
+zmluvných strán; ustanovenia osobitných predpisov tým nie sú dotknuté. Objednávateľ je
+oprávnený požadovať od Dodávateľa uzavretie čiastkovej zmluvy (objednávky) do posledného
+dňa trvania platnosti tejto zmluvy. Čiastkové zmluvy (objednávky) vystavené Objednávateľom
+a potvrdené Dodávateľom do posledného dňa trvania platnosti tejto zmluvy, budú zrealizované/
+poskytnuté na základe podmienok tejto zmluvy.
+Platnosť tejto zmluvy môže byť ukončená:
+a) písomnou dohodou zmluvných strán;
+b) zánikom niektorej zo zmluvných strán bez právneho nástupcu;
+c) výpoveďou zo strany Objednávateľa;
+d) odstúpením od zmluvy;
+e) uplynutím doby platnosti.
+Objednávateľ je oprávnený túto zmluvu ukončiť aj pred uplynutím doby jej platnosti písomnou
+výpoveďou bez uvedenia dôvodov s (3) trojmesačnou výpovednou lehotou. Výpovedná lehota
+začína plynúť prvým dňom mesiaca nasledujúceho po mesiaci, v ktorom bola výpoveď doručená
+zmluvnej strane. Ak sa zmluvné strany nedohodnú inak, tak služby poskytované na základe tejto
+zmluvy, ktorých realizácia bola zmluvnými stranami objednaná a odsúhlasená alebo začatá pred
+doručením výpovede, budú poskytované do ich riadneho splnenia podľa podmienok tejto zmluvy.
+Okrem tu uvedených prípadov, nemôže Dodávateľ po doručení výpovede, bez písomného
+súhlasu Objednávateľa, poskytovať žiadne nové plnenie predmetu tejto zmluvy.
+Ktorákoľvek zo zmluvných strán je oprávnená odstúpiť od tejto zmluvy v prípade jej podstatného
+porušenia druhou zmluvnou stranou, ak nedôjde k náprave ani po uplynutí dodatočnej lehoty
+poskytnutej druhou zmluvnou stranou v trvaní najmenej 30 dní. Odstúpenie od zmluvy musí byť
+vykonané v písomnej forme a musia v ňom byť uvedené dôvody odstúpenia. Odstúpenie od
+zmluvy nadobúda právne účinky doručením oznámenia o odstúpení od zmluvy druhej zmluvnej
+strane. Za podstatné porušenie sa pre účely tejto zmluvy rozumie porušenie akejkoľvek zmluvnej
+povinnosti, ak k náprave nedôjde ani po poskytnutí dodatočnej primeranej lehoty, poskytnutej
+druhou zmluvnou stranou na odstránenie tohto porušenia. Zmluvné strany sa dohodli, že
+v dôsledku odstúpenia od zmluvy si nebudú vracať plnenia poskytnuté vzájomne pred odstúpením
+od zmluvy.
+
+XIII.
+PREVOD PRÁV A POVINNOSTÍ
+1. Zmluvné strany sa dohodli, že žiadna zmluvná strana nesmie previesť svoje práva vyplývajúce z
+tejto zmluvy bez predchádzajúceho písomného súhlasu druhej zmluvnej strany. V opačnom
+prípade je takýto prevod práv neplatný.
+XIV.
+RIEŠENIE SPOROV A INÉ DOJEDNANIA
+1. Zmluvné strany sa zaväzujú, že v prípade sporov o obsah a plnenie tejto zmluvy vynaložia všetko
+úsilie, ktoré je možné od nich spravodlivo požadovať, k tomu, aby tieto spory boli vyriešené cestou
+zmieru, najmä, aby boli odstránené okolnosti vedúce k vzniku práva od zmluvy odstúpiť alebo
+okolností spôsobujúcich jej neplatnosť.
+2. Ak sa nedohodnú zmluvné strany na spôsobe riešenia vzájomného sporu v lehote v trvaní aspoň
+60 dní, má každá zo zmluvných strán právo predložiť spor na rozhodnutie príslušnému súdu.
+3. Zmluvné plnenie zo strany Dodávateľa platí za podmienky, že nevzniknú žiadne obmedzenia na
+základe národných a medzinárodných obchodných a colných právnych predpisov, ako ani žiadne
+embargá (a/alebo iné sankcie).
+
+10/11
+
+Ev. č. 126/18/Mi
+
+4. Reexport zmluvného plnenia tretej strane podlieha písomnému súhlasu Dodávateľa. Takýto
+súhlas je potrebné zabezpečiť pred uzatvorením zmluvy s treťou osobou. Objednávateľ sa
+zaväzuje takisto previesť povinnosť odsúhlasenia reexportu aj na tretiu stranu.
+5. Ak Objednávateľ služby poskytnuté Dodávateľom (vrátane všetkých druhov technickej podpory)
+ďalej dodáva tretej osobe, je povinný dodržiavať všetky platné predpisy národného
+a medzinárodného práva kontroly (re-) exportu. Pri každom ďalšom dodaní takýchto služieb tretej
+osobe musí Objednávateľ dbať na predpisy kontroly (re-) exportu Nemeckej spolkovej republiky,
+Európskej únie a Spojených štátov amerických.
+
+1.
+
+2.
+3.
+4.
+
+5.
+
+XV.
+ZÁVEREČNÉ USTANOVENIA
+V prípade, že by sa niektoré ustanovenia tejto zmluvy stali neplatnými alebo neúčinnými, alebo ak
+by sa v dôsledku legislatívnych zmien dostali niektoré z ustanovení tejto zmluvy do rozporu
+s platným právnym poriadkom Slovenskej republiky, nie je týmto dotknutá platnosť a účinnosť
+zostávajúcich ustanovení tejto zmluvy. Namiesto neplatného alebo neúčinného ustanovenia platia
+za zmluvne dohodnuté tie ustanovenia, ktoré sa svojim zmyslom a účelom neplatnému alebo
+neúčinnému ustanoveniu zmluvy najviac približujú.
+Zmluvu je možné zmeniť len po vzájomnej dohode zmluvných strán formou písomného dodatku.
+Práva a povinnosti neupravené touto zmluvou a jej prílohami sa riadia ustanoveniami
+Obchodného zákonníka v platnom znení.
+Dodávateľ je povinný dodržiavať právne predpisy a zabezpečiť dodržiavanie právnych predpisov
+tretími osobami, ktoré sa podieľajú na plnení Zmluvy, zdržať sa akéhokoľvek konania, ktoré je
+v rozpore s právnymi predpismi alebo ktoré je spôsobilé ohroziť alebo porušiť záujmy
+objednávateľa, a zabrániť takémuto konaniu. Pri plnení Zmluvy je dodávateľ povinný najmä zdržať
+sa konania, ktoré by mohlo viesť k vyvodeniu trestnej zodpovednosti objednávateľa v zmysle
+zákona č. 91/2016 Z.z. o trestnej zodpovednosti právnických osôb v znení neskorších predpisov
+alebo takého predpisu, ktorý ho nahradí.
+Táto zmluva vrátane príloh je vyhotovená v štyroch (4) rovnopisoch v slovenskom jazyku, pre
+každú zmluvnú stranu po dva (2) rovnopisy.
+
+Za Objednávateľa:
+Slovenský plynárenský priemysel, a.s.
+V Bratislave dňa 21.05.2018
+
+Za Dodávateľa:
+Atos IT Solutions and Services s.r.o.
+V Bratislave dňa 21.05.2018
+
+..............................................................
+Ing. Renáta Črepovská
+strategický nákupca
+
+...............................................................
+Mgr. Zuzana Lomnická
+strategický nákupca - senior
+
+...............................................................
+Martin Sůra
+konateľ
+
+11/11
+
+

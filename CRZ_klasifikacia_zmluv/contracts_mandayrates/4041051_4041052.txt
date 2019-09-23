@@ -1,0 +1,889 @@
+Ev. č. MK – 62/2019/M
+
+Zmluva o dielo
+uzatvorená podľa § 536 a nasl. zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších predpisov
+(ďalej len „Obchodný zákonník“)
+a zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(ďalej len „ZVO“)
+
+Článok 1.
+Zmluvné strany
+Objednávateľ:
+1.
+
+Názov:
+
+Ministerstvo kultúry Slovenskej republiky
+
+Sídlo:
+
+Námestie SNP 33, 813 31 Bratislava
+
+IČO:
+
+00 165 182
+
+DIČ:
+
+2020830042
+
+IČ DPH:
+
+nie je platca DPH
+
+Banka:
+
+Štátna pokladnica
+
+IBAN:
+V mene objednávateľa koná:
+
+Mgr. Kamil Peteraj, generálny tajomník služobného úradu
+(zainteresovaná osoba – § 23 ods. 3 ZVO)
+
+tel., e-mail:
+
++421 – 2 – 2048 2202, kgtsu@culture.gov.sk
+
+Kontaktná osoba:
+(zainteresovaná osoba – § 23 ods. 3 ZVO)
+tel., e-mail kontaktnej osoby:
+(ďalej len „objednávateľ“)
+Zhotoviteľ:
+2.
+
+Názov:
+
+Plaut Slovensko, s.r.o.
+
+Sídlo:
+
+Karloveská 34, 8421 04 Bratislava
+
+IČO:
+
+35 785 284
+
+DIČ:
+
+2020277688
+
+IČ DPH:
+
+SK2020277688
+
+Bankové spojenie:
+IBAN:
+Zapísaný v Obchodnom registri: Okresného súdu Bratislava I, Oddiel: Sro, vložka číslo: 21436/B
+V mene zhotoviteľa koná:
+
+Mgr. Martin Sepp, konateľ
+
+tel., e-mail:
+
++421 – 2 – 3215 1411, info@plaut.sk
+
+Kontaktná osoba:
+tel, e-mail kontaktnej osoby:
+(ďalej len „zhotoviteľ“)
+Preambula
+1.
+
+Zmluvné strany uzatvárajú zmluvu ako výsledok zadávania zákazky s nízkou hodnotou podľa § 117 zákona
+č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(ďalej len „zákon o verejnom obstarávaní“) na predmet zákazky „Vytvorenie popisu Enterprise architektúry a modelu
+Enterprise architektúry informačných systémov Ministerstva kultúry SR“. Ponuka zhotoviteľa tvorí prílohu č. 1
+k tejto zmluve.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 1 z/zo 12
+
+Článok 2.
+Predmet zmluvy
+1.
+
+Predmetom zmluvy je vytvorenie popisu Enterprise architektúry a modelu Enterprise architektúry informačných
+systémov Ministerstva kultúry SR (ďalej ako „predmet zmluvy“ alebo „dielo“).
+
+2.
+
+Predmetom zmluvy je: (a) Vytvorenie popisu Enterprise architektúry informačných systémov Ministerstva kultúry SR
+použitím architektúry a metodiky TOGAF a architektonického rámca na modelovanie architektúry ArchiMate;
+(b) Vytvorenie modelu Enterprise architektúry informačných systémov Ministerstva kultúry SR.
+a)
+
+Vytvorenie popisu Enterprise architektúry informačných systémov Ministerstva kultúry SR použitím
+architektúry a metodiky TOGAF a architektonického rámca na modelovanie architektúry ArchiMate, ktorý bude
+zahŕňať:
+–
+Ciele a prínosy implementácie EA v prostredí Ministerstva kultúry SR.
+–
+Dôvody používania TOGAF a ArchiMate pri popise návrhu EA informačných systémov.
+–
+Návrh na implementáciu projektov v súlade s popisom EA informačných systémov.
+–
+Návrh implementačného plánu zavedenia EA informačných systémov.
+–
+Nevyhnutné predpoklady k dosiahnutiu personálneho zabezpečenia a podpory spracovania EA
+informačných systémov v rámci Ministerstva kultúry SR.
+–
+Návrh/úprava vnútorného aktu riadenia k centrálnemu riadeniu, budovaniu a rozvoju informačných
+systémov Ministerstva kultúry SR a organizácií v jeho zriaďovateľskej pôsobnosti (ďalej len „PRO“);
+Zoznam organizácií v zriaďovateľskej pôsobnosti Ministerstva kultúry Slovenskej republiky je uvedený na
+webovom sídle v časti http://www.culture.gov.ak/organizacie-ministerstva-c.html.
+–
+bude pre účely správy objektu evidencie vytvorený nový register.
+Výstup bude dodaný v OpenDocument formáte (ODF 1.2).
+
+b)
+
+Vytvorenie modelu Enterprise architektúry informačných systémov, ktorý bude obsahovať:
+–
+
+Trojvrstvový model enterprise architektúry rezortu, v členení na:
+–
+Biznis vrstvu
+–
+Aplikačnú vrstvu
+–
+Technologickú vrstvu
+Predpokladaný počet informačných systémov Ministerstva kultúry SR a jeho PRO na vytvorenie popisu
+Enterprise Architektúry Ministerstva kultúry SR je cca 100 ks, predpokladaný počet koncových služieb je
+cca 200 ks.
+
+–
+
+Pohľady (views)
+–
+Existujúci stav informačných systémov rezortu:
+–
+Application usage view AS IS – pohľad bude popisovať prepojenie koncových služieb a aplikačných
+komponentov (zvlášť pre centrálne IS Ministerstva kultúry SR a zvlášť pre PRO).
+–
+Application cooperation view AS IS – pohľad bude popisovať vzájomné prepojenie jednotlivých
+aplikačných komponentov (ISVS) (zvlášť pre centrálne IS Ministerstva kultúry SR a zvlášť pre PRO).
+–
+Technology usage view AS IS – pohľad bude popisovať na akých technologických uzloch a v akých
+dátových centrách – lokáciách sú prevádzkované jednotlivé aplikačné komponenty (ISVS) (zvlášť pre
+centrálne IS Ministerstva kultúry SR a zvlášť pre PRO).
+–
+
+Budúci stav informačných systémov rezortu“
+–
+Application cooperation view TO BE – pohľad bude popisovať umiestnenie plánovaných IS
+a plánovaných väzieb v rámci centrálnej architektúry rezortu.
+–
+Technology usage view TO BE – pohľad bude popisovať budúci stav prevádzkovania aplikačných
+komponentov (ISVS), zahŕňajúci presun ISVS do gCloudu na základe plánovanej migrácie.
+
+Model bude spracovaný v nástroji Enterprise Architect a bude dodaný v natívnom formáte, ktorý nástroj poskytuje.
+Model umožní aktualizáciu Centrálneho metainformačného systému (MetaIS) s použitím exportu CSV súborov.
+3.
+
+Zhotoviteľ sa zaväzuje vyhotoviť dielo vo vlastnom mene a na vlastnú zodpovednosť.
+
+4.
+
+Zhotoviteľ sa zaväzuje na vyhotovené dielo (vrátane všetkých jeho súčastí) udeliť licenciu „Creative Commons
+Attribution-ShareAlike International“ – CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0/).
+
+5.
+
+Objednávateľ sa zaväzuje dielo prevziať a zaplatiť zhotoviteľovi dohodnutú cenu pokiaľ osobitné predpisy neurčujú inak
+(napr. § 15 zák. č. 315/2016 Z. z.).
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 2 z/zo 12
+
+6.
+
+Protokolárne odovzdanie a prebratie predmetu zmluvy bude realizované na základe preberacieho protokolu, ktorého
+súčasťou budú doklady požadované touto zmluvou, v ktorých budú uvedené základné údaje o zhotovení diela a ktoré
+musia byť podpísané oboma zmluvnými stranami.
+
+Článok 3.
+Miesto realizácie predmetu zmluvy
+1.
+
+Miestom odovzdania predmetu zmluvy je sídlo objednávateľa.
+
+Článok 4.
+Doba realizácie predmetu zmluvy
+1.
+
+Zmluvné strany sa dohodli že zhotoviteľ odovzdá dielo:
+a)
+
+v časti podľa písm. a) ods. 2. článku 2 tejto zmluvy do 40 dní odo dňa nadobudnutia účinnosti tejto zmluvy a
+dodania nevyhnutnej vstupnej dokumentácie zo strany objednávateľa.
+
+b)
+
+v časti podľa písm. b) ods. 2. článku 2 tejto zmluvy do 80 dní odo dňa prevzatia a schválenia čiastkového diela
+podľa písm. a) ods. 2. článku 2 tejto zmluvy objednávateľom.
+
+2.
+
+Zmluvné termíny uvedené v bode 1. tohto článku sú termíny najneskoršie prípustné a neprekročiteľné s výnimkou:
+a) vyššej moci, t. j. v prípade udalostí, ktoré nie sú závislé od vôle zmluvných strán a tieto ich nemôžu ovplyvniť
+(neočakávané prírodné a iné javy),
+b) v prípade nevyhnutných zmien rozsahu diela, ktoré vyplynuli z nepredvídateľných okolností, len podľa pokynov
+objednávateľa; v prípade takejto zmeny rozsahu diela zmluvné strany budú riešiť túto skutočnosť vždy zmluvne,
+kde bude uvedená zmena rozsahu diela a z toho vyplývajúca prípadná zmena termínu ukončenia diela ak si to
+zmeny rozsahu diela vyžiadajú, a to výlučne v súlade s príslušnými ustanovenia zákona o verejnom obstarávaní
+(najmä § 18 ods. 1 písm. b) a c) ZVO). V prípade ak nedôjde k takejto zmluvnej dohode, má sa za to, že k zmene
+termínu diela nedošlo,
+c) vydania príkazov, zákazov, obmedzení, vydaných orgánmi verejnej moci, ak neboli vydané v dôsledku konania
+alebo nekonania zhotoviteľa.
+
+3.
+
+V prípade uplatnenia predĺženia lehoty dokončenia predmetu zmluvy alebo jeho časti podľa bodu 2. tohto článku sa
+určia nové lehoty podľa dĺžky preukázaného zdržania.
+
+4.
+
+Ukončením prác alebo ich častí sa rozumie ich riadne odovzdanie objednávateľovi protokolom o odovzdaní a prevzatí,
+v ktorom bude oboma zmluvnými stranami stanovené, že dielo je odovzdané bez takých závad a nedorobkov, ktoré by
+bránili jeho predčasnému alebo trvalému užívaniu pokiaľ ich zavinil zhotoviteľ a ktorý musí byť podpísaný oboma
+zmluvnými stranami.
+
+5.
+
+Ak zhotoviteľ mešká s dodaním predmetu zmluvy podľa ustanovení v tomto článku zmluvy, objednávateľ je oprávnený
+žiadať náhradu škody v zmysle § 373 a nasledujúcich Obchodného zákonníka, ktorá mu týmto vznikla.
+
+6.
+
+V prípade zastavenia prác z dôvodov na strane objednávateľa budú vykonané práce odúčtované podľa stupňa
+rozpracovanosti a podľa skutočne zdokladovaných nákladov zo strany zhotoviteľa.
+
+Článok 5.
+Zmluvná cena
+1.
+
+Cena za predmet zmluvy je stanovená podľa § 3 zákona NR SR č. 18/1996 Z. z. o cenách v znení neskorších predpisov
+a Vyhlášky č. 87/1996 Z. z., ktorou sa vykonáva zákon o cenách v znení neskorších zmien a doplnkov ako cena
+maximálna a platná počas doby trvania zmluvy okrem prípadov uvedených v tomto článku zmluvy. Cena za predmet
+zmluvy je nasledovná:
+–
+Celková cena v EUR bez DPH za kompletnú dodávku predmetu zmluvy:_____________________47 800,00 €
+–
+Sadzba DPH v %______________________________________________________________________20 [%]
+–
+Výška DPH v EUR za kompletnú dodávku predmetu zmluvy:________________________________9 560,00 €
+–
+Celková cena v EUR vrátane DPH za kompletnú dodávku predmetu zmluvy:__________________57 360,00 €
+–
+Celková cena v EUR vrátane DPH za kompletnú dodávku slovom:
+Päťdesiat sedem tisíc tristo šesťdesiat €.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 3 z/zo 12
+
+–
+–
+–
+
+cena bez DPH za dodávku predmetu zmluvy podľa písm. a) ods. 2. článku 2 tejto zmluvy_______11 000,00 €
+výška DPH za dodávku predmetu zmluvy podľa písm. a) ods. 2. článku 2 tejto zmluvy___________2 200,00 €
+cena vrátane DPH za dodávku predmetu zmluvy podľa písm. a) ods. 2. článku 2 tejto zmluvy___13 200,00 €
+
+–
+–
+–
+
+cena bez DPH za dodávku predmetu zmluvy podľa písm. b) ods. 2. článku 2 tejto zmluvy_______36 800,00 €
+výška DPH za dodávku predmetu zmluvy podľa písm. b) ods. 2. článku 2 tejto zmluvy___________7 360,00 €
+cena vrátane DPH za dodávku predmetu zmluvy podľa písm. b) ods. 2. článku 2 tejto zmluvy___44 160,00 €
+
+DPH bude účtovaná v aktuálnej sadzbe podľa príslušných právnych predpisov platných v čase fakturácie.
+2.
+
+Cena predstavuje dohodnutú cenu všetkých plnení a záväzkov zhotoviteľa podľa tejto zmluvy vrátane záväzkov
+vyplývajúcich zo zhotoviteľom poskytnutej záruky za kvalitu. V cene diela sú zahrnuté všetky náklady zhotoviteľa
+potrebné k dodaniu predmetu tejto zmluvy.
+
+3.
+
+K zmene ceny za dielo nemôže dôjsť z dôvodov na strane zhotoviteľa počas platnosti tejto zmluvy. Cenu predmetu
+zmluvy je prípustné upraviť počas platnosti zmluvy len formou písomného dodatku k zmluve, a to len v prípade
+preukázateľných zmien právnych predpisov (napr. daňové zákony, colné zákony, vyhlášky, iné administratívne
+opatrenia štátu. Zmena ceny nemôže mať za následok zvyšovanie dohodnutej ceny plnenia a zmenu povahy
+a rozširovanie rozsahu predmetu zmluvy alebo jeho časti alebo zmenu ekonomickej rovnováhy zmluvy v prospech
+zhotoviteľa.
+
+4.
+
+K zmene ceny môže dôjsť len v súlade s ustanoveniami § 18 ZVO (najmä § 18 ods. 1 písm. b) alebo c) ZVO nie
+však výlučne).
+
+Článok 6.
+Platobné podmienky
+1.
+
+Predmet zmluvy bude financovaný formou bezhotovostného platobného styku, bez poskytnutia preddavku.
+Dohodnutú cenu za predmet zmluvy v EUR vrátane DPH objednávateľ uhradí na základe predložených faktúr, s lehotou
+splatnosti do 30 dní odo dňa ich doručenia objednávateľovi bezhotovostným platobným stykom. Platobná povinnosť
+objednávateľa sa považuje za splnenú v deň, keď bude z jeho bankového účtu poukázaná príslušná platba na účet
+zhotoviteľa. Zhotoviteľ má nárok na vystavenie dvoch faktúr po vyhotovení predmetu zmluvy podľa písm. a) ods. 2.
+článku 2 tejto zmluvy a vyhotovení predmetu zmluvy podľa písm. b) ods. 2. článku 2 tejto zmluvy.
+
+2.
+
+Faktúry musia obsahovať náležitosti v zmysle ustanovení § 3a ods. 1 zákona č. 513/1991 Zb. Obchodného zákonníka
+v znení neskorších predpisov a zákona č. 222/2004 Z. z. o DPH v znení neskorších predpisov. Neoddeliteľnou súčasťou
+faktúr bude protokol o odovzdaní a prevzatí diela spolu s dokladmi podľa bodu 5. článku 6. tejto zmluvy, potvrdený
+oprávneným zástupcom zhotoviteľa a oprávneným zástupcom objednávateľa, ktorí svojím podpisom potvrdia
+odovzdanie a prevzatie predmetu zmluvy. Okrem povinných náležitostí podľa vyššie uvedených právnych noriem musí
+faktúra obsahovať:
+–
+názov diela,
+–
+predmet úhrady,
+–
+číslo ZoD (dodatku k ZoD),
+–
+čiastku k úhrade spolu,
+–
+splatnosť faktúry.
+
+3.
+
+Faktúry budú predkladané v dvoch vyhotoveniach.
+
+4.
+
+V prípade, že faktúra nebude obsahovať náležitosti podľa predchádzajúcich bodov tohto článku zmluvy, objednávateľ
+má právo vrátiť ju zhotoviteľovi v lehote splatnosti na doplnenie a prepracovanie. V takomto prípade sa preruší lehota
+splatnosti a nová lehota splatnosti pre objednávateľa začne plynúť doručením opravenej resp. novej faktúry
+objednávateľovi.
+
+5.
+
+Podkladom pre vystavenie faktúry bude protokol o odovzdaní a prevzatí prác po úplnom ukončení diela, podľa bodu 5.
+článku 7. tejto zmluvy.
+
+6.
+
+Ak má dodávateľ sídlo v členskom štáte Európskej únie mimo územia Slovenskej republiky, faktúru podľa tohto článku
+vystaví v súlade s príslušnými predpismi záväznými v krajine jeho sídla.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 4 z/zo 12
+
+Článok 7.
+Dodacie a realizačné podmienky
+1.
+
+Zhotoviteľ je povinný zhotoviť a odovzdať dielo riadne a včas. Dielo je zhotovené a odovzdané riadne, ak spĺňa všetky
+požiadavky podľa zmluvy, podľa pokynov objednávateľa a zodpovedá predmetu zmluvy. Dielo musí byť zhotovené v
+kvalite stanovenej objednávateľom, právnymi predpismi a bez chýb, ktoré by mohli mať za následok vznik škody alebo
+inej ujmy na strane objednávateľa alebo tretej osoby.
+
+2.
+
+S informáciami a podkladmi označenými zhotoviteľom ako jeho obchodné tajomstvo, musí objednávateľ zaobchádzať dôverne.
+
+3.
+
+Zhotoviteľ vykoná v rámci svojich zmluvných plnení všetky potrebné vedľajšie, pomocné a dodatočné činnosti, ktoré
+síce nie sú objednávateľom výslovne špecifikované, ale sú pre úplnú, vecnú a odbornú realizáciu predmetu zmluvy zo
+strany zhotoviteľa, resp. funkčnosť, nevyhnutné. Za presné vymedzenie rozsahu plnenia predmetu zmluvy zodpovedná
+zhotoviteľ, ktorý je povinný dôkladne zvážiť všetky okolnosti plnenia predmetu tejto zmluvy do takej miery, aby bol
+schopný plnenie predmetu zmluvy zabezpečiť tak, aby bolo vykonané riadne a včas a v súlade so všetkými
+podmienkami stanovenými zmluvou. Ak sa v osobitných prípadoch, z objektívnych a nepredvídaných príčin vyskytne
+potreba realizácie činnosti nad rámec určený zmluvou, budú tieto zhotoviteľovi uhradené len na základe osobitného
+dodatku k zmluve, a to v prípade, že tieto činnosti neboli obsiahnuté v dokumentácii a pokynoch objednávateľa,
+predložených zhotoviteľovi pred podpisom zmluvy a boli objednávateľom odsúhlasené formou dodatku k tejto zmluve
+za podmienok uvedených v zmluve. To isté platí pre odchýlky a doplnky zmluvy, ktoré sú potrebné na základe
+zákonných a administratívnych ustanovení, predpisov a nariadení vydaných po podpísaní zmluvy. V uvedených
+prípadoch je nevyhnutné dodržať postup v súlade s bodom 3. článku 5 tejto zmluvy.
+
+4.
+
+Spolupôsobenie objednávateľa:
+a) Spolupôsobením objednávateľa sa rozumie plnenie povinnosti objednávateľa, ktoré je nevyhnutné k riadnemu
+a včasnému splneniu povinností zhotoviteľa, najmä k riadnemu a včasnému vykonaniu diela alebo jeho časti
+zhotoviteľom a k riadnemu a včasnému odstráneniu prípadných vád diela zhotoviteľom.
+b) Objednávateľ v rozsahu nevyhnutne potrebnom poskytne na vyzvanie zhotoviteľa súčinnosť pri zaobstarávaní
+podkladov potrebných pre realizáciu diela, doplňujúcich údajov, spresnení podkladov, vyjadrení a stanovísk,
+ktorých potreba vznikne v priebehu plnenia tejto zmluvy. Toto spolupôsobenie poskytne zhotoviteľovi vo
+vzájomne dohodnutom čase, inak v primeranej lehote.
+c) Objednávateľ zabezpečí účasť kompetentných zástupcov objednávateľa na rokovaniach počas realizácie diela na
+základe výzvy zhotoviteľa, a zabezpečí priebežné prerokovanie predkladaných návrhov technických a technologických riešení v záujme zabezpečenia plynulého postupu pri zhotovovaní diela.
+
+5.
+
+Odovzdanie diela:
+a) Dielo sa považuje za dokončené dňom odovzdania diela objednávateľovi písomným protokolom o odovzdaní
+a prevzatí diela, pričom protokol musí byť podpísaný štatutárnymi zástupcami obidvoch zmluvných strán a musí
+byť v ňom vyjadrené, že dielo je odovzdané bez závad a nedorobkov, ktoré bránia jeho trvalému, či dočas nému užívaniu.
+b) Preberací protokol bude obsahovať označenie diela, číslo zmluvy, dátum podpisu preberacieho protokolu, podpis
+zmluvných strán.
+c) Protokolárnym prevzatím diela objednávateľom prechádza vlastnícke právo a nebezpečenstvo škody na
+objednávateľa.
+d) Prevzatie predmetu diela môže byť odmietnuté pre závady a nedorobky a to až do termínu ich odstránenia.
+e) Zhotoviteľ je povinný najneskôr 10 kalendárnych dní vopred písomne oznámiť objednávateľovi, kedy bude dielo
+pripravená na odovzdanie.
+f) Zhotoviteľ je na preberacie konanie povinný pripraviť návrh odovzdávacieho a preberacieho protokolu a všetky
+svoje doklady vrátane zoznamu týchto dokladov tak, aby ich porovnaním s dokladmi objednávateľa sa zabezpečilo
+úplné a rýchle odovzdanie a prevzatie a to v písomnej forme, prípadne na CD (DVD a pod.).
+g) Objednávateľ nie je povinný prevziať dokončené dielo, iba ak zistené vady a nedorobky bránia plneniu jeho účelu.
+h) Ak objednávateľ odmieta dielo prevziať, je povinný uviesť dôvody. Po odstránení dôvodov neprevzatia sa opakuje
+preberacie konanie v nevyhnutnom rozsahu a spíše sa dodatok k pôvodnému odovzdávaciemu a preberaciemu protokolu.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 5 z/zo 12
+
+Článok 8.
+Zodpovednosť za vady
+1.
+
+Zhotoviteľ zodpovedá za tie vady diela, ktoré malo v čase odovzdania a prevzatia a vady vzniknuté po tomto čase, ak
+vznikli porušením povinností zhotoviteľa.
+
+2.
+
+Zhotoviteľ je zodpovedný za to, že predmet plnenia má v dobe prevzatia zmluvne dohodnuté vlastnosti, že nemá vady,
+ktoré by rušili, alebo znižovali hodnotu alebo schopnosť jeho používania k zvyčajným alebo v zmluve predpokladaným
+účelom.
+
+3.
+
+Ak odovzdané dielo bude mať vady, má objednávateľ právo na dodatočné bezplatné odstránenie vád, a to odstránenie
+vád dodaním náhradného plnenia alebo dodanie chýbajúceho plnenia alebo odstránenie právnych vád alebo
+odstránenie vád opravou. Ak vady nie je možné úplne odstrániť a takéto vady nebránia riadnemu užívaniu diela
+v súlade s účelom diela, má objednávateľ nárok na primeranú zľavu z ceny, ktorá bude dohodnutá medzi zmluvnými
+stranami. Spôsob odstránenia vady oznámi objednávateľ v oznámení o vadách diela.
+
+4.
+
+Na žiadosť objednávateľa je zhotoviteľ povinný bez zbytočného odkladu vady diela odstrániť, i keď neuznáva, že za vady
+zodpovedá. V sporných prípadoch znáša náklady až do rozhodnutia o reklamácii zhotoviteľ.
+
+5.
+
+Ak je vada, ktorá podstatne ovplyvňuje použiteľnosť diela zavinená zhotoviteľom a objednávateľovi vznikla z dôvodu
+vady škoda, je zhotoviteľ povinný uhradiť objednávateľovi túto škodu v zmysle § 373 a nasl. Obchodného zákonníka.
+
+6.
+
+Zhotoviteľ sa zaväzuje, že prípadné vady diela odstráni bezplatne do 3 pracovných dní po uplatnení oprávnenej
+reklamácie alebo v inej lehote, ktorá bude písomne dohodnutá na úrovni poverených zástupcov zmluvných strán.
+Ak zhotoviteľ neodstráni vady v dohodnutej lehote podľa prvej vety tohto bodu, je povinný zaplatiť objednávateľovi
+zmluvnú pokutu podľa bodu 2. článku 9 tejto zmluvy.
+
+7.
+
+Zhotoviteľ nezodpovedá za vady spôsobené dodržaním nevhodných pokynov daných mu objednávateľom,
+ak zhotoviteľ na nevhodnosť týchto pokynov upozornil a objednávateľ na ich dodržaní trval alebo ak zhotoviteľ túto
+nevhodnosť ani pri vynaložení odbornej starostlivosti nemohol zistiť. Prípadné upozornenie na nevhodnosť a taktiež
+odpoveď na takéto upozornenie je potrebné vykonať vždy písomnou formou osobitným listom. Vyjadrovanie sa
+objednávateľa k použitiu ním predložených vecí alebo navrhovaných podkladov, materiálov alebo prvkov alebo
+uložených pokynov, ak na ich nevhodnosť zhotoviteľ upozornil, je súčasťou povinností objednávateľa v rámci
+poskytnutia jeho spolupôsobenia zhotoviteľovi pri realizácii diela.
+
+8.
+
+Prípadnú reklamáciu vady plnenia predmetu tejto zmluvy je objednávateľ povinný uplatniť u zhotoviteľa v súlade
+s § 562 Obchodného zákonníka v platnom znení.
+
+9.
+
+V ostatných prípadoch, neupravených touto zmluvou, budú zmluvné strany postupovať podľa príslušných ustanovení
+Obchodného zákonníka.
+
+Článok 9.
+Zmluvné pokuty a úroky z omeškania
+1.
+
+Pri omeškaní zhotoviteľa s vykonaním diela podľa bodu 1. článku 4 tejto zmluvy má objednávateľ voči zhotoviteľovi
+právo na zaplatenie zmluvnej pokuty vo výške 0,5 % z ceny časti diela s ktorým je v omeškaní (bez DPH) za každý deň
+omeškania. V prípade uplatnenia je zhotoviteľ povinný túto zmluvnú pokutu uhradiť.
+
+2.
+
+Pri omeškaní zhotoviteľa s odstraňovaním vady je zhotoviteľ, v prípade uplatnenia zmluvnej pokuty objednávateľom,
+povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 0,2 % z ceny diela, a to za každý deň omeškania
+s odstránením vady až do úplného odstránenia vady diela.
+
+3.
+
+Zmluvné strany sa dohodli, že zmluvná pokuta môže byť z fakturovanej čiastky odpočítaná alebo bude vykonaný zo
+strany objednávateľa jednostranný zápočet.
+
+4.
+
+V prípade omeškania objednávateľa s úhradou peňažných záväzkov zhotoviteľovi (úhrada faktúr) má zhotoviteľ voči
+objednávateľovi právo na zaplatenie úroku z omeškania z dlžnej sumy, a to vo výške 0,2% z fakturovanej a neuhradenej
+sumy za každý aj začatý deň omeškania s úhradou.
+
+5.
+
+Zmluvné pokuty a úroky z omeškania, dohodnuté touto zmluvou hradí povinná strana nezávisle od toho, či a v akej
+výške vznikne druhej zmluvnej strane v tejto súvislosti škoda, ktorú možno, podľa príslušných ustanovení Obchodného
+zákonníka, vymáhať samostatne.
+
+6.
+
+Lehota splatnosti zmluvnej pokuty a úroku z omeškania podľa tohto článku zmluvy je 14 dní odo dňa ich písomného
+uplatnenia príslušnou zmluvnou stranou.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 6 z/zo 12
+
+7.
+
+Zmluvné strany prehlasujú, že výška zmluvných pokút je primeraná, je v súlade so zásadami poctivého obchodného
+styku a bola dohodnutá s prihliadnutím na význam zabezpečovaných povinností.
+
+Článok 10.
+Ochrana dôverných informácií a osobných údajov
+1.
+
+Zmluvné strany budú zachovávať mlčanlivosť o dôverných informáciách získaných pri plnení záväzkov z tejto zmluvy.
+Dôvernými informáciami nie sú informácie, ktoré sa bez porušenia tejto zmluvy stali verejne známymi, informácie
+získané oprávnene inak, ako od druhej zmluvnej strany a informácie, ktoré je objednávateľ povinný sprístupniť alebo
+zverejniť podľa zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov (zákon o slobode informácií) alebo informácií, ktoré je povinný zverejniť podľa príslušných
+ustanovení zákona o verejnom obstarávaní.
+
+2.
+
+Zhotoviteľ sa zaväzuje, že nedôjde k zneužitiu, resp. že neposkytne materiály týkajúce sa predmetu zákazky tretím
+osobám a zachová mlčanlivosť o všetkých skutočnostiach, o ktorých sa dozvedel pri realizácii tejto zmluvy. To neplatí,
+ak je poskytnutie týchto materiálov, resp. sprístupnenie informácií o skutočnostiach, o ktorých sa dozvedel pri realizácii
+tejto zmluvy, potrebné pre realizáciu diela podľa tejto zmluvy.
+
+3.
+
+Zhotoviteľ v súlade so zákonom č. 18/2018 Z. z. o ochrane osobných údajov v znení neskorších predpisov zabezpečí
+dodržiavanie povinnosti, vyplývajúcich z tohto zákona aj zo strany svojich zamestnancov a všetkých osôb, ktoré v rámci
+plnenia zmluvy prídu do styku s osobnými údajmi u objednávateľa.
+
+4.
+
+Zmluvné strany sa zaväzujú, že upovedomia druhú stranu o porušení povinnosti mlčanlivosti bez zbytočného odkladu
+potom, ako sa o takomto porušení dozvedeli.
+
+5.
+
+Zmluvné strany budú ochraňovať dôverné informácie druhej strany, a to s rovnakou starostlivosťou ako ochraňujú
+vlastné dôverné informácie rovnakého druhu, vždy však najmenej v rozsahu primeranej odbornej starostlivosti.
+
+6.
+
+Povinnosť zachovávať mlčanlivosť sa nevzťahuje na prípady, ak na základe zákona alebo na základe rozhodnutia
+príslušného orgánu vznikla povinnosť zverejniť dôvernú informáciu druhej zmluvnej strany alebo jej časť. O vzniku
+takejto povinnosti sa budú zmluvné strany vzájomne informovať bez zbytočného odkladu.
+
+7.
+
+Ustanovenia odsekov tohto článku zmluvy sú platné aj po skončení jej platnosti, a to až do doby, kedy informácie sa
+stanú verejne známymi.
+
+Článok 11.
+Doručovanie
+1.
+
+Doručením sa rozumie prijatie zásielky zmluvnou stranou, ktorej bola adresovaná.
+
+2.
+
+Akékoľvek písomnosti podľa tejto zmluvy sa doručujú na adresu tej, ktorej zmluvnej strane uvedenej pri označení
+zmluvných strán v čl. 1 tejto zmluvy, pokiaľ nie je zmena adresy písomne oznámená formou doručenky druhej zmluvnej
+strane. V prípade, ak sa doručovanú zásielku nepodarí riadne doručiť, považuje sa zásielka za doručenú v súlade
+s týmto článkom zmluvy.
+
+3.
+
+Za deň doručenia zásielky sa považuje deň
+a) v ktorom ju strana, ktorej bola adresovaná odoprela prijať,
+b) ktorým márne uplynula odberná lehota pre jej vyzdvihnutie na pošte alebo
+c) v ktorý bola na nej zamestnancom pošty vyznačená poznámka, že „adresát sa odsťahoval“, „adresát je neznámy“
+alebo iná poznámka, ktorá podľa platného poštového poriadku znamená nedoručiteľnosť zásielky.
+
+Článok 12.
+Subdodávatelia a „iné osoby“
+1.
+
+Podľa § 2 ods. 5 písm. e) ZVO subdodávateľom je hospodársky subjekt, ktorý uzavrie alebo uzavrel s úspešným
+uchádzačom (zhotoviteľom) písomnú odplatnú zmluvu na plnenie určitej časti zákazky (tejto zmluvy).
+
+2.
+
+Objednávateľ podpisom tejto zmluvy akceptuje subdodávateľov zhotoviteľa, ktorí spĺňajú podmienky účasti osobného
+postavenia podľa § 32 ods. 1 ZVO a neexistuje u nich dôvod na vylúčenie podľa § 40 ods. 6 písm. a) až h) a ods. 7 ZVO,
+ktorí sú zapísaní v registri partnerov verejného sektora, podľa podmienok a požiadaviek zákona č. 315/2016 Z. z.
+o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov počas celého obdobia trvania tejto
+zmluvy. Identifikácia subdodávateľov, predmet a rozsah ich subdodávok je uvedená v Prílohe č. 2 tejto zmluvy.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 7 z/zo 12
+
+Identifikácia subdodávateľov podľa predchádzajúcej vety je uvedená v rozsahu: názov/obchodné meno/meno
+a priezvisko, sídlo/adresa pobytu, IČO/dátum narodenia ak nebolo IČO pridelené, podiel predmetu zmluvy, predmet
+subdodávky a tiež údaje o osobe oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko, adresa pobytu,
+dátum narodenia.
+3.
+
+Zhotoviteľ je povinný bezodkladne oznámiť objednávateľovi akúkoľvek zmenu údajov o subdodávateľovi. Zhotoviteľ
+je povinný bezodkladne oznámiť objednávateľovi zmenu subdodávateľa a údaje podľa predchádzajúceho bodu 2.
+tohto článku.
+
+4.
+
+Zhotoviteľ je povinný pred začatím plnenia predmetu zmluvy zabezpečiť, aby subdodávateľ preukázal objednávateľovi
+splnenie podmienok účasti podľa § 32 ods. 1 ZVO v lehote 5 pracovných dní odo dňa podpisu tejto zmluvy oboma
+zmluvnými stranami, ak tak nebolo urobené skôr. Ak subdodávateľ nespĺňa podmienky osobného postavenia podľa
+§ 32 ods. 1 ZVO, v nadväznosti na požiadavku podľa § 41 ods. 1 písm. b) ZVO, objednávateľ písomne požiada zhotoviteľa
+o jeho nahradenie. Zhotoviteľ je povinný návrh nového subdodávateľa doručiť objednávateľovi do 5 pracovných dní
+odo dňa doručenia žiadosti. V prípade, že nový subdodávateľ nepreukáže v uvedenej lehote splnenie podmienok účasti
+podľa § 32 ods. 1 ZVO, plnenie podielu predmetu zmluvy nie je oprávnený zabezpečiť a za riadne plnenie podielu
+predmetu zmluvy, ktorý mal zabezpečiť tento subdodávateľ, je zodpovedný zhotoviteľ, v zmysle jeho ponuky
+a tejto zmluvy.
+
+5.
+
+Zapísanie subdodávateľov v registri partnerov verejného sektora overuje objednávateľ v informačnom systéme –
+Register partnerov verejného sektora. Údaje zapísané v registri nie je podľa § 3 ods. 2 zákona č. 315/2016 Z. z. potrebné
+pred orgánmi verejnej moci preukazovať.
+
+6.
+
+Pri plnení predmetu zmluvy subdodávateľom má zhotoviteľ zodpovednosť akoby predmet zmluvy plnil sám.
+
+7.
+
+K zadaniu určitého podielu predmetu zmluvy subdodávateľovi, neuvedeného v Prílohe č. 2 tejto zmluvy alebo k zmene
+subdodávateľa uvedeného v Prílohe č. 2 zmluvy počas plnenia predmetu tejto zmluvy môže dôjsť len na základe
+písomného dodatku k tejto zmluve, podpísaného oboma zmluvnými stranami, neoddeliteľnou prílohou ktorého bude
+preukázanie, že subdodávateľ spĺňa podmienky uvedené v § 32 ods.1 ZVO a neexistujú u neho dôvody na vylúčenie
+podľa § 40 ods. 6 písm. a) až h) a ods. 7 ZVO a overenie zapísania subdodávateľa v registri partnerov verejného sektora
+zo strany objednávateľa, podľa podmienok zákona č. 315/2016 Z. z., pred podpisom takéhoto dodatku k zmluve.
+
+8.
+
+V prípade ak je subdodávateľom tzv. „iná osoba“ v kontexte § 34 ods. 3 posledná veta ZVO v spojení s § 34 ods. 1
+písm. g) ZVO, prostredníctvom ktorej zhotoviteľ preukazoval splnenie podmienok účasti vo verejnom obstarávaní tejto
+zákazky, ktorá je objednávateľovi známa ku dňu podpisu tejto zmluvy a spĺňa podmienky účasti týkajúce sa osobného
+postavenia a neexistujú u nej dôvody na vylúčenie podľa § 40 ods. 6 písm. a) až h) a ods. 7 ZVO, vyžaduje sa, aby táto
+„iná osoba“ ako subdodávateľ reálne vykonávala stavebné práce alebo služby, na ktoré poskytuje kapacity
+zhotoviteľovi počas celého obdobia platnosti tejto zmluvy v rozsahu svojho záväzku, uvedenom v osobitnej písomnej
+zmluve, predloženej v ponuke zhotoviteľa a poskytla svoje kapacity zhotoviteľovi počas celého obdobia platnosti tejto
+zmluvy v rozsahu podľa špecifikácie v Prílohe č. 2 tejto zmluvy.
+
+9.
+
+V prípade tzv. „iných osôb“ v kontexte ustanovenia § 33 ods. 2 ZVO alebo § 34 ods. 3 ZVO (ustanovenie
+predchádzajúceho bodu 8. týmto nie je dotknuté), prostredníctvom ktorých zhotoviteľ preukazoval splnenie ďalších
+podmienok účasti vo verejnom obstarávaní tejto zákazky, ktoré spĺňajú podmienky účasti týkajúce sa osobného
+postavenia a neexistujú u nich dôvody na vylúčenie podľa § 40 ods. 6 písm. a) až h) a ods. 7 ZVO, vyžaduje sa, aby sa
+tieto „iné osoby“ reálne podieľali na plnení tejto zmluvy v rozsahu svojho záväzku, uvedenom v osobitnej písomnej
+zmluve, predloženej v ponuke zhotoviteľa a poskytli svoje zdroje alebo kapacity zhotoviteľovi počas celého obdobia
+platnosti tejto zmluvy podľa špecifikácie v Prílohe č. 2 tejto zmluvy. Zhotoviteľ špecifikuje v Prílohe č. 2 zmluvy na
+základe záväzkov „iných osôb“ podľa osobitnej písomnej zmluvy, predloženej v ponuke zhotoviteľa, ak to je uplatniteľné.
+Ak nie je ustanovenie bodu 8. a 9. uplatniteľné, zhotoviteľ uvedie v Prílohe č. 2 text: „Nie je uplatniteľné“.
+
+10. V prípade, že pred podpisom zmluvy alebo počas plnenia tejto zmluvy z objektívnych dôvodov, odôvodniteľne vznikne
+potreba pre zmenu „inej osoby“ podľa predchádzajúcich bodov 8. a 9., postupuje sa primerane podľa úpravy pre
+subdodávateľov podľa tohto článku zmluvy formou dodatku k zmluve. Ak z hľadiska predmetu a rozsahu záväzku „inej
+osoby“ špecifikovaného v Prílohe č. 2, má táto povinnosti zapisovať sa ako subdodávateľ do registra partnerov
+verejného sektora podľa príslušných ustanovení zákona č. 315/2016 Z. z., objednávateľ pred podpisom tejto zmluvy
+alebo pred podpisom dodatku k zmluve overuje zápis v registri partnerov verejného sektora.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 8 z/zo 12
+
+Článok 13.
+Riešenie sporov
+1.
+
+V prípade sporov, ktoré nebude možné riešiť dohodou zmluvných strán, požiada jedna zo zmluvných strán
+o rozhodnutie súd.
+
+2.
+
+Spory zmluvných strán neoprávňujú zhotoviteľa zastaviť plnenie predmetu zmluvy.
+
+3.
+
+Zmluvný vzťah sa bude riadiť právnym poriadkom Slovenskej republiky. Spory bude rozhodovať vecne príslušný súd
+Slovenskej republiky.
+
+Článok 14.
+Ukončenie zmluvy
+1.
+
+Zmluvné strany môžu túto zmluvu ukončiť pred uplynutím doby jej platnosti:
+a) písomnou dohodou alebo
+b) odstúpením od zmluvy podľa § 344 a nasl. Obchodného zákonníka z dôvodu podstatného porušenia zmluvných
+povinností vyplývajúcich z tejto zmluvy.
+
+2.
+
+Spôsob ukončenia zmluvy nemá vplyv na plynutie záručnej doby.
+
+3.
+
+Za podstatné porušenie povinností budú zmluvné strany považovať porušenie povinnosti vyplývajúcej zo zmluvy a to:
+a) ak zhotoviteľ bude v omeškaní s uskutočnením predmetu zmluvy tak, ako to určuje táto zmluva v čl. 4 alebo ak
+preruší práce na diele na dlhšie ako na 10 kalendárnych dní bez súhlasu objednávateľa a to z dôvodu
+spočívajúceho na strane zhotoviteľa,
+b) ak zhotoviteľ aj napriek písomnému upozorneniu objednávateľa pokračuje vo vadnom plnení alebo ak aj napriek
+upozorneniu, v primeranej lehote určenej mu na odstránenie vady, vadu neodstránil,
+c) ak bolo počas platnosti tejto zmluvy právoplatne rozhodnuté, že zhotoviteľ porušil všeobecne záväzné právne
+predpisy v oblasti pracovného práva, sociálneho práva alebo ďalšie predpisy, k dodržiavaniu ktorých sa zaviazal
+v tejto zmluve,
+d) ak objednávateľ bude v omeškaní s úhradou faktúry o viac ako 30 kalendárnych dní od dohodnutého termínu
+splatnosti faktúry.
+
+4.
+
+Objednávateľ má právo odstúpiť od zmluvy aj v prípade, ak bol počas platnosti tejto zmluvy vyhlásený na majetok
+zhotoviteľa konkurz, začaté konkurzné konanie alebo zamietnutý návrh na vyhlásenie konkurzu pre nedostatok
+majetku alebo zhotoviteľ vstúpil do likvidácie.
+
+5.
+
+Objednávateľ má právo odstúpiť od zmluvy aj v prípade neschválenia resp. krátenia účelových finančných prostriedkov
+určených na financovanie predmetu zmluvy zo strany správcu rozpočtovej kapitoly, a to bez akýchkoľvek sankcií zo
+strany zhotoviteľa.
+
+6.
+
+Odstúpenie od zmluvy sa nedotýka právnych vzťahov vzniknutých do okamihu odstúpenia od zmluvy. Obe strany sa
+zaväzujú splniť a vysporiadať si svoje záväzky vzniknuté pred odstúpením od zmluvy, a to najneskôr do 30 dní odo dňa
+odstúpenia.
+
+7.
+
+Účinky odstúpenia nastávajú dňom doručenia oznámenia o odstúpení jednej zmluvnej strany druhej zmluvnej strane.
+
+Článok 15.
+Ostatné práva a povinnosti
+1.
+
+Všetky zmluvné dokumenty sa musia vypracovať v slovenskom jazyku. Všetky hodnoty, výmery budú označované v
+slovenskom jazyku.
+
+2.
+
+Zhotoviteľ nesmie bez predchádzajúceho písomného súhlasu objednávateľa previesť záväzky zo zmluvy na tretiu osobu.
+
+3.
+
+Zhotoviteľ sa zaväzuje, že bez predchádzajúceho písomného súhlasu objednávateľa neprevedie na inú osobu akékoľvek
+pohľadávky, ktoré mu vzniknú podľa tejto zmluvy.
+
+4.
+
+Zhotoviteľ sa zaväzuje, že počas platnosti zmluvy nebude uskutočňovať právne úkony smerujúce k prevodu práv
+a povinností vyplývajúce z tejto zmluvy (singulárne, príp. univerzálne právne nástupníctvo) na iné subjekty bez
+predchádzajúceho písomného súhlasu objednávateľa. Uvedené právne úkony bez predchádzajúceho písomného
+súhlasu budú voči objednávateľovi od samého začiatku právne neúčinné a objednávateľ je v takomto prípade
+oprávnený odstúpiť od tejto zmluvy.
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 9 z/zo 12
+
+Článok 16.
+Záverečné ustanovenia
+1.
+
+Pokiaľ v tejto zmluve nebolo dohodnuté niečo iné, vzájomné vzťahy zmluvných strán sa riadia ustanoveniami
+Obchodného zákonníka a subsidiárne ustanoveniami Občianskeho zákonníka a ostatnými všeobecne záväznými
+právnymi predpismi a ustanoveniami zákona o verejnom obstarávaní.
+
+2.
+
+Zmeny a doplnky tejto zmluvy je možné robiť len písomnými dodatkami podpísaný mi oprávnenými zástupcami oboch
+zmluvných strán, tak aby boli tieto dodatky prijaté v súlade s príslušnými všeobecne záväznými právnymi predpismi.
+Dodatky budú očíslované podľa poradia.
+
+3.
+
+Akékoľvek písomnosti podľa tejto zmluvy sa doručujú na adresu tej ktorej zmluvnej strane uvedenej pri označení
+zmluvných strán v čl. 1 tejto zmluvy, pokiaľ nie je zmena adresy písomne oznámená formou doručenky druhej zmluvnej
+strane. V prípade, ak sa podľa predchádzajúcich ustanovení doručovanú zásielku nepodarí riadne doručiť, považuje sa
+zásielka za doručenú v súlade s čl. 11 tejto zmluvy.
+
+4.
+
+V prípade akejkoľvek zmeny adresy alebo kontaktných údajov určených na doručovanie písomností na základe tejto
+zmluvy alebo v súvislosti s touto zmluvou sa zmluvná strana zaväzuje o zmene adresy a kontaktných údajov
+bezodkladne písomne informovať druhú zmluvnú stranu, v takomto prípade je pre doručovanie rozhodujúca nová
+adresa a nové kontaktné údaje riadne oznámené druhej zmluvnej strane.
+
+5.
+
+V prípade, že je alebo ak sa stane niektoré ustanovenie tejto zmluvy neplatné, zostávajú ostatné ustanovenia tejto
+zmluvy platné a účinné. Miesto neplatného ustanovenia sa použijú ustanovenia všeobecne záväzných právnych
+predpisov upravujúce otázku vzájomného vzťahu zmluvných strán. Zmluvné strany sa potom zaväzujú upraviť svoj
+vzťah prijatím iného ustanovenia, ktoré svojím obsahom a povahou najlepšie zodpovedá zámeru neplatného
+ustanovenia.
+
+6.
+
+Zmluva je vyhotovená v piatich rovnopisoch s platnosťou originálu, tri rovnopisy pre objednávateľa a dva rovnopisy pre
+zhotoviteľa.
+
+7.
+
+Zmluva sa uzatvára na dobu realizácie predmetu tejto zmluvy podľa čl. 4 a nadobúda platnosť dňom jej podpísania
+zmluvnými stranami a účinnosť dňom nasledujúcim po dni jej zverejnenia v súlade s § 47a zákona č. 40/1964 Zb.
+Občianskeho zákonníka v znení neskorších predpisov.
+
+8.
+
+Zmluvné strany vyhlasujú, že si túto zmluvu prečítali, jej obsahu a právnym účinkom z nej vyplývajúcim porozumeli.
+Táto zmluva nebola podpísaná v tiesni ani za nápadne nevýhodných podmienok a na znak súhlasu s jej obsahom túto
+vlastnoručne podpisujú.
+Prílohami tejto zmluvy sú:
+Príloha č. 1 – Ponuka zhotoviteľa
+Príloha č. 2 – Zoznam subdodávateľov a „iných osôb“
+
+Za objednávateľa:
+
+Za zhotoviteľa:
+
+V Bratislave dňa …...........................
+
+V Bratislave dňa …...........................
+
+Mgr. Kamil Peteraj
+generálny tajomník služobného úradu
+Ministerstvo kultúry Slovenskej republiky
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+Mgr. Martin Sepp,
+konateľ
+Plaut Slovensko, s.r.o.
+
+strana 10 z/zo 12
+
+Príloha č. 1 k Zmluve o dielo – Ponuka zhotoviteľa
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 11 z/zo 12
+
+Príloha č. 2 k Zmluve o dielo – Zoznam subdodávateľov a „iných osôb“
+Nie je uplatniteľné
+
+Zmluva o dielo Ev. č. MK – 62/2019/M
+
+strana 12 z/zo 12
+
+

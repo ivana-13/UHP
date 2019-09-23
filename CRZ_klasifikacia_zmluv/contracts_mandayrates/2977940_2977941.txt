@@ -1,0 +1,1534 @@
+Rámcová dohoda č. Z201727450_Z
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Centrum vedecko-technických informácií Slovenskej republiky
+Lamačská cesta 8/A, 81104 Bratislava, Slovenská republika
+00151882
+2020798395
+SK2020798395
+SK05 8180 0000 0070 0006 4743
++421 269253190
+
+Dodávateľ:
+Obchodné meno:
+
+SVOP, spol. s r.o.
+
+Sídlo:
+
+Pod rovnicami 730/2, 84104 Bratislava, Slovenská republika
+
+IČO:
+
+30775264
+
+DIČ:
+
+2020314945
+
+IČ DPH:
+
+SK2020314945
+
+Číslo účtu:
+
+SK18 1100 0000 0026 2943 1851
+
+Telefón:
+
++421 905 412 681
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+(3) Doplnenie funkcionalít softvéru, vývoj softvéru "Centrálny register evidencie publikačnej
+činnosti II" , nákup softvéru s licenciou
+
+Kľúčové slová:
+
+doplnenie funkcionalít softvéru, vývoj a implementácia softvéru CREPČII, súvisiace
+služby, nákup softvéru s licenciou
+
+CPV:
+
+72212190-7 - Služby na vývoj softvéru pre oblasť vzdelávania; 48614000-5 - Systémy
+zberu údajov; 72263000-6 - Implementácia softvéru
+
+Druh/y:
+
+Služba; Tovar
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Vývoj a implementácia softvéru, doplnenie funkcionalít softvéru "Centrálny register evidencie publikačnej činnosti II",
+nákup softvéru s licenciou
+• Softvérový balík Centrálny register evidencie publikačnej činnosti II, nákup softvéru s licenciou
+• Rámcová dohoda na 3 mesiace
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Vývoj softvéru
+
+súbor činností
+
+1
+
+Implementácia softvéru
+
+súbor činností
+
+1
+
+Softvér CREPČII alebo ekvivalent
+
+súbor
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1.Rozsah:
+
+Doplnené moduly a funkcionality umožnia spustenie projektu
+CREPČ II do pilotnej prevádzky. Predmetom modernizácie bude
+nastavenie používateľom (user-om) systému ich pracovisko
+
+1.Rozsah:
+
+korešpondujúce s vykazujúcim pracoviskom.
+Strana 1 z 12
+
+Minimum
+
+Maximum
+
+Presne
+
+Rozsah:
+
+Na základe takéhoto nastavenia bude ďalej možné nastaviť práva
+používateľom nad formulármi v zmysle vypĺňania údajov a
+kontrole, a zároveň obmedzeniu práv ukladania formulárov a s tým
+súvisiacimi zmen
+
+Rozsah:
+
+zmenami vo formulároch.
+
+1.Rozsah:
+
+Na základe nastavenia pracoviska používateľom bude možné
+sledovať posledné zmenené záznamy v rámci samého používateľa
+a aj voči jeho domovskému pracovisku. Takéto nastavenie
+prostredia
+
+1.Rozsah:
+
+umožní vytvorenie nových faziet pre filtrovanie zmien v pracovnom
+zozname.
+
+1.Rozsah:
+
+Predmetom úprav sú aj detaily biblio záznamov a záznamov entít
+na základe zozbieraných požiadaviek zadávateľa.Rovnako budú
+upravené aj podmienky vyhľadávania, ktoré budú upravené a
+doplnené.
+
+1.Rozsah:
+
+V rámci vývoja budú realizované aj funkčné a dizajnové úpravy
+faziet. Systém bude ďalej ponúkať kopírovanie záznamov aj zo
+zoznamu záznamov aj zo záznamov entít a bude vytvorený nový
+zoznam
+
+1.Rozsah:
+
+vymazaných záznamov a zoznam zmenených záznamov
+
+1.Rozsah:
+
+Nevyhnutné pre spustenie do pilotnej prevádzky je kvôli ochrane
+vložených dát vytvorenie v prostredí administrácie nové práva,
+ktoré sa budú aplikovať na používateľské skupiny.
+
+1.Rozsah:
+
+Ako posledné požiadavky zadávateľa, ktoré budú nasadené v tejto
+fáze, bude vývoj importu dát osôb a pracovísk z portálu vysokých
+škôl a bibliografických dát časopisov a dát evidencie publikačnej
+
+1.Rozsah:
+
+činnosti z portálu CREPČ I, a to od roku 2014.
+
+1.Rozsah:
+
+Následne bude celé prostredie testované v rámci všetkých fáz
+vývoja, aby mohol byť systém nasadený do pilotnej prevádzky.
+
+1.Rozsah:
+
+Po úspešnom nasadení systému bude nasledovať školenie
+používateľov na úrovni administrácie a obsluhy systému.
+
+2.Prehľad
+
+Pre zavedenie pilotnej prevádzky je potrebné analyzovať, vyvinúť a
+nasadiť do skúšobnej prevádzky nasledovné moduly.
+
+2.Prehľad - Administrácia – pracovisko používateľa
+
+• Upravené prostredie používateľov tak, aby sa dali pridávať ich
+pracoviská na prvej úrovni.
+
+2.Prehľad - Administrácia – pracovisko používateľa
+
+• Pracoviská sú identické s vykazujúcimi pracoviskami.• V
+administrácii pribudne právo na pridanie pracoviska používateľovi.
+
+2.Prehľad - Štruktúra údajov
+
+• Nastavenie stavov bibliografických záznamov:1. rozpracovaný
+záznam – vidia všetci prihlásení používatelia. Editovať ho môže len
+škola, ktorá vytvorila záznam;
+
+2.Prehľad - Štruktúra údajov
+
+2. zapísaný záznam – môže meniť prihlásený používateľ z
+ktorejkoľvek školy;3. potvrdený záznam – môže meniť prihlásený
+používateľ z ktorejkoľvek školy, vymazať
+
+2.Prehľad - Štruktúra údajov
+
+autorov však nemôže zo záznamov, ktoré majú príznak
+vykazujúce;4. až keď bude záznam v stave potvrdený, bude k
+dispozícii pre objednávateľa.
+
+2.Prehľad - Štruktúra údajov
+
+• Potvrdenému záznamu sa už nebude dať spätne zmeniť stav
+na iný (nižší) stav.
+
+2.Prehľad - Štruktúra údajov
+
+• Povinnosť údajov viazaná na konkrétny stav záznamov:1.
+stav rozpracovaný - povinný bude len hlavný názov dokumentu;
+
+2.Prehľad - Štruktúra údajov
+
+2. stav zapísaný a vyššie - validované budú všetky údaje, ktoré
+budú mať nastavenú kontrolu hodnôt;
+
+2.Prehľad - Štruktúra údajov
+
+3.
+
+2.Prehľad - Detaily
+
+• Doplnenie a úprava detailov:1. biblio, 2. časopis, 3. článok, 4.
+kapitola / príspevok,5. entít.
+
+2.Prehľad - Vyhľadávanie
+
+• Doplniť podmienky vyhľadávania pre rozšírené vyhľadávanie.
+
+2.Prehľad - Fazety
+
+• Úprava prostredia vyhľadávania.
+
+stav potvrdený – k dispozícii pre objednávateľa.
+
+Strana 2 z 12
+
+2.Prehľad -Výstupy
+
+• Dva výstupy, obsahovo identické s výstupmi existujúcimi v
+CREPČ I:1. štatistický výstup na školy,2. menný výstup na autora.
+
+2.Prehľad - Výstupy
+
+• Prostredie pre vytváranie PDF a excel súborov.•
+bude rok vydania.
+
+2.Prehľad - Výstupy
+
+• Zobrazovanie bude file systémom, podobne, ako je to v CREPČ
+I.• Bude nastavené zobrazovanie výstupov až po prihlásení
+používateľov.
+
+2.Prehľad - Výstupy
+
+•
+
+Bude nastavené právo na generovanie výstupov.
+
+2.Prehľad - Odosielania emailu
+
+•
+
+Úprava prostredia odosielania emailu.
+
+2.Prehľad - Kopírovanie záznamov zo zoznamu
+
+•
+
+Kopírovanie záznamov aj zo zoznamu záznamov.
+
+2.Prehľad - Zoznam zmenených záznamov
+
+• Prostredie pre zobrazovanie naposledy zmenených záznamov
+formou zoznamu:1. biblio;2. entity.
+
+2.Prehľad - Zoznam zmenených záznamov
+
+• Zoznam zmenených bude nastavený nasledovne:1.
+zmenené záznamy používateľa,
+
+2.Prehľad - Zoznam zmenených záznamov
+
+2. posledné zmenené záznamy školy,3.
+záznamy všetky.
+
+2.Prehľad - Zoznam zmenených záznamov
+
+•
+
+2.Prehľad - Zoznam zmenených záznamov
+
+• Bude nastavená fazeta nad týmito pracovnými zoznamami:1.
+posledné zmenené za 1 deň,
+
+2.Prehľad - Zoznam zmenených záznamov
+
+2. posledné zmenené za 1 týždeň,3.
+mesiac.
+
+2.Prehľad - Zoznam zmenených záznamov
+
+• Bude sa zobrazovať posledných 100 aktuálnych záznamov.•
+Zoznamy budú stránkované.
+
+2.Prehľad - Zoznam vymazaných záznamov
+
+•
+
+Prostredie zobrazujúce vymazané záznamy.
+
+2.Prehľad - Vytvorenie a nastavenie práv
+
+•
+
+Vytvorené a nastavené nové systémové práva.
+
+2.Prehľad - Import dát
+
+•
+
+Import zamestnancov pracovísk.•
+
+2.Prehľad - Import dát
+
+• Import časopisov.• Import záznamov z CREPČ 1 od roku
+2014, z importovaných dát ďalej:
+
+2.Prehľad - Import dát
+
+1.
+
+2.Prehľad - Import dát
+
+3. dáta, ktoré sú neúplné, budú uložené v tzv. flatxmlsúbore a
+nebudú im vytvorené väzby.
+
+2.Prehľad - Testovanie
+
+• Testovanie systému v rozsahu dvoch mesiacov nad skúšobnou
+dávkou všetkých plánovaných dát.
+
+2.Prehľad - Testovanie
+
+• Počas vývoja a na konci vývojovej fázy bude celé prostredie
+testované v rámci všetkých fáz vývoja ktoré už prebehli v rámci
+modernizácie CREPČ II, aby mohol byť systém nasadený do
+
+2.Prehľad - Testovanie
+
+prevádzky.
+
+2.Prehľad - Testovanie
+
+1. V tejto sekcii sú zahrnuté práce:a) opakované nasadzovanie
+aplikácie pre každú verziu v priebehu jej vývoja, spojené s
+pregenerovaním a nasadzovaním databáz
+
+2.Prehľad - Testovanie
+
+vo vývojovom prostredí, prostredí testovacom pre klienta a v
+ostrom prostredí pripravenom pre klienta,
+
+2.Prehľad - Testovanie
+
+úpravami mapovania indexov v ELASTICSEARCH, reindexáciou
+dát v ELASTICSEARCH,
+
+2.Prehľad - Testovanie
+
+b) opakované nasadzovanie aplikácie vo fáze konečného
+testovania spojené s pregenerovaním a nasadzovaním databáz vo
+vývojovom
+
+2.Prehľad - Testovanie
+
+prostredí, prostredí testovacom pre klienta a v ostrom prostredí
+pripraveného pre klienta, úpravami mapovania indexov v
+ELASTICSEARCH, reindexáciou dát v ELASTICSEARCH,
+
+2.Prehľad - Testovanie
+
+c) opakované nasadzovanie aplikácie do dátového centra spojené
+s pregenerovaním a nasadzovaním databáz, úpravami mapovania
+indexov v ELASTICSEARCH,
+
+2.Prehľad - Testovanie
+
+reindexáciou dát v ELASTICSEARCH, zálohovaním a
+obnovovaním dát v ELASTICSEARCH a databázach.
+
+Parametrom
+
+posledné
+
+posledné zmenené
+
+Budú nastavené záložky pre tieto zoznamy.
+
+vzniknú väzby na autorov,2.
+
+Strana 3 z 12
+
+posledné zmenené za 1
+
+Import pracovísk .
+
+vzniknú väzby na podujatia,
+
+2.Prehľad - Testovanie
+
+2. Do časti testovanie je zahrnuté:a) aplikačná a databázová
+podpora,b) tvorba aplikačnej infraštruktúry,
+
+2.Prehľad - Testovanie
+
+c)
+
+2.Prehľad - Testovanie
+
+• V rámci testovania budú nájdené nedostatky:1.
+analyzované,2. odstránené.
+
+2.Prehľad - Pilotné nasadenie systému
+
+• Nasadenie dát. •
+obsluhy.
+
+3. Celkový popis
+
+• Predmetom je celkový popis produktu, všeobecných faktorov,
+ktoré majú na produkt vplyv, ako aj vysvetlenie a dôvody realizácie
+produktu.
+
+3. Celkový popis -Využitie produktu
+
+• Popisný produkt je neoddeliteľnou súčasťou CREPČ II a jej
+predchádzajúceho vývoja. • Využiteľnosť produktu spočíva v
+nasadení a nastavení systému CREPČ II tak,
+
+3. Celkový popis -Využitie produktu
+
+aby bolo možné tento systém spustiť do pilotnej prevádzky.
+
+3. Celkový popis -Využitie produktu
+
+• Používateľské rozhranie je vytvorené formou web aplikácie.•
+Používateľské prostredie je rozdelené na frontend – prezentačné
+rozhranie, a backend – správcovské rozhranie.
+
+3. Celkový popis -Využitie produktu
+
+• Predmetom vývoja produktu je prostredie, ktoré umožní
+používateľom nielen vkladať záznamy, ale ich aj vďaka
+administrátorským nastaveniam chrániť pred nežiaducimi
+zmenami.
+
+3. Celkový popis -Využitie produktu
+
+• Predmetom spustenia do pilotnej prevádzky bude
+implementácia dát z iných systémov. Dôvodom je zjednodušenie
+spracovania dát v budúcnosti pred ich vytvorením.
+
+3. Celkový popis -Využitie produktu
+
+• Prostredie faziet bude upravené podľa zozbieraných požiadaviek
+zadávateľa, zároveň bude upravené prostredie tak, ako aby
+vyhovovalo aj mobilným zariadeniam a systém bol na týchto
+zariadeniach
+
+3. Celkový popis -Využitie produktu
+
+prehliadateľný.
+
+3. Celkový popis -Funkcie produktu
+
+• Produkt sa skladá z nasledovných prvkov:1.
+správu používateľov
+
+3. Celkový popis -Funkcie produktu
+
+2. funkcia je nevyhnutná pre tvorenie väzieb medzi
+spracovateľmi, možnosťou nastaviť im práva a definovať nové
+prostredie pre posledné zmenené záznamy a zoznam vymazaných
+záznamov.
+
+3. Celkový popis -Funkcie produktu
+
+3. funkcia pre admin správu práv prístupov používateľských
+skupín a jednotlivcov; 4. funkcia vyhľadávania bude upravená
+podľa analytických podkladov zadávateľa;
+
+3. Celkový popis -Funkcie produktu
+
+5. funkcia spresňovania výsledkov – faziet bude upravená podľa
+podkladov zadávateľa a návrhov riešiteľa;
+
+3. Celkový popis -Funkcie produktu
+
+6. funkcia odosielania emailov bude upravená podľa
+zozbieraných požiadaviek zadávateľa;
+
+3. Celkový popis -Funkcie produktu
+
+7. funkcia generovania štatistických výstupov bude vytvorená
+podľa zozbieraných požiadaviek zadávateľa.
+
+3. Celkový popis -Triedy používateľov a ich
+charakteristika
+
+• V systéme rozlišujeme niekoľko tried používateľov:1. user neprihlásený používateľ, ktorý má prístup len do frontend časti –
+teda prezentačnej časti systému;
+
+3. Celkový popis -Triedy používateľov a ich
+charakteristika
+
+2. useradmin–prihlásený používateľ s obmedzenými právami – má
+prístup do frontend aj backend(spracovateľskej) časti. Jeho práva
+sú obmedzené super adminom;
+
+3. Celkový popis -Triedy používateľov a ich
+charakteristika
+
+3. user super admin–Prihlásený používateľ so všetkými právami,
+prístup má do frontend aj backend časti.
+
+4. Špecifické požiadavky -Funkčné požiadavky Administrácia – pracovisko používateľa
+
+• Bude upravené prostredie používateľov tak, aby sa dali pridávať
+katalogizačné pracoviská používateľov, ktoré sú zároveň aj
+vykazujúcimi pracoviskami v CREPČ, a teda pracoviská inštitúcie
+na
+
+4. Špecifické požiadavky -Funkčné požiadavky Administrácia – pracovisko používateľa
+
+na prvej úrovni.
+
+analytické práce,d)
+
+Strana 4 z 12
+
+administratívne práce.
+
+Školenie administrátorov. •
+
+Školenie
+
+funkcia pre
+
+4. Špecifické požiadavky -Funkčné požiadavky Administrácia – pracovisko používateľa
+
+• Bude upravené prostredie používateľa pridaním searcheditu pre
+dohľadávanie inštitúcie,• Bude vytvorená väzba k dotiahnutej
+inštitúcii.
+
+4. Špecifické požiadavky -Funkčné požiadavky Administrácia – pracovisko používateľa
+
+• Inštitúcia pracoviska je identická s vykazujúcim pracoviskom inštitúcie, pre ktorú zvolený používateľ vkladá a edituje záznamy.
+
+4. Špecifické požiadavky -Funkčné požiadavky Administrácia – pracovisko používateľa
+
+• V administrácii v časti zoznam skupín bude nastavené nové
+právo na pridanie pracoviska používateľa.
+
+4. Špecifické požiadavky -Funkčné požiadavky Administrácia – pracovisko používateľa
+
+• V administrácii v časti zoznam skupín bude nastavené nové
+právo na editovanie pracoviska používateľa.
+
+4. Špecifické požiadavky -Funkčné požiadavky Administrácia – pracovisko používateľa
+
+• V administrácii v časti zoznam skupín bude nastavené nové
+právo na zmazanie pracoviska používateľa.
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+•
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+1. rozpracovaný záznam – vidia všetci prihlásení používatelia: a)
+bude systémovo nastavené editovanie záznamu len skupinou
+používateľov, ktorí majú nastavené rovnaké pracovisko
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+ako používateľ, ktorý záznam vytvoril;
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+2. zapísaný záznam – môže upravovať prihlásený používateľ z
+ktorejkoľvek školy: a) bude nastavené, aby záznam mohol
+upravovať prihlásený používateľ, ktorý záznam vytvoril;
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+b) bude nastavené, aby záznam mohol upravovať prihlásený
+používateľ, ktorý záznam vytvoril;
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+3. potvrdený záznam – môže meniť prihlásený používateľ z
+ktorejkoľvek školy, vymazať autorov však nemôže zo záznamov,
+ktoré majú príznak vykazujúce záznamy:
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+a) meniť len údaje, ktoré nie sú chránené, teda definované v
+analytických podkladoch zadávateľa ako údaje, ktoré majú
+nastaviteľné právo editácie;
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+b) v potvrdených záznamoch nie je ďalej možné upravovať
+pracoviská iné, ako tie, ktoré sú označené ako neurčené
+pracovisko;
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+4. až keď bude záznam v stave potvrdený, bude k dispozícii pre
+OHV; 5. bude predmetom metodického pokynu časové hľadisko
+pre potvrdzovanie záznamov;
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+6. potvrdenému záznamu sa už nebude dať spätne zmeniť stav
+na iný (nižší) stav.• Povinnosť údajov viazaná na konkrétny stav
+záznamov:
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+1. stav rozpracovaný - povinný bude len hlavný názov dokumentu;
+2. stav zapísaný a potvrdený - validované budú všetky údaje,
+ktoré budú mať nastavenú kontrolu hodnôt:
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+a) nastavené budú kontroly podľa analytických podkladov
+zadávateľa;
+
+4. Špecifické požiadavky -Funkčné požiadavky Štruktúra údajov
+
+1. stav potvrdený – k dispozícii pre CVTI SR OHV a OHO:a)
+bude predmetom metodického pokynu.
+
+4. Špecifické požiadavky -Funkčné požiadavky - Detaily
+
+• Doplnenie a úprava detailov podľa zozbieraných podkladov od
+zadávateľa:1. časopis: a) úprava záhlavia,
+
+4. Špecifické požiadavky -Funkčné požiadavky - Detaily
+
+b) úprava záložky Popis,c)
+údaje.
+
+4. Špecifické požiadavky -Funkčné požiadavky - Detaily
+
+2. článok: a) úprava záložky Popis, b)
+Doplňujúce údaje.
+
+4. Špecifické požiadavky -Funkčné požiadavky - Detaily
+
+3. kapitola / príspevok: a) úprava záložky Popis,b) vytvoriť novú
+záložku Doplňujúce údaje.
+
+4. Špecifické požiadavky -Funkčné požiadavky - Detaily
+
+4.
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Vyhľadávanie
+
+• Doplniť podmienky vyhľadávania pre rozšírené vyhľadávanie
+podľa analytických podkladov zadávateľa:1. budú doplnené
+kritériá vyhľadávania v rozšírenom vyhľadávaní.
+
+Nastavenie stavov bibliografických záznamov:
+
+databáza:a)
+
+Strana 5 z 12
+
+vytvoriť novú záložku Doplňujúce
+vytvoriť novú záložku
+
+úprava záhlavia.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Fazety
+
+• Úprava prostredia vyhľadávania v zmysle optimalizácie:1. dizajn
+podľa návrhu riešiteľa: a) fazety budú nastavené vo webovej
+aplikácii na ľavej strane;
+
+4. Špecifické požiadavky -Funkčné požiadavky -Fazety
+
+b) budú nastavené dvojúrovňovo; c) budú optimalizované pre
+mobilné zariadenia; d) na prvej úrovni bude mať každá fazeta
+prednastavených maximálne desať hodnôt;
+
+4. Špecifické požiadavky -Funkčné požiadavky -Fazety
+
+e) po rozkliknutí funkcie viac sa zobrazí viac výsledkov, najviac
+však maximálne 100 hodnôt v najväčšom výskyte;f) bude
+nastavené pre každú fazetu na druhej úrovni zoraďovanie
+zostupne a vzostupne
+
+4. Špecifické požiadavky -Funkčné požiadavky -Fazety
+
+podľa výskytu;g) bude nastavené pre každú fazetu na druhej
+úrovni zoraďovanie zostupne a vzostupne abecedne/alebo číselne,
+podľa zobrazenej fazety;
+
+4. Špecifické požiadavky -Funkčné požiadavky -Fazety
+
+h) budú sa zobrazovať všetky dostupné fazety pre dané
+zobrazenie/vyhľadanie;2. jednotlivých faziet podľa analytických
+podkladov zadávateľa:
+
+4. Špecifické požiadavky -Funkčné požiadavky -Fazety
+
+a) fazety ako okruhy budú upravené podľa podkladov;b) fazety
+budú zoradené podľa analytických podkladov;c) fazety sa budú
+dynamicky prepočítavať podľa dopresňovania
+
+4. Špecifické požiadavky -Funkčné požiadavky -Fazety
+
+fazetového vyhľadávania
+
+4. Špecifické požiadavky -Funkčné požiadavky -Výstupy
+
+• Bude nastavené zobrazovanie výstupov až po prihlásení
+používateľov: 1. bude prednastavené zobrazovanie iba výstupov
+daného pracoviska prihláseného používateľa;
+
+4. Špecifické požiadavky -Funkčné požiadavky -Výstupy
+
+2. pre zobrazovanie výstupov pre všetky vykazujúce pracoviská
+bude nastavené v zozname. skupín nové právo.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Výstupy
+
+• Budú vytvorené dva výstupy, obsahovo identické s výstupmi
+existujúcimi v CREPČ I podľa zozbieraných požiadaviek
+zadávateľa: 1. štatistický výstup na školy,2. menný výstup na
+autora.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Výstupy
+
+• Bude navrhnuté a vyvinuté prostredie pre vytváranie PDF a
+XLSX súborov: 1. formou novej stránky v nastaveniach webovej
+aplikácie.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Výstupy
+
+• Parametrom pre vytváranie výstupov bude rok vydania
+jednotlivých biblio záznamov: 1. formou výberu z dátumového
+komponentu pre výber roku.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Výstupy
+
+• Zobrazovanie bude file systémom, podobne, ako je to v CREPČ
+I: 1. zobrazovanie bude niekoľko úrovňové podľa podkladov.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Výstupy
+
+• Bude nastavené právo na generovanie výstupov podľa
+zozbieraných požiadaviek zadávateľa: 1. právo bude nastavené v
+zozname skupín.
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Odosielania emailu
+
+• Úprava prostredia odosielania emailu bude nastavená podľa
+zozbieraných požiadaviek zadávateľa:1. bude vytvorená položka
+pre uvedenie odosielateľa:
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Odosielania emailu
+
+a) v prípade prihláseného používateľa bude v správe uvedený
+odosielateľ podľa prihláseného používateľa;b) v prípade
+neprihláseného používateľa bude nastavený odosielateľ systém
+formou
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Odosielania emailu
+
+systémového emailu;
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Odosielania emailu
+
+2. bude vytvorená položka pre zapísanie predmetu správy, teda
+neopakovateľný edit box.
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Kopírovanie záznamov zo zoznamu
+
+• Kopírovanie záznamov aj zo zoznamu záznamov – pre každý
+záznam bude vložená ikona s funkciou kopírovania záznamu.
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Kopírovanie záznamov zo zoznamu
+
+• Bude nastavené potvrdzovacie okno s kontrolnou otázkou pre
+vytvorenie kópie.• Bude nastavené okno pre potvrdenie prechodu
+na kopírovaný záznam:
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Kopírovanie záznamov zo zoznamu
+
+1. po potvrdení ponuky bude otvorený záznam vo formulári pre
+editáciu záznamu: a) po uložení záznamu bude používateľ vrátený
+do prostredia zoznamu záznamov;b) bude vrátený na rovnaké
+
+Strana 6 z 12
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Kopírovanie záznamov zo zoznamu
+
+miesto v rámci zoznamu záznamov;2. po zrušení ponuky ostane
+používateľ v pôvodnom zozname záznamov.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+zmenených záznamov
+
+• Bude vytvorené prostredie pre zobrazovanie naposledy
+zmenených záznamov formou zoznamu:1. zoznam pre posledné
+zmenené biblio záznamy;
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+zmenených záznamov
+
+2. zoznamy pre posledné zmenené entity:a) osoba,b) inštitúcia,
+c) podujatie, d) projekt, e) databáza.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+zmenených záznamov
+
+• Zoznam zmenených záznamov bude nastavený nasledovne:1.
+posledné zmenené záznamy používateľa – preddefinovaný ako
+prvý zoznam, ktorý používateľ uvidí po prihlásení do aplikácie;
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+zmenených záznamov
+
+2. posledné zmenené záznamy školy – zoznam k dispozícii
+výberom; 3. posledné zmenené záznamy všetky – zoznam k
+dispozícii výberom.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+zmenených záznamov
+
+• Budú nastavené záložky pre tieto zoznamy. • Bude nastavená
+fazeta nad týmito pracovnými zoznamami:1. posledné zmenené
+za 1 deň,
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+zmenených záznamov
+
+2. posledné zmenené za 1 týždeň,3.
+mesiac.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+zmenených záznamov
+
+• Zobrazovanie bude nastavené na posledných 100 aktuálnych
+záznamov. • Zoznamy budú stránkované.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+vymazaných záznamov
+
+• Bude vytvorené prostredie zobrazujúce vymazané záznamy
+formou zoznamu: 1. zoznam pre posledné vymazané biblio
+záznamy; 2. zoznamy pre posledné vymazané entity:
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+vymazaných záznamov
+
+a) osoba, b)
+databáza.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Zoznam
+vymazaných záznamov
+
+• Zobrazenie týchto zoznamov vymazaných záznamov bude
+formou ďalšej záložky v rámci bežných zoznamov záznamov a
+entít.
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Vytvorenie a nastavenie práv
+
+• Budú vytvorené a nastavené nové systémové práva podľa
+zozbieraných požiadaviek zadávateľa. • Nové práva budú
+nastavené v Nastaveniach v sekcii zoznam skupín.
+
+4. Špecifické požiadavky -Funkčné požiadavky
+-Vytvorenie a nastavenie práv
+
+• Budú vytvorené a upravené práva v týchto častiach: 1.
+administrácia, 2. formuláre, 3. prezentačná vrstva.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+• Import zamestnancov škôl – bude vytvorená funkcia pre import
+dát z portálu VŠ, zo sekcie Register zamestnancov vysokých škôl
+(http://www.portalvs.sk/regzam/).
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+• Import pracovísk (inštitúcií):1. Bude vypracovaný algoritmus
+na import dát z xlsx súboru do dátovej štruktúry biblib.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+2. bude uskutočnený import dát vykazujúcich vysokých škôl z
+portálu objednávateľa
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+• Import časopisov – bude uskutočnený import záznamov seriálov
+z SKP: 1. bude vypracovaný algoritmus na import dát z formátu
+MARC21 do dátovej štruktúry biblib;2. Bude
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+uskutočnený import záznamov seriálov z SKP.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+• Import záznamov z CREPČ 1 od roku 2014:1. Bude
+vypracovaný algoritmus na import dát z xlsx súboru do dátovej
+štruktúry biblib.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+2. Z importovaných dát ďalej: a) vzniknú väzby na autorov,b)
+vzniknú väzby na podujatia.
+
+4. Špecifické požiadavky -Funkčné požiadavky -Import
+dát
+
+• Dáta, ktoré sú neúplné, budú uložené v tzv. flatxml a nebudú im
+vytvorené väzby.
+
+5. Testovanie
+
+• Testovanie systému v rozsahu dvoch mesiacov nad skúšobnou
+dávkou všetkých plánovaných dát .• Testovanie bude prebiehať
+nad tromi prostrediami:
+
+5. Testovanie
+
+1. vývojové prostredie dodávateľ,2. testovacie prostredie
+objednávateľ,3. ostré prostredie objednávateľ.
+
+Strana 7 z 12
+
+inštitúcia, c)
+
+posledné zmenené za 1
+
+podujatie, d)
+
+projekt, e)
+
+5. Testovanie
+
+• Testovanie bude prebiehať nad všetkými implementovanými
+vývojovými modulmi CREPČ II• V rámci testovania sú zahrnuté
+aj tieto práce:
+
+5. Testovanie
+
+1. opakované nasadzovanie aplikácie pre každú verziu v
+priebehu jej vývoja, spojené s pregenerovaním a nasadzovaním
+databáz vo vývojovom prostredí, prostredí testovacom pre
+
+5. Testovanie
+
+klienta a v ostrom prostredí pripravenom pre klienta, úpravami
+mapovania indexov v ELASTICSEARCH, reindexáciou dát v
+ELASTICSEARCH,
+
+5. Testovanie
+
+2. opakované nasadzovanie aplikácie vo fáze konečného
+testovania spojené s pregenerovaním a nasadzovaním databáz vo
+vývojovom prostredí, prostredí testovacom pre klienta a v ostrom
+
+5. Testovanie
+
+prostredí pripraveného pre klienta, úpravami mapovania indexov v
+ELASTICSEARCH, reindexáciou dát v ELASTICSEARCH,
+
+5. Testovanie
+
+3. opakované nasadzovanie aplikácie do dátového centra
+spojené s pregenerovaním a nasadzovaním databáz, úpravami
+mapovania indexov v ELASTICSEARCH,
+
+5. Testovanie
+
+reindexáciou dát v ELASTICSEARCH, zálohovaním a
+obnovovaním dát v ELASTICSEARCH a databázach.
+
+5. Testovanie
+
+• Do časti testovanie je zahrnuté aj: 1. aplikačná a databázová
+podpora, 2. tvorba aplikačnej infraštruktúry,
+
+5. Testovanie
+
+3.
+
+5. Testovanie - Frontend
+
+Hlavná stránka – horná lišta•
+neprihlásení používatelia:
+
+5. Testovanie - Frontend
+
+1. výber zoznamu záznamov, 2. jednoduché vyhľadávanie biblio,
+3. jednoduché vyhľadávanie projekty, 4. jednoduché vyhľadávanie
+osoby, 5. jednoduché vyhľadávanie databázy,
+
+5. Testovanie - Frontend
+
+6. jednoduché vyhľadávanie inštitúcie,7.
+používateľa.
+
+5. Testovanie - Frontend
+
+• Hlavná stránka – horná lišta – prihlásení používatelia:1. prechod
+do formulárov, 2. prechod do editora,3. prechod do deduplikácie,
+
+5. Testovanie - Frontend
+
+4. prechod do Auditu,5. prechod do zoznamu používateľov,6.
+prechod do zoznamu skupín.
+
+5. Testovanie - Frontend
+
+Prihlásenie používateľa • Prihlásenie používateľa: 1. prihlásenie
+používateľa, 2. zapamätanie si hesla,3. funkcia zabudnuté heslo.
+
+5. Testovanie - Frontend
+
+Jednoduché vyhľadávanie - biblio • Jednoduché vyhľadávanie: 1.
+oblasti výskumu, 2. typ dokumentu.
+
+5. Testovanie - Frontend
+
+Rozšírené vyhľadávanie - biblio • Rozšírené vyhľadávanie:1.
+testovanie vyhľadávacích podmienok – v combo boxe v počte 16
+podmienok; 2. testovanie pevnej
+
+5. Testovanie - Frontend
+
+podmienky rok vydania.
+
+5. Testovanie - Frontend
+
+• Testovanie pevnej podmienky Jazyk dokumentu:1. testovanie
+pevnej podmienky oblasť výskumu;2. testovanie vyhľadávacích
+kritérií.
+
+5. Testovanie - Frontend
+
+História hľadania - biblio• História hľadania:1. zobrazovanie
+histórie,2. spájanie histórie hľadania pomocou Booleho algebry,
+
+5. Testovanie - Frontend
+
+3. funkcia upraviť hľadanie, 4. funkcia zobraziť hľadanie.•
+Testovanie funkcionalít a dizajnu jednoduché hľadanie.
+
+5. Testovanie - Frontend
+
+• Testovanie funkcionalít a dizajnu rozšírené hľadanie.•
+Testovanie funkcionalít a dizajnu história hľadania.
+
+5. Testovanie - Frontend
+
+Zoznam záznamov • Zoznam záznamov – aj neprihlásení
+používatelia: 1. testovanie funkcionalít a dizajnu zoznamu
+záznamov
+
+5. Testovanie - Frontend
+
+a) zobrazovanie ISBD náhľadu,b) zobrazovanie kľúčových slov, c)
+funkcia biblioformáty na stiahnutie, d) operácia tlačiť, e) operácia
+pridať do rešerše,
+
+analytické práce,4.
+
+Strana 8 z 12
+
+administratívne práce.
+Hlavná stránka – horná lišta – aj
+
+prihlásenie
+
+5. Testovanie - Frontend
+
+f) operácia poslať emailom, g) operácia Exportovať,h) funkcia
+zobraziť na stránku 20/50/100 záznamov,i) zoraďovanie záznamov
+zostupne/vzostupne podľa zadaných kritérií,
+
+5. Testovanie - Frontend
+
+j) funkcia RSS, k) stránkovanie, l) funkcia prechod na detail,
+
+5. Testovanie - Frontend
+
+m) zobrazovanie podľa abecedy, n) funkcia prechod na rozšírené
+vyhľadávanie biblií,
+
+5. Testovanie - Frontend
+
+2. fazety v zozname záznamov: a) hľadanie vo výsledkoch,b)
+dopresňovanie podľa zadaných kritérií,
+
+5. Testovanie - Frontend
+
+c)zoraďovanie faziet zostupne/vzostupne podľa počtu,d)
+zoraďovanie faziet zostupne/vzostupne podľa abecedne/číselne.
+
+5. Testovanie - Frontend
+
+• Zoznam záznamov – prihlásení používatelia: 1. testovanie
+funkcionalít a dizajnu zoznamu záznamov:
+
+5. Testovanie - Frontend
+
+a) operácia potvrdiť (hromadne), b) operácia odstrániť
+(hromadne),c) funkcia prechod do formulára,
+
+5. Testovanie - Frontend
+
+d) funkcia zobraziť úplný výpis, e) funkcia odstrániť (jednotlivo), f)
+funkcia pridať návrh na úpravu.
+
+5. Testovanie - Frontend
+
+Zoznam osôb • testovanie funkcionalít a dizajnu zoznamu osôb: 1.
+zobrazovanie ISBD náhľadu, 2. zobrazovanie Počtu
+publikovaných dokumentov v CREPČ v role autor,
+
+5. Testovanie - Frontend
+
+3. zobrazovanie pracoviska autor, 4. operácia tlačiť,5. operácia
+poslať emailom, 6. operácia Exportovať,7. funkcia zobraziť na
+stránku 20/50/100 záznamov osôb,
+
+5. Testovanie - Frontend
+
+8. zoraďovanie záznamov osôb zostupne/vzostupne podľa
+zadaných kritérií,9. funkcia RSS, 10. stránkovanie,11. funkcia
+prechod na detail,12. zobrazovanie podľa abecedy,13. funkcia
+prechod na
+
+5. Testovanie - Frontend
+
+rozšírené vyhľadávanie osôb.
+
+5. Testovanie - Frontend
+
+• Fazety v zozname osôb: 1. hľadanie vo výsledkoch,2.
+dopresňovanie podľa zadaných kritérií,
+
+5. Testovanie - Frontend
+
+3. zoraďovanie faziet zostupne/vzostupne podľa počtu,4.
+zoraďovanie faziet zostupne/vzostupne podľa abecedne/číselne.
+
+5. Testovanie - Frontend
+
+•Zoznam osôb – prihlásení používatelia:1. testovanie funkcionalít a
+dizajnu zoznamu osôb:a) operácia odstrániť (hromadne),b) funkcia
+prechod do formulára,
+
+5. Testovanie - Frontend
+
+c)funkcia zobraziť úplný výpis,d) funkcia odstrániť
+(jednotlivo),e)funkcia pridať návrh na úpravu.
+
+5. Testovanie - Frontend
+
+Rozšírené vyhľadávanie osôb • Rozšírené vyhľadávanie osôb:1.
+testovanie vyhľadávacích podmienok; 2. testovanie pevnej
+podmienky Druh umeleckej činnosti; 3. testovanie pevnej
+podmienky oblasť
+
+5. Testovanie - Frontend
+
+výskumu;4. testovanie vyhľadávacích kritérií.Zoznam podujatí•
+Testovanie funkcionalít a dizajnu zoznamu podujatí1. zobrazovanie
+ISBD náhľadu,
+
+5. Testovanie - Frontend
+
+2. operácia tlačiť,3. operácia poslať emailom,4. operácia
+Exportovať,5. funkcia zobraziť na stránku 20/50/100 záznamov,
+
+5. Testovanie - Frontend
+
+6. zoraďovanie záznamov projektov zostupne/vzostupne podľa
+zadaných kritérií7. funkcia RSS,8. stránkovanie 9. funkcia prechod
+na detail,10. zobrazovanie podľa abecedy,
+
+5. Testovanie - Frontend
+
+11. funkcia prechod na rozšírené vyhľadávanie podujatí.
+
+5. Testovanie - Backend
+
+• Dostupnosť prostredia až po prihlásení používateľov.Formulár
+kniha• Náhľad ISBD • Záložka identifikátory:
+
+5. Testovanie - Backend
+
+1. kontrola funkcií,2. kontrola dizajnu.• Záložka Názvové údaje: 1.
+kontrola funkcií, 2. kontrola dizajnu.
+
+5. Testovanie - Backend
+
+• Záložka Zodpovednosť:1. kontrola funkcií: a) dohľadávanie
+osôb,b) editácia osôb,c) editácia väzieb,
+
+5. Testovanie - Backend
+
+d) prepočítavanie percentuálnych podielov,e) práca s pracoviskom
+autora,2. kontrola dizajnu.
+
+Strana 9 z 12
+
+5. Testovanie - Backend
+
+• Záložka Vydavateľské údaje: 1. kontrola funkcií:a)
+dohľadávanie inštitúcií,b) editácia inštitúcií,c) editácia väzieb,
+
+5. Testovanie - Backend
+
+2. kontrola dizajnu. • Záložka Fyzický popis:1.
+
+5. Testovanie - Backend
+
+2. kontrola dizajnu.• Záložka Vecné údaje:1.
+kontrola dizajnu.
+
+5. Testovanie - Backend
+
+• Záložka Väzby:1. kontrola funkcií: a) dohľadávanie biblií,b)
+editácia biblií,c) editácia väzieb,
+
+5. Testovanie - Backend
+
+2. kontrola dizajnu.• Záložka Doplňujúce údaje:1. kontrola funkcií:
+a) dohľadávanie projektov, b) dohľadávanie databáz, c)
+dohľadávanie edícií,d) editácia projektov,
+
+5. Testovanie - Backend
+
+e) editácia databáz,f) editácia väzieb projektov,g) editácia väzieb
+databáz,h) editácia väzieb edícií,i)kontrola url,j) pridávanie príloh,
+
+5. Testovanie - Backend
+
+2. kontrola dizajnu.• Záložka kategorizácia:1. kontrola funkcií,2.
+kontrola dizajnu.• Záložka Administrácia:1. kontrola funkcií,2.
+kontrola dizajnu.
+
+5. Testovanie - Backend
+
+• Záložka História záznamu:1. kontrola zobrazovania údajov voči
+zmenám vo formulári,2. kontrola dizajnu.
+
+5. Testovanie - Backend
+
+Formulár Zborník• náhľad ISBD• Záložka identifikátory:1. kontrola
+funkcií,2. kontrola dizajnu.• Záložka Názvové údaje:
+
+5. Testovanie - Backend
+
+1. kontrola funkcií,2. kontrola dizajnu. • Záložka
+Zodpovednosť:1. kontrola funkcií:a) dohľadávanie osôb,b) editácia
+osôb,
+
+5. Testovanie - Backend
+
+c) editácia väzieb,d) prepočítavanie percentuálnych podielov,e)
+práca s pracoviskom autora,2. kontrola dizajnu.• Záložka
+Vydavateľské údaje:
+
+5. Testovanie - Backend
+
+1. kontrola funkcií:a) dohľadávanie inštitúcií,b) editácia inštitúcií,c)
+editácia väzieb,2. kontrola dizajnu.
+
+5. Testovanie - Záver testovania
+
+• V rámci testovania budú nájdené nedostatky:1. analyzované, 2.
+odstránené.
+
+6. Pilotné nasadenie systému
+
+• Podmienkou spustenia pilotnej prevádzky bude:1. ukončenie
+vývoja,2. nasadenie dát, 3. ukončenie testovania.
+
+6. Pilotné nasadenie systému
+
+• Školenie:1. školenie administrátorov,2. školenie obsluhy.
+
+7. Použiteľnosť
+
+• Pred nasadením systému do pilotnej prevádzky bude celé
+prostredie nasadené zadávateľovi v rozpätí jedného mesiaca, aby
+sa zoznámil so systémom a jeho pracovným prostredím.
+
+7. Použiteľnosť
+
+• Predmetom dodávky prác bude následne aj školenie
+pracovníkov objednávateľa na úrovni super admin práv.
+
+7. Použiteľnosť
+
+Školenie sa týka prostredia CREPČ II, použitých systémových
+funkcií a nastavenia práv pre používateľov. Odporúčaná dĺžka
+školenia je v rozsahu 8 hodín.
+
+8. Existujúce komponenty
+
+• Implementácia modulov a rozšírených funkcionalítje závislá na
+predchádzajúcich riešeniach vývoja CREPČ
+
+8. Existujúce komponenty
+
+• Doterajšie implementované riešenia sú neoddeliteľnou súčasťou
+jedného systému – CREPČ II pre spustenie pilotnej prevádzky.
+
+2.4
+
+kontrola funkcií,
+kontrola funkcií,2.
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Dodávateľ zašle do 5 dní od účinnosti zmluvy / elektronicky ( sken)/ oprávnenie - povolenie autora softvéru CREPČ pre
+zmluvne požadované úkony - vývoj, implementácia, dodanie softvéru.
+Do 7 dní od účinnosti zmluvy sa uskutoční stretnutie zmluvných strán v sídle objednávateľa, kde budú upresnené požiadavky,
+časové termíny a postupy.
+Vrátane inštalácie na mieste plnenia
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 12 dní od účinnosti zmluvy
+Plnenie na základe objednávok - čiastkové plnenie. Lehota plnenia pre Dodávateľa od doručenia Čiastkovej výzvy (
+objednávky) na plnenie od Objednávateľa - do 7 dní.
+Strana 10 z 12
+
+Dodávateľ poskytuje záruku na všetky úpravy Systému, ktoré vytvorí podľa tejto Zmluvy, po dobu 12 mesiacov. Po dobu
+trvania záruky bude Dodávateľ bezplatne riešiť všetky poruchy vzniknuté pri prevádzke Systému z dôvodu jeho vady.
+Dodávateľ si je vedomý, že pri svojej činnosti bude pracovať s dôvernými dátami Objednávateľa a zaväzuje sa zabezpečiť
+nešírenie informácii, o ktorých sa dozvedel v súvislosti s plnením tejto zakazky.
+Dodávateľ vystaví príslušné faktúry po riadnom dokončení implementačných prác . Každá faktúra vystavená Dodávateľom
+podľa Zmluvy bude vystavená ako daňový doklad, pričom Dodávateľ je povinný faktúru zaslať tak, aby Objednávateľ mohol na
+základe daňového dokladu zúčtovať daň z pridanej hodnoty do obdobia podľa dátumu vystavenia faktúry. Splatnosť faktúry
+bude tridsať (30) kalendárnych dní od dňa doručenia Objednávateľovi. Splatnosťou sa podľa tohto bodu rozumie odpísanie
+finančných prostriedkov z účtu Objednávateľa
+Pre úspešné plnenie realizácie služieb sa Objednávateľ zaväzuje poskytnúť súčinnosť zahŕňajúcu predovšetkým spoluprácu
+pri riadení prác, vytvorenie nevyhnutných organizačných a prevádzkových podmienok na strane Objednávateľa, doplnenie
+technologickej infraštruktúry informačného systému Objednávateľa podľa doporučení Dodávateľa o prostriedky nevyhnutné
+pre rozšírenú prevádzku Systému,
+o prostriedky nevyhnutné pre rozšírenú prevádzku Systému, bezplatné vyčlenenie priestoru v sídle Objednávateľa pre
+pracovný tím Dodávateľa v maximálnom počte 3 ľudí a umiestnenie potrebnej infraštruktúry podľa potrieb plnenia predmetu
+Zmluvy, umožnenie konzultácii so zástupcami užívateľov Systému a manažérmi zodpovednými za stanovenie procesnej
+štruktúry Objednávateľa nadväzujúcej na Systém, umožnenie konzultácii so správcami Systému,
+Dodávateľ ručí za časové a obsahové plnenie požiadavok plnených podľa Zmluvy, pokiaľ Objednávateľ včas splní svoje
+záväzky nevyhnutné pre splnenie záväzku dodávateľa. Tovar a súvisiace Služby budú vždy odovzdané Objednávateľovi
+písomným protokolom, ktorý bude podpísaný zástupcami obidvoch zmluvných strán.
+Dodávateľ poskytuje záruku na všetky úpravy Systému, ktoré vytvorí podľa tejto Zmluvy, po dobu 12 mesiacov. Po dobu
+trvania záruky bude Dodávateľ bezplatne riešiť všetky poruchy vzniknuté pri prevádzke Systému z dôvodu jeho vady.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Lamačská cesta 8/A
+
+Čas / lehota platnosti rámcovej dohody v mesiacoch:
+3
+
+3.3
+
+3.4
+
+Maximálne Objednávateľom požadovateľné množstvo/rozsah zmluvného plnenia rámcovej dohody:
+Jednotka:
+
+Rozsah v zmysle tech. špec pre údaj Maximum
+
+Požadované maximálne
+množstvo:
+
+1,0000
+
+Táto zmluva má charakter rámcovej dohody. Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú
+Obchodnými podmienkami elektronického trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú
+prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková maximálna cena plnenia podľa rámcovej dohody bez DPH: 70 833,33 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková maximálna cena plnenia podľa rámcovej dohody vrátane DPH: 85 000,00 EUR
+
+V. Záverečné ustanovenia
+
+Strana 11 z 12
+
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 12.06.2017 09:03:03
+Objednávateľ:
+Centrum vedecko-technických informácií Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+SVOP, spol. s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 12 z 12
+
+

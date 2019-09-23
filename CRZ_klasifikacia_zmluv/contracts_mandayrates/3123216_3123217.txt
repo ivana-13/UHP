@@ -1,0 +1,425 @@
+Zmluva o dielo č. Z201749607_Z
+uzatvorená v zmysle §536 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Centrum vedecko-technických informácií Slovenskej republiky
+Lamačská cesta 8/A, 81104 Bratislava, Slovenská republika
+00151882
+2020798395
+SK2020798395
+SK05 8180 0000 0070 0006 4743
++421 269253190
+
+Dodávateľ:
+Obchodné meno:
+
+SVOP, spol. s r.o.
+
+Sídlo:
+
+Pod rovnicami 730/2, 84104 Bratislava, Slovenská republika
+
+IČO:
+
+30775264
+
+DIČ:
+
+2020314945
+
+IČ DPH:
+
+SK2020314945
+
+Číslo účtu:
+
+SK18 1100 0000 0026 2943 1851
+
+Telefón:
+
++421 905 412 681
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Integračné rozhrania systému CREPČ na externé informačné systémy
+
+Kľúčové slová:
+
+softvér, vývoj a implementácia softvéru CREPČII, súvisiace služby
+
+CPV:
+
+72212190-7 - Služby na vývoj softvéru pre oblasť vzdelávania
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka:
+
+Integračné rozhrania systému CREPČ na externé informačné systémy
+
+Funkcia
+Vývoj a implementácia softvéru "Centrálny register evidencie publikačnej činnosti II" alebo ekvivalent
+Zavedením systému CREPČ 2 do prevádzky vzniká unikátny zdroj dát, využiteľný a žiadaný v rámci IKT infraštruktúry a
+potrieb VaV na Slovensku. Na dosiahnutie kvality dát a dátovej kompatibility s vybranými svetovými aj domácimi databázami je
+nevyhnutné získavať z týchto databáz a systémov referenčné dáta o kľúčových entitách.
+Technické vlastnosti
+
+Jednotka
+
+Úloha 1: Integračné rozhranie pre export dát z CREPČ 2
+do knižnično-informačných systémov (KIS)
+
+súbor činností
+
+1
+
+Úloha 2: Štandardizované rozhranie pre dolovanie dát
+založené na protokole OAI-PMH
+
+súbor činností
+
+1
+
+Úloha 3: Integračné rozhrania pre externé systémy
+
+súbor činností
+
+1
+
+Úloha 4: Overovacie prostredie pre automatizovanú
+kontrolu nad databázami WOS, SCOPUS, CCC
+
+súbor činností
+
+1
+
+Úloha 5: Preberanie metadát WOS, SCOPUS, CCC vo
+funkciách pre vytváranie záznamov a ohlasov
+
+súbor činností
+
+1
+
+Úloha 6: Expertné vyhľadávanie
+
+súbor činností
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+
+Úloha 1: Integračné rozhranie pre export dát z CREPČ 2
+do knižnično-informačných systémov (KIS)
+
+Cieľom je realizovať prenos dát na základe voľby užívateľa.
+-vytvorenie exportného formátu na báze XML-funkcia pre rýchly
+export vyhľadaných dát (do 100 záznamov, priame získanie)
+
+Úloha 1: Integračné rozhranie pre export dát z CREPČ 2
+do knižnično-informačných systémov (KIS)
+
+korešpondujúce s vykazujúcim pracoviskom.
+
+Úloha 2: Štandardizované rozhranie pre dolovanie dát
+založené na protokole OAI-PMH
+
+Cieľom je realizovať rozhranie pre automatizovaný rozdielový
+prenos dát (synchronizácia)-samostojaca serverová aplikácia
+(modul)-systematické sťahovanie záznamov v režime 24/7
+
+Úloha 3: Integračné rozhrania pre externé systémy
+
+Cieľom je implementácia špecifických rozhraní existujúcich v
+pôvodnom systéme CREPČ1.-SOFIA: Implementácia
+databázového prepojenia systémov CREPČ 1 a SOFIA aj pre
+systém CREPČ 2
+
+Úloha 3: Integračné rozhrania pre externé systémy
+
+-VEGA a KEGA: Rozšírená implementácia protokolu OpenURL
+pre účely získavania dát z CREPČ 2 zo systémov VEGA a
+KEGA-SK CRIS: Implementácia rozhrania pre integráciu so
+systémom SK CRIS.
+
+Úloha 4: Overovacie prostredie pre automatizovanú
+kontrolu nad databázami WOS, SCOPUS, CCC
+
+Automatická kontrola záznamu voči vybraným svetovým
+bibliografickým a citačnými databázam hľadaním vybraných
+hodnôt (DOI, ISSN, ...) a s možnosťou modifikácie hľadania.
+
+Úloha 4: Overovacie prostredie pre automatizovanú
+kontrolu nad databázami WOS, SCOPUS, CCC
+
+Cieľom funkcionality je vierohodné overovanie kategórie
+publikačnej činnosti a zaznamenávanie ID záznamu v danej
+databáze. Funkcia môže ukladať pôvodné metadáta, avšak bez ich
+konverzie do vnútorného
+
+Úloha 4: Overovacie prostredie pre automatizovanú
+kontrolu nad databázami WOS, SCOPUS, CCC
+
+formátu CREPČ.
+
+Úloha 5: Preberanie metadát WOS, SCOPUS, CCC vo
+funkciách pre vytváranie záznamov a ohlasov
+
+-rozhranie pre hľadanie, prehliadanie výsledku a výber dát na
+prebranie ,-konverzia dát podľa databázy, predpokladaný rozsah v
+oblasti konverzie počíta s databázami WoS, Scopus a s vnútorným
+
+Úloha 5: Preberanie metadát WOS, SCOPUS, CCC vo
+funkciách pre vytváranie záznamov a ohlasov
+
+formátom XML-CREPČ2,
+
+Úloha 5: Preberanie metadát WOS, SCOPUS, CCC vo
+funkciách pre vytváranie záznamov a ohlasov
+
+-úpravy editačného formulára CREPČ2 tak, aby akceptoval a vedel
+pracovať aj s neúplnými dátami a dátami entít bez automatom
+identifikovateľnej entity,
+
+Úloha 5: Preberanie metadát WOS, SCOPUS, CCC vo
+funkciách pre vytváranie záznamov a ohlasov
+
+-úpravy a doplnenie formálnych kontrol o kontrolu dočasných
+entít,-úpravy databázy a naviazaných funkcionalít,
+
+Úloha 6: Expertné vyhľadávanie
+
+Expertné vyhľadávanie predstavuje nevyhnutnú nadstavbu
+rozšíreného vyhľadávania v systéme CREPČ 2 pre potreby
+integračných rozhraní.
+
+Úloha 6: Expertné vyhľadávanie
+
+Umožní pridávanie kritérií hľadania a vytváranie nových typov
+viazaných vyhľadávaní doteraz neimplementovaných v systéme,
+avšak nevyhnutných pre potreby integračných rozhraní oblasti
+dolovania a
+
+Úloha 6: Expertné vyhľadávanie
+
+exportu dát.
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Dodávateľ zašle do 5 dní od účinnosti zmluvy / elektronicky ( sken)/ oprávnenie - povolenie autora softvéru pre zmluvne
+požadované úkony - vývoj, implementácia, dodanie softvéru.
+Do 7 dní od účinnosti zmluvy sa uskutoční stretnutie zmluvných strán v sídle objednávateľa, kde budú upresnené požiadavky,
+časové termíny a postupy.
+Vrátane inštalácie na mieste plnenia
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 12 dní od účinnosti zmluvy
+Dodávateľ v spolupráci s objednávateľom do 15 dní od účinnosti zmluvy spracuje základné údaje k IS a vyplnený formulár
+Centrálneho metainformačného systému verejnej správy ( MetaIS) v zmysle povinností vyplývajúcich z § 3 ods. 4 písm. f)
+zákona č. 275/2006 Z.z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov.
+Dodávateľ v spolupráci s objednávateľom do 15 dní od účinnosti zmluvy spracuje dokumentáciu s podrobným vyjadrením
+predstavy o vzhľade, funkčnosti jednotlivých aplikácií a jej modulov, požadovanú funkcionalitu IS a zakreslené schémy v
+modelovacom jazyku ArchiMate, ktoré zobrazujú plánovaný vývoj IS a jeho služieb.
+Strana 2 z 4
+
+Dodávateľ je povinný preukázať Objednávateľovi požadované úpravy a funkčnosť IS (doplnenie názvu IS) formou
+akceptačného testu (UAT test). Prevzatie dohodnutých úprav potvrdí poverená osoba Objednávateľa podpísaním
+Odovzdávacieho protokolu, ktorý bude podkladom nevyhnutným pre vystavenie faktúry zo strany Dodávateľa. Prípadné
+drobné vady, ktoré nebudú znemožňovať užívanie upravenej funkčnosti, budú odstránené v lehote do 30 kalendárnych dní od
+podpísania Odovzdávacieho protokolu.
+Dodávateľ je povinný do Termínu dodania preukázať Objednávateľovi požadované úpravy a funkčnosť IS (doplnenie názvu IS)
+formou Akceptačného testu. Prevzatie dohodnutých úprav potvrdí poverená osoba Objednávateľa na základe výsledkov
+Akceptačného testu, ktorý bude zrealizovaný do 3 dní od Záväzného Termínu dodania vybranej časti predmetu obstarania,
+podpísaním Odovzdávacieho protokolu, a ktorý bude podkladom nevyhnutným pre vystavenie faktúry zo strany Dodávateľa.
+Dodávateľ zodpovedá za dodržiavanie ustanovení zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov.
+Dodávateľ sa zaväzuje pri poskytovaní služieb podľa tejto zmluvy dodržiavať primerané bezpečnostné opatrenia stanovené
+vyhláškou ÚOOÚ SR č. 164/2013 Z. z. o rozsahu a dokumentácii bezpečnostných opatrení v platnom znení.
+Dodávateľ je povinný postupovať s odbornou starostlivosťou a v zmysle platnej legislatívy požiadaviek zákona č. 275/2006 Z.
+z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a
+súvisiaceho výnosu MF SR č. 55/2014 o štandardoch pre informačné systémy verejnej správy.
+Dodávateľ sa zaväzuje odovzdať Objednávateľovi aplikáciu, ktorá musí byť explicitne v súlade najmä s požiadavkami zákona
+č. 275/2006 Z. z. o informačných systémov verejnej správy a aktuálneho výnosu o štandardoch pre informačné systémy
+verejnej správy a zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov.
+Dodávateľ musí pri preberaní diela odovzdať vyhodnotenie dodržania požiadaviek zákona č. 275/2006 Z. z. o informačných
+systémov verejnej správy a výnosu MF SR č. 55/2014 Z. z. o štandardoch pre informačné systémy verejnej správy.
+Dodávateľ sa zaväzuje odovzdať Objednávateľovi spracovanú aktuálnu dokumentáciu, ktorá musí obsahovať čo najpresnejšie
+vyjadrené predstavy o vzhľade, funkčnosti jednotlivých aplikácií a jej modulov, požadovanú funkcionalitu IS a zakreslené
+schémy v modelovacom jazyku ArchiMate, ktoré zobrazujú plánovaný rozvoj IS a jeho služieb.
+Dodávateľ sa zaväzuje odovzdať Objednávateľovi spracovanú aktuálnu dokumentáciu, ktorá pozostáva najmä z nasledovných
+častí:a)používateľská dokumentácia, ktorou je návod na používanie IS / IKT prostriedku,b)administrátorská dokumentácia,
+ktorou je návod na správu a prevádzku IS / IKT prostriedku,c)prevádzková dokumentácia, ktorou je dokumentácia o
+architektúre IS / IKT prostriedku alebo jeho časti a konfigurácií a väzbách na existujúce IS / IKT prostriedky.
+Prípadné drobné vady, ktoré nebudú znemožňovať užívanie upravenej funkčnosti, budú v Odovzdávacom protokole uvedené
+ako „drobné nedostatky“, Odovzdávací protokol bude „akceptovaný s výhradou s uvedenými pripomienkami“, ktoré Dodávateľ
+odstráni v lehote do 30 kalendárnych dní od podpísania Odovzdávacieho protokolu.
+Dodávateľ po realizácií požadovaných činností odovzdá objednávateľovi zdrojové kódy aplikácie a autorské a licenčné
+podmienky nesmú zabraňovať riadnemu narábaniu so systémom pre neobmedzené množstvo používateľov a rozširovaniu
+systému pre objednávateľa.
+Plnenie na základe objednávok - čiastkové plnenie. Lehota plnenia pre Dodávateľa od doručenia Čiastkovej výzvy (
+objednávky) na plnenie od Objednávateľa - do 7 dní.
+Dodávateľ poskytuje záruku na všetky úpravy Systému, ktoré vytvorí podľa tejto Zmluvy, po dobu 12 mesiacov. Po dobu
+trvania záruky bude Dodávateľ bezplatne riešiť všetky poruchy vzniknuté pri prevádzke Systému z dôvodu jeho vady.
+Dodávateľ si je vedomý, že pri svojej činnosti bude pracovať s dôvernými dátami Objednávateľa a zaväzuje sa zabezpečiť
+nešírenie informácii, o ktorých sa dozvedel v súvislosti s plnením tejto zakazky.
+Dodávateľ vystaví príslušné faktúry po riadnom dokončení implementačných prác . Každá faktúra vystavená Dodávateľom
+podľa Zmluvy bude vystavená ako daňový doklad, pričom Dodávateľ je povinný faktúru zaslať tak, aby Objednávateľ mohol na
+základe daňového dokladu zúčtovať daň z pridanej hodnoty do obdobia podľa dátumu vystavenia faktúry. Splatnosť faktúry
+bude tridsať (30) kalendárnych dní od dňa doručenia Objednávateľovi. Splatnosťou sa podľa tohto bodu rozumie odpísanie
+finančných prostriedkov z účtu Objednávateľa
+Pre úspešné plnenie realizácie služieb sa Objednávateľ zaväzuje poskytnúť súčinnosť zahŕňajúcu predovšetkým spoluprácu
+pri riadení prác, vytvorenie nevyhnutných organizačných a prevádzkových podmienok na strane Objednávateľa, doplnenie
+technologickej infraštruktúry informačného systému Objednávateľa podľa doporučení Dodávateľa o prostriedky nevyhnutné
+pre rozšírenú prevádzku Systému,
+o prostriedky nevyhnutné pre rozšírenú prevádzku Systému, bezplatné vyčlenenie priestoru v sídle Objednávateľa pre
+pracovný tím Dodávateľa v maximálnom počte 3 ľudí a umiestnenie potrebnej infraštruktúry podľa potrieb plnenia predmetu
+Zmluvy, umožnenie konzultácii so zástupcami užívateľov Systému a manažérmi zodpovednými za stanovenie procesnej
+štruktúry Objednávateľa nadväzujúcej na Systém, umožnenie konzultácii so správcami Systému,
+Dodávateľ ručí za časové a obsahové plnenie požiadavok plnených podľa Zmluvy, pokiaľ Objednávateľ včas splní svoje
+záväzky nevyhnutné pre splnenie záväzku dodávateľa.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Strana 3 z 4
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Lamačská cesta 8/A
+
+Čas / lehota plnenia zmluvy:
+12.10.2017 12:00:00 - 15.12.2017 14:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+Rozsah v zmysle tech. špec pre údaj Maximum
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 85 920,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 103 104,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 03.10.2017 14:03:01
+Objednávateľ:
+Centrum vedecko-technických informácií Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+SVOP, spol. s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

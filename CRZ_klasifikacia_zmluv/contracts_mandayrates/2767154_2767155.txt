@@ -1,0 +1,665 @@
+Zmluva
+o poskytnutí nových verzií programov, licencií programov systému ACSIS
+uzavretá podľa ust. 269 ods. 2 a §536 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení
+neskorších predpisov (ďalej len „Obchodný zákonník“)
+a § 65 a násl. zákona č. 185/2015 Z. z. Autorský zákon v znení zákona č. 125/2016 Z. z. (ďalej len
+„Autorský zákon“)
+(ďalej len „Zmluva“)
+Číslo zmluvy objednávateľa: 48/2016
+Číslo zmluvy zhotoviteľa: 01/UJD/2016
+Zmluvné strany
+Objednávateľ:
+Názov:
+Sídlo:
+Zastúpený:
+Zodpovedná osoba za
+vecné plnenie zmluvy:Ing.
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+č. účtu:
+
+Úrad jadrového dozoru Slovenskej republiky
+Bajkalská 27, P.O.BOX 24
+820 07 Bratislava, Slovenská republika
+Ing. Marta Žiaková CSc., predsedníčka ÚJD SR
+Eduard Metke, CSc., podpredseda ÚJD SR
+30 844 185
+2020869224
+nie je platiteľ DPH
+Štátna pokladnica,
+IBAN: SK98 8180 0000 0070 0006 1905
+(ďalej len „Objednávateľ")
+a
+
+Zhotoviteľ:
+Obchodné meno:
+Sídlo:
+Zastúpený:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+č. účtu:
+Registrácia:
+
+eDevelopment, s.r.o.
+Dlhá 2, 900 31 Stupava
+Ing. Miroslav Uhlár, konateľ
+35 849 428
+2020208718
+SK2020208718
+Fio banka, a.s., BIC: FIOZSKBAXXX
+IBAN: SK65 8330 0000 0029 0063 7356
+obchodný register Okresného súdu Bratislava I.
+27939/B
+
+odd.:Sro, vl.č.
+
+(ďalej len „Zhotoviteľ")
+
+1
+
+Preambula
+Zhotoviteľ výslovne potvrdzuje, že je výhradným majiteľom autorských práv k predmetným
+programovým modulom aplikačného systému ACSIS (administratívny a analyticko-podporný
+komunikačný systém hodnotenia bezpečnosti jadrových zariadení).
+Moduly aplikačného systému ACSIS (administratívny a analyticko-podporný komunikačný systém
+hodnotenia bezpečnosti jadrových zariadení) sú predmetom autorského práva zhotoviteľa a požívajú
+ochranu v zmysle Autorského zákona.
+Článok I.
+1.
+1.1.
+
+Účel Zmluvy, úvodné ustanovenia
+Zmluvné strany medzi sebou uzatvárajú túto Zmluvu, za účelom dodania rozšírenia vybraných
+programových modulov ACSIS:
+a.) O funkcionality, vyžadované implementáciou zákona o eGovernmente (305/2013 Z. z.)
+b.) O integračné väzby na externé referenčné číselníky
+c.)
+
+O podporu vybraných procesov v zmysle záverov a uznesení schválenej Národnej koncepcie
+informatizácie verejnej správy (NKIVS).
+
+1.2.
+
+Za „Služby" sa pre účely tejto Zmluvy rozumie činnosť Zhotoviteľa zrealizovať predmet tejto
+Zmluvy. Služby sú bližšie špecifikované v Prílohe č. 1, ktorá je neoddeliteľnou súčasťou tejto
+Zmluvy (ďalej aj ako „Služby“).
+
+1.3.
+
+Za „Dielo" sa pre účely tejto Zmluvy považuje každý hmotne zachytiteľný výsledok Služby
+poskytnutej Zhotoviteľom, ktorý je predmetom autorsko-právnej ochrany (ďalej aj ako „Dielo“)
+
+1.4.
+
+„Dôverná informácia“ je každá informácia, Objednávateľom písomne alebo ústne poskytnutá
+Zhotoviteľovi v súvislosti so Zmluvou alebo informácia, nachádzajúca sa v informačnom systéme
+Objednávateľa sprístupnená Zhotoviteľovi v súvislosti s touto Zmluvou alebo informácia z týchto
+informácii vyvoditeľná, ktorá
+a.)
+b.)
+c.)
+d.)
+
+nie je verejne dostupná alebo verejne známa,
+je Objednávateľom označená ako obchodné alebo podnikateľské tajomstvo,
+je Objednávateľom označená ako dôverná a/alebo
+ktorú Zhotoviteľ vzhľadom na jemu známe okolnosti alebo vzhľadom na všeobecne
+známe okolnosti mohol považovať za dôvernú.
+
+Pod pojem “Dôverné Informácie” bez obmedzenia vždy patria najmä všetky informácie a
+akékoľvek údaje týkajúce sa činnosti Objednávateľa, jeho štruktúry, hospodárskych výsledkoch,
+finančné, štatistické, daňové a účtovné informácie, informácie o jeho majetku, aktívach a
+pasívach, pohľadávkach a záväzkoch, informácie o jeho technickom a programovom vybavení, o
+informačných technológiách a informačnom systéme Objednávateľa, know-how, hodnotiace
+štúdie a správy, stratégie a plány, informácie týkajúce sa predmetov chránených právom
+priemyselného alebo iného duševného vlastníctva, dodávateľských a odberateľských vzťahov
+Objednávateľa, ako aj osobné údaje, ktoré by mohol Zhotoviteľ v mene Objednávateľa
+spracovávať (alebo má akúkoľvek možnosť prístupu k nim) (ďalej len „Dôverné informácie“).
+
+2
+
+Dôvernými informáciami nie sú a/alebo prestávajú byť:
+informácie, ktoré boli v dobe, kedy boli Zhotoviteľovi poskytnuté, verejne známe,
+informácie, ktoré sa stanú verejne známymi potom ako boli Zhotoviteľovi poskytnuté,
+s výnimkou prípadov, kedy sa tieto informácie, stanú verejne známymi v dôsledku
+porušenia záväzku mlčanlivosti Zhotoviteľa podľa tejto Zmluvy,
+informácie, ktoré boli Zhotoviteľovi preukázateľne známe pred ich poskytnutím, za
+predpokladu, že nemali charakter dôverných informácií,
+informácie, ktoré je Zhotoviteľ povinný oznamovať oprávneným osobám na základe
+všeobecne záväzných právnych predpisov platných v SR a
+informácie, ktoré boli preukázateľne vytvorené, vyvinuté či získané samostatne
+Zhotoviteľom, od tretej strany, ktorá ich legitímne získala alebo vyvinula, a ktorá nie je
+viazaná povinnosťou mlčanlivosti ohľadne nich.
+1.5.
+
+Zhotoviteľ sa zaväzuje, že ak sa v súvislosti so spoluprácou s Objednávateľom, a to v procese
+prípravy, realizácie a dodania predmetu tejto Zmluvy zamestnanci Zhotoviteľa dostanú do styku
+s Dôvernými informáciami bude Zhotoviteľ a jeho zamestnanci o týchto informáciách zachovávať
+mlčanlivosť a chrániť ich. Zhotoviteľ sa zároveň zaväzuje, že obmedzí šírenie Dôverných
+informácií výlučne na tých zamestnancov, ktorí sa musia priamo zúčastniť na vzájomnej
+spolupráci s Objednávateľom.
+
+1.6.
+
+Zhotoviteľ si je vedomý skutočnosti, že ak poruší povinnosti ochrany Dôverných informácií
+podľa tohto článku tejto Zmluvy, môže si Objednávateľ uplatniť voči Zhotoviteľovi zmluvnú
+pokutu vo výške 500,- Eur za každé preukázané porušenie. Zaplatením zmluvnej pokuty nie je
+dotknutý nárok Objednávateľa na náhradu škody, pričom zmluvná pokuta sa nezapočítava na
+úhradu škody, ktorá by Objednávateľovi vznikla porušením zmluvných povinností Zhotoviteľa.
+Článok II.
+
+2.
+2.1.
+
+Predmet plnenia
+Zhotoviteľ sa zaväzuje pre Objednávateľa riadne a včas zrealizovať nasledovné Služby (podrobne
+špecifikované v Prílohe č. 1, ktorá je neoddeliteľnou súčasťou tejto Zmluvy) :
+2.1.1. Rozšírenie funkcií ACSIS modulu pre Inšpekčné plánovanie.
+2.1.2. Rozšírenie ACSIS modulu Adresár o väzbu na Portál MS SR (Obchodný vestník).
+2.1.3. Rozšírenie ACSIS modulu eGovDB o väzbu na referenčný register RPO v MÚK (Modul
+úradnej komunikácie) ÚPVS.
+
+2.2.
+
+Zhotoviteľ udeľuje súhlas, aby Objednávateľ použil Dielo na účel vymedzený v tejto Zmluve.
+
+2.3.
+
+Objednávateľ sa zaväzuje zaplatiť Zhotoviteľovi odmenu za riadne a včasné uskutočnenie Služieb
+a udelenie súhlasu podľa bodu 2.2. tohto článku tejto Zmluvy za podmienok, spôsobom a
+v rozsahu uvedenom v tejto Zmluve.
+
+Článok III.
+3.
+3.1.
+
+Termín a miesto plnenia
+Zhotoviteľ dodá predmet tejto Zmluvy na miesto plnenia, ktorým je sídlo Objednávateľa na
+adrese: Bajkalská 27, 820 07 Bratislava.
+3
+
+3.2.
+
+Termín realizácie predmetu tejto Zmluvy je:
+3.2.1. Rozšírenie funkcií ACSIS modulu pre Inšpekčné plánovanie do 15. februára 2017.
+3.2.2. Rozšírenie ACSIS modulu Adresár o väzbu na Portál MS SR (Obchodný vestník) do 31.
+marca 2017.
+3.2.3. Rozšírenie ACSIS modulu eGovDB o väzbu na referenčný register RPO v MÚK (Modul
+úradnej komunikácie) ÚPVS do 31. mája 2017.
+
+3.3.
+
+Dodržanie termínu realizácie podľa bodu 3.2. je podmienené súčinnosťou Objednávateľa
+a prevádzkovateľou externých integrujúcich sa systémov podľa bodov 3.2.2 a 3.2.3
+
+3.4.
+
+V prípade neposkytnutia súčinnosti zo strany externých poskytovateľov je výsledný termín
+plnenia dva mesiace po poskytnutí súčinnosti.
+Článok IV.
+
+4.
+
+Zástupca
+
+4.1.
+
+Zodpovedné osoby Zástupca Objednávateľa na prevzatie predmetu plnenia pre účely tejto
+Zmluvy je stanovený zamestnanec Ing. Róbert Vlček, prípadne iný zamestnanec, dodatočne
+písomne určený Objednávateľom.
+
+4.2.
+
+Zástupca Zhotoviteľa pre účely tejto Zmluvy je stanovený Ing. Miroslav Uhlár, prípadne iný
+zamestnanec, dodatočne písomne určený Zhotoviteľom.
+Článok V.
+
+5.
+5.1.
+
+Cena, fakturačné a platobné podmienky
+Zmluvné strany sa výslovne dohodli, že cena za dodanie predmetu plnenia podľa tejto Zmluvy a
+udelenie súhlasu na použitie Diel vytvorených počas trvania platnosti a účinnosti tejto Zmluvy na
+dohodnutý účel je stanovená v súlade so zákonom Národnej rady Slovenskej republiky č.
+18/1996 Z. z. o cenách v znení neskorších predpisov a vyhláškou Ministerstva financií
+Slovenskej republiky č. 87/1996 Z .z., ktorou sa vykonáva zákon Národnej rady Slovenskej
+republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov, a to nasledovne:
+5.1.1. Za predmet plnenia podľa článku 2. bodu 2.1.1 tejto Zmluvy odplatu vo výške
+3.300,- EUR bez DPH (slovom: tritisíctristo EUR bez DPH), 3 960,- EUR s DPH (slovom:
+tritisícdeväťstošesťdesiat EUR s DPH),
+5.1.2. Za predmet plnenia podľa článku 2. bodu 2.1.2 tejto Zmluvy odplatu vo výške 4.800,- EUR
+bez DPH (slovom: štyritisícosemsto EUR bez DPH), 5.760,- EUR s DPH (slovom:
+päťtisícsedemstošesťdesiat EUR s DPH),
+5.1.3. Za predmet plnenia podľa článku 2. bodu 2.1.3 tejto Zmluvy odplatu vo výške 11.200,EUR bez DPH (slovom: jedenásťtisícdvesto EUR bez DPH), 13.440,- EUR s DPH (slovom:
+trinásťtisícštyristoštyridsať EUR s DPH).
+5.1.4. Celková cena zmluvy je 19 300,- EUR bez DPH (slovom: devätnásťtisíctristo EUR bez
+DPH), 23 160,- EUR s DPH (slovom: dvadsaťtritisícstošesťdesiat EUR s DPH).
+5.1.5. DPH bude fakturovaná v zodpovedajúcej výške stanovenej príslušným všeobecne
+záväzným právnym predpisom platným v SR.
+4
+
+5.2.
+
+Zhotoviteľ vystaví faktúry v dvoch vyhotoveniach a odošle ju na korešpondenčnú adresu
+Objednávateľa. Faktúra musí obsahovať náležitosti podľa u s t . § 74 zákona č. 222/2004 Z. z.
+o dani z pridanej hodnoty v znení neskorších predpisov vrátane čísla zmluvy podľa evidencie
+Objednávateľa. Neoddeliteľnou súčasťou každej faktúry vystavenej Zhotoviteľom musí byť
+Protokol o odovzdaní a prevzatí predmetu plnenia podľa tejto Zmluvy podpísaný Zhotoviteľom a
+potvrdený oprávneným zástupcom Objednávateľa (t.j. Ing. Róbert Vlček,) pri prevzatí
+poskytnutého plnenia podľa tejto Zmluvy.
+
+5.3.
+
+Platbu vykoná Objednávateľ za preukázateľne riadne a včas poskytnuté plnenie podľa tejto
+Zmluvy na základe riadne vystavenej faktúry do 30 dní odo dňa jej riadneho doručenia
+Objednávateľovi v dvoch vyhotoveniach na jeho korešpondenčnú adresu, a to na účet Zhotoviteľa
+uvedeného v záhlaví tejto Zmluvy.
+
+5.4.
+
+Pre účely tejto Zmluvy sa za dátum úhrady faktúry zo strany Objednávateľa považuje dátum
+odpísania platenej sumy z účtu Objednávateľa v jeho banke.
+
+5.5.
+
+V prípade, že faktúra nebude obsahovať všetky náležitosti daňového dokladu a/alebo jej
+súčasťou nebude Protokol o odovzdaní a prevzatí predmetu plnenia podľa tejto Zmluvy riadne
+potvrdený oprávneným zástupcom Objednávateľa, Objednávateľ má právo vrátiť faktúru
+Zhotoviteľovi na opravu alebo doplnenie. V takom prípade začne nová 30-dňová lehota
+splatnosti faktúry plynúť po doručení opravenej alebo doplnenej faktúry.
+
+5.6.
+
+Zmluvné strany sa dohodli, že na vykonávanie služieb v zmysle a za podmienok uvedených
+v tejto Zmluve Objednávateľ neposkytne Zhotoviteľovi žiadny preddavok.
+Článok VI.
+
+6. Záruky a servisné podmienky
+6.1.
+
+Zhotoviteľ je povinný dodať predmet Zmluvy v dohodnutom rozsahu, množstve a kvalite a
+prehlasuje, že predmet plnenia je bez právnych chýb.
+
+6.2.
+
+Na predmet Zmluvy sa vzťahujú záruka na software na jeden rok.
+
+6.3
+
+Počas trvania záruky sa zhotoviteľ zaväzuje bez zbytočného odkladu odstrániť všetky
+materiálové alebo softwarové poruchy na ním dodanom zariadení. Záruka sa nevzťahuje na
+chyby spôsobené nedodržaním záručných podmienok (t.j. napr. nesprávnou manipuláciou,
+nedodržaním prevádzkových podmienok výrobcu, neautorizovanými zásahmi do diela a pod.),
+živelnou pohromou alebo vyššou mocou.
+
+Článok VII.
+7. Sankcie
+7.1
+
+V prípade, že Zhotoviteľ nedodrží termín a čas poskytnutia služieb môže si Objednávateľ uplatniť
+voči Zhotoviteľovi zmluvnú pokutu vo výške 0,05 % z ceny nesplnenej časti diela za každý aj
+začatý deň omeškania. Zaplatením zmluvnej pokuty nie je dotknutý nárok Objednávateľa na
+5
+
+náhradu škody, pričom zmluvná pokuta sa nezapočítava na úhradu škody, ktorá by
+Objednávateľovi vznikla porušením zmluvných povinností Zhotoviteľa.
+7.2
+
+V prípade omeškania Objednávateľa s úhradou faktúry môže si Zhotoviteľ uplatniť voči
+Objednávateľovi úrok z omeškania v sadzbe podľa § 369a Obchodného zákonníka v spojení s § 1
+ods. 2 nariadenia vlády Slovenskej republiky č. 21/2013 Z. z., ktorým sa vykonávajú niektoré
+ustanovenia Obchodného zákonníka v znení nariadenia vlády Slovenskej republiky č. 303/2014
+Z. z.
+
+7.3
+
+Úroky z omeškania dohodnuté touto Zmluvou uhradí povinná strana na základe písomnej výzvy
+oprávnenej strany nezávisle na tom, či a v akej výške vznikne druhej strane škoda.
+
+7.4
+
+Dohodnuté úroky z omeškania je povinná strana zaplatiť strane oprávnenej do 21 dní odo dňa
+ich uplatnenia, pokiaľ titul na vznik takejto sankcie bol dôveryhodne preukázaný.
+Článok VIII.
+
+8.
+8.1
+8.2
+
+Ukončenie a zánik zmluvy
+Zmluva sa uzatvára na dobu určitú do 31. 5. 2017, resp. do doby podľa Čl.III, bodu 3.4. tejto
+zmluvy.
+Táto Zmluva zaniká:
+a) uplynutím času, na ktorý bola uzatvorená podľa bodu 8.1,
+b) písomnou dohodou zmluvných strán,
+c) písomnou výpoveďou Objednávateľa aj bez uvedenia dôvodu, pričom výpovedná lehota je 3 mesiace a začína plynúť prvým dňom po dni, v ktorom bola písomná výpoveď doručená
+Zhotoviteľovi,
+d) odstúpením od Zmluvy, pričom každá zo zmluvných strán je oprávnená odstúpiť od tejto
+Zmluvy pri podstatnom porušení zmluvnej povinnosti druhou zmluvnou stranou (napr.
+nedodržanie záväzku Zhotoviteľa poskytnúť predmet plnenia podľa tejto Zmluvy
+dohodnutým spôsobom, v dohodnutom množstve, kvalite, mieste, termíne a čase a pod.)
+alebo keď sa pre druhú zmluvnú stranu stalo splnenie podstatných zmluvných povinností
+úplne nemožným.
+Článok IX.
+
+9. Spolupráca zmluvných strán a práva a povinnosti zmluvných strán
+9.1.
+
+Objednávateľ sa zaväzuje vytvoriť zamestnancom Zhotoviteľa podmienky pre plynulý a nerušený
+priebeh realizácie predmetu Zmluvy, a to najmä:
+9.1.1. Vymenovať zamestnanca (zamestnancov), zodpovedného za koordináciu prác zo strany
+Objednávateľa, kompetentného podpisovať preberacie protokoly a vytvárať organizačné
+predpoklady pre realizáciu predmetu (projekt manažér pre integračné činnosti na
+externé subjekty).
+9.1.2. Zabezpečiť počas realizácie dodávky prítomnosť kompetentnej osoby na pracovisku zo
+strany Objednávateľa.
+9.1.3. Poskytnúť Zhotoviteľovi všetky relevantné informácie a prostriedky.
+9.1.4. Sprostredkovať pre pracovníkov Zhotoviteľa vstup do objektu budovy a miestnosti
+koncového zákazníka, kde má byť realizované Dielo, ktoré je predmetom tejto Zmluvy, a
+6
+
+to prednostne v rámci pracovnej doby a po dohode s koncovým zákazníkom i po
+pracovnej dobe.
+9.1.5. V prípade, že Objednávateľ nezabezpečí Zhotoviteľovi potrebnú súčinnosť, najmä
+nerušený priebeh realizácie predmetu Zmluvy a Zhotoviteľ je z toho dôvodu v omeškaní,
+posúva sa termín harmonogramu plnenia. Projektový manažér a zároveň zástupca
+Objednávateľa na prevzatie predmetu plnenia pre účely tejto Zmluvy v zmysle článku 4
+bod 4.1. tejto Zmluvy schváli nový termín harmonogramu plnenia.
+9.2.
+
+Zhotoviteľ sa zaväzuje:
+a) vykonávať predmet plnenia podľa tejto Zmluvy na kvalitnej a profesionálnej úrovni
+v zmysle a za podmienok uvedených v tejto Zmluve,
+b) vykonávať predmet plnenia podľa tejto Zmluvy riadne a včas, s odbornou starostlivosťou,
+v požadovanej kvalite, v súlade s požiadavkami všeobecne záväzných právnych predpisov
+platných v SR, ktoré sa na vykonávané plnenie vzťahujú a v zmysle a za podmienok
+dohodnutých v tejto Zmluve,
+c) pri zariaďovaní predmetu plnenia podľa tejto Zmluvy konať s potrebnou odbornou
+starostlivosťou podľa pokynov Objednávateľa,
+d) chrániť záujmy Objednávateľa súvisiace s vykonávaním predmet plnenia podľa tejto
+Zmluvy a oznámiť mu všetky okolnosti, ktoré môžu mať vplyv na zmenu jeho príkazov,
+resp. požiadaviek,
+e) pri vykonávaní predmetu plnenia podľa tejto Zmluvy dbať na záujmy a dobré meno
+Objednávateľa a konať v súlade so záujmami Objednávateľa, ktoré sú mu známe,
+f) dbať na to, aby jeho činnosť podľa tejto Zmluvy bola maximálne účelná a hospodárna,
+g) bezodkladne po zistení písomne upovedomiť Objednávateľa o všetkých prekážkach
+vykonávania predmetu plnenia podľa tejto Zmluvy a navrhnúť mu možnosti odstránenia
+týchto prekážok a ak ich nie je možné odstrániť, navrhnúť zmenu vykonávaných prác,
+h) dodržiavať všetky pokyny Objednávateľa k vykonávaniu predmetu plnenia podľa tejto
+Zmluvy a na požiadane informovať Objednávateľa o priebehu vykonávania predmetu
+plnenia podľa tejto Zmluvy,
+i) informovať Objednávateľa o všetkých skutočnostiach, ktoré sú významné pre splnenie
+povinností zmluvných strán podľa tejto Zmluvy, najmä o skutočnostiach, ktoré môžu byť
+významné pre rozhodovanie Objednávateľa v súvislosti s touto Zmluvou a/alebo o
+dôvodoch, ktoré Zhotoviteľovi bránia riadne a včas splniť si svoje povinnosti podľa tejto
+Zmluvy, a to bez zbytočného odkladu odo dňa, keď sa o nich Zhotoviteľ dozvedel.
+
+9.3.
+
+Zmluvné strany sa zaväzujú spolupracovať a poskytovať si navzájom súčinnosť pri plnení
+záväzkov vyplývajúcich z tejto Zmluvy.
+
+Článok X.
+10. Vyššia moc
+10.1.
+
+Pre účely tejto Zmluvy sa za vyššiu moc považujú prípady, ktoré nie sú závislé ani ich nemôžu
+nijako ovplyvniť zmluvné strany, napr. vojna, mobilizácia, povstanie, živelné pohromy (požiar,
+záplavy) a pod.
+
+10.2.
+
+Ak sa z dôvodu vyššej moci stane plnenie tejto Zmluvy nemožným, zmluvná strana, ktorá sa bude
+chcieť odvolať na túto vyššiu moc, môže tak urobiť z tohto dôvodu do troch mesiacov a žiadať
+7
+
+druhú stranu o úpravu tohto zmluvného vzťahu ohľadne jeho predmetu, ceny a času plnenia.
+10.3.
+
+Pokiaľ nepríde k dohode, má zmluvná strana, ktorá sa na prípad vyššej moci odvolala, právo
+odstúpiť od Zmluvy.
+Článok XI.
+
+11. Záverečné ustanovenia
+11.1.
+
+V prípade zmeny názvu, sídla, právnej formy, štatutárnych orgánov ako aj spôsobu ich konania za
+zmluvnú stranu, oprávnených zástupcov, bankového spojenia a čísla účtu, zmluvná strana, ktorej
+sa niektorá z týchto zmien týka, oznámi druhej zmluvnej strane túto skutočnosť a to bez
+zbytočného odkladu.
+
+11.2.
+
+Táto Zmluva patrí medzi povinne zverejňované zmluvy (vrátane dodatkov zmlúv) v centrálnom
+registri zmlúv vedenom na Úrade vlády SR podľa ustanovení § 5a ods. 1 a 6 zákona č. 211/2000
+Z. z. o slobodnom prístupe k informáciám v znení neskorších predpisov (ďalej len „zákon
+o slobodnom prístupe k informáciám“) v spojení s ustanoveniami § 1 ods. 2 Obchodného
+zákonníka a § 47a ods. 1 zákona č. 40/1964 Zb. Občianskeho zákonníka v znení neskorších
+predpisov (ďalej len „Občiansky zákonník“). Zhotoviteľ súhlasí so zverejnením tejto zmluvy a
+faktúr doručených Objednávateľovi, a to zverejnených Objednávateľom počas trvania jeho
+povinnosti podľa § 5a ods. 1 a 6 a § 5b zákona o slobodnom prístupe k informáciám.
+
+11.3.
+
+Táto Zmluva nadobúda platnosť a je pre zmluvné strany záväzná dňom podpisu oprávnenými
+zástupcami oboch zmluvných strán; ak oprávnení zástupcovia oboch zmluvných strán nepodpíšu
+túto Zmluvu v ten istý deň, tak rozhodujúci je deň neskoršieho podpisu. Zmluva nadobúda
+účinnosť dňom nasledujúcom po dni jej zverejnenia podľa § 47a ods. 1 Občianskeho zákonníka
+v znení neskorších predpisov.
+
+11.4.
+
+Pokiaľ v Zmluve nie je dohodnuté inak, riadia sa práva a povinnosti, právne pomery z nej
+vyplývajúce, vznikajúce a súvisiace, len slovenským právnym poriadkom a to najmä Obchodným
+zákonníkom a súvisiacimi všeobecne záväznými právnymi predpismi platnými v SR.
+
+11.5.
+
+Akékoľvek zmeny alebo doplnky obsahu tejto Zmluvy musia byť urobené formou písomných
+dodatkov, ktoré budú platné, ak budú riadne potvrdené a podpísané oprávnenými zástupcami
+oboch zmluvných strán. Po obojstrannom potvrdení sa stanú neoddeliteľnou súčasťou tejto
+Zmluvy.
+
+11.6.
+
+Táto Zmluva je vyhotovená v štyroch vyhotoveniach s platnosťou originálu, z ktorých každá
+zmluvná strana obdrží po dve vyhotovenia.
+
+11.7.
+
+Zmluvné strany vyhlasujú, že sú spôsobilé na právne úkony, ich vôľa je slobodná a vážna, prejav
+vôle je dostatočne zrozumiteľný a určitý, zmluvná voľnosť nie je obmedzená a právny úkon je
+urobený v predpísanej forme. Zmluvné strany si zmluvu prečítali a bez výhrad súhlasia s jej
+ustanoveniami.
+
+11.8.
+
+Nedeliteľnou súčasťou tejto Zmluvy je príloha č. 1 – Špecifikácie jednotlivých predmetov plnenia
+v zmysle Zmluvy.
+8
+
+V ………………………………
+
+Zhotoviteľ:.........................................................
+eDevelopment, s.r.o.
+Ing. Miroslav Uhlár, konateľ spoločnosti
+
+Objednávateľ:...................................................................
+Úrad jadrového dozoru Slovenskej
+republiky
+Ing. Marta Žiaková CSc., predsedníčka ÚJD SR
+
+9
+
+PRÍLOHA č.1 k Zmluve
+
+V prílohe sú špecifikované jednotlivé predmety plnenia v zmysle Zmluvy, a to :
+ Rozšírenie funkcií ACSIS modulu pre Inšpekčné plánovanie
+ Rozšírenie ACSIS modulu Adresár o väzbu na Portál MS SR (Obchodný vestník)
+ Rozšírenie ACSIS modulu eGovDB o väzbu na referenčný register RPO v MÚK (Modul
+úradnej komunikácie) ÚPVS
+
+Rozšírenie funkcií ACSIS modulu pre Inšpekčné plánovanie
+Predmetom plnenia je:
+
+
+Zmena životného cyklu plánovaných inšpekcií
+o Podpora pre zneplatnenie plánovaných akcií
+o Integrácia do štatistík inšpekčného modulu
+o Synchronizácia s hláseniami v štatistikách
+
+
+
+Úprava a rozšírenie štatistických prehľadov
+o Doplnenie štatistík pre aktuálne obdobie
+o Doplnenie účelových štatistík pre potreby koncoročného auditu
+
+
+
+Grafické rozlíšenie opatrení podľa stavu plnenia
+o Väzba stavových informácií do reportov
+o Grafické rozlíšenie jednotlivých stavov
+o Možnosť exportu údajov do externého prostredia
+
+
+
+Grafické rozlíšenie inšpekcií podľa časového obdobia
+o Väzba časových údajov do reportov
+o Grafické rozlíšenie inšpekcií podľa obdobia
+o Možnosť exportu údajov do externého prostredia
+
+
+
+Automatizácia prípravy koncoročného auditu
+o Parametrizácia šablón pre koncoročný audit
+o Podpora pre väzbu medzi databázovými údajmi a dokumentom z auditu
+
+
+
+Rozšírenie systému „batch“ procesov o synchronizáciu dát pri zmene čísla inšpektorov
+o Väzba na Hlásenia
+o Väzba na Zistenia
+o Väzba na Opatrenia
+Doplnenie systému auditovania zmien položiek
+Väzba na dokumenty z externého prostredia (editovateľné resp. scan)
+
+
+
+
+Strana: 10
+
+Rozšírenie ACSIS modulu Adresár o väzbu na Portál MS SR (obchodný vestník)
+
+Predmet
+Predmetom plnenia je:
+
+
+Analýza API dokumentácie portálu MS SR v časti Obchodný vestník
+o Identifikácia objektov prenosu
+o Identifikácia WSDL štruktúr
+o Identifikácia XSD schém
+
+
+
+Design synchronizačného modelu
+o Transformačný model údajov Portálu MS SR vo vzťahu k ACSIS modulu
+o Automatizačné rutiny
+o Vizualizačné GUI - používateľské
+o Vizualizačné GUI - administrátorské
+
+
+
+Realizácia rozšírenia vo vývojovom prostredí Portálu MS SR
+o Vytvorenie manuálneho synchronizačného modulu na vybranom objekte
+o Vytvorenie konfiguračnej časti
+o Vytvorenie GUI
+o Príprava vývojového prostredia ACSIS modulu Adresár
+o Rozšírenie ACSIS modulu Adresár
+ o konfiguračnú časť monitorovaných organizácií
+ o vizualizačné formuláre pre jednotlivé návratové typy
+
+
+
+Pilotné testovanie modulu vo vývojovom prostredí
+o Zaškolenie účastníkov pilotného testovania
+o Konfigurácia monitorovacej vzorky
+o Manuálne resp. automatizované spracovanie synchronizácie
+o Vyhodnotenie pilotného testovania
+
+
+
+Revízia riešenia
+o Zapracovanie oprávnených pripomienok
+o Vytvorenie novej verzie ACSIS modulu Adresár
+o Nastavenie synchronizácie
+
+
+
+Presun systému do produkčného prostredia
+o Dokumentovanie rozšírenej funkčnosti
+o Konfigurácia reálnych monitorovacích vzoriek
+o Podpora pri prevádzke
+
+Strana: 11
+
+Rozšírenie ACSIS modulu eGovDB o väzbu na referenčný register RPO v MÚK (Modul
+úradnej komunikácie) ÚPVS
+
+Predmet
+Predmetom plnenia je:
+
+
+Príprava dohody o úrovni poskytovaných služieb a manažmente post-implementačných
+zmien (integračný SLA kontrakt) z MÚK
+
+
+
+Príprava integračného technického návrhu pre integráciu na RPO
+o Podrobný dátový model objektov evidencie
+o Popis sieťovej konfigurácie a prepojenia
+o Podrobné scenáre použitia
+
+
+
+Spolupráca pri prepojení infraštruktúry ÚJD SR a MÚK
+o Identifikácia potrieb riešenia z hľadiska sieťových služieb ÚJD SR
+o Koordinovanie špecialistov ÚJD SR pri vytvorení prepojenia
+
+
+
+Príprava realizácie
+o Príprava testovacieho plánu
+o Príprava testovacích scenárov a prípadov
+o Návrh väzobného komponentu na referenčný register RPO v MÚK
+
+
+
+Realizácia vo vývojovom prostredí
+o Príprava vývojového prostredia ACSIS modulu eGovDB
+o Naprogramovanie väzobného komponentu vo vývojovom prostredí
+o Rozšírenie ACSIS modulu eGovDB
+ o konfiguračnú časť monitorovaných organizácií
+ o vizualizačné formuláre pre jednotlivé návratové typy
+o Vykonanie integračných testov vo vývojovom prostredí
+
+
+
+Revízia riešenia
+o Zapracovanie oprávnených pripomienok
+o Vytvorenie novej verzie ACSIS modulu eGovDB
+o Nastavenie synchronizácie
+
+
+
+Presun systému do produkčného prostredia
+o Dokumentovanie rozšírenej funkčnosti
+o Konfigurácia reálnych monitorovacích vzoriek
+o Podpora pri prevádzke
+
+Strana: 12
+
+

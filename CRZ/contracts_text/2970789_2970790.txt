@@ -1,0 +1,2046 @@
+RÁMCOVÁ DOHODA
+SLUŽBY TECHNICKEJ PODPORY A SPRÁVY DÁTOVÉHO CENTRA REZORTU
+ŠKOLSTVA
+uzavretá v zmysle § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov a v zmysle § 83 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov
+(ďalej len „Obchodný zákonník“ a „Zmluva“)
+Objednávateľ:
+obchodné meno:
+sídlo:
+zástupený:
+IČO:
+bankové spojenie:
+
+Ministerstvo školstva, vedy, výskumu a športu SR
+Stromová 1, 813 30 Bratislava
+prof.Ing.Peter Plavčan, CSc., minister
+00 164 381
+SK80 8180 0000 0070 0006 5236
+(ďalej len „Objednávateľ“)
+
+Poskytovateľ:
+obchodné meno:
+sídlo:
+zapísaný v registri:
+štatutárny zástupca:
+IČO:
+DIČ:
+IČ DPH:
+bankové spojenie:
+
+Vision IT Solutions, a.s.
+Tower 115, Pribinova 25, 811 09 Bratislava
+Okresného súdu Bratislava I., oddiel Sa, vložka č.5127/B
+Ing. Mgr. Gabriel Herbrik, predseda predstavenstva
+36815799
+2022424008
+SK 2022424008
+Tatra Banka, a.s. 2927836056/1100
+(ďalej len “Poskytovateľ”)
+
+(ďalej Objednávateľ a Poskytovateľ aj ako “Zmluvné strany”)
+uzavierajú túto zmluvu:
+Preambula
+Táto zmluva je uzavretá ako výsledok procesu verejného obstarávania nadlimitnej zákazky
+s názvom „Služby technickej podpory a správy pre Dátové centrum rezortu školstva“
+v súlade s § 66 ods. 7 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších zákonov, ktorá bola zverejnená vo vestníku Úradu
+pre úradné publikácie Európskej únie TED Oznámením o vyhlásení verejného obstarávania
+dňa 18.03.2017 pod evidenčným číslom 2017/S 055-102055 a vo vestníku Úradu pre verejné
+obstarávanie č. 57/2017 dňa 21.03.2017 pod evidenčným číslom 03467 - MSS.
+
+Strana 1
+
+1)
+
+2)
+3)
+4)
+
+5)
+
+6)
+
+7)
+
+8)
+9)
+10)
+
+11)
+
+12)
+
+1)
+
+2)
+
+3)
+4)
+
+Čl.1
+Definície pojmov
+Služby technickej podpory a správy (ďalej aj ako „Služby“) sú služby spočívajúce v
+zabezpečení vysokej dostupnosti kritických komponentov technickej a komunikačnej
+infraštruktúry a úrovní hardvéru, firmvéru a systémových ovládačov.
+Oprava/odstránenie incidentu je servisný zásah znižujúci kategóriu incidentu alebo
+vyriešenie incidentu.
+Nástup na riešenie incidentu znamená začatie servisných prác s využitím vzdialeného
+prístupu a/alebo priamo v lokalite umiestnenia HW a SW vybavenia.
+Vyriešenie incidentu znamená:
+a) Odstránenie príčiny incidentu,
+b) Poskytnutie náhradného riešenia – obmedzenie alebo vylúčenie dopadu incidentu,
+alebo problému, pre ktoré zatiaľ nie je k dispozícii úplné riešenie.
+Reakčná doba (response time) je definovaná ako doba trvania medzi časom prijatia a
+zaprotokolovania chyby v centrálnom Help-desku a časom spätného hlásenia na miesto
+zadania spolu s informáciou o plánovanom opatrení alebo náhradnom riešení.
+Help-desk je jednotný bod kontaktu pre pracovníkov objednávateľa, pokiaľ ide o akékoľvek
+Služby podľa tejto zmluvy. Poskytovateľ zriadi takýto Help desk, aby:
+a) odstránil chyby, ktoré sa vyskytli počas poskytovania Služieb,
+b) vybavil požiadavky a sťažnosti objednávateľa.
+pričom vyššie uvedené chyby, požiadavky a sťažnosti budú prijímané prostredníctvom
+webovej stránky a/alebo telefónneho čísla a/alebo emailovej adresy, určených
+Poskytovateľom.
+Dátové centrum rezortu školstva (ďalej aj ako „DCRŠ“) profesionálne riešenie umiestnenia
+a správy serverov, diskových polí a ďalších prvkov informačno-komunikačnej infraštruktúry
+vo fyzickej alebo virtuálnej forme.
+Systém je súbor HW a SW komponentov DCRŠ.
+Hardvér (ďalej aj ako „HW“) je súbor technických prostriedkov Systému, ktoré tvoria pevné
+hmatateľné súčasti Systému, špecifikovaný v Prílohe č. 2 tejto zmluvy.
+Softvér (ďalej aj ako „SW“) je programové vybavenie počítača alebo súhrn všetkých
+programov, ktoré sa dajú použiť na HW, najmä firmware a drivery ako aj SW, špecifikovaný
+v Prílohe č. 2 tejto zmluvy.
+Chyba/vada je akákoľvek vada, chyba, nedostatok, porucha alebo akýkoľvek iný problém
+SW, HW, alebo Systému ako celku, brániaci jeho riadnemu a/alebo bezporuchovému
+užívaniu vrátane právnych vád SW alebo HW, a/alebo spôsobujúci jeho čiastočnú alebo
+úplnú nefunkčnosť, a/alebo spôsobujúci čiastočné a/alebo úplné obmedzenie jeho
+používania/prevádzky.
+Náhradný diel je HW komponent odporúčaný výrobcom Systému potrebný pre odstránenie
+Chyby Systému.
+Čl.2
+Predmet zmluvy
+Predmetom tejto zmluvy je záväzok poskytovateľa poskytovať objednávateľovi Služby
+technickej podpory a správy DCRŠ s cieľom udržiavať DCRŠ v prevádzky schopnom stave.
+Rozsah a podmienky poskytovania Služieb sú podrobne popísané v Prílohe č. 1 zmluvy –
+Opis predmetu obstarávania, ktorá je neoddeliteľnou súčasťou tejto zmluvy.
+Prevádzkovaný HW a SW je popísaný v Prílohe č. 2 zmluvy – Zoznam prevádzkovaného
+HW a SW, ktorá je neoddeliteľnou súčasťou tejto zmluvy. Aktualizácia zoznamu
+prevádzkovaného HW a SW počas účinnosti zmluvy nevyžaduje zmenu zmluvy.
+Objednávateľ je však povinný túto zmenu bezodkladne písomne oznámiť Poskytovateľovi.
+Služby budú poskytované na základe objednávok.
+Služby budú poskytované formou diaľkovej správy alebo priamo na pracovisku
+Objednávateľa: Dátové centrum rezortu školstva, Hanulova 5/B, Bratislava, resp. v iných
+priestoroch MŠVVaŠ SR.
+
+Strana 2
+
+5)
+
+1)
+2)
+
+3)
+4)
+
+5)
+
+6)
+
+7)
+
+1)
+
+Služby podľa tejto Zmluvy sa považujú za vykonané dňom podpisu akceptačného protokolu
+o ich vykonaní oprávnenými zástupcami oboch zmluvných strán.
+Čl.3
+Cena a platobné podmienky
+Cena za Služby je dohodnutá v zmysle zákona Národnej rady Slovenskej republiky č.
+18/1996 Z. z. o cenách v znení neskorších predpisov.
+Maximálny rozsah poskytovaných služieb počas 48 mesiacov je stanovený vo výške
+1 914 088,00 € bez DPH. Tento rozsah nesmie byť prekročený. Objednávateľ nie je počas
+platnosti a účinnosti tejto Servisnej zmluvy povinný vyčerpať celú uvedenú maximálnu cenu
+v EUR vrátane DPH.
+Čiastkové ceny za jednotlivé Služby sú rozpísané v Prílohe č. 3 zmluvy – Hodinové sadzby
+expertov, ktorá je neoddeliteľnou súčasťou tejto zmluvy.
+K cene bude uplatnená DPH podľa platných právnych predpisov a Služby budú
+Poskytovateľom fakturované Objednávateľovi v mene EUR. Faktúra za Služby podľa tejto
+zmluvy je splatná do 30 kalendárnych dní odo dňa jej doručenia Objednávateľovi.
+Neoddeliteľnou prílohou faktúry bude Výkaz vykonaných prác - podrobný popis jednotlivých
+Služieb, za poskytnutie ktorých bude Poskytovateľ uplatňovať čiastkové ceny.
+Zmluvné strany sa vzájomne dohodli, že cenu za Služby poskytnuté v príslušnom mesiaci
+uhradí Objednávateľ Poskytovateľovi na základe faktúry vystavenej Poskytovateľom
+a doručenej Objednávateľovi po uplynutí príslušného mesiaca, v ktorom došlo k poskytnutiu
+fakturovaných Služieb. Lehota splatnosti faktúry je 30 dní. Faktúra musí obsahovať všetky
+náležitosti daňového dokladu a jej prílohou musí byť Výkaz vykonaných prác špecifikovaný
+v Prílohe č. 2 tejto zmluvy. V prípade, že faktúra neobsahuje všetky náležitosti daňového
+dokladu alebo Objednávateľom potvrdený Výkaz vykonaných prác, je Objednávateľ
+oprávnený vrátiť faktúru Poskytovateľovi na prepracovanie alebo doplnenie, pričom nová
+lehota splatnosti faktúry začne plynúť až po predložení prepracovanej faktúry spĺňajúcej
+všetky náležitosti daňového dokladu.
+V prípade omeškania Objednávateľa s úhradou faktúry Poskytovateľovi o viac ako 30 dní je
+Poskytovateľ oprávnený odložiť splnenie vlastných záväzkov až do uskutočnenia
+omeškaných platieb alebo plnení.
+Zmluvné strany sa vzájomne dohodli, že v prípade, ak poskytnutie Služieb spočíva v
+poskytnutí Náhradného dielu, nebude cena za poskytnutý Náhradný diel predmetom
+osobitného vyúčtovania, nakoľko je zahrnutá v cene Služieb podľa tejto zmluvy.
+Odinštalovaný vadný Náhradný diel si Poskytovateľ prevezme pre účely ukončenia
+servisného zásahu.
+Čl.4
+Práva a povinnosti zmluvných strán
+Objednávateľ sa zaväzuje, že pre riadne plnenie záväzkov Poskytovateľa z tejto zmluvy
+poskytne tomuto bezodplatne primeranú súčinnosť, a to najmä tým, že:
+ najneskôr ku dňu podpisu tejto zmluvy nainštaluje technické prostriedky, ktorými
+Poskytovateľovi umožní vzdialený prístup k Systému a pri realizácií vzdialeného
+prístupu umožní Poskytovateľovi vzdialený prístup do Systému v Poskytovateľom
+požadovanej lehote,
+ zabezpečí prístup povereným pracovníkom Poskytovateľa na pracoviská
+Objednávateľa v rozsahu potrebnom na plnenie záväzkov z tejto zmluvy,
+ vytvorí pre pracovníkov Poskytovateľa vykonávajúcich Služby primerané pracovné
+podmienky,
+ poskytne Poskytovateľovi pre vykonávanie Služieb nasledujúce podklady a
+prostriedky:
+ denník operátora, protokoly, chybové výpisy;
+ inštalačné médiá, programy, dokumentáciu;
+ na požiadanie aj zodpovedného pracovníka,
+ v prípade potreby poskytne Poskytovateľovi k vykonaniu Služieb zdarma telefónne
+Strana 3
+
+2)
+
+3)
+4)
+5)
+
+6)
+7)
+
+8)
+9)
+
+10)
+
+11)
+
+12)
+
+13)
+14)
+
+15)
+
+16)
+
+17)
+
+spojenie v blízkosti servisovaného Systému a umožní použitie existujúcich liniek,
+ zabezpečí potrebný rozsah súčinnosti tretích osôb.
+Poskytovateľ sa zaväzuje nastúpiť na odstránenie riadne nahlásenej vady podľa podmienok
+uvedených v prílohe č.1 tejto zmluvy. Za nástup na odstránenie vady sa pre účely tejto
+zmluvy rozumie pripojenie sa Poskytovateľa cez vzdialený prístup alebo príchod na miesto
+výskytu vady (on-site).
+Riadne nahlásené vady sa Poskytovateľ zaväzuje odstrániť v lehotách uvedených v Prílohe
+č. 1 tejto zmluvy, ak sa zmluvné strany nedohodnú inak.
+Objednávateľ písomne oznámi Poskytovateľovi osobu, ktorá bude poverená konať vo
+veciach plnenia predmetu tejto zmluvy do 5 pracovných dní odo dňa účinnosti tejto zmluvy.
+Poverená osoba Objednávateľa je oprávnená v mene Objednávateľa najmä zabezpečovať
+nahlasovanie požiadaviek Objednávateľa, poskytovať súčinnosť Poskytovateľovi,
+komunikovať v zmysle tejto zmluvy s poverenou osobou Poskytovateľa a podpisovať
+akceptačné protokoly.
+Poskytovateľ písomne oznámi Objednávateľovi osobu, ktorá bude poverená konať vo
+veciach plnenia predmetu tejto zmluvy do 5 pracovných dní odo dňa účinnosti tejto zmluvy.
+Poverená osoba Poskytovateľa je oprávnená v mene Poskytovateľa najmä zabezpečovať
+riešenie požiadaviek Objednávateľa, komunikovať v zmysle tejto zmluvy s poverenou osobou
+Objednávateľa, riešiť reklamácie s cieľom odstrániť prípadné nedostatky plnenia zmluvy,
+navrhovať zmeny tejto zmluvy a podpisovať akceptačné protokoly.
+Zmluvné strany môžu kedykoľvek zmeniť nimi poverenú osobu. Zmena je voči druhej
+zmluvnej strane účinná odo dňa doručenia písomného oznámenia o zmene poverenej osoby.
+Zmluvné strany môžu kedykoľvek zmeniť a/alebo doplniť nimi dohodnuté kontaktné čísla a
+adresy. Zmena voči druhej zmluvnej strane je účinná odo dňa doručenia písomného
+oznámenia o zmene kontaktných údajov.
+Poskytovateľ nebude v omeškaní, ak jeho záväzok na plnenia/činnosti podľa tejto zmluvy
+nemohol byť riadne a včas splnený pre to, že Objednávateľ mu, z akéhokoľvek dôvodu,
+riadne a včas neposkytol súčinnosť povinnú podľa tejto zmluvy - lehoty pre plnenia/činnosti
+Poskytovateľa podľa tejto zmluvy sa predlžia o dobu trvania neposkytnutia súčinnosti.
+Ak v dôsledku Vady HW došlo k vzniku Vady na inom vybavení, ktoré nie je predmetom tejto
+zmluvy, Poskytovateľ nebude povinný zabezpečiť Služby na inom vybavení v rámci tejto
+zmluvy. To neplatí, ak k vzniku Vady na inom vybavení došlo v dôsledku porušenia
+povinností Poskytovateľa podľa tejto zmluvy.
+Poskytovateľ je povinný plniť túto zmluvu prostredníctvom vhodného a odborne spôsobilého
+a vyškoleného personálu, alebo s využitím personálnych a technických zdrojov tretích strán
+(subdodávateľ). Zodpovednosť za škodu spôsobenú pri plnení tejto zmluvy zo strany iných
+osôb ako Poskytovateľa nesie v plnom rozsahu Poskytovateľ.
+Poskytovateľ sa zaväzuje, že pri realizácii Služieb bude zasahovať do prevádzkovej činnosti
+Objednávateľa iba v nevyhnutnom rozsahu a so súhlasom Objednávateľa.
+Zmluvné strany sa dohodli, že ak jedna zo zmluvných strán bude mať vedomosť
+o akejkoľvek skutočnosti alebo okolnosti, ktorá by mohla mať priamo alebo nepriamo vplyv
+na plnenie predmetu zmluvy, je táto zmluvná strana povinná bez zbytočného odkladu o tejto
+skutočnosti alebo okolnosti informovať druhú zmluvnú stranu.
+Poskytovateľ sa zaväzuje, že Služby bude poskytovať v súlade so zákonom č. 275/2006 Z.
+z. o informačných systémoch verejnej správy v znení neskorších predpisov, výnosom MF SR
+č. 55/2014 Z. z. o štandardoch pre informačné systémy verejnej správy a zákonom č.
+122/2013 Z. z. o ochrane osobných údajov v znení neskorších predpisov a inými platnými
+všeobecne záväznými právnymi predpismi.
+Poskytovateľ sa rovnako zaväzuje dodržiavať právne predpisy na zaistenie BOZP a PO;
+dodržiavať ostatné predpisy, zásady bezpečnej práce, zásady ochrany zdravia pri práci a
+zásady bezpečného správania na pracoviskách Objednávateľa, určené pracovné postupy
+a interné pokyny Objednávateľa na zaistenie BOZP a PO, s ktorými bol preukázateľne
+oboznámený.
+Poskytovateľ je povinný v súvislosti s plnením tejto zmluvy náležite inštalovať, používať
+a udržiavať bezpečnostné a ochranné zariadenia nevyhnutné pre ochranu zamestnancov
+Strana 4
+
+18)
+
+19)
+
+20)
+
+1)
+
+2)
+
+1)
+
+2)
+
+3)
+
+Objednávateľa.
+Poskytovateľ je povinný:
+4.18.1. vybaviť svojich zamestnancov a osoby, prostredníctvom, ktorých bude plniť predmet
+zmluvy, viditeľným označením logom Poskytovateľa,
+4.18.2. zabezpečiť pohyb svojich zamestnancov a osôb, prostredníctvom, ktorých bude
+plniť predmet zmluvy, len na miestach plnenia predmetu zmluvy a priestoroch
+súvisiacich s plnením predmetu tejto zmluvy.
+Poskytovateľ sa zaväzuje poskytnúť služby Objednávateľovi v súlade s opisom predmetu
+zákazky, ktorý tvorí prílohu č.1 tejto Zmluvy a to prostredníctvom expertov, ktorí spĺňajú
+podmienky účasti. Poskytovateľ v plnom rozsahu zodpovedá za výber expertov. V prípade
+potreby zmeny experta je Poskytovateľ povinný bezodkladne oznámiť navrhovanú zmenu
+Objednávateľovi, pričom expert, ktorého sa týka návrh na zmenu, musí spĺňať a preukázať
+splnenie všetkých podmienok účasti, resp. požiadaviek kladených na nahradeného experta.
+Objednávateľ si vyhradzuje právo žiadať kedykoľvek výmenu experta a súčasne si
+vyhradzuje právo na odsúhlasenie akejkoľvek zmeny experta. Opis predmetu Zákazky je
+neoddeliteľnou súčasťou tejto Zmluvy a tvorí prílohu č. 1.
+Poskytovateľ je povinný predložiť menný zoznam expertov do 30 kalendárnych dní od
+účinnosti tejto Zmluvy. Ku expertom, ktorými Poskytovateľ nepreukázal splnenie podmienok
+účasti v rámci predloženej ponuky vo verejnom obstarávaní, je Poskytovateľ povinný
+predložiť Objednávateľovi dokumenty a doklady, ktorými preukáže splnenie minimálnych
+požiadaviek na doplnených expertov. Objednávateľ si vyhradzuje právo kedykoľvek žiadať
+výmenu experta a súčasne si vyhradzuje právo na odsúhlasenie akejkoľvek zmeny experta.
+Čl.5
+Vyššia moc
+Poskytovateľ nebude v omeškaní, ak záväzok na plnenia, alebo činnosti podľa tejto zmluvy
+nemohol riadne a včas splniť pre okolnosti, ktoré po uzavretí tejto zmluvy vznikli v dôsledku
+ním nepredvídateľných a neodvrátiteľných skutočností mimoriadnej povahy (vyššia moc).
+Lehoty pre plnenia alebo činnosti Poskytovateľa podľa tejto zmluvy sa predĺžia o dobu
+zodpovedajúcu dobe trvania takýchto okolností.
+Pri vzniku niektorej okolnosti vyššej moci bude postihnutá zmluvná strana druhú zmluvnú
+stranu bez zbytočného odkladu písomne informovať.
+Čl.6
+Subdodávateľ
+Na plnenie predmetu Zmluvy môže zhotoviteľ využiť subdodávateľov. Zhotoviteľ je povinný
+pri uzatvorení Zmluvy uviesť zoznam subdodávateľov, ktorý obsahuje údaje o všetkých
+známych subdodávateľoch zhotoviteľa v čase uzatvorenia Zmluvy a údaje o osobe
+oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko, adresa pobytu a dátum
+narodenia. Poskytovateľ je povinný do 30 dní od účinnosti zmluvy predložiť zoznam
+subdodávateľov, ktorý bude obsahovať minimálne podiel plnenia zo Zmluvy v % a stručný
+opis časti Zmluvy, ktorá bude predmetom subdodávky.
+Zhotoviteľ je povinný písomne oznámiť objednávateľovi akúkoľvek zmenu údajov
+o subdodávateľovi najneskôr do 5 pracovných dní odo dňa uskutočnenia tejto zmeny
+písomnou formou na adresu uvedenú v záhlaví Zmluvy.
+V prípade zmeny subdodávateľa je zhotoviteľ povinný písomne oznámiť objednávateľovi
+údaje o navrhovanom novom subdodávateľovi a o osobe oprávnenej konať za
+subdodávateľa v rozsahu meno a priezvisko, adresa pobytu a dátum narodenia. Nový
+subdodávateľ musí spĺňať podmienky podľa bodu 3 tohto článku Zmluvy.
+V prípade, ak objednávateľ v súťažných podkladoch vyžadoval, aby subdodávateľ spĺňal aj
+podmienky účasti týkajúce sa osobného postavenia a neexistovali u neho dôvody na
+vylúčenie podľa § 40 ods. 6 písm. a) až h) a ods. 7 zákona o verejnom obstarávaní
+a oprávnenie dodávať tovar, musí tieto spĺňať aj nový subdodávateľ. Súčasne sa vzťahuje na
+
+Strana 5
+
+4)
+5)
+
+6)
+
+1)
+
+2)
+
+3)
+
+1)
+
+2)
+3)
+
+4)
+
+1)
+2)
+
+3)
+4)
+
+5)
+
+nového subdodávateľa povinnosť byť zapísaný v registri partnerov verejného sektora podľa
+zákona o registri partnerov verejného sektora.
+Využitím subdodávateľov nie je dotknutá zodpovednosť zhotoviteľa za plnenie predmetu
+Zmluvy.
+Poskytovateľ je oprávnený zmeniť Subdodávateľa v priebehu vykonávania predmetu zmluvy,
+a to až po písomnom odsúhlasení zmeny Subdodávateľa Objednávateľom. Na tento účel je
+Poskytovateľ povinný písomne oznámiť Objednávateľovi zmenu Subdodávateľa a označiť
+nového Subdodávateľa v minimálnom rozsahu: obchodné meno, sídlo/miesto podnikania,
+IČO. Nový Subdodávateľ musí spĺňať podmienky účasti podľa § 32 ods. 1 zákona o
+verejnom obstarávaní, čo preukáže Poskytovateľ predložením dokladov, z ktorých je to
+možné posúdiť.
+Poskytovateľ je povinný zmeniť Subdodávateľa v prípade ak subdodávateľ prestal spĺňať
+podmienky účasti podľa § 32 ods. 1 zákona o verejnom obstarávaní.
+Čl.7
+Zodpovednosť za škodu a sankcie
+Poskytovateľ zodpovedá za škodu spôsobenú Objednávateľovi pri plnení záväzkov z tejto
+zmluvy v plnom rozsahu. Ak je to možné a účelné, môže Poskytovateľ škodu na Systéme, za
+ktorú zodpovedá, odstrániť uvedením Systému do pôvodného stavu na svoje náklady.
+V prípade, ak Poskytovateľ neposkytne Služby podľa tejto zmluvy riadne a včas, je
+Objednávateľ oprávnený uplatniť si voči Poskytovateľovi zmluvnú pokutu vo výške 0,05 %
+z celkovej ceny za Služby, a to za každý aj začatý deň omeškania Poskytovateľa s
+poskytnutím Služieb.
+V prípade omeškania Objednávateľa s úhradou faktúry Poskytovateľovi je Poskytovateľ
+oprávnený uplatniť si voči Objednávateľovi úrok z omeškania vo výške 0,05 % z dlžnej sumy,
+a to za každý aj začatý deň omeškania s úhradou faktúry.
+Čl.8
+Zodpovednosť za vady
+Poskytovateľ poskytuje záruku na Služby v dĺžke 12 mesiacov od ich poskytnutia. V prípade,
+ak poskytnutie Služieb spočíva v poskytnutí Náhradného dielu, Poskytovateľ poskytuje
+záruku v dĺžke 2 roky od jeho poskytnutia, ak neposkytuje výrobca Náhradného dielu dlhšiu
+záruku.
+Zmluvné strany sa dohodli, že počas záručnej doby má Objednávateľ právo požadovať a
+Poskytovateľ povinnosť bezplatne odstrániť vady Služieb.
+Nárok na odstránenie vád Služieb Objednávateľ uplatní u poverenej osoby Poskytovateľa ,
+prípadne na iné adresy písomne oznámené Poskytovateľom Objednávateľovi. Vady Služieb
+musia byť primeraným spôsobom zrozumiteľne a dostatočne popísané.
+Poskytovateľ sa zaväzuje, že v každom konkrétnom prípade riadne reklamovanú vadu
+Služieb odstráni najneskôr v lehote 10 dní od jej uplatnenia, ak sa oprávnení zástupcovia
+zmluvných strán nedohodnú inak.
+Čl.9
+Trvanie a ukončenie zmluvy
+Táto zmluva sa uzatvára na dobu určitú, a to na 48 kalendárnych mesiacov odo dňa
+nadobudnutia účinnosti tejto zmluvy.
+Túto zmluvu možno ukončiť pred uplynutím dohodnutej doby trvania zmluvy písomnou
+dohodou obidvoch zmluvných strán, alebo jednostranným odstúpením niektorej zo
+zmluvných strán od zmluvy, alebo výpoveďou ktorejkoľvek zmluvnej strany.
+Od tejto zmluvy možno odstúpiť iba v prípadoch uvedených v zákone a v prípadoch
+uvedených v tomto článku zmluvy a podľa podmienok uvedených v tomto článku zmluvy.
+Ak Objednávateľ bude v omeškaní s poskytnutím súčinnosti podľa článku 4 bod 1 tejto
+zmluvy a túto súčinnosť neposkytne ani v dodatočnej lehote poskytnutej Poskytovateľom v
+dĺžke najmenej 30 dní, Poskytovateľ môže odstúpiť od tejto zmluvy.
+Ak Objednávateľ bude v omeškaní s úhradou faktúry Poskytovateľovi o viac ako 30 dní
+Strana 6
+
+6)
+
+7)
+
+8)
+9)
+
+10)
+
+1)
+
+2)
+
+3)
+
+4)
+
+a tento záväzok nesplní ani v dodatočnej lehote poskytnutej Poskytovateľom v dĺžke
+najmenej 15 dní, Poskytovateľ môže odstúpiť od tejto zmluvy.
+Objednávateľ je oprávnený odstúpiť od tejto zmluvy, ak Poskytovateľ bude v omeškaní
+s poskytnutím Služieb alebo poruší iné povinnosti uvedené v tejto zmluve a svoju povinnosť
+nesplní ani v dodatočnej lehote poskytnutej Objednávateľom v dĺžke najmenej 14 dní.
+Pri odstúpení od zmluvy zmluvné strany nebudú povinné vrátiť plnenia poskytnuté im pred
+odstúpením od zmluvy druhou zmluvnou stranou a nebudú oprávnené žiadať vrátenie plnení
+poskytnutých pred odstúpením od zmluvy druhej zmluvnej strane.
+Pri odstúpení od zmluvy vznikne Poskytovateľovi nárok na úhradu alikvotnej časti ceny za
+Služby poskytnuté v príslušnom mesiaci do dňa odstúpenia od zmluvy.
+Zmluvné strany sa dohodli, že túto zmluvu je možné vypovedať čiastočne alebo v celom
+rozsahu aj pred uplynutím dohodnutej doby trvania zmluvy a bez uvedenia dôvodu.
+Výpovedná doba je 2 mesiace, pričom začne plynúť prvým dňom kalendárneho mesiaca po
+kalendárnom mesiaci, v ktorom došlo k doručeniu výpovede. Výpoveď musí byť písomná
+a doručená druhej zmluvnej strane. Zmluvné strany vzájomne prehlasujú, že v prípade
+čiastočnej výpovede sa cena za Služby pomerne zníži o cenu za služby, ktoré boli
+výpoveďou dotknuté.
+Túto zmluvu je možné ukončiť aj vzájomnou dohodou zmluvných strán.
+Čl.10
+Osobitné dojednania
+Poskytovateľ (v prípade skupiny dodávateľov každý člen skupiny dodávateľov), jeho
+subdodávatelia a subdodávatelia podľa zákona č. 315/2016 Z. z. o registri partnerov
+verejného sektora a o zmene a doplnení niektorých zákonov (ďalej len „zákon o registri
+partnerov verejného sektora“), ktorí sú uvedení v prílohe č. 5 k Zmluve musia byť v
+čase uzatvorenia Zmluvy, v súlade s § 11 ods. 1 zákona o verejnom obstarávaní zapísaní
+v registri partnerov verejného sektora podľa zákona o registri partnerov verejného sektora.
+Objednávateľ neuzatvorí Zmluvu so zhotoviteľom, ak v čase uzatvorenia Zmluvy nebude mať
+on, jeho subdodávatelia alebo subdodávatelia podľa zákona o registri partnerov verejného
+sektora splnenú podmienku zápisu v registri partnerov verejného sektora alebo ak
+zhotoviteľovi bude uložený zákaz účasti podľa § 182 ods. 3 písm. b) zákona o verejnom
+obstarávaní.
+Objednávateľ môže podľa § 19 ods. 3 zákona o verejnom obstarávaní odstúpiť od Zmluvy,
+ak zhotoviteľ v čase uzatvorenia Zmluvy nebol zapísaný v registri partnerov verejného
+sektora alebo ak bol vymazaný z registra partnerov verejného sektora. alebo ak mu bol
+právoplatne uložený zákaz účasti podľa § 182 ods. 3 písm. b) zákona o verejnom
+obstarávaní.
+Pohľadávky vzniknuté pri plnení tejto zmluvy alebo akokoľvek inak v súvislosti s touto
+zmluvou možno započítať len písomnou dohodou zmluvných strán. Záväzky a práva ako
+právo na zaplatenie zmluvnej pokuty, úroku z omeškania, ako aj iné práva a záväzky
+vyplývajúce z tejto zmluvy, ktoré svojou povahou majú trvať aj po skončení tejto zmluvy,
+trvajú aj po jej skončení.
+Pre doručovanie písomností medzi zmluvnými stranami súvisiacich so zmluvou platí, že
+písomnosť sa považuje za doručenú dňom jej faktického doručenia druhej zmluvnej strane.
+Písomnosť sa tiež považuje za doručenú dňom, keď márne uplynie lehota na prevzatie si
+zásielky na pošte, a to aj v prípade, že sa adresát o uložení zásielky nedozvedel. Zásielka sa
+považuje za doručenú aj v prípade úmyselného konania adresáta majúceho za následok
+neúspešné doručenie písomnosti.
+
+Strana 7
+
+1)
+2)
+
+3)
+4)
+
+5)
+
+6)
+
+7)
+8)
+9)
+
+Čl.11
+Záverečné ustanovenia
+Táto zmluva sa uzatvára na dobu určitú, t.j. na 48 mesiacov odo dňa nadobudnutia jej
+účinnosti.
+Neoddeliteľnou súčasťou tejto zmluvy sú prílohy:
+ Príloha č. 1 – Opis predmetu zákazky
+ Príloha č. 2 – Zoznam prevádzkovaného HW a SW
+ Príloha č. 3 – Hodinové sadzby expertov
+ Príloha č. 4 – Výkaz vykonaných prác
+V prípade rozporu medzi znením zmluvy a znením príloh sa záväzkový vzťah medzi
+zmluvnými stranami spravuje znením zmluvy.
+Táto zmluva nadobúda platnosť dňom jej podpisu oboma zmluvnými stranami a účinnosť
+dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom
+vlády Slovenskej republiky.
+Ak sa zistí, že niektoré z ustanovení tejto zmluvy je neplatné alebo neúčinné, neplatnosť
+alebo neúčinnosť ustanovenia nebude mať za následok neplatnosť alebo neúčinnosť ďalších
+ustanovení zmluvy, ani samotnej zmluvy. Zmluvné strany sa zaväzujú, že neplatné alebo
+neúčinné ustanovenie bez zbytočného odkladu nahradia tak, aby bol v čo najväčšom
+možnom rozsahu dosiahnutý účel, ktorý v čase uzavretia tejto zmluvy sledovali neplatným
+alebo neúčinným ustanovením. Obdobne budú zmluvné strany postupovať aj v prípade, ak
+sa zistí, že niektoré z ustanovení tejto zmluvy je nevykonateľné.
+Táto zmluva a záväzkový vzťah z tejto zmluvy sa spravuje zákonom č. 513/1991 Zb.
+Obchodný zákonník v znení neskorších predpisov. Akékoľvek prípadné spory týkajúce sa
+tejto zmluvy alebo inak súvisiace s touto zmluvou budú prednostne riešené rokovaním
+a dohodou zmluvných strán. Ak nebudú takto v primeranej lehote v dĺžke najmenej 60 dní
+vyriešené, môžu byť predložené na rozhodnutie príslušnému súdu Slovenskej republiky.
+S výnimkami uvedenými v tejto zmluve je túto zmluvu možné meniť a dopĺňať len formou
+písomných dodatkov podpísaných oboma zmluvnými stranami.
+Táto zmluva je vyhotovená v 6 (šiestich) vyhotoveniach, z ktorých 4 (štyri) vyhotovenia
+dostane Objednávateľ a 2 (dve) vyhotovenia dostane Poskytovateľ.
+Zmluvné strany vyhlasujú, že si túto zmluvu prečítali, jej obsahu porozumeli a na znak toho,
+že obsah tejto zmluvy zodpovedá ich skutočnej a slobodnej vôli, ju podpisujú.
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+Objednávateľ
+
+Poskytovateľ
+
+__________________________
+prof. Ing. Peter Plavčan, CSc.
+minister
+
+________________________
+Mgr. Ing. Gabriel Herbrik
+predseda predstavenstva
+
+Strana 8
+
+Strana 9
+
+Príloha č. 1: Opis predmetu zákazky
+Názov zákazky: Služby technickej podpory a správy pre Dátové centrum Rezortu školstva
+Verejný obstarávateľ Ministerstvo školstva, vedy, výskumu a športu SR potrebuje zabezpečiť služby
+technickej podpory a správy pre Dátové centrum rezortu školstva. Od poskytovateľa služieb bude
+požadované komplexnú podporu systému produktov:
+Všeobecné povinnosti všetkých pozícií a oblastí správy
+Proaktívny dohľad
+ pravidelná kontrola stavu zariadenia, systému, aplikácie,
+ pravidelné nasadzovanie aktualizácií,
+ kontrola logov všetkých systémov,
+ monitorovanie dostupnosti jednotlivých systémov a serverov, reporting zodpovedným pracovníkom,
+ monitorovanie odozvy,
+ monitorovanie vyťaženosti systémov,
+ monitorovanie kapacít a vyťaženosti pridelených zdrojov,
+ vizuálna kontrola stavu zariadení,
+ monitorovanie prístupov k zdrojom a prostriedkom.
+Reaktívna podpora
+ riešenie problémov dostupnosti systému/aplikácie,
+ riešenie problémov odozvy systému/aplikácie,
+ riešenie vyťaženosti systémov, prideľovanie zdrojov,
+ riešenie ostatných prevádzkových problémov a poruchových stavov,
+ riešenie bezpečnostných problémov.
+Ďalšie činnosti
+Okrem špecifických činností pre jednotlivé systémy a aplikácie:
+ údržba prevádzkovej dokumentácie,
+ poskytovanie služby hotline pre operátorov,
+ kontrola externých dodávateľov v danej oblasti, vyhodnotenie ich zásahov,
+ aplikačná podpora.
+Rozdelenie činností medzi administrátorov a expertov
+V ďalšom texte je používaný termín „správca“, ktorý znamená „administrátor“ a/alebo „expert“ v závislosti od
+kontextu a konkrétnej situácie.
+ Administrátor vykonáva rutinnú správu IKT prostriedkov DC vrátane činností, ktoré vyžadujú
+fyzickú prítomnosť v DC.
+ Expert vykonáva zmeny konfigurácie spravovaných IKT prostriedkov DC a najzložitejšie činnosti pri
+správe.
+Podmienka fyzickej prítomnosti v Dátovom centre
+Minimálny počet hodín, po ktoré je vyžadovaná prítomnosť na pracovisku Dátového centra rezortu školstva
+na Hanulovej 5/B a Stromovej 1 v Bratislave, resp. v ostatných priestoroch MŠVVaŠ SR, je uvedený pre
+jednotlivé činnosti v časti Požiadavky na fyzickú prítomnosť na pracovisku Dátového centra.
+Súvisiace náklady
+Všetky súvisiace náklady nevyhnutné na zabezpečenie požadovaných služieb musia byť premietnuté do
+ceny.
+
+Strana 10
+
+Detailný popis služieb:
+Správa hardvéru a infraštruktúry
+Relevantné technológie:
+ Vybavenie dátového centra podľa kapitoly Zoznam spravovaného hardvéru.
+ Jednotlivé IKT zariadenia v dátovom centre podľa kapitoly Zoznam spravovaného hardvéru.
+Požadované činnosti:
+ Fyzická obhliadka stavu všetkých zariadení.
+ HW monitoring zariadení – priebežné sledovanie alertov.
+ Kontaktovanie a asistencia servisným pracovníkom v prípade potreby.
+ Fyzická inštalácia, deinštalácia zariadení.
+ Update firmware.
+ Optimalizácia architektúry na základe schválených zmenových konaní.
+ Poradenstvo pri zmenách HW konfigurácie.
+Správa údajov
+Relevantné technológie:
+ Diskové polia podľa kapitoly Zoznam spravovaného hardvéru.
+ Páskové knižnice podľa kapitoly Zoznam spravovaného hardvéru.
+ Databázy podľa kapitoly Zoznam spravovaného softvéru.
+ Aplikácie na zálohovanie údajov podľa kapitoly Zoznam spravovaného softvéru.
+Požadované činnosti, sekcia Správa dátových úložísk:
+ Priebežná kontrola funkčnosti diskových polí, analýza logov.
+ Správa partícií - vytváranie, modifikácia, zrkadlenie, rušenie a ich prezentácia pre systémy (servery).
+ Zabezpečenie a dohľad nad rebuildom disku v prípade havárie produkčného disku.
+ Manažment jednotlivých SAN ciest diskových polí a ich optimálne vyťaženie.
+ Evidencia vyťaženia diskových polí, optimalizácia výkonov a rozdelenie záťaže podľa potreby.
+Eskalácia nedostatku diskovej kapacity osobe zodpovednej za kapacitný management.
+ Konfigurácia monitorovacieho agenta na zariadenia, špecifikácie parametrov a ich relevantných
+hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho
+mechanizmu.
+ Správa replikácií diskových polí medzi rôznymi lokalitami.
+ Riešenie vzniknutých neštandardných situácií (strata dostupnosti partície, problémy so záťažou
+atď.).
+Požadované činnosti, sekcia Správa databáz:
+ Návrh architektúry nových DB serverov v štandardnom, alebo v clusterovom prevedení.
+ Inštalácia a konfigurácia serverov podľa požiadaviek v súlade so schváleným návrhom architektúry.
+ Zriaďovanie a konfigurácia databáz podľa odsúhlaseného postupu.
+ Konfigurácia monitorovacieho agenta na zariadenia, špecifikácie parametrov a ich relevantných
+hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho
+mechanizmu.
+ Monitoring funkčnosti zariadení a na nich prevádzkovaných databáz a sledovanie behu pravidelne
+spúšťaných úloh.
+ Pravidelná optimalizácia databáz na úrovni indexov a veľkosti databáz.
+ Vytváranie reportov z databáz na požiadanie.
+ Konfigurácia zálohovania podľa predpísaného zálohovacieho plánu, dohľad nad priebehom
+zálohovania, vykonávanie cvičných obnovení.
+ Vykonávanie konfiguračných zmien podľa odsúhlaseného postupu.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, strata dostupnosti databáz,
+pomalé odozvy, problémy s integritou údajov atď.)
+ Testovanie fail-over clustra
+Požadované činnosti, sekcia Zálohovanie údajov zo serverov a databáz:
+ Návrh architektúry zálohovacieho systému pre nové IS a zmeny v starých IS.
+ Návrh prípadne konzultácie pri tvorbe zálohovacích metodík a predpisov.
+ Konfigurácia zariadení, tvoriacich súčasť zálohovacieho systému v súlade so schváleným návrhom
+architektúry.
+ Vytvorenie a vedenie aktuálnych zálohovacích predpisov pre jednotlivé fyzické a virtuálne servery a
+databázy.
+ Dohľad nad pravidelným zálohovaním serverov podľa určeného harmonogramu (zálohovacie
+predpisy).
+Strana 11
+
+
+
+
+
+Verifikácia záloh uložených na zálohovacích médiách v určených časových intervaloch.
+Vykonávanie skúšobných recovery testov podľa stanoveného harmonogramu.
+Pravidelná výmena zálohovacích médií v páskovej knižnici v súlade s metodikou zálohovania a
+zálohovacími predpismi.
+ Pravidelné čistenie páskových mechaník čistiacim médiom.
+ Riešenie vzniknutých neštandardných situácií (výpadok zálohovacej služby, problémy s restorom
+údajov atď.).
+ Tvorba zálohovacích skriptov
+ Zálohovanie nástrojmi tretích strán – prípadne formou dumpov, skriptov a podobne.
+ Tvorba archívov podľa požiadaviek
+Správa OS
+Relevantné technológie:
+ OS Microsoft podľa kapitoly Zoznam spravovaného softvéru.
+ OS Linux a iné podľa kapitoly Zoznam spravovaného softvéru.
+ Servery podľa kapitoly Zoznam spravovaného hardvéru.
+Požadované činnosti, sekcia OS Windows:
+ Inštalácia OS.
+ Konfigurácia a administrácia failover riešenia, pokiaľ je nasadené.
+ Aplikácia funkčných a bezpečnostných updatov / záplat podľa dokumentácie k systému.
+ Priebežná detekcia a vyhodnocovanie úzkych hrdiel v systéme.
+ Konfigurácia základných služieb dostupných v rámci OS.
+ Pravidelná profylaktika na úrovni file systému, vrátane defragmentácie v prípade potreby.
+ Pravidelná kontrola systémových, bezpečnostných a aplikačných logov na úrovni operačného
+systému.
+ Konfigurácia zálohovania podľa predpísaného zálohovacieho plánu, dohľad nad priebehom
+zálohovania, vykonávanie cvičných restorov.
+ Konfigurácia monitorovacieho agenta na OS, špecifikácie parametrov a ich relevantných hodnôt,
+ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho mechanizmu.
+ Riešenie konfiguračných zmien na OS a na základných službách dostupných v rámci OS v prípade
+požiadavky, v súlade so schváleným postupom.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, výpadky služieb, pokusy
+o neautorizované prihlásenie atď.).
+Požadované činnosti, sekcia OS Linux:
+ Inštalácia OS.
+ Konfigurácia a administrácia failover riešenia, pokiaľ je nasadené.
+ Aplikácia funkčných a bezpečnostných updatov / záplat podľa dokumentácie k systému.
+ Priebežná detekcia a vyhodnocovanie úzkych hrdiel v systéme.
+ Konfigurácia základných služieb dostupných v rámci OS.
+ Pravidelná profylaktika na úrovni file systému, vrátane defragmentácie v prípade potreby.
+ Pravidelná kontrola systémových, bezpečnostných a aplikačných logov na úrovni operačného
+systému.
+ Konfigurácia zálohovania podľa predpísaného zálohovacieho plánu, dohľad nad priebehom
+zálohovania, vykonávanie cvičných restorov.
+ Konfigurácia monitorovacieho agenta na OS, špecifikácie parametrov a ich relevantných hodnôt,
+ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho mechanizmu.
+ Riešenie konfiguračných zmien na OS a na základných službách dostupných v rámci OS v prípade
+požiadavky, v súlade so schváleným postupom.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, výpadky služieb, pokusy
+o neautorizované prihlásenie atď.).
+Správa sieťových technológií
+Relevantné technológie:
+ LAN prepínače podľa kapitoly Zoznam spravovaného hardvéru.
+ SAN zariadenia podľa kapitoly Zoznam spravovaného hardvéru.
+ Smerovače, firewally, VPN koncentrátory podľa kapitoly Zoznam spravovaného hardvéru.
+ SW na manažment sieťových technológií podľa kapitoly Zoznam spravovaného softvéru.
+Požadované činnosti, sekcia Správa LAN zariadení:
+ Návrh architektúry LAN infraštruktúry v prípade schválených zmenových konaní, optimalizácia
+existujúcich lokalít.
+Strana 12
+
+
+
+
+
+
+
+Inštalácia/deinštalácia zariadení podľa požiadaviek v súlade so schváleným návrhom architektúry.
+Aktivácia, deaktivácia, konfigurácia portov podľa odsúhlaseného postupu.
+Zriadenie a priebežné udržiavanie štruktúry VLAN.
+Vykonávanie konfiguračných zmien na zariadeniach podľa odsúhlaseného postupu.
+Konfigurácia monitorovacieho agenta na zariadenia, špecifikácie parametrov a ich relevantných
+hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho
+mechanizmu.
+ Priebežná kontrola stavu zariadení cez dohľadový systém.
+ Zálohovanie konfiguračných súborov na zariadeniach.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, výpadky spojení atď.).
+Požadované činnosti, sekcia Správa SAN zariadení:
+ Optimalizácia architektúry SAN infraštruktúry v prípade schválených zmenových konaní v existujúcej
+architektúre.
+ Inštalácia/deinštalácia zariadení podľa požiadaviek v súlade so schváleným návrhom architektúry.
+ Aktivácia, deaktivácia, konfigurácia portov podľa odsúhlaseného postupu.
+ Vykonávanie konfiguračných zmien na zariadeniach podľa odsúhlaseného postupu.
+ Konfigurácia monitorovacieho agenta na zariadenia, špecifikácie parametrov a ich relevantných
+hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho
+mechanizmu.
+ Priebežná kontrola stavu zariadení cez dohľadový systém.
+ Zálohovanie konfiguračných súborov na zariadeniach.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, výpadky spojení atď.).
+Požadované činnosti, sekcia Správa prístupov do internetu a externých sietí:
+ Návrh architektúry prístupov do internetu a externých sietí vrátane perimetrov a demilitarizovaných
+zón v súlade s platnými bezpečnostnými predpismi a smernicami.
+ Inštalácia a konfigurácia zariadení podľa schváleného návrhu architektúry.
+ Komunikácia s poskytovateľmi WAN prepojov a Internet konektivity za účelom zriadenia
+požadovaných prístupov a ich prevádzky.
+ Vykonávanie konfiguračných zmien na zariadeniach podľa odsúhlaseného postupu.
+ Konfigurácia monitorovacieho agenta na zariadenia, špecifikácie parametrov a ich relevantných
+hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho
+mechanizmu.
+ Priebežná kontrola stavu zariadení cez dohľadový systém.
+ Priebežná kontrola logovacích súborov za účelom identifikácie neštandardných situácií.
+ Zálohovanie konfiguračných súborov na zariadeniach.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, útoky, pokusy o prienik atď.).
+Požadované činnosti, sekcia Správa VPN spojení:
+ Návrh a optimalizácia architektúry VPN infraštruktúry, vrátane autentifikačných serverov a metodiky
+spojenej s tvorbou VPN spojení na nových lokalitách.
+ Inštalácia a konfigurácia zariadení podľa schváleného návrhu architektúry.
+ Zriaďovanie a rušenie VPN prístupov podľa odsúhlaseného postupu.
+ Vykonávanie konfiguračných zmien na zariadeniach podľa odsúhlaseného postupu.
+ Konfigurácia monitorovacieho agenta na zariadenia, špecifikácie parametrov a ich relevantných
+hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho
+mechanizmu.
+ Denná kontrola stavu zariadení cez dohľadový systém.
+ Priebežná kontrola logovacích súborov za účelom identifikácie neštandardných situácií.
+ Zálohovanie konfiguračných súborov na zariadeniach.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, pokusy o neautorizovaný prístup
+atď.).
+Požadované činnosti, sekcia správa firewall kontextov
+ Inštalácia a konfigurácia firewall kontextov zariadení podľa odsúhlaseného postupu.
+ Vykonávanie konfiguračných zmien na firewall kontextoch podľa odsúhlaseného postupu.
+ Priebežná kontrola logovacích súborov za účelom identifikácie neštandardných situácií.
+ Zálohovanie konfiguračných súborov na zariadeniach.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, útoky, pokusy o prienik atď.).
+
+Strana 13
+
+Správa virtualizačnej platformy VMware
+Relevantné technológie:
+ Virtualizačná platforma VMware ESX podľa kapitoly Zoznam spravovaného softvéru.
+Požadované činnosti:
+ Riešenie zmien v architektúre virtualizačnej platformy, optimalizácia architektúry vzhľadom na
+prevádzku.
+ Konfigurácia zariadení tvoriacich súčasť virtualizačnej platformy v súlade so schváleným návrhom
+architektúry.
+ Konfigurácia monitorovacieho agenta na zariadenia, špecifikácie parametrov a ich relevantných
+hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho
+mechanizmu.
+ Vytváranie, modifikácia a rušenie virtuálnych strojov podľa odsúhlaseného postupu.
+ Pravidelná kontrola systémových, bezpečnostných a aplikačných logov na úrovni virtualizačnej
+platformy.
+ Pravidelná implementácia funkčných a bezpečnostných záplat na virtualizačnej platforme.
+ Riešenie konfiguračných zmien na virtualizačnej platforme podľa požiadaviek a v súlade so
+schváleným postupom.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, strata dostupnosti virtuálnych
+strojov atď.)
+ Priebežný monitoring dostupných výpočtových zdrojov (disková kapacita, CPU, RAM), eskalácia na
+osobu zodpovednú za kapacitný management v prípade hroziaceho nedostatku."
+Monitoring
+Relevantné technológie:
+ Monitorovacie aplikácie podľa kapitoly Zoznam spravovaného softvéru.
+Požadované činnosti:
+ Návrh architektúry monitorovacieho systému s dôrazom na dostupnosť nezávislého monitoringu
+samotného monitorovacieho systému.
+ Konfigurácia zariadení, tvoriacich súčasť monitorovacieho systému v súlade so schváleným návrhom
+architektúry.
+ Inštalácia a konfigurácia agenta na monitorovanom zariadení v koordinácii s jeho správcom.
+ Nastavenie monitorovaných parametrov a ich hraničných hodnôt týkajúcich sa monitorovaného
+zariadenia v koordinácii s jeho správcom.
+ Nastavenie alertov týkajúcich sa monitorovaného zariadenia v koordinácii s jeho správcom.
+ Priebežné testovanie alertovacieho mechanizmu.
+ Priebežné ladenie alertovacieho machanizmu v koordinácii so správcami monitorovaných zariadení.
+ Riešenie vzniknutých neštandardných situácií (výpadok monitorovacej služby atď.).
+Správa komunikačnej platformy
+Relevantné technológie:
+ Active directory, DHCP, DNS podľa kapitoly Zoznam spravovaného softvéru.
+ MS Exchange podľa kapitoly Zoznam spravovaného softvéru.
+ MS Sharepoint podľa kapitoly Zoznam spravovaného softvéru.
+ WEB servery podľa kapitoly Zoznam spravovaného softvéru.
+Požadované činnosti, sekcia Adresárové služby:
+ Inštalácia a konfigurácia serverov podľa požiadaviek.
+ Konfigurácia monitorovacích agentov na jednotlivé servery, špecifikácie parametrov a ich
+relevantných hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie
+alertovacieho mechanizmu.
+ Zabezpečenie dodržiavania odsúhlasenej mennej konvencie v rámci Active Directory.
+ Priebežný dohľad nad funkčnosťou radičov domény (domain controller - DC) a replikácií medzi
+jednotlivými DC.
+ Vytváranie a prípadná modifikácia objektov v AD podľa schváleného postupu.
+ Monitorovanie a správa NTP (presný čas).
+ Správa - zriaďovanie / modifikácia / rušenie doménových trustov podľa schváleného postupu.
+ Správa ADFS
+ Testovanie fail-over clustra AD
+ Správa skupinových politík
+ Správa read only domain controllerov – RODC farmy
+ Správa AD serverov a kontrola synchronizácie AD na vzdialených lokalitách
+Strana 14
+
+
+
+Vytváranie, správa a monitorovanie group policy v zmysle platných bezpečnostných politík
+a procesov zákazníka
+Požadované činnosti, sekcia DNS a DHCP:
+ Nastavenie a priebežné udržiavanie jednotlivých DHCP rozsahov (vrátane DNS, default gateway a
+ďalších parametrov).
+ Správa záznamov v systéme DNS
+ Správa externých DNS serverov, DNS pohľadov pre rôzne skupiny
+ Pravidelná kontrola používania IP adries, uvoľňovanie nevyužívaných IP adries.
+ Zabezpečenie dodržiavania odsúhlasenej mennej konvencie v rámci DNS.
+ Dohľad nad dynamickým vytváraním záznamov v DNS v integrácií s DHCP systémom.
+ Dohľad nad funkčnosťou automatickej rezervácie IP adries.
+ Manuálna rezervácia IP adries podľa odsúhlasených postupov.
+ Konfigurácia DHCP poolu pre dynamické prideľovanie IP adries.
+ Zabezpečenie vysokej dostupnosti DNS vo forme prevádzky primárneho a sekundárneho DNS
+servera na rôznych lokalitách
+Požadované činnosti, sekcia Správa súborových serverov:
+ Inštalácia OS.
+ Konfigurácia a administrácia failover riešenia, pokiaľ je nasadené.
+ Aplikácia funkčných a bezpečnostných updatov / záplat.
+ Priebežná detekcia a vyhodnocovanie úzkych hrdiel v systéme.
+ Pravidelná profylaktika na úrovni file systému, vrátane defragmentácie v prípade potreby.
+ Pravidelná kontrola systémových, bezpečnostných a aplikačných logov na úrovni operačného
+systému.
+ Konfigurácia zálohovania podľa predpísaného zálohovacieho plánu, dohľad nad priebehom
+zálohovania, vykonávanie cvičných restorov.
+ Konfigurácia monitorovacieho agenta na OS, špecifikácie parametrov a ich relevantných hodnôt,
+ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho mechanizmu.
+ Riešenie konfiguračných zmien na OS a na základných službách dostupných v rámci OS v prípade
+požiadavky, v súlade so schváleným postupom.
+ Tvorba, modifikácia a rušenie zdieľaných sieťových priečinkov podľa odsúhlasenej mennej
+konvencie a štruktúry prístupových práv v duchu platných procesov a politík.
+ Nastavovanie kvót na zdieľané sieťové priečinky v duchu platných procesov a politík.
+ Riešenie vzniknutých neštandardných situácií (poruchy zariadení, výpadky služieb, pokusy
+o neautorizované prihlásenie atď.).
+Požadované činnosti, sekcia eMailové služby:
+ Konfigurácia monitorovacích agentov na jednotlivé servery, špecifikácie parametrov a ich
+relevantných hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie
+alertovacieho mechanizmu.
+ Konfigurácia zálohovania Exchange databáz podľa predpísaného zálohovacieho plánu, dohľad nad
+priebehom zálohovania, vykonávanie cvičných restorov.
+ Vykonávanie konfiguračných zmien podľa odsúhlaseného postupu.
+ Priebežné sledovanie logov Exchange prostredia a riešenie preventívnych opatrení.
+ Manažovanie kvót.
+ Nastavovanie pravidiel pre poštový tok.
+ Vytváranie /zmeny / mazanie poštových schránok.
+ Riešenie vzniknutých neštandardných situácií (strata dostupnosti Exchange služby, nedoručovanie
+pošty, pomalé odozvy atď.)
+ Prevádzka Exchange riešenia v súlade so schválenou prevádzkovou dokumentáciou v ďalších
+oblastiach.
+ Zriadenie mailových služieb organizácii, zabezpečenie postupu, odovzdanie do prevádzky DC
+ Zabezpečenie prístupu administrátorov domén pre dané mailové domény
+Požadované činnosti, sekcia Sharepoint
+ Konzultácie k architektúre Sharepoint riešenia v štandardnom, alebo v clusterovom prevedení
+v rámci riešenia zmien.
+ Inštalácia a konfigurácia serverov podľa požiadaviek v súlade so schváleným návrhom architektúry.
+ Konfigurácia monitorovacích agentov na jednotlivé servery, špecifikácie parametrov a ich
+relevantných hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie
+alertovacieho mechanizmu.
+Strana 15
+
+
+
+
+
+
+
+
+
+
+Konfigurácia zálohovania sharepoint databáz podľa predpísaného zálohovacieho plánu, dohľad nad
+priebehom zálohovania, vykonávanie cvičných restorov.
+Vykonávanie konfiguračných zmien podľa odsúhlaseného postupu.
+Priebežné sledovanie Sharepoint aplikačných logov a riešenie preventívnych opatrení.
+Zriaďovanie / rušenie siteov, resp. site collection podľa odsúhlaseného postupu.
+Nastavanie parametrov siteov podľa predpísaných postupov a požiadaviek objednávateľa.
+Riadenie prístupových práv na úrovni siteov, resp. site collection podľa odsúhlasenej metodiky.
+Riešenie vzniknutých neštandardných situácií (strata dostupnosti Sharepoint služby, pomalé odozvy
+atď.)
+Testovanie fail-over mechanizmu v prípade clusterového riešenia
+
+Požadované činnosti, sekcia WEB servery
+ Konzultácie k architektúre WEB serverov v štandardnom, alebo v clusterovom prevedení v rámci
+riešenia zmien.
+ Inštalácia a konfigurácia serverov podľa požiadaviek v súlade so schváleným návrhom architektúry.
+ Konfigurácia monitorovacích agentov na jednotlivé servery, špecifikácie parametrov a ich
+relevantných hodnôt, ktoré je potrebné monitorovať. Definovanie požiadaviek na nastavenie
+alertovacieho mechanizmu.
+ Konfigurácia zálohovania WEB serverov podľa predpísaného zálohovacieho plánu, dohľad nad
+priebehom zálohovania, vykonávanie cvičných restorov.
+ Vykonávanie konfiguračných zmien podľa odsúhlaseného postupu.
+ Priebežné sledovanie aplikačných logov a riešenie preventívnych opatrení.
+ Zriaďovanie / rušenie WEB stránok podľa odsúhlaseného postupu.
+ Nastavanie parametrov WEB stránok podľa predpísaných postupov a požiadaviek objednávateľa.
+ Riadenie prístupových práv na úrovni WEB stránok podľa odsúhlasenej metodiky.
+ Riešenie vzniknutých neštandardných situácií (strata dostupnosti WEB servera, pomalé odozvy atď.)
+ Testovanie fail-over mechanizmu v prípade clusterového riešenia
+Správa bezpečnosti
+Relevantné technológie:
+ Softvér zabezpečujúci antivírovú ochranu emailov a súborových systémov podľa kapitoly Zoznam
+spravovaného softvéru.
+ Softvér zabezpečujúci antispamovú ochranu emailov podľa kapitoly Zoznam spravovaného softvéru
+ Softvér zabezpečujúci služby certifikačnej autority podľa kapitoly Zoznam spravovaného softvéru.
+ Softvér zabezpečujúci služby proxy podľa kapitoly Zoznam spravovaného softvéru.
+Požadované činnosti, sekcia Antivírová ochrana emailov a súborových systémov:
+ Návrh architektúry antivírového systému v prípade požiadaviek na zmeny v existujúcej architektúre.
+ Konfigurácia zariadení, tvoriacich súčasť systému v súlade so schváleným návrhom architektúry.
+ Konfigurácia monitorovacích agentov, špecifikácie parametrov a ich relevantných hodnôt, ktoré je
+potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho mechanizmu.
+ Dohľad nad funkčnosťou systému, priebežná analýza aplikačných logov systému.
+ Dohľad nad priebežnou aktualizáciou AV vzoriek a ich distribúciou na prevádzkované servery.
+ Riešenie zavírenia podľa odsúhlasených postupov.
+Požadované činnosti, sekcia Antispamová ochrana v rámci emailových služieb:
+ Návrh architektúry antispamového systému.
+ Konfigurácia zariadení, tvoriacich súčasť systému v súlade so schváleným návrhom architektúry.
+ Konfigurácia monitorovacích agentov, špecifikácie parametrov a ich relevantných hodnôt, ktoré je
+potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho mechanizmu.
+ Dohľad nad funkčnosťou systému, priebežná analýza aplikačných logov systému.
+ Dohľad nad priebežnou aktualizáciou antispamových algoritmov
+ Tvorba a údržba blacklistov, whitelistov
+Požadované činnosti, sekcia Proaktívna detekcia bezpečnostných dier:
+ Konzultácie ohľadom vypracovania metodiky na aplikáciu kybernetickej bezpečnosti, bezpečnostné
+testovanie a sledovanie.
+ Konzultácie ohľadom vypracovania nových a úprav existujúcich smerníc.
+ Príprava technickej infraštruktúry potrebnej na prevádzku.
+
+Strana 16
+
+
+
+Konfigurácia technickej infraštruktúry v súlade s pripravenou metodikou na aplikáciu kybernetickej
+bezpečnosti, bezpečnostné testovanie a sledovanie
+ Priebežné bezpečnostné testovanie IKT v súlade s požiadavkami na bezpečnosť podľa platnej
+metodiky.
+ Priebežný reporting o identifikovaných bezpečnostných nesúladoch kontaktnej osobe na strane
+zákazníka.
+Poznámka
+Zákazník na účel poskytnutia služby v rámci tejto sekcie dodá nevyhnutný výpočtový výkon formou IaaS.
+Náklady na potrebné softvérové vybavenie musia byť zohľadnené v hodinovej sadzbe uchádzača, t.j.
+softvérové vybavenie nezabezpečuje zákazník.
+Požadované činnosti, sekcia Správa certifikátov:
+ Konfigurácia zariadení, tvoriacich súčasť systému.
+ Konfigurácia monitorovacích agentov, špecifikácie parametrov a ich relevantných hodnôt, ktoré je
+potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho mechanizmu.
+ Dohľad nad funkčnosťou systému, priebežná analýza aplikačných logov systému.
+ Správa certifikátov - vydávanie, revokácia podľa odsúhlaseného postupu.
+Riadenie IT služieb
+Relevantné technológie:
+ Service desk aplikácie podľa kapitoly Zoznam spravovaného softvéru.
+ Aplikácia callcentra podľa kapitoly Zoznam spravovaného softvéru.
+ HW infraštruktúra callcentra podľa kapitoly Zoznam spravovaného hardvéru.
+Požadované činnosti, sekcia Služby systémovej integrácie:
+ Poradenstvo pri tvorba stratégie rozvoja infraštruktúry lokalít
+ Posudzovanie riešení navrhovaných tretími stranami pre implementáciu a spracovanie záväzných
+stanovísk.
+ Spracovanie podkladov pre nové riešenia a zmeny systémového prostredia na lokalitách.
+ Riadenie implementácie a implementácia nových technológií.
+ Overovanie nových a navrhovaných riešení súvisiacich so zmenami systémového prostredia.
+ Spracovanie dokumentácie technických riešení.
+ Poskytovanie konzultácií pre správcov jednotlivých technológií.
+Požadované činnosti, sekcia Správa service desk systému:
+ Kontrola systémových logov.
+ Optimalizácia behu aplikácie z pohľadu odoziev.
+ Príprava šablón reportov podľa požiadaviek.
+ Správa riešiteľských skupín.
+ Správa pracovných postupov.
+ Správa SLA.
+ Správa eskalačných procedúr.
+ Správa existujúcich rozhraní na iné informačné systémy.
+ Integrácia na nové informačné systémy.
+ Správa aplikačných a bezpečnostných updatov.
+Požadované činnosti, sekcia Správa call centra:
+ Konfigurácia monitorovacích agentov, špecifikácie parametrov a ich relevantných hodnôt, ktoré je
+potrebné monitorovať. Definovanie požiadaviek na nastavenie alertovacieho mechanizmu.
+ Dohľad nad funkčnosťou systému, priebežná analýza aplikačných logov systému.
+ Zriaďovanie a rušenie používateľov podľa vopred odsúhlaseného postupu.
+ Zriaďovanie, rušenie a zmena workflow hovorov pre jednotlivé aplikácie a infraštruktúru DCRŠ.
+ Priebežný dohľad nad funkčnosťou hlasovej komunikácie VTS <–> DCRŠ.
+ Úpravy hlášok IVR stromu v prípade potreby.
+ Konfigurácia zálohovania databáz callcentra podľa predpísaného zálohovacieho plánu, dohľad nad
+priebehom zálohovania, vykonávanie cvičných restorov.
+ Riešenie vzniknutých neštandardných situácií (strata spojenia atď.)
+Požadované činnosti, sekcia Konfiguračný manažment:
+Priebežná evidencia fyzických a logických zariadení a ich komponentov v nasledujúcom rozsahu:
+ evidencia a priebežná aktualizácia evidencie fyzických serverov
+ evidencia a priebežná aktualizácia evidencie diskových polí
+ evidencia a priebežná aktualizácia evidencie páskových robotov
+ evidencia a priebežná aktualizácia evidencie LAN zariadení
+Strana 17
+
+ evidencia a priebežná aktualizácia evidencie SAN zariadení
+ evidencia a priebežná aktualizácia evidencie ostatných zariadení DC
+ evidencia a priebežná aktualizácia VLAN
+ evidencia a priebežná aktualizácia IP adresných rozsahov
+ evidencia a priebežná aktualizácia dostupnej dokumentácie
+ evidencia verzií releasov aplikácií a riešení v správe poskytovateľa
+ evidencia a priebežná aktualizácia VPN prístupov
+ evidencia a priebežná aktualizácia DNS názvov
+Požadované činnosti, sekcia Manažment zmien a verzií:
+ Spracovanie a priebežná aktualizácia procesu na riadenie zmien a verzií.
+ Kooperácia so žiadateľmi o zmenu pri príprave žiadostí na zmenu v jednotnom formáte.
+ Pravidelné organizovanie stretnutí zmenovej komisie (CAB) a povoľovanie/zamietanie navrhovaných
+zmien.
+ Priebežný dohľad nad realizáciou zmien, riešenie vzniknutých neštandardných situácií.
+ Pokyn na evidenciu nových releasov, ak vzniknú v rámci realizácie zmien.
+Požadované činnosti, sekcia Kapacitný manažment:
+ Priebežný dohľad nad alokovanými a voľnými zdrojmi dátového centra.
+ Eskalácie na zákazníka v prípade hrozby nedostatku niektorých zdrojov dátového centra.
+ Aktívna účasť na plánovaní zdrojov dátového centra na budúce obdobia.
+ Pravidelné kapacitné reportovanie
+Jedná sa hlavne o nasledujúce zdroje dátového centra:
+ Disková kapacita všeobecne.
+ CPU kapacita alokovaná pre virtualizačné platformy.
+ RAM kapacita alokovaná pre virtualizačné platformy.
+ Fyzická kapacita priestorov dátového centra.
+ Fyzická kapacita v jednotlivých rackoch.
+Riadenie bezpečnosti informácií
+Požadované činnosti, sekcia Služby systémovej integrácie:
+ Poradenstvo pri zavádzaní normy ISO 27001:2013
+ Vykonanie bezpečnostného auditu podľa ISO27000:2013 a jeho každoročnú aktualizáciu
+ Bezpečnostný audit aplikovaný na lokality vo vlastníctve Obstarávateľa.
+ Pravidelná kontrola informačných systémov a prevádzky na základe vykonaného auditu
+ Poradenstvo v informačnej bezpečnosti pri zavádzaní nových technológií a informačných systémov
+
+Strana 18
+
+Minimálne požiadavky verejného obstarávateľa na fyzickú prítomnosť na pracovisku Dátového
+centra
+V nasledujúcej tabuľke sú uvedené minimálne požiadavky na kumulovanú fyzickú prítomnosť správcov na
+detašovanom pracovisku zákazníka: Hanulova 5/B, Bratislava a Stromová 1, Bratislava, resp. v ostatných
+priestoroch MŠVVaŠ SR za jeden rok.
+
+Služba
+
+Minimálny
+ročný
+kumulovaný
+počet hodín
+„na mieste“
+
+1
+
+Správa hardvéru a infraštruktúry
+
+2
+
+Správa údajov
+
+552
+
+3
+
+Správa OS
+
+624
+
+4
+
+Správa sieťových technológií
+
+262
+
+5
+
+Správa virtualizačnej platformy
+VMware
+
+104
+
+6
+
+Monitoring
+
+156
+
+7
+
+Správa komunikačnej platformy
+
+296
+
+8
+
+Správa bezpečnosti
+
+78
+
+9
+
+Riadenie IT služieb
+
+84
+
+10.
+
+Riadenie bezpečnosti informácií
+Spolu za rok
+
+68
+
+Minimálna požadovaná
+fyzická prítomnosť na
+mieste Hanulova 5/B
+Bratislava alebo Stromová
+1, Bratislava
+minimálne 1-krát za týždeň
+na 1 hodinu
+minimálne 1-krát za týždeň
+na 5 hodín
+minimálne 1-krát za týždeň
+na 5 hodín
+minimálne 1-krát za týždeň
+na 2 hodiny
+minimálne 1-krát za týždeň
+na 1 hodinu
+minimálne 1-krát za týždeň
+na 2 hodiny
+minimálne 1-krát za týždeň
+na 2 hodiny
+minimálne 1-krát za týždeň
+na 1 hodinu
+minimálne 1-krát za týždeň
+na 1 hodinu
+
+128
+2 352
+
+Platí, že musia byť splnené obidve požiadavky uvedené v stĺpcoch tabuľky:
+ Minimálny ročný kumulovaný počet hodín „na mieste“ aj
+ Minimálna požadovaná fyzická prítomnosť.
+Splnenie požiadaviek bude preukazované zápisom do prevádzkového denníka.
+Vykazovanie kvality poskytovanej služby
+Poskytovateľ mesačne vystaví prehľad vykonaných úkonov a záznamov z prevádzkového denníka (Výkaz
+vykonaných prác), ktorý tvorí prílohu č. 4 zmluvy. Výkaz vykonaných prác bude obsahovať minimálne:
+- prehľad vykonaných úkonov za dané obdobie,
+- štatistiku plnenia kritérií požiadavky na fyzickú prítomnosť na pracovisku Dátového centra.
+Objednávateľom potvrdený Výkaz vykonaných prác bude prílohou k faktúre vystavenej za obdobie, počas
+ktorého boli práce vykonané.
+Verejný obstarávateľ uvádza nasledovné: Pri poskytovaní služieb môže následne poskytovateľ (úspešný
+uchádzač) použiť na jednotlivé oblasti viacero kvalifikovaných expertov, ktorí musia preukázateľne spĺňať
+podmienky účasti, resp. požiadavky objednávateľa (verejného obstarávateľa). Tzn., že poskytovateľ
+(úspešný uchádzač) bude môcť osobohodiny pri jednotlivých kvalifikovaných expertoch čerpať aj viacerými
+fyzickými osobami.
+Verejný obstarávateľ si vyhradzuje právo presunu osobohodín identifikovaných expertov v prípade, ak
+hodinové sadzby za jednotlivých expertov (predložené v návrhu na plnenie kritérií ponuky, tzn. v prílohe č. 5
+súťažných podkladov), medzi ktorými na základe potreby verejného obstarávateľa dôjde k presunu
+osobohodín, budú v rovnakých, resp. obdobných cenových hladinách a uvedené nebude mať vplyv na
+princípy verejného obstarávania. Za rovnakú, resp. obdobnú cenové hladinu sa považuje cena v EUR
+vrátane DPH, ktorá je v rozpätí 10 % z hodnoty osobohodiny.
+
+Strana 19
+
+Príloha č. 2: Zoznam prevádzkovaného HW a SW
+HW:
+Nasledujúci zoznam obsahuje typy a počet produktov.
+LAN prepínače:
+6 x Cisco Catalyst 6509
+4 x Cisco Catalyst 4900M
+4 x Cisco Catalyst 4948
+1 x Cisco Catalyst 3560G
+12 x Cisco Catalyst 3120X
+4 x HP ProCurve 6120XG
+3 x Cisco Catalyst 2960
+1 x Cisco Catalyst 3750
+1 x Cisco Catalyst 3550
+3 x Cisco Catalyst 2960G
+1 x Cisco 5500 Wireless Controller
+1 x Cisco Catalyst 2950
+1 x Cisco Catalyst 2800
+1 x Cisco Catalyst 2600
+SAN zariadenia:
+2 x Cisco MDS 9513
+16 x Cisco MDS 9124
+Smerovače, firewally, VPN koncentrátory:
+4 x Cisco ASA5510
+2 x Cisco ASA5550
+2 x Cisco ASA5580
+2 x Cisco ISR 2821
+2 x Cisco ISR 2811
+2 x Cisco 1120 ACS
+2 x Cisco ACE20
+1 x Meinberg LANTIME M200
+1 x Cisco IPS 4270
+1 x Cisco MARS
+2 x F5
+1 x McAfee Network Security, M-2750 - IPS
+1 x Cisco ASA 5520 - Firewall (2 kusy)
+2 x Cisco 1800
+1 x Cisco 1900
+2 x Watson 4
+1 x Siemens Network Surpass hiT 7020
+Diskové polia:
+1 x HP XP24000
+2 x IBM DS4800
+1 x HP EVA P6350
+1 x HP EVA P6300
+1 x HP EVA 6400
+Páskové knižnice:
+1 x Pásková knižnica IBM TS3500
+HW infraštruktúra callcentra:
+5 x UCS C220 M3S
+Servery:
+2 x HP DL160 G6
+4 x HP ProLiant DL380 G5 (2U rack)
+Strana 20
+
+24 x HP ProLiant BL680c G5 (blade server do blade chassis)
+1 x Meinberg LANTIME M200
+1 x HP Proliant DL360 G4p
+1 x HP Proliant DL320 G5
+1 x HP Proliant DL3680 G5
+4 x HP Proliant DL380p G8
+6 x HP Proliant DL380p G6
+Vybavenie dátového centra:
+Klimatizácia:
+Liebert Hiross HPM M42UA
+APC InRow RP-DX
+DAIKIN FHQ125V
+Motorgenerátor:
+Caterpillar Olympian GEP 550
+UPS:
+NEWAVE Conceptpower DPA
+4 x UPS HP R5500 + prídavná batéria
+Stabilné hasiace zariadenie:
+FM200
+SW:
+Softvér zabezpečujúci antivírovú ochranu emailov a súborových systémov:
+CLAM AV
+E.F.A. - Email Filter Appliance
+Microsoft thread management gateway (Stromova ako MS služba)
+Softvér zabezpečujúci antispamovú ochranu emailov:
+Spamassassin v kombinácii s vlastnými a externými politikami
+Softvér zabezpečujúci služby certifikačnej autority:
+Certifikačná autorita nakonfigurovaná v rámci OS MS Windows Server
+Softvér zabezpečujúci služby proxy:
+Microsoft ISA server – Forefront Threat Management Gateway
+Nginx
+Cisco ACESoftvér na manažment sieťových technológií:
+Cisco Fabric Manager
+CiscoWorks Management System for LAN
+Cisco Device Manager
+Cisco ASDM-IDM
+Cisco Security Manager
+Softvér na manažment diskových polí:
+IBM Storage Manager
+HP StorageWorks XP Remote Web Console
+HP P6000 Control Panel
+HP P6000 Command View Software
+Databázy:
+4-nodovy cluster - verzia OS 2008 R2 a SQL 2012
+2-nodovy cluster - verzia 2005
+4 SQL instancie - verzia 2005
+5 SQL instancii - verzia 2012
+1x analysis services a 1x MS DTC sluzba - verzia 2005
+1x Reporting Services a 1x MS DTC sluzba - verzia 2012
+156 databaz na clustri SQL 2012
+100 databaz na clustri SQL 2005
+20 x MySQL
+5 x PostgreSQL
+
+Strana 21
+
+2 x MariaDB
+Aplikácie na zálohovanie údajov:
+IBM Tivoli Storage Manager Server Extended Version
+IBM Tivoli Storage Manager Reporting and Monitoring
+IBM TSM for SAN, DB, Sharepoint, mail
+Symantec backup
+Virtualizačná platforma VMware ESX:
+22 x VMware ESXi Server v clusteri A
+4 x VMware ESXi Server v clusteri B
+1 x VMware ESXi Server dedikovaný pre OOB sieť
+5 x VMware ESXi Server dedikovaný pre call centrum
+1 x VMware vCenter ServerOS Microsoft
+OS Microsoft:
+259 x Windows server, verzie 2008 - 2012
+OS Linux a iné:
+171 x Linux server edície Red Hat, Debian, CentOS, FreeBSD
+Active directory, DHCP, DNS:
+4 doménové radiče v lokalite Bratislava - Hanulova
+2 doménové radiče typu read-only (RODC) v lokalite Perimeter
+2 doménové radiče pre projekt DUD v lokalite Trnava
+2 doménové radiče v lokalite dátového centra CVTI SR Žilina
+8 serverov pre Active Directory Federation Services
+MS Exchange:
+8 x MS Exchange 2013
+2 x E.F.A.
+MS Sharepoint:
+Verzia 2007:
+4 x Web Front-end servery
+1 x Query server
+1 x Index server
+1 x Backup server
+2 x servery pre Media services
+2 x Project servery
+Verzia 2010:
+2 x Web Front-end servery
+1 x Index Server
+Verzia 2013:
+1 x Web Front-end server
+1 x Aplikačný server
+WEB servery:
+Microsoft IIS
+Apache
+Nginx
+Tomcat
+Monitorovacie aplikácie:
+HP Network Node Manager
+HP Network Node Manager iSPI
+HP SiteScope
+Microsoft System Center Operations Manager
+
+Strana 22
+
+Zabbix
+Observium
+syslog-ng
+Service desk aplikácie:
+HP Service Manager ver. 9
+Infosys software
+Aplikácia callcentra:
+Cisco Unified Call Manager - CUCM
+Cisco Unified Call Manager IM & Presence – CUCM IM & Presence
+Cisco Unified Contact Center Express - UCCX
+Cisco WebEx Meeting Server - CWMS
+Cisco Quality Management a Cisco Workforce Management – QM a WFM
+Verejný obstarávateľ si vyhradzuje právo zmeny HW a SW kedykoľvek počas dĺžky trvania rámcovej dohody
+podľa svojich aktuálnych potrieb a možností.
+
+Strana 23
+
+Príloha č. 3: Hodinové sadzby expertov
+
+Por.č.
+
+Položka
+
+Maximálny
+požadovaný
+početposkytovania
+služieb za 4
+roky
+
+Cena/hodinu
+poskytovania
+služby hodinová
+sadzba v EUR
+bez DPH
+
+Cena za
+požadovaný
+počet hodín
+celkom
+v EUR bez
+DPH
+
+Sadzba
+DPH v %
+
+Výška DPH
+v EUR
+
+Cena za
+poskytovanie
+služby za
+požadovaný počet
+hodín celkom
+v EUR vrátane
+DPH
+
+Cena za poskytovanie služieb správy administrátora na diaľku
+
+1.
+1.1
+
+Cena v EUR za poskytovanie
+služby správa hardvéru a
+infraštruktúry
+
+260 hod.
+
+53,00
+
+13 780,00
+
+20
+
+2 756,00
+
+16 536,00
+
+1.2
+
+Cena v EUR za poskytovanie
+služby správa údajov
+
+2320 hod.
+
+53,00
+
+122 960,00
+
+20
+
+24 592,00
+
+147 552,00
+
+2700 hod.
+
+53,00
+
+143 100,00
+
+20
+
+28 620,00
+
+171 720,00
+
+1520 hod.
+
+53,00
+
+80 560,00
+
+20
+
+16 112,00
+
+96 672,00
+
+720 hod.
+
+53,00
+
+38 160,00
+
+20
+
+7 632,00
+
+45 792,00
+
+1320 hod.
+
+53,00
+
+69 960,00
+
+20
+
+13 992,00
+
+83 952,00
+
+2504 hod.
+
+53,00
+
+132 712,00
+
+20
+
+26 542,40
+
+159 254,40
+
+1.3
+
+1.4
+
+1.5
+1.6
+1.7
+
+Cena v EUR za poskytovanie
+služby správa operačného
+systému
+Cena v EUR za poskytovanie
+služby správa sieťových
+technológií
+Cena v EUR za poskytovanie
+služby správa virtualizačnej
+platformy Vmware
+Cena v EUR za poskytovanie
+služby monitoringu
+Cena v EUR za poskytovanie
+služby správu komunikačnej
+platformy
+
+1.8
+
+Cena v EUR za poskytovanie
+služby správa bezpečnosti
+
+780 hod.
+
+53,00
+
+41 340,00
+
+20
+
+8 268,00
+
+49 608,00
+
+1.9
+
+Cena v EUR za poskytovanie
+služby riadenie IT služieb
+
+1352 hod.
+
+53,00
+
+71 656,00
+
+20
+
+14 331,20
+
+85 987,20
+
+1.10
+
+Cena celkom za poskytovanie služieb správy administrátora na
+diaľku v EUR (v EUR bez DPH, výška DPH, v EUR vrátane DPH)
+
+714 228,00
+
+20%
+
+142 845,60
+
+857 073,60
+
+Cena za poskytovanie služieb správy administrátora na mieste
+
+2.
+2.1
+
+Cena v EUR za poskytovanie
+služby správa hardvéru a
+infraštruktúry
+
+272 hod.
+
+55,00
+
+14 960,00
+
+20
+
+2 992,00
+
+17 952,00
+
+2.2
+
+Cena v EUR za poskytovanie
+služby správa údajov
+
+2208 hod.
+
+55,00
+
+121 440,00
+
+20
+
+24 288,00
+
+145 728,00
+
+2496 hod.
+
+55,00
+
+137 280,00
+
+20
+
+27 456,00
+
+164 736,00
+
+1048 hod.
+
+55,00
+
+57 640,00
+
+20
+
+11 528,00
+
+69 168,00
+
+416 hod.
+
+55,00
+
+22 880,00
+
+20
+
+4 576,00
+
+27 456,00
+
+624 hod.
+
+55,00
+
+34 320,00
+
+20
+
+6 864,00
+
+41 184,00
+
+1184 hod.
+
+55,00
+
+65 120,00
+
+13 024,00
+
+78 144,00
+
+3 432,00
+
+20 592,00
+
+3 696,00
+
+22 176,00
+
+2.3
+
+2.4
+
+2.5.
+2.6
+2.7
+
+Cena v EUR za poskytovanie
+služby správa operačného
+systému
+Cena v EUR za poskytovanie
+služby správa sieťových
+technológií
+Cena v EUR za poskytovanie
+služby správa virtualizačnej
+platformy Vmware
+Cena v EUR za poskytovanie
+služby monitoringu
+Cena v EUR za poskytovanie
+služby správu komunikačnej
+platformy
+
+2.8
+
+Cena v EUR za poskytovanie
+služby správa bezpečnosti
+
+312 hod.
+
+55,00
+
+17 160,00
+
+2.9
+
+Cena v EUR za poskytovanie
+služby riadenie IT služieb
+
+336 hod.
+
+55,00
+
+18 480,00
+
+Strana 24
+
+20
+
+20
+
+20
+
+2.10
+
+Cena celkom za služby za poskytovanie služieb správy
+administrátora na mieste (v EUR bez DPH, výška DPH, v EUR
+vrátane DPH)
+
+489 280,00
+
+3.1
+
+Cena v EUR za poskytovanie
+služby správa hardvéru a
+infraštruktúry
+
+176 hod.
+
+65,00
+
+11 440,00
+
+3.2
+
+Cena v EUR za poskytovanie
+služby správa údajov
+
+1232 hod.
+
+65,00
+
+80 080,00
+
+2332 hod.
+
+65,00
+
+151 580,00
+
+748 hod.
+
+65,00
+
+48 620,00
+
+564 hod.
+
+65,00
+
+36 660,00
+
+812 hod.
+
+65,00
+
+52 780,00
+
+1520 hod.
+
+65,00
+
+98 800,00
+
+3.4
+
+3.5
+3.6
+3.7
+
+97 856,00
+
+587 136,00
+
+2 288,00
+
+13 728,00
+
+16 016,00
+
+96 096,00
+
+30 316,00
+
+181 896,00
+
+9 724,00
+
+58 344,00
+
+7 332,00
+
+43 992,00
+
+10 556,00
+
+63 336,00
+
+19 760,00
+
+118 560,00
+
+9 256,00
+
+55 536,00
+
+30 212,00
+
+181 272,00
+
+6 656,00
+
+39 936,00
+
+142 116,00
+
+852 696,00
+
+Cena za poskytovanie služieb správy experta na diaľku
+
+3.
+
+3.3
+
+20%
+
+Cena v EUR za poskytovanie
+služby správa operačného
+systému
+Cena v EUR za poskytovanie
+služby správa sieťových
+technológií
+Cena v EUR za poskytovanie
+služby správa virtualizačnej
+platformy Vmware
+Cena v EUR za poskytovanie
+služby monitoringu
+Cena v EUR za poskytovanie
+služby správu komunikačnej
+platformy
+
+3.8
+
+Cena v EUR za poskytovanie
+služby správa bezpečnosti
+
+712 hod.
+
+65,00
+
+46 280,00
+
+3.9
+
+Cena v EUR za poskytovanie
+služby riadenie IT služieb
+
+2324 hod.
+
+65,00
+
+151 060,00
+
+3.10
+
+Cena v EUR za poskytovanie
+služby správa hardvéru a
+infraštruktúry
+
+512 hod.
+
+65,00
+
+33 280,00
+
+3.11
+
+Cena celkom za poskytovanie služieb správy experta na diaľku
+(v EUR bez DPH, výška DPH, v EUR vrátane DPH)
+
+710 580,00
+
+20
+
+20
+
+20
+
+20
+
+20
+20
+20
+
+20
+
+20
+
+20
+
+20%
+
+Spolu cena celkom za celý predmet zákazky v EUR bez DPH
+
+1 914 088,00
+
+Výška DPH v EUR
+
+382 817,60
+
+Návrh na plnenie kritéria najnižšia cena celkom za celý predmet zákazky v EUR vrátane DPH
+
+2 296 905,60
+
+Vysvetlivky: P = maximálny počet osobohodín poskytovania služby počas platnosti rámcovej dohody podľa potrieb verejného
+obstarávateľa
+
+V Bratislave dňa
+................................................
+
+Strana 25
+
+Mgr. Ing. Gabriel Herbrik,
+predseda.predstavenstva
+
+Strana 26
+
+Príloha č. 4: Výkaz vykonaných prác
+Výkaz vykonaných prác
+K faktúre č..............
+k Rámcovej dohode o poskytovaní služieb technickej podpory a správy pre Dátové centrum rezortu školstva
+za obdobie..........................
+Dátum .
+
+x
+
+Identifikácia
+Identifikácia
+Špecifikácia
+činnosti - druh
+poskytovateľa- služby (D/M) na
+poskytnutej administrátor/expe
+diaľku/na
+služby (1-10)
+rt-(A/E) meno
+mieste
+a priezvisko*
+
+x
+
+x
+
+x
+
+Stručný popis činnosti
+
+Počet hodín
+poskytovania
+služby
+
+x
+
+Dátum:
+
+Výkaz vystavil:
+
+Podpis
+
+Dátum:
+
+Výkaz schváli
+
+Podpis
+
+*Hodinová
+sadzba v EUR
+bez DPH
+
+Cena v EUR
+bez DPH za
+poskytnutú
+službu
+
+

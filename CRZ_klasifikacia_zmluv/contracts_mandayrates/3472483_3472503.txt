@@ -1,0 +1,7999 @@
+OBSAH
+1.
+VÝKLAD POJMOV .................................................................................................................. 4
+2.
+PREDMET A ÚČEL ZMLUVY .............................................................................................. 11
+3.
+IMPLEMENTÁCIA IT RIEŠENIA NA ZASIELANIE ŽIADOSTÍ, INFORMÁCIÍ A
+PRÍKAZOV A TESTOVACIA PREVÁDZKA ..................................................................... 12
+4.
+ODOVZDÁVANIE ŽIADOSTÍ .............................................................................................. 14
+5.
+POSKYTOVANIE INFORMÁCIÍ .......................................................................................... 15
+6.
+PRÍKAZY ................................................................................................................................ 16
+7.
+DOSTUPNOSŤ IT RIEŠENIA ................................................................................................ 19
+8.
+ODPLATA ............................................................................................................................... 20
+9.
+VYHLÁSENIA, ĎALŠIE POVINNOSTI A ZODPOVEDNOSŤ BANKY ........................... 20
+10.
+VYHLÁSENIA, ĎALŠIE POVINNOSTI A ZODPOVEDNOSŤ MS SR.............................. 21
+11.
+VYHLÁSENIA, ĎALŠIE POVINNOSTI A ZODPOVEDNOSŤ CRIF SK .......................... 22
+12.
+DÔVERNÉ INFORMÁCIE A OSOBNÉ ÚDAJE .................................................................. 23
+13.
+PRÁVO DUŠEVNÉHO VLASTNÍCTVA .............................................................................. 24
+14.
+TRVANIE ZMLUVY .............................................................................................................. 25
+15.
+SPOLOČNÉ A ZÁVEREČNÉ USTANOVENIA ................................................................... 25
+
+2
+
+TÁTO ZMLUVA O SPOLUPRÁCI A TECHNICKEJ PODPORE (ďalej len „Zmluva“)
+je uzatvorená medzi nasledovnými stranami:
+(1)
+
+Slovenská banková asociácia, so sídlom Mýtna 48, Blumental offices I., 811 07 Bratislava,
+IČO: 30 813 182, DIČ: 2020809978, IČ DPH: SK2020809978, zapísaná v registri
+záujmových združení právnických osôb, v mene bánk a pobočiek zahraničných bánk (ďalej
+len ako „SBA“)
+a
+
+(2)
+
+CRIF – Slovak Credit Bureau, s.r.o., so sídlom Mlynské Nivy 14, 821 09 Bratislava,
+IČO: 35 886 013, DIČ: 2021842042, IČ DPH: SK2021842042, zapísaný v obchodnom registri
+Okresného súdu Bratislava I, oddiel Sro, vložka č. 31737/B (ďalej len “CRIF SK“)
+a
+
+(3)
+
+Ministerstvo spravodlivosti Slovenskej republiky, so sídlom Župné námestie 13, 813 11
+Bratislava, IČO: 00 166 073; DIČ: 2020830196 (ďalej len „MS SR“ alebo „Objednávateľ“),
+(všetky vyššie uvedené zmluvné strany ďalej spoločne ako „Zmluvné strany“ a každá z nich
+individuálne ako „Zmluvná strana“).
+
+Zmluvné strany SA DOHODLI nasledovne:
+PREAMBULA
+SBA je dobrovoľným združením právnických osôb podnikajúcich predovšetkým v oblasti
+bankovníctva, zriadená za účelom ochrany záujmov svojich členov a na podporu ich aktivít.
+MS SR je ústredným orgánom štátnej správy pre súdy, ktorý v rámci svojej pôsobnosti v oblasti
+ekonomickej okrem iného v zmysle § 73 ods. 1 písm. c) Zákona o súdoch zabezpečuje koordináciu
+nasadzovania informačných systémov a ich vývoja a v zmysle § 73 ods. 1 písm. j) Zákona o súdoch
+zabezpečuje nasadzovanie a prevádzku dátových komunikačných prostriedkov. MS SR je zároveň
+oprávnené v mene orgánov verejnej moci, vo vzťahu ku ktorým vykonáva ústrednú štátnu správu,
+uzatvoriť za splnenia podmienok v zmysle § 17 ods. 2 Zákona o e-Governmente dohodu
+o elektronickej komunikácii prostredníctvom osobitného informačného systému automatizovaným
+spôsobom medzi týmito orgánmi verejnej moci a subjektom, ktorý orgánom verejnej moci nie je.
+SBA a MS SR uzatvárajú túto Zmluvu v súlade s § 90 ods. 3 a § 91 ods. 10 Zákona o bankách, ktorá
+sa dňom jej účinnosti bude vzťahovať na MS SR, Subjekty rezortu MS SR a Banky, a ktorá upravuje
+vzájomné práva a povinnosti Subjektov rezortu MS SR a Bánk pri elektronickej komunikácii v rámci
+projektu osobitného informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu
+MS SR a Bankami.
+Zmluvné strany sa dohodli, že niektoré konkrétne podmienky elektronickej komunikácie môžu byť
+upravené osobitnými zmluvami medzi CRIF SK, MS SR a Bankami. Pre vylúčenie pochybností,
+v prípade rozporu, alebo nesúladu medzi ustanoveniami tejto Zmluvy a osobitnými zmluvami platí, že
+táto Zmluva má prednosť.
+
+3
+
+1.
+
+VÝKLAD POJMOV
+
+1.1
+
+Definície
+V tejto Zmluve:
+„Banka“ znamená akúkoľvek právnickú osobu so sídlom na území Slovenskej republiky
+založenú ako akciová spoločnosť, ktorá prijíma vklady a poskytuje úvery, a ktorá má na výkon
+týchto činností udelené bankové povolenie podľa Zákona o bankách, alebo akúkoľvek
+pobočku zahraničnej banky, ktorá je organizačnou zložkou zahraničnej banky umiestnenou na
+území Slovenskej republiky, ktorá priamo najmä prijíma vklady a poskytuje úvery a ktorá má
+na výkon týchto činností udelené bankové povolenie podľa Zákona o bankách, ako aj
+zahraničná banka alebo iná zahraničná finančná inštitúcia so sídlom na území členského štátu
+Európskej únie, ktorá je v zmysle Zákona o bankách oprávnená odo dňa nadobudnutia
+platnosti Zmluvy o pristúpení Slovenskej republiky k Európskym spoločenstvám vykonávať
+na území Slovenskej republiky uvedené bankové činnosti za podmienok stanovených
+Zákonom o bankách;
+„Justičná pokladnica“ znamená výkonný orgán Krajského súdu v Bratislave na vymáhanie
+súdnych pohľadávok s pôsobnosťou pre celé územie Slovenskej republiky, zriadená v zmysle
+Zákona o správe a vymáhaní súdnych pohľadávok. Justičná pokladnica je oprávnená v zmysle
+tejto Zmluvy zasielať na Dátový uzol Bánk Žiadosti a Príkazy;
+„Súd“ predstavuje nezávislý a nestranný štátny orgán, ktorý vykonáva súdnu právomoc
+v Slovenskej republike, s výnimkou Najvyššieho súdu Slovenskej republiky. Súd je oprávnený
+v zmysle tejto Zmluvy zasielať na Dátový uzol Bánk Žiadosti a Príkazy;
+„Subjekty rezortu MS SR“ znamená Súdy a Justičná pokladnica, teda subjekty
+komunikujúce prostredníctvom osobitného informačného systému automatizovaným
+spôsobom (IT riešenia) na strane MS SR ako príslušné orgány verejnej moci;
+„CaseID“ predstavuje jednoznačnú identifikáciu konania. Znamená jednoznačný číselný
+údaj, ktorý bude jedinečný pre konkrétne konanie (údaj uvedený v Prílohe č. 1 a č. 2);
+„Dátový uzol Bánk“ je technické riešenie vo vlastníctve CRIF SK tvoriace súčasť IT
+riešenia, ktorého popis je uvedený v Prílohe č. 3 tejto Zmluvy;
+„Dátový uzol MS SR“ je technické riešenie vo vlastníctve CRIF SK tvoriace súčasť IT
+riešenia, ktorého popis je uvedený v Prílohe č. 3 tejto Zmluvy;
+„Deň začiatku testovacej prevádzky na zasielanie Žiadostí, Príkazov a poskytovanie
+Informácií“ znamená deň spustenia testovacej prevádzky v zmysle Prílohy č. 8 tejto Zmluvy;
+„Deň uvedenia IT riešenia na zasielanie Žiadostí, Príkazov a poskytovanie Informácií do
+rutinnej prevádzky“ znamená 1.6.2018;
+„Európsky príkaz“ je Európsky príkaz na zablokovanie účtov (ďalej iba „Európsky
+príkaz“), ktorý predstavuje neodkladné opatrenie nariadené podľa Nariadenia Európskeho
+parlamentu a Rady (EÚ) č. 655/2014 z 15. mája 2014 o zavedení konania týkajúceho sa
+európskeho príkazu na zablokovanie účtov s cieľom uľahčiť cezhraničné vymáhanie
+pohľadávok v občianskych a obchodných veciach (Ú. v. EÚ L 189, 27. 6. 2014) a Zákona
+o európskom príkaze na zablokovanie účtov. Banky a pobočky zahraničných bánk sú povinné
+poskytovať súčinnosť prostredníctvom osobitného elektronického systému pre informačný
+orgán, ktorý prijíma a vybavuje žiadosti cudzieho orgánu alebo príslušného súdu. Banka je
+
+4
+
+povinná poskytnúť súčinnosť bez zbytočného odkladu a bezodplatne okrem náhrady hotových
+výdavkov;
+„Hardvér“ znamená súhrn technického vybavenia na strane CRIF SK, Bánk a MS SR,
+ktorého popis je súčasťou Architektúry informačného systému elektronickej komunikácie
+medzi MS SR a Bankami, uvedenej v Prílohe č. 3 tejto Zmluvy;
+„IT riešenie“ znamená kompletné technické riešenie softvéru, vyvinuté CRIF SK, ktoré sa
+skladá z (i) Dátového uzla MS SR, (ii) Dátového uzla Bánk, (iii) Softvéru, navrhnuté
+za účelom zabezpečenia komunikácie a prenosu dát medzi Bankami, CRIF SK a MS SR,
+ktorého technické parametre a funkcionality sú stanovené v Prílohe č. 3 tejto Zmluvy,
+a ktorého vlastníkom je CRIF SK;
+„Informácia“ znamená Rozšírenú informáciu alebo Informáciu na základe Inej žiadosti;
+„Identifikačné číslo“ znamená identifikačné číslo v zmysle ustanovenia § 9 a § 14 ods. 1
+zákona č. 272/2015 Z. z. o registri právnických osôb, podnikateľov a orgánov verejnej moci
+a o zmene a doplnení niektorých zákonov, ak z významu, v ktorom je tento pojem v Zmluve
+použitý, nevyplýva niečo iné;
+„Identifikácia Povinnej osoby“ znamená povinný údaj o Povinnej osobe, ktorý má byť
+zahrnutý v Žiadosti alebo Príkaze za účelom identifikácie príslušnej Povinnej osoby:
+(a) rodné číslo, ak je Povinnou osobou fyzická osoba, ktorej bolo rodné číslo pridelené,
+(b) dátum narodenia spolu s menom a priezviskom, ak je Povinnou osobou fyzická osoba
+cudzozemec, ktorej nebolo rodné číslo pridelené,
+(c) identifikačné číslo, ak je Povinnou osobou právnická osoba podnikajúca na území
+Slovenskej republiky, ak jej bolo pridelené identifikačné číslo; v prípade organizačnej
+jednotky/zložky právnickej osoby s právnou subjektivitou je povinným údajom aj
+číselný údaj identifikujúci organizačnú jednotku/zložku; v prípade organizačnej zložky
+zahraničnej právnickej osoby bez právnej subjektivity je potrebné zaslať osobitne
+Žiadosť alebo Príkaz s identifikáciou zahraničnej právnickej osoby podľa bodu e),
+(d) rodné číslo a identifikačné číslo, ak je Povinnou osobou fyzická osoba podnikateľ,
+(e) obchodné meno a štát, v ktorom je registrované sídlo Povinnej osoby, ak je Povinnou
+osobou zahraničná právnická osoba,
+(f)
+ak je Povinnou osobou fyzická osoba cudzozemec a zároveň má pridelené identifikačné
+číslo, je potrebné zaslať osobitne Žiadosť alebo Príkaz s identifikáciou Povinnej osoby
+v zmysle bodu bodu b) a c),
+(g) ak je Povinnou osobou fyzická osoba cudzozemec a zároveň má pridelené rodné číslo,
+je potrebné zaslať osobitne Žiadosť alebo Príkaz s identifikáciou Povinnej osoby
+v zmysle bodu a) a b);
+„Iná žiadosť“ znamená žiadosť Subjektu rezortu MS SR o poskytnutie Informácie, ktorá sa
+vzťahuje na príslušnú Povinnú osobu, a ktorá je v rozsahu a štruktúre uvedenej v Prílohe č. 1
+(stav na účte k staršiemu dátumu, resp. iná žiadosť, ktorá sa týka Povinnej osoby, okrem
+Rozšírenej žiadosti, a ktorá nie je všeobecne záväznými právnymi predpismi zakázaná). Inú
+žiadosť možno odoslať len na takú Povinnú osobu, ktorá je/bola v zmluvnom vzťahu
+s Bankou. Inej žiadosti na Povinnú osobu musí predchádzať Rozšírená žiadosť;
+„Informácia na základe Inej žiadosti“ znamená Informáciu podľa Prílohy č. 1, poskytnutú
+následne po obdržaní Inej žiadosti. Banky sú oprávnené poskytnúť Informáciu na základe Inej
+žiadosti aj iným spôsobom v súlade so zákonom;
+
+5
+
+„Klient“ znamená osobu, o ktorej Súd požaduje Informáciu na základe Inej žiadosti na účely
+civilného procesu, správneho súdneho procesu v zmysle § 91 ods. 4 písm. a) alebo na účely
+trestného konania v zmysle § 91 ods. 4 písm. b) Zákona o bankách;
+„Komunikačná sieť“ znamená prepojenie medzi Bankami, CRIF SK a MS SR, ktorým je
+realizovaný technický prenos dát a ktorého presný popis je uvedený v Prílohe č. 3 tejto
+Zmluvy;
+„Povinná osoba“ znamená dlžník - fyzickú alebo právnickú osobu, voči ktorému existuje
+súdna pohľadávka - v zmysle Zákona o správe a vymáhaní súdnych pohľadávok, alebo dlžník
+- fyzická alebo právnická osoba, voči ktorej existuje pohľadávka v zmysle Zákona
+o európskom príkaze na zablokovanie účtov, alebo osoba proti ktorej smeruje európsky príkaz
+na zablokovanie účtov v zmysle Nariadania rady Európskeho parlamentu a Rady (EÚ) č.
+655/2014, alebo Klient;
+„Parametre IT riešenia“ znamenajú parametre dostupnosti IT riešenia pre Banky a MS SR
+a dobu odoslania potvrdenia o prijatí Žiadostí, Príkazov a Informácií od ich doručenia na
+Dátový uzol MS SR a Dátový uzol Bánk;
+„Pracovný deň“ znamená deň, ktorý nie je sobotou, nedeľou ani dňom pracovného pokoja
+v Slovenskej republike v zmysle ustanovenia § 2 zákona č. 241/1993 Z. z. o štátnych
+sviatkoch, dňoch pracovného pokoja a pamätných dňoch;
+„Prevádzkový rok“ znamená po dobu účinnosti Zmluvy sa opakujúce obdobie dvanástich
+po sebe idúcich mesiacov, ktoré začína prvým dňom uvedenia IT riešenia na zasielanie
+Žiadostí, Príkazov a Informácií do rutinnej prevádzky;
+„Rozšírená žiadosť“ znamená žiadosť Subjektu rezortu MS SR o poskytnutie Informácie,
+ktorá sa vzťahuje na príslušnú Povinnú osobu, a ktorá je v rozsahu a štruktúre uvedenej v
+Prílohe č. 1 (stav na účte k aktuálnemu dňu);
+„Rozšírená informácia“ znamená súbor údajov obsiahnutých v Rozšírenej žiadosti,
+týkajúcich sa príslušnej Povinnej osoby v rozsahu a štruktúre stanovenej (vrátane ďalších
+možných návratových hodnôt) v Prílohe č. 1 (stav na účte k aktuálnemu dňu, t.j. stav na
+bežnom účte, vkladovom účte, účte stavebného sporenia ) na základe údajov, ktoré o Povinnej
+osobe vedie Banka vo svojom informačnom systéme ako o svojom klientovi v zmysle Zákona
+o bankách;
+„Rodné číslo“ znamená rodné číslo v zmysle Zákona č. 301/1995 Z. z. o rodnom čísle, ak
+z významu, v ktorom je tento pojem v Zmluve použitý, nevyplýva niečo iné;
+„Softvér“ znamená súhrn softvérových nástrojov (aplikácií), ktoré slúžia na vytvorenie
+spojenia, prípravu a bezpečnú výmenu dát medzi Subjektmi rezortu MS SR a Bankami
+prostredníctvom IT riešenia zabezpečeného CRIF SK, ktorého detailný popis je súčasťou IT
+riešenia uvedeného v Prílohe č. 3 tejto Zmluvy;
+„Súhlas Súdu s uvoľnením peňažnej sumy nepodliehajúcej exekúcii” znamená kladné
+vyjadrenie Súdu adresované Banke k uvoľneniu peňažnej sumy, ktorá je vylúčená z exekúcie
+alebo nepodlieha exekúcii prikázaním pohľadávky z účtu Povinnej osoby. Jednorazový súhlas
+Súdu s uvoľnením peňažnej sumy nepodliehajúcej exekúcii nie je možné meniť ani zrušiť
+prostredníctvom IT riešenia a v prípade opakovaného zaslania takéhoto súhlasu cez IT riešenie
+ho Banka nebude považovať za zmenu ani zrušenie skôr vydaného jednorazového súhlasu.
+V prípade zmeny alebo zrušenia súhlasu Súdu s uvoľnením peňažnej sumy nepodliehajúcej
+exekúcii, ktorý zabezpečuje mesačné uvoľňovanie peňažnej sumy, Súd zašle opakovane
+formulár Súhlas Súdu s uvoľnením peňažnej sumy nepodliehajúcej exekúcii pričom platí, že
+6
+
+údaje v neskoršom formulári nahrádzajú údaje v skoršom formulári. Súhlasu Súdu
+s uvoľnením peňažnej sumy nepodliehajúcej exekúcii musí predchádzať Príkaz na začatie
+exekúcie okrem prípadu, keď Súd už doručil príkaz na začatie exekúcie prikázaním
+pohľadávky z účtu v banke, do vlastných rúk Banke, ktorá v tom čase viedla účet Povinnej
+osoby, v takomto prípade musí Súhlasu Súdu s uvoľnením peňažnej sumy nepodliehajúcej
+exekúcii predchádzať Rozšírená žiadosť zaslaná prostredníctvom IT riešenia;
+„Účet“ znamená bežný alebo vkladový účet alebo účet stavebného sporenia, ktorý má vedený
+Povinná osoba v Banke;
+„Žiadosť“ znamená akúkoľvek žiadosť, ktorou je Rozšírená žiadosť alebo Iná žiadosť, ktorá
+má byť predložená prostredníctvom IT riešenia;
+„Uznesenie o nariadení výkonu rozhodnutia“ znamená príkaz v zmysle ust. § 13zb Zákona
+o správe a vymáhaní súdnych pohľadávok, ktorým Justičná pokladnica prikáže Banke, ktorá
+vedie Účet Povinnej osoby, aby potom, čo sa jej doručí Uznesenie o nariadení výkonu
+rozhodnutia, zablokovala sumu zodpovedajúcu pohľadávke s príslušenstvom z Účtu Povinnej
+osoby až do vymoženia pohľadávky alebo do zastavenia výkonu rozhodnutia, ak Justičná
+pokladnica neurčí inak, a uhradila ju po právoplatnosti Uznesenia o nariadení výkonu
+rozhodnutia Justičnej pokladnici. Jedno Uznesenie o nariadení výkonu rozhodnutia môže
+zahŕňať jednu alebo viac Povinných osôb. Pri vymáhaní pohľadávky od viacerých Povinných
+osôb uvedených v jednom Uznesení o nariadení výkonu rozhodnutia platí, že plnením
+ktoréhokoľvek z Povinných osôb zaniká v rozsahu tohto plnenia záväzok ostatných Povinných
+osôb. V prípade deleného záväzku doručí Justičná pokladnica Banke samostatné Uznesenie
+o nariadení výkonu rozhodnutia na každú Povinnú osobu s rovnakým číslom Uznesenia
+o nariadení výkonu rozhodnutia, v ktorom uvedie iba tú časť pohľadávky, ktorá na konkrétnu
+Povinnú osobu pripadá. V takomto prípade Justičná pokladnica označí jednotlivé Uznesenia
+o nariadení výkonu rozhodnutia poradovým číslom (Record ID – Identifikácia Príkazov pre
+rozdielnych povinných v rámci jednej Ex); Uzneseniu o nariadení výkonu rozhodnutia musí
+predchádzať Rozšírená žiadosť;
+„Zmena Uznesenia o nariadení výkonu rozhodnutia“ znamená zmenu Uznesenia
+o nariadení výkonu rozhodnutia oproti údajom uvedeným v Uznesení o nariadení výkonu
+rozhodnutia, pričom zostávajú zachované účinky pôvodného Uznesenia o nariadení výkonu
+rozhodnutia. Všetky údaje uvedené v Zmene Uznesenia o nariadení výkonu rozhodnutia
+nahrádzajú údaje z predchádzajúceho Uznesenia o nariadení výkonu rozhodnutia. Pri
+vymáhaní pohľadávky od viacerých Povinných osôb uvedených v Zmene Uznesenia
+o nariadení výkonu rozhodnutia platí, že ich záväzok je spoločný a nerozdielny. V prípade
+zmeny údajov o Povinnej osobe je Justičná pokladnica povinná doručiť Zmenu Uznesenia
+o nariadení výkonu rozhodnutia aj v prípade, že už bolo Banke doručené Upovedomenie
+o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia. Zmene Uznesenia
+o nariadení výkonu rozhodnutia musí predchádzať Uznesenie o nariadení výkonu rozhodnutia,
+okrem prípadu, keď Justičná pokladnica už doručila Uznesenie o nariadení výkonu
+rozhodnutia písomne do vlastných rúk Banke, ktorá v tom čase viedla účet Povinnej osoby,
+v takomto prípade musí Zmene Uznesenia o nariadení výkonu rozhodnutia predchádzať
+Rozšírená žiadosť zaslaná prostredníctvom IT riešenia;
+„Upovedomenie o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu
+rozhodnutia“ znamená príkaz na vyplatenie pohľadávky z Účtu v Banke v zmysle § 13zd
+Zákona o správe a vymáhaní súdnych pohľadávok. Upovedomenie o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia môže zahŕňať jednu alebo viac
+Povinných osôb, ak bolo uvedených v Uznesení o nariadení výkonu rozhodnutia viac
+Povinných osôb. Ak Justičná pokladnica posiela Upovedomenie o nadobudnutí právoplatnosti
+Uznesenia o nariadení výkonu rozhodnutia samostatne na jednotlivé Povinné osoby v rôznom
+
+7
+
+čase, platí, že údaje o výške pohľadávky uvedené v neskôr vydanom Upovedomení o
+nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia nahrádzajú údaje o
+výške pohľadávky uvedené v skôr vydanom Uznesení o nariadení výkonu rozhodnutia.
+Upovedomeniu o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia musí
+predchádzať Uznesenie o nariadení výkonu rozhodnutia, okrem prípadu, keď Justičná
+pokladnica doručila Uznesenie o nariadení výkonu rozhodnutia písomne do vlastných rúk
+Banke, ktorá v tom čase viedla Účet Povinnej osoby, v takomto prípade musí Upovedomeniu
+o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia predchádzať
+Rozšírená žiadosť zaslaná prostredníctvom IT riešenia;
+„Zmena Upovedomenia o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu
+rozhodnutia“ znamená Zmenu Upovedomenia o nadobudnutí právoplatnosti Uznesenia
+o nariadení výkonu rozhodnutia oproti údajom uvedeným v Upovedomení o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia, pričom zostávajú zachované účinky
+Upovedomenia o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia.
+Všetky údaje uvedené v Zmene Upovedomenia o nadobudnutí právoplatnosti Uznesenia
+o nariadení výkonu rozhodnutia nahrádzajú údaje z Upovedomenia o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia. Zmene Upovedomenia o
+nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia musí predchádzať
+Upovedomenie o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia,
+okrem prípadu, keď Justičná pokladnica už doručila Upovedomenie o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia písomne do vlastných rúk Banke,
+ktorá v tom čase viedla Účet Povinnej osoby, v takomto prípade musí Zmene Upovedomenia
+o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia predchádzať
+Rozšírená žiadosť zaslaná prostredníctvom IT riešenia;
+„Zrušenie Upovedomenia o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu
+rozhodnutia“ znamená, že Banka nebude poukazovať prostriedky z účtu Povinnej osoby na
+úhradu exekúcie, ale účinky Upovedomenia o nadobudnutí právoplatnosti Uznesenia
+o nariadení výkonu rozhodnutia alebo Zmeny Upovedomenia o nadobudnutí právoplatnosti
+Uznesenia o nariadení výkonu rozhodnutia zostávajú zachované. Zrušeniu Upovedomenia
+o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia musí predchádzať
+Upovedomenie o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia
+okrem prípadu, keď Justičná pokladnica už doručila Upovedomenie o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia do vlastných rúk Banke, ktorá
+v tom čase viedla účet Povinnej osoby, v takomto prípade musí Zrušeniu Upovedomenia o
+nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia predchádzať Rozšírená
+žiadosť zaslaná prostredníctvom IT riešenia;
+„Príkaz“ znamená Uznesenie o nariadení výkonu rozhodnutia, alebo Zmena Uznesenia
+o nariadení výkonu rozhodnutia, alebo Upovedomenie o nadobudnutí právoplatnosti
+Uznesenia o nariadení výkonu rozhodnutia, alebo Zmena Upovedomenia o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia, alebo Zrušenie Upovedomenia o
+nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia, alebo Odklad výkonu
+rozhodnutia s odblokovaním účtu, alebo Odklad výkonu rozhodnutia s blokovaním účtu, alebo
+Zrušenie odkladu, alebo Príkaz na odblokovanie účtu, alebo Príkaz na zablokovanie účtu,
+alebo Zrušenie blokovania účtu, alebo Zmena príkazu na zablokovanie účtu;
+„Odklad výkonu rozhodnutia s odblokovaním účtu“ znamená oznámenie o odklade
+výkonu rozhodnutia s odblokovaním účtu, kedy Justičná pokladnica povolila odklad výkonu
+rozhodnutia, na základe ktorého má dôjsť k odblokovaniu Účtu Povinnej osoby bez
+zachovania poradia. V prípade, že má dôjsť k opätovnému blokovaniu Účtu, Justičná
+pokladnica je povinná doručiť nové Uznesenie o nariadení výkonu rozhodnutia. Odkladu
+výkonu rozhodnutia s odblokovaním účtu musí predchádzať Uznesenie o nariadení výkonu
+
+8
+
+rozhodnutia, alebo Upovedomenie o nadobudnutí právoplatnosti Uznesenia o nariadení
+výkonu rozhodnutia okrem prípadu, keď Justičná pokladnica už doručila Uznesenie
+o nariadení výkonu rozhodnutia alebo Upovedomenie o nadobudnutí právoplatnosti Uznesenia
+o nariadení výkonu rozhodnutia písomne do vlastných rúk Banke, ktorá v tom čase viedla
+Účet Povinnej osoby, v takomto prípade musí Odkladu výkonu rozhodnutia s odblokovaním
+účtu predchádzať Rozšírená žiadosť zaslaná prostredníctvom IT riešenia;
+„Odklad výkonu rozhodnutia s blokovaním účtu“ znamená oznámenie o odklade výkonu
+rozhodnutia s blokovaním účtu, kedy Justičná pokladnica povolila odklad výkonu
+rozhodnutia, na základe ktorého sú prostriedky Povinnej osoby naďalej blokované, ale
+blokované prostriedky Banka nepoukazuje; Odkladu výkonu rozhodnutia s blokovaním účtu
+musí predchádzať Uznesenie o nariadení výkonu rozhodnutia, alebo Upovedomenie o
+nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia, okrem prípadu, keď
+Justičná pokladnica už doručila Uznesenie o nariadení výkonu rozhodnutia alebo
+Upovedomenie o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia
+písomne do vlastných rúk Banke, ktorá v tom čase viedla Účet Povinnej osoby, v takomto
+prípade musí Odkladu výkonu rozhodnutia s odblokovaním účtu predchádzať Rozšírená
+žiadosť zaslaná prostredníctvom IT riešenia;
+„Zrušenie odkladu“ znamená oznámenie o tom, že pominuli účinky Odkladu výkonu
+rozhodnutia s blokovaním účtu. Zrušeniu odkladu musí predchádzať Odklad výkonu
+rozhodnutia s blokovaním účtu okrem prípadu, keď Justičná pokladnica už doručila Odklad
+výkonu rozhodnutia s blokovaním účtu písomne do vlastných rúk Banke, ktorá v tom čase
+viedla Účet Povinnej osoby, v takomto prípade musí Zrušeniu odkladu predchádzať Rozšírená
+žiadosť zaslaná prostredníctvom IT riešenia;
+„Príkaz na odblokovanie účtu“ znamená príkaz na odblokovanie Účtu Povinnej osoby
+v zmysle § 4 ods. 4 alebo ods. 5 a § 10a Zákona o správe a vymáhaní súdnych pohľadávok.
+Jeden Príkaz na odblokovanie účtu Povinnej osoby môže zahŕňať jednu alebo viac Povinných
+osôb. Za Príkaz na čiastočné Odblokovanie účtu sa považuje Zmena Uznesenia o nariadení
+výkonu rozhodnutia, Zmena Upovedomenia o nadobudnutí právoplatnosti Uznesenia o
+nariadení výkonu rozhodnutia, alebo Upovedomenie o nadobudnutí právoplatnosti Uznesenia
+o nariadení výkonu rozhodnutia v rozsahu, v ktorom sa znížila celková výška pohľadávky
+oproti predchádzajúcemu Uzneseniu o nariadení výkonu rozhodnutia. Príkaz na čiastočné
+odblokovanie účtu sa týka vždy všetkých Povinných osôb v rámci jedného výkonu
+rozhodnutia. Príkazu na odblokovanie účtu musí predchádzať Uznesenie o nariadení výkonu
+rozhodnutia, okrem prípadu, keď Justičná pokladnica už doručila Uznesenie o nariadení
+výkonu rozhodnutia prikázaním pohľadávky z účtu v banke písomne do vlastných rúk Banke,
+ktorá v tom čase viedla Účet Povinnej osoby, v takomto prípade musí Príkazu na
+odblokovanie účtu predchádzať Rozšírená žiadosť zaslaná prostredníctvom IT riešenia;
+„Príkaz na zablokovanie účtu“ znamená príkaz v zmysle ust. § 7 Zákona o európskom
+príkaze na zablokovanie účtov, ktorým Súd prikáže Banke, ktorá vedie Účet Povinnej osoby,
+aby zablokovala sumu peňažných prostriedkov do výšky uvedenej v Príkaze na zablokovanie
+účtu tejto Povinnej osoby a neumožnila tejto osobe s peňažnými prostriedkami do tejto výšky
+nakladať. Jeden Príkaz na zablokovanie účtu môže zahŕňať jednu alebo viac Povinných osôb.
+Pri vymáhaní pohľadávky od viacerých Povinných osôb uvedených v jednom Príkaze na
+zablokovanie účtu platí, že plnením ktoréhokoľvek z Povinných osôb zaniká v rozsahu tohto
+plnenia záväzok ostatných Povinných osôb. V prípade deleného záväzku doručí Súd Banke
+samostatný Príkaz na zablokovanie účtu na každú Povinnú osobu s rovnakým číslom Príkazu
+na zablokovanie účtu, v ktorom uvedie iba tú časť pohľadávky, ktorá na konkrétnu Povinnú
+osobu pripadá. V takomto prípade Súd označí jednotlivé Príkazy na zablokovanie účtu
+poradovým číslom (Record ID – Identifikácia Príkazov pre rozdielnych povinných v rámci
+jednej Ex). Príkazu na zablokovanie účtu musí predchádzať Rozšírená žiadosť;
+
+9
+
+„Zrušenie blokovania účtu“ znamená príkaz v zmysle Zákona o európskom príkaze na
+zablokovanie účtov, ktorým Súd prikáže Banke zrušenie blokácie účtu alebo účtov;
+„Zmena Príkazu na zablokovanie účtu“ znamená zmenu Príkazu na zablokovanie účtu
+oproti údajom uvedeným v Príkaze na zablokovanie účtu, pričom zostávajú zachované účinky
+pôvodného Príkazu na zablokovanie účtu. Všetky údaje uvedené v Zmene príkazu na
+zablokovanie účtu nahrádzajú údaje z predchádzajúceho Príkazu na zablokovanie účtu. Pri
+vymáhaní pohľadávky od viacerých Povinných osôb uvedených v Zmene Príkazu na
+zablokovanie účtu platí, že ich záväzok je spoločný a nerozdielny. Zmene Príkazu na
+zablokovanie účtu musí predchádzať Príkaz na zablokovanie účtu okrem prípadu, keď Súd už
+doručil Príkaz na zablokovanie účtu písomne do vlastných rúk Banke, ktorá v tom čase viedla
+účet Povinnej osoby, v takomto prípade musí Zmene Príkazu na zablokovanie účtu
+predchádzať Rozšírená žiadosť zaslaná prostredníctvom IT riešenia;
+„Obchodný zákonník“ znamená zákon č. 513/1991 Zb. Obchodný zákonník;
+„Zákon o bankách“ znamená zákon č. 483/2001 Z. z. o bankách a o zmene a doplnení
+niektorých zákonov;
+„Zákon o európskom príkaze na zablokovanie účtov“ znamená zákon č. 54/2017 Z. z. o
+európskom príkaze na zablokovanie účtov a o doplnení zákona Slovenskej národnej rady č.
+71/1992 Zb. o súdnych poplatkoch a poplatku za výpis z registra trestov;
+„Zákon o slobode informácií“ znamená zákon č. 211/2000 Z. z. o slobodnom prístupe
+k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií);
+„Zákon o správe a vymáhaní súdnych pohľadávok“ znamená zákon č. 65/2001 Z. z.
+o správe a vymáhaní súdnych pohľadávok;
+„Zákon o súdoch“ znamená zákona č. 757/2004 Z. z. o súdoch a o zmene a doplnení
+niektorých zákonov;
+„Zákon o ochrane osobných údajov“ znamená zákon č. 122/2013 Z. z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov;
+„Zákon o e-Governmente“ znamená zákon č. 305/2013 Z. z. o elektronickej podobe výkonu
+pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o eGovernmente);
+1.2
+
+Výkladové pravidlá
+V tejto Zmluve, ak z kontextu nevyplýva iný zámer:
+(a)
+
+názvy článkov sú uvedené len kvôli prehľadnosti a nemajú vplyv na interpretáciu tejto
+Zmluvy;
+
+(b)
+
+každý odkaz na osobu (vrátane Zmluvnej strany, Banky a MS SR) zahŕňa aj jej
+právnych nástupcov, ako aj postupníkov a nadobúdateľov práv alebo záväzkov, ktorí
+sa stali postupníkmi alebo nadobúdateľmi práv alebo záväzkov v súlade so Zmluvou;
+
+(c)
+
+slová v jednotnom čísle zahŕňajú aj množné číslo a naopak;
+
+(d)
+
+odkazy na články, odseky a prílohy sú odkazmi na články, odseky a prílohy tejto
+Zmluvy;
+
+10
+
+(e)
+
+každý odkaz na akýkoľvek dokument znamená príslušný dokument v znení jeho
+dodatkov a iných zmien (vrátane novácií);
+
+(f)
+
+každý odkaz na akýkoľvek právny predpis znamená príslušný právny predpis v znení
+jeho neskorších zmien (vrátane rekodifikácií);
+
+(g)
+
+každý odkaz na paragraf právneho predpisu predstavuje označenie obsahu
+ustanovenia ku dňu podpisu tejto Zmluvy a znamená príslušný obsah
+ustanovenia predmetného paragrafu právneho predpisu aj v prípade jeho
+neskorších zmien resp. zmeny číslovania;
+
+2.
+
+PREDMET A ÚČEL ZMLUVY
+
+2.1
+
+Predmetom tejto Zmluvy je úprava práv a povinností Zmluvných strán vyplývajúcich z
+právnych vzťahov súvisiacich so zabezpečením služieb prevádzky IT riešenia Dodávateľom
+pre potreby Objednávateľa a Bánk.
+Účelom tejto Zmluvy je zabezpečenie automatizovanej elektronickej komunikácie
+prostredníctvom osobitného informačného systému v súlade s § 90 ods. 3 a § 91 ods. 10
+Zákona o bankách medzi Bankami zastúpenými SBA na jednej strane a Justičnou pokladnicou
+a Súdmi zastúpenými Objednávateľom na druhej strane, v súvislosti s vymáhaním súdnych
+pohľadávok v zmysle Zákona o správe a vymáhaní súdnych pohľadávok a so zabezpečením
+plnenia povinnosti vyplývajúcich zo Zákona o európskom príkaze na zablokovanie účtov.
+Cieľom zavedenia automatizovanej elektronickej komunikácie prostredníctvom osobitného
+informačného systému na základe tejto Zmluvy je urýchlenie, zefektívnenie
+a zautomatizovanie doručovania Žiadostí, Informácií a Príkazov medzi Bankami, Justičnou
+pokladnicou a Súdmi.
+CRIF SK, ako technický partner MS SR, Subjektov rezortu MS SR a Bánk v rámci projektu
+osobitného informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu MS
+SR a Bankami, zabezpečí za podmienok stanovených touto Zmluvou pre Subjekty rezortu MS
+SR možnosť zaslania Žiadostí a Príkazov na Dátový uzol MS SR a pre Banky možnosť
+prevzatia Žiadostí a Príkazov z Dátového uzla Bánk, odoslaných Subjektmi rezortu MS SR na
+Dátový uzol MS SR a následne poskytnutie Informácie Subjektom rezortu MS SR cez Dátový
+uzol MS SR v zmysle tejto Zmluvy a v súlade s Architektúrou informačného systému
+pre elektronickú komunikáciu medzi Subjektmi rezortu MS SR a Bankami, ktorá tvorí Prílohu
+č. 3 tejto Zmluvy.
+CRIF SK zároveň zabezpečí funkčnosť a bezpečnosť informačného systému pre elektronickú
+komunikáciu medzi Subjektmi rezortu MS SR a Bankami.
+
+2.2
+
+Subjekty rezortu MS SR budú za podmienok stanovených touto Zmluvou odosielať na Dátový
+uzol MS SR Žiadosti a Príkazy. MS SR bude za podmienok stanovených touto Zmluvou platiť
+CRIF SK dohodnutú odplatu. CRIF SK zabezpečí prostredníctvom IT riešenia, v spolupráci s
+Bankou, že Subjektom rezortu MS SR bude poskytnutá Informácia na základe Žiadosti
+v súlade s touto Zmluvou. MS SR v mene Subjektov rezortu MS SR týmto potvrdzuje
+a súhlasí s tým, že IT riešenie je spôsob zasielania a spracúvania Žiadostí, Príkazov
+a Informácií podľa § 90 ods. 3 a § 91 ods. 10 Zákona o bankách voči Bankám, žiadne iné
+elektronické formy tejto komunikácie nebudú povolené. Doručovanie do vlastných rúk iným
+spôsobom ako prostredníctvom IT riešenia je povolené len z dôvodu technických prekážok,
+ktorými sa rozumie technický výpadok IT riešenia na viac ako 48 hodín, v súlade s touto
+
+11
+
+Zmluvou a so všeobecne záväznými právnymi predpismi. Banka nie je povinná spracovať
+Žiadosť doručenú iným spôsobom, ako umožňuje táto Zmluva.
+2.3
+
+Banka zabezpečí technické spracovanie Žiadostí a Príkazov na základe prevzatia Žiadostí
+a Príkazov z Dátového uzla Bánk a bude zodpovedať za pravidelnú realizáciu prístupu
+k Dátovému uzlu Bánk za účelom prevzatia Žiadostí a Príkazov z Dátového uzla Bánk
+prostredníctvom Komunikačnej siete v súlade s požiadavkami definovanými v Prílohe č. 3
+tejto Zmluvy. Každá Banka a MS SR zodpovedajú za pripojenosť ich informačných systémov
+k IT riešeniu. CRIF SK je zodpovedný za technickú funkčnosť IT riešenia ako celku. Subjekty
+rezortu MS SR, ako aj každý ich zamestnanec, bude identifikovaný na základe prideleného
+identifikátora podľa Prílohy č. 1 a 2 (ID organizácie, ID organizačnej jednotky a ID osoby).
+Každá Žiadosť a každý Príkaz - musí zároveň obsahovať identifikáciu agendy, a to (i) agenda
+Justičnej pokladnice, (ii) agenda trestná alebo (iii) agenda civilná (ktorá zahŕňa všetky agendy
+okrem agendy Justičnej pokladnice a agendy trestnej).
+
+3.
+
+IMPLEMENTÁCIA IT RIEŠENIA NA ZASIELANIE ŽIADOSTÍ, INFORMÁCIÍ A
+PRÍKAZOV A TESTOVACIA PREVÁDZKA
+
+3.1
+
+CRIF SK, Banky, MS SR začnú bez zbytočného odkladu po nadobudnutí účinnosti tejto
+Zmluvy spolupracovať pri finalizácii vývoja IT riešenia na zasielanie Žiadosti, Informácie a
+Príkazov a jeho implementácii. Zmluvné strany sa Zaväzujú poskytnúť si navzájom potrebnú
+súčinnosť nevyhnutnú pre finalizáciu vývoja IT riešenia na zasielanie Žiadosti, Informácie a
+Príkazov. CRIF SK, Banky, MS SR bez zbytočného odkladu po implementácii IT riešenia na
+zasielanie Žiadosti, Informácie a Príkazov spustia testovaciu prevádzku IT riešenia na
+zasielanie Žiadosti, Informácie a Príkazov v súlade s požiadavkami a parametrami
+vymedzenými CRIF SK v Prílohe č. 3 Zmluvy, pričom súhlasia s tým, že Deň začiatku
+testovacej prevádzky na zasielanie Žiadosti, Informácie a Príkazov nastane v lehote stanovenej
+v Prílohe č. 8 Zmluvy. CRIF SK zabezpečuje testovaciu prevádzku na zasielanie Žiadosti,
+Informácie a Príkazov v zmysle tejto Zmluvy v súčinnosti s Bankami, MS SR a Subjektmi
+rezortu MS SR. Po úspešnom ukončení testovacej prevádzky na zasielanie Žiadosti,
+Informácie a Príkazov s minimálne dvomi Bankami a Justičnou pokladnicou oznámia Banky,
+ktoré sa zúčastnili testovacej prevádzky na zasielanie Žiadosti, Informácie a Príkazov, SBA jej
+úspešné ukončenie, a CRIF SK s SBA a MS SR podpíše protokol o úspešnom ukončení
+testovacej prevádzky na zasielanie Žiadosti, Informácie a Príkazov potvrdzujúci
+prevádzkyschopnosť IT riešenia na zasielanie Žiadosti, Informácie a Príkazov pre účely
+predpokladané touto Zmluvou, a to v zmysle Časového harmonogramu podľa Prílohy č. 8
+Zmluvy. V prípade, ak z dôvodu nečinnosti niektorej zo Zmluvných strán nedôjde
+k podpísaniu protokolu o úspešnom ukončení testovacej prevádzky na zasielanie Žiadosti,
+Informácie a Príkazov do 3 pracovných dní od výzvy uskutočnenej CRIF SK, márnym
+uplynutím tejto lehoty sa považuje testovacia prevádzka na zasielanie Žiadosti, Informácie a
+Príkazov za ukončenú. Deň uvedenia IT riešenia do rutinnej prevádzky je 1.6.2018.
+Podmienky pre úspešné ukončenie testovacej prevádzky na zasielanie Žiadosti, Informácie a
+Príkazov vo vzťahu ku Bankám a Subjektom rezortu MS SR sú uvedené v Prílohe č. 7 tejto
+Zmluvy. Pre vylúčenie pochybností platí, že každá Banka a Subjekt rezortu MS SR musí pred
+zahájením zasielania Žiadosti, Informácie a Príkazov do rutinnej prevádzky splniť podmienky
+uvedené v Prílohe č. 7 tejto Zmluvy, alebo užívateľských testov podľa článku 3. bod 3.4 tejto
+Zmluvy. Po uvedení IT riešenia na zasielanie Žiadosti, Informácie a Príkazov do rutinnej
+prevádzky, môže byť každé ďalšie testovanie IT riešenia na zasielanie Žiadosti, Informácie a
+Príkazov na žiadosť Banky alebo MS SR zo strany CRIF SK spoplatnené v zmysle Prílohy č.
+4 A a B. To neplatí vo vzťahu k testovaniu IT riešenia na zasielanie Žiadosti, Informácie
+a Príkazov prostredníctvom maximálne dvoch súdov, ktoré dodatočne určí MS SR, ak o takéto
+testovanie MS SR CRIF SK požiada; testovanie však musí byť ukončené najneskôr do
+31.07.2018 v opačnom prípade sa na akékoľvek náklady spojené s predĺžením testovania IT
+
+12
+
+riešenia na zasielanie Žiadosti, Informácie a Príkazov vzťahujú pravidlá v zmysle
+predchádzajúcej vety.
+3.2
+
+V prípade akýchkoľvek nezrovnalostí alebo potreby technických zásahov do IT riešenia, ktoré
+nastanú počas finalizácie vývoja a implementácie IT riešenia na zasielanie Žiadosti,
+Informácie a Príkazov alebo počas testovacej prevádzky na zasielanie Žiadosti, Informácie a
+Príkazov, budú Banky a MS SR povinní bez zbytočného odkladu o nich informovať CRIF SK,
+pričom CRIF SK bude povinný na takúto informáciu zareagovať bez zbytočného odkladu, aby
+bola zabezpečená riadna a včasná prevádzka IT riešenia na zasielanie Žiadosti, Informácie a
+Príkazov a plne funkčný prístup Bánk a MS SR, resp. Subjektov rezortu MS SR k IT riešeniu
+na zasielanie Žiadosti, a Príkazov, pričom CRIF SK, Banky a MS SR sú povinní postupovať
+podľa článku 15.1 Zmluvy. Zmluvné strany, Banky, MS SR ďalej pre takýto prípad vynaložia
+najlepšie úsilie, ktoré možno od nich očakávať, za účelom implementovania IT riešenia na
+zasielanie Žiadosti, Informácie a Príkazov navrhnutého CRIF SK. Zmluvné strany, Banky
+a Subjekty rezortu MS SR sú povinné navzájom si poskytnúť nevyhnutnú technickú a osobnú
+súčinnosť pri riešení takýchto nezrovnalostí alebo realizácii technických zásahov.
+
+3.3
+
+Zmluvné strany, Banky a Subjekty rezortu MS SR si navzájom poskytujú súčinnosť
+a spoluprácu nevyhnutnú pre vývoj a implementáciu IT riešenia na zasielanie Žiadosti,
+Informácie a Príkazov, ako aj nevyhnutnú technickú dokumentáciu a informácie pre takýto
+vývoj a implementáciu. Zmluvné strany, Banky a Subjekty rezortu MS SR sa zaväzujú
+nakladať s touto dokumentáciou v súlade s článkom 12 Zmluvy a označujú ju týmto za
+dôverné informácie/predmet obchodného tajomstva v zmysle Obchodného zákonníka. Žiadna
+zo Zmluvných strán, Banky, Subjekty rezortu MS SR nie sú oprávnené uskutočňovať
+akékoľvek zmeny v dohodnutých funkcionalitách, parametroch alebo technických
+zariadeniach IT riešenia na zasielanie Žiadosti, Informácie a Príkazov, ako ani akúkoľvek inú
+súvisiacu zmenu bez predchádzajúceho písomného súhlasu ostatných Zmluvných strán.
+Žiadna zo Zmluvných strán nie je oprávnená vykonávať žiadne zmeny na hardvéroch alebo
+softvéroch tretích strán, ani na technických nástrojoch ako sú vymedzené v Prílohe č. 3
+Zmluvy, ktoré používajú, a ktoré sú potrebné za účelom riadneho užívania a prevádzkovania
+IT riešenia na zasielanie Žiadosti, Informácie a Príkazov v rozsahu stanovenom v Prílohe č. 3
+Zmluvy, ibaže ide o zmeny, ktoré nebudú mať vplyv na tieto hardvéry, softvéry alebo
+technické nástroje. Za škodu vzniknutú takouto zmenou zodpovedá Zmluvná strana, Banka,
+Subjekt rezortu MS SR, ktorá danú zmenu vykonala, príp. ktorá dala pokyn na vykonanie tejto
+zmeny.
+SPOLOČNÉ USTANOVENIA K IMPLEMENTÁCII IT RIEŠENIA A TESTOVACEJ
+PREVÁDZKY
+
+3.4
+
+V prípade pripojenia novej Banky do informačného systému pre elektronickú komunikáciu
+medzi Subjektmi rezortu MS SR a Bankami, sa CRIF SK zaväzuje uskutočniť nevyhnutný
+užívateľský test súvisiaci s takýmto pripojením, ktorý preverí a potvrdí bezpečnosť
+a funkčnosť pripojenia novej Banky na IT riešenie. CRIF SK týmto vyhlasuje ostatným
+Zmluvným stranám, že akékoľvek testovanie bude vykonané len vo vzťahu k tej pristupujúcej
+Banke, ktorej Softvér alebo Hardvér splnili podmienky vymedzené v Prílohe č. 3 tejto
+Zmluvy. Účelom testovania je preveriť inštaláciu potrebných častí Softvéru, ako aj iných
+požadovaných aplikácií stanovených CRIF SK, a preveriť funkčnosť IT riešenia u príslušnej
+Banky, nie testovanie výhodnosti IT riešenia Bankami.
+
+3.5
+
+CRIF SK, Banky a MS SR, resp. Subjekty rezortu MS SR sú zodpovedné za to, že v rámci
+osobitného informačného systému elektronickej komunikácie medzi Subjektmi rezortu MS SR
+a Bankami sú plne oprávnení a majú všetky potrebné súhlasy používať softvér, ktorý nie je
+Softvérom, ktorého sú majiteľmi alebo ku ktorým majú iné práva, a ktoré sú potrebné pre
+riadne užívania a prevádzku Dátového uzla MS SR a Dátového uzla Bánk a používané CRIF
+
+13
+
+SK, Bankami, MS SR, resp. Subjekty rezortu MS SR a to v súlade s Prílohou č. 3 tejto
+Zmluvy. CRIF SK, Banky, MS SR, resp. Subjekty rezortu MS SR sú povinní na vlastné
+náklady zabezpečovať a zodpovedajú za údržbu, upgrade a update akéhokoľvek softvéru,
+hardvéru, siete, a/alebo akéhokoľvek potrebného zariadenia a programu podľa Prílohy č. 3
+s výnimkou Softvéru, ktorého údržbu, upgrade a update zabezpečuje CRIF SK.
+3.6
+
+Ak v tejto Zmluve nie je ustanovené inak a ak to nie je vylúčené v zmysle príslušných
+právnych predpisov, každý Súd a Justičná pokladnica a každá Banka sú povinní využívať
+výlučne IT riešenie pre účely podávania a spracúvania Žiadostí a Informácií, Príkazov
+a akýchkoľvek iných údajov, ktoré si Zmluvné strany majú vymieňať podľa Zmluvy, aby
+dochádzalo k riadnej vzájomnej komunikácii vo vzťahu k akémukoľvek konaniu.
+POUŽÍVANIE IT RIEŠENIA NA ZASIELANIE
+ŽIADOSTÍ,
+A POSKYTOVANIE INFORMÁCIÍ V RUTINNEJ PREVÁDZKE
+
+PRÍKAZOV
+
+3.7
+
+Po uvedení IT riešenia na zasielanie Žiadostí, Informácií a Príkazov do rutinnej prevádzky sú
+Subjekty rezortu MS SR oprávnené zasielať Žiadosti a Príkazy na Dátový uzol MS SR počas
+rutinnej prevádzky na zasielanie Žiadostí, Informácií a Príkazov iba v prípade, ak vyhlási
+CRIF SK, že technické napojenie MS SR, resp. Subjektov rezortu MS SR do informačného
+systému pre elektronickú komunikáciu medzi Subjektmi rezortu MS SR a Bankami je plne
+v súlade s Prílohou č. 3 tejto Zmluvy.
+
+3.8
+
+CRIF SK nebude zasahovať do obsahu ani formy Žiadostí a Informácií a Príkazov odoslaných
+na server CRIF SK po Dni uvedenia IT riešenia na zasielanie Žiadostí a Informácií a Príkazov
+do rutinnej prevádzky; bez ohľadu na predchádzajúcu vetu, CRIF SK má právo vykonať
+nevyhnutné zmeny za účelom doručenia Žiadosti a Príkazov od Subjektov rezortu MS SR do
+Bánk a Informácie z Bánk k Subjektorm rezortu MS SR bez zmeny obsahu alebo formy
+Žiadosti a Príkazu obdržaných od Subjektov rezortu MS SR a Informácie obdržanej z Bánk.
+Súčasťou osobitného informačného systému pre elektronickú komunikáciu medzi Subjektmi
+rezortu MS SR a Bankami sa môžu stať výlučne Subjekty rezortu MS SR, ktoré majú
+technické prostriedky zabezpečujúce zakódovanie Žiadostí a Príkazov v zmysle parametrov
+vymedzených v Prílohách č. 3 a č. 7 Zmluvy.
+
+3.9.
+
+Súdy budú zasielať Žiadosti a Príkazy formou elektronickej komunikácie najneskôr o dva
+mesiace od uvedenia IT riešenia do rutinnej prevádzky, t. j. najneskôr od 1.8.2018.
+
+4.
+
+ODOVZDÁVANIE ŽIADOSTÍ
+
+4.1
+
+Subjekty rezortu MS SR odošlú na Dátový uzol MS SR Žiadosť a zároveň v Žiadosti uvedú,
+ktorým Bankám sa má takáto Žiadosť doručiť, v súlade s Prílohou č. 1. Okamžite po doručení
+Žiadosti na Dátový uzol MS SR CRIF SK zabezpečí odoslanie potvrdenia o doručení Žiadosti
+na Dátový uzol MS SR, resp. odoslanie chybového hlásenia Subjektu rezortu MS SR. Pre
+vylúčenie pochybností, doručenie Žiadosti na Dátový uzol MS SR neznamená doručenie na
+Dátový uzol Bánk; CRIF SK odošle Subjektu rezortu MS SR potvrdenie o doručení Žiadosti
+a následne ihneď CRIF SK technicky zabezpečí doručenie Žiadosti do Dátového uzla Bánk.
+Žiadosť je možné zaslať prostredníctvom IT riešenia v Pracovných dňoch od 8.00 hod. do
+16.00 hod. bez ohľadu na čas dostupnosti IT riešenia. Žiadosti, ktoré boli doručené na Dátový
+uzol MS SR do 16.00 hod. príslušného pracovného dňa doručí CRIF SK na Dátový uzol Bánk
+do 16.15 hod. toho istého Pracovného dňa, pričom Banka je povinná spracovať tieto Žiadosti
+v zmysle článku 5.2 Zmluvy.
+Subjekty rezortu MS SR spolu počas jedného Prevádzkového roka sú oprávnené zaslať na
+Dátový uzol MS SR maximálne šesťdesiat tisíc (60 000) Žiadostí.
+
+14
+
+4.2
+
+CRIF SK nebude povinný zabezpečiť doručenie Žiadostí do Dátového uzla Bánk s takými
+dátovými súbormi, ktoré nebudú zodpovedať definícii Žiadosti podľa Prílohy č. 1 tejto
+Zmluvy, resp. ktoré nebudú na Dátový uzol MS SR odoslané v súlade s technickými
+a bezpečnostnými parametrami podľa Prílohy č. 1 tejto Zmluvy; v takom prípade CRIF SK
+odošle Subjektu rezortu MS SR chybové hlásenie. CRIF SK nesmie zasahovať do obsahu,
+textu ani formy Žiadostí odoslaných na Dátový uzol MS SR, pričom Subjekt rezortu MS SR
+zabezpečí, že údaje obsiahnuté v Žiadostiach budú odoslané v súlade s Prílohou č. 1, ibaže sa
+jedná o výnimku uvedenú v článku 3.8 Zmluvy.
+
+4.3
+
+Zmluvné strany, Subjekty rezortu MS SR a Banky sú si vedomé, že CRIF SK nie je
+prevádzkovateľom žiadneho informačného systému vo vzťahu k celkovej Architektúre
+informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu MS SR
+a Bankami. CRIF SK v žiadnom prípade nezodpovedá za správnosť, úplnosť a presnosť
+údajov obsiahnutých v Žiadostiach odosielaných na Dátový uzol MS SR zo strany Subjektu
+rezortu MS SR a obsiahnutých v Informáciách odosielaných zo strany Banky na Dátový uzol
+Bánk a z Dátového uzlu Bánk odosielaných zo strany CRIF SK na Dátový uzol MS SR, kde
+budú sprístupnené Subjektu rezortu MS SR prostredníctvom Softvéru (aplikácie) v zmysle
+Prílohy č. 3 tejto Zmluvy.
+
+4.4
+
+CRIF SK sa týmto zaväzuje, že prostredníctvom technických prostriedkov v súlade s Prílohou
+č. 3 zabezpečí, aby žiaden iný subjekt okrem Subjektov rezortu MS SR, ktoré zaslali Žiadosť
+a Bánk, ktoré odoslali Informáciu v zmysle tejto Zmluvy, nemohol získať prístup
+k akýmkoľvek údajom Povinných osôb obsiahnutých v Žiadostiach a v Informáciách.
+
+5.
+
+POSKYTOVANIE INFORMÁCIÍ
+
+5.1
+
+Banka následne zodpovedá za technické spracovanie Žiadosti na základe údajov, ktoré vedie
+o Povinnej osobe ako o svojom klientovi v zmysle Zákona o bankách vo vlastnom
+informačnom systéme a na základe takéhoto spracovania vygeneruje súvisiacu Informáciu
+v súlade s Prílohou č. 1 tejto Zmluvy. Banka nie je povinná overiť súlad žiadnych údajov
+uvedených v Žiadosti, okrem povinných údajov týkajúcich sa Identifikácie Povinnej osoby
+uvedených v článku 1.1. Zmluvy. Banka po technickom spracovaní Žiadosti a vygenerovaní
+Informácie zodpovedá za odoslanie Informácie v súlade s Prílohou č. 1 a Prílohou č. 3 na
+Dátový uzol Bánk. CRIF SK ihneď zabezpečí odoslanie takejto Informácie z Dátového uzla
+Bánk na Dátový uzol MS SR, prostredníctvom ktorého bude takáto Informácia sprístupnená
+Subjektu rezortu MS SR v súlade s Architektúrou informačného systému pre elektronickú
+komunikáciu medzi Subjektmi rezortu MS SR a Bankami podľa Prílohy č. 3 tejto Zmluvy.
+
+5.2
+
+Banka je povinná vyvinúť všetko úsilie, aby spracovala každú Rozšírenú žiadosť
+prostredníctvom Komunikačnej siete v čo najkratšom čase, pričom je však povinná poskytnúť
+Rozšírenú informáciu spravidla do jedného (1) Pracovného dňa, najneskôr však do dvoch (2)
+Pracovných dní odo dňa prijatia Rozšírenej žiadosti, ak boli zaslané v lehote podľa článku
+4.1 Zmluvy a týkali sa tuzemských fyzických osôb, fyzických osôb podnikateľov
+a právnických osôb. Pre zahraničné fyzické i právnické osoby je Banka povinná poskytnúť
+Rozšírenú informáciu najneskôr do piatich (5) pracovných dní odo dňa prijatia Rozšírenej
+žiadosti, ak boli zaslané v lehote podľa článku 4.1 Zmluvy. Banka v tejto lehote poskytne
+Rozšírenú informáciu na Dátový uzol Bánk. Za prenos Rozšírenej informácie z Dátového uzla
+Bánk na Dátový uzol MS SR zodpovedá CRIF SK.
+Uvedené lehoty sa nevzťahujú na zodpovedanie Inej žiadosti.
+
+5.3
+
+V prípade nedostupnosti IT riešenia (v zmysle Prílohy č. 5), akákoľvek v Zmluve dohodnutá
+lehota na vybavenie Žiadosti nebude plynúť. Akonáhle bude IT riešenie dostupné, Žiadosť
+
+15
+
+zadržaná počas nedostupnosti IT riešenia bude spracovaná na základe aktuálneho poradia
+Žiadostí doručených do IT riešenia.
+5.4
+
+Banka vyvinie všetko úsilie, aby spracovala každú Žiadosť prostredníctvom Komunikačnej
+siete v čo najkratšom čase.
+
+6.
+
+PRÍKAZY
+
+6.1
+
+Subjekty rezortu MS SR a každá Banka bude používať na spracúvanie Príkazov výlučne IT
+riešenie za podmienok uvedených v tejto Zmluve, ibaže právne predpisy stanovia niečo iné.
+Každej Banke a Subjektom rezortu MS SR bude umožnené testovacie obdobie výhradne za
+účelom overenia konektivity IT riešenia na zasielanie Príkazov v zmysle článku 3.1 Zmluvy.
+6.1.1 Subjekt rezortu MS SR je povinný zaslať Príkaz v súlade s Prílohou č. 2 Zmluvy a je
+oprávnený zaslať Príkaz len príslušnej konkrétnej Banke(ám), ktorá poskytla
+Informáciu, že Povinná osoba je majiteľom Účtu v Banke; v Príkaze musia byť
+vyplnené všetky položky označené v Prílohe č. 2 ako povinné, inak Banka Príkaz
+nespracuje;
+6.1.2 Banka, ktorej je doručený Príkaz(y) je povinná spracovať tento Príkaz v deň jeho
+doručenia, ktorým je moment, kedy si Banka tento Príkaz prevezme z Dátového uzla
+Bánk a potvrdí jeho prevzatie, pričom je tak povinná urobiť spravidla prvý Pracovný
+deň nasledujúci po jeho doručení do Dátového uzla Bánk, v prípade krízovej situácie
+najneskôr do 15 dní odo dňa jeho doručenia do Dátového uzla Bánk. Banka nie je
+povinná overiť súlad žiadnych údajov uvedených v Príkaze, okrem povinných údajov
+týkajúcich sa Identifikácie Povinnej osoby uvedených v článku 1.1. Zmluvy; pre
+zamedzenie pochybností za deň doručenia Príkazu Banke do vlastných rúk sa považuje
+deň, kedy si Banka prevezme Príkaz z Dátového uzla Bánk;
+
+6.2
+
+Príkazy budú podávané prostredníctvom IT riešenia v Pracovné dni od 8:00 hod. do 16:00
+hod. bez ohľadu na čas dostupnosti IT riešenia. Príkazy, ktoré boli doručené na Dátový uzol
+MS SR do 16.00 hod. príslušného Pracovného dňa doručí CRIF SK na Dátový uzol Bánk do
+16.15 hod. toho istého Pracovného dňa, pričom Banka je povinná spracovať tieto Príkazy
+v zmysle článku 6.1.2 Zmluvy.
+
+6.3
+
+Justičná pokladnica je oprávnená zaslať na server CRIF SK Uznesenie o nariadení výkonu
+rozhodnutia prostredníctvom formulára Príkaz na začatie exekúcie, ktorý je zašifrovaný a je
+v rozsahu a štruktúre uvedenej v Prílohe č. 2. V takom prípade bude CRIF SK povinný
+zabezpečiť jeho odoslanie zo servera CRIF SK príslušnej Banke v súlade s Architektúrou
+informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu MS SR
+a Bankami. CRIF SK nebude povinný zabezpečiť odoslanie Uznesenia o nariadení výkonu
+rozhodnutia prostredníctvom formulára Príkaz na začatie exekúcie s takými dátovými
+súbormi, ktoré nebudú zodpovedať definícii Príkazu na začatie exekúcie podľa Prílohy č. 2
+tejto Zmluvy. Doručením formulára Príkaz na začatie exekúcie Banke v súlade s touto
+Zmluvou bude Banka povinná splniť si svoje povinnosti, ktoré jej v tejto súvislosti vyplývajú
+zo Zákona o bankách a Zákona o správe a vymáhaní súdnych pohľadávok a prípadne ďalších
+všeobecne záväzných právnych predpisov. Justičná pokladnica je oprávnená poslať formulár
+Príkaz na začatie exekúcie iba raz počas trvania jeho účinkov, okrem prípadu, keď pred
+opakovaným formulárom Príkaz na začatie exekúcie pošle formulár Odklad_Zrušenie
+Odkladu. V prípade, ak Justičná pokladnica pošle formulár Príkaz na začatie exekúcie
+opakovane, môže Banka Účet Povinnej osoby v prospech konkrétneho výkonu rozhodnutia
+zablokovať po doručení každého formulára Príkaz na začatie exekúcie.
+
+16
+
+6.4
+
+Justičná pokladnica je oprávnená zaslať na server CRIF SK Zmenu Uznesenia o nariadení
+výkonu rozhodnutia, prostredníctvom formulára Zmena Príkazu na začatie exekúcie, ktorý
+je zašifrovaný a je v rozsahu a štruktúre uvedenej v Prílohe č. 2. V takom prípade bude CRIF
+SK povinný zabezpečiť jeho odoslanie zo servera CRIF SK príslušnej Banke v súlade s
+Architektúrou informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu
+MS SR a Bankami. CRIF SK nebude povinný zabezpečiť odoslanie Zmeny Uznesenia o
+nariadení výkonu rozhodnutia prostredníctvom formulára Zmena Príkazu na začatie exekúcie s
+takými dátovými súbormi, ktoré nebudú zodpovedať definícii Zmeny Príkazu na začatie
+exekúcie Prílohy č. 2 tejto Zmluvy. Doručením formulára Zmena Príkazu na začatie exekúcie
+Banke v súlade s touto Zmluvou bude Banka povinná vykonať zmeny v súlade s formulárom
+Zmena Príkazu na začatie exekúcie.
+
+6.5
+
+Justičná pokladnica je oprávnená zaslať na server CRIF SK Príkaz na odblokovanie účtu
+Povinnej osoby prostredníctvom formulára Zastavenie_Odblokovanie v súlade s Prílohou č.
+2 Zmluvy. V takom prípade bude CRIF SK povinný zabezpečiť jeho odoslanie zo servera
+CRIF SK príslušnej Banke v súlade s Architektúrou informačného systému pre elektronickú
+komunikáciu medzi Subjektmi rezortu MS SR a Bankami. CRIF SK nebude povinný
+zabezpečiť odoslanie Príkazu na odblokovanie účtu Povinnej osoby prostredníctvom
+formulára Zastavenie_Odblokovanie Banke s takými dátovými súbormi, ktoré nebudú
+zodpovedať definícii Príkazu na odblokovanie účtu Povinnej osoby podľa Prílohy č. 2 tejto
+Zmluvy. Doručením formulára Zastavenie_Odblokovanie Banke v súlade s touto Zmluvou
+bude Banka povinná splniť si svoje povinnosti, ktoré jej v tejto súvislosti vyplývajú zo Zákona
+o bankách a Zákona o správe a vymáhaní súdnych pohľadávok a prípadne ďalších všeobecne
+záväzných právnych predpisov.
+
+6.6
+
+Justičná pokladnica je oprávnená zaslať na server CRIF SK Upovedomenie o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia prostredníctvom formulára
+Exekučný príkaz, v súlade s Prílohou č. 2 Zmluvy. V takom prípade bude CRIF SK povinný
+zabezpečiť jeho odoslanie zo servera CRIF SK príslušnej Banke v súlade s Architektúrou
+informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu MS SR
+a Bankami. CRIF SK nebude povinný zabezpečiť odoslanie Upovedomenia o nadobudnutí
+právoplatnosti Uznesenia o nariadení výkonu rozhodnutia prostredníctvom formulára
+Exekučný príkaz s takými dátovými súbormi, ktoré nebudú zodpovedať definícii Exekučného
+príkazu podľa Prílohy č. 2 tejto Zmluvy. Doručením formulára Exekučný príkaz Banke
+v súlade s touto Zmluvou bude Banka povinná splniť si svoje povinnosti, ktoré jej v tejto
+súvislosti vyplývajú zo Zákona o bankách a Zákona o správe a vymáhaní súdnych pohľadávok
+a prípadne ďalších všeobecne záväzných právnych predpisov. V prípade, ak je vo formulári
+Exekučný príkaz uvedená vyššia suma, ako vo formulári Príkaz na začatie exekúcie alebo vo
+formulári Zmena Príkazu na začatie exekúcie, Banka zvýši výšku blokovanej sumy podľa
+formulára Exekučný príkaz. V prípade, ak je vo formulári Exekučný príkaz uvedená nižšia
+suma, ako vo formulári Príkaz na začatie exekúcie alebo vo formulári Zmena Príkazu na
+začatie exekúcie, Banka úhradu zrealizuje vo výške uvedenej vo formulári Exekučný príkaz a
+prostriedky v ostávajúcej časti celkovej pohľadávky ďalej blokuje, resp. ich odblokuje v
+súlade s pokynom Justičnej pokladnice vyznačenom v príslušnom poli formulára Exekučný
+príkaz.
+
+6.7
+
+Justičná pokladnica je oprávnená zaslať na server CRIF SK Zmenu Upovedomenia o
+nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia prostredníctvom
+formulára Zmena Exekučného príkazu, v súlade s Prílohou č. 2 Zmluvy. V takom prípade
+bude CRIF SK povinný zabezpečiť jeho odoslanie zo servera CRIF SK príslušnej Banke
+v súlade s Architektúrou informačného systému pre elektronickú komunikáciu medzi
+Subjektmi rezortu MS SR a Bankami. CRIF SK nebude povinný zabezpečiť odoslanie Zmeny
+Upovedomenia o nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia
+prostredníctvom formulára Zmena Exekučného príkazu s takými dátovými súbormi, ktoré
+17
+
+nebudú zodpovedať definícii Zmeny Exekučného príkazu podľa Prílohy č. 2 tejto Zmluvy.
+Doručením formulára Zmena Exekučného príkazu Banke v súlade s touto Zmluvou bude
+Banka povinná vykonať zmeny v blokovanej sume v súlade s formulárom Zmena Exekučného
+príkazu. V prípade, ak je vo formulári Zmena Exekučného príkazu uvedená vyššia suma, ako
+vo formulári Exekučný príkaz, Banka zvýši výšku blokovanej sumy podľa formulára Zmena
+Exekučného príkazu. V prípade, ak je vo formulári Zmena Exekučného príkazu uvedená nižšia
+suma, ako vo formulári Exekučný príkaz, Banka úhradu zrealizuje vo výške uvedenej vo
+formulári Exekučný príkaz a prostriedky v ostávajúcej časti celkovej pohľadávky ďalej
+blokuje, resp. ich odblokuje v súlade s pokynom Justičnej pokladnice vyznačenom v
+príslušnom poli formulára Zmena Exekučného príkazu.
+6.8
+
+Justičná pokladnica je oprávnená zaslať na server CRIF SK Odklad výkonu rozhodnutia
+s blokovaním účtu, Odklad výkonu rozhodnutia bez blokovania účtu a Zrušenie odkladu
+prostredníctvom formulára Odklad_Zrušenie Odkladu, v súlade s Prílohou č. 2 Zmluvy.
+V takom prípade bude CRIF SK povinný zabezpečiť jeho odoslanie zo servera CRIF SK
+príslušnej Banke v súlade s Architektúrou informačného systému pre elektronickú
+komunikáciu medzi Subjektmi rezortu MS SR a Bankami. CRIF SK nebude povinný
+zabezpečiť odoslanie Odkladu výkonu rozhodnutia s blokovaním účtu a Zrušenie odkladu
+prostredníctvom formulára Odklad_Zrušenie Odkladu s takými dátovými súbormi, ktoré
+nebudú zodpovedať definícii Odkladu výkonu rozhodnutia s blokovaním účtu a Zrušeniu
+odkladu podľa Prílohy č. 2 tejto Zmluvy. Doručením formulára Odklad_Zrušenie Odkladu
+v súlade s touto Zmluvou bude Banka povinná splniť si svoje povinnosti, ktoré jej v tejto
+súvislosti vyplývajú zo Zákona o správe a vymáhaní súdnych pohľadávok a prípadne ďalších
+všeobecne záväzných právnych predpisov.
+
+6.9
+
+Justičná pokladnica je oprávnená zaslať na server CRIF SK Zrušenie Upovedomenia o
+nadobudnutí právoplatnosti Uznesenia o nariadení výkonu rozhodnutia prostredníctvom
+formulára Zrušenie exekučného príkazu, v súlade s Prílohou č. 2 Zmluvy. V takom prípade
+bude CRIF SK povinný zabezpečiť jeho odoslanie zo servera CRIF SK príslušnej Banke
+v súlade s Architektúrou informačného systému pre elektronickú komunikáciu medzi MS SR
+a Bankami. CRIF SK nebude povinný zabezpečiť odoslanie Zrušenie exekučného príkazu s
+takými dátovými súbormi, ktoré nebudú zodpovedať definícii Zrušenia exekučného príkazu
+podľa Prílohy č. 2 tejto Zmluvy.
+
+6.10
+
+Súd je oprávnený zaslať na server CRIF SK Príkaz na zablokovanie účtu prostredníctvom
+formulára Príkaz na začatie exekúcie s označením OrgUnitID 3 (Príloha č. 2, Záhlavie),
+ktorý je zašifrovaný a je v rozsahu a štruktúre uvedenej v Prílohe č. 2. V takom prípade bude
+CRIF SK povinný zabezpečiť jeho odoslanie zo servera CRIF SK príslušnej Banke v súlade
+s Architektúrou informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu
+MS SR a Bankami. CRIF SK nebude povinný zabezpečiť odoslanie Príkazu na zablokovanie
+účtu prostredníctvom formulára Príkaz na začatie exekúcie s takými dátovými súbormi, ktoré
+nebudú zodpovedať definícii Príkazu na začatie exekúcie podľa Prílohy č. 2 tejto Zmluvy.
+Doručením formulára Príkaz na začatie exekúcie Banke v súlade s touto Zmluvou bude Banka
+povinná splniť si svoje povinnosti, ktoré jej v tejto súvislosti vyplývajú zo Zákona o bankách
+a Zákona o európskom príkaze na zablokovanie účtov a prípadne ďalších všeobecne
+záväzných právnych predpisov. Súd je oprávnený poslať formulár Príkaz na začatie exekúcie
+iba raz počas trvania jeho účinkov. V prípade, ak Súd pošle formulár Príkaz na začatie
+exekúcie opakovane, môže Banka účet Povinnej osoby v prospech konkrétneho výkonu
+rozhodnutia zablokovať po doručení každého formulára Príkaz na začatie exekúcie.
+
+6.11
+
+Súd je oprávnený zaslať na server CRIF SK Zrušenie blokovania účtu prostredníctvom
+formulára Zastavenie_Odblokovanie s označením OrgUnitID 3 (Príloha č. 2, Záhlavie),
+ktorý je zašifrovaný a je v rozsahu a štruktúre uvedenej v Prílohe č. 2. V takom prípade bude
+CRIF SK povinný zabezpečiť jeho odoslanie zo servera CRIF SK príslušnej Banke v súlade
+
+18
+
+s Architektúrou informačného systému pre elektronickú komunikáciu medzi Subjektmi rezortu
+MS SR a Bankami. CRIF SK nebude povinný zabezpečiť odoslanie Zrušenie alebo
+obmedzenie blokovania účtu prostredníctvom formulára Zastavenie_Odblokovanie s takými
+dátovými súbormi, ktoré nebudú zodpovedať definícii Zrušenie alebo obmedzenie blokovania
+účtu podľa Prílohy č. 2 tejto Zmluvy.
+6.12
+
+Súd je oprávnený zaslať na server CRIF SK Zmenu Uznesenia o nariadení výkonu
+rozhodnutia, prostredníctvom formulára Zmena Príkazu na začatie exekúcie s označením
+OrgUnitID 3 (Príloha č. 2, Záhlavie), ktorý je zašifrovaný a je v rozsahu a štruktúre uvedenej
+v Prílohe č. 2. V takom prípade bude CRIF SK povinný zabezpečiť jeho odoslanie zo servera
+CRIF SK príslušnej Banke v súlade s Architektúrou informačného systému pre elektronickú
+komunikáciu medzi Subjektmi rezortu MS SR a Bankami. CRIF SK nebude povinný
+zabezpečiť odoslanie Zmeny Uznesenia o nariadení výkonu rozhodnutia prostredníctvom
+formulára Zmena Príkazu na začatie exekúcie s takými dátovými súbormi, ktoré nebudú
+zodpovedať definícii Zmeny Príkazu na začatie exekúcie Prílohy č. 2 tejto Zmluvy.
+Doručením formulára Zmena Príkazu na začatie exekúcie Banke v súlade s touto Zmluvou
+bude Banka povinná vykonať zmeny v súlade s formulárom Zmena Príkazu na začatie
+exekúcie.
+
+6.13
+
+Súd je oprávnený zaslať na server CRIF SK Súhlas s uvoľnením peňažnej sumy
+nepodliehajúcej exekúcii prostredníctvom formulára Súhlas s uvoľnením peňažnej sumy
+s označením OrgUnitID 3 (Príloha č. 2, Záhlavie), ktorý je zašifrovaný a je v rozsahu a
+štruktúre uvedenej v Prílohe č. 2. V takom prípade bude CRIF SK povinný zabezpečiť jeho
+odoslanie zo servera CRIF SK príslušnej Banke v súlade s Architektúrou informačného
+systému pre elektronickú komunikáciu medzi MS SR a Bankami. CRIF SK nebude povinný
+zabezpečiť odoslanie Súhlasu s uvoľnením peňažnej sumy nepodliehajúcej exekúcii s takými
+dátovými súbormi, ktoré nebudú zodpovedať definícii Príkazu Súhlas s uvoľnením peňažnej
+sumy nepodliehajúcej exekúcii podľa Prílohy č. 2 tejto Zmluvy.
+
+6.14
+
+Subjekt rezortu MS SR je oprávnený a zároveň povinný zaslať Príkazy výlučne Banke, ktorá
+poskytla Informáciu, že daná Povinná osoba je majiteľom Účtu v príslušnej Banke, okrem
+mimoriadnych prípadov kedy Subjekt rezortu MS SR disponuje hodnovernou informáciou
+o majiteľovi účtu z iného zdroja.
+
+6.15
+
+V prípade nedostupnosti IT riešenia (v zmysle Prílohy č. 5), akákoľvek lehota na vybavenie
+Príkazu nebude plynúť. Ihneď ako bude IT riešenie dostupné, Príkaz zadržaný počas
+nedostupnosti IT riešenia bude spracovaný na základe aktuálneho poradia Príkazov
+doručených do IT riešenia.
+
+6.16
+
+Banka vyvinie všetko úsilie, aby spracovala každý Príkaz prostredníctvom Komunikačnej siete
+v čo najkratšom čase.
+
+6.17
+
+Vo všetkých Príkazoch týkajúcich sa jedného konania uvedie Subjekt rezortu MS SR CaseID
+konania bez ohľadu na prípadnú zmenu príslušnosti orgánu, ktorý vedie konanie.
+
+7.
+
+DOSTUPNOSŤ IT RIEŠENIA
+IT riešenie bude sprístupnené v Pracovných dňoch od 7.00 do 19.00 hod. za podmienky, že sú
+splnené parametre uvedené v Prílohe č. 5 Zmluvy, ibaže dôjde k nevyhnutnej údržbe v zmysle
+ustanovenia článku 11.5 Zmluvy; časový rozsah pre účely zasielania Žiadostí a obdržania
+Informácií je stanovený v článku 4 a článku 5 Zmluvy; čas pre zasielanie Príkazov sa spravuje
+ustanovením článku 6 Zmluvy.
+
+19
+
+8.
+
+ODPLATA
+
+8.1
+
+Zmluvné strany sa dohodli, že cena, ktorú bude MS SR platiť CRIF SK za poskytovanie
+služieb podľa tejto Zmluvy, je určená na základe Cenového modelu, ktorý tvorí Prílohu č. 4A
+tejto Zmluvy, pričom platí, že Prílohu č. 4A tejto Zmluvy je možné meniť vzájomnou dohodou
+medzi CRIF SK a MS SR.
+
+8.2
+
+Zmluvné strany sa dohodli, že cena, ktorú bude každá Banka platiť CRIF SK za poskytovanie
+služieb podľa tejto Zmluvy, je určená na základe Cenového modelu, ktorý tvorí Prílohu č. 4B
+tejto Zmluvy, pričom platí, že Prílohu č. 4B tejto Zmluvy je možné meniť vzájomnou dohodou
+medzi CRIF SK a SBA.
+
+9.
+
+VYHLÁSENIA, ĎALŠIE POVINNOSTI A ZODPOVEDNOSŤ BANKY
+
+9.1
+
+SBA vyhlasuje a zaručuje CRIF SK, MS SR, resp. Subjektom rezortu MS SR a ostatným
+Bankám, že SBA:
+(a)
+
+má oprávnenie uzavrieť a plniť túto Zmluvu, ktorá je pre ňu záväzná;
+
+(b)
+
+podpisom tejto Zmluvy neporušuje žiadne iné zmluvy, ktorých je zmluvnou stranou,
+ani žiadny zákon či iný všeobecne záväzný právny predpis, najmä Zákon o bankách
+a Zákon o ochrane osobných údajov; a
+
+(c)
+
+má všetky súhlasy, povolenia a poverenia, ktoré sú vyžadované k uzavretiu a plneniu
+tejto Zmluvy, ako na základe príslušných právnych predpisov, tak na základe jej
+interných dokumentov a tieto súhlasy sú platné a účinné;
+
+9.2
+
+Každá Banka sa zaručuje SBA, CRIF SK, MS SR, resp. Subjektom rezortu MS SR a ostatným
+Bankám, že má všetky oprávnenia potrebné k vykonávaniu činností podľa tejto Zmluvy.
+
+9.3
+
+Banka má k dispozícii potrebné technické vybavenie umožňujúce dokončenie vývoja IT
+riešenia a v prípade, že by v priebehu vývoja IT riešenia vznikla potreba jeho výmeny alebo
+doplnenia, vyvinie všetko potrebné úsilie, aby zabezpečila potrebné technické vybavenie.
+
+9.4
+
+Banka sa zaväzuje nakladať s údajmi a skutočnosťami tvoriacimi obchodné a bankové
+tajomstvo, ako aj s osobnými údajmi, v súlade s príslušnými právnymi predpismi.
+
+9.5
+
+Banka bude používať informačný systém, ktorý zabezpečí dostatočnú úroveň bezpečnosti
+v zmysle požiadaviek definovaných v Prílohe č. 3 tejto Zmluvy.
+
+9.6
+
+Banka je zodpovedná za škodu v prípade, ak
+(i)
+
+použije IT riešenie za účelom poskytnutia Informácie bez oprávnenia a/alebo bez
+právneho základu na sprístupnenie príslušnej Informácie;
+
+(ii)
+
+použije IT riešenie za účelom zneužitia, obmedzenia alebo porušenia práv Povinnej
+osoby a/alebo spôsobom porušujúcim účel príslušného právneho predpisu;
+
+(iii)
+
+vkladá alebo používa adresáre alebo materiály alebo informácie, ktoré obsahujú
+vírusy, alebo ktoré môžu viesť k anomáliám a nefunkčnosti bezpečnosti systému
+vyvinutého CRIF SK pre IT riešenie;
+
+(iv)
+
+vznikne v dôsledku porušenia svojich povinností, ktoré pre Banku vyplývajú
+z článkov 2.3, 3.1, 3.2, 5, 6.1-6.13, 9, 12, 13, 14.2 tejto Zmluvy.
+
+20
+
+V takomto prípade CRIF SK, alebo MS SR oznámi SBA porušenie konkrétnej
+povinnosti a Banku, ktorá sa dopustila takéhoto porušenia Zmluvy a SBA vyzve
+Banku na odstránenie porušenia svojich povinností v lehote do tridsiatich (30)
+Pracovných dní odo dňa doručenia výzvy. Ak Banka nesplní svoju povinnosť
+v uloženej lehote, bude SBA voči takejto Banke postupovať spôsobom upraveným
+všeobecne záväznými právnymi predpismi, a internými predpismi SBA.
+
+10.
+
+VYHLÁSENIA, ĎALŠIE POVINNOSTI A ZODPOVEDNOSŤ MS SR
+
+10.1
+
+MS SR vyhlasuje a zaručuje CRIF SK a Bankám, že:
+(a)
+
+Subjekty rezortu MS SR sú oprávnené vykonávať činností podľa tejto Zmluvy
+a v zodpovedajúcej časti plniť túto Zmluvu;
+
+(b)
+
+v nadväznosti na právne predpisy uvedené v preambule má oprávnenie uzavrieť túto
+Zmluvu a v zodpovedajúcich častiach ju plniť; táto Zmluva je pre Objednávateľa
+(vrátane Subjektov rezortu MS SR) záväzná;
+
+(c)
+
+10.2
+
+podpisom tejto Zmluvy neporušuje žiadne iné zmluvy, ktorých je zmluvnou stranou,
+ani žiadny zákon či iný všeobecne záväzný právny predpis, najmä Zákon o eGovernmente, Zákon o súdoch, Zákon o správe a vymáhaní súdnych pohľadávok,
+Zákon o európskom príkaze na zablokovanie účtov, Zákon o bankách a Zákon
+o ochrane osobných údajov;
+MS SR, resp. Subjekty rezortu MS SR sa zaväzujú nakladať s údajmi a skutočnosťami
+tvoriacimi obchodné a bankové tajomstvo, ako aj s osobnými údajmi v súlade s príslušnými
+právnymi predpismi.
+
+10.3
+
+MS SR, resp. Subjekty rezortu MS SR budú používať informačný systém, ktorý zabezpečí
+dostatočnú úroveň bezpečnosti v zmysle požiadaviek definovaných v Prílohe č. 2 tejto
+Zmluvy. Subjekty rezortu MS SR sú povinné používať IT riešenie pre zasielanie Žiadostí
+a Rozhodnutí počas časového horizontu vymedzeného v článku 4.1 Zmluvy; z uvedeného
+dôvodu sa Subjekty rezortu MS SR zaväzujú vyvinúť všetko úsilie zasielať Žiadosti
+a Rozhodnutia včas a prostredníctvom IT riešenia.
+
+10.4
+
+Subjekty rezortu MS SR sú oprávnené využívať Informácie len pre účely plnenia ich
+povinností vyplývajúcich zo Zákona o bankách, Zákona o správe a vymáhaní súdnych
+pohľadávok, Zákona o európskom príkaze na zablokovanie účtov, Zákona o súdoch a z
+príslušných procesných kódexov upravujúcich konanie pred Súdmi.
+
+10.5
+
+Subjekt rezortu MS SR je zodpovedný za škodu v prípade, ak
+(i)
+
+použije IT riešenie za účelom zaslania Žiadosti bez oprávnenia a/alebo bez právneho
+základu na sprístupnenie príslušnej Informácie;
+
+(ii)
+
+použije IT riešenie za účelom zneužitia, obmedzenia alebo porušenia práv Povinnej
+osoby a/alebo spôsobom porušujúcim účel príslušného právneho predpisu;
+
+(iii)
+
+vkladá alebo používa adresáre alebo materiály alebo informácie, ktoré obsahujú
+vírusy, alebo ktoré môžu viesť k anomáliám a nefunkčnosti bezpečnosti systému
+vyvinutého CRIF SK pre IT riešenie;
+
+(iv)
+
+vznikne v dôsledku podstatného porušenia svojich povinností ustanovených v článku
+2.2, 3.1, 3.2, 4.1, 6.1-6.14, 9, 10, 12, 13, 14.3. tejto Zmluvy.
+
+21
+
+V takomto prípade MS SR obdrží od CRIF SK výzvu na odstránenie porušenia svojich
+povinností v lehote do tridsiatich (30) Pracovných dní odo dňa doručenia výzvy.
+10.6
+
+MS SR má k dispozícii potrebné technické vybavenie umožňujúce dokončenie vývoja IT
+riešenia a v prípade, že by v priebehu vývoja IT riešenia vznikla potreba jeho výmeny alebo
+doplnenia, vyvinie všetko potrebné úsilie, aby zabezpečil potrebné technické vybavenie.
+
+11.
+
+VYHLÁSENIA, ĎALŠIE POVINNOSTI A ZODPOVEDNOSŤ CRIF SK
+
+11.1
+
+CRIF SK ku dňu uzavretia tejto Zmluvy vyhlasuje a zaručuje Bankám a MS SR, resp.
+Subjektom rezortu MS SR, že:
+(a)
+
+má všetky oprávnenia potrebné k vykonávaniu činností podľa tejto Zmluvy a má
+oprávnenie uzavrieť a plniť túto Zmluvu, ktorá je pre ňu záväzná;
+
+(b)
+
+podpisom tejto Zmluvy neporušuje žiadne iné zmluvy, ktorých je zmluvnou stranou,
+ani žiadny zákon či iný všeobecne záväzný právny predpis.
+
+11.2
+
+CRIF SK má k dispozícii potrebné technické vybavenie umožňujúce dokončenie vývoja IT
+riešenia a v prípade, že by v priebehu vývoja IT riešenia vznikla potreba jeho výmeny alebo
+doplnenia, vyvinie všetko potrebné úsilie, aby zabezpečila potrebné technické vybavenie
+v príslušnom rozsahu podľa článku 15 Zmluvy.
+
+11.3
+
+CRIF SK nezodpovedá voči Subjektom rezortu MS SR ani Bankám, za
+nesprávnosť Informácií, a v príslušnom rozsahu Žiadostí, ak bola spôsobená: (i)
+nepravdivosťou, nepresnosťou, neúplnosťou alebo nesprávnosťou Žiadostí odoslaných zo
+strany Subjektov rezortu MS SR v zmysle tejto Zmluvy, (ii) nesprávnosťou zákonom
+vyžadovaných údajov o Povinných osobách, alebo (iii) nesprávnosťou, nepravdivosťou,
+nepresnosťou, neúplnosťou Informácií spracovaných/poskytnutých Bankou a v príslušnom
+rozsahu Žiadostí zaslaných Subjektmi rezortu MS SR, alebo (iv) prerušením spojenia alebo
+chybou sieťových pripojení, poskytovaných treťou stranou. CRIF SK je povinný vykonávať
+činnosti za účelom udržiavania dostupnosti IT riešenia v súlade s článkom 7. Zmluvy a
+v primeranom rozsahu podľa Prílohy č. 5 a č. 9 Zmluvy, pričom nie je zodpovedné v prípade
+nedostatočnej spolupráce MS SR, resp. Subjektov rezortu MS SR a Bánk pri používaní IT
+riešenia pre účely posielania Žiadostí a Príkazov alebo pri poskytovaní Informácií.
+
+11.4
+
+CRIF SK bude používať informačný systém, ktorý zabezpečí dostatočnú úroveň bezpečnosti
+v zmysle požiadaviek definovaných v Prílohe č. 3 tejto Zmluvy. CRIF SK ďalej zodpovedá
+voči Bankám a MS SR, resp. Subjektom rezortu MS SR za funkčnosť a bezpečnosť IT riešenia
+a za dodržiavanie Parametrov IT riešenia. CRIF SK je oprávnený zabezpečiť prvky IT riešenia
+aj prostredníctvom tretích osôb, pričom voči Bankám a MS SR, resp. Subjektom rezortu MS
+SR zodpovedá rovnako, ako keby ich zabezpečila sama.
+
+11.5
+
+CRIF SK si vyhradzuje právo vykonávať údržbu IT riešenia alebo jeho technických častí, aby
+nedochádzalo k prerušeniu alebo negatívnym vplyvom na prevádzku IT riešenia, ako aj aby
+nedochádzalo k porušeniu povinnosti Bánk poskytnúť v stanovených lehotách Subjektom
+rezortu MS SR Informácie. V prípade poruchy, pokiaľ nemôže dôjsť k odkladu výkonu
+údržby počas hodín, kedy je IT riešenie sprístupnené z dôvodu závažných problémov, ktoré by
+mohli ovplyvniť funkčnosť IT riešenia, je CRIF SK za účelom zabezpečenia spracovania
+Žiadostí a/alebo Informácií a/alebo Príkazov oprávnené a zároveň povinné túto údržbu
+vykonať bez zbytočného odkladu, a to bez ohľadu, kedy CRIF SK túto skutočnosť oznámi
+Bankám, Subjektom rezortu MS SR prostredníctvom chybového hlásenia zverejneného
+prostredníctvom Dátového uzla Bánk a Dátového uzla MS SR. Ak počas údržby nebude môcť
+Banka prijímať Žiadosti alebo Príkazy a/alebo odosielať Informácie, lehoty podľa článkov 4.1,
+
+22
+
+5.2 a 6.2 nebudú plynúť. V takom prípade sa nezakladá žiadna zodpovednosť CRIF SK za
+škodu vzniknutú Bankám a MS SR, resp. Subjektom rezortu MS SR z dôvodu nesprístupnenia
+informačného systému pre elektronickú komunikáciu medzi Bankami a Subjektmi rezortu MS
+SR, ibaže CRIF SK nevyužil všetky vhodné a nevyhnutné opatrenia za účelom zmiernenia
+a zníženia negatívneho vplyvu na MS SR, resp. Subjekty rezortu MS SR a Banky; CRIF SK je
+povinný vynaložiť všetko úsilie, aby bolo IT riešenie znovu funkčné včas, ako je uvedené
+v Prílohe č. 9 Zmluvy.
+11.6
+
+CRIF SK je povinný poskytovať Subjektu rezortu MS SR správu ohľadom stavu spracovania
+všetkých Žiadostí, ktoré zaslal na Dátový uzol MS SR, ktorá bude obsahovať (i) spisovú
+značku konania, (ii) Identifikáciu Povinnej osoby v zmysle tejto Zmluvy v zašifrovanej forme,
+tak ako bola uvedená v obálke Žiadosti, (iii) názov Subjektu rezortu MS SR (iv) Informácie
+o stave spracovania Žiadostí Bankami, a to jej doručením na Dátový uzol MS SR.
+
+11.7
+
+CRIF SK sa zaväzuje nakladať s údajmi a skutočnosťami tvoriacimi obchodné a bankové
+tajomstvo, ako aj s osobnými údajmi v súlade s príslušnými právnymi predpismi.
+
+11.8
+
+CRIF SK je zodpovedný za škodu v prípade, ak
+(i)
+
+IT riešenie nezodpovedá požiadavkám definovaným v tejto Zmluve a jej prílohách;
+
+(ii)
+
+je IT riešenie nefunkčné alebo má vady, pre ktoré ho nie je možné používať pre účel
+uvedené v tejto Zmluve dlhšie ako 5 Pracovných dní;
+
+(iii) sa preukáže, že na strane CRIF SK dochádza k odoslaniu Žiadostí, Informácií a Príkazov
+v rozpore s touto Zmluvou;
+(iv) vznikne v dôsledku podstatného porušenia záväzkov a povinností, ktoré pre CRIF SK
+vyplývajú z článkov 2.2, 2.3, 2.4, 3.3, 3.5, 4.1, 4.2, 4.4, 7, 11.1, 11.4, 11.7, 12.1, 13.1,
+15.6 tejto Zmluvy.
+V takomto prípade MS SR alebo SBA oznámi spoločnosti CRIF SK porušenie konkrétnej
+povinnosti zo Zmluvy, ktorej sa dopustila a vyzve CRIF SK na odstránenie porušenia svojich
+povinností v lehote do tridsiatich (30) pracovných dní odo dňa doručenia výzvy.
+12.
+
+DÔVERNÉ INFORMÁCIE A OSOBNÉ ÚDAJE
+
+12.1
+
+Každá Zmluvná strana, Banka a Subjekt rezortu MS SR sa zaväzuje zachovávať mlčanlivosť o
+všetkých informáciách, ktoré jej boli poskytnuté alebo ktoré inak získala v súvislosti s touto
+Zmluvou, a ktoré tvoria obchodné tajomstvo, bankové tajomstvo, technické riešenia hardvéru,
+softvéru použitého pre účely IT riešenia a komunikačnej siete, ako aj obsahujúce osobné
+údaje, s výnimkou nasledujúcich prípadov:
+(a)
+
+použitie informácií v súvislosti s naplnením účelu sledovaného touto Zmluvou
+v súlade so zákonom;
+
+(b)
+
+ak je poskytnutie informácií vyžadované od dotknutej Zmluvnej strany, Banky, alebo
+Subjektu rezortu MS SR v súlade so všeobecne záväznými právnymi predpismi;
+
+(c)
+
+ak sú informácie verejne dostupné z iného dôvodu ako je porušenie povinnosti
+mlčanlivosti dotknutou Zmluvnou stranou, Bankou a Subjektom rezortu MS SR;
+
+(d)
+
+ak sú informácie poskytnuté odborným poradcom a technickým subdodávateľom
+dotknutej Zmluvnej strany, Banky a Subjektu rezortu MS SR (vrátane právnych,
+účtovných, daňových, technických a iných poradcov), ktorí sú buď viazaní
+23
+
+všeobecnou profesionálnou povinnosťou mlčanlivosti alebo ak sa voči dotknutej
+Zmluvnej strane, Banke alebo Subjektu rezortu MS SR zaviazali povinnosťou
+mlčanlivosti, a ktoré sú oprávnené použiť takéto informácie výlučne na účely, ktoré
+súvisia len s touto Zmluvou;
+(e)
+
+pre účely akéhokoľvek súdneho, rozhodcovského, správneho alebo iného konania,
+ktorého je dotknutá Zmluvná strana, Banka, alebo Subjekt rezortu MS SR;
+
+(f)
+
+ak sú informácie poskytnuté so súhlasom druhej Zmluvnej strany, Banky alebo
+Subjektom rezortu MS SR, ktorý súhlas nemôže byť bezdôvodne odmietnutý;
+
+(g)
+
+ak sú informácie poskytnuté ovládajúcej alebo ovládanej osobe príslušnej Zmluvnej
+strany alebo Banky alebo inej osobe patriacej do skupiny Banky.
+
+Bez ohľadu na vyššie uvedené, pokiaľ majú byť dôverné informácie sprístupnené
+ktorejkoľvek osobe uvedenej pod písm. (d) tohto článku, je poskytujúca strana povinná
+bezodkladne písomne po nadobudnutí účinnosti tejto Zmluvy informovať dotknutú stranu,
+ktorej dôverné informácie sa majú poskytnúť alebo sprístupniť (i) aký druh dôverných
+informácií bude poskytnutý; (ii) údaje o tretej strane; (iii) spôsob a účel poskytnutia
+informácií.
+Pre vylúčenie akýchkoľvek pochybností, Zmluvné strany, Banky a Subjekty rezortu MS SR
+sú si vedomé, že pred nadobudnutím účinnosti tejto Zmluvy, každá poskytujúca Zmluvná
+strana, Banka, Subjekt rezortu MS SR disponujúca dôvernými informáciami ktorejkoľvek zo
+Zmluvných strán, Banky, Subjektu rezortu MS SR v súlade s podmienkami o mlčanlivosti
+prinajmenšom v tom istom rozsahu a obsahu stanovenými týmito podmienkami, podpisom
+tejto Zmluvy sa zaväzuje poskytnúť dotknutej Zmluvnej strane, Banke, Subjektu rezortu MS
+SR v písomnej podobe zoznam tých subjektov, ktorí mali prístup k dôverným informáciám
+poskytujúcej Zmluvnej strany, Banky, Subjektu rezortu MS SR pred nadobudnutím účinnosti
+tejto Zmluvy.
+12.2
+
+Každá Banka je prevádzkovateľom v zmysle Zákona o ochrane osobných údajov, a to
+v rozsahu Zákona o bankách. Subjekty rezortu MS SR sú prevádzkovateľmi v zmysle Zákona
+o ochrane osobných údajov, a to v rozsahu právnych predpisov uvedených v článku 10.4
+Zmluvy.
+
+12.3
+
+Pre vylúčenie pochybností platí, že CRIF SK nespracúva osobné údaje uvedené v Žiadostiach,
+Informáciách a Príkazoch, ale zabezpečuje len technický prenos Žiadostí, Informácií
+a Príkazov za podmienok uvedených v tejto Zmluve, bez prístupu k osobným údajom alebo
+údajom tvoriacim predmet bankového tajomstva v nich obsiahnutých.
+
+12.4
+
+CRIF SK zodpovedá voči Banke a MS SR, resp. Subjektu rezortu MS SR vo vzťahu k IT
+riešeniu za technické činnosti, v rozsahu podmienok podľa Prílohy č. 9 „Postavenie a
+zodpovednosť CRIF SK za nastavenie a údržbu IT riešenia”.
+
+13.
+
+PRÁVO DUŠEVNÉHO VLASTNÍCTVA
+
+13.1
+
+IT riešenie, ako aj jeho súčasti, Dátový uzol MS SR, Dátový uzol Bánk a Softvér boli vyvinuté
+CRIF SK a/alebo jeho dodávateľmi. CRIF SK vlastní alebo vykonáva všetky práva duševného
+vlastníctva vo vzťahu k IT riešeniu alebo jeho častiam a dielam vytvoreným na ich základe.
+Odo dňa nadobudnutia účinnosti tejto Zmluvy CRIF SK udeľuje licenciu každej príslušnej
+Banke, MS SR a každému Subjektu rezortu MS SR používať IT riešenie pre účely
+a v rozsahu dohodnutom v Zmluve, a to počas jej trvania. Odplata za udelenie licencie je
+zahrnutá v odplate splatnej podľa Cenového modelu.
+
+24
+
+14.
+
+TRVANIE ZMLUVY
+
+14.1
+
+Táto Zmluva nadobúda platnosť dňom jej podpísania Zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v zmysle § 47a ods. 1 zákona č. 40/1964 Zb. Občiansky
+zákonník v znení neskorších predpisov v spojení s § 5a Zákona o slobode informácií. MS SR
+sa zaväzuje bezodkladne oznámiť zvyšným Zmluvným stranám nadobudnutie účinnosti
+Zmluvy.
+
+14.2
+
+Táto Zmluva sa uzatvára na dobu určitú, a to na 24 (dvadsaťštyri) mesiacov odo dňa
+nadobudnutia jej účinnosti v zmysle bodu 14.1.
+
+14.3
+
+V prípade ukončenia Zmluvy, akákoľvek dôverná informácia tej Zmluvnej strany, Banky
+a Subjektu rezortu MS SR, ktorí ju sprístupnili, musí byť zo strany CRIF SK vrátená Zmluvnej
+strane, Banke, Subjektu rezortu MS SR, ktorí ju sprístupnili; v taktom prípade Subjekty
+rezortu MS SR a každá Banka sú povinní ukončiť používanie IT riešenia a vrátiť CRIF SK
+všetky informácie, dokumentáciu, manuály, popisy a postupy, ktoré sa vzťahujú k IT riešeniu
+a ktoré patria CRIF SK a CRIF SK je povinný ukončiť používanie dôverných informácií
+príslušnej Banky, MS SR, resp. Subjektu rezortu MS SR a vrátiť im ich.
+
+14.4
+
+S výnimkou uvedenou v bode 14.7 nie je túto Zmluvu oprávnená počas doby jej trvania v
+zmysle bodu 14.2 vypovedať žiadna zo Zmluvných strán. Týmto nie je dotknuté právo
+ktorejkoľvek zo Zmluvných strán na odstúpenie od Zmluvy v zmysle platných právnych
+predpisov.
+
+14.5
+
+Táto Zmluva zanikne dňom uvedeným ako deň ukončenia tejto Zmluvy v písomnej dohode
+všetkých Zmluvných strán.
+
+14.6
+
+Táto Zmluva automaticky zaniká aj:
+(a) dňom účinnosti takých legislatívnych zmien, ktoré by mali za následok celkovú
+nemožnosť jej plnenia ktoroukoľvek zo Zmluvných strán;
+(b) dňom zrušenia CRIF SK s likvidáciou;
+(c) dňom zrušenia poslednej Banky s likvidáciou;
+(d) dňom zrušenia MS SR alebo posledného zo Subjektov rezortu MS SR bez právneho
+nástupcu.
+
+14.7
+
+CRIF SK je oprávnený vypovedať túto Zmluvu v prípade takej zmeny právnych predpisov,
+v dôsledku ktorých by bol CRIF SK povinný pozmeniť IT riešenie vo veľkom rozsahu za
+účelom udržania jeho súladu s právnymi predpismi a/alebo ak zmena právnych predpisov
+spôsobí nemožnosť pokračovať v zmluvnom vzťahu ohľadom poskytovania IT riešenia podľa
+požiadaviek stanovených v Zmluve. Výpovedná lehota je trojmesačná (3). Výpovedná lehota
+začne plynúť prvým dňom kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom bola
+výpoveď doručená ostatným Zmluvným stranám.
+
+15.
+
+SPOLOČNÉ A ZÁVEREČNÉ USTANOVENIA
+
+15.1
+
+Zmeny
+V prípade ak v dôsledku: (i) legislatívnych zmien, (ii) požiadavky Zmluvnej strany týkajúcej
+sa zvyšovania bezpečnostných a výkonnostných parametrov informačného systému pre
+elektronickú komunikáciu medzi Subjektmi rezortu MS SR a Bankami alebo z iného
+
+25
+
+relevantného dôvodu bude nevyhnutné uskutočniť zmenu, nie však obmedzenú na zvyšovanie
+objemu Žiadostí alebo Informácií, ktoré sú predmetom spracovania: (i) v štruktúre alebo
+obsahu Žiadosti, Informácie, alebo Príkazu, (ii) týkajúcu sa funkcionality informačného
+systému pre elektronickú komunikáciu medzi Subjektami rezortu MS SR a Bankami, (iii)
+technickej architektúry pre elektronickú komunikáciu medzi Subjektmi rezortu MS SR a
+Bankami, bude CRIF SK oprávnený jednostranným návrhom adresovaným Zmluvným
+stranám zmeniť Prílohy č. 1, 2, 3 a/alebo Prílohy č. 5 tejto Zmluvy. Jednostranný návrh podľa
+predošlej vety tohto bodu 15.1 však bude CRIF SK povinný doručiť každej Zmluvnej strane
+najneskôr tri (3) mesiace pred dňom plánovanej účinnosti zmeny v prípade zmien, ktoré sú
+spätne kompatibilné a šesť (6) mesiacov pred dňom plánovanej účinnosti zmeny v prípade
+zmien, ktoré nie sú spätne kompatibilné, okrem prípadov, ak splnenie týchto lehôt nie je
+množné z dôvodu nevyhnutných legislatívnych zmien. Zmluvné strany budú mať lehotu
+tridsať (30) pracovných dní odo dňa prijatia jednostranného návrhu uvedeného vyššie na
+vyjadrenie ich odôvodneného nesúhlasu s navrhovanými zmenami. Pokiaľ v uvedenej lehote
+Zmluvné strany nedoručia CRIF SK žiadny odôvodnený nesúhlas, jednostranný návrh sa
+považuje za prijatý za podmienok stanovených CRIF SK. Pokiaľ bude CRIF SK doručený
+odôvodnený nesúhlas aspoň jednej zo Zmluvných strán, Zmluvné strany sa zaväzujú viesť
+vzájomné konzultácie a rokovania za účelom dosiahnutia dohody o podstatných náležitostiach
+zmeny navrhnutej jednostranným návrhom CRIF SK.
+15.2
+
+Oddeliteľnosť ustanovení
+
+(a)
+
+Jednotlivé ustanovenia tejto Zmluvy sú vymáhateľné nezávisle od seba a neplatnosť
+ktoréhokoľvek z nich nebude mať žiaden vplyv na platnosť ostatných ustanovení, s výnimkou
+prípadov, kedy je z dôvodu dôležitosti povahy alebo inej okolnosti týkajúcej sa takého
+neplatného ustanovenia zrejmé, že dané ustanovenie nemôže byť oddelené od ostatných
+príslušných ustanovení.
+
+(b)
+
+V prípade, že niektoré z uvedených ustanovení bude neplatné, pričom jeho neplatnosť bude
+spôsobená niektorou jeho časťou, bude dané ustanovenie platiť tak, ako keby bola predmetná
+časť vypustená. Ak však takýto postup nie je možný, Zmluvné strany sa zaväzujú zabezpečiť
+uskutočnenie všetkých krokov potrebných za tým účelom, aby bolo dohodnuté ustanovenie s
+podobným účinkom, ktorým sa neplatné ustanovenie v súlade s príslušným právnym
+predpisom nahradí.
+
+15.3
+
+Zmeny Zmluvy
+Ustanovenia tejto Zmluvy a jej príloh, pokiaľ nejde o zmeny v zmysle bodu 15.1 tejto Zmluvy
+je možné meniť na základe písomnej dohody Zmluvných strán. Ustanovenia ktorejkoľvek
+prílohy k tejto Zmluve je možné meniť podpísaním novej prílohy Zmluvnými stranami.
+
+26
+
+15.4
+
+Dodatky
+Akékoľvek zmeny Zmluvy, vrátane technických zmien, ktoré sa vzťahujú na IT riešenie, je
+možné vykonať písomným dodatkom k Zmluve, podpísaným všetkými Zmluvnými stranami.
+Táto povinnosť sa nevzťahuje na „Drobné technické úpravy“, ktoré je možné vykonať
+a zmeniť jednostranne zo strany CRIF SK s ohľadom na povinnosť CRIF SK vopred písomne
+oznámiť túto skutočnosť Zmluvným stranám. „Drobné technické úpravy“ znamenajú také
+technické zmeny, ktoré (i) neohrozia včasné spracovanie Informácie, Príkazu alebo Žiadosti
+podľa pravidiel stanovených Zmluvou, (ii) nezmenia obsah ani rozsah Informácie alebo
+Žiadosti v neprospech Banky alebo Subjektov rezortu MS SR, (iii) nebudú mať vplyv na
+systémy MS SR, Subjektov rezortu MS SR a Bánk.
+
+15.5
+
+Vyhotovenia
+Táto Zmluva je vyhotovená v siedmich (7) vyhotoveniach v slovenskom jazyku, z ktorých MS
+SR obdrží tri (3) vyhotovenia a zostávajúce Zmluvné strany obdržia po dvoch (2)
+vyhotoveniach. SBA je povinná zverejniť Zmluvu na web stránke, zároveň je SBA povinná
+zaslať obyčajnú fotokópiu úplného znenia Zmluvy každej Banke bez zbytočného odkladu po
+jej uzatvorení, v prípade novej Banky spolu s Oznámením v zmysle článku 15.10 Zmluvy.
+
+15.6
+
+Ďalší dodávatelia
+Bez ohľadu na iné ustanovenia uvedené v Zmluve, CRIF SK je oprávnený plniť všetky alebo
+čiastkové povinnosti uložené CRIF SK touto Zmluvou prostredníctvom tretích strán. Vo
+všetkých takýchto prípadoch zodpovedá CRIF SK za riadne plnenie povinností týmito tretími
+stranami, akoby ich CRIF SK plnil podľa tejto zmluvy sám. CRIF SK je povinný oznámiť
+Bankám a MS SR každú zmenu svojho zmluvného partnera, ktorý je zahrnutý do plnenia
+Zmluvy.
+
+15.7
+
+Komunikácia medzi Zmluvnými stranami, Bankami a Subjektami rezortu MS SR
+
+(a)
+
+Akékoľvek oznámenie alebo iná formálna korešpondencia podľa tejto Zmluvy, s výnimkou
+Žiadostí, Informácií, Príkazov, sa doručujú na adresy, alebo emailové adresy uvedené v tomto
+článku/v záhlaví tejto Zmluvy alebo na iné adresy, ktoré si Zmluvné strany navzájom oznámia
+doručením na adresu uvedenú v tomto článku/v záhlaví tejto Zmluvy. V prípade Subjektov
+rezortu MS SR sa akékoľvek oznámenia, alebo iná forma korešpondencie podľa tejto Zmluvy
+a v súvislosti s ňou doručuje na adresy a emailové adresy, ktoré sú uverejnené na webovej
+adrese MS SR, alebo na emailové adresy oznámené zo strany MS SR, resp. Subjektov rezortu
+MS SR prostredníctvom emailu do 5 pracovných dní od emailového vyžiadania zo strany
+CRIF SK. V prípade Bánk sa akékoľvek oznámenia, alebo iná forma korešpondencia podľa
+tejto Zmluvy a v súvislosti s ňou doručuje na adresy uvedené v Obchodnom registri, alebo na
+emailové adresy oznámené zo strany SBA prostredníctvom emailu do 5 pracovných dní od
+emailového vyžiadania zo strany CRIF SK.
+Zmluvné strany sú povinné oznámiť si navzájom akékoľvek zmeny emailových adries bez
+zbytočného odkladu.
+
+(b)
+
+Akékoľvek oznámenia alebo iná formálna korešpondencia sa budú považovať za doručené v
+deň doručenia zásielky, alebo emailu, ak bola zásielka doručená; pričom za deň doručenia sa
+považuje aj deň, keď došlo k pokusu o doručenia do sídla Zmluvnej strany, ktoré je ako sídlo
+určené zákonom alebo miesto podnikania zapísané v obchodnom registri, webovej adrese MS
+SR, príp. inom obdobnom registri, alebo k pokusu o doručenie odoslaním na emailovú adresu.
+V prípade, ak je vyslovene v tejto Zmluve uvedené, že sa oznámenia alebo iná formálna
+
+27
+
+korešpondencia vyhotovuje písomne, je vylúčené doručovanie prostredníctvom elektronických
+prostriedkov- emailom.
+15.8
+
+Rozhodné právo
+Táto Zmluva sa riadi právnym poriadkom Slovenskej republiky. Zmluva je uzavretá podľa §
+269 ods. 2 Obchodného zákonníka a v súlade s § 90 ods. 3 a § 91 ods. 10 Zákona o bankách,
+pričom práva a povinnosti Zmluvných strán, ktoré nie sú v tejto Zmluve výslovne upravené,
+spravujú sa príslušnými ustanoveniami Obchodného zákonníka a ostatnými všeobecne
+záväznými právnymi predpismi.
+
+15.9
+
+Riešenie sporov
+Všetky spory, ktoré vzniknú z tejto Zmluvy, vrátane sporov o jej platnosť, výklad alebo
+zrušenie budú riešené všeobecnými súdmi Slovenskej republiky.
+
+15.10 Oznámenie o pripojení nových Bánk do osobitného informačného systému elektronickej
+komunikácie
+(a)
+
+Každá Banka oprávnená vykonávať činnosť podľa Zákona o bankách, ktorá poskytuje službu
+prijímania vkladov, je povinná pripojiť sa do osobitného informačného systému elektronickej
+komunikácie v zmysle tejto Zmluvy a plniť si povinnosti v súlade s touto Zmluvou. SBA je
+povinná vyzvať každú Banku na podpísanie Oznámenia a zaslať jej znenie tejto Zmluvy.
+Oznámenie je Banka povinná doručiť CRIF SK. Banka je povinná pripojiť sa do osobitného
+informačného systému elektronickej komunikácie v zmysle tejto Zmluvy tak, aby si plnila
+svoje povinnosti v súlade so Zákonom o bankách.
+
+(b)
+
+Oznámenie bude doručené Bankou CRIF SK v písomnej podobe. Banka je povinná doručiť
+CRIF SK Oznámenie najneskôr do troch (3) mesiacov odo dňa začatia podnikania na území
+Slovenskej republiky. Za predpokladu splnenia súčinnosti Banky CRIF SK zabezpečí
+pripojenie Banky do osobitného informačného systému elektronickej komunikácie v zmysle
+tejto Zmluvy do piatich (5) pracovných dní po dni doručenia Oznámenia CRIF SK za
+podmienky, že boli vykonané užívateľské testy v zmysle článku 3. bod 3.4 tejto Zmluvy.
+
+(c)
+
+CRIF SK je povinný oznámiť SBA a MS SR pripojenie každej Banky v písomnej podobe bez
+omeškania, najneskôr však do piatich (5) pracovných dní od dňa doručenia riadne
+vyhotoveného príslušného Oznámenia.
+
+15.11 PRÍLOHY – 1 až 9
+Neoddeliteľnou súčasťou tejto Zmluvy sú nasledovné prílohy:
+Príloha č. 1
+
+– Informácia, Žiadosť
+
+Príloha č. 2
+– Príkaz na začatie exekúcie, Zmena Príkazu na začatie exekúcie, Exekučný príkaz,
+Zmena Exekučného príkazu, Súhlas s uvoľnením sumy nepodliehajúcej exekúcii, Odklad_Zrušenie
+odkladu, Zastavenie_Odblokovanie účtov, Príkaz na začatie exekúcie, Zastavenie_Odblokovanie,
+Zrušenie exekučného príkazu
+Príloha č. 3
+
+– Architektúra informačného systému pre elektronickú komunikáciu medzi
+Subjektmi rezortu MS SR a Bankami
+
+Príloha č. 4 A,B
+Príloha č. 5
+
+–
+
+Cenový model
+
+– Parametre IT Riešenia
+28
+
+Príloha č. 6
+
+– Oznámenie
+
+Príloha č. 7
+
+–
+
+Príloha č. 8
+
+– Časový harmonogram
+
+Príloha č. 9
+
+– Postavenie a zodpovednosť CRIF SK za nastavenie a údržbu IT riešenia
+
+Akceptačný protokol
+
+29
+
+Príloha č. 1
+
+Žiadosť/Informácia
+
+Úvod
+
+Definícia štruktúr Žiadostí a Informácií
+Každá zasielaná Žiadosť/Informácia pozostáva zo záhlavia (obálky) a samotného obsahu Žiadosti/Informácie
+Štruktúra záhlavia je definovaná v hárku Záhlavie
+Štruktúra obsahu Rozšírenej žiadosti a Inej žiadosti je definovaná v hárku Žiadosť
+Štruktúra obsahu Rozšírenej informácie a Inej informácie je definovaná v hárku Informácia
+Počas celého priebehu komunikácii je samotný obsah Žiadosti/Informácie zašifrovaný a CRIF SK do neho
+nebude vstupovať a zasahovať nijakým spôsobom
+CRIF SK príjme od odosielateľa Žiadosť/Informáciu v štruktúre obálky odosielanej správy a odovzdá
+Žiadosť/Informáciu adresátovi v štruktúre obálky prijímanej správy.
+Údaje v obálke prijímanej správy sú vytvorené na základe údajov z obálky odosielanej správy s doplnenými a
+pozmenenými údajmi len v tej miere aby, bola správa spracovateľná technickými prostriedkami na strane
+adresáta.
+
+Identifikácia
+prípadu
+
+Príloha č. 1
+
+Žiadosť/Informácia
+
+Rozšírená žiadosť - stavy
+účtov
+
+P/N
+
+typ
+
+rozsah
+
+Poznámka
+
+RequestID
+
+P
+
+Numeric
+
+10
+
+Id žiadosti
+
+BailiffID
+
+P
+
+Numeric
+
+6
+
+ID MS SR
+
+CaseID
+
+P
+
+Character
+
+15
+
+Číslo exekúcie v ľubovoľnom formáte
+
+AssignmentID
+
+N
+
+Character
+
+15
+
+Poverenie číslo - súd
+
+AssignedBy
+
+P
+
+Character
+
+35
+
+Poverenie vydal
+
+AssignmentDate
+
+P
+
+Date
+
+BailiffChangeInfo
+
+N
+
+Character
+
+PersonTypeID
+
+P
+
+Numeric
+
+RC
+
+P
+
+Character
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO
+
+Surname
+
+N
+
+Character
+
+55
+
+Priezvisko
+
+Name
+
+N
+
+Character
+
+55
+
+Meno
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny
+
+ICO
+
+P
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Numeric
+
+4
+
+poradové číslo organizačnej zložky
+
+Name
+
+N
+
+Character
+
+250
+
+Názov
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny
+
+Iná žiadosť
+
+P/N
+
+typ
+
+rozsah
+
+Poznámka
+
+RequestID
+
+P
+
+Numeric
+
+10
+
+Id žiadosti
+
+BailiffID
+
+P
+
+Numeric
+
+6
+
+ID MS SR
+
+CaseID
+
+P
+
+Character
+
+15
+
+Číslo exekúcie v ľubovoľnom formáte
+
+AssignmentID
+
+N
+
+Character
+
+15
+
+Poverenie číslo - súd
+
+AssignedBy
+
+P
+
+Character
+
+35
+
+Poverenie vydal
+
+AssignmentDate
+
+P
+
+Date
+
+BailiffChangeInfo
+
+N
+
+Character
+
+PersonTypeID
+
+P
+
+Numeric
+
+RC
+
+P
+
+Character
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO
+
+Surname
+
+N
+
+Character
+
+55
+
+Priezvisko
+
+Name
+
+N
+
+Character
+
+55
+
+Meno
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny
+
+ICO
+
+P
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Numeric
+
+4
+
+poradové číslo organizačnej zložky
+
+Name
+
+N
+
+Character
+
+250
+
+Názov
+
+Dátum vydania poverenia
+255
+
+Info o uznesení o zmene
+Typ osoby - viď číselník
+
+Identifikácia
+prípadu
+
+Identifikácia Povinného
+
+Person
+10
+
+Rodné číslo (bez lomítka) ; okrem cudzinca bez
+prideleného RČ
+
+povinné podľa typu osoby
+
+Dátum narodenia
+
+Company
+
+povinné podľa typu osoby.
+
+Dátum vydania poverenia
+255
+
+Info o uznesení o zmene
+Typ osoby - viď číselník
+
+Identifikácia Povinného
+
+Person
+10
+
+Rodné číslo (bez lomítka) ; okrem cudzinca bez
+prideleného RČ
+
+povinné podľa typu osoby
+
+Dátum narodenia
+
+Company
+povinné podľa typu osoby.
+
+Žiadosť
+
+Identifikáci
+
+Príloha č. 1
+
+Žiadosť/Informácia
+
+Otázka
+
+CountryCode
+Question
+
+N
+
+Numeric
+
+3
+
+Kód krajiny
+
+P
+
+Text
+
+10240
+
+popis otázky
+
+Žiadosť
+
+Žiadosť/Informácia
+
+Identifikácia Povinného
+
+Identifikácia
+prípadu
+
+Príloha č. 1
+
+Rozšírená Informácia - stav
+účtu
+RequestID
+BailiffID
+CaseID
+AssignmentID
+AssignedBy
+AssignmentDate
+BailiffChangeInfo
+Owner
+PersonTypeID
+Person
+RC
+BirthDay
+ICO
+Surname
+Name
+CountryCode
+Company
+ICO
+SNOU
+Name
+CountryCode
+Accounts ... list
+Account
+Acco
+untN
+umb
+Balla
+
+P/N
+
+typ
+
+rozsah
+
+Poznámka
+
+P
+P
+P
+N
+P
+P
+N
+P
+P
+
+Numeric
+Numeric
+Character
+Character
+Character
+Date
+Character
+
+10
+6
+15
+15
+35
+
+P
+N
+N
+N
+N
+N
+
+Character
+Date
+Character
+Character
+Character
+Numeric
+
+10
+
+P
+N
+
+Character
+Numeric
+
+8
+4
+
+Id žiadosti
+ID MS SR
+Číslo exekúcie v ľubovoľnom formáte
+Poverenie číslo - súd
+Poverenie vydal
+Dátum vydania poverenia
+Info o uznesení o zmene
+Vlastník – detaily
+Typ osoby - viď číselník
+FO – detaily
+Rodné číslo (bez lomítka) ; okrem cudzinca bez prideleného RČ
+Dátum narodenia
+IČO
+Priezvisko
+Meno
+Kód krajiny
+PO – detaily
+IČO
+poradové číslo org. zložky
+
+N
+N
+
+Character
+Numeric
+
+250
+3
+
+P
+
+Character
+
+34
+
+Názov
+Kód krajiny
+Zoznam nájdených účtov
+Účet – detaily
+Číslo účtu v IBAN
+
+Numeric
+Numeric
+
+12,2
+12,2
+
+Zostatok účtu – účtovný
+Zostatok účtu – disponibilný
+
+P
+nceT
+Balla P
+nce
+Disp
+Balla P
+
+Numeric
+
+12,2
+
+Výška rezervácií na účte
+
+Character
+Date
+Character
+Character
+Character
+Character
+Character
+Character
+Character
+Character
+Numeric
+
+3
+
+mena účtu
+Dátum platnosti zostatku
+doplňujúca informácia (Typ účtu)
+Doplňujúca info (o nekonzistencii)
+Priezvisko - Banka musí uvádzať tento údaj
+Meno - Banka musí uvádzať tento údaj
+Ulica
+Mesto
+PSČ
+IČO
+poradové číslo org. zložky
+
+Note
+DateCreated
+
+N
+P
+
+Character
+Date
+
+255
+
+Doplňujúca info (info o nekonzistencii)
+Dátum vytvorenia odpovede
+
+Iná Informácia
+RequestID
+
+P/N
+P
+
+typ
+Numeric
+
+rozsah
+10
+
+Poznámka
+Id žiadosti
+
+BailiffID
+CaseID
+AssignmentID
+AssignedBy
+AssignmentDate
+BailiffChangeInfo
+PersonTypeID
+Person
+RC
+BirthDay
+ICO
+Surname
+Name
+CountryCode
+Company
+ICO
+SNOU
+Name
+CountryCode
+Answer
+
+P
+P
+N
+P
+P
+N
+P
+
+Numeric
+Character
+Character
+Character
+Date
+Character
+Numeric
+
+6
+15
+15
+35
+
+ID MS SR
+Číslo exekúcie v ľubovoľnom formáte
+Poverenie číslo - súd
+Poverenie vydal
+Dátum vydania poverenia
+Info o uznesení o zmene
+Typ osoby - viď číselník
+
+P
+N
+N
+N
+N
+N
+
+Character
+Date
+Character
+Character
+Character
+Numeric
+
+10
+8
+55
+55
+3
+
+Rodné číslo (bez lomítka) ; okrem cudzinca bez prideleného RČ
+Dátum narodenia
+IČO
+Priezvisko - Banka musí uvádzať tento údaj
+Meno - Banka musí uvádzať tento údaj
+Kód krajiny
+
+P
+N
+N
+N
+P
+
+Character
+Numeric
+Character
+Numeric
+Text
+
+8
+4
+250
+3
+10240
+
+IČO
+poradové číslo organizačnej zložky
+Názov
+Kód krajiny
+Znenie odpovede
+
+DateCreated
+
+P
+
+Date
+
+Nájdené účty
+Identifikácia
+prípadu
+Identifikácia Povinného
+
+8
+55
+55
+3
+
+P
+P
+N
+N
+N
+N
+N
+N
+N
+N
+N
+
+nce
+Curr
+ency
+Date
+Valid
+Acco
+untT
+Note
+Surn
+ame
+Nam
+e
+Stre
+et
+City
+
+...
+
+Odpoveď
+
+255
+
+Numeric
+
+ZIP
+ICO
+SNO
+U
+
+20
+255
+55
+55
+40
+40
+5
+8
+4
+
+255
+
+Dátum vytvorenia odpovede
+
+Informácia
+
+povinné podľa typu osoby
+
+povinné podľa typu osoby.
+
+buď alebo
+
+povinné podľa typu osoby.
+
+povinné podľa typu osoby.
+
+Príloha č. 1
+
+Žiadosť/Informácia
+
+Číselník
+
+Typ správy
+
+TypeID
+
+2 žiadosť - stavy účtov
+3 iná žiadosť
+12 informácia - stavy účtov
+13 iná informácia
+Identifikácia povinného
+PersonTypeID
+
+typ
+
+povinne vyplnené položky
+
+1 FO s prideleným RČ
+
+rodné číslo
+
+2 FO podnikateľ
+
+rodné číslo, IČO
+
+3 PO s prideleným IČO
+
+IČO
+
+4 FO bez prideleného RČ
+
+meno, priezvisko, dátum narodenia, kód krajiny (cudzozemec)
+
+5 PO zahraničná bez prideleného IČO
+
+názov, kód krajiny
+
+Country code
+Kód OSN podľa aktuálnej Vyhlášky štatistického úradu Slovenskej republiky, ktorou sa vydáva Štatistický číselník krajín
+použije sa 3-miestny číselný kód, element <Code>
+
+Sender OrgUnitID
+1 Justičná pokladnica
+2 Súd- trestný spor
+3 Súd- civilný spor
+
+Príloha č. 2
+
+Príkazy
+
+Úvod
+
+Definícia štruktúr Príkazov
+Každý zasielaný Príkaz pozostáva zo záhlavia (obálky) a samotného obsahu Príkazu
+Štruktúra záhlavia je definovaná v hárku Záhlavie
+Štruktúra obsahu príkazov je definovaná v jednotlivých hárkoch
+Počas celého priebehu komunikácii je samotný obsah príkazu zašifrovaný a CRIF SK do neho nebude vstupovať a zasahovať nijakým spôsobom
+CRIF SK príjme od odosielateľa Príkaz v štruktúre obálky odosielanej správy a odovzdá Príkaz adresátovi v štruktúre obálky prijímanej správy.
+Údaje v obálke prijímanej správy sú vytvorené na základe údajov z obálky odosielanej správy s doplnenými a pozmenenými údajmi len v tej miere aby, bola správa
+spracovateľná technickými prostriedkami na strane adresáta.
+
+Príkazy
+
+Identifikácia
+Pohľadávky
+
+Identifikácia
+povinnej osoby (1...n)
+
+Identifikácia
+oprávnenej osoby (1..n)
+
+Identifikácia
+prípadu
+
+Príloha č. 2
+
+Príkaz na začatie exekúcie
+
+P/N
+
+Typ
+
+Rozsah Poznámka
+
+RequestID
+
+P
+
+Numeric
+
+10,0
+
+ID žiadosti
+
+BailiffID
+CaseID
+RecordID
+
+P
+P
+P
+
+Numeric
+Character
+Numeric
+
+6
+15
+10
+
+ID MS SR (Justičná pokladnica alebo Súd)
+Číslo exekúcie v ľubovolnom formáte
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX (Defaultne vzdy hodnota 1, v pripade
+zmeny sa uvedie 2,3,4...)
+
+AssignmentID
+AssignedBy
+AssignmentDate
+PersonTypeID
+Person
+BirthDay
+ICO
+Surname
+Name
+Company
+ICO
+SNOU
+Name
+
+N
+P
+P
+P
+
+Character
+Character
+Date
+Numeric
+
+15
+35
+
+Poverenie číslo
+Poverenie vydal
+Poverenie vydané dňa
+Typ osoby - viď číselník - bude uvedena JP alebo Súd, typ osoby 5
+
+N
+N
+P
+P
+
+Date
+Character
+Character
+Character
+
+8
+55
+55
+
+N
+N
+P
+
+Character
+Number
+Character
+
+8
+4
+250
+
+IČO povinné okrem PO bez prideleného IČO
+Poradové číslo organizačnej jednotky
+Názov Súdu ,ktorý vydal Príkaz (Justičná pokladnica alebo súd- trestný spor alebo súd- civilný spor),
+Meno a priezvisko pracovníka Súdu, ktorý vybavuje, jeho tel. kontakt
+
+CountryCode
+PersonTypeID
+Person
+RC
+BirthDay
+ICO
+Surname
+Name
+CountryCode
+Company
+ICO
+SNOU
+Name
+CountryCode
+Total Amount
+
+N
+P
+
+Numeric
+Numeric
+
+3
+1
+
+Kód krajiny (povinný podľa typu osoby)
+Typ osoby - viď číselník
+
+P
+N
+N
+P
+P
+N
+
+Character
+Date
+Character
+Character
+Character
+Numeric
+
+10
+
+Rodné číslo (povinné pre FO a FOP)
+Dátum narodenia (povinné pre cudzinca - zahraničná FO)
+IČO (povinné pre FOP)
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+Kód krajiny (povinný podľa typu osoby pre FO cudzinca)
+
+P
+N
+N
+N
+P
+
+Character
+Number
+Character
+Numeric
+Numeric
+
+8
+4
+250
+3
+12,2
+
+IČO povinné okrem PO bez prideleného IČO
+Poradové číslo organizačnej jednotky
+Názov (Povinne pre zahranicnu PO)
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+Suma bude rovnaká ako v riadku 39. Celková výška pohľadávky (pevná + pohyblivá suma) k dátumu
+zaslania príkazu v EUR
+
+TotalAmount Fixed part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude rovnaká ako v riadku 33 a 39. Celková výška pohľadávky pevná časť (sumár všetkých položiek
+z číselníka - vyplní sa automaticky po spočítaní všetkých položiek)
+
+TotalAmount Variable part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula. Celková výška pohľadávky pohyblivá časť (sumár všetkých položiek z číselníka vyplní sa automaticky po spočítaní všetkých položiek)
+
+8
+55
+55
+3
+
+Dátum narodenia
+IČO
+Priezvisko
+Meno
+
+Identifikácia pohľadávky pevné čiastky a)
+trovy exekútora 1...n)
+
+DebtFixed
+
+Zoznam položiek pohľadávky
+
+DebtFixedPart
+
+Trovy exekútora
+
+DebtPartCostExecutors
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka (vždy rovnaká ako v riadku 33)
+
+Identifikácia pohľadávky - pevné čiastky
+b)
+istina vymáhanej pohľadávky 1...n)
+
+DebtFixed
+
+DebtFixedPart
+
+Zoznam položiek pohľadávky
+
+Príkaz na začatie exekúcie
+
+Identifikácia pohľadávky - pevné čias
+b)
+istina vymáhanej pohľadávky 1...n
+Identifikácia pohľadávky - pevné čiastky
+c) príslušenstvo vymáhanej pohľadávky
+priznané exekučným titulom 1...n)
+
+Príkazy
+
+Istina vymáhanej pohľadávky
+
+DebtPartPrincipal
+
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+DebtFixed
+
+Zoznam položiek pohľadávky
+
+DebtFixedPart
+
+Príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+
+DebtPartAccessories
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+Identifikácia pohľadávky - pevné čiastky
+d)
+trovy oprávneného 1...n)
+
+DebtFixed
+
+DebtFixedPart
+
+Zoznam položiek pohľadávky
+
+DebtPartCostEntitledPerson
+
+Trovy oprávneného
+
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+DebtVariable
+
+Identifikácia pohľadávky - pohyblivé čiastky
+a)
+trovy exekútora 1...n
+
+DebtVariablePart
+
+Trovy exekútora
+
+DebtPartCostExecutors
+
+InterestDateStart
+
+P
+
+Date
+
+Úrok od dátumu zaslania príkazu
+
+InterestDateEnd
+
+N
+
+Date
+
+Úrok do dátumu
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+
+Periodicity
+
+P
+
+Character
+
+2
+
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka bude
+"Interest
+Čiastka
+vždyValue"
+"0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+
+DebtVariable
+
+ntifikácia pohľadávky - pohyblivé čiastky
+b)
+istina vymáhanej pohľadávky 1...n
+
+Príloha č. 2
+
+DebtVariablePart
+
+Príkaz na začatie exekúcie
+
+Príkazy
+
+Identifikácia pohľadávky - pohyblivé čiastky
+b)
+istina vymáhanej pohľadávky 1...n
+
+Príloha č. 2
+
+Istina vymáhanej pohľadávky
+
+DebtPartPrincipal
+
+InterestDateStart
+
+P
+
+Date
+
+Úrok od dátumu zaslania príkazu
+
+InterestDateEnd
+
+N
+
+Date
+
+Úrok do dátumu
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Periodicity
+
+P
+
+Character
+
+2
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+
+DebtVariable
+
+Identifikácia pohľadávky - pohyblivé
+c)
+príslušenstvo vymáhanej pohľadávky priznané
+exekučným titulom 1...n
+
+DebtVariablePart
+
+Príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+
+DebtPartAccessories
+
+InterestDateStart
+
+P
+
+Date
+
+Úrok od dátumu zaslania príkazu
+
+InterestDateEnd
+
+N
+
+Date
+
+Úrok do dátumu
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+
+Periodicity
+
+P
+
+Character
+
+2
+
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+
+kútora pre dobrovoľné plnenie
+ť, pre pohyblivú časť pohľadávky)
+
+Identifikácia pohľadávky - pohyblivé čiastky
+d)
+trovy oprávneného 1...n
+
+DebtVariable
+
+DebtVariablePart
+
+trovy oprávneného
+
+DebtPartCostEntitledPerson
+
+úrok od dátumu zaslania príkazu
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+Principal
+
+N
+P1
+
+Date
+Numeric
+
+12,2
+
+Periodicity
+InterestRate
+
+P
+P1
+
+Character
+Numeric
+
+2
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+DebtPartAccountNumber
+
+P
+
+Character
+
+34
+
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+Číslo účtu pre úhradu vo forme IBAN
+
+Príkaz na začatie exekúcie
+
+Príkazy
+Účet exekútora pre dobrovoľné plnenie
+(pre pevnú časť, pre pohyblivú časť pohľadávky)
+
+Príloha č. 2
+
+BankIdentificatorCode
+
+P
+
+Character
+
+11
+
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená osoba
+
+E2EReference
+
+P
+
+Character
+
+26
+
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomítka)
+
+DebtPartName
+
+P
+
+Character
+
+250
+
+Názov účtu pre plnenie
+
+Príkaz na začatie exekúcie
+
+Príloha č. 2
+
+Príkazy
+
+Identifikácia
+prípadu
+
+Zmena Príkaz na začatie exekúcie P/N
+
+Zmena_prikaz na zacatie exekucie
+
+Typ
+
+Rozsah
+
+Poznámka
+
+RequestID
+
+P
+
+Numeric
+
+10,0
+
+ID žiadosti
+
+BailiffID
+
+P
+
+Numeric
+
+6
+
+ID MS SR (Justičná pokladnica alebo Súd)
+
+CaseID
+
+P
+
+Character
+
+15
+
+Číslo exekúcie v ľubovolnom formáte
+
+RecordID
+
+P
+
+Numeric
+
+10
+
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX
+(Defaultne vzdy hodnota 1, v pripade zmeny sa uvedie 2,3,4...)
+
+AssignmentID
+
+N
+
+Character
+
+15
+
+Poverenie číslo
+
+AssignedBy
+
+P
+
+Character
+
+35
+
+Poverenie vydal
+
+AssignmentDate
+
+P
+
+Date
+
+PersonTypeID
+
+P
+
+Numeric
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO
+
+Surname
+
+P
+
+Character
+
+55
+
+Priezvisko
+
+Name
+
+P
+
+Character
+
+55
+
+Meno
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Number
+
+4
+
+Poradové číslo organizačnej jednotky
+
+Name
+
+P
+
+Character
+
+250
+
+Názov Súdu ,ktorý vydal Príkaz (Justičná pokladnica alebo súdtrestný spor alebo súd- civilný spor),
+Meno a priezvisko pracovníka Súdu, ktorý vybavuje, jeho tel. kontakt
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby)
+
+PersonTypeID
+
+P
+
+Numeric
+
+1
+
+Typ osoby - viď číselník
+
+RC
+
+P
+
+Character
+
+10
+
+Rodné číslo (povinné pre FO a FOP)
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO (povinné pre FOP)
+
+Surname
+
+P
+
+Character
+
+55
+
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+
+Name
+
+P
+
+Character
+
+55
+
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby pre FO cudzinca)
+
+ICO
+
+P
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Number
+
+4
+
+Poradové číslo organizačnej jednotky
+
+Name
+
+N
+
+Character
+
+250
+
+Názov (Povinne pre zahranicnu PO)
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+
+P
+
+Numeric
+
+1
+
+Typ osoby - viď číselník - ak nebude zmena, uvedú sa rovnaké údaje
+ako v sekcii Identifikácia povinnej osoby.
+
+RC
+
+P
+
+Character
+
+10
+
+Rodné číslo (povinné pre FO a FOP)
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO (povinné pre FOP)
+
+Surname
+
+P
+
+Character
+
+55
+
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+
+Poverenie vydané dňa
+1
+
+Typ osoby - viď číselník - bude uvedena JP alebo Súd, typ osoby 5
+
+Identifikácia
+oprávnenej osoby (1..n)
+
+Person
+Dátum narodenia
+
+Company
+
+Dátum narodenia (povinné pre cudzinca - zahraničná FO)
+
+Company
+
+PersonTypeID
+
+Identifikácia novej povinnej osoby (1...n)
+
+Identifikácia
+povinnej osoby
+
+Person
+
+Person
+
+Dátum narodenia (povinné pre cudzinca - zahraničná FO)
+
+Identifikácia novej povinnej osoby (1
+
+Príkazy
+
+Zmena_prikaz na zacatie exekucie
+
+Name
+
+P
+
+Character
+
+55
+
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby pre FO cudzinca)
+
+ICO
+
+P
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Number
+
+4
+
+Poradové číslo organizačnej jednotky
+
+Name
+
+N
+
+Character
+
+250
+
+Názov (Povinne pre zahranicnu PO)
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+
+Change
+
+P
+
+Numeric
+
+2
+
+Ide o zmenu existujucej blokácie (1=Zmena pohľadávky/celkovej
+výšky pohľadávky, 2. Zmena oprávneného, 3. zmena účtu
+dobrovoľného plnenia, 4.zmena povinného) - viď číselník
+
+Total Amount
+
+P
+
+Numeric
+
+12,2
+
+Suma bude rovnaká ako v riadku 53 . Celková výška pohľadávky
+(pevná + pohyblivá suma) k dátumu zaslania príkazu v EUR
+
+TotalAmount Fixed part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude rovnaká ako v riadku 47 a 53 . Celková výška
+pohľadávky pevná časť (sumár všetkých položiek z číselníka - vyplní
+sa automaticky po spočítaní všetkých položiek)
+
+TotalAmount Variable part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula. Celková výška pohľadávky pohyblivá časť
+(sumár všetkých položiek z číselníka - vyplní sa automaticky po
+spočítaní všetkých položiek)
+
+Company
+
+DebtFixed
+
+DebtFixedPart
+
+Zoznam položiek pohľadávky
+
+DebtPartCostExecutors
+
+Trovy exekútora
+
+Identifikácia pohľadávky pevné čiastky
+b)
+istina vymáhanej
+pohľadávky 1...n)
+
+DebtPartAmount
+DebtFixed
+
+Identifikácia
+Identifikácia pohľadávky pohľadávky - pevné čiastky
+c)
+pevné
+príslušenstvo
+čiastky
+vymáhanej
+d)
+pohľadávky
+trovy
+priznané
+oprávnenéh
+exekučným
+o 1...n)
+titulom 1...n)
+
+Identifikácia pohľadávky pevné čiastky
+a)
+trovy exekútora 1...n)
+
+Identifikácia Pohľadávky
+
+Príloha č. 2
+
+DebtFixed
+
+P
+
+Numeric
+
+12,2
+
+Čiastka (vždy rovnaká ako v riadku 47
+
+DebtFixedPart
+
+Zoznam položiek pohľadávky
+
+DebtPartPrincipal
+
+Istina vymáhanej pohľadávky
+
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+DebtFixedPart
+
+Zoznam položiek pohľadávky
+
+DebtPartAccessories
+
+Príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+DebtFixed
+Zoznam položiek pohľadávky
+
+DebtFixedPart
+
+Trovy oprávneného
+
+DebtPartCostEntitledPerson
+DebtPartAmount
+
+P
+
+Numeric
+
+P
+
+Date
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+pohľadávky - pohyblivé čiastky
+a)
+rovy exekútora 1...n
+
+DebtVariable
+DebtVariablePart
+Trovy exekútora
+
+DebtPartCostExecutors
+InterestDateStart
+
+Úrok od dátumu zaslania príkazu
+
+Identifikácia pohľadávky - pohyblivé čiastky
+a)
+trovy exekútora 1...n
+
+Príkazy
+
+Zmena_prikaz na zacatie exekucie
+
+Úrok do dátumu
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou
+"Interest Rate". V tomto pripade sa nevyplní položka "Interest Value"
+
+Periodicity
+
+P
+
+Character
+
+2
+
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou
+"Principal". V tomto pripade sa nevyplní položka "Interest Value"
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní
+polžoka"InterestValue" tak sa nevyplní položka "Principal" a "Interest
+Rate"
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou
+"Interest Rate". V tomto pripade sa nevyplní položka "Interest Value"
+
+Periodicity
+
+P
+
+Character
+
+2
+
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou
+"Principal". V tomto pripade sa nevyplní položka "Interest Value"
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní
+polžoka"InterestValue" tak sa nevyplní položka "Principal" a "Interest
+Rate"
+
+Identifikácia pohľadávky - pohyblivé
+c)
+príslušenstvo vymáhanej pohľadávky priznané
+exekučným titulom 1...n
+
+Identifikácia pohľadávky - pohyblivé čiastky
+b)
+istina vymáhanej pohľadávky 1...n
+
+DebtVariable
+DebtVariablePart
+Istina vymáhanej pohľadávky
+
+DebtPartPrincipal
+
+Úrok od dátumu zaslania príkazu
+Úrok do dátumu
+
+DebtVariable
+DebtVariablePart
+Príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+
+DebtPartAccessories
+
+Úrok od dátumu zaslania príkazu
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou
+"Interest Rate". V tomto pripade sa nevyplní položka "Interest Value"
+
+Periodicity
+
+P
+
+Character
+
+2
+
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou
+"Principal". V tomto pripade sa nevyplní položka "Interest Value"
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní
+polžoka"InterestValue" tak sa nevyplní položka "Principal" a "Interest
+Rate"
+
+InterestDateStart
+
+P
+
+Date
+
+úrok od dátumu zaslania príkazu
+
+InterestDateEnd
+
+N
+
+Date
+
+Úrok do dátumu
+
+Úrok do dátumu
+
+DebtVariable
+
+tifikácia pohľadávky - pohyblivé čiastky
+d)
+trovy oprávneného 1...n
+
+Príloha č. 2
+
+DebtVariablePart
+trovy oprávneného
+
+DebtPartCostEntitledPerson
+
+Identifikácia pohľadávky - pohyblivé čiastky
+d)
+trovy oprávneného 1...n
+Účet exekútora pre
+dobrovoľné plnenie (pre pevnú
+časť, pre pohyblivú časť
+pohľadávky)
+
+Príloha č. 2
+
+Príkazy
+
+Zmena_prikaz na zacatie exekucie
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou
+"Interest Rate". V tomto pripade sa nevyplní položka "Interest Value"
+
+Periodicity
+
+P
+
+Character
+
+2
+
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou
+"Principal". V tomto pripade sa nevyplní položka "Interest Value"
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní
+polžoka"InterestValue" tak sa nevyplní položka "Principal" a "Interest
+Rate"
+
+DebtPartAccountNumber
+
+P
+
+Character
+
+34
+
+Číslo účtu pre úhradu vo forme IBAN
+
+BankIdentificatorCode
+
+P
+
+Character
+
+11
+
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je
+zahraničná opravnená osoba
+
+E2EReference
+
+P
+
+Character
+
+26
+
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomítka)
+
+P
+
+Character
+
+250
+
+Názov účtu pre plnenie
+
+DebtPartName
+
+Príkazy
+
+Identifikác
+Identifikác
+ia
+Identifikácia
+ia
+pohľadávk
+pohľadávky - pevné
+y - pevné pohľadávk
+čiastky
+y - pevné
+čiastky
+c) príslušenstvo
+čiastky
+b)
+vymáhanej pohľadávky
+a)
+istina
+priznané exekučným vymáhane
+trovy
+titulom 1...n)
+exekútora
+j
+1...n)
+pohľadávk
+y 1...n)
+
+Identifikácia
+Pohľadávky
+
+Identifikácia
+povinnéj osoby (1...n)
+
+Identifikácia
+oprávnenej osoby (1..n)
+
+Identifikácia
+prípadu
+
+Príloha č. 2
+
+Exekučný príkaz
+
+P/N
+
+Typ
+
+Rozsah Poznámka
+
+RequestID
+
+P
+
+Numeric
+
+10,0
+
+ID žiadosti
+
+BailiffID
+CaseID
+RecordID
+
+P
+P
+P
+
+Numeric
+Character
+Numeric
+
+6
+15
+10
+
+ID MS SR (Justičná pokladnica alebo Súd)
+Číslo exekúcie v ľubovolnom formáte
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX (Defaultne vzdy
+hodnota 1, v pripade zmeny sa uvedie 2,3,4...)
+
+AssignmentID
+AssignedBy
+AssignmentDate
+
+N
+P
+P
+
+Character
+Character
+Date
+
+15
+35
+
+Poverenie číslo
+Poverenie vydal
+Poverenie vydané dňa
+
+PersonTypeID
+
+P
+
+Numeric
+
+1
+
+Typ osoby - viď číselník - bude uvedena JP alebo Súd, typ osoby 5
+
+N
+N
+P
+P
+
+Date
+Character
+Character
+Character
+
+8
+55
+55
+
+Dátum narodenia
+IČO
+Priezvisko
+Meno
+
+N
+N
+P
+
+Character
+Number
+Character
+
+8
+4
+250
+
+IČO povinné okrem PO bez prideleného IČO
+Poradové číslo organizačnej jednotky
+Názov Súdu ,ktorý vydal Príkaz (Justičná pokladnica alebo súd- trestný spor alebo súdcivilný spor),
+Meno a priezvisko pracovníka Súdu, ktorý vybavuje, jeho tel. kontakt
+
+CountryCode
+PersonTypeID
+Person
+
+N
+P
+
+Numeric
+Character
+
+3
+1
+
+Kód krajiny (povinný podľa typu osoby)
+Typ osoby - viď číselník
+
+RC
+BirthDay
+
+P
+N
+
+Character
+Date
+
+10
+
+Rodné číslo (povinné pre FO a FOP)
+Dátum narodenia (povinné pre cudzinca - zahranicna FO)
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO (povinne pre FOP a PO tuzemsku)
+
+Surname
+Name
+Country Code
+Company
+ICO
+SNOU
+Name
+CountryCode
+Unblock
+
+P
+P
+N
+
+Character
+Character
+Numeric
+
+55
+55
+3
+
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+Kód krajiny (povinný podľa typu osoby)
+
+P
+N
+N
+N
+P
+
+Character
+Number
+Character
+Numeric
+Numeric
+
+8
+4
+250
+3
+2
+
+Total Amount
+
+P
+
+Numeric
+
+12,2
+
+IČO povinné okrem PO bez prideleného IČO
+Poradové číslo organizačnej jednotky
+Názov (Povinne pre zahranicnu PO)
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+MS SR uvádza vždy "0" - odblokovať účet vo zvyšku celkovej pohľadávky podľa
+PNZ, resp. PNZ Zmena
+Suma bude rovnaká ako v riadku 40. Celková výška pohľadávky (pevná + pohyblivá
+suma) k dátumu zaslania príkazu v EUR
+
+TotalAmount Fixed part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude rovnaká ako v riadku 34 a 40 . Celková výška pohľadávky pevná časť
+(sumár všetkých položiek z číselníka - vyplní sa automaticky po spočítaní všetkých
+položiek)
+
+TotalAmount Variable part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula. Celková výška pohľadávky pohyblivá časť (sumár všetkých
+položiek z číselníka - vyplní sa automaticky po spočítaní všetkých položiek)
+
+Person
+BirthDay
+ICO
+Surname
+Name
+Company
+ICO
+SNOU
+Name
+
+DebtFixed
+DebtFixedPart
+DebtPartCostExecutors
+DebtPartAmount
+DebtFixed
+DebtFixedPart
+DebtPartPrincipal
+DebtPartAmount
+DebtFixed
+
+P
+
+P
+
+Numeric
+
+Numeric
+
+12,2
+
+Zoznam položiek pohľadávky
+trovy exekútora
+Suma vymáhanej pohľadávky
+
+12,2
+
+Zoznam položiek pohľadávky
+istina vymáhanej pohľadávky
+Čiastka bude vždy "0" nula.
+
+DebtFixedPart
+
+Zoznam položiek pohľadávky
+
+DebtPartAccessories
+
+príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+
+Exekučný príkaz
+
+Identifikácia
+Identifikácia
+pohľadávky pohľadávky - pevné
+pevné čiastky
+čiastky
+d)
+c) príslušenstvo
+trovy
+vymáhanej pohľadávky
+oprávneného
+priznané exekučným
+1...n)
+titulom 1...n)
+Identifikácia pohľadávky pohyblivé čiastky
+a)
+trovy exekútora 1...n
+
+Príkazy
+
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+DebtFixed
+DebtFixedPart
+DebtPartCostEntitledPerson
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Zoznam položiek pohľadávky
+trovy oprávneného
+Čiastka bude vždy "0" nula.
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Periodicity
+
+P
+
+Character
+
+2
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+DebtVariable
+DebtVariablePart
+trovy exekútora
+
+DebtPartCostExecutors
+
+úrok od dátumu zaslania príkazu
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto
+pripade
+sa nevyplní
+"Interest
+Value"
+Opakovanie
+(polžokapoložka
+"Periodicita")
+(denný/mes./ročný,
+dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto
+pripade bude
+sa nevyplní
+položka
+"Interest
+Value"
+Čiastka
+vždy "0"
+nula.Fixná
+čiastka.
+Ak sa vyplní polžoka"InterestValue" tak sa
+
+Identifikácia pohľadávky Identifikácia pohľadávky - pohyblivé
+pohyblivé
+čiastky
+c)
+b)
+príslušenstvo vymáhanej
+pohľadávky priznané exekučným istina vymáhanej pohľadávky 1...n
+titulom 1...n
+
+nevyplní položka "Principal" a "Interest Rate"
+
+Identifikácia pohľadávky pohyblivé čiastky
+d)
+trovy oprávneného 1...n
+
+Príloha č. 2
+
+DebtVariable
+DebtVariablePart
+DebtPartPrincipal
+
+istina vymáhanej pohľadávky
+
+InterestDateStart
+InterestDateEnd
+Principal
+
+P
+N
+P1
+
+Date
+Date
+Numeric
+
+12,2
+
+Periodicity
+InterestRate
+
+P
+P1
+
+Character
+Numeric
+
+2
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+DebtVariable
+DebtVariablePart
+DebtPartAccessories
+InterestDateStart
+InterestDateEnd
+Principal
+
+P
+N
+P1
+
+Date
+Date
+Numeric
+
+12,2
+
+Periodicity
+InterestRate
+
+P
+P1
+
+Character
+Numeric
+
+2
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+DebtVariable
+DebtVariablePart
+DebtPartCostEntitledPerson
+InterestDateStart
+InterestDateEnd
+Principal
+
+P
+N
+P1
+
+Date
+Date
+Numeric
+
+12,2
+
+Periodicity
+InterestRate
+
+P
+P1
+
+Character
+Numeric
+
+2
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+úrok od dátumu zaslania príkazu
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto
+pripade sa nevyplní položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto
+pripade sa nevyplní položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa
+nevyplní položka "Principal" a "Interest Rate"
+
+príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+úrok od dátumu zaslania príkazu
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto
+pripade sa nevyplní položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto
+pripade sa nevyplní položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa
+nevyplní položka "Principal" a "Interest Rate"
+
+trovy oprávneného
+úrok od dátumu zaslania príkazu
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto
+pripade sa nevyplní položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto
+pripade sa nevyplní položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa
+nevyplní položka "Principal" a "Interest Rate"
+
+Exekučný príkaz
+
+Príkazy
+
+Účet pre
+plnenie
+pevnej a
+Účet pre plnenie pohyblivej
+Účet pre plnenie
+pevnej a
+pohľadávky
+pevnej a
+pohyblivej
+typu
+pohyblivej
+pohľadávky typu
+c)
+pohľadávky typu
+d)
+príslušenstvo
+b)
+trovy
+vymáhanej istina vymáhanej
+oprávneného
+pohľadávky
+pohľadávky
+priznané
+exekučným
+titulom
+
+Účet pre
+plnenie
+pevnej a
+pohyblivej
+pohľadávky
+typu
+a)
+trovy
+exekútora
+
+Pokyn na realizovanie
+
+Príloha č. 2
+
+P
+
+Numeric
+
+1
+
+Pokyn na realizovanie exekúcie (voľba z číselníka: jeden účet alebo viac účtov)
+MS SR vyplní "1". MS SR uvádza vždy len jeden účet . Zvyšné účty budú rovnaké.
+1. účet MS SR (JP alebo Sud) => (povinne musí vyplniť jeden účet). Tj.povinne musí
+vyplniť účet pre poľe pohľadávky typu a), pričom na tento účet budú poukázané aj
+ostatné typy pohľadávok
+
+DebtPartAccountNumber
+BankIdentificatorCode
+
+P
+P
+
+Character
+Character
+
+34
+11
+
+E2EReference
+DebtPartName
+DebtPartAccountNumber
+BankIdentificatorCode
+
+P
+P
+P
+P
+
+Character
+Character
+Character
+Character
+
+26
+250
+34
+11
+
+E2EReference
+DebtPartName
+
+P
+P
+
+Character
+Character
+
+26
+250
+
+Číslo účtu pre úhradu vo forme IBAN
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená
+osoba
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+Názov účtu pre plnenie
+Číslo účtu pre úhradu vo forme IBAN
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená
+osoba
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+Názov účtu pre plnenie
+
+DebtPartAccountNumber
+BankIdentificatorCode
+
+P
+P
+
+Character
+Character
+
+34
+11
+
+E2EReference
+DebtPartName
+DebtPartAccountNumber
+BankIdentificatorCode
+
+P
+P
+P
+P
+
+Character
+Character
+Character
+Character
+
+26
+250
+34
+11
+
+E2EReference
+DebtPartName
+
+P
+P
+
+Character
+Character
+
+26
+250
+
+AccountOrderExecution
+
+Číslo účtu pre úhradu vo forme IBAN
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená
+osoba
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+Názov účtu pre plnenie
+Číslo účtu pre úhradu vo forme IBAN
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená
+osoba
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+Názov účtu pre plnenie
+
+Exekučný príkaz
+
+Príkazy
+
+Identifikácia
+prípadu
+
+Príloha č. 2
+
+Zmena Exekučného príkazu
+
+P/N
+
+Typ
+
+Rozsah
+
+Poznámka
+
+RequestID
+
+P
+
+Numeric
+
+10,0
+
+ID žiadosti
+
+BailiffID
+
+P
+
+Numeric
+
+6
+
+ID MS SR (Justičná pokladnica alebo Súd)
+
+CaseID
+
+P
+
+Character
+
+15
+
+Číslo exekúcie v ľubovolnom formáte
+
+RecordID
+
+P
+
+Numeric
+
+10
+
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX (Defaultne vzdy hodnota 1, v pripade
+zmeny sa uvedie 2,3,4...)
+
+AssignmentID
+
+N
+
+Character
+
+15
+
+Poverenie číslo
+
+AssignedBy
+
+P
+
+Character
+
+35
+
+Poverenie vydal
+
+AssignmentDate
+
+P
+
+Date
+
+Poverenie vydané dňa
+
+PersonTypeID
+
+P
+
+Numeric
+
+Typ osoby - viď číselník - bude uvedena JP alebo Súd, typ osoby 5
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO
+
+Surname
+
+P
+
+Character
+
+55
+
+Priezvisko
+
+Name
+
+P
+
+Character
+
+55
+
+Meno
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Number
+
+4
+
+Poradové číslo organizačnej jednotky
+
+Name
+
+P
+
+Character
+
+250
+
+Názov Súdu ,ktorý vydal Príkaz (Justičná pokladnica alebo súd- trestný spor alebo súd- civilný spor),
+Meno a priezvisko pracovníka Súdu, ktorý vybavuje, jeho tel. kontakt
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby)
+
+PersonTypeID
+
+P
+
+Character
+
+1
+
+Typ osoby - viď číselník
+
+RC
+
+P
+
+Character
+
+10
+
+Rodné číslo (povinné pre FO a FOP)
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO (povinne pre FOP a PO tuzemsku)
+
+Surname
+
+N
+
+Character
+
+55
+
+Priezvisko (povinne pre cudzinca - zahranicna FO)
+
+Name
+
+N
+
+Character
+
+55
+
+Meno (povinne pre cudzinca - zahranicna FO)
+
+Country Code
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby)
+
+ICO
+
+P
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Number
+
+4
+
+Poradové číslo organizačnej jednotky
+
+Name
+
+N
+
+Character
+
+250
+
+Názov (Povinne pre zahranicnu PO)
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+
+Change
+
+P
+
+Numeric
+
+2
+
+Ide o zmenu existujucej blokacie (1=Zmena pohľadávky/celkovej výšky pohľadávky, 2. Zmena oprávneného,
+3. zmena účtu dobrovolneho plnenia) - viď číselník
+
+Unblock
+
+P
+
+Numeric
+
+2
+
+Total Amount
+
+P
+
+Numeric
+
+12,2
+
+MS SR uvádza vždy "0" - odblokovať účet vo zvyšku celkovej pohľadávky podľa PNZ, resp. PNZ
+Zmena
+Suma bude rovnaká ako v riadku 41. Celková výška pohľadávky (pevná + pohyblivá suma) k dátumu zaslania
+príkazu v EUR
+
+TotalAmount Fixed part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude rovnaká ako v riadku 35 a 41. Celková výška pohľadávky pevná časť (sumár všetkých položiek
+z číselníka - vyplní sa automaticky po spočítaní všetkých položiek)
+
+TotalAmount Variable part
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula. Celková výška pohľadávky pohyblivá časť (sumár všetkých položiek z číselníka vyplní sa automaticky po spočítaní všetkých položiek)
+
+Identifikácia
+oprávnenej osoby (1..n)
+
+Person
+Dátum narodenia
+
+Company
+
+Identifikácia
+Identifikácia
+pohľadávky
+pohľadávky
+- pevné
+- pevné
+čiastky
+čiastky
+b)
+a)
+istina
+trovy
+vymáhanej
+exekútora
+pohľadávky
+1...n)
+1...n)
+
+DebtFixed
+
+DebtFixed
+
+Zoznam položiek pohľadávky
+
+DebtFixedPart
+
+trovy exekútora
+
+DebtPartCostExecutors
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+Čiastka (vždy rovnaká ako v riadku 35)
+
+DebtFixed
+Zoznam položiek pohľadávky
+
+DebtFixedPart
+
+istina vymáhanej pohľadávky
+
+DebtPartPrincipal
+DebtPartAmount
+
+P
+
+Numeric
+
+12,2
+
+príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+
+DebtPartAccessories
+DebtPartAmount
+
+Čiastka bude vždy "0" nula.
+Zoznam položiek pohľadávky
+
+DebtFixedPart
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+DebtFixed
+Zoznam položiek pohľadávky
+
+DebtFixedPart
+
+trovy oprávneného
+
+DebtPartCostEntitledPerson
+DebtPartAmount
+DebtVariable
+
+entifikácia pohľadávky pohyblivé čiastky
+a)
+trovy exekútora 1...n
+
+Dátum narodenia (povinné pre cudzinca - zahranicna FO)
+
+Company
+
+Identifikácia
+pohľadávky
+- pevné
+Identifikácia
+čiastky
+pohľadávky
+c)
+- pevné
+príslušenst
+čiastky
+vo
+d)
+vymáhanej
+trovy
+pohľadávky
+oprávnenéh
+priznané
+o 1...n)
+exekučným
+titulom
+1...n)
+
+Identifikácia
+Pohľadávky
+
+Identifikácia
+povinnéj osoby (1...n)
+
+Person
+
+DebtVariablePart
+
+P
+
+Numeric
+
+12,2
+
+Čiastka bude vždy "0" nula.
+
+Exekucny prikaz – zmena
+
+Príkazy
+
+Identifikácia pohľadávky pohyblivé
+c)
+príslušenstvo vymáhanej
+pohľadávky priznané exekučným
+titulom 1...n
+
+Identifikácia pohľadávky pohyblivé čiastky
+b)
+istina vymáhanej pohľadávky 1...n
+
+Identifikácia pohľadávky pohyblivé čiastky
+a)
+trovy exekútora 1...n
+
+Príloha č. 2
+
+trovy exekútora
+
+DebtPartCostExecutors
+
+úrok od dátumu zaslania príkazu
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Periodicity
+
+P
+
+Character
+
+2
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Periodicity
+
+P
+
+Character
+
+2
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Periodicity
+
+P
+
+Character
+
+2
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+InterestDateStart
+
+P
+
+Date
+
+InterestDateEnd
+
+N
+
+Date
+
+Principal
+
+P1
+
+Numeric
+
+12,2
+
+Periodicity
+
+P
+
+Character
+
+2
+
+InterestRate
+
+P1
+
+Numeric
+
+3,5
+
+InterestValue
+
+P2
+
+Numeric
+
+12,2
+
+P
+
+Numeric
+
+1
+
+Pokyn na realizovanie exekúcie (voľba z číselníka: jeden účet alebo viac účtov)
+MS SR vyplní "1". MS SR uvádza vždy len jeden účet . Zvyšné účty budú rovnaké.
+1. účet MS SR (JP alebo Sud) => (povinne musí vyplniť jeden účet). Tj.povinne musí vyplniť účet pre poľe
+pohľadávky typu a), pričom na tento účet budú poukázané aj ostatné typy pohľadávok
+
+DebtPartAccountNumber
+
+P
+
+Character
+
+34
+
+Číslo účtu pre úhradu vo forme IBAN
+
+BankIdentificatorCode
+
+P
+
+Character
+
+11
+
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená osoba
+
+E2EReference
+
+P
+
+Character
+
+26
+
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+
+DebtPartName
+
+P
+
+Character
+
+250
+
+Názov účtu pre plnenie
+
+DebtPartAccountNumber
+
+P
+
+Character
+
+34
+
+Číslo účtu pre úhradu vo forme IBAN
+
+BankIdentificatorCode
+
+P
+
+Character
+
+11
+
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená osoba
+
+E2EReference
+
+P
+
+Character
+
+26
+
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+
+DebtPartName
+
+P
+
+Character
+
+250
+
+Názov účtu pre plnenie
+
+DebtPartAccountNumber
+
+P
+
+Character
+
+34
+
+Číslo účtu pre úhradu vo forme IBAN
+
+BankIdentificatorCode
+
+P
+
+Character
+
+11
+
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená osoba
+
+E2EReference
+
+P
+
+Character
+
+26
+
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+
+DebtPartName
+
+P
+
+Character
+
+250
+
+Názov účtu pre plnenie
+
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+
+DebtVariable
+DebtVariablePart
+istina vymáhanej pohľadávky
+
+DebtPartPrincipal
+
+úrok od dátumu zaslania príkazu
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+
+DebtVariable
+DebtVariablePart
+príslušenstvo vymáhanej pohľadávky priznané exekučným titulom
+
+DebtPartAccessories
+
+úrok od dátumu zaslania príkazu
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+
+Účet pre
+plnenie
+Účet pre
+pevnej a
+Účet pre
+plnenie
+pohyblivej
+plnenie
+pevnej a
+pohľadávky
+pevnej a
+pohyblivej
+typu
+pohyblivej
+pohľadávky
+c)
+pohľadávky
+typu
+príslušenst
+typu
+b)
+vo
+a)
+istina
+vymáhanej
+trovy
+pohľadávky vymáhanej
+exekútora
+priznané pohľadávky
+exekučným
+titulom
+
+Pokyn na realizovanie
+
+Identifikácia pohľadávky pohyblivé čiastky
+d)
+trovy oprávneného 1...n
+
+DebtVariable
+DebtVariablePart
+trovy oprávneného
+
+DebtPartCostEntitledPerson
+
+úrok od dátumu zaslania príkazu
+Úrok do dátumu
+Úrok zo sumy (položka "Principal") sa vyplní spolu s položkou "Interest Rate". V tomto pripade sa nevyplní
+položka "Interest Value"
+Opakovanie (polžoka "Periodicita") (denný/mes./ročný, dd/mm/rr)
+Úroková sadzba, vyjadrená v % sa vyplní vždy spolu s položkou "Principal". V tomto pripade sa nevyplní
+položka "Interest Value"
+Čiastka bude vždy "0" nula.Fixná čiastka. Ak sa vyplní polžoka"InterestValue" tak sa nevyplní položka
+"Principal" a "Interest Rate"
+
+AccountOrderExecution
+
+Exekucny prikaz – zmena
+
+Účet pre
+plnenie
+pevnej a
+pohyblivej
+pohľadávky
+typu
+d)
+trovy
+oprávnenéh
+o
+
+Príloha č. 2
+
+Príkazy
+
+DebtPartAccountNumber
+
+P
+
+Character
+
+34
+
+Číslo účtu pre úhradu vo forme IBAN
+
+BankIdentificatorCode
+
+P
+
+Character
+
+11
+
+Osem alebo jedenásť miestny identifikačný kód banky (BIC) - ak je zahraničná opravnená osoba
+
+E2EReference
+
+P
+
+Character
+
+26
+
+Uvádzať v tvare VS/SS/KS (používajú sa aj lomitka)
+
+DebtPartName
+
+P
+
+Character
+
+250
+
+Názov účtu pre plnenie
+
+Exekucny prikaz – zmena
+
+Príkazy
+
+Uvoľnenie čiastky (1..n)
+
+Identifikácia
+povinnéj osoby (1..n)
+
+Identifikácia
+prípadu
+
+Príloha č. 2
+
+Súhlas exekútora s uvoľnením fin.prostriedkov
+
+Súhlas s uvoľnením sumy P/N
+nepodliehajúcej exekúcii
+
+Typ
+
+Rozsah Poznámka
+
+RequestID
+BailiffID
+CaseID
+RecordID
+
+P
+P
+P
+P
+
+Numeric
+Numeric
+Character
+Numeric
+
+10,0
+6
+15
+10
+
+ID žiadosti
+ID MS SR (Justičná pokladnica alebo Súd)
+Číslo exekúcie v ľubovolnom formáte
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX
+(Defaultne vzdy hodnota 1, v pripade zmeny sa uvedie 2,3,4...)
+
+AssignmentID
+AssignedBy
+AssignmentDate
+PersonTypeID
+Person
+RC
+BirthDay
+ICO
+Surname
+Name
+Country Code
+Company
+ICO
+SNOU
+Name
+CountryCode
+DebtPartAccountNumber
+
+P
+P
+P
+P
+
+Character
+Character
+Date
+Numeric
+
+15
+35
+
+Poverenie číslo
+Poverenie vydal
+Poverenie vydané dňa
+Typ osoby - viď číselník
+
+P
+N
+N
+P
+P
+N
+
+Character
+Date
+Character
+Character
+Character
+Numeric
+
+10
+
+P
+N
+N
+N
+P
+
+Character
+Number
+Character
+Numeric
+Character
+
+8
+4
+250
+3
+34
+
+IČO povinné okrem PO bez prideleného IČO
+Poradové číslo organizačnej jednotky
+Názov (Povinne pre zahranicnu PO)
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+číslo účtu z ktorého má byť suma uvoľnená. Číslo účtu vo formáte
+IBAN
+
+Amount
+
+P
+
+Numeric
+
+12,2
+
+výška uvoľnenej čiastky v EUR
+
+Frequency
+
+P
+
+Numeric
+
+2
+
+0 jednorázovo, 1 - mesačne
+
+1
+
+8
+55
+55
+3
+
+Rodné číslo (povinné pre FO a FOP)
+Dátum narodenia (povinné pre cudzinca - zahranicna FO)
+IČO (povinne pre FOP a PO tuzemsku)
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+Kód krajiny (povinný podľa typu osoby)
+
+Príloha č. 2
+
+Príkazy
+
+Súhlas exekútora s uvoľnením fin.prostriedkov
+
+Príkazy
+
+Identifikácia
+povinnéj osoby (1..n)
+
+Identifikácia
+prípadu
+
+Príloha č. 2
+
+Zrušenie exekučného príkazu
+
+Zrušenie Exekučného
+príkazu
+RequestID
+BailiffID
+CaseID
+RecordID
+
+P/N
+
+Typ
+
+Rozsah Poznámka
+
+P
+P
+P
+P
+
+Numeric
+Numeric
+Character
+Numeric
+
+10,0
+6
+15
+10
+
+ID žiadosti
+ID MS SR (Justičná pokladnica alebo Súd)
+Číslo exekúcie v ľubovolnom formáte
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX
+(Defaultne vzdy hodnota 1, v pripade zmeny sa uvedie 2,3,4...)
+
+AssignmentID
+AssignedBy
+AssignmentDate
+PersonTypeID
+Person
+RC
+BirthDay
+ICO
+Surname
+Name
+Country Code
+Company
+ICO
+SNOU
+Name
+CountryCode
+DescribedRevokeCause
+
+P
+P
+P
+P
+
+Character
+Character
+Date
+Numeric
+
+15
+35
+
+Poverenie číslo
+Poverenie vydal
+Poverenie vydané dňa
+Typ osoby - viď číselník
+
+P
+N
+N
+P
+P
+N
+
+Character
+Date
+Character
+Character
+Character
+Numeric
+
+10
+8
+55
+55
+3
+
+Rodné číslo (povinné pre FO a FOP)
+Dátum narodenia (povinné pre cudzinca - zahranicna FO)
+IČO (povinne pre FOP a PO tuzemsku)
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+Kód krajiny (povinný podľa typu osoby)
+
+P
+N
+N
+N
+P
+
+Character
+Number
+Character
+Numeric
+Character
+
+8
+4
+250
+3
+255
+
+IČO povinné okrem PO bez prideleného IČO
+Poradové číslo organizačnej jednotky
+Názov (Povinne pre zahranicnu PO)
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+Popísaný dôvod zrušenia exekučného príkazu
+
+1
+
+Príloha č. 2
+
+Príkazy
+
+Zrušenie exekučného príkazu
+
+Príkazy
+
+Odblokovanie účtu (1...n)
+
+Dôvod
+zastavenia/odblokovania
+
+Identifikácia
+povinnéj osoby (1..n)
+
+Identifikácia
+prípadu
+
+Príloha č. 2
+
+Zastavenie exekúcie/úplné odblokovanie účtov
+
+Zastavenie exekúcie/
+Úplné odblokovanie účtov
+
+P/N
+
+Typ
+
+Rozsah Poznámka
+
+RequestID
+BailiffID
+CaseID
+RecordID
+
+P
+P
+P
+P
+
+Numeric
+Numeric
+Character
+Numeric
+
+10,0
+6
+15
+10
+
+AssignmentID
+AssignedBy
+AssignmentDate
+PersonTypeID
+Person
+RC
+BirthDay
+ICO
+Surname
+Name
+Country Code
+Company
+ICO
+SNOU
+Name
+CountryCode
+DateExecutionStopped
+
+P
+P
+P
+P
+
+Character 15
+Character 35
+Date
+Numeric
+
+Poverenie číslo
+Poverenie vydal
+Poverenie vydané dňa
+Typ osoby - viď číselník
+
+P
+N
+N
+P
+P
+N
+
+Character
+Date
+Character
+Character
+Character
+Numeric
+
+10
+
+Rodné číslo (povinné pre FO a FOP)
+Dátum narodenia (povinné pre cudzinca - zahranicna FO)
+IČO (povinne pre FOP a PO tuzemsku)
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+Kód krajiny (povinný podľa typu osoby)
+
+P
+N
+N
+N
+N
+
+Character
+Number
+Character
+Numeric
+Date
+
+8
+4
+250
+3
+
+IČO povinné okrem PO bez prideleného IČO
+Poradové číslo organizačnej jednotky
+Názov (Povinne pre zahranicnu PO)
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu PO)
+Dátum zastavenia exekúcie - povinne vyplnený v prípade zastavenia
+exekúcie
+
+Cause
+
+P
+
+Numeric
+
+2
+
+Dôvod zastavenia/odblokovania
+
+AccountEnable
+
+P
+
+Bit
+
+Account number
+
+P
+
+Character
+
+8
+55
+55
+3
+
+ID žiadosti
+ID MS SR (Justičná pokladnica alebo Súd)
+Číslo exekúcie v lubovolnom formate
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX
+(Defaultne vzdy hodnota 1, v pripade zmeny sa uvedie 2,3,4...)
+
+0= odblokovanie všetkých účtov všetkých povinných
+1 1 = odblokovanie len konkrétnych účtov
+
+34 číslo útu v tvare IBAN. Povinné ak AccountEnable = 1
+
+Identifikácia
+prípadu
+
+Príloha č. 2
+
+Príkazy
+
+Odklad exekúcie /zrušenie odkladu
+
+P/N
+
+Typ
+
+Rozsah
+
+Poznámka
+
+RequestID
+
+P
+
+Numeric
+
+10,0
+
+ID žiadosti
+
+BailiffID
+
+P
+
+Numeric
+
+6
+
+ID MS SR (Justičná pokladnica alebo Súd)
+
+CaseID
+
+P
+
+Character
+
+15
+
+Číslo exekúcie v lubovolnom formate
+
+RecordID
+
+P
+
+Numeric
+
+10
+
+Identifikácia príkazov pre rozdielnych povinných v rámci
+jednej EX (Defaultne vzdy hodnota 1, v pripade zmeny sa
+uvedie 2,3,4...)
+
+AssignmentID
+
+P
+
+Character
+
+15
+
+Poverenie číslo
+
+AssignedBy
+
+P
+
+Character
+
+35
+
+Poverenie vydal
+
+AssignmentDate
+
+P
+
+Date
+
+PersonTypeID
+
+P
+
+Numeric
+
+1
+
+Typ osoby - viď číselník
+
+RC
+
+P
+
+Character
+
+10
+
+Rodné číslo (povinné pre FO a FOP)
+
+BirthDay
+
+N
+
+Date
+
+ICO
+
+N
+
+Character
+
+8
+
+IČO (povinne pre FOP a PO tuzemsku)
+
+Surname
+
+P
+
+Character
+
+55
+
+Priezvisko (povinne pre FO tuzemca, cudzinca, FOP)
+
+Name
+
+P
+
+Character
+
+55
+
+Meno (povinne pre FO tuzemca, cudzinca, FOP)
+
+Country Code
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby)
+
+ICO
+
+P
+
+Character
+
+8
+
+IČO povinné okrem PO bez prideleného IČO
+
+SNOU
+
+N
+
+Number
+
+4
+
+Poradové číslo organizačnej jednotky
+
+Name
+
+N
+
+Character
+
+250
+
+Názov (Povinne pre zahranicnu PO)
+
+CountryCode
+
+N
+
+Numeric
+
+3
+
+Kód krajiny (povinný podľa typu osoby - pre zahranicnu
+PO)
+
+ReasonRevoke
+
+P
+
+Numeric
+
+2
+
+Dôvod odkladu/zrušenia - viď číselník
+
+Poverenie vydané dňa
+
+Identifikácia
+povinnéj osoby (1..n)
+
+Person
+Dátum narodenia (povinné pre cudzinca - zahranicna FO)
+
+Company
+
+Odklad exekúcie/zrušenie odkladu
+
+Príloha č. 2
+
+Príkazy
+
+Obálka odosielanej správy
+položka
+FPcertEP
+FPcertCR
+TypeID
+MetaData
+
+P/N
+P
+P
+P
+N
+
+Typ
+binary
+binary
+Numeric
+
+Rozsah
+length=20
+length=20
+6
+
+Poznámka
+Fingerprint certifikátu použitého na el. podpis
+Fingerprint certifikátu použitého na šifrovanie
+Typ správy (viď číselník )
+štrukturované data potrebné pre rozšírené spracovanie správy na strane CRIF SK; pre komunikaciu exekútorov s
+bankami povinné
+
+Numeric
+Numeric
+
+10
+2
+
+ID správy v systéme odosielateľa
+Povinné pre Zmena_Príkaz na začatie vymáhania pohľadávky, Zmena_exekučný príkaz
+Odosielateľ
+
+OrganisationID
+OrgUnitID
+
+P
+N
+P
+P
+N
+
+Numeric
+Character
+
+6
+150
+
+ID MS SR, ktoré prideľuje CRIF SK
+
+PersonID
+
+N
+
+Character
+
+150
+
+ID osoby, ktorá vybavuje Žiadosť/Príkaz
+
+OrgUnitName
+
+N
+
+Character
+
+150
+
+Názov organizácie ( napr. Justičná pokladnica; Krajský súd Banská Bystrica a pod.)
+
+RequestID
+Change
+Sender
+
+ID organizácie: 1 (Justičná pokladnica); 2 (Súd – trestný spor); 3 (Súd – civilný spor) - uvádzať len číselný údaj
+
+Numeric
+
+6
+
+Povinné pre exekútora ak nastane niektorý zo stavov BailiffChange (viď číselník)
+Zoznam adresátov
+Položka zoznamu – môže byť ID organizácie / ID skupiny
+
+N (1...n) podla
+poctu povinných
+osôb v príkaze
+
+Character
+
+length=20
+
+ID žiadosti v prípade,že sa jedná o odpoveď; Id odpovede v prípade, že ide o Príkaz. Povinné vždy ak sa posiela Príkaz
+
+Mesage
+Encryption
+EncryptedKey
+EncryptedIV
+EncryptedMsgBody
+PlainTextMsgSignature
+
+P
+P
+P
+P
+
+binary
+binary
+binary
+binary
+
+128-256
+128-256
+262144
+128-256
+
+Zašifrovaný kľúč (RSA PKCS #1 Key Exchange)
+Zašifrovaný inicializačný vektor (RSA PKCS #1 Key Exchange)
+Vlastný zašifrovaný obsah správy (žiadosti/odpovede)
+Podpis nezašifrovaného obsahu správy (pre účely overenia pôvodu správy MS SR/bankou)
+
+Obálka priímanej správy
+položka
+MsgId
+
+P/N
+P
+
+Character
+
+length=20
+
+Poznámka
+Jednoznačná ID správy v systéme CRIF SK, číslo bude pridelené na strane CRIF SK
+
+FPcertEP
+FPcertCR
+TypeID
+MetaData
+
+P
+P
+P
+N
+
+binary
+binary
+Numeric
+
+length=20
+length=20
+6
+
+Fingerprint certifikátu použitého na el. podpis
+Fingerprint certifikátu použitého na šifrovanie
+Typ správy (viď číselník )
+Štrukturované data potrebné pre rozšírené spracovanie správy na strane CRIF SK, pre komunikaciu exekútorov s
+bankami povinné
+
+RequestID
+Change
+Sender
+
+P
+N
+P
+P
+N
+
+Numeric
+Numeric
+
+10
+2
+
+ID správy v systéme odosielateľa
+Povinné pre Zmena_Príkaz na začatie vymáhania pohľadávky, Zmena_exekučný príkaz
+Odosielateľ
+
+Numeric
+Character
+
+6
+150
+
+ID MS SR, ktoré prideľuje CRIF SK
+
+PersonID
+OrgUnitName
+OriginalSender
+Recipients
+ID
+...
+InReplyToID
+
+N
+N
+N
+P
+P
+
+Character
+Character
+
+150
+150
+
+Numeric
+
+6
+
+ID osoby, ktorá vybavuje Žiadosť/Príkaz
+Názov organizácie ( napr. Justičná pokladnica; Krajský súd Banská Bystrica a pod.)
+Povinné pre exekútora ak nastane niektorý zo stavov BailiffChange (viď číselník)
+Zoznam adresátov
+Položka zoznamu – môže byť ID organizácie / ID skupiny
+
+N (1...n) podla
+poctu povinných
+osôb v príkaze
+
+Character
+
+length=20
+
+ID žiadosti v prípade,že sa jedná o odpoveď; Id odpovede v prípade, že ide o Príkaz. Povinné vždy ak sa posiela Príkaz.
+
+DateCreated
+DateReceived
+Mesage
+Encryption
+EncryptedKey
+EncryptedIV
+EncryptedMsgBody
+PlainTextMsgSignature
+
+P
+P
+
+DateTime
+DateTime
+
+P
+P
+P
+P
+
+binary
+binary
+binary
+binary
+
+128-256
+128-256
+262144
+128-256
+
+Zašifrovaný kľúč (RSA PKCS #1 Key Exchange)
+Zašifrovaný inicializačný vektor (RSA PKCS #1 Key Exchange)
+Vlastný zašifrovaný obsah správy (žiadosti/odpovede)
+Podpis nezašifrovaného obsahu správy (pre účely overenia pôvodu správy MSSR/bankou)
+
+Metadata:
+CaseID
+
+P/N
+P
+
+Character
+
+15
+
+Poznámka
+Číslo exekúcie v ľubovolnom formáte
+
+OriginalSender
+Recipients
+ID
+...
+InReplyToID
+
+OrganisationID
+OrgUnitID
+
+N
+P
+P
+
+ID organizácie: 1 (Justičná pokladnica); 2 (Súd – trestný spor); 3 (Súd – civilný spor) - uvádzať len číselný údaj
+
+Dátum a čas vytvorenia správy
+Dátum a čas uloženia správy na DUB v súlade s definíciou v zmluve
+
+Záhlavie
+
+Príloha č. 2
+
+Príkazy
+
+Hash
+
+P (1...n) podla
+poctu povinných
+osôb v príkaze
+
+binary
+
+DateExecutionStart
+
+P
+
+Date
+
+length=20
+
+Zakódovany identifikator povinnej osoby. V prípade Zmena_Príkaz na začatie exekúcie - ak bola zvolená možnosť
+Change 4, je potrebné uviesť aj HASH pôvodnej a novej povinnej osoby
+Dátum začatia exekúcie
+
+BailiffChange P
+OriginalBailiffID N
+RecordID P
+
+Numeric
+Numeric
+Numeric
+
+1
+6
+10
+
+Poznámka
+1=Náhradník/Nástupca, 2= Zástupca (viď číselník)
+ID pôvodného exekútora, povinné ak je zvolený Náhradník/Nástupca
+Identifikácia príkazov pre rozdielnych povinných v rámci jednej EX (Defaultne vzdy hodnota 1, v pripade zmeny sa
+uvedie 2,3,4...)
+
+OriginalCaseID N
+
+Character
+
+15
+
+povinné ak je zvoleny Náhradník/Nástupca (ak je zvolený Zástupca OriginalCaseID/OriginalAssignmentID sa nevyplna)
+
+OriginalAssignmentID N
+
+Character
+
+15
+
+povinné ak je zvoleny Náhradník/Nástupca (ak je zvolený Zástupca OriginalCaseID/OriginalAssignmentID sa nevyplna)
+
+OriginalSender:
+
+obálka správy obsahuje údaje potrebné pre správne spracovanie a doručenie samotnej správy od odosielateľa k adresátom,
+samotná správa (dokument, formulár) je vložený do obálky zašifrovaný a podpísaný
+adresátom môže byť jednotlivá organizácia,alebo skupinový adresát (všetky banky),
+jedna správa môže byť adresovaná viacerým adresátom
+
+Záhlavie
+
+Príloha č. 2
+
+Príkazy
+
+TypeID
+2
+3
+12
+13
+401
+402
+403
+404
+405
+406
+407
+408
+Identifikácia povinného
+PersonTypeID
+1
+2
+3
+4
+5
+
+Typ správy
+žiadosť - stavy účtov
+iná žiadosť
+informácia - stavy účtov
+iná informácia
+príkaz na začatie exekúcie
+zmena_príkaz na začatie exekúcie
+exekučný príkaz
+zmena_exekučný príkaz
+súhlas MS SR s uvoľnením sumy nepodliehajúcej exekúcii
+zrušenie exekučného príkazu
+zastavenie_odblokovanie
+odklad exekúcie_zrušenie odkladu
+
+typ
+FO s prideleným RČ
+FO podnikateľ
+PO s prideleným IČO
+FO bez prideleného RČ
+PO zahraničná bez prideleného IČO
+
+Country code
+Kód OSN podľa aktuálnej Vyhlášky štatistického úradu Slovenskej republiky, ktorou sa vydáva Štatistický číselník krajín
+použije sa 3-miestny číselný kód, element <Code>
+Change
+1
+2
+3
+4
+
+popis
+Zmena pohľadávky/celková výška pohľadávky
+Zmena oprávneného
+Zmena účtu dobrovolneho plnenia
+Zmena povinného (možnosť použitia len v Zmena_Príkaz na začatie exekúcie)
+
+Unblock
+0 odblokovať účet vo zvyšku celkovej pohľadávky podľa PNZ, resp. PNZ Zmena
+1 neodblokovať účet vo zvyšku celkovej pohľadávky podľa PNZ, resp. PNZ Zmena
+ReasonRevoke
+
+popis
+1 odklad exekúcie s odblokovaním účtu
+2 odklad exekúcie s blokovaním účtu
+3 zrušenie odkladu
+
+Cause
+1
+2
+3
+4
+AccountOrderExecution
+
+Číselník
+
+popis
+dlh vyrovnaný v plnom rozsahu
+dohodnutý splátkový kalendár
+iný spôsob vedenia exekúcie
+iný dôvod
+
+popis
+1 účet MS SR (JP alebo Sud) => (povinne musí vyplniť jeden účet)
+2 viac účtov => povinne uviesť toľko účtov, koľko typov pohľadávok vyplnil (max môže vyplniť 4 typy = a), b), c) d))
+
+Frequency
+0 jednorázovo
+1 mesačne
+BailiffCHange
+1 Náhradník/Nástupca
+2 Zástupca
+Sender OrgUnitID
+1 Justičná pokladnica
+2 Súd- trestný spor
+3 Súd- civilný spor
+
+povinne vyplnené položky
+rodné číslo
+rodné číslo, IČO
+IČO
+meno, priezvisko, dátum narodenia, kód krajiny (cudzozemec)
+názov, kód krajiny
+
+Príloha č.2 Zmluvy o spolupráci a technickej podpore
+Architektúra riešenia
+
+MS
+MSA
+MSD
+
+dátový uzol MS SR
+aplikačný server MS SR, umožňuje komunikáciu cez webovú službu
+databáza MS SR, slúži na výmenu dát medzi zónami MS a DU
+
+DU
+DUA
+DUD
+
+dátový uzol bánk
+aplikačný server DU, umožňuje komunikáciu Bánk cez webovú službu
+databáza DU v ktorej sú uložené prenášané správy (t.j. Žiadosti, Informácie, Príkazy),
+certifikáty s verejnými kľúčmi a prístupové oprávnenia klientov
+
+Uvedené skratky sú použité v ďalšom texte.
+1.1
+
+Možnosti pripojenia klientov
+
+Klientom je spoločnosť (MS SR alebo Banka) jednoznačne identifikovaná menom, heslom a
+certifikátom. Každý klient má pridelený jeden prístup.
+Ministerstvo spravodlivosti Slovenskej republiky (MS SR)
+Informačný systém (IS) MS SR komunikuje cez privátnu linku s webovou službou HTTP
+protokolom so šifrovaným SOAP obsahom a umožňuje pripojenie jednotlivých
+pobočiek/užívateľov
+Banka
+IS Banky komunikuje cez privátnu linku s webovou službou Dátového uzla HTTP protokolom so
+šifrovaným SOAP obsahom
+
+1.2
+
+Bezpečnostné aspekty
+
+Výmena dát medzi zónami „Dátový uzol MS SR“ (MS) a „Dátový uzol bánk“ (DU) prebieha
+jednosmerne zo strany DU. Komunikačná služba DUA sa dopytuje na nové požiadavky MS a
+ukladá zasielané správy. Neexistuje žiadny aktívny prístup smerom MS – DU.
+Klient je pri komunikácii vždy overený prihlasovacím menom, heslom a certifikátom.
+Komunikácia je zabezpečená - zasielané dáta sú šifrované od chvíle vytvorenia spojenia klient –
+server a nie je možné ich zneužiť.
+1.2.1
+
+Certifikáty
+
+Každý účastník elektronickej komunikácie (vrátane serverov MSA, DUA, DUD) používa vlastný
+certifikát, ktorý je vydaný a ktorého podmienky používania sú definované na základe samostatnej
+zmluvy medzi účastníkmi elektronickej komunikácie a certifikačnou autoritou. Za bezpečnú
+manipuláciu a ochranu privátneho kľúča je zodpovedný jeho držiteľ, rovnako ako zodpovedá za
+prípadné škody spôsobené porušením tejto povinnosti.
+Certifikáty zabezpečujú:
+· dôvernosť informácií - neautorizované subjekty nemajú možnosť prístupu k dôverným
+informáciám
+
+Príloha č.2 Zmluvy o spolupráci a technickej podpore
+Architektúra riešenia
+
+·
+
+o autentifikácia klienta
+o šifrovanie obsahu správ
+integritu - informácie sú zabezpečené voči neautorizovanej modifikácii digitálnym
+podpisom založeným na PKI (ďalej len „digitálny podpis“).
+
+Klient môže použiť samostatné certifikáty pre autentifikáciu počas nadväzovania spojenia
+podpisovanie/šifrovanie obsahu správ.
+
+a
+
+Systém umožňuje:
+· evidenciu certifikátov s verejnými kľúčmi,
+· zaevidovanie nového certifikátu vo fáze obnovy,
+· označenie certifikátu ako neplatného na žiadosť klienta (technické problémy, diskreditácia
+certifikátu).
+Certifikáty s verejnými kľúčmi sú evidované na DUD a replikované na MSD pre zabezpečenie
+funkcií:
+· zaslanie jednoznačného identifikátora certifikátu požadovaného klienta
+· zaslanie certifikátu podľa požadovaného jednoznačného identifikátora
+Potrebné certifikáty si Banky a MS zabezpečia v spoločnosti D. Trust Certifikačná Autorita, a.s.,
+(DTCA) - výhradný poskytovateľ certifikačných služieb akreditovanej certifikačnej autority První
+certifikační autorita, a.s., Praha (I.CA) v Slovenskej republike.
+Typ certifikátu – technologický (serverový) certifikát, HASH algoritmus SHA-2, dĺžka
+kryptografických kľúčov pre RSA 2048 Bits
+Operačné systémy Microsoft a podpora SHA-2 certifikátov
+Operačný systém
+Windows Vista, Windows 7 a novší
+Windows Server 2008, 2008 R2 a novší
+
+Podpora SHA-2
+Áno
+Áno
+
+Proces vytvorenia žiadosti, vydania a obnovenia platnosti technologického ( serverového)
+certifikátu je popísaný na webových stránkach spoločnosti I.CA (www.ica.cz/Slovensky).
+Súkromné kľúče k certifikátom je možné uchovávať na pevnom disku počítača, prípadne na
+bezpečnom zariadení pre generovanie a uchovávanie kľúčov.
+Certifikáty s verejnými časťami kľúčov sú uložené a udržiavané v DND poverenými pracovníkmi
+CRIF SK.
+Podmienky používania certifikátov sú definované v zmluve medzi účastníkom/držiteľom
+certifikátu a certifikačnou autoritou
+Držiteľ certifikátu je povinný najmä:
+a) zaobchádzať so svojim súkromným kľúčom s náležitou starostlivosťou tak, aby nemohlo
+dôjsť k zneužitiu jeho súkromného kľúča,
+b) uvádzať presné, pravdivé a úplné informácie vo vzťahu k certifikátu svojho verejného
+kľúča,
+c) v prípade prezradenia súkromného kľúča druhej osobe je povinný túto skutočnosť
+bezodkladne oznámiť predpísaným spôsobom certifikačnej autorite a CRIF SK a súčasne
+vykonať všetky prípustné opatrenia na zamedzenie alebo aspoň obmedzenie vzniku
+
+Príloha č.2 Zmluvy o spolupráci a technickej podpore
+Architektúra riešenia
+
+prípadných škôd z dôvodu neoprávneného použitia prostriedku na vytvorenie digitálneho
+podpisu.
+Komunikácia medzi držiteľom certifikátu/účastníkom elektronickej komunikácie a CRIF SK
+prebieha mailom na základe zoznamu poverených osôb. Pre potvrdenie prijatia správy bude
+použitý telefonický kontakt a mailom zaslaná informácia kontaktným osobám.
+Zrušenie certifikátu
+1. držiteľ certifikátu ukončí platnosť certifikátu zaslaním žiadosti do DTCA a zároveň o tejto
+skutočnosti upovedomí CRIF SK,
+2. CRIF SK preverí požiadavku telefonátom osobe ktorá zaslala požiadavku na t.č. uvedené v
+zozname kontaktných osôb,
+3. v prípade potvrdenia požiadavky CRIF SK certifikát bezodkladne zablokuje pre ďalšie
+použitie v systéme elektronickej komunikácie,
+4. CRIF SK bude bezodkladne informovať mailom kontaktné osoby danej spoločnosti o
+vybavení požiadavky,
+5. v prípade zneplatnenia certifikátu bude o tejto skutočnosti CRIF SK bezodkladne
+informovať všetkých účastníkov elektronickej komunikácie.
+Nahlásenie používaného certifikátu:
+1. účastník elektronickej komunikácie zašle CRIF SK sériové číslo certifikátu, účel použitia a
+termín predpokladaného nasadenia,
+2. CRIF SK preverí požiadavku,
+3. v prípade úspešného preverenia bude certifikát zaevidovaný pre použitie podľa požiadavky,
+4. CRIF SKzašle informáciu o vybavení požiadavky.
+CRIF SK je povinný kontrolovať dobu platnosti certifikátov.
+
+1.2.2
+
+Prístupy
+
+Zoznam klientov s priradenými identifikátormi je vytvorený a aktualizovaný na DUD, replikovaný
+spoločne s certifikátmi s verejnými kľúčmi na MSD.
+Banky – meno, heslo (hash) a certifikát, voči ktorým sa Banka autentifikuje, sú uložené na DUD
+MS – meno, heslo (hash) a certifikát, voči ktorému sa MS autentifikuje sú uložené na MSD
+
+1.3
+
+Výmena správ
+
+Komunikáciu môžeme rozdeliť podľa smeru toku dát:
+A.
+
+Správa zasielaná Bankou
+1. asymetrická kryptografia je použitá na tvorbu digitálneho podpisu a bezpečnú výmenu
+kľúčov pre symetrickú kryptografiu, ktorá je použitá na vlastné šifrovanie prenášaných
+údajov,
+2. webová služba potvrdí úspešné uloženie správy,
+3. výmena údajov medzi zónami DU a MS (jednosmerná zo strany DU),
+4. pri úspešnom prevzatí správy MS je nastavený príznak „stav“ zasielanej správy.
+
+Príloha č.2 Zmluvy o spolupráci a technickej podpore
+Architektúra riešenia
+
+B.
+
+Správa zasielaná MS
+1. asymetrická kryptografia je použitá na tvorbu digitálneho podpisu a bezpečnú výmenu
+kľúčov pre symetrickú kryptografiu, ktorá je použitá na vlastné šifrovanie prenášaných
+údajov,
+2. kľúč pre symetrickú kryptografiu je zašifrovaný verejným kľúčom servera DUD
+v prípade, že ide o Žiadosť
+3. webová služba potvrdí úspešné uloženie správy,
+4. výmena údajov medzi zónami DU a MS (jednosmerná zo strany DU),
+5. v prípade 2.b server DUD zašifruje získaný kľúč pre symetrickú kryptografiu verejným
+kľúčom príjemcu (banka, alebo banky) a pripraví kópiu zasielanej správy pre každú
+Banku uvedenú v zozname adresátov,
+6. pri každom úspešnom prevzatí správy bankou (viac Bánk v prípade Žiadosti) je
+nastavený príznak „stav“ zasielanej správy.
+
+Webové služby na serveroch MSA a DUA budú dostupné nepretržite mimo plánované technické
+odstávky a poruchy, príjem správ bude obmedzený podľa vopred dohodnutých časov prevádzky.
+Na Architektúru riešenia nadväzuje Technická dokumentácia, ktorá bude súčasťou zmluvnej
+dokumentácie.
+
+Príloha č. 4A Zmluvy o spolupráci a technickej podpore
+Cenový model
+
+Cenový model
+1. Poplatok za službu
+1.1 MS SR sa zaväzuje uhrádzať CRIF SK odo Dňa uvedenia IT riešenia do rutinnej
+prevádzky Poplatok za službu (ďalej len „Poplatok za službu“). Poplatok za službu je
+uvádzaný bez DPH.
+1.2 Poplatok za službu je stanovený vo výške 20 000 € (slovom dvadsaťtisíc eur) za
+Prevádzkový rok.
+2. Podpora testovania
+Štandardná podpora testovania zahŕňajúca testovanie IT riešenia v rámci podmienok
+stanovených v Zmluve, resp. Prílohách a Technickej dokumentácii bude poskytnutá
+bezplatne do Dňa uvedenia IT riešenia do rutinnej prevádzky v zmysle Prílohy č. 8 Časový
+harmonogram. Akékoľvek nadštandardné testovanie požadované zo strany MS SR nad
+rámec ako je uvedený v Zmluve, resp. Prílohách a Technickej dokumentácii môže byť zo
+strany CRIF SK spoplatnené v zmysle platného sadzobníka poplatkov CRIF SK, ktorý je
+uvedený v Tabuľke č. 1 tejto Prílohy č. 4A.
+3. Budúci vývoj systému a požiadavky na zmeny
+Ak počas platnosti a účinnosti tejto Zmluvy príde k nejakým zmenám v zmysle článku 15.1
+Zmluvy, ktoré môžu významne ovplyvniť rozsah a zložitosť IT riešenia popísaného
+v Zmluve, prípadne pri navýšení počtu zaslaných Žiadostí, t. j. prekročenie počtu 60 000
+Žiadostí počas Prevádzkového roka, Poplatok za službu môže byť upravený na základe
+vzájomnej dohody medzi zmluvnými stranami. Zmeny realizované v súlade s článkom 15.1
+budú spoplatnené sadzbami vzájomne dohodnutými v písomnej podobe.
+4. Valorizácia poplatkov
+Po uplynutí tretieho Prevádzkového roka bude Poplatok za službu uvedený v tomto
+dokumente prehodnotený na základe ročnej miery inflácie nasledovným spôsobom: ak
+kumulatívna miera inflácie počítaná od konca tretieho Prevádzkového roka Cenového
+modelu presiahne 10 % (na základe Slovenského Indexu Spotrebiteľských cien oficiálne
+uverejnenom Slovenským štatistickým úradom), Poplatok za služby platný pre nasledovné
+obdobie bude zvýšený o 50% kumulovanej miery inflácie. Kumulovaná miera inflácie bude
+v ďalších obdobiach monitorovaná na ročnej báze vždy od momentu posledného zvýšenia
+Poplatku za službu o 50 % kumulovanej miery inflácie.
+5. Fakturácia a Platobné podmienky
+5.1 MS SR sa zaväzuje zaplatiť Poplatok za službu za každý Prevádzkový rok vo výške
+uvedenej v bode 1.2 tejto Prílohy č. 4A. V prípade zániku Zmluvy pred uplynutím
+Prevádzkového roka bude Poplatok za službu MS SR zaplatený len v pomernej výške
+zodpovedajúcej počtu dní Prevádzkového roka pred zánikom Zmluvy, resp. bude
+prevyšujúca platba MS SR zo strany CRIF SK vrátená.
+5.2 Faktúra za Poplatok za službu bude obsahovať obdobie (mesiace), ktoré sú spoplatnené.
+Fakturácia sa bude realizovať kvartálne, pričom faktúra bude vystavená v prvý nasledujúci
+mesiac po danom kvartáli v každom Prevádzkovom roku.
+Splatnosť faktúry je 30 dní odo dňa jej doručenia MS SR.
+5.3 Faktúra bude zaslaná v papierovej podobe na adresu MS SR.
+5.4 Všetky iné poplatky budú fakturované na základe danej požiadavky a splatné do 30 dní
+odo dňa vystavenia faktúry.
+
+Príloha č. 4A Zmluvy o spolupráci a technickej podpore
+Cenový model
+
+Tabuľka č. 1
+Sadzobník poplatkov CRIF SK:
+Cenník Dodatočných služieb CRIF SK. Ceny sú uvedené za 1 človekodeň bez DPH
+
+Funkcia
+Project Manager
+Application Analyst
+Business Analyst
+Customer support
+Developer junior
+Developer senior
+
+Sadzba v EUR
+€
+660,00
+€
+400,00
+€
+400,00
+€
+300,00
+€
+400,00
+€
+600,00
+
+Príloha č. 4B Zmluvy o spolupráci a technickej podpore
+Cenový model
+
+Cenový model
+1.
+
+Poplatok za službu
+
+1.1
+
+Zmluvné strany sú si vedomé, že pre Banky vzniká začiatkom Prevádzkového roka, za zasielanie
+Žiadostí, Informácií a Príkazov záväzok hradiť poplatok („Poplatok za službu“) CRIF SK.
+Poplatok za službu je uvádzaný bez DPH. Zmluvné strany sa dohodli, že výška Poplatku za službu
+je zahrnutá a uvedená v Rámcovej zmluve o automatizovanej elektronickej komunikácii
+uzatvorenej medzi SBA a CRIF SK zo dňa 26.01.2016 (ďalej len „Rámcová zmluva AEK) ako
+Odplata, v čl. III. Rámcovej zmluvy AEK a zahrnutá v Zmluve o spolupráci a technickej podpore
+uzatvorenej medzi SBA a CRIF SK a FR SR, Príloha č. 4B Cenový model. Zároveň sa v rámci
+Cenového modelu tejto Zmluvy uplatňujú všetky body uvedené v Zmluve o spolupráci
+a technickej podpore uzatvorenej medzi SBA a CRIF SK a FR SR, Príloha č. 4B Cenový model.
+
+Príloha č. 5 Zmluvy o spolupráci a technickej podpore
+Parametre IT riešenia
+
+PARAMETRE IT RIEŠENIA
+Merania
+1. Dostupnosťou sa myslí dostupnosť počas pracovných hodín od 08:00 do 17:00 hod.
+v pracovných dňoch.
+2. IT riešenie bude dostupné s výnimkou vopred odsúhlasených a dohodnutých odstávok
+systému v zmysle podmienok a povinností uvedených v bode „PREHLÁSENIA,
+ĎALŠIE POVINNOSTI A ZODPOVEDNOSŤ CRIF SK“, Zmluvy o spolupráci a
+technickej podpore.
+3. Merania budú realizované na báze kalendárneho mesiaca.
+Definícia Dostupnosti
+1. Elektronický systém overí Dostupnosť Dátového uzla MS SR volaním funkcie
+IsAlive každých 10 minút počas pracovných hodín. IsAlive funkcia je časť web
+servisu poskytovaného aplikačným serverom.
+2. Elektronický systém overí Dostupnosť Dátového uzla Bánk volaním funkcie IsAlive
+každých 10 minút v čase Dostupnosti. IsAlive funkcia je časť web servisu
+poskytovaného aplikačným serverom.
+3. Dostupnosť je považovaná za potvrdenú, ak funkcia volaná procesom overovania
+dostupnosti vráti očakávanú hodnotu.
+4. IT riešenie nebude považované za nedostupné v prípade akýchkoľvek problémov
+súvisiacich s internetom alebo sieťovými prvkami, ktoré sú mimo kontroly CRIF SK
+a v prípadoch uvedených v bode „PREHLÁSENIA, ĎALŠIE POVINNOSTI
+A ZODPOVEDNOSŤ CRIF SK“, Zmluvy o spolupráci a technickej podpore.
+(ďalej len “Dostupnosť”)
+Definícia Výkonnosti
+1. Výkonnosť Dátového uzla MS SR je určená na základe zaznamenanej doby trvania
+komunikácie s MS SR. Doba trvania je zaznamenaná počas komunikácie klient –
+server, pri volaní funkcie SendMessage. Funkcia SendMessage je časťou web servisu
+poskytovaného aplikačným serverom.
+2. Výkonnosť Dátového uzla Bánk je určená na základe zaznamenanej doby trvania
+komunikácie s Bankou. Doba trvania je zaznamenaná počas komunikácie klient –
+server, pri volaní funkcie SendMessage. Funkcia SendMessage je časťou web servisu
+poskytovaného aplikačným serverom.
+3. Výkonnosť IT riešenia bude meraná v rámci IT riešenia, akýkoľvek problém
+s internetom, VPN alebo sieťovými prvkami, ktoré sú mimo kontroly CRIF SK
+nebudú zahrnuté.
+4.
+
+Každá Žiadosť, Informácia a každý Príkaz, poslaný MS SR alebo bankou do IT
+riešenia sa rozumie ako “transakcia”. Pod transakciou sa teda rozumie nová Žiadosť,
+
+Príloha č. 5 Zmluvy o spolupráci a technickej podpore
+Parametre IT riešenia
+
+nový Príkaz, opakovaná Žiadosť, opakovaný Príkaz, Informácia, ktoré sú zaslané na
+konkrétnu Banku a MS SR prostredníctvom IT riešenia.
+(ďalej len “Výkonnosť)
+Reportovanie
+1. Záznam (report) o sledovanej Dostupnosti a Výkonnosti bude pripravovaný
+na mesačnej báze.
+2. Záznam (report) bude klientovi (Banke alebo MS SR) zaslaný prostredníctvom e-mailu
+len na jeho vyžiadanie.
+Úroveň služieb
+Dostupnosť a Výkonnosť IT riešenia budú v súlade s:
+1. Predpokladaný objem transakcií
+1.1. Dátový uzol MS SR a Dátový uzol bánk boli dimenzované na základe
+predpokladaného objemu 5 000 000 (päť miliónov) transakcií ročne.
+1.2. V prípade, že objem transakcií presiahne predpokladaný objem transakcií, CRIF
+SK oznámi túto skutočnosť Zmluvným stranám (MS SR a Banka) a Úroveň
+služieb nebude garantovaná až do uvedenia aktualizovaného IT riešenia
+do prevádzky – stanoveného na základe nového objemu transakcií za rok; v tomto
+prípade CRIF SK urobí všetko pre to, aby minimalizovalo dopad na Úroveň
+služieb.
+2. Dostupnosť IT riešenia:
+2.1. Výsledky testovania dostupnosti budú zaznamenané ako percento času počas
+každého kalendárneho mesiaca počas doby Dostupnosti keď Dátový uzol Bánk a
+Dátový uzol MS SR budú dostupné podľa nasledujúceho vzorca:
+D = (A – B) / A (vyjadrené v percentách).
+2.2. Vzorec je kalkulovaný ako D = dostupnosť, A = všetky pracovné hodiny za
+kalendárny mesiac (v minútach) a B = obdobie počas, ktorého nebolo IT riešenie
+dostupné (v minútach) počas doby Dostupnosti v danom kalendárnom mesiaci,
+okrem štátnych sviatkov.
+2.3. Úroveň služieb pre Dostupnosť je 96%.
+3. Výkonnosť IT riešenia
+3.1. Výsledky testovania výkonnosti budú zaznamenané na báze kalendárneho mesiaca
+pre určenie odchýlky od cieľových časov Odpovede uvedených nižšie:
+Priemerný čas obdržania jednotlivej
+správy
+Doba trvania funkcie SendMessage na Menej ako alebo rovné 5.0 sekúnd v 95 %
+web servise Dátového uzla MS SR
+všetkých správ
+Doba trvania funkcie SendMessage na Menej ako alebo rovné 5.0 sekúnd v 95 %
+
+Príloha č. 5 Zmluvy o spolupráci a technickej podpore
+Parametre IT riešenia
+
+web servise Dátového uzla Bánk
+
+všetkých správ
+
+3.2. Reakčná doba nebude zahŕňať čas potrebný k prenosu odpovede cez internet alebo
+VPN.
+Pozastavenie garantovania Úrovne služieb
+Úroveň služieb nebude garantovaná počas nasledovných mimoriadnych období:
+1. Počas prvých troch (3) mesiacov poskytovania služieb IT riešenia, počnúc Dňom uvedenia
+IT riešenia do Rutinnej prevádzky.
+2. 15 pracovných dní po aplikovaní každej zmeny do prevádzky IT riešenia (produkčného
+prostredia).
+Ak je pozastavené garantovanie Úrovne služieb, CRIF SK nenesie zodpovednosť za akékoľvek
+následné zlyhanie IT riešenia pokiaľ ide o Dostupnosť a Výkonnosť IT riešenia.
+
+Príloha č. 6 Zmluvy o spolupráci a technickej podpore
+
+OZNÁMENIE O PRIPOJENÍ DO OSOBITNÉHO INFORMAČNÉHO SYSTÉMU
+ELEKTRONICKEJ KOMUNIKÁCIE
+(ďalej len „Oznámenie“)
+Dolupodpísaná [___], so sídlom [___], Slovenská republika, IČO: [___], zapísaná v obchodnom registri
+Okresného súdu [___], odd.: Sa, vl.č.: [___],
+týmto oznamuje, že má záujem pripojiť sa k osobitnému informačnému systému elektronickej
+komunikácie v zmysle
+Zmluvy o spolupráci a technickej podpore zo dňa [___], uzatvorenej
+o bankách medzi
+
+v súlade s v súlade s § 90 ods. 3 Zákona
+
+Slovenská banková asociácia, Mýtna 48, Blumental offices. I., IČO: 30 813 182, v mene bánk a pobočiek
+zahraničných bánk (ďalej len ako „SBA“)
+a
+CRIF – Slovak Credit Bureau, s.r.o., so sídlom Mlynské nivy 14, 821 09 Bratislava, IČO: 35 886 013,
+zapísaná v obchodnom registri Okresného súdu Bratislava I, oddiel Sro, vložka č. 31737/B (ďalej len “CRIF
+SK“)
+a
+Ministerstvo spravodlivosti SR, Župné námestie 13, 813 11 Bratislava, IČO: 00 166 073; DIČ: 2020830196
+(ďalej len „MS SR“ alebo „Objednávateľ“),
+v znení jej neskorších zmien a dodatkov, (ďalej len „Zmluva“),
+pričom vyhlasuje, že si je vedomá, že odo dňa jej pripojenia do osobitnému informačnému systému elektronickej
+komunikácie je povinná s MS SR prostredníctvom osobitnému informačnému systému elektronickej komunikácie
+za podmienok uvedených v Zmluve a že jej vznikajú práva a povinnosti Banky tak, ako sú definované v Zmluve.
+
+Pokiaľ v tomto prehlásení nie je uvedené inak, pojmy použité v tomto Oznámení majú ten istý význam ako pojmy
+definované a použité v Zmluve.
+Miesto podpisu:_____________________________________
+Dátum podpisu:_____________________________________
+Podpis:____________________________________________
+
+Príloha č. 7 Zmluvy o spolupráci a technickej podpore
+Akceptačné testy
+
+Akceptačné testy
+A . CRIF SK uzol – banky (DUA):
+1
+
+Zabezpečené pripojenie Bánk (PKI infraštruktúra, správa užívateľov)
+
+2
+
+WS pre príjem správ zo strany Bánk
+
+
+
+3
+
+Pripojenie IS Banky k WS DUA
+Prevzatie správ Bankou
+
+Zaslanie správy Bankou
+
+
+
+Pripojenie IS Banky k WS DUA
+Zaslanie správy na WS DUA
+
+B. Centrálny uzol – Dátový uzol pre pripojenie MS SR:
+1 Zabezpečené pripojenie MS SR (PKI infraštruktúra, správa užívateľov)
+2 Zaslanie správy zo strany MS SR
+
+
+3
+
+Pripojenie IS MS SR na WS MS SR
+Zaslanie správy na WS MS SR
+
+WS pre príjem správ zo strany MS SR
+
+
+
+Pripojenie IS MS SR na WS MS SR
+Prevzatie správ MS SR
+
+Kompletný zoznam funkcií k WS bude súčasťou Technickej dokumentácie.
+
+Príloha č. 8 Zmluvy o spolupráci a technickej podpore
+Časový harmonogram
+
+ČASOVÝ HARMONOGRAM
+
+IN
+
+POPIS
+
+TERMÍN
+UKONČE-NIA
+
+Mandát pre CRIF, MS
+SR, SBA
+
+--
+
+3/2017
+
+5/2017
+
+Mandát pre CRIF, MS
+SR, SBA
+
+1
+
+3/2017
+
+3/2018
+
+Mandát pre CRIF, MS
+SR, SBA
+
+1/2
+
+3/2017
+
+3/2018
+
+Mandát pre CRIF, MS
+SR, SBA
+
+3
+
+D
+
+D
+
+Mandát pre CRIF
+
+4
+
+D+20*
+
+D+20
+
+vývoj SW vo fázach
+pre MS SR /Banky
+
+3
+
+D
+
+D+40
+
+Začiatok
+testovania
+(čiastočné/komplexné)
+
+6
+
+1.4.2018
+
+Dsignoff/31.5.2018
+
+Začiatok
+testovania
+(čiastočné/komplexné)
+
+6
+
+1.4.2018
+
+Dsignoff/31.5.2018
+
+Ukončenie testovacej
+prevádzky
+
+7/8
+
+1.4.2018
+
+31.5.2018
+
+9
+
+1.6.2018
+
+-
+
+CIEĽ
+
+CRIF,
+MS
+SR,
+SBA
+
+CRIF
+
+CRIF,
+MS
+SR,
+SBA
+
+CRIF
+
+CRIF,
+MS
+SR,
+SBA
+
+CRIF
+
+CRIF,
+MS
+SR,
+SBA
+
+CRIF
+
+CRIF
+
+CRIF
+
+1
+
+2
+
+Príprava návrhu Zmluvy/Príloh
+
+3
+
+Akceptácia návrhu Zmluvy/Príloh
+
+4
+
+Podpísanie Zmluvy
+a technickej podpore
+
+o spolupráci
+
+5
+
+Dodanie kompletnej
+dokumentácie
+
+Technickej
+
+6
+
+Vývoj
+IT
+riešenia
+Žiadosti/Informácie/Príkazy
+
+CRIF
+
+7
+
+Testovanie – test
+MS SR
+(Žiadosti/Informácie, Príkazy)***
+
+CRIF,
+MS SR
+
+Testovanie – test DU Bánk (Iná
+žiadosť/Informácia, Príkazy)
+
+TERMÍN
+ZAČATIA
+
+PODPORA
+
+Dohoda SBA,
+o realizácii
+komunikácii
+
+8
+
+CRIF, MS SR
+Elektronickej
+
+PREDCHÁDZAJÚCI
+KROK
+
+ZODPOVEDNOSŤ
+
+CRIF,
+Banky
+
+9
+
+Sign off - podpis Akceptačných
+protokolov o úspešnom ukončení
+testovacej prevádzky
+
+CRIF,
+Banky,
+MS SR
+
+10
+
+Rutinná prevádzka pre zasielanie
+Žiadostí/Informácií a Príkazov**
+
+CRIF,
+Banky,
+MS SR
+
+CRIF
+
+CRIF
+
+CRIF
+
+CRIF
+
+CRIF
+
+Online prenos dát
+prostredníctvom WS
+Banky a WS MS SR
+
+* Pracovných dní
+** Zahájenie Rutinnej prevádzky si vyžaduje podpis Akceptačných protokolov zo všetkých bánk a MS SR.
+*** Bezodplatné testovanie Súdov (okrem JP) je možné zo strany MS SR do 31.7.2018
+
+Príloha č. 9 Zmluvy o spolupráci a technickej podpore
+Postavenie a zodpovednosť CRIF SK za nastavenie a údržbu IT riešenia
+
+POSTAVENIE A ZODPOVEDNOSŤ CRIF SK ZA NASTAVENIE A ÚDRŽBU IT
+RIEŠENIA
+
+1.
+
+IT riešenie
+
+a) vývoj a údržba Testovacieho a Produkčného prostredia vyvinutého CRIF SK,
+b) inštalovanie, pravidelná kontrola a údržba IT riešenia,
+c) pravidelné zálohovanie dátovej časti IT riešenia,
+d) udržiavanie ochrany zariadení patriacich do IT riešenia, nastavovanie prístupových práv
+na aktívnych sieťových prvkoch a komunikačných zariadeniach IT riešenia,
+e) monitorovanie stavu elektronickej komunikačnej siete (best efforts) prostredníctvom
+programových nástrojov pre riadenie elektronickej komunikačnej siete. CRIF SK pritom
+nie je zodpovedný za odstránenie prípadnej poruchy. Poskytovateľ elektronickej
+komunikačnej siete je plne zodpovedný za odstránenie poruchy,
+g) udržiavanie aktuálnych informácií o typológii elektronickej komunikačnej siete,
+aktívnych a pasívnych prvkoch.
+
+2.
+
+Podpora užívateľom
+
+a) správa všetkých užívateľských účtov v IT riešení, čo znamená vytváranie a správu
+užívateľských ID a hesiel (ako administratívnych, tak aj užívateľských),
+b) vytváranie a spracovanie záznamov o priebehu prenosu a spracovania správ.
+3.
+
+Help desk
+
+Help desk bude sprístupnený počas Pracovných dní a pracovných hodín v čase
+od 08:00 hod. do 17:00 hod.
+Kontaktné údaje na Help desk:
+e-mailový kontakt: helpdesk.sk@crif.com
+telefonický kontakt: +421 259 20 7533
+
+Príloha č. 9 Zmluvy o spolupráci a technickej podpore
+Postavenie a zodpovednosť CRIF SK za nastavenie a údržbu IT riešenia
+
+3.1
+
+Spôsob nahlásenia poruchy, plánovaných a neplánovaných odstávok
+
+Poverený pracovník Zmluvnej strany nahlási poruchu poverenému pracovníkovi CRIF SK
+zodpovednému za podporu prvej úrovne zaslaním vyplneného dokumentu “Vzor/Incident
+report” prostredníctvom e-mailu na adresu helpdesk.sk@crif.com
+CRIF SK bude informovať Zmluvné strany o plánovaných odstávkach systému minimálne
+3 Pracovné dni vopred.
+V prípade neplánovanej nedostupnosti systému bude CRIF SK informovať Zmluvné strany
+najneskôr do 1 hod. od zistenia neplánovaného výpadku zo strany CRIF SK.
+3.2
+
+Doba odozvy
+
+Časový plán ako aj začiatok prác na odstránení poruchy a doba trvania odstránenia poruchy
+je počítaná na základe pracovných hodín CRIF SK (08:00 – 17:00 počas Pracovných dní).
+V prípade nahlásenia poruchy každou Bankou alebo MS SR do 16:00 hod, bude prvotná
+reakcia na toto oznámenie poskytnutá danej Banke alebo MS SR do 1 pracovnej hodiny.
+Ak bude porucha nahlásená každou Bankou alebo MS SR po 16:00 hod, bude prvotná
+reakcia na toto oznámenie poskytnutá danej Banke alebo MS SR nasledujúci pracovný deň,
+najneskôr však do 9:00 hod.
+
+Priorita
+
+Priorita
+1
+
+Typ
+problému
+
+Definícia Typu problému
+
+Riešenie/Workaround
+
+Porucha
+IT
+riešenia
+znemožňujúca
+Bankám a MS
+SR
+prihlásenie,
+zasielanie
+a
+príjem dát
+
+Zlyháva
+prevádzka
+WS
+Banky a/alebo DÚ MS SR v
+Produkčnom prostredí.
+Hlavné funkcie sú všetky
+nedostupné.
+
+Prvý feedback bude poskytnutý
+zo strany CRIF SK danej
+Zmluvnej strane na báze “best
+efforts” do 1 pracovnej hodiny
+od
+obdržania
+nahlásenia
+poruchy danou Bankou a MS SR
+do CRIF SK.
+Prvotná analýza a určenie
+priority danej poruchy bude
+poskytnutá do 4 pracovných
+hodín.
+Odstránenie poruchy alebo
+Workaround bude zo strany
+CRIF SK realizované do 12
+pracovných hodín od obdržania
+nahlásenia
+poruchy
+danou
+stranou do CRIF SK. V prípade
+poskytnutia
+Workaround,
+definitívne
+bude
+porucha
+odstránená do 24 pracovných
+hodín.
+
+Príloha č. 9 Zmluvy o spolupráci a technickej podpore
+Postavenie a zodpovednosť CRIF SK za nastavenie a údržbu IT riešenia
+
+Priorita
+2
+
+Problémy
+majúce vplyv
+na prevádzku
+IT riešenia.
+
+Problém je v Produkčnom
+prostredí. Funkcie WS Banky
+a/alebo WS MS SR sú
+obmedzené.
+
+Prvý feedback bude poskytnutý
+zo strany CRIF SK danej Banke
+alebo MS SR na báze “best
+efforts” do 5 pracovných hodín
+od obdržania nahlásenia poruchy
+danou Bankou a MS SR do
+CRIF SK.
+Odstránenie poruchy alebo
+poskytnutie Workaround bude
+zo strany CRIF SK prevedené
+najneskôr do 5 pracovných dní
+od obdržania nahlásenia poruchy
+CRIF SK danou stranou.
+V prípade
+poskytnutia
+Workaround, definitívne bude
+porucha odstránená do 10
+pracovných hodín.
+
+Info
+
+Žiadosť
+o informáciu
+
+Je požadovaná informácia,
+keďže nie je jasne definovaná
+v Dokumentácii (Príloha
+1-9,Technická dokumentácia)
+poskytnutej Zmluvnej strane
+
+Informácia
+je
+poskytnutá
+písomne
+prostredníctvom
+e-mailu.
+Čas poskytnutia informácie nie
+je preddefinovaný, ale bude
+poskytnutý vo vzťahu k typu a
+dôležitosti predmetu informácie.
+
+Príloha č. 9 Zmluvy o spolupráci a technickej podpore
+Postavenie a zodpovednosť CRIF SK za nastavenie a údržbu IT riešenia
+
+Vzor
+INCIDENT REPORT - Žiadosť o podporu
+(hrubo orámované časti vyplní Zmluvná strana)
+číslo (CRIF SK)
+
+Navrhovaná priorita
+1
+
+2
+
+Porucha IT riešenia
+znemožňujúca Bankám
+a MS SR prihlásenie,
+zasielanie a príjem dát
+
+Problémy majúce
+vplyv na prevádzku
+
+Dátum a čas
+odoslania do
+CRIF SK
+Názov spoločnosti
+dd/mm/yyyy hh
+(poverená osoba
+Zmluvnej strany)
+Nahlásené kým
+
+Info
+
+IR_YYYYMMDD_
+N
+Žiadosť o informáciu
+
+Tel. číslo
+
+E-mail
+
+Krátky popis:
+Prílohy:
+(Prosím pripojte všetky dokumenty ktoré pomôžu pri analýze incident)
+
+Dátum a čas incidentu
+
+Popis problému a úvodná analýza (Zmluvná strana)
+Prosím vložte presné chybové hlásenie ( ak je aplikovateľné)
+
+Popis uskutočnenej analýzy a dôvodu problému (CRIF SK)
+
+Popis riešenia a plánovaného termínu implementácie (CRIF SK)
+
+Aktuálny status
+
+Dátum
+poslednej zmeny
+statusu
+
+Plánovaný /aplikovaný
+dátum riešenia problému
+
+Dátum
+uzatvorenia
+
+

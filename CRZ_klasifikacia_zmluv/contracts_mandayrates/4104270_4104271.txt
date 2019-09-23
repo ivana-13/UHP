@@ -1,0 +1,566 @@
+Kúpna zmluva č. Z201921371_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Sociálna poisťovňa
+29. augusta 8 - 10, 81363 Bratislava, Slovenská republika
+30807484
+2020592332
+SK40 8180 0000 0070 0016 4314
++421 90617 1280
+
+Dodávateľ:
+Obchodné meno:
+
+Atos IT Solutions and Services s.r.o.
+
+Sídlo:
+
+Pribinova 19/7828, 81109 Bratislava, Slovenská republika
+
+IČO:
+
+45650276
+
+DIČ:
+
+2023110661
+
+IČ DPH:
+
+SK2023110661
+
+Číslo účtu:
+
+SK27 1111 0000 0010 9789 5000
+
+Telefón:
+
++421903564796
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Rozšírenie funkcionality súčasného systému pre monitoring, diagnostiku a analýzu
+správania používateľov
+
+Kľúčové slová:
+
+monitorovací systém, NetFlow/IPFIX, funkcionalita, monitoring, diagnostika, analýza
+
+CPV:
+
+48730000-4 - Softvérový balík na zaistenie bezpečnosti; 72265000-0 - Konfigurovanie
+softvéru; 72263000-6 - Implementácia softvéru; 51612000-5 - Inštalácia zariadení na
+spracovanie informácií
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Rozšírenie funkcionality súčasného systému pre monitoring, diagnostiku a analýzu správania
+používateľov
+
+Funkcia
+Technické vlastnosti
+
+Jednotka
+
+1.1 HW upgrade
+
+*
+
+*
+
+1.1.1 IFP-20000PRO-SFP+, Flowmon Probe 20000 Pro
+SFP+ alebo ekvivalentný
+
+ks
+
+1
+
+1.1.2 10G-SFP-SR, SFP+ transceiver
+fiber10GBase-SR, MM, 850nm, 300m alebo
+ekvivalentný
+
+ks
+
+2
+
+1.1.3 IFC-R6-12000PRO, Flowmon Collector R6-12000
+Pro alebo ekvivalentný
+
+ks
+
+1
+
+1.1.4 SHIP-EU, Doprava
+
+ks
+
+2
+
+1.2 SW Licencia
+
+*
+
+*
+
+1.2.1 SUB-IFP-2000-VA (platnosť 12 mesiacov od
+uzavretia zmluvy) alebo ekvivalentná
+
+ks
+
+4
+
+Strana 1 z 6
+
+Minimum
+
+Maximum
+
+Presne
+
+1.2.2 SUB-IFP-20000-VA (platnosť 12 mesiacov od
+uzavretia zmluvy) alebo ekvivalentná
+
+ks
+
+2
+
+1.2.3 FP-APM-E, Flowmon APM Enterprise alebo
+ekvivalentná
+
+ks
+
+1
+
+1.2.4 FP-FTR-B, Flowmon TR Business alebo
+ekvivalentná
+
+ks
+
+1
+
+1.3 Inštalácia a konfigurácia
+
+súbor
+
+1
+
+1.4 Implementácia a integrácia do súčasného riešenia a
+doladenie s priamou podporou výrobcu riešenia;
+zaškolenie obsluhy
+
+súbor
+
+1
+
+1.5 Technická podpora pre HW po dobu 12 mesiacov od
+uzavretia zmluvy
+
+*
+
+*
+
+1.5.1 GS-IFP-20000PRO-SFP+,Gold support:
+IFP-20000PRO-SFP+ (alebo ekvivalentná)
+
+ks
+
+1
+
+1.5.2 GS-IFC-R6-12000PRO, Gold support:
+IFC-R6-12000PRO (alebo ekvivalentná)
+
+ks
+
+1
+
+1.6 Technická podpora pre SW po dobu 12 mesiacov
+od uzavretia zmluvy
+
+*
+
+*
+
+1.6.1 GS-FP-APM-E, Gold support: Flowmon APM
+Enterprise (alebo ekvivalentná)
+
+ks
+
+1
+
+1.6.2 GS-FP-FTR-B, Gold support: Flowmon Traffic
+Recorder Business (alebo ekvivalentná)
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Predmetom zákazky je rozšírenie funkcionality
+súčasného systému pre monitoring, diagnostiku a
+analýzu správania používateľov v rozsahu:
+
+a) upgrade existujúcej Flowmon HW sondy
+
+-
+
+b) doplnenie funkcionality APM Enterprise vrátane zaradenia
+(nastavenia) min. 5 webových aplikácií do monitoringu aplikácií
+
+-
+
+c) upgrade existujúceho Flowmon kolektora
+
+-
+
+d) doplnenie funkcionality monitorovania virtuálnych prostredí, tzv.
+virtuálne sondy
+
+-
+
+e) zaškolenie obsluhy na prácu s novými funkcionalitami
+
+V rámci implementácie bude zabezpečené:
+
+1. konfigurácia a nasadenie HW a SW komponentov
+
+-
+
+2. implementáciu riešenia do existujúceho prostredia na
+monitorovanie siete v reálnom čase
+
+-
+
+3. dodávka HW a SW licencií vrátane licenčnej podpory
+
+Minimálne požiadavky:
+
+a) Jednoduché HW a softwarové rozšírenie súčasného systému
+pre automatické spracovanie NetFlow dát a sieťovej prevádzky bez
+použitia inštalácie SW agentov na zariadeniach.
+
+-
+
+b) Nastavenie monitoringu pripojených aktívnych zariadení,
+používateľov, lokalít, webových aplikácií a databázových aplikácií
+na sieť v reálnom čase, ich korelácia v rámci informácií o
+výpadkoch,
+
+-
+
+preťaženiach, výkonnostných a bezpečnostných problémoch.
+
+-
+
+c) Centrálny manažment korelovaných dát, ich možnosť ukladania
+a archivovania po dobu min. 1 roku, možnosť manuálneho alebo
+automatizovaného záchytu dátovej komunikácie pre hlbšie
+forenzné analýzy.
+
+-
+
+d) Systém na monitoring aplikácií musí spracovať minimálne 60
+tisíc transakcií za minútu pre frontend web a backend Oracle, MS
+SQL, Maria DB aplikácie a následná korelácia týchto informácií cez
+jedno
+
+-
+
+rozhranie.
+
+-
+
+e) Prevedenie: HW rozšírenie riešenia pre centrálny kolektor s
+kapacitou min 12 TB, HW rozšírenie pre NetFlow/DPI
+monitorovacie zariadenie s možnosťou monitorovania min 29
+Mpps, šablóna pre HyperV pre
+
+-
+
+monitorovacie zariadenia na monitoring virtuálneho prostredia
+Strana 2 z 6
+
+-
+
+f) Implementácia, konfigurácia, integrácia do súčasného riešenia a
+doladenie s priamou podporou výrobcu riešenia v rozsahu max. 40
+človekodní (MDs) vrátane prípadnej kontroly zo strany výrobcu.
+
+-
+
+i) Kontrola kvality nastavenia systému zo strany výrobcu riešenia
+po implementácii, konfigurácii a doladení.
+
+-
+
+j) Technická podpora po dobu 12 mesiacov od uzavretia zmluvy na
+starostlivosť o HW a softvér, zákaznícka podpora po telefóne a
+emailom v slovenskom alebo českom jazyku min. v pracovnej dobe
+(8x5),
+
+-
+
+prístup k webovému zákazníckemu centru, vzdialená podpora cez
+SSH.
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+I. CENA
+1. Dodávateľ je povinný predložiť podrobnú Cenovú kalkuláciu s vlastným návrhom na plnenie predmetu zmluvy (ktorý bude
+obsahovať obchodný názov, typ pre ponúkaný HW a licenčné SW vybavenie) do 2 pracovných dní od uzavretia zmluvy, v
+ktorej pre podpoložky 1.1.1 až 1.1.4, 1.2.1 až 1.2.4, 1.3, 1.4, 1.5.1 a 1.5.2, 1.6.1 a 1.6.2 uvedené v časti Funkčná a technická
+špecifikácia predmetu uvedie: jednotkové ceny bez DPH, jednotkové ceny s DPH, ceny spolu bez DPH, ceny spolu s DPH,
+cenu celkom bez DPH, cenu celkom s DPH. Celková cena za predmet zákazky/zmluvy v cenovej kalkulácii
+musí byť v súlade s celkovou cenou predmetu zmluvy, uvedenou v článku IV Zmluvy - Zmluvná cena.
+2. Celková cena predmetu zmluvy a jednotkové ceny obsahujú všetky náklady dodávateľa spojené splnením predmetu
+uvedeného v časti Funkčná a technická špecifikácia predmetu (dodávka HW/SW vrátane dopravy a vykládky do určených
+priestorov objednávateľom, inštalácie a konfigurácie, implementácie a integrácie) a tiež všetky dane, clá, poplatky, platby
+vyberané v rámci uplatňovania nesadzobných opatrení ustanovené osobitnými predpismi, ako aj iné náklady spojené s
+plnením zmluvy.
+3. Dodávateľovi nevznikne nárok na úhradu akýchkoľvek dodatočných nákladov, ktoré si nezapočítal do ceny predmetu
+zákazky/zmluvy. Všetky ceny predložené dodávateľom zohľadňujú primerané, preukázateľné náklady a primeraný zisk.
+4. Celková cena, ceny spolu a jednotkové ceny v cenovej kalkulácii budú zaokrúhlené maximálne na dve (2) desatinné miesta.
+5. V prípade, ak dodávateľ ku dňu predkladania ponúk nie je platcom DPH, avšak po uzatvorení zmluvy sa ním stane, nemá
+nárok na zvýšenie ceny za poskytovanie služieb o hodnotu DPH.
+II. MIMORIADNE NÍZKA PONUKA
+1. V prípade, ak cena dodávateľa bude neprimerane nízka vo vzťahu k tovaru/službe, resp. bude vykazovať znaky mimoriadne
+nízkej ponuky podľa § 53 ods. 3 zákona č. 343/2015 Z.z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v
+znení neskorších predpisov (zákon o verejnom obstarávaní), dodávateľ je povinný predložiť na požiadanie objednávateľa v
+lehote určenej objednávateľom doklady a vyjadrenie, ktorým preukáže v rozsahu § 53 zákona o verejnom obstarávaní reálnosť
+plnenia za zmluvnú cenu.
+2. Ak dodávateľ v čase stanovenom objednávateľom nepredloží na základe písomnej výzvy doklady a vyjadrenia preukazujúce
+reálnosť plnenia predmetu zákazky/zmluvy za cenu vykazujúce znaky neprimerane nízkej ceny, resp. mimoriadne nízkej
+ponuky, považuje sa to za podstatné porušenie zmluvných podmienok a za dôvod na odstúpenie od zmluvy.
+III. PLNENIE PREDMETU ZMLUVY
+1. Dodávateľ sa zaväzuje do 2 pracovných dní od uzavretia zmluvy predložiť objednávateľovi kontaktné údaje osoby
+zodpovednej za riadne plnenie predmetu zmluvy v rozsahu: meno, priezvisko, telefónne číslo a e-mailová adresa a zároveň
+predloží aj telefónne číslo a e-mailovú adresu na hlásenie incidentov a servisných požiadaviek objednávateľom (helpdesk).
+2. Objednávateľ sa zaväzuje oznámiť dodávateľovi do 2 pracovných dní od uzavretia zmluvy meno kontaktnej osoby
+zodpovednej za riadne plnenie zmluvy a hlásenie incidentov a servisných požiadaviek na helpdesk dodávateľa v rozsahu:
+meno, priezvisko, telefónne číslo a e-mailová adresa.
+3. Miestom plnenia je sídlo objednávateľa v Bratislave.
+4. Dodávaný hardvér musí byť nový a nepoužívaný.
+5. Dodávané komponenty nesmú mať na sebe výrobné vady, nesmú byť inak výrobne poškodené, nesmú mať obmedzenú
+funkcionalitu a musia spĺňať minimálne technické požiadavky uvedené v časti Funkčná a technická špecifikácia predmetu.
+Zároveň musia spĺňať podmienku, že nesmú byť už použité, alebo obnovené do pôvodného výrobného stavu a nanovo
+predané ako nové zariadenia pod všeobecným označením výrobcov „re-market“ zariadenia.
+6. Dodávateľ sa zaväzuje, že dodá HW/SW vrátane inštalácie a konfigurácie najneskôr do 10 týždňov odo dňa účinnosti tejto
+zmluvy na dohodnuté miesto plnenia podľa bodu 3 tohto článku zmluvy. Dokladom o dodávke, doprave, vykládke, inštalácii a
+konfigurácii bude odovzdávací/preberací protokol odsúhlasený a podpísaný poverenými zástupcami oboch zmluvných strán.
+
+Strana 3 z 6
+
+7. Dodávateľ sa zaväzuje zrealizovať implementáciu a integráciu najneskôr do 6 týždňov od podpisu
+odovzdávacieho/preberacieho protokolu podľa bodu 6 tohto článku zmluvy. Dokladom o vykonaní súvisiacich služieb, t. j.
+realizácie implementácie a integrácie bude akceptačný protokol o vykonaní implementácie a integrácie, ktorý odsúhlasia a
+podpíšu poverení zástupcovia oboch zmluvných strán.
+8. Dodávateľ sa zaväzuje poskytovať podporu na dodaný HW a SW odo dňa podpísania akceptačného protokolu o vykonaní
+implementácie a integrácie do doby uplynutia 12 mesiacov od uzavretia zmluvy.
+IV. FAKTURÁCIA
+1. Úhrada za predmet zmluvy bude realizovaná formou bezhotovostného platobného styku bez poskytnutia zálohovej platby.
+Cena za poskytnutý predmet plnenia bude uhradená na základe dodávateľom vyhotovenej a doručenej faktúry.
+2. Cena za podpoložky označené č. 1.1.1 až 1.1.4, 1.2.1 až 1.2.4, 1.3, 1.4 uvedené v časti zmluvy Funkčná a technická
+špecifikácia predmetu, v cene podľa cenovej kalkulácie v súlade s článkom I. tejto časti zmluvy bude fakturovaná jednorazovo
+na základe akceptačného protokolu o vykonaní implementácie a integrácie potvrdeného poverenými zástupcami oboch
+zmluvných strán. Potvrdený akceptačný protokol bude neoddeliteľnou súčasťou faktúry.
+3. Cena za podporu pre dodaný HW a SW, tzn. podpoložky 1.5.1 a 1.5.2, 1.6.1 a 1.6.2 uvedené v časti zmluvy Funkčná a
+technická špecifikácia predmetu bude fakturovaná jednorazovo po uskutočnení služieb na základe skutočného plnenia, t. j.
+vypočítaná ako alikvotná časť za skutočné obdobie poskytovania podpory tzn. od podpísania akceptačného protokolu o
+vykonaní implementácie a integrácie do doby uplynutia 12 mesiacov od uzavretia zmluvy. Prílohou faktúry bude protokol o
+prevzatí služieb potvrdený oboma zmluvnými stranami.
+4. Splatnosť faktúry je najneskôr do 30 dní odo dňa jej doručenia do podateľne objednávateľa.
+5. Dodávateľ sa zaväzuje poslať vyhotovenú faktúru listinne poštou a súčasne aj v textovo čitateľnom súbore vo formáte PDF
+elektronicky, na e-mailovú adresu objednávateľa, a to bezodkladne po jej vystavení. Dodávateľ vyhlasuje, že obsah faktúry
+poslanej poštou sa bude zhodovať s faktúrou poslanou v elektronickej podobe na e-mailovú adresu objednávateľa.
+6. Miesto doručenia faktúry v listinnej forme je sídlo objednávateľa. E-mailovú adresu, na ktorú bude dodávateľ zasielať faktúry
+elektronicky oznámi objednávateľ dodávateľovi obratom, najneskôr do 2 pracovných dní od uzavretia zmluvy.
+7. Dodávateľom vystavená faktúra ako daňový doklad musí byť vyhotovená v súlade s ustanoveniami zákona č. 222/2004 Z. z.
+o dani z pridanej hodnoty v znení neskorších predpisov. V prípade, ak faktúra vystavená dodávateľom nebude obsahovať
+všetky zákonom stanovené náležitosti alebo bude obsahovať nesprávne alebo neúplné údaje, objednávateľ má právo takúto
+faktúru vrátiť dodávateľovi na jej doplnenie, resp. opravu a dodávateľ je povinný podľa charakteru nedostatku vystaviť novú,
+opravenú, resp. doplnenú faktúru s novou lehotu splatnosti. Dodávateľ je zároveň povinný bezodkladne poslať opravenú
+alebo novú faktúru znovu aj v elektronickej podobe na e-mailovú adresu uvedenú objednávateľom v zmysle predošlého bodu.
+8. Ak je dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a tovar bude
+do SR prepravený z iného členského štátu EÚ (miesto dodania služby je v SR), tento dodávateľ nebude pri plnení zmluvy
+fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004
+Z.z. a cenu vrátane DPH. Objednávateľ v tomto prípade bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č.
+222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+V. OSOBITNÉ USTANOVENIA
+1. Objednávateľ upozorňuje, že dodávateľ musí byť v zmysle § 32 ods. 1 písm. e) zákona o verejnom obstarávaní oprávnený
+dodávať tovar alebo poskytovať službu, ktorý zodpovedá predmetu zákazky. Objednávateľ na overenie splnenia podmienky
+účasti podľa § 32 ods. 1 písm. e) zákona o verejnom obstarávaní použije údaje a výpis z registra právnických osôb,
+podnikateľov a orgánov verejnej moci podľa zákona č. 272/2015 Z.z. o registri právnických osôb, podnikateľov a orgánov
+verejnej moci a o zmene a doplnení niektorých zákonov v znení zákona č. 52/2018 Z.z. za predpokladu, že požadované údaje
+je možné
+overiť v tomto registri. V prípade, ak v registri právnických osôb, podnikateľov a orgánov verejnej moci nie je možné
+preukázanie splnenia podmienky účasti podľa § 32 ods. 1 písm. e) zákona o verejnom obstarávaní overiť, objednávateľ
+požiada dodávateľa o predloženie dokladov preukazujúcich splnenie podmienky účasti podľa § 32 ods. 1 písm. e) zákona o
+verejnom obstarávaní v ním určenej lehote. V prípade, ak dodávateľ nie je oprávnený dodávať tovar, ktorý odpovedá predmetu
+zákazky, objednávateľ je oprávnený odstúpiť o zmluvy v zmysle obchodných podmienok elektronického trhoviska, 2. časť
+"Všeobecné zmluvné podmienky", Čl. XVIII "Ukončenie zmluvy", bod 18.2 písm. a) a b). Objednávateľ zároveň upozorňuje
+dodávateľa, že v zmysle obchodných podmienok elektronického trhoviska, 1. časť "Trhový poriadok", Čl. IV "dodávateľ", bod 4,
+dodávateľ sa už samotnou registráciou do EKS zaväzuje akceptovať a dodržiavať obchodné podmienky elektronického
+trhoviska, vrátane povinnosti spĺňať všetky kvalifikačné, odborné, technické a akékoľvek iné predpoklady stanovené
+príslušnými právnymi predpismi vo vzťahu k plneniu, ktoré tvorí predmet zákazky.
+2. V prípade, ak bude celková cena za predmet zmluvy prevyšujúca 100000 eur, je podmienkou nadobudnutia platnosti a
+účinnosti zmluvy zápis konečných užívateľov výhod dodávateľa v registri partnerov verejného sektora podľa zákona č.
+315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov (ďalej len "zákon o registri
+partnerov"). Ak v momente uzavretia zmluvy nemá dodávateľ v registri partnerov verejného sektora zapísaných konečných
+užívateľov výhod v súlade s príslušnými ustanoveniami zákona o registri partnerov, zmluva nadobudne účinnosť najskôr v deň
+zápisu dodávateľa do tohto registra /bod 4.4 VZP OPET/.
+3. Objednávateľ je oprávnený od zmluvy odstúpiť ak v momente uzavretia zmluvy nemá dodávateľ v registri partnerov
+verejného sektora zapísaných konečných užívateľov výhod v súlade s príslušnými ustanoveniami zákona o registri partnerov a
+k zápisu do tohto registra nedôjde ani do 30 dní od momentu uzavretia zmluvy /bod 18.2 písm. w) VZP OPET/.
+
+Strana 4 z 6
+
+4. Pokiaľ z Funkčnej a technickej špecifikácie predmetu zákazky/zmluvy vyplýva priame alebo nepriame označenie výrobku
+alebo výrobcu, výrobný postup, značku, obchodný názov, patent alebo typ, objednávateľ v takom prípade pripustí ekvivalentné
+plnenie/riešenie, za ktoré bude považovať výrobok rovnakých alebo vyšších/lepších parametrov. Dodávateľ je povinný
+objednávateľovi riadne preukázať parametre ekvivalentného plnenia.
+5. Dodávateľ predloží objednávateľovi do 2 pracovných dní od uzavretia tejto zmluvy kópie nasledovných dokladov:
+5.1 kópiu potvrdenia od výrobcu HW a SW komponentov, resp. obchodného zastúpenia výrobcu pre trh ktoréhokoľvek
+členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou Dohody o európskom hospodárskom priestore, že
+dodávateľ je autorizovaným distribútorom pre ponúkané HW a SW komponenty min. na úrovni silver partnerstva
+5.2. kópiu dokladu o certifikácii špecialistu na implementáciu ponúkaného HW a SW na úrovni technického implementátora
+daného riešenia z oblasti bezpečnosti ponúkaného zariadenia odborne spôsobilej osoby pre inštaláciu a konfiguráciu HW a
+SW (certfikát: Solution consultant) alebo ekvivalent.
+6. V prípade, ak dodávateľ poruší akúkoľvek zmluvnú podmienku alebo ktorékoľvek ustanovenia uvedené v osobitných
+požiadavkách na plnenie, toto porušenie sa považuje za podstatné porušenie zmluvy a objednávateľ má právo odstúpiť od
+zmluvy.
+7. Všetky doklady a dokumenty musia byť predložené v štátnom jazyku. Ak je doklad alebo dokument vyhotovený v cudzom
+jazyku, predkladá sa spolu s jeho úradným prekladom do štátneho jazyka, to neplatí pre návrhy, doklady a dokumenty
+vyhotovené v českom jazyku.
+8. Ostatné sa riadi Obchodnými podmienkami elektronického trhoviska, 2. časť "Všeobecné zmluvné podmienky".
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+Okres:
+Obec:
+Ulica:
+3.2
+
+Čas / lehota plnenia zmluvy:
+12.07.2019 08:00:00 - 10.07.2020 18:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+cena celkom
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.6, účinná zo dňa 1.7.2019 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 219 990,83 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 263 989,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.6, účinná zo dňa 01.07.2019, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+Strana 5 z 6
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.6, účinná zo dňa 01.07.2019,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 09.07.2019 10:38:03
+Objednávateľ:
+Sociálna poisťovňa
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Atos IT Solutions and Services s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 6 z 6
+
+

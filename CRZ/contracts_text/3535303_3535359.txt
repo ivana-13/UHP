@@ -1,0 +1,944 @@
+Zmluva o servise č. O-18/0046
+uzavretá podľa § 536 a nasl. zákona č. 513/1991 Zb. Obchodného zákonníka
+v znení neskorších predpisov
+
+Objednávateľ:
+Sídlo:
+
+Detská fakultná nemocnica s poliklinikou Banská
+Bystrica
+Námestie L. Svobodu 4, 974 09 Banská Bystrica
+
+Banka
+Číslo účtu IBAN:
+
+Štátna pokladnica, Bratislava
+SK76 8180 0000 0070 0028 0745
+
+Zriadená
+IČO
+DIČ
+IČ DPH
+
+Štatutárny orgán
+
+Zástupca oprávnený rokovať vo veciach
+zmluvných a obchodných
+Zástupca oprávnený rokovať vo veciach
+technických
+(ďalej len „Objednávateľ“)
+
+Zriaďovacou listinou Ministerstva zdravotníctva SR Číslo:
+14192- 6/2004-OPP zo dňa 24.11.2004
+37 957 937
+2021928150
+nie je platiteľ DPH
+Ing. Juraj Gallo – člen štatutárneho orgánu – ekonomický
+riaditeľ
+MUDr. Miloslav Hanula PhD., člen
+štatutárneho orgánu – medicínsky riaditeľ
+Ing. Juraj Gallo – ekonomický riaditeľ
+Ing. Milan Kašiak – vedúci oddelenia informačných
+technológií
+a
+
+Dodávateľ:
+Sídlo:
+
+Banka
+Číslo účtu IBAN:
+
+Zapísaný v:
+IČO
+DIČ
+IČ DPH
+Štatutárny zástupca
+Zástupca oprávnený rokovať vo veciach
+zmluvných a obchodných
+Zástupca oprávnený rokovať vo veciach
+technických
+(ďalej len „Dodávateľ“)
+
+GAMO, a. s.
+Kyjevské námestie 6, 974 04 Banská Bystrica
+Slovenská sporiteľňa, a.s., Bratislava
+Číslo účtu vo formáte
+IBAN:SK5409000000000435467048
+BIC: GIBASKBX
+Majiteľ účtu: GAMO a.s.
+Kyjevské námestie 6
+974 04 Banská Bystrica
+Okresný súd Banská Bystrica, Oddiel: SA, Vložka číslo:
+550/S
+36033987
+2020087498
+SK2020087498
+Ing. Július Voskár – predseda predstavenstva
+Iveta Milčíková – podpredseda predstavenstva
+Mgr. Peter Luby – člen predstavenstva
+Ing. Karin Vlčeková – key account manažérka
+Ing. Monika Vilimová – manažér zdrojov
+
+Článok 1
+
+Definície
+
+Ak to nie je v rozpore s ustanoveniami alebo kontextom tejto zmluvy, použijú sa pre určenie významu
+pojmov uvedených v tejto zmluve nasledujúce definície:
+a) Incident
+Stav, kedy dochádza k poruche, zníženiu kvality alebo zmene parametrov
+prevádzkovanej služby alebo prostriedkov informačného systému.
+b) Monitoring
+
+c) Núdzová prevádzka
+d) Oprávnená osoba
+e) Paušál servisných
+zásahov
+f) Plná prevádzka
+g) Pohotovosť
+h) Používateľská
+podpora
+i) Požiadavka
+j) Profylaktika HW
+
+k) Reakčná doba
+
+l) Servisné pokrytie
+
+m) SLO parametre
+služby
+
+n) Správa zákazníckych
+systémov
+o) Technik
+p) Udalosť
+
+Jeden z SLO parametrov služby. Je to automatizovaný dohľad na informačnom
+systéme Objednávateľa za účelom bezprostrednej identifikácie vzniku incidentu
+a príčin vzniknutého stavu
+Obnovenie funkcionality prevádzkovanej služby alebo riešenia v čo najkratšom
+čase, a to aj použitím vhodného náhradného riešenia.
+Zamestnanec Objednávateľa, oprávnený požadovať používateľskú podporu
+alebo službu zo strany Dodávateľa.
+Kvalifikovaný mesačný odhad rozsahu služieb Dodávateľa potrebný na
+realizáciu vzniknutých udalostí na informačnom systéme Objednávateľa.
+Obnovenie funkcionality prevádzkovanej služby alebo riešenia v požadovanom
+prevádzkovom režime.
+Kombinácia dohodnutej reakčnej doby a servisného pokrytia.
+Jeden z SLO parametrov služby. Je to asistencia pri riešení problému
+používateľa poskytovaná technikom Dodávateľa oprávnenej osobe
+Objednávateľa.
+Žiadosť zákazníka o poskytnutie služby.
+Jeden z SLO parametrov služby. Je to pravidelná odborná údržba určených
+hardvérových prostriedkov informačného systému Objednávateľa za účelom
+udržania ich optimálneho výkonu a bezporuchového stavu.
+Jeden z SLO parametrov služby. Je to čas od vzniku udalosti po prvú reakciu zo
+strany technika Dodávateľa meraný v rámci dohodnutého servisného pokrytia.
+Za prvú reakciu sa považuje:
+- telefonát technika Dodávateľa oprávnenej osobe Objednávateľa za účelom
+riešenia vzniknutej udalosti,
+- vzdialený prístup technika Dodávateľa na dotknutých prostriedkoch
+informačného systému Objednávateľa za účelom riešenia vzniknutej
+udalosti,
+- fyzický zásah technika Dodávateľa na dotknutých prostriedkoch
+informačného systému Objednávateľa za účelom riešenia vzniknutej
+udalosti.
+Jeden z SLO parametrov služby. Je to zmluvne dohodnuté časové okno, počas
+ktorého je Dodávateľ povinný zaevidovať udalosť a poskytnúť Objednávateľovi
+používateľskú podporu alebo službu (napr. 8x5, 12x7, 24x7 a pod.).
+(Service Level Objective). Parametre určujúce úroveň poskytovanej služby, ako
+čas nástupu na opravu, servisné pokrytie, monitoring zákazníckych systémov,
+profylaktika zákazníckych systémov, používateľská podpora zákazníckych
+systémov, konzultačné činnosti.
+Kvalifikovaný mesačný odhad rozsahu služieb Dodávateľa potrebný na
+nevyhnutnú správu a údržbu informačného systému Objednávateľa.
+Realizačný zamestnanec dodávateľa, odborne spôsobilý poskytnúť minimálne
+základnú úroveň podpory oprávnenej osobe Objednávateľa.
+Spoločné pomenovanie operatívnych incidentov a požiadaviek.
+
+Článok 2
+2.1
+
+Predmet zmluvy
+
+Predmetom tejto zmluvy je záväzok Dodávateľa poskytovať Objednávateľovi služby
+požadovaných druhov, parametrov a rozsahu podľa prílohy č. 1 tejto zmluvy.
+
+2.2
+
+2.3
+
+2.4
+
+Zmluvné strany sa dohodli, že Dodávateľ môže poskytnúť Objednávateľovi aj služby nad rámec
+uvedený v prílohe č. 1, a to na základe Objednávateľom odsúhlasenej cenovej ponuky a
+Dodávateľom akceptovanej objednávky Odberateľa.
+Za poskytnutie služieb v súlade ods. 2.2 sa považuje také plnenie, ktorého realizáciou dochádza
+k prekročeniu dohodnutého časového rozsahu služieb podľa Prílohy č. 1 alebo plnenie, ktoré
+2.3.1 sa vzťahuje na iné hardvérové a softvérové prostriedky Objednávateľa, ako sú uvedené
+v prílohe č. 1,
+2.3.2 sa charakterom služieb odlišuje od služieb poskytovaných podľa prílohy č. 1,
+2.3.3 svojím zadaním presahuje SLO parametre uvedené v prílohe č. 1.
+Ak si to charakter služby vyžiada, Dodávateľ je oprávnený nad rámec prílohy č. 1 spolu so
+službou dodať aj príslušné náhradné diely, tovar, resp. materiál (ďalej len „náhradné diely“),
+alebo nadštandardný pozáručný servis dielov zariadení poskytovaný výrobcom zariadení
+(pozáručný servicepack).
+
+Článok 3
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+3.7
+
+3.8
+3.9
+
+Cena dodávky a platobné podmienky
+
+Zmluvná cena je stanovená na základe dohody zmluvných strán, v zmysle zákona č.18/1996
+Z. z. o cenách v znení neskorších predpisov a vyhlášky č. 87/1996 Z. z. v znení neskorších
+predpisov.
+Zmluvná cena služieb podľa Článku 2 ods. 2.1 je stanovená nasledovne:
+Zmluvná cena spolu bez DPH
+415,80 € / za mesiac
+DPH 20 %
+83,16 € / za mesiac
+Celková zmluvná cena s DPH
+498,96 € / za mesiac
+(slovom: štyristodeväťdesiatosem euro a deväťdesiatšesť eurocentov).
+V zmluvnej cene sú zahrnuté všetky náklady Dodávateľa spojené s vykonávaním predmetu
+plnenia podľa Článku 2 ods. 2.1, t. j. okrem prípadných služieb poskytnutých v súlade s čl. 2
+ods. 2.2 a 2.2, náhradných dielov a pozáručných servicepackov dodaných v súlade s Článkom
+2 ods. 2.4 a prepravných nákladov vzniknutých na strane Dodávateľa. Daň z pridanej hodnoty
+bude účtovaná v zákonom stanovenej výške.
+Právo na zaplatenie zmluvnej ceny vzniká Dodávateľovi riadnym a včasným splnením jeho
+záväzku, t. j. poskytnutím služby v stanovenej lehote a rozsahu a jeho protokolárnym
+odovzdaním Objednávateľovi v súlade s Článkom 4.
+Mesačný rozsah služieb servisného paušálu je časovo prenosný. Rozsah čerpania servisných
+služieb sa vyhodnocuje vždy na konci kalendárneho štvrťroka (t.j. po skončení mesiaca: marec,
+jún, september a december); v prípade nevyčerpania rozsahu služieb servisného paušálu v
+danom štvrťroku nevzniká objednávateľovi právo na zľavu alebo na prenos nevyčerpanej časti
+paušálu do ďalšieho obdobia.
+Služby realizované v súlade s Článku 2 ods. 2.2 a 2.2 nad rámec dohodnutého mesačného
+rozsahu, ako aj dodané náhradné diely budú na faktúre uvedené samostatnou položkou.
+3.6.1 Cena za služby poskytnuté v súlade s Článkom 2 ods. 2.2 a 2.2, vrátane prepravných
+nákladov vzniknutých na strane Dodávateľa, bude stanovená podľa aktuálne platného
+cenníka služieb Dodávateľa, ktorý tvorí prílohu č. 2 tejto zmluvy s použitím zľavy 15 %.
+3.6.2 Ak na základe požiadavky Odberateľa poskytne Dodávateľ služby, ktoré v súlade
+s Článkom 2 ods. 2.2 bod 2.3.3 prekročia dohodnuté SLO parametre príslušnej služby,
+pri výpočte ceny takto poskytnutej služby sa použijú sadzby príplatkov uvedené
+v prílohe č. 2.
+3.6.3 Cena náhradných dielov dodaných v súlade s čl. 2 ods. 2.4 bude stanovená ako
+nákupná cena Dodávateľa upravená o primeranú mieru zisku.
+V prípade zmeny cien uvedených v cenníku služieb je Dodávateľ povinný o tejto zmene
+Objednávateľa informovať. Túto povinnosť, si Dodávateľ splní i tým, že nový cenník zašle
+elektronicky Objednávateľovi na dohodnutú e-mailovú adresu.
+Zmluvná cena bude fakturovaná mesačne, a to najneskôr do 5. dňa nasledujúceho
+kalendárneho mesiaca.
+Faktúra musí mať náležitosti daňového dokladu v súlade so zákonom č. 222/2004 Z. z. o dani
+z pridanej hodnoty v znení neskorších predpisov. Prílohu faktúr budú tvoriť doklady
+potvrdzujúce rozsah plnenia predmetu zmluvy podľa Článku 4 ods. 4.1.
+
+3.10
+3.11
+
+3.12
+
+3.13
+
+Splatnosť faktúry je 60 dní odo dňa vystavenia faktúry. Dodávateľ je povinný zaslať faktúru
+Objednávateľovi v deň jej vystavenia.
+Ak dôjde počas výkonu k zmene parametrov alebo rozsahu služieb voči dohodnutým
+podmienkam tejto zmluvy, s dopadom na zmluvnú cenu dodávky uvedenú v ods. 3.2, zmluvné
+strany obojstranne odsúhlasia zodpovedajúcu zmenu ceny formou dodatku k zmluve.
+Dopady zmien platných colných alebo daňových predpisov na cenu dodávky uvedenú v ods.
+3.2 je Dodávateľ oprávnený premietnuť do fakturovanej ceny v plnom rozsahu, bez
+predchádzajúceho súhlasu Objednávateľa. Uvedené zmeny bude Dodávateľ Objednávateľovi
+hodnoverne dokladovať.
+Zmluvné strany sa dohodli, že Dodávateľ ako veriteľ nemôže postúpiť pohľadávky voči
+Objednávateľovi ako dlžníkovi tretej osobe, podľa § 524 a nasl. zák. č. 40/1964 Zb.
+Občianskeho zákonníka v znení neskorších predpisov (ďalej len „Občiansky zákonník“), bez
+predchádzajúceho súhlasu dlžníka. Právny úkon, ktorým veriteľ postúpi pohľadávky voči
+dlžníkovi tretej osobe bez predchádzajúceho súhlasu dlžníka, je podľa § 39 Občianskeho
+zákonníka neplatný. Veriteľ berie na vedomie, že súhlas dlžníka je platný len za podmienky, že
+bol na takýto úkon udelený predchádzajúci písomný súhlas MZ SR.
+
+Článok 4
+4.1
+
+4.2
+
+4.3
+
+Rozsah plnenia predmetu zmluvy potvrdia oprávnení zamestnanci zmluvných strán
+bezodkladne svojimi podpismi pod doklady potvrdzujúce rozsah plnenia predmetu zmluvy,
+ktorými môžu byť
+4.1.1 protokol z činnosti,
+4.1.2 pracovný list,
+4.1.3 odovzdávací protokol,
+4.1.4 akceptačný protokol,
+4.1.5 dodací list.
+Pre podpis dokladov potvrdzujúcich rozsah plnenia predmetu zmluvy sú stanovení oprávnení
+zamestnanci Objednávateľa a technici Dodávateľa. Zástupcovia zmluvných strán, oprávnení
+rokovať vo veciach zmluvných a obchodných, sú povinní navzájom sa písomne informovať
+o prípadných zmenách týchto zamestnancov.
+Ak Objednávateľ neumožní Dodávateľovi splniť predmet zmluvy, alebo ak Objednávateľ nebude
+včas schopný podpísať doklady potvrdzujúce rozsah plnenia predmetu zmluvy podľa ods. 4.1
+Dodávateľ uvedie túto skutočnosť do pracovného listu. Takýto pracovný list sa bude považovať
+za postačujúci podklad pre fakturáciu. Táto skutočnosť však nezbaví Dodávateľa povinnosti
+splniť predmet zmluvy bezodkladne po tom, ako mu to Objednávateľ umožní.
+
+Článok 5
+5.1
+
+5.2
+
+5.3
+
+5.4
+
+Protokolárne odovzdanie
+
+Povinnosti Dodávateľa a Objednávateľa
+
+Dodávateľ je povinný prijímať nahlásenie udalosti zo strany Objednávateľa v zmysle
+definovaného servisného pokrytia podľa prílohy č. 1 tejto zmluvy. Udalosti môžu oprávnené
+osoby Objednávateľa nahlasovať na telefónne číslo Zákazníckeho centra Dodávateľa
++421 48 437 2000 prostredníctvom webového rozhrania https://helpdesk.gamo.sk, alebo na email helpdesk@gamo.sk, a to prostredníctvom oprávnených osôb Objednávateľa. Pri hlásení
+udalosti je potrebné uviesť popis vzniknutej udalosti, kontaktné údaje oprávnenej osoby
+a informácie o príslušných prostriedkoch informačného systému Objednávateľa.
+Služby v zmysle tejto zmluvy bude Dodávateľ realizovať prostredníctvom telefonickej
+asistencie, vzdialeného pripojenia alebo fyzickým zásahom na mieste prevádzky informačného
+systému v zmysle pohotovosti podľa prílohy č. 1. Dodávateľ vynaloží maximálne úsilie na čo
+najrýchlejšie obnovenie núdzovej a následne plnej prevádzky informačného systému
+Objednávateľa. Ak situácia neumožňuje riešenie udalosti na mieste prevádzky informačného
+systému, môžu byť príslušné prostriedky informačného systému opravené v servisnom
+stredisku Dodávateľa.
+Objednávateľ je povinný najneskôr do piatich pracovných dní po podpise tejto zmluvy oznámiť
+Dodávateľovi mená kompetentných zamestnancov určených pre styk s Dodávateľom. V prípade
+akýchkoľvek zmien je Objednávateľ povinný Dodávateľa o novom stave písomne informovať.
+Objednávateľ je povinný vopred informovať Dodávateľa o všetkých vlastných zásahoch, ako aj
+prípadných zásahoch tretích strán, ktoré sa chystá vykonať na svojom informačnom systéme.
+
+5.5
+5.6
+
+Ak zálohovanie dát nie je predmetom tejto zmluvy, je v záujme Objednávateľa, aby si zabezpečil
+ich zálohovanie na vlastné náklady.
+Ak má Dodávateľ vykonať v rámci plnenia tejto zmluvy akékoľvek činnosti, v dôsledku ktorých
+by mohli byť ohrozené dáta Objednávateľa, ich komplexnosť, konzistentnosť, resp. kvalita, je
+Dodávateľ povinný pred vykonaním týchto činností upozorniť Objednávateľa na potrebu
+zálohovania príslušných dát.
+
+Článok 6
+6.1
+
+6.2
+6.3
+
+6.4
+
+Podmienky výkonu služieb
+
+Objednávateľ umožní zamestnancom Dodávateľa fyzický prístup do priestorov v ktorých je
+prevádzkovaný informačný systém Objednávateľa, alebo vzdialený prístup k hardvérovým
+a softvérovým prostriedkom uvedeným v prílohe č. 1, a to počas celej doby nevyhnutnej na
+poskytnutie služby v zmysle tejto zmluvy.
+Objednávateľ bude v rámci svojich možností nápomocný pri zabezpečovaní realizácie predmetu
+tejto zmluvy.
+Záruka na vykonané služby sa nevzťahuje na vady a poruchy, ktoré vzniknú vinou nesprávneho
+alebo nešetrného používania, neoprávneného zásahu do zariadenia alebo vplyvom prírodného
+živlu.
+Ak zálohovanie dát nie je predmetom tejto zmluvy, obnova zničených, stratených alebo
+poškodených dát sa nepovažuje za záručnú opravu a Dodávateľ ju môže vykonať za úplatu.
+
+Článok 7
+7.1
+
+7.2
+
+7.3
+
+7.4
+7.5
+
+Ochrana informácií
+
+Zmluvné strany budú zachovávať mlčanlivosť o dôverných informáciách získaných pri plnení
+záväzkov z tejto zmluvy. Dôvernými informáciami sú informácie, ktoré niektorá zo zmluvných
+strán písomne alebo iným preukázateľným spôsobom označila ako dôverné informácie,
+s výnimkou informácií verejne známych, ako aj informácií získaných oprávnene inak ako od
+druhej zmluvnej strany. Povinnosť zachovávať mlčanlivosť trvá neobmedzene aj po ukončení
+zmluvy.
+Dodávateľ sa zaväzuje dodržiavať ustanovenia zákona č. 18/2018 Z. z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 18/2018 Z. z.“). Dodávateľ
+vyhlasuje, že si je vedomý povinnosti dodržiavať uvedený právny predpis. Dodávateľ vyhlasuje,
+že bol poučený o právach a povinnostiach vyplývajúcich zo zákona č. 18/2018 Z. z., ako aj
+o následkoch spojených s jeho nedodržaním. V prípadoch, ak si plnenie predmetu tejto zmluvy
+bude vyžadovať akékoľvek sprístupnenie osobných údajov klientov Objednávateľa, Dodávateľ
+sa zaväzuje takéto osobné údaje spracovať alebo použiť len spôsobom, ktorý je v súlade s touto
+zmluvou, a len v rozsahu, ktorý je nevyhnutný na dosiahnutie jej účelu. Dodávateľ môže byť
+v tomto prípade sprostredkovateľom pri spracúvaní osobných údajov. Dodávateľ sa zaväzuje
+pri takomto spracovaní osobných údajov postupovať v súlade so zákonom č. 18/2018 Z. z.
+Dodávateľovi sa v tejto súvislosti zakazuje najmä kopírovať, skenovať, zaznamenávať,
+využívať, uchovávať, prenášať, poskytovať, sprístupňovať alebo zverejniť osobné údaje,
+s ktorými prichádza do styku pri plnení tejto zmluvy, na iné účely ako je dodávka, inštalácia
+a implementácia programového vybavenia či poskytovanie podpory v zmysle tejto zmluvy.
+Dodávateľ je povinný bezodkladne po naplnení účelu spracovania predmetných osobných
+údajov, najneskôr však po zániku tejto zmluvy ukončiť spracúvanie príslušných osobných
+údajov a osobné údaje zlikvidovať. Povinnosť ochraňovať osobné údaje nie je časovo
+obmedzená.
+Zmluvné strany budú ochraňovať dôverné informácie druhej zmluvnej strany, a to s rovnakou
+starostlivosťou ako ochraňujú vlastné dôverné informácie rovnakého druhu, vždy však najmenej
+v rozsahu primeranej odbornej starostlivosti.
+Dodávateľ má právo ponechať si projektovú dokumentáciu.
+Zmluvné strany sa budú bezodkladne písomne informovať o tom, že na základe zákona alebo
+na základe rozhodnutia príslušného orgánu im vznikla povinnosť zverejniť dôvernú informáciu
+druhej zmluvnej strany alebo jej časť.
+
+Článok 8
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+
+8.6
+
+Zodpovednosť za škodu
+
+Zmluvné strany sú zodpovedné za škodu spôsobenú v zmysle všeobecne záväzných právnych
+predpisov a ustanovení tejto zmluvy. Zmluvné strany sa zaväzujú k vyvinutiu maximálneho úsilia
+na predchádzanie škodám a na minimalizáciu vzniknutých škôd.
+Žiadna zo zmluvných strán nezodpovedá za škodu, ktorá vznikla v dôsledku vecne nesprávneho
+alebo inak chybného zadania, ktoré dostala od druhej zmluvnej strany. Žiadna zo zmluvných
+strán nezodpovedá za omeškanie spôsobené omeškaním s plnením záväzku druhej zmluvnej
+strany. Žiadna zo zmluvných strán nezodpovedá za škodu spôsobenú omeškaním druhej
+zmluvnej strany s jej vlastným plnením.
+Žiadna zo zmluvných strán nezodpovedá za omeškanie spôsobené okolnosťami vylučujúcimi
+zodpovednosť. Za okolnosti vylučujúce zodpovednosť sa považuje prekážka, ktorá nastala
+nezávisle od vôle povinnej strany a bráni jej v splnení jej povinnosti, ak nemožno rozumne
+predpokladať, že by povinná strana túto prekážku alebo jej následky odvrátila alebo prekonala,
+a ďalej, že by v čase vzniku záväzku túto prekážku predvídala. Zodpovednosť nevylučuje
+prekážka, ktorá vznikla až v čase, keď povinná strana bola v omeškaní s plnením svojej
+povinnosti, alebo vznikla z jej hospodárskych pomerov. Účinky vylučujúce zodpovednosť sú
+obmedzené iba na dobu, kým trvá prekážka, s ktorou sú tieto účinky spojené.
+Dodávateľ nesie zodpovednosť za stratu údajov z nosičov dát Objednávateľa spôsobenú
+výlučne vlastnou činnosťou. Dodávateľ však nenesie zodpovednosť za udalosti vzniknuté
+v dôsledku neodborného zásahu Objednávateľa, resp. tretej strany, ktoré si zabezpečil
+Objednávateľ bez vedomia Dodávateľa a ktoré spôsobili zmenu fungovania systému.
+Zmluvné strany sa zaväzujú bez zbytočného odkladu upozorniť druhú zmluvnú stranu na
+vzniknuté okolnosti vylučujúce zodpovednosť, ktoré bránia riadnemu plneniu tejto zmluvy.
+Zmluvné strany sa zaväzujú k vyvinutiu maximálneho úsilia k odvráteniu a prekonaniu okolností
+vylučujúcich zodpovednosť.
+Zmluvná strana, ktorá si nárokuje náhradu škody, musí vznik škody druhej zmluvnej strane
+hodnoverne písomne preukázať.
+
+Článok 9
+9.1
+
+9.2
+
+9.3
+
+9.4
+
+9.5
+
+9.6
+
+Zmluvné pokuty
+
+Zmluvná strana je v omeškaní s plnením záväzku, ak nesplní riadne a včas svoj záväzok, ktorý
+pre zmluvnú stranu vyplýva z tejto zmluvy a jej dodatkov, a to až do doby poskytnutia riadneho
+plnenia alebo do doby, keď záväzok zanikne iným spôsobom.
+Zmluvná strana nie je v omeškaní, ak požiadala o zmenu termínu plnenia a táto zmena termínu
+bola písomne akceptovaná druhou zmluvnou stranou. Žiadosť o zmenu termínu plnenia musí
+byť doručená písomne v dostatočnom čase pred termínom plnenia tak, aby druhej zmluvnej
+strane nevznikli škody, s uvedením dôvodu a náhradného termínu plnenia.
+Ak Objednávateľ zaviní termínové sklzy plnenia Dodávateľa, alebo nútené zastavenie činnosti
+Dodávateľa na plnení predmetu zmluvy, v tom prípade Dodávateľ nenesie zodpovednosť
+za časový sklz, a tým ani nie je povinný platiť Objednávateľovi zmluvné pokuty, ktoré by z tohto
+dôvodu vznikli.
+Zmluvné strany sa dohodli, že ak je Dodávateľ vlastným zavinením v omeškaní s termínom
+poskytnutia služieb, Objednávateľ mu môže účtovať zmluvnú pokutu vo výške 0,04 % za každý
+deň omeškania z čiastky, s ktorou je Dodávateľ v omeškaní. Zaplatenie zmluvnej pokuty nemá
+vplyv na náhradu skutočne vzniknutej škody podľa § 373 a nasl. Obchodného zákonníka.
+Ak je objednávateľ v omeškaní so splnením peňažného záväzku alebo jeho časti, vzniká
+Dodávateľovi, ktorý si splnil svoje zákonné a zmluvné povinnosti, právo požadovať od
+objednávateľa z nezaplatenej sumy úroky z omeškania, podľa § 369 ods. 2 zák. č. 513/1991
+Zb., v spojení s § 1 ods. 1 a 3 nar. vlády SR č. 21/2013 Z.z., ktorým sa vykonávajú niektoré
+ustanovenia Obchodného zákonníka, t.j. vo výške základnej úrokovej sadzby Európskej
+centrálnej banky platnej k prvému dňu príslušného kalendárneho polroka omeškania zvýšenej
+o osem percentuálnych bodov; takto určená sadzba úrokov z omeškania sa použije počas celej
+doby omeškania.
+Podkladom pre uhradenie zmluvnej pokuty, resp. úroku z omeškania je jej jeho vyúčtovanie
+oprávnenou zmluvnou stranou. Zmluvná pokuta, resp. úrok z omeškania je splatná do 14 dní
+odo dňa doručenia písomnej výzvy oprávnenej zmluvnej strany na ich uhradenie povinnou
+zmluvnou stranou.
+
+Článok 10
+10.1
+
+10.2
+
+Zmluvné strany budú oslobodené od zodpovednosti za neplnenie svojich záväzkov
+vyplývajúcich z tejto zmluvy, pokiaľ takéto neplnenie je zavinené pôsobením vyššej moci.
+Vyššou mocou sa rozumejú najmä požiar, zemetrasenie, havária, štrajk, embargo,
+administratívne opatrenia štátu a iné také udalosti, ktoré zmluvné strany nemohli za normálnych
+okolností predvídať, a ktorým nemohli pri použití obvyklých prostriedkov a opatrení zabrániť.
+O začatí, ako aj o pominutí pôsobenia vyššej moci sú zmluvné strany povinné sa vzájomne
+bezodkladne písomne informovať. Oslobodenie od zodpovednosti za neplnenie predmetu
+zmluvy trvá po dobu pôsobenia vyššej moci, najviac však 1 mesiac. Po uplynutí tejto doby sa
+zmluvné strany dohodnú na ďalšom postupe a prípadne na vzájomnom odstúpení od tejto
+zmluvy.
+
+Článok 11
+11.1
+11.2
+
+11.3
+11.4
+
+Vyššia moc
+
+Ukončenie zmluvy
+
+Žiadna zo zmluvných strán nebude mať právo odstúpiť od tejto zmluvy pre neplnenie záväzkov
+druhej zmluvnej strany bez toho, že by jej dala aspoň 10-dňovú lehotu na nápravu.
+Zmluvu možno predčasne ukončiť:
+11.2.1 dohodou zmluvných strán,
+11.2.2 výpoveďou s dvojmesačnou výpovednou lehotou, ktorá začína plynúť od 1. dňa
+nasledujúceho mesiaca po doručení výpovede druhej zmluvnej strane,
+11.2.3 jednostranným odstúpením v prípade opakovaného porušovania ustanovení tejto
+zmluvy jednou zo zmluvných strán. Odstúpenie je účinné dňom doručenia písomného
+odstúpenia od zmluvy druhej zmluvnej strane. Obidve zmluvné strany akceptujú právo
+náhrady škody v prípade,
+a) ak jedna so zmluvných strán vstúpi do likvidácie,
+b) ak na majetok jednej so zmluvných strán bude vyhlásený konkurz,
+c) ak jedna zmluvná strana bez súhlasu druhej zmluvnej strany postúpi práva
+a záväzky zo zmluvy na inú osobu.
+Výpoveď, alebo odstúpenie od zmluvy musia byť zaslané doporučene.
+Zmluvné strany sa zaväzujú vzájomne uhradiť všetky dlžné čiastky vzniknuté v súvislosti
+s plnením tejto zmluvy, a to ku dňu vyhlásenia konkurzu, alebo vstupu do likvidácie.
+
+Článok 12 Komunikácia a doručovanie písomností
+12.1 Zmluvné strany sa dohodli, že ich vzájomná písomná korešpondencia sa bude zasielať na adresy
+uvedené v záhlaví zmluvy, alebo e-mailová komunikácia na dohodnuté e-mailové adresy, pokiaľ
+zo zmluvy nevyplýva inak. Až do okamihu doručenia oznámenia o zmene kontaktnej adresy sa
+považuje za adresu určenú na doručovanie adresa uvedená v záhlaví zmluvy. V prípade
+nesplnenia oznamovacej povinnosti zmeny adresy na doručovanie, znáša následky s tým
+spojené osoba, ktorá si nesplnila svoju oznamovaciu povinnosť.
+12.2 Výpoveď a odstúpenie od zmluvy musia mať písomnú formu a musia byť doručené druhej
+zmluvnej strane. Výpoveď a odstúpenie od zmluvy sa doručuje osobne alebo doporučene do
+vlastných rúk. Za účinné doručenie výpovede alebo odstúpenia od zmluvy sa považuje aj
+odmietnutie ich prevzatia zmluvnou stranou, ktorej je písomnosť určená, pričom zásielka sa bude
+považovať za doručenú momentom odmietnutia prevzatia. Rovnako sa bude doručenie
+považovať za účinné aj v prípade, ak adresát zásielku neprevezme z dôvodu neaktuálnosti adresy
+alebo z akéhokoľvek iného dôvodu, pričom účinky doručenia výpovede alebo odstúpenia od
+zmluvy nastanú v danom prípade dňom vrátenia sa nedoručenej zásielky späť odosielateľovi, i
+keď sa adresát o obsahu zásielky nedozvedel.
+12.3 Ustanoveniami odsekov 12.1 a 12.2 tohto článku sa bude spravovať aj doručovanie ostatných
+písomností medzi stranami, ako sú faktúry, dobropisy, upomienky a vyúčtovanie.
+
+Článok 13
+13.1
+
+Záverečné ustanovenia
+
+Zmluva sa uzatvára na dobu určitú - do 30.06.2019.
+
+13.2
+
+13.3
+
+13.4
+
+13.5
+
+13.6
+
+13.7
+13.8
+13.9
+
+Pokiaľ to táto zmluva nestanovuje inak, budú sa vzájomné vzťahy zmluvných strán včítane
+prípadných sporov riadiť príslušnými ustanoveniami Obchodného zákonníka a ďalšími
+všeobecne záväznými právnymi predpismi.
+Ak niektoré z ustanovení tejto zmluvy prestanú byť platné, neznamená to, že celá zmluva stráca
+platnosť. V takom prípade sa zmluvné strany dohodli, že nájdu formulácie a znenie čo najviac
+podobné pôvodnému zámeru a nahradia ich tak, aby bol zachovaný účel a cieľ tejto zmluvy, pri
+rešpektovaní nových faktov, bez ujmy pre obidve zmluvné strany.
+Táto zmluva nadobúda platnosť dňom jej podpisu obidvomi zmluvnými stranami a účinnosť
+dňom nasledujúcim po jej zverejnení Objednávateľom v Centrálnom registri zmlúv podľa § 5a
+zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov a podľa § 47a zákona č. 40/1964 Zb. Občianskeho
+zákonníka v znení neskorších predpisov.
+Meniť, alebo dopĺňať obsah tejto zmluvy je možné len formou písomných dodatkov, ktoré budú
+platné, ak budú riadne potvrdené a podpísané oprávnenými zástupcami obidvoch zmluvných
+strán a budú uzavreté v súlade so ZVO.
+K návrhom dodatkov k tejto zmluve sa zmluvné strany zaväzujú vyjadriť písomne, v lehote 15
+dní od doručenia návrhu dodatku druhej strane. Po tú istú dobu je týmto návrhom viazaná
+strana, ktorá ho podala.
+Táto zmluva je vyhotovená vo dvoch exemplároch, z ktorých každá zmluvná strana dostane
+jeden exemplár.
+Zmluvné strany vyhlasujú, že si zmluvu prečítali, jej obsahu porozumeli a na znak toho, že
+obsah zmluvy zodpovedá ich skutočnej a slobodnej vôli, ju podpisujú.
+Neoddeliteľnú súčasť tejto zmluvy tvoria nasledovné prílohy:
+Príloha č. 1 Špecifikácia predmetu zmluvy;
+Príloha č. 2 Cenník služieb;
+Príloha č. 3 Protokol o spustení služby Incident Management System a Servisnej zmluvy
+(vzor).
+
+V Banskej Bystrici, ......................
+
+V Banskej Bystrici, 29.6.2018
+
+Za Objednávateľa
+
+Za Dodávateľa
+
+Ing. Juraj Gallo
+člen štatutárneho orgánu – ekonomický
+riaditeľ
+
+Iveta Milčíková
+podpredseda predstavenstva GAMO a.s
+
+....................................................................
+MUDr. Miloslav Hanula PhD.,
+člen štatutárneho orgánu –
+medicínsky riaditeľ
+
+Mgr. Peter Luby
+Člen predstavenstva GAMO a.s.
+
+Príloha č. 1
+Zmluvy o servise č. O-18/0046
+Špecifikácia predmetu zmluvy
+1. Parametre servisnej zmluvy:
+SLO parametre
+Reakčná doba
+Servisné pokrytie
+Spravované zariadenia a systémy
+Pravidelná administrácia
+Paušál pre servisné zásahy
+Monitorované zariadenia a systémy
+Časovné pokrytie monitorovania
+
+do 8 hodín
+Pracovné dni 8:00 – 16:00
+Podľa zoznamu v bode 2
+2 hodiny mesačne
+5 hodín mesačne (prenos v rámci 1 kvartálu)
+Podľa zoznamu v bode 2
+24 hodín denne
+
+Služby poskytované v rámci pravidelnej administrácie a správy systémov
+Pravidelná administrácia a kontrola systémov a služieb podľa zoznamu
+Výkon servisných zásahov podľa požiadaviek
+Spracovanie pravidelných výkazov o činnosti 1x mesačne
+Spracovanie dokumentácie o aktuálnom stave a návrh ďalšieho rozvoja 1x ročne
+Služby poskytované v rámci monitorovania systémom IMS
+Monitoring dohodnutého počtu lokalít, zariadení, systémov a služieb v zmysle zoznamu
+Emailové notifikácie v zmysle protokolu o službe
+Dohľad nad monitorovacími proxy servermi
+Aktualizácia celého systému monitoringu 1x ročne
+Pravidelná aktualizácia monitorovacích šablón
+Úpravy nastavení podľa požiadaviek
+Jednorazové zriadenie služby monitorovania systémom IMS obsahuje
+Spracovanie parametrov služby a vzájomné odsúhlasenie na základe protokolu o službe
+Inštalácia proxy serverov v zmysle protokolu, test funkčnosti
+Zavedenie jednotlivých monitorovaných zariadení a služieb do systému monitoringu a Zákazníckeho
+centra v zmysle protokolu
+Test funkčnosti riešenia
+Odovzdanie dokumentácie a prístupov v zmysle protokolu
+Implementácia bude vykonaná v rámci poskytnutých služieb monitorovania do konca prvého mesiaca
+účinnosti Zmluvy o servise.
+
+2. Poskytnutie služieb komplexného dohľadu cez systém IMS a pravidelnej administrácie
+a servisných zásahov pre zariadenia a systémy:
+
+#
+
+Lokalita
+
+Požadovaná
+administrácia
+a správa
+
+Požadované
+monitorovanie
+(Monitoring
+službou IMS)
+
+Názov zariadenia/entity
+
+Typ
+
+1
+
+IBM Storwize V5010
+
+HW diskové pole
+
+BB
+
+Áno
+
+Áno
+
+PN: 64P8447
+SN: 781K686
+
+2
+
+IBM Storage IBM DS
+3524
+
+HW diskové pole
+
+BB
+
+Áno
+
+Áno
+
+PN: 1746-C4A
+SN: 13D1578
+
+3
+
+UPS APC Smart - UPSX
+1500VA
+
+UPS
+
+BB
+
+Áno
+
+Áno
+
+4
+
+Cisco ASA 5516-X
+
+Firewall
+
+BB
+
+Áno
+
+Áno
+
+5
+
+HP ProLiant DL360 G7
+
+HW server
+
+BB
+
+Áno
+
+Áno
+
+6
+
+HP ProLiant DL380p G8
+
+HW server
+
+BB
+
+Áno
+
+Áno
+
+7
+
+HP ProLiant DL380 G9
+
+HW server
+
+BB
+
+Áno
+
+Áno
+
+8
+
+HP Proliant DL380 G5
+
+HW server
+
+BB
+
+Áno
+
+Áno
+
+9
+
+Cisco Catalyst
+
+Switch
+
+BB
+
+Áno
+
+Áno
+
+10
+
+DFN01 (WAN)
+
+OS fyzický
+
+BB
+
+Nie
+
+Áno
+
+Poznámka
+
+PN: 470065-596
+SN: CZJ14602MG
+Monitorovanie
+dostupnosti (ICMP)
+PN: 642120-421
+SN: CZ222706ZH
+Monitorovanie
+dostupnosti (ICMP)
+PN: 752689-B21
+SN: CZJ54109DK
+Monitorovanie
+dostupnosti (ICMP)
+PN: 458563-421
+SN: CZC82117F2
+Monitorovanie
+dostupnosti (ICMP)
+Stoh 2 x switch
+
+Príloha č. 2
+Zmluvy o servise č. O-18/0046
+
+Cenník služieb
+A. Dodávky tovarov
+Cena tovarov je tvorená súčtom nákupnej ceny dodávaného tovaru a primeranej marže.
+B. Dodávky služieb
+
+Cenník výkonu odborných služieb
+
+Cena bez DPH Cena s DPH
+
+Servisný technik pre koncové zariadenia
+
+1 hod.
+
+35,00 €
+
+42,00 €
+
+Špecialista pre serverovú infraštruktúru (HW a SW) a
+databázy
+
+1 hod.
+
+65,00 €
+
+78,00 €
+
+Špecialista pre sieťovú infraštruktúru
+
+1 hod.
+
+65,00 €
+
+78,00 €
+
+Vývoj softvérových riešení
+
+1 hod.
+
+65,00 €
+
+78,00 €
+
+C. Konzultačné a poradenské služby
+
+Cenník služieb
+
+Cena bez
+DPH
+
+Cena s DPH
+
+Konzultačné služby
+
+1 hod.
+
+65,00 €
+
+78,00 €
+
+Špeciálne konzultačné a poradenské služby
+
+1 hod.
+
+100,00 €
+
+120,00 €
+
+D. Príplatky
+
+Cenník služieb
+
+Príplatok
+
+Výkon v pracovný deň mimo pracovných hodín
+
+50%
+
+Výkon v deň pracovného voľna a v noci
+
+100%
+
+E. Cena prepravy
+
+Cenník prepravy
+Preprava tovaru alebo technika osobným automobilom
+
+Cena bez
+DPH
+1 km
+
+0,40 €
+
+Cena s DPH
+0,48 €
+
+Príloha č. 3
+Zmluvy o servise č. O-18/0046
+
+Protokol o spustení služby Incident Management System a Servisnej zmluvy
+(vzor)
+
+

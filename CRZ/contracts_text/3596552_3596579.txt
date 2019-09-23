@@ -1,0 +1,869 @@
+Zmluva o spolupráci č. D2018072617
+(ďalej len „Zmluva”)
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Z.z. Obchodný zákonník v znení neskorších
+predpisov (ďalej len „Zákon”)
+medzi:
+Obchodné meno:
+Disig, a.s.
+Sídlo:
+Záhradnícka 151, 821 08 Bratislava
+IČO:
+35 975 946
+DIČ:
+2022116976
+IČ DPH:
+SK2022116976
+Zapísaný/á v:
+Obchodnom registri OS Bratislava I, oddiel: Sa, vložka č.: 3794/B
+Bankové spojenie:
+Tatra Banka a.s. Bratislava
+IBAN:
+SK11 1100 0000 0026 2576 8772
+Email:
+radisig@disig.sk
+Spoločnosť je v zmysle Nariadenia eIDAS kvalifikovaným poskytovateľom dôveryhodných služieb.
+(ďalej len „Poskytovateľ”)
+a
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Právna forma:
+
+Univerzita Pavla Jozefa Šafárika v Košiciach
+Šrobárova č. 2, 041 80 Košice
+00 397 768
+2021157050
+SK 2021157050
+verejnoprávna inštitúcia zriadená zákonom č. 131/2002 Z. z. o vysokých
+školách ako verejná vysoká škola
+
+Bankové spojenie:
+IBAN:
+Zodpovedná osoba:
+E-mail:
+(ďalej len „RA”)
+
+Štátna pokladnica
+SK05
+8180 0000 0070 0049 7848
+https://www.youtube.com/watch?v=FYb8U0J_tuY
+Ing. Mária Paňková
+maria.pankova@upjs.sk
+
+(Poskytovateľ a RA ďalej spoločne ako „Zmluvné strany” alebo jednotlivo ako „Zmluvná strana“)
+1.
+
+Výklad pojmov
+
+1.1
+
+Pokiaľ z ustanovení tejto Zmluvy výslovne nevyplýva inak, majú nižšie uvedené pojmy
+nasledovný význam:
+(a) „Certifikát“ znamená certifikát pre elektronický podpis, kvalifikovaný certifikát pre
+elektronický podpis, certifikát pre elektronickú pečať alebo kvalifikovaný certifikát pre
+elektronickú pečať v zmysle Nariadenia eIDAS alebo mandátny certifikát v zmysle Zákona
+vydaný Poskytovateľom.
+(b) „Dôveryhodné služby“ sú dôveryhodné služby a kvalifikované dôveryhodné
+služby vydávania Certifikátov poskytované Poskytovateľom v zmysle Nariadenia
+eIDAS, Zákona a Predpisov Poskytovateľa. Dôveryhodné služby môžu pozostávať aj z ďalších
+pridružených služieb súvisiacich s vydávaním Certifikátov, najmä z generovania kľúčových
+párov, prípravy a predaja zariadení na vyhotovovanie elektronických podpisov alebo pečatí
+a pod.
+
+ZMLUVA Č. D2018072617
+(c)
+
+„Dokumentácia“ je tvorená akýmkoľvek dokumentom v elektronickej alebo papierovej
+forme, ktorý obsahujú informáciu:
+(i)
+
+na základe ktorej bol vydaný Certifikát, vrátane dokumentov, ktoré potvrdzujú
+identitu alebo špecifické atribúty fyzickej alebo právnickej osoby, ktorej sa Certifikát
+vydáva (najmä, nie však výlučne: žiadosti o vydanie Certifikátu, akékoľvek zmluvy
+týkajúce sa vydania a používania Certifikátu, plnomocenstvá, poverenia, výpisy
+z obchodného registra resp. iných verejných registrov, súhlasy s vydaním Certifikátu
+alebo iné dokumenty potvrdzujúce, že držiteľ certifikátu je oprávnený konať za/v
+mene inej osoby, vykonávať určitú funkciu alebo činnosť, atď.),
+
+(ii) týkajúcu sa vydania alebo zrušenia Certifikátu (najmä, nie však výlučne: potvrdenie
+o vydaní Certifikátu, žiadosť o zrušenie Certifikátu, účtovné doklady a pod.).
+Podrobnosti o obsahu Dokumentácie a dokumentoch, ktoré ju tvoria ustanovujú Predpisy
+Poskytovateľa.
+(d) „Dôverné informácie“ technické, obchodné alebo výrobné údaje alebo iné informácie
+týkajúce sa Poskytovateľa, ktoré nie sú verejne prístupné a ktoré sa RA dozvie v súvislosti
+splnením tejto zmluvy. Dôvernými informáciami môžu byť najmä, ale nie výlučne, komerčné
+informácie, know-how, dáta, dokumentácie, špecifikácie, postupy a procesy, analýzy,
+osobné údaje Držiteľov Certifikátu, Zákazníkov a ich zástupcov, iné informácie vzťahujúce
+sa na tieto osoby alebo obchodných partnerov Poskytovateľa alebo iné informácie
+z informačného systému Poskytovateľa v akejkoľvek podobe.
+(e) „Držiteľ Certifikátu“ je osoba uvedená v Certifikáte ako držiteľ súkromného kľúča
+prislúchajúcemu k verejnému kľúču, ku ktorému je vydaný Certifikát.
+Pozn: Zvyčajne je Držiteľ Certifikátu zároveň Zákazníkom, môže však ísť aj o dve rôzne
+osoby, napr. Zákazníkom je zamestnávateľ a Držiteľom Certifikátu zamestnanec.
+(f)
+
+„Nariadenie eIDAS“ znamená Nariadenie Európskeho parlamentu a Rady (EÚ) č. 910/2014
+z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické
+transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES, v účinnom znení.
+
+(g) „Pokyn Poskytovateľa“ znamená žiadosť, usmernenie, inštrukciu alebo výklad Predpisov
+Poskytovateľa, ktorý sa vzťahuje k plneniu predmetu tejto Zmluvy, pochádza od
+Poskytovateľa a je oznámený RA prostredníctvom jej Zodpovednej osoby.
+(h) „Pracovník RA“ je zamestnanec RA poverený v zmysle Zmluvy na výkon Certifikačných
+činností v mene RA.
+(i)
+
+„Predpisy Poskytovateľa“ sú nasledovné dokumenty, vždy v účinnom znení:
+(i)
+
+Politika poskytovania dôveryhodnej služby vydávania, overovania a validácie
+kvalifikovaných certifikátov, ktorá sa vzťahuje na kvalifikované certifikáty vydávané
+Poskytovateľom v zmysle Nariadenia eIDAS a na mandátne certifikáty vydávané
+v zmysle Zákona;
+
+(ii) Politika poskytovania dôveryhodnej služby vydávania, overovania a validácie
+certifikátov, ktorá sa vzťahuje na ostatné Certifikáty neuvedené v predchádzajúcom
+bode;
+(iii) Bezpečnostná smernica pre pracovníkov registračnej autority,
+Predpismi Poskytovateľa sú aj akékoľvek ďalšie nové predpisy resp. nové znenia týchto
+predpisov, ktoré boli alebo budú vydané Poskytovateľom a oznámené RA a ktoré sú
+zverejnené v RA Zóne, vždy v ich účinnom znení.
+(j)
+
+„RA Zóna“ je portál určený pre RA dostupný na adrese http://razona.disig.sk, kde sú
+dostupné platné a účinné Predpisy Poskytovateľa, Pokyny Poskytovateľa, cenníky ako aj
+vzory a formuláre pre výkon činnosti RA podľa tejto Zmluvy.
+
+(k) „Súčinnosť“ znamená poskytovanie, bez zbytočného oneskorenia, všetkej primeranej
+a relevantnej podpory, súhlasov, informácií, dokumentov, splnomocnení, osvedčení,
+S t r a n a 2 | 13
+
+ZMLUVA Č. D2018072617
+potvrdení, schválení, pokynov, ktoré môžu byť potrebné, a/alebo ktoré môže primerane a
+relevantne požadovať Zmluvná strana na úspešné a riadne plnenie príslušných povinností
+podľa tejto Zmluvy, Nariadenia eIDAS, Zákona, Predpisov o ochrane osobných údajov,
+Zmluvy o OU a prípadne iných predpisov.
+(l)
+
+„SW RA Client“ je softvér Poskytovateľa slúžiaci pre spoluprácu podľa Zmluvy.
+
+(m) „Zákon“ je zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie
+na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných
+službách), v účinnom znení.
+(n) „Predpisy o ochrane osobných údajov“ sú všeobecne záväzné predpisy týkajúce sa ochrany
+osobných údajov v ich účinnom znení, teda Nariadenie Európskeho Parlamentu a Rady (EÚ)
+2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe
+takýchto údajov a zákon č. 18/2018 Z. z. o ochrane osobných údajov.
+(o) „Zákon o DPH“ je zákon č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších
+predpisov, v účinnom znení.
+(p) „Zmluva o OU“ je Zmluva o spracúvaní osobných údajov uzavretá medzi Poskytovateľom
+a RA.
+(q) „Zodpovedná osoba“ je osoba pôsobiaca v RA uvedená v záhlaví tejto zmluvy, poverená RA
+na výkon úloh zodpovednej osoby v zmysle Zmluvy a Predpisov Poskytovateľa.
+(r)
+
+„Zákazník“ je fyzická alebo právnická osoba, ktorej Poskytovateľ poskytuje Dôveryhodné
+služby a ktorá tieto služby uhrádza.
+
+1.2
+
+Pokiaľ z kontextu nevyplýva inak, pojem uvedený v jednotnom čísle zahŕňa taktiež tento pojem
+v množnom čísle a naopak.
+
+2.
+
+Predmet zmluvy
+
+2.1
+
+Predmetom tejto Zmluvy je úprava podmienok vzájomnej spolupráce Zmluvných strán pri
+poskytovaní Dôveryhodných služieb Poskytovateľa prostredníctvom RA v súlade s Nariadením
+eIDAS, Zákonom, touto Zmluvou a Predpismi Poskytovateľa.
+
+3.
+
+Práva a povinnosti RA
+
+3.1
+
+RA sa na základe tejto Zmluvy, za dodržania podmienok stanovených v Zmluve a v Predpisoch
+Poskytovateľa, zaväzuje pri poskytovaní Dôveryhodných služieb vykonávať v mene a na účet
+Poskytovateľa výhradne nasledovné činnosti a úkony:
+(a) prijímať žiadosti o vydanie alebo zrušenie Certifikátu spolu s akoukoľvek Dokumentáciou
+potrebnou k týmto žiadostiam,
+(b) zamietať žiadosti o vydanie Certifikátu,
+(c) overovať totožnosť Držiteľov Certifikátu, Zákazníkov a ich zástupcov a za týmto účelom
+požadovať predloženie ich dokladov totožnosti,
+(d) overovať, či Držiteľ Certifikátu a Zákazník spĺňajú podmienky na uvedenie špecifického
+atribútu v Certifikáte a za týmto účelom od nich požadovať predloženie súvisiacich
+dokladov preukazujúcich dané oprávnenie,
+(e) odosielať overené žiadosti o vydanie alebo zrušenie Certifikátu Poskytovateľovi,
+(f)
+
+odovzdávať vydané Certifikáty Držiteľom Certifikátu,
+
+(g) uzatvárať a podpisovať za Poskytovateľa zmluvy týkajúce sa vydávania Certifikátov,
+potvrdenia o vydaní Certifikátu, resp. iné dokumenty súvisiace s Dôveryhodnými službami
+poskytovanými prostredníctvom RA, a
+(h) prijímať za Poskytovateľa od Zákazníkov platby za vydané Certifikáty,
+S t r a n a 3 | 13
+
+ZMLUVA Č. D2018072617
+(i)
+
+vystavovať v mene a na účet Poskytovateľa faktúry za vydanie Certifikátov v zmysle § 72
+ods. 5 Zákona o DPH
+
+(ďalej len „Certifikačné činnosti“).
+3.2
+
+RA sa pri výkone Certifikačných činností zaväzuje:
+(a) jednoznačne deklarovať smerom Zákazníkom alebo záujemcom o Dôveryhodné služby, že
+poskytované Dôveryhodné služby sú poskytované v mene Poskytovateľa a túto informáciu
+uvádzať vo všetkých informačných a propagačných materiáloch, týkajúcich sa
+Dôveryhodných služieb (web stránky, cenníky a pod.),
+(b) pôsobiť ako kontaktné miesto medzi Poskytovateľom a Zákazníkmi, resp. Držiteľmi
+Certifikátu,
+(c) pred vstupom do zmluvného vzťahu informovať jasným a zrozumiteľným spôsobom
+akúkoľvek osobu, ktorá má záujem o kvalifikované Dôveryhodné služby, a rovnako aj
+Zákazníkov a Držiteľov Certifikátov, o Všeobecných podmienkach poskytovania a používania
+dôveryhodnej služby vydávania a overovania Certifikátov Poskytovateľa ako aj o obmedzení
+ich používania,
+(d) riadne identifikovať Zákazníkov a Držiteľov Certifikátu, t. j. kontrolovať pravdivosť,
+úplnosť a aktuálnosť údajov uvedených v žiadosti o vydanie Certifikátu voči predloženým
+dokladom totožnosti, za ktorých pravdivosť, aktuálnosť a úplnosť v plnom rozsahu
+zodpovedá,
+(e) kontrolovať súlad ostatných údajov v žiadosti o vydanie Certifikátu (týkajúcich sa najmä
+dodatočných atribútov uvedených v Certifikáte) s údajmi v predložených dokladoch
+a ďalších dokumentoch, za ktorých pravdivosť, aktuálnosť a úplnosť v plnom rozsahu
+zodpovedá,
+(f)
+
+umožniť vydanie kvalifikovaného certifikátu výlučne na zariadenie, ktoré je kvalifikovaným
+zariadením na vyhotovovanie elektronického podpisu alebo pečate v súlade s Nariadením
+eIDAS a túto vlastnosť zariadenia overovať pri každom vydávaní kvalifikovaného certifikátu,
+
+(g) postupovať s odbornou starostlivosťou a v súlade s príslušnými právnymi predpismi, najmä s
+Nariadením eIDAS, Zákonom, Predpismi o ochrane osobných údajov, Predpismi
+Poskytovateľa ako aj Pokynmi Poskytovateľa, a riadne plniť všetky povinnosti, ktoré RA
+ukladajú uvedené predpisy, dokumenty a Pokyny Poskytovateľa,
+(h) pri akomkoľvek nakladaní s osobnými údajmi dodržiavať ustanovenia Predpisov o ochrane
+osobných údajov a osobitnej Zmluvy o OU,
+(i)
+
+prijímať a vybavovať jednoduché sťažnosti, reklamácie a dopyty Zákazníkov alebo
+Držiteľov Certifikátu, ktoré je v jej možnostiach vybaviť bez súčinnosti Poskytovateľa,
+pokiaľ nie je dôvod na ich postúpenie Poskytovateľovi,
+
+(j)
+
+poskytovať základnú podporu Zákazníkovi a/alebo Držiteľovi Certifikátu pri práci
+s Certifikátom (najmä ale nie výlučne inštalácia, registrácia do aplikácií, tvorba zálohy),
+
+(k) ku každému vydanému Certifikátu vytvárať potrebnú Dokumentáciu v zmysle Predpisov
+Poskytovateľa a túto Dokumentáciu uchovávať a spravovať podľa čl. 8 tejto Zmluvy,
+(l)
+
+zachovávať mlčanlivosť podľa bodu 3.9 tejto Zmluvy,
+
+(m) pri vykonávaní Certifikačných činností používať formuláre a vzory zverejnené v RA Zóne,
+(n) poskytnúť Poskytovateľovi Súčinnosť v dostatočnom rozsahu, najmä pri kontrole činnosti RA
+ako registračnej autority poverenými pracovníkmi Poskytovateľa podľa bodu 5.5 tejto
+Zmluvy alebo oprávnenými kontrolnými orgánmi podľa účinných právnych predpisov a to
+neodkladne na doručené písomné požiadanie Poskytovateľa,
+(o) oznámiť Poskytovateľovi na emailovú adresu uvedenú v záhlaví Zmluvy akúkoľvek
+skutočnosť, ktorá by mohla mať vplyv na plnenie tejto Zmluvy alebo na prijatie alebo zmenu
+Pokynov Poskytovateľa alebo Predpisov Poskytovateľa.
+S t r a n a 4 | 13
+
+ZMLUVA Č. D2018072617
+3.3
+
+Predpisy Poskytovateľa a prípadne Pokyny Poskytovateľa bližšie popisujú a špecifikujú povinnosti
+RA uvedené v bodoch 3.1 a 3.2 Zmluvy.
+
+3.4
+
+RA je povinná vykonávať Certifikačné činnosti, ktoré tvoria predmet tejto Zmluvy, výlučne
+osobne. Nie je teda oprávnená splnomocniť na ich výkon tretiu osobu. Tým nie je dotknuté právo
+RA poveriť Zodpovednú osobu alebo právo poveriť výkonom Certifikačných činností Pracovníkov
+RA.
+
+3.5
+
+RA je oprávnená poskytnúť Zákazníkom alebo Držiteľom Certifikátu aj nadštandardnú podporu
+nad rozsah základnej podpory v zmysle bodu 3.2(j) vrátane vlastných školení podľa dohody so
+Zákazníkom – túto podporu však RA poskytuje ako službu vo svojom vlastnom mene a na vlastnú
+zodpovednosť.
+
+3.6
+
+RA prehlasuje, že prijala dostatočne účinné opatrenia v oblasti technickej, organizačnej a
+personálnej bezpečnosti na plnenie predmetu tejto Zmluvy, a to minimálne na úrovni
+vyžadovanej Predpismi Poskytovateľa (najmä Bezpečnostnou smernicou) tak, aby bola najmä
+primerane zabezpečená ochrana Dokumentácie a spracovaných osobných údajov
+pred náhodným, ako aj nezákonným poškodením a zničením, náhodnou stratou, zmenou,
+nedovoleným prístupom a sprístupnením, ako aj pred akýmikoľvek inými neprípustnými formami
+spracúvania a nemohli byť ohrozené práva a právom chránené záujmy dotknutých osôb. RA je
+povinná ihneď odvrátiť čo i len možnosť ohrozenia práv a právom chránených záujmov
+dotknutých osôb. RA je povinná bez zbytočného odkladu oboznámiť Poskytovateľa čo i len s
+možnosťou ohrozenia práv a právom chránených záujmov Poskytovateľa či dotknutých osôb.
+
+3.7
+
+RA zároveň prehlasuje, že spĺňa všetky podmienky pre výkon Certifikačných činností, ktoré sú
+stanovené touto Zmluvou, v súčasnosti účinnými Predpismi Poskytovateľa ako aj v súčasnosti
+účinnými zneniami Nariadenia eIDAS, Zákona a Zákona o OU.
+
+3.8
+
+RA podpisom tejto Zmluvy zároveň vyhlasuje, že RA ako aj ňou poverení Pracovníci RA majú (a
+počas trvania Zmluvy budú mať) potrebnú odbornosť, skúsenosti, kvalifikáciu a vhodnú odbornú
+prípravu týkajúcu sa predpisov v oblasti bezpečnosti a ochrany osobných údajov a že uplatňuje
+(a počas trvania Zmluvy bude uplatňovať) administratívne a riadiace postupy, ktoré zodpovedajú
+európskym a medzinárodným normám.
+
+3.9
+
+RA je povinná vykonať všetky potrebné opatrenia na ochranu Dôverných informácií pred
+neoprávnenou manipuláciou a použiť Dôverné informácie iba na účely, na aké mu boli
+Poskytovateľom poskytnuté. Zároveň nesmie poskytnúť Dôverné informácie alebo umožniť
+prístup k nim (aj z nedbanlivosti) tretím stranám, pokiaľ sa nejedná o informácie, ktorých
+poskytnutie je zákonnou alebo touto Zmluvou založenou povinnosťou. RA sa zaväzuje nevyužiť
+vo vlastný prospech Dôverné informácie získané plnením tejto Zmluvy k výkonu konkurenčnej
+činnosti vo vzťahu k činnosti Poskytovateľa. RA v rovnakom rozsahu zabezpečí viazanosť a
+plnenie uvedených povinností aj zo strany všetkých Zodpovedných osôb, Pracovníkov RA
+prípadne iných zamestnancov, ktorý prídu do styku s Dôvernými informáciami. RA zodpovedá za
+to, že s Dôvernými informáciami sa oboznámia len tí zamestnanci RA, ktorí ich potrebujú
+nevyhnutne vedieť v súvislosti so spoluprácou, ktorá je predmetom tejto Zmluvy.
+
+3.10 RA má zo strany Poskytovateľa právo na konzultácie týkajúce sa poskytovaných Dôveryhodných
+služieb.
+3.11 RA má právo vyjadriť sa a zaslať Poskytovateľovi pripomienky k návrhu nového Predpisu
+Poskytovateľa, resp. k jeho zmene, a to v lehote určenej Poskytovateľom vo výzve k
+pripomienkovaniu. Poskytovateľ je následne povinný vyhodnotiť tieto pripomienky, poskytnúť
+RA spätnú väzbu a rozhodnúť, či ich začlení do finálnej verzie Predpisu Poskytovateľa.
+3.12 Ďalšie práva a povinnosti Zmluvných strán, Pracovníkov RA ako aj Zodpovedných osôb sú
+upravené v Predpisoch Poskytovateľa, ktoré sa Zmluvné strany zaväzujú dodržiavať ako súčasť
+tejto Zmluvy.
+4.
+
+Zodpovedná osoba a Pracovník RA
+
+4.1
+
+RA na základe tejto Zmluvy poveruje Zodpovednú osobu uvedenú v záhlaví tejto zmluvy, ktorá
+v mene RA:
+S t r a n a 5 | 13
+
+ZMLUVA Č. D2018072617
+(a) zabezpečí Súčinnosť Zmluvných strán pri plnení tejto Zmluvy, a to najmä pri odovzdávaní a
+prijímaní Dokumentácie, podpisovaní príslušných preberacích/odovzdávacích protokolov,
+pri audite RA zo strany Poskytovateľa a pod.,
+(b) pôsobí ako kontaktná osoba RA pre komunikáciu s Poskytovateľom, pre prijímanie Pokynov
+Poskytovateľa a pre prijímanie Predpisov Poskytovateľa, pričom zabezpečuje ich
+odovzdanie Pracovníkom RA,
+(c) dohliada na riadne plnenie úloh v zmysle tejto Zmluvy, Zmluvy o OU, Predpisov
+Poskytovateľa a Pokynov Poskytovateľa Pracovníkmi RA,
+(d) a vykonáva ďalšie úlohy vymedzené v Bezpečnostnej smernici.
+RA je povinná oboznámiť Zodpovednú osobu s obsahom tejto Zmluvy a Zmluvy o OU za účelom
+jej riadneho plnenia povinností v mene RA.
+4.2
+
+RA písomne poverí Pracovníkov RA na výkon Certifikačných činností v mene RA na základe vzoru
+poverenia Pracovníka RA, ktorý je zverejnený v RA Zóne. Toto poverenie následne zašle
+Poskytovateľovi. Do úlohy Pracovníka RA môže byť poverená výlučne osoba, ktorá spĺňa
+nasledovné kvalifikačné kritéria na výkon Certifikačných činností:
+(a) štátna príslušnosť – občan Slovenskej republiky,
+(b) dôveryhodnosť a bezúhonnosť,
+(c) absolvovanie školenia pre výkon činnosti Pracovníka RA organizovaného Poskytovateľom,
+(d) odborná znalosť problematiky elektronického podpisu a elektronických pečatí,
+(e) vedomosti z oblasti legislatívy (Nariadenie eIDAS, Zákon, Predpisy o ochrane osobných
+údajov),
+(f)
+
+znalosť platných Predpisov Poskytovateľa a Pokynov Poskytovateľa.
+
+4.3
+
+RA sa zaväzuje zabezpečiť, že pri plnení tejto Zmluvy budú v jej mene konať výlučne
+Zodpovedné osoby a Pracovníci RA, ktorí sú spôsobilí plniť predmet tejto Zmluvy, boli poučení
+v zmysle tejto Zmluvy, oznámení Poskytovateľovi (vrátane zaslania kópie príslušného poverenia)
+a absolvovali úvodné školenie organizované pracovníkmi Poskytovateľa.
+
+4.4
+
+RA je povinná oznámiť Poskytovateľovi na emailovú adresu uvedenú v záhlaví Zmluvy všetky
+zmeny týkajúce sa poverenia Zodpovedných osôb alebo Pracovníkov RA (najmä vznik, zánik
+poverenia, obmedzenie jeho rozsahu resp. zmeny v osobných údajoch alebo kontaktných
+údajoch týchto osôb) bezodkladne po tom, čo tieto zmeny nastanú, najneskôr však v lehote
+najneskôr 7 (slovom: sedem) dní od kedy k takejto zmene došlo. Zároveň je RA povinná
+Poskytovateľovi poskytnúť kópiu nového alebo zmeneného poverenia Zodpovednej osoby alebo
+nového Pracovníka RA.
+
+4.5
+
+Pre odstránenie pochybností platí, že RA (nie Pracovník RA či Zodpovedná osoba) je výlučne
+zodpovedná za dodržiavanie povinností RA voči Poskytovateľovi alebo tretím osobám.
+Uskutočnenie alebo neuskutočnenie akéhokoľvek faktického alebo právneho úkonu Zodpovednej
+osoby alebo Pracovníka RA sa považuje za konanie alebo nekonanie RA.
+
+4.6
+
+RA berie na vedomie, že na výkon spolupráce, ktorá je predmetom tejto Zmluvy, sa po úvodnom
+zaškolení pracovníkmi Poskytovateľa vyžaduje zo strany Zodpovedných osôb ako aj Pracovníkov
+RA znalosť a dodržiavanie aktuálne účinných Predpisov Poskytovateľa, Pokynov Poskytovateľa a
+relevantných všeobecne záväzných právnych predpisoch, vrátane ich novelizovaných alebo
+nových verzií v zmysle bodu 4.7 Zmluvy. RA zabezpečí účasť svojej Zodpovednej osoby
+a Pracovníkov RA na školeniach organizovaných Poskytovateľom a strpí možnosť preverenia
+znalostí Zodpovedných osôb a Pracovníkov RA nevyhnutných k plneniu predmetu tejto Zmluvy.
+
+4.7
+
+V prípade:
+(a) akejkoľvek zmeny právnych predpisov, resp. prijatia nových právnych predpisov týkajúcich
+sa predmetu tejto Zmluvy,
+S t r a n a 6 | 13
+
+ZMLUVA Č. D2018072617
+(b) že Poskytovateľ doručí RA nový Predpis Poskytovateľa resp. novú verziu Predpisu
+Poskytovateľa,
+(c) že Poskytovateľ doručí RA nový Pokyn Poskytovateľa, resp. akúkoľvek zmenu Pokynu
+Poskytovateľa,
+je RA povinná zabezpečiť, aby sa s nimi oboznámili Zodpovedné osoby a Pracovníci RA a aby
+absolvovali prípadné školenie zorganizované Prevádzkovateľom na tento účel tak, aby bol z jej
+strany zabezpečený nepretržitý súlad výkonu činností v zmysle tejto Zmluvy s právnymi
+predpismi, Predpismi Poskytovateľa a Pokynmi Poskytovateľa.
+4.8
+
+Nový alebo novelizovaný Predpis Poskytovateľa alebo Pokyn Poskytovateľa sa považuje za
+doručený RA v momente, kedy jeho text (resp. odkaz na jeho text zverejnený v RA Zóne)
+Poskytovateľ zašle na e-mailovú adresu Zodpovednej osoby uvedenú v záhlaví tejto Zmluvy (resp.
+na e-mailovú adresu Zodpovednej osoby oznámenú Poskytovateľovi v zmysle bodu 4.4 Zmluvy).
+Nový alebo novelizovaný Predpis Poskytovateľa nadobúda platnosť a účinnosť dňom jeho
+doručenia a RA je povinná ho implementovať do 30 dní od tejto účinnosti v prípade, ak
+v Predpise Poskytovateľa nie je uvedené inak. Pokyn Poskytovateľa je RA povinná implementovať
+bez zbytočného odkladu.
+
+4.9
+
+Poskytovateľ si vyhradzuje právo odmietnuť (aj dodatočne) poverenie konkrétneho Pracovníka
+RA v prípade, ak táto osoba nespĺňa alebo prestane spĺňať kvalifikačné kritériá predpísané
+v bodu 4.2 Zmluvy alebo v prípade, že opakovane poruší svoje povinnosti v zmysle Zmluvy,
+Predpisov Poskytovateľa, Pokynov Poskytovateľa resp. všeobecne záväzných právnych predpisov.
+Poskytovateľ je v takom prípade oprávnená technicky zrušiť prístup tohto Pracovníka RA do SW
+RA Client. Poskytovateľ má zároveň právo požadovať od RA zmenu Zodpovednej osoby v prípade,
+ak opakovane poruší povinnosti, ktoré jej vyplývajú z tejto Zmluvy.
+
+5.
+
+Práva a povinnosti Poskytovateľa
+
+5.1
+
+Poskytovateľ v zmysle predchádzajúcej zmluvy definovanej v bode 12.2 Zmluvy dodal RA
+nasledovné nástroje potrebné pre vykonávanie Certifikačných činností v zmysle Zmluvy:
+(a) Softvér pre registračné autority SW RA Client v súlade s podmienkami licencie uvedenými v
+čl. 9 Zmluvy,
+(b) Autorizačný token Pracovníka RA pre prístup k SW RA Client.
+Ostatné vybavenie potrebné pre poskytovanie Dôveryhodných služieb, najmä počítač pripojený
+k dátovej sieti, operačný systém počítača, aplikáciu na zasielanie a prijímanie elektronickej
+pošty, tlačiareň atď. si je RA povinná zabezpečiť na vlastné náklady.
+
+5.2
+
+Poskytovateľ na základe predchádzajúcej zmluvy definovanej v bode 12.2 Zmluvy zaškolil
+Zodpovednú osobu a Pracovníkov RA. Okrem úvodného školenia môže Poskytovateľ v prípade
+potreby alebo na žiadosť RA uskutočniť ďalšie školenia Zodpovedných osôb alebo Pracovníkov
+RA týkajúce sa predmetu plnenia podľa tejto Zmluvy, najmä v prípade ak dôjde k zmene
+relevantných všeobecne záväzných právnych predpisov alebo Predpisov Poskytovateľa.
+
+5.3
+
+Poskytovateľ sa zaväzuje vydávať a doručovať Certifikáty RA v pracovných dňoch v čase od 8:00
+do 18:00.
+
+5.4
+
+Poskytovateľ sa zaväzuje v prípade potreby a na žiadosť RA uskutočniť relevantný výklad
+Predpisov Poskytovateľa alebo Pokynov Poskytovateľa, resp. k nim poskytnúť metodické
+usmernenie na základe písomnej žiadosti RA.
+
+5.5
+
+V prípade akýchkoľvek pochybností ohľadom riadneho plnenia povinností vyplývajúcich z tejto
+zmluvy, Predpisov Poskytovateľa alebo Pokynov Poskytovateľa RA je Poskytovateľ kedykoľvek
+oprávnený preskúmať ich dodržiavanie RA. Na žiadosť Poskytovateľa doručenú RA v primeranej
+lehote vopred sa RA zároveň zaväzuje sprístupniť zamestnancom Poskytovateľa svoje priestory,
+v ktorých vykonáva Certifikačné činnosti a uchováva Dokumentáciu, sprístupniť alebo poskytnúť
+prostriedky na poskytovanie Dôveryhodných služieb a tiež Dokumentáciu na preskúmanie
+poverenou osobou Poskytovateľa za účelom overenia dodržiavania povinností vyplývajúcich
+S t r a n a 7 | 13
+
+ZMLUVA Č. D2018072617
+z tejto Zmluvy, Predpisov Poskytovateľa, Pokynov Poskytovateľa a príslušných právnych
+predpisov.
+6.
+
+Cenové a platobné podmienky
+
+6.1
+
+Zmluvné strany sa dohodli, že cena za každý Certifikát vydaný prostredníctvom RA bude
+Zákazníkovi účtovaná v zmysle cenníka Poskytovateľa zverejneného na webstránke
+Poskytovateľa platného v čase vydania Certifikátu.
+
+6.2
+
+RA je povinná prostredníctvom SW RA Client vyhotoviť faktúru adresovanú Zákazníkovi za každý
+Certifikát (resp. za všetky Certifikáty) vydaný v zmysle tejto Zmluvy, a to v mene a na účet
+Poskytovateľa v zmysle § 72 ods. 5 Zákona o DPH. RA je zároveň povinná skontrolovať pravdivosť
+údajov uvedených na faktúre, splnenie zákonných náležitostí, autorizovať ju a odovzdať
+Zákazníkovi, resp. Držiteľovi Certifikátu v písomnej forme pokiaľ Zákazník nesúhlasil
+s elektronickou faktúrou. RA je oprávnená vyhotovovať v mene Poskytovateľa faktúry výhradne
+v rámci SW RA Client a výhradne za Dôveryhodné služby poskytované podľa tejto Zmluvy.
+
+6.3
+
+RA je oprávnená odovzdať Držiteľovi Certifikátu vydaný Certifikát na základe:
+(a) hotovostnej platby, resp. platby kartou vykonanej Zákazníkom priamo u RA alebo
+(b) faktúry vystavenej RA v mene Poskytovateľa a odovzdanej Zákazníkovi.
+
+6.4
+
+V prípade prijatia hotovostnej platby podľa bodu 6.3(a) zmluvy je RA zároveň povinná vydať
+Zákazníkovi príjmový pokladničný doklad v ktorom budú uvedené údaje Poskytovateľa a druhú
+kópiu dokladu uschovať v rámci Dokumentácie.
+
+6.5
+
+RA je povinná do 7 dní od ukončenia kalendárneho mesiaca uhradiť na účet Poskytovateľa
+uvedený v záhlaví Zmluvy všetky finančné prostriedky, ktoré prevzala v jeho mene od Zákazníka
+za poskytnuté Dôveryhodné služby podľa bodu 6.3(a) Zmluvy. Zároveň je povinná v tomto
+termíne zaslať Poskytovateľovi emailom protokol, v ktorom uvedie čísla faktúr s priradeným
+zoznamom Certifikátov, ktoré boli Zákazníkom uhradené priamo u RA spolu so scanom
+príslušných pokladničných dokladov vyhotovených podľa predchádzajúceho bodu.
+
+6.6
+
+Poskytovateľ sa zaväzuje uhradiť RA odmenu za každý Certifikát vydaný za základe Zmluvy a plne
+uhradený Zákazníkom, a to v súlade s odmenami uvedenými v Prílohe č. 1 Zmluvy.
+
+6.7
+
+RA vystaví a zašle Poskytovateľovi faktúru na svoju odmenu podľa Zmluvy vždy do 15. dňa
+kalendárneho mesiaca, a to za všetky Certifikáty, ktoré boli v predchádzajúci kalendárny mesiac
+fakturované Zákazníkom prostredníctvom RA podľa bodu 6.2 Zmluvy. Poskytovateľ poskytne RA
+podklady pre fakturáciu odmeny začiatkom predmetného kalendárneho mesiaca.
+
+6.8
+
+Poskytovateľ začiatkom každého nového kalendárneho roka skontroluje, či existujú faktúry
+vystavené RA podľa čl. 6.2 Zmluvy, ktoré k 31.12 neboli uhradené Zákazníkom, sú po lehote
+splatnosti dlhšie ako 60 dní a RA za ne získala odmenu. V prípade, že takéto faktúry eviduje,
+Poskytovateľ zašle RA ich zoznam do 10. dňa nového kalendárneho roka. RA je povinná na základe
+tohto zoznamu vystaviť faktúru adresovanú Poskytovateľovi znižujúcu jej odmenu za vydané
+Certifikáty o sumu rovnú odmene za neuhradené Certifikáty v zmysle tohto bodu Zmluvy a túto
+sumu Poskytovateľovi uhradiť.
+
+6.9
+
+Odmena Zmluvných strán podľa tohto článku Zmluvy je celková a konečná a sú v nej zahrnuté
+všetky náklady súvisiace so spoluprácou, ktorá je predmetom tejto Zmluvy.
+
+6.10 Zmluvné strany sa dohodli, že faktúry vystavené na základe tejto Zmluvy ako aj príslušné
+zoznamy a protokoly budú zasielané vždy elektronicky na emailovú adresu druhej Zmluvnej
+strany uvedenú v záhlaví Zmluvy. Splatnosť faktúry je vždy 14 dní od jej doručenia druhej
+Zmluvnej strane.
+6.11 Všetky ceny uvedené v tomto článku sú určené bez DPH. DPH budú Zmluvné strany účtovať vždy
+v zmysle platných a účinných právnych predpisov. Zmluvné strany sa zároveň zaväzujú, že
+faktúry vystavené v zmysle tohto čl. 6 Zmluvy budú okrem tu určených dodatočných náležitostí
+spĺňať všetky náležitosti faktúry ako daňového a účtovného dokladu v zmysle príslušných
+účinných právnych predpisov.
+S t r a n a 8 | 13
+
+ZMLUVA Č. D2018072617
+7.
+
+Dohoda o plnomocenstve
+
+7.1
+
+Zmluvné strany uzatvárajú touto Zmluvou zároveň dohodu o plnomocenstve, na základe ktorej
+je RA splnomocnená aby za podmienok stanovených v tejto Zmluve v mene a na účet
+Poskytovateľa vykonávala Certifikačné činnosti uvedené v bode 3.1 Zmluvy, ako aj uskutočňovala
+ďalšie úkony súvisiace s Certifikačnými činnosťami predpokladaných touto Zmluvou. Na
+osvedčenie tejto skutočnosti vo vzťahu k tretím osobám sa Poskytovateľ zaväzuje vystaviť pre
+RA plnomocenstvo.
+
+7.2
+
+Pri poskytovaní Dôveryhodných služieb je RA povinná dodržiavať všetky povinnosti v zmysle tejto
+Zmluvy, Nariadenia eIDAS, Zákona ako aj Predpisov Poskytovateľa a Pokynov Poskytovateľa.
+
+7.3
+
+RA nie je oprávnená splnomocniť tretiu osobu na vykonávanie Certifikačných činností v zmysle
+tejto dohody o plnomocenstve. Tým nie je dotknuté jej právo poveriť výkonom Certifikačných
+činností Pracovníkov RA.
+
+8.
+
+Uchovávanie a správa Dokumentácie
+
+8.1
+
+Dokumentácia je majetkom Poskytovateľa.
+
+8.2
+
+Za správu a uchovávanie Dokumentácie v držbe RA, rovnako ako za jej stratu, zničenie alebo
+zneužitie zodpovedá RA v plnom rozsahu až do momentu jej odovzdania Poskytovateľovi. Celá
+Dokumentácia týkajúca sa konkrétneho Certifikátu musí byť uchovávaná spolu, vždy
+k jedinečnému číslu zmluvy týkajúcej sa vydania tohto Certifikátu.
+
+8.3
+
+RA je povinná uchovávať Dokumentáciu na mieste, kde je zabezpečená proti zneužitiu,
+odcudzeniu, zničeniu či neoprávnenému prístupu a v zmysle Predpisov Poskytovateľa.
+
+8.4
+
+RA je povinná odovzdávať Poskytovateľovi všetku Dokumentáciu, ktorá je v jej držbe každé tri
+mesiace od posledného odovzdania Dokumentácie, a to osobne, poštou alebo kuriérom na adresu
+sídla Poskytovateľa, ktorá je uvedená v záhlaví Zmluvy. K odovzdávanej Dokumentácii je RA
+povinná pripojiť zoznam zasielanej Dokumentácie, ktorý musí obsahovať obdobie, za ktoré je
+zoznam zasielaný, podpis Zodpovednej osoby a nasledovné údaje ku každému zasielanému
+dokumentu: číslo zmluvy k vydanému Certifikátu, dátum vydania Certifikátu a meno držiteľa
+Certifikátu. Poskytovateľ písomne potvrdí prijatie Dokumentácie, ktorú obdržal a v prípade, že
+mu nebola odovzdaná celá Dokumentácia za predmetné obdobie, vyzve RA na jej dodatočné
+zaslanie do 30 dní. Nedoručenie Dokumentácie ani v tejto dodatočnej lehote sa považuje za
+závažné porušenie Zmluvy.
+
+8.5
+
+Za účelom prvého zaslania Dokumentácie v zmysle bodu 8.4 Zmluvy sa za deň posledného
+odovzdania Dokumentácie považuje dátum podpisu tejto Zmluvy.
+
+8.6
+
+RA je najneskôr do 30 dní odo dňa zániku Zmluvy povinná odovzdať Poskytovateľovi akúkoľvek
+Dokumentáciu, ktorú má v držbe, a to spôsobom ustanoveným v bode 8.4 Zmluvy.
+
+9.
+
+Licencia
+
+9.1
+
+Poskytovateľ udeľuje RA na základe tejto Zmluvy nevýhradnú licenciu pre územie SR na
+používanie SW RA Client počas doby trvania tejto Zmluvy, a to výhradne spôsobom nevyhnutným
+na dosiahnutie účelu Zmluvy, ktorým je vykonávanie Certifikačných činností. Na iný účel je RA
+oprávnená použiť SW RA Client len s predchádzajúcim písomným súhlasom Poskytovateľa.
+
+9.2
+
+Počas trvania Zmluvy a ani po jej zániku nie je RA bez predchádzajúceho písomného súhlasu
+Poskytovateľa oprávnená najmä:
+(a) akýmkoľvek spôsobom upravovať SW RA Client alebo robiť doň akékoľvek zásahy, vrátane
+jeho konfiguračných zmien či opravy chýb;
+(b) upravovať, prekladať, používať reverzné inžinierstvo, dekompilovať alebo iným spôsobom
+získavať časť alebo celok SW RA Client;
+
+S t r a n a 9 | 13
+
+ZMLUVA Č. D2018072617
+(c) odstraňovať informácie o duševnom vlastníctve zo SW RA Client, obchodné a servisné
+známky z akýchkoľvek kópií, v akejkoľvek forme vrátane čiastkových kópií alebo modifikácií
+SW RA client a/alebo príslušnej dokumentácie;
+(d) vyhotovovať rozmnoženiny SW RA Client alebo jeho časti;
+(e) verejne rozširovať, uvádzať na verejnosti alebo akýmkoľvek iným spôsobom distribuovať a
+šíriť SW RA Client priamo alebo prostredníctvom tretej strany;
+9.3
+
+RA nie je bez súhlasu Poskytovateľa oprávnená udeliť súhlas na použitie SW RA Client
+(sublicenciu) tretej osobe ani postúpiť SW RA Client na tretiu osobu.
+
+10.
+
+Zodpovednosť za škodu a zmluvná pokuta
+
+10.1 Zmluvná strana zodpovedá za preukázanú škodu, ktorá vznikne druhej Zmluvnej strane z dôvodu
+porušenia jej zmluvných alebo zákonných povinností v zmysle všeobecných právnych predpisov.
+10.2 Zmluvná strana sa zbaví zodpovednosti za škodu len ak preukáže, že škode nemohla zabrániť ani
+pri vynaložení všetkého úsilia, ktoré od nej možno spravodlivo požadovať.
+10.3 RA je povinná nahradiť Poskytovateľovi v plnej výške akékoľvek sankcie, pokuty, penále,
+zvýšenia daňovej povinnosti, dodatočné náklady či škody, ktoré bude Poskytovateľ povinný
+uhradiť z dôvodu porušenia zmluvných alebo zákonných povinností zo strany RA. Uvedené
+náklady je RA povinná uhradiť Poskytovateľovi na základe písomnej výzvy do 30 dní od jej
+doručenia (ak si Zmluvné strany preukázateľne nedohodnú inú lehotu), ku ktorej Poskytovateľa
+priloží relevantné doklady oprávňujúce jeho nárok.
+10.4 RA zodpovedá za výkon činnosti Zodpovedných osôb a Pracovníkov RA podľa tejto Zmluvy. RA je
+povinná vytvoriť vhodné podmienky, priestor a vybavenie na výkon ich činnosti.
+10.5 V prípade, ak RA poruší povinnosť:
+(a) vytvárať Dokumentáciu ku každému vydanému Certifikátu v zmysle bodu 3.2(k) Zmluvy
+a zabezpečiť jej podpísanie potrebnými osobami,
+(b) uchovávať Dokumentáciu ku každému vydanému Certifikátu v zmysle bodu 8.3 Zmluvy,
+(c) odovzdávať Poskytovateľovi v stanovených lehotách celú Dokumentáciu v držbe RA v zmysle
+bodu č. 8.4 Zmluvy,
+(d) overovať totožnosť Zákazníkov a Držiteľov Certifikátu v zmysle bodu 3.1(c) a 3.2(d) Zmluvy,
+(e) overovať, či Zákazník a Držiteľ Certifikátu spĺňajú podmienky na uvedenie dodatočného
+atribútu v Certifikáte v zmysle bodu 3.1(d) a 3.2(e) Zmluvy,
+(f)
+
+umožniť vydať kvalifikovaný certifikát výlučne na zariadenie, ktoré je kvalifikovaným
+zariadením na vyhotovovanie elektronického podpisu alebo pečate v súlade s Nariadením
+eIDAS v zmysle bodu 3.2(f) Zmluvy,
+
+(g) vystaviť ku každému vydanému Certifikátu faktúru v súlade s bodom 6.2 Zmluvy, alebo
+(h) vymenovať do úlohy Pracovníka RA osobu, ktorá spĺňa kvalifikačné kritériá uvedené v bode
+4.2 Zmluvy,
+je povinná uhradiť Poskytovateľovi zmluvnú pokutu vo výške 3 000 EUR za každé jednotlivé
+porušenie niektorej z menovaných povinností, a to na základe písomnej výzvy Poskytovateľa do
+30 dní od jej doručenia RA. Uloženie ani zaplatenie zmluvnej pokuty nezbavuje RA povinnosti
+splniť predmetnú včasne nesplnenú povinnosť. V prípade jej nesplnenia ani v dodatočnej
+primeranej lehote má Poskytovateľ právo uložiť RA pokutu aj opakovane. Právo Poskytovateľa
+požadovať od RA náhradu škody v zmysle bodu 10.1 Zmluvy alebo nákladov v zmysle bodu 10.3
+Zmluvy ostáva v plnom rozsahu zachované.
+10.6 V prípade správneho alebo súdneho konania iniciovaného proti niektorej Zmluvnej strane
+z dôvodu preukázaného porušenia zákonných alebo zmluvných povinností druhou Zmluvnou
+S t r a n a 10 | 13
+
+ZMLUVA Č. D2018072617
+stranou, je druhá Zmluvná strana na vlastné náklady a bez zbytočného odkladu, najneskôr
+v lehote 7 dní po tom, čo na to bola vyzvaná, povinná poskytnúť všetku potrebnú a účelnú
+Súčinnosť smerujúcu k odvráteniu alebo zmierneniu škody alebo iných nepriaznivých dôsledkov
+vrátane obstarania primeraného právneho servisu a účasti na pojednávaniach, prípadne
+miestnych zisťovaniach, kontrolách a auditoch alebo iných šetreniach voči prvej Zmluvnej
+strane.
+11.
+
+Trvanie a ukončenie zmluvy
+
+11.1 Táto Zmluva nadobúda platnosť dňom jej podpisu obidvoma zmluvnými stranami a účinnosť
+dňom nasledujúcom po dni jej zverejnenia Centrálnom registri zmlúv v zmysle § 47a Občianskeho
+zákonníka. Uzatvára sa na dobu neurčitú.
+11.2 Zmluvu je možné ukončiť výpoveďou, odstúpením od zmluvy alebo dohodou zmluvných strán.
+Všetky tieto právne úkony musia mať písomnú formu.
+11.3 RA môže vypovedať Zmluvu z akéhokoľvek dôvodu alebo bez udania dôvodu vždy s výpovednou
+lehotou 2 kalendárne mesiace. Výpovedná lehota začína plynúť prvým dňom kalendárneho
+mesiaca nasledujúceho po mesiaci, v ktorom došlo k doručeniu výpovede Poskytovateľa.
+11.4 Poskytovateľ je oprávnený Zmluvu kedykoľvek čiastočne alebo v celom rozsahu vypovedať.
+Výpoveď je voči RA účinná dňom jej doručenia RA. Od účinnosti výpovede je RA povinná zdržať
+sa činností, na ktorú sa výpoveď vzťahuje.
+11.5 RA je oprávnená odstúpiť od Zmluvy v prípade, ak je Poskytovateľ v omeškaní s úhradou odmeny
+pre RA v zmysle bodu 6.3 Zmluvy viac ako 30 dní.
+11.6 Poskytovateľ je oprávnený odstúpiť od Zmluvy v prípade, že dôjde k opakovanému porušeniu
+povinností RA v zmysle Zmluvy.
+11.7 RA sa zaväzuje v prípade ukončenia Zmluvy upozorniť Poskytovateľa na opatrenia, ktoré je
+potrebné urobiť na to, aby sa zabránilo vzniku hroziacej škody.
+11.8 Ukončenie ani zánik Zmluvy nemajú vplyv na nároky Zmluvných strán vyplývajúce z porušenia
+Zmluvy, najmä na nárok Zmluvnej strany na náhradu škody alebo zmluvnú pokutu v zmysle čl.
+10 Zmluvy a tiež na ostatné ustanovenia, ktoré majú v zmysle Zmluvy alebo vzhľadom na svoju
+povahu trvať aj po jej zániku, najmä ustanovenia bodu 3.9, 8.2, 8.3 a 8.6 Zmluvy.
+12.
+
+Všeobecné a záverečné ustanovenia
+
+12.1 Táto Zmluva tvorí úplnú dohodu medzi Zmluvnými stranami týkajúcu sa predmetnej záležitosti.
+Podpisom tejto Zmluvy zanikajú všetky predchádzajúce písomné a ústne dohody súvisiace
+s predmetom tejto Zmluvy. Žiadna zo Zmluvných strán sa nemôže dovolávať zvláštnych v tejto
+Zmluve neuvedených ústnych dojednaní a dohôd. Toto ustanovenie nemá vplyv na existenciu
+Zmluvy o OU.
+12.2 Účinnosťou Zmluvy dochádza k zániku Zmluvy č. D2008101701 o zriadení a prevádzke
+registračnej autority CA Disig uzatvorenej medzi Poskytovateľom a RA dňa 30.10.2008, ktorú
+táto Zmluva nahrádza v plnom rozsahu. Akýkoľvek odkaz v Predpisoch Poskytovateľa alebo
+Pokynoch Poskytovateľa na túto pôvodnú zmluvu sa považuje za odkaz na Zmluvu.
+12.3 Zmluvné strany sa dohodli, že akékoľvek písomnosti týkajúce sa tejto Zmluvy alebo z nej
+vyplývajúce budú druhej Zmluvnej strane doručovať na adresu jej sídla uvedenú v záhlaví
+Zmluvy, ak nie je dohodnuté inak. Zmluvné strany sa zaväzujú bez zbytočného odkladu písomne
+informovať druhú Zmluvnú stranu o každej zmene svojich kontaktných údajov.
+12.4 Zmluvu je možné meniť len po vzájomnej dohode, písomne, formou očíslovaných dodatkov
+podpísaných oboma Zmluvnými stranami, s výnimkou zmeny Zodpovednej osoby podľa bodu 4.4
+Zmluvy.
+12.5 Táto Zmluva sa spravuje zákonmi Slovenskej republiky. Súdy Slovenskej republiky majú výlučnú
+právomoc na rozhodovanie akýchkoľvek sporov týkajúcich sa Zmluvy.
+S t r a n a 11 | 13
+
+ZMLUVA Č. D2018072617
+12.6 Právne vzťahy medzi Poskytovateľom a RA výslovne neupravené touto Zmluvou sa riadia
+právnymi predpismi Slovenskej republiky, najmä príslušnými ustanoveniami Obchodného
+zákonníka, Nariadenia eIDAS, Zákona a príp. Občianskeho zákonníka.
+12.7 V prípade akýchkoľvek rozporov medzi touto Zmluvou a Predpismi Poskytovateľa majú prednosť
+ustanovenia tejto Zmluvy.
+12.8 V prípade, že akékoľvek ustanovenie alebo časť tejto Zmluvy je alebo sa stane neplatným alebo
+neúčinným, platnosť a účinnosť akéhokoľvek iného ustanovenia tejto Zmluvy alebo zvyšnej časti
+príslušného ustanovenia tým nie je dotknutá. Zmluvné strany sa zaväzujú nahradiť také neplatné
+alebo neúčinné ustanovenie ustanovením, na ktorom by sa zhodli pokiaľ by si boli vedomé takej
+neplatnosti alebo neúčinnosti.
+12.9 Neoddeliteľnú súčasť tejto zmluvy tvorí Príloha č. 1 – osobitné ustanovenia.
+12.10 Táto zmluva je vyhotovená v troch (3) rovnopisoch, z ktorých Poskytovateľa obdrží dve (2)
+vyhotovenia a RA jedno (1) vyhotovenie.
+12.11 RA podpisom tejto Zmluvy prehlasuje prevzatie plnomocenstva v súlade s bodom 7.1 Zmluvy.
+12.12 Zmluvné strany svojím podpisom nižšie potvrdzujú, že si Zmluvu prečítali, súhlasia s jej obsahom
+bez akýchkoľvek výhrad, že je pre ne zrozumiteľná a určitá a že Zmluvu neuzatvárajú v tiesni
+ani za nápadne nevýhodných podmienok.
+
+V Bratislave, dňa 26.7.2018
+
+V Košiciach, dňa ______________
+
+Disig, a.s.
+ako Poskytovateľ
+
+Univerzita Pavla Jozefa Šafárika v Košiciach
+ako RA
+
+_______________________________________
+
+_______________________________________
+
+Ing. Ľuboš Batěk
+
+prof. RNDr. Pavol Sovák, CSc.
+
+predseda predstavenstva
+
+rektor UPJŠ
+
+_______________________________________
+Ing. Ivan Kühn
+podpredseda predstavenstva
+
+S t r a n a 12 | 13
+
+ZMLUVA Č. D2018072617
+Príloha č. 1
+OSOBITNÉ USTANOVENIA
+Odmena pre RA za každý Certifikát vydaný na základe Zmluvy v súlade s čl. 6.3 Zmluvy bola
+Zmluvnými stranami dohodnutá nasledovne:
+(a)
+
+za každý vydaný certifikát pre elektronický podpis alebo certifikát pre elektronickú
+pečať vo výške 5,00 Eur,
+
+(b)
+
+za každý vydaný kvalifikovaný certifikát pre elektronická podpis alebo kvalifikovaný
+certifikát pre elektronickú pečať platný 1 rok vo výške 6,00 Eur,
+
+(c)
+
+za každý vydaný kvalifikovaný certifikát pre elektronická podpis alebo kvalifikovaný
+certifikát pre elektronickú pečať platný 2 roky vo výške 8,00 Eur,
+
+(d)
+
+za každý vydaný kvalifikovaný certifikát pre elektronická podpis alebo kvalifikovaný
+certifikát pre elektronickú pečať platný 3 roky alebo viac vo výške 10,00 Eur,
+
+(e)
+
+za každý vydaný kvalifikovaný certifikát pre elektronická podpis alebo kvalifikovaný
+certifikát pre elektronickú pečať platný 4 roky alebo viac vo výške 12,00 Eur.
+
+S t r a n a 13 | 13
+
+

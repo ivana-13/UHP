@@ -1,0 +1,505 @@
+CU1TSĽO
+
+fÉ
+
+ÉP
+
+CENTRAL EUROPE
+
+FINANČNÉ r ia d it e ľ s t v o
+SLOVENSKEJ REPUBLIKY
+
+Zmenový list číslo 017/2018
+Objednávateľ
+Zhotoviteľ
+Produkt
+
+Finančné riaditeľstvo SR
+Asseco Central Europe, a.s.
+DWH FR SR
+
+Názov zadania
+Premodelovanie a aktualizácia dataminingových
+dataminingového nástroja PS Clementine PRO.
+
+modelov
+
+(DM)
+
+na
+
+vyššiu
+
+verziu
+
+Popis zadania_____________________________________________________________________
+V rámci zabezpečenia potrieb FR SR a vzhľadom na technické, prevádzkové a bezpečnostné
+požiadavky FR SR požadujeme realizovať aktualizáciu DM na vyššiu verziu dataminingového
+nástroja PS Clementine PRO a súvisiace premodelovanie jednotlivých modelov. Uvedená
+aktualizácia dataminingového nástroja reflektuje zároveň aj na výsledky penetračných testov
+v prostredí objednávateľa tak, aby boli splnené definované bezpečnostné požiadavky.
+Premodelované a aktualizované budú nasledovné DM modely:
+1. DM3: Odhaľovanie rizikového správania daňových subjektov na kontrolu DPH,
+2. DM31: Odhaľovanie rizikového správania daňových subjektov DÚ VDS na kontrolu DPH,
+3. DM41: Odhaľovanie rizikového správania daňových subjektov pri registrácii DPH,
+4. DM43: Odhaľovanie rizikového správania daňových subjektov pri registrácii DPH (odvolacie
+konanie),
+5. DM42: Odhaľovanie rizikového správania daňových subjektov po registrácii DPH,
+6. DM5: Identifikácia podozrivého správania sa v karuselových podvodoch na DPH,
+7. DM6: Výber daňových subjektov na kontrolu dane z príjmov PO,
+8. DM61: Výber daňových subjektov DÚ VDS a subjektov s transferovým oceňovaním na kontrolu
+dane z príjmov PO,
+9. DM7: Výber daňových subjektov na kontrolu dane z príjmov FO.
+Do prechodu na vyššiu verziu nástroja PS Clementine PRO nebude zahrnutý všeobecný model DM1,
+ktorého vlastnosti lepšie pokrývajú špecializované modely DM6, DM61 a DM7.
+Napriek tomu, že od 1.1.2019 bude zo zákona o DPH vypustené ustanovenie §4c týkajúce sa
+udeľovania zábezpeky na daň, bude naďalej DM41 (DM43) požadovaný ako podporný nástroj
+pri rozhodovaní o registrácii na DPH pre oddelenie registra. Model DM41 (DM43) bude poskytovať
+registrátorom vybrané informácie o žiadateľoch o registráciu DPH doplnené o údaje a ukazovatele
+z už existujúcich analytických nástrojov v DWH (napríklad z FEA).
+V rámci riešenia premodelovania a aktualizácie uvedených DM bude potrebné zabezpečiť realizáciu
+činností pre každý DM zvlášť v nasledovných oblastiach:
+1.
+
+Analýza atribútov príslušných modelov:
+
+a.) prehodnotenie a analýza existujúcich upravených atribútov, ktoré vstupujú do DM
+modelovania pred samotným procesom premodelovania,
+
+Strana 1/4
+
+□J-J-ECD
+CEN TR A L EUROPE
+
+llifr íf
+
+FINANČNÉ RIADITEĽSTVO
+
+w'S fnM
+Í SLOVENSKEJ REPUBLIKY
+HV'
+
+b.) analýza nových atribútov, ktoré budú vstupovať do DM modelovania, špecifikovanie nových
+atribútov bude dohodnuté na základe pracovných stretnutí príslušných metodikov zo strany
+objednávateľa a zástupcov dodávateľa.
+2.
+
+Príprava nových (aj prehodnotených) atribútov na modelovanie:
+
+a.
+
+) vytvorenie procedúr pre nové atribúty a úprava existujúcich procedúr pre prehodnotené
+atribúty,
+b.
+) prepočet nových a prehodnotených atribútov.
+
+3.
+
+Príprava dát pre príslušné modely:
+
+a.
+b.
+c.
+d.
+4.
+
+c.)
+
+) vytvorenie učiacej vzorky z viacerých prepočtov atribútov,
+) analýza dát - zistenie chýbajúcich dát, NULL, a pod.,
+čistenie dát, ošetrenie chýbajúcich dát a NULL hodnôt.
+
+Premodelovanle príslušných modelov:
+
+a.
+b.
+c.
+6.
+
+príprava SQL skriptov pre export dát do súborov objednávateľa,
+spracovanie dát na prevádzke - export prepočtov atribútov,
+šifrovanie citlivých údajov,
+import dát do vývojového prostredia zhotoviteľa.
+
+Analýza dát v rámci tvorby príslušných modelov:
+
+a.
+b.
+
+5.
+
+)
+)
+)
+)
+
+) tvorba modelu analýzou výstupov z modelovacích nódov,
+) overenie modelu na validačnej vzorke dát,
+) výpočet skóre a zápis dát z modelu do výstupných tabuliek.
+
+Vytvorenie príslušných finálnych modelov:
+
+a.
+b.
+c.
+d.
+
+)
+)
+)
+)
+
+vytvorenie deployment verzie modelu,
+vytvorenie BATCH skriptov,
+testy deployment verzie modelu na serveri,
+dokumentácia, vyhodnotenie modelu.
+
+Vyššia verzia dataminingového nástroja PS Clementine PRO zároveň obsahuje nové funkcionality,
+ktoré budú predstavené formou poldenného školenia pre používateľov objednávateľa v nasledovnom
+rozsahu:
+možnosti využitia komponentov PS Clementine PRO,
+možnosti automatizácie a plánovania spúšťania analytických procesov,
+- využitie analytického úložiska a verzovania vytvorených streamov v DM nástroji,
+možnosti spolupráce medzi analytikmi s podporou novej verzie PS Clementine PRO.
+Riešenie bude realizované etapovité podľa požiadaviek definovaných objednávateľom nasledovne:
+1. Etapa
+
+Termín realizácie do 28.02.2019.
+V rámci tejto etapy bude realizované premodelovanie DM6 a DM61.
+2. Etapa
+
+Termín realizácie do 30.04.2019.
+V rámci tejto etapy bude realizované premodelovanie DM7, DM41 a DM43.
+3. Etapa
+
+Termín realizácie do 28.06.2019.
+______V rámci tejto etapy bude realizované premodelovanie DM3 a DM31._____________________
+Strana 2/4
+
+□JJECO
+CENTRAL EUROPE
+
+IÉ
+
+l | i FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+4. Etapa
+
+Termín realizácie do 30.08.2019.
+V rámci tejto etapy bude realizované premodelovanie DM42 a DM5.
+Uvedené etapy budú implementované podľa príslušnej analýzy, ktorá bude pre účely jednotlivých
+etáp vypracovaná.
+#
+
+Príloha
+
+Formát
+
+Prílohy špecifikované v horeuvedenom zozname tvoria neoddeliteľnú súčasť tohto zmenového listu.
+Etapa 1:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+28.02.2019
+1 665
+148 567,95,- EUR
+29 713,59,- EUR
+178 281,54,- EUR
+
+Etapa 2:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+30.04.2019
+956
+85 303,88,- EUR
+17 060,78,- EUR
+102 364,66,- EUR
+
+Etapa 3:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+28.06.2019
+804
+71 740,92,- EUR
+14 348,18,- EUR
+86 089,10,- EUR
+
+Etapa 4:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+30.08.2019
+739
+65 940,97,- EUR
+13188,19,- EUR
+79129,16,- EUR
+
+Objednávateľ a zhotov ¡teľ sa pre realizáciu tohto ZL dohodli, že predmetné etapy budú fakturované
+samostatne po zmluvne definovanom akceptačnom konaní.
+Spolu:
+
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+Zodpovedný zástupca zo strany zhotovlteľa
+Zodpovedný zástupca zo strany objednávateľa
+
+4 164
+371 553,72,- EUR
+74 310,74,- EUR
+445 864,46,- EUR
+......​..........​...​.......
+.......​..........​............
+
+Strana 3/4
+
+□J’
+J'ECD
+CEN TR A L EUROPE
+
+l i S
+
+FINANČNÉ r i a d i t e ľ s t v o
+SLOVENSKEJ REPUBLIKY
+
+Reštrikcie, poznámky k funkcionalite____________________________________________________
+Objednávateľ zabezpečí pre zhotoviteľa súčinnosť v dostatočnom rozsahu a požadovanom čase
+vo forme konzultácií, dodania príslušných podkladov, údajov, výstupov a spolupráce zástupcov
+FR SR potrebných pre realizáciu riešenia.
+Súčasťou dodávky riešenia v rámci ZK 017/2018 je aj zabezpečenie softvérových a licenčných
+nárokov dataminingového nástroja PS Clementine PRO v zmysle špecifikácie, ktorá bude súčasťou
+popisu riešenia. Všetky ostatné nevyhnutné technické, softvérové, licenčné požiadavky, prípadne iné
+obdobné nároky a náklady súvisiace s realizáciou a následnou prevádzkou riešenia budú
+zabezpečené zo strany objednávateľa.
+
+Štatutárny zástupca objednávateľa
+
+Strana 4/4
+
+QJ'J'eCD
+
+6£E |
+
+W m
+
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Kalkulácia ZK 017/2018
+
+p.e.
+
+Činnosť
+
+Prácnosť
+v človekohodinách
+
+Jednotk.
+suma
+v EUR
+
+Suma bez
+DPH v EUR
+
+Sadzba
+DPH v %
+
+Suma DPH
+v EUR
+
+Suma celkom
+v EUR
+
+i
+
+Riadiace práce
+
+323
+
+89,23
+
+28 821,29
+
+20,00
+
+5 764,26
+
+34 585,55
+
+2
+
+Analytické práce spolu
+
+810
+
+89,23
+
+72 276,30
+
+20,00
+
+14 455,26
+
+86 731,56
+
+3
+
+Dizajnérske práce
+
+329
+
+89,23
+
+29 356,67
+
+20,00
+
+5 871,33
+
+35 228,00
+
+4
+
+Programátorské práce
+
+1320
+
+89,23
+
+117 783,60
+
+20,00
+
+23 556,72
+
+141 340,32
+
+5
+
+Testovacie práce u zhotovileľa
+
+643
+
+89,23
+
+57 374,89
+
+20,00
+
+11 474,98
+
+68 849,87
+
+Databázová a systémová podpora u zhotoviteľa
+
+448
+
+89,23
+
+39 975,04
+
+20,00
+
+7 995,01
+
+47 970,05
+
+6 246,10
+
+20,00
+
+1 249,22
+
+7 495,32
+
+6
+7
+
+Zapracovanie zmien do dokumentácie
+
+70
+
+89,23
+
+8
+
+Podpora inštalačných prác u objednávateľa
+
+68
+
+89,23
+
+6 067,64
+
+20,00
+
+1 213,53
+
+7 281,17
+
+9
+10
+
+Databázová a systémová podpora u objednávateľa
+Podpora zhotoviteľa pri testovaní objednávateľom
+
+60
+
+89,23
+
+5 353,80
+
+20,00
+
+1 070,76
+
+93
+
+89,23
+
+8 298,39
+
+20,00
+
+1 659,68
+
+6 424,56
+9 958,07
+
+74 310,74
+
+445 864,46
+
+SPOLU
+
+4164
+
+371 553,72
+
+Dňa
+
+Štatutárny zástupca objednávateľa
+
+

@@ -1,0 +1,663 @@
+Servisná zmluva
+Servis IT infraštruktúry
+uzavretá v zmysle § 269 ods. 2 zákona č. 513/1991 Zb. Obchodného zákonníka v znení
+neskorších predpisov (ďalej len „Obchodný zákonník“) (ďalej len „Zmluva“)
+
+č. 100/19
+Článok I.
+Zmluvné strany
+1.1. Poskytovateľ: IT CRAB s. r. o.
+Sídlo:
+M. Curie Sklodowskej 4 , 851 04 Bratislava-mestská časť Petržalka
+Štatutárny orgán:
+Viktor Senko, konateľ
+IČO :
+45577188
+DIČ:
+2023047884
+IČ DPH:
+SK2023047884
+Bankové spojenie: Československá obchodná banka, a.s.
+Číslo účtu:
+4011407584/7500
+IBAN:
+SK06 7500 0000 0040 1140 7584
+SWIFT (BIC):
+CEKOSKBX
+Zapísaný v:
+OR OS Bratislava I, odd. Sro, vložka č.: 65406/B
+(ďalej len „Poskytovateľ“)
+Kontaktné telefónne číslo:
+Kontaktný email:
+
+0917 200 900
+servis@itcrab.com
+
+1.2. Objednávateľ: Kancelária Najvyššieho súdu Slovenskej republiky
+Sídlo:
+Zastúpený:
+IČO:
+Bankové spojenie:
+Číslo účtu:
+IBAN:
+SWIFT (BIC):
+
+Župné námestie 13, 814 90 Bratislava-Staré Mesto
+JUDr. Ivan Solej, LL.M., vedúci
+50668277
+Štátna pokladnica
+7000566508/8180
+SK49 8180 0000 0070 0056 6508
+SPSRSKBA
+
+(ďalej len „Objednávateľ“)
+(poskytovateľ a objednávateľ ďalej spolu aj ako „zmluvné strany“)
+Článok II.
+Predmet Zmluvy
+2.1
+
+Predmetom tejto Zmluvy je úprava práv a povinností Poskytovateľa pri zabezpečovaní
+nasledovných činností:
+- technická podpora a servisné zásahy,
+- pravidelná kontrola a poradenstvo pre IT infraštruktúru Objednávateľa, so zameraním
+1
+
+na správu serverov Objednávateľa,
+technická podpora a servisné zásahy, ako aj pravidelná kontrola a implementovanie
+systémových riešení smerujúcich k zlepšeniu stability a bezpečnosti počítačovej siete
+Objednávateľa,
+- zabezpečenie popisu činností a online systému – Helpdesk, systém pre zadávanie
+technických požiadaviek a kontroly stavu riešenia jednotlivých požiadaviek a hot–line,
+telefonickej podpory pri riešení problémov, a
+- činnosti smerujúce k zlepšovaniu stavu a prevádzky serverov/počítačov Objednávateľa.
+Predmetom tejto Zmluvy je aj povinnosť Objednávateľa zaplatiť Poskytovateľovi za
+poskytnuté služby dohodnutú odmenu, v zmysle obsahu Zmluvy.
+Aktuálna serverová infraštruktúra Objednávateľa je tvorená nasledovnými prvkami:
+-
+
+2.2
+2.3
+
+Serverová infraštruktúra
+
+1. HP Proliant DL 360 G9
+
+1
+
+2.
+3.
+4.
+5.
+6.
+7.
+
+2
+1
+1
+2
+1
+1
+
+1.
+2.
+3.
+4.
+
+2.4
+2.5
+
+2.6
+
+Počet
+
+HP Proliant DL 360 GlO
+HP Proliant DL 320 G6
+HP Storage Works X1600
+D-LINK SAN DSN-6420
+D-LINK iSCSI Switch DXS-3600-32S/SI
+HP MSA 2050
+Sieťová infraštruktúra
+Cisco ASA 5512-X
+HPE Aruba 3810M
+HPE Aruba 2930M
+Cisco SF-200
+Aplikácia a konektivita
+Windows Server
+Windows SQL Server
+
+1
+2
+22
+3
+
+1.
+2.
+3. Exchange server 2016
+4. Vmware
+5. Veeam
+6. Linux
+Požadovaný predmet plnenia môže byť podľa požiadaviek na strane Objednávateľa
+doplnený alebo rozšírený formou dodatku k tejto Zmluve.
+Servisná činnosť môže byť vykonávaná Poskytovateľom buď osobným zásahom
+u Objednávateľa v mieste prevádzky príslušného zariadenia alebo vzdialeným prístupom,
+a to v závislosti od konkrétnych okolností požadovanej činnosti v záujme jej najrýchlejšieho
+a najefektívnejšieho poskytnutia. Za účelom vzdialeného prístupu Poskytovateľ vykoná
+potrebné opatrenia a prístupy.
+Zmluvné strany týmto vyhlasujú, že Poskytovateľ nebude mať prístup k databázam
+Objednávateľa, ktoré obsahujú osobné údaje zamestnancov Objednávateľa a sudcov
+Najvyššieho súdu Slovenskej republiky, ako ani účastníkov konania pred Najvyšším súdom
+Slovenskej republiky.
+
+2
+
+III.
+Technická špecifikácia - popis činnosti Poskytovateľa
+3.1
+
+Pri poskytovaní predmetu plnenia podľa tejto Zmluvy bude Poskytovateľ vykonávať pre
+Objednávateľa nasledovné činnosti :
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+
+tvorba a pravidelná aktualizácia sieťovej dokumentácie,
+audit - testovanie a analýza zraniteľnosti informačného systému a následný
+reporting,
+návrhy a realizácia riešenia problémov a zistených nedostatkov a servisná činnosť,
+implementácia systému monitoringu serverov a softvéru pre inventarizáciu hardvéru
+a licencií,
+nastavovanie siete, sieťových zariadení a serverov,
+správa a údržba emailového serveru,
+predchádzanie možnej nedostupnosti informačných systémov,
+analýza aktuálneho stavu siete a návrh riešení pre zlepšenie stability a stavu
+informačných systémov, a
+všetky úkony potrebné pre údržbu a vybavenie počítačovej siete.
+IV.
+Povinnosti Objednávateľa a Poskytovateľa
+
+4.1
+
+4.2
+
+4.3
+
+4.4
+
+4.5
+
+Poskytovateľ sa zaväzuje vykonávať pre Objednávateľa činnosti, a to osobne alebo
+prostredníctvom Poskytovateľom zvolených subdodávateľov. V prípade výkonu činnosti
+podľa tejto Zmluvy prostredníctvom subdodávateľa je Poskytovateľ povinný vyžiadať si
+predchádzajúci písomný súhlas Objednávateľa a oznámiť mu identifikačné údaje takého
+subdodávateľa, činnosť, ktorú bude v mene Poskytovateľa vykonávať pre Objednávateľa
+a ďalšie skutočnosti požadované Objednávateľom. Ak nebude možné zo strany
+Poskytovateľa získať takýto súhlas včas (najmä v prípade kritických incidentov),
+Poskytovateľ je oprávnený vykonať činnosť prostredníctvom subdodávateľa aj bez takéhoto
+súhlasu a získať ho od Poskytovateľa dodatočne. Pri výkone činnosti podľa tejto Zmluvy
+prostredníctvom subdodávateľa zodpovedá Poskytovateľ za jej výkon rovnako, akoby ju
+vykonal sám. Objednávateľ sa zaväzuje za činnosť vykonanú prostredníctvom zvoleného
+subdodávateľa zaplatiť Poskytovateľovi dohodnutú odmenu v zmysle Zmluvy.
+Poskytovateľ sa zaväzuje vykonávať pre Objednávateľa činnosti špecifikované v čl. II a v
+čl. III Zmluvy podľa telefonických alebo e-mailových požiadaviek Objednávateľa na
+kontaktné údaje Poskytovateľa uvedené v článku I. Zmluvy.
+Zmluvné strany sa zaväzujú, že si budú poskytovať potrebnú súčinnosť pri plnení záväzkov
+z tejto Zmluvy a navzájom sa budú včas informovať o všetkých skutočnostiach potrebných
+pre ich spoluprácu podľa tejto Zmluvy, predovšetkým si budú oznamovať všetky potrebné
+zmeny ako aj iné dôležité skutočnosti.
+Poskytovateľ sa zaväzuje uskutočňovať činnosť, na ktorú sa zaviazal touto Zmluvou
+s vynaložením všetkej odbornej starostlivosti, rovnako sa zaväzuje dbať na jemu známe
+záujmy Objednávateľa a v rámci tejto Zmluvy sa riadiť jeho pokynmi a požiadavkami.
+Poskytovateľ je povinný upozorniť Objednávateľa na zjavnú nesprávnosť jeho pokynov.
+Poskytovateľ je povinný pri uskutočňovaní činností podľa tejto Zmluvy vystupovať a konať
+tak, aby neohrozil dobré meno a povesť Objednávateľa.
+V prípade ak by činnosť objednaná a požadovaná Objednávateľom mala poškodiť jeho
+majetok, predovšetkým software alebo hardware, ako aj dáta alebo iné aktíva
+Objednávateľa, je povinný Poskytovateľ na to Objednávateľa upozorniť, ako aj na všetky
+možné riziká z toho vyplývajúce, ktoré súvisia s plnením podľa predmetu tejto Zmluvy.
+3
+
+4.6
+
+4.7
+
+4.8
+
+4.9
+
+4.10
+
+4.11
+4.12
+
+4.13
+
+4.14
+4.15
+4.16
+
+4.17
+
+V prípade, ak bude Objednávateľ aj napriek takémuto poučeniu trvať na vykonaní takéhoto
+úkonu, Poskytovateľ má právo takýto úkon odmietnuť vykonať. Ak Poskytovateľ na
+základe pokynu Objednávateľa takýto úkon vykoná, nenesie zodpovednosť za prípadnú
+škodu, ktorá týmto Objednávateľovi vznikne. Tým nie je dotknutá zodpovednosť
+Poskytovateľa za škodu spôsobenú v inej ako príčinnej súvislosti s vykonaním úkonu podľa
+tohto odseku Zmluvy.
+Poskytovateľ sa zaväzuje zabezpečiť pre Objednávateľa technickú a servisnú pohotovosť
+na riešenie incidentov s prístupom v pracovné dni v čase od 8:00 do 18:00 hod., pričom sa
+zaväzuje reagovať na potrebu servisného zásahu najneskôr do 3 hodín od nahlásenia
+výpadku zo strany Objednávateľa.
+V prípade nevyhnutnej potreby je Poskytovateľ povinný riešiť úkony súvisiace so
+zabezpečením stability siete Objednávateľa aj mimo pracovnej doby vymedzenej v bode 4.6
+Zmluvy.
+Poskytovateľ v prípade aplikačných programov Objednávateľa poskytne servisnú podporu
+a prípadný zásah len v rozsahu možností Poskytovateľa – prostredníka medzi tvorcom
+týchto programov a Objednávateľom, nakoľko nie je vlastníkom ani správcom týchto
+aplikačných programov. Podpora je v týchto prípadoch stanovená ako nastavenia hardvéru
+(nastavenia servera a siete) a základného softvéru (operačný systém, aplikácie Office a i.)
+pre bezporuchový chod programov Objednávateľa. V prípade nutnosti pomoci pri
+sfunkčnení aplikačných programov bude zo strany Poskytovateľa poskytnutá maximálna
+možná pomoc v rozsahu možností a znalostí Poskytovateľa.
+V prípade tzv. kritického incidentu je Poskytovateľ povinný začať s neutralizáciou
+kritického problému do 1 hodiny od nahlásenia výpadku zo strany Objednávateľa. Na účely
+tejto zmluvy sa kritickým incidentom považuje problém, ktorý sa prejavuje nefunkčnosťou
+systémov, dochádza k narušeniu užívateľských dát závažným spôsobom, dochádza
+k zrúteniu systému jeden alebo viackrát denne.
+Poskytovateľ nezodpovedá za pravosť ani za funkčnosť softvéru v sieti Objednávateľa.
+Poskytovateľ nezodpovedá za technické problémy spôsobené poruchou hardvéru
+Objednávateľa, ani za vhodnosť a funkčnosť hardvéru Objednávateľa. Tým nie je dotknutá
+zodpovednosť Poskytovateľa za jeho úkony a zásahy v zmysle Zmluvy do softvéru
+a hardvéru Objednávateľa.
+Poskytovateľ zabezpečí pre Objednávateľa prístup do helpdesku pre poverené osoby
+Objednávateľa.
+Kontaktné poverené osoby za Objednávateľa:
+Meno a priezvisko: Bc. Vladimír Kollár
+E-mail: vladimir.kollar@nsud.sk
+Mobilný telefón: +421 905 220 383
+Kontaktné poverené osoby za Poskytovateľa:
+Meno a priezvisko: Viktor Senko
+E-mail: servis@itcrab.com
+Mobilný telefón: 0917200900
+Pri hlásení do help desku je nutné uviesť meno poverenej osoby Objednávateľa a jedinečné heslo,
+ktoré poverenej osobe pridelí Poskytovateľ v uzatvorenej obálke.
+Telefónne číslo hot–line je: 0917 200 900
+Poskytovateľ prostredníctvom poverenej osoby poskytne asistenciu pri inštalácii a údržbe
+hardware Objednávateľa v čase a termíne vopred dohodnutom oboma zmluvnými
+stranami.
+Poskytovateľ po zistení nefunkčnosti zariadenia Objednávateľa bezodkladne informuje
+Objednávateľa o potrebe náhrady nefunkčného zariadenia. Poskytovateľ zabezpečí v
+prípade potreby adekvátnu náhradu nefunkčného zariadenia na požiadanie
+Objednávateľa. Za týmto účelom Objednávateľ na vlastné náklady zabezpečí náhradné
+4
+
+zariadenie.
+V.
+Cena a platobné podmienky
+Cena za predmet Zmluvy je stanovená ako výsledok verejného obstarávania podľa
+zákona č. 343/2015 Z. z. o verejnom obstarávaní v znení neskorších predpisov vo výške
+76,-EUR bez DPH za jednu hodinu práce v sídle alebo na určených pracoviskách
+Objednávateľa.
+5.2 Zmluvná cena za servisnú pohotovosť je dohodnutá formou paušálnej odmeny a je
+stanovená na 29 hodín servisnej činnosti a 1 hodinu telefonickej podpory Poskytovateľa
+za kalendárny mesiac a predstavuje sumu:
+Zmluvná paušálna cena bez DPH: 2.280,-EUR / mesiac
+Zmluvná paušálna cena s DPH 20%: 2.736,-EUR / mesiac
+5.3 Zmluvné strany sa dohodli, že sumár servisných hodín vo finančnom vyjadrení
+objednaných Objednávateľom nad rámec servisnej pohotovosti podľa ods. 5.2 tejto
+zmluvy, nepresiahne rozdiel sumy paušálnej odmeny počas trvania tejto zmluvy
+a celkového finančného limitu určeného k čerpaniu podľa ods. 5.4 tejto zmluvy.
+5.4 Zmluvné strany sa dohodli, že finančný limit na služby poskytnuté v zmysle
+tejto Zmluvy predstavuje sumu 69.999,00 EUR bez DPH.
+5.5 V rámci kalendárneho mesiaca dohodnuté ale nevyčerpané predplatené servisné hodiny a
+hodiny telefonickej podpory sú neprenosné, t. z. je potrebné ich čerpať v rámci plynúceho
+kalendárneho mesiaca.
+5.6 Cena za poskytované servisné služby definovaná v ods. 5.1 tohto článku Zmluvy zahŕňa
+všetky nevyhnutné a účelne vynaložené náklady vzniknuté pri výkone tejto Zmluvy, a to
+vrátane cestovných, dopravných a iných režijných nákladov bez ohľadu na to, či bola práca
+vykonaná mimo pracovnej doby (8:00 – 16:00 hod.), počas pracovného voľna alebo
+sviatku. Fakturovaná suma pozostáva z mesačného paušálu podľa ods. 5.2 tohto článku
+Zmluvy a vyúčtovaných prác na základe reportu. Odmena nezahŕňa spotrebný ani iný
+materiál použitý Poskytovateľom pri servise počítačov, sietí, serverov či iných zariadení
+Objednávateľa. Tieto budú v prípade poskytnutia účtované osobitne, na základe písomnej
+objednávky Objednávateľa.
+5.7 Objednávateľovi vzniká povinnosť zaplatiť Poskytovateľovi cenu za poskytnuté servisné
+služby v zmysle tejto Zmluvy po riadnom splnení predmetu Zmluvy na základe reportu
+(riadne vykonané a ukončené zásahy a práce u Objednávateľa v rámci kalendárneho
+mesiaca) potvrdeného Objednávateľom poverenou osobou, a následne vystavenej faktúry.
+Poskytovateľ je povinný doručiť Objednávateľovi faktúru do 7 kalendárnych dní po
+ukončení a prevzatí servisných služieb Objednávateľom. Faktúra musí byť vystavená
+v súlade s potvrdeným reportom.
+5.8 Splatnosť riadne vystavenej faktúry je 30 kalendárnych dní odo dňa jej doručenia
+Objednávateľovi. Poskytovateľ je povinný uvádzať vo faktúre všetky náležitosti
+daňového dokladu. V prípade, ak faktúra nespĺňa náležitosti podľa príslušných všeobecne
+záväzných právnych predpisov, a zároveň podľa tejto Zmluvy, má Objednávateľ právo
+vrátiť faktúru bez úhrady v čase jej splatnosti Poskytovateľovi na doplnenie a opravu.
+Lehota splatnosti faktúry začne v takom prípade plynúť odo dňa doručenia opravenej
+a/alebo doplnenej faktúry Objednávateľovi.
+5.9 Zmluvné strany sa dohodli, že Objednávateľ neposkytne Poskytovateľovi žiadny
+preddavok za servisné služby podľa tejto Zmluvy.
+5.10 Faktúra sa považuje za uhradenú odpísaním dlžnej sumy z účtu Objednávateľa v prospech
+účtu Poskytovateľa.
+5.1
+
+5
+
+5.11 Neoddeliteľnou súčasťou faktúry bude report potvrdený poverenou osobou Objednávateľa
+a poverenou osobou Poskytovateľa, ktoré svojimi podpismi potvrdia poskytnutie
+predmetnej servisnej služby.
+VI.
+Čas a miesto plnenia
+6.1
+6.2
+
+6.3
+
+6.4
+
+Plnenie, ktoré je predmetom tejto Zmluvy, sa bude zo strany Poskytovateľa poskytovať
+v sídle Objednávateľa a na určených pracoviskách Objednávateľa.
+Objednávateľ je povinný:
+a)
+umožniť Poskytovateľovi plnenie Zmluvy, spolupracovať s Poskytovateľom pri
+plnení predmetu Zmluvy, a to najmä poskytnúť v dostatočnom predstihu potrebnú
+súčinnosť a úplné, pravdivé a včasné informácie potrebné pre riadne plnenie záväzkov
+Poskytovateľa,
+b)
+umožniť prístup k zariadeniam, ktoré sú určené na plnenie predmetu Zmluvy
+pracovníkom Poskytovateľa tak, aby mohli plniť predmet Zmluvy aj mimo pracovnej
+doby Objednávateľa, a
+c)
+vytvoriť bezpečné pracovné prostredie pre zamestnancov Poskytovateľa v súlade
+s príslušnými všeobecne záväznými právnymi predpismi.
+Poskytovateľ je povinný:
+a)
+plniť predmet Zmluvy s odbornou starostlivosťou, v požadovanej kvalite a rozsahu
+jeho možností, a
+b)
+vykonávať komplexnú servisnú starostlivosť na zariadeniach Objednávateľa
+v doporučených termínoch stanovených výrobcom.
+Poskytovateľ je povinný plniť predmet Zmluvy v sídle Objednávateľa, na určených
+pracoviskách Objednávateľa a podľa potreby a dohody s Objednávateľom i vo svojich
+priestoroch prostredníctvom vzdialeného prístupu.
+VII.
+Obchodné tajomstvo, ochrana dôverných informácií, ochrana osobných údajov
+
+7.1
+
+7.2
+
+7.3
+
+Poskytovateľ sa zaväzuje zachovávať mlčanlivosť vo vzťahu k akýmkoľvek a
+všetkým skutočnostiam a údajom spracovávaným Objednávateľom, o ktorých sa dozvedel
+alebo prišiel s nimi do styku pri výkone činnosti podľa tejto Zmluvy a nesprístupňovať ani
+neposkytovať ich tretím osobám.
+Poskytovateľ v súlade s príslušnými ustanoveniami zákona č. 122/2013 z. z. o ochrane
+osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(ďalej len „ZoOU“) písomne poučí svojich zamestnancov a všetky osoby, ktoré v rámci
+plnenia tejto Zmluvy budú mať prístup na pracoviská Objednávateľa, resp. by sa mohli v
+rámci plnenia predmetu Zmluvy dostať do kontaktu s osobnými údajmi zamestnancov
+Objednávateľa, a to najmä s dôrazom na povinnosť mlčanlivosti (§22) a sankcie za
+porušenie tejto mlčanlivosti (§68 ods. 7 písm. d) ZoOU). Zoznam týchto zamestnancov
+a všetkých osôb, ktoré v rámci plnenia tejto Zmluvy budú mať prístup na pracoviská
+Objednávateľa, resp. by sa mohli v rámci plnenia predmetu Zmluvy dostať do kontaktu s
+osobnými údajmi zamestnancov Objednávateľa, tvorí prílohu č. 1 tejto Zmluvy.
+Poskytovateľ ani osoby uvedené v predchádzajúcom odseku tohto článku Zmluvy nesmú
+informácie získané pri poskytovaní plnení vyplývajúcich z tejto Zmluvy bez výslovného
+písomného súhlasu Objednávateľa poskytovať tretím osobám, ani inak rozširovať, či
+6
+
+7.4
+
+7.5
+
+sprístupňovať.
+Nad rozsah povinností podľa tohto článku Zmluvy môžu byť medzi zmluvnými stranami
+uzatvorené ďalšie dohody a dojednania týkajúce sa bezpečnosti osobných údajov
+a ochrany dôverných informácií.
+Všetky informácie, okrem všeobecne známych informácií, dokumentácia, zmluvné
+dokumenty a akékoľvek písomnosti získané zmluvnými stranami v priebehu vzájomných
+rokovaní, trvania zmluvného vzťahu a aj po jeho skončení sa v súlade s ustanovením §
+271 Obchodného zákonníka považujú za dôverné. Strana, ktorá takéto informácie
+získala, nesmie ich bez súhlasu Objednávateľa poskytnúť a/alebo sprístupniť tretej strane
+alebo ich použiť v rozpore s účelom, na ktorý sú určené, alebo ich použiť vo svoj vlastný
+prospech alebo prospech tretích osôb. Zmluvná strana, ktorá poruší túto povinnosť, je
+povinná uhradiť druhej zmluvnej strane zmluvnú pokutu vo výške 5.000,- EUR
+(slovom: päťtisíc eur), ktorá je splatná do 10 dní odo dňa doručenia výzvy na jej
+zaplatenie zo strany neporušujúcej zmluvnej strany. Tým nie je dotknutá zodpovednosť
+za škody vzniknuté druhej zmluvnej strane v súlade s ustanovením § 373 Obchodného
+zákonníka. K zverejneniu takýchto dôverných informácií a dokumentov môže dôjsť iba
+na základe predchádzajúceho písomného súhlasu druhej zmluvnej strany.
+VIII.
+Vyhlásenia a záruky
+
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+
+Poskytovateľ vyhlasuje, že disponuje potrebnou odbornosťou a zamestnáva personál,
+a prípadne subdodávateľov s potrebnou kvalifikáciou a skúsenosťami potrebnými na
+plnenie predmetu tejto Zmluvy.
+V prípade, ak Objednávateľovi vznikne škoda v dôsledku úmyselného alebo
+nedbanlivostného porušenia povinnosti zo strany Objednávateľa (zavinená porucha),
+náklady na prácu Poskytovateľa, cenu spotrebovaného materiálu a náhradných dielov, ako
+aj všetky ostatné účelne vynaložené náklady spojené s vykonaním servisného zásahu
+zabezpečí Objednávateľ, ak nie je špecifikované inak.
+Poskytovateľ nenesie zodpovednosť za stratu údajov z nosičov dát Objednávateľa, pričom
+Objednávateľ má povinnosť zabezpečiť si na vlastné náklady zálohovanie dôležitých dát.
+Obnova zničených, stratených, alebo poškodených údajov nie je považovaná za záručnú
+opravu a môže byť vykonaná Poskytovateľom za úhradu, ktorá nie je zahrnutá v cene za
+servisné služby podľa tejto Zmluvy.
+Poskytovateľ nenesie zodpovednosť za vady spôsobené výlučne chybou softvéru alebo
+hardvéru Objednávateľa bez príčinnej súvislosti medzi konaním Poskytovateľa
+a vzniknutou vadou. Poskytovateľ je povinný využiť všetky odborné znalosti schopnosti
+a poskytnúť Objednávateľovi technickú podporu pre ich odstránenie a odvrátenie škody,
+ktorá môže Objednávateľovi vzniknúť.
+Objednávateľ je povinný písomne reklamovať vadu bez zbytočného odkladu po jej zistení.
+IX.
+Sankcie
+
+9.1
+
+V súlade s ustanovením § 369b Obchodného zákonníka má Poskytovateľ nárok na
+náhradu škody spôsobenej omeškaním so splnením peňažného záväzku Objednávateľa,
+len ak táto škoda nie je krytá úrokmi z omeškania alebo paušálnou náhradou nákladov
+spojených s uplatnením pohľadávky alebo ich súčtom.
+7
+
+V prípade nesplnenia povinností Poskytovateľa uvedených v bode 4.6 a 4.7 tejto zmluvy
+je Objednávateľ oprávnený uplatniť voči Poskytovateľovi zmluvnú pokutu vo výške 10
+% z ceny plnenia podľa bodu 5.2 tejto zmluvy, a to Zmluvná paušálna cena/mesiac a to
+za každé individuálne porušenie zmluvy. V prípade, ak omeškanie Poskytovateľa
+presiahne sedem kalendárnych dní (7) má objednávateľ nárok na zmluvnú pokutu vo
+výške 0,05 % z ceny podľa bodu 5.4 tejto zmluvy za každý ďalší, aj začatý deň
+omeškania.
+9.3. V prípade nesplnenia povinností Poskytovateľa uvedených v bode 4.9 tejto zmluvy je
+objednávateľ oprávnený uplatniť voči Poskytovateľovi zmluvnú pokutu vo výške 20 %
+z ceny plnenia podľa bodu 5.2 tejto zmluvy, a to Zmluvná paušálna cena/mesiac, a to za
+každé individuálne porušenie zmluvy. V prípade, ak omeškanie Poskytovateľa presiahne
+sedem kalendárnych dní (7) má objednávateľ nárok na zmluvnú pokutu vo výške 0,05
+% z ceny podľa bodu 5.4 tejto zmluvy za každý ďalší, aj začatý deň omeškania.
+9.4. Úhradou zmluvných pokút podľa tejto zmluvy nezaniká nárok na náhradu škody, ktorá
+vznikla zmluvnej strane v dôsledku porušenia zmluvnej povinnosti druhou zmluvnou
+stranou.
+
+9.2
+
+X.
+Doručovanie
+10.1 Všetky oznámenia alebo písomnosti, ktoré majú byť doručené podľa tejto Zmluvy, je
+
+možné doručovať osobne, prostredníctvom doporučenej poštovej zásielky, alebo
+prostredníctvom elektronickej pošty príslušnej zmluvnej strane, ktorej majú byť doručené,
+na jej adresu podľa odseku 10.4 tejto Zmluvy alebo na inú adresu oznámenú v súlade
+s týmto článkom.
+10.2 Akékoľvek oznámenie alebo písomnosť bude považované za doručené:
+a) ak bolo doručené osobne, v dobe doručenia alebo odopretia doručenia; alebo
+b) ak bolo odoslané poštou, v piaty pracovný deň po dni, kedy bolo odovzdané pošte;
+c) ak bolo zaslané prostredníctvom elektronickej pošty, obdržaním správy o úspešnom
+doručení.
+10.3 Na preukázanie doručenia bude postačovať preukázanie, že doručenie bolo uskutočnené,
+že obálka obsahujúca oznámenie alebo písomnosť bola správne adresovaná a odovzdaná
+na poštovú prepravu ako doporučená poštová zásielka, alebo že e-mailová správa bola
+správne adresovaná a odoslaná.
+10.4 Adresy zmluvných strán pre účely ods. 10.1 tejto Zmluvy sú nasledovné:
+IT CRAB s. r. o.:
+Adresa:
+K rukám:
+E-mail:
+
+M. Curie Sklodowskej 4 , 851 04 Bratislava
+Viktor Senko
+senko@itcrab.com
+
+Kancelária Najvyššieho súdu Slovenskej republiky:
+Adresa:
+Župné námestie č. 13, 814 90 Bratislava
+K rukám:
+JUDr. Ivan Solej, LL.M.
+E-mail:
+ivan.solej@nsud.sk
+
+8
+
+XI.
+Trvanie zmluvy
+11.1 Táto Zmluva sa uzatvára na dobu určitú, v trvaní 12 mesiacov odo dňa nadobudnutia jej
+účinnosti.
+11.2 Táto Zmluva môže pred dohodnutou dobou jej trvania zaniknúť:
+a)
+písomnou dohodou zmluvných strán,
+b)
+odstúpením od Zmluvy ktoroukoľvek zo zmluvných strán v prípade podstatného
+porušenia Zmluvy druhou zmluvnou stranou z dôvodov podľa Obchodného
+zákonníka alebo z dôvodov označených za podstatné porušenie zmluvných
+povinností v tejto Zmluve. Odstúpeniu od Zmluvy musí predchádzať písomné
+upozornenie adresované druhej zmluvnej strane o podstatnom porušení Zmluvy a o
+možnosti odstúpenia od nej, ak v primeranej lehote stanovenej oznamujúcou
+zmluvnou stranou nedôjde k náprave tohto porušenia.
+11.3 Objednávateľ je oprávnený odstúpiť od tejto Zmluvy z nasledovných dôvodov:
+a)
+ak súd právoplatne uzná kohokoľvek zo štatutárneho orgánu Poskytovateľa alebo
+zamestnancov Poskytovateľa vinným zo spáchania trestného činu bezprostredne
+súvisiaceho s uzatváraním alebo plnením tejto Zmluvy,
+b)
+strata nevyhnutnej kvalifikácie Poskytovateľa na plnenie predmetu tejto Zmluvy
+vrátane, ale nie výlučne v podobe straty (živnostenského) oprávnenia na
+vykonávanie činností, ktoré bezprostredne súvisia s predmetom tejto Zmluvy,
+pokiaľ Poskytovateľ opätovne nezíska túto kvalifikáciu do 15 dní od takejto straty;
+Poskytovateľ je povinný Objednávateľovi takúto okolnosť oznámiť bez
+zbytočného odkladu,
+c)
+pri závažnom porušení povinností Poskytovateľa podľa tejto Zmluvy, pričom
+závažným porušením Poskytovateľa sa rozumie situácia, ak Poskytovateľ
+opakovane neodôvodnene neposkytuje Objednávateľovi dohodnuté služby za
+podmienok dohodnutých v tejto Zmluve a v dohodnutom rozsahu, kvalite a cene,
+napriek tomu, že ho Objednávateľ na takéto porušenie povinnosti písomne upozornil
+a márne uplynula primeraná lehota na nápravu poskytnutá Objednávateľom
+Poskytovateľovi. Za závažné porušenie povinnosti Poskytovateľa podľa tejto
+Zmluvy sa považuje aj nevyriešenie kritického alebo významného incidentu v lehote
+najviac 5 pracovných dní alebo neodstránenie dodatočných chýb vzniknutých
+v dôsledku takéhoto incidentu v lehote najviac 14 pracovných dní.
+11.4 Odstúpenie od Zmluvy z dôvodu podstatného porušenia tejto Zmluvy niektorou zo
+zmluvných strán nadobudne účinnosť dňom doručenia písomného oznámenia o odstúpení
+od Zmluvy druhej zmluvnej strane.
+11.5 Úplná, alebo čiastočná zodpovednosť zmluvných strán je vylúčená v prípadoch zásahu
+vyššej moci.
+11.6 Odstúpenie od Zmluvy oznámi odstupujúca strana druhej zmluvnej strane písomne
+doručenou zásielkou na adresu jej sídla uvedenú v záhlaví tejto Zmluvy, a to bez
+zbytočného odkladu po tom, ako sa o podstatnom porušení Zmluvy dozvedela.
+11.7 Ak zistí niektorá zo zmluvných strán pri plnení tejto Zmluvy prekážku, ktorá znemožňuje
+riadne plnenie predmetu Zmluvy dohodnutým spôsobom, oznámi to bezodkladne druhej
+zmluvnej strane a začne s ňou okamžite rokovať v dobrej viere o odstránení takejto
+prekážky. Pokiaľ sa zmluvné strany nedohodnú do 30 dní odo dňa doručenia oznámenia,
+môže ktorákoľvek zmluvná strana odstúpiť od tejto Zmluvy.
+
+9
+
+XII.
+Klauzula o vyššej moci
+12.1 Prípady zásahu vyššej moci sa spravujú príslušnými ustanoveniami všeobecne záväzných
+právnych predpisov. O začatí, ako aj pominutí okolností zásahu vyššej moci sú zmluvné
+strany povinné vzájomne sa bez meškania písomne informovať.
+12.2 Zmluvné strany nenesú zodpovednosť za neplnenie predmetu Zmluvy a nebudú znášať
+súvisiace sankcie, pokiaľ takého neplnenie je zavinené pôsobením vyššej moci. Pod
+vyššou mocou sa rozumejú napr. živelné pohromy, štrajk, embargo, administratívne
+opatrenia štátu a iné také udalosti, ktoré zmluvné strany nemohli za normálnych okolností
+predvídať, a ktorým nemohli pri použití obvyklých prostriedkov a opatrení zabrániť.
+
+XIII.
+Spoločné a záverečné ustanovenia
+13.1 Táto Zmluva bola vyhotovená v štyroch vyhotoveniach, po dve pre každú zo zmluvných
+strán.
+13.2 Zmluvné strany vyhlasujú, že táto Zmluva je prejavom ich skutočnej a vážnej vôle, že túto
+Zmluvu neuzatvárajú v tiesni, ani za inak nevýhodných podmienok a že jednotlivým
+ustanoveniam tejto Zmluvy porozumeli a s týmito podmienkami bez výhrad súhlasia, čo
+potvrdzujú vlastnoručnými podpismi.
+13.3 Akékoľvek záväzky z tejto Zmluvy sú záväzné i pre právnych nástupcov zmluvných strán.
+13.4 Túto Zmluvu je možné meniť a dopĺňať iba písomným dodatkom podpísaným oboma
+zmluvnými stranami, ak v tejto Zmluve nie je dohodnuté inak. V ostatnom sa práva a
+povinnosti zmluvných strán riadia ustanoveniami Obchodného zákonníka a iných
+všeobecne záväzných právnych predpisov.
+13.5 Táto Zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom
+registri zmlúv vedenom Úradom vlády SR v zmysle zákona č. 211/2000 Z. z. o slobodnom
+prístupe k informáciám a o zmene a doplnení zákonov.
+
+Objednávateľ:
+
+Poskytovateľ:
+
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+-------------------------------------------------JUDr. Ivan Solej, LL.M.
+vedúci Kancelárie NS SR
+
+--------------------------------------------------Viktor Senko
+konateľ IT CRAB s. r. o.
+
+10
+
+Prílohy:
+- Príloha č. 1: Zoznam zamestnancov Poskytovateľa a všetkých osôb, ktoré v rámci
+plnenia tejto Zmluvy budú mať prístup na pracoviská Objednávateľa.
+
+11
+
+Príloha č. 1
+Servisná zmluva
+Servis IT infraštruktúry
+č. 100/19
+Zoznam zamestnancov Poskytovateľa a všetkých osôb, ktoré v rámci plnenia tejto Zmluvy
+budú mať prístup na pracoviská Objednávateľa
+Č.
+
+Pozícia
+
+Meno a priezvisko
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+12
+
+

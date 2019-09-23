@@ -1,0 +1,330 @@
+ZMLUVA O VYDANÍ A POUŽÍVANÍ CERTIFIKÁTU PRE AUTENTIFIKÁCIU WEBOVÉHO SÍDLA
+č. 201701285
+uzavretá podľa ust. § 269 ods.2 zák. č. 513/1991 Zb. Obchodný zákonník medzi:
+Žiadateľ: Plemenárske služby Slovenskej republiky, štátny podnik IČO: 36856096, zastúpený Ing.
+Péter Görözdi, Baloň 196; OP/pas č.: HC197497 a
+Poskytovateľ:
+Disig, a.s., zápis v Obchodnom registri OS BA I, odd. Sa, vložka č. 3794/B, so sídlom Záhradnícka 151, 821 08
+Bratislava, IČO: 35975946, v zastúpení, Natália Cangárová, na základe plnej moci zo dňa 3. 3. 2015
+1.
+
+PREDMET ZMLUVY
+
+1.1 Predmetom tejto zmluvy je odplatný záväzok Poskytovateľa vydať a poskytnúť Žiadateľovi, na
+základe jeho žiadosti, dôveryhodnú službu vydania certifikátu pre autentifikáciu webového sídla, v
+súlade s platným politikami Poskytovateľa (ďalej len „CP“) pre tieto služby.
+1.2 Na účely tejto zmluvy sa dôveryhodnou službou rozumie dôveryhodná služba, ktorá spĺňa
+uplatniteľné požiadavky Nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o
+elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a
+o zrušení smernice 1999/93/ES (ďalej len „Nariadenie eIDAS“). Certifikátom pre autentifikáciu
+webového sídla (ďalej len „SSL certifikát“ resp. „certifikát“) je osvedčenie, ktoré umožňuje
+autentifikáciu webového sídla a spája toto webové sídlo s právnickou osobou, ktorej bol certifikát
+vydaný (Článok 3 bod 38 Nariadenia eIDAS).
+2.
+
+PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+
+2.1 Poskytovateľ sa zaväzuje na základe riadne vyplnenej, doloženej a overenej Žiadosti vydať
+Žiadateľovi SSL certifikát, a to bez zbytočného odkladu a v súlade s platným CP. Poskytovateľ sa pri
+poskytovaní dôveryhodnej služby zaväzuje dodržovať všetky záväzky vyplývajúce mu zo všeobecne
+záväzných právnych predpisov, najmä Nariadenia eIDAS.
+2.2 Postup na vydanie a prevzatie SSL certifikátu žiadateľovi o certifikát je podrobne opísaný v CP
+Poskytovateľa. Prvotná vydanie SSL certifikátu sa vykonáva na základe žiadosti, ktorá, ak nie je
+dohodnuté inak, musí vyhovovať štandardu PKCS#10. Žiadosť je predkladaná Poskytovateľovi, ktorý
+zabezpečí autentifikáciu identity žiadateľa o SSL certifikát a to na základe predloženia a posúdenia
+dokladov akceptovateľných podľa CP
+Poskytovateľa. Poskytovateľ zároveň zabezpečí autentizáciu identity komponentu v zmysle
+požiadaviek CP. Po podpise zmluvy a vydaní certifikátu pre autentifikáciu webového sídla
+Poskytovateľ odovzdá Žiadateľovi Potvrdenie o vydaní certifikátu pre autentifikáciu webového sídla a
+jeho odovzdaní žiadateľovi o certifikát (ďalej len „Potvrdenie“), ktoré tvorí neoddeliteľnú prílohu
+tejto zmluvy, a ktoré obsahuje odkaz na web stránku, kde je možné vydaný certifikát prevziať.
+Potvrdenie sa zároveň považuje za výzvu na jeho prevzatie. Žiadateľ sa zaväzuje vyzdvihnúť si
+Poskytovateľom vydaný SSL certifikát najneskôr do 30 dní od výzvy Poskytovateľa alebo jeho
+registračnej autority. V prípade, ak sa tak nestane je Poskytovateľ oprávnený vydaný SSL certifikát
+zrušiť bez nároku Žiadateľa na vrátenie odplaty (ceny) za vydanie SSL certifikátu.
+2.3 Žiadateľ je oprávnený používať počas doby platnosti SSL certifikátu tento ako certifikát určený
+pre bezpečnú komunikáciu pomocou softvéru, ktorý podporuje využitie certifikátov vyhovujúcich
+špecifikácii X.509 verzie 3.
+2.4 Žiadateľ sa zaväzuje dodržiavať ustanovenia CP Poskytovateľa, Bezpečnostnej politiky
+Poskytovateľa ako aj ustanovenia tejto zmluvy.
+2.5. Žiadateľ je povinný a zaručuje sa
+
+a)
+b)
+
+c)
+
+d)
+
+e)
+
+ihneď po získaní SSL certifikátu skontrolovať správnosť údajov uvedených v certifikáte,
+počas celej doby životnosti starostlivo chrániť privátny(súkromný) kľúč pred jeho
+zverejnením, sprístupnením, stratou, kompromitovaním alebo iným zneužitím,
+bezodkladne preukázateľným spôsobom oznámiť Poskytovateľovi podozrenie alebo
+skutočnosť zverejnenia, sprístupnenia, straty, kompromitovania alebo iného zneužitia
+súkromného kľúča alebo hesla prípadne iného zabezpečenia, ktorým bol súkromný kľúč
+chránený,
+inštalovať a používať vydaný SSL certifikát len na serveri, ktorý je dostupný pod úplným
+doménovým menom nachádzajúcim sa v časti
+SubjectAltName tohto certifikátu
+používať certifikát výhradne v súlade s aplikovateľným právom a účelom, ku ktorému je
+určený
+
+f)
+
+uvádzať vždy len presné, pravdivé a úplné informácie vo vzťahu k certifikátu svojho
+verejného kľúča,
+
+g)
+
+ihneď požiadať Poskytovateľa o zrušenie certifikátu, ak zistí, že došlo alebo môže dôjsť k
+neoprávnenému použitiu jeho súkromného kľúča, alebo ak nastali zmeny v údajoch
+uvedených v certifikáte,
+
+h)
+
+zdržať sa akéhokoľvek používania súkromného kľúča v prípade, že certifikát vydaný na jemu
+zodpovedajúci verejný kľúč bol zrušený z dôvodu kompromitácie
+
+i)
+
+zareagovať na príkazy Poskytovateľa v súvislosti s kompromitáciou súkromného kľúča resp.
+zneužitím certifikátu do 24 hodín od prevzatia takéhoto príkazu
+
+2.6. Žiadateľ si je vedomý a bude akceptovať, že Poskytovateľ má právo na zrušenie vydaného SSL
+certifikátu v prípade zistenia, že jeho používanie nie je v súlade s touto zmluvou, alebo že používanie
+certifikátu je spojené s kriminálnou činnosťou ako je napr. phishing, podvodné konanie resp. šírenie
+malvéru.
+2.7 Poskytovateľ nezodpovedá za škodu ktorá,
+
+3.
+
+a)
+
+vznikla Žiadateľovi alebo tretím osobám z dôvodu porušenia zmluvných alebo zákonných
+povinností Žiadateľa,
+
+b)
+
+vznikla Žiadateľovi z dôvodu znemožnenia inštalovania alebo použitia vydaného certifikátu pre
+nekompatibilitu Žiadateľom použitých hardvérových a softvérových prostriedkov,
+
+c)
+
+vznikla poškodenému z dôvodu spoliehania sa na certifikát, ktorého platnosť skončila, alebo
+ktorý bol zrušený,
+
+d)
+
+vznikla Žiadateľovi alebo tretím stranám uvedením nesprávnych údajov v Žiadosti,
+
+e)
+
+vznikla tretím stranám z dôvodu zneužitia certifikátu Žiadateľom,
+
+f)
+
+má povahu zmareného zisku.
+
+CENA ZA POSKYTNUTIE SLUŽIEB
+
+3.1 Cena za vydanie certifikátu je stanovená dohodou vo výške 39,17 € bez DPH a 47,00 € s 20%
+DPH. Cena za poskytnutie inej dôveryhodnej služby je stanovená cenníkom zverejneným na webovej
+stránke http://http://eidas.disig.sk platným ku dňu poskytnutia inej dôveryhodnej služby. Žiadateľ
+podpisom tejto zmluvy prehlasuje, že s takto dohodnutým spôsobom určenia ceny je oboznámený,
+súhlasí s ním a zaväzuje sa takto určenú cenu včas zaplatiť.
+3.2 Nárok na zaplatenie ceny za vydanie certifikátu vzniká momentom vydania certifikátu, alebo
+poskytnutia inej dôveryhodnej služby V prípade, že Žiadateľ nevykonal úhradu ceny v zmysle bodu 3.1
+
+v hotovosti u Poskytovateľa, tak zaplatí túto cenu, na základe vystavenej faktúry, najneskôr do 14 dní
+od dátumu jej vystavenia. V prípade, ak neprebehla platba v hotovosti a Žiadateľ nedostane v lehote
+14 dní faktúru, je povinný o tejto skutočnosti ihneď informovať Poskytovateľa.
+3.3 V prípade neuhradenia ceny za poskytnutie služby riadne a včas je Žiadateľ povinný zaplatiť
+Poskytovateľovi úrok z omeškania vo výške 0,05% z dlžnej sumy za každý deň omeškania.
+Poskytovateľ je oprávnený od tejto zmluvy odstúpiť, pokiaľ Žiadateľ nezaplatí cenu do 15 dní po
+lehote splatnosti.
+4.
+
+VŠEOBECNÉ A ZÁVEREČNÉ USTANOVENIA
+
+4.1 Táto zmluva je vyhotovená a uzavretá na základe žiadosti Žiadateľa a plní zároveň funkciu
+písomného záznamu o prijatí žiadosti o vydanie certifikátu.
+4.2 Žiadateľ prehlasuje, že pred podpísaním tejto zmluvy bol podrobne a zrozumiteľne informovaný
+o bezpečnostnej politike Poskytovateľa a o pravidlách poskytovania dôveryhodných služieb
+Poskytovateľa, s ktorými sa oboznámil v elektronickej forme na webovej stránke http://eidas.disig.sk.
+4.3 Žiadateľ podpisom tejto zmluvy potvrdzuje, že ku dňu podpisu tejto zmluvy je podrobne
+oboznámený s CP Poskytovateľa, tento mu je známy, súhlasí s ním a zaväzuje sa ho dodržiavať.
+4.4 Žiadateľ týmto udeľuje v zmysle ust. § 11 zákona č. 122/2013 Z. z. o ochrane osobných údajov
+súhlas s tým, aby všetky osobné údaje Žiadateľa uvedené v Žiadosti na základe, ktorej bola uzavretá
+táto zmluva, rovnako ako aj jeho osobné údaje uvedené v tejto zmluve boli spracovávané v
+informačnom systéme Poskytovateľa. Osobné údaje Žiadateľa budú spracovávané len za účelom ich
+využitia pri vykonávaní a poskytovaní dôveryhodných služieb Poskytovateľa. Žiadateľ udeľuje tento
+súhlas na dobu, počas ktorej je Poskytovateľovi zákonom stanovená povinnosť uchovávať Žiadosti o
+vydanie certifikátov. Súhlas môže byť odvolaný písomne avšak najskôr len súčasne s ukončením tejto
+zmluvy.
+4.5 Podpisom tejto zmluvy zákazník prejavuje svoj súhlas/nesúhlas s možnosťou zasielania faktúr za
+služby Poskytovateľa elektronicky.
+4.6 Zmluvné strany prehlasujú, že údaje v Žiadosti o vydanie certifikátu alebo poskytnutie inej služby
+ako aj údaje uvedené v záhlaví tejto zmluvy prípadne jej dodatkov sú a vždy budú aktuálne a
+pravdivé. Prípadné zmeny týchto údajov sa zmluvné strany zaväzujú oznámiť bezodkladne.
+4.7 Táto zmluva sa uzatvára na dobu určitú, ktorá je určená dobou platnosti certifikátu vydaného na
+základe tejto zmluvy
+4.8 Táto zmluva zaniká dohodou zmluvných strán alebo odstúpením ktoroukoľvek zo zmluvných
+strán v prípade podstatného porušenia zmluvnej alebo zákonnej povinnosti. Ukončenie a zánik
+zmluvy nemá vplyv na vyrovnanie všetkých záväzkov, ktoré medzi zmluvnými stranami vznikli počas
+jej platnosti
+4.9 Táto zmluva je uzavretá podľa ust. § 269 ods. 2 Obchodného zákonníka a spravuje sa platným
+právnym poriadkom Slovenskej republiky.
+4.10 Zmluvu je možné meniť len po vzájomnej dohode, písomne, formou očíslovaných dodatkov
+podpísaných oboma zmluvnými stranami.
+4.11. Zmluvné strany sa dohodli, že, v súlade s §262 Obchodného zákonníka, sa táto zmluva spravuje
+ustanoveniami Obchodného zákonníka.
+
+4.12 Táto zmluva je vyhotovená v dvoch rovnopisoch, z ktorých každá zo zmluvných strán dostane po
+jednom rovnopise. Neoddeliteľnú prílohu tejto zmluvy tvorí Potvrdenie.
+4.13 Zmluvné strany si túto zmluvy prečítali, jej obsahu porozumeli, sú si vedomí právnych
+následkov, ktoré vyplývajú z jej uzavretia, na znak čoho ju slobodne, vážne, bez omylu, výhrad, nie za
+nápadne nevýhodných podmienok podpisujú podpismi oprávnených osôb.
+18. 1. 2017
+
+Poskytovateľ
+Disig, a.s.,
+
+Žiadateľ
+Ing. Péter Görözdi v zastúpení Natália Cangárová na
+
+Potvrdenie č. 201701285
+o vydaní certifikátu na autentifikáciu webového sídla a jeho odovzdaní žiadateľovi
+I.
+
+Poskytovateľ: Disig, a.s., zápis v Obchodnom registri OS BA I, odd. Sa, vložka č. 3794/B, so sídlom
+Záhradnícka 151, 821 08
+Bratislava, IČO: 35975946, v zastúpení, Natália Cangárová, na základe plnej moci zo dňa 3.3.2015 (ďalej len
+„Poskytovateľ“)
+
+II.
+
+Žiadateľ:
+Názov právnickej osoby:
+Plemenárske služby Slovenskej republiky, štátny podnik
+Identifikačný údaj (IČO): 36856096
+Zastúpená (meno a priezvisko, ČOP, bydlisko):
+
+Ing. Péter Görözdi; HC197497; Baloň 196
+III.
+
+Splnomocnená osoba Žiadateľom (ďalej len „Splnomocnená osoba“) na úkony potrebné na vydanie a
+odovzdanie certifikátu na
+autentifikáciu webového sídla. (Vyplniť len ak sa Žiadateľ nechá zastupovať pri konaní u Poskytovateľa)
+Splnomocnená osoba Žiadateľom udeľuje, v zmysle ust. § 11 zákona č. 122/2013 Z. z. o ochrane osobných
+údajov, súhlas s tým, aby
+všetky osobné údaje Splnomocnenej osoby uvedené v ods. IV. tohto Potvrdenia boli spracovávané v
+informačnom systéme Poskytovateľa alebo informačnom systéme registračnej autority Poskytovateľa. Osobné
+údaje Splnomocnenej osoby budú spracovávané len za účelom ich využitia pri vykonávaní a poskytovaní
+dôveryhodných služieb Poskytovateľa. Splnomocnená osoba udeľuje tento súhlas na dobu, počas ktorej je
+Poskytovateľovi zákonom stanovená povinnosť uchovávať dokumentáciu súvisiacu s vydávaním certifikátov.
+Súhlas môže byť odvolaný písomne avšak najskôr len súčasne s ukončením tejto zmluvy.
+
+IV.
+
+SSL certifikát
+Číslo (Serial number): hex: 0C763C65C53D9F7CF20000000000000198
+/C=SK/L=Bratislava/O=Plemenarske sluzby Slovenskej republiky s.p./OU=AXONPRO/CN=www.plis.sk
+Vydavateľ:
+Heslo pre zrušenie SSL certifikátu: XM6CCE87
+Výpis obsahu SSL certifikátu vo formáte PEM:
+-----BEGIN CERTIFICATE----MIIGHTCCBQWgAwIBAgIRDHY8ZcU9n3zyAAAAAAAAAZgwDQYJKoZIhvcNAQELBQAwZTEL
+MAkGA1UEBhMCU0s
+xEzARBgNVBAcMCkJyYXRpc2xhdmExEzARBgNVBAoMCkRpc2lnIGEucy4xLDAqBgNVBAMM
+I0NBIERpc2lnIFIySTI
+gQ2VydGlmaWNhdGlvbiBTZXJ2aWNlMB4XDTE3MDExODA5MTkzOFoXDTE4MDExODA5MT
+kzOFowgYExCzAJBg
+NVBAYTAlNLMRMwEQYDVQQHDApCcmF0aXNsYXZhMTUwMwYDVQQKDCxQbGVtZW5hcn
+NrZSBzbHV6YnkgU2
+xvdmVuc2tlaiByZXB1Ymxpa3kgcy5wLjEQMA4GA1UECwwHQVhPTlBSTzEUMBIGA1UEAw
+wLd3d3LnBsaXMuc2
+swggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDU1KHsAUqYPKTtm70KxZ5AmtB
+6UzUfF5da6L7lkRNz
+m/PU/eIi3t5txSdhZmre4cfnleZ30yeiaTzpCuzJs5l1YzZpSLZhZRXklB/EVlIBJWXVJ5tNf9Fx
+MMJUEIxpQ77
++VZPFdvsXYbgWNVXdqX5TV3X5VfypMqDmxLq3d90Ih7NH4rXQfxer9Y67MU0M10jtgsZy1
+Ys9cYIqHg/Usicvgd6
+qh6ZHwBnEZaDLYv4TyZK5dtKIgAqkALwNdQuc6nSENsZk0/MDRG+JKxVmtXZXpDzQuRwz
+OiiuGQ9BdXibQCJR
+NQDGqYITwccz1AK7PL9e5w7rSnCGl49/Obd8lH0h0aNBQd6br4qtzlXkdGf+
+6lCY4dWA5zkuWm3X8qEKRwW4GA9kKOYSMgCdCTvLSqoOGeUmTHiZDTVTZvDMwKA367
+vTbvqXeE/HcuNGC
+X06OtBhxqDobwpLx/3lS+n2LJbEWQt45xBbBHRVCmWZQY/cnwlgDfK5CRabe7mtZxiljmzI
+daRXhn62HxYblul/6
+JEZ7y9GZdXGhcc97PH/QfXCf88StiQjnytrgJwWm0oV+gpQcCVRQqx9k+f/i2LLF0OjMNLJJ
+yvezEUL9mxbjxSe7
+8Y0pjJX3mZtntdLCsWMrXZDEh3173oRkGmPxGEeD3OyCYr+B/aPeLZVtL4KlmR8GQIDAQA
+Bo4IBqTCCAaUwH
+QYDVR0OBBYEFEqPGAbhj1QKYKBtam3/BgFiKGANMB8GA1UdIwQYMBaAFCSlvDooYhVCM
+vkwWsnxPuShCaixM
+AsGA1UdDwQEAwIEsDB5BgNVHR8EcjBwMDagNKAyhjBodHRwOi8vY2RwMS5kaXNpZy5zay
+9zdWJjYXIyaTIvY3
+JsL3N1YmNhcjJpMi5jcmwwNqA0oDKGMGh0dHA6Ly9jZHAyLmRpc2lnLnNrL3N1YmNhcjJ
+pMi9jcmwvc3ViY2
+
+FyMmkyLmNybDATBgNVHSUEDDAKBggrBgEFBQcDATAjBgNVHSAEHDAaMA4GDCuBHpGT5
+goAAAABATAIBgZng
+QwBAgIwgYgGCCsGAQUFBwEBBHwwejA5BggrBgEFBQcwAYYtaHR0cDovL3N1YmNhcjJpM
+i1vY3NwLmRpc2lnL
+nNrL29jc3Avc3ViY2FyMmkyMD0GCCsGAQUFBzAChjFodHRwOi8vY2RwMS5kaXNpZy5zay
+9zdWJjYXIyaTIvY2V
+ydC9zdWJjYXIyaTIuZGVyMBYGA1UdEQQPMA2CC3d3dy5wbGlzLnNrMA0GCSqGSIb3DQEB
+CwUAA4IBAQBTLUM
++/lygzX3S0MMtT0SsEESAyBHiYlbLGK/38Au1xrVEhUQAYLt2eQZjNvGhoa30ASgby0W7LQ
+QvjzA4cRnRlaMaKFU JyEWKmyN+O8
++n2h8z0QOKIwKOxVWEExNQCWSzyKVOnxBdfViOR0k2lbCmWSa55XewSwhQN6Vn9B4m
+NXa6BO7/rgj/MYzW
+zYUTV1QA/J7Rf2GX1Yyl0W9G23nC1zKA14uXKZIGmo5SKVvutS4gHV58dHIyzP0SFsZ+m9
++vb2qc8vQJdY/
++ytiE/250AwK8vL7los2EGp+hmDmIgObKGt1WysLUyGfMZ6QtmJ9ElpyaKxo94qTbMZ6pw
+pEZ-----END CERTIFICATE-----
+
+Platnosť od: 18.1.2017 9:19:38 GMT do 18.1.2018 9:19:38 GMT
+V.
+
+Informácie
+Vydaný SSL certifikát je možné vyhľadať na nižšie uvedenom web sídle, pričom je potrebne vybrať
+certifikačnú autoritu s názvom "CA Disig R2I2 Certification Service" a ako DN na vyhľadávanie je potrebné
+uviesť doménové meno komponentu (pozri CN v časti IV.). Po vyhľadaní je možnosť stiahnuť požadovaný
+formát (DER, PEM, TXT).
+eidas.disig.sk -> Vyhľadávanie certifikátov
+Certifikát vydávajúcej certifikačnej autority je
+možné stiahnuť z adresy:
+http://eidas.disig.sk/subcar2i2/cert/subcar2i2.der
+Certifikát koreňovej CA Disig je stiahnuť z adresy:
+http://cdn.disig.sk/rootcar2/cert/rootcar2.der
+Reťazec certifikačných autorít (CA Disig Root R2 + CA Disig R2I2 Certification Service) vo formáte PEM si môžete
+stiahnuť z adresy:
+http://cdn.disig.sk/subcar2i2/cert/cachain.pem
+Aktuálny zoznam zrušených certifikátov vydávajúcej certifikačnej autority je prístupný na adrese:
+http://cdn.disig.sk/subcar2i2/crl/subcar2i2.crl
+
+VI.
+
+Záverečné ustanovenia
+
+Žiadateľ resp. Splnomocnená osoba, svojím podpisom potvrdzuje, že vyššie uvedené identifikačné údaje sa zhodujú
+so skutočnosťou uvedenou na origináloch príslušných dokladov. Zároveň potvrdzuje vydanie a prevzatie SSL
+certifikátu, ktorého výpis je uvedený v časti IV. tohto potvrdenia.
+Toto potvrdenie je v súlade s ods. 2.2 Zmluvy o vydaní a používaní certifikátu pre autentifikáciu webového sídla
+(ďalej len "Zmluva") jej neoddeliteľnou prílohou, pričom Zmluva a Potvrdenie majú v záhlaví uvedené identické číslo.
+
+18.1.2017
+Poskytovateľ (podpis):
+
+Disig, a.s., v
+zastúpení Natália
+Cangárová na
+základe plnej
+moci zo dňa
+3.3.2015
+
+Žiadateľa resp. Splnomocnená osoba (podpis):
+
+

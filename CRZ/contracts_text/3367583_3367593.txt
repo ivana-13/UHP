@@ -1,0 +1,758 @@
+Zmluva na
+poskytovanie služieb č.
+3/2018
+Technická podpora SW aplikácie VIS
+ŠVPS
+
+uzavretá v zmysle § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov medzi zmluvnými stranami:
+
+1. Objednávateľ: Štátna veterinárna a potravinová správa SR
+Sídlo:
+Zapísaná:
+Zastúpený:
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie:
+SWIFT (BIC):
+IBAN:
+Kontaktná osoba vo veciach
+zmluvných:
+Kontaktná osoba vo veciach
+technických:
+(ďalej len „Objednávateľ“)
+
+Botanická 17, 842 13 Bratislava
+Zriadená zo zákona
+Prof. MVDr. Jozef Bíreš, DrSc. – ústredný
+riaditeľ
+00156426
+2020798571
+7000068189/8180
+SPSRSKBA
+SK83 8180 000 0070 0006 8189
+Prof. MVDr. Jozef Bíreš, DrSc.
+Ing. Peter Kurucz
+a
+
+2. Zhotoviteľ:
+Sídlo:
+Zapísaná:
+Zastúpený:
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie:
+SWIFT (BIC):
+IBAN:
+Kontaktná osoba vo veciach
+Zmluvných:
+(ďalej len „YMS“ alebo „Zhotoviteľ“)
+
+YMS, a.s.
+Hornopotočná 1, 917 01 Trnava
+V obchodnom registri Okresného súdu
+Trnava, oddiel Sa, vložka č. 10037/T
+Ing. Lucia Dubná, podpredseda
+predstavenstva
+36 224 278
+SK2020163090
+2020163090
+Slovenská sporiteľňa, a.s.
+GIBASKBX
+SK66 0900 0000 0002 8639 7620
+Lucia Dubná – podpredseda
+predstavenstva
+
+Zmluva
+
+2/15
+
+Preambula
+1.
+2.
+
+Zhotoviteľ vyhlasuje, že spĺňa všetky podmienky a požiadavky uvedené v tejto Zmluve a je
+oprávnený túto Zmluvu uzatvoriť a riadne plniť záväzky v nej obsiahnuté.
+Objednávateľ je oprávneným užívateľom SW aplikácie Veterinárny informačný systém (ďalej aj
+ako „VIS“).
+
+1.
+Predmet zmluvy
+1.1. Predmetom tejto zmluvy je záväzok Zhotoviteľa poskytovať na základe tejto zmluvy pre
+Objednávateľa :
+a) služby technickej podpory,
+a záväzok Objednávateľa prevziať riadne poskytnuté služby a zaplatiť za ne Zhotoviteľovi cenu
+v zmysle tejto zmluvy.
+1.2. Touto Zmluvou sú podporované systémy:
+a)
+b)
+c)
+d)
+
+Aplikácia VIS
+WebGIS
+ITIS Portál
+ITIS Manager
+
+2.
+Miesto plnenia zmluvy
+2.1 Miestom plnenia tejto zmluvy je sídlo Objednávateľa, pokiaľ sa zmluvné strany nedohodnú inak.
+Tým nie je dotknuté právo poskytovať služby z miesta Zhotoviteľa, ak tomu nebráni povaha
+služieb.
+
+3.
+Spôsob poskytovania služieb
+3.1
+
+Technická podpora
+3.1.1 Technická podpora bude vykonávaná len na základe zadania požiadavky na technickú
+podporu do HelpDesk. Zákaznícky systém HelpDesk sa spúšťa prostredníctvom
+prehliadača internetových stránok zadaním adresy: https://helpdesk.yms.sk/svps/
+3.1.2 Požiadavku do HelpDesk je za stranu Objednávateľa oprávnený zadať : Ing. Peter Kurucz,
+e-mail: kurucz@svps.sk, resp. ním poverená osoba. Zadanie požiadavky do HelpDesk sa
+považuje za Objednávku na čerpanie technickej podpory. V prípade, ak Zhotoviteľom
+odhadovaná prácnosť na realizáciu zadanej požiadavky je viac ako 4 hodiny, je Zhotoviteľ
+povinný s osobou oprávnenou za Objednávateľa uvedenou v tomto bode odsúhlasiť
+celkovú prácnosť riešenia zadanej požiadavky, e-mailová forma je postačujúca.
+3.1.3 Čas zásahov technickej podpory: Zhotoviteľ bude plniť svoje povinnosti v rámci technickej
+podpory počas pracovných dní od pondelka do piatka medzi 8.00 h a 16.00 h.
+3.1.4 Zhotoviteľ je povinný viesť evidenciu zásahov v rámci technickej podpory a poskytnutých
+hodín. Zodpovedný Projektový manažér na strane Zhotoviteľa je povinný kvartálne zaslať
+Objednávateľovi elektronickou poštou výkaz poskytnutých hodín za dané obdobie. Jeho
+súčasťou bude aj popis jednotlivých úloh, na ktoré boli tieto hodiny vyčerpané.
+
+Zmluva
+
+3/15
+
+3.1.5
+
+3.1.6
+
+3.1.7
+
+3.1.8
+
+Technická podpora je realizovaná 2 druhmi zásahov: urgentný zásah a neurgentný zásah.
+Rozdiel medzi nimi je v dobe odozvy a Dobe zásahu pre Objednávateľa. Zmluvné strany
+sa môžu dohodnúť aj na iných dobách odozvy a zásahu, v závislosti od druhu zadanej
+požiadavky.
+Urgentný zásah sa predpokladá primárne na serverové pracovisko. Doba odozvy pri
+urgentnom zásahu je do 8 pracovných hodín od nahlásenia poruchy. Hlásenia, ktoré prídu
+do HelpDesk po 16:00 hod. budú chápané ako by sa objavili na začiatku nasledujúceho
+pracovného dňa. Doba zásahu pri urgentnom zásahu je do 2 pracovných dní od nahlásenia
+do HelpDesk.
+Doba odozvy pri neurgentnom zásahu je do 8 pracovných hodín od nahlásenia. Hlásenia,
+ktoré prídu do HelpDesk po 16:00 hod. budú chápané ako by sa objavili na začiatku
+nasledujúceho pracovného dňa. Doba zásahu pri neurgentnom zásahu je do 5 pracovných
+dní od nahlásenia do HelpDesk.
+Obsahová špecifikácia technickej podpory je uvedená v Prílohe č. 3.
+
+4.
+Cena
+4.1 Celková cena služieb podľa tejto zmluvy je stanovená vo výške: 44 258,50 EUR bez DPH (slovom:
+Štyridsaťštyritisícdvestopäťdesiatosem 50/100 eur bez DPH) za kalendárny rok, z toho:
+a. Cena služieb za poskytovanie technickej podpory je stanovená v súlade s Prílohou č. 2,
+maximálne vo výške 44 258,5 EUR bez DPH (slovom štyridsaťštyritisícdvestopäťdesiatosem
+eur a päťdesiat centov bez DPH.)
+b. Fakturované budú iba skutočne realizované a uskutočnené práce.
+4.2 Ceny sú uvedené bez dane z pridanej hodnoty, v mene EURO. K fakturovaným cenám bude
+uplatnená DPH v zmysle platných právnych predpisov.
+
+5.
+Platobné a fakturačné podmienky
+5.1 Cena za služby technickej podpory bude fakturovaná mesačne v zmysle počtu poskytnutých hodín
+technickej podpory na základe výkazu a akceptačného protokolu podpísaného oboma zmluvnými
+stranami. Po dohode objednávateľa a zhotoviteľa je možné dohodnúť iné fakturačné obdobie.
+5.2 Objednávateľ uhradí cenu za poskytnuté služby na základe faktúry vystavenej Zhotoviteľom na
+bankový účet uvedený na faktúre doručenej Objednávateľovi. Faktúry budú vystavené v mene
+EURO. Platba faktúry prebehne v mene EURO. Zhotoviteľ je povinný vystaviť faktúru do 15-tich
+dní po poskytnutí služby a riadne ju doručiť Objednávateľovi.
+5.3 Lehota splatnosti faktúry je 14 dní odo dňa jej doručenia druhej zmluvnej strane, pričom za deň
+splnenia peňažného záväzku sa považuje deň odpísania dlžnej sumy z účtu dlžníka v prospech účtu
+veriteľa. Pokiaľ posledný deň lehoty splatnosti pripadne na deň pracovného voľna, pokoja alebo
+sviatok v Slovenskej republike, ako deň splnenia peňažného záväzku bude zmluvným partnerom
+za rovnako dohodnutých cenových a platobných podmienok akceptovaný nasledujúci prvý
+pracovný deň.
+
+6.
+Licenčné ustanovenia
+6.1 Ak pri plnení podľa tejto zmluvy vznikne autorské dielo v zmysle zákona č. 185/2015 Z.z. o
+autorskom práve a právach súvisiacich s autorským právom (ďalej ako „Autorský zákon“),
+
+Zmluva
+
+4/15
+
+6.2
+
+6.3
+
+6.4
+
+6.5
+6.6
+
+Zhotoviteľ týmto udeľuje Objednávateľovi Štátna veterinárna a potravinová správa SR
+nevýhradný, neprevoditeľný, neodvolateľný súhlas na použitie diela (ďalej len „licencia“) na
+neobmedzené časové obdobie pre územie SR. Zdrojové kódy a príslušnú dokumentáciu prípadnej
+zmeny odovzdá zhotoviteľ v elektronickej forme na relevantnom nosiči pri podpísaní
+akceptačného protokolu.
+Zhotoviteľ vykonáva majetkové práva k SW aplikácii ako aj všetky práva s tým súvisiace.
+Zhotoviteľ touto zmluvou nepostupuje výkon svojich majetkových práv na Objednávateľa.
+Zhotoviteľ v rámci výkonu majetkových práv má v zmysle Autorského zákona právo udeľovať
+súhlas na každé použitie diela. Právo Zhotoviteľa podľa predchádzajúcej vety udelením súhlasu
+nezaniká, Zhotoviteľ je len povinný strpieť použitie diela inou osobou v rozsahu udeleného
+súhlasu.
+V prípade, že v rámci úpravy a/alebo zmeny SW aplikácie podľa tejto zmluvy Zhotoviteľ dodá
+a/alebo implementuje počítačový program, databázu alebo akékoľvek iné autorské dielo, vo
+vzťahu ku ktorému Zhotoviteľ nie je držiteľom alebo poskytovateľom práv na jeho používanie, je
+Zhotoviteľ povinný zabezpečiť práva na jeho používanie (u príslušného držiteľa alebo
+poskytovateľa týchto práv) pre Objednávateľa v rozsahu podľa bodu 1. tohto článku zmluvy.
+Zhotoviteľ prehlasuje, že plnením predmetu tejto zmluvy neporušuje autorské práva tretích osôb
+a je oprávnený s prípadnými autorskými právami nakladať. V prípade, ak súčasťou SW aplikácie
+je SW alebo licencia tretích osôb, ktoré sú nevyhnutné pre chod SW aplikácie, platia pre tieto
+SW/licencie, licenčné ustanovenia ich výrobcu.
+Odmena za poskytnutie oprávnení podľa predchádzajúcich bodov tohto článku je zahrnutá v cene
+za poskytnutú službu.
+Zhotoviteľ vyhlasuje, že má autorské práva k dielu, ktoré nie sú zaťažené takými právami tretích
+osôb, ktoré by znemožňovali riadny výkon licencií, inak zodpovedá za škodu tým spôsobenú.
+Zhotoviteľ sa súčasne zaväzuje na vlastné náklady vykonať všetky účinné opatrenia na ochranu
+svojich práv duševného vlastníctva ako aj ochranu práv, vyplývajúcich objednávateľovi z
+poskytnutých licencií, k čomu sa Objednávateľ zaväzuje poskytnúť Zhotoviteľovi potrebnú
+súčinnosť. Objednávateľ je oprávnený užívať dielo len pre účely a v súlade s podmienkami
+uvedenými v tejto zmluve.
+
+7.
+Zmluvné sankcie
+7.1 V prípade akéhokoľvek omeškania Zhotoviteľa s plnením služieb podľa tejto zmluvy je
+Objednávateľ oprávnený fakturovať Zhotoviteľovi zmluvnú pokutu vo výške 0,02 % z ceny
+meškajúcich služieb za každý začatý deň omeškania.
+7.2 V prípade omeškania Objednávateľa so splnením peňažného záväzku je Zhotoviteľ oprávnený
+fakturovať Objednávateľovi úrok z omeškania vo výške 0,02% z dlžnej sumy za každý deň
+omeškania.
+7.3 Uplatnením nároku na zaplatenie zmluvnej pokuty nie je dotknuté právo zmluvnej strany na
+náhradu preukázateľnej škody, prevyšujúcej výšku zmluvnej pokuty.
+
+8.
+Trvanie a ukončenie zmluvy
+8.1 Táto zmluva sa uzatvára na dobu určitú do 31.12.2018 alebo do vyčerpania finančného plnenia
+zmluvy v súlade s článkom 4. Cena, podľa toho čo nastane skôr.
+8.2 Zmluva nadobúda platnosť dňom jej podpisu oboma zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v súlade so zákonom č. 546/2010 Z.z. Zmluvné strany výslovne
+
+Zmluva
+
+5/15
+
+súhlasia so zverejnením zmluvy v jej plnom rozsahu vrátane príloh a dodatkov v centrálnom
+registri zmlúv vedenom na úrade vlády SR.
+8.3 Platnosť tejto zmluvy môže byť ukončená:
+a. písomnou dohodou zmluvných strán;
+b. zánikom niektorej zo zmluvných strán bez právneho nástupcu;
+c. odstúpením od zmluvy;
+d. uplynutím doby platnosti.
+8.4 Ktorákoľvek zo zmluvných strán je oprávnená odstúpiť od tejto zmluvy a/alebo čiastkovej zmluvy
+v prípadoch stanovených touto zmluvou alebo Obchodným zákonníkom, najmä však v prípade ak
+druhá zmluvná strana podstatne poruší svoje zmluvné povinnosti vyplývajúce z tejto zmluvy
+a/alebo z príslušnej čiastkovej zmluvy. Právne účinky odstúpenia od zmluvy a/alebo čiastkovej
+zmluvy z dôvodu podstatného porušenia nastávajú dňom doručenia písomného oznámenia o
+odstúpení druhej zmluvnej strane. Zmluvné strany sa dohodli, že za podstatné porušenie
+zmluvných povinností sa považuje porušenie akejkoľvek povinnosti, vyplývajúcej z tejto zmluvy
+a/alebo čiastkovej zmluvy, ktoré nebude napravené ani v dodatočnej primeranej lehote písomne
+stanovenej druhou zmluvnou stranou, minimálne však v trvaní 30 dní. V písomnom upozornení
+o podstatnom porušení zmluvných povinností je potrebné skutkovo vymedziť konanie, resp.
+nekonanie porušujúcej zmluvnej strany, ktoré zakladá podstatné porušenie tejto Zmluvy tak, aby
+ho nebolo možné zameniť s iným konaním, spolu s uvedením konkrétneho spôsobu, akým
+konaním, resp. nekonaním porušujúcej zmluvnej strany má dôjsť k náprave.
+
+9.
+Záverečné ustanovenia
+9.1 Pokiaľ nie je v zmluve uvedené inak, platia pre tento zmluvný vzťah ustanovenia právneho
+poriadku Slovenskej republiky, najmä zákona č. 513/91 Zb. Obchodný zákonník, 185/2015
+Autorský zákon v platnom znení.
+9.2 Akékoľvek zmeny zmluvy podliehajú vzájomnému písomnému odsúhlaseniu oboch zmluvných
+strán formou písomného dodatku k tejto zmluve.
+9.3 V prípade, že by sa niektoré ustanovenia tejto zmluvy stali neplatnými alebo neúčinnými, alebo
+ak by sa v dôsledku legislatívnych zmien dostali niektoré z ustanovení tejto zmluvy do rozporu
+s platným právnym poriadkom Slovenskej republiky, nie je týmto dotknutá platnosť a účinnosť
+zostávajúcich ustanovení tejto zmluvy. Namiesto neplatného alebo neúčinného ustanovenia
+platia za zmluvne dohodnuté tie ustanovenia, ktoré sa svojim zmyslom a účelom neplatnému
+alebo neúčinnému ustanoveniu zmluvy najviac približujú.
+9.4 Zmluvné strany sa zaväzujú, že v prípade sporov o obsah a plnenie tejto zmluvy vynaložia všetko
+úsilie, ktoré je možné od nich spravodlivo požadovať, k tomu, aby tieto spory boli vyriešené cestou
+zmieru, najmä, aby boli odstránené okolnosti vedúce k vzniku práva od zmluvy odstúpiť alebo
+okolností spôsobujúcich jej neplatnosť.
+9.5 Ak sa zmluvné strany nedohodnú na spôsobe riešenia vzájomného sporu, má každá zo zmluvných
+strán právo predložiť spor na rozhodnutie príslušnému súdu.
+9.6 Kontaktná osoba vo veciach realizácie predmetu tejto zmluvy za Objednávateľa je: Peter Kurucz
+tel. číslo: +421 905 531 050 (osoba poverená za Objednávateľa) alebo v prípade jej neprítomnosti,
+ňou vopred písomnou formou poverená osoba.
+9.7 Kontaktná osoba vo veciach realizácie predmetu tejto zmluvy za Zhotoviteľa je: Ing. Lucia Dubná,
+tel. číslo: +421 335922222, (osoba poverená za Zhotoviteľa), alebo v prípade jej neprítomnosti,
+ňou vopred písomnou formou poverená osoba. Poverenie inej osoby bude písomne oznámené
+Objednávateľovi.
+9.8 Zmluvné strany môžu kedykoľvek zmeniť kontaktnú osobu. Zmena je voči druhej zmluvnej strane
+účinná odo dňa doručenia písomného oznámenia o zmene kontaktnej osoby. Kontaktné osoby sú
+
+Zmluva
+
+6/15
+
+oprávnené na bežné činnosti pri realizácii predmetu Zmluvy, najmä na dohadovanie podmienok
+realizácie Zmluvy, podpisovanie zápisníc, akceptačných protokolov.
+9.9 Zmluvné strany môžu kedykoľvek zmeniť, alebo doplniť nimi dohodnuté kontaktné čísla a adresy.
+Zmena voči druhej zmluvnej strane je účinná odo dňa doručenia písomného oznámenia o zmene
+kontaktných údajov.
+9.10 Zmluvné strany si môžu v príslušných čiastkových zmluvách individuálne dohodnúť aj iné
+podmienky, ako sa uvádzajú v tejto zmluve. Takto dohodnuté podmienky sú potom platné len pre
+príslušnú čiastkovú zmluvu a majú prednosť pred ustanoveniami tejto zmluvy.
+9.11 Táto zmluva vrátane príloh je vyhotovená v štyroch rovnopisoch v slovenskom jazyku, pre každú
+zmluvnú stranu po dva rovnopisy. Zmluvné strany výslovne prehlasujú, že táto zmluva zodpovedá
+ich slobodnej vôli, uzavierajú ju dobrovoľne a na znak súhlasu s jej obsahom ju podpisujú.
+9.12 Zmluvné strany prehlasujú, že podpisom tejto zmluvy prevzali aj prílohy, ktoré sú neoddeliteľnou
+súčasťou tejto zmluvy.
+Prílohy:
+Príloha č. 1 Všeobecné obchodné podmienky YMS, a.s.
+Príloha č. 2 Denné sadzby
+Príloha č. 3 Obsahová špecifikácia služieb
+
+Za Objednávateľa:
+
+.................................................
+Prof. MVDr. Jozef Bíreš, DrSc.
+ústredný riaditeľ
+
+Za Zhotoviteľa:
+
+..................................................
+Ing. Lucia Dubná
+podpredseda preedstavenstva
+
+Zmluva
+
+7/15
+
+Príloha č. 1: Všeobecné obchodné podmienky YMS, a.s.
+
+1. Definície
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+12.
+13.
+
+14.
+15.
+
+16.
+
+VOP – Všeobecné obchodné podmienky YMS.
+Zhotoviteľ je YMS, a.s, Hornopotočná 1, 917 01 Trnava, IČO: 36224278, DIČ: SK2020163090,
+zapísaná v OR OS Trnava, oddiel Sa, vložka č. 10037/T („YMS“).
+Objednávateľ je osoba, s ktorou YMS uzatvorila Zmluvu.
+SW aplikácia - Softvérové dielo (počítačový program) , ktorý bol dodaný a implementovaný
+Zhotoviteľom pre Objednávateľa.
+Ostatné služby - poskytovanie školení, konzultácií a odborného poradenstva súvisiaceho so SW
+aplikáciou.
+Vývoj SW aplikácie - zmena a/alebo úprava SW aplikácie alebo jej časti, podľa požiadaviek
+Objednávateľa a za podmienok dohodnutých podľa tejto zmluvy.
+Doba zásahu - záväzný čas odstránenia vady, počítaný medzi nahlásením vady Objednávateľom
+a jej odstránením Zhotoviteľom. (v prípade poskytovania servisnej podpory), resp. čas od
+okamihu zadania požiadavky technickej podpory do doby uzatvorenia požiadavky Zhotoviteľom
+(v prípade poskytovania technickej podpory).
+Doba odozvy - reakčná doba Zhotoviteľa, počítaná od nahlásenia vady Objednávateľom do
+nástupu na jej definovanie/odstránenie (v prípade poskytovania servisnej podpory), resp. čas od
+zadania požiadavky na technickú podporu zo strany Objednávateľa po akceptovanie v systéme
+zo strany Zhotoviteľa (v prípade poskytovania technickej podpory).
+Vada - akákoľvek vada, chyba, nedostatok, porucha alebo akýkoľvek iný problém SW aplikácie,
+brániaci jej riadnemu a/alebo bezchybnému užívaniu (vrátane právnych vád SW aplikácie, resp.
+ich častí), a/alebo spôsobujúci jej čiastočnú alebo úplnú nefunkčnosť, a/alebo spôsobujúci
+čiastočné a/alebo úplné obmedzenie jej používania/prevádzky. Za vadu sa nepovažuje stav,
+ktorý je spôsobený funkčnosťou softvéru tretej strany a na ktoré nemá Zhotoviteľ vplyv.
+Na účely plnenia predmetu tejto zmluvy vady rozdeľujeme do troch kategórií:
+Vada kategórie A – SW aplikácia nie je použiteľná vo svojich základných funkciách, alebo sa
+vyskytuje kritická funkčná vada znemožňujúca jej činnosť a zakladajúca možnosť vzniku škody.
+Vada kategórie B – funkčnosť SW aplikácie je vo svojich funkciách znížená tak, že tento stav
+obmedzuje alebo ohrozuje bežnú prevádzku Objednávateľa.
+Vada kategórie C – ostatné drobné vady SW aplikácie, ktoré nespadajú do kategórie vád A a B.
+Človekodeň (MD) - 8 (osem) človekohodín, strávených 1 (jedným) pracovníkom Zhotoviteľa
+poskytovaním príslušného plnenia predmetu tejto zmluvy.
+Servisná podpora sú služby zabezpečenia chodu SW aplikácie s definovanými Dobami zásahu
+a Dobami odozvy.
+Maintenance je spôsob udržania SW aplikácie v stave použiteľnom s meniacim sa SW, HW
+okolím formou updatov, upgradov a patchov realizovaný dodaním novej verzie SW aplikácie.
+Obsahová špecifikácia maintenance je uvedená v Prílohe č. 3.
+Technická podpora predstavuje vyžiadané služby podpory súvisiace so SW aplikáciou, ktorých
+obsahová špecifikácia je uvedená v Prílohe č. 3.
+HelpDesk - informačný komunikačný systém na zabezpečenie servisnej a technickej podpory,
+ktorý slúži na vzájomnú komunikáciu, aj na zadanie požiadaviek od Objednávateľa voči
+Zhotoviteľovi.
+Softvér tretej strany - Softvérové dielo (počítačový program), ktorý je použitý ako základná
+aplikácia pre fungovanie a použitie SW aplikácie zhotoviteľa, napr. od spoločností ESRI,
+Zmluva
+
+8/15
+
+INTERGRAPH, IBM, operačný systém a pod. Spôsob používania softvéru tretej strany je upravený
+v dokumentácii k takémuto softvéru, ktorej obsah má prednosť pred zmluvou, ak zmluvné
+strany nedohodnú inak. Za softvér tretej strany sa nepovažuje operačný alebo databázový
+systém či integračné platformy.
+
+2. Spôsob uzatvárania čiastkových zmlúv
+Ak pre poskytovanie služieb je vyžadovaná čiastková zmluva, platí minimálne nasledovné:
+1.
+
+2.
+
+3.
+
+Podstatnou náležitosťou každej čiastkovej zmluvy je označenie zmluvných strán, presná
+špecifikácia požadovanej služby, termín plnenia, miesto plnenia a cena určená spôsobom
+dohodnutým v tejto zmluve.
+Zhotoviteľ sa zaväzuje akceptovať návrh na uzavretie čiastkovej zmluvy Objednávateľa
+vyhotovený a doručený v súlade s podmienkami dohodnutými v Zmluve, súčasťou ktorých tieto
+VOP sú. Zhotoviteľ sa zaväzuje akceptovaný návrh na uzavretie čiastkovej zmluvy doručiť
+Objednávateľovi bezodkladne, najneskôr však do piatich pracovných dní od dňa doručenia
+návrhu na uzavretie čiastkovej zmluvy.
+Čiastková zmluva sa považuje za uzavretú okamihom doručenia akceptovanej čiastkovej zmluvy
+Objednávateľovi.
+
+3. Spôsob poskytovania služieb
+Vývoj SW aplikácie
+1. Objednávateľ je oprávnený kedykoľvek počas platnosti tejto zmluvy požiadať o zmenu a/alebo
+úpravu (doplnenie, rozšírenie) SW aplikácie. Žiadosť o zmenu SW aplikácie sa stáva pre
+zmluvné strany záväznou, až na základe uzavretej čiastkovej zmluvy.
+2. Objednávateľ predloží Zhotoviteľovi Žiadosť o zmenu SW aplikácie, ku ktorej je Zhotoviteľ
+najneskôr do 10 pracovných dní (ak sa zmluvné strany nedohodnú inak) od jej doručenia
+povinný vypracovať Návrh riešenia, v ktorom uvedie:
+a. či je navrhovaná úprava a/alebo zmena SW aplikácie realizovateľná,
+b. popis navrhovaného riešenia,
+c. odhad časových a personálnych kapacít a navrhovaných nákladov u Objednávateľa,
+d. predpokladané dopady na softvér a informačné systémy tretích strán, s ktorými SW
+aplikácia komunikuje a potrebné úpravy na strane dotknutých systémov,
+e. navrhovaný spôsob a podmienky akceptácie riešenia,
+f. navrhované varianty úpravy a/alebo zmeny SW aplikácie, pokiaľ také variantné
+riešenie existuje a je relevantné,
+g. definovanie požadovanej súčinnosti Objednávateľa,
+h. termín dodania/realizácie úpravy a/alebo zmeny SW aplikácie.
+3. Pre vypracovanie Návrhu riešenia Objednávateľ poskytne Zhotoviteľovi súčinnosť nevyhnutnú
+na jeho vypracovanie. Následne Zhotoviteľ predloží Návrh riešenia Objednávateľovi.
+Objednávateľ je oprávnený požiadať o spresnenie Návrhu riešenia Zhotoviteľa, pokiaľ nie je
+špecifikovaný jednoznačne, alebo nepokrýva všetky súvislosti riešenia. Zhotoviteľ je povinný
+Návrh riešenia doplniť najneskôr do 10 pracovných dní odo dňa doručenia žiadosti
+o spresnenie Návrhu riešenia.
+
+Zmluva
+
+9/15
+
+4. Pri akejkoľvek úprave a/alebo zmene SW aplikácie, alebo jej časti je Zhotoviteľ povinný doplniť
+a aktualizovať všetku súvisiacu dokumentáciu. Zmenená a doplnená dokumentácia bude
+nevyhnutnou súčasťou odovzdania úpravy a/alebo zmeny SW aplikácie do prevádzky.
+5. Pri úpravách a/alebo zmenách SW aplikácie, vykonávaných Zhotoviteľom, je Zhotoviteľ
+povinný na základe uplatnenej požiadavky Objednávateľa, zabezpečiť v prospech pracovníkov
+Objednávateľa, všetky potrebné relevantné školenia používateľov a správcov SW aplikácie,
+v rámci rozsahu konkrétnej úpravy a/alebo zmeny SW aplikácie. Rozsah školení bude určený
+v návrhu riešenia pre príslušnú úpravu a/alebo zmenu SW aplikácie.
+6. Objednávateľ je povinný prevziať iba riadne poskytnuté služby. Odovzdanie a prevzatie úpravy
+a/alebo zmeny SW aplikácie bude vykonané na základe úspešne vykonaných akceptačných
+testov podľa dohody zmluvných strán. Potvrdením o prevzatí je zápisnica o výsledkoch
+akceptačného testu, resp. protokol o prevzatí úprav a/alebo zmien SW aplikácie do prevádzky
+na základe úspešne vykonaných akceptačných testov, ktorý je Objednávateľ povinný podpísať
+do 10 dní po vykonaní akceptačných testov.
+Ostatné služby
+Zhotoviteľ je povinný poskytovať Objednávateľovi na základe uzavretej čiastkovej zmluvy aj
+ostatné služby, ktoré zahŕňajú najmä:
+1. Školenia užívateľov a správcov SW aplikácie (ďalej ako „školenie“) bude Zhotoviteľ poskytovať
+po obojstrannej dohode na základe uzavretej čiastkovej zmluvy. Školenia je Zhotoviteľ povinný
+vykonať na dohodnutom mieste, v dohodnutom termíne a dohodnutým spôsobom.
+Potvrdením o vykonaní školenia je prezenčná listina podpísaná účastníkmi školenia. Zhotoviteľ
+je povinný o absolvovaní školenia vystaviť potvrdenie o absolvovaní školenia pre každého
+účastníka zvlášť.
+2. Konzultácie a odborné poradenstvo (nezahŕňa telefonické poradenstvo, poskytované v rámci
+servisnej podpory) v otázkach, ktoré sa môžu vyskytnúť pri používaní SW aplikácie a ktoré nie
+je možné vyriešiť pomocou dokumentácie softvéru/SW aplikácie, bude Zhotoviteľ poskytovať
+po obojstrannej dohode na základe uzavretej čiastkovej zmluvy. Konzultácie a/alebo odborné
+poradenstvo je Zhotoviteľ povinný vykonať na mieste, v termíne a spôsobom dohodnutým
+v príslušnej čiastkovej zmluve. Potvrdením o vykonaní konzultácie a/alebo odborného
+poradenstva je protokol o poskytnutí konzultácie a odborného poradenstva podpísaný oboma
+zmluvnými stranami.
+
+4. Platobné a fakturačné podmienky
+1. Faktúra vyhotovená YMS musí obsahovať všetky náležitosti v zmysle platných právnych
+predpisov a zároveň:
+ označenie, že ide o faktúru;
+ poradové číslo faktúry;
+ meno a priezvisko alebo názov Zhotoviteľa, adresu jeho sídla, miesta podnikania alebo
+prevádzkarne, bydliska alebo adresu miesta, kde sa Zhotoviteľ obvykle zdržiava;
+ názov objednávateľa, adresu jeho sídla, miesta podnikania, prevádzkarne
+ IČO, DIČ, identifikačné číslo pre daň (IČ DPH) oboch zmluvných strán;
+ miesto registrácie Zhotoviteľa a číslo dokumentu, podľa ktorého k registrácii došlo;
+ číslo objednávky a/alebo zmluvy s uvedením ich označenia a dátumu vyhotovenia alebo
+uzavretia;
+ dátum vyhotovenia faktúry;
+
+Zmluva
+
+10/15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.
+
+3.
+
+dátum, keď bol tovar alebo služba dodaná, alebo dátum, keď bola platba prijatá (ak bola platba
+prijatá pred dodaním tovaru alebo predtým, ako je poskytovanie služby skončené), ak tento
+dátum možno určiť a ak sa odlišuje od dátumu vyhotovenia faktúry,
+v prípade, že ide o trojstranný obchod, treba na takúto skutočnosť uviesť odkaz vo faktúre;
+množstvo a druh dodaného tovaru alebo rozsah a druh dodanej služby;
+termín splatnosti faktúry;
+variabilný symbol;
+konštantný symbol;
+bankové spojenie Zhotoviteľa vo forme ABO a IBAN+ SWIFT (BIC);
+forma úhrady prevodným príkazom;
+sadzba DPH alebo údaj o oslobodení od DPH, pri oslobodení od DPH sa uvedie odkaz na
+ustanovenie tohto zákona alebo smernice Rady 2006/112/ES z 28. novembra 2006 o spoločnom
+systéme dane z pridanej hodnoty v platnom znení alebo slovná informácia "dodanie je
+oslobodené od dane";
+výška DPH spolu v eurách, ktorá sa má zaplatiť;
+základ DPH pre každú sadzbu dane, jednotková cena bez DPH a zľavy a rabaty, ak nie sú
+obsiahnuté v jednotkovej cene;
+odpočet uhradených záloh;
+suma k úhrade;
+meno, podpis a telefonické spojenie zodpovedného zamestnanca vystavovateľa faktúry;
+odtlačok pečiatky vystavovateľa faktúry;
+slovná informácia "vyhotovenie faktúry odberateľom", ak odberateľ, ktorý je príjemcom tovaru
+alebo služby, vyhotovuje faktúru podľa platných právnych predpisov;
+slovná informácia "prenesenie daňovej povinnosti", ak osobou povinnou platiť daň je príjemca
+tovaru alebo služby.
+V prípade, že faktúra nebude obsahovať náležitosti podľa tejto zmluvy, Objednávateľ má právo
+vrátiť faktúru bez zaplatenia. Oprávneným vrátením faktúry prestáva plynúť lehota splatnosti
+a táto plynie odznova odo dňa doručenia novej (opravenej) faktúry.
+Zmluvné strany postupujú pri vysporiadaní svojich daňových povinností podľa právnych predpisov
+platných v Slovenskej republike s vylúčením možnosti prevzatia daňovej povinnosti za
+obchodného partnera.
+
+5. Práva a povinnosti zmluvných strán
+1. Zhotoviteľ je povinný plniť túto zmluvu prostredníctvom vlastného vhodného a odborne
+kvalifikovaného personálu.
+2. Zhotoviteľ je povinný vykonať všetky potrebné opatrenia na to, aby v súvislosti s plnením
+predmetu zmluvy na pracoviskách Objednávateľa zaistil bezpečnosť svojich zamestnancov ako
+i bezpečnosť zamestnancov Objednávateľa.
+3. Zhotoviteľ je oprávnený realizovať predmet zmluvy prostredníctvom subdodávateľa. Pri plnení
+prostredníctvom subdodávateľa zodpovedá ako keby plnil sám.
+4. Objednávateľ je povinný poskytnúť Zhotoviteľovi súčinnosť, nevyhnutne potrebnú na splnenie
+predmetu tejto zmluvy, najmä umožniť Zhotoviteľovi primeraný prístup k príslušnej SW aplikácii,
+ako aj použitie ďalšieho súvisiaceho zariadenia alebo pamäťových médií, nevyhnutných pre výkon
+služieb podľa tejto zmluvy.
+5. Objednávateľ je povinný používať SW aplikáciu podľa používateľskej a administrátorskej
+dokumentácie alebo podľa inštrukcií Zhotoviteľa. Objednávateľ nesmie vykonávať žiadne úpravy
+
+Zmluva
+
+11/15
+
+alebo opravy dodanej SW aplikácie a prevádzkového prostredia, ktoré odporujú používateľskej,
+administrátorskej, produktovej a technickej dokumentácii dodávanej Zhotoviteľom.
+6. Objednávateľ je zodpovedný za udržiavanie záložných kópií prevádzkovanej SW aplikácie tak, aby
+tieto boli prístupné v prípade, ak budú potrebné pri riešení problému.
+7. Zmluvné strany sa dohodli, že ročný poplatok za Služby servisnej podpory a maintenance SW
+aplikácie bude zvýšený v nadväznosti na zmeny uskutočnené vývojom SW aplikácie o dohodnutú
+percentuálnu časť z ceny zmenového konania vo výške 11 % z ceny zmenového konania. Presná
+výška navýšenia ceny v zmysle tohto bodu bude dohodnutá vopred. Zhotoviteľ má nárok na novú
+cenu služieb servisnej podpory a maintenance od nasledovného zmluvného vzťahu služieb
+servisnej podpory a maintenance.
+
+6. Zodpovednosť za vady a záruka
+1. Zhotoviteľ zodpovedá za bezchybné vykonávanie služieb, ktoré tvoria predmet zmluvy, ako aj za
+to, že tieto služby vykonáva v súlade so všeobecne záväznými právnymi predpismi a technickými
+normami.
+2. Zhotoviteľ poskytuje na funkčné úpravy a/alebo zmeny dodanej SW aplikácie záruku v trvaní
+dvanásť (12) mesiacov. Záručná doba začína plynúť odo dňa prevzatia výsledku služby
+Objednávateľom. Počas záručnej doby vzniká Objednávateľovi právo požadovať a Zhotoviteľovi
+povinnosť bezplatne odstrániť vzniknuté vady. Zhotoviteľ nenesie zodpovednosť a neposkytuje
+záruky za vady vzniknuté z dôvodov nie na jeho strane.
+3. Zhotoviteľ si vyhradzuje právo ukončiť poskytovanie služieb pre SW aplikáciu, súčasťou ktorej
+je/môže byť SW/licencia/platforma tretej osoby (výrobcu), ktorý tieto produkty oficiálne prestal
+podporovať (napr. operačný systém, databáza, prehliadač a pod.), ak sú tieto nevyhnutné pre chod
+SW aplikácie alebo sú jej súčasťou.
+4. Zhotoviteľ si vyhradzuje právo ukončiť poskytovanie služieb pre SW aplikáciu, ktorá nebola
+aktualizovaná (upgrade/update) u Objednávateľa viac ako 24 mesiacov (a zároveň existujú novšie
+verzie SW aplikácie).
+5. Zhotoviteľ je povinný informovať Objednávateľa o skutočnostiach podľa bodov 3 a 4 tohto článku
+minimálne 3 mesiace vopred pred plánovaným ukončením poskytovania služieb podpory a
+maintenance SW aplikácie. Objednávateľ má právo objednať si takúto servisnú podporu
+a maintenance SW aplikácie podpísaním novej čiastkovej zmluvy.
+6. V prípade, ak súčasťou SW aplikácie je SW alebo licencia tretích osôb, ktoré sú nevyhnutné pre
+chod SW aplikácie, platia pre tieto SW/licencie, záručné podmienky ich výrobcu (tretej osoby).
+7. Objednávateľ je oprávnený u Zhotoviteľa písomne reklamovať vadu poskytnutej služby. Zhotoviteľ
+je povinný vadu odstrániť najneskôr do 30 pracovných dní, ak sa v konkrétnom prípade zmluvné
+strany nedohodnú inak, v závislosti od rozsahu a charakteru vady, v prípadoch ak Objednávateľ
+nemá so Zhotoviteľom zmluvu na poskytovanie služieb servisnej podpory.
+
+7. Ochrana dôverných informácií
+1. Zmluvné strany sú si vedomé toho, že v rámci plnenia zmluvy môžu oni alebo ich zamestnanci či
+zmluvní partneri, získať vedomou činnosťou druhej zmluvnej strany alebo jej opomenutím prístup
+k dôverným informáciám druhej zmluvnej strany.
+2. Dôvernou informáciou sa rozumie informácia, ktorú označuje zmluvná strana, ktorá informáciu
+poskytuje, ako dôvernú, vrátane informácií, týkajúcich sa jej výskumu, vývoja, obchodných údajov,
+
+Zmluva
+
+12/15
+
+3.
+
+4.
+
+5.
+
+6.
+
+osobných údajov zamestnancov alebo údajov o produktoch, materiáloch a metodológií,
+vlastnených zmluvnou stranou, vrátane know – how.
+Zmluvné strany sa zaväzujú, že zabezpečia dostatočné a preukázateľné poučenie pre všetky osoby,
+ktoré sa na ich strane budú zúčastňovať na plnení tejto zmluvy, o podstate dôvernej informácie
+v zmysle tejto zmluvy a nevyhnutnosti jej utajenia v súlade s touto zmluvou. Prístup k dôverným
+informáciám bude obmedzený na tých zamestnancov zmluvnej strany, ktoré tieto informácie
+potrebujú poznať na účely a v rozsahu, vymedzenom touto zmluvou. Zmluvné strany sú povinné
+zabezpečiť, aby záväzok utajenia dôverných informácií v zmysle tejto zmluvy prevzali všetky osoby,
+ktoré sú odlišné od samotných zmluvných strán a ktoré sa budú zúčastňovať na plnení tejto zmluvy.
+Splnenie tejto povinnosti je príslušná zmluvná strana povinná preukázať, ak ju o to druhá zmluvná
+strana požiada.
+Zmluvné strany sa zaväzujú zaobchádzať s dôvernými informáciami ako s predmetom obchodného
+tajomstva, najmä uchovávať ich v tajnosti a zabezpečiť vykonanie všetkých právnych a technických
+opatrení, zabraňujúcich ich neoprávnenému sprístupneniu tretej osobe či ich zneužitiu, a to
+v rozsahu a spôsobom primeraným stupňu utajenia príslušnej dôvernej informácie a jej zrejmému
+významu, alebo významu, ktorý tejto dôvernej informácii zreteľne priradí tá zmluvná strana, ktorej
+príslušná dôverná informácia prislúcha.
+Zmluvné strany môžu poskytnúť tieto dôverné informácie len svojim zamestnancom alebo
+zmluvným partnerom v rozsahu nutnom pre riadne plnenia tejto zmluvy, pri súčasnej realizácii
+vyššie uvedených opatrení. Dôverné informácie nesmú byť kopírované alebo reprodukované bez
+písomného súhlasu zmluvnej strany, ktorá tieto informácie poskytla.
+V prípade porušenia akejkoľvek povinnosti, uvedenej v tomto článku zmluvy, je poškodená
+zmluvná strana oprávnená uplatniť si nárok na zaplatenie zmluvnej pokuty vo výške 10.000,- EUR
+za každé porušenie povinností zvlášť.
+
+8. Záverečné ustanovenia
+1.
+2.
+3.
+
+Ak sa ktorékoľvek ustavenia tých VOP alebo jeho časť dostane do rozporu s ustanovením zmluvy
+(vrátane jej príloh),má prednosť a použije sa ustanovenie Zmluvy.
+Tieto VOP je YMS, a.s. oprávnená meniť bez súhlasu Objednávateľa. O ich zmenách bude YMS s
+primeraným predstihom informovať Objednávateľa vopred vhodným spôsobom.
+Tieto VOP sú účinné od 1/1/2015.
+
+Zmluva
+
+13/15
+
+Príloha č. 2 – Denné sadzby
+Pre výpočet ceny služieb technickej podpory realizovaných podľa článku I. bod 1 zmluvy sa bude
+používať kalkulácia vychádzajúca z ceny vo výške za osobu a deň práce (MD) resp . za človekohodinu
+(čh), ktorá predstavuje jednu osminu sadzby za MD.
+
+Popis
+Biznis analýza / technická podpora / riadenie
+projektu
+
+Sadzba € /
+čh
+
+Počet ČH
+
+Celkový zmluvný
+rozsah
+
+61,90 EUR
+
+715
+
+44 258,50 EUR
+
+V prípade objednania urgentného zásahu sa cena zvyšuje o 50% ceny neurgentného zásahu podľa
+vyššie uvedenej tabuľky.
+
+Zmluva
+
+14/15
+
+Príloha č. 3: Obsahová špecifikácia služieb
+
+Špecifikácia technickej podpory:
+1. Analýza a odstránenie havarijných stavov serverových pracovísk SW aplikácie a príslušných
+integračných rozhraní na spolupracujúce systémy Objednávateľa
+2. Reinštalácie komponentov SW aplikácie podľa požiadaviek Objednávateľa
+3. Inštalácia nových pracovísk SW aplikácie, popr. integrácia na nové prostredia u Objednávateľa
+alebo vyžiadané Objednávateľom na 3.strany.
+4. Zaškolenie na pracovisku Objednávateľa (on site) alebo Zhotoviteľa po zásahu technickej
+podpory, reinštalácii SW aplikácie, alebo nutného operačného, databázového alebo iného
+systému, popr. zaškolenie podľa požiadavky Objednávateľa
+5. Priame telefonické konzultácie určených osôb Objednávateľa s personálom Technickej
+podpory Zhotoviteľa
+6. Odstraňovanie havarijných a nefunkčných stavov SW aplikácie, ktoré nie sú spôsobené chybou
+v programovom kóde (dátová nekonzistencia, spolupráca s operačnými/ databázovými
+systémami, a pod.)
+7. Úprava a spracovanie dát zabezpečujúcich prevádzku SW aplikácie.
+8. Aktualizácia dátového modelu a naviazaných funkcií SW aplikácie podľa požiadavky
+Objednávateľa.
+9. Technická podpora pri obnove, úprave a udržiavaní konzistencie dát podľa požiadavky
+Objednávateľa.
+10. Predpokladané dopady na funkčný existujúci informačný systém, s návrhom na eliminovanie
+týchto dopadov,
+11. Pri úpravách a/alebo zmenách SW aplikácie, vykonávaných Zhotoviteľom, je Zhotoviteľ
+povinný ručiť za funkčnosť SW aplikácie/modulu ktorá sa menila.
+12. Zhotoviteľ s osobitným zreteľom bude vykonávať analýzu dopadov na SW ako celok a bude
+vopred upozorňovať na možné riziká, ktoré by mohli znefunkčniť iné moduly v aplikácii.
+13. Objednávateľ je povinný poskytnúť zhotoviteľovi testovacie prostredie, ktoré bude presnou
+kópiou produkčného prostredia.
+14. Zhotoviteľ bude všetky zmeny nasadzovať najprv do testovacieho prostredia a úspešné
+otestovanie v testovacom prostredí bude povinná prerekvizita pre nasadenie do produkčného
+prostredia
+15. V prípade ak otestovanie v testovacom prostredí nebude možné, tak zhotoviteľ nebude
+garantovať 100% funkčnosť ihneď po nasadení do produkčného prostredia a zhotoviteľovi
+bude poskytnutý čas ako aj zdroje na nasadenie do produkčného prostredia.
+16. Aktualizácia technickej dokumentácie jednotlivých modulov podľa požiadavky Objednávateľa
+s osobitným upozornením evidencie zmien pri aktualizácii už existujúcej dokumentácie, tzv.
+“Change log”, resp. “Release notes”.
+
+Zmluva
+
+15/15
+
+

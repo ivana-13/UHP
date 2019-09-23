@@ -1,0 +1,686 @@
+Kúpna zmluva č. Z201723000_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Kancelária Národnej rady Slovenskej republiky
+Nám. Alexandra Dubčeka 1 , 81280 Bratislava - Staré Mesto, Slovenská republika
+00151491
+2020845046
+nie je platca
+SK6681800000007000004863
++421259722363
+
+Dodávateľ:
+Obchodné meno:
+
+SOITRON, s.r.o.
+
+Sídlo:
+
+Plynárenská 5, 829 75 Bratislava, Slovenská republika
+
+IČO:
+
+35955678
+
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+0258224111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Monitorovací systém na detailné monitorovanie všetkej prevádzky počítačovej siete v
+reálnom čase
+
+Kľúčové slová:
+
+Monitorovací systém na detailné monitorovanie všetkej prevádzky počítačovej siete v
+reálnom čase, Ucelený, škálovateľný NetFlow/IPFIX monitorovací systém
+
+CPV:
+
+48000000-8 - Softvérové balíky a informačné systémy; 60000000-8 - Dopravné služby (bez
+prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Predmetom zakázky je dodávka, realizácia a následná servisná podpora pre škálovateľný a centrálne spravovaný
+monitorovací systém infraštruktúry a aplikácií fungujúci na báze spracovania dátových tokov pre identifikáciu,
+diagnostiku a analýzu prevádzkových, výkonnostných a bezpečnostných problémov.
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Ucelený, škálovateľný NetFlow/IPFIX monitorovací
+systém - Ucelené škálovateľné riešenie umožňujúce
+dlhodobé monitorovanie siete na báze technológie
+dátových tokov (NetFlow, IPFIX, jFlow, cflowd,
+NetStream).
+Podpora infraštruktúry - Podpora IPv4, IPv6, VLAN,
+MPLS, Ethernet 1Gb/s - 10Gb/s.
+Decentralizovaný monitoring lokalít s centrálnou správou
+- Zber sieťových štatistík zo vzdialených lokalít s
+centrálnym prístupom k reportom, incidentom a
+sieťovým štatistikám a centrálnou správou systému.
+Strana 1 z 10
+
+Minimum
+
+Maximum
+
+Presne
+
+Nezávislosť na momentálnej infraštruktúre - Nezávislosť
+na momentálnej sieťovej infraštruktúre (optické či
+metalické dátové rozvody) a použitých aktívnych
+prvkoch (typ nebo výrobca).
+Zdroje NetFlow štatistík (sondy) - Špecializované
+dedikované zariadenia (sondy) pre vytváranie detailných
+štatistík IP tokov o dianí na sieti, štandardizovaný
+protokol pre výmenu dát o IP tokoch (NetFlow v5,v9,
+IPFIX)
+Bezstratový zber flow štatistík z viacerých zdrojov Bezstratový zber dát na centrálny kolektor z rôznych
+dátových zdrojov, podpora štandardizovaných
+protokolov pre výmenu dát o IP tokoch (NetFlowv v5,
+NetFlow v9 – RFC3954, IPFIX, sFlow).
+Ukladanie štatistík a vyhodnocovanie bezpečnostných
+hrozieb - Dlhodobé ukladanie štatistík IP tokov a ich
+centrálne sledovanie a vyhodnocovanie bezpečnostných
+hrozieb v sieti, preukazovanie bezpečnostných
+incidentov.
+Zákaznícka podpora - Plná zákaznícka podpora v
+českom alebo slovenskom jazyku.
+Referencie - Systém overený inštaláciami v rozsiahlej
+sieťovej infraštruktúre (dátové linky 10 Gbps a vyššie).
+Minimálne 10 inštalácií v troch krajinách sveta v oblasti
+štátnej verejnej správy.
+Rozhranie pre integráciu nástrojov tretích strán Otvorené rozhrania a zdokumentované API s
+možnosťou integrácie nástrojov aj tretích strán.
+Streamovanie Flow dát - Systém umožňuje profilovať
+dátový tok s 30 sekundovou granularitou, umožňuje
+zobraziť štatistiky prevádzky na 30 sekundové úseky v
+grafe a spustiť nad nimi analýzy.
+Servisná podpora na 3 roky - Servisná podpora zahrňuje
+starostlivosť o softvér (upgrady, updaty, nové verzie
+SW), zákaznícku podporu po telefóne a emailom v
+českom, slovenskom alebo anglickom jazyku v
+pracovnej dobe (8x5), prístup k webovému
+zákazníckemu centru, vzdialenú podporu cez SSH,
+konzultácie sieťového a bezpečnostného technika v
+rozsahu 4 h/rok. Výmena poškodeného zariadenia v
+prípade HW chyby v rozsahu 8x5xNBD.
+Implementácia, školenie a Vendor Quality/Status Check
+- Rozsah požadovanej implementácie riešenia spoločne
+so zaškolením je 6 človeko dní. Požadovaný je aj tzv.
+„vendor quality/status check“ – teda kontrola stavu a
+nastavenia monitorovacieho riešenia v rozsahu 1
+človeko deň, ktorý zaistí on site u zadávateľa priamo
+výrobca monitorovacieho riešenia.
+NetFlow Sondy - Výkonné autonómne zariadenia, ktoré
+monitorujú sieťovú prevádzku, vytvárajú o nej štatistiky v
+podobe IP tokov (NetFlow / IPFIX dáta) a zasielajú tieto
+štatistiky na kolektor pre uloženie a ďalšie spracovanie.
+Pasívne zapojenie bez vplyvu na monitorovanie sieť
+(zapojenie pomocou SPAN / mirror port).
+Jednoduchá inštalácia do existujúcej sieťovej
+infraštruktúry - šablóny pre nasadenie virtuálneho
+zariadenia do prostredia MS HyperV. 2 lokality,
+monitorovacie porty 2x1Gb/s rozhranie, 1x10Gb/s pre
+prvú lokalitu a 1x1Gb/s pre druhú lokalitu
+Zabezpečená vzdialená správa, dohľad a konfigurácia SSH, HTTPS.
+Správa užívateľov a prístupových práv na zariadení
+prostredníctvom užívateľských rolí.
+
+Strana 2 z 10
+
+Dohľad - Sondu je možné integrovať do dohľadového
+systému pre kontrolu dostupnosti a vyťaženia zdrojov
+technológií SNMP.
+Časová synchronizácia zariadenia proti centrálnemu
+zdroju času na sieti.
+Použitie DNS cache na zariadení pre rýchlejší preklad IP
+adries na doménové mená.
+Podpora autentizácie voči LDAP (Active Directory).
+Podpora protokolov pre výmenu dát - Programové
+vybavenie sondy musí umožniť vytvorenie NetFlow dát
+vo formátoch verzii 5 a 9, IPFIX.
+Spracovanie dátovej prevádzky IPv4 a IPv6, VLAN,
+MPLS a ich reportovanie na kolektor.
+Užívateľsky definovateľné šablóny pre protokoly NetFlow
+v9 a IPFIX.
+Monitorovanie a reportovanie MAC adries vo flow
+štatistikách. Možnosť použiť MAC adresu ako položku
+kľúča flow záznamu.
+Detekcia aplikácií podľa štandardu NBAR2.
+Analýza oneskorenie na sieti - Reportovanie RTT, SRT,
+delay, jitter, retransmisiu, out-of-order pakety ako súčasť
+flow štatistík. Použitie štandardnej technológie pre
+reportovanie týchto rozširujúcich štatistík (šablóny
+NetFlow v9 alebo IPFIX).
+Monitorovanie a analýza HTTP prevádzky - vrátane
+položiek typu URL, hostname. Pre HTTPS reportovanie
+hostname ako SNI. Použitie štandardnej technológie pre
+reportovanie týchto rozširujúcich štatistík (šablóny
+NetFlow v9 alebo IPFIX).
+Profilovanie zariadení v sieti - Identifikácia operačného
+systému vr. jeho verzie. Identifikácia internetového
+prehliadača vr. jeho verzie. Použitie štandardnej
+technológie pre reportovanie týchto rozširujúcich
+štatistík (šablóny NetFlow v9 alebo IPFIX).
+Monitorovanie a analýza DNS prevádzky - položky ako
+typ dotaz, dotazovaná doména, návratová hodnota,
+odpoveď... Použitie štandardnej technológie pre
+reportovanie týchto rozširujúcich štatistík (šablóny
+NetFlow v9 alebo IPFIX).
+Monitorovanie a analýza Samba / CISF prevádzky položky typu sieťová cesta, názov súboru, typ operácie.
+Použitie štandardnej technológie pre reportovanie
+týchto rozširujúcich štatistík (šablóny NetFlow v9 alebo
+IPFIX).
+Monitorovanie DHCP prevádzky - položky ako typ DHCP
+požiadavka, originálna MAC adresa... Použitie
+štandardnej technológie pre reportovanie týchto
+rozširujúcich štatistík (šablóny NetFlow v9 alebo IPFIX).
+Export na základe filtrovanie dát na sonde - Podpora
+filtrovania dát na sonde na základe IP prefixov, VLAN,
+AS (pre rôzne ciele exportu rôzne štatistiky).
+Vyplňovanie identifikácia AS - Podpora vyplňovania AS
+na základe vstavaného či dodaného zoznamu.
+Záchyt prevádzky v plnom rozsahu - Sonda umožňuje
+rozšírenie o funkcionalitu zázname prevádzky v plnom
+rozsahu na základe užívateľom definovaného pravidla
+záchytu – On Demant Full Packet Capture. Rozšírenie je
+riešené formou licencie / inštalácia SW bez nutnosti
+zmeny HW konfigurácie.
+Výkon sond s 1GbE monitorovacími portami - Sondy sú
+schopné spracovávať viac ako 0,3Mp / s (pakety za
+sekundu)/port.
+Strana 3 z 10
+
+Výkon sond s 10GbE monitorovacími portami - Sondy sú
+schopné spracovávať viac ako 0,7Mp / s / port.
+Centrálny kolektor - Zariadenia určené pre uloženie,
+vizualizáciu a vyhodnotenie sieťových štatistík
+exportovaných NetFlow / IPFIX dát.
+Podpora štandardov dátových tokov - Podpora
+štandardov NetFlow v5, NetFlow v9, IPFIX, sFlow
+Hlavná funkcionalita - Možnosť dohľadania ľubovoľnej
+komunikácie až na úroveň jednotlivých flow záznamov,
+priebežné grafy prevádzky, top štatistiky, reporty, alerty,
+databázy aktívnych zariadení na sieti vr. identifikácia
+zariadení. Objem úložnej kapacity kolektora je
+požadovaná 1TB.
+Jednoduchá inštalácia do existujúcej sieťovej
+infraštruktúry - šablóny pre nasadenie virtuálneho stroja
+do prostredia MS HyperV.
+Zabezpečená vzdialená správa, dohľad a konfigurácia SSH, HTTPS.
+Správa užívateľov a prístupových práv na zariadení
+prostredníctvom užívateľských rolí. Separácia dát s
+obmedzením prístupu pre jednotlivé roly / používateľa.
+LDAP autentizácia - Podpora autentizácie voči LDAP
+(Active Directory).
+Časová synchronizácia - Časová synchronizácia
+zariadenia proti centrálnemu zdroju času na sieti.
+Použitie DNS cache na zariadení pre rýchlejší preklad IP
+adries na doménové mená.
+Monitoring výkonu siete - Zber a analýza RTT, SRT,
+delay, jitter, retransmisiu, out-of-order pakety.
+Monitoring informácií z aplikačnej vrstvy - Podpora pre
+protokoly HTTP, VoIP SIP, DNS, Samba / CIFS, DHCP
+Kapacita dátového úložiska - Systém je schopný zbierať
+a ukladať dlhodobo dáta z desiatok flow zdrojov.
+Disková kapacita dátového úložiska musí umožniť
+záznamy štatistík bez akejkoľvek redukcie v horizonte
+minimálne šiestich mesiacov. Min. 1TB úložisko.
+Automatická identifikácia zdroja flow štatistík - Kolektor
+automaticky identifikuje každý zdroj flow štatistík, ktorý
+mu tieto štatistiky zasiela na spracovanie. O danom
+zdroji získa základné informácie ako názov, počet a
+rýchlosť rozhrania. Pre každý zdroj flow štatistík
+automaticky zobrazuje graf priebehu prevádzky.
+Zálohovanie a obnova flow štatistík - Flow štatistiky je
+možné automaticky zálohovať na externé sieťové
+úložisko z dôvodu dlhodobej archivácie. Zálohované
+štatistiky možno v prípade potreby priamo obnoviť
+užívateľom do kolektora, kde je možné tieto štatistiky
+analyzovať štandardnými prostriedkami.
+Vizualizácia štatistických dát - Vytváranie dlhodobých
+grafov a prehľadov s rôznymi typmi pohľadov
+rozdelených do kategórií podľa objemu (počet
+prenesených bytov, tokov, paketov), ​IP prevádzky (TCP,
+UDP, ICMP, ostatné) alebo protokolu (HTTP, IMAP,
+SSH), vrátane plnej konfigurácie grafov a pohľadov
+užívateľom.
+Analýza dát a ad hoc výstupy - Generovanie štatistík a
+podrobných výpisov nad voliteľnými časovými intervalmi
+s voliteľnými filtrami. Rôzne formáty výstupov, minimálne
+PDF, CSV.
+
+Strana 4 z 10
+
+Reporting - Preddefinovaná sada reportov s možnosťou
+plnej konfigurácie užívateľom. Koláčové i priebehové
+grafy. Reporty dostupné prostredníctvom webového
+užívateľského rozhrania, vo formáte PDF alebo CSV.
+Automatická distribúcia reportov e-mailom. Možnosť
+automatického ukladania reportov na externé sieťové
+úložisko.
+Top N štatistiky - Výpis tzv. Top N štatistiky podľa
+rôznych kritérií (počet prenesených bytov, paketov,
+tokov, najvyššie hodnoty RTT, priemetňou hodnoty SRT,
+atď.) Umožňujúci vypísať najaktívnejšie či anomálne
+počítače podieľajúce sa na sieťovej prevádzke.
+Filtrovanie a prispôsobenie vstupov - Systém umožňuje
+filtrovať s využitím ľubovoľných atribútov flow štatistík vr.
+L7 rozšírenie alebo výkonových parametrov siete. Filtre
+je možné kombinovať prostredníctvom logických spojok
+AND, OR, NOT. Výstupy je možné formátovať, najmä
+zahŕňať do zobrazenia jednotlivé atribúty flow záznamov
+alebo používať radenia (napr. Podľa objemu
+prenesených dát, podľa času alebo podľa
+výkonnostných parametrov dátovej komunikácie).
+Užívateľsky definovateľné alerty - Automatická
+notifikácia v prípade vzniku užívateľom definovanej
+situácie (napr. Nadmerný prenos dát, prekročenie
+definovanej relatívnej alebo absolútnej prahovej
+hodnoty, atď.) Prostredníctvom emailu a PDF.
+Drill-down - Možnosť dohľadať každý jednotlivý dátový
+tok (flow záznam).
+Monitoring aktívnych zariadení na sietí - Monitorovanie
+zariadení pripojených k dátovej sieti, dlhodobá história
+aktívnych zariadení, identifikácia na základe IP adresy,
+MAC adresy, sledovanie VLAN, operačného systému,
+prihláseného užívateľa na danom zariadení.
+Automatické vyhodnocovanie NetFlow dát - Systém pre
+automatické vyhodnocovanie IP tokov umožňuje
+automatickú detekciu bezpečnostných alebo
+prevádzkových anomálií dátovej siete a ich hlásenie
+formou udalostí.
+Podpora štandardov NetFlow v5, NetFlow v9, IPFIX,
+sFlow
+Systém umožňuje deduplikovat flow štatistiky pred ich
+vlastnou analýzou.
+Korelácia pred a za proxy - Systém umožňuje vykonať
+koreláciu flow štatistík pred a za proxy serverom pred ich
+vlastnou analýzou s cieľom identifikovať prevádzku
+prechádzajúcej proxy serverom a tento prevádzka
+priradiť koncovému užívateľovi.
+Systém zobrazuje informácie o identite užívateľov
+obsiahnutú vo flow dátach ako súčasť udalosti.
+Persistence doménových mien - Systém podporuje
+stálosti doménových mien, teda uloženie doménového
+mena pôvodcu udalosti v okamihu zaznamenanie
+výskytu tejto udalosti.
+Detekčné pravidlá a algoritmy - Systém obsahuje
+preddefinovanú sadu detekčných metód a algoritmov pre
+analýzu flow štatistík, detekciu bezpečnostných
+incidentov, prevádzkových problémov a sieťových
+anomálií.
+Detekcia sieťových útokov - Detekcia skenovanie portov,
+slovníkové útoky, útoky odopretia služieb (DoS), útoky
+na sieťové protokoly SSH, RDP, Telnet a ďalšie
+podobné služby.
+
+Strana 5 z 10
+
+Detekcia anomálií v sieťovej prevádzke - Detekcia
+anomálií v DNS, DHCP, SMTP, multicast prevádzky a
+neštandardné komunikácie.
+Detekcia nežiaducich aplikácií - Detekcia P2P sietí, a
+anonymizačných služieb (napr. TOR)
+Detekcia udalostí na základe "Threat Intelligence" dát Systém umožňuje identifikovať bezpečnostné udalosti
+(napr. Komunikáciu s botnet command & control
+centrami, prístup na phishing servery, spam servery a
+pod.) Využívaním zdrojov IP a host reputačných databáz
+poskytovaných výrobcom a aktualizovaných najmenej
+každých 24 hodín. Systém umožňuje zapojiť ďalšie
+ľubovolné externé zdroje IP a host reputačných dát pre
+automatickú detekciu.
+Detekcia prevádzkových problémov - Detekcia
+nadmernej záťaže siete, výpadkov služieb, chýbajúcich
+reverzných DNS záznamov, nových a cudzích zariadení
+pripojených k sieti.
+Detekcia sieťových anomálií - Detekcia sieťových
+anomálií na základe predikcie budúceho správania siete
+s využívaním znalosti histórie komunikácie.
+Konfiguračný sprievodca - Systém obsahuje
+konfiguračného sprievodcu pre nastavenie systému pri
+prvom spustení podľa parametrov siete, do ktorého je
+systém nasadený.
+Konfigurácia detekčných schopností - Jednotlivé
+detekčné schopnosti je možné konfigurovať a
+parametrizovať tak, aby bola dosiahnutá maximálna
+efektivita a minimálny počet falošných poplachov.
+Správa falošných poplachov - Prípadné udalosti, ktoré
+predstavujú falošné poplachy (false positives) je možné
+odstrániť prostredníctvom jednoduchej konfigurácie
+pravidiel vylúčenia falošných poplachov dostupné v
+používateľskom rozhraní.
+Definícia závažnosti udalostí - Preddefinované priority
+udalostí s možnosťou používateľského nastavenia
+závažnosti udalostí na základe IP adresných rozsahov,
+typov udalostí, miest výskytu alebo detailov udalosti.
+Jedna udalosť môže mať v závislosti na konfigurácii
+priradených viac priorít.
+Agregácia udalostí - Detekovanej udalosti je možné
+automaticky agregovať tak, aby súvisiace udalosti boli
+prezentované v rámci pomenovanej hrozby (napr.
+Infikované zariadenia v sieti, chybne nakonfigurované
+zariadenie, používanie nevhodných aplikácií alebo
+služieb a pod.).
+Správa užívateľov a prístupových práv - Správa
+užívateľov a prístupových práv k udalostiam
+prostredníctvom užívateľských rolí. Separácia udalostí s
+obmedzením prístupu pre jednotlivé roly / používateľa.
+E-mailové notifikácia - Notifikácia o detekovaných
+udalostiach prostredníctvom e-mailu s podporou rôznych
+formátov (HTML, incident handling systém, úsporný
+textový formát). Možnosť pripojiť vzorku flow dát, na
+základe ktorých bola udalosť detekovaná k emailovému
+reportu.
+Záchyt prevádzky v plnom rozsahu - Na výskyt udalosti
+je možné automaticky reagovať spustením záchytu
+prevádzky v plnom rozsahu.
+Spustenie skriptu - Na výskyt udalosti je možné
+automaticky reagovať spustením užívateľsky
+definovaných skriptov.
+
+Strana 6 z 10
+
+Užívateľské rozhranie - Užívateľsky definovateľný
+dashboard (konfigurácia per používateľ). Vizualizácia
+priebehu prevádzky s vyznačením detekovaných
+udalostí v závislosti od nastavenej závažnosti udalostí.
+Integrácia informácií z iných služieb - Systém integruje
+informácie zo služieb DNS, WHOIS, geolokačná služby.
+Užívateľsky definované externé služby fungujúce na
+protokole HTTP.
+Vyhľadávanie udalostí - Systém ponúka flexibilné
+používateľské rozhrania pre vyhľadávanie udalostí podľa
+rôznych parametrov (typ udalosti, IP adrese pôvodcu
+udalosti, filter, priradenie udalosti do kategórie, ID
+udalosti atď.). Udalosti je možné prezentovať rôznym
+spôsobom (prostý zoznam, agregácie podľa zdrojov,
+podľa cieľov a pod.).
+Reporting - Preddefinovaná sada reportov s možnosťou
+plnej konfigurácie užívateľom. Reporty dostupné
+prostredníctvom webového užívateľského rozhrania, vo
+formáte PDF. Automatická distribúcia reportov e-mailom.
+CSV export - Udalosti je možné exportovať do formátu
+CSV pre ďalšie spracovanie.
+Záchyt sieťovej prevádzky - Systém zachytáva sieťovú
+prevádzku v plnom rozsahu (vrstvy L2-L7) a záznamy
+zachytenej sieťovej prevádzky ukladá v súbore s
+formátom PCAP, ktorý je možné stiahnuť z webového
+užívateľského prostredia pre následnú analýzu v
+programe tretej strany (napr. Wireshark).
+Architektúra - distribuovaná - Systémom je možné
+rozšíriť funkcionalitu sond. Systém sa ovláda centrálne z
+kolektora, ktorý obsahuje webové rozhranie pre
+manuálne zadávanie požiadaviek na záchyt sieťovej
+prevádzky. Webové rozhranie kolektora umožňuje
+definovať na akých sondách a ich monitorovacích
+rozhraniach bude vykonávaný záchyt.
+Filtrácia a záchyt prevádzky podľa parametrov linkovej
+vrstvy (L2) - Systém umožňuje filtrovať sieťovú
+prevádzku podľa VLAN tagu, MPLS značky.
+Filtrácia a záchyt prevádzky podľa parametrov sieťovej
+vrstvy (L3) - Systém umožňuje filtrovať sieťovú
+prevádzku podľa IPv4, IPv6 adresy, čísla siete a masky.
+Filtrácia a záchyt prevádzky podľa parametrov
+transportnej vrstvy (L4) - Systém umožňuje filtrovať
+sieťovú prevádzku podľa portov TCP, UDP a SCTP
+Nastavenie časového intervalu záchytu - Systém
+umožňuje pre jednotlivé záznamy definovať časový
+interval, v ktorom sa bude sieťovú prevádzku
+zachytávať.
+Správa prístupu k záznamom - Systém umožňuje pri
+zadávaní zázname definovať skupinu užívateľov, ktorá
+má prístup k stiahnutiu záznamu.
+Automatické spustenie záchytu prevádzky - Záchyt
+sieťovej prevádzky je možné spustiť automaticky na
+základe detekcie udalosti systémom pre automatické
+vyhodnocovanie NetFlow dát.
+Monitorovanie výkonu aplikácií - Poskytuje informácie o
+skutočnej odozve aplikácie z pohľadu užívateľa (tzv.
+User experience) a to pre všetkých užívateľov a všetky
+ich užívateľské transakcie v reálnom čase.
+Užívateľské rozhranie - Vizualizuje stav aplikácie
+pomocou indexu výkonu aplikácie, počtu transakcií a
+ďalších informácií vo forme grafov a tabuliek. Umožnuje
+analyzovať stav jednotlivých častí aplikácie a transakcií.
+
+Strana 7 z 10
+
+Užívateľsky definovateľný dashboard pre okamžitú
+vizualizáciu stavu aplikácie pomocou widgetov. Možnosť
+prispôsobenia a vkladanie vybraných widgetov
+užívateľom, napr. Index výkonu aplikácie, najpomalšie
+transakcie, súhrnné informácie a ďalšie štatistiky
+vztiahnuté k definovatelnému časovému intervalu
+(predchádzajúcich x hodín / dní).
+Reporting odozvy aplikácie - Systém reportuje pre
+definované aplikácie a každú používateľskú transakciu
+realizovanú nad aplikáciou dobu odozvy aplikácie a čas
+na transportnej vrstve. Vďaka tomu je možné odlíšiť
+oneskorenie siete od oneskorenia aplikácie.
+Bez-agentný monitoring - Systém monitoruje aplikácie
+bez nutnosti inštalovať akýkoľvek SW na servery alebo
+používateľské stanice.
+Transparentný monitoring - Systém monitoruje aplikácie
+bez akéhokoľvek vplyvu na aplikáciu alebo sieťovú
+infraštruktúru.
+Architektúra systému - Systém je možné nasadiť
+samostatne na jednej sonde, alebo na viacerých
+sondách s centrálnou správou a webovým užívateľským
+rozhraním na kolektore.
+Monitoring na úrovni užívateľ - aplikačný server - Systém
+umožňuje monitorovať komunikáciu medzi klientmi
+aplikácie a aplikačné serverom na báze protokolu HTTP
+a HTTPS. V prípade použitia protokolu HTTPS
+podporuje automatické dešifrovanie komunikácie so
+znalosťou privátneho kľúča pre šifrovacie protokoly,
+ktoré toto umožňujú.
+Monitoring na úrovni aplikačný server - databázový
+server - Systém umožňuje monitorovať komunikáciu
+medzi aplikačnými servermi a databázovými servermi
+Oracle, Maria DB (MySQL), Postrgre SQL, MSSQL.
+Definícia SLA a index výkonu aplikácie - Systém
+umožňuje pre každú aplikáciu, resp. aj jej časť definovať
+SLA pre dobu odozvy. Systém kontinuálne vyhodnocuje
+všetky transakcie a stanovuje celkový index výkonu
+aplikácie na základe plnenia SLA.
+Konfigurácia aplikácií - Systém ponúka flexibilné
+možnosti definície aplikácie pre monitoring. Minimálne v
+rozsahu IP adresy, porty, host, URL vr. regulárnych
+výrazov pre ich definíciu.
+Reporting - Systém umožňuje vytvárať reporty dostupné
+prostredníctvom webového GUI, vo formáte PDF.
+Reporty je možné automaticky odosielať e-mailom.
+Notifikácie - Ako reakciu na zníženie indexu výkonu
+aplikácie, prípadne ďalšie metriky umožňuje systém
+odoslať e-mail, syslog správu, SNMP trap, alebo spustiť
+skript.
+Detaily HTTP transakcií - Pre každú transakciu sú
+dostupné detaily minimálne v rozsahu URL, parametre,
+user agentov, objem prenesených dát, návratová
+hodnota, cookie.
+Detaily databázových transakcií - Pre každú transakciu
+sú dostupné detaily minimálne v rozsahu SQL dotazu v
+plnom rozsahu, veľkosť dotazu a odpovede, typ SQL
+dotazu, čas vzniku dopytu i odpovede a doba odozvy.
+Filtrácia agregovaných transakcií - Systém umožňuje
+filtrovať nad zoznamom agregovaných transakcií
+pomocou kritérií (napr. APM, index, počet chýb, celkový
+objem prenesených dát a ďalšie). Vďaka tomu možno
+získať informácie o tom, aké časti aplikácie sú
+najpomalšie, vykazujú najviac chýb, atď.
+
+Strana 8 z 10
+
+Filtrácia jednotlivých transakcií - Systém umožňuje
+filtrovať nad zoznamom jednotlivých transakcií pomocou
+rôznych kritérií (napr. IP adresa používateľa, doba
+odozvy, SLA, užívateľské meno, začiatok a koniec
+transakcie a ďalšie). Vďaka tomu možno získať
+informácie o tom, aká skupina užívateľov komunikovala
+s aplikáciou, aká bola odozva aplikácie, pre akých
+užívateľov a transakcie bola aplikácia nedostupná, atď.
+CSV export - Systém umožňuje exportovať informácie o
+transakciách vo formáte CSV.
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Požadovaná záruka na všetky dodávané komponenty: min. 3 roky
+Dodávané komponenty nesmú mať na sebe výrobné vady, inak výrobne poškodené, obmedzenú funkcionalitu a musia spÍňať
+minimálne technické požiadavky. Zároveň musia spÍňať podmienku, že nesmú byť už použité, alebo obnovené do pôvodného
+výrobného stavu a nanovo pre-predané ako nové zariadenia pod všeobecným označením výrobcov „re-market“ zariadenia.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Námestie Alexandra Dubčeka 1
+
+Čas / lehota plnenia zmluvy:
+29.05.2017 08:00:00 - 30.06.2017 16:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+Monitorovací systém
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 71 582,50 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 85 899,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+Strana 9 z 10
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 24.05.2017 10:56:01
+Objednávateľ:
+Kancelária Národnej rady Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+SOITRON, s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 10 z 10
+
+

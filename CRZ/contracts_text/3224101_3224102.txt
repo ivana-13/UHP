@@ -1,0 +1,363 @@
+Zmluva o dielo
+uzavretá podľa § 536 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+(ďalej len ako „Obchodný zákonník“)
+Číslo Zmluvy Objednávateľa 2076/2017-PR
+Číslo Zmluvy Zhotoviteľa 201117/175
+medzi zmluvnými stranami
+Objednávateľom
+Obchodné meno:
+Sídlo:
+Registrácia:
+Konajúci prostredníctvom:
+IČO:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu:
+IBAN:
+Kontaktná osoba:
+(ďalej aj ako „Objednávateľ“)
+
+SLOVENSKÝ VODOHOSPODÁRSKY PODNIK, štátny podnik
+Radničné námestie 8, 969 55 Banská Štiavnica
+Obchodný register Okresného súdu Banská Bystrica, oddiel Pš, vložka č. 713/S
+Ing. Stanislav Gáborík, generálny riaditeľ
+36 022 047
+SK 2020066213
+Všeobecná úverová banka, a. s.
+2960014556/0200
+SK78 0200 0000 0029 6001 4556
+RNDr. Jozef Krnáč, PhD.
+
+a
+Zhotoviteľom
+Obchodné meno:
+Sídlo:
+Registrácia:
+Konajúci prostredníctvom:
+IČO:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu:
+Kontaktná osoba:
+(ďalej aj ako „Zhotoviteľ“)
+
+ArcGEO Information Systems, spol. s r.o.
+Blagoevova 9, 851 04 Bratislava
+Obchodný register Okresného súdu Bratislava I, Oddiel: Sro, Vložka č. 5454/B
+Ing. arch. Adolf Priesol, konateľ
+31 354 882
+SK2020317761
+VÚB, a.s.
+SK09 0200 0000 0009 3614 1062
+Miroslav Blaha, Obchodný riaditeľ
+
+(Zhotoviteľ a Objednávateľ ďalej spoločne aj ako „Zmluvné strany“ alebo jednotlivo aj ako „Zmluvná strana“)
+Zmluvné strany uzatvárajú na základe vzájomnej dohody zmluvu o dielo (ďalej len „Zmluva“) s nasledovným znením:
+Článok 1.
+Predmet Zmluvy
+1.
+2.
+3.
+
+Predmetom Zmluvy je povinnosť Zhotoviteľa vykonať a dodať Dielo spočívajúce v úprave databázy a upgrade
+údajov ENC Máp (riečne mapy) (ďalej len „Dielo“).
+Predmetom Zmluvy je aj záväzok Objednávateľa Dielo prevziať a zaplatiť za Dielo v zmysle ustanovení tejto
+Zmluvy.
+Vykonanie Diela bude pozostávať najmä z nasledovných činností:
+3.1 Aktualizácia databázy ENC:
+3.1.1 Úprava údajov DB orezaním na hranice listov (CELL)
+3.1.2 Dopracovanie listu (Cell) číslo 2D8D1872, ktorý pre vlastné potreby spracúva Objednávateľ
+3.1.3 Aktualizácia údajov HĹBOK:
+3.1.3.1 Import aktuálnych informácií o hĺbkach:
+Nové údaje v požadovanom rozsahu nahradia staré (výmena),
+pôvodné údaje budú archivované pre dodatočné použitie pri možnom generovaní
+vývoja dna (historické dáta).
+3.1.3.2 Úprava údajov nesúcich informáciu o hĺbkach v DB
+Po importovaní všetkých údajov hĺbok bude z vrstvy vygenerovaná nová vrstva
+
+2
+
+4.
+
+polygónov, ktorá bude rozdelená na čiastkové polygóny na základe štvorcovej siete
+vytvorenej z hektometrov.
+Vygenerovaným polygónom bude priradená hodnota izolínie tak, že do databázy bude
+vložená hodnota hornej a dolnej hranice izolíne, z ktorej sa daný polygón skladá
+(DRVAL1 a DRVAL2).
+3.1.4 Doplnenie databázy o pomenovanie hlavných tokov
+3.1.5 Doplnenie databázy o pomenovanie prístavných bazénov
+3.1.6 Úprava plôch bez údajov
+3.1.7 Úprava databázy pre vertikálne orientované listy natočením symboliky o 90°
+3.2 Úprava symboliky pre digitálne a analógové zobrazenie ENC máp:
+3.2.1 Úprava periodicity zobrazenia geografických názvov
+3.2.2 Úprava symboliky pre zobrazenie názvu štátov
+3.2.3 Úprava symboliky pre kilometrové tabule
+3.2.4 Úprava symboliky pre plavebné značky
+3.2.5 Úprava zobrazenia plavebnej dráhy
+Výsledky Diela budú Zhotoviteľom nasadené do SQL databázy ENC mapy, ako aj odovzdané na dátovom nosiči
+spolu s technickou dokumentáciou.
+Článok 2.
+Čas a miesto plnenia
+
+1.
+2.
+
+Zhotoviteľ sa zaväzuje vykonať Dielo najneskôr do 15 dní odo dňa nadobudnutia účinnosti Zmluvy. Dielo sa
+považuje za vykonané dňom podpísania akceptačného protokolu Objednávateľom.
+Miestom dodania Diela je sídlo Objednávateľa.
+Článok 3.
+Práva a povinnosti Zmluvných strán
+
+1.
+
+2.
+3.
+4.
+5.
+
+6.
+7.
+
+1.
+
+2.
+
+3.
+
+Zhotoviteľ vyhlasuje, že je oprávnený vykonávať služby, práce a činnosti, uvedené v predmete Zmluvy a je plne
+kvalifikovaný. Zhotoviteľ sa zároveň zaväzuje, že Dielo vrátane všetkých výpočtov a určení vykoná úplne,
+správne, s využitím všetkých dostupných technických poznatkov a vedomostí a s odbornou starostlivosťou.
+Všetky podklady pre vykonanie Diela si Zhotoviteľ zabezpečuje sám a na vlastné náklady.
+Zhotoviteľ sa zaväzuje vykonať Dielo riadne a včas, vo vlastnom mene, na vlastnú zodpovednosť a na vlastné
+náklady.
+Zhotoviteľ je povinný bezodkladne písomne oznámiť Objednávateľovi všetky skutočnosti, ktoré by mohli mať
+vplyv na plnenie tejto Zmluvy.
+Zhotoviteľ je povinný Dielo vykonať a dodať tak, aby bolo v súlade s touto Zmluvou a platnými právnymi predpismi
+na území SR.
+Zhotoviteľ je povinný zo strany Objednávateľa, príp. zo strany tretích osôb poverených Objednávateľom strpieť
+výkon kontroly súvisiacej s vykonávaním Diela kedykoľvek počas platnosti a účinnosti Zmluvy a poskytnúť im
+všetku potrebnú súčinnosť.
+Objednávateľ sa zaväzuje za riadne vykonané a dodané Dielo zaplatiť dohodnutú Cenu Diela.
+Objednávateľ sa zaväzuje poskytnúť Zhotoviteľovi nevyhnutne potrebnú súčinnosť pre riadne a včasné plnenie
+predmetu Zmluvy.
+Článok 4.
+Autorské práva a licenčné podmienky
+Zhotoviteľ vyhlasuje, že v prípade ak vykonaním Diela v zmysle tejto Zmluvy bude vytvorené autorské dielo
+podľa zákona č. 185/2015 Z. z. Autorský zákon (ďalej len „Autorské dielo“) je Zhotoviteľ nositeľom autorských
+práv k Autorskému dielu alebo jeho časti vykonanému podľa tejto Zmluvy a je oprávnený poskytnúť
+Objednávateľovi Autorské dielo alebo jeho časť v súlade s podmienkami tejto Zmluvy.
+Zhotoviteľ poskytuje pre použitie Autorského diela Objednávateľovi výhradnú licenciu, časovo, vecne a územne
+neobmedzenú v rozsahu majetkových práv autora. Zhotoviteľ zároveň súhlasí s tým, aby Objednávateľ udelil
+sublicencie na použitie Autorského diela vo vyššie uvedenom rozsahu aj ďalším osobám, pričom udelenie
+sublicencie nemusí byť písomné. Cena za licenciu na používanie Autorského Diela podľa tejto Zmluvy je zahrnutá
+v Cene Diela podľa článku 5. tejto Zmluvy. Zmluvné strany sa dohodli, že Objednávateľ nie je povinný udelenú
+výhradnú licenciu využiť.
+Pokiaľ v rámci plnenia predmetu tejto Zmluvy bude použité autorské dielo tretej strany, budú sa práva
+a povinnosti súvisiace s použitím tohto autorského diela riadiť licenčnými podmienkami dohodnutými s touto
+treťou stranou týkajúce sa daného autorského diela.
+
+2
+
+4.
+
+5.
+
+Zhotoviteľ sa zaväzuje vysporiadať všetky právne vzťahy s tretími osobami, ktoré sa budú podieľať na vytvorení
+Diela v zmysle tejto Zmluvy tak, aby si tieto osoby nemohli uplatňovať voči Objednávateľovi a tretej strane
+žiadne nároky vyplývajúce im z osobnostných, priemyselných či iných obdobných práv v súvislosti s riadnym
+plnením záväzkov Zhotoviteľa podľa tejto Zmluvy.
+Objednávateľ nadobúda vlastnícke právo k Dielu momentom jeho prevzatia, pričom týmto momentom
+nadobúda Objednávateľ aj všetky majetkové práva k Dielu vyplývajúce z Autorského zákona.
+Článok 5.
+Cena Diela
+
+1.
+
+Cenu Diela Zmluvné strany dohodli v zmysle zákona č. 18/1996 Z. z. o cenách v znení neskorších predpisov a
+vyhlášky MF SR č. 87/1996 Z. z., ktorou sa vykonáva zákon č. 18/1996 Z. z. o cenách v znení neskorších predpisov
+nasledovne:
+Cena Diela bez DPH:
+17.600 EUR
+(slovom: sedemnásťtisícšesťsto EUR)
+DPH 20% :
+Celková Cena Diela (vrátane DPH)
+
+3.520 EUR
+21.120 EUR
+
+(slovom: tritisícpäťstodvadsať EUR)
+(slovom: dvadsaťjedentisícstodvadsať EUR)
+
+Cena Diela obsahuje všetky náklady Zhotoviteľa súvisiace so zhotovením Diela, vrátane zabezpečenia podkladov
+pre vykonanie Diela Zhotoviteľom.
+2.
+3.
+4.
+5.
+6.
+
+7.
+
+Objednávateľ sa zaväzuje, že zaplatí Zhotoviteľovi za riadne a včas vykonané, dodané a prevzaté Dielo Cenu Diela
+podľa predchádzajúceho bodu tohto článku, a to na základe preukázateľne doručenej faktúry Zhotoviteľa.
+Zhotoviteľ je oprávnený vystaviť faktúru za Dielo po riadnom protokolárnom odovzdaní Diela v súlade s článkom
+7 tejto Zmluvy.
+Prílohou faktúry musí byť Objednávateľom podpísaný akceptačný protokol na Dielo.
+Faktúra musí obsahovať: odvolanie sa na túto Zmluvu s uvedením čísla Zmluvy, obchodné meno Objednávateľa a
+Zhotoviteľa, IČO, DIČ, IČ DPH, sídlo, číslo faktúry, deň jej vystavenia a splatnosti, označenie banky a číslo účtu,
+fakturovanú sumu, názov Diela, pečiatku a podpis oprávnenej osoby.
+Ak faktúra bude obsahovať nesprávne cenové a iné údaje alebo faktúra nebude obsahovať všetky údaje a
+náležitosti v zmysle platných právnych predpisov, najmä podľa § 74 zákona č. 222/2004 Z. z. o dani z pridanej
+hodnoty v znení neskorších predpisov, resp. nebude obsahovať uvedené údaje a doklady, alebo bude obsahovať
+nesprávne, či neúplné údaje a doklady, je Objednávateľ oprávnený ju vrátiť na doplnenie Zhotoviteľovi, čím sa
+preruší splatnosť faktúry a nová splatnosť začína plynúť od doručenia novej faktúry.
+Splatnosť faktúry je 30 dní odo dňa jej doručenia Objednávateľovi. Za deň doručenia faktúry sa považuje deň
+vyznačený na pečiatke podateľne Objednávateľa, alebo deň doručenia poštou.
+Článok 6.
+Zmluvné pokuty
+
+1.
+
+2.
+
+Pre prípad porušenia povinnosti Zhotoviteľa vykonať Dielo v dohodnutom čase alebo riadne, je Zhotoviteľ
+povinný zaplatiť Objednávateľovi zmluvnú pokutu vo výške 0,03% z ceny Diela za každý čo i len začatý deň
+porušovania tejto zmluvnej povinnosti. Objednávateľ je oprávnený nie však povinný si svoj nárok na zaplatenie
+zmluvnej pokuty uplatniť.
+Pre prípad porušenia povinnosti Zhotoviteľa začať s odstraňovaním vád bez zbytočného odkladu alebo odstrániť
+vady Diela najneskôr do 15 dní odo dňa uplatnenia reklamácie Objednávateľom Zhotoviteľovi, ak sa Zmluvné
+strany nedohodnú inak, je Zhotoviteľ povinný zaplatiť Objednávateľovi zmluvnú pokutu vo výške 0,01% z ceny
+Diela za každý čo i len začatý deň porušovania tejto zmluvnej povinnosti.
+Článok 7.
+Záruka a odstránenie vád Diela
+
+1.
+2.
+3.
+
+Záručná doba Diela je 24 mesiacov. Záručná doba začína plynúť dňom odovzdania a prevzatia Diela
+Objednávateľom, v predpísanom rozsahu a požadovanej kvalite.
+Počas záručnej doby má Objednávateľ právo požadovať a Zhotoviteľ povinnosť bezodplatne odstrániť vady Diela.
+Objednávateľ sa zaväzuje, že prípadné uplatnenie vád Diela uskutoční bezodkladne po ich zistení.
+
+3
+
+4.
+5.
+
+Uplatnenie vád musí byť u Zhotoviteľa uskutočnené písomne, pričom vada musí byť dostatočne a zrozumiteľne
+špecifikovaná. Záručná doba sa predlžuje o dobu od uplatnenia vád až do odstránenia uplatnených vád.
+Zhotoviteľ je povinný začať s odstraňovaním riadne uplatnenej vady na vlastné náklady, bezodkladne najneskôr
+do 3 pracovných dní od jej uplatnenia a odstrániť ju najneskôr do 15 dní od jej uplatnenia, ak sa Zmluvné strany
+nedohodnú inak. V prípade, ak Zhotoviteľ nezačne s odstraňovaním vady v dohodnutom termíne alebo
+neodstráni vadu v lehote 15 dní odo dňa jej uplatnenia alebo v dohodnutom termíne, je Objednávateľ oprávnený
+zabezpečiť odstránenie vady prostredníctvom tretej osoby na náklady Zhotoviteľa.
+Článok 8.
+Spôsob odovzdania Diela, alebo jeho časti
+
+1.
+2.
+3.
+4.
+5.
+
+6.
+7.
+
+8.
+
+Predmet plnenia Zhotoviteľa podľa tejto Zmluvy ako celok sa považuje za splnený odovzdaním Diela
+Zhotoviteľom a prevzatím Diela Objednávateľom, t. j. dňom podpísania akceptačného protokolu.
+Zhotoviteľ je povinný písomne oznámiť Objednávateľovi, najneskôr 2 pracovné dni vopred, pripravenosť na
+odovzdanie Diela.
+O odovzdaní a prevzatí Diela alebo jeho časti bude vyhotovený písomný protokol o odovzdaní a prevzatí –
+odovzdávací a preberací protokol (ďalej aj „Preberací protokol“).
+Objednávateľ v termíne do 5 pracovných dní, počas ktorých bude testovať Dielo, potvrdí akceptáciu Diela alebo
+jeho časti v prípade, že nebudú zistené žiadne zjavné vady a nedorobky formou podpisu akceptačného
+protokolu, ktorý je prílohou k faktúre v zmysle článku 4 tejto Zmluvy.
+V prípade, ak v lehote podľa bodu 4. tohto Článku Zmluvy Objednávateľ zistí, že Dielo alebo jeho časť vykazuje
+zjavné vady alebo nedorobky, uvedie oprávnená osoba za Objednávateľa tieto skutočnosti písomnou formou
+Zhotoviteľovi, pričom v takomto oznámení budú popísané zjavné vady alebo nedorobky. Zástupcovia Zmluvných
+strán následne spoločne stanovia primeranú lehotu na ich odstránenie. Za zjavnú vadu alebo nedorobok sa v
+tomto prípade považuje nesúlad zhotoveného a dodaného Diela alebo jeho časti s touto Zmluvou, ktoré môže
+Objednávateľ v čase akceptácie zistiť.
+Objednávateľ písomne potvrdí prevzatie opravenej verzie Diela alebo jeho časti preberacím protokolom.
+Zároveň písomne potvrdí dostatočnosť odstránenia zjavných vád a nedorobkov do 5 pracovných dní od
+doručenia opravenej verzie Diela alebo jeho časti písomnou formou podpisom akceptačného protokolu.
+V prípade, že v lehote do 7 pracovných dní od termínu podpisu Preberacieho protokolu Objednávateľ nepotvrdí
+akceptáciu Diela alebo jeho časti podpisom akceptačného protokolu a zároveň v tejto lehote neoznámi v zmysle
+tohto článku Zmluvy Zhotoviteľovi, že Dielo alebo jeho časť vykazuje zjavné vady alebo nedorobky, bude sa
+dané Dielo alebo jeho časť považovať za akceptované aj bez podpisu akceptačného protokolu Objednávateľom.
+Za deň akceptácie Diela alebo jeho časti sa považuje nasledujúci deň po márnom uplynutí tejto lehoty.
+V prípade, že v lehote do 7 pracovných dní od termínu podpisu Preberacieho protokolu opravenej verzie Diela
+alebo jeho časti Objednávateľ nepotvrdí dostatočnosť odstránenia zjavnej vady alebo nedorobkov Diela alebo
+jeho časti a zároveň neoznámi v zmysle tohto článku Zmluvy Zhotoviteľovi, že opravená verzia Diela alebo jeho
+časť vykazuje zjavné vady , alebo nedorobky, bude sa dané Dielo alebo jeho časť považovať za akceptované aj
+bez podpisu akceptačného protokolu Objednávateľom. Za deň akceptácie Diela alebo jeho časti sa považuje
+nasledujúci deň po márnom uplynutí tejto lehoty.
+Článok 9.
+Ukončenie Zmluvy
+
+1.
+
+Túto Zmluvu možno ukončiť písomnou dohodou Zmluvných strán, alebo písomným odstúpením od tejto Zmluvy,
+podľa tejto Zmluvy alebo podľa ustanovení Obchodného zákonníka, doručeným druhej strane.
+2. Zmluvné strany môžu od Zmluvy odstúpiť v prípade ak:
+2.1.
+Zhotoviteľ postúpi práva a povinnosti zo Zmluvy bez súhlasu Objednávateľa na iný subjekt,
+2.2.
+podstatne sa porušili ustanovenia Zmluvy, za ktoré sa považuje predovšetkým neplnenie podľa Zmluvy
+riadne a včas.
+2. V prípade odstúpenia od Zmluvy patrí Zhotoviteľovi úhrada za skutočne vykonané a odovzdané Dielo, príp. jeho
+časť. Účinky odstúpenia od Zmluvy nastávajú momentom jeho doručenia druhej Zmluvnej strane.
+Článok 10.
+Záverečné ustanovenia
+1.
+2.
+
+Táto Zmluva sa vyhotovuje v šiestich rovnopisoch, z ktorých každý má rovnakú platnosť. Po jej uzatvorení obdrží
+Objednávateľ 4 rovnopisy a Zhotoviteľ 2 rovnopisy.
+Táto Zmluva nadobúda platnosť dňom jej podpísania obidvoma Zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv, ktorý vedie Úrad vlády Slovenskej republiky v
+zmysle ustanovení Občianskeho zákonníka v znení neskorších predpisov a zákona č. 211/2000 Z. z. o slobodnom
+prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení
+
+4
+
+3.
+4.
+5.
+
+6.
+7.
+
+neskorších predpisov.
+Túto Zmluvu možno meniť a doplňovať výlučne formou dodatkov podpísaných oprávnenými zástupcami
+Zmluvných strán. Dodatky sú neoddeliteľnou súčasťou tejto Zmluvy.
+Práva a povinnosti z tejto Zmluvy prechádzajú na právnych nástupcov Zmluvných strán.
+Táto Zmluva je povinne zverejňovanou Zmluvou v zmysle § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k
+informáciám a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zmluvné strany berú na
+vedomie a súhlasia s tým, že táto Zmluva vrátane všetkých jej súčastí a Príloh bude zverejnená v Centrálnom
+registri zmlúv.
+Na vzťahy neupravené touto Zmluvou sa vzťahujú ustanovenia Obchodného zákonníka a ostatných právnych
+predpisov platných na území Slovenskej republiky.
+Túto Zmluvu si obe Zmluvné strany prečítali, porozumeli jej obsahu a na znak súhlasu ju podpísali.
+
+V Banskej Štiavnici dňa ......................
+Objednávateľ:
+
+..............................................................
+Ing. Stanislav Gáborík
+generálny riaditeľ
+SLOVENSKÝ VODOHOSPODÁRSKY PODNIK,
+štátny podnik
+
+V Bratislave, dňa ....................
+Zhotoviteľ:
+
+..............................................................
+Ing. arch. Adolf Priesol, konateľ
+
+5
+
+

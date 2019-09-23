@@ -1,0 +1,254 @@
+Dodatok č. 1 k
+Servisnej zmluve č. 1/1/2004 (136/2004) na zabezpečenie servisných prác,
+metodickej pomoci a nových verzií programového vybavenia
+administratívneho a riadiaceho informačného systému WeM–
+WebManager pre potreby MŠ SR zo dňa 24.3.2004 (ďalej len „Servisná
+zmluva“)
+Čl. I.
+Zmluvné strany
+1.
+Obchodné meno:
+SWECK, spol. s r.o.
+Sídlo:
+Karpatská 18, 811 05 Bratislava
+IČO:
+17333423
+IČO DPH:
+SK2020295717
+Zastúpený:
+RNDr. Peter Švec, CSc., konateľ
+Bankové spojenie:
+Všeobecná úverová banka
+Číslo účtu:
+1830945-112/0200
+Zapísaný v OR SR, okr. súd Bratislava I, oddiel: Sro, vložka: 1876/B
+(ďalej len „Dodávateľ“)
+
+a
+2.
+Odchodné meno:
+Sídlo:
+IČO:
+Zastúpený:
+Bankové spojenie:
+Číslo účtu:
+(ďalej len „Obstarávateľ“)
+
+Ministerstvo školstva, vedy, výskumu a športu Slovenskej
+republiky
+Stromová 1, 813 30 Bratislava
+00164381
+prof. Ing Peter Plavčan, CSc., minister
+Štátna pokladnica
+SK80 8180 0000 0070 0006 5236
+
+uzatvárajú podľa čl. 5 bodu 5.5 v spojitosti s čl.2 bodom 2.5 Servisnej zmluvy tento dodatok.
+
+Čl. II.
+Predmet dodatku
+1.
+
+Predmetom dodatku k Servisnej zmluve sú úpravy programového vybavenia administratívneho a
+riadiaceho informačného systému WeM – WebManager (ďalej len „IS WebManager“) tak, aby
+spĺňali nasledovné požiadavky:
+a)
+
+Umožnenie trvalo pripojiť k prijatému elektronickému záznamu výsledok overenia platnosti
+zaručeného elektronického podpisu, zaručenej elektronickej pečate alebo časovej pečiatky.
+
+b)
+
+Možnosti pripojenia zaručeného elektronického podpisu k elektronickému registratúrnemu
+záznamu využitím aplikácie D.Signer - podpisovacia komponenta D.Signer XAdES .NET,
+alebo pripojenia zaručenej elektronickej pečate využitím rezortnej elektronickej podateľne
+(ďalej len „REP“). Na textové elektronické registratúrne záznamy s trvalou dokumentárnou
+hodnotou sa použije ako výstupný formát elektronického registratúrneho záznamu formát v
+štandarde ISO19005-1 (PDF/A) a XML v zmysle výnosu o štandardoch č. 55/2014 Z. z. pre
+informačné systémy verejnej správy.
+
+c)
+
+Prijímanie, odosielanie a vizualizácia elektronických zásielok z Ústredného portálu verejnej
+správy (ďalej len „ÚPVS“) prostredníctvom prepojenia na vystavené SOAP WS služby
+procesov prijímania a odosielania elektronických zásielok a SOAP WS služby REP a
+modulu UPVS Controller. Elektronický systém správy registratúry IS WebManager musí
+byť prepojený s REP, UPVS Controllerom a aj s elektronickou schránkou prostredníctvom
+SOAP WS rozhraní procesov prijímania a odosielania elektronických zásielok. Prijatý
+elektronický záznam sa bude ukladať v tvare, v ktorom bol doručený.
+Pričom bude splnené :
+•
+
+Prijímanie podaní cez špecializované formuláre bude možné presmerovať
+na organizačný útvar podľa zadaného atribútu k formuláru na ÚPVS.
+
+•
+
+Prijímanie podaní cez formulár všeobecnej agendy podľa organizačnej
+jednotky bude možné presmerovať na organizačný útvar podľa zadaného
+atribútu z formuláru na ÚPVS.
+
+•
+
+Prijímanie notifikačných správ bude možné ukladať do samostatných
+priečinkov.
+
+•
+
+Odosielanie správ bude možné zaslať formou oznámenia, rozhodnutia,
+rozhodnutie do vlastných rúk s fikciou doručenia, rozhodnutie do
+vlastných rúk.
+
+•
+
+Prijaté podanie XML bude možné uložiť do formátu PDF.
+
+• Prijímanie, odosielanie, importovanie a editovanie úradných dokumentov
+v štruktúrovanej podobe vo formáte XML.
+
+d) Identifikácia stavu aktivácie elektronickej schránky adresáta.
+e) Možnosť správy oprávnenia používateľov IS WebManager pre podpisovanie zaručenou
+elektronickou pečaťou t. j. umožniť oprávneným osobám podpisovať zaručenou
+elektronickou pečaťou prideľovať a odobrať toto oprávnenie.
+f) Dodávateľ je povinný zrealizovať všetky úpravy uvedené v bode 1 a) až e) tohto článku
+v termíne do 10. 3. 2017.
+g) Cena za úpravy IS WebManager uvedené v bode 1 písmeno c) až e) tohto článku je 23 652 €,
+slovom dvadsaťtritisícšesťstopäťdesiatdva eur. Cena je vyčíslená vrátane DPH nad rámec
+ceny dohodnutej v čl. 4 Servisnej zmluvy.
+h) Práce za úpravy IS WebManager uvedené v bode 1 písmeno a) a b) Dodávateľ zrealizuje
+bezodplatne v súlade s bodom 2.4 Servisnej zmluvy.
+i)
+
+Dodávateľ je povinný preukázať Obstarávateľovi upravenú funkčnosť IS WebManager
+formou akceptačného testu. Pri akceptačnom teste musí byť prostredníctvom dohodnutých
+
+testovacích scenárov jednoznačne preukázané splnenie požiadaviek uvedených ods.1 písm. a,
+až e) tohto článku. Ak sa pri akceptačnom teste vyskytnú vady znemožňujúce užívanie
+upravenej funkčnosti IS WebManager, dodávateľ sa zaväzuje ich do 3 pracovných dní
+odstrániť a po odstránení týchto vád sa akceptačný test vykoná opakovane. Ak sa pri
+akceptačnom teste nevyskytnú vady, alebo sa pri ňom vyskytnú iba drobné vady, ktoré
+Obstarávateľovi nebudú znemožňovať používanie upravenej funkčnosti IS, Obstarávateľ
+a Dodávateľ pristúpia k spísaniu Odovzdávacieho protokolu, ktorý po schválení
+Obstarávateľom bude podkladom pre vystavenie faktúry zo strany Dodávateľa. Drobné vady
+zistené pri akceptačnom teste Obstarávateľ uvedie v Odovzdávacom protokole. Zodpovedné
+osoby uvedené v čl. II dojednajú primeranú lehotu na odstránenie drobných vád, ktoré
+nebudú znemožňovať užívanie upravenej funkčnosti IS WebManager nie však dlhšie ako 30
+kalendárnych dní.
+j)
+
+Podkladom za úhradu rozširujúcich úprav programového vybavenia modulov
+administratívneho a riadiaceho informačného systému IS Webmanager podľa bodu 1 tohto
+článku bude faktúra, ktorú vystaví Dodávateľ a pripojí k nej Odovzdávací protokol schválený
+Obstarávateľom.
+k) Dodávateľ sa zaväzuje Obstarávateľovi predložiť certifikát zhody so štandardmi ustanovený
+výnosom Ministerstva vnútra Slovenskej republiky č. 525/2011 z 12. decembra 2011
+o štandardoch pre elektronické informačné systémy na správu registratúry pre IS
+WebManager do 3 mesiacov od dátumu podpisu tohto dodatku. Nesplnenie tejto požiadavky
+bude mať charakter závažného porušenia ustanovení Servisnej zmluvy.
+
+2. Bod 4.2 Servisnej zmluvy sa nahrádza textom „Celková hodnota paušálnej ročnej platby bude
+rozdelená do štvrťročných platieb. Obstarávateľ bude uhrádzať tieto platby štvrťročne a to
+najneskôr do konca nasledujúceho mesiaca za príslušné štvrťročné obdobie za ktoré bola
+vystavená faktúra.“
+3. V bode 4.3 Servisnej zmluvy sa za slová ,,faktúra, ktorú vystaví dodávateľ“ vkladajú slová
+,,štvrťročne a ktorej prílohou bude sumár prác vykonaných Dodávateľom v rámci plnenia
+predmetu tejto servisnej zmluvy.
+
+Čl. II.
+Zodpovedné osoby
+1.
+
+Zodpovednou osobou za Dodávateľa je Mgr. Jana Bónová, ktorá bude zodpovedná za celkové
+riadenie a realizáciu služieb zo strany Dodávateľa a bude zastihnuteľná v pracovných dňoch
+v čase od 8:00 hod. do 16:30 hod. na tel. čísle+421 903 650 871 a prostredníctvom
+elektronickej adresy: e-mail: jana.bonova@sweck.sk.
+
+2.
+
+Zodpovednou osobou za Obstarávateľa, ktorá bude zodpovedná za celkové riadenie a realizáciu
+služieb zo strany Dodávateľa je Mgr. Lenka Schönová, ktorá bude zastihnuteľná v pracovných
+dňoch v čase od 8:00 hod. do 13:00 hod. na tel. čísle +421 905 877 333 a prostredníctvom
+elektronickej adresy: e-mail: lenka.schonova@minedu.sk a Ing. Andrej Bederka, ktorý bude
+zastihnuteľný v pracovných dňoch v čase od 8:00 hod. do 16:30 hod. na tel. čísle +421 905 606
+620 a prostredníctvom elektronickej adresy: e-mail: andrej.bederka@minedu.sk.
+
+3.
+
+V prípade zmeny zodpovedných osôb sa obe zmluvné strany môžu o tejto skutočnosti
+informovať písomne alebo elektronicky poštou (email), pričom za Obstarávateľa túto
+
+informáciu môže poskytnúť iba generálna riaditeľka osobného úradu alebo generálny riaditeľ
+sekcie informatiky.
+
+Čl. III
+Doplňujúce ustanovenia
+1.
+
+Pri plnení svojich záväzkov podľa tohto dodatku je Dodávateľ povinný postupovať s odbornou
+starostlivosťou a v zmysle platnej legislatívy najmä požiadaviek zákona č. 275/2006 Z.z
+o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov a súvisiaceho výnosu MF SR č. 55/2014 o štandardoch pre informačné
+systémy verejnej správy.
+
+2.
+
+Dodávateľ je povinný dodržiavať požiadavky bezpečnostnej politiky Obstarávateľa, platnej
+legislatívy, najmä požiadaviek zákona č. 275/2006 Z.z o informačných systémoch verejnej správy
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a súvisiaceho výnosu MF
+SR č. 55/2014 a nevniesť nepožadované alebo neschválené funkcie do informačných systémov
+ministerstva. Nenaplnenie tejto požiadavky sa bude považovať za porušenie zmluvnej povinnosti,
+v prípade ktorej je Obstarávateľ oprávnený odstúpiť od tohto dodatku. Za dodržanie uvedených
+požiadaviek zo strany Dodávateľa je zodpovedná osoba uvedená v Čl. II ods. 1. tohto dodatku.
+
+3.
+
+Obstarávateľovi v súlade s § 65 zákona č. 185/2015 Z. z. Autorský zákon v platnom znení ku dňu
+podpisu Odovzdávacieho protokolu Dodávateľ udeľuje, časovo neobmedzenú (po dobu právnej
+ochrany majetkových práv trvajúcu), pre územie Slovenskej republiky a Európskej únie
+nevýhradnú licenciu, na použitie upravených modulov dodaných v zmysle tohto dodatku.
+
+4.
+
+Ostatné časti Servisnej zmluvy zostávajú nezmenené.
+Čl. IV.
+Záverečné ustanovenia
+
+1.
+
+Tento dodatok sa stáva neoddeliteľnou súčasťou Servisnej zmluvy. Ustanovenia Servisnej zmluvy
+týmto dodatkom neupravené zostávajú v platnosti v pôvodnom znení.
+
+2.
+
+Tento dodatok nadobúda platnosť dňom jeho podpísania oboma zmluvnými stranami a účinnosť
+dňom nasledujúcim po dni jeho zverejnenia.
+
+3.
+
+Tento dodatok je vyhotovený v šiestich rovnopisoch s platnosťou originálu, z ktorých po podpise
+Dodávateľ dostane dva rovnopisy a Obstarávateľ štyri rovnopisy.
+
+4.
+
+Zmluvné strany vyhlasujú, že si text tohto dodatku prečítali, jeho obsahu porozumeli a že tento
+dodatok vyjadruje ich slobodnú a vážnu vôľu zbavenú omylov, že nebol podpísaný v tiesni, alebo
+za nápadne nevýhodných podmienok a na znak súhlasu ho vlastnoručne podpisujú.
+
+V Bratislave dňa ....................
+
+V Bratislave dňa ...................
+
+Za Dodávateľa:
+
+Za Obstarávateľa:
+
+..............…………………………...
+
+....…………..……………….........…
+
+RNDr. Peter Švec, CSc.
+konateľ
+
+prof. Ing. Peter Plavčan, CSc.
+minister
+
+

@@ -1,0 +1,448 @@
+Kúpna zmluva č. Z201765295_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Národná diaľničná spoločnosť, a.s.
+Dúbravská cesta 14, 84104 Bratislava, Slovenská republika
+35919001
+2021937775
+SK 2021937775
+SK3011110000006624859013
+
+Dodávateľ:
+Obchodné meno:
+
+TEMPEST a.s.
+
+Sídlo:
+
+Galvaniho 17/B, 82104 Bratislava, Slovenská republika
+
+IČO:
+
+31326650
+
+DIČ:
+
+2020327716
+
+IČ DPH:
+
+SK2020327716
+
+Číslo účtu:
+
+SK13 1100 0000 0026 2004 1080
+
+Telefón:
+
+0250267111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Diskové pole
+
+Kľúčové slová:
+
+diskové pole
+
+CPV:
+
+30233100-2 - Počítačové pamäťové jednotky; 30233130-1 - Pamäťové jednotky s
+magnetickým diskom
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Diskové pole
+
+Funkcia
+Technické vlastnosti
+
+Jednotka
+
+Diskové pole
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Architektúra diskového poľa
+
+Architektúra diskového poľa neobsahuje SPOF (Single Point of
+Failure)
+
+Dostupnosť diskového poľa
+
+99,999%
+
+Kontroléry diskového poľa
+
+Diskové pole pozostáva z dvoch aktívnych kontrolérov
+obsluhujúcich I/O operácie
+
+Upgrade diskového poľa na vyšší model
+
+Možnosť upgrade diskového poľa na vyšší model bez nutnosti
+výmeny celého diskového poľa
+
+Požadovaná uživateľská kapacita
+
+min 29 TB v RAID6 (6+2) na min. 1.2 TB 10K diskochmin 1.4 TB v
+RAID5 (4+1) na min. 400 GB SSD diskoch
+
+Požadovaná SSD cache
+
+400 GB uživateľskej kapacity s možnosťou rozšírenia na 800 GB.
+SSD cache podporuje čítanie aj zápis a je odolná voči failoveru
+
+Strana 1 z 5
+
+Minimum
+
+Maximum
+
+Presne
+2
+
+Požadovaná host konektivita
+
+12 x 16 Gb FC (6 x 16 Gb FC per kontrolér)4 x 10 GbE (2 x 10
+GbE per kontrolér)
+
+Systémová pamäť
+
+48 GB (24 GB per kontrolér)
+
+Škálovateľnosť diskového poľa
+
+do 150 diskov
+
+Rozšírenia front-end konektivity diskového poľa o ďaľšie
+FC/iSCSI/NAS porty
+
+Na 20 x 16 Gb FC portov aleboNa 12 x 16 Gb FC a 8 x 10 Gb
+iSCSI/NAS portov
+
+Podpora súčasného blokového a súborového prístupu
+
+Diskové pole podporuje súčasný blokový (SAN) aj súborový
+prístup (NAS) bez nutnosti dokupovať ďalší hardvér
+
+Disková (back-end) konektivita
+
+12 Gb/s SAS
+
+Host konektivita
+
+Diskové pole umožňuje priame pripojenie hostov k diskovému poľu
+
+Podporovaná RAID ochrana
+
+RAID 1/0, 5, 6
+
+Podporované typy diskov
+
+SAS, NL-SAS, SSD
+
+Automatický tiering
+
+Podpora automatického tieringu - Diskové pole je schopné
+dynamicky optimalizovať umiestnenie dát medzi 3 typmi diskov:
+SSD, SAS, NL-SAS, na základe uživateľských politík.
+
+Dáta sú presúvané po blokoch na základe I/O prístupu,
+t.j. intenzívne používané bloky dát sú umiestnené na
+rýchlejšie disky, menej použivané bloky dát na pomalšie
+disky.
+
+Diskové pole musí obsahovať kapacitne neobmedzenú licenciu pre
+automatický tiering
+
+Kompresia/de-duplikácia dát
+
+Diskové pole podporuje in-line kompresiu alebo de-duplikáciu dát
+
+Thin provisioning
+
+Podpora thin provisioning-u s kapacitne neobmedzenou licenciou
+
+Cache ochrana
+
+Podpora perzistentnej zápisovej cache - pri výpadku kompenentu,
+napr. kontroléra zostane zápisová cache dostupná.Podpora
+zálohovania zápisovej cache na disky pri výpadku
+
+Proaktívny monitoring diskov
+
+Automatický pro-aktívny monitoring stavu diskov a pro-aktívny hot
+sparing
+
+Menežment diskového poľa
+
+Podpora GUI (HTML5) a príkazového riadku (CLI) pre menežment
+diskového poľa
+
+Performance menežment a Quality of Service (QoS)
+
+Riešenie musí obsahovať softvér na meranie výkonnosti diskového
+poľa a QoS (Quality of Service) menežment
+
+Notifikácie o stave diskového poľa
+
+Podpora SNMP, e-mail notifikácii a podpora Call-home
+
+Lokálna replikácia dát
+
+Podpora vytvárania lokálnych kópii dát (snapshotov/klonov) na
+neobmedzenú kapacitu. Licencia je súčasťou riešenia
+
+Vzdialená replikácia dát
+
+Podpora vzdialenej synchrónnej a asynchrónnej replikácie dát na
+neobmedzenú kapacitu. Licencia je súčasťou riešenia
+
+Podporované OS
+
+AIX, XenServer, MS Windows, Linux, Solaris, HP-UX, MS
+Hyper-V, VMware (VASA, VAAI, vVols)
+
+Podpora enkrypcie
+
+Natívna schopnosť dodávaného diskového poľa enkryptovať
+uložené dáta s podporou interného alebo externého key manažéra
+
+Požiadavky na firewally:
+Dve redundantné zariadenia
+Okamžite použiteľné preddefinované IPS politiky
+Možnosť nastavenia monitorovacieho alebo
+blokovacieho režimu IPS globálne, na úrovni politiky,
+alebo na úrovni jednotlivej ochrany / signatúry
+Možnosť konfigurácie a ladenia IPS engine priamo z log
+výstupov firewallu
+Možnosť definície IPS výnimiek podľa kombinácie: src IP
++ dst IP + service + útok / signatúra
+Automatické vypnutie IPS ochrany firewallu v prípade
+preťaženia HW (utilizácia CPU alebo fyzickej pamäte)
+nad definovanú prahovú hodnotu
+Podpora IPSec VPN tunelov, minimálne
+Podpora virtuálnych firewallov, minimálne 10
+Priepustnosť Firewallu (RFC 3511, 2544, 2647, 1242),
+minimálne 23 Gbps
+Strana 2 z 5
+
+Priepustnosť IPS (RFC 3511, 2544, 2647, 1242),
+minimálne 7 Gbps
+Počet nových spojení za sekundu (CPS) minimálne
+170.000
+Počet fyzických sieťových rozhraní, mín. 8x
+10/100/1000,
+Možnosť rozšírenia o 4x 10Gb SFP+ rozhranie
+Počet súčasných spojení, min. 6.000.000
+Možnosť rozšírenia - počet súčasných spojení - na min.
+12.000.000
+Interná disková kapacita firewall, pre lokálne logovanie,
+min. 480 GB
+Riešenie musí byt uvedené v Gartner Enterprise Firewall
+Magic Quandrant aspoň 2x za posledné 3 roky
+(2015,2016,2017) v kvadrante Leader
+Podpora clustering A-A alebo A-S
+Stavová synchronizácia TCP, UDP a NAT spojení
+Možnosť rozšírenia o out of band management (LOM)
+Konfigurácia bezpečnostnej politiky prostredníctvom GUI
+rozhrania. Vzdialené pripojenie pomocou protokolov
+SSH a HTTPS.
+Podpora debuggovania problémových scenárov na
+úrovni L2 - L7
+Podpora pravidelného automatického zálohovania
+konfigurácie (na základe časového rozvrhu), s
+možnosťou automatického nahranie na vzdialený SCP
+server
+Dva redundatné zdroje napájania
+Dodávaná firewall platforma musia byt vo forme
+samostatnej fyzickej hardware appliance
+Potrebná integrácia do existujúceho manažment serveru
+- Check Point Next Generation Smart Management
+Požiadavky na služby k dodávaným FW:
+servisná podpora na obdobie 2 rokov s parametrami
+365x24x7
+Súčasťou dodávky musí byť popis implementácie s
+rámcovým projektovým plánom
+Dodávateľ vypracuje a predloží obstarávateľovi analýzu
+existujúceho riešenia, detailný návrh High Level a Low
+Level Designu, návrh migračných postupov,
+Dodávateľ vykoná inštaláciu a konfiguráciu do
+existujúcej infraštruktúry, migráciu, optimalizáciu a
+validáciu firewall pravidiel,akceptačné testy
+Dodávateľ vypracuje technickú dokumentáciu riešenia,
+popis postupov a procedúr pre správu a monitorovanie
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+- Dodávateľ v súčinnosti s obstarávateľom navrhne rozdelenie diskovej kapacity polí pre produkčné, testovacie prostredia ako
+aj účely zálohovania a obnovy dát (snapshoty, klony) podľa potrieb jednotlivých systémov, v závislosti na dodanej technológii.
+- Dodávateľ v súčinnosti s obstarávateľom vypracuje a predloží obstarávateľovi návrh migračných postupov migrácie dát na
+dodané diskové úložiská.
+- Vykoná fyzickú inštaláciu dátových úložísk (lokalita Bratislava).
+- Vykoná konfiguráciu diskových úložísk, prepojenie dátových úložísk(replikácia), pripojenie serverov a diskových polí do SAN.
+- Dodávateľ v súčinnosti s obstarávateľom navrhne monitorovanie a správu diskových úložísk
+Strana 3 z 5
+
+- Servisná podpora na obdobie 2 rokov s parametrami 365x24x7.
+- Dodávateľ v súčinnosti s obstarávateľom vypracuje technickú dokumentáciu riešenia, zaškolenie a popis postupov a
+procedúr pre správu a monitorovanie.
+Osobitné požiadavky na plnenie pre dodávku diskového pola:
+- minimálne 5 ročnú skúsenosť v oblasti dodávky a inštalácie dátových úložísk
+- minimálne dve referencie v oblasti dodávky a inštalácie dodávaných dátových úložísk potvrdené odberateľom
+- minimálne dvoch klúčových expertov s platnými servisnými certifikátmi pre dodávané dátové úložiská
+- potvrdenie o servisnom partnerstve, t. j. o spôsobilosti na predaj produktov, riešení a servisných služieb s výrobcom.
+(poskytne doklad o splnení podmienky potvrdenie ( certifikát)o partnerstve na logistiku, servis a podporu s výrobcom
+hardvéru,
+- vrátane zaškolenia max 3 osôb v rozsahu max 1 hodiny
+- nový, dosiaľ nepoužitý tovar
+Vrátane zaškolenia max. 3 osôb v rozsahu max. 1 hodiny
+Osobitné požiadavky na plnenie pre firewally:
+• minimálne 5 ročnú skúsenosť v oblasti dodávky, inštalácie a servisu ponúkaných firewallov
+• minimálne dve referencie v oblasti dodávky, inštalácie a servisu ponúkaných firewallov potvrdené odberateľom
+• minimálne dvoch klúčových expertov s platnými servisnými certifikátmi pre dodávané firewally
+• potvrdenie o servisnom partnerstve, t. j. o spôsobilosti na predaj produktov, riešení a služieb s výrobcom. (poskytne doklad o
+splnení podmienky potvrdenie ( certifikát)o partnerstve na logistiku, servis a podporu s výrobcom hardvéru,
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava IV
+
+Obec:
+
+Bratislava - m. č. Devínska Nová Ves
+
+Ulica:
+3.2
+
+Čas / lehota plnenia zmluvy:
+13.12.2017 12:00:00 - 31.12.2017 12:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+2,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.2, účinná zo dňa 4.11.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 200 000,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 240 000,00 EUR
+
+V. Záverečné ustanovenia
+
+Strana 4 z 5
+
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 06.12.2017 08:24:03
+Objednávateľ:
+Národná diaľničná spoločnosť, a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+TEMPEST a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

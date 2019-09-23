@@ -1,0 +1,551 @@
+Zmluva o poskytnutí služieb
+uzatvorená podľa ustanovení§ 269 ods. 2 Obchodného zákonnlka
+
+číslo
+
+u poskytovateľa:
+číslo u objednávateľa:
+
+ZAP18/19-103
+
+ZML -1-6/.2. D-19-~-oo
+
+Zmluvné strany
+Objednávateľ:
+
+štatistický úrad Slovenskej republiky
+MHetičova 3
+824 67 Bratislava 26
+
+štatutárny zástupca:
+
+Ing. Alexander Ballek, predseda úradu
+
+IČO/DIČ:
+
+00166197/2020830218
+
+bankové spojenie:
+
+Štátna pokladnica
+IBAN: SK468180000000700007244
+
+(ďalej
+
+len „objednávateľ')
+
+a
+Poskytovateľ:
+
+Aliga, s.r.o.
+Robotnícka 1E
+036 01 Martin
+
+štatutárny zástupca:
+
+Ing. František
+
+IČO/IČ DPH:
+
+47104694 / SK2023742963
+
+bankové spojenie:
+
+Tatra banka, a.s., IBAN: SK5911000000002926893059
+
+zapísaný v
+
+Obch. registri OS Žlina, Oddiel: Sro, vložka č. 58797/L
+
+(ďalej
+
+len
+
+Mičuda, konateľ
+
+„poskytovateľ")
+
+Článok 1
+Predmet zmluvy
+1.1
+
+Predmetom zmluvy sú práce potrebné na implementáciu 2 (dvoch) ks Web
+Aplikačných Firewallov (WAF) Radware Alteon D-6024S Secure - 30G (ďalej len
+„zariadenia WAF") do infraštruktúry objednávateľa. Zariadenia WAF budú slúžiť ako
+
+ochrana pre aplikácie objednávateľa dostupné z Internetu.
+1.2
+
+Rozsah prác potrebných na implementáciu zariadení WAF zahŕňa poskytnutie
+nasledovných služieb a súvisiacich plnení (ďalej len „služby a súvisiace plnenia"):
+
+1. Fyzická implementácia zariadení - design vo vysoko dostupnom riešení WAF v
+a sekundárnom datacentre objednávateľa
+2. L2/L3 zapojenie v rozsahu:
+2.1. IP adresácia (IP pre real server, pre VIP)
+2.2. VLANy (management, server... )
+3. Vytvorenie zoznamu služieb:
+3.1. Definícia (výber služieb objednávateľa zaradených pod WAF)
+3.2. Definícia na ktorých serveroch/lP sa služba prevádzkuje
+3.3. Základná konfigurácia politík pre definované webové služby objednávateľa
+3.4. Health checks
+4. Advanced služby v rozsahu:
+4.1. SSL offloading (kľúče/certifikáty)
+4.2. WAF optimalizácia
+4.3. Testovania a ladenie konfiguračných parametrov
+4.4. APM
+4.5. Integrácia s ďalšími systémami - syslog/snmp dohľad
+5. Technická dokumentácia k implementácii.
+produkčnom
+
+Článok 2
+
+Miesto plnenia predmetu zmluvy
+
+2.1
+
+Miestom plnenia predmetu zmluvy je sídlo objednávateľa: Štatistický úrad Slovenskej
+republiky, Miletičova 3, 824 67 Bratislava.
+Článok 3
+Termin a spôsob plnenia predmetu zmluvy
+
+3.1
+
+Táto zmluva sa uzatvára na dobu určitú do 30.6.2019.
+
+3.2
+
+Zmluvné strany môžu zmluvu ukončiť dohodou alebo odstúpením od zmluvy podľa
+príslušných ustanovení Obchodného zákonníka.
+
+3.3
+
+Odovzdanie a prevzatie vykonaných služieb sa uskutoční podpísaním Preberacieho
+protokolu oprávnenými zamestnancami objednávateľa a oprávnenými pracovníkmi
+poskytovateľa. Protokol obsahuje minimálne tieto údaje:
+-
+
+vyhlásenie zmluvných strán, že služby a súvisiace plnenia boli vykonané v súlade
+s ustanoveniami tejto zmluvy,
+
+-
+
+druh a rozsah služieb a súvisiacich plnení,
+
+-
+
+zhodnotenie kvality vykonaných služieb a súvisiacich plnení,
+
+-
+
+akceptácia vykonaných služieb a súvisiacich plnení.
+Článok 4
+Povinnosti poskytovateľa a práva objednávateľa
+
+4.1
+
+Poskytovateľ sa zaväzuje, že služby a súvisiace plnenia poskytne bez narušenia
+funkčnosti
+
+4.2
+
+doterajšej siete objednávateľa.
+
+Poskytovateľ sa zaväzuje zabezpečiť všetky služby a súvisiace plnenia v plnom
+rozsahu a kvalite, aby zariadenia WAF boli schopné monitorovať a chrániť prevádzku
+webových služieb objednávateľa
+
+4.3.
+
+Poskytovateľ sucasne berie na vedomie, že implementácia zariadení WAF do
+existujúceho sieťového prostredia objednávateľa je považovaná za kritickú službu
+vzhľadom na potrebu vysokej miery detailizácie implementácie a pri nedodržaní
+postupov definovaných výrobcom zariadení WAF a pri nedostatku expertných
+skúsenosti pracovníkov poskytovateľa hrozí pri ostrej prevádzke v sieti objednávateľa
+narušenie dátovej komunikácie pri jednotlivých aplikáciách s výsledkom
+nedostupnosti služieb objednávateľa pre používateľov. Poskytovateľ sa preto
+zaväzuje predmet zmluvy v plnom rozsahu zabezpečiť osobami, ktoré sú
+certifikovanými systémovými inžiniermi a sú držiteľmi týchto platných certifikátov:
+
+- Radware Application Delivery; názov certifikátu: RCAE-AD (Radware Certified
+Application Expert - Application Delivery)
+a zároveň
+- Radware Application Security; názov certifikátu: RCAMSE (Radware Certified Attack
+Mitigation Solutions Expert).
+4.4
+
+Poskytovateľ sa zaväzuje pri práci v
+dodržiavalbezpečnostné pravidlá platné
+
+informačných systémoch objednávateľa
+pre informačné systémy objednávateľa,
+ktorých súčasťou sú právne predpisy a vnútorné predpisy objednávateľa vzťahujúce
+sa na kybernetickú bezpečnosť a ochranu osobných údajov v týchto informačných
+systémoch. Bezpečnostný manažér objednávateľa vykoná poučenie určeného
+pracovníka objednávateľa o bezpečnostných pravidlách , o čom vyhotoví zápis. Zápis
+bude obsahovať rozsah poučenia, príslušnú dokumentáciu, dátum podpis
+bezpečnostného
+manazera objednávateľa a podpis určeného pracovníka
+poskytovateľa, ktorého poučil.
+
+4.5
+
+Poskytovateľ vykoná poučenie všetkých svojich pracovníkov poverených vykonaním
+služieb a súvisiacich plnení o bezpečnostných opatreniach v rozsahu poučenia podľa
+bodu 4.4 zmluvy, o čom vykoná zápis. V poučení budú pracovníci uvedení menovite a
+poučenie potvrdia svojimi podpismi. Zápis o poučení odovzdá poskytovateľ
+bezpečnostnému manažérovi objednávateľa.
+
+4.6
+
+mlčanlivosť o všetkých skutočnostiach, s
+oboznámi počas prác s informačnými systémami
+tejto zmluvy, tak počas plnenia predmetu zmluvy, ako aj
+po termíne plnenia zmluvy podľa bodu 3.1 zmluvy.
+
+Poskytovateľ
+
+sa zaväzuje
+
+dodržiavať
+
+poskytovateľ
+objednávateľa v zmysle čl. 1
+
+ktorými
+
+sa
+
+4. 7
+
+Objednávateľ si vyhradzuje právo obmedziť rozsah prístupu poskytovateľa k údajom
+aktív informačných systémov objednávateľa na taký rozsah, ktorý je nevyhnutný k
+splneniu predmetu zmluvy.
+
+4.8
+
+Objednávateľ si vyhradzuje
+právo stanoviť
+bezpečnostných pravidiel platných pre informačné
+
+4.9.
+
+Objednávateľ si vyhradzuje právo na neschválenie prevzatia
+činnosti, ak poskytovateľ nedodrží bezpečnostné pravidlá.
+
+4.10
+
+Pre prípad porušenia ktorejkoľvek povinnosti poskytovateľa vyplývajúcej z tejto
+zmluvy alebo z jej príloh, je poskytovateľ povinný zaplatiť objednávateľovi zmluvnú
+pokutu vo výške O, 05% z celkovej ceny predmetu zmluvy, a to za každé porušenie
+zabezpečovanej povinnosti samostatne.
+
+4.11
+
+Poskytovateľ sa zaväzuje vypracovať postup postihu svojich pracovníkov v prípade
+zistenia porušenia bezpečnostných pravidiel, s ktorými mal poskytovateľ oboznámiť
+svojich pracovníkov podľa bodu 4.5.
+
+spôsob kontroly dodržiavania
+systémy objednávateľa.
+výsledkov vykonanej
+
+Článok 5.
+
+Povinnosti objednávateľa
+
+5.1
+
+Objednávateľ sa zaväzuje všestranne spolupracovať s poskytovateľom pri plnení
+predmetu tejto zmluvy a včasnom poskytovaní nevyhnutných informácií.
+
+5.2
+
+Objednávateľ sa zaväzuje v súvislosti s plnením tejto zmluvy sprístupniť priestory
+a potrebné technické prostriedky s nainštalovanými softvérovými produktmi,
+v termínoch dohodnutých s poskytovateľom.
+
+5.3
+
+Objednávateľ sa zaväzuje,
+
+5.4
+
+Objednávateľ
+
+5.5
+
+Objednávateľ sa zaväzuje zabezpečiť nevyhnutnú spoluprácu pri zabezpečení
+
+že kopírovaním ani iným spôsobom narúšajúcim
+ustanovenia licencií, nebudú porušené autorské práva na dodané riešenia a služby.
+
+poučenia
+
+sa zaväzuje, že zaplatí za predmet zmluvy podľa čl. 6 tejto zmluvy.
+
+v súlade s
+
+článkom
+
+4.5 tejto zmluvy.
+Článok 6
+
+Cena a platobné podmienky
+
+6.1
+
+Cena za predmet zmluvy podľa čl. 1 je podľa zákona č. 18/1996 Z. z. o cenách
+v znení neskorších predpisov stanovená nasledovne
+zmluvná cena bez DPH:
+
+9.285,00 EUR
+
+sadzba a výška DPH (20%):
+
+1.857,00 EUR
+
+zmluvná cena s DPH:
+
+11.142,00 EUR
+
+Kalkulácia ceny tvorí prílohu č.1 k tejto zmluve.
+V cenách sú zahrnuté všetky náklady spojené s realizáciou predmetu zmluvy.
+6.2
+
+Fakturácia za predmet zmluvy sa vykoná na základe faktúry, ktorú je poskytovateľ
+oprávnený vystaviť až po podpísaní preberacieho protokolu podľa bodu 3.3 tejto
+zmluvy, ktorý bude priložený k faktúre.
+
+6.3.
+
+Faktúra musí obsahovať odvolanie sa na túto zmluvu s uvedením čísla zmluvy a mať
+náležitosti daňového dokladu podľa zákona č. 222/2004 Z. z. o dani z pridanej
+hodnoty v znení neskorších predpisov a podľa Obchodného zákonníka (ďalej len
+„riadne vystavená faktúra"). Ak faktúra nebude obsahovať všetky údaje, náležitosti
+alebo doklady podľa tejto zmluvy a platných právnych predpisov, najmä podľa zákona
+č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov, alebo bude
+obsahovať nesprávne cenové alebo iné údaje, , je objednávateľ oprávnený ju vrátiť
+na doplnenie poskytovateľovi, čím sa preruší splatnosť faktúry a nová splatnosť
+začne plynúť od doručenia riadne vystavenej faktúry.
+
+6.4
+
+Faktúra vystavená poskytovateľom a predložená objednávateľovi má splatnosť do 30
+dní od jej doručenia.
+
+6.5
+
+V prípade neuhradenia faktúry v termíne splatnosti je poskytovateľ oprávnený
+požadovať od objednávateľa úrok z omeškania v zákonnej výške. Poskytovateľ
+neuplatní úrok z omeškania v prípade, ak toto omeškanie bude spôsobené z dôvodu
+vyššej moci, napríklad na strane štátnej pokladnice.
+
+6.6
+
+Faktúra sa považuje za uhradenú v termíne splatnosti odpísaním predmetnej
+fakturovanej čiastky z účtu objednávateľa na účet poskytovateľa.
+
+Článok 7.
+Záverečné ustanovenia
+riešiť
+
+7 .1
+
+Spory zmluvných strán týkajúce sa plnenia tejto zmluvy sa budú
+dohodou zmluvných strán.
+
+7.2
+
+Obsah tejto zmluvy možno zmeniť alebo doplniť len formou písomných dodatkov
+k tejto zmluve podpísaných oprávnenými zástupcami oboch zmluvných strán.
+
+7.3
+
+Táto zmluva je vyhotovená v piatich vyhotoveniach, z ktorých
+vyhotovenia a poskytovateľ dostane dve vyhotovenia.
+
+7.4
+
+Táto zmluva nadobúda platnosť dňom jej podpisu oprávnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom
+registri zmlúv.
+
+7.5
+
+Ostatné právne vzťahy súvisiace s predmetom tejto zmluvy a z neho vyplývajúcimi
+záväzkami zmluvných strán sa riadia príslušnými ustanoveniami Obchodného
+zákonníka a ďalších príslušných právnych predpisov..
+
+Dátum:~
+
+objednávateľ
+
+Dátum: -:/-,
+
+5~01· 1019
+
+~
+
+Za objednáv
+Ing. Alexand r Ballek
+predseda úradu
+
+\l
+
+~
+
+V/ .
+
+Za
+
+/
+poskytovateľa:
+
+)/g.František Mičuda
+/ / konatel
+
+;J
+
+~
+
+dostane tri
+
+2 . 201 q
+
+d'l u
+~
+eľa :
+
+prednostne
+
+!ČDPH· SK202374LYvv
+
+.,. 1 Robotnícka lE I Martin, 036 01
+;f.;a.sk I lnfo@aliga.sk 1 +421 43 370 9302
+~,104694 1 IČ DPH: SIC2023742963
+
+. / 4ísaná v OR OS 2i!lna, Oddiel: Sro, violka č.: 58797/L
+
+- - - - - -- --
+
+Príloha č.1.
+
+Pol. č.
+
+1.
+
+2.
+
+3.
+
+4.
+
+s.
+
+Cena za
+MJvEUR
+bez DPH
+
+DPH za
+MJ v EUR
+
+Celková
+cena
+v EUR s
+DPH
+
+Názov
+
+MJ
+
+Počet
+
+Fyzická implementácia zariadení - design vo vysoko
+dostupnom riešení WAF v produkčnom a sekundárnom
+datacentre šú SR
+
+MD
+
+9
+
+619,00
+
+123,80
+
+6.685,20
+
+L2/L3 zapojenie v rozsahu:
+• IP adresácia (IP pre real server, pre VIP)
+- VLANy (management, server ...)
+
+MD
+
+2
+
+619,00
+
+123,80
+
+1.485,60
+
+2
+
+619,00
+
+123,80
+
+1.485,60
+
+1
+
+619,00 1
+
+123,80
+
+742,80
+
+1
+
+619,00
+
+123,80
+
+742,80
+
+Vytvorenie zoznamu služieb:
+- Definícia (výber služieb šú SR zaradených pod WAF)
+. Definícia na ktorých serveroch/IP sa služba
+MD
+prevádzkuje
+- Základná konfigurácia politík pre definované webové
+službyŠÚ SR
+- Health checks
+Advanced služby v rozsahu:
+- SSL offloading (kľúče/certifikáty)
+- WAF optimalizácia
+MD
+- Testovania a ladenie konfiguračných parametrov
+-APM
+- Inte~rácia s ďalšími systémami - sysloe:/snmp dohľad
+Technická dokumentácia k implementácii
+MD
+
+MJ
+
+11.142,00
+
+Celková cena za predmet zákazky
+
+/} ~1
+//;
+
+-1-,
+
+/
+
+Strana 1
+
+1
+
+

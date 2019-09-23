@@ -1,0 +1,215 @@
+ZMLUVA O POSKYTNUTÍ SLUŽIEB
+uzatvorená podľa § 269 ods. 2 Zákona č. 513/1991 Zb. Obchodného zákonníka v znení
+neskorších predpisov
+Číslo zmluvy objednávateľ: 41/DOD/2018/40/8060
+Číslo zmluvy poskytovateľ: 2018/VÚVH/SZ/001
+
+I. ZMLUVNÉ STRANY
+Objednávateľ:
+
+Výskumný ústav vodného hospodárstva
+Nábr. arm. gen. L. Svobodu 5
+812 49 Bratislava 1
+
+V zastúpení:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu – IBAN:
+Zapísaný v :
+/ďalej len ,,Objednávateľ“/
+
+00 156 850
+
+a
+Poskytovateľ:
+
+JTS spol. s r.o.
+Stará Vajnorská cesta 16
+831 04 Bratislava 3
+
+V zastúpení:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu - IBAN:
+Zapísaný v :
+/ďalej len ,,Poskytovateľ“/
+
+356 811 28
+
+PREAMBULA
+Zhotoviteľ je autorom diela „Aplikačné programové vybavenie (APV)
+1
+
+INTEGROVANÝ MONITORING BODOVÝCH ZDROJOV ZNEČISTENIA
+(IMBZZ), databázový design k databáze IMZZDB, WMS a WFS služby na prepojenie s
+Informačným systémom environmentálnych záťaží ( ISEZ SAŽP )" v zmysle zák. č.
+185/2015 Z.z. v znení neskorších predpisov, na ktorom je založená databáza VÚVH
+„IMBZZ“ zameraná na zabezpečenie úloh v oblasti vodného hospodárstva a v oblasti
+vodohospodársko – ekologických problémov v celom komplexe.
+
+II. PREDMET ZMLUVY
+1. Poskytovateľ sa touto zmluvou zaväzuje poskytovať objednávateľovi služby spočívajúce
+vo vykonaní:
+
+Rozšírenie portálu "Integrovaný Monitoring Bodových Zdrojov Znečistenia" o
+rozhranie umožňujúce export údajov cez internetový prehliadač do CSV a XLSX
+formátu, Zmenu transportného protokolu HTTP na HTTPS, Úpravu "Podmienok
+používania portálu podľa zákona č. 18/2018 Z.z., Znovu odsúhlasenie nových
+podmienok používania portálu existujúcimi používateľmi.
+1. Špecifikácia služby:
+Rozsah údajov bude viariabilný z toho dva základné budú zakaždým.
+Základné údaje: Názov vlastníka, Názov objektu
+Variabilné údaje: Typ vlastníka, IČO - vlastník, DIČ - vlastník, IČ DPH - vlastník, Kód obce - vlastník , Názov
+obce - vlastník, Názov povodia - objekt, Lokalita podľa KÚ - objekt, Názov katastra - objekt, Číselný kod
+katastrálneho územia - objekt, Názov obce - objekt, Číselný kód obce - objekt, Názov okresu - objekt, Číselný
+kód okresu - objekt, Názov kraja - objekt, Číselný kód kraja - objekt,Lokalita historická - objekt, Číslo útvaru
+PZV kvartér - objekt, Názov útvaru PZV kvartér - objekt, Číslo útvaru PZV predkvartér - objekt, Názov útvaru
+PZV predkvartér - objekt, Číslo útvaru PZV geotermál - objekt, Názov útvaru PZV geotermál - objekt, Názov
+objektu - objekt, Typ objektu - objekt, súradnica S-JTSK X - objekt, súradnica S-JTSK Y - objekt, Hĺbka vrtu objekt, Poznámka - objekt, Dátum odberu vzorky - analýza, Názov chem. ukazovateľa - analýza, Skratka chem.
+ukazovateľa - analýza, CAS číslo chem. ukazovateľa - analýza, Kód chem. ukazovateľa - analýza, Nameraná
+hodnota - analýza, Symbol mernej jednotky - analýza, Znak detekčného limitu - analýza, Poznámka - analýza.
+Výberové kritéria budú podľa užívateľom vybranej kombinácie z rozsahu vyššie uvedených údajov
+okrem poznámok ,názvov útvarov PZV. Výberové kritérium údajov podľa analýzy bude len v rozsahu
+dátumov odberu vzorky: dátum OD - DO.
+Export údajov bude dostupný pre všetkých používateľov nasledovne:
+ Vlastník objektov a jeho používatelia len svoje objekty a analýzy
+ Správca portálu všetky objekty a všetky analýzy
+Zmena transportného protokolu z HTTP na šifrovaný HTTPS v zmysle zákona č. 18/2018 (
+vygenerovanie SSL certifikátu, zmena konfigurácie HTTP servera, zmena konfigurácie Aplikačného
+servera, Zabezpečenie automatického generovania SSL certifikátu po jeho expirácii, Testovanie,
+Nasadenie do produkcie )
+Zmena "Podmienok používania portálu IMZZ-Portal" podľa zákona č. 18/2018. Zmena zahŕňa zmenu
+stránky s obsahom podmienok používania, Zmenu stránky pri registrácii nového používateľa, Zmena
+prihlasovacej stránky do portálu - pridanie funkcionality pre znovu odsúhlasenie nových podmienok
+používania webovej aplikácie IMZZ-Portal a WEB služieb existujúcimi používateľmi v zmysle nového
+zákona č. 18/2018
+
+2. Objednávateľ sa zaväzuje poskytnúť poskytovateľovi potrebnú súčinnosť v zmysle tejto
+zmluvy a zaplatiť mu za poskytnuté služby odplatu.
+2
+
+III. ČAS A MIESTO PLNENIA
+1. Služba bude realizovaná do 31.12.2018.
+2. Miestom plnenia tejto zmluvy je VÚVH Bratislava, Nábr. arm. gen. L. Svobodu 5, 812 49
+Bratislava.
+3. Poskytovateľ sa zaväzuje zabezpečiť vykonanie služby na serveri VÚVH
+(hostname: bodove-zdroje.vuvh.sk) cez vzdialený prístup alebo osobne v mieste plnenia.
+
+IV. CENA PREDMETU ZMLUVY
+1. Cena za vykonanie služby v rozsahu uvedenom v čl. II. tejto zmluvy je stanovená
+dohodou zmluvných strán v zmysle zákona č. 18/1996 Z.z. o cenách v znení doplňujúcich
+predpisov ako cena maximálna. Zmena stanovenej ceny je možná len v prípade zmeny
+predpisov upravujúcich DPH alebo písomnou dohodou zmluvných strán.
+Cena celkom bez DPH:
+20% DPH:
+Cena celkom s DPH:
+
+8.000,00 EUR
+1.600,00 EUR
+9.600,00 EUR
+
+slovom: deväťtisícšesťsto EUR s DPH
+2. V prípade, že dôjde k zmene právnej úpravy upravujúcej výšku DPH, použije sa vždy
+platná sadzba DPH. Z uvedeného dôvodu sa môže výška konečnej ceny zmeniť bez
+písomnej dohody zmluvných strán.
+
+V. ÚDAJE O FINANCOVANÍ A FAKTUROVANÍ
+1. Fakturácia sa uskutoční po riadnom poskytnutí služieb, ktoré sú predmetom zmluvy na
+základe faktúry vystavenej vo výške podľa čl. IV. tejto zmluvy.
+2. Poskytovateľ vystaví faktúru najskôr dňom nasledujúcim po dni vykonaní služieb, ktoré
+sú predmetom tejto zmluvy.
+3. Faktúra bude doložená preberacím protokolom potvrdeným zodpovedným zástupcom
+VÚVH.
+4. Splatnosť faktúry je stanovená do 30 dní od jej doručenia.
+
+VI. SPÔSOB ODOVZDÁVANIA A PREBERANIA
+3
+
+1. Služby podľa tejto zmluvy sa považujú za poskytnuté ich riadnym vykonaním
+v dohodnutom termíne na dohodnutom mieste.
+2. Poskytovateľ je povinný poskytovať objednávateľovi služby s odbornou starostlivosťou.
+3. Objednávateľ je povinný poskytovať poskytovateľovi súčinnosť potrebnú pre
+poskytovanie služieb. Za súčinnosť podľa tejto zmluvy sa považuje najmä umožnenie
+plnenia tejto zmluvy v dohodnutom rozsahu, na dohodnutom mieste a v dohodnutom čase.
+4. Odovzdanie a prebranie predmetu zmluvy sa uskutoční na základe protokolu o odovzdaní
+a prevzatí predmetu zmluvy, potvrdeného zodpovednými zástupcami oboch zmluvných
+strán.
+5. Funkčnosť úprav za objednávateľa potvrdzuje
+
+VII. REKLAMÁCIE
+1. Reklamácie je poskytovateľ povinný vybaviť v lehote najviac 10 dní od poskytnutia
+služby. Poskytovateľ vydá objednávateľovi doklad o prijatí reklamácie a spôsobe jej
+vybavenia.
+
+VIII. SANKCIE
+1. Pri omeškaní úhrady faktúry sa určujú úroky z omeškania objednávateľovi podľa § 369a
+Obchodného zákonníka a § 1 ods. 2 nar. vlády č. 21/2013 Z.z., v zmysle ktorého Sadzba
+úrokov z omeškania sa rovná základnej úrokovej sadzbe Európskej centrálnej banky
+platnej k prvému dňu príslušného kalendárneho polroka omeškania zvýšenej o deväť
+percentuálnych bodov; takto určená sadzba úrokov z omeškania sa použije počas celej
+doby omeškania.
+2. Objednávateľ je oprávnený od zmluvy odstúpiť v prípade, že poskytovateľ si neplní svoje
+povinnosti, ktoré mu vyplývajú z tejto zmluvy. Pred odstúpením od zmluvy je
+objednávateľ povinný písomne vyzvať poskytovateľa, aby si splnil svoje zmluvné
+povinnosti. V prípade, ak si poskytovateľ svoje zmluvné povinnosti nesplní ani v lehote
+15 kalendárnych dní od doručenia výzvy, je objednávateľ oprávnený za podmienok
+uvedených v tejto zmluve od zmluvy odstúpiť.
+3. Poskytovateľ je povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 0,25%
+z celkovej ceny poskytnutej služby za každý omeškaný deň, ak služba, ktorá je
+predmetom zmluvy nebude poskytnutá v dohodnutom čase, na dohodnutom mieste
+a v požadovanej kvalite, maximálne do výšky 1.500,00 EUR.
+
+IX. ZÁVEREČNÉ USTANOVENIA
+1. Táto zmluva je vyhotovená v štyroch exemplároch, pričom poskytovateľ obdrží jedno
+vyhotovenie a objednávateľ tri vyhotovenia zmluvy. Všetky exempláre zmluvy majú
+4
+
+rovnakú platnosť. Zmluva je platná odo dňa podpisu obidvomi zmluvnými stranami a
+účinná dňom nasledujúcim po dni jej zverejnenia.
+2. Túto zmluvu možno zmeniť, upraviť alebo doplniť jedine písomnými dodatkami k nej
+potvrdenými obidvoma zmluvnými stranami. V prípade, ak sa niektorá zo zmluvných strán
+dozvie o skutočnostiach vyžadujúcich zmenu, úpravu alebo doplnenie tejto zmluvy, je
+povinná o tom obratom informovať druhú zmluvnú stranu.
+3. Poskytovateľ sa zaväzuje poskytnúť službu, ktorá je predmetom zmluvy s náležitou
+starostlivosťou a odbornosťou, v súlade
+s požiadavkami objednávateľa v rámci
+dohodnutého predmetu zmluvy a stanovených termínov.
+4. Za zmluvnú stranu objednávateľa sú oprávnení rokovať:
+v technických otázkach:
+v zmluvných otázkach:
+5. Za zmluvnú stranu poskytovateľa sú oprávnení rokovať:
+v technických otázkach:
+v zmluvných otázkach:
+6. Pre vzťahy medzi objednávateľom a poskytovateľom platia dojednania stanovené v tejto
+zmluve. Záležitosti, ktoré neboli výslovne dojednané v tejto zmluve sa riadia príslušnými
+ustanoveniami Obchodného zákonníka.
+7. Zmluvné strany vyhlasujú, že s touto zmluvou boli riadne oboznámené, že nebola uzavretá
+v tiesni, ani za iných, jednostranne nevýhodných podmienok.
+8. Poskytovateľ berie na vedomie, že v zmysle platnej právnej úpravy je VÚVH ako
+príspevková organizácia povinná túto zmluvu zverejniť v Centrálnom registri zmlúv.
+9. Poskytovateľ sa zaväzuje, že umožní, strpí výkon kontroly /auditu/ overovania na serveri
+bodove-zdroje.vuvh.sk súvisiaceho s dodávanými službami kedykoľvek počas platnosti
+a účinnosti zmluvy a to oprávnenými osobami a poskytne im všetku potrebnú súčinnosť.
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+Za objednávateľa:
+
+Za poskytovateľa:
+
+...................................................
+Ing. Ľubica Kopčová, PhD.
+generálna riaditeľka
+
+...................................................
+Ing. Anton Sucha
+konateľ
+
+5
+
+

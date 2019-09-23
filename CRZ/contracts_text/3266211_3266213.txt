@@ -1,0 +1,287 @@
+ZMLUVA O DIELO č. S07/2018
+uzatvorená podľa § 536 a nasl. Obchodného zákonníka zákona č. 513/1991 Zb. v platnom znení
+medzi zmluvnými stranami:
+Čl. I Zmluvné strany
+Objednávateľ:
+názov:
+so sídlom:
+zastúpený:
+osoba oprávnená rokovať
+vo veciach obchodných:
+IČO:
+DIČ:
+IČ DPH:
+bankové spojenie:
+číslo účtu:
+právna forma:
+spojenie:
+
+Východoslovenský onkologický ústav a.s.
+Rastislavova 43, 041 91 Košice
+MUDr. Nataša Džunková, predseda predstavenstva
+Ing. Beáta Semrádová, MPH, podpredseda predstavenstva
+Ing. Stanislav Kopko
+36603350
+2022124159
+SK2022124159
+UniCredit Bank Czech Republic and Slovakia, a.s.,
+pobočka zahraničnej banky
+SK141111 0000 0014 2503 2002
+akciová spoločnosť
+tel.: 055/6135111
+fax: 055/6135103
+
+(ďalej len „objednávateľ“)
+a
+Zhotoviteľ
+spoločnosť:
+so sídlom:
+kontaktné miesto:
+zastúpený:
+osoby oprávnené rokovať
+vo veciach technických:
+IČO:
+DIČ:
+IČ DPH:
+bankové spojenie:
+číslo účtu:
+právna forma:
+spojenie:
+
+TCX, s.r.o.
+Tomášikova 1, 040 01 Košice
+Trieda SNP 48/E, 040 11 Košice
+Mgr. Pavol Schreiber, konateľ spoločnosti
+Mgr. Pavol Schreiber
+Ing. Róbert Kafka
+36 585 203
+2021890167
+SK2021890167
+UniCredit Bank
+SK50 1111 0000 0066 2420 7007
+Zapísaná v Obchodnom registri Okresného súdu Košice I.,
+odd. Sro, vložka č. 15523/V.
+tel.: 055/7898 701
+fax: 055/7898 703
+e-mail: schreiber@tcx.sk
+kafka@tcx.sk
+
+(ďalej len „zhotoviteľ“)
+Zmluvné strany prehlasujú, že sú spôsobilé na právne úkony a v tejto zmluve o dielo s nasledujúcim
+obsahom, vyjadrujú svoju slobodnú, vážnu a spoločnú vôľu.
+
+1
+
+Čl. II
+Východiskové údaje
+Podkladom pre uzavretie tejto zmluvy je servis bazálnej IT infraštruktúry dodanej Zhotoviteľom
+v 10/2015 na základe výberového konania (EKS).
+Čl. III
+Predmet zmluvy
+1.
+
+Predmetom zmluvy je poskytovanie služieb s názvom servis bazálnej IT infraštruktúry
+(ďalej len „dielo“).
+
+2.
+
+Popis infraštruktúry objednávateľa:
+a.) Infraštruktúra – logické celky tvorené SW a HW komponentmi, pričom tieto poskytujú
+služby/servis pre chod infraštruktúry ako celku:
+- Microsoft W2012r2 virtuálna infraštruktúra, poskytujúca prostredie pre prevádzku
+virtuálnych serverov. Súčasťou infraštruktúry sú 2 HW servery Fujitsu Rx2540m2
+- Datacore SAN infraštruktúra, ktorá sa skladá z 2x Datacore HS8 SDS serverov, ktoré sú
+inštalované na serveroch Fujitsu Rx2540m2
+- Microsoft infraštruktúra – ActiveDirectory, File server – infraštruktúra zabezpečuje
+overovanie používateľov, prístup ku zdrojom infraštruktúry a pod.
+- Backup NAS server Synology RS3614xs
+- 2xUPS APC 3000
+b.) Softvér:
+- 2x Datacore HS8 licencie inštalované v primary partition Hyper-V serverov
+- Veeam Essentials Enterprise pre 6CPU
+- Licencie MS W2012r2 vo funkcii Hyper-V
+- Microsoft Active Directory – 2x servery AD
+- MS File server
+
+3.
+a)
+b)
+c)
+d)
+
+Rozsah služieb požadovaných od zhotoviteľa:
+komplexný servis infraštruktúry (konfigurácia, ladenie, oprava chýb)
+odborné poradenstvo
+výkon zásahov do infraštruktúry podľa požiadavky objednávateľa
+možnosť v odôvodnených prípadoch presmerovať koncových používateľov objednávateľa
+na pracovníkov zhotoviteľa
+
+4. Zhotoviteľ vykonáva aj minoritné zmeny infraštruktúry, medzi ktoré patrí:
+- implementácia hotfixov, patchov pre aplikačný SW
+- drobné zmeny v nastaveniach aplikácií, prípadne upgrade aplikácií na serveroch
+- zmeny v nastaveniach MS infraštruktúry, ako napríklad pravidla GPO v AD, nastavenie
+servera a pod.
+5. Zhotoviteľ prehlasuje, že má oprávnenie vykonávať práce v rozsahu čl. III. tejto zmluvy
+6. Zhotoviteľ sa zaväzuje vykonávať pre objednávateľa dielo podľa podmienok dohodnutých
+v tejto zmluve a riadne a včas vykonané dielo odovzdať objednávateľovi.
+7. Zhotoviteľ sa zaväzuje plniť kvalitatívne požiadavky diela v kvalite vyhovujúcej STN, EN
+a právnymi predpismi platnými v SR, a zodpovedá za profesionálne vykonanie služby, vo
+2
+
+vlastnom mene, na svoje náklady a vlastnú zodpovednosť, s vybavením, ktoré si na tento
+účel zabezpečí.
+8. Objednávateľ sa zaväzuje vykonané dielo prevziať v súlade s touto zmluvou a zaplatiť zaň
+cenu podľa článku IV tejto zmluvy.
+9. Zhotoviteľ prehlasuje, že vykonanie diela nie je zaťažené vecnými právami tretích osôb.
+Čl. IV
+Cena
+1. Objednávateľ zaplatí za vykonané dielo cenu spolu s DPH, vo výške zodpovedajúcej
+platným právnym predpisom, podľa ceny uvedenej v bodoch 5. a 6. tohto článku.
+2. Cena je stanovená dohodou zmluvných strán podľa zákona č. 18/1996 Z. z. o cenách v znení
+neskorších predpisov a vyhlášky MF SR č. 87/1996 Z. z., ktorou sa vykonáva Zákon
+o cenách, podľa výzvy a predloženej ponuky, ako cena maximálna a záväzná počas
+platnosti zmluvy.
+3. Sadzba ceny DPH, je vo výške 20%, platnej ku dňu uzatvárania tejto zmluvy. V prípade
+legislatívnej zmeny sadzby DPH, bude táto zmenená a fakturovaná v sadzbe platnej v čase
+odovzdania diela.
+4. V prípade výkonu činností nad rámec predplateného rozsahu zachovať cenu
+osobo – hodinovej sadzby aká je platná pre predplatený rozsah.
+5. Objednávateľ zaplatí každý mesiac za predmet zmluvy sumu vo výške 350€ bez DPH za 5
+osobohodín servisných prác (slovom: tristopäťdesiat €), pričom táto suma zahŕňa aj službu
+pohotovosti. Rozsah minimálnej fakturácie za mesiac je 5 osobohodiny vrátane
+pohotovosti.
+6. V prípade realizácie prác nad rámec predplatených osobohodín, budú tieto práce
+fakturované v sadzbe 70€ bez DPH/osobohodina, vrátane dopravných nákladov na miesto
+výkonu.
+Čl. V
+1. Zmluvné strany sa dohodli na možnosti rozviazania zmluvy bez udania dôvodu
+s výpovednou lehotou 2. Výpovedná doba začína prvým dňom nasledujúceho mesiaca po
+doručení výpovede.
+2. V prípade podstatného porušenia zmluvy podľa čl. VIII je možné jednostranné odstúpenie
+od zmluvy, ktorá plynie od momentu doručenia písomného odstúpenia zmluvnej strane.
+Čl. VI
+Lehoty, miesto vykonania diela
+1. Zhotoviteľ sa zaväzuje, že vykoná dielo v kvalite a prevedení podľa podmienok
+dohodnutých v tejto zmluve.
+
+3
+
+2. Dielo sa bude vykonávať priebežne. Zhotoviteľ sa zaväzuje reagovať na požiadavku
+objednávateľa najneskôr do 8-mich pracovných hodín od nahlásenia poruchy/zmenovej
+požiadavky. Nahlásenie poruchy sa bude vykonávať na základe telefonického dohovoru,
+ktorý bude doplnený písomnou formou elektronicky.
+3. Predpokladaný mesačný rozsah servisných hodín sú 5 osobo – hodiny. Nevyužité servisné
+hodiny z posledných 6-tich mesiacov je možné využívať kumulovane aj na iné účely
+ako je uvedené vyššie, napríklad major upgrade a pod. nevyužité servisné hodiny staršie
+ako 6 mesiacov nie sú spätne použiteľné.
+4. Zhotoviteľ je povinný písomne oznámiť objednávateľovi existenciu dôvodov, ktoré bránia
+alebo sťažujú vykonanie diela, ktorého následkom bude omeškanie s vykonaním diela.
+5. Zmeny na infraštruktúre zo strany zhotoviteľa, ale aj objednávateľa, sa vykonávajú
+výhradne po obojstrannej dohode. Prístup zhotoviteľa do infraštruktúry objednávateľa
+(užívateľské kontá zhotoviteľa zriadené v AD objednávateľa) je poskytovaný
+počas trvania zmluvy.
+6. Realizované servisné práce budú evidované pracovníkom objednávateľa ako aj zhotoviteľa,
+pričom zhotoviteľ na konci každého mesiaca uvedie zoznam vykonaných prác, formou
+preberacieho protokolu, ktorý obe strany odsúhlasia (napríklad emailom). Na preberacom
+protokole zhotoviteľ uvedie údaje o vykonaných postupoch pri vykonaní diela a použitého
+tovaru na vykonanie diela. Objednané a zrealizované dielo bude odovzdané
+splnomocnenému zamestnancovi objednávateľa, ktorý prevzatie diela potvrdí podpisom.
+7. Objednávateľ si vyhradzuje právo vykonať kontrolu vykonaného diela.
+8. Zhotoviteľ vykoná dielo po dohode s objednávateľom podľa účelu a nutnosti buď v
+priestoroch objednávateľa, alebo vlastných priestoroch prostredníctvom vzdialeného
+prístupu.
+
+Čl. VII
+Platobné podmienky a fakturácia
+1. Úhrada za dielo bude zrealizovaná na základe faktúry vyhotovenej zhotoviteľom spolu
+s dokladom o prevzatí a odovzdaní vykonaného diela - prác. Splatnosť faktúry je 30 dní od
+jej doručenia objednávateľovi. Fakturovaná čiastka bude hradená objednávateľom
+bezhotovostným prevodom na účet zhotoviteľa. Objednávateľ neposkytuje finančný
+preddavok zhotoviteľovi. Cena bude hradená z finančných prostriedkov objednávateľa.
+2. Faktúra musí obsahovať povinné náležitosti daňového dokladu v zmysle zákona č.
+222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov: označenie faktúry
+a jej číslo, názov a sídlo zmluvných strán, IČO, DIČ, IČ DPH, číslo zmluvy, opis
+vykonaného diela a deň odovzdania diela, deň vystavenia a odoslania faktúry, deň splatnosti
+faktúry, označenie bankového spojenia zhotoviteľa a číslo účtu, množstvo a cenu tovaru,
+fakturovanú čiastku, pečiatku a podpis oprávnenej osoby.
+3. Objednávateľ je oprávnený faktúru do dátumu jej splatnosti vrátiť zhotoviteľovi v prípade,
+že neobsahuje všetky vyššie uvedené náležitosti daňového dokladu za účelom jej doplnenia
+alebo opravy. V takom prípade nová lehota začne plynúť doručením opravenej faktúry
+
+4
+
+objednávateľovi. Ak v stanovenej lehote objednávateľ faktúru nevráti, považuje sa faktúra
+za vystavenú bez chýb.
+4. Zmluvné strany sa dohodli, že pohľadávku/y/ medzi zmluvnými stranami nie je možné postúpiť
+inému, iba za predchádzajúceho písomného súhlasu druhej zmluvnej strany.
+Právny úkon, ktorým dôjde k postúpeniu pohľadávky v rozpore s touto dohodu zmluvných
+strán, je neplatný.
+
+Čl. VIII
+Porušenie zmluvných povinností a jeho následky
+1. V prípade omeškania objednávateľa so zaplatením ceny je zhotoviteľ oprávnený účtovať
+objednávateľovi úrok z omeškania vo výške 0,05% z fakturovanej ceny za každý začatý deň
+omeškania.
+2. V prípade omeškania zhotoviteľa s vykonaním objednaného diela je objednávateľ
+oprávnený účtovať zhotoviteľovi zmluvnú pokutu vo výške 0,05% z ceny nevykonaného
+diela za každý začatý deň omeškania.
+3. Právo na náhradu škody podľa ust. § 373 a nasl. Obchodného zákonníka nie je vznikom
+nárokov podľa vyššie uvedeného, dotknuté.
+4. Zmluvné strany sa dohodli, že v zmysle § 344 Obchodného zákonníka pokladajú za
+podstatné porušenie zmluvy a dôvod na odstúpenie od zmluvy:
+a. nedodržanie ceny zo strany zhotoviteľa podľa článku IV tejto zmluvy,
+b. nedodržanie lehoty plnenia podľa článku VI tejto zmluvy.
+V ostatnom sa má za to, že porušenie zmluvy nie je podstatné.
+Čl. IX
+Zodpovednosť za vady, záruka za kvalitu
+1. Zhotoviteľ zodpovedá za kvalitu vykonaného diela podľa platných technických noriem,
+počas záručnej doby v trvaní 6 mesiacov, ktorá začína plynúť odo dňa prevzatia diela
+objednávateľom s príslušnými dokladmi, ktoré sa na dielo vzťahujú.
+2. Objednávateľ sa zaväzuje prípadné vady diela neodkladne reklamovať v lehote 7 dní
+od ich zistenia. Objednávateľ oznámi zhotoviteľovi vady písomne. Podanie možno
+v uvedenej lehote urobiť aj elektronickými prostriedkami, telefonicky alebo telefaxom,
+v tom prípade takéto podanie doplní objednávateľ písomne najbližší nasledujúci pracovný
+deň.
+3. Zhotoviteľ sa zaväzuje reklamované dielo v rámci záručnej doby prevziať a vybaviť
+reklamáciu (odstrániť vady) v lehote najneskôr do 2 dní od prevzatia reklamácie. Zhotoviteľ
+je oprávnený reklamáciu neuznať v prípade zistenia, že s reklamovaným dielom nebolo
+nakladané v súlade s technickými podmienkami, podľa ktorých má byť dielo používané
+a s ktorými objednávateľa oboznámil.
+Čl. X
+5
+
+Záverečné ustanovenia
+1. Zmluva je platná dňom podpísania zmluvnými stranami, pričom je rozhodujúci deň, kedy
+zmluvu podpísala posledná zmluvná strana.
+2. Zmluva je účinná na dobu určitú, od 1.11.2018 do 31.12.2018.
+
+3. Akékoľvek zmeny a doplnenia tejto zmluvy môžu byť uskutočnené len na základe
+predchádzajúcej dohody oboch zmluvných strán, formou očíslovaných písomných
+dodatkov.
+4. Žiadna zo zmluvných strán nie je oprávnená bez písomného súhlasu druhej strany previesť
+svoje práva a záväzky podľa tejto zmluvy na inú osobu.
+5. Právne vzťahy výslovne neupravené touto zmluvou sa riadia ustanoveniami Obchodného
+zákonníka.
+6. Zmluva sa vyhotovuje v štyroch (4) vyhotoveniach, z toho po dva pre každú zmluvnú
+stranu.
+7. Zmluvné strany prehlasujú, že si zmluvu prečítali, jej obsahu porozumeli, s jej obsahom po
+prečítaní súhlasia bez výhrad a na znak tohto súhlasu ju vlastnoručne podpisujú.
+V Košiciach dňa
+
+V Košiciach dňa
+
+Objednávateľ:
+
+Zhotoviteľ:
+
+................................................
+MUDr. Nataša Džunková, predseda predstavenstva
+
+.............................................
+Mgr. Pavol Schreiber, konateľ
+
+Ing. Beáta Semrádová, MPH, podpredseda predstavenstva
+
+6
+
+

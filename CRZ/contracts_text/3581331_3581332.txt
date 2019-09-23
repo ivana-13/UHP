@@ -1,0 +1,1934 @@
+Zmluva o poskytovaní servisných služieb – Service Level Agreement (SLA)
+uzavretá podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov (ďalej len „Obchodný zákonník“)
+
+(ďalej ako „SLA“ alebo „Zmluva“)
+Zmluvné strany
+1. Objednávateľ:
+
+SLOVENSKÝ VODOHOSPODÁRSKY PODNIK, štátny podnik
+
+sídlo:
+
+Radničné námestie 8., 969 55 Banská Štiavnica
+
+Zapísaný v Obchodnom registri Okresného súdu v Banskej Bystrici, oddiel Pš vložka číslo 713/S
+štatutárny zástupca:
+Ing. Stanislav Gáborík, generálny riaditeľ
+IČO:
+36 022 047
+IČ DPH:
+SK2020066213
+bankové spojenie:
+IBAN:
+SWIFT/BIC:
+Garant Zmluvy:
+Oprávnená osoba Objednávateľa:
+Číslo zmluvy Objednávateľa:
+(ďalej len „Objednávateľ”)
+
+a
+
+2. Poskytovateľ:
+
+Vision IT Solutions, a.s.
+
+sídlo:
+
+Pribinova 25, 811 09 Bratislava
+
+Zapísaný v Obchodnom registri Okresného súdu Bratislava I, oddiel Sa vložka číslo 5127/B
+štatutárny zástupca:
+IČO:
+IČ DPH:
+bankové spojenie:
+IBAN:
+SWIFT/BIC:
+Garant Zmluvy:
+
+Mgr. Ing. Gabriel Herbrik, predseda predstavenstva
+36 815 799
+SK2022424008
+
+Číslo zmluvy Poskytovateľa:
+(ďalej len „Poskytovateľ“)
+(ďalej spolu aj „Zmluvné strany“)
+
+Zmluvné strany, vedomé si svojich záväzkov v tejto Zmluve obsiahnutých a s úmyslom byť
+touto Zmluvou viazané, dohodli sa na nasledujúcom znení Zmluvy:
+
+1. ZÁKLADNÉ USTANOVENIA
+1.1
+
+Poskytovateľ vyhlasuje, že spĺňa všetky podmienky a požiadavky v tejto Zmluve stanovené a je
+oprávnený túto Zmluvu uzavrieť a schopný riadne plniť všetky záväzky v nej obsiahnuté.
+
+1.2
+
+Zmluvné strany pristupujú k uzavretiu tejto Zmluvy za účelom úpravy práv a povinností pri
+poskytovaní podpornej servisnej služby k informačnému systému TIS SVP. Zmluvné strany
+uzatvárajú túto Zmluvu za účelom zabezpečenia garantovanej spoľahlivosti a stabilnosti TIS SVP
+jeho užívateľom tak, aby bola zaistená požadovaná úroveň dostupnosti služieb, rýchle
+odstránenie prípadných problémov bez negatívneho dopadu na procesy fungovania podniku
+
+Objednávateľa a zároveň za účelom rozvoja, modernizácie a/alebo aktualizácie, ktorá bude
+vynútená budúcimi legislatívnymi zmenami, zmenami pracovných postupov a/alebo zmenou
+vnútorných a/alebo vonkajších rozhraní systémov, s ktorými sa TIS SVP integruje alebo bude
+integrovať.
+1.3
+
+Táto Zmluva je uzatvorená Zmluvnými stranami na základe výsledku verejného obstarávania ako
+nadlimitná zákazka realizovaná postupom verejnej súťaže podľa § 66 zákona č. 343/2015 Z. z.
+o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(ďalej len „Zákon o verejnom obstarávaní“).
+
+1.4
+
+Cieľom tejto Zmluvy, sledujúc jej účel, je špecifikácia podmienok, vzájomných práv a povinností
+Zmluvných strán a rozsahu poskytovania servisných služieb údržby a podpory pre TIS SVP,
+vrátane podpory a údržby jeho rozšírených funkcionalít vytvorených v rámci rozvoja TIS SVP
+podľa tejto Zmluvy (ďalej len „služby podpory a údržby“) a rozvoj TIS SVP realizovaný na základe
+Požiadaviek Objednávateľa.
+
+1.5
+
+Zmluvné strany sa výslovne dohodli, že poskytované služby podľa tejto Zmluvy musia po celú
+dobu plnenia spĺňať okrem vlastností dojednaných v tejto Zmluve a vlastností uvedených
+v Súťažných podkladoch, pokiaľ je to uplatniteľné aj požiadavky ISO 9001, ISO 10006, ISO/IEC
+27001.
+
+1.6
+
+Zmluvné strany sa dohodli, že ustanovenia samotnej Zmluvy majú prednosť pred jej Prílohami.
+Technická špecifikácia má prednosť pred ostatnými Prílohami Zmluvy. Zmluva a jej Prílohy majú
+prednosť pred inými dokumentmi, ktoré vzniknú pri plnení Zmluvy, a ktoré musia byť v súlade so
+Zmluvou a jej Prílohami.
+
+2. DEFINÍCIE POJMOV
+Pokiaľ priamo z kontextu Zmluvy nevyplýva inak, majú nasledujúce slová, výrazy a pojmy použité v tejto
+Zmluve a jej Prílohách nasledovný význam:
+1. Akceptačné konanie: proces schvaľovania implementácie rozšírených funkcionalít TIS SVP,
+ktorého výsledkom je schválenie rozšírenej funkcionality.
+2. Akceptačné kritériá: sú merateľné, technické alebo vecné parametre vopred dohodnuté
+Zmluvnými stranami
+3. Akceptačné testovanie: proces preverenia funkčnosti implementovaných rozšírených
+funkcionalít vykonávaný Objednávateľom a/alebo Poskytovateľom podľa Akceptačných kritérií.
+4. Akceptačný protokol: dokument, ktorým Objednávateľ potvrdí splnenie podmienok na
+implementáciu rozšírenej funkcionality informačného systému ako výsledok Akceptačného
+konania.
+5. Aplikačné programové vybavenie (APV) - je počítačový program (programový kód vrátane
+programovej dokumentácie, ďalej aj Software), a to vo forme jednotlivého modulu (jeden
+podsystém, príp. používateľský program) alebo celého programového komplexu modulov, ktorý
+je zaradený do distribúcie spoločnosti pod svojim obchodným názvom. Súčasťou APV je aj
+údajová základňa, zahrňujúca databázovú štruktúru a dátový model, využívaná modulmi APV.
+APV môže ďalej špecifikovať zmluva. Ak nie je výslovne stanovené inak, APV sa poskytuje iba
+v strojovom texte a nezahŕňa podkladové materiály potrebné na prípravu APV.
+6. Človekohodina: je základná merná jednotka fakturácie služieb Rozvoja TIS SVP, za ktorú sa
+považuje hodina práce jedného pracovníka Poskytovateľa (vrátane čo i len začatej hodiny
+práce). Človekohodina trvá 60 minút. Cena jednej človekohodiny je 1/8 ceny za človekodeň.
+7. Človekodeň: práca jedného pracovníka Poskytovateľa počas 8 (osem) pracovných hodín
+v trvaní 60 minút, ktoré môžu, ale nemusia byť odpracované v jeden pracovný deň.
+8. CPZ – Centrum podpory zákazníka - internetová aplikácia s webovým rozhraním, ktorá
+umožňuje elektronickú komunikáciu Poskytovateľa s Objednávateľom, zber a vyhodnocovanie
+prvotných záznamov.
+9. Dokumentácia: popis, detailná špecifikácia rozšírených funkcionalít IS vytvorených v rámci TIS
+SVP, alebo iný dokument dodávaný podľa Zmluvy.
+10. Dôverné informácie – sú všetky informácie poskytnuté vedome či nevedome v ústnej alebo v
+písomnej forme jednou Zmluvnou stranou druhej, vrátane informácií, ktoré sa strany dozvedeli
+v súvislosti so Zmluvou, ako i know-how, ktorým sa rozumejú všetky poznatky obchodnej,
+výrobnej, technickej či ekonomickej povahy súvisiace s činnosťou Zmluvnej strany, ktoré majú
+skutočnú alebo aspoň potenciálnu hodnotu a ktoré nie sú v príslušných obchodných kruhoch
+Strana 2 z 29
+
+11.
+12.
+13.
+14.
+
+15.
+16.
+17.
+
+18.
+19.
+
+20.
+
+21.
+22.
+
+23.
+
+24.
+25.
+
+26.
+
+27.
+28.
+29.
+
+bežne dostupné a majú byť utajené. Za dôverné informácie sú ďalej považované počítačové
+programy, diagnostika, dokumentácia a akékoľvek ďalšie informácie, ktoré sú označené ako
+dôverné informácie.
+Eskalačný mechanizmus: hierarchický postup riešenia otvorených Incidentov.
+Funkčná špecifikácia: popis požiadaviek kladených na informačný systém a návrh ich riešenia.
+Garanti Zmluvy – poverené osoby za Zmluvné strany uvedené v záhlaví tejto Zmluvy.
+Helpdesk - poskytnutie odpovede cez Call centrum na otázky týkajúce sa problémových situácií
+vzniknutých pri používaní APV, tzn. k obsluhe APV, k problémovým stavom APV, k správaniu
+sa APV v rozpore s opisom v programovej Dokumentácii v časovom priestore maximálne 15
+minút, prijatie nahlásených problémov a reklamácií.
+HW infraštruktúra: hardvérová (HW) infraštruktúra predstavuje súbor HW prostriedkov,
+sieťových komponentov a ich sieťovej konfigurácie.
+Implementácia – je proces, pri ktorom je na základe inštalácie a konfigurácie APV vytváraný
+a rozvíjaný informačný systém.
+Incident: incident/vada je stav, pri ktorom dôjde k neplánovanému prerušeniu alebo degradácii
+poskytovanej služby. Tento stav musí byť odstránený okamžite, a to trvalým alebo náhradným
+riešením.
+Informačný systém – je APV (alebo skupina APV), ktoré je obvykle upravené do jednotného
+systému na základe zmluvy so zákazníkom.
+Konzultácia/ konzultačná služba: konzultácia je Objednávateľom vyžiadaná odborná činnosť
+špecialistov Poskytovateľa, ktorá sa týka implementovaného alebo navrhovaného riešenia. Na
+poskytovanie konzultácií sa nevzťahuje reakčná doba ani doba neutralizácie stanovená touto
+SLA.
+Kritický incident: aj Kritická chyba/ vada aplikácie/í ohrozujúca zabezpečenie základných
+činností aplikácií v rámci softvéru. Ide o chybu, majúcu taký vplyv, že podstatné časti
+funkcionality APV sú u Objednávateľa nepoužiteľné pre zabezpečenie činností, vyplývajúcich
+zo zákonných noriem a Objednávateľ nemôže pokračovať v práci náhradným spôsobom
+pomocou APV.
+Legislatívna podpora - poskytovanie aktuálnych verzií APV so zapracovanými zmenami
+právnych predpisov súvisiacich s funkciami APV.
+Licencia - písomný súhlas poskytovateľa vo forme licenčnej zmluvy alebo licenčného
+dojednania v inej zmluve v súlade s Autorským zákonom na použitie APV Zákazníkom (príp. i
+ďalšími osobami). Zmluva alebo licenčná zmluva špecifikuje podmienky licencie. Ak taká
+dohoda alebo jej časť chýba, licencia je udeľovaná podpisom preberacieho protokolu ako
+nevýhradná, neprenositeľná, časovo obmedzená na dobu trvania majetkových autorských práv,
+najdlhšie však na dobu trvania zmluvy, prostredníctvom ktorej je poskytnutá, a k účelom a
+spôsobom uvedeným v zmluve.
+Nekritický incident: Drobná chyba/vada porucha aplikácie/í, ktorá neobmedzuje zabezpečenie
+prevádzky softvéru a elektronických služieb alebo jeho/ich častí a nemá dôsledky na využívanie
+a prevádzku softvéru.
+Opis predmetu zákazky: tvorí časť B1 Súťažných podkladov, vrátane všetkých jeho príloh a
+jeho rozsah je pre Poskytovateľa servisných služieb záväzný.
+Oprávnená osoba Objednávateľa: osoba, ktorá je oprávnená nahlasovať, riešiť a potvrdzovať
+vyriešenie Problémov spôsobmi uvedenými v tejto SLA a zadávať Požiadavky a potvrdzovať ich
+vybavenie podľa tejto SLA.
+Podpora a údržba TIS SVP: servisná služba zahŕňajúca najmä, no nie však výhradne
+monitoring IS, legislatívnu podporu, odstraňovanie incidentov, posudzovanie, inštaláciu,
+konfiguráciu a/alebo TIS SVP na nový HW a/alebo zabezpečenie prechodu TIS SVP na nové
+verzie, ďalšie administrátorské práce a práce vykonávané na základe hlásení Objednávateľa na
+CPZ, bližšie definované v tejto Zmluve a Súťažných podkladoch.
+Požiadavka: požiadavka je každá požiadavka Objednávateľa na poskytnutie služieb v rozsahu
+tejto SLA.
+Problém: príčina jedného alebo viacerých Incidentov.
+Reakčná doba: Reakčnou dobou sa rozumie maximálny prípustný čas v pracovných hodinách
+od oznámenia požiadavky po začiatok výkonu servisných prác súvisiacich s vyriešením
+incidentu. Pod dobou vyriešenia incidentu sa rozumie maximálny prípustný čas v pracovných
+Strana 3 z 29
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+37.
+
+hodinách pre vyriešenie incidentu, alebo nájdenie náhradného riešenia. Reakčná doba závisí
+od typu problému (incidentu).
+Rozvoj TIS SVP: Zmeny a doplnky TIS SVP, pri ktorých ide o úpravy TIS SVP funkčného a
+prevádzkového charakteru, rozširujúce možnosti využitia tohto systému. Služby sú poskytované
+na základe Požiadaviek Objednávateľa vzniknutých najmä v dôsledku legislatívnych zmien,
+zmien v pracovných postupoch, zmien vnútorných rozhraní alebo vonkajších rozhraní systémov,
+z ktorými sa TIS SVP integruje alebo bude integrovať a ich zadanie nie je zo strany
+Poskytovateľa nárokovateľné.
+SLA parameter: akákoľvek merateľná hodnota určená v tejto Zmluve, ktorá je v rámci
+servisných služieb podpory a údržby TIS SVP záväzná, pričom servisné služby musia byť
+vykonávané s dodržaním týchto parametrov.
+Súťažné podklady: súťažné podklady v zmysle § 42 Zákona o verejnom obstarávaní, ktoré
+obsahujú podrobné vymedzenie predmetu zákazky, verejného obstarávania, ktorého výsledkom
+je táto Zmluva.
+SW: sa rozumie Poskytovateľom vytvorená samostatná časť podporovaného TIS SVP, ktorú
+možno používať nezávisle od ostatných komponentov, zahrňujúcu SW infraštruktúru, na ktorej
+je prevádzkovaná.
+SW infraštruktúra: softvérová (SW) infraštruktúra predstavuje súbor SW komponentov tretích
+strán, ktoré sú inštalované na HW prostriedkoch a vytvárajú prostredie pre fungovanie SW
+komponentov TIS SVP.
+SW komponent 3. strany: pod pojmom SW komponent 3. strany sa považuje komponent SW,
+ktorý je bežne dostupným tovarom alebo službou na trhu a/alebo súčasť voľne šíriteľného SW
+(operačné systémy, databázy, zálohovacie systémy, monitorovacie systémy, bezpečnostné
+systémy, programovacie nástroje atď.) Za SW komponent 3. strany sa na účely tejto Zmluvy
+nepovažuje samotný TIS SVP a jeho komponenty.
+TIS SVP: Informačný systém Objednávateľa, ktorý je predmetom služieb podľa tejto SLA.
+Závažný incident: Hlavná chyba/vada aplikácie/í, ktorá neohrozuje základné činnosti aplikácií
+v rámci softvéru. Spôsobuje však problémy s využívaním a prevádzkovaním softvéru alebo jeho
+komponentov. Umožňuje prevádzku bez dôsledkov na konzistenciu dát a výsledky spracovania.
+Je možné ju dočasne vyriešiť organizačným opatrením prevádzkovateľa.
+
+3. PREDMET ZMLUVY
+3.1
+
+Predmetom tejto Zmluvy je záväzok Poskytovateľa poskytovať Objednávateľovi za podmienok
+stanovených touto Zmluvou servisné služby Podpory a údržby pre TIS SVP a Rozvoj TIS SVP.
+
+3.2
+
+Predmetom tejto Zmluvy je aj záväzok Objednávateľa poskytnúť Poskytovateľovi dohodnutú
+súčinnosť a zaplatiť Poskytovateľovi za riadne a včas poskytnuté služby podľa tejto Zmluvy
+dohodnutú cenu. Služby uvedené v bode 3.3 budú Poskytovateľom pre Objednávateľa
+vykonávané v TIS SVP v rozsahu a spôsobom uvedeným v tejto Zmluve.
+
+3.3
+
+Poskytovateľ sa zaväzuje za podmienok uvedených v tejto SLA, v súlade s účelom tejto SLA
+poskytovať servisné služby, zahŕňajúce servis TIS SVP, správu TIS SVP, údržbu a podporu TIS
+SVP, vrátane proaktívnych ako aj reaktívnych činností a služieb ďalšieho rozvoja TIS SVP v
+nasledovnom rozsahu
+3.3.1 Údržba a podpora pre TIS v súlade s Prílohou č. 2 a č. 5 tejto Zmluvy v rozsahu:
+3.3.1.1 činnosti predpísanej údržby a podpory činností definovaných Dokumentáciou aplikácií,
+3.3.1.2 kompletnej starostlivosti o aplikačné prostredie (funkcionalita, dizajn),
+3.3.1.3 riešenie problémov s jednotlivými modulmi TIS SVP v spolupráci s modulovými,
+sieťovými, hardwérovými a databázovými špecialistami od inicializácie Incidentu /
+Požiadavky / Problému po odsúhlasenie riešenia používateľom modulu (aplikácie),
+3.3.1.4 riadenie komunikácie kľúčových a koncových užívateľov s aplikačnými špecialistami
+Poskytovateľa pri riešení Incidentov a Problémov,
+3.3.1.5 spolupráca na testovaní a nasadzovaní nových verzií aplikácií, respektíve pri
+nevyhnutnej parametrizácii,
+3.3.1.6 manažment zmien vo všetkých prostrediach modulov TIS SVP,
+3.3.1.7 zosúladenie požiadaviek bezpečnostnej politiky a aplikačných nastavení,
+3.3.1.8 manažment aktualizácií Dokumentácie a príručiek,
+3.3.1.9 spolupráca pri riešení úloh interoperability jednotlivých aplikácií,
+Strana 4 z 29
+
+3.3.1.10 spolupráca s externými subjektmi vyžadujúcimi informácie o rozhraniach a
+nastaveniach na základe potvrdenej žiadosti,
+3.3.1.11 monitoring prevádzky a ladenie výkonnostných parametrov s cieľom zefektívniť
+a zrýchliť spracovanie on-line dotazov a dávkových úloh. Činnosti údržby vykonávané
+na základe identifikácie neštandardných stavov,
+3.3.1.12 zálohovanie a monitoring záloh jednotlivých modulov TIS SVP,
+3.3.1.13 ladenie výkonnostných parametrov s cieľom zefektívniť a zrýchliť spracovanie úloh,
+3.3.1.14 činnosti podpory a údržby rozšírených funkcionalít TIS SVP, ktoré budú počas
+trvania tejto Zmluvy implementované na základe Požiadaviek Objednávateľa podľa
+tejto Zmluvy.
+Poskytovateľ sa zaväzuje poskytovať servisné služby Podpory a údržby TIS SVP podľa tejto
+Zmluvy riadne a včas. Poskytovateľ sa zaväzuje poskytovať servisné služby v rámci Podpory
+a údržby TIS SVP pravidelne, priebežne tak, aby bola zachovaná garantovaná úroveň služieb
+a TIS SVP fungoval v náležitej kvalite. Poskytovateľ sa zaväzuje poskytovať servisné služby
+v rámci podpory tak, aby po dobu poskytovania služieb podľa tejto Zmluvy všetky systémy a
+aplikácie fungovali bezporuchovo, spoľahlivo, bezpečne a boli prevádzkyschopné. V prípade
+potreby po konzultácii s Objednávateľom môže Poskytovateľ na svoje náklady nahradiť
+nefunkčný servisovaný modul dočasným náhradným riešením, alebo technologicky novším
+riešením za predpokladu že sa tento stav neprejaví v rámci rozvoja TIS SVP.
+3.3.2 Realizácia ďalších zmien, úprav funkcionality a požiadaviek (ďalej aj „Rozvoj TIS SVP)
+v súlade s Prílohou č. 5 tejto Zmluvy. Poskytovateľ sa zaväzuje poskytovať služby Rozvoja TIS
+SVP za účelom rozvoja, modernizácie a/alebo aktualizácie a úpravy funkčného
+a prevádzkového charakteru rozširujúce možnosti využitia predmetného systému, ktoré budú
+vynútené budúcimi legislatívnymi zmenami, zmenami pracovných postupov a/alebo zmenou
+vnútorných a/alebo vonkajších rozhraní systémov, s ktorými sa TIS SVP integruje alebo bude
+integrovať. Rozvoj TIS SVP sa Poskytovateľ zaväzuje vykonať výlučne na základe požiadavky
+Objednávateľa, a to spôsobom dohodnutým v tejto Zmluve. Pred vyhotovením Funkčnej
+špecifikácie rozšírených funkcionalít TIS SVP podľa tohto bodu si Zmluvné strany spôsobom
+určeným v tejto Zmluve vzájomne odsúhlasia predmet a rozsah rozvojových aktivít,
+predpokladaný maximálny rozsah prácnosti v človekohodinách, a tiež vymedzia čas, v akom sa
+predpokladá implementácia rozšírených funkcionalít TIS SVP. V prípade že upgrade v rámci
+existujúceho riešenia bude z technologického alebo akéhokoľvek iného dôvodu
+neuskutočniteľný, má Poskytovateľ po konzultácii s Objednávateľom možnosť na svoje náklady
+nasadiť nové riešenie (technologicky novšie), ktorého vývoj bude započítaný do rozvoja TIS
+SVP iba v rozsahu odsúhlasenej novopožadovanej funkcionality.
+4. DOBA PLNENIA
+4.1
+
+Služby podľa bodu 3.3.1 sa Poskytovateľ zaväzuje poskytovať priebežne po celú dobu účinnosti
+tejto Zmluvy spôsobom podľa tejto Zmluvy.
+
+4.2
+
+Služby podľa bodu 3.3.2 sa Poskytovateľ zaväzuje poskytnúť v lehotách uvedených v príslušných
+Funkčných špecifikáciách potvrdených oboma Zmluvnými stranami v súlade s bodom 7.77.9.3
+tejto Zmluvy.
+
+5. MIESTO PLNENIA
+5.1
+
+Miestom plnenia podľa tejto Zmluvy je sídlo Objednávateľa.
+
+5.2
+
+Pokiaľ to povaha plnenia tejto Zmluvy umožňuje, je Poskytovateľ oprávnený poskytovať služby aj
+vzdialeným prístupom alebo inak z miesta odlíšeného od miesta plnenia uvedeného v bode 5.1
+tejto Zmluvy.
+
+5.3
+
+Služby definované v bode 3.3.2 tohto článku SLA je Poskytovateľ oprávnený vykonávať' podľa
+potreby v priestoroch Objednávateľa v súlade s dohodnutými bezpečnostnými postupmi, ako aj
+vo svojich priestoroch, pričom prístupy do prostredia, kde sú prevádzkované produkčné dáta sú
+riadené v súlade s dohodnutými bezpečnostnými postupmi, prípadne na inom vhodnom mieste
+podľa dohody Poskytovateľa s Objednávateľom.
+
+6. CENA A PLATOBNÉ PODMIENKY
+6.1
+
+Objednávateľ je povinný zaplatiť za služby podľa bodu 3.3.1 Zmluvy odmenu vo výške
+939,- EUR bez DPH za jeden Človekodeň. Cena za služby Podpory a údržby TIS SVP za
+konkrétny kalendárny mesiac bude vypočítaná ako súčin Zmluvnými stranami odsúhlasenej
+Strana 5 z 29
+
+prácnosti (potrebných Človekodní) pri poskytnutí služieb v danom kalendárnom mesiaci podľa
+mesačného výkazu vykonaných činností Podpory a údržby TIS SVP a ceny za 1 Človekodeň
+práce.
+6.2
+
+Úhrada cien za služby podľa bodu 3.3.1 poskytované podľa tejto Zmluvy bude uskutočňovaná
+mesačne na základe faktúr vystavovaných Poskytovateľom nie skôr ako v desiaty deň mesiaca
+nasledujúceho po mesiaci, v ktorom boli služby poskytované. K cene bude pripočítaná DPH v
+zákonnej sadzbe. Prílohou k faktúre musí byť mesačný výkaz vykonaných činností Podpory a
+údržby TIS SVP vykonaných v danom mesiaci, odsúhlasený Oprávnenou osobou Objednávateľa.
+
+6.3
+
+Objednávateľ je povinný zaplatiť za služby podľa bodu 3.3.2 Zmluvy odmenu vo výške
+939,- EUR bez DPH za jeden Človekodeň. Cena za konkrétnu službu Rozvoja TIS podľa bodu
+3.3.2 bude vypočítaná ako súčin Zmluvnými stranami odsúhlasenej prácnosti (potrebných
+Človekodní) pri poskytnutí služieb a ceny za 1 Človekodeň práce. Úhrada cien za služby podľa
+bodu 3.3.2 bude uskutočňovaná na základe faktúr vystavovaných Poskytovateľom po podpise
+Akceptačného protokolu konkrétnych služieb Rozvoja TIS poskytnutých podľa bodu 7.9 Zmluvy.
+Prílohou k faktúre musí byť kópia príslušného Akceptačného protokolu.
+
+6.4
+
+Splatnosť faktúr je tridsať (30) kalendárnych dní odo dňa preukázateľného doručenia príslušnej
+faktúry Objednávateľovi.
+
+6.5
+
+Ak faktúra neobsahuje zákonom alebo touto Zmluvou stanovené náležitosti alebo prílohy, alebo
+v nej nebudú správne uvedené údaje, je Objednávateľ oprávnený ju vrátiť Poskytovateľovi
+v lehote siedmich (7) kalendárnych dní po jej doručení, s uvedením chýbajúcich náležitosti alebo
+opravením nesprávnych údajov. V takom prípade sa prerušuje plynutie lehoty splatnosti a nová
+lehota začne plynúť doručením riadnej faktúry. Ak Objednávateľ faktúru vráti bezdôvodne, bez
+uvedenia chýb alebo po dohodnutom termíne, lehota splatnosti sa neprerušuje. Tým nie je
+dotknutá zákonná povinnosť Poskytovateľa dodať Objednávateľovi riadnu faktúru.
+
+6.6
+
+Ceny budú platené bankovým prevodom na účet Poskytovateľa uvedený vo faktúre. Cena sa
+považuje za zaplatenú dňom odpísania finančných prostriedkov z účtu Objednávateľa.
+
+6.7
+
+V prípade omeškania Objednávateľa s plnením jeho peňažných záväzkov má Poskytovateľ nárok
+na zaplatenie úroku z omeškania vo výške ustanovenej osobitným predpisom podľa ust. § 369
+ods. 2 Obchodného zákonníka za každý deň omeškania. Tým nie je dotknutý nárok Poskytovateľa
+na náhradu vzniknutej škody v plnej výške.
+
+7. SPÔSOB POSKYTOVANIA A PREVZATIA SLUŽIEB
+7.1
+
+Služby Podpory a údržby TIS sú definované v bode 3.3.1 a v Prílohách č. 2, 4 a 5.
+
+7.2 Služby Helpdesk Poskytovateľ zabezpečí v pracovných dňoch na telefónnom čísle .................
+v čase a spôsobom podľa Prílohy č. 2.
+7.3
+
+Poskytovateľ je povinný zabezpečiť Objednávateľovi prístup do CPZ. S ohľadom na to, že
+niektoré služby, poskytované podľa tejto Zmluvy, ako aj výkon niektorých práv Objednávateľa, sú
+realizované výhradne prostredníctvom CPZ, ako je špecifikované v tejto Zmluve, zaväzuje sa
+Objednávateľ pravidelne sledovať aktuálne informácie v CPZ, ktoré musí Poskytovateľ prepojiť
+s Helpdeskom Objednávateľa, tak aby bolo možné jednotlivé incidenty na strane Objednávateľa
+transformovať do CPZ Poskytovateľa bez nutnosti úprav systému HelpDesk nasadeného na
+strane Objednávateľa.
+
+7.4
+
+Pri poskytovaní servisných služieb podľa bodu 3.3.1 tejto SLA sa zaväzujú Zmluvné strany
+komunikovať prostredníctvom CPZ Poskytovateľa. Na uvedený účel je Poskytovateľ povinný
+umožniť prístup a využívanie CPZ, ktoré je Poskytovateľ povinný prepojiť so systémom HelpDesk
+Objednávateľa s oprávnením, ktoré bude vybraným osobám Objednávateľa, písomne oznámené.
+
+7.5
+
+Oprávnená osoba Objednávateľa zašle Poskytovateľovi prostredníctvom CPZ najneskôr 10
+kalendárnych dní pred začiatkom každého kalendárneho mesiaca Požiadavku na konkrétne
+služby Podpory a údržby TIS SVP, ktoré Objednávateľ požaduje v daný mesiac vykonať.
+Poskytovateľ je povinný najneskôr do 5 kalendárnych dní od doručenia Požiadavky predložiť v
+CPZ Objednávateľovi predpokladaný počet Človekodní potrebných na vykonanie jednotlivých
+požadovaných služieb. Na základe takto zaslanej predpokladanej prácnosti Oprávnená osoba
+Objednávateľa prostredníctvom CPZ potvrdí, ktoré služby Objednávateľ požaduje v danom
+kalendárnom mesiaci vykonať.
+Strana 6 z 29
+
+7.6
+
+Zmluvné strany sa dohodli, že pri riešení Incidentov/Problémov/Požiadaviek podľa bodu 3.3.2
+Zmluvy iných ako zadaných podľa bodu 7.5 Zmluvy sa zaväzujú dodržiavať nasledovný postup.
+7.6.1.
+Oprávnená osoba Objednávateľa nahlási Incident/Problém/Požiadavku vždy na
+CPZ na adrese www.support.visionit.sk, alebo e-mailom na adresu: ..........................
+a to bezodkladne po jej/jeho zistení, pričom Incident/Problém/Požiadavka musí byť
+konkrétne, nezameniteľne a zrozumiteľne špecifikovaný/á. V prípade doručenia
+neúplne alebo nesprávne vyplnených údajov bude Objednávateľ spätne kontaktovaný
+na
+doplnenie
+alebo
+opravenie
+údajov.
+Uskutočniť
+hlásenie
+Incidentu/Problému/Požiadavky môže výlučne Oprávnená osoba Objednávateľa
+určená v tejto Zmluve. V prípade hlásenia e-mailom Poskytovateľ takéto hlásenie
+zaeviduje v HelpDesk. Tento informačný systém vygeneruje identifikačné číslo
+Incidentu/Požiadavky/Problému.
+Akákoľvek
+budúca
+komunikácia
+medzi
+Poskytovateľom a Objednávateľom sa uskutočňuje použitím priradeného
+identifikačného čísla Incidentu/Požiadavky/Problému.
+7.6.2.
+Službukonajúci špecialista Poskytovateľa preverí Incident/Požiadavku/Problém
+a začne ich prešetrenie, podľa potreby kontaktuje Oprávnenú osobu Objednávateľa.
+Komunikácia pracovníka Poskytovateľa prebieha priamo s Oprávnenou osobou
+Objednávateľa. Službukonajúci špecialista Poskytovateľa oznámi výsledok prešetrenia
+a odporúčané riešenie Oprávnenej osobe Objednávateľa. Na základe výsledkov
+prešetrenia bude pokračovať riešenie Incidentu/Problému/Požiadavky.
+7.6.3.
+Incident/Problém/Požiadavka bude riešený na základe priority určenej dohodou
+Oprávnenej osoby Objednávateľa a Poskytovateľa podľa tabuľky č. 1 uvedenej
+v Prílohe č. 2 Zmluvy. Oprávnená osoba Objednávateľa má právo zmeniť poradie priorít
+riešenia otvorených Incidentov/Problémov/Požiadaviek po dohode s oprávneným
+zástupcom zo strany Poskytovateľa dokumentovateľným spôsobom. Nahlásené
+problémy riešia oprávnené osoby Poskytovateľa a Oprávnená osoba Objednávateľa
+priamou komunikáciou. Ak sa Zmluvné strany nedohodnú na priorite podľa prvej vety
+tohto bodu, prednosť má priorita určená Objednávateľom.
+7.6.4.
+Všetky
+vyriešené,
+alebo
+otvorené
+Incidenty/Problémy/Požiadavky
+Objednávateľa, poskytované Poskytovateľom podľa bodu 3.3.1 tejto SLA, budú
+evidované v CPZ a ich vyriešenie musí byť zaevidované v systéme CPZ. Zaevidovaním
+vyriešenia požiadavky Objednávateľa v CPZ sa bude požiadavka Objednávateľa
+považovať za splnenú a ukončenú, Objednávateľ je povinný potvrdiť vyriešenie
+Incidentu/Požiadavky/Problému najneskôr do 5 pracovných dní odo dňa jeho vyriešenia
+pokiaľ boli skutočne vyriešené, a to potvrdením riešenia Incidentu/Požiadavky/
+Problému priamo v systéme CPZ.
+7.6.5.
+Ak je súčasne riešená kritická a závažná úroveň Problému, tak ako sú
+vymedzené v tejto Zmluve, doba neutralizácie Závažného a Nekritického problému sa
+predlžuje o dobu riešenia Kritického problému, maximálne však o dobu neutralizácie
+Kritického problému definovaného v tab. č. 1. Prílohy č. 2 Zmluvy. Doba neutralizácie
+Kritického problému nie je ovplyvňovaná počtom otvorených Kritických problémov.
+7.6.6.
+Obidve strany považujú Incident/Problém v zmysle tejto Zmluvy za uzavretý za
+týchto okolnosti:
+7.6.6.1.
+Ak Poskytovateľ poskytne Objednávateľovi riešenie, ktoré
+neutralizuje nahlásený Incident/Problém a ktoré je konečné, čo
+Objednávateľ potvrdí v systéme CPZ
+7.6.6.2.
+Ak Poskytovateľ na základe prešetrenia zistil a Objednávateľovi
+oznámil, že:
+7.6.6.2.1. Incident/Problém spôsobili chyby HW a/alebo SW
+komponentov 3. strán, na ktoré sa táto Zmluva nevzťahuje,
+7.6.6.2.2. Incident/Problém vznikol nesprávnym používaním zo
+strany Objednávateľa,
+7.6.6.2.3. Incident/Problém
+vznikol
+nesprávnou
+alebo
+neautorizovanou modifikáciou HW infraštruktúry, HW
+komponentov, SW infraštruktúry alebo SW komponentu
+vykonanou Objednávateľom bez vedomia Poskytovateľa,
+
+Strana 7 z 29
+
+7.6.7.
+
+7.6.6.2.4. Incident/Problém vznikol nedodržaním odporúčaných
+postupov Objednávateľom uvedených v prevádzkovej
+dokumentácii preukázateľne dodanej Objednávateľovi,
+7.6.6.2.5. hlásený Incident/Problém je v rozpore s dodanou
+Dokumentáciou, mimo Funkčnej špecifikácie.
+Za dočasné odstránenie Incidentu/Problému sa považuje i náhradný spôsob vyriešenia
+Incidentu/ Problému s cieľom zabezpečiť prevádzkyschopnosť TIS SVP. Poskytovateľ
+je oprávnený dočasne odstrániť Incident/Problém aj tak, že navrhne postup, ktorým
+zamedzí prejavom Incidentu/Problému pri bežnej prevádzke, až do doby definitívneho
+odstránenia problému.
+
+7.7
+
+Poskytovateľ je povinný v lehote 5 kalendárnych dní po uplynutí každého kalendárneho mesiaca
+predložiť Objednávateľovi na odsúhlasenie mesačný výkaz vykonaných činností Podpory a
+údržby TIS SVP v danom mesiaci, ktorý bude zahŕňať všetky služby poskytnuté na základe
+bodu 7.5 a 7.6 Zmluvy. Oprávnená osoba Objednávateľa je povinná v lehote 5 kalendárnych dní
+od obdržania mesačného výkazu tento odsúhlasiť, alebo označiť, ktoré služby považuje za
+nevykonané a z akého dôvodu. Poskytovateľ je oprávnený vystaviť faktúru len za služby
+odsúhlasené Oprávnenou osobou Objednávateľa, resp. za služby neodsúhlasené bez uvedenia
+dôvodu neodsúhlasenia.
+
+7.8
+
+Rozvoj TIS SVP podl'a bodu 3.3.2 tejto Zmluvy vykoná Poskytovateľ na základe písomných
+Funkčných špecifikácií vyhotovených v rozsahu požiadaviek Objednávateľa doručených
+Poskytovateľovi prostredníctvom HelpDesk, prepojeného so systémom CPZ Poskytovateľa.
+
+7.9
+
+Zmluvné strany sa dohodli, že pri rozvoji TIS SVP podl'a bodu 3.3.2 sa zaväzujú dodržiavat'
+nasledovný postup:
+7.9.1. V prípade potreby zabezpečenia rozšírenia alebo zmeny funkcionality TIS SVP,
+Objednávateľ požiada Poskytovateľa formou požiadavky zaevidovanej v CPZ o návrh analýzy
+riešenia, odhad prácnosti a času, nevyhnutných na riešenie Požiadavky. Poskytovateľ
+vyhodnotí, či ide o zmenovú Požiadavku a
+7.9.1.1 ak ide o zmenovú Požiadavku, predloží spracované podklady Objednávateľovi na
+rozhodnutie o ďalšom postupe.
+7.9.1.2 ak nepôjde o zmenovú Požiadavku, zrealizuje Požiadavku v rámci servisnej činnosti
+podľa bodu 3.3.1 Zmluvy.
+7.9.2. Ak Objednávateľ na základe predložených podkladov vyhodnotí, že Požiadavku v takom
+rozsahu nebude realizovať, zaeviduje túto skutočnosť v CPZ ako uzavretú. V prípade, ak
+Objednávateľ na základe predložených podkladov vyhodnotí, že Požiadavku bude realizovať,
+Oprávnená osoba Objednávateľa v CPZ potvrdí predmet Požiadavky, rozsah a dobu plnenia.
+7.9.3. Na základe potvrdenej Požiadavky na Rozvoj TIS SVP je Poskytovateľ povinný v lehote tam
+uvedenej spracovať a predložiť Objednávateľovi na schválenie Funkčnú špecifikáciu s
+podrobným popisom riešenia, časovým harmonogramom implementácie požiadavky, uvedením
+ceny za navrhované riešenie a návrhom testovacích scenárov. Momentom schválenia Funkčnej
+špecifikácie Objednávateľom sa začína Implementácia navrhnutého riešenia. Výsledkom
+Implementácie je riadne a včas dodaná požadovaná funkcionalita, vrátane Dokumentácie a
+skompilovateľne komentované zdrojové kódy vrátane všetkých konfiguračných položiek
+systému.
+7.9.4. Odovzdanie a prebratie požadovanej funkcionality prebehne formou Akceptačného konania
+podľa tohto článku v súlade s Akceptačnými kritériami. Cieľom Akceptačného konania je
+porovnať skutočné vlastnosti dodanej funkcionality so schválenou Funkčnou špecifikáciou.
+Akceptačné konanie prebehne formou Akceptačného testovania podľa dohodnutých testovacích
+scenárov, ktoré vykonajú Objednávateľ a Poskytovateľ. Ak ktorákoľvek časť požadovanej
+funkcionality má na základe zistení z Akceptačných testov vady, je Objednávateľ povinný do
+troch (3) pracovných dní po dokončení príslušných Akceptačných testov doručiť Poskytovateľovi
+písomnú správu, v ktorej uvedie a popíše všetky zistené nedostatky. Poskytovateľ odstráni
+zistené vady bez zbytočného odkladu, prípadne v termínoch stanovených Objednávateľom.
+Akceptačné konanie bude vykonané znovu, ak požadovaná funkcionalita nespĺňa predpoklady
+pre nasadenie do produkčnej prevádzky. Tento proces testovania a následných opráv sa bude
+opakovať, pokiaľ nebudú odstránené všetky vady. Ak požadovaná funkcionalita splní podmienky
+prevzatia, Poskytovateľ sa zaväzuje v deň nasledujúci po ukončení Akceptačného konania
+umožniť Objednávateľovi prevziať ju predložením Akceptačného protokolu. Najneskôr spolu
+s predložením Akceptačného protokolu je Poskytovateľ povinný predložiť aj Dokumentáciu
+vzťahujúcu sa na danú funkcionalitu. Ak Dokumentácia obsahuje popis a detailnú špecifikáciu
+Strana 8 z 29
+
+všetkých rozšírených funkcionalít,Objednávateľ sa zaväzuje prevziať požadovanú funkcionalitu
+podpísaním Akceptačného protokolu najneskôr v lehote desať (10) pracovných dní odo dňa
+úspešného vykonania Akceptačného konania a predloženia Akceptačného protokolu a
+Dokumentácie. Akceptačný protokol je povinný predložiť Poskytovateľ, a to až po úspešnom
+vykonaní Akceptačného konania. Po podpísaní Akceptačného protokolu je Poskytovateľ
+povinný zabezpečiť prechod akceptovanej požadovanej funkcionality do produkčnej prevádzky.
+Podmienkou pre jej prechod do produkčnej prevádzky je súhlas a/alebo pokyn Objednávateľa s
+nasadením tejto funkcionality do produkčnej prevádzky.
+7.9.5. Poskytovateľ poskytuje na novú rozšírenú funkcionalitu záruku v trvaní 12 mesiacov odo
+dňa podpísania Akceptačného protokolu k danej funkcionalite.
+8. OSOBITNÉ USTANOVENIA
+8.1
+
+Zmluvné strany spoločne vyhlasujú, že sú si vedomé, že služby budú poskytované výhradne
+k APV, špecifikovanému v Prílohe č. 4 tejto Zmluvy,
+
+8.2
+
+Ak Poskytovateľ poskytne Objednávateľovi v rámci plnení tejto Zmluvy autorské dielo vo zmysle
+§ 3 zákona č. 185/2015 Z. z., o autorskom práve a právach súvisiacich s autorským právom
+(autorský zákon), v znení neskorších predpisov (ďalej len „Autorský zákon“), poskytuje
+Poskytovateľ Objednávateľovi k takému dielu licenciu, a to s účinnosťou odo dňa nasadenia diela
+do produkčnej prevádzky.
+
+8.3
+
+Licencie podľa tejto Zmluvy sa udeľujú ako výhradné, časovo, vecne a územne neobmedzené,
+a to v rozsahu majetkových práv autora, najmä avšak nielen na nasledovné používanie diela:
+8.3.1 vyhotovenie neobmedzeného množstva jeho rozmnoženín alebo zabezpečenie
+rozmnoženín technickými prostriedkami zvolenými podľa uváženia Objednávateľa,
+8.3.2 spojenie autorského diela s iným dielom,
+8.3.3 rozširovanie diela akýmkoľvek spôsobom, použitie a šírenie na akýchkoľvek nosičoch,
+8.3.4 jeho spracovanie, úpravy, adaptáciu a/alebo preklad (tak strojového ako aj zdrojového kódu),
+usporiadanie alebo iné spracovanie Objednávateľom alebo Objednávateľom poverenými tretími
+osobami, spôsobmi a za podmienok uvedených v Autorskom zákone,
+8.3.5 nainštalovanie a spustenie diela na akejkoľvek infraštruktúre
+8.3.6 poskytovanie sublicencií,
+8.3.7 kopírovanie alebo prekladanie akejkoľvek užívateľskej Dokumentácie poskytovanej
+v tlačenej podobe, online alebo v elektronickej forme,
+8.3.8 preinštalovanie diela,
+8.3.9 použitie diela alebo jeho časti na vytvorenie nového diela,
+8.3.10 integrovanie diela s ďalšími modulmi alebo iným dielom,
+8.3.11 zhotovenie záložných kópií diela.
+
+8.4
+
+Oprávnenie na výkon práva používať autorské dielo ako aj spracované a/alebo upravené a/alebo
+preložené autorské dielo v rozsahu a spôsobmi podľa tohto článku Zmluvy prechádza pri zániku
+Objednávateľa na jeho právneho nástupcu.
+
+8.5
+
+Autorské práva k autorskému dielu v prípade zániku Poskytovateľa prechádzajú v plnej miere na
+nástupnícky právny subjekt. Ak takýto subjekt v deň zániku Poskytovateľa nebude ustanovený
+alebo k takémuto dňu Poskytovateľ práva k autorskému dielu neprevedie na iný subjekt,
+prevádzajú sa autorské práva k autorskému dielu v plnej miere na Objednávateľa a to ku dňu
+zániku Poskytovateľa bez právneho nástupcu.
+
+8.6
+
+Poskytovateľ odškodní Objednávateľa za konanie tretích strán, v prípade že dodané dielo alebo
+jeho časti dodané Poskytovateľom predstavujú porušenie patentových, autorských databázových
+práv, práv na výkresy alebo úžitkové vzory, obchodného tajomstva alebo zásah do vlastníckych
+práv tretej strany.
+
+8.7
+
+Poskytovateľ týmto potvrdzuje, že je oprávnený poskytnúť Objednávateľovi oprávnenia a súhlasy
+v zmysle vyššie uvedených bodov tohto článku a tým nedochádza k porušeniu práv tretích osôb.
+
+8.8
+
+Poskytovateľ je povinný dodať každé dielo (funkcionalitu) podľa tejto Zmluvy bez právnych vád.
+Právne
+vady
+predstavujú
+práva
+tretích
+osôb,
+ktoré
+akýmkoľvek
+spôsobom
+znemožňujú/obmedzujú Objednávateľovi užívať dielo v súlade s touto Zmluvou. V prípade, že
+dielo (funkcionalita) dodaná Poskytovateľom má právne vady, Poskytovateľ je povinný uhradiť
+Strana 9 z 29
+
+Objednávateľovi všetky náklady, ktoré Objednávateľovi v dôsledku tejto skutočnosti vznikli,
+vrátane účelne vynaložených trov právneho zastúpenia.
+8.9
+
+Poskytovateľ je pred podpisom Akceptačného protokolu pri dodaní autorského diela podľa tohto
+článku povinný dodať Objednávateľovi najaktuálnejšiu verziu komentovaných zdrojových kódov
+a dátového modelu diela (ďalej aj „Zdrojové kódy“), na ktoré sa vzťahuje licencia podľa tohto
+článku, a to nasadením diela do produkčnej prevádzky. Objednávateľ je oprávnený bez
+akéhokoľvek časového alebo vecného obmedzenia uvedené Zdrojové kódy použiť (vrátane
+možnosti ich dekompilácie a akýchkoľvek iných spôsobov úpravy). Objednávateľ sa zaväzuje
+poskytnuté Zdrojové kódy nemodifikovať počas platnosti a účinnosti tejto Zmluvy.
+
+8.10 V prípade, ak je súčasťou vytvorenia diela dodávka štandardného softvéru tretích strán (tzv.
+podporný softvér) a/alebo databázy (softvér/databáza, ktoré neboli vyvinuté za účelom plnenia
+tejto Zmluvy), Poskytovateľ sa zaväzuje zabezpečiť pre Objednávateľa časovo neobmedzenú
+licenciu na použitie takéhoto softvéru/databázy vo forme, v ktorej túto licenciu poskytuje výrobca
+a/alebo distribútor tohto softvéru/databázy v rámci celkovej ceny predmetu Zmluvy.
+8.11 Objednávateľ je oprávnený používať softvér tretích strán v súlade s licenčnými podmienkami
+výrobcu tohto softvéru.
+8.12 Cena za licencie na používanie diela a podporného softvéru je zahrnutá v cene za Rozvoj TIS
+SVP.
+8.13 Poskytovateľ je poskytovateľom servisných služieb, údržby a podpory ako autorizovaný partner
+spoločnosti ESRI, ktorý je uvedený v zozname distribútorov výrobcu (http://www.esri.com/aboutesri/contact) pre IS, ktoré zahŕňajú aj ukladanie, spracovanie a vizualizáciu priestorových dát. Ak
+poskytovateľ nie je uvedený v zozname distribútorov výrobcu (http://www.esri.com/aboutesri/contact), bude verejný obstarávateľ vyžadovať predloženie dokladu preukazujúceho
+oprávnenie poskytovať plnenia podľa tejto zmluvy. Poskytovateľ je oprávnený na splnenie vyššie
+uvedeného použiť tretiu stranu, ktorá je uvedená v zozname distribútorov výrobcu
+(http://www.esri.com/about-esri/contact).
+9. PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+9.1
+
+Poskytovateľ sa touto Zmluvou zaväzuje:
+9.1.1
+vykonávať plnenia podľa tejto Zmluvy s odbornou starostlivosťou, riadne a včas, a to za
+predpokladu poskytnutia potrebnej súčinnosti Objednávateľa a včasného plnenia ďalších
+záväzkov Objednávateľa, pokiaľ sú tieto objektívne nevyhnutné pre plnenie záväzkov
+Poskytovateľa;
+9.1.2 poskytovať servisné služby Podpory a údržby TIS SVP spôsobom a v termínoch
+dohodnutých v tejto Zmluve;
+9.1.3 poskytovať služby Rozvoja TIS SVP spôsobom a v termínoch určených touto Zmluvou alebo
+dohodnutých spôsobom uvedeným v tejto Zmluve;
+9.1.4 poskytovať servisné služby podľa tejto Zmluvy prostredníctvom konkrétnych expertov,
+ktorými preukazoval splnenie podmienok účasti vo verejnom obstarávaní, ktorého výsledkom je
+táto Zmluva. Zmena experta je možná výlučne na základe predchádzajúceho písomného
+súhlasu Objednávateľa s touto zmenou. Poskytovateľ je povinný spolu so žiadosťou o zmenu
+v osobe experta predložiť Objednávateľovi doklady nahradzujúceho experta, z ktorých bude
+zrejmé, že nahradzujúci expert spĺňa podmienky účasti tejto osoby stanovené vo verejnom
+obstarávaní.;
+9.1.5 pri vykonávaní prác v sídle Objednávateľa dodržiavať predpisy o ochrane bezpečnosti práce
+a zdravia pri práci, požiarnej ochrany, hygieny práce a životného prostredia;
+9.1.6 zaistiť, aby jeho pracovníci dodržiavali všetky interné predpisy Objednávateľa, s ktorými boli
+Objednávateľom vopred oboznámení;
+9.1.7 chrániť práva duševného vlastníctva Objednávateľa ako aj práva tretích osôb, ktoré by mohli
+byť plnením Zmluvy dotknuté.
+
+9.2
+
+Objednávateľ sa touto Zmluvou zaväzuje
+9.2.1 spolupracovať s Poskytovateľom pri plnení tejto Zmluvy, najmä mu s dostatočným
+predstihom poskytovať potrebnú súčinnosť, úplné, pravdivé a včasné informácie potrebné pre
+riadne plnenie záväzkov Poskytovateľa, spočívajúce najmä v popise vady, a spôsobe ktorým sa
+Strana 10 z 29
+
+vada prejavuje, ako aj v iných špecifikáciách, ktoré sú nevyhnutné pre identifikáciu
+a odstránenie vád, pokiaľ si Poskytovateľ takúto špecifikáciu vyžiada,
+9.2.2 umožniť Poskytovateľovi a jeho pracovníkom prístup k vlastnému programovému vybaveniu
+a k automatizovanému i neautomatizovanému informačnému systému v rozsahu nevyhnutnom
+pre riadne plnenie záväzkov Poskytovateľa podľa tejto Zmluvy,
+9.2.3 zaistiť súčinnosť tretích osôb – externých partnerov ako aj ďalších poskytovateľov
+Objednávateľa, ak je to potrebné pre riadne plnenie záväzkov Poskytovateľa podľa tejto Zmluvy,
+9.2.4 pri vykonávaní prác zamestnancami Poskytovateľa v sídle Objednávateľa a na jeho
+pracoviskách zabezpečiť v zmysle § 6 ods. 4 a nadväzne na § 7 ods. 6 písm. a) až c) zákona
+NR SR č. 124/2006 Z. z., aby zamestnanci Poskytovateľa dostali potrebné pokyny pre
+bezpečnosť a na ochranu zdravia pri práci platné pre jeho pracoviská a informácie o možných
+ohrozeniach, preventívnych opatreniach, opatreniach na poskytnutie prvej pomoci, na
+vykonanie záchranných prác a na evakuáciu osôb,
+9.2.5 vytvoriť podmienky pre bezpečnosť a na ochranu zdravia pri práci a v prípade, že
+zamestnanec Poskytovateľa utrpí na pracovisku Objednávateľa pracovný úraz postupovať v
+zmysle § 17 ods. 6 zákona NR SR č. 124/2006 Z. z. v znení neskorších predpisov.
+10. SANKCIE A ZODPOVEDNOSŤ ZA ŠKODU
+10.1 Pre prípad porušenia povinnosti Poskytovateľa odstrániť riadne nahlásený Incident v termíne
+uvedenom v Prílohe č. 2 Zmluvy je Poskytovateľ povinný zaplatiť Objednávateľovi zmluvnú
+pokutu
+10.1.1 vo výške 1.000,- EUR za každý čo i len začatý kalendárny deň porušovania tejto zmluvnej
+povinnosti v prípade každého jednotlivého Kritického incidentu,
+10.1.2 vo výške 500,- EUR za každý čo i len začatý kalendárny deň porušovania tejto zmluvnej
+povinnosti v prípade každého jednotlivého Závažného incidentu.
+10.2 Pre prípad porušenia povinnosti Poskytovateľa vykonať riadne a včas ktorúkoľvek službu Údržby
+a podpory TIS SVP požadovanú a potvrdenú Objednávateľom podľa bodu 7.5 Zmluvy je
+Poskytovateľ povinný zaplatiť Objednávateľovi zmluvnú pokutu vo výške 1.000,- EUR za každý
+čo i len začatý kalendárny deň porušovania tejto zmluvnej povinnosti v prípade každého
+jednotlivého porušenia.
+10.3 Pre prípad porušenia povinnosti Poskytovateľa poskytnúť služby Rozvoja TIS SVP v termíne,
+v rozsahu a špecifikácii uvedených vo Funkčnej špecifikácii podľa bodu 7.9.3 potvrdenej oboma
+Zmluvnými stranami, je Poskytovateľ povinný zaplatiť Objednávateľovi zmluvnú pokutu vo výške
+0,05 % z ceny príslušnej služby určenej vo Funkčnej špecifikácii a to za každý aj začatý
+kalendárny deň porušovania tejto zmluvnej povinnosti.
+10.4 Pre prípad porušenia povinnosti Poskytovateľa dodať novú funkcionalitu, ktorá je autorským
+dielom, bez právnych vád podľa bodu 8.8 Zmluvy, je Poskytovateľ povinný zaplatiť
+Objednávateľovi zmluvnú pokutu vo výške 50.000,- EUR za každú jednotlivú právnu vadu.
+10.5 Pre prípad porušenia povinnosti Poskytovateľa podľa bodu 9.1.4 Zmluvy je Poskytovateľ povinný
+zaplatiť Objednávateľovi zmluvnú pokutu vo výške 2.500,- EUR za každé jednotlivé porušenie.
+10.6 Zmluvná pokuta je splatná najneskôr 5. pracovný deň odo dňa doručenia sankčnej faktúry
+Poskytovateľovi.
+10.7 Objednávateľ je oprávnený nie však povinný si svoj nárok na zaplatenie zmluvnej pokuty uplatniť.
+Zaplatením zmluvnej pokuty nie je dotknuté právo Objednávateľa na náhradu škody, ktorá mu
+vznikne porušením zabezpečovanej povinnosti zo strany Poskytovateľa.
+10.8 Objednávateľ má nárok na náhradu škody v celom jej rozsahu (a teda aj škody presahujúcej
+zmluvnú pokutu), ktorá vznikla v dôsledku porušenia povinnosti Poskytovateľa zabezpečenej
+zmluvnou pokutou.
+10.9 Poskytovateľ zodpovedá v plnom rozsahu za škodu, ktorá vznikla Objednávateľovi v dôsledku
+alebo v súvislosti s porušením jeho povinností podľa tejto Zmluvy, a to najmä nie však výlučne za
+škodu, ktorá vznikla Objednávateľovi v dôsledku toho, že Poskytovateľ neposkytol služby v súlade
+s touto Zmluvou a s odbornou starostlivosťou.
+10.10 Poskytovateľ nenesie zodpovednosť za nároky tretích osôb uplatnené voči Objednávateľovi
+týkajúce sa porušenia práv duševného vlastníctva, ktoré vznikli následkom:
+Strana 11 z 29
+
+10.10.1. dodržania návrhov, parametrov alebo pokynov Objednávateľa, na ktorých nesprávnosť
+Objednávateľa vopred písomne upozornil,
+10.10.2. použitia technických informácií alebo technológií dodaných Objednávateľom,
+10.10.3. modifikácií TIS SVP Objednávateľom alebo treťou osobou so súhlasom alebo a pokyn
+Objednávateľa.
+11. UZATVÁRANIE ZMLÚV SO SUBDODÁVATEĽMI
+11.1
+Ak Poskytovateľ nepredložil v procese verejného obstarávania Objednávateľovi (ako verejnému
+obstarávateľovi) žiadny zoznam subdodávateľov, prostredníctvom ktorých má v úmysle poskytnúť
+plnenie podľa tejto Zmluvy alebo jeho časť, je povinný poskytnúť všetky plnenia podľa tejto Zmluvy
+osobne.
+11.2
+Ak Poskytovateľ predložil v procese verejného obstarávania Objednávateľovi (ako verejnému
+obstarávateľovi) zoznam subdodávateľov, prostredníctvom ktorých má v úmysle poskytnúť plnenie
+podľa tejto Zmluvy alebo jeho časť, je povinný použiť na plnenie podľa tejto Zmluvy výlučne
+subdodávateľov uvedených v zozname a odsúhlasených Objednávateľom.
+11.3
+Po predchádzajúcom písomnom súhlase Objednávateľa môže Poskytovateľ na poskytnutie
+plnenia podľa tejto Zmluvy použiť iných subdodávateľov než subdodávateľov uvedených v zozname
+subdodávateľov, ak sú títo zapísaní v registri partnerov verejného sektora podľa § 11 Zákona
+o verejnom obstarávaní, pokiaľ im v súlade so zákonom číslo 315/2016 Z. z o registri partnerov
+verejného sektora a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, vznikla
+povinnosť byť zapísaní v registri partnerov verejného sektora.
+11.4
+Za účelom zmeny v osobe subdodávateľa je Poskytovateľ povinný doručiť Objednávateľovi
+žiadosť o zmenu v zozname subdodávateľov, ktorá musí obsahovať:
+11.4.1 identifikačné údaje navrhovaného subdodávateľa, ktorý by mal poskytnúť plnenie podľa
+Zmluvy alebo jeho časť,
+11.4.2 podiel plnenia Zmluvy, ktorý má Poskytovateľ v úmysle zabezpečiť prostredníctvom
+subdodávateľa,
+11.4.3 ak sa navrhovaným subdodávateľom nahrádza už schválený subdodávateľ, identifikačné
+údaje nahradeného subdodávateľa.
+11.5
+Každá žiadosť podľa bodu 11.4 Zmluvy musí byť Objednávateľovi odovzdaná včas tak, aby
+nezdržiavala plnenie podľa tejto Zmluvy a to najneskôr 5 kalendárnych dní pred navrhovanou
+zmenou subdodávateľa (podpísaním zmluvy so subdodávateľom).
+11.6
+Objednávateľ je povinný vyjadriť sa k žiadosti podľa bodu 11.3 Zmluvy s uvedením, či so
+zmenou súhlasí alebo nie najneskôr do 3 pracovných dní odo dňa jej doručenia. Ak Objednávateľ
+nesúhlasí so zmenou v zozname subdodávateľov, je povinný tento nesúhlas písomne zdôvodniť s
+uvedením konkrétnych dôvodov, pre ktoré s navrhovanou zmenou nesúhlasí.
+11.7
+Ak sa Objednávateľ v lehote podľa bodu 11.6 Zmluvy nevyjadrí, predpokladá sa, že
+s navrhovanou zmenou zoznamu subdodávateľov súhlasí. Uvedené ustanovenie Zmluvy neplatí,
+ak subdodávateľ nie je zapísaný v registri partnerov verejného sektora podľa § 11 Zákona
+o verejnom obstarávaní napriek tomu, že subdodávateľ má povinnosť byť v tomto registri zapísaný.
+11.8
+
+Objednávateľ je oprávnený odmietnuť najmä tých subdodávateľov,
+11.8.4 v súvislosti s ktorými sú mu známe prípady, keď nedodržali svoje záväzky,
+11.8.5 ktorých finančné a technické postavenie spoľahlivo negarantuje plnenie záväzkov zo
+Zmluvy.
+
+11.9
+Poskytovateľ je povinný písomne oznámiť Objednávateľovi uzatvorenie subdodávateľských
+zmlúv so subdodávateľmi najneskôr do 20 kalendárnych dní odo dňa uzavretia príslušnej
+subdodávateľskej zmluvy ako aj ich prípadných dodatkov.
+11.10 Poskytovateľ je povinný zabezpečiť, aby v subdodávateľských zmluvách bolo dostatočne
+ošetrené, aby subdodávateľ mohol poskytnúť plnenie podľa tejto Zmluvy alebo jeho časť
+prostredníctvom ďalšieho subdodávateľa len na základe písomného súhlasu Objednávateľa
+postupom podľa tohto článku Zmluvy.
+11.11 Na základe písomnej žiadosti Objednávateľa je Poskytovateľ povinný najneskôr do 3
+pracovných dní odo dňa doručenia žiadosti odovzdať Objednávateľovi kópiu každej uzatvorenej
+Strana 12 z 29
+
+subdodávateľskej zmluvy v znení jej prípadných dodatkov. Poskytovateľ je v takomto prípade
+oprávnený nesprístupniť Objednávateľovi údaje o výške odmeny za poskytnuté plnenie, ktorú je
+Poskytovateľ povinný uhradiť subdodávateľovi. Objednávateľ sa zaväzuje nesprístupniť
+subdodávateľské zmluvy poskytnuté Poskytovateľom tretím osobám a zaväzuje sa dodržať
+obchodné tajomstvo v nich uvedené. Za týmto účelom je Poskytovateľ povinný písomne upozorniť
+Objednávateľa na ustanovenia, ktoré sú obchodným tajomstvom.
+11.12 Zmluvné strany vyhlasujú, že odsúhlasenie výberu subdodávateľov Objednávateľom alebo
+poskytnutie plnenia podľa tejto Zmluvy alebo jeho časti subdodávateľom žiadnym spôsobom
+nezbavuje Poskytovateľa záväzkov a povinností vyplývajúcich mu zo Zmluvy a Poskytovateľ je
+zodpovedný za plnenie subdodávateľov, ako by plnil sám.
+11.13 Pre odstránenie pochybností Zmluvné strany vyhlasujú, že Poskytovateľ je povinný postupovať
+podľa tohto článku Zmluvy aj v prípade, ak v priebehu verejnej súťaže nepredložil Objednávateľovi
+žiadny zoznam subdodávateľov resp. tvrdil, že plnenie podľa tejto Zmluvy poskytne osobne
+a následne vznikla potreba poskytnúť plnenie alebo jeho časť subdodávateľom.
+11.14 Zmluvné strany podpisom tejto Zmluvy potvrdzujú, že Poskytovateľ pred uzatvorením tejto
+Zmluvy predložil Objednávateľovi zoznam subdodávateľov, ktorý tvorí prílohu tejto Zmluvy.
+12. OCHRANA DȎVERNÝCH INFORMÁCIÍ
+12.1 Zmluvné strany sú povinné zaistiť utajenie získaných Dôverných informácií spôsobom obvyklým
+pre utajovanie takýchto informácií, ak nie je výslovne dojednané inak. Táto povinnosť platí bez
+ohľadu na ukončenie platnosti a účinnosti tejto Zmluvy. Zmluvné strany sú povinné zaistiť utajenie
+Dôverných informácií aj u svojich pracovníkov, zástupcov, ako aj iných spolupracujúcich tretích
+strán, pokiaľ im takéto informácie boli poskytnuté.
+12.2 Dôverné informácie poskytnuté, odovzdané, oznámené, sprístupnené a/alebo akýmkoľvek iným
+spôsobom získané jednou Zmluvnou stranou od druhej Zmluvnej strany na základe a/alebo
+v akejkoľvek súvislosti s touto Zmluvou môžu byť použité výhradne na účely plnenia predmetu
+tejto Zmluvy a v súlade s predpismi, ktoré upravujú nakladanie s takýmito údajmi. Zmluvné strany
+sa zaväzujú dôverné informácie ako aj všetky informácie poskytnuté, odovzdané, oznámené,
+sprístupnené a/alebo akýmkoľvek iným spôsobom získané Zmluvnými stranami na základe tejto
+Zmluvy a/alebo v akejkoľvek súvislosti s ňou udržiavať v prísnej tajnosti, zachovávať o nich
+mlčanlivosť a chrániť ich pred zneužitím poškodením, zničením, znehodnotením, stratou
+a odcudzením, a to i po ukončení platnosti a účinnosti tejto Zmluvy. Zmluvná strana nie je
+oprávnená bez predchádzajúceho písomného súhlasu druhej Zmluvnej strany dôverné informácie
+poskytnúť, odovzdať, oznámiť, sprístupniť zverejniť, publikovať, rozširovať, vyzradiť ani použiť
+inak než na účely plnenia predmetu tejto Zmluvy, a to ani po ukončení platnosti a účinnosti tejto
+Zmluvy, s výnimkou prípadu ich poskytnutia/odovzdania/oznámenia/sprístupnenia:
+12.2.1. odborným poradcom Zmluvnej strany (vrátane právnych, účtovných, daňových a iných
+poradcov, alebo audítorov), ktorí sú buď viazaní všeobecnou profesionálnou povinnosťou
+mlčanlivosti stanovenou alebo uloženou zákonom alebo sú povinní zachovávať mlčanlivosť na
+základe písomnej dohody so Zmluvnou stranou,
+12.2.2. ovládanej osobe Zmluvnej strany; ovládajúcej osobe Zmluvnej strany; osobe, vo vzťahu ku
+ktorej má ovládajúca osoba Zmluvnej strany postavenie ovládanej osoby alebo podobné
+postavenie; a osobe, v ktorej má ovládajúca osoba Zmluvnej strany postavenie ovládajúcej
+osoby alebo podobné postavenie, pričom uvedené osoby budú mať vo vzťahu k ochrane
+dôverných informácií rovnaké povinnosti ako Zmluvné strany,
+12.2.3. subdodávateľom, ak sa subdodávateľ podieľa na plnení podľa tejto Zmluvy, a ak je to
+potrebné pre účely plnenia povinností Poskytovateľa podľa tejto Zmluvy, pričom subdodávateľ
+musí byť viazaný minimálne rovnakým rozsahom povinností vo vzťahu k ochrane Dôverných
+informácií, ako sú viazané Zmluvné strany podľa tejto Zmluvy,
+12.2.4. na základe povinnosti stanovenej zákonom, rozhodnutím súdu, prokuratúry alebo iného
+oprávneného orgánu verejnej moci, pričom v tomto prípade Zmluvná strana, ktorá je povinná
+informácie sprístupniť
+12.3 Povinnosť Zmluvných strán zachovávať mlčanlivosť o dôverných informáciách sa nevzťahuje na
+informácie, ktoré;
+12.3.1. boli zverejnené už pred podpisom tejto Zmluvy, čo musí byť preukázateľné na základe
+poskytnutých podkladov, ktoré túto skutočnosť dokazujú,
+Strana 13 z 29
+
+12.3.2. sa stanú všeobecne a verejne dostupné po podpise Zmluvy z iného dôvodu ako z dôvodu
+porušenia povinností podľa Zmluvy, čo musí byť preukázateľné na základe poskytnutých
+podkladov, ktoré táto skutočnosť dokazujú,
+12.3.3. boli vyvinuté Zmluvnou stranou nezávisle na informáciách získaných od druhej Zmluvnej
+strany, boli získané Zmluvnou stranou od tretej strany, ktorá ich legitímne získala alebo vyvinula
+a ktorá nemá žiadnu povinnosť, ktorá by obmedzovala ich zverejňovanie.
+12.4 Zmluvné strany sú povinné zaistiť utajenie Dôverných informácií aj u svojich zamestnancov,
+zástupcov, ako aj iných spolupracujúcich tretích strán, pokiaľ im takéto informácie boli poskytnuté.
+13. RIEŠENIE SPOROV
+13.1 Zmluvné strany sa zaväzujú, že vyvinú maximálne úsilie k odstráneniu prípadných sporov
+vyplývajúcich z tejto Zmluvy vzájomnou dohodou.
+13.2 Všetky spory, ktoré vzniknú z tejto Zmluvy, vrátane sporov o jej platnosť, výklad alebo zrušenie,
+budú riešené príslušným všeobecným súdom Slovenskej republiky.
+14. TRVANIE ZMLUVY
+14.1 Táto Zmluva nadobúda platnosť dňom podpisu obidvoma Zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni zverejnenia Zmluvy v Centrálnom registri zmlúv. Táto Zmluva je povinne
+zverejňovanou zmluvou podľa § 5a zákona 211/2000 Z. z. o slobodnom prístupe k informáciám
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Zmluvné strany berú na
+vedomie a súhlasia s tým, že táto Zmluva vrátane jej súčastí a príloh bude zverejnená
+v Centrálnom registri zmlúv
+14.2 Zmluva sa uzatvára na dobu určitú na obdobie 48 mesiacov odo dňa nadobudnutia účinnosti
+Zmluvy alebo do vyčerpania finančného limitu 5.600.000,- EUR bez DPH (slovom:
+päťmiliónovšesťstotisíc eur), a to podľa toho, ktorá z týchto skutočností nastane skôr.
+14.3 Túto Zmluvu je možné ukončiť písomnou výpoveďou Objednávateľa aj bez udania dôvodu, a to k
+poslednému dňu príslušného kalendárneho roka. Výpoveď musí byť doručená druhej Zmluvnej
+strane najmenej tri mesiace pred skončením príslušného kalendárneho roka.
+14.4 Ktorákoľvek Zmluvná strana môže odstúpiť od tejto Zmluvy z dôvodu podstatného porušenia
+záväzku druhej Zmluvnej strany.
+14.5 Za podstatné porušenie záväzku sa považuje najmä omeškanie s plnením záväzku Zmluvnej
+strany, ktoré trvá po dobu viac ako tridsať (30) kalendárnych dní, ak povinná Zmluvná strana
+nezjedná nápravu ani v dodatočnej lehote, ktorú jej poskytne oprávnená Zmluvná strana
+v písomnom oznámení, v ktorom špecifikuje porušenie záväzku, ktorého sa dovoláva. Taká
+primeraná lehota nesmie byť kratšia ako pätnásť (15) kalendárnych dní.
+14.6 Odstúpenie od Zmluvy ani jej výpoveď nemajú vplyv na plnenie Poskytovateľa, ktoré bolo riadne
+odovzdané a bolo aj prijaté alebo malo a mohlo byť prijaté pred nadobudnutím účinnosti
+odstúpenia. Odstúpenie od Zmluvy sa netýka autorských práv k dielu dodanému na základe tejto
+Zmluvy, ktoré zostávajú zachované. Odstúpením ani výpoveďou nie je dotknutý ani nárok
+Poskytovateľa na zaplatenie ceny za také plnenie podľa tejto Zmluvy ako aj na zaplatenie
+prípadného úroku z omeškania podľa tejto Zmluvy.
+15. ZÁVEREČNÉ USTANOVENIA
+15.1 Táto Zmluva predstavuje úplnú dohodu Zmluvných strán o predmete tejto Zmluvy .
+15.2 Táto Zmluva môže byť menená a dopĺňaná iba dohodou obidvoch Zmluvných strán, a to vo forme
+písomných dodatkov, ak nie je v konkrétnom prípade výslovne stanovené inak.
+15.3 Pokiaľ by sa ktorékoľvek ustanovenie tejto Zmluvy ukázalo ako neplatné či nevymáhateľné alebo
+sa takým počas trvania účinnosti tejto Zmluvy stalo, nemá taká skutočnosť vplyv na ostatné
+ustanovenia, ak nestanoví inak donucujúce ustanovenie zákona. Zmluvné strany sa zaväzujú
+také ustanovenie nahradiť platným a vymáhateľným ustanovením, ktoré je svojím obsahom
+pôvodnému ustanoveniu najbližšie.
+15.4 Práva a povinnosti Zmluvných strán neupravené touto Zmluvou sa riadia právnymi predpismi
+Slovenskej republiky.
+15.5 Neoddeliteľnou súčasťou Zmluvy sú tieto Prílohy:
+Strana 14 z 29
+
+
+
+
+
+
+
+
+Príloha č. 1
+Príloha č. 2
+Príloha č. 3
+Príloha č. 4
+a údržba
+Príloha č. 5
+Príloha č. 6
+
+Návrh na plnenie kritérií
+Špecifikácia služieb podľa bodu 3.3.1
+Vzor Akceptačného protokolu služieb
+Zoznam a rozsah modulov TIS SVP, pre ktoré je poskytovaná servisná podpora
+Technická špecifikácia
+Zoznam subdodávateľov
+
+15.6 Táto Zmluva je uzatvorená v piatich (5) rovnopisoch, z ktorých Poskytovateľ obdrží dva (2)
+a Objednávateľ tri (3).
+15.7 Zmluvné strany prehlasujú, že si túto Zmluvu prečítali, že s jej obsahom súhlasia a na dôkaz toho
+k nej pripojujú svoje podpisy.
+Poskytovateľ:
+V Bratislave dňa
+
+Vision IT Solutions, a.s.
+Mgr. Ing. Gabriel Herbrik
+predseda predstavenstva
+
+Objednávateľ:
+V Banskej Štiavnici dňa
+
+SLOVENSKÝ VODOHOSPODÁRSKY
+PODNIK, štátny podnik
+Ing. Stanislav Gáborík
+generálny riaditeľ
+
+Strana 15 z 29
+
+Príloha č. 1
+
+Návrh na plnenie kritérií
+Cenová kalkulácia za servisné služby (Údržba, podpora a rozvoj TIS SVP)
+Spôsob určenia ceny pre uplatnenie kritéria: Najnižšia cena v EUR bez DPH
+
+Popis služby
+
+Merná jednotka
+
+Cena za mernú
+jednotku EUR
+bez DPH
+
+A
+
+B
+
+C
+
+D
+
+E
+
+CxE
+
+DxE
+
+Človekodeň
+
+939,00
+
+1126,80
+
+5600
+
+5 258 400,00
+
+6 310 080,00
+
+Údržba a podpora
+TIS SVP, Rozvoj TIS
+1 SVP (48 mesiacov)
+
+Cena za mernú
+jednotku EUR s
+DPH
+
+Počet jednotiek
+
+Celková cena
+EUR bez DPH
+
+Celková cena
+EUR s DPH
+
+Spolu cena za predmet zákazky
+
+Pre spôsob určenia ceny verejný obstarávateľ uvádza minimálny počet človekodní pre Podporu a údržbu
+TIS SVP a pre Rozvoj TIS SVP, ktoré budú poskytované priebežne na základe aktuálnych požiadaviek
+verejného obstarávateľa počas trvania zmluvy a sú zo strany Poskytovateľa služby nenárokovateľné.
+
+Strana 16 z 29
+
+Príloha č. 2
+
+Špecifikácia služieb podľa bodu 3.3.1
+Poskytovateľ sa zaväzuje poskytovať služby Podpory a Údržby TIS SVP pre Objednávateľa za
+účelom zabezpečenia garantovanej spoľahlivosti a stabilnosti TIS SVP jeho užívateľom tak, aby
+bola zaistená požadovaná úroveň dostupnosti služieb, rýchle odstránenie prípadných
+problémov bez negatívneho dopadu na procesy fungovania organizácie.
+1. Údržba a podpora pre TIS SVP v rozsahu:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+činnosti predpísanej údržby činností definovaných dokumentáciou aplikácií,
+kompletnej starostlivosti o aplikačné prostredie (funkcionalita, dizajn),
+riešenie problémov s jednotlivými modulmi TIS SVP v spolupráci s modulovými, sieťovými,
+hardwérovými a databázovými špecialistami od inicializácie problému po odsúhlasenie
+používateľom modulu (aplikácie),
+riadenie komunikácie kľúčových a koncových užívateľov s aplikačnými špecialistami
+Poskytovateľa pri riešení Incidentov a Problémov ,
+spolupráca na testovaní a nasadzovaní nových verzií aplikácií, respektíve pri nevyhnutnej
+parametrizácii,
+manažment zmien vo všetkých prostrediach modulov TIS SVP,
+zosúladenie požiadaviek bezpečnostnej politiky a aplikačných nastavení,
+manažment aktualizácií dokumentácie a príručiek ,
+spolupráca pri riešení úloh interoperability jednotlivých aplikácií,
+spolupráca s externými subjektmi vyžadujúcimi informácie o rozhraniach a nastaveniach na
+základe potvrdenej žiadosti,
+monitoring prevádzky a ladenie výkonnostných parametrov s cieľom zefektívniť a zrýchliť
+spracovanie on-line dotazov a dávkových úloh. Činnosti údržby vykonávané na základe
+identifikácie neštandardných stavov,
+zálohovanie a monitoring záloh jednotlivých modulov TIS SVP,
+činnosti podpory a údržby rozšírených funkcionalít TIS SVP, ktoré budú počas trvania tejto
+Zmluvy implementované na základe Požiadaviek objednávateľa podľa tejto Zmluvy.
+
+2. Podpora k APV TIS bude zabezpečovaná v týchto úrovniach:
+a) Helpdesk
+Poskytnutie odpovede cez Call centrum v čase od 8,00-16,00 v pracovných dňoch na otázky
+týkajúce sa problémových situácií vzniknutých pri používaní TIS SVP, tzn. k obsluhe, k
+problémovým stavom, k správaniu sa TIS SVP v rozpore s opisom v programovej Dokumentácii
+v časovom priestore 60 minút. Prijatie a vyriešenie nahlásených problémov a reklamácií.
+b) Údržba
+Poskytovanie aktuálnych verzií TIS SVP so zapracovanými zmenami právnych predpisov
+súvisiacich s funkciami TIS SVP („legislatívne zmeny“).
+Poskytovanie verzií TIS SVP s jeho optimalizovanými funkciami, ak k takej optimalizácii dôjde
+počas poskytovania podpory k APV.
+Poskytnutie verzií TIS SVP s rozšírenou funkcionalitou všeobecného charakteru, ak k takému
+rozšíreniu dôjde počas poskytovania podpory ku TIS SVP.
+Poskytnutie aktualizovaných verzií APV reflektujúcich vývoj v oblasti informačných technológií,
+ak k takej aktualizácii dôjde počas poskytovania podpory k APV.
+Distribúcia upravených verzií TIS SVP v zmysle predchádzajúceho bodu. Distribúcia
+upravených verzií APV sa vykonáva prostredníctvom zverejnenia na CPZ, pričom bude
+umožnené Zákazníkovi stiahnutie upravenej verzie APV na vlastné médium a jej inštalácia.
+c) Služby Centra podpory zákazníka (CPZ - internetovej aplikácie s webovým rozhraním, ktorá
+umožňuje elektronickú komunikáciu Poskytovateľa s užívateľmi Objednávateľa, zber
+a vyhodnocovanie prvotných záznamov):
+Prostredníctvom tejto služby zabezpečuje Poskytovateľ Objednávateľovi tieto činnosti:
+Strana 17 z 29
+
+
+
+
+
+
+
+
+
+
+
+
+otvorenie a riešenie Incidentu / Problému,
+iniciovanie požiadaviek na zmenu,
+uznanie reklamácie,
+uzavretie Incidentu/ Problému,
+zverejnenie novej verzie APV (patche),
+zverejnenie novej metodiky,
+zverejnenie používateľskej úpravy,
+zverejnenie novej informácie,
+zaslanie potvrdzovacích a informačných mailov
+Informatívne služby (FAQ, DOKUMENTÁCIA,METODIKA, NOVINKY)
+
+Objednávateľ na základe SLA zmluvy získa prístup do CPZ a zaväzuje sa zaregistrovať na CPZ na
+internetovej adrese www.support.visionit.sk, prípadne umožniť pracovníkom Poskytovateľa vykonať
+registráciu na svojich prostriedkoch výpočtovej techniky, a to bez zbytočného omeškania od uzavretia
+Zmluvy. S ohľadom na to, že Poskytovateľ poskytuje podporu APV ako aj odstraňuje drobné chyby aj
+prostredníctvom nových verzií APV alebo počítačových programov vytvorených pre takéto účely
+(patche) aj prostredníctvom ich sprístupnenia cez CPZ, zaväzuje sa pravidelne (najmenej jedenkrát
+mesačne) kontrolovať obsah CPZ a v prípade, že je k dispozícii program pre aktualizáciu alebo opravu
+APV, taký program nainštalovať v súlade s pokynmi Poskytovateľa na CPZ alebo zaslanými
+Objednávateľovi prostredníctvom sprievodného listu či e-mailom.
+Za účelom poskytnutia predmetných služieb alebo diagnostikovania Incidentov zo vzdialeného
+pracoviska umožní Objednávateľ Poskytovateľovi vzdialený prístup do svojho systému. Činnosti
+vykonávané prostredníctvom vzdialeného prístupu môžu byť elektronicky zaznamenané a archivované
+po dobu 3 mesiacov.
+V rámci podpory k TIS SVP sa Poskytovateľ zaväzuje TIS SVP aktualizovať na základe legislatívnych
+zmien v rozsahu dopadu týchto zmien na procesy spracovávané algoritmami použitými v TIS SVP,
+podľa požiadaviek Objednávateľa. Aktualizácia na základe legislatívnych zmien nezahŕňa aktualizáciu
+v prípade zásadných zmien právneho poriadku, ako sú menové reformy a iné obdobné zásadné zmeny,
+ktorých vykonanie (alebo vykonávanie) môže byť riešené ako ďalší rozvoj TIS SVP. S aktualizovanou
+verziou TIS SVP dodá Poskytovateľ opis jeho zmien.
+
+Tabuľka 1
+
+Hlavné parametre SLA pre vykonávanie služieb údržby a podpory TIS SVP
+
+Pracovné dni
+08:00 – 16:00
+Definícia Incidentu
+
+Reakčná
+doba
+
+Doba konečného vyriešenia
+reakčnej doby
+
+Kritický
+Závažný
+Nekritický
+
+24 hod
+24 hod
+24 hod
+
+Do 2 prac. dní
+10 prac. dní
+Do novej verzie APV
+
+problému od uplynutia
+
+Za odstránenie Incidentu sa považuje zverejnenie opravnej verzie na CPZ, ak má Objednávateľ na
+základe SLA zmluvy k CPZ prístup, a to okamihom oznámenia takého zverejnenia Objednávateľovi. Za
+odstránenie Incidentu sa považuje aj jeho prekategorizovanie vo forme čiastočného odstránenia
+Incidentu na menej závažný Incident podľa uvedenej kategorizácie, pričom celkový čas na jeho
+odstránenie nesmie prekročiť termíny uvedené v tabuľke pre kategóriu, v ktorej je Incident zaradený po
+jeho prekategorizovaní.
+
+Príloha č. 3
+Strana 18 z 29
+
+Vzor akceptačného protokolu služieb
+Akceptačný protokol
+Poskytovateľ:
+Vision IT Solutions, a.s.
+Pribinova 25
+811 09 Bratislava
+
+Objednávateľ:
+
+Číslo OP:
+
+Projekt:
+
+SLOVENSKÝ VODOHOSPODÁRSKY PODNIK,
+štátny podnik
+so sídlom Radničné nám. 8
+969 55 Banská Štiavnica
+
+Objednávateľ svojím podpisom potvrdzuje prevzatie predmetu v zmysle Zmluvy č........................
+Predmet preberania (etapa)
+Výstupy:
+Por.č.
+
+Identifikácia/akceptačné
+kritérium
+
+Názov výstupu/splnené
+
+Cena bez DPH
+Cena predmetu akceptácie
+
+€
+
+Podpísaním tohto protokolu je predmet prebratia akceptovaný a Poskytovateľovi vzniká právo fakturovať uvedenú
+cenu podľa tohto protokolu v súlade so Zmluvou.
+Stanovisko k akceptácii plnenia:
+
+□ Bez výhrad
+
+□ S výhradami
+
+Zoznam chýb:
+Por.č.
+
+Identifikácia
+
+Kategorizácia podľa
+VOP
+
+Lehota na
+odstránenie
+
+Poznámka
+
+Chyby identifikované v predmete prebratia je Poskytovateľ povinný odstrániť do tridsiatich dní od podpísania
+akceptačného protokolu.
+Dátum:
+Poskytovateľ:
+
+Objednávateľ:
+
+Podpis:
+
+Podpis:
+
+Meno:
+
+Meno:
+
+Funkcia:
+
+Funkcia:
+
+Príloha č. 4
+
+Strana 19 z 29
+
+Zoznam a rozsah modulov TIS SVP, pre ktoré je poskytovaná servisná podpora
+a údržba
+
+Modul
+MP – TIS
+DA – TIS
+POTVI – TIS
+ÚVHD – TIS
+MPOMPR
+ENC mapy
+HELPDESK
+ArcGIS for Server
+GIS server
+Web Adaptor
+Integrované
+databázy TIS
+
+Popis
+Mapový portál – Technického informačného systému, Slovenského vodohospodárskeho
+podniku, š. p.
+Digitálny archív – Technického informačného systému, Slovenského vodohospodárskeho
+podniku, š. p.
+Prieskum o tokoch v intravilánoch miest a obcí – Technického informačného systému,
+Slovenského vodohospodárskeho podniku, š. p.
+Údaje vodohospodárskeho dispečingu – Technického informačného systému, Slovenského
+vodohospodárskeho podniku, š. p.
+Mapy povodňového rizika a mapy povodňového ohrozenia vodných tokov Slovenska
+Riečne navigačné mapy
+Technická podpora, alebo systém technickej podpory Slovenského vodohospodárskeho
+podniku, š. p.
+Serverová časť systému, ktorá je určená na poskytovanie mapových a geoprocesných
+služieb a komplexného API rozhrania pre používanie týchto služieb.
+Poskytuje webové služby, ktoré sú spravované prostredníctvom ArcGIS Server Manager.
+Slúži na integráciu webových serverov. Web Adaptor prijíma žiadosti na webové služby
+prostredníctvom jednotnej URL adresy a rozposiela ich na GIS servery.
+Microsoft SQL Server 2012 R2 Standard Edition. Platforma databáz centralizovaná,
+umiestnená v jednom dátovom centre.
+
+Strana 20 z 29
+
+Príloha č. 5
+
+Technická špecifikácia
+1. Prehľad skratiek a základných pojmov
+Skratka/Pojem
+TIS SVP
+
+Vysvetlenie
+Technický informačný systém, SLOVENSKÉHO VODOHOSPODÁRSKEHO PODNIKU,
+štátneho podniku
+
+KIS SOFTIP
+PROFIT
+
+Komplexný modulárny informačný systém SOFTIP PROFIT (ekonomický IS)
+
+ERP
+
+Enterprise Resource Planning Komplexný Informačný systém pre riadenie podnikateľských
+procesov a systémov
+
+Modul
+
+Je logicky ucelený funkčný celok informačného systému zabezpečujúci jednu alebo viacero
+funkcionalít
+
+SLA
+
+Service level agreement - SLA (dohoda o úrovni služby) = Dohoda medzi poskytovateľom IT
+služieb a zákazníkom. SLA popisuje IT službu, dokumentuje cieľovú úroveň služieb a špecifikuje
+zodpovednosti poskytovateľa IT služby a zákazníka
+
+JED
+
+Jednotný Európsky dokument - dokument, ktorým hospodársky subjekt môže predbežne
+nahradiť doklady na preukázanie splnenia podmienok účasti určené verejným obstarávateľom
+alebo obstarávateľom.
+
+ArcGIS
+
+GIS Aplikácie pre prácu s priestorovými údajmi.
+
+PSIN
+
+Informačný systém na získavanie, ukladanie, analyzovanie a manažovanie dát a príslušných
+vlastností, ktoré sú priestorovo viazané k zemskému povrchu.
+Mapový portál – Technického informačného systému, zobrazujúce priestorové informácie
+Slovenského vodohospodárskeho podniku, š. p.
+Digitálny Archív – Technického informačného systému, uchovávajúci záznamy (technická
+dokumentácia, vyjadrenia, ako aj rozhodnutia) technického úseku Slovenského
+vodohospodárskeho podniku, š. p.
+Prieskum o tokoch v intravilánoch miest a obcí – Technického informačného systému
+zabezpečuje hodnotenie stavu tokov v intravilánoch miest a obcí Slovenska.
+Údaje vodohospodárskeho dispečingu – Technického informačného systému zabezpečuje zber
+a report údajov pre jednotlivé monitorovacie stanice.
+Mapy povodňového rizika a mapy povodňového ohrozenia vodných tokov Slovenska
+Technická podpora, alebo systém technickej podpory Slovenského vodohospodárskeho
+podniku, š. p.
+Plánovanie a sledovanie investícií
+
+RPUM
+
+Riadenie a plánovanie údržby majetku
+
+RAD
+
+Riadenie a archivácia dokumentov - intranetový SVP Portál
+
+WKF
+
+Univerzálny work flow
+
+ASP.NET
+
+je súčasť .NET Frameworku firmy Microsoft pre tvorbu webových aplikácií a služieb. Je
+nástupcom technológie ASP (Active Server Pages) a priamym konkurentom JSP (JavaServer
+Pages
+
+HTTPS
+
+Zabezpečený hypertextový prenosový protokol (angl. hypertext transfer protocol secure),
+skr. HTTPS, je zabezpečená verzia HTTP, komunikačného protokolu World Wide Web
+
+HTTP
+
+Protokol ľahkého prístupu k adresáru alebo protokol ľahkého prístupu k zoznamu
+
+SQL
+
+programovací jazyk
+
+DWH
+
+Data Warehouse - dátový sklad je označenie pre technológie umožňujúce analytické
+spracovanie dát prostredníctvom nástrojov OLAP (Online Analytican Processing)
+
+OZ
+
+Odštepný závod
+
+PR
+
+Podnikové riaditeľstvo
+
+Active Directory
+
+implementácia adresárových služieb LDAP firmou Microsoft na použitie v systéme Microsoft
+Windows. Umožňuje administrátorom nastavovať politiku, inštalovať programy na mnoho
+počítačov alebo aplikovať kritické aktualizácie v celej organizačnej štruktúre. Active Directory
+svoje informácie a nastavenia ukladá v centrálnej organizovanej databáze
+
+LDAP
+
+Protokol ľahkého prístupu k adresáru alebo protokol ľahkého prístupu k zoznamu
+
+CRZ
+
+Centrálny register zmlúv
+
+SVP, š. p.
+
+SLOVENSKÝ VODOHOSPODÁRSKY PODNIK, štátny podnik
+
+GIS
+MP - TIS
+DA - TIS
+POTVI - TIS
+ÚVHD - TIS
+MPOMPR
+HELPDESK
+
+Strana 21 z 29
+
+2. Opis predmetu zákazky
+2.1
+
+Predmet zákazky
+
+Predmetom zákazky je zabezpečenie údržby, podpory a rozvoja systému TIS SVP počas 48 mesiacov.
+Predmet zákazky pozostáva z dvoch vzájomne súvisiacich činností:
+1. Údržba a podpora zahŕňa zabezpečenie garantovanej spoľahlivosti a dostupnosti TIS SVP
+Poskytovateľom, tak aby bola zaistená požadovaná úroveň dostupnosti služieb a rýchle odstránenie
+prípadných problémov bez negatívneho dopadu na procesy riadenia podniku Objednávateľa. Garancia
+je definovaná v Zmluve o poskytovaní servisných služieb (SLA). Bližší popis požiadaviek je uvedený v
+kapitole Požiadavky na údržbu a podporu riešenia.
+2. Ďalší rozvoj zahŕňa ďalšiu modernizáciu a aktualizáciu, ktorá bude vynútená budúcimi legislatívnymi
+zmenami, zmenami procesov riadenia podniku alebo zmenou vnútorných alebo vonkajších rozhraní
+systémov, s ktorými sa informačný systém integruje alebo bude integrovať .
+Objednávteľ plánuje naďalej používať informačný systém TIS SVP v stave ako je a teda nepredpokladá,
+že bude potrebné zasahovať do zdrojového kódu. Akékoľvek požiadavky na rozvojové aktivity v podobe
+nových funkcionalít musia byť vyriešené spôsobom neporušujúcim autorské práva (dostavba,
+nadstavba, parametrizácia ...). V takýchto prípadoch bude Objednávateľ postupovať v zmysle § 89
+zákona č. 185/2015 Z. z. Autorského zákona v znení neskorších predpisov. Akékoľvek porušenie
+autorských práv je pre Objednávateľa neprípustné a preto na túto skutočnosť dopredu upozorňuje.
+V nasledujúcich kapitolách bude popísaný východiskový stav, t. j. funkcionalita TIS SVP v čase podpisu
+Zmluvy.
+
+3. Súčasný stav
+SLOVENSKÝ VODOHOSPODÁRSKY PODNIK, štátny podnik (SVP, š. p.) v súčasnosti využíva na
+zabezpečenie svojich činností dva hlavné informačné systémy: KIS SOFTIP PROFIT (KIS SOFTIP
+PROFIT), ktorý je budovaný od roku 2000 na riadenie ekonomických, obchodných, personálnych
+procesov a Technický informačný systém – TIS SVP, systém pre správu údajov o spravovaných
+vodných tokoch, nádržiach a ďalších vodohospodárskych objektoch a služieb s tým spojených,
+budovaný od roku 2002. Rozvoj TIS SVP je realizovaný na základe schváleného dokumentu Koncepcia
+rozvoja IT v podmienkach SVP, š. p. a na základe relevantných prínosov z doterajšieho riadeného
+rozvoja IKT pričom je nevyhnutné kontinuálne pokračovať v jeho ďalšom budovaní.
+Technický informačný systém (TIS SVP) je systém určený na zhromažďovanie, uchovávanie
+a sprístupňovanie digitálnych mapových a technicko-prevádzkových údajov Slovenského
+vodohospodárskeho podniku, štátneho podniku (SVP, š. p.). Plní funkciu zdroja informácií nielen pre
+pracovníkov technicko-prevádzkového úseku SVP, š. p., ale zároveň aj zdroja vybraných informácií pre
+verejnosť a iné rezorty zakladateľa Ministerstva životného prostredia Slovenskej republiky (ďalej len
+MŽP, SR), organizácie a tretie strany, ktoré participujú na projektoch SVP, š. p..
+Prevádzkovanie informačného systému TIS SVP zabezpečuje plnenie úloh v zmysle zákona č. 3/2010
+Z. z. o národnej infraštruktúre pre priestorové informácie (NIPI) a následných ustanovení; § 12 ods. 4.,
+kde SVP, š. p. je zaradená medzi povinné osoby. Z toho vyplýva že hlavným cieľom je napĺňanie
+požiadaviek § 5, a požiadaviek k § 7. V zmysle smernice INSPIRE smernica európskeho parlamentu
+a rady 2007/2/ES zo 14. marca 2007, ktorou sa zriaďuje Infraštruktúra pre priestorové informácie
+v Európskom spoločenstve (Inspire). SVP, š, p. podľa kapitoly V (Zdieľanie údajov), Článok 17. V zmysle
+plnenia povinností SVP, š. p., ako správcu vodných tokov a vykonávateľ vodohospodárskeho
+manažmentu povodí podľa už spomenutých zákonov a nariadení (zákon č. 364/2004 Z. z.; č. 372/1990
+Zb.; č. 7/2010 Z. z.; č. 3/2010 Z. z.) je zodpovedný za udržiavanie vytváranie a aktualizáciu
+spravovaných údajových databáz (plnenie je zabezpečené v súčasnej dobe cez rôzne čiastkové úlohy,
+keďže súčasný systém TIS SVP plnenie predmetných úloh vo veľkej miery neumožňuje).
+
+Business architektúra súčasného riešenia
+Strana 22 z 29
+
+TIS SVP bol budovaný ako procesne orientovaná aplikácia, ktorá umožňuje optimalizovať riadenie
+hlavných business procesov podniku.
+ArcGIS for Server - predstavuje serverovú časť systému, ktorá je určená na poskytovanie mapových a
+geoprocesných služieb a komplexného API rozhrania pre používanie týchto služieb. Úlohou ArcGIS for
+Server-a je prijímať požiadavky na služby a odosielať výsledky do klientskej aplikácie
+
+Nasadené riešenie je postavené na najmodernejších technológiách ESRI a Microsoft (ESRI ArcGIS
+Server, Desktop), ktoré predikujú dlhodobé využitie pri súčasnom trende vývoja Geografických
+informačných systémov a vizualizačných systémov tohto typu aplikácií. Aplikácia TIS SVP je postavená
+na moduloch:
+Mapový portál TIS SVP
+Priestorový informačný systém poskytujúci relevantné informácie v mapovej podobe pre plnenie úloh
+a povinností zamestnancov SVP, š.p..
+Obsahuje funkcionalitu a dátové sady:
+ Podkladové vrstvy – Štátne mapové dielo ZBGIS, Ortho-foto mapa, Vodohospodárska mapa;
+ Vektorové vrstvy SVP:
+- Modrá vrstva obsahujúca vodné toky, vodné plochy, RKM a objekty na tokoch
+harmonizované na podkladovú vrstvu štátneho mapového diela ZBGIS a Ortho-foto mapu
+v mierke 1:10 000
+- Vrstvy obsahujúce územné členenie pôsobnosti odštepných závodov a zariadení SVP, š.p.
+- Zbierané a spracovávané údaje SVP, š. p.
+- Údaje projektu „Mapy povodňového rizika a ohrozenia vodných tokov Slovenska“
+- Externé licencované vrstvy iných rezortov a tretích osôb.
+ Funkcionalitu pre zobrazovanie a atribútová identifikácia vrstiev
+ Funkcionalitu pre merania, popisovanie a tlač v prostredí modulu mapový portál
+ Funkcionalitu na generovanie a uchovávanie vlastných kompozícií a údajov.
+ Analytické moduly pre spracovanie údajových vrstiev:
+- modely pre prácu s povodiami,,
+- indikatívne záplavové čiary,
+Strana 23 z 29
+
+-
+
+modely pre prácu a vyhodnotenie údajov katastra.
+
+Digitálny archív TIS SVP
+Modul, ktorý slúži na archiváciu technickej, ekonomickej, právnej a inej podpornej dokumentácie, ktorú
+využívajú a produkujú zamestnanci SVP, š.p. Systém poskytuje možnosť vnútropodnikového
+publikovania dokumentácie pre definovaný okruh užívateľov v súlade s vnútropodnikovými predpismi
+SVP, š.p..
+Prieskum o tokoch v intraviláne TIS SVP
+Modul, ktorý z hľadiska protipovodňovej ochrany zabezpečuje ukladanie a editáciu údajov potrebných
+k analýze prírodnej a socio-ekonomickej hodnoty územia intravilánov a fyzicko-geografických daností
+tokov a ich povodí rozdielny stupeň a úroveň podmienok odtokových pomerov v jednotlivých
+intravilánoch a určuje potrebu a prioritu úprav z hľadiska protipovodňovej ochrany.
+Údaje vodohospodárskeho dispečingu TIS SVP
+Nástoj na vizualizáciu stavu TBD (Odborný technicko-bezpečnostný dohľad) údajov a údajov
+vodomerných staníc pre potreby dispečingu SVP, š.p.. Modul automatizovane načítava a sprístupňuje
+prevádzkové údaje z vodných tokov a vodných diel, „zbierané“ na vodohospodárskom dispečingu.
+Všetky relevantné údaje z „Technického informačného systému“ sa ukladajú do dátového skladu. Nad
+dátovým skladom je realizovaný geografický informačný systém, ktorý pre manažérov poskytuje
+potrebné priestorové informácie.
+V rámci budovania TIS SVP bol implementovaný :
+ intranetový portál spoločnosti ktorý zabezpečuje riadený prístup k dokumentom a distribúciu
+aktuálnych informácii pre zamestnancov podniku.
+ Skype - Komunikačná platforma na hlasovú komunikáciu a zasielanie správ
+Počas budovania TIS SVP bola venovaná veľká pozornosť k zabezpečeniu jeho bezpečnosti
+implementáciou produktov, ktoré eliminujú možné riziká znefukčnenia informačného systému a úniku
+informácii. Bol implementovaný UTM SOPHOS - zariadenie pre zjednotenú správu bezpečnosti, ktoré
+v jednom bode siete plní niekoľko bezpečnostných funkcií – ide o funkcie antivíru, antispywaru,
+antispamu, sieťovej brány firewall, detekciu a prevenciu prienikov, filtrovanie obsahu, prevenciu úniku
+informácií, vzdialené smerovanie, preklad sieťových adries.
+
+Zoznam modulov TIS SVP:
+Modul
+MP – TIS
+DA – TIS
+POTVI – TIS
+ÚVHD – TIS
+MPOMPR
+ENC mapy
+HELPDESK
+
+Popis
+Mapový portál – Technického informačného systému, Slovenského
+vodohospodárskeho podniku, š. p.
+Digitálny archív – Technického informačného systému, Slovenského
+vodohospodárskeho podniku, š. p.
+Prieskum o tokoch v intravilánoch miest a obcí – Technického informačného
+systému, Slovenského vodohospodárskeho podniku, š. p.
+Údaje vodohospodárskeho dispečingu – Technického informačného systému,
+Slovenského vodohospodárskeho podniku, š. p.
+Mapy povodňového rizika a mapy povodňového ohrozenia vodných tokov Slovenska
+Riečne navigačné mapy
+Technická podpora, alebo systém technickej podpory Slovenského
+vodohospodárskeho podniku, š. p.
+
+Aplikačná architektúra
+Z hľadiska aplikačnej architektúry sú použité v TIS SVP nasledujúce technológie :
+
+Komponenty GIS platformy
+Strana 24 z 29
+
+GIS platformu SVP tvoria 3 základné komponenty:
+
+ArcGIS for Server 10.2.2 – Advanced Enterprise
+
+ArcGIS for Desktop 10.2.2 – Standard \ Advanced
+
+Microsoft SQL Server 2012 R2 Standard Edition
+GIS platforma bola budovaná ako centralizovaná, umiestnená v jednom dátovom centre
+a pozostávajúca z jedného ArcGIS situ. Vysoká dostupnosť je zabezpečená redundantnými HW
+komponentami s troma GIS servermi v site, pričom všetky zabezpečujú rovnakú funkcionalitu.
+Geografický informačný systém slúži na správu, vizualizáciu a poskytovanie priestorových údajov.
+Prostredníctvom funkcionality, ktorú poskytuje, je možné nielen zobrazovať predmetné údaje nad
+mapou, vyhľadávať lokality podľa miesta alebo ich geografického názvu, ale aj analyzovať priestorové
+údaje v čase a priestore. Okrem poskytovania podkladových máp a priestorových údajov vo forme
+mapových služieb je účelom GIS aj import a spracovanie priestorových údajov z rôznych údajových
+štruktúr a formátov. GIS poskytuje nástroje na konverziu formátov digitálnych priestorových údajov,
+validáciu geometrie, transformácie súradnicových systémov a údajových štruktúr, tak aby údaje mohli
+byť publikované ako služby priestorových údajov, resp. ako mapy.
+Prístup k dátam je zabezpečený prostredníctvom databázového servera MS SQL 2012.
+Funkcionalitu GIS je možné v zmysle architektúry špecifikovať na úrovni troch základných funkčných
+komponentov:
+ArcGIS for
+Desktop
+
+predstavuje back-end časť systému GIS, ktorá bude zabezpečovať
+funkcionalitu prostredníctvom jednotlivých nástrojov ArcGIS for
+Desktop a to:
+- import externých údajov do priestorovej databázy
+- správa údajov v priestorovej databáze (vytváranie nových tried
+objektov, indexovanie, definovanie súr. systémov a pod.)
+- pokročilá správa údajov (validácia geometrie, atribútov a topológie,
+hromadné zmeny v údajoch a pod.)
+- kartografické spracovanie údajov a príprava mapových projektov pre
+publikovanie mapových a geoprocesných služieb
+
+ArcGIS for
+Server
+
+predstavuje serverovú časť systému, ktorá je určená na poskytovanie
+mapových a geoprocesných služieb a komplexného API rozhrania pre
+používanie týchto služieb. Medzi základné funkcionality, ktoré sú
+poskytované na úrovni ArcGIS Server sú:
+- publikovanie štandardizovaných služieb v zmysle štandardov OGC,
+smernice EÚ INSPIRE 2007/2/EC, NIPI (zákon 3/2010 Z.z.) a Výnosu
+MF MF SR č.312/2010 o štandardoch pre ISVS
+- správa mapových služieb
+- poskytovanie API (REST,SOAP) pre používanie a integráciu služieb s
+inými systémami pre nasledovné typy GIS služieb:
+- map services (mapové služby pre poskytovanie máp a analýzu
+priestorových údajov)
+- geocoding services
+- feature services (objektové služby pre editovanie objektov mapy)
+- geometry services (služby pre pokročilé geometrické operácie nad
+mapou)
+
+GIS server
+
+GIS Server poskytuje webové služby, ktoré sú spravované
+prostredníctvom ArcGIS Server Manager. GIS Server môže
+pozostávať z jedného alebo viacerých serverov pracujúcich spoločne.
+Všetky servery majú prístup ku všetkým údajom a informáciám, preto
+je možné jednoducho zvyšovať alebo znižovať počet serverov v
+závislosti od dopytov na služby. GIS Server sprístupňuje svoje služby
+prostredníctvom webového protokolu HTTP.
+GIS servery je možné usporiadať do skupín, tzv. clusterov. Na každom
+takomto clusteri môže byť publikovaná samostatná skupina služieb,
+ktorú konfiguruje správca serverov.
+
+Strana 25 z 29
+
+Web Adaptor
+
+Web Adaptor slúži na integráciu webových serverov. Web Adaptor
+prijíma žiadosti na webové služby prostredníctvom jednotnej URL
+adresy a rozposiela ich na GIS servery.
+
+WEB aplikácie v technológii ASP.NET
+Web aplikácie (V predchádzajúcej tabuľke sú podfarbené zelenou farbou) sú vytvorené za použitia
+technológie Microsoft ASP.NET v spojení grafickými komponentami Telerik. Hlavnými črtami tejto
+technológie sú :
+ Možnosť tvorby klientsky oveľa bohatších aplikácií porovnateľných s tzv. hrubým klientom, pričom
+sa aj naďalej jedná o aplikáciu spúšťanú v prehliadači bez potreby inštalácie a správy verzií
+ Podstatné zníženie prenosu dát po sieti vzhľadom na využívanie javascriptových knižníc a
+parciálnych dotazov
+ Jednoduchá správa a údržba aplikácie
+ Štandardizácia komunikačného protokolu medzi klientom a serverovou stranou (HTTPS)
+
+Databáza
+
+Platforma: MS SQL Server 2012
+Technológie: ArcSDE
+V databáze sa ukladajú priestorové údaje GIS vrátane s využitím
+technológie ArcSDE. Z pohľadu infraštruktúry je zabezpečená vysoká
+dostupnosť databázového servera.
+
+File Server /
+Diskové pole
+
+Platforma: Windows Server 2012 R2
+Zdieľaný súborový systém slúži na ukladanie dôležitých
+konfiguračných súborov a logov ArcGIS Servera, ako aj GIS údajov
+(ortofotomapy, alebo generovaná cache mapových služieb).
+
+GIS Server
+
+Platforma: ESRI ArcGIS for Server 10.2 (10.3)
+GIS Server poskytuje mapové a geoprocesné služby na báze
+protokolu http primárne na porte 6080, alebo 6443 ak sa používa https.
+GIS Servery navzájom komunikujú cez ďalšie vyhradené porty.
+Škálovateľnosť GIS Servera je zabezpečená pridaním ďalších GIS
+Serverov.
+GIS Servery sa dokážu navzájom zastúpiť, čím je riešená aj vysoká
+dostupnosť riešenia (možnosť režimu Active/Active).
+
+Web Adaptor
+
+Platforma: ESRI ArcGIS for Server 10.2 (10.3)
+Technológie: MS IIS 8.5
+ArcGIS Web Adaptor slúži ako enterprise rozhranie, ktoré na
+štandardných portoch vystavuje funkcionalitu GIS Serverov pre okolité
+systémy. V projekte bude použitý ArcGIS Web Adaptor pre Microsoft
+Internet Information server (Windows). Z dôvodu dostupnosti budú
+použité dva Web Adaptor servery, pred ktorými bude umiestnený
+loadbalancer (možnosť režimu Active/Active).
+
+ArcGIS
+Desktop
+
+Platforma: ESRI ArcGIS for Desktop 10.2 (10.3)
+Sada nástrojov pre klientsky počítač (Windows), určených pre odbornú
+prácu s GIS údajmi. Produkt komunikuje priamo s databázou, ale aj s
+rozhraniami publikovanými cez ArcGIS for Server.
+V projekte je produkt určený pre správcu GIS, pomocou neho je
+vykonávaná údržba GIS údajov, import podkladových máp,
+publikovanie služieb.
+
+GIS Mapový
+portál SVP
+
+Platforma: ASP.NET
+Technológie: Microsoft .NET Framework (ASP.NET), Dojo, ArcGIS
+Javascript API
+Webová aplikácia pre koncového používateľa, ktorá bude vyvíjaná
+podľa špecifických požiadaviek projektu. Interaktivita aplikácie na
+strane klienta bude podporená použitím Javascript knižníc Dojo a
+Strana 26 z 29
+
+ArcGIS Javascript API, ktoré rieši komunikáciu s REST službami
+publikovanými pomocou ArcGIS for Server a poskytuje bohaté
+možnosti pre implementáciu interaktívneho GUI s použitím máp.
+Definícia
+rozhraní
+
+Každý typ služby vypublikovaný prostredníctvom ArcGIS for Server
+poskytuje štandardizované rozhrania pre tieto typy služieb:
+ map services – rozhrania REST, SOAP, WMS, WMTS, WFS
+ geocoding services – rozhrania REST, SOAP
+ feature services – rozhrania REST, SOAP
+ geometry services – rozhrania REST, SOAP
+Dokumentácia ArcGIS REST API:
+http://resources.arcgis.com/en/help/arcgis-rest-api/
+Dokumentácia ArcGIS SOAP API:
+http://resources.arcgis.com/en/help/soap/10.2/
+WMS, WMTS a WFS sú rozhrania štandardizované organizáciou OGC
+(Open Geospatial Consortium):
+http://www.opengeospatial.org/standards/is
+
+Klient
+
+Klientská vrstva, ktorá je prevádzkovaná na koncovej pracovnej stanici
+užívateľa, zabezpečuje interakciu užívateľa so systémom. Klientom je
+webový prehliadač Microsoft Internet Explorer verzia 11. Aplikácia je
+optimalizovaná na rozlíšenie 1280 x 1024 pixelov.
+
+Sieťová infraštruktúra
+Infraštruktúra podniku SVP, š.p. je plne centralizovaná, infraštruktúrne a aplikačné služby sú
+poskytované centrálne z vysokodostupného infraštruktúrneho uzla datacentra. Dizajn infraštruktúry je
+postavený na technológii hub & spoke, kde hub je centrálne datacentrum a všetky odštepné aj územné
+závody sú k nemu pripojené nezávisle ako spoke, vrátane podnikového riaditeľstva. V datacentre nie sú
+umiestnení žiadni používatelia, je plne nezávislé od samotných fyzických lokalít podniku.
+Komunikácia celého podniku s okolitým svetom, Internetom, klientami a partnermi je centralizovaná,
+smerovaná WAN sieťou do datacentra a až odtiaľ centrálne do Internetu. Je to taktiež jediný bod, odkiaľ
+sú prístupné služby a aplikácie podniku z externého prostredia Internetu.
+Medzi základné služby, ktoré sú zabezpečované komunikáciou s Internetom patria:
+Webové služby
+E-mailová komunikácia
+Lyncová komunikácia, IP telefónia, meetingy, chat
+VPN prístupy používateľov a partnerov do infraštruktúry
+Prístupy správcov a partnerov k vybraným serverom infraštruktúry z Internetu
+Poskytovanie FTP pre používateľov a partnerov
+Prístupy používateľov k aplikáciám z Internetu
+Prístupy používateľov mimo WAN siete k službám a aplikáciám
+Takto centralizovaný prístup umožňuje:
+Jednotné nasadzovanie aplikácií a služieb
+Flexibilné využívanie hardvéru a softvéru
+Centrálnu kontrolu Internetovej komunikácie
+Škálovateľnosť priepustnosti dátových liniek
+Centrálnu kontrolu a navyšovanie bezpečnosti infraštruktúry
+Centrálne navyšovanie a modularitu dostupnosti
+Keďže je to ale jediný bod prístupu, zároveň kladie osobitné požiadavky najmä na:
+Spoľahlivosť prístupov
+Výkon a odozvu služieb
+Dostupnosť datacentra a Internetu
+Zabezpečenie datacentra a infraštruktúry pred útokmi
+Možnosti správy, monitoringu a zabezpečenia
+Strana 27 z 29
+
+Bezpečnosť
+TIS SVP je informačným systémom, ktorý pri svojej činnosti spracováva osobné údaje, a preto musí
+plniť legislatívne požiadavky dané zákonom č. 122/2013 Z. z. o ochrane osobných údajov v znení
+neskorších predpisov, zákonom č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov a Výnosom Ministerstva financií Slovenskej
+republiky č. 55/2014 Z. z. o štandardoch pre informačné systémy verejnej správy v znení neskorších
+predpisov.
+Na autentifikáciu používateľov TIS SVP sa používajú adresárové služby LDAP (Active Directory)
+implementované v operačnom systéme Microsoft Windows. Služba Active Directory ponúka prostriedky
+pre správu identít a vzťahov v rámci siete organizácie a slúži na identifikáciu používateľov pre aplikačné
+programové vybavenie organizácie.
+
+Požiadavky na údržbu a podporu riešenia
+Požiadavky uvedené v tejto kapitole sú formalizované v Zmluve o poskytovaní servisných služieb (SLA
+– Service Level Agreement) - v Prílohe č. 2 SLA.
+Poskytovateľ bude zabezpečovať starostlivosť o TIS SVP po dobu 48 mesiacov odo dňa nadobudnutia
+účinnosti Zmluvy o poskytovaní servisných služieb – Service Level Agreement (SLA), aby všetky
+systémy a aplikácie fungovali bezporuchovo, spoľahlivo, bezpečne a boli prevádzkyschopné.
+Pre potreby zabezpečenia činnosti Podpory prevádzky Poskytovateľ zabezpečí služby Centra podpory
+zákazníka. CPZ prijíma žiadosti od užívateľov, je prostriedkom na hlásenie incidentov a zadávanie
+požiadaviek na činnosti poskytované Poskytovateľom.
+
+Požiadavky na rozvoj riešenia
+Požiadavky uvedené v tejto kapitole sú formalizované v Zmluve o poskytovaní servisných služieb (SLA
+– Service Level Agreement).
+Počas obdobia prevádzkovania aplikácie TIS SVP sa očakáva viacero zmien, ktoré si vynútia ďalšie
+úpravy aplikácie. Očakávajú sa najmä:
+- zmeny slovenských zákonov a európskej legislatívy súvisiace s predmetnou
+agendou TIS SVP – NIPI a INSPIRE,
+- zmeny biznis procesov a pracovných postupov v rámci organizácie Obstarávateľa s
+cieľom minimalizovať manuálne pracovné postupy a zaviesť ešte vyššiu mieru
+elektronickej komunikácie,
+- zmeny iných systémov, s ktorými sa bude aplikácia TIS SVP integrovať a ktorých
+rozhrania sa budú meniť alebo rozvíjať,
+- optimalizácia elektronickej komunikácie medzi organizáciou Obstarávateľa s ostatnými
+subjektami.
+
+Strana 28 z 29
+
+Príloha č. 6
+
+Zoznam subdodávateľov
+
+Obchodné meno subdodávateľa
+
+Osoba oprávnená konať za
+subdodávateľa
+(meno, priezvisko, adresa pobytu, dátum
+narodenia)
+
+ArcGEO Information Systems spol. s r.o.
+
+Ing. Arch. Adolf Priesol
+nar.
+
+B-SOFT Slovakia, s.r.o.
+
+Michal Chamilla
+nar.
+
+Podpis: ............................................................
+Vision IT Solutions, a.s.
+Mgr. Ing. Gabriel Herbrik
+predseda predstavenstva
+
+Dátum: ..........................
+
+Strana 29 z 29
+
+

@@ -1,0 +1,740 @@
+Zmluva o poskytovaní podpory a služieb k softvérovému produktu
+„Informačný systém ŠFRB“
+(ďalej aj ako „Zmluva“)
+Uzavretá podľa § 269 ods. 2 v platnom znení zákona č. 513/1991 Z.z. Obchodného zákonníka
+a autorského zákona č. 185/2015 Z. z. v znení neskorších právnych predpisov
+(ďalej aj ako „autorský zákon“)
+medzi:
+Objednávateľom:
+
+Slovenská záručná a rozvojová banka, a. s.
+
+Sídlo:
+
+Štefánikova 27, 814 99 Bratislava
+
+v zastúpení:
+
+Ing. Peter Ševčovic
+podpredseda predstavenstva
+a
+Ing. Zoltán Gyurász
+člen predstavenstva
+
+IČO:
+IČ DPH:
+bankové spojenie:
+Zapísaná:
+
+00682420
+SK2020804478
+SKXXXXXXXXXXXXXXXXXXXXX
+
+v Obchodnom registri vedenom Okresným súdom Bratislava I., oddiel Sa,
+vložka č. 3010/B
+
+(ďalej len „Objednávateľ“ alebo „banka“)
+
+na jednej strane a
+Dodávateľ:
+
+MeDoIT s.r.o.
+
+Sídlo:
+
+Hodžova 204/16, 010 01 Žilina
+
+v zastúpení:
+IČO:
+DIČ:
+IČ DPH:
+bankové spojenie:
+číslo účtu:
+Zapísaná:
+
+Ing. Vladimír Tisek, konateľ
+46714227
+2023541795
+SK2023541795
+Primabanka a.s.
+SKXXXXXXXXXXXXXXXXXXXX
+v Obchodnom registri OS Žilina, oddiel Sro., vložka č. 56877/L
+
+(ďalej len „Dodávateľ“)
+na strane druhej.
+
+-1-
+
+1. Pojmy
+Výhradným vykonávateľom majetkových práv autorov k autorskému dielu, ktorým je počítačový
+program s názvom „informačný systém ŠFRB“ (ďalej aj ako „IS ŠFRB“) ktorý bol vytvorený Autormi
+(bližšie špecifikovanými v bode 6.5. tejto Zmluvy) je Dodávateľ.
+Zmluvné strany sa dohodli a súhlasia, že pojmy používané v tejto Zmluve, ktoré nebudú v príslušnej časti
+tejto Zmluvy zadefinované inak, budú mať pre účely tejto Zmluvy význam definovaný v príslušných
+ustanoveniach tohto článku Zmluvy:
+Slovným spojením „Zmluvné strany“ sa rozumie na účel tejto Zmluvy spoločné označenie
+Dodávateľa a Objednávateľa; „Zmluvná strana“ alebo „Strana“ znamená ktorákoľvek zo Zmluvných
+strán.
+„SLA služby“ - Service level agreement - rozumieme najmä služby v oblasti technickej a prevádzkovej
+podpory implementovaného informačného systému ŠFRB bližšie špecifikované najmä v článku 2. tejto
+Zmluvy. Konkrétne SLA Služby budú podrobnejšie a konkrétnejšie pomenované v konkrétnej písomnej
+Požiadavke na dodanie SLA Služby. Rozsah, spôsob a miesto plnenia príslušnej časti dodávky SLA
+Služby bude špecifikovať príslušná Požiadavka na dodanie SLA Služby.
+„Požiadavka na dodanie SLA Služby“ – písomný dokument vyhotovený a podpísaný štatutárnymi
+zástupcami alebo splnomocnenými osobami Objednávateľa na základe príslušných ustanovení Zmluvy,
+obsahujúci najmä Cenu za SLA Službu, rozsah a špecifikáciu SLA Služieb vykonaných v rámci
+poskytovania SLA Služieb na základe Ponuky (ďalej aj ako „Požiadavka“). SLA Služby budú
+Dodávateľom postupne dodávané Objednávateľovi na základe písomných požiadaviek Objednávateľa
+zasielaných Dodávateľovi v priebehu účinnosti tejto Zmluvy, v ktorých bude špecifikovaná najmä SLA
+Služba, jej rozsah a termín jej dodania. Každá nová Požiadavka na dodanie SLA Služby sa môže týkať
+iba IS ŠFRB resp. jeho modifikácie (najmä v zmysle legislatívnych zmien a/alebo potrieb SZRB alebo
+požiadaviek klienta/klientov SZRB) pričom je vylúčené na základe tejto Zmluvy vytvárať iné resp. nové
+informačné systémy pre SZRB. Písomným akceptovaním Požiadavky na dodanie SLA Služby
+Dodávateľom sa Požiadavka na dodanie SLA Služby stáva záväznou.
+„Cena za SLA Služby“ – garantovaná a konečná cena, ktorú sa Objednávateľ zaväzuje uhrádzať
+Dodávateľovi za riadne a včas vykonané SLA Služby v zmysle tejto Zmluvy.
+„Akceptačný protokol“ – protokol podpísaný Zmluvnými stranami potvrdzujúci dodanie SLA
+Služieb Dodávateľom vykonaných v rámci poskytovania SLA služieb na základe konkrétnej Požiadavky na
+dodanie SLA Služby Objednávateľa.
+„Splnomocnená osoba Objednávateľa“ – osoba oprávnená zaslať „Požiadavku na dodanie
+SLA Služieb“ a/alebo schváliť „Ponuku“ a/alebo podpísať „Akceptačný protokol“ za stranu
+Objednávateľa.
+„Splnomocnená osoba Dodávateľa“ – osoba oprávnená prijať „Požiadavku na dodanie SLA
+Služieb“ a/alebo zaslať „Ponuku“ a/alebo podpísať „Akceptačný protokol“ za stranu Dodávateľa.
+„Zmluva“ je táto Zmluva ako aj všetky právne dokumenty, ktoré túto Zmluvu dopĺňajú
+a aktualizujú vrátane Príloh a vrátane všetkých právnych dokumentov, ktoré sú obsiahnuté v Zmluve, resp.
+na ktoré sa v Zmluve zmluvné strany odvolávajú.
+
+-2-
+
+Na určenie rozsahu SLA Služieb sa v rámci tejto Zmluvy používajú nasledovné skratky:
+-
+
+čd: človeko-deň = 8 hodín pracovného času na Slovensku
+čh: človeko-hodina = 60 minút pracovného času na Slovensku
+
+Doba pre poskytovanie SLA služieb podľa tejto Zmluvy je od 7:30 do 17:30 počas pracovných dní
+na Slovensku.
+2. Predmet a účel Zmluvy
+2.1
+
+Touto Zmluvou sa Dodávateľ zaväzuje Objednávateľovi poskytovať SLA Služby najmä v oblasti
+technickej a prevádzkovej podpory IS ŠFRB, ktoré obsahujú:
+-
+
+poskytovanie servisných činností k IS ŠFRB,
+opravy chýb programového vybavenia IS ŠFRB,
+priebežné vykonávanie zmien IS ŠFRB vyplývajúcich zo všeobecne platnej legislatívy
+zaväzujúcej Objednávateľa, iných požiadaviek Objednávateľa na úpravy, alebo zmeny
+vrátane zodpovedajúcej úpravy manuálu týkajúceho sa IS ŠFRB,
+konzultácie ohľadom požiadaviek IS ŠFRB,
+upgrady technologickej platformy,
+bezpečnostné upgrady,
+služby databázových špecialistov,
+programátorské služby,
+analytické služby,
+Hotline podpora funkčnosti IS ŠFRB pre Objednávateľa v telefonickej a/alebo e-mailovej
+forme.
+
+Pre uvedený rozsah SLA Služieb bol Zmluvnými stranami dohodnutý objem SLA Služieb do 1,5
+čd / 1 mesiac. Účelom tejto Zmluvy je zabezpečiť funkčnosť IS ŠFRB počas doby jeho používania
+Objednávateľom pre potreby Objednávateľa a zmluvných partnerov Objednávateľa (najmä
+klientov Objednávateľa, ktorý je bankou).
+2.2
+
+Iné služby nad rámec SLA Služieb a to najmä konzultačné, programovacie a analytické SLA
+služby, ktoré zabezpečia ďalší rozvoj (modifikáciu) IS ŠFRB.
+
+2.3
+
+Dodávateľ sa zaväzuje poskytovať plnenia v zmysle tejto Zmluvy s odbornou starostlivosťou tak,
+aby nebola narušená resp. ohrozená prevádzka IS ŠFRB u Objednávateľa.
+3. Trvanie
+
+3.1
+
+Táto Zmluva sa uzatvára na dobu určitú a to na dobu 18 mesiacov, ktorá začína plynúť odo dňa
+nadobudnutia jej účinnosti v zmysle bodu 13.1 tejto Zmluvy.
+4. Miesto plnenia
+
+4.1
+
+SLA Služby budú vykonávané v sídle Objednávateľa, ak nie je dohodnuté v tejto Zmluve inak.
+
+5. Spôsob dodania SLA Služieb
+5.1
+
+SLA služby začne Dodávateľ vykonávať najneskôr do 2 pracovných dní po obdržaní Požiadavky
+na dodanie SLA Služby, pokiaľ sa príslušné splnomocnené osoby Objednávateľa a Dodávateľa
+nedohodnú písomne inak. Minimálne čerpanie konkrétnej SLA služby za každý mesiac trvania
+
+-3-
+
+tejto Zmluvy je 1 hodina z pracoviska Dodávateľa (vzdialenou formou na testovacom alebo
+produkčnom serveri podľa predchádzajúcej dohody s Objednávateľom) alebo 4 človeko - hodiny
+v prípade potreby fyzickej prítomnosti v sídle Objednávateľa alebo iných priestoroch
+Objednávateľa. Mesačný objem SLA Služieb, stanovený v bode 2.1 tejto Zmluvy sa v prípade jeho
+nevyčerpania neprenáša do nasledujúceho mesiaca. V prípade ak požiadavka bude mať prácnosť
+nad rámec mesačného nevyčerpaného množstva SLA Služieb Dodávateľ stanoví potrebnú
+prácnosť v čh/čd, na základe ktorej sa Objednávateľ môže rozhodnúť dodatočne objednať ďalšie
+človekohodiny SLA Služieb nad stanovený objem SLA Služieb v bode 2.1 tejto Zmluvy. Po
+vykonaní SLA Služieb Dodávateľ doručí Objednávateľovi servisný protokol, ktorý môže byť
+v písomnej, alebo elektronickej forme.
+5.2
+
+Zmluvné strany sa dohodli, že prípadné zmeny Požiadavky počas jej dodávky budú realizované
+novou Požiadavkou.
+
+5.3
+
+SLA Služby budú vykonávané Dodávateľom priebežne podľa jednotlivých Požiadaviek telefonicky,
+vzdialenou formou na testovacom alebo produkčnom serveri podľa predchádzajúcej dohody s
+Objednávateľom, alebo fyzicky v sídle Objednávateľa alebo iných priestoroch Objednávateľa.
+
+5.4
+
+Iné SLA služby podľa bodu 2.2 tejto Zmluvy a SLA Služby nad rámec mesačného objemu SLA
+Služieb stanoveného v bode 2.1 tejto Zmluvy budú realizované nasledovným spôsobom:
+
+I.
+
+Fáza:
+Dodávateľ vypracuje na základe špecifikácie Objednávateľa na zmenu, alebo novú
+funkcionalitu informačného systému ŠFRB Časový a realizačný plán na dodávku súvisiacich
+SLA Služieb vrátane ich Ceny (ďalej aj ako „Ponuka“), ktorý následne doručí Objednávateľovi
+na schválenie.
+
+II.
+
+Fáza:
+Po schválení Časového a realizačného plánu dodávky splnomocnenými osobami
+Objednávateľa, Objednávateľ doručí Dodávateľovi Požiadavku na dodanie SLA Služby na
+základe, ktorej Dodávateľ začne bezodkladne pracovať na dodávke a implementácií zmien
+funkcionality IS ŠFRB v súlade s Časovým a realizačným plánom, pokiaľ sa Splnomocnené
+osoby Objednávateľa a Dodávateľa nedohodnú inak. Implementácia zmenenej verzie IS
+ŠFRB bude realizovaná na testovací server Objednávateľa, kde Objednávateľ za asistencie
+Dodávateľa otestuje správnu funkčnosť IS ŠFRB najmä zmien IS ŠFRB pred nasadením IS
+ŠFRB do skutočnej prevádzky (ďalej aj ako „zmenené IS ŠFRB“).
+
+III.
+
+Fáza:
+V prípade, že sa vyskytne problém (t.j. chyby resp. vady zmeneného IS ŠFRB) v správnej
+funkčnosti zmeneného IS ŠFRB podľa Objednávateľom akceptovanej špecifikácie v Ponuke
+vo forme písomnej Požiadavky na dodanie SLA Služby, Zmluvné strany sa môžu dohodnúť
+na časovej lehote pre ich odstránenie.
+
+IV. Fáza:
+Ak funkčnosť zmeneného IS ŠFRB bude v súlade zo špecifikáciou uvedenou v Požiadavke
+na dodanie SLA Služby, Zmluvné strany správnu funkčnosť zmeneného IS ŠFRB a jeho
+prevzatie potvrdia podpisom Akceptačného protokolu vypracovaného Dodávateľom.
+6. Autorské práva a Licencie
+6.1
+
+Touto Zmluvou Dodávateľ súčasne udeľuje Objednávateľovi súhlas na používanie IS ŠFRB
+špecifikované najmä v tejto Zmluve, ako aj jeho úprav (zmien resp. modifikácií) na dobu ich
+používania Objednávateľom, spôsobom a v rozsahu vyplývajúcom najmä z tohto článku tejto
+
+-4-
+
+Zmluvy (ďalej aj ako „sublicencia“). V konkrétnej akceptovanej Požiadavke na dodanie SLA
+Služby môže byť súhlas Dodávateľa na použitie IS ŠFRB dohodou Zmluvných strán opäť
+modifikovaný pričom Dodávateľ zabezpečí podľa potreby písomný súhlas autorov IS ŠFRB.
+Dodávateľ záväzne vyhlasuje, že je oprávnený udeliť sublicenciu za podmienok uvedených v tejto
+Zmluve resp. v konkrétnej Požiadavke na dodanie SLA Služby.
+6.2
+
+Dodávateľ udeľuje Objednávateľovi súhlas na použitie zmeneného IS ŠFRB výlučne pre potreby
+Objednávateľa a v súlade s účelom tejto Zmluvy.
+
+6.3
+
+Objednávateľ najmä nie je oprávnený vyhotovovať rozmnoženiny zmeneného IS ŠFRB
+(s výnimkou záložnej kópie), verejne rozširovať rozmnoženiny zmeneného IS ŠFRB, predajom
+alebo inou formou prevodu vlastníckeho práva, ich nájmom alebo vypožičaním, zaraďovať
+zmenené IS ŠFRB do súborného diela, verejne ho vystavovať a vykonávať, prenášať, alebo ho
+upravovať nad rámec stanovený v § 89 odsek 2 a 3 autorského zákona ak v tejto Zmluve nie je
+dohodnuté inak.
+
+6.4
+
+V prípade, že má Objednávateľ záujem používať zmenené IS ŠFRB niektorým zo spôsobov, ktorý
+je uvedený v predchádzajúcom bode 6.3 tejto Zmluvy resp. nie je uvedený v tejto Zmluve, musí
+požiadať Dodávateľa vopred o udelenie Osobitného súhlasu na takýto spôsob použitia.
+
+6.5
+
+Dodávateľ udeľuje Objednávateľovi bezplatne súhlas na použitie zmeneného IS ŠFRB podľa
+tejto Zmluvy pre územie Slovenskej republiky a ako sublicenciu nevýhradnú. Dodávateľ disponuje
+od autorov udelenou Výhradnou licenciou na IS ŠFRB na základe pracovnej zmluvy s autormi
+(resp. Zmluvy o vytvorení diela a licenčnej zmluvy s autormi IS ŠFRB (ktorými sú Ing. Tisek
+Vladimír, Ing. Štefan Kubena)) vrátane jeho zmenenej verzie. V prípade, že o to Objednávateľ
+požiada Dodávateľa alebo to vyplýva z autorského zákona je Dodávateľ povinný bezodkladne
+zabezpečiť súčinnosť a/alebo písomný súhlas oboch autorov IS ŠFRB ohľadom autorských práv
+k IS ŠFRB v zmysle požiadaviek Objednávateľa (napr. na účely potenciálnych súdnych sporov
+týkajúcich sa IS ŠFRB).
+
+6.6
+
+Objednávateľ nie je oprávnený udeliť na zmenený IS ŠFRB sublicenciu tretej osobe.
+
+6.7
+
+Objednávateľ nie je oprávnený sprístupniť tretej osobe strojový, alebo zdrojový kód IS ŠFRB
+vrátane jeho zmenenej verzie, jeho časti, oboznámiť, alebo poskytnúť tretej osobe technickú
+dokumentáciu k nemu alebo inak sprístupniť dôverné informácie o IS ŠFRB vrátane jeho
+zmenenej verzie, ani sprístupniť ho alebo jeho časť tretej osobe na účely ich priameho, alebo
+nepriameho komerčného využitia tretími osobami.
+
+6.8
+
+Objednávateľ je oprávnený sprístupniť tretej osobe strojový alebo zdrojový kód IS ŠFRB vrátane
+jeho zmenenej verzie (ak mu bol poskytnutý), jeho časti, oboznámiť, alebo poskytnúť tretej osobe
+technickú dokumentáciu k nemu alebo inak sprístupniť informácie o IS ŠFRB vrátane jeho
+zmenenej verzie, alebo jeho časti tretej strane za účelom úpravy len na základe udelenie
+Osobitnej sublicencie alebo súhlasu Dodávateľa.
+
+6.9
+
+Sublicencia podľa tohto článku tejto Zmluvy sa udeľuje bezplatne a bez časového obmedzenia.
+
+6.10
+
+Dodávateľ udeľuje Objednávateľovi časovo neobmedzený, miestne (územne)
+neobmedzený, nevýhradný súhlas na každé použitie IS ŠFRB ako celku i jeho jednotlivých
+
+-5-
+
+častí, ktoré je známe v čase uzavretia tejto Zmluvy. Bez ohľadu na akékoľvek iné ustanovenia
+Zmluvy, O b j e d n á v a t e ľ je oprávnený testovať a prevádzkovať IS ŠFRB. I S Š F R B je
+určený podľa svojej povahy aj pre tretie osoby (napr. Klientov Objednávateľa), ak tak
+Objednávateľ rozhodne. Ustanovenia predchádzajúcej vety sa použijú aj na akýkoľvek
+update, upgrade, fix, patch alebo akúkoľvek inú zmenu IS ŠFRB, ktorú vytvorí, dodá alebo
+umožní používať D o d á v a t e ľ O b j e d n á v a t e ľ o v i , a to bez ohľadu na to, či sa tak stane
+alebo stalo na základe tejto Zmluvy alebo na základe inej zmluvy. V prípade zrušenia Dodávateľa
+s likvidáciou, alebo vyhlásenia konkurzu na jeho majetok alebo povolenia vyrovnania, alebo v
+prípade jeho vstupu do likvidácie, alebo v prípade akejkoľvek neschopnosti, či nemožnosti
+D o d á v a t e ľ a plniť záväzky zo zmlúv po dobu dlhšiu ako 90 (deväťdesiat) dní, je
+D o d á v a t e ľ povinný bezodkladne dodať O b j e d n á v a t e ľ o v i na základe jej žiadosti
+najaktuálnejšiu verziu zdrojových a strojových kódov, dokumentácie o vytvorení a funkčnosti IS
+ŠFRB a dátového modulu k najposednejšej (najaktuálnejšej) verzii IS ŠFRB, ktoré môže
+Objednávateľ následne bezodplatne bez akéhokoľvek časového, miestneho a vecného
+obmedzenia bezodplatne používať. Tento článok Zmluvy zostáva záväzný aj po ukončení platnosti
+tejto Zmluvy.
+
+7. Cena a platobné podmienky
+
+7.1 Cena za SLA Služby uvedené v bode 2.1 tejto Zmluvy bola stanovená dohodou ako
+paušálna jednomesačná platba v cene 1600 € (slovom: jedentisíc šesťsto eur) bez
+DPH. Faktúra za uvedené SLA Služby bude vystavená Dodávateľom najneskôr
+k poslednému dňu kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci
+v ktorom boli SLA Služby poskytnuté. Cena za SLA Služby je stanovená ako cena
+maximálna s možnosťou jej budúceho zníženia dohodou.
+7.2 Cena za SLA Služby uvedené v bode 2.1 tejto Zmluvy nad rámec dohodnutého objemu SLA
+Služieb bola stanovená dohodou za služby programátora alebo databázového špecialistu vo
+výške 56 € (slovom: päťdesiatšesť eur) bez DPH/1čh a za služby analytika vo výške 60 €
+(slovom: šesťdesiat eur) bez DPH/1čh. Faktúra za uvedené služby bude vystavená na
+základe Požiadavky na dodanie SLA Služby a potvrdeného Servisného protokolu, ktoré budú
+tvoriť prílohu každej konkrétnej faktúry.
+
+7.3 Cena za SLA Služby uvedené v bode 2.2 tejto Zmluvy bola stanovená dohodou vo výške
+448,- € (slovom: štyristoštyridsaťosem eur) bez DPH/1čd. Faktúra za uvedené SLA Služby
+bude vystavená na základe Požiadavky na dodanie SLA Služby a potvrdeného Akceptačného
+protokolu, ktoré budú tvoriť prílohu faktúry.
+
+7.4 K cene za SLA Služby sa pripočítava DPH platná podľa platných zákonov Slovenskej republiky
+v čase fakturácie. Splatnosť faktúry je dohodnutá na 14 dní od jej vystavenia a doručenia do
+sídla Objednávateľa. V prípade, ak Objednávateľ neuskutoční platby v termíne 10 dní od
+doručenia, dodávateľ je oprávnený fakturovať úroky z omeškania vo výške 0,05% z dlžnej
+sumy za každý deň omeškania s platením.
+
+7.5 Ak faktúra nebude spĺňať náležitosti daňového dokladu, nebude vystavená v súlade so
+Zmluvou, alebo nebude obsahovať požadované prílohy, má Objednávateľ právo vrátiť ju
+v termíne splatnosti Dodávateľovi na prepracovanie. Vrátenie faktúry podľa predchádzajúcej
+
+-6-
+
+vety znamená ukončenie platnosti pôvodného termínu splatnosti faktúry a zároveň to
+znamená, že Objednávateľ nie je v omeškaní s jej úhradou. Nový termín splatnosti faktúry
+začína plynúť dňom doručenia prepracovanej faktúry Objednávateľovi.
+7.6 Každá faktúra musí obsahovať všetky náležitosti daňového dokladu podľa zákona č.
+222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov a zákona č. 431/2002
+Z. z. o účtovníctve v znení neskorších predpisov. Za správne vyhotovenie faktúry zodpovedá
+v plnom rozsahu Dodávateľ.
+
+7.7 Dodávateľ sa zaväzuje oznámiť Objednávateľovi vopred ak je to možné, inak najneskôr do 2
+pracovných dní od vzniku oznamovanej skutočnosti že:
+-
+
+-
+
+nezaplatí DPH alebo jej časť súvisiacu s úhradou ceny za SLA Služby podľa tejto
+Zmluvy,
+sa stal/stane neschopným zaplatiť akúkoľvek inú DPH alebo jej časť v zmysle zákona
+č. 222/2004 Z.z. o dani z pridanej hodnoty v platnom znení ( ďalej aj ako „zákon
+o DPH“),
+protihodnota za plnenie uvedená na faktúre je bez ekonomického opodstatnenia
+neprimerane vysoká alebo neprimerane nízka a/alebo,
+je zverejnený v zozname platiteľov dane z pridanej hodnoty, u ktorých nastali dôvody
+na zrušenie registrácie pre DPH vedenom na portáli Finančnej správy SR.
+
+7.8 Skutočnosti uvedené podľa predchádzajúceho bodu 7.7 tejto Zmluvy je Dodávateľ povinný
+oznámiť Objednávateľovi zároveň pri:
+-
+
+dodaní SLA Služieb alebo ich časti, a/alebo,
+aj pri doručení faktúry /daňového dokladu na základe ktorého má byť zaplatená cena
+za dodané SLA Služby v zmysle tejto Zmluvy.
+
+7.9 V prípade, ak:
+Dodávateľ nedodrží svoj záväzok podľa bodu 7.7 tejto Zmluvy a/alebo,
+nastane akákoľvek skutočnosť, na základe ktorej vznikne Objednávateľovi zákonné
+ručenie za Dodávateľa podľa zákona o DPH a /alebo,
+- podľa zistenia Objednávateľa je Dodávateľ zverejnený v zozname platiteľov dane
+z pridanej hodnoty, u ktorých nastali dôvody na zrušenie registrácie pre DPH
+vedenom na portáli Finančnej správy SR,
+Objednávateľ:
+-
+
+a) nie je povinný prevziať SLA Službu alebo jej časť podľa Zmluvy, pričom sa zmluvné
+strany dohodli, že zo strany Objednávateľa nedôjde k porušeniu Zmluvy, nedostane
+sa do omeškania s plnením akejkoľvek povinnosti podľa tejto Zmluvy a Dodávateľ nie
+je oprávnený uplatniť voči Objednávateľovi žiadne zmluvné alebo zákonné sankcie
+a/alebo zodpovednosť za škodu a /alebo,
+b) je oprávnený od Zmluvy odstúpiť s okamžitou účinnosťou a/alebo,
+c) nie je povinný zaplatiť vyhotovenú a/alebo doručenú faktúru podľa tejto Zmluvy,
+pričom sa zmluvné strany dohodli, že zo strany Objednávateľa nedôjde k porušeniu
+Zmluvy, nedostane sa do omeškania s plnením akejkoľvek povinnosti podľa tejto
+Zmluvy a Dodávateľ nie je oprávnený uplatniť voči Objednávateľovi žiadne zmluvné
+alebo zákonné sankcie a/alebo zodpovednosť za škodu a/alebo,
+d) je oprávnený žiadať od Dodávateľa zaplatenie zmluvnej pokuty vo výške
+zodpovedajúcej výške odmeny dohodnutej podľa tejto Zmluvy a/alebo,
+
+-7-
+
+e) je oprávnený poukázať Dodávateľovi na účet iba dohodnutú cenu zmluvného plnenia
+bez DPH. V tomto prípade Objednávateľ sumu zodpovedajúcu výške DPH z ceny
+zmluvného plnenia uvedenú na faktúre poukáže (i) v zákonom stanovenej lehote
+splatnosti dane alebo (ii) po lehote splatnosti dane, avšak pred tým ako je vydané
+rozhodnutie podľa § 69b zákona o DPH priamo na osobný daňový účet Dodávateľa
+vedený v Štátnej pokladnici zistený prostredníctvom portálu vedenom daňovou
+sekciou Finančného riaditeľstva SR. Objednávateľ platbu DPH na osobný daňový
+účet Dodávateľa označí náležitým spôsobom podľa všeobecne záväzného predpisu,
+oznámi správcovi dane číslo faktúry z ktorej DPH uhrádza a identifikačné číslo
+Dodávateľa. Pre vylúčenie pochybností úhradou dohodnutej ceny zmluvného plnenia
+bez DPH na účet Dodávateľa a sumy zodpovedajúcej výške DPH na osobný daňový
+účet Dodávateľa sa rozumie povinnosť Objednávateľa zaplatiť Dodávateľovi
+fakturovanú cenu za splnenú.
+7.10
+Objednávateľ je oprávnený na postup podľa predchádzajúceho bodu 7.9 tejto
+Zmluvy aj vtedy, ak bol dôvod jeho uplatnenia dodatočne odstránený.
+
+7.11
+Uplatnené zmluvné sankcie nemajú vplyv na povinnosť Dodávateľa vrátiť
+Objednávateľovi to, čo Objednávateľ plnil ako ručiteľ za Dodávateľa podľa zákona
+o DPH.
+
+7.12
+Dodávateľ sa zaväzuje zaplatiť Objednávateľovi v plnom rozsahu sumu, ktorú
+zaplatí Objednávateľ ako ručiteľ na základe rozhodnutia daňového úradu podľa
+zákona o DPH (ďalej aj ako „nezaplatená daň“), v lehote 8 (ôsmich) dní od doručenia
+výzvy Objednávateľa.
+
+7.13
+V prípade, ak je Dodávateľ v omeškaní s vrátením nezaplatenej dane alebo jej
+časti Objednávateľovi, zaväzuje sa zaplatiť Objednávateľovi na základe jeho výzvy
+úrok z omeškania vo výške podľa platných právnych predpisov.
+8. Sankcie a náhrada škody
+8.1 V prípade, že nebudú zo strany Dodávateľa riadne a včas vykonaná SLA Služba najmä
+ak nebudú dodržané dohodnuté termíny podľa Časového a realizačného plánu, Objednávateľ
+si môže uplatňovať voči Dodávateľovi zmluvnú pokutu vo výške 30,- € (slovom: tridsať eur)
+bez DPH za každý deň omeškania s poskytnutím konkrétnej SLA Služby. Zaplatením
+zmluvnej pokuty podľa predchádzajúcej vety nie je dotknutý nárok Objednávateľa na náhradu
+škody ak táto bola spôsobená omeškaním s plnením zabezpečeným zmluvnou pokutou.
+8.2 Ak niektorá Zmluvná strana poruší svoju povinnosť vyplývajúcu z tejto Zmluvy je povinná
+v súlade s touto Zmluvou nahradiť škodu tým spôsobenú druhej Zmluvnej strane,
+s výnimkou, že porušenie povinnosti bolo spôsobené okolnosťami vylučujúcimi
+zodpovednosť. Obidve Zmluvné strany sú povinné vyvinúť maximálne úsilie k predchádzaniu
+škodám a na minimalizáciu vzniknutých škôd.
+
+-8-
+
+8.3 Dodávateľ je povinný v zmysle svojej odbornej spôsobilosti písomne informovať
+Objednávateľa o všetkých možných rizikách resp. skutočnostiach, ktoré môžu ohroziť riadne
+a včasné poskytnutie SLA služby.
+
+9. Záruka a záručný servis
+9.1 Objednávateľ oznamuje faktické vady IS ŠFRB a SLA služieb spôsobom uvedeným
+v tejto Zmluve.
+9.2 Záručná doba na SLA Služby resp. zmenené IS ŠFRB a spôsob vybavenia reklamácií pre
+jednotlivé druhy SLA služieb je 24 mesiacov.
+9.3 Záručná doba začína plynúť dňom riadneho prevzatia SLA Služby, teda dňom podpísania
+preberacieho protokolu oprávnenou osobou Objednávateľa a oprávnenou osobou
+Dodávateľa podľa tejto Zmluvy.
+9.4 Zodpovednosť Dodávateľa za vady SLA Služieb nevznikne, ak tieto boli spôsobené
+neodbornou prevádzkou, obsluhou a údržbou a používaním Objednávateľa v rozpore
+s inštrukciami Dodávateľa.
+
+10. Súčinnosť
+10.1 Obidve Zmluvné strany sú povinné do 14 dní od účinnosti Zmluvy doručiť druhej Zmluvnej
+strane zoznam Splnomocnených osôb vrátane ich kontaktných údajov (tel. číslo, e-mailová
+adresa):
+- „Splnomocnená osoba Objednávateľa“ – osoba oprávnená zaslať „Požiadavku na
+dodanie SLA Služby“ a/alebo schváliť „Ponuku“ a/alebo podpísať „Akceptačný protokol“ za
+stranu Objednávateľa.
+- „Splnomocnená osoba Dodávateľa“ – osoba oprávnená prijať „Požiadavku na dodanie
+SLA Služby“ a/alebo zaslať „Ponuku“ a/alebo podpísať „Akceptačný protokol“ za stranu
+Dodávateľa.
+Zmluvné strany sa zaväzujú v prípade zmien v zozname
+bezodkladne písomne informovať druhú Zmluvnú stranu.
+
+Splnomocnených
+
+osôb
+
+10.2 Dodávateľovi bude v prípade potreby umožnený vstup do sídla resp. iných priestorov
+Objednávateľa (ďalej aj ako „pracovisko Objednávateľa“) za účelom plnenia tejto Zmluvy
+a podľa dohody mu bude poskytnutý priestor pre overenie a testovanie SLA služby. Pri
+činnostiach na pracovisku Objednávateľa sa zaväzuje riadiť pokynmi Splnomocnenej osoby
+Objednávateľa a platnými internými predpismi Objednávateľa.
+10.3 Dodávateľ je povinný vrátiť do 5 dní od ukončenia účinnosti tejto Zmluvy všetky v rámci
+súčinnosti poskytnuté nástroje, zariadenia, dokumentáciu alebo iné predmety, pokiaľ mu pre
+účely dodania SLA Služieb podľa tejto Zmluvy boli poskytnuté Objednávateľom.
+
+-9-
+
+10.4
+Objednávateľ sa zaväzuje poskytnúť Dodávateľovi nevyhnutnú súčinnosť pri
+plnení povinností Dodávateľa vyplývajúcich mu z tejto Zmluvy, a to spôsobom ktorý
+minimalizuje čas týkajúci sa analýzy a testovania zmeneného IS ŠFRB (po vykonaní SLA
+Služby) zo strany Objednávateľa tak, aby tento čas z celkového Časového a realizačného
+plánu (dohodnutého v súvislosti s konkrétnou Požiadavkou na dodanie SLA Služby)
+nepresiahol 30%. V opačnom prípade sa celkový čas na realizáciu SLA služieb predlžuje o
+čas spojený s analýzou a testovaním zo strany Objednávateľa.
+11. Mlčanlivosť
+11.1
+Dodávateľ sa zaväzuje, že akékoľvek informácie, ktoré mu boli zverené na
+základe plnenia tejto Zmluvy, nesprístupní tretím osobám bez písomného súhlasu
+Objednávateľa a tieto informácie nepoužije pre iné účely, ako na plnenie povinností podľa
+tejto Zmluvy a pre účely, ktoré táto Zmluva predpokladá, a to ani po skončení účinnosti tejto
+Zmluvy.
+11.2
+Dodávateľ sa zaväzuje prísne dôverne zaobchádzať so všetkými odbornými
+a obchodnými podkladmi a informáciami, o ktorých sa dozvedel, alebo ktoré získal pri plnení
+predmetu tejto Zmluvy, a to v písomnej, ústnej, elektronickej alebo akejkoľvek inej forme
+a zaväzuje sa o nich zachovávať mlčanlivosť, neposkytnúť tieto podklady a informácie tretej
+osobe a nevyužiť ich na iný účel, ako pre plnenie povinností podľa tejto Zmluvy, a to ani po
+skončení účinnosti tejto zmluvy. Objednávateľ považuje tieto podklady a informácie za
+dôverné pričom prejavuje vôľu ich utajovať v zmysle príslušných ustanovení Obchodného
+zákonníka v platnom znení (§ 17 -20 a § 271 Obchodného zákonníka). Dodávateľ vyhlasuje,
+že si je vedomý právnych dôsledkov vyplývajúcich z nedodržania povinnosti mlčanlivosti.
+11.3
+Zmluvné strany sa dohodli, že dôverné informácie neposkytnú tretím osobám a
+prijmú také opatrenia, ktoré znemožnia ich prístupnosť tretím osobám. Ustanovenia
+predchádzajúcej vety sa nevzťahuje na poskytnutie dôverných informácií:
+a)
+
+ak má Objednávateľ zákonom stanovenú povinnosť takú informáciu sprístupniť alebo
+zverejniť;
+
+b)
+
+pre účely akéhokoľvek súdneho, rozhodcovského, správneho alebo iného konania, ktorého je
+príslušná Zmluvná strana účastníkom;
+
+c)
+
+odborným poradcom Zmluvnej strany (vrátane právnych, účtovných, daňových a iných
+poradcov), ktorí sú buď viazaní všeobecnou profesionálnou povinnosťou mlčanlivosti alebo ak
+sa voči príslušnej Zmluvnej strane zaviazali povinnosťou mlčanlivosti;
+
+d)
+
+Ovládajúcej osobe Objednávateľa prípadne osobe ovládanej Objednávateľom,
+
+e)
+
+sa také informácie stanú verejne prístupné, ak majú Zmluvné strany zákonom stanovenú
+povinnosť takú informáciu sprístupniťalebo zverejniť; a/alebo
+
+f)
+
+sa také informácie stanú verejne známymi či dostupnými inak, ako porušením povinností
+vyplývajúcich z tejto Zmluvy.
+
+- 10 -
+
+11.4 Dodávateľ sa zaväzuje neobnoviteľným spôsobom zlikvidovať všetky elektronické,
+papierové dokumenty, alebo záznamy na iných nosičoch obsahujúce informácie získané počas
+účinnosti a na základe tejto Zmluvy a to do 5 dní od ukončenia účinnosti tejto Zmluvy.
+11.5 Dodávateľ sa zaväzuje:
+a) zabezpečiť riadne a včasné dodanie SLA služieb,
+b) niesť v plnom rozsahu zodpovednosť za kvalitu poskytnutých SLA služieb a za funkčnosť
+IS ŠFRB za účelom plnenia záväzkov podľa tejto Zmluvy. Dodávateľ nesie zodpovednosť za
+akúkoľvek prípadnú nežiaducu modifikáciu osobných údajov a bankového tajomstva (ak k ním
+bude mať Dodávateľ oprávnený prístup) spôsobenú neodborným zásahom Dodávateľa do IS
+ŠFRB, ako aj za akúkoľvek inú vadu SLA služieb,
+c) postupovať pri výkone všetkých činností dohodnutých v Zmluve pre Objednávateľa
+s odbornou starostlivosťou a v súlade so záujmami Objednávateľa a podľa pokynov
+Objednávateľa, konať tak, aby nedošlo k poškodeniu alebo ohrozeniu dobrého mena a povesti
+Objednávateľa a porušeniu povinnosti mlčanlivosti najmä vo vzťahu k osobným údajom a/alebo
+údajom, ktoré sú predmetom bankového tajomstva.
+11.6 Za dôverné informácie podľa tejto Zmluvy Zmluvné strany považujú všetky informácie
+poskytnuté Objednávateľom, a to vedome alebo nevedome, v písomnej aj v ústnej forme,
+najmä informácie, ktoré sú predmetom bankového tajomstva a/alebo sú osobnými údajmi
+v zmysle zákona č. 122/2013 Z. z. o ohrane osobných údajov, ktoré sa zmluvné strany
+dozvedeli v súvislosti s touto Zmluvou (ďalej len „dôverné informácie“) okrem tých dôverných
+informácií, ktoré je Objednávateľ povinný zverejňovať ako povinná osoba v zmysle bodu 13.1
+tejto Zmluvy a/alebo v zmysle všeobecne záväzných právnych predpisov.
+11.7 Záväzok mlčanlivosti zmluvných strán o získaných dôverných informáciách ukončením
+tejto Zmluvy nezaniká.
+11.8 Dodávateľ :
+a) potvrdzuje, že bol Objednávateľom poučený
+ o ochrane údajov charakteru bankového tajomstva v zmysle zákona č. 483/2001 Z. z. o
+bankách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a
+ ako prevádzkovateľom informačných systémov o ochrane osobných údajov v zmysle
+zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých
+zákonov,
+ ako aj o právach a povinnostiach, či sankciách ustanovených vyššie uvedenými zákonmi,
+b) zaväzuje sa, že údaje charakteru bankového tajomstva a osobné údaje, ku ktorým majú,
+resp. by mohli mať prístup v rámci plnenia predmetu tejto zmluvy zamestnanci, či zástupcovia
+Dodávateľa (ďalej spolu aj ako „zamestnanci Dodávateľa“) nezneužije pre svoje potreby a bez
+súhlasu Objednávateľa ich nezverejní a nikomu neposkytne, ani nesprístupní, bude ich chrániť
+pred odcudzením, stratou, poškodením, neoprávneným prístupom a zmenou,
+c) je si vedomý, že povinnosť mlčanlivosti fyzických osôb – zamestnancov Dodávateľa
+o dôverných informáciách a to najmä o bankovom tajomstve a o osobných údajoch, ku ktorým
+majú, resp. by mohli mať prístup v rámci plnenia predmetu tejto Zmluvy trvá aj po ukončení
+zmluvného vzťahu z tejto Zmluvy,
+d) je povinný poučiť o povinnostiach, s ktorými bola oboznámený, najmä však o povinnosti
+mlčanlivosti všetkých zamestnancov Dodávateľa, prípadne aj ďalšie osoby, ktoré sa podieľajú
+na realizácii činností v zmysle tejto Zmluvy,
+e) berie na vedomie, že za porušenie povinnosti mlčanlivosti fyzických osôb si Objednávateľ
+môže nárokovať úhradu vzniknutej škody v zmysle dohôd dojednaných v tejto Zmluve.
+
+- 11 -
+
+V prípade osobných údajov Úrad na ochranu osobných údajov Slovenskej republiky môže
+danej osobe uložiť pokutu od 150 eur do 3000 eur podľa zákona o ochrane osobných údajov.
+Týmto nie je vylúčená prípadná trestnoprávna zodpovednosť, ak konanie bude napĺňať
+skutkovú podstatu trestné činu podľa ustanovení Trestného zákona.
+12. Doručovanie
+12.1 Akékoľvek prejavy vôle Zmluvných strán súvisiace so Zmluvou budú vyhotovené písomne
+a doručené zmluvnej Strane, ktorej sú adresované osobne, alebo zaslané poštou s uvedeným
+menom oprávnených osôb, ktoré sú oprávnené konať za Zmluvnú stranu vo veciach
+zmluvných.
+
+13. Záverečné ustanovenia
+13.1 Zmluvné strany vyhlasujú, že Zmluvu uzavreli slobodne, vážne, určite a zrozumiteľne, ich
+zmluvná voľnosť nie je obmedzená a na znak súhlasu s obsahom Zmluvy ju podpisujú. Táto
+Zmluva nadobúda platnosť dňom jej podpísania oboma Zmluvnými stranami a účinnosť dňom
+nasledujúcim po zániku platnosti Zmluvy o poskytovaní podpory a služieb k softvérovému
+produktu "Informačný systém ŠFRB dojednanej medzi zmluvnými stranami dňa 22.4.2015 za
+predpokladu, že táto Zmluva bude zverejnená v Centrálnom registri zmlúv vedenom Úradom
+vlády Slovenskej republiky v lehote troch mesiacov odo dňa uzatvorenia tejto Zmluvy. Zmluvné
+strany sa ďalej dohodli, že zverejnenie tejto Zmluvy zabezpečí Objednávateľ najneskôr v
+lehote troch mesiacov odo dňa uzatvorenia tejto Zmluvy. Dodávateľ súhlasí so zverejnením
+Zmluvy v celom jej znení vrátane jej prípadných príloh v zmysle zákona č. 211/2000 Z. z. o
+slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení
+neskorších právnych predpisov (ďalej aj ako „zákon“), pričom vyhlasuje, že táto Zmluva
+neobsahuje informácie, ktoré by nebolo možné zverejniť resp. sprístupniť v zmysle zákona, a
+to najmä obchodné tajomstvo, bankové tajomstvo, daňové tajomstvo a pod. a v prípade, že
+také informácie obsahuje, dáva Dodávateľ Objednávateľovi súhlas tieto informácie v zmysle
+zákona zverejniť resp. sprístupniť. V prípade, ak zmluvné strany nezverejnia túto Zmluvu v
+zmysle zákona a v zmysle § 47a Občianskeho zákonníka v lehote troch mesiacov odo dňa
+uzatvorenia tejto Zmluvy, platí, že k uzatvoreniu tejto Zmluvy nedošlo a zmluvné strany nie sú
+touto Zmluvou viazané.
+
+13.2 Meniť alebo dopĺňať text Zmluvy je možné len písomnou formou spravidla písomných,
+očíslovaných dodatkov, ktoré budú podpísané oprávnenými zástupcami obidvoch Zmluvných
+strán ak nie je v tejto Zmluve dohodnuté niečo iné.
+
+13.3 Táto Zmluva sa riadi slovenským právnym poriadkom a všeobecne platnými predpismi
+Slovenskej republiky a na riešenie sporov vyplývajúcich z tejto zmluvy sú príslušné súdy
+Slovenskej republiky. Právne vzťahy touto Zmluvou výslovne neupravené sa spravujú
+príslušnými ustanoveniami Obchodného zákonníka a inými príslušnými všeobecne záväznými
+právnymi predpismi Slovenskej republiky najmä príslušnými ustanoveniami autorského
+zákona.
+
+13.4 Práva a povinnosti Dodávateľa vyplývajúce z tejto Zmluvy sú prevoditeľné na tretiu stranu
+len s predchádzajúcim písomným súhlasom Objednávateľa.
+
+- 12 -
+
+13.5 Táto Zmluva je vyhotovená v dvoch rovnopisoch v slovenskom jazyku, z ktorých jeden
+dostane Objednávateľ a jeden Dodávateľ.
+
+13.6 Osoba oprávnená konať za Dodávateľa vo veciach zmluvných z tejto Zmluvy: Ing.
+Vladimír Tisek, mobil: 00421 903 524 354, e-mail: vladimir.tisek@medoit.sk. Akékoľvek
+písomnosti zo strany Objednávateľa budú adresované na nasledovnú adresu:
+MeDoIT, s.r.o.
+Ing. Vladimír Tisek
+Hodžova 204/16
+010 01 Žilina
+
+13.7 Osoba oprávnená konať za Objednávateľa vo veciach zmluvných z tejto Zmluvy: Ing. Ján
+Homoljak, mobil: 0903 302 051, e-mail: jan.homoljak@szrb.sk . Akékoľvek písomnosti zo
+strany Dodávateľa budú adresované na nasledovnú adresu:
+Slovenská záručná a rozvojová banka, a.s.
+Štefánikova 27
+814 99 BRATISLAVA 1
+Akákoľvek písomnosť musí obsahovať meno kontaktnej osoby oprávnenej konať vo veciach
+zmluvných tejto Zmluvy uvedenej v tomto bode Zmluvy pri písomnom doručení, v prípade
+zaslania e-mailom, musí byť zaslaná na e-mail kontaktnej osoby.
+Zmena kontaktných údajov Dodávateľa musí byť oznámená Objednávateľovi najneskôr 10 dní
+pred plánovanou zmenou.
+13.8 Zmluvné strany môžu predčasne ukončiť platnosť tejto Zmluvy písomnou dohodou
+Zmluvných strán, výpoveďou alebo odstúpením od tejto Zmluvy a/alebo od konkrétnej
+Požiadavky na dodanie SLA Služby.
+13.9 Každá zo Zmluvných strán je oprávnená odstúpiť od tejto Zmluvy a/alebo od konkrétnej
+Požiadavky na dodanie SLA Služby pri podstatnom porušení zmluvných podmienok druhou
+zmluvnou stranou tejto Zmluvy. Pod podstatným porušením zmluvných podmienok
+Dodávateľom je chápané opakované neposkytnutie SLA služby v stanovenom termíne alebo
+poskytnutie SLA služby s vadami a neodstránenie vád v termínoch a spôsobom tak, ako je to
+uvedené v tejto Zmluve a/alebo v konkrétnej Požiadavke na dodanie SLA Služby. Dodávateľ
+môže odstúpiť od tejto Zmluvy a/alebo od konkrétnej Požiadavky na dodanie SLA Služby, ak
+Banka podstatne poruší túto Zmluvu t.j. ak je v omeškaní s úhradou faktúry a napriek
+písomnému upozorneniu Dodávateľa neuhradí faktúru do 15 dní od doručenia písomnej výzvy
+Dodávateľa na uhradenie faktúry nezaplatenej v lehote jej splatnosti.
+13.10 Odstúpenie od tejto Zmluvy a/alebo od konkrétnej Požiadavky na dodanie SLA Služby
+sa nedotýka právnych vzťahov vzniknutých do okamihu odstúpenia od tejto Zmluvy a/alebo od
+konkrétnej Požiadavky na dodanie SLA Služby.
+13.11 Zmluvu môže Objednávateľ vypovedať doručením písomnej výpovede Dodávateľovi, a
+to aj bez udania dôvodu. Výpovedná lehota v takomto prípade je dva mesiace a začína plynúť
+
+- 13 -
+
+prvým dňom mesiaca nasledujúcom po doručení výpovede Dodávateľovi. V prípade, že Banka
+vypovie túto Zmluvu z dôvodu porušenia povinnosti mlčanlivosti (Dodávateľom) ohľadom
+dôverných informácií, ktoré sú predmetom bankového tajomstva a/alebo ktoré sú predmetom
+ochrany osobných údajov, je výpovedná lehota tri pracovné dni a začína plynúť prvým dňom
+nasledujúcom po doručení výpovede Dodávateľovi.
+
+13.12 Zmluvné strany sa zaväzujú v prípade vypovedania tejto Zmluvy resp. odstúpenia od
+tejto Zmluvy alebo od konkrétnej Požiadavky na dodanie SLA Služby vysporiadať všetky
+nároky vyplývajúce zo Zmluvy a/alebo od konkrétnej Požiadavky na dodanie SLA Služby do 60
+dní od skončenia účinnosti tejto Zmluvy a/alebo od skončenia účinnosti konkrétnej Požiadavky
+na dodanie SLA Služby.
+13.13 Zánikom platnosti a účinnosti tejto Zmluvy a/alebo od skončenia účinnosti konkrétnej
+Požiadavky na dodanie SLA Služby však nie sú dotknuté práva a povinnosti Zmluvných strán
+najmä právo na náhradu škody, zmluvné pokuty, úroky z omeškania, povinnosť mlčanlivosti.
+
+Za Objednávateľa
+V Bratislave, dňa
+
+Za Dodávateľa
+V Bratislave, dňa
+Ing. Vladimír Tisek
+Konateľ
+MeDoIT s.r.o.
+
+Ing. Peter Ševčovic
+podpredseda predstavenstva
+Slovenská záručná a rozvojová banka, a. s.
+
+Ing. Zoltán Gyurász
+člen predstavenstva
+Slovenská záručná a rozvojová banka, a. s.
+
+- 14 -
+
+

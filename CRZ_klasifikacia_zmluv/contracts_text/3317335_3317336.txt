@@ -1,0 +1,647 @@
+Kúpna zmluva č. Z20184582_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Univerzitná nemocnica Bratislava
+Pažítková 4, 82101 Bratislava, Slovenská republika
+31813861
+2021700549
+SK2021700549
+SK5881800000007000279808
++421 248234986
+
+Dodávateľ:
+Obchodné meno:
+
+STAPRO SLOVENSKO s.r.o.
+
+Sídlo:
+
+Hroncova 3, 04001 Košice, Slovenská republika
+
+IČO:
+
+31710549
+
+DIČ:
+
+2020483982
+
+IČ DPH:
+
+SK2020483982
+
+Číslo účtu:
+
+SK89 0200 0000 0012 1814 9953
+
+Telefón:
+
+0918166720
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Implementácia pripojenia nemocničných informačných systémov Stapro MEDEA a FONS
+do eZdravie a klasifikačného systému s výstupom výkazov zdravotnej starostlivosti do
+zdravotných poisťovní.
+
+Kľúčové slová:
+
+nemocničný informačný systém, eZdraive, klasifikačný systém zdravotných poisťovní, NIS
+
+CPV:
+
+48180000-3 - Softvérový balík pre zdravotníctvo; 48611000-4 - Databázový softvérový
+balík; 72268000-1 - Dodávky softvéru; 72261000-2 - Softvérové podporné služby;
+72260000-5 - Služby súvisiace so softvérom
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Modul pre integráciu Nemocničného informačného systému MEDEA ďalej len „NIS“ na služby
+Národného zdravotníckeho informačného systému „eZdravie“.
+
+Funkcia
+Modul pre integráciu Nemocničného informačného systému MEDEA ďalej len „NIS“ na služby Národného zdravotníckeho
+informačného systému „eZdravie“ ...
+Integračný modul je riešený takým spôsobom, aby užívateľ nemusel opustiť aplikáciu NIS.
+Integračný modul je riešený takým spôsobom, aby užívateľ nemusel informácie zapisovať duplicitne, najmä ambulantný nález,
+prepúšťaciu správu a pacientsky sumár.
+Integračný modu umožní prácu v NIS aj v prípade nedostupnosti služieb NZIS “eZdravie”, t.j. užívateľ môže plnohodnotne
+pracovať v NIS, ošetrovať pacientov a tlačiť zdravotnú dokumentáciu pre pacienta, či využiť archívne údaje.
+Integračný modul umožní prácu v NIS aj v prípade, že lekár nevloží kartu zdravotníckeho pracovníka do čítačky, t.j. užívateľ
+môže plnohodnotne pracovať v NIS, ošetrovať pacientov a tlačiť zdravotnú dokumentáciu pre pacienta, či využiť archívne
+údaje.
+Integračný modul umožní spätné odoslanie nálezov, ktoré do NZIS “eZdravie” neboli odoslané z rôznych dôvodov (napr.
+nedostupnosť služieb, nevložená karta, nefunkčná čítačka).
+
+Strana 1 z 7
+
+Integračný modul poskytuje prehľad, ktoré správy boli odoslané do NZIS “eZdravie” a ktoré zostali uložené len v lokálnej
+databáze NIS.
+Služby pre preskripciu v doméne eRecept sú s napojením na riešenie eRecept VšZP, Dôvera, Union.
+Modul pre integráciu NIS do klasifikačného systému a reporting ...
+Integračný modul je riešený takým spôsobom, aby užívateľ nemusel opustiť aplikáciu NIS.
+Integračný modul na základe údajov o priebehu hospitalizačného prípadu umožní klasifikovať jednotlivé hospitalizačné prípady
+do konkrétnej DRG skupiny v zmysle pravidiel definovaných v „Definičnej príručke“, vydanej správcom klasifikačného systému
+a platnej v dobe poskytnutia zdravotnej starostlivosti. Hlavnou časťou modulu je klasifikačné jadro vykonávajúce samotnú
+klasifikáciu na základe Vstupných údajov podľa zložitej matice zodpovedajúcej Definičnej príručke. Klasifikačné jadro
+komunikuje s nemocničným informačným systémom a pracuje v jeho grafickom rozhraní. Dôležitou súčasťou ...
+... modulu je jeho vlastná Grafická nadstavba - pre zrozumiteľnejší grafický výstup, komfortnú možnosť vykonávania
+požadovaných zmien Vstupných údajov a sledovania Výstupných parametrov a pre ďalšie nadstavbové štatistické, finančné,
+analytické a iné požadované funkcie. Grafická nadstavba funguje ako samostatný program alebo cez webový formulár.
+Integračný modul umožňuje pomocou integrácie s NIS v reálnom čase upozorniť užívateľov na prípadné chyby a nedostatky
+pri kódovaní tak, aby výstup čo najviac zodpovedal skutočnému priebehu hospitalizačného prípadu. Integračný modul
+umožňuje informovať užívateľa o nedostatkoch vo vykazovaní, zaradení do skupiny, výške platby od ZP - zdravotnej poisťovne
+aj o dovtedajších nákladoch na pacienta.
+Integračný modul je plne integrovaný s nemocničným informačným systémom (NIS), kedy sa údaje z NIS priamo odosielajú do
+klasifikačného systému a výsledky budú automaticky ukladané späť do NISu.
+Integračný modul umožňuje klasifikovať údaje následným spôsobom: priamym zadaním údajov o hospitalizácii pacienta cez
+grafické užívateľské rozhranie, formou dávkového súboru nahraného cez grafické užívateľské rozhranie, vstupom budú riadky
+dávky 274a podľa MU č. 5/1/2015, príloha č.7.
+Integračný modul spĺňa nasledujúce požiadavky: pri spracovaní údajov vykoná validáciu vstupných údajov a poskytne
+informácie o prípadných chybách, v priebehu zmluvného vzťahu umožniť funkciu zlúčenia hospitalizačných prípadov pri
+rehospitalizácií alebo spätnom preklade v súlade s pravidlami vytvárania hospitalizačných prípadov v Slovenskej republike.
+Integračný modul poskytuje následné výstupné údaje: klasifikovaná skupina, efektívna relatívna váha, počet dní, ktoré sa
+zohľadnili pri výpočte efektívnej relatívnej váhy, platba za prípad (vypočítaná na základe na vstupe zadanej základnej sadzby),
+MDC (základná diagnostická kategória) segment, informácia o priebehu alebo chybách spracovania hospitalizačného prípadu,
+chyby, ktoré sa vyskytli pri validácii a klasifikácii, alternatívy kódovania, upozornenie na možnosť pridania kódu diagnózy alebo
+kódu výkonu, ktoré sa štatisticky často v príslušnej skupine nachádzajú.
+Reportingový modu voliteľne poskytuje následné analytické, reportingové a kontrolingové výstupy: štruktúru produkcie v
+systéme DRG (zobrazenie a vývoj kľúčových ukazovateľov), kvalitu vykazovania nemocnice (napr. nízke PCCL -stupeň
+klinickej obtiažnosti pacienta, málo operácií, chybové skupiny a iné), výstupy budú poskytované vo formáte *.txt eventuálne
+*.csv súboroch.
+Aktualizácia: dodávateľ zabezpečí upgrade integračného modulu podľa platnej legislatívy.
+Dokumentácia: dodávateľ zabezpečí všetku potrebnú dokumentáciu pre potreby využívania integračného modulu užívateľmi,
+správcami ako aj pre potrebnú integráciu na iné systémy.
+Ochrana osobných údajov: Systém zabezpečí, aby nemocnica pri spracúvaní osobných údajov pacientov dodržala požiadavky
+v zmysle aktuálne platnej legislatívy o ochrane osobných údajov.
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Maximum
+
+Presne
+
+Implementácia pripojenia nemocničných informačných
+systémov do eZdravie a klasifikačného systému s
+výstupom výkazov zdravotnej starostlivosti do
+zdravotných poisťovní.
+Podľa aktuálnej dokumentácie NCZI z 03.101.2017 sú to
+ďalej uvedené služby a procesy:
+Typ IS PZS / Úkon
+
+Procesný scenár služieb // Názov služby
+
+Ambulantný systém
+Predpis lieku/ liečiva
+
+Predpis konkretného lieku // UlozPreskripcnyZaznam
+
+Predpis lieku/ liečiva
+
+Predpis konkretného liečiva // UlozPreskripcnyZaznam
+
+Predpis lieku na odporúčanie iného lekára
+
+Predpis lieku na odporúčanie iného lekára //
+UlozPreskripcnyZaznam
+
+Predpis zdravotnej pomôcky
+
+Predpis zdravotnej pomôcky // UlozPreskripcnyZaznam
+
+Predpis zdravotnej pomôcky na odporúčanie iného
+lekára
+
+Predpis zdravotnej pomôcky na odporúčanie iného lekára //
+UlozPreskripcnyZaznam
+
+Strana 2 z 7
+
+Storno preskripčného záznamu
+
+Storno preskripčného záznamu s identifikátorom receptu //
+DajPreskripcnyZaznam
+
+Storno preskripčného záznamu
+
+Storno preskripčného záznamu s identifikátorom receptu //
+StornujPreskripcnyZaznam
+
+Získanie šifrovacieho JRÚZ identifikátora pacienta
+(ESID)
+
+Získanie šifrovacieho JRÚZ identifikátora pacienta (ESID) zadaním
+RČ // DajJRUZIdentifikator_GW_v2
+
+Získanie šifrovacieho JRÚZ identifikátora pacienta
+(ESID)
+
+Získanie RČ + šifrovacieho JRÚZ identifikátora pacienta (ESID)
+vložením eID do čítačky // DajRodneCisloPrZS_GW_v2
+
+Vyhľadanie príslušnosti k ZP
+
+Vyhľadanie príslušnosti k ZP prostredníctvom vloženia eID do
+čítačky // DajZP_PrZS_GW_v2
+
+Vyhľadanie príslušnosti k ZP
+
+Vyhľadanie príslušnosti k ZP zadaním RČ // DajZP_PrZS_GW_v2
+
+Vyhľadanie odborného útvaru PZS zo šifrovaného JRÚZ
+
+Vyhľadanie odborného útvaru PZS na základe JRÚZ Identifikátora
+// DajOUPZS_v1
+
+Vyhľadanie RČ pacienta zo šifrovaného JRÚZ
+
+Vyhľadanie RČ pacienta na základe JRÚZ ID pacienta //
+DajRodneCisloPrZS_GW_v2
+
+Vyhľadanie Zdravotníckeho pracovníka zo šifrovaného
+JRÚZ
+
+Vyhľadanie Zdravotníckeho pracovníka na základe JRÚZ
+Identifikátora // DajZPr_v1
+
+Získanie PPT tokenu pre prístup k detailným záznamom
+
+Získanie PPT tokenu pre prístup k detailným záznamom //
+GetPatientIdentifier
+
+Zapísanie záznamu z vyšetrenia bez odporúčania/ s
+odporúčaním lekára
+
+Zapísanie záznamu z odborného vyšetrenia – VAS/ŠAS //
+ZapisZaznamOVysetreni_v4
+
+Zapísanie záznamu z vyšetrenia bez odporúčania/ s
+odporúčaním lekára
+
+Zapísanie záznamu z odborného vyšetrenia – LSPP/ CP //
+ZapisZaznamOVysetreni_v4
+
+Zapísanie záznamu z vyšetrenia bez odporúčania/ s
+odporúčaním lekára
+
+Zapísanie záznamu z odborného vyšetrenia s vytvorením
+odporúčania na vyšetrenie – VAS/ ŠAS //
+ZapisZaznamOVysetreni_v4
+
+Zapísanie záznamu z vyšetrenia bez odporúčania/ s
+odporúčaním lekára
+
+Zapísanie záznamu z odborného vyšetrenia s vytvorením
+odporúčania na vyšetrenie – LSPP/ CP //
+ZapisZaznamOVysetreni_v4
+
+Zapísanie záznamu z vyšetrenia bez odporúčania/ s
+odporúčaním lekára
+
+Zapísanie záznamu zo zobrazovacieho vyšetrenia //
+ZapisZaznamOVysetreni_v4
+
+Zápis záznamu z vyšetrenia na základe odporúčania
+lekára / Kontrola na základe zapísaného vyšetrenia k
+odporúčaniu lekára
+
+Vyhľadanie „odporúčaného vyšetrenia“ pacienta //
+VyhladajZaznamyOVysetreniach_PreZiadatela_v4
+
+Zápis záznamu z vyšetrenia na základe odporúčania
+lekára / Kontrola na základe zapísaného vyšetrenia k
+odporúčaniu lekára
+
+Kontrola na základe vykonaných záznamov z vyšetrení k
+„odporúčanému vyšetreniu“ //
+VyhladajZaznamyOVysetreniach_PreZiadatela_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou textu v popisoch ≤
+2000 znakov - kapitačný lekár //
+VyhladajZaznamyOVysetreniach_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou textu v popisoch ≤
+2000 znakov - iný zdravotnícky pracovník //
+ZapisSuhlasOsobyPrePZS
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou textu v popisoch ≤
+2000 znakov - iný zdravotnícky pracovník //
+VyhladajZaznamyOVysetreniach_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - kapitačný lekár // VyhladajZaznamyOVysetreniach_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - kapitačný lekár // DajZaznamOVysetreni_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - iný Zdravotnícky pracovník // ZapisSuhlasOsobyPrePZS
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - iný Zdravotnícky pracovník //
+VyhladajZaznamyOVysetreniach_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - iný Zdravotnícky pracovník // DajZaznamOVysetreni_v4
+
+Čítanie záznamu z laboratórneho vyšetrenia
+
+Daj laboratórny výsledok prostredníctvom implicitného súhlasu //
+DajLaboratornyVysledok_v2
+Strana 3 z 7
+
+Čítanie záznamu z laboratórneho vyšetrenia
+
+Daj laboratórny výsledok prostredníctvom eID //
+ZapisSuhlasOsobyPrePZS
+
+Čítanie záznamu z laboratórneho vyšetrenia
+
+Daj laboratórny výsledok prostredníctvom eID //
+DajLaboratornyVysledok_v2
+
+Nemocničný (lôžkové oddelenie)
+Získanie šifrovacieho JRÚZ identifikátora pacienta
+(ESID)
+
+Získanie šifrovacieho JRÚZ identifikátora pacienta (ESID) zadaním
+RČ // DajJRUZIdentifikator_GW_v2
+
+Získanie šifrovacieho JRÚZ identifikátora pacienta
+(ESID)
+
+Získanie RČ + šifrovacieho JRÚZ identifikátora pacienta (ESID)
+vložením eID do čítačky // DajRodneCisloPrZS_GW_v2
+
+Vyhľadanie príslušnosti k ZP
+
+Vyhľadanie príslušnosti k ZP prostredníctvom vloženia eID do
+čítačky // DajZP_PrZS_GW_v2
+
+Vyhľadanie príslušnosti k ZP
+
+Vyhľadanie príslušnosti k ZP zadaním RČ // DajZP_PrZS_GW_v2
+
+Vyhľadanie odborného útvaru PZS zo šifrovaného JRÚZ
+
+Vyhľadanie odborného útvaru PZS na základe JRÚZ Identifikátora
+// DajOUPZS_v1
+
+Vyhľadanie RČ pacienta zo šifrovaného JRÚZ
+
+Vyhľadanie RČ pacienta na základe JRÚZ ID pacienta //
+DajRodneCisloPrZS_GW_v2
+
+Vyhľadanie Zdravotníckeho pracovníka zo šifrovaného
+JRÚZ
+
+Vyhľadanie Zdravotníckeho pracovníka na základe JRÚZ
+Identifikátora // DajZPr_v1
+
+Získanie PPT tokenu pre prístup k detailným záznamom
+
+Získanie PPT tokenu pre prístup k detailným záznamom //
+GetPatientIdentifier
+
+Zapísanie záznamu z vyšetrenia bez odporúčania/ s
+odporúčaním lekára
+
+Zapísanie záznamu z prepúšťacej správy //
+ZapisZaznamOVysetreni_v4
+
+Zápis záznamu z vyšetrenia na základe odporúčania
+lekára / Kontrola na základe zapísaného vyšetrenia k
+odporúčaniu lekára
+
+Vyhľadanie „odporúčaného vyšetrenia“ pacienta //
+VyhladajZaznamyOVysetreniach_PreZiadatela_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou textu v popisoch ≤
+2000 znakov - iný zdravotnícky pracovník //
+ZapisSuhlasOsobyPrePZS
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou textu v popisoch ≤
+2000 znakov - iný zdravotnícky pracovník //
+VyhladajZaznamyOVysetreniach_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - iný Zdravotnícky pracovník // ZapisSuhlasOsobyPrePZS
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - iný Zdravotnícky pracovník //
+VyhladajZaznamyOVysetreniach_v4
+
+Vyhľadanie vyšetrení na základe prehľadu vyšetrení
+
+Vyhľadanie záznamov z vyšetrenia s dĺžkou popisu nad 2000
+znakov - iný Zdravotnícky pracovník / DajZaznamOVysetreni_v4
+
+Čítanie záznamu z laboratórneho vyšetrenia
+
+Daj laboratórny výsledok prostredníctvom implicitného súhlasu //
+DajLaboratornyVysledok_v2
+
+Čítanie záznamu z laboratórneho vyšetrenia
+
+Daj laboratórny výsledok prostredníctvom eID //
+ZapisSuhlasOsobyPrePZS
+
+Čítanie záznamu z laboratórneho vyšetrenia
+
+Daj laboratórny výsledok prostredníctvom eID //
+DajLaboratornyVysledok_v2
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Predmetom zmluvy je úprava práv a povinností zmluvných strán pri dodávke tovaru a súvisiacich služieb s dodávkou, ktorý je
+predmetom Plnenia a záväzok dodávateľa dodať tovar a vykonať pre objednávateľa služby, ktoré sú predmetom Plnenia za
+podmienok stanovených zmluvou a záväzok objednávateľa dodaný tovar a služby, ktoré sú predmetom Plnenia prevziať a
+zaplatiťdodávateľovi dohodnutú cenu.
+Predmetom Plnenia sú softwarové produkty a služby spojené s integráciou a implementáciou pripojenia nemocničných
+informačných systémov Stapro MEDEA a FONS do eZdravie a klasifikačného systému s výstupom výkazov zdravotnej
+starostlivosti do zdravotných poisťovní, vrátane inštalácie na mieste plnenia.
+
+Strana 4 z 7
+
+Dodávka musí obsahovať všetky potrebné položky, softwarové produkty, služby, softwarové nástroje, softwarové licencie,
+inštalácie, konfigurácie, projektové riadenia, aktualizácia, zaškolenie zamestnancov objednávateľa v potrebnom rozsahu,
+dodanie úplnej potrebnej dokumentácie pre potreby objednávateľa, pre účely využívania integračného modulu užívateľmi,
+správcami, ako aj pre potrebnú integráciu na iné systémy.
+Podmienkou dodávky je preukázanie zhody, že predmetný NIS spĺňa všetky požiadavky na pripojenie k NZIS eZdravie, podľa
+zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov a to najneskôr do piatich dní po uzavretí (vygenerovaní) zmluvy funkcionalitami EKS.
+Neoddeliteľnou súčasťou dodávky je vykonávanie upgrade integračného modulu podľa platnej legislatívy, najmenej po dobu
+poskytovanej záruky na dodaný predmet Plnenia. Záručná doba na predmet Plnenie v celom rozsahu je dohodnutá po dobu
+36 mesiacov od ukončeného plnenia, prevzatia predmetu Plnenia zástupcom objednávateľa a podpísania preberacieho
+protokolu.
+Cena za Plnenie je stanovená v súlade s § 3 zákona č. 18/1996 Z. z. o cenách a jeho vykonávacej vyhlášky č. 87/1996 Z. z.
+dohodou zmluvných strán.
+V dohodnutej cene za predmet Plnenia sú zahrnuté náklady na dopravu do miesta Plnenia, inštalácia, projektové riadenie,
+softwarové licencie, uvedenie do prevádzky, poučenie a zaškolenie obsluhy v požadovanom rozsahu a pod. vrátane ostatných
+nákladov spojených s dodávkou predmetu Plnenia. Cena je uvádzaná v mene Slovenskej republiky v EUR. Dohodnutá cena
+jemaximálna a konečná.
+Objednávateľ si vyhradzuje právo neprevziať Plnenie neúplné alebo vadné. V prípade, keď na základe fyzickej kontroly zistí
+nezrovnalosti – zrejmé chyby a vady Plnenia, resp. jeho nesúlad so zmluvou, Plnenie neprevezme a vystaví protokol
+nezrovnalostí.Dodávateľ je povinný na vlastné náklady zrejmé vady dodávok odstrániť a to najneskôr do 24 hodín hodín od
+uplatnenej reklamácie.
+Zálohové platby ani platba vopred sa neumožňuje. Platby budú realizované formou bezhotovostného platobného styku
+prostredníctvom finančných úradov zmluvných strán, po ukončení Plnenia a podpísaní preberacieho protokolu oprávnenými
+zástupcami objednávateľa a dodávateľa na faktúru, ktorej splatnosť je stanovená na min. 60 dní odo dňa jej doručenia
+objednávateľovi.
+Faktúra musí obsahovať všetky náležitosti daňového dokladu. Ak faktúra nebude obsahovať všetky náležitosti daňového
+dokladu, alebo ak nebude po stránke vecnej alebo formálnej správne vystavená, objednávateľ ju vráti dodávateľovi na
+doplnenie alebo prepracovanie a nová lehota splatnosti začne plynúť dňom doručenia správne vyplnenej alebo prepracovanej
+faktúry objednávateľovi.
+Uhrada predmetu plnenia bude realizovaná z účelovo vyčlenených finančných prostriedkov pridelených na tento účel zo strany
+poskytovateľa MZ SR. V prípade neakceptovania procesu obstarania zo strany poskytovateľa finančných prostriedkov, resp.
+ak finančné prostriedky zo strany poskytovateľa nebudú pridelené, objednávateľ si vyhradzuje právo od zmluvy odstúpiť.
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí
+uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z.z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z..
+Dodávateľ najneskoršie do 5 pracovných dní odo dňa uzavretia zmluvy (vygenerovaním zmluvy funkcionalitami EKS) predloží
+objednávateľovi:
+a) doklady a dokumenty nevyhnutné na preukázanie zhody, že predmetný NIS spĺňa všetky požiadavky na pripojenie k NZIS
+eZdravie, podľa zákona č. 153/2013 Z. z. o národnom zdravotníckom informačnom systéme a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov, vyhlásenie výrobcu aplikačného programového vybavenia NIS MEDEA/FONT k
+spôsobilosti pripojenia NIS k NZIS eZdravie a súhlasom s poskytnutím užívateľských licencií.
+b) podrobný štruktúrovaný rozpočet s konkrétnym návrhom riešenia predmetu Plnenia,
+c) vyhlásenie dodávateľa, že v prípade reklamácie dodaného tovaru neopustia žiadne dáta sídlo objednávateľa.
+Dodávateľ nie je oprávnený postúpiť akúkoľvek svoju pohľadávku alebo záväzky vyplývajúce z tejto Zmluvy na tretiu osobu
+bez predchádzajúceho písomného súhlasu objednávateľa. Písomný súhlas objednávateľa s týmto úkonom je zároveň platný
+len za podmienky, že bol na tento úkon udelený predchádzajúci písomný súhlas Ministerstva zdravotníctva SR. Právny úkon,
+ktorým budú postúpené pohľadávky dodávateľa v rozpore s týmto ustanovením je podľa § 39 zákona č. 40/1964 Zb. –
+Občiansky zákonník v znení neskorších predpisov neplatný.
+Nedodržiavanie ktorejkoľvek podmienky a požiadavky objednávateľa predmetu zákazky uvedenej v Opisnom formulári sa
+bude považovať na podstatné porušenie zmluvných podmienok. Objednávateľ predmetu zákazky si vyhradzuje právo na
+odstúpenie od zmluvy a vyhotovenie negatívnej referencie dodávateľovi predmetu zákazky.
+Ostatné právne vzťahy, výslovne touto dohodou neupravené, sa riadia príslušnými ustanoveniami Obchodného zákonníka a
+všeobecne záväznými platnými právnymi predpismi Slovenskej republiky.
+
+Strana 5 z 7
+
+Zmluva môže zaniknúť okrem riadneho splnenia všetkých práv a povinností zmluvných strán z nej vyplývajúcich, na základe
+dohody zmluvných strán alebo spôsobmi uvedenými v zákone a v obchodných podmienkach Elektronického trhoviska,
+výpoveďou s výpovednou lehotou 14 dní. Výpovedná lehota plynie odo dňa nasledujúceho po dni doručenia výpovede druhej
+zmluvnej strane.
+Táto zmluva nadobúda platnosť dňom jej vygenerovania systémo EKS a účinnosť dňom nasledujúcom po dni jej zverejnenia v
+Centrálnom registri zmlúv.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava II
+
+Obec:
+
+Bratislava - mestská časť Ružinov
+
+Ulica:
+
+Pažítková 4
+
+Čas / lehota plnenia zmluvy:
+19.02.2018 00:00:00 - 30.04.2018 23:59:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+súbor
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.2, účinná zo dňa 4.11.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 208 800,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 250 560,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+Strana 6 z 7
+
+V Bratislave, dňa 07.02.2018 12:38:00
+Objednávateľ:
+Univerzitná nemocnica Bratislava
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+STAPRO SLOVENSKO s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 7 z 7
+
+

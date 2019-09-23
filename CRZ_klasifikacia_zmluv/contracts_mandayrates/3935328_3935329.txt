@@ -1,0 +1,856 @@
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY
+INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+uzavretá v zmysle § 269 ods. 2 Obchodného zákonníka (ďalej len „zmluva“)
+
+Objednávateľ:
+obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+v mene ktorého koná:
+bankové spojenie:
+právna forma:
+
+Centrum vedecko-technických informácií SR
+Lamačská cesta 8/A, 81104 Bratislava
+00 151 882
+2020798395
+SK 2020798395
+prof. RNDr. Ján Turňa, CSc., generálny riaditeľ
+Štátna pokladnica, IBAN: SK05 8180 0000 0070 0006 4743
+príspevková organizácia
+(ďalej ako „Objednávateľ“)
+
+Dodávateľ:
+obchodné meno:
+Sídlo:
+právna forma:
+IČO:
+DIČ:
+IČ DPH:
+zapísaný v registri:
+
+InterWay, a.s.
+Stará Vajnorská 21, 831 04 Bratislava
+Akciová spoločnosť
+35 728 531
+2020268294
+SK2020268294
+Obchodný register Okresného súdu Bratislava I, Oddiel: Sa,
+Vložka č. 6123/B
+v mene ktorého koná: Ing. Petr Weber, prokurista
+bankové spojenie:
+(ďalej ako „Dodávateľ)
+(spolu ako „zmluvné strany“)
+uzatvárajú túto zmluvu
+
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+Článok 1
+Základné ustanovenia
+1.1 Zmluva sa uzatvára na základe výsledku verejného obstarávania uskutočneného v súlade
+so zákonom č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov.
+1.2 ISS CVTI SR je informačný systém Integrovaný systém služieb Centra vedecko-technických
+informácií SR a je určený pre zabezpečenie podpory vedy a výskumu na Slovensku.
+Pod informačným systémom sa rozumejú všetky jeho komponenty, z ktorých je systém
+vybudovaný a ktoré sú jeho súčasťou z pohľadu prevádzky.
+Článok 2
+Predmet zmluvy
+2.1 Predmetom tejto zmluvy je:
+a) záväzok Dodávateľa poskytovať Objednávateľovi prevádzkovú podporu informačného
+systému ISS CVTI SR, jeho údržbu, servis a úpravy dodávateľským spôsobom (ďalej
+služby) podľa ustanovení tejto zmluvy,
+b) záväzok Objednávateľa zaplatiť Dodávateľovi za vykonané služby cenu v zmysle
+ustanovení tejto zmluvy.
+2.2 Služba nezahŕňa podporu, údržbu a servis technických zariadení, na ktorých je ISS CVTI SR
+u Objednávateľa prevádzkovaný. Predmetom zmluvy nie je rutinné zálohovanie dát ani ich
+bezpečnosť.
+2.3 Neoddeliteľnú súčasť tejto zmluvy tvorí Príloha č. 1 zmluvy – Podmienky poskytovania
+prevádzkovej podpory a údržby ISS CVTI SR (SLA).
+2.4 Súčasťou predmetu plnenia zmluvy Dodávateľom je:
+a) na základe špecifikácií uvedených v Prílohe č. 1 zmluvy poskytovať prevádzkovú
+podporu a údržbu pre ISS CVTI SR,
+b) realizovať požiadavky na zmenu (tzv. drobný rozvoj) ISS CVTI SR nad rámec plnenia
+podľa bodu a) v celkovom rozsahu 60 človekohodín1)a).
+Rozsah požiadaviek podľa bodu b)1)b) bude špecifikovaný po konzultácii medzi
+Objednávateľom a Dodávateľom.
+
+2
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+Článok 3
+Povinnosti zmluvných strán
+3.1 Objednávateľ je povinný na základe vzájomnej dohody a v rámci bezpečnostných štandardov
+Objednávateľa umožniť pracovníkom Dodávateľa lokálny aj diaľkový prístup k dohodnutým
+zariadeniam a komponentom ISS CVTI SR za účelom plnenia podľa zmluvy.
+3.2 Objednávateľ je povinný poskytnúť Dodávateľovi prístup do svojich prevádzkových
+priestorov po dobu potrebnú k splneniu záväzkov Dodávateľa vyplývajúcich zo zmluvy.
+3.3 Objednávateľ je povinný zabezpečiť potrebnú súčinnosť svojich pracovníkov nutnú
+pre činnosti Dodávateľa súvisiacich s plnením zmluvy.
+Pracovníci Objednávateľa sú povinní:
+a) byť dostupní e-mailom, telefonicky, alebo osobne v prípade riešenia problému a/alebo
+iného incidentu alebo požiadavky v súvislosti s poskytovaním služby,
+b) komunikovať Dodávateľovi špecifické požiadavky na dostupnosť služby,
+c) spolupracovať pri riešení servisných požiadaviek a/alebo požiadaviek na zmenu.
+3.4 Objednávateľ je povinný zabezpečiť potrebnú súčinnosť pracovníkov dodávateľov SW
+aplikácii tretích strán, nutnú pre činnosti Dodávateľa súvisiacich s plnením zmluvy.
+3.5 Objednávateľ je povinný zabezpečiť spoľahlivú prevádzku prostriedkov internetovej a
+e-mailovej komunikácie, firewall-y a prvky lokálnej počítačovej siete, ktoré priamo využíva
+ISS CVTI SR.
+3.6 Objednávateľ je povinný oznámiť Dodávateľovi akékoľvek zmeny, ktoré plánuje realizovať
+v HW a SW prostredí ISS CVTI SR a v prostrediach s týmto prostredím priamo súvisiacich
+a to aspoň 3 mesiace pred plánovaným zámerom. Povinnosť sa nevzťahuje na mimoriadne
+situácie, ktorých riešenie vyžaduje zmeny v HW a/alebo SW prostredí. O týchto zmenách je
+Objednávateľ povinný Dodávateľa bezodkladne informovať.
+3.7 Dodávateľ je povinný pri poskytovaní služieb v zmysle zmluvy sa riadiť pokynmi a platnými
+smernicami Objednávateľa.
+3.8 Dodávateľ je povinný telefonicky, resp. písomne reagovať na každú požiadavku
+Objednávateľa, týkajúcu sa predmetu tejto zmluvy. Formou písomne sa rozumie aj email.
+3.9 Dodávateľ je povinný plniť jednotlivé služby podľa tejto zmluvy.
+3.10 Dodávateľ je povinný informovať Objednávateľa o všetkých faktoch, ktoré by mohli
+negatívne vplývať na predmet plnenia tejto zmluvy.
+3.11 Dodávateľ je povinný na základe žiadosti Objednávateľa zabezpečiť prítomnosť
+kvalifikovaných špecialistov (expertov), ktorá je nevyhnutná pre poskytovanie služieb
+v dohodnutom mieste plnenia.
+3.12 Dodávateľ je povinný zabezpečiť, aby všetky osoby poskytujúce služby podľa tejto zmluvy
+boli zamestnancami Dodávateľa, alebo Dodávateľom povereného subdodávateľa a
+podliehali výhradne riadeniu Dodávateľa. Akékoľvek nároky či požiadavky Objednávateľa
+voči týmto osobám si Objednávateľ uplatňuje priamo u Dodávateľa v plnom rozsahu.
+
+3
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+Článok 4
+Poverené osoby
+4.1 Zmluvné strany menujú oprávnené osoby zodpovedné za komunikáciu týkajúcu sa
+používania a prevádzkovania ISS CVTI SR a riadenie problémov.
+4.2 Eskalačný proces – V prípade, že príde k nezhodám medzi zmluvnými stranami o postupe a
+kvalite riešenia incidentov a dodávaných služieb, platí nasledovná eskalačná matica:
+Eskalačná úroveň
+Dodávateľ
+Objednávateľ
+Eskalačná úroveň 1
+
+Projektový Manažér
+
+Vedúci OPAS
+
+Eskalačná úroveň 2
+
+Technický riaditeľ
+
+Vedúci ORIS
+
+Eskalačná úroveň 3
+
+Generálny riaditeľ
+
+Generálny riaditeľ CVTI SR
+
+Článok 5
+Mlčanlivosť a ochrana informácií
+5.1 Zmluvné strany sa zaväzujú zachovať mlčanlivosť o všetkých skutočnostiach, o ktorých sa
+v súvislosti s plnením tejto Zmluvy dozvedeli alebo im boli sprístupnené a budú venovať
+dostatok pozornosti tomu, aby zabránili odhaleniu, publikovaniu, rozširovaniu a pod.
+dôverných informácií voči tretím stranám, a to aj po ukončení platnosti tejto zmluvy.
+5.2 Ak zmluvná strana poskytne (odovzdá) alebo sprístupní druhej zmluvnej strane informáciu,
+ktorá nie je verejne známou a túto informáciu písomne označí ako dôvernú (ďalej „dôverná
+informácia"), druhá zmluvná strana môže takúto informáciu poskytnúť tretej osobe iba
+v prípade:
+a) ak to bude potrebné pre plnenie jej povinností zo záväzkového vzťahu z tejto zmluvy,
+alebo zo záväzkového vzťahu vzniknutého v súvislosti s touto zmluvou,
+b) ak to bude potrebné pre výkon jej práv zo záväzkového vzťahu z tejto zmluvy alebo
+zo záväzkového vzťahu vzniknutého v súvislosti s touto zmluvou,
+c) ak na to bude povinná podľa všeobecne záväzného právneho predpisu alebo podľa
+vykonateľného rozhodnutia, opatrenia alebo výzvy príslušného orgánu,
+d) ak to bude potrebné v súdnych, rozhodcovských, správnych a iných obdobných
+konaniach,
+e) ak treťou osobou bude osoba, ktorá vo vzťahu k poskytnutým alebo sprístupneným
+informáciám bude mať zákonom uloženú povinnosť zachovávania mlčanlivosti.
+5.3 Za informáciu podliehajúcu ustanoveniam tohto článku zmluvy nebude považovaná taká
+informácia, ktorá je Objednávateľovi známa alebo je verejne dostupná, či bola vyvinutá,
+alebo zákonne získaná od tretej strany bez obmedzenia s jej nakladaním v rámci zmluvy,
+alebo je Objednávateľ povinný ju sprístupniť alebo zverejniť podľa zák. č. 211/2000 Z. z.
+o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov, pričom v takomto prípade sa zaväzuje chrániť dôverné informácie a
+obchodné tajomstvá Dodávateľa v súlade s platnou právnou úpravou.
+5.4 Ustanovenie bodu 5.2 o ochrane informácií sa nevzťahuje na text zmluvy.
+4
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+Článok 6
+Ochrana osobných údajov (OOÚ)
+6.1 Dodávateľ vyhlasuje, že spracúva a chráni osobné údaje v súlade s Nariadením o ochrane
+osobných údajov (2016/679/EU) a zákonom č. 18/2018 Z. z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov a v súlade s ostatnými príslušnými všeobecne
+záväznými a internými predpismi zamestnávateľa (ďalej spolu aj len „Predpisy na ochranu
+osobných údajov“).
+6.2 Zamestnanci Dodávateľa, ktorí plnia úlohy potrebné na naplnenie poskytovania prevádzkovej
+podpory a údržby ISS CVTI SR, sú pri plnení servisných prác povinní zachovávať mlčanlivosť
+o všetkých osobných údajoch, s ktorými prídu do styku v rámci plnenia pracovných úloh
+vyplývajúcich im z dohodnutého druhu práce. Tieto nesmú využiť pre osobnú potrebu
+a bez súhlasu Objednávateľa ich nesmie zverejniť a nikomu poskytnúť ani sprístupniť.
+Povinnosť mlčanlivosti trvá aj po zániku zmluvného vzťahu medzi Dodávateľom a
+Objednávateľom. Povinnosť mlčanlivosti neplatí, ak je to nevyhnutné na plnenie úloh súdu
+alebo orgánov činných v trestnom konaní a vo vzťahu k Úradu pre ochranu osobných údajov
+pri plnení jeho úloh.
+
+Článok 7
+Fakturácia a platobné podmienky
+7.1 Celková cena za dodanie predmetu zmluvy v rozsahu uvedenom v čl. 2 tejto zmluvy je
+stanovená dohodou zmluvných strán maximálnou výškou 14 976 € s DPH (slovom
+štrnásťtisíc deväťstosedemdesiatšesť eur s DPH) (12 480 € bez DPH). Cena za predmet
+zmluvy pozostáva z celkovej ceny za poskytovanie prevádzkovej podpory a údržby
+ISS CVTI SR a z celkovej ceny za realizáciu požiadaviek na zmenu ISS CVTI SR.
+Č. p.
+Predmet ceny
+1.
+Prevádzková
+podpora
+a údržba
+ISS CVTI SR
+2.
+Požiadavky na zmenu (drobný rozvoj)
+ISS CVTI SR
+
+s DPH
+11 736,00 €
+
+bez DPH
+9 780,00 €
+
+3 240,00 €
+
+2 700,00 €
+
+7.2 Dodávateľ a Objednávateľ sa dohodli, že cena podľa článku 7.1 je konečná. Dodávateľ si
+do ceny podľa článku 7.1 započítal všetky náklady spojené s dodaním predmetu tejto
+zmluvy.
+7.3 Celkovú cenu za predmet zmluvy podľa bodu 7.1 je Objednávateľ povinný uhradiť
+v dvanástich mesačných platbách na základe faktúr vystavených Dodávateľom, pričom
+každá faktúra bude obsahovať za dané fakturačné obdobie:
+a) fakturáciu 1/12 ceny za poskytnutie prevádzkovej podpory a údržby ISS CVTI SR
+podľa bodu 7.1, číslo položky (č. p.) 1,
+b) fakturáciu ceny realizovaných požiadaviek na zmeny ISS CVTI SR ako časti ceny
+podľa bodu 7.1, číslo položky (č. p.) 2.
+5
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+7.4 Právo na zaplatenie ceny vznikne uplynutím príslušného mesiaca, v ktorom bolo poskytnuté
+plnenie predmetu zmluvy.
+7.5 Daň z pridanej hodnoty je účtovaná v zmysle platných predpisov v deň vystavenia faktúry.
+7.6 Prílohou faktúry je Pracovný výkaz o poskytnutých službách.
+7.7 Faktúra je splatná do 30 dní odo dňa jej doručenia Objednávateľovi.
+7.8 Objednávateľ je oprávnený pred uplynutím lehoty splatnosti vrátiť bez zaplatenia faktúru,
+ktorá neobsahuje náležitosti podľa zák. č. 222/2004 Z. z. v platnom znení, náležitosti
+daňového dokladu alebo náležitosti stanovené ďalšími príslušnými právnymi predpismi
+alebo má iné nedostatky v obsahu podľa tejto zmluvy. Objednávateľ je povinný vyznačiť
+vo vrátenej faktúre dôvod vrátenia. Dodávateľ je v tomto prípade povinný podľa povahy
+nesprávnosti faktúru opraviť alebo nanovo vyhotoviť. Oprávneným vrátením faktúry
+prestáva plynúť pôvodná lehota splatnosti. Lehota splatnosti plynie znovu odo dňa doručenia
+opravenej alebo nanovo vyhotovenej faktúry Objednávateľovi.
+Článok 8
+Zmluvné pokuty a náhrada škody
+8.1 Objednávateľ
+je oprávnený účtovať Dodávateľovi zmluvné pokuty v rozsahu
+a za podmienok definovaných v Prílohe č. 1 zmluvy – Podmienky poskytovania
+prevádzkovej podpory a údržby ISS CVTI SR (SLA). Úhradou zmluvnej pokuty nezaniká
+nárok Objednávateľa na prípadnú náhradu škody.
+8.2 Dodávateľ je oprávnený účtovať Objednávateľovi zmluvnú pokutu vo výške 0,025%
+z nezaplatenej ceny za každý deň omeškania s úhradou oprávnene vystavenej faktúry.
+Oprávnenosť vystavenia faktúry Dodávateľom sa posudzuje vzhľadom na obsah čl. 7
+zmluvy.
+8.3 Objednávateľ je oprávnený požadovať náhradu škody, ktorá mu bola spôsobená porušením
+povinností Dodávateľa podľa zmluvy. Uplatnením nároku na zaplatenie zmluvnej pokuty nie
+je dotknutý nárok Objednávateľa na náhradu celej škody.
+Článok 9
+Ukončenie zmluvy
+9.1 Odstúpiť od zmluvy je možné v zmysle príslušných ustanovení zák. č. 513/1991 Zb.
+Obchodný zákonník v znení neskorších predpisov.
+9.2 Obe strany môžu odstúpiť od zmluvy, ak druhá strana nedodrží svoje záväzky stanovené
+touto zmluvou a v takom konaní bude pokračovať v rozsahu 30 dní po prijatí písomného
+upozornenia na túto skutočnosť s odvolaním sa na toto ustanovenie.
+9.3 Odstúpenie je účinné dňom doručenia druhej zmluvnej strany, týmto dňom zanikajú všetky
+práva a povinnosti zmluvných strán vyplývajúce z tejto zmluvy, okrem nárokov na náhradu
+škody, nárokov na vyrovnanie zmluvných alebo zákonných záväzkov.
+9.4 Zmluvu môže kedykoľvek ktorákoľvek zmluvná strana písomne vypovedať, a to aj bez
+uvedenia dôvodu. Výpoveď musí byť daná v písomnej forme a doručená druhému
+účastníkovi na adresu uvedenú v záhlaví tejto zmluvy. Za platné doručenie sa považuje aj
+vrátenie zásielky, ktorú si jej adresát neprevzal, pričom v takom prípade sa za deň doručenia
+6
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+považuje deň vrátenia nedoručenej zásielky odosielateľovi. Výpovedná lehota je mesačná a
+začína plynúť prvým dňom mesiaca nasledujúceho po mesiaci v ktorom bola výpoveď
+doručená, pričom Dodávateľ má právo požadovať úhradu 1/12 ceny za poskytnutie
+prevádzkovej podpory počas celej výpovednej doby. Ku dňu účinnosti výpovede zaniká
+záväzok Dodávateľa poskytovať službu, na ktorú sa zaviazal. Ak by týmto prerušením
+poskytovania služby vznikla Objednávateľovi škoda, je Dodávateľ povinný ho upozorniť,
+aké opatrenia treba urobiť na jej odvrátenie.
+Článok 10
+Ostatné ustanovenia
+10.1 Ak sa zistí, že niektoré z ustanovení tejto zmluvy je neplatné alebo neúčinné, neplatnosť
+alebo neúčinnosť ustanovenia nebude mať za následok neplatnosť alebo neúčinnosť ďalších
+ustanovení zmluvy, ani samotnej zmluvy. Zmluvné strany sa zaväzujú, že neplatné alebo
+neúčinné ustanovenie bez zbytočného odkladu nahradia tak, aby bol v čo najväčšom možnom
+rozsahu dosiahnutý účel, ktorý v čase uzavretia tejto zmluvy sledovali neplatným alebo
+neúčinným ustanovením. Obdobne budú zmluvné strany postupovať aj v prípade, ak sa zistí,
+že niektoré z ustanovení tejto zmluvy je nevykonateľné.
+10.2 Zmluvné strany sa dohodli, že prípadné spory vyplývajúce zo zmluvných vzťahov tejto
+zmluvy budú riešiť predovšetkým osobným rokovaním, až následne súdnou cestou,
+príslušným súdom SR.
+10.3 S výnimkami uvedenými v tejto zmluve je túto zmluvu možné meniť a dopĺňať len formou
+písomných dodatkov podpísaných oboma zmluvnými stranami. Návrh dodatku k zmluve
+podlieha pred uzavretím schváleniu Ministerstvom školstva, vedy, výskumu a športu SR
+(MŠVVaŠ SR), ktoré je oprávnené požadovať úpravy v návrhu dodatku k zmluve. Bez
+súhlasného stanoviska MŠVVaŠ SR nie je možné uzavrieť dodatok k zmluve.
+10.4 Dodávateľ zodpovedá za vady, ktoré má poskytnutá služba, ako aj za vady, ktoré sa vyskytnú
+po poskytnutí služby v záručnej dobe. Vadou sa rozumie odchýlka v kvalite, rozsahu a
+parametroch služieb poskytnutých podľa tejto zmluvy, stanovených všeobecnými záväznými
+predpismi, technickými normami a touto zmluvou. Zmluvné strany sa dohodli, že záručná
+doba je 24 mesiacov.
+10.5 Na nároky Objednávateľa z vád sa vzťahujú ustanovenia § 436 a nasl. Obchodného
+zákonníka v znení neskorších predpisov. Objednávateľ je povinný písomne oznámiť
+Dodávateľovi vady za poskytnuté služby bez zbytočného odkladu po ich zistení. (ďalej len
+„Oznámenie o vadách“). Voľbu nároku z vád Objednávateľ oznámi Dodávateľovi
+v zaslanom oznámení o vadách alebo bez zbytočného odkladu po tomto oznámení. Práva
+zo zodpovednosti za vady sa musia uplatniť u Dodávateľa v záručnej dobe, inak zaniknú.
+Čas od uplatnenia práva až po vykonanie opravy sa do záručnej doby nepočíta. Dodávateľ je
+povinný vydať objednávateľovi potvrdenie o tom, kedy právo uplatnil, ako aj o vykonaní
+oravy a o čase jej trvania. Ak Objednávateľ v oznámení o vadách požaduje odstránenie vady,
+Dodávateľ je povinný vadu odstrániť najneskôr do 24 hodín od jej nahlásenia.
+10.6 V prípade, že Dodávateľ oznámené vady neodstráni v dohodnutej lehote napriek tomu, že
+ich uznal, alebo vadu nemožno odstrániť alebo sa vada vyskytne znovu, má Objednávateľ
+právo po predchádzajúcom písomnom upozornení:
+a) dať vady odstrániť na náklady Dodávateľa,
+b) od tejto zmluvy odstúpiť alebo
+7
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+c) primerane znížiť odmenu za poskytnuté služby podľa Čl. 7 tejto zmluvy.
+Článok 11
+Záverečné ustanovenia
+11.1 Táto zmluva nadobúda platnosť dňom jej podpísania zástupcami oboch zmluvných strán a
+účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom
+Úradom vlády Slovenskej republiky. Ak sa do troch mesiacov od uzavretia zmluvy zmluva
+nezverejní platí, že k uzavretiu zmluvy nedošlo.
+11.2 Táto zmluva sa uzatvára na dobu určitú do vyčerpania zmluvne dohodnutej sumy za dodanie
+predmetu zmluvy podľa bodu 7.1, najviac však na jeden rok, podľa toho, ktorá zo skutočností
+nastane skôr.
+11.3 Táto zmluva a záväzkový vzťah z tejto zmluvy sa spravuje zákonom č. 513/1991 Zb.
+Obchodný zákonník (v znení neskorších predpisov).
+11.4 Na záväzkový vzťah z tejto zmluvy sa nepoužijú (všeobecné) obchodné podmienky žiadnej
+zo zmluvných strán.
+11.5 Akúkoľvek zmenu adresy na doručovanie, ako aj ostatných kontaktných údajov (napr. číslo
+účtu, e-mailovej adresy) je zmluvná strana, u ktorej k zmene došlo, povinná bezodkladne
+písomne oznámiť druhej zmluvnej strane spolu s uvedením nového kontaktného údaju, najmä
+novej adresy pre doručovanie, nového čísla účtu, prípadne novej e-mailovej adresy.
+11.6 Táto zmluva sa podpisuje v štyroch rovnopisoch, pričom každá zmluvná strana získa
+po dvoch vyhotoveniach.
+11.7 Dodávateľ týmto vyhlasuje, že je spôsobilý túto zmluvu uzatvoriť a plniť záväzky v nej
+obsiahnuté.
+11.8 Objednávateľ týmto vyhlasuje, že je spôsobilý túto zmluvu uzatvoriť a plniť záväzky v nej
+obsiahnuté.
+11.9 Zmluvné strany vyhlasujú, že zmluvu uzatvorili slobodne a vážne, nie v tiesni a ani za inak
+nápadne nevýhodných podmienok, jej obsahu porozumeli a preto ju po jej prečítaní
+na znak súhlasu vlastnoručne podpisujú.
+11.10 Prílohu č. 1 tejto zmluvy tvoria Podmienky poskytovania prevádzkovej podpory a údržby
+ISS CVTI SR (SLA).
+
+V Bratislave, dňa 25.02.2019
+
+V Bratislave , dňa 14.03.2019
+
+Objednávateľ:
+
+Dodávateľ:
+
+..........................................................
+prof. RNDr. Ján Turňa, CSc.,
+generálny riaditeľ CVTI SR
+
+..........................................................
+Ing. Petr Weber,
+prokurista InterWay, a.s.
+8
+
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+Príloha č. 1 ku Zmluve o poskytovaní prevádzkovej podpory a údržby
+informačného systému ISS CVTI SR:
+
+Podmienky poskytovania prevádzkovej podpory
+a údržby ISS CVTI SR (SLA)
+1
+
+Zmluvné dojednania
+
+Dokument obsahuje špecifikáciu služieb poskytovania prevádzkovej podpory a údržby ISS CVTI SR.
+
+2
+
+Pojmy a definície
+
+Systém
+je funkčný celok tvorený dodaným a sprevádzkovaným softvérom ISS CVTI SR (produkčné aj testovacie
+prostredie) podľa zmlúv (i) Zmluva o dielo zo dňa 12.11.2013 a (ii) Modernizácia Integrovaného
+systému služieb Centra vedecko-technických informácií SR zo dňa 30.07.2015.
+Porucha
+Pod pojmom porucha sa rozumie čiastočné alebo úplné znefunkčnenie služby častí infraštruktúry
+Systému.
+Servisná požiadavka
+Požiadavka, ktorá sa dá zabezpečiť rutinnými alebo dobre definovanými postupmi (zmena hesla,
+zavedenie nového užívateľa a pod.).
+Incident
+Porucha alebo servisná požiadavka, neplánované prerušenie IT služby alebo zníženie kvality IT služby.
+Zlyhanie konfiguračnej položky, ktoré zatiaľ nemalo dopad na službu je tiež incidentom.
+Problém
+Príčina jedného alebo viacerých incidentov. Príčina zvyčajne nie je známa v tom čase, keď sa tvorí
+záznam o probléme.
+Obnova (Recovery)
+Návrat konfiguračnej položky alebo IT služby do prevádzky. Obnova IT služby často zahŕňa aj obnovenie
+dát do známeho konzistentného stavu. Po obnove, ešte predtým, ako sa IT služba sprístupní
+používateľom, môžu byť potrebné ďalšie kroky (Obnova služby).
+Vyriešenie (resolution)
+Činnosť, ktorá rieši hlavnú príčinu incidentu alebo problému, alebo implementuje náhradné riešenie.
+Zmenová požiadavka
+Pod zmenovou požiadavkou sa rozumie doplnenie novej alebo úprava existujúcej funkčnosti častí
+infraštruktúry Systému.
+
+9
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+Reakčný čas podpory
+Reakčný čas podpory je definovaný ako doba trvania medzi časom nahlásenia problému, incidentu
+alebo požiadavky a časom spätného hlásenia na miesto zadania spolu s informáciou o začatí riešenia
+konkrétnym riešiteľom na strane Dodávateľa.
+Doba riešenia (Fix-Time)
+Je čas od spätného hlásenia na miesto zadania (koniec reakčného času) po čas, kedy je daný problém
+úspešne vyriešený, resp. je poskytnuté náhradné riešenie. Do doby riešenia sa nezapočítava čas
+overovania riešenia na strane Objednávateľa.
+Hotline / Helpdesk I. úrovne
+predstavuje centrálny vstupný bod na nahlasovanie problémov, incidentov a požiadaviek. Úlohou prvej
+úrovne helpdesku je rozoznanie typu problému resp. incidentu a jeho presmerovanie na ďalšiu úroveň
+Servicedesku, ktorú tvoria org. útvary Dodávateľa (prípadne ním zazmluvnených tretích strán),
+Objednávateľa a tretích strán, zazmluvnených Objednávateľom a/alebo Dodávateľom.
+Helpdesk II. úrovne
+rieši problémy, incidenty a požiadavky týkajúce sa systémovej podpory infraštruktúry Systému
+zaregistrované na Hotline / Helpdesk I. úrovne a posunuté priamo na druhú úroveň. Pod riešením sa
+rozumie obnovenie služby v definovanom časovom rámci. Táto úroveň je zabezpečovaná Dodávateľom
+(prípadne ním zazmluvnených tretích strán) v spolupráci s oprávnenými pracovníkmi Objednávateľa.
+Helpdesk III. úrovne
+Pokiaľ riešenie problému, incidentu alebo požiadavky vyžaduje zmenu (napr. kódu, architektúry,
+procesu a pod.), prechádza do zmenového konania v Helpdesku III. úrovne. Táto úroveň je
+zabezpečovaná výlučne Dodávateľom a/alebo ním zazmluvnených tretích strán.
+
+3
+
+Predmet plnenia - popis a charakteristika služieb
+
+Dodávateľ sa zmluvou zaväzuje za podmienok a rozsah stanovených v zmluve - poskytovať
+Objednávateľovi prevádzkovú podporu a údržbu po dobu 12 kalendárnych mesiacov, ktorá začína
+plynúť dňom účinnosti zmluvy. V rámci prevádzkovej podpory a údržby sa Dodávateľ zaväzuje
+poskytovať servisné služby v zodpovedajúcej kvalite zaisťujúcej správnu, spoľahlivú a bezpečnú
+prevádzku Systému. Servisnými službami sa pre účel zmluvy rozumie podpora produkčnej prevádzky a
+zaistenie údržby Systému. Systém musí byť schopný prevádzky s dostupnosťou najmenej 98% (nerátajú
+sa plánované odstávky a výpadky infraštruktúry).
+
+3.1
+3.1.1
+
+3.2
+3.2.1
+
+Podporovaný systém
+Podporovaným systémom je Systém podľa definície v časti 2.
+
+Služby podpory
+Dodávateľ sa zaväzuje zaisťovať operatívnu podporu, v rámci ktorej budú môcť poverení
+pracovníci Objednávateľa hlásiť Dodávateľovi zistené problémy, incidenty a požiadavky
+10
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+prevádzky Systému. Len pre tieto účely sa Dodávateľ zaväzuje prevádzkovať elektronický
+helpdesk systém pre správu incidentov, problémov a požiadaviek (ďalej len „skratka“):
+a) telefónna linka: +421
+b) e-mailová adresa:
+c) webová aplikácia pre evidenciu incidentov:
+3.2.2
+
+Dodávateľ sa zaväzuje poskytovať podporu Helpdesk II. úrovne a Helpdesk III. úrovne v rozsahu
+8 hodín denne podľa servisného intervalu v časti 3.4.
+
+3.2.3
+
+Komunikačné kanály uvedené v 3.2.1 sú jediné prípustné pre hlásenie zistených porúch a
+požiadaviek v rámci servisnej podpory Systému.
+
+3.2.4
+
+Dodávateľ je povinný zaistiť a aplikovať podporu v súlade so zmluvou a touto prílohou, ktoré
+sú jediným prípustným postupom pre hlásenie incidentov, ich spracovanie a vyriešenie.
+Pre tento účel sa stanovuje:
+
+a) kategória nahlásených incidentov
+b) priority
+c) termíny pre odstránenie nahlásených incidentov
+d) spôsob nahlásenia incidentov
+e) spôsob hodnotenia prijatých incidentov
+f)
+3.2.5
+
+spôsob riešenia incidentov
+Kategórie nahlásených incidentov sa stanovujú nasledovne:
+
+a) Kategória A – Kritický incident - znemožňuje prevádzku Systému, alebo jeho častí popr.
+spôsobuje zásadné incidenty pre správnu, spoľahlivú a bezpečnú prevádzku Systému.
+b) Kategória B – Podstatný incident - obmedzuje prevádzku častí Systému, resp. je k dispozícii
+alternatívny proces pre zaistenie správnej spoľahlivej a bezpečnej prevádzky Systému.
+c) Kategória C – Nepodstatný incident - incidenty, ktoré nespadajú do kategórie A ani
+do kategórie B.
+3.2.6
+
+Termíny pre odstránenie nahlásených incidentov sa počítajú v rámci servisného intervalu
+popísaného v bode 3.4 a stanovujú sa nasledovne:
+
+a) Kategória A – Kritický incident: Dodávateľ je povinný začať práce na riešení kritického incidentu
+najneskôr do 4 hodín od nahlásenia incidentu. Dodávateľ je povinný pokračovať v práci
+na obnovení služby do okamihu vyriešenia alebo do poskytnutia náhradného riešenia.
+Dodávateľ je povinný obnoviť službu najneskôr do 2 pracovných dní od prijatia oznámenia
+incidentu. Použitie náhradného riešenia, ktorým sa eliminuje vplyv incidentu na prevádzku
+systému nezbavuje Dodávateľa povinnosti službu obnoviť.
+b) Kategória B – Podstatný incident: Dodávateľ je povinný začať práce na riešení podstatného
+incidentu najneskôr do 12 hodín od nahlásenia incidentu, Dodávateľ je povinný pokračovať
+v práci na obnovení služby do okamihu vyriešenia alebo do poskytnutia náhradného riešenia.
+Dodávateľ je povinný obnoviť službu najneskôr do 15 pracovných dní od doručenia oznámenia
+incidentu. Použitie náhradného riešenia, ktorým sa eliminuje vplyv incidentu na prevádzku
+systému, nezbavuje Dodávateľa povinnosti službu obnoviť.
+
+11
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+c) Kategória C – Nepodstatný incident: Dodávateľ je povinný odstrániť príčinu incidentu v rámci
+nasadenia nasledujúcej verzie Systému, popr. v rámci pravidelnej plánovanej odstávky, pokiaľ
+nedôjde k inej dohode.
+3.2.7
+
+Ak povaha poskytovanej služby podpory neumožňuje, aby bola služba podpory vykonaná
+v čase podľa bodu 3.4, po vzájomnej dohode zmluvných strán bude služba podpory vykonaná
+aj v termínoch mimo servisného intervalu, a to aj v dňoch pracovného pokoja alebo voľna, ako
+aj v nočných hodinách. V takýchto dňoch je Objednávateľ povinný umožniť vstup pracovníkom
+Dodávateľa do sídla Objednávateľa alebo na iné určené miesto a zabezpečiť zodpovednú
+osobu, ktorá bude prítomná počas celej doby vykonávania činnosti Dodávateľa.
+
+3.2.8
+
+Spôsob nahlásenia incidentu sa stanovuje nasledovne:
+Oprávnení pracovníci Objednávateľa po zistení incidentu oznámia prostredníctvom
+stanovených komunikačných kanálov incident na elektronický helpdesk Systému. Nahlásenie
+incidentu musí obsahovať hlavne:
+
+a) popis incidentu
+b) popis akcií, ktoré incident vyvolali
+c) návrh kategórie incidentu
+d) čas ohlásenia incidentu
+e) meno osoby, ktorá incident identifikovala prípadne nahlásila
+3.2.9
+
+Dodávateľ je povinný vykonať bezodkladne po prijatí hlásenia incidentu kontrolu jeho
+formálnej úplnosti; ďalej zaevidovať hlásenie do webovej aplikácie evidencie incidentov, (ak
+nebola táto použitá pre hlásenie incidentu) a postúpiť hlásenie k hodnoteniu incidentu.
+
+3.2.10 Dodávateľ je povinný posúdiť nahlásený incident, a to hlavne z hľadiska:
+a) dopadu na zabezpečenie procesov poskytovania služieb Objednávateľa svojim zákazníkom
+b) technických príčin vzniku incidentu
+c) spôsobu odstránenia incidentu
+3.2.11 Pokiaľ dôjde k rozporu v hodnotení či sa jedná o incident, popr. k rozporu v stanovení kategórie
+incidentu, sú oprávnené osoby vo veciach technických povinní sa pokúsiť nájsť zhodu. Do
+dosiahnutia zhody platí hodnotenie a kategória ohlásená Objednávateľom. Jednanie o zhode
+nemá
+odkladný
+účinok
+na
+stanovené
+termíny
+odstránenia
+incidentov.
+Ak nedôjde k zhode, je platné hodnotenie a stanovenie kategórie incidentu ohlásenej
+Objednávateľom v zmysle bodu č. 3.2.5.
+3.2.12 Dodávateľ je povinný všetky údaje súvisiace so životným cyklom hlásenia incidentu evidovať
+vo webovej aplikácii pre evidenciu incidentov a zabezpečiť možnosť získať informácie
+o nahlásených problémoch, incidentoch a požiadavkách všetkým kontaktným pracovníkom
+Objednávateľa prostredníctvom on-line prístupu.
+3.2.13 Dodávateľ sa zaväzuje, že v rámci riešenia požiadaviek budú vyvinuté alebo upravené SW
+komponenty obsahovať len a iba zdokumentovanú funkcionalitu a nebudú obsahovať
+funkcionalitu nepožadovanú Objednávateľom, ktorá nie je potrebná pre zabezpečenie
+funkčnosti SW komponentov (tzv. back-doors) a všetky zmeny riadne premietne do repozitára
+zdrojových kódov Objednávateľa.
+
+12
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+3.2.14 V prípade poskytnutia služby na základe tohto dokumentu, ktorej výsledkom je autorské dielo,
+Dodávateľ udeľuje Objednávateľovi licenciu k tomuto dielu za rovnakých podmienok
+a v rovnakom rozsahu, ako je uvedené v zmluve, pokiaľ sa zmluvné strany písomne nedohodli
+alebo nedohodnú inak.
+3.2.15 Dodávateľ je povinný odstrániť incident v čo najkratšom možnom termíne; zároveň je
+pre prípad možného nedodržania stanovených termínov Dodávateľ oprávnený navrhnúť
+Objednávateľovi alternatívne riešenie pre dobu potrebnú pre odstránenie incidentu.
+Objednávateľ je oprávnený toto riešenie odmietnuť.
+3.2.16 Dodávateľ je povinný v rámci odstránenia incidentu aktualizovať súvisiacu dokumentáciu, ak
+spôsob zapracovania incidentu má dopad na dokumentáciu. V takom prípade je Dodávateľ
+povinný dodať aktualizovanú dokumentáciu do 30 kalendárnych dní od odstránenia incidentu.
+
+Služby údržby
+
+3.3
+3.3.1
+
+Dodávateľ je povinný vykonávať údržbu Systému, čím sa rozumie zaistenie správnej,
+spoľahlivej a bezpečnej prevádzky Systému, čo predstavuje hlavne:
+
+a) pravidelné vykonávanie administrácie všetkých SW komponentov Systému,
+b) pravidelné vykonávanie technických a výkonových optimalizácii všetkých SW komponentov
+Systému,
+c) monitoring prevádzky Systému,
+d) pravidelné vykonávanie preventívnych kontrol Systému,
+e) pravidelné vykonávanie profylaktiky pre predchádzanie problémov,
+f)
+
+vyhodnocovanie prevádzky Systému,
+
+g) vykazovanie prácnosti v človekodňoch v rámci vykonávania údržby Systému,
+h) vykonávanie Objednávateľom odsúhlasených a prípadne aj Objednávateľom vyžiadaných
+pravidelných úkonov údržby akými sú napr. update, upgrade, patch najnovších verzií včítane
+nevyhnutných úprav aplikačných SW komponentov dodaných podľa zmluvy,
+i)
+
+vykonávanie nevyhnutných úprav systémových komponent dodaných podľa zmluvy
+v dôsledku legislatívnych zmien, pričom pri týchto úpravách je potrebné ich schválenie
+Objednávateľom včítane cenovej ponuky – tieto úpravy nie sú predplatené v rámci
+prevádzkovej podpory a údržby a započítava sa k nim aj zaškolenie zamestnancov
+Objednávateľa v dohodnutom rozsahu,
+
+j)
+
+vykonávanie Objednávateľom odsúhlasených nevyhnutných úprav na odstránenie zistených
+bezpečnostných rizík Systému počas trvania prevádzkovej podpory a údržby,
+
+k) vykonávanie aktualizácie dokumentácie k systému po úpravách popísaných v h) až j), pričom
+aktualizovanú dokumentáciu odovzdá do 30 dní od vykonania úprav popísaných v h) až j),
+l)
+
+zabezpečenie prípadnej reinštalácie Systému.
+
+3.3.2
+
+Dodávateľ je povinný upozorniť Objednávateľa na všetky známe skutočnosti, ktoré môžu mať
+negatívny vplyv na zaistenie správnej, spoľahlivej a bezpečnej prevádzky Systému.
+
+3.3.3
+
+Dodávateľ je oprávnený za účelom údržby Systému využívať plánované a Objednávateľom
+odsúhlasené odstávky Systému.
+13
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+3.3.4
+
+Dodávateľ je povinný zabezpečiť potrebnú súčinnosť pracovníkov dodávateľov SW aplikácií
+tretích strán dodaných pri plnení zmluvy, nutnú pre činnosti Dodávateľa súvisiacich s plnením
+zmluvy.
+
+Servisný interval
+
+3.4
+3.4.1
+
+Dodávateľ je povinný dodávať služby podpory a údržby v hlavnej pracovnej dobe, t.j.
+v pracovné dni od 08:00 - 16:00. Výnimka z poskytovania podpory počas:
+a) pravidelných odstávok systému
+b) dní pracovného pokoja (sobota, nedeľa)
+c) štátnych sviatkov v rámci Slovenskej republiky
+
+3.4.2
+
+Pravidelné okná údržby
+
+3.5
+3.5.1
+
+3.6.1
+
+4.1
+
+Každá pravidelná údržba (update, upgrade, patch) sa môže vykonávať vo vopred
+naplánovaných časoch (oknách údržby) a to aj mimo servisného intervalu. Dodávateľ je
+povinný poskytovať Objednávateľovi včasné upozornenia o všetkých plánovaných časoch
+údržby systému.
+
+Počet hodín podpory
+
+3.6
+
+4
+
+Objednávateľ a Dodávateľ sa môžu dohodnúť aj na iných servisných intervaloch pre jednotlivé
+softvérové časti Systému. Ak k takej dohode nedôjde, platí servisný interval definovaný v bode
+3.4.1.
+
+Do počtu hodín podpory definovanej v zmluve (Čl. 2, ods. 2.4 b)) sa započítavajú len
+Objednávateľom odsúhlasené konzultácie z dôvodu zmenových požiadaviek Objednávateľa,
+a/alebo vykonanie špecifických systémových nastavení, úprav a procesov Systému (tzv. drobný
+rozvoj) a/alebo riešenia chýb spôsobených používateľmi a oprave údajov v Systéme.
+Konzultáciami v rámci tohto bodu sa myslia všetky konzultácie nad rámec konzultácií
+nevyhnutných pre vykonávanie podpory podľa 3.2.
+
+Reporty o prevádzke systému
+Dodávateľ je povinný vytvárať pravidelné mesačné reporty o riešení incidentov a o zmenách
+v dokumentácii a tieto poskytovať Objednávateľovi vždy v 1. týždni nasledujúceho mesiaca. Pre
+mesačné reporty sú stanovené hlavne tieto údaje:
+a) jednoznačné identifikačné číslo
+b) čas ohlásenia incidentu
+c) popis incidentu
+d) čas začiatku odstraňovania incidentu
+e) čas konca odstraňovania incidentu
+14
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+f)
+
+technické príčiny incidentu
+
+g) spôsob odstránenia incidentu
+h) meno pracovníka Dodávateľa vykonávajúceho odstránenie incidentu
+
+4.2
+
+5
+5.1
+
+i)
+
+priorita
+
+j)
+
+termín sprístupnenia aktualizácie dokumentácie (v prípade zmeny dokumentácie)
+
+Dodávateľ môže zabezpečiť poskytnutie sumárnych údajov popísaných v 4.1 aj prostredníctvom
+elektronického helpdesku Systému po dohode s Objednávateľom.
+
+Miesto a termín poskytovania služieb
+Miestom poskytovania služieb je:
+a) CVTI SR, Lamačská cesta, Bratislava
+b) DC VaV, Žilina
+c)
+
+5.2
+
+6
+6.1
+
+7
+
+iné miesto určené Objednávateľom
+
+Služby budú poskytované priebežne odo dňa účinnosti zmluvy v zmysle zmluvy.
+
+Poskytnutie zdrojových kódov
+Dodávateľ je povinný odovzdať Objednávateľovi ako neoddeliteľnú súčasť diela aktualizovaný
+súbor zdrojových kódov vždy ku dňu výročia účinnosti zmluvy, a to po dobu platnosti
+prevádzkovej podpory a údržby Systému, udržiavať ich v repozitári zdrojových kódov
+Objednávateľa, zriadenom Objednávateľom vo svojej infraštruktúre a každú zmenu do neho
+bezodkladne preniesť.
+
+Preberacie konanie
+
+7.1
+
+Zadanie požiadavky oprávnenou osobou prostredníctvom niektorého komunikačného kanála
+uvedeného v bode 3.2.1 sa považuje za nahlásenie požiadavky a začínajú sa počítať termíny
+pre jej vybavenie.
+
+7.2
+
+Dodávateľ je oprávnený konzultovať nahlásený problém s oprávnenou osobou Objednávateľa,
+ktorá problém nahlásila.
+
+7.3
+
+Dodávateľ poskytne návrh riešenia na testovanie v testovacom prostredí Objednávateľa.
+Objednávateľ zabezpečí testovanie návrhu riešenia, v prípade nutnosti aj za asistencie
+Dodávateľa.
+
+7.4
+
+V prípade zistenia nedostatkov v návrhu riešenia je Dodávateľ povinný zabezpečiť iné riešenie
+nahláseného problému a následne nové riešenie poskytnúť na testovanie v testovacom
+prostredí Objednávateľa.
+
+7.5
+
+V prípade, že návrh riešenia po testovaní nemá nedostatky, po schválení Objednávateľom toto
+riešenie nasadí Dodávateľ do produkčného prostredia Objednávateľa. Procesy bodov 7.1 až 7.3
+prebiehajú dovtedy, dokiaľ má návrh riešenia nedostatky.
+15
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+7.6
+
+Po nasadení riešenia do produkčného prostredia Objednávateľa prebehne testovanie. V prípade
+zistenia nedostatkov je Dodávateľ povinný zabezpečiť iné riešenie nahláseného problému
+a procesy bodov 7.1 až 7.3 prebiehajú dovtedy, dokiaľ má riešenie nedostatky.
+
+7.7
+
+Po úspešnom testovaní riešenia v produkčnom prostredí je možné uzavrieť požiadavku, a to
+potvrdením riešenia zo strany Objednávateľa niektorým z komunikačných kanálov uvedených
+v bode 3.2.1.
+
+8
+8.1
+
+Zmluvné pokuty
+V prípade nenastúpenia na odstránenie vady alebo neodstránenie vady v lehotách určených
+v tejto prílohe ku zmluve, má Objednávateľ nárok na zmluvnú pokutu vo výške:
+a) 200 EUR s DPH za každú (aj začatú) hodinu omeškania a každú kritickú vadu (vadu
+nahlásenú kritickým incidentom podľa bodu 3.2.5 s lehotami uvedenými v bode 3.2.6),
+b) 200 EUR s DPH za každý (aj začatý) deň omeškania a každú vadu, ktorá nie je kritická (vadu
+nahlásenú iným ako kritickým incidentom podľa bodu 3.2.5 s lehotami uvedenými v bode
+3.2.6), počnúc 30. dňom omeškania,
+1.1
+najviac však celkovo do výšky ceny predmetu zmluvy (podľa bodu zmluvy 7.1, položka
+1. s DPH) za všetky omeškania spolu.
+
+8.2
+
+Dodávateľ nebude v omeškaní, ak záväzok na plnenia alebo činnosti podľa tejto prílohy zmluvy
+nemohol riadne a včas splniť pre okolnosti, ktoré po uzavretí tejto zmluvy vznikli v dôsledku ním
+nepredvídateľných a neodvrátiteľných skutočností mimoriadnej povahy (vyššia moc) – lehoty
+pre plnenia alebo činnosti zhotoviteľa podľa tejto prílohy zmluvy sa predĺžia o dobu
+zodpovedajúcu dobe trvania takýchto okolností.
+
+8.3
+
+Dodávateľ nebude v omeškaní, ak mu Objednávateľ neposkytne požadovanú súčinnosť.
+
+8.4
+
+Objednávateľ si vyhradzuje právo zameniť zmluvné pokuty uvedené v bode 8.1 za rozvojové
+a vývojárske práce Dodávateľa, a to nasledovne:
+a) Dodávateľ poskytne bezodplatne 3 človekohodiny na Objednávateľom odsúhlasené a
+objednané práce na zmeny v Systéme za každú (aj začatú) hodinu omeškania a každú
+kritickú vadu (vadu nahlásenú kritickým incidentom podľa bodu 3.2.5 s lehotami
+uvedenými v bode 3.2.6),
+b) Dodávateľ poskytne bezodplatne 3 človekohodiny na Objednávateľom odsúhlasené a
+objednané práce na zmeny v Systéme za každý deň omeškania a každú vadu, ktorá nie je
+kritická (vadu nahlásenú iným ako kritickým incidentom podľa bodu 3.2.5 s lehotami
+uvedenými v bode 3.2.6), počnúc 30. dňom omeškania.
+
+16
+ZMLUVA O POSKYTOVANÍ PREVÁDZKOVEJ PODPORY A ÚDRŽBY INFORMAČNÉHO SYSTÉMU ISS CVTI SR
+
+

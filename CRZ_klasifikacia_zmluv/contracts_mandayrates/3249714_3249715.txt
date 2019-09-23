@@ -1,0 +1,680 @@
+Zmluva o poskytovaní služieb č. Z201767131_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Slovenský pozemkový fond
+Búdkova cesta 36 , 81104 Bratislava, Slovenská republika
+17335345
+2021007021
+SK3581800000007000001638
+0220941315
+
+Dodávateľ:
+Obchodné meno:
+
+DWC Slovakia a.s.
+
+Sídlo:
+
+Mlynské nivy 71, 821 05 Bratislava, Slovenská republika
+
+IČO:
+
+35918501
+
+DIČ:
+
+2021942307
+
+IČ DPH:
+
+SK2021942307
+
+Číslo účtu:
+
+SK9711000000002623030272
+
+Telefón:
+
++421232141711
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Implementácia IS správy registratúry na platforme Fabasoft
+
+Kľúčové slová:
+
+správa registratúry, Fabasoft
+
+CPV:
+
+72250000-2 - Služby týkajúce sa podpory systému; 72322000-8 - Správa údajov;
+60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Implementácia IS správy registratúry na platforme Fabasoft
+
+Funkcia
+Implementácia správy registratúry na platforme Fabasoft s napojením na Ústredný portál verejnej správy (e-schránka).
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+2.3
+
+Minimum
+
+Maximum
+
+Presne
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Systém bude budovaný na báze už existujúceho produktu Fabasoft eGov-Suite pre právnický subjekt s počtom používateľov
+do 280. Každý dokument v systéme bude implementovaný ako určitý objekt, ktorý bude obsahovať popisné údaje (metadáta napr. názov dokumentu, dátum vzniku) a samotný obsah (napr. zoskenovaný obraz papierového dokumentu - súbor typu
+PDF).
+Systém musí podporovať väzbu na organizačnú štruktúru (napr. pre definovanie aktérov schvaľovania), zostane ponechaná aj
+možnosť manuálneho výberu. Používateľské prostredie pre prácu so systémom musí byť riešené prostredníctvom web
+rozhrania. Systém musí podporovať centralizované vedenie správy registratúry.a musí umožniť validáciu a prednastavovanie
+údajov (kontrolu povinných údajov).
+
+Strana 1 z 6
+
+Systém musí umožňovať vkladanie informácií z emailu priamo do štruktúry dokumentov v správe registratúry. Systém musí byť
+lokalizovaný do slovenského jazyka.Ďalej systém musí umožňovať nastavenie individuálnych alebo skupinových prístupových
+práv, musí podporovať tzv. Single Sign On, t.j. overovanie používateľa voči Active Directory, súlad s legislatívou a európskymi
+štandardmi.
+Riešenie musí byť implementované v súlade so zákonom č. 395/2002 Z. z. o archívoch a registratúrach a následných
+novelizácií po dobu minimálne 1 kalendárneho roka od odovzdania diela. Riešenie musí byť implementované v súlade s
+vyhlášku MV SR č. 628/2002 Z. z. a tiež musí byť implementované v súlade s vyhlášku MV SR č. 410/2015 Z.z.
+Riešenie musí byť implementované v súlade s ďalšími všeobecne záväznými právnymi predpismi, najmä zákon č. 305/2013 Z.
+z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon na
+ochranu osobných údajov a i. a následných novelizácií po dobu minimálne 1 kalendárneho roka od odovzdania diela.
+Systém musí disponovať certifikátom o posúdení zhody s požiadavkami výnosu Ministerstva vnútra SR č. 525/2011 Z.z. o
+štandardoch pre elektronické informačné systémy na správu registratúry s úrovňou hodnotenia „Vysoká úroveň“.
+Správa registratúrnych záznamov a spisov musí byť v súlade s platným registratúrnym poriadkom organizácie.
+Požaduje sa predložiť podrobný rozpočet obsahujúci jednotkové ceny položiek do 7 dní od účinnosti zmluvy.
+Dodávateľ môže dodať a odovzdať predmet zákazky postupne, v určenej lehote plnenia vrátane dopravy, inštalácie v mieste
+plnenia.
+Dodávateľ je povinný do troch pracovných dní od nadobudnutia účinnosti zmluvy kontaktnej osobe objednávateľa písomne
+oznámiť identifikačné údaje o osobe zodpovednej za riadne dodanie predmetu zmluvy, bankové spojenie a číslo účtu, na ktorý
+mu bude poukázaná platba za plnenie podľa tejto zmluvy.
+Porušenie povinnosti poskytovateľa poskytnúť celé plnenie riadne a včas podľa zmluvy bude považované za podstatné
+porušenie zmluvy, ktoré oprávňuje objednávateľa od zmluvy odstúpiť.
+Objednávateľ má právo odstúpiť od zmluvy uzavretej s dodávateľom, ktorý nebol v čase uzatvorenia zmluvy zapísaný v registri
+partnerov verejného sektora, alebo ak bol vymazaný z registra partnerov verejného sektora.
+Dodávateľ predloží Potvrdenie o oprávnenosti poskytovať služby v oblasti vývoja, implementácie, podnikovej podpory,
+záručného a pozáručného servisu pre aplikácie vyvíjane na základe softvérových produktov danej platformy v SR.Nedodržanie
+tejto podmienky sa považuje za podstatné porušenie zmluvných podmienok.
+Názov
+
+Upresnenie
+
+Záznamy:
+
+Systém musí podporovať automatický obeh záznamov v elektronickej forme.
+
+Záznamy:
+
+Systém musí umožňovať automatizované evidovanie registratúrnych záznamov z
+doručených mailov vrátane všetkých príloh (bez viacnásobného pridelenia
+registratúrneho čísla jednotlivým prílohám).
+
+Záznamy:
+
+V procese tvorby odosielaných záznamov musí systém podporovať využitie
+preddefinovaných šablón.
+
+Záznamy:
+
+Obsah záznamov musí byť možné vytvárať prostredníctvom textového editora MS Word
+kvôli kontrole pravopisu.
+
+Záznamy:
+
+Systém musí umožňovať výber adresáta z databázy kontaktov,ďalej umožňovať
+implementovať kontakty z MS Excel a umožniť spracovanie každého záznamu v rámci
+spisu.
+
+Záznamy:
+
+Systém musí pokrývať kompletný životný cyklus registratúrnych záznamov – od ich
+vzniku, resp. príchodu do organizácie, cez evidenciu, pridelenie na organizačný útvar,
+
+Záznamy:
+
+Ďalej pridelenie spracovateľovi, vloženie do spisu, tvorbu odpovede, schválenie a
+odoslanie.
+
+Záznamy:
+
+Systém musí umožňovať elektronické parafovanie dokumentov v rámci interných
+procesov spracovania dokumentu – napr. Schválenie, Zamietnutie a pod.
+
+Záznamy:
+
+Systém musí umožniť určenie spracovateľa manuálnym výberom spracovateľa alebo
+organizačného útvaru alebo automatizovane na základe logicky definovaných pravidiel
+pre presný druh záznamu alebo službu.
+
+Záznamy:
+
+Systém musí zabezpečovať automatizáciu rutinných činností v súvislosti so
+spracovaním registratúrnej agendy – t.j. pri manipulácii s registratúrnymi záznamami a
+spismi.
+
+Záznamy:
+
+Systém musí umožniť,aby každý registratúrny záznam bol vložený práve do jedného
+spisu,umožní kópiu záznamu vložiť ako elektronický dokument do ďalších spisov s
+uvedením správneho uloženia originálu.
+
+Záznamy:
+
+Systém musí umožňovať sledovanie procesov a lehôt pre vybavenie podania a tiež
+stornovanie registratúrneho záznamu za určitých podmienok.Záznam bude označený
+ako zrušený,systém nepovolí výmaz záznamu.
+
+Zýznamy:
+
+Systém musí podporovať hromadné vybavovanie a rozposielanie zásielok (hromadné
+tlačenie obálok)interných a externých rozdeľovníkov.Elektronické procesy musia byť
+konfigurovateľné podľa typu záznamu.
+
+Strana 2 z 6
+
+Záznamy:
+
+Systém musí podporovať elektronický obeh záznamov-schvaľovanie, podpisovanie,
+zaslanie na vedomie,vrátenie na dopracovanie, vyžiadanie stanoviska.
+
+Spisy:
+
+Systém musí umožniť jednoznačnú identifikáciu spisov v štruktúre podľa registratúrnom
+poriadku organizácie.
+
+Spisy:
+
+Systém musí zabezpečiť dodržanie predpísaného spôsobu manipulácie so spisom – od
+vzniku až po archiváciu/zničenie. Systém musí podporovať typ spisu, viaceré stavy
+spisov a spisové zväzky.
+
+Spisy:
+
+Systém musí umožniť vizualizáciu podľa typov a stavov spisov, združovanie súvisiacich
+alebo nadväzných spisov do spisových zväzkov a podporovať stavy spisov podľa
+platného registratúrneho poriadku.
+
+Spisy:
+
+Systém musí zabezpečiť povinné priradenie spisu ku vecnej skupine registratúrneho ,
+musí umožniť spracovateľovi zaznamenať spôsob vybavenia spisu. a musí umožniť
+delimitáciu spisu.
+
+Práca s dokumentami:
+
+Systém musí umožniť import skenovaných dokumentov a musí podporovať funkciu
+Drag&Drop pri importe dokumentov.Systém musí umožniť manuálne zadávanie
+atribútov pre importované zoskenované dokumenty.
+
+Tlačové zostavy a reporty:
+
+Systém musí umožniť automatickú tvorbu všetkých evidenčných pomôcok
+požadovaných registratúrnym poriadkom (napr. registratúrny denník) v elektronickej aj
+tlačovej forme.
+
+Tlačové zostavy a reporty:
+
+Evidencia výpožičiek fyzických spisov z registratúrneho strediska pre správcu
+registratúry. Systém musí umožniť vedenie príslušnej dokumentácie o správe
+registratúry.
+
+Tlačové zostavy a reporty:
+
+Možnosť tvorby dokumentácie týkajúcej sa správy registratúry: registratúrny denník
+spisov/záznamov spisové obaly zostava pre vyraďovanie.
+
+Tlačové zostavy a reporty:
+
+Systém musí umožniť vytvorenie a tlač spisového obalu a obsahu spisu alebo jeho časti
+v zmysle registratúrneho poriadku.Spisové obaly musia byť vytvárané prostredníctvom
+preddefinovanej šablóny.
+
+Tlačové zostavy a reporty:
+
+Systém musí umožniť vytvorenie reportu na kontrolné účely pre nadriadených (napr.
+nedodržanie termínov vybavenia spisov a záznamov).Systém musí umožniť tlač adries
+na obálku pre odoslanie.
+
+Tlačové zostavy a reporty:
+
+Systém musí umožniť vytvorenie a tlač podacieho hárku pre odoslanie vybavenia
+poštou a vedie ich evidenciu.
+
+Zastupovanie:
+
+Systém musí poskytovať možnosť nastavenia zastupovania ako aj nastavenie
+zastupovania podriadených zamestnancov.Jeden používateľ môže zastupovať
+viacerých iných používateľov.
+
+Zastupovanie:
+
+Zastupovanie môže byť aj trvalé (t.j. bez obmedzenia dátumu ukončenia zastupovania).
+
+Zastupovanie:
+
+Určený zástupca dostane počas stanoveného obdobia k dispozícii rolu zastupovaného
+a bude sa môcť do nej prepnúť a vykonávať činnosti zastupovaného, daný používateľ
+môže mať viacerých zástupcov.
+
+Zastupovanie:
+
+Zastupovanie ohraničené koncovým dátumom bude automaticky systémom ukončené
+po tomto termíne (t.j. systém už neumožní zástupcovi prístup k roly zastupovaného).
+
+Notifikácie:
+
+Systém musí umožniť automatické zasielanie notifikácie o aktivite čakajúcej na
+vybavenie. Notifikácia bude obsahovať linku na príslušnú aktivitu.
+
+Notifikácie:
+
+Systém musí umožniť podporu zasielania notifikácií (upozornenia) o blížiacom sa
+termíne ukončenia úlohy čakajúcej na vybavenie.
+
+Notifikácie:
+
+Systém musí poskytovať funkcie pre kontrolu spracovania záznamov a spisov formou
+farebného odlíšenia tesne pred a po uplynutí termínu.
+
+Notifikácie:
+
+Systém musí umožňovať notifikovanie o definovaných udalostiach nielen
+spracovateľov, ale aj ich nadriadených.
+
+Vyhľadávanie:
+
+Systém musí umožniť vyhľadávanie registratúrnych záznamov a spisov ako aj iných
+objektov podľa jednoduchého filtra (1atribút) alebo podľa zloženého filtra (viac atribútov)
+musia byť oprávnené prístupy
+
+Dokladovateľnosť:
+
+Systém musí zabezpečiť dokladovateľnosť - zaznamenávanie všetkých dôležitých
+operácií nad spismi, záznamami a ďalšími objektami registratúry a vedenie podrobnej
+histórie záznamu a spisu.
+
+Integrácia:
+
+Systém musí byť plne integrovaný s bežne používanými kancelárskymi aplikáciami
+(textový a tabuľkový procesor).
+
+Správa registratúry:
+
+Systém musí zabezpečovať automatické generovanie jednoznačných evidenčných čísel
+záznamov a spisov, umožňovať priraďovanie registratúrnych značiek,
+
+Stpráva registratúry:
+
+znakov hodnoty a lehoty uloženia v súlade s požiadavkami interných riadiacich noriem
+a pri zmene týchto noriem pružne reagovať na zmeny.
+
+Strana 3 z 6
+
+Správa registratúry:
+
+Systém musí podporovať vytvorenie a správu registratúrneho plánu správcom
+registratúry.Systém musí podporovať elektronický proces vyradenia spisov v zmysle
+registratúrneho poriadku.
+
+Správa registratúry:
+
+Systém musí umožniť tvorbu a vyhotovenie všetkých dokumentov pre vyradenie spisov
+z evidencie registratúry. Systém musí podporovať ročnú uzávierku spisov.
+
+Správa registratúry:
+
+Systém musí podporovať vytvorenie tlačových zostáv registratúrneho denníka:- ročný
+zoznam spisov- zoznam registratúrnych záznamov v spise (obsah spisov)- menný
+register.
+
+Správa registratúry:
+
+Systém musí podporovať presun nevybavených a neuzatvorených bežných spisov z
+predchádzajúceho roku do nového registratúrneho roka. Prenosom sa musí prideliť
+nové číslo spisu.
+
+Správa registratúry:
+
+Systém musí podporovať presun spisov do registratúrneho strediska,správu spisov v
+registratúrnom stredisku: evidencia presunu spisov do RS lokácia spisov zmena lokácie
+spisu,výpožičky, nahliadnutie.
+
+Správa registratúry:
+
+Systém musí umožniť presné zaznačenie uloženia spisov v registratúrnom stredisku
+(miestnosť,regál a jeho časti,ukladacia jednotka) a vytváranie reportov pre správcu
+registratúrneho strediska.
+
+Správa registratúry:
+
+Systém musí umožňovať sledovanie umiestnenia vybavených spisov v rámci
+organizačných útvarov,príručnej registratúry a registratúrneho strediska.
+
+Správa registratúry:
+
+Systém musí poskytovať nástroje na sledovanie znakov hodnoty a lehoty uloženia
+spisov.
+
+Správa registratúry:
+
+Systém musí umožňovať automatizovaný presun spisov z príručnej registratúry do
+registratúrneho strediska,
+
+Správa registratúry:
+
+vyraďovanie spisov a presun do archívu v súlade s požadovaným formátom MV SR pre
+elektronické žiadosti na vyradenie do štátneho archívu.
+
+Podpora elektronickej komunikácie:
+
+Systém bude podporovať na úrovni integrácie elektronickú komunikáciu s modulmi
+ÚPVS.
+
+Podpora elektronickej komunikácie:
+
+Systém bude automaticky preberať doručené správy z elektronickej schránky úradu na
+ÚPVS a evidovať ich ako doručené registratúrne záznamy.
+
+Podpora elektronickej komunikácie:
+
+Systém bude ukladať dokumenty a prílohy elektronických podaní v čitateľnej podobe
+ako prílohy doručeného registratúrneho záznamu.
+
+Podpora elektronickej komunikácie:
+
+Systém bude umožňovať kategorizáciu typov elektronických podaní a automatické
+smerovanie konkrétneho typu podania na vecne príslušný organizačný útvar,
+
+Podpora elektronickej komunikácie:
+
+alebo priamo ku konkrétnemu používateľovi na základe konfigurácie daného typu
+podania. Systém bude zabezpečovať vizualizácie elektronických formulárov do html a
+pdf formátu.
+
+Podpora elektronickej komunikácie:
+
+Pre potreby spracovania a vizualizácie obsahu elektronickej komunikácie bude mať
+systém implementovanú službu modulu MEF ÚPVS pre príjem registrovaných
+formulárových balíkov a ich zmien.
+
+Podpora elektronickej komunikácie:
+
+Pre potreby vizualizácie a spracovania elektronických formulárov budú formulárové
+balíky ukladané v systéme v štruktúrovanej podobe.
+
+Podpora elektronickej komunikácie:
+
+Systém bude podporovať využitie existujúceho elektronického formulára všeobecnej
+agendy ÚPVS – „General agenda“ pre zasielanie elektronických úradných dokumentov.
+
+Podpora elektronickej komunikácie:
+
+Systém bude podporovať automatické vyplnenie elektronického formulára všeobecnej
+agendy ÚPVS – „General agenda“ na základe údajov odoslaného registratúrneho
+záznamu,
+
+Podpora elektronickej komunikácie:
+
+a priloženie príloh, ktoré môžu byť podpísané zaručeným elektronickým podpisom.
+
+Podpora elektronickej komunikácie:
+
+Systém bude na úrovni integrácie s ÚPVS a implementácie služieb modulu centrálnej
+elektronickej podateľne poskytovať nasledovnú funkcionalitu:
+
+Podpora elektronickej komunikácie:
+
+- podpísanie dokumentu/dokumentov zaručenou elektronickou pečaťou, - informatívne
+overenie podpisov; - poskytnutie časovej pečiatky
+
+Podpora elektronickej komunikácie:
+
+Systém bude umožňovať spracovanie potvrdenia o finálnom overení podpisov a jeho
+priloženie k súvisiacemu doručenému registratúrnemu záznamu.
+
+Podpora elektronickej komunikácie:
+
+Na úrovni spracovania podpísaných elektronických podaní a elektronických úradných
+dokumentov bude systém umožňovať vyberanie
+
+Podpora elektronickej komunikácie:
+
+a samostatné ukladanie čitateľných dokumentov zo súboru ZEP pre potreby ich
+ďalšieho spracovania a vizualizácie dokumentov.
+
+Podpora elektronickej komunikácie:
+
+V procese schvaľovania odoslaného registratúrneho záznamu bude systém umožňovať
+pred odoslaním podpisovanie elektronických úradných dokumentov zaručenou
+elektronickou pečaťou.
+
+Podpora elektronickej komunikácie:
+
+Systém bude poskytovať možnosť podpisovať zaručenou elektronickou pečaťou a
+mandátnym certifikátom len vybrané dokumenty registratúrneho záznamu.
+
+Strana 4 z 6
+
+Podpora elektronickej komunikácie:
+
+Systém bude úkony schválenia a podpísania dokumentov registratúrneho záznamu
+zaručenou elektronickou pečaťou alebo mandátnym certifikátom automaticky ukladať
+do logov.
+
+Podpora elektronickej komunikácie:
+
+Systém bude umožňovať prednastavenie povinného schvaľovania a podpísania
+elektronického dokumentu na základe zadefinovaného druhu registratúrneho záznamu.
+
+Podpora elektronickej komunikácie:
+
+V súvislosti s doručovaním úradných dokumentov bude systém prostredníctvom modulu
+doručovania podporovať proces elektronického doručovania aj doručovania v listinnej
+forme.
+
+Podpora elektronickej komunikácie:
+
+V súvislosti s elektronickým doručovaním elektronických úradných dokumentov bude
+systém na úrovni integrácie s ÚPVS a implementácie služieb modulu doručovania
+poskytovať nasledovnú funkcionalitu:
+
+Podpora elektronickej komunikácie:
+
+- informačné doručovanie správ do elektronickej schránky ÚPVS - doručovanie
+elektronických úradných dokumentov do elektronickej schránky ÚPVS
+
+Podpora elektronickej komunikácie:
+
+-doručovanie elektronických úradných dokumentov do elektronickej schránky ÚPVS do
+vlastných rúk
+
+Podpora elektronickej komunikácie:
+
+- doručovanie elektronických úradných dokumentov do elektronickej schránky ÚPVS do
+vlastných rúk s fikciou doručenia
+
+Podpora elektronickej komunikácie:
+
+Systém bude schopný prijať potvrdenie o doručení alebo nedoručení správy do
+elektronickej schránky a zaevidovať ho v štruktúrovanej podobe.
+
+Podpora elektronickej komunikácie:
+
+Po zaevidovaní potvrdenia doručenia správy do elektronickej schránky ÚPVS systém
+automaticky zmení stav doručovania.
+
+Podpora elektronickej komunikácie:
+
+Po zaevidovaní správy o nedoručení úradného dokumentu do elektronickej schránky
+ÚPVS, systém automaticky zmení spôsob doručovania z elektronického na doručovanie
+listinnej forme.
+
+Podpora elektronickej komunikácie:
+
+Systém bude podporovať proces doručovania v listinnej forme, doručovanie
+e-mailom,proces pre osobné doručenie zásielky,bude umožňovať evidenciu vrátených
+zásielok.
+
+Podpora elektronickej komunikácie:
+
+Systém bude umožňovať evidovanie papierových doručeniek v štruktúrovanej podobe
+alebo ako sken,obsahovať funkcionalitu pre tvorbu a tlač vyplnených poštových
+podacích hárkov.
+
+Podpora elektronickej komunikácie:
+
+Používateľská príručka /papierová a elektronická forma/.
+
+2.4
+
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Búdkova 36
+
+Čas / lehota plnenia zmluvy:
+18.12.2017 08:00:00 - 18.12.2018 23:59:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+280,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.2, účinná zo dňa 4.11.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 202 000,00 EUR
+
+Strana 5 z 6
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 242 400,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 15.12.2017 10:03:05
+Objednávateľ:
+Slovenský pozemkový fond
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+DWC Slovakia a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 6 z 6
+
+

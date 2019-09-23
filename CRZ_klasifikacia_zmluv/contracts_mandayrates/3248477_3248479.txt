@@ -1,0 +1,910 @@
+Zmluva o dielo
+číslo:
+
+2017/1030/3652
+
+uzavretá podľa§ 536 a nasl. Obchodného zákonníka (zákon č . 513/1991 Zb.) v znení neskorších
+predpisov
+
+Článok 1.
+Zmluvné strany
+1.1
+
+Objednávateľ:
+
+VODOHOSPODÁRSKA VÝSTAVBA, ŠTÁTNY PODNIK
+
+Sídlo:
+P.O.BOX 45, Karloveská 2, 842 04 Bratislava
+štatutárny orgán:
+Ing. Daniel Kvocera, generálny ri aditeľ štátneho podniku
+IČO:
+00 156 752
+DIČ:
+2020480198
+IČ DPH:
+SK2020480198
+Ba nkové spojenie: Tatra banka, a.s.
+Číslo účtu:
+2921123848/1100
+IBAN:
+SK45 1100 0000 0029 2112 3848
+SIC:
+TATRSKBX
+Zapísaný v Obchodnom registri Okresného súdu Bratislava 1, oddiel : Pš, vložka č . : 32/ B
+(ďalej len „objednávate!"')
+1.2
+
+Zhotovite ľ:
+
+exe, a.s.
+
+Sídlo:
+štatutárny orgán:
+
+Slávičie
+
+IČO:
+
+DIČ:
+IČ DPH:
+Bankové spojenie:
+
+údolie 6
+Richard Hrabovský
+17 321450
+2020299490
+SK 2020299490
+
+Číslo účtu:
+
+IBAN:
+BIC:
+Zapísaný v Obchodnom regist ri Okresného súdu Bratislava 1 oddiel Sa, vložka č . : 6180/B
+(ďa l ej len „zhotovitel"' a spolu s objednávateľom ďalej len „ zmluvné stra ny")
+Uvedené zmluvné strany uzatvárajú na základe vzájomnej dohody tút o zmluvu o dielo pod názvom:
+,,Konsolidácia Active Directory"
+(ďalej
+
+len „zmluva").
+
+Článok II.
+Predmet zmluvy
+
+2.1
+
+Predmetom zmluvy je záväzok zhotov ite ľa zhotoviť dielo pod názvom: ,,Konsolidácia Active
+Directory" bližšie špecifikované v bode 2.2 tohto článku zml uvy (ďalej aj „dielo") a zhotovené
+dielo protokolárne odovzdať objednávateľovi a záväzok obj ed návateľa za riadne zhotovené
+a odovzdané dielo zaplatiť cenu podľa článku IV. tejto zmluvy.
+
+2.2
+
+Dielo bude pozostávať z nasledovných častí:
+2 .2.1
+
+Vypracovanie analýzy infraštruktúry (ďa l ej len „analýza") a štúdie realizovate ľnosti
+(ďa l ej
+len ,,štúdia") a ich predloženie objednávateľovi na schválenie · a
+pripomienkovanie do 7dní od nadobudnutia účinnosti tejto zmluvy. Objednávateľ je
+
+ZoD č. 2017/1030/3652
+
+1
+
+povinný zaslať zhotoviteľovi svoje pripomienky do 7 dní od doručenia analýzy a štúdie.
+po zapracovaní pripomienok objednávateľa zašle objednávateľovi
+finálnu verziu analýzy a štúdie, a to najneskôr 7 dní od jej schválenia objednávateľom.
+Zhotoviteľ následne
+
+2.2.2
+
+Spracovanie návrhu pomenovania forestu, domény, používateľov, skupín, systémov,
+organizationa unit (OU) v Active Directory (AD) (ďalej len „návrh č. 1") a jeho
+predloženie objednávateľovi na schválenie a pripomienkovanie do 7 dní od
+nadobudnutia účinnosti tejto zmluvy. Objednávateľ je povinný zaslať zhotoviteľovi svoje
+pripomienky do 7 dní od doručenia návrhu č. 1. V rovnakej lehote je objednávateľ
+oprávnený požiadať o konzultácie so zhotoviteľom a zhotoviteľ je povinný mu ich v tejto
+lehote poskytnúť. Zhotoviteľ následne po zapracovaní pripomienok objednávateľa
+zašle objednávateľovi finálnu verziu návrhu č. 1, a to najneskôr 7 dní od jej schválenia
+objednávateľom.
+
+2.2.3
+
+Inštalácia a konfigurácia 2 virtual machine (VM) s rolou AD Domain Component (DC),
+import používateľov do AD a príslušných OU (VM s aktualizovaným OS a pripojenými
+dátovými diskami pripraví PPS).
+
+2.2.4
+
+Konfigurácia domain name system (DNS), migrácia DNS záznamov (potrebné
+informácie z existujúceho DNS servera, resp. spolupráca so správcom existujúceho
+DNS servera).
+
+2.2.5
+
+Konfigurácia Dynamic Host Configuration Protocol (DHCP) servera, resp. rola na
+jednom z DC, otestovanie fungovania a získavania IP adries z príslušného adresného
+rozsahu (VM s aktualizovaným operačným systémom (OS) a pripojenými dátovými
+diskami pripraví passpattern system (PPS)).
+
+2.2.6
+
+Príprava postupu migrácie
+
+2.2.7
+
+Testovanie migrácie testovacieho používateľa z WG do domény s migráciou profilu a
+testovaním prístupu na FS, resp. iné požadované systémy z testovacieho doménového
+
+používateľských
+
+profilov z pracovnej skupiny do domény.
+
+účtu.
+
+2.2.8
+
+Zaradenie 333 klientskych PC do AD a migrácia profilov na Windows XP aj Windows 7.
+
+2.2.9
+
+Postmigračná
+
+podpora v rozsahu 12 mesiacov od odovzdania diela.
+
+2.2.10 Školenie v rozsahu 3 x 8 hodín na využívanie AD, DNS, DHCP, AD Group Policy pre
+distribúciu aplikácií, login skripty, ktoré sa uskutoční v sídle objednávateľa a v termíne
+určenom objednávateľom,
+
+2.2.11 Vypracovanie návrhu zálohovania a Disaster Recovery (ďalej len „návrh č. 2") a jeho
+predloženie objednávateľovi na schválenie a pripomienkovanie do 7 dní od
+nadobudnutia účinnosti tejto zmluvy. Objednávateľ je povinný zaslať zhotoviteľovi svoje
+pripomienky do 7 dní od doručenia návrhu č. 2. Zhotoviteľ následne po zapracovaní
+pripomienok objednávateľa zašle objednávateľovi finálnu verziu návrhu č. 2, a to
+najneskôr 7 dní od jeho schválenia objednávateľom.
+2.2.12 Vypracovanie inštalačných a prevádzkových príručiek pre AD, DNS, DHCP, AD, DNS,
+DHCP Health Check - kontrola podľa Microsoft Best Practices údržba active directory
+(ďalej
+len „príručky") a ich predloženie objednávateľovi na schválenie a
+pripomienkovanie do 7 dní od nadobudnutia účinnosti tejto zmluvy. Objednávateľ je
+povinný zaslať zhotoviteľovi svoje pripomienky do 7 dní od doručenia príručky.
+Zhotoviteľ následne po zapracovaní pripomienok objednávateľa zašle objednávateľovi
+finálnu verziu príručky, a to najneskôr 7 dní od jej schválenia objednávateľom.
+Zhotoviteľ je povinný na základe definovaných vplyvov na požiarnu ochranu rešpektovať
+
+2.3
+
+rozmiestnenie požiarnych pásiem a prístrojov v miestach zhotovovania diela podľa tejto zmluvy
+a v tesnej blízkosti týchto miest. Zhotoviteľ je povinný zaviesť a počas celej doby trvania zmluvy
+dodržiavať účinný systém ochrany životného prostredia v súvislosti s plnením predmetu tejto
+zmluvy.
+
+ZoD
+
+č.
+
+2017/1030/3652
+
+2
+
+Článok III.
+Termíny a miesto plnenia
+
+3.1
+
+Zhotoviteľ sa zaväzuje vykonať dielo podľa článku II. tejto zmluvy najneskôr do 90 dní od
+
+3.2
+
+Zhotoviteľ nie je v omeškaní s termínmi po dobu, po ktorú nebola poskytnutá súčinnosť
+
+nadobudnutia
+
+účinnosti
+
+tejto zmluvy.
+
+objednávateľa podľa
+
+3.3
+
+3.4
+
+3.5
+3.6
+
+bodu 6.3 článku Vl. tejto zmluvy, t.j. najmä neúčasť na skúškach a pod.
+Objednávateľ je povinný odovzdať potrebné zariadenia zhotoviteľovi najneskôr do 7 dní
+nadobudnutia účinnosti tejto zmluvy. O odovzdaní zariadení bude spísaný protokol, ktorý bude
+podpísaný za zmluvné strany osobami v zmysle bodu 6.4 a 6.5 článku Vl. tejto zmluvy.
+
+Zhotoviteľ
+
+je povinný odovzdať všetky zariadenia objednávateľovi v stave podľa dohody
+s objednávateľom v lehote do 10 kalendárnych dní od odovzdania diela, pokiaľ sa zmluvné
+strany nedohodnú inak; o tomto odovzdaní bude spísaný protokol, ktorý bude podpísaný za
+zmluvné strany zodpovednými osobami v zmysle bodu 6.4 a 6.5 článku Vl. tejto zmluvy.
+Dielo ako celok v rozsahu definovanom v článku II. tejto zmluvy je vykonané podpisom
+preberacieho protokolu.
+Miesto plnenia predmetu zmluvy a vykonania diela je sídlo objednávateľa.
+Článok IV.
+Cena
+
+4.1
+
+Cena bez DPH za zhotovenie diela v rozsahu článku II. zmluvy je stanovená v zmysle zákona
+č. 18/1996 Z. z. o cenách v platnom znení, vykonávacej vyhlášky MF SR k zákonu o cenách
+č. 87/1996 Z. z. v platnom znení, v zmysle Uznesenia vlády SR č. 653 k zvýšeniu
+transparentnosti verejného obstarávania z 24.09.2010 a na základe výsledku elektronickej
+aukcie, a to vo výške:
+148.000 Eur bez DPH
+(slovom: jednostoštyridsaťosemtisíc Eur) bez DPH.
+
+4.2
+
+V cene uvedenej v bode 4.1 tohto článku zmluvy sú zahrnuté všetky ekonomicky oprávnené
+náklady súvisiace so zhotovením diela a primeraný zisk zhotoviteľa, okrem iného aj náklady
+vyplývajúce z polohy a umiestnenia diela, zo spôsobu realizácie prác, zo starostlivosti
+o bezpečnosť, ochranu zdravia a protipožiarnych opatrení, náklady na dopravu, náklady na
+likvidáciu odpadu, náklady vyplývajúce z podnikateľského rizika pri realizácií prác za sťažených
+podmienok a miestnych prekážok, ako aj ostatné náklady súvisiace s predmetom zmluvy tu
+neuvedené.
+K cene uvedenej v bode 4.1 tohto článku zmluvy bude pripočítaná DPH podľa platných
+predpisov v čase uskutočnenia zdaniteľného plnenia.
+
+4.3
+
+Článok V.
+Platobné podmienky
+
+5.1
+
+Podkladom pre zaplatenie je faktúra vystavená zhotoviteľom a preukázateľne doručená
+objednávateľovi. Fakturované môže byť len skutočne vykonané a odovzdané dielo. Platba
+bude vykonaná výlučne bezhotovostne na bankový účet zhotoviteľa uvedený vo faktúre.
+
+5.2
+
+Zhotoviteľ do
+
+10 dní odo dňa ukončenia a odovzdania diela ako celku vystaví a preukázateľne
+faktúru. Neoddeliteľnou súčasťou faktúry bude preberací protokol.
+Faktúra vystavená v zmysle tejto zmluvy musí obsahovať všetky náležitosti ustanovené podľa
+zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších právnych predpisov,
+resp. Smernice Rady 2006/112/ES o spoločnom systéme dane z pridanej hodnoty v znení
+neskorších predpisov, údaje v zmysle Obchodného zákonníka, údaje v zmysle tejto zmluvy,
+číslo tejto zmluvy a číslo bankového účtu uvedené v článku 1. tejto zmluvy.
+V prípade dodania služby musí byť na faktúre povinne uvedený kód štatistickej klasifikácie
+doručí objednávateľovi
+
+5.3
+
+5.4
+
+ZoD č. 2017/1030/3652
+
+3
+
+činností
+
+(CPA).
+
+5.5
+
+V prípade kúpy tovaru zo zahraničia musí byť prílohou faktúry aj doklad o nadobudnutí tovaru
+(špedičný doklad, doklad od prepravnej služby alebo doklad od dodávateľa o vykonanej
+preprave).
+
+5.6
+
+Ak faktúra vystavená v zmysle tejto zmluvy nebude obsahovať náležitosti dohodnuté v tejto
+zmluve má objednávateľ právo vrátiť faktúru zhotoviteľovi na prepracovanie. Splatnosť takto
+vystavenej a vrátenej faktúry sa zruší a nová spl atnosť v súlade s bodom 5.7 tohto článku
+zmluvy začne plynúť dňom preukázate ľného doruče n ia opravenej a správne vystavenej
+faktúry.
+
+5.7
+
+Lehota splatnosti riadne vystavenej a doručenej faktúry je do 90 dní odo d ňa jej
+preukázateľného prvého doručen ia objednávateľovi, t.j. elektronické doručenie faktúry alebo
+doručenie originálu f
+'
+'
+bjednávateľa . V prípade doručen ia faktúry elektronicky emailom na adresu:
+j e príslušný poradca povinný následne doručiť originál
+faktúry spolu so súv1s1ac1m 1pn ohami na sídlo objednávateľa uvedené v článku 1. tejto zmluvy.
+Faktúra je uhradená v lehote splatnosti, ak deň odpísania z účtu objednávateľa je v lehote
+uvedenej v bode 5.7 tohto článku zmluvy. Ak deň splatnosti pripadne na sobotu, nedeľu,
+sviatok, alebo deň pracovného pokoja v Slovenskej republike, posúva sa dátum splatnosti na
+najbližší nasledujúci pracovný deň.
+
+5.8
+
+5.9
+
+V prípade potreby _naviac prác sa za naviac práce považujú práce, ktoré bezprostredne
+nadväzujú a súvisia s predmetom tejto zmluvy a ktorých nevyhnutnosť realizácie pre riadne
+dokončenie predmetu zmluvy sa zistí až po uzavretí zmluvy. Tieto práce budú ocenené
+zhotoviteľom a predložené objednávateľovi na schválenie. Ocenené naviac práce písomne
+schválené objed návateľom budú zrealizované až po uzavretí písomného dodatku k tejto
+zmluve, v opačnom prípade uskutočnené naviac práce vykonáva zhotoviteľ na vlastné náklady,
+ktoré mu objednávateľ nie je povinný uhradiť. Ustanovenie predchádzajúcej vety sa nevzťahuje
+na prípady, v ktorých by okamžitým nezrealizovaním naviac prác došlo k ohrozen iu života alebo
+zdravia ľudí alebo by došlo ku škodám na majetku alebo na životnom prostredí. Následne bude
+uzatvorený písomný dodatok k tejto zmluve.
+
+5.10
+
+Zhotoviteľ vyh lasuje, že ku dňu podpisu tejto zmluvy neexistujú dôvody, na základe ktorých by
+
+objednávateľ ma l, či mohol byť ručiteľom v zmysle§ 69 ods.14 v nadväznosti na§ 69b zákona
+č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších právnych predpisov za daňovú
+povinnosť zhotoviteľa vzniknutú z DPH, ktorú zhotoviteľ objednávateľovi fakturoval k cene
+podľa tejto zmluvy. Zhotoviteľ vyhlasuje a zaväzuje sa, že k DPH podá riadne daňové priznanie
+a v prípade vzniku povinnosti zapl atiť DPH túto daň odvedie miestne príslušnému daňovému
+úradu do určenej lehoty splatnosti. Zhotoviteľ vyhlasuje, že nemá akýkoľvek úmysel nezaplatiť
+DPH vzťahujúcu sa k predmetu plnenia podľa tejto zmluvy, alebo úmysel skrátiť daň, či
+prípadne vylákať daňovú výhodu, a nemá úmysel dostať sa do postavenia, kedy túto daň
+nebude môcť zaplatiť.
+
+5.11
+
+V prípade, že zhotoviteľ je v priebehu plnenia tejto zmluvy zverejnený v zozname vedenom
+Finančným riaditeľstvom SR v zmysle § 69 ods. 15 zákona č. 222/2004 Z. z. o dani z prida nej
+hodnoty, je objednávateľ oprávnený DPH z vystavených faktúr zadržať až do dňa, kedy
+zhotoviteľ nepreukáže, že Finančná správa nemá voč i nemu žiadne neuhradené pohľadávky.
+Objednávateľ je tiež oprávnený uhradiť DPH z vystavených faktúr na osobný účet zhotoviteľa
+vedený Fin ančnou správou SR. Objednávateľ označ í platbu variabilným symbolom v zmysle
+vyhlášky MF SR č . 378/2011 Z. z. a o tejto úhrade informuje správcu dane, ktorému oznámi
+výšku uhradenej dane a čísla faktúr, ktorých sa úhrada týka .
+
+5 .12
+
+V prípade, ak má zhotoviteľ sídlo mimo EÚ a medzi vládou SR a vládou štátu, v ktorom má
+zhotoviteľ sídlo je uzatvorená platná Zmluva o zamedzení dvojitého zdanenia, je objednávateľ
+na základe takejto zmluvy a na základe zákona č . 595/2003 Z. z. o dan i z prfjmov v platnom
+znení povinný odviesť daňovému úradu SR zrážkovú daň z fakturovanej sumy. Zhotoviteľ
+podpisom tejto zmluvy uvedenú skutočnosť akceptuje a vyslovuj e so zrážkou dane súhlas,
+pričom sa vylučuje akékoľvek neskoršie vymáhanie akých koľvek nárokov zo strany zhotoviteľa
+voči objednávateľovi v súvislosti s takouto zrážkou dane.
+
+zoo č. 2017/ 1030/3652
+
+4
+
+Článok Vl.
+Spôsob a podmienky vykonania diela
+
+6.1
+
+Zhotoviteľ sa zaväzuje vykonávať dielo v rozsahu a za podmienok dohodnutých v tejto zmluve,
+v súlade so všeobecne záväznými právnymi predpismi, najmä predpismi na ochranu životného
+prostredia, v súlade s pokynmi objednávateľa, ktoré vyplývajú zjeho kontrolnej a koordinačnej
+činnosti a v zhode s nariadeniami, predpismi a príkazmi objednávateľa. Zhotoviteľ je ďalej
+povinný postupovať v súlade s potrebami zabezpečenia bežnej prevádzky príslušných
+objektov. Zhotoviteľ prehlasuje, že pred podpisom tejto zmluvy boli jeho pracovníci
+oboznámení s miestom plnenia a boli oboznámení s podmienkami vykonania diela.
+
+6.2
+
+Zhotoviteľ
+
+je povinný zabezpečovať činnosti pri výkone diela tak, aby umožňovali priebežnú
+prevádzku objektov v mieste plnenia diela alebo v miestach súvisiacich s ním. Zhotoviteľ výkon
+svojej činnosti pri plnení predmetu zmluvy prispôsobí prevádzkovým potrebám objednávateľa.
+Na miesto realizácie diela môžu vstupovať len riadne poučení a vyškolení zamestnanci
+zhotoviteľa a zamestnanci subdodávateľov zhotoviteľa. Za týmto účelom sa zmluvné strany
+zaväzujú:
+6.2.1 Zhotoviteľ sa zaväzuje že zamestnanci zhotoviteľa, ako aj zamestnanci
+subdodávateľov zhotoviteľa, ktorí budú vykonávať práce v objekte objednávateľa,
+nebudú zamestnaní nelegálne a nebudú vykonávať nelegálnu prácu, budú so
+zhotoviteľom alebo subdodávateľom zhotoviteľa v riadnom pracovnom pomere, budú
+mať riadne uzatvorené pracovné zmluvy a budú riadne prihlásení do Sociálnej
+poisťovne. Zhotoviteľ sa zároveň zaväzuje overiť skutočnosť, že jeho subdodávatelia
+neporušujú zákaz nelegálneho zamestnávania v zmysle ustanovení zákona č.
+82/2005 Z. z. o nelegálnej práci a nelegálnom zamestnávaní a o zmene a doplnení
+niektorých zákonov v platnom znení (ďalej len „zákon o nelegálnej práci").
+6.2.2 Objednávateľ zabezpečí vykonanie poučenia zhotoviteľom určeného okruhu
+zamestnancov zhotoviteľa o dodržiavaní predpisov BOZP a PO v termíne odovzdania
+zariadení. Zhotoviteľ zabezpečí vykonanie poučenia všetkých zamestnancov
+subdodávateľov zhotoviteľa o dodržiavaní predpisov BOZP a PO v termíne najneskôr 3
+dni pred dňom ich nástupu do objektov objednávateľa.
+6.2.3 Objednávateľ vyhotoví zápis o vykonaní poučenia určeného okruhu zamestnancov
+zhotoviteľa o dodržiavaní predpisov BOZP a PO, ktorý bude obsahovať menný zoznam
+a podpisy určeného okruhu zamestnancov zhotoviteľa. Vykonanie poučenia
+zamestnancov subdodávateľov je zhotoviteľ povinný preukázať objednávateľovi bez
+zbytočného odkladu po jeho vykonaní, najneskôr však 1 deň pred nástupom
+príslušných zamestnancov subdodávateľa do objektov objednávateľa, a to
+predložením podpísaného Záznamu z poučenia zamestnancov subdodávateľov,
+schválený objednávateľom. Tlačivo Záznamu z poučenia zamestnancov
+subdodávateľov bude odovzdané zhotoviteľovi pred podpisom tejto zmluvy. Vstup do
+objektov objednávateľa majú povolený výlučne iba osoby takto poučené a zapísané
+v zápise o vykonaní poučenia, resp. ktorých poučenie bolo objednávateľovi
+preukázané predložením podpísaného Záznamu z poučenia zamestnancov
+subdodávateľov zhotoviteľa. Zhotoviteľ je povinný najneskôr do 7 dní pred preberaním
+zariadení poverenému zástupcovi objednávateľa odovzdať menovitý zoznam osôb a
+evidenčné čísla motorových vozidiel, ktoré budú vstupovať do objektov objednávateľa
+a tento zoznam denne aktualizovať - oznámiť objednávateľovi menovitý zoznam osôb
+a evidenčné čísla motorových vozidiel, ktoré budú vstupovať do objektov
+objednávateľa v príslušný deň. Prílohou tohto zoznamu budú aj pracovné zmluvy
+zamestnancov zhotoviteľa a zamestnancov subdodávateľov zhotoviteľa, ktorí budú
+vstupovať do objektov objednávateľa a doklady preukazujúce, že títo zamestnanci sú
+riadne prihlásení do Sociálnej poisťovne. Objednávateľ pre tieto osoby a motorové
+vozidlá zabezpečí povolenie vstupu do predmetných objektov.
+Objednávateľ sa zaväzuje vytvoriť všetky podmienky na to, aby zhotoviteľ mohol dielo podľa tejto
+
+6.3
+
+ZoD
+
+č.
+
+2017/1030/3652
+
+5
+
+zm luvy riadne a včas vykonať. Objednávateľ sa zaväzuje po celú dobu platnosti tejto zmluvy so
+zhotoviteľom spolupracovať a poskytovať mu všetku potrebnú dostupnú dokumentáciu
+a potrebnú súči nnosť v rozsahu nevyhnutnom na plnenie povinností zhotoviteľa podľa tejto
+zmluvy.
+6.4
+
+Zhotoviteľ určuje za zodpovedných pracovníkov, ktorí budú koordinovať všetky práce v zmysle
+predmetu tejto zmluvy:
+
+6.5
+
+Objednávateľ určuje za zodpovedných pracovníkov, ktorí sú oprávnení kontrolovať vykonávanie
+
+diela, preberať dielo; vyjad rovať sa k požiadavkám zhotoviteľa, sledovať termíny odstránenia vád
+a nedorobkov a rokovať vo veciach tech nick'ch:
+6.6 Zmeny v zodpovedných osobách, je každá zmluvná strana povinná písomne listom doručeným
+na adresu uvedenú v člá n ku 1. tejto zmluvy nah lásiť druhej zmluvnej strane do 3 d11í odo dňa
+uskutočnenia zmeny.
+6.7 Objednávateľ je oprávnený kontro l ovať vykonávanie diela. Ak objednávateľ zistí, že z h otovite ľ
+vykonáva dielo v rozpore so svojimi povinnosťa m i uvedenými v tejto zmluve, je obj ednávate ľ
+oprávnený požadovať, aby zhotoviteľ odstránil zistené nedostat ky vzniknuté vadným
+vykonávaním diela a dielo ďalej vykonával spôsobom dohodnutým v tejto zm luve. Zhotoviteľ je
+povinný odstrániť zistené nedostatky v termíne určenom objednávateľom v písomnom liste
+zaslanom na adresu zhotoviteľa uvedenú v článku 1. tejto zmluvy.
+6.8
+
+Zhotoviteľ j e povinný bez meškania písomne informovať objednávateľa o vzniku akejkoľvek
+udalosti, ktorá bráni alebo sťažuje realizáciu predmetu plnenia s dôsledkom omeškania
+
+a predÍženia času plnenia. Ak zhotoviteľ zistí pri vykonávaní diela skryté prekážky, ktoré mu
+
+znemožňujú vykonanie diela dohodnutým spôsobom alebo v dohodnutom čase, je zhotoviteľ
+
+povinný to písomne oznám iť bez zbytočného odkladu objednávateľovi.
+6.9 Zhotoviteľ je povinný písomne vyzvať obj ednávateľa na prevzatie ucelenej časti diela, alebo
+riadne zhotoveného diela naj neskôr štyri pracovné dni pred dňom začatia preberacieho kona nia.
+Objednávateľ je povinný prevziať len zhotovené dielo, ktoré bolo riadne a včas odovzda né podľa
+tejto zm luvy.
+6.10 Zhotoviteľ splní svoj záväzok vykonať dielo jeho riadnym, včasným a úplným u končením
+a odovzdaním diela objednávateľovi. Podkladom pre odovzdanie je preberací protokol
+vyhotovený na základe vzoru predloženého objednávateľom. Preberací protokol musí obsahovať
+predmet a číslo tejto zmluvy a musí byť podpísaný oprávnenými zástupcami oboch zmluvných
+strán uvedenými v bodoch 6.4 a 6.5 tohto článku zmluvy.
+6 .11 Objednávateľ má právo, nie povinnosť, prevziať dielo aj s vadami a nedorobkam i, pokiaľ tieto
+sami o sebe, ani v spojení s inými, nebránia plynulej a bezpečnej prevádzke diela.
+6.12 Zmluvné strany sa dohodli, že prílohou preberacieho protokolu budú nasledovné dokumenty:
+-
+
+súpis odovzdaných dokladov - atesty, pasporty a certifikáty platné na území SR, prípadne
+zápisnice a osvedčenia o vykonaných skúškach použitých materiálov.
+
+6.13 Zhotoviteľ je povinný pri preberacom konaní odovzdať objednávateľovi všetky doklady súvisiace
+so zhotovovaním diela v zmysle bodu 2.2 článku II. tejto zmluvy.
+Článok VII.
+Vlastnícke právo a nebezpečenstvo škody
+
+7.1
+
+Zmluvné strany sa dohodli, že vlastnícke právo k dielu prináleží od začiatku zhotovovania diela
+objednávateľovi.
+
+7.2
+
+Odo dňa odovzdania pot rebných zariadení zhotoviteľovi na základe protokolu podľa bodu 3 .3
+článku III. tejto zmluvy znáša nebezpečenstvo škody na diele zhotoviteľ. Nebezpečenstvo škody
+na zhotovovanom diele prechádza na objednávateľa až dňom riadneho odovzdania vykonaného
+diela ako celku objednávateľovi.
+
+ZoD č. 2017/1030/3652
+
+6
+
+Zodpovednosť
+
+8.1
+
+Článok VIII.
+za vady diela, záruka a záručná doba
+
+Vykonané dielo má vady, ak nezodpovedá výsledku, ktorý je požadovaný touto zmluvou
+a nezodpovedá účelu, na ktorý bolo dielo zhotovené alebo svojím rozsahom nezodpovedá
+rozsahu stanovenému touto zmluvou.
+Zhotoviteľ zodpovedá za vady, ktoré má dielo v okamihu, keď prechádza nebezpečenstvo škody
+na diele na objednávateľa ako aj za akékoľvek vady, ktoré sa vyskytnú po prevzatí diela
+v záručnej dobe. Zhotoviteľ zodpovedá objednávateľovi aj za škodu (vrátane finančných strát),
+ktorá vznikla objednávateľovi v dôsledku vád na diele, za ktoré zodpovedá zhotoviteľ.
+Zhotoviteľ sa zaručuje počas záručnej doby za kvalitu a funkčnosť diela. Pre záručnú dobu na
+dielo platia príslušné ustanovenia zákona č. 513/1991 Zb. (Obchodný zákonník) v platnom
+znení. Záručná doba je medzi zmluvnými stranami dohodnutá v dÍžke 24 mesiacov a začína
+plynúť okamihom prechodu nebezpečenstva škody na diele na objednávateľa (podpísaním
+preberacieho protokolu).
+Počas záručnej doby zodpovedá zhotoviteľ za to, že dielo je bez akýchkoľvek vád, je vykonané
+riadne a s odbornou starostlivosťou, pričom dielo zodpovedá podmienkam zmluvy, STN
+a európskym technickým normám a príslušným platným predpisom.
+Zhotoviteľ nezodpovedá za vady vzniknuté v dôsledku neodborného zásahu alebo neodborného
+užívania zo strany objednávateľa alebo tretích osôb.
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+8.6
+
+Záručná
+funkčný
+
+doba sa predlžuje o počet kalendárnych dní, počas ktorých nebol predmet zmluvy plne
+po dobu dlhšiu než 24 hodín, ak táto nefunkčnosť bola spôsobená vadou v záručnej
+dobe, riadne oznámenou objednávateľom zhotoviteľovi.
+
+8.7
+
+V prípade riadne oznámenej reklamovanej vady predmetu zmluvy má objednávateľ právo
+požadovať bezplatné odstránenie vady a zhotoviteľ má povinnosť vadu bezplatne odstrániť.
+Reklamované vady sa zhotoviteľ zaväzuje odstrániť v termíne do 15 dní odo dňa doručenia
+písomnej reklamácie objednávateľa zhotoviteľovi. V prípade, že to umožňuje povaha a rozsah
+vady, má objednávateľ právo určiť v písomnej reklamácii lehotu kratšiu ako 15 dní a zhotoviteľ
+je povinný túto lehotu dodržať. V prípade, ak si povaha a rozsah vady vyžaduje dlhšiu lehotu na
+odstránenie vady, zmluvné strany sa dohodnú na primeranej lehote pre odstránenie vady. Ak sa
+zmluvné strany nedohodnú na dlhšej lehote, platí 15 dňová lehota pre odstránenie vady.
+Reklamácia objednávateľa musí byť podaná výlučne písomne a v záručnej dobe, inak je
+neplatná.
+Reklamácia musí obsahovať označenie vady a popis, ako sa prejavuje.
+
+8.8
+8.9
+
+8.10 V prípade sporu o zodpovednosť za vadu je zhotoviteľ povinný reklamovanú vadu odstrániť
+v primeranom termíne určenom objednávateľom. Úhradu nákladov spojených s odstránením
+vady bude znášať zmluvná strana, ktorá bude neúspešná v spore.
+8.11 Zhotoviteľ zodpovedá za vady aj v prípade, ak práce, resp. ich časť vykonávala tretia osoba
+(napr. subdodávateľ zhotoviteľa).
+8.12 Zmluvné strany sa dohodli, že zhotoviteľ odstraňuje vady diela v mieste určenom v bode 3.6
+článku III. tejto zmluvy na vlastné náklady.
+8.13 Ak zhotoviteľ neodstráni vady v lehotách určených v tejto zmluve, je objednávateľ oprávnený po
+písomnej výzve adresovanej zhotoviteľovi vykonať odstránenie vád samostatne alebo ich
+vykonaním poveriť tretiu osobu. Takto vzniknuté náklady je zhotoviteľ povinný uhradiť
+objednávateľovi do 14 kalendárnych dní odo dňa doručenia faktúry o ich vyúčtovaní.
+Ustanovenie tohto odseku tohto článku zmluvy nemá vplyv na zodpovednosť zhotoviteľa za
+ďalšie vady, resp. na zhotoviteľom poskytnutú záruku.
+8.14 Reklamáciu možno uplatniť do posledného dňa záručnej doby, pričom i reklamácia odoslaná
+prostredníctvom poštového podniku v posledný deň záručnej doby zhotoviteľovi, sa považuje za
+včas uplatnenú.
+
+ZoD
+
+č.
+
+2017/1030/3652
+
+7
+
+Článok IX.
+Náhrada škody
+
+Zmluvná strana ktorá poruší svoju povinnosť vyplývajúcu zo zmluvy, je povinná nahradiť škodu
+tým spôsobenú druhej zmluvnej strane. Náhrada škody sa riadi príslušnými ustanoveniami
+Obchodného zákonníka. Zmluvná strana nie je povinná nahradiť škodu ak preukáže, že
+porušenie povinnosti bolo spôsobené okolnosťami vylučujúci mi zodpovednosť.
+Každá zo zmluvných strán je oprávnená požadovať od druhej zmluvnej strany náhradu škody
+v celom rozsahu aj v prípade, že ide o porušenie povinnosti druhej zmluvnej strany, na ktorú sa
+vzťahuje zmluvná pokuta.
+Zhotoviteľ je povinný počas realizácie zmluvy riadiť svoje činnosti a manipulovať s náradím,
+materiálom a technickým vybavením tak, aby nedošlo k poškodeniu objektov objednávateľa a už
+zrealizovaných prác, ako ani k poškodeniu majetku tretích osôb nachádzajúceho sa v mieste
+plnenia tejto zmluvy. Za vzniknutú škodu zodpovedá zhotoviteľ v plnom rozsahu. Škody, ktoré
+spôsobí zhotoviteľ alebo jeho subdodávatelia na majetku objednávateľa alebo na majetku
+tretích osôb, je povinný zhotoviteľ odstrániť na svoje náklady v primeraných termínoch určených
+
+9.1
+
+9.2
+
+9.3
+
+objednávateľom.
+
+Ak zhotoviteľ neodstráni škody spôsobené na majetku objednávateľa alebo na majetku tretích
+osôb v lehote určenej objednávateľom v písomnej výzve, je objednávateľ oprávnený tieto škody
+odstrániť sám, pričom zhotoviteľ je povinný uhradiť objednávateľovi všetky náklady s tým
+súvisiace na základe osobitnej faktúry vystavenej objednávateľom, ktorej lehota splatnosti je do
+30 dní od jej preukázateľného doručenia zhotoviteľovi.
+V prípade, ak sa preukáže, že zhotoviteľ alebo subdodávatelia zhotoviteľa porušili zákaz
+nelegálneho zamestnávania v zmysle zákona o nelegálnej práci a objednávateľovi bola v tejto
+súvislosti zo strany príslušných orgánov uložená pokuta alebo akákoľvek iná sankcia, zaväzuje
+sa zhotoviteľ nahradiť objednávateľovi túto pokutu alebo akúkoľvek inú sankciu, ako aj
+akúkoľvek škodu, ktorá mu v tejto súvislosti vznikne.
+
+9.4
+
+9.5
+
+V prípade, ak sa preukáže, že zhotoviteľ porušil povinnosť uvedenú v bodoch 12.10 a 12.11
+článku XII. tejto zmluvy v zmysle zákona č. 315/2016 Z. z. o registri partnerov verejného sektora
+a o zmene a doplnení niektorých zákonov (ďalej len „zákon o registri partnerov verejného
+sektora") alebo subdodávatelia zhotoviteľa porušili povinnosť v zmysle bodu 12.12 článku XII.
+tejto zmluvy a objednávateľovi bola v tejto súvislosti zo strany príslušných orgánov uložená
+pokuta alebo akákoľvek iná sankcia, zaväzuje sa zhotoviteľ nahradiť objednávateľovi túto
+pokutu alebo akúkoľvek inú sankciu, ako aj akúkoľvek škodu, ktorá mu v tejto súvislosti vznikne.
+
+9.6
+
+Článok X.
+
+Okolnosti vylučujúce
+10.1
+
+zodpovednosť
+
+(vyššia moc)
+
+Zodpovednosť
+
+zmluvných strán za čiastočné alebo úplné neplnenie zmluvných povinností je
+ak sa tak stalo v dôsledku okolností vylučujúcich zodpovednosť podľa § 37 4 a nasl.
+Obchodného zákonníka.
+
+vylúčená,
+
+10.2 Podmienkou vylúčenia zo zodpovednosti je, že dotknutá zmluvná strana bez zbytočného
+odkladu upozorní druhú zmluvnú stranu na začiatok a podstatu vyskytnutia sa vyššej moci.
+Zmluvná strana, ktorá sa odvoláva na vyššiu moc, využije všetko svoje úsilie na nápravu situácie
+a na odstránenie príčiny svojej neschopnosti plniť zmluvu v čo najväčšom rozsahu
+a v primeranom čase. Dodacie lehoty a všetky ostatné lehoty sa po dobu trvania vyššej moci
+predlžujú o dobu jej pôsobenia. Zmluvná strana, ktorá sa odvoláva na vyššiu moc, bez
+zbytočného odkladu oznámi druhej strane jej zánik.
+10.3 Ak je trvanie vyššej moci dlhšie ako 3 mesiace, zmluvné strany dohodnú nový termín plnenia
+písomným dodatkom k tejto zmluve alebo iným spôsobom upravia vzájomné oprávnené nároky.
+
+ZoD
+
+č.
+
+2017/1030/3652
+
+8
+
+Článok XI.
+
+Sankcie
+11.1 V prípade omeškania so zhotovením diela zo strany zhotoviteľa je objednávateľ oprávnený
+fakturovať zhotoviteľovi zmluvnú pokutu vo výške 0,05 % z ceny diela bez DPH, uvedenej
+v článku IV. tejto zmluvy za každý aj začatý deň omeškania.
+11.2 V prípade omeškania úhrady faktúry objednávateľom je zhotoviteľ oprávnený fakturovať úrok
+z omeškania vo výške 0,05 % z dlžnej čiastky za každý aj začatý deň omeškania.
+11.3 V prípade, že zhotoviteľ neodstráni vadu zistenú pri preberacom konaní v termíne určenom
+v preberacom protokole, je objednávateľ oprávnený fakturovať zhotoviteľovi zmluvnú pokutu vo
+výške 100,- Eur (slovom: jednosto Eur) za každý aj začatý deň omeškania a každú jednotlivú
+vadu.
+11.4 V prípade, že zhotoviteľ neodstráni písomne reklamovanú vadu, ktorá sa prejavila v záručnej
+dobe do 15 dní alebo vo vzájomne dohodnutej primeranej dlhšej lehote, je objednávateľ
+oprávnený, počnúc dňom nasledujúcim po uplynutí lehoty na odstránenie vád, fakturovať
+zhotoviteľovi zmluvnú pokutu vo výške 100,- Eur (slovom: jednosto Eur) za každý aj začatý deň
+omeškania a za každú jednotlivú vadu osobitne.
+11.5 V prípade porušenia zákazu fajčenia, prinášania a požívania alkoholických nápojov a omamných
+látok v objektoch objednávateľa, je zhotoviteľ povinný uhradiť zmluvnú pokutu vo výške 100,Eur (slovom: jednosto Eur) za každého zamestnanca zhotoviteľa alebo zamestnanca
+subdodávateľa zhotoviteľa porušujúceho uvedené zákazy a za každé porušenie.
+11.6 V prípade porušenia povinností uvedených v bodoch 6.2.1 a 6.2.3 článku Vl. tejto zmluvy, je
+zhotoviteľ povinný uhradiť zmluvnú pokutu vo výške 100,- Eur (slovom: jednosto Eur) za každého
+zamestnanca zhotoviteľa alebo zamestnanca subdodávateľa zhotoviteľa, ktorý vykonával práce
+v objekte objednávateľa, a ktorý bol zamestnaný nelegálne alebo vykonával nelegálnu prácu.
+11.7
+
+Splatnosť
+
+uplatnených sankcií v zmysle tohto článku zmluvy je do 30 dní odo dňa
+príslušnej faktúry druhej zmluvnej strane. Platby za ne budú
+uhrádzané výlučne bezhotovostne na bankové účty uvedené na faktúrach.
+preukázateľného doručenia
+
+Článok XII.
+Ostatné ustanovenia
+
+12.1
+
+Zhotoviteľ je povinný pri plnenítejto zmluvy postupovať s odbornou starostlivosťou a dodržiavať
+všeobecne záväzné predpisy, technické normy a podmienky tejto zmluvy. Zhotoviteľ je povinný
+pri vykonávaní prác podľa tejto zmluvy dodržiavať všetky nariadenia, predpisy a pokyny
+objednávateľa.
+
+12.2 Zhotoviteľ zodpovedá za bezpečnosť a ochranu zdravia vlastných zamestnancov a je povinný
+dodržiavať ďalšie právne predpisy na zaistenie bezpečnosti a ochrany zdravia pri práci a
+požiarnej ochrany ako aj preverovať ich znalosti a sústavne zabezpečovať kontrolu dodržiavania
+týchto predpisov. Zhotoviteľ je povinný vybaviť svojich zamestnancov potrebnými ochrannými
+pomôckami na vykonávanie činnosti podľa tejto zmluvy.
+12.3 V prípade, ak zhotoviteľ so súhlasom objednávateľa zabezpečuje plnenie jednotlivých častí
+zmluvy prostredníctvom subdodávateľov, je povinný povinnosťami, vyplývajúcimi mu z tejto
+zmluvy, preukázateľne zaviazať i svojich subdodávateľov, pritom však nesie voči
+objednávateľovi rovnakú zodpovednosť, ako keby tieto povinnosti plnil sám.
+12.4 Zhotoviteľ preukázateľne oboznámi svojich zamestnancov a zamestnancov subdodávateľa
+o zákaze pohybu, resp. zdržiavania sa na pracoviskách, ktoré nesúvisia s realizáciou diela, bez
+vedomia a súhlasu objednávateľa. Zamestnanci zhotoviteľa a jeho subdodávateľov môžu
+používať iba vyznačené a určené prístupové cesty a priestory pracoviska.
+12.5 Zamestnanci zhotoviteľa sú povinní rešpektovať vyznačené zákazy fajčenia a zákaz prinášania
+a požívania akýchkoľvek alkoholických nápojov a omamných látok v objektoch objednávateľa.
+
+ZoD
+
+č.
+
+2017/1030/3652
+
+9
+
+12.6 Zhotoviteľ je povinný označiť pracovný odev vlastných zamestnancov názvom firmy Zhotoviteľa.
+12.7 Zhotoviteľ berie na vedomie, že pre svojich zamestnancov a iné osoby podieľajúce sa na
+vykonávaní diela je povinný zabezpečiť potrebnú starostlivosť (WC, priestory na hygienu, šatne
+a pod.) vlastnými úkonmi a na vlastné náklady pri rešpektovaní všeobecne záväzných predpisov.
+12.8 Ak v priebehu plnenia predmetu zmluvy vznikne dielo v zmysle príslušných ustanovení zákona
+č. 185/2015 Z. z. autorský zákon v platnom znení, zhotoviteľ udeľuje objednávateľovi časovo,
+vecne a miestne neobmedzenú licenciu (súhlas) na použitie diela spôsobmi uvedenými v § 19
+autorského zákona, pričom odplata za poskytnutie licencie je zahrnutá v cene za vykonanie
+diela.
+12.9 Zhotoviteľ je povinný pri plnení predmetu zmluvy dodržiavať ustanovenia zákona č. 122/2013
+Z. z. o ochrane osobných údajov v znení neskorších právnych predpisov.
+12.10 V prípade, ak sa zhotoviteľ zapisuje do registra partnerov verejného sektora (ďalej len
+„register") v zmysle zákona o registri partnerov verejného sektora, zaväzuje sa, že bude v registri
+zapísaný aspoň počas doby trvania tohto zmluvného vzťahu. Zhotoviteľ sa zároveň zaväzuje
+zapísať sa do registra aj kedykoľvek počas trvania tohto zmluvného vzťahu, pokiaľ dôjde k takej
+zmene okolností, ktorá zápis zhotoviteľa do registra v zmysle zákona o registri partnerov
+verejného sektora vyžaduje.
+12.11 Zhotoviteľ je povinný oznámiť objednávateľovi všetky zmeny, ktoré budú v registri podľa bodu
+12.10 tohto článku zmluvy vo vzťahu k nemu vykonané, a to do 5 dní, odkedy k zápisu zmeny
+do registra došlo.
+12.12 Zhotoviteľ berie na vedomie, že povinnosti uvedené v bode 12.10 tohto článku zmluvy sa
+primerane vzťahujú aj na jeho subdodávateľov a zaväzuje sa zabezpečiť, aby mali jeho
+subdodávatelia splnené tieto povinnosti v zmysle zákona o registri partnerov verejného sektora.
+12.13 Ak si zhotoviteľ nesplní povinnosti uvedené v bode 12.10 tohto článku zmluvy alebo ak nastanú
+okolnosti uvedené v ust. § 15 zákona o registri partnerov verejného sektora, objednávateľ je
+oprávnený neplniť, čo mu ukladá táto zmluva, pričom nie je v omeškaní a toto neplnenie sa
+nepovažuje za porušenie zmluvy. Zhotoviteľ nie je oprávnený uplatňovať si v tomto prípade voči
+objednávateľovi akúkoľvek náhradu škody alebo sankcie.
+
+Článok XIII.
+Porušenie zmluvných povinností a odstúpenie od zmluvy
+
+13.1 Porušením povinností dohodnutých zmluvnými stranami v zmluve jednou zo zmluvných strán
+vzniká druhej zmluvnej strane právo odstúpiť od zmluvy. Právo odstúpiť od zmluvy vzniká tiež ak
+je voči jednej zo zmluvných strán vyhlásené konkurzné konanie alebo ak jedna zo zmluvných
+strán vstúpila do likvidácie.
+13.2 Odstúpenie je možné aj od čiastočne splnenej zmluvy.
+13.3 V prípade podstatného porušenia tejto zmluvy je odstupujúca strana oprávnená od zmluvy
+odstúpiť, ak to písomne oznámi druhej zmluvnej strane bez zbytočného odkladu po tom, čo sa
+o tomto porušení dozvedela.
+13.4 Zmluvné strany označujú porušenie zmluvy za podstatné:
+a) ak zhotoviteľ preruší práce na diele na dlhšie ako na 10 kalendárnych dní bez súhlasu
+objednávateľa, a to z dôvodov spočívajúcich na jeho strane (t. j. na strane zhotoviteľa)
+b) ak zhotoviteľ vykonáva dielo v rozpore s ustanoveniami tejto zmluvy,
+c) ak zhotoviteľ vykonáva dielo v rozpore s technickými normami a technickou
+dokumentáciou,
+d) ak zhotoviteľ mešká z dôvodov spočívajúcich na jeho strane s odovzdaním diela/ucelenej
+časti diela viac ako 30 kalendárnych dní,
+e) ak zhotoviteľ alebo subdodávateľ zhotoviteľa poruší zákaz nelegálneho zamestnávania
+v zmysle zákona o nelegálnej práci a bodu 6.2.1 článku Vl. tejto zmluvy,
+
+ZoD
+
+č.
+
+2017/1030/3652
+
+10
+
+f)
+
+g)
+
+ak nastanú okolnosti uvedené v ust. § 15 zákona o registri partnerov verejného sektora
+alebo ak zhotoviteľ poruší povinnosti uvedené v bode 12.10 článku XII. tejto zmluvy,
+ak je objednávateľ v omeškaní s úhradou oprávnene a správne vystavenej faktúry
+zhotoviteľa po dobu viac ako 30 kalendárnych dní po lehote splatnosti faktúry.
+
+13.5 V prípade, že dôjde k porušeniu tejto zmluvy, ktoré zmluvné strany neoznačili ako podstatné,
+platia pri odstúpení od zmluvy pravidlá upravené príslušnými ustanoveniami Obchodného
+zákonníka.
+13.6 Oznámenie o odstúpení musí byť podpísané štatutárnym orgánom odstupujúcej zmluvnej strany
+a nadobúda účinnosť dňom jeho doručenia do sídla druhej zmluvnej strany uvedeného v tejto
+zmluve.
+13.7 V prípade odstúpenia od zmluvy, zmeny zmluvy, alebo dočasného prerušenia plnenia z dôvodu
+porušenia zmluvy, zaplatí zmluvná strana po rušiteľa druhej zmluvnej strane všetky preukázané
+náklady a škody, ktoré jej z tohto dôvodu vzniknú.
+13.8 Ak oprávnená zmluvná strana nevyužije právo odstúpiť od zmluvy, vzniká porušujúcej zmluvnej
+strane povinnosť pristúpiť na primeranú zmenu zmluvy v tej časti, ktorá bola porušením dotknutá
+a uhradiť spôsobenú škodu, ktorá vznikla v súvislosti s porušením záväzku. Oprávnená zmluvná
+strana môže dočasne prerušiť plnenie svojich záväzkov až do doby, pokým porušujúca zmluvná
+strana je v omeškaní a pokiaľ omeškané záväzky nesplní a nedohodne zmenu zmluvy z dôvodu
+dočasného prerušenia.
+Článok XIV.
+Doručovanie
+
+14.1 Zmluvné strany sa dohodli, že povinnosť doručiť písomnosť podľa tejto zmluvy sa považuje
+v konkrétnom prípade za splnenú dňom prevzatia písomnosti alebo odmietnutím túto písomnosť
+prevziať. Ak sa v prípade doručovania prostredníctvom poštového podniku vráti doručovaná
+zásielka ako nedoručená alebo nedoručiteľná z akéhokoľvek dôvodu, považuje sa takáto
+zásielka za doručenú dňom, v ktorom poštový podnik vykonal jej doručovanie (usiloval sa o
+doručenie v mieste uvedenom na obálke predmetnej zásielky); pre doručovanie je rozhodné
+sídlo zmluvných strán uvedené v článku 1. tejto zmluvy.
+Článok XV.
+Záverečné
+
+ustanovenia
+
+15.1 Práva a povinnosti zmluvných strán, ktoré nie sú upravené touto zmluvou, sa riadia právnymi
+predpismi SR, najmä ustanoveniami zákona č. 513/1991 Zb. Obchodný zákonník v znení
+neskorších právnych predpisov.
+15.2 Všetky spory, ktoré vzniknú z plnenia tejto zmluvy budú zmluvné strany riešiť predovšetkým
+dohodou a vzájomným rokovaním. Ak nedôjde k takejto dohode, bude spor predložený.
+na rozhodnutie príslušnému súdu v zmysle ustanovení zákona č. 160/2015 Z. z. Civilného
+sporového poriadku v znení neskorších právnych predpisov.
+15.3 Akákoľvek zmena tejto zmluvy sa môže urobiť len formou chronologicky očíslovaných písomných
+dodatkov k nej, ak nie je v tejto zmluve uvedené inak. Podpisovať dodatky k zmluve sú
+oprávnené len štatutárne orgány oboch zmluvných strán.
+15.4 Táto zmluva je vyhotovená v štyroch rovnopisoch, pričom každá zo zmluvných strán obdrží po
+dve vyhotovenia.
+15.5 Táto zmluva nadobúda platnosť dňom jej podpísania štatutárnymi orgánmi oboch zmluvných
+strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v zmysle ustanovenia § 4 7a ods. 1
+Občianskeho zákonníka.
+15.6 Nakoľko objednávateľ je povinnou osobou v zmysle zákona č. 211/2000 Z. z. o slobodnom
+prístupe k informáciám v znení neskorších právnych predpisov, zmluvné strany súhlasia s tým,
+že zmluva a daňové doklady súvisiace so zmluvou budú zverejnené takým spôsobom, ktorý pre
+povinne zverejňované zmluvy ukladá zákon o slobodnom prístupe k informáciám vo svojom
+ZoD
+
+č.
+
+2017/1030/3652
+
+11
+
+ustanovení§ 5a a § 5b. Za tým účelom zhotoviteľ udeľuje objednávate ľovi súhlas na vykonanie
+potrebných úkonov týkajúcich sa zverejnenia uvedených dokumentov.
+15.7 Zmluvné strany potvrdzujú, že táto zmluva bola uzatvorená slobodne a vážne, určite
+a zrozumiteľne, nie v tiesni a za nápadne nevýhodných podmienok a na znak súhlasu so
+zmluvou k nej pripájajú svoje podpisy.
+V Bratislave,
+
+dňa
+
+1::5.-DEC. 20t7
+
+V. Bratislave,
+
+Objednávate r:
+
+Zhotovite ľ:
+
+VODOHOSPODÁRSKA
+ŠTÁTNY PODN IK
+
+exe, a.s.,
+
+dňa
+
+Richard Hrabovský
+člen predstavenstva
+
+ZoD č. 2017/1030/3652
+
+12
+
+

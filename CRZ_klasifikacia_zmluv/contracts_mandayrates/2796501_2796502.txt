@@ -1,0 +1,479 @@
+Zmluva o poskytovaní služieb č. Z20173368_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Ministerstvo vnútra Slovenskej republiky
+Pribinova 2, 81272 Bratislava, Slovenská republika
+00151866
+2020571520
+SK7881800000007000180023
+
+Dodávateľ:
+Obchodné meno:
+
+Soimco a. s.
+
+Sídlo:
+
+Galvaniho 12, 82104 Bratislava, Slovenská republika
+
+IČO:
+
+44367465
+
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
++421233004238
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Poskytnutie služieb rozvoja a optimalizácie aplikácií výrobcu CA Technologies
+
+Kľúčové slová:
+
+optimalizácia, softvér, CA Technologies
+
+CPV:
+
+72260000-5 - Služby súvisiace so softvérom; 72220000-3 - Systémové a technické
+poradenstvo; 72200000-7 - Programovanie softvéru a poradenstvo
+
+Druh/y:
+
+Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Poskytnutie služieb rozvoja a optimalizácie SW aplikácií výrobcu CA Technologies vo vlastníctve Objednávateľa
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Maximum
+
+Presne
+
+1) SDG - ServiceDesk government (CA ServiceDesk
+Manager)
+
+človekodeň
+
+16
+
+2) SSG (CA API management)
+
+človekodeň
+
+11
+
+3) Identity Management (CA Identity Manager)
+
+človekodeň
+
+85
+
+4) ServiceDesk IT (CA ServiceDesk Manager)
+
+človekodeň
+
+86
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+K položke č. 1 - SDG - ServiceDesk government (CA
+ServiceDesk Manager)
+Požadovaná služba:
+
+sprístupnenie monitoringu dostupnosti všetkých aplikácií CA
+Spectrum pre potreby Call Centra Objednávateľa ako samostatnej
+záložky v prostredí SDG
+
+K položke č. 2 - SSG (CA API management)
+Strana 1 z 5
+
+Požadovaná služba:
+
+migrácia zvyšných SSG na najnovšiu verziu, lokalita Banská
+Bystrica (dôvod migrácie: kompatibilita s ostatnými SSG, rozšírená
+funkcionalita, podpora zo strany výrobcu a možnosť riešenia chýb)
+
+K položke č. 3 - Identity Management (CA Identity
+Manager)
+Požadovaná služba:
+
+rekonfigurácia procesov pre systém Fabasoft (v súvislosti so
+zmenami spracovania atribútov používateľov, zmeny interpretácie
+organizačných jednotiek a zmeny v modely rolí)
+
+Požadovaná služba:
+
+doplnenie atribútov pre IDM a ActiveDirectory (AD)
+
+Požadovaná služba:
+
+proces odobratia rolí pri odchode zo zamestnania, zrušenie
+mailbox a vytvorenie mailuser s pôvodnou adresou, zaradenie do
+skupiny pre automatické odpovede a presun do vyčlenenej OU
+
+Požadovaná služba:
+
+implementácia Exchange konektora
+
+Požadovaná služba:
+
+integrácia do externej domény a integrácia konektora IDM do
+domény
+
+Požadovaná služba:
+
+synchronizácia organizačnej štruktúry do AD INTRA za účelom
+aktualizácie exchange hierarchického adresbooku s využitím aj
+ako security grupy pre prístup k zdrojom
+
+Požadovaná služba:
+
+automatizácia zmeny priezviska a mailovej adresy v Exchange po
+zmene priezviska osoby v SAP-HR
+
+Požadovaná služba:
+
+zapracovanie atribútu zaradenia zamestnanca Objednávateľa do
+AD ako aj typu zamestnanca
+
+Požadovaná služba: Proces v IDM
+
+proces na vytváranie/zakázanie účtov v externej doméne a proces
+na reset hesla v externej doméne
+
+Požadovaná služba: Proces v IDM
+
+proces pre zistenie hesla lokálneho administrátora PC pre
+určených zamestnancov
+
+Požadovaná služba: Proces v IDM
+
+riadenie externých mailových adries (členov) distribučného listu a
+vytvorenie kontaktu a jeho pridanie do listu/odobratie kontaktu a
+odstránenie objektu
+
+Požadovaná služba: Vykonanie zmeny v nastavení IDM
+
+po 2 týždňoch od zmeny v údajoch používateľa v SAP HR (napr.
+presun na inú organizačnú jednotku, ukončenie pracovného
+pomeru), budú jeho používateľskému účtu odobraté všetky role zo
+SAP a AD
+
+Požadovaná služba: Vykonanie zmeny v nastavení IDM
+
+zostanú len 3 základné role, ktoré sa priraďujú k účtu každého
+používateľa pri jeho vzniku a taktiež sa automaticky zmení typ
+používateľa na "Employee" a typ prístupu na "Používateľ_SK"
+
+Požadovaná služba: Vykonanie zmeny v nastavení IDM
+
+a účet zostane v SD v stave "Inactive"
+
+Požadovaná služba:
+
+proces so schvaľovaním na vytváranie špeciálnych mbx (atribúty:
+názov, správca skupiny členov prístupovej skupiny, prístup z
+internetu)
+
+Požadovaná služba:
+
+proces presunu objektov AD INTRA pre určených administrátorov
+OIS (presun účtu do definovanej OU, presun PC do definovanej
+OU a presun skupiny do definovanej OU)
+
+Požadovaná služba:
+
+proces pre reset hesiel špeciálnych mbx
+
+Požadovaná služba:
+
+doriešenie v SD zaradenie užívateľov pod správne pracovisko a
+súčasná aktualizácia systému AD
+
+Požadovaná služba:
+
+Selfservice požiadavka na vygenerovanie user mailboxu so
+schvaľovaním nadriadeným
+
+Požadovaná služba:
+
+proces so schvaľovaním na vytváranie distribučných mailových
+listov skupiny (atribúty: názov, správca skupiny členov prístupovej
+skupiny, prístup z internetu)
+
+K položke č. 4 - ServiceDesk IT (CA ServiceDesk
+Manager)
+Požadovaná služba:
+
+proces resetu hesla bez zásahu operátora a úprava existujúceho
+procesu
+
+Požadovaná služba:
+
+priradenie/odobratie rolí pre procesy: prístup na mail cez internet z
+mobilného telefónu, prístup na mail cez internet z notebooku
+zariadenia, VPN prístup a prístup doWiFi Internal
+Strana 2 z 5
+
+Požadovaná služba:
+
+sprevádzkovanie možnosti vzdialenej pracovnej plochy pre
+riešiteľov (CPJP, centrálni, lokálni riešitelia)
+
+Požadovaná služba:
+
+sprístupnenie monitoringu dostupnosti všetkých aplikácií CA
+Spectrum pre potreby Call Centra a Helpdesk Objednávateľa ako
+samostatnú záložku v prostredí SD
+
+Požadovaná služba:
+
+integrácia ďalších dodávateľov (počet 4 a viac)
+
+Požadovaná služba:
+
+implementovanie riadenia zmien - Change Management
+(nasadzovanie nových verzií aplikácií s integráciou na dodávateľov
+a zmenové požiadavky s integráciou na dodávateľov)
+
+Požadovaná služba:
+
+prepojenie SD so SAP FI-AA (majetok-výpočtová technika a
+vozidlá)
+
+v súvislosti s tým:
+
+a) upravenie formulára na zadávanie incidentov pre opravy
+hardvéru tak, aby bol ako povinný parameter buď "Výrobné číslo
+zariadenia" alebo "SAP číslo"
+
+v súvislosti s tým:
+
+uvedené hodnoty sa musia po zadaní skontrolovať voči údajom zo
+SAP FI-AA a ak sa v tejto databáze nenachádzajú, nebude možné
+formulár incidentu uložiť
+
+v súvislosti s tým:
+
+b) pripravenie možnosti tlače servisného listu zo Service Desk
+
+Požadovaná služba:
+
+prepojenie SD so SAP FI-AA (majetok-výpočtová technika a
+vozidlá)
+
+Požadovaná služba:
+
+doriešenie automatizovaného priraďovania incidentov pre
+riešiteľské špecifické skupiny
+
+Požadovaná služba:
+
+dopracovanie rozšírených možností pre tvorbu zostáv z prostredia
+SD (momentálne sú k dispozícií len 2 typy všeobecných zostáv)
+
+v rozsahu:
+
+a) počet incidentov za určité obdobie pre jednotlivých riešiteľov v
+rámci riešiteľskej skupiny
+
+v rozsahu:
+
+b) počet incidentov za určité obdobie pre jednotlivých riešiteľov za
+celú riešiteľskú skupinu
+
+v rozsahu:
+
+c) počet incidentov za určité obdobie a určitú kategóriu požiadavky
+pre jednotlivých riešiteľov v rámci riešiteľskej skupiny
+
+v rozsahu:
+
+d) počet incidentov za určité obdobie a určitú kategóriu pre
+jednotlivých riešiteľov za celú riešiteľskú skupinu
+
+v súvislosti s tým:
+
+vedúcim a zástupcom oddelení IT a TS automatizovane zasielať
+e-mailom tieto reporty na pravidelnej týždennej báze priamo z BO
+
+Požadovaná služba:
+
+príprava univerzálneho rozhrania na zadávanie incidentov tak, aby
+ho klient vedel integrovať priamo do svojich aplikácií
+
+Požadovaná služba:
+
+prepojenie s rezortným telefónnym zoznamom SAS a aktualizácia
+údajov o telefónnych číslach zamestnancov na základe ich OEČ
+na mesačnej báze
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 7 kalendárnych dní od uzavretia Zmluvy
+Požadujú sa predložiť certifikáty prípadne iné doklady o odbornej spôsobilosti (originál alebo overenú kópiu) na implementáciu
+resp. modifikáciu softvéru, ktorý je uvedený v technickej špecifikácii predmetu zákazky, konkrétne na optimalizáciu produktu
+CA Spectrum, na modifikáciu produktu CA Service Desk Manager, na implementáciu produktu CA Identity Manager a na
+produkt CA API Management všetkých zamestnancov Dodávateľa, ktorí budú poskytovať predmetné služby, pričom pre každý
+uvedený produkt sa požadujú predložiť minimálne certifikáty 2 expertov do 7 kalendárnych dní od uzavretia Zmluvy
+Všetky predkladané dokumenty musia byť vyhotovené v slovenskom alebo českom jazyku
+Cena musí zahŕňať všetky náklady súvisiace s poskytnutím požadovanej služby
+Objednávateľ upozorňuje Dodávateľa, že v súvislosti s účinnosťou zákona č. 343/2015 Z. z. o verejnom obstarávaní a o
+zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon“) prišlo ku zmene ustanovení zákona
+týkajúcich sa preukazovania splnenia podmienok účasti týkajúcich sa osobného postavenia v zmysle § 32 ods. 1 zákona
+
+Strana 3 z 5
+
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí
+uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z.z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Banskobystrický
+
+Okres:
+
+Banská Bystrica
+
+Obec:
+
+Banská Bystrica
+
+Ulica:
+3.2
+
+Čas / lehota plnenia zmluvy:
+13.02.2017 08:00:00 - 31.10.2017 15:30:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+súhrn definovaných požiadaviek
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.0, účinná zo dňa 18.4.2016 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 133 650,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 160 380,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.0, účinná zo dňa 18.04.2016, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.0, účinná zo dňa 18.04.2016,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 01.02.2017 10:03:01
+
+Strana 4 z 5
+
+Objednávateľ:
+Ministerstvo vnútra Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Soimco a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

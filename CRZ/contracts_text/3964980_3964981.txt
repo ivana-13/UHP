@@ -1,0 +1,3117 @@
+Zmluva č. 592-5/2019-BA
+
+Zmluva o prenájme licenčného softvérového vybavenia IBM
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník
+v znení neskorších predpisov
+medzi zmluvnými stranami:
+Používateľ:
+Obchodné meno:
+Sídlo:
+Štatutárny orgán:
+Bankové spojenie:
+Číslo účtu:
+IBAN:
+SWIFT:
+IČO:
+DIČ:
+(ďalej len „používateľ“)
+
+Sociálna poisťovňa
+Ul. 29. augusta 8 a 10
+813 63 Bratislava 1
+Ing. Ľubomír Vážny
+generálny riaditeľ Sociálnej poisťovne
+Štátna pokladnica
+7000164314/8180
+SK40 8180 0000 0070 0016 4314
+SPSRSKBA
+30807484
+2020592332
+
+a
+Poskytovateľ:
+Obchodné meno:
+Sídlo:
+
+IBM Slovensko, spol. s r.o.
+Krasovského 14
+851 01 Bratislava – mestská časť Petržalka
+Štatutárny orgán:
+Ing. Robert Kováč
+konateľ IBM Slovensko, spol. s r.o.
+Bankové spojenie:
+Tatra banka, a.s.
+Číslo účtu:
+2622002341/1100
+IBAN:
+SK12 1100 0000 0026 2200 2341
+SWIFT:
+TATRSKBX
+IČO:
+31337147
+DIČ:
+2020300337
+IČ pre DPH
+SK7020000405
+Spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava 1, Oddiel: Sro, vložka
+č. 3897/B
+(ďalej len „poskytovateľ“)
+(spolu aj ako „zmluvné strany“).
+Východiskovým podkladom na uzatvorenie tejto zmluvy o prenájme licenčného softvérového
+vybavenia IBM (ďalej len „zmluva“) sú súťažné podklady a ponuka poskytovateľa zo dňa
+25.01.2019 predložená do verejnej súťaže vyhlásenej vo vestníku verejného obstarávania
+č. 254/2018 dňa 31.12.2018 pod značkou 18636-MSS v rámci zadávania nadlimitnej zákazky
+podľa zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov (ďalej len „zákon o verejnom obstarávaní“).
+
+1. Preambula
+1.1 Účelom zmluvy je:
+1.1.1 úprava zmluvných vzťahov medzi používateľom a poskytovateľom súvisiacich
+s prenájmom licenčného softvérového vybavenia IBM (ďalej len „LSV IBM“)
+pre centrálny sálový server IBM zBC12 System03 Mainframe, na ktorom
+používateľ prevádzkuje informačný systém dôchodkového poistenia
+(ďalej len „IS DP“),
+1.1.2 zabezpečenie prenájmu LSV IBM pre centrálny sálový server IBM zBC12
+na zmluvné obdobie uvedené v článku 10 bode 10.3 zmluvy so zmluvne
+stanoveným spôsobom výpočtu mesačných poplatkov podľa používateľom
+spotrebovaného výkonu nameraného v jednotkách Million Service Units
+(ďalej len „MSU“).
+2. Predmet zmluvy
+2.1 Predmetom tejto zmluvy je :
+a) prenájom LSV IBM pre centrálny sálový server IBM zBC12, na ktorom požívateľ
+vo svojom IT prostredí prevádzkuje produkčný IS DP; zoznam LSV IBM, ktorý je
+predmetom prenájmu, je uvedený v bode 2.2 tohto článku zmluvy,
+b) zabezpečenie cenovej ochrany a platieb za skutočne spotrebovaný výkon
+prostredníctvom zadefinovaného subkapacitného nastavenia LPAR-ov
+na centrálnom sálovom serveri IBM zBC12; mesačný prenájom zahŕňa LSV IBM
+a aj ich podporu.
+2.2 Za prenájom LSV IBM bude používateľovi účtovaná podľa článku 4 tejto zmluvy cena
+na základe skutočne spotrebovaného výkonu využitia LSV IBM, ktorý bude
+používateľom zaznamenávaný prostredníctvom Sub Capacity Reporting Tool-ov
+(ďalej len SCRT reportov) každý mesiac a odosielaný poskytovateľovi pri dodržaní
+subkapacitného nastavenia (softvérového cappingu) LPAR-ov.
+Zoznam LSV IBM, ktoré je prevádzkované v informačnom systéme Sociálnej
+poisťovne:
+Tabuľka č. 1
+č.
+
+Názov
+
+Množstvo
+
+1.
+
+z/OS V2 Base
+
+16 MSU
+
+2.
+
+z/OS V2 DFSORT
+
+16 MSU
+
+3.
+
+z/OS V2 Infoprint Server
+
+16 MSU
+
+4.
+
+z/OS V2 RMF
+
+16 MSU
+
+5.
+
+z/OS V2 SDSF
+
+16 MSU
+
+6.
+
+z/OS V2 Security Server
+
+16 MSU
+
+7.
+
+z/OS V2 DFSMS Dss
+
+16 MSU
+
+8.
+
+PSF V4 for z/OS
+
+16 MSU
+
+9.
+
+Print Transform AFPxPCL
+
+16 MSU
+
+10. Enterprise COBOL for z/OS V5
+
+16 MSU
+
+11. CICS TS for z/OS
+
+16 MSU
+
+12. SDF II MVS
+
+16 MSU
+
+13. Print Transform AFPxPDF
+
+16 MSU
+
+3. SCRT reporty
+3.1 SCRT reporty (Sub-kapacitné výkazy) zaznamenávajú hodnoty vždy od druhého dňa
+príslušného kalendárneho mesiaca po prvý deň nasledujúceho kalendárneho mesiaca.
+Používateľ sa zaväzuje doručiť poskytovateľovi SCRT reporty vždy najneskôr
+do deviateho dňa kalendárneho mesiaca nasledujúceho po príslušnom kalendárnom
+mesiaci. Referenčnými hodnotami pre fakturáciu za kalendárny mesiac sú hodnoty MSU
+CSRT reportu, ktorý bol zaslaný poskytovateľovi v predchádzajúcom kalendárnom
+mesiaci.
+3.2 V prípade nedoručenia SCRT reportu poskytovateľovi ani na základe písomnej výzvy
+poskytovateľa bude poskytovateľ fakturovať používateľovi cenu za plnú kapacitu stroja.
+3.3 Používateľ je povinný bezodkladne písomne oznámiť poskytovateľovi výskyt okolností
+vylučujúcich zodpovednosť používateľa, v dôsledku ktorých došlo k omeškaniu
+doručenia SCRT reportu poskytovateľovi.
+4. Cena a platobné podmienky
+4.1 Celková cena za predmet zmluvy je stanovená dohodou zmluvných strán v eurách podľa
+ustanovení zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení
+neskorších predpisov a vyhlášky Ministerstva financií Slovenskej republiky č. 87/1996
+Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z.
+o cenách v znení neskorších predpisov nasledovne:
+Celková cena za predmet zmluvy bez DPH
+882 850.92,- EUR
+(slovom: osemstoosemdesiatdvatisícosemstopäťdesiat eur deväťdesiatdva centov bez
+DPH)
+Sadzba DPH 20%
+176 570.18,- EUR
+Cena s DPH
+1 059 421.10,- EUR
+(slovom: milión päťdesiatdeväťtisícštyristodvadsaťjeden eur desať centov s
+DPH).
+Používateľ si vyhradzuje právo celkovú cenu za predmet zmluvy nevyčerpať.
+4.2
+
+Platby za predmet zmluvy uvedený v článku 2. tejto zmluvy za obdobie 12 mesiacov,
+pokiaľ používateľ neprekročí počty využívaných jednotiek MSU (Millions of Service Units
+t. j. jednotka na meranie záťažovej kapacity stroja za hodinu) uvedené v tabuľke č. 1
+predstavujú:
+Rok 2019
+Cena bez DPH za špecifikované softvérové komponenty pre 16 MSU za mesiac:
+23 337.25,- EUR
+Cena na rok bez DPH
+280 047,- EUR
+(slovom: dvestoosemdesiattisícštyridsaťsedem eur bez DPH)
+Sadzba DPH 20% na rok
+56 009.40,- EUR
+Cena na rok s DPH
+336 056.40,- EUR
+(slovom: tristotridsaťšesťtisícpäťdesiatšesť eur štyridsať centov s DPH),
+Rok 2020
+Cena bez DPH za špecifikované softvérové komponenty pre 16 MSU za mesiac:
+24 504.32,- EUR
+Cena na rok bez DPH
+294 051.84,- EUR
+(slovom: dvestodeväťdesiatštyritisícpäťdesiatjeden eur osemdesiatštyri centov bez
+DPH)
+Sadzba DPH 20% na rok
+58 810.37,- EUR
+Cena na rok s DPH
+352 862.21,- EUR
+(slovom: tristopäťdesiatdvatisícosemstošesťdesiatdva eur dvadsaťjeden centov s DPH),
+Rok 2021
+
+Cena bez DPH za špecifikované softvérové komponenty pre 16 MSU za mesiac:
+25 729.34,- EUR
+Cena na rok bez DPH
+308 752.08,- EUR
+(slovom: tristoosemtisícsedemstopäťdesiatdva eur osem centov bez DPH)
+Sadzba DPH 20% na rok
+61 750.42,- EUR
+Cena na rok s DPH
+370 502,50- EUR
+(slovom: tristosedemdesiattisícpäťstodva eur päťdesiat centov s DPH).
+Počet jednotiek MSU predstavuje len predpoklad. Skutočne nadobudnuté počty môžu
+byť vyššie alebo nižšie ako sú predpokladané počty, avšak celková výška platieb bez
+DPH zaplatená používateľom na základe zmluvy nesmie byť vyššia ako dohodnutá
+celková cena za predmet zmluvy bez DPH. Počas ročného obdobia používateľ každý
+mesiac obmedzí používanie tak, aby ročná výška platieb za právo používať softvér MLC
+neprekročila výšku stanovenú v bode 4.2 tohto článku zmluvy.
+4.4 Dohodnutá celková cena za predmet zmluvy vrátane ročných platieb zahŕňa všetky
+náklady spojené s poskytnutím predmetu zmluvy, vrátane všetkých zliav, daní, cla,
+poplatkov, licenčných poplatkov, platieb vyberaných v rámci uplatňovania nesadzobných
+opatrení ustanovených osobitnými predpismi, ako aj iných nákladov súvisiacich
+s plnením predmetu zmluvy napr. náklady na licencie tretích strán. Poskytovateľ nie je
+oprávnený požadovať akúkoľvek inú úhradu za prípadné dodatočné náklady, ktoré si
+nezapočítal do ceny za predmet zmluvy. Akékoľvek ustanovenia Dohody o všeobecných
+obchodných podmienkach IBM s prílohou č. 1, ktoré sú súčasťou prílohy č. 6 k zmluve
+týkajúce sa akéhokoľvek navýšenia cien alebo licenčných poplatkov sa počas platnosti
+a účinnosti zmluvy neuplatňujú. Jednotkové ceny uvedené v zmluve a v prílohe č. 1
+k zmluve sú pevné a nie je možné ich meniť a upravovať počas platnosti a účinnosti
+zmluvy. V prípade, ak zmluva nadobudne účinnosť po 01.01.2019, poskytovateľ je
+oprávnený fakturovať len alikvotnú časť za skutočne spotrebovaný výkon za mesiac,
+v ktorom zmluva nadobudla účinnosť.
+4.5 Fakturácia bude prebiehať na mesačnej báze, na základe SCRT reportu doručeného
+poskytovateľovi („mesačné správy“) najneskôr do deviateho dňa kalendárneho mesiaca
+nasledujúceho po príslušnom kalendárnom mesiaci. Hodnota fakturovanej čiastky závisí
+od hodnoty MSU SCRT reportu nameranej v príslušnom kalendárnom mesiaci.
+Referenčnými hodnotami pre fakturáciu za kalendárny mesiac sú hodnoty MSU CSRT
+reportu, ktorý bol zaslaný poskytovateľovi v predchádzajúcom kalendárnom mesiaci.
+4.6 V prípade, ak požívateľ nedoručí správu o množstve využitých jednotiek MSU
+do deviateho dňa mesiaca za predchádzajúce obdobie výkazu podľa bodu 4.5
+tohto článku zmluvy, poskytovateľ pošle používateľovi e-mailové upomienku,
+aby bezodkladne doručil správu do dohodnutého času. Nezaslanie upomienky
+podľa predchádzajúcej vety nemá vplyv na oprávnenie poskytovateľa fakturovať platby
+na základe plnej kapacity stroja.
+4.7 Faktúra je splatná najneskôr do 30 dní odo dňa jej doručenia do podateľne používateľa.
+4.8 Používateľ je oprávnený započítať akúkoľvek svoju i nesplatnú pohľadávku, ktorú má
+voči poskytovateľovi, s pohľadávkou, i nesplatnou, ktorá vznikne z tejto zmluvy
+poskytovateľovi voči používateľovi. Zápočet pohľadávok môže používateľ uplatniť
+pri úhrade faktúr poskytovateľa.
+4.9 Poskytovateľ sa zaväzuje vyhotovené faktúry zaslať listinne poštou a súčasne aj textovo
+čitateľnom súbore vo formáte PDF elektronicky na e-mailovú adresu používateľa
+faktury@socpoist.sk, a to bezodkladne po ich vyhotovení. Poskytovateľ vyhlasuje,
+že obsah faktúry poslanej poštou sa bude zhodovať s faktúrou poslanou v elektronickej
+podobe na e-mailovú adresu používateľa. Miestom doručenia faktúry v listinnej forme
+je Sociálna poisťovňa, ústredie, Ul. 29. augusta 8 a 10, 813 63 Bratislava. Všetky faktúry
+vyplývajúce z tejto zmluvy podliehajú povinnosti zverejnenia zo strany používateľa.
+4.10 Poskytovateľom vyhotovené faktúry ako daňový doklad, musia byť v súlade
+s ustanoveniami zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších
+predpisov. V prípade, že faktúra vyhotovená poskytovateľom nebude obsahovať všetky
+zákonom stanovené náležitosti alebo bude obsahovať nesprávne alebo neúplné údaje,
+používateľ má právo takúto faktúru vrátiť počas plynutia lehoty splatnosti poskytovateľovi
+4.3
+
+na jej doplnenie, resp. opravu a poskytovateľ je povinný podľa charakteru nedostatku
+vyhotoviť novú, opravenú, resp. doplnenú faktúru s novou lehotou splatnosti.
+Poskytovateľ je povinný bezodkladne poslať opravenú alebo novú faktúru znovu
+aj v elektronickej podobe na e-mailovú adresu používateľa uvedenú v predchádzajúcom
+bode. Nová lehota splatnosti faktúr začne plynúť až v okamihu doručenia
+doplnených/opravených/nových faktúr do podateľne používateľa.
+4.11 Výška celkového mesačného poplatku za používanie LSV IBM je tvorená súčtom
+mesačných poplatkov za jednotlivé komponenty stroja podľa spotrebovaného výkonu,
+nameraného v jednotkách MSU, podľa hodnôt zaznamenaných v SCRT reporte. Spôsob
+výpočtu mesačného poplatku pre jednotlivé komponenty je popísaný v prílohe č. 1
+k zmluve.
+
+ID produktu
+
+Rok 2019: 01.01.2019 – 31.12.2019
+Základná
+jednotková
+Popis produktu
+Metrika
+cena
+Base
+
+Zvýšená
+jednotková
+cena I.
+
+Zvýšená
+jednotková cena
+II.
+
+4-17
+
+18-30
+
+5650ZOS
+
+z/OS V2 Base
+
+AEWL
+
+3 660.54 €
+
+398.16 €
+
+404.09 €
+
+5650ZOS
+
+z/OS V2 DFSMS dss
+
+AEWL
+
+202.54 €
+
+5.98 €
+
+5.98 €
+
+5650ZOS
+
+z/OS V2 DFSORT
+
+AEWL
+
+304.30 €
+
+-€
+
+-€
+
+5650ZOS
+
+z/OS V2 Infoprint Server
+
+AEWL
+
+507.83 €
+
+13.24 €
+
+14.74 €
+
+5650ZOS
+
+z/OS V2 RMF
+
+AEWL
+
+142.07 €
+
+15.91 €
+
+15.91 €
+
+5650ZOS
+
+z/OS V2 SDSF
+
+AEWL
+
+313.20 €
+
+6.08 €
+
+8.43 €
+
+5650ZOS
+
+z/OS V2 Security Server
+
+AEWL
+
+219.34 €
+
+26.48 €
+
+26.48 €
+
+5655M32
+
+PSF V4 for z/OS
+
+LVTR
+
+1 537.12 €
+
+-€
+
+-€
+
+5655TF1
+
+Print Transform AFPxPDF
+
+FLAT
+
+584.48 €
+
+-€
+
+-€
+
+5655TF2
+
+Print Transform AFPxPCL
+
+FLAT
+
+405.60 €
+
+-€
+
+-€
+
+5655W32
+
+Enterprise COBOL for z/OS V5
+
+AEWL
+
+805.22 €
+
+12.61 €
+
+48.02 €
+
+5655Y04
+
+CICS TS for z/OS
+
+AEWL
+
+5 413.25 €
+
+163.42 €
+
+342.84 €
+
+5665366
+
+SDF II MVS
+
+TWLC
+
+897.52 €
+
+-€
+
+-€
+
+ID produktu
+
+Rok 2020: 01.01.2020 – 31.12.2020
+Základná
+jednotková
+Popis produktu
+Metrika
+cena
+Base
+
+Zvýšená
+jednotková
+cena I.
+
+Zvýšená
+jednotková cena
+II.
+
+4-17
+
+18-30
+
+5650ZOS
+
+z/OS V2 Base
+
+AEWL
+
+3 843.57 €
+
+418.07 €
+
+424.29 €
+
+5650ZOS
+
+z/OS V2 DFSMS dss
+
+AEWL
+
+212.67 €
+
+6.28 €
+
+6.28 €
+
+5650ZOS
+
+z/OS V2 DFSORT
+
+AEWL
+
+319.52 €
+
+-€
+
+-€
+
+5650ZOS
+
+z/OS V2 Infoprint Server
+
+AEWL
+
+533.22 €
+
+13.90 €
+
+15.48 €
+
+5650ZOS
+
+z/OS V2 RMF
+
+AEWL
+
+149.17 €
+
+16.71 €
+
+16.71 €
+
+5650ZOS
+
+z/OS V2 SDSF
+
+AEWL
+
+328.86 €
+
+6.38 €
+
+8.85 €
+
+5650ZOS
+
+z/OS V2 Security Server
+
+AEWL
+
+230.31 €
+
+27.80 €
+
+27.80 €
+
+5655M32
+
+PSF V4 for z/OS
+
+LVTR
+
+1 613.98 €
+
+-€
+
+-€
+
+5655TF1
+
+Print Transform AFPxPDF
+
+FLAT
+
+613.70 €
+
+-€
+
+-€
+
+5655TF2
+
+Print Transform AFPxPCL
+
+FLAT
+
+425.88 €
+
+-€
+
+-€
+
+5655W32
+
+Enterprise COBOL for z/OS V5
+
+AEWL
+
+845.48 €
+
+13.24 €
+
+50.42 €
+
+5655Y04
+
+CICS TS for z/OS
+
+AEWL
+
+5 683.91 €
+
+171.59 €
+
+359.98 €
+
+5665366
+
+SDF II MVS
+
+TWLC
+
+942.40 €
+
+-€
+
+-€
+
+Rok 2021: 01.01.2021 – 31.12.2021
+
+ID produktu
+
+Popis produktu
+
+Metrika
+
+Základná
+jednotková
+cena
+Base
+
+Zvýšená
+jednotková
+cena I.
+
+Zvýšená
+jednotková cena
+II.
+
+4-17
+
+18-30
+
+5650ZOS
+
+z/OS V2 Base
+
+AEWL
+
+4 035.75 €
+
+438.98 €
+
+445.51 €
+
+5650ZOS
+
+z/OS V2 DFSMS dss
+
+AEWL
+
+223.30 €
+
+6.59 €
+
+6.59 €
+
+5650ZOS
+
+z/OS V2 DFSORT
+
+AEWL
+
+335.50 €
+
+-€
+
+-€
+
+5650ZOS
+
+z/OS V2 Infoprint Server
+
+AEWL
+
+559.88 €
+
+14.60 €
+
+16.25 €
+
+5650ZOS
+
+z/OS V2 RMF
+
+AEWL
+
+156.64 €
+
+17.54 €
+
+17.54 €
+
+5650ZOS
+
+z/OS V2 SDSF
+
+AEWL
+
+345.30 €
+
+6.70 €
+
+9.29 €
+
+5650ZOS
+
+z/OS V2 Security Server
+
+AEWL
+
+241.82 €
+
+29.19 €
+
+29.19 €
+
+5655M32
+
+PSF V4 for z/OS
+
+LVTR
+
+1 694.67 €
+
+-€
+
+-€
+
+5655TF1
+
+Print Transform AFPxPDF
+
+FLAT
+
+644.39 €
+
+-€
+
+-€
+
+5655TF2
+
+Print Transform AFPxPCL
+
+FLAT
+
+447.17 €
+
+-€
+
+-€
+
+5655W32
+
+Enterprise COBOL for z/OS V5
+
+AEWL
+
+887.76 €
+
+13.90 €
+
+52.94 €
+
+5655Y04
+
+CICS TS for z/OS
+
+AEWL
+
+5 968.11 €
+
+180.17 €
+
+377.98 €
+
+5665366
+
+SDF II MVS
+
+TWLC
+
+989.52 €
+
+-€
+
+-€
+
+5. Záručné podmienky a zodpovednosť za vady
+5.1 Poskytovateľ sa zaväzuje, že poskytne predmet zmluvy podľa podmienok dohodnutých
+v tejto zmluve.
+5.2 Poskytovateľ sa zaväzuje, že na predmete tejto zmluvy nie sú žiadne právne vady
+a vyhlasuje, že je oprávnený vykonávať a udeliť všetky práva spojené
+s dodaním/poskytovaním predmetu zmluvy a zodpovedá za ich nerušený výkon
+používateľom.
+5.3 V prípade, že tretia osoba akýmkoľvek spôsobom uplatní práva na poskytovaný predmet
+zmluvy, ktoré sú nezlučiteľné s právami vykonávanými používateľom, poskytovateľ
+sa zaväzuje vykonať všetky opatrenia potrebné na nápravu a nerušený výkon práv
+používateľa vrátane prípadných návrhov na začatie súdneho konania. V prípade, ak si
+tretia strana uplatní nárok voči používateľovi z dôvodu, že použitie produktu IBM, ktoré
+používateľ obstaral na základe tejto zmluvy, porušuje jej autorské práva alebo iné práva
+duševného vlastníctva, poskytovateľ bude hájiť používateľa proti takému nároku a uhradí
+sumu priznanú súdom alebo určenú v mimosúdnom urovnaní schválenom
+poskytovateľom, a to za podmienok špecifikovaných v čl. 7. Zodpovednosť
+a odškodnenie v bode c. prílohy č. 6 tejto zmluvy.
+5.4 Poskytovateľ zaručuje, že LSV IBM, ak je používané v určenom operačnom prostredí,
+bude zodpovedať jeho špecifikáciám. Záruka podľa predchádzajúcej vety trvá počas
+celého zmluvného obdobia podľa článku 10. bodu 10.3 tejto zmluvy. Podrobnejšie
+podmienky záruky, ktorú poskytovateľ poskytuje na LSV IBM, sú uvedené v článku 8.
+„Záruka a vylúčenie záruky“ Medzinárodnej licenčnej zmluvy pre programy, ktorá je
+prílohou č. 5 k tejto zmluve.
+6. Zmluvné pokuty, úrok z omeškania a zodpovednosť za škodu
+6.1
+
+V prípade, ak používateľ, z dôvodov spôsobených výlučne poskytovateľom, nebude
+môcť stiahnuť aktualizácie a opravy LSV IBM (ďalej len „omeškanie“), ktoré sú
+k dispozícii na internetovej stránke IBM Support: Fix Central, ani po uplynutí primeranej,
+nie kratšej ako 3-dňovej lehoty potom, ako bolo predmetné omeškanie písomne
+notifikované poskytovateľovi, používateľ je oprávnený uplatniť si nárok na zmluvnú
+pokutu vo výške 500,- EUR za každý, aj začatý deň omeškania. Poskytovateľ sa
+zaväzuje, že takúto zmluvnú pokutu zaplatí používateľovi najneskôr do tridsať (30) dní
+odo dňa jej uplatnenia používateľom. Celková kumulatívna suma všetkých zmluvných
+pokút uplatnených používateľom na základe zmluvy nesmie prekročiť sumu 50%
+
+6.2
+
+6.3
+
+dvanásťmesačných poplatkov zaplatených používateľom v príslušnom 12-mesačnom
+období, počas ktorého k omeškaniu došlo. Používateľ nemá nárok na uplatnenie
+zmluvnej pokuty podľa tohto bodu, pokiaľ k omeškaniu došlo z dôvodov na strane
+používateľa a/alebo v dôsledku existencie okolností vylučujúcich zodpovednosť v zmysle
+ust. § 374 Obchodného zákonníka.
+V prípade omeškania používateľa s úhradou faktúry v dohodnutej lehote je poskytovateľ
+oprávnený uplatniť si nárok na úrok z omeškania maximálne vo výške určenej
+nariadením vlády Slovenskej republiky č. 21/2013 Z. z., ktorým sa vykonávajú niektoré
+ustanovenia Obchodného zákonníka v znení nariadenia vlády č. 303/2014 Z. z.
+Používateľ sa zaväzuje, že takýto úrok z omeškania zaplatí poskytovateľovi najneskôr
+do tridsať (30) dní odo dňa doručenia jeho vyúčtovania na základe faktúry.
+Zmluvné strany súhlasia so započítaním vzájomných pohľadávok vyplývajúcich
+z tejto zmluvy v súlade s § 364 Obchodného zákonníka.
+
+7. Ochrana dôverných informácií, informačná a kybernetická bezpečnosť
+7.1 Poskytovateľ vyhlasuje, že bol oboznámený s informáciou, že používateľ prevádzkuje
+informačný systém, ktorý podlieha režimu ochrany podľa zákona č. 461/2003 Z. z.
+o sociálnom poistení v znení neskorších predpisov, zákona č. 275/2006 Z. z.
+o informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov v
+znení neskorších predpisov, zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti
+a o zmene a doplnení niektorých zákonov a zákona č. 18/2018 Z. z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov (ďalej len „zákon“).
+7.2 Poskytovateľ sa zaväzuje:
+a) zachovávať mlčanlivosť o všetkých skutočnostiach, ktoré používateľ
+jednoznačne označil alebo určil ako „dôverné“ (ďalej len „dôverné informácie“),
+b) že jeho zamestnanci, resp. ďalšie osoby, ktoré budú osobne zabezpečovať
+predmet plnenia podľa tejto zmluvy, zachovajú mlčanlivosť o všetkých dôverných
+informáciách, s ktorými sa oboznámia pri plnení tejto zmluvy po dobu plnenia
+tejto zmluvy aj 5 rokov po jeho splnení,
+c) využívať na plnenie zmluvou dohodnutých úkonov len určených zamestnancov,
+ktorí sú odsúhlasení používateľom.
+7.3 Používateľ neposkytne a nesprístupní poskytovateľovi v súvislosti s plnením predmetu
+zmluvy žiadne osobné údaje v zmysle zákona, okrem kontaktných údajov určených
+zamestnancov používateľa.
+7.4 Poskytovateľ sa zaväzuje, že nebude pristupovať k osobným údajom, nebude
+obchádzať, resp. porušovať opatrenia používateľa, ktorých účelom je zabránenie
+prístupu neoprávnených osôb k osobným údajom, s ktorými bol poskytovateľ vopred
+preukázateľne oboznámený zo strany používateľa. Poskytovateľ nebude požadovať
+prístup k osobným údajom za účelom poskytnutia služby, testovania a ani z iných
+dôvodov.
+7.5 V prípade, ak by pri plnení predmetu zmluvy, resp. v súvislosti s plnením malo predsa
+len dochádzať spracúvaniu osobných údajov, sú zmluvné strany povinné postupovať v
+súlade s platnou právnou úpravou a vstúpiť do potrebných zmluvných vzťahov
+regulujúcich podmienky ich spracúvania.
+7.6 Zmluvné strany, ich zamestnanci ako aj ich subdodávatelia a ich zamestnanci sú povinní
+zachovávať v tajnosti všetky dôverné informácie, ktoré sú uvedené v tejto zmluve a v jej
+prílohách a/alebo ktoré budú uvedené v jej dodatkoch a prílohách, a/alebo ktoré im boli
+poskytnuté alebo ktoré inak získali v súvislosti so zmluvou alebo s ktorými sa oboznámili
+počas plnenia zmluvy, resp. ktoré súvisia s predmetom plnenia, s údajmi ktoré podliehajú
+ochrane podľa Nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla
+2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe
+takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane
+údajov) (GDPR) a zákona, s údajmi z informačného systému objednávateľa a s údajmi
+získanými v rámci predzmluvných rokovaní, ktoré súvisia so zmluvou s výnimkou
+nasledujúcich prípadov, ak:
+7.6.1 je poskytnutie informácie od dotknutej zmluvnej strany uložené na základe
+všeobecne záväzných právnych predpisov alebo na základe povinnosti uloženej
+
+postupom podľa všeobecne záväzných právnych predpisov (napr. zákon
+č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov);
+7.6.2 ak je informácia verejne dostupná z iného dôvodu ako je porušenie povinnosti
+mlčanlivosti dotknutou zmluvnou stranou, informácie, ktoré už sú v deň
+podpísania zmluvy verejne známe, alebo ktoré je možné už v deň podpísania
+tejto zmluvy získať z bežne dostupných informačných prostriedkov;
+7.6.3 ak ide o informácie, ktoré sa stanú po podpísaní zmluvy verejne známymi,
+alebo ktoré možno po tomto dni získať z bežne dostupných informačných
+prostriedkov;
+7.6.4 ak je informácia poskytnutá odborným poradcom dotknutej zmluvnej strany
+(vrátane právnych, účtovných, daňových a iných poradcov), ktorí sú buď viazaní
+všeobecnou profesionálnou povinnosťou mlčanlivosti, alebo ak sa voči dotknutej
+zmluvnej strane zaviazali povinnosťou mlčanlivosti;
+7.6.5 ak je to potrebné na účely akéhokoľvek súdneho, rozhodcovského, správneho
+alebo iného konania, ktorého je dotknutá zmluvná strana účastníkom;
+7.6.6 ak je informácia poskytnutá so súhlasom druhej zmluvnej strany.
+7.7 Zmluvné strany sa zaväzujú, že dôverné informácie bez predchádzajúceho písomného
+súhlasu druhej zmluvnej strany nepoužijú pre seba alebo pre tretie osoby, neposkytnú
+tretím osobám a ani neumožnia prístup tretích osôb k dôverným informáciám. Za tretie
+osoby sa nepokladajú členovia orgánov zmluvných strán, audítori alebo právni
+poradcovia zmluvných strán, ktorí sú ohľadne im sprístupnených informácií viazaní
+povinnosťou mlčanlivosti na základe všeobecne záväzných právnych predpisov.
+7.8 Zmluvné strany sa zaväzujú, že budú ochraňovať dôverné informácie druhej zmluvnej
+strany s rovnakou starostlivosťou, ako ochraňujú vlastné dôverné informácie rovnakého
+druhu, vždy však najmenej v rozsahu primeranej odbornej starostlivosti.
+7.9 Ustanovenia tohto článku zmluvy budú platiť po dobe platnosti a účinnosti zmluvy
+a to až do doby, kedy sa informácie stanú verejne známymi.
+7.10 Poskytovateľ pri plnení predmetu zmluvy bude na vyžiadanie plniť čiastkové povinnosti
+v oblasti kybernetickej bezpečnosti v zmysle zákona č. 69/2018 Z. z. o kybernetickej
+bezpečnosti a o zmene a doplnení niektorých zákonov, napríklad pri plánovaní kontinuity
+činností alebo pri šetrení bezpečnostného incidentu.
+7.11 Zástupcom používateľa zodpovedným za informačnú a kybernetickú bezpečnosť je
+vedúci oddelenia bezpečnosti informačných systémov.
+8. Trvanie a skončenie zmluvy
+8.1 Zmluva môže skončiť:
+a) uplynutím doby, na ktorú bola uzavretá,
+b) písomnou dohodou zmluvných strán,
+c) výpoveďou používateľa,
+d) odstúpením od zmluvy ktoroukoľvek zo zmluvných strán.
+8.2 Zmluvný vzťah môže byť skončený písomnou dohodou zmluvných strán
+alebo výpoveďou používateľa v prípade ak z prevádzkových dôvodov, alebo z dôvodu
+zmeny systému, nebude používateľ potrebovať služby, ktoré sú predmetom tejto zmluvy.
+Zmluvné strany sa dohodli na trojmesačnej výpovednej lehote, ktorá začína plynúť prvým
+dňom kalendárneho mesiaca nasledujúceho po doručení písomnej výpovede druhej
+zmluvnej strane.
+8.3 Používateľ je oprávnený od zmluvy odstúpiť:
+8.3.1 v prípadoch podstatného porušenia zmluvy poskytovateľom; za podstatné
+porušenie sa považuje najmä:
+a) nezabezpečenie prenájmu LSV IBM podľa podmienok dohodnutých
+v tejto zmluve,
+b) neakceptovanie ceny ročných platieb v súlade so zmluvou a prílohou č. 1
+k zmluve,
+8.3.2 v prípade nepodstatného porušenia zmluvy, len ak poskytovateľ nesplní svoju
+povinnosť ani v dodatočne primeranej lehote, ktorá mu bola poskytnutá,
+
+8.3.3 v prípade opakovaného porušenia akýchkoľvek povinností poskytovateľom,
+ktoré vyplývajú z ustanovení tejto zmluvy, alebo z ustanovení všeobecne
+záväzných právnych predpisov; za opakované sa považuje preukázateľné
+porušenie dvakrát a viackrát,
+8.3.4 podľa § 19 zákona o verejnom obstarávaní.
+Odstúpeniu objednávateľa od zmluvy musí predchádzať upozornenie poskytovateľa
+na neplnenie zmluvných povinností a na možnosť skončenia tejto zmluvy odstúpením.
+8.4 Poskytovateľ môže od tejto zmluvy odstúpiť v prípade, ak je používateľ v omeškaní
+s úhradou riadne vystavenej faktúry po dobu dlhšiu ako tridsať (30) dní po lehote
+splatnosti faktúry; skončeniu zmluvy musí predchádzať upozornenie na neplnenie
+platobných povinností používateľa a na možnosť ukončenia tejto zmluvy odstúpením.
+8.5 Odstúpenie od zmluvy bude účinné dňom doručenia písomného oznámenia o odstúpení
+od zmluvy druhej zmluvnej strane. V prípade odstúpenia od zmluvy má poskytovateľ
+nárok na úhradu za vykonané plnenia podľa stupňa ich rozpracovanosti.
+8.6 Vypovedaním zmluvy nevzniknú používateľovi žiadne dodatočné záväzky
+voči poskytovateľovi.
+8.7 Pri podstatnom porušení povinností vyplývajúcich zo zmluvy, môže oprávnená zmluvná
+strana písomne odstúpiť od zmluvy a požadovať od povinnej zmluvnej strany v súlade
+so všeobecne záväznými právnymi predpismi náhradu škody, ktorá jeho vinou vznikne.
+8.8 Odstúpenie od zmluvy sa nedotýka nárokov zmluvných strán na náhradu škody
+vyplývajúcu z tejto zmluvy.
+8.9 Úplná alebo čiastočná zodpovednosť zmluvnej strany bude vylúčená v prípadoch
+zásahu vyššej moci.
+8.10 Poskytovateľ nepostúpi bez predchádzajúceho písomného súhlasu používateľa, ani inak
+neprevedie práva a povinnosti vyplývajúce z tejto zmluvy v celku ani v jej časti inému
+subjektu a nepostúpi časť alebo celkovú výšku svojich pohľadávok na tretiu osobu.
+8.11 V prípade, ak zmluva skončí dohodou, výpoveďou alebo odstúpením od zmluvy
+pred ako uplynutím doby, na ktorú bola uzatvorená poskytovateľ má nárok
+iba na alikvotnú časť z ceny dohodnutej na príslušný kalendárny rok.
+9. Osobitné ustanovenia
+9.1 Na plnenie predmetu zmluvy môže poskytovateľ využiť subdodávateľov. Poskytovateľ
+je povinný pri uzatvorení zmluvy uviesť zoznam subdodávateľov, ktorý obsahuje údaje
+o všetkých známych subdodávateľoch poskytovateľa v čase uzatvorenia tejto zmluvy
+a údaje o osobe oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko,
+adresa pobytu a dátum narodenia. Zoznam subdodávateľov tvorí prílohu č. 3
+k tejto zmluve a obsahuje okrem uvedených údajov podiel plnenia zo zmluvy v %
+a stručný opis časti zmluvy, ktorá bude predmetom subdodávky.
+9.2 Poskytovateľ je povinný písomne oznámiť používateľovi akúkoľvek zmenu údajov
+o subdodávateľovi, ktorý je uvedený v prílohe č. 3 k tejto zmluve najneskôr do 5
+pracovných dní odo dňa uskutočnenia tejto zmeny písomnou formou na adresu uvedenú
+v záhlaví zmluvy.
+9.3 V prípade zmeny subdodávateľa je poskytovateľ najneskôr tri (3) pracovné dni
+pred zmenou subdodávateľa povinný písomne oznámiť používateľovi údaje
+o navrhovanom novom subdodávateľovi a o osobe oprávnenej konať za subdodávateľa
+v rozsahu meno a priezvisko, adresa pobytu a dátum narodenia. Zmena nového
+subdodávateľa sa vykoná zápisom o zmene prílohy k zmluve, ktorý nadobudne platnosť
+dňom jeho podpísania oprávnenými zástupcami oboch zmluvných strán a účinnosť
+dňom nasledujúcim po dni jeho zverejnenia v Centrálnom registri zmlúv vedenom
+na Úrade vlády Slovenskej republiky (ďalej len „register“); vzor zápisu o zmene prílohy
+k zmluve tvorí prílohu č. 4 k tejto zmluve; osobami oprávnenými konať vo veciach zmeny
+prílohy č. 3 k zmluve sú:
+
+za poskytovateľa: obchodný zástupca, pre podpis dodatku štatutárny zástupca,
+
+za používateľa: riaditeľ sekcie informatiky.
+9.4 Poskytovateľ (v prípade skupiny dodávateľov každý člen skupiny dodávateľov),
+jeho subdodávatelia a subdodávatelia podľa zákona č. 315/2016 Z. z. o registri
+partnerov verejného sektora a o zmene a doplnení niektorých zákonov (ďalej len „zákon
+
+9.5
+9.6
+
+9.7
+
+o registri partnerov verejného sektora“), ktorí sú uvedení v prílohe č. 3 k tejto zmluve
+musia byť v čase uzatvorenia zmluvy v súlade s § 11 ods. 1 zákona o verejnom
+obstarávaní zapísaní v registri partnerov verejného sektora podľa zákona o registri
+partnerov verejného sektora. Používateľ neuzatvorí túto zmluvu s poskytovateľom,
+ak v čase uzatvorenia zmluvy nebude mať on, jeho subdodávatelia alebo
+subdodávatelia podľa zákona o registri partnerov verejného sektora splnenú podmienku
+zápisu v registri partnerov verejného sektora, alebo ak poskytovateľovi bude uložený
+zákaz účasti podľa § 182 ods. 3 písm. b) zákona o verejnom obstarávaní.
+Využitím subdodávateľov nie je dotknutá zodpovednosť poskytovateľa za plnenie
+predmetu zmluvy.
+Pod vyššou mocou sa rozumejú okolnosti, ktoré nastanú po uzatvorení zmluvy
+ako výsledok nepredvídateľných a zmluvnými stranami neovplyvniteľných prekážok.
+V prípade, že takáto okolnosť bude brániť v plnení povinností podľa zmluvy
+poskytovateľovi alebo používateľovi, bude povinná zmluvná strana dotknutá vyššou
+mocou zbavená zodpovednosti za čiastočné alebo úplné nesplnenie záväzkov
+vyplývajúcich z tejto zmluvy primerane počas doby, po ktorú pôsobili tieto okolnosti.
+Skončením zmluvy zanikajú všetky práva a povinnosti zmluvných strán vyplývajúce
+zo zmluvy s výnimkou ustanovení, ktoré sa týkajú nároku na náhradu škody vzniknutej
+porušením tejto zmluvy, nároku na zaplatenie zmluvnej pokuty podľa ustanovení
+tejto zmluvy, ktoré vzhľadom na svoju povahu majú trvať aj po ukončení zmluvy,
+napr. záväzky zo záruky, ochrana dôverných informácií, informačná a kybernetická
+bezpečnosť.
+
+10. Záverečné ustanovenia
+10.1 Táto zmluva podlieha povinnému zverejneniu podľa § 5a ods. 1 zákona č. 211/2000 Z. z.
+o slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov a zákona č. 546/2010 Z. z., ktorým sa dopĺňa zákon č. 40/1964
+Zb. Občiansky zákonník v znení neskorších predpisov a ktorým sa menia a dopĺňajú
+niektoré zákony. Poskytovateľ berie na vedomie povinnosť používateľa zverejniť túto
+zmluvu ako aj jednotlivé faktúry vyplývajúce z tejto zmluvy a svojím podpisom dáva
+súhlas na zverejnenie tejto zmluvy vrátane jej príloh v plnom rozsahu.
+10.2 Táto zmluva nadobúda platnosť dňom jeho podpísania oprávnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jej zverejnenia v registri.
+10.3 Táto zmluva sa uzatvára na dobu určitú do 31.12.2021 odo dňa nadobudnutia účinnosti
+zmluvy.
+10.4 Zmluvu je možné meniť alebo dopĺňať, s výnimkou uvedenou v článku 4 bode 4.4
+zmluvy, iba formou písomných dodatkov, ktoré budú neoddeliteľnou súčasťou zmluvy.
+Písomná zmena alebo doplnenie prílohy č. 3 k zmluve sa bude vykonávať formou zápisu
+o zmene prílohy podľa vzoru uvedeného v prílohe č. 4 k zmluve. Zmluvu je možné meniť
+len v prípade, ak nebudú v rozpore s ustanovením § 18 zákona o verejnom obstarávaní
+a európskou legislatívou.
+10.5 Zmluvné strany sa v súlade s ustanovením § 262 ods. 1 Obchodného zákonníka dohodli,
+že záväzkový vzťah založený touto zmluvou sa spravuje ustanoveniami Obchodného
+zákonníka, zákona o verejnom obstarávaní a ďalšími všeobecne záväznými právnymi
+predpismi Slovenskej republiky a európskou legislatívou.
+10.6 Zmluvné strany sa zaväzujú, že všetky spory vyplývajúce z tejto zmluvy, budú riešiť
+predovšetkým formou dohody. Prípadné spory, o ktorých sa zmluvné strany nedohodnú,
+budú sa riadiť právnym poriadkom Slovenskej republiky a budú postúpené
+na rozhodnutie vecne a mieste príslušnému súdu Slovenskej republiky.
+10.7 Ak niektoré ustanovenia tejto zmluvy stratili platnosť, alebo sú platné len sčasti,
+alebo neskôr stratia platnosť, nie je tým dotknutá platnosť ostatných ustanovení.
+Namiesto neplatných ustanovení sa použije úprava, ktorá sa čo najviac približuje zmyslu
+a účelu tejto zmluvy.
+10.8 Neoddeliteľnou súčasťou zmluvy sú nasledujúce prílohy:
+Príloha č. 1
+Spôsob výpočtu mesačného poplatku
+Príloha č. 2
+Doklad o oprávnení poskytovať prenájom LSV IBM
+Príloha č. 3
+Zoznam subdodávateľov
+
+Príloha č. 4
+Príloha č. 5
+Príloha č. 6
+
+Vzor zápisu o zmene prílohy
+Medzinárodná licenčná zmluva pre programy
+Dohoda o všeobecných obchodných podmienkach IBM
+
+V prípade rozporu medzi ustanoveniami zmluvy a jej prílohami prednostne sa budú
+uplatňovať ustanovenia zmluvy. V prípade, ak počas platnosti a účinnosti zmluvy dôjde
+k zmene prílohy č. 6 k zmluve „Dohody o všeobecných obchodných podmienkach IBM
+s prílohou č. 1“ tieto nadobudnú právne účinky voči používateľovi len na základe dodatku
+k zmluve odsúhlaseného oboma zmluvnými stranami.
+10.10 Táto zmluva je vyhotovená v štyroch rovnopisoch, z ktorých každá zmluvná strana
+dostane po dva rovnopisy.
+10.11 Zmluvné strany vyhlasujú, že obsah zmluvy je prejavom ich slobodnej vôle, zmluva
+nebola uzatvorená v tiesni a ani za zvlášť nevýhodných podmienok. Súčasne vyhlasujú,
+že si ju riadne a dôsledne prečítali, jej obsahu a právnym účinkom porozumeli a na znak
+súhlasu ju vlastnoručne podpísali.
+
+10.9
+
+V Bratislave, dňa .........................
+
+V Bratislave, dňa .....................
+
+Za používateľa:
+
+Za poskytovateľa:
+
+---------------------------------------
+
+----------------------------------
+
+Ing. Ľubomír Vážny
+generálny riaditeľ
+Sociálnej poisťovne
+
+Ing. Robert Kováč
+konateľ
+IBM Slovensko, spol. s r.o.
+
+Príloha č. 1 k zmluve o prenájme licenčného softvérového vybavenia IBM
+
+SPÔSOB VÝPOČTU MESAČNÉHO POPLATKU
+A. Cenová kalkulácia:
+Rok 2019
+Cena bez DPH za špecifikované softvérové komponenty pre 16 MSU za mesiac:
+23 337.25,- EUR
+Cena na rok bez DPH
+280 047,- EUR
+(slovom: dvestoosemdesiattisícštyridsaťsedem eur bez DPH)
+Sadzba DPH 20% na rok
+56 009.40,- EUR
+Cena na rok s DPH
+336 056.40,- EUR
+(slovom: tristotridsaťšesťtisícpäťdesiatšesť eur štyridsať centov s DPH),
+Rok 2020
+Cena bez DPH za špecifikované softvérové komponenty pre 16 MSU za mesiac:
+24 504.32,- EUR
+Cena na rok bez DPH
+294 051.84,- EUR
+(slovom: dvestodeväťdesiatštyritisícpäťdesiatjeden eur osemdesiatštyri centov bez
+DPH)
+Sadzba DPH 20% na rok
+58 810.37,- EUR
+Cena na rok s DPH
+352 862.21,- EUR
+(slovom: tristopäťdesiatdvatisícosemstošesťdesiatdva eur dvadsaťjeden centov s DPH),
+Rok 2021
+Cena bez DPH za špecifikované softvérové komponenty pre 16 MSU za mesiac:
+25 729.34,- EUR
+Cena na rok bez DPH
+308 752.08,- EUR
+(slovom: tristoosemtisícsedemstopäťdesiatdva eur osem centov bez DPH)
+Sadzba DPH 20% na rok
+61 750.42,- EUR
+Cena na rok s DPH
+370 502.50,- EUR
+(slovom: tristosedemdesiattisícpäťstodva eur päťdesiat centov s DPH).
+B. Jednotkové ceny:
+Rok 2019: 01.01.2019 – 31.12.2019
+ID produktu
+
+Popis produktu
+
+Metrika
+
+Základná
+jednotková
+cena
+Base
+
+Zvýšená
+jednotková
+cena I.
+
+Zvýšená
+jednotková cena
+II.
+
+4-17
+
+18-30
+
+5650ZOS
+
+z/OS V2 Base
+
+AEWL
+
+3 660.54 €
+
+398.16 €
+
+404.09 €
+
+5650ZOS
+
+z/OS V2 DFSMS dss
+
+AEWL
+
+202.54 €
+
+5.98 €
+
+5.98 €
+
+5650ZOS
+
+z/OS V2 DFSORT
+
+AEWL
+
+304.30 €
+
+-€
+
+-€
+
+5650ZOS
+
+z/OS V2 Infoprint Server
+
+AEWL
+
+507.83 €
+
+13.24 €
+
+14.74 €
+
+5650ZOS
+
+z/OS V2 RMF
+
+AEWL
+
+142.07 €
+
+15.91 €
+
+15.91 €
+
+5650ZOS
+
+z/OS V2 SDSF
+
+AEWL
+
+313.20 €
+
+6.08 €
+
+8.43 €
+
+5650ZOS
+
+z/OS V2 Security Server
+
+AEWL
+
+219.34 €
+
+26.48 €
+
+26.48 €
+
+5655M32
+
+PSF V4 for z/OS
+
+LVTR
+
+1 537.12 €
+
+-€
+
+-€
+
+5655TF1
+
+Print Transform AFPxPDF
+
+FLAT
+
+584.48 €
+
+-€
+
+-€
+
+5655TF2
+
+Print Transform AFPxPCL
+
+FLAT
+
+405.60 €
+
+-€
+
+-€
+
+5655W32
+
+Enterprise COBOL for z/OS V5
+
+AEWL
+
+805.22 €
+
+12.61 €
+
+48.02 €
+
+5655Y04
+
+CICS TS for z/OS
+
+AEWL
+
+5 413.25 €
+
+163.42 €
+
+342.84 €
+
+5665366
+
+SDF II MVS
+
+897.52 €
+
+TWLC
+
+-€
+
+-€
+
+Rok 2020: 01.01.2020 – 31.12.2020
+ID produktu
+
+Popis produktu
+
+Metrika
+
+Základná
+jednotková
+cena
+Base
+
+Zvýšená
+jednotková
+cena I.
+
+Zvýšená
+jednotková cena
+II.
+
+4-17
+
+18-30
+
+5650ZOS
+
+z/OS V2 Base
+
+AEWL
+
+3 843.57 €
+
+418.07 €
+
+424.29 €
+
+5650ZOS
+
+z/OS V2 DFSMS dss
+
+AEWL
+
+212.67 €
+
+6.28 €
+
+6.28 €
+
+5650ZOS
+
+z/OS V2 DFSORT
+
+AEWL
+
+319.52 €
+
+-€
+
+-€
+
+5650ZOS
+
+z/OS V2 Infoprint Server
+
+AEWL
+
+533.22 €
+
+13.90 €
+
+15.48 €
+
+5650ZOS
+
+z/OS V2 RMF
+
+AEWL
+
+149.17 €
+
+16.71 €
+
+16.71 €
+
+5650ZOS
+
+z/OS V2 SDSF
+
+AEWL
+
+328.86 €
+
+6.38 €
+
+8.85 €
+
+5650ZOS
+
+z/OS V2 Security Server
+
+AEWL
+
+230.31 €
+
+27.80 €
+
+27.80 €
+
+5655M32
+
+PSF V4 for z/OS
+
+LVTR
+
+1 613.98 €
+
+-€
+
+-€
+
+5655TF1
+
+Print Transform AFPxPDF
+
+FLAT
+
+613.70 €
+
+-€
+
+-€
+
+5655TF2
+
+Print Transform AFPxPCL
+
+FLAT
+
+425.88 €
+
+-€
+
+-€
+
+5655W32
+
+Enterprise COBOL for z/OS V5
+
+AEWL
+
+845.48 €
+
+13.24 €
+
+50.42 €
+
+5655Y04
+
+CICS TS for z/OS
+
+AEWL
+
+5 683.91 €
+
+171.59 €
+
+359.98 €
+
+5665366
+
+SDF II MVS
+
+TWLC
+
+942.40 €
+
+-€
+
+-€
+
+Rok 2021: 01.01.2021 – 31.12.2021
+ID produktu
+
+Popis produktu
+
+Metrika
+
+Základná
+jednotková
+cena
+Base
+
+Zvýšená
+jednotková
+cena I.
+
+Zvýšená
+jednotková cena
+II.
+
+4-17
+
+18-30
+
+5650ZOS
+
+z/OS V2 Base
+
+AEWL
+
+4 035.75 €
+
+438.98 €
+
+445.51 €
+
+5650ZOS
+
+z/OS V2 DFSMS dss
+
+AEWL
+
+223.30 €
+
+6.59 €
+
+6.59 €
+
+5650ZOS
+
+z/OS V2 DFSORT
+
+AEWL
+
+335.50 €
+
+-€
+
+-€
+
+5650ZOS
+
+z/OS V2 Infoprint Server
+
+AEWL
+
+559.88 €
+
+14.60 €
+
+16.25 €
+
+5650ZOS
+
+z/OS V2 RMF
+
+AEWL
+
+156.64 €
+
+17.54 €
+
+17.54 €
+
+5650ZOS
+
+z/OS V2 SDSF
+
+AEWL
+
+345.30 €
+
+6.70 €
+
+9.29 €
+
+5650ZOS
+
+z/OS V2 Security Server
+
+AEWL
+
+241.82 €
+
+29.19 €
+
+29.19 €
+
+5655M32
+
+PSF V4 for z/OS
+
+LVTR
+
+1 694.67 €
+
+-€
+
+-€
+
+5655TF1
+
+Print Transform AFPxPDF
+
+FLAT
+
+644.39 €
+
+-€
+
+-€
+
+5655TF2
+
+Print Transform AFPxPCL
+
+FLAT
+
+447.17 €
+
+-€
+
+-€
+
+5655W32
+
+Enterprise COBOL for z/OS V5
+
+AEWL
+
+887.76 €
+
+13.90 €
+
+52.94 €
+
+5655Y04
+
+CICS TS for z/OS
+
+AEWL
+
+5 968.11 €
+
+180.17 €
+
+377.98 €
+
+5665366
+
+SDF II MVS
+
+TWLC
+
+989.52 €
+
+-€
+
+-€
+
+Výška celkového mesačného poplatku za používanie LSV IBM je tvorená súčtom mesačných
+poplatkov za jednotlivé komponenty stroja, podľa spotrebovaného výkonu nameraného
+v jednotkách MSU, podľa hodnôt zaznamenaných v SCRT reporte nasledovne:
+Za prenájom LSV IBM sa aplikuje nasledujúci spôsob výpočtu mesačného poplatku pre
+jednotlivé komponenty:
+A)
+
+pre softvérové vybavenie v metrike AEWL v prípade, že počet využitých MSU je rovný
+alebo nižší ako tri, zodpovedá poplatok základnej jednotkovej cene podľa tabuľky pre
+príslušný kalendárny rok nižšie (ďalej len „tabuľka“).
+Poplatok = základná jednotková cena
+
+V prípade, že počet využitých MSU je väčší ako tri a menší alebo rovný sedemnásť (17),
+zodpovedá poplatok súčtu základnej jednotkovej ceny podľa tabuľky so súčinom
+zvýšenej jednotkovej ceny I. a počtu využitých MSU zníženého o tri.
+Poplatok = základná jednotková cena + (N-3) x zvýšená cena, kde N je počet
+využitých MSU. V prípade, že počet využitých MSU je väčší ako 17, zodpovedá
+poplatok súčtu základnej jednotkovej ceny podľa tabuľky so súčinom zvýšenej
+jednotkovej ceny I. a počtu využitých MSU zníženého o tri a so súčinom zvýšenej
+jednotkovej ceny II. a počtu využitých MSU zníženého o 17.
+Poplatok = základná jednotková cena + (N-3) x zvýšená jednotková cena I. + (N-17)
+x zvýšená jednotková cena II., kde N je počet využitých MSU
+B)
+
+pre softvérové vybavenie v metrike LVTR, FLAT a TWLC zodpovedá poplatok základnej
+jednotkovej cene podľa tabuľky.
+Vzorec výpočtu pre AEWL MLC kalkuláciu
+If N <= 3
+Total price = Price BASE
+If 3 <N <= 17 Total price = Price BASE + (N-3) * Price 4-17MSU
+If 18 <N <= 27 Total price = Price BASE + 14 * Price 4-17MSU + (N-17)* Price 1830MSU
+Vzorec výpočtu pre LVTR, FLAT a TWLC MLC kalkuláciu
+Total price = Price BASE
+
+Príloha č. 2 k zmluve o prenájme licenčného softvérového vybavenia IBM
+
+DOKLAD O OPRÁVNENÍ POSKYTOVAŤ PRENÁJOM LSV IBM
+
+Príloha č. 3 k zmluve o prenájme licenčného softvérového vybavenia IBM
+
+ZOZNAM SUBDODÁVATEĽOV
+IBM Slovensko, spol. s r.o.
+Krasovského 14, 851 01 Bratislava
+31 337 147
+Na poskytovaní plnenia zmluvy o prenájme licenčného softvérového vybavenia IBM č. 5925/2019-BA
+a) sa nebudú podieľať subdodávatelia a celý predmet zmluvy uskutočníme vlastnými
+kapacitami.*
+b) sa budú podieľať nasledovní subdodávatelia:*
+
+P.
+č.
+
+Meno
+a priezvisko
+alebo obchodné
+meno alebo
+názov
+subdodávateľa
+Adresa sídla
+alebo miesta
+podnikania
+
+IČO
+
+Meno
+a priezvisko,
+adresa pobytu
+a dátum
+narodenia osoby
+oprávnenej konať
+za subdodávateľa
+
+Podiel
+plnenia zo
+zmluvy v %
+
+Predmet subdodávok
+
+1.
+2.
+3.
+
+V Bratislave dňa .....................
+................................................
+Ing. Robert Kováč
+konateľ IBM Slovensko, spol. s r.o.
+
+Príloha č. 4 k zmluve o prenájme licenčného softvérového vybavenia IBM
+
+ZÁPIS
+O ZMENE PRÍLOHY Č. 3 „ZOZNAM SUBDODÁVATEĽOV“
+k zmluve o prenájme licenčného softvérového vybavenia IBM č. 592-5/2019-BA
+uzatvorenej podľa § 269 ods. 2 Obchodného zákonníka
+(ďalej len „zmluva“) medzi:
+poskytovateľom: IBM Slovensko, spol. s r.o., Krasovského 14, 851 01 Bratislava,
+IČO: 31 337 147
+(ďalej len „poskytovateľ“)
+a
+používateľom: Sociálna poisťovňa, Ul. 29. augusta 8 a 10, 813 63 Bratislava,
+IČO: 30807484 (ďalej len „používateľ“)
+V súlade s článkom 9. bodom 9.3 zmluvy, v ktorom sa zmluvné strany dohodli
+o spôsobe zmeny prílohy č. 3 k zmluve „Zoznam subdodávateľov“, zmluvné strany v zastúpení
+ich oprávnenými zástupcami podpisujú tento zápis, ktorým sa mení príloha č. 3 k zmluve
+„Zoznam subdodávateľov“, ktorá tvorí prílohu k tomuto zápisu.
+Dôvod potreby uskutočnenia zmeny prílohy č. 3 k zmluve „Zoznam subdodávateľov“:
+........................................................................................................................................
+....................................................................................................................................................
+...................
+Tento zápis je neoddeliteľnou súčasťou zmluvy.
+Tento zápis nadobúda platnosť dňom jeho podpísania oprávnenými zástupcami oboch
+zmluvných strán a účinnosť dňom nasledujúcim po dni jeho zverejnenia v Centrálnom registri
+zmlúv vedenom Úradom vlády Slovenskej republiky.
+Nadobudnutím účinnosti tohto zápisu sa v celom rozsahu mení znenie prílohy č. 3
+k zmluve „Zoznam subdodávateľov“.
+Za poskytovateľa:
+
+Za objednávateľa:
+
+Bratislava, dňa
+
+Bratislava, dňa
+
+.........................................
+
+........................................
+
+oprávnená osoba
+
+riaditeľ sekcie informatiky
+
+Príloha:
+Príloha č. 3 k zmluve „Zoznam subdodávateľov“
+
+Príloha č. 5 k zmluve o prenájme licenčného softvérového vybavenia IBM
+
+MEDZINÁRODNÁ LICENČNÁ ZMLUVA PRE PROGRAMY
+Príloha č. 5 k zmluve o prenájme licenčného softvérového vybavenia IBM je uverejnená
+v profile verejného obstarávateľa a v IS EVO ako samostatný dokument v .pdf súbore
+
+Mezinárodní licenční smlouva pro programy
+Část 1 – Obecná ustanovení
+STAŽENÍM, INSTALACÍ, ZKOPÍROVÁNÍM, PŘÍSTUPEM K PROGRAMU NEBO KLEPNUTÍM
+NA TLAČÍTKO ″SOUHLASÍM″ NEBO JINÝM POUŽITÍM PROGRAMU VYJADŘUJETE SVŮJ
+SOUHLAS S TOUTO SMLOUVOU. JESTLIŽE S TĚMITO PODMÍNKAMI SOUHLASÍTE
+JMÉNEM DRŽITELE LICENCE, PROHLAŠUJETE A ZARUČUJETE, ŽE JSTE PLNĚ ZMOCNĚNI
+VÁZAT DRŽITELE LICENCE TĚMITO PODMÍNKAMI. JESTLIŽE S TĚMITO PODMÍNKAMI
+NESOUHLASÍTE:
+v NESTAHUJTE, NEINSTALUJTE, NEKOPÍRUJTE PROGRAM, NEPŘISTUPUJTE K
+PROGRAMU, NEPOUŽÍVEJTE TLAČÍTKO ″SOUHLASÍM″, ANI NEPOUŽÍVEJTE
+PROGRAM; A
+v BEZODKLADNĚ VRAŤTE NEPOUŽITÉ NOSIČE, DOKUMENTACI A DOKUMENT O
+OPRÁVNĚNÍ SUBJEKTU, OD KTERÉHO JSTE JE ZÍSKALI, A BUDE VÁM VRÁCENA
+ČÁSTKA, KTEROU JSTE ZA NĚ ZAPLATILI. V PŘÍPADĚ, ŽE DOŠLO KE STAŽENÍ
+PROGRAMU, ZNIČTE VŠECHNY KOPIE PROGRAMU.
+1. Definice
+″Oprávněné užívání″ – stanovená úroveň oprávnění Držitele licence provádět nebo spouštět Program. Tuto
+úroveň lze měřit na základě počtu uživatelů, miliónů servisních jednotek (″jednotky MSU″), jednotek Processor
+Value Units (″jednotky PVU″) nebo na základě jiné úrovně užívání, kterou stanoví IBM.
+″IBM″ je společnost International Business Machines Corporation nebo některá z jejích dceřiných společností.
+″Licenční informace″ (″LI″) – dokument uvádějící informace a veškeré dodatečné podmínky specifické pro
+Program. Licenční informace k Programu jsou k dispozici na adrese www.ibm.com/software/sla. Dokument
+Licenční informace je k dispozici rovněž v adresáři Programu – prostřednictvím systémového příkazu – nebo ve
+formě příručky připojené k Programu.
+″Program″ – níže uvedené komponenty, včetně originálu a všech úplných nebo dílčích kopií: 1) strojově čitelné
+instrukce a data, 2) komponenty, soubory a moduly, 3) audiovizuální obsah (jako jsou obrazy, text, nahrávky
+nebo obrázky) a 4) související licenční materiály (jako jsou licenční klíče a dokumentace).
+″Dokument o oprávnění″ (″PoE″) – důkaz o oprávněném užívání ze strany Držitele licence. Dokument o
+oprávnění je rovněž důkazem o nároku Držitele licence na záruku, na ceny za budoucí přechody na vyšší verzi
+(budou-li nějaké) a na potenciální zvláštní nebo propagační příležitosti. Neposkytne-li IBM Držiteli licence
+dokument o oprávnění (Proof of Entitlement), pak IBM může akceptovat původní stvrzenku o nákupu nebo jiný
+doklad o nákupu od subjektu (bu IBM, nebo její prodejce) od kterého Držitel licence získal Program, za
+předpokladu, že takový doklad uvádí název Programu a zakoupenou úroveň Oprávněného užívání.
+″Záruční lhůta″ – jeden rok, počínaje datem, kdy byla původnímu Držiteli licence udělena licence.
+2. Struktura smlouvy
+Tato Smlouva zahrnuje Část 1 – Obecná ustanovení, Část 2 – Podmínky specifické pro zemi (jsou-li nějaká),
+dokument Licenční informace a dokument o oprávnění (Proof of Entitlement) a představuje úplnou dohodu mezi
+Držitelem licence a IBM ohledně užívání Programu. Nahrazuje veškerá předchozí ústní nebo písemná ujednání
+mezi Držitelem licence a IBM ohledně užívání Programu Držitelem licence. Podmínky Části 2 mohou
+nahrazovat nebo upravovat podmínky Části 1. V míře, v níž se vyskytne rozpor podmínek, mají podmínky
+dokumentu Licenční informace přednost před podmínkami obou Částí.
+3. Udělení licence
+Program je vlastnictvím IBM nebo dodavatele IBM, je chráněn autorskými právy a je k němu poskytováno právo
+užívání, není prodáván.
+IBM uděluje Držiteli licence nevýhradní licenci na 1) užívání Programu až do úrovně Oprávněného užívání
+uvedené v dokumentu o oprávnění (Proof of Entitlement), 2) vytvoření a instalaci kopií na podporu takového
+Oprávněného užívání, a 3) vytvoření záložní kopie, to vše za předpokladu, že:
+
+34
+
+Z125-3301-14
+
+a. Držitel licence získal Program zákonným způsobem a dodržuje podmínky této Smlouvy;
+b. záložní kopie není spouštěna, ledaže nelze spustit zálohovaný Program;
+c. Držitel licence uvádí všechna upozornění o autorských právech a další výhrady vlastnických práv na každé
+kopii nebo dílčí kopii Programu;
+d. Držitel licence zajistí, aby každá osoba používající Program (přistupující lokálně nebo vzdáleně) 1) tak
+činila pouze jménem Držitele licence, a 2) dodržovala podmínky této Smlouvy;
+e. Držitel licence nesmí 1) používat, kopírovat, upravovat nebo distribuovat Program jinak, než je výslovně
+dovoleno touto Smlouvou; 2) zpětně sestavovat, zpětně kompilovat či jakkoliv překládat Program, není-li to
+výslovně dovoleno zákonem bez možnosti toto povolení smluvně vyloučit; 3) užívat kterékoli komponenty,
+soubory, moduly, audiovizuální obsah nebo související licenční materiály nezávisle na Programu; nebo 4)
+Program sublicencovat, pronajímat či poskytovat formou leasingu; a
+f. jestliže Držitel licence získá tento Program jako Podpůrný program, bude jej používat pouze na podporu
+Základního programu a v souladu s veškerými omezeními uvedenými v licenci na Základní program, nebo –
+jestliže Držitel licence získá tento program jako Základní program – bude používat všechny Podpůrné
+programy pouze na podporu tohoto Programu a v souladu s veškerými omezeními stanovenými v této
+Smlouvě. Pro účely tohoto bodu ″f″ znamená ″Podpůrný program″ program, který je součástí jiného
+programu IBM (″Základní program″) a je v Licenčních informacích k Základnímu programu jako Podpůrný
+program uveden. (Chce-li Držitel licence získat samostatnou licenci na neomezené užívání Podpůrného
+programu, musí se obrátit na subjekt, od něhož Podpůrný program zakoupil.)
+Tato licence se vztahuje na každou kopii Programu, kterou Držitel licence vytvoří.
+3.1 Přechody typu Trade-up, aktualizace a opravy
+3.1.1 Přechody typu Trade-up
+V případě nahrazení Programu programem typu Trade-up platnost licence nahrazeného Programu okamžitě
+končí.
+3.1.2 Aktualizace a opravy
+Pokud Držitel licence obdrží aktualizaci nebo opravu k Programu, akceptuje veškeré dodatečné nebo odlišné
+podmínky, které jsou uvedeny v Licenčních informacích pro tuto aktualizaci nebo opravu. Nejsou-li k
+aktualizaci či opravě dodatečné nebo odlišné podmínky připojeny, pak se taková aktualizace či oprava řídí
+výlučně podmínkami této Smlouvy. Držitel licence se zavazuje, že v případě nahrazení Programu aktualizací
+přestane původní Program okamžitě používat.
+3.2 Licence na dobu určitou
+Licencuje-li IBM Program na dobu určitou, pak licenční oprávnění Držitele licence končí ke konci takové doby
+určité. Výjimkou je případ, kdy se Držitel licence a IBM dohodli na prodloužení licence.
+3.3 Trvání a ukončení Smlouvy
+Tato Smlouva je účinná až do jejího ukončení.
+IBM je oprávněna ukončit licenci Držitele licence, jestliže Držitel licence nedodrží podmínky této Smlouvy.
+Ukončí-li kterákoli ze stran licenci z jakéhokoli důvodu, Držitel licence je povinen okamžitě přestat používat a
+zničit všechny kopie Programu, které má ve svém držení. Veškeré podmínky této Smlouvy, jež svou povahou
+přetrvávají ukončení této Smlouvy, zůstávají právně účinné až do jejich splnění a vztahují se rovněž na právní
+nástupce a postupníky smluvních stran.
+4. Cena
+Poplatky jsou založeny na získané úrovni Oprávněného užívání, která je uvedena v dokumentu o oprávnění
+(Proof of Entitlement). IBM nevrací ani jinak nerefunduje již splatné nebo zaplacené částky, s výjimkou případů,
+které jsou specifikovány jinde v této smlouvě.
+Přeje-li si Držitel licence úroveň Oprávněného užívání zvýšit, je povinen o této skutečnosti předem informovat
+IBM nebo oprávněného prodejce IBM a uhradit veškeré příslušné poplatky.
+
+Z125-3301-14
+
+35
+
+5. Daně
+Bude-li na Program uvaleno orgánem k tomu oprávněným clo, daň či poplatek, vyjma těch, které jsou založeny
+na čistém příjmu IBM, pak se Držitel licence zavazuje, že uhradí částku uvedenou na faktuře nebo předloží
+potvrzení o osvobození od takové povinnosti. Od data obdržení Programu je Držitel licence odpovědný za
+úhradu veškerých případných majetkových daní. Jestliže některý úřad uvalí clo, daň či poplatek na dovoz, vývoz,
+přenos, přístup nebo užívání Programu mimo zemi, v níž byla původnímu Držiteli licence udělena licence, pak je
+Držitel licence povinen uhradit jakoukoli takto stanovenou částku.
+6. Záruka vrácení peněz
+Není-li Držitel licence z nějakého důvodu spokojen s Programem a je původním Držitelem (nabyvatelem)
+licence, je oprávněn licenci ukončit a může mu být částka, kterou za Program zaplatil, vrácena, avšak za
+předpokladu, že Program a dokument o oprávnění (Proof of Entitlement) subjektu, od kterého je získal, vrátí do
+30 dní od data vystavení dokumentu o oprávnění (Proof of Entitlement) pro Držitele licence. Jedná-li se o licenci
+na dobu určitou, kterou lze prodloužit, má Držitel licence právo na refundaci pouze v případě, že Program a
+příslušný dokument o oprávnění (Proof of Entitlement) vrátí během prvních 30 dní původního období. Pokud
+Držitel licence Program stáhnul, měl by požádat subjekt, od kterého jej získal, o pokyny, jak dosáhnout vrácení
+peněz.
+7. Převod programu
+Držitel licence je oprávněn převést Program a veškerá licenční práva a povinnosti Držitele licence na jinou stranu
+pouze za předpokladu, že daná strana akceptuje podmínky této Smlouvy. V případě ukončení licence kteroukoli
+smluvní stranou bez ohledu na důvod nesmí Držitel licence Program na jinou smluvní stranu převést. Držitel
+licence není oprávněn převádět část 1) Programu; nebo 2) Oprávněné užívání programu. S převodem Programu
+musí Držitel licence předat rovněž tištěnou verzi této Smlouvy, včetně Licenčních informací a dokumentu o
+oprávnění (Proof of Entitlement). Licenční oprávnění Držitele licence Okamžitě po převodu končí.
+8. Záruka a vyloučení záruky
+8.1 Omezená záruka
+IBM zaručuje, že Program, pro který je poskytována záruka, je-li používán v určeném operačním prostředí, bude
+odpovídat příslušným Specifikacím. Specifikace k Programu a informace o určeném provozním prostředí jsou k
+dispozici v dokumentaci připojené k Programu (jako je například soubor Readme) nebo ve formě jiných
+informací zveřejněných společností IBM (jako je například oznamovací leták). Držitel licence bere na vědomí,
+že tato dokumentace a další informace týkající se programu mohou být dodány pouze v anglickém jazyce, není-li
+to výslovně stanoveno příslušnými právními předpisy bez možnosti vzdání se nebo omezení práva smluvně.
+Záruka se vztahuje pouze na nezměněnou část Programu. IBM nezaručuje nepřerušený či bezchybný provoz
+Programu, ani nezaručuje, že opraví veškeré chyby Programu. Za výsledky užívání Programu nese odpovědnost
+Držitel licence.
+Během záruční doby poskytne IBM Držiteli licence bezplatný přístup k databázím IBM obsahujícím informace
+o známých chybách Programu, o opravách chyb, omezeních a způsobech, jak chyby obejít. Další informace
+najdete v příručce IBM Software Support Handbook na adrese www.ibm.com/software/support.
+Nevykazuje-li Program během Záruční lhůty zaručenou funkčnost a problém nelze vyřešit prostřednictvím
+informací uvedených v databázích IBM, smí Držitel licence vrátit Program a dokument o oprávnění (Proof of
+Entitlement) subjektu (IBM nebo její prodejce), od kterého Program získal, a bude mu vrácena částka, kterou
+zaplatil. Po vrácení Programu licenční oprávnění Držitele licence končí. Pokud Držitel licence Program stáhnul,
+měl by požádat subjekt, od kterého jej získal, o pokyny, jak dosáhnout vrácení peněz.
+8.2 Vyloučení záruky
+TYTO ZÁRUKY JSOU JEDINÝMI ZÁRUKAMI DRŽITELE LICENCE A NAHRAZUJÍ VEŠKERÉ
+OSTATNÍ ZÁRUKY ČI PODMÍNKY, VYJÁDŘENÉ VÝSLOVNĚ NEBO VYPLÝVAJÍCÍ Z
+OKOLNOSTÍ, VČETNĚ – A TO ZEJMÉNA – ZÁRUK ČI PODMÍNEK PRODEJNOSTI,
+USPOKOJIVÉ KVALITY, VHODNOSTI PRO URČITÝ ÚČEL, PRÁVNÍHO NÁROKU A JAKÉKOLI
+ZÁRUKY ČI PODMÍNKY NEPORUŠENÍ PRÁV TŘETÍCH STRAN. NĚKTERÉ STÁTY NEBO
+JURISDIKCE NEPŘIPOUŠTĚJÍ VYLOUČENÍ VÝSLOVNÝCH NEBO IMPLICITNÍCH ZÁRUK, A
+PROTO SE NA VÁS VÝŠE UVEDENÉ VÝJIMKY A OMEZENÍ NEMUSÍ VZTAHOVAT. V
+
+36
+
+Z125-3301-14
+
+TAKOVÉM PŘÍPADĚ JE PLATNOST ZÁRUKY ČASOVĚ OMEZENA POUZE NA UVEDENOU
+ZÁRUČNÍ DOBU. PO UKONČENÍ TÉTO DOBY IBM NEPOSKYTUJE ŽÁDNÉ DALŠÍ ZÁRUKY.
+NĚKTERÉ STÁTY NEBO JURISDIKCE NEPŘIPOUŠTĚJÍ OMEZENÍ DOBY TRVÁNÍ
+IMPLICITNÍ ZÁRUKY, A PROTO SE VÝŠE UVEDENÉ OMEZENÍ NA DRŽITELE LICENCE
+NEMUSÍ VZTAHOVAT.
+TYTO ZÁRUKY POSKYTUJÍ DRŽITELI LICENCE SPECIFICKÁ ZÁKONNÁ PRÁVA. DRŽITEL
+LICENCE MŮŽE MÍT ROVNĚŽ DALŠÍ PRÁVA, KTERÁ SE LIŠÍ STÁT OD STÁTU NEBO
+JURISDIKCE OD JURISDIKCE.
+ZÁRUKY V TOMTO ODDÍLU 8 (ZÁRUKA A VYLOUČENÍ ZÁRUKY) POSKYTUJE VÝHRADNĚ
+IBM. VYLOUČENÍ V TOMTO BODU 8.2 (VYLOUČENÍ ZÁRUKY) SE VŠAK VZTAHUJE ROVNĚŽ
+NA DODAVATELE IBM, KTEŘÍ POSKYTUJÍ KÓD TŘETÍCH STRAN. TAKOVÍ DODAVATELÉ
+POSKYTUJÍ DANÝ KÓD BEZ ZÁRUK ČI PODMÍNEK JAKÉHOKOLI DRUHU. TENTO
+ODSTAVEC NERUŠÍ ZÁRUČNÍ POVINNOSTI IBM VYPLÝVAJÍCÍ Z TÉTO SMLOUVY.
+9. Data a databáze Držitele licence
+IBM může s cílem pomoci Držiteli licence s určením problému s Programem požadovat, aby Držitel licence 1)
+umožnil IBM vzdálený přístup k systému Držitele licence, nebo 2) aby zaslal IBM příslušné údaje nebo
+systémová data. IBM však není povinna poskytnout takovou asistenci, pokud IBM a Držitel licence neuzavřeli
+samostatnou písemnou dohodu, na jejímž základě se IBM zavazuje, že bude Držiteli licence poskytovat tento typ
+podpory, který přesahuje záruční povinnosti IBM vyplývající z této Smlouvy. IBM za všech okolností používá
+informace o chybách a problémech ke zdokonalování jejích produktů a služeb a poskytuje klientům asistenci
+prostřednictvím souvisejících nabídek podpory. K tomuto účelu může IBM využít služeb subjektů a dodavatelů
+IBM (včetně subjektů a dodavatelů z jedné nebo více jiných zemí, než je země, v níž má sídlo Držitel licence) a
+Držitel licence opravňuje IBM k takovému využití služeb subjektů a dodavatelů IBM.
+Držitel licence zůstává odpovědný za 1) veškerá data a obsah jakékoli databáze, kterou pro IBM zpřístupní, 2)
+výběr a implementaci postupů a kontrol týkajících se přístupu, zabezpečení, šifrování, užívání a přenosu dat
+(včetně veškerých osobních údajů), a 3) zálohování a obnovu jakékoli databáze a veškerých uložených dat.
+Držitel licence nesmí odeslat IBM žádné osobní údaje nebo poskytnout IBM přístup k žádným osobním údajům,
+a už ve formě dat nebo v nějaké jiné formě, a nese odpovědnost za veškeré přiměřené náklady nebo jiné výdaje,
+které mohou IBM vzniknout v souvislosti s neoprávněným poskytnutím takových informací IBM nebo v
+souvislosti se ztrátou či zpřístupněním informací ze strany IBM, včetně těch založených na nárocích třetích stran.
+10. Omezení odpovědnosti
+Omezení odpovědnosti a vyloučení záruky v tomto oddíle 10 (Omezení odpovědnosti) se aplikuje v plném
+rozsahu, pokud není zakázáno ze zákona, bez možnosti smluvního zřeknutí se.
+10.1 Položky, za které IBM nese odpovědnost
+Mohou nastat okolnosti, kdy má Držitel licence z důvodu neplnění závazku na straně IBM nebo jiné
+odpovědnosti nárok na náhradu škody od IBM. Bez ohledu na příčinu vzniku nároku Držitele licence na náhradu
+škody od IBM (včetně podstatného porušení, nedbalosti, přivedení v omyl nebo jiného porušení závazkového či
+mimozávazkového vztahu), odpovídá IBM pouze za nároky vzniklé na základě každého Programu nebo ve
+spojení s ním nebo za nároky jinak vzniklé na základě této Smlouvy, a tato odpovědnost nesmí přesáhnout částku
+jakýchkoli 1) škod na zdraví (včetně smrti) a škod na nemovitém a osobním hmotném majetku, a 2) jiných
+skutečných přímých škod až do výše poplatků, které Držitel licence zaplatil za Program, který je předmětem
+nároku (pokud je Program licencován na dobu určitou, pak do výše poplatků za dvanáct měsíců).
+Tento limit se vztahuje rovněž na veškeré vývojáře a dodavatele Programů IBM. Jedná se o maximum, za které
+IBM a její vývojáři a dodavatelé Programů společně odpovídají.
+10.2 Položky, za které IBM nenese odpovědnost
+VYJMA PŘÍPADŮ, KDY JE TO VÝSLOVNĚ POŽADOVÁNO PRÁVNÍMI PŘEDPISY BEZ
+MOŽNOSTI VZDÁNÍ SE PRÁVA SMLUVNĚ, NEBUDOU IBM, JEJÍ SUBDODAVATELÉ ANI
+VÝVOJÁŘI PROGRAMŮ ZA ŽÁDNÝCH OKOLNOSTÍ ODPOVĚDNI ZA NÁSLEDUJÍCÍ, A TO V
+PŘÍPADĚ, ŽE BY IBM BYLA NA TAKOVOU MOŽNOST UPOZORNĚNA:
+a. ZA ZTRÁTU DAT NEBO ŠKODU NA DATECH;
+Z125-3301-14
+
+37
+
+b. ZA ZVLÁŠTNÍ, NAHODILÉ NEBO NEPŘÍMÉ ŠKODY ČI ZA NÁSLEDNÉ HOSPODÁŘSKÉ
+ŠKODY; NEBO
+c. ZA UŠLÝ ZISK, ZTRÁTU OBCHODNÍCH PŘÍLEŽITOSTÍ, UŠLÉ PŘÍJMY, ÚJMU
+ZPŮSOBENOU POŠKOZENÍM DOBRÉHO JMÉNA NEBO ZA NEDOSAŽENÉ
+PŘEDPOKLÁDANÉ ÚSPORY.
+11. Kontrola dodržování podmínek
+Pro účely tohoto oddílu 11 (Kontrola dodržování podmínek), znamenají ″Podmínky IPLA″ 1) tuto Smlouvu a
+příslušné dodatky a transakční dokumenty dodané ze strany IBM, a 2) softwarové strategie IBM, které jsou k
+dispozici na webových stránkách IBM Software Policy (www.ibm.com/softwarepolicies), včetně – a to zejména
+– strategií týkajících se zálohování, cen pro neúplný server a migrace.
+Práva a povinnosti uvedená dále v tomto oddílu 11 zůstávají v platnosti po dobu trvání licence a dva roky poté.
+11.1 Proces ověřování
+Držitel licence souhlasí, že vytvoří, bude uchovávat a poskytne IBM a jejím auditorům přesné písemné záznamy,
+výstupy systémových nástrojů a další systémové informace, které budou dostatečné k ověření, že Držitel licence
+užívá všechny Programy v souladu s podmínkami smlouvy IPLA včetně – a to zejména – všech příslušných
+podmínek IBM týkajících se licencování a cen. Držitel licence je odpovědný za to, že 1) zajistí, že nebude
+překročena jeho úroveň Oprávněného užívání, a 2) bude jednat v souladu s podmínkami smlouvy IPLA.
+IBM je na základě oznámení zaslaného v přiměřené dlouhé lhůtě předem oprávněna zkontrolovat, zda Držitel
+licence dodržuje podmínky smlouvy IPLA na všech pracovištích a pro všechna prostředí, v nichž Držitel licence
+používá Programy (k jakémukoli účelu) v souladu s podmínkami smlouvy IPLA. Takové ověření bude
+provedeno způsobem, jenž bude minimalizovat rušení obchodní činnosti Držitele licence a smí být provedeno v
+prostorách Držitele licence během řádné pracovní doby. IBM je oprávněna využít k takové kontrole služeb
+nezávislého auditora, a to za předpokladu, že IBM s tímto auditorem uzavře písemnou smlouvu o ochraně
+důvěrných informací.
+11.2 Rozhodnutí
+IBM bude Držitele písemně informovat, jestliže bude v rámci kontroly dodržování podmínek zjištěno, že Držitel
+licence užívá Program v rozsahu přesahujícím úroveň jeho Oprávněného užívání nebo jinak nedodržuje
+podmínky smlouvy IPLA. Držitel licence se zavazuje, že neprodleně uhradí přímo IBM poplatky, které IBM
+uvede na faktuře za 1) jakékoli takové nadměrné užívání, 2) podporu pro takové nadměrné užívání za dobu trvání
+takového nadměrného užívání nebo za dva roky (podle toho, které období je kratší), a 3) jakékoli dodatečné
+poplatky nebo jiné částky, které budou stanoveny na základě výsledků takové kontroly.
+12. Poznámky třetích stran
+Program může zahrnovat kód třetích stran, ke kterému Držiteli licence poskytuje licenci na základě této Smlouvy
+IBM, nikoli třetí strana. Poznámky (jsou-li nějaké) týkající se kódu třetích stran (″Poznámky třetích stran″) jsou
+uvedeny pouze pro informaci Držitele licence. Tyto poznámky mohou být uvedeny v souboru(ech) NOTICES k
+Programu. Informace o způsobu získání zdrojového kódu pro určitý kód třetích stran najdete v Poznámkách
+třetích stran. Jestliže IBM v Poznámkách třetích stran označí kód třetích stran za ″Kód třetích stran s možností
+modifikace″, pak IBM opravňuje Držitele licence k 1) modifikaci Kódu třetích stran s možností modifikace a 2)
+ke zpětné kompilaci Programových modulů, které mají přímé rozhraní ke Kódu třetích stran s možností
+modifikace, za předpokladu, že tyto činnosti budou sloužit výhradně k ladění modifikací prováděných Držitelem
+licence u takového Kódu třetích stran. Závazek IBM týkající se servisu a podpory (je-li nějaký) se vztahuje pouze
+na nemodifikovaný Program.
+13. Všeobecná ustanovení
+a. Touto Smlouvou nejsou dotčena zákonná práva spotřebitelů, jichž se není možno smluvně zříci nebo jež
+nemohou být smluvně omezena.
+b. Není-li mezi Držitelem licence a IBM písemně dohodnuto jinak, splní IBM u Programů, které dodává
+Držiteli licence v hmotné podobě, svůj závazek odeslat a dodat předmětné Programy jejich předáním
+přepravci určenému IBM.
+c. V případě, že by některé ustanovení této Smlouvy bylo považováno za neplatné nebo nevymahatelné,
+zůstanou zbývající ustanovení této Smlouvy v plné platnosti a účinnosti.
+
+38
+
+Z125-3301-14
+
+d. Každá ze smluvních stran bude postupovat v souladu s příslušnými vývozními a dovozními právními
+předpisy, včetně právních předpisů Spojených států amerických, které zakazují či omezují vývoz pro účely
+určitého použití či pro určité koncové uživatele. Držitel licence se zavazuje, že bude postupovat v souladu s
+příslušnými vývozními a dovozními právními předpisy, včetně právních předpisů Spojených států
+amerických, které zakazují či omezují vývoz pro účely určitého použití či pro určité koncové uživatele.
+e. Držitel licence opravňuje společnost International Business Machines Corporation a její příbuzné
+společnosti (a jejich právní nástupce, postupníky, dodavatele a obchodní partnery IBM) k uchování a užívání
+kontaktních informací Držitele licence všude, kde tito provádějí svou obchodní činnost ve spojení s produkty
+a službami IBM, nebo v rámci podpory obchodního vztahu IBM s držitelem Licence.
+f. Každá ze smluvních stran poskytne druhé straně přiměřeně možnost nápravy předtím, než vůči druhé straně
+vznese nároky související s neplněním jejích povinností z této Smlouvy. Smluvní strany se pokusí v dobré
+vůli vyřešit jakékoli spory, neshody či nároky vztahující se k této Smlouvě.
+g. Nevyžadují-li příslušné právní předpisy jinak, bez možnosti smluvního zřeknutí se nebo omezení: 1) žádná
+ze smluvních stran nezahájí právní úkon (bez ohledu na jeho formu) ohledně jakéhokoli nároku vzniklého na
+základě této Smlouvy nebo ve spojení s touto Smlouvou později než dva roky od data vzniku příčiny
+takového právního úkonu; a 2) veškeré takové nároky a všechna příslušná práva vztahující se k takovým
+nárokům se po vypršení takového časového limitu považují za promlčené.
+h. Žádná ze smluvních stran nenese odpovědnost za nesplnění jakýchkoli závazků, pokud k takovému neplnění
+došlo z důvodů vzniklých nezávisle na její vůli.
+i. Tato Smlouva nezakládá pro žádnou třetí stranu žádné právo nebo důvod k žalobě a IBM nenese odpovědnost
+za žádné nároky třetích stran vznesené vůči Držiteli licence, s výjimkou, jak uvádí odstavec 10.1 (Položky, za
+které IBM nenese odpovědnost) výše, škody na zdraví (včetně smrti) nebo škody na nemovitém nebo
+hmotném osobním majetku, za které je IBM vůči takové třetí straně právně odpovědná.
+j. Obě smluvní strany souhlasí, že se po uzavření toto Smlouvy nebudou opírat o žádné prohlášení, které není
+uvedeno v této Smlouvě včetně – a to zejména – jakéhokoli prohlášení týkajícího se: 1) výkonu či fungování
+Programu jinak, než je výslovně zaručeno v oddílu 8 (Záruka a vyloučení záruky) výše; 2) zkušenosti nebo
+doporučení jiných stran; nebo 3) jakýchkoli výsledků či úspor, kterých může Držitel licence dosáhnout.
+k. IBM uzavřela smlouvy s určitými organizacemi (dále jen ″Obchodní partneři IBM″) za účelem nabízení,
+zprostředkování prodeje a podpory vybraných Programů. Obchodní partneři IBM zůstávají organizacemi
+nezávislými na IBM. IBM nenese odpovědnost za jednání nebo prohlášení Obchodních partnerů IBM, ani za
+jejich závazky vůči Držiteli licence.
+l. Licenční podmínky a podmínky týkající se náhrady škody v souvislosti s právem k duševnímu vlastnictví,
+které jsou zakotveny v jiných smlouvách, jež Držitel licence uzavřel s IBM (jako je například smlouva IBM
+Customer Agreement), se nevztahují na licence na Program udělené na základě této Smlouvy.
+14. Geografický rozsah a rozhodné právo
+14.1 Rozhodné právo
+Obě strany souhlasí s tím, že se interpretace a vymáhání všech práv, povinností a závazků Držitele licence i IBM,
+vyplývajících z této Smlouvy nebo se k ní nějakým způsobem vztahujících, bez ohledu na konflikt právních
+principů, řídí právními předpisy země, v níž Držitel licence zakoupil licenci na Program.
+Úmluva OSN o smlouvách o mezinárodní koupi zboží se neaplikuje.
+14.2 Jurisdikce
+Všechna práva, povinnosti a závazky budou podléhat rozhodnutím příslušných soudů země, v níž Držitel licence
+obdržel licenci na Program.
+
+Z125-3301-14
+
+39
+
+Část 2 – Podmínky specifické pro zemi
+Pro licence udělené v České republice platí, že níže uvedené podmínky nahrazují nebo mění podmínky uvedené
+v Části 1. Veškeré podmínky uvedené v Části 1, které nejsou tímto dodatkem dotčeny, zůstávají v plné platnosti v
+původním znění.
+DODATKY PRO ZEMĚ EVROPY, STŘEDNÍHO VÝCHODU A AFRIKY (EMEA)
+ČLENSKÉ STÁTY EVROPSKÉ UNIE
+8. Záruka a vyloučení záruky
+Níže uvedený text se přidává k oddílu 8 (Záruka a vyloučení záruky):
+Spotřebitelé z Evropské unie (″EU″) mají zákonná práva vyplývající z národní legislativy upravující prodej
+spotřebitelského zboží. Taková práva nejsou dotčena ustanoveními uvedenými v tomto oddílu 8 Záruka a
+Vyloučení záruky. Územní rozsah Omezené záruky je celosvětový.
+13. Všeobecná ustanovení
+Níže uvedený text nahrazuje bod 13.e:
+(1)
+
+(2)
+
+40
+
+Definice – Pro účely tohoto bodu 13.e se aplikují následující dodatečné definice:
+(a)
+
+Informace o obchodních kontaktech – kontaktní informace vztahující se k obchodním vztahům,
+které Držitel licence sdělí IBM, včetně jmen, funkcí, obchodních adres, telefonních čísel,
+e-mailových adres zaměstnanců a dodavatelů Držitele licence. Pro Rakousko, Itálii a Švýcarsko
+zahrnují Obchodní kontaktní informace rovněž údaje o Zákazníkovi a jeho dodavatelích jako
+právních subjektech (například údaje o příjmech Zákazníka a další transakční informace).
+
+(b)
+
+Obchodní kontakty – zaměstnanci a dodavatelé Držitele licence, jichž se týkají Informace o
+obchodních kontaktech.
+
+(c)
+
+Úřad na ochranu osobních údajů – úřad zřízený dle zákona o ochraně osobních údajů a zákona o
+elektronických komunikacích příslušné země nebo, u zemí, jež nejsou členy EU, úřad odpovědný za
+kontrolu ochrany osobních údajů v této zemi, nebo (pro kteroukoli z výše uvedených možností)
+řádně jmenovaný právní nástupce takového úřadu.
+
+(d)
+
+Právní předpisy na ochranu osobních údajů a o elektronických komunikacích – (i) příslušné
+místní právní předpisy a nařízení v platném znění, které implementují požadavky Směrnice
+Evropského parlamentu a Rady 95/46/ES (o ochraně fyzických osob v souvislosti se zpracováním
+osobních údajů a o volném pohybu těchto údajů) a Směrnice Evropského parlamentu a Rady
+2002/58/ES (o zpracování osobních údajů a ochraně soukromí v odvětví elektronických
+komunikací); nebo (ii) u zemí, jež nejsou členy EU, právní předpisy a/nebo nařízení schválená v
+příslušné zemi a týkající se ochrany osobních údajů a regulace elektronických komunikací, včetně
+(pro kteroukoli z výše uvedených možností) jakékoli jejich zákonné náhrady nebo změny.
+
+(e)
+
+Skupina IBM – společnost International Business Machines Corporation, Armonk, New York,
+USA, její dceřinné společnosti a jejich příslušní Obchodní partneři a subdodavatelé.
+
+Držitel licence opravňuje IBM:
+(a)
+
+ke zpracování a používání Informací o obchodních kontaktech v rámci Skupiny IBM pro účely
+poskytování podpory Držiteli licence, včetně poskytování služeb, a pro účely podporování
+obchodních vztahů mezi Držitelem licence a Skupinou IBM včetně, nikoli výhradně, kontaktování
+Obchodních kontaktů (e-mailem nebo jinak) a marketingu produktů a služeb Skupiny IBM
+(″Uvedený účel″); a
+
+(b)
+
+k zpřístupnění Informací o obchodních kontaktech v rámci Skupiny IBM pouze v souvislosti s
+Uvedeným účelem.
+
+Z125-3301-14
+
+(3)
+
+IBM se zavazuje zpracovávat Informace o obchodních kontaktech v souladu s platnými právními předpisy
+na ochranu osobních údajů a o elektronických komunikacích a užívat pouze pro Uvedený účel.
+
+(4)
+
+Držitel licence prohlašuje, že získal (nebo získá), a to v rozsahu, v jakém to požadují právní předpisy na
+ochranu osobních údajů a o elektronických komunikacích, příslušné souhlasy od Obchodních kontaktů,
+které patřičně o této skutečnosti informoval (nebo informuje), aby bylo Skupině IBM umožněno
+zpracovávat a užívat Informace o obchodních kontaktech za účelem komunikace s těmito kontakty, včetně
+komunikace emailem, a to v souladu s Uvedeným účelem.
+
+(5)
+
+Držitel licence souhlasí s tím, že IBM může přenášet Informace o obchodních kontaktech mimo oblast
+Evropského hospodářského prostoru za předpokladu, že takový přenos bude probíhat na základě
+smluvních podmínek schválených Úřadem na ochranu osobních údajů zajišujících odpovídající ochranu
+práv a svobod osob, kterých se tyto údaje týkají, nebo že takový přenos bude jinak povolen právními
+předpisy na ochranu osobních údajů a o elektronických komunikacích.
+
+Z125-3301-14
+
+41
+
+Príloha č. 6 k zmluve o prenájme licenčného softvérového vybavenia IBM
+
+Dohoda o všeobecných obchodných podmienkach IBM
+Na základe tejto Dohody o všeobecných obchodných podmienkach IBM (ďalej len „VOP“) môže Zákazník objednať
+Programy, Cloudové a iné Služby, Stroje a Zariadenia (spoločne „Produkty IBM“) a produkty a služby tretích strán
+(ďalej len „Non-IBM Produkty“) dostupné od IBM Slovensko, spol. s r.o. (ďalej len „IBM“). Podrobné informácie o
+produktoch, ponukách alebo objednávkach sú uvedené v Prílohách a Transakčných dokumentoch (ďalej len „TD“).
+Tieto VOP a príslušné Prílohy a TD tvoria úplnú zmluvu (ďalej len „Zmluva“), ktorej budú podliehať transakcie
+realizované na základe týchto VOP.
+
+Programy
+Program je počítačový program IBM a súvisiace materiály, na ktoré IBM poskytuje licenciu za úhradu. Podrobné
+informácie o programe sú uvedené v Prílohe s názvom Licenčné informácie (LI). Programy nezahŕňajú Strojový
+kód alebo Projektové materiály. Programy sú chránené autorskými právami a poskytujú sa na základe licencie
+(nepredávajú sa). Keď IBM akceptuje objednávku Programu, IBM udelí Zákazníkovi nevýhradnú licenciu na: a)
+používanie Programu maximálne v rozsahu udelených oprávnení a v súlade s Licenčnými informáciami Programu;
+b) vytváranie a inštaláciu kópií Programu na podporu takéhoto oprávneného používania a c) vytvorenie záložnej
+kópie. Programy môže používať Zákazník, oprávnení zamestnanci a dodávatelia Zákazníka, a to výhradne v rámci
+Spoločnosti Zákazníka, ale nikdy nie s cieľom poskytovať služby hostingu alebo zdieľania Programu s akoukoľvek
+treťou stranou. Zákazník nesmie udeľovať sublicencie, postúpiť alebo previesť licenciu na akýkoľvek Program. IBM
+môže Zákazníkovi po zaplatení ďalšieho poplatku alebo na základe iných podmienok udeliť ďalšie oprávnenia. IBM
+neudeľuje neobmedzené práva na používanie Programu a Zákazník neuhradil v plnej miere úplnú ekonomickú
+hodnotu Programu. Niektoré Programy môžu obsahovať kód tretích strán, licencia na ktorý sa poskytuje na základe
+samostatných zmlúv definovaných v Licenčných informáciách.
+Udelenie licencie pre Program je podmienené tým, že Zákazník:
+
+a. bude reprodukovať oznámenia o autorských právach a iné označenia,
+b. zabezpečí to, že iné osoby budú Program používať výhradne na oprávnené účely v spoločnosti
+Zákazníka a v súlade s licenciou,
+c. nebude spätne zostavovať, spätne kompilovať, prekladať alebo vykonávať postupy spätného
+inžinierstva pre Program a
+d. nebude používať žiadne súčasti Programu alebo súvisiace licenčné materiály oddelene od
+Programu.
+Metriky, ktoré sa vzťahujú na licenciu pre Program, sú definované v Prílohe alebo TD. Všetky licencie založené na
+serverových metrikách alebo kapacitných metrikách sa musia získať pre plnú kapacitu servera, na ktorom je
+Program nainštalovaný, pokiaľ IBM neposkytuje možnosť subkapacitného využívania a Zákazník dodrží príslušné
+subkapacitné požiadavky.
+
+Služby – Cloudové služby
+Cloudová služba je ponuka IBM hostovaná alebo spravovaná IBM a je sprístupnená prostredníctvom siete. Každá
+Cloudová služba je popísaná v Prílohe alebo TD s názvom Popis služby. Cloudové služby sú navrhnuté pre
+nepretržitú dostupnosť okrem času údržby. Zákazník bude informovaný o plánovanej údržbe. Technická podpora
+a záväzky týkajúce sa úrovne poskytovaných služieb, ak sa uplatňujú, sú uvedené v Prílohe alebo TD.
+Keď IBM akceptuje objednávku Zákazníka, IBM poskytuje Zákazníkovi oprávnenia uvedené v TD. Trvanie, vrátane
+akéhokoľvek obnoveného obdobia, pre Cloudovú službu je popísané v Prílohe alebo TD.
+IBM poskytne vybavenie, personál, zariadenie, softvér a ďalšie zdroje potrebné na poskytovanie Cloudových
+služieb a všeobecne dostupné používateľské príručky a dokumentáciu na podporu Zákazníka v jeho užívaní
+Cloudovej služby. Zákazník poskytne hardvér, softvér a pripojenie na prístup a používanie Cloudovej služby,
+vrátane akýchkoľvek požadovaných adries URL špecifických pre Zákazníka a súvisiacich certifikátov. Príloha alebo
+TD môžu mať ďalšie povinnosti Zákazníka.
+Zákazník môže ku Cloudovej službe pristupovať iba v rozsahu oprávnení, ktoré Zákazník zakúpil. Za používanie
+Cloudových služieb akýmkoľvek užívateľom, ktorý ku Cloudovej službe získa prístup s použitím prihlasovacích
+údajov Zákazníka, bude niesť zodpovednosť Zákazník. Cloudová služba sa v žiadnej jurisdikcii nesmie používať
+na ukladanie nezákonného, obscénneho, urážlivého alebo podvodného obsahu alebo na činnosť, napríklad s
+cieľom napomôcť pri spôsobovaní škody alebo spôsobiť škodu, zmeniť alebo narušiť integritu alebo bezpečnosť
+siete alebo systému, obísť filtre, posielať nevyžiadané, hanlivé alebo podvodné správy, vírusy a škodlivý kód alebo
+porušiť práva tretích strán. V prípade sťažnosti alebo oznámenia o porušení povinností sa môže pozastaviť prístup,
+kým sa problém nevyrieši, alebo, ak sa problém bezodkladne nevyrieši, poskytovanie služby sa môže ukončiť.
+Pokiaľ v TD nie je výslovne uvedené inak, Zákazník nemá právo používať Cloudovú službu s cieľom poskytovať
+služby hostingu alebo zdieľania Služby s akoukoľvek treťou stranou. Ochrana údajov pre Cloudové služby
+Všetky Cloudové služby sú navrhnuté so zreteľom na ochranu obsahu, ktorý Zákazník vkladá do Cloudovej služby.
+Okrem údajov o účte je Zákazník jediným prevádzkovateľom všetkých osobných údajov zahrnutých do obsahu
+a poverí IBM ako sprostredkovateľa spracúvaním takýchto osobných údajov (ako je definované v smernici EÚ 95/46
+/ ES). Pokiaľ v Prílohe alebo TD nie je uvedené inak, IBM bude zaobchádzať s obsahom ako dôverným tak, že
+nezverejní obsah iným ako svojim zamestnancom a zmluvným dodávateľom na použitie len v rozsahu potrebnom
+
+pre poskytovanie Cloudovej služby. IBM po ukončení alebo zrušení poskytovania Cloudovej služby, alebo skôr na
+žiadosť Zákazníka, ho vráti alebo zničí. IBM si môže účtovať poplatky za niektoré činnosti vykonané na žiadosť
+Zákazníka (napríklad poskytnutie obsahu v špecifickom formáte. Obsah nie je predmetom žiadnej osobitnej dohody
+o mlčanlivosti medzi stranami.
+Príloha alebo TD pre každú Cloudovú službu popisuje bezpečnostné funkcie a vlastnosti Cloudových služieb.
+Používaním Cloudovej služby Zákazník potvrdzuje, že spĺňa požiadavky Zákazníka a pokyny na spracúvanie. IBM
+oznámi Zákazníkovi neoprávnený prístup tretej strany k obsahu Zákazníka, o ktorom IBM získa vedomosť, a vyvinie
+primeranú snahu s cieľom odstrániť zistené bezpečnostné nedostatky. V prípade straty alebo poškodenia obsahu
+Zákazníka IBM poskytne Zákazníkovi súčinnosť pri jeho obnove v Cloudovej službe z poslednej záložnej kópie
+Zákazníka v kompatibilnom formáte.
+IBM môže na poskytovanie Cloudových služieb používať sprostredkovateľov a sub-sprostredkovateľov (vrátane
+personálu a prostriedkov) v lokalitách po celom svete. IBM môže preniesť osobné údaje Zákazníka do zahraničia,
+a to aj mimo Európskeho hospodárskeho priestoru (EHP). Zoznam krajín, v ktorých sa môže obsah spracúvať v
+rámci Cloudovej služby, je k dispozícii na adrese http://www.ibm.com/cloud/datacenters alebo uvedený v prílohe
+alebo TD. Zoznam subdodávateľov je k dispozícii na požiadanie.
+Na žiadosť ktorejkoľvek zmluvnej strany IBM, Zákazník alebo ich pridružené spoločnosti uzavrú ďalšie zmluvy v
+záujme ochrany osobných údajov zahrnutých v obsahu, ktoré sú vyžadované platnými právnymi predpismi, ako je
+napríklad štandardná nepozmenená zmluva s Modelovými klauzulami EÚ v zmysle Rozhodnutia Európskej Komisie
+2010/87/EÚ, pričom nepovinné klauzuly budú odstránené. Zmluvné strany súhlasia s tým (a taktiež zabezpečia
+súhlas príslušných pridružených spoločností), že tieto ďalšie zmluvy budú podliehať ustanoveniam Zmluvy.
+IBM, jej pridružené spoločnosti a ich zmluvní dodávatelia môžu spracúvať, ukladať a používať údaje kont vo
+všetkých krajinách, v ktorých pôsobia, s cieľom umožniť používanie funkcií produktu, spravovať používanie,
+prispôsobiť rozhranie a iným spôsobom podporovať alebo zlepšovať použiteľnosť Cloudovej služby. Za údaje kont
+sa považujú všetky informácie ( uvedené v Prílohe alebo TD) o Zákazníkovi alebo jeho užívateľoch, ktoré budú
+poskytnuté alebo zhromaždené IBM (vrátane informácií získaných prostredníctvom technológií sledovania a iných
+technológií, napríklad objektov cookie), ktoré budú spracúvané v súlade s Vyhlásením o online ochrane osobných
+údajov IBM, ktoré je k dispozícii na adrese http://www.ibm.com/privacy/details/sk/sk/.
+Zmeny Cloudových služieb
+IBM môže upraviť Cloudovú službu, avšak bez obmedzenia jeho funkčnosti alebo bezpečnostných funkcií.
+Akékoľvek zmeny, ktoré ovplyvnia komerčné aspekty Cloudovej služby (napríklad výšku poplatkov), vstúpia do
+platnosti až po ďalšom dohodnutom obnovení alebo predĺžení poskytovania služby.
+IBM môže ukončiť poskytovanie Cloudovej služby, musí však túto skutočnosť oznámiť 12 mesiacov vopred, pokiaľ
+v Prílohe alebo TD nie je uvedené inak. IBM môže pokračovať v poskytovaní Cloudovej služby po zvyšok
+aktuálneho obdobia Zákazníka, alebo v spolupráci so Zákazníkom vykonať migráciu do inej Služby IBM.
+Pozastavenie Cloudových služieb
+V prípade, že IBM zistí závažné porušenie záväzkov Zákazníka, narušenie bezpečnosti alebo porušenie právnych
+predpisov, IBM je oprávnená pozastaviť, zrušiť alebo obmedziť prístup Zákazníka ku Cloudovej službe. Pri každom
+z týchto prerušení služby Cloud Service budú naďalej plynúť poplatky za Službu. Ak je príčinu pozastavenia
+poskytovania Cloudovej služby možné odstrániť pri primeranej snahe, IBM oznámi Zákazníkovi kroky, ktoré musí
+vykonať, aby sa mohla znova poskytovať Cloudová služba. Ak Zákazník nevykoná tieto kroky v primeranom
+termíne, IBM môže vypovedať Cloudovú službu.
+
+Služby – Iné služby
+IBM poskytuje služby poradenstva, inštalácie, prispôsobenia a konfigurácie, údržby a iné služby, ako je uvedené v
+Prílohe alebo TD. Vlastníkom autorských práv k autorskému dielu, ktoré IBM vyvinie pre Zákazníka v rámci Popisu
+služieb, bude Zákazník (ďalej len „Projektové materiály“). Projektové materiály nezahŕňajú autorské diela
+poskytnuté Zákazníkovi, ktoré však neboli vytvorené v rámci Popisu prác, ani žiadne úpravy alebo vylepšenia
+týchto diel vykonané v rámci Popisu prác (ďalej len „Existujúce diela“). Niektoré existujúce diela podliehajú
+samostatnej licenčnej zmluve (ďalej len „Existujúce licencované diela“). Program je príkladom Existujúceho
+licencovaného diela a riadi sa podmienkami Programu. IBM udeľuje Zákazníkovi neodvolateľnú (podlieha
+uhradeniu príslušných poplatkov zo strany Zákazníka), nevýhradnú, celosvetovú licenciu na používanie, spúšťanie,
+reprodukciu, zobrazovanie, vykonávanie, prípravu a vytváranie odvodených diel od Existujúcich diel, ktoré nie sú
+Existujúcimi licencovanými dielami. IBM si ponechá neodvolateľnú, nevýhradnú, celosvetovú, plne uhradenú
+licenciu na používanie, spúšťanie, reprodukciu, zobrazovanie, vykonávanie, sublicencovanie, distribúciu a
+vytváranie odvodených diel od Projektových materiálov.
+Službu môže ukončiť ktorákoľvek zo zmluvných strán, ak v primeranej lehote nedôjde k náprave podstatného
+porušenia povinností v súvislosti so Službou. IBM oznámi ukončenie poskytovania Služby minimálne 90 dní vopred.
+Zákazník uhradí poplatky za Služby poskytnuté do dátumu účinnosti ukončenia. V prípade, ak Zákazník ukončí
+Službu bez uvedenia dôvodu alebo IBM Službu ukončí z dôvodu porušenia zmluvných záväzkov zo strany
+Zákazníka, Zákazník splní všetky svoje záväzky v oblasti minimálneho odberu a uhradí poplatky za predčasné
+ukončenie alebo zmenu definované v Popise prác alebo TD, ako aj všetky ďalšie náklady, ktoré IBM primerane
+vzniknú v dôsledku predčasného ukončenia, ako sú napríklad náklady súvisiace so subdodávateľskými zmluvami
+alebo relokáciou. IBM vykoná primerané kroky na minimalizáciu týchto ďalších nákladov.
+
+Stroje a Zariadenia
+Stroj je zariadenie IBM vrátane všetkých súčastí, rozšírení a príslušenstva. Zariadenie je kombinácia Programu
+a Stroja určená na vykonávanie konkrétnej funkcie. Pokiaľ nie je určené inak, podmienky, ktoré sa vzťahujú na
+Program, sa vzťahujú na Programovú súčasť Zariadenia a podmienky, ktoré sa vzťahujú na Stroj, sa vzťahujú na
+Strojovú súčasť Zariadenia. Zákazník nesmie používať alebo previesť Programovú súčasť Zariadenia oddelene od
+Zariadenia.
+Keď IBM akceptuje objednávku zo strany Zákazníka, IBM prevedie vlastníctvo k Strojom a strojom
+nepochádzajúcim od IBM na Zákazníka alebo prenajímateľa Zákazníka po prijatí všetkých splatných čiastok, s
+výnimkou Spojených štátov, kde vlastníctvo prechádza pri odoslaní. IBM znáša nebezpečenstvo škody do dodania
+Stroja prepravcovi za účelom odoslania. IBM znáša náklady na poistenie Stroja za Zákazníka do dodania do miesta
+Zákazníka. Zákazník je povinný písomne ohlásiť akékoľvek škody IBM do 10 pracovných dní od dodania Stroja a
+postupovať podľa reklamačného poriadku. Ďalšie poplatky sa môžu vzťahovať na IBM inštaláciu Stroja. viac ako
+šesť mesiacov od odoslania Stroja. Pri inštalácii Strojov konfigurovaných Zákazníkom musí Zákazník postupovať
+podľa poskytnutých pokynov.
+Stroje a ich diely, ktoré boli odstránené alebo vymenené v rámci upgradu, záručného servisu alebo údržby, sú
+majetkom IBM a Zákazník je povinný ich bezodkladne vrátiť IBM. Na náhradný diel prechádza záručný stav alebo
+servisný status nahradeného diela. Stroj môže obsahovať diely, ktoré nie sú nové a v niektorých prípadoch mohli
+byť Stroje už v minulosti nainštalované. Bez ohľadu na túto skutočnosť sa budú uplatňovať záručné podmienky
+IBM. Zákazník je povinný bezodkladne nainštalovať všetky povinné technické zmeny, prípadne umožniť, aby ich
+nainštalovala IBM. Zákazník môže zakúpiť Stroje iba na použitie v Spoločnosti Zákazníka v západnej Európe, nie
+na ďalší predaj, prenájom alebo prevod mimo západnej Európy. Na účely tohto odseku znamená západná Európa
+členské štáty Európskej únie a Andorra, Island, Lichtenštajnsko, Monako, Nórsko, San Maríno, Švajčiarsko a
+Vatikánsky štát. Financovanie nájomného späť je povolené. Financovanie prostredníctvom spätného lízingu je
+dovolené.
+
+Strojový kód a Vstavaná kapacita
+Stroje môžu obsahovať Strojový kód a Vstavanú kapacitu. Strojový kód predstavuje počítačové inštrukcie,
+opravy, náhrady a súvisiace materiály, ako sú údaje a heslá, ktoré sú poskytované alebo generované Strojovým
+kódom, sú od neho závislé alebo s ním používané, ktoré umožňujú prevádzku procesorov, úložných systémov a
+iných funkcií Stroja. Strojový kód je chránený autorskými právami a poskytuje sa na základe licencie (nepredáva
+sa). IBM poskytuje kópie, opravy a náhrady Strojového kódu iba pre Stroje v záručnej dobe alebo Stroje, na ktoré
+sa vzťahuje zmluva o údržbe IBM, alebo na základe samostatnej písomnej zmluvy, s ktorou môžu byť spojené
+ďalšie poplatky. Zákazník súhlasí s tým, že všetky kópie, opravy alebo náhrady Strojového kódu bude nadobúdať
+iba spôsobom autorizovaným IBM. IBM udeľuje Zákazníkovi nevýhradnú licenciu na používanie Strojového kódu
+iba (i) na Stroji, pre ktorý ho IBM poskytla, a (ii) na účely prístupu a používania Vstavanej kapacity iba v rozsahu
+uhradenom Zákazníkom a aktivovanom IBM v súlade s Prílohou s názvom IBM Authorized Use Table for Machines
+(AUT),
+ktorá
+je
+dostupná
+u IBM
+a
+na
+adrese:
+http://www.ibm.com/systems/support/machine_warranties/machine_code/aut.html. Vstavaná kapacita predstavuje
+výpočtové prostriedky (ako sú procesory, úložné systémy a iné funkcie), ktoré IBM poskytuje pre Stroj. Využívanie
+Vstavanej kapacity môže byť obmedzené zmluvne, ako aj prostredníctvom technologických a iných prostriedkov.
+Zákazník súhlasí s implementáciou technologických a iných prostriedkov, ktoré obmedzujú, monitorujú a nahlasujú
+využívanie Vstavanej kapacity alebo Strojového kódu, zo strany IBM a s inštaláciou všetkých ich zmien
+poskytnutých IBM. Zákazník nesmie upravovať, spätne zostavovať, spätne kompilovať a prekladať Strojový kód
+alebo vykonávať postupy spätného inžinierstva so Strojovým kódom alebo obchádzať alebo ľubovoľným spôsobom
+upravovať zmluvné, technologické a iné prostriedky IBM obmedzujúce, monitorujúce alebo vykazujúce používanie
+Vstavanej kapacity alebo Strojového kódu. Pokiaľ je licencia Zákazníka pre Strojový kód platná, Zákazník môže
+previesť vlastníctvo celého Strojového kódu spolu so všetkými právami a povinnosťami Zákazníka, iba zároveň s
+prevodom zodpovedajúceho Stroja a vytlačenú kópiu tejto licencie na Strojový kód a iba ak príjemca licencie
+súhlasí s podmienkami tejto licencie na Strojový kód. Licencia na Strojový kód Zákazníka sa po prevode okamžite
+ukončí. Táto Zmluva sa vzťahuje na Strojový kód a Vstavanú kapacitu Strojov zakúpených od tretích strán.
+Využívanie Vstavanej kapacity nad rámec oprávnení udelených IBM podlieha ďalším poplatkom.
+
+Záruky a pozáručná podpora
+IBM zaručuje, že Programy používané v určenom operačnom prostredí zodpovedajú svojim oficiálne
+publikovaným špecifikáciám. Záručná doba pre Program (nie Programovú súčasť Stroja) je jeden rok alebo trvanie
+úvodného licenčného obdobia, ak je kratšie ako jeden rok, pokiaľ v Prílohe alebo TD nie je uvedené inak. Počas
+záručnej doby Programu bude IBM poskytovať službu Registrácie a podpory pre Program (S&S), na základe ktorej
+bude mať Zákazník získavať informácie o oprave chýb, obmedzeniach, možných spôsoboch obídenia problémov
+a o nových vydaniach a verziách, ktoré IBM všeobecne sprístupní. Pokiaľ sa Zákazník nerozhodne zrušiť službu
+S&S, služba S&S sa bude každoročne automaticky obnovovať pri aktuálnych cenách služby, pokiaľ sa verzia alebo
+vydanie S&S nestiahne z trhu. Ak sa Zákazník rozhodne pokračovať vo využívaní služby S&S pre Program v
+určenej lokalite Zákazníka, Zákazník musí získať službu S&S na všetky použitia a inštalácie Programu v danej
+lokalite.
+IBM zaručuje, že Cloudové a iné služby bude poskytovať s vynaložením primeranej odbornej starostlivosti a znalosti
+v súlade s príslušnou Prílohou alebo TD vrátane kritérií dokončenia a že Projektové materiály budú v čase
+doručenia v súlade s Prílohou alebo TD. Záručná doba Služby končí dňom ukončenia poskytovania Služby.
+IBM zaručuje, že Stroje používané v určenom operačnom prostredí zodpovedajú svojim oficiálne publikovaným
+špecifikáciám. Záručná doba Stroja alebo Zariadenia je uvedená v Prílohe alebo TD. Počas záručnej doby IBM
+
+bezplatne opraví alebo vymení Stroj, ako je uvedené v Prílohe. Záruka sa nevzťahuje na Stroje, ktoré Zákazník
+neumožnil IBM inštalovať podľa požiadaviek TD. Zákazník si môže zakúpiť rozšírenia záručných služieb a
+pozáručnú podporu, ak je k dispozícii. V prípade Zariadení bude pozáručná podpora zahŕňať služby údržby a služby
+Registrácie a podpory. Záruka na Stroje zakúpené v Západnej Európe sa vzťahuje na všetky krajiny Západnej
+Európy za predpokladu, že tieto Stroje boli uvedené a sprístupnené v týchto krajinách. Na účely tohto odseku pojem
+„Západná Európa“ znamenať členské štáty Európskej únie a nasledujúce štáty: Andorra, Island, Lichtenštajnsko,
+Monako, Nórsko, San Maríno, Švajčiarsko a Svätá stolica (Vatikánsky mestský štát).
+Ak počas záručnej doby Stroj alebo Program nefunguje v súlade so špecifikáciami a IBM nie je schopná opraviť
+alebo nahradiť ho funkčne ekvivalentným produktom, Zákazník ho môže vrátiť IBM, pričom IBM refunduje sumu
+zaplatenú Zákazníkom (v prípade pravidelných platieb maximálne do výšky platieb za dvanásť mesiacov) a licencia
+alebo právo Zákazníka na jeho používanie týmto zanikne.
+IBM nezaručuje, že prevádzka Produktu IBM bude neprerušovaná alebo bez chýb, alebo že IBM opraví
+všetky chyby, zabráni narušeniam prevádzky tretími stranami a zabráni tretím stranám v neoprávnenom
+prístupe k Produktu IBM. Tieto záruky predstavujú výlučné záruky zo strany IBM a nahrádzajú všetky ďalšie
+záruky, vrátane konkludentných záruk alebo predpokladov uspokojivej kvality, predajnosti, neporušenia
+práv a vhodnosti na určitý účel. Záruky IBM sa nebudú uplatňovať v prípade zneužitia, úpravy alebo
+poškodenia, ktoré nespôsobila IBM, nedodržania pokynov poskytnutých IBM, alebo ak je v Prílohe alebo
+TD uvedené inak. Non-IBM Produkty sa predávajú na základe Zmluvy „ako sú“ bez záruky akéhokoľvek
+druhu. Strany týmto vylučujú akúkoľvek zodpovednosť IBM za chyby nad rámec dohodnutých záruk. Tretie
+strany môžu Zákazníkovi poskytovať svoje vlastné záruky.
+
+Poplatky, dane, platby a overovanie
+Zákazník súhlasí s tým, že uhradí príslušné poplatky určené IBM, poplatky za využívanie služby nad rámec
+udelených oprávnení, všetky colné poplatky, dane, odvody alebo poplatky uložené akýmikoľvek orgánmi,
+vyplývajúce zo zakúpenia produktov Zákazníkom na základe tejto Zmluvy, vrátane všetkých poplatkov z
+omeškania. Všetky sumy sú splatné po prijatí faktúry do 30 dní od dátumu fakturácie na účet určený IBM.
+Predplatené Služby sa musia využiť počas príslušného obdobia. IBM neudeľuje žiadne dobropisy ani nerefunduje
+predplatené jednorazové poplatky alebo už splatné alebo splatené poplatky.
+Zákazník súhlasí s tým, že: i) uhradí zrážkovú daň priamo príslušnému orgánu, pokiaľ to vyžadujú platné právne
+predpisy, ii) získa potvrdenie o uhradení dane, prostredníctvom ktorého IBM dokáže jej uhradenie, iii) IBM uhradí
+iba čistú sumu po zdanení a iv) bude v plnej miere spolupracovať s IBM pri hľadaní spôsobu, ako eliminovať alebo
+znížiť takéto dane a bezodkladne vyplní a poskytne relevantné dokumenty.
+IBM môže zmeniť pravidelné poplatky, cenu práce a minimálne poskytované množstvá, pričom túto zmenu musí
+oznámiť aspoň tri mesiace vopred. Zmena sa uplatní v deň fakturácie alebo prvý deň spoplatneného obdobia od
+dátumu platnosti, ktorý IBM uvedie v oznámení. IBM môže zmeniť jednorazové platby bez predchádzajúceho
+upozornenia. Zmena jednorazových poplatkov sa nebude vzťahovať na objednávku, ak i) IBM prijme objednávku
+pred dátumom oznámenia zvýšenia a ii) IBM doručí alebo sprístupní Zákazníkovi produkt do troch mesiacov od
+prijatia objednávky.
+Zákazník i) bude uchovávať a na požiadanie poskytne záznamy, výstupy zo systémových nástrojov a prístup do
+objektov Zákazníka v miere potrebnej na to, aby IBM a jej nezávislý audítor mohli overiť dodržiavanie Zmluvy zo
+strany Zákazníka vrátane licencií na Strojový kód a Program a metrík, ako napríklad subkapacitné používanie, a ii)
+bezodkladne objedná a uhradí všetky vyžadované oprávnenia (vrátane súvisiacej služby S&S a služby údržby) pri
+sadzbách IBM platných v tom čase, ako aj všetky poplatky a ďalšie finančné záväzky zistené pri takomto overovaní
+na základe faktúry vystavenej IBM. Tieto záväzky týkajúce sa dodržiavania súladu s nariadeniami sa budú
+uplatňovať počas doby platnosti Zmluvy a dva roky po jej ukončení.
+
+Zodpovednosť a náhrada škody
+Celková zodpovednosť IBM v prípade akýchkoľvek nárokov vzniknutých v súvislosti so Zmluvou
+nepresiahne sumu zodpovedajúcu skutočnej priamej škode vzniknutej Zákazníkovi, maximálne do výšky
+sumy zaplatenej za produkt alebo službu, ktoré sú predmetom nároku, a to bez ohľadu na právny základ
+nároku (v prípade opakovaných platieb do výšky platieb za 12 mesiacov).
+S prihliadnutím na ustanovenie § 379 Obchodného zákonníka, zákon č. 513/1991 Zb. v znení neskorších
+predpisov, obe zmluvné strany konštatujú vzhľadom na všetky okolnosti súvisiace s uzatvorením Zmluvy,
+že úhrnná predvídateľná škoda, ktorá by mohla vzniknúť, neprekročí čiastky uvedené v predchádzajúcom
+odseku, a že sa jedná o maximum, za ktoré bude IBM zodpovedná. Toto obmedzenie sa vzťahuje kolektívne
+na IBM, jej spriaznené spoločnosti, zmluvných partnerov a dodávateľov. IBM nenesie zodpovednosť za
+zvláštne, náhodné, exemplárne, nepriame alebo následné ekonomické škody alebo ušlý zisk, stratu
+obchodných príležitostí, hodnoty, výnosov, dobrého mena alebo očakávaných úspor.
+Vyššie uvedené obmedzenie náhrady škody sa nevzťahuje na nasledovné čiastky, ak je za nezmluvná strana
+právne zodpovedná: i) platby hradené tretím stranám, ktoré sú uvedené v nasledujúcom odseku, ii) náhradu škody
+na zdraví (vrátane usmrtenia), iii) náhradu škody na nehnuteľnom a hmotnom osobnom majetku a iv) náhradu
+škody, ktorej výška nemôže byť podľa príslušných právnych predpisov obmedzená.
+V prípade, ak tretia strana uplatní voči Zákazníkovi nárok z dôvodu, že Produkt IBM, ktorý Zákazník zakúpil na
+základe Zmluvy, porušuje práva k patentu alebo autorské práva, IBM bude hájiť Zákazníka proti takému nároku a
+uhradí sumu priznanú súdom alebo určenú v mimosúdnom urovnaní schválenom IBM, a to za predpokladu u, že
+Zákazník bezodkladne (i) písomne oznámi IBM uplatnenie takého nároku, (ii) poskytne informácie požadované IBM
+
+a (iii) umožní IBM viesť obhajobu a súvisiace rokovanie o urovnaní, pričom poskytne primeranú súčinnosť, vrátane
+snahy o zmiernenie následkov (výšky odškodnenia).
+IBM nenesie žiadnu zodpovednosť za nároky sčasti alebo úplne súvisiace s Produktmi nepochádzajúcimi od IBM
+(Non-IBM Produkty), položkami neposkytnutými IBM alebo porušením akéhokoľvek právneho predpisu alebo práv
+tretích strán, spôsobeným obsahom, materiálmi, návrhmi a špecifikáciami Zákazníka alebo v dôsledku používania
+neaktuálnej verzie alebo vydania Produktu IBM v prípade, že použitím aktuálnej verzie alebo vydania by sa mohlo
+vyhnúť nárokom v dôsledku porušenia práv.
+Ukončenie
+Ktorákoľvek zo zmluvných strán je oprávnená ukončiť tieto VOP: i) bez uvedenia dôvodu na základe písomnej
+výpovede doručenej druhej strane minimálne jeden mesiac po uplynutí trvania alebo ukončení svojich záväzkov
+vyplývajúcich zo t Zmluvy, alebo ii) okamžite s uvedením dôvodu, pokiaľ druhá strana podstatným spôsobom
+porušuje Zmluvu, za predpokladu, že porušujúca strana bola písomne upozornená na túto skutočnosť a bol jej
+stanovený primeraný čas na nápravu. Neuhradenie splatnej ceny sa považuje za podstatné porušenie Zmluvy.
+Ustanovenia, ktoré svojou povahou presahujú platnosť Zmluvy, zostanú v platnosti do ich splnenia a vzťahujú sa
+aj na právnych nástupcov a postupníkov. Skončením platnosti týchto VOP sa nekončí platnosť TD a ustanovenia
+týchto VOP a jej Príloh zostanú v platnosti v rozsahu, v akom súvisia s týmito TD, až kým nebude naplnený ich účel
+alebo nebudú ukončené podľa v nich uvedených podmienok. IBM je oprávnená ukončiť licenciu Zákazníka na
+používanie Programu alebo Strojového kódu, ak Zákazník nebude dodržiavať ustanovenia Zmluvy. Po ukončení
+licencie ktoroukoľvek stranou Zákazník bezodkladne zničí všetky kópie Programu alebo Strojového kódu.
+
+Rozhodné právo a geografický rozsah
+Každá zo zmluvných strán bude povinná dodržiavať: i) právne predpisy a nariadenia vzťahujúce sa na obchodné
+operácie a obsah a ii) právne predpisy a nariadenia týkajúce sa dovozu, vývozu a ekonomických sankcií vrátane
+tých právnych predpisov USA, ktoré zakazujú alebo obmedzujú vývoz, opätovný vývoz alebo prevod produktov,
+technológií, služieb alebo údajov, či už priamo alebo nepriamo, do niektorých krajín, na niektoré koncové použitia
+a niektorým koncovým užívateľom alebo v ich prospech. Za používanie produktov IBM alebo produktov
+nepochádzajúcich od IBM Zákazníkom bude niesť zodpovednosť Zákazník. Všetky spory budú rozhodnuté
+príslušným súdom Slovenskej republiky.
+Obe zmluvné strany súhlasia s tým, že Zmluva bude podliehať právnym predpisom krajiny, v ktorej sa tieto
+transakcie uskutočňujú (alebo pre Cloudové služby, zákony krajiny, v ktorej sídli Zákazník), bez ohľadu na normy
+určujúce rozhodné právo. Práva a povinnosti každej zmluvnej strany sú platné iba v krajine, v ktorej sa uskutočňuje
+transakcia, alebo, v prípade súhlasu IBM, v krajine, v ktorej sa produkt produktívne používa, a to okrem licencií,
+ktoré platia v rozsahu, v akom boli udelené. V prípade, ak by niektoré ustanovenie Zmluvy bolo považované za
+neplatné alebo nevymáhateľné, zvyšné ustanovenia zostanú v plnej platnosti. Zákonné práva spotrebiteľov, ktoré
+nie je možné zmluvne obmedziť alebo vylúčiť, nie sú touto Zmluvou dotknuté. Dohovor OSN o zmluvách o
+medzinárodnej kúpe tovaru sa na transakcie uskutočnené na základe Zmluvy neaplikuje.
+
+Všeobecné ustanovenia
+Zmluvné strany nebudú sprístupňovať dôverné informácie, pokiaľ neexistuje samostatná podpísaná
+zmluva o ochrane dôverných informácií. Ak sa v súvislosti so Zmluvou vymieňajú dôverné informácie,
+súčasťou týchto VOP sa stane príslušná zmluva o ochrane dôverných informácií a bude jej podliehať.
+Zákazník vyjadruje súhlas s Prílohou alebo TD objednaním, registráciou, používaním alebo uhradením
+produktu, ponuky alebo služby. Keďže sa tieto VOP môžu vzťahovať na mnoho budúcich objednávok,
+IBM môže tieto VOP meniť , pričom o tejto skutočnosti bude Zákazníka písomne informovať aspoň tri
+mesiace vopred. Zmeny nie sú retroaktívne, budú sa vzťahovať odo dňa účinnosti iba na nové
+objednávky, prebiehajúce služby, ktoré neexpirujú a obnovenia. V prípade transakcií s definovaným
+obnoviteľným zmluvným obdobím môže Zákazník požiadať IBM o odklad dátumu účinnosti do
+skončenia aktuálneho zmluvného obdobia. Zákazník vyjadrí súhlas so zmenami odoslaním nových
+objednávok alebo pokračovaním používania po dátume nadobudnutia účinnosti týchto zmien alebo
+povolením obnovenia transakcií po doručení oznámenia o zmene. Okrem situácií definovaných vyššie
+musia byť všetky zmeny Zmluvy písomné a musia byť akceptované obomi zmluvnými stranami. V
+prípade nesúladu majú ustanovenia Prílohy alebo TD prednosť pred ustanoveniami tejto Zmluvy.
+IBM je nezávislým dodávateľom, nie je zástupcom Zákazníka, účastníkom spoločného podniku,
+partnerom alebo zmocnencom Zákazníka, nezaväzuje sa plniť žiadne zo zákonných povinností
+Zákazníka a nebude niesť zodpovednosť za podnikanie alebo obchodné operácie Zákazníka. Každá
+zmluvná strana je zodpovedná za určenie úloh svojho personálu a zmluvných partnerov, ako aj ich
+usmernenie, riadenie a finančnú kompenzáciu.
+IBM udržiava rozsiahly súbor pravidiel správania v obchodnom styku a súvisiacich usmernení
+pokrývajúci konflikt záujmov, zneužívanie trhu, boj s úplatkárstvom, korupciou a podvodmi. IBM a jej
+personál dodržiavajú tieto pravidlá a vyžadujú, aby zmluvní partneri mali podobné pravidlá.
+IBM Business Partneri sú nezávislí od IBM a svoje ceny a podmienky stanovujú samostatne. IBM
+nenesie zodpovednosť za ich kroky, omeškania, vyhlásenia alebo ponuky.
+
+Zákazník je zodpovedný za získanie všetkých potrebných súhlasov na používanie, poskytovanie,
+uchovávanie a spracovanie obsahu v rámci Cloudových alebo iných služieb, ako aj v rámci služieb
+údržby a podpory Programu a udelí IBM oprávnenie na vykonávanie týchto úloh. Za adekvátne
+zálohovanie obsahu je zodpovedný Zákazník. Obsah Zákazníka môže podliehať vládnym nariadeniam
+alebo sa môžu vyžadovať bezpečnostné opatrenia nad rámec opatrení definovaných IBM pre ponuku.
+Zákazník nezadá ani neposkytne takýto obsah, pokiaľ IBM najskôr písomne nevyjadrí súhlas s
+implementáciou ďalších potrebných bezpečnostných opatrení.
+IBM, jej pridružené spoločnosti a jej zmluvní dodávatelia môžu spracúvať a uchovávať obchodné
+kontaktné informácie pracovníkov Zákazníka v súvislosti s plnením tejto Zmluvy vo všetkých krajinách,
+v ktorých pôsobia. IBM bude dodržiavať požiadavky týkajúce sa prístupu k takýmto kontaktným
+informáciám, ich aktualizácie alebo odstránenia. IBM môže na účely podpory poskytovania produktov a
+služieb využívať personál a prostriedky v krajinách po celom svete a služby externých dodávateľov.
+Žiadna zo zmluvných strán nesmie postúpiť Zmluvu, či už ako celok alebo jej časť, bez
+predchádzajúceho písomného súhlasu druhej strany. Postúpenie práv IBM týkajúcich sa peňažných
+pohľadávok IBM a v prípade predaja časti svojich obchodných operácií zahŕňajúcich produkt alebo
+službu nie je obmedzené.
+Zmluva sa vzťahuje na IBM a Zákazníka (podpisujúce strany) a na príslušné Spoločnosti zo skupiny
+spoločností, na ktoré sa vzťahuje Zmluva. Podpisujúce strany budú koordinovať aktivity Spoločností zo
+skupiny spoločností v súlade so Zmluvou. Spoločnosti zo skupiny spoločností zahŕňajú (i) spoločnosti
+pôsobiace v tej istej krajine, ktoré sú pod kontrolou Zákazníka alebo IBM (Zákazník alebo IBM vlastnia
+viac ako 50 % akcií s hlasovacím právom) a (ii) akýkoľvek iný právny subjekt, pod ktorého kontrolou je
+Zákazník alebo IBM, ktorý je pod kontrolou Zákazníka alebo IBM alebo je pod spoločnou kontrolou so
+Zákazníkom alebo IBM a podpísal Prílohu o pristúpení k Zmluve.
+Všetky oznámenia na základe Zmluvy musia byť písomné a musia byť doručené na adresu uvedenú
+nižšie, pokiaľ niektorá zo zmluvných strán písomne neurčí inú adresu. Zmluvné strany vyjadrujú súhlas
+s tým, že komunikácie realizované prostredníctvom elektronických prostriedkov a faxové prenosy
+komunikácií sa budú považovať za podpísané dokumenty. Akákoľvek reprodukcia tejto Zmluvy
+vytvorená dôveryhodným spôsobom sa bude považovať za originál Zmluvy. Táto Zmluva nahrádza
+všetky dohody, diskusie a prehlásenia medzi zmluvnými stranami.
+Táto Zmluva, ani žiadna transakcia vykonaná na základe tejto Zmluvy, neudeľuje žiadnej tretej strane
+práva, ani nezakladá žiadne nároky. Zmluvné strany súhlasia, že právne alebo iné úkony súvisiace s
+porušením Zmluvy uplatnia najneskôr do 4 rokov odo dňa, kedy mohol byť úkon uplatnený po prvýkrát.
+Žiadna zo zmluvných strán nebude niesť zodpovednosť za plnenie nefinančných záväzkov, pokiaľ k
+tejto situácii dôjde v dôsledku okolností, ktoré táto zmluvná strana nedokáže ovplyvniť. Predtým, ako
+niektorá zo zmluvných strán namietne neplnenie záväzkov druhej zmluvnej strany, dá druhej zmluvnej
+strane primeranú príležitosť na nápravu. V prípade, že sa bude vyžadovať schválenie, súhlas,
+akceptácia, prístup, spolupráca alebo podobný úkon od niektorej zmluvnej strany, táto zmluvná strana
+nebude bezdôvodne odďaľovať vykonanie tohto úkonu alebo ho bezdôvodne neodmietne.
+
+Príloha č. 1
+
+Licenčné poplatky za rozšírené vstupné pracovné zaťaženia
+na systémoch IBM System z
+Podmienky tejto Prílohy pre licenčné poplatky za rozšírené vstupné pracovné zaťaženia na systémoch
+IBM System z (ďalej len „Príloha“) doplňujú podmienky Dohody o všeobecných obchodných
+podmienkach (alebo inej, ekvivalentnej zmluvy, ktorá je v platnosti medzi zmluvnými stranami).
+Zákazník vyjadruje súhlas podmienkami tejto Prílohy jej podpísaním alebo uskutočnením platby za
+Programy ICA využívajúce nižšie definovanú platobnú štruktúru. Licencie na Programy ICA
+podliehajúce podmienkam tejto Prílohy, ktoré vyžadujú hardvér z/Architecture (64-bitový) pre správnu
+prevádzku, sa môžu udeliť iba pre Určené stroje, ktoré vhodným spôsobom využívajú hardvér
+z/Architecture.
+
+1.
+
+Vymedzenie pojmov – Definície
+AEWLC („Advanced Entry Workload License Charges“ alebo „Licenčné poplatky za rozšírené
+vstupné pracovné zaťaženia“) – sú licenčné poplatky, ktoré sú k dispozícii pre vybrané
+Programy ICA používané na Spôsobilom počítači so Spôsobilým operačným systémom.
+Licenčné poplatky AEWLC umožňujú oceňovanie na základe plnej kapacity alebo subkapacity.
+Spôsobilý stroj – je stroj, pre ktorý bola udelená licencia na Spôsobilý operačný systém.
+Spôsobilé stroje, vrátane počtu jednotiek MSU pre ich plnú kapacitu, sú uvedené v časti
+
+„Mainframe Exhibits“ (Dodatky pre systémy mainframe) na webovej lokalite „System z Software
+Contracts“ (Zmluvy pre softvér System z). (Pozrite si Stroje s označením „AEWLC“ v stĺpci
+„Group“ (Skupina).)
+Spôsobilý operačný systém – je operačný systém spustený v režime z/Architecture (64–
+bitový) na Spôsobilom stroji a ktorý je uvedený v časti „Eligible Operating Systems“ (Spôsobilé
+operačné systémy) na webovej lokalite „System z Software Contracts“ (Zmluvy pre softvér
+System z) (http://ibm.com/systems/z/swprice/reference/exhibits/opsys.html).
+Jednotky MSU plnej kapacity – celková kapacita Stroja uvedená v časti „Mainframe Exhibits“
+(Dodatky pre systémy mainframe) na webovej lokalite „System z Software Contracts“ (Zmluvy
+pre softvér System z).
+Cena za plnú kapacitu – poplatky za Programy ICA s licenčným modelom AEWLC na základe
+Jednotiek MSU plnej kapacity.
+Hostiteľský (logický oddiel) – logický oddiel (ďalej aj „LPAR“) so Spôsobilým operačným
+systémom na platforme z/VM.
+Časť „Eligible Operating Systems“ (Spôsobilé operačné systémy) na webovej lokalite
+„System z Software Contracts“ (Zmluvy pre softvér System z) – stránka na adrese
+http://ibm.com/systems/z/swprice/reference/exhibits/hardware.html
+Jednotky MSU („Millions of Service Units“) – predstavujú milióny servisných jednotiek za
+hodinu, čiže sú mierou kapacity Spôsobilého stroja na spracovanie pracovných zaťažení.
+Natívny (logický oddiel) – logický oddiel (ďalej aj „LPAR“) so Spôsobilým operačným
+systémom, ktorý nie je spustený v prostredí z/VM.
+Rad operačného systému – operačný systém IBM a midlvér IBM, ktorý je pod ním spustený.
+Spôsobilé operačné systémy IBM sú uvedené v časti „Eligible Operating Systems“ (Spôsobilé
+operačné systémy) na webovej lokalite „System z Software Contracts“ (Zmluvy pre softvér
+System z).
+Využitá kapacita logickými oddielmi produktu – je najväčší počet jednotiek MSU
+využívaných všetkými logickými oddielmi (ďalej aj „LPAR“), na ktorých sa súbežne spúšťa
+Program ICA s licenčným modelom AEWLC počas Obdobia vykazovania. Počet jednotiek MSU
+sa určí na základe priebežného priemerného využívania počas štyroch hodín.
+Využitá kapacita produktu – je najväčší počet súbežne využitých jednotiek MSU všetkými
+kópiami Programu IBM spustenými na tom istom Spôsobilom počítači počas Obdobia
+vykazovania. Počet jednotiek MSU sa určí na základe priebežného priemerného využívania
+programom počas štyroch hodín.
+Obdobie vykazovania – je obdobie začínajúce druhým dňom v mesiaci a končiace prvým
+dňom v nasledujúcom mesiaci.
+Cena za subkapacitu – poplatky za Programy ICA s licenčným modelom AEWLC na základe
+menšieho počtu jednotiek MSU ako sú Jednotky MSU plnej kapacity.
+SCRT – je najnovšia verzia nástroja IBM Sub-Capacity Reporting Tool, ktorú sprístupní IBM.
+Nástroj SCRT analyzuje údaje Zariadení na správu systému (ďalej aj „System Management
+Facilities“ alebo „SMF“), údaje SCRT89 a iné údaje a vypočíta Využitú kapacitu logickými
+oddielmi produktu pre všetky Programy ICA s licenčným modelom AEWLC.
+Subkapacitná zostava – je zostava vygenerovaná nástrojom SCRT, na základe ktorej môže
+IBM vypočítať Cenu za subkapacitu pre Programy ICA s licenčným modelom AEWLC. Zákazník
+je povinný poslať zostavu IBM iba vtedy, ak sa účtuje Cena za subkapacitu.
+
+2.
+
+Poplatky
+a.
+
+Ak si Zákazník vyberie poplatky AEWLC pre Spôsobilý operačný systém na Spôsobilom
+stroji, pre všetky Programy ICA v Rade operačného systému, pre ktorý sú k dispozícii
+poplatky AEWLC, sa musia uplatňovať poplatky AEWLC.
+Výnimky:
+Licencie na Programy ICA s nižšie uvedenými typmi poplatkov možno udeliť pre tie isté
+Spôsobilé stroje ako na Programy ICA s poplatkami AEWLC:
+(1)
+
+Licenčné poplatky za nové aplikácie System z (ďalej aj „zNALC“), ktoré sú uvedené
+v Prílohe pre licenčné poplatky zNALC na systémoch IBM System z (Z125-7454-04
+alebo novšie).
+
+b.
+
+(2)
+
+Licenčné poplatky za vybrané aplikácie (ďalej aj „SALC“), ktoré sú definované v
+Dodatku pre licenčné poplatky za vybrané aplikácie k Prílohe pre poplatky za
+používanie IBM System z (Z125-7284-02 alebo novšie).
+
+(3)
+
+Programy ICA, za ktoré Zákazník zaplatil Odstupňované jednorazové poplatky
+(ďalej aj „GOTC“), možno presunúť na Spôsobilý stroj.
+(a)
+
+Budú sa účtovať poplatky za inováciu, ak „Predvolená skupina modelov“
+Spôsobilého stroja určená v časti „Mainframe Exhibits“ (Dodatky pre systémy
+mainframe) na webovej lokalite „System z Software Contracts“ (Zmluvy pre
+softvér System z) je vyššia ako aktuálne oprávnenie GOTC. Ak je predvolená
+„Predvolená skupina modelov“ Spôsobilého stroja nižšia, nebudú sa udeľovať
+refundácie.
+
+(b)
+
+V prípade, že sa licencia GOTC presúva na Spôsobilý stroj s príslušnými
+predvolenými poplatkami založenými na jednotkách MSU, nie na špecifickej
+Predvolenej skupine modelov, Zákazník by mal požiadať IBM o špeciálne
+ceny.
+
+Licenčné poplatky AEWLC sú založené na cenách za plnú kapacitu alebo subkapacitu.
+Zvýšenia poplatkov AEWLC v dôsledku zmien, ktoré Zákazník vykoná v kapacite
+jednotiek MSU Spôsobilého stroja, pre ktorý bola udelená licencia na Program ICA s
+licenčným modelom AEWLC, budú v platnosti prinajmenšom jeden mesiac.
+
+c.
+
+Ak sa na Programy ICA s Cenami za subkapacitu vzťahujú poplatky AEWLC:
+(1)
+
+mesačné poplatky budú závisieť od počtu jednotiek MSU nahláseného za Program
+ICA v Subkapacitnej zostave pre určený Spôsobilý stroj počas Obdobia
+vykazovania. Táto hodnota korešponduje s Využitou kapacitou logickými oddielmi
+produktu. Ak Zákazník poruší podmienky tejto Prílohy, mesačné poplatky budú
+založené na Jednotkách MSU za plnú kapacitu.
+POZNÁMKA: Informácie o fakturačnom procese IBM vrátane určenia príslušného
+Obdobia vykazovania pre poplatky za konkrétny mesiac, sú k dispozícii vo webovej
+lokalite
+Sub-Capacity
+Corner
+na
+adrese
+http://ibm.com/systems/z/swprice/subcap/terms.html.
+
+(2)
+
+Poplatky za licencie na Spôsobilé operačné systémy sa budú účtovať za Jednotky
+MSU plnej kapacity, pokiaľ IBM nespracuje prvotnú Subkapacitnú zostavu pre daný
+Spôsobilý operačný systém na príslušnom Spôsobilom stroji, čím začne
+uplatňovanie Ceny za subkapacitu pre daný Rad operačného systému.
+
+(3)
+
+Mesačný poplatok za Program ICA (iný ako Spôsobilý operačný systém) spôsobilý
+pre poplatky AEWLC bude závislý od počtu príslušných jednotiek MSU pre
+Spôsobilý operačný systém v danom Rade operačného systému.
+
+(4)
+
+Keď sa začne účtovanie Ceny za subkapacitu pre Spôsobilý operačný systém na
+Spôsobilom stroji a Program ICA s licenčným modelom AEWLC nebude uvedený v
+Subkapacitnej zostave po prvom účtovaní mesačného poplatku zaň, budú sa
+účtovať poplatky za minimálny počet jednotiek MSU pre licenčný model AEWLC.
+POZNÁMKA: IBM určí minimálny počet jednotiek MSU pre licenčný model AEWLC
+v programových ohláseniach.
+
+(5)
+
+Ak sa Zákazník rozhodne využívať Ceny za subkapacitu pre Program ICA s
+licenčným modelom AEWLC na Spôsobilom stroji, Zákazník musí využívať Ceny za
+subkapacitu pre všetky Programy ICA s licenčným modelom AEWLC v danom Rade
+operačného systému na príslušnom Spôsobilom stroji.
+
+(6)
+
+Súčasti Programov ICA s licenčným modelom AEWLC využívajú rovnaké jednotky
+MSU ako Program ICA s licenčným modelom AEWLC.
+
+(7)
+
+Ak bola pre daný Spôsobilý stroj udelená aj licencia na operačný systém OS/390
+alebo MVS, za Rad operačného systému z/OS sa budú účtovať poplatky za
+Jednotky MSU plnej kapacity;
+
+(8)
+
+Ak bola pre Spôsobilý stroj udelená licencia na systém z/TPF, nástroj SCRT
+vypočíta počet jednotiek MSU pre Programy IBM spustené v tomto systéme z/TPF.
+Ďalšie informácie sú k dispozícii v dokumente „Amendment for Calculation of z/TPF
+MSUs“ (Dodatok pre výpočet jednotiek MSU pre systém z/TPF) (Z125-7283).
+
+(9)
+
+Ak bola pre Spôsobilý stroj udelená na operačný systém z/VSE verzie 3 alebo starší,
+poplatky za Rad operačného systému z/VSE sa budú vypočítavať podľa počtu
+Jednotiek MSU plnej kapacity.
+
+d.
+
+IBM môže ponúkať rozšírenia Cien za subkapacitu pre programy AEWLC. Pokiaľ IBM
+neurčí inak, takéto rozšírenia, vrátane funkcií a poplatkov vzťahujúcich sa na takéto
+vylepšenia, budú podliehať ďalším podmienkam uvedeným v dodatku k tejto Prílohe (ďalej
+len „Dodatok“). Zákazník musí vyjadriť súhlas s týmto Dodatkom, aby mohol využiť takéto
+rozšírenia. Poskytovanie rozšírení Cien za subkapacitu zo strany IBM je podmienené
+súhlasom Zákazníka s príslušnými Dodatkami k tejto Prílohe a dodržiavaním ich
+ustanovení z jeho strany.
+
+e.
+
+Ak pre Program ICA nie sú k dispozícii poplatky AEWLC alebo ak si Zákazník nevyberie
+poplatky AEWLC pre Spôsobilý operačný systém, za Programy ICA v danom Rade
+operačného systému sa budú účtovať Vrstvené licenčné poplatky za pracovné zaťaženia
+(ďalej aj „TWLC“), pokiaľ sú pre ne k dispozícii poplatky TWLC:
+
+f.
+
+(1)
+
+Poplatky TWLC predstavujú vrstvenú cenovú štruktúru a sú závislé od modelu
+Spôsobilého stroja. Ceny za subkapacitu nie sú pre ne k dispozícii.
+
+(2)
+
+Poplatky TWLC sú k dispozícii pre vybrané Programy ICA používané na
+nezoskupených Spôsobilých počítačoch označených v stĺpci „Group” (Skupina)
+reťazcom „TWLC“, za ktorým nasleduje úroveň TWLC, v časti „Mainframe Exhibits“
+(Dodatky pre systémy mainframe) na webovej lokalite „System z Software
+Contracts“ (Zmluvy pre softvér System z).
+
+(3)
+
+Ak pre Program ICA nie sú k dispozícii poplatky TWLC a poplatky za Program ICA
+sú závislé od kapacity stroja, budú sa účtovať predvolené poplatky. Predvolené
+poplatky sú uvedené v časti „Mainframe Exhibits“ (Dodatky pre systémy mainframe)
+na webovej lokalite „System z Software Contracts“ (Zmluvy pre softvér System z)
+pre každý príslušný Spôsobilý stroj v stĺpci s názvom „Other“ (Iné).
+
+(4)
+
+Zvýšenia poplatkov TWLC alebo predvolených poplatkov za Programy ICA v
+dôsledku zmeny úrovne Spôsobilého stroja, pre ktorý bola udelená licencia na
+Programy ICA, budú v platnosti prinajmenšom jeden mesiac;
+
+Na AEWLC sa nebudú vzťahovať zoskupené poplatky, avšak:
+(1)
+
+môžu sa uplatňovať zoskupené Licenčné poplatky Parallel Sysplex (ďalej aj „Parallel
+Sysplex License Charges“ alebo „PSLC“), ak je Spôsobilý stroj zapojený do klastra
+Parallel Sysplex so zoskupenými poplatkami PSLC;
+
+(2)
+
+môžu sa uplatňovať zoskupené Licenčné poplatky za rozšírené pracovné zaťaženia
+(ďalej aj „Advanced Workload License Charges“ alebo „AWLC“), ak je Spôsobilý
+stroj zapojený do klastra Parallel Sysplex so zoskupenými poplatkami AWLC;
+
+(3)
+
+môžu sa uplatňovať zoskupené Licenčné poplatky za pracovné zaťaženia (ďalej aj
+„Workload License Charges“ alebo „WLC“), ak je Spôsobilý stroj zapojený do klastra
+Parallel Sysplex so zoskupenými poplatkami WLC na základe podmienok
+dokumentu „AWLC Transition Charges for Sysplexes“ (Poplatky za prechod na
+model AWLC pre klastre Sysplex).
+
+Požadované Prílohy, Dodatky a Doplnky pre zoskupené poplatky
+Pre PSLC: „Attachment for Parallel Sysplex License Charges“ (Príloha pre licenčné
+poplatky Parallel Sysplex“ (Z125-5205) a Dodatok „Parallel Sysplex License Charges“
+(Licenčné poplatky Parallel Sysplex) (Z125-5206).
+Pre AWLC: „Attachment for IBM System z Advanced Workload License Charges“ (Príloha
+pre licenčné poplatky za rozšírené pracovné zaťaženia na systémoch IBM System z)
+(Z125-8538) a „IBM System z Advanced Workload License Charges Exhibit“ (Dodatok pre
+licenčné poplatky za rozšírené pracovné zaťaženia na systémoch IBM System z) (Z1258539).
+Pre WLC: „Attachment for IBM System z Workload License Charges“ (Príloha pre licenčné
+poplatky za pracovné zaťaženia na systémoch IBM System z) (Z125-6516) a „IBM System
+z Advanced Workload License Charges Exhibit“ (Dodatok pre licenčné poplatky za
+rozšírené pracovné zaťaženia na systémoch IBM System z) (Z125-6324).
+
+3.
+
+Povinnosti IBM:
+IBM:
+
+4.
+
+a.
+
+poskytne nástroj SCRT;
+
+b.
+
+skontroluje a overí Zákazníkom poskytnuté alternatívne hodnoty uvedené v
+Subkapacitných zostavách a, ak to bude vhodné, na základe vlastného uváženia upraví
+poplatky AEWLC;
+
+c.
+
+zaregistruje Spôsobilé stroje, keď Zákazník odošle prvotné Subkapacitné zostavy.
+
+Povinnosti Zákazníka v súvislosti s Cenami za subkapacitu
+Ceny za subkapacitu sú podmienené využitím kapacity schválenej IBM a presnými údajmi z
+meraní využitia kapacity operačným systémom, ktoré boli spracované nástrojom SCRT.
+Zákazník súhlasí s tým, že:
+a.
+
+bezodkladne nainštaluje kód vyžadovaný IBM v súvislosti s Programami ICA alebo
+strojový kód systémov IBM System z požadovaný IBM v záujme presného výpočtu Cien
+za subkapacitu;
+
+b.
+
+nebude žiadnym spôsobom, priamo či nepriamo, upravovať, pozmeňovať, vynechávať ani
+odstraňovať:
+(1)
+
+záznamy SMF alebo SCRT89;
+
+(2)
+
+nástroj SCRT, okrem zmien poskytnutých IBM; ani
+
+(3)
+
+Subkapacitné zostavy, ktoré Zákazník odošle IBM, s výnimkou polí v zostavách
+SCRT, v ktorých sú výslovne požadované alebo povolené pripomienky Zákazníka.
+Pokyny k vyplneniu požadovaných a nepovinných polí pre pripomienky Zákazníka
+sú k dispozícii v najnovšej verzii používateľskej príručky k nástroju SCRT (SG246522).
+
+c.
+
+neaktivuje ani nepoužije žiadne riadiace príkazy nástroja SCRT, pokiaľ to IBM výslovne
+nepovolí v rámci používateľskej príručky k nástroju SCRT alebo Dodatku podpísaného
+Zákazníkom;
+
+d.
+
+bude zhromažďovať a minimálne šesť mesiacov uchovávať údajové záznamy SMF a
+SCRT89 vyžadované nástrojom SCRT za každé Obdobie vykazovania zo všetkých
+oddielov LPAR na Spôsobilom stroji. V prípade Programov ICA s licenčným modelom,
+ktoré nie sú zahrnuté do záznamov SMF 89 alebo SCRT89, musí Zákazník použiť riadiace
+príkazy NO89 na identifikáciu oddielov LPAR alebo Hostiteľských logických oddielov, na
+ktorých boli spustené Programy AEWLC počas ľubovoľnej časti Obdobia vykazovania;
+
+e.
+
+bude používať najnovšiu verziu nástroja SCRT so zhromaždenými údajmi záznamov SMF
+a SCRT89 s cieľom vytvoriť Subkapacitnú zostavu zo všetkých logických oddielov
+Spôsobilého operačného systému na Spôsobilom stroji, pre ktorý bola udelená licencia
+na Program AEWLC. Ak sa počas Obdobia vykazovania vyskytnú mimoriadne okolnosti,
+Zákazník môže v súlade s aktuálnym vydaním používateľskej príručky k nástroju SCRT
+(SG24-6522) postupovať niektorým z nasledujúcich spôsobov: 1) poskytne alternatívne
+hodnoty pre Program ICA s licenčným modelom AEWLC, ktorý nie je zahrnutý v
+záznamoch SMF 89 alebo SCRT89 alebo 2) použije riadiaci príkaz „Exclude“ (Vylúčiť) a
+uvedie vysvetlenie odchýlky.
+
+f.
+
+nie skôr ako druhý, no zároveň nie neskôr ako deviaty kalendárny deň v mesiaci pošle
+IBM:
+(1)
+
+prvotnú Subkapacitnú zostavu, ktorá bude založená na údajoch za celé úvodné
+Obdobie vykazovania pre každý Spôsobilý stroj, ktorý chce Zákazník zaregistrovať
+u IBM pre Ceny za subkapacitu; a
+
+(2)
+
+následné Subkapacitné zostavy podľa údajov za jednotlivé následné celé Obdobia
+vykazovania pre každý zaregistrovaný Spôsobilý stroj.
+
+Subkapacitné zostavy nemožno použiť na zrušenie licencií, nahlásenie zníženia úrovní
+modelov Spôsobilých strojov alebo deaktivovanie funkcií Programov ICA.
+IBM aj Zákazník súhlasia s tým, že Subkapacitné zostavy, ktoré odzrkadľujú zmeny vo
+Využitej kapacite logickými oddielmi produktu alebo v súpise Programov ICA na
+Spôsobilom stroji (napríklad nový Program ICA alebo zmena Určeného stroja predtým
+stanoveného pre IBM), sa budú považovať za objednávky zo strany Zákazníka bez
+potreby ďalších krokov zo strany Zákazníka, pričom Zákazník udeľuje IBM oprávnenie na
+vykonanie príslušnej úpravy fakturácie. Ak Subkapacitné zostavy nebudú odoslané do
+deviateho dňa príslušného mesiaca, za Programy ICA sa budú účtovať poplatky za
+Jednotky MSU plnej kapacity pre dané Obdobie vykazovania;
+
+5.
+
+g.
+
+nakonfiguruje Spôsobilý stroj Zákazníka tak, aby každý týždeň odosielal do IBM údaje
+dostupnosti prenosového systému (ďalej aj „Transmit System Availability Data“ alebo
+„TSAD“) prostredníctvom zariadenia vzdialenej podpory (ďalej aj „Remote Support
+Facility“ alebo „RSF“). Vďaka týmto údajom môže IBM overiť, či sú Jednotky MSU Využitej
+kapacity logickými oddielmi produktu v Subkapacitných zostavách, ktoré Zákazník pošle
+IBM, v súlade so skutočnou konfiguráciou Spôsobilých strojov Zákazníka. Alternatívny
+spôsob zhromaždenia a odoslania týchto údajov Zákazníkom je uvedený v používateľskej
+príručke k nástroju SCRT (SG24-6522). V prípade, že Zákazník neodošle údaje TSAD,
+za Program ICA sa môžu účtovať poplatky za Jednotky MSU plnej kapacity;
+
+h.
+
+určí osobu v organizácii Zákazníka s oprávnením komunikovať s IBM a bezodkladne
+zodpovedať otázky týkajúce sa 1) Subkapacitných zostáv, 2) nesúladu medzi
+Subkapacitnými zostavami a aktuálnymi licenčnými oprávneniami a 3) konfiguračných
+údajov nahlásených cez RSF;
+
+i.
+
+kontaktuje IBM, ak sa Zákazník rozhodne prejsť z Cien za subkapacitu AEWLC na
+poplatky AEWLC za Jednotky MSU plnej kapacity;
+
+j.
+
+priamo ani nepriamo nezaregistruje Programy ICA v službe z/OS IFAUSAGE, pokiaľ to
+nebude vyžadovať dokumentácia k Programu ICA;
+
+k.
+
+priamo ani nepriamo nezaregistruje Programy nepochádzajúce od IBM v službe z/OS
+IFAUSAGE ako Program ICA s identifikátorom produktu IBM a
+
+l.
+
+priamo ani nepriamo nespôsobí pripísanie Využitej kapacity produktu k inému programu,
+či už Programu ICA alebo Programu nepochádzajúcemu od IBM, ak Využitá kapacita
+produktu nesúvisí s daným programom, a to s výnimkou nezámerného priradenia Využitej
+kapacity produktu v súvislosti s diagnostikou, monitorovaním alebo meraním využívania
+programu.
+
+Overenie dodržiavania súladu
+Na účely tejto časti bude pojem „Podmienky Programu ICA“ znamenať podmienky, ktoré sa
+vzťahujú na Programy ICA uvedené v Dohode o všeobecných obchodných podmienkach IBM
+a príslušných Transakčných dokumentoch a Prílohách (vrátane tejto Prílohy).
+Po predchádzajúcom upozornení v primeranom predstihu môže IBM overiť dodržiavanie
+Podmienok Programu ICA Zákazníkom vo všetkých lokalitách a všetkých prostrediach, v
+ktorých Zákazník používa alebo nainštaluje Programy ICA (bez ohľadu na to, či ide o inštaláciu
+na testovanie, produktívne použitie alebo iné účely). Takéto overovanie sa bude vykonávať
+výhradne počas štandardnej pracovnej doby Zákazníka a spôsobom, ktorý bude mať čo
+najmenší dopad na obchodné operácie Zákazníka. IBM môže využívať služby nezávislého
+audítora v rámci takéhoto overovania, pokiaľ IBM uzavrela písomnú zmluvu o mlčanlivosti s
+takýmto audítorom.
+V rozsahu nevyhnutnom na kontrolu používania a inštalácie Programov ICA Zákazníkom a
+overenie dodržiavania Podmienok Programu ICA Zákazníkom sa Zákazník zaväzuje: 1)
+vytvárať, uchovávať a poskytnúť IBM a jej audítorom písomné a iné záznamy, výstupy zo
+systémových nástrojov a iné elektronické alebo tlačené systémové informácie vrátane
+informácií týkajúcich sa systémových konfigurácií, na ktorých sa prevádzkujú Programy IBM, a
+2) umožniť IBM a jej audítorom byť prítomnými pri prístupe Zákazníka k strojom s cieľom
+poskytnúť takéto záznamy, výstupy a iné systémové informácie a sledovať takýto prístup.
+IBM bude písomne informovať Zákazníka v prípade, že sa počas takéhoto overovania zistí, že
+Zákazník nedodržiava Podmienky Programu ICA. Zákazník sa zaväzuje bezodkladne uhradiť
+všetky ďalšie poplatky a iné záväzky, ktoré bude Zákazník povinný uhradiť v súvislosti s
+používaním a nasadením Programov ICA alebo porušenia Podmienok Programu ICA
+kedykoľvek v priebehu obdobia, kedy bude Zákazník držiteľom licencie na Programy ICA.
+Práva a povinnosti uvedené v tomto odseku zostanú v platnosti, kým bude Zákazník držiteľom
+licencie na Programy ICA, a dva roky po skončení tohto obdobia. Tento odsek sa vzťahuje na
+všetky Programy ICA, pre ktoré spoločnosť Zákazníka získala licencie, vrátane licencií
+poskytovaných na základe samostatných Príloh a Transakčných dokumentov, a to bez ohľadu
+na akékoľvek protichodné ustanovenia týkajúce sa auditu, ktoré môžu takéto dokumenty
+obsahovať.
+
+

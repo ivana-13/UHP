@@ -1,0 +1,851 @@
+SERVISNÁ ZMLUVA
+č. OVO2-2019/000022-031
+na zabezpečenie softvérových podporných služieb pre IS EVIDENCE
+uzatvorená podľa § 269 ods.2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+(ďalej len „Obchodný zákonník“ ) a podľa § 83 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov (ďalej len „zákon č.343/2015 Z. z.“) (ďalej len „Zmluva“)
+medzi zmluvnými stranami:
+Objednávateľ:
+Názov:
+
+Slovenská republika
+v zastúpení Ministerstva vnútra Slovenskej republiky
+Pribinova 2
+812 72 Bratislava
+
+V zastúpení:
+
+Ing. Ondrej VARAČKA
+generálny tajomník služobného úradu MV SR,
+na základe plnomocenstva č. p. KM-OPS4-2018/001604-117 zo dňa 30.apríla 2018
+
+IČO:
+
+00 151 866
+
+Bankové spojenie:
+Číslo účtu:
+BIC/SWIFT kód:
+(ďalej len „Objednávateľ“)
+
+Štátna pokladnica, Radlinského 32, 810 05 Bratislava, SR
+SK78 8180 0000 0070 0018 0023
+SPSRSKBA
+
+a
+Poskytovateľ:
+Názov:
+Sídlo:
+Štatutárny zástupca:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+IBAN:
+Tel:
+Fax:
+e-mail:
+registrácia:
+(ďalej len „Poskytovateľ“)
+
+SOVA Digital a.s.
+Bojnická 3
+831 04 Bratislava
+Ing. Martin MORHÁČ, predseda predstavenstva
+35 770 911
+2020244325
+SK2020244325
+Tatra banka a.s.
+SK77 1100 0000 0026 2702 5286
++421 2 4333 0643
++421 2 4333 9505
+info@sova.sk
+Okresný súd Bratislava I. Vložka č.2181/B, oddiel Sa, Slovenská republika
+
+(Objednávateľ a Poskytovateľ ďalej spolu len „Zmluvné strany“ alebo každý samostatne aj ako „Zmluvná strana“)
+
+I.
+
+Úvodné ustanovenia
+
+1.1. Zmluvné strany uzatvárajú túto Zmluvu v súlade s výsledkom verejnej súťaže, ktorej oznámenie o vyhlásení
+verejného obstarávania bolo uverejnené v Úradnom vestníku EÚ 2019/S 057-131638 zo dňa 21.03.2019 vo
+Vestníku verejného obstarávania č. 058/2019 dňa 22.03.2019 pod značkou 05715-MSS (ďalej len „VO“).
+1.2. Základným účelom tejto Zmluvy je v súlade s výsledkom VO zabezpečenie dodania služby (tak ako je tento pojem
+zadefinovaný v čl. 1 v bode 1.3. a v Prílohe č. 1 Zmluvy) v súlade s touto Zmluvou.
+1.3. Na základe predloženej ponuky Poskytovateľa a v zmysle príslušných ustanovení zákona č. 343/2015 Z. z. ako aj v
+zmysle príslušných ustanovení § 269 ods. 2 Obchodného zákonníka, uzatvára Objednávateľ s Poskytovateľom túto
+Zmluvu na zabezpečenie softvérových podporných služieb pre IS EVIDENCE.
+II.
+
+Definície a pojmy
+
+2.1 Elektronický informačný a evidenčný systém na správu expertíznych záznamov a spisov, skúmaných
+vzoriek a expertíz ( ďalej len „IS EVIDENCE“) je ucelený systém pozostávajúci so softvérových a hardvérových
+komponentov uvedených v Prílohe č. 1 tejto Zmluvy ktorý sa používa pri výkone expertíznych činností pre
+spracovanie a management laboratórnych informácií. Poskytuje široké spektrum aktivít, ktoré podporujú a uľahčujú
+prácu v laboratóriu. Zlepšuje bezpečnosť vďaka správe používateľských práv, logovaniu a sofistikovanému
+workflowu, ktorý zabraňuje používateľovi spraviť metodickú chybu pri práci. Súčasťou je aj podystém KEU NEO,
+ktorý využívajú kriminalistický technici po celom Slovensku, je implementovaný do viacerých systémov v rámci MV
+SR.
+2.2. Doba opravy(odstránenia poruchy, udalosti alebo incidentu) je doba, v ktorej je Poskytovateľ povinný ukončiť
+servisný zásah a odovzdať Objednávateľovi opätovne funkčné komponenty.
+2.3. Človekodeň: je základná merná jednotka, za ktorú sa považuje jeden deň práce, tzn. 8 pracovných hodín jedného
+pracovníka Poskytovateľa.
+2.4. Poskytovaním servisných činností je odstraňovanie incidentov a nedostatkov vzniknutých na komponentoch IS
+EVIDENCE za určitých, v tejto Zmluve špecifikovaných podmienok.
+2.5. Reakčný čas je pre Poskytovateľa stanovený čas, do ktorého zaháji prešetrenie nahláseného incidentu počnúc
+hlásením Objednávateľa formou zaevidovania incidentu. Objednávateľ je oprávnený nahlásiť problém aj telefonicky
+alebo emailom, tak ako je uvedené v Prílohe č. 3 tejto Zmluvy. Reakčná doba závisí od priority problému podľa
+Prílohy č. 1 tejto Zmluvy.
+2.6. Servisný protokol je dokument, ktorý obsahuje prehľad servisných zásahov. Pri každom servisnom zásahu je
+špecifikovaný čas hlásenia incidentu Objednávateľom, čas kedy Poskytovateľ začal so servisným zásahom, zistený
+incident, uznanie/neuznanie incidentu ako spadajúceho pod túto Zmluvu, čas kedy bol incident odstránený,
+prehľadom dodaných (použitých) náhradných dielov spolu so špecifikáciou ich záručnej doby, popis v akom stave je
+komponent.
+2.7. Oprávnené osoby Objednávateľa: osoba určená v Prílohe č. 3 tejto Zmluvy, ktorá je oprávnená nahlasovať, riešiť
+a potvrdzovať vyriešenie problémov spôsobmi uvedenými v tejto Zmluve a zadávať požiadavky a potvrdzovať ich
+vybavenie podľa tejto Zmluvy.
+2.8. Oprávnené osoby Poskytovateľa: osoba určená v Prílohe č.3 tejto Zmluvy.
+2.9. Servisný zásah je činnosť Poskytovateľa na komponente predmetných IS EVIDENCE Objednávateľa, pri ktorom
+bol nahlásený incident, smerujúca k jeho odstráneniu.
+2.10. Vada/udalosť/porucha v skratke incident je nefunkčnosť alebo obmedzená funkčnosť komponentu/ov, ktoré
+znemožňuje a/alebo obmedzuje použitie komponentu/ov resp. príslušného IS EVIDENCE na stanovený účel .
+III.
+
+Predmet Zmluvy
+
+3.1.
+
+Predmetom tejto Zmluvy je záväzok Poskytovateľa poskytovať riadne a včas Objednávateľovi softverové
+podporné služby pre IS EVIDENCE a jeho subsystémy EVIDENCE a KEU NEO (ďalej len „služby“) podľa
+aktuálnych potrieb Objednávateľa a záväzok Objednávateľa za riadne a včas poskytnuté služby zaplatiť
+Poskytovateľovi cenu podľa článku V. tejto Zmluvy.
+
+3.2.
+
+Služby podľa bodu 3.1 tohto článku Zmluvy a v súlade s Prílohou č.1 tejto Zmluvy zahŕňajú:
+(a) odstránenie chýb, chybných funkcií alebo porúch v softvéri,
+(b) update systému EVIDENCE 2 podľa požiadaviek objednávateľa,
+(c) vykonanie upgrade softvéru, pre ktorý je dostupná novšia verzia a s tým súvisiace školenia.
+pre jednotlivé komponenty IS EVIDENCE, podľa špecifikácie uvedenej v Prílohe č.1 tejto Zmluvy.
+2
+
+3.3.
+
+Rozsah poskytovaných služieb je špecifikovaný v Prílohe č.1 tejto Zmluvy.
+IV.
+
+4.1.
+
+4.2.
+4.3.
+4.4.
+4.5.
+
+Miestom poskytnutia služieb podľa tejto Zmluvy sú:
+a)
+Kriminalistický a expertízny ústav Policajného zboru, Sklabinská ul. č. 1, Bratislava,
+b)
+Kriminalistický a expertízny ústav Policajného zboru, Príboj č. 560, Slovenská Ľupča,
+c)
+Kriminalistický a expertízny ústav Policajného zboru, Kuzmányho č. 8, Košice.
+Miestom poskytnutia služieb podľa tejto Zmluvy je aj sídlo Poskytovateľa, ak ide o služby, ktoré sú poskytované
+telefonicky, elektronicky, písomne alebo vzdialeným pripojením (vzdialeným prístupom) alebo iné miesto vopred
+oznámené a určené Objednávateľom.
+Poskytovateľ poskytuje služby podľa článku III. tejto Zmluvy a v časoch špecifikovaných v Prílohe č. 1 tejto
+Zmluvy.
+Táto Zmluva sa uzatvára na dobu určitú, a to na dobu 36 mesiacov od nadobudnutia jej účinnosti..
+Poskytovateľ môže na písomnú žiadosť Objednávateľa poskytnúť služby aj mimo času uvedeného v bode 4.3
+tohto článku a to na základe predchádzajúcej písomnej dohody Zmluvných strán.
+V.
+
+5.1.
+5.2.
+
+5.3.
+5.4.
+
+5.5.
+5.6.
+
+Miesto plnenia a čas plnenia
+
+Cena za služby a platobné podmienky
+
+Objednávateľ je povinný uhrádzať Poskytovateľovi cenu a príslušnú DPH podľa všeobecne záväzných právnych
+predpisov platných na území SR za poskytované služby podľa článku III. tejto Zmluvy (ďalej len „Cena“).
+Cena za poskytovanie služby podľa článku III. tejto Zmluvy predstavuje 474 000,00 EUR vrátane DPH ročne
+(slovom: štyristosedemdesiatštyritisíc EUR vrátane DPH), pričom DPH je 79 000,00 EUR a zmluvná cena bez
+DPH je 395 000,00 EUR (slovom: tristodeväťdesiatpäťtisíc EUR bez DPH).
+Cena za človekodeň deň je 780,00 EUR s DPH (slovom: sedemstoosemdesiat EUR s DPH), pričom DPH je
+130,00 EUR a zmluvná cena bez DPH je 650,00 EUR (slovom: šesťstopäťdesiat EUR bez DPH).
+Maximálny rozsah človekodní je 72 počas doby trvania tejto Zmluvy.
+Cena služieb podľa článku III. tejto Zmluvy je určená podľa rozsahu HW a SW komponentov tvoriacich IS
+EVIDENCE v čase podpisu tejto Zmluvy. V prípade, ak dôjde k ich rozšíreniu nasadením nových HW a SW
+modulov bude dopad na rozsah poskytovania služieb predmetom vzájomnej dohody Zmluvných strán. Zmluvné
+strany o tejto skutočnosti vyhotovia písomný a očíslovaný dodatok k tejto Zmluve
+Poskytovateľ je oprávnený fakturovať cenu za poskytovanie služieb alikvotnou časťou mesačne (1/12 z ročného
+paušálu), vždy po uplynutí príslušného štvrťroka (3 kalendárne mesiace), v ktorom bola poskytovaná a prevzatá
+oprávnenou osobou Objednávateľa.
+Spoločné ustanovenia o platobných podmienkach:
+a) Cena za poskytovanie služieb podľa článku III. tejto Zmluvy je stanovená podľa § 3 zákona Národnej rady
+Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov a vyhlášky Ministerstva financií
+Slovenskej republiky č. 87/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č.
+18/1996 Z. z. o cenách. Zmluvná cena je vyjadrená v eurách.
+b) Cena za poskytovanie služieb podľa článku III. tejto Zmluvy zahŕňa všetky náklady Poskytovateľa potrebné
+k poskytnutiu služieb podľa tejto Zmluvy do miesta plnenia, vrátane dopravy do miesta plnenia.
+c) Zmluvné strany sa dohodli na spôsobe platenia prostredníctvom bezhotovostného platobného styku, ktorý
+sa bude realizovať výhradne prevodným príkazom.
+d) Zmluvné strany sa dohodli, že platba bude realizovaná na základe faktúry, ktorú Poskytovateľ vystaví
+a doručí Objednávateľovi po riadnom a včasnom poskytnutí služieb v súlade s touto Zmluvou. Prílohou
+faktúry budú servisné protokoly o vykonaných službách podpísané oboma Zmluvnými stranami.
+e) Splatnosť faktúry je tridsať (30) dní a začne plynúť po jej doručení Objednávateľovi. Faktúra sa považuje za
+zaplatenú dňom odpísania finančnej sumy z účtu Objednávateľa.
+f) Faktúra musí obsahovať všetky náležitosti daňového dokladu podľa zákona č. 222/2004 Z. z. o dani
+z pridanej hodnoty v znení neskorších predpisov. Za správne vyhotovenie faktúry zodpovedá v plnom
+rozsahu Poskytovateľ.
+g) V prípade, že faktúra nebude obsahovať prílohy podľa tejto Zmluvy, všetky náležitosti daňového dokladu
+alebo bude obsahovať iné zrejmé nesprávnosti, vady v písaní alebo počítaní, Objednávateľ má právo vrátiť
+ju Poskytovateľovi v lehote splatnosti na doplnenie alebo prepracovanie s uvedením nedostatkov, ktoré sa
+majú odstrániť. V takomto prípade sa ukončí pôvodná lehota splatnosti a nová 30-dňová lehota splatnosti
+začne plynúť doručením doplnenej, opravenej, resp. novej faktúry Objednávateľovi.
+3
+
+VI. Povinnosti zmluvných strán
+6.1.
+
+Povinnosti zmluvných strán:
+(a) Poskytovateľ je povinný zabezpečovať pre Objednávateľa činnosti uvedené v článku III. Tejto Zmluvy.
+(b) Poskytovateľ je povinný postupovať pri poskytovaní služieb podľa požiadaviek Objednávateľa, podľa
+svojich schopností a možností.
+(c) Poskytovateľ je povinný zabezpečiť celý proces inštalácie korekcií softvéru, nových verzií softvéru,
+aktuálnej verzie systému EVIDENCIE a doplnkov.
+(d) POSKYTOVATEĽ je povinný do šiestich (6) hodín od prijatia telefonického alebo písomného
+oznámenia o chybe začať práce na odstránení takejto chyby.
+(e) POSKYTOVATEĽ je povinný odstrániť chyby nahlásené v zmysle bodu d) tohto článku v lehotách
+ Závažné chyby v softvéri EVIDENCE spôsobené haváriou hardvéru, narušením systému
+alebo v dôsledku výpadku elektrickej energie, prípadne klimatizácie - do 48 hodín od prijatia
+oznámenia podľa bodu d)
+ Chyby softvéru neovplyvňujúce hlavné funkcie systému - do 7 dní od prijatia oznámenia podľa
+bodu d)
+(f) Sankcie za nedodržanie dohodnutej povinnosti Poskytovateľom sú dohodnuté v článku X. tejto zmluvy.
+(g) Objednávateľ je povinný poskytnúť súčinnosť a zabezpečiť sprístupnenie miesta plnenia pre riadne
+a včasné vykonanie servisných činností a umožniť zamestnancom poskytovateľa v rozsahu
+nevyhnutnom na riadne plnenie povinnosti prístup na pracovisko objednávateľa.
+VII. Spôsob a zabezpečenie softvérových podporných služieb
+
+7.1.
+7.2.
+7.3.
+7.4.
+7.5.
+
+Služby bude Poskytovateľ poskytovať Objednávateľovi po dobu trvania tejto zmluvy na základe písomnej
+požiadavky zo strany Objednávateľa a dostupnosti nových verzií softvéru Poskytovateľa pre používanú
+hardvérovú platformu.
+Vykonanie služieb bude po vykonaní zásahu písomne potvrdené zodpovedným pracovníkom Objednávateľa
+v Protokole o odovzdaní a prevzatí služieb (servisný list).
+Po vykonaní služieb vyzve Poskytovateľ Objednávateľa k prevzatiu služieb a k podpisu protokolu o vykonaní
+služieb (ďalej len „Výkaz o zásahu“).
+Objednávateľ je povinný zabezpečiť overenie vykonania služieb poskytovaných na základe dohody zmluvných
+strán na to určeným zodpovedným pracovníkom.
+Osobami oprávnenými podpísať (Výkaz o zásahu) sú za Poskytovateľa technický pracovník, ktorý práce
+vykonal a za Objednávateľa: plk. Ing. Jozef Mlkvík, PhD., v zastúpení mjr. Ing. Eduard Zeman.
+VIII. Práva a povinnosti POSKYTOVATEĽA
+
+8.1.
+8.2.
+8.3.
+
+8.4.
+8.5.
+8.6.
+
+Poskytovateľ sa zaväzuje, že služby podľa článku III. tejto Zmluvy bude poskytovať spôsobom, v termínoch,
+podľa špecifikácie uvedené v tejto Zmluve a jej prílohách, s primeranou dôslednosťou a obvyklou odbornou
+starostlivosťou.
+Poskytovateľ pre potreby opráv jednotlivých zariadení použije len komponenty, ktoré sú na tento účel
+odporučené resp. certifikované výrobcom predmetného zariadenia.
+Poskytovateľ má právo prerušiť poskytovanie služieb v prípadoch neplnenia záväzkov Objednávateľa
+vyplývajúcich mu z tejto Zmluvy, a to najviac po dobu pokiaľ je Objednávateľ v omeškaní so splnením si svojej
+povinnosti v zmysle tejto Zmluvy. Poskytovateľ nie je viazaný termínmi prijatými pre poskytovanie služieb podľa
+článku III. tejto Zmluvy v prípade, ak Objednávateľ nevytvorí ani po písomnom upozornení Poskytovateľa
+podmienky potrebné na poskytovanie služieb podľa článku III. tejto Zmluvy. V takom prípade nedodržanie
+termínu (najmä Reakčnej doby a Doba opravy) nie je považované za omeškanie POSKYTOVATEĽA pre
+poskytovanie služieb podľa článku III. tejto Zmluvy.
+Poskytovateľ sa zaväzuje, že v rámci poskytovania služieb podľa článku III. tejto Zmluvy nebudú vyvinuté alebo
+upravené SW komponenty obsahovať žiadnu nezdokumentovanú funkcionalitu nepožadovanú
+Objednávateľom, ktorá nie je potrebná pre zabezpečenie funkčnosti SW komponentov (tzv. back-doors).
+Poskytovateľ zodpovedá za odbornú starostlivosť pri výbere subdodávateľa ako aj za služby vykonané a
+zabezpečené na základe zmluvy o subdodávke.
+Poskytovateľ je povinný zabezpečiť, aby mal splnené povinnosti ohľadom zápisu do registra partnerov
+verejného sektora vo vzťahu k subdodávateľom Poskytovateľa v zmysle zákona č. 315/2016 Z. z. o registri
+
+4
+
+8.7.
+8.8.
+
+partnerov verejného sektora a o zmene niektorých zákonov v znení neskorších predpisov (ďalej len "zákon č.
+315/2016 Z. z.“).
+Poskytovateľ vyhlasuje, že v čase uzatvorenia tejto Zmluvy má splnené povinnosti, ktoré mu vyplývajú v zmysle
+zákona č.315/2016 Z. z.
+Ak sa budú na strane Poskytovateľa ako Zmluvnej strany podieľať viaceré subjekty, práva z tejto Dohody voči
+Objednávateľovi môže uplatňovať výlučne vedúci Poskytovateľ SOVA Digital a.s. IČO: 35 770 911. Vedúci
+Poskytovateľ podľa predchádzajúcej vety je oprávnený vykonávať fakturáciu ceny v mene Poskytovateľov, a
+tiež je za Poskytovateľov výlučne tento oprávnený vykonávať iné práva voči Objednávateľovi vyplývajúce z tejto
+Zmluvy alebo zo všeobecne záväzných právnych predpisov platných na území SR, pokiaľ Zmluva (vrátane
+príloh) v konkrétnom prípade neustanovuje inak. Subjekty na strane Poskytovateľa si osobitnou písomnou
+dohodou určia a vysporiadajú vzájomné záväzky a oprávnenia vyplývajúce im z tejto Zmluvy.
+IX. Práva a povinnosti Objednávateľa
+
+9.1.
+9.2.
+9.3.
+
+9.4.
+
+Objednávateľ je povinný nahlasovať Poskytovateľovi všetky incidenty postupom podľa tejto Zmluvy.
+Objednávateľ je povinný aktívne spolupracovať s Poskytovateľom na riešení nahláseného incidentu
+a poskytovať mu všetku potrebnú a požadovanú súčinnosť.
+Objednávateľ je povinný:
+a) zabezpečiť primerané pracovné prostredie,
+b) zabezpečiť prístup do potrebných priestorov a ku všetkým zariadeniam Objednávateľa, ktoré Poskytovateľ
+potrebuje na účely poskytovania služieb podľa článku III. tejto Zmluvy,
+c) umožniť použitie primeraných prostriedkov diaľkového prístupu pre servisné zásahy v súlade s platnými
+internými predpismi Objednávateľa. Zriadenie diaľkového prístupu a jeho používanie môže byť realizované
+len po predchádzajúcom prekonzultovaní a preukázateľnom odsúhlasení Objednávateľom. Každý takýto
+prístup bude logovaný vrátane všetkých vykonaných aktivít.
+Objednávateľ je povinný poskytovať resp. zabezpečiť poskytovanie technických informácií a dokumentov, ktoré
+vlastní a týkajú sa požiadavky na službu podľa tejto Zmluvy a požaduje ich Poskytovateľ.
+X.
+
+Pravidlá pre zmenu subdodávateľa
+
+10.1 V Prílohe č. 4 tejto Zmluvy sú uvedené údaje o všetkých známych subdodávateľoch Poskytovateľa, ktorí sú
+známi v čase uzavierania tejto Zmluvy, a údaje o osobe oprávnenej konať za subdodávateľa v rozsahu meno a
+priezvisko, adresa pobytu, dátum narodenia.
+10.2 Poskytovateľ je povinný Objednávateľovi oznámiť akúkoľvek zmenu údajov u subdodávateľov uvedených
+v Prílohe č. 4 tejto Zmluvy, a to bezodkladne.
+10.3 V prípade zmeny subdodávateľa je Poskytovateľ povinný najneskôr do piatich (5) pracovných dní odo dňa zmeny
+subdodávateľa predložiť Objednávateľovi informácie o novom subdodávateľovi a predmete subdodávok, pričom
+pri výbere subdodávateľa musí Poskytovateľ postupovať tak, aby vynaložené náklady na zabezpečenie plnenia
+na základe zmluvy o subdodávke boli primerané jeho kvalite a cene. Subdodávateľ alebo subdodávateľ podľa
+osobitného predpisu, ktorý podľa § 11 ods. 1 zákona č. 343/2015 Z. z. má povinnosť zapisovať sa do registra
+partnerov verejného sektora, musí byť zapísaný v registri partnerov verejného sektora. Povinnosť zápisu do
+registra partnerov verejného sektora upravuje osobitný predpis - zákon č. 315/2016 Z. z.
+10.4 Povinnosti Poskytovateľa, vrátane pravidiel výberu subdodávateľa uvedené v bodoch 10.2 a 10.3 tohto článku
+Zmluvy platia po celú dobu trvania tejto Zmluvy.
+10.5 Poskytovateľ zodpovedá za plnenie zmluvy o subdodávke subdodávateľom tak, ako keby plnenie realizoval sám
+a je povinný poskytnúť Objednávateľovi služby na svoju zodpovednosť, v dohodnutom čase a v dohodnutej
+kvalite. Poskytovateľ zodpovedá za odbornú starostlivosť pri výbere subdodávateľa ako aj za výsledok činnosti
+vykonanej na základe zmluvy o subdodávke.
+
+5
+
+XI. Sankcie
+11.1. Ak je Poskytovateľ v omeškaní so začatím odstránenia chyby v softvéri IS EVIDENCE, je Poskytovateľ povinný
+zaplatiť Objednávateľovi zmluvnú pokutu vo výške 500,- € s DPH za každú aj začatú hodinu omeškania, ak ide
+o servis poskytovaný podľa bodu 6.1. písm. d) tejto Zmluvy.
+11.2. Ak je Poskytovateľ v omeškaní s nedodržaním Reakčného času podľa bodu 6.1. písm. e) tejto Zmluvy, je
+Poskytovateľ povinný zaplatiť Objednávateľovi zmluvnú pokutu vo výške 500,- € s DPH, a to za každé jednotlivé
+porušenie.
+11.3. V prípade omeškania Objednávateľa s úhradou riadne doručenej a splatnej faktúry, je Poskytovateľ oprávnený
+uplatniť si voči Objednávateľovi úrok z omeškania v zákonom stanovenej výške z dlžnej sumy za každý, aj začatý
+deň omeškania.
+XII. Zodpovednosť za vady služieb a zodpovednosť za škodu
+12.1. Poskytovateľ zodpovedá za to, že poskytovanie služieb podľa článku III. tejto Zmluvy bude poskytované v
+najvyššej dostupnej kvalite tak, aby spĺňali podmienky dohodnuté v tejto Zmluve alebo uvedené v písomnej
+požiadavke alebo zadaní Objednávateľa. Poskytovanie služieb podľa článku III. tejto Zmluvy má vady v prípade,
+ak nespĺňajú podmienku uvedenú v predchádzajúcej vete tohto bodu.
+12.2. Poskytovateľ zodpovedá za vady poskytovania služieb podľa článku III. tejto Zmluvy, najmä ak služby boli
+poskytnuté odlišne od dohodnutých parametrov a podmienok uvedených v tejto Zmluve. Pri výskyte vady
+poskytovania služieb podľa článku III. tejto Zmluvy Objednávateľ na ňu písomne upozorní a Poskytovateľ ju na
+vlastné náklady a v termíne stanovenom Zmluvou, inak v termíne vopred dohodnutom s Objednávateľom
+odstráni. Ak Zmluvné strany nedohodnú termín odstránenia vád poskytnutých služieb, Objednávateľ je oprávnený
+stanoviť primeraný termín odstránenia vád s ohľadom na závažnosť vzniknutej vady služieb.
+12.3. V prípade, ak Poskytovateľ neodstráni akýkoľvek incident v súlade s ustanoveniami tejto Zmluvy riadne a včas,
+objednávateľ je oprávnený:
+a) odstrániť incident svojpomocne respektíve prostredníctvom tretej osoby, pričom náklady na takéto
+odstránenie budú uplatnene voči Poskytovateľovi, ktorý sa ich zaväzuje bez zbytočného odkladu uhradiť;
+alebo
+b) požadovať primeranú zľavu z ceny za poskytnuté služby; alebo
+c) odstúpiť od Zmluvy za podmienok ďalej uvedených v tejto Zmluve.
+12.4. Poskytovateľ nezodpovedá za incidenty podľa tejto Zmluvy, ktoré boli spôsobené použitím podkladov alebo
+pokynov prevzatých od Objednávateľa a/alebo iných subjektov, pokiaľ Poskytovateľ ani pri vynaložení všetkej
+odbornej starostlivosti nemohol zistiť ich nevhodnosť alebo na ich nevhodnosť upozornil Objednávateľa, ktorý
+však na ich použití výslovne trval.
+12.5. Poskytovateľ nezodpovedá Objednávateľovi za incidenty podľa tejto Zmluvy v prípade, ak tieto boli preukázateľne
+spôsobené zavineným konaním Objednávateľa a/alebo tretích osôb pôsobiacich na strane Objednávateľa.
+12.6. Každá zo Zmluvných strán nesie zodpovednosť za spôsobenú škodu v súlade so všeobecne záväznými
+právnymi predpismi platnými na území SR a tejto Zmluvy. Zmluvné strany sa zaväzujú k vyvinutiu maximálneho
+úsilia k predchádzaniu škodám a k minimalizácii vzniknutých škôd.
+12.7. V prípade, ak Poskytovateľ spôsobí Objednávateľovi porušením svojich povinnosti vyplývajúcich z tejto Zmluvy
+akúkoľvek škodu, zodpovednosť za škodu a povinnosť na jej náhradu Objednávateľovi sa bude riadiť a spravovať
+ustanoveniami § 373 a nasl. Obchodného zákonníka, pričom Poskytovateľ bude povinný nahradiť
+Objednávateľovi skutočnú škodu.
+XIII. Prechod vlastníctva a nebezpečenstva škody, licenčná doložka
+13.1. Zmluvné strany sa dohodli, že v prípade, ak pri poskytovaní služieb podľa článku III. tejto Zmluvy sa zo strany
+Poskytovateľa majú niektoré veci stať vlastníctvom Objednávateľa, prechádza na Objednávateľa vlastnícke právo
+dňom odovzdania alebo inštalácie takýchto vecí. Nebezpečenstvo škody prechádza na Objednávateľa dňom
+odovzdania veci.
+13.2. Pokiaľ na základe a na účely plnenia tejto Zmluvy Poskytovateľ vytvorí alebo zabezpečí pre Objednávateľa
+vytvorenie autorského diela v zmysle ustanovení zákona č. 185/2015 Z.z. Autorský zákon v znení neskorších
+predpisov (ďalej len „zákon č.185/2015 Z. z.“), udeľuje Poskytovateľ Objednávateľovi nevýhradnú, neprenosnú,
+teritoriálne a časovo neobmedzenú licenciu na použitie takého autorského diela na účely a v podobe, v akej bolo
+vytvorené a poskytnuté Objednávateľovi počas celej doby trvania ochrany autorského diela.
+
+6
+
+13.3. Objednávateľ je oprávnený autorské dielo, ktoré by malo v súlade s bodom 13.2. tohto článku zmluvy povahu
+počítačového programu meniť a upravovať za podmienok uvedených v § 87 až § 89 zákona č. 185/2015 Z. z.
+Udelenie takéhoto súhlasu na použitie autorského diela je bezodplatné.
+13.4. Pre softvér majúci povahu cudzieho autorského diela bežne dostupného na trhu a špecificky nevytvoreného v
+rámci poskytovania služieb podľa tejto Zmluvy budú platiť obvyklé licenčné podmienky stanovené príslušným
+nositeľom autorských majetkových a/alebo distribučných práv s ktorými je takýto softvér šírený.
+XIV. Ochrana osobných údajov
+14.1. Zmluvné strany berú na vedomie, že poskytovaním služieb Poskytovateľom podľa tejto Zmluvy môže dôjsť k
+spracúvaniu osobných údajov.
+14.2. Objednávateľ vyhlasuje, že osobne údaje spracúvané v rámci IS EVIDENCE (vrátane jeho neskorších verzii) a
+spôsob ich získania Objednávateľom neporušuje práva tretích osôb, ako ani žiadne z ustanovení zákona č.
+18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 18/2018
+Z. z.“).
+14.3. Poskytovateľovi v súvislosti so spracúvaním osobných údajov podľa tohto článku vznikajú práva a povinnosti
+upravené zákonom č.18/2018 Z. z., ktorý je pri spracúvaní osobných údajov povinný dodržiavať.
+14.4. Poskytovateľ je povinný chrániť osobne údaje pred náhodným alebo neoprávneným poškodením a zničením,
+náhodnou stratou, zmenou, nedovoleným prístupom a sprístupnením, ako aj pred akýmikoľvek inými formami
+spracúvania, ktoré sú v rozpore so všeobecne záväznými právnymi predpismi platnými na území SR. Po
+dosiahnutí účelu spracúvania je Poskytovateľ povinný osobne údaje zlikvidovať a/alebo odovzdať
+Objednávateľovi, ak všeobecne záväzné právne predpisy platné na území ST neustanovujú inak.
+14.5. Poskytovateľ je povinný zachovávať mlčanlivosť o osobných údajoch, s ktorými príde do styku v súvislosti s
+plnením tejto zmluvy. Poskytovateľ je povinný zabezpečiť, aby každý zamestnanec Poskytovateľa, ktorý príde do
+styku s osobnými údajmi, zachoval o nich mlčanlivosť a nevyužíval ich na iný účel, ako je účel plnenia podľa tejto
+Zmluvy.
+14.6. Poskytovateľ nie je oprávnený bez písomného súhlasu Objednávateľa akýmkoľvek spôsobom sprístupňovať,
+zverejňovať, predávať, prevádzať alebo iným spôsobom, ako je dohodnuté v zmluve, nakladať s osobnými údajmi
+poskytnutými Objednávateľom, podľa tohto článku Zmluvy.
+XV. Trvanie a skončenie Zmluvy
+15.1. Táto zmluva sa uzatvára na dobu určitú a to na dobu 36 mesiacov od nadobudnutia jej účinnosti.
+15.2. Zmluvný vzťah založený touto Zmluvou možno skončiť nasledovne:
+15.2.1. písomnou dohodou Zmluvných strán, a to dňom uvedeným v takejto dohode; v dohode o ukončení Zmluvy sa
+súčasne upravia aj nároky Účastníkov zmluvy vzniknuté na základe alebo v súvislosti so Zmluvou,
+15.2.2. písomným odstúpením od Zmluvy,
+15.2.3. písomnou výpoveďou.
+15.3. Objednávateľ je oprávnený písomne odstúpiť od tejto Zmluvy v prípade podstatného porušenia Zmluvy zo
+strany Poskytovateľa. Za podstatné porušenie zmluvy sa považuje:
+a) Poskytovateľ koná v rozpore s touto Zmluvou, a/alebo všeobecne záväznými právnymi predpismi platnými
+na území SR na písomnú výzvu Objednávateľa toto konanie a jeho následky v určenej primeranej lehote
+neodstráni;
+b) Objednávateľ si zvolí odstúpenie ako nárok z vadného plnenia podľa ustanovenia § 436 Obchodného
+zákonníka.
+15.4. Objednávateľ je oprávnený odstúpiť od Zmluvy aj:
+a) v súlade s bodom 12.3 písm. c) tejto Zmluvy,
+b) ak proti Poskytovateľovi začalo konkurzné konanie alebo reštrukturalizácia,
+c) ak Poskytovateľ vstúpil do likvidácie,
+d) ak Poskytovateľ nebol v čase uzavretia Zmluvy zapísaný v registri partnerov verejného sektora alebo ak bol
+vymazaný z registra verejného sektora.
+15.5. Poskytovateľ je oprávnený písomne odstúpiť od tejto Zmluvy v prípade podstatného porušenia Zmluvy zo
+strany Objednávateľa, ktorým sa rozumie prípad, ak je Objednávateľ v omeškaní s uhradením faktúry o viac
+ako šesťdesiat (60) kalendárnych dní po lehote jej splatnosti.
+15.6. Odstúpenie od Zmluvy musí mať písomnú formu, musí sa v ňom uviesť dôvod odstúpenia a musí byť
+doručené druhej Zmluvnej strane v súlade so Zmluvou. Odstúpenie je účinné dňom jeho doručenia druhej
+Zmluvnej strane.
+7
+
+15.7. Pre vylúčenie akýchkoľvek pochybností sa Zmluvné strany dohodli, že odstúpenie od Zmluvy nemá vplyv na
+povinnosti oboch Zmluvných strán týkajúce sa záručného autorizovaného servisu.
+15.8. Odstúpenie od Zmluvy sa nedotýka právnych vzťahov (plnení) vzniknutých do okamihu odstúpenia od Zmluvy. Pri
+odstúpení od Zmluvy Zmluvné strany nebudú povinné vrátiť plnenia poskytnuté im pred odstúpením od Zmluvy
+druhou Zmluvnou stranou a nebudú oprávnené žiadať vrátenie plnení poskytnutých pred odstúpením od Zmluvy
+druhej Zmluvnej strany. Nároky Poskytovateľa na zaplatenie ceny za plnenia poskytnuté Objednávateľovi pred
+odstúpením nebudú odstúpením od Zmluvy dotknuté a Objednávateľ je povinný ich uspokojiť.
+15.9. Túto Zmluvu môžu Zmluvné strany písomne vypovedať aj bez udania dôvodu s výpovednou lehotou šesť (6)
+mesiacov. Výpovedná lehota začína plynúť prvým dňom mesiaca nasledujúceho po mesiaci, v ktorom bola
+písomná výpoveď doručená druhej Zmluvnej strane.
+XVI. Záverečné ustanovenia
+16.1. Táto Zmluva nadobúda platnosť dňom jej podpisu obidvomi Zmluvnými stranami a účinnosť dňom nasledujúcim po
+dni zverejnenia v Centrálnom registri zmlúv, ktorý vedie Úrad vlády SR.
+16.2. Táto Zmluva je povinne zverejňovanou zmluvou v zmysle § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe
+k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších
+predpisov. Zverejnenie Zmluvy sa nepovažuje za porušenie ani ohrozenie obchodného tajomstva a informácie
+označené v tejto Zmluve ako dôverné v zmysle § 271 ods. 2 Obchodného zákonníka sa nepovažujú za dôverné.
+16.3. Všetky zmeny tejto Zmluvy možno vykonať výlučne dohodou vo forme očíslovaných písomných dodatkov k tejto
+Zmluve, podpísaných zástupcami oboch Zmluvných strán.
+16.4. Práva a povinnosti Zmluvných strán, ktoré nie sú výslovne upravené v tejto Zmluve sa riadia príslušnými
+ustanoveniami Obchodného zákonníka a súvisiacimi ostatnými všeobecne záväznými právnymi predpismi platnými
+na území Slovenskej republiky.
+16.5. Táto Zmluva je vyhotovená v piatich (5) rovnopisoch v slovenskom jazyku s platnosťou originálu, z ktorých
+Objednávateľ obdrží tri (3) rovnopisy a Poskytovateľ obdrží dva (2) rovnopisy.
+16.6. Neoddeliteľnou súčasťou tejto Zmluvy sú nasledujúce prílohy:
+a) Príloha č. 1: Opis predmetu zákazky,
+b) Príloha č. 2 :Štruktúrovaný rozpočet servisnej zmluvy
+c) Príloha č. 3: Oprávnené osoby účastníkov zmluvy
+d) Príloha č. 4: Zoznam subdodávateľov
+16.7. Zmluvné strany vyhlasujú, že si túto Zmluvu prečítali, jej obsahu porozumeli a na znak toho, že obsah tejto Zmluvy
+zodpovedá ich skutočnej a slobodnej vôli, ju podpisujú.
+
+V Bratislave dňa:
+
+V Bratislave dňa:
+
+za Objednávateľa:
+
+za Poskytovateľa:
+
+..................................................................
+Ing. Ondrej VARAČKA
+generálny tajomník služobného úradu
+Ministerstva vnútra Slovenskej republiky
+
+.......................................................
+Ing. Martin MORHÁČ
+predseda predstavenstva
+SOVA Digital a.s., Bratislava
+
+8
+
+Opis predmetu zákazky
+
+Príloha č.1
+
+1. Všeobecné vymedzenie predmetu zákazky
+Elektronický informačný a evidenčný systém na správu expertíznych záznamov a spisov, skúmaných vzoriek a
+expertíz (ďalej len „IS EVIDENCE“).
+IS EVIDENCE poskytuje široké spektrum aktivít, ktoré podporujú a uľahčujú prácu v laboratóriu. Zlepšuje
+bezpečnosť vďaka správe používateľských práv, logovaniu a sofistikovanému workflowu, ktorý zabraňuje
+používateľovi spraviť metodickú chybu pri práci.
+Miesto plnenia:
+• Kriminalistický a expertízny ústav Policajného zboru, Sklabinská ul. č. 1, Bratislava,
+• Kriminalistický a expertízny ústav Policajného zboru, Príboj č. 560, Slovenská Ľupča,
+• Kriminalistický a expertízny ústav Policajného zboru, Kuzmányho č. 8, Košice.
+2. Stručný opis predmetu zákazky
+Kontrola, aktualizácia, diagnostika a podpora systému - IS EVIDENCE.
+IS EVIDENCE je využívaný pri výkone expertíznych činností pre spracovanie a management laboratórnych
+informácii. Súčasťou systému IS EVIDENCE je aj podystém KEU NEO, ktorý využívajú kriminalistický technici v
+rámci Slovenskej republiky, implementovaný do viacerých systémov v rámci MV SR.
+3. Podrobný opis predmetu zákazky (Technická špecifikácia )
+3.1. Softvérové podporné služby pre IS EVIDENCE, jeho subsystémy a KEU NEO
+Zabezpečenie pri poskytovaní podporných služieb pre softvér:
+- úprava systému EVIDENCE v zmysle požiadaviek objednávateľa,
+- odstránenie chýb, chybných funkcií alebo porúch v softvéri,
+- update systému EVIDENCE podľa požiadaviek objednávateľa,
+- vykonanie upgrade softvéru, pre ktorý je dostupná novšia verzia,
+- inštalácie softwarových aktualizácii a antivírovej ochrany serverovej aj klientskej časti,
+- kontrola konzistencie databáz a kontrola funkčnosti synchronizačnej aplikácie medzi jednotlivými servermi,
+- diagnostika hardwarových komponentov systému,
+- konzultácie poskytnuté emailom a telefonicky
+- poskytnutie najnovších informácii o vývoji systému,
+- predloženie technickej správy o stave systému, ktorej súčasťou bude analýza rizík, návrhy technického riešenia
+ich odstránenia, predpokladaný výpočet nákladov, možnosti rozširovania alebo zefektívňovania systému
+- monitoring stavu serverov IS EVIDENCE,
+- údržba, oprava a výmena pevných diskov integrovaných do serverov,
+- školenie nových užívateľov.
+Tabuľka č. 1 Prehľad podporných servisných služieb pre IS EVIDENCE k zadaniu objednávky
+Rozsah servisných služieb č. 1:
+Rozsah servisných služieb č. 2:
+Rozsah servisných služieb č. 3:
+Rozsah servisných služieb č. 4:
+Rozsah servisných služieb č. 5:
+
+odstránenie chýb, chybných funkcií alebo porúch v softvéri
+(do 48 hodín od nahlásenia poruchy)
+update systému Evidence 2
+(podľa požiadaviek objednávateľa)
+vykonanie upgrade softvéru, pre ktorý je dostupná novšia
+verzia (každé 3 mesiace)
+Inštalácie softwarových aktualizácii a antivírovej ochrany
+serverovej aj klientskej časti (raz mesačne)
+Kontrola konzistencie databáz a kontrola funkčnosti
+synchronizačnej aplikácie medzi jednotlivými servermi
+minimálne štyrikrát ročne alebo po servisnom zásahu do
+systému
+
+9
+
+Rozsah servisných služieb č. 6:
+Rozsah servisných služieb č. 7:
+Rozsah servisných služieb č. 8:
+Rozsah servisných služieb č. 9:
+
+Rozsah servisných služieb č. 10:
+Rozsah servisných služieb č. 11:
+Rozsah servisných služieb č. 12:
+Rozsah servisných služieb č. 13:
+Rozsah servisných služieb č. 14:
+3.1.1.
+
+Diagnostika hardwarových komponentov systému
+(raz za kvartál)
+Konzultácie poskytnuté emailom a telefonicky v rozsahu
+pondelok – piatok 9:00 hod. – 15:00 hod
+Poskytnutie najnovších informácii o vývoji systému
+(každé tri mesiace)
+Predloženie technickej správy o stave systému, ktorej
+súčasťou bude analýza rizík, návrhy technického riešenia
+ich odstránenia, predpokladaný výpočet nákladov,
+možnosti rozširovania alebo zefektívňovania systému
+(každých 9 mesiacov)
+Monitoring stavu serverov IS EVIDENCE. (raz mesačne)
+Údržba, oprava a výmena pevných diskov integrovaných
+do serverov po tri kusy na každý server
+(do 48 hod od nahlásenia poruchy)
+Obnova softvéru na poškodených staniciach po
+hardvérovej poruche na servisnej stanici
+(do 7 dní od nahlásenia poruchy)
+Udržiavanie
+operačných
+systémov
+serverov
+v aktualizovanom stave (raz mesačne)
+Školenie nových užívateľov v rozsahu 3 osôb za 1 rok
+
+Požiadavka na odstránenie chýb na HW a SW:
+- do 48 hodín od prijatia oznámenia telefonicky alebo emailom, do 7 dní u chýb softvéru
+neovplyvňujúce hlavné funkcie systému
+
+3.1.2. Rozsah spravovaných zariadení:
+Centrálny server IS EVIDENCE,
+pracovné stanice na KEU PZ
+- Bratislava (171 pracovísk 161 užívateľov),
+- Slovenská Ľupča (51 pracovísk 47 užívateľov),
+- Košice (58 pracovísk 52 užívateľov),
+- pracovné stanice 341 kriminalistických technikov na okresných a krajských riaditeľstvách Policajného
+zboru:
+- OKP Banská Bystrica;-OKP Bardejov;-OKP BA 1;-OKP BA 2;-OKP BA 3; - OKP BA 4;-OKP Senec;-OKP
+Malacky;-OKP Pezinok;-OKP BA 5;-OKP Brezno;-OKP Čadca;-OKP Dolný Kubín;-OKP Dunajská Streda;-OKP
+Galanta;-OKP Humenné;-OKP KRPZ Bratislava;-OKP KRPZ Banská Bystrica;-OKP Komárno;-OKP Košice OR
+PZ;-OKP Košice – okolie;-OKP Levice;-OKP Liptovský Mikuláš;-OKP Lučenec;-OKP Martin;-OKP Michalovce;OKP Nitra;-OKP Nové Zámky;-OKP Poprad;-OKP Považská Bystrica;-OKP Prešov;-OKP Prievidza;-OKP
+Rimavská Sobota;-OKP Rožňava;-OKP Ružomberok;-OKP Senica;-OKP Stará Ľubovňa;-OKP Svidník;-OKP
+Topoľčany;-OKP Trebišov;-OKP Trenčín;-OKP Trnava;-OKP Vranov nad Topľou;-OKP Zvolen;-OKP Žiar nad
+Hronom;-OKP Žilina;-OKP BA5;-OPKTČ;-OKP Prešov;-OKP Veľký Krtíš;-OKP Nové Mesto nad Váhom;-OKP
+Bratislava IV;-OKP Šaľa;-OKP Revúca;-OKP Partizánske;-OKP Spišská Nová Ves;-OKP Pezinok;-OKP
+Kežmarok;-OKP KRPZ Košice;-OKP KRPZ Prešov;-OKP KRPZ Žilina;-OKP KRPZ Nitra;-OKP KRPZ Trenčín;OKP KRPZ Trnava;-OKP Partizánske.
+3.1.3.
+Spôsob fakturácie:
+Každé 3 mesiace 1/12 z ceny celkom stanovenej za Softvérové podporné služby pre IS EVIDENCE, jeho
+subsystémy a KEU NEO. Súčasťou bude potvrdený protokol o poskytnutí služby (Výkaz o zásahu).
+
+10
+
+3.2. Cena jedného človekodňa za služby a opravy mimo základné pokrytie
+Poskytovateľ zabezpečí mimo základné pokrytie servisných služieb z bodu 3.1 na základe požiadavky
+Objednávateľa v maximálnom rozsahu 72 človekodní:
+- oprava chybných komponentov (okrem pevných diskov integrovaných do serverov, napájacích zdrojov
+servera),
+- inštalácie platených upgrade softvéru a hardvéru (okrem antivírovej ochrany serverovej a klientskej časti IS
+EVIDENCE, jeho subsystémov a KEU NEO),
+- diagnostika v prípade havarijných stavov hardwarových komponentov systému mimo rozsah základného
+pokrytia servisných služieb na všetkých pracoviskách,
+- zálohovanie v prípade havarijných stavov mimo rozsah základného pokrytia servisných služieb,
+- kontrola a odstránenie chýb na serveroch a klientskych staniciach v prípade poškodenia IS EVIDENCE
+potencionálne nebezpečnou aplikáciou (napr. vírusy, malware, spyware),
+- odstránenie nekompatibility systému IS EVIDENCE, ktorá bola zapríčinená inštaláciou aplikácie tretej strany.
+Tabuľka č. 2 Prehľad servisných služieb mimo základné pokrytie pre zadanie objednávky
+Rozsah servisných služieb mimo základné pokrytie Oprava chybných komponentov (okrem pevných diskov
+č. 1:
+integrovaných do serverov, napájacích zdrojov servera)
+Rozsah servisných služieb mimo základné pokrytie Inštalácie platených upgrade softvéru a hardvéru (okrem
+č. 2:
+antivírovej ochrany serverovej a klientskej časti IS
+EVIDENCE, jeho subsystémov a KEU NEO)
+Rozsah servisných služieb mimo základné pokrytie Diagnostika v prípade havarijných stavov hardwarových
+č. 3:
+komponentov systému mimo rozsah základného pokrytia
+servisných služieb na všetkých pracoviskách
+Rozsah servisných služieb mimo základné pokrytie Zálohovanie v prípade havarijných stavov mimo rozsah
+č. 4:
+základného pokrytia servisných služieb.
+Rozsah servisných služieb mimo základné pokrytie Kontrola a odstránenie chýb na serveroch a klientskych
+č. 5:
+staniciach v prípade poškodenia IS EVIDENCE
+potencionálne nebezpečnou aplikáciou (napr. vírusy,
+malware, spyware)
+Rozsah servisných služieb mimo základné pokrytie Odstránenie nekompatibility systému IS EVIDENCE, ktorá
+č. 6:
+bola zapríčinená inštaláciou aplikácie tretej strany.
+3.2.1.
+
+Požiadavka na odstránenie chýb na HW a SW:
+- do 7 dní od prijatia objednávky
+
+3.2.2.
+
+Spôsob fakturácie:
+Po vykonaní služby. Súčasťou bude potvrdený protokol o poskytnutí služby ( Výkaz o zásahu)..
+
+11
+
+Príloha č. 2
+
+Štruktúrovaný rozpočet ceny Servisnej zmluvy
+Tabuľka č.1 Cena celkom za „Softvérové podporné služby pre IS EVIDENCE“
+Názov
+
+1. Softvérové podporné
+služby pre IS EVIDENCE,
+jeho subsystémy a KEU
+NEO **
+
+Počet
+
+Cena za 1 rok
+trvania
+Servisnej
+zmluvy/ cena za
+1 človekodeň
+
+Maximálna cena
+celkom v EUR bez
+DPH za 3 roky
+trvania Servisnej
+zmluvy / za 72
+človekodní
+
+DPH
+
+DPH
+
+(%)
+
+(EUR)
+
+Maximálna
+cena celkom
+v EUR s DPH
+za 3 roky
+trvania
+Servisnej
+zmluvy / za 72
+človekodní
+
+395 000,00
+
+1 185 000,00
+
+20
+
+237 000,00
+
+1 422 000,00
+
+650,00
+
+46 800,00
+
+20
+
+9 360,00
+
+56 160,00
+
+1 231 800,00 *
+
+20
+
+246 360,00
+
+1 478 160,00
+
+3 roky
+trvania
+Servisnej
+zmluvy
+
+Rozsah servisných služieb
+č.1-14
+2. Cena jedného človekodňa
+za služby a opravy mimo
+základné pokrytie **
+Rozsah servisných služieb
+mimo základné pokrytie č.1 -6
+
+72 človekodní
+počas trvania
+Servisnej
+zmluvy
+
+Cena celkom za
+„Softvérové podporné služby pre IS EVIDENCE“
+
+* maximálna cena celkom za dodanie požadovaného predmetu zákazky vyjadrená v EUR bez DPH
+** Presná špecifikácia v rozsahu podľa Prílohy č. 1 – Opis predmetu zákazky
+Pozn. Všetky uvedené ceny musia byť zaokrúhlené na dve (2) desatinné miesta.
+
+12
+
+Príloha č. 3
+Oprávnené osoby účastníkov zmluvy
+
+Služby bude Poskytovateľ poskytovať Objednávateľovi po dobu trvania tejto zmluvy na základe písomnej
+požiadavky zo strany Objednávateľa a dostupnosti nových verzií softvéru Poskytovateľa pre používanú
+hardvérovú platformu. Vykonanie služieb bude po vykonaní zásahu písomne potvrdené zodpovedným
+pracovníkom Objednávateľa v Protokole o odovzdaní a prevzatí služieb (servisný list).
+Po vykonaní služieb vyzve Poskytovateľ Objednávateľa k prevzatiu služieb a k podpisu protokolu o vykonaní
+služieb (ďalej len „Výkaz o zásahu“).Objednávateľ je povinný zabezpečiť overenie vykonania služieb
+poskytovaných na základe dohody zmluvných strán na to určeným zodpovedným pracovníkom.
+Osobami oprávnenými podpísať (Výkaz o zásahu) sú:
+za Poskytovateľa technický pracovník, ktorý práce vykonal
+- Ing. Kristián Zastko
+email:, kristian.zastko@sova.sk
+mobil: 0903 518 442
+v zastúpení
+- Ing. Igor Fingerland
+email: igor.fingerland@sova.sk
+mobil: 0903 725 328
+a za Objednávateľa:
+
+plk. Ing. Jozef Mlkvík, PhD.
+email: jozef.mlkvik@minv.sk
+mobil: +421 905 728 139
+
+v zastúpení
+
+mjr. Ing. Eduard Zeman
+email: eduard.zeman@minv.sk
+mobil: +421 911 984 570
+
+13
+
+Príloha č. 4
+Zoznam subdodávateľov
+
+„Softvérové podporné služby pre IS EVIDENCE“
+Zoznam subdodávateľov
+Por.
+Označenie
+číslo
+subdodávateľa
+(obchodné meno,
+IČO, sídlo)
+1.
+///
+2.
+3.
+
+Osoba/osoby
+oprávnené konať
+v mene subdodávateľa
+(meno a priezvisko)
+
+Bydlisko osoby oprávnenej
+konať v mene
+subdodávateľa
+
+Dátum narodenia
+osoby oprávnenej
+konať v mene
+subdodávateľa
+
+SOVA Digital a.s., Bratislava, týmto vyhlasuje, že nebude pri plnení dodávok využívať subdodávateľov.
+
+V Bratislave dňa:
+
+____________________________
+Ing. Martin MORHÁČ
+predseda predstavenstva
+SOVA Digital a.s., Bratislava
+
+14
+
+

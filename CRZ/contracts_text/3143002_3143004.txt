@@ -1,0 +1,583 @@
+Zmluva o poskytovanf sluzleb spravy lnformacnych systemov
+
+Cislo u objednavatera: ZML- 3- J~ -/2017-500
+Cislo u poskytovatera: SUSR-20171 001
+uzatvorena podra § 269 ods.2.0bchodneho zakonnlka
+ZMLUVNE STRANY:
+Obchodne meno:
+Sldlo:
+ICO:
+DIC:
+IBAN:
+v zastupenf:
+
+~taUstlcky urad Slovenskej republlky
+Mlletli5ova 3, 824 67 Bratislava
+166197
+2020830218
+SK468180000000700007244
+lng. Alexander Ballek, predseda uradu
+
+(dalej len •objednavater)
+
+a
+Obchodne meno:
+srdlo:
+ICO:
+DIC:
+IC DPH:
+IBAN:
+Obchodny register:
+Llcencla:
+V zastupenf:
+(dalej len •poskytovater)
+
+DIGMIA, s.r.o
+Lazaretska 12, Bratislava, 811 08
+36654132
+2022215217
+SK2022215217
+SK10 1100 0000 0026 2175 4736
+Spol. zaplsana v obch. registrl OS BA I odd.
+Sro, vlozka c. 41496/B
+Peter Fuska, konatel
+
+Strana 1 z 9
+
+Chinok I
+
+Predmet zmtuvy
+
+Na zaklade tejto zmluvy sa poskytovater zavazuje poskytovar objednavaterovi
+odborne slu~by (dalej len .,sluzba•) ijkajuce sa realizacle a prevadzky bezpecnej web
+lokality na prezentaciu vysledkov volleb do organov samospravnych krajov v roku
+2017 s dostupnost'ou 99.8%, systemovej spravy, aktualizacle a AnUDDoS ochrany
+prenajateho servera, prlcom rozsah poskytovanla a detailna ~pecifikacia sluzieb je
+uvedena v cl. II tejto zmluvy.
+
+Clanok 11
+Popis poskytovanych sluzleb
+
+a cinnostf poskytovatera
+
+a) Zrladenie a poskytovanle sluzby webhostingoveho priestoru na domene
+volbysr.sk vratane HW a lnstalafnych poplatkov .
+b) Zriadenle a prevadzka zaloznej web lokality pre repllkadu dat vratane
+prenajmu virtualneho privatneho servera (VPS).
+c) lmplementacia a prevadzka antiDDOS rie§enla pre vystavovanie vysfedkov
+vofleb na domene volbysr.sk s dostupnost'ou 99.8%.
+d) Sprava funkcnosti a bezpecnostl systemov na domene volbysr.sk:
+upgrade bal fkov na aktualne verzie,
+pravldelny automaUzovany remote auditing serverov,
+Monitoring a sp@va funkcnosti:
+monllorlng doslupnosli a funkfnosti spustenych sluzleb 24 hodfn denne,
+7 dnl v tY.tdni,
+monitoring dostupnostl slefovej konektivlty,
+zalohovanle konflguraclf na vzdlaleny zalotny server.
+Technlcka podpora:
+tetefonicka a e.rnailova technlcka podpora pre nastavovanle
+a konfiguraciu sluzieb a zartadenl a hlasenle problemov.
+Orovne technickej podpory:
+~ Standardne SLA- dostupna 24 hod. v prac. d~och, maximalna
+reakcna doba na nastup na rie§enle problemu je 4h pri vzdlalenej
+sprave a 6h pri fyzlckom zasahu,
+~ SLA+ - dostupna 24 hod. v dnoch konania volieb , maxlmalna
+reak~na doba na nastup na riesenie problemu je 10 minut, prl
+vzdialenej sprave a 1h pri fyzlckom zasahu.
+e) Konzultacne sluzby v rozsahu 3 clovekodnf ohradom lmplementacle
+technickeho rie§enla.
+Clanok Ill
+
+Miesto poskytovanla sluzieb
+
+1. Serverove sfuzby budu umiestnene v serverhostingovom centre v priestoroch
+u poskytovatera.
+
+Strana 2 z 9
+
+Clanok IV
+Service Level Agreement
+
+1. Poskytovater vykonava zmluvne ~lnnosti poena podmlenok Service Level
+Agreement (Dohoda o urovnl poskytovanla slufleb) SLAI SLA+ v ztlvislosti od
+objednavaterom po!adovaneho stupi\a reakcie.
+Orovne technlckej podpory:
+a. ~tandardne SLA - dostupnii 24 hod. v prac. dl'\och I maximalna reakcna doba
+na nastup na rfe§enie problemu je 4h pri vzdlalenej sprave a 6h prl fyzickom
+zasahu,
+b. SLA+ - dostupna 24 hod. v dl'\och konanla volleb I maximalna reakcna doba
+na nastup na rie§enle problemu je 10 min Uti pri vzdlalenej sprave a 1h pri
+fyzickom zasahu.
+2. Vypadky prevadzky zariadeni budu rozllsovane v dvoch skupinach - urgent a
+normal.
+
+3. Vypadky budu poskytovaterovi nahlasovane podra cl. V tejto zmluvy, spolu s
+uveden rm skupiny \'Ypadku.
+
+4. Poskytovater zafne odstral'\ovaf vbtky \'Ypadky pokiar motno bezodkladne, s
+vyvlnutfm co najvae!leho usilia, najneskOr v~k v termfnoch podra objednaneho
+stupna reakcie.
+
+5. Pri vzniku nepredvldaternych okolnosUI resp. skutocnostf, ktore spOsoblla tretla
+strana a poskytovater ani objednavater nemaju dosah na odstranenle tYchto
+okolnostf, je motne po vzajomnej dohode stanovif lne termlny odstranenla
+vypadku, aka je deflnovane v predchadzajuclch bodoch tohlo clankul elm zarovei\
+zanika zodpovednosf poskytovatera za dodrfanle termfnov.
+
+6. Zmluvne strany sa vyslovne dohodll, ze poskytovater nezodpoveda za funkcnosf
+systemov, ani za plnenle dojednanych termlnov odstranovania vypadkov a poruch
+v prlpadoch, kedy nastanu prekazky na strane objednavatera, poskytovatera alebo
+tretrch os6b, spOsobene napr.:
+-
+
+poruchou hardveroveho vybavenia objednavatera, klore nebolo dodane
+poskytovaterom,
+
+-
+
+poruchou pripojenla do sfete internet, resp. ineho prostriedku vzdlalenej
+spravy na strane objednavatera alebo poskytovatera, spOsobeneho
+poskytovaterom lnternetoveho pripojenla, resp. lneho prostrledku vzdialenej
+spravy,
+
+-
+
+poruchou dodavok elektrickej energle,
+okolnosfaml vy!!ej mocl (vis major),
+inymi okolnosfaml vylucujucimi zodpovednost'.
+
+Strana 3 z 9
+
+Clanok v
+TechnlckA podpora
+
+1. Technickil podpora pre objednavatera, prfpadne rieAenle inych potladaviek, resp.
+dopytov objednavatera je zo strany poskytovatera zabezpeeena a reallzovana jeho
+pracovnfkmi prostrednfctvom e-mailu: hotllne@dlgmia.com. Na tuto emailovu
+adresu zaslela objednavater svoje poziadavky a nahlasuje prfpadne zavady
+a poruchy podFa ustanovenf tejto zmluvy.
+
+2. Objednavater rna popri vyuZitr technickej podpory podra predchSdzajuceho bodu
+tohto ctanku, moznosr vyuZJr telefonlcku HOTLINE na tel. elsie: +421232603220
+3. Pri vyuzitr technlckej podpory podra tohto Clanku zmluvy je objednavater povinny
+podrobne a presne sformulovat' svoju pozladavku, najma charakterizovar, rasp.
+popfsaf prfpadnu zavadu alebo poruchu, skuplnu poruchy a svoje kontaktne udaje.
+V prrpade nesplnenia tejto povlnnosti poskytovater nezodpoveda za prfpadne
+ome§kanie technickej podpory v zmysle tohto Clanku zmluvy.
+
+Clanok VI
+Prava a povinnostl zmluvnych stran
+
+1. Poskytovater je povinny poskytovar sluzby vykonavanrm zmluvnych cinnostr
+riadne a veas s vynalozenfm nalezitej odbomej spasobllosti, v sulade so zaujmami
+objednavatera.
+
+2. Objednavater je povinny v plnej miere kontrolovar poskytovanie slu:tleb,
+vykonavanle objednanych clnnostr, efektrvne ich koordinovar a dohlladat' na lch
+riadnu reallzaciu.
+
+3. Poskytovater sa zavazuje monllorovar prevadzku a dostupnosr jednollivych
+serverov a zarladenf, proaktlvne reagovar v prfpade vypadkov, a ak je to nutne aj
+v sucinnosll s objednavaterom lieto V}ipadky ellminovar.
+
+4. Objednavater sa zavAzuje poskytovar poskytovaterovi vsetku potrebnu sucinnosr,
+a to vykonanrm, resp. zabezpecenfm nasledovnych cinnostf:
+zasielanle poZladavlek a dopytov elektronickou forrnou zmluvne dojednanym
+sposobom,
+poskytnutle v§etkych informacif a pokynov, ktore su potrebne pre rladne
+splnenle zavazkov poskytovatera,
+v prrpade poruchy alebo vypadku poskytnutie vsetkych dostupnych informacH
+o zavadach a spolupOsobenle pri ich odstranenr v zmysle tejto zmluvy.
+
+5. Poskytovater sa zavazuje poskytovaf objednavaterovi vsetku potrebnu suclnnosf,
+a to vykonanrm, resp. zabezpecenrm nasledovnych C:innostr:
+ochrana pred zverejnenfm a zneuzitlm osobnych udajov a dat spracovavanych na
+serveri a v sieti objednavatera, poklar rna k nej prfstup,
+zabranlf situaciam, prJ ktof9ch by mohlo dOjsr k zneuzitiu tychto osobnych udajov
+
+a dat,
+pravidelne skolenie pracovnfkov ohfadne technol6gir suvlslaclch s vykonom
+dojednanych cinnostr.
+Strana 4 z 9
+
+Clanok VII
+Cena sluileb a platobne podmlenky
+
+1. Objednavater sa zavazuje uhradlf poskytovaterovl za vsetky poskytovana sluzby
+celkovu dohodnutu cenu sluzleb v zmysle zakona c.1 B/1996 z. z. o cenach v znenr
+neskorifch predplsov. Poskytovaterovl prlnalezf cena slufleb podfa prflohy c.1
+tejto zmluvy.
+2. K v§etkym cenam sluzleb bude poskytovater, v prfpade, ak bude platiter dane z
+pridanej hodnoty, uctovar prfslusnu DPH v sulade s platnyml pravnymi predplsmi.
+
+3. Slufby budll objednavaterovl vyuctovane faktUrou na zaklade prrlohy c.1 tejto
+zmluvy po kompletnom splnenf predmetu tejto zmluvy .
+4. Splatnosr faktury je 30 kalendamych dnr od jej dorueenla, prlcom fakt~ra musr
+obsahovar vietky nalezltosti danoveho dokladu podra § 74 zakona c. 222/2004 z.
+z. o danl z prldanej hodnoty, najma:
+
+-
+
+-
+
+oznaeenie "fakturaw a jej clslo,
+odvolanle na hito zmluvu s uvedenrm jej cfsla,
+obchodne meno, prrp. nazov poskytovatera a objednavatera,
+sfdlo, prfp. mlesto podnlkanla poskytovatera a objednavatera,
+ICO, OIC objednavatera a poskytovatera, prfpadne IC OPH, ak je prldelene,
+oznacenle bankoveho spojenia a cfsla llctu poskytovatera,
+del'l vystavenia, odoslanla a splatnosti faktury,
+IBAN, oznacenle banky,
+fakturovanu sumu za uskutocnene zdanlterne plnenle v EUR,
+suma k uhrade,
+podpls opravnenej osoby.
+
+5. V prfpade, ze faktllra poskytovatera bude obsahovar nespravne udaje, alebo
+nebude obsahovar nalezltostl danoveho dokladu vyslovne uvedene v
+predchadzajllcom bode, je objednavater opravneny vratir poskytovaterovl taktito
+nespravnu alebo netiplnu fakturu a poskytovater je povlnny fakturu opravif, prrp.
+doplnlr. V prlpade opravneneho a odOvodneneho vrcUenla fakttiry poskytovaterovl
+sa preru§uje ptynutle lehoty sptatnosti faktury, a to a! do doby dorucenla opravenej
+faktury (danoveho dokladu) objednavaterovl s uvedenrm novej lehoty splatnostl.
+Clanok VIII
+
+Ochrana lnformactf
+
+1. Zmluvne strany sa dohodli, ze tato zmluva, jej obsah, ako aj v§etky lnformacle
+(vratane obchodnych, technlck}'ch a inych lnformacll), ktore budu poskytnute,
+zverene, alebo lnak sprfstupnene druhej strane na zaklade tejto zmluvy alebo v
+suvislosti s nou, alebo o kto!'Ych sa druha zmluvna strana dozvle pri plnenf svojlch
+povinnostf alebo vykonavanr dohodnutych clnnostr podra tejto zmluvy, sa v zmysle
+ustanovenla § 271 Obchodneho zakonnfka povazuju za prfsne dOveme a podfa
+
+Strana 5 z 9
+
+svojej povahy mOtu byf predmetom obchodneho tajomstva ( dalej ten ,.dOveme
+informacle").
+2. Objednavater a poskytovater 5U povinnr uchovavat' a chranit' obchodne tajomstvo,
+ktore bolo poskytnute, zverene, alebo inak sprfstupnene druhej zmtuvnej strane v
+ramci plnenia tejto zmluvy, alebo o ktorom sa druM zmluvna strana dozvedela
+ak~korvek lnym spOsobom. zaroven sa zmluvne strany zavazuju, ze tieto
+informacle alebo skuto~nosti nepouziju na lne u~ely, nez v suvlslosti s plnenrm
+tejto zmluvy a neposkytnu, neoznamia alebo nesprlstupnia tleto lnformacle alebo
+skutocnosti tretrm osobam, ani lch nevyuzlju pre svoje potreby, okrem prlpadov, v
+klOfYCh je to nevyhnutne na splnenie UCeiU tejto zmJuvy.
+
+3. Pokiaf to nie je nevyhnutne pre ueely plnia povlnnostr podra zmluvy, zmluvne
+strany sa zavazuju chranif a uchovavar v tajnostl dOveme informacie a bez
+predchadzajoceho plsomneho suhlasu druhej zmluvnej strany ich nezvereji'\ovaf,
+neposkytovar, nezverovar, anl lnak nesprlstupnovar tretlm osobilm. a to ani po
+zaniku zmluvy.
+poru~enie povlnnostr podra tohto ~lanku zmluvy sa nepovazuju prlpady, kedy
+pOjde o daveme informacie, ktore su v dobe lch poskytnutla verejne dostupnymi,
+alebo sa stanu verejne dostupnyml lnak nez poru~enlm povinnostl ml~anllvostl
+zmtuvnych stran, alebo ktorYch poskytnulle sa vytaduje zakonom, na zaklade
+zakona, rozhodnuUa sudu alebo lneho prlstu§neho organu verejnej mocl.
+
+4. Za
+
+5. Zmluvne strany sa zavazuju, ze k povlnnosti mlcanlivostl zaviazu v~etkych svojlch
+zamestnancov, spolupracovnlkov, extemych partnerov, ako aj v~etky d'alsie
+spolupracujuce osoby, ktore z dOvodu pracovnopravneho, obchodneho Ci ineho
+vzt'ahu k zmruvnym stranam prldu, alebo mOzu prist' do styku s dOvernymi
+informaclami suvislacimi s predmetom plnenia podra tejto zmluvy, pricom za
+porusenle povlnnosti mlcanllvosti ijchto osob zodpovedaju zmluvne strany
+rovnako, ako by sa porusenia dopustlll sami.
+
+6. Porusenie povlnnosU zmluvnych stran podra tohto clanku zmluvy bude
+povatovane za podstatne porusenle zmluvy a zmluvne strany su opravnene
+domahat' sa nahrady Akody, ktora Jm vznikne porusenlm povlnnostl druhej
+zmluvnej strany. Zmluvne strany sa vyslovne dohodll, ze zavazky podra tohto
+clanku zmluvy ostavaju v platnostl aj po zaniku tejto zmluvy.
+
+Clanok IX
+Sankcie
+
+1. V prlpade, ak poskytovater porusf lehoty na uskutocnenle zasahu urcene podra
+clanku IV tejto zmluvy, je objednavater opravneny uplatnlr sl zmluvnu pokutu vo
+vyske 0,5% z celkovej ceny poskytovanych sluzleb podra prllohy c.1 tejto zmluvy,
+a to za ka!du, aj zacatU hodlnu porusenia zabezpecovanej povlnnosti
+poskytovatera, maximalne v§ak do vysky celkovej ceny sluzieb stanovenej
+v prOche c.1 tejto zmluvy •
+2. V prlpade, ak poskytovater nedodr:Zf term In zrladenia slutby pod fa ct. X bod 1 tejto
+zmluvy, je objednavater opravneny uplatnir si zmluvnu pokutu vo vyske 0,5% z
+celkovej ceny poskytovanych slutieb podra prllohy
+tejto zmluvy za kazdy aj
+zacaij den porusenla zabezpecovanej povinnosti.
+
+c.1
+
+Strana 6 z 9
+
+3. Objednavater sa v pripade omeskanla s uhradou faktury zavazuje zaplatir
+poskytovaterovl umky z omeskanla v zakonnej V}iske.
+4. Zmluvne strany sa dohodll, ze sankcle je povlnna strana uhradlf opravnenej strane
+na zakfade vystavenej faktUry-dai'\ov6ho dokladu, so splatnosfou 30 kalendamych
+dnf odo dna jej dorufenia.
+5. Zmluvne strany vyhlasuju a potvrdzuju, ze V}iska zmluvnych pokut, aka aj inych
+sankcll dojednanych touto zmluvou je obvykla a primerana povahe a v}'znamu
+zabezpefovanych povlnnosU zmluvnych stran.
+6. Vykonanlm uhrady zmluvnych pokut nie su dotknute pmva zmluvnych stran na
+uplatnenie si nahrady skody v plnom rozsahu.
+
+flanokX
+Trvanle a zainlk zmluvy
+
+1. Zmluva sa uzatvara na dobu urcltu do 6. 11.2017. Termfn zrladenia sluzby je 11 .
+10. 2017 vratane overenia funkclonallty prenosov dat zo strany objednavatera ..
+2. Zmluvu mo:Zno ukonclf niektof9m z nasledovnych spOsobov:
+pfsomnou dohodou zmluvnych stmn,
+odstUpenfm od zmluvy z dOvodov uvedenych v tejto zmluve alebo v Obchodnom
+zakonnfku,
+3. Objednavater je opravneny okamzlte odstuplf od zmluvy z dOvodov podstatneho
+porusenia tejto zmluvy poskytovatarom. Podstatnym poru§enfm zmluvy na strane
+poskytovatera sa rozumle tlez:
+omeskanle poskytovatera s termfnom plnenla dohodnut}'m podra tejto zmluvy,
+vykonavenle cinnostf preukazaterne v rozpore s podmlenkaml dohodnut}'mi v
+zmluve naprfek tomu, ze objednavater poskytovatera na taketo porusenle zmluvy
+pfsomne upozornll a poskytovater nedostatky neodstranll ani v prlmeranej
+dodatoenej lehote poskytnutej k tomuto ufelu objednavaterom,
+bezdOvodne prerubnie alebo zastavenle poskytovania sluzleb v rozpore s
+ustanovenlaml tejto zmluvy, alebo lny prejav poskytovatera, z ktoreho nlet pochyb,
+ze poskytovater nama zaujem na splnenf svojlch zavazkov.
+4. Poskytovater je opravneny odstupir od zmluvy z dOvodov podstatneho poru§enia
+tejto zmluvy objednavaterom. Podstatnym porusenfm zmluvy na strane
+objednavatera sa mzumle tiez omeskanle objednavatera s uhradou dojednanej
+ceny sluZleb presahujuce 30 dnf, naprfek tomu, ze poskytovater objednavatera na
+omeskanie pfsomne upozomll a objednavater uhradu nevykonal ani v primeranej
+dodatocnejlehote poskytnutej k tomuto ucelu poskytovaterom.
+5. Odstupenie od zmluvy musf byr vykonane pfsomne a musf byt' dorufene druhej
+zmluvnej strane. Odstupenfm sa zmluva zru§uje, s uCinkaml k okamlhu, kedy bude
+odstupujuci prejav doruceny druhej zmluvnej strane.
+6. Zanlkom tejto zmluvy nie su dotknute naroky zmluvnych stran, kton~ vznikli pred
+zanlkom tejto zmluvy. v tejto suvlslostl rna poskytovater narok na zaplatenle
+dojednanej ceny za sluzby poskytnute pred zanikom tejto zmluvy. Odstupenrm od
+tejto zmluvy nle su dotknute prava zmluvnych stran na nahradu §kody.
+
+Strana 7 z 9
+
+ClanokXI
+Zaverecne ustanovenia
+
+1. Na pravne vzt'ahy zmluvnych stran vyplyvajuce z tejto zmluvy, ktore nie su touto
+zmluvou osobitne upravene, sa vzfahuju prrstusne ustanovenia Obchodneho
+zakonnrka a d'atsrch vseobecne zavaznych pravnych predpisov vo vzfahu na
+predmet a obsah tejto zmluvy.
+2. Ak sa niektore ustanovenie tejto zmtuvy stane neplatnym, neucinnym alebo
+nevykonaternym kedykorvek po uzavretr tejto zmluvy, nebude tym dotknuta
+ptatnosr, ucinnosr atebo vykonaternosf ostatnych ustanovenr tejto zmtuvy.
+Zmtuvne strany sa v takom prrpade zavazuju bez zbytocneho odkladu na zaklade
+vzajomnej dohody nahradit' taketo neplatne, neticinne alebo nevykonaterne
+ustanovenie zmluvy novym ustanovenrm, ktore bude platne, ucinne a vykonaterne,
+a ktore bude najviac zodpovedaf hospodarskemu ucelu nahradzaneho
+ustanovenia. Do toho casu platr zodpovedajuca pravna uprava podfa Obchodneho
+zakonnrka a ostatnych platnych pravnych predpisov.
+3. Tato zmluva sa moze menif alebo dopfnaf len na zaklade obojstrannej dohody
+zmtuvnych stran, a to formou prsomnych, priebezne crstovanych dodatkov,
+podprsanych opravnenymi zastupcami obidvoch zmluvnych stran.
+4. Neoddeliternou sticasfou tejto zmtuvy je jej prfloha c.1 , ktora obsahuje strucnu
+specifikaciu sluzieb vratane ceny poskytovanych sluzieb a Servis Level
+Agreement.
+5. Zmluva nadobuda platnosf dnom jej podpisu opravnenymi zastupcami oboch
+zmluvnych stran a ucinnosr dnom nasledujucim po dni jej zverejnenia
+v Centralnom registri zmluv.
+6. Tato zmluva je vyhotovena v styroch rovnopisoch, z ktor)'ch kazdy rna pravnu silu
+originalu, pricom kazda zo zmluvnych stran dostane po dvoch rovnopisoch zmluvy.
+7. Zmluvne strany vyhlasuju , ze ich zmluvna vofnosf nle je obmedzena a potvrdzuju
+sposobilosf uzavrief tuto zmluvu.
+8. Zmluvne strany vyhlasuju, ze sa s obsahom zmluvy pred jej uzavretrm riadne
+oboznamili, tomuto porozumeli, zmluva zodpoveda lch voti, zmluvu uzatvaraju
+dobrovorne, slobodne a vazne, s vedomrm si nasledkov pravneho ukonu, nie v
+tiesni za napadne nevyhodnych podmienok, na dokaz coho k zmluve pripajaju
+svoje podpisy.
+
+Za objednavatera:
+
+Za poskytovatera:
+
+V Bratislave, .. 1.q:.fr!.:.'!:.~.!.T.
+
+V Bratlslave, ............................... .
+
+Pod pis:
+
+Podpis:
+
+n~r·
+
+OC. -10.
+
+cOI'"':?-
+
+wiilf/£L___
+
+Peter Fuska, Konatel
+
+Strana 8 z 9
+
+Prlloha c.1 k zmluve c. ZML
+Level Agreement
+
+/2017-500: Popis sluiieb, kalkuhicla ceny a Servis
+
+Popis sluzleb:
+
+Realizacia a prevadzka bezpefnej web lokallty na prezentaciu '!Ysledkov do volieb organov
+samospravnych krajovv roku 2017 s dostupnosrou 99.8% (vratane replikacie na VPS),
+systemova sprava dodavaneho riebnla , AntiOOoS ochrana prenajateho servera.
+Kalku/acla ceny:
+.. - . ·pop·s
+
+·-
+
+!;lu?11~b
+
+-
+
+~-
+
+-
+
+--
+
+··· -- ·.· ·· .;J
+•
+
+-
+
+......._.._,_
+
+-----~---
+
+-
+
+-
+
+cen:~ze
+•·
+
+M.J
+
+--
+
+·P
+
+•· •
+
+•
+
+.
+
+·
+
+•.v.;-:c,;;i(i'tii•i:.,.
+neE!
+• -, , .
+·•
+·
+
+DPH ·
+
+,
+
+-
+
+·g -:<~
+
+. .·
+
+£!n<-1
+
+~..._.a,___~·~---1-.....__
+
+Zrfadenle a poskylovanle slufby
+webhostingoveho priestoru na domene
+volbysr.sk vratane HW a ln~talafnych
+poplatkov
+
+ks
+
+€2600,00 1
+
+€2600,00
+
+€3120,00
+
+Zriadenie a prevadzka zalo!nej web
+lokallty pre replikaclu dat vratane
+prenajmu vlrtualneho prlvatneho
+servera (VPS).
+
+ks
+
+€150,00
+
+€150,00
+
+€180,00
+
+lmplementacla a prevadzka antiDDOS
+rie§enia pre vystavovanle vysledkov
+volleb na domene volbysr.sk
+s dostupnosfou 99.8%.
+
+ks
+
+€1050,00 1
+
+€1050,00
+
+€1260,00
+
+Sprava funkfnostl a bezpecnosti
+systemov na domene volbysr.sk
+
+ks
+
+€600,00
+
+1
+
+€600,00
+
+€720,00
+
+Konzultacne sluZby v rozsahu 3
+clovekodnr ohradom implementacle
+technlckeho rle!enla.
+
+6d
+
+€500,00
+
+3
+
+€1500,00
+
+€1800,00
+
+€5900,00
+
+€7080,00
+
+SPOLU
+
+1
+
+Servis Level Agreement:
+
+SLA
+Pok,YYa dostupnosr telefonickej a e-mallovej hotllne sluzby v pracovne dni 24 hodfn
+denne. Maxim«Mna reakcna doba na nastup na rie§enle problemu je 4h prl vzdialenej
+sprave a Sh prl fyzlckom zasahu. SLA v sebe zahMa proaktrvny monitoring a reakcle na
+vypadky v definovanych dostupnostlach SLA. Dostupnasr sluZby 99.8%.
+
+SLA+
+Pok,YYa dastupnosr telefonlckej a e-mallovej hotllne slutby a zyysenu pohotovosr v case
+konanla volleb (od 17:00 v del'\ konanla volleb do organov samospravnych krajov do
+17:00 v nasledujucl del'\). Maxlmalna reak~na doba na nastup na riesenle problemu pri
+vzdialenej sprave 10 mlnut a 1 h prl fyzickom zasahu.
+
+Strana 9 z 9
+
+

@@ -1,0 +1,689 @@
+D2018121003
+
+ZMLUVA O DIELO
+uzatvorená v zmysle § 536 a nasl. zákona č. 513/1991 Zb. Obchodného zákonníka v znení
+neskorších predpisov ( ďalej len ,,zmluva“)
+
+ZMLUVNÉ STRANY
+1. Objednávateľ:
+Úrad geodézie, kartografie a katastra SR
+Sídlo:
+Chlumeckého 2, 820 12 Bratislava 212
+IČO:
+00166260
+DIČ:
+2020830240
+IČ DPH:
+nie je platcom DPH
+Zastúpený:
+Ing. Mária Frindrichová, predsedníčka
+číslo účtu/IBAN:
+SK43 8180 0000 0070 0006 3089
+(ďalej len „Objednávateľ“)
+a
+2. Zhotoviteľ:
+Sídlo:
+IČO:
+Zápis:
+DIČ:
+IČ DPH:
+číslo účtu/IBAN:
+SWIFT:
+Zastúpený:
+
+Disig, a.s.
+Záhradnícka 151, 821 08 Bratislava
+35975946
+v Obchodnom registri Okresného súdu Bratislava I, oddiel Sa, vložka č.
+3794/B
+2022116976
+SK2022116976
+SK11 1100 0000 0026 2576 8772
+
+TATRSKBX
+
+Ing. Ľuboš Batěk – predseda predstavenstva
+Ing. Ivan Kühn – podpredseda predstavenstva
+(ďalej len „Zhotoviteľ“)
+
+(Objednávateľ a Zhotoviteľ spolu ďalej len „Zmluvné strany“ alebo jednotlivo „Zmluvná strana“)
+
+Článok. I
+ÚVODNÉ USTANOVENIA
+Zmluvné strany uzatvárajú túto zmluvu ako výsledok zadávania zákazky s nízkou hodnotou č. ZsNH
+18/2018 Objednávateľom podľa § 117 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov.
+
+Článok II.
+PREDMET ZMLUVY
+2.1.
+
+Predmetom tejto zmluvy je :
+a) záväzok Zhotoviteľa riadne a včas zhotoviť dielo špecifikované v čl. III tejto zmluvy a
+podľa podmienok dohodnutých v tejto zmluve a odovzdať toto dielo Objednávateľovi;
+
+D2018121003
+
+b) záväzok Zhotoviteľa riadne a včas poskytovať služby poskytovania a podpory diela podľa
+prílohy č. 1 tejto zmluvy; a
+c) záväzok Objednávateľa riadne a včas zhotovené dielo prevziať a zaplatiť zaň a za služby
+poskytovania a podpory diela Zhotoviteľovi dohodnutú cenu podľa podmienok tejto
+zmluvy.
+
+Článok III.
+DIELO
+3.1.
+
+3.2.
+
+Dielo, ktoré je predmetom tejto zmluvy, spočíva v upgrade funkcionality nástroja Disig QES
+Signer pre podpisovanie a overovanie elektronických dokumentov v systémoch v súčasnosti
+používaných Objednávateľom tak, aby bola zabezpečená automatická aktualizácia
+dôveryhodných zoznamov vydávaných Národným bezpečnostným úradom SR (ďalej len
+„NBÚ SR“) počas platnosti a účinnosti tejto zmluvy a aby predmetný nástroj Objednávateľa
+vytváral a overoval elektronické podpisy a umožňoval vyhotovovanie elektronických
+časových pečiatok v súlade s požiadavkami Nariadenia Európskeho parlamentu a Rady (EÚ)
+č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre
+elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (ďalej len
+„Nariadenie eIDAS“), zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti
+orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente)
+v znení neskorších predpisov a zákona č. 272/2016 Z. z. o dôveryhodných službách pre
+elektronické transakcie na vnútornom trhu (ďalej len „dielo“).
+Dielo bude pozostávať z nasledovných častí:
+3.2.1. rozšírenie funkcionality systému o štandardy v zmysle Nariadenia eIDAS;
+3.2.2. podpory pre automatizované overenie a aktualizáciu dôveryhodných zoznamov
+vydávaných NBU SR vo formáte DZ a TSL;
+3.2.3. funkcionality pre vytváranie a overovanie elektronických podpisov pre formáty:
+3.2.3.1. PAdES
+3.2.3.2. XAdES
+3.2.3.3. XAdES_ZEP 2.0;
+3.2.4. podpory pre Baseline profily podpisov;
+3.2.5. funkcionality pridávania časových pečiatok aj o typ – kvalifikovaná časová pečiatka
+dokumentu;
+3.2.6. podpory pre kontajnery:
+3.2.6.1. ASiC-S a ASiC-E (vyžadované pre Nariadenie eIDAS)
+3.2.6.2. XMLDataContainer (vyžadovaný legislatívou SR);
+3.2.7. funkcionality o možnosť spojenia a následného podpisovania viacerých dokumentov
+súčasne;
+3.2.8. podpory podpisovania typy dokumentov DOC, DOCX, ODT a Portable Network
+Graphics (.png);
+3.2.9. podpora spájania XAdES_ZEP podpisov;
+3.2.10. podpora implementácie a prevádzky systému aj na 64-bit platforme.
+
+Článok IV.
+ČAS PLNENIA
+4.1 Zhotoviteľ sa zaväzuje riadne vykonať dielo a odovzdať ho Objednávateľovi do 20 pracovných
+dní odo dňa nadobudnutia účinnosti tejto zmluvy.
+
+D2018121003
+
+4.2 Zhotoviteľ sa zaväzuje poskytovať služby podľa bodu 2.1. písm. b) tejto zmluvy po dobu 12
+mesiacov odo dňa prevzatia diela, t.j. odo dňa podpísania preberacieho protokolu k dielu
+oprávnenými zástupcami zmluvných strán.
+
+Článok V.
+MIESTO PLNENIA
+5.1. Miestom plnenia a odovzdania diela a poskytovania služieb podľa bodu 2.1 písm. b) tejto
+zmluvy je sídlo Objednávateľa uvedené v záhlaví tejto zmluvy.
+Článok VI.
+VLASTNÍCKE PRÁVO
+6.1. Vlastnícke práva k dielu, jeho logickým celkom ako aj jeho jednotlivým súčastiam, ktoré môžu
+byť predmetom vlastníckeho práva, prechádzajú na Objednávateľa dňom ich protokolárneho
+odovzdania oprávneným osobám Objednávateľa. Týmto okamihom prechádza na
+Objednávateľa aj nebezpečenstvo škody na diele.
+6.2. Objednávateľovi vzniká právo užívať dielo v súlade s touto zmluvou dňom podpísania
+preberacieho protokolu, ak sa zmluvné strany výslovne nedohodnú inak.
+6.3. Osoba oprávnená podpísať preberací protokol za Objednávateľa: riaditeľ odboru informatiky,
+bezpečnosti a krízového riadenia
+Osoba oprávnená podpísať preberací protokol za Zhotoviteľa:
+Tomáš Zeman
+tomas.zeman@disig.sk, +421 905 899 024
+
+Článok VII.
+CENA A PLATOBNÉ PODMIENKY
+7.1.
+
+Cena za celé dielo je určená v súlade s podmienkami tejto zmluvy a v súlade so zákonom č.
+18/1996 Z. z. o cenách v znení neskorších predpisov a vyhláškou č. 87/1996 Z. z. Ministerstva
+financií Slovenskej republiky, ktorou sa vykonáva zákon Národnej rady Slovenskej republiky
+č.18/1996 Z. z. o cenách v znení neskorších predpisov v celkovej výške 39.500,- EUR bez
+DPH, (slovom tridsaťdeväťtisícpäťsto EUR bez DPH). K cene bude fakturovaná DPH
+v zmysle zákona číslo 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších právnych
+predpisov.
+
+7.2.
+
+V cene diela sú zahrnuté všetky náklady Zhotoviteľa spojené s plnením tejto zmluvy, a to
+vrátane poskytovania služieb podľa bodu 2.1 písm. b) tejto zmluvy, dopravy osôb
+podieľajúcich sa na plnení diela, akýchkoľvek daní, ciel, poplatkov a platieb vyberaných
+v rámci uplatňovania nesadzobných opatrení, ktoré sú ustanovené osobitnými predpismi.
+
+7.3.
+
+Zhotoviteľovi nevznikne nárok na úhradu akýchkoľvek dodatočných nákladov, ktoré nie sú
+započítané do ceny diela. Cena za dielo zohľadňuje primerané, preukázateľné náklady a
+primeraný zisk Zhotoviteľa a je konečná.
+
+7.4.
+
+Zhotoviteľovi vznikne právo na vystavenie faktúry za dodanie diela podľa bodu 2.1 písm. a),
+bližšie špecifikovaného v článku III a služby podľa bodu 2.1 písm. b). tejto zmluvy dňom
+podpísania preberacieho protokolu k dielu oprávnenými zástupcami oboch zmluvných strán.
+
+D2018121003
+
+7.5.
+
+Splatnosť faktúry je tridsať (30) dní od jej doručenia Objednávateľovi e -mailom, na e-mail:
+podatelna@skgeodesy.sk. Úhrada faktúry bude realizovaná bezhotovostným platobným
+stykom na účet Zhotoviteľa uvedený v záhlaví tejto zmluvy. Pokiaľ počas platnosti a účinnosti
+tejto zmluvy dôjde k zmene čísla účtu ktorejkoľvek zmluvnej strany, zmluvné strany sú
+povinné si zmenu písomne oznámiť na adresu sídla uvedenú v záhlaví tejto zmluvy, a to
+najneskôr do piatich (5) pracovných dní odo dňa kedy zmena nastala. Zmena čísla účtu bude
+vo vzťahu k zmluvnej strane účinná odo dňa písomného oznámenia zmeny bez nutnosti
+uzatvoriť dodatok k tejto zmluve.
+
+7.6.
+
+Faktúra musí obsahovať všetky náležitosti podľa § 74 zákona č. 222/2004 Z. z. o DPH v
+platnom znení, číslo Zmluvy Objednávateľa, pričom prílohou faktúry bude kópia preberacieho
+protokolu v zmysle bodu 9.1 tejto zmluvy podpísaného oprávnenými zástupcami zmluvných
+strán.
+
+7.7.
+
+V prípade, že faktúra (daňový doklad) nebude obsahovať náležitosti daňového dokladu alebo
+nebude vystavená v súlade s touto zmluvou, Objednávateľ ju vráti do 5 pracovných dní od
+doručenia na prepracovanie. V takomto prípade lehota splatnosti faktúry začne plynúť
+doručením opravenej faktúry Zhotoviteľa. Opravená faktúra je splatná do 30 kalendárnych dní
+odo dňa jej doručenia Objednávateľovi na email: podatelna@skgeodesy.sk.
+
+Článok VIII.
+ĎALŠIE PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+8.1.
+
+Objednávateľ má aj nasledovné práva a povinnosti:
+a) Objednávateľ je oprávnený kontrolovať zhotovovanie diela v každom stupni jeho
+realizácie. Ak pri kontrole zistí, že Zhotoviteľ porušuje svoje povinnosti, má právo
+žiadať, aby Zhotoviteľ odstránil vady vzniknuté vadnou realizáciou diela a ďalej ho
+zhotovoval riadne.
+b) Objednávateľ je povinný bezodkladne informovať Zhotoviteľa o prekážkach resp.
+iných okolnostiach, ktoré môžu brániť Zhotoviteľovi riadne plniť predmet zmluvy.
+c) Objednávateľ je tiež povinný informovať Zhotoviteľa s dostatočným predstihom o
+technických a iných problémoch, ktoré bránia realizovať dielo v plánovanom termíne.
+d) Objednávateľ má právo používať dielo v súlade s podmienkami tejto zmluvy.
+
+8.2.
+
+Zhotoviteľ má aj nasledovné práva a povinnosti:
+a) Zhotoviteľ predloží do 7 pracovných dní od nadobudnutia účinnosti zmluvy zoznam
+kontaktných osôb zodpovedných za plnenie tejto zmluvy v rozsahu meno, priezvisko,
+e-mailová adresa, telefónne číslo, funkcia, e-mailové adresy alebo telefonický kontakt
+pre nahlasovanie vád.
+b) Zhotoviteľ sa zaväzuje, že dodá dielo v množstve, rozsahu, kvalite a v prevedení podľa
+podmienok dohodnutých v tejto zmluve,
+c) Zhotoviteľ je povinný bez zbytočného odkladu upozorniť na nevhodnú povahu alebo
+vady vecí, podkladov alebo pokynov daných mu Objednávateľom na realizáciu diela,
+ak zhotoviteľ mohol túto nevhodnosť zistiť pri vynaložení odbornej spôsobilosti,
+d) Ak zhotoviteľ zistí skryté prekážky na mieste, kde má dielo alebo jeho časť zhotoviť
+a tieto mu v tom bránia, je povinný ihneď takéto prekážky oznámiť Objednávateľovi,
+e) Zhotoviteľ sa zaväzuje zabezpečiť od svojich zamestnancov a /alebo subdodávateľov
+realizujúcich dielo, plnenie nasledovných povinností:
+1. dodržiavanie záväzku mlčanlivosti o informáciách, s ktorými počas výkonu prác
+pre Objednávateľa prišli do styku, a to aj po ukončení pracovného alebo obdobného
+pomeru,
+
+D2018121003
+
+2. zachovávať mlčanlivosť o údajoch, s ktorými počas výkonu prác pre objednávateľa
+prišli do styku, okrem prípadov v ktorých to umožňuje zákon.
+8.3.
+
+Zmluvné strany sa pri realizácii diela zaväzujú poskytovať si vzájomne súčinnosť, ktorou sa
+pre účely tejto zmluvy rozumie taká súčinnosť zmluvných strán, ktorá je nevyhnutná a náležitá
+pre riadne plnenie tejto zmluvy, a ktorá spočíva najmä v:
+a)
+
+b)
+
+c)
+d)
+
+poskytnutí všetkých potrebných údajov a prístupov zo strany Objednávateľa, ktoré
+môžu byť oprávnene požadované zo strany Zhotoviteľa za účelom riadneho plnenia
+predmetu tejto zmluvy,
+zo strany Objednávateľa v zabezpečení pripravenosti príslušných priestorov,
+v ktorých sa bude realizovať dielo, vrátane ich uvoľnenia a sprístupnenia, zabezpečení
+funkčných prípojných miest na elektrickú energiu v zmysle príslušných STN,
+zabezpečení prístupu zamestnancov Zhotoviteľa, resp. ním určených osôb do
+príslušných priestorov v súvislosti s plnením predmetu tejto zmluvy v rozsahu
+potrebnom k vykonaniu diela,
+umožnením prístupu k hardvérovému a softvérovému vybaveniu Objednávateľa
+v rozsahu potrebnom k vykonaniu diela, vrátane diaľkového prístupu,
+zo strany Objednávateľa vo vykonaní potrebných konfiguračných a implementačných
+prác v sieťovej infraštruktúre Objednávateľa v súvislosti s plnením predmetu tejto
+zmluvy v rozsahu potrebnom k vykonaniu diela.
+
+Článok IX.
+ODOVZDANIE A PREVZATIE DIELA
+9.1.
+
+Zhotoviteľ je povinný odovzdať dielo Objednávateľovi tak, aby ho bolo možné riadne prevziať
+a používať dohodnutým spôsobom na dohodnutý účel podľa podmienok tejto zmluvy.
+Odovzdanie a prevzatie diela potvrdia oprávnené osoby zmluvných strán v preberacom
+protokole.
+
+9.2.
+
+Ak pri preberaní diela Objednávateľ zistí, že má vady, ktoré bránia používaniu diela, dielo
+neprevezme a spíše so Zhotoviteľom zápis o zistených vadách, spôsobe a termíne ich
+odstránenia. Zhotoviteľ má povinnosť odovzdať dielo po odstránení týchto vád. Až po
+odstránení vád môžu zmluvné strany pristúpiť k spísaniu preberacieho protokolu. Uvedené
+nemá vplyv na povinnosť Zhotoviteľa odovzdať dielo v lehote podľa čl. IV tejto zmluvy
+a v prípade jeho porušenia sa Zhotoviteľ dostáva do omeškania s odovzdaním diela.
+
+Článok X.
+ZODPOVEDNOSŤ ZA VADY
+10.1. Zhotoviteľ zodpovedá za vady diela v zmysle ustanovení § 560 a nasl. Obchodného
+zákonníka.
+Článok XI.
+ÚROKY Z OMEŠKANIA
+11.1
+
+V prípade omeškania Objednávateľa so zaplatením ceny podľa bodu 7.1 zmluvy, je
+Zhotoviteľ oprávnený požadovať zaplatenie úrokov z omeškania, ktoré je Zhotoviteľ
+oprávnený Objednávateľovi účtovať úrok z omeškania vo výške 0,05% z dlžnej sumy za
+každý deň omeškania.
+
+D2018121003
+
+Článok XII.
+ZODPOVEDNOSŤ ZA ŠKODU
+12.1. V prípade vzniku škody porušením povinností vyplývajúcich z tejto zmluvy ktorejkoľvek
+zmluvnej strane, má druhá strana nárok na náhradu vzniknutej škody.
+12.2. Zmluvné strany zodpovedajú za škody vzniknuté porušením zmluvných povinností v súlade
+so všeobecne záväznými právnymi predpismi platnými v Slovenskej republike. Zmluvné
+strany sú povinné predchádzať vzniku škôd.
+12.3 V prípade omeškania Zhotoviteľa s dodaním diela v lehotách uvedených v čl. IV tejto zmluvy,
+je Objednávateľ oprávnený účtovať Zhotoviteľovi zmluvnú pokutu vo výške 0,05% z celkovej
+ceny podľa bodu 7.1 tejto zmluvy za každý začatý deň omeškania.
+12.4 Zmluvné strany sa dohodli, že zmluvná pokuta sa uplatňuje formou faktúry vystavenej
+Objednávateľom. Zhotoviteľ je v prípade podstatného porušenia zmluvných podmienok
+povinný uhradiť Objednávateľovi zmluvnú pokutu v súlade s touto zmluvou na účet
+Objednávateľa uvedený v záhlaví tejto zmluvy v lehote desiatich kalendárnych dní.
+Nedodržanie ktorejkoľvek podmienky a požiadavky zo strany Zhotoviteľa uvedenej v tejto
+zmluve sa bude považovať za podstatné porušenie zmluvných podmienok.
+12.5 Zaplatenie zmluvnej pokuty nemá vplyv na nárok na náhradu škody vzniknutej v súvislosti s
+porušením zmluvných povinností, ktorú je možné vymáhať samostatne a ktorá mu vznikla
+z nesplnenia povinnosti zabezpečenej zmluvnou pokutou.
+
+Článok XIII.
+ĎALŠIE DOJEDNANIA
+13.1. Zhotoviteľ poskytuje na dielo dodané na základe tejto zmluvy záruku v trvaní minimálne 12
+mesiacov.
+13.2. Záručná doba začína plynúť dňom podpísania preberacieho protokolu oprávnenými
+zástupcami zmluvných strán na prebratie a odovzdanie diela podľa tejto Zmluvy.
+13.3. Záruka zahŕňa najmä bezplatnú opravu (odstránenie vady) diela alebo výmenu vadných
+komponentov diela tak, aby boli zabezpečené požadované parametre diela špecifikované v
+tejto zmluve.
+13.4. Objednávateľ reklamuje vadu v záručnej dobe písomne u Zhotoviteľa bezodkladne po tom, čo
+sa o vade dozvedel. Pre dodržanie podmienky písomnej reklamácie postačí uplatniť
+reklamáciu e-mailom na adrese kontaktnej osoby Zhotoviteľa.
+13.5. Zhotoviteľ sa zaväzuje počas záručnej doby bezplatne odstrániť všetky vady:
+13.5.1. do 24 hodín odo dňa uplatnenia reklamácie Objednávateľom pri kritickej vade, ktorá
+zabraňuje plynulej prevádzke diela,
+13.5.2. do 3 pracovných dní odo dňa uplatnenia reklamácie Objednávateľom pri ostatných
+vadách, ktoré nezabraňujú plynulej prevádzke ale funkcionalita neposkytuje správne
+výsledky.
+13.6. Dopravné náklady a prácu servisného technika počas trvania záručnej doby znáša Zhotoviteľ.
+
+D2018121003
+
+13.7. V súlade s § 430 Obchodného zákonníka, záručná doba na dielo neplynie po dobu, po ktorú
+Objednávateľ nemôže užívať dielo pre jeho vady, za ktoré zodpovedá Zhotoviteľ.
+13.8. Zmluvné strany sa dohodli, že o tejto zmluve a jej plnení zachovajú mlčanlivosť a že nebudú
+údaje, s ktorými prišli do styku alebo ktoré sa dozvedeli pri plnení záväzkov, ktoré im z tejto
+zmluvy vyplývajú, zverejňovať ani sprístupňovať tretím osobám; môžu tak urobiť výslovne
+s písomným súhlasom druhej zmluvnej strany. Ustanovenie tohto bodu sa nepoužije na
+sprístupnenie alebo poskytnutie údajov a informácií právnym, účtovným, daňovým alebo
+audítorským poradcom príslušnej zmluvnej strany, na povinné zverejnenie zmluvy a plnenie
+ustanovení zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene
+a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov,
+v prípade vzniku sporu súdu a právnemu zástupcovi a tiež v prípadoch uvedenia referencií
+o plnení tejto zmluvy na účely účasti zmluvnej strany vo verejnom obstarávaní alebo v inom
+výberovom konaní alebo súťaži.
+13.9. Všetky spory, ktoré vzniknú z tejto zmluvy, vrátane sporov o jej platnosť, výklad alebo
+ukončenie sa zmluvné strany zaväzujú prednostne riešiť vzájomnými zmierovacími
+rokovaniami a dohodami štatutárnych zástupcov oboch zmluvných strán. V prípade, že sa
+vzájomné spory zmluvných strán vzniknuté v súvislosti s plnením záväzkov podľa zmluvy
+alebo v súvislosti s ňou nevyriešia, zmluvné strany sa dohodli a súhlasia, že všetky spory
+vzniknuté z tejto zmluvy budú riešené na miestne a vecne príslušnom súde Slovenskej
+republiky podľa právneho poriadku Slovenskej republiky.
+13.10. Zmeny a doplnky tejto zmluvy možno uskutočniť len formou písomných dodatkov k tejto
+zmluve po predchádzajúcej dohode oboch zmluvných strán, inak je zmena či doplnenie
+neplatné.
+Článok XIV.
+ODSTÚPENIE OD ZMLUVY
+14.1. Od zmluvy môže ktorákoľvek zo zmluvných strán odstúpiť v prípadoch podstatného porušenia
+zmluvy v prípade, ak druhá strana tejto Zmluvy jednostranne podstatne porušuje ustanovenia
+Zmluvy a ani po písomnom upozornení neupustí od tohto konania.
+14.2. Pokiaľ vady nie sú Zhotoviteľom odstránené v lehote na odstránenie vád, Objednávateľ je
+oprávnený od zmluvy jednostranne odstúpiť.
+14.3. Dôvodom k okamžitému odstúpeniu od Zmluvy zo strany Objednávateľa sú:
+- vstup Zhotoviteľa do likvidácie,
+- vyhlásenie konkurzu na majetok Zhotoviteľa,
+- vady nie sú Zhotoviteľom odstránené v lehote na odstránenie vád,
+- anticipované podstatné porušenie zmluvy Zhotoviteľom podľa § 348 OZ
+14.4. Dôvodom k okamžitému odstúpeniu od Zmluvy zo strany Zhotoviteľa sú:
+- omeškanie Objednávateľa s platením dlhšie ako 6 týždňov,
+- vstup Objednávateľa do likvidácie,
+- vyhlásenie konkurzu na majetok Objednávateľa.
+14.5. Odstúpenie od zmluvy musí mať písomnú formu, musí sa v ňom uviesť dôvod odstúpenia a
+musí byť doručené druhej zmluvnej strane na adresu sídla uvedenú v záhlaví tejto zmluvy.
+Účinky odstúpenia od zmluvy nastanú dňom doručenia odstúpenia od zmluvy druhej zmluvnej
+strane. Odstúpením od zmluvy nezaniká nárok na náhradu škody. Platným odstúpením od
+
+D2018121003
+
+zmluvy sa táto zmluva od počiatku zrušuje a zmluvné strany sú povinné si vydať dovtedy
+poskytnuté plnenia.
+14.6. Zmluvu možno ukončiť aj písomnou dohodou zmluvných strán.
+
+Článok XV.
+ZÁVEREČNÉ USTANOVENIA
+15.1. Zmluvné strany sa dohodli, že táto zmluva sa uzatvára na dobu 24 mesiacov odo dňa
+nadobudnutia účinnosti tejto zmluvy.
+15.2. Na vzťahy medzi zmluvnými stranami vyplývajúce z tejto zmluvy, ale ňou výslovne
+neupravené sa vzťahujú príslušné ustanovenia Obchodného zákonníka v platnom znení.
+15.3. Zmluva nadobúda platnosť dňom podpisu obidvoma zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády SR.
+15.4. Zmluva je vyhotovená v 5 (piatich) rovnopisoch, z ktorých 2 (dva) si ponechá Zhotoviteľ a 3
+(tri) si ponechá Objednávateľ.
+15.5. V prípade, ak niektoré ustanovenie tejto zmluvy je alebo sa stane neplatným alebo neúčinným,
+nedotýka sa to ostatných ustanovení tejto zmluvy, ktoré zostávajú platné a účinné. Zmluvné
+strany sa v takom prípade zaväzujú dodatkom k tejto zmluve nahradiť neplatné alebo neúčinné
+ustanovenie ustanovením platným, ktoré čo najlepšie zodpovedá pôvodne zamýšľanému účelu
+ustanovenia neplatného alebo neúčinného. Do uzavretia takého dodatku platí zodpovedajúca
+právna úprava všeobecne záväzných právnych predpisov Slovenskej republiky
+15.6. Zmeny tejto Zmluvy je možné vykonať po vzájomnej dohode zmluvných strán, písomne
+formou očíslovaného dodatku uzatvoreného v súlade so zákonom č. 343/2015 Z. z. o verejnom
+obstarávaní v znení neskorších predpisov.
+15.7. Písomnosti podľa tejto Zmluvy sa doručujú na adresy zmluvných strán uvedené v záhlaví tejto
+Zmluvy, alebo na inú adresu písomne oznámenú niektorou zmluvnou stranou ostatným
+zmluvným stranám. Všetky takéto písomnosti sa doručujú poštou vo forme doporučenej
+zásielky, pričom ak v zmluve nie je uvedené inak, pre plynutie lehôt a posúdenie právnych
+účinkov jednotlivých písomných právnych úkonov je rozhodujúci deň prevzatia písomnosti
+adresátom vyznačený na doručenke. Ak sa zásielka z akéhokoľvek dôvodu vráti
+odosielateľovi, považuje sa deň jej vrátenia za deň doručenia písomnosti, a to aj vtedy,
+ak sa adresát o odoslaní zásielky a jej prípadnom uložení na pošte nedozvedel. Zásielka
+sa považuje za doručenú aj dňom odmietnutia jej prevzatia. Právne vzťahy touto zmluvou
+neupravené sa spravujú príslušnými ustanoveniami Občianskeho zákonníka a Obchodného
+zákonníka a ostatných všeobecne záväzných predpisov platných v Slovenskej republike.,
+pokiaľ v zmluve nie je dispozitívne uvedené inak.
+15.8. Zmluvné strany vyhlasujú, že si text tejto zmluvy riadne a dôsledne prečítali, porozumeli jej
+obsahu a právnym účinkom z nej vyplývajúcich. Ich zmluvné prejavy sú dostatočne jasné,
+určité a zrozumiteľné. Podpisujúce osoby sú oprávnené k podpisu tejto zmluvy a na znak
+súhlasu ju podpísali.
+15.9. Neoddeliteľnú súčasť tejto zmluvy tvorí:
+Príloha č. 1 – Podpisovač
+
+D2018121003
+
+V Bratislave dňa ___________
+Objednávateľ
+__________________________________
+Ing. Mária Frindrichová, predsedníčka
+Úrad geodézie, kartografie a katastra
+
+V Bratislave dňa ___________
+Zhotoviteľ
+__________________________________
+Ing. Ľuboš Batěk – predseda predstavenstva
+Disig, a.s.
+
+__________________________________
+Ing. Ivan Kühn – podpredseda predstavenstva
+Disig, a.s.
+
+D2018121003
+
+Príloha č. 1
+
+Opis predmetu zmluvy
+1. Predmet dodávky :
+
+
+
+
+
+
+
+
+Upgrade funkcionality Disig QES Signer pre podpisovanie a overovanie
+elektronických dokumentov v systémoch Katastrálneho portálu a služby
+Elektronického odosielania dokumentov (ďalej len ako “ELODO”) v zmysle
+platnej legislatívy.
+Zabezpečenie automatickej pravidelnej aktualizácie dôveryhodných zoznamov
+vydávaných Národným bezpečnostným úradom Slovenskej republiky (ďalej len
+“NBÚ SR”) počas platnosti a účinnosti tejto zmluvy.
+Rozšírenie funkcionality bude doplnené najmä o:
+o funkcionalitu systému o štandardy v zmysle Nariadenia EURÓPSKEHO
+PARLAMENTU A RADY (EÚ) č. 910/2014 z 23. júla 2014 o
+elektronickej identifikácii a dôveryhodných službách pre elektronické
+transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (ďalej len
+“Nariadenie eIDAS”)
+o podporu pre automatizované overenie a aktualizáciu dôveryhodných
+zoznamov vydávaných NBÚ SR vo formáte DZ a TSL počas platnosti a
+účinnosti tejto zmluvy,
+o funkcionalitu pre vytváranie a overovanie elektronických podpisov pre
+formáty :
+ PAdES
+ XAdES
+ XAdES_ZEP2.0
+o Podporu pre Baseline profily podpisov počas platnosti a účinnosti tejto
+zmluvy,
+o Funkcionalitu pridávania kvalifikovaných elektronických časových
+pečiatok aj o typ - Časová pečiatka dokumentu,
+o Podporu pre kontajnery :
+ ASiC-S a ASiC-E (vyžadované Nariadením eIDAS),
+ XMLDataContainer (vyžadovaný aktualizáciou legislatívy SR), a
+to počas platnosti a účinnosti tejto zmluvy
+o Funkcionalitu systému o možnosť spojenia a následného podpisovania
+viacerých dokumentov súčasne (tzv. vyznačenie právoplatnosti
+a vykonateľnosti),
+o Možnosť podpisovania typov dokumentov PDF, DOC, DOCX, ODT,
+XML a Portable Network Graphics (.png),
+o Možnosť spájania XAdES_ZEP podpisov,
+o Možnosť implementácie a prevádzky systému aj na 64-bit platform.
+o Objednávateľ neakceptuje dodanie ekvivalentného predmetu plnenia.
+Podmienky a spôsob dodania: do 20 pracovných dní od platnosti a účinnosti tejto
+zmluvy
+
+D2018121003
+
+2. Záruka a záručný servis
+
+
+
+
+
+
+
+
+
+
+
+Na predmet dodávky tejto zmluvy sa vzťahuje záruka minimálne 12 mesiacov
+Záručná doba začína plynúť dňom podpísania dodacieho protokolu oprávnenými
+zástupcami zmluvných strán na prebratie a odovzdanie predmetu dodávky.
+Záruka zahŕňa najmä bezplatnú opravu (odstránenie vady) predmetu dodávky
+alebo výmenu vadných komponentov predmetu dodávky tak, aby boli
+zabezpečené požadované parametre predmetu dodávky špecifikované v tejto
+zmluve
+Objednávateľ reklamuje vadu v záručnej dobe písomne u Dodávateľa bezodkladne
+po tom, čo sa o vade dozvedel. Pre dodržanie podmienky písomnej reklamácie
+postačí uplatniť reklamáciu e-mailom na adrese kontaktnej osoby Dodávateľa.
+Predávajúci sa zaväzuje počas záručnej doby bezplatne odstrániť všetky vady:
+o do 24 hodín odo dňa uplatnenia reklamácie Objednávateľom pri kritickej
+vade
+o do 3 pracovných dní odo dňa uplatnenia reklamácie Objednávateľom pri
+ostatných vadách
+Dopravné náklady a prácu servisného technika počas trvania záručnej doby znáša
+Dodávateľ.
+V súlade s § 430 Obchodného zákonníka, záručná doba na predmet dodávky
+neplynie po dobu, po ktorú Objednávateľ nemôže užívať predmet dodávky pre
+jeho vady, za ktoré zodpovedá Dodávateľ.
+
+3. Zodpovednosť za škodu
+
+
+Zmluvné strany zodpovedajú za škody vzniknuté porušením zmluvných
+povinností v súlade so všeobecne záväznými právnymi predpismi platnými v
+Slovenskej republike.
+
+4. Sankcie
+
+
+
+
+
+
+V prípade zavineného omeškania Dodávateľa s dodaním predmetu dodávky podľa
+tejto Zmluvy, je Objednávateľ oprávnený účtovať Zhotoviteľovi zmluvnú pokutu
+vo výške 0,05% z celkovej hodnoty obstarania za každý začatý deň omeškania.
+V prípade omeškania Objednávateľa s plnením peňažného záväzku podľa tejto
+Zmluvy je Zhotoviteľ oprávnený účtovať Objednávateľovi úrok z omeškania vo
+výške 0,05% z dlžnej sumy za každý deň omeškania.
+Zaplatenie zmluvnej pokuty nemá vplyv na nárok Objednávateľa na náhradu
+škody, ktorá mu vznikla z nesplnenia povinnosti zabezpečenej zmluvnou pokutou.
+
+D2018121003
+
+5. Ukončenie zmluvy
+
+
+Zmluvné strany sa dohodli, že túto zmluvu je možné ukončiť písomnou dohodou
+zmluvných strán alebo jednostranným odstúpením od zmluvy.
+ Objednávateľ a Dodávateľ sú oprávnení jednostranne odstúpiť od zmluvy
+v prípade, ak druhá strana tejto Zmluvy jednostranne podstatne porušuje
+ustanovenia Zmluvy a ani po písomnom upozornení neupustí od tohto konania.
+ Pokiaľ vady nie sú Dodávateľom odstránené v lehote na odstránenie vád,
+Objednávateľ je oprávnený od zmluvy jednostranne odstúpiť.
+Dôvodom k okamžitému odstúpeniu od Zmluvy
+zo strany Objednávateľa sú:
+-
+
+vstup Dodávateľa do likvidácie,
+vyhlásenie konkurzu na majetok Zhotoviteľa,
+vady nie sú Dodávateľom odstránené v lehote na odstránenie vád,
+anticipované podstatné porušenie zmluvy Zhotoviteľom podľa § 348 OZ
+
+zo strany Zhotoviteľa sú:
+
+
+omeškanie Objednávateľa s platením dlhšie ako 6 týždňov,
+vstup Objednávateľa do likvidácie,
+vyhlásenie konkurzu na majetok Objednávateľa.
+
+Odstúpenie od zmluvy musí mať písomnú formu, musí sa v ňom uviesť dôvod
+odstúpenia a musí byť doručené druhej zmluvnej strane na adresu sídla uvedenú
+v záhlaví tejto zmluvy. Účinky odstúpenia od zmluvy nastanú dňom doručenia
+odstúpenia od zmluvy druhej zmluvnej strane. Odstúpením od zmluvy nezaniká
+nárok na náhradu škody. Platným odstúpením od zmluvy sa táto zmluva od
+počiatku zrušuje a zmluvné strany sú povinné si vydať dovtedy poskytnuté
+plnenia.
+
+6. Kontaktné osoby
+
+
+Dodávateľ predloží do 7 pracovných dní od nadobudnutia účinnosti zmluvy
+zoznam kontaktných osôb zodpovedných za plnenie tejto zmluvy v rozsahu meno,
+priezvisko, e-mailová adresa, telefónne číslo, funkcia, - e-mailové adresy alebo
+telefonický kontakt pre nahlasovanie porúch.
+
+7. Miesto plnenia
+
+
+Úrad geodézie, kartografie a katastra SR
+Chlumeckého 2, P.O.Box 57
+
+D2018121003
+
+820 12 Bratislava 212
+
+8. Štruktúra cenovej ponuky:
+Názov položky
+
+Jednotka
+
+Počet
+
+Cena za zriadenie nástroja
+
+súbor
+
+1
+
+Cena za poskytovanie
+a podporu nástroja
+
+mesiac
+
+12
+
+
+
+
+Jednotková
+Cena spolu
+cena
+25 100,00 EUR 25 100,00 EUR
+bez DPH
+bez DPH
+1 200,00 EUR 14 400,00 EUR
+bez DPH
+bez DPH
+
+Podkladom pre úhradu ceny bude faktúra vystavená Dodávateľom.
+Nárok na úhradu faktúry vzniká podpísaním Dodacieho listu bez výhrad oboma
+zmluvnými stranami. Splatnosť faktúry je 30 pracovných dní od odo dňa jej
+doručenia Objednávateľovi e – mailom, na e - mail. Faktúra musí obsahovať
+náležitosti daňového dokladu podľa právnych platných predpisov, číslo Zmluvy
+Objednávateľa kópiu podpísaného Dodacieho protokolu. Ak predložená faktúra
+nebude obsahovať náležitosti daňového dokladu alebo nebude vystavená v súlade
+s touto zmluvou, Objednávateľ ju vráti do 5 pracovných dní od doručenia na
+prepracovanie. V takomto prípade lehota splatnosti faktúry začne plynúť
+doručením opravenej faktúry. Opravená faktúra je splatná do 30 kalendárnych dní
+odo dňa jej doručenia kupujúcemu na email.
+
+9. Záverečné ustanovenia
+
+
+
+
+
+
+
+
+
+
+Zmeny tejto Zmluvy je možné vykonať po vzájomnej dohode zmluvných strán,
+písomne formou očíslovaného doplnku.
+Písomnosti zasielané v spojitosti s touto zmluvou, do sídla alebo na miesto pre
+doručenie, uvedené zmluvnými stranami, sa považujú za doručené, i keď nedôjde
+k ich prevzatiu, dňom ktorým budú zásielky uložené v miestne
+príslušnom poštovom podniku.
+Právne vzťahy touto zmluvou neupravené sa spravujú príslušnými ustanoveniami
+Občianskeho zákonníka a Obchodného zákonníka, pokiaľ v zmluve nie je
+dispozitívne
+uvedené inak.
+Zmluva nadobúda platnosť dňom podpisu zástupcami oboch zmluvných strán
+a účinnosť dňom nasledujúcim po dni zverejnenia v centrálnom registri zmlúv po
+dobu minimálne 12 mesiacov.
+Zmluvné strany vyhlasujú, že sa s obsahom Zmluvy oboznámili, jej obsahu
+porozumeli
+a ako slobodný a vážny prejav vôle ju na znak svojho súhlasu podpísali.
+
+D2018121003
+
+

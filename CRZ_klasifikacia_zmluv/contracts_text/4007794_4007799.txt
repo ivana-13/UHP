@@ -1,0 +1,559 @@
+Dodatok č. 2
+k zmluve o poskytovaní servisnej činnosti
+č. SLA/2008/12/AB
+
+Článok I.
+Zmluvné strany
+
+1. Objednávateľ:
+Úrad pre reguláciu elektronických komunikácií a poštových služieb
+Továrenská 7,
+828 55 Bratislava 24
+Slovenská republika
+Zastúpený: Ing. Vladimír Kešjar, predseda úradu
+IČO:
+42 355 818
+DIČ:
+2024 003 729
+Bankové spojenie: Štátna pokladnica Bratislava
+Číslo účtu: SK23 8130 0000 0070 0049 9755
+(ďalej len „objednávateľ“, alebo „úrad“)
+
+2. Poskytovateľ:
+TEMPEST a. s.
+Krasovského 14
+851 01 Bratislava
+Slovenská republika
+Zastúpený: Ing. Roman Kriško, člen predstavenstva
+IČO:
+31 326 650
+IČ DPH: SK2020327716
+DIČ:
+2020327716
+Bankové spojenie: Tatra banka, a.s. Bratislava
+Číslo účtu: SK13 1100 0000 0026 2004 1080
+Spoločnosť je zapísaná v Obchodnom registri Okresného súdu
+Bratislava I, oddiel: Sa, vložka číslo: 3771/B
+(ďalej len „poskytovateľ“)
+
+TEMPEST a.s. – Regulačný úradkkl
+
+Dodatok č. 2 k zmluve č. SLA/2008/12/AB
+
+1/5
+
+Článok II.
+Preambula
+Vzhľadom na to, že:
+(i)
+
+Dňa 29.12.2008 uzavreli zmluvné strany Zmluvu o poskytovaní servisnej činnosti č.
+SLA/2008/12/AB (ďalej len „zmluva“) s cieľom zabezpečiť pre zákazníka poskytovanie
+servisných služieb;
+
+(ii)
+
+zmluvné strany berú na vedomie zmeny v identifikačných údajoch zmluvných strán, pričom
+aktuálne identifikačné údaje sú uvedené v článku 1 tohto Dodatku č. 2 k zmluve (ďalej len
+„dodatok“);
+
+(iii)
+
+objednávateľ prejavil vôľu aktualizovať komponenty informačného systému objednávateľa
+na ktoré poskytuje poskytovateľ servisné služby uvedené v Prílohe č. 1 zmluvy;
+
+(iv)
+
+zmluvné strany sa na základe horeuvedených skutočností a v súlade s článkom XI. zmluvy
+dohodli na uzavretí tohto dodatku, ktorým sa zmluva mení a dopĺňa takto:
+
+Článok III.
+Zmeny a doplnky
+1) Príloha č. 1 sa mení a jej nové znenie je nasledovné:
+Príloha č. 1
+K Zmluve o poskytovaní servisnej činnosti
+č. SLA/2008/12/AB
+Komponenty informačného systému objednávateľa na ktoré poskytovateľ poskytuje
+servisné služby (Servisované komponenty)
+Č.
+
+Označenie, OS
+
+Popis/Účel zariadenia
+
+Sériové číslo
+
+Servery
+1.
+
+755258-B21
+
+HPE Proliant DL360 Gen9 8SFF, HyperV host
+
+CZJ7394N4H
+
+2.
+
+755258-B21
+
+HPE Proliant DL360 Gen9 8SFF, HyperV host
+
+CZJ7394N4J
+
+3.
+
+767032-B21
+
+HPE Proliant DL380 Gen9 24 SFF,
+Hyper-V replication server
+
+CZJ74504NH
+
+4.
+755258-B21
+
+TEMPEST a.s. – Regulačný úradkkl
+
+HPE Proliant DL360 Gen9 8SFF, ESXi
+host
+
+Dodatok č. 2 k zmluve č. SLA/2008/12/AB
+
+CZJ74404ZW
+
+2/5
+
+5.
+755258-B21
+
+HPE Proliant DL360 Gen9 8SFF, ESXi
+host
+
+CZJ74404YK
+
+755259-B21
+
+HPE Proliant DL360 Gen9 4LFF,
+Windows Veeam backup server
+
+CZJ74404YJ
+
+6.
+Storage, Backup, Power
+1.
+
+Q1J03A
+
+HPE MSA 2052 SAN Storage
+
+2S6733B186
+
+2.
+
+MSL2024
+
+Tape Library MSL2024, LTO-7 Drive
+
+DEC64405NC
+(Drive: 9C16406685)
+
+3.
+
+J2R04A
+
+HPE R/T3000 G4 HV INTL UPS
+
+3C87352068
+
+4.
+
+J2R04A
+
+HPE R/T3000 G4 HV INTL UPS
+
+3C87352069
+
+P9Q36A
+
+HPE G2 Basic Mdlr 3.6 kVA/(2) C19
+WW PDU
+
+CN07021251
+
+P9Q36A
+
+HPE G2 Basic Mdlr 3.6 kVA/(2) C19
+WW PDU
+
+CN07021257
+
+5.
+6.
+Sieťové prvky
+1.
+
+WS-C3750G-24TS-1U
+
+Catalyst 3750 24 10/100/1000, Core
+switch
+
+FOC1210ZBX7
+
+2.
+
+WS-C3750G-24TS-1U
+
+Catalyst 3750 24 10/100/1000, Core
+switch
+
+FOC1210ZBX5
+
+3.
+
+WS-C2960S-24TS-S
+
+Catalyst 2960S 24 GigE, 2 x SFP LAN
+Lite, Server Switch
+
+FOC1438Z5GV
+
+4.
+
+WS-C2960S-24TS-L
+
+Catalyst 2960S 24 GigE, 2 x SFP LAN
+Lite, Server Switch
+
+FOC1422Z4HJ
+
+5.
+
+ASA5510-SEC-BUN-K9
+
+ASA 5510 Security Plus Appl with SW,
+HA, 2GE+3FE, 3DES/AES, Firewall
+
+JMX1222L0VB
+
+6.
+
+ASA5510-SEC-BUN-K9
+
+ASA 5510 Security Plus Appl with SW,
+HA, 2GE+3FE, 3DES/AES, Firewall
+
+JMX1222L0VD
+
+7.
+
+SG300-52
+
+Cisco SG300-52 52-Port Gigabit Managed
+Switch
+
+DNI211003MQ
+
+8.
+
+SG300-52
+
+Cisco SG300-52 52-Port Gigabit Managed
+Switch
+
+DNI212004J8
+
+9.
+
+SG300-52
+
+Cisco SG300-52 52-Port Gigabit Managed
+Switch
+
+DNI211003QG
+
+10. JL254A
+
+Aruba 2930F 48G 4SFP+ Ethernet switch
+
+ZZSNABSENT28
+
+11. JL254A
+
+Aruba 2930F 48G 4SFP+ Ethernet switch
+
+ZZSNABSENT29
+
+12. JL253A
+
+Aruba 2930F 24G 4SFP+ Ethernet switch
+
+ZZSNABSENT32
+
+Routre
+1.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ212192JB
+
+2.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ1805C55Y
+
+3.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ1805C55Y
+
+TEMPEST a.s. – Regulačný úradkkl
+
+Dodatok č. 2 k zmluve č. SLA/2008/12/AB
+
+3/5
+
+4.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ212192JA
+
+5.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ212192J8
+
+6.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ180690GA
+
+7.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ212192J7
+
+8.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ212192JD
+
+9.
+
+C896VA-K9
+
+Pobočkový router Cisco C896VA-K9
+
+FCZ1805C566
+
+Služby
+č.
+
+Účel
+
+Popis
+
+Pozn.
+
+1.
+
+Hyper-V
+
+Hyper-V Cluster Node
+
+S36-S37
+
+2.
+
+Hyper-V
+
+Hyper-V Replication Server
+
+S38
+
+3.
+
+Proxy
+
+(TMG, RADIUS (NPS)) Server
+
+S05
+
+4.
+
+Exchange
+
+Exchange Mailbox Server
+
+S40-S41
+
+5.
+
+AD/DNS/CA
+
+AD, DHCP, CA, Backup Server
+
+-
+
+6.
+
+EES
+
+Eset Era Server
+
+S07
+
+7.
+
+SQL
+
+Database SQL Server
+
+S08
+
+8.
+
+Backup
+
+HP Data Protector
+
+S17
+
+9.
+
+SharePoint
+
+Sharepoint Server
+
+S24
+
+10
+
+SCCM
+
+SCCM Server
+
+S29
+
+11. DNS
+
+DNS pre pobočky
+
+S31
+
+12. FS
+
+File Server
+
+S32
+
+13. Proxy and Web
+
+Proxy and Web Server
+
+S33-S34
+
+14. vCenter
+
+VMware vSphere vCenter
+
+LS-vcenter
+
+15. VSMA
+
+vSphere Management Assistant VM
+
+LS-vsma
+
+16. ESX
+
+ESX Server
+
+LS-S01-S02
+
+17. Backup
+
+Veeam Backup Server
+
+LS-S03
+
+Servisné služby podľa tejto zmluvy nezahŕňajú služby podpory výrobcov jednotlivých
+komponentov uvedených v tejto Prílohe č. 1 (tzv. maintenance support), t.j. servisné služby
+neobsahujú prístup k softvérovým upgradom, prístup k bezpečnostným patchom, dodávku
+náhradných dielov a pod. Servisné služby podľa tejto zmluvy sa týkajú výhradne podpory
+prevádzkovaných služieb, programového vybavenia ako aj administrácie a konfigurácie
+servisovaných komponentov. Avšak v prípade, že objednávateľ má na daný komponent
+servisovaného prostredia zakúpený platný maintenance support príslušného výrobcu, môže byť
+na žiadosť objednávateľa po poskytnutí nevyhnutnej súčinnosti poskytovateľovi súčasťou
+služieb servisnej podpory podľa tejto zmluvy aj komunikácia s výrobcami, registrácia servisných
+prípadov voči výrobcovi, žiadosť o dodanie a výmena náhradných dielov, realizácia upgradov,
+aplikácia bezpečnostných patchov a iné služby spojené so zabezpečením riadnej prevádzky
+servisovaných komponentov.
+
+TEMPEST a.s. – Regulačný úradkkl
+
+Dodatok č. 2 k zmluve č. SLA/2008/12/AB
+
+4/5
+
+Článok IV.
+Záverečné ustanovenia
+
+1) Ustanovenia zmluvy, ktoré nie sú zmenené, doplnené, alebo inak dotknuté týmto dodatkom.
+zostávajú platné a účinné v plnom rozsahu v doterajšom znení.
+2) Dodatok nadobúda platnosť dňom jeho podpísania oprávnenými zástupcami obidvoch
+zmluvných strán a účinnosť dňom nasledujúcom po dni jeho zverejnenia v Centrálnom
+registri zmlúv.
+3) Tento dodatok sa vyhotovuje v štyroch vyhotoveniach s platnosťou originálu, z ktorých
+každá zmluvná strana obdrží po dvoch vyhotoveniach.
+4) Zmluvné strany vyhlasujú, že majú spôsobilosť na právne úkony v plnom rozsahu, ich
+prejavy vôle sú dostatočne zrozumiteľné a určité, ich zmluvná voľnosť nebola žiadnym
+spôsobom obmedzená. Zmluvné strany vyhlasujú, že túto zmluvu neuzatvárali v tiesni, ani
+v omyle, ani za inak nevýhodných podmienok, zmluvu si prečítali, jej obsahu porozumeli
+a na znak toho, že obsah tejto zmluvy zodpovedá ich skutočnej a slobodnej vôli, ju
+prostredníctvom svojich oprávnených zástupcov podpísali.
+
+V Bratislave, dňa ........................
+
+za poskytovateľa
+
+___________________________
+Ing. Roman Kriško
+Člen predstavenstva
+
+TEMPEST a.s. – Regulačný úradkkl
+
+za objednávateľa
+
+___________________________
+
+Ing. Vladimír Kešjar
+Predseda úradu
+
+Dodatok č. 2 k zmluve č. SLA/2008/12/AB
+
+5/5
+
+

@@ -1,0 +1,956 @@
+•
+i
+
+Číslo zmluvy objednávateľa: 46002019
+
+Príloha č. 1
+Technická špecifikácia diela
+,,Predikčný systém ROVET TEKO 1"
+Predmetom zmluvy je dodávka nového systému pre prípravu a predikciu výroby na platforme
+D2000 z dôvodu zmeny technologického zariadenia pre výrobu elektrickej energie a tepla na
+TEKO 1.
+
+•
+
+1. Implementovanie systému ROVET
+• Dodávka a inštalácia predikčného systému pre novú technológiu na platforme D2000 vo
+verzii v12, implementácia a migrácia údajov do databázy Postgre SQL, inštalácia pod OS
+Linux, dodávka licencií a programového vybavenia ROVET MES pre komunikačné
+protokoly OPC UA a MQTT a jeho inštalácia, realizácia aplikácií ROVET vyplývajúcich z
+požiadaviek zákona o ochrane osobných údajov ( GDPR ) a zákona o kybernetickej
+bezpečnosti
+• realizácia technologických a bilančných schém v systéme MES vzhľadom na zmeny
+technológie, realizácia prepojenia na systém Optimalizačného algoritmu TEKO, realizácia
+technických parametrov a modulu nasadenia zdrojov (Hromadné zmeny a Odstávky) vo
+väzbe na systém Optimalizačného algoritmu, realizácia prípravy prevádzky a ostatných
+modulov ROVET v súvislosti s prechodom poskytovania PpS na prah a modulu tepelnej
+prognózy, realizácia ROVET SELT o nesymetrickú SRV vrátane cien, vytvorenie
+zobrazovania meracích miest vzhľadom na zmeny technológie, realizácia zobrazenia
+merania teploty na UB, realizácia automatického hodnotenia kvality PpS s validáciou
+podľa SEPS a realizácia automatickej technickej validácie kladnej a zápornej regulačnej
+elektriny podľa SEPS.
+• Dodávka a inštalácia systému ROVET SELT s funkciami automatická obojsmerná
+komunikácia na Damas Energy (DaE) + OKTE (ISZO), automatický import denných údajov
+fakturačných meračov elektriny z portálu VSD a ich ukladanie do ROVET vo forme
+validovaných dát, automatická technická validácia odchýlky bilančnej skupiny TEKO podľa
+VSD a import údajov z FT elektrárne TEKO do systému ROVET, import údajov z bilančnej
+skupiny do systému ROVET.
+• Realizácia diela zahŕňa aj protokolárne zaškolenie obsluhy
+• Odovzdanie technickej dokumentácie
+• Protokolárne odovzdanie diela
+2.
+
+Údržba a servis hardvéru a softvéru pre systém ROVET: na 4 roky, ktoré zahŕňa :
+a) (Maintenance) Aktualizácie Programového vybavenia
+•
+
+Údržba a servis základného (D2000, EDA) a aplikačného (SELT/PP, MES) SW vybavenia
+ROVET.
+
+b) Service level agreement (SLA)
+•
+•
+
+Poskytovanie služby Helpdesk
+Poskytovanie služby odstránenie porúch a nedostatkov.
+
+c) Ďalšie služby servisu a údržby
+•
+•
+
+IURISTICO.
+
+SW Profylaktická kontrola v rozsahu 36 hodín (9 hod/ štvrťročne).
+Úpravy a servis Aplikačného programového vybavenia z dôvodu legislatívnych zmien v
+rozsahu 80 hodín ročne.
+
+Strana 16 z 20
+
+Číslo zmluvy objednávateľa: 46002019
+
+•
+•
+•
+
+Opravy a servis pre databázový systém PostgreSQL
+Sťahovanie údajov z EEX
+Aktualizácia a kalibrácia predikčných modelov
+
+d) Obstarávateľom vyžiadané úpravy Programových balíkov (variabilné služby)
+
+..
+
+IURISTICO"
+
+•
+
+•
+
+•
+
+Strana 17 z 20
+
+Číslo zmluvy objednávateľa: 46002019
+
+Príloha č.2
+Návrh harmonogramu vykonania diela
+El - Implementácia systému ROVET do 31.5.2019
+E2 - Údržba a servis hardvéru a softvéru pre systém ROVET od 1.6.2019 - do 31.5.2023
+
+..
+
+IURISTJCO·
+AD'o'OW-i,UO. <AN'CLL41illlA
+
+•
+
+•
+
+'
+
+Strana 18 z 20
+
+l
+
+Číslo zmluvy objednávateľa: 46002019
+
+1
+
+Príloha č.3
+Výpisy z registrov zmluvných strán
+
+1
+
+1
+
+..
+
+•
+
+IURISTICO'
+ollC!VOKÁTSKA !1:,0IC:ElAtllA
+
+..
+
+,,
+
+Strana 19 z 20
+
+Číslo dožiadania: el-65855/2018/L
+VÝPIS Z OBCHODNÉHO REGISTRA
+Okresného súdu Žilina
+k dátumu 19.09.2018
+Oddiel: Sro
+Vložka číslo: 1304/L
+1. Obchodné meno
+IPESOFT spol. s r.o.
+11. Sídlo
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Bytčická 2
+Názov obce: Žilina
+PSČ: 010 01
+•
+Štát: Slovenská republika
+111. IČO: 31 589 898
+IV. Deň zápisu: 30.07.1993
+V. Právna forma: Spoločnosť s ručením obmedzeným
+Vl. Predmet podnikania (činnosti)
+1. kúpa tovaru na účely jeho predaja konečnému spotrebiteľovi ( maloobchod } alebo iným
+prevádzkovateľom živnosti ( veľkoobchod )
+2. počítačové služby
+3. služby súvisiace s počítačovým spracovaním údajov
+4. výskum a vývoj v oblasti prírodných a technických vied
+5. výroba komunikačných zariadení, spotrebnej elektroniky, počítačov a kancelárskych
+strojov
+6. činnosť podnikateľských, organizačných a ekonomických poradcov
+7. vykonávanie mimoškolskej vzdelávacej činnosti
+8. prenájom nehnuteľností spojených s poskytovaním iných než základných služieb
+spojených s prenájmom
+9. sprostredkovateľská činnosť v oblasti obchodu
+1O. sprostredkovateľská činnosť v oblasti služieb
+
+Strana 1
+
+VII. štatutárny orgán: konateľ
+Meno a priezvisko: Ing. Miroslav Kunsch
+Bydlisko:
+Názov obce: Lietava 412
+PSČ: 013 18
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Spôsob konania štatutárneho orgánu v mene spoločností s ručením obmedzeným:
+Spoločnosť zastupuje a za ňu podpisuje konateľ samostatne
+VIII. Spoločníci
+Meno a priezvisko: Ing. Ľubomír Húska
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Dubová 21
+Názov obce: Žilina
+Štát: Slovenská republika
+•
+Výška vkladu: 16 597,000000 EUR ( Peňažný vklad)
+Rozsah splatenia: 16 597,000000 EUR
+Meno a priezvisko: Ing. Vladimír Mečiar
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Dolná Trnovská 1330/145A
+Názov obce: Žilina
+PSČ: 010 01
+Štát: Slovenská republika
+Výška vkladu: 16 597,000000 EUR ( Peňažný vklad)
+Rozsah splatenia: 16 597,000000 EUR
+Meno a priezvisko: Ing. Miroslav Kunsch
+Bydlisko:
+Názov obce: Lietava 412
+PSČ: 013 18
+Štát: Slovenská republika
+Rodné číslo:
+Výška vkladu: 41 493,000000 EUR ( Peňažný vklad )
+Rozsah splatenia: 41 493,000000 EUR
+Meno a priezvisko: Mgr. Ján Rovňaník
+Bydlisko:
+
+Strana 2
+
+Názov obce: Kotešová 502
+PSČ: 013 61
+Štát: Slovenská republika
+Rodné číslo:
+Výška vkladu: 8 299,000000 EUR ( Peňažný vklad)
+Rozsah splatenia: 8 299,000000 EUR
+IX. Výška základného imania
+82 986,000000 EUR
+
+X. Rozsah splatenia základného imania
+82 986,000000 EUR
+Ďalšie právne skutočnosti
+XI. Iné ďalšie právne skutočnosti
+
+•
+
+1. Spoločnosť s ručením obmedzeným bola založená spoločenskou zmluvou zo dňa
+23.2.1993 podľa§ 105 a nasl. zák. č. 513/91 Zb.
+2. Valné zhromaždenie, konané dňa 10.11.1996, schválilo Dodatok č. 2 k Spoločenskej
+zmluve. Stary spis: S.r.o. 3842
+3. Na zasadnutí valného zhromaždenia konanom dňa 27.1.1997 bol schválený Dodatok č.
+3 k spoločenskej zmluve.
+4. Na valnom zhromaždení dňa 20.6.2000 bol schválený dodatok č. 4 k spoločenskej
+zmluve.
+5. Na zasadnutí valného zhromaždenia dňa 17.11.2000 bol schválený Dodatok č. 5 k
+spoločenskej zmluve.
+6. Na valnom zhromaždení dňa 25.4.2003 bol schválený dodatok č. 6 k spoločenskej
+zmluve.
+
+Výpis zo dňa 19.09.2018
+
+Strana 3
+
+ttflkátor: 50349287.ConVt>rskinR COítJForPrintedDocumenlsk, Jazyk: SK, Verzia: 2.1,
+
+Osvedčovacia doložka
+Osvedčujem, že tento listinný dokument vznikol zaručenou konverziou z elektronickej do lísUnnej podoby podľa§ 35 ods. 1 písm. a) zákona
+č. '30512013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o
+e-Governmente) v znení neskorších predpisov a podľa vyhlášky Ministerstva financií Slovenskej republiky č. 275/2014 Z. z. o zaručenej
+�onverzii.
+. .
+
+Udaje no11ovm1l,nuleho dl,)kun,entu v list111ne1 lorm�
+
+.
+
+•
+
+Počet listov
+
+Počet neprázdnych strán
+
+Formát papiera
+©
+O
+
+1 Formát papiera A4
+
+----- --- --
+
+Dokument obsahuje prostriedky autorizácie alebo časovú pečiatku
+Dokument neobsahuje prostriedky autorizácie ani časovú pečiatku
+
+Autanzatne prá,yPÓľ0dneho dokumentu \· el�l\tron1:;;ke1 forme
+Autonzac1a pôvodného elektron1ckeho '..loku1T,c,ntu
+
+..
+
+Stav autorizácie 1 p l atn a_
+... _ _ _ ______,
+
+Čas autorizácie
+
+·.
+
+•
+
+119.09.2018 16:54
+
+Čas overenia autorizácie l 19.09.2018 16:56
+Miesto autorizácie
+
+Osoba. ktorá autonzéicru 11yKonaln
+ldenlifikátor
+
+Zastupujúca
+
+1 Ministerstvo spravodlivosti SR. ICA • 10432139, NTRSK-00166073, SK
+
+Mandát
+
+éasova pečiatka pripoiená k prostnedku autonzac,e
+Stav časovej pečiatky
+
+platná
+
+čas vystavenia časovej pečiatky / 19.09.2018 16:54
+Vydavateľ časovej pečiatky
+
+čas overenia časovej pečiatky
+
+I CN=Tlme Stamp Authority 1, OU=SEP, O=Narodny bezpecnostny urad, C=SK
+
+Uda1e o zaručenej Konverzii
+Evidenčné číslo záznamu o zaručenej
+konverzii
+
+19.09.2018 16:56
+·
+
+Dátum a čas vykonania zaručenej konverzie
+
+.
+1
+
+.·
+SP-19-09-2018-002258
+
+119.09.2018 16:56
+1/2
+
+nota elektronického odtla�ku pôvodného elek ronlckého dokumentu
+VXxl2RAMZXrjYLdWu0uPOMBafd9aPQE6QnYZEbfSpb8=
+Funkcia použitá pre výpoee1 elektronického odUačku
+
+ISHA-256
+
+Zaručenú Konverziu vykonal •
+
+,co
+
+136631124
+
+Názov právnickej osoby
+
+Meno
+
+Iveta
+
+Priezvisko
+
+Buchtové
+
+Slovenská pošta, a.s.
+Partiz.ánska cesta 9, 975 99 Banská Bystrica
+OR OS BB, oddiel Sa, vložka č.803/S
+
+Funkcia alebo pracovné zaradenie z.a m e s tn a n e c po šty
+_ _ _ _ _ _ _ _ ....:. _ -=----------------- --------------1..I
+
+Podpis a pečiatka
+
+2/2
+
+Číslo dožiadania : el-72858/2018N
+VÝPIS Z OBCHODNÉHO REGISTRA
+Okresného súdu Košice 1
+k dátumu 12.10.2018
+Oddiel: Sa
+Vložka číslo: 1204/V
+1. Obchodné meno
+Tepláreň Košice, a. s. v skratke TEKO, a. s.
+II. Sídlo
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Teplárenská 3
+Názov obce: Košice
+PSČ: 042 92
+IIJ
+Štát: Slovenská republika
+III. IČO: 36 211 541
+IV. Deň zápisu: 21.01.2002
+V. Právna forma: Akciová spoločnosť
+Vl. Predmet podnikania (činnosti)
+1. výroba, výkup a odbyt elektrickej energie
+2. výroba, výkup, rozvod a odbyt tepelnej energie
+3. montáž a opravy meracej a regulačnej techniky
+4. vykonávanie skúšok a rozborov v chemickom laboratóriu
+5. kovoobrábanie
+6. zváracie práce
+7. prenájom náradia
+8. požičiavanie motorových vozidiel
+9. prevádzkovanie dráhy
+1O. investičná výstavba energetických zariadení
+11. výroba a predaj demineralizovanej vody
+12. oprava, odborné prehliadky a odborné skúšky vyhradených technických zariadení
+elektrických v rozsahu:
+E1 .1 technické zariadenia elektrické s napätím do 123 kV vrátane bleskozvodov
+E2 technické zariadenia elektrické s napätím do 1000 V vrátane bleskozvodov
+Strana 1
+
+•
+
+Triedy objektov:
+A objekty bez nebezpečenstva výbuchu
+B objekty s nebezpečenstvom výbuchu
+13. oprava, odborné prehliadky a odborné skúšky vyhradených technických zariadení
+tlakových v rozsahu:
+- technické zariadenia tlakové skupina A
+- technické zariadenia tlakové skupina B
+14. oprava a montáž určených meradiel v rozsahu:
+- merače pretečeného množstva vody - na studenú vodu
+- merače pretečeného množstva vody - na teplú vodu
+- merače tepla a ich členy
+15. montáž, rekonštrukcie, údržba elektrických zariadení
+16. montáž, rekonštrukcie a údržba tlakových zariadení
+17. výkon činnosti stavbyvedúceho
+lnžjnierske stavby
+- potrubná, energetické a iné líniové stavby
+18. faktoring a forfaiting
+19. montáž, rekonštrukcie, údržba plynových zariadení
+20. odborné prehliadky a odborné skúšky vyhradených technických plynových zariadení v
+rozsahu:
+technické zariadenia plynové skupina A na:
+•
+f znižovanie tlaku plynu so vstupným pretlakom plynu nad 0,4 MPa
+h spotreba plynov spaľovaním s výkonom nad 0,5 MW vrátane zariadení na výrobu
+ochranných atmosfér pri tepelnom spracovaní
+technické zariadenia plynové skupina B na:
+f znižovanie tlaku plynu so vstupným pretlakom plynu do 0,4 MPa
+g1 rozvod plynov s pretlakom plynu do 0,4 MPa vrátane
+g3 rozvod plynov s pretlakom plynu do 0,005 MPa
+h1 spotrebu plynov spaľovaním s výkonom od 5 kW do 0,5 MW vrátane zariadení na
+výrobu ochranných atmosfér pri tepelnom spracúvaní a všetky spotrebiče, pri ktorých sa
+vyžaduje napojenie na odťah spalín
+h2 spotrebu plynov spaľovaním s výkonom od 5 kW do 50 kW vrátane zariadení na
+výrobu ochranných atmosfér pri tepelnom spracúvaní a všetky spotrebiče, pri ktorých sa
+vyžaduje napojenie na odťah spalín
+21. zámočníctvo
+22. vodoinštalatérstvo a kúrenárstvo
+23. podnikanie v oblasti nakladania s nebezpečným odpadom
+24. výroba, montáž, údržba a opravy zariadení pre dodávku tepla okrem vyhradených
+technických zariadení
+25. prenájom nebytových priestorov a poskytovanie iných než základných služieb
+spojených s prenájmom
+26. podnikanie v oblasti nakladania s odpadmi okrem nebezpečného odpadu
+27. vnútroštátna nákladná cestná doprava
+VII. Štatutárny orgán: predstavenstvo
+Funkcia: člen
+
+Strana 2
+
+: 1
+11
+
+i\
+
+i'
+
+Meno a priezvisko: Ing. František Hazala
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Pri pošte 1257/25
+Názov obce: Košice
+PSČ: 040 17
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 15.05.2015
+Funkcia: člen
+Meno a priezvisko: Mgr. Vladimír Vágási
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Česká 1
+Názov obce: Košice - mestská časť Sever
+PSČ: 040 01
+Štát: Slovenská republika
+Dátum narodenia:
+•
+•
+Rodné číslo:
+
+•
+
+Vznik funkcie: 22.09.2016
+Funkcia: predseda predstavenstva
+Meno a priezvisko: Ing. Ladislav Koch
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Slovenskej jednoty 81/5
+Názov obce: Košice - mestská časť Sever
+PSČ: 040 01
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 14.05.2018
+Spôsob konania štatutárneho orgánu v mene akciovej spoločnosti:
+Vo všetkých veciach zaväzujúcich spoločnosť sú oprávnení konať všetci členovia
+predstavenstva, pričom v mene spoločnosti podpisujú vždy dvaja členovia predstavenstva,
+a to predseda spolu s členom predstavenstva spoločnosti. Podpisovanie za spoločnosť sa
+vykoná tak, že k vytlačenému alebo napísanému názvu spoločnosti, menám a funkciám v
+predstavenstve podpisujúci pripoja svoj podpis.
+VIII. Dozorná rada
+Meno a priezvisko: Ing. Marek Mitterpák, PhD.
+
+Strana 3
+
+I'
+
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+ldanská 4
+Názov obce: Košice - mestská časť Západ
+PSČ: 040 11
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 04.11.2016
+Meno a priezvisko: Ing. Juraj Petráš
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+JRD 3
+Názov obce: Trstené pri Hornáde
+PSČ: 044 11
+Štát: Slovenská republika
+Dátum narodenia: 1
+Rodné číslo:
+
+.,
+
+Vznik funkcie: 28.09.2017
+
+Meno a priezvisko: Ing. Roman Bánoczay
+Bydlisko:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Liptovská 42
+Názov obce: Bratislava - mestská časť Ružinov
+PSČ: 821 09
+Štát: Slovenská republika
+Dátum narodenia:
+Rodné číslo:
+Vznik funkcie: 28.06.2018
+IX. Akcionár
+Obchodné meno/názov:
+MH Manažment, a. s.
+Sídlo:
+Názov ulice (iného verejného priestranstva) a orientačné číslo (príp. súpisné číslo):
+Trnavská cesta 100
+Názov obce: Bratislava - mestská časť Ružinov
+PSČ: 821 01
+Štát: Slovenská republika
+X. Výška základného imania
+
+Strana 4
+
+38 21 O 898,000000 EUR
+XI. Akcie
+Počet: 1111
+Forma: Akcia na doručiteľa
+Podoba: Zaknihované
+Menovitá hodnota: 33 194,000000 EUR
+Počet: 1585
+Forma: Akcia na doručiteľa
+Podoba: Zaknihované
+Menovitá hodnota: 34,000000 EUR
+Počet: 38
+Forma: Akcia na meno
+Podoba: Zaknihované
+Menovitá hodnota: 33 194,000000 EUR
+Počet: 503
+Forma: Akcia na meno
+Podoba: Zaknihované
+Menovitá hodnota: 34,000000 EUR
+
+•
+
+•
+
+Ďalšie právne skutočnosti
+XII. Predaj
+Predaj časti podniku
+Zmluva o predaji časti podniku uzatvorená medzi spoločnosťou Tepláreň Košice, a. s. so
+sídlom Teplárenská 3, 042 92 Košice, IČO 36 211 541 ako predávajúcim a spoločnosťou
+SPRAVBYTKOMFORT, a. s. Prešov so sídlom Volgogradská 88, 080 01 Prešov, IČO 31
+718 523 ako kupujúcim zo dňa 21. decembra 2009.
+
+XIII. Iné ďalšie právne skutočnosti
+1. Akciová spoločnosť bola založená zakladateľskou zmluvou zo dňa 13.12.2001 v súlade
+so zák.č. 513/1991 Zb. Vznikla rozdelením akciovej spoločnosti Slovenské elektrárne,
+a.s., so sídlom Bratislava, Hraničná 12 v súlade s§ 69 ods. 4 zák.č. 513/1991 Zb. na
+akciové spoločnosti Slovenské elektrárne, a.s., so sídlom Bratislava, Hraničná 12,
+Slovenská elektrizačná prenosová sústava, a.s., so sídlom Bratislava, Miletičova 5 a
+Tepláreň Košice, a.s., so sídlom Košice, Teplárenská 3. Notárska zápisnica o založení
+akciovej spoločnosti Tepláreň Košice, a.s. zo dňa 13.12.2001.
+Stanovy akciovej spoločnosti podľa zák. 513/1991 Zb.
+Majetok, veci, práva, povinnosti a záväzky zrušenej akciovej spoločnosti v rozsahu podľa
+Zápisnice zo dňa 13.12.2001 prešli na Tepláreň Košice, a.s.
+
+Strana 5
+
+•
+
+2. Rozhodnutie predstavenstva zo dňa 28.2.2002.
+Deň vzniku funkcie prokuristu Ing. Petra Schwartza 28.2.2002.
+3. Rozhodnutie valného zhromaždenia - not. záp. č. N 1804/02 Nz 1804/02 zo dňa
+16.12.2002. Rozhodnutie predstavenstva zo dňa 7.1.2003.
+Zanik funkcie prukuristu: Ing. Peter Schwartz, r.č. 510923/1780, Slovenskej jednoty 46,
+Košice: 7.1.2003.
+
+Výpis zo dňa 12.10.2018
+
+•
+
+•
+
+..
+
+•
+
+•
+
+•
+
+ľ
+Strana 6
+
+Jlflklitor-: 50349287.Con�erslonRecordForPrintedDocumanLsk, Jazyk: SK, Ven:la: 2.1,
+
+Osvedčovacia doložka
+
+1�Osvedčujem, že tento
+listinný dokument vznikol zarueenou konverziou z elektronickej do listinnej podoby podľa§ 35 ods. 1 písm. a) zákona
+.
+305/2013 Z. z o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o
+
+1 e-Governmente) v znení neskoršlct, predpisov a podľa vyhlášky Ministerstva �nancH Slovenskej republiky č. 275/2014 Z. z. o zaručenej
+konverzii.
+
+1 Počet listov
+
+Počet neprázdnych strán
+
+Formát papiera
+0
+O
+
+A
+
+1 Formát papiera A4
+
+Dokumenl obsahuje prostriedky autorizácie alebo časovú pečiatku
+Dokument neobsahuíe prostriedky autorizácie ani časovú pečiatku
+
+ôrižaeňé prvky póvodného dok.vrňenlu v'eleklroníckÉtj forme , · .. ,
+
+Autorltiléia pôvodného .elektronického dokumentu ::-.� .___:... _. · ·
+
+Stav autorizácia
+
+-·
+
+1 · ..
+• - · --
+
+: : 1 , ·:
+
+• •ť
+
+�
+
+.·
+
+.
+
+·. •
+
+.
+
+... -- -: ·; :'.· '.:.--: ; • • --:- - .. ·- • • • .. :
+•. .
+.::
+.
+
+-
+
+t
+
+!'-P l ta _n_á________,
+__
+
+čas aulorízacle
+
+112.1o.2018 08: 15
+
+čas overenia autorizácie i 12.10.2018 08:16
+Miesto autorizácie
+
+i I ldentifikáta<
+
+11
+
+Zast"p"jOca
+
+1Ministerstvo spravodlivosti SR, ICA - 10432139, NTRSK-00166073, SK
+
+Mandát
+
+'1
+
+0:�ačialka'prlp.o]enäkprosbiedku autoriiácle.:;,,,,, _..
+Stav časovej pečiatky
+
+čas vystavenia časovej pečiatky
+Vydavateľ časovej pečiatky
+
+Čas overenia časovej pečiatky
+U
+
+j
+
+...�.,,, .:., \ ,)·, -;�t,_;<,. ' �- 1 ·,'r· �--� I• ·._
+. '
+_
+.
+-
+
+'
+
+.,,,,.
+
+:
+
+platná
+
+12.10.2018 08:15
+
+[ CN=Time Stamp Authoríty 1, OU=SEP, O=Narodny bez.pecnostny urad, C=SK
+
+l 12102018 08:16
+
+,. ,: "· -:, : :--,•. --·-�• · · ·..: ·. ,· ; ..:- · :�1- :.:.. · · -
+
+ajetózärúčénej konverzii'-;:· <�i'.-">-·_ ·.:..
+
+cIs 1o zaznamu
+I konverzii
+EvI'dencne
+•.•.
+•
+. o zaruč eneJ .
+1
+
+, : : . ·-�··
+
+Dátum a čas vykonania zaručenej konverzie
+
+, · ., ·
+
+·
+
+:,
+
+SP-12-10-2018-000103
+
+r:-:-------,
+
+1
+
+l 12.10.2018 08:16
+
+1/2
+
+·1
+
+w,<1nota elek ronlc:k.ého od lačku pôvodného eleklroniekého dokumentu
+kcH 1 qCAwzVL+dHX1 l+UEMvhOaHkE PGWTYLhAHuTC88=
+/ FunKda použila pre výpočet elektronického odtlačku
+
+jSHA-256
+
+fii
+IČO
+
+[ 36631124
+
+Názov právnickej osoby
+
+Meno
+
+Zuzana
+
+Priezvisko
+
+Krištofova
+
+Slovenská pošta, a.s.
+Partizánska cesta 9, 975 99 Banská Bystrica
+OR OS B8, oddiel Sa, vložka č.803/S
+
+Funkcia alebo pracovné zaradenie [,__z_a_m_e_s_tn_a_n_e_c_p_o_s_t_
+y ____
+
+Podpis a pečiatka
+
+..
+
+•
+
+___________________ ____
+
+•
+
+212
+
+Číslo zmluvy obj
+
+ednávateľa: 46002019
+
+Príloha č.4
+Plná moc
+
+iii
+
+•
+
+•
+
+IURISTICO'
+A!IVOIUI.T}U IC.ál'IICIÚll!A
+
+Strana 20 z 20
+
+11
+
+)i
+
+1•
+�IPESOFT�
+SP L N O M O C N E N I E / A U T H O R I S A T I O N
+Spoločnosť
+IPESOFT spol. s r.o.
+. ..
+ma
+so sídlom: Bytčická 2, 010 01 Z1l
+IČO· 31 589 898
+za ísaná v Obchodnom registri Okresného
+1304/L,
+sú:u Žilina, odd. Sro, vo vložke č.
+Ing.
+pán
+Miroslav
+v mene ktorej koná
+omocniteľ)
+len
+j
+„Sp/n
+unsch, konateľ (ďale
+
+The company
+IPESOFT spol. s r.o.
+Registered Office: Bytčická 2, 0 10 01 Žilina
+IČO: 31589898
+Registered in the Commercial register of the
+District court od Žilina, section: Sro, file no.
+1304/L
+Acting by Mr. Ing. Miroslav Kunsch,
+executive Manager (herea.fter as the
+,.Principa/")
+
+s p I n o m o c ň u j e týmto
+
+hereby a u t h o r i z e s
+
+Ing. Florián Kevický, PhD.
+Riečna 65/47
+
+Ing. Florián Kevický, PhD.
+Riečna 65/47
+,,Splnomocnenec")
+
+„Representative")
+
+na zastupovanie splnomocniteľa pri
+rokovaniach s odberateľmi
+a podpisovaní odberateľských zmlúv v
+sume do 1.000.000,- EUR.
+
+to act on behalf of the Prindpal in
+negotiations with customers and to sign
+customer contracts in the amount up to
+1.000.000,- EUR.
+
+Toto splnomocnenie je vystavené na
+dobu neurčitú.
+
+This Authorisation has been issued with
+indeterminate duration.
+
+Bolo vyhotovené v slovenskom a anglickom
+V prípade
+jazyku.
+akýchkoľvek
+nezrovnalostí slovenskej a anglickej verzie
+je rozhodujúca verzia slovenská.
+
+It has been made in Slovak and English
+language. In case of any disrepancies
+between the Slovak and English version, the
+Slovak version shall prevail.
+
+:!.. J.:. f.'....?...�.. /
+
+V Žiline dňa ......
+
+1
+
+l
+
+L. '....
+
+c - 'Lt...
+
+Žilina on .....................
+
+•
+
+■
+
+OSVEDČENIE
+o pravosti podpisu
+Podľa knihy osvedčovania pravosli podpisov osvedčujem pravosť podpisu: Ing. Miroslav l<unsch, dátum
+narodema
+, r.č.
+ktorého(ej) totožnosť som zistil(a)
+zákonným spôsobom. spôsob zistenia totožnosti: platný doklad totožnosti - úradný doklad: Občiansky preukaz,
+séria a/alebo číslo:
+ktorý(á} podpis na listine uznal(a) za svoj vlastný. Centrálny register osvedčených
+podpisov pridelil podpisu poradové číslo O 75141/2014.
+
+Žilina dňa 3.2.2014
+
+•
+Upowmenie! Notár legalii.áciou
+neosvedčuje pravdivosť skutotnostl
+uv6d-ianých v listine (§58 ods. 4
+Nolá�keho poriadku)
+
+•
+
+-
+
+

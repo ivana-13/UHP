@@ -1,0 +1,451 @@
+Kúpna zmluva č. Z201917315_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Slovenská poľnohospodárska univerzita v Nitre
+Trieda Andreja Hlinku 2, 94976 Nitra, Slovenská republika
+00397482
+2021252827
+SK2021252827
++421376415755
+
+Dodávateľ:
+Obchodné meno:
+
+MICROCOMP - Computersystém s r.o.
+
+Sídlo:
+
+Kupecká 9, 94901 Nitra, Slovenská republika
+
+IČO:
+
+31410952
+
+DIČ:
+
+2020405354
+
+IČ DPH:
+
+SK2020405354
+
+Číslo účtu:
+
+IBAN SK38 1100 0000 0026 2729 0119
+
+Telefón:
+
+0376511306
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Servery s virtualizačnou platformou
+
+Kľúčové slová:
+
+server, Fiber Channel, benchmark, SPECint_rate_base2006, ESX
+
+CPV:
+
+48820000-2 - Servery; 60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Zoznam položiek:
+1. Servery virtuálneho systému organizácie
+2. Virtualizačný hypervízor VMware vSphere
+3. Centralizovaný správca virtuálneho systému organizácie
+Položka č. 1:
+
+Servery virtuálneho systému organizácie
+
+Funkcia
+Servery prepojené cez FC prepínače medzi sebou a a diskovými poliami budú ako funkčný celok vytvárať vysoko dostupné
+virtualizačné prostredie pre prevádzkované informačné systémy.
+Technické vlastnosti
+
+Jednotka
+
+server
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+CPU
+
+výkon servera min. 910 pri osadení dvomi procesormi (socket),
+podľa benchmarku SPECint_rate_base2006, doložiť presný link na
+dosiahnuté skóre.
+
+RAM
+
+256 GB, DDR4-2666 možnosť ďalšieho rozšírenia na 3TB, a min.
+24 DIMM slotov na RAM na doske.
+
+Rozmery
+
+2U výška, plná hĺbka, 19“ šírka, kompletná rack montážna súprava
+
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+3
+
+rozširujúce sloty
+
+min. 2 voľné sloty PCI-Expressmin. 1 voľný USB / SD slot vo vnútri
+servera
+
+FC HBA
+
+16Gb Dual Port FC HBA - 100% kompatibilita s existujúcou
+infraštruktúrou, prepojenie bude riešené cez prepínač HP
+StorageWorks 8/80 SAN Switch, P/N AM871A
+
+LAN rozhrania
+
+min. 4 ks 1Gb Ethernet, PXE
+
+RAID
+
+podpora SAS, SATA, SSD diskov, min. RAID 0, 1
+
+HDD
+
+min. 8 pozícií pre disky typu SAS, SATA alebo SSD, typu hot swap
+
+Osadenie HDD
+
+min. 2x 300GB 10k rpm SAS (12G) HDD
+
+Zdroj napájania
+
+dva redundantné zdroje, vymeniteľné za chodu, min. 2x 500W,
+účinnosť min. 94%
+
+Správa a manažment
+
+servisný procesor alebo karta pre systémový manažment
+poskytujúca podporu vzdialeného manažmentu servera, vzdialený
+prístup na grafickú konzolu servera, možnosť pripojenia
+vzdialených médií CD, DVD
+
+Správa a manažment - funkcie
+
+štart, reštart a shutdown servera cez sieť LAN, nezávisle od OS,
+resp. softvér potrebný na prevádzku, konfiguráciu a správu
+servera. Mobilná aplikácia na management.
+
+Chladenie
+
+redundantné ventilátory, vymeniteľné za chodu
+
+Predporuchová záruka
+
+minimálne na HDD a RAM
+
+Prevedenie
+
+19“ rack, max. 2U, koľajnice na montáž do racku
+
+Záruka a servis
+
+min. 3 roky v mieste dodania, s odozvou nasledujúci pracovný deň
+od nahlásenia incidentu
+
+Overiteľnosť záruky
+
+záruka musí byť zaregistrovaná u výrobcu zariadenia a popis a
+parametre záruky musia byť overiteľné na web stránkach výrobcu
+zadaním výrobného čísla zariadenia
+
+Položka č. 2:
+
+Virtualizačný hypervízor VMware vSphere
+
+Funkcia
+Virtualizačný hypervízor kompatibilný s už nasadeným prostredím obstarávateľa bežiacom na VMware vSphere 6 Enterprise
+Plus, podpora rovnakého managementu a už jestvujúcich virtuálnych mašín.
+Technické vlastnosti
+
+Jednotka
+
+VMware vSphere 6 Enterprise Plus for 1 processor
+
+ks
+
+6
+
+BASIC SUPPORT/SUBSCRIPTION VMWARE
+VSPHERE 6 ENTERPRISE PLUS pre jeden processor
+na 12 mesiacov
+
+ks
+
+6
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Správca virtuálných strojov
+
+výkonný hypervízor, so širokou kompatibilitou a mnohými nástrojmi
+
+Podpora OS
+
+windows servery , Linux servery - Centos, Debian, FreeBSD,
+openSuse, Ubuntu
+
+Možnosť nainštalovať VMware vSphere Client
+
+ano
+
+Technická podpora
+
+12 mesiacov s možnosťou aktualizácií počas toho roka na
+najnovšiu verziu
+
+Technická podpora zo strany dodávateľa
+
+Vyžadovaná podpora certifikovaným technikom min. na úrovni
+VMware Professional, podložená certifikátom od dodávateľa.
+
+Položka č. 3:
+
+Minimum
+
+Maximum
+
+Presne
+
+Centralizovaný správca virtuálneho systému organizácie
+
+Funkcia
+Virtualizačný centralizovaný správca kompatibilný s už nasadeným prostredím obstarávateľa bežiacom na VMware vCenter
+Server 6 Standard, podpora rovnakého managementu a už jestvujúcich virtuálnych mašín.
+Technické vlastnosti
+
+Jednotka
+
+VMWARE VCENTER SERVER 6 STANDARD FOR
+VSPHERE 6 (PER INSTANCE)
+
+licencia
+Strana 2 z 4
+
+Minimum
+
+Maximum
+
+Presne
+1
+
+BASIC SUPPORT/SUBSCRIPTION VMWARE
+VCENTER SERVER 6 STANDARD FOR VSPHERE 6
+pre jednu inštanciu na 12 mesiacov
+
+licencia
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Základná funkčnosť
+
+centralizovaná správa vSphere virtuálnej infraštruktúry
+
+Technická podpora
+
+12 mesiacov s možnosťou aktualizácií počas toho roka na
+najnovšiu verziu
+
+Technická podpora zo strany dodávateľa
+
+Vyžadovaná podpora certifikovaným technikom min. na úrovni
+VMware Professional, podložená certifikátom od dodávateľa.
+
+2.3
+
+1
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy a inštalácie na mieste plnenia.
+Dodávateľ je povinný predložiť potvrdenie výrobcu, že dodávateľ je certifikovaný predajca predmetu zmluvy do 4 dní od
+nadobudnutia účinnosti zmluvy. Porušenie tejto povinnosti sa považuje za podstatné porušenie zmluvy zo strany dodávateľa.
+Dodávateľ je povinný predložiť potvrdenie výrobcu, že dodávateľ je certifikovaným servisným strediskom na ponúkané servery
+do 4 dní od nadobudnutia účinnosti zmluvy. Porušenie tejto povinnosti sa považuje za podstatné porušenie zmluvy zo strany
+dodávateľa.
+Dodávateľ je povinný predložiť podrobný aktualizovaný rozpočet doplnený o dátové hárky (produktové listy) ponúknutých
+zariadení, z bežne dostupných zdrojov overiteľné aj cez stránku výrobcu do 4 dní od nadobudnutia účinnosti zmluvy.
+Porušenie tejto povinnosti sa považuje za podstatné porušenie zmluvy zo strany dodávateľa.
+Dodávateľ dodá predmet zákazky, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike, resp. v rámci
+Európskej únie a bude vyhovovať platným medzinárodným normám, STN a všeobecne záväzným právnym predpisom.
+Dodávateľ je povinný dodať celý predmet zákazky/plnenia nový, nesmie byť pred dodaním používaný alebo opotrebovaný, či
+testovaný.
+Požadujeme Certifikát systému manažérstva kvality napr. podľa STN EN ISO 9001
+Požadujeme Certifikát systému manažérstva bezpečnosti informácií napr. podľa STN EN ISO 27001doklad preukazujúci, že
+dodávateľ a aj jeho prípadní subdodávatelia (ak budú zabezpečovať údržbu alebo opravy výpočtovej techniky) sú držiteľmi
+certifikátu ISO/IEC 20000-1:2011 alebo iného rovnocenného certifikátu Certifikácia Manažmentu služieb v IT
+Lehota na dodanie tovaru nesmie prekročiť 30 pracovných dní od uzavretia zmluvy vrátane dopravy na miesto plnenia a
+inštalácie. Pokiaľ dodacia lehota prekročí 30 pracovných dní od uzavretia zmluvy, tak spôsobené omeškanie predstavuje
+podstatné porušenie zmluvy Dodávateľom a je dôvodom na okamžité odstúpenie od kúpnej zmluvy.
+Termín dodania tovaru na miesto plnenia oznámi dodávateľ najmenej 1 deň vopred kontaktnej osobe Objednávateľa.
+Objednávateľ si vyhradzuje právo neprevziať tovar, ak nezodpovedá kvalite a technickej špecifikácii, ktorá je požadovaná v
+predmete zákazky ako minimálne požiadavky.
+Nedodržanie požiadaviek na predmet zákazky a všeobecnej, funkčnej a technickej špecifikácie predmetu zákazky alebo
+požiadaviek uvedených v osobitných požiadavkách na plnenie sa považuje za podstatné porušenie zmluvy a je dôvodom na
+okamžité odstúpenie od kúpnej zmluvy.
+V prípade zistenia závady na dodanom tovare do 14 dní od prevzatia, má Dodávateľ povinnosť vymeniť vadný tovar za nový s
+rovnakými parametrami.
+Objednávateľ požaduje fyzickú inštaláciu do existujúceho racku, vrátane základnej konfigurácie, zaškolenia a otestovania
+funkčnosti v mieste plnenia, v súlade s požiadavkami Objednávateľa a budú súčasťou dodacieho listu.
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z..
+Názov
+2.4
+Popis
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+Názov súboru
+
+III. Zmluvné podmienky
+Strana 3 z 4
+
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Nitriansky
+
+Okres:
+
+Nitra
+
+Obec:
+
+Nitra
+
+Ulica:
+
+Tr. A. Hlinku 2.
+
+Čas / lehota plnenia zmluvy:
+22.07.2019 10:00:00 - 26.07.2019 14:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.5, účinná zo dňa 1.1.2019 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 45 333,33 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 54 400,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.5, účinná zo dňa 01.01.2019,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 13.06.2019 11:26:01
+Objednávateľ:
+Slovenská poľnohospodárska univerzita v Nitre
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+MICROCOMP - Computersystém s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

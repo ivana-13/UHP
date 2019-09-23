@@ -1,0 +1,372 @@
+Zmluva o dielo č. Z201834947_Z
+uzatvorená v zmysle §536 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Plemenárske služby SR, š.p.
+Starohájska č.29, 85227 Bratislava, Slovenská republika
+36856096
+2022511304
+SK2022511304
+SK5102000000002400379653
+0915852014
+
+Dodávateľ:
+Obchodné meno:
+
+Partner Soft, spol. s r.o.
+
+Sídlo:
+
+Lužná 10, 85104 Bratislava, Slovenská republika
+
+IČO:
+
+35719915
+
+DIČ:
+
+2020218376
+
+IČ DPH:
+
+SK2020218376
+
+Číslo účtu:
+Telefón:
+
+00421260101604
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Rozšírenie existujúceho informačného systému o modul včely
+
+Kľúčové slová:
+
+Tvorba databázy, Modul včely
+
+CPV:
+
+72320000-4 - Databázové služby; 48610000-7 - Databázové systémy; 60000000-8 Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Modul včely
+
+Funkcia
+Cieľom zákazky je doplnenie modulu pre včely do existujúceho informačného systému, čo zahŕňa tvorbu nových databázových
+štruktúr, číselníkov, modulu spracovania hlásení, rozhranie pre posielanie hlásení z winregu, doplnenie formulárov pre
+veterinárne kontroly, jsp stránok pre sumárne zostavy, výstupné zostavy, štatistiky, doplnenie modulu pre analýzu rizík, jsp
+stránky pre prácu s hláseniami, doplnenie modulu do prístupu farmára pre druh zvierat včely.
+Technické vlastnosti
+
+Jednotka
+
+Modul včely
+
+ks
+
+1
+
+Predpokladaná časová náročnosť projektu zahrňujúci
+analýzu, implementáciu, a testovanie
+
+človeko-hodín
+
+1166
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Údaje je potrebné uchovávať v databáze existujúceho
+informačného systému - Oracle v samostatných
+tabuľkách
+Rozšírenie funkcionality systému nesmie nijako narušiť
+funkčnosť existujúceho informačného systému ohľadom
+spracovania hlásení a evidencie ostatných druhov
+hospodárskych zvierat.
+
+Strana 1 z 4
+
+Minimum
+
+Maximum
+
+Presne
+
+Existujúci informačný systém je vyvinutý v
+programovacom jazyku Java, na prístup k databáze
+Oracle sa využíva Java Persistence API. Prezentačná
+vrstva modulu pre včely využíva HTML formuláre,
+Java-script a asynchrónne volania pomocou AJAX.
+Hlásenia sú uložené vo forme XML dokumentov
+spĺňajúce platné schémy daných XML dokumentov pre
+rôzne druhy zvierat.
+Nové funkcie na strane existujúceho informačného
+systému: Modul Včely - evidencia:
+
+Nové databázové štruktúry (tabuľky, triggre, sequencery, archívne
+tabuľky a pod.)
+
+Nové funkcie na strane existujúceho informačného
+systému: Modul Včely - evidencia:
+
+Evidencia včiel podľa platnej legislatívy.
+
+Nové funkcie na strane existujúceho informačného
+systému: Modul Včely - evidencia:
+
+Možnosť zadávania veterinárnych kontrol pre druh zvierat včely
+
+Nové funkcie na strane existujúceho informačného
+systému: Modul Včely - evidencia:
+
+Výpočty analýzy rizík podľa požiadaviek veterinárov, zobrazovanie
+vypočítaných parametrov, história výpočtov
+
+Nové funkcie na strane existujúceho informačného
+systému: Modul Včely - evidencia:
+
+Váhy vzorcov pre analýzu rizík - doplniť možnosť editácie váh pre
+včely
+
+Nové funkcie na strane existujúceho informačného
+systému:Modul Včely - evidencia:
+
+Zobrazovanie chýb pri parsovaní a spracovaní hlásení
+
+Nové funkcie na strane existujúceho informačného
+systému: Modul Včely - evidencia:
+
+Číselníky pre včely, zobrazovanie a editácia číselníkov
+
+Modul Včely - výstupné zostavy:
+
+Sumárne zostavy (nové db tabuľky, výber dát, jsp stránky)
+
+Modul Včely - výstupné zostavy:
+
+Sumár registrácie v existujúcom informačnom systéme - doplnenie
+zobrazovania počtov pre včely
+
+Modul Včely - výstupné zostavy:
+
+Štatistiky (nové tabuľky, výpočty na pozadí, zobrazovanie v
+aplikácií na mape, vo forme grafu, ako xls dokument alebo pdf
+dokument, história štatistík)
+
+Modul Včely - výstupné zostavy:
+
+Základné zostavy - farmy podľa druhu zvierat - doplniť stránku o
+druh zvierat včely (fitre, zobrazené dáta na stránke)
+
+Modul Včely - výstupné zostavy:
+
+Základné zostavy - Včely (vyhľadanie zmien na farme, presuny,
+import/export, vyhľadanie hlásení)
+
+Podmienky pre Modul Prístup farmára:
+
+Možnosť zadávať hlásenia cez webové rozhranie
+
+Podmienky pre Modul Prístup farmára:
+
+Možnosť zadávať hlásenia cez API modulu Prístup farmára
+
+Podmienky pre Modul Prístup farmára:
+
+Prehľady o spracovaní hlásení + info o chybách v hláseniach
+
+Podmienky pre Modul Prístup farmára:
+
+Zobrazovanie nových číselníkov
+
+Podmienky pre Modul Prístup farmára:
+
+Prehľad o včelstvách na farmách
+
+Podmienky pre Modul Spracovanie hlásení:
+
+Nové schémy pre XML dokumenty pre hlásenia a presuny z
+elektronického formulára prípadne z individuálneho registra pre
+včely
+
+Podmienky pre Modul Spracovanie hlásení:
+
+Validácia a parsovanie XML dokumentov + zápis chýb ktoré
+vzniknú pri parsovaní (hlásenia, presuny)
+
+Podmienky pre Modul Spracovanie hlásení:
+
+Spracovanie hlásení podľa kódov hlásenia
+
+Podmienky pre Modul Spracovanie hlásení:
+
+Spracovanie presunov
+
+Podmienky pre Modul Spracovanie hlásení:
+
+Generovanie a doručovanie informácie o chybe pri spracovaní, ak
+sa vyskytla
+
+Import údajov do databázy dodaných zadávateľom vo
+formáte:
+
+CSV
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Vrátane inštalácie na mieste plnenia
+Dodávateľ zašle do 5 dní od účinnosti zmluvy / elektronicky ( sken)/ oprávnenie - povolenie autora existujúceho informačného
+systému pre zmluvne požadované úkony - vývoj, implementácia, dodanie softvéru.
+Strana 2 z 4
+
+Implementácia modulov a rozšírených funkcionalít je závislá na predchádzajúcich riešeniach a vývoja daného existujúceho
+informačného systému
+Predpokladaná časová náročnosť projektu je 1166 človeko-hodín . Neprimerané prekročenie (podľa názoru objednávateľa)
+danej hodnoty musí byť adekvátne dodávateľom odôvodnené a písomne podložené.
+Uchádzač musí disponovať expertom na programovanie v oblasti predmetu obstarávania. Splnenie podmienky uchádzač
+preukáže predložením certifikátu alebo diplomu (certifikát Java alebo CS169.2x: Advanced Software as a Service) od
+akreditovanej autority do 3 pracovných dní od uzavretia zmluvného vzťahu.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Žilinský
+
+Okres:
+
+Žilina
+
+Obec:
+
+Žilina
+
+Ulica:
+
+Rosinská cesta 12
+
+Čas / lehota plnenia zmluvy:
+03.09.2018 10:40:00 - 10.12.2018 12:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 57 900,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 69 480,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+Strana 3 z 4
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 22.08.2018 13:42:00
+Objednávateľ:
+Plemenárske služby SR, š.p.
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Partner Soft, spol. s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 4 z 4
+
+

@@ -1,0 +1,838 @@
+Zmluva o poskytovaní služieb č. Z201835912_Z
+uzatvorená v zmysle §269 ods. 2 Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Fakultná nemocnica s poliklinikou Žilina
+ul.Vojtecha Spanyola 43, 01207 Žilina, Slovenská republika
+17335825
+2020699923
+SK2020699923
+SK 32 8180 0000 0070 0028 0470
++421 415110193
+
+Dodávateľ:
+Obchodné meno:
+
+TatraMed Software s. r. o.
+
+Sídlo:
+
+Líščie údolie 9, 84104 Bratislava, Slovenská republika
+
+IČO:
+
+47025328
+
+DIČ:
+
+2023706751
+
+IČ DPH:
+
+SK2023706751
+
+Číslo účtu:
+Telefón:
+
++421 2 60202301
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Medicínsky tele-diagnostický systém MTDS NF12
+
+Kľúčové slová:
+
+Diagnostika, telemedicína, telerádiológia, dôveryhodná archivácia diagnostiky
+
+CPV:
+
+33124110-9 - Diagnostické systémy
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Medicínsky tele-diagnostický systém MTDS NF12 alebo ekvivalent
+
+Funkcia
+Medicínsky systém pre diagnostiku, vzdialenú diagnostiku, telerádiológiu, klinickú vizualizáciu a dôveryhodnú archiváciu
+Prenájom softvérového systému MTDS NF12 alebo ekvivalent na obdobie 12 mesiacov
+Vypôžička úložiska počas trvania zmluvy s kapacitou potrebnou pre veľké zdravotnícke zariadenia.
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Systém obsahuje LAN multilicenciu diagnostickej SW
+stanice použiteľnej aj pre klinické a ambulantné
+zobrazovanie s možnosťou prepnutia do módu pre
+operačné sály
+
+ks
+
+300
+
+Systém poskytuje klientovi možnosť prenosu,
+uchovávania a vyhodnocovania digitálnej obrazovej
+zdravotnej dokumentácie pacientov od a/alebo do
+systémov nemocníc/polikliník/diagnostických centier,
+účastných na diaľkovej a/alebo miestnej diagnostike a to
+v rozsahu, počte subjektov v Slovenskej republike,
+subjekty nemusia byť v správe dodávateľa, dodávateľ
+zodpovedá za prenos k subjektom a zabezpečuje
+zmluvný vzťah vo svojom mene
+
+nemocníc/polikl
+iník/diagnostick
+ých centier
+
+100
+
+Strana 1 z 9
+
+Maximum
+
+Presne
+
+Možnosť prenosu, uchovávania a vyhodnocovania
+digitálnej obrazovej zdravotnej dokumentácie pacientov
+z vlastných rádiologických vyšetrovacích prístrojov alebo
+dokumentačných prístrojov (všetko plne DICOM
+kompatibilných zdrojov obrazovej dokumentácie) , počet
+prístrojov v cene dodávky.
+
+prístrojov
+
+30
+
+Webová multiplatformová aplikácia pre rýchle a
+zabezpečené zobrazovanie obrazovej dokumentácie z
+úložiska systému MTDS aj mimo nemocničnej siete
+(LAN) pre registrovaných a autentifikovaných lekárov.
+Zobrazovanie je použiteľné na desktop počítači alebo
+notebooku alebo tablete alebo smartphone a to pre
+operačné systémy Microsoft Windows, Windows Phone,
+Apple OSX, iOS, Google Android. Aplikácia je s
+otvoreným API, a je možné implementovať integráciu na
+strane NIS alebo žiadankového systému. Požadovaný
+rozsah v cene dodávky, súčasne pracujúcich lekárov
+(licencií) .
+
+lekárov
+
+30
+
+Webová multiplatformová aplikácia pre snímanie
+foto-dokumentácie pacienta a ukladanie do úložiska
+systému MTDS vo formáte DICOM, vrátane podpory
+DICOM Modality Worklist Management. Aplikácia je
+použiteľná na zariadeniach so vstavanou kamerou a pre
+operačné systémy Microsoft Windows Phone, Apple
+iOS, Google Android a prehliadače Chrome, Safari,
+Internet Explorer, Microsoft Edge. Požadovaný rozsah v
+cene dodávky, súčasne pracujúcich používateľov
+(licencií).
+
+používateľov
+
+10
+
+Dĺžka zmluvy komplexnej starostlivosti, služieb a servisu
+pre softvérový systém MTDS NF12
+
+mesiacov
+
+12
+
+Počet vykonávaných a archivovaných štúdií pre obdobie
+12 mesiacov
+
+počet
+
+100000
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Systém MTDS NF12 alebo ekvivalent:
+
+poskytuje klientovi možnosť diagnostiky/vyhodnocovania digitálnej
+obrazovej zdravotnej dokumentácie pacientov z vlastných
+rádiologických vyšetrovacích prístrojov
+
+--
+
+alebo diaľkovo prenesených rádiologických vyšetrení (všetko plne
+DICOM kompatibilných zdrojov obrazovej dokumentácie) pre
+minimálne 300 súčasných používateľov (CU) v rámci LAN
+
+-
+
+Topológia riešenia systému MTDS NF12 je klient-server
+
+-
+
+implementácia integračnej platformy pre integráciu s
+kompatibilným nemocničným informačným systémom (NIS) na
+báze medzinárodných komunikačných štandardov HL7
+
+-
+
+plne a dôsledne poskytuje a používa na inú než DICOM
+komunikáciu medzinárodný komunikačný štandard HL7 (pri
+komunikácii s aplikáciami tretích strán a to obidvoma smermi)
+
+-
+
+možnosť spracovania elektronickej žiadanky (generované lokálne v
+štandarde HL7 a prenášané cez LAN), pre prípad neskoršej
+integrácie s NIS
+
+-
+
+integrovaný DICOM Modality Work List Management, pre prípad
+neskoršej integrácie s NIS
+
+-
+
+možnosť podpory volania a zobrazovania štúdií (lokálne z LAN z
+ako aj cez web prístup), s pripravenosťou na prípadnú neskoršiu
+integráciu s NIS
+
+-
+
+možnosť uloženia digitálnej dokumentácie v pdf formáte k
+vyšetreniu priamo do dátového úložiska (napr. sken žiadanky,
+lekárskej správy, laboratórnych výsledkov, tlačový pdf ..)
+
+-
+
+funkcionalitu súčasného volania štúdie a k nej prislúchajúceho
+popisu (napr. vo formáte pdf) a ich zobrazenie formou načítania z
+dátového úložiska
+
+..........................................................................................
+......
+
+......................................................................
+
+Strana 2 z 9
+
+-
+
+poskytovanie údajov z modalít pre ďalšie spracovanie, t. j.
+podporuje DICOM MPPS službu, pomocou ktorej modality
+posielajú informácie o vykonaných vyšetreniach
+
+--
+
+(počet obrazov, dĺžka trvania vyšetrenia, začiatok a koniec
+vyšetrenia na modalite, aktuálny stav vyšetrenia, výška radiačnej
+dávky pre pacienta).
+
+--
+
+získané údaje z modalít - schopnosť poskytnúť aplikáciám tretích
+strán v DICOM, XML alebo HL7 formáte
+
+..........................................................................................
+......
+
+......................................................................
+
+-
+
+spájanie štúdií podľa definovaných kritérií tzv. Merge štúdií (nie
+manuál. prepisom) na základe HL7 požiadavky. Na základe ADT
+(Admin Discharge Transfer) HL7 správ prijatých od aplikácií tretích
+strán
+
+--
+
+vykonávať tzv. Merge štúdií, čiže preradenie vyšetrení patriacich
+zadanému pacientovi k záznamom iného pacienta
+
+..........................................................................................
+......
+
+......................................................................
+
+-
+
+konsolidácia údajov s dátovým úložiskom systém MTDS poskytuje
+funkcionalitu PIR (Patient Information Reconciliation), na základe
+HL7 požiadavky.
+
+--
+
+na základe ADT (Admin Discharge Transfer) HL7 správ prijatých
+od aplikácií tretích strán schopnosť sytému upravovať informácie o
+pacientovi (demografické údaje pacienta) v uložených štúdiách
+
+..........................................................................................
+......
+
+......................................................................
+
+-
+
+riadenie prístupu k údajom systém MTDS , riadenie prístupu k
+údajom založené na princípe “ROLA používateľa“ s jednoznačne
+definovanými právami prístupu až na úroveň jednotlivých
+údajových položiek
+
+..........................................................................................
+......
+
+......................................................................
+
+-
+
+funkcionalitu pre zasielanie štúdií, resp. prijímanie štúdií a ich
+popisov zabezpečeným spôsobom do resp. od ostatných
+Poskytovateľov zdravotnej starostlivosti, systémov tretích strán
+zabezpečeným
+
+--
+
+spôsobom s ochranou pred zneužitím pri ich prenose v zmysle
+Zákona č. 18/2018 a nariadenia GDPR
+
+..........................................................................................
+......
+
+......................................................................
+
+-
+
+jednoduchým spôsobom, bez akýchkoľvek nadštandardných
+znalostí IT, odosielať obrazové dáta (najmä akútnych) pacientov
+okamžite, kedykoľvek, rýchlo, bez súčinnosti iných osôb,
+odosielanie v režime
+
+--
+
+24x7, v akomkoľvek objeme a v pôvodnej kvalite podľa platnej
+normy STN EN ISO 12052:2018-03 (DICOM), používateľské
+prostredie klientskej aplikácie uspôsobené pre jednoduchú obsluhu
+personálom
+
+--
+
+napr.. formou a funkciami blízkou e-mailovým klientom - princíp
+príjmu respektíve odoslania pacientskych obrazových dát vrátane
+príloh.
+
+..........................................................................................
+......
+
+......................................................................
+
+-
+
+ochrana - možnosť len zabezpečené odosielanie a príjem
+textových správ, dokumentov a príloh, s ochranou pred zneužitím
+pri ich prenose.
+
+-
+
+relevantné časti systému MTDS určené koncovým používateľom
+(lekári a zdrav. personál) sú dodané v štátnom jazyku (slovenská
+lokalizácia).
+
+-
+
+obsah systému elektronický manuál v slovenskom jazyku.
+
+Strana 3 z 9
+
+-
+
+prenos pacientskych obrazov v súčasnosti neprelomiteľným
+zabezpečením osobných údajov tretími subjektami (mimo
+registrovaných poskytovateľov zdravotnej starostlivosti odosielateľa a prijímateľa)
+
+-
+
+bez potreby vytvárania VPN (Virtual Private Network), nenarúša
+firewall používateľa internetovej siete, využívanie k výmene dát
+štandardne povolené TCP/IP porty (napr. 443,80),
+
+-
+
+šifrovane v zmysle GDPR a Zákona 18/2018 Z.z. o ochrane
+osobných údajov, proti neoprávnenému sledovaniu/monitorovaniu
+sofistikovaným kryptovaním prenášaných dát
+
+-
+
+možnosť prevádzkovania minimálne na operačných systémoch
+Microsoft Windows Vista alebo vyššom, na 32 bitovej alebo na 64
+bitovej platforme a na virtualizovanej platforme VMware ESX 5.5
+alebo vyššie
+
+-
+
+neobmedzená licencia klientskej aplikácie, k službe
+zabezpečujúcej komunikáciu medzi Poskytovateľmi zdravotnej
+starostlivosti, pre všetky pracovné stanice s operačným systémom
+objednávateľa
+
+-
+
+softvérové stanice systému MTDS koncových používateľov (lekári)
+sú schopné zobrazovať synchrónne ECG v normalizovanom
+formáte DICOM ECG/HD.
+
+..........................................................................................
+......
+
+......................................................................
+
+Softvérové stanice systému MTDS koncových
+používateľov (lekári) sú schopné zobrazovať formáty:
+
+Digital Subtract Angiography (DSA), Digitally Reconstructed
+Radiograph (DRR), MultiPlanar Reconstruction (MPR), Curved
+Planar Reconstruction (CPR), Maximum Intensity Projection (MIP),
+
+--
+
+Multiframe Images a sú schopné registrovať a zobrazovať
+multimodalitnú fúziu snímok
+
+Softvérové stanice systému MTDS umožňujú:
+
+úpravy jasu, kontrastu, možnosť otáčania obrazu, meranie
+vzdialeností a uhlov a pod. Prehrávanie (animáciu) sérií snímkov,
+export DICOM snímkov do formátov: .jpeg, .bmp;
+
+--
+
+export sérií snímkov v podobe filmu vo formáte AVI; možnosť
+prezerania EKG kriviek vo formáte DICOM EKG.
+
+..........................................................................................
+......
+
+......................................................................
+
+-
+
+DICOM interface s nasledovnými Storage SC, Query/Retrieve SC,
+Verification SC. Systém MTDS obsahuje plnú podporu DICOM
+Modality Worklist Management SC
+
+-
+
+jadro systému môže byť prevádzkované na serveri v plne
+virtualizovanom prostredí.
+
+-
+
+všetky potrebné serverové licencie pre podporu CT, CR, DX, MG,
+MR, NM, PT, RF, XA, US, podporu formátu DICOM a príslušné
+sieťové výstupy
+
+-
+
+manažovateľnosť diaľkovým prístupom, technická podpora.
+
+-
+
+softvér pracovnej stanice, možnosť prepnutia do dotykového módu
+ovládania zobrazenia pracovnej stanice, ktorý je vhodný pre
+operačné sály a sterilné prostredie.
+
+-
+
+stacionárne pracovné a klinické náhľadové stanice sú klinicky
+uvoľnené pre funkčnosť v operačnom systéme Microsoft Windows
+Vista, 7, 8 a 10.
+
+-
+
+podpora manažmentu "Hanging protocols". Zabezpečenie
+zrýchlenia včasnej diagnostiky pomocou aplikácie softvérovej
+technológie „Hanging Protocols“ na otvárané/prezerané obrazové
+dáta pacientov.
+
+-
+
+Manažment „Hanging Protocols“ je v réžii objednávateľa s trvalou
+možnosťou úprav pre jednotlivé pracoviská.
+
+-
+
+plný administrátorský prístup k správe a administrácii systému
+MTDS NF12 so súvisiacou podrobnou dokumentáciou,
+aktualizovanou počas celej doby trvania zmluvy
+
+-
+
+bez potreby súčinnosti dodávateľa ako výrobcu k administrácii
+systému MTDS
+Strana 4 z 9
+
+-
+
+časti určené na diagnostiku pacientov certifikované v triede IIb
+podľa požiadaviek EÚ (MDD 93/42/EEC a 2007/47/EC, EN ISO
+13485)
+
+-
+
+používateľský návod v rámci každej používateľskej aplikácie,
+administrátor požaduje 1 verziu každého návodu ako aj dátový
+nosič (USB pamäťový kľúč) s používateľskými návodmi a
+aplikáciami.
+
+-
+
+podpora prevádzky systému v režime 9x6 formou "Call center",
+prevádzkovaná dodávateľom/výrobcom v štátnom (slovenskom)
+jazyku. Telefónna linka a mobilný telefón NF12 - dostupnosť v
+režime 9x6.
+
+-
+
+podpora prevádzky systému minimálne pre správcov systému a
+časovo neohraničená (počtom alebo dĺžkou volaní alebo
+elektronickej komunikácie)
+
+-
+
+pravidelná kontrola systému dodávateľom minimálne 1x ročne v
+sídle zákazníka (môže byť v rámci servisného zásahu) a každý
+pracovný deň diaľkovým prístupom,
+
+-
+
+aktualizácia softvérových aplikácií systému a zahŕňa poskytnutie
+každej novej verzie, a to vždy do jedného mesiaca po jej klinickom
+uvoľnení.
+
+-
+
+nNa základe požiadavky zákazníka vykoná dodávateľ zaškolenie v
+sídle zákazníka pri každej aktualizácii.
+
+-
+
+v paušálnej cene podpory zahrnuté všetky cestovné náklady, ako
+aj práce, náklady na pripojenie a všetky ďalšie náklady dodávateľa
+súvisiace s poskytovaním podpory systému
+
+-
+
+aktualizácia softvérových aplikácií dôveryhodného archívu zahŕňa
+poskytnutie každej novej verzie, a to vždy do jedného mesiaca po
+jej uvoľnení výrobcom, po dohode so správcom
+
+V závislosti podľa úspešnosti uchádzača objednávateľ
+zabezpečí prostredníctvom následného VO migráciu
+dát s pôvodného systému, a podľa potreby preškolenie
+obslužného personálu.
+
+Požadujeme budúcu vzájomnú spoluprácu s pôvodným
+prevádzkovateľom služby mri nasadený a migrácii dátového
+úožiska.
+
+-
+
+prístupnosť a komunikáciu pôvodného prevádzkovateľa systému
+zabezpečí objednávateľ
+
+-
+
+v prípade úspechu pôvodného poskytovateľa nebude realizovať
+VO pre zákazku migrácie dát do/zo systém
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Nakoľko objednávateľ použil označenie konkrétneho výrobku je možné v technickom riešení použiť ekvivalent produktu, ale
+len za predpokladu že dodávateľ preukáže rovnaké alebo lepšie kvalitatívne vlastnosti produktu pri dodržaní plnej funkčnej
+charakteristiky produktu. Za ekvivalent je považovaný prostriedok rovnakých alebo lepších parametrov
+Dodávateľ v prípade dodania ekvivalentu dodá platné Vyhlásenie o zhode produktu, ktorý preukazuje zhodnosť ekvivalentu s
+požadovanými parametrami produktu, s doplňujúcimi dokladmi k nemu, resp. certifikáty vydané autorizovanými osobami, ktoré
+majú oprávnenie na posudzovanie zhody výrobku. Konečné posúdenie ekvivalentnosti je výlučne v kompetencii
+objednávateľa.
+Ak dodávateľ nevyužije možnosť použitia ekvivalentu a neuvedie vo svojej ponuke obchodný názov materiálu alebo produktu,
+bude mať objednávateľ za to, že dodávateľ uvažoval s tým výrobkom, ktorého obchodný názov uviedol objednávateľ v
+technickej špecifikácii predmetu zákazky.
+Objednávateľ je v zmysle § 17 ods. 6 zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých
+zákonov prevádzkovateľom základnej služby . Uzatvorením tejto zmluvy dodávateľ berie na vedomie ,že uzatvára zmluvu so
+subjektom,ktorý je zaradený do zoznamu základných služieb a jej prevádzkovateľa do registra prevádzkovateľov základných
+služieb , z čoho pre zmluvné strany vyplývajú práva a povinnosti.
+Dodávateľ sa zaväzuje poskytovať služby riadne a včas na profesionálnej úrovni s odborne spôsobilými osobami, pričom bude
+dodržiavať parametre zadania, platných technických noriem a zákonov, technologických postupov, platných právnych,
+prevádzkových a bezpečnostných predpisov.
+Dodávateľ sa zaväzuje poskytovať služby riadne a bez obmedzenia počas 12 mesiacov odo dňa nadobudnutia účinnosti tejto
+zmluvy.
+
+Strana 5 z 9
+
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z..
+Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ alebo je zahraničnou osobou z tretieho štátu a miesto
+dodania služby je v SR, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí
+uviesť príslušnú sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou
+osobou a v tomto prípade je/bude registrovaný pre DPH podľa § 7 a/alebo § 7a zákona č. 222/2004 Z.z. a bude povinný
+odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+Nový, doposiaľ nepoužitý krabicový softvér
+Vrátane licencií a nákladov spojených s inštaláciou u objednávateľa.
+Požaduje sa do 7 pracovných dní po uzatvorení zmluvy predložiť objednávateľovi podrobný aktualizovaný rozpočet predmetu
+zákazky ,rozpis jednotkovej ceny za ks v rozsahu cena bez DPH,cena s DPH
+Požaduje sa predložiť funkčná a technická špecifikácia, vrátane technických listov preukazujúcich splnenie minimálnych
+požadovaných parametrov predmetu zákazky s uvedením presných názvov (obchodných značiek) nacenených výrobkov do 5
+pracovných dní od účinnosti Zmluvy.
+Predmet plnenia musí spĺňať všetky minimálne požadované technické vlastnosti uvedené v technickej špecifikácii.
+Spôsob, čas a miesto dodania:
+a) termín dodania resp. inštalácie je do 30 pracovných dní od účinnosti zmluvy v pracovných dňoch v čase od 7:00 hod. do
+15:30 hod.
+b) súčasťou dodávky je povinne dodací list/faktúra, ktorý obsahuje najmä súpis položiek dodaného HW a SW, jeho množstvo,
+jeho celkovú cenu bez DPH a s DPH, sadzbu DPH a číslo zmluvy, servisná dokumentácia, návod na použitie, preberací
+protokol a protokol o zaškolení obsluhy.
+c) termín dodania oznámi dodávateľ objednávateľovi najmenej 3 pracovné dni vopred na jeho emailovú adresu
+d) oprávnená osoba objednávateľa a jeho e mailová adresa pre účely dodania a prevzatia bude upresnená dodávateľovi do
+72 hod. po nadobudnutí účinnosti zmluvy
+Nedodržanie akejkoľvek podmienky a požiadavky objednávateľa uvedenej v opisnom formulári sa bude považovať za
+podstatné porušenie zmluvných podmienok.
+Dodávateľ vyhlasuje, že sa pred uzavretím tejto Zmluvy riadne oboznámil s Technickou špecifikáciou predmetu zákazky a
+Osobitými podmienkami pre plnenie predmetu zákazky.
+Zmluvná strana, ako verejný obstarávateľ, si v zmluve vyhradzuje právo na zmenu zmluvy/ rámcovej dohody v zmysle § 18
+zákona o verejnom obstarávaní .
+Zmluvné a platobné podmienky:
+Objednávateľ sa zaväzuje celkovú cenu za predmet zákazky uhradiť dodávateľovi v pravidelných a rovnomerných mesačných
+splátkach (ďalej len „mesačný paušál“). Objednávateľ sa zaväzuje uhrádzať dodávateľovi mesačný paušál na základe faktúry,
+ktorú doručí dodávateľ objednávateľovi vždy najneskôr do 15 dní po ukončení príslušného kalendárneho mesiaca. Úhrada
+bude vykonaná bezhotovostne, na základe faktúry a rozpisu poskytnutých služieb. Fakturácia je v slovenskom jazyku. Prílohou
+faktúry budú kópie dokladov potvrdených obidvomi zmluvnými stranami, záznam o prevádzke systému.
+Cena je stanovená ako pevná a úplná , zahŕňa cenu za poskytovanie služby, vrátane dodania do miesta dodania, vrátane
+jeho inštalácie, vrátane správy servera a potrebných licencií počas platnosti zmluvy
+Cena za predmet zákazky pokrýva celý zmluvný záväzok a všetky náležitosti a veci nevyhnutné na riadne poskytovanie
+služieb, ktoré umožnia objednávateľovi riadne využívanie služieb po celú dobu trvania zmluvy. Objednávateľ neposkytne
+dodávateľovi žiaden preddavok ani zálohovú platbu.
+Dohodnutú kúpnu cenu nie je možné zvýšiť s výnimkou zmeny zákonnej sadzby DPH. Zmena kúpnej ceny z dôvodu zvýšenia
+zákonnej sadzby DPH je možná iba po dohode zmluvných strán na základe písomného dodatku
+Dodávateľ nie je oprávnený postúpiť podľa § 524 a nasl. Zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších
+predpisov svoju pohľadávku bez súhlasu objednávateľa. Právne úkony, postúpenie pohľadávky, ktoré budú vykonané bez
+súhlasu objednávateľa alebo v rozpore s dohodou dlžníka sú s poukazom na ustanovenie §39 Občianskeho zákonníka
+neplatné.
+Sankcie:
+- V prípade omeškania dodávateľa s dodaním tovaru, poskytnutím služby má objednávateľ právo požadovať od dodávateľa
+zmluvnú pokutu vo výške 0,05 % z kúpnej ceny za každý kalendárny deň omeškania , nárok na náhradu škody nie je tým
+dotknutý
+- Objednávateľ má nárok na voľbu nárokov uvedených v § 436 OZ ods.1 písmen. a) až e) ak ju oznámi dodávateľovi včas v
+zaslanom oznámení vád alebo bez zbytočného odkladu po tomto oznámení.
+- Objednávateľ má popri nárokoch uvedených vyššie, aj nárok na náhradu škody a zmluvnú pokutu
+
+Strana 6 z 9
+
+Dodávateľ môže požadovať
+- úrok z omeškania vo výške aktuálnej sadzby zákonných úrokov z omeškania podľa § 369 ods. 2 a § 369a Obchodného
+zákonníka v znení zákona č. 9/2013 Z. z. v spojení s § 1 ods. 1 nariadenia vlády Slovenskej republiky č. 21/2013 Z. z.
+Za nedodržanie lehoty na zahájenie odstránenia porúch systému sa nepovažuje vyššia moc, najmä vojna, štrajky, občianske
+nepokoje, prírodné katastrofy, dopravná alebo elektronická nedostupnosť, dopravná kalamita, zrušenie alebo meškanie spojov
+verejnej autobusovej, železničnej alebo leteckej dopravy. Dodávateľ bude neodkladne informovať objednávateľa ak taký
+prípad nastane, ak mu to technické prostriedky umožnia
+Ukončenie zmluvného vzťahu:
+- zmluvu možno ukončiť dohodou oboch zmluvných strán
+- zmluva môže zaniknúť okrem riadneho splnenia všetkých práv a povinností zmluvných strán z nej vyplývajúcich , na základe
+dohody zmluvných strán alebo spôsobmi uvedenými v zákone a v aktuálnych obchodných podmienkach Elektronického
+trhoviska .
+Objednávateľ môže odstúpiť od zmluvy pre podstatné porušenie zmluvy dodávateľom za:
+a) nedodržanie termínu dodania, poskytnutia služby, dohodnutého v zmluve, resp. v objednávke
+b) dodanie predmetu zmluvy, ktorý nezodpovedá vlastnostiam, akosti, množstve, funkcionality dohodnutých v zmluve
+c) neodovzdá doklady, ktoré sú potrebné na prevzatie a na užívanie tovaru a ostatné podstatné porušenia zmluvy, ktoré
+upravujú ustanovenia ktoré upravujú ustanovenia Obchodných podmienok trhoviska
+d) ak je dodávateľ v čase plnenia zmluvy zaradený do Zoznamu s kvalifikovanými negatívnymi referenciami ( black list)
+trhoviska.
+e) nedodržanie ktorejkoľvek požiadavky objednávateľa uvedenej v tomto opisnom formulári sa bude považovať za podstatné
+porušenie zmluvných povinností dodávateľa , pričom objednávateľ :
+- ukončí s dodávateľom zmluvný vzťah v súlade s OPET z dôvodu, že dodávateľ podstatne porušil svoje povinnosti
+- môže vystaviť dodávateľovi negatívnu referenciu v EKS,
+- môže vystaví dodávateľovi negatívnu referenciu pre Úrad pre verejné obstarávanie, v ktorej objednávateľ úradu pre verejné
+obstarávanie oznámi, že došlo k predčasnému ukončeniu zmluvného vzťahu z dôvodu podstatného porušenia povinností
+dodávateľom.
+Objednávateľ má v prípade odstúpenia z dôvodu na strane dodávateľa nárok na zaplatenie zmluvnej pokuty vo výške 10% z
+celkovej ceny predmetu zmluvy.
+Objednávateľ je oprávnený odstúpiť od tejto zmluvy v prípade, ak v momente uzavretia tejto zmluvy nemá dodávateľ v registri
+partnerov verejného sektora zapísaných konečných užívateľov výhod v súlade s príslušnými ustanoveniami ZVO a ZRPVS a k
+zápisu do tohto registra nedôjde ani do 30 dní od momentu uzavretia tejto zmluvy, alebo ak mu bol právoplatne uložený zákaz
+účasti podľa § 182 ods. 3 písm. b/ zákona o verejnom obstarávaní
+Pre ukončenie zmluvy dohodou zmluvných strán sa vyžaduje:
+- vyhotovenie dohody o ukončení zmluvy v písomnej forme
+- aby dohoda o ukončení zmluvy obsahovala podstatné náležitosti súvisiace s ukončením zmluvy a vysporiadaním záväzkov
+zmluvných strán a termín ukončenia zmluvy.
+Ukončenie zmluvných strán dohodou zmluvných strán nastane ku dňu, ktorý je určený v dohode o ukončení, inak ku dnu jej
+podpísania a zverejnenia podľa príslušných predpisov.
+Miesto dodania služieb je sídlo Objednávateľa.
+Ochrana osobných údajov:
+1. Dodávateľ je povinný poučiť všetky fyzické osoby, ktoré sa budú podieľať v jeho mene a na jeho zodpovednosť pri plnení
+zmluvy mlčanlivosťou. Dodávateľ predloží podpísané poučenie o povinnosti mlčanlivosti pred plnením zmluvy pre každú
+vyslanú fyzickú osobu, alebo pred samotným výkonom práce každá vyslaná fyzická osoba sa oboznámi s poučením u
+objednávateľa a poučenie podpíše. Bez uvedeného, vyslanej osobe nebude umožnený výkon práce na pracoviskách
+objednávateľa, kde môže prísť do styku z osobnými údajmi.
+2. Neumožnený vstup do priestorov objednávateľa zástupcovi dodávateľa bez poučenia o mlčanlivosti sa nepovažuje za
+neposkytnutie súčinnosti pri plnení zmluvy zo strany objednávateľa.
+3. Vyslaná fyzická osoba zároveň podpíše oboznámenie sa s informáciou o spracovaní osobných údajov v zmysle článku 13
+a príslušných recitálov Nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní
+osobných údajov a o voľnom pohybe takýchto údajov a zákona NR SR č. 18/2018 Z. z. o ochrane osobných údajov a o zmene
+a doplnení niektorých zákonov – Evidencia zástupcov a dodávateľov a odberateľov.
+4. Poučenie o mlčanlivosti s prehlásením o informovaní je dostupné na webových stránkach objednávateľa , v sekcii
+„Ochrana osobných údajov, GDPR“: P O U Č E N I E o povinnosti mlčanlivosti s informačnou povinnosťou
+5. Dodávateľ zodpovedá za porušenie povinnosti za vyslané fyzické osoby, ktoré sa podieľajú na plnení zmluvy v mene
+dodávateľa v priestoroch objednávateľa.
+
+Strana 7 z 9
+
+Informačná povinnosť:
+Poučená osoba potvrdzuje svojím podpisom, že bola informovaná o zásadách ochrany osobných údajov v zmysle článku 13 a
+príslušných recitálov Nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní
+osobných údajov a o voľnom pohybe takýchto údajov a zákona NR SR č. 18/2018 Z. z. o ochrane osobných údajov a o zmene
+a doplnení niektorých zákonov, dostupné na webových stránkach objednávateľa v sekcii „Ochrana osobných údajov, GDPR“.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Žilinský
+
+Okres:
+
+Žilina
+
+Obec:
+
+Žilina
+
+Ulica:
+
+Ul. Vojtecha Spanyola 43
+
+Čas / lehota plnenia zmluvy:
+01.10.2018 00:01:00 - 30.09.2019 23:59:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 14 862,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 17 834,40 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 30.08.2018 08:24:02
+Strana 8 z 9
+
+Objednávateľ:
+Fakultná nemocnica s poliklinikou Žilina
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+TatraMed Software s. r. o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 9 z 9
+
+

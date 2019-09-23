@@ -1,0 +1,1144 @@
+ÚpIA –323-10/2018-OdOTSaIKT
+
+IIS SAP: 6100001891
+Výtlačok č.: 1
+Počet listov: 11
+Prílohy:
+4/8
+
+Zmluva o servisnej podpore aplikačných modulov
+integrovaného informačného systému (IIS)
+č. 2018/815
+uzatvorená v zmysle Rámcovej dohody č. 2013/516 uzavretej medzi zmluvnými stranami
+dňa 30.6.2014 v Bratislave podľa § 269 odsek 2 Obchodného zákonníka
+ZMLUVNÉ STRANY
+1 . Objednávateľ :
+
+Slovenská republika
+Ministerstvo obrany SR
+Kutuzovova 8
+832 47 Bratislava
+Zastúpený :
+Ing. Robert Sedlák.
+riaditeľ Úradu pre investície a akvizície Ministerstva obrany SR
+na základe plnomocenstva ministra obrany č. KaMO-2250/2016, zo dňa 03. októbra 2016
+Osoba oprávnená konať vo veciach technických, objednávania a preberania:
+Veliteľ ZaSKIS - Vojenský útvar („VÚ“) 8116, Olbrachtova 5,
+Trenčín, tel.: 0960 406000, 0903 820685, fax: 0960 406080
+Osoba oprávnená konať vo veciach, reklamácií, a úkonov spojených s fakturáciou:
+Generálny riaditeľ SEMI – národný riaditeľ pre vyzbrojovanie
+MO SR Kutuzovova 8, 832 47 Bratislava.
+IČO :
+30 845 572
+Bankové spojenie :
+Štátna pokladnica
+IBAN: SK50 8180 0000 0070 00171215
+BIC: SPSRSKBA
+(ďalej len „Objednávateľ“)
+1.2. Poskytovateľ:
+
+SEVITECH, a.s.
+Mlynské nivy 71
+821 05 Bratislava
+Zastúpený :
+Ing. Jaroslav Murár, predseda predstavenstva,
+Jaroslav Gajdoš, člen predstavenstva
+IČO :
+31 605 052
+IČ DPH :
+SK2020444338
+Bankové spojenie :
+Tatrabanka, a.s.
+Číslo účtu :
+2627535593/1100, IBAN: SK56 1100 0000 0026 2753 5593
+BIC: TATRSKBX
+Poskytovateľ je zapísaný v Obchodnom registri Okresného súdu Bratislava I,
+Odd. Sa, vložka č. 4696/B
+
+(ďalej len „Poskytovateľ“)
+
+1/11
+
+Článok I.
+DEFINÍCIA POJMOV
+1.1.
+
+Zmluvné strany sa dohodli a súčasne súhlasia s tým, že pojmy používané v Zmluve,
+ktoré nebudú v príslušnej časti Zmluvy zadefinované inak, budú mať pre účely tejto
+Zmluvy význam definovaný v príslušných ustanoveniach tohto článku Zmluvy.
+Objednávateľ a Poskytovateľ spoločne ako „Zmluvné strany“ alebo jednotlivo ako
+„Zmluvná strana“.
+„Zmluva“ je táto Zmluva o servisnej podpore aplikačných modulov IIS, vrátane Príloh,
+ktoré sú jej súčasťou, a všetky právne dokumenty, ktoré Zmluvu dopĺňajú a aktualizujú
+a ktoré sú v Zmluve obsiahnuté, resp. na ktoré sa Zmluvné strany v Zmluve odvolávajú.
+„Cena“ je zmluvnými stranami dohodnutá cena servisných a iných služieb, ktorej výška
+a spôsob úhrady je stanovená v Rámcovej dohode č. 2013/516, uzavretej medzi
+Zmluvnými stranami dňa 30.06.2014 (ďalej len „Rámcová dohoda č. 2013/516), a v
+príslušných článkoch tejto Zmluvy.
+„Activity Report“ je dokument, ktorým Poskytovateľ preukazuje vykonanie SLA
+služieb/individuálnych objednávok, t. j. služieb v zmysle bodu 2.1 tejto Zmluvy.
+„Dokumentácia“ znamená užívateľské príručky, pokyny pre inštaláciu, prevádzkové
+inštrukcie a iné podobné dokumenty a informácie týkajúce sa IIS bez ohľadu na médium,
+na ktorom sú uložené a ktoré vysvetľujú schopnosti IIS.
+Správca informačného systému je Generálny riaditeľ Sekcie modernizácie
+a infraštruktúry (SEMI) v súčinnosti s riaditeľkou ÚSRK MO SR, ako hlavným užívateľom
+IIS.
+„Správca modulu“, „Správca“ sú osoby definované v zmysle smernice MO SR
+o Integrovanom informačnom systéme, alebo ním poverené osoby. Zoznam Správcov
+predloží Objednávateľ Poskytovateľovi písomne do desiatich dní od podpisu Zmluvy
+Objednávateľom.
+„Garant modulu“, „Garant“, „zástupca Garanta“ „projektový manažér IIS“ sú
+osoby definované v zmysle smernice MO SR o Integrovanom informačnom systéme.
+Zoznam týchto osôb predloží Objednávateľ Poskytovateľovi písomne do desiatich dní
+od podpisu Zmluvy Objednávateľom.
+IIS MO SR Integrovaný informačný systém Ministerstva obrany Slovenskej Republiky,
+implementovaný prevažne na platforme SAP vo verzii 6.5.
+Poskytovateľ vyhlasuje, že je oboznámený so smernicou MO SR č.27/2010
+o Integrovanom informačnom systéme.
+Článok II.
+PREDMET ZMLUVY
+
+2.1.
+
+Predmetom tejto Zmluvy je záväzok Poskytovateľa v rozsahu a za podmienok
+dohodnutých v tejto Zmluve poskytovať služby servisnej podpory aplikačných modulov
+integrovaného informačného systému rezortu Ministerstva obrany SR (vrátane
+subsystému VS) postaveného prevažne na platforme softwarového produktu SAP ERP
+ECC 6.5 MO SR, vrátane konzultácii, školení a služieb súvisiacich s prevádzkou IIS MO
+SR (ďalej aj ako „služby“).
+
+2/11
+
+2.2. Poskytovateľ sa zaväzuje poskytovať tieto služby:
+2.2.1. Servisná podpora aplikačných modulov (oblastí) IIS MO SR definovaných podľa
+bodu 1 Prílohy č. 1 k tejto Zmluve, vrátane odborných konzultácií.
+2.2.2. Servisná podpora aplikačných modulov (oblastí) IIS MO SR definovaných podľa
+bodu 2 Prílohy č. 1 k tejto Zmluve, vrátane odborných konzultácií.
+2.2.3. Školenia pre aplikačnú podporu IIS a školenia pre administrátorov IIS podľa
+bodu 3 Prílohy č. 1 k tejto Zmluve.
+2.3. Podrobná špecifikácia služieb, vrátane bližšej špecifikácie záväzku Poskytovateľa je
+uvedená v Prílohe č.1, ktorá tvorí neoddeliteľnú súčasť tejto Zmluvy.
+2.4. Objednávateľ sa zaväzuje zaplatiť za riadne a včasné poskytnutie služieb podľa
+ustanovení tejto Zmluvy, zmluvnú cenu uvedenú v článku III. tejto Zmluvy.
+Článok III.
+CENA PREDMETU ZMLUVY
+3.
+3.1. Zmluvné strany sa v zmysle zákona č. 18/1996 Z.z. o cenách a v znení neskorších
+predpisov dohodli, že Sadzobník cien za poskytnutie služieb je uvedený v Prílohe č. 2
+k tejto Zmluve (ďalej len „Zmluvná cena“). V dohodnutej Zmluvnej cene sú podľa tejto
+Zmluvy zahrnuté všetky náklady Poskytovateľa súvisiace s poskytovaním služieb podľa
+tejto Zmluvy vrátane dopravných nákladov.
+3.2. Zmluvné strany sa v zmysle zákona č. 18/1996 Z.z. o cenách a v znení neskorších
+predpisov dohodli na nasledovnej maximálnej celkovej Zmluvnej cene služieb (za všetky
+služby podľa bodu 2.2 tejto Zmluvy)
+148 944,00 EUR s 20% DPH
+(slovom: jednosto štyridsaťosemtisícdeväťstoštyridsaťštyri EUR s DPH).
+Na vyčerpanie maximálnej celkovej Zmluvnej ceny nie je zo strany Poskytovateľa žiadny
+právny nárok.
+3.3. Rozsah služieb podľa bodu 2.2.1 tejto Zmluvy je uvedený v bode 1 Prílohy č. 1 tejto
+Zmluvy a Sadzobník cien je uvedený v Prílohe č. 2 tejto Zmluvy. Služba bude
+vykonávaná v dňoch, ktoré si Zmluvné strany operatívne dohodnú, pričom sú
+povinné dodržať dohodnutý mesačný paušál podľa Prílohy č. 1 tejto Zmluvy.
+O poskytnutí služieb podľa bodu 2.2.1 Zmluvy bude Poskytovateľom vyhotovený Activity
+report, ktorý bude súčasťou faktúry za takto poskytnuté služby a bude podpísaný za
+stranu Objednávateľa garantom modulu IIS, veliteľom ZaSKIS, resp. ním povereným
+pracovníkom a projektovým manažérom IIS . K Activity reportu podľa bodu 2.2.1 Zmluvy
+sa prikladá dokument „Sumarizácia plánovaných/ odovzdaných služieb v systéme“, ktorý
+bude podpísaný za stranu Objednávateľa veliteľom ZaSKIS, resp. ním povereným
+pracovníkom a projektovým manažérom IIS.
+3.4. Rozsah služieb podľa bodu 2.2.2 tejto Zmluvy je uvedený v bode 2 Prílohe č. 1 tejto
+Zmluvy a Sadzobník cien je uvedený v Prílohe č. 2 tejto Zmluvy. Služby podľa bodu
+2.2.2 tejto Zmluvy budú poskytované na základe objednávky Objednávateľa
+vystavenej podľa potrieb Objednávateľa v súlade s bodom 3.6 tejto Zmluvy. Pre
+vylúčenie pochybností Zmluvné strany uvádzajú, že za objednávku podľa tohto bodu
+Zmluvy sa považuje požiadavka Objednávateľa zadaná v Service Desku, ktorá je
+schválená veliteľom ZaSKIS alebo ním povereným pracovníkom. Na vystavenie
+objednávky nemá Poskytovateľ právny nárok. O poskytnutí takto objednaných služieb
+bude Poskytovateľom vyhotovený Activity report, ktorý bude súčasťou faktúry za takto
+poskytnuté služby a bude podpísaný za stranu Objednávateľa garantom modulu IIS,
+veliteľom ZaSKIS resp. ním povereným pracovníkom a projektovým manažérom IIS.
+K Activity reportu podľa bodu 2.2.2 Zmluvy sa prikladá dokument „Sumarizácia
+plánovaných/ odovzdaných služieb v systéme“, ktorý bude podpísaný za stranu
+Objednávateľa veliteľom ZaSKIS, resp. ním povereným pracovníkom a projektovým
+manažérom IIS.
+
+3/11
+
+3.5. Rozsah služieb podľa bodu 2.2.3 tejto Zmluvy je uvedený v bode 3 Prílohy č. 1 tejto
+Zmluvy a Sadzobník cien je uvedený v Prílohe č. 2 tejto Zmluvy. Služby podľa bodu
+2.2.3 tejto Zmluvy budú poskytované na základe objednávky Objednávateľa v zmysle
+bodu 3 Prílohy 1 tejto Zmluvy vystavenej podľa potrieb Objednávateľa. Na vystavenie
+objednávky nemá Poskytovateľ právny nárok. O poskytnutí služieb uvedených v tomto
+bode bude vyhotovený zápis o vykonaní školenia a prezenčná listina. Obidva dokumenty
+budú prílohou faktúry.
+3.6. Služby podľa bodu 3.4 tejto Zmluvy budú poskytované na základe objednávky, v ktorej
+bude zmluvnými stranami dohodnutý rozsah prác a cena v súlade s nastavenými
+procesmi v Service Desku podľa Prílohy č. 1, Prílohy č. 2 a Prílohy č. 3 tejto Zmluvy.
+Článok IV.
+TERMÍN, SPÔSOB A MIESTO PLNENIA PREDMETU ZMLUVY
+4.1.
+
+4.2.
+
+4.3.
+
+Zmluvné strany sa dohodli, že Poskytovateľ bude poskytovať služby priebežne
+v rozsahu a v termínoch podľa tejto Zmluvy a príslušných objednávok odo dňa
+účinnosti tejto Zmluvy do 03.07.2018, s tým že služby podľa bodu 2.2.1 tejto zmluvy
+budú poskytované do 30.6.2018.
+Miestom poskytovania služieb budú priestory a objekty Objednávateľa na území SR a
+priestory Poskytovateľa (prevažne pre analytické, programátorské a dokumentačné
+činnosti), prípadne iné priestory podľa dohody Objednávateľa a Poskytovateľa.
+Spôsob riešenia a vyhodnocovania služieb podľa tejto Zmluvy sa bude riadiť zásadami
+uvedenými v Prílohe č. 3.tejto Zmluvy.
+Článok V.
+PLATOBNÉ PODMIENKY
+
+5.1.
+
+5.2.
+
+5.3.
+5.4.
+
+Poskytovateľ je oprávnený fakturovať cenu za riadne poskytovanie služieb podľa bodu
+2.2.1 za príslušný kalendárny mesiac do pätnásteho kalendárneho dňa nasledujúceho
+mesiaca. Prílohou takejto faktúry bude Activity report a dokument „Sumarizácia
+plánovaných/ odovzdaných služieb v systéme“ v súlade s bodmi 3.3 až 3.5 tejto
+Zmluvy.
+Služby objednané podľa bodu 2.2.2 a 2.2.3 na základe príslušnej objednávky/
+objednávok budú fakturované Poskytovateľom až po riadnom poskytnutí ich plnenia
+a odovzdaní Objednávateľovi v súlade s bodmi 3.4 a 3.5 tejto Zmluvy, a to do
+pätnásteho kalendárneho dňa mesiaca nasledujúceho po mesiaci, v ktorom boli tieto
+služby riadne poskytnuté a odovzdané Objednávateľovi. Prílohou takejto faktúry bude
+v prípade bodu 2.2.2 potvrdený Activity report a dokument „Sumarizácia plánovaných/
+odovzdaných služieb v systéme“ v súlade s bodmi 3.3 až 3.5 tejto Zmluvy a v prípade
+bodu 2.2.3 prezenčná listina školených a zápis o vykonaní školenia potvrdený
+obidvoma Zmluvnými stranami.
+Splatnosť faktúr je 30 dní odo dňa ich doručenia Objednávateľovi. Fakturovanú čiastku
+zaplatí Objednávateľ na účet Poskytovateľa uvedený v záhlaví tejto Zmluvy.
+Každá faktúra musí spĺňať náležitosti podľa § 71 zákona č. 222/2004 Z. z. o dani z
+pridanej hodnoty v platnom znení (ďalej len „Zákon o DPH“) a náležitosti podľa zákona
+č. 513/1991 Zb. Obchodného zákonníka. Zmluvné strany sa dohodli, že každá faktúra
+Poskytovateľa bude obsahovať minimálne:
+- označenie faktúry a jej číslo
+- názov a sídlo Objednávateľa a Poskytovateľa
+- dátum vystavenia
+- názov banky a číslo účtu, na ktorý má byť platba realizovaná
+- špecifikáciu predmetu fakturácie
+- ceny za jednotlivé položky bez DPH
+- náležitosti DPH
+- celkovú cenu za poskytnuté služby.
+
+4/11
+
+5.5.
+
+V prípade, že faktúra Poskytovateľa bude obsahovať nesprávne alebo neúplné údaje,
+Objednávateľ je oprávnený túto faktúru v lehote jej splatnosti vrátiť Poskytovateľovi.
+Poskytovateľ túto faktúru podľa charakteru nedostatkov alebo opraví, alebo vystaví
+novú faktúru. Na tejto opravenej (novej) faktúre vyznačí novú lehotu splatnosti a doručí
+túto faktúru Objednávateľovi. Zmluvné strany berú na vedomie, že v prípade ak
+nedostatky na faktúre vznikli na strane Poskytovateľa, nová lehota splatnosti začne
+plynúť dňom doručenia novej bezchybnej faktúry Objednávateľovi.
+Článok VI.
+SPOLUPÔSOBENIE ZMLUVNÝCH STRÁN
+
+6.1.
+
+Spolupôsobenie a zodpovednosť Zmluvných strán pri poskytovaní služieb bude
+nasledovná:
+6.1.1. Činnosti a zodpovednosť Poskytovateľa :
+ Poskytovateľ sa zaväzuje rešpektovať súčasný stav IIS MO SR a súčasne
+garantuje, že v dôsledku realizácie služieb servisnej podpory aplikačných
+modulov (oblastí) IIS MO SR nedôjde k porušeniu jeho funkčnosti.
+ Poskytovateľ sa zaväzuje zabezpečiť prostredníctvom svojich špecialistov
+vysokokvalitné služby pre Objednávateľa v činnostiach a rozsahu
+dohodnutom v tejto Zmluve a/alebo príslušnej objednávke ako aj ich účasť
+na všetkých potrebných rokovaniach týkajúcich sa poskytovaných služieb.
+ Poskytovateľ sa zaväzuje zohľadniť pri poskytovaní služieb integráciu
+informačných technológií použitých v IIS MO SR.
+ Poskytovateľ sa zaväzuje rešpektovať existujúcu rezortnú dátovú sieť (RDS)
+rezortu MO SR pre prenos údajov.
+ Poskytovateľ sa zaväzuje, že ním poverení pracovníci budú dodržiavať
+režim pracoviska stanovený Objednávateľom v príslušných objektoch MO
+SR
+6.1.2.
+Činnosti a zodpovednosť Objednávateľa :
+ Objednávateľ sa zaväzuje poskytnúť Poskytovateľovi všetky potrebné
+dokumenty, dokumentáciu k IIS MO SR a informácie, nevyhnutné pre riadnu
+a včasnú realizáciu služieb.
+Objednávateľ sa zaväzuje:
+ Zabezpečiť vysokú dostupnosť serverov určených pre prevádzkovanie
+aplikačných modulov (oblastí) IIS MO SR v budove SAPO Základne
+stacionárnych KIS Trenčín v maximálnej možnej miere a Poskytovateľ bude
+bezodkladne informovaný o plánovaných a neplánovaných výpadkoch, ktoré
+môžu mať vplyv na plnenie Zmluvy.
+ Zabezpečiť vysokú dostupnosť rezortnej dátovej siete (RDS),v maximálnej
+možnej miere a Poskytovateľ bude bezodkladne informovaný o plánovaných
+a neplánovaných výpadkoch, ktoré môžu mať vplyv na plnenie Zmluvy.
+ Zabezpečiť pre prácu poradcov Poskytovateľa a Správcov modulov
+potrebné kancelárske priestory vybavené minimálne samostatnou
+telefonickou linkou, pracovným stolom, stoličkou a počítačom (PC je dodaný
+Poskytovateľom), ktorý musí byť pripojený cez rezortnú dátovú sieť (RDS)
+k serverom. Pripojenie týchto PC cez RDS zabezpečuje ZaSKIS.
+ Zabezpečiť pre prácu poradcov Poskytovateľa a Správcov modulov
+vzdialený prístup tak, aby bolo umožnené vykonávať servisnú podporu
+vzdialene, to znamená aj z priestorov mimo priestorov MO SR, za dodržania
+nasledovných podmienok:
+ Umožniť poradcom Poskytovateľa a jeho subPoskytovateľov, ktorí budú
+vykonávať servisnú podporu aplikačných modulov (oblastí) IIS MO SR
+prístup do tých priestorov rezortu MO SR, v ktorých budú služby
+poskytované.
+ Zabezpečiť poradcom Poskytovateľa možnosť vstupovať do areálu na
+
+5/11
+
+6.2.
+
+6.3.
+
+Kutuzovovej ul. a príslušných budov a miestností v danom areály formou
+servisných kartičiek, bez toho aby sa museli hlásiť ako návšteva,
+prostredníctvom kompetentných pracovníkov rezortu MO SR.
+ Počas prác na servisnej podpore aplikačných modulov (oblastí) IIS MO SR
+na požiadanie ktorejkoľvek Zmluvnej strany zvolávať pracovné zasadania
+formou servisných porád, hodnotiacich dní a/alebo zasadaní projektového
+tímu. Zmluvné strany sú povinné sa takejto servisnej porady, hodnotiacich
+dní a /alebo zasadaní zúčastniť.
+ Písomne informovať Poskytovateľa o zmenách Správcov modulov
+a Garantov modulov najneskôr do 10 pracovných dní od zmeny.
+Objednávateľ je povinný zabezpečiť Poskytovateľovi všetku potrebnú súčinnosť, najmä
+tú ktorá je uvedená v bode 6.1.2 tohto článku Zmluvy. Ak Objednávateľ preukázateľne
+neposkytne Poskytovateľovi potrebnú súčinnosť, neposkytne potrebné dokumenty
+a informácie týkajúce sa predmetu tejto Zmluvy včas alebo nezabezpečí ich
+poskytnutie včas, respektíve vôbec nie ani po písomnej výzve Poskytovateľa cestou
+GR SEMI MO SR, Poskytovateľ nezodpovedá za prípadné škody, omeškanie alebo
+nemožnosť vykonať služby v dohodnutom rozsahu a termínoch, pokiaľ tento stav
+nezavinil svojím konaním alebo opomenutím.
+Pre potreby Poskytovateľa bude zabezpečený aj vzdialený prístup tak, aby bolo
+umožnené vykonávať servisnú podporu vzdialene, to znamená aj z priestorov mimo
+priestorov MO SR, za dodržania nasledovných podmienok:
+- vzdialený prístup bude využívať iba občan Slovenskej republiky,
+- vzdialený prístup bude realizovaný iba z technických prostriedkov, ktoré budú pod
+správou ZaSKIS,
+- inštaláciu technického prostriedku vykoná zástupca ZaSKIS,
+- technický prostriedok bude výhradne použitý iba pre potreby poradcov Poskytovateľa
+na riešenie servisných zásahov v prostredí Ozbrojených síl SR prostredníctvom
+vzdialeného prístupu cez VPN,
+- poradcovia Poskytovateľa môžu využiť maximálne 16 vzdialených prístupov súčasne
+v jednom čase z dôvodu technických možností existujúcej infraštruktúry, v prípade
+krízových situácií (napr. potreba vzdialeného prístupu administrátorov ZaSKIS) môže
+byť tento počet obmedzený na nevyhnutne potrebný čas,
+- Poskytovateľ zabezpečí technické a programové prostriedky (vrátane licencií)
+potrebné pre vzdialený prístup na vlastné náklady.
+- Poskytovateľ dodrží minimálne požadované parametre technických a programových
+prostriedkov zo strany Objednávateľa.
+- Poskytovateľ po dobu využívania vzdialeného prístupu poskytne Objednávateľovi
+licenciu CheckPoint Total Security, z dôvodu zabezpečenia vzdialeného prístupu.
+Uvedená licencia bude odovzdaná formou protokolu o odovzdaní a prevzatí.
+- Objednávateľ môže na nevyhnutne potrebný čas obmedziť využívanie vzdialeného
+prístupu poradcov Poskytovateľa pokiaľ vyhodnotí, že vzdialený prístup predstavuje
+bezpečnostné riziko pre Objednávateľa.
+- Umožniť prístup k zariadeniam, ktoré sú určené na poskytnutie služieb pracovníkom
+Poskytovateľa tak, aby mohli poskytovať služby podľa tejto Zmluvy.
+- Umožniť pracovníkom Poskytovateľa, ktorí vykonávajú objednané služby prístup na
+miesto plnenia v čase , v ktorom má Poskytovateľ službu Objednávateľovi
+poskytovať.
+- Vytvoriť bezpečné pracovné prostredie v súlade s platnými právnymi predpismi
+Slovenskej republiky pre pracovníkov Poskytovateľa.
+- Pred začatím poskytovania služieb informovať Poskytovateľa o možnom
+nebezpečenstve na zdraví a oboznámi s bezpečnostnými informáciami.
+
+6/11
+
+Článok VII.
+ZÁRUKY, VADY , REKLAMÁCIE
+7.1.
+
+7.2.
+7.3.
+
+7.4.
+
+Poskytovateľ poskytne Objednávateľovi na služby záruku v trvaní 24 mesiacov odo dňa
+akceptácie služby. Záruka sa vzťahuje najmä na bezporuchovú prevádzku tých
+aplikačných modulov IIS MO SR v produktívnej prevádzke, u ktorých boli vykonané
+služby servisnej podpory podľa tejto Zmluvy.
+Záruka podľa predchádzajúceho bodu tejto Zmluvy sa nevzťahuje na vady spôsobené
+v dôsledku nesprávneho alebo neodborného zaobchádzania Objednávateľa.
+Pri vadnom plnení Poskytovateľ zodpovedá za vady preukázateľne spôsobené
+zavinením pracovníkov Poskytovateľa alebo skutočnosťou, že plnenie bolo poskytnuté
+odlišne od služieb dohodnutých a špecifikovaných v tejto Zmluve.
+Plnenie Poskytovateľa má vady ak nezodpovedá výsledku určenému v tejto Zmluve
+vrátane jej príloh. V takom prípade má Objednávateľ právo, uplatniť voči
+Poskytovateľovi zo zodpovednosti za vady a zistené vady reklamovať u Poskytovateľa
+bezodkladne po tom čo ich zistí. Nároky objednávateľa z vád budú uplatňované
+v súlade s Rámcovou dohodou č. 2013/516 a Obchodným zákonníkom. Poskytovateľ
+je povinní vybaviť uplatnenú reklamáciu najneskôr v lehote 30 dní od jej uplatnenia, ak
+nie je Zmluvnými stranami dohodnutý iný termín.
+Článok VIII.
+UŽÍVACIE, VLASTNÍCKE A AUTORSKÉ PRÁVA
+
+8.1.
+
+8.2.
+
+8.3.
+
+8.4.
+
+Zmluvné strany sa dohodli, že v prípade, že na základe plnení Poskytovateľa podľa
+tejto Zmluvy sa majú niektoré veci stať vlastníctvom Objednávateľa, prechádza na
+Objednávateľa vlastnícke právo k týmto dňom úplného uhradenia ceny takýchto vecí.
+Nebezpečenstvo škody prechádza na Objednávateľa dňom odovzdania veci.
+Pokiaľ na základe a na účely plnenia tejto Zmluvy Poskytovateľ vytvorí alebo zabezpečí
+pre Objednávateľa vytvorenie autorského diela v zmysle ustanovení zákona č.
+185/2015 Z.z. Autorský zákon v platnom znení, udeľuje Poskytovateľ Objednávateľovi
+nevýhradný, neprenosný, teritoriálne a časovo neobmedzený súhlas na použitie
+takého autorského diela na účely a v podobe, v akej bolo vytvorené a poskytnuté
+Objednávateľovi počas celej doby trvania ochrany autorského diela na základe zákona.
+Objednávateľ je oprávnený autorské dielo majúce povahu počítačového programu
+meniť a upravovať za podmienok uvedených v § 87 až § 89 Autorského zákona.
+Odmena za takýto súhlas a použitie autorského diela je bezodplatná.
+Pre softvér majúci povahu autorského diela bežne dostupného na trhu a špecificky
+nevytvoreného v rámci poskytovania služieb („Krabicový softvér“) budú platiť obvyklé
+licenčné podmienky stanovené príslušným nositeľom autorských majetkových a/alebo
+distribučných práv s ktorými je takýto Krabicový softvér šírený.
+Článok IX.
+SANKCIE A ÚROKY Z OMEŠKANIA
+
+9.1.
+9.2.
+
+9.3.
+
+Poskytovateľ a Objednávateľ sa dohodli, že Poskytovateľ zodpovedá za škodu podľa
+príslušných ustanovené Obchodného zákonníka.
+Žiadna zo Zmluvných strán však nezodpovedá za škodu, ktorá vznikla v dôsledku
+vecne nesprávneho, alebo inak chybného zadania, ktoré prijala od druhej Zmluvnej
+strany v prípade, že v dôsledku takéhoto zadania vznikne škoda, pričom na túto
+skutočnosť druhú stranu písomne upozornila pred vznikom škody.
+V prípade, že Poskytovateľ neposkytne služby podľa bodu 2.2.1 tejto Zmluvy riadne
+a /alebo v rozsahu podľa Prílohy 1 tejto Zmluvy a /alebo nedodrží reakčné časy
+uvedené v prílohe č. 3 tejto Zmluvy a/alebo neposkytne služby podľa bodu 2.2.2
+a/alebo bodu 2.2.3 tejto Zmluvy podľa podmienok tejto Zmluvy a/alebo príslušnej
+objednávky , uhradí Objednávateľovi Zmluvnú pokutu vo výške 0,05% z ceny riadne
+
+7/11
+
+neposkytnutých služieb za každý deň omeškania, minimálne však 10,-EUR. Ak došlo
+k omeškaniu Poskytovateľa s poskytnutím služieb z dôvodu pôsobenia vyššej moci
+(živelná pohroma, vojnový konflikt, štrajk), Objednávateľ neuplatní Zmluvnú pokutu
+voči Poskytovateľovi za dobu trvania vyššej moci (§ 374 Obch. Zákonník).
+9.4.
+Ak došlo k omeškaniu Poskytovateľa s plnením predmetu Zmluvy z dôvodu omeškania
+Objednávateľa (článok V. Zmluvy), Objednávateľ nebude uplatňovať žiadnu sankciu
+(ani zmluvnú pokutu, ani úrok z omeškania), voči Poskytovateľovi za dobu omeškania
+Objednávateľa.
+9.5.
+Ak Objednávateľ preukázateľne nezabezpečí súčinnosť uvedenú v článku VI. tejto
+Zmluvy a tým znemožní Poskytovateľovi poskytovanie služieb v stanovenom rozsahu
+a termínoch, nebude Objednávateľ voči Poskytovateľovi uplatňovať žiadne sankcie.
+9.6.
+V prípade omeškania Objednávateľa s úhradou faktúr uhradí tento Poskytovateľovi
+úrok z omeškania vo výške 0,05 % z neuhradenej fakturovanej sumy za každý deň
+omeškania.
+9.7.
+V prípade, že Poskytovateľ nerozhodne o oprávnenosti reklamácie alebo nevyrieši
+oprávnenú reklamáciu v lehote podľa ustanovení, ktoré sú uvedené v tejto Zmluve
+uhradí Objednávateľovi Zmluvnú pokutu vo výške 10,00 € za každý deň omeškania.
+9.8.
+V prípade, že Poskytovateľ poskytne službu s vadami a/alebo neuvedie zariadenie na
+ktorom má vykonať službu/služby do plnohodnotnej prevádzky do 45 dní od začatia
+vykonávania služieb a Objednávateľovi nebude poskytnuté ani náhradne zariadenie, je
+Poskytovateľ povinný uhradiť do 30 dní od doručenia faktúry Zmluvnú pokutu vo výške
+10 EUR za každý deň omeškania, a to počnúc 46 dňom od začatia vykonávania
+služieb.
+9.9.
+V prípade preukázateľne neoprávnenej reklamácie uplatňovanej zo strany
+Objednávateľa uhradí Objednávateľ Poskytovateľovi náklady účelne a preukázateľne
+vynaložené na riešenie neoprávnenej reklamácie maximálne však do výšky jedného
+človekodňa SAP konzultanta 1 v zmysle Prílohy č. 2.
+9.10. Zmluvné pokuty a sankcie dohodnuté touto Zmluvou hradí povinná strana nezávisle na
+tom, či a v akej výške vznikne druhej strane škoda. Základom pre výpočet pokuty sú
+ceny s DPH.
+9.11. Dohodnuté Zmluvné pokuty a sankcie uhradí povinná strana strane oprávnenej do 30
+dní odo dňa ich uplatnenia.
+Článok X.
+ZODPOVEDNOSŤ ZA ŠKODU, OKOLNOSTI VYLUČUJÚCE ZODPOVEDNOSŤ
+10.1. Každá zo Zmluvných strán nesie zodpovednosť za spôsobenú škodu v rámci
+všeobecne platných a účinných právnych predpisov Slovenskej republiky a tejto
+Zmluvy. Obe strany sa zaväzujú k vyvinutiu maximálneho úsilia k predchádzaniu
+škodám a k minimalizácii vzniknutých škôd.
+10.2. Poskytovateľ je povinný postupovať pri plnení pokynov a zadaní zo strany
+Objednávateľa s odbornou starostlivosťou a na nevhodnosť pokynov Objednávateľa
+bezodkladne upozorniť. Ak Objednávateľa na nevhodnosť pokynov písomne
+neupozorní, nemôže sa zbaviť zodpovednosti za vzniknutú škodu, iba ak nevhodnosť
+nemohol zistiť ani pri vynaložení odbornej starostlivosti. Poskytovateľ nezodpovedá ani
+za škodu, ktorá vznikla v dôsledku vadného zadania zo strany Objednávateľa, ak
+Poskytovateľ bezodkladne upozornil Objednávateľa na vadnosť tohto zadania a
+Objednávateľ na tomto zadaní naďalej trval.
+10.3. Poskytovateľ nezodpovedá za škodu spôsobenú Objednávateľom v dôsledku
+nesprávneho, alebo neodborného zaobchádzania a používania zariadení, na ktorých
+bola poskytnutá služba v rozpore s odporúčaniami a inštrukciami Poskytovateľa.
+10.4. Zmluvné strany sa zaväzujú upozorniť písomne druhú Zmluvnú stranu bez zbytočného
+odkladu na vzniknuté okolnosti vylučujúce zodpovednosť, brániace riadnemu plneniu
+tejto Zmluvy. Zmluvné strany sa zaväzujú, k vyvinutiu maximálneho úsilia na odvrátenie
+a prekonanie okolností vylučujúcich zodpovednosť.
+10.5. Zodpovednosť strán za čiastočné alebo úplne neplnenie Zmluvných povinností je
+
+8/11
+
+vylúčená v týchto prípadoch:
+10.5.1. v dôsledku vyššej moci. Ak kedykoľvek v priebehu trvania tejto Zmluvy bude
+splnenie celej alebo časti akejkoľvek povinnosti ktorejkoľvek strany
+znemožnené alebo oneskorené z dôvodu vis major (vojny, občianskych
+nepokojov, sabotáže, požiaru, záplav, epidémií, karanténneho opatrenia,
+porúch dodávok bežne dodávaných energií, štrajku a výluky, alebo akejkoľvek
+inej udalosti mimo rozumnú kontrolu týkajúcej sa strany (ďalej označené ako
+“skutočnosť”), uvedená strana je povinná zaslať druhej strane oznámenie tejto
+skutočnosti do päť (5) dní od dátumu výskytu tejto skutočnosti. Pokiaľ vyššia
+moc pôsobí po dobu nepresahujúcu 90 kalendárnych dní, sú strany povinné
+splniť záväzky vyplývajúce z tejto Zmluvy ihneď ako účinky vyššej moci pominú,
+pričom dohodnuté termíny sa posúvajú o dobu pôsobenia vyššej moci.
+10.5.2. v dôsledku zásahu orgánov verejnej moci tretích krajín, majúcich súvislosť
+s plnením predmetu tejto Zmluvy, ktorý znemožní stranám splnenie povinností
+vyplývajúcich z tejto Zmluvy.
+10.6. Žiadna strana nemá právo z dôvodu takejto skutočnosti uvedenej v bode 10.5 tejto
+Zmluvy odstúpiť od tejto Zmluvy ani uplatniť nárok na náhradu škody, či uplatňovať
+Zmluvnú pokutu voči druhej strane, pokiaľ táto z dôvodu takejto skutočnosti nesplní
+zmluvnú povinnosť alebo sa dostane do omeškania s plnením Zmluvnej povinnosti.
+Článok XI.
+OBCHODNÉ TAJOMSTVO
+11.1. Zmluvné strany sa dohodli, že všetky informácie a dokumenty získané počas alebo
+v súvislosti s plnením tejto Zmluvy sú vysoko citlivé a Zmluvné strany ich považujú za
+svoje obchodné tajomstvo v zmysle §17 a nasl. Obchodného zákonníka.
+11.2. Za obchodné tajomstvo tejto Zmluvy sa považujú také dáta a informácie internej
+povahy, ako sú napr. prístupové heslá, popis pracovných metód a postupov, z povahy
+ktorých je zrejmé, že ich sprístupnenie nepovolaným osobám by mohlo spôsobiť
+dotknutej Zmluvnej strane akúkoľvek ujmu, poskytované druhej Zmluvnej strane alebo
+aj také informácie, ktoré budú Zmluvnou stranou za také výslovne označené, ak nejde
+o informácie, ktoré súčasne:
+a)
+sú preukázateľne verejne známe či dostupné bez porušenia záväzkov z tejto
+Zmluvy, alebo
+b)
+sa Zmluvná strana preukázateľné dozvedela od tretej strany, alebo
+c)
+sú preukázateľne výsledkom samostatného nezávislého vývoja príslušnej
+Zmluvnej strany
+11.3. Zmluvné strany sa týmto zaväzujú všetky tieto informácie a dokumenty neposkytnúť,
+ani neumožniť ich sprístupnenie, bez predchádzajúceho písomného súhlasu druhej
+Zmluvnej strany, žiadnym tretím osobám, či už vedome alebo nevedome, tak počas
+trvania vzájomných Zmluvných vzťahov medzi zmluvnými stranami, ako aj po ich
+skončení. Zmluvné strany sa zaväzujú nepoužiť získané dokumenty a informácie za
+iným účelom, ako je uvedený v tejto Zmluve.
+11.4. Za citlivé sa nepovažujú informácie, ktoré v čase ich sprístupnenia druhej Zmluvnej
+strane boli už verejne dostupné iným spôsobom ako porušením tejto Zmluvy, alebo boli
+získané od osoby, ktorá je oprávneným držiteľom takýchto informácií a je oprávnená
+ich použiť alebo zverejniť. Za porušenie ustanovení o obchodnom tajomstve v zmysle
+tejto Zmluvy sa nepovažuje zverejnenie základných údajov o druhom Zmluvnom
+partnerovi v referenčných listinách alebo podobných dokumentoch.
+11.5. Prijímajúca strana môže zveriť svojim zamestnancom a/alebo pracovníkom a
+subdodávateľom informácie, chránené podľa tohto článku Zmluvy v rozsahu
+nevyhnutnom na plnenie ich záväzkov podľa Zmluvy s druhou Zmluvnou stranou za
+podmienky, že tieto osoby budú viazané záväzkom mlčanlivosti.
+11.6. Pokiaľ niektorá zo Zmluvných strán preukázateľne poruší záväzok uvedený v článku
+XI. tejto Zmluvy, zaväzuje sa nahradiť poškodenej strane tým spôsobenú škodu.
+
+9/11
+
+11.7. Zmluvné strany sa zaväzujú dodržiavať ustanovenia tohto článku i po skončení
+platnosti tejto Zmluvy.
+Článok XII.
+ODSTÚPENIE OD ZMLUVY
+12.1. Zmluvné strany sú oprávnené odstúpiť od Zmluvy v súlade s príslušnými
+ustanoveniami tejto Zmluvy, Rámcovej dohody č. 2013/516 a Obchodného zákonníka.
+12.2. Za podstatné porušenie tejto Zmluvy zo strany Poskytovateľa sa považuje:
+a)
+Preukázateľné porušenie povinnosti Poskytovateľa poskytnúť služby v rozsahu
+a/alebo v kvalite a/alebo v termínoch podľa tejto Zmluvy a/alebo príslušnej
+objednávky s omeškaním viac ako 30 dní.
+b)
+V iných prípadoch stanovených touto zmluvou alebo Obchodným zákonníkom.
+12.3. Za podstatné porušenie tejto Zmluvy zo strany Objednávateľa sa považuje:
+a)
+ak je Objednávateľ v omeškaní s úhradou faktúry Poskytovateľa vystavenej v
+súlade so Zmluvou a toto omeškanie trvá po dobu 60 dní od doručenia
+písomného upozornenia Poskytovateľa na takéto omeškanie,
+b)
+v iných prípadoch stanovených touto zmluvou alebo Obchodným zákonníkom.
+12.4. Odstúpenie od Zmluvy musí byť druhej strane oznámené písomne, inak je neplatné
+a musí v ňom byť uvedený dôvod, pre ktorý Zmluvná strana odstupuje. Odstúpením od
+tejto Zmluvy nie je dotknutá platnosť Rámcovej dohody č. 2013/516.
+12.5. Odstúpenie od tejto Zmluvy nadobudne účinnosť dňom doručenia druhej Zmluvnej
+strane. Zásielka s oznámením o odstúpení sa považuje za doručenú aj vtedy, ak bola
+vrátená ako nedoručiteľná.
+Článok XIII.
+ZÁVEREČNÉ USTANOVENIA
+13.1
+13.2
+
+13.3
+
+13.4
+13.5
+
+13.6
+
+13.7
+
+Zmeny a dodatky tejto Zmluvy je možné vykonávať iba formou písomnej dohody
+Zmluvných strán, ktoré budú neoddeliteľnou súčasťou tejto Zmluvy.
+Ak nie je dohodnuté v tejto Zmluve inak, riadia sa právne vzťahy z nej vyplývajúce
+a vznikajúce Rámcovou dohodou č. 2013/516, ustanoveniami Obchodného zákonníka
+a súvisiacimi všeobecne záväznými právnymi predpismi Slovenskej republiky.
+Akékoľvek spory, rozpory alebo nároky vyplývajúce z tejto Zmluvy alebo s ňou
+súvisiace budú Zmluvné strany riešiť predovšetkým rokovaním a dohodou účastníkov
+tejto Zmluvy v dobrej viere a s dobrým úmyslom.
+V prípade, že nedôjde k dohode podľa bodu 13.3 tejto Zmluvy, je každá zo Zmluvných
+strán oprávnená obrátiť sa na miestny a vecne príslušný všeobecný súd.
+Táto Zmluva nadobúda platnosť dňom podpisu oboma Zmluvnými stranami a
+účinnosť dňom nasledujúcim po dni jej zverejnenia v súlade s § 47a zákona č.40/1964
+Zb. Občianskeho zákonníka v znení neskorších predpisov.
+Táto Zmluva sa povinne zverejňuje v súlade so zákonom č. 211/2000 Z.z. o
+slobodnom prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon
+o slobode informácií) v znení neskorších predpisov.
+Táto Zmluva je vyhotovená v piatich (5) vyhotoveniach. Z toho Poskytovateľ obdrží
+jedno (1) vyhotovenie a Objednávateľ štyri (4) vyhotovenia. Všetky vyhotovenia majú
+platnosť originálu.
+Zmluvné strany týmto vyhlasujú, že si znenie tejto Zmluvy pozorne prečítali, jej zneniu
+porozumeli a na znak súhlasu a svojej slobodnej vôle ju podpisujú.
+
+10/11
+
+13.8
+
+Neoddeliteľnou súčasťou tejto Zmluvy sú Prílohy č.1, 2, 3 a 4.
+Príloha č.1 –
+Príloha č.2 –
+Príloha č.3 –
+Príloha č.4 –
+
+Technická špecifikácia - Servisná podpora aplikačných modulov IIS
+Sadzobník cien
+Postup riešenia a vyhodnocovania služieb servisnej podpory
+aplikačných modulov IIS
+Vzor „Sumarizácia plánovaných / odovzdaných služieb v systéme
+
+V Bratislave dňa :..........................2018
+Za Poskytovateľa:
+
+Ing. Jaroslav Murár
+predseda predstavenstva
+
+Za Objednávateľa:
+
+Ing. Robert Sedlák
+riaditeľ
+
+Jaroslav Gajdoš
+člen predstavenstva
+
+11/11
+
+Príloha č. 1
+Počet Listov: 3
+
+Technická špecifikácia servisnej podpory aplikačných modulov IIS MO SR
+(ďalej v prílohách aj ako „ IIS“)
+Pre zabezpečenie prevádzky IIS po dobu definovanú v článku IV. Bodu 4.1 Zmluvy budú zabezpečené
+požadované služby a servisná podpora aplikačných modulov IIS v nasledovnom rozsahu :
+1. servisná podpora aplikačných modulov IIS:
+o FI a HR-PY modul IIS,
+o nové moduly ktoré budú prevzaté počas doby trvania servisnej zmluvy (pri nových
+moduloch sa zrealizuje Dodatok zmluvy a upraví sa tabuľka nižšie),
+o platnosť zmluvy je v rámci celého rezortu Ministerstva obrany SR (vrátane subsystému VS),
+o rozsah podpory predstavujúci paušál v rozsahu 20 ČD/mesačne
+o služba bude vykonaná v dňoch, ktoré si zmluvné strany operatívne dohodnú.
+o rozsah človekodní v rámci paušálu, sa bude môcť po dohode zmluvných strán operatívne
+použiť na ktorýkoľvek iný modul IIS
+Predmetom podpory sú nasledovné moduly IIS s mesačným paušálom (viď. tabuľka nižšie):
+Rozsah služieb
+
+Mesačne
+
+Položka/Modul v produkcii
+
+Človekodní
+
+Projektový manažment
+Podpora v module FI
+
+0,00
+3,00
+
+Podpora v module FI-PS
+Podpora v module FI-TV
+Podpora v module PSM
+
+0,00
+0,00
+0,00
+
+Podpora v module MM
+Podpora v module FI-AA
+Podpora v module BW
+Podpora v module HR-PY
+
+0,00
+0,00
+0,00
+12,00
+
+Podpora v module HR (HR-PA, HR-OM, HR-RC)
+Podpora v module TOE
+
+0,00
+0,00
+
+Podpora v module ZASUCENA
+Podpora v module ROLL-OUT
+Podpora v module PM
+Podpora v module PRETECH
+Podpora v module CO
+Podpora v module BC
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+Podpora v module EZ
+Podpora v module PI (Integr.)
+Podpora v module MZP
+Podpora v module POZ
+Podpora v module PVVČ
+Podpora v module RE-FX
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+Podpora v module PVVČ-PSM
+Iné - profylaktika SW
+Podpora v module ESS
+Podpora v module SD-MS
+Podpora Service Desku a ladenie výkonu SAP
+Celkom
+
+0,00
+0,00
+0,00
+0,00
+0,00
+15,00
+
+Prípadné ostatné aplikačné moduly, ktoré budú postupne prevzaté do produktívnej prevádzky
+v roku 2018 (viď tabuľka nižšie):
+
+1/8
+
+Moduly na preklopenie v budúcnosti do paušálu, keď budú v produkcii
+Modul v realizácii/požadované
+
+Človekodní
+
+Podpora v module CO-OM (v realizácii)
+Podpora v module SD-VN (v realizácii)
+Podpora v module EŠ (v realizácii)
+
+0,00
+0,00
+0,00
+
+Podpora v module VUSZ (v realizácii)
+Podpora v module PS (požadovaný)
+Poznámka: 1 ČD (človekodeň) = 8 hodín.
+
+0,00
+0,00
+
+Špecifikácia služieb podpory vyššie uvedených aplikačných modulov IIS v rámci mesačného paušálu:
+ podpora kľúčových používateľov,
+ podpora používateľov,
+ rutinná podpora prevádzky,
+ podpora pri mesačných a štvrťročných uzávierkach,
+ úprava funkcionality modulu na základe legislatívnych zmien,
+ odstránenie zistených nezrovnalostí,
+ aktualizovanie údajov, číselníkov,
+ úprava funkcionality modulu na základe požiadaviek užívateľov v prácnosti do 3 človekodní bez
+nutnosti integrácie na iné moduly,
+ podpora integračných rozhraní v nadväznosti na iné moduly,
+ nadefinovanie nových výkazov nad už existujúcimi zdrojmi dát,
+ udržiavanie kmeňových dát,
+ nasadzovanie patchov pre aktuálne využívanú verziu SAP,
+ riešenie špecifických problémov na základe požiadaviek Správcov modulov v prácnosti požiadavky do
+3 dní bez nutnosti integrácie na iné moduly,
+ riešenie SW produktov, ktoré nie sú pokryté ustanoveniami Všeobecných obchodných podmienok SAP
+pre licenčné vzťahy týkajúce sa software v prácnosti požiadavky do 3 dní bez nutnosti integrácie na iné
+moduly,
+ telefonické ako aj iné konzultácie počas pracovného času k problematike predmetu Zmluvy,
+ v prípade výraznej zmeny pôvodnej funkcionality v rámci poskytovania servisnej podpory modulov IIS,
+Poskytovateľ zabezpečí nevyhnutné zaškolenie pre kľúčového používateľa potrebné pre využívanie
+daného systému /modulu IIS,
+
+
+v rámci výkonu zabezpečenia prevádzky integrovaného informačného systému budú vykonávané
+nasledovné činnosti:
+- správa výkonnosti aplikácií (APM) - aplikačný monitoring end to end s možnosťou vyhodnotiť
+okamžitý stav aplikácie a využívanej infraštruktúry až po úroveň jednotlivých transakčných volaní,
+- porovnanie okamžitého stavu s dlhodobým výkonnostným trendom (dodržovanie SLA),
+- zdokumentovanie výkonu aplikácie pred aplikovaním nových releasov, zmien a odhalenie anomálií
+pri riešení funkčných alebo výkonnostných incidentov.
+
+2.
+
+Portfólio služieb poskytovaných nad rámec paušálnych prác:
+
+a)
+
+pozáručný servis informačného systému t.j. odborná poradenská podpora pre kľúčových a koncových
+používateľov systému počas jeho rutinnej prevádzky vrátane nevyhnutného vývoja v prostredí ABAP,
+NetWeaver, JAVA,
+odbornú poradenskú pomoc pri riešení problémov údržby bázy systému SAP, vývojového prostredia SAP
+a ostatných technických komponentov SAP (ABAP Workbench, SAP NetWeaver, Exchange
+Infrastructure, Business Warehouse, Web Application Server, Internet Transaction Server),
+komplexné služby podpory systému - t.j. postupné nasadzovanie dosiaľ nevyužívaných komponentov
+integrovaného informačného systému,
+komplexné služby realizácie upgrade informačného systému,
+komplexné služby podpory rozhraní na ostatné rezortné informačné systémy,
+komplexné služby podpory a implementácie podporných elektronických nástrojov informačného systému
+SAP (portál, manažment dokumentov, workflow a pod.) pre vznikajúce dokumenty v SAP a
+napojenie/integrácia na budúci celorezortný portál, DMS, Workflow a pod.,
+zabezpečenie inštalácie predmetu zákazky v priestoroch Objednávateľa za jeho účasti a pri dodržaní
+postupov podľa metodológie PRINCE2 a ASAP,
+školenia administrátorov a používateľov IIS.
+
+b)
+
+c)
+d)
+e)
+f)
+
+g)
+h)
+
+2/8
+
+3.
+
+Školenia pracovníkov ZaSKIS v nasledovnom rozsahu:
+
+Školenia budú vykonávané na základe individuálnych objednávok, podľa potreby a priorít rezortu, pričom počet
+účastníkov školení bude spresnený v objednávke, ktorú schvaľuje za stranu Objednávateľa veliteľ ZaSKIS so
+súhlasom PM IIS alebo ním poverený pracovník a riaditeľka ÚSRK MO SR alebo ňou poverený pracovník ,ako
+hlavný užívateľ IIS. Vystaveniu objednávky predchádza žiadosť zo strany Objednávateľa na vystavenie Cenovej
+ponuky. Cenová ponuka na školenia bude poskytnutá do 10 kalendárnych dní od vyžiadania zo strany
+Objednávateľa.
+Vzor Activity Reportu, Objednávky a dokumentu „Sumarizácia plánovaných/ odovzdaných služieb“ o priebehu
+riešenia servisného zásahu v prevádzkovaných aplikačných moduloch IIS budú dohodnuté do 10 kalendárnych
+dní od podpisu vykonávacej zmluvy.
+
+3/8
+
+Príloha č. 2
+Počet listov: 1
+
+Sadzobník cien
+Jednotkové ceny služieb v Euro (€) sú stanovené podľa zákona č. 18/1996 Z. z. v znení neskorších predpisov,
+vrátane všetkých nákladov spojených s dodaním budúcich zákaziek, podľa Rámcovej dohody, do miesta
+plnenia.
+a) Za služby podľa bodu 2.2.1
+1 človekodeň = 8 hodín
+
+P. č.
+
+Sadzba DPH = 20%
+Ceny bez DPH pre
+1 človekodeň
+
+Názov položky / rola
+
+Ceny s DPH pre 1 človekodeň
+
+SLA (Service Level Agreement) Podpora
+
+SAP Konzultant 2
+
+1.
+
+925,00
+
+1 110,00
+
+b) Za služby podľa bodu 2.2.2. tejto Zmluvy
+
+1 človekodeň = 8 hodín
+
+P. č.
+
+Názov položky / rola
+
+Sadzba DPH = 20%
+Ceny bez DPH pre
+1 človekodeň
+
+Ceny s DPH pre 1 človekodeň
+
+SLA (Service Level Agreement) Podpora
+1.
+
+Projektový manažér
+
+2.
+3.
+
+1 050,00
+
+1 260,00
+
+SAP Konzultant 1
+
+990,00
+
+1 188,00
+
+SAP Konzultant 2
+
+925,00
+
+1 110,00
+
+Jednotkové ceny služieb (predmetu tejto Zmluvy) sú vyjadrené v Euro (€) bez závislosti na iných svetových
+menách.
+b) Za služby podľa bodu 2.2.3. tejto Zmluvy.
+Cena pre školenia sa stanovuje samostatnými Cenovými ponukami v zmysle Prílohy č. 1 bod 3.
+
+4/8
+
+Príloha č. 3
+Počet listov: 2
+
+Postup riešenia a vyhodnocovania služieb servisnej podpory aplikačných
+modulov IIS
+Z pohľadu Úrovne služieb (SLA) Poskytovateľ:
+1.
+
+Neobmedzí dostupnosť IIS 24 x 7 x 365 dní v roku, mimo vopred dohodnutých a odsúhlasených časov
+oboma zmluvnými stranami, ktoré budú nevyhnutné a výlučne použité na servisné zásahy vyžadujúce
+obmedzenie prevádzky IIS. (nasadzovanie novej funkcionality IIS, nasadzovanie patchov a pod. )
+
+2.
+
+V prípade vzniku vád Systému IIS z kategórie A, B, C, ktoré zabraňujú jeho normálnej funkčnej prevádzke,
+Poskytovateľ; zabezpečí nasledovné reakčné časy (RT) a fixné časy (FT) od doručenia oznámenia o
+vzniku vady do Service Desku Poskytovateľa:
+Vady kategórie A
+:
+RT do 8h a FT do nasledovného pracovného dňa,
+Vady kategórie B
+:
+RT do 2 pracovných dní a FT do 5 pracovných dní,
+Vady kategórie C
+:
+RT do 3 pracovných dní a FT do 10 pracovných dní.
+
+-
+
+„Kritická vada – kategória A“ je vada znemožňujúca prácu všetkým používateľom systému IIS a ohrozujúca
+bežnú činnosť, t.j. úplná nefunkčnosť celého IIS.
+„Závažná vada - kategória B“ je vada znemožňujúca prácu viac než jednej skupine užívateľov Systému IIS a
+obmedzujúca bežnú činnosť. Za odstránenie vady sa považuje aj nájdenie náhradného postupu v rámci Systému
+IIS.
+„Bežná vada - kategória C“ je vada komplikujúca prácu používateľom Systému IIS a znemožňujúca
+plnohodnotné využitie Systému IIS. Za odstránenie vady sa považuje aj nájdenie náhradného postupu v rámci
+Systému IIS.
+Reakčná doba na malé zmenové požiadavky poskytujúce v rámci servisných služieb IIS definované v Prílohe č.
+1, nemajú definované reakčné časy ani fixné časy. Reakčné časy sú v tomto prípade na dohode oboch strán.
+Reakčný čas je časový interval od zadania požiadavky na riešenie do prvej reakcie konzultanta cez Service Desk
+k danej požiadavke. Reakčný ani fixný čas neplynie v čase mimo dohodnutej doby poskytovania služieb podľa
+odseku nižšie. Reakčný čas neznamená dobu do vyriešenia požiadavky.
+Úroveň služieb SLA sa netýka opravy chýb súvisiacich s úpravou a vylepšením systému Objednávateľa, ktoré
+vyplývajú z ľubovoľných modifikácií na systéme a/alebo z vylepšení vykonaných Objednávateľom, alebo
+akoukoľvek treťou stranou, prípadne preukázateľného nesprávneho používania, chyby alebo zanedbania zo
+strany Objednávateľa, alebo akoukoľvek treťou stranou.
+V rámci realizácie služieb servisnej podpory IIS Poskytovateľ nenesie zodpovednosť poskytovať služby podľa
+SLA úrovne v prípade, že sa jedná o chybu štandardu informačného systému SAP. V takomto prípade
+Poskytovateľ poskytne súčinnosť na jeho reportovaní smerom na spoločnosť SAP pomocou SAP support portálu
+pri dodržaní SLA podmienok. V prípade, požiadavky Poskytovateľ zabezpečení náhradné riešenie na základe
+samostatnej objednávky nad rámec paušálnych prác.
+Doba poskytovania služieb
+Služba servisnej podpory IIS je poskytovaná Poskytovateľom počas pracovných dní v dobe od 8:30 do 17.00
+hodiny (8 x 5) okrem štátnych sviatkov Slovenskej republiky a dní pracovného pokoja a dní pracovného voľna.
+Servis Desk a jeho základné princípy:
+Objednávateľ určí osoby oprávnené zadať požiadavku zo strany zákazníka. Tieto osoby musia mať
+zodpovedajúce znalosti o nastavení systému SAP u zákazníka a mať príslušnú vecnú kompetenciu o procesoch,
+ktoré majú byť u zákazníka vykonávané. Spravidla sú oprávnenými osobami správcovia modulov alebo nimi
+poverení garanti modulov resp. zástupcovia garantov alebo projektový manažér IIS, ktorí sa zúčastnili
+implementácie systému SAP.
+
+5/8
+
+Objednávateľ vznáša servisné požiadavky voči Poskytovateľovi výhradne cez SERVICE DESK.
+Kontaktné informácie na Poskytovateľa:
+SERVICE DESK: sd.sevitech.sk
+Telefón: +421253630151
+E-mail: servicedesk@sevitech.sk
+Vzhľadom na využívanie elektronickej registrácie kompletného workflow bude v rámci SERVICE DESKU
+nadefinovaný elektronický workflow pre objednávanie servisných prác podľa tejto Zmluvy v ktorom ZaSKIS budú
+zastupovať analytikov, ktorý zhodnotia či je potrebná súčinnosť Poskytovateľa. . Rôzne stupne schvaľovania
+(preberanie prác garantom, zástupcom garanta alebo správcom modulu) sa budú vykonávať len elektronicky (bez
+fyzického podpisu) a projektový manažér IIS, resp. ním poverený pracovník si vytlačí k procesu fakturácie len
+status report.
+Presný proces – Workflow bude dohodnutý do 10 kalendárnych dní od podpisu Zmluvy.
+Za objednávateľa presný proces – Workflow musí byť odsúhlasený Správcom informačného systému.
+Všetky uzavreté hlásenia incidentov a požiadaviek je Objednávateľ povinný otestovať do troch pracovných dní.
+Ak do piatich pracovných dní nevznesie výhradu voči vykonanému, alebo odporúčanému riešeniu, považuje sa
+hlásenie za uzavreté a akceptované. Na vyriešené incidenty sa požaduje 2 roky záručná doba odo dňa akceptácie
+služieb Objednávateľom
+V prípade vznesenia dodatočných, alebo doplňujúcich námietok po uplynutí tejto lehoty, Objednávateľ je povinný
+otvoriť nové hlásenie.
+Komunikácia
+Komunikácia medzi Objednávateľom a Poskytovateľom ohľadom riešenia zadaných problémov bude robená
+výhradne cez Service Desk s následne generovaným mailovým potvrdením Objednávateľovi a Poskytovateľovi.
+Celá komunikácia je sledovateľná jednak v mailoch a jednak v Service Desku.
+Eskalačná procedúra
+Objednávateľ vyvinie maximálne úsilie, ktoré od neho možno spravodlivo požadovať, k čo najrýchlejšiemu
+vyriešeniu všetkých oznámených problémov. Pre efektívne riešenie konfliktných situácií zmluvné strany dohodli
+nasledovnú eskalačnú maticu:
+Objednávateľ:
+Eskalácia
+
+Meno
+
+Funkcia
+
+1 úroveň
+
+p. Pastrnek
+
+Projektový manažér
+
+2 úroveň
+
+mjr. Ing. Rastislav Poruban
+
+ZaSKIS
+
+Meno
+
+Funkcia
+
+1 úroveň
+
+p. Mesiarkinová
+
+Projektový manažér
+
+2 úroveň
+
+p. Kúkoľ
+
+Riaditeľ divízie obchodu a marketingu
+
+Poskytovateľ:
+Eskalácia
+
+6/8
+
+Príloha č. 4
+Počet listov: 2
+
+Zmluva o servisnej podpore aplikačných modulov integrovaného
+informačného systému (IIS)
+č. XXXX/XXX
+
+Sumarizácia plánovaných/ odovzdaných služieb v systéme
+Súpis objednaných a vykonaných služieb mimo paušál v človekodňoch v období
+od XX.XX.2018 do XX.XX.2018:
+Obdobie
+
+Plánovaný objem
+servisných prác
+
+Odovzdaný objem servisných
+prác
+
+XX/2018
+Celkom
+Objednávateľ akceptuje dokument „Sumarizácia plánovaných/odovzdaných služieb v systéme“ bez
+pripomienok a odporúča fakturáciu v rozsahu vystavenej objednávky XX ČD.
+V Bratislave, dňa XX.XX.2018
+
+…………………………………..
+za Poskytovateľa
+Ľubica Mesiarkinová
+Service delivery manažér
+SEVITECH, a.s.
+
+V Bratislave, dňa XX.XX.2018
+
+………………………………………….
+za Objednávateľa
+
+Veliteľ
+VÚ 8116 Trenčín
+
+……………………………………….
+za Objednávateľa
+Projektový manažér IIS
+Ministerstvo obrany SR
+
+7/8
+
+Zmluva o servisnej podpore aplikačných modulov integrovaného
+informačného systému (IIS)
+č. xxxx/xxx
+
+Sumarizácia plánovaných/odovzdaných služieb v systéme
+Súpis objednaných a vykonaných služieb s mesačným paušálom v človekodňoch v období
+od XX.XX.2018 do XX.XX.2018:
+Obdobie
+
+Plánovaný objem
+servisných prác
+
+Odovzdaný objem servisných
+prác
+
+XX/2018
+Celkom
+Objednávateľ akceptuje dokument „Sumarizácia plánovaných/odovzdaných služieb v systéme“ bez
+pripomienok a odporúča fakturáciu v rozsahu vystavenej objednávky XX ČD.
+V Bratislave, dňa XX.XX.2018
+
+…………………………………..
+za Poskytovateľa
+Ľubica Mesiarkinová
+Service delivery manažér
+SEVITECH, a.s.
+
+V Bratislave, dňa XX.XX.2018
+
+………………………………………….
+za Objednávateľa
+
+Veliteľ
+VÚ 8116 Trenčín
+
+……………………………………….
+za Objednávateľa
+Projektový manažér IIS
+Ministerstvo obrany SR
+
+8/8
+
+

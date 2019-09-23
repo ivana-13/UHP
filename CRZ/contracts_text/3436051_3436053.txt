@@ -1,0 +1,4374 @@
+Rámcová dohoda na poskytovanie služieb
+systémovej a aplikačnej podpory pre Metainformačný systém (MetaIS)
+(ďalej len „Rámcová dohoda“)
+uzavretá podľa § 2 ods. 5 písm. g) a § 83 zákona č. 343/2015 Z. z. o verejnom obstarávaní
+a o zmene a doplnení niektorých zákonov a § 269 ods. 2 Obchodného zákonníka v platnom znení
+Číslo zmluvy Zákazníka 1: 2017/082
+Číslo zmluvy Zákazníka 2: 96/2018
+1.1.
+
+Slovenská republika zastúpená Ministerstvom financií Slovenskej republiky
+Sídlo:
+Štefanovičova 5, 817 82 Bratislava
+Zastúpené:
+Ing. Albínom Kotianom, generálny tajomník služobného úradu
+IČO:
+00151742
+DIČ:
+2020798351
+IČ DPH:
+nie je platiteľom DPH
+Bankové spojenie:
+Štátna pokladnica,
+Radlinského 32, 810 05 Bratislava 15
+Číslo účtu IBAN:
+(ďalej ako “Zákazník 1” )
+
+a
+1.2.
+
+Slovenská republika zastúpená Úradom podpredsedu vlády Slovenskej republiky pre investície
+a informatizáciu
+Sídlo:
+Štefánikova ul. č. 15, 811 05 Bratislava
+Zastúpené:
+Mgr. Patrik Krauspe, vedúci úradu
+IČO:
+50 349 287
+DIČ:
+2120287004
+IČ DPH:
+nie je platiteľom DPH
+Bankové spojenie:
+Štátna pokladnica
+Číslo účtu:
+(ďalej ako “Zákazník 2” )
+(ďalej Zákazník 1 a Zákazník 2 spoločne ako „Zákazník“)
+
+a
+2.
+
+MICROCOMP – Computersystém, s.r.o.
+Sídlo:
+Kupecká 9, 949 01 Nitra
+Zastúpená:
+Jozef Gál – konateľ
+Ing. Vojtech Lukács - konateľ
+IČO:
+31 410 952
+DIČ:
+2020405354
+IČ pre DPH:
+SK2020405354
+Zapísaný v:
+Obchodnom registri Okresného súdu v Nitre, oddiel Sro,
+Vložka číslo:
+2950/N
+Banka:
+Tatra banka, a.s.
+Číslo účtu IBAN:
+
+(ďalej ako „Poskytovateľ“)
+(ďalej spoločne ako „zmluvné strany“)
+1
+
+vedomé si svojich záväzkov v tejto Rámcovej dohode obsiahnutých a s úmyslom byť touto Rámcovou
+dohodou viazané sa dohodli na nasledujúcom znení tejto Rámcovej dohody:
+
+Definície
+„Rámcová dohoda“ je písomná dohoda medzi Zákazníkom a poskytovateľom, ktorá bližšie určuje podmienky
+zadávania zákaziek/poskytovania služieb počas doby jej platnosti, najmä čo sa týka ceny poskytovaných služieb
+a predpokladaného množstva predmetu rámcovej dohody.
+„MetaIS“ je Metainformačný systém. Jadrom MetaIS je katalóg služieb, evidencia základných číselníkov
+informačných systémov verejnej správy, rozvojových projektov informačných systémov a tvorba koncepcií rozvoja
+informačných systémov (ďalej len „KRIS“) a ďalšie moduly.
+„Služba“ alebo „Služby“ znamená podporu v rámci Aplikačnej podpory, služby na vyžiadanie a služby realizácie
+zmien, podrobne definované v tejto rámcovej dohode vrátane príslušných príloh, ktoré sú jej neoddeliteľnou
+súčasťou.
+„Softvérový produkt“ je binárny kód softvéru poskytnutý Zákazníkovi podľa samostatnej rámcovej dohody, na
+základe licencie výrobcu softvéru.
+„Aplikačný softvér“ je systém osobitných nastavení a parametrizácie, ktorá vznikla ako autorské dielo doplnením
+Softvérového produktu Poskytovateľom. Skladá sa zo samostatných funkčných blokov, ďalej tiež „modulov“.
+„Softvér“ je spoločné označenie pre „softvérové riešenie systému MetaIS“.
+„Štandardná podpora Softvérového produktu“ je podpora v rámci podmienok údržby Softvérového produktu (na
+základe licencie výrobcu softvéru – tzv. softvérový maintenance).
+„Aplikačná podpora“ je činnosť zameraná najmä na podporu kľúčových používateľov a administrátorov systému
+MetaIS, zmeny v nastavení systému MetaIS, ako aj riešenie rozvoja systému MetaIS, zákazníckych úprav a
+implementáciu zmien Softvéru.
+"Popis služby" znamená dokument tvoriaci súčasť tejto Rámcovej dohody popisujúci atribúty príslušnej Služby
+a povinnosti Poskytovateľa a Zákazníka v súvislosti s danou Službou (t.j. príloha č.1 a 2).
+„Výkaz vykonaných prác“ znamená dokument, ktorým Zákazník potvrdí obsah a rozsah Služieb riadne
+poskytovaných Poskytovateľom počas kalendárneho mesiaca, výšku prenášaného kreditu nevyčerpaného v rámci
+predmetného mesačného paušálu a v prípade potreby potvrdí prevzatie/akceptáciu plnenia riadne poskytovaného
+Poskytovateľom.
+„Akceptačný protokol“ znamená dokument, ktorým Zákazník potvrdí obsah a rozsah riadne vykonaných prác,
+ktoré sú súčasťou služieb na vyžiadanie, resp. služieb realizácie zmien.
+„Help desk“ je systém technickej podpory Zákazníka.
+„Garant MetaIS“ je menovaný zástupca Zákazníka zodpovedný za funkčnosť MetaIS, schvaľuje požiadavky na
+zmeny Softvéru.
+
+ÚVODNÉ USTANOVENIA
+1. Táto Rámcová dohoda je výsledkom spoločného verejného obstarávania realizovaného na základe
+Zmluvy o spoločnom verejnom obstarávaní, uzavretej medzi MF SR a UPPVII, č. MF SR 2017/135,
+zo dňa 17.7.2017.
+2. Zákazník 1 a Zákazník 2 ako verejní obstarávatelia podľa § 7 ods. 1 písm. a), na základe § 16 ods. 3
+2
+
+3.
+
+4.
+5.
+6.
+7.
+8.
+
+zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov („zákon“)
+uskutočnili spoločné verejné obstarávanie, za účelom obstarania služieb, ktoré sú predmetom tejto
+Rámcovej dohody.
+Dňom nadobudnutia účinnosti dodatku k Dohode o prechode práv a povinností vyplývajúcich
+zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov a iných právnych vzťahov
+zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práv a povinností z iných právnych
+vzťahov z Ministerstva financií Slovenskej republiky na Úrad podpredsedu vlády Slovenskej republiky pre
+investície a informatizáciu, č. MF SR 2016148202, zo dňa 1.6.2016 (ďalej ako „delimitačný protokol“),
+ktorým bude delimitovaný celý projekt MetaIS z MF SR na UPPVII, prechádzajú všetky práva a povinností
+z tejto Rámcovej dohody na Zákazníka 2.
+Zákazník 2 na základe tejto Rámcovej zmluvy splnomocňuje Zákazníka 1 na konanie v mene Zákazníka
+vo veci akýchkoľvek úkonov a činností v procese plnenia tejto Rámcovej dohody, vrátane komunikácie.
+Poskytovateľ bude vystavovať a doručovať faktúry za riadne poskytnuté plnenia Zákazníkovi 1.
+Sankcie za nedodržanie povinností Poskytovateľa bude mať právo uplatňovať voči Poskytovateľovi iba
+Zákazník 1.
+Sankcie za nedodržanie povinností Zákazníka bude mať právo uplatňovať Poskytovateľ iba voči
+Zákazníkovi 1.
+Splnomocnenie, udelené na základe tejto Rámcovej dohody zaniká dňom prechodu práv a povinností
+z tejto Rámcovej dohody na Zákazníka 2.
+
+V prípade zániku Zákazníka 2 bez právneho nástupcu, prechádzajú všetky práva a povinnosti z tejto
+Rámcovej dohody na Zákazníka 1. V prípade zániku Zákazníka 1 bez právneho nástupcu, prechádzajú všetky
+práva a povinnosti z tejto Rámcovej dohody na Zákazníka 2.
+Táto Rámcová dohoda sa uzatvára v súlade s § 2 ods. 5 písm. g) a § 83 zákona č. 343/2015 Z. z.
+o verejnom obstarávaní a o zmene a doplnení niektorých zákonov („zákon“) ako výsledok verejnej súťaže podľa
+§ 66 zákona.
+1
+
+PREDMET, ÚČEL A CIEĽ RÁMCOVEJ DOHODY, MIESTO PLNENIA
+1.1
+
+Predmetom tejto Rámcovej dohody je záväzok Poskytovateľa poskytovať na základe objednávok
+Zákazníka riadne a včas služby systémovej a aplikačnej podpory a realizácie zmien Metainformačného
+systému (ďalej len „MetaIS“). Poskytovateľ sa zaväzuje poskytovať Služby Zákazníkovi v rozsahu
+uvedenom v príslušnej objednávke a za podmienok dohodnutých v tejto Rámcovej dohode, resp.
+v príslušnej objednávke a Zákazník bude mať tomu zodpovedajúci záväzok zaplatiť dohodnutú odmenu
+(cenu).
+
+1.2
+
+Služby, ktoré sú predmetom plnenia Poskytovateľa podľa tejto Rámcovej dohody a spôsob ich
+poskytovania, sú špecifikované v Prílohe č.1 Opis predmetu zákazky tejto Rámcovej dohody, ktorá tvorí jej
+neoddeliteľnú súčasť. Služby sa zaväzuje Poskytovateľ poskytovať na základe objednávok, v ktorých bude
+uvedený najmä predmet plnenia, čas poskytnutia služby, meno a podpis oprávnenej osoby Zákazníka,
+dátum vystavenia objednávky.
+
+1.3
+
+Služby v rámci aplikačnej podpory (mesačný paušál) sa zaväzuje Poskytovateľ poskytovať na základe
+písomnej objednávky, vystavenej vždy na obdobie príslušného kalendárneho roka, podpísanej oprávnenou
+osobou Zákazníka a doručenej Poskytovateľovi v elektronickej podobe s následným doručením v písomnej
+podobe poštovou prepravou. Objednávka bude vystavená vždy do konca decembra predchádzajúceho
+kalendárneho roka s účinnosťou od 1.1. nasledujúceho roka. Prvá objednávka bude vystavená do 10 dní
+po nadobudnutí účinnosti tejto Rámcovej dohody s platnosťou do konca príslušného kalendárneho roka.
+
+1.4
+
+Služby na vyžiadanie (nadpaušál) sa zaväzuje Poskytovateľ poskytovať na základe individuálnej
+objednávky vystavenej jednou z oprávnených osôb Zákazníka (Garantom MetaIS) a doručenej
+Poskytovateľovi elektronickou poštou.
+
+3
+
+2
+
+3
+
+1.5
+
+Služby realizácie zmien sa zaväzuje Poskytovateľ poskytovať na základe individuálnej písomnej
+požiadavky vystavenej podľa aktuálnych potrieb Zákazníka. Schvaľovanie zmenových požiadaviek je
+v kompetencii Garanta MetaIS.
+
+1.6
+
+Služby help desku MetaIS budú poskytované v zmysle Prílohy č. 1, bod 3. Definícia kvalitatívnych
+požiadaviek tejto Rámcovej dohody.
+
+1.7
+
+Účelom tejto Rámcovej dohody je prostredníctvom vystavených objednávok zabezpečiť riadnu, funkčnú
+a bezpečnú prevádzku systému MetaIS. Cieľom tejto Rámcovej dohody je zabezpečenie potrebných úprav
+a aktualizácií systému MetaIS podľa požiadaviek Zákazníka z dôvodu zachovania jeho
+prevádzkyschopnosti a rozvoja funkcionality v súlade s platnou legislatívou.
+
+1.8
+
+Miestom plnenia je sídlo Zákazníka.
+
+DOBA PLATNOSTI A ÚČINNOSTI RÁMCOVEJ DOHODY
+2.1
+
+Táto Rámcová dohoda, vrátane jej Príloh č.1 až 6, ktoré tvoria jej neoddeliteľnú súčasť, nadobúda platnosť
+dňom jej podpísania oboma zmluvnými stranami a účinnosť dňom nasledujúcim po dni jej prvého
+zverejnenia v Centrálnom registri zmlúv.
+
+2.2
+
+Táto Rámcová dohoda sa uzatvára na dobu určitú na 48 mesiacov odo dňa nadobudnutia účinnosti
+Rámcovej dohody, alebo do vyčerpania jej finančného limitu podľa bodu 3.1 Rámcovej dohody, podľa toho,
+ktorá skutočnosť nastane skôr.
+
+CENA A PLATOBNÉ PODMIENKY
+3.1
+
+Celková cena/odmena za poskytovanie služieb aplikačnej podpory a realizácie zmien podľa tejto Rámcovej
+dohody je stanovená dohodou zmluvných strán v zmysle zákona č. 18/1996 Z.z. o cenách v znení
+neskorších predpisov maximálne vo výške 1 504 704,00 EUR bez DPH, čo je 1 805 644,80 EUR s 20 %
+DPH. V celkovej cene sú zahrnuté všetky náklady Poskytovateľa súvisiace s poskytovaním služieb
+aplikačnej podpory a realizácie zmien podľa tejto rámcovej dohody.
+
+3.2
+
+Výška odmeny za aplikačnú podporu a služby realizácie zmien, poskytnuté Poskytovateľom, je zložená:
+A.
+
+Z pevnej ceny – mesačný paušál (160 človekohodín) vo výške 16 848,00 EUR bez DPH, čo je
+20 217,60 EUR s 20 % DPH, v členení za poskytnutie predplatených Služieb podľa Prílohy č. 1 bod
+2.1. Služby systémovej a aplikačnej podpory (v rámci paušálu) MetaIS tejto Rámcovej dohody pre
+obdobie 1 mesiaca.
+
+Odmena podľa bodu 3.2. A) sa bude fakturovať mesačne vždy vo výške mesačného paušálu a to začiatkom
+kalendárneho mesiaca za predchádzajúci mesiac.
+B.
+
+Z ceny za služby na vyžiadanie - nadpaušál, ktorý je závislý na rozsahu plnenia požadovaného
+Zákazníkom a poskytnutého Poskytovateľom podľa Prílohy č. 1 bod 2.2. Služby systémovej podpory
+na vyžiadanie (nadpaušál) tejto Rámcovej dohody na základe príslušnej objednávky. Cena
+nadpaušálu bude tvorená ako súčin jednotkovej ceny sadzby výkonov Poskytovateľa podľa Prílohy č.
+6 Návrh na plnenie kritérií (cenník služieb) a množstva takých výkonov, uvedených v príslušnej
+objednávke.
+
+Odmena podľa bodu 3.2. B) sa bude fakturovať v súlade s príslušnou objednávkou na základe akceptačného
+protokolu. Zmluvné strany sa zaväzujú, že po riadnom poskytnutí predmetnej Služby podpíšu akceptačný protokol
+vystavený Poskytovateľom.
+
+4
+
+C.
+
+Z ceny za služby realizácie zmien – nadpaušál činností súvisiacich s rozvojom systému MetaIS
+požadovaných Zákazníkom a poskytnutých Poskytovateľom podľa Prílohy č. 1 bod 2.3 Služby
+realizácie aplikačných zmien vyplývajúcich z legislatívnych a metodických zmien (nad paušál) tejto
+Rámcovej dohody na základe príslušnej objednávky. Cena služieb realizácie zmien bude tvorená ako
+súčin jednotkovej ceny sadzby výkonov Poskytovateľa podľa Prílohy č. 6 Návrh na plnenie kritérií
+(cenník služieb) a množstva takých výkonov, uvedených v príslušnej objednávke.
+
+Odmena podľa bodu 3.2. C) sa bude fakturovať v súlade s príslušnou objednávkou na základe akceptačného
+protokolu. Zmluvné strany sa zaväzujú, že po riadnom poskytnutí predmetnej Služby podpíšu akceptačný protokol
+vystavený Poskytovateľom.
+
+4
+
+5
+
+3.3
+
+Odmena za poskytnuté plnenie podľa bodu 3.2 bude uhradená v súlade s príslušnou objednávkou na
+základe predloženej faktúry, ktorej súčasťou bude príslušný Výkaz vykonaných prác alebo podpísaný
+Akceptačný protokol. Zmluvné strany sa v súlade s § 340b ods. 1 Obchodného zákonníka dohodli, že
+faktúry budú splatné vždy do 30 dní odo dňa doručenia faktúry do sídla Zákazníka. Faktúry budú doručené
+na adresu Zákazníka uvedenú v záhlaví Rámcovej dohody najneskôr do 5 dní odo dňa podpísania Výkazu
+vykonaných prác, resp. Akceptačného protokolu.
+
+3.4
+
+Faktúra musí obsahovať náležitosti podľa § 74 Zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení
+neskorších predpisov a číslo príslušnej objednávky a Rámcovej dohody Zákazníka. Ak bude faktúra
+obsahovať nesprávne alebo neúplné údaje, má Zákazník právo v lehote splatnosti faktúru vrátiť
+Poskytovateľovi na opravu. Poskytovateľ faktúru opraví alebo vystaví novú a doručí ju Zákazníkovi. Dňom
+doručenia opravenej alebo novej faktúry začína plynúť nová 30 dňová lehota splatnosti.
+
+3.5
+
+Odmena za poskytovanie služieb aplikačnej podpory a realizácie zmien podľa príslušnej objednávky
+a v súlade s touto Rámcovou dohodou bude fakturovaná v mene EUR.
+
+PODMIENKY POSKYTOVANIA SLUŽIEB
+4.1
+
+Základná doba pre poskytovanie Služieb podľa tejto Rámcovej dohody je definovaná ako Základné časové
+pokrytie v čase od 8.00 do 16.00 od pondelka do piatku, okrem štátnych sviatkov, dní pracovného pokoja
+a pracovného voľna, pokiaľ nie je stanovené inak.
+
+4.2
+
+Zákazník zabezpečí prítomnosť zástupcu Zákazníka pre príslušnú oblasť počas vykonávania Služby,
+pokiaľ sa vykonáva v sídle Zákazníka.
+
+4.3
+
+Zákazník sa zaväzuje upozorniť Poskytovateľa na akékoľvek potenciálne ohrozenie bezpečnosti a zdravia
+vo svojich objektoch a prijať všetky opatrenia k zaisteniu bezpečnosti a ochrany zdravia. Poskytovateľ sa
+zaväzuje rešpektovať a dodržiavať upozornenia a opatrenia Zákazníka o zaistení bezpečnosti a ochrany
+zdravia pri práci.
+
+4.4
+
+V prípade zásahu do systému MetaIS, ktorý svojou povahou predstavuje zmenu nastavenia systému
+MetaIS z pohľadu dodaného popisu nastavenia, sa Poskytovateľ zaväzuje do 5 dní od dodania výkonu
+predložiť Zákazníkovi o tom písomný záznam, ktorý bude prílohou k existujúcemu popisu nastavenia
+systému MetaIS.
+
+SÚČINNOSŤ
+5.1
+
+Zákazník poskytne Poskytovateľovi nevyhnutnú súčinnosť pri plnení podľa tejto Rámcovej dohody, ktorú
+si Poskytovateľ vyžiada aspoň 5 pracovných dní pred jej poskytnutím, resp. bezodkladne po obdržaní
+písomnej objednávky, v dostatočnom rozsahu a v primeranej miere najmä tým, že zabezpečí súčinnosť
+svojich zamestnancov a spolupracujúcich osôb, umožní prístup k telekomunikačným zariadeniam, bude
+spolupracovať na špecifikáciách, testoch, prevzatí atď. Dostatočný rozsah a primeraná miera súčinnosti
+5
+
+bude špecifikovaná pri rešpektovaní technických a kapacitných možností Zákazníka a potrieb riadneho
+poskytovania služieb Poskytovateľom. Zákazník umožní Poskytovateľovi kontrolovaný prístup k hardvéru
+a softvéru pomocou diaľkového prenosu dát, a to v rozsahu vymedzenom Zákazníkom, pričom
+Poskytovateľ je povinný rešpektovať, zabezpečiť a dodržiavať ochranu dát Zákazníka ako aj osobitné
+povinnosti vyplývajúce z právnych predpisov (napr. ustanovenie§ 17 zákona č. 513/1991 Zb. Obchodný
+zákonník v znení neskorších predpisov (ďalej len „Obchodný zákonník“), z. č. 122/2013 Z. z. o ochrane
+osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon
+o ochrane osobných údajov“). Zákazník nemá nárok na náhradu nákladov, ktoré mu v súvislosti so
+zabezpečením nevyhnutnej súčinnosti vzniknú.
+
+6
+
+5.2
+
+Zmluvné strany si do 10 dní od nadobudnutia účinnosti Rámcovej dohody, v zmysle bodu 15.4, písomne
+oznámia zoznam Oprávnených osôb, ktoré budú zastupovať záujmy svojej zmluvnej strany pre definovanú
+oblasť.
+
+5.3
+
+Zákazník zabezpečí, aby nemohlo dôjsť ku strate dát (len v prípade, ak k strate dát nedôjde systémovou
+chybou, chybou aplikácie, alebo neošetrenou bezpečnostnou zraniteľnosťou), pre spracovanie ktorých boli
+Služby Poskytovateľa poskytnuté, alebo použité, a bude udržiavať aktuálne záložné kópie príslušného
+Softvéru a dát. Toto zabezpečenie bude vykonané podľa pokynov Poskytovateľa spôsobom, ktorý
+nezabráni prevádzke systému MetaIS počas pracovných hodín a zároveň nezabráni plneniu povinností
+Poskytovateľa podľa tejto Rámcovej dohody. Tým nie je dotknutá povinnosť Poskytovateľa postupovať
+s odbornou starostlivosťou v záujme predchádzaniu stratám dát. Je povinnosťou Zákazníka zabezpečiť si
+riadnu technickú podporu HW prostredia systému MetaIS.
+
+5.4
+
+Je povinnosťou Zákazníka zabezpečiť si na vlastné náklady štandardnú podporu systémového SW. V
+prípade potreby vykonať aktivity nad aplikáciou, ktoré si vyžadujú podporu Softvérového produktu (tzv.
+maintenance), je Zákazník povinný si túto podporu zabezpečiť v zmysle licenčných podmienok
+poskytovateľa licenčných práv jednotlivých SW.
+
+5.5
+
+Zákazník je povinný po celú dobu platnosti tejto Rámcovej dohody zabezpečiť poskytovanie cloudových
+služieb pre systém MetaIS, HW a SW podporu systému MetaIS a pracovísk MetaIS. V opačnom prípade
+bude Poskytovateľ poskytovať služby podľa tejto Rámcovej dohody v obmedzenom rozsahu, čo ho však
+nezbavuje povinnosti vykonávať služby s odbornou starostlivosťou a povinnosti bezodkladne upozorniť
+Zákazníka na dôsledky vyplývajúce z neposkytnutia cloudových služieb, HW a SW podpory systému
+MetaIS.
+
+VADY A ZÁRUKA
+6.1
+
+Poskytovateľ sa zaväzuje, že bude riadne, včas a v dohodnutej kvalite poskytovať plnenie podľa tejto
+Rámcovej dohody a jej príloh, ako aj podľa príslušných objednávok. Poskytovateľ sa zaväzuje, že Služby
+spočívajúce v podpore Aplikačného softvéru budú poskytované s odbornou starostlivosťou a že zabezpečí
+všetko primerané úsilie na to, aby za podmienok stanovených v tejto Rámcovej dohode Aplikačný softvér
+mal požadovanú kvalitu a dohodnutú funkcionalitu.
+
+6.2
+
+Ohľadom každého funkčného bloku, ktorý vznikne ako výsledok Služieb realizácie zmien, Poskytovateľ
+poskytuje záruku, že Aplikačný softvér bude mať za stanovených podmienok požadovanú kvalitu a
+funkcionalitu v súlade s účelom a cieľom zmluvy a so vzájomne dohodnutou funkčnou špecifikáciou
+uvedenou v Štúdii realizovateľnosti, vypracovanej Poskytovateľom v súlade s bodom 3 Prílohy č. 2 a že
+slúži jeho obvyklému účelu. Ak sa počas používania Aplikačného softvéru zistí, že taká funkcionalita
+a/alebo kvalita SW nie je v súlade so Štúdiou realizovateľnosti z dôvodov na strane Poskytovateľa,
+Poskytovateľ bude mať povinnosť taký nesúlad odstrániť na svoje náklady, za predpokladu, že Zákazník
+bezodkladne po zistení takejto vady tieto písomne oznámi Poskytovateľovi najneskôr do 24 mesiacov odo
+dňa prevzatia služieb uvedených v príslušnom akceptačnom protokole. Poskytovateľ sa zaväzuje
+Aplikačný softvér odovzdať bez právnych a faktických vád.
+
+6
+
+7
+
+OSOBITNÉ USTANOVENIA
+7.1
+
+Záväzok Poskytovateľa poskytovať služby podľa tejto Rámcovej dohody sa nevzťahuje na:
+a. riešenie problémov spôsobených vonkajšími zásahmi, akýmkoľvek poškodením alebo stratou dát (aj
+náhodným), prevádzkou mimo parametrov uvedených v príslušnej produktovej dokumentácii, alebo
+v dôsledku zlyhania pamäťových médií neudržiavaných Poskytovateľom;
+b. riešenie problémov spôsobených zásahmi, servisom, modifikáciami systému MetaIS inými osobami ako
+sú osoby poskytujúce Služby podľa tejto Rámcovej dohody alebo zamestnanci Zákazníka konajúci podľa
+inštrukcií Poskytovateľa;
+c. riešenie problémov spôsobených nenainštalovaním opravy chyby, alebo určenej verzie operačného
+systému;
+d. riešenie problémov spôsobených používaním systému MetaIS v rozpore s dokumentáciou;
+e. plnenia mimo dohodnutých hodín pokrytia.
+
+8
+
+AUTORSKÉ PRÁVA A PRÁVA TRETÍCH OSÔB
+8.1
+
+Na každé autorské dielo, vytvorené výhradne v rámci poskytovania služieb realizácie zmien, udeľuje
+Poskytovateľ Zákazníkovi ku dňu podpisu akceptačného alebo preberacieho protokolu ohľadom plnenia,
+ktorého je také dielo súčasťou, časovo neobmedzenú (po dobu právnej ochrany majetkových práv
+trvajúcu), nevýhradnú a cenou podľa tejto Rámcovej dohody plne splatenú licenciu na akékoľvek použitie
+takého autorského diela ako celku i jeho jednotlivých častí v neobmedzenom rozsahu, ktorý pre
+zamedzenie pochybností zahŕňa spôsoby použitia diela, ktorými sú najmä právo dielo spracovať (zmeniť
+a/alebo upraviť) alebo dať spracovať (zmeniť a/alebo upraviť) tretej osobe, vyhotovenie rozmnoženiny
+diela, verejné rozširovanie originálu diela alebo jeho rozmnoženiny predajom alebo inou formou prevodu
+vlastníckeho práva, verejné rozširovanie originálu diela alebo jeho rozmnoženiny nájmom alebo
+vypožičaním, spracovanie, preklad diela a verejný prenos diela, a to ako Zákazníkom osobne, tak aj
+osobami ním poverenými s tým, že taká licencia zahŕňa aj výslovný súhlas na udelenie sublicencie na
+používanie diela pre akékoľvek tretie osoby, či na prevedenie takej licencie na tretie osoby verejnej správy.
+Poskytovateľ je pri podpise Akceptačného protokolu povinný dodať Zákazníkovi najaktuálnejšiu verziu
+komentovaných zdrojových kódov a dátového modelu diela, vrátane metamodelu nákresu v BDA na
+CD/DVD nosiči v editovateľnej forme, na ktoré sa vzťahuje licencia podľa predchádzajúcej vety, s tým, že
+Zákazník bude oprávnený tieto bez akéhokoľvek časového a vecného obmedzenia použiť (vrátane
+možnosti ich dekompilácie a akýchkoľvek iných spôsobov úpravy).
+
+8.2
+
+Licenciu v rozsahu podľa bodu 8.1 poskytuje Poskytovateľ Zákazníkovi s účinnosťou od úplného zaplatenia
+príslušnej časti ceny podľa článku 3 tejto Rámcovej dohody, s tým, že pre splnenie podmienky poskytnutia
+komentovaných zdrojových kódov a dátového modulu diela, poskytne Poskytovateľ Zákazníkovi funkčnú
+špecifikáciu diela vo forme umožňujúcej jeho ďalšie použitie spôsobom definovaným licenciou.
+
+8.3
+
+Poskytovateľ vyhlasuje, a zmluvné strany berú na vedomie a súhlasia s tým, že k jednotlivým plneniam
+(vrátane ich akýchkoľvek súčastí zahŕňajúcich tiež software) dodaným, alebo poskytnutým Poskytovateľom
+Zákazníkovi na základe príslušnej objednávky, a v súlade s touto Rámcovou dohodou na základe licencií
+udelených Poskytovateľovi tretími osobami, ktoré k nim majú a/alebo vykonávajú autorské práva a/alebo
+práva priemyselného a/alebo iného duševného vlastníctva, Poskytovateľ udeľuje Zákazníkovi právo na ich
+používanie Zákazníkom v súlade, v rozsahu, spôsobom a za ďalších podmienok, za ktorých boli tieto
+plnenia dodané/poskytnuté Poskytovateľovi príslušnou z takých tretích osôb.
+
+8.4
+
+V prípade, že akákoľvek tretia osoba, vrátane zamestnancov Poskytovateľa a/alebo subdodávateľov, bude
+mať akýkoľvek nárok voči Zákazníkovi z titulu porušenia jej autorských práv a/alebo práv priemyselného
+a/alebo iného duševného vlastníctva plnením Poskytovateľa podľa tejto Rámcovej dohody alebo akékoľvek
+iné nároky vzniknuté porušením jej práv Poskytovateľom pri plnení tejto Rámcovej dohody, Poskytovateľ
+sa zaväzuje:
+8.4.1 bezodkladne obstarať na svoje vlastné náklady a výdavky od takejto tretej osoby súhlas na
+7
+
+8.4.2
+
+8.4.3
+
+9
+
+používanie jednotlivých plnení dodaných, poskytnutých, vykonaných a/alebo vytvorených
+Poskytovateľom, subdodávateľom alebo tretími osobami pre Zákazníka, alebo upraviť jednotlivé
+plnenie(a) dodané, poskytnuté, vykonané a/alebo vytvorené Poskytovateľom, subdodávateľom
+alebo tretími osobami pre Zákazníka tak, aby už ďalej neporušovali autorské práva a/alebo práva
+priemyselného a/alebo iného duševného vlastníctva tretej osoby, alebo nahradiť jednotlivé
+plnenie(a) dodané, poskytnuté, vykonané a/alebo vytvorené Poskytovateľom, subdodávateľom
+alebo tretími osobami pre Zákazníka rovnakými alebo aspoň takými plneniami, ktoré majú aspoň
+podstatne podobné kvalitatívne, operačné a technické parametre a funkčnosti, alebo, ak sa jedná
+o plnenie poskytnuté na základe licencie tretej osoby, taký nárok vyriešiť v súlade s tým, čo pre
+taký prípad stanovujú jej licenčné podmienky uvedené v tejto Rámcovej dohode, a ak ich niet, tak
+v súlade s týmito podmienkami; a
+poskytnúť Zákazníkovi akúkoľvek a všetku účinnú pomoc a uhradiť akékoľvek a všetky náklady a
+výdavky, ktoré vznikli/vzniknú Zákazníkovi v súvislosti s uplatnením vyššie uvedeného nároku tretej
+osoby; a
+nahradiť Zákazníkovi akúkoľvek a všetku škodu, ktorá vznikne Zákazníkovi v dôsledku uplatnenia
+vyššie uvedeného nároku tretej osoby, a to v plnej výške a bez akéhokoľvek obmedzenia.
+
+8.5
+
+Zákazník sa však zaväzuje, že o každom nároku vznesenom takou treťou osobou v zmysle hore
+uvedeného bude bez zbytočného odkladu informovať Poskytovateľa, bude v súvislosti s takým nárokom
+postupovať podľa primeraných pokynov Poskytovateľa a tak, aby sa predišlo vzniku a prípadne zvýšeniu
+škôd, nevykoná smerom k takej tretej osobe žiaden úkon, v dôsledku ktorého by sa jej postavenie
+v súvislosti s takým uplatnením nároku zlepšilo, a Poskytovateľovi udelí a po potrebnú dobu neodvolá
+plnomocenstvo s možnosťou splnomocniť ďalšiu osobu potrebné na to, aby sa Poskytovateľ mohol za
+Zákazníka účinne takému nároku brániť a s takou treťou osobou rokovať o urovnaní sporu resp. spôsobom
+vhodným podľa uváženia Poskytovateľa postupovať v záujme ochrany práv oboch strán.
+
+8.6
+
+Poskytovateľ nenesie zodpovednosť za akúkoľvek Poskytovateľom neautorizovanú zmenu diela vykonanú
+Zákazníkom alebo treťou osobou poverenou Zákazníkom. Spôsob autorizácie zmien je povinnou súčasťou
+dodávky diela.
+
+SUBDODÁVATELIA, REGISTER PARTNEROV VEREJNÉHO SEKTORA A KĽÚČOVÍ EXPERTI
+9.1
+
+Na poskytovanie niektorých plnení, ktoré tvoria súčasť poskytovaných plnení pre Zákazníka, má
+Poskytovateľ, za podmienok dohodnutých v tejto Rámcovej dohode právo uzatvárať subdodávateľské
+zmluvy. Tým nie je dotknutá zodpovednosť Poskytovateľa za plnenie Rámcovej dohody v súlade s § 41
+ods. 8 zákona a Poskytovateľ je povinný odovzdávať Zákazníkovi plnenia sám, na svoju zodpovednosť,
+v dohodnutom čase a v dohodnutej kvalite. Zoznam subdodávateľov s ich identifikačnými údajmi
+v rozsahu: (i) meno a priezvisko alebo obchodné meno, resp. názov, (ii) adresa pobytu alebo sídlo, (iii) IČO
+alebo dátum narodenia, ak nebolo pridelené IČO, (iv) podiel plnenia zo zmluvy v % vyjadrení, predmet
+subdodávky ako aj údaje o osobe oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko,
+adresa pobytu a dátum narodenia, tvorí neoddeliteľnú súčasť tejto Rámcovej dohody.
+
+9.2
+
+Poskytovateľ je povinný písomne oznámiť Zákazníkovi akúkoľvek zmenu údajov o subdodávateľovi
+bezodkladne po tom, ako sa o zmene dozvedel.
+
+9.3
+
+Poskytovateľ je oprávnený zmeniť a /alebo doplniť subdodávateľa počas trvania zmluvy. Poskytovateľ je
+povinný Zákazníkovi najneskôr v deň, ktorý predchádza dňu, v ktorom subdodávateľ začne plniť predmet
+zmluvy, predložiť písomné oznámenie o zmene a /alebo doplnení subdodávateľa, ktoré bude obsahovať
+údaje o navrhovanom subdodávateľovi v rozsahu podľa bodu 9.1
+
+9.4
+
+Poskytovateľ zaplatí Zákazníkovi zmluvnú pokutu vo výške 1000 EUR, ak
+a)
+
+porušil alebo riadne a úplne nevykonal povinnosť uvedenú v bode 9.2 a 9.3 tohto článku predložiť
+písomné oznámenie o zmene a/alebo doplnení subdodávateľa.
+8
+
+10
+
+9.5
+
+Porušenie povinnosti podľa bodu 9.2 a 9.3 tohto článku sa považuje za podstatné porušenie Rámcovej
+dohody.
+
+9.6
+
+Poskytovateľ je povinný na plnenie Rámcovej dohody použiť expertov, prostredníctvom ktorých
+preukazoval splnenie podmienok účasti a ktorí splnili podmienky účasti určené VO podľa § 34 ods. 1 písm.
+g) zákona, a to počas doby trvania Rámcovej dohody. Zoznam expertov podľa predchádzajúcej vety, ktorí
+sa budú podieľať na plnení Rámcovej dohody, sa zaväzuje Poskytovateľ Zákazníkovi predložiť pri podpise
+tejto Rámcovej dohody. Poskytovateľ je povinný zoznam expertov aktualizovať, a to po predchádzajúcom
+schválení zmeny experta zo strany Zákazníka podľa nasledujúceho bodu 9.7. Aktuálny zoznam expertov
+zašle Poskytovateľ Zákazníkovi elektronicky bezodkladne po schválení zmeny.
+
+9.7
+
+Poskytovateľ má povinnosť vyžiadať si vopred písomný súhlas Zákazníka, týkajúci sa zmeny expertov,
+ktorých používa na realizáciu Rámcovej dohody/objednávok. V prípade, ak niektorý z expertov ukončí
+spoluprácu s Poskytovateľom, v prípade úmrtia experta alebo v inom relevantnom prípade, ktorý zabraňuje
+expertovi riadne vykonávať plnenie Rámcovej dohody/objednávky, je Poskytovateľ povinný o tejto
+skutočnosti bez zbytočného odkladu písomne informovať Zákazníka. Poskytovateľ sa zaväzuje, že bude
+mať na realizáciu plnenia k dispozícii minimálne taký počet expertov, aký bol stanovený v rámci podmienok
+účasti na verejnom obstarávaní k predmetu tejto Rámcovej dohody. Pri zmene experta, musí tento expert
+spĺňať minimálne požiadavky stanovené verejným obstarávateľom v rámci podmienok účasti na verejnom
+obstarávaní k predmetu tejto Rámcovej dohody. Žiadosť o písomný súhlas pri zmene experta predloží
+Poskytovateľ v písomnej forme spolu s dokladmi preukazujúcimi splnenie predmetných minimálnych
+požiadaviek na expertov pred ich nástupom na výkon činností podľa Rámcovej dohody/objednávky. Po
+kladnom stanovisku poverenej osoby Zákazníka môže príslušný expert začať vykonávať príslušné činnosti
+v rámci plnenia Rámcovej dohody/objednávky.
+
+9.8
+
+Poskytovateľ, jeho subdodávatelia a subdodávatelia podľa zákona č. 315/2016 Z. z. o registri partnerov
+verejného sektora a o zmene a doplnení niektorých zákonov (ďalej ako „zákon č. 315/2016 Z. z.“) musia
+byť v súlade s § 11 ods. 1 zákona č. 343/2015 Z.z. o verejnom obstarávaní zapísaní do registra partnerov
+verejného sektora, a to počas celej doby trvania tejto Rámcovej dohody. Porušenie tejto povinnosti sa
+považuje za podstatné porušenie Rámcovej dohody a je dôvodom, ktorý oprávňuje Zákazníka na
+odstúpenie od Rámcovej dohody.
+
+9.9
+
+Dôvodom na odstúpenie od Rámcovej dohody je aj právoplatné rozhodnutie o pokute z dôvodov podľa
+§ 13 ods. 2, výmaz z registra partnerov verejného sektora podľa § 12, ako aj akékoľvek porušenie
+povinností ustanovených zákonom č. 315/2016 Z.z.. Právo odstúpiť od Rámcovej dohody vzniká
+Zákazníkovi aj vtedy, ak Poskytovateľ je viac ako 30 dní v omeškaní so splnením povinnosti podľa
+§ 10 ods. 2 tretej vety zákona č. 315/2016 Z.z.. Kým Poskytovateľ nesplní svoje povinností podľa zákona
+č. 315/2016 Z.z., Zákazník nie je povinný plniť z Rámcovej dohody, a nedostane sa pri tom do omeškania.
+
+9.10
+
+Poskytovateľ zodpovedá za správnosť a úplnosť údajov zapísaných v registri partnerov verejného sektora,
+identifikáciu konečného užívateľa výhod a overovanie identifikácie konečného užívateľa výhod v zmysle §
+11 z.č. 315/2016 Z.z. Kým Poskytovateľ nevykoná overenie identifikácie konečného užívateľa výhod,
+Zákazník nie je povinný plniť zo zmluvy a nedostane sa pri tom do omeškania.
+
+NÁHRADA ŠKODY A ZMLUVNÉ POKUTY
+10.1
+
+Poskytovateľ je zodpovedný za škodu vzniknutú v súvislosti s poskytovaním služieb na základe príslušnej
+objednávky v súlade s Rámcovou dohodou, a to v súlade s príslušnými právnymi predpismi.
+
+10.2
+
+Poskytovateľ sa zaväzuje uhradiť Zákazníkovi zmluvnú pokutu pri nedodržaní SLA pre produkčný systém
+nasledovne:
+V prípade, že Poskytovateľ nebude riešiť alebo reagovať na viac ako 3% z mesačne
+prijatých hlásení v stanovených reakčných dobách a dobách vyriešenia (bod 3.1.,
+
+10.2.1
+
+9
+
+Príloha č. 1), je Zákazník oprávnený v danom mesiaci si uplatniť pokutu vo výške 5%
+z mesačného paušálneho poplatku.
+V prípade, že Poskytovateľ nebude riešiť alebo reagovať na viac ako 5% z mesačne
+prijatých hlásení v stanovených reakčných dobách a dobách vyriešenia (bod 3.1.,
+Príloha č. 1), je Zákazník oprávnený v danom mesiaci si uplatniť pokutu vo výške 10%
+z mesačného paušálneho poplatku.
+
+10.2.2
+
+V prípade, že Poskytovateľ nebude riešiť alebo reagovať na viac ako 10% z mesačne
+prijatých hlásení v stanovených reakčných dobách a dobách vyriešenia (bod 3.1.,
+Príloha č. 1), je Zákazník oprávnený v danom mesiaci si uplatniť pokutu vo výške 20%
+z mesačného paušálneho poplatku.
+
+10.2.3
+
+V prípade, že Poskytovateľ nedodrží požadované dostupnosti systému
+s preukázateľným zavinením na strane Poskytovateľa v zmysle bodu 3.2 Prílohy č. 1
+Zmluvy, je Zákazník oprávnený v danom mesiaci si uplatniť pokutu vo výške 1 000 EUR za
+každý aj začatý deň nad definovaný limit (v zmysle bodu 3.2 Prílohy č. 1).
+
+10.2.4
+
+11
+
+10.3
+
+Zákazník je oprávnený uplatniť si zmluvnú pokutu najneskôr do konca kalendárneho mesiaca,
+nasledujúceho po mesiaci, v ktorom došlo k porušeniu povinnosti Poskytovateľa a Poskytovateľ je povinný
+v príslušnej faktúre adekvátne znížiť mesačnú fakturovanú čiastku o výšku oprávnene uplatnenej zmluvnej
+pokuty.
+
+10.4
+
+Zaplatenie zmluvnej pokuty nebude mať vplyv na právo Zákazníka na náhradu škody preukázateľne
+vzniknutej v súvislosti s porušením povinností Poskytovateľa prekračujúcej zaplatenú zmluvnú pokutu.
+
+10.5
+
+Ak je Zákazník v omeškaní so splnením peňažného záväzku alebo jeho časti, je povinný zaplatiť
+Poskytovateľovi úroky z omeškania z nezaplatenej sumy v sadzbe podľa Nariadenia vlády SR č. 21/2013
+Z.z., ak o ich zaplatenie Poskytovateľ požiada.
+
+10.6
+
+Poskytovateľ má nárok na náhradu škody spôsobenej omeškaním Zákazníka so splnením peňažného
+záväzku, len v rozsahu, v akom táto škoda nie je krytá úrokmi z omeškania alebo paušálnou náhradou
+nákladov spojených s uplatnením pohľadávky alebo ich súčtom.
+
+10.7
+
+Žiadna zo zmluvných strán nebude v omeškaní a úrok z omeškania jej neprináleží, ak je omeškanie
+spôsobené okolnosťami vylučujúcimi zodpovednosť, alebo ak omeškanie vzniklo úplne alebo čiastočne
+okolnosťami na strane oprávnenej zmluvnej strany alebo inak mimo kontrolu povinnej strany, a to aj v
+prípade, že taká okolnosť nastala v čase, kedy bola povinná zmluvná strana už v omeškaní.
+
+VŠEOBECNÉ USTANOVENIA
+11.1
+
+Poskytovateľ zaručuje, že poskytované Služby sú bez právnych vád, predovšetkým nie sú zaťažené
+právami tretích osôb z priemyslového alebo iného duševného vlastníctva. Poskytovateľ sa zaväzuje
+odškodniť Zákazníka za všetky nároky tretích osôb z titulu porušenia ich chránených práv súvisiacich s
+plnením Poskytovateľa, alebo jeho subdodávateľov podľa tejto Rámcovej dohody, a to za predpokladu, že
+Zákazník:
+oznámi Poskytovateľovi bez zbytočného odkladu uplatnenie akéhokoľvek takého nároku z
+duševného vlastníctva tretích osôb,
+
+11.1.1
+
+11.1.2
+
+neuzná sám taký nárok,
+
+11.1.3
+
+splnomocní Poskytovateľa k vysporiadaniu takého nároku súdnou alebo mimosúdnou cestou a
+
+11.1.4
+
+bez predchádzajúceho písomného súhlasu Poskytovateľa neurobí akékoľvek právne úkony vo
+10
+
+veci takého nároku.
+
+12
+
+11.2
+
+Každá zo zmluvných strán bude oprávnená odstúpiť od Rámcovej dohody, ak druhá zmluvná strana
+nesplní svoju povinnosť vyplývajúcu pre ňu z tejto Rámcovej dohody a/alebo príslušnej objednávky ani
+v primeranej lehote na to určenej druhou zmluvnou stranou, v ktorej po uplynutí dohodnutého termínu na
+také plnenie bola druhou zmluvnou stranou k tomu písomne vyzvaná. Za podstatné porušenie Rámcovej
+dohody sa teda bude považovať len také porušenie, ktoré trvá i po uplynutí lehoty na nápravu uvedenej
+v ustanovení predchádzajúcej vety. Odstúpením Zákazníka od Rámcovej dohody nebudú dotknuté práva
+a povinnosti zmluvných strán ohľadom plnení Poskytovateľa, ktoré boli do tej doby Zákazníkom riadne
+objednané, Poskytovateľom riadne poskytnuté a Zákazníkom prevzaté (akceptované), vrátane práv
+vyplývajúcich z udelených licencií.
+
+11.3
+
+Túto Rámcovú dohodu je možné vypovedať len s uvedením výpovedného dôvodu, písomnou výpoveďou
+doručenou druhej strane. Výpovedná lehota je pre obe zmluvné strany 3-mesačná a začína plynúť 1. dňom
+mesiaca nasledujúceho po jej doručení druhej zmluvnej strane.
+
+11.4
+
+Poskytovateľ je oprávnený túto Rámcovú dohodu vypovedať ako celok, len v prípade porušenia tejto
+Rámcovej dohody Zákazníkom. Porušením Rámcovej dohody sa pre tento prípad rozumie, ak Zákazník i
+napriek písomnému upozorneniu zo strany Poskytovateľa a stanoveniu primeraného dodatočného termínu
+na plnenie, je v omeškaní s úhradou faktúry podľa tejto Rámcovej dohody a/alebo príslušnej objednávky
+dlhšie než 30 dní po lehote splatnosti faktúry.
+
+11.5
+
+Výpoveďou tejto Rámcovej dohody zo strany Poskytovateľa nie je dotknuté právo Poskytovateľa na
+zaplatenie ceny, resp. jej časti za riadne poskytnuté a prevzaté plnenia do uplynutia výpovednej doby, a to
+podľa podmienok príslušnej objednávky a tejto Rámcovej dohody.
+
+11.6
+
+Zákazník je oprávnený túto Rámcovú dohodu vypovedať ako celok len v prípade podstatného porušenia
+tejto Rámcovej dohody Poskytovateľom. Hrubým porušením Rámcovej dohody sa okrem iného pre tento
+prípad rozumie, aj ak Poskytovateľ je v omeškaní s poskytovaním služieb Aplikačnej podpory a/alebo zmien
+alebo neposkytuje služby Aplikačnej podpory a ani po písomnom upozornení do 30 dní nezjedná nápravu.
+
+11.7
+
+Opakované nedodržanie záväzku zabezpečenia dostupnosti a funkčnosti produkčného systému MetaIS
+a integrácií na súvisiace systémy, uvedenej v tabuľke v prílohe č. 1 bod 3.2 tejto Rámcovej dohody z viny
+Poskytovateľa, budú považovať zmluvné strany za podstatné porušenie zmluvného vzťahu v zmysle § 345
+odsek 2 Obchodného zákonníka. Pri odstúpení od Rámcovej dohody sa zmluvné strany budú riadiť podľa
+príslušných ustanovení Obchodného zákonníka. Riadne poskytnuté a prevzaté plnenia do doby odstúpenia
+od Rámcovej dohody, si Zákazník a Poskytovateľ ponechajú.
+
+MLČANLIVOSŤ A OCHRANA INFORMÁCIÍ
+12.1
+
+Poskytovateľ sa zaväzuje zachovať mlčanlivosť o všetkých informáciách, ktoré sa dozvedel počas doby
+trvania Rámcovej dohody, pokiaľ ho Zákazník v konkrétnom prípade tejto povinnosti písomne nezbaví,
+alebo predmetné informácie nie sú verejne známe. Táto povinnosť bude platiť aj pre subdodávateľov
+Poskytovateľa. V rozsahu zaisťujúcom možnosť splnenia takej povinnosti Poskytovateľ uzatvorí s každým
+subdodávateľom dohodu o mlčanlivosti, pokiaľ obdobný záväzok nevyplýva pre takého subdodávateľa zo
+zákona.
+
+12.2
+
+Zákazník sa zaväzuje chrániť pred vyzradením informácií Poskytovateľa, ktoré sú jasne a písomne
+označené Poskytovateľom ako dôverné. Táto povinnosť trvá aj po ukončení tejto Rámcovej dohody. Za
+informáciu podliehajúcu ustanoveniam tohto článku nebude považovaná taká informácia, ktorá jej je už
+známa, alebo je verejne dostupná, či bola vyvinutá, alebo zákonne získaná od tretej strany bez obmedzenia
+s jej nakladaním v zmysle tejto Rámcovej dohody, alebo ju je Zákazník povinný sprístupniť alebo zverejniť
+podľa zákona č. 211/2000 Z.z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov (ďalej len „zákon o slobodnom prístupe k informáciám“), pričom
+v takom prípade sa zaväzuje chrániť dôverné informácie a obchodné tajomstvo Poskytovateľa v súlade
+11
+
+s platnou legislatívou Slovenskej republiky.
+
+13
+
+12.3
+
+Poskytovateľ sa zaväzuje zaobchádzať s informáciami poskytnutými Zákazníkom ako s dôvernými
+údajmi. Dôvernými údajmi pre účely tejto zmluvy sú všetky skutočnosti napĺňajúce znaky obchodného
+tajomstva podľa § 17 Obchodného zákonníka a osobné údaje dočasne uchovávané v rámci jednotlivých
+databáz MetaIS (ďalej len „dôverné informácie“). Pre zamedzenie pochybností sa stanovuje, že
+uchovávanie osobných údajov v rámci jednotlivých databáz MetaIS sa nepovažuje za spracovávanie
+údajov podľa zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov (ďalej ako „zákon o ochrane osobných údajov“). Poskytovateľ je
+však povinný zabezpečiť dodržiavanie povinnosti mlčanlivosti o týchto osobných údajoch a poučiť svojich
+zamestnancov a všetky osoby, ktoré v rámci plnenia tejto zmluvy majú prístup k MetaIS o povinnosti
+dodržiavať mlčanlivosť o osobných údajoch, s ktorými prídu do styku v zmysle § 22 zákona o ochrane
+osobných údajov a sankciami za porušenie tejto mlčanlivosti (§ 68 ods. 7 písm. d) zákon o slobodnom
+prístupe k informáciám). Záväzok mlčanlivosti Poskytovateľa trvá aj po ukončení platnosti tejto Rámcovej
+dohody.
+
+12.4
+
+Poskytovateľ je oprávnený poskytnúť tretej osobe dôverné informácie len s predchádzajúcim písomným
+súhlasom Zákazníka, okrem prípadu, ak by povinnosť zverejnenia vyplývala zo zákona alebo z
+právoplatného rozhodnutia príslušného štátneho orgánu. Poskytovateľ je ďalej oprávnený poskytnúť
+dôverné informácie svojim subdodávateľom podieľajúcim sa na plnení tejto Rámcovej dohody, avšak vždy
+len v nevyhnutnom rozsahu a výlučne za predpokladu, že príslušný subdodávateľ bol zaviazaný
+povinnosťou mlčanlivosti v zmysle bodu 12.1. tohto článku. Táto Rámcová dohoda neovplyvňuje
+akúkoľvek inú dohodu medzi zmluvnými stranami o dôvernosti informácií.
+
+INFORMAČNÁ BEZPEČNOSŤ
+13.1
+
+14
+
+15
+
+Obidve zmluvné strany sa zaväzujú, že budú dodržiavať informačnú bezpečnosť, v súlade s podmienkami
+tejto Rámcovej dohody a jej Prílohy č. 4 a s pravidlami stanovenými v predpisoch informačnej bezpečnosti
+Zákazníka, najmä Bezpečnostnej politiky Zákazníka, ktoré budú Poskytovateľovi protokolárne predložené
+najneskôr pri podpise tejto Rámcovej dohody, a za ktorých dodržiavanie Poskytovateľ zodpovedá, vrátane
+škody, ktorá vznikne porušením jeho povinností z nich vyplývajúcich.
+
+RIEŠENIE SPOROV
+14.1
+
+Zmluvné strany sa zaväzujú vyvinúť maximálne úsilie na odstránenie vzájomných sporov vzniknutých na
+základe tejto Rámcovej dohody a/alebo príslušnej objednávky alebo v súvislosti s touto Rámcovou
+dohodou a/alebo príslušnou objednávkou a k ich vyriešeniu sa využijú predovšetkým jednania kontaktných
+osôb alebo poverených zástupcov.
+
+14.2
+
+Všetky spory zo Rámcovej dohody budú podľa dohody obidvoch zmluvných strán riešiť príslušné súdy
+Slovenskej republiky.
+
+DORUČOVANIE A KOMUNIKÁCIA
+15.1
+
+Doručením sa rozumie prijatie zásielky zmluvnou stranou, ktorej bola adresovaná na adresu Zákazníka
+a Poskytovateľa.
+
+15.2
+
+Za deň doručenia zásielky zmluvnej strane, ktorej bola adresovaná sa považuje takisto deň:
+(a)
+
+v ktorom táto zmluvná strana ju odoprela prijať,
+
+(b)
+
+ktorým márne uplynula odberná lehota pre jej vyzdvihnutie si na pošte, alebo
+
+(c)
+
+v ktorý bola na nej zamestnancom pošty vyznačená poznámka, že “adresát sa odsťahoval”, “adresát
+12
+
+je neznámy” alebo iná poznámka, ktorá podľa poštového poriadku znamená nedoručiteľnosť zásielky.
+15.3
+
+Kontaktné adresy pre písomnú listovú komunikáciu sú:
+
+(a) (a)
+v prípade Zákazníka 1:
+Meno:
+Adresa:
+Tel:
+E-mail:
+(b) v prípade Zákazníka 2:
+Meno:
+Adresa:
+Tel:
+E-mail:
+(b) v prípade Poskytovateľa:
+Meno:
+Adresa:
+Tel:
+Fax:
+E-mail:
+Poskytovateľ a Zákazník sa zaväzujú navzájom si oznámiť:
+a)
+
+oprávnené osoby pre potreby realizácie Rámcovej dohody a príslušných objednávok. Mená, funkcie
+a kontaktné údaje oprávnených osôb, vrátane e-mailových adries, si zmluvné strany oznámia písomne
+do 10 pracovných dní od začiatku účinnosti tejto Rámcovej dohody.
+
+b)
+
+akékoľvek zmeny v obsadení rolí listom, najneskôr do 10 pracovných dní odkedy takáto zmena
+nastane.
+
+15.4
+
+Vzájomná komunikácia medzi zmluvnými stranami pri poskytovaní plnenia podľa Rámcovej dohody
+a/alebo objednávky a pri doručovaní písomností, neuvedených v bode 15.6 nižšie (tzv. bežná
+korešpondencia), bude prebiehať výlučne v slovenskom jazyku. Akákoľvek písomnosť doručovaná
+v súvislosti s Rámcovou dohodou sa považuje za doručenú druhej zmluvnej strane v prípade doručovania
+prostredníctvom:
+faxu, okamihom vytlačenia potvrdenia o odoslaní faxovej správy z faxu použitého odosielateľom,
+ktoré potvrdí doručenie zasielanej písomnosti na číslo faxu príjemcu počas obvyklého pracovného
+času adresáta; alebo
+
+15.4.1
+
+elektronickej pošty (e-mail) dňom, kedy zmluvná strana, ktorá prijala e-mail od odosielajúcej
+zmluvnej strany, potvrdila jeho prijatie odoslaním potvrdzujúceho e-mailu odosielajúcej zmluvnej
+strane. Pre potreby doručovania prostredníctvom elektronickej pošty (e–mail) sa použije adresa
+zmluvnej strany uvedená v záhlaví príslušnej zmluvnej strany, dokým príslušná zmluvná strana neurčí
+inak.
+
+15.4.2
+
+15.5
+
+Akákoľvek písomnosť týkajúca sa platnosti alebo účinnosti Rámcovej dohody, jej zániku či zmeny musí byť
+napísaná v slovenskom jazyku a doručovaná druhej strane výhradne poštou ako doporučená zásielka,
+kuriérom alebo osobne na jej hore uvedenú alebo dodatočne písomne oznámenú adresu.
+
+15.6
+
+Zákazník a Poskytovateľ sa zaväzujú bezodkladne oznámiť druhej zmluvnej strane akúkoľvek zmenu
+svojich kontaktných údajov uvedených v Rámcovej dohode pre budúce doručovanie.
+
+15.7
+
+Pokiaľ v tejto Rámcovej dohode nie je dohodnuté inak, doručením písomností sa rozumie prijatie zásielky
+zmluvnou stranou, ktorej bola adresovaná.
+
+13
+
+16
+
+ZÁVEREČNÉ USTANOVENIA
+16.1
+
+Pokiaľ nie je výslovne uvedené inak, túto Rámcovú dohodu je možné meniť len po vzájomnej dohode oboch
+zmluvných strán formou písomného dodatku k Rámcovej dohode a v súlade s § 18 zákona
+č. 343/2015 Z.z. o verejnom obstarávaní.
+
+16.2
+
+Táto Rámcová dohoda je vyhotovená v ôsmich exemplároch s platnosťou originálu. Zákazník 1 dostane
+dva rovnopisy, Zákazník 2 dostane 4 rovnopisy a Poskytovateľ dostane dva rovnopisy.
+
+16.3
+
+Ak sa niektoré z ustanovení tejto Rámcovej dohody stane nevynútiteľným alebo neplatným podľa
+platných právnych predpisov, bude toto ustanovenie neúčinné len do tej miery, do akej je nevynútiteľné,
+či neplatné. Ďalšie ustanovenia Rámcovej dohody zostávajú naďalej záväzné a v plnej platnosti
+a účinnosti. Pokiaľ nastane takáto situácia, zmluvné strany nahradia toto nevynútiteľné či neplatné
+ustanovenie iným ustanovením, ktoré sa mu svojim obsahom bude čo najviac približovať.
+
+16.4
+
+Právne vzťahy touto Rámcovou dohodou neupravené sa riadia predovšetkým príslušnými ustanoveniami
+Obchodného zákonníka, Občianskeho zákonníka a Autorského zákona v platnom znení, ako aj ostatnými
+všeobecne záväznými právnymi predpismi platnými na území Slovenskej republiky.
+
+16.5
+
+Nevykonanie akéhokoľvek práva z tejto Rámcovej dohody neznamená zrieknutie sa alebo zrušenie takého
+práva.
+
+16.6
+
+Podmienky tejto Rámcovej dohody a/alebo objednávky a práva a záväzky, vzniknuté na ich základe, ktoré
+svojou povahou presahujú dobu ich platnosti, zostávajú v platnosti v celom rozsahu a sú účinné až do
+okamihu ich splnenia a platia aj pre prípadných nástupcov a postupníkov zmluvných strán. Práva z tejto
+Rámcovej dohody a/alebo príslušnej objednávky nie sú prevoditeľné bez predchádzajúceho písomného
+súhlasu obidvoch zmluvných strán.
+
+16.7
+
+Neoddeliteľnou súčasťou tejto Rámcovej dohody sú nasledujúce Prílohy, ktorých ustanovenia sa použijú
+v rozsahu neodporujúcom ustanoveniam uvedeným v tejto hlavnej časti Rámcovej dohody:
+-
+
+Príloha č. 1 – Podrobný opis predmetu zákazky „Systémová a aplikačná podpora pre
+Metainformačný systém (MetaIS)“,
+
+-
+
+Príloha č. 2 – Spôsob riešenia aplikačnej podpory a realizácie zmien systému MetaIS (s použitím
+formulárov z prílohy č.5),
+
+-
+
+Príloha č. 3 – Zoznam subdodávateľov,
+
+-
+
+Príloha č. 4 – Prístup tretích strán,
+
+-
+
+Príloha č. 5 – Vzory formulárov (Požiadavka na zmenu, Štúdia realizovateľnosti, Analýza dopadov,
+Objednávka podľa štúdie realizovateľnosti, Odovzdávací protokol k zmene, Akceptačný protokol
+k zmene),
+
+-
+
+Príloha č. 6 – Návrh na plnenie kritérií (cenník služieb)
+
+16.8
+
+Táto Rámcová dohoda podlieha podľa zákona o slobodnom prístupe k informáciám a o zmene a doplnení
+povinnému zverejneniu v Centrálnom registri zmlúv vedenom na Úrade vlády Slovenskej republiky.
+Poskytovateľ berie na vedomie povinnosť Zákazníka na zverejnenie tejto Rámcovej dohody vrátane
+všetkých jej príloh a prípadných budúcich dodatkov v plnom rozsahu, ako aj všetkých súvisiacich
+objednávok a faktúr, a svojim podpisom dáva súhlas na ich zverejnenie.
+
+16.9
+
+Poskytovateľ sa zaväzuje umožniť oprávneným osobám výkon kontroly/auditu súvisiaceho
+s poskytovanými službami kedykoľvek počas platnosti Rámcovej dohody. Oprávnenými osobami sú najmä:
+Ministerstvo financií Slovenskej republiky, Najvyšší kontrolný úrad Slovenskej republiky, Úrad vládneho
+auditu, Certifikačný orgán a nimi poverené osoby, jeho spolupracujúce orgány a nimi poverené osoby,
+Splnomocnení zástupcovia Európskej Komisie a Európskeho dvora audítorov, osoby prizvané orgánmi
+uvedenými v tomto bode Rámcovej dohody. Poskytovateľ berie na vedomie a súhlasí s oprávnením
+14
+
+Zákazníka a oprávnených orgánov v zmysle právnych predpisov SR a EÚ vykonávať kontrolu u
+Poskytovateľa, umožniť vstup do kontrolovaných objektov oprávnenej osobe Zákazníka a ostatným
+orgánom kontroly a auditu zo strany poskytovateľa finančných prostriedkov EÚ (RO, SORO), poskytnúť
+vyžiadanú dokumentáciu od Poskytovateľa, zabezpečiť prítomnosť oprávnených osôb zo strany
+Poskytovateľa, prijatie nápravných opatrení a definovanie termínov na odstránenie zistených nedostatkov.
+Zmluvné strany po prečítaní textu tejto Rámcovej dohody zhodne vyhlasujú, že zneniu Rámcovej dohody
+porozumeli a že túto Rámcovú dohodu uzatvárajú na základe slobodnej a vážnej vôle, na znak čoho
+pripájajú pod jej znenie svoje podpisy.
+
+16.10
+
+Zákazník 1
+
+Zákazník 2
+
+V Bratislave dňa:
+
+V Bratislave dňa:
+
+SR - Ministerstvo financií Slovenskej republiky
+
+SR – Úrad podpredsedu vlády Slovenskej
+republiky pre investície a informatizáciu
+
+___________________________________
+Ing. Albín Kotian, generálny tajomník služobného
+úradu
+
+___________________________________
+Mgr. Patrik Krauspe, vedúci úradu
+
+Poskytovateľ
+V Bratislave dňa:
+MICROCOMP – Computersystém, s.r.o.
+_______________________________
+Jozef Gál, konateľ
+
+15
+
+PRÍLOHA Č. 1:
+PODROBNÝ OPIS PREDMETU ZÁKAZKY
+„Systémová a aplikačná podpora pre Metainformačný systém (MetaIS)“
+Metainformačný systém (ďalej len MetaIS) je výstupom národného projektu: Metainformačný systém, ktorého
+hlavným cieľom bol rozvoj Centrálneho Metainformačného systému verejnej správy pre podporu riadenia
+informatizácie verejnej správy a systému pre tvorbu politík v oblasti informačnej spoločnosti, ako aj pre podporu
+cieľov efektívnej verejnej správy. Prínosom má byť vytvorenie inkluzívnej informačnej spoločnosti ako prostriedku
+pre rozvoj vysoko výkonnej vedomostnej ekonomiky.
+Metainformačný systém sa skladá z viacerých biznis modulov. Dostupnosť jednotlivých modulov a systému ako
+celku je určujúci faktor pre stanovenie prevádzkových metrík a sledovanie ich dodržiavania.
+1. Základné údaje
+Cieľom tohto dokumentu je zadefinovanie potrebných služieb, činností a rolí, ktoré sú nevyhnutné na
+zabezpečenie systémovej, aplikačnej podpory a rozvoja Metainformačného systému, prevádzkovaného v rámci
+vládneho cloudu (IaaS), v Datacentre Ministerstva financií SR – vládnom cloude (ďalej len „Datacentrum“). Zároveň
+dokument poskytuje stručný prehľad o systéme (architektúre, moduloch, technických komponentoch), ktorý
+determinuje požiadavky na systémovú a aplikačnú podporu.
+Pre poskytovanie služieb systémovej a aplikačnej podpory MetaIS objednávateľ zabezpečí:
+• Poskytnutie IaaS služieb v Datacentre
+• SW podpora systému (SW maintenance).
+2. Služby podpory a rozvoja
+Pre systémovú a aplikačnú podporu MetaIS sa predpokladajú nasledovné služby:
+A.
+
+Služby systémovej a aplikačnej podpory (v rámci paušálu) - servisné služby vzťahujúce sa na
+produkčné a testovacie prostredie MetaIS:
+i.
+
+Činnosti správy systémového softvéru, systému MetaIS vykonávané priebežne podľa SLA, podľa
+kapitoly 3 tohto podrobného opisu (Administrácia, manažment, monitoring a zálohovanie IT
+infraštruktúry systému MetaIS)
+
+ii.
+
+Podpora aplikácií a modulov systému MetaIS podľa definovanej SLA pre produkčné prostredie
+
+B.
+
+Služby systémovej a aplikačnej podpory na vyžiadanie (nad paušál)
+Prevádzkové činnosti poskytované nad rámec služieb poskytovaných v rámci systémovej a aplikačnej
+podpory.
+
+C.
+
+Služby realizácie aplikačných zmien vyplývajúcich z legislatívnych a metodických zmien (nad
+paušál)
+Tieto činnosti zahŕňajú implementáciu schválených požiadaviek garanta systému na zmenu funkčnosti
+systému MetaIS. Zmenu funkčnosti zahŕňa pridanie, modifikáciu alebo zrušenie akejkoľvek časti systému
+MetaIS a súvisiacej dokumentácie. Zmena funkčnosti môže byť vyvolaná legislatívnou požiadavkou alebo
+požiadavkou používateľov na zlepšenie existujúcej funkcionality alebo zavedenie novej funkcionality v
+MetaIS.
+
+2.1. Služby systémovej a aplikačnej podpory (v rámci paušálu) MetaIS
+Servisné služby vzťahujúce sa na produkčné aj testovacie prostredie MetaIS, ktoré je prevádzkované v
+infraštruktúre Datacentra), ktorými sú:
+činnosti správy a údržby systémového softvéru a systému MetaIS (vrátane kontroly príslušných operačných
+systémov, kontroly logov, naplnenosti diskového priestoru, operačnej pamäte, správy komunikačnej matice pre
+jednotlivé služby produktov, sledovania informácií výrobcov a dodávateľov zariadení, príslušných
+bezpečnostných riešení, patchov a nutných aktualizácií, správa služieb infraštruktúry (DNS, NTP, VPN),
+16
+
+monitorovanie vyťaženosti systému, monitorovanie sieťovej komunikácie, monitorovanie naplnenosti databáz,
+správa certifikátov interných/externých, prideľovanie systémových prostriedkov (CPU, Disk, RAM), vytváranie
+záloh, nasadzovanie nových verzií, riešenie úloh, poskytovanie súčinnosti pri odstávkach dátového centra
+Datacentra, poskytovanie súčinnosti pri patchovaní dátového centra, vykonávanie preventívnej údržby,
+udržiavanie systému v súlade s bezpečnostnou dokumentáciou, súčinnosť a odstraňovanie zistení z
+bezpečnostného auditu.
+•
+
+Uvedenie MetaIS do plne funkčného stavu alebo poskytnutie náhradného riešenia (po poruchách,
+chybách) podľa definovaných parametrov (v kapitole 3.2 tejto prílohy) pre produkčné prostredie pre
+MetaIS.
+
+•
+
+Podpora systémového softvéru a aplikačného softvéru MetaIS v produkčnom aj testovacom prostredí
+(vrátane riešenia vzniknutých problémov).
+
+•
+
+Nasadzovanie nových verzií aplikačného programového vybavenia do testovacieho a produkčného
+prostredia.
+
+•
+
+Lokalizácia potenciálnych problémov pri používaní prostredia.
+
+•
+
+Optimalizácia prevádzky na základe odsúhlasených návrhov riešení.
+
+•
+
+Aktualizácia prevádzkovej, používateľskej a bezpečnostnej dokumentácie vyplývajúcej z aktuálneho
+nastavenia MetaIS.
+2.1.1. Činnosti správy a údržby systémového softvéru a aplikačného softvéru MetaIS vykonávané
+priebežne.
+
+Požiadavky na činnosti slúžiace k identifikácii neštandardných stavov systémového softvéru a aplikačného softvéru
+MetaIS sú definované v katalógu služieb pre jednotlivé oblasti s detailným popisom v rámci tohto opisu. Tieto
+činnosti sa vykonávajú pravidelne s cieľom preventívne identifikovať možné problémy. Ide zväčša o monitorovanie
+a kontrolovanie definovaných parametrov na základe vopred definovaného profylaktického plánu. Výsledky kontrol
+budú evidované v reporte s návrhom preventívnych akcií na elimináciu neštandardných stavov MetaIS.
+Vedenie evidencií a reportovanie zamerané na spracovávanie požadovaných reportov a operatívnych informácií o
+stave prevádzky, poskytovania služieb, výsledkov monitoringu, kontrol a auditov, vedenie potrebných technických
+a prevádzkových evidencií (technická dokumentácia, nastavenie parametrov, evidencia technických prostriedkov,
+používateľské príručky, evidencia dodávateľov a kontaktných osôb...), poskytovanie štatistických informácií pre
+garanta systému.
+Zabezpečovanie kvality služieb zamerané na predkladanie návrhov opatrení na zlepšenie kvality služieb
+prevádzky, implementáciu schválených opatrení.
+Plánovanie a riadenie preventívnej údržby a opráv, prevádzkových a bezpečnostných auditov, riadenie vnútorných
+procesov a spolupráce s ostatnými zložkami.
+•
+
+Administrácia a manažment OS (Windows, Linux)
+•
+
+Administrácia a manažment,
+i. konfigurovanie a správa diskových subsystémov,
+ii. vytváranie, konfigurovanie a rušenie prístupových účtov v OS,
+iii. vytváranie a rušenie adresárových štruktúr,
+iv. prideľovanie a odoberanie a správa prístupových práv,
+v. správa bezpečnostnej a skupinovej politiky,
+vi. vytváranie, konfigurovanie a správa tlačových front,
+vii. rekonfigurácia parametrov operačných systémov a systémového aplikačného
+vybavenia,
+viii. plánovaný a neplánovaný shutdown, reštart alebo štart systému,
+17
+
+ix. odpájanie a zapájanie systémov,
+x. inštalácia aktualizácií a patchov štandardného systémového softvéru,
+xi. vytváranie a evidencia firewallových pravidiel,
+xii. konfigurovanie integrácií na iné informačné systémy verejnej správy.
+•
+
+Zálohovanie a obnova,
+i. konfiguračný manažment zálohovacieho systému,
+ii. zálohovanie a obnova systémového softvéru,
+iii. vytváranie , konfigurácia a správa zálohovacích scriptov,
+iv. vykonávanie pravidelných a nepravidelných záloh systému,
+v. evidencia a správa systému záloh,
+vi. obnova systémového softvéru (OS + systémové utility),
+vii. obnova konfigurácie a parametrov komponentov,
+viii. zálohovanie a obnova databáz.
+
+•
+
+Monitoring,
+i. dostupnosť a funkčnosť hardvérového vybavenia,
+ii. diskových subsystémov,
+iii. vyťaženia operačnej pamäte a CPUs,
+iv. výkonnosti sieťových subsystémov,
+v. výskytu varovných a chybových hlásení HW a OS,
+vi. prírastkov databáz a transakčných logov
+vii. indexov a konzistencie databáz
+viii. vykonávania pravidelných Backupov
+ix. vykonávania pravidelných systémových procesov
+x. prevádzkových udalostí
+xi. kontrola behu systémových procesov
+xii. kontrola behu aplikačných procesov
+xiii. kontrola logov aplikačného servera
+xiv. kontrola integrity kritických systémových súborov
+
+•
+
+Administrácia a manažment DB (NEO4j, MS SQL, DB2, ElastickSearch, MongoDB
+•
+
+Administrácia a manažment
+i. Vytváranie, konfigurovanie a rušenie prístupových účtov.
+ii. Prideľovanie a odoberanie a správa prístupových práv.
+iii. Správa bezpečnostnej a skupinovej politiky.
+iv. Rekonfigurácia parametrov.
+v. Plánovaný a neplánovaný shutdown, restart alebo start databázových procesov.
+vi. Ladenie výkonnosti.
+vii. Rekonfiguráciu parametrov databáz.
+
+18
+
+viii. Inštalácia patchov
+•
+
+Backup a restore
+i. Vykonávanie pravidelných a nepravidelných záloh.
+ii. Evidencia a správa systému záloh.
+iii. Označovanie záloh.
+iv. Obnovu databáz.
+
+•
+
+Monitoring
+i. Monitorovanie a kontrola doby odozvy.
+ii. Monitorovanie a kontrola vyťaženia operačnej pamäte a CPUs.
+iii. Monitorovanie a kontrola výskytu varovných a chybových hlásení v databázových
+logoch.
+iv. Monitorovanie a kontrola rozšírení databáz.
+v. Monitorovanie a kontrola zaplnenia transakčných logov.
+vi. Monitorovanie a kontrola prírastkov dát.
+vii. Monitorovanie a kontrola indexov a konzistencie databázy.
+viii. Monitorovanie a kontrola vykonávania pravidelných backup.
+ix. Monitorovanie a kontrola vykonania obnovy systému.
+
+2.1.2. Podpora aplikácií a modulov MetaIS podľa definovanej SLA
+Vo všeobecnosti sa jedná o zabezpečenie kvality služby riešenia incidentov nahlásených používateľmi MetaIS v
+rutinnej prevádzke podľa definovaných metrík v rámci tohto dokumentu. Tieto servisné služby sa vzťahujú na
+produkčné prostredie MetaIS.
+2.1.3. Help Desk
+Analýza, určenie zodpovedného a zabezpečenie preposlania incidentu, TFS, monitoring, dostupnosť vývojového
+tímu, komunikácia v tímoch, riešenie incidentov na základe hlásení používateľov a postúpenia garantov systémov,
+t.j. zabezpečenie úrovne L3 stupňa podpory v súlade s kapitolou ... tohto dokumentu.
+2.2. Služby systémovej podpory na vyžiadanie (nadpaušál)
+Prevádzkové činnosti poskytované nad rámec služieb poskytovaných v rámci systémovej a aplikačnej podpory.
+•
+
+Riešenie systémových a prevádzkových chýb súvisiacich s potrebou funkčnej úpravy nastavených
+procesov.
+
+•
+
+Školenia garantov a používateľov
+
+•
+
+Poskytovanie služieb odborných a technických konzultácii nad rámec činností uvedených v SLA,
+podľa kapitoly 3 tohto podrobného opisu
+
+•
+
+Špecifická podpora na vyžiadanie
+
+•
+
+Ďalšie činnosti a služby aplikačnej podpory súvisiace so zabezpečením prevádzky systému
+
+19
+
+2.3. Služby realizácie aplikačných zmien vyplývajúcich z legislatívnych a metodických zmien
+(nadpaušál)
+Činnosti súvisiace s rozvojom MetaIS. Tieto činnosti zahŕňajú implementáciu schválených požiadaviek
+používateľov na zmenu funkčnosti MetaIS najmä:
+•
+
+Rozširovanie funkcionality MetaIS - Analýza, návrh a vývoj rozšírenia, vylepšenia a/alebo modifikácie
+aplikačného softvéru MetaIS vrátane dátového modelu, na základe metodických alebo legislatívnych
+zmien.
+
+•
+
+Vykonanie úprav v nastavení modulov MetaIS voči implementovanej funkčnosti a existujúcim
+nastaveniam.
+
+•
+
+Programovanie nových funkcií v rámci existujúcich modulov MetaIS.
+
+•
+
+Vykonávanie úprav do existujúcich integračných rozhraní.
+
+•
+
+Programovanie a implementácia nových integračných rozhraní.
+
+•
+
+Realizácia testov podľa testovacích scenárov.
+
+•
+
+Projektové riadenie a koordinácia tímov pre realizáciu Zmien.
+
+•
+
+Zmeny používateľskej dokumentácie.
+
+Zmena funkčnosti zahŕňa pridanie, modifikáciu alebo zrušenie akejkoľvek časti MetaIS a súvisiacej
+dokumentácie. Zmena funkčnosti môže byť vyvolaná legislatívnou požiadavkou alebo požiadavkou
+používateľov na zlepšenie existujúcej funkcionality alebo zavedenie novej funkcionality v MetaIS.
+3. Definícia kvalitatívnych požiadaviek
+3.1. Požadované parametre služieb aplikačnej podpory – servisné služby vzťahujúce sa na produkčné
+prostredie IS MetaIS
+Úrovne podpory používateľov
+Help Desk realizovaný cez 3 úrovne podpory, s nasledujúcim označením:
+•
+
+L1 Centrum podpory používateľov (Level 1, jednotný priamy kontakt pre používateľov MetaIS) –
+zamestnanec Help Desku Datacentra.
+
+•
+
+L2 podpory MetaIS (Level 2, postúpenie požiadaviek od L1) - vybraná skupina garantov správcu MetaIS
+(zamestnancov ÚPPVII) so znalosťou MetaIS.
+
+•
+
+L2 podpory vládneho cloudu (Level 2, postúpenie požiadaviek od L1) – vybraná riešiteľská skupina
+zložená z riešiteľov vládneho cloudu.
+
+•
+
+L3 podpory MetaIS (Level 3, postúpenie požiadaviek od L2, prípadne L1 podpory MetaIS) - dodávateľ na
+základe zmluvy o podpore MetaIS.
+
+•
+
+„Doba odozvy” je čas medzi nahlásením incidentu Zákazníkom na HelpDesk a prevzatím incidentu
+príslušným riešiteľom.
+
+•
+
+„Doba vyriešenia” je najneskorší čas, dokedy je Poskytovateľ povinný vyriešiť incident, t.j. od jeho
+preukázateľného nahlásenia (zaevidovania požiadavky na HelpDesku) do doby, kedy je služba znovu
+obnovená v plnom rozsahu, alebo bolo akceptované náhradné riešenie. Tento čas plynie iba počas doby
+riešenia u Poskytovateľa, čas sa zastavuje počas doby dopĺňania podkladov alebo popisu chyby
+Zákazníkom, alebo treťou stranou manažovanou Zákazníkom.
+
+•
+
+„Dostupnosť služby”. Vždy sa za takúto dobu považuje čas od 0.00 hod. do 23.59 hod. počas
+pracovných dní v týždni, vrátane dní pracovného pokoja a štátnych sviatkov (t.j. 24x7x365)
+
+20
+
+•
+
+„Náhradné riešenie” je riešenie, ktoré nahradí poskytovanú Službu do doby opravy pôvodných
+prostriedkov potrebných na funkcionalitu Služby. Náhradné riešenie je poskytnuté na dohodnutý, alebo
+nevyhnutný čas.
+
+Pre služby sú definované takéto SLA pre produkčné prostredie:
+•
+
+Help Desk je dostupný cez telefón, email alebo aplikáciu Datacentra na hlásenie incidentov (HP Service
+Manager),
+
+•
+
+dostupnosť podpory 8x5 (8 hodín x 5 dní od 8:00h do 16:00h počas pracovných dní),
+
+•
+
+označenie naliehavosti incidentu:
+Označenie
+naliehavosti
+incidentu
+
+Závažnosť
+incidentu
+
+Popis naliehavosti incidentu
+
+A
+
+Kritická
+
+Kritické chyby, ktoré spôsobia úplné zlyhanie systému ako
+celku a nie je možné používať ani jednu jeho časť.
+
+B
+
+Vysoká
+
+C
+
+Stredná
+
+D
+
+Nízka
+
+•
+
+možný dopad:
+Označenie
+incidentu
+
+závažnosti
+
+Chyby a nedostatky, ktoré zapríčinia čiastočné zlyhanie
+systému a neumožňuje používať časť systému.
+Chyby a nedostatky, ktoré spôsobia čiastočné obmedzenia
+používania systému.
+Kozmetické a drobné chyby.
+
+Možný dopad
+
+2
+
+katastrofický dopad, značný finančný
+dopad, alebo nevratná strata dát
+značný dopad alebo strata dát
+
+3
+
+malý dopad alebo strata dát
+
+1
+
+Výpočet priority incidentu je kombináciou dopadu a naliehavosti v súlade s bestpractices IT Service managementu
+uvedeného v ITIL V3 v nasledovnej matici:
+
+značný
+
+Malý
+
+Kritická – A
+
+Dopad
+katastrofick
+ý
+1
+
+2
+
+3
+
+Vysoká – B
+
+2
+
+3
+
+3
+
+Stredná – C
+
+2
+
+3
+
+4
+
+Nízka – D
+
+3
+
+4
+
+4
+
+Matica priority incidentov
+
+Naliehavosť
+
+•
+
+Požadované reakčné doby a doby vyriešenia:
+Priorita incidentu
+
+Doba odozvy
+
+Doba vyriešenia incidentu
+
+1
+
+1 hod.
+
+1 pracovný deň
+
+2
+
+2 hod.
+
+2 pracovné dni
+
+21
+
+•
+
+3
+
+1 pracovný deň
+
+5 pracovných dní
+
+4
+
+2 pracovné dni
+
+15 pracovných dní
+
+Za odstránenie chyby sa považuje aj nasadenie dočasného náhradného riešenia umožňujúceho
+pokračovať v prevádzke.
+
+Vyššie uvedené SLA parametre nebudú použité pre nasledovné služby:
+
+
+Služby systémovej podpory na požiadanie (nad paušál)
+
+
+Služby realizácie aplikačných zmien vyplývajúcich z legislatívnych a metodických zmien
+(nad paušál)
+Pre tieto služby budú dohodnuté osobitné parametre dodávky definované priamo pri objednaní služby.
+
+22
+
+3.2. Požadovaná dostupnosť systému MetaIS
+Poskytovateľ zabezpečí dostupnosť a funkčnosť produkčného MetaIS a integrácie na súvisiace systémy
+nasledovne:
+Popis
+Parameter
+Poznámka
+Prevádzkové hodiny podpory
+8 hod.
+8:00 -16:00 počas pracovných dní
+Servisné okno
+11 hod.
+20:00 – 7:00 počas pracovných dní
+24 hod.
+0:00 – 23:59 počas dní pracovného
+pokoja a štátnych sviatkov
+Dostupnosť IS
+98,91%
+z 24/7/365
+Neplánovaný výpadok
+96 hod.
+celkový výpadok
+32 hod.
+počas hodín podpory od 8:00 do
+16:00
+4 dni.
+celkový výpadok v prac. Dňoch
+Súvislý neplánovaný výpadok
+2 dni
+v pracovných dňoch
+3.3. Požadované parametre služieb aplikačnej podpory – servisné služby vzťahujúce sa na testovacie
+prostredie IS MetaIS
+Parametre SLA pre testovacie prostredie, hlavne požadované doby reakcie a vyriešenia ako aj dostupnosti systému
+na testovacom prostredí sa riadia parametrami ako sú uvedené v bode 3.1 a 3.2 pre produkčné prostredie, ak sa
+obe strany nedohodnú písomne inak.
+4. Popis MetaIS
+MetaIS je výstupom projektu, ktorý bol realizovaný na základe Zmluvy o dodávke komponentov
+komunikačných procesov a procesov správy dát pre eGov služby patriacich do kompetencie MF SR.
+MetaIS sa skladá z viacerých modulov. Dostupnosť jednotlivých modulov a aj systému ako celku je určujúci
+faktor pre stanovenie prevádzkových metrík a sledovanie ich dodržiavania.
+MetaIS má v súčasnosti 400 aktívnych používateľov, s očakávaným nárastom o 370 budúcich používateľov v roku
+2017 a s následným predpokladom každoročného zvyšovania počtu cca o 5 % (kapacita IAM je dimenzovaná na
+5000 používateľov).
+Počet povinných osôb – správcov ISVS - je nasledovný
+-
+
+51 povinných osôb typu štátna správa,
+
+-
+
+8 povinných osôb typu samosprávne kraje,
+
+-
+
+Datacentrum elektronizácie územnej samosprávy, ktoré prenajíma služby cca 2200 obciam,
+
+-
+
+60 povinných osôb typu obce a mestá.
+
+4.1. CMDB
+CMDB je možné chápať aj ako správu konfigurácií (nastavení atribútov a vzťahov medzi nimi) daných
+komponentov. Tento pojem definuje aj metodika ITIL, ktorá chápe CMDB ako komplexný repozitár údajov o
+prevádzke všetkých IT komponentov (koncové služby, aplikačné služby, informačné systémy verejnej správy,
+informačné systémy, architektúra, hw, sw, licencie, SLA..), ktoré podporujú biznis činnosti danej organizácie.
+Sú tu uložené kľúčové údaje vrátane historických zmien. Keďže tieto informácie sú na jednom mieste a ich
+pravdivosť je garantovaná príslušným biznis vlastníkom, je možné vykonávať nad nimi rôzne procesy (správa
+životného cyklu daných komponentov, správa aplikačnej a infraštruktúrnej architektúry (integrácie, kapacitné
+plánovanie), change manažment, analýza dopadov a podobne.
+Jednotlivé položky CMDB sa nazývajú aj konfiguračne položky - CI [Configuration Items]. CI môžu byť
+rôzneho typu a môžu mať rôzne vlastnosti. Každá CI má svojho (biznis) vlastníka, ktorý garantuje správnosť
+uložených hodnôt (napr. CI typu Licencia má správcu licenčného manažéra, ktorý garantuje správnosť údajov
+o licenciách). Každá CI má svoj jedinečný ID (identifikátor), ktorý je unikátny v rámci celej CMDB.
+23
+
+Veľkou pridanou hodnotou CMDB je práve uchovávanie relácií (vzťahov) medzi týmito CI. Tieto relácie
+môžu byť rôzneho typu, môžu mať rôzne atribúty a v čase sa môžu meniť. Pomocou takýchto komplexných
+relácií je možné zachytávať reálny obraz jednotlivých komponentov danej organizácie (napr. pre celý
+eGovernment).
+CMDB umožňuje jednoducho definovať nové typy CI, a relácii, t.j. je flexibilná voči požiadavkám danej
+organizácie aj do budúcnosti. Z tejto flexibility vyplýva, že CMDB nemá dopredu stanovený tzv. “dátový model”,
+ale má len určité (biznis) pravidla, ktoré si nadefinujú príslušní (biznis) vlastníci jednotlivých CI. Následne CMDB
+vyžaduje dodržiavanie týchto pravidiel, aby sa zabezpečila určitá konzistencia uložených údajov.
+Keďže CMDB je základom pre kolaboráciu príslušných biznis vlastníkov, vyplýva z toho, že úplná
+konzistencia údajov nemusí byť splnená okamžite, ale je až výsledkom kolaboračných workflows (napr. proces
+dizajnu enterprise architektúry spolu s infraštruktúrou a licenciami. Následne je možné nad takýmito údajmi
+vykonať špecifické kontroly, a to manuálne (t.j. vlastník sám vizuálne skontroluje korektnosť údajov) alebo
+automatické (pomocou nadefinovaných algoritmov/pravidiel). Treba ešte raz zdôrazniť, že konečnú
+zodpovednosť za korektnosť a konzistenciu údajov nesú príslušní biznis vlastníci povinných osôb – správcovia
+ISVS.
+4.2. Modelovanie Enterprise architektúry
+Účelom nástroja pre modelovanie EA architektúry je poskytnutie prostriedku, ktorý umožní realizovať
+architektonickú víziu pre informatizáciu verejnej správy do roku 2020 a odstránenie súčasných
+architektonických nedostatkov, a prostredníctvom architektonickej kancelárie verejnej správy koordinovať a
+dohladovať elektronizáciu verejnej správy a automatizáciu optimalizovaných a integrovaných procesov výkonu
+verejnej moci.
+Problémom pri budovaní architektonickej schopnosti je správa vyprodukovaných výstupov a relevantných
+informácií.
+Z toho bol vytvorený a je spravovaný spoločný architektonický repozitár, ktorý predstavuje spoločný zdroj
+informácií a dát. Správcom a vlastníkom repozitára je architektonická kancelária verejnej správy.
+Nástroj umožňuje používateľovi modelovanie enterprise architektúry VS SR v rámci MetaIS. Na
+modelovanie sa používa modelovací jazyk ArchiMate.
+4.3. Modul Administračné rozhranie MetaIS
+MetaIS poskytuje konfiguráciu a administráciu konfiguračných parametrov platných pre celý systém alebo
+len pre jednotlivé moduly systému z centrálneho miesta. Tento modul umožňuje administrátorovi spravovať
+prostredie administračného rozhrania, najmä:
+•
+
+Správa používateľov, povinných osôb a rolí - umožňuje vytvárať a upravovať používateľov, povinné
+osoby a roly,
+
+•
+
+Správa entít, vzťahov, profilov atribútov a atribútov - umožňuje spravovať existujúce entity a vzťahy
+v systéme a taktiež definovať nové,
+
+•
+
+Správa interných číselníkov - umožňuje upravovať a pridávať nového hodnoty interných číselníkov
+ako aj vytvárať úplne nové číselníky,
+
+•
+
+Správa zostáv - umožňuje upravovať existujúce a definovať nové zostavy generované z MetaIS.
+
+4.4. Zdieľané úložisko - Sharepoint
+Účelom úložiska je ukladanie a zdieľanie dokumentácie a Enterprise architektúry verejnej správy.
+Sharepoint umožňuje prihláseným používateľom spoločnú kolaboráciu nad dokumentáciou a jej následné
+zdieľanie. Časť úložiska je prístupná na čítanie aj pre verejnosť, kde môžu byť umiestňované rôzne verejne
+prístupné dokumenty.
+4.5. Aplikačný systém programového riadenia (ASPR)
+Aplikačný systém programového riadenia, ďalej len „systém“, je aplikačným nástrojom, ktorý pomáha
+organizácii sprehľadniť stav riadenia projektov, programov a portfólií. Úlohou systému je v každodennom
+projektovom živote poskytovať svojim užívateľom nasledovné prínosy:
+•
+
+Spravovanie projektov na jednom mieste (centralizácia).
+24
+
+•
+
+Poskytovanie aktuálnych informácií online a v reálnom čase.
+
+•
+
+Manažérske prehľady a reporty uľahčujúce rozhodnutia.
+
+•
+
+Štandardizované registre, číselníky a správu projektových dát.
+
+•
+
+Automatizáciu procesov, vrátane proaktívnych notifikácií.
+
+•
+
+Prehľadné plánovanie a evidovanie progresu úloh vrátane sledovania závislostí medzi projektami.
+
+4.6. Moduly MetaIS
+4.6.1. MODUL EGOV KOMPONENTY
+Správa životného cyklu eGov komponentov predstavuje funkcionality o komponentoch eGovernmentu,
+ktorá je riadená komponentom CMDB s príslušnou logikou podľa pravidiel (viď. časť o CMDB). Jednotlivé eGov
+komponenty je možné vytvárať v nástroji na modelovanie EA architektúry a následne ich preniesť a doplniť o
+ďalšie údaje vo webovom rozhraní MetaIS. Rovnakým spôsobom funguje aj opačný prenos, kde môže
+používateľ položky vytvárať vo webovom rozhraní a následne vykonať prenos do nástroja na modelovanie EA
+architektúry, kde je možné vytvárať modely z daných položiek.
+Na používateľskom portáli MetaIS, je možné vytvárať nasledujúce eGov komponenty:
+•
+
+Informačný systém verejnej správy,
+
+•
+
+Koncová služba,
+
+•
+
+Proces,
+
+•
+
+Aplikačná služba,
+
+•
+
+Celkové náklady na vlastníctvo,
+
+•
+
+Monitoring.
+
+4.6.2.
+
+MODUL KRIS, ŠTÚDIE, PROJEKTY
+
+•
+KRIS
+Koncepcie rozvoja informačných systémov obsahujú špecifickú logiku zobrazovania a správy životného
+cyklu koncepcií rozvoja informačných systémov verejnej správy. Koncepcie sa skladajú z modelu údajov
+poskladaného z databázy MetaIS a jeho zobrazenia v architektonickom modeli a vygenerovanie v špecifickom
+PDF dokumente. Umožňuje spracovanie KRIS, generovanie dokumentu KRIS, autorizáciu, odoslanie na
+hodnotenie, hodnotenie a schválenie.
+•
+Štúdie uskutočniteľnosti
+Štúdie uskutočniteľnosti pozostávajú z špecifickej biznis logiky čítania údajov v databáze MetaIS, ich
+vizualizácie v Confluence a následnej správe životného cyklu štúdie vrátane procesov schvaľovania a
+elektronického podpisu.
+•
+Projekty
+Projektom budovania alebo rozvoja informačného systému verejnej správy sa rozumie produkt, ktorým sa
+vopred definuje informačný systém verejnej správy, jeho úprava alebo zmena. MetaIS umožňuje zaevidovať
+projekt s ISVS, ktoré správca rozvíja alebo buduje. Správca môže cez projekt evidovať fázy životného cyklu
+projektu, finančné informácie, integračné väzby, služby vyvíjané v rámci projektu a vzťah k programu.
+Programom je skupina projektov riadených koordinovaným spôsobom za účelom dosiahnutia spoločného cieľa
+a zvýšených prínosov a umožnenia efektívnej kontroly projektov a efektívneho riadenia projektov, čo nie je
+možné dosiahnuť, ak by sa projekty riadili samostatne.
+4.6.3.
+
+MODUL INTEGRÁCIE A SLA
+
+•
+Integrácie
+Modul realizuje evidenciu a správu integrácií medzi jednotlivými ISVS od využitia údajov zakreslených v
+architektúre až po vytvorenie návrhu dohody schválenej, pripomienkovanej a podpísanej oboma integrujúcimi
+sa stranami. Modul taktiež obsahuje aj podporu evidencie dohody inštitúcie s dodávateľom.
+25
+
+•
+SLA
+MetaIS umožňuje zadávať SLA parametre pre aplikačné a koncové služby, vytvoriť, pripomienkovať
+a schvaľovať integračnú SLA a SLA s dodávateľom.
+4.6.4. MODUL IKT
+MetaIS poskytuje nástroj na evidenciu IKT, sumarizáciu existujúcich a plánovaných stavov celého IKT
+verejnej správy.
+•
+
+Správa IKT
+
+•
+
+V rámci správy IKT používateľ vykonáva evidenciu a správu aplikačných a technologických
+komponentov. Migrácia IKT
+Migrácia IKT predstavuje proces prechodu povinných osôb na využívanie služieb štátneho cloudu, za
+účelom dosiahnutia úspor v oblasti prevádzky IKT. V rámci tejto časti používateľ zadáva prostriedky, ktoré budú
+súčasťou migrácie, vyberá služby zo štátneho cloudu a zadáva ďalšie relevantné údaje potrebné na realizáciu
+migrácie.
+4.6.5.
+
+MODUL ŠTANDARDIZÁCIA A DÁTOVÉ OBJEKTY
+
+•
+Štandardizačný proces
+Na Slovensku existuje viac druhov štandardov. Jedným druhom sú štandardy pre ISVS, ktoré sú v
+kompetencii ÚPPVII. Existujú aj iné štandardy (napríklad zdravotnícke štandardy v kompetencii Ministerstva
+zdravotníctva SR). Ak nie je uvedené inak, tak pod termínom štandard chápeme štandard ISVS.
+V MetaIS sú implementované nástroje, ktoré slúžia na podporu procesov zavádzania štandardov IS VS.
+Modul umožňuje:
+•
+Management členov štandardizačných komisií.
+Podpora životného cyklu zavádzania štandardov
+i. podpora evidencie zasadnutí štandardizačných komisií
+ii. podpora hlasovania
+iii. kolaboračný nástroj nad štandardom (spracovanie, komentáre, pripomienkovanie,
+porovnanie verzií, uzavretie pripomienkovania, )
+iv. schvaľovací proces
+v. publikovanie štandardov
+Referencovateľné identifikátory
+Pre zavedenie sémantického (významového) webu je nutné štandardizovať jednotný referencovateľný
+identifikátor ako identifikátor ľubovoľných logických a fyzických objektov tvorený jednotným spôsobomNa každý
+z týchto objektov existuje možnosť spracovať návrh URI, zadať žiadosť na zaregistrovanie URI, zaradiť návrh
+do štandardizačného procesu, priradiť ho pracovnej skupine pre dátové štandardy na pripomienkovanie,
+hlasovanie, ďalej na schválenie a publikovanie.
+•
+Referenčné registre
+Referenčným údajom je údaj objektu evidencie, ktorý je uvedený zozname referenčných registrov. V § 49
+až 55 zákona o eGovernmente sa ustanovujú povinnosti subjektov vo vzťahu k referenčným údajom.
+Cieľom zavedenia referenčných registrov je umožniť zdieľanie a využívanie údajov medzi informačnými
+systémami orgánov verejnej moci a ich poskytovanie pre právne účely. Prostredníctvom referenčných registrov
+bude zabezpečené aby fyzické a právnické osoby nemuseli predkladať pre účely konania informácie, ktoré sú
+už vedené v referenčných registroch (princíp „jedenkrát a dosť“). Ak orgány verejnej moci pre výkon verejnej
+moci potrebujú údaje o subjektoch evidencie, ktoré sú referenčnými údajmi, potom ich musia získavať z
+referenčných registrov.
+Pre zápis údajov z registra do zoznamu referenčných registrov je rozhodujúce, či je údaj objektu evidencie
+vo vzťahu k subjektu evidencie jedinečný, t.j. či sa tento údaj nespravuje v inom referenčnom registri alebo v
+iných registroch orgánov verejnej moci. Súčasne musí ministerstvo posúdiť či v registri, v ktorom sú tieto údaje
+vedené sú tieto údaje evidované pri ich vzniku, zmene alebo zániku a súčasne či s touto evidenciou sú spojené
+právne účinky k tretím osobám.
+26
+
+Modul podporuje spracovanie návrhov referenčných údajov, pripomienkovanie a publikovanie
+referenčných údajov vo väzbe na referenčné registre. Podporuje previazanie s modulom Štandardy. Takisto
+umožňuje evidovať zoznam PO, ktoré majú prístupy k údajom referenčného registra a evidovať služby, ktoré
+poskytujú referenčné údaje z referenčného registra.
+•
+Základné číselníky
+Dátová štruktúra základných číselníkov je definovaná prílohou č. 13 k výnosu MF SR č. 55/2014 Z.z. o
+štandardoch pre ISVS. V prílohe č. 13 sú definované dátové prvky na popis základného číselníka, a to v časti
+D.5 Základný číselník a D.5.9 Položka číselníka, vrátane D.3.4 a D.3.5.
+Povinná osoba, ktorá je gestorom základného číselníka, vydáva položky základného číselníka
+zverejnením prostredníctvom MetaIS – Modulu Základné číselníky.
+Modul podporuje spracovanie návrhov na zaradenie číselníkov do zoznamu základných číselníkov,
+spracovanie návrhov položiek číselníka, pripomienkovanie a publikovanie základných číselíkov.
+4.6.6. MODUL KONTROLY
+Modul kontroly predstavuje biznis funkcionalitu umožňujúcu evidenciu a správu životného cyklu kontrol na
+mieste vykonávaných sekciou informatizácie MFSR ako aj evidenciu zistení a s tým spojených atribútov.
+4.6.7. MODUL LICENCIE
+Oblasť správy licencií slúži na evidenciu aj podporu pri nákupe licencií.
+Povinná osoba ako majiteľ licencií, zadáva aktuálny stav zakúpených licencií. Ku každej z licencií sa
+eviduje zmluva, podľa ktorej bola licencia objednaná, eviduje sa ovládaná osoba, ktorá danú licenciu používa,
+dátum ukončenia platnosti licencie/podpory a ďalšie parametre.
+Súčasťou modulu je aj podpora procesu objednania licencií ovládanými osobami.
+4.7. Integrácie MetaIS s inými ISVS
+MetaIS poskytuje open API na integráciu aplikačných služieb MetaIS pre externé ISVS na základe
+zverejneného Integračného manuálu.
+V súčasnosti sú na MetaIS integrované nasledovné systémy:
+•
+
+Modul úradnej komunikácie (CSRÚ) ako konzument základných číselníkov a referenčných registrov.
+
+•
+
+Ústredný portál verejnej správy ako konzument katalógu koncových služieb, informačných systémov
+verejnej správy, základného číselníka úsekov a agend, a základného číselníka životných situácií,
+
+•
+
+MetaIS ako konzument služieb spoločného modulu Ústredného portálu verejnej správy IAM, MetaIS
+ako konzument služieb eDemokracia a otvorená vláda na publikovanie otvorených datasetov
+z MetaIS,
+
+•
+
+MetaIS ako konzument služieb Modul úradnej komunikácie dátová časť (CSRÚ) referenčných údajov
+o právnických osobách z RPO.
+
+4.8. Architektúra riešenia a infraštruktúra MetaIS
+Základná architektúra MetaIS je v značnej miere ovplyvnená technologickými požiadavkami na samotný
+MetaIS:
+
+
+24x7 dostupnosť,
+
+
+
+spoľahlivosť,
+
+
+
+horizontálnu škálovateľnosť,
+
+
+
+bezpečnosť.
+
+27
+
+Obr. 1 Základná architektúra MetaIS
+
+28
+
+MetaIS je prevádzkovaná na IaaS službách vládneho cloudu, situovanom v DataCentre (Kopčianska, Bratislava).
+
+Obr. 2Infraštruktúra MetaIS
+
+Nasledujúci obrázok (Obr. 3) znázorňuje, z akých častí sú jednotlivé prostredia prevádzky vytvorené, do
+akej VLAN sú jednotlivé časti prevádzok zapojené a ako medzi sebou jednotlivé časti komunikujú.
+Technický návrh znázorňuje priradenie serverov do jednotlivých VLAN podľa typov (tzv. horizontálne
+rozdelenie) ako aj rozdelenie VLAN vertikálne po jednotlivých prostrediach (testovacie a produkčné).
+Používatelia systému (Administrátor MetaIS, Podpora, Administrátor Prevádzkovateľa MetaIS) pristupujú
+k DC cez VPN - zabezpečený kanál cez Internet a VPN koncentrátor v riešení architektúry. Komunikácia medzi
+DC a ÚPVS, IS VS je riešená pomocou Internetu alebo GovNetu - komunikácia na úrovni HTTPS protokolu,
+SSL offload rieši softwarový loadbalancer. Architektonická kancelária má možnosť pristupovať k centrálnemu
+repozitáru EA Tool-u pomocou zabezpečeného HTTPS rozhrania. Neautentifikovaný klient má možnosť
+pristupovať k verejne dostupným informáciám CMDB. Autentifikovanému klientovi je umožnený prístup do
+CMDB s možnosťami editácie a vytvárania nových objektov – konfiguračných položiek.
+Podpora prevádzky systému má možnosť pristúpiť k jednotlivým serverom a operatívne analyzovať a riešiť
+prípadné požiadavky a problémy. Prístup v tomto prípade je rovnako zabezpečený cez VPN a monitorovaný v
+zmysle interných predpisov DC.
+
+29
+
+Obr. 3 Technická architektúra
+Architektúra riešenia MetaIS vzhľadom na svoju funkčnosť je tvorená komplexnou množinou
+komponentov, z ktorých každý pokrýva vybranú funkčnú oblasť.
+Web Portál
+
+CMDB
+
+Jadro CMDB
+
+Reporting
+
+Správ a
+základných
+císelníkov
+
+Site pre CMDB
+
+Site pre
+štandardy
+
+Site pre kontroly
+MFSR
+
+Site pre
+publikov anie EA
+modelov
+
+A
+
+Site pre
+číselníky
+
+(from Architektúra riešenia - komponentový model)
+(from Architektúra riešenia - komponentový model)
+Integračná platforma
+
+EA nástroj e
+
+Nástroj pre EA
+modelov anie
+
+EA repozitár
+
+(from Architektúra riešenia - komponentový model)
+
+Interná integrácia
+
+(from Architektúra riešenia - komponentový model)
+Správ a užív atelov , rolí, prístupov
+
+Monitoring eGov komponentov
+IAM
+
+Spúštanie
+monitorov acích
+scriptov
+
+Monitorov anie
+eGov
+komponentov
+(v yhodnocov anie
+SLA,..)
+
+Externá
+integrácia
+
+Repozitár
+užív atelov ,rolí,..
+
+(from Architektúra riešenia - komponentový model)
+
+(from Architektúra riešenia - komponentový model)
+
+Obr. 4 Komponentový model
+Architektúra MetaIS pozostáva z nasledujúcich funkčných modulov:
+DMS
+Systém pre správu dokumentov (DMS) je používaný pre sledovanie a ukladanie elektronických
+dokumentov. Poskytuje bežne ukladanie, verzionovanie, metadáta, bezpečnosť, rovnako ako indexovanie a
+vyhľadávanie možností. V rámci MetaIS sa používa ako služba, konzumovaná aplikačnou vrstvou.
+Na zdieľanie dokumentov aj naďalej môžu pracovníci OVM používať Microsoft Sharepoint server.
+Webový portál
+Jednotlivé zložky webového portálu sú postavené na otvorených technológiách s použitím moderných
+dostupných nástrojov pre ľahšiu orientáciu a používanie. Portál podporuje responzívny design (design
+automaticky sa prispôsobiac veľkosti a rozlíšeniu zariadenia, podpora pre tablety a iné mobilné zariadenia).
+Dôraz pri UX designe sa kladie hlavne na jednoduchosť používania a dobrý používateľský zážitok, a je
+podporený aj používaním tzv. wizardov s popisom typického spôsobu používania. Podporované je aj
+automatické dopĺňanie textu pri vyhľadávaní prípadne pri voľbe zo zoznamu položiek.
+30
+
+Webový portál MetaIS je tvorený:
+
+
+
+
+modulmi pre prácu nad BPM procesmi
+modulom pre publikovanie schválených štandardov
+modulom pre publikovanie EA modulov
+
+Moduly pre jednotlivé BPM procesy sú dostupné používateľom v rolách pre kolaboráciu na danom
+procese.
+Celý web portál je prístupný verejnosti v rozsahu podľa našpecifikovaných rolí. Každá stránka obsahuje
+vyhľadávací komponent. Výsledky vyhľadávania sú filtrované podľa role prihláseného používateľa.
+Modul pre prácu s BPM procesmi
+Každý BPM proces je pokrytý sadou web stránok, ktoré umožňujú prácu na riešení daného procesu.
+Modul pre publikovanie schválených štandardov
+Štandardy sú po schválení publikované prostredníctvom CMS nástroja.
+Modul pre publikovanie EA modulov
+EA modul umožňuje vyexportovať obsah do html. Tento obsah je možné vypublikovať cez tento modul
+(prenášanie údajov medzi EA nástrojom a CMDB s publikovaním html EA modulu).
+CMS
+
+CMS - content management system, systém pre správu obsahu. Manažuje (riadi), spravuje, archivuje,
+často aj pomáha zostavovať obsah a dáva tento obsah k dispozícii na prezentovanie. Pod "obsahom" sa myslí
+ľubovoľný elektronický obsah, t.j. záznamy, dáta, metadáta, dokumenty, webové stránky, obrázky, zvukové
+súbory a pod. V rámci MetaIS sa CMS používa pre proces Podpora životného cyklu štandardov. Predseda
+štandardizačnej komisie pomocou CMS nástrojov upravuje spôsob zobrazenia informácií o štandardoch.
+CMS slúži na vytvorenie návrhu štandardu vo forme „wiki“. Tento návrh môžu pripomienkovať členovia
+SK ISVS resp. PS, ktorej je daný návrh priradený. Definované roly môžu tieto pripomienky zapracovať do
+aktuálneho návrhu.
+BPM
+BPM je časťou operačného manažmentu, ktorá sa sústreďuje na optimalizáciu biznis procesov. BPM
+tvorí prepojenie medzi ľudskými aktivitami a technologickým riešením. Biznis procesy v rámci organizácie sú
+modelované do BPM procesov v rámci daného softvérového riešenia. Základnými časťami BPM riešenia sú:
+
+
+Procesné jadro (Process engine) – je robustná platforma na modelovanie a vykonávanie aplikácií
+založených na procesoch, tento komponent pracuje na základe biznis pravidiel
+ Biznis analytika –identifikuje nedostatky procesov, vyhľadáva trendy a umožňuje monitoring procesov
+ Nástroje na kolaboráciu – rozširujú možnosti pre komunikáciu.
+BPM prináša riešenie v nasledujúcich oblastiach:
+
+
+
+
+
+
+Manažovanie celých procesov (tzv. end-to-end) v podobe orientovanej na zákazníka
+Konsolidácia dát a zvýšenie ich prehľadnosti a vzájomnej previazanosti
+Zvýšenie flexibility a využitia aktuálnej infraštruktúry
+Integrovanie s existujúcimi systémami
+Vytvorenie všeobecného jazyka, ktorý popisuje procesy tak, že mu chápu všetci aktéri rovnako.
+Implementovaním BPM v rámci MetaIS je dosiahnuté optimalizovanie procesov a zlepšenie možností
+kolaborácie medzi aktérmi. Na základe identifikovaných biznis procesov je zadefinovaná základná skupina
+biznis pravidiel, ktoré musia spĺňať entity v rámci CMDB. Biznis pravidlá sú aplikované v rámci procesu v
+prípade, že sa menia entity (vytváranie, zmena) v CMDB.
+Integračná vrstva
+Integračná vrstva implementuje vstupné a výstupné rozhranie na CMDB. Integračná vrstva zabezpečuje
+jednotné rozhranie medzi aplikačnou vrstvou, prezentačnou vrstvou a ostatnými aplikáciami. Vo všeobecnosti
+je na aktívne operácie nad CMDB (vytváranie, zmena, výmaz) použitý asynchrónny vzor komunikácie. Pasívne
+operácie (čítanie) komunikujú cez synchrónny vzor.
+31
+
+Zostavy
+
+Sumárne informácie o dátach obsiahnutých v MetaIS sú dostupné v dvoch formách. Jednou je grafické
+znázornenie, ktoré vizualizuje vzťahy medzi entitami v rámci MetaIS. Druhou je sumarizácia v podobe
+textových tabuliek. Grafická forma sumárnych informácií funguje obdobne ako grafická konzola nad Neo4j.
+Používatelia s dostatočným oprávnením môžu písať vlastné cypher dotazy nad MetaIS. Tieto sú následne
+sprístupňované používateľom s nižšími právami. Používateľ s nižšími právami môže v rámci predpripraveného
+dotazu meniť len hodnoty parametrov, nie štruktúru dotazu. Výstupom takéhoto dotazu je grafické znázornenie
+vzťahov medzi entitami vo forme grafu. Pre textovú formu sú zadefinované zostavy, ktoré poskytujú
+používateľom týchto zostáv informácie o danej oblasti MetaIS. Tieto zostavy sú buď spúšťané na požiadanie
+alebo sú vytvárané v pravidelných plánovaných intervaloch.
+Rovnako ako v prípade výstupu v grafickej forme, je možné rovnakým spôsobom vytvárať, spúšťať a
+delegovať vlastné cypher dotazy, ktorých výstupom sú informácie v podobe textových tabuliek. Výstupom
+komponenty na reportovanie v textovej forme je získanie príslušných informácií v základnom tvare ako je
+napríklad HTML tabuľka.
+
+Import a Export
+Pre účely hromadného spracovania dát systém MetaIS poskytuje funkcionalitu importu a exportu
+vybraných objektov vo formátoch XLSX, CVS a XML..
+Generovanie dokumentov
+V rámci MetaIS je vybudovaný mechanizmus na generovanie dokumentov na základe údajov z CMDB.
+Ide o nasledujúce typy dokumentov:
+
+
+
+
+
+
+Štúdia uskutočniteľnosti
+Integračný Zámer (DIZ)
+KRIS
+Výstup analýzy stavu a potrieb IKT
+Harmonogram migrácie do cloudu
+Pre každý typ dokumentu existuje špeciálna šablóna, ktorá definuje rozloženie textov a samotných
+informácií z CMDB. Dokumenty sa dajú generovať do editovateľného aj needitovateľného formátu. V prípade
+výstupu do pdf v štandardnom formáte pre podpisovanie, je možné podpísať dokument KEP-om.
+IAM
+
+IAM je zvolený tak, aby čo najlepšie pokryl potreby MetaIS, a to najmä v oblastiach jednotného prístupu
+a zabezpečoval procesy týkajúce sa životného cyklu identity a riadenia prístupu k jednotlivým komponentom
+MetaIS.
+Modul IAM zabezpečuje služby pre:
+
+
+
+
+
+
+
+
+
+riadenie prístupu k jednotlivým komponentom a častiam informačného systému MetaIS
+správu identít a životného cyklu
+správu rolí pre MetaIS a jeho komponenty
+správu registra zastupovaní (poverení)
+autentifikáciu a autorizáciu používateľov
+evidenciu autentifikačných prostriedkov
+reporting audit
+monitoring
+Pre autentifikáciu používateľov pre portál a technických používateľov webovej služby je použitý protokol
+OpenID Connect, ktorý interne pracuje s protokolom OAuth2, ktorý slúži na autorizáciu, resp. presnejšie
+delegáciu prostriedkov. Autorizácia je zabezpečená pomocou špecifických rolí na základe ktorých sa jednotliví
+používatelia autorizujú na prístup ku jednotlivým komponentom a častiam informačného systému MetaIS.
+Modul IAM umožňuje vytvoriť organizačnú štruktúru manuálnym spôsobom. Organizačná štruktúra je tvorená
+organizačnými jednotkami a reláciami medzi nimi. Autentifikáciou rozumieme overenie koncového používateľa
+(resource ownera) cez webový prehliadač a technického používateľa pre zabezpečené volanie webovej
+služby.
+32
+
+Autentifikačné prostriedky sú nasledovné:
+
+
+
+
+Kerberos autentifikačný modul pre interné systémy na MFSR - využíva jednotné prihlasovanie (tzv. Single
+Sign On – SSO) vo Windows doméne.
+SAML autentifikačný modul pre externých používateľov prichádzajúcich z UPVS
+OAuth2 autentifikačný modul pre ostatných externých používateľov (meno / heslo)
+
+Obr. 5 Funkčné moduly MetaIS
+4.9. Technologické komponenty MetaIS
+Riešenie MetaIS je technologicky postavené na nasledovných technológiách:
+Technológia
+Verzia
+Popis
+IBM WebSphere Application
+8.X
+Aplikačný web server
+Server
+IHS
+8.X
+IBM http server
+Confluence
+5.X
+SW na tímovú spoluprácu
+Elastic search
+2.X
+Fulltextový vyhladávač pre real-time vyhľadávanie
+Jetty
+9.X
+WEB server pre Javu
+Neo4j
+2.X
+Grafová databáza
+BiZZdesign Architect klient
+4.X
+Nástroj na modelovanie enterprise architektúry
+BiZZdesign Architect plugin
+1.9.X
+Plugin pre integráciu EA klienta s CMDB
+BiZZdesign
+Architecture
+2.6.X
+Architektonický repozitár
+Repository (EMS)
+InSite Server, InSite API
+1.X
+Server-based data reporting nad EA repozitárom
+Zabbix
+2.X
+Monitorovanie systému
+33
+
+Microsoft SQL Server
+Oracle MySQL
+MongoDB
+IBM DB2
+Logstash
+Kibana
+Filebeat
+
+Microsoft SharePoint Server
+
+2012 SP3
+5.X
+3.X
+10.X
+2.X
+4.X
+1.X
+8.X
+8.X
+2.X
+9.X
+1.X
+1.1.X
+2.X
+Openswan
+U2.X
+2013
+
+Office Web Apps server
+
+2013
+
+Appache Tomcat
+Postfix
+Bind
+HaProxy
+PCS
+Piwik
+Pluto
+
+Relačný databázový softvér od Microsoftu
+Relačný databázový softvér od Oracle
+BSON databáza
+Relačná databáza
+Spracovanie auditných logov
+Vizualizácia auditných logov
+Zberač auditných logov
+Aplikačný web server
+Mail server
+DNS server
+Load balancing
+Správa virtuálnych IP
+Nástroj na analýzu prístupu na MetaIS
+VPN klient na prostredia UPVSFIX, slovensko.sk
+Kolaboračná platforma
+Online Office suite pre vizualizáciu a editáciu dokumentov
+v SharePoint-e
+
+CA Clarity PPM (Project Portfolio
+13.X
+Management)
+
+Aplikačný systém programového riadenia. Podporný
+nástroj pre správu, manažment a kontrolu projektov v
+rámci programu.
+
+CA SiteMinder
+
+12.X
+
+Single Sign-On pre CA Clarity PPM
+
+CA Bussiness Intelligence
+
+3.X
+
+Reporting pre CA Clarity
+
+4.9.1.
+IBM WEBSPHERE APPLICATION SERVER
+Táto technológia beží v clustri a cluster pozostáva z piatich inštancií na zvýšeniu dostupnosti MetaIS
+portálu, v prípade výpadku jednej inštancie. Na týchto serverov beží aplikačný server Websphere. Servery pre
+túto technológiu sú pomenované was1 – was5.
+Na tomto aplikačnom serveri bežia backend-ové aplikácie pre portál MetaIS:
+•
+
+bpm-engine
+
+•
+
+claim-manager
+
+•
+
+clarity
+
+•
+
+cmdb
+
+•
+
+cmdb-audit
+
+•
+
+codelist-repo
+
+•
+
+controls
+
+•
+
+dms
+
+•
+
+enums-repo
+
+•
+
+impexp-cmdb
+
+•
+
+kris
+
+•
+
+license
+
+•
+
+monitoring
+
+34
+
+•
+
+notification-engine
+
+•
+
+notification-manager
+
+•
+
+pdf-creator
+
+•
+
+provisioning
+
+•
+
+reference-registers
+
+•
+
+report
+
+•
+
+standards
+
+•
+
+tco
+
+•
+
+types-repo
+
+•
+
+user-config
+
+•
+validation
+Business moduly:
+•
+
+Administračné rozhranie MetaIS
+
+•
+
+Integrácie
+
+•
+
+Modul Kontroly
+
+•
+
+Modul KRIS, štúdie uskutočniteľnosti, projekty
+
+•
+
+Aplikačný systém programového riadenia
+
+•
+
+CMDB
+
+•
+
+Modul eGov komponenty
+
+•
+
+Modul IKT
+
+•
+
+Modul Licencie
+
+•
+
+Modul Štandardizácia a dátové objekty
+
+•
+
+Modul Integrácie a SLA
+
+4.9.2.
+IBM HTTP SERVER
+Táto technológia beží v clustri. Kde sú dva clustre po dvoch inštanciách na zvýšenie dostupnosti MetaIS portálu, v
+prípade výpadku jednej inštancie. Na týchto serveroch beží webový server IHS. A tiež slúži ako proxy server pre:
+•
+
+iam
+
+•
+
+integrácie
+
+•
+
+confluence
+
+•
+
+Piwik
+
+1. cluster: ihs1int a ihs2int
+Tento cluster zabezpečuje front end portálu MetaIS a to je beh web portálu a administračného prostredia. Na týchto
+inštanciách sú aplikácie ui pre web portál a admin-ui pre administračný portál.
+2. cluster: ihs1ext a ihs2ext
+Tento cluster zabezpečuje proxy server pre:
+•
+
+Confluence,
+
+•
+
+Microsoft Sharepoint 2013
+
+•
+
+Microsoft Office Web Apps
+
+•
+
+Clarity
+35
+
+•
+
+CA business intelligence
+
+•
+
+BDA/EMS
+
+•
+Zabbix
+Business moduly:
+•
+
+Modul Administračné rozhranie MetaIS
+
+•
+
+Modul CMDB
+
+•
+
+Modul eGov komponenty
+
+•
+
+Modul IKT
+
+•
+
+Modul Podpora správy licencií
+
+•
+
+Modul Podpora pre operatívne rozhodovanie (TCO)
+
+•
+
+Modul Podpora životného cyklu štandardov
+
+•
+
+Modul Registrácia referencovateľných identifikátorov
+
+•
+
+Modul Referenčné registre
+
+•
+
+Modul Základné číselníky
+
+•
+
+Modul KRIS
+
+•
+
+Modul Štúdie uskutočniteľnosti
+
+•
+
+Modul SLA a Monitoring
+
+•
+
+Modul Integrácie
+
+4.9.3.
+CONFLUENCE
+Táto technológia beží na server conf1 a ako aplikačný server používa Tomcat a samotný confluence. Je to nástroj
+na tvorbu dokumentov a kolaborácie. Komunikuje s modulom CMDB a slúži na zefektívnenie tímovej spolupráce.
+Business moduly:
+•
+
+Modul Podpora životného cyklu štandardov
+
+•
+
+Modul KRIS
+
+•
+
+Modul Štúdie uskutočniteľnosti
+
+4.9.4.
+ELASTIC SEARCH
+Elastic search je spustený v clustri a to na troch inštanciách na zvýšenie dostupnosti MetaIS portálu, v prípade
+výpadku inštancie. Elastic search beží na serveroch search1 – search 3. Táto databáza kvôli svojej rýchlosti sa
+používa na fulltextové vyhľadávanie a komunikuje priamo s aplikáciou cmdb.
+Business moduly:
+•
+
+Modul Administračné rozhranie MetaIS
+
+•
+
+Modul CMDB
+
+•
+
+Modul eGov komponenty
+
+•
+
+Modul IKT
+
+•
+
+Modul Podpora správy licencií
+
+•
+
+Modul Podpora pre operatívne rozhodovanie (TCO)
+
+•
+
+Modul Podpora životného cyklu štandardov
+
+•
+
+Modul Registrácia referencovateľných identifikátorov
+
+•
+
+Modul Referenčné registre
+36
+
+•
+
+Modul Základné číselníky
+
+•
+
+Modul KRIS
+
+•
+
+Modul Štúdie uskutočniteľnosti
+
+•
+
+Modul SLA a Monitoring
+
+•
+
+Modul Integrácie
+
+•
+
+Modul Integration
+
+•
+
+Modul Kontroly
+
+4.9.5.
+JETTY
+Jetty je aplikačný server a beží v dvoch cluster-och. Pre zvýšenie dostupnosti MetaIS portálu, v prípade výpadku
+inštancie.
+1. cluster pre iam:
+Tento cluster pozostáva z dvoch inštancií a bežia na serveroch iam1 a iam2.
+Aplikácie bežiace v clustri:
+•
+
+iam
+
+•
+iam-oidc
+Business moduly:
+•
+
+Modul Administračné rozhranie MetaIS
+
+•
+
+Modul CMDB
+
+•
+
+Modul eGov komponenty
+
+•
+
+Modul IKT
+
+•
+
+Modul Podpora správy licencií
+
+•
+
+Modul Podpora pre operatívne rozhodovanie (TCO)
+
+•
+
+Modul Podpora životného cyklu štandardov
+
+•
+
+Modul Registrácia referencovateľných identifikátorov
+
+•
+
+Modul Referenčné registre
+
+•
+
+Modul Základné číselníky
+
+•
+
+Modul KRIS
+
+•
+
+Modul Štúdie uskutočniteľnosti
+
+•
+
+Modul SLA a Monitoring
+
+•
+
+Modul Integrácie
+
+2. cluster pre integration
+Tento cluster pozostáva z piatich inštancií , ktoré bežia na serveroch was1 – was5.
+Aplikácie bežiace v clustri:
+•
+
+integration
+
+4.9.6.
+NEO4J
+Neo4j je grafová databáza. MetaIS portál obsahuje tri databázy cmdb, cmdb-history, iam, kde každá databáza beží
+v clustri v troch inštanciách na zvýšenie dostupnosti MetaIS portálu, v prípade výpadku jednej inštancie. Serveri
+pre túto technológiu Neo4j sú pomenované neodb1-neodb3.
+Business oblasť (cmdb a cmdb-history):
+•
+
+Modul CMDB
+37
+
+•
+
+Modul eGov komponenty
+
+•
+
+Modul IKT
+
+•
+
+Modul Podpora správy licencií
+
+•
+
+Modul Podpora pre operatívne rozhodovanie (TCO)
+
+•
+
+Modul Podpora životného cyklu štandardov
+
+•
+
+Modul Registrácia referencovateľných identifikátorov
+
+•
+
+Modul Referenčné registre
+
+•
+
+Modul Základné číselníky
+
+•
+
+Modul KRIS
+
+•
+
+Modul Štúdie uskutočniteľnosti
+
+•
+
+Modul SLA a Monitoring
+
+•
+Modul Integrácie
+Business oblasť (iam):
+•
+
+Modul Administračné rozhranie MetaIS
+
+•
+
+Modul Integrácie
+
+•
+
+Modul Integration
+
+•
+
+Modul ASPR (Aplikačný systém programového riadenia)/Clarity
+
+•
+
+Modul Zdieľané úložisko – Sharepoint
+
+•
+
+Modul CMDB
+
+•
+
+Modul eGov komponenty
+
+•
+
+Modul IKT
+
+•
+
+Modul Podpora správy licencií
+
+•
+
+Modul Podpora pre operatívne rozhodovanie (TCO)
+
+•
+
+Modul Podpora životného cyklu štandardov
+
+•
+
+Modul Registrácia referencovateľných identifikátorov
+
+•
+
+Modul Referenčné registre
+
+•
+
+Modul Základné číselníky
+
+•
+
+Modul KRIS
+
+•
+
+Modul Štúdie uskutočniteľnosti
+
+•
+
+Modul SLA a Monitoring
+
+4.9.7.
+BIZZDESIGN ARCHITECT KLIENT
+BDA klient - slúži hlavne pre AKVS (Architektonická kancelária verejnej správy) aby mohli koordinovať a dohladovať
+elektronizáciu verejnej správy a automatizáciu optimalizovaných a integrovaných procesov výkonu verejnej moci.
+Nástroj umožňuje používateľovi modelovanie enterprise architektúry VS SR v rámci MetaIS a ako modelovací jazyk
+sa používa ArchiMate.
+Business oblasť:
+•
+
+Modul modelovania Enterprise architektúry
+
+38
+
+4.9.8.
+BIZZDESIGN ARCHITECT PLUGIN
+BDA plugin - jeho hlavnou úlohou je prenesenie vytvoreného modelu do MetaIS. Tak isto pomocou tohto pluginu
+je možné importovať vytvorené položky v MetaIS do BDA modelu. Priradenie položky k modelu je vykonané v
+MetaIS a nasleduje import. V prípade vykonaných zmien v modely v BDA BDA plugin umožňuje vygenerovanie
+zostavy ktorá používateľa informuje o rozdieloch medzi modelom v BDA a MetaIS. Používateľ si ďalej môže nechať
+vygenerovať zostavu ktorá ho informuje o rozdieloch medzi modelom v MetaIS a modelom v BDA. BizzDesign
+Architect plugin sa nachádza na serveri eatool1
+Business oblasť:
+•
+
+Modul modelovania Enterprise architektúry
+
+4.9.9.
+BIZZDESIGN ARCHITECTURE REPOSITORY (EMS)
+EMS - predstavuje zdieľané úložisko vytvorených modelov. Podľa nastavených práv môžu Architekti pracovať
+nezávisle na seba na jednotlivých častiach modelov. Tieto zmeny sú evidované takže je možná spätná kontrola.
+BizzDesign Architect Repository sa nachádza na serveri eatool1
+Business oblasť:
+•
+
+Modul modelovania Enterprise architektúry
+
+4.9.10.
+PIWIK
+Piwik je open source nástroj pre analýzu návštevnosti internetovej stránky. Kde si môžeme prezerať napríklad aká
+bola návštevnosť za určité obdobie, odkiaľ užívateľ pristupoval a podobne. Je naprogramovaný v PHP a používa
+databázu MySQL. Ako web server sa používa Apache. Piwik beží na serveri mon1.
+Business oblasť:
+•
+
+technický monitoring
+
+4.9.11.
+ZABBIX
+Zabbix je monitorovací systém. Umožňuje sledovať stav servera na diaľku prostredníctvom webového prehliadača.
+Na jednom monitorovacom serveri môžeme monitorovať viacero serverov a je tu možnosť zobraziť výsledky v
+prehľadných grafoch. Pomocou tohto nástroja môžeme sledovať stav využitia CPU, pamäte, diskov, využitie
+swapu, heap memory, počet threadov, sledovanie využitia siete na server a podobne
+Všetky dáta v Zabbixe sa ukladajú do databázy MySQL. Ak dôjde ku kritickým hodnotám Zabbix podporuje
+notifikácie mailom.
+Business oblasť:
+•
+
+Technický monitoring
+
+4.9.12.
+MICROSOFT SQL SERVER
+MetaIS obsahuje dva nezávislé MS SQL servre a oba vo verzií MS SQL 2013 SP3. Servre pre túto technológiu sú
+sqldb1 a sqldb2.
+sqldb1:
+•
+
+METAIS obsahuje číselníky a rôzne konfiguračné dáta.
+
+•
+
+Confluence využívaná výhradne kolaboračným softvérom Confluence.
+
+•
+Repository obsahuje dáta repozitára, na ktorý sa pripája BizDesign Architect a EA-tool.
+Aplikácie pripojené na MS SQL:
+•
+
+bpm-engine
+
+•
+
+Clarity
+
+•
+
+Cmdb-audit
+
+•
+
+Codelist-repo
+
+•
+
+dms
+
+•
+
+enums-repo
+39
+
+sqldb2:
+
+•
+
+iam
+
+•
+
+iam-oidc
+
+•
+
+integration
+
+•
+
+kris
+
+•
+
+monitoring
+
+•
+
+notification-engine
+
+•
+
+notification-manager
+
+•
+
+report
+
+•
+
+standards
+
+•
+
+tco
+
+•
+
+types-repo
+
+•
+
+user-config
+
+•
+
+validation
+
+•
+
+Insite databáza využívaná Insite serverom BizDesign Architecta
+
+•
+Sharepoint 9 databáz využívaných integračnou platformou Sharepoint.
+Aplikácie pripojené na MS SQL:
+•
+
+Microsoft Office Web Apps 2013
+
+•
+
+Microsoft Sharepoint 2013
+
+•
+
+BDA/EMS
+
+4.9.13.
+ORACLE MYSQL
+Relačná databáza do ktorej ukladajú dáta monitorovacie systémy Zabbix a Piwik. MySQL beží na serveri mon1.
+Business oblasť:
+•
+
+databázy pre monitorovacie systémy Zabbix a Piwik
+
+4.9.14.
+MONGODB
+Mongo sa v MetaIS2 používa na ukladanie session pre iam cluster. Mongo sa nachádza na serveri db2. Mongo je
+databázový softvér ktorý ukladá dáta vo forme json-u vďaka tomuto formátu dát je rýchlejší ako klasické relačné
+databázy.
+aplikácie používajúce MongoDB:
+•
+iam-oidc
+Business oblasť:
+•
+
+Modul Administračné rozhranie MetaIS
+
+4.9.15.
+IBM DB2
+DB2 je relačná databáza a používa sa na ukladanie transakcií pre aplikačný server Websphere. IBM DB2 sa
+nachádza na serveri db2.
+Business oblasť:
+•
+
+Zabezpečuje transakčnosť JMS queue pre IBM Websphere
+
+4.9.16.
+AUDITNÉ LOGY
+Na auditné logy sa používa logstash, elastc search, kibana a filebeat.
+
+40
+
+Filebeat beží na serveroch was1 – was5 a na iam1-iam2. Filebeat je harvester, ktorý zbiera udalosti zo aplikačných
+logov. Sú to udalosti ktoré zachytávajú zmeny v systéme, ktoré vykonal užívateľ.
+Logstash slúži na spracovanie auditných logov a ukladá ich do elastic search. Nachádza sa na serveri audit1.
+Elastic search pracuje v clustri a cluster pozostáva z dvoch inštancií. Elastic search sa nachádza na serveroch
+auditdb1 a auditdb2 .
+Kibana je nástroj na vizualizáciu auditných logov. Dáta sú ťahané z elastic search. Kibana je na serveri audit1.
+Aplikácie ktoré používajú auditné logy:
+•
+
+bpm-engine
+
+•
+
+claim-manager
+
+•
+
+clarity
+
+•
+
+cmdb
+
+•
+
+cmdb-audit
+
+•
+
+codelist-repo
+
+•
+
+controls
+
+•
+
+dms
+
+•
+
+enums-repo
+
+•
+
+impexp-cmdb
+
+•
+
+kris
+
+•
+
+license
+
+•
+
+monitoring
+
+•
+
+notification-engine
+
+•
+
+notification-manager
+
+•
+
+pdf-creator
+
+•
+
+provisioning
+
+•
+
+reference-registers
+
+•
+
+report
+
+•
+
+standards
+
+•
+
+tco
+
+•
+
+types-repo
+
+•
+
+user-config
+
+•
+
+validation
+
+•
+
+iam
+
+•
+iam-oidc
+Business oblasť:
+•
+
+auditné logy
+
+4.9.17.
+APACHE TOMCAT
+Je aplikačný server pre confluence a BDA. Confluence sa nachádza sa na serveri conf1. Druhá verzia pre
+BDA/EMS sa nachádza sa na serveri eatool1.
+Aplikácie:
+•
+
+Confluence
+41
+
+•
+BDA/EMS
+Business oblasť
+•
+
+Modul Podpora životného cyklu štandardov, Modul KRIS, Modul Štúdie uskutočniteľnosti
+
+•
+
+Modul modelovania Enterprise architektúry
+
+4.9.18.
+POSTFIX
+Postfix je mailový server, ktorý je na serveri dns1. Tento mail server sa používa napríklad na rozposielanie mailov
+pre aktiváciu účtu, zasielanie správ o chybách a podobne.
+Aplikácie komunikujúce s postfixom:
+•
+
+cmdb
+
+•
+
+notification-manager
+
+•
+
+notification-engine
+
+•
+confluence
+Business oblasť:
+•
+
+Modul CMDB
+
+•
+
+Modul Podpora životného cyklu štandardov, Modul KRIS, Modul Štúdie uskutočniteľnosti
+
+4.9.19.
+BIND
+Bind je DNS server, ktorý slúži na prekladanie IP adries na hostname a opačne. Máme 4 DNS serveri DNS1, DNS2,
+DNS1app, DNS2app. V DNS1 a DNS2 sa nachádzajú záznamy DNS serverov. A v DNS1app a DNS2app sa
+nachádzajú záznamy, ktoré zabezpečujú preklad IP adries pre ostatné server MetaIS.
+Business oblasť:
+•
+
+Interný DNS server
+
+4.9.20.
+HAPROXY
+Technológia zabezpečujúca load balancing pre serveri. Nachádza sa na serveroch lb1app, lb2app a lb1, lb2,lb1db,
+lb2db. V prípade výpadku jedného zo skupiny prevezme jeho úlohu druhý. Lb1 a lb2 sú haproxy pre ihs serveri,
+lb1app a lb2app sú haproxy pre integration a iam. Lb1db a Lb2db sú haproxy pre neo4j databázu.
+Business oblasť:
+•
+
+Zabezpečuje clustrovanie a loadballancing pre jetty, neo4j a IHS
+
+4.9.21.
+PCS
+Technológia ktorá s pomocou haproxy zabezpečuje cluster a vytváranie virtuálnych IP adries. PCS beží na
+serveroch lb1 a lb2.
+Business oblasť:
+•
+
+Zabezpečuje cluster a virtuálne IP adresy
+
+4.9.22.
+PLUTO OPENSWAN
+Pluto je VPN klient a zabezpečuje VPN tunel do prostredia UPVS pre cloud test a pre cloud produkciu zabezpečuje
+tunel pre slovensko.sk. Pluto beží na serveri upvs1 a je vo verzií Openswan.
+Aplikácia:
+•
+integration
+Business oblasť:
+•
+
+Modul Integration
+
+•
+
+Zabezpečuje VPN do UPVS / Slovensko.sk
+
+42
+
+4.9.23.
+MS SHAREPOINT 2013
+SharePoint je portálové riešenie, kde je v rámci MetaIS implementovaný interný portál, ktorý ale obsahuje aj
+verejnú, anonymne prístupnú časť. V internom portáli sa využívajú nasledujúce služby SharePointu:
+•
+
+Web Application – webové rozhranie, ktoré je možné zobraziť vo webovom prehliadači
+
+•
+
+Vyhľadávanie – aplikácia slúži na prehľadávanie obsahu, jeho indexovanie a následné použitie pri
+vyhľadávaní nad obsahom portálu, ale aj uložených dokumentov
+SharePoint umožňuje upravovať štruktúru portálu, pridávať nové knižnice, zoznamy a iné súčasti webov, ako aj
+jednotlivé weby. Dôležitá je aj jeho možnosť integrácie s MS Office Web Apps, čím umožňuje zobrazovať a
+upravovať uložené dokumenty priamo vo webovom prehliadači. Dokumenty na portáli sú uložené v databáze MS
+SQL a je možné zapnúť nad nimi možnosť vzatia a opätovného vrátenia dokumentu do knižnice počas jeho úpravy,
+alebo verziovanie.
+Je teda možné meniť štruktúru Interného portálu, pridávať, alebo mazať pod weby hlavného webu a pridávať a
+upravovať jednotlivé pod časti webov. Momentálne sú vytvorené nasledujúce weby:
+•
+
+Všeobecné – hlavný web, poskytuje možnosť anonymného prístupu, ale aj autorizovaného, kedy má
+používateľ viac možností ako napr. úprava dokumentov
+
+•
+pod web webu Všeobecné, majú tu prístup iba autorizovaní užívatelia
+Sharepoint je vo verzií 2013 a beží na serveri IIS 8. Nachádza sa na servery sp1.
+Business moduly:
+•
+
+Modul Zdieľané úložisko – Sharepoint
+
+4.9.24.
+MS OFFICE WEB APPS SERVER
+MS Office Web Apps slúži ako webové prostredie pre prácu s dokumentami vo formátoch MS Office. Vďaka
+integrácii na SharePoint je teda možné dokumenty zo SharePointu otvárať a upravovať priamo vo webovom
+prehliadači a tým urýchliť celú prácu s dokumentami v SharePoint-e.
+Web Apps je vo verzií 2013 a beží na serveri IIS 8. Nachádza sa na servery webapps1.
+Business moduly:
+•
+
+Modul Zdieľané úložisko - Sharepoint
+
+4.9.25.
+CA SITEMINDER
+CA SiteMinder rieši jednotné prihlasovanie do systému CA Clarity. CA SiteMinder je certifikované riešenie pre
+prihlásenie do CA Clarity, prihlasovacím protokolom tretej strany. Prihlásenie prebieha voči centrálnemu Meta IS2
+Identity Providerovi pomocou protokolu OAuth2.
+Aplikačný server CA SiteMinder beží vo virtuálnom prostredí v dátovom centre gCloud MFSR. Nachádza sa na
+serveri sminder.
+Business moduly:
+•
+
+Modul ASPR (Aplikačný systém programového riadenia)/Clarity
+
+4.9.26.
+CA CLARITY PPM
+Skladá sa z dvoch serverov:
+a. Aplikačný server
+Aplikačný server CA PPM beží vo virtuálnom prostredí v dátovom centre gCloud MFSR. Inštalovaná je aplikácia
+CA PPM, ktorá pozostáva z 4 bežiacich procesov (app, background, beacon, system). Na serveri beží celá
+aplikačná a webová vrstva aplikácie (modul ASPR), ktorá je postavená na java komponentoch a webovom
+aplikačnom serveri tomcat, ktorý sprostredkováva webové gui pre používateľov. Databáza aplikácie je oddelená a
+je umiestnená na centrálnom DB MS SQL serveri. Na serveri je tiež inštalovaný CA SiteMinder agent pre zaistenie
+riešenia SSO. Nachádza sa na serveri clarity.
+Business moduly:
+•
+
+Modul ASPR (Aplikačný systém programového riadenia)/Clarity
+
+43
+
+B. Reportovací server
+Reportovací server CA PPM beží vo virtuálnom prostredí v dátovom centre gCloud MFSR. Riešenie reportingu CA
+PPM je postavené na aplikácii SAP Business Object. Na serveri sú nainštalované všetky komponenty tohto riešenia
+– aplikačná vrstva aj webový interface. Databáza aplikácie je oddelená a je umiestnená na centrálnom DB MS SQL
+serveri. Reporting je integrovaný s aplikačným serverom CA PPM kde beží modul ASPR, z ktorého sú spúšťané
+jednotlivé reporty. Nachádza sa na serveri creport.
+Business moduly:
+a.
+
+Modul ASPR (Aplikačný systém programového riadenia)/Clarity
+
+4.9.27.
+LICENCIE SOFTWAROVÝCH PRODUKTOV
+Softwarové produkty 3-tích strán sa riadia vlastnými licenčnými podmienkami. V rámci riešenia MetaIS boli použité
+technologické komponenty, ktorých používanie je podmienené komerčnými licenčnými podmienkami alebo open
+source licencami. Táto kapitola má za cieľ priblížiť činnosti poskytovateľa podpory a rozvoja MetaIS vo väzbe na
+životný cyklus použitých komerčných licencií.
+Obstarávanie maintenance licencií tretích strán nie je v zodpovednosti poskytovateľa podpory a rozvoja MetaIS.
+Obstaranie zabezpečuje vlastník systému - jedná sa o súčinnosť podpory a rozvoja MetaIS zo strany vlastníka
+systému.
+Poskytovateľ podpory a rozvoja bude pri aktivite obstarania maintenance licencií tretích strán poskytovať súčinnosť.
+Jedná sa najmä (ale nielen o nasledovné činnosti):
+b.
+
+Sledovanie stavu licencovaných softwarových produktov a ich termínov platných maintenance
+
+c.
+
+Včasné upozornenie vlastníka systému na blažiaci sa termín konca platnosti maintenance
+licencovaných produktov, u ktorých je vyžadované pravidelné obnovenie.
+
+d.
+
+Predkladanie návrhov a požiadaviek na zmeny v rámci nákupu licencií a súvisiacich maintenance
+
+44
+
+PRÍLOHA Č. 2
+SPÔSOB RIEŠENIA POŽIADAVIEK
+Služby aplikačnej podpory a realizácie zmien budú realizované prostredníctvom oprávnených osôb, a to
+v nasledovných roliach:
+
+
+Oprávnená osoba Zákazníka - osoba, ktorá je kompetentná na technické posúdenie a vecné prebratie
+aplikačnej podpory a akceptáciu zmenových konaní informačného systému MetaIS.
+
+
+
+Projektový manažér Poskytovateľa - osoba, ktorá zabezpečuje monitorovaciu a eskalačnú funkciu pre
+výkony aplikačnej podpory, je oprávnená na vystavovanie a akceptáciu mesačných výkazov, koordináciu
+a akceptáciu zmenových konaní.
+
+
+
+Projektový manažér Zákazníka - osoba, ktorá zabezpečuje monitorovaciu a eskalačnú funkciu pre výkony
+aplikačnej podpory. Je oprávnená na akceptáciu mesačných výkazov aplikačnej podpory, na objednávanie,
+koordináciu a akceptáciu zmenových konaní.
+
+
+
+Garant MetaIS - menovaný zástupca Zákazníka zodpovedný za funkčnosť MetaIS, schvaľuje zmeny
+systému.
+
+Zoznam osôb predstavujúcich obsadenie vyššie uvedených rolí, zodpovedných za oblasť vykonávania služieb
+aplikačnej podpory, bude na základe bodu 15.4 Rámcovej dohody zaslaný každou zo zmluvných strán do 10
+pracovných dní od nadobudnutia účinnosti Rámcovej dohody.
+1. Aplikačná podpora existujúcej funkcionality – mesačný paušál
+1.1. Po ukončení kalendárneho mesiaca Projektový manažér Poskytovateľa vystaví mesačný výkaz o
+poskytnutí aplikačnej podpory a zašle ho mailom na akceptáciu Oprávnenej osobe a Projektovému
+manažérovi Zákazníka.
+1.2. V prípade akceptácie Oprávnenou osobou a Projektovým manažérom Zákazníka Projektový manažér
+Zákazníka vytlačí a spolu s Oprávnenou osobou podpíše dva originály (jeden pre Poskytovateľa a jeden
+pre Zákazníka) mesačného výkazu o poskytnutí aplikačnej podpory. Projektový manažér Poskytovateľa
+svojim podpisom potvrdí prevzatie tohto výkazu.
+1.3. V prípade vznesenia pripomienky zo strany Zákazníka k obsahu mesačného výkazu o poskytnutí
+aplikačnej podpory Oprávnená osoba Zákazníka vráti Výkaz predkladateľovi a požiada ho
+o prepracovanie/dopracovanie Výkazu.
+1.4. Po akceptácii príslušného plnenia vystaví Poskytovateľ na takéto plnenie samostatnú faktúru. Faktúra
+bude uhradená podľa Rámcovej dohody. Prílohou faktúry bude kópia akceptovaného Výkazu.
+2. Aplikačná podpora existujúcej funkcionality – služby na vyžiadanie
+2.1. Po poskytnutí príslušného plnenia Projektový manažér Poskytovateľa vystaví akceptačný protokol o
+poskytnutí aplikačnej podpory a zašle ho mailom na akceptáciu Projektovému manažérovi Zákazníka.
+2.2. Projektový manažér Zákazníka zašle akceptačný protokol mailom Oprávnenej osobe (Garantovi MetaIS)
+na akceptáciu.
+2.3. V prípade akceptácie Oprávnenou osobou a Projektovým manažérom Zákazníka Projektový manažér
+Zákazníka vytlačí a spolu s Oprávnenou osobou podpíše dva originály (jeden pre Poskytovateľa a jeden
+pre Zákazníka) akceptačného protokolu o poskytnutí aplikačnej podpory. Projektový manažér
+Poskytovateľa svojim podpisom potvrdí prevzatie tohto protokolu.
+2.4. Po akceptácii príslušného plnenia vystaví Poskytovateľ na takéto plnenie samostatnú faktúru. Faktúra
+bude uhradená podľa Rámcovej dohody. Prílohou faktúry bude kópia akceptačného protokolu.
+3. Realizácia zmien
+3.1. Projektový manažér Zákazníka v spolupráci s Oprávnenou osobou Zákazníka v rámci procesu riadenia
+zmien spracuje žiadosť o štúdiu realizovateľnosti a analýzu dopadov. Vyplnenú žiadosť zašle e-mailom
+projektovému manažérovi Poskytovateľa a následne originál žiadosti podpísaný Projektovým
+45
+
+3.2.
+3.3.
+
+3.4.
+3.5.
+3.6.
+3.7.
+3.8.
+
+manažérom Zákazníka a Oprávnenou osobou Zákazníka zašle Projektovému manažérovi
+Poskytovateľa.
+Projektový manažér Poskytovateľa spracuje štúdiu realizovateľnosti a analýzu dopadov, ktorú predloží
+Projektovému manažérovi Zákazníka v elektronickej aj písomnej forme.
+Po odsúhlasení zmeny Oprávnenou osobou a Garantom MetaIS vystaví Projektový manažér Zákazníka
+objednávku podľa štúdie realizovateľnosti a odošle ju mailom Projektovému manažérovi Poskytovateľa.
+Následne uvedený dokument vytlačí v dvoch origináloch a podpísaný Oprávnenou osobou a Projektovým
+manažérom Zákazníka ho zašle Projektovému manažérovi Poskytovateľa.
+Po prijatí podpísaného originálu objednávky Projektový manažér Poskytovateľa potvrdí objednávku
+a termín plnenia mailom a následne zaháji realizáciu objednaných prác podľa harmonogramu.
+Po vypracovaní riešenia zmeny Projektový manažér Poskytovateľa elektronicky zažiada Oprávnenú
+osobu Zákazníka o súhlas s nasadením do testovacej prevádzky, následne Poskytovateľ vykoná
+nasadenie a požiada Oprávnenú osobu a Projektového manažéra Zákazníka o realizáciu testovania.
+Projektový manažér Zákazníka zabezpečí realizáciu testov v súlade s testovacím scenárom, po ukončení
+testov Projektový manažér Zákazníka uvedie súhlas s realizáciou zmeny v odovzdávacom protokole
+(popis testov v testovacom prostredí).
+Projektový manažér Zákazníka vystaví akceptačný protokol k štúdii realizovateľnosti a podpísaný ho
+doručí Projektovému manažérovi Poskytovateľa v dvoch origináloch.
+Po akceptácii príslušného plnenia vystaví Poskytovateľ na takéto plnenie samostatnú faktúru. Faktúra
+bude uhradená podľa Rámcovej dohody. Prílohou faktúry bude kópia akceptovaného výkazu.
+
+46
+
+PRÍLOHA Č. 3
+ZOZNAM SUBDODÁVATEĽOV
+1.
+BRAIN:IT s. r. o.
+Štefanovičova 18, 811 04, Bratislava - mestská časť Staré Mesto,
+Sídlo:
+Slovenská republika
+Eduard Baraniak – konateľ
+Zastúpená:
+Ján Kuruc – konateľ
+IČO:
+46 882 936
+Podiel zákazky, ktoryý maá v úmysle zadať̌ navrhovanyým subdodávateľom – 20 %
+Predmet zákazky, ktorý má v úmysle zadať navrhovanému subdodávateľovi – Poskytnutie kapacít
+pre poskytovanie služieb systémovej a aplikačnej podpory Metainformačného systému (MetaIS)
+2.
+PREEM, a.s.
+Sídlo:
+Bojnická 15, 831 04, Bratislava - mestská časť Nové Mesto, Slovenská republika
+Zastúpená:
+Ing. Milan Janoška
+IČO:
+43 915 051
+Podiel zaákazky, ktoryý maá v úmysle zadať navrhovanyým subdodávateľom – 20 %
+Predmet zákazky, ktorý má v úmysle zadať navrhovanému subdodávateľovi – Poskytnutie kapacít
+pre poskytovanie služieb systémovej a aplikačnej podpory Metainformačného systému (MetaIS)
+3.
+GlobalTel, a.s.
+Sídlo:
+Borská 6, 841 04, Bratislava, Slovenská republika
+Zastúpený:
+Ing. Zora Bednáriková
+Ing. Miroslav Strečanský
+IČO:
+35 778 199
+Podiel zákazky, ktorý má v úmysle zadať navrhovaným subdodávateľom – 20 %
+Predmet zákazky, ktorý má v úmysle zadať navrhovanému subdodávateľovi – Poskytnutie kapacít
+pre poskytovanie služieb systémovej a aplikačnej podpory Metainformačného systému (MetaIS)
+
+47
+
+PRÍLOHA Č. 4
+PRÍSTUP TRETÍCH STRÁN
+Preambula
+Ustanovenia tejto prílohy sa použijú pre účely Rámcovej dohody primerane s prihliadnutím na predmet Rámcovej
+dohody a práva a povinnosti zmluvných strán v Rámcovej dohode upravené.
+Pre účely tejto prílohy sa rozumie :
+(1) Treťou stranou, Poskytovateľa, resp. jeho subdodávatelia, podieľajúci sa na plnení Rámcovej dohody,
+(2) Aktívom objekt, subjekt, štruktúra, vzťah alebo proces, ktorého narušením môže Zákazník utrpieť stratu;
+aktíva môžu byť hmotné a nehmotné: budovy, hardvér, softvér, nosiče informácií, na nich uložené
+informácie, komunikačná technika, kancelárska technika, dokumenty v papierovej a elektronickej podobe,
+dodávateľská podpora, dôležité osoby potrebné na prevádzku organizácie, identifikačné prostriedky,
+bezpečnostné prostriedky, peniaze, dobré meno, kredit a pod.,
+(3) Bezpečnostným incidentom každá situácia alebo stav, ktorý priamo ohrozuje bezpečnosť, alebo
+funkčnosť aktíva. Bezpečnostný incident (ďalej aj „BI“) môže byť vyvolaný náhodným faktorom,
+neúmyselným činom, úmyselným útokom alebo podvodom,
+(4) Oprávneným zamestnancom zamestnanec Zákazníka a tretej strany poverený výkonom určených úloh
+vyplývajúcich z činností spojených s naplnením účelu rámcovej dohody, objednávky alebo projektu (napr.
+projektový manažér).
+Článok 1
+Pohyb tretích strán v objekte/priestoroch Zákazníka
+(1) Zamestnanci tretej strany sú pri vstupe do objektu a odchode z objektu Zákazníka povinní riadiť sa
+pokynmi strážnej služby.
+(2) Do objektu Zákazníka môžu zamestnanci tretej strany vstupovať a z neho odchádzať len k tomu určenými
+vchodmi pre osoby.
+Článok 2
+Základné povinnosti tretej strany voči Zákazníkovi pri poskytovaní prác a služieb spojených s naplnením
+účelu rámcovej dohody
+(1) Tretia strana sa zaväzuje, že:
+a) pred začatím činností spojených s naplnením účelu Rámcovej dohody, a pred pridelením
+prístupových práv potrebných na výkon týchto činností oznámi Gestorovi IS za Zákazníka personálne
+obsadenie svojho tímu, ktorý bude vykonávať činnosti spojené s naplnením účelu Rámcovej dohody,
+b) bude bezodkladne informovať Gestora IS o všetkých personálnych zmenách vo svojom tíme, ktorý
+vykonáva činnosti spojené s naplnením účelu Rámcovej dohody,
+c) oboznámi svojich zamestnancov, resp. tretie osoby realizujúce činnosti spojené s naplnením účelu
+Rámcovej dohody s bezpečnostnými požiadavkami v rozsahu tejto prílohy,
+d) oboznámi svojich zamestnancov resp. tretie osoby realizujúce činnosti spojené s naplnením účelu
+Rámcovej dohody, a následne zabezpečí od týchto zamestnancov dodržiavanie povinnosti:
+1. ochrany údajov a záväzku mlčanlivosti o údajoch, s ktorými prišli počas výkonu prác na projekte
+pre Zákazníka do styku, a to aj po ukončení pracovného, resp. služobného pomeru,
+
+48
+
+2. zachovávať mlčanlivosť o osobných údajoch, s ktorými počas práce na projekte prídu do styku,
+ako aj zákaz ich využitia pre osobnú potrebu, bez písomného súhlasu Gestora IS Zákazníka ich
+nesmie zverejniť, nikomu poskytnúť ani sprístupniť, pričom povinnosť mlčanlivosti trvá aj po
+skončení pracovného pomeru, štátnozamestnaneckého pomeru, služobného pomeru alebo
+obdobného pracovného vzťahu k tretej strane; povinnosť mlčanlivosti neplatí, ak je to nevyhnutné
+na plnenie úloh súdu a orgánov činných v trestnom konaní podľa osobitného zákona,
+zdokumentovať všetky zásahy do IKT Zákazníka podľa pokynov oprávneného zamestnanca za
+Zákazníka,
+3. rešpektovať operatívne pokyny zamestnancov s pridelenými bezpečnostnými rolami u Zákazníka
+a oprávnených zamestnancov počas výkonu práce na projekte,
+4. rešpektovať autorské práva k materiálom poskytnutým Zákazníkom,
+5. vrátiť Zákazníkovi všetky poskytnuté materiály a údaje vrátane elektronických a zlikvidovať všetky
+ich kópie, ak to nebude zmluvne dohodnuté inak.
+e) poskytne potrebnú súčinnosť audítorovi vykonávajúcemu audit IS, ak tento súvisí s výkonom práce
+na projekte,
+f)
+
+poskytne potrebnú súčinnosť Zákazníkovi pre prípadný audit svojich IS a IKT, ak tieto súvisia
+s predmetom plnenia projektu,
+
+g) ak predmet projektu súvisí s vývojom a aktualizáciou IS, resp. IKT Zákazníka, bude dodržiavať
+bezpečnostné požiadavky bezpečnostnej politiky Zákazníka, platnej bezpečnostnej legislatívy, najmä
+požiadaviek zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov a súvisiaceho výnosu MF SR a nevniesť
+nepožadované alebo neschválené funkcie do IS. Nenaplnenie tejto požiadavky sa bude považovať
+za hrubé porušenie zmluvného vzťahu.
+Článok 3
+Povinnosti zamestnancov tretích strán pri riadení prístupu do IS a aplikácií Zákazníka
+(1) Zamestnanec tretej strany, resp. tretia osoba realizujúca činnosti spojené s naplnením účelu Rámcovej
+dohody pre Zákazníka, je povinný prihlasovať sa do IS a aplikácií pod prideleným prihlasovacím účtom
+(ID používateľa) a heslom na prístup do tejto aplikácie alebo IS. Zdieľanie účtov je povolené len po
+písomnej autorizácii bezpečnostným manažérom a Garantom IS a to iba v prípadoch, kedy nie je
+technologicky možné vynútiť iný spôsob prístupu.
+(2) Privilegované používateľské účty nesmú byť používané na bežné činnosti nevyžadujúce privilegované
+oprávnenia.
+(3) Zamestnanec tretej strany resp. tretia osoba realizujúca činnosti spojené s naplnením účelu Rámcovej
+dohody, nesmie na vykonávanie konfigurácií využívať generické a servisné používateľské účty. Výnimku
+tvorí len ich individuálne použitie, ktoré musí byť vopred písomne schválené manažérom bezpečnosti
+a Gestorom IS.
+(4) Pri práci s heslami je zamestnanec tretej strany povinný dodržiavať nasledovné zásady:
+a) pravidlá zmeny hesla do aplikácií v rámci LAN Zákazníka upravuje príslušný Garant systému a ich
+dodržiavanie kontroluje administrátor aplikácie,
+b) používateľ je povinný dodržiavať tieto všeobecné zásady tvorby hesla pre prístup do LAN Zákazníka,
+podľa ktorých heslo:
+1. musí mať dĺžku minimálne 8 znakov,
+2. musí sa skladať minimálne z veľkých a malých písmen, číselných znakov (NumLock) a špeciálnych
+znakov (napr. veľké písmeno + malé písmeno + číslo alebo znak),
+3. nesmie byť slovníkovým slovom, menom ani názvom,
+49
+
+4. nesmie byť odvodené od osobných údajov používateľa,
+5. nesmie byť tvorené priamou postupnosťou klávesov na klávesnici,
+6. pri zmene na nové heslo sa musí od pôvodného líšiť najmenej v štyroch znakoch.
+(5) Ak to aplikácia alebo IS dovoľuje, musí byť prvotné heslo, ktoré bolo zamestnancovi tretej strany na prístup
+do tejto aplikácie alebo IS pridelené, pri prvom prihlásení zmenené.
+(6) Zamestnanec tretej strany resp. tretia osoba realizujúca činnosti spojené s naplnením účelu Rámcovej
+dohody, ručí za dôvernosť a ochranu svojich prístupových hesiel a zodpovedá za všetky udalosti a
+transakcie, ktoré sa uskutočnili v IS s použitím jeho používateľského mena a hesla.
+(7) V prípade podozrenia na prezradenie prístupového hesla resp. v prípade jeho samotného prezradenia
+musí poškodený zamestnanec Poskytovateľa alebo tretej strany okamžite informovať oprávneného
+zamestnanca za Zákazníka resp. príslušného správcu IS a nahlásiť udalosť ako bezpečnostný incident.
+(8) Po ukončení práce je zamestnanec tretej strany resp. tretia osoba realizujúca činnosti spojené s
+naplnením účelu Rámcovej dohody, povinný znemožniť prístup k aplikáciám a programom a to tak, aby
+zabránil neoprávnenému prístupu alebo zneužitiu. Táto povinnosť sa nevzťahuje na zamestnanca tretej
+strany v prípade, ak mu to odôvodnene neumožňuje charakter vykonávaných prác a táto výnimka je
+písomne schválená manažérom bezpečnosti Zákazníka.
+(9) Vzdialený prístup dodávateľa a tretích strán v právnom vzťahu k dodávanému dielu do informačných
+systémov a ostatného softvéru Zákazníka nie je možný. Prístup je možné povoliť iba manažérom
+bezpečnosti na základe písomnej žiadosti a to len v priestoroch, ktoré sú v správe Zákazníka, a to iba s
+dohľadom na to určeného zamestnanca.
+Článok 4
+Pripájanie prenosných počítačov a zariadení zamestnancov tretích strán do IS u Zákazníka
+(1) Prenosné počítače zamestnancov tretích strán resp. tretích osôb v súvislosti s naplnením účelu Rámcovej
+dohody smú byť pripájané do IS Zákazníka len na základe písomného súhlasu manažéra bezpečnosti
+Zákazníka.
+(2) Zamestnanec tretej strany resp. tretie osoby realizujúce činnosti spojené s naplnením účelu Rámcovej
+dohody, ktorý uchováva na prenosnom počítači/zariadení informácie, ktorých vlastníkom je Zákazník, je
+povinný:
+a) chrániť ho pred krádežou alebo zneužitím; zamestnanec tretej strany nesmie ponechať prenosný
+počítač/zariadenie bez dozoru napr. na verejne dostupných miestach, v dopravných prostriedkoch,
+neuzamknutých kanceláriách a pod.,
+b) okamžite hlásiť stratu, prípadne krádež prenosného počítača ako bezpečnostný incident,
+c) ak sú na pevnom disku prenosného počítača/zariadenia ukladané informácie zaradené do triedy
+dôvernosti „INTERNÉ“ alebo „CHRÁNENÉ“, musia byť tieto informácie chránené dodatočným
+zabezpečovacím prostriedkom, t. j. šifrovaním.
+(3) Dostatočnosť použitých šifrovacích prostriedkov posúdi na základe písomnej žiadosti manažér
+bezpečnosti Zákazníka pred povolením uloženia dát na pevný disk prenosného počítača/zariadenia tretej
+strany.
+Článok 5
+Používanie elektronickej pošty Zákazníka zamestnancami tretích strán
+Pri používaní elektronickej pošty je zamestnanec tretej strany povinný dodržiavať tieto zásady:
+a) využívať elektronickú poštu iba na účely plnenia služobných alebo pracovných úloh spôsobom a v
+50
+
+rozsahu tejto Rámcovej dohody,
+b) informovať Help Desk o všetkých neočakávaných správach s prílohami od neznámych odosielateľov
+(mimo Zákazníka), ktoré mu boli doručené elektronickou poštou, správy neotvárať - nečítať z dôvodu
+ohrozenia zavírením a ďalej postupovať podľa pokynov pracovníka Help Desku,
+c) nezapĺňať kapacitu elektronickej pošty objemnými dátami v prílohách,
+d) po ukončení práce s elektronickou poštou prostredníctvom externého prístupu - Outlook web Access
+sa používateľovi odporúča odhlásiť sa a zavrieť okno internetového prehliadača,
+e) email s prílohami posielaný mimo siete Zákazníka ale aj v rámci siete LAN Zákazníka nesmie
+prekročiť povolenú veľkosť; používateľ má mailovú schránku generovanú automatizovaným
+procesom s pevne stanovenou veľkosťou a bližšie informácie o kapacitách mailov a veľkosti
+mailových schránok získa u pracovníkov Help Desku.
+Článok 6
+Riadenie bezpečnostných incidentov
+Každý zamestnanec tretej strany resp. tretie osoby realizujúce prácu v súvislosti s naplnením účelu Rámcovej
+dohody je povinný zistenie bezpečnostného incidentu alebo podozrenie na bezpečnostný incident bezodkladne
+nahlásiť na určené kontaktné miesto, ktorým je Help Desk (tel. číslo: +421 2 5958 2400, kl.: 2400, resp. email:
+Help Desk (zav)mfsr.sk).
+Článok 7
+Vyšetrovanie bezpečnostných incidentov
+(4) Každý zamestnanec tretej strany resp. tretie osoby realizujúce prácu v súvislosti s naplnením účelu
+Rámcovej dohody je povinný, pri vyšetrovaní bezpečnostných incidentov zamestnancom alebo
+zamestnancami Zákazníka, poskytnúť potrebnú súčinnosť.
+(5) Po vzniku bezpečnostného incidentu nesmie zamestnanec tretej strany resp. tretia osoba realizujúce
+prácu v súvislosti s naplnením účelu Rámcovej dohody vykonávať akékoľvek aktivity, ktoré by mohli viesť
+k znehodnoteniu dôkazov alebo k zhoršeniu dôsledkov.
+
+51
+
+PRÍLOHA Č. 5
+VZORY FORMULÁROV
+5.1 Požiadavka na zmenu
+
+Požiadavka na Zmenu
+Žiadosť o štúdiu realizovateľnosti
+a analýzu dopadov
+
+Číslo Zmeny:
+####
+
+Proces Change Management
+
+Identifikácia požiadavky
+Žiadateľ zmeny:
+
+Organizácia:
+
+Telefón:
+Zadávateľ Zmeny (SPOC):
+
+Organizácia:
+
+Change Manager:
+Dátum vystavenia
+požiadavky:
+Kategória Zmeny
+(HW, SW,...)
+
+Požadovaný termín
+odovzdania plnenia:
+SW/Aplikačný/Manex/
+HW/Server/NT
+
+Identifikácia zmenovej
+položky (CI):
+Priorita:
+
+Verzia of CI:
+1, 2, 3, urgentná zmena
+
+Riešenie požadované:
+
+Štandardná zmena
+štúdia realizovateľnosti
+
+analýza dopadov
+
+V prípade aplikačného SW či
+konfigurácie aktívnych prvkov
+/Áno , Nie/
+reklamácia
+
+Popis požiadavky
+Krátky popis požiadavky:
+Dôvod pre realizáciu Zmeny:
+
+Detailný popis požiadavky:
+
+52
+
+5.2 Štúdia realizovateľnosti
+Spracovateľ štúdie vyplní nasledujúce informácie:
+
+Štúdia realizovateľnosti č. ###
+1.
+
+Špecifikácia služby / aké služby sa požiadavka týka -
+
+2.
+
+Analýza požiadavky / spracovanie funkčnej špecifikácie –
+
+3.
+
+Návrh implementácie požiadavky –
+
+4.
+
+Návrh testovania a akceptácie požiadavky -
+
+5.
+
+Návrh harmonogramu plnenia -
+
+6.
+
+Požadovaná súčinnosť Zákazníka –
+
+V týchto tabuľkách Dodávateľ uvedie časovú náročnosť a cenovú kalkuláciu:
+Náročnosť zapracovania pre Zmenu aplikačného SW
+Termíny
+
+Dátum
+
+Predpokladaný začiatok realizácie:
+Predpokladané ukončenie realizácie (termín nasadenie do testovacieho prostredia):
+Navrhovaný termín nasadenia do produkčného prostredia:
+Činnosť
+
+Náročnosť (človekodni)
+
+Spolu:
+
+Náročnosť zapracovania pre Zmenu mimo aplikačný SW
+Termíny navrhovaných činností
+
+Dátum
+
+Navrhovaný termín realizácie Zmeny:
+Činnosť
+
+Náročnosť (človekodni)
+
+Spolu:
+
+Cena
+Popis jednotlivých položiek
+
+Cena
+
+Spolu:
+
+Dátum:
+Oprávnená osoba Dodávateľa:
+
+Organizácia:
+
+53
+
+5.3 Analýza dopadov
+Vyplní spracovateľ analýzy:
+1.
+
+Vplyv na zákazníkov
+
+2.
+
+Vplyv na prevádzku fungujúcich systémov, infraštruktúry a zaistení poskytovaných služieb. (Podľa definovaných SLA.)
+
+3.
+
+Vplyv na kapacitu, výkonnosť, spoľahlivosť, bezpečnosť
+
+4.
+
+Vplyv na iné služby (iné aplikácie) bežiace na rovnaké infraštruktúre lebo vplyv na súvisiace aplikácie, resp. systémy,
+napr. , UPVI, portály, atď.
+
+5.
+
+Vplyv v organizácii mimo IT – bezpečnosť, help desk, ..
+
+6.
+
+Dopad pri nerealizácii Zmeny
+
+7.
+
+Požadované zdroje z IT, čas kľúčových užívateľov, časové dopady, požiadavky na nové prvky
+
+Dátum:
+Spracovateľ:
+
+Organizácia:
+
+54
+
+5.4 Objednávka podľa štúdie realizovateľnosti
+Formulár je určený pre Change managera, ktorý objednáva spracovanie Zmeny.
+
+Objednávka podľa štúdie
+realizovateľnosti
+
+Číslo Zmeny:
+####
+
+Proces Change Management
+
+Identifikácia požiadavky
+Žiadateľ zmeny:
+
+Organizácia:
+
+Telefón:
+Zadávateľ Zmeny (SPOC):
+
+Organizácia:
+
+Change Manager:
+Dátum vystavenia
+požiadavky:
+Kategória Zmeny
+(HW, SW,...)
+
+Požadovaný termín
+odovzdania plnenia:
+SW/Aplikačný/Manex/
+HW/Server/NT
+
+Identifikácia zmenovej
+položky (CI):
+Priorita:
+
+Verzia of CI:
+1, 2, 3, urgentná zmena
+
+Štandardná zmena
+
+V prípade aplikačného SW či
+konfigurácie aktívnych prvkov
+/Áno , Nie/
+
+Popis požiadavky
+Krátky popis požiadavky:
+
+Krátky a výstižný popis požiadavky na Zmenu.
+
+Objednávame si spracovanie Zmeny č. #### v rámci zmenového konania v zmysle štúdie realizovateľnosti
+prevedenej k tejto Zmene.
+Identifikácia výkonu
+Oprávnená osoba Zákazníka:
+
+Oprávnená osoba
+Dodávateľa:
+
+Dátum vystavenia
+Objednávky:
+Požadovaný termín zahájenia
+plnenia:
+
+Potvrdený termín
+plnenia:
+
+Príloha: Požiadavka na Zmenu RFC obsahujúci štúdiu realizovateľnosti č. ####
+Dátum:
+Oprávnená osoba Zákazníka:
+
+Organizácia:
+
+55
+
+5.5 Odovzdávací protokol k Zmene
+Formulár je určený pre plánovanie a dokumentovanie priebehu Zmeny a vypĺňa ho realizátor Zmeny (pracovníci tímu).
+
+Odovzdávací protokol
+k Zmene
+
+Číslo Zmeny:
+####
+
+(Dokumentácia priebehu Zmeny a testovania)
+Proces Change Management
+
+Identifikácia požiadavky
+Žiadateľ zmeny:
+
+Organizácia:
+
+Telefón:
+Zadávateľ Zmeny (SPOC):
+
+Organizácia:
+
+Change Manager:
+Dátum vystavenia
+požiadavky:
+Kategória Zmeny
+(HW, SW,...)
+
+Požadovaný termín
+odovzdania plnenia:
+SW/Aplikačný/Manex/
+HW/Server/NT
+
+Identifikácia zmenovej
+položky (CI):
+Priorita:
+Zmena schválená:
+
+Verzia of CI:
+1, 2, 3, urgentná zmena
+
+Štandardná zmena
+
+Meno Change managera
+
+Dátum schválenia:
+
+V prípade aplikačného SW či
+konfigurácie aktívnych prvkov
+/Áno , Nie/
+
+Popis a plán realizácie Zmeny:
+Krátky popis požiadavky:
+Detailný popis realizácie
+Zmeny:
+
+Krátky a výstižný popis požiadavky na Zmenu. Detailný popis zmeny je vo Štúdii realizovateľnosti.
+/Uveďte plán a postup testovania a postup realizácie./
+/Pre Aplikačný SW - uveďte zoznam funkcií, v prípade oprav zoznam chýb, ktoré by mala zmena riešiť./
+
+Identifikácia release:
+Ústupový plán:
+Opravené chyby:
+
+Odstávka systému:
+Zoznam modulov
+Odhadovaný čas :
+
+/Pre Aplikačný SW - špecifikujte release vo ktorom bude Zmena realizovaná./
+/Špecifikácia ústupového plánu v prípade neúspešnej realizácie./
+/Zoznam opravených chýb zistených počas testovania s uvedením čísla chyby a čísla RFC./
+
+/Špecifikujte aké systémy budú odstavené a či je odstávka potrebná./
+/Pre aplikačný SW - uveďte zoznam všetkých modulov, ktorých sa odstávka z dôvodu realizácie dotkne./
+hod /Samotná implementácia – čas odstávky/
+Odhadovaný čas na Recovery :
+/v prípade neúspešnej realizácie/
+
+56
+
+Implementácia do testovacieho prostredia:
+Dátum a čas realizácie:
+
+Realizáciu vykonal:
+Priebeh implementácie:
+
+/Popis priebehu- bez problémov, vyskytli sa chyby – ich popis./
+
+Výsledok základného
+otestovania funkcionality:
+
+Popis testu v testovacom prostredí:
+Stručný popis
+vykonaných testov :
+
+Výsledok testu:
+
+Záverečné vyjadrenie:
+Podmienky:
+Testoval :
+
+/Popis vykonaných testov a popis ich priebehu. /
+
+/Prípadný popis chýb a nedostatkov zistených počas testovania – zistené chyby prosím očíslujte Chyba1, Chyba 2 . . ./
+
+Súhlasím s realizáciou do produkčného systému
+Nesúhlasím
+Podmienečne súhlasím
+/Uveďte podmienky pre realizáciu do produkčného prostredia v prípade podmieneného súhlasu/
+Dátum:
+
+Popis integračného testu v testovacom prostredí:
+Stručný popis
+vykonaných testov :
+
+Výsledok testu:
+
+Záverečné vyjadrenie:
+Podmienky:
+
+Testoval :
+Poznámka:
+
+/Popis vykonaných testov a popis ich priebehu. /
+
+/Prípadný popis chýb a nedostatkov zistených počas testovania – zistené chyby prosím očíslujte Chyba1, Chyba 2 . . ./
+
+Súhlasím s realizáciou do produkčného systému
+Nesúhlasím
+Podmienečne súhlasím
+/Uveďte podmienky pre realizáciu do produkčného prostredia v prípade podmieneného súhlasu/
+
+Dátum:
+Musia byť podpísaní pracovníci, ktorí vykonali integračný test za každú aplikáciu.
+
+57
+
+Realizácia do produkčného prostredia.
+Dátum:
+
+Realizáciu schválil:
+
+Dátum a čas realizácie:
+
+Realizáciu vykonal:
+Priebeh realizácie:
+
+/Popis priebehu- bez problémov, vyskytli sa chyby – ich popis./
+
+Výsledok základného
+otestovania funkcionality:
+
+Podpis:
+
+Informácie pre užívateľa:
+Zoznam modulov:
+Popis zmien:
+
+/Popis zmien z pohľadu koncového užívateľa/
+
+Zverejnenie zabezpečil:
+Meno
+
+Dátum
+
+Podpis
+
+58
+
+5.6 Akceptačný protokol k Zmene
+
+Akceptačný protokol č
+k Zmene
+
+Číslo Zmeny:
+####
+
+(Dokumentácia priebehu Zmeny a testovania a Akceptácie)
+Proces Change Management
+
+Predmet akceptácie
+V priebehu mesiaca xx/xxxx boli implementované požiadavky v súlade s Požiadavkou na zmenu PZ XXXXXX:
+
+Požiadavka na zmenu
+
+EUR
+(bez DPH)
+
+SPOLU:
+
+SPOLU FAKTURÁCIA (EUR bez DPH):
+
+Závery akceptácie
+Zástupcovia zúčastnených strán svojimi podpismi potvrdzujú, že implementované požiadavky sú v súlade so schválenou
+požiadavkou na zmenu.
+
+So znením akceptačného protokolu súhlasí:
+
+za Zákazníka: (doplní zákazník) – projektový manažér a manažér zmien
+(doplní zákazník) – garant systému
+za Poskytovateľa:
+
+(doplní poskytovateľ) – projektový manažér
+
+.............................................
+.............................................
+............................................
+
+v Bratislave:
+
+59
+
+PRÍLOHA Č. 6
+NÁVRH NA PLNENIE KRITÉRIÍ (CENNÍK SLUŽIEB)
+
+CENNÍK SLUŽIEB
+P.č.
+
+Názov položky
+
+Jednotková
+cena v EUR
+bez DPH
+
+Sadzba DPH
+(20 %)
+
+(t.j. cena za 1
+človekohodinu
+v EUR bez
+DPH)
+105,30
+
+Jednotková
+cena v EUR
+s DPH
+(t.j. cena za 1
+človekohodinu
+v EUR s DPH)
+
+1.
+
+Služby systémovej a
+aplikačnej podpory (paušál)
+
+21,06
+
+126,36
+
+2.
+
+Projektový manažér
+
+52,00
+
+10,40
+
+62,40
+
+3.
+
+Softvérový analytik
+
+56,00
+
+11,20
+
+4.
+
+Pracovník pre riadenie IT
+procesov
+
+56,00
+
+5.
+
+Konzultant pre oblasť EA
+
+6.
+
+Databázový špecialista
+
+7.
+
+Pracovník pre oblasť
+integrácie a procesnej
+automatizácie systémov
+
+8.
+
+Počet
+človekohodín
+na 48
+mesiacov
+
+7 680
+
+Cena spolu
+v EUR bez DPH
+(cena za uvedený
+počet
+človekohodín)
+
+Cena spolu
+v EUR s DPH
+(cena za
+uvedený počet
+človekohodín)
+
+808 704,00
+
+970 444,80
+
+960*
+
+49 920,00
+
+59 904,00
+
+67,20
+
+1 440*
+
+80 640,00
+
+96 768,00
+
+11,20
+
+67,20
+
+800*
+
+44 800,00
+
+53 760,00
+
+56,00
+
+11,20
+
+67,20
+
+800*
+
+44 800,00
+
+53 760,00
+
+52,00
+
+10,40
+
+62,40
+
+1 200*
+
+62 400,00
+
+74 880,00
+
+59,00
+
+11,80
+
+70,80
+
+800*
+
+47 200,00
+
+56 640,00
+
+Tester
+
+46,00
+
+9,20
+
+55,20
+
+2 000*
+
+92 000,00
+
+110 400,00
+
+9.
+
+IT architekt
+
+60,00
+
+12,00
+
+72,00
+
+800*
+
+48 000,00
+
+57 600,00
+
+10.
+
+Programátor
+
+52,00
+
+10,40
+
+62,40
+
+2 400*
+
+124 800,00
+
+149 760,00
+
+11.
+
+Systémový špecialista
+
+50,00
+
+10,00
+
+60,00
+
+1 440*
+
+72 000,00
+
+86 400,00
+
+12.
+
+Školiteľ
+
+46,00
+
+9,20
+
+55,20
+
+640*
+
+29 440,00
+
+35 328,00
+
+Cena spolu za celý predmet
+zákazky
+
+-
+
+-
+
+-
+
+-
+
+1 504 704,00
+
+1 805 644,80
+
+Služby na vyžiadanie a realizácia zmien (nadpaušál)
+
+* jedná sa o predpokladaný počet človekohodín.
+
+60
+
+

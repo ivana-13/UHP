@@ -1,0 +1,540 @@
+Zmluva o dielo č. Z201744815_Z
+uzatvorená v zmysle §536 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Národná banka Slovenska
+Imricha Karvaša 1, 81325 Bratislava - Staré Mesto, Slovenská republika
+30844789
+2020815654
+SK2020815654
++421257871226
+
+Dodávateľ:
+Obchodné meno:
+
+Vision IT Solutions, a. s.
+
+Sídlo:
+
+Pribinova 25, 81109 Bratislava, Slovenská republika
+
+IČO:
+
+36815799
+
+DIČ:
+
+SK2022424008
+
+IČ DPH:
+
+36815799
+
+Číslo účtu:
+
+SK8811000000002927836056
+
+Telefón:
+
++421233553500
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Rozšírenie kapacity centrálneho zálohovacieho systému
+
+Kľúčové slová:
+
+VTL knižnica
+
+CPV:
+
+48000000-8 - Softvérové balíky a informačné systémy; 48820000-2 - Servery; 48821000-9 Sieťové servery; 72261000-2 - Softvérové podporné služby; 72263000-6 - Implementácia
+softvéru; 72267000-4 - Služby na údržbu a opravu softvéru; 48710000-8 - Softvérový balík
+na zálohovanie a obnovu; 48750000-0 - Softvérový balík na ukladanie na archivačné médiá
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• 1. Dodanie VTL knižnice s príslušenstvom
+• 2. Implementačná služba pre VTL knižnice
+• 3. Servisné služby pre VTL knižnice
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+1. Dodanie VTL knižnice s príslušenstvom
+
+ks
+
+2
+
+2. Implementačná služba pre VTL knižnice
+
+ks
+
+1
+
+3. Servisné služby pre VTL knižnice
+
+-
+
+3.1 Odstraňovanie HW a SW porúch
+
+štvrťrok
+
+24
+
+3.2 Prístup ku FW a SW updatom
+
+štvrťrok
+
+24
+
+3.3 Konzultačné a Implementačné služby
+
+hod
+
+150
+
+Strana 1 z 6
+
+Minimum
+
+-
+
+Maximum
+
+Presne
+
+-
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1.Dodanie VTL s príslušenstvom
+1.1 Prevedenie
+
+Umiestniteľné pomocou montážnej súpravy, ktorá musí byť
+súčasťou dodávky do štandardného datacentrového racku, šírka
+19".
+
+1.2 Napájanie a chladenie
+
+Redundantné napájacie zdroje a ventilátory s redundanciou N+1.
+
+1.3 Diskový subsystém
+
+RAW kapacita diskového subsystému min. 48 TB, tvorená min. 12
+diskami. Radiče diskového subsytému musia používať ochranu
+pomocou technológie RAID, alebo ekvivalentnej tak, aby ani pri
+výpadku dvoch
+
+pokračovanie
+
+diskov nedošlo ku strate akéhokoľvek údaju uloženého na VTL
+knižnici. Radiče musia mať cache chránenú batériou, alebo inou,
+ekvivalentnou technológiou.
+
+1.4 Správa a manažment
+
+Každá VTL knižnica musí mať dedikovaný port Ethernet RJ45 pre
+správu s rýchlosťou min 1 Gb/s. Súčasťou dodávky musí byť aj
+softvér určený pre správu VTL knižníc, s GUI aj CLI rozhraním.
+Tento nástroj
+
+pokračovanie
+
+musí okrem všetkých bežných správcovských úkonov umožňovať
+min. aj sledovanie výkonu a kapacity VTL knižníc a to ako
+operatívnych, tak aj historických údajov, s minimálnou retenciou 2
+mesiace.
+
+pokračovanie
+
+Súčasťou dodávky musia byť (ak sú potrebné) aj licencie
+pokrývajúce požadovanú konfiguráciu so všetkými funkcionalitami,
+ktoré tento softvér poskytuje.
+
+1.5 Požadované funkcionality
+
+a/ emulácia virtuálnych páskových knižníc, b/ podpora deduplikácie
+na strane zálohovaných klientov,c/ in-line deduplikácia dát na
+úrovni VTL, transparentne pre zálohovací softvér.
+
+pokračovanie
+
+d/ podpora NAS, min. protokol SMB,e/ možnosť vytvorenia min. 20
+virtuálnych zariadení typu NAS/VTL,f/ možnosť realizovať paralelný
+backup a restore,
+
+pokračovanie
+
+g/ maximálna rýchlosť zálohovania, resp. maximálna priepustnosť
+deklarovaná v technickej dokumentácii výrobcu musí byť min. 25
+TB/h,súčasťou dodávky musia byť aj licencie v kapacite
+zodpovedajúcej
+
+pokračovanie
+
+požadovanej konfigurácii v prípade, ak sú k požadovaným
+funkcionalitám potrebné."
+
+1.5 Pripojenie k externej LAN
+
+2x 10GbE, pričom súčasťou dodávky musia byť aj SFP+ moduly s
+nasledovnými parametrami: LC SR Transceiver 850 MMF MM/LC
+DUPLEX SFP+ modul.
+
+1.6 Pripojenie k externej SAN
+
+4x 16 Gb/s FC, pričom súčasťou dodávky musia byť aj SFP
+moduly.
+
+1.7 Podporované OS
+
+Windows Server 2012 R2 a vyššie, Red Hat Enterprise Linux 6 a
+vyššie, Oracle Linux 6 a vyššie.
+
+1.8 Podporované backup SW
+
+Veritas Netbackup, Veeam Backup & Replication.
+
+1.9 Požadovaná rozšíriteľnosť
+
+Kapacita každej z VTL knižníc musí byť rozšíriteľná pripojením
+ďalších diskových modulov ku základným modulom VTL knižníc
+ktoré sú súčasťou iniciálnej dodávky a to bezvýpadkovo a na
+
+pokračovanie
+
+min. RAW kapacitu 250 TB.V prípade rozšírenia sa nesmie zmeniť
+počet VTL cieľov pre zálohovací SW (storage unit).
+
+1.9 Príslušenstvo
+
+Súčasťou dodávky musia byť všetky káble potrebné k pripojeniu
+VTL knižníc do LAN a SAN sietí a ku pripojeniu ku elektrickým
+zdrojom napájania 230V prostredníctvom vidlíc IEC320-C13 male,
+
+pokračovanie
+
+alebo IEC320-C19 male.
+
+2. Implementačná služba pre VTL knižnice
+2.1 Dodávka HW a SW
+
+Dodanie VTL knižníc s príslušenstvom na miesta dodania.
+
+Strana 2 z 6
+
+2.2 Inštalácia HW a SW
+
+Vybalenie, skompletizovanie, montáž do rackov objednávateľa,
+inicializácia HW vrátane updatu FW, základná konfigurácia po
+prvom štarte, pripojenie do LAN a SAN obstarávateľa, likvidácia
+odpadu,
+
+pokračovanie
+
+inštalácia manažment nástroja (ak je potrebná).
+
+2.3 Zaškolenie správcov objednávateľa
+
+Zabezpečenie školenia pre správcov - 3 pracovníkov
+objednávateľa - a to buď:a/ formou zabezpečenia školenia
+organizovaného školiacim strediskom výrobcu VTL knižníc, alebo
+iného školiaceho strediska,
+
+pokračovanie
+
+nachádzajúceho sa na území Slovenskej, alebo Českej republiky,
+ktoré je zmluvným partnerom výrobcu VTL knižníc, v rozsahu
+sylabov bežne dostupných školení výrobcu zameraných na správu
+VTL knižníc, ako
+
+pokračovanie
+
+i všetkých softvérových funkcionalít, ktoré sú súčasťou dodávky,b/
+v prípade, že výrobca VTL knižníc nemá vlastné školiace stredisko,
+ani neorganizuje školenia pomocou zmluvných partnerov, v
+dôsledku
+
+pokračovanie
+
+čoho nie je možné poskytnúť školenie podľa požiadaviek z bodu a/,
+tak v takom prípade je možné poskytnúť školenie na dodaných a
+implementovaných VTL knižniciach, pričom rozsah školenia musí
+pokrývať
+
+pokračovanie
+
+prevádzkové postupy pre celý rozsah hardvérových aj softvérových
+požiadaviek objednávateľa, súčasťou školenia musí byť aj dodávka
+materiálov pre školenie vo forme príručiek, v elektronickej forme.
+
+pokračovanie
+
+Školenie musí prebehnúť najneskôr do 15 dní od ukončenia
+implementačných prác."
+
+3. Servisné služby pre VTL knižnice
+3.1 Odstraňovanie HW a SW porúch
+
+Odstránenie HW a SW porúch počas 6 rokov od dňa podpisu
+príslušného preberacieho protokolu baz vád a nedorobkov
+obidvoma zmluvnými stranami, nahlasovanie porúch v pracovnom
+čase (7:30 až 16:30
+
+pokračovanie
+
+v pracovných dňoch v Slovenskej republike), odstránenie poruchy
+najneskôr nasledujúci pracovný deň od nahlásenia, v pracovnom
+čase.
+
+3.2 Prístup ku FW a SW updatom
+
+Poskytovanie FW a SW updatov výrobcu počas 6 rokov od dňa
+podpisu príslušného preberacieho protokolu baz vád a nedorobkov
+obidvoma zmluvnými stranami. Prístup k updatom musí byť
+realizovaný cez webový
+
+pokračovanie
+
+portál výrobcu a FW a SW updaty musia byť priamo prístupné
+správcom objednávateľa po ich prihlásení sa personalizovaným
+účtom, príp. účtom prideleným objednávateľovi.
+
+3.3 Konzultačné a Implementačné služby
+
+Poskytovanie konzultácií a dodatočných implementačných služieb
+pre VTL knižnice v rozsahu 150 hod.
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+1. Vrátane dopravy na miesto plnenia.
+2. Dodávateľ je povinný dodať zariadenia nové, nerepasované a nepoužívané od jedného (rovnakého) výrobcu.
+3. Dodávateľ je povinný v termíne do 7 pracovných dní od nadobudnutia účinnosti zmluvy predložiť štatutárnym zástupcom
+podpísaný podrobný rozpočet s uvedením jednotkových cien, ktorý bude obsahovať položky minimálne v rozsahu: typové
+označenie, výrobca, produktové číslo výrobcu, model a uvedenie použitej konfigurácie.
+4. Dodávateľ v rozpočte nesmie prekročiť nasledovný maximálny objem finančných prostriedkov bez DPH: Položka č. 1 – 55
+000,00 eur, Položka č. 2 –5 000,00 eur, Položka č. 3 – 40 000,00 eur.
+5. Dodávateľ je povinný v termíne do 7 pracovných dní od nadobudnutia účinnosti zmluvy predložiť písomne v listinnej podobe
+potvrdenie výrobcu zariadení ktoré sú predmetom ponuky, dokladujúcich že zamestnanci dodávateľa, ktorí ich budú
+implementovať a poskytovať servisné služby boli pre výkon takejto práce náležite zaškolení, potvrdenia je možné preukázať aj
+formou zaslania naskenovaných originálov certifikátov zamestnancov vydaných výrobcom zariadení prostredníctvom
+elektronickej pošty.
+
+Strana 3 z 6
+
+6. Dodávateľ je povinný v termíne do 7 pracovných dní od nadobudnutia účinnosti zmluvy predložiť písomne v listinnej podobe
+potvrdenie výrobcu zariadení, ktoré sú predmetom ponuky, dokladujúcich že dodávateľ je zmluvným partnerom výrobcu pre
+predaj produktov, ktoré sú predmetom ponuky na území SR, požadované partnerstvo nie je potrebné preukazovať v prípade,
+že je možné si ho overiť vo verejne publikovanej webovej databáze partnerov výrobcu.
+7. Dodávateľ je povinný v termíne do 7 pracovných dní od nadobudnutia účinnosti zmluvy predložiť písomne v listinnej podobe
+potvrdenie výrobcu zariadení, ktoré sú predmetom ponuky, dokladujúcich že dodávateľ je zmluvným partnerom výrobcu v
+oblasti poskytovania servisných služieb pre produkty, ktoré sú predmetom ponuky, na území SR, požadované partnerstvo nie
+je potrebné preukazovať v prípade, že je možné si ho overiť vo verejne publikovanej webovej databáze partnerov výrobcu.
+8. Dodávateľ je povinný v termíne do 7 pracovných dní od nadobudnutia účinnosti zmluvy predložiť písomne v listinnej podobe
+potvrdenie výrobcu zariadení, ktoré sú predmetom ponuky, dokladujúcich, že žiadne zariadenie ani komponent dodávaného
+riešenia nemá ku termínu nadobudnutia účinnosti zmluvy ukončenú životnosť (End of Life), alebo predaj (End of Sale).
+9. Dodávateľ je povinný v termíne do 7 pracovných dní od nadobudnutia účinnosti zmluvy doručiť písomne v listinnej podobe
+objednávateľovi vlastný záväzný návrh na plnenie predmetu zákazky, podpísaný štatutárnym zástupcom, ktorý už nebude
+môcť dodatočne upravovať, ktorý bude v súlade s funkčnou a technickou špecifikáciou predmetu zmluvy minimálne v rozsahu:
+typové označenie, výrobca, podrobná technická špecifikácia.
+10. Dodávateľ je povinný v termíne do 7 pracovných dní od nadobudnutia účinnosti zmluvy predložiť vo forme elektronickej
+tabuľky zaslanej prostredníctvom elektronickej pošty vyhodnotenie spôsobu naplnenia každej požiadavky objednávateľa pre
+ním ponúkané riešenie doložené odkazmi na dokumentáciu výrobcu (manuál, technická špecifikácia produktu a pod.) s
+uvedením strany, kde je možné overiť naplnenie jednotlivých požiadaviek, akceptovaná bude technická dokumentácia v
+slovenskom, českom alebo anglickom jazyku, odkazy na informačné zdroje na internete nebudú akceptované.
+11. Dodávateľ je povinný zabezpečiť, aby jeho zamestnanci vykonávajúci implementačné práce, ako aj zamestnanci
+vykonávajúci servisné služby komunikovali v slovenskom, alebo českom jazyku.
+12. Dodanie požadovaných tovarov a implementačných služieb musí byť zrealizované najneskôr do 45 dní od nadobudnutia
+účinnosti zmluvy.
+13. Servisné služby „Odstraňovanie HW a SW porúch“ a „Prístup ku FW a SW updatom“ s požadovanými parametrami bude
+dodávateľ poskytovať 6 rokov od dňa podpisu príslušného preberacieho protokolu bez vád a nedorobkov obidvoma zmluvnými
+stranami.
+14. Dodávateľovi budú platby za servisné služby „Odstraňovanie HW a SW porúch“ a „Prístup ku FW a SW updatom“
+uhrádzané štvrťročne pozadu.
+15. Dodávateľovi budú platby za servisné služby „Konzultačné a Implementačné služby“ uhrádzané na základe faktúry
+vyhotovenej najneskôr do 15 dní od poskytnutia týchto služieb.
+16. Dodávateľ bude realizovať poskytovanie servisnej služby „Konzultačné a Implementačné služby “ výhradne na základe
+záväznej požiadavky a v množstve definovanom v požiadavke, pričom množstvo bude stanovené v hodinách.
+17. Ceny za poskytovanie servisných služieb „Odstraňovanie HW a SW porúch“ a „Prístup ku FW a SW updatom“ zahŕňajú
+všetky náklady dodávateľa s týmito službami spojené a to včítane nákladov na náhradné diely a tiež nákladov súvisiacich s
+pobytom zamestnancov dodávateľa na pracovisku objednávateľa, cestovné, stravné, ubytovacie náklady, ako aj všetky
+ostatné náklady zamestnancov spojené s realizáciou servisných služieb, vrátane dopravy náhradných dielov a zariadení.
+18. V prípade, že počas prvých štyroch rokov platnosti a účinnosti zmluvy dôjde k ukončeniu životnosti (End of Life), alebo
+predaja (End of Sale) dodávaných VTL knižníc, je dodávateľ povinný vykonať ich bezplatný upgrade, pričom VTL knižnice
+dodané ako súčasť upgrade musia spĺňať funkčné a výkonnostné parametre minimálne na úrovni pôvodne dodaných VTL
+knižníc a musia byť dodané najneskôr do 6 mesiacov od výrobcom oficiálne oznámeného termínu ukončenia životnosti, resp.
+predaja.
+19. V prípade, že dodávateľ poruší bod 18. osobitných požiadaviek na plnenie čo i len čiastočne objednávateľ má právo na
+úhradu zmluvnej pokuty vo výške 100.000,- eur. Dodávateľ sa zaväzuje zaplatiť zmluvnú pokutu vyúčtovanú v súlade s týmto
+bodom objednávateľovi na jeho bankový účet, a to najneskôr do 15 dní potom, čo bude dodávateľovi doručená výzva na jej
+úhradu.
+20. Na tovar je záruka stanovená vo výške 72 mesiacov, ktorá začína plynúť dňom podpisu príslušného preberacieho
+protokolu bez vád a nedorobkov obidvoma zmluvnými stranami.
+21. Dodávateľ bezodkladne po nadobudnutí účinnosti zmluvy oznámi objednávateľovi kontaktnú osobu zodpovednú za
+realizáciu predmetu zmluvy.
+22. Objednávateľ bezodkladne po nadobudnutí účinnosti zmluvy oznámi dodávateľovi kontaktnú osobu vrátane jej kontaktných
+údajov bezodkladne po nadobudnutí účinnosti tejto zmluvy.
+23. Objednávateľ zaplatí cenu za dodanie tovaru a implementačné práce na základe faktúry vystavenej dodávateľom po
+protokolárnom odovzdaní predmetu zmluvy. Dodávateľ vyhotoví faktúru najneskôr do 15 dní odo dňa protokolárneho
+odovzdania predmetu zmluvy.
+24. Dodávateľ sa zaväzuje vysporiadať svoj záväzok na DPH z faktúry voči správcovi dane v zákonom stanovenej lehote. V
+prípade nesplnenia tejto povinnosti voči správcovi dane a následného núteného ručenia Objednávateľom za túto DPH, sa
+Dodávateľ zaväzuje z titulu náhrady škody uhradiť Objednávateľovi túto DPH v plnej výške do desiatich dní od doručenia jej
+vyúčtovania Dodávateľovi. Porušenie tejto daňovej povinnosti vyplývajúcej zo všeobecne záväzného právneho predpisu je
+podstatným porušením zmluvy a dôvodom na okamžité odstúpenie Objednávateľa od tejto objednávky.
+
+Strana 4 z 6
+
+25. V prípade zahraničného dodávateľa tento predloží objednávateľovi, najneskôr do doby vyhotovenia prvej faktúry, originál
+potvrdenia o mieste svojej daňovej rezistencie, alebo jeho úradne overenú kópiu. Počas trvania zmluvy dodávateľ predmetné
+potvrdenie predloží objednávateľovi na začiatku každého nového zdaňovacieho obdobia. Dodávateľ zároveň vyhlasuje a
+zaväzuje sa, že v prípade vzniku stálej prevádzkarne na území Slovenskej republiky počas trvania zmluvy bude o tejto
+skutočnosti objednávateľa bezodkladne informovať.
+26. Porušenie povinností v zmysle bodu 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 20, 21, 24, 25 osobitných
+požiadaviek na plnenie sa považuje za podstatné porušenie zmluvy zo strany dodávateľa.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Imricha Karvaša 1, Tomášiková 28/a
+
+Čas / lehota plnenia zmluvy:
+13.09.2017 14:00:00 - 30.10.2017 14:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+Komplet
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 75 000,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 90 000,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+Strana 5 z 6
+
+V Bratislave, dňa 11.09.2017 14:22:01
+Objednávateľ:
+Národná banka Slovenska
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Vision IT Solutions, a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 6 z 6
+
+

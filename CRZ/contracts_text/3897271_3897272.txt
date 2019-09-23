@@ -1,0 +1,549 @@
+Zmluva o dielo
+č. CRZ:00506/2019-ESPF-GR0003/19.00
+uzatvorená v zmysle § 536 a nasl. zákona č.513/1991 Zb. Obchodný zákonník v znení
+neskorších predpisov
+
+č. objednávateľa:
+
+č. zhotoviteľa : 1/2019
+
+Zmluvné strany
+Objednávateľ:
+so sídlom:
+Bankové spojenie:
+Číslo účtu:
+IČO:
+IČ pre DPH:
+DIČ:
+Zapísaný:
+V zastúpení:
+
+Slovenský pozemkový fond
+Búdkova 36, 817 15 Bratislava
+Štátna pokladnica,
+SK35 8180 0000 0070 0000 1638
+17335345
+Nie je platcom
+2021007021
+v OR OS Bratislava I, oddiel: Po, vložka č. 35/B
+JUDr. Adriana Šklíbová, generálna riaditeľka
+Ing. Boris Brunner, námestník generálnej riaditeľky
+
+(ďalej len „objednávateľ" alebo „SPF“)
+Zhotoviteľ:
+so sídlom:
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie:
+Číslo:
+Zapísaný:
+V zastúpení
+
+YMS, a.s.
+Hornopotočná 1, 917 01 Trnava
+36224278
+SK2020163090
+2020163090
+Slovenská sporiteľňa, a.s.
+SK66 0900 0000 0002 8639 7620
+v OR OS Trnava, oddiel Sa, vložka č. 10037/T
+Ing. Lucia Dubná, podpredseda predstavenstva
+
+(ďalej len „zhotoviteľ")
+(Ďalej spolu len „zmluvné strany")
+Preambula
+
+SPF v rámci ukončovania prevádzky parciálnych aplikácií pre správu depozitov a priebežného
+nábehu prevádzky centralizovaného Informačného systému Depozitov požaduje vykonať
+konsolidáciu súčasnej údajovej základne a migráciu údajovej sady pomocou migračných skriptov.
+Pri prenose dát musí byť zachovaný správny formát a čitateľnosť pri dodržaní bezpečnosti a
+ochrany dát pred stratou, zničením, znehodnotením, únikom alebo zneužitím s cieľom
+bezproblémového chodu SPF.
+
+Táto zmluva je výsledkom postupu verejného obstarávania na obstaranie zákazky „Migrácia
+údajov aplikácií depozitov do centralizovaného IS Depozitov“ postupom podľa zákona č.
+
+343/2015 Z.z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov (ďalej len „zákon o verejnom obstarávaní“)
+Článok I
+Definície
+(1) Na účely tejto zmluvy sa rozumie:
+a)
+Pracovným dňom : pondelok až piatok bez štátnych sviatkov a dní
+pracovného pokoja v čase od 8:00 do 16:00;
+b)
+Vykonanými prácami: činnosť zhotoviteľa potrebná na vykonanie diela podľa
+tejto zmluvy;
+c)
+Zamestnancom zhotoviteľa: najmä, no nielen, zamestnanci zhotoviteľa,
+subdodávatelia zhotoviteľa, či iné osoby, ktoré budú v mene a na
+zodpovednosť zhotoviteľa vykonávať Dielo podľa tejto zmluvy;
+d)
+Cenou : cena za vykonanie celého diela dohodnutá zmluvnými stranami;
+e)
+Dátami : všetky dáta, ktoré je potrebné migrovať v rozsahu Prílohy č. 1 tejto
+zmluvy
+f)
+Prílohou : sa rozumie každá príloha, ktorá tvorí neoddeliteľnú súčasť zmluvy;
+g)
+Migráciou dát: pokiaľ z jednotlivých ustanovení tejto zmluvy nevyplýva
+jednoznačne niečo iné, celý proces prenosu všetkých dát z prevádzkových
+databáz a evidencií do informačného systému Depozity pozostáva z:
+i. prípravy dát pre migráciu zo zdrojových databáz a evidencií,
+ii. importu dát do príslušných databázových štruktúr informačného systému
+Depozity,
+iii. migrácia údajov z testovacích databáz do produkčného systému
+iv. kontroly migrácie dát.
+
+Článok II
+Predmet zmluvy
+(2) Predmetom tejto zmluvy je záväzok zhotoviteľa vykonať konsolidáciu súčasnej údajovej
+základne depozitov a jej migráciu do nového centralizovaného Informačného systému
+depozitov, (ďalej aj „Dielo“ alebo „Predmet plnenia“) a na druhej strane záväzok
+objednávateľa poskytnúť zhotoviteľovi potrebnú a dohodnutú súčinnosť, ďalej prebrať
+riadne a včasne vykonané Dielo a zaplatiť zhotoviteľovi za riadne a včasné splnenie jeho
+záväzku cenu dojednanú v článku V.
+
+Článok III
+Miesto plnenia, čas plnenia a dodacie podmienky
+(1) Za miesto plnenia podľa tejto zmluvy sa považuje sídlo objednávateľa.
+(2) Zhotoviteľ je povinný začať vykonávať Dielo v rozsahu a za podmienok stanovených v
+tejto zmluve dňom nadobudnutia jej účinnosti. Zhotoviteľ je povinný vykonať Dielo
+najneskôr do 15.4.2019. V prípade neposkytnutia nevyhnutnej súčinnosti zo strany
+objednávateľa potrebnej na vykonanie diela, sa doba podľa predchádzajúcej vety
+primerane predlžuje o dobu omeškania. Zhotoviteľ nie je oprávnený termín plnenia meniť
+bez predchádzajúcej písomnej dohody s objednávateľom.
+
+(3) Konsolidovanú a migrovanú údajovú sadu depozitov odovzdá zhotoviteľ objednávateľovi
+implementáciou do centralizovaného Informačného systému depozitov pred podpisom
+akceptačného protokolu.
+(4) Riadne vykonané Dielo musí spĺňať podmienky úplného a obsahovo správneho
+vykonania migrácie a konsolidácie dát podľa tejto zmluvy. Kontrola bude vykonaná v
+spolupráci zhotoviteľa s objednávateľom. Objednávateľ je povinný do 10 dní po
+odovzdaní Diela k akceptácii oznámiť zhotoviteľovi vady, ktoré bránia akceptácii Diela (ak
+sa zmluvné strany nedohodnú inak), inak sa Dielo pokladá za akceptované a odovzdané
+bez výhrad. Objednávateľ je povinný vady dostatočne popísať.
+(5) Na účely tejto zmluvy sa Dielo považuje za vykonané odsúhlasením a podpisom
+Akceptačného protokolu o vykonaní diela oboma zmluvnými stranami alebo podľa bodu 4
+tohto článku. Akceptačný protokol sa vyhotoví vo dvoch vyhotoveniach, po jednom pre
+každú zmluvnú stranu.
+
+Článok IV
+Ďalšie práva a povinnosti zmluvných strán
+(1) Zhotoviteľ je ďalej počas vykonávania Diela povinný:
+a)
+zabezpečiť, aby presúvané Dáta spĺňali podmienky čitateľnosti a správneho
+formátu,
+b)
+vykonávať úpravu Dát a doplňovanie dát v rozsahu potrebnom pre
+dosiahnutie účelu, pre ktorý bola táto zmluva uzavretá,
+c)
+vykonávať kontrolu dát po migrácii, a to predovšetkým, no nie výlučne,
+poskytovaním:
+i. konzultácií,
+ii. programátorských prác pre prípravu Dát,
+iii. riadením projektu exportu Dát a testovaním ich správnosti
+(2) Zhotoviteľ sa ďalej zaväzuje aj:
+a)
+vykonávať Dielo osobami na to oprávnenými podľa príslušných právnych
+predpisov,
+b)
+vykonať Dielo v plnom rozsahu v súlade so zmluvou a jej prílohami, v
+požadovanej kvalite, podľa pokynov objednávateľa,
+c)
+po vykonaní Diela vyhotoviť akceptačný protokol o vykonaní diela,
+d)
+zaviazať osoby za zhotoviteľa na mlčanlivosť o skutočnostiach, o ktorých sa
+dozvedeli pri vykonávaní Diela,
+(3) Objednávateľ sa zaväzuje počas vykonávania Diela:
+a)
+poskytnúť zhotoviteľovi potrebnú súčinnosť, predovšetkým zabezpečiť zber
+všetkých údajov,
+b)
+poskytovať usmernenia, korekcie, prípadnú ad hoc kontrolu podľa
+odôvodnených potrieb zhotoviteľa.
+(4) Objednávateľ je ďalej povinný:
+a)
+vytvoriť zhotoviteľovi také pracovné podmienky, aby bolo možné v čo
+najkratšom čase zrealizovať predmet zmluvy,
+b)
+umožniť vykonávať práce priamo súvisiace s predmetom zmluvy na základe
+požiadavky aj v mimopracovnej dobe po vzájomnej dohode so zhotoviteľom,
+c)
+zabezpečiť účasť svojho zamestnanca pri vykonávaní diela, ak to bude
+potrebné,
+d)
+zabezpečiť potrebný prístup do všetkých priestorov objednávateľa, ak bude
+pre vykonanie diela potrebný,
+e)
+poskytnúť aj všetku ďalšiu potrebnú súčinnosť, ktorú možno odôvodnene
+požadovať.
+
+(5) Zhotoviteľ, jeho subdodávatelia a subdodávatelia podľa zákona č. 315/2016 Z.z o registri
+partnerov verejného sektora a o zmene a doplnení niektorých zákonov musia byť v čase
+uzatvorenia zmluvy v súlade s § 11 zákona o verejnom obstarávaní zapísaní v registri
+partnerov verejného sektora, ak to zákon vyžaduje. Využitím subdodávateľov nie je
+dotknutá zodpovednosť zhotoviteľa na plnenie predmetu zmluvy.
+
+Článok V
+Cena za vykonané práce
+(1) Cena za vykonanie diela je stanovená v zmysle zákona č. 18/1996 Z. z. o cenách v znení
+neskorších predpisov (ďalej len „zákon o cenách") a vyhlášky Ministerstva financií
+Slovenskej republiky č. 87/1996 Z. z., ktorou sa vykonáva zákon o cenách (ďalej len
+„vyhláška").
+(2) Zmluvné strany sa dohodli na cene za Dielo vo výške 34 500,00 € bez DPH (slovom
+tridsaťštyritisícpäťsto eur bez DPH).
+(3) Cena je cenou konečnou a zahŕňa všetky náklady zhotoviteľa spojené s dodaním diela. K
+cene bude fakturovaná DPH v zmysle zákona č. 222/2004 Z. Z. O dani z pridanej hodnoty
+v čase vykonania diela.
+(4) V prípade nedodržania lehoty na vykonanie Diela nemá zhotoviteľ nárok na akékoľvek
+navýšenie ceny.
+
+Článok Vl.
+Fakturácia a platobné podmienky
+(1)
+
+(2)
+
+(3)
+(4)
+
+Zhotoviteľovi prislúcha úhrada len za skutočne vykonané práce. Právo na zaplatenie
+ceny vzniká zhotoviteľovi riadnym vykonaním a odovzdaním všetkých častí Diela
+osobám objednávateľa formou písomného protokolu o odovzdaní a prevzatí diela
+(akceptačný protokol).
+Objednávateľ neposkytuje na Dielo preddavok ani zálohovú platbu. Cenu za Dielo
+uhradí objednávateľ na základe faktúry, ktorú zhotoviteľ vystaví do 15 dní odo
+dodania a doručí na adresu objednávateľa. Dňom dodania je deň odovzdania diela
+formou podpisu akceptačného protokolu, ktorý je neoddeliteľnou súčasťou faktúry.
+Splatnosť faktúry je 30 dní odo dňa jej doručenia objednávateľovi. Objednávateľ
+uhradí faktúru na číslo účtu uvedené v záhlaví zmluvy, resp. na faktúre.
+Faktúra musí obsahovať všetky náležitosti podľa zákona č. 222/2004 Z. z. o dani z
+pridanej hodnoty v znení neskorších predpisov, ako aj číslo zmluvy. Ak faktúra
+nebude obsahovať uvedené náležitosti, objednávateľ je oprávnený takúto faktúru
+vrátiť zhotoviteľovi spolu s označením nedostatkov, pre ktoré bola vrátená. V tomto
+prípade nová lehota splatnosti začne plynúť dňom nasledujúcom po dni doručenia
+opravenej (novej) faktúry do sídla objednávateľa.
+
+Článok VII.
+Zmluvné pokuty, náhrada škody
+(1)
+
+V prípade omeškania zhotoviteľa s vykonaním Diela podľa článku III ods. 2, alebo so
+začatím a odstraňovaním vád podľa článku VIII ods. 2 vzniká objednávateľovi nárok
+
+(2)
+(3)
+(4)
+
+na zmluvnú pokutu vo výške 0,05 % z ceny diela uvedenej v článku V bod 2 tejto
+zmluvy, a to za každý aj začatý deň omeškania.
+V prípade omeškania objednávateľa s úhradou faktúry vzniká zhotoviteľovi nárok na
+úrok z omeškania vo výške 0,05 % z dlžnej čiastky za každý deň omeškania.
+V prípade porušenia mlčanlivosti podľa článku IX. vzniká poškodenej zmluvnej strane
+nárok na zmluvnú pokutu vo výške 1000€ (slovom tisíc eur) za každé porušenie.
+Týmto článkom nie sú dotknuté nároky zmluvných strán na náhradu škody, ktorá
+vznikne zmluvnej strane porušením povinností vyplývajúcich z tejto zmluvy druhou
+zmluvnou stranou. Zmluvná strana je oprávnená požadovať náhradu škody
+prevyšujúcu výšku zmluvnej pokuty.
+
+Článok VIII
+Záruka a obmedzenie zodpovednosti
+(1)
+
+(2)
+(3)
+
+(4)
+
+(5)
+(6)
+
+(7)
+
+Zhotoviteľ zodpovedá za to, že Dielo vykoná podľa podmienok uvedených v zmluve a
+bude mať vlastnosti v nej dohodnuté alebo požadované. V prípade zistenia vád má
+objednávateľ nárok požadovať od zhotoviteľa bezplatné odstránenie týchto vád.
+Zhotoviteľ poskytne na Dielo záruku po dobu 12 mesiacov, ktorá začína plynúť odo
+dňa podpisu akceptačného protokolu.
+Zhotoviteľ sa zaväzuje, že s odstraňovaním vád začne najneskôr do 2 pracovných dní
+po doručení reklamácie zhotoviteľovi a je povinný ich odstrániť v lehote 30 dní po
+doručení reklamácie, ak sa zmluvné strany nedohodnú inak.
+Reklamáciu podľa bodu 1 tohto článku je objednávateľ povinný uplatniť u zhotoviteľa
+bezodkladne po jej zistení a to písomnou formu. Zhotoviteľ nesmie nijakým
+spôsobom zamedzovať prijatiu reklamačnej správy vytvorením spamových alebo
+iných filtrov, či už blokovaním vlastnej e-mailov schránky a/alebo jej naplnením inými
+dátami či inými prostriedkami brániacimi prijatiu e-mailu.
+Zhotoviteľ zodpovedá za vady, ktoré má Dielo v čase jeho odovzdania
+objednávateľovi. Dielo má vady, ak nemá vlastnosti požadované touto zmluvou.
+Zhotoviteľ neposkytuje záruku, ak bol na Diele vykonaný zásah bez jeho vedomia,
+alebo bolo Dielo porušené neodborným zásahom nepovolanou osobou
+objednávateľa.
+Zhotoviteľ nezodpovedá za chyby, škody a straty spôsobené obsahovou
+nesprávnosťou dát dodaných objednávateľom nevhodnými pokynmi objednávateľa,
+na nevhodnosť ktorých zhotoviteľ objednávateľa písomne upozornil. To však
+nezbavuje zhotoviteľa zodpovednosti za škody spôsobené stratou, zničením,
+odcudzením alebo poškodením dát. Zhotoviteľ nezodpovedá za chyby vzniknuté z
+dôvodov nie na jeho strane alebo v dôsledku chýb v produktoch alebo postupoch
+tretích strán, ktoré môžu byť použité pri plnení zmluvy.
+
+Článok IX
+Utajenie dôverných informácií a ochrana osobných údajov
+(1)
+
+(2)
+
+Zmluvné strany sa zaväzujú zachovávať mlčanlivosť o skutočnostiach, o ktorých sa
+dozvedeli pri výkone predmetu tejto zmluvy. Dôverné informácie poskytnuté,
+odovzdané, oznámené, sprístupnené alebo získané v súvislosti so zmluvou môžu byť
+použité výhradne na účely plnenia predmetu zmluvy.
+Zachovanie mlčanlivosti platí aj po ukončení zmluvného vzťahu bez časového
+obmedzenia.
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+Zmluvné strany sa zaväzujú zaobchádzať s informáciami, získanými od druhej
+zmluvnej strany ako s informáciami dôvernými, zachovávať o nich mlčanlivosť a
+zabezpečiť ich ochranu pred tretími osobami minimálne v takom rozsahu, ako chráni
+vlastné dôverné informácie podobnej povahy a dôležitosti (ktoré však nebudú v
+menšom rozsahu a kvalite, ako je rozumné a obvyklé). Zmluvná strana nie je
+oprávnená informácie uvedené v tejto Zmluve poskytnúť tretím osobám bez
+predchádzajúceho písomného súhlasu druhej zmluvnej strany. V prípade poskytnutia
+uvedených informácií tretím osobám je zhotoviteľ povinný zabezpečiť zaobchádzanie
+a mlčanlivosť tretej osoby v rovnakom rozsahu ako je viazaná samotná zmluvná
+strana.
+Povinnosť mlčanlivosti podľa tohto článku Zmluvy sa nevzťahuje na informácie a
+skutočnosti, ktoré:
+a)
+sú verejne prístupné, alebo ktoré sa bez zavinenia Zmluvnej strany, ktorá tieto
+informácie získala, stanú verejne prístupnými, alebo
+b)
+boli druhej Zmluvnej strane preukázateľne známe pred nadobudnutím
+účinnosti Zmluvy, alebo
+c)
+Zmluvná strana získala od tretej strany, ktorá nie je viazaná povinnosťou
+mlčanlivosti voči Zmluvnej strane, ktorej sa takéto informácie týkajú, alebo
+d)
+sa majú sprístupniť a poskytnúť v zmysle všeobecne záväzných právnych
+predpisov alebo vyžiadania oprávnených orgánov v rozsahu určenom
+platnými všeobecne záväznými právnymi predpismi. Ak bude zmluvná strana
+požiadaná akoukoľvek treťou osobu o poskytnutie dôverných informácií, je
+príslušná zmluvná strana povinná bezodkladne informovať druhú zmluvnú
+stranu a vzájomne sa dohodnú na spôsobe poskytnutia dôverných informácií
+týmto osobám tak, aby boli čo najviac chránené záujmy zmluvnej strany.
+Zhotoviteľ sa zaväzuje zabezpečiť, že bude, ako aj jeho zamestnanci a
+subdodávatelia, dodržiavať všetky povinnosti a obmedzenia vyplývajúce zo
+zachovávania mlčanlivosti podľa tejto Zmluvy a zároveň zhotoviteľ zodpovedá
+objednávateľovi bez obmedzenia za všetku škodu, ktorá by vznikla porušením vyššie
+uvedených povinností.
+V prípade ukončenia platnosti alebo účinnosti tejto Zmluvy zhotoviteľ
+a)
+vráti objednávateľovi alebo zničí všetky dokumenty a ich kópie, ktoré sú v
+držbe zhotoviteľa,
+b)
+vymaže akékoľvek dôverné informácie z počítačových systémov alebo iných
+elektronických zariadení.
+V prípade, ak by na základe tejto zmluvy a v súlade s dosiahnutím jej účelu bolo
+potrebné, aby objednávateľ sprístupnil zhotoviteľovi informácie a/alebo dáta
+obsahujúce osobné údaje, na ktoré sa vzťahuje ochrana podľa zákona č. 18/2018 Z.
+Z. O ochrane osobných údajov v znení neskorších predpisov, zmluvné strany sa
+zaväzujú prijať primerané opatrenia na ich ochranu v súlade s dosiahnutím účelu
+tohto zákona, najmä pred začatím spracovania osobných údajov uzavrieť Zmluvu o
+spracúvaní osobných údajov.
+Zmluvné strany vyhlasujú, že sú si vedomé svojich povinností vyplývajúcich z ochrany
+osobných údajov tak, ako je upravená v Nariadení Európskeho parlamentu a Rady
+(EÚ) 2016/679 a v zákone č. 18/2018 Z.z. o ochrane osobných údajov, vrátane
+povinnosti zabezpečenia súhlasu dotknutej osoby pri prvom sprístupnení osobných
+údajov dotknutej osoby v súlade s aktuálne platnými právnymi predpismi.
+
+Článok X
+Doba trvania a ukončenie zmluvy
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Zmluva sa uzatvára do doby vykonania Diela, najviac však po dobu stanovenú v
+článku III ods. 2, v ktorej je zhotoviteľ povinný Dielo vykonať. Túto zmluvu možno
+ukončiť písomnou dohodou alebo písomným odstúpením od zmluvy.
+V prípade zániku zmluvy dohodou zmluvných strán, táto zaniká dňom uvedeným v
+tejto dohode (ďalej len „deň zániku dohody dohodou"). V tejto dohode sa upravia aj
+vzájomné nároky zmluvných strán vzniknuté z plnenia zmluvných povinností alebo z
+ich porušenia druhou zmluvnou stranou ku dňu zániku zmluvy dohodou.
+Pokiaľ sa zmluvná strana dozvie, že druhá zmluvná strana porušuje podmienky
+zmluvy, je povinná o tomto porušení upovedomiť druhú zmluvnú stranu a uviesť
+primeranú lehotu na odstránenie porušenia, v trvaní minimálne 30 dní. Nesplnenie
+povinnosti porušujúcej zmluvnej strany v dodatočnej lehote oprávňuje druhú zmluvnú
+stranu odstúpiť od zmluvy.
+Objednávateľ si vyhradzuje právo okamžitého odstúpenia od zmluvy, v prípadoch
+podstatného porušenia zmluvy, ak zhotoviteľ najmä:
+a)
+opakovane nedodrží kvalitu, rozsah alebo čas plnenia predmetu zmluvy podľa
+tejto zmluvy,
+b)
+poruší ktorúkoľvek z povinností zhotoviteľa, predovšetkým však povinnosť
+odstrániť vady a nedorobky vyplývajúce z reklamačného konania,
+Odstúpenie musí mať písomnú formu a musí byť doručené druhej zmluvnej strane.
+Účinky odstúpenia nastávajú dňom doručenia odstúpenia druhej zmluvnej strane.
+Zmluvné strany nie sú povinné vracať si plnenia, ktoré ku dňu odstúpenia od zmluvy
+boli druhou zmluvnou stranou akceptované.
+
+Článok XI
+Doručovanie, komunikácia
+(1)
+(2)
+
+Zmluvné strany sa dohodli, že do 7 dní po nadobudnutí účinnosti Zmluvy vymenujú
+kontaktné osoby, ktoré sú oprávnené k naplneniu predmetu Zmluvy.
+Na účely tejto zmluvy sa za deň doručenia považuje deň prevzatia písomnosti. V
+prípade, ak adresát odmietne písomnosť prevziať, za deň doručenia sa považuje deň
+odmietnutia prevzatia písomnosti. V prípade, ak si adresát neprevezme písomnosť v
+úložnej dobe na pošte, za deň doručenia sa považuje posledný deň úložnej doby na
+pošte. V prípade, ak sa písomnosť vráti odosielateľovi s označením pošty „adresát
+neznámy" alebo „adresát sa odsťahoval" alebo s inou poznámkou iného podobného
+významu, za deň doručenia sa považuje deň vrátenia zásielky odosielateľovi.
+Miestom pre doručovanie sú adresy zmluvných strán uvedené v záhlaví tejto zmluvy.
+
+Článok XII
+Osobitné a záverečné ustanovenia
+(1)
+(2)
+
+V prípade pochybností týkajúcich sa výkladu ktoréhokoľvek ustanovenia tejto zmluvy,
+je potrebné vykladať ho v prvom rade v súlade s účelom zmluvy.
+Zmluva nadobúda platnosť dňom jej podpísania oboma zmluvnými stranami a
+účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv v
+
+(3)
+
+(4)
+
+(5)
+(6)
+(7)
+
+súlade s ustanovením §47a ods. 1 zákona č. 40/1964 Zb. Občiansky zákonník v
+znení neskorších predpisov.
+Ostatné práva a povinnosti zmluvných strán v tejto zmluve neupravené sa primerane
+riadia ustanoveniami Obchodného zákonníka, Zákona o verejnom obstarávaní a
+ostatnými všeobecne záväznými právnymi predpismi. Na riešenie prípadných sporov
+je príslušný súd Slovenskej republiky.
+Akékoľvek zmeny a doplnenia tejto zmluvy môže byť vykonané iba písomne,
+číslovanými dodatkami k tejto zmluve podpísaným oprávnenými zástupcami
+zmluvných strán.
+Neoddeliteľnou súčasťou zmluvy je Príloha č. 1 - Špecifikácia predmetu zmluvy.
+Zmluva sa vyhotovuje v štyroch exemplároch (origináloch), z toho dva pre každú
+zmluvnú stranu.
+Zmluvné strany si zmluvu prečítali, s jej obsahom súhlasia a prehlasujú, že
+zodpovedá ich slobodnej vôli a nebola dojednaná v tiesni ani za inak jednostranne
+výhodných podmienok.
+
+V Trnave dňa .....................
+
+V Bratislave dňa ............
+
+Za zhotoviteľa:
+
+Za objednávateľa:
+
+_______________________
+
+____________________
+
+Ing. Lucia Dubná
+
+JUDr. Adriana Šklíbová
+
+Podpredseda predstavenstva
+
+generálna riaditeľka
+
+____________________
+Ing. Boris Brunner
+Námestník generálnej riaditeľky
+
+Príloha č. 1 – Špecifikácia predmetu zmluvy
+SPF v rámci ukončenia prevádzky parciálnych aplikácií pre správu depozitov a postupného
+nábehu centralizovaného Informačného systému Depozitov požaduje vykonať:
+-
+
+konsolidáciu súčasnej údajovej základne
+migráciu údajovej sady pomocou migračných skriptov
+
+Údaje dosluhujúcich aplikácií a taktiež nového informačného systému sú uložené v centrálnej
+databáze na platforme MS SQL Server. Súčasný ako aj nový údajový model sú popísané a
+dostupné pre potreby identifikácie zodpovedajúcich štruktúr. Podrobný popis údajových modelov
+bude
+dodaný
+v
+rámci
+úvodnej
+fázy
+projektu.
+Údajový model súčasných aplikácií obsahuje 11 číselníkových registrov a 15 databázových
+tabuliek obsahujúcich údaje o rozhodnutiach súvisiacich s agendou záhradkových osád,
+prevedených a vyvlastnených pozemkov, údaje pôvodných vlastníkov pozemkov a oprávnených
+žiadateľov, ktorým sú vyplácané peniaze z depozitného účtu. Ďalej obsahuje 10 tabuliek
+súvisiacich s prislúchajúcou ekonomickou agendou a nastaveniami premenných. Tieto štruktúry
+obsahujú údaje o platbách, úhradách, vrátaných nevyplatených platbách a údaje o používateľoch
+jednotlivých aplikácií a histórie zmien údajov. Databáza eviduje dokopy približne 80 000 osôb a
+ich údaje (mená adresy, spôsoby vyplatenia, ...), 15 000 rozhodnutí, 40 000 ekonomických a log
+auditných záznamov, 17 000 ekonomických údajov (platby, úhrady, vratky a pod.) a 9 000
+číselníkových
+záznamov
+a
+registrov.
+Nakoľko nový Informačný systém Depozitov podstatným spôsobom rozširuje funkcionalitu
+súčasných aplikácií, údajový model je rozsiahlejší. Obsahuje 12 číselníkových registrov a ďalších
+49
+databázových
+tabuliek.
+SPF požaduje zabezpečiť bezstratovú migráciu všetkých údajov zo stávajúcej databázy do
+údajových štruktúr dátového modelu nového centralizovaného Informačného systému Depozitov.
+S ohľadom na testovanie a paralelnú prevádzku oboch systémov počas skúšobnej doby, je
+potrebné pripraviť migráciu tak, aby ju bolo možné vykonať opakovane. Opakovanú migráciu je
+možné vykonať kompletnú, alebo aj inkrementálnu. SPF však požaduje dokladovať výsledky
+migrácie formou prehľadného reportu, na základe bude možné dokladovať úplnosť a
+bezstratovosť
+migrácie.
+Údaje o rozhodnutiach je potrebné migrovať do prislúchajúcich štruktúr rozhodnutí.
+Údaje o osobách (vlastníkoch a žiadateľoch) je potrebné migrovať do prislúchajúcich štruktúr
+osôb.
+História zmien údajov stávajúcej databázy je roztrúsená vo viacerých databázových štruktúrach
+(napr. auditné záznamy o založení a zmene údajov sú vedené priamo v záznamoch rozhodnutí,
+auditné údaje o úpravách ekonomických záznamov sú v jednej zmenovej tabuľke a údaje o
+zmenách osôb sú evidované vo viacerých štruktúrach pri údajoch jednotlivých osôb). Nakoľko
+nový informačný systém vedie jeden centralizovaný auditový žurnál, je potrebné konsolidovať a
+zmigrovať parciálne auditné záznamy do centralizovaného auditového žurnálu tak, aby bolo
+možné
+rekonštruovať
+priebeh
+konania
+vybavenia
+rozhodnutia.
+Ekonomické údaje je potrebné migrovať do prislúchajúcich štruktúr nového údajového modelu.
+SPF súčasne požaduje vykonať v rámci migrácie aj konsolidáciu registrov a údajov a osobách.
+Cieľom je „vyčistiť“ údaje s cieľom vytvorenia jednotného registra subjektov (nadobúdateľov) a
+zjednotenia údajov o osobách tak, aby tú istú osobu bolo možné jednoznačne identifikovať v
+novom informačnom systéme. Osoby nemajú jednoznačne priradené mená, adresy a ostatné
+kontaktné
+údaje.
+SPF nepožaduje špecifický vývoj ani inštaláciu migračných aplikácií, alebo migračných nástrojov.
+
+

@@ -1,0 +1,361 @@
+Zmluva o poskytnutí služieb
+uzatvorená v súlade s § 269 ods. 2 zákona č. 513/1991 Zb. Obchodného zákonníka v znení jeho neskorších
+zmien a doplnkov a v súlade so zákonom č. 343/2015 Z.z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov (ďalej len „zmluva“)
+Číslo zmluvy objednávateľa: 2228/NLC/2017-VO
+Článok I.
+Zmluvné strany
+Objednávateľ:
+Názov:
+Sídlo:
+Štatutárny zástupca:
+Osoba zodpovedná za plnenie
+predmetu zmluvy:
+Bankové spojenie:
+IBAN:
+IČ DPH:
+DIČ:
+IČO:
+(ďalej len „objednávateľ“)
+Poskytovateľ:
+Názov:
+Sídlo:
+Štatutárny zástupca:
+IČO:
+DIČ:
+IČ DPH:
+Zápis:
+Bankové spojenie:
+IBAN:
+Email:
+Tel. číslo:
+(ďalej len „poskytovateľ“)
+
+Národné lesnícke centrum
+T. G. Masaryka 22, 960 92 Zvolen
+Bc. Ing. Ľuboš Halvoň, PhD., generálny riaditeľ
+Ing. Konštantín Gaál, vedúci odboru DPZ
+Štátna pokladnica
+SK20 8180 0000 0070 0024 1498
+SK 2022091027
+2022091027
+42001315
+
+EMM, spol. s r.o.
+Sekurisova 16, 841 02 Bratislava
+Ing. Jozef Chebeň, konateľ
+17 316 260
+2020 3165 29
+SK 2020 3165 29
+OR OS Bratislava I, oddiel: Sro, vložka č. 686/B
+Slovenská sporiteľňa, a.s.
+SK05 0900 0000 0006 3490 2743
+emm@emm.sk
++421-2-60254111
+
+Objednávateľ a poskytovateľ sa ďalej spoločne označujú aj ako „zmluvné strany“.
+Článok II.
+Preambula
+1. Zmluvné strany uzatvárajú túto zmluvu na základe víťaznej ponuky poskytovateľa v rámci postupu
+verejného obstarávateľa (v zmluve uvedeného ako objednávateľ) v zmysle § 117 zákona č. 343/2015 Z. z.
+o verejnom obstarávaní a o zmene a doplnení niektorých zákonov.
+Článok III.
+Predmet zmluvy
+1. Predmetom tejto zmluvy je záväzok poskytovateľa vykonať pre objednávateľa nasledovné činnosti:
+a) komplexný manažment diskového poľa Hitachi HUS130
+b)‎ manažment SAN siete
+c) optimalizáciu alokovanej cache pre hot dáta po iniciálnom nastavení na HUS 130
+d) optimalizácia kapacity alokovaných LUN-ov na príslušnom serveri DPZ01 a DPZ02
+e) kontrola využitia zdrojov HUS130 (výkon, priepustnosť, diskový priestor)
+f) reinštalácia Hitachi Storage Navigator Modular (manažment softvér) na iný produkčný, menej zaťažený
+server
+g) eliminovanie potencionálneho úzkeho hrdla prietoku dát z HUS130.
+h) manažment PC infraštruktúry vo vyhradenom priestore na úrovni "dôverné“
+(ďalej spolu aj ako „činnosti“)
+
+1
+
+2. Z vyššie uvedeného vyplýva, že činnosti, ktoré sa poskytovateľ zaväzuje vykonať súvisia s manažmentom
+diskového poľa Hitachi HUS130 a PC infraštruktúry vo vyhradenom priestore.
+3. V rámci výkonu činností v súlade s bodom 1 tohto článku zmluvy sa poskytovateľ zaväzuje aj:
+zaškoliť objednávateľom poverených zamestnancov
+odskúšať funkčnosť infraštruktúry v systéme objednávateľa a jeho kompatibilitu so systémom
+objednávateľa
+vypracovať a odovzdať objednávateľovi dokumentácie s presným a podrobným popisom
+a špecifikáciou činností v súlade s bodom 1 tohto článku zmluvy ak je to relevantné
+Článok IV.
+Čas a miesto plnenia
+1. Zmluvné strany sa dohodli, že činnosti uvedené v č. III bod 1 písm. c) až g) zmluvy poskytovateľ vykoná
+v lehote najneskôr do 15.03.2018. Služby budú objednávateľom prevzaté na základe úspešného
+akceptačného konania, ktoré zrealizuje objednávateľ prostredníctvom osoby zodpovednej za plnenie
+predmetu zmluvy. Dĺžka akceptačného konania je 5 pracovných dní, počas ktorých sa bude overovať
+výsledok činností a ich funkčnosť a kompatibilita v rámci systému objednávateľa. Poskytovateľ je povinný
+akceptačné konanie zrealizovať tak, aby bolo ukončené najneskôr do 15.03.2018. Výsledkom
+akceptačného konania je akceptačný protokol podľa prílohy č. 2 tejto zmluvy, ktorý je prílohou
+záverečného preberacieho protokolu podľa prílohy č. 1 tejto zmluvy.
+2. Miestom výkonu činností, ako aj realizácie akceptačného konania je pracovisko objednávateľa na adrese
+Sokolská 2, 960 52 Zvolen. Poskytovateľ je povinný písomne upovedomiť objednávateľa o výkone
+činností a možnosti začatia akceptačného konania, a to aspoň tri pracovné dni vopred s ohľadom na
+dodržanie termínov stanovených v bode 1 tohto článku zmluvy. Upovedomenie v súlade s uvedeným
+poskytovateľ uskutoční formou emailu na adresu konstantin.gaal@nlcsk.org s vyžiadaním potvrdenia
+o doručení emailu.
+3. V rámci akceptačného konania, t.j. overovania funkčnosti výsledkov výkonu činností bude objednávateľ
+hodnotiť viacero kritérií, ale hlavným je funkčnosť infraštruktúry v systéme objednávateľa a ich
+kompatibilita. Poskytovateľ sa zaväzuje počas akceptačného konania poskytnúť objednávateľovi všetku
+potrebnú súčinnosť, ktorá v prípade potreby zahŕňa aj účasť poskytovateľa na akceptačnom konaní.
+4. Splnenie hlavného kritéria v súlade s bodom 3 tohto článku zmluvy objednávateľ uvedie a poznačí
+v akceptačnom protokole, pričom naplnením tohto kritéria a splnením povinností uvedených v čl. III bod
+3 zmluvy sa akceptačné konanie považuje za úspešné.
+5. Po úspešnom akceptačnom konaní a podpísaní akceptačného protokolu poskytovateľ predloží
+objednávateľovi záverečný preberací protokol podľa prílohy č. 1 tejto zmluvy. Spolu so záverečným
+preberacím protokolom poskytovateľ predloží objednávateľovi akceptačný protokol podľa bodu 4 tohto
+článku zmluvy a kompletnú dokumentáciu týkajúcu sa výkonu činností v tlačenej forme 1 ks
+a v elektronickej forme na CD alebo DVD 1 ks (ďalej aj ako „dokumentácia“) ak je to relevantné. Zmluvné
+strany potvrdia vykonanie činností v súlade so zmluvou, ako aj odovzdanie dokumentácie v súlade so
+zmluvou podpisom záverečného preberacieho protokolu, ktorý bude vyhotovený v 2 ks, jeden originál pre
+každú zmluvnú stranu. Záverečný preberací protokol bude podkladom pre fakturáciu zo strany
+poskytovateľa.
+6. Činnosti uvedené v čl. III bod 1 písm. g) až c) sa považujú za vykonané okamihom podpisu záverečného
+preberacieho protokolu objednávateľom (osobou zodpovednou za plnenie predmetu zmluvy).
+Objednávateľ nie je povinný akceptovať činnosti v prípade ak neboli vykonané v súlade s touto zmluvou
+a/alebo neboli splnené všetky kritériá hodnotené v rámci akceptačného konania, v takom prípade je
+objednávateľ oprávnený od zmluvy okamžite odstúpiť.
+7. Zmluvné strany sa dohodli, že činnosti uvedené v čl. III bod 1 písm. a), b) a h) sa poskytovateľ zaväzuje
+vykonávať pre objednávateľa do 31.12.2018. Tieto činnosti budú vykonávané podľa potrieb
+objednávateľa v maximálnom celkovom rozsahu 200 hodín, a to na základe požiadavky objednávateľa
+počas bežnej pracovnej doby objednávateľa, t.j. v pracovných dňoch od 8:00 do 16:30 hod.
+
+2
+
+Článok V.
+Cena a platobné podmienky
+1. Zmluvné strany sa dohodli na cene za vykonanie činností nasledovne:
+cena bez DPH
+9.934,00- €
+DPH 20%
+1.986,80-€
+cena celkom s DPH
+11.920,80- €
+slovom: jedenásťtisíc deväťstodvadsať EUR a 80 centov.
+(ďalej aj „cena za vykonanie činností“)
+2. Poskytovateľ sa zaväzuje, že cena za vykonanie činností je konečná a nemenná, že sú v nej zahrnuté
+všetky náklady a výdavky potrebné na vykonanie činností v súlade s touto zmluvou.
+3. Zmluvné strany sa dohodli, že objednávateľ zaplatí poskytovateľovi cenu za vykonanie činností na základe
+faktúry vystavenej poskytovateľom, ktorú je poskytovateľ oprávnený vystaviť až po podpise záverečného
+preberacieho protokolu objednávateľom (čl. IV bod 5 a 6 zmluvy) za predpokladu, že ako výsledok
+akceptačného konania v preberacom protokole nebudú uvedené žiadne nedostatky alebo len menej
+závažné nedostatky, t.j. nedostatky ktoré nebudú brániť riadnemu užívaniu infraštruktúry.
+4. Neoddeliteľnou súčasťou faktúry je záverečný preberací protokol. Faktúra musí byť objednávateľovi
+doručená v slovenskom jazyku a musí obsahovať náležitosti podľa zákona č. 222/2004 Z. z. o dani
+z pridanej hodnoty v znení neskorších predpisov a podľa § 3a Obchodného zákonníka.
+5. Zmluvné strany si dohodli lehotu splatnosti faktúry 30 dní odo dňa jej doručenia objednávateľovi. Ako
+spôsob platby si zmluvné strany dohodli bezhotovostný prevod na bankový účet poskytovateľa uvedený
+v záhlaví zmluvy. Cena za vykonanie činností sa považuje za uhradenú okamihom jej odpísania z účtu
+objednávateľa v prospech účtu poskytovateľa.
+6. Ak faktúra nebude úplná alebo bude obsahovať nesprávne údaje vrátane prílohy k faktúre, bude takáto
+faktúra poskytovateľovi vrátená. Poskytovateľ je povinný predložiť novú/opravenú faktúru, v takom
+prípade sa bude lehota splatnosti faktúry odvíjať od termínu predloženia novej/opravenej faktúry.
+
+Článok VI.
+Práva a povinnosti zmluvných strán
+1. Poskytovateľ sa zaväzuje činnosti v súlade s touto zmluvou vykonať vo vlastnom mene a na vlastnú
+zodpovednosť s vynaložením odbornej starostlivosti.
+2. Poskytovateľ je povinný pred začatím plnenia predmetu zmluvy doložiť objednávateľovi doklady
+preukazujúce, že je držiteľom potvrdenia o priemyselnej bezpečnosti podnikateľa pre postúpenie a vznik
+utajovanej skutočnosti na stupeň utajenia „dôverné“ a držiteľom Certifikátu systému manažérstva kvality
+ISO 9001:2008.
+3. Poskytovateľ je povinný okamžite informovať objednávateľa o všetkých skutočnostiach, ktoré by mohli
+mať za následok omeškanie plnenia jeho záväzkov vyplývajúcich zo zmluvy.
+4. Kontaktnou osobou poskytovateľa pre pripomienky, žiadosti, požiadavky, výhrady,
+objednávateľa je: Ing. Jozef Bezák, tel. kontakt: +421-2-60254111, e-mail: emm@emm.sk.
+
+sťažnosti
+
+5. Zmluvné strany sa dohodli, že za účelom riadneho a včasného vykonania činností objednávateľ poskytne
+poskytovateľovi prístup na príslušnú infraštruktúru objednávateľa.
+6. Objednávateľ sa zaväzuje poskytnúť poskytovateľovi súčinnosť potrebnú pre riadne a včasné plnenie
+predmetu zmluvy.
+7. Objednávateľ sa zaväzuje poskytnúť na požiadanie poskytovateľovi v primeranej lehote všetky informácie
+potrebné pre riadne plnenie predmetu zmluvy. Objednávateľ sa zároveň zaväzuje na požiadanie
+poskytovateľa oboznámiť poskytovateľa s internými predpismi a smernicami, ktorých dodržiavanie sa
+v súvislosti s plnením predmetu zmluvy od poskytovateľa vyžaduje.
+
+3
+
+Článok VII.
+Omeškanie a zmluvné sankcie
+1. Pri nedodržaní termínu vykonania činností poskytovateľom v súlade s čl. IV. bod 1 zmluvy je
+objednávateľ oprávnený požadovať od poskytovateľa zaplatenie zmluvnej pokuty vo výške 0,05 %
+z ceny za vykonanie činností za každý aj začatý deň omeškania.
+2. Splnením záväzku poskytovateľa zaplatiť objednávateľovi zmluvnú pokutu nezanikajú povinnosti
+poskytovateľa, plnenie ktorých je zabezpečené dohodou o zmluvnej pokute.
+3. Dohodou o zmluvnej pokute nie je dotknuté právo zmluvných strán na náhradu škody. V prípade vzniku
+škody je ktorákoľvek zo zmluvných strán oprávnená nárokovať si jej náhradu v plnej výške.
+
+Článok VIII.
+Ukončenie zmluvy
+1. Túto Zmluvu je možné ukončiť písomnou dohodou zmluvných strán.
+2. Ktorákoľvek zmluvná strana je oprávnená od zmluvy odstúpiť v prípade podstatného porušenia zmluvy.
+Za podstatné porušenie zmluvy sa považuje najmä porušenie povinností vyplývajúcich pre zmluvné strany
+z čl. III., IV. a VI. zmluvy. Pred odstúpením od zmluvy je odstupujúca zmluvná strana povinná vyzvať
+druhú zmluvnú stranu na splnenie záväzkov vyplývajúcich zo zmluvy, určiť dodatočnú lehotu na ich
+splnenie a písomne upozorniť, že v prípade neplnenia povinností vyplývajúcich zo zmluvy po stanovenom
+termíne od zmluvy odstúpi. Účinky odstúpenia nastávajú uplynutím stanovenej lehoty.
+3. Ukončením zmluvného vzťahu nie je dotknuté právo na náhradu škody a uplatnenia si zmluvnej pokuty.
+Článok IX.
+Zodpovednosť za vady
+1. Záručná doba na vykonané činnosti je 12 mesiacov a začína plynúť od podpisu záverečného preberacieho
+protokolu. Záručná doba neplynie v prípade ak objednávateľ nemôže infraštruktúru používať z dôvodu
+výskytu vád na základe vykonaných činností.
+2. Za vady sa považuje najmä:
+a)
+nedodržanie funkcionality popísanej v dokumentácii,
+b)
+nekorektné chybové ukončenie,
+c)
+poškodzovanie alebo strata používateľských údajov.
+3. V prípade ak sa počas záručnej doby vyskytne na infraštruktúre akákoľvek vada, je objednávateľ povinný
+bez zbytočného odkladu ako vadu zistí, písomne ju oznámiť poskytovateľovi. V oznámení musí byť vada
+dostatočne špecifikovaná. Za písomné oznámenie sa považuje aj oznámenie formou emailovej pošty
+s vyžiadaním potvrdenia o doručení emailu na adresu servisis@emm.sk. Poskytovateľ je následne povinný
+objednávateľom oznámené vady bezodplatne odstrániť v lehote do 7 pracovných dní odo dňa doručenia
+oznámenia o výskyte vady. Zmluvné strany si s ohľadom na povahu vady môžu dohodnúť aj dlhšiu lehotu
+na odstránenie.
+4. V prípade, ak poskytovateľ neodstráni vady v súlade s bodom 3 tohto článku zmluvy, je objednávateľ
+oprávnený od zmluvy okamžite odstúpiť alebo vadu odstrániť na náklady poskytovateľa. V prípade
+odstúpenia od zmluvy zo strany objednávateľa z dôvodov uvedených v tomto bude zmluvy, je
+poskytovateľ povinný vrátiť cenu za vykonanie činností uhradenú mu objednávateľom. Ak sú vady
+neodstrániteľné objednávateľ je oprávnený odstúpiť od zmluvy bez poskytnutia dodatočnej lehoty na
+odstránenie vady.
+5. Ak poskytovateľ zistí, že za vadu, ktorej odstránenie objednávateľ žiadal v rámci záručnej doby
+nezodpovedá, pretože preukázateľne vznikla z inej príčiny a nie porušením povinností poskytovateľa
+(napríklad chybnou obsluhou, chybou softvérového produktu nedodávaného poskytovateľom podľa
+zmluvy, chybou hardvéru, zásahom tretej osoby, atď.), nie je ju povinný túto vadu odstrániť
+bezodplatne v zmysle bodu 3. a 4. tohto článku zmluvy. Uvedenú skutočnosť oznámi bezodkladne
+objednávateľovi. V ďalšom odstraňovaní vady nie je poskytovateľ povinný pokračovať; môže tak urobiť na
+základe objednávky objednávateľa, za dohodnutých podmienok a za osobitnú odplatu.
+
+4
+
+Článok X.
+Záverečné ustanovenia
+1. Zmeny a doplnenia tejto zmluvy je možné urobiť na základe dohody zmluvných strán, a to len
+písomne formou očíslovaných dodatkov.
+2. Účastníci tejto zmluvy sa dohodli, že všetky písomnosti, ktoré má doručiť/bude doručovať v zmysle tejto
+zmluvy, ako aj po jej skončení jedna zmluvná strana druhej zmluvnej strane, budú doručované na adresu
+uvedenú v záhlaví zmluvy. Písomnosti budú doručované osobne alebo prostredníctvom pošty doporučene,
+pričom zásielka (písomnosť) sa bude považovať za doručenú dňom jej prevzatia adresátom – zmluvnou
+stranou, dňom, kedy zmluvná strana odmietne osobne doručovanú alebo poštou doručovanú zásielku
+prevziať, alebo dňom, kedy pošta vráti doručovanú zásielku odosielajúcej zmluvnej strane ako
+nevyžiadaná v odbernej (úložnej) lehote alebo s oznámením adresát neznámy, prípadne ako zásielku
+nedoručenú.
+3. V prípade doručovania prostredníctvom emailovej pošty sa dokument považuje za doručený okamihom
+doručenia potvrdenia o doručení emailu odosielajúcej zmluvnej strane.
+4. Táto zmluva je vyhotovená v 3 vyhotoveniach. Dve vyhotovenia pre objednávateľa a jedno vyhotovenie
+pre poskytovateľa.
+5. Zmluvné strany prehlasujú, že túto zmluvu uzatvorili slobodne, vážne a nie v tiesni, že jej ustanovenia
+považujú za určité a zrozumiteľné, že jej podmienky nepovažujú za nápadne nevýhodné a že jej obsahu
+rozumejú a na znak súhlasu s jej obsahom ju vlastnoručne podpisujú.
+6. Táto zmluva nadobúda platnosť dňom podpisu zmluvy oprávnenými zástupcami zmluvných strán
+a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády
+SR v súlade s ustanovením § 47a ods. 1 Občianskeho zákonníka.
+7. Táto zmluva je povinne zverejňovaná podľa § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe
+k informáciám a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+8. Zmluvné strany výslovne súhlasia so zverejnením zmluvy v jej plnom rozsahu, vrátane príloh
+v Centrálnom registri zmlúv vedenom na Úrade vlády SR.
+9. Zmluvné strany sa dohodli, že táto zmluva a všetky vzťahy z nej vyplývajúce alebo s ňou súvisiace
+(vrátane akcesorických právnych vzťahov, zodpovednostných právnych vzťahov a právnych vzťahov
+z bezdôvodného obohatenia), forma zmluvy, náležitosti zmluvy, platnosť zmluvy, účinnosť zmluvy ako aj
+právne následky jej prípadnej neplatnosti a/alebo neúčinnosti, sa spravujú právnym poriadkom Slovenskej
+republiky a to bez zreteľa na jeho kolízne normy.
+10. Neoddeliteľnou súčasťou zmluvy je:
+a) príloha č. 1 – vzor Záverečný preberací protokol
+b) príloha č. 2 – vzor Akceptačný protokol
+
+Vo Zvolene dňa ..................
+
+V Bratislave dňa ......................
+
+..........................................
+Bc. Ing. Ľuboš Halvoň, PhD.
+generálny riaditeľ
+
+............................................
+Ing. Jozef Chebeň
+konateľ
+
+5
+
+Príloha č. 1
+
+Vzor
+
+ZÁVEREČNÝ PREBERACÍ PROTOKOL
+
+Podľa zmluvy o poskytnutí služieb zo dňa DDMMRRR Poskytovateľ: EMM, spol. s r.o., so sídlom
+Sekurisova 16, 84102 Bratislava, IČO: 17316260 odovzdáva a Objednávateľ Národné lesnícke
+centrum so sídlom T. G. Masaryka 22, 960 92 Zvolen, IČO: 42001315 preberá plnenie predmetu citovanej
+zmluvy v rozsahu:
+
+*Finálnu dokumentácia v tlačenej forme v počte.............. ks,
+v elektronickej forme na CD alebo DVD v počte .................ks
+
+* príloha: Akceptačný protokol z akceptačného konania
+
+Objednávateľ preberá*/nepreberá* predmet zmluvy bez vád* s vadami*
+....................................................................................................................................................
+....................................................................................................................................................
+a termín na odstránenie vád
+......................................................................................................................
+
+V ................................., dňa ...........................
+
+...........................................
+
+......................................................
+
+Poskytovateľ
+
+Objednávateľ
+
+*nehodiace sa prečiarknite
+
+Tento protokol je podkladom pre fakturáciu zmluvy o dielo č. XXXX zo dňa DDMMRRRRR
+
+6
+
+Príloha č. 2
+
+Vzor
+
+AKCEPTAČNÝ PROTOKOL
+
+Podľa zmluvy o poskytnutí služieb zo dňa DDMMRRR Poskytovateľ: EMM, spol. s r.o., so sídlom
+Sekurisova 16, 84102 Bratislava, IČO: 17316260 odovzdal Objednávateľovi: Národné lesnícke
+centrum so sídlom T. G. Masaryka 22, 960 92 Zvolen, IČO: 42001315 plnenie predmetu plnenia
+citovanej zmluvy v rozsahu:
+
+*Kompletná dokumentácia v tlačenej forme v počte.............. ks, v elektronickej forme na CD alebo
+DVD v počte .................ks.
+Odberateľ potvrdzuje výsledky testovania predmetu plnenia:
+Popis funkcionality
+
+Výsledok testovania
+
+Akceptované (áno/nie)
+
+V ................................., dňa .............................
+
+............................................
+
+.......................................................
+
+Poskytovateľ
+
+Objednávateľ
+
+*nehodiace sa prečiarknite
+
+7
+
+

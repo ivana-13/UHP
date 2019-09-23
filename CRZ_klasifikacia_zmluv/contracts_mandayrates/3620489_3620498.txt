@@ -1,0 +1,2202 @@
+ZMLUVA O DODANÍ A IMPLEMENTÁCII APLIKAČNÉHO SOFTVÉRU
+a
+LICENČNÁ ZMLUVA
+(ďalej len „Zmluva“)
+
+uzatvorená v zmysle § 65 a nasl. zákona č. 185/2015 Z.z. Autorský zákon v znení neskorších prepisov
+(ďalej len „Autorský zákon“) a § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení
+neskorších predpisov (ďalej len „Obchodný zákonník“)
+
+medzi stranami:
+Názov:
+
+Štátny ústav pre kontrolu liečiv
+
+IČO:
+
+00 165 221
+
+DIČ:
+
+2020857036
+
+IČ DPH:
+
+SK2020857036
+
+Sídlo:
+
+Kvetná 11, Bratislava 825 08, Slovenská republika
+
+Zastúpený:
+
+PharmDr. Zuzana Baťová, PhD., riaditeľka
+
+Bankové spojenie:
+
+IBAN: SK78 8180 0000 0070 0013 3657
+SWIFT: SPSRSKBAXXX
+
+(ďalej len „Nadobúdateľ“)
+a
+Obchodné meno / názov:
+
+Altamira Softworks, s.r.o.
+
+IČO:
+
+44880774
+
+DIČ:
+
+2022861368
+
+IČ DPH:
+
+SK2022861368
+
+Sídlo / miesto podnikania:
+
+Jaskový rad 187, 831 01 Bratislava
+
+Registrácia:
+
+Zapísaná na Bratislava I, odd. Sro, vl.č.59592/B
+
+Zastúpený:
+
+Mgr. Tomáš Mašek, konateľ
+
+Bankové spojenie:
+
+SK22 1100 0000 0026 2820 4147, TATRSKBX
+
+(ďalej len „Poskytovateľ“)
+
+(Nadobúdateľ a Poskytovateľ ďalej spoločne aj „Zmluvné strany“ a samostatne ktorýkoľvek z nich aj
+„Zmluvná strana“)
+
+1.
+
+Úvodné ustanovenia
+
+1.1
+
+Uzatvorenie tejto Zmluvy je výsledkom verejného obstarávania vyhláseného Nadobúdateľom ako
+verejným obstarávateľom postupom verejnej súťaže na predmet zákazky s názvom: „Softvér pre
+registračnú dokumentáciu vo formáte eCTD - dodanie a implementácia aplikačného softvéru pre
+prácu s dokumentáciou vo formáte eCTD a NeeS v prostredí ŠÚKL a poskytovanie služieb
+servisnej podpory, údržby a rozvoja aplikačného softvéru“ (ďalej len „Verejné obstarávanie“).
+
+1.2
+
+Na účely tejto Zmluvy majú nižšie uvedené pojmy nasledovný význam:
+1.2.1 Pracovný deň – ktorýkoľvek kalendárny deň s výnimkou soboty, nedele a dní pracovného
+pokoja v Slovenskej republike (uvedených v § 2 zákona č. 241/1993 Z.z. o štátnych
+sviatkoch, dňoch pracovného pokoja a o pamätných dňoch v znení neskorších predpisov).
+
+2.
+
+Predmet a účel Zmluvy
+
+2.1
+
+Predmetom tejto Zmluvy je dodanie aplikačného softvéru pre prácu s dokumentáciou vo formáte
+eCTD a NeeS bližšie určenému v bode 3 nižšie (ďalej len „Aplikačný SW“), vrátane udelenia
+licencie k Aplikačnému SW podľa bodu 4 nižšie, a implementácia Aplikačného SW v prostredí
+Nadobúdateľa podľa bodu 5 nižšie realizovaná v troch etapách podľa bodu 6 nižšie.
+
+2.2
+
+Zmluvné strany berú na vedomie, že účelom tejto Zmluvy je zaistiť nerušené užívanie Aplikačného
+SW Nadobúdateľom v plne funkčnom stave tak, aby Nadobúdateľ mohol riadne plniť svoje
+zákonom zverené kompetencie (vrátane jeho kompetencií orgánu štátnej správy Slovenskej
+republiky na úseku humánnej farmácie a drogových prekurzorov, ktorý registruje humánne lieky).
+
+3.
+
+Dodanie Aplikačného SW
+
+3.1
+
+Poskytovateľ sa zaväzuje dodať Nadobúdateľovi Aplikačný SW:
+Softvér pre registračnú dokumentáciu
+
+3.2
+
+Dodaný Aplikačný SW sa musí skladať z nasledovných modulov:
+3.2.1
+
+modul pre nahrávanie dokumentácie vo formáte eCTD a NeeS do internej databázy
+Aplikačného SW (ďalej len „Nahrávací modul“)
+
+3.2.2
+
+modul pre technickú validáciu žiadostí vo formáte eCTD a NeeS podľa technických
+validačných kritérií schvaľovaných Európskou liekovou agentúrou (European Medicines
+Agency) platných k dátumu prijatia žiadosti (ďalej len „Technický validátor“)
+
+3.2.3
+
+modul pre prezeranie a prácu s dokumentáciou vo formáte eCTD a NeeS (ďalej len
+„Čítačka“)
+
+(Nahrávací modul, Technický validátor a Čítačka ďalej spolu aj „Moduly“)
+a musí mať všetky funkcionality a vlastnosti a spĺňať všetky špecifikácie a požiadavky
+Nadobúdateľa uvedené v Prílohe č. 1 tejto Zmluvy (Opis predmetu zákazky) a v tejto Zmluve.
+3.3
+
+Poskytovateľ zodpovedá za to, že Aplikačný SW nebude obsahovať žiadne Nadobúdateľom
+nevyžiadané alebo neschválené funkcie a vlastnosti. Nenaplnenie tejto požiadavky je podstatným
+porušením tejto Zmluvy.
+
+3.4
+
+Poskytovateľom dodaný Aplikačný SW musí byť v súlade s platnými všeobecne záväznými
+právnymi predpismi Slovenskej republiky (a to aj k dátumu odovzdania záverečnej, t.j. tretej etapy
+realizácie implementácie Aplikačného SW podľa bodu 6.4 Nadobúdateľovi).
+2
+
+3.5
+
+Dodávka Aplikačného SW musí byť spojená s udelením licencie k Aplikačnému SW podľa bodu
+4 a s jeho implementáciou Poskytovateľom podľa bodu 5 tejto Zmluvy v troch etapách podľa bodu
+6 tejto Zmluvy.
+
+4.
+
+Licencia k Aplikačnému SW
+
+4.1
+
+Poskytovateľ výslovne vyhlasuje, že je oprávnený udeliť Nadobúdateľovi oprávnenie
+špecifikované v tomto bode 4 Zmluvy a udelením tohto oprávnenia Nadobúdateľovi nedôjde
+k ohrozeniu ani porušeniu práv duševného vlastníctva tretích osôb.
+
+4.2
+
+Poskytovateľ udeľuje Nadobúdateľovi súhlas na použitie Aplikačného SW (jeho Modulov)
+spočívajúce vo vyhotovení rozmnoženiny resp. rozmnoženín Aplikačného SW (jeho Modulov)
+potrebných pre užívanie Aplikačného SW a jeho Modulov Nadobúdateľom v rámci jeho vnútornej
+počítačovej siete v nasledovnom rozsahu:
+4.2.1
+
+dvanástimi pomenovanými používateľmi vo vzťahu k Nahrávaciemu modulu
+
+4.2.2
+
+dvanástimi pomenovanými používateľmi vo vzťahu k Technickému validátoru
+
+4.2.3
+
+osemdesiatimi pomenovanými používateľmi vo vzťahu k Čítačke (zahŕňajúcimi aj
+používateľov uvedených v bodoch 4.2.1 a 4.2.2)
+
+(ďalej len „Licencia“)
+a Nadobúdateľ túto Licenciu prijíma.
+4.3
+
+Pre vylúčenie akýchkoľvek pochybností, za pomenovaného používateľa sa na účely bodu 4.2 tejto
+Zmluvy rozumie aktívny užívateľ Aplikačného SW (zamestnanec Nadobúdateľa), ktorý má
+pridelené prihlasovacie meno, heslo a príslušné práva, pričom v prípade deaktivácie užívateľa sa
+uvoľní príslušná licencia pre iného pomenovaného používateľa (zamestnanca Nadobúdateľa).
+
+4.4
+
+Udelená Licencia je nevýhradná a časovo neobmedzená (t.j. poskytuje sa na celú dobu trvania
+autorských majetkových práv k Aplikačnému SW a jeho Modulom).
+
+4.5
+
+Zmluvné strany sa dohodli, že Licencia zahŕňa aj prípadný súhlas potrebný na použitie Aplikačného
+SW Nadobúdateľom pri realizácii implementácie Aplikačného SW podľa bodu 5 tejto Zmluvy
+(napr. použitie v testovacom prostredí u Nadobúdateľa).
+
+4.6
+
+Poskytovateľ je povinný odovzdať Nadobúdateľovi doklad s licenčnými kľúčmi k Aplikačnému
+SW (jeho Modulom) v prípade, ak je ním dodávaný Aplikačný SW (Moduly) licenčným kľúčom
+chránený.
+
+5.
+
+Implementácia Aplikačného SW
+
+5.1
+
+Poskytovateľ sa zaväzuje poskytnúť Nadobúdateľovi nasledovné služby bližšie popísané
+v Prílohe č. 1 tejto Zmluvy (Opis predmet zákazky):
+5.1.1 Import a integrácia existujúcich sekvencií vo formáte eCTD a NeeS uložených v lokálnom
+dátovom úložisku Nadobúdateľa do Aplikačného SW v prostredí Nadobúdateľa v súlade
+s požiadavkami uvedenými v Prílohe č. 1 tejto Zmluvy (bod 2.2.1 Prílohy č. 1 tejto
+Zmluvy) (ďalej len „Import a integrácia existujúcich dát“)
+5.1.2 Inštalácia, integrácia a konfigurácia Aplikačného SW do testovacieho a produkčného
+prostredia u Nadobúdateľa v súlade s požiadavkami uvedenými v Prílohe č. 1 tejto Zmluvy
+(vrátane bodu 2.2.2 Prílohy č. 1 tejto Zmluvy)
+3
+
+5.1.3 Vstupné školenia pre obsluhu – pracovníkov (zamestnancov) Nadobúdateľa v súlade
+s množstevnými a inými požiadavkami uvedenými v Prílohe č. 1 tejto Zmluvy (bod 2.2.3
+Prílohy č. 1 tejto Zmluvy) (ďalej len „Školenia“)
+5.1.4 Poskytnutie technickej dokumentácie týkajúcej sa správy a prevádzky Aplikačného SW a
+poskytnutie užívateľskej dokumentácie (príručky) pre Nahrávací modul, Technický
+validátor a Čítačku v súlade s požiadavkami uvedenými v Prílohe č. 1 tejto Zmluvy (bod
+2.2.4 Prílohy č. 1 tejto Zmluvy) (ďalej len „Dokumentácia k Aplikačnému SW“)
+(vyššie uvedené činnosti ďalej spolu aj „Služby“ alebo „Implementácia“)
+5.2
+
+Poskytovateľ poskytne Služby Nadobúdateľovi postupne v troch etapách realizácie
+špecifikovaných v bode 3 Prílohy č. 1 tejto Zmluvy a bode 6 tejto Zmluvy (ďalej len „Etapy
+realizácie“ a každá z nich samostatne aj ako „Etapa realizácie“).
+
+5.3
+
+Pre odstránenie akýchkoľvek pochybností, predmetné Služby (Implementácia) budú zahŕňať aj
+všetky služby, ktoré nie sú samostatne a výslovne uvedené v bodoch 5.1.1 až 5.1.4 tejto Zmluvy,
+ale sú zahrnuté v popise Etáp realizácie v bode 6 tejto Zmluvy.
+
+6.
+
+Etapy realizácie a ich akceptácia
+
+6.1
+
+Poskytovateľ sa zaväzuje implementovať Aplikačný SW v troch Etapách realizácie popísaných v
+bode 3 Prílohy č. 1 tejto Zmluvy a v tomto bode 6 Zmluvy.
+
+6.2
+
+Prvá Etapa realizácie
+6.2.1
+
+V rámci prvej Etapy realizácie (ďalej len „Prvá etapa realizácie“) sa Poskytovateľ
+zaväzuje zabezpečiť kompletné podklady potrebné pre implementáciu Aplikačného SW
+do prostredia Nadobúdateľa, t.j. vypracovať dokumentáciu, ktorá bude obsahovať
+nasledujúce dokumenty v slovenskom alebo anglickom jazyku:
+i.
+
+detailný časový harmonogram realizácie Implementácie Aplikačného SW (ďalej len
+„Harmonogram realizácie“).
+Harmonogram realizácie musí byť v súlade s maximálnymi časovými rámcami
+jednotlivých Etáp realizácie výslovne uvedenými v bodoch 6.3.6 a 6.4.5 tejto
+Zmluvy.
+
+ii.
+
+dokument obsahujúci zmapovanie existujúceho prostredia Nadobúdateľa a detailný
+opis spôsobu postupu realizácie Implementácie Aplikačného SW do prostredia
+Nadobúdateľa (ďalej len „Implementačný projekt“).
+Implementačný projekt nesmie byť v rozpore s opisom predmetu zákazky uvedeným
+v Prílohe č. 1 tejto Zmluvy (vrátane všetkých požiadaviek na Aplikačný SW).
+
+(Harmonogram realizácie
+dokumentácia“)
+
+a Implementačný
+
+projekt
+
+ďalej
+
+spolu
+
+aj
+
+„Implementačná
+
+6.2.2
+
+Implementačná dokumentácia musí byť natoľko podrobná, aby Nadobúdateľ na jej
+základe mohol riadne zhodnotiť reálnosť a vhodnosť Poskytovateľom navrhovaného
+postupu realizácie Implementácie z časového a obsahového hľadiska.
+
+6.2.3
+
+Implementačná dokumentácia musí byť zostavená tak, aby Implementácia neohrozila
+bežnú činnosť a prevádzku Nadobúdateľa.
+4
+
+6.2.4
+
+6.3
+
+Poskytovateľ sa zaväzuje odovzdať Nadobúdateľovi Implementačnú dokumentáciu na
+akceptáciu najneskôr do 3 týždňov od účinnosti tejto Zmluvy. Akceptáciou
+Implementačnej dokumentácie zo strany Nadobúdateľa sa však Poskytovateľ nezbavuje
+svojej zodpovednosti za jej vady a nedostatky, ktoré sa prejavia až v ďalších Etapách
+realizácie.
+
+Druhá Etapa realizácie
+6.3.1
+
+V rámci druhej Etapy realizácie (ďalej len „Druhá etapa realizácie“) sa Poskytovateľ
+zaväzuje vykonať nižšie uvedené činnosti:
+i.
+
+inštalovať, integrovať a nakonfigurovať Aplikačný SW do testovacieho prostredia u
+Nadobúdateľa
+
+ii.
+
+vykonať Import a integráciu existujúcich dát
+
+iii.
+
+zabezpečiť realizáciu komunikácie medzi Aplikačným SW a počítačovými
+aplikáciami používanými v rámci inštitúcie Nadobúdateľa (napr. aplikácie MS SQL,
+MS Office používané v inštitúcii Nadobúdateľa) v testovacom prostredí
+
+iv.
+
+za súčinnosti Nadobúdateľa (bod 11.1.5) vykonať testovanie Aplikačného SW v
+testovacom prostredí (funkčné, integračné, výkonnostné) s úspešným výsledkom,
+pričom pre účely tohto testovania je Poskytovateľ povinný navrhnúť vhodné scenáre
+jednotlivých testov a predložiť ich Nadobúdateľovi vopred na posúdenie a
+schválenie
+
+v.
+
+realizovať správu rolí v aplikácii prostredníctvom IIM (Internal Identity
+Management) v testovacom prostredí
+
+vi.
+
+dodať Nadobúdateľovi Dokumentáciu k Aplikačnému SW v slovenskom aj
+anglickom jazyku
+
+vii.
+
+vykonať Školenia v slovenskom alebo anglickom jazyku.
+
+6.3.2
+
+Pri realizácii jednotlivých činností v rámci Druhej etapy realizácie sa Poskytovateľ
+zaväzuje dodržiavať Harmonogram realizácie a Implementačný projekt akceptovaný
+Nadobúdateľom v zmysle bodu 6.5.4 tejto Zmluvy. Od Harmonogramu realizácie sa
+Poskytovateľ môže odchýliť len s predchádzajúcim súhlasom Nadobúdateľa; tým však nie
+je dotknutá povinnosť Poskytovateľa podľa bodu 6.3.6 tejto Zmluvy.
+
+6.3.3
+
+Poskytovateľ nie je oprávnený začať s vykonávaním Druhej etapy realizácie pred
+Dátumom akceptácie Prvej etapy realizácie zo strany Nadobúdateľa podľa bodu 6.5.4 tejto
+Zmluvy.
+
+6.3.4
+
+Presné časové rozvrhnutie Školení v rámci časových rámcov určených Harmonogramom
+realizácie akceptovaným Nadobúdateľom je oprávnený určiť Nadobúdateľ.
+
+6.3.5
+
+Poskytovateľ sa zaväzuje predložiť Nadobúdateľovi scenáre jednotlivých testov
+potrebných na vykonanie testovania Aplikačného SW v testovacom prostredí podľa bodu
+6.3.1iv na posúdenie a schválenie najmenej tri pracovné dni pred plánovaným začatím
+testovania vo vhodnej elektronickej forme zaslaním e-mailu z e-mailovej adresy svojej
+kontaktnej osoby v technických veciach na e-mailovú adresu kontaktnej osoby
+Nadobúdateľa v technických veciach, pričom Nadobúdateľ ich schváli alebo oznámi
+5
+
+Poskytovateľovi svoje výhrady k nim najneskôr jeden pracovný deň pred plánovaným
+začatím testovania zaslaním e-mailu z e-mailovej adresy svojej kontaktnej osoby v
+technických veciach na e-mailovú adresu kontaktnej osoby Poskytovateľa v technických
+veciach. V prípade výhrad Nadobúdateľa je Poskytovateľ povinný bez zbytočného
+odkladu upraviť scenáre jednotlivých testov a opätovne ich predložiť na posúdenie
+a schválenie Nadobúdateľovi postupom podľa tohto bodu 6.3.5.
+6.3.6
+
+6.4
+
+Poskytovateľ sa zaväzuje odovzdať Nadobúdateľovi na akceptáciu Služby, ktoré majú byť
+vykonané v rámci tejto Druhej etapy realizácie najneskôr do 3 týždňov od dátumu
+akceptácie Prvej etapy realizácie zo strany Nadobúdateľa.
+
+Tretia Etapa realizácie
+6.4.1
+
+V rámci tretej Etapy realizácie (ďalej len „Tretia etapa realizácie“) sa Poskytovateľ
+zaväzuje vykonať nižšie uvedené činnosti:
+i.
+
+inštalovať, integrovať a nakonfigurovať Aplikačný SW do prevádzkového
+(produkčného) prostredia u Nadobúdateľa
+
+ii.
+
+zabezpečiť realizáciu komunikácie medzi Aplikačným SW a počítačovými
+aplikáciami používanými v rámci inštitúcie Nadobúdateľa (napr. aplikácie MS SQL,
+MS Office používané v inštitúcii Nadobúdateľa) v produkčnom prostredí
+
+iii.
+
+za súčinnosti Nadobúdateľa (bod 11.1.6) úspešne vykonať skúšobnú prevádzku
+Aplikačného SW v trvaní 14 pracovných dní, počas ktorej Nadobúdateľom vybraní
+užívatelia začnú používať všetky Moduly Aplikačného SW, aby otestovali
+funkčnosť celého Aplikačného SW a jeho súčastí (ďalej len „Skúšobná
+prevádzka“)
+
+iv.
+
+realizovať správu rolí v aplikácii prostredníctvom IIM v produkčnom prostredí.
+
+6.4.2
+
+Pri realizácii jednotlivých činností v rámci Tretej etapy realizácie sa Poskytovateľ
+zaväzuje dodržiavať Harmonogram realizácie a Implementačný projekt akceptovaný
+Nadobúdateľom podľa bodu 6.5.4 tejto Zmluvy. Od Harmonogramu realizácie sa
+Poskytovateľ môže odchýliť len so súhlasom Nadobúdateľa; tým však nie je dotknutá
+povinnosť Poskytovateľa podľa bodu 6.4.5.
+
+6.4.3
+
+Poskytovateľ nie je oprávnený začať s vykonávaním Tretej etapy realizácie pred Dátumom
+akceptácie Druhej etapy realizácie zo strany Nadobúdateľa podľa bodu 6.5.4 tejto Zmluvy.
+
+6.4.4
+
+Skúšobná prevádzka je vykonaná úspešne v prípade, ak je dostupnosť Aplikačného SW
+počas Skúšobnej prevádzky najmenej 99%. Dostupnosťou Aplikačného SW sa rozumie
+ničím neobmedzená a úplná dostupnosť celého Aplikačného SW a všetkých jeho
+funkcionalít zároveň. Dostupnosť Aplikačného SW sa vypočíta podľa nasledujúceho
+vzorca:
+D_t = (T_ok - T_err) / T_ok * 100
+kde
+D_t je dostupnosť Aplikačného SW v % počas Skúšobnej prevádzky,
+T_err je celkový čas nedostupnosti v hodinách počas obdobia Skúšobnej prevádzky
+(pričom sa ráta každá aj začatá hodina nedostupnosti),
+6
+
+T_ok je celkový počet hodín v období Skúšobnej prevádzky
+pričom
+obdobím Skúšobnej prevádzky sa rozumie čas od 8:00 do 17:00 stredoeurópskeho času
+(CET) každého pracovného dňa Skúšobnej prevádzky (v celkovom trvaní 14 pracovných
+dní).
+6.4.5
+
+6.5
+
+Poskytovateľ sa zaväzuje odovzdať Nadobúdateľovi na akceptáciu Služby, ktoré majú byť
+vykonané v rámci tejto Tretej etapy realizácie najneskôr do 3 týždňov od dátumu
+akceptácie Druhej etapy realizácie zo strany Nadobúdateľa.
+
+Akceptácia Služieb poskytnutých v rámci jednotlivých Etáp realizácie
+6.5.1
+
+Zmluvné strany sa dohodli, že každá z Etáp realizácie (resp. Služby, ktoré sú v jej rámci
+poskytnuté) bude podliehať akceptácii zo strany Nadobúdateľa.
+
+6.5.2
+
+Služby v jednotlivých Etapách realizácie budú odovzdané Nadobúdateľovi na akceptáciu
+nasledovným spôsobom:
+i.
+
+v prípade Prvej etapy realizácie predložením Implementačnej dokumentácie
+Nadobúdateľovi vo vhodnej elektronickej forme
+
+ii.
+
+v prípade Druhej etapy realizácie predložením Nadobúdateľovi správy vo vhodnej
+elektronickej forme, v ktorej Poskytovateľ zhrnie ním poskytnuté služby v rámci
+Druhej etapy realizácie, urobí ich odpočet v porovnaní so službami, ktoré mal
+poskytnúť podľa tejto Zmluvy, a uvedie ich výsledky
+
+iii.
+
+v prípade Tretej etapy realizácie predložením Nadobúdateľovi správy vo vhodnej
+elektronickej forme, v ktorej Poskytovateľ zhrnie ním poskytnuté služby v rámci
+Tretej etapy realizácie, urobí ich odpočet v porovnaní so službami, ktoré mal
+poskytnúť podľa tejto Zmluvy, a uvedie ich výsledky.
+
+Dokumentáciu podľa bodu 6.5.2i a správy podľa bodu 6.5.2ii a 6.5.2iii Poskytovateľ zašle
+e-mailom z e-mailovej adresy svojej kontaktnej osoby v technických veciach na e-mailovú
+adresu kontaktnej osoby Nadobúdateľa v technických veciach, pričom za dátum
+odovzdania danej Etapy realizácie Nadobúdateľovi na akceptáciu sa bude považovať
+dátum doručenia e-mailu do e-mailovej schránky Nadobúdateľa (ďalej len „Dátum
+odovzdania“).
+6.5.3
+
+Nadobúdateľ v lehote 7 kalendárnych dní od Dátumu odovzdania danej Etapy realizácie
+posúdi, či boli Služby v rámci danej Etapy realizácie poskytnuté riadne, t.j. v súlade s touto
+Zmluvou (vrátane jej prílohy č. 1) a rozsahu stanovenom touto Zmluvou. Pre odstránenie
+akýchkoľvek pochybností, inštalácia Aplikačného SW nie je vykonaná riadne v prípade,
+ak inštalovaný Aplikačný SW nemá všetky funkcionality a vlastnosti a nespĺňa všetky
+špecifikácie a požiadavky Nadobúdateľa uvedené v Prílohe č. 1 tejto Zmluvy a v tejto
+Zmluve.
+
+6.5.4
+
+V prípade, ak Nadobúdateľ nevznesie k Službám poskytnutým v rámci danej Etapy
+realizácie žiadne pripomienky (t. j. nevytkne žiadne vady), oznámi túto skutočnosť
+Poskytovateľovi do 7 kalendárnych dní od Dátumu odovzdania danej Etapy realizácie emailom zaslaným z e-mailovej adresy svojej kontaktnej osoby v technických veciach na
+7
+
+e-mailovú adresu kontaktnej osoby Poskytovateľa v technických veciach. Za dátum
+akceptácie danej Etapy realizácie sa považuje dátum doručenia e-mailu do e-mailovej
+schránky Poskytovateľa (ďalej len „Dátum akceptácie“). Poskytovateľ je povinný bez
+zbytočného odkladu, najneskôr však nasledujúci pracovný deň po Dátume akceptácie, emailom zaslaným z e-mailovej adresy svojej kontaktnej osoby v technických veciach na
+e-mailovú adresu kontaktnej osoby Nadobúdateľa v technických veciach potvrdiť
+Nadobúdateľovi, kedy mu bol doručený e-mail Nadobúdateľa o akceptácii danej Etapy
+realizácie.
+6.5.5
+
+V prípade, ak Služby poskytnuté Poskytovateľom v rámci danej Etapy realizácie majú
+vady (vrátane prípadu, ak Služby neboli poskytnuté v dohodnutom rozsahu), Nadobúdateľ
+ich uvedie do zápisu o vadách vyhotoveného vo vhodnej elektronickej forme a zápis zašle
+Poskytovateľovi e-mailom z e-mailovej adresy svojej kontaktnej osoby v technických
+veciach na e-mailovú adresu kontaktnej osoby Poskytovateľa v technických veciach do 7
+kalendárnych dní od Dátumu odovzdania danej Etapy realizácie. Za dátum reklamácie
+danej Etapy realizácie sa považuje dátum doručenia e-mailu so zápisom o vadách do emailovej schránky Poskytovateľa (ďalej len „Dátum reklamácie“). Poskytovateľ je
+povinný bez zbytočného odkladu, najneskôr však nasledujúci pracovný deň po Dátume
+reklamácie, e-mailom zaslaným z e-mailovej adresy svojej kontaktnej osoby v technických
+veciach na e-mailovú adresu kontaktnej osoby Nadobúdateľa v technických veciach
+potvrdiť Nadobúdateľovi, kedy mu bol doručený e-mail Nadobúdateľa so zápisom
+o vadách týkajúci sa danej Etapy realizácie.
+
+6.5.6
+
+V prípade, ak Nadobúdateľ reklamoval u Poskytovateľa vady Služieb podľa bodu 6.5.5,
+je Poskytovateľ povinný odstrániť reklamované vady v lehote 7 kalendárnych dní od
+Dátumu reklamácie a zároveň v lehote 7 kalendárnych dní od Dátumu reklamácie
+predložiť Nadobúdateľovi Služby poskytnuté v rámci reklamovanej Etapy realizácie na
+opätovnú akceptáciu spôsobom podľa bodu 6.5.2. Následne sa bude postupovať podľa
+bodov 6.5.3 až 6.5.7.
+
+6.5.7
+
+V prípade, ak Poskytovateľovi nebol doručený e-mail Nadobúdateľa o akceptácii danej
+Etapy realizácie podľa bodu 6.5.4 ani e-mail Nadobúdateľa obsahujúci zápis o vadách
+danej Etapy realizácie podľa bodu 6.5.5 ani do 7 kalendárnych dní od Dátumu odovzdania
+danej Etapy realizácie, Poskytovateľ je povinný bez zbytočného odkladu, najneskôr však
+nasledujúci pracovný deň po uplynutí tejto lehoty, telefonicky kontaktovať kontaktnú
+osobu Nadobúdateľa v technických veciach ohľadom tejto skutočnosti.
+
+7.
+
+Miesto dodania predmetu Zmluvy a miesto plnenia Zmluvy
+
+7.1
+
+Miestom dodania predmetu Zmluvy zo strany Poskytovateľa bude adresa sídla Nadobúdateľa, t.j.
+Kvetná 11, 825 08 Bratislava.
+
+7.2
+
+Poskytovateľ je oprávnený plniť túto Zmluvu na diaľku (prostredníctvom elektronických
+komunikačných sietí) bez fyzickej prítomnosti osôb Poskytovateľa v budove Nadobúdateľa na
+adrese Kvetná 11, 825 08 Bratislava, ak v tejto Zmluve alebo jej prílohách nie je výslovne uvedené
+inak a ak je to vhodné a možné vzhľadom na povahu plnenia.
+
+8
+
+8.
+
+Subdodávatelia
+
+8.1
+
+Poskytovateľ je povinný plniť túto Zmluvu prostredníctvom vlastných zamestnancov,
+subdodávateľov, ktorých zoznam je uvedený v Prílohe č. 2 tejto Zmluvy, alebo subdodávateľov
+odsúhlasených Nadobúdateľom podľa bodu 8.4 tejto Zmluvy.
+
+8.2
+
+Poskytovateľ je povinný bez zbytočného odkladu oznámiť Nadobúdateľovi zmenu údajov o
+subdodávateľovi uvedenom v Prílohe č. 2 tejto Zmluvy.
+
+8.3
+
+V prípade, ak chce Poskytovateľ počas trvania tejto Zmluvy zmeniť subdodávateľa uvedeného v
+Prílohe č. 2 tejto Zmluvy (pričom zmenou subdodávateľa sa rozumie nahradenie subdodávateľa aj
+použitie ďalšieho subdodávateľa), je povinný písomne oznámiť Nadobúdateľovi takúto zmenu
+subdodávateľa a údaje o navrhovanom novom subdodávateľovi v rozsahu údajov uvádzaných v
+Prílohe č. 2 tejto Zmluvy.
+
+8.4
+
+Poskytovateľ je oprávnený zmeniť subdodávateľa výlučne po predchádzajúcom písomnom súhlase
+Nadobúdateľa. Porušenie tejto povinnosti sa považuje za podstatné porušenie tejto Zmluvy.
+
+8.5
+
+Nový subdodávateľ Poskytovateľa musí za každých okolností spĺňať nasledovné podmienky:
+8.5.1
+
+Subdodávateľ musí spĺňať podmienky účasti týkajúce sa osobného postavenia (§ 32
+zákona č. 343/2015 Z.z. o verejnom obstarávaní v znení neskorších predpisov (ďalej len
+„ZVO“)), pričom oprávnenie dodávať tovar alebo poskytovať službu musí mať vo vzťahu
+k tej časti predmetu tejto Zmluvy, ktorú má tento subdodávateľ plniť
+
+8.5.2
+
+u subdodávateľa nesmú existovať dôvody na vylúčenie podľa § 40 ods. 6 písm. a) až h) a
+ods. 7 ZVO,
+
+pričom Nadobúdateľ je oprávnený požadovať od Poskytovateľa predloženie dokladov
+preukazujúcich, že nový subdodávateľ podmienky podľa bodu 8.5.1 a 8.5.2 spĺňa.
+8.6
+
+Poskytovateľ je povinný bez zbytočného odkladu oznámiť Nadobúdateľovi zmenu údajov o
+subdodávateľovi (v rozsahu údajov uvádzaných v Prílohe č. 2 tejto Zmluvy) odsúhlasenom podľa
+bodu 8.4.
+
+8.7
+
+Za plnenie svojho subdodávateľa Poskytovateľ zodpovedá, akoby plnil sám.
+
+8.8
+
+Poskytovateľ je povinný plniť si svoje záväzky voči svojim subdodávateľom prostredníctvom
+ktorých plní túto Zmluvu riadne a včas. Porušenie tejto povinnosti sa považuje za podstatné
+porušenie tejto Zmluvy.
+
+9.
+
+Odmena za dodanie Aplikačného SW, poskytnutie Licencie a poskytnutie Služieb
+
+9.1
+
+Zmluvné strany sa dohodli, že odmena za dodanie Aplikačného SW, vrátane udelenia Licencie
+k Aplikačnému SW a poskytnutie Služieb (Implementácie) je:
+100.000 EUR (slovom jednostotisíc eur) bez DPH
+(ďalej len „Odmena“)
+
+9.2
+
+Zmluvné strany sa výslovne dohodli, že Odmena podľa bodu 9.1 zahŕňa celý predmet tejto Zmluvy
+podľa bodu 2, je pevná a najvyššia prípustná a zahŕňa všetky náklady a výdavky Poskytovateľa
+spojené s plnením podľa tejto Zmluvy.
+
+9.3
+
+Daň z pridanej hodnoty bude fakturovaná podľa predpisov platných a účinných v Slovenskej
+republike v čase fakturácie.
+9
+
+10.
+
+Fakturácia Odmeny a platobné podmienky
+
+10.1 Nadobúdateľ uhradí Poskytovateľovi Odmenu jednorazovo po riadnom splnení predmetu tejto
+Zmluvy, t.j. po dodaní Aplikačného SW Nadobúdateľovi, vrátane udelenia Licencie k Aplikačného
+SW a jeho Modulom, a poskytnutí Služieb (Implementácii), a to v súlade so všetkými
+podmienkami uvedenými v tejto Zmluve, na základe faktúry vystavenej Poskytovateľom.
+10.2 Poskytovateľ je oprávnený vystaviť faktúru na Odmenu až po tom, čo budú kumulatívne splnené
+nižšie uvedené podmienky:
+10.2.1
+
+Poskytovateľ odovzdal Nadobúdateľovi doklad s licenčnými kľúčmi podľa bodu 4.6 tejto
+Zmluvy (ak je ním dodávaný Aplikačný SW (Moduly) licenčným kľúčom chránený) a
+
+10.2.2
+
+Nadobúdateľ akceptoval Služby vykonané v rámci všetkých troch Etáp realizácie, pričom
+Služby, ktoré majú byť vykonané v rámci danej Etapy realizácie, sa považujú za
+akceptované Nadobúdateľom v deň zodpovedajúci Dátumu akceptácie podľa bodu 6.5.4
+tejto Zmluvy.
+
+10.3 Splatnosť faktúry Poskytovateľa na Odmenu je 30 (tridsať) dní odo dňa jej doručenia
+Nadobúdateľovi. Faktúra musí obsahovať všetky údaje podľa § 74 ods. 1 zákona č. 222/2004 Z.z.
+o dani z pridanej hodnoty v znení neskorších predpisov (ďalej len „Zákon o DPH“), musí byť
+vystavená správne po vecnej aj formálnej stránke a musí mať nasledovné prílohy:
+10.3.1
+
+kópia dokladu s licenčnými kľúčmi odovzdaného Nadobúdateľovi podľa bodu 4.6
+
+10.3.2
+
+vytlačené e-maily doručené Poskytovateľovi Nadobúdateľom, ktorými Nadobúdateľ
+oznámil Poskytovateľovi, že nevznáša k Službám poskytnutým v rámci danej Etapy
+realizácie žiadne pripomienky podľa bodu 6.5.4, a to vo vzťahu ku každej z troch Etáp
+realizácie.
+
+V prípade, ak faktúra Poskytovateľa nebude obsahovať všetky údaje podľa § 74 ods. 1 Zákona
+o DPH, nebude správne vystavená po vecnej a formálnej stránke alebo jej prílohou nebudú doklady
+podľa bodov 10.3.1 a 10.3.2, Nadobúdateľ ju v lehote splatnosti vráti Poskytovateľovi na doplnenie
+(prepracovanie) a v takom prípade začne plynúť nová doba splatnosti odo dňa doručenia doplnenej
+(prepracovanej) faktúry Nadobúdateľovi spĺňajúcej všetky požiadavky na faktúru a jej prílohy
+podľa tohto bodu 10.3 Zmluvy.
+10.4 Zmluvné strany sa dohodli, že faktúra na Odmenu bude splatná na bankový účet Poskytovateľa
+uvedený v záhlaví tejto Zmluvy a považuje sa za zaplatenú dňom odpísania fakturovanej čiastky
+z bankového účtu Nadobúdateľa v prospech bankového účtu Poskytovateľa.
+11.
+
+Súčinnosť Nadobúdateľa
+
+11.1 Nadobúdateľ sa zaväzuje v prípade potreby poskytnúť Poskytovateľovi rozumne požadovanú
+súčinnosť pri poskytovaní Služieb (Implementácii) v nasledovnom rozsahu:
+11.1.1
+
+umožnenie vzdialených prístupov do vnútornej siete Nadobúdateľa
+
+11.1.2
+
+sprístupnenie lokálneho dátového úložiska Nadobúdateľa, v ktorom sú uložené existujúce
+sekvencie vo formáte eCTD a NeeS, ktoré sú predmetom Importu a integrácie existujúcich
+dát podľa bodu 5.1.1 tejto Zmluvy
+
+11.1.3
+
+zabezpečenie kooperácie zo strany dodávateľa vnútorného informačného systému
+Nadobúdateľa (databázy všetkých registrovaných liekov a liekov v procese registrácie),
+10
+
+ak by to bolo potrebné pre doplnenie údajov pri Importe a integrácii existujúcich dát podľa
+bodu 5.1.1 tejto Zmluvy
+11.1.4
+
+inštalácia aplikácie na klientskych staniciach v prípade použitia ťažkého klienta (v
+spolupráci s Poskytovateľom, ktorý na tento účel poskytne Nadobúdateľovi všetku
+potrebnú súčinnosť potrebnú na vytvorenie inštalačného balíčka MSI na klientske stanice
+s možnosťou inštalácie cez Group Policy)
+
+11.1.5
+
+zabezpečenie personálu Nadobúdateľa potrebného na testovanie Aplikačného SW v
+testovacom prostredí podľa testov, ktorých scenáre boli vopred schválené Nadobúdateľom
+podľa bodu 6.3.1iv tejto Zmluvy
+
+11.1.6
+
+zabezpečenie personálu Nadobúdateľa – vybraných užívateľov, ktorí začnú používať
+všetky moduly Aplikačného SW, aby otestovali funkčnosť celého Aplikačného SW a jeho
+súčastí v rámci Skúšobnej prevádzky podľa bodu 6.4.1iii tejto Zmluvy
+
+11.1.7
+
+umožnenie prístupu do budovy Nadobúdateľa pre Poskytovateľa (resp. pre jeho
+zamestnancov a zamestnancov jeho subdodávateľov), ak je to nevyhnutne potrebné pre
+plnenie tejto Zmluvy .
+
+11.2 Súčinnosť podľa tohto bodu 11 bude Nadobúdateľom poskytnutá za podmienok uvedených v tejto
+Zmluve. Inú súčinnosť ako je uvedená v bode 11.1 nie je Nadobúdateľ povinný Poskytovateľovi
+pri Implementácii a plnení tejto Zmluvy poskytnúť.
+12.
+
+Prístup k informačným systémom / serverom Nadobúdateľa
+
+12.1 V prípade, ak v rámci plnenia tejto Zmluvy bude Poskytovateľ potrebovať pre svojich
+zamestnancov alebo pre zamestnancov svojich subdodávateľov, prostredníctvom ktorých plní túto
+Zmluvu, prístupové oprávnenia k informačným systémom / serverom Nadobúdateľa, zaväzuje sa
+Poskytovateľ bezodkladne po vzniku tejto potreby predložiť Nadobúdateľovi žiadosť o prístup k
+informačným systémom / serverom Nadobúdateľa (ďalej len „Žiadosť o prístup k IS“) pre tieto
+osoby. Formulár Žiadosti o prístup k IS, ktorý je Poskytovateľ povinný použiť, je prílohou č. 3 tejto
+Zmluvy.
+12.2 V prípade, že v priebehu plnenia tejto Zmluvy bude Poskytovateľ požadovať zmenu v zozname
+osôb, ktoré majú prístup k informačným systémom / serverom Nadobúdateľa, je Poskytovateľ vždy
+povinný podať Nadobúdateľovi Žiadosť o ukončenie prístupu k informačným systémom / serverom
+Nadobúdateľa (ďalej len „Žiadosť o ukončenie prístupu k IS“) pre osobu/osoby, ktorých
+oprávnenie na prístup má byť zrušené (ukončené), a súčasne podať novú Žiadosť o prístup k IS pre
+osobu/osoby, ktoré majú prístupové oprávnenia získať. Formulár Žiadosti o ukončenie prístupu k
+IS, ktorý je Poskytovateľ povinný použiť, je prílohou č. 4 tejto Zmluvy.
+12.3 Vyplnenú, podpísanú a naskenovanú Žiadosť o prístup k IS alebo Žiadosť o ukončenie prístupu k
+IS musí Poskytovateľ zaslať Nadobúdateľovi e-mailom zaslaným z e-mailovej adresy svojej
+kontaktnej osoby v technických veciach na e-mailovú adresu kontaktnej osoby Nadobúdateľa v
+technických veciach, pričom za dátum doručenia predmetnej žiadosti Nadobúdateľovi sa bude
+považovať dátum doručenia e-mailu do e-mailovej schránky Nadobúdateľa (ďalej len „Dátum
+doručenia žiadosti týkajúcej sa prístupu k IS“).
+12.4 Nadobúdateľ (jeho oddelenie informatiky a prevádzky) posúdi podanú Žiadosť o prístup k IS do
+dvoch pracovných dní nasledujúcich po Dátume doručenia žiadosti týkajúcej sa prístupu k IS.
+11
+
+Nadobúdateľ si môže pri procese posudzovania vyžiadať od Poskytovateľa ďalšie informácie o
+účele vydania žiadosti.
+12.5 Nadobúdateľ oznámi Poskytovateľovi, či jeho Žiadosť o prístup k IS schvaľuje alebo neschvaľuje
+do dvoch pracovných dní nasledujúcich po Dátume doručenia žiadosti týkajúcej sa prístupu k IS,
+a to e-mailom zaslaným z e-mailovej adresy svojej kontaktnej osoby v technických veciach na emailovú adresu kontaktnej osoby Poskytovateľa v technických veciach.
+12.6 V súvislosti s prístupom k informačným systémom / serverom Nadobúdateľa je Poskytovateľ
+povinný dodržiavať nasledujúce povinnosti a pravidlá:
+12.6.1
+
+Poskytovateľ bude Žiadosťou o prístup k IS žiadať o prístupové oprávnenie len k
+informačných systémom / serverom (resp. ich častiam), ku ktorým bude nevyhnutne
+potrebovať prístup v rámci plnenia tejto Zmluvy a len vo vzťahu k osobám, ktoré sa budú
+zúčastňovať na plnení tejto Zmluvy a budú z tohto dôvodu nevyhnutne tento prístup
+potrebovať.
+
+12.6.2
+
+Pri skončení alebo zániku pracovného pomeru alebo iného pracovnoprávneho vzťahu
+osoby, ktorej boli udelená prístupové práva k informačným systémom / serverom
+Nadobúdateľa, s Poskytovateľom (prípadne subdodávateľom Poskytovateľa, ak v súlade
+s touto Zmluvou Poskytovateľ plní prostredníctvom subdodávateľa), je Poskytovateľ
+povinný podať Nadobúdateľovi Žiadosť o ukončenie prístupu k IS pre túto osobu bez
+zbytočného odkladu, najneskôr do dvoch pracovných dní odo dňa, kedy sa stala
+rozhodujúca skutočnosť. V prípadoch, keď z akéhokoľvek iného dôvodu pominie dôvod
+alebo potreba prístupu príslušnej osoby Poskytovateľa (prípadne subdodávateľa
+Poskytovateľa, ak v súlade s touto Zmluvou Poskytovateľ plní prostredníctvom
+subdodávateľa) k informačným systémom / serverom Nadobúdateľa, je Poskytovateľ
+povinný postupovať rovnako.
+
+12.6.3
+
+Poskytovateľ je povinný zaistiť a je zodpovedný po celú dobu plnenia tejto Zmluvy
+Nadobúdateľovi za to, že:
+i.
+
+do informačných systémov / serverov Nadobúdateľa budú fakticky pristupovať iba
+osoby, pre ktoré bola podaná Žiadosť o prístup k IS, pričom táto Žiadosť o prístup
+k IS bola Nadobúdateľom riadne schválená v zmysle bodu 12.5 tejto Zmluvy
+a zároveň pre ne ešte nebola podaná Žiadosť o ukončenie prístupu k IS (ďalej len
+„Oprávnené osoby“).
+Nadobúdateľ je kedykoľvek v priebehu plnenia tejto Zmluvy oprávnený
+kontrolovať, ktoré osoby skutočne pristupujú do príslušnej časti jeho informačných
+systémov a serverov, a Poskytovateľ je v tomto prípade vždy povinný tuto
+informáciu Nadobúdateľovi poskytnúť a doložiť.
+
+ii.
+
+Poskytovateľ ani Oprávnené osoby neposkytnú pridelené oprávnenia inej osobe,
+prístupové oprávnenia budú chrániť proti neoprávnenému použitiu a akémukoľvek
+zneužitiu.
+
+iii.
+
+Oprávnené osoby budú pristupovať iba k tým informačným systémom / serverom
+resp. ich častiam, ktoré sú uvedené v predmetnej Žiadosti o prístup k IS schválenej
+Nadobúdateľom podľa bodu 12.5.
+12
+
+iv.
+
+Poskytovateľ ani Oprávnené osoby nepoužijú informácie, ktoré sa dozvedeli v
+súvislosti s prístupom k informačným systémom / serverom Nadobúdateľa na iný
+účel ako ten, pre ktorý im bol prístup schválený, a nebudú ich akýmkoľvek
+spôsobom sprístupňovať tretím osobám.
+
+v.
+
+Poskytovateľ a Oprávnené osoby budú dodržiavať všetky povinnosti stanovené
+zákonom č. 122/2013 Z.z. o ochrane osobných údajov v platnom znení, zákonom č.
+215/2004 Z.z. o ochrane utajovaných skutočností v platnom znení a inými
+všeobecne záväznými právnymi predpismi a ďalej tiež prípadné vnútorné predpisy
+Nadobúdateľa týkajúce sa bezpečnosti, ktoré Nadobúdateľ Poskytovateľovi
+poskytne.
+
+vi.
+
+Všetky Oprávnené osoby musia byť Poskytovateľom riadne a preukázateľne
+informované a poučené o všetkých povinnostiach, pravidlách a podmienkach
+spojených s prístupom k informačným systémom / serverom Nadobúdateľa (vrátane
+povinností podľa všeobecne záväzných predpisov a vnútorných predpisov
+Nadobúdateľa podľa bodu 12.6.3v tejto Zmluvy).
+Poskytovateľ je povinný na žiadosť Nadobúdateľa preukázať Nadobúdateľovi, že
+Oprávnené osoby boli riadne informované a poučené.
+
+12.6.4
+
+Poskytovateľ zodpovedá za každú škodu, ktorá Nadobúdateľovi vznikne porušením
+povinností týkajúcich sa prístupu k informačným systémom / serverom Nadobúdateľa zo
+strany Poskytovateľa (vrátane Oprávnených osôb), a to v plnej výške bez ohľadu na jej
+predvídateľnosť.
+
+12.7 Porušenie ktorejkoľvek povinnosti Poskytovateľa podľa tohto bodu 12 sa považuje za podstatné
+porušenie tejto Zmluvy.
+13.
+
+Prístup do budovy Nadobúdateľa
+
+13.1 V prípade, ak v rámci plnenia tejto Zmluvy bude Poskytovateľ nevyhnutne potrebovať pre svojich
+zamestnancov alebo pre zamestnancov svojich subdodávateľov, prostredníctvom ktorých plní túto
+Zmluvu, prístup do budovy Nadobúdateľa (Kvetná 11, Bratislava 825 08, Slovenská republika),
+zaväzuje sa Poskytovateľ bezodkladne po vzniku tejto potreby podať Nadobúdateľovi žiadosť
+o povolenie prístupu do budovy Nadobúdateľa (ďalej len „Žiadosť o prístup do budovy“) pre
+tieto osoby. Formulár Žiadosti o prístup do budovy, ktorý je Poskytovateľ povinný použiť, je
+prílohou č. 5 tejto Zmluvy.
+13.2 Vyplnenú, podpísanú a naskenovanú Žiadosť o prístup do budovy musí Poskytovateľ zaslať
+Nadobúdateľovi e-mailom zaslaným z e-mailovej adresy svojej kontaktnej osoby v technických
+veciach na e-mailovú adresu kontaktnej osoby Nadobúdateľa v technických veciach, pričom za
+dátum doručenia predmetnej žiadosti Nadobúdateľovi sa bude považovať dátum doručenia e-mailu
+do e-mailovej schránky Nadobúdateľa (ďalej len „Dátum doručenia žiadosti o prístup do
+budovy“).
+13.3 Nadobúdateľ (jeho oddelenie informatiky a prevádzky) posúdi podanú Žiadosť o prístup do budovy
+do dvoch pracovných dní po Dátume doručenia žiadosti o prístup do budovy. Nadobúdateľ si môže
+pri procese posudzovania žiadosti vyžiadať od Poskytovateľa ďalšie informácie o účele vydania
+žiadosti.
+13
+
+13.4 Nadobúdateľ oznámi Poskytovateľovi, či jeho Žiadosť o prístup do budovy schvaľuje alebo
+neschvaľuje do dvoch pracovných dní po Dátume doručenia žiadosti o prístup do budovy, a to emailom zaslaným z e-mailovej adresy svojej kontaktnej osoby v technických veciach na e-mailovú
+adresu kontaktnej osoby Poskytovateľa v technických veciach.
+13.5 Poskytovateľ sa zaväzuje, že Žiadosťou o prístup do budovy bude žiadať o povolenie prístupu do
+budovy Nadobúdateľa len v nevyhnutných prípadoch, v nevyhnutnom rozsahu a len vo vzťahu k
+osobám, ktoré sa budú zúčastňovať na plnení tejto Zmluvy a budú z tohto dôvodu nevyhnutne tento
+prístup potrebovať.
+13.6 Nadobúdateľ nie je povinný umožniť prístup do budovy Nadobúdateľa osobám, ktoré neboli
+uvedené v Žiadosti o prístup do budovy schválenej Nadobúdateľom podľa bodu 13.4 tejto Zmluvy.
+13.7 Poskytovateľ je povinný zaistiť a je zodpovedný za to, že osoby, ktorým bol na základe Žiadosti
+o prístup do budovy schválený prístup do budovy Nadobúdateľa podľa bodu 13.4 tejto Zmluvy:
+13.7.1
+
+sa budú pohybovať v budove Nadobúdateľa len v sprievode osoby určenej
+Nadobúdateľom, riadiť sa pokynmi tejto osoby a dodržiavať prípadné vnútorné predpisy
+Nadobúdateľa týkajúce sa pohybu v budove, ktoré Nadobúdateľ Poskytovateľovi
+poskytne
+
+13.7.2
+
+budú prítomné v budove Nadobúdateľa len počas nevyhnutne potrebnej doby
+
+13.7.3
+
+budú Poskytovateľom riadne a preukázateľne informované a poučené o všetkých
+povinnostiach, pravidlách a podmienkach spojených s prístupom do budovy
+Nadobúdateľa.
+Poskytovateľ je povinný na žiadosť Nadobúdateľa preukázať Nadobúdateľovi, že tieto
+osoby boli riadne informované a poučené.
+
+13.8 Poskytovateľ zodpovedá za každú škodu, ktorá Nadobúdateľovi vznikne porušením povinností
+týkajúcich sa prístupu do budovy Nadobúdateľa zo strany Žiadateľa (vrátane osôb, ktorým bol na
+základe Žiadosti o prístup do budovy schválený prístup do budovy Nadobúdateľa podľa bodu 13.4),
+a to v plnej výške bez ohľadu na jej predvídateľnosť.
+13.9 Poskytovateľ zodpovedá za škody na majetku Nadobúdateľa a iné škody spôsobené osobami
+Nadobúdateľa počas ich prítomnosti v budove Nadobúdateľa na základe schválenej Žiadosti
+o prístup do budovy.
+14.
+
+Mlčanlivosť a ochrana Dôverných informácií
+
+14.1 Poskytovateľ je povinný zachovávať mlčanlivosť o všetkých skutočnostiach a informáciách, o
+ktorých sa dozvie v súvislosti s plnením tejto Zmluvy alebo ktoré mu sú alebo budú v súvislosti s
+plnením tejto Zmluvy poskytnuté Nadobúdateľom (ďalej spolu len „Dôverné informácie“).
+14.2 Za Dôverné informácie sa na účely tejto Zmluvy nepovažujú:
+14.2.1
+
+skutočnosti a informácie, ktoré sú verejne prístupné alebo sa stanú verejne prístupnými,
+pričom týmto sprístupnením verejnosti neboli porušené všeobecne záväzné právne
+predpisy ani povinnosti mlčanlivosti;
+
+14.2.2
+
+skutočnosti a informácie, ktoré Poskytovateľ v dobrej viere získal z iného zdroja ako od
+Nadobúdateľa.
+14
+
+14.3 Poskytovateľ sa zaväzuje nepoužiť Dôverné informácie za účelom iným ako je splnenie svojich
+záväzkov vyplývajúcich z tejto Zmluvy.
+14.4 Poskytovateľ sa zaväzuje nesprístupniť Dôverné informácie žiadnej tretej osobe s výnimkou
+prípadu, keď:
+14.4.1
+
+ide o sprístupnenie Dôverných informácií v nevyhnutnom rozsahu subdodávateľom
+Poskytovateľa uvedeným v Prílohe č. 2 tejto Zmluvy alebo odsúhlaseným Nadobúdateľom
+podľa bodu 8.4 tejto Zmluvy;
+
+14.4.2
+
+ide o sprístupnenie Dôverných informácií právnym alebo iným odborným poradcom
+Poskytovateľa, ak je sprístupnenie nevyhnutne potrebné pre hájenie práv a oprávnených
+záujmov Poskytovateľa;
+
+14.4.3
+
+ide o sprístupnenie Dôverných informácií s predchádzajúcim písomným súhlasom
+Nadobúdateľa;
+
+14.4.4
+
+ide o sprístupnenie Dôverných informácií podľa všeobecne záväzných právnych
+predpisov Slovenskej republiky alebo je daná taká povinnosť právoplatným a zákonným
+rozhodnutím príslušného orgánu verejnej moci vydaným na základe jeho zákonného
+zmocnenia.
+
+Takúto skutočnosť je Poskytovateľ povinný na výzvu Nadobúdateľa Nadobúdateľovi bez
+zbytočného odkladu preukázať.
+14.5 Poskytovateľ sa zaväzuje zabezpečiť ochranu Dôverných informácií proti ich neoprávnenému
+získaniu tretími osobami.
+14.6 V prípade, ak Poskytovateľ bude mať dôvodné podozrenie, že došlo k neoprávnenému prístupu
+resp. získaniu Dôverných informácií treťou osobou, je povinný bezodkladne o tejto skutočnosti
+informovať Nadobúdateľa.
+14.7 Poskytovateľ je povinný bez zbytočného odkladu po ukončení alebo zániku tejto Zmluvy:
+14.7.1
+
+bez vyzvania odovzdať Nadobúdateľovi všetky materiály (vrátane kópií) a veci, ktoré od
+neho alebo v jeho mene prevzal pri plnení Zmluvy, alebo ich na základe rozhodnutia
+Nadobúdateľa zničiť
+
+14.7.2
+
+bez vyzvania odovzdať Nadobúdateľovi získané Dôverné informácie v listinnej podobe
+(vrátane kópií) alebo ich na základe rozhodnutia Nadobúdateľa zničiť
+
+14.7.3
+
+bez vyzvania odstrániť (vymazať) Dôverné informácie uložené v elektronickej podobe,
+ktoré má u seba.
+
+Povinnosť zničiť alebo odstrániť materiály a Dôverné informácie v listinnej alebo elektronickej
+podobe neplatí v prípade, ak je Poskytovateľ povinný v zmysle všeobecne záväzných právnych
+predpisov vyššie uvedené materiály a Dôverné informácie v listinnej alebo elektronickej podobe
+archivovať. V takom prípade je Poskytovateľ povinný ich zničiť alebo odstrániť po uplynutí doby
+ich povinnej archivácie.
+14.8 Poskytovateľ za zaväzuje zabezpečiť, aby boli povinnosťami uvedenými v tomto bode 14 zaviazaní
+aj všetci jeho zamestnanci, subdodávatelia a ich zamestnanci použití pri plnení tejto Zmluvy a
+právni a iní odborní poradcovia podľa bodu 14.4.2 tejto Zmluvy.
+15
+
+14.9 Povinnosti vyplývajúce z ustanovení bodov 14.1 až 14.8 tejto Zmluvy zostávajú v platnosti počas
+trvania tejto Zmluvy a aj po jej ukončení.
+14.10 Porušenie ktorejkoľvek povinnosti Poskytovateľa podľa tohto bodu 14 sa považuje za podstatné
+porušenie tejto Zmluvy.
+15.
+
+Iné práva a povinnosti Zmluvných strán
+
+15.1 Poskytovateľ je povinný poskytnúť Nadobúdateľovi všetku nevyhnutnú súčinnosť, ktorá je
+predpokladom nerušeného výkonu licenčných oprávnení k Aplikačnému SW a jeho Modulom
+Nadobúdateľom.
+15.2 Poskytovateľ je povinný kedykoľvek na vyžiadanie Nadobúdateľa poskytnúť Nadobúdateľovi bez
+zbytočného odkladu informácie alebo dokumenty osvedčujúce plnenie záväzkov Poskytovateľa
+podľa tejto Zmluvy a zúčastniť sa vhodnou formou rokovaní zvolaných Nadobúdateľom týkajúcich
+sa plnenia tejto Zmluvy (a to prostredníctvom kontaktnej osoby pre technické veci, ak Nadobúdateľ
+nepožaduje inak).
+15.3 Ak u niektorej zo Zmluvných strán nastanú skutočnosti akokoľvek brániace riadnemu a včasnému
+plneniu tejto Zmluvy, je dotknutá Zmluvná strana povinná to bez zbytočného odkladu oznámiť
+druhej Zmluvnej strane.
+15.4 Poskytovateľ sa zaväzuje, že v prípade, ak akákoľvek osoba odlišná od Nadobúdateľa, vrátane
+zamestnancov Poskytovateľa, uplatní voči Nadobúdateľovi nárok z titulu porušenia práv duševného
+vlastníctva v súvislosti s používaním Aplikačného SW na základe Licencie, zaväzuje sa
+Poskytovateľ poskytnúť Nadobúdateľovi účinnú pomoc a súčinnosť a uhradiť mu všetky náklady,
+ktoré mu v súvislosti so sporom s takouto osobou vzniknú (vrátane rozumne vynaložených
+nákladov na právne poradenstvo a zastúpenie), a ďalej sa zaväzuje uhradiť Nadobúdateľovi každú
+škodu, ktorá mu vznikne v dôsledku uplatnenia autorskoprávneho nároku voči Nadobúdateľovi v
+súvislosti s užívaním Aplikačného SW, a to v plnej výške.
+15.5 Poskytovateľ sa zaväzuje, že túto Zmluvu bude plniť prostredníctvom dostatočne odborne
+spôsobilých zamestnancov a osôb a v prípade ich zmeny alebo výmeny zabezpečí ich informovanie
+o stave plnenia tejto Zmluvy v potrebnom rozsahu.
+15.6 Poskytovateľ sa zaväzuje predložiť Nadobúdateľovi na jeho žiadosť písomný súhlas osôb
+uvedených v Žiadosti o prístup k IS a Žiadosti o prístup do budovy so spracovávaním ich osobných
+údajov Nadobúdateľom, ak bude tento súhlas potrebný podľa zákona č. 122/2013 Z.z. o ochrane
+osobných údajov v znení neskorších predpisov.
+15.7 Poskytovateľ potvrdzuje, že ku dňu podpisu tejto Zmluvy má uzatvorenú poistnú zmluvu na
+poistenie zodpovednosti za škodu spôsobenú pri výkone svojej podnikateľskej činnosti na
+minimálnu čiastku 200.000,- EUR (slovami dvestotisíc eur) so spoluúčasťou najviac 10 %, a je
+povinný túto poistnú zmluvu udržovať účinnú najmenej do Dátumu akceptácie služieb vykonaných
+Poskytovateľom v rámci Tretej etapy realizácie Nadobúdateľom. Na žiadosť Nadobúdateľa je
+Poskytovateľ povinný predložiť poistnú zmluvu či poistný certifikát príslušnej poisťovne.
+15.8 Každá zo Zmluvných strán sa zaväzuje oznámiť druhej Zmluvnej strane zmenu svojho sídla a iných
+údajov uvedených v záhlaví tejto Zmluvy ako aj kontaktných osôb podľa bodu 20, a to bez
+zbytočného odkladu po tejto zmene.
+16
+
+16.
+
+Sankcie
+
+16.1 V prípade omeškania Nadobúdateľa so zaplatením faktúry na Odmenu je Poskytovateľ oprávnený
+požadovať od Nadobúdateľa zaplatenie úroku z omeškania podľa § 369 ods. 2 Obchodného
+zákonníka.
+16.2 V prípade omeškania Poskytovateľa so splnením si jeho povinnosti podľa bodu 6.2.4 tejto Zmluvy
+odovzdať Nadobúdateľovi Implementačnú dokumentáciu na akceptáciu do 3 týždňov od účinnosti
+tejto Zmluvy, je Poskytovateľ povinný zaplatiť Nadobúdateľovi zmluvnú pokutu vo výške 200,EUR (slovom dvesto eur) za každý, aj začatý deň omeškania s plnením tejto povinnosti o viac ako
+25 dní.
+16.3 V prípade omeškania Poskytovateľa so splnením si jeho povinnosti podľa bodu 6.3.6 tejto Zmluvy
+odovzdať Nadobúdateľovi na akceptáciu Služby, ktoré majú byť vykonané v rámci Druhej etapy
+realizácie najneskôr do 3 týždňov od dátumu akceptácie Prvej etapy realizácie zo strany
+Nadobúdateľa, je Poskytovateľ povinný zaplatiť Nadobúdateľovi zmluvnú pokutu vo výške 200,EUR (slovom dvesto eur) za každý, aj začatý deň omeškania o viac ako 25 dní.
+16.4 V prípade omeškania Poskytovateľa so splnením si jeho povinnosti podľa bodu 6.4.5 tejto Zmluvy
+odovzdať Nadobúdateľovi na akceptáciu Služby, ktoré majú byť vykonané v rámci Tretej etapy
+realizácie najneskôr do 3 týždňov od dátumu akceptácie Druhej etapy realizácie zo strany
+Nadobúdateľa, je Poskytovateľ povinný zaplatiť Nadobúdateľovi zmluvnú pokutu vo výške 200,EUR (slovom dvesto eur) za každý, aj začatý deň omeškania o viac ako 25 dní.
+16.5 V prípade omeškania Poskytovateľa so splnením jeho povinnosti podľa bodu 6.5.6 odstrániť vady
+v lehote 7 kalendárnych dní od Dátumu reklamácie, je Poskytovateľ povinný zaplatiť
+Nadobúdateľovi zmluvnú pokutu vo výške 200,- EUR (slovom dvesto eur) za každý, aj začatý deň
+omeškania o viac ako 10 dní.
+16.6 V prípade, ak Poskytovateľ poruší svoju povinnosť podľa bodu 8.1 tejto Zmluvy alebo povinnosť
+podľa bodu 8.4 tejto Zmluvy zmeniť subdodávateľa výlučne iba po predchádzajúcom písomnom
+súhlase Nadobúdateľa, je Poskytovateľ povinný zaplatiť Nadobúdateľovi zmluvnú pokutu vo výške
+3.500,- EUR (slovom tritisícpäťsto eur) za každé jedno porušenie.
+16.7 Nadobúdateľ je oprávnený domáhať sa náhrady škody presahujúcej zmluvnú pokutu podľa bodov
+16.2 až 16.6 tejto Zmluvy.
+17.
+
+Trvanie Zmluvy
+
+17.1 Tato Zmluva sa uzatvára na dobu určitú, a to na dobu trvania autorských majetkových práv
+k Aplikačnému SW a jeho Modulom.
+18.
+
+Ukončenie Zmluvy odstúpením
+
+18.1 Poskytovateľ je oprávnený odstúpiť od tejto Zmluvy v prípade porušenia povinnosti podľa tejto
+Zmluvy zo strany Nadobúdateľa za podmienok uvedených v § 345 a nasl. Obchodného zákonníka,
+ak v tejto Zmluve nie je uvedené výslovne inak.
+18.2 Nadobúdateľ je oprávnený odstúpiť od tejto Zmluvy v prípade porušenia povinnosti podľa tejto
+Zmluvy zo strany Poskytovateľa za podmienok uvedených v § 345 a nasl. Obchodného zákonníka,
+ak v tejto Zmluve nie je uvedené výslovne inak.
+
+17
+
+18.3 V prípade porušenia povinnosti, ktorá je v tejto Zmluve označená za podstatnú, jednou Zmluvnou
+stranou môže druhá Zmluvná strana odstúpiť od tejto Zmluvy podľa § 345 Obchodného zákonníka.
+18.4 Nadobúdateľ je oprávnený odstúpiť od Zmluvy aj z dôvodov uvedených v slovenských všeobecne
+záväzných právnych predpisov týkajúcich sa verejného obstarávania, vrátane dôvodov uvedených
+v § 19 ZVO.
+18.5 Nadobúdateľ je oprávnený odstúpiť od tejto Zmluvy aj v prípade, ak:
+18.5.1
+
+bolo voči Poskytovateľovi začaté konkurzné konanie alebo iné obdobné konanie alebo
+vyhlásený konkurz alebo iné obdobné konanie
+
+18.5.2
+
+Poskytovateľ vstúpi do likvidácie alebo sa dostane do obdobného právneho stavu
+
+18.5.3
+
+Poskytovateľ stratí oprávnenie na výkon činností potrebné pre plnenie tejto Zmluvy
+
+18.5.4
+
+Poskytovateľ, jeho zamestnanec, subdodávateľ alebo jemu podriadená osoba alebo
+zástupca ponúkne alebo dá úplatok komukoľvek, kto je súčasťou organizácie
+Nadobúdateľa, zamestnancom, podriadenou osobou alebo zástupcom Nadobúdateľa.
+
+18.6 Nadobúdateľ je oprávnený odstúpiť od tejto Zmluvy aj v prípade:
+18.6.1
+
+omeškania Poskytovateľa so splnením si jeho povinnosti podľa bodu 6.2.4 tejto Zmluvy
+odovzdať Nadobúdateľovi Implementačnú dokumentáciu na akceptáciu do 3 týždňov od
+účinnosti tejto Zmluvy o viac ako 60 dní.
+
+18.6.2
+
+omeškania Poskytovateľa so splnením si jeho povinnosti podľa bodu 6.3.6 tejto Zmluvy
+odovzdať Nadobúdateľovi na akceptáciu Služby, ktoré majú byť vykonané v rámci Druhej
+etapy realizácie najneskôr do 3 týždňov od dátumu akceptácie Prvej etapy realizácie zo
+strany Nadobúdateľa, o viac ako 60 dní.
+
+18.6.3
+
+omeškania Poskytovateľa so splnením si jeho povinnosti podľa bodu 6.4.5 tejto Zmluvy
+odovzdať Nadobúdateľovi na akceptáciu Služby, ktoré majú byť vykonané v rámci Tretej
+etapy realizácie najneskôr do 3 týždňov od dátumu akceptácie Druhej etapy realizácie zo
+strany Nadobúdateľa, o viac ako 60 dní.
+
+18.6.4
+
+V prípade omeškania Poskytovateľa so splnením jeho povinnosti podľa bodu 6.5.6
+odstrániť vady v lehote 7 kalendárnych dní od Dátumu reklamácie, o viac ako 21 dní.
+
+18.7 Odstúpenie od Zmluvy musí mať písomnú (listinnú) formu a musí byť v ňom uvedený dôvod
+odstúpenia. Odstúpenie je účinné doručením odstúpenia druhej Zmluvnej strane.
+18.8 Odstúpenie od Zmluvy sa nedotýka nároku na náhradu škody vzniknutej porušením Zmluvy ani
+povinnosti zaplatiť (splniť) úroky z omeškania, zmluvné pokuty a iné sankcie, na ktoré vzniklo
+Zmluvnej strane právo pred zánikom tejto Zmluvy odstúpením ani ďalších ustanovení, ktoré
+v zmysle Obchodného zákonníka odstúpením nezanikajú.
+18.9 Zmluvné strany berú na vedomie, že plnenie Poskytovateľa, ktoré je predmetom tejto Zmluvy, má
+pre Nadobúdateľa hospodársky význam iba ako celok.
+19.
+
+Salvátorská klauzula
+
+19.1 Ak je alebo sa stane niektoré z ustanovení tejto Zmluvy neplatné, neúčinné alebo nevymáhateľné,
+ostávajú ostatné ustanovenia tejto Zmluvy platné a účinné. Namiesto tohto neplatného, neúčinného
+alebo nevymáhateľného ustanovenia sa použijú ustanovenia všeobecne záväzných právnych
+18
+
+predpisov upravujúcich danú otázku, pričom sa však Zmluvné strany zaväzujú v dobrej viere
+rokovať za účelom nájdenia dohody o nahradení takéhoto neplatného, neúčinného alebo
+nevymáhateľného ustanovenia iným platným, účinným a vymáhateľným ustanovením, ktoré
+najlepšie zodpovedá významu a účelu sledovanému neplatným, neúčinným alebo nevymáhateľným
+ustanovením (ak takáto dohoda nie je v rozpore so všeobecne záväznými právnymi predpismi
+Slovenskej republiky v oblasti verejného obstarávania).
+20.
+
+Kontaktné osoby
+
+20.1 Kontaktnými osobami Zmluvných strán v záležitostiach plnenia tejto Zmluvy sú tieto osoby:
+20.1.1
+
+Za Nadobúdateľa:
+i.
+
+pre zmluvné veci - podpisovanie zmlúv, príloh zmlúv, dodatkov k zmluvám,
+ukončovanie zmlúv
+PharmDr. Zuzana Baťová, PhD., riaditeľka
+email: zuzana.batova@sukl.sk
+
+ii.
+
+pre technické veci, vrátane odovzdávania, akceptácie a reklamácie Etáp realizácie a
+prístupu k informačným systémom / serverom Nadobúdateľa a do budovy
+Nadobúdateľa
+Ing. Andrej Kubán, vedúci oddelenia informačných technológií
+tel.: +421 2 50 70 13 43, +421 903 234 969
+email: andrej.kuban@sukl.sk
+
+iii.
+
+pre ostatné veci
+Bc. Ing. Vladimíra Červeňanová, vedúca sekcie vnútornej
+email: vladimira.cervenanova@sukl.sk
+
+20.1.2
+
+Za Poskytovateľa:
+i.
+
+pre zmluvné veci - podpisovanie zmlúv, príloh zmlúv, dodatkov k zmluvám,
+ukončovanie zmlúv
+Mgr. Tomáš Mašek, konateľ
+tel.: +421 903 773 023
+email: masek@altamira.sk
+
+ii.
+
+pre technické veci, vrátane odovzdávania, akceptácie a reklamácie Etáp realizácie
+a prístupu k informačným systémom / serverom Nadobúdateľa a do budovy
+Nadobúdateľa
+Bc. Samuel Sásik, account manager
+tel.: +421 948 656 863
+email: sasik@altamira.sk
+
+iii.
+
+pre ostatné veci
+Ing. Mária Šimková, key account manager
+19
+
+tel.: +421 948 247 270
+email: simkova@altamira.sk
+
+21.
+
+Spoločné ustanovenia pre prípad viacerých subjektov na strane Poskytovateľa
+
+21.1 V prípade, ak úspešný uchádzač vo Verejnom obstarávaní, s ktorým je uzatvorená táto Zmluva,
+vystupoval vo Verejnom obstarávaní ako skupina dodávateľov podľa § 37 ZVO a na strane
+Poskytovateľa v tejto Zmluve preto vystupuje viac subjektov – právnických alebo fyzických osôb
+(ďalej len „Subjekty“), tak platí, že:
+21.1.1
+
+všetky Subjekty sú zo Zmluvy oprávnené a zaviazané a zodpovedajú za plnenie tejto
+Zmluvy spoločne a nerozdielne;
+
+21.1.2
+
+Subjekty najneskôr v čase uzatvorenia tejto Zmluvy písomne udelia oprávnenie konať
+v mene všetkých Subjektov v procese plnenia tejto Zmluvy jednému z nich ako vedúcemu
+(lídrovi) (ďalej len „Líder“) a predložia ho Nadobúdateľovi; tým nie je dotknuté
+ustanovenie bodu 20 o kontaktných osobách;
+
+21.1.3
+
+faktúra na Odmenu bude splatná na bankový účet Lídra uvedený v záhlaví tejto Zmluvy.
+
+21.2 Pre odstránenie akýchkoľvek pochybností, ustanovenie bodu 21.1 tejto Zmluvy sa nepoužije
+v prípade, ak vystupuje na strane Poskytovateľa iba jeden subjekt.
+22.
+
+Záverečné ustanovenia
+
+22.1 Tato Zmluva nadobúda platnosť dňom jej podpisu oboma Zmluvnými stranami.
+22.2 Táto Zmluva je povinne zverejňovanou zmluvou v zmysle zákona č. 211/2000 Z.z. o slobodnom
+prístupe k informáciám v znení neskorších predpisov a nadobúda účinnosť dňom nasledujúcim po
+dni jej zverejnenia podľa zákona č. 211/2000 Z.z. o slobodnom prístupe k informáciám v znení
+neskorších predpisov.
+22.3 Neoddeliteľnou súčasťou tejto Zmluvy je:
+Príloha č. 1:
+
+Opis predmetu zákazky
+
+Príloha č. 2:
+
+Zoznam subdodávateľov
+
+Príloha č. 3:
+
+Formulár Žiadosti o prístup k informačným systémom / serverom Nadobúdateľa
+
+Príloha č. 4:
+
+Formulár Žiadosti o ukončenie prístupu k informačným systémom / serverom
+Nadobúdateľa
+
+Príloha č. 5:
+
+Formulár Žiadosti o povolenie prístupu do budovy Nadobúdateľa
+
+22.4 Tuto Zmluvu je možné meniť len písomnou dohodou v listinnej podobe uzatvorenou oboma
+Zmluvnými stranami, v ktorej je výslovne uvedené, že ide o dodatok k tejto Zmluve a poradie
+dodatku. Iné zápisy, protokoly a pod. sa za zmenu tejto Zmluvy nepovažujú. Zmluvu možno zmeniť
+počas jej trvania bez nového verejného obstarávania iba v súlade s platnými všeobecne záväznými
+právnymi predpismi Slovenskej republiky (najmä ustanovenie § 18 ZVO).
+22.5 Táto Zmluva sa riadi právom Slovenskej republiky, a to ustanoveniami Autorského zákonníka
+o licenčnej zmluve, ustanovením § 269 ods. 2 Obchodného zákonníka a ostatnými ustanoveniami
+Obchodného zákonníka.
+20
+
+22.6 Zmluvné strany sa dohodli, že Poskytovateľ nie je oprávnený postúpiť akékoľvek pohľadávky voči
+Nadobúdateľovi podľa § 524 a nasl. zákona č. 40/1964 Zb. Občiansky zákonník v znení neskorších
+predpisov plynúce z tejto Zmluvy na tretí subjekt bez predchádzajúceho písomného súhlasu
+Nadobúdateľa. Právny úkon, ktorým by došlo k postúpeniu pohľadávky Poskytovateľa v rozpore s
+touto zmluvou je podľa § 39 Občianskeho zákonníka neplatný.
+
+22.7 Zmluvné strany sa dohodli, že všetky spory, ktoré z tejto Zmluvy alebo v súvislosti s ňou vzniknú,
+vrátane sporov o jej neplatnosť, výklad alebo zrušenie, budú riešené dohodou a ak nedôjde k
+dohode, súdnou cestou, pričom výlučnú právomoc na rozhodovanie týchto sporov budú mať súdy
+Slovenskej republiky.
+22.8 Tato Zmluva je vyhotovená v 2 rovnopisoch v slovenskom jazyku, z ktorých každá Zmluvná strana
+obdrží po jednom (1) vyhotovení.
+22.9 Zmluvné strany vyhlasujú, že si Zmluvu pozorne prečítali, jej obsah je im jasný, určitý
+a zrozumiteľný a túto Zmluvu uzatvárajú slobodne a vážne a nie v tiesni ani za nápadne
+nevýhodných podmienok, na znak čoho ich oprávnení zástupcovia nižšie pripájajú svoje podpisy.
+
+Poskytovateľ:
+
+Nadobúdateľ:
+
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+____________________________________
+
+____________________________________
+
+Altamira Softworks, s.r.o.
+
+Štátny ústav pre kontrolu liečiv
+
+Mgr. Tomáš Mašek
+
+PharmDr. Zuzana Baťová, PhD.
+
+konateľ
+
+riaditeľka
+
+21
+
+22
+
+Príloha č. 1 k Zmluve o dodaní a implementácii aplikačného softvéru a Licenčnej zmluve
+OPIS PREDMETU ZÁKAZKY
+Účel
+1. Základným materiálom pre posúdenie žiadosti o registráciu lieku predkladanej ŠÚKL je
+dokumentácia o výsledkoch farmaceutického, farmakologicko-toxikologického a klinického
+skúšania. Údaje a typy dokumentov, ktoré má obsahovať dokumentácia k registrácii lieku predložená
+na ŠÚKL, stanovuje § 48 zákona č. 362/2011 Z. z. o liekoch a zdravotníckych pomôckach a o zmene
+a doplnení niektorých zákonov.
+2. Štruktúra dokumentácie musí zodpovedať štandardu dohodnutému v rámci ICH (The International
+Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use /
+Medzinárodná rada pre harmonizáciu technických požiadaviek pre lieky na humánne použitie),
+ktorým je tzv. spoločný technický dokument - Common Technical Document (CTD).
+3. Dokumentácia v štruktúre zodpovedajúcej štandardu CTD pozostáva z 5 častí:
+a) Modul 1 a 2 obsahuje administratívne údaje, súhrny charakteristických vlastností lieku (SmPC),
+písomné informácie pre používateľov (PL), texty vnútorného a vonkajšieho obalu lieku. Táto časť
+dokumentácie obsahuje tiež súhrnné stanoviská expertov k modulom 3-5, ktoré predkladá
+žiadateľ.
+b) Modul 3 pozostáva z chemických, farmaceutických a biologických údajov, ktoré sa týkajú
+predovšetkým výroby a kontroly kvality lieku.
+c) Modul 4 tvoria výsledky farmakologicko-toxikologického skúšania uskutočneného na
+laboratórnych zvieratách, hlavne vo vzťahu k toxicite a mechanizmu účinku lieku.
+d) Modul 5 pozostáva z informácií o klinickom skúšaní lieku - jeho účinnosti a bezpečnosti.
+Žiadateľ je povinný uviesť všetky výsledky skúšania s uvedeným liekom, teda aj negatívne výsledky,
+resp. neukončené štúdie.
+Dokumentácia v štruktúre zodpovedajúcej štandardu CTD sa predkladá ŠÚKL vo formáte eCTD
+(electronic Common Technical Document) alebo NeeS (Non-eCTD Electronic Submission).
+Predmetom zákazky je dodanie aplikačného softvéru pre prácu s dokumentáciou vo formáte
+eCTD a NeeS (ďalej len "aplikačný SW") (vrátane udelenia licencie), implementácia aplikačného SW v
+prostredí ŠÚKL a poskytovanie služieb servisnej podpory, údržby a rozvoja aplikačného SW v prostredí
+ŠÚKL zo strany poskytovateľa v nižšie uvedenom rozsahu.
+Účelom je predovšetkým zabezpečiť pre nadobúdateľa (ŠUKL) nerušené užívanie aplikačného SW v
+plne funkčnom stave, tak aby nadobúdateľ (ŠÚKL) mohol riadne plniť svoje zákonom zverené
+kompetencie.
+Dodanie aplikačného SW (vrátane udelenia licencie) a jeho implementácia v prostredí ŠUKL bude
+predmetom Zmluvy o dodaní a implementácii aplikačného softvéru a Licenčnej zmluvy (Príloha č. 1 časti
+„OBCHODNÉ PODMIENKY USKUTOČNENIA PREDMETU ZÁKAZKY“ týchto súťažných
+podkladov).
+
+23
+
+Poskytovanie služieb servisnej podpory, údržby a rozvoja aplikačného SW bude predmetom Zmluvy
+o poskytovaní služieb servisnej podpory, údržby a rozvoja aplikačného softvéru (Príloha č. 2 „
+OBCHODNÉ PODMIENKY USKUTOČNENIA PREDMETU ZÁKAZKY“ týchto súťažných
+podkladov).
+"Poskytovateľom" sa na účely tohto opisu predmetu zákazky rozumie úspešný uchádzač.
+"Nadobúdateľom" sa na účely tohto opisu predmetu zákazky rozumie ŠÚKL.
+Rozsah
+Dodávaný aplikačný SW sa skladá z nasledujúcich častí (modulov):
+a) Modul pre nahrávanie dokumentácie vo formáte eCTD a NeeS do internej databázy aplikačného
+SW (ďalej len "nahrávací modul") v podobe časovo neobmedzenej licencie pre 12 pomenovaných
+používateľov.
+b) Modul pre technickú validáciu žiadostí vo formáte eCTD a NeeS podľa technických validačných
+kritérií schvaľovaných Európskou liekovou agentúrou (European Medicines Agency) platných k
+dátumu prijatia žiadosti (ďalej len "technický validátor") v podobe časovo neobmedzenej licencie
+pre 12 pomenovaných používateľov.
+c) Modul pre prezeranie a prácu s dokumentáciou vo formáte eCTD a NeeS (ďalej len "čítačka") v
+podobe časovo neobmedzenej licencie pre 80 pomenovaných používateľov (tento počet zahŕňa aj
+užívateľov v bodoch 1 a 2).
+Pomenovaným používateľom sa rozumie aktívny užívateľ aplikačného SW (zamestnanec ŠÚKL), ktorý
+má pridelené prihlasovacie meno, heslo a príslušné práva. V prípade deaktivácie užívateľa sa uvoľní
+príslušná licencia pre iného pomenovaného používateľa (zamestnanca ŠÚKL).
+Moduly uvedené v bodoch a),b) a c) vyššie môžu byť pokryté samostatnými aplikáciami alebo môžu
+byť dodané v rámci jednej komplexnej aplikácie.
+Implementácia aplikačného SW zahŕňa:
+Import a integráciu existujúcich sekvencií vo formáte eCTD a NeeS uložených v lokálnom dátovom
+úložisku ŠÚKL do aplikačného SW v prostredí ŠÚKL
+Inštaláciu, integráciu a konfiguráciu aplikačného SW do testovacieho a produkčného prostredia
+Vstupné školenia pre obsluhu (pracovníkov ŠÚKL)
+Poskytnutie technickej dokumentácie týkajúcej sa správy a prevádzky aplikačného SW a poskytnutie
+užívateľskej dokumentácie (príručky) pre nahrávací modul, technický validátor a čítačku.
+Poskytovanie služieb servisnej podpory, údržby a rozvoja aplikačného SW zahŕňa poskytovanie
+nasledovných služieb počas 3 rokov po akceptácii dodania a implementácie aplikačného SW
+nadobúdateľom v zmysle Zmluvy o dodávke softvéru a Licenčnej zmluvy :
+Poskytovanie technickej podpory a údržby k aplikačnému SW
+a) Službu vedenia helpdesku pre servisnú podporu prevádzky aplikačného SW
+b) Odstraňovanie zistených alebo nahlásených závad
+c) Služby spočívajúce v úprave aplikačného SW, poskytovaní konzultácií špecialistami
+poskytovateľa a realizácii preškolenia nových užívateľov na základe objednávky nadobúdateľa.
+24
+
+d) Detailné požiadavky na aplikačný SW, jeho implementáciu a poskytovanie služieb servisnej
+podpory, údržby a rozvoja aplikačného SW sú uvedené nižšie v ďalších kapitolách tohto opisu
+predmetu zákazky.
+Zoznam skratiek
+ADDS
+Active Directory Domain Services
+API
+Application Programming Interface
+eCTD
+electronic Common Technical Document
+EMA
+European Medicines Agency
+GUI
+Graphical User Interface
+ICT
+Informačné a komunikačné technológie
+IIM
+Internal Identity Management
+LDAP
+Lightweight Directory Access Protocol
+LL
+Liečivo
+LP
+Liek
+MSI
+Microsoft Installer
+NeeS
+Non-eCTD electronic Submission
+OCR
+Optical Character Recognition
+OS
+operačný systém
+PDF
+Portable Document Format
+SSO
+Single Sign-On
+ŠÚKL
+Štátny ústav pre kontrolu liečiv
+SW
+Softvér
+
+a)
+b)
+c)
+
+d)
+
+Normy a odkazy
+Za účelom bližšieho vymedzenia formátu eCTD a Nees sú nižšie uvedené odkazy na aktuálnu
+dokumentáciu (špecifikácie a usmernenia) vzťahujúcu sa alebo súvisiacu s týmito formátmi
+dokumentácie, s ktorou má obstarávaný aplikačný SW pracovať. Aplikačný SW musí spĺňať všetky
+požiadavky obsiahnuté alebo vyplývajúce z tejto dokumentácie.
+aktuálna špecifikácia k eCTD sa nachádza na:
+http://estri.ich.org/eCTD/eCTD_Specification_v3_2_2.pdf
+aktuálna špecifikácia k EU eCTD Modul 1 je dostupná na:
+http://esubmission.ema.europa.eu/eumodule1/index.htm
+Harmonizované technické usmernenie pre podanie dokumentácie vo formáte eCTD v EÚ sa nachádza
+na:
+http://esubmission.ema.europa.eu/tiges/docs/eCTD%20Guidance%20v3.0%20final%20Aug13.pdf
+Harmonizované technické usmernenie pre podanie dokumentácie vo formáte NeeS pre humánne
+medicinálne produkty v EÚ sa nachádza na:
+http://esubmission.ema.europa.eu/tiges/docs/NeeS%20eGuidance%20Document%20v4%200_final%20
+for%20publication%20Nov%202013.pdf
+Celkový opis, funkcionalita, špecifické požiadavky
+1. Aplikačný SW
+2. Požiadavky na nahrávací modul
+25
+
+3. Nahrávací modul umožní nahranie dokumentácie vo formáte eCTD a NeeS do internej databázy
+aplikačného SW. Nahrávanie je požadované z týchto zdrojov:
+a) Externé nosiče dát (cd/dvd/usb)
+b) Sieťové disky v prostredí ŠÚKL (súborový systém)
+c) Nahrávanie zo sieťových diskov musí byť možné automatizovať, aby nahrávací modul
+automaticky nahral do aplikačného SW nové sekvencie uložené na dedikovanom sieťovom disku
+(v príslušnom adresári). Konfigurácia a sprevádzkovanie automatického nahrávania žiadostí do
+internej databázy eCTD nástroja podľa požiadaviek v tejto kapitole sú súčasťou predmetu plnenia
+zákazky.
+Nahrávací modul musí vedieť prečítať názov adresára s dokumentáciou a podľa zadefinovanej masky
+(algoritmu) priradiť získanú hodnotu určenému atribútu v internej databáze metadát aplikačného SW.
+Tento reťazec získaný z názvu adresára musí byť ďalej schopný nahrávací modul pred priradením k
+atribútu aj automaticky upraviť podľa navrhnutého algoritmu (pozri príklad nižšie). Podľa hodnôt vyššie
+uvedeného atribútu musí byť možné následne vyhľadávať v čítačke. V adresári s dokumentáciou môžu
+byť aj iné adresáre a súbory ako je eCTD a NeeS dokumentácia, a preto musí byť nahrávací modul
+schopný automaticky rozpoznať a dohľadať príslušný podadresár s eCTD a NeeS dokumentáciou.
+Nahrávací modul nesmie načítavať duplicitne z predchádzajúcich sekvencií.
+Príklad:
+Na sieťovom disku (dedikovanom ako zdroj údajov pre aplikačný SW) bude adresár pomenovaný
+"201700010". Nahrávací modul v tomto adresári medzi ďalšími podadresármi a súbormi dohľadá všetky
+eCTD resp. NeeS sekvencie (napr. "0054" a "0055" ) a tieto nahrá do aplikačného SW. Samotná eCTD
+resp. NeeS sekvencia môže byť až vo štvrtej úrovni podadresára od koreňového adresára.
+Koniec príkladu
+Za účelom zachovania životného cyklu každého LP musí byť nahrávací modul schopný rozlíšiť jednotlivé
+sekvencie v žiadosti (v prípade viacerých sekvencií v jednej žiadosti).
+Pretože je možné pre jeden LP predkladať v čase viac žiadostí, je ďalšou požiadavkou na nahrávací modul
+zachovanie životného cyklu každého LP tak, aby mohol používateľ pomocou čítačky prehľadne vidieť
+vývoj (tj. zmeny) dokumentácie u daného LP v čase.
+Nahrávací modul musí byť schopný automaticky rozpoznať a evidovať v internej databáze
+metadát aplikačného SW minimálne nasledujúce atribúty:
+a) Identifikátor daného LP (Tracking number)
+b) Názov LP či LL (Invented name)
+c) Žiadateľa (Applicant)
+d) Evidenčné číslo
+e) Číslo procedúry
+Nahrávací modul musí tiež umožniť používateľovi ručnú zmenu automaticky vyplnených atribútov
+(vrátane zaznamenania tejto akcie do aplikačného logu) a zadaní iných identifikátorov, ktorých hodnoty
+musia byť zohľadnené pri vyhľadávaní v čítačke. Na tento účel musí byť možné v nahrávacom module
+prehľadne zobraziť novo nahrané sekvencie, ktoré ešte neprešli kontrolou užívateľom. Vytváranie
+nových identifikátorov vyplňovaných ručne užívateľmi musí byť v systéme umožnené pomocou
+26
+
+používateľského rozhrania bez nutnosti konfigurácie odborným pracovníkom poskytovateľa aplikačného
+SW a postup musí byť opísaný v užívateľskej dokumentácii (príručke) nahrávacieho modulu.
+Nahrávací modul musí umožniť vytváranie odkazov na celý dossier či sekvenciu tak, aby sa kliknutím
+na tento odkaz automaticky spustila čítačka a zobrazil príslušný dossier alebo sekvencie. Odkaz bude
+možné kopírovať do schránky za účelom manuálneho vloženia užívateľom do iných informačných
+systémov nadobúdateľa (ŠÚKL) a bude tiež možné priame odoslanie prepojenia emailom z čítačky na
+v systéme zadané emailové adresy (pomocou používateľského rozhrania aplikačného SW).
+Nahrávanie dát musí byť nepretržité a automatizované bez nutnosti akéhokoľvek zásahu používateľa.
+Nahranie sekvencie o veľkosti 100MB musí prebehnúť do 1 minúty, nahranie sekvencie o veľkosti 10MB
+musí prebehnúť do 10 sekúnd. Paralelne bude môcť nahrávať viac užívateľov (min. 7) nezávisle na sebe.
+Nahrávací modul musí mať zaistenú ochranu pred dvojitým nahraním rovnakej sekvencie viacerými
+užívateľmi, tj. každá sekvencia môže byť v aplikačnom nástroji uložená iba raz. Pokiaľ dôjde k
+opakovanému nahraniu rovnakej sekvencie k rovnakému LP, nahrávací modul užívateľa na túto
+skutočnosť upozorní a v prípade potvrdenia užívateľom nahradí skôr nahranú sekvenciu tou neskôr
+nahranou (upozornenia a nutnosť potvrdenia užívateľom musí byť možné v aplikačnom SW vypnúť
+pomocou GUI, napr. na účely automatizovaného nahrávania). Ručne vyplnené metadáta musia byť
+prevzaté zo staršej verzie do novej, pokiaľ nie sú užívateľom prepísané.
+Typický príklad predpokladaného a požadovaného postupu nahrávania dokumentácie do
+aplikačného SW:
+1. Zložka s eCTD resp. NeeS dokumentáciou bude umiestnená na sieťovom disku v ŠÚKL. Zložka
+bude pomenovaná tak, aby z nej bolo možné automatizovane extrahovať evidenčné číslo žiadostí
+(napr. " 201700010").
+2. Nahrávací modul načíta danú zložku, dohľadá v nej podadresár s eCTD resp. NeeS
+dokumentáciou a následne uloží jednotlivé sekvencie eCTD resp. NeeS dokumentácie v
+podadresároch podľa určenia užívateľa tak, aby bol zachovaný životný cyklus jednotlivých LP,
+na dedikované úložisko pre aplikačný SW (file system) a do internej databázy aplikačného SW
+uloží k jednotlivým sekvenciám požadované metadáta automatizovane získané zo žiadosti (napr.
+eu_regional.xml), vrátane evidenčného čísla žiadostí z názvu priečinka.
+3. Štandardne prebehne nahranie dokumentácie pomocou nahrávacieho modulu automaticky bez
+nutnosti zásahu užívateľa. V prípade potreby bude mať užívateľ možnosť v nahrávacom module
+následne doplniť ďalšie metadáta alebo zmeniť automaticky získané metadáta. Na tento účel musí
+byť možné v nahrávacom module prehľadne zobraziť sekvencie podľa dátumu ich nahrania s
+rozlíšením, či už daná sekvencia prešla kontrolou užívateľom.
+4. Pri nahrávaní bude zároveň automaticky vykonaná technická validácia žiadosti a report o
+výsledku technickej validácie bude uložený do dedikovaného úložiska aplikačného SW k
+príslušnej validovanej sekvencii.
+5. Po nahratí žiadosti vytvorí nahrávací modul jednoznačný link, ktorý umožní po jeho rozkliknutí
+otvoriť jednotlivý dossier či sekvencie priamo v čítačke. Tento link bude spolu s identifikáciou
+zložky (hodnotou atribútu "evidenčné číslo žiadostí") nahrávacím modulom automaticky
+odoslaný emailom na užívateľom určenú emailovú adresu (link bude po nahraní užívateľom
+27
+
+preposlaný emailom na vybraného adresáta alebo ručne vložený do iných informačných systémov
+ŠÚKL).
+6. Po nahraní všetkých sekvencií z príslušného adresára do dedikovaného úložiska aplikačného SW,
+nahrávací modul túto zložku zmaže zo sieťového disku (dokumentácia bude dostupná len cez
+aplikačný SW, súbory budú fyzicky uložené v úložisku aplikačného SW, kde budú prístupné len
+pre aplikačný SW).
+7. Možnosť kopírovania už nahratej sekvencie napr. k inému registračnému číslu Working
+Documents – systém by mal byť schopný uložiť aj tieto súbory ako súčasť sekvencie
+8. Nahrávanie eCTD a zároveň zachovanie a odlíšenie už nahratých sekvencií NeeS z dôvodu LCM
+9. V prípade nahratia chýbajúcej sekvencie (napr. 0002, keď už boli nahraté 0000, 0001, 0003)
+prepojenie všetkých sekvencii kvôli LCM
+10. Z dôvodu prehľadnosti možnosť uchovať v systéme dátum nahratia sekvencie a aj meno alebo IP
+adresu nahrávača
+11. Z dôvodu prehľadnosti možnosť štatistického výstupu a tým prehľadu o nahratých sekvenciách
+z pohľadu časového (denne, týždenne, mesačne, ročne), formátu (NeeS alebo eCTD),ako aj
+určitých dát z „envelope“ (podľa ATC, firmy, lieku)
+Požiadavky na technický validátor
+1. Súčasťou aplikačného SW musí byť aj modul (nástroj) pre technickú validáciu jednotlivých eCTD
+a NeeS sekvencií. Technická validácia musí prebiehať podľa aktuálne platných validačných
+kritérií, ktoré schvaľuje Európska lieková agentúra (European Medicines Agency) pre formát
+eCTD aj pre formát NeeS, pričom technický validátor musí byť schopný automaticky rozpoznať
+formát validovanej dokumentácie. Technický validátor musí tiež umožniť užívateľovi ručnú
+voľbu formátu validovanej dokumentácie.
+2. Ďalej musí technický validátor zabezpečiť automatickú aktualizáciu validačných kritérií tak, aby
+technická validácia k danému dňu bola vždy uskutočnená s využitím najnovších validačných
+kritérií schválených Európskou liekovou agentúrou (European Medicines Agency). Aktualizácia
+validačných kritérií musí byť možná bez nutnosti vykonania tejto činnosti poskytovateľom
+aplikačného SW, tj. automaticky, prípadne preškoleným užívateľom.
+3. Všetky historické verzie validačných kritérií musí byť systém (aplikačný SW) schopný uchovať
+tak, aby užívateľ mohol zvoliť pre technickú validáciu aj staršiu verziu validačných kritérií pre
+prípad potreby opätovné technickej validácie staršej dokumentácie.
+4. Technickú validáciu musí byť možné spustiť ručne užívateľom z čítačky. Technická validácia
+bude vykonaná aj automaticky počas nahrávania dokumentácie do úložiska (pozri požiadavky na
+nahrávací modul vyššie).
+5. Výsledok technickej validácie musí byť technickým validátorom zaznamenaný vo validačnom
+reporte s prehľadným rozlíšením zistených nedostatkov podľa závažnosti, minimálne v rozsahu
+kategórií error (chyba, kvôli ktorej nie je možné dokumentáciu akceptovať), warning (nedostatok,
+ktorý však neznamená odmietnutie žiadosti), best practise (odporúčanie pre odstránenie menších
+nedostatkov).
+6. Validačný report technickej validácie vytvorený pri nahrávaní dokumentácie do aplikačného SW,
+bude systémom (aplikačným SW) automaticky uložený k danej sekvencii do úložiska, vrátane
+dátumu vytvorenia. Systém (aplikačný SW) potom ďalej musí zabezpečiť možnosť zobrazenia
+validačného reportu ku každej sekvencii priamo v čítačke.
+28
+
+7. Po vygenerovaní validačného reportu technickej validácie systém (aplikačný SW) umožní tento
+report odoslať e-mailom prostredníctvom poštového klienta, tzn. v aplikácii bude umiestnená
+ikonka na odoslanie e-mailu.
+8. V prípade ručného prevedenia technickej validácie užívateľom je taktiež požadovaná možnosť
+odoslania validačného reportu e-mailom prostredníctvom poštového klienta, tzn. v aplikácii bude
+umiestnená ikonka na odoslanie e-mailu, automatické uloženie validačného reportu do úložiska k
+danej sekvencii, vrátane dátumu vytvorenia a možnosť zobrazenia validačného reportu ku každej
+sekvencii priamo v čítačke.
+Požiadavky na čítačku
+Súčasťou aplikačného SW musí byť i modul umožňujúci plnohodnotné prezeranie eCTD a NeeS
+dokumentácie, ktorý užívateľovi umožní využiť v maximálnej miere štandardizovanú štruktúru eCTD a
+NeeS dokumentácie (ďalej aj "čítačka"). Čítačka musí mať nasledujúce vlastnosti a funkcionality:
+Vzhľad užívateľského rozhrania
+V čítačke bude môcť užívateľ naraz zobraziť nasledujúce okná:
+1. Navigačné okno pre prechádzanie dokumentácie lieku (LP) alebo liečiva (LL) v stromovej
+štruktúre.
+2. V tomto okne bude zobrazená stromová štruktúra podľa databázy metadát aplikačného SW
+(štruktúra bude závisieť na režime zobrazenia). Základné režimy zobrazenia budú:
+a) Podľa názvu LP či LL (Invented name) - predvolený režim zobrazenia.
+b) V rámci tohto zobrazenia musí systém umožniť prepnúť medzi aktuálnym stavom dokumentácie
+daného LP či LL (current view) a komplexným pohľadom na daný LP či LL s výpisom všetkých
+dokumentov v nahraných žiadostiach daného LP či LL a vyznačením všetkých zmien v rámci
+doterajšieho životného cyklu LP či LL (cumulative view)
+c) Podľa kombinácie názvu LP či LL (Invented name) a žiadateľa (Applicant), primárne zoradené
+podľa názvu LP či LL
+d) V rámci tohto zobrazenia musí systém umožniť a prepnúť medzi aktuálnym stavom dokumentácie
+daného LP či LL (current view) a komplexným pohľadom na daný LP či LL s výpisom všetkých
+dokumentov v nahraných žiadostiach daného LP či LL a vyznačením všetkých zmien v rámci
+doterajšieho životného cyklu LP či LL (cumulative view)
+Podľa žiadostí
+Zobrazenie zoznamu žiadostí bez ohľadu na LP, ku ktorému daná žiadosť patrí. V rámci jednej žiadosti
+môže byť niekoľko sekvencií k rôznym LP predložených v niekoľkých vlnách.
+Podľa sekvencií
+Zobrazenie zoznamu sekvencií radených podľa dátumu a času nahrania do aplikačného SW bez ohľadu
+na žiadosť a LP, ku ktorému sekvencie patrí
+1. V navigačnom okne bude zrozumiteľná informácia o stave každého dokumentu v sekvencii voči
+predošlým sekvenciám v rámci životného cyklu LP, ak je taká sekvencia do aplikačného SW
+nahraná. Stavy sú požadované min. tieto:
+1.1 "replace" - dokument bol oproti predchádzajúcej sekvencii nahradený inou verziou dokumentu
+1.2 „delete“ - dokument bol v predošlej sekvencii, v aktuálnej sekvencii nie je prítomný
+29
+
+1.3 „append“ – to znamená, že existuje dokument v predošlej sekvencii, ku ktorému patrí tento nový
+dokument a s ktorým by mal byť spojený.
+1.4 "new" - dokument nebol v predošlej sekvencii, v aktuálnej sekvencii je prítomný
+Okno pre prezeranie PDF súborov
+1. Okno pre vloženie alebo čítanie poznámok k dokumentácii
+2. Okno pre vyhľadávanie (môže byť integrované v navigačnom okne pre prechádzanie
+dokumentácie)
+3. Vkladanie poznámok k dokumentácii
+4. Od čítačky je požadovaná možnosť vkladania poznámok na úrovni jednotlivých sekvencií a na
+úrovni jednotlivých dokumentov.
+U poznámok je požadovaná možnosť rozlíšenia súkromnej a verejnej poznámky. Súkromná poznámka
+bude zobrazená iba užívateľovi, ktorý poznámku vytvoril, a verejná poznámka bude automaticky
+zobrazená všetkým užívateľom prehliadajúcim danú sekvenciu či dokument.
+
+Vyhľadávanie
+Čítačka musí umožňovať vyhľadávanie na všetkých vytvorených úrovniach, t.j. až na úroveň
+jednotlivých dokumentov a ich obsahu (netýka sa multimediálneho obsahu - obrázky, videá, zvuk atď. a
+nečitateľných PDF (scan bez OCR)).
+Vyhľadávanie je požadované tak podľa hodnôt metadát uloženej dokumentácie, ako aj podľa obsahu
+vyhľadávaného reťazca v dokumentoch žiadosti (požiadavka na vyhľadávanie v obsahu dokumentov sa
+týka iba súborov vo formáte PDF (neplatí pre scan bez OCR), MS Word, MS Excel, XML), tzv.
+fulltextové vyhľadávanie, a to medzi dokumentáciou v rámci kompletného úložiska eCTD a NeeS
+dokumentácie (tj. všetka eCTD a NeeS dokumentácia ŠÚKL nahraná do systému pomocou nahrávacieho
+modulu a v rámci importu a integrácie existujúcich dátum podľa bodu 0 nižšie tohto opisu predmetu
+zákazky).
+Vyhľadávanie musí byť taktiež umožnené aj nad vloženými poznámkami, pričom do vyhľadávania
+nesmú byť zahrnuté súkromné poznámky, okrem súkromných poznámok užívateľa vykonávajúceho
+vyhľadávanie.
+Vyhľadávacie kritériá musí byť možné ľubovoľne kombinovať (napr. vyhľadávať podľa hodnôt u dvoch
+rôznych metadát a navyše podľa reťazcov v obsahu dokumentov).
+Iné špecifické požiadavky
+Prístupové práva
+Aplikačný SW musí obsahovať podporu Single Sign-On (SSO) s pomocou Kerberos protokolu LDAP
+servera. Autorizácia prístupu bude vykonávaná na základe overenia užívateľských práv v druhom LDAP
+serveri nadobúdateľa. Evidencia oprávnení a rolí v adresárovom serveri bude proprietárna, t.j. správa rolí
+bude realizovaná v uzamknutom systéme, do ktorého budú môcť zasahovať iba systémoví administrátori
+nadobúdateľa. Priradenie užívateľských rolí jednotlivým užívateľom musí byť možné realizovať
+30
+
+prostredníctvom aplikácie pre centrálnu správu identít nadobúdateľa - Internal Identity Management
+(ďalej len "IIM").
+Ak sa vyskytne chyba počas prihlasovania do aplikačného SW, bude možné prihlásenie bez podpory SSO
+pomocou doménového mena a hesla v systéme Windows Active Directory Domain Services (ADDS).
+V aplikačnom SW musí byť možné minimálne rozlíšiť užívateľské práva pre každú sekvenciu na:
+a) Prehliadanie dokumentov v sekvencii
+b) Editáciu metadát sekvencie
+c) Odstránenie sekvencie z aplikačného SW
+d) Pridelenie prístupových práv pre sekvenciu
+Vyššie uvedené prístupové práva budú pridelené jednotlivým používateľským rolám s možnosťou
+nastavenia východiskových hodnôt práv pri nahraní novej sekvencie (napr. právo na editáciu metadát
+sekvencie bude automaticky priradené úlohe "Nahrávač" a právo na prehliadanie dokumentov v sekvencii
+bude priradené rolám "Nahrávač", "Validátor" a "Hodnotiteľ"). Priradenie užívateľa k užívateľskej role
+bude realizované v aplikácii IIM.
+Ďalej musí byť možné v aplikačnom SW nastaviť užívateľské práva pre systémového administrátora,
+ktorý bude môcť mať minimálne nasledujúce užívateľské práva:
+Pridelenie prístupových práv na sekvenciu
+Prehliadanie aplikačných logov
+Správa a konfigurácia aplikačného SW
+Všetky vyššie zmienené akcie bude možné v aplikačnom SW logovať s uvedením užívateľa, ktorý danú
+akciu vykonal, dátumu a času vykonanie danej akcie a jednoznačnej identifikácie sekvencie, nad ktorou
+bola daná akcia vykonaná.
+1) Užívateľské rozhranie
+2) Užívateľské rozhranie celého aplikačného SW musí svojím vzhľadom zodpovedať vzhľadu
+používanému v operačných systémoch Windows verzie 7 a vyššie.
+Všetky popisy v užívateľskom rozhraní musia byť v slovenskom alebo v anglickom jazyku.
+Použiteľnosť a softvérové rozhranie
+Nadobúdateľ požaduje úložisko pomocných dát systému (internej databázy metadát aplikačného SW)
+realizovať na produkte MS SQL Server alebo SYBASE. Poskytovateľ musí využiť licenčné práva vo
+vlastníctve nadobúdateľa.
+1. Implementácia aplikačného SW v prostredí ŠÚKL
+2. Implementácia aplikačného SW v prostredí ŠÚKL zahŕňa časti uvedené v bodoch nižšie a
+prebehne v etapách realizácie bližšie popísaných v časti 0 nižšie tohto opisu predmetu zákazky.
+Import a integrácia existujúcich sekvencií vo formáte eCTD a NeeS
+Súčasťou predmetu zákazky je aj import a integrácia existujúcich sekvencií vo formáte eCTD a NeeS
+uložených v lokálnom dátovom úložisku ŠÚKL do aplikačného SW v prostredí ŠÚKL.
+
+31
+
+Lokálne dátové úložisko ŠÚKL obsahuje cca 100 000 sekvencií, pričom primárne dátové úložisko má
+jednotlivé sekvencie uložené podľa číselného radu a sekundárne úložisko má jednotlivé sekvencie
+uložené podľa evidenčného čísla žiadosti.
+Inštalácia, integrácia a konfigurácia
+Inštalácia, integrácia a konfigurácia aplikačného SW je požadovaná do testovacieho a produkčného
+prostredia. Konfigurácia aplikačného SW v oboch prostrediach musí byť identická.
+Predmetom dodávky je inštalácia, integrácia a konfigurácia všetkých komponentov potrebných k chodu
+systému (aplikačného SW), okrem inštalácie operačných systémov serverov nadobúdateľa a inštalácie
+databázového systému (nadobúdateľ využíva databázový systém MS SQL a SYBASE). Inštaláciu
+aplikácie na klientskych staniciach v prípade použitia ťažkého klienta zaistí nadobúdateľ v spolupráci s
+poskytovateľom. Poskytovateľ na tento účel poskytne nadobúdateľovi všetku potrebnú súčinnosť
+potrebnú na vytvorenie inštalačného balíčka MSI na klientske stanice s možnosťou inštalácie cez Group
+Policy. Klientske stanice využívajú OS Windows, k čomu musí byť klient prispôsobený.
+Školenia
+Súčasťou predmetu plnenia je vstupné zaškolenie užívateľov v mieste sídla nadobúdateľa alebo online
+dostupnými prostriedkami (skype, go-to-meetings a pod.) v slovenskom alebo anglickom jazyku.
+Školenie bude vecne rozdelené na použitie nahrávacieho modulu, technického validátora a čítačky,
+pričom sa požaduje:
+a) vo vzťahu k nahrávaciemu modulu: zaškolenie 2 pracovníkov nadobúdateľa
+b) vo vzťahu k technickému validátoru: zaškolenie 2 pracovníkov nadobúdateľa
+c) vo vzťahu k čítačke: zaškolenie 4 pracovníkov nadobúdateľa
+Ďalej sa požaduje zaškolenie 4 pracovníkov nadobúdateľa na zabezpečenie správy a prevádzky (t.j. ako
+systémových administrátorov) systému (aplikačného SW) online dostupnými prostriedkami (skype, goto-meetings a pod.) v slovenskom alebo anglickom jazyku.
+Technická dokumentácia a užívateľská dokumentácia (príručka)
+Poskytovateľ poskytne prehľadnú užívateľskú dokumentáciu aplikačného SW (príručku) v slovenskom
+aj anglickom jazyku. Užívateľská dokumentácia bude popisovať prácu s nahrávacím modulom,
+technickým validátorom aj čítačkou.
+Poskytovateľ poskytne nadobúdateľovi zrozumiteľnú technickú dokumentáciu obsahujúcu všetky
+informácie potrebné na správu a prevádzky systému (aplikačného SW) v prostredí nadobúdateľa.
+Technická dokumentácia musí byť v slovenskom aj anglickom jazyku.
+Poskytovanie služieb servisnej podpory, údržby a rozvoja aplikačného SW
+1. Poskytovanie technickej podpory a údržby k aplikačnému SW (ďalej len „maintenance“)
+2. Služby maintenance zahŕňajú okrem iného aj opravy chýb aplikačného SW, poskytnutie nových,
+vylepšených verzií aplikačného SW a tzv. patchov a aktualizáciu technických validačných kritérií
+eCTD a NeeS tak, aby technická validácia žiadostí mohla prebiehať podľa aktuálne platných
+validačných kritérií schválených Európskou liekovou agentúrou (European Medicines Agency).
+3. Vedenie helpdesku pre servisnú podporu prevádzky aplikačného SW
+32
+
+4. Služba bude poskytovaná nadobúdateľovi v režime 5x9, tj. v pracovné dni v dobe od 8:00 do
+17:00 hodín stredoeurópskeho času (CET).
+5. Odstraňovanie zistených alebo nahlásených závad a spoľahlivosť (dostupnosť)
+Poskytovateľ je povinný odstraňovať závady aplikačného SW a zaistiť jeho predpísanú dostupnosť, tak
+ako je špecifikované nižšie.
+a) Závady kritické (kategória A) znamenajú havarijnú situáciu t.j. nefunkčnosť aplikačného SW ako
+celku či výpadok časti aplikačného SW znemožňujúci jeho prevádzku. U týchto porúch sa
+poskytovateľ zaväzuje nastúpiť na odstránenie závady do 4 pracovných hodín od okamihu
+preukázateľného zistenia poruchy poskytovateľom, alebo od okamihu preukázateľného
+nahlásenia závady oprávnenou osobou nadobúdateľa písomne, prostredníctvom emailu či
+helpdeskovej aplikácie (podľa toho, ktorý z týchto dvoch okamihov nastane skôr). Poskytovateľ
+sa zaväzuje odstrániť takú závadu do 3 pracovných dní od nástupu na odstránenie závady.
+Pracovnými hodinami sa rozumejú hodiny v dobe od 8:00 do 17:00 hod stredoeurópskeho času
+(CET).
+b) Závadou strednej úrovne (kategória B) sa rozumie porucha znamenajúca nefunkčnosť časti
+aplikačného SW, ktorá nespadá pod kategóriu A, avšak ide o poruchu, ktorá funkčne významne
+obmedzuje používanie aplikačného SW na účely, na ktoré je určený. U týchto porúch sa
+poskytovateľ zaväzuje nastúpiť na odstránenie závady najneskôr nasledujúci pracovný deň od
+okamihu preukázateľného zistenia poruchy poskytovateľom, alebo od okamihu preukázateľného
+nahlásenia závady oprávnenou osobou nadobúdateľa písomne, prostredníctvom emailu či
+helpdeskovej aplikácie (podľa toho, ktorý z týchto dvoch okamihov nastane skôr). Poskytovateľ
+sa zaväzuje odstrániť takú závadu do 5 pracovných dní od nástupu na odstránenie závady.
+c) Závadou nízkej úrovne (kategória C) sa rozumie obmedzená funkčnosť aplikačného SW alebo
+správania sa aplikačného SW, ktorá nespadá pod kategóriu A alebo B. Pri týchto závadách sa
+poskytovateľ zaväzuje nastúpiť na odstránenie závady najneskôr do 2 pracovných dní od okamihu
+preukázateľného zistenia poruchy poskytovateľom, alebo od okamihu preukázateľného
+nahlásenia závady oprávnenou osobou nadobúdateľa písomne, prostredníctvom emailu či
+helpdeskovej aplikácie (podľa toho, ktorý z týchto dvoch okamihov nastane skôr). Poskytovateľ
+sa zaväzuje odstrániť takú závadu do 10 pracovných dní od nástupu na odstránenie závady.
+V prípade, že je závada nahlásená mimo časový rozsah služby helpdesk, potom doba nástupu na
+odstránenie závady začína plynúť až od najbližšieho začiatku tejto služby helpdesk.
+Poskytovateľ musí zabezpečiť mesačnú dostupnosť aplikačného SW na min. úrovni 95%.
+Dostupnosť aplikačného SW bude hodnotená v rámci každého kalendárneho mesiaca. Percentuálna
+mesačná dostupnosť aplikačného SW sa pre tento účel stanovuje takto:
+a) D_m = (T_ok-T_err) / T_ok * 100
+b) D_m je mesačná dostupnosť aplikačného SW v %,
+c) T_err je celkový doba nedostupnosti v hodinách za sledované obdobie (pričom sa ráta každá aj
+začatá hodina),
+d) T_ok je celkový počet hodín v sledovanom období.
+Sledovaným obdobím sa rozumie čas od 8h do 17h stredoeurópskeho času (CET) každého pracovného
+dňa daného kalendárneho mesiaca.
+33
+
+Aplikačný SW sa považuje za nedostupný v prípadoch, keď vykazuje akúkoľvek závadu kategórie
+a) alebo kategórie b).
+a) Dobou nedostupnosti sa rozumie čas od okamihu preukázateľného zistenia závady kategórie
+A alebo B poskytovateľom, alebo od okamihu preukázateľného nahlásenia závady kategórie
+A alebo B oprávnenou osobou nadobúdateľa (podľa toho, ktorý z týchto dvoch okamihov nastane
+skôr) do odstránenia nedostupnosti.
+b) Do doby nedostupnosti sa nezapočítava nedostupnosť aplikačného SW spôsobená závadou, ktorá
+preukázateľne nesúvisí s aplikačným SW (napr. porucha na hardvéri, sieťovej infraštruktúre,
+operačnom systéme) alebo doba obnovy v rámci sledovaného obdobia (pričom dobou obnovy sa
+rozumie doba od nastúpenia poskytovateľa na odstránenie závady kategórie a) až do odstránenia
+závady kategórie a) (nie však viac ako doba 3 pracovných dní) a doba od nastúpenia
+poskytovateľa na odstránenie závady kategórie b) až do odstránenia závady kategórie b) (nie však
+viac ako doba 5 pracovných dní)).
+c) Ďalej sa do doby nedostupnosti nezapočítava čas závady kategórie a) alebo b) spôsobenej
+udalosťami, ktoré nastali nezávisle na vôli poskytovateľa a bránia mu v splnení jeho povinností,
+ak nemožno rozumne predpokladať, že by poskytovateľ túto prekážku alebo jej následky odvrátil
+alebo prekonal a ďalej, že by v čase vzniku záväzku túto prekážku predvídal. Do doby
+nedostupnosti sa nezapočítava čas potrebný na vykonanie plánovaných údržbových prác
+poskytovateľa. Rovnako tak sa do tejto doby nezapočítava doba, po ktorú je zamestnancom
+poskytovateľa nadobúdateľom (príp. jeho subdodávateľom) znemožnený prístup k aplikačnému
+SW za účelom opravy závady kategórie a) alebo b).
+d) Služby spočívajúce v úprave aplikačného SW, poskytovaní konzultácií špecialistami
+poskytovateľa týkajúcich sa používania aplikačného SW a realizácii preškolenia nových
+užívateľov v rámci ŠÚKL
+e) Dodávateľ poskytne tieto služby v rozsahu 350 vyfakturovaných hodín ročne (t.j. spolu
+vyfakturovaných 1 050 hodín za celé 3-ročné obdobie trvania Zmluvy o poskytovaní služieb
+(Príloha č. __k týmto súťažným podkladom) na základe dielčích objednávok nadobúdateľa.
+Nadobúdateľ nebude povinný objednať si tieto služby.
+Úpravou aplikačného SW sa rozumie predovšetkým (nie však výlučne) úprava individuálnej
+konfigurácie aplikačného SW a analýza a vývoj nových funkcionalít aplikačného SW.
+Etapy realizácie predmetu zákazky (dodávky a implementácie aplikačného SW)
+Dodávka a implementácia aplikačného SW bude rozdelená na 3 nižšie popísané etapy, ktoré budú
+jednotlivo nadobúdateľom akceptované.
+1. Prvá etapa (resp. dokumentácia, ktorá jej jej výsledkom) bude poskytovateľom odovzdaná k
+akceptácii nadobúdateľovi maximálne do 3 týždňov od účinnosti Zmluvy o dodaní
+a implementácii aplikačného softvéru a Licenčnej zmluvy (Príloha č. 1 časti „C. OBCHODNÉ
+PODMIENKY USKUTOČNENIA PREDMETU ZÁKAZKY“ týchto súťažných podkladov). V
+chyrámci prvej etapy zabezpečí poskytovateľ kompletné podklady potrebné pre implementáciu
+aplikačného SW do prostredia ŠÚKL, t.j. dokumentáciu v slovenskom alebo anglickom jazyku,
+ktorá bude obsahovať nasledujúce dokumenty:
+a) Detailný časový harmonogram realizácie implementácie aplikačného SW, ktorý nesmie byť
+v rozpore s etapami realizácie predmetu zákazky podľa tohto bodu 3 opisu predmetu zákazky
+34
+
+b) Dokument obsahujúci zmapovanie existujúceho prostredia ŠÚKL a detailný opis spôsobu
+postupu realizácie implementácie aplikačného SW do prostredia ŠÚKL, ktorý nesmie byť v
+rozpore s týmto opisom predmetu zákazky (vrátane všetkých požiadaviek na aplikačný SW).
+Dokumentácia bude podliehať akceptácii nadobúdateľom.
+2. Druhá etapa bude poskytovateľom odovzdaná k akceptácii nadobúdateľovi do 3 týždňov od
+akceptácie prvej etapy a bude zahŕňať nižšie vymenované činnosti:
+a) Inštalácia, integrácia a konfigurácia aplikačného SW do testovacieho prostredia nadobúdateľa
+b) Import a integrácia existujúcich sekvencií vo formáte eCTD a NeeS uložených v lokálnom
+dátovom úložisku ŠÚKL do aplikačného SW v prostredí ŠÚKL
+c) Realizácia komunikácie medzi aplikačným SW a počítačovými aplikáciami používanými v rámci
+ŠÚKL (napr. aplikácie MS SQL, MS Office používané v ŠÚKL) v testovacom prostredí
+d) Testovanie aplikačného SW v testovacom prostredí (funkčná, integračné, výkonnostné)
+s úspešným výsledkom, keď pre účely testovania navrhne poskytovateľ vhodné scenáre
+jednotlivých testov, ktoré budú predložené nadobúdateľovi vopred na posúdenie a schválenie
+e) Realizácia správy rolí v aplikácii prostredníctvom IIM v testovacom prostredí
+f) Dodanie užívateľskej dokumentácie (príručky) a technickej dokumentácie k inštalovanému
+aplikačnému SW
+g) Školenie pracovníkov (presne časové rozvrhnutie určuje nadobúdateľ)
+3. Záverečná etapa bude poskytovateľom odovzdaná k akceptácii nadobúdateľovi do 3 týždňov od
+akceptácie druhej etapy a bude zahŕňať nižšie vymenované činnosti zo strany poskytovateľa:
+a) Inštaláciu, integráciu a konfiguráciu aplikačného SW do prevádzkového (produkčného)
+prostredia ŠÚKL
+b) Realizáciu komunikácie medzi aplikačným SW a počítačovými aplikáciami používanými v rámci
+ŠÚKL (napr. aplikácie MS SQL, MS Office používané v ŠÚKL) v produkčnom prostredí
+c) Skúšobnú prevádzku v trvaní 14 pracovných dní, počas ktorej nadobúdateľom vybraní užívatelia
+začnú používať všetky moduly aplikačného SW, aby otestovali funkčnosť celého aplikačného SW
+a jeho súčasti.
+d) Počas skúšobnej prevádzky nesmie byť dostupnosť aplikačného SW nižšia ako 99%.
+Dostupnosťou aplikačného SW sa rozumie ničím neobmedzená a úplná dostupnosť celého
+aplikačného SW a všetkých jeho funkcionalít zároveň. Dostupnosť aplikačného SW sa vypočíta
+podľa vzorca:
+D_t = (T_ok-T_err) / T_ok * 100
+D_t je dostupnosť aplikačného SW v % počas skúšobnej prevádzky,
+T_err je celkový čas nedostupnosti v hodinách počas obdobia skúšobnej prevádzky (pričom sa ráta
+každá aj začatá hodina),
+T_ok je celkový počet hodín v období skúšobnej prevádzky.
+Obdobím skúšobnej prevádzky sa rozumie čas od 8h do 17h stredoeurópskeho času (CET) každého
+pracovného dňa skúšobnej prevádzky (v celkovom trvaní 14 pracovných dní).
+Realizáciu správy rolí v aplikácii prostredníctvom IIM v produkčnom prostredí zo strany poskytovateľa.
+
+35
+
+Príloha č. 2 k Zmluve o dodaní a implementácii softvéru a Licenčnej zmluve
+Zoznam subdodávateľov
+
+P.č.
+
+Subdodávateľ
+(obchodné meno / názov,
+sídlo / miesto podnikania /
+obvyklý pobyt, identifikačné
+číslo)
+
+Osoba oprávnená konať za Predmet subdodávky
+subdodávateľa
+(meno, priezvisko, adresa
+pobytu, dátum narodenia)
+
+1.
+2.
+3.
+[V prípade potreby uchádzač doplní potrebný počet riadkov]
+
+36
+
+Príloha č. 3 k Zmluve o dodaní a implementácii aplikačného softvéru a Licenčnej zmluve
+
+ŽIADOSŤ O PRÍSTUP K INFORMAČNÝM SYSTÉMOM / SERVEROM ŠTÁTNÉHO
+ÚSTAVU PRE KONTROLU LIEČIV
+
+Obchodné meno / názov:
+
+[_______________]
+
+IČO:
+
+[_______________]
+
+Sídlo / miesto podnikania:
+
+[_______________]
+
+Registrácia:
+
+[označenie registra alebo inej evidencie, číslo registrácie]
+
+Zastúpený:
+
+[meno a priezvisko, funkcia ]
+
+(ďalej len „Žiadateľ“)
+Vyššie uvedený Žiadateľ týmto žiada o pridelenie prístupu k nasledovným informačným systémom /
+serverom Štátneho ústavu pre kontrolu liečiv, Kvetná 11, Bratislava 825 08, Slovenská republika:
+P.č.
+
+Názov informačného systému / servera resp. jeho časti
+
+IP adresa
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+pre nasledovné osoby:
+P.č.
+
+Meno a priezvisko
+
+Postavenie
+(napr.
+zamestnanec
+Žiadateľa,
+zamestnanec
+konkrétneho subdodávateľa
+Žiadateľa)
+
+1.
+2.
+3.
+37
+
+Konkrétny dôvod prístupu
+
+4.
+5.
+6.
+7.
+za účelom plnenia Zmluvy o dodaní a implementácii aplikačného softvéru a Licenčnej zmluvy
+uzatvorenej dňa [dátum] medzi Žiadateľom ako Poskytovateľom a Štátnym ústavom pre kontrolu liečiv
+ako Nadobúdateľom týkajúcej sa aplikačného softvéru pre prácu s dokumentáciou vo formáte eCTD
+a NeeS (ďalej len „Zmluva“).
+
+Svojím podpisom nižšie zároveň Žiadateľ potvrdzuje, že bude dodržiavať a zabezpečí dodržiavanie
+všetkých povinností uvedených v Zmluve súvisiacich s prístupom k informačným systémom / serverom
+Štátneho ústavu pre kontrolu liečiv.
+
+V [miesto podpisu], dňa [dátum]
+
+____________________________________
+[obchodné meno / názov Žiadateľa]
+[meno, priezvisko a funkcia oprávneného zástupcu Žiadateľa]
+
+38
+
+Príloha č. 4 k Zmluve o dodaní a implementácii aplikačného softvéru a Licenčnej zmluve
+
+ŽIADOSŤ O UKONČENIE PRÍSTUPU K INFORMAČNÝM SYSTÉMOM / SERVEROM
+ŠTÁTNÉHO ÚSTAVU PRE KONTROLU LIEČIV
+
+Obchodné meno / názov:
+
+[_______________]
+
+IČO:
+
+[_______________]
+
+Sídlo / miesto podnikania:
+
+[_______________]
+
+Registrácia:
+
+[označenie registra alebo inej evidencie, číslo registrácie]
+
+Zastúpený:
+
+[meno a priezvisko, funkcia ]
+
+(ďalej len „Žiadateľ“)
+
+Vyššie uvedený Žiadateľ týmto žiada o ukončenie prístupu k nasledovným informačným systémom /
+serverom Štátneho ústavu pre kontrolu liečiv, Kvetná 11, Bratislava 825 08, Slovenská republika:
+
+P.č.
+
+Názov informačného systému / servera resp. jeho časti
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+pre nasledovné osoby:
+
+39
+
+IP adresa
+
+P.č. Meno a priezvisko
+
+Postavenie
+(napr.
+zamestnanec
+Žiadateľa,
+zamestnanec
+konkrétneho subdodávateľa
+Žiadateľa)
+
+Konkrétny
+dôvod
+ukončenia prístupu
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+ktorý im bol udelený zo strany Štátneho úradu pre kontrolu liečiv za účelom plnenia Zmluvy o dodaní
+a implementácii aplikačného softvéru a Licenčnej zmluvy uzatvorenej dňa [dátum] medzi Žiadateľom
+ako Poskytovateľom a Štátnym ústavom pre kontrolu liečiv ako Nadobúdateľom týkajúcej sa aplikačného
+softvéru pre prácu s dokumentáciou vo formáte eCTD a NeeS (ďalej len „Zmluva“).
+Svojím podpisom nižšie zároveň Žiadateľ potvrdzuje, že bude dodržiavať a zabezpečí dodržiavanie
+všetkých povinností uvedených v Zmluve súvisiacich s prístupom k informačným systémom / serverom
+Štátneho ústavu pre kontrolu liečiv.
+
+V [miesto podpisu], dňa [dátum]
+
+____________________________________
+[obchodné meno / názov Žiadateľa]
+[meno, priezvisko a funkcia oprávneného zástupcu Žiadateľa]
+
+40
+
+Príloha č. 5 k Zmluve o dodaní a implementácii aplikačného softvéru a Licenčnej zmluve
+
+ŽIADOSŤ O POVOLENIE PRÍSTUPU DO BUDOVY ŠTÁTNEHO ÚSTAVU PRE
+KONTROLU LIEČIV
+
+Obchodné meno / názov:
+
+[_______________]
+
+IČO:
+
+[_______________]
+
+Sídlo / miesto podnikania:
+
+[_______________]
+
+Registrácia:
+
+[označenie registra alebo inej evidencie, číslo registrácie]
+
+Zastúpený:
+
+[meno a priezvisko, funkcia ]
+
+(ďalej len „Žiadateľ“)
+
+Vyššie uvedený Žiadateľ týmto žiada o povolenie prístupu do budovy Štátneho ústavu pre kontrolu liečiv
+nachádzajúcej sa na adrese Kvetná 11, Bratislava 825 08, Slovenská republika pre nasledovné osoby:
+
+P.č.
+
+Meno a priezvisko
+
+Postavenie
+(napr.
+zamestnanec
+Žiadateľa,
+zamestnanec
+konkrétneho subdodávateľa
+Žiadateľa)
+
+Dátum
+a čas Konkrétny dôvod
+prístupu
+požadovaného
+prístupu
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+za účelom plnenia Zmluvy o dodaní a implementácii aplikačného softvéru a Licenčnej zmluvy
+uzatvorenej dňa [dátum] medzi Žiadateľom ako Poskytovateľom a Štátnym ústavom pre kontrolu liečiv
+
+41
+
+ako Nadobúdateľom týkajúcej sa aplikačného softvéru pre prácu s dokumentáciou vo formáte eCTD
+a NeeS (ďalej len „Zmluva“).
+Svojím podpisom nižšie zároveň Žiadateľ potvrdzuje, že bude dodržiavať a zabezpečí dodržiavanie
+všetkých povinností uvedených v Zmluve súvisiacich s prístupom do budovy Štátneho ústavu pre
+kontrolu liečiv.
+
+V [miesto podpisu], dňa [dátum]
+
+____________________________________
+[obchodné meno / názov Žiadateľa]
+[meno, priezvisko a funkcia oprávneného zástupcu Žiadateľa]
+
+42
+
+

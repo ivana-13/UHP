@@ -1,0 +1,818 @@
+Technicko – organizačné zabezpečenie systému a Aplikácie
+eDocu
+v zmysle Zákona č. 18/2018 Z.z. o ochrane osobných údajov a o zmene a doplnení niektorých
+zákonov a Nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických
+osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov
+Identifikácia spoločnosti:
+
+Obchodné meno:
+
+eDocu, a.s.
+
+Sídlo:
+
+Sliačska 1/D, 831 02 Bratislava – Nové Mesto
+
+IČO:
+
+47 127 643
+
+IČ DPH:
+
+SK2023784917
+
+Konajúci:
+
+Ing. Miroslav Hájek, predseda predstavenstva
+
+Kontaktná osoba
+
+Mgr. Pavol Krajči – pavol.krajci@edocu.com, +421 907 409 793
+
+Zápis v:
+
+OR OS Bratislava I, oddiel Sa, vložka č. 6069/B
+
+ďalej len „spoločnosť“ alebo „eDocu“
+
+1 Predhovor
+1.1
+
+Spoločnosť eDocu, a.s. ako výhradný vlastník systému a softvérového riešenia eDocu,
+ako aj súvisiacej aplikácie a ďalších systémov nadväzujúcich, spolupracujúcich alebo
+kooperujúcich so systémom eDocu (ako napr. Medineto, Konferenčný systém eDocu,
+Digitálny stavebný denník, Digitálna stavba), týmto deklaruje svoju pripravenosť na
+legislatívne zmeny prijaté na úrovni Európskej únie známe aj ako Nariadenie
+Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických
+osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov (ďalej len
+„GDPR“) reflektované v zákonnej úprave Slovenskej republiky ako Zákon č. 18/2018
+Z.z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov (ďalej len
+„ZOOÚ“) s účinnosťou od 25. mája 2018, v rozsahu a spôsobom popísaným v tomto
+dokumente – technicko-organizačnom zabezpečení systému a aplikácie eDocu (ďalej
+len „Dokument“).
+
+1.2
+
+GDPR je míľnikom európskej legislatívy. Svojou pôsobnosťou zasahuje do činnosti
+každej entity ktorá drží, spracúva alebo sprostredkúva systém spracovania osobných
+údajov či akoukoľvek inou formou prichádza do kontaktu s osobnými údajmi
+európskych občanov v rámci Európskej únie, Európskeho hospodárskeho priestoru, ale
+aj mimo nich v tretích krajinách.
+
+1.3
+
+GDPR vedie k zvýšeniu požiadaviek na dodržiavanie predpisov, ktoré sú podporované
+rozsiahlymi finančnými sankciami (až 4% ročného celkového obratu pre skupiny
+spoločností) a priamym nárokom občanov na národné ako aj európske súdy. Obsahuje
+aj inovácie, ako napríklad "Ochrana súkromia podľa dizajnu", "Zodpovednosť" a
+"Prenosnosť údajov" a mení právne parametre súhlasu.
+
+1.4
+
+Hlavné požiadavky GDPR sú (1) vrátiť späť kontrolu nad svojimi osobnými údajmi a
+(2) zlepšiť ochranu osobných údajov na strane subjektu – dotknutej (fyzickej) osoby.
+eDocu sa v rámci tohto Dokumentu snaží o detailné premietnutie legislatívnych
+požiadaviek do pochopenia zmyslu a účelu GDRP, rizikových problémov súvisiacich
+s novým zákonom a vybudovaniu vhodnej, bezpečnej a stabilnej štruktúry na
+dosiahnutie súladu reálneho stavu prevádzkovania systémov a aplikácie so stavom
+vyžadovaným nariadením a ZOOÚ.
+
+2 Základné informácie o pojmoch a podmienkach ochrany
+a spracúvaní osobných údajov fyzických osôb
+2.1
+
+Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane
+fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov sa
+zrušuje smernica 95/46/ES (GDPR).
+
+2.2
+
+Nariadenie je priamo aplikovateľné a každá fyzická osoba, dotknutá na svojich právach
+a právom chránených záujmoch alebo ktorá sa domnieva, že jej práva a právom
+chránené záujmy vyplývajúce z GDPR boli porušené sa môže dovolávať jeho znenia
+pred súdmi ktoréhokoľvek členského štátu a súdmi EÚ bez ohľadu na národnú
+legislatívu, ktorá nesmie byť v rozpore s GDPR.
+
+2.3
+
+Z hľadiska osobnej pôsobnosti sa GDPR vzťahuje výlučne na žijúce fyzické osoby
+a len na spracúvanie osobných údajov.
+
+2.4
+
+GDPR sa nevzťahuje na nežijúce fyzické osoby vrátane osôb, ktoré boli vyhlásené za
+mŕtve, na právnické osoby alebo na fyzické osoby podnikateľov – samostatne
+zárobkovo činné osoby (živnostníkov) pri výkone ich podnikateľskej činnosti (živnosti).
+
+2.5
+
+Osobné údaje sú údaje týkajúce sa identifikovanej (určenej) alebo identifikovateľnej
+(určiteľnej) fyzickej osoby, pričom osobu možno identifikovať priamo alebo nepriamo,
+najmä, ale nielen, na základe všeobecne použiteľného identifikátora alebo iného
+identifikátora, ako je meno, identifikačné číslo, lokalizačné údaje, online identifikátor
+na základe jednej či viacerých charakteristík alebo znakov, ktoré tvoria jej fyzickú,
+fyziologickú, genetickú, psychickú, mentálnu, ekonomickú, kultúrnu alebo sociálnu
+identitu. Ide o akýkoľvek údaj týkajúci sa konkrétnej osoby. Tak isto ide
+o charakteristické črty spôsobilé svojimi vlastnosťami určiť osobu, ktorej sa údaj
+dotýka.
+
+2.6
+
+Osobné údaje môžu byť k dispozícii v akejkoľvek forme, a to vrátane grafickej,
+fotografickej, zvukovej, papierovej, digitálnej podobe ako aj v pamäti počítača alebo
+cloudového programu.
+
+2.7
+
+Vlastnosť údaju ako osobného (či je možné považovať údaj za osobný) sa posudzuje na
+individuálnej báze na základe dostupných údajov, ktoré možno ku konkrétnej fyzickej
+osobe priradiť.
+
+2.8
+
+Osobné údaje o fyzických osobách je možné spracovávať len na základe jednotlivých
+zákonných dôvodov založených na súhlase so spracovaním osobných údajov,
+vyplývajúcich zo zákonov, právneho poriadku alebo zmluvy, zákonnej povinnosti
+spracúvať osobné údaje, nevyhnutnosti ochrany života, zdravia alebo majetku dotknutej
+osoby alebo inej fyzickej osoby, nevyhnutnosti plnenia úlohy realizovanej vo verejnom
+záujme alebo pri výkone verejnej moci zverenej prevádzkovateľov či nevyhnutnosti
+dosiahnutia účelu oprávnených záujmov prevádzkovateľa alebo tretej strany okrem
+prípadov, keď nad týmito záujmami prevažujú záujmy alebo práva dotknutej osoby
+vyžadujúce si ochranu osobných údajov, najmä ak je dotknutou osobou dieťa.
+
+2.9
+
+Spoločnosť eDocu, a.s. je vlastníkom systému a Aplikácie a v rámci svojich činností
+dodržuje zásady tvorby, správy a riadenia systému a Aplikácie. Spoločnosť eDocu, a.s.
+je zároveň sprostredkovateľom, ktorý spracúva osobné údaje v mene prevádzkovateľa,
+ktorý je zároveň užívateľom Aplikácie a systému vyvinutého spoločnosťou eDocu do
+ktorého majú prístup aj koneční užívatelia, spravidla zamestnanci alebo kontrahované
+osoby prevádzkovateľa (užívateľa) na platforme spoločnosti. Prístup spoločnosti eDocu
+k údajom konečných užívateľov je obmedzený a založený na zmluvnom poverení
+
+prevádzkovateľa pre spoločnosť, ktorá vystupuje ako sprostredkovateľ a je obmedzený
+na nevyhnutné údaje, spĺňajúc zásady zákonnosti, nevyhnutnosti, spravodlivosti
+a transparentnosti, minimalizácie spracúvaných údajov, účelnosti, limitácie rozsahu
+a času uchovávania dát, integrity a dôvernosti v rozsahu uvedenom v tomto Dokumente.
+2.10 Spoločnosť eDocu je oprávnená vykonávať akékoľvek a všetky spracovateľské
+operácie, ktoré sú nevyhnutné na plnenie jej povinností podľa právneho poriadku
+Slovenskej republiky, Európskej únie, medzinárodných zmlúv ale vyplývajúcich aj zo
+zmlúv medzi spoločnosťou a jej obchodnými partnermi. V prípade, že spoločnosť je
+sprostredkovateľom v zmysle ZOOÚ a má uzavretý obchodnoprávny alebo obdobný
+právny vzťah s prevádzkovateľom (obchodným partnerom), je oprávnená spracovávať
+len také informácie, na ktoré od prevádzkovateľa výslovne získa povolenie a vždy len
+v súlade s pokynmi prevádzkovateľa a to vrátane získavania, zhromažďovania, šírenia,
+zaznamenávania, usporadúvania, prepracúvania alebo zmeny, vyhľadávania,
+prehliadania, preskupovania, kombinovania, premiestňovania, využívania, uchovávania,
+blokovania, likvidácie, poskytovania, sprístupňovania alebo zverejňovania.
+Spracovateľské operácie likvidácie a poskytovania osobných údajov sprostredkovateľ
+vždy vopred prekonzultuje s prevádzkovateľom a vyžiada si súhlas.
+2.11 V prípade, že eDocu je sprostredkovateľom v zmysle ZOOÚ, vybavovanie žiadostí
+alebo sťažností dotknutých osôb vybavuje len po písomnom splnomocnení
+prevádzkovateľom, inak toto oprávnenie ostáva vo výlučnej kapacite prevádzkovateľa.
+2.12 V prípade, že dotknutá osoba vznesie sťažnosť alebo žiadosť priamo
+sprostredkovateľovi, spoločnosť eDocu bez zbytočného odkladu informuje
+prevádzkovateľa o akýchkoľvek a všetkých sťažnostiach v súvislosti so spracúvaním
+osobných údajov do dvoch dní a zároveň sa zaväzuje prevádzkovateľovi poskytnúť
+všetku súčinnosť pri vybavovaní sťažností.
+2.13 Medzi základné práva fyzických osôb pri spracúvaní ich údajov patrí najmä: právo
+prístupu k spracúvaným údajom, právo na korekciu a doplnenie osobných údajov, právo
+na obmedzenie spracúvania osobných údajov, právo na výmaz spracovávaných
+osobných údajov, právo na presnosť údajov, na možnosť namietať a podať sťažnosť ako
+aj právo na bezplatný prenos údajov za určitých podmienok tretej strane a bezplatne.
+2.14 Fyzické osoby, ktorých údaje sa spracovávajú majú zároveň právo byť informované o:
+2.14.1.
+
+Množstve,
+akosti
+a komplexných
+a spracovávaných dátach o nich;
+
+2.14.2.
+
+Dôvode spracovávania;
+
+2.14.3.
+
+Zákonnom účele spracovávania;
+
+2.14.4.
+
+Právnom základe spracúvania;
+
+2.14.5.
+
+Kategórii spracúvaných dát;
+
+2.14.6.
+
+Dĺžke uchovávania a frekvencií výmazov dát;
+
+2.14.7.
+
+Postupe údajov tretím stranám alebo tretím krajinám;
+
+2.14.8.
+
+Svojich právach a povinnostiach vyplývajúcich zo Zákona;
+
+2.14.9.
+
+Práve vziať súhlas so spracovávaním osobných údajov späť;
+
+2.14.10.
+
+informáciách
+
+o uchovávaných
+
+Práve podať sťažnosť resp. návrh na začatie konania zodpovednému orgánu
+za ochranu osobných údajov;
+
+2.14.11.
+
+Existencii automatizovaného individuálneho rozhodovania.
+
+2.15 Spoločnosť eDocu poskytuje ako sprostredkovateľ plnú súčinnosť prevádzkovateľovi
+v prípade akejkoľvek kontroly zo strany štátnych orgánov alebo v prípade súdneho
+sporu, ktoré sa týkajú ochrany osobných údajov spracúvaných prevádzkovateľom, a
+zároveň za týmto účelom poskytuje prevádzkovateľovi akékoľvek súvisiace informácie,
+podklady a dokumenty. V prípade, že je eDocu prevádzkovateľom v zmysle ZOOU,
+poskytuje všetku súčinnosť v zmysle predchádzajúcej vety taktiež.
+
+3 Charakteristika sprostredkovateľa
+3.1
+
+Spoločnosť eDocu je obchodná spoločnosť so sídlom na Sliačskej ulici č. 1/D, 831 02
+Bratislava, Slovenská republika, IČO 47 127 643, zapísaná v Obchodnom registri
+Okresného súdu Bratislava I, odd. Sa, vl.č. : 6069/B.
+
+3.2
+
+Spoločnosť eDocu je držiteľom všetkých a akýchkoľvek vlastníckych a autorských práv
+k systému eDocu (ďalej len „systém“) resp. Aplikácii eDocu (ďalej len „Aplikácia“)
+pracujúcej v on-line a cloudovom prostredí, ktorá za podmienok stanovených vo
+Všeobecných podmienkach jej používania (ďalej len „VP“) umožňuje nakladať s
+vloženým obsahom. Aplikáciu je možné používať iba v súlade so záväznými právnymi
+predpismi a podmienkami uvedenými v tomto Dokumente a vo VP a v ďalších
+dokumentoch, na ktoré VP odkazujú alebo sú obsiahnuté v zmluvách medzi eDocu
+a obchodným partnerom.
+
+3.3
+
+Obsahom sú akékoľvek a všetky súbory, dáta a údaje a pod., ktoré užívateľ vloží do
+Aplikácie (ďalej len „Obsah“). Nakladanie s Obsahom je vykonávanie operácií s
+Obsahom v rozsahu a spôsobom predpokladaným a umožneným Aplikáciou a jej
+funkcionalitami, najmä nahrávanie, prezeranie, kopírovanie, sťahovanie a zdieľanie
+obsahu.
+
+3.4
+
+Spoločnosť eDocu poskytuje svojim obchodným partnerom a/alebo spolupracujúcim
+subjektom a/alebo tretím stranám spravidla nevýhradné licencie na používanie
+Aplikácie a to spravidla za odmenu založenú na obchodno-právnom vzťahu zväčša
+územím neobmedzenú a časovo obmedzenú na dĺžku trvania majetkových práv. Presné
+dojednania sú vecou zmluvného vzťahu medzi jednotlivými entitami.
+
+3.5
+
+Licencia je udeľovaná na používanie Aplikácie v súlade s jej určením a s podmienkami
+uvedenými vo VP a v návode na používanie Aplikácie (ďalej len „Návod“). Akýkoľvek
+a každý používateľ nie je oprávnený akokoľvek zasahovať do Aplikácie alebo ju meniť
+(vrátane spätného prekladu alebo dekompilácie Aplikácie), s výnimkou úprav, ktoré v
+zmysle donucujúcich ustanovení právnych predpisov nemožno vylúčiť. Porušenie tejto
+povinnosti sa považuje za podstatné porušenie zmluvných záväzkov medzi eDocu
+a stranou, ktorá takúto akciu vykonala resp. je za uvedený úkon zodpovedná. eDocu
+v takomto prípade nezodpovedá za akékoľvek a všetky straty, úpravy, zničenie, výmaz
+alebo akékoľvek ďalšie poškodenie údajov a to vrátane osobných údajov
+nachádzajúcich sa v čase zásahu v Aplikácii alebo systéme.
+
+3.6
+
+Ustanovenie bodu 3.5 nezabavuje povinnosť spoločnosti eDocu nahlásiť takýto incident
+zodpovednému orgánu – Úradu na ochranu osobných údajov Slovenskej republiky
+do 72 hodín od porušenia ochrany osobných údajov v prípade, ak je spoločnosť eDocu,
+a.s. prevádzkovateľom v zmysle ZOOÚ alebo bezodkladne v prípade, ak je v zmysle
+ZOOÚ sprostredkovateľom a to kontaktnej osobe prevádzkovateľa, s ktorým má
+spoločnosť eDocu, a.s. obchodnoprávny alebo obdobný vzťah.
+
+3.7
+
+Oznámenie podľa bodu 3.6 musí obsahovať v zmysle §40 ods. 4 ZOOÚ:
+3.7.1. opis povahy porušenia ochrany osobných údajov vrátane, ak je to možné,
+kategórií a približného počtu dotknutých osôb, ktorých sa porušenie týka, a
+kategórií a približného počtu dotknutých záznamov o osobných údajoch;
+3.7.2. kontaktné údaje zodpovednej osoby alebo iného kontaktného miesta, kde možno
+získať viac informácií;
+3.7.3. opis pravdepodobných následkov porušenia ochrany osobných údajov;
+3.7.4. opis opatrení prijatých alebo navrhovaných prevádzkovateľom na nápravu
+porušenia ochrany osobných údajov vrátane opatrení na zmiernenie jeho
+potenciálnych nepriaznivých dôsledkov, ak je to potrebné.
+
+3.8
+
+Obdobné oznámenie ako oznámenie podľa bodu 3.7 vykoná spoločnosť eDocu, a.s.
+v prípade, že je prevádzkovateľom v zmysle ZOOÚ aj voči fyzickej osobe, ktorá bola
+porušením dotknutá, ak takéto riziko môže viesť k vysokej miere rizika pre túto
+dotknutú osobu. Spoločnosť jednoducho popíše skutočnosti dôležité pre dotknutú
+osobu, uvedie kontaktné údaje zodpovednej osoby, popíše možné následky a uvedie
+navrhnuté opatrenia na nápravu nežiaduceho stavu.
+
+3.9
+
+Spoločnosť eDocu nie je povinná vykonať takéto oznámenie v prípade, ak ako
+prevádzkovateľ v zmysle ZOOÚ prijala dostatočné technické a organizačné opatrenia
+alebo by si to vyžadovalo neprimerané úsilie s tým, že zabezpečí iný efektívny spôsob
+informovania dotknutej osoby alebo verejnosti.
+
+3.10 eDocu využíva cloudové riešenia a poskytuje svoje služby, najmä služby Aplikácie,
+prostredníctvom cloudových riešení založených na cloudových službách poskytovaných
+spoločnosťou Amazon (Amazon Web Services – AWS) so sídlom 410 Terry Avenue
+North, Seattle, Washington, Spojné štáty americké a dátovým centrom vo Frankfurte
+nad Mohanom, Nemecká spolková republika.
+3.11 eDocu ako zhotoviteľ resp. prevádzkovateľ a vlastník systému a Aplikácie dbá na
+odbornú, technickú, organizačnú a aj personálnu spôsobilosť čím zaručuje bezpečnosť
+spracúvaných osobných údajov v zmysle §39 a nasl. ZOOU. Ide najmä o:
+3.11.1. šifrovanie osobných údajov na úrovni disku, ktoré je vykonávané spoločnosťou
+AWS;
+3.11.2. zabezpečenie trvalej dôvernosti, integrity, dostupnosti a odolnosti systémov
+spracúvania osobných údajov, ktoré je zabezpečované spoločnosťou AWS;
+3.11.3. zriadenie procesu obnovy dostupnosti osobných údajov a zabezpečenie prístupu
+k nim v prípade fyzického alebo technického incidentu v rámci tzv. backupu
+(spätného načítania údajov) na úrovni MongoDB Atlas, ktorý je externou
+službou využívanou spoločnosťou eDocu.
+3.12 Všetky osoby konajúce a vystupujúce v mene a za eDocu voči obchodným partnerom,
+a ktoré sú riadne splnomocnené na takéto konanie z titulu ich organizačného a/ alebo
+funkčného zaradenia alebo ak im to vyplýva z osobitného právneho predpisu, registra či
+iného zmluvného záväzku a ktoré majú zároveň prístup k spracúvaným osobným
+údajom, ich spracúvajú len na základe pokynov od prevádzkovateľa spracúvania
+osobných údajov alebo sprostredkovateľa spracúvania (eDocu) resp. na základe
+zmluvného vzťahu medzi prevádzkovateľom a sprostredkovateľom.
+
+3.13 eDocu ako spoločnosť, ktorá vyvinula systém ako aj Aplikáciu zodpovedá za jej
+technické a technologické riešenie, riadny chod a do maximálneho možného rozsahu aj
+jej zabezpečenie.
+3.13.1. Spoločnosť, ktorá je prevádzkovateľom datacentra je Amazon (Amazon Web
+Services – AWS) so sídlom 410 Terry Avenue North, Seattle, Washington,
+Spojné štáty americké a dátovým centrom vo Frankfurte nad Mohanom,
+Nemecká spolková republika spolu s doplnkovou službou MongoDB Atlas,
+využívaná ako cloudové úložisko a ktorá je prepojená na AWS.
+3.13.2. Našu webovú stránku ako aj pridružené stránky používajú plnoleté osoby resp.
+osoby staršie ako 16 rokov spolu s ďalšími komunikačnými kanálmi. Medzi
+komunikačné kanály patrí najmä online webová stránka (www.edocu.com
+a www.edocu.sk a www.medineto.com, ale aj smart aplikácia eDocu. Údaje
+o osobách navštevujúcich naše komunikačné kanály sa spracúvajú na úrovni
+anonymizovaných logov slúžiacich na skvalitnenie služieb a identifikáciu
+systémových chýb bez toho, aby spoločnosť priraďovala konkrétny log ku
+špecifickej osobe a tak ju robila identifikovateľnou. Po odsúhlasení
+zaznamenáva spoločnosť aj súbory cookies, o čom je návštevník komunikačného
+kanála upovedomený prostredníctvom oznámenia resp. tzv. „disclaimera“.
+3.13.3. Riadenie prístupu na systémovej úrovni sa uskutočňuje prostredníctvom
+spoločnosti AWS a je riadené cez webkonzolu.
+3.13.4. Zabezpečenie informačných aktív pri prenose medzi prevádzkovateľom
+a sprostredkovateľom
+v zmysle
+ZOOU
+a zaobchádzanie
+s externými
+pamäťovými médiami sa uskutočňuje spravidla na externom médiu odovzdanom
+partnerskou spoločnosťou a po vzájomnej dohode vyplývajúcej zo zmluvy
+medzi obchodným partnerom a eDocu. Odovzdanie sa deje na externom médiu
+od partnerskej spoločnosti po vzájomnej dohode a vzájomnom odsúhlasení
+medzi eDocu a partnerskou spoločnosťou. Takéto odovzdanie je spravidla
+doplnené overeným podpisom odovzdávajúceho protokolu poverenou osobou.
+
+4 Podmienky ochrany osobných údajov
+4.1
+
+Spoločnosť eDocu spravidla uzatvára so svojimi obchodnými partnermi dodatočné
+zmluvy o spracúvaní osobných údajov resp. o poverení spracúvaním osobných údajov
+alebo o ochrane osobných údajov prípadne ich kombinácie, ktoré môžu byť vo forme
+očíslovaného dodatku k iným zmluvám medzi spoločnosťou a obchodným partnerom
+alebo môžu tvoriť ich súčasť. Akékoľvek a všetky ďalšie zmluvy uzatvorené medzi
+obchodným partnerom spoločnosti a spoločnosťou eDocu týkajúce sa spracúvania
+osobných údajov poukazujú a riadia sa aj týmto dokumentom, nakoľko detailne
+popisuje technicko-organizačné zabezpečenie systému a Aplikácie a je ich
+neodmysliteľnou súčasťou v rozsahu stanovenom predmetnými zmluvami. Zmluvy
+detailne upravujú podmienky poskytovania služieb resp. zhotovenie diel pre
+obchodného partnera spoločnosti eDocu a sú špecifikáciou tohto Dokumentu.
+
+4.2
+
+Zmluvy zároveň špecifikujú postavenie spoločnosti eDocu a jej obchodného partnera
+vzhľadom na definičné pojmy uvedené v ZOOÚ najmä s ohľadom na postavenie
+prevádzkovateľa a sprostredkovateľa. Zmluvy takisto špecifikujú predmet a trvanie
+zmlúv o spracovaní osobných údajov.
+
+4.3
+
+Spoločnosť eDocu spracúva osobné údaje zamestnancov svojich obchodných partnerov
+na zmluvnom základe, ktorý predstavuje kontrakt uzatvorený medzi eDocu
+a obchodným partnerom, v rámci ktorého eDocu ako sprostredkovateľ dostáva
+poverenie na spracovanie osobných údajov v dohodnutom a určenom rozsahu od
+obchodného partnera, ktorý je zároveň zamestnávateľom fyzických osôb, ktorých údaje
+majú byť spracované alebo je zodpovedný za formu, účel, dĺžku a ďalšie náležitosti
+spracovávania osobných údajov týchto dotknutých osôb.
+
+4.4
+
+Miestom spracovania osobných údajov je sídlo spoločnosti eDocu resp. sídlo
+obchodného partnera v zmysle podmienok uvedených v jednotlivých zmluvách
+o ochrane a spracúvaní osobných údajov.
+
+4.5
+
+Spoločnosť eDocu spracúva osobné údaje fyzických osôb pracujúcich pre alebo
+zmluvne zviazaných s obchodným partnerom v rozsahu založenom na zmluvnom
+základe ako sprostredkovateľ, ktorému prevádzkovateľ (obchodný partner) udeľuje
+povolenie na spracúvanie typologicky vymedzených údajov v mene prevádzkovateľa vo
+forme zmluvy o poverení spracúvaním osobných údajov alebo jej ekvivalentu.
+
+4.6
+
+Ide najmä o tieto údaje užívateľa v eDocu, ktoré sú šifrované resp. anonymizované
+v prípade, že sa uchovávajú pre štatistické a archivačné účely na základe oprávneného
+záujmu spoločnosti v zmysle § 13 (1) (f) ZOOÚ:
+4.6.1. meno a priezvisko, titul, akademický titul;
+4.6.2. odborné, priemyselné alebo obchodné označenie či funkčné zaradenie;
+4.6.3. adresa trvalého a/ alebo prechodného pobytu;
+4.6.4. fyzická identita (muž/ žena);
+4.6.5. komunikačné údaje (napr. telefón, email, fax)
+4.6.6. telekomunikačné údaje (IP adresách), IMEI?
+4.6.7. kontaktné údaje potrebné na identifikáciu dotknutej osoby ako napr. kontaktné
+údaje týkajúce sa odberného miesta (napr. elektrickej energie) a ostatné údaje
+potrebné na uzatvorenie, plnenie, zmeny a ukončenia zmluvy
+
+4.7
+
+Informácie, ich typ a spôsob spracovania za jedným zo stanovených účelov v zmysle
+predchádzajúcich článkov sa zhromažďujú v databáze Sprostredkovateľa.
+
+4.8
+
+Ide predovšetkým o tieto informácie:
+4.8.1. Registračné informácie potrebné pre vstup do systému resp. pre Aplikácie;
+4.8.2. Profilové (resp. základné informácie) o dotknutej osobe;
+
+4.9
+
+Informácie nepodliehajú automatizovanému systému rozhodovania a uvedený systém
+nie je využívaný v rámci procesov spoločnosti eDocu.
+
+4.10 Spoločnosť eDocu nezhromažďuje žiadne informácie zahŕňajúce údaje o správaní
+užívateľov (dotknutých osôb) systému alebo Aplikácie ako napr. informácie, ktoré by
+mohli intereagovať so sociálnymi médiami po funkčnej alebo marketingovej stránke
+a mohli by byť postúpené tretím stranám s cieľom presnejšie a dôslednejšie zacieliť
+reklamu.
+4.11 Spoločnosť eDocu nezhromažďuje žiadne informácie o platbách alebo finančných
+aktivitách dotknutých osôb.
+4.12 Spoločnosť eDocu nemá prístup k profilom a alebo údajom z profilov dotknutých osôb,
+ktoré existujú na platformách sociálnych sietí.
+4.13 Spoločnosť eDocu nezhromažďuje demografické údaje.
+4.14 Spoločnosť eDocu zhromažďuje anonymizované a psedonymizované údaje vo forme
+logov do systému na zmluvnom základe od dotknutých osôb uvedených v článku 4.
+4.15 Údaje spracúvané automaticky zo zariadenia, z ktorého sa prihlasuje dotknutá osoba:
+4.15.1. Informácie o polohe (GPS);
+4.15.2. Senzorické údaje zo zariadenia.
+4.16 Informácie z ďalších zdrojov:
+4.16.1. Verejne dostupné zdroje (obchodný register, SAP, katastrálny portál a pod.);
+4.16.2. Cookies informácie
+4.16.2.1 Esenciálny login/ autentifikácia alebo navigácia.
+4.17 Kategórie dotknutých osôb, ktorých osobné údaje spracúva spoločnosť eDocu:
+4.17.1. zamestnanci obchodného partnera – ide najmä o plnenie povinností
+zamestnávateľa (obchodného partnera – prevádzkovateľa) súvisiacich
+s pracovným alebo obdobným pracovnoprávnym vzťahom (dohody o prácach
+vykonávaných mimo pracovného pomeru) alebo výkonom funkcie vrátane
+predzmluvných vzťahov na základe ich súhlasu alebo na základe zákona;
+4.17.2. klienti obchodného partnera – fyzické osoby, ktoré majú s obchodným
+partnerom – prevádzkovateľom občianskoprávny a/ alebo spotrebiteľský vzťah
+a ktorých údaje sú nutné na spracovanie pre zabezpečenie riadneho plnenia
+zmluvy a/ alebo zákonných povinností pre zabezpečenie riadnej dodávky tovaru
+a/ alebo služieb;
+4.17.3. fyzické osoby, ktoré obchodnému partnerovi poskytli súhlas so spracúvaním
+osobných údajov a s ich postúpením spoločnosti eDocu pre riadne
+a profesionálne zabezpečenie aktivít vyplývajúcich z uzavretej obchodnej
+zmluvy medzi spoločnosťou eDocu a obchodným partnerom (napr. konferenčný
+
+systém) ale aj údaje o fyzických osobách, ktoré sú klientmi obchodného partnera
+a ich údaje sú potrebné na uzatvorenie a plnenie zmlúv vrátane predzmluvných
+vzťahov, zmeny a ukončenia zmluvy, fakturácie poplatkov na základe zmluvy,
+spolupráce a poskytovania súčinnosti orgánom verejnej moci a iným osobám
+v zmysle všeobecne záväzných právnych predpisov;
+4.17.4. fyzické osoby, ktorých osobné údaje obchodný partner uchováva a spracúva na
+zmluvnom alebo zákonnom základe, a ktoré postupuje spoločnosti eDocu na
+spracovanie;
+4.17.5. okrem zamestnancov, pracovníkov, poradcov a zákazníkov (klientov)
+obchodného partnera môže ísť tiež o dodávateľov a subdodávateľov
+prevádzkovateľa (obchodného partnera) a fyzické osoby v pracovnoprávnom
+alebo obdobnom vzťahu s nimi.
+4.18 Spoločnosť eDocu pred začatím spracovávania osobných údajov predloží
+potenciálnemu obchodnému partnerovi tento Dokument o technicko-organizačnom
+zabezpečení systému a Aplikácie, ktorý je neodmysliteľnou súčasťou zmluvy
+zakladajúcej obchodnú spoluprácu medzi eDocu a jej obchodným partnerom.
+4.19 Spoločnosť eDocu vo vzťahu ku svojim obchodným partnerom zabezpečuje bezpečnosť
+osobných údajov fyzických osôb v zmysle článku 28, ods. 3 (c) a článku 32 Nariadenia,
+najmä v súvislosti s článkom 5 ods. 1 a ods. 2 Nariadenia. Prijímané údaje sú
+opatreniami týkajúcimi sa bezpečnosti údajov a opatreniami, ktoré zaručujú úroveň
+ochrany údajov zodpovedajúcej miere rizika porušení pri zachovaní dôvernosti,
+integrity, dostupnosti a odolnosti systémov. Súčasný stav spracúvania osobných údajov,
+náklady na implementáciu, povahu, rozsah a účel spracúvania, ako aj pravdepodobnosť
+výskytu rizika týkajúceho sa práv a slobôd fyzických osôb vo význame čl. 32, ods. 1
+Nariadenia a závažnosť tohto rizika sa rovnako zohľadňuje.
+4.20 Tento dokument podlieha technologickému pokroku a ďalšiemu vývoju. S ohľadom na
+túto skutočnosť si spoločnosť eDocu vyhradzuje právo zaviesť alternatívne primerané
+opatrenia na zabezpečenie súladu systému a Aplikácie s právnym poriadkom
+a predpismi. V prípade takéhoto konania spoločnosť eDocu zabezpečí, aby nebola
+znížená bezpečnostná úroveň definovaných opatrení. Zásadné zmeny sú vždy
+odkomunikované obchodnému partnerovi a/ alebo dotknutým fyzickým osobám
+v zmysle bodu 4.17 a nasledujúcich.
+
+5 Sprístupňovanie informácií používateľom
+5.1
+
+Spoločnosť eDocu spravidla sprístupňuje informácie prostredníctvom svojich
+komunikačných kanálov – web a aplikácia a to v závislosti od nastavenia súkromia a zv.
+„privacy nastavení“ pre rôznych užívateľov rôzne a to aj v rámci spoločnosti, ktorá je
+obchodným partnerom eDocu aj mimo nej. Každý užívateľ môže mať špecifické
+nastavenie ale tak isto existujú špecifické nastavenia pre skupiny zamestnancov alebo
+osôb s cieľom dosiahnuť čo najvyššie zabezpečenie. V závislosti od stupňa zobrazenia
+je selektovaná aj kvantita aj kvalita informácií v systéme.
+
+5.2
+
+Na webovej stránke ako aj na aplikáciu sú pripojené aj externé linky, ktoré užívateľa
+resp. návštevníka môžu presmerovať do iných webových rozhraní. Tieto však nie sú
+využívané na marketingové účely či na iné, užívateľom nevyžiadané, použitie.
+
+5.3
+
+V prípade, že užívateľ má záujem zdieľať zobrazený obsah s iným užívateľom a/ alebo
+s treťou stranou či verejne, má túto možnosť v závislosti od nastavenia súkromia ako aj
+stupňa ochrany a sprístupnenia. Aplikácia pracuje s tzv. otvoreným zdrojovým kódom
+
+ako aj s uzatvoreným, určeným len na súkromné čítanie resp. zobrazenie. Spoločnosť
+eDocu nenesie zodpovednosť za zverejnenie údajov užívateľom eDocu v rozsahu,
+v akom ich sprístupní verejnosti dobrovoľne a vedome.
+
+6 Komunikácia s registrovanými používateľmi (dotknuté osoby)
+6.1
+
+Komunikácia s registrovanými používateľmi v Aplikácii respektíve v systéme je
+minimálna a minimalizovaná na nevyhnutnú možnú mieru nakoľko eDocu vystupuje
+ako sprostredkovateľ spracúvania osobných údajov a v zásade nie je oprávnený
+komunikovať s dotknutými osobami v zmysle bodu 3.7 a nasledujúcich.
+
+6.2
+
+Komunikácia s registrovanými používateľmi v Aplikácii respektíve v systéme a sú
+zároveň zamestnancami respektíve osobami, ktoré majú s eDocu uzavretý
+pracovnoprávny zmluvný vzťah alebo jeho obdobu a v prípade ktorých eDocu
+vystupuje ako prevádzkovateľ systému sa riadi internými pokynmi zamestnávateľa
+(spoločnosti eDocu) a komunikácia prebieha v zásade telefonicky respektíve mailom
+alebo prostredníctvom výmeny správ a komentárov v rámci systému respektíve
+Aplikácie, ktoré sú archivované a zotrvávajú v systéme respektíve Aplikácii.
+
+6.3
+
+Za komunikáciu sa považuje aj prvotné a každé ďalšie odsúhlasenie podmienok
+používania Aplikácie a systému s ktorými užívateľ registrovaný do Aplikácie respektíve
+systému súhlasí na znak čoho pripája svoj súhlas s podmienkami používania systému
+respektíve Aplikácie a o čom je pri prvom respektíve každom ďalšom následnom
+prihlásení pred ktorým došlo k zmene alebo doplneniu podmienok používania,
+informovaní o všetkých právach vyplývajúcich zo ZOOÚ, Nariadenia GDRP respektíve
+právneho poriadku Slovenskej republiky a Európskej únie ako aj medzinárodných
+zmlúv a nariadení, ktoré sa vzťahujú na prevádzkovanie systému respektíve Aplikácie.
+Upozornenie ako aj realizácia poučenia a následná formulácia súhlasu používateľa
+s podmienkami je vždy a za každých okolností konzultovaná s prevádzkovateľom a ich
+znenie je výsledkom vzájomnej dohody prevádzkovateľa s eDocu.
+
+6.4
+
+Zmeny v systéme či zmeny v ochrane osobných údajov budú používateľom oznámené
+pomocou notifikácie resp. „disclaimera“, ktorý im jasne, stručne a výstižne uvedie o aké
+zmeny sa jedná a či a ako sú dotknuté ich práva a právom chránené záujmy najmä
+s ohľadom na ochranu osobných údajov a ďalšie práva, na ktorých by, ako dotknuté
+osoby, mohli byť užívatelia ukrátení či postihnutí.
+
+6.5
+
+Súhlas so spracovaním osobných údajov spoločnosť eDocu zabezpečuje ako
+sprostredkovateľ len subsidiárne. Primárna povinnosť získať súhlas so spracovaním
+osobných údajov od dotknutej osoby je v kompetencii prevádzkovateľa tak ako je
+popísaný v §13 (1) (a) ZOOÚ. Ak je však spoločnosť eDocu prevádzkovateľom súhlas
+získava výslovne overený podpisom dotknutej osoby na tlačive (zamestnanci) alebo
+prostredníctvom zaškrtnutia príslušného súhlasu so spracovaním osobných údajov
+funkčne oddeleného od iných súhlasov a textu, tak aby bol zreteľný, a to priamo na
+webovej stránke resp. v online prostredí ako aj napr. v Aplikácii. Tento súhlas je
+kedykoľvek k nahliadnutiu a preukázateľný.
+
+6.6
+
+Novinky v procesoch ochrany osobných údajov prijatých v spoločnosti ako aj ďalšie
+zmeny sú spravidla reflektované v nových dokumentoch pravidelne aktualizovaných
+a dopĺňaných aj na stránke spoločnosti.
+
+6.7
+
+Používatelia, obchodní partneri ako aj klienti spoločnosti môžu na požiadanie získať
+technicko-organizačné pokyny staršieho dáta z archívu spoločnosti po udaní dôvodu, na
+aký túto dokumentáciu potrebujú.
+
+7 Práva a možnosti voľby používateľa
+7.1
+
+Užívateľ môže vymazať obsah či ho prepísať v časti, kde mu to Aplikácia dovoľuje
+(napr. osobné údaje o adrese, maily a pod.). V istom zmysle však Aplikácia poskytuje
+takmer blockchainovú technológiu reťazenú tak, aby nebolo možné vymazávať dôležité
+údaje, ktoré slúžia ako dôkazný materiál pre zamestnávateľa užívateľa (zamestnanec
+obchodného partnera eDocu). Užívatelia majú teda limitovanú možnosť výmazu
+obsahu, ktorá korešponduje s nastavením zmlúv medzi eDocu a obchodným partnerom.
+
+7.2
+
+Užívateľ je oprávnený a je mu umožnené nahliadať do všetkých dát, ktoré si uložil
+v Aplikácii po prihlásení sa do nej. Spoločnosť nie je oprávnená a ani v skutočnosti
+nemá prístup k týmto údajom ako užívateľ. Spoločnosť eDocu je schopná vidieť len
+šifrované a anonymizované údaje z logov či zo systému, nie substanciu zahrnutú
+v údajoch vyplnených užívateľom po prihlásení sa.
+
+7.3
+
+Užívateľské konto môže byť vymazané po zaslaní žiadosti o výmaz konta eDocu.
+
+7.4
+
+Retenčná politika eDocu reflektuje zameranie systému, softvéru ako aj aplikácie
+a odráža najmä skutočnosť dlhodobého reťazenia údajov a to tak, aby boli všetky
+relevantné informácie k dispozícii aj potom, ako osoba, ktorá ich do systému uložila nie
+je naďalej aktívna. Deje sa tak na zmluvnom základe medzi eDocu a obchodným
+partnerom s cieľom zabezpečiť maximálne možné mapovanie chodu a procesov
+spoločnosti využívajúcej systém eDocu. Spoločnosť eDocu však na vyžiadanie vykoná
+výmaz nerelevantných údajov, ktoré následne uchová len pre štatistické a archivačné
+účely v anonymizovanej forme na právnom základe oprávneného záujmu spoločnosti.
+
+7.5
+
+Užívateľ môže zobrať svoj súhlas so spracovaním osobných údajov späť zaslaním
+notifikácie prevádzkovateľovi systému spracovania osobných údajov, ktorým spravidla
+nie je eDocu. V prípade, že je takáto žiadosť zaslaná priamo eDocu, tá ju postúpi
+obchodnému partnerovi v závislosti od zmluvných dojednaní a konkrétneho projektu.
+Na obdobnom princípe sa riadi aj oprava, obmedzenie a výmaz osobných údajov
+uložených v Aplikácii resp. v systéme.
+
+8 Retenčné pravidlá a riadenie kontinuity
+8.1
+
+Údaje systému a Aplikácie sú zálohované v intervale každých šesť hodín počas ktorých
+sa vytvára a uchováva osem záloh a to automaticky 24 hodín denne a 7 dní v týždni.
+
+8.2
+
+Zálohované údaje sa uchovávajú na externom úložisku v spoločnosti AWS a v rámci
+služby S3 (Simple Storage Service).
+
+8.3
+
+V prípade úplného zničenia dátového centra, predpokladaný čas obnovy zo záloh je
+ekvivalentný 24 hodinám (1 deň).
+
+8.4
+
+eDocu vykonáva testovanie obnovy zo záloh periodicky na mesačnej báze.
+
+8.5
+
+eDocu má uzavreté zmluvy o údržbe svojich IT systémov a Aplikácie prostredníctvom
+tretích strán, ale výhradne v rámci Európskej únie so spoločnosťou AWS – Frankfurt
+nad Mohanom a Dublin.
+
+8.6 Spoločnosť v rámci svojej bezpečnostnej politiky pre bezpečné zálohovanie vykonáva
+periodické zálohovanie vždy, keď je to možné a účelné.
+
+9 Kontrola fyzických vstupov
+9.1
+
+Spoločnosť eDocu, a.s. v rámci svojej činnosti dbá aj na fyzickú kontrolu vstupov do
+priestorov svojich kancelárií, miestností a technického vybavenia.
+
+9.2
+
+Osobné údaje patriace prevádzkovateľovi (obchodnému partnerovi) ako aj prípadných
+dotknutých fyzických osôb, pre ktoré spoločnosť eDocu vystupuje ako prevádzkovateľ
+sama sú uchovávané u poskytovateľa IT služieb v zmysle bodu 3.10 tohto Dokumentu.
+
+9.3
+
+Chránené priestory (kancelárie, prevádzky a ďalšie fyzické priestory), najmä však
+administratívna budova je vybavená elektronickým zabezpečovacím systémom,
+kamerovým systémom ako aj fyzicky uzamykateľnými priestormi a vo večerných
+hodinách fyzickou bezpečnostnou službou.
+
+9.4
+
+Dátové centrum poskytujúce vzdialené IT služby pre spoločnosť eDocu je podľa
+vedomosti spoločnosti chránené elektronickým zabezpečovacím systémom ako aj
+kamerovým systémom, fyzicky a osobne zabezpečené ako aj podliehajúce najprísnejším
+bezpečnostným štandardom.
+
+9.5
+
+Vstup do chránených priestorov (kancelárie, serverové miestnosti, dátové centrum) sú
+vybavené manuálnym uzamykacím systémom ako aj systémom kontroly vstupu
+vedenom elektronicky (dátové centrum) ale aj vo forme tzv. hard copy evidenciou
+oprávnených osôb spôsobilých vstupovať do chránených priestorov.
+
+9.6
+
+Spoločnosť eDocu vedie v zmysle bodu 9.5 evidenciu oprávnených vstupov do
+chránených priestorov. Vo vzťahu k dátovému centru spoločnosť nemá dostatočné
+prostriedky na zistenie špecifického zabezpečenia priestorov vzhľadom k skutočnostiam
+uvedeným v bode 3.10 tohto Dokumentu.
+
+9.7
+
+Spoločnosť eDocu má definované pravidlá vstupu do chránených priestorov pre tretie
+strany respektíve pozvané osoby respektíve návštevy. Do všetkých chránených
+priestorov má návštevník, respektíve tretia strana povolený vstup len v sprievode
+dohliadajúceho zamestnanca s plným oprávnením vstupovať do chránených priestorov.
+
+9.8
+
+Zamestnanci poskytujúci upratovacie služby a služby údržby sú oprávnení vstupovať do
+kancelárskych priestorov bez sprievodu dohliadajúceho zamestnanca spoločnosti
+s plným oprávnením vstupovať do týchto priestorov. Zamestnanci poskytujúci
+upratovacie služby a služby údržby nie sú oprávnení vstupovať do serverových
+miestností bez sprievodu dohliadajúceho zamestnanca spoločnosti s plným oprávnením
+vstupovať do týchto priestorov. Vstup dátového centra sa riadi internými pravidlami
+spoločnosti Amazon v rámci priestorov uvedených v bode 3.10 tohto dokumentu.
+
+9.9
+
+V prípade zamestnanca, ktorého pracovný pomer alebo obdobne založený
+pracovnoprávny vzťah so spoločnosťou eDocu bol ukončený, je tento povinný
+najneskôr v posledný pracovný deň pred ukončením pracovného alebo obdobného
+pomeru odovzdať všetky prístupové kľúče, údaje, materiály v tlačenej ako aj
+elektronickej podobe, ktoré by sa mohli alebo sa týkajú osobných údajov ktorejkoľvek
+a všetkých dotknutých osôb vrátane ktorejkoľvek a všetkých dotknutých osôb
+obchodného partnera spoločnosti eDocu odovzdať, pokiaľ zákonom, zmluvou alebo
+iným právnym predpisom nie je stanovené inak. Zamestnancovi sú taktiež odňaté všetky
+
+prístupové práva do počítačových systémov (vrátane ich dokumentácie) a akákoľvek
+a všetka služobná elektronika, v prípade, že patrí spoločnosti, ktorá mu bola zverená.
+9.10 V prípade odkúpenia elektroniky alebo iného technického zariadenia, alebo používania
+elektroniky zakúpenej na osobné náklady je zamestnanec povinný vymazať a podrobiť
+sa kontrole výmazu akýchkoľvek a všetkých chránených údajov v zmysle
+predchádzajúcich viet z elektronického zariadenia ako aj z jeho záloh a to v závislosti
+od jeho organizačného a funkčného zaradenia v rámci hierarchii spoločnosti.
+
+10 Periodicita posudzovania, hodnotenia a vyhodnocovania
+10.1 V rámci organizačných opatrení eDocu a jeho zamestnanci či kontrahované osoby, ktorí
+spracúvajú a prichádzajú do kontaktu s osobnými údajmi dotknutých osôb, ktoré sú
+v pracovnoprávnom alebo obdobnom vzťahu k obchodnému partnerovi eDocu
+(prevádzkovateľovi), konajú vždy a výlučne na základe výhradného poverenia
+manažmentom alebo zodpovednou osobou prevádzkovateľa, alebo na základe ich
+funkčného či korporátneho zaradenia v rámci štruktúry spoločnosti eDocu.
+
+10.2 eDocu ako sprostredkovateľ a ani ako prevádzkovateľ za žiadnych okolností
+nepostupuje údaje uchovávané v systéme a/ alebo Aplikácii pre tretie krajiny mimo
+Európsky hospodársky priestor. V prípade, že obchodný partner eDocu má sídlo, alebo
+jeho výkonný manažment a/alebo prevažná časť jeho kapitálu sa nachádza v tretích
+krajinách, spoločnosť eDocu striktne oddelí prístup k jednotlivým databázam tak, aby
+údaje dotknutých osôb, na ktoré sa vzťahuje ZOOÚ alebo Nariadenie GDPR boli
+chránené v zmysle zákonných pravidiel.
+
+11 Kontaktné miesto
+11.1 Kontaktným miestom eDocu je zodpovedná osoba za implementáciu pravidiel ZOOÚ
+a GDPR v rámci spoločnosti.
+11.2 Táto je prostredníkom a kontaktným bodom prvého styku pre prevádzkovateľov
+(obchodných partnerov eDocu) ako aj pre prípadné dotknuté fyzické osoby.
+11.3 Zodpovedná osoba poskytuje uvedeným subjektom podľa predchádzajúceho bodu
+informácie a služby asistencie alebo vyplývajúce zo zákonných povinností, zmlúv,
+z tohto Dokumentu a z dokumentov súvisiacich alebo nadväzujúcich na tento dokument.
+11.4 Zodpovedná osoba je zároveň kontaktným miestom pre precosvanie žiadostí
+a nahlasovanie incidentov vo vzťahu k orgánom Slovenskej republiky a Európskej únie
+a ďalším oficiálnym inštitúciám.
+11.5 Zodpovednú osobu je možné kontaktovať na emailovej adrese spoločnosti:
+gdpr@edocu.com
+
+12 Záverečné ustanovenia
+12.1 Spoločnosť eDocu, a.s. týmto potvrdzuje, že informácie uvedené v tomto dokumente
+vyjadrujú aktuálne technické a organizačné opatrenia, ktoré sa dodržiavajú na všetkých
+pracoviskách spoločnosti a ktoré sú v spoločnosti zavedené za účelom zabezpečenia
+úrovne ochrany a bezpečnosti údajov.
+12.2 Akékoľvek odchýlky od informácií poskytnutých v tomto Dokumente sú obchodnému
+partnerovi spoločnosti a/ alebo dotknutej fyzickej osobe bez zbytočného odkladu
+
+oznámené s odkazom na pôvodné zmluvné, licenčné alebo podmienky poskytnutého
+súhlasu na spracovanie osobných údajov. Spolu s oznámením spoločnosť eDocu
+relevantným osobám poskytne aj aktualizovaný Dokument s novelizovaným znením
+reflektujúcim zapracované zmeny. Po vyhodnotení miery primeranosti opatrení
+a písomnom alebo konkludentnom odsúhlasení predloženej novej verzie tohto
+dokumentu oprávneným zástupcom obchodného partnera alebo dotknutou fyzickou
+osobou či jej zástupcom, pôvodný Dokument sa nahrádza v celom rozsahu novým
+Dokumentom podpísaným respektíve odsúhlaseným druhou stranou, ktorý sa dňom
+odsúhlasenia a riadneho doručenia druhej strane stane namiesto pôvodného Dokumentu
+neoddeliteľnou súčasťou zmluvy, a to bez potreby vyhotovovania osobitného dodatku
+k nej.
+
+

@@ -1,0 +1,850 @@
+Kúpna zmluva č. Z201769386_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Sociálna poisťovňa
+29. augusta 8 - 10, 81363 Bratislava, Slovenská republika
+30807484
+2020592332
+SK40 8180 0000 0070 0016 4314
++421 90617 1280
+
+Dodávateľ:
+Obchodné meno:
+
+Atos IT Solutions and Services s.r.o.
+
+Sídlo:
+
+Pribinova 19/7828, 81109 Bratislava, Slovenská republika
+
+IČO:
+
+45650276
+
+DIČ:
+
+2023110661
+
+IČ DPH:
+
+SK2023110661
+
+Číslo účtu:
+
+SK27 1111 0000 0010 9789 5000
+
+Telefón:
+
++421903564796
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Monitorovací systém pre bezpečnosť počítačových sietí založený na dátových tokoch a
+analýze chovania siete
+
+Kľúčové slová:
+
+monitorovanie počítačových sietí, bezpečnosť počítačových sietí, sonda pre monitorovanie
+siete, centrálny kolektor, NetFlow
+
+CPV:
+
+32420000-3 - Sieťové zariadenia; 48000000-8 - Softvérové balíky a informačné systémy;
+48730000-4 - Softvérový balík na zaistenie bezpečnosti
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Monitorovací systém pre bezpečnosť počítačových sietí založený na dátových tokoch a analýze
+chovania siete
+
+Funkcia
+• Detekcia a identifikácia sieťových anomálií v sieťovej infraštruktúre.
+• Proaktívny monitoring s využitím technológií pre identifikáciu bezpečnostných udalostí a incidentov v reálnom čase spojenú
+so správaním sa používateľov pri nakladaní s informáciami.
+• Dlhodobý detailný monitoring prevádzky na počítačovej sieti.
+• Vyhodnocovanie objemu, štruktúry a anomálií. Nástroj musí byť nezávislý na monitorovanej sieti a svojou funkčnosťou
+nesmie ovplyvňovať prevádzku sieťovej infraštruktúry. Nástroj, resp. monitorovacie riešenie nesmie byť zo strany
+používateľov, či správcov žiadnym spôsobom detekovateľné.
+• V rámci uvedenia zariadenia pre monitorovanie a bezpečnosť počítačových sietí do prevádzky musí byť zabezpečené najmä:
+- Nastavenie zariadenia na monitorovanie siete v reálnom čase;
+- Dokumentácia zariadenia, popis zariadenia a jeho funkcionalít, návod na obsluhu v slovenskom alebo v českom jazyku;
+- Zaškolenie 2 administrátorov;
+• Technická podpora bude poskytovaná v rozsahu:
+
+Strana 1 z 8
+
+- Vyhodnocovanie nazbieraných dát vrátane prezentácie odporúčaní 1x mesačne priamo v priestoroch objednávateľa
+(Bratislava);
+- 1 človekodeň/mesiac počas doby záruky (24 mesiacov).
+Technické vlastnosti
+
+Jednotka
+
+1. Hardvérové (HW) vybavenie
+
+ks
+
+1
+
+2. Softvérové (SW) vybavenie
+
+ks
+
+1
+
+3. Inštalácia HW
+
+ks
+
+1
+
+4. Inštalácia SW
+
+ks
+
+1
+
+5. Uvedenie zariadenia pre monitorovanie a bezpečnosť
+počítačových sietí do prevádzky: - nastavenie zariadenia
+na monitorovanie siete v reálnom čase, - dokumentácia
+zariadenia, popis zariadenia a jeho funkcionalít, návod
+na obsluhu v slovenskom alebo v českom jazyku, zaškolenie 2 administrátorov
+
+súbor
+
+1
+
+6. Technická podpora pre SW vybavenie na 2 roky
+(vyhodnocovanie nazbieraných dát vrátane prezentácie
+odporúčaní 1x mesačne priamo v priestoroch
+objednávateľa v Bratislave, 1 človekodeň /mesiac.
+Prezentácia vyhodnotenia bude realizovaná do 5 dní
+pred ukončením kalendárneho mesiaca)
+
+súbor
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+A
+
+a) Pasívne zapojenie bez vplyvu na monitorovanie siete (SPAN /
+mirror portami) pre každú lokalitu
+
+NetFlow Sonda 1 ks:
+
+Minimum
+
+Maximum
+
+Presne
+
+-
+
+b) Inštalácia: HW, Racková montáž
+
+-
+
+c) Manažment rozhranie: 2x (administratívne) porty 10/100/
+1000Mb/s (UTP kabeláž) pre zabezpečenú vzdialenú správu a
+prenos NetFlow dát, zabezpečená vzdialená správa, dohľad a
+konfigurácia- SSH, HTTP
+
+-
+
+d) Správa užívateľov a prístupových práv na zariadení
+prostredníctvom užívateľských rolí.
+
+-
+
+e) Nastaviteľná rýchlosť monitorovacej linky 2x 10 Gb / s na
+optickom rozhraní (2x 10G-SFP-SR)
+
+-
+
+f) Vstavaný kolektor pre dočasné ukladanie flow štatistík (zaistenie
+redundancie) min. o kapacite 0,5 TB
+
+-
+
+g) Časová synchronizácia zariadenia proti centrálnemu zdroju času
+na sieti.
+
+-
+
+h) Výkon: min. 1,5 Mp/s na port.
+
+-
+
+i) Sériová linka pre konfiguráciu zariadení Prostredníctvom sériovej
+linky (RS-232).
+
+-
+
+j) Použitie DNS cache na zariadení pre rýchlejší preklad IP adries
+na doménové mená.
+
+-
+
+k) Monitorovanie a reportovanie MAC adries vo flow štatistikách.
+Možnosť použiť MAC adresu ako položku kľúča flow záznamu.
+
+-
+
+l) Monitorovanie a analýza HTTP prevádzky - vrátane položiek typu
+URL, hostname. Pre HTTPS reportovanie hostname ako SNI.
+Použitá štandardná technológia reportovania týchto rozširujúcich
+
+-
+
+štatistík (šablóny NetFlow v9 alebo IPFIX).
+
+-
+
+m) Podpora vyplňovania AS na základe vstavaného či dodaného
+zoznamu.
+
+-
+
+n) Zariadenie umožňuje rozšírenie o funkcionalitu zázname
+prevádzky v plnom rozsahu na základe užívateľom definovaného
+pravidla záchytu, automatizovaného záznamu (capturingu)
+bezpečnostnej
+
+-
+
+udalosti. Rozšírenie je riešené formou licencie / inštalácia SW bez
+nutnosti zmeny HW konfigurácie.
+
+Strana 2 z 8
+
+-
+
+o) Kolektor umožňuje zobrazenie prihláseného užívateľa u daného
+zariadenia (IP adresy) vrátane histórie. Flow štatistiky je možné
+filtrovať na základe loginu používateľa. Užívateľské identity sú
+
+-
+
+získavané zo systémov riadenia prístupu do siete (napr. Cisco ISE)
+alebo Active Directory. Riešenie je otvorené a schopné podporovať
+ľubovoľný zdroj užívateľských identít (hlásenie o úspešnej
+
+-
+
+autentizácii používateľov.
+
+-
+
+p) LDAP autentizácia: Podpora autentizácie voči LDAP (Active
+Directory).
+
+-
+
+q) Podpora autentizácie voči TACACS +.
+
+-
+
+r) Podpora protokolov pre výmenu dát: NetFlow dáta vo formátoch
+verzii 5 a 9, IPFIX.
+
+-
+
+s) Spracovanie dátovej prevádzky: IPv4 a IPv6, VLAN, MPLS, AS,
+monitoring MAC adries, HTTP, VoIP, DNS, DHCP, SMB / CIFS
+prevádzky.
+
+-
+
+t) Analýza oneskorenia na sieti RTT, SRT, delay, jitter,
+retransmisiu, out-of-order pakety ako súčasť flow štatistík.
+
+-
+
+u) Vzorkovanie: Na úrovni paketov a na úrovni tokov.
+
+-
+
+v) Prevedenie 1 RU, do 19-palcového racku.
+
+*
+
+*
+
+B
+
+Centrálny kolektor:
+
+a) Ukladanie flow štatistík: Pevné uloženie sieťových štatistík na
+multigigabitových linkách bez akejkoľvek redukcie.
+
+-
+
+b) Granularita vizualizácie: Spracovanie a vizualizácia v
+5-minútových alebo 30-sekundových intervaloch.
+
+-
+
+c) Podpora štandardov dátových tokov: NetFlow v5, NetFlow v9,
+IPFIX, jFlow, cflowd, NetStream, sFlow, NetFlow Lite.
+
+-
+
+d) Možnosť dohľadania ľubovoľnej komunikácie až na úroveň
+jednotlivých flow záznamov, priebežné grafy prevádzky, top
+štatistiky, reporty, alerty, databázy aktívnych zariadení na sieti
+
+-
+
+vrátane identifikácie zariadení.
+
+-
+
+e) Inštalácia: šablóny pre nasadenie virtuálneho stroja.
+
+-
+
+f) Manažment rozhranie: 2X 10/100 / 1000Mb/s (UTP kabeláž) pre
+zabezpečenú vzdialenú správu a prenos NetFlow dát.
+
+-
+
+g) Zabezpečená vzdialená správa, dohľad a konfigurácia - SSH,
+HTTPS.
+
+-
+
+h) Výkon min.: 150000 fps, nastavenie 2x10/100/1000 Mb/s
+monitorovacích portov.
+
+-
+
+i) Podpora autentizácie voči LDAP (Active Directory).
+
+-
+
+j) Podpora autentizácie voči TACACS+.
+
+-
+
+k) Podpora HOT SWAP na RAID: HOT SWAP disky a podpora
+RAID5, SMART detekcia.
+
+-
+
+l) Časová synchronizácia zariadenia proti centrálnemu zdroju času
+na sieti.
+
+-
+
+m) Sériová linka pre konfiguráciu zariadení: Prostredníctvom
+sériovej linky (RS-232).
+
+-
+
+n) Použitie DNS cache na zariadení pre rýchlejší preklad IP adries
+na doménové mená.
+
+-
+
+o) Monitorovanie rozšírených L3/L4 informácií: Podpora pre
+monitorovanie rozšírených L3/L4 informácií - TTL (Time to live),
+TCP Window size, TCP SYN.
+
+-
+
+p) Kapacita dátového úložiska: min. 3TB.
+
+-
+
+q) Podpora pre užívateľské identity Active Directory.
+
+-
+
+r) Vizualizácia štatistických dát podľa objemu (počet prenesených
+bytov, tokov, paketov), IP prevádzky (TCP, UDP, ICMP, ostatné)
+alebo protokolu (HTTP, IMAP, SSH), vrátane plnej konfigurácie
+grafov a
+
+Strana 3 z 8
+
+-
+
+pohľadov užívateľom.
+
+-
+
+s) Reporting a analýza vo formáte PDF alebo CSV, TOP N
+štatistiky.
+
+-
+
+t) Prevedenie: Virtuálna apliancia.
+
+*
+
+*
+
+C
+
+Automatické vyhodnocovanie NetFlow dát
+
+a) Deduplikácia, vzorkovanie na úrovni tokov, identita
+používateľov, persistencia doménových mien.
+
+-
+
+b) Sada detekčných metód a algoritmov pre analýzu flow štatistík,
+detekciu bezpečnostných incidentov, prevádzkových problémov a
+sieťových anomálií pre min. 4000 fps (dátových tokov/s) / 5000
+hostov
+
+-
+
+(dátových tokov/s).
+
+-
+
+c) Detekčné mechanizmy: Detekcia skenovanie portov, slovníkové
+útoky, útoky odopretia služieb (DoS), útoky na sieťové protokoly
+SSH, RDP, Telnet. Detekcia anomálií v DNS, DHCP, SMTP,
+multicast
+
+-
+
+prevádzky a neštandardné komunikácie. Detekcia P2P sietí a
+anonymizačných služieb (napr. TOR). Detekcia udalostí na
+základe "Threat Intelligence" dát (komunikácia s botnet C&C).
+Detekcia nadmernej
+
+-
+
+záťaže siete,výpadkov služieb, chýbajúcich reverzných DNS
+záznamov, nových a cudzích zariadení pripojených k sieti.
+Detekcia NAT.
+
+-
+
+d) Identita užívateľov: Systém zobrazuje informácie o identite
+užívateľov obsiahnutú vo flow dátach ako súčasť udalosti.
+
+-
+
+e) Systém obsahuje konfiguračného sprievodcu pre nastavenie
+systému pri prvom spustení podľa parametrov siete, do ktorého je
+systém nasadený.
+
+-
+
+f) Prípadné udalosti, ktoré predstavujú falošné poplachy (false
+positives) je možné odstrániť prostredníctvom jednoduchej
+konfigurácie pravidiel vylúčenia falošných poplachov dostupné
+
+-
+
+v používateľskom rozhraní.
+
+-
+
+g) Preddefinované priority udalostí s možnosťou používateľského
+nastavenia závažnosti udalostí na základe IP adresných rozsahov,
+typov udalostí, miest výskytu alebo detailov udalosti. Jedna
+udalosť
+
+-
+
+môže mať v závislosti na konfigurácii priradených viac priorít.
+
+-
+
+h) Udalosti je možné automaticky exportovať vo formáte CEF
+protokolom Syslog. Predpokladané využitie tejto funkcionality je
+integrácia so systémami typu SIEM alebo log management.
+
+-
+
+i) Udalosti je možné reportovať do dohľadových systémov
+prostredníctvom funkcionality SNMP trap.
+
+-
+
+j) Notifikácia o detekovaných udalostiach prostredníctvom e-mailu
+s podporou rôznych formátov (HTML, incident handling systém,
+úsporný textový formát). Možnosť pripojiť vzorku flow dát, na
+
+-
+
+základe ktorých bola udalosť detekovaná k emailovému reportu.
+
+-
+
+k) Webové užívateľské rozhranie v slovenskom, resp. českom
+jazyku. Užívateľsky definovateľný dashboard (konfigurácia per
+používateľ). Vizualizácia priebehu prevádzky s vyznačením
+detekovaných
+
+-
+
+udalostí v závislosti od nastavenej závažnosti udalostí.
+
+-
+
+l) Systém integruje informácie zo služieb DNS, WHOIS,
+geolokačné služby. Užívateľsky definované externé služby
+fungujúce na protokole HTTP.
+
+-
+
+m) Systém detekcie anomálií poskytuje dokumentované API pre
+získavanie a spracovanie udalostí. Prostredníctvom API je možné
+systém detekcie anomálií takisto konfigurovať (napr. vytvárať filtre,
+
+-
+
+meniť nastavenia detekčných metód, apod.).
+
+-
+
+n) Export dát: CEF, SNMP Trap, email notifikácia, CSF.
+Strana 4 z 8
+
+-
+
+o) Na výskyt udalosti je možné automaticky reagovať spustením
+užívateľsky definovaných skriptov.
+
+-
+
+p) Webové centrálne užívateľské rozhranie, používateľsky
+definované (konfigurácia per používateľ).
+
+-
+
+q) Perpetuálna SW Licencia.
+
+-
+
+r) Aplikácia pre mobilné zariadenia Android a iOS.
+
+-
+
+s) Inštalácia: Implementácia riešenia, konfigurácia riešenia v
+rozsahu 15 človekodní (MDs).
+
+-
+
+t) Kontrola kvality nastavenia systému zo strany výrobcu riešenia.
+
+-
+
+u) Záruka 2 roky, starostlivosť o softvér, zákaznícka podpora po
+telefóne a emailom v slovenskom, českom alebo anglickom jazyku
+v pracovnej dobe objednávateľa (8x5, 8:00-16:00 h), prístup k
+webovému
+
+-
+
+zákazníckemu centru, vzdialená podpora cez SSH. Výmena HW
+8x5xNBD (NBD -nasledujúci pracovný deň).
+
+-
+
+v) Vyhodnocovanie nazbieraných dát 1 človekodeň/mesiac
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+I. CENA
+1. Dodávateľ je povinný predložiť podrobnú Cenovú kalkuláciu do 2 pracovných dní od uzavretia zmluvy, v ktorej pre položky
+označené č. 1 až 6, ktoré sú uvedené v časti Funkčná a technická špecifikácia predmetu - Technické vlastnosti, uvedie:
+jednotkovú cenu bez DPH, jednotkovú cenu s DPH, cenu celkom bez DPH, cenu celkom s DPH. Celková cena za predmet
+zákazky/zmluvy v cenovej kalkulácii musí byť v súlade s celkovou cenou predmetu zmluvy, uvedenej v článku IV. ZmluvyZmluvná cena.
+2. Celková cena predmetu zmluvy a cena za jednotlivé položky uvedené v časti Funkčná a technická špecifikácia predmetu
+obsahujú všetky náklady dodávateľa spojené s plnením predmetu (dodávka, doprava, vykládka, inštalácia HW a SW,
+nastavenie, zaškolenie, záručné opravy do 48 hodín v režime 8x5xNBD (NBD - nasledujúci pracovný deň) počas záručnej
+doby 24 mesiacov, technická podpora pre SW vybavenie, ...) a tiež všetky dane, celá, poplatky, platby vyberané v rámci
+uplatňovania nesadzobných opatrení ustanovené osobitnými predpismi, ako aj iné náklady spojené s plnením zmluvy.
+3. V prípade, ak dodávateľ ku dňu predkladania ponúk nie je platcom DPH, avšak po uzatvorení zmluvy sa ním stane, nemá
+nárok na zvýšenie ceny za plnenie predmetu zmluvy o hodnotu DPH.
+4. Dodávateľovi nevznikne nárok na úhradu akýchkoľvek dodatočných nákladov, ktoré si nezapočítal do ceny predmetu
+zmluvy. Všetky ceny predložené dodávateľom zohľadňujú primerané, preukázateľné náklady a primeraný zisk.
+5. Celková cena a jednotkové ceny v cenovej kalkulácii budú zaokrúhlené maximálne na dve (2) desatinné miesta.
+II. MIMORIADNE NÍZKA PONUKA
+1. V prípade, ak cena dodávateľa bude neprimerane nízka vo vzťahu k tovaru a/alebo službe resp. bude vykazovať znaky
+mimoriadne nízkej podľa § 53 ods. 3 zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov (zákon o verejnom obstarávaní), dodávateľ je povinný predložiť na požiadanie
+objednávateľa v lehote určenej objednávateľom doklady a vyjadrenie, ktorým preukáže v rozsahu § 53 zákona o verejnom
+obstarávaní reálnosť plnenia za zmluvnú cenu.
+2. Ak dodávateľ v čase stanovenom objednávateľom nepredloží na základe písomnej výzvy doklady a vyjadrenia preukazujúce
+reálnosť plnenia predmetu zákazky/zmluvy za cenu vykazujúce znaky neprimerane nízkej ceny, resp. mimoriadne nízkej
+ponuky, považuje sa to za podstatné porušenie zmluvných podmienok a za dôvod na odstúpenie od zmluvy.
+III. PLNENIE PREDMETU ZMLUVY
+1. Miestom plnenia je Bratislava. Objednávateľ sa zaväzuje poskytnúť dodávateľovi do 1 pracovného dňa od uzavretia zmluvy
+presnú adresu plnenia a kontaktnú osobu/kontaktné osoby v mieste plnenia.
+2. Dodávateľ sa zaväzuje do 2 pracovných dní od uzavretia zmluvy predložiť objednávateľovi kontaktné údaje osoby
+zodpovednej za riadne plnenie predmetu zmluvy v rozsahu: meno, priezvisko, tel. číslo a e-mailová adresa a telefónne číslo
+servisnej linky a e-mailovú adresu helpdesku na hlásenie porúch - požiadaviek objednávateľa na záručné opravy do 48 hodín
+v režime 8x5xNBD.
+3. Objednávateľ požaduje predložiť dodávateľom špecifikáciu ponúkaného zariadenia na plnenie predmetu zmluvy do 2
+pracovných dní odo dňa účinnosti zmluvy.
+4. Dodávaný hardvér musí byť nový a nepoužívaný. Dodávané komponenty nesmú mať na sebe výrobné vady, inak výrobne
+poškodené, obmedzenú funkcionalitu a musia spĺňať minimálne technické požiadavky. Zároveň musia spĺňať podmienku, že
+nesmú byť už použité, alebo obnovené do pôvodného výrobného stavu a nanovo predané ako nové zariadenia pod
+všeobecným označením výrobcov „re-market“ zariadenia.
+Strana 5 z 8
+
+5. Dodávateľ je povinný spresniť deň a hodinu dodania predmetu zmluvy, resp. jeho časti telefonicky alebo e-mailom,
+minimálne jeden deň pred dodaním predmetu zmluvy. V prípade neoznámenia termínu dodávky predmetu zmluvy resp. jej
+časti nie je povinný prevziať ju v deň doručenia, ale až v nasledujúci deň. Všetky náklady spojené s odmietnutím prevzatia
+neoznámenej dodávky znáša dodávateľ.
+6. Dodávateľ dodá tovar, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike, resp. v Európskej únii a
+bude vyhovovať platným normám EÚ, STN a všeobecne záväzným právnym predpisom. Dodávateľ je povinný na požiadanie
+objednávateľa preukázať uvedené certifikácie tovaru, ako aj všetky vlastnosti tovaru, ktoré sú vyžadované v časti zmluvy
+Funkčná a technická špecifikácia predmetu.
+7. Objednávateľ si vyhradzuje právo prevziať iba tovar spĺňajúci všetky technické vlastnosti uvedené v časti zmluvy Funkčná a
+technická špecifikácia predmetu, ktorý je funkčný, bez zjavných vád, dodaný v kompletnom stave a v požadovanom množstve.
+V opačnom prípade si objednávateľ vyhradzuje právo neprevziať dodaný tovar a nezaplatiť cenu za riadne nedodaný tovar.
+8. Funkčné, technické a výkonnostné požiadavky na predmet zákazky/zmluvy, ktoré sú uvedené v časti zmluvy Funkčná a
+technická špecifikácia predmetu sú považované za minimálne. Objednávateľ akceptuje aj také funkčné, technické a
+výkonnostné vlastnosti predmetu zmluvy ponúknuté dodávateľom, ktorých vyjadrené kvantifikovateľné aj nekvantifikovateľné
+parametre budú vyššie (lepšie) ako sú objednávateľom uvedené požadované parametre funkčných, technických a
+výkonnostných vlastnostiach predmetu.
+9. Dodávateľ sa zaväzuje postupne dodať predmet zákazky/zmluvy pre položky označené č. 1 až 4, ktoré sú uvedené v časti
+zmluvy Funkčná a technická špecifikácia predmetu - Technické vlastnosti, na určené miesto plnenia podľa bodu , vrátane
+zabezpečenia dopravy a vykládky v mieste plnenia a vykonať inštaláciu HW a SW, a to najneskôr do 29. 12. 2017. Spolu s
+dodaním HW a SW článku III. tejto časti zmluvy, odovzdá objednávateľovi aj doklady potrebné na prevzatie predmetu zmluvy.
+Dokladom o dodaní HW a SW, dopravy a vykládky na miesto plnenia a vykonaní ich inštalácie je protokol o dodávke
+a inštalácii, podpísaný oprávnenými zástupcami oboch zmluvných strán.
+10. Dodávateľ sa zaväzuje zabezpečiť poskytnutie súvisiacich služieb pre dodaný HW a SW podľa položky označené č. 5,
+uvedené v časti zmluvy Funkčná a technická špecifikácia predmetu - Technické vlastnosti, na mieste plnenia, a to najneskôr
+do 6 týždňov odo dňa podpísania protokolu o dodávke a inštalácii. Dokladom o vykonaní služieb je akceptačný protokol,
+podpísaný oprávnenými zástupcami oboch zmluvných strán.
+11. Dodávateľ sa zaväzuje poskytovať na softvérové (SW) vybavenie technickú podporu zmluvy počas 24 mesiacov odo dňa
+podpísania akceptačného protokolu.
+12. Dodávateľ sa zaväzuje počas dvojročnej záručnej doby pre HW vybavenie vykonávať záručné opravy do 48 hodín v
+režime 8x5xNBD (NBD - nasledujúci pracovný deň) od nahlásenia poruchy/požiadavky na záručnú opravu objednávateľom;
+nahlasovanie porúch/požiadaviek na opravu objednávateľom bude v pracovné dní a v pracovnom čase 8:00 - 16:00 h
+telefonicky na číslo servisnej linky alebo formou Helpdesku objednávateľa/Helpdesk dodávateľa e-mailom podľa čl. III. bodu 2
+tejto časti zmluvy. Hlásenie objednávateľa bude obsahovať typ zariadenia,
+výrobné číslo, dátum a čas hlásenia poruchy s popisom poruchy, umiestnením predmetu zmluvy a s menom osoby, ktorá
+poruchu hlási.
+13. Dodávateľ obratom potvrdí prijatie nahlásenej poruchy/požiadavky na záručnú opravu objednávateľom formou e-mailu na
+helpdesk objednávateľa a bezplatne (vrátane dopravy, pracovného výkonu a potrebných náhradných dielov) odstráni vady
+predmetu zmluvy v lehote podľa predchádzajúceho bodu tejto časti zmluvy.
+14. Pokiaľ z Funkčnej a technickej špecifikácie predmetu vyplýva priame alebo nepriame označenie výrobku alebo výrobcu,
+výrobný postup, značka, obchodný názov, patent alebo typ, objednávateľ v takom prípade pripustí ekvivalentné
+plnenie/riešenie, za ktoré bude považovať výrobok rovnakých alebo vyšších parametrov. Dodávateľ je povinný objednávateľovi
+riadne preukázať parametre ekvivalentného plnenia.
+15. V prípade, ak dodávateľ bude dodávať objednávateľovi tovar v súlade s možnosťou predloženia ekvivalentov uvedeným v
+časti zmluvy Funkčná a technická špecifikácia predmetu, predloží objednávateľovi do 2 pracovných dní od uzavretia zmluvy
+zoznam ekvivalentných výrobkov. Zoznam ekvivalentných tovarov musí obsahovať názov, typ/označenie tovaru (napr.
+obchodné meno, značku/výrobcu) a technickú špecifikáciu jednotlivých položiek ekvivalentných tovarov.
+IV. FAKTURÁCIA
+1. Úhrada za predmet zmluvy bude realizované formou bezhotovostného platobného styku bez poskytnutia zálohovej platby.
+2. Dodávateľovi vznikne právo na vystavenie faktúry jednorazovo za dodávku plnenia pre položky označené č. 1 až 4,
+uvedené v časti zmluvy Funkčná a technická špecifikácia predmetu - Technické vlastnosti, v cene podľa cenovej kalkulácie v
+súlade s článkom I. tejto časti zmluvy podpísaním protokolu o dodávke a inštalácii predmetu zmluvy oprávnenými zástupcami
+oboch zmluvných strán. Protokol bude neoddeliteľnou prílohou faktúry.
+3. Dodávateľovi vznikne právo na vystavenie faktúry za vykonanie plnenia pre položky označené č. 5, ktoré sú uvedené v časti
+zmluvy Funkčná a technická špecifikácia predmetu - Technické vlastnosti, v cene podľa cenovej kalkulácie v súlade s článkom
+I. tejto časti zmluvy podpísaním akceptačného protokolu oprávnenými zástupcami oboch zmluvných strán. Akceptačný
+protokol bude neoddeliteľnou prílohou faktúry.
+4. Cena za poskytovanie technickej podpory pre položku označenú č. 6, uvedenú v časti zmluvy Funkčná a technická
+špecifikácia predmetu - Technické vlastnosti, v cene podľa cenovej kalkulácie v súlade s článkom I. tejto časti zmluvy bude
+fakturovaná štvrťročne. Dodávateľovi vznikne právo na vystavenie prvej faktúry za prvé štvrťročné obdobie odo dňa
+podpísania akceptačného protokolu do piateho dňa prvého mesiaca po ukončení prvého štvrťroka v alikvotnej cene položky č.
+6 uvedenej v časti zmluvy Funkčná a technická špecifikácia predmetu - Technické vlastnosti podľa cenovej kalkulácie
+
+Strana 6 z 8
+
+v súlade s článkom I. tejto časti zmluvy. Faktúru na ďalšie štvrťročné obdobie dodávateľ vystaví v alikvotnej cene najneskôr do
+piateho dňa prvého mesiaca po ukončení príslušného štvrťroka poskytovania technickej podpory . Na účely tejto fakturácie sa
+štvrťrokom rozumejú 3 po sebe nasledujúce mesiace.
+5. Splatnosť faktúry: do 30 dní odo dňa ich doručenia objednávateľovi.
+6. Dodávateľ sa zaväzuje posielať vyhotovenú faktúru listinne poštou a súčasne aj v textovo čitateľnom súbore vo formáte
+PDF elektronicky, na e-mailovú adresu objednávateľa, a to bezodkladne po jej vystavení. Dodávateľ vyhlasuje, že obsah
+faktúry poslanej poštou sa bude zhodovať s faktúrou poslanou v elektronickej podobe na e-mailovú adresu objednávateľa.
+7. Miesto doručenia faktúry v listinnej forme je sídlo objednávateľa. E-mailovú adresu, na ktorú bude dodávateľ zasielať faktúry
+elektronicky oznámi objednávateľ dodávateľovi do 1 pracovného dňa od uzavretia tejto zmluvy.
+8. Dodávateľom vystavená faktúra ako daňový doklad musí byť vyhotovená v súlade s ustanoveniami zákona č. 222/2004 Z. z.
+o dani z pridanej hodnoty v znení neskorších predpisov. V prípade, ak faktúra vystavená dodávateľom nebude obsahovať
+všetky zákonom stanovené náležitosti alebo bude obsahovať nesprávne alebo neúplné údaje, objednávateľ má právo takúto
+faktúru vrátiť dodávateľovi na jej doplnenie, resp. opravu a dodávateľ je povinný podľa charakteru nedostatku vystaviť novú,
+opravenú, resp. doplnenú faktúru s novou lehotu splatnosti. Dodávateľ je zároveň povinný bezodkladne poslať opravenú
+alebo novú faktúru znovu aj v elektronickej podobe na e-mailovú adresu uvedenú objednávateľom v zmysle predošlého bodu
+tohto článku zmluvy.
+9. Ak je dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento dodávateľ nebude pri plnení zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ v tomto prípade bude registrovaný pre
+DPH podľa § 7 a/alebo § 7a zákona
+č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č. 222/2004 Z.z..
+V. ĎAĽŠIE USTANOVENIA
+1. Objednávateľ upozorňuje, že dodávateľ musí byť v zmysle § 32 ods. 1 písm. e) zákona o verejnom obstarávaní oprávnený
+dodávať tovar a poskytovať službu, ktorá zodpovedá predmetu zákazky. V prípade, ak objednávateľ na základe informácií z
+verejne dostupných registrov (obchodný register, živnostenský register) bude mať pochybnosti, či objednávateľ je oprávnený
+dodávať tovar alebo poskytovať službu, ktorý zodpovedá predmetu zákazky, požiada dodávateľa v lehote určenej
+objednávateľom o predloženie dokladov preukazujúcich oprávnenie dodávať tovar alebo poskytovať službu zodpovedajúcu
+predmetu zákazky. V opačnom prípade je objednávateľ oprávnený odstúpiť od zmluvy v zmysle obchodných podmienok
+elektronického trhoviska, 2. časť ,,Všeobecné zmluvné podmienky" (ďalej len "VZP OPET"), čl. XVIII. ,,Ukončenie zmluvy", bod
+18.2 písm. a) a b). Objednávateľ zároveň upozorňuje dodávateľa, že v zmysle obchodných podmienok elektronického
+trhoviska, 1. časť ,,Trhový poriadok", čl. IV. ,,Dodávateľ", bod 4, dodávateľ sa už samotnou registráciou do EKS zaväzuje
+akceptovať a dodržiavať obchodné podmienky elektronického trhoviska, vrátane povinnosti spĺňať všetky kvalifikačné,
+odborné, technické a akékoľvek iné predpoklady stanovené príslušnými právnymi predpismi vo vzťahu k plneniu, ktoré tvorí
+predmet zákazky.
+2. V prípade, ak bude celková cena za predmet zmluvy prevyšujúca 100000 eur, je podmienkou nadobudnutia platnosti a
+účinnosti zmluvy zápis konečných užívateľov výhod dodávateľa v registri partnerov verejného sektora podľa zákona č.
+315/2016 Z.z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov (ďalej len "zákon o registri
+partnerov"). Ak v momente uzavretia zmluvy nemá dodávateľ v registri partnerov verejného sektora zapísaných konečných
+užívateľov výhod v súlade s príslušnými ustanoveniami zákona o registri partnerov, zmluva nadobudne účinnosť najskôr v deň
+zápisu dodávateľa do tohto registra /bod 4.4 VZP OPET/.
+3. Objednávateľ je oprávnený od zmluvy odstúpiť ak v momente uzavretia zmluvy nemá dodávateľ v registri partnerov
+verejného sektora zapísaných konečných užívateľov výhod v súlade s príslušnými ustanoveniami zákona o registri partnerov a
+k zápisu do tohto registra nedôjde ani do 30 dní od momentu uzavretia zmluvy /bod 18.2 písm. v) VZP OPET/.
+4. Dodávateľ do 2 (dvoch) pracovných dní od uzavretia zmluvy zašle na kontaktný e-mail, ktorý objednávateľ zašle
+dodávateľovi do 1 pracovného dňa od uzavretia zmluvy:
+a) fotokópiu potvrdenia od výrobcu HW a SW komponentov, resp. obchodného zastúpenia výrobcu pre trh ktoréhokoľvek
+členského štátu Európskej únie alebo štátu, ktorý je zmluvnou stranou Dohody o európskom hospodárskom priestore, že
+dodávateľ je autorizovaným distribútorom pre ponúkané HW a SW komponenty na úrovni silver partnerstva,
+b) fotokópiu dokladu o certifikácii špecialistu na implementáciu ponúkaného HW a SW na úrovni technického špecialistu
+daného riešenia z oblasti bezpečnosti ponúkaného zariadenia odborne spôsobilej osoby pre inštaláciu a konfiguráciu HW a
+SW.
+5. V prípade, ak dodávateľ poruší akúkoľvek vyššie uvedenú zmluvnú podmienku alebo ktorékoľvek vyššie uvedené
+ustanovenia v osobitných požiadavkách na plnenie, toto porušenie sa považuje za podstatné porušenie zmluvy a objednávateľ
+má právo odstúpiť od zmluvy.
+6. Všetky doklady a dokumenty musia byť predložené v štátnom jazyku. Ak je doklad alebo dokument vyhotovený v cudzom
+jazyku, predkladá sa spolu s jeho úradným prekladom do štátneho jazyka, to neplatí pre návrhy, doklady a dokumenty
+vyhotovené v českom jazyku.
+7. Ostatné sa riadi Obchodnými podmienkami elektronického trhoviska, 2. časť "Všeobecné zmluvné podmienky".
+Názov
+
+Upresnenie
+Strana 7 z 8
+
+2.4
+
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+Okres:
+Obec:
+Ulica:
+3.2
+
+Čas / lehota plnenia zmluvy:
+27.12.2017 08:00:00 - 08.02.2018 14:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+cena celkom
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.2, účinná zo dňa 4.11.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 141 583,33 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 169 900,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.2, účinná zo dňa 04.11.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 21.12.2017 11:38:02
+Objednávateľ:
+Sociálna poisťovňa
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Atos IT Solutions and Services s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 8 z 8
+
+

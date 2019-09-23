@@ -1,0 +1,406 @@
+Zmluva číslo 163/2017 na obstaranie tovarov a služieb pre existujúci informačný
+systém pre kategorizáciu liečiv a liekov (ďalej aj ako „IS Kategorizácia˝) pre
+Ministerstvo zdravotníctva SR uzatvorená v zmysle § 269 ods. 2 Obchodného
+zákonníka medzi zmluvnými stranami (ďalej len „zmluva˝)
+
+ZMLUVNÉ STRANY
+I.
+
+Ministerstvo zdravotníctva Slovenskej republiky
+
+sídlo:
+Limbová 2, 83752 Bratislava, Slovenská republika
+IČO:
+165565
+bankové spojenie:
+Štátna pokladnica
+číslo účtu:
+7000150115/8180
+štatutárny orgán:
+JUDr. Ing. Tomáš Drucker, minister
+osoba oprávnená
+na rokovanie:
+Ing. Michal Kondáš,
+ako objednávateľ na jednej strane, ďalej len „objednávateľ˝
+a
+II.
+
+Disig, a.s.
+
+sídlo:
+IČO:
+IČ DPH:
+registrácia:
+
+Záhradnícka 151, 821 08 Bratislava
+359 75 946
+SK2022116976
+OR Okresného súdu Bratislava I, odd.: Sa, vložka č.: 3794/B
+
+štatutárny orgán:
+
+Ing. Ľuboš Batěk, predseda predstavenstva
+Ing. Ivan Kühn, podpredseda predstavenstva
+Tatra banka, a.s.,
+SK11 1100 0000 0026 2576 8772
+
+bankové spojenie:
+číslo účtu:
+
+ako zhotoviteľ na strane druhej, ďalej len „poskytovateľ ˝ a spoločne
+s „objednávateľom˝ ďalej len „zmluvné strany˝
+
+Preambula
+Objednávateľ prevádzkuje programové aplikácie v rámci zhotoveného, dodaného a
+implementovaného informačného systému pre kategorizáciu liečiv a liekov na základe Zmluvy o
+dielo č. 103/2011 na vybudovanie informačného systému pre kategorizáciu liečiv a liekov zo
+dňa 30.3.2011 (ďalej len „zmluva o dielo˝).
+ČL. I
+PREDMET ZMLUVY
+1.
+
+Predmetom tejto zmluvy je dodávka tovarov a služieb pre existujúci informačný systém
+pre kategorizáciu liečiv a liekov (ďalej aj ako „IS Kategorizácia˝) pre MZSR v rozsahu,
+ktorý zabezpečí poskytovanie kontinuity činností prevádzkovaného elektronického portálu
+za dohodnutú odplatu uvedenú v čl. 3 tejto zmluvy.
+
+2.
+
+V rámci predmetu zákazky sa poskytovateľ zaväzuje zabezpečiť:
+a) základný balík pre priebežné poskytovanie autentizačných a podpisovacích
+certifikátov podľa štandardu X.509 v3 vydávaných certifikačnou autoritou, ktorej
+certifikát je umiestnený v dôveryhodnom úložisku všeobecne rozšírených
+
+b)
+
+c)
+d)
+e)
+
+3.
+
+prehliadačov – minimálne Microsoft, Mozilla, Chrome a Apple v rozsahu 1000 ks
+súčasne používaných certifikátov s dĺžkou platnosti 12 mesiacov počas dĺžky trvania
+zmluvy
+(certifikáty musia spĺňať nasledovné požiadavky: dĺžka kľúča 2048bit, SHA256RSA,
+položky subjektu – CN, OU=Pre ucely kategorizacie MZ SR, L, C=SK,
+SERIALNUMBER, E)
+základný balík pre priebežné poskytovanie kvalifikovaných certifikátov (mandátnych)
+pre elektronický podpis vydávaných v podľa nariadenia Európskeho parlamentu a
+Rady (EÚ) č. 910/2014 o elektronickej identifikácii a dôveryhodných službách pre
+elektronické transakcie na vnútornom trhu (ďalej aj ako „nariadenie eIDAS“) v
+rozsahu 5 ks súčasne používaných certifikátov s dĺžkou platnosti 12 mesiacov počas
+dĺžky trvania zmluvy
+jednorazovú dodávku certifikovaných SSCD zariadení pre uloženie privátnych kľúčov
+kvalifikovaných certifikátov v rozsahu 5 ks
+základný balík pre priebežné poskytovanie kvalifikovaných elektronických časových
+pečiatok vydávaných v podľa nariadenia eIDAS v rozsahu 60.000 ks ročne
+jednorazovú dodávku a upgrade komponentu zabezpečujúceho automatické
+vytváranie a overovanie kvalifikovaných podpisov používaného v rámci IS
+Kategorizácia pre potreby hromadného podpisovania rozhodnutí, aby spĺňal
+požiadavky nariadenia eIDAS, v rozsahu 3 ks softvérových licencií – časovo
+neobmedzená používateľská licencia.
+
+Pri prekročení vyššie uvedených počtov si môže objednávateľ prostredníctvom
+oprávnenej osoby objednávateľa doobjednať:
+a) rozširujúci balík 100 ks autentizačných a podpisovacích certifikátov v sume 1.600,- €
+(slovom jedentisícšesťsto euro) bez DPH
+b) rozširujúci balík 5 ks kvalifikovaných certifikátov v sume 108,35,- € (slovom stoosem
+euro a tridsaťpäť centov) bez DPH
+c) rozširujúci balík 10.000 ks časových pečiatok v sume 800,-€ (slovom osemsto euro)
+bez DPH.
+ČL. II
+SPÔSOB PLNENIA PREDMETU ZMLUVY
+
+1.
+
+Poskytovateľ je povinný dodať tovary a služby uvedené v článku č. I bod 2) ods. a) až d)
+v súlade s požadovaným rozsahom a parametrami do 10 pracovných dní od účinnosti
+tejto zmluvy.
+
+2.
+
+Poskytovateľ je povinný dodať tovary a služby uvedené v článku č. I bod 2) ods. e v
+súlade s požadovaným rozsahom a parametrami do 30 pracovných dní od účinnosti tejto
+zmluvy, za predpokladu poskytnutia plnej súčinnosti zo strany objednávateľa.
+
+3.
+
+Ak sa nedohodne inak, poskytovateľ je povinný dodať tovary a služby v lokalite sídla
+objednávateľa.
+
+4.
+
+Ak sa nedohodne inak, poverené osoby objednávateľa nahlasujú doobjednanie tovarov
+uvedených v článku č. I bod 3) prostredníctvom elektronickej pošty na e-mailovej
+adrese: obchod@disig.sk.
+Zmeny kontaktných údajov poskytovateľa je poskytovateľ povinný bezodkladne oznámiť
+objednávateľovi.
+
+5.
+
+Prevzatie doobjednaných tovarov podľa článku č. I bod 3) musí prebehnúť protokolárne v
+zmysle Akceptačného protokolu (Príloha č. 3).
+
+6.
+
+Objednávka nových tovarov musí obsahovať minimálne náležitosti uvedené v prílohe č. 1
+tejto zmluvy – „Objednávka nových tovarov˝.
+
+ČL. III
+CENY A PLATOBNÉ PODMIENKY
+1.
+
+Objednávateľ sa zaväzuje zaplatiť poskytovateľovi za dodané tovary a služby uvedené
+v článku č. I bod 2) v súlade s požadovaným rozsahom a parametrami vopred dohodnutú
+cenu 42.744,20,- € (slovom: štyridsaťdvatisíc sedemstoštyridsaťštyri euro a dvadsať
+centov) bez DPH, DPH 8.548,84,- € (slovom: osemtisíc päťstoštyridsaťosem
+a osemdesiatštyri centov), cena s DPH 51.293,04,- € (slovom: päťdesiatjedentisíc
+dvestodeväťdesiattri euro a 4 centy). Cena je dohodnutá podľa zákona č. 18/1996 Z. z. o
+cenách v znení neskorších predpisov.
+
+2.
+
+Objednávateľ sa zaväzuje zaplatiť poskytovateľovi za doobjednané tovary vopred
+dohodnutú cenu podľa v článku č. I bod 3). Cena je stanovená podľa § 3 zákona
+Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších
+predpisov a vyhlášky Ministerstva financií Slovenskej republiky č. 87/1996 Z. z., ktorou
+sa vykonáva zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení
+neskorších predpisov. Zmluvná cena je vyjadrená v eurách. .
+
+3.
+
+Faktúra je splatná do 30 kalendárnych dní od jej doručenia objednávateľovi, ak bude
+riadne vystavená, pričom objednávateľ ju uhradí bankovým prevodom na účet
+poskytovateľa uvedený v záhlaví zmluvy. Faktúra je riadne vystavená, ak obsahuje číslo
+zmluvy a všetky náležitosti daňového dokladu podľa zákona č. 222/2004 Z. z. o dani z
+pridanej hodnoty v znení neskorších predpisov a zákona č. 431/2002 Z. z. o účtovníctve
+v znení neskorších predpisov.
+
+4.
+
+V prípade, že predložená faktúra nebude obsahovať náležitosti uvedené v
+predchádzajúcom bode, objednávateľ vráti faktúru poskytovateľovi písomnou
+doporučenou zásielkou alebo osobne proti podpisu poskytovateľa (ďalej len „zásielka˝), a
+poskytovateľ je povinný vystaviť novú faktúru s novou lehotou splatnosti. V prípade, že
+poskytovateľ zásielku neodôvodnene odmietne prevziať, považuje sa za doručenú
+poskytovateľovi dňom odmietnutia prevzatia zásielky vyznačeného na doručenke.
+
+5.
+
+Zmluvné strany sa dohodli, že ak sa poskytovateľ dostane do omeškania s plnením si
+svojich povinností, môže objednávateľ uplatniť voči poskytovateľovi zmluvnú pokutu vo
+výške 0,05% za každý začatý deň omeškania z ceny tovarov a služieb, s poskytnutím
+ktorých je poskytovateľ v omeškaní. Uplatnením zmluvnej pokuty nie je dotknutý nárok
+objednávateľa na náhradu vzniknutej škody v plnom rozsahu.
+
+6.
+
+Zmluvné strany sa dohodli, že poskytovateľ má právo v prípade omeškania
+objednávateľa s úhradou faktúry za dodané tovary a služby podľa tejto zmluvy uplatniť si
+úrok z omeškania vo výške 0,05 % z dlžnej sumy za každý začatý deň omeškania.
+Uplatnením zmluvnej pokuty nie je dotknutý nárok poskytovateľa na náhradu dlžnej
+sumy v plnom rozsahu.
+ČL. IV
+DOBA PLATNOSTI A UKONČENIA ZMLUVY
+1. Táto zmluva sa uzatvára na dobu 12 mesiacov. Možno ju zmeniť a dopĺňať iba po
+predchádzajúcej dohode oboch zmluvných strán a to formou písomných dodatkov.
+2. Túto zmluvu môžu ukončiť zmluvné strany písomnou dohodou.
+3. Od tejto zmluvy môže odstúpiť ktorákoľvek zo zmluvných strán, pokiaľ druhá zmluvná
+strana opakovane (minimálne dvakrát) a hrubo poruší ustanovenie tejto zmluvy. Na
+skutočnosť porušovania zmluvnej povinnosti, ktorá má byť dôvodom odstúpenia ako aj
+
+na možnosť odstúpenia musí byť zmluvná strana, ktorá hrubo porušuje ustanovenie
+zmluvy vopred písomne upozornená a to v lehote aspoň 30 dní, počas ktorých môže
+porušujúca zmluvná strana zjednať nápravu. Písomné odstúpenie od zmluvy musí
+obsahovať odôvodnenie s uvedením konkrétnych skutočností, ktoré tvoria dôvod
+odstúpenie od zmluvy.
+ČL. V
+OCHRANA AUTORSKÉHO PRÁVA A INÝCH ODDOBNÝCH PRÁV
+1.
+
+Poskytovateľ vyhlasuje, že podľa všetkých slovenských predpisov práva duševného
+vlastníctva je oprávnený udeliť objednávateľovi softvérovú licenciu v zmysle článku č. I
+bod 2) ods. e. Nepravdivosť tohto vyhlásenia poskytovateľa zakladá povinnosť náhrady
+škody podľa § 373 a nasl. Obchodného zákonníka.
+ČL. VI
+ZÁVEREČNÉ USTANOVENIA
+
+1.
+
+Poskytovateľ je povinný zachovať mlčanlivosť o všetkých informáciách a údajoch, o
+ktorých sa dozvie v súvislosti s plnením zmluvy tretím osobám a zaväzuje sa nešíriť a
+nezneužívať ich ďalej akoukoľvek formou ani po ukončení zmluvného vzťahu.
+
+2.
+
+Zmluvné strany sa dohodli, že poskytovateľ má právo uvádzať objednávateľa vo svojich
+referenciách.
+
+3.
+
+Prípadné spory a nedorozumenia, ktoré vzniknú zo zmluvy sa budú zmluvné strany
+usilovať riešiť predovšetkým formou dohody. V prípade, ak nedôjde k dohode, požiada
+jedna zo zmluvných strán o rozhodnutie súd.
+
+4.
+
+Zmluvné strany sa dohodli, že zmluva sa riadi príslušnými ustanoveniami Obchodného
+zákonníka, pričom právne vzťahy neupravené touto zmluvou sa riadia príslušnými
+ustanoveniami ostatných platných právnych predpisov, najmä Autorským zákonom.
+
+5.
+
+Neoddeliteľnou súčasťou tejto zmluvy je:
+Príloha č. 1 – „Objednávka nových tovarov˝
+Príloha č. 2 – „Zoznam oprávnených osôb objednávateľa˝
+Príloha č. 3 – „Akceptačný protokol – vzor˝
+
+6.
+
+Zmluvné strany sa zaväzujú, že sa budú navzájom a včas písomne informovať o zmenách
+a to najmä o zmenách čísla bankového spojenia, faxového a telefónneho čísla, o zmene
+adresy sídla, zmene e-mailovej adresy bez uzavretia dodatku k tejto zmluve.
+
+7.
+
+Ak niektoré ustanovenia zmluvy nie sú celkom alebo sčasti platné a/alebo účinné alebo
+neskôr stratia platnosť a/alebo účinnosť, nie je tým dotknutá platnosť a/alebo účinnosť
+ostatných ustanovení. Namiesto neplatných a/alebo neúčinných ustanovení a na
+vyplnenie medzier sa použije právna úprava, ktorá, pokiaľ je to právne možné, sa čo
+najviac približuje zmyslu a účelu zmluvy, pokiaľ pri uzatváraní zmluvy zmluvné strany
+túto otázku brali do úvahy.
+
+8.
+
+Zmluva je vyhotovená v 5 rovnopisoch. Objednávateľ obdrží 3 a poskytovateľ
+vyhotovenia zmluvy.
+
+9.
+
+Zmluva nadobúda platnosť a účinnosť podpisom oboch zmluvných strán.
+
+10.
+
+Zmluvné strany si zmluvu prečítali jej obsahu porozumeli, potvrdzujú, že majú plnú
+
+2
+
+spôsobilosť na právne úkony, že zmluva je určitá a zrozumiteľná a na znak toho, že
+zmluva zodpovedá ich slobodnej vážnej a skutočnej vôli ju podpísali bez výhrad.
+
+V Bratislave dňa 16.08.2017
+
+V Bratislave dňa
+
+Objednávateľ:
+
+Poskytovateľ:
+
+Tomáš Drucker, minister, v. r.
+---------------------------------------------
+
+Ing. Ľuboš Batěk, Disig, a. s., v. r.
+-----------------------------------------------
+
+-------------------
+
+14.08.2017
+
+PRÍLOHA č. 1 – Objednávka nových tovarov
+
+OBJEDNÁVKA NOVÝCH TOVAROV
+Vyplní objednávateľ:
+Názov objednávky
+
+Por. číslo objednávky/rok
+
+Typ objednávky
+Nový tovar
+
+Miesto výkonu
+
+Popis objednávky
+
+Poverená osoba
+objednávateľa
+
+Dátum zadania objednávky
+□
+
+Dohodnutá cena
+
+Požadovaný dátum odovzdania
+
+PRÍLOHA č. 2 – Zoznam oprávnených osôb objednávateľa
+
+1.
+
+Ing. Michal Kondáš, tel: 02 59373187, e-mail: michal.kondas@health.gov.sk
+
+PRÍLOHA č. 3 – Akceptačný protokol – vzor
+AKCEPTAČNÝ PROTOKOL
+Označenie/identifikácia objednávky:
+Objednávateľ:
+Ministerstvo zdravotníctva Slovenskej republiky
+Limbová 2, 83752 Bratislava, Slovenská republika
+IČO: 165565
+
+Poskytovateľ:
+Disig, a.s.
+Záhradnícka 151, 821 08 Bratislava
+IČO: 359 75 946
+
+Požadovaný dátum odovzdania
+
+Skutočný dátum odovzdania
+
+Poverená osoba objednávateľa:
+
+Poverená osoba poskytovateľa:
+
+Popis doobjednaného tovaru:
+
+Akceptácia plnenia poskytovateľa
+Akceptácia bez výhrad:
+Objednávateľ potvrdzuje poskytovateľovi
+splnenie
+požiadavky na dodané tovary/služby v plnom rozsahu
+akceptuje a preberá
+
+Akceptácia objednávateľa zo dňa :...
+
+..........................................................
+
+Meno, priezvisko, funkcia
+Podpis osoby oprávnenej osoby
+Pečiatka
+Akceptácia s výhradami:
+Objednávateľ potvrdzuje poskytovateľovi splnenie
+požiadavky na dodané tovary/služby v s nasledovnými
+výhradami:
+
+Vyjadrenie
+poskytovateľa/Dohoda
+zistených nedostatkov
+
+o odstránení
+
+-
+
+Podpis zodpovednej osoby objednávateľa
+
+..........................................................
+
+Meno, priezvisko, funkcia
+Podpis osoby oprávnenej osoby
+Pečiatka
+
+Podpis zodpovednej osoby poskytovateľa
+
+..........................................................
+Meno, priezvisko, funkcia
+Podpis osoby oprávnenej osoby
+Pečiatka
+
+

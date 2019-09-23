@@ -1,0 +1,147 @@
+ID: 34/17
+Zmluva o poskytovaní technickej podpory č. 2017101
+uzavretá v zmysle §269 ods. 2 zákona č. 513/1991 Z. z. Obchodného zákonníka
+
+Obchodné meno:
+CS WEB, s.r.o.
+Sídlo:
+Belanská 576/24, 033 01 Liptovský Hrádok
+Zastúpený:
+Ing. Tomáš Pekár
+IČO:
+46574310
+DIČ:
+2023470625
+IČ DPH:
+SK2023470625
+Bankové spojenie:
+Tatra banka, a.s., č. účtu: 2921872646/1100
+IBAN:
+SK15 1100 0000 0029 2187 2646
+Zapísaná v obchodnom registri vedenom Okresným súdom Žilina, oddiel Sro, vložka číslo
+5626/L
+(ďalej len „poskytovateľ“)
+a
+Obchodné meno:
+Sídlo:
+Zastúpený:
+IČO:
+DIČ:
+Bankové spojenie:
+IBAN:
+
+Slovenské múzeum ochrany prírody a jaskyniarstva
+Školská ul. 4, 031 01 Liptovský Mikuláš
+doc. RNDr. Danka Šubová, CSc.
+361 45 114
+2021457361
+Štátna pokladnica č. ú. 7000391314/8180
+SK82 8180 0000 0070 0039 1314
+
+(ďalej len „objednávateľ“)
+(spoločne ďalej len „zmluvné strany“)
+uzatvorili nižšie uvedeného dňa, mesiaca a roka túto zmluvu o dielo:
+I. Úvodné ustanovenie
+1. Objednávateľ prevádzkuje internetovú stránku (ďalej len „systém“) umiestnenú na
+doméne smopaj.sk. Poskytovateľ je spoločnosťou zaoberajúci sa vývojom softwaru a
+poskytovaním technickej podpory.
+2. Zmluvné strany sa v tejto zmluve dohodli na podmienkach poskytovania technickej
+podpory systému poskytovateľom objednávateľovi.
+II. Definície pojmov
+1. Technickou podporou sa rozumie umiestnenie a prevádzkovanie systému na serveroch
+poskytovateľa (ďalej len „hosting“). Poskytovateľ sa zaväzuje udržiavať a upgradovať
+softvérové komponenty súvisiace so stabilným a bezpečným chodom systému, zálohovať
+dáta a databázu na iné technické zariadenie.
+
+1
+
+III. Predmet zmluvy
+1. Predmetom tejto zmluvy je poskytovanie technickej podpory (čl. II bod 1 tejto zmluvy)
+poskytovateľom objednávateľovi. Technická špecifikácia predmetu zmluvy je nasledovná:
+popis:
+-
+
+10 GB priestoru
+pravidelná záloha 7 dní na iný server
+povolený htaccess
+prístup na server cez ssh
+prístup na phpmyadmin
+neobmedzený počet databáz
+
+prostredie:
+php 5.4
+mysql 5.5
+subversion client
+php extension: pdo, gettext, gd2,
+short open tags: On
+2. Poskytovateľ sa zaväzuje poskytovať technickú podporu podľa svojich najlepších znalostí
+a schopností vždy s prihliadnutím k potrebám objednávateľa.
+3. Objednávateľ sa zaväzuje za poskytovanie technickej podpory hradiť poskytovateľovi
+riadne a včas odmenu, ktorej výška je dohodnutá ďalej v tejto zmluve. Objednávateľ sa
+zaväzuje zaistiť poskytovateľovi podmienky pre riadny výkon jeho činností podľa tejto
+zmluvy a poskytovať mu potrebnú súčinnosť.
+IV. Odmena za poskytovanie technickej podpory
+1. Poskytovateľovi náleží za poskytovanie technickej podpory ročne odmena vo výške (ďalej
+len „paušál“):
+cena bez DPH
+60,00 EUR
+DPH (20 %)
+12,00 EUR
+cena s DPH
+72,00 EUR.
+2. Odmena za poskytovanie technickej podpory bude účtovaná ročne vopred. Odmena je
+splatná vždy na základe faktúry – daňového dokladu vystaveného poskytovateľom, a to v
+lehote do 14 dní odo dňa vystavenia faktúry. Prvá faktúra bude vystavená ku dňu podpisu
+zmluvy štatutárnymi orgánmi oboch zmluvných strán
+V. Doba trvania zmluvy a ukončenie zmluvy
+1. Táto zmluva sa uzatvára na dobu neurčitú s výpovednou lehotou 3 mesiace. Návrh na
+ukončenie zmluvy môže podať písomnou formou ktorákoľvek zo zmluvných strán, vždy
+ku koncu kalendárneho mesiaca. Výpovedná lehota tak začína prvý deň v nasledujúcom
+mesiaci. Finančné záväzky budú v prípade ukončenia príslušne vysporiadané k termínu
+ukončenia zmluvy.
+2
+
+2. Od tejto zmluvy možno odstúpiť len v prípadoch stanovených zákonom alebo
+dohodnutých v článku V. tejto zmluvy.
+VI. Záverečné ustanovenia
+1. Táto zmluva nadobúda platnosť dňom jej podpisu štatutárnymi orgánmi oboch zmluvných
+strán a účinnosť nasledujúcim dňom po dni zverejnenia v zmysle § 47 zákona č. 546/2010
+Z.z.
+2. Zhotoviteľ berie na vedomie, že táto zmluva je povinne zverejnenou zmluvou v zmysle §
+5 zákona č. 211/2000 Z.z. o slobodnom prístupe k informáciám a o zmene a doplnení
+niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov.
+Objednávateľ ako povinná osoba v zmysle zákona o slobode informácií zverejní túto
+zmluvu bezodkladne po jej podpise v Centrálnom registri zmlúv (www.crz.gov.sk) .
+Zhotoviteľ berie ďalej na vedomie, že táto zmluva je účinná dňom nasledujúcim po dni jej
+zverejnenia v Centrálnom registri zmlúv. Ak sa do troch mesiacov od uzavretia zmluvy
+zmluva nezverejní platí, že k uzavretiu zmluvy nedošlo.
+3. Táto zmluva a všetky práva a povinnosti z nej vyplývajúce, v rámci otázok platnosti a
+následkov neplatnosti, sa riadi slovenským právnym poriadkom.
+4. Akékoľvek spory vyplývajúce z tejto zmluvy alebo s ňou súvisiace v rámci sporov o jej
+platnosti budú riešené primárne dohodou zmluvných strán. V prípade zlyhania
+mimosúdnych jednaní budú všetky spory riešené pred príslušným súdom.
+5. Zmeny a doplnky tejto zmluvy je možné činiť len po dohode strán, a to písomnými
+číslovanými dodatkami.
+6. Osoby konajúce pod menom objednávateľa a poskytovateľa prehlasujú, že majú ku dňu
+podpisu tejto zmluvy právo konať menom spoločnosti.
+7. Táto zmluva je spísaná vo dvoch vyhotoveniach, z ktorých každá zo zmluvných strán
+obdrží po jednom .
+8. Obe zmluvné strany si túto zmluvu prečítali a s jej obsahom súhlasia. Táto zmluva
+vyjadruje ich pravú, slobodnú a vážnu vôľu, na dôkaz toho pripájajú svoje podpisy.
+
+V Liptovskom Mikuláš, dňa 28. 4. 2017
+
+V Liptovskom Mikuláš, dňa 28. 4. 2017
+
+………………………………………….
+doc. RNDr. Danka Šubová, CSc.
+Slovenské múzeum ochrany
+prírody a jaskyniarstva
+
+……………………………………
+Ing.Tomáš Pekár
+CS WEB s.r.o
+
+3
+
+

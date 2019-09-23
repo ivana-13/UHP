@@ -1,0 +1,1086 @@
+□JJ'ECO
+CENTRAL EUROPE
+
+S f il
+m «
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Zmenový list číslo 016/2018
+Objednávateľ
+Zhotoviteľ
+Produkt
+
+Finančné riaditeľstvo SR
+Asseco Central Európe, a.s.
+DWHFR SR
+
+Názov zadania
+Analýza a implementácia rozširujúcich požiadaviek k otvoreným modulom Stotožňovanie,
+DAC1, DAC2/CRS, FATCA, DAC4/CbCR a MOSS.
+
+Popis zadania_____________________________________________________________________
+V rámci zabezpečenia potrieb FR SR žiadame o vypracovanie analýzy a implementáciu rozširujúcich
+požiadaviek k otvoreným modulom Stotožňovanie, DAC1, DAC2/CRS, FATCA, DAC4/CbCR a
+MOSS. Ide o nasledujúce funkcionality, ktoré budú realizované po etapách:
+
+1.1. Úprava a doplnenie funkcionalít do modulu Stotožňovanie:
+
+a) Zapracovanie zmeny v algoritme zabezpečujúcom prevod dát prijatých vo voľnom
+formáte z modulov AVI do štruktúrovanej formy tak, aby výsledkom tohto algoritmu bolo
+okrem identifikovania názvu mesta a ulice aj priradenie a uloženie PSČ a automatické
+priradenie DÚ pre dáta, ktorých štruktúra bola realizáciou tohto algoritmu upravená.
+Zároveň, ak je vo voľnom mene uvedené jedno slovo, toto slovo sa po realizácií
+algoritmu uvedie do poľa s názvom „Priezvisko“.
+b) Zapracovanie zmeny v štruktúre vybraných integračných rozhraní so systémom CRFS.
+Rozšírenie integračného rozhrania č. I004, I005, I006, 1015 a 1016 o nový stĺpec
+s názvom „KOD_OBCB.
+c) Vytvorenie dvoch nových štatistík:
+•
+
+štatistiky zohľadňujúcej históriu procesu manuálneho stotožňovania, ktorá bude
+zobrazovať dáta, pre ktoré nastala zmena v stave stotožnenia zo stavu “Na
+manuálne stotožnenie” na akýkoľvek iný stav. Konkrétne: dátum manuálnej zmeny
+stavu stotožnenia záznamu konkrétnym pracovníkom, meno (skratka) daného
+pracovníka, počet FO, pri ktorých bol manuálne zmenený stav, počet PO, pri ktorých
+bol manuálne zmenený stav a celkový počet osôb, pre ktoré bol manuálne zmenený
+stav.
+
+•
+
+štatistiky zohľadňujúcej počet záznamov prijatých z modulov AVI vo vzťahu
+k reálnemu počtu stotožňovaných osôb.
+d) Zapracovanie novej funkcionality, ktorá umožní zobrazenie detailu XML v Prehľadovom
+reporte výsledkov procesu stotožňovania.
+e) Zapracovanie zmeny vo funkcionalite manuálneho zadávania JID a vyhodnocovania
+formátu JID tak, aby v priebehu vyhodnocovania správnosti jeho štruktúry systém
+ignoroval všetky prázdne znaky. Aktuálne je potrebné zadávať JID vo vopred
+definovanom formáte bez medzier.
+f) Doplnenie stĺpca „FO/PO“ do 1 úrovne Reportu pre manuálne stotožňova­
+nie a do Prehľadového reportu.
+
+Strana 1/11
+
+□JJECD
+CENTRAL EUROPE
+
+Ä
+
+yr
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+1.2. Úprava a doplnenie funkcionalít do modulu DAC1:
+
+a) Zapracovanie zmien vo formáte štatistík pre EÚ, vyplývajúcich z aktualizovanej
+dokumentácie z EK.
+b) Zapracovanie zmeny vo vypĺňaní mena typu „atbirtíŕ. Aktuálne sa pre tento typ mena
+do XML súboru uvádza štruktúrované meno osoby, ktoré obsahuje vyplnené elementy:
+„FristName“, „LastName“ a „Title“. Táto podmienka platí pre Party aj Partner.
+Po ímplementovaní zmeny sa pre typ mena "atbirth" bude do XML súboru uvádzať meno
+vo voľnom formáte.
+c) Úpravy procesov spracovania dát z ÚGKK:
+•
+
+Zapracovanie zmeny v procese generovania XML súboru obsahujúceho dáta
+z ÚGKK. Bude potrebná úprava nastavenia procesu identifikácie konkrétnej
+"BuildingUniť nerezidenta tak, aby sa reportovala len taká "BuitdingUniť, ktorej
+vlastníkom je nerezident, ktorého sa reportovaný záznam týka.
+
+•
+
+Rozšíriť štruktúru spracovávaných dát o atribút, ktorý sa bude využívať
+pre jednoznačnú identifikáciu nehnuteľnosti-bytu. Hodnota z jednoznačne
+identifikovaného riadku sa bude reportovať v elemente „Propertf a aj v elemente
+„ Otherldentificationlnfo“.
+
+1.3. Úprava a doplnenie funkcionalít do modulu DAC2/CRS:
+
+a) Úprava formátu štatistík pre EÚ na základe upresňujúcej dokumentácie poskytnutej z EK.
+b) Úprava validácle elementu „Reporting perioď pre prijaté XML Reporty tak, aby formát
+s uvedenou časovou zónou bol akceptovaný. Ukladanie hodnôt uvedených v tomto
+elemente do databázy modulu a zobrazovanie týchto hodnôt v reportoch zostáva
+bez zmeny. Prijaté hodnoty s uvedenou časovou zónou budú zobrazované iba v detaile
+XML.
+c) Úprava validácie elementu „Reporting perioď pre prijaté XML Reporty tak, aby
+nedochádzalo k ich zamietaniu v prípade, že v elemente je uvedený dátum s rovnakým
+kalendárnym rokom ako je aktuálny kalendárny rok.
+d) Obmedzenie používania univerzálneho chybového kódu 99999 v stavových správach
+odoslaných do zahraničia.
+1.4. Úprava a doplnenie funkcionalít do modulu FATCA:
+
+a) Úprava podmienok pre vyhodnocovanie Podnetov o nepodaní podania tak, aby boli
+odosielané iba tým Fl, pre ktoré za aktuálne reportovacie obdobie existovala
+oznamovacia povinnosť. Dopracovať funkclonalitu na sledovanie dátumu vzniku a zániku
+GIIN, aby Fl, ktorá vznikla v roku, v ktorom GIIN aj zaregistrovala, nebola pokutovaná za
+nepodanie Oznámenia FATCA.
+b) Zapracovanie funkcionality pre príjem nulových FATCA podaní bez XML prílohy
+obsahujúcej reportované dáta.
+1.5. Úprava a doplnenie funkcionalít do moduiu DAC4/CbCR:
+
+a) Analýza a implementácia zmien vyplývajúcich z novej EK dokumentácie (FS a TS).
+b) Úprava tabuľkového zobrazovania dát uvedených v prijatých Recipročných DAC4/CbCR
+XML Reportoch na 1. úrovni Status monitoru tak, aby sa pre každý CbcBody element
+zobrazila samostatná sada tabuliek č. 1 až č. 3 v poradí uvedenom v zákone č. 442/2012.
+c) Úprava všetkých validácii, ktorých výsledkom je odoslanie zamietajúcej stavovej správy
+do zahraničia s chybovým kódom 99999 tak, že systém po vyhodnotení doteraz
+zapracovaných validácii predvyplní tieto výsledky do prijatých správ zo zahraničia
+v Status monitore tak, aby ich používateľ videl a mal možnosť túto správu ďalej manuálne
+validovať. Funkcionalitu je potrebné zapracovať odlišne pre správy prijaté z krajín EÚ
+a pre správy prijaté z krajín OECD. Pre správy prijaté z EÚ bude platiť funkcionalita
+uvedená v tomto bode. Pre správy prijaté z OECD, budú validácie nad rámec FS a TS
+s kódom 99999 zakomentované.
+Strana 2/11
+
+□JJECD
+CENTRAL EUROPE
+
+É S lp
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+1.6. Všeobecné požiadavky:
+
+a) Úprava tabuľky pre nahrávanie menových kurzov tak, aby bolo možné nahrávať rôzne
+kurzy menových prepočtov - pre DAC2/CRS a FATCA kurzy k poslednému dňu
+kalendárneho roka a pre DAC1 a DAC4/CbCR priemerné ročné kurzy. Zároveň je
+potrebné umožniť zobrazenie menových kurzov, ktoré sú aktuálne v systéme nahraté.
+b) Automatické zasielanie mailovej notifikácie na začiatku roka o potrebe nahrať nové
+kurzové lístky do systému.
+2.
+
+Etapa
+2.1. Úprava a doplnenie funkcionalít do modulu Stotožňovanie:
+
+a) Vytvorenie nového reportu určeného pre vyhľadávanie osôb, prijatých z modulov AVI
+do modulu pre stotožňovanie a stotožnených osôb, a to na základe mena, priezviska,
+jednoznačného identifikátora a adresy alebo kombinácie uvedených parametrov, a to
+bez ohľadu na reportovacie obdobie, druh výmeny, krajinu atď. Vyhľadávanie bude
+bez diakritiky s ignorovaním špeciálnych znakov a s vyhľadávaním aj časti mena/názvu.
+Pri vyhľadávaní medzi stotožnenými osobami sa budú zohľadňovať aj údaje z registra
+daňových subjektov.
+b) Zapracovanie novej funkcionality, ktorá umožní poverenému používateľovi FR SR
+prostredníctvom Reportu určeného pre manuálne stotožňovanie, zmeniť typ osoby
+reportovanej zo zahraničia. Osoba reportovaná zo zahraničia môže byť typu - FO/PO.
+Osoby, pre ktoré nastala zmena ich typu, budú vizuálne odlíšené od ostatných
+záznamov.
+c) Zapracovanie novej funkcionality, ktorá v procese manuálneho stotožňovania osôb
+umožni manuálne doplnenie JID pre osoby typu FO, v stave „Na manuálne
+stotožňovanie", resp. „Bez stotožnenia“.
+d) Rozšírenie množiny aktuálne prenášaných údajov zo stotožňovania do DWH_AVI tak,
+aby neboli prenášané len vybrané, ale všetky údaje spolu s poznámkou a ďalšími údajmi
+o priebehu stotožňovania.
+e) Zapracovanie zmeny vo funkcionalite prepočítavania súm, uvedených v XML správach
+z modulov AVI. Aktuálne sa z modulov AVI prenášajú do modulu pre stotožňovanie
+neprepočltané sumy, ktoré sa pred ich uložením prepočítavajú podľa kurzového lístka
+v tabuľke, ktorá aktuálne obsahuje priemerný kurz. Po implementovaní zmeny by sa dáta
+prijaté z modulov DAC1 a DAC4/CbCR mali prepočítavať podľa priemerného kurzu
+a dáta z FATCA a DAC2/CRS podľa kurzu ku koncu roka.
+f) Umožnenie opakovaného vrátenia záznamov s poznámkou (aj bez) z modulu DWH AVI
+naspäť do Modulu pre stotožňovanie a po opätovnom manuálnom stotožnení jeho
+zaslanie do modulu DWH_AVI (aj s poznámkou zo stotožňovania) a z toho vyplývajúce
+zobrazenie viac ako jednej poznámky prijatej ku konkrétnemu záznamu z DWH_AVI v
+Reporte určenom pre manuálne stotožňovanie a aj v Prehfadovom reporte výsledkov
+procesu stotožňovania.
+g) Úprava stavu s názvom „Bez stotožnenia", ktorý je aktuálne konečným stavom tak, aby
+sa dal zobraziť v Reporte určenom pre manuálne stotožňovanie, kde by s ním používateľ
+mohol pracovať, zmeniť ho na iný stav stotožnenia, príp. manuálne odoslať záznamy
+v tomto stave stotožnenia do DWH_AVI, a to aj hromadne/viacnásobným výberom.
+Automatické odosielanie záznamov v tomto stave stotožnenia bude deaktivované.
+h) Dopracovanie nového stavu stotožnenia s názvom “Nezáujmová osoba", ktorý by bol
+konečným stavom podobne ako stav „Nerezident, pričom tento stav bude možné
+nastaviť len manuálne.
+i) Dopracovanie funkcionality pre zasielanie dát vyhľadaných v CRFS do DWH_AVI aj
+pre osoby v stave „Automaticky stotožnená".
+j) Zapracovanie úpravy vo vyhľadávaní osôb v registri daňových subjektov. Za vyhľadané
+osoby sa budú považovať len tie osoby, ktoré sú v registri vedené ako daňové subjekty.
+
+Strana 3/11
+
+r
+
+cuirecza
+
+WMl
+
+CENTRAL EUROPE
+
+f in a n č n é r ia d it e ľ s t v o
+
+SLOVENSKEJ REPUBLIKY
+
+2.2. Úprava a doplnenie funkcionalít do modulu DAC1:
+
+a) Úpravy procesov spracovania dát z ÚGKK:
+•
+
+Zapracovanie zmeny v procese jednoznačnej identifikácie vlastníka nehnuteľnosti
+za účelom vyhodnotenia zmien v dátach o tomto vlastníkovi v rozdielnych dávkach
+prijatých z ÚGKK.
+
+•
+
+Zapracovanie zmeny vo vypĺňaní elementu „ShareType“ podľa definovaných
+pravidiel.
+
+•
+
+Zapracovanie zmeny vo vypĺňaní elementu „Title“. V prípade, že vyplnená hodnota
+má viac ako 10 znakov, nebude táto hodnota uvádzaná do XML súboru.
+b) Analýza a implementácia zmien vyplývajúcich z novej dokumentácie doručenej z EK (VM,
+FS a TS).
+c) Rozšírenie procesu spracovania dát prijatých z ÚGKK o možnosť manuálne, resp.
+automaticky podľa definovaných pravidiel upraviť dáta o osobách určených
+pre reportovanie do EÚ, ktoré majú meno a adresu uvedenú len vo voľnom formáte, a to
+pred vygenerovaním XML reportu určeného do zahraničia.
+d) Zjednotenie nahrávania výmenných kurzov do jednej tabuľky pre výmenu DAC1
+a DAC4/CbCR (nahrávanie priemerného ročného kurzu) s možnosťou zobrazovania
+prepočítaných súm a ich uloženia a prenosu tejto informácie do ďalších modulov
+slúžiacich na spracovanie prijatých dát. Zároveň generovanie mailových notifikácií:
+•
+
+Mailová notifikácia k nahratiu výmenných kurzov vždy do 15 dní od skončenia
+kalendárneho roka a mailová notifikácia, ktorá používateľa bude upozorňovať, že
+v systéme sa nachádzajú meny, ku ktorým chýba nahratý výmenný kurz v moduloch
+DAC1 a DAC4/CbCR.
+e) Zapracovanie novej funkcionality, ktorá umožní zobrazenie detailu XML správ odoslaných
+do zahraničia.
+f) Zapracovanie zmien vo funkcionalíte Status Monitora:
+•
+
+Rozšírenie množiny zobrazovaných dát jedného záznamu na 2.úrovni zobrazenia.
+V prípade, že je k jednému záznamu v XML súbore zo zahraničia uvedená viac ako
+jedna adresa alebo meno, každú z uvedených adries, resp. mien bude možné
+zobraziť na 2.úrovni zobrazenia cez príslušnú ikonu
+
+2.3. Úprava a doplnenie funkcionalít do modulu DAC2/CRS:
+
+a) Úprava validácie elementu „Mesasge ReflD“ pre prijaté XML Reporty tak, aby vo formáte
+identifikátora nedochádzalo ku krížovej kontrole roku oznamovacieho obdobia
+(uvedeného v elemente „Reporting perioď).
+b) Príprava nového štatistického reportu prijatých DAC2/CRS podaní od Fl tak, aby uvádzal
+tiež informácie o sumách zostatkov a platieb reportovaných jednotlivými Fl.
+c) Zapracovanie vyhodnocovania opravovaných záznamov v opravných Podaniach prijatých
+od Fl za účelom zneaktívnenia Podnetov na výzvu.
+d) Rozšírenie možnosti konfigurácie záujmových krajín, aby bolo možné samostatne
+upravovať zoznam povolených krajín v Podaniach od Finančných inštitúcií a zoznam
+krajín, pre ktoré budú v procese agregácie vytvorené XML Reporty (tieto dva zoznamy
+v súčasnosti nie sú oddelené).
+e) Zapracovanie výnimky do biznis validácie Podaní od Finančných inštitúcií voči zoznamu
+záujmových krajín, aby povolila reportovanie „Nedokumentovaných účtov“ s kódom
+krajiny SK.
+f) Príprava nového reportu s prehľadom všetkých reportovaných nedokumentovaných účtov
+od našich Fl.
+g) Zmena procesu validácie Prijatých XML Reportov s cieľom zasielať menší počet
+Odmietajúcich stavových správ.
+h) Analýza a implementácia zmien vyplývajúcich z novej dokumentácie poskytnutej zo
+strany EK.
+Strana 4/11
+
+C
+
+1
+
+J 1
+
+T
+
+E C
+
+Z O
+
+CENTRAL EURÓPE
+
+^ ||lf
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+______ ________________________________________
+
+i) Úprava vo všetkých funkcionalitách, využívajúcich na prepočet cudzej meny na menu
+EUR menové kurzy uvedené v kastomizačnej tabuľke, prepojenia na kurzy platné k
+poslednému dňu kalendárneho roka.
+(Poznámka: Doplnenie možnosti nahrávania menových kurzov platných k poslednému dňu
+kalendárneho roka do kastomizačnej tabuľky je predmetom úlohy uvedenej v časti „Všeobecné
+požiadavky'.)
+j) Report Status Monitor:
+•
+
+Úprava existujúcich stfpcov „Zostatok" a „Platba" na 3. úrovni reportu tak, aby
+uvádzali zostatok a platbu v prepočte na EUR podľa kurzového lístka importovaného
+používateľom formou ,,.xls“. V prípade, že modul nemá k dispozícii nejakú menu,
+upozorní na to užívateľa v pop-up okne. Kým používateľ nenahrá aktualizovaný
+kurzový lístok, bude sa zobrazovať zostatok/platba v reportovanej mene, inej ako
+EUR, ako je uvedené v XML.
+
+•
+
+Doplnenie existujúcej funkcionality pre ukončenie manuálnej validácie Prijatého XML
+Reportu tak, aby mal používateľ možnosť sa finálne rozhodnúť o odoslaní Stavovej
+správy. Svoje rozhodnutie vyjadrí potvrdením upozornenia v pop-up okne, či si
+skutočne praje odoslať do zahraničia Akceptačnú stavovú správu/alt. Akceptačnú
+stavovú správu s výhradou/alt. Zamietajúcu stavovú správu. Upraviť proces
+manuálnej validácie tak, aby užívateľ vykonával rovnaké kroky pred uložením
+akejkoľvek validácie a systém zmenil status až po ukončení validácie.
+
+•
+
+Doplnenie zobrazovania detailu popisu chyby v stavovej správe tak, aby bolo možné
+zobraziť vždy celý text, bez ohľadu na jeho veľkosť.
+k) Štatistika subjektov, účtov, typov platieb:
+•
+
+Zapracovanie stĺpca so sumou zostatkov na účtoch za každú krajinu prepočítané
+na EUR a reportovacie obdobie. Platí pre report prijatých XML aj pre report
+odoslaných XML.
+
+•
+
+Zohľadňovanie korekcie v napočítaní celkového zostatku a pohybov na účtoch
+za každú krajinu a reportovacie obdobie.
+
+•
+
+Doplnenie vysvetliviek k jednotlivým stĺpcom štatistiky.
+
+2.4. Úprava a doplnenie funkcionalít do modulu FATCA:
+
+a) Generovanie nulového XML Reportu, ktorý bude odoslaný do IRS.
+b) Zapracovanie novej funkcionality pre vyhodnocovanie opravovaných záznamov
+v opravných FATCA podaniach prijatých od Fl za účelom zneaktívnenia Podnetov
+na výzvu.
+c) Analýza a implementácia zmien vyplývajúcich z novej IRS dokumentácie.
+d) Dopĺňanie do reportu podnetov DIČ a Názov Fl pre všetky typy podnetov.
+e) Doplnenie reportu Prijatých FATCA podaní (nie obsah) o informáciu o pokute (dátum
+odoslania Podnetu o nepodaní podania do ISFS a výšku pokuty).
+f) Vo všetkých funkcionalitách, využívajúcich na prepočet cudzej meny na menu EUR
+menové kurzy uvedené v kastomizačnej tabuľke, upraviť prepojenie na kurzy platné
+k poslednému dňu kalendárneho roka.
+(Poznámka: Doplnenie možnosti nahrávania menových kurzov platných k poslednému dňu
+kalendárneho roka do kastomizačnej tabuľky je predmetom úlohy uvedenej v časti „Všeobecné
+požiadavky“.)
+2.5. Úprava a doplnenie funkcionalít do modulu DAC4/CbCR:
+
+a) Úprava validácie elementu „Reporting periód“ pre Recipročné DAC4/CbCR XML Reporty
+tak, aby formát s uvedenou časovou zónou bol akceptovaný. Ukladanie hodnôt
+uvedených v tomto elemente do databázy modulu DAC4/CbCR a zobrazovanie týchto
+hodnôt v reportoch zostáva bez zmeny. Prijaté hodnoty s uvedenou časovou zónou budú
+zobrazované iba v detaile XML.
+
+Strana 5/11
+
+□JTE C D
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+2.6. Podporný nástroj:
+
+V rámci zabezpečovania činností pre moduly AVI (DAC1, FATCA, DAC2/CRS, DAC4/CbCR)
+a MOSS požadujeme vypracovanie analýzy a následnú implementáciu nástroja, ktorý bude
+umožňovať monitorovanie spracovania správ, ktoré sú odosielané z týchto modulov
+do ostatných štátov a zároveň správ, ktoré sú do týchto modulov prijímané z iných štátov.
+Nástroj by mal umožňovať monitoring všetkých typov správ, ktoré sú predmetom výmeny
+v danom module, tak aby bolo zrejmé, či daný proces prijímania alebo odoslania správ bol
+korektne ukončený so všetkými príslušnými konečnými statusmi.
+Nová funkcionalita bude zabezpečovať:
+a) Pokročilé vyhľadávanie podľa viacerých identifikátorov a vstupných parametrov.
+b) Monitorovanie nielen prijatých a odoslaných validných správ zobrazených v Status
+monitoroch jednotlivých modulov, ale aj časti nevalidných správ, ktoré sa aktuálne
+v Status monitoroch nezobrazujú, a tak nie je možné odsledovať ich finálne spracovanie v
+daných moduloch.
+c) Vykonávanie akcií, ktoré umožnia riešenie neštandardných situácií ako je opakované
+odoslanie rovnakého reportu alebo stavovej správy.
+d) Zobrazenie vybraných XML správ, ktoré budú pre tieto účely ukladané do systému.
+V súvislosti s vývojom tohto nástroja požadujeme zjednotenie spôsobu ukladania
+všetkých relevantných XML správ. Toto zjednotenie je požadované z dôvodu jednotného
+spôsobu a prístupu nástrojov pre zobrazenie XML pre potreby technického a biznis tímu
+FR SR.
+3.
+
+Etapa
+3.1. Úprava a doplnenie funkcionalít do modulu Stotožňovanie:
+
+a) Zapracovanie novej funkcionality pre automatické a manuálne priraďovanie DÚ, ktorý
+aktuálne nie je uvedený v oficiálnom číselníku DÚ, ktorý sa v module pre stotožňovanie
+využíva. Konkrétne ide oDÚ s názvom „DÚ VDS1 (od 1.1.2019 „DÚ VHS“) a
+zapracovanie novej funkcionality, ktorá umožní automatické priradenie daňových úradov
+po manuálnom a automatickom stotožnení podľa údajov z ISFS, resp. DWH.
+b) Zapracovanie zmeny vo funkcionalite zadávania poznámok v Reporte určenom
+pre manuálne stotožňovanie osôb. Veľkosť pop-up okna určeného pre vpisovanie
+poznámky upraviť tak, aby bolo možné vidieť celý text vpísanej/vpisovanej poznámky a to
+aj v prípade, ak je dlhšia ako jeden riadok. Zmenu je potrebné implementovať vo
+všetkých stĺpcoch reportu, v ktorých je možné uviesť poznámku.
+c) Zapracovanie zmeny v zobrazovaní bublinovej nápovedy v stĺpcoch Reportu určeného
+pre manuálne stotožňovanie a Prehfadového reportu výsledkov procesu stotožňovania
+zobrazujúcich text tak, aby sa v nej zobrazoval celý text uvedený v poli, ku ktorému sa
+bublinová nápoveda zobrazuje.
+d) Zapracovanie novej funkcionality, ktorá umožní poverenému používateľovi FR SR
+v procese manuálneho stotožňovania „zduplikovať' aktuálne spracovávaný záznam.
+Po „zduplikovanľ záznamu vzniknú v module pre stotožňovanie dve osoby, ktorým
+je možné priradiť rozdielne stavy stotožnenia.
+e) Zapracovanie novej funkcionality pre zobrazovanie kompletnej histórie jednotlivých
+záznamov v stotožňovaní od ich prijatia do modulu až po nadobudnutie aktuálneho stavu.
+Ak je záznam zaradený do hromadnej dávky pre CRFS, používateľ bude vidieť dátum jej
+nastaveného generovania, a pod.
+f) Doplnenie novej informácie do 2.úrovne Reportu pre manuálne stotožňovanie. Konkrétne
+ide o informáciu o tom, či záznam spĺňa min. množinu dát potrebnú pre evidenciu
+v systéme CRFS, a ak áno, kedy bol zaradený do iniclálnej dávky, a kedy bola iniciálna
+dávka spracovaná.
+g) Zobrazenie ID záznamu, informácie o tom, či záznam spĺňa min. množinu dát pre
+evidenciu v systéme CRFS, dátum, ku ktorému bol zaradený do hromadného výberu pre
+_________ CRFS a dátum poslednej aktualizácie záznamu z1. úrovne v hlavičke druhej úrovne
+Strana 6/11
+
+c i_ n r c = ( = a
+CENTRAL EUROPE
+
+fe á f
+« ¡ f
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Reportu určeného pre manuálne stotožňovanie a Prehľadového reportu výsledkov
+stotožňovania.
+h) Zapracovanie zmeny v štruktúre vybraných integračných rozhraní so systémom CRFS.
+Súbory podľa nových integračných rozhraní budú obsahovať napr. údaje o tom, či je
+osoba evidenčne chránená, alebo že osoba neexistuje. Modul pre stotožňovanie musf
+tieto súbory prijať, spracovať a zobraziť.
+3.2. Úprava a doplnenie funkcionalít do modulu DAC1:
+
+a) Zapracovanie zmien vo funkcionalite Status Monitora:
+•
+
+Doplnenie stĺpca s názvom „Poznámka“ do 1.úrovne zobrazenia dát v sekcii „Prijaté“
+aj „Odoslané“ správy za účelom evidencie riešenia prevádzkových situácií.
+
+•
+
+Zmena v zobrazení hodnoty v poli s názvom „ID správÝ' na 1.úrovni zobrazenia dát
+v sekcii „Prijaté“ aj „Odoslané“ správy. Pole s názvom „ID správý' je určené pre
+vstup do 2.úrovne zobrazenia, a preto všetky hodnoty, ktoré toto pole obsahuje, sú
+podčiarknuté. Po zmene sa správy, ktoré neobsahujú žiadne záznamy, resp. správy,
+ktorých záznamy nie je možné zobraziť na 2.úrovni zobrazenia, budú zobrazovať
+bez podčiarknutia.
+
+•
+
+Rozšírenie možnosti zadania výberových kritérií pre filtrovanie správ v závislosti
+od ich odosielateľa. Aktuálne je možné správy podľa tohto kritéria filtrovať na
+„Prijaté“ a „Odoslané“. Po zmene bude možné „Prijaté správy“ filtrovať na správy
+prijaté zo „Zahraničia“ alebo zo „SR“.
+
+•
+
+Zmena v spracovaní a akceptácií správ prijatých zo SR v Status monitore.
+
+•
+
+Doplnenie stĺpca s názvom „Suma“ a „Mena“ do 2. úrovne zobrazenia Status
+Monitora v sekcii „Prijaté správy". V tomto stĺpci sa bude zobrazovať súčet
+reportovaných súm jedného záznamu na základe vopred definovaných pravidiel
+a odstrániť stĺpec s názvom „Číslo prijímateľa dôchodkď.
+b) Úprava užívateľského menu DAC1 - odstránenie „DAC1: Stotožňovanie“ a ďalších
+reportov/štatistík, ktoré sa nevyužívajú.
+c) Doplnenie upozornenia o spustení generovania správ do príslušných štátov do programu
+pre odosielanie nulových správ.
+3.3. Úprava a doplnenie funkcionalít do modulu DAC2/CRS:
+
+a) Report Status Monitor:
+•
+
+•
+
+Zapracovanie možnosti vo výberových kritériách filtrovať XML Reporty podľa DIČ
+finančnej inštitúcie. Na základe DIČ modul zobrazí tie správy, v ktorých reportovala
+daná finančná inštitúcia reportované účty.
+Pre odchádzajúce XML Reporty umožniť zobrazenie „Detailu XML“.
+
+•
+
+Doplnenie hodnoty „DocRefld F ľ na 3. úrovni reportu v záhlaví reportu.
+
+•
+
+Úprava preklikávacích polí „ID XML Reportď a „ID Stavovej správy“, aby neboli
+podčiarknuté v prípade, že kliknutim by sa neudiala žiadna akcia (pri Nulových
+správach a Akceptačných stavových správach bez výhrady).
+b) Štatistika subjektov, účtov, typov platieb:
+•
+
+Úprava formátu výberového kritéria „Reportovacie obdobie“ tak, aby sa zadával iba
+rok miesto celého dátumu.
+c) Report Prehľad Podaní od Fl:
+•
+
+Úprava formátu výberového kritéria „Reportovacie obdobie“ tak, aby sa zadával iba
+rok miesto celého dátumu.
+
+•
+
+Zapracovanie nového stĺpca „Typ majiteľa účtiŕ na 2. úrovni reportu.
+
+•
+
+Úprava načítania reportu za účelom zrýchlenia práce s reportom v najčastejšie
+využívaných kombináciách výberových kritérií.
+d) Štatistika prijatých podaní od Fl. Úprava formátu výberového kritéria „Reportovacie
+obdobie“ tak, aby sa zadával iba rok miesto celého dátumu.
+Strana 7/11
+
+G
+
+i _
+
+n
+
+j " e
+
+c
+
+o
+
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+e) Štatistika prijatých a odoslaných reportov:
+•
+•
+
+Úprava formátu výberového kritéria „Reportovacie obdobie“ tak, aby sa zadával iba
+rok miesto celého dátumu.
+Úprava existujúceho výberového kritéria - voľby „Krajiny EÚ“ a „Krajiny OECD" tak,
+aby pri otvorení štatistiky boli predvolené zaškrtnuté.
+
+•
+
+Úprava existujúceho výberového kritéria - „ Typ správy" - doplnenie možnosti výberu
+z povolených hodnôt kritéria.
+f) Zapracovanie manuálneho odosielania Podnetov o nepodaní podania. Požiadavka sa
+týka iba odosielania 2. až n-tého podnetu. Odosielanie 1. Podnetu o nepodaní podania
+zostáva bez zmeny.
+g) Úprava znenia jednotnej mailovej notifikácie odosielanej na BT FR SR v prípadoch:
+•
+
+Ak do modulu nie je v 40-dňovej lehote prijatá Informácia o doručenej výzve z ISFS,
+
+•
+
+Ak je Informácia o doručenej výzve k podnetu na výzvu z ISFS doručená v čase, keď
+už je predmetné podanie opravené,
+
+•
+
+Ak Fl v termíne očakávanej opravy (dátum uvedený v Informácii o doručenej výzve
+z ISFS) neopraví chyby (odosiela sa spolu s Oznámením o nesplnenej povinnosti Fl
+odstrániť chyby).
+h) Dodanie aplikácie, ktorá umožní do modulu DAC2/CRS nahrať Prichádzajúce XML
+Reporty a Stavové správy pre účely používateľského testovania modulu.
+i) Úprava procesu agregácie, aby boli v položke DocRefld vo vytvorených XWIL Reportoch
+vygenerované jedinečné hodnoty DocRefld miesto hodnôt prijatých v Podaniach od Fl.
+3.4. Úprava a doplnenie funkcionalít do modulu FATCA:
+
+a) Zapracovanie zmeny vo vyhodnocovaní splnenia podmienok pre odoslanie Podnetu
+o nepodaní podania tak, aby systém bral do úvahy, že Fl mala vo vyhodnocovanom čase
+zaregistrovaný GIIN v IRS/module FATCA a aj napriek jeho zrušeniu pred termínom
+odosielania podnetov jej nezanikla povinnosť podať FATCA dáta.
+b) Zapracovanie zmeny prístupu k spôsobu odosielania Podnetov o nepodaní podania.
+Z možnosti zrušiť odoslanie vygenerovaného podnetu na možnosť odoslať vygenerovaný
+podnet. Požiadavka sa týka iba odosielania 2. až n-tého podnetu. Odosielanie 1. Podnetu
+o nepodaní podania zostáva bez zmeny.
+c) Úprava reportu podnetov tak, aby sa v hlavičke zobrazovali hodnoty zadaných
+výberových kritérií, na základe ktorých sú zobrazované reportované údaje. Do päty
+reportu doplniť súčtový údaj o počte zobrazených záznamov. Pre stĺpec Podnet upraviť
+bublinovú nápovedu na „Dátum odoslania podnetď.
+d) Úprava znenia jednotnej mailovej notifikácie odosielanej na BT FR SR v prípadoch:
+•
+
+Ak do modulu FATCA nie je v 40-dňovej lehote prijatá Informácia o doručenej výzve
+z ISFS,
+
+•
+
+Ak je Informácia o doručenej výzve k podnetu na výzvu z ISFS doručená v čase, keď
+už je predmetné podanie opravené,
+
+•
+
+Ak Fl v termíne očakávanej opravy (dátum uvedený v Informácii o doručenej výzve
+z ISFS) neopraví chyby (odosiela sa spolu s Oznámením o nesplnenej povinnosti Fl
+odstrániť chyby).
+e) Úprava zobrazenia kastomizačnej tabuľky tak, aby boli pre používateľa viditeľné všetky tri
+stĺpce naraz bez skrolovania, s možnosťou prispôsobenia šírky jednotlivých stĺpcov podľa
+potreby.
+f) Dopracovanie do štatistického reportu "štatistika odoslaných FATCA podaní a prijatých
+IDEŠ alertov/IRS notiľ výberové kritérium „Dátum odoslania“, na základe ktorého sa
+do štatistiky započítajú iba štatisticky sledované údaje uvedené vo FATCA podaniach
+odoslaných do IRS za obdobie zvolené používateľom.
+g) Zapracovanie kontroly na existenciu EKR čísla uloženého v module FATCA pre FATCA
+Strana 8/11
+
+□JJECD
+CENTRAL EUROPE
+
+íS“!g*|Si5l
+K
+
+m
+
+ÉI
+
+W w
+
+f in a n č n é r ia d it e ľ s t v o
+
+SLOVENSKEJ REPUBLIKY
+
+podania a Registrácie FATCA tak, aby sa neprepisovali údaje už uložené v databáze
+s rovnakým EKR číslom.
+h) Doplnenie 2. úrovne reportu Prijaté/odoslané FATCA podania (obsah) o stĺpec
+„AcctHolderType“, v ktorom sa budú zobrazovať kódy z číselníka FATCA101-105
+a v bublinovej nápovedl sa zobrazí textový popis z číselníka.
+3.5. Úprava a doplnenie funkcionalít do modulu DAC4/CbCR:
+
+a) Zapracovanie novej funkcionality pre vyhodnocovanie opravovaných záznamov
+v opravných Správach DAC4/CbCR prijatých od OS za účelom zneaktívnenia Podnetov
+na výzvu.
+b) Zapracovanie zmien vyplývajúcich z požiadavky na zmenu v rámci integrácie na ISFS
+za účelom odosielania potrebných podkladov:
+•
+
+Výzva na podanie Oznámenia DAC4/CbCR,
+
+•
+
+Pokuta za nepodanie Oznámenia DAC4/CbCR,
+
+•
+
+Výzva na podanie Správy DAC4/CbCR (na základe údajov v Oznámení
+DAC4/CbCR).
+Zapracovanie funkcionality úhrnnej pokuty a rozšírenie zdôvodnenia Podnetu na pokutu
+za nepodanie správy.
+c) Úprava znenia jednotnej mailovej notifikácíe odosielanej na BT FR SR v prípadoch:
+•
+
+Ak do modulu DAC4/CbCR nie je v 40-dňovej lehote prijatá Informácia o doručenej
+výzve z ISFS,
+
+•
+
+Ak je Informácia o doručenej výzve k podnetu na výzvu z ISFS doručená v čase, keď
+už je predmetné podanie opravené,
+
+•
+
+Ak OS v termíne očakávanej opravy (dátum uvedený v informácii o doručenej výzve
+z ISFS) neopraví chyby (odosiela sa spolu s Oznámením o nesplnenej povinnosti
+OS odstrániť chyby).
+d) Úprava zobrazenia kastomizačnej tabuľky tak, aby boli pre používateľa viditeľné všetky tri
+stĺpce naraz bez skrolovania, s možnosťou prispôsobenia šírky jednotlivých stĺpcov podľa
+potreby.
+e) Doplnenie existujúcej funkcionality pre ukončenie manuálnej validácie prijatého
+Recipročného DAC4/CbCR XML Reportu v Status monitore tak, aby mal používateľ
+možnosť sa finálne rozhodnúť o odoslaní Stavovej správy. Svoje rozhodnutie vyjadri
+potvrdením upozornenia v pop-up okne, či si skutočne praje odoslať do zahraničia
+Akceptačnú Stavovú správu/alt. Akceptačnú Stavovú správu s výhradou/alt. Zamietajúcu
+Stavovú správu.
+f) Doplnenie existujúcej funkcionality pre manuálnu validáciu prijatého Recipročného
+DAC4/CbCR XML Reportu v Status monitore o farebnú vizualizáciu tých záznamov,
+ktorým bola na ďalších úrovniach Status monitoru priradená výhrada.
+g) Zapracovanie do reportu prichádzajúcich správ zo zahraničia v Status monitore
+a do reportu prijatých správ od oznamujúceho subjektu zobrazenie všetkých prijatých
+súm v mene EUR. V prípade, že sa v nahratom kurzovom lístku nebude nachádzať
+požadovaná mena, bude na to používateľ upozornený v pop-up okne. Pokiaľ používateľ
+nenahrá aktualizovaný kurzový lístok, bude sa v reportoch zobrazovať suma aj mena tak,
+ako bola prijatá zo zahraničia/od oznamujúceho subjektu.
+h) Úprava procesu automatického párovania Správ DAC4/CbCR a Recipročných
+DAC4/CbCR XML Reportov na Oznámenia DAC4/CbCR na základe DIČ uvedeného
+v prijatých dátach tak, aby boli zohľadňované Oznámenia DAC4/CbCR s príznakom „X"
+(zrušenie) a Oznámenia DAC4/CbCR prijaté k jednému DIČ za rôzne oznamovacie
+obdobia. Zároveň je potrebné doplniť do existujúceho pop-up okna zobrazujúceho
+zoznam EKR čísel prepojených Oznámení DAC4/CbCR DIČ, na základe ktorého bolo
+prepojenie zrealizované a zoznam DIČ, ktoré zostali neprepojené s Oznámeniami
+DAC4/CbCR.
+i)_Doplnenie procesu vyhodnocovania podmienok pre odosielanie Podnetov o nepodaní
+______ správy na základe prijatých Oznámení DAC4/CbCR, ak OS nepodal žiadnu Správu
+Strana 9/11
+
+ci_firtHczi=)
+CENTRAL EUROPE
+
+m
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+DAC4/CbCR za každé Oznamovacie obdobie nasledujúce po prijatí Oznámenia
+DAC4/CbCR.
+
+3.6. Všeobecné požiadavky:
+
+a) Vytvorenie novej komplexnej funkcionality pre manuálne odosielanie Stavových správ.
+Zapracovanie sledovania stavov Stavových správ odoslaných do CCN/CTS na základe
+prijatia CoA a CoD správ a alertov.
+b) Doplnenie funkcionality pre manuálne párovanie Stavových správ prijatých k odoslaným
+XML Reportom bez uvedenia OriginalMessageRefld alebo s uvedením neexistujúceho
+Originál MessageRefId.
+c) Úprava užívateľského menu SAP tak, aby boli moduly v užívateľskom menu zoradené
+a premenované nasledovne:
+•
+
+DAC1
+
+•
+
+DAC2/CRS
+
+•
+
+DAC4/CbCR
+
+•
+
+FATCA
+
+•
+
+Funkcie z bázy
+
+•
+
+Stotožňovanie
+
+Riešenie bude realizované etapovité podľa požiadaviek definovaných objednávateľom nasledovne:
+1.
+
+Etapa
+
+Termín realizácie do 12.12.2018.
+V rámci tejto etapy bude dodaná analýza a realizovaná implementácia.
+2.
+
+Etapa
+
+Termín realizácie do 25.03.2019.
+V rámci tejto etapy bude dodaná analýza a realizovaná implementácia.
+3.
+
+Etapa
+
+Termín realizácie do 14.05.2019
+V rámci tejto etapy bude dodaná analýza a realizovaná implementácia.
+Uvedené etapy budú implementované podľa príslušnej analýzy, ktorá bude pre účely každej
+z jednotlivých etáp vypracovaná.
+
+#
+
+Príloha
+
+Formát
+
+Prílohy špecifikované v horeuvedenom zozname tvoria neoddeliteľnú súčasť tohto zmenového listu.
+
+Etapa 1 :
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+12.12.2018
+2018
+180 066,14,- EUR
+36 013,23,- EUR
+216 079,37,- EUR
+
+Etapa 2:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+
+25.03.2019
+4 570
+407 781,10,- EUR
+Strana 10/11
+
+□ .rxeczo
+CENTRAL EUROPE
+
+DPH
+Cena v EUR s DPH
+
+Ip S p
+W W
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+81 556,22,- EUR
+489 337,32,- EUR
+
+Etapa 3:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+14.05.2019
+7 003
+624 877,69,- EUR
+124 975,54,- EUR
+749 853,23,- EUR
+
+Objednávateľ a zhotoviteľ sa pre realizáciu tohto ZL dohodli, že predmetné etapy budú fakturované
+samostatne po zmluvne definovanom akceptačnom konaní.
+Spolu:
+
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+Zodpovedný zástupca zo strany zhotoviteľa
+Zodpovedný zástupca zo strany objednávateľa
+
+13 591
+1 212 724,93,-EUR
+242 544,99,- EUR
+1 455 269,92,- EUR
+.......​............​..............
+......​...........​..............
+
+Reštrikcie, poznámky k funkcionalite____________________________________________________
+Objednávateľ zabezpeč! pre zhotoviteľa súčinnosť v dostatočnom rozsahu a požadovanom čase
+vo forme konzultácií, dodania príslušných podkladov, údajov, výstupov a spolupráce zástupcov
+FR SR, ako aj s dodávateľmi dotknutých IS potrebných pre realizáciu riešenia v Stotožňovaní, DAC1,
+DAC2/CRS, FATCA, DAC4/CbCR a MOSS.
+
+Strana 11/11
+
+ci_nrecza
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+CENTRAL EUROPE
+
+Kalkulácia ZK 016/2018
+
+rra c n o s r
+P.č.
+
+Č in n o s ť
+
+je a n o tK .
+
+v č lo v e k o -
+
+su m a
+
+S u m a bez
+
+S a d zb a
+
+S u m a D PH
+
+S u m a celko m
+
+h o d in á c h
+
+v EUR
+
+D P H v EU R
+
+D PH v %
+
+v EUR
+
+v EU R
+
+1
+
+Riadiace práoe
+
+1 345
+
+89 ,23
+
+120 014 ,3 5
+
+2 0 ,0 0
+
+24 002,87
+
+144 0 17,22
+
+2
+
+Analytické práce spolu
+
+4139
+
+89,23
+
+3 6 9 322 ,9 7
+
+2 0 ,0 0
+
+73 864,59
+
+4 4 3 1 8 7 ,5 6
+
+3
+
+Dizajnérske práce
+
+153
+
+89,23
+
+13 652 ,1 9
+
+2 0 ,0 0
+
+2 7 3 0 ,4 4
+
+16 382 ,6 3
+
+4
+
+Programátorské práce
+
+4 549
+
+89 ,23
+
+4 0 5 907 ,2 7
+
+2 0 ,0 0
+
+81 181,45
+
+4 8 7 088,72
+
+5
+
+Testovacie práce u zhotoviteľa
+
+2 728
+
+89 ,23
+
+2 4 3 419 ,4 4
+
+20,00
+
+48 6 8 3 ,8 9
+
+292 103,33
+
+6
+
+Databázová a systémová podpora u zhotoviteľa
+
+48
+
+89 ,23
+
+4 283 ,0 4
+
+2 0 ,0 0
+
+856,61
+
+5 139,65
+
+7
+
+Zapracovanie zm ien do dokumentácie
+
+124
+
+89,23
+
+11 064,52
+
+2 0 ,0 0
+
+2 212,90
+
+13 277 ,4 2
+
+8
+
+Podpora inštalačných prác u objednávateľa
+
+95
+
+89,23
+
+8 4 7 6 ,8 5
+
+2 0 ,0 0
+
+1 6 9 5 ,3 7
+
+10 172,22
+
+9
+
+Databázová a systémová podpora u objednávateľa
+
+114
+
+89,23
+
+10 172,22
+
+2 0 ,0 0
+
+2 0 3 4 ,4 4
+
+12 206 ,6 6
+
+10
+
+Podpora zhotoviteľa pri testovaní objednávateľom
+
+296
+
+89,23
+
+2 6 4 1 2 ,0 8
+
+2 0 ,0 0
+
+5 282,42
+
+31 694 ,5 0
+
+242 544,99
+
+1 4 5 5 269 ,9 2
+
+S P O LU
+
+Dňa
+
+1 3 591
+
+......​. . . .​. .......
+
+1 2 1 2 724 ,9 3
+
+

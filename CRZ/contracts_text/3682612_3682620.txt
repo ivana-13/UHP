@@ -1,0 +1,437 @@
+ci_n
+_reczQ
+CENTRAL EUROPE
+
+(ä fp
+^ 8 |{ ?
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Zmenový list číslo 013/2018
+Objednávateľ
+Zhotoviteľ
+Produkt
+
+Finančné riaditeľstvo SR
+Asseco Central Europe, a.s.
+DWH FR SR
+
+Názov zadania
+Analýza a implementácia požiadaviek pre rozšírenie funkcionalít dátového skladu (DWH):
+1. Zapracovanie nových príznakov „poslednýplatný“ z ISFS-SD/SAP BW do DWH.
+2. Modul Externé výstupy - vytvorenie nového výstupu pre NBS.
+3. Nahradenie aktuálnej právnej formy právnou formou platnou v čase v príslušných
+nadstavbových aplikáciách DWH.
+4. Modul Analytický list - zapracovanie číselníkov kjednotlivým šablónam pre Miestne
+zisťovania (MZ).
+5. Nasadenie partícií v dataminingových (DM) tabuľkách.
+6. Zapracovanie požiadaviek na úpravu Zábezpeky v dataminingových modeloch DM41
+a DM43.
+7. Zapracovanie odpísaných predpisov z dôvodu zániku subjektu v systéme RDS
+do dataminingových modelov DM41 a DM43.
+8. Rozšírenie rozhrania pre systém RAN o nové vzory daňových priznaní.
+Popis zadania_____________________________________________________________________
+V rámci zabezpečenia potrieb FR SR požadujeme vypracovať analýzu a realizovať implementáciu
+pre rozšírenie funkcionalít dátového skladu nasledovne:
+1. Zapracovanie nových príznakov „posledný platný“ z ISFS-SD/SAP BW do DWH.
+Z dôvodu zmeny logiky príznakov „posledný platný' na strane zdrojového systému ISFS-SD/SAP
+BW bude potrebné zapracovať nové príznaky „posledný platný“ do DWH pre tieto typy daní:
+• Daň z príjmov fyzických osôb (DPFO)
+•
+•
+
+Daň z príjmov právnických osôb (DPPO)
+Daň DPH
+
+•
+•
+
+Daň z príjmov zo závislej činnosti (ZČ)
+Daň z motorových vozidiel (DzMV)
+
+Realizácia bude pozostávať najmä z nasledovných činností:
+a) návrh a príprava harmonogramu postupu spracovania nových príznakov podľa typov daní
+a období,
+b) rozšírenie rozhrania z ISFS-SD/SAP BW do DWH o nové položky pre jednotlivé príznaky,
+c) návrh a príprava špeciálneho režimu spracovania dávok s novými príznakmi zvlášť
+pre každý typ dane,
+d) spracovanie dávok s novými príznakmi do DWH,
+e) zapracovanie nového príznaku do aplikačných nadstavieb DWH,
+f) vyhodnotenie rozdielov medzi pôvodnými príznakmi a novými príznakmi,
+g) úprava dataminingového modelu DM3 na výpočet podľa pôvodných príznakov.
+
+Strana 1/4
+
+□ jjp ra
+CENTRAL EUROPE
+
+2.
+
+FINANČNÉ RIADITEĽSTVO
+E
+S
+ISLOVENSKEJ
+REPUBLIKY
+
+Modul Externé výstupy - vytvorenie nového výstupu pre NBS.
+V module „Externé výstupy“ bude vytvorený nový externý výstup „NBS_DPht‘ pre Národnú banku
+Slovenska, ktorý bude spolu so vstupnými parametrami analogický k výstupu pre štatistický úrad
+„ER5 - DPH“ s tým rozdielom, že:
+a) pre fyzické osoby bude nahradený identifikátor DIČ vypočítaným identifikátorom podľa
+vzorca definovaného zo strany FR SR,
+b) pre určenie typu osoby „FO“ bude využitý objekt „ZBP_001
+
+3.
+
+Nahradenie aktuálnej právnej formy právnou formou platnou v čase v príslušných
+nadstavbových aplikáciách DWH.
+Pre účely korektného zobrazovania údajov o právnej forme z tabuľky daňových subjektov bude
+potrebné nahradiť aktuálnu právnu formu právnou formou platnou v čase, ku ktorému sa
+jednotlivé výpočty vzťahujú.
+Zmenu určenia právnej formy podľa jej stavu k sledovanému obdobiu bude potrebné analyzovať
+a implementovať pre nasledovné nadstavbové aplikácie DWH:
+a) Dataminingové modely DM41, DM43, DM3, DM31, DM5, DM6, DM61 a DM7,
+b) Externé výstupy.
+
+4.
+
+Modul Analytický list - zapracovanie číselníkov k jednotlivým šablónam pre Miestne
+zisťovania (MZ).
+S cieľom rozšírenia údajov zobrazovaných v „Analytickom liste“ pre MZ v časti „Detail MZ' o údaji
+z detailu vybraných šablón dokumentov súvisiacich s výkonom MZ (17 šablón dokumentov
+na strane zdrojového IS) budú zapracované číselníky k jednotlivým šablónam MZ pre vybrané
+atribúty šablón. Úprava bude obsahovať:
+a) prípravu dátových štruktúr pre uloženie číselníkov šablón,
+b) jednorazové spracovanie obsahu číselníkov pre naplnenie do dátových štruktúr,
+c) prípravu potrebných metadát a logiky pre využitie obsahu číselníkov v zobrazovaní
+jednotlivých šablón MZ v DWH.
+
+5.
+
+Nasadenie partícií v dataminingových (DM) tabuľkách.
+Z dôvodu efektívneho výberu hodnôt a tiež výmazu starých prepočtov bude potrebné nasadenie
+partícií v DM tabuľkách podľa čísla prepočtu. Realizácia bude pozostávať najmä z:
+a)
+
+určenia zoznamu DM tabuliek, pre ktoré bude potrebné realizovať partície podľa vhodne
+zvolených kritérií,
+
+b)
+
+návrhu partícií predmetných DM tabuliek na základe existujúcich dát,
+
+c) realizácie partícií do vybraných DM tabuliek.
+6. Zapracovanie požiadaviek na úpravu Zábezpeky v dataminingových modeloch DM41
+a DM43.
+Na základe požiadaviek používateľov bude realizovaná úprava Zábezpeky v dataminingových
+modeloch DM41 a DM43 nasledovne:
+a) do výšky Zábezpeky sa bude započítavať nižšia suma nedoplatkov zistená v RDS,
+ak dátum žiadosti je menší ako 1.3.2015,
+b) do výšky Zábezpeky sa bude započítavať suma nedoplatkov zistená k dátumu žiadosti
+z ISFS-SD/SAP BW, ak dátum žiadosti je väčší ako 1.3.2015,
+c) v prípade nezamknutých prepojených subjektov bude musieť byť splnená podmienka,
+že suma nedoplatkov k dátumu žiadosti >= 1000€ (aj k dátumu konca pôsobenia),
+Strana 2/4
+
+□JTECD
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+d) v prípade zaniknutých prepojených subjektov sa k dátumu žiadosti bude zisťovať,
+či zistené nedoplatky k dátumu zániku >= 1000€ boli uhradené (zaplatené) v plnej výške,
+e) v prípade zániku prepojeného subjektu z dôvodu zlúčenia POZA sa k dátumu žiadosti
+budú započítavať aj tieto na nástupcu preúčtované nedoplatky POZA,
+f)
+
+registrátorom bude sprístupnená obrazovka s detailnými údajmi k Zábezpeke
+„Zábezpeka - zoznam prepojených subjektov".
+
+7. Zapracovanie odpísaných predpisov z dôvodu zániku subjektu v systéme RDS
+do dataminingových modelov DM41 a DM43.
+Pre účely spresnenia výpočtu Zábezpeky na základe doplnenia chýbajúcich dát z ISFS-SD/SAP
+BW o údaje z RDS bude potrebné:
+a) doplniť do Zábezpeky aj do atribútov „Za1“, „ZbT a „ZcT vyhľadanie odpísaných
+predpisov z dôvodu zániku subjektu v systéme RDS,
+b) s ohľadom na dátum splatnosti dohľadaných odpísaných predpisov sa bude výsledná
+suma Zábezpeky započítavať k dátumu žiadosti podľa vzájomne odsúhlaseného
+algoritmu v závislosti na existencii a obsahu príslušných položiek pre predpisy a platby
+na strane zdrojových systémov (ISFS-SD/SAP BW a RDS).
+8.
+
+Rozšírenie rozhrania pre systém RAN o nové vzory daňových priznaní.
+Na základe požiadavky objednávateľa a potreby systému RAN (Rozšírenie Analytických
+Nástrojov) bude realizované rozšírenie rozhrania súčasnej množiny údajov poskytovaných z
+DWH do systému RAN o entity nových vzorov daňových priznaní, ktoré platia od 1.1.2018
+nasledovne:
+a) pre zdaňovacie obdobie 2017 (DPPO) - položky z entity „0_ZBPP0_17“,
+b) pre zdaňovacie obdobie 2017 (DPFO_B) - položky z entity „0_ZBPFB_1T,
+c) pre zdaňovacie obdobie 2018 (DPH) - položky z entity „0_ZBDPN_1Sľ.
+
+Riešenie bude implementované podľa príslušnej analýzy, ktorá bude pre tento účel vypracovaná.
+
+#
+
+Príloha
+
+Formát
+
+Prílohy špecifikované v horeuvedenom zozname tvoria neoddeliteľnú súčasť tohto zmenového listu.
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+Zodpovedný zástupca zo strany zhotoviteľa
+Zodpovedný zástupca zo strany objednávateľa
+
+12.10.2018
+1 854
+165 432,42,- EUR
+33 086,48,- EUR
+198 518,90,- EUR
+......​.............​.......
+.......​.........​............
+
+Reštrikcie, poznámky k funkcionalite
+
+Strana 3/4
+
+gulteľo
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Objednávate! a zhotoviteľ sa pre realizáciu tohto ZL dohodli, že etapa Analýza a návrh riešenia
+a etapa Implementácia budú pre účely tohto zmenového konania spojené do jednej spoločnej etapy.
+
+Toto zmenové konanie v zmysle bodu Vl.3.c Zmluvy o poskytovaní servisu a údržby na programové
+vybavenie DWH a o technickej podpore na SW produkty pre DWH číslo ZD20020007 (dalej len
+„Zmluva“) navyšuje hodnotu diela pre účely servisného paušálu o 20 %.
+
+Dňa............... ... ....... . . . ..
+
+Strana 4/4
+
+Gi-fireco
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+CENTRAL EUROPE
+
+Kalkulácia ZK 013/2018
+
+P rá c n o sť
+
+p.e.
+
+Č in n o s ť
+
+je a n o iK .
+
+v č lo v e k o -
+
+su m a
+
+S u m a bez
+
+S a d zb a
+
+S u m a DPH
+
+S u m a celkom
+
+h o d ln ách
+
+v EU R
+
+D PH vE U R
+
+DPH v %
+
+v EUR
+
+v EUR
+
+128
+
+89,23
+
+11 4 2 1 ,4 4
+
+20 ,00
+
+2 2 8 4 ,2 9
+
+1 3 705,73
+
+i
+
+Riadiace práce
+
+2
+
+Analytické práoe spolu
+
+722
+
+89,23
+
+6 4 424,06
+
+20 ,00
+
+12 884,81
+
+7 7 308 ,8 7
+
+3
+
+Dizajnérske práce
+
+222
+
+89,23
+
+19 809,06
+
+20 ,00
+
+3 961,81
+
+2 3 770 ,8 7
+
+20 ,00
+
+8 369 ,7 7
+
+5 0 2 1 8 ,6 4
+
+4
+
+Programátorské práce
+
+469
+
+89,23
+
+41 848,87
+
+5
+
+Testovacie práce u zhotoviteľa
+
+193
+
+89,23
+
+1 7 221,39
+
+20 ,00
+
+3 4 4 4 ,2 8
+
+2 0 6 65,67
+
+6
+
+D atabázová a systém ová podpora u zhotoviteľa
+
+37
+
+89,23
+
+3 301,51
+
+20 ,00
+
+6 6 0 ,3 0
+
+3 961,81
+
+7
+
+Zapracovanie zm ien do dokum entácie
+
+25
+
+89,23
+
+2 230,75
+
+20 ,00
+
+4 4 6 ,1 5
+
+2 676,90
+
+8
+
+Podpora inštalačných prác u objednávateľa
+
+16
+
+89,23
+
+1 427,68
+
+20 ,00
+
+2 8 5 ,5 4
+
+1 713,22
+
+Databázová a systémová podpora u objednávateľa
+
+17
+
+89,23
+
+1 516,91
+
+20 ,00
+
+3 0 3 ,3 8
+
+1 820,29
+
+446,15
+
+2 676,90
+
+33 0 8 6 /8
+
+198 518,90
+
+g
+10
+
+Podpora zhotoviteľa pri testovaní objednávateľom
+
+25
+
+1854
+
+S P O LU
+
+. . . ​. . . ​. ......
+..
+
+..
+
+Dňa ........................
+
+89,23
+
+2 230,75
+
+165 4 3 2 /2
+
+20 ,00
+
+

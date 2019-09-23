@@ -1,0 +1,269 @@
+ZMLUVA O POSKYTNUTÍ SLUŽIEB
+uzatvorená podľa § 269 ods. 2 Zákona č. 513/1991 Zb. Obchodného zákonníka v znení
+neskorších predpisov
+Číslo zmluvy objednávateľ: 53/DOD/2018/40/8087
+Číslo zmluvy poskytovateľ: 2018/VÚVH/SZ/002
+
+I. ZMLUVNÉ STRANY
+Objednávateľ:
+
+Výskumný ústav vodného hospodárstva
+Nábr. arm. gen. L. Svobodu 5
+812 49 Bratislava 1
+
+V zastúpení:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu – IBAN:
+Zapísaný v :
+
+00 156 850
+
+/ďalej len ,,Objednávateľ“/
+
+a
+Poskytovateľ:
+
+JTS spol. s r.o.
+Stará Vajnorská cesta 16
+831 04 Bratislava 3
+
+V zastúpení:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Číslo účtu - IBAN:
+Zapísaný v :
+
+356 811 28
+
+/ďalej len ,,Poskytovateľ“/
+
+1
+
+PREAMBULA
+Zhotoviteľ je autorom diela „Aplikačné programové vybavenie (APV)
+DUSIČNANY, databázový design k databáze DUSIČNANY v zmysle zák. č. 185/2015 Z.z.
+v znení neskorších predpisov, na ktorom je založená databáza VÚVH „DUSIČNANY“
+zameraná na zabezpečenie úloh v oblasti vodného hospodárstva a v oblasti vodohospodársko
+– ekologických problémov v celom komplexe.
+
+II. PREDMET ZMLUVY
+1. Poskytovateľ sa touto zmluvou zaväzuje poskytovať objednávateľovi služby spočívajúce
+vo vykonaní:
+Monitorovanie a hodnotenie znečistenia vôd dusičnanmi v zmysle smernice
+91/676/EHS
+a. Špecifikácia služby:
+Monitorovanie a hodnotenie znečistenia vôd dusičnanmi v zmysle smernice 91/676/EHS s
+výstupom do CSV a XLSX formátu bude mať tieto základné funkcionality:
+
+
+
+
+
+
+
+
+
+
+Štatistika
+o Min,Max,Avg sledovaného chemického ukazovateľa
+o Počet odberov sledovaného chemického ukazovateľa
+ pod detekčný limit
+ podľa triedy kvality (intervalový rozsah množstva nameranej látky,
+napr. NO3)
+o Prvý a posledný odber v rámci vrtu
+Časové hľadisko
+o od konkrétneho dátumu ku konkrétnemu dátumu
+o podľa obdobia JAR, LETO, JESEŇ, ZIMA roku XXXX napr. 2017
+Priestorové hľadisko
+o celá SR
+o všetky zraniteľné oblasti
+o podľa útvaru podzemných vôd
+o podľa administratívneho členenia: Kraj, Okres, Obec, Lokalita
+Rozsah atribútov
+o typ hladiny (bez zvodnenia, voľná, napätá, kras)
+o typ stanice podľa hĺbky hladiny podzemnej vody:
+ 0 - voľná hladina (plytká) 0 - 5m ( vrátane prameňov)
+ 1 - voľná hladina ( hlboká )
+ 1a - 5 - 15m
+ 1b - 15 - 30m
+ 1c - > 30m
+ 2 - kaptívna hladina (napätá )
+ 3 - kras ( vrátane krasových prameňov )
+o vlastník ( všetci, VÚVH, SHMÚ )
+Reporty pre správu o stave implementácie smernice Rady 91/676/EHS:
+o stav monitorovacích prác v roku XXXX napr. 2016:
+ Účelová monitorovacia sieť VÚVH na sledovanie znečistenia
+podzemných vôd na dusíkaté látky
+ Štátna hydrologická sieť monitorovania kvantity podzemných vôd
+
+2
+
+o Prehľad čiastočne funkčných a nefunkčných monitorovacích vrtov účelovej
+monitorovacej siete VÚVH na dusíkaté látky
+o Zoznam zničených vrtov účelovej monitorovacej siete VÚVH na dusíkaté
+látky, stav z jesene XXXX, napr. 2017
+o Zoznam poškodených vrtov účelovej monitorovacej siete VÚVH na dusíkaté
+látky, stav z jesene XXXX, napr. 2017
+o Zoznam dlhodobo suchých vrtov účelovej monitorovacej siete VÚVH na
+dusíkaté látky, stav z jesene XXXX, napr. 2017 (algoritmus pre vyhodnotenie
+dlhodobo suchého vrtu dodá VÚVH)
+o Zoznam monitorovacích objektov VÚVH osadených označovacou tyčou
+o Počet monitorovacích objektov VÚVH v jednotlivých tiedach koncentrácie
+NO3 v mg/l podľa obdobia JAR, LETO, JESEŇ, ZIMA XXXX, napr. 2017 :
+ 0 - 24,99 - farba zelená
+ 25 - 39,99 - farba žltá
+ 40 - 50 - farba oranžová
+ > 50 - farba červená
+o Počet monitorovacích objektov SHMÚ v jednotlivých triedach koncentrácie
+NO3 v mg/l podľa obdobia LETO XXXX, napr. 2017:
+ 0 - 24,99 - farba zelená
+ 25 - 39,99 - farba žltá
+ 40 - 50 - farba oranžová
+ > 50 - farba červená
+o Zoznam monitorovacích objektov účelovej monitorovacej siete VÚVH na
+sledovanie znečistenia a štátnej hydrologickej siete monitorovania kvality
+podzemných vôd s nameranými koncentráciami nad 50 mg/l
+o Počet monitorovacích objektov vhodných pre účely dusičnanovej smernice
+o Počet monitorovacích objektov v zraniteľných oblastiach vhodných pre účely
+dusičnanovej smernice
+o Zoznam monitorovacích objektov podľa triedy kvality maximálnych a
+priemerných koncentrácií dusičnanov v podzemných vodách za dané obdobie
+reportingu
+o Zoznam monitorovacích objektov s maximálnou koncentráciou dusičnanov
+nad 40 mg/l mimo zraniteľných oblastí SR za dané obdobie
+
+2. Objednávateľ sa zaväzuje poskytnúť poskytovateľovi potrebnú súčinnosť v zmysle tejto
+zmluvy a zaplatiť mu za poskytnuté služby odplatu.
+
+III. ČAS A MIESTO PLNENIA
+1. Služba bude realizovaná do 31.12.2018.
+2. Miestom plnenia tejto zmluvy je VÚVH Bratislava, Nábr. arm. gen. L. Svobodu 5, 812 49
+Bratislava.
+3. Poskytovateľ sa zaväzuje zabezpečiť vykonanie služby na serveri VÚVH
+(hostname: bodove-zdroje.vuvh.sk) cez vzdialený prístup alebo osobne v mieste plnenia.
+
+3
+
+IV. CENA PREDMETU ZMLUVY
+1. Cena za vykonanie služby v rozsahu uvedenom v čl. II. tejto zmluvy je stanovená
+dohodou zmluvných strán v zmysle zákona č. 18/1996 Z.z. o cenách v znení doplňujúcich
+predpisov ako cena maximálna. Zmena stanovenej ceny je možná len v prípade zmeny
+predpisov upravujúcich DPH alebo písomnou dohodou zmluvných strán.
+Cena celkom bez DPH:
+20% DPH:
+Cena celkom s DPH:
+
+8.000,00 EUR
+1.600,00 EUR
+9.600,00 EUR
+
+slovom: deväťtisícšesťsto EUR s DPH
+2. V prípade, že dôjde k zmene právnej úpravy upravujúcej výšku DPH, použije sa vždy
+platná sadzba DPH. Z uvedeného dôvodu sa môže výška konečnej ceny zmeniť bez
+písomnej dohody zmluvných strán.
+
+V. ÚDAJE O FINANCOVANÍ A FAKTUROVANÍ
+1. Fakturácia sa uskutoční po riadnom poskytnutí služieb, ktoré sú predmetom zmluvy na
+základe faktúry vystavenej vo výške podľa čl. IV. tejto zmluvy.
+2. Poskytovateľ vystaví faktúru najskôr dňom nasledujúcim po dni vykonaní služieb, ktoré
+sú predmetom tejto zmluvy.
+3. Faktúra bude doložená preberacím protokolom potvrdeným zodpovedným zástupcom
+VÚVH.
+4. Splatnosť faktúry je stanovená do 30 dní od jej doručenia.
+
+VI. SPÔSOB ODOVZDÁVANIA A PREBERANIA
+1. Služby podľa tejto zmluvy sa považujú za poskytnuté ich riadnym vykonaním
+v dohodnutom termíne na dohodnutom mieste.
+2. Poskytovateľ je povinný poskytovať objednávateľovi služby s odbornou starostlivosťou.
+3. Objednávateľ je povinný poskytovať poskytovateľovi súčinnosť potrebnú pre
+poskytovanie služieb. Za súčinnosť podľa tejto zmluvy sa považuje najmä umožnenie
+plnenia tejto zmluvy v dohodnutom rozsahu, na dohodnutom mieste a v dohodnutom čase.
+4. Odovzdanie a prebranie predmetu zmluvy sa uskutoční na základe protokolu o odovzdaní
+a prevzatí predmetu zmluvy, potvrdeného zodpovednými zástupcami oboch zmluvných
+strán.
+
+4
+
+5. Funkčnosť úprav za objednávateľa potvrdzuje Seman Andrej, Ing. alebo Cibulka Roman,
+Ing.
+
+VII. REKLAMÁCIE
+1. Reklamácie je poskytovateľ povinný vybaviť v lehote najviac 10 dní od poskytnutia
+služby. Poskytovateľ vydá objednávateľovi doklad o prijatí reklamácie a spôsobe jej
+vybavenia.
+2.
+
+VIII. SANKCIE
+1. Pri omeškaní úhrady faktúry sa určujú úroky z omeškania objednávateľovi podľa § 369a
+Obchodného zákonníka a § 1 ods. 2 nar. vlády č. 21/2013 Z.z., v zmysle ktorého Sadzba
+úrokov z omeškania sa rovná základnej úrokovej sadzbe Európskej centrálnej banky
+platnej k prvému dňu príslušného kalendárneho polroka omeškania zvýšenej o deväť
+percentuálnych bodov; takto určená sadzba úrokov z omeškania sa použije počas celej
+doby omeškania.
+2. Objednávateľ je oprávnený od zmluvy odstúpiť v prípade, že poskytovateľ si neplní svoje
+povinnosti, ktoré mu vyplývajú z tejto zmluvy. Pred odstúpením od zmluvy je
+objednávateľ povinný písomne vyzvať poskytovateľa, aby si splnil svoje zmluvné
+povinnosti. V prípade, ak si poskytovateľ svoje zmluvné povinnosti nesplní ani v lehote
+15 kalendárnych dní od doručenia výzvy, je objednávateľ oprávnený za podmienok
+uvedených v tejto zmluve od zmluvy odstúpiť.
+3. Poskytovateľ je povinný zaplatiť objednávateľovi zmluvnú pokutu vo výške 0,25%
+z celkovej ceny poskytnutej služby za každý omeškaný deň, ak služba, ktorá je
+predmetom zmluvy nebude poskytnutá v dohodnutom čase, na dohodnutom mieste
+a v požadovanej kvalite, maximálne do výšky 1.500,00 EUR.
+
+IX. ZÁVEREČNÉ USTANOVENIA
+1. Táto zmluva je vyhotovená v štyroch exemplároch, pričom poskytovateľ obdrží jedno
+vyhotovenie a objednávateľ tri vyhotovenia zmluvy. Všetky exempláre zmluvy majú
+rovnakú platnosť. Zmluva je platná odo dňa podpisu obidvomi zmluvnými stranami a
+účinná dňom nasledujúcim po dni jej zverejnenia.
+2. Túto zmluvu možno zmeniť, upraviť alebo doplniť jedine písomnými dodatkami k nej
+potvrdenými obidvoma zmluvnými stranami. V prípade, ak sa niektorá zo zmluvných strán
+dozvie o skutočnostiach vyžadujúcich zmenu, úpravu alebo doplnenie tejto zmluvy, je
+povinná o tom obratom informovať druhú zmluvnú stranu.
+3. Poskytovateľ sa zaväzuje poskytnúť službu, ktorá je predmetom zmluvy s náležitou
+starostlivosťou a odbornosťou, v súlade
+s požiadavkami objednávateľa v rámci
+dohodnutého predmetu zmluvy a stanovených termínov.
+
+5
+
+4. Za zmluvnú stranu objednávateľa sú oprávnení rokovať:
+v technických otázkach:
+v zmluvných otázkach:
+5. Za zmluvnú stranu poskytovateľa sú oprávnení rokovať:
+v technických otázkach:
+v zmluvných otázkach:
+6. Pre vzťahy medzi objednávateľom a poskytovateľom platia dojednania stanovené v tejto
+zmluve. Záležitosti, ktoré neboli výslovne dojednané v tejto zmluve sa riadia príslušnými
+ustanoveniami Obchodného zákonníka.
+7. Zmluvné strany vyhlasujú, že s touto zmluvou boli riadne oboznámené, že nebola uzavretá
+v tiesni, ani za iných, jednostranne nevýhodných podmienok.
+8. Poskytovateľ berie na vedomie, že v zmysle platnej právnej úpravy je VÚVH ako
+príspevková organizácia povinná túto zmluvu zverejniť v Centrálnom registri zmlúv.
+9. Poskytovateľ sa zaväzuje, že umožní, strpí výkon kontroly /auditu/ overovania na serveri
+bodove-zdroje.vuvh.sk súvisiaceho s dodávanými službami kedykoľvek počas platnosti
+a účinnosti zmluvy a to oprávnenými osobami a poskytne im všetku potrebnú súčinnosť.
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+Za objednávateľa:
+
+Za poskytovateľa:
+
+...................................................
+Ing. Ľubica Kopčová, PhD.
+generálna riaditeľka
+
+...................................................
+Ing. Anton Sucha
+konateľ
+
+6
+
+

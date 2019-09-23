@@ -1,0 +1,720 @@
+Kúpna zmluva
+uzavretá podľa Zákona č. 513/1991 Zb. v znení neskorších predpisov
+(ďalej len „Obchodný zákonník“)
+a podľa zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(ďalej len „zákon o verejnom obstarávaní“)
+(ďalej len „zmluva“)
+
+1. Určenie zmluvných strán
+1.1. Predávajúci:
+
+TransData s.r.o.
+Jašíkova 2, 821 03 Bratislava
+Ing. Branislav Jurčišin, konateľ
+Ing. Karol Gogolák, MBA, konateľ
+
+Sídlo:
+Zastúpený:
+Osoba zodpovedná
+za plnenie zmluvy:
+IČO:
+IČ DPH:
+Bankové spojenie:
+Č. účtu:
+BIC:
+Tel.:
+E-mail:
+
+Mgr. František Štefanka
+35 741 236
+SK2020242763
+Tatra banka, a.s.
+SK42 1100 0000 0026 2519 0579
+TATRSKBX
++421 2 482 91 360, +421 907 701 790
+transdata@transdata.sk
+stefanka@transdata.sk
+
+(ďalej len „predávajúci“)
+1.2. Kupujúci:
+
+Univerzita Komenského v Bratislave
+Šafárikovo nám. 6, P.O.BOX 440, 814 99 Bratislava 1
+Ing. Ingrid Kútna Želonková, PhD., kvestorka UK
+
+Sídlo:
+Zastúpený:
+Osoba oprávnená k vecnému
+konaniu v súlade s touto zmluvou: Ing. arch. Mária Vyšňovská, správca služby
+univerzitné preukazy
+IČO:
+00397 865
+DIČ:
+2020845332
+IČ DPH:
+SK 2020845332
+Bankové spojenie:
+Štátna pokladnica
+Číslo účtu / IBAN
+SK58 8180 0000 0070 0024 1105
+Tel.:
++421 2 592 44 470
+E-mail:
+maria.vysnovska@rec.uniba.sk
+(ďalej len „kupujúci“)
+
+Zmluvné strany uzatvárajú túto zmluvu, ktorá je výsledkom verejného obstarávania,
+s nasledovným obsahom.
+
+2. Predmet plnenia zmluvy
+2.1.
+
+Predmetom plnenia zmluvy je dodávka inicializovaných bezkontaktných čipových kariet
+s pamäťou a možnosťou zápisu pre využitie karty ako preukazu študenta a zamestnanca
+v automatizovanom identifikačnom systéme kupujúceho, ako aj pre použitie v externých
+aplikáciách so súvisiacimi službami.
+
+1
+
+2.2.
+
+Čipová karta musí spĺňať nasledovné technické parametre:
+ odolnosť voči kopírovaniu, mechanickému poškodeniu a opotrebovaniu;
+ stabilitu a bezpečnosť záznamu, pričom minimálna trvanlivosť zachovania obsahu
+identifikačnej informácie musí byť pri dennom viacnásobnom používaní:
+o
+
+pre študentov najmenej 5 rokov,
+
+o
+
+pre zamestnanca najmenej 10 rokov,
+
+ spoľahlivosť prenosu informácie.
+2.3.
+
+Inicializované bezkontaktné čipové karty majú:
+ formátovaný čip MIFARE Desfire EV1 8kB; Mifare Standard 4kB
+ čip predisponovaný pre všetky aktívne interné a externé aplikácie;
+ v čipe nahranú funkčnú aplikáciu Salto spoločnosti EVVA;
+ implementované príslušné príznaky a kľúče;
+ použitie minimálne v rozsahu doterajšieho použitia podľa Prílohy č. 2.
+
+2.4.
+
+Inicializované čipové karty umožňujú nielen čítanie z pamäte karty ale aj zapisovanie
+a validáciu údajov a funkcií.
+
+2.5.
+
+Inicializované čipové karty sú použiteľné ako preukaz študentov, učiteľov a ostatných
+zamestnancov kupujúceho (ďalej len „používatelia preukazov“). Preukaz študentov
+študujúcich dennou formou štúdia (ďalej len „denní študenti“) je zároveň použiteľný ako
+medzinárodný preukaz ISIC. Preukaz učiteľov je zároveň použiteľný ako medzinárodný
+preukaz ITIC. Licenčne chránená vizuálna podoba ISIC/ITIC a jej cena je predmetom
+osobitého zmluvného vzťahu medzi kupujúcim a CKM SYTS, ktorý je t. č. výhradným
+zástupcom externého grafického dizajnu pre Slovenskú republiku.
+
+2.6.
+
+Preukaz študenta je vyhotovený v súlade s aktuálne platným “Metodickým usmernením
+o použití, štruktúre údajov a technickom vyhotovení preukazu študenta“ vydaného
+Ministerstvom školstva, vedy, výskumu a športu SR“ (ďalej len „usmernenie“) č.16/2014
+s účinnosťou od 1.9.2014.
+
+2.7.
+
+Preukaz je realizovaný na báze bezkontaktnej čipovej karty zodpovedajúcej štandardu
+MIFARE MF1 IC S70 alebo MifareDESfire EV1, ktorý spĺňa normu ISO/IEC 14443A, časti
+1 až 3.
+
+2.8.
+
+Inicializované čipové karty umožňujú, pri akceptovaní ich technických možností, použitie
+v ďalších oblastiach, ktorých realizáciu kupujúci predpokladá, sú to napr.:
+ stravovací systém;
+ platené služby (elektronická peňaženka) ;
+ riadená automatická reprografická služba;
+ technicky kompatibilné automaty na pôde UK;
+ preukazom riadený prístup k chráneným priestorom.
+
+2.9.
+
+Služby, súvisiace s dodávkou inicializovaných čipových kariet:
+ telekomunikačné skúšky s vyradením chybných kariet;
+ nastavenie MAD adresára (definícia postavenia aplikácií na karte);
+ správa MAD adresára (správa aplikácií s predeľovaním sektorov vrátane pridelenia
+kľúčov aplikáciám);
+
+2
+
+ formátovanie čipu (prekľúčovanie všetkých relevantných sektorov a ich následná
+predispozícia);
+ príprava externých funkcionalít – formátovanie dotknutého priestoru;
+ príprava pamäte čipu na použitie externých funkcionalít (bez nahratia akýchkoľvek
+osobných údajov);
+ príprava na použitie v systéme SALTO
+ testovanie implementovaných plnení na karte;
+ konečná skúška karty.
+2.10.
+
+Grafická vizualizácia karty v sebe obsahuje:
+ zabezpečenie príslušnej obojstrannej farebnej ofsetovej potlače pre účely použitia karty
+ako medzinárodného preukazu denného študenta – ISIC a učiteľa ITIC,
+hologramizáciu karty hologramom ISIC/ITIC. Obsah, forma a spôsob potlače musí byť
+v legislatívne upravenej podobe podľa ISIC Association, a to ako medzinárodný
+identifikačný preukaz denného študenta – ISIC a medzinárodný preukaz učiteľa ITIC.
+Umiestnenie čipu na karte s vizuálom ISIC/ITIC je ľavý horný kvadrant karty – pri
+pohľade z lícnej časti príslušného vizuálu;
+ Čiernobiela, resp. farebná potlač podľa požiadaviek VM Mlyny Bratislava na biele
+čipové karty Mifare Standard 4kB. Karty budú potlačené logom internátu, s uvedením
+čísla čipu a poradového čísla karty a všetky karty budú načítané do Excel súboru v
+požadovanom formáte (Poradové číslo karty, Číslo čipu/SNR v DEC a HEX). Vzor
+potlače a hlavička tabuľky v Excel súbore sú uvedené v Prílohe č.3
+
+2.11.
+
+Prístupové kľúče pre čítanie a zápis čipu Mifare Standard 4 kB sú identické s doteraz
+používanými kľúčmi.
+
+2.12.
+
+Predávajúci ako Ministerstvom školstva, vedy, výskumu a športu SR poverený registrátor
+AID aplikácie „Personálne údaje držiteľa preukazu“, poverený registrátormi aplikácií
+tretích strán (aplikácia ZSSK, SAD, dopravné podniky, FaxCopy, Knižničný pas), v úlohe
+technického integrátora aplikácií v bezkontaktnom čipe preukazov zodpovedá
+za funkčnosť, bezpečnosť a kompatibilitu týchto aplikácií, čo zabezpečuje multifunkčnosť
+použitia preukazov študenta, učiteľa a zamestnanca. Vzhľadom k tomu je predávajúci
+vlastníkom Master kľúča umožňujúceho pridávať, meniť a vymazávať jednotlivé aplikácie
+v čipe karty.
+
+2.13.
+
+Predávajúci sa zaväzuje v prípade, že kupujúci prejaví záujem mať v bezkontaktnom čipe
+svojich preukazov novú aplikáciu (svoju alebo tretej osoby), poskytnúť potrebnú
+súčinnosť a techniky umožniť jej vytvorenie, pokiaľ to technológia a pamäťový priestor
+karty umožní. V takomto prípade v súlade so zákonom o verejnom obstarávaní kupujúci
+s predávajúcim rokovacím konaním dohodnú technické, administratívne, finančné
+a ostatné podmienky zmluvy.
+
+2.14.
+
+Počet jednotlivých typov kariet a súvisiacich služieb je uvedený v Prílohe č. 1.
+
+3. Cena predmetu plnenia zmluvy
+3.1.
+
+Cena je stanovená dohodou podľa zákona č. 18/1996 Z. z. o cenách v znení neskorších
+predpisov a vyhlášky č. 87/1996 Z. z., ktorou sa vykonáva zákon č. 18/1996 Z. z.
+o cenách v znení neskorších predpisov.
+
+3.2.
+
+Zmluvná cena je cenou konečnou, to znamená, že zahŕňa v sebe všetky náklady
+súvisiace s dodávkou predmetu plnenia zmluvy a primeraný zisk.
+
+3
+
+3.3.
+
+Zmluvná cena dodávky inicializovanej čipovej karty so súvisiacimi službami je vyjadrená
+položkovým rozpisom v Prílohe č. 1. V cene jednotlivých položiek sú zahrnuté všetky
+náklady spojené s dodaním kariet so službami podľa tejto zmluvy. Predávajúci nebude
+fakturovať žiadne ďalšie výdavky, ktoré do ceny nezahrnul.
+
+3.4.
+
+Celková zmluvná cena dodávky inicializovaných bezkontaktných čipových kariet
+so súvisiacimi službami je:
+Cena bez DPH: 49 150,00 EUR,
+DPH
+9 830,00 EUR,
+Cena s DPH: 58 980,00 EUR.
+
+3.5.
+
+DPH bude vysporiadaná podľa platnej legislatívy.
+
+4. Možnosť a spôsob úpravy ceny
+4.1.
+
+K zmene jednotkových cien inicializovaných bezkontaktných čipových kariet môže dôjsť
+iba v odôvodnených prípadoch na základe odsúhlaseného a podpísaného dodatku
+k zmluve, a to oboma zmluvnými stranami v súlade so zákonom o verejnom obstarávaní.
+
+5. Miesto plnenia zmluvy.
+5.1.
+
+Miestom dodania predmet plnenia zmluvy je Univerzita Komenského v Bratislave,
+Šafárikovo nám. 6, Bratislava, Centrum informačných technológií UK (ďalej len „CIT
+UK“), kontaktná osoba je uvedená v bode 1.2. „osoba oprávnená k vecnému konaniu
+v súlade s touto zmluvou“.
+
+6. Termín plnenia zmluvy
+6.1.
+
+Dodávka bude realizovaná do 31. júla 2019.
+7. Odovzdanie a prevzatie predmetu plnenia zmluvy
+
+7.1.
+
+Za účasti najmenej jedného povereného zástupcu predávajúceho a najmenej jedného
+povereného zástupcu kupujúceho uskutoční sa fyzická kontrola dodaného predmetu
+plnenia zmluvy a bude vykonané jeho prevzatie. Pri prevzatí bude po kontrole počtu
+a vizualizácie inicializovaných kariet podpísaný dodací list, ktorý bude prílohou faktúry.
+Predávajúci odporúča povereným osobám kupujúceho pri manipulácii s inicializovanými
+kartami, určenými na personalizáciu a vizualizáciu na príslušnom pracovisku kupujúceho,
+používať rukavice.
+
+7.2.
+
+Odovzdávacie konanie bude ukončené spísaním dodacieho listu, ktorý bude obsahovať
+druhy a počty inicializovaných bezkontaktných čipových kariet, dátum odovzdávacieho
+konania, prípadne zistené vady dodávky, spôsob a termín ich odstránenia. Súčasťou
+odovzdávacieho konania je kontrola dodanej databázy kariet. Od okamihu podpisu
+dodacieho listu sa na dodávku vzťahuje záručná doba, ktorá bude predĺžená o dobu, kým
+nebudú odstránené vady dodávky.
+
+7.3.
+
+Osoby splnomocnené kupujúcim k prevzatiu predmetu zmluvy sú:
+Ing. arch. Mária Vyšňovská, zamestnanec CIT UK alebo iný zamestnanec CIT UK
+poverený riaditeľom CIT UK.
+
+4
+
+8. Odmietnutie dodávky
+8.1.
+
+Kupujúci má právo odmietnuť dodávku predmetu zmluvy alebo jej časti, ak táto bola
+dodaná po termíne uvedenom v článku 6 zmluvy alebo ak nebola dodržaná špecifikácia
+dodávky podľa článku 2 a súvisiacich príloh alebo ak dodávka vykazuje vady, ktoré
+kupujúci nie je ochotný akceptovať ako vady odstrániteľné v čase podľa návrhu
+predávajúceho.
+
+9. Omeškanie
+9.1.
+
+Ak predávajúci nedodá predmet plnenia zmluvy riadne a včas a v súlade s článkom 2 a
+v termíne podľa článku 6, kupujúci má právo vyžadovať uplatnenie zmluvnej pokuty
+podľa článku 13. Ak kupujúci nezaplatí faktúru vydanú v zmysle čl. 10 v termíne
+splatnosti, má predávajúci právo požadovať uplatnenie zmluvnej pokuty podľa čl. 13.
+
+10. Platobné podmienky a fakturácia
+10.1.
+
+Predávajúci vystaví faktúru za plnenie predmetu zmluvy podľa po odovzdaní a prevzatí
+predmetu plnenia predmetu zmluvy.
+
+10.2.
+
+Každá faktúra musí obsahovať obligatórne náležitosti podľa § 74 zákona č. 222/2004
+Z. z. o dani z pridanej hodnoty.
+
+10.3.
+
+Kupujúci uhradí zmluvnú cenu na uvedené číslo účtu predávajúceho najneskôr do 30 dní
+od doporučeného doručenia faktúry bez nedostatkov na adresu kupujúceho uvedenú
+v bode 1.1. Súčasťou faktúry bude dodací list.
+
+10.4.
+
+Ak predložená faktúra nebude spĺňať požadované náležitosti alebo nebude vystavená
+v súlade s platnou zmluvou, kupujúci ju vráti v lehote splatnosti na dopracovanie.
+Opravená faktúra je splatná v zmysle vyššie uvedeného, pričom lehota splatnosti začína
+plynúť odznova odo dňa doručenia faktúry bez nedostatkov.
+
+10.5.
+
+Preddavok kupujúci neposkytuje. Faktúry budú uhrádzané prevodným príkazom.
+
+11. Záruky
+11.1.
+
+Záručná doba na dodaný predmet zmluvy trvá 2 roky a začína plynúť po podpise
+dodacieho listu podľa článku 7. Záručná doba sa predlžuje o dobu trvania odstraňovania
+vád počas záručnej doby.
+
+11.2.
+
+Predávajúci zodpovedá za to, že predmet zmluvy bude mať po celú dobu uvedenú
+v bode 2.2. vlastnosti stanovené v čl. 2 zmluvy.
+
+5
+
+12. Podmienky záručného servisu
+12.1.
+
+Predávajúci poskytne bezplatný záručný servis na predmet plnenia zmluvy po celú dobu
+trvania záruky podľa článku 11 a pozáručný servis min. v trvaní 5 rokov na preukazy
+zamestnancov.
+
+12.2.
+
+Kupujúci bezodkladne nahlási zistenú vadu predmetu zmluvy. Za riadne nahlásenie vady
+sa považuje potvrdené písomné, telefonické, faxové, mailové, prípadne osobné
+nahlásenie s jasnou a presnou užívateľskou definíciou vady predmetu zmluvy. Súčasne
+je povinný doručiť vadný tovar na adresu predávajúceho, kontaktná osoba Martin Fábry,
+fabry@transdata.sk,
++421
+2
+4829
+1494
+/
+Mgr.
+František
+Štefanka,
+stefanka@transdata.sk, +421 907 701 790.
+
+12.3.
+
+Riešenie reklamácií externých služieb preukazu študenta a zamestnanca bude
+zabezpečené prostredníctvom helpdesk@transdata.sk, kontaktnou osobou je Martin
+Fábry, fabry@transdata.sk, +421 2 4829 1494.
+
+12.4.
+
+Predávajúci je povinný do 24 hod. posúdiť oprávnenosť reklamácie tovaru a termín
+dodania opraveného reklamovaného tovaru.
+
+12.5.
+
+Úprava softvérovej aplikácie, príp. firmvéru v zariadeniach, ktoré pracujú s preukazom
+(hlavne univerzitný terminál UNIterminál), príp. akékoľvek iné zmeny, ktoré bude
+predávajúci musieť uskutočniť, budú vopred odsúhlasené pracovníkmi kupujúceho a až
+následne nahraté na konkrétne zariadenia. Kontaktné osoby pre vzájomnú komunikáciu
+a odsúhlasenie
+sú
+za
+kupujúceho
+–
+Ing.
+arch.
+Mária
+Vyšňovská
+(maria.vysnovska@rec.uniba.sk)
+a za
+predávajúceho
+–
+Martin
+Fábry,
+fabry@transdata.sk.
+
+13. Zmluvné pokuty
+13.1.
+
+V prípade nedodržania povinnosti riadne a včas dodať predmet plnenia zmluvy podľa čl.
+6 a 7 si kupujúci môže uplatniť voči predávajúcemu zmluvnú pokutu vo výške 0,05 % z
+ceny dodávky za každý deň omeškania.
+
+13.2.
+
+V prípade omeškania platby oproti ustanoveniu čl. 10 si predávajúci môže uplatniť voči
+kupujúcemu úrok z omeškania v zákonnej výške z neuhradenej fakturovanej čiastky
+za každý deň omeškania za riadne a včas dodaný predmet zmluvy predávajúcim.
+
+13.3.
+
+Zaplatením zmluvnej pokuty nie je dotknutý nárok kupujúceho na náhradu škody.
+
+13.4.
+
+Zaplatenie zmluvnej pokuty nezbavuje zmluvné strany plniť ich povinnosti, ktoré sú
+predmetom zmluvy.
+
+14. Doba trvania a ukončenia zmluvy
+14.1.
+
+Táto zmluva môže byť ukončená jedným z nasledovných dôvodov:
+
+a) odstúpením od zmluvy v zmysle bodu 14.3 a nasl. tejto zmluvy,
+b) dňom straty oprávnenia predávajúceho k výkonu činnosti, ktorá je potrebná
+pre realizáciu predmetu zmluvy, bez potreby uskutočnenia akéhokoľvek úkonu
+zo strany zmluvných strán,
+
+c) písomnou dohodou zmluvných strán,
+6
+
+d) dňom vyhlásenia konkurzu alebo likvidácie na predávajúceho, bez potreby
+uskutočnenia akéhokoľvek úkonu zo strany zmluvných strán.
+14.2.
+
+Každá zo zmluvných strán je oprávnená odstúpiť od zmluvy pri podstatnom porušení
+zmluvnej povinnosti druhou zmluvnou stranou alebo keď sa pre druhú zmluvnú stranu
+stalo splnenie podstatných zmluvných povinností úplne nemožným.
+
+14.3.
+
+Za podstatné porušenie sa na účely tejto zmluvy považuje najmä:
+a) omeškanie predávajúceho s poskytnutím predmetu zmluvy oproti dohodnutému
+termínu plnenia o viac ako 14 dní bez uvedenia dôvodu, ktorý by omeškanie objektívne
+ospravedlňoval,
+b) ak cena bude fakturovaná v rozpore s platobnými podmienkami dohodnutými v tejto
+zmluve,
+c) ak predávajúci dodá predmet zmluvy kupujúcemu vo vážnom rozpore s predmetom
+zmluvy,
+d) ak kupujúci je v omeškaní so zaplatením faktúry o viac ako 30 kalendárnych dní.
+
+14.4.
+
+Ak zmluvná strana odstupuje od zmluvy, potom je povinná túto skutočnosť oznámiť
+druhej zmluvnej strane písomne. Takéto oznámenie musí označovať okolnosť resp.
+dôvod, pre ktorý zmluvná strana odstupuje od zmluvy a presnú citáciu ustanovenia
+zmluvy alebo právneho predpisu, ktorý ju k odstúpeniu oprávňuje. Bez týchto náležitostí
+je odstúpenie neplatné, ibaže právo odstúpiť od zmluvy vyplýva priamo zo zákona.
+Oznámenie o odstúpení od zmluvy môže obsahovať prehlásenie, že zmluvná strana
+odstupuje od zmluvy až okamihom márneho uplynutia lehoty stanovenej k odstráneniu
+porušenia, ktoré je dôvodom odstúpenia, ak je to vzhľadom k povahe porušenia
+povinnosti možné.
+
+14.5.
+
+V prípade odstúpenia od zmluvy je toto odstúpenie účinné doručením písomného
+oznámenia o odstúpení druhej zmluvnej strane, ak z obsahu odstúpenia nevyplýva
+neskorší účinok odstúpenia. Za riadne doručenie oznámenia o odstúpení od zmluvy sa
+považuje jeho doručenie prostredníctvom poskytovateľa poštovných služieb alebo kuriéra
+druhej zmluvnej strane. V prípade pochybností sa má za to, že je odstúpenie doručené
+tretí deň po jeho odoslaní. Doručuje sa zásadne na poslednú známu adresu zmluvnej
+strany.
+
+14.6.
+
+Odstúpením od zmluvy nezaniká nárok oprávnenej strany na zaplatenie zmluvných pokút
+a na náhradu vzniknutej škody.
+
+14.7.
+
+Zmluvné strany nie sú zodpovedné za čiastočné alebo úplné neplnenie zmluvných
+záväzkov následkom pôsobenia vyššej moci v zmysle § 374 Obchodného zákonníka.
+
+14.8.
+
+V prípade pôsobenia vyššej moci, lehoty dohodnuté k plneniu zmluvných záväzkov sa
+predlžujú o dobu jej pôsobenia.
+
+14.9.
+
+Zmluvná strana ovplyvnená vyššou mocou je povinná druhú zmluvnú stranu upovedomiť
+písomne o začatí a ukončení pôsobenia vyššej moci bezodkladne, najneskôr však do 15
+dní od začatia jej pôsobenia. Ak by tak zmluvná strana neurobila, nemôže sa zmluvná
+strana účinne dovolávať pôsobenia vyššej moci.
+
+15. Záverečné ustanovenia
+15.1.
+
+Zmluva môže byť zmenená a doplňovaná v súlade so zákonom o verejnom obstarávaní
+formou číslovaného písomného dodatku podpísaného obidvoma zmluvnými stranami.
+
+7
+
+15.2.
+
+Právne vzťahy obdivoch zmluvných strán neupravené touto zmluvou sa riadia
+príslušnými ustanoveniami Obchodného zákonníka a ostatnými právnymi predpismi SR.
+
+15.3.
+
+Na prerokovanie prípadných sporov je určený miestne príslušný súd, v obvode ktorého
+sa nachádza sídlo kupujúceho.
+
+15.4.
+
+Táto zmluva nadobúda platnosť dňom jej podpisu obidvomi zmluvnými stranami
+a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv
+vedenom Úradom vlády Slovenskej republiky. Predávajúci týmto prehlasuje, že súhlasí
+so zverejnením tejto zmluvy v celom rozsahu v Centrálnom registri zmlúv.
+
+15.5.
+
+Zmluva je vyhotovená v štyroch rovnopisoch, z ktorých kupujúci a predávajúci dostanú
+po dva rovnopisy.
+
+15.6.
+
+Zmluvné strany prehlasujú, že zmluvu pred jej podpisom prečítali, jej obsahu porozumeli
+a s ním súhlasili, čo potvrdzujú svojimi podpismi.
+
+Príloha č. 1: Cenník jednotlivých typov a počtov kariet a súvisiacich služieb
+Príloha č. 2: Zoznam externých aplikácií pre preukaz študenta UK v Bratislave
+Príloha č. 3: Vzor potlače kariet a hlavička tabuľky potlačených kariet pre VM Mlyny Bratislava
+
+V Bratislave dňa:
+
+–––––––––––––––––––––––––za predávajúceho
+Ing. Branislav Jurčišin
+Ing. Karol Gogolák, MBA
+konatelia
+TransData s.r.o.,
+
+V Bratislave dňa:
+
+–––––––––––––––––––––––––––––
+za kupujúceho
+Ing. Ingrid Kútna Želonková, PhD.
+kvestorka UK
+
+8
+
+Príloha č.1
+
+CENNÍK JEDNOTLIVÝCH TYPOV A POČTOV KARIET SO SÚVISIACIMI SLUŽBAMI
+
+Typ karty
+
+Mifare Desfire ev1 8kB
+(bez personalizácie
+a s aktiváciou externých
+aplikácií)
+Mifare Desfire ev1 8kB
+(bez personalizácie
+a s aktiváciou externých
+aplikácií)
+Mifare Desfire ev1 8kB
+(bez personalizácie
+a s aktiváciou externých
+aplikácií)
+MifareStandard 4kB
+(bez personalizácie s
+aktiváciou SALTO
+a s jednoduchou potlačou
+pre Mlyny UK)
+SPOLU
+Celková zmluvná cena
+bez DPH
+
+Druh
+vizuálu
+
+Počet v
+kusoch
+
+Jednotková cena
+bez DPH v €
+
+Cena bez DPH v €
+za počet kusov
+
+ISIC ofset
+
+6 100
+
+6,50
+
+39 650,00
+
+ITIC ofset
+
+200
+
+6,50
+
+1 300,00
+
+Bez potlače
+
+1000
+
+5,00
+
+5 000,00
+
+Biela s
+potlačou
+
+1000
+
+3,20
+
+3 200,00
+
+49 150,00
+
+V Bratislave dňa:
+
+Ing. Branislav Jurčišin
+Ing. Karol Gogolák, MBA
+konatelia
+TransData s.r.o.
+
+9
+
+Príloha č.2
+
+Zoznam externých aplikácií pre preukaz študenta
+( externé aplikácie sú platné pre preukaz typu Mifare Desfire EV1 8kB )
+Študent v dennej forme štúdia používa svoj preukaz ako plnohodnotné médium
+na realizáciu služieb poskytovaných nasledovnými tretími osobami podľa nimi verejne
+vyhlásených podmienok (tarifa, knižničný poriadok a pod.):
+Dopravné spoločnosti:
+Arriva Michalovce, a.s.
+BUS Karpaty Stará Ľubovňa, s.r.o.
+Dopravný podnik B.Bystrica, a.s.
+Dopravný podnik Bratislava, a. s.
+Dopravný podnik mesta Košice, a.s.
+Dopravný podnik mesta Prešov, a.s.
+Eurobus Košice, a.s.
+Mestská dopravná spoločnosť, a.s. Považská Bystrica
+MPS Nitra
+SAD Dunajská Streda, a.s.
+SAD Humenné, a.s.
+SAD Prešov, a.s.
+SAD Prievidza, a.s.
+SAD Trenčín, a.s.
+SAD Zvolen, a.s.
+SAD Žilina, a.s.
+Slovak Lines Bratislava, a.s.
+Železničná spoločnosť Slovensko, a.s.
+Knižnice:
+Univerzitná knižnica Bratislava
+Centrum vedeckých a technických informácií SR, Bratislava
+Štátna vedecká knižnica v Prešove
+Štátna vedecká knižnica v Banskej Bystrici
+Štátna vedecká knižnica v Košiciach
+Slovenská lesnícka a drevárska knižnica vo Zvolene
+Iné služby:
+FaxCopy a.s. – služby reprografické – pokiaľ obchodné miesto nebude technicky pripravené k
+akceptovaniu preukazu študenta, spol.Fax Copy vydá držiteľovi zdarma kartu Fax Copy
+IRSnet, s.r.o. – služby TicketPortál
+SMART Bee – elektronický predaj dokumentov
+Smart Work – elektronická personálna agentúra
+
+Ing. Branislav Jurčišin
+Ing. Karol Gogolák, MBA
+konatelia
+TransData s.r.o.
+
+10
+
+Príloha č.3
+
+Vzor potlače kariet pre VM Mlyny Bratislava
+
+Hlavička tabuľky potlačených kariet pre VM Mlyny Bratislava
+
+Poradové číslo
+
+Číslo čipu/SNR DEC
+
+Číslo čipu/SNR HEX
+
+Poradové číslo
+
+Číslo čipu/SNR DEC
+
+Číslo čipu/SNR HEX
+
+5100
+
+1404283531
+
+53B3AA8B
+
+5100
+až
+XY
+
+Príklad
+
+11
+
+

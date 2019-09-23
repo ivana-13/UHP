@@ -1,0 +1,536 @@
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+
+číslo MLA: 3/2017
+
+ESET, spol. s r.o.
+
+Rozhlas a televízia Slovenska
+
+Einsteinova 24
+
+Mlynská dolina
+
+851 01 Bratislava
+Zastúpený: Richard Marko, generálny riaditeľ na základe plnej
+moci
+
+845 45 Bratislava
+Zastúpený: Václav Mika, generálny riaditeľ
+
+IČO: 313 33 532
+
+IČO: 47 232 480
+
+IČ DPH: SK2020317068
+
+IČ DPH/IČ DPH: SK2023169973
+
+Bankové spojenie: XXXXXX
+
+Bankové spojenie: XXXXXX
+
+Číslo účtu: XXXXXX
+
+Číslo účtu: XXXXXX
+
+Spoločnosť je zapísaná v obchodnom registri Okresného súdu
+Bratislava I, v oddiele Sro na vložke č. 3586/B
+
+Spoločnosť je zapísaná v obchodnom registri Okresného súdu
+Bratislava I, v oddiele Po na vložke č. 1922/B
+
+ďalej iba “ESET”
+
+ďalej iba “Zákazník”
+
+Preambula. Keďže ESET je vlastníkom autorských práv ku Softvéru a výrobcom Softvéru a Zákazník má záujem používať na
+ochranu pred infiltráciami Softvér, ktorý ESET distribuuje, ESET a Zákazník (ďalej označovaný každý samostatne ako „Zmluvná
+strana“ a spoločne ako „Zmluvné strany“) sa rozhodli pre vzájomnú spoluprácu za podmienok uvedených v tejto zmluve (Ďalej
+len “Zmluva) a všetkých jej prípadných dodatkoch (ďalej len „Dodatok“). Táto Zmluva a všetky jej Dodatky sú spoločne
+označované ako „Dohoda“. Preto sa Zmluvné strany dohodli na nasledovnom:
+
+1. Definície. Ak z konkrétneho ustanovenia Dohody nevyplýva iné, všetky slová začínajúce v texte Dohody veľkým písmenom
+majú význam uvedený v tomto článku alebo význam, ktorý sa im priradil v niektorom ustanovení Dohody tak, že sa slovo
+začínajúce veľkým písmenom uviedlo v úvodzovkách.
+a. „Softvér“ znamená v tejto Zmluve (i) počítačový program alebo počítačové programy špecifikované v Dodatkoch (podľa
+okolností v každom Dodatku jednotlivo alebo súhrne vo všetkých Dodatkoch), pokiaľ z kontextu nevyplýva niečo iné, (ii)
+obsah diskov, CD-ROM, DVD médií, správ elektronickej pošty a ich všetkých prípadných príloh, alebo iných nosičov dát
+na ktoré sa vzťahuje táto Dohoda, vrátene Softvéru dodaného vo forme objektového spustiteľného kódu na CD-ROM,
+DVD médiu, iných nosičoch dát, elektronickou poštou cez počítačovú sieť internet, (iii) so Softvérom súvisiace
+vysvetľujúce materiály a akúkoľvek dokumentáciu, najmä akýkoľvek popis Softvéru, jeho špecifikáciu, popis vlastností,
+popis ovládania, popis operačného prostredia v ktorom sa Softvér používa, návod na použitie alebo inštaláciu Softvéru
+alebo akýkoľvek popis správneho používania Softvéru (ďalej len „Dokumentácia“) a (iv) kópie Softvéru a ak sú dodané
+Zákazníkovi aj opravy prípadných chýb Softvéru, dodatky ku Softvéru, Update, Upgrade, nové verzie Softvéru a všetky
+aktualizácie súčastí Softvéru, na ktoré ESET udeľuje Licenciu v zmysle článku 2 tejto Zmluvy. Softvér je vždy označený
+názvom a edíciou (napríklad ESET NOD32 Antivirus Personal Edition) a číslom verzie v tvare X.Y.(Z).W (napríklad
+2.70.31.2923). „X“ je povinné číslo primárnej verzie, „Y“ je povinné číslo sekundárnej verzie, „Z“ je nepovinné číslo
+terciálnej verzie a „W“ je číslo verzie Databázy vzoriek. Softvér ESET dodáva výlučne vo forme objektového spustiteľného
+kódu.
+b. „Škodlivé programy“ znamenajú v tejto Dohode počítačové programy, ktoré sa môžu skryto nainštalovať na počítač,
+pokiaľ sú detegované Softvérom. Škodlivými programami sú najmä počítačové vírusy, počítačové červy, makrovírusy,
+skriptové vírusy a trójske kone. Niektoré Škodlivé programy môžu byť potenciálne nechcenými aplikáciami alebo
+potenciálne zneužiteľnými aplikáciami.
+c. „Databáza vzoriek“ znamená v tejto Dohode súbor alebo súbory, ktoré ESET poskytuje prostredníctvom siete internet, s
+pomocou ktorých je možné s použitím Softvéru detegovať Škodlivé programy.
+d. „Update“ znamená v tejto Dohode poskytovanie Databázy vzoriek doplnenej o možnosť detegovať predtým
+nedetegované Škodlivé programy. Update sú tiež všetky zmeny Softvéru, pri ktorých dochádza ku zmene označenia
+verzie Softvéru na mieste určujúcom sekundárnu alebo terciálnu verziu. Pre vylúčenie pochybností je ako príklad Update
+uvedená zmena verzie Softvéru z verzie „2.70.31.2923“ na verziu „2.71.0.2924“.
+e. „Upgrade“ znamená v tejto Dohode poskytovanie zdokonalených verzií Softvéru. Pre vylúčenie pochybností je Upgrade
+taká verzia Softvéru, ktorá obsahuje zlepšenia a úpravy, ale nedochádza k veľkým štrukturálnym zmenám Softvéru a
+
+ESET MLA 1.0
+1/8
+
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+
+číslo MLA: 3/2017
+
+pridaniu nových dôležitých vlastností. Pri Upgrade sa zmení číselné označenie primárnej verzie Softvéru (teda Upgrade
+z verzie „2.71.31.2923“ na verziu „3.0.0.2924“).
+f. Negatívna definícia Update a Upgrade. Update a Upgrade nezahŕňajú nové moduly, ktoré obsahujú signifikantne odlišné
+vlastnosti a funkcionality a ktoré sú dodávané ako samostatné nové moduly Softvéru.
+g. „Dôverná informácia“ znamená v tejto Dohode:
+i.
+všetky patentované a nepatentované vynálezy, obchodné tajomstvá, know-how, postupy, myšlienky, návrhy,
+proprietálne technológie a techniky a všetky súvisiace informácie, ktoré Zmluvná strana sprístupní alebo odhalí
+druhej Zmluvnej strane v súvislosti s predmetom tejto Dohody nezávisle od toho, či sa tak stane ústne, písomne,
+vo forme elektronického dokumentu, vizuálneho alebo zvukového záznamu alebo akýmkoľvek iným spôsobom;
+ii.
+informácie technického, hospodárskeho a obchodného charakteru, informácie o cenách a o spôsobe ich tvorby,
+informácie o výrobkoch a/alebo s nimi súvisiacej dokumentácii a príručkách vrátene ich obsahu, akékoľvek
+informácie o výskume a vývoji vrátane plánov výskumu a vývoja, obchodné a rozvojové plány, obchodné plány a
+plány uvádzania výrobkov na trh, minulé a súčasné hospodárske výsledky, predpovede a odhady hospodárskych
+výsledkov, rozpočty, iné ekonomické a hospodárske údaje, údaje o vnútornej štruktúre Zmluvnej strany a jej
+zamestnancoch, informácie o umiestnení jednotlivých súčastí Zmluvnej strany, všetky stratégie Zmluvnej strany
+do budúcnosti, ktoré Zmluvná strana sprístupní alebo odhalí druhej Zmluvnej strane v súvislosti s predmetom
+tejto Dohody nezávisle od toho, či sa tak stane ústne, písomne, vo forme elektronického dokumentu, vizuálneho
+alebo zvukového záznamu alebo akýmkoľvek iným spôsobom;
+iii.
+existencia a obsah akýchkoľvek diskusií v súvislosti s predmetom tejto Dohody;
+iv.
+akékoľvek poznámky, záznamy alebo kópie týkajúce sa informácií uvedených v bode i, ii alebo iii tejto definície,
+ktoré vyhotoví Zmluvná strana alebo niektorý z jej zamestnancov.
+• Dôvernou informáciou nie je
+v.
+informácia, ktoré je všeobecne známa alebo sa stala všeobecne známou inak ako porušením Dohody Zmluvnou
+stranou alebo v dôsledku protiprávneho konania tretej strany;
+vi.
+informácia, ktorá bola nezávisle vyvinutá Zmluvnou stranou;
+vii.
+informácia, ktorá, bola Zmluvnej strane poskytnutá treťou stranou a Zmluvná strana sa dôvodne domnieva, že
+ju môže použiť a že tretia strana ju získala oprávnene a v súlade s Dohodou;
+viii.
+informácia, ktorú je Zmluvná strana donútená poskytnúť na základe zákona alebo právoplatného rozhodnutia
+orgánu verejnej správy za predpokladu, že
+1. bez zbytočného meškania písomne, telefonicky alebo faxom informuje druhú Zmluvnú stranu o možnosti,
+že bude nútený poskytnúť informáciu podľa bodov i, ii, iii alebo iv tejto definície
+2. poskytne druhej Zmluvnej strane potrebnú súčinnosť pri obrane proti nútenému poskytnutiu informácie
+podľa bodov i, ii, iii alebo iv tejto definície
+3. poskytne informáciu podľa bodov i, ii, iii alebo iv tejto definície len v minimálnom nevyhnutnom a
+požadovanom rozsahu.
+2.
+
+Licencia. Po podpise príslušného Dodatku ku Zmluve ESET udeľuje Zákazníkovi za predpokladu, že Zákazník v termíne
+splatnosti uhradí Licenčný poplatok podľa článku 8 Zmluvy, nevýhradné a neprevoditeľné právo na používanie Softvéru za
+podmienok stanovených Dohodou (ďalej len „Licencia“), čo znamená právo nainštalovať Softvér na pevný disk počítača
+alebo na iné podobné médium slúžiace na trvalé ukladanie dát, inštaláciu a ukladanie Softvéru do pamäte počítačového
+systému, na vykonávanie, na ukladanie a na zobrazovanie Softvéru na počítačových systémoch. Licencia podlieha
+obmedzeniam, ktoré sú uvedené v tejto Dohode.
+
+3.
+
+Obmedzenia licencie. Licencia je obmedzená nasledovnými podmienkami, ktoré je Zákazník povinný dodržiavať:
+a. Práva z Licencie musí Zákazník vykonávať osobne alebo prostredníctvom svojich prípadných zamestnancov alebo
+poskytovateľov služieb v mieste prevádzok Zákazníka (ďalej len „Používatelia“).
+b. Zákazník môže Softvér použiť výlučne iba na zabezpečenie svojej činnosti a na ochranu Autorizovaného hardvéru
+v rozsahu Licencie
+c. Softvér je zakázané kopírovať, s výnimkou práva vytvoriť jedinú kópiu Softvéru na médiu určenom na trvalé ukladanie
+dát ako záložnú kópiu, za predpokladu, že záložná kópia Softvéru sa nebude inštalovať alebo používať na inom
+počítačovom systéme. Vytvorenie akejkoľvek ďalšej kópie Softvéru je porušením tejto Dohody.
+d. Softvér je zakázané šíriť, oddeľovať jeho časti alebo vytvárať odvodené verzie Softvéru.
+e. Používať, upravovať, prekladať, reprodukovať, alebo prevádzať práva na používanie Softvéru alebo kópie Softvéru inak,
+než je výslovne uvedené v tejto Dohode je zakázané.
+f. Softvér je zakázané zapožičať, predať, sublicencovať alebo prenajať inej osobe
+g. Softvér je zakázané vziať do prenájmu od inej osoby
+h. Je zakázané Softvér spätne analyzovať, dekompilovať, prevádzať do zdrojového kódu alebo sa iným spôsobom pokúsiť
+získať zdrojový kód Softvéru s výnimkou rozsahu, v ktorom je takéto obmedzenie výslovne zakázané zákonom.
+
+ESET MLA 1.0
+2/8
+
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+i.
+
+j.
+
+číslo MLA: 3/2017
+
+Softvér je možné používať iba spôsobom, ktorý je v súlade so všetkými platnými právnymi predpismi v právnom systéme,
+v ktorom sa Softvér používa, najmä (nie však výlučne) v súlade s platnými obmedzeniami vyplývajúcimi z autorského
+práva a ďalších práv duševného vlastníctva.
+Je zakázané používať Softvér získaný ako verzia na vyskúšanie (TRIAL) alebo Not-For-Resale (ďalej len „NFR“) v rozpore s
+dobrými mravmi za účelom vyhnutiu sa zaplateniu Licenčného poplatku podľa článku 8 Zmluvy.
+
+4. Iné použitie Softvéru. ESET touto Zmluvou udeľuje štandardnú Licenciu. Jednotlivé Dodatky k tejto Zmluve môžu Zákazníkovi
+priznávať práva na použitie Softvéru alebo konkrétneho softvérového produktu aj nad rámec tejto Zmluvy, jej dodatkov
+a obmedzení v nich obsiahnutých, a to vždy vo vzťahu ku konkrétnemu softvérovému produktu uvedenému v príslušnom
+Dodatku. Pre vylúčenie pochybností ako príklad použitia Softvéru, ktorý Dohoda štandardne neumožňuje (okrem prípadu ak
+je takéto použitie výslovne uvedené v niektorom Dodatku), sú uvedené nasledovné príklady:
+a. prenechanie Softvéru na použitie tretej strane za finančné protiplnenie alebo bezodplatne
+b. poskytovanie služieb tretím stranám s použitím Softvéru
+c. poskytovanie outsourcingu, manažovaných dátových služieb, aplikácií tretím stránám, časového zdieľania používania
+Softvéru
+d. použitie Softvéru pri tvorbe počítačových programov a akejkoľvek inej tvorbe od Softvéru odvodených diel.
+e. umožnenie použitia Softvéru iným osobám ako Používateľom.
+5. Práva k softvéru a výhrada práv. Softvér a všetky s ním súvisiace práva, najmä (nie však výlučne ) vlastnícke práva a práva
+duševného vlastníctva v ňom obsiahnuté, patria spoločnosti ESET a/alebo jej poskytovateľom licencií. Tieto práva sú
+chránené ustanoveniami medzinárodných dohôd a všetkými ďalšími aplikovateľnými zákonmi krajiny, v ktorej sa Softvér
+používa. Zdrojový kód Softvéru je obchodným tajomstvom spoločnosti ESET a jej prípadných poskytovateľov licencií
+a Zákazník k nemu nemá a ani touto Dohodou nezískava žiadne práva alebo vlastníctvo. Štruktúra, organizácia a kód Softvéru
+sú obchodným tajomstvom a/alebo Dôvernými informáciami spoločnosti ESET a/alebo jej poskytovateľov licencií. Softvér je
+zakázané kopírovať, s výnimkou uvedenou v ustanovení článku 3.c Zmluvy. Akékoľvek kópie, ktoré Zákazník smie vytvoriť
+podľa tejto Dohody, musia obsahovať rovnaké upozornenia na autorské a vlastnícke práva, aké sú uvedené na alebo v
+Softvéri. V prípade, že Zákazník v rozpore s ustanoveniami tejto Dohody bude spätne analyzovať, dekompilovať, prevádzať
+do zdrojového kódu alebo sa iným spôsobom pokúsi získať zdrojový kód, získané informácie sa budú automaticky a
+neodvolateľne považovať za prevedené na spoločnosť ESET a vlastnené v plnom rozsahu spoločnosťou ESET od okamihu ich
+vzniku. Všetky práva k Softvéru, okrem práv ktoré ESET Zákazníkovi ako používateľovi Softvéru výslovne udelil na základe
+Dohody, si ESET výslovne vyhradzuje pre seba.
+6. Inštalácia. Softvér vyžaduje inštaláciu a následnú konfiguráciu kvalifikovaným personálom pre konkrétny Autorizovaný
+hardvér. Softvér musí byť inštalovaný na správne nakonfigurovaný počítačový systém spĺňajúci minimálne požiadavky
+uvedené v Dokumentácii. Spôsob inštalácie je popísaný v Dokumentácii. Na počítačovom systéme, na ktorom bude Softvér
+inštalovaný nesmú byť pre inštaláciou Softvéru ani po nej nainštalované žiadne počítačové programy alebo technické
+vybavenie, ktoré by mohlo nepriaznivo ovplyvniť Softvér a jeho činnosť. Pokiaľ Softvér nebude správne nakonfigurovaný pre
+konkrétny Autorizovaný hardvér, nie je možné zaručiť jeho bezchybnú funkciu.
+7. Autorizovaný hardvér. Zákazník je povinný inštalovať Softvér iba na hardvér, pre ktorý získal právo inštalácie na základe
+tejto Dohody („Autorizovaný hardvér“). Ak je Licencia udelená pre osobný počítač, Autorizovaným hardvérom je iba osobný
+počítač, ktorý Zákazník vlastní alebo má v prenájme. Ak je Licencia udelená pre server, Autorizovaným hardvérom je iba
+server v priestoroch, ktoré Zákazník využíva na základe platného právneho titulu a ktorý je Zákazník povinný identifikovať
+spoločnosti ESET typom CPU, počtom CPU ak má CPU viac ako jedno jadro aj počtom jadier jednotlivých CPU, ak ESET bude
+mať takúto požiadavku.
+8. Licenčné poplatky. Licenčné poplatky sú stanovené dohodou Zmluvných strán v závislosti od rozsahu poskytnutých práv na
+používanie Softvéru a ich obmedzení v Dohode na základe príslušnej metódy stanovenia ceny („pricing metrics“) pre ten –
+ktorý softvérový produkt. Licenčný poplatok, metóda stanovenia ceny a prípadné iné ako štandardné práva na použitie
+Softvéru za prvý rok alebo za inú dĺžku trvania prvého obdobia na ktorý Zákazník získal Licenciu (ďalej len „Obdobie“), sú
+uvedené v príslušnom Dodatku. Licenčné poplatky za Licenciu na druhé a ďalšie Obdobie, prípadne za predĺženie Obdobia
+bude ESET fakturovať vždy osobitne, pričom tieto Licenčné poplatky môžu byť v inej výške ako za prvé Obdobie. ESET si
+vyhradzuje právo na budúcu zmenu výšky Licenčného poplatku alebo metódy stanovenia ceny. Nakoľko niektoré Licenčné
+poplatky a metódy stanovenia ceny vychádzajú z predpokladu, že isté softvérové riešenia budú používané iba spoločne vo
+forme integrovaného riešenia, takáto Licencia oprávňuje Zákazníka výlučne iba na spoločné používanie integrovaného
+riešenia a Zákazník nesmie používať jeho jednotlivé súčasti samostatne, oddelene a/alebo nezávisle od dodaného
+integrovaného softvérového riešenia.
+
+ESET MLA 1.0
+3/8
+
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+
+číslo MLA: 3/2017
+
+9. Prístup k Update a Upgrade. Na prístup ku Update a/alebo Upgrade sa vyžaduje prihlasovacie meno Zákazníka a
+prihlasovacie heslo Zákazníka (ďalej len „Identifikácia“). Identifikácia Zákazníka používateľa pozostáva z náhodnej
+kombinácie alfanumerických znakov a je automaticky generovaná obchodným systémom spoločnosti ESET. Zákazník je
+povinný ochrániť Identifikáciu pred poškodením, stratou alebo zneužitím. V prípade prvého zistenia zneužitia Identifikácie
+ESET pôvodnú Identifikáciu Zákazníka znefunkční a vydá Zákazníkovi novú Identifikáciu (ďalej len „Náhradná identifikácia“).
+Zákazník je povinný poskytnúť spoločnosti ESET všetky údaje, ktoré si ESET vyžiada pri prešetrovaní zneužitia Identifikácie,
+čo zahŕňa najmä no nielen prístup ku záznamom o prevádzke počítačových systémov, záznamov o prístupoch k súborom a
+ako aj iné potrebné údaje. V prípade zistenie zneužitia Náhradnej identifikácie môže ESET podľa vlastnej úvahy vydať
+Zákazníkovi novú Náhradnú identifikáciu alebo okamžite a bez náhrady zrušiť Zákazníkovi používateľovi Licenciu. Právo
+spoločnosti ESET na náhradu škody nie je zrušením Licencie dotknuté. Zákazník je povinný získavať Aktualizáciu len zo zdrojov
+autorizovaných spoločnosťou ESET (ďalej len „Autorizované zdroje“). Zákazník sa zaväzuje nainštalovať Update alebo
+Upgrade okamžite ako ich získa alebo najneskôr v čase, ktorý stanoví spoločnosti ESET v Softvéri, jeho Dokumentácii alebo
+na internetových stránkach spoločnosti ESET alebo jej obchodných partnerov. ESET nezodpovedá za škody, ktoré vznikli
+porušením povinnosti Zákazníka nainštalovať Update alebo Upgrade a/alebo inštaláciou Aktualizácie z iných ako
+Autorizovaných zdrojov.
+10. Voliteľný zber infiltrácií Softvérom. Softvér obsahuje funkciu, ktorá slúži na zhromažďovanie vzoriek nových počítačových
+vírusov alebo iných obdobných škodlivých počítačových programov (ďalej len „Infiltrácia“) a ich následné odoslanie
+spoločnosti ESET, vrátene informácie o počítači a/alebo platforme na ktorej je Softvér nainštalovaný (ďalej len „Informácie“).
+Informácie môžu obsahovať údaje (vrátene osobných údajov) o používateľoch počítačového systému alebo serveru na
+ktorom je nainštalovaný Softvér, informácie o počítači a operačnom systéme, podozrivé súbory z počítačového systému
+alebo serveru na ktorom je Softvér nainštalovaný, súbory postihnuté Infiltráciou a informácie o takýchto súboroch. ESET
+použije získané Informácie a Infiltrácie iba na preskúmanie Infiltrácie, pričom je povinný zabezpečiť primerané opatrenia na
+zachovanie dôverného charakteru získaných Informácii. V prípade, že aktivujete vyššie popísanú funkciu Softvéru, udeľujete
+spoločnosti ESET súhlas potrebný v zmysle príslušných právnych noriem na spracovávanie získaných Informácii a súhlasíte s
+tým, aby boli Infiltrácie a Informácie zasielané spoločnosti ESET.
+11. Technická podpora. ESET zabezpečuje technickú podporu pre najaktuálnejšiu verziu Softvéru v pracovných dňoch počas
+prevádzkových hodín zverejnených na internetových stránkach spoločnosti ESET. Jednotlivé Dodatky môžu upravovať rozsah
+a spôsob poskytovania technickej podpory v rozsahu odlišnom, než je uvedené v tomto článku. Požiadavky o na technickú
+podporu, ktoré dôjdu mimo prevádzkových hodín sa považujú za došlé v nasledujúci pracovný deň. Požiadavku o technickú
+podporu môže Zákazník doručiť spoločnosti ESET spôsobom popísaným v Softvéri, jeho Dokumentácii alebo na
+internetových stránkach spoločnosti ESET . Požiadavka o technickú podporu musí byť dostatočne určitá a musí obsahovať
+údaje umožňujúce replikovať ohlásený problém. V prípade potreby je Zákazník povinný poskytnúť potrebnú súčinnosť pri
+riešení ohláseného problému. ESET nie je povinný poskytnúť technickú podporu najmä v prípadoch, ak oznámená chyba:
+a. je následkom neoprávneného zásahu do Softvéru, jeho zdrojového kódu, alebo použitím nesprávnych parametrov alebo
+nastavení Softvéru
+b. vznikla chybou obsluhy, alebo používaním Softvéru v rozpore s Dokumentáciou
+c. už bola odstránená vydaním Update alebo Upgrade, ktorý Zákazník nenainštaloval
+d. Zákazník nezaplatil Licenčný poplatok
+e. pokiaľ to ustanovuje táto Dohoda.
+12. Platobné podmienky.
+a. ESET vystaví Zákazníkovi faktúru vždy pred začiatkom obdobia, na ktoré Zákazník získal Licenciu. Splatnosť faktúr bola
+Zmluvnými stranami dohodnutá na tridsať (30) dní odo dňa vystavenia faktúry, ak nie je v Dodatkoch stanovená iná
+splatnosť faktúr. Výška Licenčných poplatkov nezahŕňa dane. ESET do faktúr zahrnie tie dane, ktoré sa vzťahujú na
+Zákazníka (najmä, nie však výlučne daň z pridanej hodnoty) a ktoré je Zákazník povinný zaplatiť. Za zaplatenie prípadných
+daní, ktoré súvisia s používaním Softvéru Zákazníkom zodpovedá výlučne Zákazník. Faktúra sa považuje za zaplatenú
+pripísaním fakturovanej čiastky na účet spoločnosti ESET. Ak je Zákazník v omeškaní s úhradou faktúry v termíne jej
+splatnosti, ESET si môže uplatniť zmluvnú pokutu vo výške nula celých päť stotín (0,05) percenta z fakturovanej sumy za
+každý aj začatý deň omeškania. ESET nemá povinnosť a Zákazník nemá právo na vrátenie zaplateného Licenčného
+poplatku ani jeho príslušnej časti po tom, ako ESET doručil Zákazníkovi Identifikáciu.
+b. Zákazník je povinný viesť evidencie a záznamy o Softvéri a jeho používaní, najmä o rozsahu a mieste a spôsobe
+používania Softvéru, z ktorých možno overiť plnenie obmedzení plynúcich z Licencie a majúcich vzťah ku príslušnej
+metóde stanovenia ceny. Zákazník je povinný na požiadanie poskytnúť tieto evidencie a záznamy spoločnosti ESET.
+c. Zákazník má právo požiadať ESET o povolenie zmeny operačného systému, Autorizovaného hardvéru alebo niektorých
+iných podrobností, ktoré môžu mať vplyv na metódu stanovenia ceny alebo rozsah práv na používanie Softvéru. Tieto
+
+ESET MLA 1.0
+4/8
+
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+
+číslo MLA: 3/2017
+
+zmeny môžu viesť k povinnosti zaplatiť dodatočný Licenčný poplatok a to odo dňa keď takáto zmena nadobudne
+účinnosť. ESET v takom prípade vystaví Zákazníkovi faktúru na dodatočný Licenčný poplatok.
+13. Záruky a obmedzenia.
+a. ESET zaručuje, že má právo udeliť Licencie na používanie Softvéru Zákazníkovi. Nárok, ktorý Zákazníkovi vyplýva z
+porušenia tejto záruky je uvedený v článku 15.
+b. ESET zaručuje, že každý softvérový produkt má v zásade také vlastnosti, aké sú popísané v Dokumentácií a jej prípadných
+aktualizáciách a že média, na ktorých bol Softvér dodaný Zákazníkovi sú čitateľné a neobsahujú Škodlivé programy.
+V prípade porušenie záruk uvedených v tomto odseku má Zákazník právo na (i) odstránenie vady Softvéru; (ii) dodanie
+Softvéru bez vady alebo ukončenie Licencie pre príslušný softvérový produkt a vrátenie Licenčného poplatku
+zaplateného za takýto Softvér za príslušné Obdobie.
+c. ESET a jeho poskytovatelia licencií výslovne vyhlasujú, že okrem vyššie uvedených záruk neposkytujú žiadne ďalšie
+výslovné alebo implikované prehlásenia alebo záruky, najmä nie záruky predajnosti alebo vhodnosti pre konkrétny účel
+alebo záruky, že Softvér (i) sa zhoduje (ii) spĺňa alebo je v súlade požiadavkami určenými zákonmi, nariadeniami,
+všeobecne záväznými právnymi predpismi alebo požiadavkami akéhokoľvek orgánu verejnej správy. Príslušní
+poskytovatelia licencií poskytli ich softvér spoločnosti ESET v stave „ako stojí a leží.“ Spoločnosť ESET ani jej
+poskytovatelia licencií nedávajú žiadnu záruku ani neposkytujú žiadne vyhlásenie, že funkcie, ktoré obsahuje Softvér,
+budú vyhovovať požiadavkám Zákazníka, alebo že prevádzka Softvéru bude nerušená a bezchybná.
+d. ESET nepreberá zodpovednosť za žiadne škody spôsobené kombináciou vplyvu počítačových infiltrácii, Škodlivých
+programov, iného softvéru, hardvéru, a použitie prípadne nepoužitia alebo nemožnosti použitia Softvéru.
+e. ESET zodpovedá za škody, ktoré by mohli vzniknúť využívaním Softvéru maximálne do výšky Licenčného poplatku
+Zákazníkom zaplateného za príslušný softvérový produkt za Obdobie, v ktorom vznikla škoda. Zmluvné strany spoločne
+vyhlasujú, že s prihliadnutím na všetky skutočnosti, ktoré sú Zmluvným stranám v okamihu uzavretia tejto Dohody
+známe, nemožno predvídať, že prípadná škoda, ktorá by mohla vzniknúť používaním Softvéru prevýši výšky sumy, ktorú
+Zákazník zaplatí spoločnosti ESET ako Licenčný poplatok za príslušný softvérový produkt za Obdobie v ktorom vznikla
+škoda.
+14. Vyhlásenie Zákazníka. Zákazník plne znáša riziko za výber Softvéru pre dosiahnutie zamýšľaného účelu, za inštaláciu,
+používanie a výsledky, ktoré so Softvérom dosiahne. Zákazník berie na vedomie, že Softvér bol spoločnosťou ESET poskytnutý
+v stave „ako stojí a leží.“ Zákazník výslovne vyhlasuje, že poučí všetkých Používateľov Softvéru o podmienkach obsiahnutých
+v Dohode, ktoré sa na nich vzťahujú, a že zodpovedá za dodržiavanie týchto podmienok Používateľmi.
+15. Podmienky sľubu odškodnenia. Zákazník je povinný bez zbytočného meškania upovedomiť ESET písomne o akomkoľvek
+nároku, ktorý proti Zákazníkovi vznesie tretia strana, týkajúceho sa
+a. porušenia autorského práva, patentov, obchodného tajomstva alebo iných práv duševného vlastníctva vo vzťahu ku
+Softvéru alebo;
+b. ujmy na zdraví, smrti alebo poškodenie hmotných vecí (s výslovným vylúčením akéhokoľvek poškodenia softvéru alebo
+dát)
+za predpokladu, že udalosti uvedené pod písmenami a a b vyššie sú dôsledkom konania, za ktoré ESET nesie právnu
+zodpovednosť (ďalej iba „Nárok“)“. Zákazník je povinný podniknúť všetky kroky potrebné na to, aby spoločnosti ESET
+umožnil vykonávať v najväčšom zákonom prípustnom a dovolenom rozsahu kontrolu nad postupom v súdnom konaní alebo
+pri súdnej či mimosúdnej dohode o urovnaní Nároku. Zákazník je zároveň povinný poskytnúť spoločnosti ESET všetku
+potrebnú súčinnosť pri prešetrovaní, obrane a urovnaní Nároku. ESET má právo určiť Zákazníkovi právneho zástupcu
+a kontrolovať stratégiu v súdnom konaní a akúkoľvek dohodu o urovnaní. Za predpokladu, že Zákazník splní všetky
+povinnosti, ktoré mu vyplývajú z tohto článku, ESET je povinný nahradiť Zákazníkovi náklady, ktorá mu vznikli na základe
+uplatneného Nároku tým, že uhradí Zákazníkovi náklady na súdne poplatky, trovy konania a primerané náklady na právne
+zastúpenie, pokiaľ sú tieto náklady dôsledkom pokynov spoločnosti ESET (okrem situácie ak tieto náklady znášal priamo
+ESET) a prípadné náklady plnenia právoplatného rozsudku vyneseného proti Zákazníkovi alebo dohody o urovnaní
+schválenej spoločnosťou ESET. Bez ohľadu na právo na náhradu nákladov podľa predošlej vety má Zákazník právo
+spolupodieľať sa na svojich nákladoch súvisiacich s Nárokom. Pre prípad, že je voči Zákazníkovi vznesený Nárok podľa
+odseku a tohto článku alebo ak by takýto nárok podľa názoru spoločnosti ESET mohol byť vznesený, potom ESET môže podľa
+vlastného rozhodnutia
+c. upraviť Softvér
+d. obstarať pre Zákazníka právo pokračovať v používaní Softvéru
+e. ukončiť Licenciu pre príslušný softvérový produkt a vrátiť Licenčný poplatok za takýto Softvér zaplatený za príslušné
+Obdobie.
+
+ESET MLA 1.0
+5/8
+
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+
+číslo MLA: 3/2017
+
+Zákazník je povinný riadiť sa rozhodnutím spoločnosti ESET pre prípad vznesenia Nároku podľa odseku a tohto článku
+a podľa toho čo je potrebné, buď nainštalovať inú verziu Softvéru alebo prestať používať Softvér. Tento sľub odškodnenia
+sa nevzťahuje na Nároky, ktoré vznikli na podklade toho, že Zákazník
+f. skombinoval Softvér s iným softvérom alebo Softvér pozmenil, ak by Nárok nevznikol bez takéhoto skombinovania alebo
+pozmenenia Softvéru alebo
+g. nemal v čase vzniku Nároku nainštalovanú najnovšiu verziu Softvéru alebo Softvér na túto verziu neaktualizoval v súlade
+s pokynmi spoločnosti ESET, pokiaľ by Nárok nevznikol, ak by Zákazník nainštaloval najnovšiu verziu Softvéru alebo
+Softvér na túto verziu aktualizoval.
+16. Referencia. Zákazník udeľuje pre ESET súhlas, aby bol uvádzaný v propagačných materiáloch a na internetových stránkach
+ako referenčný zákazník. ESET môže spracovať v spolupráci so Zákazníkom prípadovú štúdiu a sprístupniť ju tretím stranám
+za predpokladu, že ju Zákazník vopred písomne odsúhlasí. Zákazník nemôže bezdôvodne odopierať udelenie súhlasu s
+odsúhlasením prípadovej štúdie.
+17. Audit. ESET a/alebo splnomocnenec spoločnosti ESET má právo vykonať audit používania Softvéru priamo na mieste
+u Zákazníka počas jeho obvyklých obchodných hodín na základe písomného oznámenia doručeného najmenej sedem (7) dní
+vopred. Zákazník je povinný poskytnúť spoločnosti ESET alebo jej splnomocnencovi súčinnosť tým, že:
+a. sprístupní všetky potrebné evidencie a záznamy súvisiace so Softvérom a jeho používaním
+b. umožní na svoje náklady vyhotovenie kópií evidencií a záznamom podľa požiadaviek osôb vykonávajúcich audit
+c. zabezpečí, aby zamestnanci Zákazníka spolupracovali s osobami vykonávajúcimi audit.
+Ak sa auditom zistí, že Zákazník používa Softvér vo väčšom rozsahu, ako ho na to oprávňuje Dohoda, je povinný zaplatiť
+spoločnosti ESET dodatočný Licenčný poplatok a náklady, ktoré ESET účelne vynaložil na audit.
+18. Ochrana dôverných informácií. Pokiaľ sú určité skutočnosti ktoroukoľvek zo Zmluvných strán výslovne označené ako
+Dôverné informácie, alebo pokiaľ možno na základe iných skutočností súdiť, že predstavujú Dôverné informácie, má druhá
+Zmluvná strana povinnosť uchovávať takéto skutočnosti v tajnosti a chrániť ich pred vyzradením tretej strane. Dôverné
+informácie druhej Zmluvnej strany sú Zmluvné strany povinné chrániť pred vyzradením nepovolaným osobám prinajmenšom
+v takom rozsahu, v akom chránia svoja vlastné Dôverné informácie podobného významu. Rozsah ochrany Dôverných
+informácii druhej Zmluvnej strany však v žiadnom prípade nesmie byť nižší ako je obvyklý a primeraný stupeň ochrany
+takýchto informácií u starostlivého podnikateľa. Dôverné informácie nesmie druhá strana Zmluvná strana prezradiť tretej
+strane a ani ich použiť v rozpore s účelom ich poskytnutia pre svoje potreby.
+19. Rozhodujúce právo. Táto Dohoda sa riadi slovenským právom, pričom Zmluvné strany sa výslovne dohodli na vylúčení
+kolíznych ustanovení rozhodujúceho právneho poriadku a v najväčšom prípustnom rozsahu aj na vylúčení všetkých právnych
+predpisov, ktorými sa riadi predaj tovarov. Zmluvné strany výslovne vyhlasujú, že sa dohodli na vylúčení Dohovoru OSN o
+zmluvách pri medzinárodnej kúpe tovarov. Pre vylúčenie akejkoľvek pochybnosti sa Zmluvné strany výslovne dohodli na
+vylúčení aplikácie všetkých ustanovení slovenského právneho poriadku nekogentnej povahy v rozsahu, v ktorom by ich
+aplikácia mohla zmeniť účel alebo význam jednotlivých ustanovení tejto Dohody.
+20. Kontrola exportu a reexportu. Softvér, Dokumentácia alebo ich súčasti vrátene informácii o Softvéri a jeho súčastiach
+podliehajú alebo môžu podliehať opatreniam o kontrole dovozu a vývozu na základe právnych predpisov, ktoré môžu
+vydávať vlády príslušné na ich vydanie podľa príslušného aplikovateľného práva, a to vrátane predpisov na kontrolu exportu
+a reexportu vydávaných vládou Spojených štátov amerických. Zákazník je povinný dodržiavať všetky aplikovateľné dovozné
+a vývozné predpisy a uznáva, že nesie zodpovednosť za získanie všetkých povolení na export, reexport, prevod alebo import
+Softvéru, ak sú v jeho prípade potrebné.
+21. Vyššia moc. Zmluvné strany nezodpovedajú za nesplnenie svojich záväzkov z Dohody, pokiaľ je plnenie záväzku znemožnené
+alebo pozdržané zásahom verejného nepriateľa, vojnovými udalosťami, občianskymi nepokojmi, povstaním, demonštráciou,
+požiarom, povodňou, zemetrasením, štrajkom zamestnancov spôsobujúcim spomalenie alebo prerušenie práce, ohrozením
+bezpečnosti štátu, neschopnosťou obstarať vybavenie, dáta alebo materiál od príslušných dodávateľov aj po vynaložení
+zodpovedajúceho úsilia alebo inými okolnosťami mimo kontroly Zmluvných strán („Zásah vyššej moci“). Predpokladom pre
+vylúčenie zodpovednosti Zmluvnej strany za Zásah vyššej moci je splnenie podmienky, že Zásah vyššej moci nie je zavinený
+úmyslom alebo nedbanlivosťou príslušnej Zmluvnej strany, a že táto Zmluvná strana bez zbytočného meškania písomne
+informovala druhú Zmluvnú stranu o Zásahu vyššej moci. Zmluvná strana, ktorá informuje o Zásahu vyššej moci je povinná
+vynaložiť primerané a obvyklé úsilie na vyhnutie sa Zásahu vyššej moci, minimalizáciu jeho prípadných následkov a doby
+jeho trvania. Po skončení Zásahu vyššej moci je doba plnenia predĺžená o dobu trvania oneskorenia alebo nemožnosti
+plnenia zmluvného záväzku z dôvodu Zásahu vyššej moci.
+
+ESET MLA 1.0
+6/8
+
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+
+číslo MLA: 3/2017
+
+22. Riešenie sporov. Spory alebo nezhody vyplývajúce z tejto Dohody alebo v súvislosti s ňou alebo porušenie, ukončenie,
+zrušenie alebo neplatnosť tejto Dohody (ďalej len „Spor“) sa vyriešia s konečnou platnosťou tak, ako určuje tento článok.
+Každý Spor budú Zmluvné strany riešiť najprv v dobrej viere vzájomným rokovaním s cieľom vyriešiť Spor dohodou bez
+rozhodcovského konania. V prípade Sporu je Zmluvná strana povinná doručiť druhej Zmluvnej strane písomné oznámenie o
+Spore, v ktorom musí vymedziť predmet Sporu a navrhnúť termín na rokovanie. Ak Zmluvné strany Spor nevyriešia do 30
+(slovom tridsiatich) dní od doručenia písomného oznámenia Sporu druhej Zmluvnej strane, predložia Spor Rozhodcovskému
+súdu Slovenskej obchodnej a priemyselnej komory v Bratislave (ďalej len „Súd“). Súd rozhodne o spore podľa jeho
+základných vnútorných právnych predpisov. Súd rozhodne o Spore s konečnou platnosťou. Rozhodnutie Súdu bude pre
+Zmluvné strany záväzné a Zmluvné strany sa podrobia rozhodnutiu Súdu.
+23. Vylúčenie vzdania sa práva. Pokiaľ sa v jednotlivom prípade, alebo aj vo viacerých prípadoch ktorákoľvek zo Zmluvných strán
+čiastočne alebo úplne vzdá práva, ktoré vyplýva z tejto Zmluvy, jej porušenia, alebo z pochybenia Zmluvnej strany, alebo sa
+vzdá vynútenia takéhoto práva, nebude sa to považovať za vzdanie sa práva alebo vynútenie práva v podobných prípadoch
+aj v budúcnosti.
+24. Platnosť a účinnosť. Táto Dohoda nadobúda platnosť podpisom tou Zmluvnou stranou, ktorá ju podpíše ako druhá v poradí.
+Zmluva nadobúda účinnosť dňom nasledujúcim po dni jej zverejnenia v centrálnom registri zmlúv.
+25. Ukončenie. Zákazník má právo ukončiť používanie Softvéru alebo iba niektorého softvérového riešenia kedykoľvek počas
+trvania Obdobia písomnou výpoveďou, pričom výpovedná lehota uplynie a Licencia zanikne posledným dňom aktuálneho
+Obdobia. Bez ohľadu na iné možnosti ukončenia Dohody má ESET právo odstúpiť od Dohody alebo jednostranne zrušiť
+Licenciu bez náhrady, pokiaľ sa dozvie že Zákazník materiálne porušuje niektoré ustanovenie Dohody alebo Licencie
+a Zákazník takéto porušenie na výzvu spoločnosti ESET neodstráni v lehote do 7 (dní) od doručenia písomnej výzvy.
+Odstúpenie od Dohody alebo zrušenie Licencie nadobúda účinnosť márnym uplynutím lehoty vo výzve. Ktorákoľvek zo
+Zmluvných strán je oprávnená od Dohody odstúpiť kedykoľvek po dni vyhlásenia konkurzu na majetok druhej Zmluvnej
+strany, alebo po začatí konkurzného alebo reštrukturalizačného konania voči druhej Zmluvnej strany, alebo po zamietnutí
+návrhu na vyhlásenia konkurzu na majetok druhej Zmluvnej strany pre nedostatok majetku, alebo v prípade, že sa druhá
+Zmluvná strana dostane do likvidácie alebo sa stane inak platobne neschopnou. Odstúpenie od Dohody nadobúda účinnosť
+dňom doručenia písomného oznámenia o odstúpení od Dohody druhej Zmluvnej strane. Po ukončení Dohody alebo uplynutí
+Obdobia každej Licencie na softvérový produkt je Zákazník povinný zničiť alebo vymazať všetky kópie daného softvérového
+riešenia a súvisiacej Dokumentácie.
+26. Pretrvávajúce ustanovenia. Po ukončení platnosti Dohody nezaniká platnosť a účinnosť tých jej ustanovení, ktoré svojim
+obsahom majú trvalý charakter, najmä, nie však výlučne článkov 13, 14, 16, 18, 19, 20 a tohto článku 26.
+27. Záverečné ustanovenia.
+a. Zmluvné strany uzavreli túto Dohodu ako inominátnu zmluvu podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodného
+zákonníka v znení neskorších právnych predpisov, podľa ostatných ustanovení Obchodného zákonníka, ďalej zákona č.
+185/2015 Z. z. Autorský zákon a podľa ostatných zákonov a právnych predpisov platných v Slovenskej republike.
+b. Táto Dohoda úplne nahradzuje všetky prípadné predchádzajúce ústne alebo písomné dohovory, dohody a zmluvy
+vzťahujúce sa na predmet Dohody a predstavuje úplnú a jedinú dohodu Zmluvných strán vzťahujúcu sa na predmet
+Dohody.
+c. V prípade rozporu medzi ustanoveniami Zmluvy a jej Dodatkov majú prednosť ustanovenia Dodatkov. V prípade rozporu
+medzi viacerými Dodatkami má prednosť ten Dodatok, ktorý bol podpísaný najneskoršie.
+d. Žiadny dohovor, dohoda alebo zmluva doplňujúca alebo meniaca túto Dohodu nebude záväzná pre žiadnu zo Zmluvných
+strán, pokiaľ nebude vyhotovená vo forme písomného dokumentu, ktorý výslovne odkazuje na túto Dohodu a ktorý je
+podpísaný riadne oprávnenými zástupcami každej zo Zmluvných strán.
+e. Nadpisy článkov v tejto Dohode slúžia len na zlepšenie orientácie v texte a neslúžia žiadnemu inému účelu, najmä ich
+nemožno použiť ku prípadnému výkladu tejto Dohody.
+f. Pokiaľ by ktorékoľvek ustanovenie tejto Dohody bolo alebo sa stalo nevynútiteľným, neaplikovateľným, neplatným alebo
+nezákonným, nemení to nič na platnosti ostatných ustanovení tejto Dohody, ktoré zostanú platné a vykonateľné podľa
+podmienok stanovených Dohodou. Pokiaľ by nevynútiteľnosť, neaplikovateľnosť neplatnosť alebo nezákonnosť týkala
+iba časti niektorého ustanovenia Dohody, bude pôvodný text platiť tak, ako by časť ustanovenia spôsobujúca jeho
+neplatnosť bola vypustená. Ak takýto postup nie je možný, Zmluvné strany budú postupovať podľa nasledovného odseku
+tohto článku Zmluvy.
+g. Zmluvné strany súhlasia, že ak niektoré ustanovenia tejto Dohody sú alebo sa stanú na základe zmeny právnych noriem,
+rozhodnutia súdu alebo iného obdobného orgánu nevynútiteľné, neaplikovateľné, neplatné alebo nezákonné, budú
+ESET MLA 1.0
+7/8
+
+Zmluva číslo: ZM00000543
+
+ESET Master License Agreement
+
+číslo MLA: 3/2017
+
+rokovať v dobrej viere a zabezpečia všetky kroky potrebné na to, aby takto neplatné ustanovenie nahradili iným tak, aby
+toto nové ustanovenie spĺňalo minimálne požiadavky rozhodujúceho právneho poriadku a bolo v súlade s účelom tejto
+Dohody a malo obdobný právny a obchodný zmysel.
+h. Túto Dohodu môžu Zmluvné strany meniť a dopĺňať len vo forme očíslovaných písomných dodatkov podpísaných riadne
+oprávnenými zástupcami oboch zmluvných strán.
+i. Táto Dohoda sa vyhotovuje v štyroch (4) identických rovnopisoch s platnosťou originálu, pričom ESET a Zákazník obdrží
+vždy dva (2) rovnopisy.
+j. Zmluvné strany prehlasujú, že ich zmluvná voľnosť nie je obmedzená, že túto Dohodu uzatvárajú slobodne a s vážnym
+úmyslom. Ďalej Zmluvné strany vyhlasujú, že prejavy ich vôle strán sú určité, ničím neovplyvnené a že nekonajú v tiesni
+ani za nápadne nevýhodných podmienok. Zmluvné strany si túto Zmluvu pozorne prečítali, jej obsahu v plnom rozsahu
+porozumeli a súhlasia s ním. Na znak súhlasu s obsahom tejto Dohody ju Zmluvné strany podpisujú.
+Osoby, ktoré túto Zmluvu podpisujú nižšie vyhlasujú, že sú oprávnené konať za príslušnú Zmluvnú stranu v rozsahu potrebnom
+na uzavretie tejto Zmluvy.
+
+PODPISOVÁ TABUĽKA S ÚDAJMI
+ESET, spol. s r.o.
+
+Rozhlas a televízia Slovenska
+
+Podpis:
+
+Podpis:
+
+Meno podpisujúceho: Richard Marko
+
+Meno podpisujúceho: Václav Mika
+
+Funkcia podpisujúceho: generálny riaditeľ
+
+Funkcia podpisujúceho:
+a televízie Slovenska
+
+Dátum:
+
+Dátum:
+
+Miesto: Bratislava
+
+Miesto: Bratislava
+
+ESET MLA 1.0
+8/8
+
+generálny
+
+riaditeľ
+
+Rozhlasu
+
+

@@ -1,0 +1,317 @@
+Zmluva o poskytovaní služby časovej pečiatky
+uzatvorená v súlade s § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v platnom znení
+(ďalej len „Zmluva“)
+
+Zmluvné strany:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie:
+Zapísaná:
+Zastúpená:
+
+D. Trust Certifikačná Autorita, a.s.
+Plynárenská 7/C
+821 09 Bratislava
+35 840 005
+2020262651
+SK2020262651
+Tatra banka, 2622712298 / 1100
+Obchodný register, Okresný súd Bratislava I,
+oddiel Sa, vložka číslo 2986/B
+Ing. Július Lintner, predseda predstavenstva na základe plnomocenstva
+
+(ďalej len „DTCA“)
+a
+Názov:
+Ministerstvo životného prostredia Slovenskej republiky
+Sídlo:
+Nám. Ľ. Štúra 1, 812 35 Bratislava
+IČO:
+42181810
+DIČ:
+2023106679
+Bankové spojenie:
+Štátna pokladnica
+Číslo účtu IBAN:
+SK14 8180 0000 0070 0038 9046
+Zastúpené:
+JUDr. Ľubomíra Kubišová, generálna tajomníčka služobného úradu
+(ďalej len „Odberateľ“)
+
+Preambula
+DTCA vyhlasuje, že ako exkluzívny zmluvný partner spoločnosti:
+První certifikační autorita, a.s.
+sídlo: Podvinný mlýn 2178/6, 190 00, Praha 9, Česká republika
+IČO: 264 39 395
+zapísanej v obchodnom registri vedenom Mestským súdom v Prahe, oddiel B, vložka 7136
+(ďalej len „ I.CA“) ,
+ktorá je poskytovateľom dôveryhodných služieb v zmysle Nariadenia Európskeho parlamentu
+a Rady Európskej únie č.910/2014 o elektronickej identifikácii a dôveryhodných službách pre
+elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (eIDAS) a
+zákona Národnej rady Slovenskej republiky č. 272/2016 Z. z. o dôveryhodných službách pre
+elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon
+o dôveryhodných službách) v znení neskorších predpisov (ďalej aj „zákon o dôveryhodných
+službách“), je oprávnená poskytovať dôveryhodné služby vydávania kvalifikovaných
+certifikátov, poskytovanie kvalifikovaných elektronických časových pečiatok a poskytovanie
+ostatných dôveryhodných služieb v mene I.CA pre Slovenskú republiku.
+1/7
+
+Článok I.
+Predmet Zmluvy
+1. Na základe tejto Zmluvy a za podmienok v nej uvedených sa DTCA zaväzuje zabezpečiť
+Odberateľovi:
+a) pripojenie k službe kvalifikovaných elektronických časových pečiatok I.CA (ďalej len
+„časové pečiatky“)
+b) vydávanie časových pečiatok I.CA pre Odberateľa v zmysle Nariadenia č.910/2014 eIDAS a zákona o dôveryhodných službách a v súlade s platnou Politikou časových
+pečiatok I.CA (ďalej len „PCP“), ktorá je zverejnená na webových stránkach
+www.ica.cz.
+2. Časové pečiatky vydávané na základe tejto Zmluvy budú vydávané iba oprávnenému
+žiadateľovi. Oprávneným žiadateľom sa pre účely tejto Zmluvy rozumie osoba, ktorá
+preukáže identitu (autentizuje sa) v elektronickej komunikácii použitím platného
+technologického (komerčného serverového) certifikátu I.CA vydaného pre tento účel.
+3. Kvalifikované elektronické časové pečiatky I.CA sú vydávané formou balíčka časových
+pečiatok, čo predstavuje vopred stanovený počet časových pečiatok, ktoré je Odberateľ na
+základe tejto Zmluvy oprávnený od I.CA odobrať. Stanovená doba pre ich čerpanie je
+maximálne 3 roky od uzatvorenia Zmluvy.
+4. Prihlásenie k službe pre odber časových pečiatok bude na základe autentizácie
+technologickým (komerčným serverovým) certifikátom I.CA.
+- OID politiky časovej autority - 1.3.6.1.4.1.23624.10.1.50.2.0
+- URL serveru časovej autority - https://tsa.ica.cz/cgi-bin/razitko2.cgi
+- Podporovaný HASH algoritmus – SHA-256, SHA-512
+Článok II.
+Záväzky Odberateľa
+1. Odberateľ sa zaväzuje pri používaní služby časových pečiatok dodržiavať platnú PCP.
+2. Odberateľ nesie plnú a výlučnú zodpovednosť za škody vzniknuté v súvislosti
+s nedodržaním platnej PCP zo strany Odberateľa.
+3. Na účely autentizácie k službe časových pečiatok, DTCA vystaví technologický
+(komerčný serverový) certifikát, v ktorom bude v položke „organizationName - O“ údaj
+o Odberateľovi, a to jeho názov. Odberateľ splnomocňuje týmto DTCA na vystavenie
+technologického (komerčného serverového) certifikátu k prístupu ku službe časových
+pečiatok v mene Odberateľa.
+Článok III.
+Záväzky DTCA
+1. DTCA sa zaväzuje poskytovať službu časových pečiatok I.CA v súlade s platnou PCP.
+2. DTCA sa zaväzuje poskytovať žiadateľom o časové pečiatky podporu zaručenú PCP (
+podľa prílohy č. 1).
+
+2/7
+
+Článok IV.
+Zodpovednosť za škodu
+1. V prípade, že bude jednej zo zmluvných strán spôsobená škoda z dôvodu právoplatného
+udelenia pokuty príslušným štátnym orgánom, alebo vymoženia náhrady škody treťou
+stranou a táto škoda vznikla v dôsledku preukázateľného porušenia povinností
+vyplývajúcich zo Zmluvy druhou zmluvnou stranou, má poškodená zmluvná strana nárok
+požadovať od druhej zmluvnej strany náhradu škody v skutočnej výške.
+Článok V.
+Cenové podmienky
+1. Ceny plnenia podľa tejto Zmluvy boli dohodnuté zmluvnými stranami v súlade so
+zákonom č. 18/1996 Z. z. o cenách v znení neskorších predpisov a vyhlášky Ministerstva
+financií Slovenskej republiky č. 87/1996 Z. z., ktorou sa vykonáva zákon Národnej rady
+Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov nasledovne:
+a) Poplatok za poskytnutie plnenia podľa čl. I. ods. 1. písm. a) Zmluvy vo výške 35.Eur bez DPH.
+V tomto poplatku je zahrnutý poplatok za vydanie certifikátu potrebného pre
+komunikáciu v súlade s čl. I. ods. 2. Zmluvy, a pripojenie ku službe časovej pečiatky
+na strane dôveryhodného poskytovateľa tejto služby (I.CA Praha).
+b) Poplatok za poskytnutie plnenia podľa čl. I. ods. 1. písm. b) tejto Zmluvy je
+dohodnutý nasledovne:
+Balíček I.CA Start10000, ktorý poskytuje právo Odberateľovi odobrať 10 000 kusov
+kvalifikovaných časových pečiatok za 702,- Eur bez DPH (dodávateľ nie je platcom
+DPH).
+2. Pred vyčerpaním balíčka pečiatok príde na mailovú adresu zadanú Odberateľom
+upozornenie o blížiacom sa vyčerpaní zakúpeného balíčka. Dokúpenie každého ďalšieho
+balíčka časových pečiatok (podľa cenníka v prílohe č.2) nie je viazané uzatvorením
+dodatku ku Zmluve, pre tento účel postačí mailová objednávka zo strany Odberateľa
+zaslaná na mail info@dtca.sk.
+Notifikačná mailová adresa Odberateľa: admin@enviro.gov.sk.
+3. Odberateľ je povinný uhradiť poplatok podľa ods. 1 písm. a) a b) tohto článku prevodom
+na účet DTCA na základe faktúry vystavenej DTCA, s lehotou splatnosti 30 dní odo dňa
+doručenia faktúry Odberateľovi.
+4. Faktúra vystavená DTCA musí spĺňať náležitosti podľa právnych predpisov platných
+v Slovenskej republike. V opačnom prípade je Odberateľ oprávnený vrátiť faktúru DTCA
+na opravu a lehota splatnosti faktúry prestáva plynúť. Lehota splatnosti opravenej faktúry
+začne v takomto prípade plynúť až odo dňa doručenia opravenej faktúry obsahujúcej
+všetky potrebné zákonné náležitosti Odberateľovi.
+5. Pri nezaplatení faktúry v stanovenej lehote splatnosti si DTCA vyhradzuje právo
+neprijímať ďalšie žiadosti o časové pečiatky od Odberateľa do doby vyrovnania všetkých
+finančných záväzkov zo strany Odberateľa.
+
+3/7
+
+Článok VI.
+Záverečné ustanovenia
+1. Zmluva sa uzatvára na 4 roky.
+2. Zmluva nadobúda platnosť dňom podpisu oboma zmluvnými stranami a účinnosť dňom
+nasledujúcim po jej zverejnení v Centrálnom registri zmlúv vedenom Úradom vlády
+Slovenskej republiky.
+3. Zmluva zaniká
+a) písomnou dohodou zmluvných strán,
+b) písomnou výpoveďou zo strany DTCA z titulu porušenia ustanovení tejto Zmluvy zo
+strany Odberateľa,
+c) písomnou výpoveďou zo strany Odberateľa, kedykoľvek aj bez uvedenia dôvodu,
+d) odstúpením od Zmluvy zo strany Odberateľa v prípade akéhokoľvek porušenia tejto
+Zmluvy zo strany DTCA. Právne účinky odstúpenia od Zmluvy nastávajú dňom
+doručenia odstúpenia DTCA. Zmluva sa zrušuje ex nunc.
+4. Výpovedná lehota pre obe zmluvné strany je 1 mesiac a začína plynúť prvým dňom
+kalendárneho mesiaca nasledujúceho po doručení výpovede druhej zmluvnej strane.
+5. Zmluva sa môže meniť výlučne formou písomných dodatkov podpísaných oboma
+zmluvnými stranami s výnimkami upravenými v tejto Zmluve.
+6. Zánikom Zmluvy nezaniká povinnosť zmluvných strán vyrovnať všetky záväzky vzniknuté
+na základe tejto Zmluvy a bezodkladne uskutočniť všetky úkony, nutné k zabráneniu
+vzniku škody druhej zmluvnej strane.
+7. Vzájomné vzťahy zmluvných strán neupravené touto Zmluvou sa riadia príslušnými
+ustanoveniami PCP, Obchodného zákonníka, Nariadenia Európskeho parlamentu a Rady
+Európskej únie č.910/2014 (eIDAS), zákona o dôveryhodných službách a ostatnými
+všeobecne záväznými právnymi predpismi platnými na území Slovenskej republiky.
+8. Táto Zmluva je vyhotovená v 5 rovnopisoch, z ktorých štyri obdrží Odberateľ a jeden
+DTCA.
+9. Zmluvné strany vyhlasujú, že ich vôľa vyjadrená touto Zmluvou je vážna, slobodná a
+určitá, ich zmluvné prejavy sú dostatočne zrozumiteľné, že Zmluvu uzatvorili nie v tiesni
+ani za nápadne nevýhodných podmienok a na znak súhlasu ju podpisujú.
+10. Zmluvné strany sa dohodli, že písomná komunikácia podľa tejto Zmluvy alebo v súvislosti
+s touto zmluvou sa bude doručovať doporučene poštou, kuriérom alebo osobne na adresu
+uvedenú v záhlaví tejto zmluvy alebo na inú adresu písomne oznámenú druhej zmluvnej
+strane počas trvania tejto Zmluvy. Za deň doručenia sa považuje deň prevzatia
+písomnosti. V prípade, ak adresát odmietne písomnosť prevziať, za deň doručenia sa
+považuje deň odmietnutia prevzatia písomnosti. V prípade, ak si adresát neprevezme
+písomnosť v odbernej lehote, písomnosť sa považuje za doručenú tretí (3) deň odo dňa jej
+uloženia na pošte, a to aj vtedy, ak sa adresát o tom nedozvie. V prípade, ak sa
+písomnosť vráti odosielateľovi s označením pošty „adresát neznámy“ alebo „adresát sa
+odsťahoval“ alebo s inou poznámkou podobného významu, za deň doručenia sa považuje
+deň vrátenia zásielky odosielateľovi.
+11. V prípade, že akékoľvek ustanovenie tejto Zmluvy je, alebo sa stane neplatným,
+neúčinným a/alebo nevykonateľným, nie je tým dotknutá platnosť, účinnosť a/alebo
+
+4/7
+
+vykonateľnosť ostatných ustanovení tejto Zmluvy, pokiaľ to nevylučuje v zmysle
+príslušných právnych predpisov samotná povaha takého ustanovenia. Zmluvné strany sa
+zaväzujú bez zbytočného odkladu po tom, ako zistia, že niektoré z ustanovení tejto
+zmluvy je neplatné, neúčinné a/alebo nevykonateľné, nahradiť dotknuté ustanovenie
+ustanovením novým, ktorého obsah bude v čo najväčšej miere zodpovedať vôli
+zmluvných strán v čase uzatvorenia tejto Zmluvy.
+
+Za DTCA:
+
+Za Odberateľa:
+
+V Bratislave, dňa
+
+V Bratislave, dňa
+
+………………………………………
+
+………………………………………
+
+D. Trust Certifikačná Autorita, a.s.
+
+Ministerstvo životného prostredia Slovenskej
+republiky
+
+Ing. Július Lintner
+predseda predstavenstva
+
+JUDr. Ľubomíra Kubišová
+generálna tajomníčka služobného úradu
+
+………………………………………
+D. Trust Certifikačná Autorita, a.s.
+Ing. Anna Záhorčáková
+člen predstavenstva
+
+5/7
+
+Príloha č. 1
+DTCA v mene První certifikační autorita, a.s., , ktorá je poskytovateľom dôveryhodných
+služieb v zmysle Nariadenia Európskeho parlamentu a Rady Európskej únie č.910/2014
+o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na
+vnútornom trhu a o zrušení smernice 1999/93/ES (eIDAS) a zákona Národnej rady Slovenskej
+republiky č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na
+vnútornom trhu a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+(zákon o dôveryhodných službách) zaručuje pre Odberateľa služby časových pečiatok podľa
+Zmluvy (v ďalšom „Služba“) v zmysle platnej Politiky časových pečiatok I.CA (ďalej len
+„PCP“), najmä:
+-
+
+prístup k Službe:
+- nepretržitý, s výnimkou plánovaných (vopred zverejnených) časových prerušení
+- za podmienok uvedených v písomnej zmluve
+
+-
+
+autentizovaný prístup k Službe na základe písomnej zmluvy
+
+-
+
+striktné dodržiavanie platnej legislatívy vzťahujúce sa k celému procesu vydávania
+časových pečiatok, vrátane neporušovania autorských ani licenčných práv
+
+-
+
+poskytovanie Služby osobou s odbornými znalosťami a kvalifikáciou potrebnou na
+poskytovanie tejto Služby a oboznámenými s príslušnými bezpečnostnými postupmi
+
+-
+
+používanie bezpečných systémov a bezpečných nástrojov, zabezpečenie dostatočnej
+bezpečnosti postupov, ktoré tieto systémy a nástroje podporujú vrátane dostatočnej
+kryptografickej bezpečnosti týchto nástrojov
+
+-
+
+dostatočnosť finančných zdrojov alebo iných finančných zaistení na prevádzku v súlade s
+požiadavkami uvedenými v platnej legislatíve pre služby vytvárajúce dôveru a s ohľadom
+na riziko vzniku zodpovednosti za škodu po celú dobu svojej činnosti
+
+-
+
+písomné informovanie žiadateľa o vydávaní časových pečiatok o presných podmienkach
+pre využívanie tejto Služby pred uzavretím zmluvy, vrátane prípadných obmedzení pre
+jej použitie, a o podmienkach reklamácií a riešenie vzniknutých sporov a o tom, či je
+alebo nie je kvalifikovaným poskytovateľom Služby
+
+-
+
+mlčanlivosť kmeňových zamestnancov, prípadne iných fyzických osôb, ktoré prichádzajú
+do styku s osobnými údajmi o týchto údajoch a dátach ako bezpečnostných opatreniach,
+ktorých zverejnenie by ohrozilo zabezpečenie týchto údajov a dát (povinnosť
+mlčanlivosti trvá aj po skončení pracovného alebo iného obdobného pomeru alebo po
+vykonaní príslušných prác)
+
+6/7
+
+spojených s
+
+Príloha č. 2
+Balík/platnosť 3 roky
+50
+100
+200
+500
+1 000
+2 000
+5 000
+10 000
+20 000
+50 000
+100 000
+
+Cena TSA bez DPH
+11,00 €
+21,00 €
+35,00 €
+70,00 €
+106,00 €
+176,00 €
+404,00 €
+702,00 €
+1054,00 €
+2810,00 €
+4350,00 €
+
+7/7
+
+

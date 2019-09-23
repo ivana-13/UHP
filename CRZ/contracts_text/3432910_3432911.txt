@@ -1,0 +1,522 @@
+Kúpna zmluva č. Z201817782_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Slovenská konsolidačná, a.s.
+Cintorínska 21, 81499 Bratislava, Slovenská republika
+35776005
+2021483585
+SK2021483585
+SK05 8180 0000 0070 0033 5179
++421257289158
+
+Dodávateľ:
+Obchodné meno:
+
+ANASOFT APR s.r.o.
+
+Sídlo:
+
+Mlynská dolina 41, 81102 Bratislava, Slovenská republika
+
+IČO:
+
+31361552
+
+DIČ:
+
+2020345778
+
+IČ DPH:
+
+SK2020345778
+
+Číslo účtu:
+Telefón:
+
++421 2 3223 4111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Systém ochrany citlivých údajov (DPL)
+
+Kľúčové slová:
+
+GDPR
+
+CPV:
+
+72330000-2 - Služby na štandardizáciu a klasifikáciu obsahu a dát; 60000000-8 - Dopravné
+služby (bez prepravy odpadu)
+
+Druh/y:
+
+Služba; Tovar
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Data Loss Prevention (DLP) systém
+
+Funkcia
+Predmetom zákazky je obstaranie systému na zabezpečenie ochrany citlivých dátových aktív pred únikom – Data Loss
+Prevention (DLP) systém. Systém musí zabezpečiť funkcionality pre identifikáciu citlivých dát podľa nastaveného kľúča v
+dátových úložiskách, ochranu pred únikom citlivých dát na koncových staniciach a ochranu proti úniku dát cez webový a
+emailový kanál a na perimetri siete. Požaduje sa dodávka, implementácia a zaškolenie do systému na ochranu pred únikom
+citlivých dát a ochranu webového a emailového kanála a perimetra siete. Zabezpečenie sa požaduje pre 160 používateľov.
+Technické vlastnosti
+
+Jednotka
+
+Koncové stanice
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Okrem dodávky samotného systému sa od dodávateľa
+požaduje súčinnosť pri vyhodnotení politík a návrhu na
+vhodné oblasti blokovania prenosu citlivých dátových
+aktív, súčinnosť pri procese postupného zavádzania
+režimu blokovania citlivých aktív, návrh testovacích
+scenárov, návrh procesov obnovy pre prípad havárie
+alebo iných neočakávaných udalostí, monitorovanie
+blokovaných správ a súčinnosť pri vyhodnocovaní
+incidentov zistených službou, ktoré boli blokované.
+
+Strana 1 z 7
+
+Minimum
+
+Maximum
+
+Presne
+160
+
+Súčasťou predmetu zákazky sú aj súvisiace služby v
+minimálnom rozsahu: 1. zaškolenie min. 2 osôb v
+rozsahu min. 8 hodín na jednu osobu, 2. zabezpečenie
+technickej podpory od výrobcu a možnosť aktualizácie
+softvérových produktov počas 24 mesiacov odo dňa
+podpísania odovzdávacieho/preberacieho protokolu, 3.
+technická podpora od dodávateľa v rozsahu 1
+človekodeň experta/mesiac, ktorá bude slúžiť na
+prípadné nastavenie systému, zmenu konfigurácie v
+zmysle požiadavky objednávateľa, vykonanie a
+inštaláciu aktualizácií softvéru a iný rozsah objednaných
+služieb.
+1. Architektúra, prepojiteľnosť a výkon: 1.1. poskytovať
+možnosť implementácie aj ako virtuálne zariadenie a
+softvérové riešenie, 1.2. všetky systémové moduly
+musia byť riadené prostredníctvom centrálneho UI,
+konzoly, 1.3. podporovať sieťovú vrstvu a koncové
+stanice v jednej politike a pravidle, 1.4. byť schopný v
+plnej výbave (sieťová aj endpoint časť) fungovať
+maximálne na dvoch fyzických alebo virtuálnych
+serveroch alebo appliance, pokračovanie:
+1.5. obsahovať prednastavené politiky pre finančný
+sektor a pre Európu s priamym adresovaním požiadavky
+GDPR a politiky sa musia dať granulárne upravovať a
+priamo aplikovať, 1.6. chrániť dáta obsiahnuté v
+súboroch a databázach proti úniku na sieťovej vrstve
+(web, SMTP, FTP), 1.7. chrániť dáta obsiahnuté v
+súboroch a databázach proti úniku z koncových staníc,
+1.8. ochrana dát pomocou agentov na endpointoch musí
+byť plnohodnotná (všetky dodávané funkcionality) aj v
+prípade, že endpoint je off-line (nepripojený do
+podnikovej siete), pokračovanie:
+1.9. mať možnosť chrániť pred únikom dát umiestnenými
+v cloude. 1.10. obsahovať preddefinované politiky pre
+GDPR, 1.11. zabezpečiť kumulatívnu analýzu za účelom
+identifikácie únikov dát v malých dávkach v rámci
+dlhšieho časového intervalu, 1.12. zabezpečiť
+funkcionalitu Incident Risk Ranking, tzn. schopnosť DLP
+riešenia automaticky identifikovať bezpečnostné
+incidenty, prideľovať im úroveň závažnosti a zoskupovať
+ich tak, aby sa v reportoch a dashboardoch ukazovali
+najzávažnejšie incidenty za posledných 24 hodín a
+posledných 7 dní. Pokračovanie:
+Zobrazené budú incidenty, ktoré prekročili definovanú
+hranicu rizika. Analytický mechanizmus spracovávania
+incidentov z koncových zariadení, z e-mailovej a
+webovej brány, 1.13. Zabezpečiť funkcionality Incident
+management and Workflow – schopnosť riadiť a
+kontrolovať riešenie incidentov tak, aby bolo možné: a)
+Priradiť incidenty konkrétnej osobe na spracovanie, b)
+Meniť status incidentu, c) Meniť úroveň závažnosti
+incidentu, d) Ignorovať incident, e) Označovať incidenty
+za účelom filtrovania, f) Pridávať komentáre k
+incidentom, g) Mazať incidenty jednotlivo alebo v
+skupinách. Pokračovanie:
+1.14. Zabezpečiť funkcionalitu (machine learning) –
+funkcionalita, ktorá umožňuje užívateľom naučiť systém
+identifikovať relevantné dáta, s ktorými sa systém ešte
+nestretol. Systém prijíma pozitívne alebo negatívne
+príklady od užívateľov, na základe ktorých označuje
+podobné dokumenty, zdrojové kódy a iné.
+
+Strana 2 z 7
+
+2. Manažment systému: 2.1.umožniť monitorovanie
+bezpečnostných incidentov v reálnom čase pre okamžité
+riešenie problémov, 2.2. zahrnúť informácie o identite
+užívateľov, 2.3. poskytovať zobrazenie všetkých
+konfiguračných nastavení v jednej konzole pre zníženie
+zaťaženia administratívnymi prácami, 2.4. podporovať
+viacero role-based administratívnych kont, ktoré
+poskytujú granulárnu kontrolu a obmedzenia, 2.5.
+podporovať administratívne role umožňujúce
+jednotlivcom alebo skupinám prístup výhradne len k
+reportingovým údajom pre určených užívateľov alebo
+skupiny, pokračovanie:
+2.6. umožniť konfigurovanie hodnotenia vážnosti
+incidentov, 2.7. automaticky vyhodnocovať rizikovosť
+jednotlivých užívateľov, 2.8. umožňovať kontrolu
+autentifikácie užívateľa voči externej databáze, napr.
+Active Directory.
+3. Filtrovanie obsahu a detekcia: 3.1. poskytovať DLP
+skenovanie obsahu ako natívnu funkciu. Citlivý obsah
+nesmie byť skenovaný mimo zariadenia, 3.2. byť
+schopný chrániť e-mailové správy, ktoré sú
+synchronizované s mobilnými zariadeniami
+prostredníctvom protokolu ActiveSync. Správy
+obsahujúce citlivé informácie musia byť auditované
+alebo zablokované pre synchronizáciu, 3.3. vedieť vyňať
+a preveriť obsah textu súborov a príloh, 3.4. vedieť
+preveriť metadáta v súboroch v rámci preverovania
+uloženého obsahu, pokračovanie:
+3.5. vedieť rekurzívne preveriť obsah komprimovaných
+archívov (napr. ZIP, TAR, RAR) a detekovať v nich
+citlivý obsah, 3.6. vedieť detekovať na základe typu
+dokumentu, aj keď odosielateľ zmenil príponu súboru,
+3.7. byť schopný čítať text z obrázkov a PDF
+dokumentov uložených ako obrázky (OCR), 3.8. byť
+schopný chrániť pred únikom citlivých dát na sieťovej
+vrstve (protokoly SMTP, HTTP, HTTPS, FTP,
+FTP-over-HTTP, Instant Messaging a ďalšie protokoly),
+3.9. detekovať dáta pre HTTP/HTTPS, pokračovanie:
+3.10. podporovať fingerprinting, automatické učenie
+citlivého obsahu, 3.11. podporovať „whitelist“ častí
+súboru určených pre fingerprinting, tak, že z
+fingerprintovaného dokumentu je vylúčené napr.
+záhlavie alebo päta stránky, ktoré sa opakujú a nie je
+potrebné ich zachytávať, 3.12. detekovať FTP lokálne
+(built-in), 3.13. scanovať dáta pre emailový kanál, 3.14.
+detekovať „pomalé úniky“. Je schopný sledovať politiky,
+zaznamenať a zablokovať incident až v okamžiku, kedy
+je prekročená hranica, pokračovanie:
+3.15. byť schopný odhaliť viacnásobné incidenty v
+priebehu času (napr. analogicky k pomalému úniku,
+ktorý v priebehu času prejde do straty dôležitých
+údajov), 3.16. detekovať únik dát cez dynamicky
+updatované Web 2.0 stránky (používajúce AJAX) např.
+http://translate.google.com, 3.17. identifikovať užívateľov
+voči externej databáze, napr. Active Directory.
+4. Notifikácie a workflow: 4.1. vedieť automaticky
+upozorniť odosielateľov alebo ich manažérov, keď dôjde
+k porušeniu politiky, 4.2. vedieť poskytnúť automatické
+notifikácie o incidentoch rôznym oddeleniam, ako napr.
+právnemu a odd. Informačnej bezpečnosti, 4.3.
+obsahovať workflow s funkcionalitou prideľovania
+riešiteľa incidentu, automatického sledovania nápravy
+incidentu (napr. kódy stavu, atribúty, priradenie do
+fronty, závažnosť incidentu a pod.), pokračovanie:
+4.4. vedieť vytvoriť oddelené role pre technickú správu
+serverov, správu užívateľov, vytvárania a zmien politiky,
+nápravy incidentov, zobrazovania incidentov pre dáta v
+pokoji, v pohybe, alebo v koncovom bode, 4.5. plne
+podporovať notifikácie v lokálom jazyku – slovenčine.
+
+Strana 3 z 7
+
+5. Integrácie a API: 5.1. poskytovať integráciu s e-mail
+encryption bránou, 5.2. podporovať systém CITRIX.
+6. Monitorovanie koncových zariadení: 6.1. byť schopný
+chrániť pred únikmi citlivých dát na koncových staniciach
+(Endpoint) formou agentov na zariadeniach koncových
+užívateľov, 6.2. odhaliť pokusy užívateľa o zaslanie
+dôverných údajov prostredníctvom internetových
+protokolov, napríklad e-mailom, webmailom (Yahoo!,
+Gmail), IM alebo FTP, aj keď je koncový bod odpojený
+od podnikovej siete,6.3. podporovať databázový
+fingerprinting aj na koncových bodoch, 6.4. Agent na
+endpointe musí podporovať vynucovanie politík
+založených na fingerprintingu aj keď je offline,
+pokračovanie:
+6.5. umožniť zamedzovať vytváraniu kópií údajov na
+prenosné média, 6.6. vedieť zašifrovať citlivé dáta pri ich
+prenose na odpojiteľné médiá (CD/DVD/USB), 6.7.
+umožniť aplikovať rôzne politiky pre rôznych koncových
+užívateľov alebo skupiny užívateľov a uplatniť rôzne
+politiky aj keď sú títo užívatelia nahlásení na ten istý
+koncový počítač, 6.8. mať možnosť pre administrátorov
+vzdialene dočasne odstaviť agenta na koncovom bode
+na základe požiadavky koncového užívateľa, 6.9.
+podporovať automatickú aktualizáciu agentov a zmeny v
+politike bez nástrojov tretej strany, pokračovanie:
+6.10. agent na koncovom bode musí podporovať všetky
+výrobcom podporované verzie Windows OS a Mac OS,
+6.11. systém musí chrániť pred únikom dát cez rôzne
+kanály (USB, LAN, tlač, https, ...) pričom politiky pre
+každý kanál sa musia dať nastaviť samostatne.
+7. Reporting: 7.1. poskytnúť preddefinované reporty pre
+vyhodnocovanie užívateľov, skupín alebo lokalít, o ich
+správaní, trendoch atď., 7.2. umožniť spárovanie
+zaznamenanej prevencie hrozieb a aktivity na prevenciu
+úniku údajov s užívateľským menom, 7.3. poskytovať
+detailné informácie o aktivitách užívateľov z pohľadu
+DLP, 7.4. podporovať anonymné reportovanie správania
+sa a aktivít užívateľov z pohľadu DLP a mať možnosť
+odstrániť alebo zamaskovať citlivé osobné informácie,
+7.5. vedieť údaje v reportoch exportovať do formátov
+ako PDF, CSV, pokračovanie:
+7.6. umožniť zdieľať reporty na základe priradenej role,
+7.7. vedieť zoskupiť jednotlivé incidenty do skupín podľa
+zdroja alebo povahy incidentu a vytvoriť informáciu o
+rizikových užívateľoch za definovaný čas, 7.8. systém
+umožní zobrazenie manažérskych dashboardov s
+prehľadnými informáciami o incidentoch a ich riešení,
+ktoré komunikačné kanály sú rizikové a aké typy
+porušení politík nastali, pokračovanie:
+7.9. systém umožní vyhodnotenie rizikovosti incidentov,
+rizikovosti konkrétnych užívateľov a identifikácia
+užívateľov s podozrivými praktikami pri práci s citlivými
+údajmi, určenie najzávažnejších narušiteľov politík pri
+konkrétnom incidente.
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+1. Ochrana osobných údajov. 1.1. Objednávateľ je v súlade s §4 ods. 2 zák. č. 122/2013 Z.z. o ochrane osobných údajov a o
+zmene a doplnení niektorých zákonov (ďalej „ZoOOÚ“) prevádzkovateľom, ktorý sám alebo spoločne s inými vymedzuje účel a
+prostriedky spracúvania osobných údajov, určuje podmienky ich spracúvania a spracúva osobné údaje vo vlastnom mene.
+1.2. Objednávateľ spracúva okrem iného osobné údaje dlžníkov (ďalej aj „dotknutých osôb“), ktoré získava prostredníctvom
+zmlúv, rozhodnutí súdov a iných orgánov verejnej správy a samosprávy, v ktorých vystupujú dotknuté osoby, ktorých údaje sú
+spracovávané a ktoré prevádzkovateľ nadobudol s pohľadávkami voči dotknutým osobám od tretích osôb (ďalej len “dotknuté
+dokumenty”) za účelom správy a vymáhania pohľadávok.
+
+Strana 4 z 7
+
+1.3. Objednávateľ ako prevádzkovateľ v súlade s ustanoveniami § 8 ZoOOÚ poveruje dodávateľa ako sprostredkovateľa na
+spracúvanie osobných údajov dotknutých osôb za účelom plnenia predmetu tejto zmluvy. Dodávateľ je oprávnený spracúvať
+osobné údaje dotknutých osôb odo dňa účinnosti tejto zmluvy, a to po celú dobu jej platnosti a účinnosti.
+1.4. Dodávateľ ako sprostredkovateľ sa zaväzuje spracúvať osobné údaje dotknutých osôb získané za účelom plnenia
+predmetu tejto zmluvy v súlade s dobrými mravmi, v rozsahu a za podmienok stanovených v tejto zmluve a iba pre účely
+splnenia predmetu tejto zmluvy. Ďalej sa zaväzuje pri spracúvaní osobných údajov dotknutých osôb neohrozovať ani
+nepoškodzovať ich práva a právom chránené záujmy a dbať, aby nedošlo k porušeniu základných práv a slobôd dotknutých
+osôb, najmä k porušeniu ich práv na zachovanie ľudskej dôstojnosti alebo k iným neoprávneným zásahom do ich práva na
+ochranu súkromia.
+1.5. Zhotoviteľ ako sprostredkovateľ je oprávnený vykonávať s osobnými údajmi dotknutých osôb len tie operácie , ktoré sú
+nevyhnutné na splnenie predmetu zmluvy a bezprostredne s ním súvisia, a to v nasledovných informačných systémoch
+objednávateľa/prevádzkovateľa: a. Informačný systém – personalistika, mzdy, uchádzači o zamestnanie a dochádzkový
+systém, b. Informačný systém – účtovné doklady a vedenie podvojného účtovníctva spoločnosti, c. Informačný systém –
+správa došlej a odoslanej pošty, správa registratúry a archívu, (pokračovanie o riadok nižšie):
+d. Informačný systém - správa a vymáhanie pohľadávok, e. Informačný systém – kamerový systém, f. Informačný systém evidencia účastníkov verejného výberového konania na odplatné postúpenie pohľadávok, g. Informačný systém –
+vybavovanie sťažností, h. Informačný systém - žiadosti podľa Zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a
+o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov, ch. Informačný systém agenda vyplývajúca zo zákona č. 297/2008 Z. z. o ochrane pred legalizáciou trestnej činnosti, (pokračovanie o riadok nižšie):
+i. Informačný systém - evidencia jednorazových vstupov do priestorov, j. Informačný systém - vymáhanie pohľadávok štátu, k.
+Informačný systém - evidencia podnetov kriminality a inej protispoločenskej činnosti.
+1.6. Objednávateľ ako prevádzkovateľ vykonáva spracúvanie osobných údajov dotknutých osôb v rozsahu titul, meno a
+priezvisko (vrátane rodného a predchádzajúceho), dátum narodenia, rodné číslo, adresa bydliska (trvalého a/alebo
+prechodného), číslo občianskeho preukazu alebo iného dokladu totožnosti, štátna príslušnosť a prípadné doplňujúce údaje
+uvedené v dotknutých dokumentoch (vrátane telefonického kontaktu a elektronickej komunikácie).
+1.7. Na základe tejto zmluvy poskytne objednávateľ /prevádzkovateľ/ dodávateľovi /sprostredkovateľovi/ nasledujúce osobné
+údaje, ktoré bude sprostredkovateľ pre prevádzkovateľa spracúvať za podmienok dohodnutých v tejto zmluve: titul, meno a
+priezvisko (vrátane rodného a predchádzajúceho), dátum narodenia, rodné číslo, adresa bydliska (trvalého a/alebo
+prechodného), štátna príslušnosť. Poverenie pre dodávateľa ako sprostredkovateľa sa vzťahuje na spracúvanie osobných
+údajov v uvedenom rozsahu.
+1.8. Spracúvanie osobných údajov dodávateľ /sprostredkovateľ/ nesmie vykonávať prostredníctvom inej osoby.
+1.9. Prevádzkovateľ týmto vyhlasuje, že pri výbere sprostredkovateľa postupoval tak, že dbal na jeho odbornú, technickú,
+organizačnú a personálnu spôsobilosť ako aj jeho schopnosť zaručiť bezpečnosť spracúvaných osobných údajov
+zodpovedajúcimi bezpečnostnými opatreniami, v súlade s požiadavkami stanovenými platnými právnymi predpismi.
+2. Ochrana dôverných informácií. 2.1. Za dôverné informácie podľa tejto zmluvy zmluvné strany považujú všetky informácie
+poskytnuté druhou zmluvnou stranou, a to vedome alebo nevedome, v písomnej aj v ústnej forme, najmä informácie, ktoré sú
+osobnými údajmi v zmysle zákona č. 122/2013 Z. z. o ochrane osobných údajov, ktoré sa strany dozvedeli v súvislosti so
+zmluvou, ako aj obchodné tajomstvo a know-how, ktorým sa rozumejú akékoľvek poznatky obchodného, výrobného,
+technického či ekonomického charakteru, ktoré súvisia s činnosťou zmluvnej strany, (pokračovanie o riadok nižšie):
+tak pri zabezpečovaní predmetu tejto zmluvy, ako aj so všetkými jej činnosťami a ktoré majú skutočnú alebo aspoň
+potenciálnu hodnotu, nie sú v obchodných kruhoch bežne dostupné, majú byť utajené a zmluvná strana ich utajenie
+zodpovedajúcim spôsobom zabezpečuje (ďalej len „dôverné informácie“). Obe zmluvné strany sa zaväzujú zachovávať
+mlčanlivosť o dôverných informáciách druhej zmluvnej strany a zaväzujú sa, že prijmú všetky opatrenia na ochranu dôverných
+informácií a že tieto dôverné informácie budú chrániť.
+2.2. Obe zmluvné strany sa zaväzujú, že všetky písomnosti (vrátane písomností v elektronickej podobe) obsahujúce dôverné
+informácie, ktoré jedna strana poskytne druhej zmluvnej strane, nebude druhá zmluvná strana bez výslovného súhlasu
+zmluvnej strany kopírovať, ani žiadnym iným spôsobom rozmnožovať a kedykoľvek ich na požiadanie vráti zmluvnej strane,
+vrátane všetkých kópií alebo opisov, alebo ich na základe požiadavky zmluvnej strany zničí, vrátane všetkých kópií alebo
+opisov, ak nie je dohodnuté v tejto zmluve inak.
+2.3. Obe zmluvné strany sa zaväzujú, že bez písomného súhlasu druhej zmluvnej strany neposkytnú dôverné informácie v
+žiadnej forme tretím osobám, s výnimkou svojich zamestnancov, zástupcov, ďalších osôb v obdobnom postavení, a to len na
+účely plnenia tejto zmluvy, ak nie je dohodnuté v tejto zmluve inak.
+2.4. Obe zmluvné strany sa zaväzujú zabezpečiť, že ich zamestnanci, zástupcovia a ďalšie osoby v obdobnom postavení budú
+zachovávať mlčanlivosť vo vzťahu k dôverným informáciám. Pokiaľ poruší niektorá z osôb zmluvnej strany uvedených v
+predchádzajúcej vete povinnosť mlčanlivosti vo vzťahu k dôverným informáciám, považuje sa to za porušenie povinnosti
+mlčanlivosti tejto zmluvnej strany.
+2.5. Záväzok mlčanlivosti oboch zmluvných strán o získaných dôverných informáciách ukončením tejto zmluvy nezaniká.
+2.6. Dodávateľ sa zaväzuje, že bez predchádzajúceho písomného súhlasu objednávateľa neuvedie objednávateľa v spojitosti
+s predmetom plnenia podľa tejto zmluvy ako referenciu na prípadné budúce zákazky.
+3. Odovzdanie predmetu zákazky (ďalej aj „dielo“) nastane dňom podpisu odovzdávacieho/preberacieho protokolu obomi
+zmluvnými stranami, resp. zodpovednými zástupcami oboch zmluvných strán. Dodávateľ sa zaväzuje riadne vykonať dielo a
+odovzdať ho v lehote do dvoch mesiacov od účinnosti zmluvy.
+
+Strana 5 z 7
+
+4. Dodávateľ sa zaväzuje poskytovať technickú podporu a servis v trvaní 24 mesiacov odo dňa odovzdania diela, tzn.
+podpísania odovzdávacieho/preberacieho protokolu. Technická podpora od dodávateľa bude zabezpečovaná počas 8
+pracovných hodín 5 dní v týždni v rozsahu 1 človekodeň mesačne, s možnosťou prenosu voľných človekohodín v rámci
+trvania zmluvného vzťahu.
+5. Dodávateľ sa zaväzuje predložiť do 7 pracovných dní od účinnosti zmluvy minimálne 2 referencie za realizované zákazky
+(za obdobie rokov 2015-2017), ktorých predmetom bola komplexná dodávka systému ochrany citlivých dátových aktív (DLP)
+pre min. 150 užívateľov v celkovej hodnote spolu min. 50 000 eur bez DPH. Písomné vyhlásenie o referenciách bude
+obsahovať minimálne nasledovné údaje: stručný opis predmetu zákazky, cena plnenia bez DPH v posudzovanom období,
+identifikačné a kontaktné údaje na odberateľa predmetu plnenia. Pokračovanie o riadok nižšie:
+V prípade, ak dodávateľ je zmluvne zaviazaný mlčanlivosťou vzťahujúcou sa na predmet realizovanej zákazky, poskytne
+referencie formou čestného vyhlásenia.
+6. Dodávateľ požaduje pre úspešnú realizáciu predmetu zákazky zabezpečiť minimálne dvoch expertov na informačnú
+bezpečnosť s preukázaním minimálne 3 ročnej odbornej praxe v oblasti inštalácie, konfigurácie a implementácie
+bezpečnostného softvéru podobných parametrov ako predmet zákazky. Dodávateľ predloží údaje, z ktorých je
+identifikovateľná a preukázateľná minimálne 3 ročná odborná prax v oblasti informačnej bezpečnosti a minimálne 2 praktické
+skúsenosti s realizáciou projektov zameraných na informačnú bezpečnosť.
+7. Platobné podmienky objednávateľa: 7.1. Objednávateľ uhradí 60,00 % zmluvnej ceny za dielo po jeho protokolárnom
+odovzdaní v zmysle bodu 3. osobitných požiadaviek na plnenie na základe vystavenej faktúry so splatnosťou 30 dní, 7.2.
+Objednávateľ uhradí 40,00 % zmluvnej ceny za dielo po 12 mesiacoch od účinnosti zmluvy na základe vystavenej faktúry so
+splatnosťou 30 dní.
+8. Vrátane dopravy na miesto plnenia.
+9. Vrátane inštalácie na mieste plnenia.
+.10. Požaduje sa predložiť vlastný návrh na plnenie predmetu zmluvy do 7 dní od uzavretia zmluvy.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Cintorínska 21
+
+Čas / lehota plnenia zmluvy:
+02.05.2018 08:00:00 - 02.05.2020 23:59:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+súbor položiek zákazky
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.3, účinná zo dňa 1.3.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 28 500,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 34 200,00 EUR
+
+V. Záverečné ustanovenia
+
+Strana 6 z 7
+
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.3, účinná zo dňa 01.03.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.3, účinná zo dňa 01.03.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 26.04.2018 11:58:01
+Objednávateľ:
+Slovenská konsolidačná, a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+ANASOFT APR s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 7 z 7
+
+

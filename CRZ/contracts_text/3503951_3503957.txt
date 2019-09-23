@@ -1,0 +1,678 @@
+ZMLUVA
+na upgrade redakčného systému SwiftSite a o prevádzke Web sídla
+č. SITB-OO2-2018/000821-005
+uzatvorená v zmysle § 269 ods. 2 Obchodného zákonníka a zákona č. 343/2015 Z. z. o verejnom obstarávaní a
+o zmene a doplnení niektorých zákonov v znení neskorších predpisov medzi
+týmito zmluvnými stranami (ďalej len „Zmluva“)
+
+DODÁVATEĽ:
+
+ELET, s. r.o.
+so sídlom:
+Gorazdova 24, 811 04 Bratislava
+bankové spojenie:
+Tatrabanka a.s.
+číslo účtu:
+Zastúpený:
+Ing. Rudolf Bista, konateľ
+IČO:
+313 949 81
+IČ DPH:
+SK 2020305562
+zapísaná v Obchodnom registri Okresného súdu Bratislava I, oddiel
+Sro, vložka 8936/B
+(ďalej len „dodávateľ“)
+a
+OBJEDNÁVATEĽ: Slovenská republika zastúpená Ministerstvom vnútra Slovenskej
+republiky
+so sídlom:
+Pribinova 2, 812 72 Bratislava
+Bankové spojenie: Štátna pokladnica
+č. účtu:
+IČO:
+00151866
+Zastúpený:
+Ing. Jozefom Čapuškom, generálnym riaditeľom
+sekcie informatiky, telekomunikácií a bezpečnosti MV SR na základe
+plnomocenstva č. p.: KM-OPS4-2018/001604-130 zo dňa 9.5.2018
+(ďalej len „objednávateľ“)
+(objednávateľ a dodávateľ ďalej len „zmluvné strany“)
+Článok I.
+DEFINÍCIE POJMOV
+
+1.1
+
+Web dokument – dokument s obsahom Objednávateľa, ktorý je umiestnený a
+sprístupnený v sieti internet pod dohodnutou doménou.
+
+1.2
+
+Web sídlo – všetky Web dokumenty umiestnené spravidla pod jednou doménou,
+vrátane akýchkoľvek aplikačných riešení prevádzkovaných na internetovej alebo
+intranetovej sieti a dostupných cez Web prehliadač, pričom v tejto Zmluve sa pod
+týmto pojmom rozumie Web sídlo Objednávateľa, pokiaľ výslovne z textu
+ustanovenia Zmluvy nevyplýva, že sa jedná o Web sídlo tretej osoby.
+
+1.3
+
+Web prehliadač – program na počítači Objednávateľa, umožňujúci prezeranie Web
+dokumentov.
+
+1.4
+
+Doména – internetová adresa, na ktorej je prevádzkované a prístupné Web sídlo.
+
+1.5
+
+Server – technologické zariadenie, hardvérové a softvérové riešenie, ktoré umožňuje
+prevádzkovať Web sídlo.
+
+1.6
+Provider – tretia strana, ktorá zabezpečuje pripojenie, konektivitu Servera na sieť
+internet.
+1.7
+Redakčný systém – nástroj, produkt Dodávateľa umožňujúci aktualizáciu a správu
+Web sídla Objednávateľom.
+1.8
+
+SwiftSite – meno redakčného systému, ktorý vytvoril a vlastní Dodávateľ.
+
+1.9
+
+Akceptačný protokol – písomné potvrdenie Objednávateľa o akceptovaní funkčnosti
+a spôsobilosti Web sídla na jeho riadne spustenie.
+Článok II.
+PREDMET ZMLUVY
+
+2.1
+
+Predmetom tejto Zmluvy je záväzok Dodávateľa vytvoriť a dodať Objednávateľovi
+dielo podľa špecifikácie uvedenej v článku III. bod 3.1 tejto Zmluvy (ďalej len
+„dielo“) vrátane poskytovania s tým súvisiacich služieb uvedených v článku III. bod
+3.2 tejto Zmluvy (ďalej len „služby“) a záväzok Objednávateľa za riadne a včas
+dodané dielo a riadne a včas poskytnuté služby zaplatiť cenu podľa článku VII. tejto
+Zmluvy.
+
+2.2
+
+Predmetom tejto Zmluvy je aj záväzok Dodávateľa udeliť Objednávateľovi na
+používanie diela súhlas (licenciu) v súlade s licenčnou doložkou podľa článku IX. tejto
+Zmluvy.
+Článok III.
+ŠPECIFIKÁCIA DIELA a SLUŽIEB
+
+3.1
+
+Dodávateľ sa zaväzuje vytvoriť pre Objednávateľa dielo - „Upgrade redakčného
+systému SwiftSite a web sídla www.minv.sk“ podľa špecifikácie v prílohe č. 1 tejto
+Zmluvy, ktoré sa skladá z nasledovných častí:
+3.1.1 Upgrade redakčného systému SwiftSite a web sídla www.minv.sk.
+3.1.2 Realizácia upgrade v súlade
+s výnosom z 8. septembra 2008 č.
+MF/013261/2008-132 o štandardoch pre informačné systémy verejnej správy. a
+metodickými pokynmi Ministerstva financií SR v oblasti prístupnosti
+webových stránok a bezpečnosti IS a metodickými pokynmi Objednávateľa.
+
+3.2
+
+Dodávateľ sa počas trvania tejto Zmluvy zaväzuje poskytovať k dodanému dielu tieto
+služby:
+3.2.1 Inovácie web sídla www.minv.sk podľa písomných požiadaviek
+Objednávateľa, ktoré sú súčasťou prílohy č. 2, ktorá tvorí neoddeliteľnú súčasť
+tejto zmluvy.
+3.2.2 Prevádzku a dohľad nad bezchybnou funkčnosťou Web sídla v rozsahu podľa
+prílohy č. 2 k tejto Zmluve, ktorá tvorí neoddeliteľnú súčasť tejto zmluvy.
+
+.
+
+Článok IV.
+DODANIE DIELA A POSKYTNUTIE SLUŽIEB
+4.1
+
+Objednávateľ je povinný predložiť Dodávateľovi do 10 pracovných dní od účinnosti
+tejto Zmluvy všetky podklady uvedené v prílohe č.1 tejto Zmluvy.
+
+4.2
+
+Dodávateľ je povinný vytvoriť a dodať dielo podľa článku III. bod 3.1. tejto Zmluvy
+Objednávateľovi do 60 pracovných dní od prevzatia podkladov od Objednávateľa
+podľa bodu 4.1 tohto článku.
+
+4.3
+
+Dodávateľ pred odovzdaním diela Objednávateľovi, umiestni dielo na testovaciu
+internetovú adresu prístupnú len pre Objednávateľa a zároveň o tejto skutočnosti
+písomne informuje Objednávateľa.
+
+4.4
+
+Objednávateľ je povinný, bezodkladne, najneskôr však do 7 dní od umiestnenia na
+testovacej internetovej adrese, vykonať skúšku Web sídla.
+
+4.5
+
+V prípade, že Web sídlo bude funkčné a bez chýb alebo má len také vady, ktoré
+nebránia jeho spusteniu a prevádzkovaniu na Serveri, Objednávateľ je povinný
+podpísať Akceptačný protokol, pričom v Akceptačnom protokole uvedie zistené vady,
+ktoré je Dodávateľ povinný bezodkladne odstrániť. Momentom podpísania
+Akceptačného protokolu je Dielo ako celok dodané. K podpísaniu Akceptačného
+protokolu príde v sídle Dodávateľa, pokiaľ sa nedohodnú zmluvné strany na inom
+mieste.
+
+4.6
+
+Dodávateľ zabezpečí po dodaní diela jeho spustenie na Serveri.
+
+4.7
+
+V prípade, že dielo bude nefunkčné, alebo bude mať také vady, ktoré budú
+znefunkčňovať dielo, zmluvné strany namiesto Akceptačného protokolu spíšu vady,
+ktoré bránili v odovzdaní diela a Dodávateľ je povinný ich bezodkladne na vlastné
+náklady odstrániť.
+
+4.8
+
+V prípade, že Objednávateľ riadne a včas Web sídlo nepreskúša, alebo sa nedostaví na
+spísanie Akceptačného protokolu alebo odmietne podpísať Akceptačný protokol, hoci
+bude dielo funkčné, bude sa Dielo považovať za dodané siedmym dňom po oznámení
+Dodávateľa o umiestnení Web sídla na testovaciu adresu.
+
+4.9
+
+Dodávateľ v rámci oznámenia o umiestnení častí Diela na testovaciu internetovú
+adresu podľa predchádzajúceho bodu navrhne Objednávateľovi na výber päť termínov
+za účelom vykonania školenia pre tri osoby Objednávateľa. V prípade, že si
+Objednávateľ z navrhnutých termínov v lehote 7 dní nevyberie, Dodávateľ nie je
+povinný školenie poskytnúť. Cena za školenie je súčasťou ceny za Dielo podľa článku
+VII. bod 7.1. tejto Zmluvy. Školenie, ak sa zmluvné strany nedohodnú inak, sa
+uskutoční v sídle Dodávateľa.
+
+4.10
+
+Služby podľa článku III. bod 3.2 tejto Zmluvy dodáva Dodávateľ Objednávateľovi
+priebežne v rozsahu podľa prílohy č. 2. tejto Zmluvy. Vady, ktoré spôsobujú
+nefunkčnosť alebo chybnú funkčnosť Web sídla a ich odstránenie súvisí s
+vykonávaním Služieb alebo s odstraňovaním vád Diela, je Dodávateľ povinný
+odstrániť do 24 hodín v rámci pracovných dní a pracovnej doby od 8:00 do 17:00 od
+nahlásenia vád zo strany Objednávateľa. V prípade, že nahlásenie vád nastane mimo
+pracovných dní alebo pracovných hodín, začína lehota podľa predchádzajúcej vety
+plynúť najbližšou pracovnou hodinou v najbližšom pracovnom dni.
+
+4.11
+
+Služby podľa článku III. bod 3.2 tejto Zmluvy bude Dodávateľ plniť priebežne na
+základe písomnej objednávky Objednávateľa, pričom v cene sú zahrnuté tieto Služby v
+objeme, ktorý nepresiahne 6 osobohodín za mesiac. Na základe objednávky
+Objednávateľa si Dodávateľ a Objednávateľ dohodnú termín dodania inovácie Web
+sídla a termín dodania podkladov zo strany Objednávateľa. Služba je dodaná
+momentom sprevádzkovania inovovaných častí Web sídla na Serveri. V prípade, že
+
+Objednávateľ bude mať záujem o zabezpečenie inovácie Web sídla, pričom rozsah
+Služieb už presiahol rozsah podľa prvej vety tohto bodu, Dodávateľ je povinný
+vykonať tieto Služby, iba ak sa s ním Objednávateľ dohodne na cene za tieto Služby
+nad rámec ceny podľa článku VII. bod 7.1 tejto Zmluvy.
+4.12
+
+Dodávateľ informoval Objednávateľa, že na zabezpečenie riadnej prevádzky Web
+sídla na jeho Serveri bude nevyhnutné vykonávať podľa potreby údržbu, inovácie a
+vylepšenia Servera, na čo bude nevyhnutné prerušiť prevádzkovanie alebo obmedziť
+prevádzkovanie Web sídla Objednávateľa. Objednávateľ dané akceptuje, a potvrdzuje,
+že prerušenie alebo obmedzenie prevádzky Web sídla z tohto dôvodu nie je porušením
+povinností Dodávateľa podľa tejto Zmluvy. Zmluvné strany sa dohodli, že o
+obmedzení alebo prerušení prevádzky Web sídla na tieto účely, bude Dodávateľ
+písomne informovať Objednávateľa aspoň 5 dní vopred, pričom v oznámení uvedie aj
+predpokladaný čas trvania prerušenia alebo obmedzenia prevádzky. Ustanovenia tohto
+bodu platia aj pre prípad, že obmedzenie alebo nefunkčnosť Web sídla bude
+spôsobený v dôsledku vykonávania inovácie Web sídla Dodávateľom alebo v prípade
+upgrade SwiftSite.
+
+4.13
+
+V prípade, že Objednávateľ je v omeškaní s plnením svojich povinností, ktoré
+predchádzajú alebo sú potrebné k plneniu povinností zo strany Dodávateľa, lehoty
+stanovené na plnenie povinností Dodávateľa sa predĺžia o dobu, počas ktorej je
+Objednávateľ v omeškaní s poskytnutím takejto súčinnosti Dodávateľovi. Dodávateľ
+je oprávnený plniť svoje povinnosti podľa tejto Zmluvy počas plynutia lehoty, t.j. je
+oprávnený dodať časti diela alebo Služby kedykoľvek počas plynutia lehoty na
+dodanie diela.
+Článok V.
+POVINNOSTI OBJEDNÁVATEĽA
+
+5.1
+
+Objednávateľ sa zaväzuje riadne a včas poskytnúť Dodávateľovi textové, obrazové a
+iné podklady a svoje požiadavky pre Službu „Upgrade redakčného systému SwiftSite“
+v štruktúre Podľa prílohy č. 1 Zmluvy, pričom textové podklady musí dodať v
+elektronickej forme v bežne používanom formáte MS Word.
+
+5.2
+
+Objednávateľ je povinný pred poskytnutím podkladov vysporiadať všetky práva
+tretích osôb s nimi súvisiace, najmä autorské práva a iné práva tretích osôb.
+Objednávateľ vyhlasuje, že má právo nakladať s podkladmi do takej miery, že je ich
+možné použiť pri tvorbe, úprave a/alebo upgrade Web sídla, pričom týmto dáva súhlas
+na spracovanie podkladov v rámci tvorby, úpravy a/alebo inovácii WEB sídla. V
+prípade, že si akákoľvek tretia osoba bude uplatňovať práva voči Dodávateľovi, je
+Objednávateľ povinný práva tretej osoby vysporiadať a/alebo uhradiť náklady, ktoré
+musel vynaložiť Dodávateľ na svoju ochranu alebo na vysporiadanie práv tretej osoby.
+
+5.3
+
+Objednávateľ je povinný počas tvorby Diela a počas upgrade Web sídla bezodkladne
+odpovedať na dotazy Dodávateľa súvisiace s Web sídlom a jeho konečným
+spracovaním, je povinný riadne a včas Dielo prevziať. Objednávateľ je povinný
+poskytnúť Dodávateľovi aj ďalšiu súčinnosť, o ktorú bude požiadaný a bude potrebná
+pri plnení povinností Dodávateľa podľa tejto Zmluvy, pričom ju bude poskytovať
+bezodkladne po požiadaní. V prípade, že Objednávateľ súčinnosť na vyzvanie
+neposkytne, Dodávateľ môže pokračovať pri tvorbe Diela alebo pri poskytovaní
+Služieb podľa pokynov, ktoré má k dispozícii.
+
+Článok VI.
+KOMUNIKÁCIA ZMLUVNÝCH STRÁN
+
+6.1
+
+Pre účely plnenia povinností podľa tejto Zmluvy zmluvné strany menujú nasledovné
+kontaktné osoby:
+6.1.1 Kontaktná osoba za Objednávateľa:
+Meno a priezvisko: Ing. Anna Vančíková
+adresa: Pribinova 2, Bratislava
+e-mail: anna.vancikova@minv.sk
+tel. č.: 0961 0 512 47
+6.1.2 Kontaktná osoba za Dodávateľa:
+Meno a priezvisko: Ing Marcel Friga
+adresa: Gorazdova 24, Bratislava e-mail: marcel.friga@elet.sk
+tel.: 02 / 5479 2279
+
+6.2
+
+Zmluvné strany v prípade zmeny kontaktných údajov oznámia tieto údaje druhej
+zmluvnej strane písomne, pričom nové údaje sú pre druhú zmluvnú stranu záväzné až
+dňom oznámenia nových kontaktných údajov.
+
+6.3
+
+V prípade, že podľa tejto Zmluvy sa vyžaduje, aby bol ten ktorý úkon pri plnení tejto
+Zmluvy urobený písomne je ho možné vykonať mailom, faxom alebo listom, a to na
+adresy a čísla uvedené v bode 6.1 tohto článku Zmluvy, pokiaľ táto Zmluva výslovne
+neupravuje inak.
+Článok VII.
+CENA A PLATOBNÉ PODMIENKY
+
+7.1
+
+Cena za dielo a služby podľa článku III. tejto Zmluvy je stanovená dohodou
+zmluvných strán v súlade so zákonom Národnej rady Slovenskej republiky č. 18/1996
+Z. z. o cenách v znení neskorších predpisov a vyhlášky Ministerstva financií SR č.
+87/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č.
+18/1996 Z. z. o cenách. Objednávateľ sa zaväzuje zaplatiť Dodávateľovi cenu za Dielo
+a služby podľa článku III. tejto Zmluvy v celkovej výške 16.012 € bez DPH (slovom:
+šestnásťtisíc dvanásť eur), čo predstavuje 19.214,40 € s 20% DPH (slovom: devätnásť
+tisíc dvestoštrnásť eur a štyridsať centov). Podrobný cenový rozpočet je uvedený v
+prílohe č. 3, ktorá tvorí neoddeliteľnú súčasť tejto Zmluvy.
+
+7.2
+
+V cene podľa bodu 7.1 tohto článku je zahrnuté odstránenie prípadných vád
+funkcionality diela, po dobu 36 mesiacov od odovzdania diela podľa článku IV. tejto
+Zmluvy.
+
+7.3
+
+V cene podľa bodu 7.1 tohto článku je zahrnuté aj poskytovanie služieb uvedených
+v prílohe č.2 v bode 4 a to v rozsahu 6 osobohodín/mesiac. Cenu za službu nad rámec
+stanovených osobohodín si určia Objednávateľ a Dodávateľ osobitne novým
+obstaraním.
+
+7.4
+
+Dodávateľ je povinný oznámiť Objednávateľovi prekročenie limitu a bez schválenia
+Objednávateľom nebude poskytovať výkony nad limit.
+
+7.5
+
+Lehota splatnosti faktúry je tridsať (30) dní odo dňa jej doručenia Objednávateľovi.
+V prípade, že faktúra bude obsahovať náležitosti daňového dokladu, alebo bude
+
+vyplnená nesprávne je Objednávateľ oprávnený vrátiť Dodávateľovi takúto faktúru na
+prepracovanie. Nová lehota splatnosti faktúry začína plynúť dňom doručenia
+opravenej faktúry Objednávateľovi. Cena sa považuje za uhradenú dňom odpísania
+finančných prostriedkov z účtu Objednávateľa.
+
+Článok VIII.
+ZODPOVEDNOSŤ ZA VADY, ZODPOVEDNOSŤ ZA ŠKODU A SANKCIE
+8.1
+
+Dodávateľ poskytuje Objednávateľovi záručnú dobu na dielo v trvaní tridsaťšesť (36)
+mesiacov. V prípade, že bude dielo vykazovať vady, je Dodávateľ povinný na vlastné
+náklady tieto vady odstrániť v lehote podľa článku IV. bod 4.10 tejto Zmluvy.
+
+8.2
+
+Zmluvné strany nezodpovedajú za porušenie povinnosti podľa Zmluvy, pokiaľ je
+porušenie povinnosti spôsobené okolnosťou vylučujúcou zodpovednosť (vyššia moc)..
+
+8.3
+
+Zmluvné strany sa zaväzujú navzájom sa bez zbytočného odkladu písomne informovať
+o porušení zmluvnej povinnosti z dôvodu okolnosti vylučujúcej zodpovednosť.
+
+8.4
+
+Pre účely tejto zmluvy sa za vyššiu moc považujú okolnosti, ktoré vznikli nezávisle
+od vôle danej zmluvnej strany, a to najmä vojna, štrajk, povstanie, občianske
+nepokoje, požiar, teroristický útok, povodeň alebo iná živelná katastrofa. Po skončení
+trvania vyššej moci je zmluvná strana dotknutá vyššou mocou povinná bez
+zbytočného odkladu o tejto skutočnosti písomne informovať druhú zmluvnú stranu.
+Ak by vyššia moc trvala nepretržite viac ako 6 mesiacov, takáto skutočnosť zakladá
+právo zmluvných strán na odstúpenie od tejto Zmluvy.
+
+8.5
+
+Dodávateľ nezodpovedá za škody, ktoré vzniknú Objednávateľovi v dôsledku porúch
+funkčnosti Web sídla, za ktoré zodpovedá, v trvaní od prejavenia sa problémov až do
+uplynutia lehoty podľa článku IV. bod 4.10 tejto Zmluvy, v ktorej má Dodávateľ
+povinnosť odstrániť vady, ktoré spôsobujú nefunkčnosť alebo obmedzenú funkčnosť
+Web sídla.
+
+8.6
+
+V prípade vzniku škody je zmluvná strana, ktorá takúto škodu zaviní povinná uhradiť
+ju v plnej výške druhej zmluvnej strane v súlade s príslušnými ustanoveniami
+Obchodného zákonníka o náhrade škody.
+
+8.7
+
+V prípade omeškania Objednávateľa s uhradením faktúry je Dodávateľ oprávnený
+účtovať Objednávateľovi zákonné úroky z omeškania za každý i začatý deň
+omeškania.
+
+8.8
+
+V prípade omeškania Dodávateľa s odovzdaním diela alebo poskytnutím služieb podľa
+článku III. tejto Zmluvy je Objednávateľ oprávnený požadovať od Dodávateľa
+zaplatenie zmluvnej pokuty vo výške 0.05 % z celkovej ceny podľa článku VII. bod
+7.1 tejto Zmluvy, a to za každý aj začatý deň omeškania.
+
+8.9
+
+V prípade, že Dodávateľ v lehote podľa článku IV. bod 4.10 neodstráni vady diela, je
+Objednávateľ oprávnený požadovať od Dodávateľa zaplatenie zmluvnej pokuty
+v celkovej výške 0,05 % z ceny diela podľa článku VII. bod 7.1 tejto Zmluvy, a to za
+každý aj začatý deň omeškania s odstránením vád.
+
+Článok IX.
+LICENCIA A ODMENA ZA UDELENIE LICENCIE
+
+9.1
+
+Dodávateľ udeľuje Objednávateľovi súhlas na použitie (licenciu) grafických návrhov,
+aplikačných riešení a redakčného systému SwiftSite použitého v rámci Web sídla
+Objednávateľovi. Dodávateľ udeľuje Objednávateľovi výhradnú, územne
+neobmedzenú licenciu počas celej doby trvania majetkových práv, vecne obmedzenú
+nasledovne:
+9.1.1 použitie len v tej podobe v akej boli grafické návrhy, aplikačné riešenia
+a redakčný systém SwiftSite dodané zo strany Dodávateľa;
+9.1.2 použitie len v rámci Web sídla dodaného a spusteného na základe tejto
+Zmluvy;
+9.1.3 Objednávateľ nie je oprávnený bez predchádzajúceho písomného súhlasu
+Dodávateľa grafické návrhy Web sídla a aplikačné riešenia v ňom použité a
+redakčný systém SwiftSite meniť, zasahovať do nich, využívať ich pri tvorbe
+iných diel a používať ich a využívať iným spôsobom ako spôsobom
+stanoveným v tejto Zmluve.
+9.1.4 Právo užívať grafické návrhy a aplikačné riešenia Web sídla, v rozsahu podľa
+tohto článku, trvá aj po zániku tejto Zmluvy. Dodávateľ môže odstúpiť od
+ustanovenia predchádzajúcej vety a tým ukončiť licenciu pre Objednávateľa
+kedykoľvek, v prípade, že Objednávateľ bude užívať grafické riešenie alebo
+aplikačné riešenia v rozpore s týmto bodom tohto článku. Pre odstúpenie
+podľa tejto vety sa použijú ustanovenia článku XI. bodu 11.4 tejto Zmluvy;
+9.1.5 Právo používať redakčný systém SwiftSite má Objednávateľ len počas
+platnosti tejto zmluvy..
+9.1.6 Odmena za udelenie licencie je zahrnutá v cene podľa bodu článku VII. bod
+7.1 tejto Zmluvy.
+Článok X.
+POVINNOSŤ MLČANLIVOSTI
+
+10.1
+
+10.2
+
+10.3
+
+Zmluvné strany sa dohodli, že sú povinné zachovávať mlčanlivosť o všetkých
+informáciách a údajoch, s ktorými sa oboznámili v súvislosti s touto Zmluvou (ďalej
+len „Dôverné informácie“), to sa netýka tých informácií, ktoré sú povinne
+zverejňované v zmysle zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám
+a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení
+neskorších predpisov.
+Objednávateľ sa zaväzuje, že Dôverné informácie Dodávateľa bez predchádzajúceho
+písomného súhlasu Dodávateľa ďalej neposkytne tretím osobám a ani neumožní
+prístup tretích osôb k týmto informáciám.
+Dodávateľ sa zaväzuje, že Dôverné informácie Objednávateľa bez predchádzajúceho
+písomného súhlasu Objednávateľa ďalej neposkytne tretím osobám a ani neumožní
+prístup tretích osôb k týmto informáciám.
+
+Článok XI.
+TRVANIE A UKONČENIE ZMLUVY
+
+11.1
+
+Táto Zmluva sa uzatvára na dobu určitú, a to na obdobie 36 mesiacov odo dňa
+nadobudnutia účinnosti tejto Zmluvy.
+
+11.2
+
+Túto Zmluvu je možné skončiť:
+
+11.2.1 písomnou dohodou zmluvných strán,
+11.2.2 písomným odstúpením,
+11.2.3 písomnou výpoveďou.
+11.3
+
+Objednávateľ je oprávnený odstúpiť od tejto Zmluvy v prípade jej podstatného
+porušenia zo strany Dodávateľa. Za podstatné porušenie povinností sa pre účely tejto
+Zmluvy považuje jej akékoľvek porušenie Dodávateľom.
+
+11.4 Objednávateľ je oprávnený odstúpiť od Zmluvy:
+11.4.1 Dodávateľ vstúpil do a likvidácie,
+11.4.2 voči Dodávateľovi sa začalo konkurzné konanie alebo reštrukturalizácia.
+11.5
+
+Dodávateľ je oprávnený odstúpiť od tejto Zmluvy v prípade, ak Objednávateľ neuhradí
+cenu podľa VII. bod 7.1 ani v lehote šesťdesiat (60) dní po lehote splatnosti faktúry.
+
+11.6
+11.7
+
+Odstúpenie nadobúda účinnosť dňom jeho doručenia druhej zmluvne strane.
+V prípade pochybností o doručení sa zmluvné strany dohodli považovať odstúpenie za
+doručené tretím dňom po jeho odoslaní.
+
+11.8
+
+Túto Zmluvu môže ktorákoľvek zmluvná strana vypovedať aj bez uvedenia dôvodu,
+pričom výpovedná lehota je tri (3) mesiace a začína plynúť prvým dňom kalendárneho
+mesiaca, nasledujúceho po mesiaci, v ktorom bola výpoveď doručená druhej zmluvnej
+strane.
+
+12.1
+
+12.2
+12.3
+
+12.4
+
+Článok XII.
+ZÁVEREČNÉ USTANOVENIA
+Táto zmluva nadobúda platnosť dňom podpisu obidvomi zmluvnými stranami
+a účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv,
+ktorý vedie Úrad vlády SR .
+Žiadna zo zmluvných strán nie je oprávnená postúpiť pohľadávky z tejto Zmluvy tretej
+osobe bez predchádzajúceho písomného súhlasu druhej zmluvnej strany.
+Právne vzťahy touto Zmluvou zvlášť neupravené sa riadia príslušnými ustanoveniami
+Obchodného zákonníka, zákonom č. 185/2015 Z. z. Autorský zákon v znení
+neskorších predpisov a iných všeobecne záväzných právnych predpisov platných na
+území Slovenskej republiky.
+Ak niektoré ustanovenia Zmluvy nie sú celkom alebo sčasti platné alebo účinné alebo
+neskôr stratia platnosť alebo účinnosť, nie je tým dotknutá platnosť a účinnosť
+ostatných ustanovení tejto Zmluvy.
+
+Túto Zmluvu je možné meniť iba na základe vzájomnej dohody zmluvných strán, a to
+formou písomných a očíslovaných dodatkov k tejto Zmluve.
+12.6 Táto Zmluva je vyhotovená v troch (3) vyhotoveniach s platnosťou originálu, z ktorých
+Objednávateľ obdrží dve (2) vyhotovenia a Dodávateľ jedno (1) vyhotovenie.
+12.7 Túto Zmluvu uzatvárajú zmluvné strany slobodne, vážne, určite a zrozumiteľne, teda
+tak, aby v budúcnosti nevznikli žiadne pochybnosti o tom, čo chceli jej obsahom
+vyjadriť, Zmluvu si prečítali, jej obsahu porozumeli a s týmto súhlasia, na znak čoho
+ju vlastnoručne podpisujú.
+12.5
+
+V Bratislave, dňa
+
+Za dodávateľa:
+
+Za objednávateľa:
+
+Ing. Rudolf Bista
+konateľ spoločnosti
+ELET, s.r.o.
+
+Ing. Jozef Čapuška
+generálny riaditeľ
+sekcie informatiky, telekomunikácií a
+bezpečnosti MV SR
+
+Príloha č. 1
+Zoznam činností pre “Upgrade redakčného systému SwiftSite“
+Vytvorenie grafického návrhu stránky pre oblasť verejnej správy a miestnej štátnej
+správy v zmysle
+analýzy na podporu klientskych centier. Úprava HTML šablón hlavičiek jednotlivých podstránok, podľa jednotného dizajn manuálu pre štátnu správu.
+b) Konsolidácia web sídla – vyčistenie štruktúry a zdrojov v redakčnom systéme.
+c) Úprava práv k manažovaniu zdrojov v zmysle požiadaviek.
+d) Servisné úkony web sídla na obdobie 3 rokov.
+e) Školenia redaktorov (2x ročne pre 15 osôb).
+a)
+
+V Bratislave, dňa
+
+Za dodávateľa:
+Ing. Rudolf Bista
+konateľ spoločnosti
+ELET, s.r.o.
+
+Za objednávateľa:
+Ing. Jozef Čapuška
+generálny riaditeľ
+sekcie informatiky,
+bezpečnosti MV SR
+
+telekomunikácií
+
+a
+
+Príloha č. 2
+Služby Dodávateľa poskytované Objednávateľovi:
+1.
+
+Dodanie inovácie (prechod na vyššiu verziu) redakčného systému SwiftSite počas
+zmluvného vzťahu, pokiaľ bude vyvinutá a odsúhlasená Objednávateľom.
+
+2.
+
+Odstraňovanie porúch redakčného systému SwiftSite, pokiaľ spôsobujú obmedzenie
+funkčnosti alebo nefunkčnosť Web sídla Objednávateľa.
+
+3.
+Poradenstvo a konzultácie v súvislosti s Web sídlom Objednávateľa v pracovnom
+čase.
+4.
+
+Aktualizácie a zmeny na webovom sídle do 6 osobohodín / mesiac.
+
+V Bratislave, dňa
+
+Za dodávateľa:
+Ing. Rudolf Bista
+konateľ spoločnosti
+ELET, s.r.o.
+
+Za objednávateľa:
+Ing. Jozef Čapuška
+generálny riaditeľ
+sekcie informatiky,
+bezpečnosti MV SR
+
+telekomunikácií
+
+a
+
+Príloha č. 3
+Podrobná cenová ponuka
+Služba
+Klientské centrá
+
+Množstvo
+1
+
+Cena / MJ
+5 100,00
+
+Cena spolu
+5 100,00 €
+
+- Grafický návrh a vytvorenie HTML šablón pre Klientské centrá
+- Prerobenie súčasnej štruktúry subwebu Verejná správa na
+Klientské centrá
+
+Konsilidácia web sídla
+
+1
+
+320,00
+
+320,00 €
+
+240,00
+
+240,00 €
+
+- Vyčistenie neaktívnych dokumentov a zdrojov v redakčnom systéme
+
+Úprava práv k manažovaniu zdrojov
+
+1
+
+- Úprava práv pre administrátora, aby dokázal pracovať zo zdrojmi vytvorenými redaktormi
+
+Školenie redaktorov
+
+6
+
+240,00
+
+3
+
+3 564,00
+
+1 440,00 €
+
+- 6 jednodňových školení
+
+Prevádzka web sídla
+- prevádzka websídla na 36 mesiacov
+
+SPOLU bez DPH
+Klientská zľava 10%
+SPOLU bez DPH po zľave
+DPH 20%
+SPOLU s DPH
+
+17 792.00 €
+-1 780.00 €
+16 012,00 €
+3 202.40 €
+19 214.40 €
+
+10 692,00 €
+
+

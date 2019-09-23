@@ -1,0 +1,615 @@
+Kúpna zmluva č. Z201829397_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Slovenská konsolidačná, a.s.
+Cintorínska 21, 81499 Bratislava, Slovenská republika
+35776005
+2021483585
+SK2021483585
+SK78 8180 0000 0070 0034 1819
++421257289158
+
+Dodávateľ:
+Obchodné meno:
+
+airo, s. r. o.
+
+Sídlo:
+
+Ivanská cesta 30/B, 82104 Bratislava, Slovenská republika
+
+IČO:
+
+48286621
+
+DIČ:
+
+2120122488
+
+IČ DPH:
+
+SK2120122488
+
+Číslo účtu:
+
+SK8211000000002941044557
+
+Telefón:
+
+0915226771
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Systém pre centralizovanú správu udalostí a záznamov
+
+Kľúčové slová:
+
+zber údájov, spracovanie dát, vyhodnocovanie dát
+
+CPV:
+
+48610000-7 - Databázové systémy; 48614000-5 - Systémy zberu údajov; 48781000-6 Softvérový balík na riadenie systému; 60000000-8 - Dopravné služby (bez prepravy
+odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Systém pre centralizovanú správu udalostí a záznamov
+
+Funkcia
+Predmetom zákazky je dodanie a implementácia systému pre centralizované ukladanie a správu logov s integrovaným
+systémom analýzy a riešenia bezpečnostných incidentov z prevádzkovaných systémov a aplikácií.
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+VŠEOBECNÉ POŽIADAVKY NA SYSTÉM
+1. Systém musí pracovať ako appliance s jedným
+uceleným rozhraním pre všetky administrátorské i
+operátorské činnosti. Systém nebude vyžadovať
+inštaláciu ďalších systémov a aplikácií okrem podpory
+zberu na iných lokalitách a agenta pre zber Windows
+logov. 2. Systém musí vykonávať spracovanie udalostí z
+preddefinovaných zdrojov logov aplikácií, operačných
+systémov a sieťového hardvéru minimálne v rozsahu
+podľa zoznamu podporovaných zariadení.
+Pokračovanie:
+
+Strana 1 z 8
+
+Minimum
+
+Maximum
+
+Presne
+
+3. Systém musí umožňovať doplnenie parseru pre
+zariadenia, aplikácie alebo systémy mimo zoznamu
+uvedeného v bode 2 užívateľom bez nutnosti spolupráce
+s výrobcom alebo dodávateľom ponúkaného systému Užívateľsky definované parsery. Dokumentácia systému
+musí obsahovať prehľadný návod na vytváranie
+zákazníckych parserov a systém musí obsahovať
+možnosť testovania a ladenia zákazníckych parserov
+bez vplyvu na ostatné produkčné funkcie systému. 4.
+Parsery a alerty musia umožňovať použitie
+matematických operácií. 5. Parsery a alerty musia
+podporovať dekódovanie URL. Pokračovanie:
+6. Systém musí prijímať a spracovávať logy, udalosti a
+ďalšie strojovo generované dáta prostredníctvom
+minimálne nasledujúcich protokolov: UDP/TCP 514
+(SYSLOG), TCP 20514 (RELP, nešifrovane) a TCP
+20515 (RELP, šifrovane). Systém musí umožňovať
+príjem logov i na užívateľsky definovaných UDP a TPC
+portoch. Prijaté logy systém musí štandardizovať do
+jednotného formátu a logy musia byť normalizované
+(rozdeľované) do príslušných polí podľa ich typu.
+Zároveň systém musí uchovávať aj originálne verzie
+logov. Pokračovanie:
+7. Systém musí zachovávať pôvodnú informáciu zo
+zdroja logu o časovej značke udalosti, ale vytvárať aj
+vlastnú dôveryhodnú časovú značku ku každému logu,
+ktorou sa systém defaultne riadi. 8. Všetky polia a
+položky prijaté systémom musia byť automaticky
+indexované. Nad všetkými položkami bude možné ihneď
+vykonávať vyhľadávanie bez nutnosti dodatočného
+ručného indexovania administrátorom. Pokračovanie:
+9. Možnosť zberu udalostí minimálne vo formátoch
+RAW, Syslog, CEF, LEEF, JSON RFC7159. 10. Systém
+nesmie umožniť mazanie alebo modifikovanie uložených
+logov. Každý log musí mať unikátny identifikátor, ktorý
+umožní jeho jednoznačnú identifikáciu. 11. Systém musí
+umožňovať prijatú správu rozhodnutím konfigurácie
+alebo parseru zahodiť. 12. Systém musí vykonávať
+konsolidáciu logov na centrálnom mieste. 13. Systém
+musí umožňovať jednoduché vyhľadávanie udalostí (ad
+hoc) bez nutnosti dodatočného programovania alebo
+aplikovania dopytov v SQL jazyku. Pokračovanie:
+14. Systém musí vykonávať ucelenú vizualizáciu logov,
+udalostí a strojových dát (grafy udalostí). Vizualizácia
+musí byť dynamická, tzn. voľbou v jednom grafe sa
+ostatné príslušné grafy v pohľade na dáta upravia podľa
+požadovanej voľby automaticky. 15. Systém musí
+umožňovať jednoducho vytvárať grafické znázornenie
+TOP udalostí nad všetkými dátami za určité časové
+obdobie. 16. Systém musí vykonávať automatické
+doplňovanie GeoIP informácií k udalostiam a ich grafické
+znázornenie na mape bez nutnosti využívať služby
+tretích strán či externé aplikácie. Pokračovanie:
+17. Systém musí vykonávať automatické doplňovanie
+reverzných DNS záznamov k IP adresám. 18. V prípade
+preťaženia systému nesmie dôjsť k strate logov. Všetky
+prijaté nespracované logy/udalosti musia byť ukladané
+do vyrovnávacej pamäte. Pri výraznejšom plnení
+vyrovnávacej pamäte musí byť administrátor systému
+automaticky informovaný. Veľkosť vyrovnávacej pamäte
+nesmie byť nižšia ako 50 GB. Pokračovanie:
+
+Strana 2 z 8
+
+19. Systém musí umožňovať unifikované vyhľadávanie
+naprieč všetkými typmi dát a zariadení. 20. Systém musí
+mať možnosť uloženia užívateľom vytvorených pohľadov
+na dáta (dashboardov) pre budúce spracovanie. 21.
+Systém musí obsahovať reportovací nástroj s
+prednastavenými najbežnejšími reportami a možnosťou
+vlastných úprav a vytváranie nových pohľadov. Pre
+vytváranie nových pohľadov na dáta nie je požadované
+používať povinne SQL jazyk. 22. Systém musí
+obsahovať predpripravené pohľady na uložené dáta
+podľa jednotlivých kategórií zdrojových zariadení i podľa
+logického členenia. Pokračovanie:
+23. Systém musí podporovať a automatizovať priebežné
+aktualizácie reportov a pohľadov výrobcom. 24.
+Konfiguračné a systémové rozhranie a dokumentácia
+musia byť identické v anglickom aj v slovenskom alebo
+českom jazyku. 25. Systém musí umožňovať kapacitné i
+výkonové škálovanie. 26. Čistá kapacita úložného
+priestoru (kapacita diskového poľa) dostupná pre
+uložené dáta ponúkaného systému musí byť minimálne
+12TB. Pokračovanie:
+27. Pre diskový subsystém je požadované prevedenie
+hot-swap, tzn. zo systému musí byť možné vyňať
+ľubovoľný disk bez straty dát a vplyvu na funkčnosť
+riešenia. Redundancia diskov nesmie ovplyvňovať
+požadovanú kapacitu úložiska. 28. Monitoring stavu
+systému - alertovanie pri prekročení prahových hodnôt
+alebo chybe systému, preposlanie upozornenia
+pomocou SMTP alebo Syslog. 29. Systém musí
+obsahovať REST-API pre integráciu s externým
+monitorovacím systémom (Zabbix, Nagios, MRTG a
+pod.). 30. Systém musí umožňovať autorizovaný prístup
+k štruktúrovanej databáze logov. Pokračovanie:
+31. Jednotná centrálna webová konzola pre prístup k
+logom, alertom, reportom a pre správu systému. Z tejto
+konzoly sa vykonáva kompletná konfigurácia, správa a
+analýza logov. Nie je prípustné, aby dodaný systém mal
+viacero konzol pre jednotlivé časti systému. 32. Systém
+musí umožňovať jednoduché vytváranie užívateľských
+rolí definujúcich prístupové práva k uloženým udalostiam
+a jednotlivým ovládacím komponentom systému.
+Pokračovanie:
+33. Systém musí vykonávať parsovanie a normalizáciu
+prijatých udalostí bez nutnosti inštalovať externé
+aplikácie alebo systémy a to priamo vo svojom rozhraní.
+Jedinou prípustnou výnimkou je monitorovanie systémov
+Windows, ktoré cez WMI protokol neumožňujú
+monitorovať textové logy. 34. Systém musí podporovať
+overovanie užívateľa systému na externom LDAP
+serveri. V prípade výpadku externého LDAP systému
+musí podporovať overenie z lokálnej databázy.
+MINIMÁLNE HARDVÉROVÉ (ďalej aj "HW")
+PARAMETRE POŽADOVANÉHO SYSTÉMU
+1. Jedna hardvérová appliance v rackovom prevedení s
+výškou max. 1U, vrátane ramena pre organizáciu
+zapojených káblov umožňujúceho vysunutie zapnutého
+systému z racku pre servisné účely. 2. Hardvér
+appliance obsahuje všetky potrebné komponenty (CPU,
+RAM, diskový priestor) a je nezávislá na ďalších
+systémoch. 3. 1 procesor (min. 10 jadier), podpora
+HyperThreadingu. 4. Min. 64GB DDR-4, rozšíriteľná na
+min. 768GB pre jeden CPU. Pokračovanie:
+
+Strana 3 z 8
+
+5. Diskový subsystém s čistou dostupnou kapacitou
+minimálne 12TB pre integrovanú databázu; HW
+akcelerovaný SAS RAID radič s read-write cache min.
+2GB. Radič diskového poľa musí obsahovať zálohovaciu
+batériu alebo byť vybavený flash pamäťou. 6. Pre
+diskový subsystém je požadované prevedenie hot-swap
+diskov zapojených v RAID5. 7. Minimálne 2x 1Gbit LAN
+porty + 1x dedikovaný 1Gbit port pre management HW.
+8. Redundantné ventilátory, vymeniteľné za chodu. 9.
+Napájacie zdroje s redundanciou 1+1, vymeniteľné za
+chodu, účinnosť min. 94%. Pokračovanie:
+10.Virtuálne KVM, tzn. prevzatie textovej i grafickej
+konzoly serveru a prenos povelov z klávesnice a myši
+vzdialeného počítača.11. Servisný procesor alebo karta
+pre systémový manažment HW musí poskytovať
+podporu vzdialeného manažmentu servera cez internet
+alebo intranet pomocou bezpečnej kryptovanej
+komunikácie (SSL, SSH, AES, 3DES), podporu
+štandardu IPMI 2.0, samotný dedikovaný sieťový 1Gb
+port. Požadované sú aj rozšírené funkcie ako: podpora
+grafického rozhrania, Dvojitá autentifikácia s integráciou
+do adresárovej služby (MS AD). Podpora záznamu a
+spätného prehrávania bootovacej obrazovky.
+VÝKONNOSTNÉ A SOFTVÉROVÉ (ďalej aj "SW")
+PARAMETRE SYSTÉMU
+1. Systém musí fungovať formou appliance - všetky časti
+systému bude možné nastaviť v centrálnej správcovskej
+konzole, nebude nutné editovať žiadne konfiguračné
+súbory vrátane IP adresácie systému. 2. Aktualizácie
+systému musia byť distribuované v jednotnom balíku a
+ich inštalácia bude vykonávaná cez centrálnu
+správcovskú konzolu. 3. Systém musí podporovať
+downgrade, napríklad pri problémoch s novou verziou
+systému po upgrade. 4. Priemerný trvalý príjem min.
+2000 udalostí za sekundu. Pokračovanie:
+5. Špičkový príjem 4000 udalostí za sekundu po dobu
+najmenej 10 minút, v prípade vyššieho počtu udalostí ich
+systém musí byť schopný uložiť do bufferu a spracovať
+neskôr. 6. Licenčne neobmedzený počet zariadení pre
+príjem zasielaných udalostí. Licenčne neobmedzený
+počet udalostí v GB za deň alebo licencia na minimálne
+80GB uložených udalostí za deň. Integrovaná databáza
+musí mať čistú veľkosť najmenej 12 TB a musí
+podporovať kompresiu ukladaných dát. Pokračovanie:
+7. Užívateľská konfigurácia vlastných parserov pomocou
+vizuálneho programovacieho jazyka v centrálnej
+správcovskej webovej konzole. Vizuálny programovací
+jazyk musí užívateľovi umožniť písať vlastné parsery bez
+nutnosti znalosti programovania (napr. Node-RED,
+Microsoft VPL, Blockly apod). Vizuálny programovací
+jazyk nie je prezentovaný textovo, ale graficky formou
+blokov, ktoré obsahujú aplikačnú logiku. 8. Konfigurácia
+užívateľských parserov musí umožňovať automatické
+doplňovanie DNS reverzných záznamov, GeoIP
+informácie a identifikáciu výrobcu zariadenia podľa MAC
+adresy. Pokračovanie:
+9. Systém musí podporovať integráciu externých zdrojov
+informácií. 10. Možnosť on-line ladenia užívateľsky
+definovaných parserov - pri ich vytváraní bude možné
+vložiť vlastné testovacie správy, pri zmene bude
+okamžite zobrazená výsledná podoba rozparsovaných
+dát a prípadné chybová hlásenia. 11. V centrálnej
+správcovskej konzole bude možné pridávať k
+jednotlivým zdrojom dát, aplikáciám, zariadeniam alebo
+IP subnetom tzv. značky, označujúce napríklad
+umiestnenie zariadenia, typ zariadenia, kritickosť
+zariadenia a pod. Pokračovanie:
+
+Strana 4 z 8
+
+12. V centrálnej správcovskej konzole bude pri definícii
+vlastného parseru možné pridávať značky pre typy
+udalostí (login, logout apod.). 13. Všetky pridávané
+značky budú ukladané s každou prijatou udalosťou, na
+základe značky bude možné filtrovať dáta alebo
+obmedzovať oprávnenia užívateľov systému k
+jednotlivým udalostiam. 14. Systém musí byť
+predpripravený pre zrkadlenie a clustrové zapojenie – 2
+nody v režime active / active. 15. V prípade zapojenia
+ako dvojnodový cluster sa systém bude musieť správať
+ako jeden celok. Pokračovanie:
+16. V prípade využitia dvoch nodov v clustri sa zrýchľuje
+vyhľadávanie a sú automaticky prehľadávané všetky
+dáta na všetkých zariadeniach v clustri.17. V prípade
+rozšírenia systému na dvojnodový cluster musia
+zariadenia odosielať udalosti iba na jednu virtuálnu
+adresu a zároveň cluster musí zaisťovať synchronizáciu
+udalostí medzi nodmi. 18. Podpora zálohovania alebo
+obnovy konfigurácie v jednom kroku a jednom súbore
+pre celý systém.
+ALERTY
+1. Systém bude musieť byť schopný na základe
+zadaných podmienok splnených v prijatých dátach
+vygenerovať alert. 2. Text alertu môže byť užívateľsky
+definovaný s premennými z prijatej rozparsovanej
+udalosti. 3. Predpripravené sety/vzory alertov výrobcom
+systému. 4. Užívateľská konfigurácia alertov pomocou
+vizuálneho programovacieho jazyka v centrálnej
+správcovskej konzole. Vizuálny programovací jazyk nie
+je prezentovaný textovo, ale graficky formou blokov,
+ktoré obsahujú aplikačnú logiku. Pokračovanie:
+5. Ako výstupné pravidlo alertu musí systém vedieť
+odoslať udalosť, ktorá alert vyvolala na externý systém
+minimálne prostredníctvom SMTP alebo Syslog cez TCP
+protokol. 6. V alertoch bude možné využívať značky
+(napríklad: pošli alert iba v prípade, že sa udalosť stala
+na kritickom serveri, ktorý beží v lokalite Bratislava). 7.
+Systém musí podporovať základné funkcie SIEM korelácie udalostí a upozornenia s hraničnými limitmi.
+ZBER UDALOSTÍ V PROSTREDÍ MICROSOFT
+1. Udalosti z Microsoft prostredí budú získavané
+pomocou agenta inštalovaného priamo na koncovom
+Windows systéme. Windows agent musí súčasne
+podporovať ako monitoring interných windows logov, tak
+i monitoring textových súborových logov. 2. Agent musí
+zabezpečovať zber nemodifikovaných udalostí a detailné
+spracovávanie auditných informácií. 3. Agent musí
+podporovať nastavenie filtrácie odosielaných udalostí
+pomocou centrálnej správcovskej konzoly.
+Pokračovanie:
+4. Filtrácia odosielaných udalostí agentom sa musí
+konfigurovať pomocou vizuálneho programovacieho
+jazyka v centrálnej správcovskej konzole. Vizuálny
+programovací jazyk nie je prezentovaný textovo, ale
+graficky formou blokov, ktoré obsahujú aplikačnú logiku.
+5. Windows agent nebude vyžadovať administrátorské
+zásahy na koncovom systéme – je centrálne spravovaný
+a automaticky aktualizovaný priamo z centrálnej
+správcovskej konzoly systému. Správa a aktualizácia
+Windows agenta sa nevykonáva z Group Policy.
+Pokračovanie:
+
+Strana 5 z 8
+
+6. Agent musí automaticky prekladať zástupné kódy v
+správach na text (napr. Logon Type 2 = Interactive,
+Logon Type 3 = Network, atď.). 7. Windows agent musí
+mať buffer pre prípad straty spojenia medzi koncovým
+systémom a centrálnym úložiskom logov. 8.
+Komunikácia Windows agenta a centrálneho systému
+musí byť šifrovaná. 9. Windows agent musí podporovať
+zber nielen zo základných systémových logov (Aplikácie,
+Zabezpečenie, Inštalácie, Systém), ale je možné z
+centrálnej správcovskej konzoly nastaviť i zber všetkých
+ostatných logov v zložke Protokoly aplikácií a služieb.
+Pokračovanie:
+10. Windows agent musí automaticky dopĺňať ku
+všetkým odosielaným udalostiam ich textový popis tak,
+ako je zobrazený v Prehliadači udalostí (Event Viewer)
+na koncovom systéme. 11. Počet inštalácií Windows
+agenta nesmie byť licenčne obmedzený. 12. Podpora
+pre zber udalostí z iných lokalít. 13. Systém musí
+obsahovať riešenie, ktoré zbiera udalosti na pobočkách
+alebo v záložnom datacentre a umožňuje ich odoslanie
+po saturovanej linke bez straty dát. 14. Systém musí
+podporovať centralizovanú správu pre zber udalostí z
+viacerých lokalít priamo z centrálneho úložiska dát.
+Pokračovanie:
+15. Riešenie pre zber udalostí z iných lokalít musí byť
+schopné automaticky nadviazať spojenie s centrálnym
+úložiskom dát a prenášané dáta šifrovať. V prípade
+výpadku spojenia medzi inou lokalitou a centrálou musí
+spojenie automaticky obnoviť. 16. Riešenie musí
+komunikovať po definovanom IP protokole, aby mohla
+byť centrálne nastavená kvalita služby (QoS) pre prenos
+udalostí. 17. Riešenie musí poskytovať kapacitu
+vyrovnávacej pamäte pre minimálne 100GB udalostí,
+ktoré na inej lokalite môžu vzniknúť počas výpadku
+spojenia medzi inou lokalitou a dátovým centrom.
+Pokračovanie:
+18. Riešenie pre zber udalostí z iných lokalít musí mať
+výkon minimálne 5 tisíc udalostí /s. a to i pri trvalej
+záťaži. 19. Riešenie pre zber udalostí z iných lokalít
+musí poskytovať podporu pre UDP i TCP zdroje a pre
+aktívny zber z Windows agentov. 20. Riešenie pre zber
+udalostí z iných lokalít musí byť poskytované ako fyzický
+systém aj ako virtuálny systém pre VMware ESXi a
+Hyper-V. Výber fyzického alebo virtuálneho riešenia je
+voliteľný na základe možností dostupných na predmetnej
+vzdialenej lokalite podľa voľby obstarávateľa.
+Pokračovanie:
+21. Riešenie pre zber udalostí z iných lokalít musí byť
+schopné komunikovať s centrálou i cez viacnásobný
+preklad adries (NAT).
+SOFTVÉR PODPORA A ZÁRUKA NA HARDVÉR
+1. Hardvér - požadovaná je min. 5-ročná servisná
+podpora na hardvér appliance, oprava s garantovanou
+odozvou nasledujúci pracovný deň na mieste inštalácie,
+náhradné diely dostupné minimálne 5 rokov. Dodávateľ
+je povinný priamo pri dodávke predložiť certifikát o
+platnosti záruky poskytovanej výrobcom na požadované
+obdobie a zároveň poskytnúť linku na webový nástroj
+pre overenie záruky poskytovanej výrobcom.
+Pokračovanie:
+2. Predplatné SW modulov systému vrátane aktualizácií
+systému a parserov na 1 rok musí byť súčasťou
+dodávky. Podpora musí obsahovať aktualizáciu SW
+minimálne 4x ročne, opravy chýb a telefonická a
+emailová podpora s diagnostikou vzdialeným prístupom.
+Predplatné SW modulov systému vrátane aktualizácií
+systému a parserov musí byť dostupné ako platená
+služba minimálne 5 rokov bez nutnosti výmeny HW
+appliance za novšie prevedenie.
+
+Strana 6 z 8
+
+ZDROJE LOGOV
+1. Dodávaný systém musí podporovať zber logov z
+nasledujúcich zariadení a systémov: 3x HW server Dell
+R620; 2x diskové pole NetApp 2700e; 2x Windows AD
+server; 5x Linux Centos server; 160x Windows desktop;
+13x Cisco switch; 3x UBNT WiFi AP; 2x Fortinet firewall;
+1x SMG antispam server; 1x SEP manager server; 1x
+Exchange 2013 mail server; 10x Web server (IIS,
+Apache Tomcat); 16x MS SQL server; 1x Veeam B&R
+server. Pokračovanie:
+2. Požadovaná retencia logov udalostí pre okamžité
+spracovanie systémom pre uvedené počty zariadení pri
+predpokladanej silnej prevádzke 12 hodín počas 5 dní v
+týždni je min. 300 dní. Systém musí zároveň archivovať
+staršie záznamy na externé médium s možnosťou
+pripojenia a prehľadávania archívov po dobu 10 rokov.
+SLUŽBY
+1. Súčasťou dodávky systému musia byť jednorazové
+implementačné služby minimálne v nasledujúcom
+rozsahu: nastavenie a konfigurácia systému v IT
+prostredí obstarávateľa; konfigurácia Windows systémov
+pre zasielanie logov do systému; overenie funkčných a
+výkonových parametrov Windows agentov; predvedenie
+vytvorenia a uloženia vlastného dashboardu a reportu;
+predvedenie vytvorenia a uloženia užívateľsky
+definovaného parseru; predvedenie nastavenia
+značkovania udalostí a vytvárania upozornení s limitom
+alebo koreláciou; Pokračovanie:
+nastavenie a predvedenie odoslania udalosti, ktorá
+vyvolala alert na externý Syslog server cez TCP
+protokol; nastavenie pravidelného zasielania
+definovaných reportov vybraným zamestnancom
+obstarávateľa; zaškolenie obsluhy a správy systému pre
+min. 3 zamestnancov obstarávateľa pre roly
+administrátor, supervízor, operátor; vytvorenie a
+odovzdanie prevádzkovej dokumentácie systému. 2.
+Súčasťou dodávky musia byť služby postimplementačnej
+podpory dodávateľa podľa požiadaviek a potrieb
+obstarávateľa v rozsahu jeden človekodeň mesačne na
+obdobie 12 mesiacov.
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Vrátane inštalácie na mieste plnenia
+Odovzdanie úplného predmetu zákazky (ďalej aj „dielo“) nastane dňom podpisu odovzdávacieho/preberacieho protokolu
+obomi zmluvnými stranami, resp. zodpovednými zástupcami oboch zmluvných strán. Dodávateľ sa zaväzuje riadne vykonať
+dielo a odovzdať ho v lehote do dvoch mesiacov od účinnosti zmluvy.
+Platobné podmienky: Objednávateľ uhradí 60,00 % zmluvnej ceny za dielo po protokolárnom prevzatí hardvérových zariadení
+a softvérového vybavenia na základe vystavenej faktúry so splatnosťou 30 dní. Objednávateľ uhradí 40,00 % zmluvnej ceny
+za dielo po protokolárnom prevzatí úplného diela na základe vystavenej faktúry so splatnosťou 30 dní.
+Dodávateľ je povinný preukázať, že pre úspešnú realizáciu diela disponuje dvomi vlastnými expertmi s platnou technickou
+certifikáciou výrobcu dodávaného systému.
+Dodávateľ musí predložiť potvrdenie vystavené autorizovanou osobou o zhode, že ponúkaný systém spĺňa požiadavky normy
+STN/ISO 27001:2013 pre získavanie auditných záznamov. Toto potvrdenie nie je možné nahradiť certifikátom na spoločnosť
+dodávateľa (subdodávateľa) alebo výrobcu ponúkaného systému. Nie je ho možné nahradiť ani čestným vyhlásením.
+Názov
+2.4
+Popis
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+Názov súboru
+Strana 7 z 8
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Cintorínska 21
+
+Čas / lehota plnenia zmluvy:
+01.08.2018 00:01:00 - 30.07.2020 23:59:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+súbor položiek zákazky
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 38 085,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 45 702,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 19.07.2018 10:38:04
+Objednávateľ:
+Slovenská konsolidačná, a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+airo, s. r. o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 8 z 8
+
+

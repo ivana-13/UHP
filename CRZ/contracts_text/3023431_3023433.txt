@@ -1,0 +1,1851 @@
+Zmluva o poskytovaní servisných služieb na zabezpečenie udržateľnosti
+Informačného systému Elektronizácie vzdelávacieho systému regionálneho školstva
+(ďalej len „Servisná zmluva“)
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb., Obchodného zákonníka v znení
+neskorších predpisov (ďalej len „Obchodný zákonník“)
+Objednávateľ: Ministerstvo školstva, vedy, výskumu a športu SR
+Stromová 1, 813 30 Bratislava
+IČO: 00164381
+DIČ: 2020798725
+Štatutárny orgán: – minister, prof. Ing. Peter Plavčan,CSc.
+Bankové spojenie: Štátna pokladnica
+Číslo účtu v tvare IBAN: SK80 8180 0000 0070 0006 5236
+(ďalej len „Objednávateľ“)
+Poskytovateľ:
+DWC Slovakia, a.s.
+Mlynské Nivy 71, 821 05 Bratislava
+IČO: 35 918 501
+DIČ: 202 194 2307
+Štatutárny orgán: predseda predstavenstva, Ing. Peter Axamít
+Bankové spojenie: Tatra bank a.s., Bratislava
+Číslo účtu v tvare IBAN: SK97 1100 0000 0026 2303 0272
+Zapísaný v Obchodnom registri OS BA1, odd. Sa, vložka č.: 4134/ B
+(ďalej len „Poskytovateľ“)
+(obe strany spoločne ďalej len „Zmluvné strany“)
+Článok I
+Úvodné ustanovenia
+Na základe Zmluvy o poskytnutí nenávratného finančného príspevku číslo Z2111012004601,
+uzatvorenej dňa 19.11.2013 a na základe Zmluvy o verejnom obstarávaní podľa zákona č.
+25/2006 Z. z. číslo 0809/2013, uzatvorenej dňa 21.11.2013, bol vytvorený a uvedený do prevádzky
+Informačný systém Elektronizácie vzdelávacieho systému regionálneho školstva (ďalej len IS
+EVSRŠ). Zmluvné strany týmto uzatvárajú túto Servisnú zmluvu za účelom zabezpečenia
+udržateľnosti a dostupnosti komplexného systému IS EVSRŠ prostredníctvom poskytovania
+služieb podpory prevádzky, údržby a aktualizácie IS EVSRŠ.
+Článok II
+Vysvetlenie pojmov
+Akceptačné testy – sú testy novej alebo zmenenej funkčnosti, ktoré Objednávateľ realizuje podľa
+vopred vzájomne odsúhlasených testovacích scenárov a testovacích prípadov dodaných
+Poskytovateľom a ktorých úspešný priebeh je podmienkou akceptácie odovzdávanej funkčnosti.
+DEO alebo DVO – znamená digitálny edukačný obsah alebo digitálny vzdelávací obsah, teda
+komplexné vzdelávacie prostredie určené pre školy, ktoré obsahuje multimediálny obsah a
+výukové softvéry.
+Bežná prevádzka – predstavuje prevádzku v bežný pracovný deň v čase od 8:00 do 16:30 s
+výnimkou štátom uznaných sviatkov.
+Človekodeň (MD) – je merná jednotka pre vykazovanie prácnosti, za ktorú sa považuje 8
+pracovných hodín jedného pracovníka Poskytovateľa.
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+1
+
+Človekohodina – je merná jednotka pre vykazovanie prácnosti, za ktorú sa považuje 1 pracovná
+hodina jedného pracovníka Poskytovateľa. Najmenšia jednotka fakturácie podľa tejto zmluvy je 0,5
+človekohodiny (30 minút). Cena bude vyrátaná ako alikvótny pomer za človekodeň (MD)
+Defekt – je nesúlad medzi skutočným stavom funkčnosti a medzi funkčnými špecifikáciami
+dohodnutými medzi Objednávateľom a Poskytovateľom, ktorý bol zistený na základe Funkčných
+alebo Akceptačných testov.
+Doba odozvy – je doba, do ktorej pracovník Poskytovateľa kontaktuje (emailom, pokiaľ nie je
+uvedené inak) kontaktnú osobu zo strany objednávateľa a informuje ju o začatí riešenia servisnej
+požiadavky.
+Doba trvalého vyriešenia – znamená najneskorší čas, dokedy musí Poskytovateľ vyriešiť
+Incident, t.j. uplatniť trvalé riešenie, ktorého výsledkom je plné obnovenie dostupnosti prevádzky
+a funkčností komplexného systému IS EVSRŠ ovplyvnenej predmetným Incidentom. Doba
+trvalého vyriešenia je počítaná od okamihu nahlásenia Incidentu kontaktnou osobou zo strany
+Objednávateľa do okamihu plného obnovenia ovplyvnenej funkčnosti.
+Doba zabezpečenia náhradného riešenia – je doba do zabezpečenia náhradného riešenia, ktorá
+je počítaná od okamihu nahlásenia Incidentu kontaktnou osobou zo strany Objednávateľa do
+okamihu, keď Poskytovateľ zabezpečí náhradné riešenie problému.
+Držanie pohotovosti – znamená pripravenosť Poskytovateľa poskytnúť riešenie pri prípadných
+výskytoch kritických a nekritických problémov IS EVSRŠ a eŠVP v stanovenom čase.
+eGov služba – je koncová služba poskytovaná verejnou správou. Táto služba napĺňa potrebu
+koncového používateľa a jej prostredníctvom sa uskutočňuje komunikácia občana alebo
+podnikateľa s orgánom verejnej moci pri výkone verejnej moci elektronicky. Každá eGov služba
+prispieva k riešeniu konkrétnej životnej situácie. Funkčnosť eGov služby je tvorená množinou IS
+služieb.
+Fulltextové (plnotextové) vyhľadávanie – je mechanizmus, ktorý vyhľadáva zadané
+vyhľadávané pojmy v celom dokumente spôsobom, pri ktorom s nimi porovnáva každé slovo
+dokumentu, t.j. nehľadá len v kľúčových slovách priradených k dokumentu (metaúdajoch) alebo len
+vo výťahu z dokumentu.
+Funkčné testy – sú regresné testy pôvodných kritických funkcionalít a testy novej alebo zmenenej
+funkcionality, ktoré Objednávateľ realizuje podľa vopred vzájomne odsúhlasených testovacích
+scenárov a testovacích prípadov dodaných Poskytovateľom.
+Incident – chyba alebo porucha, ktorá predstavuje akékoľvek nesplnenie pôvodných požiadaviek
+na komplexný systém IS EVSRŠ, nesplnenie stanovených štandardov, neschválenú odchýlku od
+dohodnutej funkčnosti komplexného systému IS EVSRŠ alebo dohodnutých úprav komplexného
+systému IS EVSRŠ, nedodržanie postupov dohodnutých pre analýzu, návrh, implementovanie,
+testovanie a spracovanie dokumentácie úprav komplexného systému IS EVSRŠ a používanie
+iných ako dohodnutých softvérových nástrojov.
+IS služba – je z procesného hľadiska základná funkčnosť informačného systému. Táto služba
+sprístupňuje automatizované správanie aplikačnej funkcie resp. aplikačného komponentu, pričom
+podporuje spravidla jeden procesný krok vykonávania eGov služby.
+Kľúčový používateľ – je pracovník určený pre prácu s komplexným systémom IS EVSRŠ na
+strane Objednávateľa, ktorý je oprávnený komunikovať s pracovníkmi Poskytovateľa v rámci
+riešenia Incidentu. Kľúčoví používatelia sú najmä zamestnanci sekcie regionálneho školstva
+MŠVVaŠ SR, call centra Dodávateľa, ŠPU a ŠIOV.
+Komplexný systém IS EVSRŠ – zahŕňa aplikačné programové vybavenie IS EV SRŠ, modul
+elektronických služieb, aplikačnú platformu pre správu obsahu a fulltextový vyhľadávací nástroj
+a editor eŠVP. Súčasťou komplexného systému IS EVSRŠ sú automaticky stane aj každá
+akceptovaná požiadavka na zmenu a zmena funkčnosti akéhokoľvek rozsahu.
+Komponent – každý nový produkt, program, softvér, či funkčnosť, ktoré Poskytovateľ nainštaluje,
+nakonfiguruje, naprogramuje alebo nastaví v komplexnom systéme IS EVSRŠ a ktorý je
+doplnením alebo zmenou voči stavu zaznamenaného v dokumentácii ku komplexnému systému IS
+EVSRŠ, ktorú Objednávateľ odovzdá Poskytovateľovi po podpise Servisnej zmluvy.
+Koncový používateľ – je osoba, ktorá využíva funkčnosť IS EVSRŠ. Koncoví používatelia môžu
+byť koordinátori, pedagogickí a odborní zamestnanci, ktorí sa podieľajú na úprave/tvorbe ŠkVP
+a úprave/tvorbe záveru odborného posudku dieťaťa.
+Kontaktná osoba – je osoba oprávnená nahlasovať Incidenty, predkladať požiadavky na zmenu,
+vyhodnotiť ich realizáciu a akceptovať ich dodanie.
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+2
+
+Koordinátor úprav/tvorby ŠkVP – je osoba, ktorá koordinuje prácu niekoľkých pedagogických
+zamestnancov pri úpravách/tvorbe ŠkVP.
+Kritická prevádzka – predstavuje prevádzku počas pracovných dní s vysokou prioritou
+a požiadavkou na vysokú dostupnosť systému v čase od 8:00 do 16:30 s výnimkou štátom
+uznaných sviatkov.
+Legislatívne zmeny – sú zmeny v legislatíve zverejnené v Zbierke zákonov SR a v metodických
+usmerneniach.
+Malá zmena funkčnosti – zmena funkčnosti, konfigurácie a nastavení komplexného systému IS
+EVSRŠ, ktorá nepresahuje prácnosť 2 MD.
+Odborný zamestnanec (školy) – je fyzická osoba, ktorá vykonáva odbornú činnosť a je
+zamestnancom škôl a školských zariadení zriadených podľa osobitného predpisu. (Zákon č.
+317/2009). Jeho rola z technického hľadiska dokumentu je rovnaká ako rola pedagogický
+zamestnanec.
+Pedagogický zamestnanec – je fyzická osoba, ktorá vykonáva pedagogickú činnosť a je
+zamestnancom škôl a školských zariadení zriadených podľa osobitného predpisu. (Zákon č.
+317/2009 Z.z., §3 ods. 1).
+Projektová podpora – predstavuje koordináciu všetkých projektových procesov týkajúcich sa
+riešenia incidentov požiadaviek na zmenu, eskalácii, reportovania a štatistických hlásení medzi
+Objednávateľom a Poskytovateľom.
+Prvotná odozva – je doba medzi postúpením požiadavky Objednávateľom Poskytovateľovi a
+prvotnou informáciou Poskytovateľa o krokoch, ktoré boli (budú) zrealizované a predpokladanom
+cieľovom čase na vyriešenie požiadavky.
+Prvotný dokument ŠkVP – sú údaje uložené vo forme databázových tabuliek podľa štruktúry
+ŠVP. Prvotný dokument ŠkVP nie je PDF dokument.
+Školský vzdelávací program (ďalej len „ŠkVP“) – je základný dokument školy, podľa ktorého sa
+uskutočňuje výchova a vzdelávanie v školách podľa zákona 245/2008 Z.z.
+Štátny vzdelávací program (ďalej len „ŠVP“) – vymedzuje povinný obsah výchovy a vzdelávania
+v školách (ISCED 0, ISCED 1, ISCED 2, 2A, 2B, 2C, ISCED 3, 3A, 3B, 3C, 4A, 5B) podľa zákona
+na získanie kompetencií. Štátne vzdelávacie programy vydáva a zverejňuje Ministerstvo školstva,
+vedy, výskumu a športu Slovenskej republiky.
+Veľká zmena funkčnosti – zmena funkčnosti, konfigurácie a nastavení komplexného systému IS
+EVSRŠ, ktorá presahuje prácnosť 2 MD.
+Zabezpečenie náhradného riešenia – je dosiahnutie dočasného režimu funkčnosti systému
+(funkcia a plánovaná použiteľnosť systému je v zmysle požiadaviek a funkčnej špecifikácie síce
+poskytovaná odlišne, avšak nie je podstatne ovplyvňované jej pôvodne plánované použitie)
+vytvorením náhradného postupu, ktorý nemá za následok zvýšené personálne alebo časové
+nároky na strane Objednávateľa.
+Článok III
+Predmet zmluvy
+1.
+
+2.
+
+3.
+
+Predmetom tejto zmluvy je záväzok Poskytovateľa vykonávať a zabezpečovať pre
+Objednávateľa služby spojené s prevádzkou, údržbou a aktualizáciou komplexného systému
+IS EVSRŠ s cieľom zabezpečiť dostupnosť a udržateľnosť IS EVSRŠ, a to prostredníctvom
+nasledujúcich služieb:
+a) Služby podpory prevádzky,
+b) Služby rozvoja,
+Služby podpory prevádzky zahŕňajú zabezpečovanie bežnej servisnej podpory, ako aj
+poskytovanie podpory pre zaistenie spoľahlivej, kontinuálnej a bezpečnej prevádzky
+komplexného systému IS EVSRŠ v súlade s aktuálnymi platnými funkčnými a nefunkčnými
+požiadavkami, vrátanie riešenia Incidentov. Súčasťou Služieb podpory prevádzky sú aj malé
+zmeny funkčnosti, konfigurácie a nastavení komplexného systému IS EVSRŠ vynútené
+zmenami prevádzkového prostredia Objednávateľa a udržiavanie aktuálnosti príslušnej
+dokumentácie komplexného systému IS EVSRŠ. Služby podpory prevádzky zahŕňajú
+maximálne 3 malé zmeny funkčnosti mesačne (každá zmena v rozsahu prácnosti
+nepresahujúcom 2 MD).
+Služby rozvoja zahŕňajú zmeny funkčnosti komplexného systému IS EVSRŠ, ktoré vyplývajú
+z legislatívnych zmien alebo z novo vzniknutých potrieb Objednávateľa a udržiavanie
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+3
+
+4.
+
+aktuálnosti príslušnej dokumentácie komplexného systému IS EVSRŠ. Súčasťou služieb
+rozvoja sú aj veľké zmeny funkčnosti, konfigurácie a nastavení komplexného systému IS
+EVSRŠ vynútené zmenami prevádzkového prostredia Objednávateľa a udržiavanie
+aktuálnosti príslušnej dokumentácie komplexného systému IS EVSRŠ.
+Služby uvedené v bodoch 2, 3 sú tiež spoločne nazývané „Služby“. Špecifikácia parametrov
+a podmienok poskytovania Služieb je uvedená v Prílohe č. 1 Parametre a podmienky
+poskytovania Služieb.
+Článok IV
+Cena
+
+1.
+
+2.
+
+3.
+
+Celková cena za Služby špecifikované v čl. III tejto Servisnej zmluvy sa dojednáva v zmysle
+zákona Národnej rady Slovenskej republiky č.18/1996 Z. z. o cenách v znení neskorších
+predpisov ako zmluvná cena za celú dobu platnosti a účinnosti Servisnej zmluvy v celkovej
+výške 4 843 583,33 EUR bez DPH (slovom: štyrimiliónyosemstoštyridsaťtritisíc
+päťstoosemdesiattri EUR a tridsaťtri centov) v nasledovnej štruktúre:
+Celková cena 4 843 583,33 EUR bez DPH
+Sadzba DPH 20%
+Výška DPH 968 716,66 EUR
+Celková cena 5 812 300,00 v EUR s DPH
+pričom pre jednotlivé Služby poskytované na základe tejto Servisnej zmluvy zmluvné strany
+dohodli ceny nasledovne:
+a) maximálna cena za Služby podpory prevádzky podľa čl. III bod 2 za celú dobu platnosti
+a
+účinnosti
+Servisnej
+zmluvy
+je
+1 194
+000,00
+EUR
+(slovom
+jedenmiliónstodeväťdesiatštyritisíc eur) bez DPH
+Sadzba DPH 20%
+Výška DPH 238 800,00 EUR
+maximálna cena za Služby podpory prevádzky podľa čl. III bod 2 za celú dobu platnosti a
+účinnosti
+Servisnej
+zmluvy
+je
+1 432
+800,00
+EUR
+(slovom
+jedenmiliónštyristotridsaťdvatisícosemsto eur) s DPH
+b) maximálna cena za Služby rozvoja podľa čl. III bod 3 za celú dobu platnosti a účinnosti
+Servisnej zmluvy je 3 649 583,30 EUR (slovom trimiliónyšesťstoštyridsaťdeväťtisíc
+päťstoosemdesiattri eur a tridsať centov),
+Sadzba DPH 20%
+Výška DPH 729 916,70 EUR
+maximálna cena za Služby rozvoja podľa čl. III bod 3 za celú dobu platnosti a účinnosti
+Servisnej
+zmluvy
+je
+4 379
+500,00
+EUR
+(slovom
+štyrimiliónytristosedemdesiatdeväťtisícpäťsto eur) s DPH
+Objednávateľ nie je počas platnosti a účinnosti tejto Servisnej zmluvy povinný vyčerpať celú
+uvedenú maximálnu súhrnnú cenu bez DPH.
+
+4.
+
+Cena za Služby podpory prevádzky je stanovená vo forme mesačného paušálu vo výške
+19 900,00 EUR (slovom devätnásťtisícdeväťsto eur) bez DPH.
+
+5.
+
+V prípade, že Služby podpory prevádzky neboli poskytované po celú dobu kalendárneho
+mesiaca, vzniká Poskytovateľovi právo na fakturáciu ceny za Služby podpory prevádzky
+v pomernej výške podľa počtu pracovných dní, počas ktorých boli Služby podpory prevádzky
+v danom kalendárnom mesiaci poskytované, k počtu pracovných dní v danom mesiaci.
+
+6.
+
+Nevyhnutnou požiadavkou pre realizáciu fakturácie za poskytovanie Služieb podpory
+prevádzky sú:
+a) Štatistické hlásenie o vykonaných Službách podpory prevádzky,
+b) Závery z hodnotiaceho stretnutia v príslušnom mesiaci.
+Cena za každé poskytnutie Služby rozvoja bude vopred stanovená v Cenovej kalkulácii
+schválenej Kontaktnou osobou Objednávateľa. Podkladom pre výpočet ceny v Cenovej
+kalkulácii budú záväzné jednotkové sadzby pracovníkov Poskytovateľa, uvedené v Prílohe č.
+9 tejto Servisnej zmluvy.
+
+7.
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+4
+
+8.
+
+Nevyhnutnou požiadavkou pre realizáciu fakturácie za poskytovanie Služieb rozvoja bude:
+a) Požiadavka na zmenu, ktorou Objednávateľ požiadal o poskytnutie Služieb rozvoja,
+b) Cenová kalkulácia schválená Kontaktnou osobou Objednávateľa za Služby rozvoja,
+c) Akceptačný protokol schválený Kontaktnou osobou Objednávateľa za Služby rozvoja.
+9. Nevyhnutnou požiadavkou pre realizáciu fakturácie za poskytovanie Doplnkových služieb
+bude:
+a) Objednávka, ktorou Objednávateľ požiadal o poskytnutie Doplnkových služieb,
+b) Akceptačný protokol schválený Kontaktnou osobou Objednávateľa za Služby rozvoja.
+10. Objednávateľ je povinný sledovať a dodržiavať výšku čerpania finančných prostriedkov za
+Služby poskytované na základe tejto Servisnej zmluvy. Služby na základe tejto Servisnej
+zmluvy možno poskytovať a hradiť len v takom rozsahu, aby nedošlo k prekročeniu
+maximálneho limitu ceny stanovenej v bode 1 tohto článku.
+11. Každý z peňažných záväzkov Objednávateľa bude splnený pripísaním sumy peňažného
+záväzku (vrátane DPH) na účet Poskytovateľa.
+12. Všetky ceny v tejto Zmluve sú uvádzané bez DPH a budú Objednávateľovi fakturované
+zvýšené o zákonom stanovenú DPH.
+13. Faktúra vystavená Poskytovateľom musí obsahovať všetky náležitosti daňového dokladu, ako
+aj vyžadované dokumenty uvedené v bodoch 5 alebo 7 tohto článku. V prípade, že daňový
+doklad nebude obsahovať tieto náležitosti, Objednávateľ má právo vrátiť ho na doplnenie a
+prepracovanie. V takom prípade začne plynúť lehota splatnosti faktúry prevzatím doplneného
+a prepracovaného daňového dokladu Objednávateľom.
+14. Splatnosť faktúry je 30 dní odo dňa jej doručenia Objednávateľovi, pričom faktúra sa považuje
+za uhradenú dňom pripísania fakturovanej čiastky na bankový účet Poskytovateľa.
+15. Ceny uvedené pre jednotlivé druhy poskytovaných Služieb, ako aj zmluvná cena za celú dobu
+platnosti a účinnosti Servisnej zmluvy, sú stanovené ako ceny pevné, konečné a nemenné.
+Článok V
+Záruka
+
+1.
+
+Objednávateľ zaručuje, že komplexný systém IS EVSRŠ zodpovedá aktuálnym špecifikáciám
+funkčných a nefunkčných požiadaviek v súlade s aktuálnou dokumentáciou ku komplexnému
+systému IS EVSRŠ ku dňu podpisu Zmluvy.
+
+2.
+
+Poskytovateľ sa zaväzuje udržiavať komplexný systém IS EVSRŠ v súlade s dodanou
+dokumentáciou a v prípade schválených zmien komplexného systému IS EVSRŠ udržiavať
+aktuálnosť tejto dokumentácie.
+
+3.
+
+Záručná doba na každý dodaný Komponent, ktoré Poskytovateľ nainštaluje, nakonfiguruje,
+naprogramuje alebo nastaví v komplexnom systéme IS EVSRŠ, je 24 (dvadsaťštyri) mesiacov
+odo dňa, keď Objednávateľ protokolárne prevezme Komponent do rutinnej prevádzky.
+Poskytovateľ sa zaväzuje udržiavať nezávadnosť Komponentov z hľadiska výskytu vírusov
+a ďalej zaručuje, že dodané Komponenty neporušujú žiadne autorské práva, resp. iné práva,
+ako aj práva tretích osôb.
+
+4.
+
+Prípadné ďalšie čiastkové Komponenty (technické aj programové), ktoré sa stanú súčasťou
+komplexného systému IS EVSRŠ a nebudú produktom Poskytovateľa, budú podliehať
+všeobecným obchodným, dodacím a záručným podmienkam dodávateľov a/alebo
+poskytovateľov týchto Komponentov. Poskytovateľ ručí za to, že takéto Komponenty budú
+dodávané bez akýchkoľvek právnych nedostatkov, že nebudú v rozpore s touto Servisnou
+zmluvou a že nebudú mať za následok žiadne obmedzenie Objednávateľa vo využívaní
+komplexného systému IS EVSRŠ.
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+5
+
+5.
+
+Poskytovateľ neručí za problémy vzniknuté v dôsledku zmien v dohodnutom prevádzkovom
+prostredí komplexného systému IS EVSRŠ, ktoré neboli s Poskytovateľom vopred
+konzultované. Táto podmienka však neplatí, ak Poskytovateľ poruší svoje povinnosti podľa
+tejto zmluvy, alebo iné všeobecne záväzné predpisy v zmysle Obchodného zákonníka.
+
+6.
+
+Poskytovateľ neručí za prípadnú stratu, resp. poškodenie dát, pokiaľ k tomu došlo z dôvodu
+neodborného zásahu tretích osôb alebo pracovníkov Objednávateľa.
+Článok VI
+Autorské a licenčné práva
+
+1.
+
+Poskytovateľ zabezpečí na vlastné náklady všetky licencie a iné doklady požadované
+právnymi predpismi, ktoré sú potrebné alebo z hľadiska legislatívy nevyhnutné pre riadne a
+včasné plnenie predmetu zmluvy, ich cena je zahrnutá v celkovej cene podľa čl. IV, ods. 1.
+
+2.
+
+Poskytovateľ sa zaväzuje vysporiadať všetky autorské práva s autormi na základe
+podpísaných zmlúv o vytvorení, použití a šírení software. Všetky autorské odmeny, zahrnuté
+v cene za predmet zmluvy, sú dohodnuté ako jednorazové paušálne odmeny a zahŕňajú
+odmenu za akékoľvek šírenie zhotoveného diela Poskytovateľom.
+
+3.
+
+Poskytovateľ prehlasuje, že všetky Komponenty budú dodávané bez akýchkoľvek právnych
+vád vyplývajúcich z autorských práv a to v zmysle ustanovení autorského zákona.
+Poskytovateľ vyhlasuje a svojim podpisom na zmluve ručí, že k jednotlivým plneniam zo
+zmluvy dodaným, poskytnutým, vykonaným a/alebo vytvoreným Poskytovateľom alebo tretími
+osobami pre Objednávateľa
+a) má alebo vykonáva autorské práva alebo iného duševného vlastníctva alebo
+b) má a/alebo vykonáva právo na ich používanie na základe licencií udelených mu tretími
+osobami, ktoré k nim majú a/alebo vykonávajú autorské práva a/alebo iného duševného
+vlastníctva.
+Poskytovateľ udeľuje Objednávateľovi, k vyššie uvedeným plneniam, ku ktorým Poskytovateľ
+má a/alebo vykonáva podľa písm. b) predchádzajúcej vety právo na ich používanie na základe
+licencií udelených mu tretími osobami, právo na ich používanie v súlade a v rozsahu
+spôsobom a za ďalších podmienok, za ktorých boli tieto plnenia dodané/poskytnuté
+Poskytovateľovi tretími osobami.
+
+4.
+
+5.
+
+6.
+
+V prípade, že si akákoľvek tretia osoba, vrátane zamestnancov Poskytovateľa alebo tretej
+osoby, ktorá plnila predmet tejto Servisnej zmluvy za Poskytovateľa, uplatní akýkoľvek nárok
+voči Objednávateľovi z titulu porušenia autorských práv alebo iného duševného vlastníctva
+tejto tretej osoby alebo akékoľvek iné nároky v akejkoľvek súvislosti so Servisnou zmluvou,
+Poskytovateľ sa zaväzuje:
+a) Bezodkladne obstarať na svoje vlastné náklady a výdavky od takejto tretej osoby súhlas na
+používanie jednotlivých plnení dodaných, poskytnutých, vykonaných a/alebo vytvorených
+Poskytovateľom alebo tretími osobami pre Objednávateľa, alebo upraviť jednotlivé
+plnenie(a) dodané, poskytnuté, vykonané a/alebo vytvorené Poskytovateľom, alebo tretími
+osobami pre Objednávateľa tak, aby už ďalej neporušovali autorské práva a/alebo iného
+duševného vlastníctva tretej osoby, alebo nahradiť jednotlivé plnenie dodané, poskytnuté,
+vykonané a/alebo vytvorené Poskytovateľom alebo tretími osobami pre Objednávateľa
+rovnakými alebo aspoň takými plneniami, ktoré majú aspoň podstatne podobné
+kvalitatívne, operačné a technické parametre a funkčnosti.
+b) Poskytnúť Objednávateľovi akúkoľvek a všetku účinnú pomoc a uhradiť akékoľvek a všetky
+náklady a výdavky, ktoré vznikli/ vzniknú Objednávateľovi v súvislosti s uplatnením vyššie
+uvedeného nároku tretej osoby.
+c) Nahradiť Objednávateľovi akúkoľvek a všetku škodu, ktorá vznikne Objednávateľovi v
+dôsledku uplatnenia vyššie uvedeného nároku tretej osoby, a to v plnej výške a bez
+akéhokoľvek obmedzenia.
+Práva udelené v tejto zmluve sa udeľujú osobitne Objednávateľovi a nie je ich možné preniesť
+na tretiu stranu bez predchádzajúceho súhlasu Poskytovateľa.
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+6
+
+Článok VII
+Povinnosti a záväzky Zmluvných strán
+1.
+
+Povinnosti Poskytovateľa:
+a) Poskytovateľ sa zaväzuje pri plnení predmetu Servisnej zmluvy postupovať s potrebnou
+odbornou starostlivosťou a v súlade so záujmami Objednávateľa.
+b) Poskytovateľ sa zaväzuje bez zbytočného odkladu podávať Objednávateľovi správy o
+priebehu ním poskytovaných Služieb podľa tejto Servisnej zmluvy, tak ako je uvedené
+v Prílohe č. 1 Parametre a podmienky poskytovania Služieb, a to menovite:
+pri Službách podpory prevádzky formou mesačných reportov a záverov z hodnotiacich
+stretnutí,
+pri Službách rozvoja formou predloženia pravidelne aktualizovaného Plánu realizácie
+zmeny, ktorého súčasťou je aj záznam o vykonaných činnostiach.
+c) Poskytovateľ sa zaväzuje bez zbytočného odkladu informovať Objednávateľa o nových
+skutočnostiach, ktoré vyšli najavo v súvislosti s poskytovaním Služieb, najmä o prípadných
+zistených vadách a nedostatkoch komplexného systému IS EVSRŠ, a súčasne bude
+navrhovať opatrenia potrebné pre ich odstránenie v súlade s touto Servisnou zmluvou.
+d) Poskytovateľ je povinný pri poskytovaní Služieb dodržiavať a aplikovať povinnosti
+vyplývajúce zo zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy
+v platnom znení, z Výnosu č. 55/2014 Z. z. o štandardoch pre informačné systémy verejnej
+správy a z ostatnej platnej a účinnej legislatívy Slovenskej republiky všeobecne, a osobitne
+z platnej a účinnej legislatívy priamo sa dotýkajúcej predmetu plnenia tejto Servisnej
+zmluvy.
+e) Poskytovateľ je povinný pri poskytovaní Služieb dodržiavať a aplikovať povinnosti
+vyplývajúce zo zákona č. 245/2008 Z.z. o výchove a vzdelávaní (Školský zákon) a o zmene
+a doplnení niektorých zákonov. Všetky výstupy Služieb rozvoja musia byť v súlade s
+legislatívou platnou v čase ich odovzdania, najmä so zákonom č. 245/2008 Z.z. o výchove
+a vzdelávaní (Školský zákon) a o zmene a doplnení niektorých zákonov, so zákonom č.
+275/2006 Z. z. o informačných systémoch verejnej správy v platnom znení a s Výnosom č.
+55/2014 Z. z. o štandardoch pre informačné systémy verejnej správy.
+f) Poskytovateľ je povinný upozorniť Objednávateľa na akékoľvek jemu známe okolnosti,
+ktoré môžu mať dopad na funkčnosť a/alebo dostupnosť komplexného systému IS EVSRŠ
+alebo na jeho súlad s platnou legislatívou.
+g) Poskytovateľ je ďalej povinný:
+udržiavať komplexný systém IS EVSRŠ v súlade s dodanou dokumentáciou,
+udržiavať aktuálnosť používateľskej, servisnej a administrátorskej dokumentácie,
+prípadne jej doplnky vzniknuté počas plnenia tejto Servisnej zmluvy, v súlade s
+aktuálnym stavom komplexného systému IS EVSRŠ,
+zapracovať všetky požadované a schválené zmeny do komplexného systému IS
+EVSRŠ v dohodnutých časových termínoch a v prípadoch, keď termín nie je
+stanovený, okamžite informovať Objednávateľa o lehote vykonania týchto zmien,
+v prípade potreby bezodkladne špecifikovať a predložiť Objednávateľovi požiadavky na
+potrebný HW a kompatibilitu SW,
+zachovať všetky obchodné tajomstvá a dôverné informácie, poskytnuté, odovzdané,
+oznámené, sprístupnené alebo akýmkoľvek iným spôsobom získané Poskytovateľom
+od Objednávateľa na základe alebo v akejkoľvek súvislosti s plnením predmetu
+Servisnej zmluvy, vrátane osobných údajov, použiť ich výhradne na účely plnenia
+predmetu Servisnej zmluvy a udržiavať ich v prísnej tajnosti, zachovávať o nich
+mlčanlivosť a chrániť ich pred zneužitím poškodením, zničením, znehodnotením alebo
+sprístupnením tretím stranám,
+zabezpečiť riadne a včasné utajenie dôverných informácií a zachovávanie povinnosti
+mlčanlivosti o dôverných informáciách aj u svojich zamestnancov, štatutárnych
+orgánov, členov štatutárnych orgánov, dozorných rád, členov dozorných orgánov,
+zástupcov,
+splnomocnencov,
+dodávateľov,
+poskytovateľov,
+ako
+i
+iných
+spolupracujúcich tretích osôb, pokiaľ im takéto dôverné informácie boli poskytnuté,
+odovzdané, oznámené alebo sprístupnené,
+telefonicky, resp. písomne reagovať na každú požiadavku Objednávateľa, týkajúcu sa
+predmetu tejto Servisnej zmluvy,
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+7
+
+zabezpečiť, aby Objednávateľ bol okamžite upovedomený o aktuálnych legislatívnych
+zmenách všeobecného charakteru, prípadne iných zmenách u Poskytovateľa, ktoré
+majú vplyv na predmet plnenia Servisnej zmluvy,
+na základe žiadosti Objednávateľa je Poskytovateľ povinný zabezpečiť prítomnosť
+kvalifikovaných špecialistov, ktorá je nevyhnutná pre poskytovanie služieb v
+dohodnutom mieste plnenia.
+Poskytovateľ bude plniť jednotlivé časti predmetu zmluvy v dohodnutých termínoch, ktoré
+sú určené ustanoveniami Servisnej zmluvy alebo budú v písomnej alebo elektronickej
+komunikáciou dohodnuté medzi Zmluvnými stranami.
+Poskytovateľ môže poveriť tretiu osobu plnením predmetu Servisnej zmluvy, avšak
+zodpovedá za plnenie predmetu Servisnej zmluvy v plnom rozsahu, akoby ju plnil sám a
+všetky povinnosti, záväzky, záruky a zodpovednosti Poskytovateľa zostávajú zachované v
+plnom rozsahu. Poskytovateľ je povinný zmluvne zabezpečiť dodržanie a zachovanie
+týchto povinností, záväzkov, záruk a zodpovedností treťou osobou.
+Poskytovateľ je povinný informovať Objednávateľa o všetkých faktoch, ktoré by mohli
+negatívne vplývať na predmet plnenia tejto Servisnej zmluvy.
+Pohľadávky Poskytovateľa voči Objednávateľovi vzniknuté na základe ustanovení tejto
+zmluvy nie je možné postúpiť tretej osobe bez písomného súhlasu Objednávateľa. V
+prípade, že Poskytovateľ bez predchádzajúceho písomného súhlasu Objednávateľa
+postúpi pohľadávku Objednávateľa tretej osobe, je Poskytovateľ povinný zaplatiť
+Objednávateľovi zmluvnú pokutu vo výške nominálnej hodnoty postúpenej pohľadávky.
+-
+
+h)
+
+i)
+
+j)
+k)
+
+2.
+
+3.
+
+4.
+
+Povinnosti Objednávateľa:
+a) Zabezpečiť pracovníkom, poskytovateľom a dodávateľom Poskytovateľa nevyhnutné
+prístupy do komplexného systému IS EVSRŠ súvisiace s plnením predmetu Servisnej
+zmluvy s tým, že nenarušia prevádzku komplexného systému IS EVSRŠ, ani ostatných
+systémov Objednávateľa.
+b) Zabezpečiť, aby bol Poskytovateľ okamžite upovedomený o aktuálnych legislatívnych
+zmenách
+interného charakteru, zmenách organizačnej štruktúry Objednávateľa, príp.
+iných zmenách u Objednávateľa, ktoré majú vplyv na plnenie predmetu Servisnej zmluvy.
+c) Zabezpečiť účinnú ochranu autorských a licenčných práv na dodané Komponenty.
+d) Všetky pripomienky, sťažnosti, výhrady a doplnky a pod. odovzdávať písomnou prípadne
+formou emailu Poskytovateľovi.
+e) Na základe vlastného uváženia a žiadosti Poskytovateľa a v súlade s internými
+nariadeniami Objednávateľa zabezpečiť pre Poskytovateľa vzdialený prístup ku
+komplexnému systému IS EVSRŠ a ku všetkým serverom, na ktorých je prevádzkovaný.
+f) Zabezpečiť pre všetky servery, na ktorých je komplexný systém IS EVSRŠ prevádzkovaný,
+aby:
+záplaty (patche) spoločnosti Microsoft neboli za žiadnych okolností na servery
+automaticky inštalované, ale boli pripravené na inštaláciu, pričom ich inštalácia bude
+vykonaná až po dohode s Poskytovateľom,
+akékoľvek balíky služieb (servicepacky) operačných systémov a softvérových
+produktov, ktoré majú dopad na prevádzku komplexného systému IS EVSRŠ neboli
+aplikované bez dohody s Poskytovateľom.
+g) V prípade, ak Objednávateľ neposkytne požadovanú súčinnosť, plynutie doby stanovenej
+na vyriešenie problému sa prerušuje.
+h) Informovať Poskytovateľa o výskyte dní s kritickou prevádzkou najneskôr 30 dní vopred.
+Počet dní s kritickou prevádzkou objednávateľa nesmie presiahnuť počet 30 dní za
+kalendárny rok.
+i) Využívať komplexný systém IS EVSRŠ len v súlade s aktuálnou dokumentáciou.
+Zmluvné strany sú povinné zachovať obchodné tajomstvo vo vzťahu ku skutočnostiam
+obchodnej, výrobnej alebo technickej povahy, ktoré majú skutočnú alebo aspoň potenciálnu
+materiálnu alebo nemateriálnu hodnotu, nie sú v príslušných odborných kruhoch bežne
+dostupné, majú byť podľa vôle jednej zo zmluvných strán utajené a táto zmluvná strana ich
+utajenie zodpovedajúcim spôsobom zabezpečuje.
+Poskytovateľ sa zaväzuje poskytnúť služby Objednávateľovi v súlade s opisom predmetu
+zákazky (t.j. Parametre a podmienky poskytovania Služieb), ktorý tvorí prílohu č.1 tejto Zmluvy
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+8
+
+a to prostredníctvom expertov, ktorí spĺňajú podmienky účasti. Poskytovateľ v plnom rozsahu
+zodpovedá za výber expertov. V prípade potreby zmeny experta je Poskytovateľ povinný
+bezodkladne oznámiť navrhovanú zmenu Objednávateľovi, pričom expert, ktorého sa týka
+návrh na zmenu, musí spĺňať a preukázať splnenie všetkých podmienok účasti, resp.
+požiadaviek kladených na nahradeného experta. Objednávateľ si vyhradzuje právo žiadať
+kedykoľvek výmenu experta a súčasne si vyhradzuje právo na odsúhlasenie akejkoľvek
+zmeny experta. Opis predmetu Zákazky je neoddeliteľnou súčasťou tejto Zmluvy a tvorí
+prílohu č. 1.
+5.
+
+Poskytovateľ je povinný predložiť menný zoznam expertov do 30 kalendárnych dní od
+účinnosti tejto Zmluvy. Ku expertom, ktorými Poskytovateľ nepreukázal splnenie podmienok
+účasti v rámci predloženej ponuky vo verejnom obstarávaní, je Poskytovateľ povinný predložiť
+Objednávateľovi dokumenty a doklady, ktorými preukáže splnenie minimálnych požiadaviek
+na doplnených expertov. Objednávateľ si vyhradzuje právo kedykoľvek žiadať výmenu
+experta a súčasne si vyhradzuje právo na odsúhlasenie akejkoľvek zmeny experta.
+Článok VIII
+Bezpečnosť a ochrana informácií
+
+1.
+
+Poskytovateľ vyhlasuje, že bude komplexný systém IS EVSRŠ udržiavať v súlade so zákonom
+č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov.
+
+2.
+
+Poskytovateľ vyhlasuje, že bude pri poskytovaní Služieb dodržiavať platné bezpečnostné
+štandardy definované pre plnenie Operačného programu informatizácie spoločnosti.
+
+3.
+
+Poskytovateľ sa zaväzuje zachovať mlčanlivosť o osobných údajoch s ktorými príde do styku,
+nevyužije ich pre osobnú potrebu, bez súhlasu Objednávateľa ich nezverejní ani neposkytne
+inej osobe a to ani po ukončení tejto zmluvy.
+
+4.
+
+Objednávateľ je povinný oboznámiť Poskytovateľa s pravidlami internej bezpečnostnej politiky,
+ktorá súvisí s predmetom plnenia tejto Servisnej zmluvy. Poskytovateľ sa zaväzuje dodržiavať
+bezpečnostnú politiku Objednávateľa. Poskytovateľ je povinný oboznámiť Objednávateľa so
+všetkými skutočnosťami, ktoré sú v rozpore s bezpečnostnou politikou Objednávateľa, alebo
+môžu zásadne zvyšovať bezpečnostné riziko.
+Článok IX
+Zmluvné pokuty
+
+1.
+
+V prípade, že Poskytovateľ nedodrží termíny plnenia podľa čl. VI bod 1 písm. i), zaväzuje sa
+uhradiť Objednávateľovi zmluvnú pokutu vo výške 1 % z mesačného paušálu za každý deň
+omeškania.
+
+2.
+
+V prípade omeškania Objednávateľa s úhradou faktúr môže Poskytovateľ vyžadovať úrok z
+omeškania vo výške podľa príslušných právnych predpisov z nezaplatených čiastok za každý
+začatý deň omeškania.
+
+3.
+
+Zmluvná pokuta alebo úrok z omeškania sú splatné do 30 dní od vyčíslenia a doručenia druhej
+zmluvnej strane na základe faktúry vystavenej dotknutou zmluvnou stranou, ak sa nedohodnú
+zmluvné strany písomne inak.
+
+4.
+
+Ak Poskytovateľ preukázateľne poruší ktorékoľvek ustanovenie tejto zmluvy, s vylúčením
+nedodržania termínov, na ktoré sa vzťahuje bod 1. tohto článku, môže Objednávateľ
+vyžadovať od Poskytovateľa uhradenie zmluvnej pokuty vo výške 5 000 € (päťtisíc eur).
+
+5.
+
+Dojednaním o zmluvnej pokute podľa predchádzajúceho bodu, ani zaplatením zmluvnej
+pokuty nie je nijako dotknuté právo Objednávateľa na náhradu vzniknutej škody.
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+9
+
+Článok X
+Vyššia moc
+1.
+
+Poskytovateľ nebude v omeškaní, ak záväzok na plnenia, alebo činnosti podľa tejto zmluvy
+nemohol riadne a včas splniť pre okolnosti, ktoré po uzavretí tejto zmluvy vznikli v dôsledku
+ním nepredvídateľných a neodvrátiteľných skutočností mimoriadnej povahy (vyššia moc).
+Lehoty pre plnenia alebo činnosti Poskytovateľa podľa tejto zmluvy sa predĺžia o dobu
+zodpovedajúcu dobe trvania takýchto okolností.
+
+2.
+
+Pri vzniku niektorej okolnosti vyššej moci bude postihnutá zmluvná strana druhú zmluvnú
+stranu bez zbytočného odkladu písomne informovať.
+Článok XI
+Subdodávateľ
+
+1.
+
+Na plnenie predmetu Zmluvy môže zhotoviteľ využiť subdodávateľov. Zhotoviteľ je povinný pri
+uzatvorení Zmluvy uviesť zoznam subdodávateľov, ktorý obsahuje údaje o všetkých známych
+subdodávateľoch zhotoviteľa v čase uzatvorenia Zmluvy a údaje o osobe oprávnenej konať za
+subdodávateľa v rozsahu meno a priezvisko, adresa pobytu a dátum narodenia. Poskytovateľ
+je povinný do 30 dní od účinnosti zmluvy predložiť zoznam subdodávateľov, ktorý bude
+obsahovať minimálne podiel plnenia zo Zmluvy v % a stručný opis časti Zmluvy, ktorá bude
+predmetom subdodávky.
+
+2.
+
+Zhotoviteľ je povinný písomne oznámiť objednávateľovi akúkoľvek zmenu údajov
+o subdodávateľovi najneskôr do 5 pracovných dní odo dňa uskutočnenia tejto zmeny
+písomnou formou na adresu uvedenú v záhlaví Zmluvy.
+
+3.
+
+V prípade zmeny subdodávateľa je zhotoviteľ povinný písomne oznámiť objednávateľovi
+údaje o navrhovanom novom subdodávateľovi a o osobe oprávnenej konať za subdodávateľa
+v rozsahu meno a priezvisko, adresa pobytu a dátum narodenia. Nový subdodávateľ musí
+spĺňať podmienky podľa bodu 3 tohto článku Zmluvy.
+
+4.
+
+V prípade, ak objednávateľ v súťažných podkladoch vyžadoval, aby subdodávateľ spĺňal aj
+podmienky účasti týkajúce sa osobného postavenia a neexistovali u neho dôvody na vylúčenie
+podľa § 40 ods. 6 písm. a) až h) a ods. 7 zákona o verejnom obstarávaní a oprávnenie
+dodávať tovar, musí tieto spĺňať aj nový subdodávateľ. Súčasne sa vzťahuje na nového
+subdodávateľa povinnosť byť zapísaný v registri partnerov verejného sektora podľa zákona
+o registri partnerov verejného sektora.
+
+5.
+
+Využitím subdodávateľov nie je dotknutá zodpovednosť zhotoviteľa za plnenie predmetu
+Zmluvy.
+
+6.
+
+Poskytovateľ je oprávnený zmeniť Subdodávateľa v priebehu vykonávania predmetu zmluvy, a
+to až po písomnom odsúhlasení zmeny Subdodávateľa Objednávateľom. Na tento účel je
+Poskytovateľ povinný písomne oznámiť Objednávateľovi zmenu Subdodávateľa a označiť
+nového Subdodávateľa v minimálnom rozsahu: obchodné meno, sídlo/miesto podnikania,
+IČO. Nový Subdodávateľ musí spĺňať podmienky účasti podľa § 32 ods. 1 zákona o verejnom
+obstarávaní, čo preukáže Poskytovateľ predložením dokladov, z ktorých je to možné posúdiť.
+
+7.
+
+Poskytovateľ je povinný zmeniť Subdodávateľa v prípade ak subdodávateľ prestal spĺňať
+podmienky účasti podľa § 32 ods. 1 zákona o verejnom obstarávaní.
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+10
+
+Článok XII
+Ostatné dojednania
+1.
+
+Táto Servisná zmluva sa uzatvára sa na dobu určitú, a to na dobu 60 mesiacov odo dňa jej
+účinnosti, maximálne však do vyčerpania finančného limitu stanoveného v čl. IV bod 1.
+
+2.
+
+Miestom plnenia predmetu tejto zmluvy je sídlo Objednávateľa,
+Objednávateľom určené miesto na území Slovenskej republiky.
+
+3.
+
+Objednávateľ do 15 dní od podpisu Servisnej
+Kontaktných osôb pre Služby podpory prevádzky,
+Kontaktných osôb pre Služby presunu digitálnych
+zariadení a Kľúčových používateľov. V prípade, že
+Kľúčových používateľov, je Objednávateľ povinný
+lehote 15 kalendárnych dní.
+
+4.
+
+Objednávateľ do 15 dní od podpisu Servisnej zmluvy dodá Poskytovateľovi aktuálnu
+dokumentáciu ku komplexnému systému IS EVSRŠ.
+
+5.
+
+Túto Servisnú zmluvu je možné vypovedať len písomne a to aj bez udania dôvodu.
+Výpovedná lehota je 3 (tri) kalendárne mesiace a začína plynúť prvým dňom kalendárneho
+mesiaca nasledujúceho po kalendárnom mesiaci, v ktorom bola písomná výpoveď zmluvy
+doručená druhej Zmluvnej strane. Uplynutím výpovednej lehoty zmluva zaniká.
+
+6.
+
+Zánik tejto zmluvy nemá vplyv na práva a povinnosti Zmluvných strán, ktoré vznikli počas
+existencie zmluvy, predovšetkým na záväzky súvisiace s bezpečnosťou a ochranou informácií.
+
+alebo
+
+akékoľvek
+
+zmluvy dodá Poskytovateľovi zoznam
+Kontaktných osôb pre Služby rozvoja a
+a učebných pomôcok v rámci školských
+dôjde k zmene Kontaktných osôb alebo
+nahlásiť túto zmenu Poskytovateľovi v
+
+Článok XIII
+Záverečné ustanovenia
+1.
+
+Zmluvné strany sa dohodli, že záväzkové vzťahy, ktoré v nej nie sú výslovne upravené touto
+Servisnou zmluvou, sa riadia príslušnými ustanoveniami Obchodného zákonníka.
+
+2.
+
+Ak niektoré ustanovenia tejto Servisnej zmluvy prestanú byť aktuálne, ostávajú všetky ostatné
+ustanovenia Servisnej zmluvy v platnosti. V takomto prípade sa zmluvné strany dohodli, že
+nájdu formulácie a znenie čo najviac podobné pôvodnému zámeru a nahradia ich tak, aby bol
+zachovaný účel a cieľ tejto zmluvy, pri rešpektovaní nových faktov, bez ujmy pre obidve
+zmluvné strany.
+
+3.
+
+V prípade nezhôd sa Zmluvné strany zaväzujú riešiť spor spoločným jednaním. Súdne
+vyrovnanie budú považovať za krajné riešenie. Ak sa takýto spor, nezrovnalosť a/alebo rozpor
+nepodarí vyriešiť ani vzájomnými rokovaniami zmluvných strán najneskôr do 90 dní odo dňa
+ich začatia, je ktorákoľvek zmluvná strana oprávnená podať návrh na príslušný súd v
+Slovenskej republike.
+
+4.
+
+Ustanovenia tejto Servisnej zmluvy je možné meniť len na základe písomnej dohody
+zmluvných strán formou písomných a očíslovaných dodatkov k zmluve, podpísaných
+Zmluvnými stranami.
+
+5.
+
+Zmluva sa vyhotovuje v šiestich rovnopisoch, Objednávateľ po podpise obdrží 4 rovnopisy
+a Poskytovateľ 2 rovnopisy.
+
+6.
+
+Zmluvné stany vyhlasujú, že Servisnú zmluvu uzatvárajú na základe ich skutočnej, slobodnej
+a vážnej vôle, ktorú prejavili určito a zrozumiteľne, zmluvu uzatvorili dobromyseľne a v dobrej
+viere a neuzatvorili ju v omyle, ani pod nátlakom a ani za nápadne nevýhodných podmienok,
+zmluvu si prečítali, obsahu porozumeli a na znak súhlasu s obsahom zmluvy ju vlastnoručne
+podpísali.
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+11
+
+7.
+
+Zmluva nadobúda platnosť dňom podpisu Zmluvnými stranami a účinnosť dňom nasledujúcim
+po dni jej zverejnenia v súlade so zákonom č.211/2000 Z.z. o slobodnom prístupe
+k informáciám.
+
+8.
+
+Neoddeliteľnou súčasťou tejto zmluvy sú prílohy:
+a) Príloha č. 1 – Parametre a podmienky poskytovania Služieb
+b) Príloha č. 2 – Formulár Požiadavka na zmenu
+c) Príloha č. 3 – Formulár Štúdia realizovateľnosti a analýza dopadov
+d) Príloha č. 4 – Formulár Cenová kalkulácia
+e) Príloha č. 5 – Formulár Objednávka na realizáciu zmeny
+f) Príloha č. 6 – Formulár Plán realizácie zmeny
+g) Príloha č. 7 – Formulár Akceptačný protokol zmeny
+h) Príloha č. 8 – Formulár Štatistické hlásenie o vykonaných Službách podpory prevádzky
+i) Príloha č. 9 – Cenník jednotkových sadzieb Poskytovateľa pre Služby rozvoja, služby
+podpory prevádzky.
+
+Za Poskytovateľa:
+
+Za Objednávateľa:
+
+Dátum: ......................................
+
+Dátum: ......................................
+
+.................................................
+Ing. Peter Axamít
+Predseda predstavenstva
+
+.................................................
+prof. Ing. Peter Plavčan, CSc.
+minister
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+12
+
+B2.1 Prílohy zmluvy
+Príloha č. 1
+Parametre a podmienky poskytovania Služieb
+Obsah
+
+Služby podpory prevádzky .......................................................................................................... 13
+Zoznam činností vykonávaných v rámci podpory prevádzky ................................................. 13
+Helpdesk ................................................................................................................................ 14
+Realizácia malých zmien funkčnosti ...................................................................................... 15
+Parametre kvality poskytovanej služby .................................................................................. 15
+Hodnotenie kvality poskytovanej služby ................................................................................ 16
+Služby rozvoja IS EVSRŠ ............................................................................................................. 18
+Postup objednania Služby rozvoja ......................................................................................... 18
+Parametre kvality poskytovanej služby .................................................................................. 19
+Hodnotenie kvality poskytnutej služby ................................................................................... 19
+Služby podpory prevádzky
+Služby podpory prevádzky zahŕňajú zabezpečovanie bežnej servisnej podpory, ako aj
+poskytovanie podpory pre zaistenie spoľahlivej, kontinuálnej a bezpečnej prevádzky komplexného
+systému IS EVSRŠ v súlade s aktuálnymi platnými funkčnými a nefunkčnými požiadavkami,
+vrátanie riešenia Incidentov. Súčasťou Služieb podpory prevádzky sú aj malé zmeny funkčnosti,
+konfigurácie a nastavení komplexného systému IS EVSRŠ vynútené zmenami prevádzkového
+prostredia Objednávateľa a udržiavanie aktuálnosti príslušnej dokumentácie komplexného
+systému IS EVSRŠ.
+Rozšírený popis Služby:
+
+
+
+
+
+
+
+
+
+
+
+odstraňovanie Incidentov komplexného systému IS EVSRŠ, resp. poskytnutie náhradného
+riešenia pri riešení Incidentov,
+poskytnutie služieb v súvislosti s posudzovaním a riešením Incidentov v systéme IS EVSRŠ,
+ktoré boli spôsobené nesprávnym fungovaním,
+pravidelná kontrola funkčnosti systému IS EVSRŠ a jeho častí (monitoring),
+pravidelná kontrola nastavenia systému IS EVSRŠ podľa posledného odsúhlaseného stavu
+konfigurácie komplexného systému IS EVSRŠ,
+profylaktické práce v rozsahu definovanom prevádzkovou dokumentáciou komplexného
+systému IS EVSRŠ,
+kontrola a vyhodnocovanie záznamov z aplikačných logov,
+proaktívne upozorňovanie Objednávateľa Poskytovateľom na vhodné úpravy a zmeny
+komplexného systému IS EVSRŠ,
+udržiavanie repozitára zdrojových kódov,
+realizácia malých zmien funkčnosti vynútených zmenami prevádzkového prostredia
+Objednávateľa,
+udržiavanie administrátorskej, prevádzkovej a užívateľskej dokumentácie v aktuálnom stave.
+
+Zoznam činností vykonávaných v rámci podpory prevádzky
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+13
+
+Služby podpory prevádzky zahŕňajú nasledovné činnosti:
+riadenie a poskytovanie servisných služieb a činností Servise Desku,
+vedenie evidencie nahlásených incidentov,
+prevádzka hotline strediska,
+zber a evidencia Incidentov,
+identifikácia problému, ktorý vznikol nekorektným zásahom Koncového používateľa, jeho
+analýza a samotné riešenie,
+f) poskytovanie konzultácii o Incidentoch,
+g) poskytovanie mailoveho/telefonického hotlinu vyškoleným Koncovým používateľom,
+h) projektové riadenie servisných činností a malých zmien funkčnosti,
+i) riešenie eskalácií,
+j) poskytovanie reportovania a štatistických hlásení,
+k) profylaktika aplikačnej vrstvy – táto činnosť zahŕňa nasledovné:
+pravidelná kontrola funkčnosti aplikácie, softvérového vybavenia,
+pravidelná kontrola nastavenia systému podľa posledného odsúhlaseného stavu diela,
+kontrola synchronizácie služieb v prípade clustrovaných služieb, kontrola správnosti
+smerovania,
+pravidelná kontrola parametrov systému definovaných v akceptačných a
+výkonnostných testoch
+logovanie činností za účelom optimálnej prevádzky a vyhodnocovania incidentov,
+kontrola a vyhodnocovanie záznamov zo systémových logov, aplikačných logov,
+kontrola prostredia, v ktorom beží IS EVSRŠ,
+udržiavanie repozitára zdrojov kódov,
+udržiavanie dokumentácie v aktuálnosti – inštalačnej, prevádzkovej, administrátorskej
+a užívateľskej,
+l) technická podpora integračného rozhrania DVO obsahu voči IS EVSRŠ – táto činnosť
+zahŕňa nasledovné:
+správa a údržba integračného rozhrania DVO obsahu v nadväznosti analýza
+reportovaných problémov integračného rozhrania,
+fixovanie problémov a vývoj updatov pre integračné rozhranie,
+deployment a zverejňovanie updatov a bugfixov pre integračné rozhranie,
+m) reportovanie zamerané na spracovávanie požadovaných reportov o Incidentoch a
+operatívnych informácii o ich riešení,
+a)
+b)
+c)
+d)
+e)
+
+Helpdesk
+Na podporu, údržbu a úpravy systému IS EVSRŠ bude Poskytovateľ prevádzkovať Helpdesk,
+ktorý bude poskytovať službu tímu druho úrovňovej podpory, ako aj nasledovné funkcie:
+
+
+
+
+
+
+
+garantovaná dostupnosť Služieb helpdesku počas pracovných dní,
+garantovaná spätná telefonická alebo e-mailová väzba po vyriešení Incidentu systému IS
+EVSRŠ,
+monitorovanie priebehu pri riešení Incidentov systému IS EVSRŠ,
+garantované doby riešenia Incidentov systému IS EVSRŠ,
+evidenciu všetkých Incidentov, ich kategorizáciu, vyhodnocovanie, a následné reportovanie,
+eskalácia riešenia požiadaviek zo strany Kľúčových používateľov.
+
+Nahlasovanie incidentov
+Objednávateľ dodá Poskytovateľovi zoznam oprávnených Kontaktných osôb a Kľúčových
+používateľov. Kontaktné osoby sú výhradne oprávnené nahlasovať Incidenty zo strany
+Objednávateľa na helpdesk Poskytovateľa. Kľúčoví používatelia sú oprávnení komunikovať s
+pracovníkmi Poskytovateľa v rámci riešenia Incidentu. Zoznam oprávnených kontaktných osôb a
+Kľúčových používateľov bude obsahovať kontaktné údaje – mená, priezviská, telefónne čísla,
+emailové adresy pracovníkov Objednávateľa. Objednávateľ sa zaväzuje udržiavať zoznam
+aktuálny.
+Objednávateľ môže pri využívaní Služieb helpdesk nahlasovať Incidenty nasledujúcimi spôsobmi:
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+14
+
+1. Telefón: v prípade hlásenia Incidentov IS EVSRŠ prostredníctvom telefónu, Poskytovateľ ako
+potvrdenie začatia plynutia času riešenia Incidentu zašle potvrdzujúci email oprávnenej
+kontaktnej osobe s označením „Potvrdenie prevzatia Incidentu“ a uvedením evidenčného čísla
+Incidentu v systéme Poskytovateľa. Čas nahlásenia Incidentu sa počíta od prvotného
+telefonického kontaktu s nahlásením Incidentu. Čas telefonického kontaktu je zaevidovaný v
+rámci potvrdzujúceho emailu.
+2. Elektronickou poštou /e-mail/ (s nastavením vyžiadania potvrdenia o doručení správy):
+s označením „Potvrdenie prevzatia Incidentu“ a uvedením evidenčného čísla Incidentu v
+systéme Poskytovateľa. Čas nahlásenia Incidentu sa počíta od prijatia potvrdenia o doručení
+správy.
+Objednávateľ zabezpečí tím prvoúrovňovej podpory Call centra pre koncových používateľov. Bude
+zabezpečovať príjem dotazov, požiadaviek a chýb od koncových používateľov, evidenciu prijatých
+dotazov, požiadaviek a chýb, identifikáciu a riešenie prijatých dotazov, požiadaviek a chýb v rámci
+získaných poznatkov zo školení. Zároveň bude komunikovať s tímom druhoúrovňovej podpory u
+dodávateľa. Túto službu bude poskytovať počas pracovných dní okrem štátnych sviatkov v časoch
+od 8:00 do 16:30.
+Realizácia malých zmien funkčnosti
+Služba rieši zabezpečenie úprav komplexného systému IS EVSRŠ, ktoré vyplývajú zo zmien
+v prevádzkovom prostredí Objednávateľa. Rozsah prácnosti požadovaných úprav v rámci malej
+zmeny funkčnosti nesmie presiahnuť 2 MD.
+Proces objednania realizácie malej zmeny funkčnosti sa začína vytvorením Požiadavky na zmenu
+a jej predložením Poskytovateľovi. Požiadavku na zmenu je oprávnená predložiť len Kontaktná
+osoba Objednávateľa uvedená v zozname Kontaktných osôb pre Služby podpory prevádzky.
+Jednotný formulár Požiadavky na zmenu je uvedený v Prílohe č. 2 – Formulár požiadavky na
+zmenu.
+Na základe Požiadavky na zmenu Poskytovateľ vypracuje podrobný návrh riešenia vo forme
+Štúdie uskutočniteľnosti a analýzy dopadu, v ktorej bude uvedené, ktoré iné časti funkčnosti
+komplexného systému IS EVSRŠ budú ovplyvnené realizáciou zmeny a súčasťou bude aj
+predpokladaný harmonogram prác s uvedením navrhovanej doby odovzdania zmeny a špecifikácia
+Akceptačných testov zmeny.
+V prípade, že rozsah prácnosti presiahne 2 MD, nie je možné zmenu realizovať v rámci Služieb
+podpory prevádzky a na jej riešenia budú použité ustanovenia platné pre Služby rozvoja.
+Do 3 pracovných dní odo dňa doručenia Štúdie uskutočniteľnosti a analýzy dopadu Objednávateľ
+písomne alebo elektronicky oznámi Poskytovateľovi svoje rozhodnutie o schválení alebo
+neschválení Štúdie uskutočniteľnosti a analýzy dopadu.
+K realizácii malej zmeny funkčnosti dôjde len v prípade schválenia Štúdie uskutočniteľnosti
+a analýzy dopadu Kontaktnou osobou Objednávateľa.
+Parametre kvality poskytovanej služby
+Kvalita Služieb podpory prevádzky je definovaná nasledujúcimi ukazovateľmi:
+1. Garantovaná dostupnosť Helpdesku
+ Garantovaná dostupnosť Helpdesku počas pracovných dní je od 8:00 do 16:30.
+ Garantovaná dostupnosť Helpdesku počas kritickej prevádzky je od 8:00 do 18:00.
+2. Reakčné doby
+ Poskytovateľ sa zaväzuje dodržiavať nasledovnú garantovanú dobu odozvy a dobu
+riešenia Incidentov (čas je počítaný iba v rámci daného časového pokrytia Garantovanej
+dostupnosti Helpdesku od okamihu nahlásenia Incidentu a prerušuje sa po dobu
+omeškania s poskytnutím požadovanej oprávnenej súčinnosti zo strany Objednávateľa):
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+15
+
+Reakčná doba
+
+Kategória chyby
+
+Kritická
+
+Normálna
+
+Nízka
+
+Doba odozvy
+Prvá odozva
+Čas na zabezpečenie
+náhradného riešenia
+Doba trvalého vyriešenia
+Doba odozvy
+Prvá odozva
+Čas na zabezpečenie
+náhradného riešenia
+Doba trvalého vyriešenia
+Doba odozvy
+Prvá odozva
+Čas na zabezpečenie
+náhradného riešenia
+Doba trvalého vyriešenia
+
+1 hod
+8 hod
+
+Reakčná doba
+v Kritickej
+prevádzke
+1 hod
+4 hod
+
+16 hod
+
+8 hod
+
+24 hod
+2 hod
+16 hod
+
+16 hod
+2 hod
+8 hod
+
+40 hod
+
+24 hod
+
+80 hod
+4 hod
+40 hod
+
+40 hod
+2 hod
+8 hod
+
+80 hod
+
+24 hod
+
+160 hod
+
+40 hod
+
+Reakčná doba
+v Bežnej prevádzke
+
+3. Kvalita realizovanej malej zmeny funkčnosti
+ V rámci Akceptačného testovania Objednávateľ overí súlad dodaného Komponentu
+s funkčnosťou uvedenou v Požiadavke na zmenu. Minimálna vyžadovaná úroveň je
+stanovená počtom a závažnosťou defektov zistených v rámci Akceptačného testovania
+tak, ako je to uvedené v nasledujúcej tabuľke.
+
+Kategória
+
+Kritická
+
+Normálna
+
+
+
+Popis
+Kritický Defekt s dopadom na základné
+funkcionality systému IS EVSRŠ, ktorý by v prípade
+výskytu v produkčnom prostredí znemožnil
+prevádzku IS EVSRŠ resp. v testovacom prostredí
+zastaví postup testov.
+Výrazná odchýlka od požadovanej funkčnosti
+uvedenej v schválenej Cenovej kalkulácii.
+Defekt s nepodstatným dopadom na obsluhu IS
+EVSRŠ, resp. bez dopadu na postup testov v
+testovacom prostredí.
+
+Povolený počet
+Defektov
+
+0
+
+3
+
+Zistenie väčšieho počtu defektov kategórie Normálna alebo akéhokoľvek defektu kategórie
+Kritická znamená, že Poskytovateľ nedosiahol minimálnu vyžadovanú úroveň
+poskytovanej služby.
+
+Hodnotenie kvality poskytovanej služby
+Hodnotenie kvality poskytovanej služby bude prebiehať na pravidelných hodnotiacich stretnutiach.
+Cieľom hodnotiacich stretnutí je:
+
+
+
+Posúdenie dodržiavania dohodnutej úrovne a parametrov Služieb podpory prevádzky,
+Identifikácia každého špecifického Incidentu, ktorý bol hodnotený ako „Nevyriešené“ alebo
+„Dočasná obnova prevádzky“,
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+16
+
+
+
+
+
+Optimalizácia úrovne a parametrov Služieb podpory prevádzky,
+Posúdenie a schválenie Poskytovateľom navrhnutých zmien,
+Rozhodnutie o nevyhnutných a potrebných krokoch.
+
+Zápis z hodnotiaceho stretnutia je povinnou prílohou k mesačnej faktúre. Zápisy z hodnotiacich
+stretnutí môžu byť využité aj pri rozhodovaní Objednávateľa o uplatnení zmluvných sankcií a/alebo
+prípadných zmien Služieb podpory prevádzky.
+Podkladom pre hodnotenie poskytovaných Služieb podpory prevádzky je aj Štatistické hlásenie o
+vykonaných Službách podpory prevádzky, ktoré Poskytovateľ predloží Objednávateľovi písomne
+a elektronicky vždy k prvému dňu mesiaca nasledujúceho po hodnotnom období.
+Stupne hodnotenia riešenia Incidentov:
+Nevyriešené:
+ Incident nebol vyriešený/odstránený;
+ súčasťou hodnotenia musí byť odôvodnenie
+o neakceptovaní riešenia Incidentu.
+Otvorené:
+ neuplynula doba pre riešenie Incidentu;
+Vyriešené:
+ Incident bol vyriešený/odstránený.
+Dočasná obnova prevádzky:
+ Bolo nasadené dočasné riešenie.
+
+rozhodnutia
+
+zo strany Objednávateľa
+
+Podrobný report
+Poskytovateľ zabezpečí emailové zasielanie štatistických hlásení Objednávateľovi vo forme
+podrobných reportov o vykonaných službách podpory. Názov zasielaného súboru je IS
+EVSRŠ_RRRR_MM.xlsx (kde RRRR je aktuálny rok a MM aktuálny mesiac). Podrobný report za
+každý mesiac bude Objednávateľovi doručený najneskôr k 5. dňu nasledujúceho mesiaca a bude
+obsahovať minimálne nasledujúce informácie za každý Incident:
+Údaj
+
+Popis
+
+TicketNumber
+
+Evidenčné číslo servisného hlásenia v systéme Poskytovateľa
+
+Typ
+
+Typ Servisnej požiadavky (Incident, Problém, Požiadavka na zmenu, iná
+Servisná požiadavka)
+
+Dátum a čas prijatia
+
+Dátum a čas prijatia Servisnej požiadavky na strane Poskytovateľa
+
+Plán riešenia
+
+Dátum a čas požadovaného riešenia Servisnej požiadavky v zmysle
+definovaného časového rozsahu Služieb
+
+Riešenie
+
+Dátum a čas skutočného riešenia Servisnej požiadavky
+
+Názov
+
+Predmet Servisnej požiadavky – stručný názov
+
+Kontakt zákazníka
+
+Oprávnená kontaktná osoba, ktorá nahlásila Servisnú požiadavku
+
+Konfiguračná položka Dotknutá konfiguračná položka, ktorá je predmetom Servisnej požiadavky
+Stav
+
+Stav riešenia Servisnej požiadavky
+
+Hodnotenie spokojnosti zákazníkom
+V prípade použitia evidenčného softwarového nástroja, Poskytovateľ
+umožní prístup oprávneným koordinátorom, resp. ďalším povereným
+Spokojnosť zákazníka
+osobám ku kompletnému zoznamu nahlásených Servisných požiadaviek,
+ktoré má v evidencii a umožní zaznamenať hodnotenie spokojnosti
+s riešením Servisnej požiadavky
+Popis predmetu
+
+Popis – úplné znenie Servisnej požiadavky
+
+Popis riešenia
+
+Popis – úplné znenie riešenia Servisnej požiadavky
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+17
+
+Reporty budú dodávané v tabuľkovej elektronickej forme a v papierovej forme. Reporty budú
+principiálne obsahovať všetky náležitosti a činnosti, ktoré boli zo strany Poskytovateľa vykonané
+v poskytovania Služieb podpory prevádzky v danom období – príslušnom kalendárnom mesiaci.
+Pri reportovaní profylaktických činností záznam bude obsahovať minimálne nasledovné položky:
+1. Konfiguračná položka, ktorá identifikuje aplikačný modul prípadne funkčná časť IS EVSRŠ,
+na ktorom sa profylaktické činnosti vykonávali.
+2. Popis riešenia, kde bude uvedené:
+ časový interval, kedy sa zásah vykonával
+ podrobný postup prác s odôvodnením
+ identifikáciu pracovníka Poskytovateľa, ktorý je zodpovedný za vykonávanie
+profylaktických činností.
+Úrovne hodnotenia poskytovaných Služieb podpory prevádzky
+Poskytovanie Služieb podpory prevádzky v danom období – príslušnom kalendárnom mesiaci
+bude na Hodnotiacom stretnutí vyhodnotené jednou z nasledujúcich úrovní:
+
+
+
+Vyhovujúce – v danom období nebol hodnotený žiadny Incident stupňom nevyriešené, ani
+malá zmena funkčnosti stupňom Neakceptované.
+Nevyhovujúce – aspoň jeden Incident v danom období bol hodnotený stupňom Nevyriešené
+alebo malá zmena funkčnosti stupňom Neakceptované.
+Služby rozvoja IS EVSRŠ
+
+Služby rozvoja primárne zahŕňajú zmeny funkčnosti komplexného systému IS EVSRŠ, ktoré
+vyplývajú z legislatívnych zmien alebo z novo vzniknutých potrieb Objednávateľa. Ich účelom je
+najmä zabezpečiť spracovanie dokumentácie súvisiacej s prípravou a publikovaním vzdelávacích
+programov. Všetky výstupy Služieb rozvoja musia byť odovzdávané v súlade s legislatívou platnou
+v čase ich odovzdania, najmä so zákonom č. 245/2008 Z.z. o výchove a vzdelávaní (Školský
+zákon) a o zmene a doplnení niektorých zákonov.
+Medzi služby rozvoja sú zaradené aj veľké zmeny funkčnosti, konfigurácie a nastavení
+komplexného systému IS EVSRŠ, ktoré sú síce vynútené zmenami prevádzkového prostredia
+Objednávateľa, avšak ich rozsah neumožňuje, aby boli vykonané v rámci Služieb podpory
+prevádzky. Súčasťou realizácie Služieb rozvoja je zakaždým aj aktualizácia príslušnej
+dokumentácie komplexného systému IS EVSRŠ.
+Postup objednania Služby rozvoja
+Proces objednania Služby rozvoja sa začína vytvorením Požiadavky na zmenu a jej predložením
+Poskytovateľovi. Požiadavku na zmenu je oprávnená predložiť len Kontaktná osoba
+Objednávateľa uvedená v zozname Kontaktných osôb pre Služby rozvoja. Jednotný formulár
+Požiadavky na zmenu je uvedený v Prílohe č. 2 – Formulár požiadavky na zmenu.
+Na základe Požiadavky na zmenu Poskytovateľ vypracuje záväzný rozpočet realizácie zmeny vo
+forme Cenovej kalkulácie, ktorej prílohou bude aj:
+
+
+
+
+Podrobný návrh riešenia vo forme Štúdie uskutočniteľnosti a analýzy dopadu, v ktorej bude
+uvedené, ktoré iné časti funkčnosti komplexného systému IS EVSRŠ budú ovplyvnené
+realizáciou zmeny. Poskytovateľ je povinný pri vypracovaní návrhu riešenia vziať do úvahy
+aktuálnu platnú legislatívu, v prípade možného dopadu na IS EVSRŠ musí Poskytovateľ
+tento dopad zohľadniť v návrhu riešenia.
+Predpokladaný harmonogram prác s uvedením navrhovanej doby odovzdania zmeny vo
+forme Plánu realizácie zmeny, ktorého súčasťou bude aj špecifikácia Akceptačných testov
+zmeny.
+
+Do 5 pracovných dní odo dňa doručenia Cenovej kalkulácie Objednávateľ písomne oznámi
+Poskytovateľovi svoje rozhodnutie, a to:
+ v prípade schválenia Cenovej kalkulácie doručí Poskytovateľovi záväznú písomnú
+objednávku podpísanú oprávnenou Kontaktnou osobou,
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+18
+
+
+
+v prípade neschválenia Cenovej kalkulácie doručí Poskytovateľovi písomné oznámenie
+o neschválení.
+
+K realizácií Služby rozvoja IS EVSRŠ Poskytovateľom dôjde až po prijatí záväznej písomnej
+objednávky. Neoddeliteľnou súčasťou objednávky bude aj Cenová kalkulácia, vrátane jej príloh.
+V prípade, že Objednávateľ vo svojom písomnom vyjadrení nebude súhlasiť s Cenovou
+kalkuláciou Poskytovateľa a nedôjde ani k doručeniu písomnej záväznej objednávky
+Objednávateľa Poskytovateľovi v lehote uvedenej vyššie, Požiadavka na zmenu nebude
+realizovaná, pokiaľ sa zmluvné strany vzájomne písomne nedohodnú inak.
+Počas realizácie zmeny bude Poskytovateľ pravidelne aktualizovať a predkladať Objednávateľovi
+Plán realizácie zmeny spolu s odpočtom vykonaných prác, a to vždy k prvému dňu mesiaca
+nasledujúceho po prijatí písomnej Objednávky Objednávateľa, až do dňa podpisu Akceptačného
+protokolu alebo písomného odôvodnenia Objednávateľa o neakceptovaní požadovaných služieb.
+Parametre kvality poskytovanej služby
+V rámci Akceptačného testovania Objednávateľ overí súlad dodaného Komponentu s funkčnosťou
+uvedenou v Objednávke a jej prílohách. Minimálna vyžadovaná úroveň poskytnutia Služby rozvoja
+je stanovená počtom a závažnosťou defektov zistených v rámci Akceptačného testovania tak, ako
+je to uvedené v nasledujúcej tabuľke.
+Kategória
+
+Kritická
+
+Normálna
+
+Popis
+Kritický Defekt s dopadom na základné funkcionality
+systému IS EVSRŠ, ktorý by v prípade výskytu v
+produkčnom prostredí znemožnil prevádzku IS
+EVSRŠ resp. v testovacom prostredí zastaví postup
+testov.
+Výrazná odchýlka od požadovanej funkčnosti
+uvedenej v schválenej Cenovej kalkulácii.
+Defekt s nepodstatným dopadom na obsluhu IS
+EVSRŠ, resp.
+bez dopadu na postup testov v testovacom prostredí.
+
+Povolený počet Defektov
+
+0
+
+3
+
+Zistenie väčšieho počtu defektov kategórie Normálna alebo akéhokoľvek defektu kategórie Kritická
+znamená, že Poskytovateľ nedosiahol minimálnu vyžadovanú úroveň poskytovanej služby.
+Hodnotenie kvality poskytnutej služby
+Hodnotenie poskytnutej Služby rozvoja je vykonané Akceptačným testovaním, ktoré je zároveň
+minimálnym vyžadovaným predpokladom pre akceptáciu zmeny. Akceptačné testovanie prebieha
+podľa špecifikácie uvedenej v Pláne realizácie zmeny v testovacom prostredí Objednávateľa
+(požadovanú funkčnosť uvedie Objednávateľ v Požiadavke na zmenu).
+Zmluvné strany potvrdia poskytnutie Služieb rozvoja IS EVSRŠ Akceptačným protokolom, pričom
+pre účely úhrady ceny za Služby údržby IS EVSRŠ sa rozlišuje úroveň akceptácie nasledovne:
+
+
+
+
+Neakceptované – výstupom je písomné odôvodnenie rozhodnutia zo strany Objednávateľa
+o neakceptovaní požadovanej Služby. V danom prípade nemá Poskytovateľ právo na
+úhradu ceny za uvedené Služby. Po vzájomnej dohode môže Poskytovateľ vyzvať
+Objednávateľa k akceptácii v dodatočnom termíne.
+Akceptované – výstupom je podpísanie Akceptačného protokolu zo strany oprávnených
+osôb Poskytovateľa a Objednávateľa.
+
+Pokiaľ sa zmluvné strany nedohodnú inak, Objednávateľ sa zaväzuje akceptovať implementované
+zmeny, ak spĺňajú požiadavky v zmysle obojstranne odsúhlasených funkčných špecifikácií
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+19
+
+uvedených v objednávke a jej prílohách a zároveň počet nevyriešených Defektov k termínu
+ukončenia Akceptačných testov neprevýši stanovené limity.
+Akceptačný protokol s úrovňou akceptácie „Akceptované“ podpísaný oprávnenými osobami
+Objednávateľa a Poskytovateľa slúži ako podklad pre vystavenie príslušnej faktúry
+Poskytovateľom a úhradu ceny za Služby rozvoja v zmysle Cenovej kalkulácie Poskytovateľa.
+
+Rozsah:
+p.c.
+
+1.
+
+2.
+
+3.
+
+Popis
+Služby rozvoja –projektové riadenie (projektový
+manažér, riadenie projektovej kancelárie)
+Služby rozvoja-procesné analýzy a metodika
+(procesný analytik, metodik, procesný architekt
+a špecialista v oblasti analýzy a modelovania
+procesov, špecialista pre prípravu funkčných
+špecifikácií)
+služby rozvoja- vývoj, programovanie
+a konfigurácia systému
+(programátor/developer pre platformu Fabasoft
+- programátor/developer
+pre platformu Liferay
+- programátor/developer
+pre platformu
+Fulltextový vyhľadávač)
+
+Požadovaný maximálny
+počet
+mesiacov/predpokladaný
+rozsah v MD* na 5 rokov
+750
+
+1 500
+
+2 250
+
+4.
+
+služby rozvoja - testovanie
+- príprava dokumentácie
+- príprava a realizácia
+školení
+
+500
+
+5.
+
+Služby podpory prevádzky
+
+60 mesiacov
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+20
+
+Príloha č. 2 – Formulár Požiadavka na zmenu
+
+Číslo Zmeny
+zo Service
+Desku
+
+Požiadavka na zmenu
+
+Iniciátor zmeny
+(Objednávateľ):
+
+Organizácia:
+
+Telefón:
+
+E-mail:
+
+Manažér zmien
+(Objednávateľ):
+
+Telefón:
+
+Dátum a čas zadania
+požiadavky:
+
+Požadovaný
+termín
+ukončenia
+realizácie:
+
+Kategória zmeny
+Štandardná zmena:
+Urgentná zmena:
+Popis zmeny:
+Detailný popis požiadavky
+na zmenu:
+Prílohy:
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+21
+
+Príloha č. 3 – Formulár Štúdia realizovateľnosti a analýza dopadov
+Štúdia realizovateľnosti a Analýza dopadov
+Analýza požiadavky,
+spracovanie funkčnej
+špecifikácie, návrh riešenia,
+analýza dopadov zmeny:
+
+Pozn.: v prípade odhadovaného objemu prác nad rámec
+zmluvy o podpore bude prílohou Cenová kalkulácia
+
+Rozsah prácnosti
+implementácie zmeny:
+Návrh implementácie
+požiadavky:
+Návrh testovania a akceptácie
+požiadavky:
+Návrh harmonogramu plnenia:
+
+Realizátor vyšpecifikuje:
+•
+
+Predpokladaný časový plán realizácie zmeny
+
+•
+
+Návrh termínov testovania
+
+•
+
+Návrh termínu nasadenia na testovacie prostredie
+a funkčné testovanie
+
+Požadovaná súčinnosť
+Koncového používateľa /
+interných pracovníkov
+Koncového používateľa:
+Štúdiu pripravil:
+Dátum:
+Podpis:
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+22
+
+Príloha č.4 – Formulár Cenová kalkulácia
+Cenová ponuka
+Číslo Zmeny zo Service
+Desku:
+Predmet cenovej ponuky:
+Prácnosť v MD:
+Cenová ponuka:
+Ponuku pripravil:
+Dátum:
+Podpis:
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+23
+
+Príloha č.5 – Formulár Objednávka na realizáciu zmeny
+
+Objednávka realizácie zmeny
+Číslo Zmeny zo Service
+Desku:
+ID Objednávky:
+Predmet objednávky:
+Prácnosť v MD:
+Cenová ponuka:
+Objednávku vystavil:
+Dátum vystavenia:
+Podpis:
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+24
+
+Príloha č.6 – Formulár Plán realizácie zmeny
+
+Plán realizácie zmeny
+Formulár je určený pre vypracovanie plánu
+realizácie zmeny a vypĺňa ho Realizátor zmeny
+(pracovníci realizačného tímu) v koordinácií
+s Manažérom zmien.
+ID objednávky:
+
+Dátum
+vystavenia
+objednávky:
+
+Iniciátor zmeny:
+
+Organizácia:
+
+Manažér zmien:
+
+Plánovaný
+termín
+ukončenia
+realizácie:
+
+Číslo Zmeny zo
+Service Desku:
+
+Popis požiadavky na
+zmenu
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+25
+
+Príloha č.7 – Formulár Akceptačný protokol Zmeny
+
+Akceptačný protokol k zmene
+ID objednávky:
+
+Dátum
+vystavenia
+objednávky:
+
+Iniciátor zmeny:
+
+Organizácia:
+
+Manažér zmien:
+
+Plánovaný
+termín
+ukončenia
+realizácie:
+
+Číslo Zmeny:
+
+Krátky popis
+požiadavky na
+zmenu
+
+Popis predmetu akceptácie
+Výsledok
+testovania:
+
+Popis výsledkov testovania v produkčnom prostredí
+
+Popis priebehu - bez problémov, vyskytli sa chyby – ich popis
+
+Výsledok
+nasadenia
+zmeny:
+
+Zoznam zrealizovaných školení.
+Prípadne odkaz na Školiaci plán
+
+Realizácia
+školení
+Odovzdanie
+dokumentácie:
+
+Zoznam odovzdanej dokumentácie.
+Prípadne odkaz na externý dokument.
+
+Akceptácia realizácie Zmeny Akceptácia Zmeny schvaľovacou autoritou
+
+Iniciátor zmeny (Hlavný používateľ)
+
+Schvaľovateľ za Ú IT - Manažér zmien
+
+Meno:
+
+Meno:
+
+Funkcia:
+
+Funkcia:
+
+Dátum:
+
+Dátum:
+
+Podpis:
+
+Podpis:
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+26
+
+Príloha č. 8 – Formulár Štatistické hlásenie o vykonaných službách podpory
+
+Štatistické hlásenie o vykonaných službách podpory
+
+Obdobie:
+MM/YYYY
+
+Číslo
+požiadavk
+y
+
+Nahlásenie
+Dátum
+
+Čas
+
+Objednávateľ
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+Typ
+požiadavky
+
+Priorita
+
+Popis problému
+
+27
+
+Doba riešenia v
+MD
+
+Príloha č. 9 - Cenník jednotkových sadzieb Poskytovateľa pre Služby rozvoja, služby podpory prevádzky
+
+p.c
+.
+
+1.
+
+2.
+
+3.
+
+4.
+
+Popis
+
+Cena za Služby rozvoja –projektové
+riadenie (projektový manažér, riadenie
+projektovej kancelárie)
+Cena za Služby rozvoja-procesné
+analýzy a metodika
+(procesný analytik, metodik, procesný
+architekt a špecialista v oblasti analýzy
+a modelovania procesov, špecialista pre
+prípravu funkčných špecifikácií)
+Cena za služby rozvoja- vývoj,
+programovanie a konfigurácia systému
+(programátor/developer pre platformu
+Fabasoft
+- programátor/developer
+pre platformu Liferay
+- programátor/developer
+pre platformu
+Fulltextový vyhľadávač)
+Cena za služby rozvoja - testovanie
+- príprava dokumentácie
+- príprava a realizácia
+školení
+
+Požadovaný maximálny počet
+mesiacov/predpokladaný
+rozsah v MD* na 5 rokov
+
+Jednotkov
+á cena
+Celkom
+Sadzb
+v EUR bez
+v EUR bez a DPH
+DPH za 1
+DPH
+v%
+MD
+(osobodeň)
+
+Celkom
+v EUR s
+DPH
+
+750
+
+750
+
+562.500
+
+20%
+
+112.500
+
+675.000
+
+1 500
+
+740
+
+1.110.000
+
+20%
+
+222.000
+
+1.332.000
+
+2 250
+
+725
+
+1.631.250
+
+20%
+
+326.250
+
+1.957.500
+
+500
+
+691,66
+
+345.833,3
+3
+
+20%
+
+69.166,6
+7
+
+415.000
+
+Cena za Služby rozvoja v EUR
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+Výška
+DPH v
+EUR
+
+28
+
+5.
+
+Cena za Služby podpory prevádzky
+
+60
+
+Jednotkov
+á cena
+Celkom
+Sadzb
+v EUR za 1 v EUR bez a DPH
+mesiac bez
+DPH
+v%
+DPH
+19.900,-
+
+Servis na zabezpečenie udržateľnosti IS EVSRŠ
+
+29
+
+1.194.00,-
+
+Výška
+DPH v
+EUR
+
+20% 238.800,-
+
+Celkom
+v EUR s
+DPH
+1.432.800,
+-
+
+

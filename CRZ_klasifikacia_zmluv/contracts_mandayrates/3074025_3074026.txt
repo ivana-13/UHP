@@ -1,0 +1,1473 @@
+Zmluva o dielo č. Z201737497_Z
+uzatvorená v zmysle §536 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Ministerstvo financií Slovenskej republiky
+Štefanovičova 5, 81782 Bratislava, Slovenská republika
+00151742
+2020798351
+SK5981800000007000001400
+02 5958 2044
+
+Dodávateľ:
+Obchodné meno:
+
+InterWay, a. s.
+
+Sídlo:
+
+Stará Vajnorská 21, 83104 Bratislava, Slovenská republika
+
+IČO:
+
+35728531
+
+DIČ:
+
+2020268294
+
+IČ DPH:
+
+SK2020268294
+
+Číslo účtu:
+
+SK2302000000002075291059
+
+Telefón:
+
++421232788851
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Webový portál a intranet (redakčný systém)
+
+Kľúčové slová:
+
+webové sídlo, internetová stránka, intranet, redakčný systém
+
+CPV:
+
+72413000-8 - Návrh webových (www) sídiel; 72262000-9 - Vývoj softvéru; 72263000-6 Implementácia softvéru
+
+Druh/y:
+
+Služba; Tovar
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Účelom riešenia webového portálu a intranetu je priniesť modulárny a otvorený redakčný systém, ktorý zabezpečí
+ako atraktívnejší dizajn, tak aj lepšiu prehľadnosť a rozšírenie obsahu webového sídla pre verejnosť.
+• Súčasťou webového portálu je aj riešenie intranetu, kde budú implementované nástroje, ktoré umožnia zlepšiť
+informovanosť zamestnancov, zvýšiť ich kvalifikáciu a podporiť komunikáciu medzi zamestnancami, čo umožní
+zvýšenie efektivity práce.
+• Modularita tohto riešenia má umožniť organizácii flexibilnejšie reagovať na budúce požiadavky zo strany verejnosti a
+legislatívy na obsah zverejňovaný na webovom sídle, tak aj na ďalšiu implementáciu nástrojov, ktoré umožnia
+zvýšenie efektivity zamestnancov.
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Implementácia intranetového portálu
+
+ks
+
+1
+
+Implementácia redakčného systému
+
+ks
+
+1
+
+Implementácia webového portálu
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Redakčný systém (RS):
+
+Cieľom je implementovať modulárny a otvorený redakčný systém
+pre správu webového obsahu, ktorý bude spĺňať nasledovné
+požiadavky:
+Strana 1 z 13
+
+Minimum
+
+Maximum
+
+Presne
+
+1. Redakčný systém (RS):
+
+Implementovaný v slovenskom jazyku. V súlade s platnými
+právnymi predpismi Slovenskej republiky a Európskej únie, a to
+najmä so zákonom 275/2006 a výnosom 55/2014.
+
+1. Redakčný systém (RS):
+
+Súlad s nariadením EÚ o ochrane fyzických osôb a ich osobných
+údajov (GDPR - General Data Protection Regulation). Súlad so
+štandardami W3C XHTML2.BlindFriendly - štandardy prístupnosti.
+
+1. Redakčný systém (RS):
+
+Responzívny web - automaticky sa prispôsobí zariadeniu, na
+ktorom je zobrazený (PC, tablet, smartphone) s možnosťou
+prepnutia do plnej verzie stránky.
+
+1. Redakčný systém (RS):
+
+SEO optimalizácia a kompatibilita s najpoužívanejšími aktuálnymi
+webovými prehliadačmi (IE - vrátane IE edge, Mozilla firefox,
+google chrome, Opera, safari).
+
+1. Redakčný systém (RS):
+
+Poskytnutie licencie k dodanému dielu na úpravu, kopírovanie,
+rozmnožovanie, rozširovanie s možnosťou udelenia týchto práv na
+tretiu osobu.
+
+1.1. RS. požadované funkcionality:
+
+Logovanie prístupov do redakčného systému, ako aj do klientskej
+zóny, modulu vzdelávania. Vyhľadávanie a filtrovanie nad logmi v
+rámci dodaného redakčného systému.
+
+1.1. RS. požadované funkcionality:
+
+Používatelia Intranetu - budú automaticky pridávaní so základnými
+oprávneniami na základe pridania v ISIM–IBM Security Identity
+Management (nutná integrácia z dôvodu aktualizácie zoznamu
+používateľov)
+
+1.1. RS. požadované funkcionality:
+
+Používatelia Intranetu sa budú overovať voči doméne organizácie;
+bude im možné vytvoriť role so špecifickými oprávneniami.
+
+1.1. RS. požadované funkcionality:
+
+Editácia navigácie, menu, kategórií a obsahu Nastavenie
+automatického zverejnenia/deaktivácie
+kategórie/článku/dokumentu, či má byť uverejnená v novinkách, na
+titulnej stránke.
+
+1.1. RS. požadované funkcionality:
+
+Archív zmien (obsahu, kategórií, vložených dokumentov) Možnosť
+vrátiť sa k predchádzajúcej verzii; Logovanie zmien;
+
+1.1. RS. požadované funkcionality:
+
+Filtrovanie zmien v položkách, napríklad.: podľa typu zmeny
+(kategória, obsah, moduly), autora, rozsah dátumov a podobne.
+Možnosť zobrazenia zmien pred ich odpublikovaním.
+
+1.1. RS. požadované funkcionality:
+
+Funkcionalita Manažér súborov (samostatne ako modul alebo pod
+konkrétnou kategóriou) -Vkladanie,editovanie, mazanie viacerých
+súborov naraz; Vytvorenie, kopírovanie, editovanie a mazanie
+priečinkov;
+
+1.1. RS. požadované funkcionality:
+
+Nastavenie oprávnení do jednotlivých priečinkov (na čítanie,
+mazanie, editáciu); Pridanie hypertextového odkazu;
+
+1.1. RS. požadované funkcionality:
+
+Automatické pridanie obrázkov k identifikovaniu externého
+dokumentu, v prípade ak nie je definovaný, možnosť vybrať
+ľubovoľný obrázok (napr. pdf súbor, jpg súbor a podobne);
+
+1.1. RS. požadované funkcionality:
+
+Možnosť vkladať a zverejňovať súbory väčšie ako 1GB; Možnosť
+nastavenia obmedzenia veľkosti vkladania súborov adminom pre
+ostat. redaktorov; Evidencia počtu zobrazení dokumentov za
+účelom štatistiky.
+
+1.1. RS. požadované funkcionality:
+
+WYSIVYG editor - Vytvorenie a editácia obsahu, textov, vkladanie
+objektov (obrázky, tabuľky), modulov, hypertextových odkazov,
+
+1.1. RS. požadované funkcionality:
+
+sledovanie odkazov v rámci CMS, ak bude na
+stránku/obrázok/dokument odkaz,
+
+1.1. RS. požadované funkcionality:
+
+CMS upozorní kde je naň odkaz vytvorený a v prípade požiadavky
+vymazania bude používateľ upozornený na odkaz, ktorý na ňu
+odkazuje) – nástroj na kontrolu hypertextových odkazov a ich
+platnosti.
+
+1.1. RS. požadované funkcionality:
+
+Evidencia štatistiky - počet návštev; počet unikátnych
+návštevníkov; priemerný čas strávený na stránke; pomer a počet
+nových a vracajúcich sa návštevníkov; pôvod návštevníkov
+(krajina);
+
+1.1. RS. požadované funkcionality:
+
+zoradenie konkrétnych kategórií podľa návštevnosti. RSS publikovanie vybraných článkov vo formáte RSS.
+
+Strana 2 z 13
+
+1.2.1. Správa rolí a oprávnení v redakčnom systéme:
+
+Administrátor - "hlavný" správca cms-Komplexná správa portálu;
+Oprávnenie vytvárať/upravovať/mazať
+navigáciu/kategórie/obsah/dokumentov na rôznych úrovniach;
+Oprávnenie upravovať štruktúru zobrazenia;
+
+1.2.1. Správa rolí a oprávnení v redakčnom systéme:
+
+pridávanie modulov, bannerov; Spravuje role a oprávnenia nad
+celým cms (správa používateľských kont).
+
+1.2.2. Správa rolí a oprávnení v redakčnom systéme:
+
+Redaktor sekcie - Oklieštené oprávnenie ako administrátor, len v
+určitých špecifikovaných častiach/kategóriách, len v rámci
+pridelených oprávnení do konkrétnych modulov, kategórií a
+podobne;
+
+1.2.2. Správa rolí a oprávnení v redakčnom systéme:
+
+Spravuje role a oprávnenia len nad definovanými kategóriami,
+modulmi.
+
+1.2.3. Správa rolí a oprávnení v redakčnom systéme:
+
+Bežný Redaktor - Oprávnenie vytvárať/upravovať/ mazať kategórie
+obsah; Práca s pridelenými modulmi.
+
+2.1. Špecifické požiadavky pre intranetový portál:
+
+Intranetový portál (ďalej tiež intranet) bude prístupný zo siete LAN
+organizácie, pre zamestnancov organizácie (SSO prihlásenie) s
+definovanými rolami a oprávneniami do konkrétnych kategórií a
+modulov
+
+2.1. Špecifické požiadavky pre intranetový portál:
+
+Správa portálov bude zabezpečovaná cez redakčný systém
+administrátormi a redaktormi s definovanými oprávneniami.
+
+2.2. Špecifické požiadavky pre intranetový portál
+
+Administrátori a redaktori sa budú prihlasovať do redakčného
+systému menom a heslom, prípadne SSO, len v rámci siete LAN
+organizácie (prípadne VPN).
+
+2.3. Špecifické požiadavky pre webový portál:
+
+Evidencia štatistiky, počet prístupov, zobrazení konkrétnych
+stránok (napr. s využitím Google analytics).
+
+2.3. Špecifické požiadavky pre webový portál:
+
+Na webový portál (ďalej web) požaduje objednávateľ zabezpečiť
+prístup verejnosti z URL organizácie. Dostupný cez zabezpečený
+prístup cez HTTPS protokol.
+
+2.3. Špecifické požiadavky pre webový portál:
+
+V rámci prezent. vrstvy webu bude okrem neautoriz. prístupu
+zriadený aj autorizovaný prístup formou klientskej zóny,ktorá bude
+dostupná po prihlásení menom a heslom, respektíve SSO cez LAN
+organizácie
+
+2.3. Špecifické požiadavky pre webový portál:
+
+Štandardy použitia súborov (text, tabuľky, obrázky, audio, video)
+podľa výnosu 55/2014.
+
+2.3. Špecifické požiadavky pre webový portál:
+
+V prípade pridávania neštandardného súboru upozorniť
+používateľa o neštandardnom súbore a povinnosti zverejnenia jeho
+ekvivalentu - možnosť nastaviť tieto upozornenia (požiadavka pre
+webový portál).
+
+2.3. Špecifické požiadavky pre webový portál:
+
+Slovenská a Anglická mutácia.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Dodávku riešenia a dizajnu webového portálu a intranetu podľa
+dizajn manuálu logotypu štátnej správy, ktorý bude poskytnutý
+objednávateľom do 3 dní od účinnosti zmluvy.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Vytvorenie viacerých grafických šablón s rôznym rozložením
+stránok. Šablóny titulná stránka, podstránka (so zobrazením
+kategórií, obsahu, možnosť výberu zobrazenia modulu a podobne).
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Možnosť správy všetkého obsahu (statického aj dynamického),
+štruktúry menu, šablón, obsahu, modulov a dizajnu, zaškolenými
+zamestnancami objednávateľa.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Možnosť vytvárania a úpravy substránok s vlastným menu (URL
+odkazov za lomkou, napr.: www.“doména“.sk/cokolvek).
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Možnosť vložiť akýkoľvek odkaz priamo z kategórie, banneru a
+podobne. SSO intranet, klientska zóna cez AD organizácie. SSO
+redakčný systém cez AD organizácie.).
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Dodávka viacerých preddefinovaných modulov v zmysle
+špecifikácie opisného formulára.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Integrácia s definovanými IS objednávateľa, prioritne s využitím
+integračnej platformy organizácie. Mapa stránok. Verzia pre tlač.
+
+Strana 3 z 13
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Navigačná cesta - zobrazenie navigácie v rámci štruktúry web
+stránok priamo v obsahu jednotlivých podstránok. Aktualizované
+dňa - možnosť zobraziť/nezobraziť pri každej stránke dátum
+poslednej zmeny.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Vyhľadávanie v rámci prezentač. vrstvy (fulltext, s filtrami,
+podmienky vyhľadávania (A, ALEBO, vyhľadávanie presnej frázy),
+na základe konkrétnych atribútov.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Mapa stránok
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Navigačná cesta - zobrazenie navigácie v rámci štruktúry web
+stránok priamo v obsahu jednotlivých podstránok.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Aktualizované dňa - možnosť zobraziť/nezobraziť pri každej
+stránke dátum poslednej zmeny.
+
+2.4. Všeobecné požiadavky na portálové riešenia:
+
+Verzia pre tlač
+
+3. Požadované moduly (M) – bude možné použiť v rámci
+prezentačnej vrstvy webového sídla a intranetu
+
+Moduly bude spravovať používateľ s pridelenými oprávneniami na
+konkrétny modul v rámci redakčného systému.
+
+3.1.1. M. Novinky:
+
+Zobrazenie noviniek a aktualít v rámci titulnej stránky spolu s
+obrázkom formou automatického posúvania (carousel) a
+samostatnej stránky; Archív noviniek; Odkazy na sociálne siete.
+
+3.1.2. M. Tlačové správy:
+
+Modul bude riadiť zobrazovanie tlačových správ na úvodnej
+stránke a v samostatnej kategórii. Tlačové správy budú
+publikované v tvare stránkovaného zoznamu;
+
+3.1.2. M. Tlačové správy:
+
+Tlačové správy sú v zozname zobrazované chronologicky od
+najaktuálnejšej po najstaršiu;
+
+3.1.2. M. Tlačové správy:
+
+Modul bude umožňovať zadanie jednotlivých informácií (nadpis,
+text, obrázok, graf prípadne odkaz na inú stránku) a ich editáciu
+pomocou editora.
+
+3.1.2. M. Tlačové správy:
+
+Editor umožní základné typografické úpravy (hrubé písmo, šikmé,
+zarovnania textu, väčšie písmo atď., vloženie obrázku, priradenie
+foto/video galérie);
+
+3.1.2. M. Tlačové správy:
+
+Zobrazovať X tlačových správ (podľa nastavenia) a všetky ostatné
+automaticky vloží do archívu.
+
+3.1.3. M. Často kladené otázky – FAQ:
+
+Umožní prehľadne a jednoducho publikovať otázky a odpovede v
+prezentačnej časti internetovej aplikácie; Možnosť rozdeliť do
+viacerých tried. Vyhľadávanie nad otázkami.
+
+3.1.4. M. Fotogaléria:
+
+Možnosť vytvorenia/publikovania/mazania/úpravy fotogalérie (či už
+samostatne alebo v rámci konkrétneho článku); Vkladanie
+viacerých obrázkov naraz;
+
+3.1.4. M. Fotogaléria:
+
+Možnosť upraviť rozlíšenie, spôsob zobrazenia; Automatické
+vytvorenie náhľadov; Pridávanie názvu, popisu k fotografiám.
+
+3.1.5. M. Zvukové záznamy:
+
+Vkladanie/publikovanie/úprava/mazanie a prehrávanie zvukových
+záznamov (či už samostatne alebo v rámci konkrétneho článku);
+Pridávanie názvu, popisu.
+
+3.1.6. M. Videogaléria:
+
+Vkladanie/publikovanie/úprava/mazanie a prehrávanie videí,
+(podľa výnosu 55/2014 o štandardoch) (či už samostatne alebo v
+rámci konkrétneho článku);
+
+3.1.6. M. Videogaléria:
+
+Automatické vytvorenie náhľadu, možná úprava náhľadu;
+Pridávanie názvu, popisu; Prepojenie s youtube.
+
+3.1.7. M. Dotazník:
+
+(ako samostatná stránka)-Možnosť odpovedať na otázku textom,
+výber z možností, Checkbox , áno/nie, vyhodnotenie od 1 do 5;
+Odpovede budú evidované aj v module, aby bolo možné vytvoriť
+export do .xls;
+
+3.1.7. M. Dotazník:
+
+Možnosť vytvoriť dotazník, ktorý bude po vyplnení odoslaný na
+definovaný mail (napojený na Smtpsend/receive konektor).
+
+3.1.8. M. Ankety:
+
+Zobrazenie ankety v rámci modulu na úvodnej stránke;Otázka s
+ľubovoľným počtom odpovedí; zobrazenie počtu/percent odpovedí
+(priamo v ankete alebo po jej odoslaní);
+
+3.1.8. M. Ankety:
+
+Možnosť vytvorenia archívu ankiet s možnosťou ich zobrazenia na
+samostatnej stránke, s možnosťou selekcie konkrétnych ankiet,
+možnosti ankiet a prieskumov – s následným exportom do .xls
+Strana 4 z 13
+
+3.1.9. M. Kalendár:
+
+Modul, ktorý je možné vložiť na samostatnú stránku, prípadne k
+nemu doplniť obsah; Možnosť integrovať kalendár z exchange
+server organizácie.
+
+3.1.10. M. HTML modul:
+
+Možnosť vytvorenia vlastného html modulu, ktorý bude možné
+vložiť na titulnú stránku, podstránku, prípadne pod navigáciu ako
+časť stránky a podobne (napríklad vytvorenie banneru).
+
+3.1.11. M. Archív:
+
+Možnosť označiť adresár, súbor a zaradiť ho do archívu; Následne
+sa v danej kategórii vytvorí podkategória archív; Automatické
+zlučovanie archívu.
+
+3.1.12. M. Údaje:
+
+Vkladanie údajov, prípadne import údajov v mesačných/ročných
+intervaloch; Možnosť zverejňovať údaje v štruktúr. podobe,ktoré
+bude možné následne exportovať,generovať a zasielať súbory vo
+formáte json.
+
+3.1.13. M. Zverejňovanie zmlúv, objednávok a faktúr:
+
+Automatické uploadovanie, zmena, vymazanie definovaných
+zmlúv/objednávok a faktúr a ich atribútov zo súboru a následné
+zverejnenie v požadovanej štruktúre.
+
+3.1.13. M. Zverejňovanie zmlúv, objednávok a faktúr:
+
+Spárovanie súvisiacich zmlúv, objednávok a faktúr.
+
+3.1.13. M. Zverejňovanie zmlúv, objednávok a faktúr:
+
+Možnosť filtrovania a vyhľadávania na základe definovaných
+parametrov.
+
+3.1.14. M. Novinky v rámci vytvorenej substránky:
+
+Riadenie zobrazovania TOP informácií (možné nastaviť počet
+zobrazených) na stránke v zadefinovanej časti, v definovanej
+kategórii (bude možné nastaviť pre ľubovoľnú substránku) a jej
+Archív,
+
+3.1.14. M. Novinky v rámci vytvorenej substránky:
+
+Modul bude slúžiť na informovanie návštevníkov o novopridaných
+dokumentoch v štruktúre stránok.
+
+3.1.14. M. Novinky v rámci vytvorenej substránky:
+
+V rámci zverejňovania stránok bude možné nastaviť, či sa má
+zobraziť a v ktorej definovanej kategórii sa má zobraziť ako
+novinka. Archív bude obsahovať všetky takto zverejnené novinky.
+
+3.2 Špecifické moduly Intranetu (MI.):
+
+Moduly bude spravovať používateľ s pridelenými oprávneniami na
+konkrétny modul v rámci redakčného systému.
+
+3.2.1. MI. Vnútorné predpisy (ďalej VP):
+
+Vkladanie a úprava VP s konkrétnymi atribútmi, evidencia
+aktuálnych, archív starších vnútorných predpisov.
+
+3.2.1. MI. Vnútorné predpisy (ďalej VP):
+
+Vyhľadávanie podľa zvolených atribútov (číslo VP, názov, popis,
+garant, dátum pridania, účinnosti a pod.), fulltextové aj priamo v
+dokumentoch.
+
+3.2.2. MI. Pripomienkové konanie (ďalej PK):
+
+Rozdelené na všeobecné záväzné materiály a VP; Vkladanie
+materiálov na PK, s termínom PK, dátumom pridania a popisom.
+
+3.2.2. MI. Pripomienkové konanie (ďalej PK):
+
+Vyhľadávanie v materiáloch (gestor, názov, dátum); Vloženie
+odkazu na materiál v dokumentačnom systéme – prepojenie.
+
+3.2.3. MI. Helpdesk:
+
+Slovník pojmov; Databáza znalostí; Helpdesk strom a odkaz na
+Helpdesk aplikáciu.
+
+3.2.4. MI. Monitoring médií:
+
+Odber spravodajstva od poskytovateľa v xml formáte, jeho
+automatické stiahnutie a vloženie na intranet, bude zobrazovať
+najmä:
+
+3.2.4. MI. Monitoring médií:
+
+nestránkovaný Denný / Súhrnný denný / Mesačný / Ročný zoznam
+monitoringu v kategórií zaradenej do štruktúry; Detail správy;
+Filtrovanie nad zoznamom monitoringu.
+
+3.2.5. MI. Evidencia o vybraných úlohách:
+
+Zobrazenie údajov zo sprístupneného xml súboru.
+
+3.2.6. MI. Procesný model:
+
+Zobrazenie stromovej štruktúry z nástroja ARIS web publisher.
+
+3.2.7. MI. Adresár, organizačná štruktúra a telefónny
+zoznam:
+
+Modul Adresár bude na základe údajov v sprístupnenom XML
+súbore zobrazovať: Zoznam zamestnancov organizácie;
+Organizačnú štruktúru organizácie; Jednoduché vyhľadávanie nad
+zoznamom zamestnancov;
+
+3.2.7. MI. Adresár, organizačná štruktúra a telefónny
+zoznam:
+
+rozšírené vyhľadávanie nad zoznamom zamestnancov, podľa čísla
+klapky, čísla kancelárie, mena, priezviska, organizačnej štruktúry.
+Zverejnenie .xls súboru pripraveného povereným zamestnancom.
+
+3.2.8. MI. Čierna skrinka:
+
+Zamestnanec má možnosť prostredníctvom elektronického
+formulára v rámci prezentačnej vrstvy pridať príspevok do čiernej
+skrinky s garanciou zachovania anonymity,
+Strana 5 z 13
+
+3.2.8. MI. Čierna skrinka:
+
+následne administrátor v redakčnom systéme dá príspevku číslo,
+meno (príp. anonym) a príznak publikovať, s možnosťou pridávať
+odpovede k jednotlivým už zverejneným príspevkom.
+
+3.2.8. MI. Čierna skrinka:
+
+Odpovede na príspevky môžu byť tiež anonymné, odpovede
+schvaľuje admin. (zoznam príspevkov, detail príspevku, formulár
+na pridanie príspevku, formulár na vyhľadanie príspevku,
+štatistické výstupy).
+
+3.2.9. MI. Dnešné menu:
+
+Denné menu na titulnej stránke; Týždenné menu v kategórii
+zaradenej do štruktúry; Vkladanie menu cez formulár, prípadne
+uploadovanie zo súboru a následné zverejnenie v požadovanej
+štruktúre.
+
+3.2.10. MI. Meniny a aktuálne info dňa:
+
+Zobrazenie aktuálneho dňa, kto má meniny, aktuálne info dňa
+(počasie, atď.).
+
+3.2.11. MI. Vzdelávacie aktivity (možnosť zobrazenia na
+titulnej stránke):
+
+Top aktivity na titulnej stránke, zoznam aktivít v kategórii zaradenej
+do štruktúry, detail aktivity.
+
+3.2.11. MI. Vzdelávacie aktivity (možnosť zobrazenia na
+titulnej stránke):
+
+Po pridaní novej aktivity v rámci Modulu vzdelávanie sa zobrazí na
+titulnej stránke názov vzdelávacej aktivity, dátum konania, miesto
+konania, dátum uzávierky, cieľ vzdelávacej aktivity,
+
+3.2.11. MI. Vzdelávacie aktivity (možnosť zobrazenia na
+titulnej stránke):
+
+posledných 5 aktivít s najbližším dátumom sa zobrazuje na titulnej
+stránke.
+
+3.2.11. MI. Vzdelávacie aktivity (možnosť zobrazenia na
+titulnej stránke):
+
+Detail aktivity (po rozkliknutí) zobrazuje názov, dátum konania, čas
+konania, dátum uzávierky, miesto konania, cieľ vzdelávacej
+aktivity, program, obsah, lektor, odborný gestor, organizačný
+gestor,
+
+3.2.11. MI. Vzdelávacie aktivity (možnosť zobrazenia na
+titulnej stránke):
+
+pre koho je určená, požiadavka na zaradenie zamestnanca na
+vzdelávaciu aktivitu organizovanú organizáciou.Požiadavka na
+zaradenie smeruje na .doc dokument.
+
+3.2.12. MI. Najnovšie dokumenty (možnosť zobrazenia
+na titulnej stránke):
+
+Top 10 – po pridaní dokumentu v ľubovoľnej kategórii sa
+automaticky nový dokument zobrazí na hlavnej stránke, vždy
+posledných 10 pridaných dokumentov – názov dokumentu, dátum
+pridania.
+
+3.2.13. MI. Elektronická osobná karta:
+
+Po rozkliknutí na meno prihláseného sa zobrazia k prihlásenému
+používateľovi – sekcia, odkaz na dochádzku a iné odkazy na
+externé aplikácie (podľa pridelených prístupov),
+
+3.2.14. MI. Inzercia zamestnancov:
+
+Zamestnanec bude môcť vkladať inzerát formou formuláru, priamo
+z prezentačnej vrstvy intranetu, s požadovanými vlastnosťami, ako
+má byť dlho inzerát zverejnený, prípadne ho komentovať,
+
+3.2.14. MI. Inzercia zamestnancov:
+
+následne administrátor v redakčnom systéme dá príspevku číslo a
+príznak publikovať. Administrátor môže mazať nevhodné inzeráty.
+
+3.3. Klientska zóna (M.KZ.):
+
+Autorizovaný prístup, bude dostupná po prihlásení menom a
+heslom (respektíve SSO cez LAN organizácie).
+
+3.3. Klientska zóna (M.KZ.):
+
+Bude pozostávať z oddelenej zabezpečenej vetvy navigačného
+menu webového portálu, so zabezpečeným obsahom.
+
+3.3. Klientska zóna (M.KZ.):
+
+Okrem priameho vytvorenia konta adminom bude možná aj
+registrácia priamo z portálu, v rámci ktorej bude možné požiadať o
+konkrétne oprávnenia, prípade doplniť poznámku (do konkrétnej
+časti priv. z.)
+
+3.3. Klientska zóna (M.KZ.):
+
+Možnosť zmeny hesla v rámci portálu, možnosť vytvorenia
+viacerých kategórii s nastavením samostatných oprávnení pre
+konkrétnych používateľov/skupiny používateľov.
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Registrácia - Prihlasovacie meno bude: MAILOVÁ ADRESA
+(externý používateľ),prihlasovacie meno z domény organizácie
+(interný používateľ).
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Používateľ sa musí registrovať cez formulár uverejnený v klientskej
+zóne alebo môže byť pridaný administrátorom, až následne môže
+pristupovať do internej časti webového portálu.
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Pri registrácii - bude nevyhnutné vyplniť základné údaje - Meno,
+priezvisko (povinné); Emailová adresa (povinné, kontrola na
+duplicity); Po zaregistrovaní príde mailom potvrdzujúci link.
+
+Strana 6 z 13
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Link overí používateľa; Organizácia (bude možné vybrať z
+číselníka, číselník bude možné doplniť administrátorom alebo
+redaktorom s pridelenými oprávneniami) (povinné);
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Telefonický kontakt (možnosť zadania viacerých tel.čísel – pevná
+linka, mobil).
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Pri registrácii - bude možnosť vybrať kategórie do ktorých chcem
+mať prístup (vzdelávanie, sps, porady vedenia) (prístup musí byť
+potvrdený redaktorom); Komentár.
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Pri registrácii - Súhlas so spracovaním uvedených údajov pri
+registrácii.
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Pri registrácii - Pri výbere možnosti prístupu do modulu
+vzdelávania, budú dostupné ďalšie polia: Nový vyberač –Pozícia –
+riaditeľ, vedúci, referent;
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+Funkcia - (informatik, personalista, kontrolór, iné (možnosť doplniť
+vlastné)) - bude sa vypĺňať pri registrácii, prípadne ak ich bude
+redaktor zadávať manuálne,
+
+3.3.1. Registrovaný používateľ (KZ) - registrácia:
+
+pri migrácii z existujúceho systému budú používateliaidentifikovaní
+a ich pozícia bude nastavená ako povinné pole. Záujem o typy
+školení.
+
+3.3.2. Registrovaný používateľ (KZ):
+
+V prípade ak sa používateľ neprihlási do systému viac ako 24
+mesiacov bude automaticky blokovaný, neplatí pre používateľov z
+domény.
+
+3.3.2. Registrovaný používateľ (KZ):
+
+Zabudnuté heslo - Na požiadanie vygeneruje systém nové a zašle
+na mail, aby sa zabránilo viacnásobnej registrácii, pre externého
+používateľa;
+
+3.3.2. Registrovaný používateľ (KZ):
+
+Interný používateľ sa bude prihlasovať v rámci internej siete SSO,
+mimo internej siete doménovým heslom, vyžiada si v rámci
+helpdesk organizácie interný používateľ.
+
+3.3.3 Moduly v rámci KZ:
+
+Moduly v rámci klientskej zóny (s možnosťou pridať ďalšie
+kategórie napr. Rokovania vlády, Porady vedenia).
+
+3.3.3.1. M. Vzdelávanie (M.V.):
+
+Bude slúžiť ako manažment vzdelávacích
+aktivít(www.“doména“.sk/vzdelavanie) bude rozdelený na Verejnú
+časť (pre všetkých návštevníkov podstránky); Internú časť (cez
+klientsku zónu).
+
+3.3.3.1. M. Vzdelávanie (M.V.):
+
+Prehľad aktivít v rámci internej časti - Informácie o vzdelávacích
+aktivitách (plánované, zrealizované); Archív (staršie ako aktuálny
+rok (archív rozdelený podľa jednotlivých rokov);
+
+3.3.3.1. M. Vzdelávanie (M.V.):
+
+Po ukončení vzdel. aktivity automat. po potvrdení redaktorom
+presunie do priečinka zrealiz. (viď rola admin); Dokumenty ku
+školeniu (možnosť vloženia dokumentov ku konkrétnemu
+školeniu–zadáva ADMIN.
+
+3.3.3.1. M. Vzdelávanie (M.V.):
+
+Mailing list - Notifikovať používateľa o pridanom školení (ak prejavil
+o konkrétny typ školenia záujem a v prípade ak daný typ školenia
+ešte v danom roku neabsolvoval.
+
+3.3.3.1. M. Vzdelávanie (M.V.):
+
+Ide o školenia, ktoré sú pravidelné na zákl.konkrétneho zákona;
+Notifikovať ak je používateľ prihlásený na konkrétne školenie (o
+pridaní nových dokumentov, týždeň pred začiatkom, deň pred
+začiatkom.
+
+3.3.3.1. M. Vzdelávanie (M.V.):
+
+Automaticky upozorniť 1x ročne aby registrovaní používatelia
+aktualizovali svoje údaje.
+
+3.3.3.1. M. Vzdelávanie (M.V.):
+
+Interná časť role - ADMIN; Registrovaný používateľ po registrácii a
+prihlásení konkrétneho používateľa sa na základe jeho oprávnení
+zobrazia príslušné moduly/kategórie/obsah.
+
+3.3.3.1. M.V. Role a oprávnenia v rámci (po prihlásení):
+
+Rolu ADMIN je možné vytvoriť len priamo v redakčnom systéme, aj
+s požadovanými oprávneniami.
+
+3.3.3.1. M.V. Role a oprávnenia v rámci (po prihlásení):
+
+Napríklad možnosť vytvárať školenia len v konkrétnych
+témach/okruhoch – tie bude možné v redakčnom systéme.
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Vytvoriť školenie, zrušiť školenie, jeho administrácia. Potvrdenie
+účastníkov, zamietnutie prihláseného záujemcu, pozvanie
+potvrdených.
+Strana 7 z 13
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Potvrdzovanie zaradenia, prihlásených, odhlásených používateľov
+na vzdelávaciu aktivitu, po ktorom systém zašle notifikáciu
+používateľovi – admin potvrdzuje (potvrdiť/zakázať).
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Vyberač TYP ŠKOLENIA – informatik, personalista – potrebné keď
+je školenie určené pre oba typy pozícií.
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Generovanie výstupov ku školeniu (prezenčná listina exportovaný
+zoznam s prihlásenými a odsúhlasenými záujemcami / ponechať aj
+voľné polia v prípade, ak sa ručne dopíše iný záujemca).
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Možnosť manuálneho doplnenia zoznamu účastníkov školenia v
+systéme, vytvorenie dotazníka ku školeniu–flexibilná úprava. Pri
+zmene termínu školenia automaticky zaslanie notifikácie všetkým
+prihláseným.
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Ukončenie aktivity, dať príznak ukončená (ukončí školenie,
+odklikom sa presunie z plánovaných do zrealizovaných, taktiež sa
+zmena zobrazí aj u registrovaného používateľa).
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Pri ukončovaní školenia admini odkliká zúčastnených podľa prez.
+listiny a jednotliv. zúčastneným systém automat. pošle info. s
+možnosťou/povinnosťou vypísania dotazníka–pred potvrdením o
+absolvovaní.
+
+3.3.3.1. M.V. Administrátor (M.V. ADMIN) Oprávnenia:
+
+Vloženie dokumentov ku školeniu, možnosť aj dodatočne po
+školení. Upravovanie registrovaného používateľa.
+
+3.3.3.1. Modul Vzdelávanie - Vzdelávacia aktivita
+Administrátor môže vytvoriť/upraviť vzdelávaciu aktivitu s
+nasledovnými atribútmi:
+
+Názov vzdelávacej aktivity (definovaný číselník), Popis školenia
+(obsah školenia, pre koho je určené a podobne),Termín školenia –
+Kalendár, dátum a čas začiatku a konca vzdelávacej aktivity,
+
+3.3.3.1. Modul Vzdelávanie - Vzdelávacia aktivita
+Administrátor môže vytvoriť/upraviť vzdelávaciu aktivitu s
+nasledovnými atribútmi:
+
+Trvanie vzdel. aktivity v hod Miesto školenia: Miestnosť kde sa
+koná školenie, Fáza školenia: plánované (s určeným termínom);
+zrealizované. Počet účastníkov, ktorí sa môžu na dané školenie
+prihlásiť.
+
+3.3.3.1. Modul Vzdelávanie - Vzdelávacia aktivita
+Administrátor môže vytvoriť/upraviť vzdelávaciu aktivitu s
+nasledovnými atribútmi:
+
+Lektor, Poznámka, Možnosť priloženia dokumentov.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Podľa názvu vzdel. aktivity bude možné identifikovať, či sa
+účastník školenia zúčastnil toho istého školenia viackrát. V
+systéme sa v rámci konkrétneho školenia eviduje zoznam
+prihlásených účastníkov.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Ku školeniu bude možné pripojiť online dotazník.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Možnosť automatického zablokovania možnosti prihlásenia (počet
+dní) – admin nastaví dokedy je možné prihlasovať sa na dané
+školenie.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Po zablokovaní sa pri danom školení zobrazí hlásenie, že na dané
+školenie sa už nedá prihlasovať elektronicky, v prípade záujmu
+nech kontaktujú admina (kontakt na konkrétnu osobu).
+
+3.3.3.1. M.V. ADMIN (proces):
+
+V prípade zmeny dátumu školenia sa zobrazí hlásenie o zmene
+jednak na „stene“ všetkým v novej kolónke ZMENY, DOLEZITE,
+NEPREHLIADNITE viditeľné ako verejným používateľom, tak aj
+registrovaným.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Registrovaným bude zároveň zaslaná aj notifikácia mailom.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Po skončení školenia zašle administrátor cez systém všetkým
+účastníkom notifikáciu o skončení školenia s požiadavkou o
+vyplnenie online dotazníka.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Po vyplnení bude účastníkovi zaslané potvrdenie o absolvovaní
+školenia a prípadne ďalšie dokumenty.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+V prípade potreby môže zoznam účastníkov školenia manažér
+doplniť (v prípade ak sa iný účastník zúčastní ako náhradník -musí
+byť však registrovaný v systéme, ak nebude musí sa
+„doregistrovať“.
+
+3.3.3.1. M.V. ADMIN (proces):
+
+Následne po jeho doplnení na školenie mu bude zaslaný dotazník
+a potvrdenie o absolvovaní školenia).Školenia je možné filtrovať
+podľa zadaných kritérií.
+
+Strana 8 z 13
+
+3.3.3.1. M.V. Registrovaný používateľ (oprávnenia):
+
+Po prihlásení sa do systému (interná časť) sa môže prihlasovať na
+konkrétne školenia.Vidí plánované školenia, moje školenia (delené
+na prihlásený a absolvované), archív starších rokov.
+
+3.3.3.1. M.V. Registrovaný používateľ (oprávnenia):
+
+Doplňujúce funkcie (notifikácie o nových plánovaných školeniach,
+zasielanie dotazníkov po školení, zasielanie certifikátov), tieto bude
+možné uložiť aj v systéme.
+
+3.3.3.1. M.V. Registrovaný používateľ (oprávnenia):
+
+Pridať možnosť odhlásenia sa zo školenia, na ktoré sa používateľ
+už prihlásil–notifik. adminovi mailom, v zozname prihlásených na
+školenie sa odhlásený klient označí automaticky napr. červenou
+farbou.
+
+3.3.3.1. M.V. Registrovaný používateľ (oprávnenia):
+
+Požadovaná migrácia existujúcich registrovaných používateľov
+(cca 1200).
+
+3.3.3.1. M.V. Registrovaný používateľ (proces):
+
+V prezenčnej časti si bude môcť pozrieť prehľad plánovaných,
+prihlásených a absolvovaných školení. Prihlási sa na požadované
+školenia (notifikácia o prihlásení sa na školenie na mail
+používateľa).
+
+3.3.3.1. M.V. Registrovaný používateľ (proces):
+
+Vidí či je možné ešte prihlásiť sa na školenia z hľadiska
+obsadenosti (číslom pr. 30/50).
+
+3.3.3.1. M.V. Registrovaný používateľ (proces):
+
+Pri danom školení sa zobrazí hlásenie, že na dané školenie sa už
+nedá prihlasovať elektronicky, v prípade záujmu nech kontaktuje
+admina (kontakt na konkrétnu osobu).
+
+3.3.3.1. M.V. Registrovaný používateľ (proces):
+
+Bude mať evidenciu na ktoré školenia sa prihlásil (notifikácia o
+blížiacom sa školení /napríklad týždeň/deň pred školením na ktoré
+je prihlásený).
+
+3.3.3.1. M.V. Registrovaný používateľ (proces):
+
+Evidencia absol. školení na ktorých sa používateľ zúčastnil.
+
+3.3.3.1. M.V. Registrovaný používateľ (proces):
+
+Informácia, na ktorom školení bol, možnosť stiahnutia potvrdenia o
+školení, možnosť/povinnosť vypísania dotazníka – pred potvrdením
+o absolvovaní školenia), dokumenty zo školenia.
+
+3.3.3.1. REDAKČNÝ SYSTÉM VZDELÁVANIA (RSV.):
+
+Je rozdelený na – Kategórie; Funkcie.
+
+3.3.3.1. RSV. (Kategórie):
+
+Možnosť pridať kategóriu s odkazom na konkrétnu URL, s
+obsahom, s modulmi, prípadne kombinácia obsah + modul.
+
+3.3.3.1. RSV. (Kategórie):
+
+Je potrebné aby bola vedená evidencia a po vyfiltrovaní určitého
+používateľa admin videl, aké školenia absolvoval používateľ, v
+akom rozsahu (počet hodín), na aké je prihlásený a podobne.
+
+3.3.3.1. RSV. (Funkcie):
+
+Štatistiky, aby systém generoval počty zrealiz. hodín školení pre
+jednotlivých účastníkov, štatistiky pre administrátora, počet školení,
+typy školení, odškolení používatelia, atď. za vybrané obdobie.
+
+3.3.3.1. RSV. (Funkcie):
+
+Štatistiky: evidencia, koľko povinných školení mal daný používateľ
+absolvovaných.
+
+3.3.3.1. RSV. (Funkcie):
+
+Výstupy štatistík v tvare - Poradové číslo; Meno a priezvisko;
+Inštitúcia (zamestnávateľ); Počet hodín ktoré treba absolvovať;
+Počet absolvovaných hodín celkovo; Názov vzdelávacej aktivity;
+
+3.3.3.1. RSV. (Funkcie):
+
+Dátum realizácie vzdelávacej aktivity; Počet hodín; Vyjadrenie
+organizácie; Dátum uznania, poznámka.
+
+3.3.3.1. RSV. (Funkcie):
+
+Záujemcovia – registrovaní (zoznam všetkých registr. používateľov
+(len vzdelávanie), s atribútmi: Meno, Priezvisko, Organizácia,
+mailová adresa, tel. kontakt, dátum registrácie, aktívny/neaktívny.
+
+3.3.3.1. RSV. (Funkcie):
+
+Záujemcovia - Možnosť zobraziť zoznam s vybranými atribútmi;
+Filter na vyhľadávanie. Tu je zoznam všetkých zaregistrovaných
+používateľov;
+
+3.3.3.1. RSV. (Funkcie):
+
+Údaje o všetkých zrealiz. a prihlásených školeniach (pr. zavolá
+používateľ adminovi, že sa presne nepamätá, či bol, koľko hodín
+absolvoval, po zadaní mena admin toto všetko uvidí–viď vernostné
+syst.)
+
+3.3.3.2. Porady vedenia a rokovania vlády (PVaRV):
+
+Automatický import materiálov a stanovísk z modulu porád
+vedenia.
+
+3.3.3.2. PVaRV. - Prihlasovanie, administrácia prístupov:
+
+Administrátor – prevádzka a správa modulu, vytváranie prístupov
+do modulu; Správca modulu– vytvára jednotlivé porady vedenia,
+rokovania vlády;
+
+Strana 9 z 13
+
+3.3.3.2. PVaRV. - Prihlasovanie, administrácia prístupov:
+
+Redaktor modulu – vkladá dokumenty cez pridávanie dokumentov;
+Používatelia modulu– pristupujú k dokumentom v rámci porád
+vedenia, prípadne rokovaní vlády.
+
+3.3.3.2. PVaRV. Prihlasovanie:
+
+Interný prístup cez k-zónu (pre určených používateľovzamestnancov organizácie aj externých registrovaných
+používateľov).
+
+3.3.3.2. PVaRV. Rokovania vlády:
+
+(administračná časť pre správcu modulu) - Zoznam rokovaní
+(poradové číslo, názov rokovania, ID, stav –
+publikované/nepublikované, dátum rokovania).
+
+3.3.3.2. PVaRV. Rokovania vlády:
+
+(admin. časť pre správcu modulu) - Pridanie rokovania: Poradové
+číslo; Názov–totožný s názvom rokovania uvedeným na webe
+rokovaní vlády; Dátum a čas; Miesto; Programové materiály;
+možnosť publikovať.
+
+3.3.3.2. PVaRV. Rokovania vlády:
+
+(administračná časť pre správcu modulu) – Priradené dokumenty:
+Poradové číslo; Názov dokumentu; Číslo materiálu; Predkladá
+(organizácia); ID; Dátum.
+
+3.3.3.2. PVaRV. Rokovania vlády:
+
+Program rokovania nahráva poverený zamestnanec (správca
+modulu) po jednotlivých bodoch programu – manuálny prepis z
+internetovej stránky rokovaní vlády - možnosť importu údajov z
+úradu vlády.
+
+3.3.3.2. PVaRV. Rokovania vlády:
+
+Modul má byť plne elektronické riešenie prípravy vedenia
+organizácie k rokovaniu vlády. Zároveň poverený pracovník
+prikladá aj stanoviská organizácie.
+
+3.3.3.2. PVaRV. Rokovania vlády:
+
+Modul obsahuje aj archív všetkých rokovaní vlády spolu s
+materiálmi a stanoviskami k nim.
+
+3.3.3.2. PVaRV. Rokovania vlády:
+
+Migrácia dát z existujúceho systému.
+
+3.3.3.2. PVaRV. Porady vedenia (funkcionality pre
+správcu modulu):
+
+(funkcionality pre správcu modulu) - Tvorba programu, pozvánky
+na základe doručených materiálov od členov porady vedenia.
+
+3.3.3.2. PVaRV. Porady vedenia:
+
+Funkcionality pre správcu modulu) - Zasielanie automaticky
+generovaného e-mailu členom porady o programe rokovania
+porady a dátume jej konania (možnosť editovať komu maily idú).
+
+3.3.3.2. PVaRV. Porady vedenia:
+
+Každá ďalšia zmena bude zasielaná ako Dodatok k porade
+vedenia.
+
+3.3.3.2. PVaRV. Porady vedenia:
+
+funkcionality pre správcu modulu a redaktora modulu - Dokumenty,
+s definovanými atribútmi, k poradám pridávajú osoby s prístupom
+do k-zony (sekretárky jednotlivých sekcií, redaktor) vo formáte
+*.zip.
+
+3.3.3.2. PVaRV. Porady vedenia:
+
+Dokument bude jednoznačne identifikovaný, ktorý redaktor ho
+pridal (funkcionalita pre správcu, aby mohol v prípade potreby
+kontaktovať redaktora).
+
+3.3.3.2. PVaRV. Porady vedenia:
+
+(funkcionality pre správcu modulu) - Zachovať históriu materiálov,
+aby ich bolo možné v prípade potreby ešte pred poradou zmeniť,
+avšak staršia verzia zostane pre správcu viditeľná,
+
+3.3.3.2. PVaRV. Porady vedenia:
+
+(funkcionality pre správcu modulu) - Závery porady (forma zápisu –
+dokument) budú zverejňované v tomto module a importované
+taktiež na intranetový portál, pod kategóriou „závery z porád
+vedenia“.
+
+3.3.3.2. PVaRV. Porady vedenia:
+
+(funkcionalita pre redaktora modulu) – Vkladanie dokumentov,
+kontrola vložených dokumentov.
+
+4. Prevádzka:
+
+Prevádzkované vo virtuálnom prostredí organizácie.
+
+4. Prevádzka:
+
+Infraštruktúrne riešenie vo virtuálnom prostredí v rámci dátovej sály
+organizácie (požadovaný metamodel v Archimate 2.1/3.0);
+Akceptačné testovanie (systémové, integračné, penetračné
+testovanie).
+
+4. Prevádzka:
+
+Prevádzkovanie na operačnom systéme Microsoft Windows v
+podporovaných verziách. Minimálne Windows server 2012 R2.
+
+4. Prevádzka:
+
+V rámci využívania databázových služieb je požadovaná databáza
+Microsoft SQL Server, minimálne verzia 2014.
+
+4. Systém bude dodaný v dvoch prostrediach ako:
+
+i) Produkčný systém, ii) Testovací systém.
+
+Strana 10 z 13
+
+5. Detailná funkčná špecifikácia:
+
+Detailná funkčná špecifikácia redakčného systému bude
+vypracovaná do 3 mesiacov od účinnosti zmluvy + Grafické
+riešenie; Aplikačné riešenie.
+
+5. Nasadenie systému do produkcie:
+
+Nasadenie funkčného redakčného systému s vyššie popísanými
+funkčnosťami do produkcie – (webový portál a intranet do 12
+mesiacov od účinnosti zmluvy).
+
+5. Migrácia a nastavenia:
+
+Migrácia obsahu z existujúceho webového portálu a intranetu,
+Prvotné nastavenie oprávnení pre administrátora a definovaných
+redaktorov,
+
+5. Testovanie systému:
+
+Testovanie implementovaného riešenia, súlad so štandardami
+ISVS.
+
+5. Príručky, výsledky testovania a zdrojové kódy:
+
+Používateľské a administrátorské príručky, Zdrojové kódy so
+schémou a popisom dátového modelu, Výsledky testovania,
+vyhodnotenie súladu so štandardami ISVS (do 12 mesiacov od
+účinnosti zmluvy).
+
+5. Školenia:
+
+Školenie administrátora a redaktorov sekcií (5 administrátorov, 60
+redaktorov),v rámci budovy organizácie (do 12 mesiacov od
+účinnosti zmluvy,harmonogram školení sa stanoví po dohode
+zmluvných strán).
+
+6. Záruka, odstraňovanie chýb a vád:
+
+Bezplatné odstraňovanie chýb a vád implement. systému počas 24
+mesačnej záručnej doby, ktorá začne plynúť dňom nasledujúcim
+po finálnej akceptácii celého implement. riešenia a nasadenia do
+produkcie.
+
+6. Záruka, odstraňovanie chýb a vád:
+
+Riešenie vád najneskôr nasledujúci pracovný deň od nahlásenia
+vady, v odôvodnených prípadoch v termíne podľa dohody
+zmluvných strán.
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Tieto obchodné podmienky (OP) majú prednosť pred ustanoveniami uvedenými v obchodných podmienkach elektronického
+trhoviska (ďalej len "OPET") v prípade, ak vznikne rozpor medzi OP a OPET. Účelom týchto OP je upresniť a rozšíriť
+podmienky uvedené v OPET v nutnej miere. Práva a povinnosti zmluvných strán sa riadia najmä ustanoveniami OPET
+týkajúcich sa diela, vrátane práv k autorskému dielu a udelenia výhradnej a neobmedzenej licencie.
+Dielom podľa tejto zmluvy sa rozumie dodávka redakčného systému, implementácia intranetového portálu a implementácia
+webového portálu podľa opisu predmetu zákazky a ďalších podmienok a požiadaviek objednávateľa uvedených vyššie.
+Zhotoviteľ sa zaväzuje vyhotoviť dielo v súlade so schválenou detailnou funkčnou špecifikáciou.
+V technickej špecifikácií môžu byť použité pre uľahčenie identifikácie položiek poradové čísla, alebo názvy. Ak je rovnaké
+poradové číslo, alebo názov vo viacerých riadkoch, jedná sa o tú istú položku, ktorej špecifikácia je rozdelená do viacerých
+častí, ktoré spolu súvisia.
+Zhotoviteľ je povinný spĺňať všetky právne a odborné podmienky nevyhnutné na zhotovenie diela, poznať a byť schopný
+preukázať všetky jeho vlastnosti, ktoré sú vyžadované vo funkčnej a technickej špecifikácií predmetu zákazky, a to už v
+momente predloženia ponuky.
+Do 3 pracovných dní od nadobudnutia účinnosti tejto zmluvy, je Zhotoviteľ povinný elektronicky emailom na emailovú adresu
+kontaktnej osoby Objednávateľa doručiť kópie všetkých dokumentov/dokladov/certifikátov, ktoré sú v zákazke vyžadované a
+na žiadosť objednávateľa predložiť ich originály.
+Obidve zmluvné strany určia oprávnené osoby za vecné plnenie tejto zmluvy a ich kontaktné údaje (tel. číslo, fax. číslo,
+e-mailová adresa), ktoré si navzájom oznámia do troch pracovných dní od účinnosti tejto zmluvy. Zhotoviteľ je taktiež povinný
+do troch pracovných dní od nadobudnutia účinnosti zmluvy kontaktnej osobe Objednávateľa písomne oznámiť bankové
+spojenie a číslo účtu, na ktorý mu bude poukázaná platba za plnenie podľa tejto zmluvy.
+Zhotoviteľ predloží Objednávateľovi doklad preukazujúci, že je držiteľom platného certifikátu ISO 27001 alebo iného
+rovnocenného certifikátu systému riadenia informačnej bezpečnosti v organizácii, vydaného príslušným orgánom členského
+štátu alebo iných dôkazov o rovnocenných opatreniach v oblasti systému riadenia informačnej bezpečnosti v organizácii.
+Zhotoviteľ predloží Objednávateľovi doklad preukazujúci, že je držiteľom platného certifikátu ISO 9001 alebo iného
+rovnocenného certifikátu systému manažérstva kvality v organizácii, vydaného príslušným orgánom členského štátu alebo
+iných dôkazov o rovnocenných opatreniach v oblasti systému manažérstva kvality v organizácii.
+Dielo podľa tejto Zmluvy bude odovzdávané po samostatných častiach na základe harmonogramu, ktorý bude vychádzať zo
+špecifikácie zmluvy a ktorý bude odsúhlasený oboma Zmluvnými stranami do 30 dní od účinnosti zmluvy. Zhotoviteľ vystaví
+faktúru do 10 dní od akceptácie príslušného čiastkového plnenia, ktorého akceptáciu potvrdia Zmluvné strany podpisom
+Akceptačného protokolu, ktorý bude súčasťou faktúry.
+
+Strana 11 z 13
+
+Zhotoviteľ pri odovzdaní diela do produkčnej prevádzky prostredníctvom Finálneho preberacieho/odovzdávacieho protokolu je
+povinný odovzdať objednávateľovi aj najaktuálnejšiu verziu komentovaných zdrojových kódov a dátového modelu diela, na
+ktoré sa vzťahuje licencia.
+Objednávateľ bude oprávnený použiť bez akéhokoľvek časového a vecného obmedzenia tento zdrojový kód a príslušný
+dátový model diela (vrátane možnosti ich dekompilácie a akýchkoľvek iných spôsobov úpravy).
+V prípade, že zhotoviteľ bude v omeškaní s dokončením a odovzdaním diela alebo jeho časti, má objednávateľ právo uplatniť
+zmluvnú pokutu vo výške 0,1% z ceny diela alebo jeho príslušnej časti za každý aj začatý deň omeškania.
+Ak zhotoviteľ nezačne s odstraňovaním chýb/vád diela alebo jeho časti nasledujúci pracovný deň po ich oznámení
+Objednávateľom, alebo v začatom odstraňovaní chýb/vád nepokračuje, alebo chyby/vady neodstráni v lehote určenej
+Objednávateľom, je zhotoviteľ povinný zaplatiť zmluvnú pokutu vo výške 50,- € za každú jednotlivú chybu/vadu a za každý deň
+omeškania.
+V prípade, že dielo alebo jeho časť vykazuje opakovane tie isté chyby/vady, o ktorých bude Objednávateľ písomne informovať
+Dodávateľa, má objednávateľ právo uplatniť a zhotoviteľ povinnosť zaplatiť zmluvnú pokutu vo výške dvojnásobku zmluvnej
+pokuty za odstránenie chyby/vady, t.j. 100,- € za každú takúto chybu/vadu.
+Objednávateľ je v zmysle OPET oprávnený od zmluvy odstúpiť, ak v momente uzavretia zmluvy nemá dodávateľ v registri
+partnerov verejného sektora zapísaných konečných užívateľov výhod a k zápisu do tohto registra nedôjde ani do 30 dní od
+momentu uzavretia zmluvy.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+Obec:
+Ulica:
+3.2
+
+Štefanovičova 5
+
+Čas / lehota plnenia zmluvy:
+28.08.2017 00:00:00 - 27.08.2018 23:59:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+služba
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 89 900,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 107 880,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+Strana 12 z 13
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 24.08.2017 10:03:01
+Objednávateľ:
+Ministerstvo financií Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+InterWay, a. s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 13 z 13
+
+

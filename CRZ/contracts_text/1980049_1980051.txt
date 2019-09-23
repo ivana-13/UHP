@@ -1,0 +1,2256 @@
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+ZMLUVA O MODERNIZÁCII INTEGROVANÉHO SYSTÉMU SLUŽIEB CVTI SR
+uzavretá podľa § 536 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+a
+licenčná zmluva
+uzavretá podľa § 39, § 40 a nasl. zákona č. 618/2003 Z.z.
+o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších
+predpisov
+Objednávateľ a nadobúdateľ
+licencie (ďalej len Objednávateľ):
+obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+v mene ktorého koná:
+bankové spojenie:
+právna forma:
+
+Centrum vedecko-technických informácií SR
+Lamačská cesta 8/A, 81104 Bratislava
+00 151 882
+2020798395
+SK 2020798395
+prof. RNDr. Ján Turňa, CSc., generálny riaditeľ
+Štátna pokladnica, č. ú. 7000064743/8180
+príspevková organizácia
+
+Dodávateľ a poskytovateľ licencie
+(ďalej len Dodávateľ):
+obchodné meno:
+Sídlo:
+právna forma:
+IČO:
+DIČ:
+IČ DPH:
+zapísaný v registri:
+
+InterWay, a.s.
+Stará Vajnorská 21, 831 04 Bratislava
+Akciová spoločnosť
+35 728 531
+2020268294
+SK2020268294
+03.04.2015, Obchodný register Okresného súdu Bratislava I,
+Oddiel: Sa, Vložka č. 6123/B
+v mene ktorého koná: Ing. Petr Weber, prokurista
+bankové spojenie:
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+1/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+uzatvárajú túto
+zmluvu o dielo
+podľa § 536 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+a
+licenčnú zmluvu
+uzavretú podľa § 39, § 40 a nasl. zákona č. 618/2003 Z.z.
+o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších
+predpisov
+(ďalej len „Zmluva“)
+Článok 1
+Základné ustanovenia
+1.1 Zmluva sa uzatvára na základe výsledku priameho rokovacieho konania uskutočneného
+v súlade s § 58 písm. b) zák. č. 25/2006 Z. z. o verejnom obstarávaní v znení neskorších
+predpisov.
+1.2 Zmluva sa uzatvára pre účely realizácie národného projektu „Národná infraštruktúra pre
+podporu transferu technológií na Slovensku – NITT SK“ v rámci projektu financovaného
+z Európskeho fondu pre obnovu a rozvoj (ďalej ERDF), v rámci Operačného programu
+Výskum a vývoj, ITMS pre cieľ Konvergencia č. 26220220095 a ITMS pre cieľ RKZ č.
+26240220043.
+1.3 Predmetom zmluvy je záväzok Dodávateľa realizovať technologickú modernizáciu
+existujúceho Integrovaného systému služieb Centra vedecko – technických informácií
+Slovenskej republiky (ďalej len „ISS CVTI SR“) a jeho rozšírenie o integračné rozhranie
+Enterpise Service Bus (ďalej len „ESB“), ďalšie nadstavbové moduly a integrácia vybraných
+systémov prevádzkovaných objednávateľom do systému ISS CVTI SR prostredníctvom ESB
+v rozsahu a spôsobom stanovených v zmluve.
+1.4 Dodávateľ je autorom a výhradným dodávateľom ISS CVTI SR, ktorého technologická
+modernizácia sa má realizovať na základe tejto zmluvy.
+Článok 2
+Predmet zmluvy
+2.1 Predmetom tejto zmluvy je:
+a) záväzok Dodávateľa vykonať pre Objednávateľa dielo – technologická modernizácia
+existujúceho Integrovaného systému služieb Centra vedecko-technických informácií
+SR (ďalej len „ISS CVTI SR“) a jeho rozšírenie o integračné rozhranie Enterpise Service
+Bus (ďalej len „ESB“), ďalšie nadstavbové moduly a integrácia vybraných systémov
+prevádzkovaných objednávateľom do systému ISS CVTI SR prostredníctvom ESB podľa špecifikácie, ktorá tvorí prílohu tejto zmluvy.
+b) záväzok Dodávateľa poskytnúť ďalšie plnenia podľa tejto zmluvy.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+2/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+2.2 Dodávateľ sa zaväzuje vykonať pre Objednávateľa dielo – technologická modernizácia
+existujúceho ISS CVTI SR a jeho rozšírenie o integračné rozhranie ESB, ďalšie nadstavbové
+moduly a integrácia vybraných systémov prevádzkovaných objednávateľom do systému
+ISS CVTI SR prostredníctvom ESB (ďalej len „dielo“) podľa špecifikácie uvedenej v Prílohe
+č. 1 tejto zmluvy a objednávateľ sa zaväzuje za vykonané dielo zaplatiť cenu uvedenú
+v článku 8 tejto zmluvy.
+2.3 Súčasťou predmetu plnenia zmluvy Dodávateľom je:
+a) na základe špecifikácií uvedených v Prílohe č. 1 vypracovať aktualizáciu Detailnej
+funkčnej špecifikácie pre ISS CVTI SR( ďalej len „DFŠ“),
+b) na základe Objednávateľom schválenej DFŠ vykonať dielo podľa tohto článku,
+c) dodať dokumentáciu a aktualizované zdrojové kódy vytvorené Dodávateľom
+pri plnení predmetu tejto zmluvy podľa čl. 7 tejto zmluvy,
+d) vykonať školenia podľa čl. 7 tejto zmluvy,
+e) poskytnúť licencie na používanie diela podľa čl.9 tejto zmluvy,
+f) poskytnúť podporu a údržbu systému podľa čl.10 tejto zmluvy.
+Článok 3
+Spôsob a termín plnenia zmluvy a súčinnosť Objednávateľa
+3.1 Dodávateľ vytvorí a dodá Objednávateľovi návrh DFŠ podľa čl. 2 ods. 2.3 písm. a)
+najneskoršie do 30 kalendárnych dní od účinnosti zmluvy, ak sa zmluvné strany
+nedohodnú inak.
+3.2 DFŠ musí zodpovedať špecifikáciám uvedeným v Prílohe č.1 tejto zmluvy a musí byť
+schválená Objednávateľom (protokol o schválení DFŠ).
+3.3 Dodávateľ sa zaväzuje spolupracovať na DFŠ s Objednávateľom a pravidelne zasielať
+aktuálnu verziu návrhu DFŠ Objednávateľovi na pripomienkovanie – aspoň 1 raz do týždňa
+a zapracovať pripomienky Objednávateľa do DFŠ.
+3.4 Dodávateľ sa zaväzuje dodať prvú verziu DFŠ na pripomienkovanie Objednávateľovi do 10
+kalendárnych dní od účinnosti zmluvy, ak sa zmluvné strany nedohodnú inak.
+3.5 Ak Dodávateľom predložená DFŠ bude zodpovedať špecifikácii uvedenej v Prílohe č. 1,
+Objednávateľ protokolárne potvrdí Dodávateľovi schválenie návrhu DFŠ a to najneskôr
+do 7 kalendárnych dní od jeho predloženia. Ak v tejto lehote Objednávateľ písomne
+oznámi Dodávateľovi námietky k DFŠ, tak Dodávateľ najneskôr do 10 kalendárnych dní
+od oznámenia námietok predloží Objednávateľovi upravenú DFŠ. Tento postup sa uplatní
+až do schválenia DFŠ Objednávateľom.
+3.6 Dodávateľ vykoná dielo a poskytne ďalšie plnenia v zmysle čl.2 bod 2.3 do 60
+kalendárnych dní od schválenia DFŠ Objednávateľom, najneskôr do 30.09.2015.
+3.7 Vykonanie diela zahŕňa:
+a) Testovaciu fázu
+i) táto sa bude vykonávať od oznámenia spustenia testovacej fázy po dobu 21
+kalendárnych dní, ak sa zmluvné strany nedohodnú inak,
+ii) ukončenie testovacej fázy oznámi Objednávateľ Dodávateľovi písomne, pričom o jej
+ukončení bude vyhotovený a podpísaný protokol podpísaný oprávnenými osobami
+Objednávateľa a Dodávateľa.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+3/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+b) Pilotnú fázu
+i) táto sa bude vykonávať po dobu 28 kalendárnych dní od podpísania preberacieho
+protokolu v priestoroch určených Objednávateľom, ak sa zmluvné strany
+nedohodnú inak, na technických zariadeniach a základnom softvérovom vybavení
+Objednávateľa. Ak sa pri záverečnom testovaní v tejto fáze nevyskytnú chyby, alebo
+sa pri ňom vyskytnú iba také chyby, ktoré nebudú znemožňovať riadne používanie
+diela (incidenty kategórie C podľa Prílohy č.1, časť C, odsek 2.3), vytvorí sa o nich
+zápis a záverečné testovanie tejto fázy sa bude považovať za úspešné. Poverené
+osoby zároveň dojednajú primeranú lehotu na odstránenie zistených nedostatkov
+a/alebo chýb, túto lehotu uvedú v protokole k ukončeniu tejto fázy. Po ukončení
+tejto fázy sa uskutoční ostrá prevádzka,
+ii) o prechode z pilotnej do ostrej prevádzky sa vyhotoví odovzdávací/preberací
+protokol podpísaný oprávnenými osobami Objednávateľa a Dodávateľa,
+iii) Objednávateľ je povinný zúčastniť sa na odovzdaní diela do ostrej prevádzky,
+na ktoré bude Dodávateľom pozvaný najmenej 5 pracovných dní pred termínom
+odovzdania diela do ostrej prevádzky.
+3.8 Školenia vykoná Dodávateľ v súlade s čl. 7 tejto zmluvy.
+3.9 Miestom prevzatia diela a ďalších plnení podľa tejto zmluvy je sídlo Objednávateľa.
+3.10 Dodávateľ nebude v omeškaní, ak záväzok na plnenia alebo činnosti podľa tejto zmluvy
+alebo DFŠ nemohol riadne a včas splniť pre okolnosti, ktoré po uzavretí tejto zmluvy
+vznikli v dôsledku ním nepredvídateľných a neodvrátiteľných skutočností mimoriadnej
+povahy (vyššia moc). Dodávateľ nebude v omeškaní, ak záväzok na plnenia alebo činnosti
+podľa tejto zmluvy alebo DFŠ nemohol riadne a včas splniť pre nedodržanie súčinnosti
+Objednávateľa, príp. ak Objednávateľ nedodrží termíny stanovené pre výkon súčinnosti –
+lehoty pre plnenia/činnosti Dodávateľa podľa tejto zmluvy a podľa DFŠ. Objednávateľ sa
+zaväzuje, že pre riadne plnenie záväzkov Dodávateľa vyplývajúcich z tejto zmluvy poskytne
+Dodávateľovi bezodplatne potrebnú súčinnosť, a to najmä tým, že:
+a) oznámi Dodávateľovi schválenie DFŠ (protokol o schválení DFŠ) a/alebo písomne
+oznámi Dodávateľovi námietky k nesúladu návrhu DFŠ so špecifikáciami uvedenými
+v Prílohe č. 1,
+b) zabezpečí účasť príslušných zamestnancov Objednávateľa na tých častiach
+vyhotovenia diela, kde je nevyhnutná súčinnosť Objednávateľa s Dodávateľom.
+c) Dodávateľovi včas poskytne IKT infraštruktúru podľa špecifikácie schválenej DFŠ.
+
+Článok 4
+Poverené osoby
+4.1 Poverenou osobou za Objednávateľa bude Mgr. Juraj Noge:
+Poverená osoba za Objednávateľa bude oprávnená na to, aby za Objednávateľa:
+a)
+b)
+c)
+d)
+
+schválila DFŠ diela podľa čl. 2 ods. 2.3 písm. a),
+zabezpečovala potrebnú súčinnosť Objednávateľa,
+zabezpečila prevzatie diela podľa čl. 6 a podpísanie príslušných dokumentov,
+odsúhlasila Dodávateľovi na jeho písomné požiadanie zmenu lehôt uvedených
+v bodoch 3.1, 3.4 a 3.7 tejto zmluvy.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+4/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+4.2 Poverenou osobou za Dodávateľa bude Ing. Miroslava Gajdošová.
+Poverená osoba za Dodávateľa bude oprávnená na to, aby za Dodávateľa:
+a) odovzdala DFŠ diela podľa čl. 2 ods. 2.3 písm. a),
+b) zabezpečovala potrebnú súčinnosť Dodávateľa,
+c) odovzdala dielo podľa čl. 6 a podpísala za Dodávateľa o tom príslušné dokumenty,
+d) odsúhlasila zmenu lehôt uvedených v bodoch 3.1, 3.4 a 3.7 tejto zmluvy.
+4.3 Zmluvné strany môžu zmeniť nimi určené poverené osoby. Zmena je účinná odo dňa jej
+písomného oznámenia druhej zmluvnej strane.
+Článok 5
+Výmena informácií medzi zmluvnými stranami
+5.1 V záujme napĺňania predmetu zmluvy s rešpektovaním potrieb zmluvných strán, ich
+očakávaní, priorít a zodpovedností si zmluvné strany vymieňajú / poskytujú informácie
+na základe ustanovených záväzných procesov komunikácie uvedených v ods. 5.2.
+5.2 Vzájomná výmena informácií, resp. ich poskytovanie medzi Objednávateľom a
+Dodávateľom sa riadi týmito pravidlami:
+a) informácie si vymieňajú / poskytujú poverené osoby zmluvných strán ustanovené
+zmluvnými stranami uvedené v čl. 4,
+b) informácie sa zásadne vymieňajú e-mailom na adrese juraj.noge@cvtisr.sk;
+mirka.gajdosova@interway.sk alebo písomne – poštou na adresu uvedenú pri
+označení zmluvných strán,
+c) informácie si po dohode strán môžu vymieňať aj iné osoby a to len s vedomím
+poverených osôb, alebo osoby, na ktoré bolo prenesené poverenie (s kópiou
+na poverené osoby).
+Článok 6
+Odovzdanie diela
+6.1 Návrh DFŠ - podľa čl. 2 ods. 2.3 písm. a) odovzdá Dodávateľ Objednávateľovi 1x
+v papierovej podobe a 1x elektronicky – emailom.
+6.2 Východiskovým dokumentom pre vykonanie diela je schválená DFŠ (bod 3.2).
+6.3 O vykonaní školení (čl. 7) bude vyhotovený protokol.
+6.4 Dodávka predmetu zákazky sa bude považovať za kompletnú, ak:
+a) bude dielo zodpovedať špecifikácii uvedenej v Prílohe č. 1 a DFŠ,
+b) bude dielo úspešne otestované v pilotnej prevádzke,
+c) bude dodaná kompletná aktualizovaná dokumentácia podľa špecifikácie v Prílohe č.1
+a aktualizované zdrojové kódy na dátovom nosiči vytvorené Dodávateľom pri plnení
+predmetu tejto zmluvy podľa čl. 7 tejto zmluvy,
+d) budú vykonané školenia podľa čl. 7 tejto zmluvy,
+6.5 Predmet zmluvy sa považuje za splnený ak poverené osoby obidvoch zmluvných strán
+podpíšu odovzdávací/preberací protokol o prechode do ostrej prevádzky, prílohou
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+5/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+ktorého budú všetky odovzdávacie/preberacie protokoly, ktoré majú byť podpísané
+v zmysle tejto zmluvy.
+Článok 7
+Dokumentácia a školenia
+7.1 Dodávateľ dodá pred odovzdaním diela podľa čl. 6 dokumentáciu podrobne popisujúcu
+funkcionalitu diela v elektronickej a papierovej podobe (ďalej len „dokumentácia“):
+a) používateľ – pracovník CVTI SR
+(1x v papierovej podobe a 1x v elektronickej podobe),
+b) používateľ – pracovník akademickej alebo vedecko-výskumnej inštitúcie
+(1x v papierovej podobe a 1x v elektronickej podobe),
+c) administrátor - pracovník CVTI SR
+(1x v papierovej a 1x v elektronickej podobe)
+d) integračný manuál – detailne popisujúci postupy pre integráciu vybraných typov
+systémov a aplikácií do ISS CVTI SR
+(1x v papierovej podobe a 1x v elektronickej podobe).
+7.2 Dokumentácia podlieha pripomienkovaniu a schváleniu Objednávateľom ešte pred jej
+dodaním. Dokumentácia sa pokladá za schválenú a dodanú až po
+podpísaní
+odovzdávacieho/preberacieho protokolu Objednávateľom.
+7.3 Školenia v rozsahu maximálne 10 zamestnancov Objednávateľa prebehnú počas pilotnej
+prevádzky diela alebo v termínoch určených na základe dohody poverených osôb.
+Školenia budú v prípade potreby rozdelené do menších časových celkov s maximálnou
+dĺžkou školenia 3 – 4 hodiny v jeden deň. O vykonaní školenia bude vyhotovený
+a podpísaný protokol.
+Dodávateľ zaškolí zamestnancov Objednávateľa v nasledovných školeniach:
+a) administrácia systému a adaptérov,
+b) správa aplikačného servera a workflow,
+c) správa identít a profilov služieb (portletov),
+d) školenie používateľov .
+Článok 8
+Cena a spôsob jej vyplatenia
+8.1 Cena za dodanie predmetu zmluvy v rozsahu uvedenom v čl. 2 tejto zmluvy je stanovená
+dohodou zmluvných strán v zmysle § 3 zákona NR SR č. 18/1998 Z.z. o cenách v znení
+neskorších predpisov ako cena pevná. Cena za predmet zmluvy pozostáva z celkovej ceny
+za dodanie diela a z celkovej ceny za poskytnutie rozšírenej technickej podpory a údržby.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+6/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+1.
+2.
+
+Predmet ceny
+Celková cena za dodanie diela*
+Celková cena za poskytnutie rozšírenej
+technickej podpory a údržby
+
+s DPH
+122 275,20 €
+22 560,00 €
+
+bez DPH
+101 896,00 €
+18 800,00 €
+
+Celková cena je 144 835,20 € s DPH. Cena bez DPH je 120 696,00 €.
+*Cena zahŕňa všetky plnenia poskytnuté na základe tejto zmluvy okrem plnení uvedených
+v tabuľke pod poradovým číslom 2.
+8.2 Dodávateľ a Objednávateľ sa dohodli, že cena podľa článku 8.1 v EUR
+bez DPH je konečná. Dodávateľ si do ceny podľa článku 8.1 započítal všetky náklady
+spojené s dodaním predmetu tejto zmluvy.
+8.3 Právo fakturovať cenu predmetu zmluvy vzniká Dodávateľovi
+po
+podpise
+odovzdávacieho/preberacieho protokolu o odovzdaní diela do ostrej prevádzky.
+8.4 Splatnosť faktúry Objednávateľom je do 60 dní od jej doručenia Objednávateľovi. Faktúry
+budú obsahovať minimálne: obchodné meno a sídlo, IČO, DIČ Dodávateľa, meno, sídlo,
+IČO, DIČ Objednávateľa, číslo zmluvy, číslo faktúry, deň odoslania a deň splatnosti faktúry,
+označenie finančného ústavu a číslo účtu, na ktorý má byť platba poukázaná, názov
+a množstvo tovaru, výšku ceny bez dane, sadzbu dane, fakturovanú sumu celkom vrátane
+DPH, názov projektu, ITMS kódy, podpis oprávnenej osoby.
+8.5 V prípade, že faktúra nebude obsahovať náležitosti podľa ods. 8.4, Objednávateľ je
+oprávnený vrátiť faktúru Dodávateľovi na opravu. V takom prípade sa preruší plynutie
+lehoty splatnosti a nová lehota začne plynúť doručením opravenej faktúry
+Objednávateľovi.
+8.6 Objednávateľ neposkytne Dodávateľovi zálohu na plnenie predmetu zmluvy alebo jeho
+časti.
+Článok 9
+Licencie
+9.1 Pokiaľ je súčasťou plnenia podľa tejto zmluvy autorské dielo chránené ako predmet
+duševného vlastníctva v zmysle ustanovenia § 7 zákona č. 618/2003 Z. z. o autorskom
+práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších
+predpisov (ďalej len „autorský zákon“), Dodávateľ poskytuje v súlade s ustanovením § 40
+a nasl. autorského zákona objednávateľovi licenciu na používanie diela v súlade s
+účelom podľa tejto Zmluvy (ďalej len „licencia“). Licencia udelená podľa tohto bodu je
+výhradná, časovo, územne neobmedzená a pre neobmedzený počet používateľov.
+Objednávateľ má oprávnenie udeľovať sublicencie tretím osobám.
+9.2 Na základe poskytnutnutej licencie bude mať Objednávateľ oprávnenie na:
+a) používanie diela,
+b) neobmedzené vyhotovovanie rozmnožením diela pre svoje interné potreby,
+c) zdrojové kódy vzniknuté pri plnení predmetu diela meniť, nahrádzať, prípadne inými
+spôsobmi s nimi manipulovať iba s písomným súhlasom Dodávateľa,
+d) grafickú úpravu diela meniť, nahrádzať, prípadne inými spôsobmi manipulovať a to
+neobmedzene podľa vlastného uváženia,
+e) neobmedzené kopírovanie diela pre účely jeho inštalácie a používania.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+7/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+9.3 Oprávnenia
+z licencie
+k vytvorenému
+dielu
+vzniknú
+dňom
+podpisu
+odovzdávacieho/preberacieho protokolu o odovzdaní diela
+do ostrej prevádzky.
+Dodávateľ poskytuje licenciu za odmenu, ktorá je zahrnutá v celkovej cene za dodanie
+diela (čl. 8 ods. 1).
+9.4 Dokumentáciu dodanú Dodávateľom bude Objednávateľ oprávnený používať spôsobom
+vyplývajúcim z účelu, na ktorý bola vytvorená.
+9.5 Ak výsledok poskytovania služieb podľa Prílohy č. 1, časti C je dielo chránené podľa § 7
+autorského zákona, Dodávateľ týmto udeľuje súhlas na jeho použitie Objednávateľom
+v rozsahu podľa čl.9 ods. 2.
+9.6 Dodávateľ vyhlasuje, že:
+a)
+
+Dielo nebude zaťažené právom tretej osoby a bude bez právnych vád. V prípade
+zistenia právnych vád je Dodávateľ povinný bezodkladne upraviť dielo tak, aby
+nenarušovalo práva tretích osôb inak zodpovedá za škodu týmto vzniknutú
+Objednávateľovi,
+
+b)
+
+ak pri realizácii diela použije materiály, práce a/alebo dokumentáciu, ktoré sú
+chránené autorskými alebo inými právami, tieto riadne vysporiada najneskôr dňom
+podpisu odovzdávacieho/preberacieho protokolu o odovzdaní diela do ostrej
+prevádzky.
+
+9.7 Dodávateľ sa zaväzuje, ak sa preukáže nepravdivé vyhlásenie podľa predchádzajúceho
+odseku, z takéhoto dôvodu nahradiť Objednávateľovi akúkoľvek škodu, ktorá
+Objednávateľovi vznikne v dôsledku nepravdivého vyhlásenia a uplatnených nárokov
+tretích osôb, a to v plnej výške a bez akéhokoľvek obmedzenia.
+9.8 Dodávateľ sa zaväzuje poskytnúť Objednávateľovi akúkoľvek a všetku účinnú pomoc a
+uhradiť akékoľvek a všetky náklady a výdavky, ktoré vznikli/vzniknú Objednávateľovi
+v súvislosti s uplatnením nárokov tretej osoby.
+9.9 Objednávateľ
+sa zaväzuje neodkladne informovať Dodávateľa o každom nároku
+vznesenom treťou osobou.
+Článok 10
+Rozšírená technické podpora a údržba systému
+10.1 Počas prvých 24 mesiacov ostrej prevádzky modernizovaného systému bude Dodávateľ
+poskytovať rozšírenú technickú podporu a údržbu na súčasti vytvorené a upravené podľa
+tejto zmluvypodľa aktualizovaného Plánu údržby ISS CVTI SR vypracovaného podľa
+požiadaviek Prílohy č. 1, časť C ( ďalej len „SLA“). Po uplynutí doby pre podporu a údržbu
+pôvodného systému ISS CVTI SR t.j. po 10.3.2017 bude Dodávateľ poskytovať rozšírenú
+technickú podporu a údržbu aj pre pôvodný systém ISS CVTI SR, a to počas doby
+poskytovania rozšírenej technickej podpory a údržby modernizovaného systému ISS CVTI
+SRpodľa aktualizovaného Plánu údržby ISS CVTI SR.
+10.2 SLA stanovuje Predmet plnenia - popis a charakteristiku služieb, špecifikáciu
+podporovaného systému a popis služieb údržby a podpory. Definuje kategórie incidentov
+a požiadaviek a ich doby riešenia. Zaväzuje Dodávateľa prevádzkovať Helpdesk II. úrovne
+pre ISS CVTI SR, na ktorý sa môžu pracovníci Objednávateľa obracať prostredníctvom:
+
+a) telefónej linky:
+b) e-mailovej adresy:
+
++421 2 3278 8888
+cvti-iss@interway.sk
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+8/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+c)
+
+webovej aplikácie pre evidenciu incidentov: Bug tracking system – Dodávateľ
+poskytne pred plnením zmluvy prístup Objednávateľovi
+10.3 Detailný popis úkonov údržby, ich obsah, role, frekvencia a výstupy bude uvedený a
+popísaný v aktualizovanom Pláne údržby ISS CVTI SR, ktorý je Dodávateľ povinný
+vypracovať a predložiť najneskôr do 20 pracovných dní odo dňa podpisu
+odovzdávacieho/preberacieho protokolu o odovzdaní diela do ostrej prevádzky
+s detailným popisom spôsobu vykonávania údržby ISS CVTI SR. Plán údržby podlieha
+schváleniu poverenou osobou Objednávateľa .
+Článok 11
+Záruky
+11.1 Zmluvné strany sa budú riadiť ustanoveniami § 560 a nasl. Obchodného zákonníka, ktoré
+upravujú nároky zo zodpovednosti za vady.
+11.2 Prípadné chyby plnenia predmetu zmluvy alebo jeho častí bude Objednávateľ reklamovať
+písomne u Dodávateľa ihneď po zistení vady.
+11.3 Dodávateľ zodpovedá za kvalitu a akosť predmetu zmluvy, resp. jeho častí v súlade
+s platnými STN, so zákonom č. 275/2006 Z.z. o informačných systémoch verejnej správy
+v znení neskorších predpisov, ako aj inými platnými právnymi predpismi. Dodávateľ
+poskytuje v tomto smere záruku počas celej doby trvania zmluvného vzťahu a záručnej
+doby podľa ods. 11.4.
+11.4 Záručná doba plynie od podpísania odovzdávacieho/preberacieho protokolu do ostrej
+prevádzky a trvá 24 mesiacov.
+11.5 V prípade, že sa v záručnej dobe prejaví porucha na predmete zmluvy, Dodávateľ vykoná
+servisný zásah podľa čl. 10. Záručná doba neplynie po dobu, počas ktorej Objednávateľ
+nemôže užívať predmet zmluvy pre jeho chyby, za ktoré zodpovedá Dodávateľ.
+11.6 V prípade, že sa počas záručnej prevádzky zistia chyby, resp. dodatočne chýbajúca
+funkcionalita v zmysle Prílohy č. 1 a na ich základe vypracovanej DFŠ, Objednávateľ riadne
+zadokumentované chyby alebo chýbajúce funkčnosti (napr. popísané pomocou
+screenshot alebo slovného opisu) odovzdá Dodávateľovi, ktorý je ich povinný bezodkladne
+odstrániť alebo sprevádzkovať chýbajúcu funkcionalitu.
+11.7 Dodávateľ poskytuje záruku za správnu, spoľahlivú a bezpečnú prevádzku
+prevádzkovaného, udržovaného a inovovaného ISS CVTI SR pri rešpektovaní všetkých
+funkčných a nefunkčných požiadaviek a kvalitatívnych kritérií stanovených v zmluve a jej
+prípadných dodatkoch.
+11.8 Dodávateľ nie je zodpovedný za prípadné vady, ak sa preukáže, že boli spôsobené v
+dôsledku používania ISS CVTI SR, ktoré je v rozpore s určením a podmienkami
+stanovenými v zmluve a jej prípadných dodatkoch a súvisiacej projektovej dokumentácie a
+dokumentácie súvisiacej s prevádzkou, údržbou a rozvojom ISS CVTI SR.
+11.9 V prípade, že Dodávateľ nebude schopný vadu úplne alebo z časti odstrániť, je
+Objednávateľ oprávnený požadovať primerané zníženie ceny stanovenej v zmluve alebo
+primeranú kompenzáciu, alebo je oprávnený od zmluvy odstúpiť.
+Článok 12
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+9/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Zmluvné pokuty
+12.1 Objednávateľ je oprávnený účtovať Dodávateľovi zmluvnú pokutu vo výške 0,05% z ceny
+predmetu zmluvy za každý kalendárny deň, ktorý je v omeškaní s odovzdaním
+Objednávateľovi.
+12.2 Dodávateľ je oprávnený účtovať Objednávateľovi zmluvnú pokutu vo výške 0,05%
+za každý deň omeškania s úhradou oprávnene vystavenej faktúry. Oprávnenosť vystavenia
+faktúry Dodávateľom sa posudzuje vzhľadom na obsah čl. 6 a čl. 8 zmluvy.
+12.3 V prípade, že Dodávateľ v súlade s Prílohou č. 1, časť C plne nezaistí správnu, spoľahlivú a
+bezpečnú prevádzku ISS CVTI SR, je Objednávateľ oprávnený uplatniť voči Dodávateľovi
+náhradu škody, ktorá vznikne nedodržaním podmienok tejto zmluvy.
+Článok 13
+Ochrana dôverných informácií
+13.1 Obidve zmluvné strany týmto prehlasujú, že všetky informácie, ktoré od seba navzájom
+získajú, budú použité výhradne pre potreby plnenia predmetu tejto zmluvy a považujú sa
+za dôverné v zmysle § 17 Obchodného zákonníka. Obidve zmluvné strany sú povinné
+dodržovať pred treťou stranou mlčanlivosť o všetkých skutočnostiach a informáciách,
+ktoré nadobudli v súvislosti s predmetom plnenia tejto zmluvy v priebehu platnosti tejto
+zmluvy ako aj po skončení jej platnosti. Tieto informácie nebudú poskytnuté v žiadnej
+forme tretím stranám, pokiaľ nedôjde k písomnej dohode, ktorá by zaobchádzanie
+s týmito informáciami upravila iným spôsobom.
+13.2 Zmluvné strany sa zaväzujú považovať za dôverné v zmysle § 17 Obchodného zákonníka
+tiež všetky neverejné informácie získané ústnym podaním a zachovávať mlčanlivosť
+o týchto informáciách aj po ukončení zmluvného vzťahu.
+Článok 14
+Odstúpenie od zmluvy
+14.1 Odstúpiť od zmluvy je možné v zmysle príslušných ustanovení zák. č. 513/1991 Zb.
+Obchodný zákonník v znení neskorších predpisov.
+14.2 Objednávateľ je oprávnený odstúpiť aj z nasledujúcich dôvodov:
+a) ak sa Dodávateľ pre okolnosti alebo dôvody na jeho strane dostane do omeškania
+svykonaním diela,
+b) ak Zhotoviteľ vykonáva dielo v rozpore s podmienkami dohodnutými v tejto
+Zmluve vrátane jej príloh, všeobecne záväznými právnymi predpismi,
+usmerneniami ako aj s pokynmi Objednávateľa a tieto nedostatky Diela neodstráni
+riadne a včas v súlade s podmienkami dohodnutými v tejto Zmluve
+c) omeškania Dodávateľa s plnením jeho záväzkov podľa bodu 3.6 , 3.7 písm. a) body i,
+ii.
+14.3 Odstúpenie je účinné dňom doručenia druhej zmluvnej strany, týmto dňom zanikajú
+všetky práva a povinnosti zmluvných strán vyplývajúce z tejto zmluvy, okrem nárokov
+na náhradu škody, nárokov na zmluvné alebo zákonné.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+10/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Článok 15
+Ostatné ustanovenia
+15.1 Dodávateľ je povinný strpieť výkon kontroly a poskytnúť súčinnosť pri výkone kontroly
+orgánu oprávnenému vykonávať kontrolu podľa § 6 a § 10 zákona č. 528/2008 o pomoci a
+podpore poskytovanej z fondov Európskeho spoločenstva v znení neskorších predpisov a
+podľa článku 59 a nasl. nariadenia Rady (ES) 1083/2006 resp. subjektom a osobám
+povereným oprávnenými orgánmi podľa § 6 a § 10 zákona č. 528/2008 a podľa článku 59 a
+nasl. nariadenia Rady (ES) 1083/2006 na výkon kontroly. Za strpenie výkonu kontroly a
+poskytnutie súčinnosti pri výkone kontroly neprináleží Dodávateľovi žiadna odmena,
+náhrada ani iné plnenie. Dodávateľ je povinný predovšetkým oznámiť nákladovú štruktúru
+plnenia zákazky na základe požiadavky objednávateľa alebo oprávneného orgánu a nimi
+poverených subjektov a osôb, dodať podpornú dokumentáciu účtovného a iného
+charakteru za účelom doloženia požadovaných podkladov pre výkon kontroly podľa tohto
+bodu zmluvy. Za účelom preventívneho riešenia problémov spojených s preukazovaním
+realizácie tejto zákazky je oprávnený požadovať tieto podklady aj Objednávateľ.
+Nestrpenie kontroly, neposkytnutie súčinnosti a nedodanie požadovaných podkladov
+zo strany Dodávateľa sa bude považovať za závažné porušenie tejto zmluvy. V prípade
+vzniku škody v dôsledku nestrpenia kontroly, neposkytnutia súčinnosti a nedodania
+požadovaných podkladov zo strany Dodávateľa, je povinný Dodávateľ túto škodu nahradiť
+v plnej miere. Povinnosť strpieť kontrolu sa ustanovuje po dobu upravenú všeobecne
+záväznými pravidlami pre implementáciu projektov zo štrukturálnych fondov EÚ
+v programovom období 2007-2013 do 31. augusta 2020, resp. po dobu upravenú
+vo všeobecne záväzných predpisoch pre implementáciu projektov zo štrukturálnych
+fondov EÚ v programovom období 2007-2013.
+15.2 Ak sa zistí, že niektoré z ustanovení tejto zmluvy je neplatné alebo neúčinné, neplatnosť
+alebo neúčinnosť ustanovenia nebude mať za následok neplatnosť alebo neúčinnosť
+ďalších ustanovení zmluvy, ani samotnej zmluvy. Zmluvné strany sa zaväzujú, že neplatné
+alebo neúčinné ustanovenie bez zbytočného odkladu nahradia tak, aby bol v čo najväčšom
+možnom rozsahu dosiahnutý účel, ktorý v čase uzavretia tejto zmluvy sledovali neplatným
+alebo neúčinným ustanovením. Obdobne budú zmluvné strany postupovať aj v prípade,
+ak sa zistí, že niektoré z ustanovení tejto zmluvy je nevykonateľné.
+15.3 Zmluvné strany sa dohodli, že prípadné spory vyplývajúce zo zmluvných vzťahov tejto
+zmluvy budú riešiť predovšetkým osobným rokovaním, prípadne v rozhodcovskom konaní
+a až následne súdnou cestou, príslušným súdom SR.
+15.4 S výnimkami uvedenými v tejto zmluve je túto zmluvu možné meniť a dopĺňať len formou
+písomných dodatkov podpísaných oboma zmluvnými stranami. Návrh dodatku k zmluve
+podlieha pred uzavretím schváleniu Riadiaceho orgánu pre Operačný program Výskum
+a vývoj, ktorým je Ministerstvo školstva, vedy, výskumu a športu SR. Riadiaci orgán je
+oprávnený požadovať úpravy v návrhu dodatku k zmluve. Bez súhlasného stanoviska
+MŠVVaŠ SR nie je možné uzavrieť dodatok k zmluve.
+Článok 16
+Záverečné ustanovenia
+16.1 Táto zmluva nadobúda platnosť dňom jej podpísania zástupcami oboch zmluvných strán a
+účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+11/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Úradom vlády Slovenskej republiky. Ak sa do troch mesiacov od uzavretia zmluvy zmluva
+nezverejní platí, že k uzavretiu zmluvy nedošlo.
+16.2 Táto zmluva a záväzkový vzťah z tejto zmluvy sa spravuje zákonom č. 513/1991 Zb.
+Obchodný zákonník (v znení neskorších predpisov) a zákonom č. 618/2003 Z.z.
+o autorskom práve a právach súvisiacich s autorským právom.
+16.3 Na záväzkový vzťah z tejto zmluvy sa nepoužijú (všeobecné) obchodné podmienky žiadnej
+zo zmluvných strán.
+16.4 Táto zmluva sa podpisuje v štyroch rovnopisoch, pričom každá zmluvná strana obdrží
+po dvoch vyhotoveniach.
+16.5 Dodávateľ týmto vyhlasuje, že je spôsobilý túto zmluvu uzatvoriť a plniť záväzky v nej
+obsiahnuté.
+16.6 Objednávateľ týmto vyhlasuje, že je spôsobilý túto zmluvu uzatvoriť a plniť záväzky v nej
+obsiahnuté.
+16.7 Zmluvné strany vyhlasujú, že zmluvu uzatvorili slobodne a vážne, nie v tiesni a ani za inak
+nápadne nevýhodných podmienok, jej obsahu porozumeli a preto ju po jej prečítaní
+na znak súhlasu vlastnoručne podpisujú.
+16.8 Prílohu č. 1 tejto zmluvy tvorí Opis diela – špecifikácia požiadaviek.
+V Bratislave, dňa
+
+V Bratislave , dňa
+
+Objednávateľ:
+
+Dodávateľ:
+
+..........................................................
+
+..........................................................
+
+prof. RNDr. Ján Turňa, CSc.,
+generálny riaditeľ CVTI SR
+
+Ing. Petr Weber,
+prokurista
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+12/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Príloha č. 1
+
+Časť A: Opis diela – špecifikácia požiadaviek
+1. Názov predmetu zákazky
+Modernizácia Integrovaného systému služieb Centra vedecko-technických informácií
+SR
+
+2. Východisková situácia
+Zámerom CVTI SR v projekte Národná infraštruktúra pre podporu transferu
+technológií na Slovensku - NITT SK je poskytnúť vedeckej komunite financovanej
+z verejných zdrojov
+-
+
+používateľsky nenáročný, ale pritom efektívny prístup k veľkým výpočtovým
+a dátovým kapacitám existujúcich informačno-komunikačných infraštruktúr
+pre výskum a vývoj
+
+-
+
+skvalitnenie a urýchlenie procesov transferu technológii a poznatkov do praxe.
+
+Za týmto účelom bol vybudovaný Integrovaný systém služieb Centra vedecko-technických
+informácií SR (ISS CVTI SR), ktorý slúži vedeckej komunite financovanej z verejných
+zdrojov na využívanie existujúcich dátových a výpočtových kapacít dátového centra pre
+vedu a výskum, vybudovaných v rámci Národného projektu Infraštruktúra pre výskum a
+vývoj – Dátové centrum pre výskum a vývoj (DC VaV), pri realizácii výskumnovývojových aktivít s cieľom ich aplikácie v hospodárskej a spoločenskej praxi.
+V rámci 1. Etapy projektu NITT SK boli vypracované dve štúdie:
+-
+
+Štúdia I mapujúca východiská pre vytvorenie integrovaného systému služieb
+
+-
+
+Štúdia II definujúca požiadavky na dodávku špecifických
+outsourcingových služieb pre integrovaný systém služieb.
+
+produktov
+
+a
+
+V rámci 2. Etapy boli uskutočnené nasledovné aktivity:
+-
+
+obstaranie,
+
+-
+
+vybudovanie,
+
+-
+
+implementácia
+
+-
+
+skúšobná prevádzka
+
+-
+
+finálna ostrá prevádzka
+
+integrovaného systému služieb v rámci IKT infraštruktúry DC VaV pre potreby vedeckej
+komunity. Systém je určený najmä na riadenie prístupov k špecifickým vedeckým bázam
+dát, k aplikačným službám a ďalším službám (uvedené v štúdii I) podporujúcim
+výskumno-vývojové aktivity a transfer technológií, pričom rešpektuje najmä nasledovné
+základné požiadavky:
+
+
+Komplexné zastrešenie prostredia poskytovaných služieb obsiahnutých v dostupných
+systémoch s centralizovanou správou, spoločným používateľským rozhraním
+a riadeným prístupom k úložiskám rozsiahlych báz dát.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+13/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+
+
+Otvorené štandardy pre potenciálne pristupujúce aplikácie, zdroje a služby.
+
+
+
+Efektívne riadenia procesov pre technické zabezpečenie služieb v procese transferu
+výskumno-vývojových poznatkov do praxe.
+
+
+
+Monitorovanie a vyhodnocovanie efektivity využívania systému pri výskumnovývojových činnostiach a transfere technológií.
+
+3. Predmet verejného obstarávania
+Predmetom obstarávania je technologická modernizácia existujúceho systému ISS
+CVTI SR a jeho rozšírenie o integračné rozhranie Enterpise Service Bus (ESB), ďalšie
+nadstavbové moduly a integráciu vybraných systémov prevádzkovaných v CVTI SR do
+systému ISS CVTI SR prostredníctvom dodávaného ESB. Predmet verejného obstarávania
+pozostáva z týchto častí:
+Vypracovanie aktualizácie detailnej funkčnej špecifikácie pre ISS CVTI SR
+1.
+(analytická etapa)
+2.
+Komplexná implementácia a aktualizácia dokumentácie ISS CVTI SR,
+prípadne dodanie novej dokumentácie:
+a. Realizačná etapa
+b. Implementačná etapa
+c. Pilotná produkčná prevádzka systému
+d. Školenia a konzultácie
+Aktualizácia SW licencií ISS CVTI SR
+3.
+4.
+Aktualizácia podpory a údržby prevádzky ISS CVTI SR.
+Etapové členenie dodávky:
+ Analytická etapa (výstupom je aktualizovaná DFŠ k ISS CVTI SR)
+ Realizačná etapa (výstupom je testovacia verzia predmetu zákazky)
+ Implementačná etapa (výstupom je pilotná verzia predmetu zákazky)
+ Pilotná produkčná prevádzka systému (výstupom je finálna ostrá verzia predmetu
+zákazky)
+
+4. Požiadavky verejného obstarávateľa na predmet obstarania:
+Obstarávateľ požaduje, aby riešenie vychádzalo z viacerých princípov a
+•
+zabezpečilo integráciu existujúcej funkcionality CVTI SR, ktorú technologicky
+aktualizuje na vyššiu verziu a navyše rozšíri o napojenie na služby poskytované
+v rámci ISS CVTI SR
+•
+riešenie musí byť modulárne, s jasne vymedzenou funkčnosťou s presne
+špecifikovanými rozhraniami, aby tak vytvorilo jednotný funkčný celok.
+Modulárnosť musí umožniť nahradenie časti riešenia – funkčne jasne vymedzenej
+jednotky – iným komponentom bez ohrozenia celkovej funkčnosti riešenia.
+•
+aby architektúra predkladaného riešenia vychádzala z princípov SOA, pričom
+modulárnosť riešenia umožní spájanie atomických častí systému do komplexných
+celkov tzv. kompozitných aplikácií v zmysle SOA prístupu.
+Uplatnenie EA architektonického rámca
+Obstarávateľ požaduje pri návrhu a realizácii modernizácie aplikovať riadenie enterprise
+architektúry (EA), čo predstavuje spôsob ako nastaviť také štandardizované pravidlá, ktoré
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+14/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+platia všeobecne na celú architektúru CVTI SR v podstatne širšom časovom a organizačnom
+kontexte.
+Enterprise Architecture framework (EA rámec) definuje ako vytvoriť a používať podnikovú
+resp. prevádzkovú architektúru. Poskytuje zásady a postupy pre vytvorenie a používanie
+architektonického popisu systému. Pomáha architektovi štrukturovať myslenie rozdelením
+opisu architektúry na domény, vrstvy alebo pohľady, a ponúka modely - typicky matice a
+diagramy - pre dokumentáciu každého pohľadu.
+EA rámec bude obstarávateľ uplatňovať v častiach venujúcich sa architektúre.
+Pri návrhu a riadení architektúry obstarávateľ očakáva od uchádzača aplikovať
+architektonický rámec TOGAF 9.1 (relevantné časti), pre oblasť modelovania UML a BPMN
+a notácie architektúry je odporúčaný rámec ArchiMate 2.0
+Projektové riadenie
+Realizácia predmetu zákazky bude riadená v súlade s metodikou projektového riadenia
+v súlade s výnosom MF SR č. 55/2014 Z.z. o štandardoch pre informačné systémy verejnej
+správy podľa: Štandard pre riadenie informačno-technologických projektov. + novelizácia
+výnosu MF 276/2014 o štandardoch pre informačné systémy.
+
+Stavebné bloky architektúry
+Architektonický rámec slúži na znázornenie základnej organizačnej logiky riešenia. Táto
+logika zachytáva reálne prevádzkové procesy a IT infraštruktúru, ktoré spoločne reflektujú
+prevádzkový model budúceho implementovaného riešenia. Na základe tohto formálneho
+popisu sa dajú odvodiť všetky štrukturálne vlastnosti a správanie systému, ako aj jeho
+prípadná budúca evolúcia.
+Architektonický rámec sa musí skladať zo stavebných blokov, ktoré jasne a zreteľne definujú
+štandardizovaný informačný systém navrhnutý v súlade s legislatívou a zabezpečujú jeho
+efektívnu implementáciu, bezpečné prevádzkovanie a akceptáciu širokou skupinou
+používateľov.
+Architektonický rámec musí pozostávať z nasledovných hlavných stavebných blokov:
+Prevádzková architektúra – ktorá definuje funkcionalitu z pohľadu prevádzky, cez
+definovanie prevádzkových procesov, používateľov a ich vzťahov, prostredí a princípov,
+ktoré slúžia ako vstupy pre dizajn a evolúciu.
+Aplikačná architektúra – musí znázorňovať principiálnu štruktúru informačného systému,
+ktorý sa musí skladať z aplikačných modulov spracovávajúcich informácie, zo vzájomných
+vzťahov a vzťahu k prostrediu, a z princípov, ktoré riadia jeho dizajn a rozvoj, pričom tento
+blok musí zachytávať to, ako informačný systém pomáha naplniť prevádzkové zámery.
+Dátová architektúra – popisujúca dátové štruktúry, ktoré sú spracovávané informačnými
+systémami počas prevádzkových procesov tak, aby boli naplnené a monitorované
+prevádzkové zámery.
+Technologická architektúra – musí zachytávať základnú štruktúru informačného systému z
+pohľadu hardvérových, softvérových a sieťových technológii a ich vzájomných vzťahov a
+vzťahu k prostrediu, popisuje aj princípy, ktoré riadia návrh a rozvoj systému.
+Integrácia – tento stavebný blok musí riešiť integráciu medzi aplikačnými komponentmi na
+úrovni integrácie procesov a integrácie údajov.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+15/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Bezpečnosť – stavebný blok bezpečnosti je kľúčový pre zabezpečenie dôvery používateľov a
+musí riešiť bezpečný spôsob používania aplikácii, bezpečnosť dát, bezpečnosť prístupu do
+systému, fyzickú bezpečnosť a podobne.
+Prevádzkovanie – definuje spôsoby, ktoré je potrebné zabezpečiť, aby mohlo byť riešenie
+reálne prevádzkované.
+Organizácia a technická asistencia –popisuje organizačnú štruktúru a technickú asistenciu,
+ktoré sú potrebné pre realizáciu a prevádzkovanie riešenia.
+Štandardy a legislatíva – tento stavebný blok kladie dôraz na štandardizáciu riešenia podľa
+medzinárodných štandardov a na prípravu legislatívneho rámca tak, aby navrhované riešenie
+bolo v súlade s legislatívou.
+
+4.1 Základné požiadavky a technologické parametre
+4.1.1. Integračná architektúra a integračné vzory
+Obstarávateľ požaduje využitie SOA prístupu v projekte modernizácie ISS CVTI SR
+– zavedením integračnej platformy, ktorá má priniesť zlepšenie produktivity, agility
+a rýchlosti reakcií IT na požiadavky prevádzky. Integračná platforma sa má skladať
+minimálne z týchto vrstiev:
+1. Vrstva servisnej infraštruktúry – ESB a Message Broker
+Táto vrstva je samotná servisná zbernica, ktorá sa bude využívať ako sprostredkovateľ
+požiadaviek prichádzajúcich z prezentačnej vrstvy alebo ľubovoľnej inej služby. Táto
+činnosť bude vyžadovať smerovanie, transformácie, agregácie, doplňovanie a pod. dát,
+ktoré sú súčasťou procesu sprostredkovania.
+2. Vrstva prístupu k informáciám – Data Services Server
+Vrstva, ktorá má zabezpečiť funkčné pripojenie k existujúcim podnikovým informačným
+zdrojom pre načítanie dát alebo ich ukladanie. Táto vrstva štandardizuje prístup k dátam
+prostredníctvom využitia konektorov a ovládačov so štandardnou konektivitou vystavenou
+na servisnej zbernici.
+3. Vrstva orchestrácie služieb – Business Process Server (BPEL)
+Business Process Server je nadstavbou nad BPEL/workflow engine , pričom BPEL je
+priemyselným štandardom orchestrácie, centrálne koordinového skladania diskrétnych
+aplikačných služieb (definovaných cez štandard Web servisov) do kompozície procesného
+toku obsahujúceho väzby na heterogénne systémy, synchrónny a asynchrónny messaging,
+dátovú manipuláciu, rozhodovanie a koordináciu, správu výnimiek a nedeterministických
+udalostí, verzionovanie, správu a audit. Business Process Server má implementovať tento
+štandard a má vytvoriť úplnú infraštruktúru pre vývoj, nasadenie, monitorovanie
+a riadenie BPEL/workflow procesov.
+4. Vrstva prevádzkových pravidiel – Business Rules Server
+Má slúžiť na vytváranie centralizovanej sady pravidiel, ktoré budú využívané naprieč
+všetkými potrebnými integračnými službami. Pravidlá budú uložené v centrálnom
+úložisku s manažmentom pravidiel s podporou ich životného cyklu. Vyžadujeme
+podporou vytvárania pravidiel pomocou rozhodovacích tabuliek a množín. Umožní nám
+to vystaviť funkcionalitu pomocou REST alebo WEB služieb a JAVA API.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+16/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+5. Monitorovanie a reportovanie pomocou Business Activity Monitor (BAM)
+BAM je nadstavbou nad generátorom reportov a bude zabezpečovať v integračnej
+platforme úlohu prevádzkového monitorovacieho nástroja. Bude monitorovať - sledovať
+a zobrazovať kľúčové prevádzkové ukazovatele. Podporuje vytváranie Reportov
+a dispenčingových konzol (dashboards) pre sledované služby a udalosti.
+Pri modernizácii ISS CVTI SR požadujeme použitie modulárnych komponentov.
+Modulárnosť umožní výber špecifických balíkov, ktorých kombinácia dokáže plne pokryť
+požiadavky kladené na projekt.
+Obstarávateľ požaduje nasledovné moduly:
+1. Enterprise Service Bus,
+2. Message Broker,
+3. Data Services Server
+4. Business Process Server,
+5. Business Rules Server,
+6. Business Activity Monitor,
+ktoré majú zabezpečiť požadovanú funkcionalitu a zároveň poskytnúť priestor a možnosti
+na bezproblémové rozšírenie riešenia a prípadnú integráciu s ďalšími systémami.
+Prostredie, do ktorého sa moduly budú implementovať nie je homogénne, a preto
+vyžaduje pružné integračné scenáre a variabilné možnosti konfigurácií modulárnej
+štruktúry . Jeho súčasťou je jednak existujúci IS a navyše je nutné využitie funkcionality
+externých systémov (modulov, externé registre a pod.).
+Požiadavky na dodávateľa preto sú:
+A. Využiť existujúce portlety, aktualizovať ich, nakonfigurovať a zaintegrovať
+do ISS CVTI SR ako ponúkané služby:
+o CMS – Správa obsahu
+ Dokumenty a médiá
+o Web-klient repozitára
+ Portlet discovery služby Primo (viď. 4.1.3.8)
+o Spolupráca
+ Blog
+ Kalendár
+ Pošta (WebMail)
+ Diskusné fórum
+o Sociálne siete
+ Web-rozhovor (chat)
+o Wiki
+o Báza znalostí
+B. Pripojiť tzv. back-end – existujúce aplikácie (moduly) do integračnej
+platformy a ich vystavenie ako služby ISS CVTI SR (viď 4.1.2)
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+17/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+o
+o
+o
+o
+
+o
+
+o
+o
+o
+o
+
+Služba SMTP: pre aplikačné e-mailové notifikácie, služba nahradzuje za
+výhodnejších licenčných podmienok pôvodne vyšpecifikovaný MS Exchange
+Systém pre BPEL (workflow engine)-pre implementáciu prevádzkových
+procesov (v štandarde WS-BPEL) a ich riadenie
+Systém správy používateľov midPoint – cez štandardný konektor sprístupniť
+centrálnu správu používateľov do ISS CVTI SR
+Aplikačný systém MATLAB – ktorý beží v nezávislej architektúre klientserver, pričom sa doň pristupuje
+ Cez hrubého klienta na terminál-serveri (pripojenie vzdialenej plochy)
+ cez webovú aplikácie pre dávkový režim - MaTron
+Aplikačný systém SAS – ktorý beží v nezávislej architektúre klient-server,
+pričom sa doň pristupuje cez hrubého klienta na terminál-serveri (pripojenie
+vzdialenej plochy). Požadujeme aj možnosť konfigurácie sprístupnenia
+generovaných web stránok v systéme SAS na portáli ISS CVTI SR
+Aplikačný systém JIRA – cez štandardný konektor (s využitím rozhrania Rest
+Api) a sprístupniť aplikáciu na sledovanie úloh
+Aplikačný systém SK CRIS: - úprava a rozvoj integračných rozhraní
+za účelom zabezpečenia vzájomnej výmeny dát medzi aplikáciami ISS CVTI
+SR, ako aj s externými aplikáciami
+Aplikačný systém CREPČ/SciDAP – cez web services ako nový dátový zdroj
+Systém discovery služby PRIMO
+
+4.1.2. Integračná platforma, Enterprise Service Bus (ESB)
+Základnými konceptuálnymi kameňmi rozšírenia middleware vrstvy sú princípy SOA
+(servisne orientovanej architektúry) a BPM (manažment podnikových procesov). V rámci
+SOA prístupu bude použitý ESB (Enterprise Service Bus) ako základné integračné
+rozhranie umožňujúce komunikáciu v rámci riešenia i prepojenie na systémy tretích strán
+Konkrétne riešenia nasadené podľa princípov BPM poskytnú možnosti automatizácie a
+orchestrácie riadenia procesov v rámci systému (napr.: prijímanie žiadostí, ich
+schvaľovanie a vybavovanie). Dodávateľ musí zabezpečiť dodanie a integráciu rozhrania
+do existujúceho systému ISS CVTI SR, pričom ESB rozhranie musí spĺňať minimálne
+nižšie uvedené požiadavky a špecifikácie.
+Základné kritériá pre ESB:
+ sprostredkovanie komunikácie medzi službami (integrovanými aplikáciami)
+prostredníctvom správ
+ spoľahlivé doručenie správ
+ transparentnosť informácií o pripojených systémoch a technologických rozdieloch
+pre jednotlivé integrované aplikácie
+ transformáciu správ a ich obsahu
+ verifikáciu správ
+ podpora štandardizovaných adaptérov pre integrácia s nasledovnými systémami:
+o Microsoft Message Queuing (MSMQ)
+o IBM Web Sphere MQ
+o Oracle Advanced Queuing (Oracle AQ)
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+18/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+
+
+
+
+o Integrácia na rôzne cloud systémy: Salesforce, Paypal, LinkedIn, Twitter, JIRA
+požiadavky na podporu protokolov pre transportnú vrstvu :
+o HTTP , HTTPS , HTTP-NIO, HTTPS-NIO, MailTo Transport
+o JMS, VFS , TCP, Local Transport, Non Blocking Local Transport
+o UDP, FIX , MSMQ , RabbitMQ AMQP
+možnosti nastavovania stavov koncových bodov prostredníctvom administrátorskej
+konzoly:
+o „Active“ – koncový bod je aktívny a funkčný
+o „TimeOut“ – stav je automaticky nastavený systémom ak koncový bod
+v stanovenom čase neodpovedal na požiadavku
+o „Suspended“ – stav je automaticky nastavený systémom ak koncový bod
+dosiahne viacero stavov „TimeOut“
+o „SwitchOff“ - koncový bod je dočasne vypnutý
+
+Spôsob integrácie pomocou ESB je postavený na mnohých integračných vzoroch
+(enterprise integration patterns - EIP).
+1. Detailné špecifikácie platformy Enterprise Service Bus:
+a) založená na otvorených štandardoch Java EE
+b) podpora a implementácia štandardných integračných návrhových vzorov (podnikové
+integračné vzory – Enterprise Integration Patterns)
+c) vykonávanie návrhu/implementácie integračných pravidiel grafickou formou
+s minimálnou potrebou programovania
+d) konfigurovateľná perzistencia správ (t.j. správy/messages prechádzajúce
+cez ESB sú logovateľné a uložiteľné do databázy)
+e) konfigurovateľné možnosti rozloženia záťaže pri spracovávaní väčšieho množstva
+požiadaviek
+f) horizontálna škálovateľnosť pomocou klastrovania
+g) vynucovanie a manažment bezpečnostných politík
+h) vystavovanie služieb pomocou REST API
+i) monitorovanie pomocou grafického rozhrania, JMX
+j) vytváranie abstraktných služieb pre zastrešenie neštandardných rozhraní
+k) integrácia s nástrojmi správy vývojového cyklu služieb (Maven, Ant, SVN alebo
+ekvivalent)
+l) rozhranie a podpora pre komunikáciu so SOA governance nástrojmi
+m) podpora štandardných formátov a protokolov, napr.: (JSON, XML, CORBA/IIOP,
+WS-* štandardy (predovšetkým WSDL (1.1 a 2.0) a SOAP), HTML, EDI, Text )
+n) existencia štandardných adaptérov (JDBC, ODBC, E-mail, FTP)
+o) podporu štandardných transportných protokolov (napr. http/https, POP, IMAP, SMTP,
+JMS, TCP, UDP, FTPS, SFTP, CIFS)
+p) transformácie: podpora transformácii na základe pravidiel definovaných pomocou
+používateľského rozhrania
+q) podpora formátov a technologických prístupov (XSLT vo verzii 1.0 a 2.0, XPath,
+XQuery
+r) bezpečnosť (napr.: metódy – Basic (username, passwd.), SAML, XACML, WSSecurity, LDAP, AD)
+s) smerovanie správ na základe stanovených pravidiel (rule-based)
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+19/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+t) zaistenie vysokej dostupnosti, spoľahlivosti a výkonnosti - systém musí byť schopný
+prevádzkovania v prostredí architektúry vysokej dostupnosti , t. j.:
+- musí byť odolný voči chybám (fault-tolerance)
+- okrem grafického rozhrania musí sa dať spravovať aj cez rozhranie príkazového
+riadku alebo prostredníctvom skriptov pre ovládanie systému
+u) musí mať podporu pre viac ako jednu svoju inštanciu
+v) musí byť schopný využívať zdieľané diskové kapacity (SAN)
+
+2. Message Broker:
+a) podpora pre JMS API v1.0 a v1.1
+b) podpora pre spoľahlivý messaging - Advanced Message Queuing Protocol (AMQP)
+v0.91
+c) spolupráca s inými prostrediami a platformami, Java, .Net, C, C++, PHP, Ruby,
+Erlang a pod.
+d) podpora pre ukladanie správa do pamäte na vylepšenie výkonnosti
+e) podpora pre nasadenie na jeden a viac serverov za účelom škálovateľnosti
+f) podpora distribuovaných front
+g) pre Publish-Subscribe model možnosť využiť WS-Eventing a alebo JMS
+h) monitorovanie a správa message broker prostredia vrátane prenášaných správ
+i) podpora pre JMX a poskytovanie kľúčových metrík
+j) používateľská autorizácia pre fronty (queues)
+k) autorizácia na základe rolí pre Topic
+3. Data Services Server:
+a) vystavenie ľubovoľného dátového zdroja alebo dát ako Webovú služby alebo REST
+zdroj
+b) podpora ľubovoľných RDBMS, CSV, Excel, ODS, Cassandra, Google Spreadsheets,
+RDF, prípadne Web stránky cez scraping
+c) podporované DBMS: MSSQL, DB2, Oracle, OpenEdge, TerraData, MySQL,
+PostgreSQL/EnterpriseDB, H2, Derby alebo ďalšie DBMS cez JDBC driver
+d) podporované transportné protokoly ako HTTP, HTTPS, JMS, SMTP, a ďalšie cez
+ESB ako FTP, SFTP a TCP
+e) podpora deklaratívneho definovania služieb
+f) podpora federatívneho kombinovania dátových zdrojov
+g) podpora JSON a XML dátových typov
+h) možnosť vytvoriť REST zdroje pre CRUD operácie
+i) transformácia validácia s XSLT a XQuery
+j) podpora bezpečného prístupu pomocou http(s) basicAuth, WS-Security, WS-Trust,
+WS-Secure Conversation, WS-Policy, WS-Policy Attachment and WS-Security Policy
+k) deklaratívne prostredie pre vývoj
+l) monitorovanie a správa prostredníctvom konzoly a možnosť propagovať metriky
+pomocou JMX
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+20/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+4. Business Process Server pre orchestráciu služieb:
+a) nadstavba nad BPEL (workflow engine)
+b) riadenie prístupu k jednotlivým aktivitám založeným na RBAC (Role Based Access
+Control)
+c) postavený na štandarde WS-BPEL 2.0 a BPEL4WS 1.1
+d) riešenie postavené na OSGi frameworku
+e) možnosť vytvárania vlastných používateľských rozhraní, pre jednotlivé procesné
+kroky
+f) monitorovanie procesov podporujúcich nasadenie, správu, prevádzkovanie
+g) administrátorská konzola pre správu a riadenie procesov
+h) možnosť definovania KPI
+i) podpora pre krátkotrvajúce stavové a bezstavové procesy
+j) podpora pre dlhotrvajúce bezstavové procesy
+k) transformácia správ prostredníctvom XPath 1.0/2.0, XSLT 1.0/2.0, XQuery 1.0 a E4X
+l) integrované „human tasks“ s podporou štandardov Supports WS-Human Task 1.1 a
+BPEL4People 1.1
+m) „drag and drop“ vytváranie BPEL procesov
+n) podpora pre import procesov vyvinutých v iných nástrojoch, napr. Software AG ARIS,
+Oracle SOA Suite, Microsoft BizTalk a IBM Process Manager
+o) zabezpečenie webových služieb prostredníctvom viacerých štandardných
+bezpečnostných mechanizmov, vrátane WS-Security, Kerberos
+5. Databázy a úložiská identít- MySQL, Oracle DB, MS SQL and DB2 databázy
+a) podpora pre úložisko identít v LDAP, Microsoft Active Directory riešení alebo
+v databáze
+b) integrované vývojárske prostredie
+c) perzistencia s podporou štandardných DB (ukladanie logov a samotných správ
+do štandardnej DB: MS SQL)
+d) horizontálne škálovanie pomocou klastrovania
+e) možnosti debugovania procesov
+f) vstavaná funkcionalita pre zber štatistík o procesoch
+g) rozhranie a podpora pre komunikáciu so SOA governance nástrojmi
+6. Business Rules Server pre definovanie pravidiel:
+a) možnosť vytvárania centralizovanej sady pravidiel, ktoré budú využívané naprieč
+všetkými potrebnými službami
+b) centrálne úložisko a manažment pravidiel s podporou životného cyklu pravidiel
+c) podpora vytvárania pravidiel pomocou rozhodovacích tabuliek a množín
+d) vystavenie funkcionalít pomocou REST alebo WEB služieb alebo JAVA API
+e) integrácia s procesným serverom ESB a Workflow komponentom
+f) manažment pomocou administrátorského web-rozhrania
+g) podpora pre JSR 94
+h) zabudovaná podpora pre Drools
+i) podpora pre štandardy WS-*, REST a JSON
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+21/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+j) podpora pre publikovanie poskytovaných služieb prostredníctvom viacerých
+transportných protokolov, vrátane HTTP, HTTPS, JMS a SMTP
+k) zabezpečenie webových služieb s využitím HTTP Basic Auth, WS-Security, OpenID
+a OAuth
+l) integrovaná podpora pre IAM
+m) integrované vývojárske prostredie – IDE
+Cieľový pohľad na middleware infraštruktúru ISS CVTI SR po jeho technologickej
+modernizácii:
+
+4.1.3. Integrácia existujúcich aplikácií a systémov
+Dodávateľ zaintegruje vybrané systémy a aplikácie prevádzkované v CVTI SR
+s použitím modulov dodávanej integračnej platformy a systému ISS CVTI SR.
+Minimálne špecifikácie a požiadavky na integráciu jednotlivých systémov sú
+definované nižšie. Obstarávateľ poskytne Dodávateľovi na vyžiadanie podrobnejšiu
+špecifikáciu jednotlivých systémov a aplikácií potrebnú k integrácii.
+
+4.1.3.1. Aplikačný systém pre BPEL (Workflow Engine)
+Dodávateľ preberie existujúcu aplikáciu BPEL Workflow engine umožňujúci
+používateľom definovať ľubovoľný počet jednoduchých až zložitých prevádzkových
+procesov / pracovných postupov (workflow), nasadiť ich a spravovať pomocou
+portálového rozhrania. Aplikácia bude zaintegrovaná s Business Process Server pre
+orchestráciu služieb – s kompletnou migráciou údajov a nutnou konfiguráciou.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+22/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+4.1.3.2. Systém správy používateľov – midPoint
+Dodávateľ preberie existujúcu aplikáciu správy používateľov a zaintegruje ju do systému
+ISS CVTI SR prostredníctvom konektora, ktorý umožní integráciu s cieľovými systémami
+pomocou ESB služieb.
+Systém správy používateľov (provisioning) midPoint je integračný a riadiaci komponent,
+ktorého úlohou je zjednotiť a udržiavať databázu používateľov, udržiavať väzby medzi
+používateľmi a účtami, riadiť prístupové práva, vytvárať, modifikovať a mazať
+používateľské účty v systémoch, ktoré nie je možné kompletne integrovať na adresárový
+server a podobne. Je predpokladom pre budúce nasadenie technológie Single Sign On
+(SSO).
+Z pohľadu logickej topológie je provisioning systém najmä systémom integračným.
+Ovláda databázy používateľských účtov (profilov) a prístupových práv na ostatných
+systémoch - nevykonáva autentifikáciu ani autorizáciu, tieto funkcie sú zachované
+v existujúcich systémoch bez zmeny. Provisioning systém len ovláda ich nastavenie:
+ovláda členstvo používateľov v skupinách, na ktorých je autorizácia založená, mení heslá,
+ovláda privilégiá jednotlivých používateľov a pod.
+Predmetom integrácie bude: prepojenie midPointu s integračnou vrstvou middleware
+znamená dobudovanie základnej integračnej architektúry. MidPoint je implementovaný
+vo verzii 3.1 na OS CenTOS 6.3.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+23/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+4.1.3.3. Aplikačný systém MATLAB
+MATLAB je aplikačný systém pre zložité vedecko-technické výpočty, ktorý má
+v implementácii v CVTI SR tri hlavné architektonické časti - 1) vysokovýkonný klaster RedHat 6.3, 2) predradený terminálový server - MS Windows 2008 na spúšťanie hrubého
+klienta MATLABu a 2) webovú aplikáciu MaTron na dávkové spracovanie úloh Apache 2.2
+Predmetom analýzy a realizácie integrácie bez SSO budú časti:
+
+
+terminálový server: integrácia používateľov servera mklient.cvtisr.sk so správou
+používateľov midPoint (4.1.3.2)
+
+
+
+webová aplikácia MaTron: integrácia do prezentačnej vrstvy ISS CVTI SR.
+
+4.1.3.4. Aplikačný systém SAS
+SAS (Štatisticko-analytický systém) je softvér pre pokročilé štatistické analýzy - sada
+modulov SAS umožňuje dolovať, meniť, spravovať a získavať dáta z rôznych zdrojov a
+vykonávať nad nimi pokročilé štatistické analýzy.
+Implementovaný systém SAS v CVTI SR má tri hlavné architektonické časti:
+
+
+vysokovýkonný klaster, pozostávajúci z dvoch 11-procesorových serverov IBM
+Power 6, OS AIX 6.1 predradený terminálový server - MS Windows 2008 na
+spúšťanie klientov SASu
+
+
+
+prezentačné stránky na portáli Liferay, kde sa budú publikovať dynamické reporty
+z modulov SASu
+
+Predmetom integrácie bez SSO budú časti:
+1. terminálový server: integrácia používateľov servera sas.cvtisr.sk so správou
+používateľov midPoint (4.1.3.2)
+2. prezentačné stránky na portáli Liferay iss.cvtisr.sk: integrácia (prepojenie)
+do prezentačnej vrstvy ISS CVTI SR;
+
+4.1.3.5. Aplikačný systém JIRA
+JIRA je softvér na sledovanie úloh (task tracking) počas všetkých fáz dodávky a
+prevádzkovania SW riešení. Zahŕňa riadenie a sledovanie úloh a požiadaviek
+v projektoch.
+Predmetom analýzy a realizácie integrácie bude:
+- integrácia do prezentačnej vrstvy ISS CVTI SR (formou konfigurácie portletov pre
+Liferay)
+- integrácia používateľov JIRA so správou používateľov midPoint (4.1.3.2)
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+24/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+4.1.3.6. Aplikačný systém SK CRIS
+Systém SK CRIS obsahuje údaje o projektoch financovaných z verejných zdrojov,
+o ich výsledkoch, ako aj register organizácií výskumu a vývoja a personálnu databázu
+výskumníkov. Jeho súčasťou je aj administrácia hodnotenia spôsobilosti vykonávať VaV
+a štatistické zisťovanie výskumno-vývojového potenciálu.
+Databáza, prevádzkovaná v prostredí MS SQL Server je navrhnutá v súlade s európskymi
+štandardami (dátový formát CERIF 1.3), garantovanými asociáciou euroCRIS.
+Portálové riešenie (na báze softvérového balíka Liferay) na svojej hlavnej stránke
+obsahuje okrem používateľského rozhrania pre vyhľadávanie informácií najmä
+informácie pre vedecko-výskumnú obec týkajúce sa organizácie zberov dát.
+Napĺňanie SK CRIS aktuálnymi údajmi je realizované okrem priameho vkladania údajov
+cez online formuláre predovšetkým prostredníctvom integračných rozhraní s externými
+systémami. Ide predovšetkým o informačné systémy grantových agentúr a tiež Centrálny
+register publikačnej činnosti (CREPČ).
+Integrácia s externými systémami je považovaná za hlavný nástroj získavania validných
+údajov z oblasti vedy a výskumu. predmetom integrácie SK CRIS do ESB ISS CVTI SR,
+bude analýza a realizácia nasledovných okruhov:
+1. Úprava a rozvoj integračných rozhraní SK CRIS s cieľom zabezpečenia vzájomnej
+výmeny dát medzi aplikáciami ISS CVTI SR, ako aj s externými aplikáciami. Pôjde
+o preberanie/import dát s iných systémov, ale aj o poskytovanie vybraných údajov SK
+CRIS týmto systémom.
+2. Zosúladenie interného manažmentu identít (IdM) SK CRIS s IdM ISS CVTI SR
+s cieľom, aby používatelia SK CRIS mohli využívať aplikácie ISS CVTI SR a naopak
+3. Úpravy formulárov na zber dát a používateľského rozhrania SK CRIS za účelom
+precizovania/skvalitnenia prezentácie zbieraných a integrovaných údajov a ich
+vzájomných väzieb vedeckej obci. Úprava sa bude týkať predovšetkým tých oblastí,
+ktoré pracujú s dátami aplikácií, integrovanými pod ISS CVTI SR.
+
+4.1.3.7. Aplikačný systém CREPČ
+CREPČ - Centrálny register evidencie publikačnej činnosti je bibliografická databáza
+(MS SQL) publikačnej činnosti vysokých škôl v SR, ktorej cieľom je komplexná
+evidencia publikácií v zmysle Smernice MŠ SR č. 13/2008-R o bibliografickej registrácii
+a kategorizácii publikačnej činnosti, umeleckej činnosti a ohlasov. Požadujeme ho pripojiť
+do integračnej platformy WS02 ako nový dátový zdroj.
+
+4.1.3.8. Systém Discovery služby PRIMO
+Discovery systém PRIMO je špecializovaný knižničný portál s vyhľadávaním OPAC
+(Online Public Access Catalog) v lokálnych zbierkach knižnice a vo vzdialených
+databázach elektronických knižničných zdrojov a výsledok prezentuje jednotne na jednom
+mieste.
+Predmetom analýzy a realizácie integrácie bude:
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+25/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+- integrácia do prezentačnej vrstvy ISS CVTI SR; grafický dizajn koncového rozhrania
+je prispôsobený pre portál Liferay pomocou kastomizovaných CSS štýlov
+(http://primo.cvtisr.sk) a je ho možné integrovať
+do prezentačnej vrstvy
+ISS CVTI SR pomocou minimálnych úprav.
+- integrácia používateľov PRIMO so správou používateľov midPoint (4.1.3.2)
+
+4.2 Dokumentácia, zaškolenie a podpora
+Obstarávateľ požaduje dodanie relevantnej dokumentácie ku všetkým nový dodaným
+modulom ako i aktualizovaným (modernizovaným) modulom (častiam SW)
+predovšetkým ako aktualizáciu už dodaných dokumentov pre ISS CVTI SR, prípadne
+dodanie novej dokumentácie:
+1. Používateľská príručka
+2. Administrátorská príručka
+3. Inštalačný postup (vrátane Konfiguračného dokumentu)
+4. Testovacie prípady (scenáre) používateľa a administrátora
+5. Zdrojové súbory (časti v opensource) na dátových nosičoch
+6. Aktualizáciu prevádzkovej dokumentácie „Plán podpory a údržby“
+7. Integračný manuál (guide), ktorý bude popisovať podmienky, postupy
+a pravidlá, za akých sa externý alebo novo dodávaný aplikačný systém resp.
+služba bude môcť integrovať do ISS CVTI SR
+Pred uvedením do ostrej (produkčnej) prevádzky obstarávateľ požaduje:
+a) koordináciu pri zapojení novo dodaných alebo aktualizovaných častí SW
+do monitoringu v DC VaV CVTI SR
+b) Zaškolenie administrátorov (4) do správy novo dodaných alebo aktualizovaných
+častí SW
+c) Zaškolenie kľúčových používateľov (superuser) do konfigurácie a používania
+novo dodaných alebo aktualizovaných častí SW
+Obstarávateľ požaduje zvýšenú podporu (support) počas pilotnej prevádzky formou aktívnej
+spolupráce na dennej báze – nad rámec zmluvy o podpore (SLA). Obstarávateľ ďalej
+požaduje rozšírenú technickú podporu po dobu 24 mesiacov na predmet tohto obstarania a
+rozšírenú technickú podporu na pôvodne obstaraný ISS CVTI SR (pred týmto obstarávaním)
+od termínu ukončenia pôvodnej zmluvnej podpory ISS CVTI SR do termínu konca platnosti
+rozšírenej technickej podpory predmetu tohto obstarania, t.j. obom obstarávaným častiam
+(pôvodne obstaraný a teraz obstarávaný modernizovaný systém ISS CVTI SR) by rozšírená
+technická podpora končila v rovnaký termín.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+26/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+4.3 Povinné požiadavky na rešpektovanie legislatívnych
+predpisov
+Predmet obstarávania musí rešpektovať všetky náležitosti vyžadované legislatívou SR pre
+oblasť vedy a techniky, a to konkrétne:
+
+
+Zákon č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
+a doplnení niektorých zákonov
+
+
+
+Zákon č. 122/2013 Z. z. Z. z. o ochrane osobných údajov a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov
+
+
+
+Výnos 312 Ministerstva financií Slovenskej republiky o štandardoch pre informačné
+systémy verejnej správy z 9. júna 2010
+
+4.4 Povinné požiadavky na technologické využitie prostredia
+CVTI SR
+Systém musí rešpektovať vnútorné smernice CVTI SR, musí byť pripravený na
+prevádzku v prostredí DC VaV a jeho digitalizačného pracoviska. Infraštruktúra DC VaV
+spĺňa všetky požiadavky na výpočtový výkon, úložnú kapacitu, bezpečnosť
+a zabezpečenie prevádzky, dostupnosť a operačné prostredie. Servery sú prevádzkované
+na platforme operačných systémov MS Windows Server 2008 alebo 2012, alebo LINUX.
+Pre špecializované vedecké výpočty sú určené 2 servery založené na architektúre IBM
+POWER 570 s operačným systémom AIX. Databázové servery pracujú v prostredí
+relačného databázového systému Microsoft SQL Server 2012. Prevádzka produkčných
+systémov je realizovaná na virtuálnej platforme VMWARE verzie 5.1. Zálohovanie
+archivácia je riešená centrálne (IBM Tivoli). Prístup administrátorov systémov je
+realizovaný formou VPN IPSEC. V DC je implementovaný centrálny monitoring
+a reporting MS SCOM a Zabbix.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+27/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Časť B: Slovník špecifických skratiek a pojmov
+AD
+
+adresárová služba pre domény siete MS Windows, súčasť operačného
+systému Windows Server (Active Directory)
+
+AJAX
+
+je súhrnné označenie pre technológie vývoja interaktívnych webových
+aplikácií, ktoré umožňujú meniť obsah stránok bez potreby ich
+kompletného znovu načítania zo serveru (Asynchronous JavaScript and
+XML)
+
+ANT
+
+javovský nástroj na zostavovanie softvérových aplikácií - od kompilácie,
+testovania, až po vytvorenie balíčku pre distribúciu (Apache Ant)
+
+BPEL
+
+štandardný programovací jazyk pre špecifikáciu webových služieb v rámci
+podnikových procesov (Business Process Execution Language)
+
+BPM
+
+riadenie procesov s podporou IS, súbor činností, ktoré sa týkajú plánovania
+a sledovania výkonnosti podnikových procesov (Business Process
+Management)
+
+BPMN
+
+grafický spôsob špecifikácie podnikových procesov (Business Process
+Model and Notation)
+
+CERIF
+
+formát na výmenu údajov o výskumných projektoch, vyvinutý
+organizáciou euroCRIS, ktorej cieľom je podpora systému CRIS (Current
+Research Information System), (CERIF = Common European Research
+Information Format)
+
+CIFS
+
+protokol na poskytovanie zdieľaného prístupu k súborom, tlačiarňam,
+portom a na komunikáciu medzi uzlami v sieti (Common Internet File
+System - tiež SMB: Server Message Block)
+
+CMS
+
+Content management system
+
+CORBA/IIOP
+
+štandard, ktorý umožňuje spoluprácu rôznych SW komponentov
+napísaných v rôznych programovacích jazykoch; Internet Inter-Orb
+Protocol (IIOP) poskytuje možnosť písať CORBA aplikácie pre platformu
+Java. (Common Object Request Broker Architecture)
+
+CREPČ
+
+Centrálny register evidencie
+prevádzkovaný v CVTI SR
+
+CRZP
+
+Centrálny register záverečných a kvalifikačných prác, prevádzkovaný
+v CVTI SR
+
+CVTI SR
+
+Centrum vedecko - technických informácií Slovenskej republiky
+
+DB
+
+databáza (v CVTI SR prednostne MS SQL)
+
+DC VaV
+
+Dátové centrum pre vedu a výskum pri CVTI SR
+
+ESB
+
+model SW architektúry pre návrh a implementáciu integrácie medzi
+vzájomne sa ovplyvňujúcimi aplikáciami v SOA (Enterprise Service Bus)
+
+Framework
+
+univerzálna, opakovane použiteľná softvérová platforma, ktorá sa používa
+na vývoj aplikácií, produktov a riešení
+
+FTP
+
+štandardný sieťový protokol (File Transfer Protocol)
+
+publikačnej
+
+a
+
+umeleckej
+
+činnosti,
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+28/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+FTPS
+
+rozšírenie protokolu FTP, ktoré pridáva podporu pre kryptografické
+protokoly (FTP Secure)
+
+GUI
+
+grafické používateľské rozhranie (Graphical User Interface)
+
+HTML
+
+hlavný jazyk pre zobrazovanie webových stránok (Hyper Text Markup
+Language)
+
+HTTP/S
+
+komunikačný protokol pre (/bezpečnú) komunikáciu cez internet
+(Hypertext Transfer Protocol / Secure)
+
+ID
+
+Identifikátor (IDentifier)
+
+IKT
+
+technologická
+technológie)
+
+ISS CVTI SR
+
+Integrovaný systém služieb Centra vedecko-technických informácií SR
+zastrešujúci poskytovanie služieb informačno-komunikačných technológií
+akademickej obci
+
+IMAP
+
+štandardný internet. protokol pre elektronickú poštu (Internet Message
+Access Protocol)
+
+Java API
+
+štandardné rozhrania pre programovanie aplikácií v jazyku Java
+(Application Programming Interfaces)
+
+Java EE
+
+štandardná platforma Java, ktorá poskytuje API a prostredie pre vývoj a
+prevádzku aplikácií, vrátane webových služieb (Java Platform, Enterprise
+Edition )
+
+JDBC
+
+API pre jazyk Java, ktorý definuje prístup k relačnej databáze (Java-based
+Data Access Technology )
+
+JKR
+
+termín používaný v CVTI SR na popísanie integrácie na úrovni front-endu
+- portálu, ako aj back-endu (Jednotné Komunikačné Rozhranie)
+
+JMS API
+
+Java Message Service (JMS) API je aplikačné programovacie rozhranie
+pre posielanie štandardných správ medzi dvoma alebo viacerými klientmi
+(aplikáciami).
+
+JMX
+
+Riadenie rozšírení Java (Java Management Extensions - JMX) je
+technológia Javy, ktorá poskytuje nástroje pre správu a monitorovanie
+aplikácií, systémové objekty, zariadenia a service-orientované siete –
+zdroje reprezentované objektmi typu MBeans (Managed Bean).
+
+JSON
+
+otvorený štandard pre výmenu štruktúrovaných dát - dokumentov cez
+internet, alternatíva k XML (JavaScript Object Notation)
+
+JSR 168/286
+
+verzia 1.0 a 2.0 - špecifikácie pre programovanie Java portletov (Java
+Specification Request)
+
+KIS
+
+Knižničný informačný systém a online katalóg (OPAC) knižnice CVTI SR
+
+KPI
+
+kľúčový ukazovateľ výkonu - pre hodnotenie dosahovania určitej úrovne
+operačného cieľa (Key Performance Indicator)
+
+LDAP
+
+aplikačný protokol na prístup a správu distribuovaných adresárových
+služieb (Lightweight Directory Access Protocol)
+
+infraštruktúra
+
+DC
+
+VaV
+
+(informačno-komunikačné
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+29/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+MAVEN
+
+nastroj pre správu, riadenie a automatizáciu buildov aplikácii napísaných
+v rôznych programovacích jazykoch (Apache Maven)
+
+NITT SK
+
+projekt Národná infraštruktúra pre podporu transferu technológií na
+Slovensku
+
+ODBC
+
+štandardné API pre prístup k systému pre správu databázy - DBMS (Open
+Database Connectivity)
+
+OEM
+
+komerčný softvér pôvodného výrobcu (Original Equipment Manufacturer)
+
+OPAC
+
+knižničný webový katalóg (Online public Access catalog) - online
+databáza metadát dokumentov vo fonde knižnice
+
+POP/3
+
+štandardný internetový protokol aplikačnej vrstvy na prenos elektronickej
+pošty medzi poštovými klientmi a servermi, verzia 3 je aktuálny štandard
+(Post Office Protocol )
+
+Portlet
+
+zásuvný softvérový komponent používateľského
+(spolu)vytvára portálovú prezentačnú vrstvu
+
+RBAC
+
+bezpečnosť IS založená na roliach, ktoré sú vytvorené pre rôzne pracovné
+funkcie; oprávnenia na prístup a na vykonávanie určitých operácií v IS sú
+priradené len určitým roliam (Role Based Access Control)
+
+REST API
+
+presnejšie RESTful web service - webová služba implementovaná
+pomocou protokolu HTTP na princípoch architektúry REST
+(Representational State Transfer)
+
+SAML
+
+otvorený štandardný dátový formát pre výmenu autentizačných a
+autorizačných údajov medzi poskytovateľmi identity a poskytovateľmi
+služieb, založený na XML; je podstatný pre SSO (Security Assertion
+Markup Language)
+
+SAN
+
+(System Area Network) , vysoko-výkonná počítačová sieť, ktorá slúži na
+prepojenie počítačových klastrov)
+
+SFTP
+
+rozšírenie k FTP štandardu, ktorý umožňuje šifrovať relácie FTP (Secure
+FTP)
+
+SK CRIS
+
+národný IS pre VaV podľa EU štandardu CERIF, je prevádzkovaný
+v CVTI SR
+
+SLA
+
+požiadavky o úrovni služieb (Service Level Agreement)
+
+SMTP
+
+štandard pre prenos elektronickej pošty cez internetový protokol (Simple
+Mail Transfer Protocol)
+
+SOA
+
+architektúra orientovaná na služby - súbor zásad a metodík pre návrh a
+vývoj
+softvéru
+v podobe interoperabilných služieb (Service-Oriented Architecture)
+
+SOAP
+
+protokol pre výmenu štruktúrovaných informácií medzi webovými
+službami, založený na XML (Simple Object Access Protocol)
+
+SSO
+
+mechanizmus jednotného prihlásenia sa do súvisiacich, ale nezávislých
+softvérových systémov (Single Sign-On)
+
+rozhrania,
+
+ktorý
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+30/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+SVN
+
+systém pre správu a verzionovanie zdrojových kódov (Apache Sub
+VersioN)
+
+SW
+
+programové vybavenie
+
+TCP
+
+základný komunikačný protokol internetu (Transmission Control Protocol)
+
+TS
+
+(Terminál-server) server, ktorý v OS Windows (> 2000) poskytuje
+terminálové služby, ktoré umožňujú používateľovi prevziať kontrolu nad
+vzdialeným fyzickým alebo virtuálnym počítačom prostredníctvom
+sieťového pripojenia.
+
+UDP
+
+základný protokol pre komunikáciu aplikácií cez internet prostredníctvom
+datagramov (User Datagram Protocol)
+
+WS/Web Service webová služba - spôsob komunikácie medzi dvoma SW aplikáciami cez
+internet (Web Service)
+WSDL
+
+jazyk popisujúci funkcie, ktoré ponúka webová služba (Web Services
+Description Language – version 1.1 / 2.0)
+
+WSRP
+
+štandard sieťového protokolu pre komunikáciu webových služieb so
+vzdialenými portletmi (Web Services for Remote Portlets, version 1.0/2.0)
+
+WS-Security
+
+bezpečnostné rozšírenie SOAP na zabezpečenie webových služieb (Web
+Services Security)
+
+XACML
+
+jazyk pre riadenie prístupu implementovaný XML (eXtensible Access
+Control Markup Language)
+
+XML
+
+jazyk pre kódovanie dokumentov vo formáte čitateľnom pre človeka a
+súčasne pre počítač (Extensible Markup Language)
+
+Xpath
+
+dotazovací jazyk pre výber uzlov z dokumentu XML (XML Path
+Language)
+
+XSLT
+
+jazyk pre transformáciu XML dokumentov do iných XML dokumentov
+alebo na iné objekty - HTML, PDF, PostScript a PNG (Extensible
+Stylesheet Language Transformations, version 1.0 / 2.0)
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+31/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Časť C: Podmienky poskytovania prevádzkovej
+podpory a údržby ISS CVTI SR (SLA)
+1
+
+Pojmy a definície
+
+Systém
+je funkčný celok tvorený dodaným a sprevádzkovaným softvérom ISS CVTI SR podľa zmluvy.
+Porucha
+Pod pojmom porucha sa rozumie čiastočné alebo úplné znefunkčnenie služby častí infraštruktúry ISS
+CVTI SR.
+Servisná požiadavka
+Požiadavka, ktorá sa dá zabezpečiť rutinnými alebo dobre definovanými postupmi (zmena hesla,
+zavedenie nového užívateľa a pod.)
+Incident
+Porucha alebo servisná požiadavka
+Zmenová požiadavka
+Pod zmenovou požiadavkou sa rozumie doplnenie novej alebo úprava existujúcej funkčnosti častí
+infraštruktúry ISS CVTI SR
+Reakčný čas podpory
+Reakčný čas podpory je definovaný ako doba trvania medzi časom nahlásenia poruchy, alebo
+požiadavky a časom spätného hlásenia na miesto zadania spolu s informáciou o plánovanom
+opatrení, príp. náhradnom riešení.
+Doba riešenia (Fix-Time)
+Je čas od spätného hlásenia na miesto zadania (koniec reakčného času) po čas, kedy je daný
+problém úspešne vyriešený, resp. je poskytnuté náhradné riešenie.
+Hotline/ Helpdesk I. úrovne
+predstavuje centrálny vstupný bod na nahlasovanie porúch a požiadaviek. Úlohou prvej úrovne
+helpdesku je rozoznanie typu poruchy resp. požiadavky a jej presmerovanie na ďalšiu vrstvu
+Servicedesku, ktorú tvoria org. útvary Dodávateľa, objednávateľa a tretích strán, zazmluvnených
+objednávateľom.
+Helpdesk II. úrovne
+rieši poruchy a požiadavky týkajúce sa systémovej podpory infraštruktúry ISS CVTI SR zaregistrované
+na Hotline a posunuté priamo na druhú úroveň. Pod riešením sa rozumie obnovenie služby
+v definovanom časovom rámci. Táto úroveň je zabezpečovaná Dodávateľom v spolupráci
+s oprávnenými pracovníkmi objednávateľa.
+Helpdesk III. úrovne
+Pokiaľ riešenie poruchy resp. požiadavky vyžaduje zmenu (kódu, architektúry, procesu a pod.),
+prechádza do zmenového konania v Helpdesku 3. úrovne. Táto úroveň je zabezpečovaná výlučne
+Dodávateľom.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+32/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+2
+
+Predmet plnenia - popis a charakteristika služieb
+
+Dodávateľ sa zmluvou zaväzuje za podmienok a rozsah stanovených v zmluve a jej prílohách
+poskytovať Objednávateľovi servisné služby v zodpovedajúcej kvalite zaisťujúcej správnu, spoľahlivú a
+bezpečnú prevádzku ISS CVTI SR. Servisnými službami sa pre účel zmluvy rozumie podpora
+produktívnej prevádzky a zaistenie údržby ISS CVTI SR. ISS CVTI SR musí byť schopný bezvýpadkovej
+prevádzky s dostupnosťou najmenej 96% (nerátajú sa plánované odstávky a výpadky infraštruktúry).
+
+2.1 Podporovaný systém
+2.1.1
+
+ISS CVTI SR – všetky súčasti vytvorené a upravené podľa zmluvy, ktorej súčasťou je táto
+príloha a podľa tejto prílohy: dodávanú a modernizovanú platformu middleware WSO2
+s funkčnými integračnými prepojeniami a portálom.
+
+2.2 Služby údržby
+2.2.1
+
+Dodávateľ je povinný vykonávať údržbu ISS CVTI SR, čím sa rozumie zaistenie správnej,
+spoľahlivej a bezpečnej prevádzky ISS CVTI SR, čo predstavuje hlavne:
+
+a) pravidelné vykonávanie administrácie všetkých SW komponentov ISS CVTI SR,
+b) pravidelné vykonávanie technických a výkonových optimalizácii všetkých SW komponentov
+ISS CVTI SR,
+c) monitoring prevádzky ISS CVTI SR,
+d) pravidelné vykonávanie preventívnych kontrol ISS CVTI SR,
+e) pravidelné vykonávanie profylaktiky pre predchádzanie problémov,
+f)
+
+pravidelné zálohovanie systémov ISS CVTI SR,
+
+g) preverovanie obnoviteľnosti ISS CVTI SR,
+h) pravidelné konzistentné zálohovanie dát,
+i)
+
+archivácia dát,
+
+j)
+
+vyhodnocovanie prevádzky ISS CVTI SR,
+
+k) vykazovanie prácnosti v človekodňoch v rámci vykonávania údržby ISS CVTI SR
+l)
+
+2.2.2
+
+riešenie štandardných servisných požiadaviek
+
+Dodávateľ je oprávnený za účelom údržby ISS CVTI SR využívať plánované a Objednávateľom
+odsúhlasené odstávky ISS CVTI SR. Pre plánovanie pravidelných odstávok ISS CVTI SR sa
+stanovuje:
+
+a) plánované odstávky sa nezapočítavajú do hodnotenia dostupnosti ISS CVTI SR.
+b) počet plánovaných odstávok nesmie byť viac ako 1x za kalendárny mesiac
+c) plán odstávok musí byť súčasťou dokumentu Plán údržby
+d) Objednávateľ je oprávnený zmeniť plán odstávok a zároveň je povinný o tejto zmene
+informovať Dodávateľa a to najneskôr 48 hodín pred začiatkom plánovanej odstávky.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+33/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+2.2.3
+
+Dodávateľ je povinný vypracovať a predložiť Objednávateľovi dokument Plán údržby ISS CVTI
+SR najneskôr do 10 pracovných dní od prechodu diela podľa zmluvy do ostrej prevádzky s
+detailným popisom spôsobu vykonávania údržby ISS CVTI SR. Plán údržby podlieha schváleniu
+oprávnenej osoby Objednávateľa vo veciach zmluvných.
+
+2.3 Služby podpory
+2.3.1
+
+Dodávateľ sa zaväzuje zaisťovať operatívnu podporu, v rámci ktorej budú môcť poverení
+pracovníci Objednávateľa hlásiť Dodávateľovi zistené incidenty v prevádzke ISS CVTI SR. Len
+pre tieto účely sa Dodávateľ zaväzuje prevádzkovať Helpdesk ISS CVTI SR:
+
+a) telefónna linka:
+
++421 2 3278 8888
+
+b) e-mailová adresa:
+
+cvti-iss@interway.sk
+
+c) webová aplikácia pre evidenciu incidentov:
+Bug tracking system – Dodávateľ poskytne
+prístup Objednávateľovi pred plnením zmluvy
+2.3.2
+
+Dodávateľ sa zaväzuje poskytovať podporu Hotline v rozsahu 8 hodín denne vo všetkých
+pracovných dňoch kalendárneho roku.
+
+2.3.3
+
+Komunikačné kanály uvedené v 2.3.1. sú jediné prípustné pre hlásenie zistených porúch a
+požiadaviek v rámci servisnej podpory ISS CVTI SR.
+
+2.3.4
+
+Dodávateľ je povinný zaistiť a aplikovať podporu v súlade so zmluvou a tejto prílohy, ktoré sú
+jediným prípustným postupom pre hlásenie incidentov, ich spracovanie a vyriešenie. Pre
+tento účel sa stanovuje:
+
+a) incident - čiastočné alebo úplné znefunkčnenie služby častí infraštruktúry ISS CVTI SR
+v porovnaní so stavom definovaným v zmluve, resp. aktuálnou dokumentáciou ISS CVTI SR,
+b) kategória nahlásených incidentov
+c) priority
+d) termíny pre odstránenie nahlásených incidentov
+e) spôsob nahlásenia incidentov
+f)
+
+spôsob hodnotenia prijatých incidentov
+
+g) spôsob riešenia incidentov
+2.3.5
+
+Kategórie nahlásených incidentov sa stanovujú nasledovne:
+
+a) Kategória A – Kritický incident - znemožňuje prevádzku ISS CVTI SR, alebo jeho častí popr.
+spôsobuje zásadné incidenty pre správnu, spoľahlivú a bezpečnú prevádzku ISS CVTI SR.
+b) Kategória B – Podstatný incident - znemožňuje prevádzku častí ISS CVTI SR, resp. je k
+dispozícii alternatívny proces pre zaistenie správnej spoľahlivej a bezpečnej prevádzky ISS
+CVTI SR.
+c) Kategória C – Nepodstatný incident - incidenty, ktoré nespadajú do kategórie A ani
+do kategórie B.
+2.3.6
+
+Technická podpora Dodávateľa bude udeľovať vysokú prioritu prichádzajúcim hláseniam o
+incidentoch v prípade ak budú spĺňať aspoň jedno z nasledovných kritérií:
+
+a) poruchou je postihnutý veľký počet užívateľov
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+34/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+b) významný negatívny dopad na prevádzkovanie a dodávanie služieb Objednávateľa
+c) významný negatívny dopad na zákazníkov/klientov Objednávateľa
+d) významný negatívny dopad na bezpečnosť, právny poriadok/predpisy, resp. dopad
+na dodržiavanie zmluvných podmienok Objednávateľa
+2.3.7
+
+Termíny pre odstránenie nahlásených incidentov sa počítajú v rámci servisného intervalu
+popísaného v bode 2.4 a stanovujú sa nasledovne:
+
+a) Kategória A – Kritický incident: Dodávateľ je povinný začať práce na riešení kritického
+incidentu najneskôr do 1 hodiny od nahlásenia incidentu. Dodávateľ je povinný pokračovať v
+práci na obnovení služby do okamihu vyriešenia alebo do poskytnutia provizórneho riešenia.
+Dodávateľ je povinný obnoviť službu najneskôr do 8 hodín od prijatia oznámenia incidentu.
+Použitie provizórneho riešenia, ktorým sa eliminuje vplyv incidentu na prevádzku systému
+nezbavuje Dodávateľa povinnosti službu obnoviť.
+b) Kategória B – Podstatný incident: Dodávateľ je povinný začať práce na riešení kritického
+incidentu najneskôr do 4 hodín od nahlásenia incidentu, Dodávateľ je povinný pokračovať v
+práci na obnovení služby do okamihu vyriešenia alebo do poskytnutia provizórneho riešenia.
+Dodávateľ je povinný obnoviť službu najneskôr do 16 hodín od doručenia oznámenia
+incidentu. Použitie provizórneho riešenia, ktorým sa eliminuje vplyv incidentu na prevádzku
+systému, nezbavuje Dodávateľa povinnosti službu obnoviť.
+c) Kategória C – Nepodstatný incident: Dodávateľ je povinný odstrániť príčinu incidentu v rámci
+nasadenia nasledujúcej verzie ISS CVTI SR, popr. v rámci pravidelnej plánovanej odstávky,
+pokiaľ nedôjde k inej dohode.
+2.3.8
+
+Spôsob nahlásenia incidentu sa stanovuje nasledovne:
+Oprávnení pracovníci objednávateľa po zistení incidentu oznámia prostredníctvom
+stanovených komunikačných kanálov incident na Hotline ISS CVTI SR. Nahlásenie incidentu
+musí obsahovať hlavne:
+
+a) popis incidentu
+b) popis akcií, ktoré incident vyvolali
+c) návrh kategórie incidentu
+d) čas ohlásenia incidentu
+2.3.9
+
+Dodávateľ je povinný vykonať bezodkladne po prijatí hlásenia incidentu kontrolu jeho
+formálnej úplnosti; ďalej zaevidovať hlásenie do webovej aplikácie evidencie incidentov, (ak
+nebola táto použitá pre hlásenie incidentu) a postúpiť hlásenie k hodnoteniu incidentu.
+
+2.3.10 Dodávateľ je povinný posúdiť nahlásený incident, a to hlavne z hľadiska:
+a) dopadu na zabezpečenie procesov poskytovania služieb Objednávateľa svojim zákazníkom
+b) technických príčin vzniku incidentu
+c) spôsobu odstránenia incidentu
+2.3.11 Pokiaľ dôjde k rozporu v hodnotení či sa jedná o incident, popr. k rozporu v stanovení
+kategórie incidentu, sú oprávnené osoby vo veciach technických povinní sa pokúsiť nájsť
+zhodu. Do dosiahnutia zhody platí hodnotenie a kategória ohlásená Objednávateľom.
+Jednanie o zhode nemá odkladný účinok na stanovené termíny odstránenia incidentov.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+35/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+Ak nedôjde k zhode, je platné hodnotenie a stanovenie kategórie incidentu ohlásenej
+Objednávateľom.
+2.3.12 Dodávateľ je povinný všetky údaje súvisiace so životným cyklom hlásenia incidentu evidovať
+vo webovej aplikácii pre evidenciu incidentov.
+2.3.13 Spôsob odstránenia incidentov sa stanovuje nasledovne:
+Dodávateľ je povinný odstrániť incident v čo najkratšom možnom termíne; zároveň je pre
+prípad možného nedodržania stanovených termínov Dodávateľ oprávnený navrhnúť
+Objednávateľovi alternatívne riešenie pre dobu potrebnú pre odstránenie incidentu.
+Objednávateľ je oprávnený toto riešenie odmietnuť.
+Dodávateľ je povinný v rámci odstránenia incidentu aktualizovať súvisiacu dokumentáciu a
+túto poskytnúť v pravidelných mesačných periódach Objednávateľovi.
+Dodávateľ je povinný evidovať všetky informácie súvisiace s odstraňovaním incidentov
+vo webovej aplikácii pre evidenciu incidentov. Zároveň je Dodávateľ povinný vytvárať
+pravidelné mesačné reporty o riešení incidentov a tieto poskytovať Objednávateľovi, vždy
+v 1. týždni nasledujúceho mesiaca. Pre mesačné reporty sú stanovené hlavne tieto údaje:
+a) jednoznačné identifikačné číslo
+b) čas ohlásenia incidentu
+c) popis incidentu
+d) čas začiatku odstraňovania incidentu
+e) čas konca odstraňovania incidentu
+f)
+
+technické príčiny incidentu
+
+g) spôsob odstránenia incidentu
+h) meno pracovníka Dodávateľa vykonávajúceho odstránenie incidentu
+
+2.4 Servisný interval
+2.4.1
+
+Dodávateľ je povinný dodávať služby podpory a údržby v hlavnej pracovnej dobe, t.j. v
+pracovné dni od 08:00 - 16:00. Výnimka z poskytovania podpory počas:
+a) pravidelných odstávok systému
+b) dní pracovného pokoja (sobota, nedeľa)
+c) štátnych sviatkov v rámci Slovenskej republiky
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+36/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+2.5 Pravidelné okná údržby
+2.5.1
+
+3
+3.1
+
+4
+4.1
+
+Každá pravidelná údržba (update, upgrade, patch) sa môže vykonávať vo vopred
+naplánovaných časoch (oknách údržby) a to zásadne mimo hlavného prac. času. Dodávateľ je
+povinný poskytovať Objednávateľovi včasné upozornenia o všetkých plánovaných časoch
+údržby systému.
+
+Reporty o prevádzke systému
+Dodávateľ je povinný predložiť pravidelné mesačné reporty vždy najneskôr k 10. dňu
+kalendárneho mesiaca nasledujúceho po kalendárnom mesiaci pre ktorý sa report vytvára.
+Zároveň je Dodávateľ povinný k tomuto dátumu predložiť aktualizovanú dokumentáciu v
+prípade významnej aktualizácie ISS CVTI SR.
+
+Miesto a termín poskytovania služieb
+Miestom poskytovania služieb je:
+a) CVTI SR, Lamačská cesta, Bratislava
+b) DC VaV, Žilina
+
+4.2
+
+5
+5.1
+
+6
+
+Služby podľa tejto prílohy k zmluve budú poskytované priebežne odo dňa prechodu systému
+do ostrej prevádzky po dobu 24 mesiacov.
+
+Poskytnutie zdrojových kódov
+Dodávateľ je povinný k ukončeniu každého obdobia podľa čl. 4 tejto prílohy zmluvy odovzdať
+Objednávateľovi aktualizovaný súbor zdrojových kódov a súvisiacej dokumentácie. Dodávateľ
+je povinný stanoviť spôsob a rozsah odovzdávania súboru zdrojových kódov v dokumente
+Plán Údržby ISS CVTI SR.
+
+Oprávnené osoby a eskalačný proces
+
+6.1
+
+Zmluvné strany menujú oprávnené osoby zodpovedné za komunikáciu týkajúcu sa používania
+a prevádzkovania systému a riadenie problémov.
+
+6.2
+
+Eskalačný proces
+V prípade, že príde k nezhodám medzi zmluvnými stranami o postupe a kvalite riešenia
+incidentov a dodávaných služieb, platí nasledovná eskalačná matica:
+
+Eskalačná úroveň
+
+Dodávateľ
+
+Objednávateľ
+
+Eskalačná úroveň 1
+
+Ing. Miroslava Gajdošová
+
+RNDr. Marián Trgala, PhD.
+
+Eskalačná úroveň 2
+
+Ing. Richard Weber
+
+Mgr. Juraj Noge
+
+Eskalačná úroveň 3
+
+Ing. Petr Weber
+
+Prof. RNDr. Ján Turňa, CSc.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+37/B3
+
+Centrum vedecko-technických informácií SR
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___
+
+podľa ustanovení zákona č.25/2006 Z .z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+
+7
+
+Súčinnosť objednávateľa
+
+7.1
+
+Objednávateľ je povinný na základe vzájomnej dohody a v rámci bezpečnostných štandardov
+Objednávateľa umožniť pracovníkom Dodávateľa lokálny aj diaľkový prístup k dohodnutým
+zariadeniam a prvkom ISS CVTI SR prostredia za účelom plnenia podľa zmluvy.
+
+7.2
+
+Objednávateľ je povinný poskytnúť Dodávateľovi prístup do svojich prevádzkových
+miestností po dobu potrebnú k splneniu záväzkov Dodávateľa vyplývajúcich zo zmluvy.
+
+7.3
+
+Objednávateľ je povinný zabezpečiť potrebnú súčinnosť svojich pracovníkov nutnú
+pre činnosti Dodávateľa súvisiacich s plnením zmluvy.
+Pracovníci Objednávateľa sú povinní:
+a) byť dostupní e-mailom, telefonicky, alebo osobne v prípade riešenia problému
+a/alebo iného incidentu alebo požiadavky v súvislosti s poskytovaním služby
+b) komunikovať Dodávateľovi špecifické požiadavky na dostupnosť služby
+c) spolupracovať pri riešení servisných požiadaviek
+
+7.4
+
+Objednávateľ je povinný zabezpečiť potrebnú súčinnosť pracovníkov dodávateľov SW
+aplikácii tretích strán, nutnú pre činnostiach Dodávateľa súvisiacich s plnením zmluvy.
+
+7.5
+
+Objednávateľ je povinný zabezpečiť spoľahlivú prevádzku prostriedkov internetovej a
+e-mailovej komunikácie, firewall-y a prvky lokálnej počítačovej siete, ktoré priamo využíva ISS
+CVTI SR.
+
+7.6
+
+Objednávateľ je povinný oznámiť Dodávateľovi akékoľvek zmeny, ktoré plánuje realizovať v
+HW a SW prostredí ISS CVTI SR a v prostrediach s týmto prostredím priamo súvisiacich a to
+aspoň 3 mesiace pred plánovaným zámerom.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Súťažné podklady – B3. Obchodné podmienky dodania predmetu zákazky
+38/B3
+
+

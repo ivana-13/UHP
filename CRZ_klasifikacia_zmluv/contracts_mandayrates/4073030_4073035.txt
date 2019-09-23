@@ -1,0 +1,723 @@
+a
+
+j i r
+
+e
+
+c
+
+o
+
+CENTRAL EUROPE
+
+FINANČNE RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Zmenový list číslo 004/2019
+Objednávateľ
+Zhotoviteľ
+Produkt
+
+Finančné riaditeľstvo SR
+Asseco Central Europe, a.s.
+DWH FR SR
+
+Názov zadania_____________________________ ______________________ _____________________
+Analýza a implementácia pre zapracovanie nových legislatívnych zmien:
+1.
+
+Poskytovanie údajov pre Stavebné sporiteľne.
+
+2.
+
+Zapracovanie zmien v súvislosti so vznikom organizačného útvaru Úradu pre vybrané
+hospodárske subjekty (VHS).
+Zapracovanie legislatívnej zmeny nového vzoru tlačiva pre daňové priznanie k dani
+z poistenia.
+
+3.
+
+Popis zadania__________________________________________________________________________
+V rámci zabezpečenia potrieb FR SR žiadame o zapracovanie nových legislatívnych zmien
+nasledovne:
+1.
+
+Poskytovanie údajov pre Stavebné sporiteľne.
+Realizácia zapracovania legislatívnej zmeny nového spracovania, doplnenia a poskytovania
+údajov pre Stavebné sporiteľne v zmysle novely zákona o stavebnom sporení č. 277/2018, ktorým
+sa mení a dopĺňa zákon Slovenskej národnej rady č. 310/1992 Zb. o stavebnom sporení v znení
+neskorších predpisov.
+Súčasťou riešenia bude aj nový externý výstup v module „Externé výstupy“ o úhrne zdaniteľných
+príjmov príslušných stavebných sporiteľov {fyzických osôb) za daný kalendárny rok.
+
+2.
+
+Zapracovanie zmien v súvislosti so vznikom organizačného útvaru Úradu pre vybrané
+hospodárske subjekty (VHS).
+Realizácia zapracovania legislatívnej zmeny v súvislosti so vznikom organizačného útvaru Úradu
+pre vybrané hospodárske subjekty (VHS) v zmysle zákona č. 35/2019 Z. z. o finančnej správe
+a o zmene a doplnení niektorých zákonov platných od 1.7.2019 do príslušných vrstiev
+a vybraných modulov DWH nasledovne:
+a) V module „Analytický list“:
+•
+
+zapracovanie všetkých zmien názvov pôvodného DÚ pre VDS na nový Úrad pre VHS,
+
+•
+
+v prípade dostupnosti informácie o pridelení statusu „Schválený hospodársky subjekt“
+bude zobrazené takéto pridelenie statusu.
+
+b) V „Dataminingových modeloch“ bude potrebná úprava zoznamu subjektov, ktoré vstupujú
+do prepočtu DM:
+•
+
+pre „DM 31 - Odhaľovanie rizikového správania daňových subjektov DÚ VDS na kontrolu
+DPH“ bude potrebné zmenu zoznamu subjektov prvýkrát zohľadniť pri prepočte
+za zdaňovacie obdobie júl 2019, t. j. k 10.08.2019,
+
+Strana 1/3
+
+C1J1TECIO
+CENTRAL EUROPE
+
+•
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+pre „DM61 - Výber daňových subjektov DÚ VDS a subjektov s transferovým oceňovaním
+na kontrolu dane z príjm ov PO - určenie pravdepodobnosti nálezď bude potrebné zmenu
+zoznamu subjektov prvýkrát zohľadniť až v druhom prepočte DM61 za zdaňovacie
+obdobie 2018, t. j. k 31.10.2019.
+
+c) Úpravy popisného kódu v systémových, aplikačných a dimenzných tabuľkách z hodnoty „VDS"
+na „V H Š ako aj dopady zmeny na OLAP kocky.
+d) V prístupových právach k jednotlivým modulom DWH v prípade dopadu zmeny organizačnej
+štruktúry vzniknutého Úradu pre VHS na aktuálny stav v DWH.
+
+3.
+
+Zapracovanie legislatívnej zmeny nového vzoru tlačiva pre daňové priznanie k dani
+z poistenia.
+Realizácia zapracovania legislatívnej zmeny nového vzoru tlačiva daňového priznania pre daň
+z poistenia podľa zákona č.213/2018 Z.z. o dani z poistenia a o zmene a doplnení niektorých
+zákonov do príslušných vrstiev a vybraných modulov DWH nasledovne:
+a) V module „Analytický list“:
+•
+
+v záložke „R egister budú zobrazované údaje o evidencii/registrácii k dani z poistenia,
+
+•
+
+v záložke „Dane“ budú zobrazované detailné údaje z daňového priznania k dani
+z poistenia pre príslušný daňový subjekt,
+
+•
+
+v záložke „Kontroly" budú zobrazované informácie o daňových kontrolách na dani
+z poistenia,
+
+•
+
+v záložke „OÚD“ budú zobrazované údaje o predpisoch a platbách k dani z poistenia,
+
+•
+
+v záložke „Nedopiatký' bude zobrazovaný zoznam nedoplatkov ku konkrétnemu dátumu.
+
+b) V module „Externé výstupy“ v časti „Analýza údajov“ bude vytvorený externý výstup, ktorý
+bude obsahovať jednotlivé riadky daňových priznaní (agregovaný pohľad aj detailný pohľad).
+c) V module „Analýza dát“ bude vytvorená „Analytická kocka pre daň z poistenia“, ktorá bude
+obsahovať jednotlivé riadky daňových priznaní.
+Vzor tlačiva bol zverejnený ako príloha k opatreniu MF SR, ktorým sa ustanovuje vzor daňového
+priznania k dani z poistenia:
+o
+
+vzor tlačiva č. MF/010937/2018-731 (DPDPv18_1) daňového priznania pre daň
+z poistenia platný od 1.1.2019
+
+Riešenie bude realizované etapovité podľa požiadaviek definovaných odberateľom nasledovne:
+1.
+
+Etapa
+Termín realizácie do 28.06.2019.
+V rámci tejto etapy budú realizované požiadavky uvedené v bode 1. a 2.
+
+2.
+
+Etapa
+Termín realizácie do 30.08.2019.
+V rámci tejto etapy bude realizovaná požiadavka uvedená v bode 3.
+
+Uvedené etapy budú implementované podľa príslušnej analýzy, ktorá bude pre účely každej
+z jednotlivých etáp vypracovaná.
+
+#
+1.
+
+Príloha
+Vzor č. MF/010937/2018-731 (DPDPv18_1) pre Daň z poistenia
+platný od 1.1.2019
+
+Formát
+PDF
+
+Strana 2/3
+
+GiJireczo
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Prílohy špecifikované v horeuvedenom zozname tvoria neoddeliteľnú súčasť tohto zmenového listu.
+Etapa 1 :
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+28.06.2019
+793
+70 759,39,- EUR
+14 151,88,- EUR
+84 911,27,- EUR
+
+Etapa 2;
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+30.08.2019
+889
+79 325,47,- EUR
+15 865,09,- EUR
+95 190,56,- EUR
+
+Objednávateľ a zhotoviteľ sa pre realizáciu tohto ZL dohodli, že predmetné etapy budú fakturované
+samostatne po zmluvne definovanom akceptačnom konaní.
+Spolu:
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+Zodpovedný zástupca zo strany zhotoviteľa
+Zodpovedný zástupca zo strany objednávateľa
+
+1 682
+150 084,86,- EUR
+30 016,97,- EUR
+180 101,83,- EUR
+......​. ...........​.......
+........​. ........​. ...........
+
+Reštrikcie, poznámky kfunkcionalite_______________________________________________________
+Objednávateľ zabezpečí pre zhotoviteľa súčinnosť v dostatočnom rozsahu a požadovanom čase
+vo forme konzultácií, dodania príslušných podkladov, údajov, výstupov a spolupráce zástupcov FR SR,
+ako aj s dodávateľmi dotknutých IS potrebných pre realizáciu riešenia v DWH.
+Toto zmenové konanie v zmysle bodu VI.3.C Zmluvy o poskytovaní servisu a údržby na programové
+vybavenie DWH a o technickej podpore na SW produkty pre DWH číslo ZD20020007 (ďalej len
+„Zmluva“) navyšuje hodnotu diela pre účely servisného paušálu o 30 %.
+
+Štatutárny zástupca objednávateľa
+
+Strana 3/3
+
+r
+
+C l-C T E Ľ Z O
+
+]
+ľ
+
+CENTRAL EUROPE
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+/
+
+Kalkulácia ZK 004/2019
+
+Č innosť
+
+p .e.
+
+P rácnosť Jednotk.
+suma
+v človekov EUR
+hodinách
+
+Suma bez
+DPH v EUR
+
+Sadzba
+DPH v %
+
+Suma DPH
+v EUR
+
+Suma celkom
+v EUR
+
+i
+
+Riadiace práce
+
+132
+
+89,23
+
+11 778,36
+
+20,00
+
+2 355,67
+
+14 134,03
+
+2
+
+Analytické práce spolu
+
+540
+
+89,23
+
+48 184,20
+
+20,00
+
+9 636,84
+
+57 821,04
+
+3
+
+20,00
+
+2 551,98
+
+15 311,87
+
+Dizajnérske práce
+
+143
+
+89,23
+
+12 759,89
+
+4
+
+Programátorské práce
+
+419
+
+89,23
+
+37 387,37
+
+20,00
+
+7 477,47
+
+44 864,84
+
+5
+
+Testovacie práce u zhotoviteľa
+
+242
+
+89,23
+
+21 593,66
+
+20,00
+
+4 318,73
+
+25 912,39
+
+6
+
+Databázová a systémová podpora u zhotovileľa
+
+71
+
+89,23
+
+6 335,33
+
+20,00
+
+1 267,07
+
+7 602,40
+
+7
+
+Zapracovanie zmien do dokumentácie
+
+34
+
+89,23
+
+3 033,82
+
+20,00
+
+606,76
+
+3 640,58
+
+8
+
+Podpora inštalačných prác u objednávateľa
+
+25
+
+89,23
+
+2 230,75
+
+20,00
+
+446,15
+
+2 676,90
+
+9
+
+Databázová a systémová podpora u objednávateľa
+Podpora zhotoviteľa pri testovaní objednávateľom
+
+42
+34
+
+89,23
+89,23
+
+3 747,66
+3 033,82
+
+20,00
+
+749,53
+
+20,00
+
+606,76
+
+4 497,19
+3 640,58
+
+30 0 1 6,97
+
+180 10 1 ,8 3
+
+10
+
+SPOLU
+
+1 682
+
+150 084 ,8 6
+
+Štatutárny zástupca objednávateľa
+
+VZOR
+DPDPV18 1
+
+Príloha k opatreniu č. MF/010937/2018-731
+
+DÁNOVE PRIZNANIE
+DAŇ Z POISTENIA
+
+r
+
+~ l
+
+podľa zákona č. 213/2018 Z. z. o dani z poistenia a o zmene a doplnení niektorých zákonov
+Daňové identifikačné číslo
+
+Druh priznania
+
+(vyznačí sa x)
+
+riadne
+
+Dátum zistenia skutočnosti na podanie
+dodatočného daňového poznania
+
+Zdaňovacie obdobie
+Štvrťrok
+Rok
+
+opravné
+dodatočné
+Osoba povinná platiť daň z poistenia správcovi dane
+poisťovateľ
+
+( 1- 4)
+
+(vystačí sa x)
+
+poisťovňa so sídlom na území Slovenskej republiky
+poisťovňa z iného členského štátu Európskej únie alebo členského štátu Európskej dohody o voľnom obchode,
+ktorý podpísal Zmluvu o Európskom hospodárskom priestore
+pobočka zahraničnej poisťovne
+poistnik
+právnická osoba, ktorej sú preúčtované náklady poistenia
+Údaje o osobe povinnej p la tiť daň z poistenia správcovi dane
+Obchodné meno právnickej osoby / meno a priezvisko fyzickej osoby
+
+Telefónne číslo
+
+Emailová adresa
+
+Adresa sídla alebo trvalého pobytu
+Ulica
+
+PSČ
+
+Číslo
+
+Obec
+
+Štát
+
+Adresa pobočky alebo obvyklého pobytu
+Ulica
+
+PSČ
+
+Číslo
+
+Obec
+
+Štát
+
+Meno a priezvisko osoby oprávnenej na podanie daňového priznania za osobu podávajúcu daňové priznanie
+
+Telefónne číslo
+
+Emailová adresa
+
+Poznámky
+
+V y h la s u je m , že u ved en é ú d a je sú
+s p rá v n e a ú p ln é .
+
+MF/010937/2018-731
+
+Dátum
+
+Strana'
+
+DPDPvIS 2
+
+r
+Vznik daňovej povinnosti poisťovateľa
+(vyznačí sa x)
+prijatím platby poistného
+zaúčtovaním predpisu pohľadávky z poistného
+Sadzba
+
+1
+
+Poistenie úrazu
+
+2
+
+Poistenie choroby
+
+3
+
+Poistenie škôd na pozemných
+dopravných prostriedkoch iných než
+koľajových
+
+splatnosťou poistného
+Daň z poistenia
+
+Základ dane z poistenia
+9
+
+9
+
+v
+
+J
+
+9
+
+9
+
+4
+
+Poistenie škôd na koľajových
+dopravných prostriedkoch
+
+1
+
+J
+
+5
+
+Poistenie škôd na lietadlách
+
+1
+
+9
+
+6
+
+Poistenie škôd na plávajúcich
+dopravných prostriedkoch
+
+1
+
+9
+
+7
+
+Poistenie dopravy tovaru počas
+prepravy vrátane batožín a iného
+majetku bez ohľadu na použitý
+dopravný prostriedok
+
+9
+
+9
+
+t
+
+9
+
+9
+
+9
+
+í
+
+J
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Poistenie škôd na inom majetku, ako
+je uvedené v treťom bode až
+siedmom bode, spôsobených
+požiarom, výbuchom, víchricou,
+prírodnými živlami inými ako víchrica,
+jadrovou energiou, zosuvom alebo
+zosadaním pôdy
+Poistenie iných škôd na inom
+majetku, ako je uvedené v treťom
+bode až siedmom bode, vzniknutých
+krupobitím alebo mrazom, alebo inými
+príčinami napríklad krádežou, ak nie sú
+tieto príčiny zahrnuté vôsmom bode
+Poistenie zodpovednosti dopravcu
+Poistenie zodpovednosti za škodu
+spôsobenú prevádzkou lietadla
+vrátane zodpovednosti dopravcu
+Poistenie zodpovednosti za škodu
+spôsobenú prevádzkou riečneho,
+prieplavového, jazerného alebo
+námorného dopravného prostriedku
+vrátane zodpovednosti dopravcu
+Všeobecné poistenie zodpovednosti
+za škodu iné, ako je uvedené
+v bodoch 10 až 12
+
+9
+
+I
+
+9
+
+r
+
+9
+
+>
+
+9
+
+14
+
+Poistenie úveru
+
+15
+
+Poistenie záruky
+
+16
+
+Poistenie rôznych finančných strát
+
+j
+
+9
+
+17
+
+Poistenie právnej ochrany
+
+i
+
+9
+
+i
+
+9
+
+f
+
+9
+
+9
+
+9
+
+1
+
+18 Asistenčné služby
+19
+
+Oprava podľa § 7 zákona č. 213/2018
+Z. z. o dani z poistenia a o zmene a
+doplnení niektorých zákonov
+
+20
+
+SPOLU
+
+ÚDAJE DODATOČNÉHO
+DAŇOVÉHO PRIZNANIA
+
+MF/010937/2018-731
+
+Rozdiel oproti poslednej známej dani z poistenia spolu
+<+) v prospech správcu dane
+{-) v prospech osoby povinnej platiť dan z poistenia správcovi dane
+
+Strana 2
+
+

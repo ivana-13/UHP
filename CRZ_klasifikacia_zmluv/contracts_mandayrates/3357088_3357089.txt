@@ -1,0 +1,516 @@
+Kúpna zmluva č. Z20189680_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Slovenská inovačná a energetická agentúra
+Bajkalská 27, 82799 Bratislava, Slovenská republika
+00002801
+2020877749
+SK2020877749
+SK6581800000007000062596
+0915 839 848
+
+Dodávateľ:
+Obchodné meno:
+
+MICROCOMP - Computersystém s r.o.
+
+Sídlo:
+
+Kupecká 9, 94901 Nitra, Slovenská republika
+
+IČO:
+
+31410952
+
+DIČ:
+
+2020405354
+
+IČ DPH:
+
+SK2020405354
+
+Číslo účtu:
+
+IBAN SK38 1100 0000 0026 2729 0119
+
+Telefón:
+
+0376511306
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Nákup nových mailových serverov
+
+Kľúčové slová:
+
+server, dokumentový, do racku
+
+CPV:
+
+48820000-2 - Servery; 48000000-8 - Softvérové balíky a informačné systémy; 60000000-8 Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka č. 1:
+
+Nákup nových dokumentových serverov
+
+Funkcia
+Servery s operačným systémom ("OS") - e-mailové so schránkami a proxy pre centrálu objednávateľa, sieťové služby Active
+Direstory, doménové politiky, DHCP a DNS.
+Technické vlastnosti
+
+Jednotka
+
+Server č. 1 - e-mailový so schránkami, s OS
+
+ks
+
+2
+
+Server č. 2 - proxy s OS
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Server č. 1 - e-mailový so schránkami, s OS
+
+-
+
+Prevedenie:
+
+Optimalizovaný pre umiestnenie do 19" racku, výška maximálne
+1U.
+
+Výkon:
+
+Model servera s procesorom typu x86 musí byť preukázateľne
+schopný dosiahnuť výkon minimálne 11400 bodov podľa
+PassMark-CPU Mark
+http://www.cpubenchmark.net/high_end_cpus.html.
+
+Požadovaný počet procesorov (socket) / max. počet
+procesorov (socket):
+
+1/2.
+
+Strana 1 z 5
+
+Minimum
+
+Maximum
+
+Presne
+
+Systémová pamäť:
+
+Minimálne 64 GB DDR4 2666 MHz, Registered DIMM, s funkciou
+detekcie a opravy multibitových chýb, zrkadlenia pamätí, on-line
+spare pamäte, s podporou rozšírenia na min. 768 GB.
+
+Subsystém pevných diskov:
+
+Minimálne 5 x 1,2 TB HDD, 10k rpm 12Gbps SAS, s možnosťou
+rozšírenia na minimálne 8 diskov. Podpora pre minimálne 2 HDD
+typu SSD M.2 v serveri, priamo na základnej doske
+
+-
+
+alebo prostredníctvom modulu výrobcu servera.
+
+Diskový radič:
+
+Hardvérová podpora minimálne pre RAID 0, 1, 5, 50, 6, 60; so
+zálohovanou flash pamäťou s veľkosťou minimálne 2048 MB.
+
+Sieťový adaptér:
+
+Minimálne 4 x 1 Gbps Ethernet, s podporou TCP/IP Offload Engine
+(TOE), Wake on LAN a iSCSI.
+
+Dátové a video konektory:
+
+Minimálne 2 USB porty na prednom paneli, minimálne 2 USB porty
+3.0 a minimálne jeden 1 VGA port na zadnom paneli.
+
+Rozširujúce sloty:
+
+Min. 1 x PCI Express x8 slot z možnosťou rozšírenia o ďalšie 2x
+PCI-Express pomocou príslušnej riser karty.
+
+Bezpečnosť:
+
+TPM 2.0.
+
+Napájanie:
+
+Minimálne 2 Redundantné zdroje napájania, vymeniteľné za
+chodu.
+
+Ventilátory a chladenie:
+
+Všetky inštalované ventilátory musia byť redundantné a
+vymeniteľné za chodu.
+
+Správa a manažment:
+
+Formou vzdialenej grafickej KVM konzoly, možnosť štartu, reštartu
+s shutdown serveru cez sieť LAN, nezávisle od OS, manažment
+hardvéru vrátanie možnosti nastavenia RAID úrovni lokálnych
+diskov,
+
+-
+
+požadujeme podporu pre DMTF Redfish API. Požadujeme
+možnosť vzdialene správy aj na mobilných zariadeniach typu
+smartphone alebo tablet pomocou HTML5. Požadované
+funkcionality a prístup
+
+-
+
+k aktualizáciám musia byť poskytované s časovo neobmedzeným
+licenčným pokrytím.
+
+Predporuchová diagnostika:
+
+Predporuchová diagnostika na procesory, pamäťové moduly, RAID
+radič, napájacie zdroje, ventilátory a HDD.
+
+Záruka:
+
+Rozšírená záruka výrobcu zariadenia v trvaní minimálne 3 roky, s
+dostupným nahlasovaním porúch 24x7, s garantovanou dobou
+opravy do 24 hodín od nahlásenia poruchy v mieste inštalácie
+zariadenia
+
+-
+
+kdekoľvek na území SR, s bezplatnou výmenou vadných dielov
+vrátane práce servisného technika. Záruka musí byť
+zaregistrovaná u výrobcu zariadenia a popis a parametre záruky
+musia byť overiteľné na
+
+-
+
+web stránkach výrobcu zadaním výrobného čísla zariadenia.
+Výrobca musí pre dodávané zariadenie poskytovať možnosť
+predĺženia rozšírenej záruky počas minimálne ďalších 3 rokov.
+
+Operačný systém:
+
+Windows Server 2016 Std. alebo ekvivalent umožňujúci plnú
+integráciu a podporu pre Active Directory, doménové politiky,
+DHCP a DNS.
+
+Softvér:
+
+MS Exchange 2016 Standard.
+
+Server č. 2 - proxy s OS
+
+-
+
+Prevedenie:
+
+Optimalizovaný pre umiestnenie do 19" racku, výška maximálne
+1U.
+
+Výkon:
+
+Model servera s procesorom typu x86 musí byť preukázateľne
+schopný dosiahnuť výkon minimálne 11400 bodov podla
+PassMark-CPU Mark
+http://www.cpubenchmark.net/high_end_cpus.html.
+
+Požadovaný počet procesorov (socket) / max. počet
+procesorov (socket):
+
+1/2.
+
+Systémová pamäť:
+
+Minimálne 16 GB (2x8 GB) DDR4 2666MHz Registered DIMM, s
+funkciou detekcie a opravy multibitových chýb, zrkadlenia pamätí,
+on-line spare pamäte, s podporou rozšírenia na min. 768 GB.
+
+Strana 2 z 5
+
+Subsystém pevných diskov:
+
+Minimálne 3 x 1 TB HDD, 7200 rpm SAS, s možnosťou rozšírenia
+na minimálne 8 diskov. Podpora pre minimálne 2 HDD typu SSD
+M.2 v serveri, priamo na základnej doske
+
+-
+
+alebo prostredníctvom modulu výrobcu servera.
+
+Diskový radič:
+
+Hardvérová podpora minimálne pre RAID 0, 1, 5, 50, 6, 60; so
+zálohovanou flash pamäťou s veľkosťou minimálne 2048 MB.
+
+Sieťový adaptér:
+
+Minimálne 4 x 1 Gbps Ethernet, s podporou TCP/IP Offload Engine
+(TOE), Wake on LAN a iSCSI.
+
+Dátové a video konektory:
+
+Minimálne 2 USB porty na prednom paneli, minimálne 2 USB porty
+3.0 a minimálne jeden 1 VGA port na zadnom paneli.
+
+Rozširujúce sloty:
+
+Min. 1 x PCI Express x8 slot z možnosťou rozšírenia o ďalšie 2x
+PCI-Express pomocou príslušnej riser karty.
+
+Bezpečnosť:
+
+TPM 2.0.
+
+Napájanie:
+
+Minimálne 2 Redundantné zdroje napájania, vymeniteľné za
+chodu.
+
+Ventilátory a chladenie:
+
+Všetky inštalované ventilátory musia byť redundantné a
+vymeniteľné za chodu.
+
+Správa a manažment:
+
+Formou vzdialenej grafickej KVM konzoly, možnosť štartu, reštartu
+s shutdown serveru cez sieť LAN, nezávisle od OS, manažment
+hardvéru vrátanie možnosti nastavenia RAID úrovni lokálnych
+diskov,
+
+-
+
+požadujeme podporu pre DMTF Redfish API. Požadujeme
+možnosť vzdialene správy aj na mobilných zariadeniach typu
+smartphone alebo tablet pomocou HTML5. Požadované
+funkcionality a prístup
+
+-
+
+k aktualizáciám musia byť poskytované s časovo neobmedzeným
+licenčným pokrytím.
+
+Predporuchová diagnostika:
+
+Predporuchová diagnostika na procesory, pamäťové moduly, RAID
+radič, napájacie zdroje, ventilátory a HDD.
+
+Záruka:
+
+Rozšírená záruka výrobcu zariadenia v trvaní minimálne 3 roky, s
+dostupným nahlasovaním porúch 24x7, s garantovanou dobou
+opravy do 24 hodín od nahlásenia poruchy v mieste inštalácie
+zariadenia
+
+-
+
+kdekoľvek na území SR, s bezplatnou výmenou vadných dielov
+vrátane práce servisného technika. Záruka musí byť
+zaregistrovaná u výrobcu zariadenia a popis a parametre záruky
+musia byť overiteľné na
+
+-
+
+web stránkach výrobcu zadaním výrobného čísla zariadenia.
+Výrobca musí pre dodávané zariadenie poskytovať možnosť
+predĺženia rozšírenej záruky počas minimálne ďalších 3 rokov.
+
+Operačný systém:
+
+Windows Server 2016 Std. alebo ekvivalent umožňujúci plnú
+integráciu a podporu pre Active Directory, doménové politiky,
+DHCP a DNS.
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+1. Dodanie tovaru (hardvér a príslušné licencie v zmysle špecifikácií uvedených v článku "Technická špecifikácia predmetu
+zákazky") je vrátane dopravy, vynesenia na miesto plnenia, odvozu obalov, v ktorých bude predmet zákazky dopravený a
+vrátane prípadnej registrácie/aktivácie komponentov, funkcionalít, servisných služieb a záruk. Cena tovaru zahŕňa všetky
+náklady dodávateľa na dodanie predmetu zmluvy (t. j. napr. dopravu na miesto plnenia, clo, recyklačné poplatky).
+2. Dodanie tovaru spolu s faktúrou, dodacím listom a záručným listom (resp. záručnými listami).
+3. V lehote do 7 dní odo dňa uzavretia zmluvy sa požaduje predloženie podrobného aktualizovaného rozpočtu predmetu
+zákazky v elektronickej verzii (napr. vo formáte MS Excel). V podrobnom aktualizovanom rozpočte bude uvedené:
+a) technické vlastnosti z opisného formulára,
+b) názov/označenie dodávaného tovaru, t. j. uvedenie konkrétnej značky, výrobcu a typového označenia tovaru, ktorý bude
+predmetom dodania (t. j. napr. dátové hárky /produktové listy/ ponúknutého tovaru, ktoré budú overiteľné aj z bežne
+dostupných zdrojov cez stránku výrobcu), na základe čoho dodávateľ preukáže splnenie požadovaných technických a iných
+požiadaviek na predmet zákazky (rovnaký ako bude uvedený na FA a dodacom liste),
+Strana 3 z 5
+
+c) merná jednotka (ks),
+d) počet ks,
+e) cena bez DPH za 1 ks zaokrúhlená matematicky na dve desatinné miesta,
+f) cena bez DPH za požadovaný počet ks zaokrúhlená matematicky na dve desatinné miesta,
+g) výška DPH vyjadrená v EUR,
+h) cena s DPH za požadovaný počet ks zaokrúhlená matematicky na dve desatinné miesta.
+4. V nadväznosti na bod č. 3 Osobitných zmluvných podmienok je dodávateľ povinný predložiť objednávateľovi na schválenie
+aj predložený typ tovaru s jeho technickými špecifikáciami. Dodávateľ preukáže splnenie požadovaných technických a iných
+požiadaviek na predmet zákazky predložením technickej dokumentácie výrobcu (napr. dátové hárky / produktové listy
+ponúknutého tovaru, ktoré budú overiteľné aj z bežne dostupných zdrojov cez webovú stránku výrobcu). V prípade rozporu
+medzi technickou špecifikáciou deklarovanou dodávateľom a dokumentáciou výrobcu platí špecifikácia uvedená v
+dokumentácii
+výrobcu. Pokiaľ dodávateľ predloží tovar, ktorý nebude spĺňať požiadavky a podmienky objednávateľa na predmet zmluvy,
+objednávateľ dodávateľovi nepotvrdí schválenie predloženého typu tovaru a jeho technických špecifikácií. V takomto prípade
+je objednávateľ oprávnený odstúpiť od zmluvy.
+5. Dodávateľ je povinný predložiť potvrdenie výrobcu, že dodávateľ alebo výrobca ponúkaného serveru má k dispozícii
+autorizované servisné stredisko na predmet zmluvy, a to do 7 dní odo dňa uzavretia zmluvy.
+6. Dodávateľ dodá predmet zmluvy, ktorý je schválený na dovoz a predaj v Slovenskej republike, resp. v rámci Európskej únie
+a bude vyhovovať všeobecne záväzným právnym predpisom.
+7. Dodávateľ je povinný dodať celý predmet zmluvy nový, pričom predmet zmluvy nesmie byť pred jeho dodaním používaný,
+opotrebovaný alebo testovaný.
+8. Úhrada za dodaný predmet zmluvy bude vykonaná bezhotovostne na základe faktúry a dodacieho listu v súlade s platnými
+Obchodnými podmienkami elektronického trhoviska.
+9. Faktúra musí obsahovať všetky náležitosti v súlade so všeobecne záväznými právnymi predpismi platnými v Slovenskej
+republike a v súlade s platnými Obchodnými podmienkami elektronického trhoviska.
+10. V prípade, ak dodávateľ ku dňu uzavretia zmluvy nie je platiteľ DPH, avšak po jej podpise sa ním stane, nemá nárok na
+zvýšenie ceny o hodnotu DPH, t. j. predložená kontraktačná cena je konečná a nemenná.
+11. Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z.
+12. Objednávateľ neposkytuje preddavok ani zálohovú platbu.
+13. Porušenie povinností uvedených v bodoch 1., 2., 3., 4., 5. sa považuje za podstatné porušenie zmluvných podmienok s
+následkom zániku zmluvy v súlade s Obchodnými podmienkami elektronického trhoviska.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+Okres:
+Obec:
+Ulica:
+3.2
+
+Čas / lehota plnenia zmluvy:
+15.03.2018 08:00:00 - 20.04.2018 16:00:00
+
+Strana 4 z 5
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+3,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.3, účinná zo dňa 1.3.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 13 950,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 16 740,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.3, účinná zo dňa 01.03.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.3, účinná zo dňa 01.03.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 06.03.2018 16:48:01
+Objednávateľ:
+Slovenská inovačná a energetická agentúra
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+MICROCOMP - Computersystém s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

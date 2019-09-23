@@ -1,0 +1,1600 @@
+Ev. č. 244/18/CEZ
+
+Zmluva na dodanie a inštaláciu
+serveru rady IBM Power 8
+(ďalej len „Zmluva“) uzatvorená v zmysle § 269 ods. 2 zákona č. 513/1991 Zb. Obchodného zákonníka
+v znení neskorších predpisov (ďalej len „Obchodný zákonník“) medzi zmluvnými stranami :
+1. Objednávateľ
+
+Slovenský plynárenský priemysel, a.s.
+
+Sídlo:
+
+Mlynské nivy 44/a
+825 11 Bratislava 26
+Akciová spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I.
+Oddiel Sa, vložka 2749/B
+Splnomocnený zástupca:
+IČO:
+IČ DPH:
+DIČ:
+Bankové spojenie I.:
+SWIFT (BIC):
+IBAN:
+Osoba oprávnená zastupovať
+objednávateľa vo veciach zmluvných:
+
+JUDr. Adriana Khandlová
+riaditeľ odboru obstarávania a nákupu
+35 815 256
+SK2020259802
+2020259802
+Tatra banka, a.s.
+TATRSKBX
+SK55 1100 0000 0026 4700 0019
+Mgr. Zuzana Lomnická, strategický nákupca - senior
+
+Osoba oprávnená zastupovať
+objednávateľa vo veciach technických:
+(ďalej len „Objednávateľ“)
+
+, vedúci oddelenia prevádzky ICT
+
+a
+2. Dodávateľ
+
+Atos IT Solutions and Services s.r.o.
+
+Sídlo:
+
+Pribinova 19
+811 09 Bratislava
+spoločnosť zapísaná v Obchodnom registri Okresného súdu Bratislava I
+Oddiel Sro, vložka 66638/B
+Štatutárny zástupca:
+Martin Sůra, konateľ
+IČO:
+45 650 276
+IČ DPH:
+SK2023110661
+DIČ:
+2023110661
+UniCredit Bank Czech Republic and Slovakia, a.s.,
+Bankové spojenie:
+pobočka zahraničnej banky
+SWIFT (BIC):
+UNCRSKBX
+IBAN:
+SK27 1111 0000 0010 9789 5000
+Osoba oprávnená zastupovať dodávateľa
+vo veciach zmluvných:
+Osoba oprávnená zastupovať dodávateľa
+vo veciach technických:
+(ďalej len „Dodávateľ“)
+(Objednávateľ a Dodávateľ ďalej spolu aj ako „Zmluvné strany“ a jednotlivo „Zmluvná strana“)
+
+1
+
+Ev. č. 244/18/CEZ
+
+DEFINÍCIE POJMOV
+1. Softvér (ďalej aj ako „SW“) sa pre účely tejto Zmluvy rozumejú softvérové produkty a
+programové vybavenie špecifikované v Prílohe č. 1 a Prílohe č. 2 tejto Zmluvy.
+2. Hardvér (ďalej aj ako „HW“) sa pre účely tejto Zmluvy rozumie súbor technických prostriedkov –
+zariadení, ktoré tvoria pevné hmatateľné súčasti technického zariadenia. Neoddeliteľnou
+súčasťou dodávky HW sú aj podklady (užívateľská, produktová a technická dokumentácia)
+potrebné na jeho správne používanie a servisná dokumentácia.
+3. Produkty sa pre účely tejto Zmluvy rozumie spoločné označenie pre vybrané SW a HW.
+4. IBM Power 8 sa pre účely tejto Zmluvy rozumie súbor HW prostriedkov a SW produktov
+tvoriacich funkčný celok, spĺňajúci parametre uvedené v špecifikácii v Prílohe č. 1 tejto Zmluvy,
+ktorý sa na základe tejto Zmluvy stane súčasťou infraštruktúry Objednávateľa.
+5. Vadou sa pre účely tejto Zmluvy rozumie akákoľvek vada, chyba, nedostatok, porucha alebo
+akýkoľvek iný problém SW, HW, alebo dodávaného IBM Power 8, brániaci jeho riadnemu
+a/alebo bezchybnému užívaniu vrátane právnych vád SW alebo HW (časti SW alebo HW),
+a/alebo spôsobujúci jeho čiastočnú alebo úplnú nefunkčnosť, a/alebo spôsobujúci čiastočné
+a/alebo úplné obmedzenie jeho používania/prevádzky.
+6. Človekodeň sa pre účely tejto Zmluvy rozumie 1 (jeden) deň v rozsahu 8 pracovných hodín
+strávený 1 (jedným) pracovníkom Dodávateľa poskytovaním príslušného plnenia predmetu tejto
+Zmluvy v prospech Objednávateľa.
+7. Človekohodina sa pre účely tejto Zmluvy rozumie 1 (jedna) hodina, t.j. 60 minút, strávená 1
+(jedným) pracovníkom Dodávateľa poskytovaním príslušného plnenia predmetu tejto Zmluvy
+v pracovnej dobe Objednávateľa (pracovné dni 8.00 - 16.00 hod.).
+8. On-site sa pre účely tejto Zmluvy rozumie poskytovanie služieb v mieste inštalácie IBM Power8.
+9. Preberacie konanie znamená posúdenie dodaného realizačného výstupu zo strany Dodávateľa
+Objednávateľom. Výsledkom preberacieho konania je preberací protokol. Podkladom pre
+preberacie konanie je dodací list/akceptačný protokol v závislosti od príslušného plnenia
+predmetu tejto Zmluvy.
+10. Infraštruktúra ICT znamená hardvérové, softvérové a komunikačné prostredie Objednávateľa,
+do ktorého budú inštalované IBM Power 8 tvoriace predmet plnenia tejto Zmluvy.
+11. Dokumentácia sa rozumie prevádzková, konfiguračná/inštalačná a používateľská príručka
+k dodaným serverom a SW.
+
+I.
+PREDMET ZMLUVY
+1. Predmetom tejto Zmluvy je záväzok Dodávateľa realizovať pre Objednávateľa dodanie
+a inštaláciu hardvérových prostriedkov a softvérových produktov IBM Power 8 a vykonať
+plnenia v rozsahu a za podmienok dohodnutých v tejto Zmluve.
+2. Predmet plnenia zahŕňa záväzky Dodávateľa v súlade s Prílohou č. 1, Prílohou č. 2 a Prílohou
+č. 3 tejto Zmluvy, a to:
+a) dodanie HW, SW a zabezpečenie udelenia licencií potrebných na používanie IBM Power 8,
+b) oživenie HW, inštalácia a konfigurácia IBM Power 8,
+c) dodanie kompletnej inštalačnej a prevádzkovej technickej dokumentácie,
+d) poskytnutie všetkých dodávok, plnení a služieb, potrebných pre riadne a úplné poskytnutie
+plnenia, ktoré síce nie sú explicitne uvedené v zmluve alebo jej prílohách, ale poskytnutie
+ktorých však Dodávateľ mohol pri vynaložení riadnej odbornej starostlivosti a v záujme
+riadneho a úplného poskytnutia plnenia predvídať pri podpise Zmluvy,
+e) postimplementačná podpora v rozsahu 10 človekodní.
+
+2
+
+Ev. č. 244/18/CEZ
+
+II.
+TERMÍNY A MIESTA PLNENIA
+1. Dodávateľ sa zaväzuje poskytnúť Objednávateľovi plnenie predmetu Zmluvy nasledovne:
+a) plnenie v zmysle článku I. bod 2 písm. a) tejto Zmluvy v termíne do 4 týždňov (28
+kalendárnych dní) odo dňa uzavretia tejto Zmluvy,
+b) plnenie v zmysle článku I. bod 2 písm. b) až d) tejto Zmluvy v termíne do 6 týždňov (42
+kalendárnych dní) odo dňa uzavretia tejto Zmluvy,
+c) plnenie v zmysle článku I. bod 2 písm. e) tejto Zmluvy do 5 pracovných dní odo dňa
+doručenia písomnej požiadavky Objednávateľa, ak sa zmluvné strany nedohodnú inak.
+2. Miestom dodania plnenia podľa tejto Zmluvy sú prevádzkové priestory nachádzajúce sa na
+adrese sídla Objednávateľa v Bratislave. V závislosti od povahy predmetu plnenia je Dodávateľ
+oprávnený plniť svoje záväzky podľa tejto Zmluvy aj prostredníctvom vzdialeného prístupu
+Dodávateľa. Ustanovenie prvej vety tohto bodu tým však nie je dotknuté.
+
+III.
+CENA, MENA, PLATOBNÉ A DAŇOVÉ PODMIENKY
+1. Právo na zaplatenie ceny vzniká Dodávateľovi riadnym a včasným splnením jeho príslušného
+záväzku. Cena sa uhrádza na základe faktúry, vystavenej Dodávateľom po splnení jeho
+príslušného záväzku, a to v mene euro. Súčasťou každej faktúry musí byť aj kópia dodacieho
+listu, alebo akceptačného protokolu, alebo preberacieho protokolu, alebo montážneho listu
+potvrdeného Objednávateľom, pokiaľ v tejto Zmluve nie je uvedené inak.
+2. Zmluvné strany sa dohodli na cene za plnenie poskytnuté v zmysle článku I. bod 2 tejto Zmluvy
+vo výške 224.857,27€, slovom Dvestodvadsaťštyritisícosemstopäťdesiatsedem Eur, Dvadsaťsedem Centov. Podrobná špecifikácia ceny je uvedená v Prílohe č. 3 tejto Zmluvy.
+3. Cena za plnenia podľa článku I. bod 2 tejto Zmluvy bude fakturovaná a uhradená formou
+splátok v súlade s platobným kalendárom nasledovne:
+a)
+
+b)
+
+c)
+
+Dodávateľ vystaví faktúru na prvú (1) splátku ceny vo výške 193.327,47€ bez DPH, po
+riadnom dodaní a prevzatí plnenia v zmysle článku I. odsek 2 bod a) až d), potvrdenom
+preberacím / akceptačným protokolom, podpísaným zástupcami oboch Zmluvných strán,
+Druhá (2) až trinásta (13) splátka ceny bude zo strany Dodávateľa fakturovaná postupne,
+a to štvrťročne (raz za tri mesiace) vo výške jednotlivej splátky 654,27€ bez DPH, vždy po
+uplynutí každých troch (3) mesiacov trvania záručnej doby v zmysle čl. VII. tejto Zmluvy,
+Po ukončení platobného (splátkového) obdobia podľa písmena b) tohto bodu Zmluvy bude
+štrnásta (14) až dvadsiataprvá (21) splátka ceny zo strany Dodávateľa fakturovaná
+postupne, a to štvrťročne (raz za 3 mesiace) vo výške jednotlivej splátky 2.959,82€ bez
+DPH, vždy po uplynutí každých ďalších troch (3) mesiacov trvania záručnej doby v zmysle
+čl. VII. tejto Zmluvy.
+
+4. K fakturovaným cenám bude uplatnená DPH v zmysle platných právnych predpisov v čase
+plnenia.
+5. Faktúra musí obsahovať všetky náležitosti v zmysle platných právnych predpisov a ďalej musí
+obsahovať: označenie, že ide o faktúru; IČO a bankové spojenie oboch zmluvných strán vo
+forme IBAN a BIC /SWIFT/; číslo objednávky zaevidovanej v SAPe; sumu celkom k úhrade v
+mene euro. Faktúra ďalej môže obsahovať: číslo Zmluvy (vrátane platných dodatkov); pečiatku
+vystavovateľa faktúry; miesto plnenia; konštantný symbol; dohodnutú formu úhrady; meno,
+podpis a telefonické / e-mailové spojenie zodpovedného pracovníka vystavovateľa; deň
+splatnosti faktúry je potrebné uvádzať ako počet dní od doručenia faktúry Objednávateľovi
+v súlade s touto Zmluvou. V prípade, že faktúra nebude obsahovať dohodnuté náležitosti podľa
+tejto Zmluvy, Objednávateľ je oprávnený faktúru vrátiť bez zaplatenia. Oprávneným vrátením
+faktúry prestáva plynúť lehota splatnosti a táto plynie celá znovu odo dňa doručenia opravenej
+/novej/ faktúry.
+6. Bankové spojenie Dodávateľa vo forme IBAN a SWIFT (BIC) uvedené na faktúre musí byť
+zhodné s bankovým spojením dohodnutým v Zmluve. V opačnom prípade je Objednávateľ
+oprávnený uhradiť fakturovanú sumu na bankové spojenie uvedené na faktúre. V prípade
+uvedenia nesprávneho bankového spojenia vo forme IBAN a SWIFT (BIC) alebo rozdielneho
+3
+
+Ev. č. 244/18/CEZ
+bankového spojenia vo forme IBAN a SWIFT (BIC) v Zmluve a vo faktúre zo strany Dodávateľa,
+Objednávateľ nezodpovedá za prípadnú škodu, ktorá môže v dôsledku takto nesprávne
+adresovanej úhrady vzniknúť; v prípade, ak z takéhoto dôvodu škoda vznikla Objednávateľovi,
+Objednávateľ má právo uplatniť si náhradu škody u Dodávateľa, ktorý škodu spôsobil, a to
+v plnej výške formou vystavenej faktúry.
+7. Bankové poplatky Objednávateľa znáša Objednávateľ, bankové poplatky Dodávateľa znáša
+Dodávateľ.
+8. Zmluvné strany postupujú pri vysporiadaní svojich daňových povinností podľa právnych
+predpisov platných v Slovenskej republike s vylúčením možnosti prevzatia daňovej povinnosti
+za obchodného partnera.
+9. Lehota splatnosti faktúr je 60 dní odo dňa ich doručenia druhej Zmluvnej strane, pričom za deň
+splnenia peňažného záväzku sa považuje deň odpísania dlžnej sumy z účtu Objednávateľa
+v prospech účtu Dodávateľa. Pokiaľ posledný deň lehoty splatnosti pripadne podľa slovenského
+kalendára na deň pracovného voľna, pokoja alebo sviatok, ako deň splnenia peňažného
+záväzku bude Dodávateľom za rovnako dohodnutých cenových a platobných podmienok
+akceptovaný nasledujúci najbližší prvý pracovný deň.
+10. Dodávateľ, ktorý je platiteľom dane v zmysle zákona č. 222/2004 Z.z. o dani z pridanej hodnoty
+v znení neskorších predpisov (ďalej ako „zákon o DPH“) vyhlasuje, že ku dňu uzavretia tejto
+Zmluvy u neho nenastali dôvody na zrušenie registrácie pre daň z pridanej hodnoty podľa § 81
+ods. 4 písm. b) druhého bodu zákona o DPH a/alebo nie je zverejnený v príslušnom zozname
+platiteľov dane z pridanej hodnoty, u ktorých nastali dôvody na zrušenie registrácie vedenom
+Finančným riaditeľstvom Slovenskej republiky v zmysle ustanovenia § 69 ods. 14 písm. b) a §
+69 ods. 15 zákona o DPH (ďalej aj ako „zoznam DPH platiteľov vedený Finančným
+riaditeľstvom Slovenskej republiky“) .
+Dodávateľ vyhlasuje, že ku dňu uzavretia tejto Zmluvy jeho štatutárny orgán, člen štatutárneho
+orgánu alebo spoločník nie je štatutárnym orgánom, členom štatutárneho orgánu alebo
+spoločníkom Objednávateľa.
+V prípade, ak kedykoľvek po uzavretí tejto Zmluvy a pred zánikom tejto Zmluvy
+a) nastanú u Dodávateľa dôvody na zrušenie registrácie pre daň z pridanej hodnoty podľa §
+81 ods. 4 písm. b) druhého bodu zákona o DPH a/alebo Dodávateľ bude zverejnený
+v príslušnom zozname DPH platiteľov vedenom Finančným riaditeľstvom Slovenskej
+republiky, alebo
+b) štatutárny orgán, člen štatutárneho orgánu alebo spoločník Dodávateľa sa stane
+štatutárnym orgánom, členom štatutárneho orgánu alebo spoločníkom Objednávateľa
+okrem prípadu, ak je Dodávateľom spoločnosť, v ktorej má Objednávateľ priamu
+majetkovú účasť alebo ak je Dodávateľom spoločnosť, ktorá má priamu majetkovú účasť
+v spoločnosti Objednávateľa, alebo
+c) vstúpi Dodávateľ do likvidácie, začne sa voči Dodávateľovi konkurzné konanie alebo
+reštrukturalizačné konanie,
+sa Dodávateľ zaväzuje najneskôr do 3 dní od vzniku tejto skutočnosti písomne oznámiť vznik
+tejto skutočnosti Objednávateľovi. V prípade, ak Dodávateľ v stanovenej lehote neoznámi
+písomne vznik niektorej zo skutočností uvedených v písm. a), b) a c) tohto bodu.
+Objednávateľovi, je Objednávateľ oprávnený vyúčtovať Dodávateľovi zmluvnú pokutu vo výške
+2 000,-€. Dodávateľ je povinný Objednávateľom vyúčtovanú zmluvnú pokutu zaplatiť
+Objednávateľovi. Zaplatením zmluvnej pokuty nie je dotknutý nárok Objednávateľa na náhradu
+vzniknutej škody v celom rozsahu.
+V prípade, ak kedykoľvek po uzavretí tejto Zmluvy a pred zánikom tejto Zmluvy vznikne
+(nastane) ktorákoľvek zo skutočností uvedených v písm. a), b) a c) tohto bodu, má
+Objednávateľ právo tiež zadržať z ceny plnenia alebo z častí ceny plnenia fakturovaných
+Dodávateľom podľa tejto Zmluvy, čiastku vo výške zodpovedajúcej výške dane z pridanej
+hodnoty uvedenej na príslušnej faktúre (ďalej aj ako „nevyplatená čiastka z ceny“). Vo vzťahu k
+nevyplatenej čiastke z ceny plnenia sa Objednávateľ nedostáva do omeškania ani sa
+nedopúšťa iného porušenia tejto Zmluvy, ak nevyplatenú čiastku z ceny plnenia vysporiada
+alebo použije podľa ustanovení tohto bodu.
+Objednávateľ uhradí Dodávateľovi nevyplatenú čiastku z ceny plnenia bezodkladne po tom, čo
+Dodávateľ Objednávateľovi preukáže, že daň z pridanej hodnoty uvedenú na faktúre pre
+Objednávateľa podľa tejto Zmluvy v plnej výške odviedol príslušnému daňovému úradu.
+4
+
+Ev. č. 244/18/CEZ
+Ak daňový úrad rozhodnutím uloží Objednávateľovi ako ručiteľovi uhradiť Dodávateľom
+nezaplatenú daň z pridanej hodnoty (ďalej aj ako „nezaplatená daň“), Objednávateľ túto
+skutočnosť bezodkladne oznámi Dodávateľovi. Dodávateľ je povinný bezodkladne, najneskôr
+však do 3 dní odo dňa doručenia oznámenia Objednávateľa podľa predchádzajúcej vety,
+poskytnúť Objednávateľovi všetky informácie a dokumenty, na základe ktorých možno uplatniť
+námietky voči povinnosti Objednávateľa ako ručiteľa uhradiť daňovému úradu Dodávateľom
+nezaplatenú daň. Komunikácia medzi zmluvnými stranami môže byť v tomto prípade
+realizovaná e-mailom na adresu Dodávateľa .............................................. a adresu
+Objednávateľa dph@spp.sk a zoscanovanými prílohami, na požiadanie je každá zo zmluvných
+strán povinná potvrdiť druhej zmluvnej strane príslušné oznámenie písomne. Dokumenty
+umožňujúce uplatnenie námietky voči povinnosti Objednávateľa ako ručiteľa uhradiť daňovému
+úradu Dodávateľom nezaplatenú daň je Dodávateľ povinný poskytnúť Objednávateľovi
+v origináli alebo v notársky overenej kópii.
+Ak daňový úrad uloží Objednávateľovi ako ručiteľovi povinnosť uhradiť Dodávateľom
+nezaplatenú daň, Objednávateľ je oprávnený použiť nevyplatenú čiastku z ceny plnenia na
+úhradu takejto nezaplatenej dane. Objednávateľ ako ručiteľ je oprávnený použiť na úhradu
+Dodávateľom nezaplatenej dane na základe rozhodnutia daňového úradu akúkoľvek
+nevyplatenú čiastku z ceny plnenia, vrátane nevyplatených čiastok z ceny plnenia z iných faktúr
+vystavených Dodávateľom Objednávateľovi, a to aj na základe iných zmlúv uzavretých medzi
+Objednávateľom a Dodávateľom. Objednávateľ je oprávnený, nie však povinný, uplatniť
+akékoľvek opravné prostriedky proti rozhodnutiu daňového úradu, ktorým Objednávateľovi ako
+ručiteľovi uloží zaplatiť Dodávateľom nezaplatenú daň. V prípade rozhodnutia Objednávateľa
+o podaní opravného prostriedku je Dodávateľ povinný poskytnúť Objednávateľovi plnú
+súčinnosť. O použití príslušnej nevyplatenej čiastky z ceny plnenia na úhradu Dodávateľom
+nezaplatenej dane bude Objednávateľ informovať Dodávateľa. Dodávateľ nemá nárok na
+vyplatenie nevyplatenej čiastky z ceny plnenia, ktorú Objednávateľ použil podľa tohto bodu.
+Objednávateľ je oprávnený postupovať podľa tohto odseku bez ohľadu na vykonanie oznámení
+podľa predchádzajúceho odseku.
+Ak Objednávateľ ako ručiteľ uhradí daňovému úradu Dodávateľom nezaplatenú daň
+a z akéhokoľvek dôvodu nebude pre Objednávateľa možné alebo vhodné použiť na úhradu
+nevyplatenú čiastku z ceny plnenia, vzniká Objednávateľovi pohľadávka voči Dodávateľovi vo
+výške takto zaplatenej dane (ďalej aj ako „Pohľadávka“). O zaplatení dane z titulu ručenia za
+Dodávateľa bez použitia nevyplatenej čiastky z ceny plnenia bude Objednávateľ informovať
+Dodávateľa. Vzniknutá Pohľadávka sa stáva splatnou dňom nasledujúcim po dni odpísania
+zaplatenej dane z účtu Objednávateľa. Objednávateľ je oprávnený jednostranne si započítať
+Pohľadávku proti akejkoľvek pohľadávke alebo pohľadávkam Dodávateľa voči Objednávateľovi,
+a to bez ohľadu na skutočnosť, či sú splatné alebo nesplatné. Objednávateľ je tiež oprávnený
+vymáhať voči Dodávateľovi zaplatenie Pohľadávky všetkými právnymi prostriedkami. Pre
+vylúčenie pochybností platí, že Dodávateľ nie je oprávnený jednostranne si započítať
+nevyplatenú čiastku z ceny plnenia proti Pohľadávke ani proti akýmkoľvek iným pohľadávkam
+Objednávateľa voči Dodávateľovi a Dodávateľ tiež nie je oprávnený postúpiť pohľadávku
+spočívajúcu v nevyplatenej čiastke z ceny plnenia na tretiu osobu bez predchádzajúceho
+písomného súhlasu Objednávateľa.
+Ustanovenia tohto bodu majú prednosť pred akýmikoľvek odchylnými ustanoveniami tejto
+Zmluvy a zostávajú zachované aj v prípade zániku tejto Zmluvy, týmto zmluvné strany vylučujú
+vo vzťahu k tomuto bodu aplikovateľnosť ustanovenia § 273 ods. 2 Obchodného zákonníka.
+Zmluvné strany výslovne vylučujú oprávnenie Dodávateľa ako dlžníka podľa ustanovenia § 309
+Obchodného zákonníka na uplatnenie námietok voči Objednávateľovi ako ručiteľovi, ak
+Objednávateľ ako ručiteľ uhradí z titulu ručenia daň nezaplatenú Dodávateľom ako dlžníkom
+bez vedomia Dodávateľa.
+IV.
+PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+1. Dodávateľ je povinný poskytovať plnenie podľa tejto Zmluvy s náležitou odbornou
+starostlivosťou v súlade so všeobecne záväznými právnymi predpismi a príslušnými
+technickými a inými normami vzťahujúcimi sa na predmet plnenia. Dodávateľ je povinný
+poskytovať plnenie podľa tejto Zmluvy prostredníctvom vhodného a odborne spôsobilého a
+vyškoleného personálu. V opačnom prípade má Objednávateľ právo požiadať Dodávateľa
+o nahradenie osoby poverenej plnením predmetu tejto Zmluvy za Dodávateľa a Dodávateľ je
+
+5
+
+Ev. č. 244/18/CEZ
+v takom prípade povinný nahradiť dotknutú osobu inou, spĺňajúcou požiadavky podľa
+predchádzajúcej vety.
+2. Na základe žiadosti Dodávateľa je Objednávateľ povinný poskytnúť Dodávateľovi súčinnosť
+nevyhnutne potrebnú na splnenie záväzkov Dodávateľa podľa tejto Zmluvy, najmenej však v
+rozsahu uvedenom v bode 6. tohto článku. Objednávateľ je povinný umožniť Dodávateľovi
+prístup do miesta dodania. Dodávateľ sa zaväzuje, že pri realizácii plnenia bude zasahovať do
+prevádzkovej činnosti Objednávateľa iba v nevyhnutnom rozsahu potrebnom pre riadne plnenie
+záväzkov podľa tejto Zmluvy a výlučne na základe predchádzajúceho súhlasu Objednávateľa.
+3. Objednávateľ sa zaväzuje podpísať akceptačný/preberací protokol čo najskôr (najneskôr však
+do 5 pracovných dní) po riadnom dodaní kompletného a funkčného plnenia v súlade s touto
+Zmluvou, nie však skôr ako bude zmluvnými stranami potvrdené vykonanie úspešného
+akceptačného testovania funkcionality plnenia v súlade s čl. V a VI. tejto Zmluvy. V prípade, že
+Objednávateľ bez oprávneného dôvodu v rozpore s touto zmluvou nepodpíše akceptačný
+protokol vyhotovený podľa tejto zmluvy najneskôr do 5 pracovných dní po predložení
+Dodávateľom, alebo neuvedie dôvod nesúhlasu, považuje sa takýto odovzdávací dokument za
+podpísaný a odovzdávané plnenie za Objednávateľom akceptované uplynutím 5. pracovného
+dňa od jeho riadneho predloženia na podpis Objednávateľovi.
+4. Zmluvné strany sa dohodli, že ak jedna zo zmluvných strán bude mať vedomosť o akejkoľvek
+skutočnosti alebo okolnosti, ktorá by mohla mať priamo alebo nepriamo vplyv na plnenie
+záväzkov zmluvných strán podľa tejto Zmluvy, je táto zmluvná strana povinná bez zbytočného
+odkladu o tejto skutočnosti alebo okolnosti informovať druhú zmluvnú stranu.
+5. Objednávateľ sa zaväzuje, že na dodanie, vykonanie a odovzdanie jednotlivých plnení poskytne
+Dodávateľovi túto súčinnosť:
+- Objednávateľ sa zaväzuje poskytovať informácie, pracovné postupy, popisy, náčrty,
+dokumenty, vzorky údajov alebo kompletné elektronické údaje podľa požiadaviek
+Dodávateľa, ak sú nevyhnutné pre plnenie predmetu tejto Zmluvy, a to v primeranej lehote
+od ich vyžiadania a prostredníctvom svojich určených pracovníkov so zodpovedajúcimi
+odbornými znalosťami a nesie zodpovednosť za ich obsahovú stránku.
+- V prípade vzniku sporných okolností alebo faktov, majúcich vplyv na definíciu funkcionality
+IBM Power8 (napr. nejasné alebo nejednoznačné
+pracovné postupy - procesy,
+organizačné schémy a z nich vyplývajúce právomoci a kompetencie pre používanie
+systému), Dodávateľ písomnou formou upozorní Objednávateľa. Objednávateľ rozhodne
+o ďalšom postupe a vydá potrebné inštrukcie v požadovanej časovej lehote, tak aby
+nedošlo k vecnému ani časovému ohrozeniu plnenia.
+- V prípade potreby vykonania zmien a modifikácií iných systémov prepojených
+s informačnými systémami Objednávateľa v rámci plnenia Zmluvy, je Dodávateľ povinný
+požiadať Objednávateľa o vykonanie zmien v písomnej podobe. Objednávateľ zabezpečí
+vykonanie zmien tak, aby nebol ohrozený vecný ani časový rozsah plnenia Zmluvy.
+6. Dodávateľ sa zaväzuje pri plnení Zmluvy dodržiavať nasledovné zásady:
+- Dodávateľ je povinný informovať o rozsahu a časovej lehote doručenia potrebných informácií
+alebo podkladov.
+- Dodávateľ bude Objednávateľom vopred informovaný o zmenách okolností alebo faktov
+majúcich vplyv na vecný a časový rozsah plnenia, s ktorými je Objednávateľ oboznámený
+alebo ich môže predvídať.
+7. Objednávateľ je povinný používať dodané plnenie podľa technickej dokumentácie alebo podľa
+písomných inštrukcií Dodávateľa odovzdaných Objednávateľovi pri dodaní plnenia.
+Objednávateľ nesmie vykonávať počas záručnej doby žiadne úpravy alebo opravy, ktoré
+odporujú technickej dokumentácii odovzdanej Objednávateľovi podľa predchádzajúcej vety.
+8. Dodávateľ sa zaväzuje dodržiavať všeobecne záväzné právne predpisy na zaistenie
+bezpečnosti a ochrany zdravia pri práci a požiarnej ochrany; dodržiavať ostatné predpisy,
+zásady bezpečnej práce, zásady ochrany zdravia pri práci a zásady bezpečného správania na
+miestach plnenia Zmluvy u Objednávateľa, určené pracovné postupy a interné pokyny
+a predpisy Objednávateľa na zaistenie bezpečnosti a ochrany zdravia pri práci a požiarnej
+ochrany, s ktorými bol preukázateľne oboznámený. Oboznámenie vykoná Objednávateľ.
+9. Dodávateľ sa zaväzuje
+a. dodržiavať právne predpisy na zaistenie BOZP a PO; dodržiavať ostatné predpisy, zásady
+bezpečnej práce, zásady ochrany zdravia pri práci a zásady bezpečného správania na
+6
+
+Ev. č. 244/18/CEZ
+
+b.
+c.
+d.
+e.
+
+pracoviskách Objednávateľa, určené pracovné postupy a interné pokyny Objednávateľa na
+zaistenie BOZP a PO, s ktorými bol preukázateľne oboznámený,
+vykonávať iba práce, obsluhovať iba stroje a zariadenia a používať látky, ktoré sú určené
+špecifikáciou predmetu Zmluvy a ktoré neohrozujú zamestnancov Objednávateľa,
+v súvislosti s plnením Zmluvy náležite inštalovať, používať a udržiavať bezpečnostné a
+ochranné zariadenia nevyhnutné pre ochranu zamestnancov Objednávateľa,
+plniť predmet Zmluvy iba zamestnancami a osobami, konajúcimi v jeho mene, ktorým bol
+Objednávateľom udelený súhlas na vstup do jeho objektov,
+plniť predmet Zmluvy až po absolvovaní školenia BOZP a ochrany pred požiarmi jeho
+zamestnancov alebo osôb konajúcich v jeho mene a ďalej v intervaloch určených
+Objednávateľom.
+
+10. Dodávateľ je povinný zabezpečiť pohyb svojich zamestnancov a ďalších osôb, konajúcich
+v jeho mene len na pracoviskách a priestoroch súvisiacich s plnením predmetu tejto Zmluvy.
+11. Osobou, poverenou konať vo veciach plnenia predmetu Zmluvy a záruky na plnenie podľa tejto
+Zmluvy za Objednávateľa je: ....................... („osoba poverená za Objednávateľa“) alebo
+v prípade jeho neprítomnosti, ním vopred písomnou formou poverená osoba. Poverenie inej
+osoby bude písomne oznámené osobe poverenej za Dodávateľa. Osoba poverená za
+Objednávateľa je oprávnená v mene Objednávateľa:
+a) zabezpečovať poskytovanie súčinnosti Objednávateľa,
+b) podpisovať zápisnice o výsledku akceptačných testov plnenia predmetu Zmluvy a protokoly
+o ich odovzdaní a prevzatí dodaného plnenia do prevádzky.
+12. Osobou, poverenou konať vo veciach plnenia predmetu Zmluvy a záruky na plnenie podľa tejto
+Zmluvy za Dodávateľa je: ............................. („osoba poverená za Dodávateľa“), alebo ním
+vopred písomnou formou poverená osoba. Poverenie inej osoby bude písomne oznámené
+osobe poverenej za Objednávateľa. Osoba poverená za Dodávateľa je oprávnená v mene
+Dodávateľa:
+a) riadiť práce pri poskytovaní plnenia predmetu tejto Zmluvy,
+b) podpisovať zápisnice o výsledku akceptačných testov plnenia predmetu zmluvy a protokoly
+o ich odovzdaní a prevzatí do prevádzky.
+13. Zmluvné strany môžu kedykoľvek zmeniť nimi poverenú osobu. Zmena je voči druhej zmluvnej
+strane účinná odo dňa doručenia písomného oznámenia o zmene poverenej osoby.
+14. Zmluvné strany môžu kedykoľvek zmeniť a/alebo doplniť svoje kontaktné údaje uvedené v tejto
+Zmluve bez potreby uzavretia dodatku k tejto Zmluve. Zmena voči druhej zmluvnej strane je
+účinná odo dňa doručenia písomného oznámenia o zmene kontaktných údajov.
+15. Dodávateľ nie je oprávnený po inštalácii, oživení a odovzdaní IBM Power 8 meniť nastavenia,
+účty a vstupné heslá diela bez predchádzajúceho súhlasu Objednávateľa.
+16. Zmluvné strany sa dohodli, že žiadna zmluvná strana nesmie previesť svoje práva (vrátane
+pohľadávok) a povinnosti vyplývajúce z tejto Zmluvy bez predchádzajúceho písomného súhlasu
+druhej zmluvnej strany.
+
+V.
+AKCEPTAČNÉ TESTY
+1. Dodávateľ je povinný oznámiť Objednávateľovi, a to najmenej 24 hodín vopred, pripravenosť
+dodaného plnenia na začatie akceptačných testov, zameraných na preverenie funkčnosti
+a spoľahlivosti dodaného a implementovaného plnenia ako celku. Objednávateľ je povinný sa
+zúčastniť akceptačných testov v termíne dohodnutom s Dodávateľom, najneskôr však do 2
+pracovných dní od termínu navrhnutého Dodávateľom.
+2. Pri preberaní plnenia predmetu Zmluvy podľa čl. I bod 2 bude používaný nasledovný postup:
+Testovanie správnej funkčnosti dodaného plnenia bude vykonané za spoluúčasti
+Objednávateľa, na základe odsúhlasených testovacích podmienok. Testovanie slúži ako
+akceptačný test, v ktorom Dodávateľ v spolupráci s Objednávateľom testuje, či dodané plnenie
+spĺňa zadané podmienky a môže byť prevzaté.
+
+7
+
+Ev. č. 244/18/CEZ
+
+VI.
+PREBERANIE PLNENIA
+1. Výsledky plnenia predmetu Zmluvy preberie Objednávateľ na základe úspešne vykonaných
+akceptačných testov, pripravených a odsúhlasených v zmysle článku V.
+Dodané plnenia budú zo strany Objednávateľa akceptované po ich verifikácii, v rámci ktorej
+bude dodané plnenie alebo jeho časti porovnané so všetkými zmluvne dohodnutými
+technickými špecifikáciami a podmienkami.
+2. Po úspešnom vykonaní akceptačných testov IBM Power 8 alebo jeho časti vyhotoví a podpíše
+osoba poverená za Dodávateľa písomný akceptačný protokol, ktorý musí obsahovať (podľa
+skutočnosti) najmä:
+- dátum odovzdania a prevzatia plnenia;
+- popis poskytnutého plnenia;
+- potvrdenie, že plnenie je v súlade s podmienkami, dohodnutými v špecifikácii uvedenej
+v príslušnej prílohe alebo dokumente tejto Zmluvy;
+- potvrdenie, že boli dodané všetky zmluvne dohodnuté dokumentácie;
+- potvrdenie, že bolo vykonané testovanie.
+3. Zmluvné strany sa dohodli, že v prípade neúspešného výsledku akceptačných testov,
+v dôsledku čoho plnenie ako celok nemôže byť prevzaté Objednávateľom, je Objednávateľ
+oprávnený, po vykonanom opakovanom neúspešnom výsledku akceptačných testov odstúpiť
+od Zmluvy ako dôsledok podstatného porušenia zmluvných povinností a vrátiť Dodávateľovi
+všetky poskytnuté plnenia predmetu Zmluvy, bez nároku na úhradu ceny plnenia.
+VII.
+ZODPOVEDNOSŤ ZA VADY A ZÁRUKA
+1. Dodávateľ zodpovedá za to, že ním dodané alebo poskytnuté plnenia budú zodpovedať
+podmienkam dohodnutým v tejto Zmluve a budú zodpovedať podmienkam a parametrom
+uvedeným v Dokumentácii. Dodávateľ zodpovedá za to, že ním dodané alebo poskytnuté
+plnenia budú súladné s príslušnými všeobecne záväznými právnymi predpismi
+a aplikovateľnými technickými normami. Plnenie Dodávateľa má vady, pokiaľ nezodpovedá
+podmienkam dohodnutým v tejto Zmluve, ak má právne vady, alebo ak nezodpovedá
+podmienkam a parametrom uvedeným v Dokumentácii. Dodávateľ týmto poskytuje záruku, že
+IBM Power8 a ďalšie Produkty dodané na základe tejto Zmluvy si zachovajú plnú funkčnosť bez
+akýchkoľvek obmedzení počas trvania dohodnutej záručnej doby.
+2. Dodávateľ poskytuje materiálovú a funkčnú záruku na celé plnenie v zmysle článku I. odsek 2
+bod a) až d) v trvaní šesťdesiat (60) mesiacov. Záručná doba začína plynúť odo
+dňa potvrdenia preberacieho protokolu Objednávateľom po dodaní a inštalácii IBM Power 8.
+Počas záručnej doby vzniká Objednávateľovi právo požadovať a Dodávateľovi povinnosť
+odstrániť vzniknuté vady na vlastné náklady, najneskôr do dvadsaťštyri (24) hodín od
+nahlásenia príslušnej vady Dodávateľovi (telefonicky alebo doručením e-mailového oznámenia
+o vzniku vady), ak sa zmluvné strany nedohodnú inak.
+3. Počas záručnej doby podľa predchádzajúceho bodu je Dodávateľ povinný:
+a)
+pre prípad vzniku vád IBM Power 8 poskytovať Objednávateľovi servisné služby 7 dní v
+týždni, 24 hodín denne,
+b)
+poskytovať Objednávateľovi službu hotline (telefonická, resp. e-mailová podpora pri
+nahlasovaní vád dodaného plnenia a ich diagnostika prostredníctvom vzdialeného
+prístupu) 7 dní v týždni, 24 hodín denne,
+c)
+poskytnúť Objednávateľovi podporu pri riešení vzniknutých vád buď vo forme
+zodpovedania otázok Objednávateľa - telefonické poradenstvo alebo vo forme
+vykonania servisného zásahu v mieste plnenia,
+d)
+Dodávateľ je povinný prostredníctvom kvalifikovaného personálu:
+i. nastúpiť na odstránenie vady do 4 hodín, a
+ii. odstrániť vadu najneskôr do 24 hodín
+od jej nahlásenia Dodávateľovi (telefonicky alebo doručením e-mailového oznámenia
+o vzniku vady) Objednávateľom, ak sa Zmluvné strany v konkrétnom prípade
+nedohodnú inak.
+4. Predpokladom vykonania servisného zásahu v rámci záručnej doby podľa tohto článku je
+oznámenie Objednávateľa o vzniku vady v súlade s touto Zmluvou, a to formou e-mailu
+8
+
+Ev. č. 244/18/CEZ
+odoslaného Dodávateľovi na e-mailovú adresu: servicedesk.sk@atos.net V prípade
+akejkoľvek, aj dočasnej nefunkčnosti e-mailovej adresy podľa predchádzajúcej vety je
+Objednávateľ oprávnený oznámiť vznik vady alebo potrebu servisného zásahu operatívne aj
+telefonicky na telefónnom čísle 0850 311 323. Dodávateľ je povinný obratom najneskôr do 1
+hodiny elektronicky potvrdiť Objednávateľovi na e-mailovej adrese servicedesk@spp.sk
+prijatie e-mailového alebo telefonického nahlásenia vady podľa tohto bodu Zmluvy. V prípade,
+že nie je možné potvrdiť prijatie oznámenia elektronicky, Dodávateľ potvrdí Objednávateľovi
+prijatie oznámenia telefonicky na telefónnom čísle +421 2 6262 2222 a následne, najneskôr do
+1 hodiny po sfunkčnení e-mailovej adresy Objednávateľa potvrdenie zašle aj elektronickou
+cestou. Zistená vada musí byť v oznámení Dodávateľovi zrozumiteľne a dostatočne popísaná,
+vrátane jej prejavov, miesta výskytu, dĺžky a prípadne iných znakov potrebných za účelom jej
+odstránenia alebo odstránenia jej následkov.
+5. Dodávateľ sa zaväzuje zabezpečiť dodanie náhradných dielov (alebo technicky
+zodpovedajúcich ekvivalentov) po dobu 8 rokov po odovzdaní a prevzatí serverov IBM Power 8
+do prevádzky, ak si ich Objednávateľ objedná.
+6. Dodávateľ je povinný odstrániť vadu na mieste jej výskytu, okrem prípadu ak sa Zmluvné strany
+dohodnú inak. Pri odstraňovaní vady je Objednávateľ povinný poskytnúť Dodávateľovi potrebnú
+súčinnosť, ak ho Dodávateľ o to požiada.
+7. V prípade, ak Dodávateľ počas záručnej doby a v zmysle podmienok uvedených v tomto článku
+neodstráni vadu, ktorá bola Objednávateľom riadne oznámená, a funkčnosť IBM Power 8 tak,
+ako bola popísaná v používateľskej, produktovej alebo technickej dokumentácii je vážne
+poškodená (neplnenie všetkých funkcií), alebo napriek úkonom, vykonaným Dodávateľom za
+účelom odstránenia vady, naďalej neplní svoje funkcie, alebo je vada neodstrániteľná
+a Dodávateľ v definovaných prípadoch neponúkne náhradné riešenie spôsobu odstránenia
+vady / jej následkov, má Objednávateľ právo požadovať od Dodávateľa výmenu vadného
+Produktu za identický - Produkt bez vád, odstúpiť od tejto Zmluvy alebo požadovať primerané
+zníženie ceny vadného plnenia. Výber z nárokov z vád je na rozhodnutí Objednávateľa. V
+prípade, ak Objednávateľ bude požadovať výmenu vadného Produktu za nový, alebo dodanie
+chýbajúceho Produktu, je Dodávateľ povinný na vlastné náklady vymeniť reklamovaný Produkt
+za nový Produkt bez vád alebo dodať Objednávateľovi chýbajúci Produkt najneskôr do 15 dní
+odo dňa uplatnenia tohto nároku zo strany Objednávateľa. V takom prípade vzniká
+Objednávateľovi nárok na zľavu z ceny plnenia, ktorý zodpovedá rozdielu medzi cenou plnenia,
+ktorú by mal Produkt bez vád, a cenou, ktorú mal Produkt dodaný s vadami. Poskytnutie zľavy z
+ceny sa bude realizovať formou dobropisu vystaveného Dodávateľom k príslušnej faktúre.
+Dodávateľ je povinný vystaviť dobropis podľa predchádzajúcej vety a doručiť ho
+Objednávateľovi najneskôr do 10 dní odo dňa uplatnenia nároku Objednávateľa na zľavu z ceny
+voči Dodávateľovi. Zľava je splatná najneskôr do 14 dní odo dňa doručenia dobropisu
+Objednávateľovi. V prípade, ak Dodávateľ v stanovenej lehote dobropis na zľavu z ceny
+nedoručí Objednávateľovi, alebo ak vystavenie dobropisu nie je možné, má Objednávateľ právo
+jednostranne započítať nárok na zľavu z ceny voči akejkoľvek pohľadávke, ktorú má Dodávateľ
+voči Objednávateľovi.
+8. Uplatnenie nároku z vád sa nedotýka nároku Objednávateľa na náhradu škody alebo na
+zmluvnú pokutu.
+VIII.
+ZODPOVEDNOSŤ ZA ŠKODU
+1. Ak poruší jedna Zmluvná strana svoje povinnosti alebo akýkoľvek záväzok vyplývajúci z tejto
+Zmluvy je povinná nahradiť škodu tým spôsobenú druhej Zmluvnej strane. Uplatnenie nároku
+na náhradu škody sa spravuje príslušnými všeobecne záväznými právnymi predpismi
+upravujúcimi zodpovednosť za škodu. Zmluvné strany sa dohodli, že celková výška náhrad
+škôd, ktorú si oprávnená zmluvná strana bude môcť uplatňovať voči druhej zmluvnej strane
+môže byť najviac 100% ceny predmetu plnenia, a to aj v prípade spôsobenia viacerých škôd,
+bez ohľadu na ich počet.
+2. Zmluvná strana, ktorá porušila svoju povinnosť alebo akýkoľvek záväzok, vyplývajúci z tejto
+Zmluvy, sa môže zbaviť zodpovednosti za škodu, ak preukáže, že k porušeniu povinnosti alebo
+akéhokoľvek záväzku, vyplývajúceho z tejto Zmluvy, došlo v dôsledku okolností vylučujúcich
+zodpovednosť, v zmysle §374 Obchodného zákonníka.
+
+9
+
+Ev. č. 244/18/CEZ
+
+IX.
+ZMLUVNÉ SANKCIE
+1. V prípade akéhokoľvek preukázateľného omeškania Dodávateľa s plnením predmetu Zmluvy
+v porovnaní s termínmi uvedenými v článku II. tejto Zmluvy, alebo v prílohách tejto Zmluvy je
+Objednávateľ oprávnený fakturovať Dodávateľovi zmluvnú pokutu, a to vo výške 1% z celkovej
+ceny plnenia dohodnutej v čl. III bode 2 tejto Zmluvy, ak je Dodávateľ v omeškaní
+s poskytnutím/dodaním príslušného plnenia podľa čl. I bod 2. tejto Zmluvy, a to za každý aj
+začatý deň omeškania a za každé jedno omeškanie zvlášť.
+2. V prípade, ak Dodávateľ neodstráni vadu dodaného/poskytnutého plnenia, ktorá bola
+Objednávateľom riadne a včas oznámená, v zmysle podmienok a termínov uvedených v článku
+VII. tejto Zmluvy, je Objednávateľ oprávnený fakturovať Dodávateľovi zmluvnú pokutu vo výške
+0,06% z celkovej ceny plnenia uvedenej v čl. III bod 2. tejto Zmluvy, a to za každú začatú
+hodinu omeškania až do odstránenia vady (vrátane) a za každú neodstránenú vadu zvlášť.
+3. V prípade omeškania dlžníka s plnením peňažného záväzku podľa tejto Zmluvy je veriteľ
+oprávnený fakturovať dlžníkovi úrok z omeškania vo výške 0,02% dlžnej sumy za každý deň
+omeškania.
+4. Uplatnením nároku na zaplatenie zmluvnej pokuty nie je dotknuté právo Zmluvných strán na
+náhradu preukázateľnej škody, prevyšujúcej výšku zmluvnej pokuty. Zmluvné strany sa dohodli,
+že ustanovenie § 300 Obchodného zákonníka sa pre účely tejto zmluvy neuplatní.
+X.
+OCHRANA DÔVERNÝCH INFORMÁCIÍ
+1. Zmluvné strany sú si vedomé toho, že v rámci plnenia Zmluvy môžu oni alebo ich zamestnanci
+či zmluvní partneri, získať vedomou činnosťou druhej Zmluvnej strany alebo jej opomenutím
+prístup k dôverným informáciám tejto druhej Zmluvnej strany.
+2. Dôvernou informáciou sa rozumie každá informácia, ktorú označuje Zmluvná strana, ktorá
+informáciu poskytuje, ako dôvernú, vrátane informácií, týkajúcich sa jej výskumu, vývoja,
+obchodných údajov, obchodných plánov, osobných údajov zamestnancov alebo údajov
+o produktoch, materiáloch a metodológiách, vlastnených príslušnou Zmluvnou stranou, vrátane
+know-how.
+3. Zmluvné strany sa zaväzujú, že zabezpečia dostatočné poučenie pre všetky osoby, ktoré sa na
+ich strane budú zúčastňovať na plnení tejto Zmluvy, o podstate dôvernej informácie v zmysle
+tejto Zmluvy a nevyhnutnosti jej utajenia v súlade s touto Zmluvou. Prístup k dôverným
+informáciám bude obmedzený na tých zamestnancov Zmluvnej strany, ktoré tieto informácie
+potrebujú poznať na účely a v rozsahu, vymedzenom touto Zmluvou. Zmluvné strany sú
+povinné zabezpečiť, aby záväzok utajenia dôverných informácií v zmysle tejto Zmluvy prevzali
+všetky osoby, ktoré sú odlišné od samotných Zmluvných strán, a ktoré sa budú zúčastňovať na
+plnení tejto Zmluvy. Splnenie tejto povinnosti je príslušná Zmluvná strana povinná preukázať,
+ak ju o to druhá Zmluvná strana požiada.
+4. Zmluvné strany sa zaväzujú zaobchádzať s dôvernými informáciami ako s predmetom
+obchodného tajomstva, najmä uchovávať ich v tajnosti a zabezpečiť vykonanie všetkých
+právnych a technických opatrení, zabraňujúcich ich neoprávnenému sprístupneniu tretej osobe
+či ich zneužitiu, a to v rozsahu a spôsobom primeraným stupňu utajenia príslušnej dôvernej
+informácie a jej zrejmému významu, alebo významu, ktorý tejto dôvernej informácii zreteľne
+priradí tá Zmluvná strana, ktorej príslušná dôverná informácia prislúcha.
+5. Zmluvné strany môžu poskytnúť tieto dôverné informácie len svojim zamestnancom alebo
+Zmluvným partnerom v rozsahu nutnom pre riadne plnenia tejto Zmluvy, pri súčasnej realizácii
+vyššie uvedených opatrení. Dôverné informácie nesmú byť kopírované alebo reprodukované
+bez písomného súhlasu Zmluvnej strany, ktorá tieto informácie poskytla.
+6. V prípade porušenia ustanovení uvedených v tomto článku je poškodená Zmluvná strana
+oprávnená požadovať od druhej Zmluvnej strany zaplatenie zmluvnej pokuty vo výške 10.000,€, za každé porušenie povinnosti zvlášť.
+
+10
+
+Ev. č. 244/18/CEZ
+XI.
+LICENČNÉ USTANOVENIA
+1. Licenčnými podmienkami sa rozumie súbor práv a povinností Objednávateľa ako oprávneného
+užívateľa softvérových produktov, ktoré sú súčasťou plnenia, dodaného/poskytnutého na
+základe tejto Zmluvy.
+2. Dodávateľ sa zaväzuje súčasne s dodaním/poskytnutím príslušného plnenia predmetu tejto
+Zmluvy zabezpečiť Objednávateľovi udelenie písomnou formou odplatnej, časovo
+neobmedzenej a nevýhradnej licencie pre územie SR písomnou formou na používanie všetkých
+softvérových produktov, ktoré sú súčasťou dodaného/poskytnutého plnenia predmetu tejto
+Zmluvy, za účelom umožnenia ich oprávneného používania pre potreby Objednávateľa.
+3. V prípade rozdelenia alebo zrušenia Objednávateľa bez likvidácie s právnym nástupcom,
+prechádzajú práva a povinnosti v súlade s používaním licencie na právneho nástupcu.
+
+XII.
+TRVANIE A UKONČENIE ZMLUVY
+1. Táto Zmluva sa uzatvára na dobu určitú - 5 (päť) rokov odo dňa prevzatia výsledku plnenia
+v zmysle článku I. odsek 2. bod a) až d) ako celku, potvrdenom preberacím protokolom,
+podpísaným Objednávateľom. Pre vylúčenie pochybností sa Zmluvné strany dohodli, že v časti
+práv a povinností zmluvných strán týkajúcich sa plnenia podľa čl. I bod 2 tejto Zmluvy sa
+platnosť a účinnosť tejto zmluvy neskončí skôr, ako uplynutím záručnej doby podľa čl. VII bod 2.
+tejto Zmluvy.
+2. Zmluva nadobúda platnosť a účinnosť dňom podpisu oprávnených zástupcov oboch Zmluvných
+strán. Ustanovenia osobitných predpisov tým nie sú dotknuté.
+3. Táto Zmluva môže byť pred uplynutím doby jej platnosti ukončená:
+písomnou dohodou Zmluvných strán, alebo
+zánikom niektorej zo Zmluvných strán bez právneho nástupcu, alebo
+odstúpením podľa podmienok dohodnutých v tejto Zmluve.
+4. Objednávateľ je oprávnený od tejto Zmluvy odstúpiť v prípade podstatného porušenia
+zmluvných povinností Dodávateľa. Za podstatné porušenie zmluvných povinností Dodávateľa
+sa považujú porušenia, ktoré sú ako podstatné v tejto Zmluve výslovne uvedené a zároveň ak:
+Dodávateľ bude v omeškaní s akýmkoľvek plnením predmetu tejto Zmluvy o viac ako
+30 kalendárnych dní, alebo
+Dodávateľ poruší akúkoľvek inú zmluvnú povinnosť, pričom k jej náprave nedôjde ani
+po uplynutí dodatočnej primeranej lehoty v trvaní najmenej 10 kalendárnych dní
+poskytnutej Objednávateľom na odstránenie tohto porušenia, okrem povinností
+uvedených v čl. VII., kde sa za primeranú považuje rovnaká lehota, ako vyplýva
+z porušenej povinnosti,
+v dôsledku opakovaného neúspešného vykonania akceptačných testov IBM Power 8
+podľa článku VI. bod 3 tejto Zmluvy (opakovaným sa rozumie viac ako 2 krát).
+5. Dodávateľ je oprávnený od tejto Zmluvy odstúpiť v prípade ak:
+je Objednávateľ v omeškaní s plnením svojej povinnosti uhradiť cenu plnenia a/alebo jej
+časť, alebo akékoľvek peňažné plnenie a/alebo jeho časť, na ktoré má Dodávateľ nárok
+v súlade s touto Zmluvou a jej prílohami, a túto povinnosť nesplní ani v dodatočnej
+lehote 30 kalendárnych dní,
+Objednávateľ bezdôvodne neposkytne súčinnosť a/alebo nesplní povinnosť definovanú
+v tejto Zmluve a jej prílohách, a to ani v dodatočnej primeranej lehote nato poskytnutej
+Dodávateľom, ktorá nesmie byť kratšia ako 30 dní, alebo
+Objednávateľ porušuje autorské práva alebo priemyselné práva Dodávateľa
+a neodstráni takéto porušenia ani v lehote 30 dní odo dňa doručenia písomnej výzvy
+Dodávateľa na zdržanie sa konania, ktorým dochádza k porušeniu autorských práv
+alebo priemyselných práv Dodávateľa.
+6. Právne účinky odstúpenia od tejto Zmluvy nastávajú dňom doručenia písomného oznámenia
+o odstúpení druhej Zmluvnej strane.
+
+11
+
+Ev. č. 244/18/CEZ
+
+XIII.
+RIEŠENIE SPOROV A INÉ DOJEDNANIA
+1. Zmluvné strany sa zaväzujú, že v prípade sporov o obsah a plnenie tejto Zmluvy vynaložia
+všetko úsilie, ktoré je možné od nich spravodlivo požadovať, k tomu, aby tieto spory boli
+vyriešené cestou zmieru, najmä, aby boli odstránené okolnosti vedúce k vzniku práva od
+Zmluvy odstúpiť alebo okolností spôsobujúcich jej neplatnosť. Za týmto účelom je každá zo
+zmluvných strán oprávnená vyzvať druhú zmluvnú stranu na rokovanie a druhá zmluvná strana
+je povinná sa takéhoto rokovania zúčastniť prostredníctvom osôb oprávnených konať v jej
+mene, a to tak, aby sa rokovanie uskutočnilo najneskôr do 30 dní odo dňa doručenia výzvy
+druhej zmluvnej strany na účasť na rokovaní.
+2. V prípade, ak sa postupom podľa predchádzajúceho odseku nepodarí dosiahnuť dohodu o
+urovnaní sporu zmierlivou cestou, je každá zo zmluvných strán oprávnená podať žalobu na
+príslušný všeobecný súd SR.
+XIV.
+ZÁVEREČNÉ USTANOVENIA
+1. Zmluvné plnenie zo strany Dodávateľa platí za podmienky, že nevzniknú žiadne obmedzenia na
+základe národných a medzinárodných obchodných a colných právnych predpisov, ako ani
+žiadne embargá (a/alebo iné sankcie).
+2. Reexport zmluvného plnenia tretej strane podlieha písomnému súhlasu Dodávateľa. Takýto
+súhlas je potrebné zabezpečiť pred uzatvorením zmluvy s treťou osobou. Objednávateľ sa
+zaväzuje takisto previesť povinnosť odsúhlasenia reexportu aj na tretiu stranu.
+3. Pokiaľ nie je v tejto Zmluve výslovne uvedené inak, túto Zmluvu je možné zmeniť len po
+vzájomnej dohode Zmluvných strán formou písomného dodatku očíslovaného podľa poradia
+jeho prijatia podpísaného oprávnenými zástupcami oboch zmluvných strán.
+4. Zmluvné strany sa dohodli, že pre účely tejto Zmluvy sa za doručenú písomnosť bude
+považovať (ak doručenie nenastane preukázateľne skôr):
+- písomnosť odoslaná e-mailom na adresu kontaktnej osoby druhej zmluvnej strany najbližší pracovný deň nasledujúci po dni odoslania písomnosti,
+- písomnosť odoslaná poštovou prepravou - uplynutím lehoty 3 pracovných dní odo dňa
+uloženia neprevzatej písomnosti na pošte, alebo
+- dňom odmietnutia prevzatia doručovanej písomnosti.
+5. Pokiaľ nie je v tejto Zmluve výslovne uvedené inak, pod pojmom písomne sa rozumie
+vyhotovenie a doručenie dokumentu buď v listinnej alebo elektronickej forme.
+6. Právne vzťahy touto Zmluvou neupravené a ich právne dôsledky, vrátane otázok platnosti tejto
+Zmluvy sa riadia právnym poriadkom Slovenskej republiky, najmä zákonom č. 513/1991 Zb.
+Obchodný zákonník v platnom znení.
+7. V prípade, ak by sa niektoré ustanovenia tejto Zmluvy stali neplatnými, nie je tým dotknutá
+platnosť a účinnosť zostávajúcich ustanovení tejto Zmluvy.
+8. Dodávateľ týmto berie na vedomie, že Objednávateľ je právnickou osobou, ktorá poskytuje
+finančné prostriedky podľa § 2 ods. 1 písm. a) prvého bodu zákona č. 315/2016 Z. z. o registri
+partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov (ďalej len „Zákon o registri partnerov verejného sektora“). Dodávateľ vyhlasuje, že
+on ako aj všetci jemu známi subdodávatelia, ktorí sú považovaní za partnerov verejného
+sektora v zmysle Zákona o registri partnerov verejného sektora, sú v čase uzavretia tejto
+Zmluvy zapísaní v Registri partnerov verejného sektora vedeného Ministerstvom spravodlivosti
+Slovenskej republiky (ďalej len „Register“). Dodávateľ sa zároveň zaväzuje, že bude počas celej
+doby trvania tejto Zmluvy zapísaný v Registri a bude plniť všetky povinnosti vyplývajúce mu,
+ako partnerovi verejného sektora, zo Zákona o registri partnerov verejného sektora. Nesplnenie
+ktorejkoľvek povinnosti podľa predchádzajúcej vety sa bude považovať za podstatné porušenie
+zmluvných povinností Dodávateľa zakladajúce oprávnenie Objednávateľa od tejto Zmluvy
+odstúpiť.
+
+12
+
+Ev. č. 244/18/CEZ
+9. Dodávateľ je povinný dodržiavať právne predpisy a zabezpečiť dodržiavanie právnych
+predpisov tretími osobami, ktoré sa podieľajú na plnení Zmluvy, zdržať sa akéhokoľvek konania,
+ktoré je v rozpore s právnymi predpismi alebo ktoré je spôsobilé ohroziť alebo porušiť záujmy
+Objednávateľa, a zabrániť takémuto konaniu. Pri plnení Zmluvy je dodávateľ povinný najmä
+zdržať sa konania, ktoré by mohlo viesť k vyvodeniu trestnej zodpovednosti Objednávateľa
+v zmysle zákona č. 91/2016 Z. z. o trestnej zodpovednosti právnických osôb v znení neskorších
+predpisov alebo takého predpisu, ktorý ho nahradí.
+10. Táto Zmluva je vyhotovená v štyroch vyhotoveniach, z ktorých dve si ponechá Objednávateľ
+a dve Dodávateľ.
+11. Zmluvné strany vyhlasujú, že si túto Zmluvu prečítali a porozumeli jej obsahu, ktorý zodpovedá
+ich skutočnej, vážnej a slobodnej vôli, čo potvrdzujú vlastnoručnými podpismi osôb
+oprávnených konať v ich mene. Podpisom tejto Zmluvy Zmluvné strany zároveň potvrdzujú
+prevzatie nasledovných príloh, ktoré sú neoddeliteľnou súčasťou tejto Zmluvy.
+Príloha č. 1 Špecifikácia predmetu plnenia
+Príloha č. 2 Ponuka Dodávateľa
+Príloha č. 3 Cenník
+Za Objednávateľa:
+
+Za Dodávateľa:
+
+V Bratislave dňa
+
+V Bratislave dňa
+
+.......................................................
+Mgr. Zuzana Lomnická
+Strategický nákupca senior
+
+.......................................................
+Martin Sůra
+konateľ
+
+.......................................................
+JUDr. Adriana Khandlová
+Riaditeľ odboru obstarávania a nákupu
+
+13
+
+Ev. č. 244/18/CEZ
+
+Príloha č. 1 Špecifikácia predmetu plnenia
+1. Predmet plnenia
+Predmetom plnenia je nákup servera IBM Power8 (s824) vrátane IBM Spectrum Scale V4 licencií,
+záručného HW a SW servisu na 5 rokov, základnej inštalácie a postimplementačná podpora.
+Server je cieľovo určený pre prostredie, na ktorom by sa realizovala obnova po katastrofe (Disaster
+recovery) pre kľúčové SAP systémy a databázu Oracle. V normálnom prevádzkovom režime bude
+využívaný pre celkové zvýšenie výkonnosti produkčného prostredia i pre vývojové a testovacie
+prostredia.
+Po zakúpení bude výkon servera využitý pre posilnenie výkonnosti migračného prostredia pre
+projekt ISOZ, aby sa čo najviac skrátila doba nevyhnutnej odstávky pri prechode na nové riešenie.
+Dodávka:
+• 1 ks servera IBM Power s824 v konfigurácii ako je uvedené nižšie,
+• 1 socket lic. IBM Spectrum Scale V4,
+• rozšírená záruka pre HW, SW na 5 rokov, SLA: 24hodín x 7 dní v týždni, oprava do 24
+hodín.
+Základné inštalačné práce
+• oživenie HW,
+• inštalácia a konfigurácia serverov, vrátane VIOS, PowerVM,
+• konfigurácia HMC konzol, prepojenie so serverom,
+• inštalačná a prevádzková dokumentácia.
+Postimplementačná podpora
+• 10 MD
+Postimplementačnú podporu poskytne dodávateľ na základe požiadaviek SPP v obojstranne
+dohodnutom termíne, najneskôr však do 5 pracovných dní od SPP požadovaného termínu.
+Čerpanie je možné postupne po častiach v období platnosti zmluvy.
+Tabuľka požadovaných HW a SW komponentov
+Server - IBM Power s824 - 16 core 1TB RAM
+so štandardnou 3 ročnou zárukou na HW a SW
+
+ks
+
+8286-42A Server 1:8286 Model 42A
+
+1
+
+265 AIX Partition Specify
+
+1
+
+2146 Primary OS - AIX
+
+1
+
+4650 Rack Indicator- Not Factory Integrated
+
+1
+
+5000 Software Preload Required
+
+1
+
+5228 PowerVM Enterprise Edition
+
+16
+
+EN0A PCIe3 16Gb 2-port Fibre Channel Adapter
+
+4
+
+5771 SATA Slimline DVD-RAM Drive
+
+1
+
+5899 PCIe2 4-port 1GbE Adapter
+
+2
+
+EN15 PCIe3 4-port 10GbE SR Adapter
+
+2
+
+6458 Power Cord 43m (14-ft), Drawer to Wall/IBM PDU (250V/10A)
+
+4
+
+9440 New AIX License Core Counter
+
+16
+
+9720 Language Group Specify - Slovakian
+
+1
+
+EB2L AC Power Supply - 900W
+
+4
+
+ECW0 Optical Wrap Plug
+
+4
+
+EJ0N Storage Backplane 12 SFF-3 Bays/DVD Bay
+
+1
+
+EJ0S Split #EJ0N to 6+6 SFF-3 Bays: Add 2nd SAS Controller
+
+1
+
+EJTC Front Bezel for 12-Bay BackPlane
+
+1
+
+EM8E 128 GB DDR3 Memory
+
+8
+
+EPXF 8-core 4.15 GHz POWER8 Processor Card
+
+2
+
+EPYF One Processor Core Activation for #EPXF
+
+16
+
+14
+
+Ev. č. 244/18/CEZ
+ESC6 S&H-b
+
+1
+
+ESFF 600GB 15K RPM SAS SFF-3 4K Block - 4096 Disk Drive
+
+4
+
+EU19 Cable Ties & Labels
+
+1
+
+5692-A6P System Software
+
+1
+
+1100 DVD Process Charge
+
+1
+
+2283 IBM PowerSC Std Ed V11 (5765-PSE)
+
+1
+
+2306 PowerVC/Cloud Mgr V1 (5765-VCS/VCC)
+
+1
+
+2309 ITM V6.3.0.2
+
+1
+
+2313 AIX 7.2 Base Install
+
+1
+
+2315 AIX 7.2 Expansion Pack
+
+1
+
+2321 AIX 7.2 Info Center
+
+1
+
+2323 IBM PowerHA SystemMirror Ent Ed V72 (5765-H37)
+
+1
+
+2325 AIX IBM BigFix Lifecycle
+
+1
+
+2509 AIX 7.2 Enterprise Edition V1.2 Specify (5765-CD3)
+
+1
+
+3435 DVD/CD-ROM
+
+1
+
+5765-CD3 IBM AIX 72 Enterprise Edition
+
+1
+
+V8HHBG Per Processor - Small
+
+16
+
+5773-AEZ 3-Year SWMA for 5765-AEZ/G99/CD1/CD3
+
+1
+
+T0ZJC4 Per Processor 3 Yr SWMA Small Power 7/8
+
+16
+
+5641-GPF IBM Spectrum Scale V4
+
+1
+
+U0X2C1 Standard Server per Socket w/ 1-Year SWMA
+
+1
+
+5641-GS5 5-Year Subscription and Support for 5641-GPF
+
+1
+
+M0YWTC Standard Server per Socket
+
+1
+
+5765-PVE PowerVM Enterprise Edition
+
+1
+
+V7FXBG Per Processor - Small
+
+16
+
+5773-PVE 3-Year SWMA for 5765-PVE
+
+1
+
+U0VSC5 Per Processor 3yr reg - Small
+
+16
+
+2. Termíny plnenia
+Dodávka a implementácia
+- dodávka servera a komponentov do 4 týždňov od uzavretia zmluvy,
+- zabezpečenie komplexnej dodávky servera vrátane inštalačných prác do 6 týždňov od uzavretia
+zmluvy.
+Rozšírená záruka
+Na dodané zariadenia sa požaduje poskytnutie záruky nasledovne:
+Rozšírená záruka na obdobie 5 rokov na HW a SW (AIX, PowerVM, Spectrum Scale) okrem IBM
+Spectrum Scale V4, kde je záruka na 5 rokov zahrnutá v rámci dodávky plnenia. Vyžadovaná SLA
+je 24 hodín 7 dní týždni, oprava do 24 hodín.
+„Záruka, Rozšírená záruka“ znamená, že za vyššie uvedených podmienok budú odstránené vady
+zariadení a softvéru. Všetky náklady súvisiace s odstránením vady, podliehajúcej záruke znáša
+dodávateľ (vrátane prác, cestovného, ceny náhradných dielov, príp. iné).
+3. Miesto plnenia
+- SPP, a.s., Mlynské nivy 44/a, 825 11 Bratislava.
+
+15
+
+Ev. č. 244/18/CEZ
+
+Príloha č. 2 Ponuka Dodávateľa
+Technický popis a popis parametrov ponúkaných serverov
+IBM Power S824
+
+900w
+AC
+
+C2
+
+C3
+
+C4
+
+C5
+
+C7
+
+C8
+
+C9
+
+C10
+A T0 49 A
+
+C11
+
+C12
+
+A T0 49 A
+
+900w
+
+T1
+T2
+
+1
+
+2
+
+AC
+
+T1
+900w
+AC
+
+T3
+
+C1
+1
+
+T2
+
+2
+
+HMC1
+
+T4
+
+HMC2
+
+900w
+AC
+
+C2x8
+
+C3x16
+
+C4x8
+
+C5x16
+
+C6x16
+
+C7x16
+
+C8x8
+
+C9x8
+
+C10x8
+
+C11x8
+
+C12x8
+
+Každá HMC konzola bude pripojená k serveru, aby bola zabezpečená redundancia.
+Zapojenie produkčnej LAN
+Sieťová karta v slote c7 bude priradená do VIOS 1 a sieťová karta v slote c8 bude priradená do VIOS 2.
+Každý VIO server bude zapojený do dvoch switchov, aby bola zabezpečená redundancia a pripojenie
+bude obsahovať všetky potrebné vlany v režime 802.1Q. Všetky LPARy budú pripojené do siete
+pomocou virtuálnych sieťových adaptérov, ktoré budú poskytované VIO servermi. Virtuálne sieťové
+adaptéry bude VIO server tagovať príslušnou vlanou. Koľko bude potrebných vlan v LPARe, toľko
+virtuálnych adaptérov mu VIOS poskytne. Detailné zapojenie LAN bude podliehať potrebám zákazníka.
+Zapojenie produkčnej SAN
+FC karty v slote c2 a c4 budú priradené do VIOS 1 a FC karty v slote c3 a c5 budú priradené do VIOS
+2. Porty patriace VIO serveru 1 budú vo FABRIC A a porty patriace VIO serveru 2 budú vo FABRIC B.
+Pomocou NPIV budú priradené virtuálne FC adaptéry do LPARov z oboch FABRICov. Redundanciu
+bude zabezpečovať MPIO driver na úrovni LPARu.
+Termíny plnenia
+- dodávka serverov a komponentov - do 4 týždňov od podpisu zmluvy,
+- zabezpečenie komplexnej dodávky serverov vrátane inštalačných prác - do 6 týždňov od podpisu
+zmluvy.
+Miesto plnenia
+Slovenský plynárenský priemysel, a.s., Mlynské nivy 44/a, 825 11 Bratislava.
+Časový harmonogram
+Časový harmonogram závisí od pripravenosti jednotlivých lokalít na inštaláciu a pripojenie systémov
+IBM Power S824 a HMC konzolí. Návrh časového harmonogramu:
+Dodávka zariadení – do 4 týždňov od podpisu Zmluvy.
+Základná inštalácia a konfigurácia – do 2 týždňov od dodania zariadení.
+1. Inštalácia systémov do stojanov a pripravenie kabeláže na zapojenie,
+2. Zapojenie a oživenie systémov – kontrola firmvérov systémov IBM Power, prípadná inštalácia
+aktualizácií,
+3. Základná inštalácia a konfigurácia podpornej infraštruktúry pre PowerHA, zahŕňa inštaláciu,
+konfiguráciu a sprevádzkovanie Virtual I/O serverov,
+4. Dokumentácia inštalácie.
+
+16
+
+Ev. č. 244/18/CEZ
+Potrebná súčinnosť na strane SPP
+Zabezpečiť prístup do dátových centier
+Zabezpečenie dostatočného miesta v rackoch
+Zabezpečenie pripojenia nových zariadení do elektrickej siete
+Zabezpečenie pripojenia nových zariadení do SAN a LAN siete
+Zabezpečiť konfiguráciu SAN a LAN switchov
+Zabezpečiť konfiguráciu diskového poľa, pre testovacie LPARy
+Predpokladaná súčinnosť zo strany zákazníka v rozsahu 5MD.
+Nároky na inštaláciu zariadení
+-
+
+Miesto v racku
+Zariadenie
+Power S824
+
+-
+
+Potrebné miesto v racku
+4U
+
+Nároky na napájanie a chladenie
+o 4 x 230V
+Zariadenie
+Power S824 (50% CPU vyťaženie)
+Power S824 (100% CPU
+vyťaženie)
+
+-
+
+Pripojenie do LAN
+o 10 x 1Gb Ethernet port
+o 8x 10Gb Ethernet port
+
+-
+
+Pripojenie do SAN
+o 8 x 16Gb Fibre Channel
+
+Nároky na napájanie
+983 W
+
+Nároky na chladenie
+3,355 BTU/hr
+
+1058 W
+
+3,611 BTU/hr
+
+17
+
+Ev. č. 244/18/CEZ
+Príloha č. 3 Cenník
+počet
+ks
+
+P.č. Server - IBM Power s824 - 16 core 1TB RAM
+1
+8286-42A Server 1:8286 Model 42A
+2
+265 AIX Partition Specify
+3
+2146 Primary OS - AIX
+4
+4650 Rack Indicator- Not Factory Integrated
+5
+5000 Software Preload Required
+6
+5228 PowerVM Enterprise Edition
+7
+EN0A PCIe3 16Gb 2-port Fibre Channel Adapter
+8
+5771 SATA Slimline DVD-RAM Drive
+9
+5899 PCIe2 4-port 1GbE Adapter
+10
+EN15 PCIe3 4-port 10GbE SR Adapter
+11
+6458 Power Cord 43m (14-ft), Drawer to Wall/IBM PDU (250V/10A)
+12
+9440 New AIX License Core Counter
+13
+9720 Language Group Specify - Slovakian
+14
+EB2L AC Power Supply - 900W
+15
+ECW0 Optical Wrap Plug
+16
+EJ0N Storage Backplane 12 SFF-3 Bays/DVD Bay
+17
+EJ0S Split #EJ0N to 6+6 SFF-3 Bays: Add 2nd SAS Controller
+18
+EJTC Front Bezel for 12-Bay BackPlane
+19
+EM8E 128 GB DDR3 Memory
+20
+EPXF 8-core 4.15 GHz POWER8 Processor Card
+21
+EPYF One Processor Core Activation for #EPXF
+22
+ESC6 S&H-b
+23
+ESFF 600GB 15K RPM SAS SFF-3 4K Block - 4096 Disk Drive
+24
+EU19 Cable Ties & Labels
+25 5692-A6P System Software
+26
+1100 DVD Process Charge
+27
+2283 IBM PowerSC Std Ed V11 (5765-PSE)
+28
+2306 PowerVC/Cloud Mgr V1 (5765-VCS/VCC)
+29
+2309 ITM V6.3.0.2
+30
+2313 AIX 7.2 Base Install
+31
+2315 AIX 7.2 Expansion Pack
+32
+2321 AIX 7.2 Info Center
+33
+2323 IBM PowerHA SystemMirror Ent Ed V72 (5765-H37)
+34
+2325 AIX IBM BigFix Lifecycle
+35
+2509 AIX 7.2 Enterprise Edition V1.2 Specify (5765-CD3)
+36
+3435 DVD/CD-ROM
+37 5765-CD3 IBM AIX 72 Enterprise Edition
+38
+V8HHBG Per Processor - Small
+39 5773-AEZ 3-Year SWMA for 5765-AEZ/G99/CD1/CD3
+40
+T0ZJC4 Per Processor 3 Yr SWMA Small Power 7/8
+41 5641-GPF IBM Spectrum Scale V4
+42
+U0X2C1 Standard Server per Socket w/ 1-Year SWMA
+43 5641-GS5 5-Year Subscription and Support for 5641-GPF
+44 M0YWTC Standard Server per Socket
+45 5765-PVE PowerVM Enterprise Edition
+46
+V7FXBG Per Processor - Small
+47 5773-PVE 3-Year SWMA for 5765-PVE
+48
+U0VSC5 Per Processor 3yr reg - Small
+49 Cena za HW a SW
+50
+
+1
+1
+1
+1
+1
+16
+4
+1
+2
+2
+4
+16
+1
+4
+4
+1
+1
+1
+8
+2
+16
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+16
+1
+16
+1
+1
+1
+1
+1
+16
+1
+16
+
+Cena za základné inštalačné práce 18 MD
+(vrátane postimplementačnej podpory 10 MD)
+
+HW
+
+52
+
+SW
+
+Rozšírená 5 ročná HW záruka s SLA 24x7, fixtime 24 hod pre IBM Power
+s824
+Rozšírenie SW záruky o 2 roky pre SW IBM AIX, 7.2 Ent., PowerVM
+Ent.., (rozšírená SW záruka pre 1 server IBM Power s824)
+
+zľava %
+
+1 101,10 €
+- €
+- €
+- €
+- €
+- €
+4 880,79 €
+562,14 €
+520,52 €
+4 761,84 €
+15,33 €
+- €
+- €
+310,14 €
+21,25 €
+1 238,75 €
+1 238,75 €
+123,88 €
+10 383,50 €
+13 580,26 €
+2 974,81 €
+445,12 €
+1 926,02 €
+33,34 €
+- €
+363,00 €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+1 078,00 €
+- €
+766,26 €
+- €
+13 915,00 €
+- €
+11 132,00 €
+- €
+415,00 €
+- €
+312,00 €
+
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+31,70%
+
+700,00 €
+
+20%
+
+Jednotková
+cena
+listprice / €
+
+Rozšírená záruka na HW a SW na obdobie 5 rokov
+(platby rozložené na 5 rokov)
+51
+
+Jednotková
+cena
+listprice / €
+
+zľava %
+
+Jednotková
+cena / 1 ks
+po zľave / €
+752,05
+0
+0
+0
+0
+0
+3333,58
+383,94
+355,52
+3252,34
+10,47
+0
+0
+211,83
+14,51
+846,07
+846,07
+84,61
+7091,93
+9275,32
+2031,8
+304,02
+1315,47
+22,77
+0
+247,93
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+736,27
+0
+523,36
+0
+9503,95
+0
+7603,16
+0
+283,45
+0
+213,1
+
+560,00 €
+Jednotková
+cena / 1 ks
+po zľave / €
+
+752,05 €
+- €
+- €
+- €
+- €
+- €
+13 334,32 €
+383,94 €
+711,04 €
+6 504,68 €
+41,88 €
+- €
+- €
+847,32 €
+58,04 €
+846,07 €
+846,07 €
+84,61 €
+56 735,44 €
+18 550,64 €
+32 508,80 €
+304,02 €
+5 261,88 €
+22,77 €
+- €
+247,93 €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+- €
+11 780,32 €
+- €
+8 373,76 €
+- €
+9 503,95 €
+- €
+7 603,16 €
+- €
+4 535,20 €
+- €
+3 409,60 €
+183 247,49 €
+
+10 080,00 €
+
+Spolu / €
+
+20 423,79 €
+
+5% 19 402,60 €
+
+19 402,60 €
+
+12 765,45 €
+
+5% 12 127,18 €
+
+12 127,18 €
+
+53 Cena za rozšírenú (HW a SW) 5 ročnú záruku s rozloženými platbami
+
+Celková cena za predmet plnenia v zmysle čl. I. bod 2.
+
+18
+
+Spolu / €
+
+31 529,78 €
+
+224 857,27 €
+
+

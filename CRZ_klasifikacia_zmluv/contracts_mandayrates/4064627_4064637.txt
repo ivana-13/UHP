@@ -1,0 +1,2001 @@
+ZMLUVA O POSKYTOVANÍ SLUŽIEB ŠTANDARDNEJ PODPORY A ÚDRŽBY DEFINOVANÝCH
+SOFTVÉROVÝCH KOMPONENTOV
+Č. OVO2-2019/000392 -15
+uzavretá podľa § 269 ods. 2 a nasl. zákona č. 513/1991 Zb. Obchodného zákonníka
+v znení neskorších predpisov (ďalej len „Obchodný zákonník“) a zákona č. 343/2015 Z. z. o verejnom obstarávaní
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+ZMLUVNÉ STRANY
+OBJEDNÁVATEĽ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+Zastúpený:
+Bankové spojenie:
+IBAN:
+
+Slovenská republika zastúpená Ministerstvom vnútra Slovenskej republiky
+Pribinova 2, 812 72 Bratislava
+00151866
+2020571520
+Ing. Ondrej VARAČKA, generálny tajomník služobného úradu MV SR, na základe plnej
+moci č. p. KM-OPS4-2018/001604-117 zo dňa 30. apríla 2018
+
+Kontaktná osoba
+v realizačných veciach: Ing. Pavol Maliarik
+E-mail:
+(ďalej len „Objednávateľ“)
+a
+POSKYTOVATEĽ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Zastúpený:
+
+Soimco a. s.
+Galvaniho 12, 821 04 Bratislava
+44 367 465,
+2022672003,
+SK 2022672003
+Ing. Richard Beňo
+predseda predstavenstva
+
+Bankové spojenie:
+IBAN:
+Zápis:
+Kontaktná osoba
+v realizačných veciach:
+Telefón:
+E-mail:
+
+Ing. Richard Beňo
+
+(ďalej len „Poskytovateľ“)
+Objednávateľ a Poskytovateľ spolu ďalej ako „Zmluvné strany“ a každý samostatne ako „Zmluvná strana“.
+
+Článok 1
+Úvodné ustanovenia a účel zmluvy
+1.1
+
+Zmluvné strany uzatvárajú túto Zmluvu v súlade s výsledkom verejnej súťaže, ktorej oznámenie o
+vyhlásení verejného obstarávania (ďalej len „Verejné obstarávanie“) bolo uverejnené vo Vestníku
+verejného obstarávania č. 56/2019 dňa .20.03.2019. pod značkou MSS -5548.
+
+1.2
+
+Účelom tejto Zmluvy je v súlade s výsledkom Verejného obstarávania zabezpečiť predmet zákazky podľa
+článku 3. a Prílohy č. 1 tejto Zmluvy, ktorý bude v súlade s touto Zmluvou zabezpečovať Poskytovateľ pre
+Objednávateľa.
+
+1.3
+
+Na základe predloženej ponuky Poskytovateľa a v zmysle príslušných ustanovení zákona č. 343/2015 Z.
+z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej
+len „zákon č. 343/2015 Z. z.“) ako aj v zmysle príslušných ustanovení § 269 ods. 2 Obchodného
+zákonníka, uzatvára Objednávateľ s Poskytovateľom, ako úspešným uchádzačom, túto zmluvu
+o poskytovaní služby štandardnej podpory a údržby softvérových komponentov zabezpečujúcich
+prevádzku IT systémov verejného obstarávateľa v oblasti service management, security management,
+infrastructure management, API management a integračné komponenty (ďalej len „Zmluva“), za účelom
+špecifikácie podmienok a rozsahu poskytovania pozáručného autorizovaného servisu/podpory, služieb
+prevádzkovej podpory a údržby a služieb pre úpravy systémov pre softvérové produkty pre vybrané
+prevádzkované systémy potrebné na zabezpečenie prevádzky informačných systémov objednávateľa.
+Článok 2
+Definície a pojmy
+
+2.1
+
+Čas zdržania nespôsobený Poskytovateľom: technická, či iná prekážka, ktorá nastala nezávisle na vôli
+Poskytovateľa a ktorá mu neumožňuje neutralizáciu problému (predovšetkým prípad, keď je problém na
+strane tretej osoby poskytujúcej Objednávateľovi služby relevantné pre prevádzku informačných systémov
+(IS) a SW komponentov, ktoré sú predmetom Zmluvy, ako aj čas omeškania Objednávateľa s poskytnutím
+relevantnej súčinnosti v zmysle tejto Zmluvy.
+
+2.2
+
+Človekodeň: je základná merná jednotka fakturácie služieb, za ktorú sa považuje jeden deň práce, tzn. 8
+pracovných hodín jedného pracovníka Poskytovateľa.
+
+2.3
+
+SW komponent: Ide o samostatnú časť informačného systému podporovaných oblastí uvedených v
+Prílohe č. 1, ktorú možno používať nezávisle od ostatných komponentov podľa Prílohy č.1.
+
+2.4
+
+SW modul: Ide o samostatnú časť SW komponentu, ktorú možno používať nezávisle od ostatných
+modulov SW komponentu.
+
+2.5
+
+Doba neutralizácie problému alebo aj Doba odstránenia problému: doba neutralizácie problému je pre
+Poskytovateľa čas, do ktorého zabezpečí neutralizáciu nahláseného problému (počnúc hlásením
+Objednávateľa). Neutralizácia problému znamená obnovenie prevádzky IT systémov, resp. obnovenie
+fungovania základných činností SW komponentov, častí IS alebo SW komponentu IS ako celku, za
+predpokladu že riešenie problému je predmetom Zmluvy. Doba neutralizácie problému závisí od
+typu/priority požiadavky. Do doby neutralizácie problému sa započítava len čas uvedený v Prílohe č. 1
+tejto Zmluvy. Do doby neutralizácie problému sa nezapočítava Čas zdržania nespôsobený
+Poskytovateľom, čas následného riešenia príčiny problému a čas, keď je problém eskalovaný na výrobcu
+SW komponentu v rámci výrobcom podmienok pozáručného autorizovaného servisu.
+
+2.6
+
+Elektronický systém pre správu požiadaviek alebo v skratke systém HelpDesk: elektronický systém
+pre správu požiadaviek je informačný systém, prostredníctvom ktorého Poskytovateľ zabezpečuje
+evidenciu a informácie o Požiadavkách a Problémoch Objednávateľa. Popis systému HelpDesk, jeho
+adresa a funkcionalita je uvedená v Prílohe č. 5 tejto Zmluvy.
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+2 z 14
+
+2.7
+
+Funkcia SW modulu alebo v skratke funkcia sa rozumie samostatná funkcia SW komponentu alebo
+vlastnosť SW modulu informačných systémov podporovaných oblastí podľa tejto Zmluvy, uvedených
+v prílohe č. 1.
+
+2.8
+
+HW: pod pojmom HW sa rozumie akýkoľvek hardvér.
+
+2.9
+
+Konzultácia: konzultácia je Objednávateľom vyžiadaná odborná činnosť špecialistov Poskytovateľa, ktorá
+sa týka informačných systémov podporovaných oblastí a SW komponentov. Na poskytovanie konzultácií
+sa nevzťahuje reakčná doba ani doba neutralizácie stanovené touto Zmluvou.
+
+2.10 Kritický problém: požiadavka Objednávateľa, na riešenie problému Poskytovateľom, ktorý sa prejavuje
+výpadkom fungovania celého IS SW komponentov tretích strán alebo SW komponentu, ohrozuje
+zabezpečenie poskytovania základných služieb a funkcií aplikácií v rámci podporovaných oblastí, čo
+znemožňuje jeho použitie ako celku alebo jeho podstatnej časti. Za kritický sa považuje problém, ktorý sa
+prejavuje globálne voči nezastupiteľnej skupine používateľov a je predmetom tejto Zmluvy. Ako kritický
+problém je charakterizovaný problém, ktorý je opakovane vyvolateľný alebo má trvalý charakter.
+2.11 Nekritický problém: požiadavka Objednávateľa na riešenie takého problému, ktorý znemožňuje
+používanie funkcií SW komponentov tretích strán, SW komponentov z hľadiska koncového používateľa,
+pričom neobmedzuje použitie SW komponentov tretích strán, HW alebo SW komponentu alebo modulu
+ako celku alebo jeho podstatných častí, pričom neohrozuje zabezpečenie poskytovania základných
+služieb a funkcií aplikácií v rámci podporovaných oblastí.
+2.12 Oprávnené osoby Objednávateľa: osoba určená v Prílohe č. 7 tejto Zmluvy, ktorá je oprávnená
+nahlasovať, riešiť a potvrdzovať vyriešenie problémov spôsobmi uvedenými v tejto Zmluve a zadávať
+požiadavky a potvrdzovať ich vybavenie podľa tejto Zmluvy.
+2.13 Otázka: je požiadavka Objednávateľa na poskytnutie informácií Poskytovateľom, pričom nie je
+identifikovaný problém. Na poskytovanie informácií sa nevzťahuje reakčná doba ani doba neutralizácie
+stanovená touto Zmluvou.
+2.14 Požiadavka: požiadavka je každá požiadavka Objednávateľa na poskytnutie služieb v rozsahu tejto
+Zmluvy.
+2.15 Problém: je Objednávateľom hlásený stav, ktorý znemožňuje používanie SW komponentu, modulu alebo
+funkcie IS (vrátane SW komponentov), je vážnym obmedzením funkčnosti alebo rozporom fungovania
+oproti dodanej dokumentácii.
+2.16 Reakčná doba: reakčná doba je pre Poskytovateľa stanovený čas, do ktorého zaháji prešetrenie
+nahláseného problému počnúc hlásením Objednávateľa formou zaevidovania problému priamo do
+systému HelpDesk. V odôvodnených prípadoch, predovšetkým v prípade výpadku, resp. nefunkčnosti
+systému HelpDesk je Objednávateľ oprávnený nahlásiť problém aj telefonicky na číslo uvedené v Prílohe
+č. 5 tejto Zmluve. V takomto prípade bude problém, ktorý bol nahlásený telefonicky, zadaný do systému
+HelpDesk dodatočne, bez zbytočného odkladu po obnovení fungovania systému HelpDesk. Reakčná
+doba závisí od kategórie problému podľa Prílohy č. 1 tejto Zmluvy.
+2.17 Zmluva: táto zmluva o poskytovaní služby štandardnej podpory a údržby SW komponentov a SW
+modulov zabezpečujúcich prevádzku IT systémov Objednávateľa pre oblasť service management,
+security management, infrastructure management, API management a integračné komponenty.
+2.18 Služby štandardnej podpory a údržby: sú predovšetkým služby pozáručného autorizovaného
+servisu/podpory SW komponentov v rámci oblasti: service, security, infrastructure management, API
+management a integračné komponenty, prevádzkovaných Objednávateľom, služby prevádzkových
+činnosti a technickej podpory, odstraňovanie pozáručných a mimozáručných vád – oprava na základe
+hlásených incidentov a osobná podpora pri zabezpečení testovania opravených funkčností informačných
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+3 z 14
+
+systémov. Bližšia špecifikácia služieb prevádzkovej podpory a údržby, ktorá je poskytovaná v rámci tejto
+Zmluvy je uvedená v čl. III bod 1 a Prílohe č. 1 tejto Zmluvy.
+2.19 Údržba SW komponentov tretích strán(maintenance): sa rozumie poskytovanie produktovej a
+technickej podpory, ktorú zabezpečuje tretia osoba, pri SW komponentoch ako vykonávateľ autorských
+práv, za podmienok určených touto treťou osobou. Jej predmetom je poskytovanie nových verzií
+zabezpečujúcich odstraňovanie vád v SW komponentoch tretej osoby a/alebo poskytovanie nových verzií
+obsahujúcich nové funkcie. Zoznam SW komponentov, na ktoré je na základe tejto Zmluvy poskytovaná
+údržba (maintenance) je uvedený v Prílohe č.1 tejto Zmluvy.
+Článok 3
+Predmet Zmluvy
+3.1
+
+Predmetom tejto zmluvy je záväzok Poskytovateľa za podmienok dohodnutých v tejto Zmluve riadne
+a včas poskytnúť Objednávateľovi Služby štandardnej podpory a údržby uvedené v bodoch 3.2 až 3.6
+tohto článku Zmluvy (ďalej len „služby“) a záväzok Objednávateľa za riadne a včas poskytnuté služby
+zaplatiť Poskytovateľovi cenu v súlade s článkom 5 tejto Zmluvy.
+
+3.2
+
+Služby podľa tejto Zmluvy pozostávajú z:
+a)
+pozáručného autorizovaného servisu/podpory prevádzky IT systémov v oblasti service
+management, security management, infrastructure management, API management a integračné
+komponenty prevádzkovaných v priestoroch Objednávateľa a ktorých zoznam a rozsah je uvedený
+v Prílohe č. 1 tejto Zmluvy (ďalej len „Pozáručný autorizovaný servis“) .
+b)
+prevádzkových činnosti, ktorých zoznam a rozsah je uvedený v Prílohe č. 1 tejto Zmluvy (ďalej len
+„Služby prevádzkovej podpory a údržby“).
+c)
+úpravy systémov na podporu riadenia prevádzky IT (ďalej len „Služby úpravy systémov“),
+ktorých zoznam a rozsah je uvedený v Prílohe č. 1 tejto Zmluvy. Úprava systémov na podporu
+riadenia prevádzky IT a súvisiacich SW aplikácií väčšieho rozsahu, pričom každá takáto zmena
+bude zvlášť posudzovaná, schválená a objednaná.
+
+3.3
+
+V rámci služieb Pozáručného autorizovaného servisu podľa čl. 3 bod 3.2 písm. a) tejto Zmluvy sa
+Poskytovateľ zaväzuje Objednávateľovi poskytnúť autorizovanú technickú podporu SW komponentov
+zabezpečujúcich prevádzku IT systémov Objednávateľa v oblasti service management, security
+management, infrastructure management, API management a integračné komponenty, prevádzkovaných
+v priestoroch Objednávateľa, ich následnú diagnostiku, opravu, odstraňovanie porúch a uvedenie
+nefunkčného SW komponentu/modulu do prevádzky, podľa špecifikácií výrobcu konkrétneho SW. Zoznam
+SW komponentov, pre ktoré Objednávateľ požaduje dodanie Pozáručného autorizovaného
+servisu/podpory a autorizované zabezpečenie odstránenia porúch uvedených v Prílohe č. 1 tejto Zmluvy.
+
+3.4
+
+V rámci poskytovania Služieb prevádzkovej podpory a údržby – mesačný paušál podľa čl. 3 bod 3.2 písm.
+b) tejto Zmluvy sa Poskytovateľ zaväzuje Objednávateľovi poskytovať služby najmä v nasledovných
+oblastiach:
+3.4.1 Oblasť správy incident a problem management
+3.4.2 Oblasť systémová podpora a patchovanie
+3.4.3 Oblasť Profylaktika
+Podrobná špecifikácia Služieb prevádzkovej podpory a údržby – mesačný paušál ako aj garantované
+parametre poskytovania týchto činností sú uvedené v časti 1. Popis predmetných oblastí B. SLUŽBY
+PREVÁDZKOVEJ PODPORY A ÚDRŽBY– PAUŠAL MESAČNÝ prílohy č.1 tejto Zmluvy.
+
+3.5
+
+V rámci poskytovania Služieb prevádzkovej podpory a údržby – štvrťročný paušál podľa čl. 3 bod 3.2 bod
+1 písm. b) tejto Zmluvy sa Poskytovateľ zaväzuje Objednávateľovi poskytovať Prevádzkové činnosti najmä
+v nasledovných oblastiach:
+3.5.1 Oblasť implementácie úprav systémov na podporu riadenia prevádzky IT
+3.5.2 Oblasť dátové operácie a opravné zásahy
+3.5.3 Analýzy, konzultácie a školenia
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+4 z 14
+
+Podrobná špecifikácia Služieb prevádzkovej podpory ako aj garantované parametre poskytovania týchto
+činností sú uvedené v časti 1. Popis predmetných oblastí C.SLUŽBY PREVÁDZKOVEJ PODPORY A
+ÚDRŽBY – PAUŠÁL ŠTVRŤROČNÝ prílohy č. 1 tejto Zmluvy.
+3.6
+
+V rámci Služieb úprava systémov na podporu riadenia prevádzky IT podľa čl. 3 bod 3.2 písm. c) tejto
+Zmluvy sa Poskytovateľ zaväzuje Objednávateľovi poskytovať nasledovné služby, ktorých detailná
+špecifikácia a rozsah poskytovaných služieb je uvedený v časti 1. Popis predmetných oblastí D. SLUŽBY
+ÚPRAVY SYSTÉMOV NA PODPORU RIADENIA PREVÁDZKY IT - NAD PAUŠÁL prílohy č. 1 tejto
+Zmluvy.:
+3.6.1. úprava systémov na podporu riadenia prevádzky IT a súvisiacich SW aplikácií väčšieho rozsahu,
+pričom každá takáto zmena bude zvlášť posudzovaná, schválená a objednaná.
+Článok 4
+Miesto plnenia a čas plnenia
+
+4.1
+
+Miestom poskytovania služieb podľa tejto Zmluvy sú zariadenia Objednávateľa, ak ide o služby, ktoré sú
+fyzicky poskytované v priestoroch Objednávateľa (napr. servisný zásah na mieste a pod.). Miestom
+poskytovania služieb podľa tejto Zmluvy je sídlo Poskytovateľa, ak ide o služby, ktoré sú poskytované
+telefonicky, elektronicky, písomne alebo vzdialeným pripojením (vzdialeným prístupom) alebo iné miesto
+vopred písomne oznámené a určené Objednávateľom.
+
+4.2
+
+Poskytovateľ poskytuje Služby v časoch určených pre každý jednotlivý typ Služieb v zmysle čl. 3 bod
+1 tejto Zmluvy, ktoré sú špecifikované v časti 2. Úroveň požadovaných služieb a reakčné lehoty a v časti 4
+Rozsah SLA B. Služby technickej a prevádzkovej podpory – mesačný paušál (bez možnosti prenosu
+nevyčerpaných človekodní) prílohe č. 1 tejto Zmluvy.
+
+4.3
+
+Poskytovateľ môže na písomnú žiadosť Objednávateľa poskytnúť Služby aj mimo času uvedeného v
+predchádzajúcej vete, a jej výkon bude uskutočnený na základe vzájomnej dohody Zmluvných strán.
+Článok 5
+Cena za Služby štandardnej podpory a údržby a platobné podmienky
+
+5.1
+
+Objednávateľ je povinný uhrádzať Poskytovateľovi odmenu za poskytované Služby o výške určenej podľa
+Prílohy č. 2 tejto Zmluvy a príslušnú DPH podľa všeobecne záväzných právnych predpisov platných na
+území Slovenskej republiky (ďalej len „Cena“).
+
+5.2
+
+Cena Služieb je určená podľa rozsahu SW komponentov tvoriacich jednotlivé podporované oblasti
+prevádzky IT systémov v čase podpisu tejto Zmluvy. V prípade, ak dôjde k rozšíreniu resp. zmene
+nasadením nových SW modulov alebo SW modulov s novou alebo rozšírenou funkcionalitou, bude dopad
+na rozsah poskytovania Služieb štandardnej podpory a údržby a ich ceny predmetom vzájomnej dohody
+Zmluvných strán, o čom sa vyhotoví písomný a očíslovaný dodatok k tejto Zmluve.
+
+5.3
+
+Objednávateľ je povinný uhrádzať Poskytovateľovi Cenu za poskytované Služby nasledovne:
+5.3.1 Cena za Služby pozáručného autorizovaného servisu
+5.3.1.1 Zmluvné strany sa dohodli, že Cenu za poskytovanie Pozáručného autorizovaného servisu
+bude Objednávateľ uhrádzať Poskytovateľovi vopred na celý rok (12 mesiacov) vo forme
+ročnej platby vo výške určenej v Prílohe č. 2 tejto Zmluvy, vrátane príslušnej DPH podľa
+všeobecne záväzných právnych predpisov platných na území SR.
+5.3.1.2 Faktúru za služby Pozáručného autorizovaného servisu bude Poskytovateľ oprávnený
+vystaviť a doručiť Objednávateľovi v dvoch (2) výtlačkoch najneskôr do dvoch týždňov odo
+dňa účinnosti tejto Zmluvy.
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+5 z 14
+
+5.3.1.3 Pre vylúčenie pochybností akúkoľvek ďalšiu faktúru za služby Pozáručného autorizovaného
+servisu bude Poskytovateľ oprávnený vystaviť a doručiť Objednávateľovi v dvoch (2)
+výtlačkoch najneskôr do posledného dňa predplateného 12-mesačného obdobia,
+predchádzajúcemu obdobiu, za ktoré má byť uhrádzaná Cena za Pozáručný autorizovaný
+servis.
+5.3.2 Cena za Služby prevádzkovej podpory a údržby – mesačný paušál
+5.3.2.1 Cenu za poskytovanie Služieb prevádzkovej podpory a údržby bude Objednávateľ uhrádzať
+mesačne vo forme mesačnej paušálnej platby vo výške určenej v Prílohe č. 2 tejto Zmluvy
+vrátane príslušnej DPH podľa všeobecne záväzných právnych predpisov platných na území
+SR.
+5.3.2.2 Poskytovateľ je oprávnený fakturovať Cenu za poskytovanie Služieb prevádzkovej podpory
+a údržby vždy k poslednému dňu príslušného kalendárneho mesiaca, v ktorom boli Služby
+prevádzkovej podpory poskytované.
+5.3.3 Služby prevádzkovej podpory a údržby – štvrťročný paušál
+5.3.3.1 Cenu za poskytovanie Služieb prevádzkovej podpory a údržby bude Objednávateľ uhrádzať
+vo forme štvrťročnej paušálnej platby vo výške určenej v Prílohe č. 2 tejto Zmluvy vrátane
+príslušnej DPH podľa všeobecne záväzných právnych predpisov platných na území SR.
+5.3.3.2 Maximálne počty človekodní poskytovania Služieb prevádzkovej podpory a údržby určené
+v Prílohe č. 1 tejto Zmluvy možno pri ich nevyužití v danom štvrťroku použiť na plnenie
+Služieb prevádzkovej podpory a údržby v nasledujúcich štvrťrokoch a to maximálne do
+konca daného kalendárneho roka. Pri ich nevyužití v danom kalendárnom roku sa tieto
+počty človekodní do ďalšieho roka nepresúvajú.
+5.3.3.3 Poskytovateľ je oprávnený fakturovať Cenu za poskytovanie Služieb prevádzkovej podpory
+a údržby vždy k poslednému dňu príslušného kalendárneho štvrťroka, v ktorom boli Služby
+prevádzkovej podpory a údržby poskytované a prevzaté oprávnenou osobou
+Objednávateľa.
+5.3.4 Cena za Služby úpravy systémov
+5.3.4.1 Cena za poskytovanie Služieb úpravy systémov bude určená na základe samostatnej
+požiadavky Objednávateľa, ktorá bude zvlášť posúdená a nacenená. Na určenie ceny bude
+použitá jednotková sadzba ceny za 1 človekodeň, tak ako je uvedené v Prílohe č. 2 tejto
+Zmluvy.
+5.3.4.2 Poskytovateľ je oprávnený fakturovať Cenu za poskytovanie Služieb úpravy systémov iba
+na základe samostatnej objednávky a po riadnom prevzatí a akceptácií zrealizovaných
+služieb zodpovednou osobou Objednávateľa.
+5.3.4.3 Objednávateľ bude uhrádzať vystavenú a doručenú faktúru vrátane príslušnej DPH, podľa
+všeobecne záväzných právnych predpisov platných na území SR.
+5.3.5 Spoločné ustanovenia o platobných podmienkach
+5.3.5.1 Cena za Služby je stanovená podľa § 3 zákona Národnej rady Slovenskej republiky č.
+18/1996 Z. z. o cenách v znení neskorších predpisov a vyhlášky Ministerstva financií
+Slovenskej republiky č. 87/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej
+republiky č. 18/1996 Z. z. o cenách. Zmluvná cena je vyjadrená v mene euro.
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+6 z 14
+
+5.3.5.2 Cena za Služby zahŕňa všetky náklady Poskytovateľa potrebné k poskytnutiu dohodnutých
+Služieb podľa tejto Zmluvy do miesta dodania, vrátane dopravy do miesta dodania.
+5.3.5.3 Zmluvné strany sa dohodli na spôsobe úhrady vystavenej a doručenej faktúry výhradne
+prostredníctvom bezhotovostného platobného styku, ktorý sa bude realizovať výhradne
+prevodným príkazom.
+5.3.5.4 Zmluvné strany sa dohodli, že platba bude realizovaná na základe faktúry, ktorú
+Poskytovateľ vystaví a doručí Objednávateľovi po riadnom prevzatí poskytnutých služieb
+podľa tejto Zmluvy.. Prílohou faktúry s výnimkou faktúr vystavovaných v súlade s bodom
+5.3.1 a 5.3.2 tejto Zmluvy budú podpísané Pracovné výkazy o vykonaných službách, resp.
+iné potvrdenia o akceptovaní Služieb podľa tejto Zmluvy.
+5.3.5.5 Splatnosť faktúry, ktorá musí mať náležitosti daňového dokladu je tridsať(30) dní a začne
+plynúť po jej doručení Objednávateľovi. Faktúra sa považuje za zaplatenú dňom odpísania
+finančných prostriedkov vrátane DPH z účtu Objednávateľa uvedený v záhlaví tejto Zmluvy
+v časti Objednávateľ na účet Poskytovateľa uvedený v záhlaví tejto Zmluvy v časti
+Poskytovateľ.
+5.3.5.6 Faktúra musí obsahovať všetky náležitosti daňového dokladu podľa zákona č. 222/2004 Z.
+z. o dani z pridanej hodnoty v znení neskorších predpisov. Za správne vyhotovenie faktúry
+zodpovedá v plnom rozsahu Poskytovateľ.
+5.3.5.7 V prípade, že faktúra nebude obsahovať prílohy podľa tejto Zmluvy, všetky náležitosti
+daňového dokladu alebo bude obsahovať iné zrejmé nesprávnosti, vady v písaní alebo
+počítaní, Objednávateľ má právo vrátiť ju Poskytovateľovi v lehote splatnosti na doplnenie
+alebo prepracovanie s uvedením nedostatkov, ktoré sa majú odstrániť. V takomto prípade
+sa ukončí pôvodná lehota splatnosti a nová 30-dňová lehota splatnosti začne plynúť
+doručením doplnenej, opravenej, resp. novej faktúry Objednávateľovi.
+Článok 6
+Postup pri riešení Problémov a Požiadaviek
+6.1
+
+Oprávnená osoba resp. poverený zamestnanec Objednávateľa nahlási Problém/Požiadavku:
+-
+
+6.2
+
+v systéme HelpDesk na adrese www.soimco.sk/helpdesk alebo
+telefonicky prostredníctvom call centra na t. č.
+e-mailom na adresu:
+Uskutočniť takéto hlásenie, t.j. Problém/Požiadavku môže výlučne Oprávnená osoba, resp. ňou
+poverený zamestnanec Objednávateľa v súlade s touto Zmluvou. V prípade hlásenia e-mailom,
+alebo prostredníctvom call centra Poskytovateľ takéto hlásenie zaeviduje v systéme HelpDesk.
+Tento informačný systém vygeneruje identifikačné číslo Požiadavky/Problému. Akákoľvek
+budúca komunikácia medzi Poskytovateľom a Objednávateľom sa uskutočňuje použitím
+priradeného identifikačného čísla Požiadavky/Problému.
+
+Službukonajúci špecialista Poskytovateľa preverí Požiadavku/Problém a začne v Reakčnej dobe podľa
+Prílohy č. 1, resp. v lehotách vyplývajúcich z tejto Zmluvy ich prešetrenie. Podľa potreby kontaktuje
+Oprávnenú osobu Objednávateľa. Komunikácia pracovníka Poskytovateľa prebieha priamo s Oprávnenou
+osobou Objednávateľa. Službukonajúci špecialista Poskytovateľa oznámi výsledok prešetrenia
+a odporúčané riešenie Oprávnenej osobe Objednávateľa a na základe výsledkov prešetrenia bude
+pokračovať riešenie problému, tak aby Poskytovateľ danú Požiadavku alebo Problém vyriešil v Dobe
+neutralizácie problému podľa jednotlivých typov poskytovaných služieb, pokiaľ sa na danú
+Požiadavku/Problém vzťahuje Doba neutralizácie problému.
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+7 z 14
+
+6.3
+
+Problém bude riešený na základe priority určenej dohodou Oprávnenej osoby Objednávateľa a
+Poskytovateľa. Oprávnená osoba Objednávateľa má právo zmeniť poradie priorít riešenia otvorených
+problémov/požiadaviek po dohode s oprávneným zástupcom zo strany Poskytovateľa dokumentovateľným
+spôsobom. Nahlásené problémy riešia oprávnené osoby Poskytovateľa a Oprávnená osoba
+Objednávateľa priamou komunikáciou.
+
+6.4
+
+Po vykonaní Služieb štandardnej podpory a údržby (aj čiastkových) zamestnancom alebo povereným
+pracovníkom Poskytovateľa v priestoroch Objednávateľa alebo inom dohodnutom mieste potvrdí
+Oprávnená osoba Objednávateľa ich vykonanie vo formulári o poskytnutí služieb (Príloha č. 3), z ktorého
+si ponecháva kópiu alebo potvrdí poskytnutie služieb v dohodnutom systéme HelpDesk.
+
+6.5
+
+Všetky vyriešené Požiadavky resp. Problémy Objednávateľa musia byť potvrdené písomne vo formulári
+o nahlásení a vyriešení problému/ požiadavky (Príloha č. 4), ktorý Poskytovateľ predloží Objednávateľovi
+alebo ich vyriešenie musí byť zaevidované v systéme HelpDesk. Splnenie každej Požiadavky/Problému
+bude potvrdené v rozsahu ich riešenia Oprávnenou osobou Objednávateľa. Objednávateľ je povinný
+potvrdiť vyriešenie každej Požiadavky/Problému najneskôr do troch (3) pracovných dní odo dňa ich
+vyriešenia. Plnohodnotnou alternatívou akceptácie riešenia je akceptovanie riešenia požiadavky/problému
+priamo v systéme HelpDesk. V prípade, ak Objednávateľ riešenie požiadavky/problému neakceptuje,
+v rovnakej lehote je povinný uviesť svoje pripomienky a výhrady uvedie do Prílohy č. 3 tejto Zmluvy
+(akceptačného protokolu), ktorú zašle Poskytovateľovi alebo priamo do systému HelpDesk. Ak
+Objednávateľ bezdôvodne neakceptuje vyriešenie Požiadavky/Problému a ani nevznesie pripomienky
+k riešeniu Požiadavky/Problému ani do piatich (5) pracovných dní od ich vykonania, považuje sa riešenie
+požiadavky/problému za akceptované. Ustanovením tohto bodu resp. článku nie je dotknutá
+zodpovednosť Poskytovateľa za vady poskytnutých služieb resp. ich časti, ktoré vyjdú najavo po
+akceptácii riešenia Požiadavky/Problému a to aj v prípade, ak tieto vady existovali už v čase akceptácie.
+Článok 7
+Uzatváranie Požiadaviek a Problémov
+
+7.1
+
+Obidve strany považujú Problém v zmysle tejto Zmluvy za uzavretý za týchto okolností:
+7.1.1 ak Poskytovateľ poskytne Objednávateľovi riešenie, ktoré neutralizuje nahlásený Problém a ktoré
+je konečné, čo Objednávateľ potvrdí písomne (Príloha č. 3) alebo potvrdí akceptáciu v systéme
+HelpDesk, resp. v zmysle bodu 6.5 tejto Zmluvy.
+7.1.2 ak Poskytoval na základe prešetrenia zistil a Objednávateľovi oznámil, že
+a)
+problém vznikol nesprávnym používaním zo strany Objednávateľa,
+b)
+problém vznikol nesprávnou alebo neautorizovanou modifikáciou HW infraštruktúry, HW
+komponentov, SW infraštruktúry alebo SW komponentu vykonanou Objednávateľom,
+c)
+problém vznikol znehodnotením podporovaného systému alebo jeho časti, vrátane dát,
+spôsobeným napadnutím zo systému z vonku,
+d)
+problém vznikol nedodržaním odporúčaných postupov Objednávateľom, uvedených
+v prevádzkovej dokumentácií IS,
+e)
+riešenie problému nie je predmetom tejto Zmluvy.
+Článok 8
+Práva a povinnosti Poskytovateľa
+
+8.1
+
+Poskytovateľ zodpovedá Objednávateľovi za to, že Služby podľa tejto Zmluvy bude poskytovať v súlade
+s podmienkami dohodnutými v tejto Zmluve a jej Prílohách. Zároveň je povinný bezodkladne informovať
+Objednávateľa o každom prípadnom zdržaní, či iných skutočnostiach, ktoré by mohli ohroziť včasné a
+riadne poskytnutie Služieb Objednávateľovi.
+
+8.2
+
+Poskytovateľ sa zaväzuje, že každá Služba resp. akákoľvek ich časť bude dodaná spôsobom, v
+termínoch, podľa špecifikácie v tejto Zmluve a jej Prílohách, s primeranou dôslednosťou a obvyklou
+odbornou starostlivosťou.
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+8 z 14
+
+8.3
+
+Poskytovateľ pre potreby opráv jednotlivých SW komponentov/modulov použije postup, ktorý je pre tento
+účel odporučený, resp. certifikovaný výrobcom predmetného SW.
+
+8.4
+
+Poskytovateľ má právo prerušiť poskytovanie služieb podľa tejto Zmluvy v prípadoch neplnenia záväzkov
+Objednávateľa vyplývajúcich mu z tejto Zmluvy, a to minimálne po dobu pokiaľ je Objednávateľ v
+omeškaní so splnením si svojej povinnosti v zmysle tejto Zmluvy. Poskytovateľ nie je viazaný termínmi
+prijatými pre poskytovanie Služieb v prípade, ak Objednávateľ nevytvorí ani po písomnom upozornení
+Poskytovateľa podmienky potrebné na poskytovane Služieb v zmysle tejto Zmluvy. V takom prípade
+nedodržanie termínu (najmä Reakčnej doby a Doby neutralizácie problému) nie je považované za
+omeškanie Poskytovateľa s poskytovaním Služieb.
+
+8.5
+
+Poskytovateľ poskytuje informácie všetkým Oprávneným osobám Objednávateľa prostredníctvom on-line
+prístupu do informačného systému – HelpDesk, t.j. Poskytovateľ poskytne Oprávneným osobám
+Objednávateľa prístup do systému HelpDesk, v ktorom budú zaznamenané informácie určené pre
+Oprávnené osoby Objednávateľa.
+
+8.6
+
+Poskytovateľ je povinný predkladať Objednávateľovi za poskytnuté služby v rámci článku 3 bod 3.5 tejto
+Zmluvy štvrťročne „Pracovný výkaz o vykonaných službách“ podľa Prílohy č. 6 v termíne do piateho
+pracovného dňa nasledujúceho kalendárneho mesiaca.
+
+8.7
+
+Poskytovateľ sa zaväzuje, že v rámci riešenia Požiadaviek a Problémov nebudú vyvinuté alebo upravené
+SW komponenty obsahovať žiadnu nezdokumentovanú funkcionalitu nepožadovanú Objednávateľom,
+ktorá nie je potrebná pre zabezpečenie funkčnosti SW komponentov (tzv. back-doors).
+
+8.8
+
+Poskytovateľ je oprávnený zadať plnenie podľa tejto Zmluvy alebo jeho časť ďalším čiastkovým
+poskytovateľom (ďalej len „subdodávateľ“), a to iba na základe predchádzajúceho súhlasu Objednávateľa,
+ktorý takýto bez závažného a opodstatneného dôvodu neodoprie. V takomto prípade Poskytovateľ
+zodpovedá rovnako, akoby Zmluvu plnil sám.
+
+8.9
+
+Ak Poskytovateľ použije na poskytnutie služieb podľa tejto Zmluvy subdodávateľov, o ktorých má
+vedomosť v čase podpisu tejto Zmluvy, tvorí ich zoznam Prílohu č. 8 tejto Zmluvy. Poskytovateľ je
+oprávnený zmeniť subdodávateľa iba s predchádzajúcim súhlasom Objednávateľa. Poskytovateľ je
+povinný Objednávateľovi oznámiť akúkoľvek zmenu údajov u subdodávateľov, uvedených v Prílohe č. 8
+tejto Zmluvy, a to bezodkladne.
+
+8.10 Poskytovateľ zodpovedá za odbornú starostlivosť pri výbere subdodávateľa, ako aj za služby vykonané a
+zabezpečené na základe zmluvy o subdodávke.
+8.11 Poskytovateľ je povinný zabezpečiť, aby mal splnené povinnosti ohľadom zápisu do registra partnerov
+verejného sektora vo vzťahu k subdodávateľom Poskytovateľa v zmysle zákona č. 315/2016 Z. z. o
+registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov (ďalej len „zákon č. 315/2016 Z. z.“).
+8.12 Poskytovateľ vyhlasuje, že v čase uzatvorenia tejto Zmluvy má splnené povinnosti, ktoré mu vyplývajú v
+zmysle zákona č. 315/2016 Z. z.
+8.13 V prípade zmeny subdodávateľa je poskytovateľ povinný najneskôr do piatich (5) pracovných dní odo dňa
+zmeny subdodávateľa predložiť objednávateľovi informácie o novom subdodávateľovi a predmete
+subdodávok, pričom pri výbere subdodávateľa musí poskytovateľ postupovať tak, aby vynaložené náklady
+na zabezpečenie plnenia na základe zmluvy o subdodávke boli primerané jeho kvalite a cene.
+8.14 Subdodávateľ alebo subdodávateľ podľa osobitného predpisu, ktorý podľa § 11 ods. 1 zákona
+č. 343/2015 Z. z. má povinnosť zapisovať sa do registra partnerov verejného sektora, musí byť zapísaný v
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+9 z 14
+
+registri partnerov verejného sektora. Povinnosť zápisu do registra partnerov verejného sektora upravuje
+osobitný predpis - zákon č. 315/2016 Z. z.
+8.15 Poskytovateľ zodpovedá za plnenie zmluvy o subdodávke subdodávateľom tak, ako keby plnenie
+realizované na základe takejto zmluvy realizoval sám. Poskytovateľ zodpovedá za odbornú starostlivosť
+pri výberu subdodávateľa ako aj za výsledok činnosti/plnenia vykonanej/vykonaného na základe zmluvy
+o subdodávke.
+8.16 Ak sa budú na strane Poskytovateľa ako Zmluvnej strany podieľať viaceré subjekty, práva z tejto Zmluvy
+voči Objednávateľovi môže uplatňovať výlučne Vedúci Poskytovateľ [●], IČO: [●]. Vedúci Poskytovateľ
+podľa predchádzajúcej vety je oprávnený vykonávať fakturáciu ceny v mene Poskytovateľov, a tiež je za
+Poskytovateľov výlučne tento oprávnený vykonávať iné práva voči Objednávateľovi vyplývajúce z tejto
+Zmluvy alebo z právnych predpisov, pokiaľ Zmluva (vrátane príloh) v konkrétnom prípade neurčí inak.
+Subjekty na strane Poskytovateľa si osobitnou písomnou dohodou určia a vysporiadajú vzájomné záväzky
+a oprávnenia vyplývajúce im z tejto Zmluvy.
+8.17 V prípade ak Poskytovateľ opakovane porušuje svoje povinnosti v zmysle tejto Zmluvy, alebo ak
+Poskytovateľ závažnejším spôsobom poruší povinnosti podľa tejto Zmluvy, je Objednávateľ oprávnený
+vyzvať Poskytovateľa na preukázanie splnenia podmienok účasti kladených na konkrétnych expertov
+podľa § 34 ods. 1 písm. g) zákona č. 343/2015 Z. z. uvedené v oznámení o vyhlásení verejného
+obstarávania a v súťažných podkladoch.
+8.18 Poskytovateľ je povinný poskytovať služby osobami uvedenými v Prílohe č. 9 - Menný zoznam expertov.
+V prípade, že Poskytovateľ bude chcieť zabezpečovať poskytovanie služieb inými osobami, musia tieto
+osoby spĺňať minimálne podmienky účasti podľa § 34. ods. 1 písm. g) zákona, ktoré sú uvedené v Prílohe
+č. 1 Opise predmetu zákazky tejto Zmluvy, čo Poskytovateľ preukáže objednávateľovi pred plánovanou
+zmenou takejto osoby.
+Článok 9
+Práva a povinnosti Objednávateľa
+9.1
+
+Objednávateľ je povinný nahlasovať Poskytovateľovi všetky Požiadavky/Problémy postupom podľa tejto
+Zmluvy. Objednávateľ je povinný aktívne spolupracovať s Poskytovateľom na riešení Problému
+a poskytovať mu všetku potrebnú a požadovanú súčinnosť.
+
+9.2
+
+Objednávateľ je zodpovedný za zabezpečenie:
+a) primeraného pracovného prostredia,
+b) prístupu do potrebných priestorov a použitia všetkých zariadení Objednávateľa, ktoré Poskytovateľ
+potrebuje na účely poskytnutia Služby štandardného servisu a údržby a ktoré má Objednávateľ k
+dispozícii,
+c) poskytnutie prostriedkov diaľkového prístupu pre servisné zásahy v súlade so všeobecne záväznými
+právnymi predpismi platnými na území SR a internými predpismi Objednávateľa.
+
+9.3
+
+Objednávateľ je povinný poskytovať resp. zabezpečiť poskytovanie technických informácií a dokumentov,
+ktoré vlastní a týkajú sa požiadavky na službu podľa tejto Zmluvy a požaduje ich Poskytovateľ.
+
+9.4
+
+Objednávateľ je povinný v lehote piatich (5) pracovných dní podpísať „Pracovný výkaz o vykonaných
+službách“ podľa Prílohy č. 6 doručený Poskytovateľom alebo doručiť Poskytovateľovi písomné
+zdôvodnenie odmietnutia podpísať uvedený výkaz s konkrétnymi výhradami a prípadne navrhnúť spôsob
+ich nápravy. V prípade, ak si Objednávateľ nesplní povinnosť uvedenú v predchádzajúcej vete, na
+uvedený výkaz sa hľadí, ako keby bol podpísaný Objednávateľom.
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+10 z 14
+
+Článok 10
+Sankcie
+10.1 Ak je Poskytovateľ v omeškaní s riadnym a včasným poskytnutím akýchkoľvek Služieb podľa tejto
+Zmluvy, je Objednávateľ oprávnený požadovať za každý aj začatý deň omeškania od Poskytovateľa:
+10.1.1 zmluvnú pokutu vo výške 0,05% z ceny mesačného paušálneho poplatku bez DPH, ak ide o služby
+hradené paušálnym mesačným poplatkom, maximálne však do výšky mesačného paušálneho
+poplatku ;
+10.1.2 zmluvnú pokutu 0,05% z Ceny Služieb, ak ide o služby hradené štvrťročným alebo ročným
+paušálnym poplatkom bez DPH, maximálne však do výšky 10% z ceny Služieb hradených
+štvrťročným alebo ročným paušálnym poplatkom, a to za každý aj začatý deň omeškania
+10.2 V prípade omeškania Objednávateľa s úhradou splatnej faktúry, Poskytovateľ je oprávnený uplatniť si voči
+Objednávateľovi zaplatenie úrokov z omeškania v zákonom stanovenej výške z dlžnej sumy za každý, aj
+začatý deň omeškania.
+
+Článok 11
+Zodpovednosť za vady poskytnutých služieb a zodpovednosť za škodu
+11.1 Poskytovateľ zodpovedá za to, že Služby budú poskytované v najvyššej dostupnej kvalite tak, aby spĺňali
+podmienky dohodnuté v tejto Zmluve alebo uvedené v požiadavke, hlásení alebo zadaní Objednávateľa
+v zmysle tejto Zmluvy. Služby majú vady v prípade, ak nespĺňajú podmienku uvedenú v predchádzajúcej
+vete tohto bodu Zmluvy.
+11.2 Poskytovateľ zodpovedá za vady Služieb, najmä ak predmetné služby boli poskytnuté odlišne od
+dohodnutých parametrov tejto Zmluvy a podmienok uvedených v tejto Zmluve. Pri výskyte vady
+poskytnutých Služieb Objednávateľ na ňu upozorní Poskytovateľa a Poskytovateľ ju na vlastné náklady
+a v termíne stanovenom Zmluvou, inak v termíne vopred dohodnutom s Objednávateľom odstráni. Ak
+Zmluvné strany nedohodnú termín odstránenia vád poskytnutých služieb, Objednávateľ je oprávnený
+stanoviť primeraný termín odstránenia vád s ohľadom na závažnosť vzniknutej vady služieb.
+11.3 V prípade, ak Poskytovateľ neodstráni akúkoľvek vadu v súlade s ustanoveniami tejto Zmluvy riadne a
+včas,
+Objednávateľ je oprávnený:
+a) odstrániť vady svojpomocne respektíve prostredníctvom tretej osoby, pričom náklady na takéto
+odstránenie budú uplatnene voči Poskytovateľovi, ktorý sa ich zaväzuje bez zbytočného odkladu
+uhradiť; alebo
+b) požadovať primeranú zľavu z ceny za poskytnuté služby; alebo
+c) odstúpiť od zmluvy za podmienok ďalej uvedených v tejto Zmluve alebo
+11.4 Poskytovateľ nezodpovedá za vady poskytovaných služieb podľa tejto Zmluvy, ktoré boli spôsobené
+použitím podkladov alebo pokynov prevzatých od Objednávateľa a/alebo iných subjektov, pokiaľ
+Poskytovateľ ani pri vynaložení všetkej odbornej starostlivosti nemohol zistiť ich nevhodnosť alebo na ich
+nevhodnosť upozornil Objednávateľa, ktorý však na ich použití výslovne trval.
+11.5 Poskytovateľ nezodpovedá Objednávateľovi za vady poskytovaných služieb podľa tejto Zmluvy v prípade,
+ak tieto boli preukázateľne spôsobené zavineným konaním Objednávateľa a/alebo tretích osôb
+pôsobiacich na strane Objednávateľa
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+11 z 14
+
+11.6 Každá zo Zmluvných strán nesie zodpovednosť za spôsobenú škodu v súlade s príslušnými
+ustanoveniami Obchodného zákonníka a tejto Zmluvy. Zmluvné strany sa zaväzujú k vyvinutiu
+maximálneho úsilia k predchádzaniu škôd a k minimalizácii vzniknutých škôd.
+11.7 V prípade, ak Poskytovateľ spôsobí Objednávateľovi porušením svojich povinnosti vyplývajúcich z tejto
+Zmluvy akúkoľvek škodu, zodpovednosť za škodu a povinnosť na náhradu takto spôsobenej škody sa
+bude riadiť a spravovať ustanoveniami § 373 a nasl. Obchodného zákonníka, pričom Poskytovateľ bude
+povinný nahradiť Objednávateľovi skutočnú škodu.
+Článok 12
+Vlastnícke a autorské práva
+12.1 Pokiaľ na základe a na účely plnenia tejto Zmluvy Poskytovateľ vytvorí alebo zabezpečí pre
+Objednávateľa vytvorenie autorského diela v zmysle ustanovení zákona č. 185/2015 Z.z. Autorský zákon
+v znení neskorších predpisov (ďalej len „zákon č. 185/2015 Z. z.“) udeľuje Poskytovateľ Objednávateľovi
+výhradný, neprenosný, teritoriálne a časovo neobmedzený súhlas (licenciu) na použitie takého autorského
+diela na účely a v podobe, v akej bolo vytvorené a poskytnuté Poskytovateľovi počas celej doby trvania
+ochrany autorského diela na základe zákona.
+12.2 Objednávateľ je oprávnený autorské dielo majúce povahu počítačového programu meniť a upravovať za
+podmienok uvedených v § 87 až § 89 zákona č. 185/2015 Z. z. Udelenie takéhoto súhlasu na použitie
+autorského diela je bezodplatné.
+12.3 Pre softvér majúci povahu cudzieho autorského diela bežne dostupného na trhu a špecificky
+nevytvoreného v rámci poskytovania služieb budú platiť obvyklé licenčné podmienky stanovené
+príslušným nositeľom autorských majetkových a/alebo distribučných práv s ktorými je takýto SW šírený.
+Článok 13
+Ochrana osobných údajov
+13.1 Zmluvne strany berú na vedomie, že poskytovaním služieb Poskytovateľom podľa tejto zmluvy môže dôjsť
+k spracúvaniu osobných údajov dotknutých osôb.
+13.2 Objednávateľ vyhlasuje, že osobne údaje spracúvane v rámci SW komponentov a spôsob ich získania
+Objednávateľom neporušuje práva tretích osôb, ako ani žiadne z ustanovení zákona č. 18/2018 Z. z. o
+ochrane osobných údajov a o zmene a doplnení niektorých zákonov (ďalej len „zákon č. 18/2018 Z.z.“)
+13.3 Poskytovateľovi v súvislosti so spracúvaním osobných údajov podľa tohto článku vznikajú práva
+a povinnosti upravene zákonom č. 18/2018 Z. z., ktorý je pri spracúvaní osobných údajov povinný
+dodržiavať.
+13.4 Poskytovateľ je povinný chrániť osobne údaje pred náhodným alebo neoprávneným poškodením a
+zničením, náhodnou stratou, zmenou, nedovoleným prístupom a sprístupnením, ako aj pred akýmikoľvek
+inými formami spracúvania, ktoré sú v rozpore so všeobecne záväznými právnymi predpismi platnými na
+území SR. Po dosiahnutí účelu spracúvania je Poskytovateľ povinný osobne údaje zlikvidovať a/alebo
+odovzdať Objednávateľovi, ak všeobecne záväzné právne predpisy platné na území SR neustanovujú
+inak.
+13.5 Poskytovateľ je povinný zachovávať mlčanlivosť o osobných údajoch, s ktorými príde do styku v súvislosti
+s plnením tejto Zmluvy. Poskytovateľ je povinný zabezpečiť, aby každý zamestnanec a poverený
+pracovník Poskytovateľa, ktorý príde do styku s osobnými údajmi, zachoval o nich mlčanlivosť a
+nevyužíval ich na iný účel, ako je účel plnenia podľa tejto Zmluvy.
+13.6 Poskytovateľ nie je oprávnený bez písomného súhlasu Objednávateľa akýmkoľvek spôsobom
+sprístupňovať, zverejňovať, predávať, prevádzať alebo iným spôsobom, ako je dohodnuté v Zmluve,
+nakladať s osobnými údajmi poskytnutými Objednávateľom, podľa tohto článku Zmluvy.
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+12 z 14
+
+Článok 14
+Trvanie a skončenie Zmluvy
+14.1 Táto Zmluva sa uzatvára na dobu 36 mesiacov odo dňa účinnosti tejto Zmluvy.
+14.2 Túto Zmluvu je možné skončiť:
+14.2.1 písomnou dohodou,
+14.2.2 písomným odstúpením,
+14.2.3 písomnou výpoveďou
+14.3 Objednávateľ je oprávnený písomne odstúpiť od tejto Zmluvy v prípade podstatného porušenia
+Zmluvy zo strany Poskytovateľa, ktorým sa rozumie prípad, ak:
+a) Poskytovateľ koná v rozpore so Zmluvou, všeobecne záväznými právnymi predpismi platnými na
+území SR a na písomnú výzvu Objednávateľa toto konanie a jeho následky v určenej primeranej
+lehote neodstráni.
+14.4 Objednávateľ je oprávnený písomne odstúpiť od tejto Zmluvy aj v prípade, ak:
+a)
+proti Poskytovateľovi začalo konkurzné konanie alebo reštrukturalizácia,
+b)
+Poskytovateľ vstúpil do likvidácie,
+c)
+Poskytovateľ nebol v čase jej uzavretia zapísaný v registri partnerov verejného sektora alebo bol z
+tohto registra vymazaný,
+d)
+v čase jej uzavretia existoval dôvod na vylúčenie predávajúceho pre nesplnenie podmienky účasti
+podľa § 32 ods. 1 písm. a) Zákona o verejnom obstarávaní,
+e)
+došlo k splneniu zákonných dôvodov na odstúpenie od Dohody (najmä § 19 zákon č. 343/2015 Z.
+z.).
+14.5 Poskytovateľ je oprávnený písomne odstúpiť od tejto Zmluvy v prípade podstatného porušenia Zmluvy
+zo strany Objednávateľa, ktorým sa rozumie najmä prípad, ak je Objednávateľ v omeškaní s
+uhradením splatnej faktúry o viac ako šesťdesiat (60) dní.
+14.6 Odstúpenie od Zmluvy musí mať písomnú formu, musí sa v ňom uviesť dôvod odstúpenia a musí byť
+doručené druhej Zmluvnej strane v súlade so Zmluvou. Odstúpenie nadobúda účinnosť dňom jeho
+doručenia druhej zmluvnej strane.
+14.7 Túto Zmluvu môže každá zo Zmluvných strán písomne vypovedať aj bez udania dôvodu s trojmesačnou
+(3) výpovednou lehotou. Výpovedná lehota začína plynúť prvým dňom mesiaca nasledujúceho po mesiaci,
+v ktorom bola písomná výpoveď doručená druhej zmluvnej strane.
+14.8 Odstúpenie od Zmluvy sa nedotýka právnych vzťahov vzniknutých do okamihu odstúpenia od Zmluvy. Pri
+odstúpení od Zmluvy Zmluvné strany nebudú povinné vrátiť plnenia poskytnuté im pred odstúpením od
+Zmluvy druhou Zmluvnou stranou a nebudú oprávnené žiadať vrátenie plnení poskytnutých pred
+odstúpením od Zmluvy druhej zmluvnej strane. Nároky Poskytovateľa na zaplatenie ceny za Služby
+poskytnuté Objednávateľovi pred odstúpením nebudú odstúpením od Zmluvy dotknuté a Objednávateľ je
+povinný ich uhradiť.
+Článok 15
+Záverečné ustanovenia
+15.1 Táto Zmluva nadobúda platnosť dňom jej podpisu a účinnosť dňom nasledujúcim po dni zverejnenia
+v Centrálnom registri zmlúv, ktorý vedie Úrad vlády SR.
+15.2 Táto Zmluva je povinne zverejňovanou zmluvou v zmysle § 5a zákona č. 211/2000 Z. z. o slobodnom
+prístupe k informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení
+neskorších predpisov. Zmluvné strany berú na vedomie a súhlasia, že táto Zmluva vrátane všetkých jej
+súčastí a príloh bude zverejnená v Centrálnom registri zmlúv. Zverejnenie Zmluvy sa nepovažuje za
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+13 z 14
+
+porušenie ani ohrozenie obchodného tajomstva a informácie označené v tejto Zmluve ako dôverné
+v zmysle § 271 Obchodného zákonníka sa nepovažujú za dôverné.
+15.3 Všetky zmeny tejto Zmluvy možno vykonať výlučne dohodou zmluvných strán, vo forme očíslovaných a
+písomných dodatkov k tejto Zmluve.
+15.4 Práva a povinnosti Zmluvných strán, ktoré nie sú výslovne upravené v tejto Zmluve, sa riadia príslušnými
+ustanoveniami Obchodného zákonníka a ostatných všeobecne záväzných právnych predpisov platných
+na území Slovenskej republiky.
+15.5 Táto Zmluva je vyhotovená v piatich (5 rovnopisoch s platnosťou originálu v slovenskom jazyku, z ktorých
+Objednávateľ obdrží tri (3) rovnopisy a Poskytovateľ obdrží dva (2) rovnopisy.
+15.6 Neoddeliteľnou súčasťou tejto Zmluvy sú nasledujúce prílohy:
+a) Príloha č. 1: Opis predmetu zákazky,
+b) Príloha č. 2: Štruktúrovaný rozpočet
+c) Príloha č. 3: Formulár o poskytnutí služieb,
+d) Príloha č. 4: Formulár o nahlásení a vyriešení problému,
+e) Príloha č. 5: Systém HelpDesk,
+f) Príloha č. 6: Pracovný výkaz o vykonaných službách,
+g) Príloha č. 7: Oprávnené osoby Zmluvných strán,
+h) Príloha č. 8: Zoznam subdodávateľov.
+i) Príloha č. 9: Menný zoznam expertov
+15.7 Zmluvné strany vyhlasujú, že si túto Zmluvu prečítali, jej obsahu porozumeli a na znak toho, že obsah tejto
+Zmluvy zodpovedá ich skutočnej a slobodnej vôli, ju podpisujú.
+Za Objednávateľa:
+V Bratislave, dňa..............................
+
+.......................................................................
+Ing. Ondrej Varačka
+generálny tajomník služobného úradu MV SR
+
+Za Poskytovateľa:
+V Bratislave dňa..............................
+
+...................................................
+Ing. Richard Beňo
+predseda predstavenstva
+
+Zmluva o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+14 z 14
+
+Príloha č. 1
+
+OPIS PREDMETU ZÁKAZKY
+
+Predmetom zákazky je poskytovanie pozáručného autorizovaného servisu, služby technickej podpory, údržby a
+prevádzkových činností pre softvérové komponenty zabezpečujúce prevádzku IT systémov verejného obstarávateľa
+v oblasti service management, security management, infrastructure management, API management a integračné
+komponenty prevádzkovaných systémov verejného obstarávateľa. Požadovaná dĺžka poskytovania služieb je 36
+mesiacov.
+Verejný obstarávateľ zabezpečuje podporu prevádzky IT prostredníctvom viacerých SW aplikácií CA Technologies.
+Na zabezpečenie ich bezproblémového chodu je potrebné obstarať služby podpory a údržby, prostredníctvom
+ktorých sa zabezpečí vysoká úroveň systémov prevádzky IT, ich spoľahlivosť a tiež aktuálnosť. Cieľom je
+dosiahnuť vyššiu spoľahlivosť, bezpečnosť a kvalitu implementovaných SW aplikácií CA Technologies, ale aj trvalé
+zvyšovanie efektivity investícií vkladaných do predmetných aplikácií.
+Popis informačných systémov a súvisiacich softvérových komponentov, na ktoré sa bude podpora vzťahovať :
+Podpora a údržba bude poskytovateľom poskytovaná pre softvérové aplikácie výrobcu CA Technologies vo
+vlastníctve verejného obstarávateľa v oblastiach:
+ Service Management,
+ Infrastructure Management
+ Security Management.
+ API Management
+ Príslušné intregračné komponenty
+Podpora sa bude vzťahovať na príslušné produkčné aj testovacie prostredia verejného obstarávateľa, na ktorých sú
+prevádzkované IS a ktorých prevádzka je podporovaná SW komponentami CA Technologies.
+
+Príloha č. 1 k Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+1.
+
+Popis predmetných oblastí:
+
+OBLASŤ SERVICE MANAGEMET
+Riadenie a poskytovanie služieb ICT (Informačno - komunikačných technológií). Service Management sa zaoberá
+celým životným cyklom služby, stratégiu, návrh, prechod služby do prevádzky, riadenie prevádzky služieb
+a zvyšovanie kvality služieb. Poskytuje riešenia v oblasti riadenia procesov podpory ICT služieb, podpory stratégie,
+plánovania a finančného riadenia ICT služieb.
+Centrálnym miestom poskytovania takýchto služieb je kontaktné centrum ServiceDesk.
+Uvedenú oblasť pokrývajú nasledovné aplikácie CA Technologies vo vlastníctve verejného obstarávateľa:
+CA Service Desk Manager
+Ďalšou oblasťou, ktorá je zaradená pod Service management je správa služieb, projektov, produktov, ľudských
+zdrojov a financií.
+Uvedenú oblasť pokrývajú nasledovné aplikácie CA Technologies vo vlastníctve verejného obstarávateľa:
+CA Clarity PPM
+Poskytuje v reálnom čase podrobný prehľad o investíciách a prostriedkoch organizácie. Podporuje procesy
+v oblasti správy IT, vývoja nových produktov, správy rizík, kontrolných mechanizmov a správy
+celopodnikových projektov. Zahŕňa v sebe: riadenie portfólia služieb, projektový manažment, idea
+manažment , requirement manažment , issue a change manažment, contract manažment, manažment
+ľudských zdrojov, finančný manažment, manažment rizík a report manažment.
+OBLASŤ SECURITY MANAGEMENT A API MANAGEMENT
+Riadenie bezpečnosti ICT infraštruktúry, proces plánovania a riadenia definovanej úrovne bezpečnosti
+poskytovaných IT služieb. Medzi oblasti security managementu patrí správa bezpečnostných incidentov a ich
+vyhodnocovanie, riadenie prístupu a autorizácie pri prístupe k ICT službám, identity management, monitorovanie
+bezpečnosti, zabezpečenie prístupu tretích strán k API, adresárové služby a pod. Security Management umožňuje a
+zaisťuje, že sú implementované a udržiavané poskytované IT služby v súlade s bezpečnostnými politikami.
+Uvedenú oblasť pokrývajú nasledovné aplikácie CA Technologies vo vlastníctve verejného obstarávateľa:
+CA Identity Manager
+CA API Gateway SOA
+CA Directory
+OBLASŤ INFRASTRUCTURE MANAGEMENT
+Správa infraštruktúry ICT (Informačno - komunikačných technológií). Zaoberá sa riadením infraštruktúry ICT
+(monitorovanie, správa konfigurácií a vyhodnocovanie dostupnosti služieb) a pokrýva jej správu a administráciu
+a procesy zálohovania a obnovy. Oblasť zabezpečuje vyhodnocovanie dostupnosti služieb, výkonových parametrov
+služieb a monitorovanie reálnej odozvy z pohľadu koncového používateľa.
+Uvedenú oblasť pokrývajú nasledovné aplikácie CA Technologies vo vlastníctve verejného obstarávateľa:
+CA Spectrum Device Based Suite
+CA Application Performance Manager
+Arcserve UDP Premium Edition
+OBLASŤ INTEGRAČNÉ SW KOMPONENTY
+Pod túto oblasť spadajú:
+SW CA
+CA Service Desk
+CA IDM
+
+Popis komponentu
+Integračné rozhranie medzi Servise Deskom MVSR a Service Deskami dodávateľov
+zabezpečpejúce synchronizáciu incidentov, príloh a ostatných objektov.
+Rozhranie pre integráciu medzi ServiceDesk systémom a Identity Management systémom
+zabezpečujúce integráciu pre spracovanie požiadaviek, požiadaviek na zmenu
+a synchronizáciu rolí.
+
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+2z9
+
+CA IDM
+CA IDM
+CA IDM
+CA IDM
+CA IDM
+CA IDM
+CA IDM
+SSG
+CA Spectrum
+
+Rozhranie pre spracovanie zmenových dávok zo SAP organizačného managementu,
+riadenie organizačnej štruktúry, spracovanie modelu rolí na organizačnej štruktrúry.
+Konektor na LDAP 2M projektu eID pre riadenie životného cyklu interných identít a B2B
+účtov, riadenie modelu rolí pre naviazané systémy.
+Rozhranie pre spracovanie procesu aktivácie, modifikácie, blokovania používateľa a
+integrácia medzi ServiceDesk systémom a Identity Management systémom.
+Konektor IDM systému pre prostredie Fabasoft. Správa organizačných jednotiek, riadenie
+identít a prístupových oprávnení.
+Rozhranie pre spracovanie zmien z autoritatívneho zdroja informácii o zamestnancoch
+SAP HR, riadenie procesu nástupu, odchodu a zmeny organizačného zaradenia.
+Riešenie pre publikovanie aktuálnej organizačnej štruktúry a používateľov.
+Konektory do systémov patriacich pod projekt ESIPSZ pre riadenie identít, autorizačného
+modelu a organizačnej štruktúry.
+Publikovanie a integrácia rozhrania pre CA ServiceDesk zabezpečujúce transformáciu API
+a spracovanie autentizačného modelu.
+Integračné rozhranie medzi monitorovacím systémom a ServiceDesk riešením pre
+spracovanie modelu dostupnosti služieb.
+
+Popis služieb podpory a údržby
+A. SLUŽBY POZÁRUČNÝ AUTORIZOVANÝ SERVIS – MAINTENANCE
+Odmena za poskytovanie Služieb pozáručného autorizovaného servisu bude stanovená vopred na 12 mesiacov vo
+forme ročnej platby.
+Služby štandardnej podpory a údržby softvérových komponentov a udržiavania prevádzky IS aj údržba SW
+komponentov 3. strán (maintenance) k softvéru vo vlastníctve verejného obstarávateľa pre oblasť:
+ Service Management
+ Infrastructure Management
+ Security Management
+ API Management
+Prostredníctvom maintenancu k SW komponentom 3. strán dosiahne verejný obstarávateľ zabezpečenie
+dostupnosti k najnovším verziám softvéru, a tým možnosť optimalizácie a prispôsobenia k najnovším verziám
+operačných systémov a komponentov sw infraštruktúry nasadených na technických platformách verejného
+obstarávateľa. Predmetom maintenance je poskytovanie nových verzií zabezpečujúcich odstraňovanie vád v SW
+komponentoch 3. strany a/alebo poskytovanie nových verzií obsahujúcich nové funkcie.
+Zoznam SW komponentov 3. strán vo vlastníctve verejného obstarávateľa na ktoré sa vzťahuje podpora:
+
+P. č. Názov licencie
+1
+2
+3
+4
+
+CA API Gateway Enterprise
+CA API Gateway Enterprise
+CA API Gateway Enterprise
+CA API Mobile Gateway
+
+5
+
+CA SPECTRUM Infrastructure Manager Device
+Based Suite
+
+6
+7
+10
+
+CA Directory
+CA Identity Manager for Business Users
+CA Service Desk Manager Full License
+
+Oblasť
+
+Počet
+licencií
+
+Typ licencie
+4
+2
+2
+1
+
+1500
+
+API management
+API management
+API management
+API management
+Infrastructure
+Management
+
+2
+
+Security
+Managemnet
+
+8500
+
+Security
+Managemnet
+
+116
+
+Service
+Management
+
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+3z9
+
+11
+
+CA Service Desk Manager Full License
+
+20
+
+12
+13
+
+CA Application Performance Management
+CA Virtual Assurance for Infrastructure
+Management
+
+14
+
+Arcserve UDP Premium Edition
+
+4
+
+15
+
+CA PPM server
+
+1
+
+16
+
+CA PPM Manager Users
+
+17
+
+CA PPM Team Users
+
+5
+32
+
+30
+150
+
+Service
+Management
+Infrastructure
+Management
+Infrastructure
+Management
+Infrastructure
+Management
+Service
+Management PPM
+Service
+Management PPM
+Service
+Management PPM
+
+B. SLUŽBY PREVÁDZKOVEJ PODPORY A ÚDRŽBY– PAUŠAL MESAČNÝ
+Odmena za poskytnuté služby bude stanovená paušálne za každý kalendárny mesiac.
+Incident a problem management
+ Poskytovanie služieb analýzy a reportingu incidentov, resp. problémov IS a súvisiacich softvérových
+komponentov a návrh eskalačných procedúr – HelpDesk
+V rámci tejto služby bude zabezpečená analýza incidentov a problémov, ich príčin a aj dopadov. Analytická
+služba zabezpečujúca identifikáciu príčiny vzniku incidentu v súvislosti s aktualizáciou verzie aplikácie,
+prípadne iných plánovaných zásahov. Súčasťou služby je návrh eskalačných procedúr, prostredníctvom
+ktorých sa zabezpečí obnovenie normálneho stavu IS, identifikujú sa dopady na súvisiace IS a vypracuje sa
+postup pre odstránenie dopadov a príčin incidentu.
+ Riešenie incidentov, resp. problémov prostredníctvom servisných zásahov v súlade so schválenými
+eskalačnými procedúrami
+V rámci tejto služby sa realizuje samotné odstránenie incidentov a problémov alebo podpora pri
+odstraňovaní incidentov na základe schválených eskalačných procedúr.
+ Konzultácie pre objasňovanie chybových hlásení v súvislosti s príslušným APV, resp. IS
+Poskytnutie konzultácií (telefonicky a e-mailom prostredníctvom Centrálneho HelpDesku) pre objasňovanie,
+upresňovanie a vysvetľovanie otázok používateľov IS a pracovníkov ServiceDesku klienta.
+ Služby podpory SW komponentov tretích strán.
+V rámci tejto služby bude zabezpečená analýzy incidentov a problémov a návrh riešenia. Asistencia pri
+odstraňovanie akýchkoľvek vád SW komponentov tretích strán, tzn. komunikácia s výrobcom/dodávateľom
+SW, založenie „tiketu“, návrh a prípadná realizácia odporúčaného riešenia.
+ Prevádzková dokumentácia
+Cieľom tejto služby je údržba informácií o konfiguračných položkách IS a príslušného APV,
+dokumentovanie zmien a zásahov súvisiacich s odstraňovaním chýb, aktualizácia používateľskej príručky.
+Systémová podpora a patchovanie
+ Poskytovanie služieb nasadzovania aktualizácií, záplat a opráv IS a príslušného APV, ktoré zahŕňa:
+Plánovanie nasadzovania aktualizácií, záplat a opráv, ktoré zohľadní aj dopady a závislosti na iné súvisiace
+IS.
+Poskytnutie technickej a metodickej podpory zamestnancov, pri testovaní aktualizácií, záplat a opráv IS
+a príslušného APV. Podpora zahŕňa popis správneho postupu realizácie testovacích scenárov, popis
+požadovaných konfigurácií a pod.
+Podpora realizácie inštalácie a konfigurácie príslušných IS a APV, v prípade nasadzovania zmien, pri
+zmenách systémovej infraštruktúry, zmenách HW a migrácii systémov.
+
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+4z9
+
+Profylaktika
+ Poskytovanie služieb podpory realizácie preventívnych zásahov na úrovni APV, IS a súvisiacej systémovej
+infraštruktúry.
+Súčasťou služby je napríklad kontrola nastavení chybových hlásení, behu procesov, preventívne zásahy
+a operácie, kontrola výkonu CA aplikácií v zaznamenaných logoch.
+ Poskytovanie služieb procesnej a analytickej podpory IS.
+Služba predstavuje spracovanie udalostí a stavov, zaznamenané monitorovacím nástrojom a následné
+nastavenie včasnej eskalácie problémov, resp. inicializácia preventívnych zásahov.
+C. SLUŽBY PREVÁDZKOVEJ PODPORY A ÚDRŽBY – PAUŠÁL ŠTVRŤROČNÝ
+Odmena za poskytnutú službu bude stanovená paušálne za štvrťrok, pričom objem nevyčerpaných hodín/človekodní
+za konkrétny kvartál bude možné preniesť do nasledujúceho kvartálu. Nevyčerpané hodiny/človekodni nebude
+možné prenášať do ďalšieho roka trvania podpory.
+Implementácia úprav nevyhnutných na podporu riadenia prevádzky IT
+ Implementácia úprav systémov na podporu riadenia prevádzky IT a súvisiacich aplikácií CA Technologies
+a úprava technickej a užívateľskej dokumentácie.
+Pôjde o zmeny, ktorých implementácia je nevyhnutná vzhľadom na zabezpečenie bezproblémového chodu
+prevádzky ako napríklad zmeny súvisiace s legislatívnymi zmenami, integračnými prácami v prípade
+potreby zabezpečenia spolupráce s inými systémami prevádzky, zmeny v súvislosti s potrebou aktualizácie
+užívateľov, nastavení rolí a práv v IDM, SD, zmeny v súvislosti s úpravami konfigurácie v SD a pod.
+Dátové operácie a opravné zásahy
+ Služba zahŕňa odstraňovanie chýb, ktoré boli spôsobené nekorektným zásahom používateľov.
+Služba zahŕňa okrem iného aj manuálnu oprava nesprávnych dát, na základe požiadavky klienta,
+jednorazové reporty, predpis na výber dát.
+Analýzy, konzultácie a školenia
+ Vypracovanie analýz
+Spracovanie analýz pre implementáciu nevyhnutných úprav, spracovanie analýzy dopadov a definovanie
+spôsobu realizácie riešenia.
+ Všeobecné konzultácie
+Konzultácie pre objasňovanie chybových hlásení v súvislosti s príslušným APV, resp. IS
+Poskytnutie konzultácií (telefonicky,, resp. e-mailom prostredníctvom centrálneho HelpDesku) pre
+objasňovanie, upresňovanie a vysvetľovanie otázok používateľov IS a pracovníkov ServiceDesku klienta.
+ Účasť na stretnutiach a posudzovanie materiálov.
+ Školenia
+Poskytnutie školení pracovníkov prevádzky. Služba zabezpečujúca školenia používateľov aplikácií
+v súvislosti s aktualizáciou softvérového balíka a informovanie o nových verziách softvéru.
+
+D. SLUŽBY ÚPRAVY SYSTÉMOV NA PODPORU RIADENIA PREVÁDZKY IT - NAD PAUŠÁL
+Odmena za poskytnutú službu bude stanovená na základe počtu vopred objednaných a následne odpracovaných
+hodín.
+Úprava systémov na podporu riadenia prevádzky IT a súvisiacich SW aplikácií väčšieho rozsahu, pričom každá
+takáto zmena bude zvlášť posudzovaná, schválená a objednaná.
+Odborné konzultácie
+Poskytovanie odborných stanovísk a konzultácie k príslušnému APV a IS. Podpora pri implementácii nových verzií
+CA SW do produkčnej prevádzky, identifikovanie požiadaviek na príslušný HW a technologické prostredie. Podpora
+pri zálohovaní, monitoringu a reportingu IS a súvisiacej infraštruktúry.
+Optimalizácia SW komponentov
+Návrh a realizácia optimalizácie CA SW zamerané na zvyšovanie výkonnosti CA aplikácií.
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+5z9
+
+Návrh a realizácia prispôsobenia APV k najnovším verziám operačných systémov a ďalších komponentov SW
+infraštruktúry nasadených na technických platformách objednávateľa a/alebo z dôvodu prípravy na začatie
+poskytovania služieb pozáručného autorizovaného servisu ak tieto neboli kontinuálne zabezpečené.
+Zmena funkčnosti a konfigurácie
+Zmena funkčnosti zahŕňa pridanie novej, resp. modifikáciu pôvodnej konfigurácie SW komponentu IS a s tým
+súvisiaca úprava príslušnej dokumentácie. Zmena funkčnosti môže byť vyvolaná požiadavkou vyplývajúcou
+z legislatívnych zmien, prípadne požiadavkou na zlepšenie, rozšírenie pôvodnej funkcionality alebo zavedenia novej
+funkcionality určitého systému.
+
+2. Úroveň požadovaných služieb a reakčné lehoty
+Odstraňovanie chýb, resp. riešenie incidentov v rámci poskytovania služieb prevádzkovej podpory a údržby bod B,
+bude riešené podľa časového rámca, na základe 3 kategórií incidentov, tak ako je uvedené v tabuľke nižšie.
+Klasifikácia chyby
+Kategória „A“ – kritický
+incident/problém
+
+Kategória „B“ – nekritický
+incident/problém
+
+Kategória „C“ –
+incident/problém
+
+3.
+
+Popis
+požiadavka Objednávateľa na riešenie
+problému Poskytovateľom, ktorý sa prejavuje
+výpadkom fungovania celého IS, SW
+komponentov 3. strán alebo SW komponentu,
+ohrozuje zabezpečenie poskytovania
+základných služieb a funkcií aplikácií v rámci
+podporovaných oblastí, čo znemožňuje jeho
+použitie ako celku alebo jeho podstatnej
+časti. Za kritický sa považuje problém, ktorý
+sa prejavuje globálne voči nezastupiteľnej
+skupine používateľov a je predmetom tejto
+Zmluvy. Ako kritický problém je
+charakterizovaný problém, ktorý je
+opakovane vyvolateľný alebo má trvalý
+charakter.
+požiadavka Objednávateľa na riešenie takého
+problému, ktorý znemožňuje používanie
+funkcií SW komponentov 3. strán, SW
+komponentov z hľadiska koncového
+používateľa, pričom neobmedzuje použitie
+SW komponentov 3. strán, HW alebo SW
+komponentu alebo modulu ako celku alebo
+jeho podstatných častí, pričom neohrozuje
+zabezpečenie poskytovania základných
+služieb a funkcií aplikácií v rámci
+podporovaných oblastí.
+je Objednávateľom hlásený stav, ktorý
+znemožňuje používanie SW komponentu,
+modulu alebo funkcie IS (vrátane SW
+komponentov), je vážnym obmedzením
+funkčnosti alebo rozporom fungovania oproti
+dodanej dokumentácii.
+
+Reakčná doba
+Začiatok odstraňovania vád do 4
+pracovných hodín od nahlásenia vady a
+odstránenie/neutralizácia problému do
+8 pracovných hodín.
+
+Odozva do 8 pracovných hodín od
+nahlásenia vady a
+odstránenie/neutralizácia problému do
+32 pracovných hodín.
+
+Odozva do 32 pracovných hodín od
+nahlásenia vady a
+odstránenie/neutralizácia problému
+do 30 kalendárnych dní.
+
+Centrálne kontaktné miesto/HelpDesk
+
+Uvedené služby podpory a údržby budú zabezpečené prostredníctvom centrálneho kontaktného miesta (Centrálny
+HelpDesk) pre riešenie podpory MV SR, ktoré musí byť dostupné 7 dní x 24 hodín (min. dostupnosť 95%) na území
+Slovenskej republiky v slovenskom jazyku a bude vybudované a prevádzkované u poskytovateľa. Hlavné podmienky
+systému pre zabezpečenie cieľov poskytovania podpory a údržby sú min.:
+ Vykonávanie podpory a/alebo údržby vzdialene, alebo priamo u zákazníka;
+ Implementácia podpory na základe ITIL metodiky;
+ Pravidelné informovanie o nových verziách produktov;
+ Konzultačné a školiace služby;
+ Poskytovanie podpory a údržby počas celého životného cyklu aplikácií od výrobcu CA.
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+6z9
+
+4.
+
+Rozsah SLA
+A. Pozáručný autorizovaný servis - maintenace
+
+Zoznam SW komponentov 3. strán vo vlastníctve verejného obstarávateľa na ktoré sa vzťahuje podpora:
+Oblasť
+P. č.
+1
+2
+3
+4
+
+Názov licencie
+CA API Gateway Enterprise
+CA API Gateway Enterprise
+CA API Gateway Enterprise
+CA API Mobile Gateway
+
+Počet licencií
+4
+2
+2
+1
+
+CA SPECTRUM Infrastructure Manager Device
+Based Suite
+
+5
+
+1500
+
+API management
+API management
+API management
+API management
+Infrastructure
+Management
+Security Managemnet
+
+6
+
+CA Directory
+
+2
+Security Managemnet
+
+7
+10
+11
+
+CA Identity Manager for Business Users
+CA Service Desk Manager Full License
+CA Service Desk Manager Full License
+
+12
+13
+
+CA Application Performance Management
+CA Virtual Assurance for Infrastructure
+Management
+
+14
+
+Arcserve UDP Premium Edition
+
+15
+
+CA PPM server
+
+16
+
+CA PPM Manager Users
+
+17
+
+CA PPM Team Users
+
+8500
+116 Service Management
+20 Service Management
+Infrastructure
+5
+Management
+Infrastructure
+32
+Management
+Infrastructure
+4
+Management
+Service Management 1
+PPM
+Service Management PPM
+30
+Service Management 150
+PPM
+
+B. Služby technickej a prevádzkovej podpory – mesačný paušál (bez možnosti prenosu
+nevyčerpaných človekodní)
+Názov služby
+B. Služby technickej a prevádzkovej podpory – mesačný
+paušál
+
+IS
+CA IDM
+
+SLA
+24x7
+
+CA SD
+CA API Gateway
+SOA
+CA Directory
+CA PPM
+CA Spectrum
+CA APM
+Arcserve UDP
+Premium Edition
+
+24x7
+24x7
+24x7
+8x5
+24x7
+8x5
+8x5
+
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+7z9
+
+C. Služby technickej a prevádzkovej podpory – štvrťročný paušál (s možnosťou prenosu
+nevyčerpaných človekodní)
+Názov služby
+
+IS
+
+C. Služby technickej a prevádzkovej podpory –
+štvrťročný paušál
+ Implementácia úprav nevyhnutných na
+podporu riadenia prevádzky IT
+ Dátové operácie a opravné zásahy
+ Analýzy, konzultácie a školenia
+SPOLU
+
+Pre všetky
+systémy
+
+Max. počet
+človekodní za
+štvrťrok
+
+Počet
+človekodní za 1
+rok
+
+35
+
+140
+
+35
+
+140
+
+D. Služby úpravy systémov na podporu riadenia prevádzky IT
+Ostatné služby, ktoré budú mať charakter úprav IS na podporu riadenia prevádzky, nebudú zahrnuté do mesačného
+ani štvrťročného paušálu a budú realizované na základe separátnej objednávky. Maximálny počet človekodní, ktoré
+si verejný obstarávateľ môže objednať nad rámec paušálu za celé obdobie trvania zmluvy je 500.
+Názov služby
+D. Služby úpravy systémov na podporu riadenia prevádzky IT
+ Odborné konzultácie
+ Optimalizácia SW komponentov
+ Zmena funkčnosti a konfigurácie
+
+5.
+
+IS
+Pre všetky systémy
+
+Minimálne požiadavky na expertov:
+
+Poskytovateľ sa zaväzuje, že pri plnení bude zabezpečovať služby takými expertmi, ktorí spĺňajú rovnaké minimálne
+požiadavky ako verejný obstarávateľ požadoval pri preukazovaní podmienky účasti na splnenie technickej alebo
+odbornej spôsobilosti podľa § 34 ods. 1 písm. g) zákona. Minimálne požiadavky na expertov sú uvedené nižšie.
+Objednávateľ si túto skutočnosť môže kedykoľvek pri plnení overiť.
+Oblasť projektové riadenie
+Expert č. 1: Garant pre oblasť projektového riadenia
+- minimálne 3 ročné skúsenosti v oblasti projektového manažmentu. Túto podmienku uchádzač preukáže
+životopisom alebo ekvivalentným dokladom.
+- minimálne 1 profesionálna praktická skúsenosť v oblasti riadenia projektu obdobného charakteru ako je
+predmet zákazky. Túto podmienku uchádzač preukáže životopisom alebo ekvivalentným dokladom.
+- platný certifikát projektového riadenia podľa metodiky PRINCE 2 alebo ekvivalent od inej akreditovanej autority.
+- Platný certifikát ITIL foundation alebo ekvivalent od inej akreditovanej autority
+Oblasť service management
+Expert č. 2: Garant pre oblasť Service Management
+- minimálne 3 ročné skúsenosti v oblasti implementácie / modifikácie / konfigurácie produktov pre oblasť
+Service Management. Túto podmienku uchádzač preukáže životopisom alebo ekvivalentným dokladom.
+- minimálne 1 profesionálnu praktickú skúsenosť v oblasti implementácie / modifikácie/ konfigurácie produktu
+CA Service Desk podobného rozsahu/charakteru ako je predmet zákazky. Túto podmienku uchádzač preukáže
+životopisom, alebo ekvivalentným dokladom.
+- platný certifikát pre implementáciu, modifikáciu, konfiguráciu CA produktov v oblasti ServiceDesk alebo
+ekvivalent od inej akreditovanej autority.
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+8z9
+
+Oblasť security management
+Expert č. 3: Garant pre oblasť Identity Management
+- minimálne 3 ročné skúsenosti v oblasti implementácie / modifikácie / konfigurácie produktov pre oblasť
+Identity Management. Túto podmienku uchádzač preukáže životopisom alebo ekvivalentným dokladom.
+- minimálne 1 profesionálnu praktickú skúsenosť v oblasti implementácie / modifikácie/ konfigurácie produktu
+CA Identity Manager podobného rozsahu/charakteru ako je predmet zákazky. Túto podmienku uchádzač
+preukáže životopisom alebo ekvivalentným dokladom.
+- Platný certifikát pre implementáciu, modifikáciu, konfiguráciu CA produktov v oblasti Identity Management
+alebo ekvivalent od inej akreditovanej autority.
+Oblasť infrastructure management
+Expert č. 4: Garant pre oblasť Infrastructure Management
+- minimálne 3 ročné skúsenosti v oblasti implementácie / modifikácie / konfigurácie produktov pre oblasť
+Infrastructure Management. Túto podmienku uchádzač preukáže životopisom alebo ekvivalentným dokladom.
+- minimálne 1 profesionálnu praktickú skúsenosť v oblasti implementácie / modifikácie/ konfigurácie produktov
+CA Spectrum obdobného rozsahu/charakteru ako je predmet zákazky. Túto podmienku uchádzač preukáže
+životopisom alebo ekvivalentným dokladom.
+- Platný certifikát pre implementáciu, modifikáciu, konfiguráciu CA produktov v oblasti Infrastructure Management,
+alebo ekvivalent od inej akreditovanej autority.
+Expert č. 5: Garant pre oblasť Application Performance Management
+- minimálne 3 ročné skúsenosti v oblasti implementácie / modifikácie / konfigurácie produktov pre oblasť
+Application Performance Management. Túto podmienku uchádzač preukáže životopisom alebo ekvivalentným
+dokladom.
+- minimálne 1 profesionálnu praktickú skúsenosť v oblasti implementácie / modifikácie/ konfigurácie produktov
+CA APM obdobného rozsahu/charakteru ako je predmet zákazky. Túto podmienku uchádzač preukáže
+životopisom alebo ekvivalentným dokladom.
+- Platný certifikát pre implementáciu, modifikáciu, konfiguráciu CA produktov v oblasti Application Performance
+Management alebo ekvivalent od inej akreditovanej autority.
+Oblasť service management
+Expert č. 6: Garant pre oblasť Project and Portfolio Management
+- minimálne 3 ročné skúsenosti v oblasti implementácie / modifikácie / Túto podmienku uchádzač preukáže
+životopisom, alebo ekvivalentným dokladom.
+- minimálne 1 profesionálnu praktickú skúsenosť s konfigurácou produktov pre oblasť Project and Portfolio.
+Túto podmienku uchádzač preukáže životopisom alebo ekvivalentným dokladom.
+- minimálne 1 profesionálnu praktickú skúsenosť v oblasti implementácie / modifikácie/ konfigurácie produktov
+CA PPM obdobného rozsahu/charakteru ako je predmet zákazky. Túto podmienku uchádzač preukáže
+životopisom alebo ekvivalentným dokladom.
+- Platný certifikát pre implementáciu, modifikáciu, konfiguráciu CA produktov v oblasti Project and Portfolio
+Management alebo ekvivalent od inej akreditovanej autority.
+Oblasť API management
+Expert č. 7: Garant pre oblasť API Management
+- minimálne 3 ročné skúsenosti v oblasti implementácie / modifikácie / konfigurácie produktov pre oblasť
+Security Management. Túto podmienku uchádzač preukáže životopisom alebo ekvivalentným dokladom.
+- minimálne 1 profesionálnu praktickú skúsenosť v oblasti implementácie / modifikácie/ konfigurácie produktov
+CA API Gateway SOA obdobného rozsahu/charakteru ako je predmet zákazky Túto podmienku uchádzač
+preukáže životopisom alebo ekvivalentným dokladom.
+- Platný certifikát – expert je držiteľom certifikátu pre implementáciu, modifikáciu, konfiguráciu CA produktov
+v oblasti API management alebo ekvivalent daného certifikátu od inej akreditovanej autority.
+Príloha č. 1 k Zmluve o poskytovanutí služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+9z9
+
+Príloha č. 2
+Štrukturovaný rozpočet ceny
+Tabuľka č. 1: Cena za Pozáručný autorizovaný servis
+p.č.
+
+Pozáručný autorizovaný servis
+
+1.
+1. rok
+2.
+2. rok
+3.
+3. rok
+Cena celkom za Pozáručný autorizovaný servis za
+celé obdobie trvania SLA (36 mesiacov)
+
+cena v EUR bez DPH
+
+sadzba
+DPH v %
+
+výška DPH v cena v EUR vrátane
+EUR
+DPH
+
+555 000
+470 000
+420 000
+
+20
+20
+20
+
+111 000
+94 000
+84 000
+
+666 000
+564 000
+504 000
+
+1 445 000
+
+20
+
+289 000
+
+1 734 000
+
+Tabuľka č. 2: Cena za Služby prevádzkovej podpory a údržby - mesačný paušál
+Odmena za poskytnuté služby bude stanovená paušálne za každý kalendárny mesiac
+
+p.č.
+
+Služby prevádzkovej podpory a údržby
+
+4.
+
+Cena mesačného paušálu za poskytovanie
+Služieb prevádzkovej podpory a údržby
+
+5.
+
+Cena celkom za poskytovanie Služieb
+prevádzkovej podpory a údržby za celé
+obdobie trvania SLA (36 mesiacov)
+
+cena v EUR bez DPH
+
+sadzba
+DPH v %
+
+výška DPH v cena v EUR vrátane
+EUR
+DPH
+
+56 940
+
+20
+
+11 388
+
+68 328
+
+2 049 840
+
+20
+
+409 968
+
+2 459 808
+
+Tabuľka č. 3: Cena za Služby prevádzkovej podpory a údržby - štvrťročný paušál
+Odmena za poskytnutú službu bude stanovená paušálne za štvrťrok, pričom objem nevyčerpaných človekodní za konkrétny kvartál bude
+možné preniesť do nasledujúceho kvartálu v rámci jedného roka. Maximálny počet človekodní v rámci štvrťročného paušálu je 35.
+
+p.č.
+
+Služby prevádzkovej podpory a údržby
+
+6.
+
+Cena štvrťročného paušálu za poskytovanie
+Služieb prevádzkovej podpory a údržby
+
+7.
+
+Cena celkom za poskytovanie Služieb
+prevádzkovej podpory za celé obdobie
+trvania SLA (36 mesiacov)
+
+cena v EUR bez DPH
+
+sadzba
+DPH v %
+
+výška DPH v cena v EUR vrátane
+EUR
+DPH
+
+23 800
+
+20
+
+4 760
+
+28 560
+
+285 600
+
+20
+
+57 120
+
+342 720
+
+Tabuľka č. 4: Cena za Služby úpravy systémov na podporu riadenia prevádzky IT
+Odmena za poskytnutú službu bude stanovená na základe počtu vopred objednaných a následne odpracovaných hodín. Maximálny
+počet človekodní za celé obdobie trvania zmluvy je 500.
+
+p.č.
+
+Služby technickej podpory
+
+8.
+
+Služby úpravy systémov na podporu riadenia
+prevádzky IT
+
+9.
+
+Maximálna cena celkom za poskytovanie
+Služieb úpravy systémov na podporu
+riadenia prevádzky IT za celé obdobie trvania
+SLA (36 mesiacov)
+
+cena za 1
+sadzba
+človekodeň v EUR
+DPH v %
+bez DPH
+
+cena za 1
+výška DPH v
+človekodeň v EUR
+EUR
+vrátane DPH
+
+680
+
+20
+
+136
+
+816
+
+340 000
+
+20
+
+68 000
+
+408 000
+
+Tabuľka č. 5: Celková cena za poskytnutie služieb požadovaného predmetu zákazky
+cena v EUR bez sadzba
+výška DPH v cena v EUR
+DPH
+DPH v % EUR
+vrátane DPH
+Celková cena za poskytnutie služieb
+824 088,00
+4 944 528,00
+4 120 440,00
+20
+požadovaného predmetu zákazky (za 36 mesiacov):
+
+Príloha č. 3
+Formulár o poskytnutí služieb
+
+Objednávateľ
+
+Službu zabezpečil/-a
+
+Poskytovateľ
+
+Dátum
+
+Od
+
+ID
+
+Do
+
+Odpracovaný čas
+
+Čas prípravy služby:
+Celkom v čld*:
+Z toho čld*v rámci predplatených:
+Služba vykonaná v priestoroch Objednávateľa:
+
+Áno
+
+Nie
+
+Zoznam krokov pri poskytnutí služby resp. výstupov:
+
+Týmto akceptujem poskytovanú službu.
+Celé meno Oprávnenej osoby Objednávateľa:
+Podpis Oprávnenej osoby Objednávateľa:
+Interné poznámky Poskytovateľa:
+
+*človekodeň
+
+Príloha č. 3 k Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+1z1
+
+Príloha č. 4
+Formulár o nahlásení a vyriešení problému/požiadavky
+
+ID
+
+Objednávateľ
+
+Nahlásil
+
+Poskytovateľ
+
+Prevzal
+
+Dátum/čas
+................/….:....
+
+Typ:
+
+Kritický problém
+
+Nekritický problém
+
+Iná požiadavka/problém
+
+Aplikácia/Systém:
+
+Popis problému/požiadavky:
+
+Počet odpracovaných čld*:
+
+Z toho spotreba z predplatených čld*:
+
+Poznámka :
+ID oznámi nahlasujúcemu zamestnancovi objednávateľa zamestnanec Poskytovateľa
+Týmto akceptujem poskytovanú službu.
+Celé meno Oprávnenej osoby Objednávateľa:
+Podpis Oprávnenej osoby Objednávateľa:
+Dátum a čas podpisu:
+
+*človekodeň
+
+Príloha č. 4 k Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+1z1
+
+Príloha č.5
+Centrálne kontaktné miesto/HelpDesk
+
+Systém HelpDesk na adrese www.soimco.sk/helpdesk alebo
+telefonicky prostredníctvom call centra na t. č.
+e-mail na adresu:
+
+Príloha č. 5 Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+1z1
+
+Príloha č. 6
+Pracovný výkaz o vykonaných službách v rámci predplateného štvrťročného paušálu
+Poskytovateľ:
+
+ID
+
+Popis problému/požiadavky
+
+Objednávateľ:
+
+Požiadavka zo
+dňa
+
+IT expert Objednávateľa,
+ktorý riešil
+problém/požiadavku
+
+Hod.
+
+Pozn.
+
+SPOLU počet človekodní prenesených z predchádzajúceho štvrťroka
+SPOLU počet človekodní vyčerpaných v danom štvrťroku
+SPOLU počet človekodní prenesených do nasledujúceho štvrťroka
+
+Odovzdal:
+Meno:
+
+Prevzal:
+Meno:
+
+Podpis:
+
+Podpis:
+
+Príloha č. 6 k Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+Strana 1 z 1
+
+Príloha č. 7
+Oprávnené osoby Zmluvných strán
+Podporné stredisko Poskytovateľa
+
+PSZ
+Systém HelpDesk
+
+Soimco Helpdesk
+tel:
+e-mail:
+https: www.soimco.sk/helpdesk
+
+Osoby Objednávateľa určené pre zasielanie servisných hlásení/požiadaviek
+Kontakt v štandardnom pracovnom čase
+Igor Kresan
+Róbert Filip
+Ján Abašanov
+Ján Košťál
+Oto Čermák
+Andrej Jakubička
+Igor Javorčík
+8.00 hod – 17.00 hod
+
+Kontaktná e-mail adresa pre všetky typy komunikácie
+
+Osoby Objednávateľa určené pre eskaláciu
+Úroveň eskalácie
+
+Kontakt
+
+1. úroveň – Pavol Maliarik, riaditeľ
+2. úroveň – Igor Javorčík, zástupca riaditeľa
+
+e-mail adresa:
+e-mail adresa:
+
+Osoby Poskytovateľa určené pre eskaláciu
+Úroveň eskalácie
+
+Kontaktné údaje
+
+1. úroveň – Ing. Marián Húšťava, senior konzultant
+2. úroveň – Ing. Milan Chalupka, projektový manažér
+Osoby Objednávateľa určené pre zadávanie otázok pri poskytovaní Služieb servisnej podpory
+Meno a priezvisko
+
+Kontaktná e-mail adresa pre všetky typy komunikácie
+
+Ing. Marián Húšťava
+Ing. Andrej Haršányi
+Ing. Martin Adamčík
+Ing, Michal Hanus
+Ing. Andrej Hanzalík
+Ing. Milan Jurík
+Ing. Milan Chalupka
+
+Príloha č. 7 k Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+
+1z1
+
+Príloha č. 8
+Zoznam subdodávateľov
+
+Poskytovateľ:
+Obchodné meno: Soimco a. s.
+Sídlo:
+
+Galvaniho 12, 821 04 Bratislava
+
+IČO:
+
+44367465
+
+Poskytovateľ v rámci plnenia Zmluvy plánuje využiť nasledujúcich subdodávateľov:
+Obchodné meno
+
+Sídlo/miesto podnikania
+
+IČO
+
+Osoba oprávnená konať za subdodávateľa
+(Meno a priezvisko, adresa pobytu, dátum narodenia)
+
+Arines spol. s r.o.
+
+Tatranská 36, 841 06 Bratislava
+
+33696931
+
+Ing. Andrej Haršányi
+
+Declan s.r.o.
+
+Ľ. Okánika 36, 909 01 Skalica
+
+48338389
+
+Ing. Andrej Hanzalík
+
+-
+
+V Bratislave dňa ..........................................................
+.........................................................................
+
+Ing. Richard Beňo
+predseda predstavenstva
+
+Príloha č. 8 k Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov.
+
+1z1
+
+Príloha č.9
+Menný zoznam expertov
+Služby štandardnej podpory a údržby softvérových komponentov zabezpečujúcich prevádzku IT systémov
+verejného obstarávateľa v oblasti service management, security management, infrastructure management, API
+management a integračné komponenty
+vzťah osoby k uchádzačovi
+(zamestnanec / iná osoba v zmysle
+meno a priezvisko príslušnej
+pozícia v tíme
+§ 34
+osoby
+ods. 3 zákona o verejnom
+obstarávaní
+Kľúčový expert č. 1
+Garant pre oblasť projektového
+Ing. Milan Chalupka
+zamestnanec
+riadenia
+Kľúčový expert č. 2
+Garant pre oblasť Service
+Ing. Marián Húšťava
+zamestnanec
+Management
+
+Ing. Andrej Haršányi
+
+Kľúčový expert č. 3
+Garant pre oblasť Identity
+Management
+
+iná osoba v zmysle § 34
+ods. 3 zákona o verejnom
+obstarávaní
+Arines spol. s r.o.
+
+Ing. Martin Adamčík
+
+Kľúčový expert č. 4
+Garant pre oblasť Infrastructure
+Management
+
+zamestnanec
+
+Ing. Michal Hanus
+
+Kľúčový expert č. 5
+Garant pre oblasť Application
+Performance Management
+
+zamestnanec
+
+Ing. Andrej Hanzalík
+
+Ing. Milan Jurík
+
+Kľúčový expert č. 6
+Garant pre oblasť Project and
+Portfolio Management
+Kľúčový expert č. 7
+Garant pre oblasť API
+Management
+
+iná osoba v zmysle § 34
+ods. 3 zákona o verejnom
+obstarávaní
+Declan spol. s r.o.
+zamestnanec
+
+V Bratislave, dňa ............................................
+.............................................................
+Ing. Richard Beňo
+predseda predstavenstva
+
+Príloha č. 9 Zmluve o poskytovaní služieb štandardnej podpory a údržby definovaných softvérových komponentov
+1z1
+
+

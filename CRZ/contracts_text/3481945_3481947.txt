@@ -1,0 +1,2387 @@
+Zmluva o poskytovaní servisných služieb č. 55/2018/1.16.2
+(ďalej len „Servisná zmluva“)
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov (ďalej len „Obchodný zákonník“)
+
+Objednávateľ:
+
+Sídlo:
+IČO:
+DIČ:
+Štatutárny orgán:
+Bankové spojenie:
+Číslo účtu v tvare IBAN:
+
+Ministerstvo životného prostredia Slovenskej Republiky
+Nám. Ľ. Štúra 35/1, 812 35 Bratislava
+42181810
+2023106679
+Ing. László Sólymos, minister
+Štátna pokladnica
+(ďalej len „Objednávateľ“)
+
+Poskytovateľ:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Štatutárny orgán:
+
+SEVITECH a. s.
+Mlynské nivy 71, 821 05 Bratislava
+31 605 052
+2020444338
+SK2020444338
+Ing. Jaroslav Murár, predseda predstavenstva
+Jaroslav Gajdoš, člen predstavenstva
+Tatra banka, a. s.
+
+Bankové spojenie:
+Číslo účtu v tvare IBAN:
+Zapísaný v Obchodnom registri Okresného súdu Bratislava I, oddiel: Sa, vložka č.: 4696/B
+(ďalej len „Poskytovateľ“)
+(ďalej spolu len „Zmluvné strany“ alebo jednotlivo len „Zmluvná strana“)
+Preambula
+Východiskovým podkladom pre uzatvorenie tejto Servisnej zmluvy je ponuka Poskytovateľa, ktorá bola
+predložená Objednávateľovi pri zadávaní zákazky „Poskytovanie servisných služieb podpory prevádzky
+a rozvoja pre Informačný systém Registra priestorových informácií“ podľa zákona č. 343/2015 Z.z. o
+verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej
+len „Zákon o verejnom obstarávaní“).
+1. Vysvetlenie pojmov
+1.1.
+
+Na účely tejto Servisnej zmluvy sa rozumie:
+1.1.1
+
+„Systém“ je Informačný systém Registra priestorových informácií ako systém na
+zabezpečenie poskytovania a sprístupňovania priestorových informácií a služieb
+občanom, podnikateľom, verejnej správe, ako aj inštitúciám a občanom Európskej únie v
+zmysle požiadaviek smernice INSPIRE, vytvorený a nasadený Objednávateľovi na
+základe Zmluvy o dielo č. 1/2015-1.9 zo dňa 23.01.2015 v znení jej dodatkov č. 1 až č. 3
+(ďalej len „ZoD“).
+
+1.1.2
+
+„Akceptačné testy“ – sú testy novej alebo zmenenej funkčnosti, ktoré Objednávateľ
+realizuje podľa vopred vzájomne odsúhlasených testovacích scenárov a testovacích
+prípadov dodaných Poskytovateľom a ktorých úspešný priebeh je podmienkou
+akceptácie odovzdávanej funkčnosti.
+
+1.1.3
+
+„Človekodeň“ alebo „MD“ – je merná jednotka pre vykazovanie prácnosti, za ktorú sa
+považuje 8 pracovných hodín jedného pracovníka Poskytovateľa.
+
+1.1.4
+
+„Človekohodina“ – je merná jednotka pre vykazovanie prácnosti, za ktorú sa považuje
+1 pracovná hodina (60 minút) jedného pracovníka Poskytovateľa. Najmenšia jednotka
+fakturácie podľa tejto zmluvy je 0,5 Človekohodiny hodiny (30 minút).
+
+1.1.5
+
+„Defekt“ – je nesúlad medzi skutočným stavom funkčnosti a medzi funkčnými
+špecifikáciami Systému určenými pri začatí poskytovania služieb podľa Servisnej zmluvy
+alebo dodatočne zmenenými na základe dohody Zmluvných strán postupom určeným v
+zmysle Servisnej zmluvy.
+
+1.1.6
+
+„Doba odozvy“ – je doba, do ktorej pracovník Poskytovateľa kontaktuje (e-mailom, pokiaľ
+nie je uvedené inak) Kontaktnú osobu zo strany Objednávateľa a informuje ju o začatí
+riešenia servisnej požiadavky.
+
+1.1.7
+
+„Doba trvalého vyriešenia“ – znamená najneskorší čas, dokedy musí Poskytovateľ
+vyriešiť Incident, t.j. uplatniť trvalé riešenie, ktorého výsledkom je plné obnovenie
+dostupnosti prevádzky a funkčností Systému ovplyvnenej predmetným Incidentom. Doba
+trvalého vyriešenia je počítaná od okamihu nahlásenia Incidentu Kontaktnou osobou zo
+strany Objednávateľa do okamihu plného obnovenia ovplyvnenej funkčnosti.
+„Doba zabezpečenia náhradného riešenia“ – je doba do zabezpečenia náhradného
+riešenia, ktorá je počítaná od okamihu nahlásenia Incidentu Kontaktnou osobou zo strany
+Objednávateľa do okamihu, keď Poskytovateľ zabezpečí náhradné riešenie problému.
+
+1.1.8
+
+„Incident“ – chyba alebo porucha, ktorá predstavuje akékoľvek nesplnenie pôvodných
+požiadaviek na Systém, nesplnenie stanovených štandardov, neschválenú odchýlku od
+dohodnutej funkčnosti Systému alebo dohodnutých úprav Systému, nedodržanie
+postupov dohodnutých pre analýzu, návrh, implementovanie, testovanie a spracovanie
+dokumentácie úprav Systému a používanie iných ako dohodnutých softvérových
+nástrojov. Na účely poskytovania Služieb podpory prevádzky sa Incidenty kategorizujú
+ako
+„Kritický“ znamená Incident s dopadom na základnú funkčnosť Systému, ktorý
+v produkčnom prostredí znemožňuje prevádzku Systému a/alebo v testovacom prostredí
+zastaví postup testov;
+„Normálny“ znamená Incident obmedzujúci funkčnosť Systému avšak nespôsobujúci
+nepoužiteľnosť Systému;
+„Nízky“ znamená Incident, ktorý neobmedzuje funkčnosť Systému.
+
+1.1.9
+
+„Kľúčový používateľ“ – je pracovník určený pre prácu so Systémom na strane
+Objednávateľa, ktorý je oprávnený komunikovať s pracovníkmi Poskytovateľa v rámci
+riešenia Incidentu.
+
+1.1.10 „Komponent“ – každý nový produkt, program, softvér, či funkčnosť, ktoré Poskytovateľ
+nainštaluje, nakonfiguruje, naprogramuje alebo nastaví v Systéme a ktorý je doplnením
+alebo zmenou voči stavu zaznamenanému v dokumentácii k Systému, ktorú
+Objednávateľ odovzdá Poskytovateľovi po podpise Servisnej zmluvy.
+1.1.11 „Koncový používateľ“ – je osoba, ktorá využíva funkčnosť Systému.
+1.1.12 „Kontaktná osoba“ – je osoba na strane Objednávateľa oprávnená nahlasovať
+Incidenty, predkladať požiadavky na zmenu, vyhodnotiť ich realizáciu a akceptovať ich
+dodanie.
+1.1.13 „Legislatívne zmeny“ – sú zmeny v legislatíve zverejnené v Zbierke zákonov Slovenskej
+republiky, Úradnom vestníku Európskej únie ako aj zmeny interných predpisov týkajúcich
+sa činnosti Objednávateľa.
+
+1.1.14 „Poistná zmluva“ – je zmluva o poistení zodpovednosti za škodu spôsobenú
+Poskytovateľom pri plnení predmetu Servisnej zmluvy v minimálnej výške 1 000 000,EUR (slovom jeden milión eur) alebo ekvivalent v inej mene.
+1.1.15 „Projektová podpora“ – predstavuje koordináciu všetkých projektových procesov
+týkajúcich sa riešenia Incidentov, požiadaviek na zmenu, eskalácií, reportovania
+a štatistických hlásení medzi Objednávateľom a Poskytovateľom.
+1.1.16 „Prvotná odozva“ – je doba medzi nahlásením požiadavky Objednávateľom
+Poskytovateľovi a prvotnou informáciou Poskytovateľa o krokoch, ktoré boli (budú)
+zrealizované a predpokladanom cieľovom čase na vyriešenie požiadavky.
+1.1.17 „Reakčná doba“ – znamená lehotu, v ktorej je Poskytovateľ povinný poskytnúť Služby
+podpory prevádzky ako je uvedené v Prílohe č. 1 Servisnej zmluvy.
+1.1.18 „SW“ - znamená štandardné programové vybavenie HW zariadenia, jeho funkčných a
+operačných vlastností, vrátane používateľskej dokumentácie a manuálov, zdrojových
+kódov a príslušnej dokumentácie k Systému.
+1.1.19 „SW produkty 3. strán“ - SW komponent ako autorské dielo tretej strany, ktoré vytvorila
+tretia strana a/alebo ku ktorému vykonáva autorské práva (majetkové a/alebo aj
+osobnostné) tretia strana. Za tretie strany sa považujú aj subdodávatelia Poskytovateľa
+v prípade, že sa jedná o komerčný softvér bežne predávaný subdodávateľom.
+1.1.20 „Zabezpečenie náhradného riešenia“ – je dosiahnutie dočasného režimu funkčnosti
+Systému (funkcia a plánovaná použiteľnosť Systému je v zmysle požiadaviek a funkčnej
+špecifikácie síce poskytovaná odlišne, avšak nie je podstatne ovplyvňované jej pôvodne
+plánované použitie) vytvorením náhradného postupu, ktorý nemá za následok zvýšené
+personálne alebo časové nároky na strane Objednávateľa.
+1.1.21 „Autorský zákon“ je zákon č. 185/2015 Z. z. Autorský zákon v znení neskorších
+predpisov.
+1.1.22 „Zákon o registri partnerov verejného sektora“ je zákon č. 315/2016 Z. z. o registri
+partnerov verejného sektora a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov.
+
+2. Predmet Servisnej zmluvy
+2.1.
+
+Predmetom tejto Servisnej zmluvy je záväzok Poskytovateľa vykonávať a zabezpečovať pre
+Objednávateľa služby spojené s prevádzkou, údržbou a aktualizáciou Systému, a to
+prostredníctvom nasledujúcich služieb:
+2.1.1.
+
+Služby podpory prevádzky,
+
+2.1.2.
+
+Služby rozvoja.
+
+Poskytovateľ vyhlasuje, že je riadne oboznámený so Systémom a je plne odborne a technicky
+spôsobilý na poskytovanie služieb podľa tejto Servisnej zmluvy.
+2.2.
+
+Služby podpory prevádzky zahŕňajú zabezpečovanie bežnej servisnej podpory, ako aj
+poskytovanie podpory pre zaistenie spoľahlivej, kontinuálnej a bezpečnej prevádzky Systému
+v súlade s aktuálne platnými požiadavkami, vrátane riešenia Incidentov.
+
+2.3.
+
+Služby rozvoja zahŕňajú všetky zmeny funkčnosti a obsahu Systému, ktoré vyplývajú
+z legislatívnych zmien alebo z novo vzniknutých potrieb Objednávateľa, zmeny konfigurácie a
+
+nastavení Systému vynútené zmenami prevádzkového prostredia Objednávateľa a udržiavanie
+aktuálnosti príslušnej dokumentácie Systému.
+2.4.
+
+Poskytovateľ sa zaväzuje poskytovať Objednávateľovi Služby podpory prevádzky v rozsahu
+potrebnom na riadne zabezpečenie funkčnosti Systému za mesačnú paušálnu cenu (čl. 3 ods.
+3.1.1 Servisnej zmluvy) a to bez ohľadu na množstvo prác, ktoré bude potrebné v danom mesiaci
+vykonať na poskytnutie Služieb podpory a prevádzky.
+
+2.5.
+
+V prípade požiadavky na zmeny funkčnosti a obsahu Systému bude použitý postup pre
+objednanie Služieb rozvoja podľa Prílohy č. 1 Servisnej zmluvy.
+
+2.6.
+
+Služby uvedené v odsekoch 2.2. a 2.3. tohto článku Servisnej zmluvy sú tiež spoločne nazývané
+„Služby“. Špecifikácia parametrov a podmienok poskytovania Služieb je uvedená v Prílohe č. 1
+Servisnej zmluvy Parametre a podmienky poskytovania Služieb.
+
+2.7.
+
+Poskytovateľ začne poskytovať Objednávateľovi Služby v zmysle tejto Servisnej zmluvy odo dňa
+účinnosti tejto Servisnej zmluvy, okrem poskytovania Služieb podpory SW produktov 3. strán
+podľa oddielu 2.5 Prílohy č. 1 Servisnej zmluvy (ďalej len „Služby podpory SW produktov 3.
+strán“). Poskytovateľ začne poskytovať Objednávateľovi Služby podpory SW produktov 3. strán
+na základe osobitnej písomnej výzvy Objednávateľa doručenej Poskytovateľovi, a to do 3 dní odo
+dňa doručenia výzvy Poskytovateľovi. Poskytovateľ berie na vedomie a súhlasí s tým, že
+Objednávateľ je oprávnený, nie povinný, vyzvať Poskytovateľa na poskytovanie Služieb podpory
+SW produktov 3. strán. Pre vylúčenie akýchkoľvek pochybností cena za poskytovanie Služieb
+podpory SW produktov 3. strán je zahrnutá v cene za Služby podpory prevádzky podľa článku 3
+ods. 3.1.1 Servisnej zmluvy.
+
+3. Cena
+3.1.
+
+Cena za Služby špecifikované v čl. 2 tejto Servisnej zmluvy sa dojednáva v zmysle zákona
+Národnej rady Slovenskej republiky č. 18/1996 Z. z. o cenách v znení neskorších predpisov
+nasledovne:
+3.1.1.
+
+mesačná paušálna cena za Služby podpory prevádzky podľa čl. 2 odsek 2.2. vo výške
+23 300,00 € (slovom dvadsaťtritisíctristo eur) bez DPH,
+
+3.1.2.
+
+cena za Služby rozvoja podľa čl. 2 odsek 2.3. bude stanovená v súlade s odsekom 3.3.
+tohto článku Servisnej zmluvy.
+
+3.2.
+
+Nevyhnutnou požiadavkou pre realizáciu fakturácie za poskytovanie Služieb podpory prevádzky
+je Štatistické hlásenie o vykonaných Službách podpory prevádzky (formulár v prílohe č. 7
+Servisnej zmluvy) – pre štandardný paušálny mesačný zoznam vykonaných pravidelných služieb.
+
+3.3.
+
+Cena za každé poskytnutie Služby rozvoja bude vopred stanovená v Cenovej kalkulácii
+schválenej Kontaktnou osobou Objednávateľa. Podkladom pre výpočet ceny v Cenovej kalkulácii
+bude záväzná sadzba za človekodeň (MD) Poskytovateľa, uvedená v Prílohe č. 8 tejto Servisnej
+zmluvy. Podrobný postup objednávania Služieb rozvoja je upravený v Prílohe č. 1 Servisnej
+zmluvy.
+
+3.4.
+
+Nevyhnutnou požiadavkou pre realizáciu fakturácie za poskytovanie Služieb rozvoja v zmysle
+Prílohy č. 1 bude:
+3.4.1.
+
+Požiadavka na zmenu vo forme objednávky, ktorou Objednávateľ požiada o poskytnutie
+Služieb rozvoja,
+
+3.4.2.
+
+Cenová kalkulácia schválená Kontaktnou osobou Objednávateľa za Služby rozvoja,
+3.4.2.1. v prípade požiadavky, ktorú Objednávateľ vyhodnotí ako zmenu v menšom
+rozsahu bude predložená cenová kalkulácia na realizáciu zmeny,
+3.4.2.2. v prípade komplexnej požiadavky na zmenu bude najprv predložená cenová
+kalkulácia na analýzu zmeny, následne po odsúhlasení Kontaktnou osobou
+a vykonaní analýzy bude predložená cenová kalkulácia na realizáciu zmeny.
+
+3.4.3.
+
+Akceptačný protokol Služieb rozvoja schválený Kontaktnou osobou Objednávateľa.
+
+3.5.
+
+Poskytovateľ je oprávnený faktúry vystavovať vždy k poslednému dňu kalendárneho mesiaca, v
+ktorom boli Služby poskytnuté. Každý z peňažných záväzkov Objednávateľa bude splnený
+odpísaním sumy peňažného záväzku (vrátane DPH) z účtu Objednávateľa v prospech účtu
+Poskytovateľa.
+
+3.6.
+
+Všetky ceny v tejto Servisnej zmluve sú uvádzané bez DPH a budú Objednávateľovi fakturované
+zvýšené o zákonom stanovené percento DPH.
+
+3.7.
+
+Faktúra vystavená Poskytovateľom musí obsahovať všetky náležitosti v zmysle všeobecne
+záväzných právnych predpisov (najmä zákona č. 431/2002 Z.z. o účtovníctve v znení neskorších
+predpisov, zákona č. 222/2004 Z.z. o dani z pridanej hodnoty v znení neskorších predpisov), ako
+aj požadované dokumenty uvedené v odsekoch 3.2. a/alebo 3.4. tohto článku Servisnej zmluvy.
+Ak faktúra nebude obsahovať požadované náležitosti alebo prílohy, Objednávateľ má právo vrátiť
+ju na doplnenie a/alebo prepracovanie Poskytovateľovi, a to najneskôr do uplynutia lehoty jej
+splatnosti. V takom prípade prestáva plynúť lehota splatnosti vrátenej faktúry a nová lehota
+splatnosti faktúry začne plynúť doručením doplneného a/alebo prepracovaného daňového
+dokladu Objednávateľovi.
+
+3.8.
+
+Splatnosť faktúry je 30 dní odo dňa jej doručenia Objednávateľovi, pričom faktúra sa považuje za
+uhradenú dňom odpísania fakturovanej čiastky z účtu Objednávateľa v prospech účtu
+Poskytovateľa.
+
+3.9.
+
+Ceny uvedené pre jednotlivé druhy poskytovaných Služieb sú stanovené ako ceny pevné,
+konečné a nemenné.
+4. Záruka
+
+4.1.
+
+Poskytovateľ sa zaväzuje udržiavať Systém v súlade s podmienkami stanovenými touto
+Servisnou zmluvou a v súlade s dodanou dokumentáciou.
+
+4.2.
+
+Záručná doba na Komponenty vytvorené a/alebo dodané Poskytovateľom, ktoré Poskytovateľ
+nainštaluje, nakonfiguruje, naprogramuje alebo nastaví v Systéme, je 24 (dvadsaťštyri) mesiacov
+odo dňa, keď Objednávateľ protokolárne prevezme Komponent do rutinnej prevádzky.
+Poskytovateľ sa zaväzuje udržiavať nezávadnosť Komponentov z hľadiska výskytu vírusov
+a ďalej zaručuje, že dodané Komponenty neporušujú akékoľvek autorské práva, resp. iné práva,
+ako aj práva tretích osôb.
+
+4.3.
+
+Prípadné ďalšie čiastkové produkty (technické aj programové), ktoré sa stanú súčasťou Systému
+a nebudú produktom Poskytovateľa, budú podliehať všeobecným obchodným, dodacím a
+záručným podmienkam dodávateľov a/alebo poskytovateľov týchto produktov. Poskytovateľ ručí
+za to, že takéto produkty budú dodávané bez akýchkoľvek právnych nedostatkov, že nebudú
+v rozpore s touto Servisnou zmluvou a že nebudú mať za následok žiadne obmedzenie
+Objednávateľa vo využívaní Systému.
+
+4.4.
+
+Poskytovateľ sa zaväzuje Objednávateľom vytknuté vady odstrániť v lehotách podľa Prílohy č. 1
+tejto Servisnej zmluvy, ak sa Zmluvné strany nedohodnú inak.
+5. Práva duševného vlastníctva
+
+5.1.
+
+Poskytovateľom v rámci plnenia predmetu tejto Servisnej zmluvy poskytované Služby, alebo ich
+časť, môžu mať povahu, prípadne môžu zahŕňať jedno alebo viac autorských diel podľa
+Autorského zákona, ktoré boli vytvorené Poskytovateľom alebo ktorých vytvorenie bolo
+Poskytovateľom zabezpečené špecificky na účely plnenia tejto Servisnej zmluvy (ďalej
+ktorékoľvek z nich len „Autorské dielo“).
+
+5.2.
+
+Poskytovateľ poskytuje Objednávateľovi k Autorskému dielu vytvorenému na základe tejto
+Servisnej zmluvy výhradný a územne, vecne a časovo neobmedzený (po dobu trvania
+majetkových práv autora k Autorskému dielu) súhlas na použitie Autorského diela pre účely
+vykonávania vlastných činností Objednávateľa v zmysle osobitných právnych predpisov, a to
+nasledujúcimi spôsobmi:
+a) použitie Autorského diela v prípadoch jeho poškodenia na náhradnom systéme a vytvorenie
+potrebných kópií pre účely bezpečnosti a archivácie,
+b) vyhotovenie neobmedzeného množstva rozmnoženín Autorského diela pre internú potrebu
+Objednávateľa a pre výkon vlastných činností Objednávateľom,
+c) verejné rozširovanie originálu a/alebo rozmnoženín Autorského diela publikáciou pod verejnou
+licenciou v zmysle § 76 Autorského zákona, prevodom vlastníckeho práva, vypožičaním alebo
+nájmom osobám, ktorým Objednávateľ udelil súhlas (sublicenciu) na použitie Autorského diela
+podľa odseku 5.4 tohto článku Servisnej zmluvy, a/alebo osobám, na ktoré Objednávateľ
+postúpil licenciu na použitie Autorského diela podľa odseku 5.5 tohto článku Servisnej zmluvy,
+d) spracovanie, úpravy alebo preklad Autorského diela (tak strojového kódu, ako aj zdrojového
+kódu Autorského diela) samotným Objednávateľom alebo Objednávateľom poverenými tretími
+osobami.
+
+5.3.
+
+Objednávateľ je oprávnený spracované a/alebo upravené a/alebo preložené Autorské dielo
+použiť v rozsahu a spôsobmi uvedenými v odseku 5.2 tohto článku Servisnej zmluvy.
+
+5.4.
+
+Objednávateľ je oprávnený udeliť iným štátnym orgánom Slovenskej republiky a/alebo štátnym
+rozpočtovým organizáciám, a/alebo príspevkovým organizáciám Slovenskej republiky, a/alebo
+obciam, a/alebo vyšším územným celkom, a/alebo iným osobám, na ktoré je/bude prenesený
+výkon štátnej správy v oblasti, pre ktorú bol vytvorený Systém vrátane Autorského diela, a/alebo
+osobám, ktorým Objednávateľ bude poskytovať informácie zo Systému, súhlas (sublicenciu) na
+použitie Autorského diela a/alebo spracovaného, a/alebo upraveného, a/alebo preloženého
+Autorského diela výlučne len v rozsahu licencie udelenej Poskytovateľom Objednávateľovi na
+základe tejto Servisnej zmluvy (odsek 5.2 tohto článku Servisnej zmluvy), k čomu Poskytovateľ
+udeľuje svoj súhlas.
+
+5.5.
+
+Objednávateľ je oprávnený postúpiť licenciu na použitie Autorského diela a/alebo spracovaného,
+a/alebo upraveného a/alebo preloženého Autorského diela v rozsahu podľa odseku 5.2 tohto
+článku Servisnej zmluvy na iné štátne orgány Slovenskej republiky a/alebo štátne rozpočtové
+organizácie a/alebo príspevkové organizácie Slovenskej republiky, a/alebo obce, a/alebo vyššie
+územné celky a/alebo na iné osoby, na ktoré je/bude prenesený výkon štátnej správy v oblasti,
+pre ktorú bol vytvorený Systém vrátane Autorského diela, k čomu Poskytovateľ udeľuje svoj
+súhlas.
+
+5.6.
+
+Ak nie je uvedené inak, Poskytovateľ touto Servisnou zmluvou prevádza na Objednávateľa všetky
+osobitné práva zhotoviteľa databázy, ktoré Poskytovateľ ako zhotoviteľ databázy má k súčastiam
+plnenia predmetu tejto Servisnej zmluvy, ktoré sú databázou, podľa § 135 ods. 1 Autorského
+zákona.
+
+5.7.
+
+Licencia v súlade s týmto článkom Servisnej zmluvy sa udeľuje za odplatu, ktorá je zahrnutá v
+cene podľa tejto Servisnej zmluvy.
+
+5.8.
+
+Poskytovateľ vyhlasuje a zodpovedá za to, že bude osobou oprávnenou vykonávať k Autorskému
+dielu podľa tejto Servisnej zmluvy majetkové práva autora v zmysle § 90 Autorského zákona,
+alebo na základe zmluvy s autorom, spoluautorom alebo vykonávateľom autorských majetkových
+práv k Autorskému dielu najmenej v rozsahu potrebnom na udelenie licencie podľa tejto Servisnej
+zmluvy.
+
+5.9.
+
+Poskytovateľ vyhlasuje a zodpovedá za to že k Autorskému dielu je oprávnený udeliť licenciu v
+rozsahu podľa tejto Servisnej zmluvy, a že mu nie sú známe akékoľvek práva tretích osôb, ktoré
+by bránili použitiu Autorského diela alebo jeho časti Objednávateľom v zmysle licencie podľa tejto
+Servisnej zmluvy.
+
+5.10. Ak sa preukáže vyhlásenie Poskytovateľa podľa ods. 5.8 a/alebo ods. 5.9 tohto článku Servisnej
+zmluvy ako nepravdivé, je Poskytovateľ povinný uvedenú právnu vadu na vlastné náklady
+bezodkladne odstrániť a nahradiť Objednávateľovi všetku škodu, ktorá mu v dôsledku uvedeného
+vznikla.
+5.11. Licencia sa nevzťahuje na Softvérové produkty tretích strán alebo databázy tretích strán, ktoré
+sú dostupné na trhu ako tzv. štandardný SW (resp. aj tzv. krabicový SW - ako napr. systémový
+SW, operačný SW a pod.), a ktorý nebol vytvorený na základe tejto Servisnej zmluvy pre
+Objednávateľa. Na tieto softvérové produkty tretích strán sa budú aplikovať vždy konkrétne
+licenčné podmienky príslušného subjektu vykonávajúceho majetkové práva autora k danému
+softvérovému produktu, pričom Poskytovateľ sa v rámci plnenia predmetu tejto Servisnej zmluvy
+zaväzuje pre Objednávateľa zabezpečiť potrebnú licenciu/sublicenciu v rozsahu, ktorý vyžaduje
+plnenie tejto Servisnej zmluvy.
+5.12. Oprávnenie na výkon práva používať Autorské dielo ako aj spracované a/alebo upravené a/alebo
+preložené Autorské dielo v rozsahu a spôsobmi podľa tohto článku Servisnej zmluvy prechádza
+pri zániku Objednávateľa na jeho právneho nástupcu.
+5.13. Poskytovateľ poskytuje Objednávateľovi nevýhradné právo používať podporné prostriedky a
+konverzné programy. Ustanovenia odsekov 5.2, 5.4, 5.5 a 5.12 tohto článku Servisnej zmluvy sa
+aplikujú na podporné prostriedky a konverzné programy obdobne.
+6. Povinnosti a záväzky Zmluvných strán
+6.1.
+
+Povinnosti Poskytovateľa:
+6.1.1
+
+Poskytovateľ sa zaväzuje pri plnení predmetu Servisnej zmluvy postupovať v súlade
+s touto Servisnou zmluvou, príslušnou legislatívou, s potrebnou odbornou starostlivosťou
+a v súlade so záujmami Objednávateľa.
+
+6.1.2
+
+Poskytovateľ sa zaväzuje bez zbytočného odkladu podávať Objednávateľovi správy o
+priebehu ním poskytovaných Služieb podľa tejto Servisnej zmluvy, tak ako je uvedené
+v Prílohe č. 1 Parametre a podmienky poskytovania Služieb, a to menovite:
+pri Službách podpory prevádzky formou Štatistického hlásenia o vykonaných
+Službách podpory prevádzky,
+
+-
+
+pri Službách rozvoja formou predloženia pravidelne aktualizovaného Plánu
+realizácie zmeny, ktorého súčasťou je aj záznam o vykonaných činnostiach.
+
+6.1.3
+
+Poskytovateľ sa zaväzuje bez zbytočného odkladu informovať Objednávateľa o nových
+skutočnostiach, ktoré vyšli najavo v súvislosti s poskytovaním Služieb, najmä
+o prípadných zistených vadách a nedostatkoch Systému, a súčasne navrhovať opatrenia
+potrebné pre ich odstránenie v súlade s touto Servisnou zmluvou.
+
+6.1.4
+
+Poskytovateľ je povinný pri poskytovaní Služieb dodržiavať a aplikovať povinnosti
+vyplývajúce zo zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o
+zmene a doplnení niektorých zákonov v znení neskorších predpisov, zo zákona č. 3/2010
+Z.z. o národnej infraštruktúre priestorových informácií v znení neskorších predpisov, z
+výnosu Ministerstva financií Slovenskej republiky č. 55/2014 Z. z. o štandardoch pre
+informačné systémy verejnej správy v znení neskorších predpisov, Operačného
+programu Informatizácia spoločnosti, Operačného programu Integrovaná infraštruktúra
+a z ostatnej platnej a účinnej legislatívy Slovenskej republiky všeobecne, a osobitne z
+platnej a účinnej legislatívy priamo sa dotýkajúcej predmetu plnenia tejto Servisnej
+zmluvy, vrátane súvisiacich integrácií.
+
+6.1.5
+
+Poskytovateľ je ďalej povinný:
+udržiavať Systém v súlade s dodanou dokumentáciou,
+udržiavať aktuálnosť používateľskej, servisnej a administrátorskej dokumentácie
+k Systému, vrátane dokumentácie k zdrojovým kódom, prípadne jej doplnkov
+vytvorených počas plnenia tejto Servisnej zmluvy, v súlade s aktuálnym stavom
+Systému,
+zapracovať všetky požadované a schválené zmeny Systému v dohodnutých
+lehotách a v prípadoch, keď lehota nie je stanovená, okamžite informovať
+Objednávateľa a dohodnúť sa s ním na lehote vykonania týchto zmien,
+v prípade potreby bezodkladne špecifikovať a predložiť Objednávateľovi požiadavky
+na potrebný HW a kompatibilitu SW,
+písomne resp. telefonicky a následne písomne reagovať na každú požiadavku
+Objednávateľa zadanú dohodnutým spôsobom nahlasovania prostredníctvom
+HelpDesku, týkajúcu sa predmetu tejto Servisnej zmluvy,
+zabezpečiť, aby Objednávateľ bol okamžite upovedomený o aktuálnych
+legislatívnych zmenách, ktoré sa dotýkajú predmetu tejto Servisnej zmluvy, prípadne
+o zmenách u Poskytovateľa, ktoré majú/môžu mať vplyv na predmet plnenia
+Servisnej zmluvy,
+na základe žiadosti Objednávateľa je Poskytovateľ povinný zabezpečiť prítomnosť
+kvalifikovaných špecialistov, ktorá je nevyhnutná pre poskytovanie Služieb v
+dohodnutom mieste plnenia,
+na základe Požiadavky na zmenu podľa prílohy č. 2 tejto Servisnej zmluvy, predložiť
+Objednávateľovi Formulár Štúdia realizovateľnosti a analýza dopadov podľa prílohy
+č. 3 tejto Servisnej zmluvy.
+
+6.1.6
+
+Poskytovateľ bude plniť jednotlivé časti predmetu Servisnej zmluvy v dohodnutých
+lehotách, ktoré sú určené ustanoveniami Servisnej zmluvy alebo budú písomne
+dohodnuté medzi Zmluvnými stranami.
+
+6.1.7
+
+Ak sa budú na strane Poskytovateľa ako Zmluvnej strany podieľať viaceré subjekty, práva
+z tejto Servisnej zmluvy voči Objednávateľovi môže uplatňovať výlučne vedúci
+Poskytovateľ [●], IČO: [●]. Vedúci Poskytovateľ podľa predchádzajúcej vety je oprávnený
+menovať projektového manažéra Poskytovateľa, vykonávať fakturáciu ceny v mene
+Poskytovateľov, a tiež je za Poskytovateľov výlučne tento oprávnený vykonávať iné práva
+voči Objednávateľovi vyplývajúce z tejto Servisnej zmluvy alebo z právnych predpisov,
+pokiaľ Servisná zmluva (vrátane príloh) v konkrétnom prípade neurčí inak. Subjekty na
+
+strane Poskytovateľa si osobitnou písomnou dohodou určia a vysporiadajú vzájomné
+záväzky a oprávnenia vyplývajúce pre Poskytovateľa z tejto Servisnej zmluvy.
+6.1.8
+
+Projektový manažér Poskytovateľa bude súčasne vedúcim projektového tímu
+Poskytovateľa. Ďalší členovia projektového tímu Poskytovateľa sú uvedení v Prílohe č.
+10 tejto Servisnej zmluvy. Projektový manažér Poskytovateľa bude oprávnený na to, aby
+za Poskytovateľa:
+a)
+b)
+c)
+d)
+e)
+f)
+
+6.1.9
+
+požadoval a umožňoval poskytnutie súčinnosti zo strany Objednávateľa,
+predkladal Objednávateľovi Formulár Štúdia realizovateľnosti a analýza dopadov
+podľa prílohy č. 3 tejto Servisnej zmluvy,
+poskytoval dodatočné lehoty pri omeškaní druhej Zmluvnej strany,
+vybavoval požiadavky na zmenu Objednávateľa,
+dojednával podmienky realizácie požiadavky na zmenu Objednávateľa,
+predkladal aktualizované dokumenty (servisná a administrátorska dokumentácia
+k Systému, vrátane dokumentácie k zdrojovým kódom, prípadne jej doplnkov
+vytvorených počas plnenia tejto Servisnej zmluvy).
+
+Poskytovateľ vyhlasuje, že v čase uzatvorenia Servisnej zmluvy má splnené povinnosti,
+ktoré mu vyplývajú zo Zákona o registri partnerov verejného sektora a tieto povinnosti sa
+zaväzuje plniť počas celého trvania Servisnej zmluvy.
+
+6.1.10 Poskytovateľ môže poveriť tretiu osobu plnením predmetu Servisnej zmluvy iba
+s predchádzajúcim písomným súhlasom Objednávateľa, avšak zodpovedá za plnenie
+predmetu Servisnej zmluvy v plnom rozsahu, akoby ju plnil sám a všetky povinnosti,
+záväzky, záruky a zodpovednosti Poskytovateľa zostávajú zachované v plnom rozsahu.
+Poskytovateľ je povinný zmluvne zabezpečiť dodržanie a zachovanie týchto povinností,
+záväzkov, záruk a zodpovedností treťou osobou.
+6.1.11 Ak má Poskytovateľ v úmysle zadať plnenie predmetu Servisnej zmluvy ďalším
+poskytovateľom (ďalej len „Subdodávateľ“), a to buď v celom rozsahu alebo čiastočne,
+môže tak urobiť iba s predchádzajúcim písomným súhlasom Objednávateľa. Uvedené sa
+neuplatňuje v prípade Subdodávateľov schválených v Prílohe č. 9 Servisnej zmluvy.
+6.1.12 V Prílohe č. 9 tejto Servisnej zmluvy sú uvedené údaje o všetkých známych
+Subdodávateľoch Poskytovateľa, ktorí sú známi v čase uzavretia tejto Servisnej zmluvy,
+a údaje o osobe oprávnenej konať za Subdodávateľa v rozsahu meno a priezvisko.
+6.1.13 Poskytovateľ je povinný Objednávateľovi oznámiť akúkoľvek zmenu údajov u
+Subdodávateľov, uvedených v Prílohe č. 9 tejto Servisnej zmluvy, a to bezodkladne.
+6.1.14 Poskytovateľ je oprávnený zmeniť Subdodávateľa iba s predchádzajúcim písomným
+súhlasom Objednávateľa.
+6.1.15 Poskytovateľ vyhlasuje, že v čase uzatvorenia Servisnej zmluvy, každý zo
+Subdodávateľov spĺňa podmienky stanovené všeobecne záväznými právnymi predpismi
+na úseku verejného obstarávania, najmä podmienky stanovené ustanovením § 32 ods. 1
+Zákona o verejnom obstarávaní, povinnosť byť zapísaný v registri partnerov verejného
+sektora, ako aj všetky ostatné podmienky stanovené všeobecne záväznými právnymi
+predpismi pre týmto subdodávateľom vykonávané práce a/alebo dodávky na predmete
+Servisnej zmluvy. Tieto povinnosti budú plniť počas celého trvania Servisnej zmluvy.
+
+6.1.16 Poskytovateľ bez obmedzenia zodpovedá za odbornú starostlivosť pri výbere
+Subdodávateľa, ako aj za služby vykonané a zabezpečené na základe zmluvy o
+subdodávke.
+6.1.17 Poskytovateľ je povinný informovať Objednávateľa o všetkých faktoch, ktoré by mohli
+negatívne vplývať na predmet plnenia tejto Servisnej zmluvy.
+6.1.18 Pohľadávky Poskytovateľa voči Objednávateľovi vzniknuté na základe tejto Servisnej
+zmluvy nie je možné postúpiť tretej osobe bez predchádzajúceho písomného súhlasu
+Objednávateľa.
+
+6.2.
+
+Povinnosti Objednávateľa:
+6.2.1 Objednávateľ sa zaväzuje, že pri realizácii plnenia predmetu podľa tejto Servisnej zmluvy
+zabezpečí v záujme plynulého priebehu plnenia požadovanú súčinnosť, spočívajúcu
+predovšetkým v poskytnutí potrebných informácií, materiálnych prostriedkov, odovzdaní
+potrebných údajov a podkladov, ako aj spresnení týchto údajov a podkladov. Potreba
+takýchto informácií sa dohodne vopred, prípadne sa preukáže v priebehu plnenia.
+Objednávateľ na základe písomnej požiadavky Poskytovateľa poskytne najmä
+nasledovnú súčinnosť:
+- poskytne Poskytovateľovi v nevyhnutnom rozsahu systémový a vývojový softvér a
+hardvér, ako aj priestory potrebné pre plnenie Služieb podľa tejto Servisnej zmluvy,
+- zabezpečí kontrolovaný prístup v nevyhnutnom rozsahu k hardvéru a softvéru
+pomocou diaľkového prenosu dát, a to v rozsahu dohodnutom s Poskytovateľom,
+pričom Poskytovateľ je povinný rešpektovať ochranu dát Objednávateľa s tým, že
+nenarušia prevádzku ostatných systémov Objednávateľa,
+- poskytne informácie nevyhnutne potrebné pre implementáciu a konfiguráciu
+jednotlivých komponentov Systému, ktoré si Poskytovateľ písomne vopred vyžiada,
+- zabezpečí realizáciu akceptačného testovania podľa pripravených testovacích
+scenárov,
+- zabezpečí prípravu HW infraštruktúry v požadovanej kvalite a rozsahu v súlade s
+dohodnutými pravidlami,
+- zabezpečí VPN prístup pre vybraných pracovníkov Poskytovateľa v nevyhnutnom
+rozsahu,
+- poskytne aktuálnu dokumentáciu podľa potrieb pri plnení predmetu Servisnej
+zmluvy,
+- zabezpečí kontakt na IT odborníkov na strane tretích strán a ich súčinnosť pri
+testovaní rozhraní na SW tretích strán,
+- zabezpečí prevádzkové prostredie, všetky servery, na ktorých je Systém
+prevádzkovaný tak, že akékoľvek balíky služieb (servicepacky) operačných
+systémov a softvérových produktov, ktoré majú dopad na prevádzku Systému,
+nebudú aplikované bez dohody s Poskytovateľom.
+
+6.2.2.
+
+6.3.
+
+Ak Objednávateľ neposkytne Poskytovateľovi oprávnene požadovanú nevyhnutnú
+súčinnosť, plynutie doby stanovenej na vyriešenie Incidentu sa prerušuje.
+
+Objednávateľ poskytne Poskytovateľovi všetky nevyhnutné informácie a materiály, ktoré
+Poskytovateľ odôvodnene požaduje, aby Poskytovateľ mohol poskytnúť plnenie podľa tejto
+Servisnej zmluvy.
+7. Bezpečnosť a ochrana informácií
+
+7.1.
+
+Plnenie tejto Servisnej zmluvy bude realizované v súlade s príslušnými všeobecne záväznými
+právnymi predpismi Slovenskej republiky, ako aj so záväznými právnymi aktmi Európskej únie.
+
+7.2.
+
+Poskytovateľ garantuje, že bude plnenie tejto Servisnej zmluvy vykonávať v súlade so zákonom
+č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov a právnymi predpismi vydanými na jeho vykonanie,
+zákonom č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o
+zmene a doplnení niektorých zákonov (zákon o e - Governmente) v znení neskorších predpisov.
+
+7.3.
+
+Poskytovateľ sa zaväzuje zachovávať mlčanlivosť o všetkých skutočnostiach, s ktorými príde do
+styku počas plnenia tejto Servisnej zmluvy, nevyužije ich pre osobnú potrebu, bez
+predchádzajúceho písomného súhlasu Objednávateľa ich nezverejní ani neposkytne inej osobe
+a to ani po ukončení tejto Servisnej zmluvy.
+
+7.4.
+
+Objednávateľ je povinný oboznámiť Poskytovateľa s pravidlami internej bezpečnostnej politiky,
+ktorá súvisí s predmetom plnenia tejto Servisnej zmluvy. Poskytovateľ sa zaväzuje dodržiavať
+bezpečnostnú politiku Objednávateľa. Poskytovateľ je povinný oboznámiť Objednávateľa so
+všetkými skutočnosťami, ktoré sú v rozpore s bezpečnostnou politikou Objednávateľa, alebo
+môžu zásadne zvyšovať bezpečnostné riziko.
+
+7.5.
+
+Poskytovateľ sa zaväzuje, že
+a) údaje poskytnuté Objednávateľom Poskytovateľovi pri plnení tejto Servisnej zmluvy, ako i
+všetky údaje, ďalšie dokumenty, podklady alebo akékoľvek iné informácie (vrátane všetkých
+súborov, originálov alebo kópií dokumentov alebo poznámok), zaznamenané či už v písomnej,
+v elektronickej alebo v akejkoľvek inej zmyslami vnímateľnej podobe, odovzdané, poskytnuté,
+sprístupnené alebo akýmkoľvek iným spôsobom získané od Objednávateľa (ďalej len
+„dôverné informácie“), bude udržovať v tajnosti a zachovávať o nich mlčanlivosť, bude ich
+chrániť pred zneužitím, poškodením, zničením, znehodnotením, stratou alebo odcudzením,
+nevyzradí ich, nesprístupní ich, nezverejní ich, nebude ich šíriť, nebude ich používať inak ako
+na plnenie podľa tejto Servisnej zmluvy, nevyužije ich vo vlastný prospech, ani v prospech
+akejkoľvek tretej osoby, ani ich nebude používať v rozpore s týmto záväzkom a ani akékoľvek
+z dôverných informácií neodovzdá, ani neposkytne inej osobe, a to počas, ani po ukončení
+Servisnej zmluvy, a že okamžite po ukončení Servisnej zmluvy vráti Objednávateľovi
+a/alebo vymaže, zničí všetky dôverné informácie;
+b) zabezpečí riadne a včasné utajenie a zachovanie mlčanlivosti o dôverných informáciách
+v rozsahu podľa písm. a) tejto Servisnej zmluvy aj u všetkých osôb podieľajúcich sa na plnení
+Servisnej zmluvy;
+c) zabezpečí ochranu dôverných informácií v súlade s ďalšími ustanoveniami tejto Servisnej
+zmluvy v neobmedzenom vecnom, územnom a časovom rozsahu;
+d) dôverné informácie neposkytne v akejkoľvek podobe tretím osobám bez predchádzajúceho
+písomného súhlasu Objednávateľa, a tieto informácie nepoužije pre iné účely, ako na plnenie
+podľa tejto zmluvy.
+8. Sankcie
+
+8.1
+
+Ak Poskytovateľ nedodrží lehoty plnenia podľa Servisnej zmluvy, je Objednávateľ oprávnený
+požadovať od Poskytovateľa zmluvnú pokutu
+a) vo výške 100 EUR za každú začatú hodinu omeškania s poskytnutím Služieb podpory
+prevádzky nad rámec príslušnej Reakčnej doby;
+b) vo výške 500 EUR za každý začatý deň omeškania s poskytnutím Služieb rozvoja nad rámec
+príslušného harmonogramu plnenia určeného v Objednávke realizácie zmeny.
+
+8.2
+
+Ak Poskytovateľ poruší záväzky vyplývajúce mu z tejto Servisnej zmluvy a/alebo v tejto Servisnej
+zmluve uviedol nepravdivé vyhlásenia a to vzhľadom na povinnosti vyplývajúce zo Zákona
+o registri partnerov verejného sektora, použitia Subdodávateľov a/alebo ochrany dôverných
+informácii podľa čl. 7 Servisnej zmluvy, Objednávateľovi vzniká voči Poskytovateľovi právo na
+zmluvnú pokutu vo výške 5000 EUR za každé jednotlivé porušenie Servisnej zmluvy.
+
+8.3
+
+V prípade omeškania Objednávateľa s úhradou faktúr môže Poskytovateľ uplatňovať z dlžných
+čiastok úrok z omeškania podľa nariadenia vlády Slovenskej republiky č. 21/2013 Z.z., ktorým sa
+vykonávajú niektoré ustanovenia Obchodného zákonníka v znení neskorších predpisov.
+
+8.4
+
+Zmluvná pokuta alebo úrok z omeškania sú splatné do 30 dní od vyčíslenia a doručenia druhej
+Zmluvnej strane na základe faktúry vystavenej dotknutou Zmluvnou stranou, ak sa nedohodnú
+Zmluvné strany písomne inak.
+
+8.5
+
+Zmluvné strany sa dohodli, že uplatnením práva na zmluvnú pokutu nie je dotknuté akékoľvek
+iné právo Objednávateľa, vrátane práva na náhradu škody, a tieto práva si môže Objednávateľ
+uplatňovať v plnom rozsahu.
+
+9. Ostatné dojednania
+9.1
+
+Poskytovateľ bude poskytovať Služby podľa tejto Servisnej zmluvy v sídle Objednávateľa a/alebo
+prostredníctvom vzdialeného prístupu, ak sa Zmluvné strany nedohodnú inak.
+
+9.2
+
+Objednávateľ do 15 dní odo dňa nadobudnutia účinnosti Servisnej zmluvy dodá Poskytovateľovi
+zoznam Kontaktných osôb a Kľúčových používateľov. Ak počas plnenia tejto Servisnej zmluvy
+dôjde k zmene Kontaktných osôb alebo Kľúčových používateľov, je Objednávateľ povinný
+písomne oznámiť túto zmenu Poskytovateľovi v lehote 15 kalendárnych dní odo dňa zmeny.
+
+9.3
+
+Objednávateľ dodá Poskytovateľovi aktuálnu dokumentáciu k Systému do 15 dní odo dňa
+nadobudnutia účinnosti Servisnej zmluvy.
+
+9.4
+
+Poskytovateľ je povinný mať počas celej doby trvania tejto Servisnej zmluvy platne uzatvorenú
+Poistnú zmluvu. Poistný certifikát, potvrdzujúci uzavretie Poistnej zmluvy tvorí Prílohu č. 11
+Servisnej zmluvy.
+
+9.5
+
+Poskytovateľ je povinný do 15 pracovných dní odo dňa podpisu tejto zmluvy predložiť
+objednávateľovi:
+9.5.1 platný certifikát o zavedení systému manažérstva IT služieb, vydaný nezávislou
+inštitúciou, ktorým sa potvrdzuje splnenie podmienok vyplývajúcich z normy ISO 20000.
+Poskytovateľ môže využiť systémy manažérstva IT služieb vyplývajúce z európskych
+noriem. Objednávateľ uzná ako rovnocenné osvedčenia vydané príslušnými orgánmi
+členských štátov Európskej únie;
+9.5.2 platný certifikát o zavedení systému manažérstva informačnej bezpečnosti v oblasti
+informačných technológií, vydaný nezávislou inštitúciou, ktorým sa potvrdzuje splnenie
+podmienok vyplývajúcich z normy ISO 27001. Poskytovateľ môže využiť systémy
+manažérstva informačnej bezpečnosti v oblasti informačných technológií vyplývajúce z
+európskych noriem. Objednávateľ uzná ako rovnocenné osvedčenia vydané
+príslušnými orgánmi členských štátov Európskej únie;
+9.5.3 oprávnenia, certifikáty, autorizácie alebo iné doklady výrobcu, alebo výrobcom
+autorizovaného dovozcu/distribútora pre Slovenskú republiku, že Poskytovateľ alebo
+jeho Subdodávateľ, disponuje licenciou vo vzťahu k všetkým SW komponentom
+Systému, ktoré sú dotknuté predmetom plnenia podľa tejto Servisnej zmluvy.
+
+10. Ukončenie Servisnej zmluvy
+10.1. Servisná zmluva sa ukončuje:
+10.1.1 písomnou dohodou Zmluvných strán,
+10.1.2 uplynutím doby, na ktorú bola uzatvorená,
+
+10.1.3 písomným odstúpením niektorej zo Zmluvných strán,
+10.1.4 písomnou výpoveďou Objednávateľa aj bez uvedenia dôvodu s výpovednou lehotou dva
+mesiace, ktorá začína plynúť prvým dňom kalendárneho mesiaca nasledujúceho po
+mesiaci, v ktorom bola výpoveď doručená Poskytovateľovi.
+10.2 Táto Servisná zmluva sa uzatvára na dobu určitú, a to na dobu 48 mesiacov odo dňa jej účinnosti.
+10.3 Objednávateľ je oprávnený okamžite odstúpiť od Servisnej zmluvy, ak:
+10.3.1 Poskytovateľ poruší akúkoľvek svoju povinnosť vyplývajúcu zo Servisnej zmluvy, nakoľko
+sa Zmluvné strany dohodli, že akékoľvek porušenie zmluvnej povinnosti Poskytovateľom
+sa považuje za podstatné porušenie jeho zmluvnej povinnosti podľa § 345 Obchodného
+zákonníka,
+10.3.2 Poskytovateľ sa stane spoločnosťou v kríze (§ 67a a nasl. Obchodného zákonníka),
+10.3.3 Poskytovateľ sa zlúči alebo splynie s inou obchodnou spoločnosťou alebo sa rozdelí
+alebo vstúpi do likvidácie a/alebo
+10.3.4 Existuje dôvod podľa § 19 Zákona o verejnom obstarávaní.
+10.4 Poskytovateľ je oprávnený odstúpiť od Servisnej zmluvy v súlade s príslušnými ustanoveniami
+Obchodného zákonníka, najmä ak je Objednávateľ v omeškaní s platením svojich peňažných
+záväzkov a toto omeškanie trvá po dobu dlhšiu než 45 dní po písomnom upozornení zo strany
+Poskytovateľa.
+10.5
+
+Účinky odstúpenia od Servisnej zmluvy nastávajú doručením listiny o odstúpení druhej Zmluvnej
+strane. Odstúpenie od Servisnej zmluvy je považované za doručené druhej Zmluvnej strane jeho
+prevzatím alebo odmietnutím jeho prevzatia druhou Zmluvnou stranou. Ustanovenie čl. 11 ods.
+11.2 Servisnej zmluvy tým nie je dotknuté.
+
+10.6 Odstúpením od Servisnej zmluvy niektorou zo Zmluvných strán sa Servisná zmluva zrušuje ku
+dňu doručenia odstúpenia druhej Zmluvnej strane, pričom účinky odstúpenia sa spravujú
+príslušnými ustanoveniami Obchodného zákonníka. V prípade odstúpenia od tejto Servisnej
+zmluvy si Zmluvné strany ponechajú doposiaľ poskytnuté plnenia vykonané v súlade s
+podmienkami uvedenými v tejto Servisnej zmluve a jej prílohách a úhrady za ne. Ohľadom plnení,
+ktoré neboli riadne ukončené ku dňu zániku Servisnej zmluvy, pripraví Poskytovateľ ich
+inventarizáciu a Objednávateľ bude oprávnený, nie však povinný, ich prevziať, pokiaľ uhradí
+príslušnú časť zmluvnej ceny zodpovedajúcu miere rozpracovanosti podľa dohody Zmluvných
+strán.
+10.7 Odstúpením od Servisnej zmluvy nezanikajú tie práva a povinnosti Zmluvných strán, ktoré podľa
+prejavenej vôle Zmluvných strán majú trvať aj po zániku tejto Servisnej zmluvy.
+10.8 V prípade, ak dôjde k zániku tejto Servisnej zmluvy v dôsledku odstúpenia niektorej zo
+Zmluvných strán od Servisnej zmluvy, Poskytovateľ ukončí poskytovanie Služieb podľa Servisnej
+zmluvy, je však povinný Objednávateľa upozorniť na opatrenia potrebné na to, aby sa zabránilo
+vzniku škody bezprostredne hroziacej Objednávateľovi nedokončením začatých plnení.
+10.9 Zánik tejto Servisnej zmluvy nemá vplyv na práva a povinnosti Zmluvných strán, ktoré vznikli
+počas existencie Servisnej zmluvy a podľa svojej povahy majú trvať naďalej, predovšetkým na
+záväzky súvisiace s bezpečnosťou a ochranou informácií.
+11. Záverečné ustanovenia
+11.1 Zmluvné strany sa dohodli, že záväzkové vzťahy, ktoré nie sú výslovne upravené touto Servisnou
+zmluvou, sa riadia príslušnými ustanoveniami Obchodného zákonníka.
+
+11.2 Zmluvné strany sa dohodli, že písomná komunikácia podľa tejto Servisnej zmluvy alebo v
+súvislosti s touto Servisnou zmluvou sa bude doručovať doporučene poštou, kuriérom alebo
+osobne na adresu uvedenú v záhlaví tejto Zmluvy alebo na inú adresu písomne oznámenú druhej
+Zmluvnej strane počas trvania tejto Servisnej zmluvy. Za deň doručenia sa považuje deň
+prevzatia písomnosti. V prípade, ak adresát odmietne písomnosť prevziať, za deň doručenia sa
+považuje deň odmietnutia prevzatia písomnosti. V prípade, ak si adresát neprevezme písomnosť
+v úložnej lehote na pošte, písomnosť sa považuje za doručenú na 3. deň odo dňa jej vrátenia
+odosielateľovi, a to aj vtedy, ak sa adresát o tom nedozvie. V prípade, ak sa písomnosť vráti
+odosielateľovi s označením pošty „adresát neznámy“ alebo „adresát sa odsťahoval“ alebo s inou
+poznámkou podobného významu, za deň doručenia sa považuje deň vrátenia zásielky
+odosielateľovi.
+11.3 V prípade, ak akékoľvek ustanovenie tejto Servisnej zmluvy je, alebo sa stane neplatným,
+neúčinným a/alebo nevykonateľným, nie je tým dotknutá platnosť, účinnosť a/alebo
+vykonateľnosť ostatných ustanovení Servisnej zmluvy, pokiaľ to nevylučuje v zmysle príslušných
+právnych predpisov samotná povaha takého ustanovenia. Zmluvné strany sa zaväzujú bez
+zbytočného odkladu po tom, ako zistia, že niektoré z ustanovení tejto Servisnej zmluvy je
+neplatné, neúčinné a/alebo nevykonateľné, nahradiť dotknuté ustanovenie ustanovením novým,
+ktorého obsah bude v čo najväčšej miere zodpovedať vôli Zmluvných strán v čase uzatvorenia
+tejto Servisnej zmluvy.
+11.4 Prípadný spor, ktorý vznikne medzi Zmluvnými stranami v súvislosti s touto Servisnou zmluvou
+a jej plnením, sa Zmluvné strany zaväzujú riešiť prednostne dohodou na úrovni štatutárnych
+orgánov oboch Zmluvných strán. Pokiaľ Zmluvné strany nedospejú k dohode ohľadom riešeného
+sporu, požiada jedna zo Zmluvných strán o rozhodnutie príslušný súd Slovenskej republiky.
+11.5 Ustanovenia tejto Servisnej zmluvy je možné meniť len na základe písomnej dohody Zmluvných
+strán formou písomných a očíslovaných dodatkov k Servisnej zmluve, podpísaných Zmluvnými
+stranami.
+11.6 Servisná zmluva sa vyhotovuje v šiestich rovnopisoch v slovenskom jazyku, z ktorých
+Objednávateľ dostane štyri a Poskytovateľ dva rovnopisy.
+11.7 Zmluvné stany vyhlasujú, že Servisnú zmluvu uzatvárajú na základe ich skutočnej, slobodnej a
+vážnej vôle, ktorú prejavili určito a zrozumiteľne, Servisnú zmluvu uzatvorili dobromyseľne a v
+dobrej viere a neuzatvorili ju v omyle, ani pod nátlakom a ani za nápadne nevýhodných
+podmienok, Servisnú zmluvu si prečítali, jej obsahu porozumeli a na znak súhlasu s obsahom
+Servisnej zmluvy ju vlastnoručne podpísali.
+11.8 Servisná zmluva nadobúda platnosť dňom podpisu Zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády
+Slovenskej republiky v súlade s § 47a zákona č. 40/1964 Zb. Občiansky zákonník v znení
+neskorších predpisov a s § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o
+zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších
+predpisov.
+11.9 Neoddeliteľnou súčasťou tejto Servisnej zmluvy sú prílohy:
+Príloha č. 1 – Parametre a podmienky poskytovania Služieb
+Príloha č. 2 – Formulár Požiadavka na zmenu
+Príloha č. 3 – Formulár Štúdia realizovateľnosti a analýza dopadov
+Príloha č. 4a – Formulár Cenová kalkulácia
+Príloha č. 4b – Formulár Objednávka na realizáciu zmeny
+Príloha č. 5 – Formulár Plán realizácie zmeny
+Príloha č. 6 – Formulár Akceptačný protokol
+
+Príloha č. 7 – Formulár Štatistické hlásenie o vykonaných Službách podpory prevádzky
+Príloha č. 8 – Cenník jednotkových sadzieb Poskytovateľa pre Služby rozvoja
+Príloha č. 9 - Zoznam subdodávateľov
+Príloha č. 10 – Zoznam expertov
+Príloha č. 11 – Poistný certifikát
+Príloha č.12 – Všeobecné podmienky o zabezpečení Informačnej bezpečnosti Ministerstva
+životného prostredia Slovenskej republiky
+
+Za Poskytovateľa:
+
+Za Objednávateľa:
+
+V ........................dňa.........................
+
+V Bratislave dňa..........................
+
+.....................................................
+SEVITECH a. s.
+Ing. Jaroslav Murár
+predseda predstavenstva
+
+......................................................
+Ministerstvo životného prostredia
+Slovenskej republiky
+Ing. László Sólymos
+minister
+
+.....................................................
+SEVITECH a. s.
+Jaroslav Gajdoš
+člen predstavenstva
+
+Príloha č. 1 – Parametre a podmienky poskytovania Služieb
+Obsah prílohy
+1.
+
+Opis súčasného stavu .............................................................................................................. 2
+
+2.
+
+Služby podpory prevádzky ....................................................................................................... 4
+2.1 Zoznam činností vykonávaných v rámci Služieb podpory prevádzky ..................................... 4
+2.2 Helpdesk ............................................................................................................................... 5
+2.3 Parametre kvality poskytovanej služby .................................................................................. 6
+2.4 Akceptačné konanie .............................................................................................................. 7
+2.5 Podpora SW produktov 3. strán ............................................................................................. 8
+
+3. Služby rozvoja........................................................................................................................... 10
+3.1 Postup objednania Služby rozvoja ....................................................................................... 10
+3.2 Parametre kvality poskytovanej služby ................................................................................ 10
+3.3 Akceptačné konanie ............................................................................................................ 11
+3.4 Hodnotenie kvality poskytnutej služby ................................................................................. 11
+
+1. Opis súčasného stavu
+Služby podpory prevádzky a Služby rozvoja budú poskytované pre systém Register priestorových informácií, ktorý bol
+realizovaný v rámci Národného projektu: „Register priestorových informácií (RPI)“.
+RPI pozostáva z nasledovných súčastí (komponent), ku ktorým sa viažu služby podpory a prevádzky a služby rozvoja:
+
+Portál CMS
+Komponent portál CMS poskytuje základnú funkčnosť správy obsahu povinnými osobami v zmysle Zákona o NIPI a
+publikovania jeho obsahu najmä v súvislosti s problematikou RPI a agendy INSPIRE. Zároveň predstavuje hlavný
+prístupový bod RPI – webové sídlo RPI, odkiaľ je možná ďalšia navigácia k používateľským rozhraniam RPI klienta.
+Riešenie je možné z hľadiska základnej topológie rozdeliť na dve časti – publikačnú a redakčnú. Komponenty publikačnej
+časti Portálu CMS vytvárajú samotné webové sídlo RPI. Sú umiestnené vo verejnej zóne. Komponenty redakčnej časti sú
+umiestnené v intranetovej zóne. Obe časti riešenia sú vzájomne prepojené prostredníctvom integračného rozhrania vo
+forme webovej služby na báze protokolu SOAP, ktoré je zapojené do zbernice služieb.
+
+Zbernica služieb
+Zbernica služieb (Enterprise Service Bus, ESB) je mediačným komponentom zabezpečujúcim integráciu externých
+systémov a jednotlivých autonómnych častí riešenia a externých systémov v zmysle architektúry orientovanej na služby.
+Zbernica služieb je vybudovaná na produkte Microsoft Biztalk Server 2013 R2 Standard. Pre jednotlivé databázy zbernice
+služieb bude využitý spoločný databázový server Microsoft SQL Server 2014 Standard.
+
+RPI repozitár
+Komponent RPI repozitár predstavuje základnú bázu na ukladanie údajov, s ktorými RPI pracuje. Komponent RPI
+repozitár pozostáva zo štyroch základných častí – Register služieb, Register metaúdajov, Register Používateľov,
+Monitoring repozitár.
+
+Server sieťových služieb
+Komponent Server sieťových služieb tvorí aplikačnú vrstvu RPI. Komponent Server sieťových služieb pozostáva
+z nasledovných základných časti – CSW server, ETL server, Gazeteer server, Harvest server, MDE server, Mapový
+server, Monitoring a reporting server, Transformačné služby, Validačný server.
+
+Tenký klient RPI
+Tenký klient predstavuje základné rozhranie pre koncových používateľov RPI a poskytovateľov priestorových údajov pre
+prístup k vyhľadávacím službám a službám na prácu s metaúdajmi.
+Klient pozostáva zo základných častí, ktoré je možné sémanticky rozdeliť na prezentačnú vrstvu, ktorá slúži na
+poskytovanie údajov neregistrovaným používateľom a časť pre registrovaných používateľov. Prezentačná časť je tvorená
+vyhľadávacím klientom, mapovým klientom, dms klientom a metaúdajovým editorom. Okrem týchto základných
+komponentov, sú súčasťou Tenkého klienta RPI aj ďalšie komponenty, ktoré ponúkajú rozšírenie základných funkcionalít
+Tenkého klienta RPI. Ide o Terminologický slovník RPI, ktorý umožní vyhľadávanie odborných termínov súvisiacich s RPI,
+INSPIRE, NIPI, priestorovými údajmi a ich vysvetlenie. Ďalšou aplikáciou je Validačná služba, ktorá umožňuje validovanie
+metaúdajových záznamov a služieb priestorových údajov aj neregistrovaným používateľom RPI. Posledným
+komponentom je Transformačná služba, ktorá slúži na transformáciu priestorových údajov na báze transformačnej služby
+ÚGKK SR. Komponent slúži ako rozhranie na realizáciu všetkých eGov služieb ISVS RPI. Komponent zahŕňa aj mobilnú
+aplikáciu.
+
+Admin Tool RPI
+Komponent AdminTool RPI je určený administrátorovi systému RPI, na správu nastavení jednotlivých komponentov RPI.
+Ide o intranetovú webovú aplikáciu. Komponent umožňuje administrátorovi RPI spravovať:
+
+
+Používateľov a ich práva
+
+
+
+Mapový server
+2
+
+
+
+Katalógový server
+
+
+
+Katalóg metaúdajov registrovaných v RPI
+
+
+
+ETL
+
+
+
+Validačný server
+
+
+
+Tvorba monitorovacej správy INSPIRE za celú Slovenskú republiku
+
+
+
+Správa DMS
+
+Dokumentový dátový sklad
+Biznis a dátová vrstva systému DMS vo forme webových služieb. Poskytuje všetky potrebné metódy pre manipuláciu
+s databázovým úložiskom, dokumentovými metaúdajmi a samotným obsahom. Implementuje biznis metódy pre
+vyhľadávanie v metaúdajoch, vyhľadávanie podľa kľúčových slov v obsahu a indexovanie obsahu. Služby sú využívané
+verejnou aj admin časťou DMS klienta.
+
+Komunikačné rozhrania integračnej vrstvy
+Integračné rozhrania RPI predstavujú komunikačné kanály a rozhrania pre integráciu RPI na Ústredný portál verejnej
+správy (UPVS) a verejné registre – register fyzických osôb (RFO), register právnických osôb (RPO) a register adries (RA).
+
+Infraštruktúra
+Reprezentuje hardvérový, dátový a aplikačný komponent, nad ktorým je prevádzkovaný Systém.
+Detailná špecifikácia jednotlivých komponentov bude zaznamenaná v dokumentácii k Systému.
+
+3
+
+2. Služby podpory prevádzky
+Služby podpory prevádzky zahŕňajú zabezpečovanie bežnej servisnej podpory, ako aj poskytovanie podpory
+pre zaistenie spoľahlivej, kontinuálnej a bezpečnej prevádzky RPI (ďalej len Systému) v súlade s aktuálnymi
+platnými legislatívnymi požiadavkami v zmysle zmluvného bodu 6.1.4, vrátanie riešenia Incidentov.
+Rozšírený popis Služby:
+a) odstraňovanie Incidentov Systému, resp. poskytnutie náhradného riešenia pri riešení Incidentov,
+b) poskytnutie služieb v súvislosti s posudzovaním a riešením Incidentov v Systéme, ktoré boli spôsobené
+nesprávnym fungovaním Systému,
+c) pravidelná kontrola funkčnosti Systému a jeho častí, vrátane monitoringu (monitorovanie systému),
+d) pravidelná kontrola nastavenia Systému podľa posledného odsúhlaseného stavu konfigurácie Systému
+v dokumentácii k Systému,
+e) profylaktické práce v rozsahu definovanom v dokumentácii k Systému,
+f) kontrola a vyhodnocovanie záznamov z aplikačných logov,
+g) proaktívne upozorňovanie Objednávateľa Poskytovateľom na potrebné a vhodné úpravy a zmeny Systému
+h) servisná podpora licencovaných SW produktov 3. strán – ich správa, poskytovanie a inštalácia nových
+verzií.
+
+2.1 Zoznam činností vykonávaných v rámci Služieb podpory prevádzky
+Služby podpory prevádzky zahŕňajú nasledovné činnosti:
+a) riadenie a poskytovanie servisných služieb a činností HelpDesku,
+b) vedenie evidencie nahlásených Incidentov,
+c) prevádzka strediska HelpDesku,
+d) zber a evidencia Incidentov,
+e) identifikácia problému, jeho analýza a samotné riešenie,
+f) poskytovanie konzultácii o Incidentoch,
+g) poskytovanie mailového/telefonického HelpDesku Objednávateľovi, a užívateľom systému,
+h) projektové riadenie servisných činností,
+i) riešenie eskalácií,
+j) monitoring a poskytovanie údajov na základe špecifikácie Objednávateľa (napr. pre Centrálny
+metainformačný systém verejnej správy, monitoring kvality INSPIRE služieb, požiadavky
+monitorovacích správ a pod.)
+k) poskytovanie reportovania a štatistických hlásení, strojovo spracovateľným spôsobom s podporou
+publikácie reportov v internetovom prostredí na základe požiadaviek Objednávateľa,
+l) profylaktika Systému – tieto činnosti sú realizované pravidelne na dennej báze a zahŕňajú nasledovné:
+- pravidelná kontrola funkčnosti aplikácie, softvérového vybavenia,
+- pravidelná kontrola nastavenia systému podľa naposledy odsúhlaseného stavu Systému,
+kontrola synchronizácie služieb v prípade clustrovaných služieb, kontrola správnosti smerovania,
+- pravidelná kontrola parametrov systému definovaných v akceptačných a výkonnostných testoch
+- logovanie činností Systému za účelom optimálnej prevádzky, vyhodnocovania incidentov
+a zabezpečenia monitoringu
+- kontrola a vyhodnocovanie záznamov zo systémových logov, aplikačných logov,
+- kontrola prostredia, v ktorom beží Systém,
+- udržiavanie dokumentácie v aktuálnosti – inštalačnej, prevádzkovej, administrátorskej,
+užívateľskej a zdrojových kódov s notifikáciou zmien a sprístupnením aktualizovaných verzií
+Objednávateľovi
+4
+
+m) reportovanie zamerané na spracovávanie požadovaných reportov o Incidentoch a operatívnych
+informácií o ich riešení,
+n) upgrade, hardvérová, softvérová a technická podpora pre kľúčové softvérové komponenty Systému.
+Zabezpečenie plného administrátorského prístupu zástupcu Objednávateľa k Systému.
+2.2 Helpdesk
+Na podporu, údržbu a úpravy Systému bude Poskytovateľ prevádzkovať Helpdesk, ktorý bude poskytovať
+službu tímu druhoúrovňovej podpory, ako aj nasledovné funkcie:
+ garantovaná dostupnosť Služieb helpdesku počas pracovných dní v čase od 8:00 do 16:30,
+ garantovaná spätná väzba po vyriešení Incidentu,
+ monitorovanie priebehu pri riešení Incidentov,
+ garantované doby riešenia Incidentov,
+ evidenciu všetkých Incidentov, ich kategorizáciu, vyhodnocovanie, a následné reportovanie,
+ eskalácia riešenia požiadaviek zo strany Kľúčových používateľov.
+Nahlasovanie incidentov
+Objednávateľ dodá Poskytovateľovi zoznam oprávnených Kontaktných osôb a Kľúčových používateľov.
+Kontaktné osoby sú výhradne oprávnené nahlasovať Incidenty zo strany Objednávateľa na helpdesk
+Poskytovateľa. Kľúčoví používatelia sú oprávnení komunikovať s pracovníkmi Poskytovateľa v rámci riešenia
+Incidentu. Zoznam oprávnených Kontaktných osôb a Kľúčových používateľov bude obsahovať kontaktné údaje
+– mená, priezviská, telefónne čísla, emailové adresy pracovníkov Objednávateľa. Objednávateľ sa zaväzuje
+udržiavať zoznam aktuálny a prípadné zmeny v tomto zozname (aktualizácie zoznamu) písomne oznámiť
+Poskytovateľovi do 15 kalendárnych dní od vykonania zmeny.
+Objednávateľ bude pri využívaní Služieb helpdesk nahlasovať incidenty :
+1. prostredníctvom používateľského rozhrania aplikácie určenej na helpdesk.
+Systém musí umožňovať sledovanie
+- termínu nahlásenia incidentu
+- Prijatia incidentu
+- Zmeny stavu incidentu
+- Vyriešenie incidentu
+- Odstúpenie incidentu na riešenie alebo otestovanie Objednávateľovi
+- Opätovné spracovanie incidentu v prípade neakceptácie objednávateľom.
+Súčasťou používateľského rozhrania musí byť možnosť nahrať viaceré prílohy k incidentu (obrázky,
+dokumenty a pod.) a sledovať komunikáciu medzi Objednávateľom a Poskytovateľom v logu komunikácie.
+Systém musí byť dostupný pod otvorenou licenciou a s otvoreným zdrojovým kódom v prostredí internetu
+s podporou zasielania e-mail notifikácií s obsahom jednotlivých stavových zmien, podporovať viacúrovňový
+autorizovaný prístup, vrátane možnosti verejného (bez podpory prihlásenia) a referencovateľného
+(prostredníctvom jedinečnej a nemennej URL pre každý stav incidentu) prístupu. Systém taktiež musí
+zabezpečiť štruktúrovaný zber problémov a podnetov identifikovaných Koncovými používateľmi.
+2. V prípade potreby môžu oprávnené osoby komunikovať telefonicky, pričom obsah komunikácie bude zaznamenaný
+následne Poskytovateľom v aplikácii určenej na poskytovanie služieb helpdesku. Objednávateľ zabezpečí tím
+
+prvoúrovňovej podpory helpdesku pre Koncových používateľov. Bude zabezpečovať príjem dotazov,
+požiadaviek a chýb od Koncových používateľov, evidenciu prijatých dotazov, požiadaviek a chýb, identifikáciu
+a riešenie prijatých dotazov, požiadaviek a chýb v rámci získaných poznatkov zo školení. Zároveň bude
+komunikovať s tímom druhoúrovňovej podpory u Poskytovateľa. Túto službu bude poskytovať počas pracovných
+dní okrem štátnych sviatkov v časoch od 8:00 do 16:30.
+
+5
+
+2.3 Parametre kvality poskytovanej služby
+Vzhľadom na charakter poskytovaných služieb, bude systém prevádzkovaný ako nekritický z hľadiska vysokej
+dostupnosti a nepretržitej prevádzky, pri garancii zabezpečení súvisiacich legislatívnych požiadaviek v zmysle
+zmluvného bodu 6.1.4:
+a) Služby dostupné v režime počas pracovných dní v čase od 8:00 do 16:30
+b) Pre SLA dostupnosť služieb sa počítajú len Incidenty spôsobujúce úplnú nedostupnosť alebo zásadné
+obmedzenie funkcionality, v dôsledku ktorého nie sú služby poskytované počas doby trvania Incidentu
+c) Pre určenie dostupnosti systému sa započítava trvanie incidentu medzi 08:00 – 16:30 od pondelka do
+piatku, s výnimkou dní pracovného pokoja, pokiaľ nie je uvedené inak. Výnimky zo základnej doby
+pokrytia budú možné po dohode Zmluvných strán.
+d) Výpadok služby počas schválenej odstávky sa nezarátava do dostupnosti služby.
+V prípade služieb poskytovaných Systémom v kontexte INSPIRE sieťových služieb budú zabezpečené
+kvalitatívne parametre služieb definované prostredníctvom Nariadenia komisie (ES) č. 976/2009, ktorým sa
+vykonáva smernica Európskeho parlamentu a Rady 2007/2/ES, pokiaľ ide o sieťové služby.
+Kvalita Služieb podpory prevádzky je definovaná nasledujúcimi ukazovateľmi:
+1. Garantovaná dostupnosť Helpdesku
+ Garantovaná dostupnosť Helpdesku počas bežných pracovných dní je od 8:00 do 16:30.
+2. Reakčné doby
+ Poskytovateľ sa zaväzuje dodržiavať nasledovnú garantovanú dobu odozvy a dobu riešenia Incidentov
+(čas je počítaný iba v rámci daného časového pokrytia garantovanej dostupnosti Helpdesku od
+okamihu nahlásenia Incidentu a prerušuje sa po dobu omeškania s poskytnutím požadovanej
+oprávnenej súčinnosti zo strany Objednávateľa):
+Kategória Incidentu
+
+Fáza plnenia (riešenia Incidentu)
+
+Reakčná doba
+(pracovné dni od 8:00 do
+16:30)
+
+Kritický
+
+Doba odozvy
+Prvotná odozva
+Doba zabezpečenia náhradného riešenia
+Doba trvalého vyriešenia
+
+1 hod
+8 hod
+48 hod
+72 hod
+
+Normálny
+
+Doba odozvy
+Prvotná odozva
+Doba zabezpečenia náhradného riešenia
+Doba trvalého vyriešenia
+
+2 hod
+24 hod
+72 hod
+120 hod
+
+Nízky
+
+Doba odozvy
+Prvotná odozva
+Doba zabezpečenia náhradného riešenia
+Doba trvalého vyriešenia
+
+24 hod
+72 hod
+120 hod
+240 hod
+
+6
+
+2.4 Akceptačné konanie
+Poskytovateľ sa zaväzuje poskytovať Služby podpory prevádzky sústavne počas trvania Servisnej zmluvy,
+pričom akceptácia tohto plnenia je vykonaná automaticky na mesačnej báze na konci daného mesiaca.
+Fakturácia je vykonávaná mesačne elektronicky a písomne, pričom prílohou faktúry je Štatistické hlásenie o
+vykonaných Službách podpory prevádzky obsahujúce Report o Incidentoch, monitoring a poskytovanie údajov
+na základe požiadaviek Objednávateľa a Report o profylaktických činnostiach, ktorý nie je predmetom
+schvaľovania ani hodnotenia úrovne poskytovania služieb.
+
+Report o incidentoch
+Poskytovateľ zabezpečí emailové zasielanie štatistických hlásení Objednávateľovi (prostredníctvom
+Kontaktných osôb) vo forme podrobných reportov o vykonaných službách podpory. Názov zasielaného súboru
+je SYSTÉM_RRRR_MM.xlsx (kde RRRR je aktuálny rok a MM aktuálny mesiac). Podrobný report za každý
+kalendárny mesiac bude Objednávateľovi doručený najneskôr k 5. dňu nasledujúceho kalendárneho mesiaca
+a bude obsahovať minimálne nasledujúce informácie za každý Incident:
+Údaj
+TicketNumber
+Typ
+Dátum a čas prijatia
+Reakčné doby plnenia
+incidentu
+Plán riešenia
+Riešenie
+Názov
+Kontakt zákazníka
+Konfiguračná položka
+Stav
+Spokojnosť zákazníka
+
+Popis predmetu
+Popis riešenia
+
+Popis
+Evidenčné číslo servisného hlásenia v systéme Poskytovateľa
+Typ Servisnej požiadavky (Incident, Problém, Požiadavka na zmenu, iná
+Servisná požiadavka)
+Dátum a čas prijatia Servisnej požiadavky na strane Poskytovateľa
+Reakčné doby plnenia incidentu s časovým vymedzením pre jednotlivé fázy
+Dátum a čas požadovaného riešenia Servisnej požiadavky v zmysle
+definovaného časového rozsahu Služieb
+Dátum a čas skutočného riešenia Servisnej požiadavky
+Predmet Servisnej požiadavky – stručný názov
+Oprávnená kontaktná osoba, ktorá nahlásila Servisnú požiadavku
+Dotknutá konfiguračná položka, ktorá je predmetom Servisnej požiadavky
+Stav riešenia Servisnej požiadavky
+Hodnotenie spokojnosti zákazníkom
+V prípade použitia evidenčného softwarového nástroja, Poskytovateľ umožní
+prístup oprávneným koordinátorom, resp. ďalším povereným osobám ku
+kompletnému zoznamu nahlásených Servisných požiadaviek, ktoré má
+v evidencii a umožní zaznamenať hodnotenie spokojnosti s riešením Servisnej
+požiadavky
+Popis – úplné znenie Servisnej požiadavky
+Popis – úplné znenie riešenia Servisnej požiadavky
+
+Reporty budú dodávané v tabuľkovej elektronickej forme. Reporty budú obsahovať všetky náležitosti a činnosti,
+ktoré boli zo strany Poskytovateľa vykonané v rámci poskytovania Služieb podpory prevádzky v danom období
+– príslušnom kalendárnom mesiaci.
+
+Stupne hodnotenia riešenia Incidentov:
+Nevyriešené:
+ Incident nebol vyriešený/odstránený;
+7
+
+súčasťou hodnotenia musí byť odôvodnenie rozhodnutia zo strany Objednávateľa o neakceptovaní
+riešenia Incidentu.
+Otvorené:
+ neuplynula doba pre riešenie Incidentu;
+Vyriešené:
+ Incident bol vyriešený/odstránený.
+Dočasná obnova prevádzky:
+ Bolo nasadené dočasné riešenie.
+
+
+Úrovne hodnotenia poskytovaných Služieb podpory prevádzky
+Poskytovanie Služieb podpory prevádzky v danom období je možné vyhodnotiť jednou z nasledujúcich úrovní:
+ Vyhovujúce – v danom období nebol hodnotený žiadny Incident stupňom nevyriešené.
+ Nevyhovujúce – aspoň jeden Incident v danom období bol hodnotený stupňom Nevyriešené.
+Monitoring a poskytovanie údajov na základe špecifikácie Objednávateľa
+ Monitoring pre Centrálny metainformačný systém verejnej správy1
+ Monitoring kvality INSPIRE služieb (Vyhodnocovanie parametrov kvality INSPIRE služieb Národnej
+vyhľadávacej služby a INSPIRE služieb registrovaných v Registri priestorových informácií)
+ Projektový monitoring Registra priestorových informácií
+Report o profylaktických činnostiach
+Pri reportovaní profylaktických činností záznam bude obsahovať minimálne nasledovné položky:
+1. Identifikácia komponentu prípadne funkčnej časti Systému, na ktorom sa profylaktické činnosti
+vykonávali.
+2. Popis činností, ktoré sa vykonali:
+ časový interval, kedy sa zásah vykonával
+ popis činnosti
+Report profylaktických činností predstavuje záznam paušálnych činnosti vykonaných v príslušnom období a nie
+je predmetom schvaľovania ani hodnotenia úrovne poskytovania služieb.
+Poskytovateľ ho zašle v elektronickej forme Objednávateľovi vždy do 5. kalendárneho dňa po ukončení
+príslušného obdobia poskytovania služby a priloží ako prílohu k faktúre.
+
+2.5 Služby podpory SW produktov 3. strán
+Súčasťou služieb podpory prevádzky sú aj Služby podpory SW produktov 3. strán, ktoré zahŕňajú poskytovanie
+upgrade a softvérovej a technickej podpory pre kľúčové softvérové komponenty:
+1.
+2.
+3.
+4.
+
+licencia Intergraph Geomedia WebMap Essentials Typ: Node-locked, ONE (1 ks)
+licencia Intergraph Geospatial SDI, Typ: Node-locked, – ONE (1 ks)
+licencia MDE Intergraph CS, Typ: Node-locked (1 ks)
+licencia Admin Tool Intergraph CS, Typ: Node-locked (1 ks)
+
+V rámci Služieb podpory SW produktov 3. strán sa poskytovateľ zaväzuje zabezpečiť:
+- dodanie najnovšej aktualizácie pre všetky uvedené produkty
+1
+
+https://metais.finance.gov.sk/help?spaceKey=MetaPublic&title=Monitoring%20%20monitorovacie%20parametre%20v%20MetaIS
+8
+
+- nonstop technickú podporu (cez mail prípadne telefón) pre všetky uvedené produkty - 24hod. x 365dní na 1
+rok odo dňa uvedeného v písomnej výzve doručenej objednávateľom poskytovateľovi;
+- poskytnutie záplat pre všetky produkty - 24hod. x 365dní na 1 rok odo dňa uvedeného v písomnej výzve
+doručenej objednávateľom poskytovateľovi;
+- informovanie objednávateľa o nových technických možnostiach a riešeniach uvedených produktov a iných
+noviniek (minimálne 1x za štvrťrok).
+
+9
+
+3. Služby rozvoja
+Služby rozvoja zahŕňajú zmeny funkčnosti a obsahu Systému, ktoré vyplývajú z Legislatívnych zmien alebo
+z novo vzniknutých potrieb Objednávateľa, zmeny funkčnosti, rozšírenia, integrácie, konfigurácie a nastavení
+Systému, ktoré sú vynútené zmenami prevádzkového prostredia Objednávateľa a aktualizácia príslušnej
+dokumentácie k Systému.
+3.1 Postup objednania Služby rozvoja
+Proces objednania Služby rozvoja sa začína vytvorením Požiadavky na zmenu a jej predložením
+Poskytovateľovi. Požiadavku na zmenu je oprávnená predložiť len Kontaktná osoba Objednávateľa uvedená
+v zozname Kontaktných osôb. Jednotný formulár Požiadavky na zmenu je uvedený v Prílohe č. 2 – Formulár
+požiadavky na zmenu.
+Na základe Požiadavky na zmenu Poskytovateľ vypracuje záväzný rozpočet realizácie zmeny vo forme Cenovej
+kalkulácie, ktorej prílohou bude:
+ vlastná cenová kalkulácia –
+o v prípade požiadavky na zmenu v menšom rozsahu bude predložená cenová kalkulácia na
+realizáciu zmeny,
+o v prípade komplexnej požiadavky na zmenu bude najprv predložená cenová kalkulácia na
+analýzu zmeny, následne po odsúhlasení Kontaktnou osobou a vykonaní analýzy bude
+predložená cenová kalkulácia na realizáciu zmeny.
+
+
+
+podrobný návrh riešenia vo forme Štúdie realizovateľnosti a analýzy dopadu, v ktorej bude uvedené,
+ktoré iné časti funkčnosti Systému budú ovplyvnené realizáciou zmeny,
+predpokladaný harmonogram prác s uvedením navrhovanej doby odovzdania zmeny vo forme Plánu
+realizácie zmeny, ktorého súčasťou bude aj špecifikácia Akceptačných testov zmeny.
+
+Po doručení Cenovej kalkulácie Objednávateľ písomne oznámi Poskytovateľovi svoje rozhodnutie, a to:
+ v prípade schválenia Cenovej kalkulácie doručí Poskytovateľovi záväznú písomnú objednávku
+podpísanú oprávnenou Kontaktnou osobou (podľa vzoru v Prílohe 4b),
+ v prípade neschválenia Cenovej kalkulácie doručí Poskytovateľovi elektronické oznámenie
+o neschválení.
+K realizácií Služby rozvoja Poskytovateľom dôjde až po prijatí záväznej písomnej objednávky. Neoddeliteľnou
+súčasťou objednávky bude aj Cenová kalkulácia, vrátane jej príloh.
+V prípade, že Objednávateľ vo svojom písomnom vyjadrení nebude súhlasiť s Cenovou kalkuláciou
+Poskytovateľa a nedôjde ani k doručeniu písomnej záväznej objednávky Objednávateľa Poskytovateľovi,
+Požiadavka na zmenu nebude realizovaná, pokiaľ sa zmluvné strany vzájomne písomne nedohodnú inak.
+Počas realizácie zmeny bude Poskytovateľ pravidelne aktualizovať a predkladať Objednávateľovi Plán
+realizácie zmeny spolu s odpočtom vykonaných prác, a to vždy k prvému dňu mesiaca nasledujúceho po prijatí
+písomnej Objednávky Objednávateľa, až do dňa podpisu Akceptačného protokolu alebo písomného
+odôvodnenia Objednávateľa o neakceptovaní požadovaných služieb.
+3.2 Parametre kvality poskytovanej služby
+V rámci Akceptačného testovania v testovacom a produkčnom prostredí Objednávateľ overí súlad dodaného
+Komponentu s funkčnosťou uvedenou v Objednávke a jej prílohách. Minimálna vyžadovaná úroveň poskytnutia
+10
+
+Služby rozvoja je stanovená počtom a závažnosťou Defektov zistených v rámci Akceptačného testovania tak,
+ako je to uvedené v nasledujúcej tabuľke.
+Kategória
+
+Kritická
+
+Normálna
+
+Popis
+Kritický Defekt s dopadom na základné funkcionality
+Systému, ktorý by v prípade výskytu v produkčnom
+prostredí znemožnil prevádzku Systému, resp. v
+testovacom prostredí zastaví postup testov.
+Výrazná odchýlka od požadovanej funkčnosti uvedenej v
+schválenej Cenovej kalkulácii.
+Defekt s nepodstatným dopadom na obsluhu Systému,
+resp. bez dopadu na postup testov v testovacom prostredí.
+
+Povolený počet Defektov
+
+0
+
+1
+
+Zistenie väčšieho počtu Defektov kategórie Normálna alebo akéhokoľvek Defektu kategórie Kritická znamená,
+že Poskytovateľ nedosiahol minimálnu vyžadovanú úroveň poskytovanej služby a akceptačné testovanie nebolo
+úspešné.
+
+3.3 Akceptačné konanie
+Poskytovateľ sa zaväzuje poskytovať Služby rozvoja na základe Objednávky na realizáciu zmeny doručenej
+Objednávateľom Poskytovateľovi. Poskytovateľ potvrdí Objednávateľovi prijatie objednávky bez zbytočného
+odkladu po jej doručení. Pre zamedzenie pochybností, potvrdenie prijatia objednávky sa považuje za akceptáciu
+objednávky.
+Na odovzdanie príslušného plnenia vyzve Poskytovateľ Objednávateľa písomne a elektronicky minimálne 2
+kalendárne dni pred termínom odovzdania plnenia po úspešnom ukončení akceptačného testovania.
+Objednávateľ sa zaväzuje umožniť Poskytovateľovi odovzdanie plnenia do 2 kalendárnych dní od doručenia
+písomného oznámenia Poskytovateľa, že príslušné plnenie bolo poskytnuté a že je pripravené na odovzdanie.
+Odovzdanie a prevzatie jednotlivých plnení sa uskutoční na základe akceptačného protokolu, ktorý podpíšu
+zástupcovia obidvoch Zmluvných strán.
+Objednávateľ je oprávnený odmietnuť podpísanie akceptačného protokolu písomne a elektronicky s uvedením
+dôvodov odmietnutia prevzatia príslušného plnenia. Toto odôvodnenie je Objednávateľ povinný doručiť
+Poskytovateľovi bezodkladne, najneskôr do 5 pracovných dní odo dňa odovzdávania plnenia Poskytovateľom
+Objednávateľovi.
+
+3.4 Hodnotenie kvality poskytnutej služby
+Hodnotenie poskytnutej Služby rozvoja je vykonané Akceptačným testovaním, ktoré je zároveň minimálnym
+vyžadovaným predpokladom pre akceptáciu zmeny. Akceptačné testovanie prebieha podľa špecifikácie
+uvedenej v Pláne realizácie zmeny v testovacom prostredí Objednávateľa (požadovanú funkčnosť uvedie
+Objednávateľ v Požiadavke na zmenu).
+Zmluvné strany potvrdia poskytnutie Služieb rozvoja Akceptačným protokolom, pričom pre účely úhrady ceny
+za poskytnuté služby sa rozlišuje úroveň akceptácie nasledovne:
+ Neakceptované – výstupom je písomné odôvodnenie rozhodnutia zo strany Objednávateľa
+o neakceptovaní požadovanej Služby. V danom prípade nemá Poskytovateľ právo na úhradu ceny za
+11
+
+
+
+uvedené Služby. Po vzájomnej dohode môže Poskytovateľ vyzvať Objednávateľa k akceptácii
+v dodatočnom termíne.
+Akceptované – výstupom je podpísanie Akceptačného protokolu zo strany oprávnených osôb
+Poskytovateľa a Objednávateľa.
+
+Pokiaľ sa zmluvné strany nedohodnú inak, Objednávateľ sa zaväzuje akceptovať implementované zmeny, ak
+spĺňajú požiadavky v zmysle obojstranne odsúhlasených funkčných špecifikácií uvedených v objednávke a jej
+prílohách, po úspešnom ukončení akceptačného testovania a zároveň počet nevyriešených Defektov k termínu
+ukončenia Akceptačných testov neprevýši stanovené limity.
+Akceptačný protokol s úrovňou akceptácie „Akceptované“ podpísaný oprávnenými osobami Objednávateľa a
+Poskytovateľa slúži ako podklad pre vystavenie príslušnej faktúry Poskytovateľom a úhradu ceny za Služby
+rozvoja v zmysle Cenovej kalkulácie Poskytovateľa.
+
+12
+
+Príloha č. 2 – Formulár Požiadavka na zmenu
+Požiadavka na zmenu
+
+Číslo Zmeny z
+HelpDesku
+
+Iniciátor zmeny (Objednávateľ):
+
+Organizácia:
+
+Telefón:
+
+E-mail:
+
+Manažér zmien (Objednávateľ):
+
+Telefón:
+
+Dátum a čas zadania
+požiadavky:
+
+Požadovaný
+termín
+ukončenia
+realizácie:
+
+Kategória zmeny
+Štandardná zmena:
+Urgentná zmena:
+Popis zmeny:
+Detailný popis požiadavky na
+zmenu:
+Prílohy:
+
+13
+
+Príloha č. 3 – Formulár Štúdia realizovateľnosti a analýza dopadov
+Štúdia realizovateľnosti a Analýza dopadov
+Analýza požiadavky, spracovanie
+funkčnej špecifikácie, návrh riešenia,
+analýza dopadov zmeny:
+
+Pozn.: v prípade odhadovaného objemu prác nad rámec zmluvy o
+podpore bude prílohou Cenová kalkulácia
+
+Rozsah prácnosti implementácie
+zmeny:
+Návrh implementácie požiadavky:
+Návrh testovania a akceptácie
+požiadavky:
+Návrh harmonogramu plnenia:
+
+Realizátor vyšpecifikuje:
+
+
+Predpokladaný časový plán realizácie zmeny
+
+
+
+Návrh termínov testovania
+
+
+
+Návrh termínu nasadenia na testovacie prostredie a funkčné
+testovanie
+
+Požadovaná súčinnosť Koncového
+používateľa / interných pracovníkov
+Koncového používateľa:
+Štúdiu pripravil:
+Dátum:
+Podpis:
+
+14
+
+Príloha č. 4a – Formulár Cenová kalkulácia
+Cenová ponuka
+Číslo Zmeny z HelpDesku:
+Predmet cenovej ponuky:
+Prácnosť v MD:
+Cenová ponuka:
+Ponuku pripravil:
+Dátum:
+Podpis:
+
+15
+
+Príloha č. 4b – Formulár Objednávka na realizáciu zmeny
+Objednávka realizácie zmeny
+Číslo Zmeny z HelpDesku:
+ID Objednávky:
+Predmet objednávky:
+Prácnosť v MD:
+Cenová ponuka:
+Harmonogram plnenia:
+
+Termíny budú zodpovedať návrhu harmonogramu plnenia z Prílohy č. 3,
+prípadne termíny nebudú určené skôr ako
+
+Objednávku vystavil:
+Dátum vystavenia:
+Podpis:
+
+16
+
+Príloha č. 5 – Formulár Plán realizácie zmeny
+Plán realizácie zmeny
+Formulár je určený pre vypracovanie plánu realizácie zmeny a vypĺňa ho
+Realizátor zmeny (pracovníci realizačného tímu) v koordinácií
+s Manažérom zmien.
+
+ID objednávky:
+
+Dátum vystavenia
+objednávky:
+
+Iniciátor zmeny:
+
+Organizácia:
+
+Manažér zmien:
+
+Plánovaný termín
+ukončenia
+realizácie:
+
+Popis požiadavky na
+zmenu
+
+17
+
+Číslo Zmeny z
+HelpDesku:
+
+Príloha č. 6 – Formulár Akceptačný protokol Zmeny
+Číslo Zmeny:
+
+Akceptačný protokol k zmene
+ID objednávky:
+
+Dátum vystavenia
+objednávky:
+
+Iniciátor zmeny:
+
+Organizácia:
+
+Manažér zmien:
+
+Plánovaný termín
+ukončenia
+realizácie:
+
+Krátky popis
+požiadavky na
+zmenu
+Popis predmetu akceptácie
+Popis výsledkov akceptačného testovania v produkčnom prostredí
+
+Výsledok
+testovania:
+Výsledok nasadenia
+zmeny:
+
+Realizácia školení
+
+Odovzdanie
+dokumentácie:
+
+Popis priebehu - bez problémov, vyskytli sa chyby – ich popis
+
+Zoznam zrealizovaných školení.
+Prípadne odkaz na Školiaci plán
+Zoznam odovzdanej dokumentácie.
+Prípadne odkaz na externý dokument.
+
+Akceptácia realizácie Zmeny Akceptácia Zmeny schvaľovacou autoritou
+Iniciátor zmeny (Hlavný používateľ)
+
+Schvaľovateľ za Ú IT - Manažér zmien
+
+Meno:
+
+Meno:
+
+Funkcia:
+
+Funkcia:
+
+Dátum:
+
+Dátum:
+
+Podpis:
+
+Podpis:
+
+18
+
+Príloha č. 7 – Formulár Štatistické hlásenie o vykonaných službách
+podpory
+Report o incidentoch
+Report o incidentoch sa predkladá v elektronickej forme vo formáte Microsoft Excel. Názov
+zasielaného súboru je SYSTÉM_IM_RRRR_MM.xlsx (kde RRRR je aktuálny rok a MM aktuálny
+mesiac).
+
+Údaj
+TicketNumber
+Typ
+Dátum a čas prijatia
+Reakčné doby plnenia
+incidentu
+Plán riešenia
+Riešenie
+Názov
+Kontakt zákazníka
+Konfiguračná položka
+Stav
+Spokojnosť zákazníka
+
+Popis predmetu
+Popis riešenia
+
+Popis
+Evidenčné číslo servisného hlásenia v systéme Poskytovateľa
+Typ Servisnej požiadavky (Incident, Problém, Požiadavka na zmenu, iná
+Servisná požiadavka)
+Dátum a čas prijatia Servisnej požiadavky na strane Poskytovateľa
+Reakčné doby plnenia incidentu s časovým vymedzením pre jednotlivé fázy
+Dátum a čas požadovaného riešenia Servisnej požiadavky v zmysle
+definovaného časového rozsahu Služieb
+Dátum a čas skutočného riešenia Servisnej požiadavky
+Predmet Servisnej požiadavky – stručný názov
+Oprávnená kontaktná osoba, ktorá nahlásila Servisnú požiadavku
+Dotknutá konfiguračná položka, ktorá je predmetom Servisnej požiadavky
+Stav riešenia Servisnej požiadavky
+Hodnotenie spokojnosti zákazníkom
+V prípade použitia evidenčného softwarového nástroja, Poskytovateľ umožní
+prístup oprávneným koordinátorom, resp. ďalším povereným osobám ku
+kompletnému zoznamu nahlásených Servisných požiadaviek, ktoré má
+v evidencii a umožní zaznamenať hodnotenie spokojnosti s riešením Servisnej
+požiadavky
+Popis – úplné znenie Servisnej požiadavky
+Popis – úplné znenie riešenia Servisnej požiadavky
+
+Report o profylaktických činnostiach
+Report o profylaktických činnostiach sa predkladá v elektronickej forme vo formáte Microsoft Excel.
+Názov zasielaného súboru je SYSTÉM_PC_RRRR_MM.xlsx (kde RRRR je aktuálny rok a MM
+aktuálny mesiac).
+
+Štatistické hlásenie o vykonaných podporných službách
+ID
+Aktivity
+
+ID Komponentu / Funkčnej
+časti
+
+Popis vykonanej profylaktickej
+činnosti
+
+19
+
+Obdobie:
+Čas vykonania
+činnosti
+
+MM/YYYY
+Poznámka
+
+20
+
+Príloha č. 8 – Cenník jednotkových sadzieb Poskytovateľa pre
+Služby rozvoja
+Popis služby
+
+Služby rozvoja
+
+Cena za
+MD
+v EUR
+bez DPH
+
+Počet
+požadovaných
+MD
+
+500,00
+
+720
+
+Cena
+celkom
+v EUR
+bez
+DPH
+360 000,00
+
+21
+
+Sadzba
+DPH
+v%
+20
+
+Výška
+DPH
+v EUR
+72 000,00
+
+Cena
+celkom
+v EUR
+vrátane DPH
+432 000,00
+
+Príloha č. 9 – Zoznam subdodávateľov
+Por.
+č.
+
+Subdodávateľ
+
+Osoba oprávnená
+konať za
+subdodávateľa
+
+Stručný opis časti zmluvy,
+ktorá bude predmetom
+subdodávky
+- vykonávanie prevádzkového
+monitorovania
+- analýza chybových stavov
+- nasadenie nových verzií
+riešenia pre Portál CMS
+- technický monitoring
+profilaktické činnosti modulov
+a komponentov sieťovej
+infraštruktúry, serverovej
+infraštruktúry
+- vykonávanie prevádzkového
+monitorovania aplikačných
+komponentov,
+- analýza chybových stavov
+- Nasadenie nových verzií
+riešenia pre Register
+metaúdajov
+- Monitoring repository
+- Register služieb vo
+vzťahu ku
+aktualizáciám
+
+1.
+LYNX - spoločnosť s ručením
+obmedzeným Košice
+Gavlovičova 9
+040 17 Košice
+
+Ing. Ladislav Plánka konateľ
+
+2.
+
+GeoServices, s. r. o.
+Jána Halašu 16
+911 08 Trenčín
+
+PaedDr. Ivan Sůra predseda predstavenstva
+
+3.
+
+4.
+5.
+
+Ing. Vladimír Stromček ,
+PhD. - konateľ
+
+DITEC, a.s.
+Plynárenská 7/C
+821 09 Bratislava
+
+Ing. Csaba Baráth podpredseda
+predstavenstva a generálny
+riaditeľ
+
+Martin Pavle s. r. o.
+Pribinova 4
+811 09 Bratislava
+Dignitas, spol. s r.o.
+Vajnorská 89
+831 04 Bratislava
+
+JUDr. Martin Pavle –
+konateľ
+Ing. Katarína Švachová –
+konateľka
+
+22
+
+- funkčné/ regresné testovania
+po vykonaní zmien
+v aplikačnom vybavení pre
+jednotlivé moduly
+
+-
+
+právne poradenstvo v oblasti
+IT
+
+-
+
+zabezpečenie
+prevádzky helpdesku
+
+Príloha č. 10 k Zmluve
+ZOZNAM EXPERTOV
+
+ZOZNAM EXPERTOV
+P. č.
+
+Názov pozície kľúčového experta
+
+Titul, Meno, Priezvisko
+
+1.
+
+Projektový manažér
+
+Ing. Branislav Štěpánek
+
+3.
+
+Hlavný SW Analytik
+
+Ing. Ján Fric
+
+4.
+
+Expert pre riadenie IT procesov
+
+Ing. Iveta Róková
+
+7.
+
+Expert pre riadenie prevádzky
+
+Ing. Štefan Gordian
+
+8.
+
+Konzultant pre bezpečnosť
+
+RNDr. Jaroslav Plaček
+
+9.
+
+Expert pre testovanie a manažment testov
+
+Ing. Martin Kratműller
+
+10.
+
+Právny expert pre informačné technológie
+
+JUDr. Martin Pavle
+
+11.
+
+Expert INSPIRE
+
+Mgr. Radoslav Chudý PhD.
+
+23
+
+Príloha č. 11 k Zmluve
+
+24
+
+Príloha č. 12 k Zmluve
+VŠEOBECNÉ PODMIENKY O ZABEZPEČENÍ INFORMAČNEJ
+BEZPEČNOSTI MINISTERSTVA ŽIVOTNÉHO PROSTREDIA
+SLOVENSKEJ REPUBLIKY
+Čl. 1
+Úvodné ustanovenie
+Všeobecné podmienky pre zabezpečenie informačnej bezpečnosti Ministerstva životného prostredia
+Slovenskej republiky (ďalej len „MŽP“) stanovujú povinnosti externého subjektu – dodávateľa resp.
+poskytovateľa (ďalej len „dodávateľ“), ak predmet plnenia zmluvy uzatvorenej medzi dodávateľom a MŽP
+súvisí s informačno-komunikačnými technológiami MŽP (ďalej len „IKT MŽP“).
+Čl. 2
+Základné pojmy
+Na účely tohto dokumentu sa rozumie:
+a) bezpečnostným incidentom udalosť, ktorá spôsobila alebo smeruje k narušeniu bezpečnosti
+informačného systému, došlo alebo môže dôjsť k strate dôvernosti, integrity alebo dostupnosti dát,
+prípadne odhalený pokus o prekonanie bezpečnostných bariér alebo podozrenie, že takáto skutočnosť
+nastala,
+b) aktívom všetko, čo má pre MŽP hodnotu a vyžaduje si ochranu - programové vybavenie, technické
+zariadenia, poskytované služby, kvalifikované osoby, dobré meno povinnej osoby a informácie,
+dokumentácia, zmluvy a iné skutočnosti, ktoré považuje povinná osoba za citlivé,
+c) bezpečnosťou informačného systému ochrana údajov, ktoré sú doň vkladané, prenášané a spracúvané,
+ako aj ochrana častí technických a netechnických,
+d) neoprávneným prístupom prístup, ktorý nebol schválený MŽP, nie je v súlade s bezpečnostnou politikou
+MŽP a internými riadiacimi aktami MŽP súvisiacimi s prístupmi k IKT MŽP,
+e) externým subjektom fyzická osoba - podnikateľ, právnická osoba a štatutárom právnickej osoby určené
+fyzické osoby, ktoré sú zamestnancami externého subjektu v zmysle pracovnoprávneho vzťahu, vrátane
+zamestnancov subdodávateľa, ktorí v zmysle uzatvoreného zmluvného vzťahu budú zabezpečovať
+plnenie predmetu zmluvného vzťahu v súvislosti s dodávaním alebo odoberaním tovarov, služieb alebo
+prác súvisiacich s IKT MŽP. Externý subjekt v plnej miere zodpovedá aj za činnosť zamestnancov
+subdodávateľa, ako by danú činnosť zabezpečoval externý subjekt,
+f) externým subjektom s osobitným postavením kontrolný alebo iný oprávnený orgán Slovenskej
+republiky podľa všeobecne záväzného právneho predpisu,
+g) citlivými informáciami informácie, ktoré MŽP spracováva v zmysle všeobecne záväzných právnych
+predpisov a ochrana týchto informácií je vyžadovaná legislatívou (napr. osobné údaje, daňové
+tajomstvo, bankové tajomstvo, obchodné tajomstvo, poštové tajomstvo, telekomunikačné tajomstvo
+a informácie súvisiace s IKT MŽP),
+h) dostupnosťou požiadavka, aby aktívum bolo na požiadavku oprávneného používateľa prístupné
+a schopné použitia,
+i) dôvernosťou bezpečnostná požiadavka, ktorej naplnenie znamená, že informácia nie je dostupná, alebo
+prístupná neautorizovaným jednotlivcom, entitám alebo procesom,
+j) informáciou dáta, údaje, hodnoty spracovávané automatizovaným alebo neautomatizovaným
+spôsobom,
+k) APV – aplikačné programové vybavenie (vo forme samostatnej aplikácie či programovej nadstavby),
+25
+
+l)
+
+subdodávateľom sa rozumie poskytovateľ služieb a/alebo dodávateľ prác a/alebo tovaru, ktorý je
+v zmluvnom vzťahu s dodávateľom a ktorý priamo plní zmluvné povinnosti a záväzky dodávateľa voči
+objednávateľovi,
+m) zamestnancom externého subjektu zamestnanec, ktorý je v pracovnoprávnom vzťahu s externým
+subjektom, prostredníctvom ktorého bude externý subjekt zabezpečovať realizáciu požadovaných
+činností v zmysle zmluvného vzťahu. Na účely tohto dokumentu sa za zamestnanca externého subjektu
+považuje aj zamestnanec subdodávateľa len v tom prípade, že externý subjekt je v zmysle uzatvoreného
+zmluvného vzťahu oprávnený zadať svoju prácu subdodávateľom (ďalej len „subdodávateľ“), a to
+v celom rozsahu alebo len čiastočne. Zoznam subdodávateľov musí byť súčasťou uzatvoreného
+zmluvného vzťahu externého subjektu. V prípade, že v čase uzatvorenia zmluvného vzťahu, ktorý ho
+oprávňuje vykonávať činnosti, ktoré súvisia s prístupom k IKT MŽP nebol subdodávateľ známy a vstúpil
+do procesu v priebehu plnenia zmluvy, musí byť tento subdodávateľ odsúhlasený formou písomného
+dodatku k zmluvnému vzťahu, ktorý priamo plní zmluvné povinnosti a záväzky voči MŽP,
+n) prístup externého subjektu k IKT MŽP akýkoľvek prístup externého subjektu k hardvéru alebo softvéru
+alebo dátam IKT MŽP vrátane príslušnej dokumentácie k IKT MŽP v presne určenom nevyhnutnom
+rozsahu za predpokladu splnenia jednej z nasledovných podmienok, na základe ktorých je možné
+predložiť požiadavku pre prístup k IKT MŽP:
+a. externý subjekt je v zmluvnom vzťahu s MŽP, ktorý súvisí s dodávaním alebo odoberaním
+tovarov, služieb alebo prác súvisiacich s IKT MŽP, ktorého súčasťou musia byť Všeobecné
+podmienky o zabezpečení informačnej bezpečnosti MŽP,
+b. externý subjekt má s MŽP podpísanú zmluvu o dodávaní alebo odoberaní tovarov, služieb
+alebo prác súvisiacich s IKT MŽP, ktorá zohľadňuje požiadavky MŽP pre zabezpečenie
+informačnej bezpečnosti MŽP, alebo má podpísanú dohodu o zabezpečení informačnej
+bezpečnosti s MŹP, ktorá vychádza zo Všeobecných podmienok o zabezpečení informačnej
+bezpečnosti MŽP,
+c. externý subjekt, ktorý vykonáva činnosti na základe objednávky MŽP, ktorej nutnou súčasťou
+budú externým subjektom podpísané Všeobecné podmienky o zabezpečení informačnej
+bezpečnosti MŽP. Za uvedené zodpovedá zadávateľ pri vyhotovení objednávky,
+o) IP adresou adresa zariadenia pripojeného do počítačovej siete, definovaná na základe Internet
+Protokolu,
+p) informačným aktívom aktívum v prostredí IKT MŽP,
+q) informačnou bezpečnosťou je súbor aspektov týkajúcich sa dosiahnutia a udržiavania dôvernosti,
+integrity a dostupnosti informačných aktív,
+r) informačným systémom (IS) súhrn hardvéru, operačného, aplikačného a ďalšieho softvéru, sieťovej
+infraštruktúry a jej prvkov, ktoré zabezpečujú zber, prenos, spracovanie, uloženie, výber, distribúciu
+a prezentáciu informácií a dát,
+s) integritou vlastnosť, že informácie a metódy ich spracovania sú presné a kompletné,
+t) manažérom pre prístup k IKT MŽP zamestnanec MŽP zodpovedný za posúdenie rozsahu
+požadovaného prístupu a oprávnení, oprávnenosť predloženej požiadavky, úplnosť vyplnenej
+žiadosti, eskalácie realizácie prístupu k IKT MŽP a riešenie požiadaviek, ktoré súvisia s prístupom k IKT
+MŽP a sú preukázateľne zdokumentované MŽP. Oprávnenou osobou môže byť napr. projektový
+manažér, vlastník procesu, garant služby, riaditelia odborov sekcie informatiky resp. písomne
+poverený iný zamestnanec MŽP určený sekciou informatiky na výkon úloh vyplývajúcich z činností
+spojených s externým prístupom k IKT MŽP,
+u) používateľom externého prístupu zamestnanec externého subjektu, ktorému bol povolený externý
+prístup k IKT MŽP,
+v) MAC adresou jedinečné identifikačné číslo sieťového adaptéra slúžiace na jednoznačnú identifikáciu
+daného sieťového rozhrania v LAN najmä typu Ethernet,
+w) VPN kanálom vytvorené šifrované spojenie umožňujúce používateľom externého prístupu bezpečný
+prístup k požadovaným službám cieľovej infraštruktúry, resp. k IKT MŽP,
+x) zamestnancom MŽP
+26
+
+a. zamestnanec vykonávajúci prácu vo verejnom záujme v zmysle zákona č. 552/2003
+Z. z.
+o výkone práce vo verejnom záujme v znení neskorších predpisov,
+b. štátny zamestnanec v štátnozamestnaneckom pomere v zmysle zákona č. 55/2017 Z. z. o
+štátnej službe a o zmene a doplnení niektorých zákonov
+y) IKT MŽP súhrn nasledovných komponentov používaných na prípravu, spracovanie uchovávanie
+a distribúciu dát a na manažovanie informácií a procesov v MŽP, okrem služieb prístupných širokej
+verejnosti z vonkajšieho prostredia, a to:
+a. servery, pracovné stanice, iné koncové zariadenia a príslušná dokumentácia,
+b. zariadenia diskových polí, SAN infraštruktúra, zálohovacie zariadenia a príslušná
+dokumentácia,
+c. sieťová infraštruktúra a sieťové komponenty (napr. smerovače, firewally) a príslušná
+dokumentácia,
+d. informačné systémy MŽP a ich aplikačné programové vybavenie a jeho vrstvy, ako napr.
+webová vrstva, aplikačná vrstva, databázová vrstva a príslušná dokumentácia,
+e. doplnkové aplikačné komponenty ako napr. dávkové súbory, aplikačné nadstavby
+f. zariadenia pre hlasovú a audiovizuálnu komunikáciu implementované v sieťovej
+infraštruktúre MŽP (napr. pobočkové ústredne) a príslušná dokumentácia,
+g. Wi-Fi komponenty,
+h. dáta a informácie spracovávané v informačných systémoch MŽP,
+i. písomné záznamy a ostatné informácie súvisiace s IKT MŽP
+Čl. 3
+Základné požiadavky
+1) Dodávateľ sa zaväzuje, že predmet plnenia zmluvného vzťahu a vykonávané činnosti budú v súlade
+s platnými požiadavkami legislatívy upravujúcej ochranu osobných údajov, daňového tajomstva,
+bankového tajomstva, obchodného tajomstva, poštového tajomstva, telekomunikačného tajomstva.
+2) Dodávateľ sa zaväzuje dodržiavať vnútorné predpisy objednávateľa, najmä bezpečnostnú politiku
+MŽP, z ktorej vyplýva zabezpečenie informačnej bezpečnosti MŽP, ochrana všetkých aktív MŽP,
+ochrana informácií a IKT MŽP, prostredníctvom ktorých sa tieto informácie spracovávajú, prenášajú
+bez ohľadu na formu, v akej sa vyskytujú a spôsob ich spracovania, vrátane podporných infraštruktúr
+týchto IKT MŽP.
+3) Dodávateľ garantuje, že zásahy do IKT MŽP bude realizovať výlučne iba v určenom rozsahu v rámci
+poskytnutých a dohodnutých prác a služieb v súlade so zmluvným vzťahom.
+4) Dodávateľ sa zaväzuje dodržiavať ochranu osobných údajov, zachovávať mlčanlivosť o osobných
+údajoch, s ktorými počas výkonu prác príde do styku, ako aj zákaz ich využitia pre osobnú potrebu,
+zverejnenia, poskytnutia a sprístupnenia, s výnimkou orgánov činných v trestnom konaní a vo vzťahu
+k Úradu na ochranu osobných údajov pri plnení jeho úloh, a to aj po ukončení zmluvného vzťah, resp.
+ukončení pracovného pomeru zamestnancov.
+5) Dodávateľ sa zaväzuje, že ak zmluvný vzťah v zmysle ktorého bude činnosť dodávateľa pozostávať
+okrem iného aj z činnosti, v rámci ktorej bude spracovávať osobné údaje, musia byť dodržané
+ustanovenia pre spracúvanie osobných údajov vrátane práv, povinností a vzájomných vzťahov pri
+spracúvaní osobných údajov v zmysle § 34 zákona č. 18/2018 Z. z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+6) Dodávateľ garantuje, že požiadavku pre prístup k IKT MŽP vrátane počtu osôb pre prístup k IKT MŽP
+a ich oprávnení, bude predkladať výlučne iba v rozsahu nevyhnutnom pre zabezpečenie plnenia úloh
+v zmysle predmetu plnenia zmluvy s cieľom poskytnutia služieb externého subjektu v prospech MŽP
+a je si vedomý, že všetky požiadavky prevyšujúce tento rozsah sú neprípustné a budú považované za
+porušenie zmluvných podmienok. Požiadavku prístupu k IKT MŽP bude dodávateľ predkladať
+prostredníctvom žiadosti, ktorej vzor bude dodávateľovi poskytnutý MŽP a žiadosť bude podpísaná
+výlučne osobou, ktorá je oprávnená konať v mene dodávateľa.
+27
+
+7) Dodávateľ sa zaväzuje, že v prípade, že by mal v úmysle zadať svoju prácu subdodávateľom, a to buď
+v celom rozsahu alebo čiastočne, môže tak urobiť iba s predchádzajúcim písomným súhlasom
+objednávateľa a v takomto prípade zodpovedá, akoby zmluvu plnil sám. Zoznam subdodávateľov
+musí byť súčasťou predmetného uzatvoreného zmluvného vzťahu dodávateľa s objednávateľom.
+V prípade, že v čase uzatvorenia zmluvného vzťahu, ktorý ho oprávňuje vykonávať činnosti, ktoré
+súvisia s prístupom k IKT MŽP, nebol subdodávateľ známy a vstúpil do procesu v priebehu plnenia
+zmluvy, musí byť tento subdodávateľ odsúhlasený formou písomného dodatku k zmluvnému vzťahu,
+na základe ktorého plní zmluvné povinnosti a záväzky dodávateľa voči MŽP. Nedodržanie týchto
+povinností sa bude považovať za závažné porušenie zmluvných podmienok.
+8) Dodávateľ sa zaväzuje, že prístup k IKT MŽP neposkytne a nebude žiadať pre iné osoby ako sú osoby,
+ktoré sú v pracovnoprávnom vzťahu s dodávateľom resp. vo vzťahu so subdodávateľom, ktorý bol
+MŽP písomne schválený.
+9) Dodávateľ garantuje, že požadované činnosti v zmysle zmluvného vzťahu budú zabezpečované
+osobami s dostatočným povedomím potrebným na výkon ich rolí a zodpovedností.
+10) Dodávateľ garantuje dodržiavanie požiadaviek na identifikáciu a autorizáciu zamestnancov
+externého subjektu pre prístup k IKT MŽP, zamestnanci sú povinní pristupovať k IKT MŽP výlučne
+s prideleným účtom pre dané prostredie MŽP, ktorý je spojený s jeho jednoznačnou identitou.
+11) Dodávateľ garantuje zabezpečenie ochrany dôvernosti a integrity kódu a dokumentácie IS (do
+kontaktu s kódom a dokumentáciou informačného systému môžu prichádzať iba tí zamestnanci
+dodávateľa, ktorí podpísali „Poučenie zamestnancov externého subjektu o informačnej bezpečnosti
+v prostredí IKT MŽP“, ďalej len „poučenie“).
+12) Dodávateľ garantuje dodržiavanie bezpečnostných požiadaviek na ochranu aktív MŽP pred
+neautorizovaným prístupom, prezradením, modifikáciou, zničením alebo neoprávneným zásahom.
+13) Dodávateľ garantuje, že pre prístup k IKT MŽP použije len MŽP schválený spôsob prístupu, resp.
+pripojenia k IKT MŽP.
+14) Dodávateľ sa zaväzuje oboznámiť a následne zabezpečiť od svojich zamestnancov (ďalej len
+„zamestnanec“) realizujúcich úlohy, ktoré súvisia s plnením zmluvného vzťahu dodržiavanie
+nasledovných povinností:
+a. zamestnanec je povinný dodržiavať ochranu citlivých informácií pred poškodením, zničením,
+stratou, odcudzením, zneužitím, zmenou, neoprávneným prístupom a sprístupnením,
+poskytnutím, ako aj pred akýmikoľvek inými neprípustnými spôsobmi ich spracúvania.
+K citlivým informáciám patria: osobné údaje, daňové tajomstvo, bankové tajomstvo,
+obchodné tajomstvo, poštové tajomstvo, telekomunikačné tajomstvo a informácie súvisiace
+s IKT MŽP,
+b. zamestnanec je povinný zabezpečiť ochranu IKT MŽP a iných aktív MŽP pred ich poškodením,
+zničením, stratou, odcudzením, zneužitím, zmenou, neoprávneným prístupom
+a sprístupnením, poskytnutím, ako aj pred akýmikoľvek inými neprípustnými spôsobmi
+použitia,
+c. zamestnanec, ktorý bude pristupovať k IKT MŽP, je povinný pripojenie, prístup a manipuláciu
+s IKT MŽP vykonať len spôsobom, ktorý nie je v rozpore so všeobecne záväznými právnymi
+predpismi, bezpečnostnou politikou MŽP a internými predpismi MŽP, pričom pripojenie
+a prístup k IKT MŽP je zamestnanec povinný používať iba v určenom rozsahu a s prístupovými
+právami, ktoré mu boli pridelené v súlade s platnými pravidlami o prideľovaní prístupových
+práv na MŽP, a to výhradne na plnenie pracovných povinností v zmysle zmluvného vzťahu
+s cieľom poskytnutia služieb externého subjektu v prospech MŽP,
+d. zamestnanec je povinný prístup k IKT MŽP vrátane pridelených technických prostriedkov
+MŽP používať výlučne len na plnenie pracovných úloh v zmysle zmluvného vzťahu s MŽP; je
+prísne zakázané prístup k IKT MŽP vrátane iných aktív MŽP používať na iný účel, ako je
+plnenie pracovných úloh vyplývajúcich zo zmluvného vzťahu s MŽP,
+e. zamestnanec je povinný zachovávať mlčanlivosť o citlivých informáciách, s ktorými počas
+výkonu činnosti príde do styku, ako aj dodržiavať zákaz ich využitia pre osobnú potrebu, zákaz
+28
+
+f.
+
+g.
+
+h.
+i.
+j.
+
+k.
+
+l.
+
+m.
+
+n.
+o.
+p.
+
+q.
+r.
+
+s.
+
+t.
+
+u.
+v.
+
+ich zverejnenia, poskytnutia a sprístupnenia tretím osobám, a to aj po skončení pracovného,
+resp. zmluvného pomeru, zmluvného vzťahu s MŽP,
+zamestnanec je povinný udržiavať prihlasovacie údaje/heslá v dôvernosti a zabezpečiť
+ochranu autentizačných údajov a predmetov pred zneužitím, odcudzením, prezradením inej
+osobe, tzn. že je prísne zakázané uchovávať heslá a autentizačné predmety na miestach
+dostupných iným osobám,
+zamestnanec je povinný vyberať kvalitné heslá spĺňajúce podmienky definované pre heslovú
+politiku k priradenému používateľskému účtu; zamestnanec nesmie používať rovnaké heslá
+na pracovné a mimopracovné účely,
+zamestnanec pristupuje a používa IKT MŽP výlučne s prideleným účtom pre dané prostredie
+MŽP, ktorý je spojený s jeho jednoznačnou identitou,
+zamestnancovi je prísne zakázané používať akýkoľvek program/aplikáciu slúžiacu na
+zachytávanie, resp. kompromitáciu hesiel,
+zamestnanec môže na pracovných staniciach MŽP a iných technických prostriedkoch MŽP
+používať výlučne len programové vybavenie schválené a nainštalované sekciou informatiky
+MŽP. Zamestnanec nemôže na pracovnej stanici MŽP meniť programové vybavenie a tiež
+nemôže meniť konfiguráciu programového vybavenia,
+zamestnanec je povinný bezodkladne vykonať zmenu prihlasovacích údajov v každom
+prípade keď existuje akákoľvek indícia kompromitácie týchto informácií a ohrozenia
+informačnej bezpečnosti MŽP,
+zamestnanec je povinný dodržiavať opatrenia fyzickej a objektovej bezpečnosti tak, aby
+nedošlo k neoprávnenému prístupu k aktívam MŽP, k ich zneužitiu, odcudzeniu, poškodeniu
+ako aj dodržiavať požadovanú ochranu aktív pred možnými technickými poruchami
+a možnými prírodnými vplyvmi,
+zamestnanec je povinný zabezpečiť primeraným mechanizmom ochranu všetkých aktív
+ponechaných bez dozoru, tzn. ukončenie, odhlásenie sa z IS/APV, blokovanie prístupu
+heslom, odhlásenie PC, zabezpečenie priestoru voči neoprávnenému vstupu do priestoru,
+kde sa aktíva MŽP nachádzajú, tak aby nedošlo k neoprávnenému prístupu k aktívam MŽP,
+zamestnancovi je prísne zakázané vykonávať činnosť, ktorou by neoprávnene zničil, poškodil,
+vymazal, pozmenil, alebo znížil kvalitu údajov IKT MŽP,
+zamestnancovi je prísne zakázané vykonávať činnosť, ktorou by neoprávnene vykonal zásah
+do technického alebo programového vybavenia IKT MŽP,
+zamestnancovi je prísne zakázané vykonávať činnosť, ktorou by došlo k poškodeniu alebo
+zničeniu kľúčových komponentov IKT MŽP alebo k neočakávanému prerušeniu ich
+prevádzky,
+zamestnancovi je prísne zakázané vykonávať činnosť, ktorou by neoprávnene vytváral
+neautentické dáta s úmyslom, aby sa dáta považovali za autentické,
+zamestnancovi je prísne zakázané vykonávať činnosť za účelom získania prístupových práv
+alebo informácií IKT MŽP, ktoré mu neprináležia, ak takéto práva získa náhodne alebo
+vedome, nesmie ich použiť a musí o tom neodkladne a preukázateľne informovať sekciu
+informatiky MŽP,
+zamestnancovi je prísne zakázané vykonávať činnosť, ktorou by mohlo dôjsť
+k neautorizovanému prístupu k IKT MŽP, kompromitácii alebo krádeži informácií
+a prostriedkov na ich spracúvanie,
+zamestnanec je povinný pre externé pripojenie k IKT MŽP používať spôsob ochrany
+pripojenia formou VPN s autentizáciou certifikátom v kombinácií s menom a heslom,
+s privátnym kľúčom certifikátu uloženým na smart karte a chráneným PIN kódom,
+zamestnanec je povinný vykonávať činnosť tak, aby nedošlo k šíreniu škodlivého kódu,
+zamestnancovi je prísne zakázané vykonávať činnosti, ktorými by neoprávnene poskytol,
+sprístupnil alebo zverejnil informácie/údaje MŽP,
+29
+
+15)
+
+16)
+
+17)
+
+18)
+
+19)
+
+20)
+
+w. zamestnanec nesmie pripájať technické zariadenia, ktoré nie sú v správe MŽP, bez súhlasu
+MŽP do siete MŽP,
+x. zamestnancovi je prísne zakázané prístup k IKT MŽP používať na realizáciu sieťových útokov,
+škodlivej činnosti namierenej proti používateľom alebo systémom MŽP,
+y. zamestnanec je povinný neodkladne informovať MŽP o akejkoľvek nezhode medzi
+požadovaným a realizovaným prístupom k IKT MŽP,
+z. zamestnanec je povinný zabezpečiť ochranu autentizačných údajov a predmetov tak, aby
+nedošlo k odcudzeniu alebo zneužitiu,
+aa. zamestnanec je povinný prístup k IKT MŽP z určených pracovných staníc z vyhradených
+pracovných priestorov MŽP realizovať v zmysle pokynov MŽP,
+bb. zamestnanec je povinný neodkladne odovzdať MŽP zapožičané bezpečnostné predmety,
+vrátane všetkých poskytnutých zariadení, ktorými sú najmä počítače, pamäťové médiá,
+čipové karty, čítačky čipových kariet a navrátenie informačných aktív (programy, dokumenty,
+údaje atď.), ktoré boli zamestnancovi externého subjektu (vrátane zamestnancov
+subdodávateľov) odovzdané a pominul dôvod, ktorý by ho oprávňoval ich disponovaním.
+Dôvodom vrátenia je:
+i. ukončenie zmluvného vzťahu;
+ii. ukončenie doby platnosti schváleného prístupu k IKT MŽP;
+iii. ukončenie pracovnoprávneho vzťahu zamestnanca externého subjektu prípadne
+subdodávateľa;
+iv. resp. iné skutočnosti, ktoré by ohrozili informačnú bezpečnosť MŽP, prípadne
+o ktorých bude dodávateľ informovaný MŽP.
+Dodávateľ sa zaväzuje, že sa v žiadnom prípade bez vedomia objednávateľa nepokúsi získať prístup
+k informáciám, ktoré:
+a. sú prenášané na sprístupnenej infraštruktúre MŽP,
+b. nie sú pre neho potrebné na výkon požadovanej činnosti v zmysle zmluvného vzťahu a ani
+ich nezneužije v prípade, ak sa k nim neoprávnene dostane.
+Dodávateľ sa zaväzuje zmeniť všetky prístupové heslá účtov, ktoré zostávajú naďalej aktívne, ak
+odchádzajúci zamestnanec poznal tieto heslá a to ihneď po ukončení pracovnoprávneho vzťahu
+vrátane vzťahu, ktorý sa týka zamestnancov subdodávateľa.
+Dodávateľ sa zaväzuje, že zabezpečí, aby všetky zásahy jeho zamestnancov do IKT MŽP boli
+zaznamenané v protokole z prístupu tretích strán k IKT MŽP. Zamestnanec dodávateľa po ukončení
+prác súvisiacich s prístupom vyplní tento protokol a ihneď ho e-mailom zašle oprávnenému
+zamestnancovi sekcie informatiky MŽP a následne mu ho podpísaný zašle aj v písomnej podobe a to
+do 5 pracovných dní od realizácie prístupu podľa prílohy, ktorú mu poskytne MŽP v zmysle
+požiadaviek interných predpisov MŽP upravujúcich riadenie prístupu externého subjektu k IKT MŽP.
+Dodávateľ sa zaväzuje, že žiadosť bude podpísaná osobou, ktorá je oprávnená konať v mene
+dodávateľa. Dodávateľ v súvislosti so zabezpečením plnenia úloh vyplývajúcich zo zmluvného vzťahu,
+ktoré súvisia s prístupom k IKT MŽP môže písomne určiť osobu, ktorá bude oprávnená v mene
+dodávateľa konať. Dodávateľ doručí MŽP písomné splnomocnenie, ktorým určí túto oprávnenú
+osobu. V prípade akejkoľvek zmeny v súvislosti s touto oprávnenou osobou dodávateľa dodávateľ
+neodkladne písomne informuje MŽP.
+Dodávateľ sa zaväzuje, že o prístup k IKT MŽP požiada formou v súlade so „Žiadosťou externého
+subjektu o prístup k IKT MŽP“ podľa vzoru, ktorý mu MŽP poskytne vrátane požadovaných príloh
+najneskôr desať pracovných dní pred udelením prístupu k IKT MŽP.
+Dodávateľ sa zaväzuje, že v zmysle zmluvného vzťahu s MŽP, ktorý súvisí s vývojom
+resp. aktualizáciou informačného systému pre MŽP, bude dielo odovzdané resp. služby poskytnuté
+(ďalej len ako „dielo“) v súlade s technickou špecifikáciou požadovanou objednávateľom v súlade so
+zákonom č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov, výnosom MF SR č. 55/2014 Z. z. o štandardoch pre
+informačné systémy verejnej správy v znení neskorších predpisov a legislatívou upravujúcou ochranu
+30
+
+21)
+
+22)
+
+23)
+
+24)
+
+informácií (ako sú osobné údaje, daňové tajomstvo, bankové tajomstvo, obchodné tajomstvo,
+poštové tajomstvo, telekomunikačné tajomstvo a iné) a bude vykazovať funkčné vlastnosti ňou
+určené, ako aj ostatnými časťami zmluvného vzťahu.
+Dodávateľ sa zaväzuje a garantuje, že dodané dielo nebude obsahovať objednávateľom nevyžiadané
+alebo neschválené funkcie a vlastnosti, najmä nebude obsahovať funkcie a vlastnosti, ktoré by mohli
+viesť k zneužitiu, poškodeniu a kompromitácii IKT MŽP a nebudú vykonávané činnosti, ktoré nie sú
+požadované v zmysle zmluvného vzťahu.
+Dodávateľ sa zaväzuje, že výstupy z IKT MŽP a všetky informácie získané pri prístupe k IKT MŽP budú
+slúžiť výlučne pre plnenie úloh vyplývajúcich zo zmluvného vzťahu s MŽP a je si vedomý, že je
+zakázané ich použiť na iný účel ako ten, na ktorý sú určené.
+Dodávateľ sa zaväzuje, že v zmysle zmluvného vzťahu s MŽP, ktorý súvisí s vývojom
+resp. aktualizáciou informačného systému pre MŽP, bude dielo odovzdané v súlade s platnými
+štandardmi pre informačné systémy verejnej správy v súlade s výnosom MF SR č. 55/2014 Z. z.
+o štandardoch pre informačné systémy verejnej správy účinným ku dňu riadneho prevzatia diela.
+Dodávateľ sa zaväzuje, že v zmysle zmluvného vzťahu s MŽP, ktorý súvisí s vývojom
+resp. aktualizáciou informačného systému pre MŽP, bude najneskôr ku dňu riadneho prevzatia diela
+odovzdaná nasledovná dokumentácia:
+a. Používateľská dokumentácia, ktorá bude obsahovať minimálne popis na používanie IS:
+i. popis scenárov pre jednotlivé používateľské funkcie/role
+ii. popis všetkých bezpečnostných mechanizmov a procedúr vo vzťahu k používateľovi
+(popis správneho používania IS a popis zakázaného používania IS)
+iii. popis chybových hlásení
+b. Administrátorská dokumentácia obsahujúca popis na správu a prevádzku IS, ktorá bude
+obsahovať minimálne:
+i. popis funkcií pri administrácii,
+ii. popis všetkých bezpečnostných mechanizmov a procedúr vo vzťahu
+k administrátorovi,
+iii. popis správy používateľov IS/APV,
+iv. popis správy údajov v IS/APV,
+v. popis konfigurácie IS/APV,
+vi. popis všetkých používaných číselníkov,
+vii. popis a súpis predpísaných profylaktických činností,
+viii. popis inštalácie a/alebo spôsob nasadenia nových verzií systému/APV, certifikátov,
+ix. popis a zoznam všetkých účtov
+1. systémových (popis použitia a ich umiestnenia),
+2. aplikačných vrátane popisu ich rolí,
+3. technologických.
+c. Prevádzková dokumentácia obsahujúca popis architektúry IS a jeho časti, jeho konfigurácií
+a väzieb na existujúci IS, ktorá bude obsahovať minimálne:
+i. popis konfigurácie IS a zapojenia,
+ii. popis detailnej architektúry IS/APV,
+iii. popis bezpečnostných procedúr a ovládanie bezpečnostných mechanizmov,
+iv. popis prevádzkových postupov a spôsob riešenia štandardných prevádzkových
+problémov,
+v. popis databázovej štruktúry použitých databáz (význam polí v tabuľkách, prepojenia
+tabuliek, prepojenia DB serverov,...),
+vi. popis funkcií pri prevádzke,
+vii. popis funkčnosti IS/APV (business model, funkčná špecifikácia, ...),
+viii. popis spôsobu zálohovania,
+ix. popis spôsobu monitorovania prevádzky IS (z hľadiska záťaže, kapacít, konfigurácie,
+chýb),
+31
+
+25)
+
+26)
+
+27)
+
+28)
+
+29)
+
+30)
+
+x. popis spôsobu a rozsahu monitorovania systémovej platformy,
+xi. popis detailného postupu pri obnove diela zo záloh,
+xii. popis všetkých vzťahov a súvislostí nutných pre zabezpečenie plnej funkcionality
+dodaného diela a nadväzujúcich systémov a komponentov pri zmene hesiel
+aplikačných, systémových, inštalačných, ako aj technologických účtov
+prevádzkovateľom, vrátane bezpečnostného postupu popisujúceho detailne spôsob
+vykonania týchto zmien,
+xiii. popis všetkých komunikačných rozhraní dodaného diela (obsahujúci informácie
+o type a účele rozhrania, procedúry, dátová komunikácia, protokoly, a pod.).
+d. Bezpečnostný projekt v súlade s požiadavkami zákona č. 122/2013 Z. z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, ak v zmysle
+zmluvného vzťahu s MŽP dielo súvisí s vývojom resp. aktualizáciou informačného systému
+pre MŽP, v ktorom sa budú spracovávať osobné údaje.
+Dodávateľ sa zaväzuje, že v zmysle zmluvného vzťahu s MŽP, ktorý súvisí s vývojom
+resp. aktualizáciou informačného systému pre MŽP, zabezpečí vyhodnotenie dodržiavania
+požiadaviek zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov a výnosu MF SR č. 55/2014 Z. z.
+o štandardoch pre informačné systémy verejnej správy v znení neskorších predpisov, a to pred
+odovzdaním diela prostredníctvom preberacieho protokolu alebo akceptačného protokolu, ktorého
+súčasťou bude vyhlásenie o dodržaní štandardov pre informačné systémy verejnej správy formou
+podrobného rozpisu splnenia jednotlivých relevantných požiadaviek.
+Dodávateľ sa zaväzuje, že v zmysle zmluvného vzťahu s MŽP, ktorý súvisí s vývojom
+resp. aktualizáciou informačného systému pre MŽP, zabezpečí vykonanie bezpečnostných testov
+v týchto oblastiach, ktoré potvrdzujú, že dielo spĺňa funkčné bezpečnostné požiadavky:
+a. Testovanie potvrdzujúce súlad s dokumentáciou
+b. Testovanie potvrdzujúce súlad s funkčnou špecifikáciou,
+c. Testovanie zraniteľností IS vrátane analýzy implementácie bezpečnostných funkcií,
+d. Aplikačné testy,
+e. Záťažové a výkonnostné testy,
+f. Príp. iné doplňujúce bezpečnostné testy.
+Dodávateľ sa zaväzuje, že súčasťou procesu odovzdania diela je realizácia odborného zaškolenia
+určených zamestnancov MŽP zameraného na zvládnutie štandardných prevádzkových postupov
+a spôsobov riešenia bežných prevádzkových problémov.
+Dodávateľ sa zaväzuje, že súčasťou procesu odovzdania diela je poskytnutie komplexnej súčinnosti
+a podpory odborným zamestnancom MŽP pri zmene hesiel k aplikačným, systémovým, inštalačným
+a technologickým účtom.
+Dodávateľ zodpovedá za všetky priame alebo nepriame škody, ktoré svojim úmyselným alebo
+neúmyselným konaním spôsobí objednávateľovi a zaväzuje sa nahradiť ich objednávateľovi, vrátane
+sankcií za porušenie legislatívy.
+Dodávateľ sa zaväzuje, že v zmysle zmluvného vzťahu s MŽP, ktorý súvisí s vývojom a aktualizáciou
+informačného systému pre MŽP, po vykonaní bezpečnostných testov predloží MŽP správu o výsledku
+bezpečnostných testov s vyhlásením, že výsledky testov predkladá pravdivé a nepozmenené.
+
+Čl. 4
+Záverečné ustanovenia
+31) Všeobecné podmienky o zabezpečení informačnej bezpečnosti MŽP sú záväzné pre dodávateľa
+v plnom rozsahu, pokiaľ v zmluve nie je ustanovené inak.
+32
+
+32) V prípade porušenia týchto všeobecných podmienok, v dôsledku ktorého vznikne škoda MŽP, sa
+dodávateľ zaväzuje nahradiť túto škodu.
+33) Všeobecné podmienky o zabezpečení informačnej bezpečnosti MŽP sú súčasťou zmluvného vzťahu:
+
+V ...................... dňa
+
+..................................................
+SEVITECH a.s.
+Ing. Jaroslav Murár, predseda predstavenstva
+
+.....................................................
+SEVITECH a.s.
+Jaroslav Gajdoš, člen predstavenstva
+
+33
+
+

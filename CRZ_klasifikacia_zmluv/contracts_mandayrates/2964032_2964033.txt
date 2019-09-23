@@ -1,0 +1,547 @@
+Kúpna zmluva č. Z201723549_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Finančné riaditeľstvo Slovenskej republiky
+Lazovná 63, 97401 Banská Bystrica, Slovenská republika
+42499500
+2023395253
+SK2023395253
+SK1481800000007000437837
++421 249234336
+
+Dodávateľ:
+Obchodné meno:
+
+Gratex International, a.s.
+
+Sídlo:
+
+Galvaniho ul. 17/C , 82104 Bratislava, Slovenská republika
+
+IČO:
+
+35743468
+
+DIČ:
+
+2020270604
+
+IČ DPH:
+
+SK2020270604
+
+Číslo účtu:
+Telefón:
+
++421911534336
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Dodanie sieťových úložísk dát s príslušenstvom
+
+Kľúčové slová:
+
+úložisko, NAS, dáta, disk
+
+CPV:
+
+48823000-3 - Súborové servery; 60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Predmetom zákazky je dodanie 10 ks sieťových úložísk dát (NAS) Synology RS3617xs+ alebo ekvivalentu vrátane
+príslušenstva (6 kusov pevných diskov pre osadenie v jednej NAS, celkom 60 ks pevných diskov) podľa špecifikácie,
+vrátane dopravy na miesto dodania.
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Minimum
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Maximum
+
+a) Technická špecifikácia sieťového úložiska dát (NAS)
+Sieťové úložisko dát s príslušenstvom
+
+Synology RS3617xs+ alebo ekvivalent
+
+Počet
+
+10 ks
+
+Prevedenie
+
+Rack
+
+CPU
+
+Intel Xeon D-1531, 64 bit architektúra
+
+Frekvencia
+
+Six Core 2.2 (base) / 2.7 (turbo) GHz
+
+Systém hardwarového šifrovania (AES-NI)
+
+áno
+
+Systémová pamäť
+
+8 GB DDR4 ECC UDIMM
+
+Celkový počet pamäťových slotov
+
+4
+
+Strana 1 z 5
+
+Presne
+
+Pamäť rozšíriteľná na
+
+64 GB (16 GB x 4)
+
+Počet šachiet pevného disku
+
+12 vrátane "caddies" pre montáž HDD
+
+Kompatibilné typy HDD pre osadenie do šachty
+
+1) 3,5" SATA III / SATA II HDD
+
+(pokračovanie)
+
+2) 2.5" SATA III / SATA II HDD
+
+(pokračovanie)
+
+3) 2,5" SATA(II)/SATA(II) disk SSD
+
+Maximálna interná hrubá kapacita
+
+120 TB (10 TB HDD x 12), kapacita sa môže odlišovať podľa typu
+RAID
+
+Možnosť pripojiť rozširujúcu jednotku
+
+Áno
+
+Počet šachiet pevného disku s rozširujúcou jednotkou
+
+36
+
+RJ-45 1GbE LAN port
+
+4 (s podporou funkcie Link Aggregation / Failover)
+
+RJ-45 10GbE LAN port
+
+2 (s podporou funkcie Link Aggregation / Failover)
+
+Port USB 3.0
+
+2
+
+Počet portov na rozšírenie PCIe
+
+2 x Gen3 x8 slots (x8 link)
+
+Add-in card support
+
+Sieťová karta PCIe
+
+Systém súborov interný
+
+Btrfs, EXT4
+
+Systém súborov externý
+
+Btrfs, EXT4, EXT3, FAT, NTFS, HFS+
+
+Ľahko vymeniteľný systémový ventilátor
+
+Áno
+
+Podpora bezdrôtového zariadenia (hardwarový klúč)
+
+Áno
+
+Zotavenie po strate napájania
+
+Áno
+
+Plánované zapnutie/vypnutie
+
+Áno
+
+Jednotka/adaptér zdroja energie
+
+2 x 500W
+
+Náhradný zdroj energie
+
+Áno
+
+Podporovaný typ RAID
+
+RAID F1, Basic, JBOD, RAID 0, 1, 5, 6, 10
+
+Migrácia zväzku RAID
+
+Basic to RAID 1, Basic to RAID 5, RAID 1 to RAID 5,
+
+(pokračovanie)
+
+RAID 5 to RAID 6
+
+Rozšírenie zväzku pomocou väčších pevných diskov /
+Rozšírenie zväzku pridaním pevného disku
+
+Min. RAID F1, RAID 5, RAID 6
+
+Global Hot Spare podpora RAID
+
+Pre typ RAID F1, RAID 5, 6, 10
+
+Počet miestnych užívateľských účtov
+
+16 000
+
+Počet miestnych skupín
+
+512
+
+Počet zdieľaných zložiek
+
+512
+
+Počet súbežných pripojení CIFS/AFP/FTP
+
+2048
+
+Integrácia s Windows ACL (Access Control List)
+
+Áno
+
+Overenie pomocou NFS Kerberos
+
+Áno
+
+Správca High Availability
+
+Áno
+
+Centrum protokolov
+
+Áno
+
+Počet Syslog udalostí za sekundu
+
+3000
+
+Virtualizácia
+
+Áno
+
+VMware vSphere 6 with VAAI
+
+Áno
+
+Windows Server 2012, Windows Server 2012 R2, Citrix
+Ready
+
+Áno
+
+Maximálny počet používateľov
+
+1 600
+
+Počet súbežných prenosov súborov pri 8 GB RAM
+
+2 000
+
+Počet súbežných úloh pri download
+
+80
+
+HiDrive Backup
+
+Áno
+
+MailPlus / MailPlus Server
+
+Áno
+Strana 2 z 5
+
+Bezplatné e-mailové účty
+
+Áno, min. 5 bezplatných licencií
+
+Media Server
+
+Áno
+
+DLNA Compliance
+
+Áno
+
+PetaSpace
+
+Áno
+
+Snapshot Replication
+
+Áno
+
+Surveillance Station
+
+Áno
+
+VPN Server
+
+Áno
+
+Počet pripojení
+
+30
+
+Požadované základné príslušenstvo
+
+1x Accessory Pack (Central Management System, Cloud Station
+Server, Chat), 2x napájací kábel 230V
+
+Príslušenstvo pre upevnenie NAS do 19“ racku
+
+Pohyblivé lyžiny (Kit) s nastaviteľnou hĺbkou uchytenia v rozmedzí
+610 -890 mm napr. Synology RKS1317 Sliding Rail For 1U/2U
+Models a s montážnym materiálom (skrutky, matice)
+
+b) Technická špecifikácia príslušenstva sieťového
+úložiska dát (NAS)
+Pevné disky určené pre osadenie v NAS
+
+Trieda diskov: Enterprise NAS, doporučené výrobcom NAS na
+základe Compatibility List pre dodávaný model sieťového úložiska
+
+Počet
+
+60 ks (t. j. 6 ks pre každú NAS)
+
+Použitý model HDD
+
+2 TB určený pre dátové úložisko pre prevádzku 24/7 1)
+
+Verzia firmware (FW) ponúkaného HDD
+
+Na základe Compatibility List pre dodávaný model sieťového
+úložiska 2)
+
+Cache
+
+128 MB
+
+Prevedenie
+
+3,5" SATA III HDD
+
+Vysvetlivky:
+1)
+
+Dodávateľ uvedie presný model HDD
+
+2)
+
+Dodávateľ uvedie verziu FW, ak je požadovaná v Compatibility
+Liste
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia: 2x Bratislava, 1x Trnava, 1x Nitra, 1x Trenčín, 1x Žilina, 1x Banská Bystrica, 1x Prešov, 1x
+Košice, 1x Michalovce.
+Presné adresy miest dodania budú dodávateľovi poskytnuté po uzavretí kúpnej zmluvy.
+Požadovaná lehota dodania: do 21 dní od uzavretia kúpnej zmluvy.
+Na predmet zákazky objednávateľ neposkytuje žiadne preddavky ani zálohové platby.
+Do ceny je možné započítať len ekonomicky oprávnené náklady a primeraný zisk podľa zákona č. 18/1996 Z. z. o cenách v
+znení neskorších predpisov.
+Zmena ceny nie je prípustná, okrem zmeny zákonnej sadzby DPH.
+Ak dodávateľ nie je platiteľom DPH, musí túto skutočnosť uviesť v ponuke.
+Všetky ponúkané parametre musí mať možnosť Objednávateľ overiť z verejne dostupných zdrojov na mieste/miestach, kde ich
+daný výrobca bežne uverejňuje. Dodávateľ na základe požiadavky poskytne Objednávateľovi adresy týchto verejných zdrojov.
+Zmluvné strany vyhlasujú, že za podstatné porušenie tejto zmluvy sa považuje dodanie predmetu zmluvy s akýmikoľvek
+vadami, omeškanie s riadnym dodaním predmetu zmluvy, v ktorom ktorákoľvek hodnota akéhokoľvek parametra bude
+rozporná s požiadavkami technickej špecifikácie, alebo nesplnenie ktorejkoľvek časti osobitných požiadaviek na predmet
+zmluvy.
+V cene predmetu zmluvy musia byť zahrnuté všetky náklady súvisiace priamo či nepriamo s dodaním predmetu zmluvy.
+Dodávateľ je povinný dodať celý predmet zmluvy v jednej dodávke, nie po častiach, nový, v originálom balení, nesmie byť pred
+dodaním používaný, opotrebovaný, vystavovaný, či testovaný.
+Dodávateľ dodá predmet zmluvy, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike, resp. v rámci
+Európskej únie a bude vyhovovať platným medzinárodným normám, STN a všeobecne záväzným právnym predpisom.
+Strana 3 z 5
+
+Objednávateľ v technickej špecifikácii predmetu zákazky uvádza minimálne požadované parametre.
+Dodávateľ môže poskytnúť aj ekvivalent. Ekvivalentom sa chápe tovar, ktorý dokáže plnohodnotne nahradiť požadovaný tovar
+bez obmedzení, má všetky vlastnosti rovnaké alebo lepšie a zaručuje 100% kompatibilitu s požadovaným tovarom bez
+akýchkoľvek obmedzení alebo zmien, čo Dodávateľ podloží potvrdením o kompatibilite a o tom, že sa jedná o ekvivalent, od
+nezávislej oficiálnej inštitúcie, ktorá má oprávnenie a odbornú možnosť a spôsobilosť takúto kompatibilitu a vlastnosti overiť a
+posúdiť a takéto potvrdenia vydáva.
+Objednávateľ má právo v prípade pochybností si vyžiadať vzorku na otestovanie, čo je Dodávateľ povinný poskytnúť do 3
+pracovných dní od vyzvania. V prípade preukázania, že predložená vzorka nespĺňa požadované parametre, Objednávateľ je
+oprávnený od zmluvy odstúpiť.
+V prípade dodania ekvivalentu sieťového úložiska dát Dodávateľ vyplní a zašle parametre ponuky v tabuľke identickej s
+„Technickou špecifikáciou predmetu zákazky, časť a) Technická špecifikácia sieťového úložiska dát (NAS)“ do 48 hodín od
+uzavretia zmluvy. V tabuľke uvedie všetky požadované hodnoty/vlastnosti a ponúkané hodnoty/vlastnosti (ponúkané
+hodnoty/vlastnosti treba uviesť konkrétne a nie sú nahraditeľné vyhlásením, že hodnotu/vlastnosť ponúkaný tovar spĺňa).
+Dodávateľ pre dodávku príslušenstva sieťového úložiska dát (NAS) vyplní a zašle parametre ponuky v tabuľke identickej s
+„Technickou špecifikáciou predmetu zákazky, časť b) Technická špecifikácia príslušenstva sieťového úložiska dát (NAS)“ do
+48 hodín od uzavretia zmluvy. V tabuľke uvedie všetky požadované hodnoty/vlastnosti a ponúkané hodnoty/vlastnosti
+(ponúkané hodnoty/vlastnosti treba uviesť konkrétne a nie sú nahraditeľné vyhlásením, že hodnotu/vlastnosť ponúkaný tovar
+spĺňa).
+Dodávateľ zabezpečí záručný servis v trvaní 48 mesiacov odo dňa prevzatia tovaru Objednávateľom v miestach dodania
+tovaru počas pracovných dní. Záručný servis sa vykonáva formou opravy alebo výmeny dielu a sprevádzkovaním vadného
+zariadenia do 48 hodín od nahlásenia poruchy Objednávateľom.
+Dodávateľ dodá Objednávateľovi do 48 hodín od uzavretia zmluvy presnú kontaktnú adresu servisného strediska, kde bude
+Objednávateľ uplatňovať písomné požiadavky na záručný servis. Za písomné oznámenie sa považuje aj komunikácia
+elektronickými prostriedkami (e-mail), ktorá umožňuje trvalé zachytenie obsahu komunikácie.
+Dodávateľ sa zaväzuje zaslať do 48 hodín od uzavretia zmluvy rozpis ceny predmetu zákazky v tabuľke v členení: jednotková
+cena za položku bez DPH, suma DPH za položku, cena za položku s DPH, celková cena za predmet zákazky bez DPH,
+celková suma DPH za predmet zákazky a celková cena za predmet zákazky s DPH. Položkou sa rozumie sieťové úložisko dát
+s príslušenstvom (6 ks pevných diskov v jednej NAS). Všetky ceny musia byť zaokrúhlené na 2 (dve) desatinné miesta.
+Cenu za príslušný tovar podľa zmluvy sa objednávateľ zaväzuje zaplatiť dodávateľovi na základe faktúry s lehotou splatnosti
+30 dní odo dňa jej doručenia.
+Dodávateľ uvedie vo faktúre číslo zmluvy.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+Okres:
+Obec:
+Ulica:
+3.2
+
+Čas / lehota plnenia zmluvy:
+21.06.2017 14:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+10,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+Strana 4 z 5
+
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 39 240,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 47 088,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 31.05.2017 12:46:01
+Objednávateľ:
+Finančné riaditeľstvo Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+Gratex International, a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 5 z 5
+
+

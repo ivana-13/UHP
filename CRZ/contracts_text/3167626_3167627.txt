@@ -1,0 +1,313 @@
+Kúpna zmluva č. Z201754924_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Fakultná nemocnica Trenčín
+Legionárska 28, 91171 Trenčín, Slovenská republika
+00610470
+2021254631
+SK2021254631
+SK2381800000007000280438
+0326566838
+
+Dodávateľ:
+Obchodné meno:
+
+MICROCOMP - Computersystém s r.o.
+
+Sídlo:
+
+Kupecká 9, 94901 Nitra, Slovenská republika
+
+IČO:
+
+31410952
+
+DIČ:
+
+2020405354
+
+IČ DPH:
+
+SK2020405354
+
+Číslo účtu:
+
+IBAN SK38 1100 0000 0026 2729 0119
+
+Telefón:
+
+0376511306
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Diskové pole
+
+Kľúčové slová:
+
+Server, diskové pole
+
+CPV:
+
+48823000-3 - Súborové servery; 60000000-8 - Dopravné služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Položka:
+
+Diskové pole
+
+Funkcia
+Veľkokapacitné diskové pole pre Hyper-V klaster
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Prevedenie
+
+rackmount, výška max 2U
+
+Počet diskových pozícii
+
+min 24, rozšíriteľnosť min do 120 ks 3,5” diskov alebo 240 ks 2,5”
+diskov, možnosť mixovania typov políc zapojených do jedného
+kontroléra
+
+Podpora RAID úrovní
+
+min. RAID 0, 1, 5, 6, 10; podpora distribuovaného RAID 5 a 6
+
+Veľkosť cache
+
+min. 16 GB per systém (8 GB per kontrolér), cache zálohovaná
+pamäťou flash
+
+Radiče
+
+min. 2 redundantné radiče s konektivitou: 4 x 12Gbps SAS
+Mini-SAS HD, SFF-8644 na každý radič a 2 x 1Gbps RJ45 na
+každý radič
+
+Kapacita poľa
+
+min. 18x 900GB 10k RPM 12Gbps SAS
+
+Podpora SSD diskov
+
+áno
+
+Strana 1 z 3
+
+Minimum
+
+Maximum
+
+Presne
+
+Podporované funkcionality
+
+thin provisioning, možnosť vykonania upgrade firmware radičov a
+diskov diskového poľa bez nutnosti odstávky aplikácie, možnosť
+vytvárania aspoň inkrementálnych a reverzných snapshotov a
+klonov LUN-ov
+
+-
+
+s možnosťou vytvárania viacerých konzistentných skupín na úrovni
+jednotlivých aplikácií, možnosť vytvárania väčších LUN ako 2TB,
+doplnková podpora synchrónnej a asynchrónnej replikácie cez FC,
+
+-
+
+IP a FCoE, doplnková podpora min. 3 úrovňového (tierového)
+tiering medzi rôznymi typmi diskov, neobmedzený počet hot-spare
+diskov.
+
+-
+
+Uvedené funkcionality musia byť poskytovane s kapacitne a
+časovo neobmedzeným licenčným pokrytím
+
+Podporovane operačne systémy
+
+Microsoft Windows Server 2012, 2012 R2, 2016; Red Hat
+Enterprise Linux (RHEL) 6 a 7; SUSE Linux Enterprise Server
+(SLES) 11 a 12; VMware vSphere 5.1, 5.5, 6.0, a 6.5.
+
+Káble
+
+min. 4x 3m 12Gb SAS kábel Mini-SAS HD, SFF-8644
+
+Napájanie a chladenie
+
+plne redundantné, zdroje a ventilátory typu hot-swap
+
+Záruka
+
+3 roky 24x7, garantovaný čas reakcie do 4 hodín od nahlásenia
+poruchy, servis v mieste inštalácie, v cene záruky sú zahrnuté
+náhradné diely a práca.
+
+2.3
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Požaduje sa predložiť vlastný návrh na plnenie predmetu zmluvy do 7 dní od uzavretia zmluvy
+Dodávateľ je povinný dodať nové zariadenia v pôvodnom obale
+Uchádzač dodá predmet zákazky, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike, resp. v rámci
+Európskej únie a bude vyhovovať platným medzinárodným normám, STN a všeobecne záväzným právnym predpisom
+Dodávateľ je povinný informovať Objednávateľa bez zbytočného odkladu o skutočnosti, že bude v omeškaní s poskytnutím
+Plnenia
+Dodávateľ nie je oprávnený požadovať akúkoľvek inú úhradu za prípadné dodatočné náklady, ktoré mu v súvislosti s plnením
+jeho povinností podľa tejto zmluvy vznikli a ktoré opomenul zahrnúť do ceny
+Všetky technické požiadavky a vlastnosti musia byť integrované v rámci zariadenia tzn. nie je povolené chýbajúce porty, sloty
+atď. nahrádzať redukciami, replikátormi a inými zariadeniami
+Dodávateľ je povinný do 7 dní od nadobudnutia účinnosti zmluvy predložiť potvrdenie výrobcu, že je certifikovaným
+obchodným a servisným partnerom pre ponúkané diskové pole. Porušenie tejto povinnosti sa považuje za podstatné
+porušenie zmluvy zo strany dodávateľa
+Zmluvné strany sa dohodli, že zmluvná strana v postavení veriteľa nepostúpi akúkoľvek svoju pohľadávku z tejto Zmluvy tretej
+osobe bez predchádzajúceho písomného súhlasu dlžníka. Písomný súhlas dlžníka s týmto úkonom je zároveň platný len za
+podmienky, že bol na tento úkon udelený predchádzajúci písomný súhlas Ministerstva zdravotníctva SR. V prípade, že dôjde
+zo strany veriteľa k porušeniu tejto povinnosti a svoje práva a povinnosti z tejto Zmluvy postúpi tretej osobe, bude toto
+postúpenie v súlade s § 39 zákona č. 40/1964 Zb. považované za neplatné.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Trenčiansky
+
+Okres:
+
+Trenčín
+Strana 2 z 3
+
+3.2
+
+Obec:
+
+Trenčín
+
+Ulica:
+
+Legionárska 28
+
+Čas / lehota plnenia zmluvy:
+08.11.2017 07:00:00 - 30.11.2017 13:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+ks
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 12 100,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 14 520,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 26.10.2017 09:46:01
+Objednávateľ:
+Fakultná nemocnica Trenčín
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+MICROCOMP - Computersystém s r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 3 z 3
+
+

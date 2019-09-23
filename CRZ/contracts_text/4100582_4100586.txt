@@ -1,0 +1,622 @@
+C U L T E CZO
+CENTRAL EUROPE
+
+m
+Iffr
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Zmenový list číslo 006/2019
+Objednávateľ
+Zhotoviteľ
+Produkt
+
+Finančné riaditeľstvo SR
+Asseco Central Europe, a.s.
+DWH FR SR
+
+Názov zadania
+Analýza a implementácia úpravy otvoreného modulu ADMIS pre oddelenie agendy hazardných
+hier (HH) podľa nasledujúcich požiadaviek:
+
+1.
+a.
+
+Odstúpenie agendy z pôvodného mandanta a migrácia agendy hazardných hier
+v minimálnom režime
+b. Integrácia nového mandanta Hazardné hry na agendový modul HH v minimálnom
+režime.
+
+2.
+a.
+b.
+c.
+
+Úprava mandanta pre agendu hazardných hier
+Kompletná migrácia agendy prevádzkovateľov hazardných hier z modulu ADMIS
+do nového mandanta
+Kompletná integrácia na nový agendový modul HH.
+
+Popis zadania_____________________________________________________________________
+V rámci zabezpečenia potrieb FR SR a povinností vyplývajúcich z platnej legislatívy požadujeme
+realizovať úpravu existujúceho riešenia modulu ADMIS pre oddelenie agendy hazardných hier (HH).
+Riešenie bude realizované po etapách podľa požiadaviek definovaných objednávateľom nasledovne:
+1.
+
+Etapa
+
+Termín realizácie do 15.07.2019.
+V rámci tejto etapy bude realizované:
+a)
+
+Odstúpenie aaendv z pôvodného mandanta a migrácia agendy hazardných hier
+v minimálnom režime.
+
+Z dôvodu veľkého počtu elektronicky doručených dokumentov agendy hazardných hier
+do systému ISFS-SD je požadovaná dostupnosť vybraných dokumentov na čítanie
+v agendovom module HH. Riešením bude migrácia tých dokumentov, ktoré majú identifikátor
+v mlgrovaných dátach pre modul HH.
+Samotnú migráciu týchto dokumentov požadujeme realizovať nasledovne:
+•
+
+vytvorenie zoznamu identifikátorov dokumentov podľa migrácie modulu HH,
+
+•
+
+vykonanie exportu dokumentov z modulu ADMIS,
+
+•
+•
+
+vykonanie importu dokumentov do nového mandanta,
+vykonanie exportu zoznamu nových a pôvodných identifikátorov dokumentov,
+
+•
+
+poskytnutie identifikátorov dokumentov pre modul HH.
+
+Pri tejto migrácii požadujeme zabezpečiť prístupové práva na čítanie dokumentov z modulu
+_______ HH, pričom ich editácia nebude umožnená na strane nového mandanta._________________
+Strana 1/5
+
+c n _ r _ r e c z a
+CENTRAL EUROPE
+
+HNANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+Takto dočasne migrované dokumenty budú po finálnej migrácii odstránené a nahradené
+dokumentárni finálnej migrácie s kompletnou štruktúrou potrebnou pre registratúru.
+Požadujeme vytvoriť funkcionalitu pre odstúpenie vybraných spisov z existujúceho
+mandanta na nového mandanta. Funkcionalita bude prístupná pre správcu registratúry, ktorý
+by podľa zoznamu vytvoril odstúpenie spisu. Takto odstúpené spisy budú procesné
+prerozdeľované používateľmi na novom mandantovi. Spisy, ktoré budú predmetom takéhoto
+odstúpenia si v pôvodnom mandantovi označia ako odstúpené a nebudú dostupné
+pre používateľov pôvodného mandanta.
+Z dôvodu identifikácie prevádzkovateľov na spisoch nového mandanta požadujeme
+zabezpečiť jednorazový import prevádzkovateľov do nového mandanta ako osôb
+identifikovaných na základe súboru MS Excel poskytnutého z modulu HH.
+b)
+
+Integrácia nového mandanta Hazardné hrv na aoendovv modul HH v minimálnom
+režime.
+
+Z dôvodu veľkého počtu elektronických podaní doručených cez schránku ÚPVS, ktoré je
+potrebné automatizovane spracúvať v module HH, požadujeme zabezpečiť integráciu aspoň
+v minimálnom režime, ktorá umožní presúvanie elektronických dokumentov a základných
+metadát. Integrácia bude realizovaná pomocou webových služieb na protokole SOAP 1.2,
+pričom prenos obsahov dokumentov bude realizovaný cez protokol WebDAV z dôvodu
+rýchlejšieho prenosu metadát a tiež obsahov.
+1. Na vstupe požadujeme zabezpečiť rozhranie na strane nového mandanta, ktorým
+si bude môcť modul HH:
+•
+
+získať zoznam doručených záznamov,
+prevádzkovateľa aj so základnými údajmi,
+
+•
+
+získať obsah dokumentov záznamu,
+
+•
+
+potvrdiť prevzatie záznamu na spracovanie.
+
+ktoré
+
+boli
+
+vložené
+
+v spise
+
+2. Na výstupe požadujeme zabezpečiť rozhranie na strane nového mandanta, ktorým
+si bude môcť modul HH:
+•
+
+vytvoriť odoslaný záznam externý v existujúcom spise bez dokumentov, pričom
+nový mandant poskytne číslo záznamu a identifikátory,
+
+• vložiť dokument do vytvoreného odoslaného záznamu externého.
+3. Pri vybavovaní agendy modulu HH požadujeme, aby nový mandant poskytol
+funkcionalitu pre zobrazenie obsahu nových dokumentov a tiež dokumentov, ktoré
+boli predmetom migrácie v minimálnom režime. Zobrazenie dokumentov bude
+realizované pomocou http volania WebDAV protokolu. Zobrazenie migrovaných
+dokumentov je limitované termínom migrácie v minimálnom režime.
+Výstupom tejto etapy bude dokument Analýza s prípadmi použitia UWS pre modul HH a zoznam
+elektronicky doručených dokumentov agendy hazardných hier zo systému ISFS-SD a v predmetnom
+rozsahu implementované a nasadené riešenie pre integráciu nového mandanta na modul HH ako aj
+realizovaná funkcionalita pre odstúpenie a migráciu agendy HH.
+2.
+
+Etapa
+
+Termín realizácie do 31.10.2019.
+V rámci tejto etapy bude realizované:
+a)
+
+Úprava mandanta pre agendu hazardných hier.
+
+Pre potreby správneho fungovania integrácie a tiež z dôvodu zladenia dátových štruktúr
+_______ požadujeme implementovať zmeny na novom mandantovi, ktoré zabezpečia:_____________
+Strana 2/5
+
+cuireczD
+CENTRAL EUROPE
+
+b)
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+•
+
+úpravu vstupného procesu doručených záznamov externých pre potreby
+zefektívnenia práce s elektronickými podaniami,
+
+•
+
+úpravu metadát a formulárov záznamov a spisov z dôvodu zladenia štruktúr
+pre migráciu,
+
+•
+
+úpravu prístupových práv v registratúre,
+
+•
+
+úpravu číslovania záznamov a spisov,
+
+•
+
+import registratúrneho plánu,
+
+•
+•
+
+konfiguráciu doručovacieho procesu papierových a elektronických dokumentov
+na výstupe,
+vytvorenie Word šablón,
+
+•
+
+import číselníkov, používateľov a organizačnej štruktúry,
+
+•
+
+zabezpečenie povinnosti schvaľovania odoslaných záznamov,
+
+•
+
+vytvorenie kategorizácie záznamov a spisov podľa dodaných podkladov.
+
+Kompletná migrácia agendy prevádzkovateľov hazardných hier z modulu ADMIS
+do nového mandanta.
+
+Požadujeme zabezpečiť migráciu dát a príslušných obsahov dokumentov z modulu ADMIS
+do nového mandanta.
+Predmetom migrácie budú:
+•
+•
+
+bežné spisy a pôvodné spisy HH evidované na vymenovaných používateľoch,
+všetky záznamy v migrovaných spisoch,
+
+•
+
+všetky dokumenty v migrovaných záznamoch,
+
+• všetky subjekty adresára v migrovaných spisoch a záznamoch.
+Uvedené záznamy a spisy budú namigrované ako vybavené a uzavreté.
+Požadujeme nasledovný priebeh migrácie:
+•
+
+c)
+
+export dát a obsahov z modulu ADMIS do prechodnej migračnej databázy,
+
+•
+
+import dát z prechodnej migračnej databázy do nového mandanta,
+
+•
+
+export dát z produkčnej databázy nového mandanta pre potreby moduiu HH:
+o
+nové a k nim pôvodné identifikátory dokumentov,
+o
+čísla spisov a k nim identifikátory,
+o
+čísla záznamov a k nim identifikátory,
+
+•
+
+súčinnosť pri importe dát z produkčnej databázy nového mandanta do modulu
+HH.
+
+Kompletná integrácia na novy aqendovv modul HH.
+
+Vytvorenú minimálnu integráciu v prvej etape požadujeme rozšíriť, prípadne upraviť o ďalšie
+metadáta, prípadne zmenu logiky spracovania v už implementovaných rozhraniach. Okrem
+toho je potrebné vytvoriť ďalšie rozhrania, ktoré umožnia:
+•
+
+odoslanie odoslaného záznamu externého do procesu schválenia priamo
+z modulu HH,
+
+•
+•
+
+notifikácie o doručení doručovacej úlohy, prípadne zmeny jej stavu,
+synchronizáciu čísiel spisov medzi modulmi z dôvodu ich zmeny na prelome roka,
+
+•
+
+synchronizáciu prevádzkovateľov medzi modulmi.
+
+Strana 3/5
+
+□ J T E C D
+
+J FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+CENTRAL EUROPE
+
+Výstupom tejto etapy bude:
+•
+
+Dokument Analýza obsahujúca:
+
+•
+
+#
+
+•
+
+návrh úprav pre nového mandanta Hazardné hry,
+
+•
+
+návrh riešenia pre kompletnú integráciu na agendový modul HH,
+
+•
+
+špecifikáciu migrácie
+mandanta.
+
+registratúrnej
+
+agendy z modulu ADMIS do
+
+nového
+
+Implementácia a nasadenie pre:
+•
+
+riešenie úprav nového mandanta,
+
+•
+
+riešenie úprav pre integráciu nového mandanta na modul HH,
+
+•
+
+migráciu agendy prevádzkovateľov hazardných hier z modulu ADMIS do nového
+mandanta.
+
+Príloha
+
+Formát
+
+Prílohy špecifikované v horeuvedenom zozname tvoria neoddeliteľnú súčasť tohto zmenového listu.
+1 .Etapa:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+15.07.2019
+2 093
+186 758,39,-EUR
+37 351,68,-EUR
+224110,07,-EUR
+
+!
+
+2. Etapa:
+
+Termín realizácie
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+
+31.10.2019
+3 898
+347 818,54,- EUR
+69 563,71,- EUR
+417 382,25,- EUR
+
+Objednávateľ a zhotoviteľ sa pre realizáciu tohto ZL dohodli, že predmetné etapy budú fakturované
+samostatne po zmluvne definovanom akceptačnom konaní
+Spolu:
+
+Počet človekohodín
+Cena v EUR bez DPH
+DPH
+Cena v EUR s DPH
+Zodpovedný zástupca zo strany zhotoviteľa
+Zodpovedný zástupca zo strany objednávateľa
+
+5 991
+534 576,93,- EUR
+106 915,39,- EUR
+641 492,32,- EUR
+......​..........​...​.......
+......​..............​.........
+
+Reštrikcie, poznámky k funkcionalite____________________________________________________
+Predmetom dodávky podľa tohto Zmenového listu je analýza, návrh riešenia, vývoj a dodanie diela
+zo strany zhotoviteľa. Nevyhnutné technické, softvérové, licenčné požiadavky, prípadne iné obdobné
+nároky a náklady súvisiace s realizáciou a následnou prevádzkou riešenia budú zabezpečené
+zo strany objednávateľa.
+Objednávateľ zabezpečí pre zhotoviteľa súčinnosť v dostatočnom rozsahu a požadovanom čase
+pre realizáciu tohto Zmenového konania vo forme konzultácií, dodania príslušných podkladov, údajov
+a výstupov a spoluúčasti na tvorbe, realizácii a testovaní riešenia od tretích strán implementujúcich
+Strana 4/5
+
+□JJECO
+CENTRAL EUROPE
+
+í®g"»«5íl
+fe ft
+» P
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+dotknuté IS a tiež aj zo svojej strany ako objednávateľa.
+Súčasťou zabezpečenia súčinnosti zo strany objednávateľa bude aj splnenie nasledovných
+predpokladov:
+1. Objednávateľ musí zadefinovať predmet a rozsah migrácie v súlade s požiadavkami na
+dotknuté systémy.
+2. Objednávateľ včas zabezpečí súčinnosť a výkony dodávateľov ostatných systémov, s ktorými
+má byť nový mandant integrovaný (analytické a konzultačné práce dodávateľov ostatných
+systémov).
+3. Objednávateľ určí koordinátora s potrebnými právomocami rozhodovať a jednať v otázkach
+týkajúcich sa organizácie projektu, ktorý bude zabezpečovať súčinnosť so zhotoviteľom
+v nasledovných oblastiach:
+a) zabezpečovať komunikáciu medzi projektovým tímom objednávateľa a zhotoviteľa,
+b) získavať a poskytovať informácie, údaje, rozhodnutia a stanoviská objednávateľa v súlade
+s lehotou na poskytnutie súčinnosti,
+c) zabezpečovať dostupnosť vecne príslušného zamestnanca objednávateľa, ktorého
+súčinnosť je potrebná pre vykonanie prác uvedených v tomto Zmenovom liste,
+d) aktívne sa zúčastňovať na projektových stretnutiach a zabezpečiť si účasť na projektových
+stretnutiach dotknutých systémov a vzájomnú informovanosť,
+e) pomáhať pri riešení priebežných problémov a eskalovať problémy v prípade potreby,
+f) zodpovedať za obsah databáz a údajov, výber a implementáciu riadenia prístupu k ním, ich
+použitie, zálohu, obnovu a bezpečnosť údajov v súlade s pokynmi zhotoviteľa,
+g) zabezpečovať vykonanie všetkých nevyhnutných predpokladov pred samotným začatím
+inštalácie a konfigurácie,
+h) zabezpečovať, aby všetky prostredia spĺňali zadané predpoklady opísané v príslušnej
+dokumentácii.
+4. Nasadzovanie viacerých riešení - viacerých systémov si nevyhnutne vyžaduje definovať rolu
+hlavného architekta, ktorý bude dohliadať nad technologickou a systémovou
+integráciou/kompatibilitou jednotlivých riešení.
+5. Prípadná zmena (úprava) legislatívy bude v dostatočnom predstihu zohľadnená formou procesu
+riadenia zmien tak, aby jej dopad na harmonogram zmenových konaní umožnil dodržať
+dohodnuté termíny dodávok.
+6. Objednávateľ je zodpovedný za všetky aktivity v oblasti informačnej bezpečnosti interne ako aj
+s tretími stranami.
+
+Strana 5/5
+
+G U IT E C D
+
+FINANČNÉ RIADITEĽSTVO
+SLOVENSKEJ REPUBLIKY
+
+CENTRAL EUROPE
+
+Kalkulácia ZK 006/2019
+
+p.e.
+i
+
+Činnosť
+
+2
+
+Riadiace práce
+Analytické práce spolu
+
+3
+
+Dizajnérske práce
+
+4
+
+Programátorské práce
+
+5
+
+Prácnosť Jednotk.
+v človekosuma
+hodinách
+v EUR
+
+Suma bez
+DPH v EUR
+
+Sadzba
+DPH v %
+
+Suma DPH
+v EUR
+
+Suma celkom
+v EUR
+
+359
+1 201
+
+89,23
+
+32 033,57
+
+20,00
+
+6 406,71
+
+38 440,28
+
+89,23
+
+107 165,23
+
+20,00
+
+21 433,05
+
+128 598,28
+
+423
+
+89,23
+
+37 744,29
+
+20,00
+
+7 548,86
+
+2 397
+
+89,23
+
+213 884,31
+
+20,00
+
+42 776,86
+
+45 293,15
+256 661,17
+
+Testovacie práce u zhotoviteľa
+Databázová a systémová podpora u zhotoviteľa
+
+417
+
+89,23
+
+20,00
+
+7 441,78
+
+44 650,69
+
+20,00
+
+8 494,70
+
+50 968,18
+
+Zapracovanie zmien do dokumentácie
+
+118
+
+89,23
+89,23
+
+37 208,91
+42 473,48
+10 529,14
+
+20,00
+
+2 105,83
+
+12 634,97
+
+8
+
+Podpora inštalačných prác u objednávateľa
+
+125
+
+89,23
+
+11 153,75
+
+20,00
+
+2 230,75
+
+13 384,50
+
+g
+
+Databázová a systémová podpora u objednávateľa
+Podpora zhotoviteľa pri testovaní objednávateľom
+SPOLU
+
+177
+298
+
+89,23
+89,23
+
+15 793,71
+26 590,54
+534 576,93
+
+20,00
+20,00
+
+3 158,74
+5318,11
+
+18 952,45
+31 908,65
+
+106 915,39
+
+641 492,32
+
+6
+7
+
+10
+
+Dňa
+
+476
+
+5 991
+
+

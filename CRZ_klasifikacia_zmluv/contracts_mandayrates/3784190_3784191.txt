@@ -1,0 +1,629 @@
+Kúpna zmluva č. Z201852424_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Národná banka Slovenska
+Imricha Karvaša 1, 81325 Bratislava - Staré Mesto, Slovenská republika
+30844789
+2020815654
+SK2020815654
++421257871226
+
+Dodávateľ:
+Obchodné meno:
+
+TEMPEST a.s.
+
+Sídlo:
+
+Galvaniho 17/B, 82104 Bratislava, Slovenská republika
+
+IČO:
+
+31326650
+
+DIČ:
+
+2020327716
+
+IČ DPH:
+
+SK2020327716
+
+Číslo účtu:
+
+SK13 1100 0000 0026 2004 1080
+
+Telefón:
+
+0250267111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Nákup páskových knižníc
+
+Kľúčové slová:
+
+magnetické pásky
+
+CPV:
+
+30234700-5 - Magnetické pásky; 30233120-8 - Pamäťové jednotky s magnetickou páskou;
+30233161-7 - Zariadenia na manipuláciu s kazetami; 60000000-8 - Dopravné služby (bez
+prepravy odpadu); 30233160-0 - Páskové zálohové pamäte
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná a technická špecifikácia predmetu Zmluvy:
+
+Zoznam položiek:
+1. Páskové knižnice
+2. Požiadavky na inštalačné služby výrobcu pre Páskové knižnice
+3. Požiadavky na servisné služby výrobcu pre Páskové knižnice
+4. Požiadavky na školenie pre Páskové knižnice
+Položka č. 1:
+
+Páskové knižnice
+
+Funkcia
+Predmetom zákazky je nákup dvoch páskových knižníc pre centrálny zálohovací systém.
+Technické vlastnosti
+
+Jednotka
+
+Nové páskové knižnice nahradia súčasné 2 páskové
+knižnice Sun StorageTek SL500 pozostávajúce každá z
+troch modulov s ôsmymi mechanikami LTO4, 150 médií,
+jedným robotom a CAP-om umožňujúcim naraz výmenu
+15 médií, nové páskové knižnice by mali mať minimálne
+rovnaké vlastnosti, zohľadňujúc technologický pokrok v
+tejto oblasti. Počty komponentov sú uvádzané v
+špecifikácii pre jednu knižnicu.
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+Strana 1 z 6
+
+Minimum
+
+Maximum
+
+Presne
+
+2
+
+1. Prevedenie
+
+Pásková knižnica musí tvoriť samostatný funkčný celok
+umiestniteľný v štandardnom 19“ technologickom stojane (Racku)
+s hĺbkou 1000 mm a s maximálnou celkovou hmotnosťou jedného
+stojana 600 kg.
+
+1. Prevedenie
+
+Hĺbka páskovej knižnice nesmie presiahnuť 925 mm, aby bolo
+možné plne uzavrieť predné aj zadné dvere racku aj po pripojení
+kabeláže.
+
+1. Prevedenie
+
+Výška páskovej knižnice pre maximálnu požadovanú konfiguráciu
+nesmie presiahnuť 29U. Rack nie je súčasťou dodávky.
+
+2. Napájacie zdroje
+
+Pásková knižnica musí obsahovať minimálne dva nezávislé hot
+plug zdroje redundantného napájania, ventilátory s redundanciou
+N+1. Výpadok jedného zdroja či ventilátora nesmie mať dopad na
+jej prevádzku
+
+3. Požadované funkcionality
+
+a/ tvorba záloh resp. obnova dát z takto urobených záloh s
+využítím SW Veritas Netbackup 8.1 a vyššie,
+
+3. Požadované funkcionality
+
+b/ podpora šifrovania dát tak mechaníkou zo zálohovacieho SW
+NetBackup ako aj možnosť vlastného šifrovania, nezávislého na
+zálohovacom SW,
+
+3. Požadované funkcionality
+
+c/ kompresia dát na úrovni mechaník,
+d/ kontrola úspešnosti zápisu na úrovni mechaník a
+pások,
+
+3. Požadované funkcionality
+
+e/ podpora a riešenie nezávislého testovania konzistencie dát na
+páskach v rámci ponúkanej technológie knižnice
+
+3. Požadované funkcionality
+
+f/ možnosť pripojenia robota a mechaník dvomi cestami,
+umožňujúceho dynamickú zmenu cesty v SAN sieti,
+
+3. Požadované funkcionality
+
+g/ deklarovaná maximálna rýchlosť zápisu v technickej
+dokumentácii výrobcu musí byť min. 8 TB/hr a 300 MB/sec na
+mechaniku, pri počte 8 mechaník,
+
+3. Požadované funkcionality
+
+h/ súčasťou dodávky musia byť aj licencie v kapacite
+zodpovedajúcej požadovanej konfigurácii v prípade, ak sú k
+požadovaným funkcionalitám potrebné,
+
+3. Požadované funkcionality
+
+i/ pásková knižnica musí podporovať tzv. Partitioning, t. j.
+rozdelenie knižnice do viacerých diskrétnych sekcií,
+
+3. Požadované funkcionality
+
+j/ pásková knižnica musí poskytovať GUI aj CLI rozhranie pre
+správu funkčných vlastností páskovej knižnice, vrátane
+centralizovanej správy oboch knižníc a vzdialeného prístupu,
+
+3. Požadované funkcionality
+
+k/pásková knižnica musí umožňovať autentizáciu a riadenie
+prístupu pre administráciu, vrátane šifrovaného prístupu pre
+administráciu, vytváranie auditných záznamov o prístupoch
+
+3. Požadované funkcionality
+
+a vykonaných činnostiach,
+
+3. Požadované funkcionality
+
+l/ pásková knižnica musí poskytovať reporty o stave a štatistiky
+vyťaženia zariadenia (komunikačné rozhranie),
+
+3. Požadované funkcionality
+
+m/ pásková knižnica musí poskytovať výstupy pre centrálny
+monitoring (napr. SNMP, prístup do logov a pod.), vrátane
+automatických upozornení o chybových stavoch (napr. cez SMTP).
+
+4. Knižničný subsystém
+
+Pásková knižnica musí obsahovať minimálne 120 slotov pre médiá
+(vrátane čistiacich médií).
+
+5. Mechaniky
+
+Pásková knižnica musí obsahovať minimálne 8 zálohovacích
+mechaník využívajúcich technológiu LTO-8 s kapacitou 12TB (bez
+kompresie), resp. 30TB (s kompresiou) s prenosovou rýchlosťou
+aspoň 300 MB/sec
+
+5. Mechaniky
+
+s pripojením aspoň FC 8Gbps na mechaniku, pripojenie s dvomi
+komunikačnými rozhraniami FC s rýchlosťou min. 8Gbps,
+umožňujúcou pripojenie do nezávislých SAN okruhov, SFP musia
+byť súčasťou dodávky.
+
+6. Robot
+
+Pásková knižnica musí obsahovať minimálne jedného robota s
+pripojením aspoň FC 8Gbps, pripojenie s dvomi komunikačnými
+rozhraniami FC s rýchlosťou min. 8Gbps, umožňujúcou pripojenie
+do nezávislých SAN
+
+6. Robot
+
+okruhov, SFP musia byť súčasťou dodávky.
+
+Strana 2 z 6
+
+7. Požadovaná rozšíriteľnosť
+
+Pásková knižnica musí umožňovať neskoršie rozšírenie počtu
+slotov na minimálne 240 a počtu mechaník minimálne na 16.
+
+8. Typy médií
+
+Pásková knižnica musí umožňovať použitie RW i WORM médií
+LTO8.
+
+9. Média
+
+Dodávka musí obsahovať aspoň 120 médií LTO8 na knižnicu, z
+toho 20 médií typu WORM označených štítkami, s tým že pre
+jednu knižnicu budú mať v názve označenie HTP a pre druhú ZTP
+a potom čísla
+
+9. Média
+
+od 1 po N a taktiež musia byť dodané čistiace média pre každú
+knižnicu v počte 8 ks.
+
+10. Manažment médií
+
+Pásková knižnica musí umožňovať manažment médií označených
+štítkami so štandardným čiarovým kódom, prípadne iným
+spôsobom označenia.
+
+11. Manipulácia s médiami
+
+Pásková knižnica musí mať CAP(I/O sloty, Mail sloty) s
+minimálnou kapacitou umožňujúcou vymeniť naraz aspoň 10
+médií.
+
+12. Správa a manažment
+
+Každá pásková knižnica musí mať dedikovaný port Ethernet RJ45
+pre správu s rýchlosťou min 100 Mbit/s. Súčasťou dodávky musí
+byť aj softvér určený pre správu páskových knižníc, s GUI aj CLI
+rozhraním
+
+12. Správa a manažment
+
+dostupnými cez šifrovaný komunikačný kanál(https,SSH). Tento
+nástroj musí okrem všetkých bežných správcovských úkonov
+umožňovať min. aj sledovanie výkonu a kapacity páskových
+knižníc a to
+
+12. Správa a manažment
+
+ako operatívnych, tak aj historických údajov, s minimálnou
+retenciou 2 mesiace. Súčasťou dodávky musia byť (ak sú
+potrebné) aj licencie pokrývajúce požadovanú konfiguráciu so
+všetkými funkcionalitami,
+
+12. Správa a manažment
+
+ktoré tento softvér poskytuje. Knižnica musí umožňovať aj
+Partitioning, s minimálne 12 partitions, prípadné licencie musia byť
+tiež zahrnuté v cene.
+
+13. Podporované operačné systémy
+
+Windows Server 2012 R2 a vyššie, Red Hat Enterprise Linux 6.9 a
+7.3 a vyššie, Oracle Linux 6.9 a vyššie. Nie je súčasťou dodávky.
+
+14. Podporované backup SW
+
+Veritas Netbackup verzia 8.1 a vyššie. Nie je súčasťou dodávky.
+
+15. Kompatibilita
+
+Knižnica musí vyhovovať ohľadom kompatibility dokumentu
+„Veritas NetBackup ™ Enterprise Server and Server 8.0 - 8.x.x
+Hardware and Cloud Storage Compatibility List (HCL)“, prípadne
+novšiemu.
+
+16. Ďalší SW
+
+Súčasťou dodávky musí byť aj SW pre OnLine sledovanie
+životnosti a stavu médií a mechaník, ktorý nielen zbiera štatistické
+údaje ale aj navrhne riešenie(napr. proaktívna výmena rizikových
+médií).
+
+16. Ďalší SW
+
+SW musí obsahovať i možnosť analýzy z historických dát
+uložených týmto SW. SW môže byť či už integrovaný priamo
+výrobcom,
+
+16. Ďalší SW
+
+alebo od tretej strany, pričom licencie pre SW aj s podporou
+výrobcu a prístupom ku novším verziám SW na obdobie 6 rokov
+musia byť súčasťou dodávky.
+
+17. Príslušenstvo
+
+Súčasťou dodávky musia byť všetky káble potrebné k pripojeniu
+páskových knižníc do LAN a SAN sietí a ku pripojeniu ku
+elektrickým zdrojom napájania 230V prostredníctvom vidlíc
+IEC320-C13 male,
+
+17. Príslušenstvo
+
+alebo IEC320-C19 male. Dĺžka prípojných káblov musí byť u FC
+káblu minimálne 3m OM4, u LAN káblov dlĺžka 5m CAT5 a vyššia.
+
+18. Ostatné
+
+Všetky technické hodnoty sú uvedené ako minimálne hodnoty.
+
+Položka č. 2:
+
+Požiadavky na inštalačné služby výrobcu pre Páskové knižnice
+
+Funkcia
+Inštalačné služby
+
+Strana 3 z 6
+
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Dodávka
+
+Dodanie všetkých zariadení a komponentov na miesta dodania.
+
+2. Inštalácia
+
+Vybalenie, skompletizovanie, montáž do rackov objednávateľa,
+inicializácia HW vrátane updatu FW, základná konfigurácia po
+prvom štarte, pripojenie do SAN a LAN,
+
+2. Inštalácia
+
+konfigurácia systémových nastavení páskových knižníc podľa
+doporučení výrobcu, likvidácia odpadu.
+
+Položka č. 3:
+
+Minimum
+
+Maximum
+
+Presne
+
+Požiadavky na servisné služby výrobcu pre Páskové knižnice
+
+Funkcia
+Servisné služby
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Odstraňovanie HW a SW porúch
+
+Odstránenie HW a SW porúch pre všetky dodané zariadenia a ich
+komponenty, odstránenie poruchy najneskôr nasledujúci pracovný
+deň od nahlásenia,
+
+1. Odstraňovanie HW a SW porúch
+
+dĺžka poskytovania 6 rokov, odo dňa uvedenia zariadenia do
+prevádzky čo je potvrdené podpísaným protokolom o odovzdaní a
+prevzatí zariadenia.
+
+2. Prístup k FW a SW updatom
+
+Prístup k novým verziám FW a SW pre všetky dodané zariadenia a
+ich komponenty prostredníctvom webového portálu výrobcu, alebo
+na tento účel určenej aplikácie,
+
+2. Prístup k FW a SW updatom
+
+dĺžka poskytovania 6 rokov, odo dňa uvedenia zariadenia do
+prevádzky čo je potvrdené podpísaným protokolom o odovzdaní a
+prevzatí zariadenia.
+
+Položka č. 4:
+
+Minimum
+
+Maximum
+
+Presne
+
+Požiadavky na školenie pre Páskové knižnice
+
+Funkcia
+Školenie
+Technické vlastnosti
+
+Jednotka
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+1. Miesto školenia
+
+Školenie bude prebiehať v špecializovanom školiacom stredisku
+poskytujúcim školenia výrobcu, alebo na dodaných páskových
+knižniciach v priestoroch objednávateľa.
+
+2. Rozsah školenia
+
+Školenie musí pokrývať bežné konfiguračné a prevádzkové úkony
+súvisiace so správou knižníc, pričom jeho trvanie nebude kratšie
+ako 2 pracovné dni, pre 3 správcov objednávateľa.
+
+3. Materiály a dokumentácia ku školeniu
+
+Materiály a dokumentácia ku školeniu musia byť vydané výrobcom,
+určené pre účely školenia na ten typ, či modelovú radu páskových
+knižníc, ktoré sú súčasťou dodávky.
+
+2.3
+
+Minimum
+
+Maximum
+
+Presne
+
+Osobitné požiadavky na plnenie:
+
+Názov
+1. Vrátane dopravy na dve miesta plnenia v Bratislave.
+2. Dodávateľ je povinný dodať nové, nerepasované, doposiaľ nepoužívané zariadenie.
+3. Požaduje sa predložiť podrobný aktualizovaný rozpočet jednotkovej ceny položky č. 1 a cien položiek 2, 3, 4 s DPH a bez
+DPH do 7 dní od nadobudnutia účinnosti zmluvy zaslaním na e-mailovú adresu objednávateľa.
+
+Strana 4 z 6
+
+4. Ak je Dodávateľ identifikovaný pre DPH v inom členskom štáte EÚ a tovar bude do SR prepravený z iného členského štátu
+EÚ, tento Dodávateľ nebude pri plnení Zmluvy fakturovať DPH. Vo svojej Kontraktačnej ponuke však musí uviesť príslušnú
+sadzbu a výšku DPH podľa zákona č. 222/2004 Z.z. a cenu vrátane DPH. Objednávateľ nie je zdaniteľnou osobou a v tomto
+prípade je/bude registrovaný pre DPH podľa § 7 zákona č. 222/2004 Z.z. a bude povinný odviesť DPH v SR podľa zákona č.
+222/2004 Z.z..
+5. Zariadenia, ktoré sú predmetom plnenia, nesmú mať ukončenú životnosť (End of Life), alebo predaj (End of Sale), čo
+dodávateľ preukáže potvrdením výrobcu zariadení, a to do 5 pracovných dní odo dňa nadobudnutia účinnosti zmluvy,
+zaslaním na e-mailovú adresu objednávateľa.
+6. Dodávateľ doručí, na e-mailovú adresu objednávateľa do 5 pracovných dní odo dňa nadobudnutia účinnosti zmluvy,
+vyhodnotenie spôsobu naplnenia každej požiadavky pre ním ponúkané riešenie doložené odkazmi na dokumentáciu výrobcu
+(manuál, technická špecifikácia produktu a pod.) s uvedením strany, kde je možné overiť naplnenie jednotlivých požiadaviek,
+akceptovaná bude technická dokumentáciu v slovenskom, českom alebo anglickom jazyku, odkazy na informačné zdroje na
+internete nebudú akceptované.
+7. Dodanie požadovaných tovarov a licencií musí byť zrealizované najneskôr do 90 dní od nadobudnutia účinnosti zmluvy.
+Potvrdenie prevzatia požadovaných tovarov a licencií v požadovanom rozsahu a kvalite bude realizované formou preberacieho
+protokolu.
+8. Balík servisných služieb výrobcu bude dodaný súčasne s dodávkou páskových knižníc, pričom za dodaný sa bude
+považovať až po overení elektronickej registrácie na zákazníckom účte objednávateľa vedenom na webovom sídle
+spoločnosti, ktorá je výrobcom páskových knižníc. Podpora výrobcu je požadovaná na obdobie 6 rokov odo dňa uvedenia
+zariadenia do prevádzky čo je potvrdené podpísaným protokolom o odovzdaní a prevzatí zariadenia.
+9. Cena za poskytovanie servisných služieb zahŕňa všetky náklady dodávateľa s týmito službami spojené a to vrátane
+nákladov na náhradné diely a tiež nákladov súvisiacich s pobytom zamestnancov dodávateľa na pracovisku objednávateľa,
+cestovné, stravné, ubytovacie náklady, ako aj všetky ostatné náklady zamestnancov spojené s realizáciou servisných služieb,
+vrátane dopravy náhradných dielov a zariadení.
+10. Porušenie povinností v zmysle bodu 1, 2, 3, 4, 5, 6, 7, 8 alebo 9 osobitných požiadaviek na plnenie sa považuje za
+podstatné porušenie Zmluvy zo strany dodávateľa.
+Názov
+2.4
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Imricha Karvaša 1, Tomášikova 28/a
+
+Čas / lehota plnenia zmluvy:
+03.12.2018 00:00:00 - 01.03.2019 00:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+kompletný predmet zákazky
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.4, účinná zo dňa 25.5.2018 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 218 746,00 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 262 495,20 EUR
+
+Strana 5 z 6
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.4, účinná zo dňa 25.05.2018,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 30.11.2018 10:38:11
+Objednávateľ:
+Národná banka Slovenska
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+TEMPEST a.s.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 6 z 6
+
+

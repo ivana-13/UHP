@@ -1,0 +1,162 @@
+-
+
+Prílohy -
+
+Príloha č. 1 - Špecifikácia predmetu kúpy spolu s jednotkovými cenami
+
+Firewall III. - 2Ks
+Parameter :
+HW požiadavky a
+požiadavky na fyzické
+prevedenie
+
+Minimálna požiadavka Kupujúceho
+Stavový firewall, požiadavka na prevádzku HA mode,
+požiadavka je dodať min. 2ks
+
+Parametre dodané Predávajúcim
+
+FortiGate 600 D - FG-600D-BDL-950-36 v HA mode - 2ks
+
+Podpora vysokej dostupnosti v režimoch Active-Active, ActivePassive, Clustering
+Hardvérovo akcelerované 10 GE SFP+ sloty: 2
+Hardvérovo akcelerované GE SFP sloty: 8
+Hardvérovo akcelerované GE RJ45 Porty: 8
+GE RJ45 Managementové / HA Porty: 2
+USB Porty (Klient / Server): 1 / 2
+Konzolový Port: 1
+Vnútorné dátové úložisko: 120 GB
+Dodané prevodníky: 2 SFP SX
+Napájacie zdroje AC: 240V AC, 50Hz
+Maximálny prúd: 100V / 4A, 220V / 2A
+Príkon (Priemer / Maximum): 191 W / 126 W
+Tepelný rozptyl: max. 650 BTU/h
+
+áno
+2x
+8x
+8x
+2x
+áno
+áno
+áno
+áno
+áno
+áno
+áno
+áno
+
+Zhoda:
+
+FCC Part 15 Class A, C-Tick, VCCI, CE, UL/cUL, CB
+
+áno
+
+Certifikáty
+
+ICSA Labs: Firewall, IPsec, IPS, Antivirus, SSL-VPN
+
+áno
+
+Požiadavky na
+výkonnostné
+parametre
+
+Priepustnosť IPv4 Firewallu (1518 / 512 / 64 byte, UDP): 36 / 36
+/ 24 Gbps
+
+áno
+
+Priepustnosť IPv6 Firewallu (1518 / 512 / 86 byte, UDP): 36 / 36
+/ 24 Gbps
+áno
+Latencia Firewallu (64 byte, UDP): 3 µs
+áno
+Priepustnosť Firewallu (Packety za sekundu): 36 Mpps
+áno
+Súbežné relácie (TCP): 5500000
+5,5 mil.
+Nové relácie/sekunda (TCP): 270000
+270 000
+
+-
+
+Prílohy -
+
+Firewall III. - 2Ks
+Parameter :
+
+Požiadavky na
+manažment zariadení
+Záruka
+
+Minimálna požiadavka Kupujúceho
+Politiky Firewallu: 10000
+Priepustnosť IPsec VPN (512 byte): 20 Gbps
+IPsec VPN Tunely Gateway-to-Gateway:2000
+IPsec VPN Tunely Client-to-Gateway: 10000
+Priepustnosť SSL-VPN: 2.2 Gbps
+Konkurentní používatelia SSL-VPN (doporučené maximum):
+5000
+Priepustnosť IPS: 7 Gbps
+Priepustnosť Antivírusu: 3 Gbps
+Priepustnosť ochrany Threat Protection: 2.4 Gbps
+Priepustnosť CAPWAP: 10 Gbps
+Virtuálne domény (Predvolené / Maximum): 10 / 10
+Maximálny počet FortiAP (Celkom / Tunely): 1024 / 512
+Maximálny počet FortiTokenov: 1000
+Maximálny počet registrovaných endpointov: 2000
+Manažment cez HTTPS a SSH
+min. 3 roky s odozvou 24/7
+
+Parametre dodané Predávajúcim
+10000
+20Gbps
+2000
+50000
+2,2Gbps
+5000
+7Gbps
+3Gbps pri zapnutom IPS, AppCTRL a Antivirus vo Flow mode
+3Gbps pri zapnutom IPS, AppCTRL a Antivirus vo Flow mode
+10Gbps
+áno
+áno
+áno
+áno
+
+áno
+áno
+
+Štruktúrovaný rozpočet ceny Čiastkovej kúpnej zmluvy Dodávateľa:
+
+Počet
+
+Jednotková cena
+
+Celková cena
+
+Celková cena
+
+ks
+
+v Eur bez DPH
+
+v Eur bez DPH
+
+v Eur s DPH
+
+2
+
+23 750,00 €
+
+Popis produktu / služby
+FG-600D-BDL-950-36
+
+47 500,00 €
+
+57 000,00 €
+
+Prílohy -
+
+

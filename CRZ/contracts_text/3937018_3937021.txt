@@ -1,0 +1,1036 @@
+Zmluva o poskytovaní servisných služieb
+SLA Cisco produktov pre LAN a WAN
+
+uzatvorená podľa §269 a nasl. Zákona č.513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov (ďalej len Zmluva")
+Evidenčné číslo
+
+Objednávateľa: 4661129/2019
+
+Dodávateľa: O-19/0007
+
+medzi zmluvnými stranami :
+Obchodné meno
+Sídlo
+Doručovacia adresa
+Za ktorú koná
+IČO
+DIČ
+IČ DPH
+
+Bankové spojenie
+Náš IBAN
+SWIFT:
+
+: TRANSPETROL, a.s.
+: Šumavská 38, 821 08 Bratislava
+: Šumavská 38, 821 08 Bratislava
+: Ing. Ivan Krivosudský, predseda predstavenstva
+RNDr.Martin Ružinský, PhD., podpredseda predstavenstva
+: 313 41 977
+: 2020403715
+: SK2020403715
+
+: Tatra banka, a.s., Bratislava
+č. účtu: 2621021532/1100
+: SK7911000000002621021532
+: TATRSKBX
+
+zapísaná v Obchodnom registri Okresného súdu Bratislava I, v oddiele Sa, vo vložke č.
+507/B
+(ďalej len ako „objednávateľ“)
+a
+
+Obchodné meno
+Sídlo
+Doručovacia adresa
+Za ktorú koná:
+IČO
+DIČ
+IČ DPH
+
+: GAMO a.s.
+: Kyjevské námestie 6, 974 04 Banská Bystrica
+: Kyjevské námestie 6, 974 04 Banská Bystrica
+: Iveta Milčíková, podpredseda predstavenstva
+: Mgr. Peter Luby, člen predstavenstva
+: 36033987
+: 2020087498
+: SK2020087498
+
+Bankové spojenie
+: Slovenská sporiteľňa a.s.
+č. účtu
+: 0435467048/0900
+IBAN
+: SK5409000000000435467048
+SWIFT:
+: GIBASKBX
+Číslo zápisu v RPVS : 9940
+zapísaná v Obchodnom registri Okresného súdu Banská Bystrica, v oddiele Sa, vo vložke
+č. 550/S
+(ďalej len ako „dodávateľ“)
+
+1
+
+Zmluva o poskytovaní servisných služieb – SLA Cisco productov pre LAN a WAN
+
+Definície
+Ak to nie je v rozpore s ustanoveniami alebo kontextom tejto zmluvy, použijú sa pre určenie
+významu pojmov uvedených v tejto zmluve nasledujúce definície:
+Stav, kedy dochádza k poruche, zníženiu kvality alebo zmene parametrov
+prevádzkovanej služby alebo prostriedkov informačného systému.
+b) Núdzová
+Obnovenie funkcionality prevádzkovanej služby alebo riešenia v čo
+prevádzka
+najkratšom čase, a to aj použitím vhodného náhradného riešenia.
+c) Oprávnená osoba
+Zamestnanec Objednávateľa, oprávnený požadovať používateľskú
+podporu alebo službu zo strany Dodávateľa.
+d) Paušál servisných Kvalifikovaný mesačný odhad rozsahu služieb Dodávateľa potrebný na
+zásahov
+realizáciu vzniknutých udalostí na informačnom systéme Objednávateľa.
+e) Plná prevádzka
+Obnovenie funkcionality prevádzkovanej služby alebo riešenia
+v požadovanom prevádzkovom režime.
+f) Pohotovosť
+Kombinácia dohodnutej reakčnej doby a servisného pokrytia.
+g) Používateľská
+Jeden z SLO parametrov služby. Je to asistencia pri riešení problému
+podpora
+používateľa poskytovaná technikom Dodávateľa oprávnenej osobe
+Objednávateľa.
+h) Požiadavka
+Žiadosť zákazníka o poskytnutie služby.
+i) Profylaktika HW
+Jeden z SLO parametrov služby. Je to pravidelná odborná údržba
+určených
+hardvérových
+prostriedkov
+informačného
+systému
+Objednávateľa za účelom udržania ich optimálneho výkonu
+a bezporuchového stavu.
+j) Reakčná doba
+Jeden z SLO parametrov služby. Je to čas od vzniku udalosti po prvú
+reakciu zo strany technika Dodávateľa meraný v rámci dohodnutého
+servisného pokrytia. Za prvú reakciu sa považuje:
+- telefonát technika Dodávateľa oprávnenej osobe Objednávateľa
+za účelom riešenia vzniknutej udalosti,
+- vzdialený prístup technika Dodávateľa na dotknutých
+prostriedkoch informačného systému Objednávateľa za účelom
+riešenia vzniknutej udalosti,
+- fyzický zásah technika Dodávateľa na dotknutých prostriedkoch
+informačného systému Objednávateľa za účelom riešenia
+vzniknutej udalosti.
+k) Servisné pokrytie Jeden z SLO parametrov služby. Je to zmluvne dohodnuté časové okno,
+počas ktorého je Dodávateľ povinný zaevidovať udalosť a poskytnúť
+Objednávateľovi používateľskú podporu alebo službu (napr. 8x5, 12x7,
+24x7 a pod.).
+l) SLO
+parametre (Service Level Objective). Parametre určujúce úroveň poskytovanej
+služby
+služby, ako čas nástupu na opravu, servisné pokrytie, monitoring
+zákazníckych systémov, profylaktika zákazníckych systémov,
+používateľská podpora zákazníckych systémov, konzultačné činnosti.
+m) Správa
+Kvalifikovaný mesačný odhad rozsahu služieb Dodávateľa potrebný na
+zákazníckych
+nevyhnutnú správu a údržbu informačného systému Objednávateľa.
+systémov
+n) Technik
+Realizačný zamestnanec dodávateľa, odborne spôsobilý poskytnúť
+minimálne základnú úroveň podpory oprávnenej osobe Objednávateľa.
+o) Udalosť
+Spoločné pomenovanie operatívnych incidentov a požiadaviek.
+a) Incident
+
+2
+
+Zmluva o poskytovaní servisných služieb – SLA Cisco productov pre LAN a WAN
+
+Článok 1
+Účel zmluvy
+1.1 Účelom Zmluvy je úprava práv a povinností zmluvných strán, pri poskytovaní plnenia podľa
+tejto zmluvy pri zabezpečení servisu Cisco productov pre LAN a WAN pre objednávateľa.
+Dodávateľ prehlasuje, že je oprávnený poskytovať služby podľa tejto zmluvy a disponuje takými
+oprávneniami, personálnymi a technickými kapacitami, ktoré sú potrebné na poskytovanie
+plnenia podľa tejto zmluvy.
+
+Článok 2
+Predmet Zmluvy
+2.1. Predmetom Zmluvy je zabezpečenie servisu Cisco productov pre LAN a WAN (licencie ,
+HW, support) dodávateľom pre objednávateľa v rozsahu a na zariadeniach podľa prílohy č.1
+k tejto zmluve (ďalej všetko spoločne len „služby") počas platnosti tejto zmluvy za odplatu
+uvedenú v článku 3 tejto Zmluvy.
+
+Článok 3
+Cena a platobné podmienky
+3.1. Cena za predmet Zmluvy, tak ako je definovaný v článku 2.1 tejto Zmluvy, je stanovená
+dohodou zmluvných strán v zmysle zák. č. 18/1996 Z. z. o cenách v znení neskorších predpisov
+vo výške 8 831,81 EUR bez DPH (slovom: osemtisícosemstotridsaťjeden EUR
+a osemdesiatjeden centov bez DPH) za mesiac (ďalej tiež aj ako „dohodnutá cena“). Cena je
+stanovená ako maximálna a sú v nej zahrnuté všetky náklady dodávateľa spojené s plnením
+podľa tejto zmluvy, okrem prepravných nákladov. V prípade poskytovania plnenia (servisných
+výjazdov) v priestoroch Objednávateľa, budú prepravné náklady fakturované podľa
+odôvodneného, skutočne vykázaného počtu kilometrov z najbližšieho zastúpenia Dodávateľa
+do miesta plnenia a to vo výške 0,40 eur/km bez DPH. V prípade servisných výjazdov nebudú
+prepravné náklady účtované na tie lokality objednávateľa, v ktorých má Dodávateľ svoje sídlo
+alebo zastúpenie.
+3.2. Daň z pridanej hodnoty (DPH) bude k cenám bez DPH pripočítaná podľa platných právnych
+predpisov a vo výške sadzby DPH platnej v čase vzniku daňovej povinnosti.
+3.3. Objednávateľ sa zaväzuje uhrádzať dohodnutú cenu mesačne na základe faktúry vystavenej
+Dodávateľom a doručenej Objednávateľovi v nasledujúcom mesiaci po riadnom vykonaní
+služieb.
+3.4. Platba za plnenie predmetu Zmluvy sa realizuje výlučne prevodným príkazom na účet
+Dodávateľa uvedený v Zmluve.
+3.5. Splatnosť faktúry je stanovená na 30 dní odo dňa jej doručenia Objednávateľovi. Podkladom
+k vystaveniu faktúry je vzájomne odsúhlasený počet hodín vykonaných prác za kalendárny
+mesiac, ktorý tvorí neoddeliteľnú súčasť faktúry. Faktúra musí byť vyhotovená v súlade s touto
+Zmluvou a príslušnými právnymi predpismi. Neoddeliteľnou prílohou faktúry bude fotokópia
+Objednávateľom podpísaného Preberacieho protokolu s určením druhu a rozsahu prác,
+zrealizovaných Dodávateľom. Ak faktúra nebude obsahovať zákonom stanovené náležitosti,
+alebo nebude vyhotovená v súlade so Zmluvou, má Objednávateľ právo vrátiť ju Dodávateľovi
+na opravu alebo doplnenie, s tým, že Objednávateľ je povinný písomne presne špecifikovať
+nedostatky faktúry alebo jej príloh, vystavenej Dodávateľom. U opravenej alebo doplnenej
+faktúry Dodávateľa lehota splatnosti začína plynúť odo dňa doručenia opravenej alebo
+doplnenej faktúry Objednávateľovi.
+3.6. Dodávateľ je povinný vyhotovené faktúry zasielať Objednávateľovi DOPORUČENE, alebo
+doručovať osobne. U faktúry odoslanej ako obyčajná poštová zásielka nie je možné uplatňovať
+si úrok z omeškania úhrady fakturovanej ceny.
+
+3
+
+Zmluva o poskytovaní servisných služieb – SLA Cisco productov pre LAN a WAN
+
+Článok 4
+Plnenie predmetu Zmluvy
+4.1 Dodávateľ je povinný prijímať nahlásenie udalosti zo strany Objednávateľa v zmysle
+definovaného servisného pokrytia podľa prílohy č. 1 tejto zmluvy. Udalosti je možné
+nahlasovať na telefónne číslo Zákazníckeho centra Dodávateľa +421 48 437 2000, vytvorením
+udalosti v servisnom portáli Dodávateľa prostredníctvom webového rozhrania www.gamo.sk
+alebo na e-mail helpdesk@gamo.sk,a to prostredníctvom oprávnených osôb Objednávateľa.
+Pri hlásení udalosti je potrebné uviesť popis vzniknutej udalosti, kontaktné údaje oprávnenej
+osoby a informácie o príslušných prostriedkoch informačného systému Objednávateľa.
+4.2 Služby na odstránenie porúch a riešenie požiadaviek (riešenie udalostí) je Dodávateľ povinný
+začať poskytovať najneskôr v čase stanovených parametrov reakčnej doby a servisného
+pokrytia podľa prílohy č. 1.Dodávateľ sa zaväzuje vyriešiť požiadavku, resp. odstrániť poruchu
+najneskôr do 30 dní odo dňa prijatia požiadavky Objednávateľa, ak sa zmluvné strany
+nedohodnú písomne inak.
+4.3 Služby v zmysle tejto zmluvy bude Dodávateľ realizovať prostredníctvom telefonickej
+asistencie, vzdialeného pripojenia alebo fyzickým zásahom na mieste prevádzky informačného
+systému v zmysle pohotovosti podľa prílohy č. 1. Dodávateľ vynaloží maximálne úsilie na čo
+najrýchlejšie obnovenie núdzovej a následne plnej prevádzky informačného systému
+Objednávateľa. Ak situácia neumožňuje riešenie udalosti na mieste prevádzky informačného
+systému, môžu byť príslušné prostriedky informačného systému opravené v servisnom
+stredisku Dodávateľa.
+4.4. Ak má Dodávateľ vykonať v rámci plnenia tejto zmluvy akékoľvek činnosti, v dôsledku ktorých
+by mohli byť ohrozené dáta Objednávateľa, ich komplexnosť, konzistentnosť, resp. kvalita, je
+Dodávateľ povinný pred vykonaním týchto činností písomne upozorniť Objednávateľa na
+potrebu zálohovania príslušných dát.
+4.5. Objednávateľ umožní zamestnancom Dodávateľa fyzický prístup do priestorov v ktorých je
+prevádzkovaný informačný systém Objednávateľa, alebo vzdialený prístup k hardvérovým a
+softvérovým prostriedkom uvedeným v prílohe č. 1, a to počas celej doby nevyhnutnej na
+poskytnutie služby v zmysle tejto zmluvy.
+4.6 Objednávateľ bude v rámci svojich možností nápomocný pri zabezpečovaní realizácie
+predmetu tejto zmluvy.
+4.7 Záruka na vykonané služby sa nevzťahuje na vady a poruchy, ktoré vzniknú vinou nesprávneho
+alebo nešetrného používania, neoprávneného zásahu do zariadenia alebo vplyvom prírodného
+živlu.
+
+Článok 5
+Práva a povinnosti zmluvných strán
+5.1. Objednávateľ sa zaväzuje poskytnúť Dodávateľovi pri plnení Zmluvy na svoje náklady
+potrebnú súčinnosť, nevyhnutnú pre zabezpečenie riadneho plnenia záväzkov
+Dodávateľa, a to najmä:
+-
+
+prístup k technickým zariadeniam Objednávateľa potrebný k plneniu predmetu
+Zmluvy;
+zabezpečenie včasnej prípravy hardvéru a softvéru, potrebných k plneniu záväzkov
+Dodávateľa;
+zabezpečenie včasnej realizácie iných nevyhnutných činností, podmieňujúcich plnenie
+Dodávateľa, a to na základe žiadosti Dodávateľa formou uvedenou v bode 7.2.;
+zabezpečenie súčinnosti svojich pracovníkov pri analýzach, návrhoch, hodnoteniach,
+pripomienkovaní a preberacom konaní súvisiacom s predmetom plnenia podľa tejto
+Zmluvy;
+
+4
+
+Zmluva o poskytovaní servisných služieb – SLA Cisco productov pre LAN a WAN
+
+-
+
+-
+
+zabezpečením prítomnosti povereného pracovníka Objednávateľa na pracovisku
+v rozsahu, v ktorom si to výkon činností Dodávateľa podľa tejto zmluvy bude
+vyžadovať a poskytne potrebnú súčinnosť v rozsahu potrebnom na realizáciu činností
+podľa tejto zmluvy;
+umožnenie zriadenia vzdialeného prístupu pre Dodávateľa k technickým zariadeniam
+Objednávateľa v rozsahu potrebnom na účely plnenia tejto Zmluvy.
+
+5.2. Neposkytnutie potrebnej súčinnosti zo strany Objednávateľa Dodávateľovi na základe
+písomnej
+výzvy
+Dodávateľa
+doručenej
+Objednávateľovi,
+môže
+mať
+za
+následok posun termínov jednotlivých plnení a ich ukončenia, za čo nenesie Dodávateľ
+zodpovednosť
+v rozsahu
+omeškania
+Objednávateľa.
+5.3. Dodávateľ sa zaväzuje:
+-
+
+-
+
+-
+
+že zabezpečí koordinovanie, organizovanie a riadenie jednotlivých činností súvisiacich s
+predmetom Zmluvy,
+uskutočňovať plnenie svojich zmluvných povinností s odbornou starostlivosťou, v súlade so
+Zmluvou, príslušnými právnymi predpismi a normami,
+brať pri plnení jednotlivých úloh ohľad na prevádzkové potreby Objednávateľa a uskutočňovať
+preto svoje plnenie v úzkej súčinnosti s Objednávateľom a v súlade s pravidlami, obvyklými
+pre spracovanie dát,
+poskytovať činnosti podľa tejto zmluvy len na základe požiadavky Objednávateľa v súlade s čl.
+4 tejto zmluvy,
+zachovávať mlčanlivosť o skutočnostiach, s ktorými prišiel do styku pri plnení predmetu
+Zmluvy, pričom tento záväzok dodávateľa trvá bez časového obmedzenia aj po ukončení
+Zmluvy.
+odborné práce musia byť vykonané len pracovníkmi dodávateľa, ktorí majú príslušnú
+kvalifikáciu, odbornú spôsobilosť a oprávnenie na vykonanie týchto prác. Dodávateľ je
+povinný pri vykonávaní plnenia podľa tejto zmluvy zabezpečiť dodržiavanie platných
+technických noriem, príslušných platných všeobecne záväzných právnych predpisov, interných
+predpisov Objednávateľa týkajúcich sa poskytovaných služieb a predpisov týkajúcich sa
+BOZP a PO, zákazu vnášania, požívania alkoholických nápojov, užívania omamných alebo
+psychotropných látok, fajčenia, ako aj iných interných predpisov Objednávateľa, s ktorými bol
+oboznámený. Dodávateľ zodpovedá za to, že všetci pracovníci, ktorých použije na
+poskytovanie služieb sú oprávnení, spôsobilí a poučení na výkon príslušných prác. Dodávateľ
+
+sa zaväzuje, že pri poskytovaní plnenia podľa tejto zmluvy neporuší zákaz nelegálneho
+zamestnávania a splnenie záväzkov a povinností podľa tohto bodu zmluvy zabezpečí aj
+u svojich dodávateľov. Zástupca Objednávateľa je oprávnený kontrolovať dodržiavanie
+
+týchto povinností a za každé porušenie tohto ustanovenia sa Dodávateľ zaväzuje na základe
+uplatnenia Objednávateľom zaplatiť zmluvnú pokutu vo výške 1500,- eur. Porušenie týchto
+povinností Dodávateľom sa považuje za podstatné porušenie tejto zmluvy.
+5.4. Dodávateľ vyhlasuje a zaručuje sa, že:
+- nie je v likvidácii;
+- nie je v úpadku a ani mu úpadok nehrozí;
+- riadne si plnil a plní všetky svoje zákonné povinnosti, a to najmä, ale nielen, v oblastí
+daní, odvodov a poistenia;
+- nepodal návrh na vyhlásenie konkurzu alebo povolenie reštrukturalizácie a takýto návrh
+sa podľa jeho vedomostí ani nepripravuje;
+- nepoveril správcu vypracovaním reštrukturalizačného posudku;
+- nie je voči nemu vedené žiadne súdne alebo rozhodcovské konanie, v rozsahu objektívne
+ohrozujúcom jeho ekonomické postavenie a podľa jeho najlepších vedomostí začatie
+takéhoto konania ani nehrozí;
+- nie je voči nemu vedené žiadne exekučné konanie v rozsahu objektívne ohrozujúcom jeho
+ekonomické postavenie ani akýkoľvek výkon zabezpečovacieho práva a podľa jeho
+najlepších vedomostí začatie takéhoto konania a/alebo výkonu ani nehrozí;
+
+5
+
+Zmluva o poskytovaní servisných služieb – SLA Cisco productov pre LAN a WAN
+
+-
+
+-
+
+neexistuje žiadna iná skutočnosť, ktorá by mohla mať nepriaznivý vplyv na plnenie
+povinností Dodávateľa uvedených v Zmluve v takej kvalite, ktorá by ohrozila plnenie
+Zmluvy riadne a včas, s odbornou starostlivosťou a poctivým obchodným stykom;
+nie je on ani žiaden člen jeho štatutárneho orgánu trestne stíhaný
+neexistuje a ani nie je žiadny dôvod predpokladať existenciu dôvodu na zrušenie
+registrácie Dodávateľa pre daň z pridanej hodnoty podľa zákona č. 222/2004 Z.z./o dani
+z pridanej hodnoty v znení neskorších predpisov ("Zákon o DPH").
+
+Vyhlásenia a záruky uvedené v tomto článku zmluvy sa považujú za opakované a trvajúce
+počas celej doby trvania záväzkov podľa tejto zmluvy. Dodávateľ je povinný informovať
+objednávateľa o vzniku akejkoľvek skutočnosti alebo jej zmene, uvedenej v tomto článku
+zmluvy, a to bez zbytočného odkladu po celú dobu trvania záväzkov zo zmluvy. Akákoľvek
+nepravdivosť alebo porušenie akéhokoľvek vyhlásenia a záruk dodávateľa sa považuje za
+podstatné porušenie zmluvy a zakladá právo na okamžité odstúpenie od zmluvy zo strany
+objednávateľa; nárok objednávateľa na náhradu škody tým nie je dotknutý.
+
+Článok 6
+Odovzdanie a prebratie predmetu plnenia
+6.1. Plnenia poskytnuté Dodávateľom Objednávateľovi podľa bodu 2.1. Zmluvy, budú evidované v
+súhrnnej mesačnej evidencii realizovaných služieb, ktorú si preukázateľneodsúhlasia oprávnení
+zamestnanci zmluvných strán bezodkladne (preberací protokol) a v prípade fyzických
+servisných výjazdov, vzájomne potvrdených pracovných listov.
+6.2. Záručná doba na plnenie predmetu zmluvy sa riadi podmienkami platných supportov výrobcov
+zariadení podľa prílohy č. 1., a v prípade poskytnutia služieb 6 mesiacov od prevzatia plnenia
+Objednávateľom.
+
+Článok 7
+Komunikácia medzi zmluvnými stranami
+7.1. Zmluvné strany sa dohodli, že v technických veciach, týkajúcich sa Zmluvy, sú
+oprávnené viesť rokovanie v mene zmluvných strán Oprávnené osoby. Zmluvné strany sú
+zaviazané písomne oznámiť mená Oprávnených osôb do troch pracovných dní odo dňa
+uzavretia Zmluvy. Zmeny týkajúce sa Oprávnených osôb sú zmluvné strany povinné si
+vzájomne oznámiť bez zbytočného odkladu po zmene Oprávnenej osoby.
+Oprávnené osoby Objednávateľa konať vo veciach technických: Ing. Marek Šimko
+Oprávnené osoby Dodávateľa konať vo veciach technických: Lukáš Kozelnický
+7.2. Písomnosti sa medzi zmluvnými stranami doručujú osobne, elektronickou poštou, faxom,
+poštou alebo s použitím profesionálnej kuriérskej služby.
+
+Článok 8
+Zodpovednosť za vady a náhrada škody
+8.1. Dodávateľ zodpovedá za to, že predmet Zmluvy bude vykonaný bez akýchkoľvek vád, v súlade
+so Zmluvou, normami a všeobecne záväznými právnymi predpismi.
+8.2 Dodávateľ sa zaväzuje odstrániť reklamované vady plnenia na svoje náklady najneskôr do 30
+dní odo dňa ich reklamácie.
+
+6
+
+Zmluva o poskytovaní servisných služieb – SLA Cisco productov pre LAN a WAN
+
+8.3. Objednávateľ je povinný prípadné vady plnenia Dodávateľa v rámci svojich možností a
+znalostí dostatočne písomne špecifikovať aj s uvedením kategórie a lehoty, v ktorej žiada vadu
+odstrániť a oznámiť ich na adresu Dodávateľa.
+8.4. Dodávateľ je povinný bezodkladne po oznámení vady objednávateľom začať s prácami na
+odstránení vady v zmysle ustanovení Zmluvy.
+8.5. Dodávateľ zodpovedá za škodu, ktorá vznikne Objednávateľovi alebo tretím osobám v
+
+dôsledku porušenia povinností Dodávateľa vyplývajúcich zo Zmluvy, všeobecne záväzných
+právnych predpisov alebo porušením inej právnej povinnosti.
+
+8.6. Zmluvné strany sa zaväzujú vynaložiť maximálne úsilie a odbornú starostlivosť na
+predchádzanie vzniku Škôd a zníženie ich rozsahu, zabezpečiť preventívne opatrenia,
+kvalifikovanú súčinnosť vo vzťahu k povinnosti predchádzať škodám, obmedzeniu ich rozsahu,
+zakročovaciu povinnosť pri hroziacej škode, opatrenia na odvrátenie alebo zmiernenie škody,
+zabezpečiť a kontrolovať riadne plnenie svojich povinností vyplývajúcich z tohto zmluvného
+vzťahu.
+8.7 V prípade, ak v dôsledku porušenia povinností dodávateľa (napr. omeškaním, nesplnením
+záväzkov alebo porušením podmienok stanovených v Zmluve a jej prílohách, všeobecne
+záväzných právnych predpisoch a iných predpisov) dôjde k vzniku škody, strate, zničeniu,
+krádeži, poškodeniu alebo inému znehodnoteniu majetku, poškodeniu zdravia, úrazu alebo
+úmrtiu, vzniku stavu všeobecného ohrozenia, uplatneniu pokút alebo inému sankčnému postihu
+objednávateľa, je dodávateľ povinný takto spôsobenú škodu nahradiť.
+8.8 Objednávateľ a dodávateľ sa dohodli, že bez ohľadu na iné ustanovenia tejto Zmluvy, úhrnná
+predvídateľná škoda, ktorá by mohla byť predmetom náhrady zo strany dodávateľa predstavuje
+v zmysle predpokladu zmluvných strán maximálne 100 % z celkovej ceny služieb, určenej
+podľa tejto Zmluvy. Objednávateľ a dodávateľ vyhlasujú, že vyššie uvedený predpoklad výšky
+škody predstavuje súhrnné predvídateľné sumy odškodného podľa Zmluvy, ktoré zmluvné
+strany môžu očakávať počas uzavretia Zmluvy. Ustanovenia Zmluvy rozdeľujú riziká medzi
+Dodávateľom a Objednávateľom. Takéto usporiadanie vzťahov v Zmluve je premietnuté aj do
+zmluvnej ceny.
+Dodávateľ je povinný mať uzatvorené Poistenie zodpovednosti za škody spôsobené tretím osobám
+po celú dobu trvania záväzkov podľa tejto zmluvy, vo výške poistnej sumy
+najmenej v hodnote celkovej ceny plnenia podľa tejto zmluvy. V prípade, ak dodávateľ
+uzavrel s objednávateľom aj ďalšie zmluvy, poistná suma musí byť vždy najmenej vo výške
+súčtu ceny všetkých plnení poskytovaných dodávateľom objednávateľovi na základe všetkých
+zmlúv kumulatívne. Dodávateľ sa zaväzuje uvedené skutočnosti preukázať objednávateľovi
+pred podpisom tejto zmluvy a kedykoľvek počas trvania zmluvy na požiadanie objednávateľa.
+Nepredloženie dokladov o uzavretí poistnej zmluvy, úhrade poistného, trvaní poistenia alebo
+zánik poistenia počas trvania tohto zmluvného vzťahu podľa tohto bodu zmluvy sa považuje
+za podstatné porušenie tejto zmluvy.
+8.10 Dodávateľ prehlasuje a zodpovedá za to, že predmet jeho plnenia nie je zaťažený právami
+tretích osôb. Vo vzťahu k prípadnému dielu alebo plneniu, ktoré je chránené autorským právom
+dodávateľ prehlasuje, že je oprávnený vykonávať majetkové práva autora (autorov) diela a v§
+65 a nasl. Autorského zákona č. 185/2015 Z.z. udeľuje objednávateľovi súhlas na použitie diela
+dodaného na základe tejto zmluvy a zároveň chráneného podľa autorského zákona podľa
+
+7
+
+Zmluva o poskytovaní servisných služieb – SLA Cisco productov pre LAN a WAN
+
+potreby objednávateľa, spôsobom v zmysle § 19 Autorského zákona, v rozsahu a po dobu
+platnosti tejto zmluvy. Odmena za poskytnutie súhlasu na použitie diela (licencie)
+objednávateľovi je zahrnutá v cene za predmet zmluvy podľa tejto zmluvy. Dodávateľ sa
+zaväzuje odškodniť objednávateľa pre prípad, že dielo má právne vady. Po splnení záväzku
+podľa tejto zmluvy, je objednávateľ oprávnený bez ďalšieho overiť doplnením alebo zmenou
+diela aj inú osobu ako dodávateľa.
+8.11. Cena za licencie podľa časti B Prílohy č. 1 tejto zmluvy je zahrnutá v cene služieb podľa čl.
+3 tejto zmluvy. Vo vzťahu k plneniu podľa časti B Prílohy č. 1 tejto zmluvy, Objednávateľ
+- nie je oprávnený robiť akékoľvek úpravy v Diele bez písomného súhlasu Dodávateľa,
+a to ani za účelom úpravy alebo prekladu podľa § 35 ods. 1 písm. a) AZ.
+- Objednávateľ nie je oprávnený robiť rozmnoženiny Diela bez písomného súhlasu
+Dodávateľa, s výnimkou vytvorenia rozmnoženiny za účelom podľa § 35 ods. 1 písm. b)
+AZ. Rozmnoženinu je Objednávateľ povinný zabezpečiť voči strate a odcudzeniu a
+označiť všetkými autorskými právami a označeniami ako originál.
+- Objednávateľ je oprávnený používať Dielo na celom území Slovenskej republiky, v
+rozsahu, ktorý vyplýva z tejto Zmluvy. Objednávateľ je Dielo oprávnený používať
+nasledovným spôsobom: nainštalovať a spustiť Dielo na cieľovej infraštruktúre,
+používať Dielo pre vlastnú potrebu pri výkone svojej podnikateľskej činnosti pre účel na
+ktorý mu bolo dodané Dielo podľa Zmluvy (zapisovanie, pozmeňovanie, čítanie a
+archivácia údajovej základne Diela, exportovanie a importovanie údajovej základne, ak
+to Dielo umožňuje, generovanie tlačových a digitálnych výstupov z Diela, konfigurácia
+používateľských nastavení Diela a iné spôsoby použitia potrebné pre naplnenie účelu na
+ktorý bolo Dielo Objednávateľovi dodané).
+- Objednávateľ nie je oprávnený odovzdať, postúpiť, predať, prenajať alebo iným
+obdobným spôsobom poskytnúť Dielo a tretej osobe/ám bez predchádzajúceho
+písomného súhlasu Dodávateľa.
+-Právo používať Dielo (licencia/sublicencia) podľa bodu Zmluvy, prechádza na
+Objednávateľa dňom účinnosti tejto zmluvy.
+- Práva dodávateľa k Dielu zostávajú bez ohľadu na ustanovenia tohto článku Zmluvy
+bez akéhokoľvek obmedzenia zachované.
+- Objednávateľ podpisom Zmluvy akceptuje udelenie licencie/sublicencie v rozsahu, v
+akom mu boli udelené v tomto článku Zmluvy.
+- Objednávateľ nie je oprávnený vykonávať reverzné inžinierstvo Diela.
+
+Článok 9
+Sankcie
+9.1 Dodávateľ sa zaväzuje zaplatiť Objednávateľovi na základe písomného uplatnenia
+Objednávateľom zmluvnú pokutu vo výške:
+a) 300,- eur (slovom tristo eur) za každý deň omeškania dodávateľa s odovzdaním služby
+podľa bodu 2.1, tejto Zmluvy Objednávateľovi v termíne dohodnutom v bode 4.2 a 4.3 tejto
+zmluvy, resp. objednávke,
+b) 300,- eur (slovom tristo eur) za každý deň omeškania dodávateľa s odstránením vád
+poskytnutej služby v lehote určenej v bode 8.2. tejto Zmluvy,
+9.2. Dodávateľ je povinný zaplatiť zmluvné pokuty uplatnené podľa tejto Zmluvy do 14 dní od ich
+uplatnenia Objednávateľom. Zaplatenie zmluvných pokút nezbavuje Dodávateľa
+zodpovednosti za spôsobenú škodu, ktorá vznikla z porušenia zmluvnej povinnosti
+zabezpečenej zmluvnou pokutou a povinnosti uhradiť ju v plnom rozsahu. Zaplatené zmluvné
+
+8
+
+Zmluva o poskytovaní servisných služieb - SLA Cisco productov pre LAN a WAN
+
+pokuty sa neodpočítavajú od výšky spôsobenej škody. Omeškanie Dodávateľa s plnením
+o viac ako 30 dní, resp. opakované omeškanie s plnením podľa tejto zmluvy bude považované
+za podstatné porušenie zmluvy s právom objednávateľa okamžite od zmluvy odstúpiť.
+9.3 Pre prípad omeškania Objednávateľa s úhradou ceny na základe riadne vyhotovenej a
+doručenej faktúry Dodávateľa sa zmluvné strany dohodli na úroku z omeškania vo výške 15,eur (slovom pätnásť eur) za každý deň omeškania. V prípade opakovaného omeškania
+Objednávateľa s úhradou ceny podľa článku 3 tejto Zmluvy sa takéto konanie Objednávateľa
+považuje za závažné porušenie zmluvnej povinnosti.
+
+Článok 10
+Trvanie a ukončenie Zmluvy
+10.1. Zmluva nadobúda platnosť dňom jej obojstranného podpisu zmluvnými stranami a účinnosť
+dňom nasledujúcim po dni jej zverejnenia v zmysle § 47a Občianskeho zákonníka a § 5a
+zákona č. 211/2000 Z.z. o slobode informácií v znení neskorších predpisov v Centrálnom
+registri zmlúv. Zmluvné strany so zverejnením tejto zmluvy súhlasia.
+10.2. Táto Zmluva sa uzatvára na dobu do 31.12.2020.
+10.3. Túto Zmluvu je možné ukončiť okrem spôsobu uvedeného v bode 10.2.:
+•
+•
+
+•
+•
+
+dohodou zmluvných strán,
+odstúpením od Zmluvy v prípade ak to ustanovuje Zmluva alebo zákon, pričom
+odstúpením od zmluvy Zmluva zaniká dňom doručenia písomného prejavu vôle
+oprávnenej strany druhej zmluvnej strane. Pri odstúpení si zmluvné strany ponechajú
+plnenia poskytnuté ku dňu odstúpenia a obe zmluvné strany sa zaväzujú rokovať o
+vysporiadaní záväzkov,
+výpoveďou bez udania dôvodu s 3 mesačnou výpovednou lehotou, ktorá začne plynúť
+prvým dňom mesiaca nasledujúceho po doručení výpovede druhej zmluvnej strane
+ak sa Systém Objednávateľa, na ktorý sa viaže predmet Zmluvy, prestane u
+Objednávateľa používať - zmluvný vzťah zanikne posledným kalendárnym dňom
+nasledujúceho mesiaca po doručení oznámenia Objednávateľa Dodávateľovi.
+
+Článok 11
+Ochrana informácií
+11.1 Dodávateľ sa zaväzuje zachovávať mlčanlivosť o všetkých informáciách získaných pri
+plnení záväzkov z tejto zmluvy. Dodávateľ sa zároveň zaväzuje zachovávať obchodné
+tajomstvo a dodržiavať ustanovenia Organizačnej smernice č. 1/2012 na ochranu obchodného
+tajomstva TRANSPETROL, a.s., s ktorou bol oboznámený pri podpise Zmluvy. Povinnosť
+zachovávať mlčanlivosť trvá neobmedzene aj po ukončení zmluvy.
+11.1 Dodávateľ pri poskytovaní plnenia podľa tejto zmluvy nie je oprávnený akýmkoľvek
+spôsobom spracúvať osobné údaje. V prípade, ak by dodávateľ z akéhokoľvek dôvodu došiel
+do styku s osobnými údajmi, zaväzuje sa zachovávať o nich mlčanlivosť a to bez časového
+obmedzenia aj po zániku tejto zmluvy.
+11.2 Zmluvné strany budú ochraňovať dôverné informácie druhej zmluvnej strany, a to s rovnakou
+starostlivosťou ako ochraňujú vlastné dôverné informácie rovnakého druhu, vždy však
+najmenej v rozsahu primeranej odbornej starostlivosti.
+
+9
+
+Zmluva o poskytovaní servisných služieb - SLA Cisco productov pre LAN a WAN
+
+11.3 Dodávateľ má právo ponechať si projektovú dokumentáciu.
+11.4 Zmluvné strany sa budú bezodkladne písomne informovať o tom, že na základe zákona alebo
+na základe rozhodnutia príslušného orgánu im vznikla povinnosť zverejniť dôvernú
+informáciu druhej zmluvnej strany alebo jej časť.
+
+Článok 12
+Záverečné ustanovenia
+12.1 Táto Zmluva predstavuje úplnú dohodu zmluvných strán o predmete Zmluvy a nahradzuje
+všetky predchádzajúce dohody zmluvných strán o predmete Zmluvy a môže byť menená len
+formou písomných dodatkov riadne podpísaných obidvomi zmluvnými stranami.
+Neoddeliteľnou súčasťou tejto zmluvy je príloha č. 1 – Opis predmetu obstarávania.
+12.2 Zmluva bola vyhotovená v štyroch rovnopisoch, z nich všetky majú platnosť originálu. Obe
+zmluvné strany obdržia po dva exempláre.
+1 2 . 3 Ostatné práva a povinnosti zmluvných strán vyplývajúce z tohto zmluvného vzťahu sa budú
+riadiť príslušnými ustanoveniami Obchodného zákonníka č. 513/1991 Zb. v znení neskorších
+predpisov a ďalšími právnymi predpismi SR.
+1 2 . 4 Objednávateľ aj Dodávateľ sa zaväzuje bez zbytočného odkladu písomne informovať druhú
+zmluvnú stranu o prípadnej zmene svojho obchodného mena, právnej formy, sídla, IČO,
+DIČ, IČ pre DPH, oprávnených zástupcov, bankového spojenia a čísla účtu, na ktorý majú
+byť poukázané platby a iných skutočnostiach významných pre riadne plnenie Zmluvy.
+12.5 V prípade, ak akékoľvek ustanovenie Zmluvy je alebo sa stane neúplným, neplatným,
+neúčinným alebo nevykonateľným, nie sú t ý m dotknuté ostatné ustanovenia Zmluvy, okrem
+prípadu, ak z jeho povahy, obsahu alebo okolností, za ktorých bolo medzi zmluvnými
+stranami dojednané vyplýva, že ho nie je možné oddeliť od ostatného obsahu Zmluvy.
+12.6 Dodávateľ si je vedomý, že túto zmluvu môže objednávateľ uzatvoriť výlučne s
+dodávateľom, ktorý je zapísaný v Registri partnerov verejného sektora, vrátane platného
+aktuálneho overenia identifikácie konečných užívateľov výhod, v zmysle Zákona č.
+315/2016 Z.z. o registri partnerov verejného sektora a o zmene a doplnení niektorých
+zákonov (ďalej len zákon). Dodávateľ sa zaväzuje, že po celú dobu trvania záväzkov
+vyplývajúcich z tejto zmluvy bude zapísaný v Registri partnerov verejného sektora, vrátane
+platného aktuálneho overenia identifikácie konečných užívateľov výhod a v prípade, ak by
+bola časť plnenia poskytovaná prostredníctvom subdodávateľa, aby aj každý takýto
+subdodávateľ, ak tak stanovuje zákon, bol zapísaný v Registri partnerov verejného sektora,
+pričom Dodávateľ sa zároveň zaväzuje každého takéhoto subdodávateľa vopred oznámiť
+Objednávateľovi. Porušenie tohto ustanovenia bude považované za podstatné porušenie
+zmluvy. Dodávateľ sa zaväzuje znášať všetky náklady bez obmedzenia ich výšky, ktoré
+vzniknú objednávateľovi alebo tretím osobám v súvislosti s porušením tohto ustanovenia
+zmluvy Dodávateľom a to bez časového obmedzenia aj po ukončení alebo inom zániku tejto
+zmluvy.
+12.7. Zmluvné strany tejto Zmluvy sa zaväzujú v prípade, že medzi nimi vznikne spor
+vyplývajúci z tejto Zmluvy, riešiť tento prednostne vzájomnou dohodou. V prípade, že spor
+nebude možné riešiť dohodou, bude príslušným na rozhodnutie miestne príslušný súd.
+12.8. Obidve zmluvné strany prehlasujú, že si Zmluvu pred jej podpisom prečítali a že bola
+uzavretá po vzájomnom prejednaní, ako prejav ich slobodnej vôle, určite, vážne a
+zrozumiteľne a nie v tiesni, alebo za nápadne nevýhodných podmienok. Na dôkaz dohody o
+
+10
+
+Zmluva o poskytovaní servisných služieb - SLA Cisco productov pre LAN a WAN
+
+všetkých článkoch Zmluvy pripojujú zástupcovia oboch zmluvných strán svoje vlastnoručné
+podpisy.
+
+V Bratislave, dňa ............2019
+
+V Banskej Bystrici, dňa ...........2019
+
+................................................
+Ing. Ivan Krivosudský
+
+Iveta Milčíková
+
+.................................................
+
+predseda predstavenstva
+TRANSPETROL, a.s.
+
+podpredseda predstavenstva
+GAMO a.s.
+
+................................................
+RNDr. Martin Ružinský, PhD.
+podpredseda predstavenstva
+TRANSPETROL, a.s.
+
+.................................................
+Mgr. Peter Luby
+člen predstavenstva
+GAMO a.s.
+
+11
+
+Zmluva o poskytovaní servisných služieb - SLA Cisco productov pre LAN a WAN
+
+Príloha č. 1 Zmluvy o poskytovaní servisných služieb
+1.1.
+
+Príloha č. 1 Zmluvy o poskytovaní servisných služieb
+
+A1/ Zoznam sieťových zariadení - technológia Cisco
+Servisná lokalita
+Perimeter
+
+Bratislava
+
+OSR
+Bučany
+
+Šahy
+
+Rimavská Sobota
+Moldava
+
+Budkovce
+
+Typ zariadenia
+Cisco ASA5545
+Cisco ASA5545
+Cisco ASA 5515
+Cisco ASA 5515
+Cisco WS-C3850-24T
+Cisco WS-C3850-24T
+Cisco WS-C4506-E
+Cisco WS-C4506-E
+Cisco WS-X45-SUP8-E
+Cisco WS-X45-SUP8-E
+Cisco AIR-CT2504-K9
+Cisco AIR-CT2504-K9
+Cisco IPS-4345-K9
+Cisco WS-C3560C-8PC-S
+Cisco WS-C3650-24PD
+Cisco WS-C3650-24PD
+Cisco AIR-CT5508-K9
+Cisco AIR-CT5508-K9
+Cisco WS-C6509-E
+
+S/N
+FCH18037V50
+FCH17377JG6
+FCH174374E7
+FCH174374HQ
+FOC1743U132
+FOC1743U12J
+FXS2108Q1RF
+FXS2108Q1TA
+CAT2113L7VR
+CAT2115L3H6
+PSZ18431EZ5
+PSZ18441BDK
+FGL170140AL
+FOC1639Y0VU
+FDO2119E1RS
+FDO2119E1RH
+FCW1412L01A
+FCW1412L001
+SMG0937NDAC
+
+Cisco VS-S720-10G
+
+SAL17173H4U
+
+31-Jul-2020
+
+Cisco VS-S720-10G
+
+SAL1424K621
+
+31-Jul-2020
+
+WS-C3650-48PQ-S
+Cisco WS-C2960-24TC-L
+Cisco WS-C2960S-24PS-L
+Cisco WS-C2960S-24PS-L
+Cisco AIR-CT5508-K9
+Cisco AIR-CT5508-K9
+Cisco WS-C3650-24PD
+Cisco WS-C3650-24PD
+Cisco WS-C3650-24PD
+Cisco WS-C3650-24PD
+Cisco WS-C3560C-8PC-S
+Cisco WS-C2960S-24PS-L
+Cisco WS-C2960S-48FPS-L
+WS-C2960S-24PS-L PoE
+WS-C2960S-24PS-L PoE
+Cisco WS-C2960S-48FPS-L
+Cisco WS-C3650-48TQ
+Cisco WS-C3650-48TQ
+Cisco WS-C4500X-16 2
+slot switch
+Cisco WS-C4500X-16 2
+slot switch
+Cisco AIR-CT5508-K9
+Cisco AIR-CT5508-K9
+
+FDO2120E2RQ
+FOC1041ZBE4
+FOC1645Z0GT
+FOC1645Z0HD
+FCW2052B1D9
+FCW2104B1T2
+FDO2119Q1GC
+FDO2119Q1G1
+FDO2119E1RP
+FDO2119E1RL
+FOC1639Y2AN
+FOC1645Z0HA
+FOC1642X1DF
+FOC1743W1KA
+FOC1743W1JK
+FOC1632W097
+FDO1931E1MH
+FDO1931E1MF
+JAE194400UE
+
+31-Dec-2020
+31-Oct-2019
+30-Nov-2020
+30-Nov-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+30-Nov-2020
+30-Nov-2020
+30-Nov-2020
+30-Nov-2020
+30-Nov-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+
+JAE1944023E
+
+31-Dec-2020
+
+FCW1850L089
+FCW1850L04R
+
+31-Dec-2020
+31-Dec-2020
+
+12
+
+IP MGMT
+
+Rozsah supportov do
+31-Aug-2020
+31-Aug-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2019
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+
+Zmluva o poskytovaní servisných služieb - SLA Cisco productov pre LAN a WAN
+
+A2/ Parametre servisnej podpory pre sieťové zariadenia technológia Cisco
+Typ supportu
+SNTC 8x5xNBD
+
+SU1 (IPS Svc, AR
+NBD)
+
+Platnosť supportu pre
+zariadenia
+Pre všetky zariadenia
+Cisco okrem IPS-4345-K9
+
+Pre zariadenia IPS-4345K9
+
+Rozsah služieb krytých supportom
+Softvérové aktualizácie, nové verzie softvéru, opravy (tzv. bug fixy)
+Výmena vadného zariadenia 8x5xNBD (počas štandardnej pracovnej
+doby v rámci pracovného týždňa pondelok-piatok s výmenou
+vadného zariadenia do 24 hodín, ak je nahlásená výmena do 15"00
+miestneho času)
+Prístup na TAC (Technical Asssistance Center) - stredisko expertnej
+pomoci Cisco dostupné 24/7
+Prístup na znalostnú databázu na cisco.com dostupnú 24/7
+Support na zariadenie zahŕňa všetky komponenty (karty, zdroje a
+pod.), ktoré obsahuje chassis
+Updaty signatúr
+Softvérové aktualizácie, nové verzie softvéru, opravy (tzv. bug fixy)
+Výmena vadného zariadenia 8x5xNBD (počas štandardnej pracovnej
+doby v rámci pracovného týždňa pondelok-piatok s výmenou
+vadného zariadenia do 24 hodín, ak je nahlásená výmena do 15"00
+miestneho času)
+Prístup na TAC (Technical Asssistance Center) - stredisko expertnej
+pomoci Cisco dostupné 24/7
+Prístup na znalostnú databázu na cisco.com dostupnú 24/7
+Support na zariadenie zahŕňa všetky komponenty (karty, zdroje a
+pod.), ktoré obsahuje chassis
+
+B1/ Zoznam sieťových zariadení - technológia DWDM
+Servisná lokalita
+Bučany
+Šahy
+Rimavská Sobota
+Moldava
+Budkovce
+
+Typ zariadenia
+DWDM ZCOMMAX ver. 1.5.7
+DWDM ZCOMMAX ver. 1.5.7
+
+S/N
+
+IP MGMT
+
+Rozsah supportov
+31-Dec-2020
+31-Dec-2020
+
+DWDM ZCOMMAX ver. 1.5.7
+
+-31-Dec-2020
+
+DWDM ZCOMMAX ver. 1.5.7
+DWDM ZCOMMAX ver. 1.5.7
+DWDM ZCOMMAX ver. 1.5.7
+DWDM ZCOMMAX ver. 1.5.7
+DWDM ZCOMMAX ver. 1.5.7
+
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+31-Dec-2020
+
+13
+
+Zmluva o poskytovaní servisných služieb - SLA Cisco productov pre LAN a WAN
+
+B2/ Parametre servisnej podpory pre sieťové zariadenia - technológia DWDM
+Typ supportu
+
+Platnosť supportu pre
+zariadenia
+Úroveň služieb PLUS DWDM ZCOMMAX ver. 1.5.7
+
+Rozsah služieb krytých supportom
+Režim 24x7
+E-mail s technickou podporou, dostupnosť Hotline linky,
+neprioritizovaný prístup
+Časovo garantovaná odozva technickej podpory v
+definovanom časovom rámci:
+- reakčná doba do 8 hod. pre prevádzkové zmeny a závady
+- správa požiadaviek a udalostí prostredníctvom webportálu s
+automatickou notifikáciou o zmenách stavu, vrátane
+dostupnosti informácie o celej histórii požiadavky
+1 hodina podpory mesačne v rámci supportu
+Výjazd technika s náhradnými dielmi do 24 hodín na miesto
+určenia od nahlásenia a akceptovania technikom
+Fyzická profylaktika zariadení 2x ročne (5. a 11. mesiac) diagnostika EDFA zosilňovača, základné meranie výkonu,
+dostavenie inštalačných hodnôt, vizuálna kontrola DWDM
+systému, či nie je poškodený poškodený ventilátor, zanesený
+filter a kontrola výkonu SFP modulov. Súčasťou je výstupný
+protokol z profylaktiky
+Držanie 1 páru / kanál SFP na sklade pre zabezpečenie
+funkčnosti min. 1x10Gbps
+Rozsah podpory nezaŕňa cestovné a ubytovacie náklady
+
+C1/ Zoznam softvérových licencií - technológia Cisco
+Produktové číslo
+Typ licencie
+R-CSACS-56VMUP-K9= ACS 5.5 VMWare Upgrade + Base
+License (Electronic Delivery)
+L-CSACS-5-BASE-LIC
+Cisco Secure ACS 5 Base License
+(Electronic Delivery)
+L-CSACS-5-BASE-LIC
+Cisco Secure ACS 5 Base License
+(Electronic Delivery)
+R-PI2X-K9
+Cisco Prime Infrastructure 2.x
+L-PI2X-LF-25
+Prime Infrastructure 2.x - Lifecycle - 25
+Device Lic
+L-PILMS42-KIT
+Prime Infrastructure - LMS License Kit
+L-PILMS42A-25
+Prime Infrastructure LMS 4.2A - 25
+Device Base Lic
+R-PI21-SW-K9
+Prime Infrastructure 2.1 Software
+L-PI2X-BASE
+Prime Infrastructure 2.x Base License
+
+S/N
+
+Počet
+2
+
+Rozsah supportov
+31-Dec-2020
+
+1
+
+31-Dec-2020
+
+1
+
+31-Dec-2020
+
+1
+1
+
+31-Dec-2020
+31-Dec-2020
+
+1
+1
+
+31-Dec-2020
+31-Dec-2020
+
+1
+1
+
+31-Dec-2020
+31-Dec-2020
+
+C2/ Parametre servisnej podpory pre softvérové licencie - technológia Cisco
+Typ supportu
+
+Platnosť supportu pre zariadenia
+
+Rozsah služieb krytých supportom
+
+ECMU
+
+Prime Infrastructure
+
+Upgrady a update aplikácie
+Prístup na znalostnú databázu na cisco.com
+dostupnú 24/7
+Prístup na TAC (Technical Asssistance Center) stredisko expertnej pomoci Cisco dostupné 24/7
+Prístup na znalostnú databázu na cisco.com
+dostupnú 24/7
+
+14
+
+Zmluva o poskytovaní servisných služieb - SLA Cisco productov pre LAN a WAN
+
+D/ Parametre servisných služieb
+Parameter služby
+
+Rozsah služby
+
+Zákaznícke centrum
+
+áno, pre nahlasovanie udalostí
+
+Spravované zariadenia a systémy
+
+podľa zoznamu č. A1, B1 a C1
+
+Servisné pokrytie
+
+pracovné dni 08:00-16:00 hod.
+
+Reakčná doba
+
+do 8 hodín
+
+Paušál pre servisné zásahy
+
+16 hodín mesačne
+predplatený paušál hodín určený na riešenie porúch a výkon požiadaviek
+zákazníka, konzultačné a poradenské služby
+
+Prenos nevyužitých hodín
+
+v rámci 1 polroka
+
+Reporting
+
+spracovanie pravidelných výkazov o činnosti 1x mesačne
+
+15
+
+

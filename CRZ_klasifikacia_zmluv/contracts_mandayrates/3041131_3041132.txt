@@ -1,0 +1,768 @@
+Kúpna zmluva č. Z201736348_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Kancelária Národnej rady Slovenskej republiky
+Nám. Alexandra Dubčeka 1 , 81280 Bratislava - Staré Mesto, Slovenská republika
+00151491
+2020845046
+nie je platca
+SK6681800000007000004863
++421259722363
+
+Dodávateľ:
+Obchodné meno:
+
+SOITRON, s.r.o.
+
+Sídlo:
+
+Plynárenská 5, 829 75 Bratislava, Slovenská republika
+
+IČO:
+
+35955678
+
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+0258224111
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Videokonferenčný systém s IP telefónnou ústredňou
+
+Kľúčové slová:
+
+Videokonferenčný systém s IP telefónnou ústredňou
+
+CPV:
+
+32232000-8 - Zariadenie na videokonferencie; 60000000-8 - Dopravné služby (bez
+prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Riešenie videokonferenčného systému s IP telefónnou ústredňou pozostáva z: video-konferenčného systému pre
+zasadaciu miestnosť (VC systém)
+• Riešenie videokonferenčného systému s IP telefónnou ústredňou pozostáva z: personálneho video-konferenčného
+systému
+• Riešenie videokonferenčného systému s IP telefónnou ústredňou pozostáva z: HW s podporou virtualizácie a
+video-telefónnej ústredne (IP PBX ) riadiacej: ako VC systém, tak aj IP telefóny (obstarané voliteľne až v budúcnosti)
+a SIP SW klienta (obstaraný voliteľne až v budúcnosti)
+• Riešenie videokonferenčného systému s IP telefónnou ústredňou pozostáva z: komponentov zabezpečujúcich
+bezpečný prechod cez firewall - tzv. firewall traversal (FT)
+• Riešenie videokonferenčného systému s IP telefónnou ústredňou pozostáva z: konferenčného servera
+zabezpečujúceho pripojenie viacerých účastníkov do konferencie
+• Riešenie videokonferenčného systému s IP telefónnou ústredňou pozostáva z: HW/SW podpory na obdobie
+minimálne 1 roka
+• Riešenie videokonferenčného systému s IP telefónnou ústredňou pozostáva z: analýzy, prípravy prostredia, dizajnu,
+fyzickej inštalácie zariadení, inštalácie a konfigurácie aplikačného SW, testovania a ladenia u obstarávateľa
+• Systém musí zabezpečovať: registrácia SIP video-konferenčných systémov, SIP IP telefónnych aparátov
+(obstaraných neskôr), SIP SW komunikátorov (obstaraných neskôr)
+• Systém musí zabezpečovať: správa číslovacieho plánu, telefónnych klapiek ako aj SIP URI identifikátorov pre
+jednotlivé koncové zariadenia (VC systém, IP Telefón, SW klient)
+• Systém musí zabezpečovať: centrálne adresárové služby
+
+Strana 1 z 7
+
+• Systém musí zabezpečovať: správa prenosového pásma - Call Admission Control (CAC)
+• Systém musí zabezpečovať: funkcia firewall traversal-u (FT) pre hlasovú a obrazovú prevádzku, aby bolo možné
+medzi vzdialenými VC systémami uskutočňovať transparente spojenia
+• Systém musí zabezpečovať: registrovaný VC systém (v budúcnosti aj IP Telefóny, SW klienta a multi-bodové video
+MCU hostované stretnutia) navyše musí byť dovolateľný aj z prostredia internetu prostredníctvom SIP URI
+identifikátora, aby bolo jednoducho a transparente možné uskutočňovať spojenia aj s inými systémami, t.j. prijímať
+volania prichádzajúce z verejného internetu prostredníctvom VC systému (neskôr IP telefónov a SW klienta, resp.
+prijať volania na MCU)
+• Systém musí zabezpečovať: kapacita systému IP PBX je min. 800 zariadení s možnosťou rastu do budúcnosti min. o
+15 percent, bez potreby navyšovania HW výkonu alebo pridávania ďalších HW komponentov
+• Systém musí zabezpečovať: vzájomný preklad medzi SIP a H.323 formami signalizácie, aby mohli používatelia
+uskutočňovať hovory aj na staršie H.323 systémy, rovnako tak, aby tieto staršie systémy mohli uskutočňovať spojenia
+na predmetný VC systém, vrátane zdieľania obsahu (SIP BFCP a H.239)
+• Systém musí zabezpečovať: funkcia firewall traversal-u a prekladu signalizácie tak, aby bolo možné sa s VC
+systémom spojiť z prostredia globálneho internetu
+• Systém musí zabezpečovať: podpora ochrany video-konferenčných stretnutí pred sieťovým odpočúvaním formou
+šifrovania RTP paketov a SIP signalizácie.
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9 alebo kompatibilný
+
+ks
+
+1
+
+Personálny video-konferenčný systém: CP-DX80-K9
+alebo kompatibilný
+
+ks
+
+1
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9 alebo kompatibilný
+
+ks
+
+1
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+alebo kompatibilný
+
+ks
+
+1
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9 alebo
+kompatibilný
+
+ks
+
+1
+
+Analýza, príprava prostredia, dizajnu, fyzická inštalácia
+zariadení, inštalácia a konfigurácia aplikačného SW,
+testovanie a ladenie u obstarávateľa, dokumentácia
+
+ks
+
+1
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+PWR-CORD-EUR-A-3ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-MIC-TABL60-3ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CAB-MIC-T60EXT-3ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CAB-HDMI-MULT-9M-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+LIC-CE-CRYPTO-K9-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-CAM-P60-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-CAM60-BRKT-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+PSU-12VDC-40W2-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CAB-DVI-VGA-PHOEN-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CAB-ETH-ST-SHORT-1ks
+
+Strana 2 z 7
+
+Minimum
+
+Maximum
+
+Presne
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CAB-PWR-ST-SHORT—1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-ST-ARR60-WMK—1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+PWR-CORD-EUR-A-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CAB-DV10-12.5M-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-PWR-AIR-INJ5+-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+DOC-P60CAM-BRKT-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CAB-DV10-4M-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-CAM-P60+-2ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-CTRL-DVX-10+-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-SX80-RACKEARS—1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-SX80CODEC-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+SW-S52020-CE8-K9-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-ST-INT-PLATE—2ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+PWR-12VDC-84W—1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CTS-ST-ARRAY60+-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+PSU-12VDC-40W2=-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+L-TP-RM-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+L-SX-SERIES-RM-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CON-ECDN-SX80IP60-1ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CON-ECDN-CTSMICTB-3ks
+
+Video-konferenčný systém pre zasadaciu miestnosť (VC
+systém): CTS-SX80-IPST60-K9
+
+CON-ECDN-CTSCAM60-1ks
+
+Personálny video-konferenčný systém: CP-DX80-K9
+
+CP-PWR-CORD-CE-1ks
+
+Personálny video-konferenčný systém: CP-DX80-K9
+
+CON-PSRT-CPDX80KG-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+R-CBE6K-K9-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+BE6K-SW-11.5-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+UCXN-11X-SCPORTS-2ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+BE6K-PAK-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+BE6K-UXL-START-1ks
+
+Strana 3 z 7
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+BE6K-START-UCL35-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+BE6K-UCL-TP-RM
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+UCM-11X-TP-UCL-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+BE-11X-UCL-STR-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CAB-9K10A-EU-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+BE6K-SW-10X11X-K9-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+VMW-VS6-HYPPLS-K9-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CIT-PSU1-770W-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CIT-CPU-E52630D-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CIT-HD300G10K12G-6ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+R2XX-RAID5-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CIT-MR-1X162RU-A-2ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CIT-MRAID12G-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CIT-MRAID12G-1GB-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+UCSC-PSU1-770W=-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+UCSC-PCIE-IRJ45=-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CON-ECMU-RCBE6KK-1ks
+
+HW s podporou virtualizácie a vidoetelefónna ústredňa
+(IP PBX): BE6M-M4-K9
+
+CON-SNT-BE6M4M4K-1ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-RMS-4ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-E-PAK-1ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-GW-4ks LIC-EXP-E-2ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-TURN-2ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-AN-2ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-SW-EXP-K9-4ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-SERIES-4ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+EXPWY-VE-E-K9-2ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+SW-EXP-8.X-K9-1ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+EXPWY-VE-C-K9-2ks
+Strana 4 z 7
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-DSK-35ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+LIC-EXP-ROOM-1ks
+
+Komponenty zabezpečujúce bezpečný prechod cez
+firewall, tzv. firewall traversal (FT): LIC-EXP-E-PAK
+
+CON-ECMU-LICEXPRM-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CTI-CMS-1K-BUN-K9-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CAB-9K10A-EU-2ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CMS1K-SW-2X-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CIT3-CPU-E52695E-2ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CIT3-HD300G10K12G-2ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CIT3-PSU1-770W-2ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+R2XX-RAID1-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CIT3-MR-1X081RV-A-8ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CIT3-MRAID12G-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+R-CMS-K9-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+SW-CMS-2X-K9-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+LIC-CMS-K9-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+LIC-CMS-PAK-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+VMW-VSP-STD-1A=-2ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+UCS-VMW-TERMS-2ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+LIC-SMP+EP-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CON-PSJ1-CTICMS1K-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CON-PSBU-RCMSK9-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CON-PSBU-SWCM2XK9-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CON-PSBU-LICCMSLG-1ks
+
+Konferenčný server zabezpečujúci pripojenie viacerých
+účastníkov do konferencie: CTI-CMS-1000-K9
+
+CON-ISV1-VSXSTD1A-2ks
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Vrátane inštalácie na mieste plnenia
+
+Strana 5 z 7
+
+Dodávané zariadenia nesmú mať na sebe výrobné vady, nesmú byť inak výrobne poškodené, nesmú mať obmedzenú
+funkcionalitu a musia spÍňať minimálne technické požiadavky. Zároveň musia spÍňať podmienku, že nesmú byť už použité
+alebo obnovené do pôvodného výrobného stavu a nanovo pre-predané ako nové zariadenia pod všeobecným označením
+výrobcov „re-market“ zariadenia.
+Dodávateľ dodá tovar, ktorý je certifikovaný a schválený na dovoz a predaj v Slovenskej republike resp. v rámci Európskej únie
+a bude vyhovovať platným medzinárodným normám STN a všeobecne záväzným právnym predpisom. Výrobca
+požadovaného riešenia musí pochádzať z krajín EÚ alebo NATO.
+Dodávateľ je povinný do troch pracovných dní od uzavretia zmluvy predložiť potvrdenie výrobcu sieťových komponentov/
+sieťovej technológie, že konkrétne ponúkané produkty nie sú označené u tohto výrobcu sieťových komponentov/sieťovej
+technológie ako End-of-Sale a End-of-Support.
+Dodávateľ je povinný do troch pracovných dní od uzavretia zmluvy predložiť potvrdenie výrobcu zariadení, ktoré sú
+predmetom jeho ponuky dokladujúce, že dodávateľ je súčasne: Zmluvným partnerom výrobcu pre predaj produktov, ktoré sú
+súčasťou predkladanej ponuky na území Slovenskej republiky a súčasne: Zmluvným partnerom výrobcu v oblasti poskytovania
+servisných služieb pre produkty, ktoré sú súčasťou predkladanej ponuky na území Slovenskej republiky.
+Vzhľadom na integráciu do rozsiahleho systému sa požaduje certifikácia dodávateľa na úrovni: Advanced Collaboration
+Architecture Specialization
+Požadovaná záruka na inštalačné a montážne práce min. 2 roky. Ostatná záruka je určená špecifikáciou požadovaného
+komponentu alebo jeho časti.
+Komponenty uvedené v technickej špecifikácii predmetu zákazky musia byť z dôvodu kompatibility rovnakej obchodnej
+značky.
+Vrátane zaškolenia max. 3 osôb v rozsahu max. 8 hodín.
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Bratislavský
+
+Okres:
+
+Bratislava I
+
+Obec:
+
+Bratislava - mestská časť Staré Mesto
+
+Ulica:
+
+Námestie Alexandra Dubčeka 1
+
+Čas / lehota plnenia zmluvy:
+01.08.2017 08:00:00 - 31.08.2017 16:00:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+kus podľa technickej špecifikácie
+
+Požadované množstvo:
+
+169,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy bez DPH: 62 458,33 EUR
+
+4.2
+
+Sadzba DPH: 20,00
+
+4.3
+
+Celková cena predmetu Zmluvy vrátane DPH: 74 950,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+Strana 6 z 7
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 28.07.2017 10:08:01
+Objednávateľ:
+Kancelária Národnej rady Slovenskej republiky
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+SOITRON, s.r.o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 7 z 7
+
+

@@ -1,0 +1,634 @@
+D2018121001
+
+ZMLUVA O POSKYTOVANÍ SLUŽIEB
+uzatvorená v zmysle § 269 a nasl. zákona č. 513/1991 Zb. Obchodného zákonníka v znení
+neskorších predpisov (ďalej len ,,zmluva“)
+Článok I.
+ZMLUVNÉ STRANY
+1. Poskytovateľ:
+Sídlo:
+IČO:
+Zápis:
+DIČ:
+IČ DPH:
+E-mail:
+Telefón:
+číslo účtu/IBAN:
+SWIFT:
+Zastúpený:
+
+Disig, a.s.
+Záhradnícka 151, 821 08 Bratislava
+35975946
+v Obchodnom registri Okresného súdu Bratislava I, oddiel Sa, vložka č.
+3794/B
+2022116976
+SK2022116976
+disig@disig.sk
++421 905 899 024
+SK11 1100 0000 0026 2576 8772
+
+TATRSKBX
+Ing. Ľuboš Batěk – predseda predstavenstva
+Ing. Ivan Kühn – podpredseda predstavenstva
+
+(ďalej ako „Poskytovateľ“)
+a
+2. Objednávateľ:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+E-mail:
+Telefón:
+číslo účtu/IBAN
+Zastúpený:
+
+Úrad geodézie, kartografie a katastra SR
+Chlumeckého 2, 820 12 Bratislava 212
+00166260
+2020830240
+nie je platcom DPH
+jan.tovarnak@skgeodesy.sk
+02/ 2081 6093
+SK43 8180 0000 0070 0006 3089
+Ing. Mária Frindrichová, predsedníčka
+
+(ďalej ako „Objednávateľ“)
+(ďalej individuálne aj ako „zmluvná strana“ alebo spolu ako „zmluvné strany“)
+
+Článok II.
+PREDMET ZMLUVY
+2.1.
+
+Predmetom tejto zmluvy je:
+a) záväzok Poskytovateľa riadne a včas zriadiť a prevádzkovať u Objednávateľa službu
+špecifikovanú v čl. III tejto zmluvy a podľa podmienok dohodnutých v tejto zmluve a jej
+prílohách a poskytovať k nej rozšírenú hardvérovú podporu; a
+b) záväzok Objednávateľa riadne a včas poskytnutú službu (zriadenie služby, prevádzkovanie
+služby a rozšírená hardvérová podpora) prevziať a zaplatiť Poskytovateľovi cenu
+dohodnutú podľa podmienok tejto zmluvy.
+
+D2018121001
+
+Článok III.
+SLUŽBA
+3.1.
+
+Poskytovateľ sa na základe tejto zmluvy a v súlade s jej podmienkami zaväzuje
+u Objednávateľa zriadiť a následne prevádzkovať dôveryhodnú službu uchovávania
+elektronicky podpísaných auditných záznamov, ktorá umožní opatrovanie týchto
+elektronických dokumentov kvalifikovanou časovou pečiatkou (ďalej len „služba“). Služba
+pozostáva z jej zriadenia a následného prevádzkovania a rozšírenej hardvérovej podpory:
+3.1.1. Zriadenie služby pozostáva najmä z poskytnutia samostatného hardvérového
+zariadenia Objednávateľovi (ďalej len „zariadenie“), z jeho inštalácie a konfigurácie
+Poskytovateľom v mieste plnenia tejto zmluvy a prípadne z ďalších úkonov, ktoré sú
+potrebné pre uvedenie služby do prevádzky (ďalej len „zriadenie služby“);
+Parametre a vlastnosti zariadenia a zriadenia služby:
+Vlastnosti
+A. Základné funkčné
+požiadavky
+
+Hodnota / Charakteristika
+
+
+
+
+
+
+B. lntegračné
+rozhrania
+
+
+
+
+
+
+C. Dohľadové
+používateľské
+rozhranie
+
+
+
+
+
+Poskytnutie integračného rozhrania pre ukladanie auditných
+záznamov externými systémami objednávateľa.
+Opatrenie vkladaných auditných záznamov časovou
+pečiatkou s využitím kvalifikovanej dôveryhodnej služby
+časových pečiatok externého poskytovateľa s cieľom
+zaručenia integrity a existencie auditného záznamu v čase.
+Zabezpečenie uchovávania a sprístupňovania auditných
+záznamov.
+Definovateľná retenčná politika pre jednotlivé uchovávané
+typy auditných záznamov.
+Poskytovanie dohľadového používateľského rozhrania, ktoré
+umožní výkon auditu nad uchovávanými auditnými
+záznamami.
+Poskytnutie integračného rozhrania – webových služieb, pre
+vkladanie auditných záznamov externými systémami
+objednávateľa
+lntegračné rozhranie musí byť poskytované prostredníctvom
+protokolu H'I'I'P a nadstavbového komunikačného protokolu
+Simple Object Access Protocol (SOAP) alebo REST/JSON
+K integračným rozhraniam musí byť k dispozícii popisná
+špecifikácia:
+o pre SOAP rozhrania vo formáte Web Services
+Description Language (WSDL)
+o pre REST rozhrania vo formáte podľa OpenAPl
+Specification (OAS)
+Prístup externých systémov k integračnému rozhraniu musí
+byť chránený autentifikačným mechanizmom
+Dohľadové používateľské rozhranie musí byť poskytované
+prostredníctvom HTTP(s) protokolu a HTML a musí byť
+dostupné z prostredia internetového prehliadača, pričom
+nesmie byť vyžadovaná inštalácia dodatočného
+programového vybavenia
+Podpora minimálne nasledujúcich verzií internetových
+prehliadačov:
+o Google Chrome vo verzii 45 alebo vyššej
+o Mozilla Firefox vo verzii 52 alebo vyššej
+o Microsoft Edge vo verzii Windows 1703 a vyššej
+
+D2018121001
+
+
+
+
+
+
+
+
+
+D. Požiadavky na
+integráciu s
+poskytovateľom
+kvalifikovanej
+dôveryhodnej
+služby časových
+pečiatok
+E. Požiadavky na
+rešpektovanie
+záväzných
+právnych
+predpisov
+
+
+
+
+
+
+
+
+
+F. Požiadavky na
+výkonnosť
+
+
+
+G. Požiadavky na
+úložnú kapacitu
+H. Požiadavky na
+dokumentáciu
+
+
+
+
+
+Poskytnutie funkčnosti prezerania, vyhľadávania a
+zobrazovania auditných záznamov a príslušných metaúdajových atribútov auditných záznamov Extrakcia metaúdajov z vybraných auditných záznamov
+Korelovanie správ na základe vybraných meta-údajových
+atribútov, zoskupenie súvisiacich záznamov prislúchajúcich
+k jednej transakcii/ reťazcu súvisiacich správ
+Možnosť vyhľadávania a filtrovania auditných záznamov s
+využitím meta-údajových atribútov a tvorba kritériových
+filtrov
+Poskytnutie základných auditných štatistických prehľadov o
+prírastkoch a uchovávaných auditných záznamoch
+Prístup k dohľadovému používateľskému rozhraniu musí byť
+možné riadiť tzn. že pristupovať môže len vybraná skupina
+používateľov pričom túto skupinu používateľov musí byť
+možné definovať
+Možnosť exportovania prehľadových zobrazení záznamov do
+tabuľkového formátu .CSV a Microsoft Excel
+Možnosť exportovania zvolených auditných záznamov
+Pre integráciu s poskytovateľom kvalifikovanej
+dôveryhodnej služby časových pečiatok musí služba
+podporovať pripojenie prostredníctvom Timestamp protocol
+v zmysle RFC 3161
+
+NARIADENIE EURÓPSKEHO PARLAMENTU A RADY
+(EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii
+a dôveryhodných službách pre elektronické transakcie na
+vnútornom trhu a o zrušení smernice 1999/93/ES
+Zákon č. 272/2016 Z. z. Zákon o dôveryhodných službách
+pre elektronické transakcie na vnútornom trhu v platnom
+znení
+Výnos č. 55/2014 Z. z. Ministerstva financií Slovenskej
+republiky o štandardoch pre informačné systémy verejnej
+správy v platnom znení
+Nástroj musí byť schopný prijať na spracovanie
+prostredníctvom integračného rozhrania minimálne 100
+auditných záznamov za sekundu od externých systémov
+Nástroj musí poskytovať minimálne 200 GB hrubej úložnej
+kapacity pre uchovávanie auditných záznamov
+Integračná technická dokumentácia popisujúca integračné
+rozhrania a postup pre integráciu externých aplikačných
+komponentov
+Používateľská príručka popisujúca funkčnosť Dohľadového
+používateľského rozhrania
+
+Súčasťou zriadenia služby je aj:
+ dodanie nasledovnej dokumentácie:
+o Integračná technická dokumentácia popisujúca integračné rozhrania a postup
+pre integráciu externých aplikačných komponentov
+o Používateľská príručka popisujúca funkčnosť Dohľadového používateľského
+rozhrania
+ poskytnutie školenia v minimálnom rozsahu 1 x 4 hodiny pre používateľov
+dohľadového používateľského rozhrania
+
+D2018121001
+
+3.1.2. Prevádzkovaním služby je poskytovanie podpory pre službu, zabezpečenie jej
+fungovania, aktualizácií a prípadných opráv počas obdobia 12 mesiacov od zriadenia
+služby (ďalej len „prevádzkovanie služby“). Súčasťou plnenia je aj rozšírená podpora
+hardvérového zariadenia, ktorá zahŕňa nárok na aktualizácie počas celého obdobia
+prevádzky služby (ďalej len „rozšírená hardvérová podpora“).
+3.2.
+
+Požiadavky na zriadenie a prevádzkovanie služby sú uvedené v bode 3.1 tejto zmluvy.
+
+3.3.
+
+Pre vylúčenie pochybností platí, že služba podľa tejto zmluvy nezahŕňa poskytovanie
+dôveryhodnej služby vytvárania kvalifikovaných časových pečiatok.
+
+Článok IV.
+ČAS PLNENIA
+4.1.
+
+Poskytovateľ sa zaväzuje poskytnúť Objednávateľovi dohodnutú službu riadne a včas.
+
+4.2.
+
+Poskytovateľ je povinný zriadiť službu do 20 pracovných dní odo dňa účinnosti tejto zmluvy
+(zriadenie služby) a zabezpečovať jej prevádzku počas 12 mesiacov odo dňa jej zriadenia
+(prevádzkovanie služby). Poskytovateľ je povinný zabezpečiť rozšírenú hardvérovú podporu
+počas celého obdobia prevádzkovania služby.
+
+Článok V.
+MIESTO PLNENIA
+5.1. Miestom plnenia podľa tejto zmluvy je sídlo Objednávateľa uvedené v záhlaví tejto zmluvy.
+
+Článok VI.
+CENA A PLATOBNÉ PODMIENKY
+6.1. Celková cena za službu (zariadenie, zriadenie, prevádzkovanie služby a rozšírená hardvérová
+podpora) je určená v súlade s podmienkami tejto zmluvy a v súlade so zákonom č. 18/1996 Z.
+z. o cenách v znení neskorších predpisov a vyhláškou č. 87/1996 Z. z. Ministerstva financií
+Slovenskej republiky, ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č.18/1996
+Z. z. o cenách v znení neskorších predpisov vo výške 47.200,00,- EUR bez DPH (slovom
+štyridsaťsedemtisícdvesto EUR bez DPH). K cene bude fakturovaná DPH v zmysle zákona číslo
+222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších právnych predpisov.
+6.2. Zmluvné strany sa dohodli, že cena podľa bodu 6.1 zmluvy zahŕňa všetky náklady
+Poskytovateľa spojené s poskytovanou službou.
+6.3. Poskytovateľovi vznikne právo na vystavenie faktúry za poskytnutú službu dňom podpísania
+preberacieho protokolu potvrdzujúceho zriadenie služby poverenými zástupcami oboch
+zmluvných strán.
+6.4. Poskytovateľ zašle faktúru na adresu sídla Objednávateľa, resp. na inú adresu určenú v záhlaví
+tejto zmluvy. Splatnosť faktúry je tridsať (30) dní od jej doručenia Objednávateľovi. Úhrada
+faktúry bude realizovaná bezhotovostným platobným stykom na účet Poskytovateľa uvedený v
+záhlaví tejto zmluvy.
+6.5. Faktúra musí obsahovať všetky náležitosti podľa zákona č. 222/2004 Z. z. o DPH a zákona č.
+431/2002 Z. z. o účtovníctve v účinnom znení pričom jej prílohou bude kópia preberacieho
+
+D2018121001
+
+protokolu v zmysle bodu 9.1 tejto zmluvy podpísaného oprávnenými zástupcami oboch
+zmluvných strán.
+6.6. V prípade, že faktúra (daňový doklad) bude obsahovať nesprávne alebo neúplné údaje, príp.
+nebude obsahovať dohodnuté náležitosti, Objednávateľ je oprávnený vrátiť ju Poskytovateľovi
+na opravu a prepracovanie. Poskytovateľ je povinný faktúru podľa charakteru nedostatku
+opraviť alebo vystaviť novú. Po dobu opravy t. j. prepracovania a doplnenia nesprávnej alebo
+neúplnej faktúry nie je Objednávateľ v omeškaní s jej úhradou. Lehota splatnosti opravenej resp.
+doplnenej faktúry začne plynúť odznova odo dňa jej doručenia objednávateľovi podľa bodu 6.4
+zmluvy.
+6.7 Faktúra sa považuje za uhradenú dňom pripísania celej fakturovanej čiastky na účet
+Poskytovateľa. Pokiaľ počas platnosti a účinnosti tejto zmluvy dôjde k zmene čísla účtu
+ktorejkoľvek zmluvnej strany, zmluvné strany sú povinné si zmenu písomne oznámiť na adresu
+sídla uvedenú v záhlaví tejto zmluvy, a to najneskôr do piatich (5) pracovných dní odo dňa kedy
+zmena nastala. Zmena čísla účtu bude vo vzťahu k zmluvnej strane účinná odo dňa písomného
+oznámenia zmeny bez nutnosti uzatvoriť dodatok k tejto zmluve.
+
+Článok VII.
+PRÁVA A POVINNOSTI POSKYTOVATEĽA
+7.1.
+
+Poskytovateľ sa zaväzuje poskytnúť službu podľa čl. III bod 3.1 tejto zmluvy riadne a včas
+a postupovať pri plnení tejto zmluvy s odbornou starostlivosťou. Zariadenie odovzdá
+Objednávateľovi v stave spôsobilom na užívanie dohodnuté podľa tejto zmluvy a vlastnícke
+právo k zariadeniu prechádza na Objednávateľa dňom podpísania preberacieho protokolu
+podľa bodu 9.1 tejto zmluvy.
+
+7.2.
+
+Poskytovateľ sa zaväzuje, že poskytne službu (zriadenie, prevádzkovanie služby a rozšírená
+hardvérová podpora) v množstve, rozsahu, kvalite a v prevedení podľa podmienok
+dohodnutých v tejto zmluve a že plnenie bude dohodnuté podmienky spĺňať počas celého
+trvania tejto zmluvy. Zároveň sa zaväzuje, že služba bude poskytnutá v súlade s platnými
+a účinnými právnymi predpismi.
+
+7.3.
+
+Poskytovateľ predloží do 7 pracovných dní od nadobudnutia účinnosti zmluvy zoznam
+kontaktných osôb zodpovedných za plnenie tejto zmluvy v rozsahu meno, priezvisko, emailová adresa, telefónne číslo, funkcia, e-mailové adresy alebo telefonický kontakt pre
+nahlasovanie vád.
+
+7.4.
+
+Poskytovateľ je oprávnený poskytovať službu aj prostredníctvom subdodávateľa, ktorý bol
+vopred písomne odsúhlasený Objednávateľom. Realizácia služby prostredníctvom
+subdodávateľa nezbavuje Poskytovateľa zodpovednosti za realizáciu služby a zodpovedá ako
+keby službu poskytoval sám.
+
+Článok VIII.
+PRÁVA A POVINNOSTI OBJEDNÁVATEĽA
+8.1.
+
+Objednávateľ je povinný bezodkladne informovať Poskytovateľa o potrebe opráv alebo
+údržby zariadenia ako aj o prekážkach resp. iných okolnostiach, ktoré môžu brániť
+Poskytovateľovi riadne plniť predmet zmluvy.
+
+8.2.
+
+Objednávateľ má právo na poskytnutie služby v súlade s podmienkami tejto zmluvy.
+Zariadenie môže používať výlučne za účelom využívania služieb podľa tejto zmluvy.
+Objednávateľ je zároveň povinný starať sa o to, aby na zariadení nevznikla škoda.
+
+D2018121001
+
+8.3.
+
+Objednávateľ nie je oprávnený dať zariadenie do podnájmu tretej osobe, vykonávať na
+zariadení akékoľvek zmeny alebo úpravy alebo umožniť vykonanie zmien alebo úprav na
+zariadení tretím stranám.
+Článok IX.
+ZRIADENIE SLUŽBY
+
+9.1
+
+Poskytovateľ je povinný zriadiť službu tak, aby ju Objednávateľ mohol riadne prevziať a
+používať dohodnutým spôsobom na dohodnutý účel podľa podmienok tejto zmluvy. Spolu
+s odovzdaním zriadenej služby poskytne Objednávateľovi dokumentáciu podľa bodu 3.1.1
+tejto zmluvy, ktorá je potrebná na používanie služby. Odovzdanie a prevzatie zriadenej služby
+a zariadenia potvrdia oprávnené osoby zmluvných strán v odovzdávacom/preberacom
+protokole.
+
+9.2
+
+Ak pri preberaní zriadenej služby Objednávateľ zistí, že má vady, ktoré bránia jej používaniu,
+Objednávateľ toto plnenie neprevezme a spíše s Poskytovateľom zápis o zistených vadách,
+spôsobe a termíne ich odstránenia. Poskytovateľ má povinnosť odovzdať plnenie po
+odstránení týchto vád. Až po odstránení vád môžu zmluvné strany pristúpiť k spísaniu
+odovzdávacieho / preberacieho protokolu. Uvedené nemá vplyv na povinnosť Poskytovateľa
+zriadiť službu v lehote podľa čl. IV bod 4.2 tejto zmluvy a v prípade jeho porušenia sa
+Poskytovateľ dostáva do omeškania so zriadením služby.
+
+9.3
+
+Osoba oprávnená podpísať odovzdávací/ preberací protokol za Objednávateľa: riaditeľ odboru
+informatiky, bezpečnosti a krízového riadenia
+Osoba oprávnená podpísať odovzdávací/ preberací protokol za Poskytovateľa:
+Tomáš Zeman
+tomas.zeman@disig.sk, +421 905 899 024
+
+Článok X.
+PREVÁDZKOVANIE SLUŽBY
+10.1. Poskytovateľ sa počas doby prevádzkovania služby podľa čl. IV bodu 4.2 zmluvy zaväzuje
+odstrániť akékoľvek vady služby, ktoré bránia jej riadnemu užívaniu podľa tejto zmluvy.
+10.2. Oznámenie vady služby (zaslané e-mailom alebo oznámené telefonicky) bude obsahovať
+dátum a čas jej výskytu, popis vady, ako aj meno, priezvisko a kontakt na pracovníka
+zodpovedného za plnenie zo strany Objednávateľa. Vady sa budú oznamovať prostredníctvom
+kontaktov oznámených podľa bodu 7.3 tejto zmluvy.
+10.3. Poskytovateľ je povinný nahlásenú vadu podľa predchádzajúceho odseku odstrániť, a to
+v lehote najneskôr do 7 (siedmich) dní odo dňa jej nahlásenia.
+
+Článok XI.
+ZMLUVNÉ POKUTY
+11.1.
+
+V prípade omeškania Objednávateľa so zaplatením ceny za poskytnutú službu je
+Poskytovateľ oprávnený požadovať zaplatenie úrokov z omeškania, ktoré je Poskytovateľ
+oprávnený Objednávateľovi účtovať v sadzbe stanovenej všeobecne záväznými právnymi
+predpismi platnými a účinnými na území Slovenskej republiky v čase vyúčtovania úrokov
+z omeškania.
+
+D2018121001
+
+11.2
+
+Zmluvná strana nie je v omeškaní s plnením svojich zmluvných povinností, ak je jej
+omeškanie zapríčinené dôvodmi u druhej zmluvnej strany.
+
+11.3.
+
+Zmluvná strana nie je v omeškaní s plnením svojich zmluvných povinností v prípadoch
+vyššej moci, ktorou sa rozumie každá vonkajšia udalosť alebo okolnosť výnimočného
+a neodvratného charakteru, ktorú zmluvné strany nemohli rozumne predvídať pri
+podpisovaní zmluvy a ktorá znemožňuje realizáciu plnenia alebo jeho časti (napr. živelné
+pohromy a pod.).
+
+11.4.
+
+V prípade omeškania Poskytovateľa so zriadením služby, je Objednávateľ oprávnený
+účtovať Poskytovateľovi zmluvnú pokutu vo výške 0,05% z celkovej ceny uvedenej v bode
+6.1 zmluvy za každý začatý deň omeškania.
+
+11.6.
+
+Zmluvné strany sa dohodli, že zmluvná pokuta sa uplatňuje formou faktúry vystavenej
+Objednávateľom. Poskytovateľ je v prípade podstatného porušenia zmluvných podmienok
+povinný uhradiť Objednávateľovi zmluvnú pokutu v súlade s touto zmluvou na účet
+Objednávateľa v lehote desiatich kalendárnych dní. Nedodržanie ktorejkoľvek podmienky
+a požiadavky zo strany Poskytovateľa uvedenej v tejto zmluve sa bude považovať za
+podstatné porušenie zmluvných podmienok.
+
+11.7.
+
+Zaplatenie zmluvnej pokuty nemá vplyv na nárok na náhradu škody vzniknutej v súvislosti
+s porušením zmluvných povinností, ktorú je možné vymáhať samostatne.
+
+Článok XII.
+ZODPOVEDNOSŤ ZA ŠKODU
+12.1. V prípade vzniku škody porušením povinností vyplývajúcich z tejto zmluvy alebo zákona
+ktorejkoľvek zmluvnej strane, má druhá zmluvná strana nárok na náhradu vzniknutej škody
+v zmysle ustanovení Obchodného zákonníka.
+12.2. Zmluvné strany sú povinné predchádzať vzniku škôd. Zmluvné strany zodpovedajú za škody
+vzniknuté porušením zmluvných povinností v súlade so všeobecne záväznými právnymi
+predpismi platnými v Slovenskej republike.
+Článok XIII.
+ĎALŠIE DOJEDNANIA
+13.1. Poskytovateľ poskytuje na zariadenie a službu záruku minimálne 12 mesiacov.
+13.2. Záručná doba začína plynúť dňom podpísania preberacieho protokolu podľa bodu 9.1 zmluvy.
+13.3. Záruka zahŕňa najmä bezplatnú opravu (odstránenie vady) zariadenia a služby alebo výmenu
+vadných komponentov zariadenia a služby tak, aby boli zabezpečené požadované parametre
+zariadenia a služby špecifikované v tejto zmluve.
+13.4. Objednávateľ reklamuje vadu v záručnej dobe písomne u Poskytovateľa bezodkladne po tom,
+čo sa o vade dozvedel. Pre dodržanie podmienky písomnej reklamácie postačí uplatniť
+reklamáciu e-mailom na adrese kontaktnej osoby Poskytovateľa oznámenej podľa bodu 7.3
+tejto zmluvy.
+13.5. Poskytovateľ sa zaväzuje počas záručnej doby bezplatne odstrániť všetky vady:
+13.5.1. do 24 hodín odo dňa uplatnenia reklamácie Objednávateľom pri kritickej vade, ktorá
+zabraňuje plynulej prevádzke zariadenia a služby,
+
+D2018121001
+
+13.5.2. do 3 pracovných dní odo dňa uplatnenia reklamácie Objednávateľom pri ostatných
+vadách, ktoré nezabraňujú plynulej prevádzke zariadenia a služby, ale funkcionalita
+neposkytuje správne výsledky.
+13.6. Dopravné náklady a prácu servisného technika počas trvania záručnej doby znáša
+Poskytovateľ.
+13.7. V súlade s § 430 Obchodného zákonníka, záručná doba na zariadenie a službu neplynie po
+dobu, po ktorú Objednávateľ nemôže užívať predmet zmluvy pre jeho vady, za ktoré
+zodpovedá Poskytovateľ.
+13.8. Zmluvné strany sa dohodli, že o tejto zmluve a jej plnení zachovajú mlčanlivosť a že nebudú
+údaje, s ktorými prišli do styku alebo ktoré sa dozvedeli pri plnení záväzkov, ktoré im z tejto
+zmluvy vyplývajú, zverejňovať ani sprístupňovať tretím osobám; môžu tak urobiť výslovne
+s písomným súhlasom druhej zmluvnej strany. Ustanovenie tohto bodu sa nepoužije na
+sprístupnenie alebo poskytnutie údajov a informácií právnym, účtovným, daňovým alebo
+audítorským poradcom príslušnej zmluvnej strany, na povinné zverejnenie zmluvy a plnenie
+ustanovení zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene
+a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov,
+v prípade vzniku sporu súdu a právnemu zástupcovi a tiež v prípadoch uvedenia referencií
+o plnení tejto zmluvy na účely účasti zmluvnej strany vo verejnom obstarávaní alebo v inom
+výberovom konaní alebo súťaži.
+13.9. Zmluvné strany sa pri realizácii plnenia podľa tejto zmluvy zaväzujú poskytovať si navzájom
+bezodkladne všetky informácie, ktoré môžu byť potrebné pre riadne a včasné plnenie zmluvy
+ako aj informovať sa navzájom o všetkých skutočnostiach alebo okolnostiach, ktoré by mohli
+byť spôsobilé, či už priamo alebo nepriamo, zmariť alebo podstatne sťažiť plnenie zmluvy.
+13.10. Zmluvné strany sa pri poskytovaní plnenia zaväzujú poskytovať si vzájomne súčinnosť, ktorou
+sa pre účely tejto zmluvy rozumie taká súčinnosť zmluvných strán, ktorá je nevyhnutná a
+náležitá pre riadne plnenie tejto zmluvy, a ktorá spočíva najmä v:
+a) poskytnutí všetkých potrebných údajov a prístupov zo strany Objednávateľa, ktoré
+môžu byť oprávnene požadované zo strany Poskytovateľa za účelom riadneho plnenia
+predmetu tejto zmluvy,
+b) zo strany Objednávateľa v zabezpečení pripravenosti príslušných priestorov,
+v ktorých sa bude poskytovať služba, vrátane ich uvoľnenia a sprístupnenia,
+zabezpečení prístupu zamestnancov Poskytovateľa, resp. ním určených osôb do
+príslušných priestorov v súvislosti s plnením predmetu tejto zmluvy v rozsahu
+potrebnom pre plnenie predmetu tejto zmluvy,
+c) zabezpečení technických prostriedkov (napr.: elektrické pripojenie, sieťové
+pripojenie) potrebných pre zaradenie zariadenia do infraštruktúry Objednávateľa a pre
+samotnú prevádzku služby,
+d) umožnením prístupu k hardvérovému a softvérovému vybaveniu Objednávateľa
+v rozsahu potrebnom pre plnenie predmetu tejto zmluvy.
+13.11. Všetky spory, ktoré vzniknú z tejto zmluvy, vrátane sporov o jej platnosť, výklad alebo
+ukončenie sa zmluvné strany zaväzujú prednostne riešiť vzájomnými zmierovacími
+rokovaniami a dohodami štatutárnych zástupcov oboch zmluvných strán. V prípade, že sa
+vzájomné spory zmluvných strán vzniknuté v súvislosti s plnením záväzkov podľa zmluvy
+alebo v súvislosti s ňou nevyriešia, zmluvné strany sa dohodli a súhlasia, že všetky spory
+vzniknuté z tejto zmluvy budú riešené na miestne a vecne príslušnom súde Slovenskej
+republiky podľa právneho poriadku Slovenskej republiky.
+13.12. Zmeny a doplnky tejto zmluvy možno uskutočniť len formou písomných dodatkov k tejto
+zmluve po predchádzajúcej dohode oboch zmluvných strán, inak je zmena či doplnenie
+neplatné.
+
+D2018121001
+
+Článok XIV.
+TRVANIE A ZÁNIK ZMLUVY
+14.1. Táto zmluva je uzatvorená na dobu určitú, a to 24 mesiacov odo dňa jej účinnosti.
+14.2. Zmluvná strana je oprávnená jednostranne odstúpiť od tejto zmluvy v prípade, ak si druhá
+zmluvná strana riadne a včas nesplnila podstatnú povinnosť podľa zmluvy ani potom, ako ju
+odstupujúca zmluvná strana na neplnenie písomne upozornila a druhá strana ani po písomnom
+upozornení neupustí od tohto konania.
+14.3. Pokiaľ vady nie sú Poskytovateľom odstránené v lehote na odstránenie vád, Objednávateľ je
+oprávnený od zmluvy jednostranne odstúpiť.
+14.4. Dôvodom k okamžitému odstúpeniu od zmluvy zo strany Objednávateľa sú:
+14.4.1. Vstup Poskytovateľa do likvidácie,
+14.4.2. vyhlásenie konkurzu na majetok Poskytovateľa,
+14.4.3. vady nie sú Poskytovateľom odstránené v lehote na odstránenie vád,
+14.4.4. anticipované podstatné porušenie zmluvy Poskytovateľom podľa § 348 OZ
+14.5. Dôvodom k okamžitému odstúpeniu od Zmluvy zo strany Poskytovateľa sú:
+14.5.1. omeškanie Objednávateľa s platením dlhšie ako 6 týždňov,
+14.5.2. vstup Objednávateľa do likvidácie,
+14.5.3. vyhlásenie konkurzu na majetok Objednávateľa.
+14.6. Odstúpenie od zmluvy musí mať písomnú formu, musí sa v ňom uviesť dôvod odstúpenia
+a musí byť doručené druhej zmluvnej strane na adresu sídla uvedenú v záhlaví tejto zmluvy.
+Účinky odstúpenia od zmluvy nastanú dňom doručenia odstúpenia od zmluvy druhej zmluvnej
+strane. Odstúpením od zmluvy nezaniká nárok na náhradu škody. Platným odstúpením od
+zmluvy sa táto zmluva od počiatku zrušuje a zmluvné strany sú povinné si vydať dovtedy
+poskytnuté plnenia.
+14.7. Zmluvu možno ukončiť aj písomnou dohodou zmluvných strán.
+
+Článok XV.
+ZÁVEREČNÉ USTANOVENIA
+15.1. Na vzťahy medzi zmluvnými stranami vyplývajúce z tejto zmluvy, ale ňou výslovne
+neupravené, sa vzťahujú príslušné ustanovenia Obchodného zákonníka v platnom znení.
+15.2. Zmluva nadobúda platnosť dňom podpisu obidvoma zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv.
+15.3. Zmluva je vyhotovená v piatich 5 (piatich) rovnopisoch s platnosťou originálu, z ktorých 2
+(dva) si ponechá Poskytovateľ a 3 (tri) si ponechá Objednávateľ.
+15.4. V prípade, ak niektoré ustanovenie tejto zmluvy je alebo sa stane neplatným alebo neúčinným,
+nedotýka sa to ostatných ustanovení tejto zmluvy, ktoré zostávajú platné a účinné. Zmluvné
+strany sa v takom prípade zaväzujú dodatkom k tejto zmluve nahradiť neplatné alebo neúčinné
+ustanovenie ustanovením platným, ktoré čo najlepšie zodpovedá pôvodne zamýšľanému účelu
+ustanovenia neplatného alebo neúčinného. Do uzavretia takého dodatku platí zodpovedajúca
+právna úprava všeobecne záväzných právnych predpisov Slovenskej republiky.
+15.5. Neoddeliteľnú súčasť tejto zmluvy tvorí:
+Príloha č. 1 – cenník
+
+D2018121001
+
+15.6. Zmluvné strany vyhlasujú, že si text tejto zmluvy riadne a dôsledne prečítali, porozumeli jej
+obsahu a právnym účinkom z nej vyplývajúcich. Ich zmluvné prejavy sú dostatočne jasné,
+určité a zrozumiteľné. Podpisujúce osoby sú oprávnené k podpisu tejto zmluvy a na znak
+súhlasu ju podpísali.
+
+V Bratislave dňa ___________
+Objednávateľ
+__________________________________
+Ing. Mária Frindrichová, predsedníčka
+Úrad geodézie, kartografie a katastra
+V Bratislave dňa ___________
+
+Poskytovateľ
+__________________________________
+Ing. Ľuboš Batěk – predseda predstavenstva
+Disig, a.s.
+
+__________________________________
+Ing. Ivan Kühn – podpredseda predstavenstva
+Disig, a.s.
+
+D2018121001
+
+Príloha č. 1 - cenník
+
+Názov položky
+Cena za zriadenie nástroja
+
+Jednotka
+súbor
+
+Cena za poskytovanie a podporu
+nástroja
+
+mesiac
+
+Počet
+1
+12
+
+Jednotková cena
+20 800,00 EUR
+bez DPH
+26 400,00 EUR
+bez DPH
+
+Cena spolu
+20 800,00 EUR
+bez DPH
+26 400,00 EUR
+bez DPH
+
+

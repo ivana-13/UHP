@@ -1,0 +1,630 @@
+Číslo NÚSCH: 208/2017
+
+Zmluva na implementáciu služieb
+Rozšírenie existujúceho Aplikačného programového vybavenia NIS DOCTUS
+o implementáciu služieb eZdravie a napojenie na Národný zdravotnícky
+informačný systém
+číslo ZP-2017047
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník
+v znení neskorších predpisov
+
+Objednávateľ:
+Sídlo:
+Zastúpený:
+
+Národný ústav srdcových a cievnych chorôb, a.s.
+Pod Krásnou hôrkou 1, 833 48 Bratislava
+Ing. Mongi Msolly, MBA, predseda predstavenstva a generálny riaditeľ
+MUDr. Ivo Gašparovič, PhD.,MPH, podpredseda predstavenstva
+IČO:
+35971126
+DIČ:
+2022105107
+IČ DPH:
+SK 2022105107
+Bankové spojenie: VÚB a.s. Bratislava,
+IBAN:
+SK97 0200 0000 0000 2633 0112
+Telefón:
++421 232321829
+Registrácia: Výpis z Obchodného registra: Okresný súd Bratislava I, Oddiel Sa, vložka 3774/B
+(ďalej len „objednávateľ“)
+a
+Zhotoviteľ:
+ICZ Slovakia a.s.
+Sídlo:
+Soblahovská 2050, 911 01 Trenčín
+Zastúpený:
+Ing. Martinom Terkovičom, predseda predstavenstva a generálny riaditeľ
+IČO:
+36 328 057
+IČ DPH:
+SK7120000162
+Bankové spojenie: UniCredit Bank Slovakia a.s.
+Číslo účtu IBAN SK36 1111 0000 0012 1289 9008
+Telefón:
+032/65 63 711
+Fax:
+032/65 63 754
+Registrácia:
+Zapísaná v Obchodnom registri Okresného súdu Trenčín, oddiel Sa, vložka
+10561/R
+(ďalej len „zhotoviteľ aj ICZ“)
+(ďalej spolu len „Zmluvné strany“)
+
+1
+
+PREDMET ZMLUVY
+
+1.1
+Zhotoviteľ sa v súlade s touto Zmluvou zaväzuje implementovať do NIS DOCTUS služby
+eZdravie definované v Prílohe č.1 tejto Zmluvy, ako aj poskytnúť súvisiace konzultačné práce (ďalej
+aj ako „riešenie“, alebo „predmet zmluvy“). Predmet zmluvy je podrobne špecifikovaný v Prílohe č. 1
+a Objednávateľ sa zaväzuje za jeho dodanie zaplatiť Zhotoviteľovi dohodnutú cenu vo výške a za
+podmienok podľa článku 3 tejto Zmluvy.
+
+2
+
+SPÔSOB, ČAS A MIESTO PLNENIA ZMLUVY
+
+2.1
+Dodanie riešenia je Zhotoviteľ povinný realizovať najneskôr do 31.12.2017, za predpokladu
+splnenia podmienok definovaných v bode 2.4 tohto článku Zmluvy.
+2.2
+
+Miesto dodania predmetu Zmluvy je sídlo Objednávateľa.
+strana 1
+
+2.3
+Objednávateľ je povinný prevziať predmet zmluvy alebo jeho časť s náležitou odbornou
+starostlivosťou. Objednávateľ je oprávnený prevziať predmet zmluvy alebo jeho časť i v prípade, že
+bude vykazovať drobné chyby, ktoré nebránia riadnemu využívaniu predmetu zmluvy. Ak sa
+Objednávateľ rozhodne takto ponúknuté riešenie alebo jeho časť prevziať, budú v preberacom
+protokole uvedené chyby, zistené pri prevzatí predmetu zmluvy, vrátane spôsobu a lehôt na ich
+odstránenie. Podpisom preberacieho protokolu zo strany Objednávateľa sa predmet zmluvy
+považuje a odovzdaný.
+2.4
+Ak Zhotoviteľ nemôže vykonávať práce alebo práce musí vykonávať po menších častiach
+z dôvodu vyššej moci, alebo z dôvodu neposkytnutia dostatočnej súčinnosti zo strany Objednávateľa,
+alebo tretích strán má nárok na primeranú zmenu termínu plnenia predmetu zmluvy formou
+uzatvorenia dodatku ku Zmluve. Nedostatočnou súčinnosťou zo strany tretích strán sa rozumie
+predovšetkým to, ak poskytovatelia služieb definovaných v prílohe č.1 tejto Zmluvy nebudú mať tieto
+služby vo verzii v2 zverejnené na produkčnom prostredí najneskôr do 30.11.2017. Poskytovateľmi
+služieb sú VŠZP, poisťovňa Dôvera a poisťovňa UNION. Súčinnosť poskytovateľov služieb je
+nevyhnutná pre riadne odovzdanie predmetu zmluvy. Nedostatočnou súčinnosťou zo strany tretích
+strán sa tiež rozumie nedostatočná súčinnosť zo strany NCZI, t.j. neposkytnutie všetkých potrebných
+informácií pre realizáciu predmetu zmluvy v dostatočnom časovom predstihu, najneskôr však do
+30.11.2017. Zhotoviteľ je povinný Objednávateľa o prípadnom posune termínu spôsobenom vyššie
+uvedenou skutočnosťou bezodkladne písomne informovať (pričom za akceptovateľnú je považovaná
+aj mailová forma komunikácie) a má nárok na primeranú zmenu termínu plnenia predmetu zmluvy.
+Zhotoviteľ má nárok na primeranú zmenu termínu plnenia predmetu aj v prípade, že
+u poskytovateľov služieb dôjde k výraznej zmene vo verzii služieb, ktorá bola platná v čase podpisu
+tejto Zmluvy. Výraznou zmenou sa rozumie, ak bude na základe takejto zmeny nutný zásah do
+programového kódu na strane Zhotoviteľa v rozsahu viac ako 2 človekodni. V ostatných prípadoch
+prerušenia prác platia ustanovenia Obchodného zákonníka.
+2.5
+Objednávateľ je oprávnený odmietnuť prevzatie predmetu zmluvy v prípade, ak nebola
+dodržaná zmluvne dohodnutá technická špecifikácia, pričom je v takomto prípade Objednávateľ
+povinný poslať svoje výhrady a dôvody na neprevzatie predmetu zmluvy do 5 pracovných dní odo
+dňa obdŕžania výzvy zo strany Zhotoviteľa na prevzatie predmetu zmluvy. V prípade, že
+Objednávateľ nepošle Zhotoviteľovi písomne výhrady a dôvody na neprevzatie predmetu zmluvy
+v dohodnutom termíne, považuje sa predmet zmluvy zo strany Objednávateľa za prevzatý bez
+výhrad.
+2.6
+
+Oprávnenou osobou za podpísanie preberacieho protokolu je:
+za Objednávateľa: Ing. Vladimír Kudlej
+za Zhotoviteľa:
+Ing. Ľudovít Palaj
+
+3
+
+CENA A PLATOBNÉ PODMIENKY
+
+3.1
+Cena je stanovená podľa § 3 zákona Národnej rady Slovenskej republiky č. 18/1996 Z. z.
+o cenách v znení neskorších predpisov a vyhlášky Ministerstva financií Slovenskej republiky č.
+87/1996 Z. z., ktorou sa vykonáva zákon Národnej rady Slovenskej republiky č. 18/1996 Z. z.
+o cenách v znení neskorších predpisov. Zmluvná cena je vyjadrená v eurách.
+3.2
+Celková cena za predmet Zmluvy je vo výške 14 700,00 EUR bez DPH (slovom
+štrnásťtisícsedemsto eur, bez DPH), celková cena s DPH je 17 640 ,00 EUR (slovom
+sedemnásťtisícšesťstoštyridsať eur s DPH). Podrobná cenová špecifikácia je uvedená v prílohe č. 2
+tejto Zmluvy.
+3.3
+Cena za riešenie zahŕňa všetky náklady Zhotoviteľa súvisiace s vyhotovením a dodaním
+riešenia, vrátane odmeny za licencie v rozsahu definovanom v prílohe č.1 a 2 tejto Zmluvy.
+Zhotoviteľ si vyhradzuje právo na adekvátnu úpravu ceny v prípade, že v čase od nadobudnutia
+účinnosti tejto zmluvy do termínu odovzdania predmetu zmluvy definovanom v bode 2.1 čl. 2 tejto
+Zmluvy dôjde zo strany poskytovateľov služieb, ktorými sú NCZI, VŠZP, poisťovňa Dôvera
+a poisťovňa UNION k výraznej zmene vo verzii služieb oproti verzii, ktorá bola platná v čase podpisu
+tejto Zmluvy. Výraznou zmenou sa rozumie, ak bude na základe takejto zmeny nutný zásah do
+programového kódu na strane Zhotoviteľa v rozsahu viac ako 2 človekodni. Prípadná úprava ceny
+bude riešenia na základe dohody zmluvných strán Dodatkom k tejto Zmluve.
+strana 2
+
+3.4
+Zmluvné strany sa dohodli na spôsobe platenia výlučne prostredníctvom bezhotovostného
+platobného styku, ktorý sa bude realizovať výhradne prevodným príkazom na účet Zhotoviteľa
+uvedený v záhlaví tejto Zmluvy.
+3.5
+Zmluvné strany sa dohodli, že platba bude realizovaná na základe faktúry, ktorú Zhotoviteľ
+vystaví Objednávateľovi po riadnom dodaní predmetu Zmluvy. Prílohou faktúry bude podpísaný
+preberací protokol.
+3.6
+
+Lehota splatnosti faktúry je 60 dní odo dňa doručenia faktúry Objednávateľovi.
+
+3.7
+Faktúra musí obsahovať všetky náležitosti daňového dokladu podľa zákona č. 222/2004 Z. z.
+o dani z pridanej hodnoty v znení neskorších predpisov a zákona č. 431/2002 Z. z. o účtovníctve
+v znení neskorších predpisov. Za správne vyhotovenie faktúry zodpovedá v plnom rozsahu
+Zhotoviteľ.
+3.8
+V prípade, že faktúra nebude obsahovať všetky náležitosti daňového dokladu, prílohu podľa
+bodu 3.5 tohto článku Zmluvy alebo bude obsahovať iné zrejmé nesprávnosti, vady v písaní alebo
+počítaní, Objednávateľ má právo vrátiť ju Zhotoviteľovi v lehote do 10 dní odo dňa obdržania na
+doplnenie alebo prepracovanie s uvedením nedostatkov, ktoré sa majú odstrániť. V takomto prípade
+sa ukončí pôvodná lehota splatnosti a nová 14 dňová lehota splatnosti začne plynúť doručením
+doplnenej, opravenej, resp. novej faktúry Objednávateľovi.
+3.9
+Cena uvedená v bode 3.1 tohto čl. Zmluvy nezahŕňa úpravy riešenia, ktoré budú vyvolané
+zmenami na strane poskytovateľov služieb po odovzdaní riešenia do prevádzky. V takomto prípade
+sa Zhotoviteľ zaväzuje vykonať úpravy riešenia na základe samostatnej objednávky. Pričom cena na
+práce nad rámec tejto Zmluvy je spoplatňovaná sumou 60 eur za 1 človekohodinu práce.
+
+4
+
+PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN
+
+4.1
+Zhotoviteľ je povinný vyhotoviť riešenie s náležitou odbornou starostlivosťou, čestne,
+svedomito, hospodárne a v súlade so záujmami Objednávateľa, ktoré Zhotoviteľ pozná alebo musí
+poznať.
+4.2
+Objednávateľ sa zaväzuje na základe písomnej výzvy Zhotoviteľa včas poskytnúť
+Zhotoviteľovi všetky potrebné podklady a informácie nevyhnutné pre riadne a včasné dodanie
+riešenia.
+4.3
+Zhotoviteľ sa zaväzuje pravidelne informovať Objednávateľa o postupe vytvorenia riešenia,
+informovať ho bezodkladne o skutočnostiach, ktoré by mohli mať vplyv na vytvorenie riešenia a na
+termín jeho dokončenia a riadneho odovzdania.
+4.4
+Zhotoviteľ je povinný vyhotoviť a dodať riešenie na vlastnú zodpovednosť a vlastné
+nebezpečenstvo v súlade so Zmluvou, pričom rešpektuje platné a účinné právne predpisy Slovenskej
+republiky.
+4.5
+Objednávateľ sa zaväzuje chrániť všetky skutočnosti tvoriace podľa vôle Zhotoviteľa
+predmet obchodného tajomstva pred zneužitím a neodovzdať ich tretím osobám s výnimkou
+povinností ustanovených zákonom alebo inými všeobecne záväznými právnymi predpismi.
+4.6
+Zhotoviteľ je povinný zabezpečiť, aby všetky osoby, prostredníctvom ktorých plní jednotlivé
+záväzky z tejto Zmluvy, dodržiavali najmä zákon č. 122/2013 Z. z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, zachovávali mlčanlivosť o
+údajoch získaných od Objednávateľa a aby informácie a údaje získané od Objednávateľa neodovzdali
+žiadnej tretej osobe alebo inak nezneužili.
+4.7
+Zodpovední pracovníci objednávateľa majú právo kontrolovať pracovníkov zhotoviteľa pri
+plnení predmetu zmluvy.
+
+5
+
+VLASTNÍCKE, LICENČNÉ A UŽÍVACIE PRÁVO
+
+5.1
+Objednávateľ nadobúda vlastnícke a licenčné práva k predmetu Zmluvy len čo mu je
+predmet Zmluvy riadne dodaný v súlade s ustanoveniami Čl. 2 tejto Zmluvy.
+strana 3
+
+5.2
+Zhotoviteľ udeľuje Objednávateľovi nevýhradný súhlas s použitím autorských diel dodaných
+ako súčasť riešenia (licenciu) a to ako časovo a inak rozsahovo neodvolateľný neobmedzený súhlas s
+právom používať autorské diela dodané ako súčasť riešenia počas celej doby trvania majetkových
+práv k nim.
+
+6
+
+ZÁRUKA, ZMLUVNÉ POKUTY A ZODPOVEDNOSŤ ZA ŠKODY
+
+6.1
+Záručná doba začína plynúť dňom riadneho vyhotovenia a dodania riešenia
+Objednávateľovi, tak ako je uvedené v bode 2.3 tejto Zmluvy. Záručná doba je 12 mesiacov.
+6.2
+Zodpovednosť Zhotoviteľa za vady predmetu Zmluvy nevznikne, ak tieto boli spôsobené
+neodbornou prevádzkou, obsluhou a údržbou, používaním v rozpore s návodom na použitie, alebo
+poškodením škodlivým SW (napr. vírus).
+6.3
+V prípade omeškania Zhotoviteľa s vyhotovením a dodaním riešenia v lehote podľa bodu 2.1
+tejto Zmluvy, Objednávateľ je oprávnený uplatniť voči Zhotoviteľovi zmluvnú pokutu vo výške 0,05
+% z ceny plnenia, ktoré je v omeškaní podľa bodu 3.2 tejto Zmluvy za každý, aj začatý deň
+omeškania.
+6.4
+V prípade omeškania Objednávateľa s úhradou splatnej faktúry, je Objednávateľ povinný
+uhradiť Zhotoviteľovi úrok z omeškania vo výške 0,05 % z dlžnej sumy za každý, aj začatý deň
+omeškania.
+6.5
+Ak jedna zo Zmluvných strán spôsobí akúkoľvek škodu druhej zmluvnej strane v dôsledku
+porušenia povinnosti vyplývajúcej z tejto Zmluvy, zodpovednosť za škodu sa bude spravovať podľa
+všeobecných ustanovení o zodpovenosti za škodu upravených v § 373 a nasl. zákona č. 513/1991 Zb.
+Obchodný zákonník v znení neskorších predpisov.
+6.6
+Zmluvná pokuta a náhrada škody je splatná do 30 dní od doručenia písomnej výzvy na
+zaplatenie.
+
+7
+
+ZÁVEREČNÉ USTANOVENIA
+
+7.1
+Táto Zmluva nadobúda platnosť dňom podpisu oboma zmluvnými stranami a účinnosť deň
+po dni zverejnenia zmluvy.
+7.2
+Obe Zmluvné strany sa zaväzujú počas účinnosti Zmluvy spolupracovať pri realizácii jej
+predmetu. K tomuto účelu určia osoby zodpovedné za realizáciu tejto Zmluvy a vybavovanie bežných
+záležitostí vyplývajúcich zo vzájomnej súčinnosti, a to formou e-mailu zaslaného druhej Zmluvnej
+strane bezodkladne po nadobudnutí účinnosti tejto Zmluvy. Zmluvné strany sú oprávnené
+jednostranným písomným oznámením doručeným druhej zmluvnej strane určiť inú osobu
+zodpovednú za riešenie a vybavovanie bežných záležitostí podľa predchádzajúcej vety.
+7.3
+Túto Zmluvu je možné meniť alebo dopĺňať, s výnimkou ods. 7.1 tejto Zmluvy, len na základe
+vzájomnej dohody oboch Zmluvných strán, formou očíslovaných písomných dodatkov, ktoré sa
+stanú neoddeliteľnou súčasťou tejto Zmluvy.
+7.4
+Zmluvné strany môžu ukončiť túto Zmluvu písomnou dohodou Zmluvných strán alebo
+odstúpením od Zmluvy v prípade podstatného porušenia tejto Zmluvy.
+7.5
+Za podstatné porušenie Zmluvy Zhotoviteľom sa považuje ak sa Zhotoviteľ omešká s
+riadnym dodaním riešenia o viac ako 30 dní z iných dôvodov ako sú uvedené v bode 2.4, čl.2 tejto
+Zmluvy. Za podstatné porušenie Zmluvy Objednávateľom sa považuje omeškanie sa s úhradou
+splatnej faktúry o viac ako 30 dní. Odstúpenie od Zmluvy oznámi strana, ktorá od Zmluvy odstupuje
+druhej Zmluvnej strane písomne, formou doporučeného listu a je účinné dňom doručenia.
+7.6
+pri plnení tejto Zmluvy budú riešiť prednostne vzájomnou dohodou. V prípade, ak nedôjde k
+uzavretiu dohody o sporných otázkach zmluvné strany sa budú riadiť príslušnými ustanoveniami
+zákona č. 513/1991 Zb. Obchodný zákonník v platnom znení a ostatnými súvisiacimi všeobecne
+záväznými právnymi predpismi platnými v Slovenskej republike.
+7.7
+Práva a povinnosti Zmluvných strán touto Zmluvou výslovne neupravené sa spravujú
+príslušnými ustanoveniami zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov
+a ostatnými príslušnými všeobecne záväznými právnymi predpismi.
+
+strana 4
+
+7.8
+Táto Zmluva je vyhotovená v štyroch rovnopisoch, z ktorých dva obdrží Zhotoviteľ a dva
+Objednávateľ.
+7.9
+
+Neoddeliteľnou súčasťou tejto Zmluvy sú:
+Príloha č. 1 Podrobná špecifikácia riešenia,
+Príloha č. 2 Cenová špecifikácia.
+
+7.10 Ak niektoré ustanovenia tejto zmluvy nie sú celkom alebo sčasti platné alebo účinné alebo
+neskôr stratia platnosť alebo účinnosť, nie je tým dotknutá platnosť alebo účinnosť ostatných
+ustanovení tejto zmluvy. Namiesto neplatných alebo neúčinných ustanovení tejto zmluvy a na
+vyplnenie medzier sa použije právna úprava, ktorá, pokiaľ je to právne možné, sa čo najviac
+približuje zmyslu a účelu tejto zmluvy, pokiaľ pri uzatváraní tejto zmluvy zmluvné strany túto otázku
+brali do úvahy.
+7.11
+Zmluvné strany sa dohodli, že zmluvná strana, ktorá sa rozhodla doručiť svoj písomný prejav
+vôle druhej zmluvnej strane, je povinná odovzdať svoj písomný prejav vôle druhej zmluvnej strane
+alebo zaslať svoj písomný prejav vôle na adresu sídla/bydliska druhej zmluvnej strany uvedenú
+v záhlaví tejto zmluvy. Zmluvné strany sa dohodli, že v prípade, že zmluvná strana doporučenú
+poštovú zásielku od druhej zmluvnej strany z akéhokoľvek dôvodu neprevezme, považuje sa táto
+zásielka za doručenú uplynutím desiatich dní odo dňa jej odoslania na poslednú známu adresu sídla
+zmluvnej strany, ktorej bola zásielka určená a odoslaná.
+7.12 Zmluvné strany vyhlasujú, že túto Zmluvu uzatvárajú slobodne a vážne, zmluvná voľnosť
+Zmluvných strán nie je obmedzená, zmluvné prejavy sú určité a zrozumiteľné, Zmluvu si prečítali,
+jej obsahu a právnym účinkom z nej vyplývajúcim porozumeli, Zmluva nebola podpísaná v tiesni ani
+za nápadne nevýhodných podmienok a na znak súhlasu s jej obsahom túto vlastnoručne podpisujú.
+
+V Bratislave, dňa: ...........................
+
+.........................................................
+Ing. Mongi Msolly,MBA
+predseda predstavenstva
+a generálny riaditeľ
+
+V Trenčíne, dňa: .........................
+
+...................................................
+Ing. Martin Terkovič
+generálny riaditeľ a predseda
+predstavenstva
+
+............................................................
+MUDr. Ivo Gašparovič, PhD., MPH
+Podpredseda predstavenstva
+
+strana 5
+
+Príloha č. 1
+Podrobná špecifikácia riešenia
+Komunikácia IS DOCTUS s eZdravie bude prebiehať z každého klientskeho PC samostatne pomocou
+komunikačného „Tray“, podobne ako funkčnosť BL-online pre ZP Dôvera. Všetky správy odoslané a prijaté
+do a z NZIS budú logované v databáze. Jednotlivé služby bude možné vypínať/zapínať samostatne.
+Zobrazovanie výstupov zložitejších služieb bude v okne prehliadača na základe definovateľnej XSLT
+schémy, ktorá bude transformovať ehrExtract z NZIS do pre užívateľa čitateľnej formy. Tieto informácie si
+užívateľ bude môcť prezerať a potrebné časti podľa uváženia vložiť do vlastnej dokumentácie. Výstupy
+jednoduchších služieb budú spracované priamo v NIS DOCTUS a použité pre ďalšiu komunikáciu s NZIS
+(napr. DajJRUZIdentifikator_GW_v2)
+Nevyhnutná inštalácia potrebných predpokladov pre pripojenie do NZIS ako VPN, certifikáty, eID Client,
+ovládače čítačiek elektronických kariet zdravotníckych pracovníkov a pacientov a ďalších podľa špecifikácie
+NCZI nie je predmetom tejto ponuky.
+
+Integrácia s NZIS
+
+
+
+
+
+
+
+
+Integrácia bude riešená tak, aby užívateľ nemusel opustiť aplikáciu NIS DOCTUS
+Integrácia bude riešená tak aby užívateľ nemusel informácie zapisovať duplicitne, predovšetkým
+ambulantný nález, prepúšťaciu správu a pacientsky sumár
+Integrácia umožní prácu v NIS DOCTUS aj v prípade nedostupnosti služieb NZIS eZdravie
+Integrácia umožní prácu v NIS DOCTUS aj v prípade, že lekár nevloží kartu zdravotníckeho
+pracovníka do čítačky
+Spätné/opakované odoslanie správ, ktoré neodišli do NZIS momentálne NZIS neumožňuje. Správa
+stráca časovú platnosť a pre opätovné odoslanie požadovaných dát je potrebné nové vyskladanie
+správy a jej podpísanie, čo nie je možné bez prítomnosti el. preukazu zdravotníckeho pracovníka
+vloženého v čítačke. Podľa informácií z NCZI plánujú túto funkčnosť zmeniť, aby bolo možné
+doposlanie správy aj bez el. preukazu zdr. pracovníka automaticky systémom na pozadí. Dnes je
+možná iba opakovaná požiadavka užívateľa. Po implementácii v NZIS bude možné implementovať
+túto funkčnosť na strane NIS DOCTUS. Momentálne je táto funkčnosť dostupná len pre oblasť
+eRecept. Tu je definovaná povinnosť doposielať jednotlivé typy správ integračným manuálom
+poisťovní
+a týka
+sa
+v prípade
+NÚSCH
+a.s.
+služieb
+UlozPreskripcnyZaznam
+a StornujPreskripcnyZaznam.
+Integrácia NIS DOCTUS s NZIS eZdravie bude zabezpečená pomocou SSL pripojenia
+
+Osvedčenie o zhode bude zo strany ICZ Slovakia predložené najneskôr v deň spustenia služieb do
+produkčnej prevádzky a podpísaní preberacieho protokolu zo strany NÚSCH. Podmienkou pre predloženie
+Osvedčenia je, že NCZI bude osvedčenie realizovať a vydávať.
+
+Oblasť podporných služieb JRUZ
+V tejto oblasti sú implementované služby, ktoré sú nevyhnutné pre fungovanie ostatných služieb eZdravie.
+Ide o služby získavajúce identifikáciu jednotlivých objektov (pacienta, zdr. Pracovníka, ale aj číselníkových
+hodnôt) v systéme eZdravie. Slúžia na zápis súhlasu pacienta so sprístupnením jeho zdravotnej
+dokumentácie pre PZS a podobne.
+Patria sem služby:
+DajJRUZIdentifikator_GW_v2
+Služba zistí JRÚZ identifikátor zvolenej entity na základe iných identifikátorov evidovaných pre predmetnú
+entitu.
+
+strana 6
+
+DajRodneCisloPrZS_GW_v2
+Služba vráti rodné číslo prijímateľa zdr. starostlivosti na základe jeho JRUZID z el. Občianskeho preukazu s
+čipom
+DajZP_PrZS_GW_v2
+Služba vráti platnú zdr. poisťovňu prijímateľa ZS na základe jeho JRUZID z el. Občianskeho preukazu s
+čipom
+DajOUPZS_v1
+Vráti atribúty Poskytovateľa ZS – úroveň odborného útvaru
+
+oblasť eVyšetrenie - ALOK
+Rozsah služieb požadovanej oblasti eVyšetrenie bol zo strany NCZI definovaný jednotlivými službami,
+ktoré sú popísané nižšie. Spoločne s aktuálne platnými procesnými scenármi služieb, ktoré NCZI zverejnilo
+3.10.2017 na integračnom portáli a na stránke ezdravotnictvo.sk Ku službám pripájame bližší popis
+funkčnosti z dokumentácie vydanej NCZI, ktorú máme v čase predkladania ponuky k dispozícii.
+DajZaznamOVysetreni_v3
+Služba vráti detail záznamu o vyšetrení v štruktúre podľa typu záznamu o vyšetrení na základe Id
+záznamu o vyšetrení.
+Táto služba vráti na základe identifikácie pacienta a ID výmenného lístku obsah výmenného lístku
+zapísaného službou ZapisZaznamOVysetreni_v3. V aplikácii teda pôjde o doplnenie tlačidla, ktoré
+zobrazí obrazovku, v ktorej bude môcť užívateľ zadať ID výmenného lístka a systém zavolá túto službu
+a zobrazí jej výstup v samostatnom okne ako HTML výstup.
+VyhladajZaznamyOVysetreniPreZiadatela_v3
+Služba vráti detail záznamu o vyšetrení v štruktúre podľa typu záznamu o vyšetrení na základe
+Id záznamu o vyšetrení.
+Ide o modifikáciu služby DajZaznamOVysetreni_v3, kde je naviac parameter typu výstupu
+(VYMENNYLISTOK, VYSLEDOK, VYMENNYLISTOK_VYSLEDOK) V aplikácii teda pôjde o doplnenie tlačidla,
+ktoré zobrazí obrazovku, v ktorej bude môcť užívateľ zadať ID záznamu o vyšetrení a typ výstupu
+a systém zavolá túto službu a zobrazí jej výstup v samostatnom okne ako HTML výstup.
+VyhladajZaznamyOVysetreniach_v3
+Služba vyhľadá záznamy o vyšetrení pacienta.
+Táto služba ponúka na vstupe množstvo filtračných kritérií: DatumDo, DatumOd, TypVysetrenia,
+OdborneZameranie, OdbornyUtvarPZS, PoskytovatelZS, IDVymennehoListku, IDZaznamuVysetrenia,
+Odporucanie_Odpoved, DatumVysetreniaOd, DatumVysetreniaDo, ZdravotnickaOdbornost, Strankovanie,
+Triedenie
+V aplikácii pôjde o doplnenie tlačidla, ktoré zobrazí obrazovku s týmito filtračnými kritériami, ktoré si bude
+môcť užívateľ zadať a systém zavolá službu s týmito parametrami. Výsledok zobrazí v samostatnom okne
+ako HTML výstup.
+ZapisZaznamOVysetreni_v3
+Slúži poskytovateľovi ZS na zaznamenanie výsledku vyšetrenia pacienta. Služba tiež slúži
+na zaznamenanie výmenných lístkov (odporúčaných vyšetrení), ktoré sú pripojené k samotnému záznamu
+z odborného vyšetrenia.
+Služba obsahuje zápis o odbornom vyšetrení, zobrazovanom vyšetrení a lekárskej prepúšťacej správe.
+Z tejto služby bude zatiaľ implementovaná časť zápisu lekárskej prepúšťacej správy, ktorú by mohol
+odoslať do NZIS užívateľ po vytvorení prepúšťacej správy v module lôžka, zápis výsledku odborného
+a zobrazovacieho vyšetrenia. Nebude implementovaná časť tvorby výmenných lístkov.
+Cena uvedená v bode 1.2 tejto ponuky zahŕňa implementáciu len tejto časti uvedenej služby
+ZapisSuhlasOsobyPrePZS
+Služba zabezpečí zápis súhlasu
+autorizovaného zdravotníckeho pracovníka.
+
+na
+
+prístup
+
+k
+
+údajom
+
+autorizovaného
+
+strana 7
+
+pacienta
+
+pre
+
+Túto službu už máme implementovanú a máme na ňu overenie zhody.
+
+Oblasť eVyšetrenie - EZKO
+ZapisPacientskehoSumaruZdravotneProblemy
+Cieľom
+služby
+je
+umožniť
+prijatie
+údajov
+o
+zdravotných
+problémoch
+pacienta
+z externéhoinformačného systému a zápis do EZKO. Zápis zabezpečí pridanie zaslaných údajov do
+Pacientskeho sumáru.
+Služba poskytuje možnosť zápisu zdravotných problémov v oblastiach: AktualneZdravotneProblemy,
+DiagnostickeTerapeutickePlany,
+ChirurgickeVykony,
+PouzivaneZdravotnickePomocky,
+TerapeutickeOdporucania, ZdravotneObmedzenia.
+V NIS DOCTUS momentálne údaje v takejto, ani podobnej štruktúre nie sú evidované. Vznikne preto nová
+obrazovka pre každú z týchto oblastí kam bude môcť užívateľ zadať príslušné informácie, uložiť ich do
+databázy a odoslať do NZIS. Keďže pôjde o evidenciu údajov, ktoré sa zatiaľ v NIS Doctus nespravovali,
+ponuka zahŕňa iba ich evidenciu a odosielanie do NZIS. Predmetom ponuky nie je žiadne zapracovanie
+väzieb tu zaevidovaných údajov do ostatných častí NIS DOCTUS. Takéto väzby je samozrejme následne
+možné po konzultácii s užívateľmi na základe reálnych potrieb užívateľov zapracovať, na základe
+samostatnej ponuky.
+Služba umožňuje zápis iba jednej oblasti v jednom volaní, takže zápis do NZIS bude prebiehať pre každú
+oblasť samostatne.
+DajPacientskySumar
+Cieľom služby je poskytnutie údajov pacientskeho sumáru (sumárne údaje o zdravotnom stave
+pacienta). Služba neposkytuje osobné, administratívne a kontaktné údaje pacienta.
+DajPacientskySumarKontaktneUdaje_v2
+Cieľom služby je poskytnutie sumárnych osobných, administratívnych a kontaktných údaje
+pacienta.
+ZapisPacientskehoSumaruKontaktneUdaje_v2
+Cieľom služby je umožniť prijať informácie o kontaktných údajoch pacienta pre potreby
+Pacientskeho sumáru z externého informačného systému a ich zápis do NZIS. Zápis zabezpečí prepísanie
+kontaktných údajov v pacientskom sumáre.
+ZrusZapisZPacientskehoSumaru
+Služba zabezpečí zneplatnenie neaktuálneho alebo chybne vykonaného zápisu do pacientskeho sumáru.
+
+Oblasť eRecept
+V rámci štátneho projektu eHealth/eZdravie došlo ku dohode o používaní služieb eRecept, ktoré ponúka ZP
+Dôvera vo svojom riešení BL Online. Vybrané služby v2 tejto oblasti sú obohatené oproti pôvodnému
+riešeniu BLonline o atribúty potrebné pre projekt eZdravie. Ide najmä o doplnenie el. podpisu
+zdravotníckeho pracovníka z EPZP (HAPRO karty), doplnenie identifikácie EHR systému z overenia zhody
+v NCZI a potvrdenie prítomnosti pacienta cez jeho občiansky preukaz s čipom.
+Z užívateľského pohľadu nebude rozdiel medzi využívaním služieb jednotlivých poisťovní. Na tento systém
+má v krátkej dobe prejsť aj ZP Union. V štátnom projekte eZdravie bude identifikácia zdravotníckeho
+pracovníka, ktorú dnes prideľujú jednotlivé ZP, doplnená o informácie z HAPRO karty zdravotníckeho
+pracovníka, čo vyžaduje NZIS (národný zdravotnícky IS). Tieto funkčnosti by mali byť podľa vyjadrení
+poisťovní Dôvera a VŠZP dostupné na produkčnom prostredí cca od 11/2017. Povinné používanie týchto
+služieb je od 1.1.2018.
+
+strana 8
+
+Jednotlivé atribúty viazané na prítomnosť el. preukazu zdravotníckeho pracovníka sú zatiaľ nepovinné a to
+či daný lekár má/nemá HAPRO kartu pre el. podpis bude možné nastaviť v číselníku užívateľov. Tým bude
+umožnené paralelná existencia lekárov s el. preukazom aj bez neho. Potvrdenie prítomnosti pacienta bude
+riešené užívateľom pri predpise lieku podľa toho či pacient bude mať občiansky preukaz s el. čipom. Tento
+atribút by mal zostať nepovinný.
+Služby eReceptu ponúkajú lekárovi možnosť:
+• zápisu a storna el. receptu na lieky a zdrav. pomôcky
+o UlozPreskripcnyZaznam
+o StornoPreskripcnehoZaznamu
+• zobraziť preskripčné záznamy pacienta
+o VyhladajPreskripcnyZaznam
+• zobraziť generiká ku zadanému lieku
+o NajdiGenerika
+• overiť kontraindikácie s liekmi pacienta, resp. s liekmi, ktoré plánuje lekár predpísať
+o OverInterakciePacienta
+o DajInterakciePoistenca
+• overiť poistný vzťah poistenca voči v NIS evidovanej ZP
+o OverPoistenca
+• zobraziť zdravotnú kartu poistenca
+o DajZdravotnuKartuPoistenca
+o DajKodPreZdravotnuKartuPoistenca
+o AktualizujKontaktneUdajePoistenca
+• Zobraziť liekovú kartu poistenca
+o
+DajLiekovuKartu
+• Zaevidovať úhradu dlhu pacienta voči poisťovni
+o DajSumuDlhu
+o DajSymbolyPreUhradu
+o ZaevidujUhradu
+o StornoSymbolovPreUhradu
+• Overiť dostupnosť systému ZP
+• DajStavSystemu
+
+Príloha č. 2
+
+Cenová špecifikácia - Rozpočet
+p.č.
+
+POPIS
+
+ks
+
+Cena za
+kus Eur,
+bez DPH
+
+Cena spolu
+Eur, bez DPH
+
+implementácia oblastí definovaných v bode 1.3
+tejto ponuky v súlade s požiadavkami
+uvedenými vo výzve na predloženie ponuky
+Cena zahŕňa:
+1
+
+
+
+Multilicencia pre všetkých používateľov
+
+
+
+Analýza + programovanie
+
+
+
+Konzultácie s NCZI
+
+1
+
+14 700,00
+
+strana 9
+
+14 700,00
+
+
+
+testovanie
+
+
+
+implementácia v NÚSCH a.s. v NIS DOCTUS
+
+
+
+školenie užívateľov v rozsahu 1 čld
+
+
+
+školenie administrátora v rozsahu 1 čld
+
+
+
+užívateľská príručka
+
+Cena spolu v eur s DPH
+
+17 640,00
+
+strana 10
+
+

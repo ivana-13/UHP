@@ -1,0 +1,1735 @@
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+Zmluva o poskytovaní servisných služieb
+SLA pre IP telefóniu AVAYA
+
+uzatvorená podľa §269 a nasl. Zákona č.513/1991 Zb. Obchodný zákonník v znení neskorších
+predpisov (ďalej len Zmluva")
+
+Objednávateľa: 4661031/2018
+
+Dodávateľa:
+
+medzi zmluvnými stranami :
+Obchodné meno
+Sídlo
+Doručovacia adresa
+Za ktorú koná
+IČO
+DIČ
+IČ DPH
+
+Bankové spojenie
+Náš IBAN
+SWIFT:
+
+: TRANSPETROL, a.s.
+: Šumavská 38, 821 08 Bratislava
+: Šumavská 38, 821 08 Bratislava
+: Ing. Ivan Krivosudský, predseda predstavenstva
+: RNDr. Martin Ružinský, PhD., podpredseda predstavenstva
+: 313 41 977
+: 2020403715
+: SK2020403715
+
+: Tatra banka, a.s., Bratislava
+č. účtu: 2621021532/1100
+: SK7911000000002621021532
+: TATRSKBX
+
+zapísaná v Obchodnom registri Okresného súdu Bratislava I, v oddiele Sa, vo vložke č.
+507/B
+(ďalej len ako „objednávateľ“)
+a
+
+Obchodné meno
+Sídlo
+Doručovacia adresa
+Za ktorú koná
+IČO
+DIČ
+IČ DPH
+
+: ensentia s.r.o.
+: Priemyselná 6, 824 90 Bratislava
+: Priemyselná 6, 824 90 Bratislava
+: Ing. Tomáš Beljak, konateľ spoločnosti
+:
+: 35 70 28 77
+: 2020341048
+: SK2020341048
+
+Bankové spojenie
+
+: Tatra banka, a.s., Bratislava
+č. účtu: 2627029535/1100
+Náš IBAN
+: SK08 1100 0000 0026 2702 9535
+SWIFT:
+: TATRSKBX
+RPVS:
+: vl.č. 8144
+zapísaná v Obchodnom registri Okresného súdu Bratislava I, odd. Sr., vl.č. 12138/B
+(ďalej len ako „dodávateľ“)
+
+1
+
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+Definície
+Ak to nie je v rozpore s ustanoveniami alebo kontextom tejto zmluvy, použijú sa pre určenie
+významu pojmov uvedených v tejto zmluve nasledujúce definície:
+Stav, kedy dochádza k poruche, zníženiu kvality alebo zmene parametrov
+prevádzkovanej služby alebo prostriedkov informačného systému.
+b) Núdzová prevádzka Obnovenie funkcionality prevádzkovanej služby alebo riešenia v čo
+najkratšom čase, a to aj použitím vhodného náhradného riešenia.
+c) Oprávnená osoba
+Zamestnanec Objednávateľa, oprávnený požadovať používateľskú
+podporu alebo službu zo strany Dodávateľa.
+d) Paušál servisných Kvalifikovaný mesačný odhad rozsahu služieb Dodávateľa potrebný na
+zásahov
+realizáciu vzniknutých udalostí na informačnom systéme Objednávateľa.
+e) Plná prevádzka
+Obnovenie funkcionality prevádzkovanej služby alebo riešenia
+v požadovanom prevádzkovom režime.
+f) Pohotovosť
+Kombinácia dohodnutej reakčnej doby a servisného pokrytia.
+g) Používateľská
+Jeden z SLO parametrov služby. Je to asistencia pri riešení problému
+podpora
+používateľa poskytovaná technikom Dodávateľa oprávnenej osobe
+Objednávateľa.
+h) Požiadavka
+Žiadosť zákazníka o poskytnutie služby.
+i) Profylaktika HW
+Jeden z SLO parametrov služby. Je to pravidelná odborná údržba
+určených
+hardvérových
+prostriedkov
+informačného
+systému
+Objednávateľa za účelom udržania ich optimálneho výkonu
+a bezporuchového stavu.
+j) Reakčná doba
+Jeden z SLO parametrov služby. Je to čas od vzniku udalosti po prvú
+reakciu zo strany technika Dodávateľa meraný v rámci dohodnutého
+servisného pokrytia. Za prvú reakciu sa považuje:
+- telefonát technika Dodávateľa oprávnenej osobe Objednávateľa
+za účelom riešenia vzniknutej udalosti,
+- vzdialený prístup technika Dodávateľa na dotknutých
+prostriedkoch informačného systému Objednávateľa za účelom
+riešenia vzniknutej udalosti,
+- fyzický zásah technika Dodávateľa na dotknutých prostriedkoch
+informačného systému Objednávateľa za účelom riešenia
+vzniknutej udalosti.
+k) Servisné pokrytie
+Jeden z SLO parametrov služby. Je to zmluvne dohodnuté časové okno,
+počas ktorého je Dodávateľ povinný zaevidovať udalosť a poskytnúť
+Objednávateľovi používateľskú podporu alebo službu (napr. 8x5, 12x7,
+24x7 a pod.).
+l) SLO
+parametre (Service Level Objective). Parametre určujúce úroveň poskytovanej
+služby
+služby, ako čas nástupu na opravu, servisné pokrytie, monitoring
+zákazníckych systémov, profylaktika zákazníckych systémov,
+používateľská podpora zákazníckych systémov, konzultačné činnosti.
+m) Správa
+Kvalifikovaný mesačný odhad rozsahu služieb Dodávateľa potrebný na
+zákazníckych
+nevyhnutnú správu a údržbu informačného systému Objednávateľa.
+systémov
+n) Technik
+Realizačný zamestnanec dodávateľa, odborne spôsobilý poskytnúť
+minimálne základnú úroveň podpory oprávnenej osobe Objednávateľa.
+o) Udalosť
+Spoločné pomenovanie operatívnych incidentov a požiadaviek.
+a) Incident
+
+2
+
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+Článok 1
+Účel zmluvy
+1.1 Účelom Zmluvy je úprava práv a povinností zmluvných strán, pri poskytovaní plnenia podľa
+tejto zmluvy pri zabezpečení servisu SLA- IP telefónie AVAYA pre objednávateľa. Dodávateľ
+prehlasuje, že je oprávnený poskytovať služby podľa tejto zmluvy a disponuje takými
+oprávneniami, personálnymi a technickými kapacitami, ktoré sú potrebné na poskytovanie
+plnenia podľa tejto zmluvy.
+
+Článok 2
+Predmet Zmluvy
+2.1. Predmetom Zmluvy je zabezpečenie servisu SLA pre IP telefóniu AVAYA (licencie , HW,
+support) dodávateľom pre objednávateľa v rozsahu a na zariadeniach podľa prílohy č.1 k tejto
+zmluve (ďalej všetko spoločne len „služby") počas platnosti tejto zmluvy za odplatu uvedenú
+v článku 3 tejto Zmluvy.
+
+Článok 3
+Cena a platobné podmienky
+3.1. Cena za predmet Zmluvy, tak ako je definovaný v článku 2.1 tejto Zmluvy, je stanovená
+dohodou zmluvných strán v zmysle zák. č. 18/1996 Z. z. o cenách v znení neskorších predpisov
+vo výške 8 250,- EUR bez DPH (slovom: osemtisícdvestopäťdesiat EUR bez DPH) za mesiac
+(ďalej tiež aj ako „dohodnutá cena“). Cena je stanovená ako maximálna a sú v nej zahrnuté
+všetky náklady dodávateľa spojené s plnením podľa tejto zmluvy, okrem prepravných
+nákladov. V prípade poskytovania plnenia (servisných výjazdov) v priestoroch Objednávateľa,
+budú prepravné náklady fakturované podľa odôvodneného, skutočne vykázaného počtu
+kilometrov z najbližšieho zastúpenia Dodávateľa do miesta plnenia a to vo výške 0,40 eur/km
+bez DPH. V prípade servisných výjazdov nebudú prepravné náklady účtované na tie lokality
+objednávateľa, v ktorých má Dodávateľ svoje sídlo alebo zastúpenie.
+3.2. Daň z pridanej hodnoty (DPH) bude k cenám bez DPH pripočítaná podľa platných právnych
+predpisov a vo výške sadzby DPH platnej v čase vzniku daňovej povinnosti.
+3.3. Objednávateľ sa zaväzuje uhrádzať dohodnutú cenu mesačne na základe faktúry vystavenej
+Dodávateľom a doručenej Objednávateľovi v nasledujúcom mesiaci po riadnom vykonaní
+služieb.
+3.4. Platba za plnenie predmetu Zmluvy sa realizuje výlučne prevodným príkazom na účet
+Dodávateľa uvedený v Zmluve.
+3.5. Splatnosť faktúry je stanovená na 30 dní odo dňa jej doručenia Objednávateľovi. Faktúra musí
+byť vyhotovená v súlade s touto Zmluvou a príslušnými právnymi predpismi. Neoddeliteľnou
+prílohou faktúry bude fotokópia Objednávateľom podpísaného Preberacieho protokolu s
+určením druhu a rozsahu prác, zrealizovaných Dodávateľom. Ak faktúra nebude obsahovať
+zákonom stanovené náležitosti, alebo nebude vyhotovená v súlade so Zmluvou, má
+Objednávateľ právo vrátiť ju Dodávateľovi na opravu alebo doplnenie, s tým, že Objednávateľ
+je povinný písomne presne špecifikovať nedostatky faktúry alebo jej príloh, vystavenej
+Dodávateľom. U opravenej alebo doplnenej faktúry Dodávateľa lehota splatnosti začína plynúť
+odo dňa doručenia opravenej alebo doplnenej faktúry Objednávateľovi.
+3.6. Dodávateľ je povinný vyhotovené faktúry zasielať Objednávateľovi DOPORUČENE, alebo
+doručovať osobne. U faktúry odoslanej ako obyčajná poštová zásielka nie je možné uplatňovať
+si úrok z omeškania úhrady fakturovanej ceny.
+
+3
+
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+Článok 4
+Plnenie predmetu Zmluvy
+4.1 Dodávateľ je povinný prijímať nahlásenie udalosti zo strany Objednávateľa v zmysle
+definovaného servisného pokrytia podľa prílohy č. 1 tejto zmluvy. Udalosti je možné
+nahlasovať na telefónne číslo Zákazníckeho centra Dodávateľa +421 2 3238 2720, vytvorením
+udalosti v servisnom portáli Dodávateľa prostredníctvom webového rozhrania
+https:\\sd.ikanc.eu, alebo na e-mail sd@ikanc.eu, a to prostredníctvom oprávnených osôb
+Objednávateľa. Pri hlásení udalosti je potrebné uviesť popis vzniknutej udalosti, kontaktné
+údaje oprávnenej osoby a informácie o príslušných prostriedkoch informačného systému
+Objednávateľa.
+4.2 Služby na odstránenie porúch a riešenie požiadaviek (riešenie udalostí) je Dodávateľ povinný
+začať poskytovať najneskôr v čase stanovených parametrov reakčnej doby a servisného
+pokrytia podľa prílohy č. 1.Dodávateľ sa zaväzuje vyriešiť požiadavku, resp. odstrániť poruchu
+najneskôr do 30 dní odo dňa prijatia požiadavky Objednávateľa, ak sa zmluvné strany
+nedohodnú písomne inak. Poskytnuté plnenie na základe tejto zmluvy odsúhlasia Oprávnené
+osoby zmluvných strán bezodkladne vo forme akceptačných protokolov a mesačnej evidencie
+(preberací protokol), ktorá bude tvoriť podklad a prílohu faktúry.
+4.3 Služby v zmysle tejto zmluvy bude Dodávateľ realizovať prostredníctvom telefonickej
+asistencie, vzdialeného pripojenia alebo fyzickým zásahom na mieste prevádzky informačného
+systému v zmysle pohotovosti podľa prílohy č. 1. Dodávateľ vynaloží maximálne úsilie na čo
+najrýchlejšie obnovenie núdzovej a následne plnej prevádzky informačného systému
+Objednávateľa. Ak situácia neumožňuje riešenie udalosti na mieste prevádzky informačného
+systému, môžu byť príslušné prostriedky informačného systému opravené v servisnom
+stredisku Dodávateľa.
+4.4. Ak má Dodávateľ vykonať v rámci plnenia tejto zmluvy akékoľvek činnosti, v dôsledku
+ktorých by mohli byť ohrozené dáta Objednávateľa, ich komplexnosť, konzistentnosť, resp.
+kvalita, je Dodávateľ povinný pred vykonaním týchto činností písomne upozorniť
+Objednávateľa na potrebu zálohovania príslušných dát.
+4.5. Objednávateľ umožní zamestnancom Dodávateľa fyzický prístup do priestorov v ktorých je
+prevádzkovaný informačný systém Objednávateľa, alebo vzdialený prístup k hardvérovým a
+softvérovým prostriedkom uvedeným v prílohe č. 1, a to počas celej doby nevyhnutnej na
+poskytnutie služby v zmysle tejto zmluvy.
+4.6
+
+Objednávateľ bude v rámci svojich možností nápomocný pri zabezpečovaní realizácie
+predmetu tejto zmluvy.
+
+4.7 Záruka na vykonané služby sa nevzťahuje na vady a poruchy, ktoré vzniknú vinou nesprávneho
+alebo nešetrného používania, neoprávneného zásahu do zariadenia alebo vplyvom prírodného
+živlu.
+
+Článok 5
+Práva a povinnosti zmluvných strán
+5.1. Objednávateľ sa zaväzuje poskytnúť Dodávateľovi pri plnení Zmluvy na svoje náklady
+potrebnú súčinnosť, nevyhnutnú pre zabezpečenie riadneho plnenia záväzkov
+Dodávateľa, a to najmä:
+-
+
+prístup k technickým zariadeniam Objednávateľa potrebný k plneniu predmetu
+Zmluvy;
+
+4
+
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+-
+
+-
+
+-
+
+zabezpečenie včasnej prípravy hardvéru a softvéru, potrebných k plneniu záväzkov
+Dodávateľa;
+zabezpečenie včasnej realizácie iných nevyhnutných činností, podmieňujúcich plnenie
+Dodávateľa, a to na základe žiadosti Dodávateľa formou uvedenou v bode 7.2.;
+zabezpečenie súčinnosti svojich pracovníkov pri analýzach, návrhoch, hodnoteniach,
+pripomienkovaní a preberacom konaní súvisiacom s predmetom plnenia podľa tejto
+Zmluvy;
+zabezpečením prítomnosti povereného pracovníka Objednávateľa na pracovisku
+v rozsahu, v ktorom si to výkon činností Dodávateľa podľa tejto zmluvy bude
+vyžadovať a poskytne potrebnú súčinnosť v rozsahu potrebnom na realizáciu činností
+podľa tejto zmluvy;
+umožnenie zriadenia vzdialeného prístupu pre Dodávateľa k technickým zariadeniam
+Objednávateľa v rozsahu potrebnom na účely plnenia tejto Zmluvy.
+
+5.2. Neposkytnutie potrebnej súčinnosti zo strany Objednávateľa Dodávateľovi na základe výzvy
+Dodávateľa
+doručenej
+Objednávateľovi,
+môže
+mať
+za
+následok posun termínov jednotlivých plnení a ich ukončenia, za čo nenesie Dodávateľ
+zodpovednosť
+v rozsahu
+omeškania
+Objednávateľa.
+5.3. Dodávateľ sa zaväzuje:
+-
+
+-
+
+-
+
+že zabezpečí koordinovanie, organizovanie a riadenie jednotlivých činností súvisiacich s
+predmetom Zmluvy,
+uskutočňovať plnenie svojich zmluvných povinností s odbornou starostlivosťou, v súlade so
+Zmluvou, príslušnými právnymi predpismi a normami,
+brať pri plnení jednotlivých úloh ohľad na prevádzkové potreby Objednávateľa a uskutočňovať
+preto svoje plnenie v úzkej súčinnosti s Objednávateľom a v súlade s pravidlami, obvyklými
+pre spracovanie dát,
+poskytovať činnosti podľa tejto zmluvy len na základe požiadavky Objednávateľa v súlade s čl.
+4 tejto zmluvy,
+zachovávať mlčanlivosť o skutočnostiach, s ktorými prišiel do styku pri plnení predmetu
+Zmluvy, pričom tento záväzok dodávateľa trvá bez časového obmedzenia aj po ukončení
+Zmluvy.
+odborné práce musia byť vykonané len pracovníkmi dodávateľa, ktorí majú príslušnú
+kvalifikáciu, odbornú spôsobilosť a oprávnenie na vykonanie týchto prác. Dodávateľ je
+povinný pri vykonávaní plnenia podľa tejto zmluvy zabezpečiť dodržiavanie platných
+technických noriem, príslušných platných všeobecne záväzných právnych predpisov, interných
+predpisov Objednávateľa týkajúcich sa poskytovaných služieb a predpisov týkajúcich sa
+BOZP a PO, zákazu vnášania, požívania alkoholických nápojov, užívania omamných alebo
+psychotropných látok, fajčenia, ako aj iných interných predpisov Objednávateľa, s ktorými bol
+oboznámený. Dodávateľ zodpovedá za to, že všetci pracovníci, ktorých použije na
+poskytovanie služieb sú oprávnení, spôsobilí a poučení na výkon príslušných prác. Zástupca
+Objednávateľa je oprávnený kontrolovať dodržiavanie týchto povinností a za každé porušenie
+tohto ustanovenia sa Dodávateľ zaväzuje na základe uplatnenia Objednávateľom zaplatiť
+zmluvnú pokutu vo výške 1500,- eur. Porušenie týchto povinností Dodávateľom sa považuje za
+podstatné porušenie tejto zmluvy.
+
+Článok 6
+Odovzdanie a prebratie predmetu plnenia
+6.1. Plnenia poskytnuté Dodávateľom Objednávateľovi podľa bodu 2.1. Zmluvy, budú evidované v
+súhrnnej mesačnej evidencii realizovaných služieb, ktorú si preukázateľne odsúhlasia
+oprávnení zamestnanci zmluvných strán bezodkladne (preberací protokol) .
+
+5
+
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+6.2. Záručná doba na plnenie predmetu zmluvy sa riadi podmienkami platných supportov výrobcov
+zariadení podľa prílohy č. 1.,najmenej však 6 mesiacov od prevzatia plnenia Objednávateľom.
+
+Článok 7
+Komunikácia medzi zmluvnými stranami
+7.1. Zmluvné strany sa dohodli, že v technických veciach, týkajúcich sa Zmluvy, sú
+oprávnené viesť rokovanie v mene zmluvných strán Oprávnené osoby. Zmluvné strany sú
+zaviazané písomne oznámiť mená Oprávnených osôb do troch pracovných dní odo dňa
+uzavretia Zmluvy. Zmeny týkajúce sa Oprávnených osôb sú zmluvné strany povinné si
+vzájomne oznámiť bez zbytočného odkladu po zmene Oprávnenej osoby.
+Oprávnené osoby Objednávateľa konať vo veciach technických: Marián Lukáč,
+marian.lukac@transpetrol.sk, +421 833 003
+Oprávnené osoby Dodávateľa konať vo veciach technických: Ing. Dušan Štrbík,
+dusan.strbik@ensentia.sk, +421 903 231 760
+7.2. Písomnosti sa medzi zmluvnými stranami doručujú osobne, elektronickou poštou, faxom,
+poštou alebo s použitím profesionálnej kuriérskej služby.
+
+Článok 8
+Zodpovednosť za vady a náhrada škody
+8.1. Dodávateľ zodpovedá za to, že predmet Zmluvy bude vykonaný bez akýchkoľvek vád, v súlade
+so Zmluvou, normami a všeobecne záväznými právnymi predpismi.
+8.2 Dodávateľ sa zaväzuje odstrániť reklamované vady plnenia na svoje náklady najneskôr do 30
+dní odo dňa ich reklamácie.
+8.3. Objednávateľ je povinný prípadné vady plnenia Dodávateľa v rámci svojich možností a
+znalostí dostatočne písomne špecifikovať aj s uvedením kategórie a lehoty, v ktorej žiada vadu
+odstrániť a oznámiť ich na adresu Dodávateľa.
+8.4. Dodávateľ je povinný bezodkladne po oznámení vady objednávateľom začať s prácami na
+odstránení vady v zmysle ustanovení Zmluvy.
+8.5. Dodávateľ zodpovedá za škodu, ktorá vznikne Objednávateľovi alebo tretím osobám v
+
+dôsledku porušenia povinností Dodávateľa vyplývajúcich zo Zmluvy, všeobecne záväzných
+právnych predpisov alebo porušením inej právnej povinnosti.
+
+8.6. Zmluvné strany sa zaväzujú vynaložiť maximálne úsilie a odbornú starostlivosť na
+predchádzanie vzniku Škôd a zníženie ich rozsahu, zabezpečiť preventívne opatrenia,
+kvalifikovanú súčinnosť vo vzťahu k povinnosti predchádzať škodám, obmedzeniu ich
+rozsahu, zakročovaciu povinnosť pri hroziacej škode, opatrenia na odvrátenie alebo zmiernenie
+škody, zabezpečiť a kontrolovať riadne plnenie svojich povinností vyplývajúcich z tohto
+zmluvného vzťahu.
+8.7 V prípade, ak v dôsledku porušenia povinností dodávateľa (napr. omeškaním, nesplnením
+záväzkov alebo porušením podmienok stanovených v Zmluve a jej prílohách, všeobecne
+záväzných právnych predpisoch a iných predpisov) dôjde k vzniku škody, strate, zničeniu,
+krádeži, poškodeniu alebo inému znehodnoteniu majetku, poškodeniu zdravia, úrazu alebo
+úmrtiu, vzniku stavu všeobecného ohrozenia, uplatneniu pokút alebo inému sankčnému postihu
+objednávateľa, je dodávateľ povinný takto spôsobenú škodu nahradiť.
+
+6
+
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+8.8 Objednávateľ a dodávateľ sa dohodli, že bez ohľadu na iné ustanovenia tejto Zmluvy, úhrnná
+predvídateľná škoda, ktorá by mohla byť predmetom náhrady zo strany dodávateľa predstavuje
+v zmysle predpokladu zmluvných strán maximálne 100 % z celkovej ceny služieb, určenej
+podľa tejto Zmluvy. Objednávateľ a dodávateľ vyhlasujú, že vyššie uvedený predpoklad výšky
+škody predstavuje súhrnné predvídateľné sumy odškodného podľa Zmluvy, ktoré zmluvné
+strany môžu očakávať počas uzavretia Zmluvy. Ustanovenia Zmluvy rozdeľujú riziká medzi
+Dodávateľom a Objednávateľom. Takéto usporiadanie vzťahov v Zmluve je premietnuté aj do
+zmluvnej ceny.
+8.9 Dodávateľ je povinný mať uzatvorené Poistenie zodpovednosti za škody spôsobené tretím
+osobám po celú dobu trvania záväzkov podľa tejto zmluvy, vo výške poistnej sumy
+najmenej v hodnote celkovej ceny plnenia podľa tejto zmluvy. V prípade, ak dodávateľ
+uzavrel s objednávateľom aj ďalšie zmluvy, poistná suma musí byť vždy najmenej vo výške
+súčtu ceny všetkých plnení poskytovaných dodávateľom objednávateľovi na základe
+všetkých zmlúv kumulatívne. Dodávateľ sa zaväzuje uvedené skutočnosti preukázať
+objednávateľovi pred podpisom tejto zmluvy a kedykoľvek počas trvania zmluvy na
+požiadanie objednávateľa. Nepredloženie dokladov o uzavretí poistnej zmluvy, úhrade
+poistného, trvaní poistenia alebo zánik poistenia počas trvania tohto zmluvného vzťahu
+podľa tohto bodu zmluvy sa považuje za podstatné porušenie tejto zmluvy.
+8.10 Dodávateľ prehlasuje a zodpovedá za to, že predmet jeho plnenia nie je zaťažený právami
+tretích osôb. Vo vzťahu k prípadnému dielu alebo plneniu, ktoré je chránené autorským právom
+dodávateľ prehlasuje, že je oprávnený vykonávať majetkové práva autora (autorov) diela a v§
+65 a nasl. Autorského zákona č. 185/2015 Z.z. udeľuje objednávateľovi súhlas na použitie diela
+dodaného na základe tejto zmluvy a zároveň chráneného podľa autorského zákona podľa
+potreby objednávateľa, spôsobom v zmysle § 19 Autorského zákona, v rozsahu a po dobu
+platnosti tejto zmluvy . Odmena za poskytnutie súhlasu na použitie diela (licencie)
+objednávateľovi je zahrnutá v cene za predmet zmluvy podľa tejto zmluvy. Dodávateľ sa
+zaväzuje odškodniť objednávateľa pre prípad, že dielo má právne vady. Po splnení záväzku
+podľa tejto zmluvy, je objednávateľ oprávnený bez ďalšieho overiť doplnením alebo zmenou
+diela aj inú osobu ako dodávateľa.
+8.11. Cena za licencie podľa bodu 1.2 Prílohy č. 1 tejto zmluvy je zahrnutá v cene služieb podľa čl.
+3 tejto zmluvy. Vo vzťahu k plneniu podľa bodu 1.2. Prílohy č. 1 tejto zmluvy, Objednávateľ
+- nie je oprávnený robiť akékoľvek úpravy v Diele bez písomného súhlasu Dodávateľa, a
+to ani za účelom úpravy alebo prekladu podľa § 35 ods. 1 písm. a) AZ.
+- Objednávateľ nie je oprávnený robiť rozmnoženiny Diela bez písomného súhlasu
+Dodávateľa, s výnimkou vytvorenia rozmnoženiny za účelom podľa § 35 ods. 1 písm. b)
+AZ. Rozmnoženinu je Objednávateľ povinný zabezpečiť voči strate a odcudzeniu a
+označiť všetkými autorskými právami a označeniami ako originál.
+- Objednávateľ je oprávnený používať Dielo na celom území Slovenskej republiky, v
+rozsahu, ktorý vyplýva z tejto Zmluvy. Objednávateľ je Dielo oprávnený používať
+nasledovným spôsobom: nainštalovať a spustiť Dielo na cieľovej infraštruktúre,
+používať Dielo pre vlastnú potrebu pri výkone svojej podnikateľskej činnosti pre účel na
+ktorý mu bolo dodané Dielo podľa Zmluvy (zapisovanie, pozmeňovanie, čítanie a
+archivácia údajovej základne Diela, exportovanie a importovanie údajovej základne, ak
+to Dielo umožňuje, generovanie tlačových a digitálnych výstupov z Diela, konfigurácia
+používateľských nastavení Diela a iné spôsoby použitia potrebné pre naplnenie účelu na
+ktorý bolo Dielo Objednávateľovi dodané).
+- Objednávateľ nie je oprávnený odovzdať, postúpiť, predať, prenajať alebo iným
+obdobným spôsobom poskytnúť Dielo a tretej osobe/ám bez predchádzajúceho
+písomného súhlasu Dodávateľa.
+
+7
+
+Zmluva o poskytovaní servisných služieb – SLA - IP Telefónia AVAYA
+
+-Právo používať Dielo (licencia/sublicencia) podľa bodu Zmluvy, prechádza na
+Objednávateľa dňom účinnosti tejto zmluvy .
+- Práva dodávateľa k Dielu zostávajú bez ohľadu na ustanovenia tohto článku Zmluvy
+bez akéhokoľvek obmedzenia zachované.
+- Objednávateľ podpisom Zmluvy akceptuje udelenie licencie/sublicencie v rozsahu, v
+akom mu boli udelené v tomto článku Zmluvy.
+- Objednávateľ nie je oprávnený vykonávať reverzné inžinierstvo Diela.
+
+Článok 9
+Sankcie
+9.1 Dodávateľ sa zaväzuje zaplatiť Objednávateľovi na základe písomného uplatnenia
+Objednávateľom zmluvnú pokutu vo výške:
+a) 15,- eur (slovom pätnásť eur) za každý deň omeškania dodávateľa s odovzdaním služby podľa
+bodu 2.1 tejto Zmluvy Objednávateľovi v termíne dohodnutom v bode 4.2 tejto zmluvy,
+b) 10,- eur (slovom desať eur) za každý deň omeškania dodávateľa s odstránením vád
+poskytnutej služby v lehote určenej v bode 8.2. tejto Zmluvy,
+9.2. Dodávateľ je povinný zaplatiť zmluvné pokuty uplatnené podľa tejto Zmluvy do 14 dní od ich
+uplatnenia Objednávateľom. Zaplatenie zmluvných pokút nezbavuje Dodávateľa
+zodpovednosti za spôsobenú škodu, ktorá vznikla z porušenia zmluvnej povinnosti
+zabezpečenej zmluvnou pokutou a povinnosti uhradiť ju v plnom rozsahu. Zaplatené zmluvné
+pokuty sa neodpočítavajú od výšky spôsobenej škody. Omeškanie Dodávateľa s plnením
+o viac ako 30 dní, resp. opakované omeškanie s plnením podľa tejto zmluvy bude považované
+za podstatné porušenie zmluvy s právom objednávateľa okamžite od zmluvy odstúpiť.
+9.3 Pre prípad omeškania Objednávateľa s úhradou ceny na základe riadne vyhotovenej a
+doručenej faktúry Dodávateľa sa zmluvné strany dohodli na úroku z omeškania vo výške 0,02
+% z nezaplatenej sumy za každý deň omeškania. V prípade opakovaného omeškania
+Objednávateľa s úhradou ceny podľa článku 3 tejto Zmluvy sa takéto konanie Objednávateľa
+považuje za závažné porušenie zmluvnej povinnosti.
+
+Článok 10
+Trvanie a ukončenie Zmluvy
+10.1. Zmluva nadobúda platnosť dňom jej obojstranného podpisu zmluvnými stranami a
+účinnosť dňom nasledujúcim po dni jej zverejnenia v zmysle § 47a Občianskeho zákonníka a
+§ 5a zákona č. 211/2000 Z.z. o slobode informácií v znení neskorších predpisov v Centrálnom
+registri zmlúv. Zmluvné strany so zverejnením tejto zmluvy súhlasia.
+10.2. Táto Zmluva sa uzatvára na dobu do 31.12.2020.
+10.3. Túto Zmluvu je možné ukončiť okrem spôsobu uvedeného v bode 10.2.:
+•
+•
+
+•
+
+dohodou zmluvných strán,
+odstúpením od Zmluvy v prípade ak to ustanovuje Zmluva alebo zákon, pričom
+odstúpením od zmluvy Zmluva zaniká dňom doručenia písomného prejavu vôle
+oprávnenej strany druhej zmluvnej strane. Pri odstúpení si zmluvné strany ponechajú
+plnenia poskytnuté ku dňu odstúpenia a obe zmluvné strany sa zaväzujú rokovať o
+vysporiadaní záväzkov,
+výpoveďou bez udania dôvodu s 3 mesačnou výpovednou lehotou, ktorá začne plynúť
+prvým dňom mesiaca nasledujúceho po doručení výpovede druhej zmluvnej strane
+
+8
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+•
+
+ak sa Systém Objednávateľa, na ktorý sa viaže predmet Zmluvy, prestane u
+Objednávateľa používať - zmluvný vzťah zanikne posledným kalendárnym dňom
+nasledujúceho mesiaca po doručení oznámenia Objednávateľa Dodávateľovi.
+
+Článok 11
+Ochrana informácií
+11.1 Zmluvné strany budú zachovávať mlčanlivosť o dôverných informáciách získaných pri plnení
+záväzkov z tejto zmluvy. Dôvernými informáciami sú informácie, ktoré niektorá zo
+zmluvných strán písomne alebo iným preukázateľným spôsobom označila ako dôverné
+informácie, s výnimkou informácií verejne známych, ako aj informácií získaných oprávnene
+inak ako od druhej zmluvnej strany. Dodávateľ sa zároveň zaväzuje zachovávať obchodné
+tajomstvo a dodržiavať ustanovenia Organizačnej smernice č. 1/2012 na ochranu obchodného
+tajomstva TRANSPETROL, a.s., s ktorou bol oboznámený pri podpise Zmluvy. Povinnosť
+zachovávať mlčanlivosť trvá neobmedzene aj po ukončení zmluvy.
+11.2 Dodávateľ sa zaväzuje dodržiavať ustanovenia platného zákona o ochrane osobných údajov.
+Dodávateľ vyhlasuje, že si je vedomý povinnosti dodržiavať uvedené právne predpisy.
+Dodávateľ vyhlasuje, že bol poučený o právach a povinnostiach vyplývajúcich zo zákona o
+ochrane osobných údajov, ako aj o následkoch spojených s ich nedodržaním. V prípadoch, ak
+si plnenie predmetu tejto zmluvy bude vyžadovať akékoľvek sprístupnenie osobných údajov
+klientov Objednávateľa, Dodávateľ sa zaväzuje takéto osobné údaje spracovať alebo použiť
+len spôsobom, ktorý je v súlade s touto zmluvou, a len v rozsahu, ktorý je nevyhnutný na
+dosiahnutie jej účelu. Dodávateľ môže byť v tomto prípade sprostredkovateľom pri
+spracúvaní osobných údajov. Dodávateľ sa zaväzuje pri takomto spracovaní osobných údajov
+postupovať v súlade so zákonom o ochrane osobných údajov. Dodávateľovi sa v tejto
+súvislosti zakazuje najmä kopírovať, skenovať, zaznamenávať, využívať, uchovávať,
+prenášať, poskytovať, sprístupňovať alebo zverejniť osobné údaje, s ktorými prichádza do
+styku pri plnení tejto zmluvy, na iné účely ako je dodávka, inštalácia a implementácia
+programového vybavenia či poskytovanie podpory v zmysle tejto zmluvy. Dodávateľ je
+povinný bezodkladne po naplnení účelu spracovania predmetných osobných údajov,
+najneskôr však po zániku tejto zmluvy ukončiť spracúvanie príslušných osobných údajov
+a osobné údaje zlikvidovať. Povinnosť ochraňovať osobné údaje nie je časovo obmedzená.
+11.3 Zmluvné strany budú ochraňovať dôverné informácie druhej zmluvnej strany, a to s rovnakou
+starostlivosťou ako ochraňujú vlastné dôverné informácie rovnakého druhu, vždy však
+najmenej v rozsahu primeranej odbornej starostlivosti.
+11.4 Dodávateľ má právo ponechať si projektovú dokumentáciu.
+11.5 Zmluvné strany sa budú bezodkladne písomne informovať o tom, že na základe zákona alebo
+na základe rozhodnutia príslušného orgánu im vznikla povinnosť zverejniť dôvernú
+informáciu druhej zmluvnej strany alebo jej časť.
+
+Článok 12
+Záverečné ustanovenia
+12.1 Táto Zmluva predstavuje úplnú dohodu zmluvných strán o predmete Zmluvy a nahradzuje
+všetky predchádzajúce dohody zmluvných strán o predmete Zmluvy a môže byť menená len
+formou písomných dodatkov riadne podpísaných obidvomi zmluvnými stranami.
+Neoddeliteľnou súčasťou tejto zmluvy je príloha č. 1 – Opis predmetu obstarávania.
+
+9
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+12.2 Zmluva bola vyhotovená v štyroch rovnopisoch, z nich všetky majú platnosť originálu. Obe
+zmluvné strany obdržia po dva exempláre.
+1 2 . 3 Ostatné práva a povinnosti zmluvných strán vyplývajúce z tohto zmluvného vzťahu sa budú
+riadiť príslušnými ustanoveniami Obchodného zákonníka č. 513/1991 Zb. v znení neskorších
+predpisov a ďalšími právnymi predpismi SR.
+1 2 . 4 Objednávateľ aj Dodávateľ sa zaväzuje bez zbytočného odkladu písomne informovať druhú
+zmluvnú stranu o prípadnej zmene svojho obchodného mena, právnej formy, sídla, IČO,
+DIČ, IČ pre DPH, oprávnených zástupcov, bankového spojenia a čísla účtu, na ktorý majú
+byť poukázané platby a iných skutočnostiach významných pre riadne plnenie Zmluvy.
+12.5 V prípade, ak akékoľvek ustanovenie Zmluvy je alebo sa stane neúplným, neplatným,
+neúčinným alebo nevykonateľným, nie sú t ý m dotknuté ostatné ustanovenia Zmluvy,
+okrem prípadu, ak z jeho povahy, obsahu alebo okolností, za ktorých bolo medzi zmluvnými
+stranami dojednané vyplýva, že ho nie je možné oddeliť od ostatného obsahu Zmluvy.
+12.6. Zmluvné strany tejto Zmluvy sa zaväzujú v prípade, že medzi nimi vznikne spor vyplývajúci
+z tejto Zmluvy, riešiť tento prednostne vzájomnou dohodou. V prípade, že spor nebude
+možné riešiť dohodou, bude príslušným na rozhodnutie miestne príslušný súd.
+12.7. Obidve zmluvné strany prehlasujú, že si Zmluvu pred jej podpisom prečítali a že bola
+uzavretá po vzájomnom prejednaní, ako prejav ich slobodnej vôle, určite, vážne a
+zrozumiteľne a nie v tiesni, alebo za nápadne nevýhodných podmienok. Na dôkaz dohody o
+všetkých článkoch Zmluvy pripojujú zástupcovia oboch zmluvných strán svoje vlastnoručné
+podpisy.
+
+V Bratislave, dňa ............2018
+
+V Bratislave, dňa
+
+................................................
+Ing. Ivan Krivosudský
+predseda predstavenstva
+TRANSPETROL, a.s.
+
+.................................................
+Ing. Tomáš Beljak
+konateľ
+ensentia s.r.o.
+
+................................................
+RNDr. Martin Ružinský, PhD.
+podpredseda predstavenstva
+TRANSPETROL, a.s.
+
+10
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+Príloha č.1
+
+Servisná podpora produktov Avaya
+1.1. MINIMÁLNA POŽADOVANÁ ÚROVEŇ SLUŽBY
+o Servisné pokrytie – 8x5, Pondelok – Piatok, od 8:00 do 16:00 hod. okrem štátom
+uznaných sviatkov pre hlasové brány, servery a aplikácie. Servisné pokrytie
+špecifikuje dobu počas ktorej sú tieto služby k dispozícii.
+ servis telefónov zabezpečený formou záručnej opravy výrobcu
+o Doba neutralizácie incidentu – je doba, čas, do ktorého zabezpečí neutralizáciu
+nahláseného incidentu (začína plynúť po korektnom zaregistrovaní požiadavky).
+Neutralizácia incidentu znamená obnovenie fungovania HW alebo SW prvku.
+o Telefonická podpora pri riešení hardvérových problémov, diagnostika problému
+prostredníctvom vzdialeného prístupu. Hardvérové problémy sú nahlasované
+telefonicky alebo elektronicky počas zvoleného časového pokrytia.
+o Údržba hardvéru v mieste inštalácie – OnSite.
+o Riešenie softvérového problému v mieste inštalácie ak to bude nevyhnutné.
+o Vzdialená odozva (telefonická, vzdialeným prístupom) do 2 hodín od nahlásenia
+servisnej požiadavky.
+o Poskytovanie informácií ohľadom najnovších funkcií softvérového produktu,
+známych problémov a ich dostupných riešení; poradenstvo týkajúce sa
+prevádzkovania softvérového produktu.
+o prístup na service desk poskytovateľa
+o 8 predplatených hodín na CHM
+ Vedená evidencia činnosti s možnosťou prenosu nevyčerpaných hodín
+s možnosťou kumulatívneho čerpania v rámci jedného roka
+o
+zo strany dodávateľa sú pre servisnú podporu definované nasledujúce priority,
+ktoré navrhuje Objednávateľ:
+ P1 - priorita 1
+- nedostatočným plnením predmetu zmluvy bola spôsobená degradácia
+alebo výpadok, prípadne nastalo opakované zlyhanie podľa Priority 2;
+- nastalo zastavenie systému;
+- zlyhanie systému spôsobuje stratu dát;
+- chyby v systéme neumožňujú spustenie alebo pokračovanie behu SW
+a HW prvkov;
+ P2 - priorita 2
+- nedostatočným plnením predmetu Zmluvy bola zapríčinená čiastočná
+nefunkčnosť, jej časti, komponentu, pripadne nastalo opakované zlyhanie
+podľa Priority 3;
+- je zhoršená funkčnosť SW a HW prvkov so výrazným dopadom na chod;
+- zlyhávanie nespôsobuje stratu dát;
+- je zaznamenaný pokles výkonových merateľných parametrov Diela;
+ P3 - priorita 3
+- slúži na upozornenie, nespokojnosť Objednávateľa s poskytnutým
+predmetom Zmluvy (technické riešenie, doba riešenia), pripadne nastalo
+opakované zlyhanie podľa Priority 4;
+- výskyt chýb, ktoré nemajú priamy vplyv na výkon SW a HW prvkov;
+
+11
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+
+
+- žiadosť o výmenu jednotlivých častí / prvkov diela;
+P4 - priorita 4
+- slúži na upozornenie na nespokojnosť Objednávateľa s poskytnutým
+predmetom zmluvy, predmetu Zmluvy (napr. spôsob komunikácie, doba
+odozvy);
+P1
+
+P2
+
+P3
+
+P4
+
+Reakčná doba
+
+1 hod
+
+4 hod
+
+24 hod
+
+84 hod
+
+doba neutralizácie
+
+24 hod.
+
+48 hod
+
+7 dní
+
+30 dní
+
+1.2. POŽIADAVKY NA LICENCIE
+Tarifikácia: Licencie 2Ring CA Enterprise v3.2 (3xCDR zdroj: 1xCCM cluster, 1xNetFAX, 1xFREE; 700
+užívateľov)
+1 ks 2Ring-CA-E-Base
+2Ring CA Enterprise Base License (3 standard connectors, 200 users)
+0 ks 2Ring-CA-Ext200
+2Ring CA Add On License for 200 extensions
+1 ks 2Ring-CA-Ext500
+2Ring CA Add On License for 500 users
+1 ks 2Ring-CA-WWW-LDAP_AD 2Ring CA WWW integration with LDAP/Active Directory
+Licencie 2Ring NetFAX v3.1 (54 faxových čísiel a 50 užívateľov, 6 in/out T.38/G.711 portov)
+2Ring NetFAX Base License (50 users and 4 defined numbers, 1in/out T.38/G.711
+1 ks 2Ring-FAX-Base
+port)
+0 ks 2Ring-FAX-L20
+2Ring NetFAX Add on License for 20 defined numbers
+1 ks 2Ring-FAX-L50
+2Ring NetFAX Add on License for 50 defined numbers
+1 ks 2Ring-FAX-T5
+2Ring NetFAX Add on License for 5 in/out fax ports (T.38/G.711)
+0 ks 2Ring-FAX-LDAP-499
+2Ring NetFAX LDAP connector for 2Ring NetFAX deployments up to 499 users
+
+1.3. ZOZNAM PRODUKTOV AVAYA
+Telefónna ústredňa G450
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+
+1
+1
+1
+275
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+2
+275
+1
+1
+275
+
+AVY-207945
+AVY-212485
+AVY-212860
+AVY-225230
+AVY-227272
+AVY-228012
+AVY-231820
+AVY-259400
+AVY-259401
+AVY-260096
+AVY-260129
+AVY-263764
+AVY-266528
+AVY-268229
+AVY-268517
+AVY-268683
+AVY-269360
+AVY-269361
+AVY-269363
+
+AVAYA AURATM R9- TO R5 S8500 MIG LIC
+CC R5 RFA RELEASE INDICATOR
+CC SIP EAS AVAIL AGTS TRACKING CODE
+AVAYA AURATM R5 SE 101-1000LIC UPPCM
+SAL STDALN GATEWAY LIC R1.5 DWNLD
+CC R6 MG DLX TO ELITE MULTI 251+
+AVAYA AURATM RFA TO PLDS CONVERSION
+MEDIA ENCRYPTION R5 & PRIOR
+MEDIA ENCRYPTION R6+/MBT
+AVAYA CCCM 6.X S85XX CM CONN
+AVAYA CCCM 6.X PER USER LIC INCLD
+DL360G7SRVR CM5.2.1+ S/D/MBT/SBC
+R6 LARGE ENT SIMPLX SOL MIG TRACKING
+ENT CORE R6 ACE BASE LINUX R3 LIC /E
+ENT CORE R6 ACE APPL INTG R3 LIC /E
+AVAYA AURATM ENT CORE R6 UPG SW LIC
+ENT CORE R6 MGMT SITE ADMINR6 LIC /E
+ENT CORE R6 MGMT NTWK MGMT R6 LIC /E
+ENT CORE R6 SM SIP CONN R6 LIC /E
+
+12
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+
+275
+275
+275
+275
+275
+275
+14
+1
+1
+1
+1
+1
+1
+1
+1
+1
+50
+50
+50
+50
+1
+5
+2
+2
+3
+2
+1
+1
+1
+1
+1
+1
+14
+2
+159
+93
+66
+14
+1
+14
+
+AVY-269405
+AVY-269420
+AVY-269421
+AVY-269422
+AVY-269742
+AVY-270052
+AVY-270133
+AVY-407786623
+AVY-700477094
+AVY-700500751
+AVY-700500752
+AVY-407786623
+AVY-700459472
+AVY-700466642
+AVY-700476393
+AVY-260051
+AVY-269390
+AVY-269391
+AVY-269393
+AVY-269395
+AVY-271524
+AVY-407786623
+AVY-700459456
+AVY-700459498
+AVY-700466626
+AVY-700466634
+AVY-700466642
+AVY-700476344
+AVY-700501182
+AVY-700501472
+AVY-700503207
+AVY-700504042
+AVY-407786623
+AVY-700395445
+AVY-700451255
+AVY-700458532
+AVY-700458540
+AVY-700480593
+AVY-700480627
+AVY-700500725
+
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+
+28
+15
+28
+28
+
+AVY-700480585
+AVY-700480643
+AVY-700500725
+AVY-407786623
+
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bratislava
+Bučany
+Bučany
+
+1
+14
+14
+1
+1
+1
+1
+
+ENT CORE R6 PS R6 LIC /E
+ENT CORE R6 B5800 SURV STN R6 LIC /E
+ENT CORE R6 B5800 SIP TRNK R6 LIC /E
+ENT CORE R6 ONE-XC VIDEO R6 LIC /E
+ENT CORE R6 FLARE COMM WIN R1 LIC /E
+ENT CORE R6 CMM R6 LIC /E
+PLDS ENT CORE R6 BASE STATION
+PWR CORD EUROPE
+CM MESSAGING R6 MEDIA KIT
+ADMIN TOOLS R6.0 CD
+NETWORK MGMT TOOLS R6.0 DVD
+PWR CORD EUROPE
+80 CHANNEL DAUGHTERBOARD INTL - PP
+MM716 ANLG MEDIA MOD 24FXS - NON GSA
+G430 MEDIA GATEWAY INTL
+AES 6.X PLDS ENABLE FOR APPL LIC
+ENT CORE UCE R6 ONE-X COMM R6 LIC /E
+ENT CORE UCE R6 AES DSKTP R6 LIC /E
+ENT CORE UCE R6 EC500 SM R9 LIC /E
+ENT CORE UCE R6 ONE-X CES R6 LIC /E
+AES R6 NEW SYS TRACKING
+PWR CORD EUROPE
+G450 MP80 W/POWER SUPPLY INTL - PP
+G450 POWER SUPPLY INTL - PP
+MM711 ANLG MEDIA MODULE - NON GSA
+MM710B E1/T1 MEDIA MODULE - NON GSA
+MM716 ANLG MEDIA MOD 24FXS - NON GSA
+AVAYA AURATM R5.2.1 NEW SFTW CD
+DL360/DL380 SRVR PWR SUP 460 WATT
+AVAYA AURATM R6.2 SOFTWARE DVD
+AES 6.2 SFTW ONLY MEDIA
+AVAYA AURATM SYS PLATFORM 6.2.1 DVD
+PWR CORD EUROPE
+120A CSU CABLE 50FT RHS
+PWR ADPTR 5V 1600 SER IP PHONE EU
+IP PHONE 1608-I BLK
+IP PHONE 1616-I BLK
+IP PHONE 9611G
+IP PHONE 9641G
+IP PHONE SNGL PT POE INJCTR SPPOE-1A
+
+IP telefóny pre dispečingy a recepciu
+IP PHONE 9608
+BUTTON MOD 12B
+IP PHONE SNGL PT POE INJCTR SPPOE-1A
+PWR CORD EUROPE
+Nahrávanie 14-tich klapiek
+AVY-263952
+AV WFO R10.1 FULL TIME REC DVD
+AVY-267606
+WFO R11 CR PKG
+AVY-267609
+WFO R11 REDUN CR PKG
+AVY-267621
+WFO R11 CENTRAL REPLAY SRVR SFTW
+AVY-700501928
+WFO R11 CR FOR CM-LINUX OS DVD
+AVY-212484
+CC R5 BASIC RFA RELEASE INDICATOR
+AVY-226850
+R9&PRIOR TO CM5S8300/G450 MIG SW LIC
+
+13
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Bučany
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+
+1
+1
+49
+1
+1
+2
+2
+49
+1
+1
+49
+49
+49
+49
+49
+49
+49
+1
+1
+1
+1
+1
+1
+49
+49
+49
+49
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+61
+1
+1
+2
+2
+61
+1
+1
+61
+61
+61
+61
+61
+
+AVY-227272
+AVY-231820
+AVY-245462
+AVY-259400
+AVY-259401
+AVY-268229
+AVY-268517
+AVY-268683
+AVY-269360
+AVY-269361
+AVY-269363
+AVY-269405
+AVY-269420
+AVY-269421
+AVY-269422
+AVY-269742
+AVY-270052
+AVY-700477094
+AVY-700500751
+AVY-700500752
+AVY-407786623
+AVY-700466618
+AVY-700476393
+AVY-269390
+AVY-269391
+AVY-269393
+AVY-269395
+AVY-407786623
+AVY-700459456
+AVY-700459498
+AVY-700463532
+AVY-700466626
+AVY-700466642
+AVY-700476344
+AVY-700501472
+AVY-700504042
+AVY-212484
+AVY-226850
+AVY-227272
+AVY-231820
+AVY-245462
+AVY-259400
+AVY-259401
+AVY-268229
+AVY-268517
+AVY-268683
+AVY-269360
+AVY-269361
+AVY-269363
+AVY-269405
+AVY-269420
+AVY-269421
+AVY-269422
+
+SAL STDALN GATEWAY LIC R1.5 DWNLD
+AVAYA AURATM RFA TO PLDS CONVERSION
+AVAYA AURATM R5 SE 1-100 LIC UPPCM
+MEDIA ENCRYPTION R5 & PRIOR
+MEDIA ENCRYPTION R6+/MBT
+ENT CORE R6 ACE BASE LINUX R3 LIC /E
+ENT CORE R6 ACE APPL INTG R3 LIC /E
+AVAYA AURATM ENT CORE R6 UPG SW LIC
+ENT CORE R6 MGMT SITE ADMINR6 LIC /E
+ENT CORE R6 MGMT NTWK MGMT R6 LIC /E
+ENT CORE R6 SM SIP CONN R6 LIC /E
+ENT CORE R6 PS R6 LIC /E
+ENT CORE R6 B5800 SURV STN R6 LIC /E
+ENT CORE R6 B5800 SIP TRNK R6 LIC /E
+ENT CORE R6 ONE-XC VIDEO R6 LIC /E
+ENT CORE R6 FLARE COMM WIN R1 LIC /E
+ENT CORE R6 CMM R6 LIC /E
+CM MESSAGING R6 MEDIA KIT
+ADMIN TOOLS R6.0 CD
+NETWORK MGMT TOOLS R6.0 DVD
+PWR CORD EUROPE
+MM714B ANLG 4+4 MEDIA MOD - NON GSA
+G430 MEDIA GATEWAY INTL
+ENT CORE UCE R6 ONE-X COMM R6 LIC /E
+ENT CORE UCE R6 AES DSKTP R6 LIC /E
+ENT CORE UCE R6 EC500 SM R9 LIC /E
+ENT CORE UCE R6 ONE-X CES R6 LIC /E
+PWR CORD EUROPE
+G450 MP80 W/POWER SUPPLY INTL - PP
+G450 POWER SUPPLY INTL - PP
+S8300D SERVER - NON GSA
+MM711 ANLG MEDIA MODULE - NON GSA
+MM716 ANLG MEDIA MOD 24FXS - NON GSA
+AVAYA AURATM R5.2.1 NEW SFTW CD
+AVAYA AURATM R6.2 SOFTWARE DVD
+AVAYA AURATM SYS PLATFORM 6.2.1 DVD
+CC R5 BASIC RFA RELEASE INDICATOR
+R9&PRIOR TO CM5S8300/G450 MIG SW LIC
+SAL STDALN GATEWAY LIC R1.5 DWNLD
+AVAYA AURATM RFA TO PLDS CONVERSION
+AVAYA AURATM R5 SE 1-100 LIC UPPCM
+MEDIA ENCRYPTION R5 & PRIOR
+MEDIA ENCRYPTION R6+/MBT
+ENT CORE R6 ACE BASE LINUX R3 LIC /E
+ENT CORE R6 ACE APPL INTG R3 LIC /E
+AVAYA AURATM ENT CORE R6 UPG SW LIC
+ENT CORE R6 MGMT SITE ADMINR6 LIC /E
+ENT CORE R6 MGMT NTWK MGMT R6 LIC /E
+ENT CORE R6 SM SIP CONN R6 LIC /E
+ENT CORE R6 PS R6 LIC /E
+ENT CORE R6 B5800 SURV STN R6 LIC /E
+ENT CORE R6 B5800 SIP TRNK R6 LIC /E
+ENT CORE R6 ONE-XC VIDEO R6 LIC /E
+
+14
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Budkovce
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+Moldava nad Bodvou
+
+61
+61
+1
+1
+1
+1
+50
+50
+50
+50
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+17
+1
+1
+2
+1
+17
+2
+17
+1
+1
+17
+17
+17
+17
+17
+17
+17
+17
+1
+1
+1
+17
+17
+17
+1
+1
+1
+1
+1
+1
+1
+
+AVY-269742
+AVY-270052
+AVY-700477094
+AVY-700500751
+AVY-700500752
+AVY-260051
+AVY-269390
+AVY-269391
+AVY-269393
+AVY-269395
+AVY-271524
+AVY-407786623
+AVY-700459456
+AVY-700463532
+AVY-700466626
+AVY-700466642
+AVY-700476344
+AVY-700501472
+AVY-700503207
+AVY-700504042
+AVY-212484
+AVY-226850
+AVY-227272
+AVY-231820
+AVY-245462
+AVY-259400
+AVY-259401
+AVY-268229
+AVY-268517
+AVY-268683
+AVY-269360
+AVY-269361
+AVY-269363
+AVY-269405
+AVY-269420
+AVY-269421
+AVY-269422
+AVY-269742
+AVY-270052
+AVY-700477094
+AVY-700500751
+AVY-700500752
+AVY-269390
+AVY-269391
+AVY-269393
+AVY-269395
+AVY-407786623
+AVY-700463532
+AVY-700466626
+AVY-700476344
+AVY-700476393
+AVY-700501472
+AVY-700504042
+
+ENT CORE R6 FLARE COMM WIN R1 LIC /E
+ENT CORE R6 CMM R6 LIC /E
+CM MESSAGING R6 MEDIA KIT
+ADMIN TOOLS R6.0 CD
+NETWORK MGMT TOOLS R6.0 DVD
+AES 6.X PLDS ENABLE FOR APPL LIC
+ENT CORE UCE R6 ONE-X COMM R6 LIC /E
+ENT CORE UCE R6 AES DSKTP R6 LIC /E
+ENT CORE UCE R6 EC500 SM R9 LIC /E
+ENT CORE UCE R6 ONE-X CES R6 LIC /E
+AES R6 NEW SYS TRACKING
+PWR CORD EUROPE
+G450 MP80 W/POWER SUPPLY INTL - PP
+S8300D SERVER - NON GSA
+MM711 ANLG MEDIA MODULE - NON GSA
+MM716 ANLG MEDIA MOD 24FXS - NON GSA
+AVAYA AURATM R5.2.1 NEW SFTW CD
+AVAYA AURATM R6.2 SOFTWARE DVD
+AES 6.2 SFTW ONLY MEDIA
+AVAYA AURATM SYS PLATFORM 6.2.1 DVD
+CC R5 BASIC RFA RELEASE INDICATOR
+R9&PRIOR TO CM5S8300/G450 MIG SW LIC
+SAL STDALN GATEWAY LIC R1.5 DWNLD
+AVAYA AURATM RFA TO PLDS CONVERSION
+AVAYA AURATM R5 SE 1-100 LIC UPPCM
+MEDIA ENCRYPTION R5 & PRIOR
+MEDIA ENCRYPTION R6+/MBT
+ENT CORE R6 ACE BASE LINUX R3 LIC /E
+ENT CORE R6 ACE APPL INTG R3 LIC /E
+AVAYA AURATM ENT CORE R6 UPG SW LIC
+ENT CORE R6 MGMT SITE ADMINR6 LIC /E
+ENT CORE R6 MGMT NTWK MGMT R6 LIC /E
+ENT CORE R6 SM SIP CONN R6 LIC /E
+ENT CORE R6 PS R6 LIC /E
+ENT CORE R6 B5800 SURV STN R6 LIC /E
+ENT CORE R6 B5800 SIP TRNK R6 LIC /E
+ENT CORE R6 ONE-XC VIDEO R6 LIC /E
+ENT CORE R6 FLARE COMM WIN R1 LIC /E
+ENT CORE R6 CMM R6 LIC /E
+CM MESSAGING R6 MEDIA KIT
+ADMIN TOOLS R6.0 CD
+NETWORK MGMT TOOLS R6.0 DVD
+ENT CORE UCE R6 ONE-X COMM R6 LIC /E
+ENT CORE UCE R6 AES DSKTP R6 LIC /E
+ENT CORE UCE R6 EC500 SM R9 LIC /E
+ENT CORE UCE R6 ONE-X CES R6 LIC /E
+PWR CORD EUROPE
+S8300D SERVER - NON GSA
+MM711 ANLG MEDIA MODULE - NON GSA
+AVAYA AURATM R5.2.1 NEW SFTW CD
+G430 MEDIA GATEWAY INTL
+AVAYA AURATM R6.2 SOFTWARE DVD
+AVAYA AURATM SYS PLATFORM 6.2.1 DVD
+
+15
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Rimavská Sobota
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+
+1
+1
+1
+1
+21
+1
+1
+2
+2
+21
+1
+1
+21
+21
+21
+21
+21
+21
+21
+1
+1
+1
+21
+21
+21
+21
+1
+1
+1
+1
+1
+1
+1
+1
+151
+1
+1
+1
+1
+1
+2
+2
+151
+1
+1
+151
+151
+151
+151
+151
+151
+151
+1
+
+AVY-212484
+AVY-226850
+AVY-227272
+AVY-231820
+AVY-245462
+AVY-259400
+AVY-259401
+AVY-268229
+AVY-268517
+AVY-268683
+AVY-269360
+AVY-269361
+AVY-269363
+AVY-269405
+AVY-269420
+AVY-269421
+AVY-269422
+AVY-269742
+AVY-270052
+AVY-700477094
+AVY-700500751
+AVY-700500752
+AVY-269390
+AVY-269391
+AVY-269393
+AVY-269395
+AVY-407786623
+AVY-700463532
+AVY-700466626
+AVY-700476344
+AVY-700476393
+AVY-700501472
+AVY-700504042
+AVY-212484
+AVY-225230
+AVY-226850
+AVY-227272
+AVY-231820
+AVY-259400
+AVY-259401
+AVY-268229
+AVY-268517
+AVY-268683
+AVY-269360
+AVY-269361
+AVY-269363
+AVY-269405
+AVY-269420
+AVY-269421
+AVY-269422
+AVY-269742
+AVY-270052
+AVY-700477094
+
+CC R5 BASIC RFA RELEASE INDICATOR
+R9&PRIOR TO CM5S8300/G450 MIG SW LIC
+SAL STDALN GATEWAY LIC R1.5 DWNLD
+AVAYA AURATM RFA TO PLDS CONVERSION
+AVAYA AURATM R5 SE 1-100 LIC UPPCM
+MEDIA ENCRYPTION R5 & PRIOR
+MEDIA ENCRYPTION R6+/MBT
+ENT CORE R6 ACE BASE LINUX R3 LIC /E
+ENT CORE R6 ACE APPL INTG R3 LIC /E
+AVAYA AURATM ENT CORE R6 UPG SW LIC
+ENT CORE R6 MGMT SITE ADMINR6 LIC /E
+ENT CORE R6 MGMT NTWK MGMT R6 LIC /E
+ENT CORE R6 SM SIP CONN R6 LIC /E
+ENT CORE R6 PS R6 LIC /E
+ENT CORE R6 B5800 SURV STN R6 LIC /E
+ENT CORE R6 B5800 SIP TRNK R6 LIC /E
+ENT CORE R6 ONE-XC VIDEO R6 LIC /E
+ENT CORE R6 FLARE COMM WIN R1 LIC /E
+ENT CORE R6 CMM R6 LIC /E
+CM MESSAGING R6 MEDIA KIT
+ADMIN TOOLS R6.0 CD
+NETWORK MGMT TOOLS R6.0 DVD
+ENT CORE UCE R6 ONE-X COMM R6 LIC /E
+ENT CORE UCE R6 AES DSKTP R6 LIC /E
+ENT CORE UCE R6 EC500 SM R9 LIC /E
+ENT CORE UCE R6 ONE-X CES R6 LIC /E
+PWR CORD EUROPE
+S8300D SERVER - NON GSA
+MM711 ANLG MEDIA MODULE - NON GSA
+AVAYA AURATM R5.2.1 NEW SFTW CD
+G430 MEDIA GATEWAY INTL
+AVAYA AURATM R6.2 SOFTWARE DVD
+AVAYA AURATM SYS PLATFORM 6.2.1 DVD
+CC R5 BASIC RFA RELEASE INDICATOR
+AVAYA AURATM R5 SE 101-1000LIC UPPCM
+R9&PRIOR TO CM5S8300/G450 MIG SW LIC
+SAL STDALN GATEWAY LIC R1.5 DWNLD
+AVAYA AURATM RFA TO PLDS CONVERSION
+MEDIA ENCRYPTION R5 & PRIOR
+MEDIA ENCRYPTION R6+/MBT
+ENT CORE R6 ACE BASE LINUX R3 LIC /E
+ENT CORE R6 ACE APPL INTG R3 LIC /E
+AVAYA AURATM ENT CORE R6 UPG SW LIC
+ENT CORE R6 MGMT SITE ADMINR6 LIC /E
+ENT CORE R6 MGMT NTWK MGMT R6 LIC /E
+ENT CORE R6 SM SIP CONN R6 LIC /E
+ENT CORE R6 PS R6 LIC /E
+ENT CORE R6 B5800 SURV STN R6 LIC /E
+ENT CORE R6 B5800 SIP TRNK R6 LIC /E
+ENT CORE R6 ONE-XC VIDEO R6 LIC /E
+ENT CORE R6 FLARE COMM WIN R1 LIC /E
+ENT CORE R6 CMM R6 LIC /E
+CM MESSAGING R6 MEDIA KIT
+
+16
+
+Zmluva o poskytovaní servisných služieb - Zabezpečenie SLA IP telefonia AVAYA
+
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+Tupá
+
+1
+1
+50
+50
+50
+50
+2
+1
+1
+1
+1
+1
+1
+3
+1
+1
+
+AVY-700500751
+AVY-700500752
+AVY-269390
+AVY-269391
+AVY-269393
+AVY-269395
+AVY-407786623
+AVY-700459456
+AVY-700459498
+AVY-700463532
+AVY-700466626
+AVY-700466642
+AVY-700476344
+AVY-700501048
+AVY-700501472
+AVY-700504042
+
+ADMIN TOOLS R6.0 CD
+NETWORK MGMT TOOLS R6.0 DVD
+ENT CORE UCE R6 ONE-X COMM R6 LIC /E
+ENT CORE UCE R6 AES DSKTP R6 LIC /E
+ENT CORE UCE R6 EC500 SM R9 LIC /E
+ENT CORE UCE R6 ONE-X CES R6 LIC /E
+PWR CORD EUROPE
+G450 MP80 W/POWER SUPPLY INTL - PP
+G450 POWER SUPPLY INTL - PP
+S8300D SERVER - NON GSA
+MM711 ANLG MEDIA MODULE - NON GSA
+MM716 ANLG MEDIA MOD 24FXS - NON GSA
+AVAYA AURATM R5.2.1 NEW SFTW CD
+MM717 24PT DCP MEDIA MODULE NON GSA
+AVAYA AURATM R6.2 SOFTWARE DVD
+AVAYA AURATM SYS PLATFORM 6.2.1 DVD
+
+17
+
+

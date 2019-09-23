@@ -1,0 +1,547 @@
+ZML - 1/2018
+
+Zmluva o dielo
+
+I.
+
+Protim onopolný úrad Slovenskej republiky
+
+sídlo:
+Drieňová 24, 826 03 Bratislava 29, Slovenská republika
+ICO:
+00699063
+DIC:
+2020831252
+bankové spojenie:
+Štátna pokladnica
+číslo účtu:
+IBAN: SK23 8180 0000 0070 0006 0830
+štatutárny orgán:
+JUDr. Tibor Menyhart, predseda
+ako objednávateľ na jednej strane, ďalej len „objednávateľ"
+a
+II.
+
+ICZ Slovakia a.s.
+
+sídlo:
+Soblahovská 2050, 911 01 Trenčín, Slovenská republika
+IČO:
+363 28 057
+DIČ:
+2020180096
+IČ D PH:
+SK7120000162
+registrovaná:
+Okresným súdom Trenčín, vložka 10561/R
+štatutárny orgán:
+Ing. Martin Terkovič, predseda predstavenstva - generálny
+bankové spojenie:
+riaditeľ
+číslo účtu:
+ako zhotoviteľ na strane druhej, ďalej len „zhotoviteľ" a spoločne s „objednávateľom"
+ďalej len „zmluvné strany"
+
+uzatvárajú podľa ust. 536 a nasl. zákona č. 513/1991 Zb., obchodný zákonník v znení
+neskorších predpisov (ďalej len „obchodný zákonník")
+túto
+
+Zmluvu o dielo
+(ďalej len „zmluva"):
+
+Protimonopolný úrad Slovenskej republiky ako ústredný orgán
+povinnosti vo vzťahu k elektronickým formulárom v zmysle zákona
+elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a
+niektorých zákonov (zákon o e-Governmente) v znení neskorších
+„zákon o e-Governmente").
+
+štátnej správy má
+č. 305/2013 Z. z. o
+o zmene a doplnení
+predpisov (ďalej len
+
+Článok I.
+Predmet zmluvy
+1.
+
+Predmetom tejto zmluvy je záväzok zhotoviteľa podľa stanoveného harmonogramu
+zhotoviť pre objednávateľa, najmä na účely splnenia povinností objednávateľa
+vyplývajúce mu zo zákona o e-Governemente, elektronické formuláre, ktoré sú bližšie
+špecifikované v bode 2 tohto článku zmluvy (ďalej len „formuláre"), poskytnúť
+objednávateľovi zdrojové kódy k týmto formulárom, poskytnúť objednávateľovi
+podporu a testovanie pri implementácii formulárov na Ústrednom portáli verejnej
+1
+
+správy (ďalej len „ÚPVS") (ďalej len „Dielo") a záväzok objednávateľa
+zhotoviteľovi za riadne a včas vykonané Dielo dohodnutú odmenu.
+
+zaplatiť
+
+Zhotoviteľ sa zaväzuje zhotoviť pre objednávateľa elektronické formuláre, ktoré sú
+kompatibilné s eForm modulom ÚPVS,
+sú v súlade s požiadavkami všeobecne
+záväzných právnych predpisov, ktoré sa na ne vzťahujú (vrátane výnosu Ministerstva
+financií Slovenskej republiky č. 55/2014 Z. z. o štandardoch pre informačné systémy
+verejnej správy v znení neskorších predpisov, zákona č. 275/2006 Z. z. o
+informačných systémoch verejnej správy a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov, zákona o e-Governmente) berúc do úvahy aj ich
+novelizácie, ku ktorým dôjde v čase do prevzatia Diela ako celku podľa článku IV.
+tejto zmluvy (najmä výnos Ministerstva financií Slovenskej republiky pre investície a
+informatizáciu č. 55/2014 Z.z. o štandardoch pre informačné systémy verejnej
+správy). Elektronické formuláre pozostávajú zo:
+a) Vstupných formulárov:
+i. podávanie petícií na Protimonopolný úrad Slovenskej republiky
+(3-5 polí, vloženie prílohy),
+ii. podávanie
+sťažností
+na
+Protimonopolný
+úrad
+Slovenskej
+republiky (3-5 polí, vloženie prílohy),
+iii. podávanie oznámení na Protimonopolný úrad Slovenskej
+republiky (8-10 polí, ComboBox pre výber typu oznámenia,
+vloženie prílohy),
+iv. podávanie žiadostí na Protimonopolný úrad Slovenskej republiky
+(8-10 polí, ComboBox pre výber typu žiadosti, vloženie prílohy).
+b) Výstupných formulárov:
+i. odpoveď (8-10 polí, ComboBox pre výber typu odpovede,
+vloženie prílohy),
+ii. oznámenie (8-10 polí, ComboBox pre výber typu odpovede,
+vloženie prílohy),
+iii. rozhodnutie (8-10 polí, vloženie prílohy),
+iv. výzva (8-10 polí, ComboBox pre výber typu odpovede, vloženie
+prílohy).
+Proces zhotovenia formulárov zhotoviteľom pozostáva z:
+a) analýzy požiadaviek objednávateľa (špecifikácia dátových typov formulára,
+povinnosť polí, opakovateľné sekcie, validácie pre jednotlivé polia formulárov),
+b) návrhu dátovej štruktúry formulárov v súlade s bodom 2 tohto článku zmluvy,
+c) odsúhlasenia vizualizácie objednávateľom a
+d) vytvorenie formulárov (vrátane podporných XML, XSD, XSLT súborov).
+
+Implementačná podpora a testovanie pri nasadení formulárov na ÚPVS pozostáva z:
+a) konzultačnej podpory k registrácii formulárov na ÚPVS,
+b) podpory k aplikovaniu funkcie fikcie doručenia (na vybrané formuláre),
+c) podpory k podaniu žiadosti o zaregistrovanie súvisiacej koncovej služby ÚPVS
+a
+d) konzultačnej podpory pri implementácii kvalifikovanej elektronickej pečate na
+vybrané formuláre.
+Služby
+implementačnej
+a konzultačnej
+podpory
+budú
+poskytované
+primárne
+telefonickou alebo mailovou formou.
+
+Článok II.
+Čas a miesto plnenia
+Zhotoviteľ sa zaväzuje poskytnúť plnenie podľa tejto zmluvy v sídle objednávateľa,
+ktoré je uvedené v záhlaví tejto zmluvy.
+
+Zhotoviteľ sa zaväzuje poskytnúť plnenie podľa tejto zmluvy v nižšie uvedených
+lehotách, resp. termínoch (kde D predstavuje dátum účinnosti tejto zmluvy a číslom
+je vyjadrený počet pracovných dní - WD):
+
+Časová
+Term ín
+
+ETAPA
+
+n áročn osť
+WD
+
+analýza požiadaviek úradu
+
+D+2
+
+1.
+
+2
+
+vypracovanie návrhu dátovej štruktúry formulárov
+
+D+7
+
+1.
+
+5
+
+odsúhlasenie vizualizácie (zabezpečuje PMÚ SR)
+
+D + 10
+
+1.
+
+3
+
+vytvorenie formulárov
+
+D+25
+
+1.
+
+15
+
+nasadenie a podpora
+
+D+50
+
+2.
+
+25
+
+testovanie
+
+D+50
+
+2.
+
+25
+
+Plnenie
+
+2.1.
+
+Nutným predpokladom pre nasadenie formulárov a podporu v termíne
+uvedenom v tabuľke je poskytnutie súčinnosti zo strany objednávateľa a to
+konkrétne:
+2.1.1 registrácia služieb v m etalS pre každý jeden form ulár a nasadenie
+vytvorených formulárov do produkčného prostredia ÚPVS (repozitár
+formulárov) a následne vzájomné prepojenie služieb m etalS a
+formulárov v termíne do D+50.
+2.1.2 zaregistrovanie
+a
+inicializácia
+certifikátu
+pre
+elektronickú
+kvalifikovanú pečať.
+
+Objednávateľ je oprávnený lehoty uvedené v bode 2 jednostranným úkonom predĺžiť.
+Omeškanie zhotoviteľa v trvaní dlhšom ako 10 pracovných dní sa považuje za
+podstatné porušenie zmluvy, na základe ktorého je objednávateľ oprávnený odstúpiť
+od zmluvy.
+
+Článok III.
+Platobné podm ienky
+Odmena bola zm luvnými stranami dohodnutá vo výške
+8976 eur (slovom:
+osem tisícdeväťstosedem desiatšesť eur) s DPH. Takto dohodnutá výška odmeny je
+konečná a sú v nej zahrnuté všetky a akékoľvek náklady, ktoré zhotoviteľovi vzniknú
+pri plnení zmluvy alebo v súvislosti s jej plnením. Objednávateľ neposkytuje
+preddavok.
+Nárok na odmenu zhotoviteľovi vznikne po bezvýhradnom prebratí diela zo strany
+objednávateľa, resp. po tom, čo budú zapracované pripomienky, na základe
+písomného potvrdenia objednávateľa o tom, že Dielo ako celok mu bolo zhotoviteľom
+poskytnuté riadne a včas (ďalej len „preberací protokol"). Objednávateľ vydá
+preberací protokol po riadnom skontrolovaní plnení do 10 pracovných
+dní od
+poskytnutia všetkých plnení, na ktoré je zhotoviteľ podľa tejto zmluvy povinný.
+
+Prebratím jednotlivých etáp plnenia predmetu zmluvy nevzniká zhotoviteľovi nárok na
+odmenu.
+Objednávateľ sa zaväzuje zaplatiť zhotoviteľovi odmenu na základe riadne vystavenej
+a doručenej faktúry. Faktúra musí obsahovať všetky náležitosti daňového dokladu
+uvedené v ust. § 10 ods. 1 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších
+predpisov a rovnako v ust. § 72 ods. 2 zákona č. 222/2004 Z. z. o dani z pridanej
+hodnoty v znení neskorších predpisov. Súčasťou faktúry je aj preberací protokol
+objednávateľa o riadnom a včasnom plnení zhotoviteľa.
+Zmluvné strany sa dohodli na splatnosti faktúry 30
+dní od doručenia faktúry
+objednávateľovi. Odmena bude uhradená na účet zhotoviteľa, ktorý je uvedený v
+záhlaví tejto zmluvy. Na účely tejto zmluvy sa za dátum úhrady faktúry zo strany
+objednávateľa považuje dátum odpísania platenej sumy z účtu objednávateľa.
+
+Objednávateľ je oprávnený vrátiť bez zaplatenia faktúru, ktorá je nesprávna alebo
+neobsahuje všetky náležitosti uvedené v bode 3 tohto článku zmluvy. Vrátenie
+faktúry je objednávateľ povinný vykonať doporučenou zásielkou alebo osobne
+najneskôr do 14 dní odo dňa jej doručenia objednávateľovi, zhotoviteľ je povinný
+vystaviť novú faktúru s novou lehotou splatnosti. V prípade, že nebude možné doručiť
+zásielku zhotoviteľovi na adresu uvedenú v záhlaví tejto zmluvy, zásielka sa považuje
+za doručenú dňom vrátenia zásielky poštou ako nedoručiteľnej späť na adresu
+objednávateľa. V prípade, že zhotoviteľ zásielku odmietne prevziať alebo ju
+neprevezme v odbernej lehote považuje sa zásielka za doručenú dňom odmietnutia
+prevzatia zásielky vyznačeného na doručenke, resp. dňom vrátenia zásielky poštou
+späť na adresu objednávateľa. Dňom vrátenia faktúry prestáva plynúť doba
+splatnosti. Nová doba splatnosti začína plynúť odo dňa doručenia opravenej faktúry
+objednávateľovi.
+
+Článok IV.
+Práva a povinnosti
+Zhotoviteľ sa pri plnení svojich záväzkov vyplývajúcich mu z tejto zmluvy zaväzuje
+postupovať v súlade s pokynmi objednávateľa.
+Zhotoviteľ sa zaväzuje riadne, včas a s odbornou starostlivosťou splniť všetky svoje
+záväzky, ktoré mu vyplývajú z tejto zmluvy.
+Zhotoviteľ vykoná Dielo na svoje náklady a na svoje nebezpečenstvo.
+Zmluvné strany sú povinné zachovávať povinnosť mlčanlivosti podľa článku VII. tejto
+zmluvy.
+Zhotoviteľ nesie objektívnu zodpovednosť za plnenie záväzkov podľa tejto zmluvy
+a zodpovednosť za škodu aj za každý subjekt, ktorý sa bude na jeho strane podieľať
+na plnení podľa tejto zmluvy, vrátane jeho zamestnancov a subdodávateľov (ďalej len
+„zamestnanec zhotoviteľa").
+Prípadné nároky uplatnené objednávateľom voči
+zamestnancom zhotoviteľa v súvislosti s touto zmluvou je povinný niesť zhotoviteľ.
+Zhotoviteľ je povinný uviesť objednávateľovi zoznam zamestnancov zhotoviteľa.
+Objednávateľ je povinný vykonané Dielo prevziať, ak zodpovedá podmienkam tejto
+zmluvy. O bjednávateľ prevezme Dielo, ktoré je predmetom tejto zmluvy v rámci
+preberacieho konania, ktoré sa ukončuje podpísaním preberacieho protokolu.
+Objednávateľ prevezme Dielo iba ako celok bez akýchkolVek vád a nedorobkov.
+
+Zhotoviteľ vyzve objednávateľa k uskutočneniu preberacieho konania najneskôr v
+lehote stanovenej na dodanie Diela podľa článku II. tejto zmluvy. Objednávateľ si v
+rámci preberacieho konania vyhradzuje 5 pracovných dní na preskúmanie, či dodané
+Dielo zodpovedá predmetu tejto zmluvy a či netrpí zjavnými vadami; za toto
+preskúmavanie nemožno považovať testovanie pri nasadení formulárov na ÚPVS
+podľa článku I. tejto zmluvy, ktoré sa považuje za súčasť Diela. Dielo sa považuje za
+prevzaté bez výhrad, pokiaľ počas preberacieho konania nebude zistený nesúlad voči
+rozsahu zadania a Dielo nevykazuje žiadne zjavné obsahové ani funkčné nedostatky,
+alebo ak objednávateľ zhotoviteľovi písomne neoznámi v lehote 5 pracovných dni
+nesúlad voči rozsahu zadania alebo zistené nedostatky alebo dôvody na neprevzatie
+predmetu v dohodnutom termíne. Za objednávateľa je oprávnený prevziať Dielo
+a podpísať preberací protokol zamestnanec objednávateľa Ing. Branislav Muller, alebo
+ním poverená osoba. Za zhotoviteľa je zodpovednou osobou za podpísanie
+preberacieho protokolu Ing. IgorV ida.
+7.
+
+Objednávateľ nadobúda vlastnícke práva k predmetu zmluvy po zaplatení dohodnutej
+ceny a užívacie práva len čo mu je predmet Zmluvy riadne dodaný a prebratý v
+súlade s ustanoveniami čl. IV, bod 6 tejto Zmluvy.
+
+8.
+
+Objednávateľ sa zaväzuje v súlade s článkom III. tejto zmluvy zaplatiť riadne a včas
+dohodnutú odmenu.
+
+Článok V.
+Autorské práva
+1.
+
+Zmluvné strany majú za to, že výsledkom plnenia podľa tejto zmluvy nebude
+počítačový program chránený podľa zákona č. 185/2015 Z. z. Autorský zákon v znení
+neskorších predpisov, resp. autorské dielo alebo iný predmet chránený právom
+duševného vlastníctva.
+
+2. Ak by v zmysle platných právnych predpisov bol výsledok činnosti zhotoviteľa podľa
+tejto zmluvy (vrátane činnosti zamestnancov zhotoviteľa), t. j. formuláre, chránený
+ako predmet práva duševného vlastníctva, zhotoviteľ súhlasí s tým, že podpisom tejto
+zmluvy udeľuje objednávateľovi k formulárom vzniknutým na základe tejto zmluvy
+nevýhradný súhlas (licenciu) na ich používanie akýmkoľvek známym spôsobom, v
+zmysle § 19 zákona č. 185/2015 Z. z. Autorský zákon v znení neskorších predpisov,
+vrátane, nie však iba, vyhotovovaním rozmnoženín, rozširovaním, spojením s iným
+dielom, spracovaním,
+verejným
+prenosom,
+poskytnutím
+tretím
+osobám
+na
+spracovanie, a to v neobmedzenom rozsahu po celú dobu trvania príslušných práv
+duševného vlastníctva. Zhotoviteľ dáva v takomto rozsahu súhlas objednávateľovi na
+udeľovanie súhlasu (sublicencie) tretím osobám na použitie v zmysle predchádzajúcej
+vety, ako aj súhlas na postúpenie tejto licencie na tretie osoby.
+3.
+
+Odplata za udelenie licencie v súlade s týmto článkom zmluvy je zahrnutá v odmene
+podľa článku III. tejto zmluvy a zmluvné strany majú za to a vyhlasujú, že je
+primeraná k rozsahu a spôsobu použitia formulárov.
+
+4.
+
+Zhotoviteľ vyhlasuje, že je oprávnený udeliť súhlas, resp. licenciu podľa tohto článku
+zmluvy a má na tento účel vysporiadané vzťahy so všetkými osobami, ktoré majú
+alebo budú mať práva duševného vlastníctva k formulárom. V prípade, ak sa na
+dodané formuláre viažu autorské práva alebo iné práva duševného vlastníctva tretích
+osôb, zhotoviteľ je povinný ich vysporiadať tak, aby udelená licencia netrpela
+žiadnymi vadami alebo obmedzeniami. Porušenie tohto bodu sa považuje za
+podstatnú vadu. V prípade nezabezpečenia práv duševného vlastníctva zhotoviteľom,
+i napriek tomu, že došlo k vzniku práv duševného vlastníctva, má objednávateľ nárok
+5
+
+na zmluvnú pokutu vo výške 50% celkovej odmeny podľa bodu 1 článku III. tejto
+zmluvy. Uplatnením nároku na zmluvnú pokutu nie je nárok na náhradu škody nijako
+dotknutý.
+
+Článok VI.
+Sankcie a vady Diela
+Ak sa zhotoviteľ omešká s dodaním Diela, zhotoviteľ zaplatí objednávateľovi zmluvnú
+pokutu vo výške 0,05 % z celkovej ceny stanovenej v článku III. bode 1 tejto zmluvy
+za každý deň omeškania. Toto neplatí, ak bola zhotoviteľovi poskytnutá dodatočná
+lehota na odstránenie vád resp. zapracovanie pripomienok, ktoré vznikli poskytnutím
+nepresných alebo neúplných informácií objednávateľom, táto dodatočná lehota sa
+nepočíta do omeškania.
+Zhotoviteľ nie je v om eškaní s predmetnom plnenia po dobu, po ktorú nemohol plniť
+svoju povinnosť, súvisiacu s realizáciou predmetu plnenia tejto zmluvy, následkom
+okolností vzniknutých na strane objednávateľa. V takomto prípade sa lehota plnenia
+predlžuje o dobu prerušenia zo strany objednávateľa. Takéto prerušenia musia byť
+zaznamenané písomne a potvrdené zástupcami zmluvných strán.
+Zmluvné strany sa dohodli, že zhotoviteľ môže od objednávateľa žiadať úroky z
+omeškania vo výške 0,05% z ceny dlžnej čiastky za každý aj začatý deň omeškania
+platby po dobe splatnosti faktúry.
+Povinnosťou uhradiť zmluvnú pokutu podľa tejto zmluvy nie je dotknutý nárok
+objednávateľa na náhradu škody, vrátane škôd, ktorých rozsah presahuje výšku
+zmluvnej pokuty, právo na splnenie porušenej povinnosti, ako ani právo odstúpiť od
+zmluvy.
+Zhotoviteľ sa zaväzuje odstrániť vady Diela bez zbytočného odkladu najviac však do 5
+pracovných dní od ich oznámenia objednávateľom.
+
+Článok VII.
+Povinnosť mlčanlivosti
+Zmluvné strany sa zaväzujú, že všetky podklady súvisiace s realizáciou predmetu
+zmluvy a jeho častí budú uchovávať tak, aby boli chránené pred nepovolanými
+osobami.
+Porušenie zachovania mlčanlivosti sa bude považovať za podstatné porušenie
+zmluvných povinností s možnosťou odstúpenia od zmluvy a vymáhania náhrady škody
+týmto spôsobenej.
+Zmluvná strana nesmie bez predchádzajúceho písomného súhlasu druhej zmluvnej
+strany sprístupniť tretej strane akékoľvek ústne alebo písomné informácie, zmluvnú
+dokumentáciu ako ani vzájomnú korešpondenciu, ktoré získal v súvislosti s plnením
+tejto zmluvy alebo ku ktorým mal počas plnenia alebo v súvislosti s plnením tejto
+zmluvy prístup.
+Zhotoviteľ sa zaväzuje, že informácie uvedené v bode 3. tohto článku zmluvy najmä:
+a) nezneužije v neprospech objednávateľa, tieto informácie budú použité len na
+účely plnenia tejto zmluvy,
+
+b) neprezradí,
+neposkytne, nebude rozmnožovať, distribuovať alebo používať
+tieto informácie na iné účely, ako plnenie tejto zmluvy,
+c) nepovolí a neumožní tretej strane, aby študovala, prezradila, poskytovala,
+rozmnožovala, distribuovala alebo používala tieto informácie.
+5.
+
+Za porušenie mlčanlivosti sa nepovažuje poskytnutie informácií uvedených v tomto
+článku zmluvy na základe povinnosti uloženej všeobecne záväzným právnym
+predpisom orgánom, ktoré sú na vyžiadanie takýchto informácií oprávnené v zmysle
+všeobecne záväzných právnych predpisov. Pred poskytnutím takýchto informácií musí
+zhotoviteľ inform ovať objednávateľa o vyžiadaní informácie a o rozsahu informácií,
+ktoré boli vyžiadané.
+
+6.
+
+Povinnosť mlčanlivosti trvá bez ohľadu na ukončenie účinnosti alebo platnosti tejto
+zmluvy. Táto povinnosť pretrváva aj po skončení rokovaní a prípadného zmluvného
+vzťahu medzi zmluvnými stranami a prechádza aj na právnych nástupcov zmluvných
+strán.
+
+7.
+
+Zhotoviteľ zodpovedá za porušenie svojej povinnosti mlčanlivosti podľa tohto článku,
+a to aj za porušenie mlčanlivosti zamestnancami zhotoviteľa. O bjednávateľ zodpovedá
+za porušenie svojej povinnosti mlčanlivosti podľa tohto článku, a to aj za porušenie
+mlčanlivosti svojimi zamestnancami.
+
+8.
+
+Zmluvné strany sa dohodli, že v prípade porušenia povinností zhotoviteľa uvedených
+v tomto článku zmluvy dôjde k ohrozeniu bezpečnosti objednávateľa, jeho
+informačného systému alebo ohrozeniu či narušeniu integrity informačného systému
+objednávateľa, je objednávateľ oprávnený uplatniť si voči zhotoviteľovi zmluvnú
+pokutu vo výške
+2000 € (slovom: dvetisíc eur) pre každý jednotlivý prípad takéhoto
+porušenia zmluvy. Povinnosťou uhradiť zmluvnú pokutu podľa predchádzajúcej vety
+nie je dotknutý nárok objednávateľa na náhradu škody, vrátane škôd, ktorých rozsah
+presahuje výšku zmluvnej pokuty, ako ani právo odstúpiť od zmluvy.
+
+9.
+
+Zhotoviteľ nie je oprávnený vyhotovovať si kópie žiadnych počítačových údajov
+objednávateľa prenášať alebo ich distribuovať.
+Zaznam enať si prístupové alebo
+autorizačné heslá alebo kódy, môže zhotoviteľ iba vtedy, keď je to nevyhnutné na
+dodanie Diela a objednávateľ je o tom upovedomený. V prípade porušenia zákazu
+podľa tohto bodu je objednávateľ oprávnený uplatniť si voči zhotoviteľovi zmluvnú
+pokutu vo výške 2000 € (slovom dvetisíc eur) pre každý jednotlivý prípad takéhoto
+porušenia zmluvy. Povinnosťou uhradiť zmluvnú pokutu podľa predchádzajúcej vety
+nie je dotknutý nárok objednávateľa na náhradu škody, vrátane škôd, ktorých rozsah
+presahuje výšku zmluvnej pokuty, ako ani právo odstúpiť od zmluvy.
+
+10. Zhotoviteľ je povinný oboznám iť sa s bezpečnostnou politikou objednávateľa podľa
+dokumentácie poskytnutej zo strany objednávateľa; s bezpečnostnou politikou
+objednávateľa a o povinnostiach z nej vyplývajúcich je povinný oboznám iť sa každý
+zamestnanec zhotoviteľa. Objednávateľ môže zhotoviteľa oboznám iť aj s inými
+internými pravidlami. Zhotoviteľ musí pri dodávaní Diela dbať na všetky interné
+predpisy objednávateľa, s ktorými bol oboznámený.
+11. Porušením mlčanlivosti podľa tohto článku nie je plnenie si povinností objednávateľa
+ako povinnej osoby podľa zákona č. 211/2000 Z.z. o slobodnom prístupe k
+informáciám a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v
+znení neskorších predpisov, jeho povinnosti zverejniť túto zmluvu v Centrálnom
+
+registri zmlúv ani iných povinností, ktoré pre neho vyplývajú z platných právnych
+predpisov.
+
+Článok VIII.
+Kontaktné osoby
+Zmluvné strany sa na účely komunikácie v súvislosti s plnením podľa tejto zmluvy
+dohodli na nasledovných kontaktných údajoch:
+Objednávateľ: Protimonopolný úrad Slovenskej republiky
+Adresa: Drieňová 24, 826 03 Bratislava, Slovenská republika
+Kontaktná osoba: T
+Zhotoviteľ: ICZ Slovakia a.s.
+Adresa: Soblahovská 2050, 911 01 Trenčín
+Kontaktná osoba: I
+Zmluvná strana má povinnosť oznámiť najneskôr do siedmich dní druhej zmluvnej
+strane zmenu kontaktných údajov uvedených v bode 1 tohto článku zmluvy.
+
+Článok IX.
+Záverečné ustanovenia
+Zhotoviteľ sa zaväzuje konať tak, aby nedošlo k úniku informácií súvisiacich
+predmetom zmluvy a k ohrozeniu bezpečnosti objednávateľa.
+
+s
+
+Zhotoviteľ nemôže preniesť práva a povinnosti z tejto zmluvy na tretiu osobu bez
+predchádzajúceho písomného súhlasu objednávateľa.
+Práva a záväzky zmluvných strán podľa ustanovení zmluvy, z ktorých povahy vyplýva
+nárokovateľnosť zmluvnej strany aj po skončení tejto zmluvy, zostanú v platnosti aj
+po ukončení tejto zmluvy. Budú záväzné pre zmluvné strany, ich právnych nástupcov
+a osoby, na ktoré budú prevedené práva zmluvných strán.
+Členenie tejto zmluvy do článkov, odsekov a bodov a zaradenie nadpisov je vykonané
+výlučne na účely uľahčenia orientácie a nemá vplyv na význam alebo výklad zmluvy.
+Výrazy „táto zmluva", tejto zmluvy", „podľa tejto zmluvy" a podobné výrazy sa týkajú
+tejto zmluvy a nie konkrétneho jej článku alebo jej časti a zahŕňajú aj akékolVek iné
+zmluvy, dodatky alebo iné dokumenty, ktoré menia rozširujú alebo inak menia túto
+zmluvu.
+Slová vyjadrujúce iba jednotné číslo zahŕňajú aj množné číslo a naopak, slová
+vyjadrujúce mužský rod zahŕňajú aj ženský a stredný rod a naopak, výrazy
+vyjadrujúce osoby zahŕňajú fyzické osoby aj právnické osoby a naopak.
+Všetky odkazy v tejto zmluve na zákony budú vykladané ako odkazy na zákony v
+platnom a účinnom znení a všetky odkazy na časti, články, body odseky a prílohy
+budú vykladané ako odkazy na odkazy na časti, články, body, odseky a prílohy tejto
+zmluvy.
+
+8
+
+8.
+
+Stanovenie osobitných prípadov zodpovednosti za škodu a zodpovednosti za vady
+neznižuje a ani neobmedzuje uplatňovanie nárokov zo zodpovednosti za škodu a
+zodpovednosti za vady podľa všeobecne záväzných právnych predpisov.
+
+9. Táto zmluva sa môže meniť na základe písomného dodatku, podpísaného zástupcami
+oboch zmluvných strán.
+10. Ak sa stanú niektoré ustanovenia tejto zmluvy neplatné alebo nevymáhateľné,
+neovplyvní to platnosť a vym áhateľnosť iných ustanovení tejto zmluvy.
+11.Táto zmluva nadobúda platnosť dňom jej podpisu obomi stranami zmluvy a účinnosť
+dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv v súlade s
+platnými právnymi predpismi.
+12. Zmluva je vyhotovená v štyroch vyhotoveniach, po dvoch pre každú stranu zmluvy.
+13. Zmluvné strany tejto zmluvy prehlasujú, že sa riadne oboznámili s jej obsahom, že
+tento obsah zodpovedá ich pravej a slobodnej vôli, považujú ho za určitý a
+zrozumiteľný. Na dôkaz tohto pripájajú vlastnoručné podpisy.
+
+V Bratislave dňa
+
+j
+
+v Bratislave, dňa f y . 2.. 2 (7 /$
+
+objednávateľ
+
+zhotoviteľ
+
+JUDr. Tibor Menyhart
+
+•)
+
+

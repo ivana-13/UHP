@@ -1,0 +1,5357 @@
+Zmluva o v y t v o r e n í , d o d á v k e a i m p l e m e n t á c i i e l e k t r o n i c k é h o dovozu
+p o d ľ a § 269 ods. 2 a nasl. O b c h o d n é h o z á k o n n í k a v platnom z n e n í
+(ďalej aj „zmluva")
+číslo zmluvy objednávateľa:
+
+20f5 l
+
+Objednávateľ:
+
+Slovenská republika zastúpená Ministerstvom financií Slovenskej republiky
+
+Sídlo:
+
+Štefanovičova 5,817 82 Bratislava
+
+Zastúpený:
+
+Ing, Jaroslav Mikla, vedúci služobného úradu
+
+Bankové spojenie:
+IBANfČíslo účtu):
+IČO:
+DIČ:
+IČDPH:
+
+00151 742
+2020798351
+nie je platiteľom DPH
+
+/
+
+(ďalej len „objednávateľ)
+
+Zhotoviteľ:
+
+DITEC, a.s.
+
+Sídlo:
+
+Plynárenská 7/C, 821 09 Bratislava
+
+Zastúpený:
+
+PaedDr. Ivan Súra, predseda predstavenstva
+Ing. Csaba Baráth, podpredseda predstavenstva a generálny riaditeľ
+
+Bankové spojenie:
+IBAN (č. účtu):
+IČO:
+DIČ:
+IČ DPH:
+Zapísaný:
+
+31 385 401
+2020304198
+SK2020304198
+Obchodný register Okresného súdu Bratislava
+oddiel: Sa, vložka číslo : 769/B
+{ďalej len „zhotoviteľ")
+(ďalej aj „zmluvné strany")
+
+Preambula
+Objednávateľ na obstaranie predmetu tejto Zmluvy použil metódu verejného obstarávania - priame
+rokovacie konanie podľa § 58 písmeno b) Zákona č. 25/2006 Z. z. o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov. Zhotoviteľ má na predmet obstarávania autorské práva
+vyplývajúce zo Zmluvy o vytvorení, dodávke a implementácii informačného systému CEP podľa § 269 ods. 2
+a nasl. Obchodného zákonníka v platnom znení. Objednávateľ realizuje rozšírenie funkcionality informačného
+systému CEP o modul elektronického dovozu na základe požiadaviek elektronického colného konania vo
+všetkých colných režimoch podľa Nariadenia Európskeho parlamentu a Rady č. 952/2013.
+
+a) Objednávateľ: verejný obstarávateľ uvedený v záhlaví Zmluvy.
+b) Zhotoviteľ: Zhotovíte!" uvedený v záhlaví Zmluvy.
+c) Projektový manažér objednávateľa: fyzická osoba, ktorá riadi projektový tim pri realizácii plnení zmluvy.
+Voči zhotoviteľovi je primárnou kontaktnou osobou za objednávateľa. V súlade s rozhodnutiami
+Riadiaceho výboru eDovoz kontroluje v mene objednávateľa podľa zmluvy činnosť zhotoviteľa vrátane
+ukladania úloh a písomného preberania dokončených plnení zmluvy, vrátane podpisovania preberacích
+protokolov, akceptačných protokolov a finálneho akceptačného protokolu, monitoruje plnenie detailného
+harmonogramu plnenia a plní ďalšie úlohy v mene objednávateľa podľa zmluvy. Má u
+objednávateľa dostatočné právomoci na základe poverenia alebo na základe výkonu funkcie na všetky
+úkony v mene objednávateľa podľa zmluvy; nemá oprávnenie na podpis dodatku k zmluve resp. na
+uzavretie akejkoľvek dohody so zhotoviteľom, ktorá by znamenala zmenu tejto zmluvy. Poverenej osobe
+objednávateľa predkladá na schválenie akceptačné protokoly alebo finálny akceptačný protokol.
+Projektovému manažérovi zhotoviteľa predkladá schválené akceptačné protokoly alebo finálny
+akceptačný protokol po ich podpise poverenou osobou objednávateľa a oprávnenou osobou
+objednávateľa.
+d) Poverená osoba objednávateľa: fyzická osoba poverená objednávateľom v procese podmienok plnenia
+predmetu zmluvy a akceptácie konať v mene objednávateľa podľa zmluvy. Podpisom schvaľuje
+akceptačné protokoly alebo finálny akceptačný protokol po ich predchádzajúcom podpise projektovým
+manažérom objednávateľa. Následne ich predkladá na schválenie oprávnenej osobe objednávateľa.
+e) Oprávnená osoba objednávateľa: fyzická osoba objednávateľa oprávnená v procese podmienok plnenia
+predmetu zmluvy a akceptácie konať v mene objednávateľa podľa zmluvy. Podpisom finálne schvaľuje
+akceptačné protokoly alebo finálny akceptačný protokol za objednávateľa, po ich predchádzajúcom
+podpise projektovým manažérom objednávateľa a poverenou osobou objednávateľa.
+f) Projektový manažér zhotoviteľa: fyzická osoba, ktorá riadi projektový tím zhotoviteľa pri realizácii plnení
+zmluvy. Voči objednávateľovi je primárnou kontaktnou osobou za zhotoviteľa. Má na základe poverenia
+zhotoviteľa alebo na základe výkonu funkcie u zhotoviteľa dostatočné právomoci na všetky úkony
+v mene zhotoviteľa podľa zmluvy; nemá oprávnenie na podpis dodatku k zmluve resp. na uzavretie
+akejkoľvek dohody s objednávateľom, ktorá by znamenala zmenu tejto zmluvy. Predkladá dokončené
+plnenia zmluvy spolu s Akceptačnými protokolmi alebo Finálny akceptačný protokol po schválení
+poverenou a oprávnenou osobou zhotoviteľa na schválenie projektovému manažérovi objednávateľa.
+g) Poverená osoba zhotoviteľa: fyzická osoba oprávnená v procese podmienok plnenia predmetu zmluvy a
+akceptácie konať v mene zhotoviteľa podľa zmluvy. Podpisom schvaľuje akceptačné protokoly alebo
+finálny akceptačný protokol po ich predchádzajúcom podpise projektovým manažérom zhotoviteľa.
+Následne ich predkladá na schválenie oprávnenej osobe zhotoviteľa.
+h) Oprávnená osoba zhotoviteľa: fyzická osoba oprávnená v procese podmienok plnenia predmetu zmluvy,
+akceptácie a preberacieho konania konať v mene zhotoviteľa podľa zmluvy. Podpisom finálne schvaľuje
+akceptačné protokoly alebo finálny akceptačný protokol za zhotoviteľa, po ich predchádzajúcom podpise
+projektovým manažérom zhotoviteľa a poverenou osobou zhotoviteľa.
+i) Riadiaci výbor eDovoz: orgán riadenia realizácie predmetu zmluvy zložený zo zástupcov objednávateľa
+a zhotoviteľa.
+j) Globálny harmonogram: harmonogram časového, finančného a vecného plnenia, je predkladaný
+Riadiacemu výboru projektu a sumarizuje hlavné míľniky projektu na úrovni: obsah dodávky, čas (kedy je
+míľnik plánovaný) a fakturovaná výška prostriedkov v míľniku. Globálny harmonogram a jeho zmeny
+odsúhlasuje Riadiaci výbor eDovoz. Spoločným menovateľom možných zmien je snaha o zladenie
+dodávaných plnení (v zmysle progresu prác na projekte).
+
+k) Detailný harmonogram plnenia: je používaný na úrovni projektového manažmentu za účelom
+operatívneho riadenia projektu, jeho zmena je operatívna, bez potreby schvaľovania, pokiaľ nemá vplyv
+na rozsah projektu alebo finančné riadenie projektu.
+I) Fakturačný míľnik: termín, v ktorom je zhotoviteľ oprávnený t a k t o v a ť v zmysle plnenia predmetu zmluvy
+v súlade s globálnym harmonogramom a na základe podpísaného akceptačného protokolu.
+
+ČI. I.
+1.
+
+Účel zmluvy
+
+Účelom tejto zmluvy je upraviť práva a povinnosti zmluvných strán pri vytvorení, dodávke a implementovaní
+informačného systému elektronického dovozu rozšírením služieb IS CEP o tzv. modul elektronického dovozu
+(ďalej len „eDovoz") s cieľom vytvoriť taký systém, ktorý predstavuje automatizáciu colného dohľadu nad
+dovozom tovaru a ktorý predstavuje podporu aplikácie postupov a pravidiel uplatňovaných pri dovoze tovaru
+v súlade s colnými predpismi a komunikačné rozhranie pre obchodníkov externej domény komunikujúcich s
+colným úradom dovozu v štandardnom a zjednodušenom postupe pre všetky režimy vrátane ekonomických
+režimov a evidencie neobchodného tovaru.
+
+ČI. II.
+1.
+
+Predmet zmluvy
+
+Zhotoviteľ sa touto zmluvou zaväzuje vytvoriť, dodať a implementovať pre objednávateľa eDovoz a integrovať
+ho na informačný systém Centrálneho elektronického priečinku (Síngle Window) ariadnea včas ho odovzdať
+objednávateľovi (ďalej len „predmet zmluvy" alebo „eDovoz"). Objednávateľ sa zaväzuje predmet zmluvy
+alebo jeho časť prevziať a zaplatiť zhotoviteľovi cenu podľa čl. VI tejto zmluvy.
+
+ČI. III.
+
+Vykonanie predmetu zmluvy
+
+1.
+
+Zhotoviteľ sa zaväzuje vykonať pre objednávateľa dielo v súlade s opisom predmetu zákazky, uvedeného v
+prílohe č. 1 tejto zmluvy, ktorá tvorí jej neoddeliteľnú súčasť.
+
+2.
+
+Zhotoviteľ sa zaväzuje v časti:
+2.1 Analýza:
+a) vykonať analýzu zoznamu požiadaviek objednávateľa a na jej základe vypracovať Detailnú funkčnú
+špecifikáciu (ďalej ako „DFS") eDovoz, t.j. detailnú špecifikáciu funkcionality eDovoz vo forme UML
+modelov (typové úlohy, diagram tried, stavové diagramy a sekvenčné diagramy) tak, aby bola
+zabezpečená konzistentnosť špecifikácie riešenia,
+b) vypracovať návrh technického riešenia eDovoz
+Zhotoviteľ zabezpečí vypracovanie Technického návrhu, ktorý bude vyhovovať požiadavkám popísaným
+v zozname požiadaviek objednávateľa a zároveň definovať integráciu s IS CEP ako aj parciálne využitie
+stávajúcich modulov IS CEP pre submoduly eDovoz. Súčasťou predmetu plnenia je:
+•
+•
+•
+
+návrh aplikačnej architektúry vrátane návrhu HW, systémového SW vybavenia a aplikačného SW
+vybavenia,
+návrh správy užívateľov a užívateľských profilov (profiling),
+technologický návrh riešenia a predpokladov na dosiahnutie výkonnostných požiadaviek na eDovoz,
+
+c) vypracovať Implementačný plán projektu vrátane detailného harmonogramu plnenia,
+d) poskytnúť asistenciu riadenia - detailného konceptu a implementačného plánu, DFŠ a TN.
+2.2 Implementácia:
+•
+
+1. časť vývoja: inštalovať a dodať funkčný prototyp modulu eDovoz, vypracovať Bezpečnostný zámer,
+poskytnúť asistenciuriadeniafunkčného prototypu a bezpečnostného projektu,
+
+•
+
+2. časť vývoja: inštalovať, integrovať a otestovať modul eDovoz vrátane udelenia licencie za podmienok
+definovaných v článku X. tejto zmluvy, vypracovať Plán akceptačného testovania a Analýzu bezpečnosti
+IS, poskytnúť asistenciu riadenia modulu eDovoz, bezpečnostného projektu a plánu akceptačného
+testovania.
+
+2.3 Akceptačné testovanie a nasadenie modulu eDovoz do produkcie:
+a) vyhotoviť dokumentáciu eDovoz, vrátane dokumentácie k APV:
+•
+•
+•
+
+technická dokumentácia,
+prevádzková dokumentácia,
+používateľská dokumentácia.
+b) vypracovať Závery vyplývajúce z bezpečnostného zámeru a analýzy bezpečnosti IS,
+
+c) uskutočniť školenia školiteľov objednávateľa, resp. ním určených osôb na prácu s eDovoz,
+d) odstrániť ohlásené vady vzniknuté počas akceptačného testovania,
+e) poskytnúť asistenciu riadenia migrácie údajov, školení školiteľov a technického personálu a podpory
+a stabilizácie.
+2.4 Zhotoviteľ sa zaväzuje poskytnúť objednávateľovi 90-dňovú intenzívnu prevádzkovú podporu rozdelenú
+na dve časti:
+a) intenzívna prevádzková podpora 45 dní po implementácii 1. časti vývoja a jej uvedení do prevádzky
+(prototyp modulu eDovoz) v zmysle bodu 2.2. tohto článku,
+b) intenzívna prevádzková podpora 45 dní po implementácii 2. časti vývoja a jej uvedení modulu eDovoz
+do prevádzky v zmysle bodu 2.2. tohto článku.
+3. Zhotoviteľ sa zaväzuje vypracovať globálny harmonogram časového, finančného a vecného plnenia
+predmetu zmluvy, ktorého počiatočný míľnik je deň nadobudnutia účinnosti zmluvy. Schválenie uvedeného
+harmonogramu je podmienené rozhodnutím Riadiaceho výboru eDovoz.
+4.
+
+Počas vykonávania predmetu zmluvy podľa tohto bodu sa zhotoviteľ zaväzuje vykonávať priebežné
+testovacie práce {najmä pri dodávke a uvádzaní eDovoz do prevádzky) príslušných produktov/komponentov
+uvedených v tomto článku, ako aj v súvisiacich článkoch zmluvy a poskytovať asistenciu počas vykonávania
+predmetu zmluvy.
+
+5.
+
+Pri vykonávaní predmetu zmluvy postupuje zhotoviteľ samostatne a v súlade s pokynmi objednávateľa.
+Pokyny pre výkon predmetu zmluvy budú odsúhlasené oboma zmluvnými stranami pri ich zadaní na
+úvodnom stretnutí.
+
+6.
+
+Zhotoviteľ je povinný upozorniť objednávateľa bez zbytočného odkladu na nevhodnú povahu pokynov daných
+mu objednávateľom na úvodnom stretnutí na vykonanie predmetu zmluvy, ak zhotoviteľ mohol túto
+nevhodnosť zistiť pri vynaložení odbornej starostlivosti. V prípade, ak zhotoviteľ zistí nevhodnosť pokynov pri
+realizácii predmetu zmluvy, je zhotoviteľ povinný jeho vykonávanie v nevyhnutnom rozsahu prerušiť do doby
+zmeny pokynov objednávateľa alebo písomného oznámenia, že objednávateľ trvá na vykonávaní predmetu
+zmluvy s použitím daných pokynov. O dobu, po ktorú je potrebné vykonávanie predmetu zmluvy prerušiť, sa
+predlžuje lehota určená na vykonanie predmetu zmluvy.
+
+7. Ak si zhotoviteľ splní povinnosť uvedenú v predchádzajúcom bode, nezodpovedá za nemožnosť dokončenia
+predmetu zmluvy alebo za vady dokončeného eDovoz spôsobené nevhodnými pokynmi, ak objednávateľ na
+ich použití pri vykonávaní predmetu zmluvy písomne trval.
+8. Predmetom plnenia Zhotoviteľa nebude dodávka hardvéru, správa a údržba informačného systému, okrem
+poskytnutia 90 dňovej intenzívnej prevádzkovej podpory podľa bodu 2.4 tohto článku.
+ČI. IV.
+1.
+
+Miesto plnenia
+
+Miesta plnenia sú:
+
+a) Ministerstvo financií SR, Štefanovičová 5, Bratislava 15, Slovenská republika,
+b) Finančné riaditeľstvo SR, Mierová 23, Bratislava, Slovenská republika,
+c) Finančné riaditeľstvo SR, Nová ul.13, Banská Bystrica, Slovenská republika,
+d) DataCentrum, Cintorínska 5, Bratislava, Slovenská republika.
+ČI. V.
+1.
+
+2.
+
+Termíny plnenia
+
+Termíny plnenia:
+a)
+
+predmet zmluvy bude zhotoviteľom riadne vykonaný v termíne do 24 mesiacov od nadobudnutia
+účinnosti tejto zmluvy,
+
+b)
+
+predmet zmluvy bude objednávateľovi odovzdaný po etapách (čiastkových plneniach) v termínoch pre
+jednotlivé čiastkové plnenia, ako to vyplýva z článku III. bod 2. v spojení s článkom VIII. tejto zmluvy
+a z globálneho harmonogramu vypracovaného Zhotoviteľom podľa článku III. bod 3 zmluvy, ktorého
+počiatočný míľnik je deň nadobudnutia účinnosti tejto zmluvy.
+
+Dodržanie globálneho harmonogramu plnenia je závislé na včasnom a riadnom splnení si povinností
+objednávateľa vyplývajúcich z článku XV. tejto zmluvy, ktoré sú potrebné alebo odôvodnene požadované
+zhotoviteľom, ako i v poskytnutí ďalšej primeranej súčinnosti.
+
+ČI. VI.
+
+Cena za predmet zmluvy a odmena za udelenie súhlasu na použitie APV
+
+1.
+
+Zmluvné strany sa dohodli, že celková zmluvná cena za predmet plnenia tejto Zmluvy je stanovená dohodou
+zmluvných strán podľa zákona č. 18/1996 Z.z. o cenách a vyhlášky Ministerstva financií SR č. 87/1996 Z.z.
+ktorou sa vykonáva zákon č. 18/1996 Z.z. o cenách v znení neskorších je 5.485.970,- EUR (slovom
+päťmiliónovštyristoosemdesiatpäťtisícdeväťstosedemdesiat EUR) bez DPH.
+
+2.
+
+Cena bude zhotoviteľom fakturovaná a objednávateľom uhradená nasledovne:
+a) za časť predmetu zmluvy podľa článku III. bod 2.1. písm. a) až d) zaplatí objednávateľ zhotovíteľovi
+cenu vo výške 1 332 150,00 € (cena bez DPH),
+b) za časť predmetu zmluvy podľa článku III. bod 2.2. zaplatí objednávateľ zhotovíteľovi cenu vo výške
+3 118 640,00 € (cena bez DPH),
+c) za časť predmetu zmluvy podľa článku III. bod 2.3. písm. a) až e) zaplatí objednávateľ zhotovíteľovi
+cenu vo výške 1 035 180,00 € (cena bez DPH),
+d) časť predmetu zmluvy podľa článku III. bod 2.4. je vo výške 0,00€ a je zakalkulovaná v
+celkovej zmluvnej cene.
+
+3.
+
+V celkovej zmluvnej cene sú zahrnuté všetky náklady zhotoviteľa, spojené s vykonaním predmetu zmluvy,
+vrátane udelenia všetkých licencií vytvoreného aplikačného vybavenia.
+
+4.
+
+Cena bude zhotoviteľom fakturovaná a objednávateľom uhradená na základe čiastkových faktúr vystavených
+v súlade s Prílohou č.2 a v súlade s čl. VIII. tejto Zmluvy.
+
+5. Objednávateľ sa zaväzuje uhradiť cenu s pripočítaním DPH v zákonom stanovenej výške po protokolárnom
+prevzatí časti predmetu zmluvy a to na základe faktúr vystavených zhotoviteľom. Akceptačný protokol bude
+vystavený v zmysle čl. VIII tejto zmluvy a bude tvoriť prílohu k faktúre.
+6.
+
+Dodatok, ktorým by sa zvyšovala cena plnenia alebo jeho časti, je možné uzatvoriť len v súlade
+s aplikovateľnými právnymi predpismi, platnými na území Slovenskej republiky.
+
+7.
+
+Podrobný rozpočet plnenia zhotoviteľa podľa čl. III bod 2 tvorí Prílohu č.2 tejto zmluvy.
+
+Čl. VII.
+
+Platobné podmienky a fakturácia
+
+1.
+
+Objednávateľ je povinný zaplatiť zhotovíteľovi cenu za predmet zmluvy (alebo jeho časť) uvedenú v článku
+VI. do 30 dní od doručenia faktúry prevodom na účet zhotoviteľa uvedený v záhlaví tejto zmluvy,
+s prihliadnutím na znenie bodu 3 tohto článku. Za deň doručenia sa považuje deň doručenia faktúry do sídla
+objednávateľa. Neoddeliteľnou súčasťou faktúry bude potvrdený protokol podľa čl. VIII. tejto zmluvy.
+
+2.
+
+Pokiaľ nie je dohodnuté inak, nárok zhotoviteľa na vystavenie faktúry vzniká v deň akceptácie príslušného
+čiastkového plnenia.
+
+3. Ak sa po plnení zhotoviteľa má uskutočniť prehliadka plnenia na účel zistenia či zhotoviteľ plnil riadne, je
+objednávateľ v zmysle § 340b ods. 3 Obchodného zákonníka povinný plniť peňažný záväzok v lehote
+splatnosti 30 dní odo dňa skončenia prehliadky, ktorou sa zistilo riadne plnenie, tj. odo dňa podpísania
+akceptačného protokolu.
+4.
+
+Cena za predmet zmluvy bude objednávateľom uhradená výlučne zhotovíteľovi podľa tejto zmluvy a v zmysle
+Prílohy č.2 tejto zmluvy Podrobný rozpočet projektu v príslušnej časti vždy po akceptácii príslušného
+čiastkového plnenia zhotoviteľa v súlade s článkom VI. tejto zmluvy a s globálnym harmonogramom
+uvedeným v článku V. tejto zmluvy.
+
+5.
+
+Podkladom pre zaplatenie ceny bude faktúra, vystavená zhotoviteľom v súlade so zákonom č. 222/2004 Z. z.
+o dani z pridanej hodnoty v znení neskorších predpisov vždy po akceptácii čiastkového plnenia. Faktúra bude
+obsahovať aj číslo zmluvy objednávateľa. V deň fakturácie bude fakturovaná DPH v sadzbe podľa platného
+zákona o dani z pridanej hodnoty.
+
+6.
+
+Ak bude faktúra obsahovať nesprávne alebo neúplné údaje, má objednávateľ právo v lehote splatnosti
+faktúru vrátiť zhotovíteľovi s uvedením nesprávnych alebo neúplných údajov. Zhotoviteľ daňový doklad faktúru opraví, alebo vystaví novú a doručí objednávateľovi. Dňom vystavenia opravenej alebo novovystavenej faktúry začína plynúť nová lehota splatnosti.
+
+7.
+
+Každý z peňažných záväzkov objednávateľa bude platený prostredníctvom banky a ako taký bude splnený
+pripísaním príslušnej sumy (vrátane DPH) na účet zhotoviteľa.
+
+8.
+
+Zhotoviteľ môže prerušiť plnenie, ak objednávateľ ani po písomnom upozornení neuhradí akúkoľvek splatnú
+čiastku podľa tejto zmluvy ani v náhradnej lehote určenej zhotoviteľom v takom upozornení.
+
+ČI. VIII.
+
+Akceptácia a preberacie konanie
+
+1.
+
+Preberanie predmetu zmluvy alebo jeho časti sa bude vykonávať v postupných krokoch v súlade s etapami
+a termínmi špecifikovanými v globálnom harmonograme vypracovanom podľa článku III. bod 3 zmluvy. Každé
+čiastkové plnenie predmetu zmluvy sa bude považovať za dokončené po jeho akceptácii. Zmluvné strany
+o tom podpíšu akceptačný protokol. Dielo sa bude považovať za riadne vykonané po finálnej akceptácii
+posledného čiastkového plnenia. Zmluvné strany o tom podpíšu finálny akceptačný protokol, ktorým potvrdia
+funkcionalitu eDovoz v súlade so zmluvou a jej prílohami, ako aj úspešnú implementáciu eDovoz a jeho
+integráciu s ostatnými IS VS v zmysle schválenej DFŠ. Objednávateľ si vyhradzuje právo neprevziať predmet
+zmluvy alebo jeho časť, ak vykazuje zrejmé vady, ktoré bránia uvedeniu diela do jehoriadnejprevádzky.
+
+2.
+
+Pokiaľ nie je alebo nebude dohodnuté inak, preberanie čiastkových plnení podliehajúcich preberacím testom,
+sa uskutoční na základe kladného výsledku akceptačného testu príslušného čiastkového plnenia, ktorý bude
+dohodnutý medzi stranami, pričom test funkčnosti bude spočívať v preskúšaní, či predmetná časť eDovoz
+spĺňa funkcie špecifikované v prílohe č. 1 tejto zmluvy a nevykazuje vady znemožňujúce alebo podstatne
+obmedzujúce jej prevádzkovanie. Objednávateľ si vyhradzuje právo neprevziať čiastkové plnenie, ak
+vykazuje technologické a/alebo funkčné vady.
+
+3.
+
+V prípade oneskorenia dodávky predmetu plnenia alebo jeho časti, ktoré nebude spôsobené zavinením
+zhotoviteľa, sa lehota na plnenie primerane predĺži dohodou oboch strán, najmenej však o dobu zdržania
+nezavineného zhotoviteľom.
+
+4.
+
+Projektový manažér, poverená osoba a oprávnená osoba zo strany objednávateľa a/alebo zhotoviteľa bude
+druhej zmluvnej strane oznámená do 5 pracovných dní od nadobudnutia účinnosti zmluvy spolu so
+
+základnými kontaktnými údajmi (telefón ae-mail). Každá zo zmluvných strán oznámi druhej zmluvnej strane
+do piatich pracovných dní každú zmenu kontaktnej osoby.
+5.
+
+Bližší popis akceptácie a preberania eDovoz je uvedený v prílohách č. 4 a 5 tejto zmluvy, ktoré tvoria jej
+neoddeliteľnú súčasť.
+
+Čl. IX.
+
+Zmenové konanie
+
+1.
+
+Pokiaľ nie je stanovené inak v tejto zmluve, zmeny zmluvy s dopadom na predmet a cenu zmluvy a/alebo
+termín finálnej akceptácie predmetu zmluvy, budú dohodnuté vždy iba písomnými dodatkami k tejto zmluve,
+podpísanými oprávnenými zástupcami zmluvných strán. Takéto zmeny zmluvy budú možné len na základe
+analýzy, ak z jej výsledkov vyplynie nutnosť zmeny zmluvy s dopadom na predmet a cenu zmluvy a/alebo
+termín finálnej akceptácie predmetu zmluvy.
+
+2.
+
+Požiadavky na zmenu zmluvy, ktoré nemajú dopad na predmet zmluvy alebo termín finálnej akceptácie
+zmluvy (zmena menšieho rozsahu) schvaľuje riadiaci výbor eDovoz. Žiadna zmena rozsahu dodávky nebude
+účinná pokiaľ nebude dohodnutá v súlade s touto zmluvou. Bližší postup zmenového konania je popísaný
+v prílohe č. 3 tejto zmluvy, ktorá tvorí jej neoddeliteľnú súčasť.
+
+3. Ak dôjde k dohode o zmene rozsahu predmetu zmluvy, a z toho vyplývajúcich zmien podmienok plnenia
+zhotoviteľa, riadi sa zmenená časť predmetu zmluvy tam, kde nebolo dohodnuté inak, pôvodnými
+ustanoveniami tejto zmluvy.
+4.
+
+Zhotoviteľ bude realizovať zmeny či doplnky v predmete zmluvy iba v tom prípade, že bude dosiahnutá
+dohoda v otázkach zmien termínov a zvýšenia či zníženia ceny predmetu zmluvy, alebo ďalších podmienok
+zmeneného plnenia zhotoviteľa. Bez ohľadu na iné ustanovenia, v prípade zmeny inej ako menšieho
+rozsahu, bude zmena realizovaná až na základe samostatného postupu, výsledkom ktorého bude uzavretie
+písomného dodatku, alebo uzavretie samostatnej zmluvy na také zmenené plnenie, a to v prípade ak tak
+rozhodne objednávateľ.
+
+Čl. X.
+Práva a povinnosti objednávateľa a zhotoviteľa vo vzťahu k d o d a n é m u a k
+nadobudnutému aplikačnému programovému vybaveniu a majetkové práva
+1.
+
+Objednávateľ je na základe tejto zmluvy oprávnený užívať aplikačné programové vybavenie dodané na
+základe tejto zmluvy vrátane projektovej a užívateľskej dokumentácie bez časového obmedzenia a
+spôsobom uvedeným v tomto článku zmluvy, v súlade s príslušnými ustanoveniami autorského zákona.
+
+2.
+
+Objednávateľ je oprávnený:
+a) používať aplikačné programové vybavenie na svojich pracovných staniciach a serveroch a pracovných
+staniciach a serveroch osôb bez obmedzenia počtu používateľov aplikačného programového vybavenia,
+b) zhotoviť a udržiavať zálohové kópie originálneho aplikačného programového vybavenia len pre
+zabezpečovací účel, alebo na nahradenie oprávnene nadobudnutej inštalácie aplikačného programového
+vybavenia, ak sa pôvodná inštalácia zničila alebo inak poškodila.
+
+3.
+
+Objednávateľ sa spolu so zhotoviteľom stáva nositeľom autorského práva k aplikačnému programovému
+vybaveniu vytvorenému zhotoviteľom výhradne pre účely eDovoz v rámci tejto zmluvy, vrátane projektovej a
+užívateľskej dokumentácie a ostatných predmetov tvoriacich súčasť diela chráneného autorskými právami.
+
+4.
+
+Objednávateľ ani zhotoviteľ nie sú oprávnení bez predbežného súhlasu druhej strany:
+a) prenajímať, vypožičiavať alebo iným spôsobom sprístupňovať aplikačné programové vybavenie tretím
+stranám, alebo poskytovať oprávnenie na jeho užívanie; súhlas nie je potrebný, ak treťou stranou je
+inštitúcia verejnej správy, používajúca eDovoz,
+b) poskytovať resp. sprístupňovať tretím stranám projektovú a užívateľskú dokumentáciu vytvorenú v
+súvislosti s tvorbou aplikačného programového vybavenia; súhlas nie je potrebný, ak treťou stranou je
+inštitúcia verejnej správy, používajúca eDovoz,
+
+c) vykonávať, alebo si objednať spätnú analýzu aplikačného programového vybavenia realizovaného
+zhotoviteľom s cieľom vytvoriť konkurenčný produkt; tým nie je dotknuté právo objednávateľa podľa § 36
+Autorského zákona.
+5.
+
+Zhotoviteľ vyhlasuje, a zmluvné strany berú na vedomie a súhlasia s tým, že k jednotlivým plneniam (vrátane
+ich akýchkoľvek súčastí zahŕňajúcich tiež software) dodaným alebo poskytnutým zhotoviteľom
+objednávateľovi podľa tejto zmluvy na základe licencií udelených zhotovíteľovi tretími osobami, ktoré k ním
+majú a/alebo vykonávajú autorské práva a/alebo práva priemyselného a/alebo iného duševného vlastníctva,
+zhotoviteľ udeľuje objednávateľovi právo na ich používanie objednávateľom v súlade, v rozsahu, spôsobom
+uvedeným v tejto zmluve.
+
+6.
+
+V prípade, že akákoľvek tretia osoba, vrátane zamestnancov zhotoviteľa a/alebo subdodávateľov, bude mať
+akýkoľvek nárok proti objednávateľovi z titulu porušenia jej autorských práv a/alebo práv priemyselného
+a/alebo iného duševného vlastníctva, zhotoviteľ sa zaväzuje:
+a) bezodkladne obstarať na svoje vlastné náklady a výdavky od takejto tretej osoby súhlas na používanie
+jednotlivých plnení dodaných, poskytnutých, vykonaných a/alebo vytvorených zhotoviteľom,
+subdodávateľom alebo tretími osobami pre objednávateľa, alebo upraviť jednotlivé plnenie(a) dodané,
+poskytnuté, vykonané a/alebo vytvorené zhotoviteľom, subdodávateľom alebo tretími osobami pre
+objednávateľa tak, aby už ďalej neporušovali autorské práva a/alebo práva priemyselného a/alebo iného
+duševného vlastníctva tretej osoby, alebo, ak sa jedná o plnenie poskytnuté na základe licencie tretej
+osoby, taký nárok vyriešiť v súlade s tým, čo pre taký prípad stanovujú jej licenčné podmienky uvedené
+v tejto Zmluve, a ak ich niet, tak v súlade s týmito podmienkami; a
+b) poskytnúť objednávateľovi akúkoľvek a všetku účinnú pomoc a uhradiť akékoľvek a všetky náklady
+a výdavky, ktoré vznikli objednávateľovi v súvislosti s uplatnením vyššie uvedeného nároku tretej osoby;
+a
+c)
+
+nahradiť objednávateľovi akúkoľvek a všetku škodu, ktorá vznikne objednávateľovi v dôsledku
+uplatnenia vyššie uvedeného nároku tretej osoby, a to v plnej výške a bez akéhokoľvek obmedzenia.
+
+Objednávateľ sa však zaväzuje, že o každom nároku vznesenom takou treťou osobou v zmysle hore
+uvedeného bude bez zbytočného odkladu informovať zhotoviteľa, bude v súvislosti s takým nárokom
+postupovať podľa primeraných pokynov zhotoviteľa a tak, aby sa predišlo vzniku a prípadne zvýšeniu škôd,
+nevykoná smerom k takej tretej osobe žiaden úkon, v dôsledku ktorého by sa postavenie objednávateľa
+v súvislosti s takým uplatnením nároku zhoršilo, a zhotovíteľovi vystaví a bude po potrebnú dobu udržiavať
+v platnosti prevoditeľnú plnú moc potrebnú na to, aby sa zhotoviteľ mohol za objednávateľa účinne takému
+nároku brániť a s takou treťou osobou o urovnaní sporu rokovať, a aj inak postupovať tak, ako je to potrebné
+v záujme ochrany práv zmluvných strán.
+7.
+
+Zhotoviteľ sa zaväzuje, že dielo alebo iný hmotný výsledok jeho činnosti vyvinuté v súvislosti s plnením tejto
+Zmluvy, pokiaľ má dôverný charakter, nepoužije k reklamným účelom bez písomného súhlasu
+Objednávateľa.
+
+8.
+
+Zhotoviteľ nenesie zodpovednosť za akúkoľvek Zhotoviteľom neautorizovanú zmenu diela vykonanú
+Objednávateľom alebo treťou osobou poverenou Objednávateľom.
+
+9. Autorské práva k aplikačnému programovému vybaveniu v prípade zániku právneho subjektu zhotoviteľa
+prechádzajú v plnej miere na nástupnícky právny subjekt. Ak takýto subjekt v deň zániku právneho subjektu
+nebude ustanovený, alebo k takémuto dňu objednávateľ práva k aplikačnému programovému vybaveniu
+neprevedie na iný subjekt, prevádzajú sa autorské práva k aplikačnému programovému vybaveniu v plnej
+miere na objednávateľa, a to ku dňu zániku zhotoviteľa bez právneho nástupcu.
+10. Cena za nadobudnuté licencie a odplata za udelenie licencie oprávňujúcej na používanie aplikačného
+programového vybavenia je zahrnutá v celkovej cene predmetu zmluvy. Licencie nadobúda objednávateľ
+dňom zaplatenia ceny za jednotlivé čiastkové plnenia podľa článku III. bod 2.2 tejto zmluvy. Vlastnícke právo
+k súčastiam eDovoz, vrátane príslušnej dokumentácie eDovoz a dokumentácie k APV, ktoré sa majú podľa
+tejto zmluvy stať vlastníctvom objednávateľa, nadobúda objednávateľ dňom zaplatenia ceny za jednotlivé
+čiastkové plnenia podľa článku III. bod 2.1 až článku lll.bod 2.3 tejto zmluvy,
+
+11. Objednávateľovi budú ako súčasť riadneho odovzdania diela odovzdané zdrojové kódy aplikačného
+programového vybavenia, počítačových programov, ktorých rozmnoženiny budú zhotovíteľom inštalované
+a customizované podľa článku III. bod 2.3. tejto zmluvy.
+12. Ak v tejto zmluve nie je uvedené inak, na udelenie súhlasu použiť eDovoz sa použijú primerane ustanovenia
+zákona č. 618/2003 Z. z. autorský zákon v znení neskorších predpisov.
+ČI. XI
+
+Náhrada škody
+
+1.
+
+Zhotoviteľ sa zaväzuje, že predmet zmluvy vykoná s maximálnou odbornou starostlivosťou a v súlade s
+podmienkami uvedenými v zmluve a jej prílohách.
+
+2.
+
+Zmluvná strana, ktorá poruší svoju povinnosť vyplývajúcu z tejto zmluvy, je povinná nahradiť škodu tým
+spôsobenú druhej zmluvnej strane. Zhotoviteľ nezodpovedá za omeškanie a škodu, ktorá vznikla v dôsledku
+okolností vylučujúcich zodpovednosť.
+
+3.
+
+Pri uplatňovaní nárokov na náhradu spôsobenej škody sa zmluvné strany budú riadiť príslušnými
+ustanoveniami Obchodného zákonníka v platnom znení o náhrade škody.
+
+ČI. XII.
+
+Omeškanie a sankcie
+
+1.
+
+Ak bude zhotoviteľ v omeškaní s plnením povinnosti odovzdať objednávateľovi predmet zmluvy alebo jeho
+časť, vrátane vypracovania DFŠ podľa článku III. bod 2.1 písm. a) tejto zmluvy, môže objednávateľ
+požadovať od zhotoviteľa zaplatenie zmluvnej pokuty vo výške 0,04 % za každý deň omeškania z ceny tej
+časti predmetu zmluvy vrátane DPH, s ktorou je v omeškaní.
+
+2.
+
+V prípade oneskorenej úhrady fakturovanej čiastky je objednávateľ povinný platiť úrok z omeškania vo výške
+podľa § 369a v spojení s § 369 ods. 2 Obchodného zákonníka a § 1 ods. 1 nariadenia vlády SR č. 21/2013
+Z.z., ktorou sa vykonávajú niektoré ustanovenia Obchodného zákonníka, ak ho o jeho zaplatenie zhotoviteľ
+požiada.
+
+3. Zhotoviteľ sa zaväzuje predložiť objednávateľovi vyhlásenie o splnení požiadaviek podľa platnej legislatívy,
+najmä platného výnosu MF SR o štandardoch pre informačné systémy verejnej správy, a to pre každú takúto
+požiadavku osobitne, vrátane spôsobu implementácie. Ak zhotoviteľ nepredloží objednávateľovi predmetné
+vyhlásenie, je objednávateľ oprávnený od zhotoviteľa požadovať zmluvnú pokutu vo výške 5% z ceny
+predmetu zmluvy vrátane DPH.
+4.
+
+Celková suma všetkých zmluvných pokút a úrokov z omeškania, ktoré bude mať zhotoviteľ a/alebo
+objednávateľ povinnosť zaplatiť podľa tejto Zmluvy, neprekročí 30 % z ceny predmetu zmluvy vrátane DPH.
+Na zmluvné pokuty nad tento limit sa nebude prihliadať. Zaplatením zmluvnej pokuty nie je dotknutý nárok
+objednávateľa na náhradu spôsobenej škody.
+
+5. Žiadna zo zmluvných strán nebude v omeškaní a zmluvná pokuta ani úrok z omeškania neprináleží, ak je
+omeškanie spôsobené okolnosťami vylučujúcimi zodpovednosť, alebo ak omeškanie vzniklo úplne alebo
+čiastočne okolnosťami na strane oprávnenej zmluvnej strany alebo inak mimo kontrolu povinnej strany.
+ČI. XIII.
+
+Záväzok mlčanlivosti a ochrana údajov
+
+1.
+
+Zmluvné strany sú povinné zachovať obchodné tajomstvo vo vzťahu ku skutočnostiam obchodnej, výrobnej
+alebo technickej povahy súvisiacim s podnikateľskou činnosťou druhej zmluvnej strany, ktoré majú skutočnú,
+alebo aspoň potenciálnu materiálnu alebo nemateriálnu hodnotu, a nie sú v príslušných obchodných kruhoch
+bežne dostupné.
+
+2.
+
+Zmluvné strany sú povinné zachovávať mlčanlivosť o informáciách, ktoré získali v súvislosti s plnením
+predmetu zmluvy a získané výsledky nesmú ďalej použiť. V prípade, že jedna zo zmluvných strán
+preukázateľne poruší povinnosť mlčanlivosti, zaväzuje sa zaplatiť druhej zmluvnej strane náhradu škody
+vzniknutú preukázateľne porušením tejto povinnosti.
+
+3.
+
+Zhotoviteľ sa zaväzuje zachovávať mlčanlivosť o všetkých informáciách, ktoré sa dozvedel v priebehu
+platnosti tejto zmluvy, a to počas platnosti tejto zmluvy, ako aj po ukončení platnosti tejto zmluvy bez
+časového obmedzenia, pokiaľ ho objednávateľ v konkrétnom prípade tejto povinnosti písomne nezbaví, alebo
+pokiaľ predmetné informácie nie sú verejne známe. Táto povinnosť bude platiť aj pre subdodávateľov
+zhotoviteľa. V rozsahu zaisťujúcom možnosť splnenia takej povinnosti zhotoviteľ uzatvorí s každým
+subdodávateľom dohodu o mlčanlivosti, pokiaľ obdobný záväzok nevyplýva pre takého subdodávateľa zo
+zákona. Zhotoviteľ vyhlasuje, že oboznámil svojich zamestnancov, ktorí sa budú podieľať na plnení tejto
+zmluvy s povinnosťou mlčanlivosti v zmysle tejto zmluvy a/alebo, že zabezpečí také oboznámenie,
+
+4.
+
+Záväzok mlčanlivosti a ochrana údajov môže podliehať zákonu č. 122/2013 Z.z. o ochrane osobných údajov
+a o zmene a doplnení niektorých zákonov a Obchodnému zákonníku v platnom znení a pre prípad, že
+informácie poskytnuté pri plnení tejto zmluvy takým právnym predpisom podliehajú, zaväzujú sa ich zmluvné
+strany dodržiavať, resp. zabezpečiť ich dodržiavanie.
+
+5.
+
+Problematika klasifikácie informácií musí byť v súlade s vypracovaným bezpečnostným projektom pre
+eDovoz, Zhotoviteľ sa zaväzuje dodať predmet zmluvy v súlade s vypracovaným bezpečnostným projektom
+pre eDovoz a objednávateľ sa zaväzuje zabezpečiť dodržanie odporúčaní v súlade s vypracovaným
+bezpečnostným projektom pre eDovoz.
+
+6.
+
+Zhotoviteľ v súlade so zákonom č. 122/2013 Z, z. o ochrane osobných údajov a o zmene a doplnení
+niektorých zákonov zabezpečí poučenie svojich zamestnancov a všetkých osôb, ktoré v rámci plnenia tejto
+Zmluvy majú prístup na pracovisko Objednávateľa, a to najmä s dôrazom na povinnosť mlčanlivosti
+o osobných údajoch, s ktorými prídu do styku u Objednávateľa (§22) a sankciami za porušenie tejto
+mlčanlivostí (§ 68 ods. 7 písm. e).
+
+7. Za informáciu podliehajúcu ustanoveniam tohto článku nebude považovaná taká informácia, ktorá je už
+známa, alebo je verejne dostupná, či bola vyvinutá, alebo zákonne získaná od tretej strany bez obmedzenia
+s jej nakladaním v zmysle tejto zmluvy, ako aj informácia, ktorú je objednávateľ povinný sprístupniť alebo
+zverejniť podľa zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení
+niektorých zákonov (zákon o slobode informácií).
+8.
+
+Objednávateľ súhlasí, že zhotoviteľ môže sprístupniť všetky informácie, vrátane informácií, ktoré sú dôverné
+podľa tohto článku, v rozsahu nevyhnutnom k plneniu tejto zmluvy svojim subdodávateľom,
+
+9.
+
+Každá zo zmluvných strán je tiež oprávnená sprístupniť informáciu podliehajúcu povinnosti mlčanlivosti podľa
+tohto článku v rozsahu požadovanom právoplatným rozhodnutím súdu alebo iného štátneho orgánu alebo
+právnymi predpismi SR. Pred takým sprístupnením informuje o požiadavke na sprístupnenie druhú zmluvnú
+stranu a vykoná primerané opatrenia potrebné na ochranu dôverných informácií druhej zmluvnej strany,
+
+10. Za dôverné informácie sa považujú informácie, ktoré podliehajú povinnosti mlčanlivosti podľa tohto článku
+alebo podľa príslušných právnych predpisov.
+11. Zmluvné strany sa zaväzujú, že upovedomia druhú zmluvnú stranu o porušení povinnosti mlčanlivosti bez
+zbytočného odkladu potom, ako sa o takomto porušení dozvedeli.
+12. Zmluvné strany budú ochraňovať dôverné informácie druhej zmluvnej strany, a to s rovnakou starostlivosťou
+ako ochraňujú vlastné dôverné informácie rovnakého druhu, vždy však najmenej v rozsahu primeranej
+odbornej starostlivosti a v súlade s vypracovaným bezpečnostným projektom pre eDovoz.
+13. Ustanovenia bodov 1. až 13, tohto článku sú platné aj po dobe jej platnosti, a to až do doby, kedy sa
+informácie stanú verejne známymi.
+ČI. XIV.
+
+Záruka a vady
+
+1.
+
+Zhotoviteľ poskytuje na eDovoz záruku v rozsahu po záručnú dobu 24 mesiacov. Počas záruky zhotoviteľ
+zodpovedá za funkcionalitu eDovoz, ktorá musí byť v súlade s touto zmluvou a jej príslušnými prílohami.
+
+2.
+
+Zhotoviteľ zaručuje, že v záručnej dobe bude eDovoz spôsobilý na účel zodpovedajúci jeho určeniu. Záručná
+doba začne plynúť, keď vytvorený eDovoz vrátane inštalácie APV, implementácie a integrácie eDovoz
+
+s ostatnými IS VS bude riadne odovzdaný a prevzatý objednávateľom, t.j. odo dňa finálnej akceptácie
+eDovoz.
+3.
+
+Záručný servis vzťahujúci sa k dodávanému eDovoz je vymedzený nasledovne:
+a) štandardný záručný servis na odstraňovanie porúch eDovoz, prípadne pomoc pri náhradnom riešení,
+b) chyby sa diagnostikujú a odstraňujú okamžitým telefonickým poradenstvom, a/alebo nasadením
+špecialistu na mieste plnenia, ak to odstránenie chyby vyžaduje,
+c) objednávateľ bude hlásiť incidenty a problémy týkajúce sa eDovoz a získavať súvisiace informácie na
+mieste zriadenom zhotovíteľom,
+d) pokiaľ nie je uvedené inak, štandardný záručný servis bude trvať v čase od pondelka do piatku od 8.00
+hod, do 17.00 hod. (okrem dní pracovného voľna a pracovného pokoja),
+e) pokiaľ nie je v Zmluve uvedené inak, cena servisných výkonov poskytovaných podľa tohto bodu je
+zahrnutá v cene eDovoz počas záručnej doby jednotlivých produktov tvoriacich súčasť eDovoz,
+f) servis sa nevzťahuje na chyby a poškodenia eDovoz spôsobené nedostatočne kvalifikovanou obsluhou,
+alebo nesprávnou manipuláciou obsluhy vykonanou v rozpore s odovzdanou dokumentáciou projektu,
+g) zhotoviteľ zaručuje, že nedôjde k nespusteniu, alebo k chybnej prevádzke programových inštrukcií
+eDovoz v dôsledku chyby v médiách a spracovaní pri správnej inštalácii a používaní na zariadení
+určenom zhotovíteľom; ak bude zhotoviteľ upozornený na takéto chyby v priebehu záručnej doby,
+poskytne bezplatný servis, v rámci ktorého tieto buď opraví alebo nahradí tie médiá, ktoré v dôsledku
+vyššie uvedených porúch programovacie pokyny nevykonávajú.
+
+4.
+
+Zhotoviteľ zaručuje, že odovzdaný eDovoz nemá právne vady, predovšetkým nie je zaťažený právami tretích
+osôb z priemyslového alebo iného duševného vlastníctva. Zhotoviteľ sa zaväzuje nahradiť objednávateľovi
+škodu spôsobenú uplatnením nárokov tretích osôb z titulu porušenia ich chránených práv súvisiacich s
+plnením zhotoviteľa, alebo jeho subdodávateľov podľa tejto zmluvy.
+
+5. Záruka sa nevzťahuje na vady eDovoz, vzniknuté v dôsledku:
+a) nevhodnej alebo nesprávnej údržby, alebo kalibrácie produktov/komponentov a/alebo eDovoz
+(customizácíe produktov/komponentov) zo strany objednávateľa alebo ním poverených osôb, alebo iných
+osôb neschválených zhotovíteľom, ak bola vykonaná v rozpore s pokynmi zhotoviteľa (uvedenými
+v odovzdanej a akceptovanej dokumentácii o nastavení systému),
+b) nesprávneho, alebo neadekvátneho používania produktov/komponentov a/alebo eDovoz ako celku, t.j.
+používania, ktoré je v rozpore s pokynmi k používaniu daných produktov/komponentov a/alebo eDovoz
+obsiahnutými
+v zhotovíteľom
+dodanej
+dokumentácii
+alebo
+v dokumentácii
+výrobcu
+produktov/komponentov alebo s tým, čo je pre používanie daných produktov/ komponentov obvyklé,
+c) neautorizovanej modifikácie, operácie, opravy, alebo využitia produktov/komponentov a/alebo eDovoz,
+d) využitia produktov/komponentov a/alebo eDovoz v prostredí inom než dodanom alebo odporučenom
+zhotovíteľom,
+e) nesprávnej prípravy a údržby miesta využívania produktov/komponentov a/alebo eDovoz alebo ich častí,
+f) použitia softvéru, rozhraní, alebo náhradných dielov nedodaných, alebo neodporučených zhotovíteľom,
+alebo zo vzájomnej neznášanlivosti medzi takým softvérom, rozhraním, alebo náhradným dielom
+a produktom/komponentom dodaným zhotovíteľom,
+g) zneužitia, nedbalosti, straty, alebo poškodenia pri preprave zo strany iných osôb ako zhotoviteľa alebo
+osôb ním poverených,
+h) zásahu pracovníka tretej strany do eDovoz bez súhlasu zhotoviteľa,
+i) poruchy alebo vady produktov/komponentov, ktoré musia byť zhotovíteľom preukázateľné.
+
+ČI. XV.
+
+Súčinnosť a iné záväzky zmluvných strán
+
+1.
+
+Objednávateľ poskytne zhotoviteľovi súčinnosť nevyhnutnú na vykonanie eDovoz podľa tejto zmluvy.
+Objednávateľ odovzdá zhotoviteľovi bez zbytočného odkladu po uzatvorení tejto zmluvy všetky podklady
+potrebné na vykonanie eDovoz.
+
+2.
+
+Pred inštaláciou vykonávanou zhotovíteľom je objednávateľ povinný zabezpečiť prípravu jej miesta v súlade s
+pokynmi vydanými zhotovíteľom, ktoré musia byť zhotovíteľom vydané v dostatočnom časovom predstihu,
+ktorý umožní objednávateľovi splniť uvedený záväzok.
+
+3.
+
+Pokiaľ zhotoviteľ vykonáva inštaláciu produktov/komponentov, platia nasledujúce podmienky:
+
+3.1. Objednávateľ bude povinný pred inštaláciou:
+a) riadne zaobchádzať s produktami/komponentami v súlade s dokumentáciou výrobcu takých
+produktov/komponentov,
+b) zaistiť všetky veci potrebné pre inštaláciu a primerane pripraviť miesto inštalácie v súlade s odporučením
+zhotoviteľa,
+c) včas umožniť zhotoviteľovi prístup k produktom/komponentom za účelom ich inštalácie.
+4.
+
+Inštalácia aplikačného programového vybavenia bude vykonaná v súlade s príslušným popisom vlastností
+programových produktov/komponentov eDovoz.
+
+5.
+
+Dodržanie globálneho harmonogramu je závislé aj na včasnom a riadnom poskytnutí primeranej súčinnosti.
+Pre zamedzenie pochybností sa stanovuje, že súčasťou primeranej súčinností objednávateľa nie sú plnenia,
+ktoré má zhotoviteľ poskytnúť ako súčasť predmetu zmluvy. Ak si objednávateľ nebude plniť svoje povinnosti,
+ktoré mu vyplývajú z tejto zmluvy, má sa za to, že zhotoviteľ nie je v omeškaní s plnením svojich záväzkov
+vyplývajúcich z tejto zmluvy. Zhotoviteľ bude oprávnený primerane predĺžiť (oddialiť) termíny svojho plnenia
+alebo implementácie eDovoz alebo jeho jednotlivých častí. Také predĺženie - oddialenie termínov bude
+prerokované a schválené na najbližšom zasadaní riadiaceho výboru eDovoz. V prípade, ak by také
+predĺženie malo dopad na konečný termín dodania predmetu zmluvy, riadiaci výbor eDovoz predloží
+oprávneným zástupcom zmluvných strán návrh dodatku k zmluve. Predĺženie čiastkových termínov plnenia je
+v kompetenciiriadiacehovýboru eDovoz.
+
+6.
+
+Na poskytovanie niektorých služieb, ktoré tvoria súčasť poskytovaného plnenia pre objednávateľa, má
+zhotoviteľ, za podmienok dohodnutých v tejto zmluve, právo uzatvárať subdodávateľské Zmluvy. Zhotoviteľ
+zodpovedá za tieto plnenia akoby ich poskytoval sám a je povinný odovzdávať objednávateľovi služby sám,
+na svoju zodpovednosť, v dohodnutom čase a v dohodnutej kvalite.
+
+7. Zhotoviteľ je oprávnený zmeniť subdodávateľa počas trvania Zmluvy, pričom subdodávateľ, ktorého sa návrh
+na zmenu týka, musi spĺňať podmienky podľa § 26 ods. 1 zákona o verejnom obstarávaní. Zhotoviteľ je
+povinný objednávateľovi najneskôr v deň, ktorý predchádza dňu, v ktorom subdodávateľ začne plniť predmet
+Zmluvy, predložiť písomné oznámenie o zmene subdodávateľa, ktoré bude obsahovať minimálne: podiel
+zákazky, ktorý má Zhotoviteľ v úmysle zadať subdodávateľovi, identifikačné údaje navrhovaného
+subdodávateľa a čestné vyhlásenie Zhotoviteľa, že navrhovaný subdodávateľ spĺňa podmienky podľa § 26
+ods. 1 zákona o verejnom obstarávaní. Porušenie tejto povinností sa považuje za podstatné porušenie
+zmluvy,
+8.
+
+Zhotoviteľ zaplatí zmluvnú pokutu vo výške 3000,- EUR ak:
+a)
+
+Zhotoviteľ zmení subdodávateľa počas trvania Zmluvy, pričom nový subdodávateľ nespĺňa podmienky
+podľa § 26 ods. 1 zákona o verejnom obstarávaní, alebo
+
+b)
+
+Zhotoviteľ porušil alebo riadne a úplne nevykonal povinnosť uvedenú v bode 7 tohto článku, predložiť
+písomné oznámenie o zmene a/alebo doplnení subdodávateľa.
+
+9. Zhotoviteľ je povinný pri vykonávaní predmetu zmluvy postupovať s odbornou starostlivosťou, tak aby
+eDovoz mal za podmienok stanovených v tejto zmluve požadovanú funkcionalitu.
+
+10. Zhotovitef je povinný dodržiavať bezpečnostnú politiku objednávateľa a Finančného riaditeľstva SR. Pravidlá
+na riadenie prístupu zhotoviteľa u objednávateľa tvoria Prílohu č.6 zmluvy, ako jej neddeliteľná súčasť.
+Relevantné body bezpečnostnej politiky Finančného riaditeľstva SR sú uvedené v Prílohe č. 7 zmluvy a tvoria
+jej neoddeliteľnú súčasť.
+11. Zhotoviteľ zodpovedá za to, že predmet plnenia zmluvy nebude po vytvorení obsahovať nevyžiadané funkcie,
+najmä také, ktoré by mohli ohroziť jeho bezpečnosť.
+12. Objednávateľ a zhotoviteľ sa zaväzujú bezodkladne oznámiť druhej zmluvnej strane kontaktné údaje, najmä
+na projektového manažéra, poverenú osobu a oprávnenú osobu, najneskôr do 5 pracovných dní odo dňa
+účinnosti tejto Zmluvy. Zhotoviteľ súhlasí stým, že objednávateľ môže určiť na pozíciu projektového
+manažéra a poverenej osoby aj osoby, ktoré nie sú zamestnancami Ministerstva financií Slovenskej
+republiky. Objednávateľ a zhotoviteľ sa touto Zmluvou dojednávajú, že môžu jednostranne vykonať zmenu
+v kontaktných osobách, pričom ich platnosť je najskôr 5 pracovných dni odo dňa oznámenia takýchto zmien.
+ČI. XVI.
+
+Doručovanie
+
+1.
+
+Doručením sa rozumie prijatie zásielky zmluvnou stranou, ktorej bola adresovaná na adresu objednávateľa
+a zhotoviteľa.
+
+2.
+
+Za deň doručenia zásielky zmluvnej strane, ktorej bola adresovaná sa považuje takisto deň
+a) v ktorom táto zmluvná strana ju odoprela prijať,
+b) ktorým márne uplynula odberná lehota pre jej vyzdvihnutie si na pošte alebo
+c) v ktorý bola na nej zamestnancom pošty vyznačená poznámka, že "adresát sa odsťahoval", "adresát je
+neznámy" alebo iná poznámka, ktorá podľa poštového poriadku znamená nedoručiteľnosť zásielky.
+
+ČI. XVII.
+
+Vyššia moc, ukončenie zmluvy a odstúpenie od zmluvy
+
+1.
+
+Pre účely tejto Zmluvy sa za vyššiu moc považujú udalosti, ktoré nie sú závislé od konania zmluvných strán,
+a ktoré nemôžu zmluvné strany ani predvídať ani nijakým spôsobom priamo ovplyvniť, ako napr. vojna,
+mobilizácia, povstanie, živelné pohromy, požiare, embargo, karantény, atď.
+
+2.
+
+Táto zmluva môže byť ukončená vzájomnou písomnou dohodou zmluvných strán alebo výpoveďou v
+3-mesačnej výpovednej lehote s uvedením výpovedného dôvodu.
+
+3.
+
+Každá zo zmluvných strán je oprávnená vypovedať túto zmluvu, pokiaľ druhá zmluvná strana závažným
+spôsobom poruší svoju zmluvou určenú povinnosť a ani po písomnej výzve dotknutej zmluvnej strany,
+obsahujúcej aj určenie dodatočnej primeranej lehoty na splnenie predmetnej zmluvnej povinnosti, svoju
+povinnosť nesplní.
+
+4.
+
+V prípade závažného porušenia zmluvných dohôd zo strany objednávateľa, ako napríklad nezabezpečenia
+podmienok pre prácu, v dôsledku ktorého nebude môcť zhotoviteľ splniť svoje záväzky a dodržať termíny, ani
+prípadné náhradné termíny a to aj v prípade opakovaného písomného upozornenia zhotoviteľa na
+porušovanie dohodnutých podmienok, má zhotoviteľ právo od zmluvy odstúpiť. V takomto prípade má
+zhotoviteľ nárok na úhradu jeho dovtedajších preukázateľne vynaložených nákladov na riešení, zo strany
+objednávateľa.
+
+5. V pripadne závažného porušenia zmluvných dohôd zo strany zhotoviteľa, ako závažného nedodržania
+termínov plnenia predmetu Zmluvy, a to aj napriek písomnému upozorneniu objednávateľa, prípadne pri
+nesplnení záväzku vyriešenia predmetu plnenia, a to bez zavinenia objednávateľa, má objednávateľ nárok na
+odstúpenie od zmluvy.
+6.
+
+Prípadné odstúpenie od tejto Zmluvy podľa bodov 3., 4., 5. tohto článku musí oprávnená zmluvná strana
+doručiť druhej zmluvnej strane v písomnej forme, v ktorej musí toto oprávnenie preukázať.
+
+7. Zmluvné strany sú oprávnené ukončiť túto Zmluvu:
+
+a) písomnou dohodou oboch zmluvných strán,
+b) alebo výpoveďou bez uvedenia dôvodu so trojmesačnou výpovednou lehotou, pričom výpovedná lehota
+začína plynúť prvým dňom nasledujúceho mesiaca po doručení písomnej výpovede druhej zmluvnej strane.
+8.
+
+Odstúpením od zmluvy nebudú dotknuté práva a povinnosti zmluvných strán ohľadom čiastkových plnení
+zhotoviteľa, ktoré boli do tej doby zhotoviteľom riadne a včas vykonané a objednávateľom riadne prevzaté
+(akceptované).
+
+9.
+
+Odstúpenie od zmluvy sa nedotýka nárokov strán na náhradu škody vyplývajúcich zo zmluvy.
+
+ČI. XVIII.
+
+Záverečné ustanovenia
+
+1.
+
+Táto zmluva nadobúda platnosť dňom jej podpísania oprávnenými zástupcami obidvoch zmluvných strán
+a účinnosť dňom nasledujúcim po dni jej zverejnenia podľa všeobecne záväzných predpisov platných v čase
+podpisu zmluvy.
+
+2.
+
+Táto zmluva sa uzatvára na dobu určitú, ktorou je doba splnenia záväzkov v nej dohodnutých.
+
+3. Táto zmluva sa riadi:
+•
+•
+
+§ 536 a nasledujúcich Obchodného zákonníka, ako aj jeho inými súvisiacimi ustanoveniami, vždy pokiaľ
+také ustanovenia dispozítívnej povahy nie sú upravené ustanoveniami tejto zmluvy,
+príslušnými ustanoveniami autorského zákona.
+
+4.
+
+Nevykonanie akéhokoľvek práva z tejto zmluvy neznamená zrieknutie sa, alebo zrušenie takého práva. Ak
+akékoľvek ustanovenie tejto zmluvy bude vyhlásené za neplatné, nemá táto skutočnosť vplyv na platnosť jej
+ostatných ustanovení,
+
+5.
+
+Podmienky tejto Zmluvy, ktoré svojou povahou presahujú dobu jej platnosti, zostávajú v platnosti v celom
+rozsahu a sú účinné až do okamihu ich splnenia a platia aj pre prípadných nástupcov a postupníkov
+zmluvných strán,
+
+6.
+
+Túto zmluvu je možné meniť iba formou písomného dodatku podpísaného oprávnenými zástupcami obidvoch
+zmluvných strán.
+
+7.
+
+Práva z tejto zmluvy nie sú prevoditeľné bez predchádzajúceho písomného súhlasu obidvoch zmluvných
+strán, okrem prevodu užívacích práv na Finančné riaditeľstvo SR, ktoré objednávateľ nadobudol na zákiade
+tejto zmluvy. Zhotoviteľ bude oprávnený postúpiť neuhradené pohľadávky vždy len s predchádzajúcim
+písomným súhlasom objednávateľa. Práva a záväzky vyplývajúce z tejto zmluvy prechádzajú na právnych
+nástupcov zmluvných strán.
+
+8.
+
+Všetky oznámenia s právnym alebo zmluvným účinkom sa budú písať v slovenskom jazyku a posielať druhej
+strane doporučene (alebo na doručenku) na jej horeuvedenú alebo dodatočne písomne oznámenú adresu.
+
+9.
+
+Zmluvné strany sa zaväzujú vyvinúť maximálne úsilie na odstránenie vzájomných sporov vzniknutých na
+základe tejto zmluvy, alebo v súvislosti s touto zmluvou a k ich vyriešeniu predovšetkým prostredníctvom
+jednania kontaktných osôb, alebo poverených zástupcov.
+
+10. Všetky spory zo zmluvy budú podľa dohody obidvoch zmluvných strán riešiť príslušné súdy Slovenskej
+republiky.
+11. Táto zmluva je vyhotovená v piatich exemplároch, pričom objednávateľ dostane tri a zhotoviteľ dva
+exempláre.
+12. Obidve zmluvné strany vyhlasujú, že si túto zmluvu pred jej podpisom prečítali a na dôkaz svojho súhlasu s
+celým obsahom tejto zmluvy pripájajú osoby k tomu oprávnené každou zo strán svoje podpisy.
+13. Neoddeliteľnú súčasť tejto zmluvy tvoria nasledovné prílohy:
+1.
+
+Opis predmetu zmluvy
+
+2.
+
+Podrobný rozpočet projektu
+
+3.
+
+Zmenové konanie
+
+4.
+
+Akceptácia a preberanie predmetu Zmluvy
+
+5.
+
+Akceptačné testy
+
+6.
+
+Pravidlá nariadenieprístupu Zhotoviteľa na Ministerstve financií Slovenskej republiky
+
+7.
+
+Všeobecné podmienky o zabezpečení informačnej bezpečnosti finančnej správy SR
+
+Bratislava, dňa
+
+t U JÚU ZOfi
+
+Bratislava, dňa
+
+1 íl Mi 2lľí!i
+Slovenská republika - Ministerstvo financií SR
+Ing. Jaroslav Mikla
+vedúci služobného úradu
+
+--DITEC, a.s.
+PaedDr. Ivan Súra
+predseda predstavenstva
+
+DITEC, a.s.
+Ing. Csaba Baráth
+podpredseda predstavenstva a generálny riaditeľ
+
+Príloha č.1 Opis predmetu zmluvy
+
+Požiadavky objednávateľa na predmet zmluvy
+
+Právny rámec pre vytvorenie predmetu zmluvy tvorí:
+Medzinárodná legislatíva
+•
+•
+•
+•
+•
+•
+
+Rozhodnutie Európskeho parlamentu a Rady č. 70/2008/ES o colnom a obchodnom prostredí bez
+dokladov v papierovej forme
+Nariadenie Európskeho parlamentu a rady (EÚ) č. 952/2013, ktorým sa ustanovuje Colný kódex Únie,
+Delegované a vykonávacie predpisy Colného kódexu únie
+Nariadenie komisie (EHS) č. 2454/93 z 2. júla 1993, ktorým sa vykonáva nariadenie Rady (EHS) čo
+2913/92, ktoým sa ustanovuje Colný kódex spoločenstva, prílohy 37 a 38,
+Nariadenie rady (ES) č. 1186/2009 zo 16. novembra 2009 ustanovujúce systém Spoločenstva pre
+oslobodenie od cla
+Delegované a vykonávacie predpisy Colného kódexu Únie
+
+Národná legislatíva
+• Zákon č. 214/2014 Z.z. o správe, prevádzke a používaní informačného systému Centrálny elektronický
+priečinok pri dovoze, vývoze a tranzite tovaru a o doplnení zákona č. 305/2013 Z. z. o elektronickej
+podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o eGovernmente)
+• Zákon č. 305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a
+doplnení niektorých zákonov (zákon o e-Governmente)
+• Zákon 275/2006 Z.z. o informačných systémoch verejnej správy a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov,
+• Zákon č. 428/2002 Z.z. o ochrane osobných údajov,
+• Zákon č. 215/2002 Z.z. o elektronickom podpise a o zmene a doplnení niektorých zákonov vrátane
+príslušných vyhlášok NBÚ,
+• Zákon č. 351/2011 Z. z. o elektronických komunikáciách,
+• Zákon č. 45/2011 Z. z. o kritickej infraštruktúre,
+• Zákon č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov
+vrátane príslušných vyhlášok NBÚ,
+• Národná koncepcia informatizácie verejnej správy,
+• Národná stratégia pre informačnú bezpečnosť v SR (uznes, vlády SR č. 570/2008) a úlohy Akčného
+plánu na roky 2009 až 2013 (uznes, vlády č. 46/2010).
+• Zákon č. 199/2004 Z.z. Colný zákon a o zmene a doplnení niektorých zákonov
+• Vyhláška MFSR č. 419/2006 Z.z. zo 14. Júna 2006, ktorou sa vykonávajú niektoré ustanovenia zákona
+č. 199/2004 Z.z. Colný zákon a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+• Zákon č. 333/2011 o orgánoch štátnej správy v oblasti daní, poplatkov a colníctva
+• Zákon č. 222/2004 Z.z.- zákon o DPH
+
+Obsah
+
+1
+
+Úvod
+
+2
+
+Opis predmetu zmluvy
+
+5
+
+19
+
+2.1
+
+Rozsah a predmet zmluvy
+
+20
+
+2.2
+
+Výmena údajov eDovoz s relevantnými IS VS
+
+23
+
+3
+
+4
+
+1 9
+
+Požadované činnosti zhotoviteľa
+
+24
+
+3.1
+
+Vypracovanie Detailnej funkčnej špecifikácie
+
+25
+
+3.2
+
+Vypracovanie Technického návrhu
+
+25
+
+3.3
+
+Vypracovanie Bezpečnostného projektu
+
+25
+
+3.4
+
+Vypracovanie Implementačného plánu
+
+25
+
+3.5
+
+Vypracovanie Plánu akceptačných testov
+
+25
+
+3.6
+
+Vypracovanie a dodávka aplikačného programového vybavenia
+
+25
+
+3.7
+
+Inštalácia a konfigurácia modulu eDovoz
+
+26
+
+3.8
+
+Vypracovanie a dodanie dokumentácie k modulu eDovoz
+
+26
+
+3.9
+
+Realizácia školení
+
+26
+
+3.10
+
+Poskytnutie podporných služieb po uvedení modulu eDovoz do produkčnej prevádzky
+
+26
+
+3.11
+
+Zabezpečenie kvality
+
+30
+
+3.12
+
+Riadenie projektu
+
+30
+
+Požiadavky na informačný systém
+
+31
+
+4.1
+
+Všeobecné systémové požiadavky
+
+31
+
+4.2
+
+Požiadavky na kvalitu riešenia
+
+31
+
+4.3
+
+Požiadavky na dostupnosť a odolnosť systému voči výpadkom
+
+31
+
+4.4
+
+Požiadavky na udržateľnosť
+
+31
+
+4.5
+
+Požiadavky na bezpečnosť
+
+31
+
+4.6
+
+Autorizácia a prístup na základe rolí
+
+31
+
+4.7
+
+Používatelia systému, ich identifikácia a autentifikácia
+
+32
+
+4.8
+
+Kapacita a výkon systému
+
+32
+
+4.9
+
+Organizačné požiadavky na prevádzku systému
+
+32
+
+4.10
+
+Zálohovanie a obnova údajov
+
+32
+
+4.11
+
+Monitorovanie a reporting
+
+32
+
+Architektúra riešenia a základné submoduly modulu eDovoz
+
+33
+
+5.1
+
+Submodul Procesy eDovoz
+
+33
+
+5.2
+
+Identifikačný a autentifikačný submodul
+
+33
+
+5.3
+
+Administračný submodul
+
+33
+
+5.4
+
+Modul elektronické komunikačné rozhranie
+
+33
+
+5.5
+
+Vstupný submodul
+
+5.6
+
+Workdesk obchodníka
+
+5.7
+
+Platobný modul
+
+5.8
+
+Modul DMS
+
+1
+
+Úvod
+
+Nariadenie Európskeho parlamentu a Rady č. 952/2013 z 9. októbra 2013 - Colný kódex Únie,
+ktorý nadobudne účinnosť 1. mája 2016 už vo svojom úvode neuvažuje s iným ako elektronickým colným
+konanim vo všetkých režimoch. V zmysle čl. 6 CKÚ sa každá výmena informácii medzi colnými orgánmi a
+medzi hospodárskymi subjektmi a colnými orgánmi, akými sú napr. colné vyhlásenia, žiadosti alebo rozhodnutia,
+a uchovávanie takýchto informácií podľa požiadaviek colných predpisov uskutočňuje s využitím techník
+elektronického spracovania údajov. Používanie informačných a komunikačných technológií vychádza už
+z Rozhodnutia Európskeho parlamentu a Rady č. 70/2008/ES z 15. januára 2008 o colnom a obchodnom
+prostredí bez dokladov v papierovej forme, v zmysle ktorého všetky colné a obchodné transakcie sa musia
+vykonávať elektronicky - informačné a komunikačné systémy pre colné operácie majú hospodárskym
+subjektom v každom členskom štáte ponúkať rovnaké možnosti.
+Hlavnými úlohami projektu elektronického colného konania v dovoze je vytvoriť komunikačné rozhranie
+pre obchodníkov externej domény komunikujúcich s colným úradom dovozu v štandardnom a zjednodušenom
+postupe pre všetky colné režimy vrátane osobitných režimov a evidencie neobchodného tovaru, ako aj vytvoriť
+komunikačné rozhranie medzi e-Dovoz, GMS a ACIS, v ktorom sú evidované platby. Existujúce komunikačné
+rozhrania - EKR CEP, ERP, DUT, TARIC, NTA Creg a ap. bude potrebné prehodnotiť a prispôsobiť novým
+štruktúram zadávaných údajov, ako aj požadovanému výkonu.
+Použitý spôsob komunikácie medzi obchodníkmi v externej doméne pracujúcimi so systémom e-Dovoz
+bude totožný s komunikáciou v systémoch NCTS, ECS a ICS. Bude potrebné vytvoriť dokumentáciu pre tvorcov
+deklaračných modulov s podrobným popisom scenárov výmeny správ medzi deklarantom a CU dovozu,
+štruktúrou vymieňaných správ, pravidlami a podmienkami ako aj popisom havarijných postupov.
+Pre prípad havarijného stavu bude potrebné sprístupniť manuálny zápis colného vyhlásenia v dovoze /
+vývoze a načítanie deklarácie z XML správy.
+Navrhovaný modul eDovoz bude postavený na moderných technológiách, so zohľadnením predpokladaných
+trendov budúceho vývoja v objemoch údajov a spôsobe ich spracovania a bude podporovať:
+
+2
+
+•
+
+Harmonizáciu uplatňovania colných procesov členskými štátmi EU založenú na spoločnom rámci
+riadenia rizika
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+Automatizované zjednodušené postupy v dovoze
+Účinnú analýzu rizík pre zjednodušené postupy v dovoze a pre dovoz neobchodného tovaru
+Skrátenie času colného konania
+Zníženie administratívneho zaťaženia
+Elimináciu papierového spracovania pri colnom konaní
+Zavedenie elektronických príloh colných vyhlásení
+Dlhodobú archiváciu dát
+Automatizované zapísanie úhrady colného dlhu / pripísanie kreditu na zabezpečení
+
+Opis predmetu zmluvy
+
+Predmetom zákazky je vybudovanie modulu eDovoz, ktorý bude podporovať automatizovaný colný dohľad
+nad dovozom tovaru a bude poskytovať komunikačné rozhranie pre externé subjekty, ktoré komunikujú s colným
+úradom. Pre prípad možného havarijného stavu a pre prechodné obdobie bude nutné umožniť aj manuálny zápis
+colného vyhlásenia a príslušné operácie s ním.
+Postup spracovania ECK v dovoze môže byť realizovaný
+
+-
+
+Štandardným colným vyhlásením (druh „A") v štandardnom postupe v zmysle čl. 162 UCC,
+Zjednodušeným colným vyhlásením (druh „B") v štandardnom postupe v zmysle čl. 166 UCC,
+Štandardným colným vyhlásením (druh „D") v štandardnom postupe v zmysle čl. 171 UCC ešte skôr, ako
+deklarant môže predložiť tovar,
+Zjednodušeným colným vyhlásením (druh „E") v štandardnom postupe v zmysle čl. 171 UCC ešte skôr,
+ako deklarant môže predložiť tovar,
+
+-
+
+Dodatočným colným vyhlásením {druh „X") v rámci zjednodušeného postupu, ak predchádzajúci kód bol
+„B" alebo „E",
+Zjednodušeným postupom zápisom do evidencie deklaranta (druh „A" alebo „B" s uvedením kódu
+výsledku kontroly A3 - zjednodušený postup) v zmysle čl. 182 UCC,
+Dodatočným colným vyhlásením v rámci zjednodušeného postupu zápisu do evidencie deklaranta
+v zmysle čl. 182 UCC (druh „Z") v prípade, ak nebolo podané elektronické colné vyhlásenie druh „A"
+(havarijný stav), alebo pri dovoze tovaru potrubím a vedením.
+
+Systém bude kontrolovať formálnu správnosť colného vyhlásenia, kontrolu na evidenciu povolení, potrebu
+a existenciu priložených dokladov (v prvej fáze budú predkladané písomne, neskôr ako elektronická príloha
+v rámci CEPu, certifikátov (podľa TARICU), počítať výšku colného dlhu, potrebnú výšku zabezpečenia
+colného dlhu, komunikovať so všetkými okolitými systémami.
+Zjednodušený postup zápisu do evidencie deklaranta bude môcť byť vykonávaný len na základe povolenia.
+2.1
+
+Rozsah a predmet zmluvy
+
+Rozsah Zmluvy je tvorený nasledovnými časťami:
+Predkladanie elektronických colných vyhlásení v dovoze v štandardnom postupe
+• zavedenie elektronických správ pre podanie colného vyhlásenia a následné elektronické spracovanie
+ostatných procesov (opravy, storná, prepustenie, zabezpečenie colného dlhu)
+Modul eDovoz bude podporovať nasledujúce procesy:
+Štandardný postup - štandardné colné vyhlásenie na režim voľný obeh a osobitný režm
+Podanie CV a prepustenie tovaru do voľného obehu a osobitného režimu
+Podanie colného vyhlásenia pred predložením tovaru (druh „D" a „E")
+Rozhodnutie o kontrole
+Oprava colného vyhlásenia pred prepustením a po prepustení
+Zrušenie colného vyhlásenia pred prepustení
+Doprava potrubím alebo vedením - odlišnosti pre zápis do evidencie deklaranta
+Výzva deklarantovi
+Vybavenie režimu (po úhrade colného dlhu)
+Zjednodušené colného vyhlásenie a jednorazová žiadosť o osobitné režimy - žiadosť formou JCD
+Podanie CV a prepustenie tovaru do voľného obehu a osobitbého režimu
+Rozhodnutie o kontrole
+Oprava colného vyhlásenia pred prepustením a po prepustení
+Doplnenie colného vyhlásenia
+Zrušenie colného vyhlásenia pred prepustení
+Vybavenie režimu (po úhrade colného dlhu)
+Predkladanie a automatizované spracovanie colných vyhlásení v zjednodušenom postupe
+• zavedenie automatizovaného spracovania colného vyhlásenia v zjednodušenom postupe vrátane
+výpočtu colného dlhu
+•
+zavedenie časovača na Rozhodnutie o kontrole v rámci povolenia
+• zavedenie automatizovanej analýzy rizík
+
+Modul eDovoz bude podporovať nasledujúce procesy:
+Zjednodušený postup zápisom do evidencie deklaranta - povolenie ZP
+Podanie CV a prepustenie tovaru automatizovaným spôsobom do voľného obehu a osobitných režimov
+zápisom do evidencie deklaranta
+
+Rozhodnutie o kontrole
+Oprava colného vyhlásenia pred prepustením a po prepustení
+Zrušenie colného vyhlásenia pred prepustení
+Výzva deklarantovi
+Vybavenie režimu (po úhrade colného dlhu)
+Zjednodušený postup zjednodušeného colného vyhlásenia formou zápisu do evidencie deklaranta
+Podanie CV a prepustenie tovaru automatizovaným spôsobom do voľného obehui a osobitných režimov
+zápisom do evidencie deklaranta
+Rozhodnutie o kontrole
+Oprava colného vyhlásenia pred prepustením a po prepustení
+Doplnenie colného vyhlásenia
+Zrušenie colného vyhlásenia pred prepustení
+Vybavenie režimu (po úhrade colného dlhu)
+Modul eDovoz bude využívať nasledovné komunikačné správy:
+
+SK429A
+
+Odosielateľ Popis
+Dovozné colné vyhlásenie podané deklarantom
+na CÚ dovozu pre obchodný tovar
+Dovozné colné vyhlásenie - obchodný tovar Deklarant
+I CÚ dovozu oznamuje zaregistrovanie CV a
+pridelenie MRN
+Colný
+úrad
+|
+Informácie o registrácii colného vyhlásenia
+CU dovozu oznamuje prijatie CV v štandardnom
+(manuálne rozhodnutie colníka)
+a zjednodušenom postupe (automatizované)
+Colný úrad
+Rozhodnutie o prijatí colného vyhlásenia
+CÚ dovozu oznamuje neprijatie CV
+v štandardnom (manuálne rozhodnutie colníka
+s uvedením dôvodu neprijatia)
+Rozhodnutie o neprijatí colného vyhlásenia Colný úrad
+CÚ dovozu oznamuje deklarantovi že bola
+Colný úrad
+nariadená kontrola tovaru
+Rozhodnutie o kontrole
+CÚ dovozu oznamuje deklarantovi rozhodnutie o
+prepustení tovaru do navrhovaného colného
+režimu a zároveň mu oznamuje výšku colného
+Colný úrad
+dlhu
+Rozhodnutie o prepustení tovaru
+
+SK471
+
+Potvrdenie doručenia rozhodnutia o
+prepustení tovaru
+
+Kód
+SK415
+SK416
+SK428A
+SK428B
+SK460
+
+Názov
+
+SK404B
+
+Rozhodnutie o neprepustení tovaru
+Žiadosť o zmenu (pred prijatím) opravu (po
+prijatí) colného vyhlásenia - obchodný tovar
+(SK415)
+Informácia o prijatí žiadosti na zmenu/
+opravu CV (obchodný aj neobchodný)
+Rozhodnutie o neprijatí žiadosti na zmenu/
+opravu CV
+
+SK414
+
+Žiadosť o zrušenie colného vyhlásenia
+
+SK429B
+SK413
+SK404A
+
+SK409A
+SK409B
+SK413A
+SK417
+
+Rozhodnutie o zrušení colného vyhlásenia
+Rozhodnutie o zamietnutí žiadosti o
+zrušenie colného vyhlásenia
+Doplnenie údajov zjednodušeného
+(neúplného) CV
+' Rozhodnutie o prijatí doplneného
+| zjednodušeného (neúplného) CV
+
+Deklarant potvrdí prijatie oznámenia o prepustení
+CV do navrhnutého režimu a prijatie výmeru
+colného dlhu
+CÚ dovozu oznamuje deklarantovi rozhodnutie o
+neprepustení tovaru do navrhovaného colného
+režimu s odôvodnením
+
+Deklarant
+
+Colný úrad
+
+Deklarant žiada o opravu CV
+CÚ dovozu oznamuje prijatie žiadosti o zmenu /
+opravu CV
+CÚ dovozu oznamuje prijatie žiadosti o zmenu /
+opravu CV
+
+Deklarant
+Colný úrad
+Colný úrad
+Deklarant
+Colný úrad
+Colný úrad
+Deklarant
+Colný úrad
+
+Deklarant žiada o zrušenie CV
+1
+
+CÚ dovozu oznamuje rozhodnutie o zrušení CV
+CÚ dovozu oznamuje rozhodnutie o zamietnutí
+žiadosti o zrušenie CV
+Deklarant podáva návrh na doplnenie údajov
+zjednodušeného (neúplného) CV
+CÚ dovozu rozhodol o prijatí návrhu na doplnenie
+zjednodušeného (neúplného) CV
+
+Výzva deklarantovi na doplnenie
+/predloženie dokladov
+Výzva na doplnenie 2CV
+Oznámenie colného dlhu
+Výzva na úhradu colného dlhu
+
+SK425
+
+Zábezpeka neplatná
+Informácia o vybavení osobitého režimu s/
+Informácia o úhrade colného dlhu
+
+Colný úrad
+
+CÚ dovozu oznamuje deklarantovi výšku colného
+dlhu (bez zabezpečenia), alebo vyzýva
+deklaranta na dostavenie sa na CÚ a predloženie
+požadovaných dokladov
+CÚ dovozu zasiela informáciu o neplatnosti
+zábezpeky
+CÚ dovozu oznamuje vybavenie režimu
+s ekonomickým účinkom po splnení podmienok
+
+SK904
+
+Vyžiadanie informácie o stave CV
+
+Deklarant
+
+Deklarant zasiela žiadosť o stav CV
+
+SK905
+
+Informácia o stave CV/prerušenie ZP
+Chybová správa - funkčná chyba
+- zamietnutie registrácie CV (SK415/SK405)
+- zamietnutie žiadosti o opravu
+- zamietnutie zmien/ opravy CV (SK404)
+- ďalšie využite
+
+Colný úrad
+
+CÚ dovozu oznamuje stav CV
+
+Colný úrad
+
+Správa ktorou CÚ informuje deklaranta o
+formálnych chybách
+
+SK470
+SK455
+
+SK906
+
+Colný úrad
+Colný úrad
+
+Prepojenie s ostatnými systémami CIS
+•
+umožnenie automatizovaného spracovania úhrad colného dlhu (dopad na GMS)
+•
+
+vytvorenie podkladov pre agendu (resp. agendy) pre eDovoz v IS CEP
+
+•
+
+umožnenie účinnej analýzy rizika pri zjednodušených postupoch a pri neobchodnom tovare
+
+Evidencia povolení na osobitné režimy a zjednodušené postupy v dovoze
+•
+
+evidenciu povolení na osobitné režimy rozšíriť o možnosť zadania časovača na automatizované
+prepustenie osobitne pre každé povolenie
+
+•
+
+validácie povolení rozšíriť o kontrolu na novozavedené údaje napr. podávanie zjednodušených ciolných
+vyhlásení (druh „B") v zjednodušenom postupe zápisu do evidencie deklaranta
+
+Úprava APV GMS pre dovoz v súvislosti so zmenami v Colnom zákone
+•
+
+potrebné upraviť APV GMS v súvislosti so zmenami v zabezpečení colného dlhu v zmysle Colného
+zákona
+
+Migrácia údajov dovozných colných vyhlásení
+•
+•
+
+nie je požadovaná migrácia colných vyhlásení prijatých pred nasadením systému
+elektronické colné vyhlásenia podané prostredníctvom systému e-Dovoz budú evidované do nových
+prázdnych databázových tabuliek, čim sa eliminuje zaťaženosť systému pri dotazoch na databázu
+
+Havarijné postupy
+•
+•
+
+možnosť manuálneho vstupu údajov v havarijných stavoch ako aj možnosť načítania údajov z XML
+v štandrdnom postupe
+V prípade uplatnenia havarijného postupu v zjednodušenom postupe bude uplatnené dodatočné colné
+vyhlásenia typu „Z" obsahujúce všetky zápisy do evidencie deklaranta počas havarijného stavu.
+
+Automatizované uvoľnenie zabezpečenia v GMS po úhrade colného dlhu a vybavení osobitného režimu
+•
+•
+•
+•
+
+automatizované spracovanie informácií o úhradách evidované v ACISe zasielané doeDovoz.
+informácie po spracovaní v eDovoz odoslať opäť automatizovaným spôsobom do APV GMS Dovoz.
+potrebné dosiahnuť automatizované spracovanie informácií z eDovoz a pripísanie kreditu k príslušnej
+celkovej záruke, V prípade jednotlivej záruky, túto záruku uvoľniť
+zabezpečenie colného dlhu poskytnuté na osobitný režim uvoľniť bez informácie o úhrade z ACISu
+
+Evidencia colných vyhlásení pre neobchodný tovar
+Vzhľadom na rozmáhajúci sa intemetový obchod a tým narastajúci počet poštových a kuriérnych
+zásielok požadujeme aj túto oblasť zahrnúť do systému eDovoz. Colné vyhlásenia budú zasielané elektronickou
+formou cez EKR CEP do eDovoz - neobchodný tovar elektronickou správou SK405. Následne budú
+spracovávané v osobitnej zjednodušenej evidencii.
+Základné navrhované elektronické komunikačné správy - evidencia neobchodného tovaru
+Kód
+
+Názov
+
+Odosielateľ
+
+SK405
+
+Dovozné colné vyhlásenie neobchodný tovar
+
+Deklarant
+
+SK428A
+
+Rozhodnutie o prijatí colného
+vyhlásenia
+
+Colný úrad
+
+SK428B
+
+Rozhodnutie o neprijatí colného
+vyhlásenia
+
+Colný úrad
+
+SK429A
+
+Rozhodnutie o prepustení tovaru
+
+Colný úrad
+
+SK429B
+
+Rozhodnutie o neprepustení
+tovaru
+
+Colný úrad
+
+Popis
+Dovozné colné vyhlásenie podané
+deklarantom na CÚ dovozu pre tovar
+neobchodného charakteru (pošta, kuriérne
+služby)
+CU dovozu oznamuje prijatie CV
+v štandardnom (manuálne rozhodnutie
+colníka)
+CÚ dovozu oznamuje neprijatie CV
+v štandardnom (manuálne rozhodnutie
+colníka s uvedením dôvodu neprijatia)
+CÚ dovozu oznamuje deklarantovi
+rozhodnutie o prepustení tovaru do
+navrhovaného colného režimu a zároveň mu
+oznamuje výšku colného dlhu
+CÚ dovozu oznamuje deklarantovi
+rozhodnutie o neprepustení tovaru do
+navrhovaného colného režimu
+s odôvodnením
+
+SK906
+
+Chybová správa - funkčná
+chyba
+- zamietnutie prijatia
+
+Colný úrad
+
+Správa, ktorou CÚ informuje deklaranta o
+formálnych chybách
+
+Správa a aktualizácia číselníkov
+•
+automatizovaná aktualizácia číselníkov z CS/RD správami IE031/IE032
+
+Komunikácia so systémom dočasného uskladnenia DUT
+•
+•
+
+existujúcu komunikáciu so systémom DUT potrebné upraviť podľa nových štruktúr zadávaných
+informácií.
+V prípade podania colného vyhlásenia typu „D, E" bude potrebné upraviť validácie (nevalídovať) na
+predchádzajúci doklad
+
+Zasielanie elektronických príloh (faktúry, nákladné listy a pod.)
+
+•
+
+prekladania príloh (faktúry, nákladné listy, rôzne certifikáty a pod), v elektronickej podobe príp. ich
+elektronická kópia (napr. v *pdf),
+
+•
+
+ukladanie príloh na dokumentačný server do DMS CEP a ich sprístupnenie v eDovoz (link na prílohu)
+
+Štatistický modul
+•
+
+Po implementovaní novej funkcionality e-Dovozu bude potrebné dopracovať štatistické zostavy pre nové
+štruktúry údajov
+
+Poskytovanie údajov pre IS FS • DS
+•
+
+účinnosť § 84 zákona o 222/2004 o DPH od 01.01. 2017 - zavedenie tzv. „samozdaňovanie".
+
+•
+
+potrebné zaviesť účinný spôsob komunikácie s IS FS SD, aby bolo možné v reálnom čase podania
+daňového priznania DPH skontrolovať.
+
+V ý m e n a ú d a j o v eDovoz s r e l e v a n t n ý m i IS VS
+Modul eDovoz bude musieť pri získavaní a odovzdávaní údajov komunikovať s ďalšími systémami resp. modulmi,
+ktoré sú vymenované v nasledovnom odstavci, Ich komunikačné rozhrania budú musieť byť prispôsobené
+predpokladanému nárastu záťaže a niektoré z nich bude nutné prispôsobiť novým štruktúram prenášaných
+údajov.
+Potrebné zmeny funkcionality bude nutné realizovať v systémoch:
+•
+•
+•
+
+IS CEP - Centrálny elektronický priečinok
+GMS-DS - Záručný systém pre e-Dovoz
+NSAR - vytvorenie agendy pre eDovoz
+
+Nárast záťaže je predpokladaný v systémoch:
+
+3
+
+•
+
+ACIS - Finančný informačný systém
+
+•
+
+ERP - Evidencia rizikových profilov
+
+•
+
+ISST (Kvóty, Taric, Dohľad, Kalkulačný modul)
+
+•
+
+TIS-DUT- Dočasné uskladnenie tovaru
+
+•
+
+CReg - Centrálny register subjektov
+
+Požadované činnosti zhotoviteľa
+
+V rámci dodávky a implementácie predmetu Zmluvy zhotoviteľ zrealizuje nasledovné činnosti:
+•
+vypracovanie detailnej funkčnej špecifikácie (DFŠ),
+•
+vypracovanie Technického návrhu,
+vypracovanie Bezpečnostného projektu pre modul eDovoz,
+vypracovanie Implementačného plánu,
+vypracovanie Plánu testov,
+vypracovanie a dodávka aplikačného programového vybavenia modulu eDovoz a jeho komponentov,
+interné testovanie modulu eDovoz s testovacími dátami vyhotovenými zhotoviteľom,
+inštalácia a konfigurácia modulu eDovoz,
+vyhotovenie dokumentácie modulu eDovoz,
+uskutočnenie školenia školiteľov objednávateľa na prácu s modulom eDovoz,
+poskytovanie asistencie,
+riadenie kvality,
+
+3.1
+
+Vypracovanie Detailnej funkčnej
+
+špecifikácie
+
+Zhotoviteľ zabezpečí vypracovanie DFŠ pre modul eDovoz na základe požiadaviek zadania podľa tohto
+dokumentu. Súčasťou plnenia predmetu Zmluvy je:
+Súčinnosť pri vypracovaní podrobného popisu požiadaviek na modul eDovoz,
+Vypracovanie DFŠ modulu eDovoz vo forme UML modelov (typové úlohy, diagram tried, stavové
+diagramy a sekvenčné diagramy) tak, aby bola zabezpečená konzistentnosť špecifikácie riešenia.
+3.2
+
+Vypracovanie Technického
+
+návrhu
+
+Zhotoviteľ zabezpečí vypracovanie technického návrhu, ktorý bude vyhovovať požiadavkám popísaným v
+špecifikácii požiadaviek. Súčasťou plnenia predmetu zmluvy je:
+návrh architektúry riešenia pre modul eDovoz,
+návrh správy používateľov a používateľských profilov,
+technologický návrh riešenia a predpokladov na dosiahnutie výkonnostných požiadaviek
+objednávateľa v zmysle požadovaných parametrov riešenia, ktoré budú uvedené v schválenom popise
+požiadaviek na modul eDovoz.
+3.3
+
+Vypracovanie Bezpečnostného
+
+projektu
+
+Zhotoviteľ zabezpečí vypracovanie Bezpečnostného projektu modulu eDovoz, ktorý bude vyhovovať
+požiadavkám definovaným v platnej legislatíve a internej bezpečnostnej smernici FS.
+Bezpečnostný projekt pre modul eDovoz bude obsahovať:
+podrobnú špecifikáciu a poradie všetkých úkonov v rámci technických, organizačných a
+personálnych opatrení potrebných na eliminovanie a minimalizovanie hrozieb a rizík pôsobiacich na
+modul eDovoz z hľadiska narušenia jeho bezpečností a spoľahlivosti,
+návrh komplexného riešenia bezpečnosti modulu eDovoz,
+návrh ochrany dát pred neoprávneným prístupom,
+návrh ochrany pred neoprávneným používaním aíebo zneužitím modulu eDovoz.
+Bezpečnostný projekt bude v súlade so zákonom 275/2006 Z.z. a aktuálne platným všeobecne právnym
+predpisom o štandardoch pre informačné systémy verejnej správy.
+3.4
+
+Vypracovanie Implementačného
+
+plánu
+
+Zhotoviteľ zabezpečí vypracovanie Implementačného plánu pre predmet zmluvy, ktorý určí najmä:
+detailný časový rámec realizácie modulu eDovoz,
+plán školení školiteľov objednávateľa,
+plán migrácie údajov,
+spôsob zavedenia systému do rutinnej prevádzky.
+3.5
+
+Vypracovanie Plánu akceptačných
+
+testov
+
+Zhotoviteľ zabezpečí v súlade so schválenou Detailnou funkčnou špecifikáciu a v súlade so schváleným
+Technickým návrhom vypracovanie Plánu testov modulu eDovoz, ktorý určí najmä:
+detailný časový rámec akceptačného testovania modulu eDovoz,
+popis akceptačných testov a procedúr,
+•
+zodpovednosti počas akceptačného testovania,
+kritériá akceptačného testovania.
+3.6
+
+Vypracovanie a dodávka aplikačného programového
+
+vybavenia
+
+Zhotoviteľ je povinný nastaviť aplikačné programové vybavenie modulu eDovoz:
+v súlade so schválenou Detailnou funkčnou špecifikáciu,
+v súlade so schváleným Technickým návrhom,
+v súlade so schváleným Bezpečnostným projektom.
+
+Inštalácia a konfigurácia modulu eDovoz
+
+3.7
+
+Zhotovíte!'je povinný:
+nainštalovať a nakonfigurovať modul eDovoz na príslušnom technologickom zariadení,
+zabezpečiť v spolupráci s objednávateľom otestovanie funkcionality,
+pripraviť akceptačné protokoly pre odovzdanie modulu a príslušnej dokumentácie k modulu eDovoz.
+Vypracovanie a dodanie dokumentácie k modulu eDovoz
+
+3.8
+
+Zhotoviteľ je povinný dodať objednávateľovi súčasne s dodaním modulu eDovoz nasledujúcu dokumentáciu:
+Technickú dokumentáciu v slovenskom jazyku v elektronickej forme na CD, ktorá bude obsahovať:
+dátový model systému,
+popis architektúry,
+väzby na iné systémy,
+popis tokov dát.
+Prevádzkovú dokumentáciu v slovenskom jazyku v elektronickej forme na CD, ktorá bude obsahovať:
+•
+inštalačný postup aplikácie,
+•
+konfigurácia systémového SW serverov a pracovných staníc,
+chybové stavy a postup ich riešenia,
+•
+popis mechanizmuriadeniaprístupu používateľov k dátam a k funkciám aplikácie,
+•
+popis nastavených a požadovaných prístupových práv používateľov a komunikujúcich systémov,
+popis použitých a navrhovaných technických číselníkov, ich naplnenie pri inicializácií.
+Používateľskú dokumentáciu v slovenskom jazyku v elektronickej forme na CD, ktorá bude obsahovať:
+popis modulu eDovoz a jeho funkcií,
+postupy a úkony potrebné pre riadne používanie modulu eDovoz,
+Príručka používateľa,
+chybové a neštandardné stavy a dostupné spôsoby ich riešenia.
+Realizácia
+
+3.9
+
+školení
+
+V rámci projektu zhotoviteľ jednorázovo zaškolí školiteľov objednávateľa. Školitelia objednávateľa následne
+zaškolia ďalšie skupiny používateľov modulu eDovoz.
+Objednávateľ poskytne pre školenie školiteľov učebňu vybavenú počítačmi. Zhotoviteľ zabezpečí pre školenie
+školiteľov prípravu a rozmnoženie učebných materiálov.
+Zhotoviteľ ďalej zabezpečí zaškolenie technického obslužného personálu objednávateľa.
+3.10 Poskytnutie podporných služieb po uvedení modulu eDovoz do produkčnej
+
+prevádzky
+
+Zhotoviteľ bude po dobu 90 pracovných dní od zavedenia modulu eDovoz do produkčnej prevádzky poskytovať
+podporu tímu objednávateľa pre zabezpečenieriadnejrutinnej prevádzky systému nasledovne:
+Intenzívna podpora prevádzky APV počas 90 dní (45 + 45 dní) od odovzdania a prevzatia prototypu
+eDovoz a finálnej akceptácie eDovoz v zmysle článku III. bod 2.5 zmluvy
+
+I. Predmet poskytovania služby intenzívnej podpory
+A.
+B.
+C.
+D.
+
+poskytovanie služieb servisného hotline
+realizácia prevádzkových zásahov (správa systému)
+realizácia pravidelných preventívnych zásahov (profylaktika a monitoring)
+realizácia servisných zásahov (riešenie incidentov) v prípade nefunkčnosti systému alebo jeho
+komponentov
+
+E.
+
+realizácia servisných zásahov podľa požiadaviek (riešenie požiadaviek na zmenu konfigurácie)
+
+A. Poskytovanie služieb servisného hotline
+a) Poskytovanie služieb servisného hotline zahŕňa služby kontaktného centra prostredníctvom
+komunikačných kanálov:
+i. telefonicky na telefónnom čisle kontaktného centra zhotoviteľa
+ii. alebo faxom na telefónnom čísle kontaktného centra zhotoviteľa
+iii. alebo emailom na emailovej adrese kontaktného centra zhotoviteľa
+b) Všetky vyžiadané požiadavky na služby technickej podpory a rozvoja bez ohľadu na primárny
+spôsob nahlásenia (telefón, fax) musia byť následne nahlásené zhotoviteľovi aj formou emailu
+na emailovej adrese kontaktného centra zhotoviteľa.
+c) Zhotoviteľ je povinný formou emailu potvrdiť doručenie požiadavky na poskytnutie služieb
+technickej podpory na pracovisko centrálnej technickej podpory objednávateľa.
+B. Realizácia prevádzkových zásahov (správa systému), ktorými sú:
+a)
+podpora, resp. aktualizácia konfigurácie systému
+b)
+inštalácie aktualizácií a patchov aplikačného programového vybavenia (bez rozšírenia
+funkcionality systému)
+ladenie výkonnosti systému
+c)
+d)
+ostatné činnosti bežnej podpory prevádzky systému:
+i)
+spracovávanie a priebežná aktualizácia Vzorovej konfigurácie systému, súčasne so zaškolením
+zamestnancov objednávateľa,
+ii) spracovávanie a priebežná aktualizácia Vzorových pracovných postupov pre aktualizáciu
+systému,
+iii) spracovávanie a priebežná aktualizácia Vzorových pracovných postupov pre realizáciu
+preventívnych zásahov,
+iv) spracovávanie a priebežná aktualizácia Vzorových pracovných postupov pre riešenie Incidentov,
+v) integrácia systémovej podpory, pre ktorú existuje štandardná podpora dodávateľov jednotlivých
+prvkov prevádzkovej infraštruktúry a ktorú môže vykonať zhotoviteľ na požiadanie objednávateľa,
+C. Realizácia pravidelných preventívnych zásahov (profylaktika a monitoring) podľa Vzorových pracovných
+postupov pre realizáciu preventívnych zásahov
+a)
+Možné spôsoby realizácie preventívnych zásahov:
+i)
+automatizovaným spôsobom, pomocou SW vybavenia na to určeného,
+ii) vzdialeným prístupom (za vopred dohodnutých podmienok),
+iii) osobne, na mieste prevádzky systému.
+b)
+Primárnym cieľom preventívnych zásahov je
+i)
+kontrola konzistencie konfigurácie a databáz APV
+H) identifikácia potenciálnych rizík, ohrozujúcich funkcíonalitu, dostupnosť a prevádzku APV,
+spôsobujúcich výpadky systému, resp. obmedzenia funkcionality a dostupnosti systému.
+Predmetom preventívnych zásahov je predkladanie návrhov na servisné zásahy s cieľom
+eliminovať identifikované potencionálne riziká.
+D. Servisné zásahy v prípade nefunkčnosti systému alebo jeho komponentov (riešenie incidentov)
+Incident je:
+i)
+výpadok systému - prerušenie prevádzky APV sprevádzané nedostupnosťou služieb aplikačného
+a databázového software (aplikačného a/alebo databázového servera) pre jeho používateľov a
+integrované informačné systémy, spôsobené výlučne v dôsledku Poruchy aplikačného alebo
+databázového software,
+ii) porucha funkčnosti APV sprevádzaná nedostupnosťou alebo nesprávnou funkčnosťou tak, že sa
+APV nedá využívať pre pôvodne plánovaný účel a spôsobuje nepoužiteľnosť systému na
+stanovený účel,
+b)
+V prípade identifikácie incidentu, bude Zhotoviteľ riešiť incidenty, súvisiace s prevádzkou
+systému:
+i)
+telefonicky, v spolupráci s technickou podporou Objednávateľa,
+ií) vzdialeným prístupom pomocou (za vopred dohodnutých podmienok),
+iii) osobne, na mieste vzniku Incidentu.
+c)
+Riešenie incidentu sa realizuje
+i)
+zmenou konfigurácie systému
+a)
+
+d)
+
+e)
+
+ii) reinštaláciou pôvodnej verzie aplikačného programového vybavenia
+iii) reinštaláciou pôvodnej verzie alebo inštaláciou aktualizácie systémového software
+iv) dodaním novej verzie aplikačného programového vybavenia
+V rámci riešenia incidentu sa realizuje:
+i)
+analýza identifikovaných incidentov a problémov v prevádzkovom prostredí Objednávateľa
+{aktuálna hardware infraštruktúra, systémový software, aplikačné programové vybavenie a obsah
+príslušných databáz)
+ii) odstraňovanie chýb v APV, ktoré boli spôsobené nekorektným zásahom užívateľov
+iii) dokumentovanie konfiguračných zmien a servisných zásahov súvisiacich s odstraňovaním
+incidentov a problémov
+Predpokladom odstránenia incidentu je:
+í)
+že sa jedná o poruchu funkčnosti systému,
+ii) sú splnené všetky technické predpoklady uvedené v dokumentácií pre prevádzku APV,
+iii) objednávateľ poskytol pri riešení Incidentu požadovanú súčinnosť.
+
+E. Servisné zásahy podľa požiadaviek (riešenie požiadaviek na zmenu konfigurácie)
+V prípade, že o to centrálna technická podpora objednávateľa požiada, bude zhotoviteľ riešiť
+požiadavky na zmenu konfigurácie, súvisiace s prevádzkou systému :
+telefonicky, v spolupráci s technickou podporou objednávateľa,
+ii) vzdialeným prístupom,
+iii) osobne, na mieste vzniku Incidentu.
+b)
+Riešenie požiadavky na zmenu konfigurácie sa realizuje
+i)
+zmenou konfigurácie systému
+ii) reinštaláciou pôvodnej verzie aplikačného programového vybavenia
+iii) reinštaláciou pôvodnej verzie alebo inštaláciou aktualizácie systémového software
+c)
+V rámci riešenia požiadavky na zmenu konfigurácie sa realizuje:
+í)
+analýza identifikovaných požiadaviek na zmenu konfigurácie v prevádzkovom prostredí
+objednávateľa (aktuálna hardware infraštruktúra, systémový software, aplikačné programové
+vybavenie a obsah príslušných databáz)
+ii) dokumentovanie konfiguračných zmien a servisných zásahov súvisiacich s realizovaním
+požiadavky na zmenu konfigurácie
+a)
+
+II. Princípy poskytovania služby podpory:
+
+•
+
+•
+
+Zhotoviteľ bude poskytovať služby podpory za nasledovných podmienok ;
+Základná doba (ďalej len „Základné časové pokrytie") pre poskytovanie služieb je od 8:00 do 16:00
+hod., od pondelka do piatku, s výnimkou štátom uznaných sviatkov (ďalej len „8x5"), pokiaľ nie je
+explicitne uvedené inak pre vybrané služby.
+Zhotoviteľ bude poskytovať služby a vykonávať nasledovne:
+
+Úroveň Časového pokrytia
+
+Servisná služba
+Servisný hotline
+Prevádzkové zásahy (správa systému)
+Pravidelné preventívne zásahy
+(profylaktika a monitoring)
+Servisné zásahy (riešenie incidentov a
+riešenie požiadaviek na zmenu
+konfigurácie)
+•
+
+Kritické problémy a
+požiadavky
+24x7
+24x7
+
+Ostatné problémy
+a požiadavky
+s normálnou prioritou
+24x7
+8x5
+
+8x5
+
+8x5
+
+24x7
+
+8x5
+
+Zhotoviteľ začne so servisným zásahom kritického problému a požiadavky (riešením Incidentu
+kompetentným zamestnancom podpory) v lehote do 1 hodiny od nahlásenia Incidentu takto:
+
+o
+o
+o
+
+•
+
+telefonicky sa spoji s technickou podporou objednávateľa,
+v prípade potreby je schopný okamžite sa vzdialene pripojiť na infraštruktúru objednávateľa,
+v prípade potreby je schopný osobne sa dostaviť do priestorov prevádzky systému
+u Objednávateľa.
+Zhotoviteľ začne so servisným zásahom normálneho problému a požiadavky (riešením Incidentu
+kompetentným zamestnancom podpory) bez zbytočného odkladu v lehote najneskôr do najbližšieho
+pracovného dňa od nahlásenia incidentu takto:
+o telefonicky sa spojí s technickou podporou objednávateľa,
+o v prípade potreby je schopný okamžite sa vzdialene pripojiť na infraštruktúru objednávateľa,
+o v prípade potreby je schopný osobne sa dostaviť do priestorov prevádzky objednávateľa
+o v prípade potreby bude zhotoviteľ v súčinnosti s technickou podporou objednávateľa
+okamžite riešiť Incident až do:
+i) jeho vyriešenia, alebo
+ií) zabezpečenia dočasného režimu funkčnosti systému (funkcia a plánovaná použiteľnosť systému
+je v zmysle požiadaviek a funkčnej špecifikácie síce poskytovaná odlišne, avšak nie je podstatne
+ovplyvňované jej pôvodne plánované použitie) vytvorením náhradného postupu alebo dočasného
+riešenia
+
+Zhotoviteľ bude všetky prevádzkové a servisné zásahy realizovať v súlade s Plánom prevádzkových zásahov
+a preventívnych zásahov, alebo na základe požiadania poverených zamestnancov objednávateľa. Výnimku tvoria
+servisné zásahy v prípadoch, kedy je ohrozená prevádzkyschopnosť a dostupnosť systému. V tomto prípade
+zhotoviteľ realizuje zásah okamžite a súčasne informuje poverených zamestnancov objednávateľa.
+V prípade realizácie prevádzkového zásahu zhotoviteľ poskytne súhrnnú informáciu formou protokolu o
+realizovaní prevádzkového zásahu obsahujúci popis realizovaných servisných úkonov.
+V prípade realizácie preventívneho zásahu zhotoviteľ poskytne súhrnnú informáciu formou protokolu o
+realizovaní preventívneho zásahu obsahujúci výsledky preventívneho zásahu a podnety pre aktualizáciu
+systému, návrhy pre úpravu pracovných postupov pre realizáciu preventívnych zásahov.
+V prípade realizácie servisného zásahu z dôvodu identifikovaného a/alebo hláseného incidentu zhotoviteľ
+poskytne súhrnnú informáciu formou protokolu o servisnom zásahu vrátane informácií o príčinách incidentu a
+spôsobe jeho odstránenia.
+V prípade realizácie servisného zásahu z dôvodu požiadavky na zmenu konfigurácie zhotoviteľ poskytne
+súhrnnú informáciu formou protokolu o servisnom zásahu.
+II. Kvantifikácia služieb podľa bodov I.A) až I.E):
+Druh činnosti
+Poskytovanie služieb
+servisného hotline
+Poskytovanie služieb
+servisného hotline
+Poskytovanie služieb
+servisného hotline
+Realizácia prevádzkových
+zásahov (správa systému)
+Realizácia pravidelných
+preventívnych zásahov
+(profylaktika a monitoring)
+Realizácia servisných
+zásahov (riešenie
+incidentov) v prípade
+nefunkčnosti systému
+alebo jeho komponentov
+Realizácia servisných
+zásahov podľa
+požiadaviek (riešenie
+požiadaviek na zmenu
+konfigurácie)
+
+Položka
+
+Rola konzultanta
+
+Manažment
+
+Konzultant
+
+Pohotovosť všetkých
+uvedených systémov
+Pohotovosť všetkých
+uvedených systémov
+
+Pohotovosť expertov
+16/24x7
+Pohotovosť expertov
+8x5
+Mladší (junior)
+konzultant
+
+On-site support
+On-site support
+
+Technik podpory
+
+Asistenčná podpora
+
+Mladší (junior)
+konzultant
+
+Asistenčná podpora
+
+Konzultant
+
+3.11 Zabezpečenie
+
+kvality
+
+Pri projekte eDovoz je zabezpečenie kvality nevyhnutným predpokladom úspešnej realizácie jednotlivých fáz a
+ich prepojenia formou plynulého odovzdávania výsledkov jednej fázy vo forme podkladov pre ďalšiu fázu. Cieľom
+aktivity je zabezpečenie takých výstupov, ktoré budú spĺňať kvalitatívne požiadavky objednávateľa na dodané
+výstupy projektu.
+Požiadavky na činnosti zhotoviteľa sú nasledovné:
+zhotoviteľ zabezpečí Systém kvality {podľa normy ISO 9001:2000),
+bude vytvorený Plán kvality, pričom v spolupráci s objednávateľom budú zadefinované kritériá kvality
+produktov,
+bude zabezpečená kontrola plnenia kvality dodávky podľa plánu kvality.
+3.12 Asistencia
+
+riadenia
+
+Zhotoviteľ zabezpečí asistenciu riadenia projektu:
+plánovanie, manažment a kontrola projektových činností na dennej báze,
+riadenie a koordinácia ľudských a materiálnych zdrojov na strane zhotoviteľa,
+zabezpečenie koordinácie a komunikácie medzi vedením projektu na strane objednávateľa a vedením
+projektu na strane zhotoviteľa,
+riadenie rizík a otvorených otázok projektu,
+riadenie zmenových požiadaviek,
+riadenie projektovej ínfraštruktúry, konfiguračný manažment a riadenie znalostí,
+monitorovanie priebehu projektu a čerpaných nákladov.
+
+4
+
+Požiadavky na informačný systém
+
+Zhotoviteľ sa zaručuje dodržať všetky požiadavky, ktoré sú kladené na predmet zmluvy. Uvedené požiadavky môžu
+byť objednávateľom detailizované a podľa potreby doplnené vo fáze Detailnej funkčnej špecifikácie. Schválená
+Detailná funkčná špecifikácia sa stane záväzným podkladom pre ďalšie etapy, t.j.: implementáciu, testovanie a
+nasadenie.
+4.1
+
+Všeobecné systémové
+
+požiadavky
+
+Modul eDovoz bude mať viacvrstvovú architektúru, ktorá sa skladá z prezentačnej vrstvy na klientskej strane,
+prezentačnej vrstvy na serverovej strane, vrstvy servisov, vrstvy aplikačnej logiky a dátovej vrstvy. Modul eDovoz bude
+vybudovaný na princípoch SOA ako sú autonómne služby, interoperabilita, voľné väzby a ďalšie.
+4.2
+
+Požiadavky na kvalitu riešenia.
+
+Modul eDovoz musí byť škálovateľný v nasledovných oblastiach:
+•
+počet používateľov - je predpoklad, že bude od spustenia modulu eDovoz rásť a je potrebné zachovať
+rovnaké odozvy,
+• objem údajov - keďže počet podávaných dokumentov bude narastať, budú rásť aj požiadavky na úložisko.
+4.3
+
+Požiadavky na dostupnosť a odolnosť systému voči výpadkom.
+
+Modul eDovoz bude schopný prevádzky v režime 7x24 hodín (týždenne).
+4.4
+
+Požiadavky na
+
+udržateľnosť
+
+Vývojové prostredie na strane dodávateľa musí byť udržiavané aj po nasadení riešenia do produkčnej prevádzky.
+Zdrojové kódy riešenia musia byť prehľadné, okomentované, ľahko pozmeniteľné a nasaditeľné.
+4.5
+
+Požiadavky na bezpečnosť
+
+Pre modul eDovoz bude vytvorený Bezpečnostný projekt, ktorý bude obsahovať návrh komplexného riešenia
+bezpečnosti pokrývajúci:
+• ochranu pred neoprávneným prístupom,
+• ochranu pred neoprávneným používaním alebo zneužitím modulu eDovoz,
+• správu používateľov a používateľských účtov,
+• zaznamenávanie vybraných činností v module eDovoz (používateľ a vykonané operácie, čas vykonania
+operácie) a nástroj na ich vyhodnocovanie.
+Bezpečnostný projekt musí obsahovať:
+d) bezpečnostný zámer,
+e) analýzu bezpečnosti IS,
+f) závery vyplývajúce z bezpečnostného zámeru a analýzy bezpečnosti IS.
+
+4.6
+
+Autorizácia
+
+a prístup na základe roli
+
+Dostupnosť funkcií systému musí podliehať oprávneniam. Jednotlivé funkcie systém budú sprístupnené len
+používateľovi s priradeným príslušným oprávnením. Pre jednoduchší výkon správy musí byť priraďovanie oprávnení
+používateľom riešené ich zaraďovaním do používateľských skupín.
+
+31
+
+4.7
+
+Používatelia systému, ich identifikácia a autentifikácia
+
+Modul eDovoz zabezpečí pre všetky svoje rozhrania - používateľské rozhrania aj komunikačné rozhrania do tretích
+systémov ochranu pred neoprávneným prístupom.
+Na identifikáciu a autentifikáciu používateľov systému sa budú využívať dostupné mechanizmy IAM. Pre interných
+používateľov je požadované využitie autentifikácie s využitím existujúceho AD - Active Directory.
+4.8
+
+Kapacita a výkon systému
+
+Požiadavky na počet paralelne prihlásených používateľov a požiadavky na objem spracovaných údajov budú
+upresnené v Technickom návrhu systému eDovoz.
+4.9
+
+Organ izačné požiadavky n a prevádzku systém u
+
+Produkčné prevádzkové prostredie bude slúžiť na prevádzku modulu eDovoz v primárnom prevádzkovom centre.
+Budú na neho pristupovať všetci používatelia, okrem prípadu, keď dôjde k výpadku tohto prostredia. Produkčné
+prevádzkové prostredie bude v správe Prevádzkovateľa systému a bude nasadené v primárnom prevádzkovom
+centre. Prostredie bude spĺňať všetky požiadavky uvedené v tomto dokumente na dostupnosť, výkon, udržiavateľnosť,
+bezpečnosť, atď.
+Záložné prevádzkové prostredie bude prevádzkované v záložnom prevádzkovom centre a musí umožňovať
+kontinuitu prevádzky. Záložné prevádzkové prostredie bude v správe Prevádzkovateľa systému.
+Testovacie prostredie bude slúžiť jednak na integračné, systémové a akceptačné testy, ako aj na testovanie
+prototypov modulu eDovoz a na školenie používateľov. Testovacie prostredie bude v správe Prevádzkovateľa
+systému.
+Testovacie prostredie bude:
+• jednoducho spravovateľné a obnoviteľné v prípade zlyhania nasadenia novej verzie,
+• obsahovať dostatočný počet serverov na otestovanie všetkej potrebnej funkcionality.
+Za vybudovanie a správu Vývojového prostredia je zodpovedný zhotovíte!'.
+4.10 Zálohovanie a obnova údajov
+Pre zálohovanie údajov modulu eDovoz musia byť vymedzené príslušné objekty podliehajúce zálohovaniu tak, aby
+mohli byť automaticky zálohované zálohovacími systémami IS FS bez manuálneho zásahu (t.j. štandardnými
+funkciami zálohovacieho systému alebo skriptami).
+Bude potrebné poskytnutie súčinnosti zo strany FS v nasledovných oblastiach:
+• Začlenenie systému zálohovania modulu eDovoz do metodiky zálohovania IS FS.
+•
+Otestovanie systému zálohovania modulu eDovoz pred nasadením modulu eDovoz do produkčnej prevádzky.
+4.11 Monitorovanie a reporting
+Pre monitoring modulu eDovoz budú vymedzené objekty monitorovania tak, aby mohli byť zakomponované v prostredí
+existujúceho monitorovacieho systému IS FS.
+Bude potrebné poskytnutie súčinnosti zo strany FS v nasledovných oblastiach:
+• Začlenenie systému monitoringu modulu eDovoz do metodiky monitoringu IS FS.
+•
+Otestovanie systému monitoringu pred nasadením modulu eDovoz do produkčnej prevádzky.
+
+32
+
+5
+
+Architektúra riešenia a základné submoduly modulu eDovoz
+
+5.1
+Submodul Procesy eDovoz
+V rámci riešenia modulu eDovoz bude submodul Procesy eDovoz poskytovať služby na podporu
+automatizovaného colného dohľadu nad dovozom tovaru:
+Prijatie CV a správ od deklarantov a ich spracovanie,
+-
+
+Životný cyklus CV v systéme eDovoz,
+
+-
+
+Operácie nad C V,
+
+-
+
+Manažment CV,
+
+-
+
+Prehľad CV,
+
+-
+
+Generovanie správ pre deklarantov.
+
+5.2
+Identifikačný a autentifikačný submodul
+V rámci riešenia modulu eDovoz budú využívané služby modulu IAM z IS CEP. Tento modul bude
+parametrický upravený pre zabezpečenie jeho funkčnosti v zmenených podmienkach. IAM submodul
+eDovoz bude prevádzkovaný ako samostatná inštancia pre potreby správy používateľov a riadenie prístupov
+v module eDovoz.
+5.3 Administračný submodul
+V rámci riešenia modulu eDovoz budú využívané služby administračného modulu IS CEP. Administračný
+submodul eDovoz bude prevádzkovaný ako samostatná inštancia určená pre zabezpečenie požiadaviek na
+administráciu a konfiguráciu modulu eDovoz.
+^ ^ ^ ^ ^
+. . ^ ^ ^
+^ ^ ^ _
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+5.4
+Modul elektronické komunikačné rozhranie
+V rámci riešenia modulu eDovoz budú využívané služby modulu EKR IS CEP na vzájomnú elektronickú
+komunikáciu.
+5.5
+Vstupný submodul
+Vstupný submodul bude poskytovať funkčnosť v prípade tzv. havarijného stavu, t.j. umožní manuálny zápis
+colného výhlásenia v dovoze a príslušné operácie s ním.
+5.6
+Workdesk obchodníka
+V rámci riešenia modulu eDovoz bude modul IS CEP Workdesk obchodníka využívaný pre vytvorenie
+a podanie colného vyhlásenia a realizáciu ostatnej elektronickej komunikácie v rámci agendy (resp. agend)
+vytvorených pre eDovoz v IS CEP formou elektronických formulárov.
+5.7
+Platobný modul
+Platobný modul IS CEP bude využívaný v kontexte agendy (resp. agend) vytvorených pre eDovoz v IS CEP
+v rámci komunikácie realizovanej prostredníctvom Workdesku obchodníka.
+5.8
+Modul DMS
+Modul DMS (dokument manažment systém) CEP bude poskytovať služby úložiska dokumentov podávaných
+prostredníctvom IS CEP, či už prostredníctvom modulu Workdesku úradníka alebo modulu Elektronické
+komunikačné rozhranie.
+
+33
+
+J
+
+41
+
+J
+
+J
+
+£
+
+718006
+
+Analýza
+
+rH
+
+(N
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+ro
+
+Analýza
+
+Analýza
+
+Analýza
+
+Implem:entácia
+
+Implem lentácia
+
+Implem^entácia
+
+Implem entácia
+
+Implem entácia
+
+00
+
+CTI O
+rH
+
+rH
+rH
+
+r\i
+rH
+
+ro
+rH
+
+<*
+
+<
+
+ro
+
+LT)
+
+UO
+
+Tester/Dokumentarista
+
+Človekodeň
+
+Človekodeň
+
+1091
+
+520,00 €
+
+575,00 €
+
+un
+
+Funkčný prototyp
+
+Programátor
+
+57 800,00 €
+
+680,00 €
+
+114 400,00 €
+
+627 325,00 €
+
+220 825,00 €
+
+121 600,00 €
+
+46 800,00 €
+
+35 360,00 €
+
+72 080,00 €
+
+625 570,00 €
+
+295 040,00 €
+
+74 100,00 €
+
+41 480,00 €
+
+640,00 €
+
+780,00 €
+
+680,00 €
+
+680,00 €
+
+605,00 €
+
+ID
+ro
+
+Funkčný prototyp
+
+Človekodeň
+
+Človekodeň
+
+CTI un
+00
+T-í"
+
+Analytik
+
+Architekt
+
+o
+
+Funkčný prototyp
+
+Funkčný prototyp
+
+UD
+
+Človekodeň
+
+o
+
+Konzultant
+
+Človekodeň
+
+un
+
+Funkčný prototyp
+
+Manažér
+
+Človekodeň
+
+Človekodeň
+
+rsi
+
+DFŠ a TN
+
+Systémový špecialista
+
+J
+
+Asistencia riadenia
+
+Architekt
+
+605,00 €
+
+1034
+
+ID
+O
+rH
+
+technický návrh
+
+špecifikácia a
+
+Detailná funkčná
+
+640,00 €
+
+rH
+ID
+<sr
+
+špecifikácia a
+
+Človekodeň
+
+Človekodeň
+
+un
+
+technický návrh
+
+Analytik
+
+Konzultant
+
+780,00 €
+
+rH
+ID
+
+Detailná funkčná
+
+technický návrh
+
+špecifikácia a
+
+Detailná funkčná
+
+Človekodeň
+
+ro
+UD
+Ol
+
+technický návrh
+
+špecifikácia a
+
+Manažér
+
+680,00 €
+
+624,00 €
+
+690,00 €
+
+726,00 €
+
+816,00 €
+
+768,00 €
+
+936,00 €
+
+816,00 €
+
+816,00 €
+
+726,00 €
+
+768,00 €
+
+936,00 €
+
+816,00 €
+
+768,00 €
+
+48 384,00 €
+
+Celková cena s
+DPH 20% [€]
+
+88 920,00 €
+
+137 280,00 €
+
+752 790,00 €
+
+264 990,00 €
+
+69 360,00 €
+
+145 920,00 €
+
+56 160,00 €
+
+42 432,00 €
+
+86 496,00 €
+
+750 684,00 €
+
+354 048,00 €
+
+•*
+
+718006
+
+ro
+
+Detailná funkčná
+
+plán
+
+Človekodeň
+
+40 320,00 €
+
+Jednotková
+cena s DPH
+20% [€]
+
+Ol
+
+detail.koncept a impl.
+
+Architekt
+
+1
+640,00 €
+
+Celková cena
+bez DPH [€]
+
+r¬
+
+Analýzč
+
+implementačný plán
+Asistencia riadenia -
+
+i
+Človekodeň
+
+I
+
+718006
+
+Konzultant
+
+1
+
+Detailný koncept a
+
+n
+
+Analýza
+
+á
+
+Detailný koncept a
+
+c ra i i
+
+O -Q lui
+
+implementačný plán
+
+>
+
+9
+•s
+•—
+
+718006
+
+sčet
+
+'B
+
+Analýza
+
+Part Number
+
+S.
+
+podpoložka
+
+M
+
+Názov výdavku
+
+J
+
+výdavkov
+
+Skupina
+
+1
+
+Názov ;aktivity
+
+1
+
+Super ID
+
+i
+O
+O
+UÍ
+
+o
+
+rsi
+rM
+
+.Si,
+
+co
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+718006
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+Implementácia
+
+implementácia
+
+Implementácia
+
+Implementácia
+
+m
+
+ID
+rH
+
+r»
+
+co
+
+01
+rH
+
+o
+
+rH
+
+rM
+rM
+
+ro
+rN
+
+NT
+tN
+
+m
+
+ID
+rN
+
+r-.
+
+tN
+
+00
+rN
+
+cn
+
+O
+
+rH
+ro
+
+rH
+
+rH
+
+rM
+
+r\i
+
+(N
+
+rN
+
+ro
+
+rN
+ro
+
+718006
+
+Ä
+
+Dokumentácia
+
+Systémový špecialista
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+Konzultant
+
+Bezpečnostný projekt
+
+Konzultant
+
+Človekodeň
+Architekt
+
+Bezpečnostný projekt
+
+Dokumentácia
+
+Človekodeň
+
+Manažér
+
+936,00 €
+
+936,00 €
+816,00 €
+768,00 €
+
+67 860,00 €
+
+21 840,00 €
+20 400,00 €
+76 800,00 €
+
+780,1 30 €
+
+780,i30 €
+30 €
+640,i30 €
+
+640
+
+i
+
+o
+o
+
+rN
+Nf
+
+a nasadenie do
+
+S:
+
+r-i
+rH
+
+o
+
+Akceptačné testovanie
+
+c
+
+ro
+
+718006
+
+OJ
+
+o
+
+produkcie
+
+ro
+
+plán akceptačrlého
+
+Človekodeň
+
+118 320,00 €
+
+26 880,00 €
+
+816,00 €
+
+768,00 €
+
+672,00 €
+
+00
+rN
+
+10 080,00 €
+
+r»
+oo
+
+a nasadenie do
+
+'
+
+testovania
+
+Manažér
+
+624,00 €
+
+560,1
+
+98 800,00 €
+
+816,00 €
+
+00
+rH
+
+k>>
+
+Asistencia riadisnia -
+
+Človekodeň
+
+rH
+
+o
+en
+
+o
+
+funkčný protot
+
+Administrátor
+
+C~i
+
+520,(
+
+o
+
+Asistencia riadi
+
+Človekodeň
+
+690,00 €
+
+17 250,00 €
+575,1 30 €
+
+w
+
+testovania
+
+Tester/Dokumentarista
+
+ro
+
+Plán akceptačrlého
+
+Človekodeň
+
+o
+
+testovania
+
+Programátor
+
+726,00 €
+
+30 250,00 €
+
+605,1 30 €
+
+o
+m
+
+Plán akceptačrlého
+
+Človekodeň
+
+rM
+
+testovania
+
+Analytik
+
+17 000,00 €
+
+680,1 30 €
+
+m
+
+Plán akceptačného
+
+Človekodeň
+
+rM
+
+768,00 €
+
+33 280,00 €
+
+640,1 30 €
+
+936,00 €
+
+rM
+
+in
+
+testovania
+
+Architekt
+
+rH
+
+Plán akceptačn ého
+
+Človekodeň
+
+672,00 €
+
+624,00 €
+
+28 000,00 €
+
+166 920,00 €
+
+102 960,00 €
+
+560,1
+
+520,00 €
+
+690,00 €
+
+726,00 €
+
+816,00 €
+
+768,00 €
+
+672,00 €
+
+Jednotková
+cena s DPH
+20% [€]
+
+780,1 :o€
+
+ro
+
+testovania
+
+Konzultant
+
+o
+m
+
+Plán akceptačn ého
+
+Človekodeň
+
+605,00 €
+840 650,00 €
+
+51 000,00 €
+204 490,00 €
+
+680,00 €
+
+575,1
+
+82 560,00 €
+
+29 120,00 €
+
+Celková cena
+bez DPH [€]
+
+640,00 €
+
+560,1
+
+DPH[€]
+
+lit)
+
+testovania
+
+Manažér
+
+Jedntol
+
+(—t
+
+Plán akceptačn ého
+
+ro
+
+o
+
+Modul eDovoz
+
+Človekodeň
+
+Administrátor
+
+1462
+rH
+rM
+
+Modul eDovoz
+
+Človekodeň
+
+Tester/Dokumentarista
+
+00
+ro
+ro
+
+Asistencia riadenia -
+
+Človekodeň
+
+Programátor
+
+(N
+
+Modul eDovoz
+
+Človekodeň
+
+Analytik
+
+m
+
+Modul eDovoz
+
+Človekodeň
+
+Architekt
+
+m
+
+Modul eDovoz
+
+Človekodeň
+
+Konzultant
+
+jednotiek
+
+Počet
+
+rM
+rH
+
+Modul eDovoz
+
+Človekodeň
+
+Administrátor
+
+Part Number
+
+m
+
+Modul eDovoz
+
+Funkčný protot:yp
+
+Názov výdavku
+
+1
+rM
+
+o
+
+Akceptačné testovanie
+
+718006
+
+rH
+
+podpoložka
+
+Implementácia
+
+výdavkov
+
+Skupina
+
+o
+
+i'089
+
+Názov aktivity
+
+>
+9 a
+
+i'089
+
+Super 10
+
+•ro
+
+i«J
+
+o
+o
+
+<a-
+
+rH
+
+ro
+ro
+
+141 984,00 €
+
+32 256,00 €
+
+92 160,00 €
+
+24 480,00 €
+
+26 208,00 €
+
+81432,00 €
+
+12 096,00 €
+
+118 560,00 €
+
+20 700,00 €
+
+36 300,00 €
+
+20 400,00 €
+
+39 936,00 €
+
+123 552,00 €
+
+33 600,00 €
+
+200 304,00 €
+
+1 008 780,00 €
+
+245 388,00 €
+
+61 200,00 €
+
+99 072,00 €
+
+34 944,00 €
+
+Celková cena s
+DPH 20% [€]
+
+•ra
+Z
+
+!
+
+M¬
+
+ro
+
+LTI
+
+ro
+
+produkcie
+
+ID
+
+ro
+
+ro
+
+00
+ro
+
+Ol
+
+ro
+
+o
+•*
+
+<
+
+ro
+
+rH
+
+Q ä.
+.
+•<
+
+e
+
+ro
+
+Školenia školiteľov a
+
+rM
+
+2 ä
+
+Q.<
+
+ro
+
+č 2
+
+r\
+
+Q.
+
+ro
+
+produkcie
+
+a nasadenie do
+
+Akceptačné testovanie
+
+718006
+
+Podpora, stabilizácia
+
+techn. pers.
+
+školenia školiteľov,
+
+718006
+
+Konzultant
+
+Manažér
+
+Tester/C'okumentarista
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+51 750,00 €
+
+17 472,00 €
+
+55 224,00 €
+
+30 720,00 €
+
+31 200,00 €
+
+43 056,00 €
+
+23 040,00 €
+
+690,00 €
+
+624,00 €
+
+936,00 €
+
+768,00 €
+
+624,00 €
+
+936,00 €
+
+768,00 €
+
+43 125,0'
+
+14 560,0
+
+46 020,0'
+
+25 600,0'0 €
+
+Q
+
+26 000,0'
+
+o
+
+35 880,0'
+
+o
+
+19 200,0:
+
+605,00 €
+
+605,00 €
+
+575,00 €
+
+520,00 €
+
+780,00 €
+
+640,00 €
+
+520,00 €
+
+780,00 €
+
+640,00 €
+
+rM
+CTI
+
+LTI
+r~
+00
+rM
+01
+in
+
+o
+o
+U3
+
+un
+
+dukcie
+
+Asistencia riadenia -
+
+eptačné testovanie
+
+äsadenie do
+
+technického personálu
+
+Konzultant
+
+Manažér
+
+Človekodeň
+
+"flctar/r 'okumentarista
+
+1—
+
+dukcie
+
+äsadenie do
+
+718006
+
+dukcie
+
+eptačné testovanie
+
+Školenia školiteľov a
+technického personálu
+
+äsadenie do
+
+718006
+
+produkcie
+
+Človekodeň
+
+Programátor
+
+66 792,00 €
+726,00 €
+
+55 660,0'
+
+a
+
+o
+
+eptačné testovanie
+
+migrácia podporných
+údajov
+
+a nasadenie do
+
+718006
+
+Asistencia riadenia -
+
+údajov
+
+Človekodeň
+
+Analytik
+
+726,00 €
+
+133 100,0'0 €
+
+W
+
+159 720,00 €
+
+180 336,00 €
+624,00 €
+
+W
+
+¡
+
+W
+
+o
+
+Akceptačné testovanie
+
+Migrácia podporných
+
+údajov
+
+Migrácia podporných
+
+produkcie
+
+718006
+
+718006
+
+a nasadenie do
+
+Akceptačné testovanie
+
+produkcie
+
+a nasadenie do
+
+Človekodeň
+
+Analytik
+
+150 280,0
+
+520,00 €
+
+115 584,00 €
+
+Celková cena s
+DPH 20% [€]
+
+672,00 €
+
+Jednotková
+cena s DPH
+20% [€]
+
+o
+
+(N
+CM
+
+Akceptačné testovanie
+
+Migrácia podporných
+údajov
+
+produkcie
+
+Dokumentácia
+
+a nasadenie do
+
+718006
+
+718006
+
+Človekodeň
+
+Tester/D okumentarista
+
+96 320,0'
+
+560,00 €
+
+jedríotiek
+
+Celková cena
+bez DPH [€]
+
+Jedntoková
+cena bez
+DPH[€]
+
+Poó
+
+o
+
+W
+
+D
+
+Akceptačné testovanie
+
+Človekodeň
+
+Administrátor
+
+t Number
+
+ra
+
+a nasadenie do
+
+Dokumentácia
+
+Dokumentácia
+
+Q.
+
+Akceptačné testovanie
+
+718006
+
+718006
+
+Názov výdavku
+
+en
+00
+rM
+
+rH
+
+produkcie
+
+a nasadenie do
+
+Akceptačné testovanie
+
+produkcie
+
+a nasadenie do
+
+Akceptačné testovanie
+
+podpoložka
+
+výdavkov
+
+Skupina
+
+¡
+
+pro dukcie
+
+:ov aktivity
+
+i
+
+Super II
+
+J
+r~
+O
+
+ro
+
+o
+
+CO
+CO
+
+jperID
+
+Názov aktivít
+
+OJ
+
+OJ
+
+<u
+
+JU
+
+01
+
+Akceptačné testovan
+
+m
+
+Akceptačné testovan
+
+ID
+>*
+
+Akceptačné testovan
+
+>*
+
+Akceptačné t estovan
+
+co
+
+Akceptačné t estovan
+
+en
+
+o
+
+LTl
+
+ça
+
+rH
+LD
+
+rM
+U")
+
+Manažér
+
+Analytik
+
+Konziiltant
+
+ArelT itekt
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+73 205,00 €
+
+80 500,00 €
+
+61 360,00 €
+
+24 960,00 €
+18 150,00 €
+
+6 800,00 €
+
+25 600,00 €
+
+6 050,00 €
+98 280,00 €
+
+605,00 €
+
+575,00 €
+
+520,00 €
+
+780,00 €
+605,00 €
+
+680,00 €
+
+640,00 €
+
+605,00 €
+780,00 €
+
+o
+o
+o
+o
+
+U3
+rM
+rH
+
+m
+
+m
+m
+
+9062
+
+5 485 970,00 €
+
+14 560,00 €
+
+560,00 €
+
+rM
+ro
+rH
+
+bezpečnostný projekt
+
+Asistencia riadenia -
+
+Bezpečnostný projekt
+
+Bezpečnostný projekt
+
+Bezpečnostný projekt
+
+Človekodeň
+
+13 600,00 €
+
+Celková cena
+bez DPH [€]
+
+680,00 €
+
+Jedntoková
+cena bez
+DPH[€]
+
+00
+rH
+rH
+
+Celkom
+
+718006
+
+Implementácia
+
+OJ
+
+718006
+
+718006
+
+718006
+
+An alytik
+
+Bezpečnostný projekt
+
+718006
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+Človekodeň
+
+jednotiek
+
+Počet
+
+o
+
+rH
+
+produkcie
+
+ro
+m
+
+a nasadenie do
+
+03
+
+Akceptačné testovan
+
+produkcie
+
+a nasadenie cJo
+
+JU
+
+Akceptačné t estovan
+
+Ma nažér
+
+podpora, stabilizácia
+
+Tester/Dokumentarista
+
+Programátor
+
+Analytik
+
+Administrátor
+
+718006
+
+Asistencia riadenia -
+
+Podpora, stabilizácia
+
+Podpora, stabilizácia
+
+Podpora, stabilizácia
+
+Podpora, stabilizácia
+
+Systémový špecialista
+
+Part Number
+
+rH
+(N
+rH
+
+ro
+
+produkcie
+
+a nasadenie cJo
+
+Akceptačné t estovan
+
+Implementác
+
+produkcie
+
+a nasadenie cJo
+
+718006
+
+718006
+
+718006
+
+718006
+
+Podpora, stabilizácia
+
+Názov výdavku
+
+10
+rM
+rH
+
+produkcie
+
+a nasadenie tJo
+
+produkcie
+
+a nasadenie do
+
+produkcie
+
+a nasadenie do
+
+produkcie
+
+a nasadenie do
+
+718006
+
+podpoložka
+
+výdavkov
+
+Skupina
+—•>
+
+produkcie
+
+a nasadenie do
+
+01
+
+Akceptačné testovan
+
+>•
+(N
+
+o
+
+936,00 €
+
+726,00 €
+
+768,00 €
+
+816,00 €
+
+726,00 €
+
+936,00 €
+
+624,00 €
+
+690,00 €
+
+726,00 €
+
+672,00 €
+
+816,00 €
+
+Jednotková
+cena s DPH
+20% [€]
+
+6 583 164,00 €
+
+117 936,00 €
+
+7 260,00 €
+
+30 720,00 €
+
+8 160,00 €
+
+21 780,00 €
+
+29 952,00 €
+
+73 632,00 €
+
+96 600,00 €
+
+87 846,00 €
+
+17 472,00 €
+
+16 320,00 €
+
+Celková cena s
+DPH 20% [€]
+
+CO
+
+r—
+
+Príloha č. 3 Zmenové konanie
+1.
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+7.
+
+Ak je potrebné uskutočniť akúkoľvek zmenu v rozsahu dodávky, budú sa uplatňovať postupy zmenového
+konania popísané v tejto Prílohe, ako aj ostatné relevantné ustanovenia zmluvy.
+Požiadavku na zmenu môže projektovému manažérovi zhotoviteľa/objednávateľa predložiť výlučne
+projektový manažér objednávateľa/zhotoviteľa písomne. Projektový manažér zhotoviteľa vedie evidenciu
+došlých požiadaviek na zmenu a zabezpečuje rámcové posúdenie požiadavky na zmenu najneskôr do piatich
+pracovných dní od dátumu prevzatia požiadavky na zmenu.
+Výsledkom rámcového posúdenia požiadavky na zmenu je jej kategorizovanie na zmenu „menšieho rozsahu"
+alebo zmenu „väčšieho rozsahu". Zmena menšieho rozsahu je klasifikovaná ako zmena, kde uvedená zmena
+nespôsobí zvýšenie ceny a nepredĺži globálny harmonogram o viac ako 10 pracovných dní. V prípade zmeny,
+kde dôsledkom jej vykonania bude zvýšenie ceny eDovoz alebo predĺženie termínu dodávky o viac ako 10
+pracovných dní, bude táto považovaná za zmenu väčšieho rozsahu.
+V prípade zmeny menšieho rozsahu zabezpečí projektový manažér zhotoviteľa detailné posúdenie
+predloženej požiadavky na zmenu do piatich pracovných dní od dátumu rámcového posúdenia zmeny. V
+prípade zmeny väčšieho rozsahu si projektoví manažéri zmluvných strán dohodnú a písomne potvrdia termín
+detailného posúdenia navrhnutej zmeny.
+Výsledkom detailného posúdenia požiadavky na zmenu je stanovisko projektového manažéra zhotoviteľa k
+vhodnosti, potrebnosti a realizovateľnosti navrhovaných úprav spolu s ich finančným a časovým ocenením,
+resp. ďalšími predpokladmi ich uskutočnenia. V závere stanoviska použije projektový manažér zhotoviteľa
+nasledujúcu klasifikáciu navrhovanej zmeny:
+a. je možné realizovať bez dopadu na náklady alebo globálny harmonogram plnenia,
+b. je možné realizovať, ale s dopadom na náklady alebo globálny harmonogram plnenia,
+c. neodporúča realizovať,
+d. nie je možné realizovať,
+e. nie je možné realizovať v rámci existujúcej zmluvy, odporúča sa evidovať ako námet pre nový projekt.
+Po vypracovaní detailného posúdenia požiadavky na zmenu projektovým manažérom zhotoviteľa vykoná
+posúdenie požiadavky na zmenu projektový manažér objednávateľa s návrhom na riešenie.
+Požiadavku na zmenu spolu s jej posúdením v zmysle vyššie uvedeného textu predkladá projektový manažér
+objednávateľa, ktorý zabezpečí jeho predloženie vždy na najbližšie zasadnutie Riadiaceho výboru eDovoz,
+ktorý následne odporučí resp. neodporučí oprávneným zástupcom zmluvných strán navrhovanú zmenu
+akceptovať.
+
+38
+
+Príloha č. 4
+
+Akceptácia a preberanie predmetu Zmluvy
+
+V rámci vytvorenia, dodávky a implementácie systému eDovoz bude preberanie a akceptovanie čiastkových
+predmetov plnenia v súlade s etapami a termínmi špecifikovanými v globálnom harmonograme vypracovanom
+podľa článku III. bod 3 zmluvy prebiehať nasledovne:
+Akceptácia dokumentácie
+1.
+
+Dokument odovzdávaný zhotoviteľom ako súčasť plnenia podľa zmluvy predloží projektový manažér
+zhotoviteľa projektovému manažérovi objednávateľa elektronickou formou (napr. zaslanie e-mailom). Po
+odovzdaní dokumentu bude medzi projektovým manažérom objednávateľa a projektovým manažérom
+zhotoviteľa podpísaný Preberací protokol. Projektový manažér objednávateľa je zodpovedný za distribúciu
+dokumentu členom projektového tímu objednávateľa pre interné pripomienkovanie realizované v rámci
+akceptačného konania. Projektový manažér objednávateľa je zodpovedný za konsolidáciu pripomienok
+objednávateľa a zabezpečí jasné označenie nedostatkov a pripomienok a zašle ich projektovému
+manažérovi zhotoviteľa vo forme zoznamu vád brániacich akceptácii. Projektový manažér objednávateľa
+bude mať podľa kategórie dokumentu doleuvedený počet pracovných dní na zaslanie zoznamu vád
+projektovému manažérovi zhotoviteľa. Zhotoviteľ odstráni vady a opätovne odovzdá dokumenty
+projektovému manažérovi objednávateľa. Projektový manažér objednávateľa overí odstránenie vád
+brániacich akceptácii.
+
+2.
+
+Výsledkom akceptácie je Akceptačný protokol podpísaný projektovým manžérom objednávateľa, poverenou
+osobou objednávateľa a oprávnenou osobou objednávateľa ako aj projektovým manažérom zhotoviteľa,
+poverenou osobou zhotoviteľa a oprávnenou osobou zhotoviteľa.
+
+Kategórie dokumentu:
+Dokument jednoduchý (typický rozsah do 50 strán):
+5 pracovných dní na zaslanie pripomienok zo strany Objednávateľa a rovnaká lehota na ich zapracovanie zo
+strany Zhotoviteľa.
+Dokument zložitý (typický rozsah nad 50 strán):
+10 pracovných dní na zaslanie pripomienok zo strany Objednávateľa a rovnaká lehota na ich zapracovanie zo
+strany Zhotoviteľa.
+Uvedené počty dní platia v prípadoch, ak sa zmluvné strany nedohodnú inak.
+Zoznam dokumentov:
+Pre časť Analýza v zmysle čl.lll.2.1 .a)-c)
+•
+Detailná funkčná špecifikácia
+• Technický návrh
+•
+Implementačný plán projektu
+Pre časť Implementácia v zmysle čl.lll.2.2.1. časť vývoja
+•
+Bezpečnostný zámer
+Pre časť Implementácia v zmysle čl.lll.2.2.2. časť vývoja
+•
+Plán akceptačného testovania
+• Analýza bezpečnosti IS
+Pre časť Akceptačné testovanie a nasadenie do produkcie v zmysle čl.lll.2.3.a)
+• Technická dokumentácia
+•
+Prevádzková dokumentácia
+•
+Používateľská dokumentácia
+Pre časť Akceptačné testovanie a nasadenie do produkcie v zmysle čl.lll.2.3.b)
+
+39
+
+•
+
+Závery vyplývajúce z bezpečnostného zámeru a analýzy bezpečnosti IS
+
+Akceptácia ostatných čiastkových predmetov plnenia
+1.
+
+Po nasadení systému do testovacieho alebo produkčného prostredia bude medzi objednávateľom a
+zhotoviteľom podpísaný Preberací protokol. Vytvorenie aplikačného programového vybavenia a vykonanie
+jeho inštalácie (či. III. bod 2.2) odovzdá zhotoviteľ objednávateľovi vykonaním odovzdávacieho testu.
+Objednávateľ je povinný zúčastniť sa na odovzdávacom teste, na vykonanie ktorého bol zhotoviteľom
+pozvaný najmenej 5 pracovných dní pred termínom konania odovzdávacieho testu. Neúčasť takto
+pozvaného objednávateľa nebráni vykonaniu odovzdávacieho testu za účasti nestrannej osoby, ktorá
+potvrdí vykonanie testu. Na základe Preberacieho protokolu a výsledku odovzdávacieho testu sa vyhotoví
+Akceptačný protokol. Podpísaním Akceptačného protokolu sa deklaruje úspešné vykonanie testovania.
+
+2.
+
+Po vykonaní školení (čl. III. bod 2.3 c)) sa vyhotoví Akceptačný protokol.
+
+3. Vykonanie Akceptačného testovania podľa bodu 2.3 d) sa bude riadiť postupom definovaným v Prílohe č.5
+
+40
+
+Príloha č. 5 Akceptačné testy
+1.
+
+Cieľom akceptácie je dokumentovať úspešnosť realizácie a integrácie odovzdaného systému eDovoz,
+výsledkom akceptácie je Akceptačný protokol podpísaný projektovým manžérom objednávateľa, poverenou
+osobou objednávateľa a oprávnenou osobou objednávateľa ako aj projektovým manažérom zhotoviteľa,
+poverenou osobou zhotoviteľa a oprávnenou osobou zhotoviteľa.
+
+2.
+
+Akceptačné testy aplikácie overujú, že eDovoz spĺňa požiadavky objednávateľa na funkcionalitu a technické
+riešenie, a to v rozsahu definovanom zmluvou a jej prílohami.
+
+3. Akceptačné testy sa uskutočnia na základe špecifikácie akceptačných testov, ktorá obsahuje popis častí
+akceptačných testov, testovacie dáta, príslušné prostredie, poradie vykonávania akceptačných testov,
+testovacie kritériá a časový plán akceptačných testov.
+4.
+
+Správa o akceptačných testoch (záznam kvality) sa použije na oficiálne zaznamenanie výsledkov testov a
+primerane podrobne určí všetky odchýlky medzi dodaným systémom a funkciami uvedenými v DFŠ. Pokiaľ
+niektoré odchýlky od DFŠ vyžadujú iba malé opravy a zásadne neovplyvnia funkčnú prevádzku systému
+alebo jeho modulu, potom bude systém považovaný za prijatý a odchýlky budú opravené v rámci
+dohodnutého obdobia po prevzatí (akceptácii, t.j. po vystavení a podpísaní Akceptačného protokolu).
+
+5. Vo všetkých prípadoch, v ktorých sa vyžaduje obojstranné podpísanie protokolu, môže ktorákoľvek zmluvná
+strana odmietnuť podpísanie protokolu iba písomne, s uvedením oprávnených dôvodov, ktoré predstavujú
+porušenie tejto Zmluvy druhou zmluvou stranou. Toto písomné odôvodnenie bude zmluvná strana povinná
+doručiť druhej zmluvnej strane do 5 pracovných dní odo dňa pôvodného termínu na podpísanie protokolu.
+Pokiaľ nebude protokol podpísaný a nebudú druhej zmluvnej strane do 5 pracovných dní doručené také
+dôvody, protokol sa považuje za podpísaný s tým, že účinky podpísaného protokolu nastali dňom
+pôvodného termínu na podpísanie protokolu.
+6.
+
+Zhotoviteľ nepreberá zodpovednosť za výhrady k funkčnosti, ktoré neboli špecifikované alebo identifikované
+v Detailnej funkčnej špecifikácii, ktorá vychádza z požiadaviek objednávateľa. Zhotoviteľ je však nápomocný
+pri riešení plánovaných alebo neplánovaných zmien a definuje rozsah prác a náklady pre objednávateľa.
+Vyriešenie požadovaných zmien môže byť riešené prostredníctvom zmenového konania.
+
+7. V prípade, že sa pri testovaní rozhrania so systémom, ktorý nie je dodávaný zhotoviteľom dokázateľne
+preukáže, že chyba je na strane takéhoto systému, vykoná sa akceptácia s výhradou, testovanie sa ukončí
+po odstránení chyby. Uvedené platí okrem prípadov, keď chyba v systéme dodávaného iným zhotoviteľom
+vznikla z dôvodu nesprávnych dát, informácií, postupov definovaných zhotoviteľom eDovoz.
+8. Akceptačné testy systému vyžadujú testovanie systému samotného, ak vyžadujú aj testovanie rozhraní na
+systémy, ktoré nie sú dodávané zhotoviteľom a nie sú súčasťou zmluvy, objednávateľ musí ukončiť testy
+všetkých systémov, ktoré nie sú podporované zhotoviteľom pred začatím akceptačných testov, a to
+v prípade, že je možné takéto testy uskutočniť. V prípade, že testy príslušných externých systémov nie sú
+kompletné alebo ich nebolo možné uskutočniť, objednávateľ bude garantovať zhotoviteľovi úľavu
+a vylúčenie ovplyvneného testu.
+
+Klasifikácia chýb zistených počas Akceptačného testovania
+1.
+
+Vada systému kategórie 1 - vada systému brániaca akceptácii
+Podstatná vada systému - riadna prevádzka systému nie je možná alebo je znížená do neprijateľnej miery
+touto chybou viac ako 24 hodín. Chybu zároveň nie je možné obísť využitím iného náhradného postupu
+alebo Objednávateľom akceptovateľného náhradného postupu.
+41
+
+Príklad: informačný systém nepracuje a opätovne nenabieha, strata/zničenie dát, chybné výsledky pri
+spracúvaní dát.
+2.
+
+Vada systému kategórie 2 - chyba, ktorá nebráni akceptácií
+
+Nepodstatná vada systému -riadnaprevádzka nie je ovplyvnená natoľko, aby to zabránilo fungovaniu IS
+eDovoz. Každá vada, ktorú by mohli rozpoznať objednávateľovi klienti, sa automaticky považuje
+prinajmenšom za vadu s prioritou 2.
+Takéto vady budú odstránené počas testovania funkčnosti ak sa tak dohodnú projektoví manažéri, pokiaľ to
+bude možné a následne skontrolované. V tomto prípade Zhotoviteľ na seba preberá zodpovednosť za
+správnosť fungovania tých častí systému, ktoré do opravy takejto vady boli funkčné a opravou tejto vady
+došlo k ich chybnému fungovaniu. Za definovanie komplexnosti postupu testovania po takomto odstránení
+vady počas testovania funkčnosti je zodpovedný Zhotoviteľ. Zvyšné nedostatky budú uvedené
+v samostatnom zozname, ktorý bude prílohou k akceptačnému protokolu s výhradami. Objednávateľ a
+Zhotoviteľ dohodnú termín, do ktorého budú nedostatky odstránené. Takáto vada systému nezabráni
+akceptácii eDovoz a nie je ani dôvodom pre odloženie testovania funkčnosti v prípade, že zistená vada
+neovplyvní ďalšie testovanie.
+Príklad: mierne nižší výkon informačného systému ako bol dohodnutý, hromadenie krátkodobých závad
+prevádzky, chyby pohybujúce sa v rámcoch tolerancie definovaných pri akceptačných kritériách.
+Malá vada systému - neovplyvňuje riadnu prevádzku. Takáto vada systému nie je dôvodom pre odloženie
+testovania funkčnosti a ani nezabráni prevzatiu eDovoz. Jedná sa o problémy drobného charakteru a vady,
+ktoré nebránia efektívnemu používaniu systému. Môžu to byť menšie vady na obrazovkách alebo drobné
+odchýlky od očakávanej prevádzky.
+Príklad: nesprávne chybové hlásenia (softvér prejde do stavu čakania a dá sa aktivovať iba stlačením
+klávesy).
+
+42
+
+Príloha č.6 Pravidlá na riadenie prístupu Zhotoviteľa na Ministerstve financií Slovenskej
+republiky
+Táto príloha vychádza z ustanovení internej smernice objednávateľa č. 10/2014, upravujúcej prístup
+tretích strán na ministerstve.
+Ustanovenia tejto prílohy sa použijú pre účely tejto zmluvy primerane s prihliadnutím na predmet zmluvy
+a práva a povinnosti zmluvných strán v zmluve upravené.
+Treťou stranou pre účely tejto zmluvy je zhotoviteľ, resp. jeho subdodávatelia, podieľajúci sa na plnení
+tejto zmluvy.
+
+Článok 1
+Pohyb tretích strán v objekte/priestoroch ministerstva
+(1)
+
+Zamestnanci Zhotoviteľa sú pri vstupe do objektu ministerstva a odchode z objektu ministerstva
+povinní riadiť sa pokynmi strážnej služby.
+
+(2)
+
+Do objektu ministerstva môžu zamestnanci Zhotoviteľa vstupovať a z neho odchádzať len k tomu
+určenými vchodmi pre osoby na Štefanovičovej alebo Kýčerského ulici.
+
+(3)
+
+Motorové vozidlá Zhotoviteľa môžu do priestorov ministerstva vchádzať a z neho vychádzať len
+vjazdom zo Štefanovičovej ulice na základe platného povolenia.
+
+Článok 2
+Základné povinnosti tretej strany voči ministerstvu pri poskytovaní prác a služieb spojených s naplnením
+účelu zmluvy, objednávky alebo projektu
+(1)
+
+Zhotoviteľ sa zaväzuje, že
+a)
+
+pred začatím činností spojených s naplnením účelu zmluvy, objednávky alebo projektu a pred
+pridelením prístupových práv potrebných na výkon týchto činností oznámi ministerstvu
+personálne obsadenie svojho tímu, ktorý bude vykonávať činnosti spojené s naplnením účelu
+zmluvy, objednávky alebo projektu pre ministerstvo,
+
+b)
+
+bude bezodkladne informovať ministerstvo o všetkých personálnych zmenách vo svojom tíme,
+ktorý vykonáva činnosti spojené s naplnením účelu zmluvy, objednávky alebo projektu pre
+ministerstvo,
+
+c)
+
+oboznámi svojich zamestnancov, resp. tretie osoby realizujúce činnosti spojené s naplnením
+účelu zmluvy, objednávky alebo projektu pre ministerstvo s bezpečnostnými požiadavkami
+v rozsahu tejto prílohy,
+
+d)
+
+oboznámi svojich zamestnancov resp. tretie osoby realizujúce činnosti spojené s naplnením
+účelu zmluvy, objednávky alebo projektu pre ministerstvo a následne zabezpečí od týchto
+zamestnancov dodržiavanie povinnosti:
+1. ochrany údajov a záväzku mlčanlivosti o údajoch, s ktorými prišli počas výkonu prác na
+projekte pre ministerstvo do styku, a to aj po ukončení pracovného, resp. služobného pomeru,
+2. zachovávať mlčanlivosť o osobných údajoch, s ktorými počas práce na projekte pre
+ministerstvo prídu do styku, ako aj zákaz ich využitia pre osobnú potrebu, bez súhlasu
+ministerstva ich nesmie zverejniť, nikomu poskytnúť ani sprístupniť, pričom povinnosť
+mlčanlivosti trvá aj po skončení pracovného pomeru, štátnozamestnaneckého pomeru,
+služobného pomeru alebo obdobného pracovného vzťahu k Zhotoviteľovi; povinnosť
+mlčanlivosti neplatí, ak je to nevyhnutné na plnenie úloh súdu a orgánov činných v trestnom
+konaní podľa osobitného zákona, zdokumentovať všetky zásahy do IKT ministerstva podľa
+pokynov oprávneného zamestnanca za ministerstvo,
+43
+
+3. rešpektovať operatívne pokyny zamestnancov s pridelenými bezpečnostnými rolami na
+ministerstve a oprávnených zamestnancov počas výkonu práce na projekte pre ministerstvo,
+4. rešpektovať autorské práva k materiálom poskytnutým ministerstvom,
+5. vrátiť ministerstvu všetky poskytnuté materiály a údaje vrátane elektronických a zlikvidovať
+všetky ich kópie, ak to nebude zmluvne dohodnuté inak.
+e)
+
+poskytne potrebnú súčinnosť audítorovi vykonávajúcemu audit IS, ak tento súvisí s výkonom
+práce na projekte pre ministerstvo,
+
+f)
+
+poskytne potrebnú súčinnosť ministerstvu pre prípadný audit svojich IS a IKT, ak tieto súvisia
+s predmetom plnenia projektu pre ministerstvo,
+
+g)
+
+ak predmet projektu súvisí s vývojom a aktualizáciou IS, resp. IKT ministerstva, bude dodržiavať
+bezpečnostné požiadavky bezpečnostnej politiky ministerstva, platnej bezpečnostnej legislatívy,
+najmä požiadaviek zákona č. 275/2006 Z. z. o informačných systémoch verejnej správy
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a súvisiaceho výnosu MF
+SR a nevniesť nepožadované alebo neschválené funkcie do IS ministerstva. Nenaplnenie tejto
+požiadavky sa bude považovať za porušenie zmluvného vzťahu.
+
+Zhotoviteľ zodpovedá za všetky priame alebo nepriame škody (napr. náklady, ktoré musí ministerstvo
+vydať, aby sa vrátilo do doby pred vytváraním informačného systému, sankčné pokuty z dôvodu
+nedodržania termínov, stanovených napr. zákonom alebo sankčné pokuty za to, že dodávané dielo
+nespĺňa legislatívou stanovené požiadavky), ktoré svojim úmyselným alebo neúmyselným konaním
+spôsobí a zaväzuje sa nahradiť ich ministerstvu.
+Zhotoviteľ je povinný zaplatiť zmluvnú pokutu vo výške 6 000 € v prípade porušenia podmienok na
+zabezpečenie informačnej bezpečnosti ministerstva vyplývajúcich z tejto prílohy.
+V prípade nevyhnutnosti prístupu Zhotoviteľa k projektom obsahujúcim utajované skutočnosti sa
+postupuje podľa ustanovení zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov.
+Článok 3
+Povinnosti zamestnancov tretích strán pri riadení prístupu do IS a aplikácií ministerstva
+Zamestnanec Zhotoviteľa, resp. tretia osoba realizujúca činnosti spojené s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo, je povinný prihlasovať sa do IS a aplikácií pod prideleným
+prihlasovacím účtom (ID používateľa) a heslom na prístup do tejto aplikácie alebo IS. Zdieľanie účtov
+je povolené len po písomnej autorizácii bezpečnostným manažérom a to iba v prípadoch, kedy nie je
+technologicky možné vynútiť iný spôsob prístupu.
+Privilegované používateľské účty nesmú byť používané na bežné činnosti nevyžadujúce privilegované
+oprávnenia.
+Zamestnanec Zhotoviteľa resp. tretia osoba realizujúca činnosti spojené s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo nesmie na vykonávanie konfigurácií využívať generické a
+servisné používateľské účty. Výnimku tvorí len ich individuálne použitie, ktoré musí byť vopred
+písomne schválené manažérom bezpečnosti ministerstva.
+Pri práci s heslami je zamestnanec Zhotoviteľa povinný dodržiavať nasledovné zásady:
+a)
+
+pravidlá zmeny hesla do aplikácií v rámci LAN ministerstva upravuje príslušný garant systému a
+ich dodržiavanie kontroluje administrátor aplikácie,
+
+b)
+
+používateľ je povinný dodržiavať tieto všeobecné zásady tvorby hesla pre prístup do LAN
+ministerstva, podľa ktorých heslo:
+1. musí mať dĺžku minimálne 8 znakov,
+
+44
+
+2. musí sa skladať z veľkých a malých písmen, číselných znakov (NumLock) a iných znakov
+(napr. veľké písmeno + malé písmeno + číslo alebo znak),
+3. nesmie byť slovníkovým slovom, menom ani názvom,
+4. nesmie byť odvodené od osobných údajov používateľa,
+5. nesmie byť tvorené priamou postupnosťou klávesov na klávesnici,
+6. pri zmene na nové heslo sa musí od pôvodného líšiť najmenej v štyroch znakoch.
+(5)
+
+Ak to aplikácia alebo IS dovoľuje, musí byť prvotné heslo, ktoré bolo zamestnancovi Zhotoviteľa na
+prístup do tejto aplikácie alebo IS pridelené, pri prvom prihlásení zmenené.
+
+(6)
+
+Zamestnanec Zhotoviteľa resp. tretia osoba realizujúca činnosti spojené s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo, ručí za dôvernosť a ochranu svojich prístupových hesiel a
+zodpovedá za všetky udalosti a transakcie, ktoré sa uskutočnili v IS s použitím jeho používateľského
+mena a hesla.
+
+(7)
+
+V prípade podozrenia na prezradenie prístupového hesla resp. v prípade jeho samotného prezradenia
+musí poškodený zamestnanec Zhotoviteľa okamžite informovať oprávneného zamestnanca za
+ministerstvo resp. príslušného správcu IS a nahlásiť udalosť ako bezpečnostný incident.
+
+(8)
+
+Po ukončení práce je zamestnanec Zhotoviteľa resp. tretia osoba realizujúca činnosti spojené s
+naplnením účelu zmluvy, objednávky alebo projektu pre ministerstvo, povinný znemožniť prístup k
+aplikáciám a programom a to tak, aby zabránil neoprávnenému prístupu alebo zneužitiu. Táto
+povinnosť sa nevzťahuje na zamestnanca Zhotoviteľa v prípade, ak mu to odôvodnene neumožňuje
+charakter vykonávaných prác a táto výnimka je písomne schválená manažérom bezpečnosti
+ministerstva.
+
+(9)
+
+Vzdialený prístup Zhotoviteľa a tretích strán v právnom vzťahu k dodávanému dielu do informačných
+systémov a ostatného softvéru ministerstva nie je možný. Prístup je možné povoliť iba manažérom
+bezpečnosti na základe písomnej žiadosti a to len v priestoroch, ktoré sú v správe ministerstva, a to
+iba s dohľadom na to určeného zamestnanca.
+Článok 4
+Pripájanie prenosných počítačov a zariadení zamestnancov tretích strán do IS na ministerstve
+
+(1)
+
+Prenosné počítače zamestnancov Zhotoviteľa resp. tretích osôb v súvislosti s naplnením účelu zmluvy,
+objednávky alebo projektu ministerstva smú byť pripájané do IS ministerstva len na základe
+písomného súhlasu manažéra bezpečnosti ministerstva.
+
+(2)
+
+Zamestnanec Zhotoviteľa resp. tretie osoby realizujúce činnosti spojené s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo, ktorý uchováva na prenosnom počítači/zariadení
+informácie, ktorých vlastníkom je ministerstvo, je povinný:
+
+(3)
+
+a)
+
+chrániť ho pred krádežou alebo zneužitím; zamestnanec Zhotoviteľa nesmie ponechať prenosný
+počítač/zariadenie bez dozoru napr. na verejne dostupných miestach, v dopravných
+prostriedkoch, neuzamknutých kanceláriách a pod.,
+
+b)
+
+okamžite hlásiť stratu, prípadne krádež prenosného počítača ako bezpečnostný incident,
+
+c)
+
+ak sú na pevnom disku prenosného počítača/zariadenia ukladané informácie zaradené do triedy
+dôvernosti „INTERNÉ" alebo „CHRÁNENÉ", musia byť tieto informácie chránené dodatočným
+zabezpečovacím prostriedkom, t. j . šifrovaním.
+
+Dostatočnosť použitých šifrovacích prostriedkov posúdi na základe písomnej žiadosti manažér
+bezpečnosti ministerstva pred povolením uloženia dát na pevný disk prenosného počítača/zariadenia
+Zhotoviteľa.
+
+45
+
+Článok 5
+Používanie elektronickej pošty ministerstva zamestnancami tretích strán
+Pri používaní elektronickej pošty je zamestnanec Zhotoviteľa povinný dodržiavať tieto zásady:
+a)
+
+využívať elektronickú poštu iba na účely služobných alebo pracovných úloh spôsobom a v
+rozsahu nevyhnutnom na zabezpečenie plnenia predmetu zmluvy,
+
+b)
+
+informovať Help Desk o všetkých neočakávaných správach s prílohami od neznámych
+odosielateľov (mimo ministerstva), ktoré mu boli doručené elektronickou poštou, správy neotvárať
+- nečítať z dôvodu ohrozenia zavírením a ďalej postupovať podľa pokynov pracovníka Help
+Desku,
+
+c)
+
+nezapĺňať kapacitu elektronickej pošty objemnými dátami v prílohách,
+
+d)
+
+po ukončení práce s elektronickou poštou prostredníctvom externého prístupu - Outlook web
+Access sa používateľovi odporúča odhlásiť sa a zavrieť okno internetového prehliadača,
+
+e)
+
+email s prílohami posielaný mimo ministerstva alebo v rámci siete LAN ministerstva nesmie
+prekročiť povolenú veľkosť; používateľ má mailovú schránku generovanú automatizovaným
+procesom s pevne stanovenou veľkosťou a bližšie informácie o kapacitách mailov a veľkosti
+mailových schránok získa u pracovníkov Help Desku.
+Článok 6
+Riadenie bezpečnostných incidentov
+
+Každý zamestnanec Zhotoviteľa resp. tretie osoby realizujúce prácu v súvislosti s naplnením účelu zmluvy,
+objednávky alebo projektu pre ministerstvo je povinný zistenie bezpečnostného incidentu alebo podozrenie na
+bezpečnostný incident bezodkladne nahlásiť na určené kontaktné miesto, ktorým je Help Desk (tel. číslo: +421 2
+5958 2400, kľ: 2400, resp. email: helpdesk@mfsr.sk).
+Článok 7
+Vyšetrovanie bezpečnostných incidentov
+(1)
+
+Každý zamestnanec Zhotoviteľa resp. tretie osoby realizujúce prácu v súvislosti s naplnením účelu
+zmluvy, objednávky alebo projektu pre ministerstvo je povinný, pri vyšetrovaní bezpečnostných
+incidentov zamestnancom alebo zamestnancami ministerstva, poskytnúť potrebnú súčinnosť.
+
+(2)
+
+Po vzniku bezpečnostného incidentu nesmie zamestnanec Zhotoviteľa resp. tretia osoba realizujúce
+prácu v súvislosti s naplnením účelu zmluvy, objednávky alebo projektu pre ministerstvo vykonávať
+akékoľvek aktivity, ktoré by mohli viesť k znehodnoteniu dôkazov alebo k zhoršeniu dôsledkov BI.
+
+46
+
+Príloha č.7 Všeobecné podmienky o zabezpečení informačnej bezpečnosti finančnej správy S R *
+1.
+
+Úvodné ustanovenia
+
+Tieto Všeobecné podmienky, pre zabezpečenie informačnej bezpečnosti finančnej správy SR (ďalej len
+„všeobecné podmienky, resp. dohoda") stanovujú povinnosti tretej strany, ak predmet plnenia zmluvy uzatvorenej
+medzi treťou stranou a Finančným riaditeľstvom (ďalej len „FR") SR alebo Ministerstvom financií (ďalej len „MF")
+SR (ďalej len „zmluva") súvisí s informačno-komunikačnými technológiami Finančnej správy SR (ďalej len „IKT
+FS SR").
+2.
+
+Výklad a definícia pojmov
+
+1.
+
+Na účely tohto dokumentu
+a)
+
+aktívum je všetko, čo má pre Finančnú správu (ďalej len „FS SR") hodnotu (fyzické komponenty,
+softvér, dáta, služby, ľudské zdroje, povesť FS SR,...),
+
+b)
+
+bezpečnostným incidentom je akýkoľvek spôsob narušenia bezpečnosti IKT, ako aj akékoľvek
+porušenie bezpečnostnej politiky a súvisiacich pravidiel,
+
+c)
+
+DataCentrom je samostatná rozpočtová organizácia so sídlom v Bratislave, ktorej zriaďovateľom je
+Ministerstvo financií SR. DataCentrum zabezpečuje vzájomnú prepojiteľnosť častí informačného
+systému rezortu MF SR a bezpečnosť informačného systému rezortu MF SR,
+
+d) dostupnosť je vlastnosť, že autorizovaní užívatelia majú v prípade požiadavky prístup k informáciám
+a aktívam,
+e) dôvernosť je vlastnosť, že informácia nie je dostupná alebo prístupná neautorizovaným jednotlivcom,
+entitám alebo procesom,
+f)
+
+externý prístup je prístup tretích strán ako i interných zamestnancov FS SR,
+
+g)
+
+externým subjektom je právnická osoba a štatutárom právnickej osoby určené fyzické osoby (ďalej
+len „zamestnanci externého subjektu"), ktoré nie sú zamestnancami FS a ktoré poskytujú FS služby v
+zmysle platných zmlúv, podľa ktorých môžu požiadať o prístup k IKT v presne určenom nevyhnutnom
+rozsahu,
+
+h) externým prístupom zamestnanca FS k IKT je iný prístup zamestnanca FS k IKT ako prístup zo
+štandardného pracoviska FS s LAN/WAN prepojením,
+i)
+
+externým prístupom zamestnancov externého subjektu k IKT je prístup zamestnanca externého
+subjektu k IKT,
+
+j)
+
+FR SR je Finančné riaditeľstvo SR,
+
+k) FS SR je Finančná správa SR,
+I)
+
+IKT sú informačno-komunikačné technológie,
+
+m) IKT FS SR je súhrn nasledovných komponentov používaných na prípravu a spracovanie dát a na
+manažovanie informácií a procesov vo FS SR, okrem tých, ktoré sú verejne prístupné z vonkajšieho
+prostredia FS SR (napr. finančný portál):
+1.
+
+servery, pracovné stanice, faxy a príslušná dokumentácia,
+
+2.
+
+informačné systémy FS (aplikačné programové vybavenie a jeho vrstvy, ako napr. aplikačné
+servery, databázové servery) a príslušná dokumentácia,
+
+* V prípade zmluvy uzatvorenie medzi treťou stranou aFR SR pôjde o Všeobecné podmienky o zabezpečení
+informačnej bezpečnosti Finančných orgánov SR a v prípade zmluvy medzi treťou stranou a MF SR pôjde
+o Dohodu o zabezpečení informačnej bezpečnosti Finančných orgánov SR.
+47
+
+3.
+
+dáta a informácie spracovávané v informačných systémoch FS,
+
+4.
+
+zariadenia diskových polí, SAN infraštruktúra, zálohovacie zariadenia a príslušná dokumentácia,
+
+5.
+
+sieťová infraštruktúra a sieťové komponenty (napr. smerovače, firewalfy) a príslušná
+dokumentácia,
+
+6.
+
+zariadenia pre hlasovú komunikáciu implementované v sieťovej infraštruktúre FS (napr.
+pobočkové ústredne) a príslušná dokumentácia,
+
+7.
+
+písomné záznamy súvisiace s IS FS SR.
+
+n) IP adresa je adresa zariadenia pripojeného do počítačovej siete, definovaná na základe Internet
+Protokolu,
+o) informačné aktívum je aktívum v prostredí IKT FS SR,
+p) informačná bezpečnosť je súbor aspektov týkajúcich sa dosiahnutia a udržiavania dôvernosti,
+integrity a dostupností informačných aktív,
+q) informačný systém je súbor činností, ktoré zabezpečujú zber, prenos, spracovanie, uloženie, výber,
+distribúciu a prezentáciu informácii a dát (vrátane dát v papierovej podobe) pre potreby rozhodovania
+tak, aby riadiaci pracovníci mohli vykonávať funkcie riadenia vo všetkých zložkách systému riadenia,
+r)
+
+integrita je vlastnosť, že informácie a metódy ich spracovania sú presné a kompletné,
+
+s) IS je informačný systém,
+t)
+
+IS FS SR je súhrn všetkých informačných systémov FS SR,
+
+u) kontaktná osoba je SLA manažér tak za FS SR ako i za tretiu stranu,
+v) LAN/WAN je štandardná lokálna počítačová sieť a prepojenie komunikačných sietí pracovísk FS
+realizované spravidla technológiou MPLS v rámci rezortnej komunikačnej siete a spravovanej
+DataCentrom,
+w) manažér bezpečnosti je zamestnanec Oddelenia bezpečnosti Kancelárie prezidenta FR SR
+zodpovedný za celkovú bezpečnosť vo FS,
+x) manažér informačnej bezpečnosti IKT je zamestnanec Oddelenia bezpečnosti Kancelárie
+prezidenta FR SR zodpovedný za bezpečnosť IKT vo FS,
+y) MF SR - Ministerstvo financií SR
+z)
+
+organizačným útvarom sú organizačné útvary FR SR,
+
+aa) oprávnená osoba sú všetci zamestnanci sekcie informatiky FS SR, prípadne iný zamestnanec
+písomne poverený námestníkom sekcie informatiky na výkon úloh vyplývajúcich z činností spojených
+s tretími stranami a s externými prístupmi interných zamestnancov,
+bb) osobitná tretia strana je NKÚ resp. iný kontrolný alebo oprávnený orgán SR podľa príslušného
+všeobecne záväzného právneho predpíšu,
+cc) outsourcing je zabezpečenie podporných služieb externou organizáciou,
+dd) používateľom externého prístupu je zamestnanec FS alebo zamestnanec externého subjektu,
+ktorému bol povolený externý prístup k IKT,
+ee) prístup tretej strany k IKT FS SR je prístup tretej strany k hardvéru alebo softvéru alebo dátam IKT
+FS SR vrátane príslušnej dokumentácie za nasledujúcich podmienok:
+1.
+
+tretia strana má s FR SR podpísanú zmluvu o dodávaní alebo odoberaní tovarov, služieb alebo
+prác súvisiacich s IKT FS SR, ktorej súčasťou sú Všeobecné podmienky o zabezpečení
+informačnej bezpečnosti FS SR,
+
+2.
+
+tretia strana má s MF SR podpísanú zmluvu o dodávaní alebo odoberaní tovarov, služieb alebo
+prác súvisiacich s IKT FS SR a s FR SR uzatvorenú Dohodu o zabezpečení informačnej
+bezpečnosti FS SR (ďalej len „dohoda"), ktorej obsahom budú vhodne upravené všeobecné
+48
+
+podmienky vo forme dohody medzi FR SR a treťou stranou. Za takúto dohodu sa bude
+považovať aj dohoda uzatvorená s DR SR alebo s CR SR pred vznikom FR SR,
+3.
+
+tretia strana realizuje dodávanie alebo odoberanie tovarov, služieb alebo práce súvisiace s IKT
+FS SR na základe outsourcingu, kde súčasťou tohto vzťahu sú Všeobecné podmienky
+o zabezpečení informačnej bezpečnosti FS SR,
+
+4.
+
+tretia strana má od FR SR iba objednávku bez zmluvného vzťahu súvisiacu s hardvérom,
+softvérom, údržbou alebo službou súvisiacou s IKT FS SR,
+
+5.
+
+treťou stranou je osobitná tretia strana.
+
+fŤ) Service Level Agreement (ďalej len „SLA") je zmluva alebo dohoda medzi dodávateľom (externým
+alebo Interným) a odberateľom služby IKT, ktorá dokumentuje dojednané parametre danej služby
+IKT,
+gg) SLA manažéri sú zamestnanci FS zodpovední zariadenieúrovne poskytovaných služieb externým
+subjektom, alebo zamestnanci tretej strany zodpovední za prípravu, spracovanie a realizáciu
+konkrétnych požiadaviek externého prístupu k IKT FS SR. Obvykle sú to osoby z prostredia IKT,
+hh) tretie strany sú externí dodávatelia a externí odberatelia vybraných služieb FR SR. V tejto súvislosti
+ide predovšetkým o externé subjekty, ktoré na zmluvnom základe s FR SR alebo MF SR dodávajú
+pre FR SR alebo odoberajú od FR SR špecializované údaje alebo vykonávajú pre FR SR
+špecializované práce súvisiace s návrhom, implementáciou, testovaním, dodávaním, údržbou,
+aktualizáciou alebo outsorucingom IKT, ako aj o ich subdodávateľov,
+ii) vedúci zamestnanec
+
+jj)
+
+1.
+
+vedúci zamestnanec podľa § 9 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších
+predpisov,
+
+2.
+
+vedúci štátny zamestnanec podľa § 11 zákona č. 400/2009 Z. z., a
+
+3.
+
+nadriadený podľa § 4 zákona č. 200/1998 Z. z.
+
+VPN kanál je bezpečnostný kanál, ktorý vytvára šifrované spojenie na pripojenie tretej strany k IKT
+FS SR na základe Virtual Priváte Network techník,
+
+kk) vzdialený prístup je prístup tretej strany k softvéru alebo dátam IKT FS SR z iného miesta ako z
+priestorov FS SR.
+II)
+
+zamestnancom FS
+1. zamestnanec vykonávajúci prácu vo verejnom záujme v zmysle zákona č. 552/2003 Z. z. o
+výkone práce vo verejnom záujme v znení neskorších predpisov,
+2.
+
+zamestnanec v štátnozamestnaneckom pomere v zmysle zákona č. 400/2009 Z.z.
+o štátnej službe a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej
+len „zákon č. 400/2009 Z. z."), a
+
+3.
+
+colník, ktorý vykonáva štátnu službu podľa zákona č. 200/1998 Z, z, o štátnej službe colníkov
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon č.
+200/1998 Z. z.").
+
+mm)zásah do IKT sa rozumie akýkoľvek prístup do alebo k IKT, ktorý bol povolený tretej strane na
+základe žiadosti o povolenie prístupu.
+Základné požiadavky
+Tretia strana sa zaväzuje oboznámiť svojich zamestnancov zúčastňujúcich sa na predmete plnenia zmluvy
+s bezpečnostnými požiadavkami v rozsahu uvedenom v týchto všeobecných podmienkach pre zabezpečenie
+informačnej bezpečnosti FS SR.
+Tretia strana sa zaväzuje oboznámiť a následne zabezpečiť od svojich zamestnancov, realizujúcich
+predmet plnenia zmluvy, dodržiavanie týchto povinností:
+
+49
+
+a)
+
+dodržiavať ochranu údajov a informácii súvisiacich s IKT a s existujúcimi alebo vyvíjanými
+informačnými systémami FS SR a záväzok mlčanlivosti o údajoch a informáciách, s ktorými počas
+výkonu prác vo FS SR prišli do styku, ako aj zákaz ich využitia pre osobnú potrebu, zverejnenia,
+poskytnutia a sprístupnenia, s výnimkou orgánov činných v trestnom konaní, a to aj po ukončení
+pracovného, resp. zmluvného pomeru,
+
+b) zachovávať daňové tajomstvo, s ktorým počas výkonu prác vo FS SR prišli do styku, ako aj zákaz
+jeho využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou orgánov
+činných v trestnom konaní a to aj po ukončení pracovného pomeru, resp. zmluvného pomeru,
+c)
+
+zachovávať mlčanlivosť o osobných údajoch, s ktorými počas výkonu prác vo FS SR prišli do styku,
+ako aj zákaz ich využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou
+orgánov činných v trestnom konaní a vo vzťahu k Úradu pre ochranu osobných údajov pri plnení jeho
+úloh,
+
+d)
+
+preukázať na vyzvanie svoju totožnosť buď zamestnancom strážnej služby alebo oprávnenej osobe
+určenej na priamu komunikáciu s ním (ďalej iba oprávnená osoba) pri vstupe do priestorov FS SR, ak
+strážna služba nie je zriadená,
+
+e)
+
+realizovať zásahy do IKT FS SR iba v určenom rozsahu v rámci poskytovania dohodnutých prác
+a služieb pre FS SR,
+
+f)
+
+použiť len také externé pripojenia k IKT FS SR, ktoré sú uvedené v písomnej žiadosti o prístup
+externého subjektu k IKT FS SR,
+
+g)
+
+použiť externé pripojenia k IKT FS SR len spôsobom, ktorý nie je v rozpore so všeobecne záväznými
+právnymi predpismi a bezpečnostnými politikami FS SR,
+
+h)
+
+používať externé pripojenia k IKT FS SR výhradne na plnenie povinností v zmysle platnej zmluvy
+uzatvorenej s cieľom poskytnutia služieb externého subjektu v prospech FS SR,
+
+i)
+
+neposkytnúť svoju elektronickú identitu (napr. login, heslo, a pod.) inej osobe,
+
+j)
+
+realizovať výkon dohodnutých prác a služieb tak, aby pri nich nedošlo k poškodeniu alebo zničeniu
+kľúčových komponentov IKT alebo k neočakávanému prerušeniu ich prevádzky,
+
+k) riadiť sa pokynmi oprávnenej osoby, SLA manažéra FS SR, manažéra bezpečností a manažéra
+informačnej bezpečnosti IKT FS SR počas výkonu dohodnutých prác a služieb pre FS SR,
+I)
+
+zdokumentovať všetky zásahy do IKT FS SR podľa pokynov oprávnenej osoby a bezodkladne jej
+ohlásiť zistené bezpečnostné nedostatky, ktoré by mohli spôsobiť ohrozenie dôvernosti alebo integrity
+kódu alebo dokumentácie systému,
+
+m) pripájať svoje technologické prostriedky (napr. počítač, notebook, meracie prístroje a pod.) k IKT FS
+SR ien po predchádzajúcom súhlase oprávnenej osoby, a to len na nevyhnutne potrebnú dobu
+a s rešpektovaním podmienok spojených so súhlasom, ako napríklad antivírusová kontrola
+a podobne,
+n)
+
+možnosti vynášať zariadenia, materiál a údaje patriace FS SR (informačno-komuníkačné zariadenia,
+výsledky zostáv vytvorených na základe skriptov, zbery údajov, poskytované údaje, a pod.)
+z priestorov FS SR len s písomným súhlasom oprávnenej osoby, pričom zdokumentovaná e-mailová
+komunikácia je v odôvodnených a naliehavých prípadoch považovaná za súhlas oprávnenej osoby na
+priamu komunikáciu so žiadateľom,
+
+o)
+
+rešpektovať autorské práva k materiálom poskytnutým z FS SR, na ktoré bola tretia strana
+upozornená,
+
+p) vrátiť všetky materiály a údaje vrátane elektronických poskytnuté z FS SR a zlikvidovať všetky ich
+kópie, ak to nebolo zmĺuvne dohodnuté inak.
+4.
+
+Doplňujúce požiadavky
+
+1.
+
+V prípade, že predmet plnenia zmluvy súvisí s vývojom a aktualizáciou IKT FS SR, tretia strana akceptuje
+nasledujúce požiadavky:
+50
+
+a)
+
+dodržiavanie bezpečnostných požiadaviek relevantných interných riadiacich aktov FS SR,
+bezpečnostných politík FS SR, platnej bezpečnostnej legislatívy (najmä požiadaviek zákona
+č.275/2006 Z.z. o informačných systémoch verejnej správy v znení neskorších predpisov
+a súvisiaceho výnosu), zachovávania mlčanlivosti o skutočnostiach zistených počas vývoja,
+nasadzovania a podpory vyvíjaného alebo aktualizovaného IS, zachovávanie mlčanlivosti týkajúcej sa
+daňového tajomstva a zachovávanie mlčanlivosti podľa zákona č. 122/2013 Z.z. o ochrane osobných
+údajov a o zmene a doplnení niektorých zákonov nevnesenie nepožadovaného kódu a
+nepožadovaných funkcií do IS, ktoré by mohli viesť k zneužitiu IS neautorizovanými prístupmi a
+osobami,
+
+b) zabezpečenie ochrany dôvernosti a integrity kódu a dokumentácie systému (do kontaktu s kódom
+a dokumentáciou systému môžu prichádzať iba tí zamestnanci tretej strany, ktorí podpísali Poučenie
+zamestnancov externého subjektu o informačnej bezpečnosti v prostredí IKT FS SR (ďalej len
+„poučenie"),
+povinnosť vopred deklarovať, podľa akej vývojovej metodiky, resp. normy postupuje pri vývoji
+systému, pričom tento postup musí byť schválený FR SR,
+právo FS SR vykonať audit svojho vývojového prostredia. Účelom tohto auditu je súlad vývoja
+s deklarovanou metodikou, resp. normou,
+e)
+
+súhlas s poskytnutím potrebnej súčinnosti audítorovi vykonávajúcemu audit IS, ak tento IS súvisí
+s predmetom zmluvy. V prípade, ak potreba súčinnosti podľa tohto bodu na strane tretej strany
+presiahne rozsah 20 (dvadsať) človekohodín, tretia strana nie je povinná poskytnúť súčinnosť bez
+dohody o úhrade nákladov na takúto súčinnosť,
+
+f)
+
+súhlas s poskytnutím potrebnej súčinnosti FS SR pre prípadný audit svojich informačných systémov a
+IKT, ak tieto súvisia s predmetom plnenia zmluvy. V prípade, ak potreba súčinnosti podľa tohto bodu
+na strane tretej strany presiahne rozsah 20 (dvadsať) človekohodín, tretia strana nie je povinná
+poskytnúť súčinnosť bez dohody o úhrade nákladov na takúto súčinnosť,
+
+g)
+
+zabezpečenie, aby predmet plnenia zmluvy obsahoval aj bezpečnostné požiadavky pre vyvíjaný
+alebo aktualizovaný IS
+
+h)
+
+menovanie kontaktnej osoby* (SLA manažér) FS SR zodpovednej za informačnú bezpečnosť
+a činností podľa písmena a) až h) týchto doplňujúcich požiadaviek,
+
+i)
+
+menovanie kontaktnej osoby" (SLA manažér) tretej strany zodpovednej za informačnú bezpečnosť
+a činnosti podľa písmena a) až h) týchto doplňujúcich požiadaviek,
+
+j)
+
+vykonanie testovania pre činnosti súvisiace s bezpečnostnými požiadavkami súvisiacimi s vyvíjaným
+alebo aktualizovaným IS, a to najmenej vykonanie interného používateľského testovania v rozsahu
+minimálne jedného týždňa pred odovzdaním informačného systému, jeho časti alebo súvisiacej
+aplikácie
+
+k)
+
+dodanie dokumentácie pre nové alebo aktualizované IKT alebo ich častí, ktorá obsahuje:
+1.
+
+I)
+
+používateľskú dokumentáciu, ktorou je návod na používanie systému, scenáre činností so
+systémom pre jednotlivé roly, pravidlá používania systému, opis bezpečnostných procedúr
+a ovládanie bezpečnostných mechanizmov
+
+prevádzkovú a administrátorskú dokumentáciu, ktorou je dokumentácia o architektúre informačného
+systému alebo jeho časti, popis prevádzkových postupov, postupy zotavenia sa z bežných chýb,
+rozdelenie rolí pri prevádzke a administrácii systému, opis konfigurácie systému a umiestnenia
+jednotlivých fyzických, aplikačných a dátových komponentov, väzby na existujúce informačné
+systémy, politiku použitia kryptografických opatrení, podrobný opis aktivít vyžadovaných pri
+administrácii systému, šablóny administrátorských a operátorských denníkov a uvedenie typov
+udalosti, ktoré sa do nich zapisujú nesplnenie bezpečnostných požiadaviek podľa písm. a) až I)
+
+* Meno kontaktnej osoby za FS SR sa bude uvádzať v žiadosti o prístup externého subjektu k IKT FS SR
+** Meno kontaktnej osoby za tretiu stranu sa bude uvádzať v žiadosti o prístup externého subjektu k IKT FS SR
+51
+
+s výnimkou písm. h) tohto odseku bude dôvodom na neukončenie príslušnej etapy projektu alebo
+neschválenie prevzatia vykonávanej činnosti.
+2.
+
+V prípade, že predmet plnenia zmluvy sa priamo dotýka prístupu k IKT FS SR, tretia strana okrem
+požiadaviek uvedených v odseku 4 tohto článku akceptuje nasledujúce doplňujúce požiadavky:
+a)
+
+zabezpečí realizovanie prístupu k softvéru alebo dátam IKT FS SR na základe žiadosti o prístup
+externého subjektu k IKT FS SR {ďalej len „žiadosť') podľa prílohy. V žiadosti musí byť uvedený
+dôvod prístupu, rozsah prístupu (časť IKT, resp. IS, ku ktorému je požadovaný prístup), miesto
+prístupu a IP adresa zariadenia na prístup (v prípade vzdialeného prístupu), stanovený dátum a čas
+prístupu a mená zamestnancov tretej strany, pre ktorých je požadovaný prístup. Záležitosti súvisiace
+so žiadosťou sa realizujú prostredníctvom kontaktných osôb a oprávnených zamestnancov. Žiadosť
+tretej strany o prístup k IKT FS SR podpísaná kontaktnou osobou za tretiu stranu, sa elektronicky
+(emailom so zoskenovanou žiadosťou alebo faxom), poštou alebo osobne doručí kontaktnej osobe
+FS SR. Kontaktná osoba FS SR doručí schválený resp. neschválený súhlas s prístupom k IKT FS SR
+elektronicky, poštou alebo osobne kontaktnej osobe tretej strany.
+
+b) zabezpečí, aby všetci jej zamestnanci realizujúci prístup k IKT FS SR na základe pokynov kontaktnej
+osoby FS SR alebo oprávneného zamestnanca podpísali pred prvým prístupom k IKT FS SR
+poučenie. V prípade odmietnutia podpísania tohto poučenia, nebude príslušnému zamestnancovi
+umožnený prístup k IKT FS SR,
+c)
+
+zabezpečí, aby všetky zásahy jej zamestnancov do IKT FS SR bolí zaznamenané v protokole
+z prístupu tretích strán k IKT FS SR. Mesačný výpis bude dodaný raz mesačne vždy do 15 dňa
+nasledujúceho mesiaca po mesiaci realizácie zásahu.
+
+5. Záverečné ustanovenia
+1.
+
+Všeobecné podmienky sú záväzné pre tretiu stranu v plnom rozsahu pokiaľ v zmluve nie je ustanovené inak.
+
+2.
+
+V prípade porušenia týchto všeobecných podmienok, v dôsledku ktorého vznikne škoda pre FR SR, sa tretia
+strana riadi v zmysle článku XIV. tejto Zmluvy.
+
+Prílohy:
+
+Žiadosť o prístup externého subjektu k IKT FS SR
+Poučenie zamestnancov externého subjektu o pravidlách bezpečnosti v prostredí IKT FS SR
+
+V
+
+dňa
+štatutárny zástupca tretej strany
+
+52
+
+ŽIADOSŤ O PRÍSTUP
+E X T E R N É H O S U B J E K T U K IKT F S SR
+
+Č.: (zo spisovej služby)
+Poradové
+1. Subjekt
+(žiadateľ):
+
+číslo
+
+žiadosti/rok
+
+(vyplní projektový manažér z evidencie):
+
+2. Dôvod žiadosti
+o prístup*:
+
+3. Rozsah požadovaného
+prístupu":
+4. Spôsob prístupu k IKT FS SR***:
+
+5. Miesto, odkiaľ zamestnanci žiadateľa požadujú prístup:
+a) Miesto pripojenia v FS SR:
+b) Pracovisko žiadateľa:
+6, IP adresa/y, z ktorej/ých žiadateľ požaduje
+prístup:
+7. Dátum požadovaného prístupu (od - do):
+8. Čas požadovaného prístupu (od - do):
+9. Spôsob vedenia evidencie externého
+pripojenia k IKT FS SR"***:
+10. Mená zamestnancov žiadateľa s uvedením čísla občianskeho preukazu, e-mailovej adresy, pre ktorých je prístup
+požadovaný a spôsob ich autentifikácie*"** (v prípade väčšieho počtu uviesť v prílohe):
+1.
+2.
+3.
+4.
+5.
+
+mtaktná osoba žiadateľa s uvedením e-mailovej adresy:
+
+* V prípade že ide o prístup tretej strany treba uviesť, či ide o rámcový (dlhodobý) prístup alebo o elementárny
+(krátkodobý) prístup v rámci dlhodobého prístupu. V tomto prípade, treba uviesť identifikačné číslo povolenia
+rámcového prístupu.
+** Uveďte IP adresy zariadení, napr. IP servera s požadovanou aplikáciou.
+*** Napr. VPN, jeho IP, spôsob prihlásenia a ďalšie informácie.
+**** Vyplní SLA manažér alebo manažér bezpečnosti FS SR.
+Uveďte login, IP adresy, MAC adresy, kryptografické techniky, a pod. zamestnancov žiadateľa.
+53
+
+dňa
+podpis
+
+Kontaktná osoba FS SR (projektový manažér) s uvedením e-mailovej adresy:
+dňa
+podpis
+Vyjadrenie manažéra bezpečnosti FS SR:
+dňa
+podpis
+Schválil:
+V
+
+dňa
+podpis
+
+Externý prístup zrušený dňa:
+
+Podpis projektového manažéra:
+
+54
+
+Finančné riaditeľstvo SR, Lazovná 63, 974 01 Banská Bystrica
+
+P O U Č E N I E ZAMESTNANCOV
+EXTERNÉHO
+SUBJEKTU
+o pravidlách bezpečnosti v prostredí IKT FS SR*
+V zmysle relevantných internýchriadiacichaktov Finančnej správy SR (ďalej len „FS"), týkajúcich sa prístupu
+externých subjektov k informačným a komunikačným technológiám (dälej len „IKT") FS SR, bezpečnostných politík FS
+SR, platnej bezpečnostnej legislatívy (najmä požiadaviek zákona č. 275/2006 Z.z. o informačných systémoch verejnej
+správy v znení neskorších predpisov a súvisiaceho výnosu), mlčanlivosti týkajúcej sa daňového tajomstva a v súlade
+so zákonom č. 122/2013 Z.z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov, zamestnanec
+tretej strany má tieto povinnosti:
+a) dodržiavať ochranu údajov a informácií súvisiacich s IKT a s existujúcimi alebo vyvíjanými informačnými
+systémami FS SR a záväzok mlčanlivosti o údajoch a informáciách, s ktorými počas výkonu prác v FS SR prišli
+do styku, ako aj zákaz ich využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou
+orgánov činných v trestnom konaní, a to aj po ukončení pracovného, resp. zmluvného pomeru,
+b) zachovávať daňové tajomstvo, s ktorým počas výkonu prác v FS SR prišli do styku, ako aj zákaz ich využitia
+pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou orgánov činných v trestnom konaní
+a to aj po ukončení pracovného pomeru, resp, zmluvného pomeru,
+c) zachovávať mlčanlivosť o osobných údajoch, s ktorými počas výkonu prác v FS SR prišli do styku, ako aj zákaz
+ich využitia pre osobnú potrebu, zverejnenia, poskytnutia a sprístupnenia, s výnimkou orgánov činných v
+trestnom konaní a vo vzťahu k Úradu pre ochranu osobných údajov pri plnení jeho úloh,
+d) preukázať na vyzvanie svoju totožnosť buď zamestnancom strážnej služby alebo oprávnenej osobe určenej na
+priamu komunikáciu s nim (ďalej iba oprávnená osoba) pri vstupe do priestorov FS SR, ak strážna služba nie je
+zriadená,
+e) realizovať zásahy do IKT FS SR iba v určenom rozsahu v rámci poskytovania dohodnutých prác a služieb pre
+FS SR,
+f)
+
+použiť len také externé pripojenia k IKT FS SR, ktoré sú uvedené v písomnej žiadosti o prístup externého
+subjektu k IKT FS SR,
+
+g) použiť externé pripojenia k IKT FS SR len spôsobom, ktorý nie je v rozpore so všeobecne záväznými právnymi
+predpismi a bezpečnostnými politikami FS SR,
+h) používať externé pripojenia k IKT FS SR výhradne na plnenie povinností v zmysle platnej zmluvy uzatvorenej
+s cieľom poskytnutia služieb externého subjektu v prospech FS SR,
+i)
+
+neposkytnúť svoju elektronickú identitu (napr. login, heslo, a pod.) inej osobe,
+
+j)
+
+realizovať výkon dohodnutých prác a služieb tak, aby pri nich nedošlo k poškodeniu alebo zničeniu kľúčových
+komponentov IKT alebo k neočakávanému prerušeniu ich prevádzky,
+
+k) riadiť sa pokynmi oprávnenej osoby, SLA manažéra FS SR, manažéra bezpečnosti a manažéra informačnej
+bezpečnosti IKT FS SR počas výkonu dohodnutých prác a služieb pre FS SR
+I)
+
+zdokumentovať všetky zásahy do IKT FS SR podľa pokynov oprávnenej osoby a bezodkladne jej ohlásiť
+zistené bezpečnostné nedostatky, ktoré by mohli spôsobiť ohrozenie dôvernosti alebo integrity kódu alebo
+dokumentácie systému,
+
+m) pripájať svoje technologické prostriedky (napr. počítač, notebook, meracie prístroje a pod.) k IKT FS SR len po
+predchádzajúcom súhlase oprávnenej osoby, a to len na nevyhnutne potrebnú dobu a s rešpektovaním
+podmienok spojených so súhlasom, ako napríklad antivírusová kontrola a podobne,
+n) možnosti vynášať zariadenia, materiál a údaje patriace FS SR (informačno-komunikačné zariadenia, výsledky
+* Poučenie je potrebné vyhotoviť v dvoch origináloch
+55
+
+zostáv vytvorených na základe skriptov, zbery údajov, poskytované údaje, a pod.) z priestorov FS SR len
+s písomným súhlasom oprávnenej osoby, pričom zdokumentovaná e-mailová komunikácia je v odôvodnených
+a naliehavých prípadoch považovaná za súhlas oprávnenej osoby na priamu komunikáciu so žiadateľom,
+o) rešpektovať autorské práva k materiálom poskytnutým z FS SR, na ktoré bola tretia strana upozornená,
+p) vrátiť všetky materiály a údaje vrátane elektronických poskytnuté z FS SR a zlikvidovať všetky ich kópie, ak to
+nebolo zmluvne dohodnuté inak.
+Svojím vlastnoručným podpisom** potvrdzujem, že som tomuto poučeniu v plnom rozsahu porozumel, nemám
+voči nemu žiadne výhrady a zaväzujem sa ho dodržiavať.
+
+P.č.
+
+Titul, meno
+a priezvisko
+zamestnanca
+
+Číslo občianskeho
+preukazu
+
+Funkcia
+
+Názov
+právnickej
+osoby / SZČO
+
+Dátum
+
+Podpis
+
+1.
+2.
+3.
+4.
+5.
+
+Je potrebné vyplniť všetky požadované údaje uvedené v tabuľke
+56
+
+

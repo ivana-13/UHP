@@ -1,0 +1,560 @@
+Zmluva na údržbu a prevádzkovú podporu IS Rubín
+č. UVN-5-063/2018-063
+uzatvorená podľa § 269 a nasledujúcich zákona č. 513/1991 Zb. (Obchodný zákonník) v znení
+neskorších predpisov
+I.
+Zmluvné strany
+Dodávateľ:
+
+Názov:
+Sídlo:
+Zastúpený:
+Bankové spojenie:
+Číslo účtu IBAN:
+
+ICZ Slovakia a.s.
+Soblahovská 2050, 911 01 Trenčín
+Ing. Martin Terkovič – predseda predstavenstva
+
+IČO:
+IČ DPH:
+
+36328057
+SK2020180096
+
+SWIFT:
+
+UniCredit Bank Slovakia a.s.
+SK36 1111 0000 0012 1289 9008
+UNCRSKBX
+
+(ďalej len „dodávateľ”)
+a
+Objednávateľ: Názov:
+Sídlo:
+Zastúpený:
+
+Ústredná vojenská nemocnica SNP Ružomberok-FN
+ul. gen. M.Vesela 21, 034 26 Ružomberok
+MUDr. Peter Vaněk – riaditeľ ÚVN SNP
+Ružomberok - FN
+Bankové spojenie: Štátna pokladnica Bratislava
+Číslo účtu:
+SK8481800000007000177393
+IČO:
+31 936 415
+DIČ:
+2020590187
+
+(ďalej len „objednávateľ“)
+Zmluvné strany uzatvárajú túto zmluvu (ďalej len „Zmluva“), ktorá je výsledkom postupu zadania
+zákazky v súlade s § 117 Zákona 343/ 2015 Z.z o verejnom obstarávaní a o zmene a doplnení
+niektorých zákonov.
+II.
+Základné ustanovenia
+1.
+
+Zmluvné strany sa dohodli na podpísaní tejto zmluvy o poskytovaní služieb podpory pre
+softwarové riešenie IS RUBINn.
+
+2.
+
+Zmluvné strany prehlasujú, že údaje uvedené v článku. I. tejto zmluvy sú ku dňu uzavretia
+zmluvy pravdivé. Zmluvné strany sa zaväzujú, že akékoľvek zmeny údajov uvedených
+v článku I. tejto zmluvy oznámia bez zbytočného odkladu druhej zmluvnej strane. Zmluvné
+strany prehlasujú, že osoby podpisujúce túto zmluvu, sú oprávnené osoby na tento úkon.
+
+3.
+
+Softwarové riešenie Rubín je autorské dielo definované podľa zákona č. 618/2003 Z. z.
+o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení
+neskorších predpisov, ktorého vykonávateľom všetkých majetkových autorských práv je
+spoločnosť ICZ Slovakia a.s.
+Dodávateľ prehlasuje, že je odborne spôsobilý k poskytnutiu predmetu tejto zmluvy.
+
+4.
+
+1
+
+III.
+Predmet zmluvy
+1.
+
+Predmetom tejto zmluvy je poskytovanie služieb produktovej podpory (maintenance) a
+metodickej podpory pre softwarové riešenie Rubín implementované u objednávateľa.
+Dodávateľ sa zaväzuje poskytovať vyššie uvedené služby podpory počas celej doby platnosti
+tejto zmluvy a za podmienok určených v tejto zmluve.
+
+2.
+
+Poskytovaním služieb podpory k dodanému softwarovému riešeniu sa rozumie:
+a) produktová podpora (maintenance) softwarového riešenia Rubín
+i. odstránenie chýb SW modulu definovaného v článku
+III, odsek1,
+rozdelených do kategórií (A),(B),(C)
+b) metodická podpora, HelpDesk, telefonická podpora
+c) Zapracovanie úprav systému Rubín, vyplývajúcich z legislatívnych zmien a dodanie
+objednávateľovi do doby, ktorú určuje zákon.
+
+3.
+
+V rámci produktovej podpory zabezpečí dodávateľ opravu chýb v rozsahu definovanom
+nasledovne:
+a) Chyby SW riešení sú rozdelené do troch skupín*:
+i. (A ) – závažným spôsobom znemožňujúce prevádzku modulu
+ii. (B ) – obmedzujúce prevádzku modulu
+iii. C) – neobmedzujúce prevádzku, ale jedná sa o funkčné chyby SW riešenia,
+teda riešenie nezodpovedá dodanej funkčnej špecifikácii SW riešenia.
+b) Postup pri riešení chýb a požiadaviek:
+i. evidencia chyby/požiadavky do systému HelpDesk
+ii. prijatie chyby/požiadavky supportným oddelením dodávateľa,
+iii. analýza požiadavky, chyby,
+iv. pridelenie požiadavky na riešenie riešiteľovi,
+v. programovanie, interné testovanie u dodávateľa,
+vi. testovanie v prevádzke objednávateľa,
+vii. ostrá prevádzka
+
+* ICZ si vyhradzuje právo na zmenu kategórie prijatej chyby alebo požiadavky po jej analýze s tým, že o tejto zmene musí
+informovať žiadateľa a musia obidve strany súhlasiť s jej prekategorizovaním.
+
+4.
+
+Dodávateľ sa zaväzuje zahájiť práce na odstránení chyby softwarového riešenia a odstrániť ich
+v termínoch podľa nasledujúcej tabuľky, pokiaľ sa nedohodne s objednávateľom inak:
+Kategória
+chyby SW
+A
+B
+C
+
+5.
+
+Termín pre zahájenie prác na
+odstránení chyby SW
+do 4 hodín od prijatia
+požiadavky
+do 24 hodín od prijatia
+požiadavky
+do 24 hodín od prijatia
+požiadavky
+
+Termín pre odstránenie chyby SW
+alebo prijatie dočasného riešenia
+36 hodín od prijatia požiadavky
+do 72 hodín od prijatia požiadavky
+do termínu určenom dodávateľom
+a odsúhlasenom objednávateľom
+
+HelpDesk je elektronický systém, ktorý slúži na zaznamenávanie chýb/požiadaviek
+objednávateľa. Umožňuje oprávneným osobám objednávateľa zadávať, sledovať hlásenia
+a následne odsúhlasovať ich riešenie. V prípade jeho nefunkčnosti je zaslanie požiadavky
+objednávateľa na e-mailovú adresu support_rubin@icz.sk, rovnocenné zapísaniu požiadavky
+do systému HelpDesku.
+2
+
+6.
+
+Hotline predstavuje telefonickú podporu formou metodických usmernení, konzultácií na
+odbornú tému, vzťahujúcich sa k aplikácii zo strany dodávateľa.
+
+7.
+
+On-site podpora predstavuje priame, osobné riešenie technických problémov zodpovednou
+osobou dodávateľa v mieste sídla objednávateľa a vykonáva sa v prípade odstraňovania chýb,
+ktoré nie je možné riešiť vzdialeným prístupom.
+
+8.
+
+Objednávateľ sa zaväzuje prevziať poskytnuté služby, bez chýb, podľa predmetu zmluvy,
+v stanovenej lehote a zaplatiť dodávateľovi cenu za podmienok určených touto zmluvou.
+IV.
+Plnenie predmetu zmluvy
+
+1.
+
+Dodávateľ je povinný v rámci predmetu tejto zmluvy odstraňovať funkčné chyby, ktoré vznikli
+v súvislosti s používaním dodaného softwarového riešenia na základe požiadaviek na
+odstránenie chýb zo strany objednávateľa. Na zaznamenávanie a riešenie problémov
+softwarového riešenia slúži systém HelpDesk dostupný z verejnej siete na:
+https://jira.icz.sk/servicedesk/customer/portal/13
+
+2.
+
+Dodávateľ sa zaväzuje poskytovať podporu prostredníctvom systému HelpDesk v pracovných
+dňoch v čase 8,30 – 15,30 hod.. Po nahlásení problému zo strany objednávateľa (oprávnenej
+osoby objednávateľa) sa dodávateľ zaväzuje začať práce na riešení problému v lehotách
+stanovených v článku III. odsek 4 za podmienok uvedených v odsekoch 2-4 tohto článku
+zmluvy.
+
+3.
+
+Dodávateľ sa zaväzuje počas platnosti tejto zmluvy poskytovať metodickú, hot-line telefonickú
+podporu pre objednávateľa v pracovných dňoch od 8,30 do 15,30 hod. na telefónnych číslach
+0903 434 499 alebo 09 11 266 710, 0901 911 266.
+Požiadavky kategórie (A) sú prijímané mimo pracovný čas, počas víkendov a sviatkov 24h
+denne na telefónnom čísle 0911 266 710. Osoby oprávnené volať na uvedené tel. čísla sú
+definované ako osoby oprávnené užívať systém HelpDesk. Prijímanie požiadaviek 24 hod.
+denne na mobilných tel. číslach sa týka iba chýb kategórie (A). Požiadavky ostatných kategórií
+sú riešené prostredníctvom aplikácie HelpDesk, ako je uvedené v článku IV. odsek 2.
+
+4.
+
+Dodávateľ sa zaväzuje počas platnosti tejto zmluvy poskytovať služby on-site podpory t.j.
+osobného riešenia problémov priamo v sídle objednávateľa, v prípade, že si to podstata
+problému vyžaduje.
+
+5.
+
+Zmluvné strany sa dohodli, že práce vykonávané v rámci podpory, nezahŕňajú odstránenie
+problémov, ktoré vzniknú z nasledujúcich príčin:
+a) ak objednávateľ nedodržal zodpovedajúce prostredie pre prevádzku dodaného
+software, ktorý je predmetom zmluvy, v súlade s písomnými a technickými
+podmienkami uvedenými v dokumentácii dodanej dodávateľom,
+b) ak objednávateľ nereagoval na hlásenie systému alebo neohlásil dodávateľovi
+chybové hlásenie systému, poruchy systému, ktorý bezprostredne súvisí
+s predmetom plnenia zmluvy,
+c) v prípade uskutočnenia zmien, modifikácii alebo údržby softwarového riešenia inou
+osobou, ako pracovníkmi dodávateľa, bez písomného súhlasu dodávateľa,
+d) prenesením alebo premiestnením produktov, s ktorými bezprostredne súvisí predmet
+plnenia zmluvy, ak to nebolo vykonané so súhlasom dodávateľa,
+e) v prípade, že chyba vznikla neoprávneným zásahom pracovníkov objednávateľa,
+f) v prípade chýb, ktoré vznikli pôsobením vyššej moci, ako napr. požiar, výbuch,
+záplava, výboj statickej energie spôsobený bleskom a podobne.
+3
+
+6.
+
+V prípadoch uvedených v odseku 5 článku IV. tejto zmluvy, dodávateľ zaistí odstránenie týchto
+chýb za úhradu na základe svojho platného cenníka a samostatnej objednávky objednávateľa.
+V.
+Postup vyžiadania a prevzatia
+
+1.
+
+Zmluvné strany sa dohodli na určení oprávnených pracovníkov na strane objednávateľa, ktorí
+sú oprávnení nahlásiť chyby cez systém HelpDesk a žiadať ich odstránenie (príloha č. 1).
+Oprávnení pracovníci sú povinní výsledok servisného zásahu validovať a prevziať.
+
+2.
+
+V prípade maintenance, ktorá predstavuje činnosť dodávateľa vedúcu k náhrade inštalovanej
+verzie štandardného software novou verziou s vyššou alebo upravenou funkcionalitou na
+základe kontinuálneho vývoja, sa zabezpečuje cez vzdialený prístup, ktorý je objednávateľ
+povinný zabezpečiť na základe požiadavky uvedenej v systéme HelpDesk na dobu potrebnú pre
+zabezpečenie uvedených prác.
+
+3.
+
+Dodávateľ sa zaväzuje, zachovať mlčanlivosť o utajovaných informáciách, s ktorými sa stretne
+pri prácach naplňujúcich predmet zmluvy a originálne dáta nemocnice obsiahnuté v systéme
+Rubín (pacientske dáta a pod.), ku ktorým bude mať vzdialený prístup pre jeho správu a
+support, nebude poskytovať tretej strane bez písomného súhlasu nemocnice. Dodávateľ nie je
+oprávnený meniť obsah dát ani ich inak korigovať bez písomného, resp. mailového súhlasu
+objednávateľa.
+VI.
+Miesto plnenia
+
+1.
+
+Zmluvné strany sa dohodli, že služby, ktoré sú predmetom plnenia tejto zmluvy sa budú
+poskytovať nasledovne:
+a) v prípade služieb produktovej podpory (maintenance) platia ustanovenia odseku 2,
+článku V. tejto zmluvy,
+b) práce sa budú vykonávať formou vzdialeného prístupu, pokiaľ to závažnosť
+problému umožňuje. Vzdialený prístup bude zo strany Objednávateľa poskytnutý na
+základe požiadavky Dodávateľa na čas potrebný pre vyriešenie problému. V prípade
+vážnych funkčných chýb miestom plnenia zmluvy bude sídlo objednávateľa,
+c) oprava chýb modulu Rubín, služby hot-line a metodickej podpory budú poskytované
+v sídle dodávateľa.
+VII.
+Cena a platobné podmienky
+
+1.
+
+Cena za poskytnuté služby podľa predmetu tejto zmluvy (článok III. zmluvy) predstavuje
+v úhrne 24 000 EUR bez DPH (slovom: dvadsaťštyritisícc eur) na obdobie 47 mesiacov. Cena
+služieb podpory sa fakturuje mesačne, v čiastke 480 EUR bez DPH
+(slovom
+päťstodeväťdesiat eur) vždy k poslednému dňu príslušného mesiaca s lehotou splatnosti 30
+kalendárnych dní odo dňa doručenia.
+
+2.
+
+Plnenie nad rámec odseku 1 tohto článku, sa spoplatňuje hodinovou sadzbou 55 EUR, bez
+DPH. V prípade on-site zásahov u objednávateľa, podľa článku IV., odsek 4 má dodávateľ
+právo účtovať cestovné náklady vo výške 0,3 EUR bez DPH za kilometer. Tieto cestovné
+náklady dodávateľ fakturuje v rámci príslušného kalendárneho mesiaca, v ktorom sa on-site
+zásah zrealizoval.
+
+4
+
+3.
+
+K dohodnutej cene sa pripočíta sadzba DPH v súlade s platným zákonom o dani z pridanej
+hodnoty.
+
+4.
+
+Zmluvné strany sa dohodli, že objednávateľ uhradí cenu za plnenie predmetu zmluvy
+v lehotách a spôsobom uvedeným vyššie na základe vystavených faktúr dodávateľa na účet
+dodávateľa.
+
+5.
+
+Objednávateľ sa zaväzuje správne vystavené faktúry dodávateľa, ktoré majú všetky zákonom
+stanovené náležitosti, uhradiť najneskôr do 30 kalendárnych dní odo dňa doručenia. V prípade
+nesprávnej alebo neúplnej faktúry, objednávateľ môže faktúru vrátiť dodávateľovi na
+prepracovanie s uvedením dôvodu vrátenia. V takomto prípade plynie nová lehota splatnosti
+faktúry, dňom doručenia opravenej faktúry objednávateľovi.
+VIII.
+Sankcie
+
+1.
+
+Dodávateľ má právo uplatniť si úrok z omeškania voči objednávateľovi, ak objednávateľ
+neuhradí faktúru za poskytnuté služby v stanovenej lehote, a to vo výške 0,03 % z dlžnej sumy
+za každý deň omeškania.
+
+2.
+
+Objednávateľ má právo uplatniť si zmluvnú pokutu voči dodávateľovi, ak dodávateľ
+neposkytne služby podľa tejto zmluvy v lehote stanovenej touto zmluvou, a to vo výške 0,03%
+zo sumy mesačnej podpory za každý i začatý deň omeškania.
+
+3.
+
+V prípade, že objednávateľ určí pre chybu kategóriu (A), po telefonickej konzultácii a analýze
+dodávateľa, bude dodávateľ požadovať zmenu kategórie prijatej požiadavky a objednávateľ,
+zmenu kategórie neprijme, bude v prípade následného zistenia dodávateľom, že chyba
+neznemožňovala prevádzku systému, požadovať kompletné náklady na zásah dodávateľa
+a objednávateľ ich bude hradiť na základe samostatnej objednávky nad rámec mesačného
+paušálu.
+IX.
+Nevyhnutná súčinnosť objednávateľa
+
+1.
+
+Objednávateľ sa zaväzuje poskytnúť dodávateľovi nasledujúcu súčinnosť, ktorá je nevyhnutná
+na úspešné splnenie predmetu zmluvy zo strany dodávateľa:
+a) objednávateľ určí oprávnených pracovníkov, ktorí budú oprávnení požadovať služby
+špecifikované v predmete tejto zmluvy a budú povinní plnenie dodávateľa validovať
+a prevziať. Zoznam oprávnených pracovníkov objednávateľa je uvedený v prílohe č.
+1, ktorá je neoddeliteľnou súčasťou tejto zmluvy,
+b) objednávateľ sa zaväzuje poskytnúť dodávateľovi všetky informácie potrebné pre
+správne a včasné odstránenie problému,
+c) objednávateľ sa zaväzuje poskytnúť dodávateľovi potrebný prístup (vrátane
+zabezpečenia vzdialeného prístupu) k miestu užívania systému, ktorý dodávateľ
+bude potrebovať na splnenie predmetu tejto zmluvy . Vzdialený prístup objednávateľ
+zabezpečí na základe požiadavky uvedenej v systéme HelpDesk, na dobu potrebnú
+pre riešenie supportu. V prípade, že zo strany objednávateľa nebude v požadovanom
+čase zabezpečený vzdialený prístup, dodávateľ negarantuje doby odozvy na riešenie
+problému uvedené v článku III. tejto zmluvy,
+d) objednávateľ sa zaväzuje zabezpečiť spoluprácu správcu siete, prípadne ďalších
+pracovníkov objednávateľa s ohľadom na charakter riešeného problému, tak aby sa
+vytvorili podmienky na jeho úspešné odstránenie,
+e) objednávateľ sa zaväzuje zabezpečiť dodávateľovi prístup k licenčným programom,
+ktoré sú nevyhnutné pre odstránenie problému,
+5
+
+f) v prípade on-site podpory na mieste objednávateľ zabezpečí prítomnosť
+oprávneného pracovníka objednávateľa (podľa prílohy č. 1), a to minimálne pri
+začatí a ukončení servisného zásahu.
+2.
+
+Technické údaje a doplňujúce podklady, ktoré si dodávateľ vyžiada ako nevyhnutný
+predpoklad pre riadne, včasné a úplné splnenie svojho záväzku, uvedie objednávateľ v systéme
+HelpDesk k danému hláseniu najneskôr do 5 kalendárnych dní odo dňa doručenia požiadavky
+dodávateľa. V prípade nemožnosti splnenia tejto požiadavky, je objednávateľ túto skutočnosť
+povinný bezodkladne nahlásiť dodávateľovi.
+
+3.
+
+Dodávateľ sa zaväzuje, že pracovníci vykonávajúci on-site podporu budú pri plnení tejto
+zmluvy dodržiavať všeobecne platné predpisy o bezpečnosti práce, interné predpisy
+objednávateľa a budú sa riadiť organizačnými pokynmi zodpovedných pracovníkov
+objednávateľa, na základe poučenia objednávateľa.
+
+4.
+
+Objednávateľ umožní pracovníkom dodávateľa prístup do objektov, miestnosti a k zariadeniam
+v rozsahu a dobe nevyhnutnej pre splnenie predmetu zmluvy.
+
+5.
+
+Zodpovední pracovníci objednávateľa majú právo kontrolovať pracovníkov dodávateľa pri
+plnení predmetu zmluvy a zabezpečujú, aby iné osoby počas platnosti zmluvy nerobili opravy
+alebo modifikácie zariadení a systémov alebo aby nepoužili software, postupy, materiál resp.
+iné príslušenstvo, ktoré nevyhovuje špecifikácii dodávateľa alebo výrobcu.
+
+6.
+
+V prípade, že objednávateľ nevyvinie potrebnú súčinnosť stanovenú touto zmluvou pri
+realizácii ktoréhokoľvek dielčieho plnenia zmluvy, môže dodávateľ predložiť termín plnenia
+o dobu, počas ktorej nemohol z uvedeného dôvodu pokračovať v realizácii diela. Ak
+preukázateľne vznikne v tejto súvislosti dodávateľovi škoda, môže si uplatniť nárok na jej
+náhradu v plnom rozsahu.
+X.
+Osobitné ustanovenia
+
+1.
+
+Zmluvné strany sa dohodli, že zodpovednými pracovníkmi vo veciach organizačných, vo
+veciach validácie a preberania jednotlivých plnení podľa tejto zmluvy sú:
+a) za objednávateľa: Ing. Zdenko Mikunda, Ing. Agáta Janigová
+b) za dodávateľa : Ing. Miroslav Švec, Ing. Lucia Mituchová
+
+2.
+
+Zmeny v osobách zodpovedných pracovníkov musia byť zaslané druhej zmluvnej strane
+formou doporučeného listu.
+
+3.
+
+O zmenách v osobách oprávnených pracovníkov (uvedených v prílohe č. 1) je potrebné
+informovať druhú zmluvnú stranu písomnou formou (HelpDesk, email, doporučený list).
+
+4.
+
+Zmluvné strany sa dohodli na elektronickej komunikácii (požiadavka na služby podpory,
+doplňujúce informácie, návrh riešenia, schválenie návrhu, oznámenie o odovzdaní plnenia
+alebo o jeho testovaní) prostredníctvom systému HelpDesk dodávateľa.
+
+5.
+
+Zmluvné strany sú povinné zachovať mlčanlivosť o všetkých skutočnostiach, údajoch
+a informáciách týkajúcich sa druhej strany, ktoré majú povahu obchodného tajomstva, a ktoré
+sú predmetom Zákona o ochrane osobných údajov. Zmluvné strany sa zaväzujú, že tieto
+informácie neposkytnú tretej strane s výnimkou prípadných subdodávateľov a zaistia ich
+primeranú ochranu a utajenie.
+
+6.
+
+Záväzky uvedené v odseku 5 tohto článku platia aj po zániku tejto zmluvy až do doby, kým
+tieto informácie môžu mať povahu obchodného tajomstva alebo dôverných informácii.
+6
+
+7.
+
+Objednávateľ sa zaväzuje, že počas platnosti tejto zmluvy nebude bez vedomia dodávateľa
+samostatne ani prostredníctvom tretej osoby zasahovať do kódu alebo programovej
+konfigurácie špecifikovaných komponentov. Dodávateľ nezodpovedá za škodu, ktorá vznikne
+v dôsledku porušenia tohto ustanovenia zo strany objednávateľa.
+
+8.
+
+Dodávateľ poskytuje objednávateľovi záruku na všetky služby dodané v rámci tejto zmluvy v
+trvaní 24 mesiacov. Záruka sa nevzťahuje na chyby a problémy, ktoré vznikli činnosťou
+objednávateľa podľa článku IV. odsek 5 tejto zmluvy.
+XI.
+Záverečné ustanovenia
+
+1.
+
+Táto zmluva sa uzatvára na dobu 48 mesiacov odo dňa nadobudnutia účinnosti tj. 01.12.2018do 30.11.2022.
+
+2.
+
+Zmluvný vzťah je možné ukončiť vzájomnou dohodou zmluvných strán alebo jednostranným
+odstúpením od zmluvy, v prípade ak jedna strana poruší zmluvu podstatným spôsobom.
+Podstatným porušením tejto zmluvy sa rozumie najmä dlhodobé a opakované neplnenie
+podmienok tejto zmluvy, pričom strana, ktorá zmluvu porušila, neurobila nápravu ani po
+písomnom upozornení v lehote 30 dní. Odstúpenie od zmluvy je účinné dňom doručenia druhej
+zmluvnej strane.
+
+3.
+
+Odstúpiť možno aj od časti zmluvy, a to v súvislosti s možnou reorganizáciou,
+reštrukturalizáciou, príp. právnym odčlenením organizačnej časti nemocnice ako od právneho
+subjektu.
+
+4.
+
+Túto zmluvu je možné vypovedať bez udania dôvodu, pričom výpovedná lehota je jeden
+mesiac a začína plynúť prvým dňom mesiaca nasledujúceho po mesiaci, v ktorom bola
+výpoveď doručená druhej zmluvnej strane.
+
+5.
+
+Táto zmluva môže byť doplnená alebo zmenená len na základe písomných dodatkov,
+podpísaných štatutárnymi zástupcami oboch zmluvných strán.
+
+6.
+
+Vzťahy zmluvných strán, ktoré nie sú touto zmluvou výslovne upravené sa riadia všeobecne
+záväznými právnymi predpismi platnými v SR.
+
+7.
+
+Táto zmluva je vyhotovená v 5-tich exemplároch, tri pre objednávateľa a dva pre dodávateľa.
+
+8.
+
+Zmluva nadobúda platnosť dňom podpisu oboch zmluvných strán a účinnosť dňom
+nasledujúcim po dni jej zverejnenia.
+
+9.
+
+Táto zmluva sa povinne zverejňuje v súlade so zákonom č. 546/2010 Z.z., ktorým sa dopĺňa
+zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov a ktorým sa menia
+a doplňujú niektoré zákony.
+
+10. Každá zo zmluvných strán sa zaväzuje, že neprevedie nijaké práva a povinnosti (záväzky)
+vyplývajúce z tejto zmluvy, resp. ich časť na iný subjekt, neprijme ručenie, nevloží akúkoľvek
+pohľadávku alebo právo z tejto zmluvy ako vklad do obchodnej spoločnosti, nezriadi na
+akúkoľvek pohľadávku záložné právo alebo iné právo tretej osoby bez predchádzajúceho
+písomného súhlasu druhej zmluvnej strany. V prípade porušenia tejto povinnosti sa bude
+považovať takýto úkon za neplatný právny úkon. V prípade porušenia tejto povinnosti jednou
+zo zmluvných strán, je druhá zmluvná strana oprávnená od zmluvy odstúpiť, a to s účinnosťou
+7
+
+odstúpenia ku dňu, keď bolo písomné oznámenie o odstúpení od zmluvy doručené druhej
+zmluvnej strane, a tým nie je dotknuté právo na náhradu škody.
+11. V prípade, ak bude podľa tejto zmluvy potrebné doručovať inej zmluvnej strane akúkoľvek
+písomnosť, doručuje sa táto písomnosť na adresu zmluvnej strany uvedenú v záhlaví tejto
+zmluvy, dokiaľ nie je zmena adresy písomne oznámená zmluvnej strane, ktorá písomnosť
+doručuje. V prípade, ak sa písomnosť aj pri dodržaní týchto podmienok vráti nedoručená,
+zmluvné strany si dohodli, že účinky doručenia nastávajú tretím dňom po vrátení zásielky
+zmluvnej strane, ktorá zásielku doručuje.
+12. Akékoľvek ustanovenie tejto zmluvy, ktoré je neplatné, nezákonné alebo nevynútiteľné podľa
+platného práva, bude neúčinné len v rozsahu, v akom túto neplatnosť, nezákonnosť alebo
+nedostatok či stratu vynútiteľnosti postihuje právo, bez akéhokoľvek vplyvu na zostávajúce
+ustanovenia zmluvy. Zmluvné strany sa zaväzujú nahradiť takéto ustanovenie novým
+ustanovením, ktoré bude platné a účinné a čo najlepšie zodpovedá jeho pôvodne zamýšľanému
+účelu.
+13. Počas platnosti zmluvy sa zmluvné strany zaväzujú plniť záväzky vyplývajúce z tejto zmluvy
+po vyhlásení mimoriadnej situácie podľa zákona NR SR č.42/1994 Z. z. o civilnej ochrane
+obyvateľstva v znení neskorších predpisov, po vyhlásení krízovej situácie - núdzového stavu,
+výnimočného stavu, vojnového stavu a vypovedaní vojny podľa ústavného zákona č.227/2002
+Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu
+v znení neskorších predpisov a podľa zákona NR SR č.179/2011 Z. z. o hospodárskej
+mobilizácii a o zmene a doplnení zákona č.387/2002 Z. z. o riadení štátu v krízových situáciách
+mimo času vojny a vojnového stavu v znení neskorších predpisov.
+
+V Ružomberku dňa 14.11.2018
+
+____________________________
+za Objednávateľa
+MUDr. Peter Vaněk
+riaditeľ ÚVN SNP Ružomberok –FN
+
+V Trenčíne, dňa 07.11.2018
+
+____________________________
+za Dodávateľa
+Ing. Martin Terkovič
+predseda predstavenstva ICZ Slovakia, a.s.
+
+Príloha č. 1
+Zoznam oprávnených pracovníkov objednávateľa na zadanie požiadaviek cez systém
+HelpDesk :
+MUDr. Juraj Mitura mituraj@uvn.sk
+Ing. Zdenko Mikunda mikundaz@uvn.sk
+Ing. Agáta Janigová janigovaa@uvn.sk
+
+tel. č. +421 905 910 450
+tel. č. +421 905 905 525
+tel. č. +421 905 897 584
+
+8
+
+

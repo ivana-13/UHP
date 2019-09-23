@@ -1,0 +1,849 @@
+Kúpna zmluva č. Z201737508_Z
+uzatvorená v zmysle §409 a nasl. Obchodného zákonníka
+I. Zmluvné strany
+1.1
+
+Objednávateľ:
+Obchodné meno:
+Sídlo:
+IČO:
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+1.2
+
+Akadémia ozbrojených síl generála Milana Rastislava Štefánika
+Demänová 393, 03101 Liptovský Mikuláš, Slovenská republika
+37910337
+2021872083
+SK2021872083
+SK86 8180 0000 0070 0016 6299
+0960 42 36 00
+
+Dodávateľ:
+Obchodné meno:
+
+airo, s. r. o.
+
+Sídlo:
+
+Medená 5, 81102 Bratislava - mestská časť Staré Mesto, Slovenská republika
+
+IČO:
+
+48286621
+
+DIČ:
+IČ DPH:
+Číslo účtu:
+Telefón:
+
+0915226771
+
+II. Predmet zmluvy
+2.1
+
+2.2
+
+Všeobecná špecifikácia predmetu Zmluvy:
+Názov:
+
+Sonda pre monitorovanie siete
+
+Kľúčové slová:
+
+počítačové systémy
+
+CPV:
+
+48900000-7 - Rôzne softvérové balíky a počítačové systémy; 60000000-8 - Dopravné
+služby (bez prepravy odpadu)
+
+Druh/y:
+
+Tovar; Služba
+
+Funkčná špecifikácia predmetu Zmluvy:
+• Sonda pre monitorovanie siete – riešenie poskytne okamžitý prehľad o aktuálnej situácii v sieti, ako aj možnosť
+dohľadať minulé udalosti, prípadné incidenty.
+
+2.3
+
+Technická špecifikácia predmetu Zmluvy:
+
+Technické vlastnosti
+
+Jednotka
+
+Sonda pre monitorovanie siete
+
+ks
+
+Technické vlastnosti
+
+Hodnota/Charakteristika
+
+•virtuálne zariadenie s podporou:
+
+oVMware ESXi verzia min 6.0 a vyššie, podpora VMXNET
+3,oCentOS min KVM 7.0 a vyššie, virtuálny adaptér E1000,omin 2x
+sieťové adaptéry (NIC) - manažment + detekčný port,
+
+-"-
+
+otyp operačného systému - Linux,ospráva z webovej konzoly
+(Chrome, IE, Mozilla) prostredníctvom protokolu HTTPS,
+
+-"-
+
+omožnosť centrálnej správy pre koreláciu logov a ďalšej správy
+funkcií logov, jedno prihlásenie (SSO) od Centrálnej správy až po
+konzolu konkrétneho zariadenia,
+
+-"-
+
+opriepustnosť sieťovej prevádzky min 250 Mb/s,
+
+•podpora aj HW variantu (SW, OS + HW) od jedného
+výrobcu so Sandboxom
+
+- prispôsobiteľný zákazníkom bez zásahu výrobcu,
+Strana 1 z 8
+
+Minimum
+
+Maximum
+
+Presne
+1
+
+•systém detekcie prieniku (BDS)spolupracuje s:
+
+oCentrálnou správou výrobcu,
+
+-"-
+
+oSandbox ( HW zariadeniach od výrobcu BDS),oWebovými
+bránami GW,oPoštovými bránami GW,
+
+-"-
+
+oSoftwarom na klientskych staniciach notebooky/pracovné
+stanice,oSoftwarom na serveroch (fyzické/virtuálne - vo Vmware).
+
+•systém detekcie prieniku (BDS) vyvolá akciu „všetky
+podozrivé objekty do BLOCK stavu“ (= hash súborov, IP,
+domén, URL)
+
+- do všetkých vyššie uvedených systémov (email / web GW + SW
+na koncových staniciach, ochrany dátového centra + podpora
+CheckPoint IPS)
+
+•podpora odosielania logov do externých logovacích
+systémov cez syslog protokol/SIEM:
+
+oUDP / TCP / SSL,oCEF, LEEF
+
+•podporované protokoly:
+
+oIPv4 a IPv6oSNMPv1, SNMPv2, SNMPv3, AES pro SNMPv3
+(netSNMP)omin podpora protokolov (zistenie protokolu,
+upozorňovanie na neúspešné
+
+-"-
+
+oprihlásenie, zistenie C & C komunikácie, detekcia exploitov,
+zachytenie prenášaných súborov v sieťovej infraštruktúre a
+odoslanie na analýzu do Snadboxu (v kombinácii s HW
+variantom)),
+
+-"-
+
+oSMTP, POP3, IMAP4,oHTTP, HTTPS,oKerberos, RADIUS,
+LDAP,oDCE-RPC, SMB, SMB2,
+
+-"-
+
+oDNS request, DNS response,oDHCP, DHCPv6,oFTP, TFTP,
+prenos súborov,oRDP, SSH, Telnet, VNC, Cisco-TELNET,
+Radmin, MODBUS- UDP, Modbus-TCP,
+
+-"-
+
+oSQL, MySQL, MSSQL, Oracle, Postgres,oRTSP / RTP-UDP,
+RTSP / RTP-TCP, RTSP / RDT-UDP, RTSP / RDT-TCP, WMSP,
+SHOUTCas toRTMP,
+
+-"-
+
+oGmail, Hotmail, Yahoo mailoARP, IGMP, MMS, ICMP, IRC,
+SIP2oBittorent, Direct_Connect, Kazaa,oGoogle Talk, MSN,
+YMSG, Skype, Yahoo Web Messenger.
+
+•podpora väčšiny z:
+
+oAres, Blubster, Cabos, Deepnet Explorer, eDonkey_eMule,
+eDonkey,Foxy, FreeWire, Gnucleus LAN, Gimme, GnucDNA
+GWebCache,
+
+-"-
+
+Gnutella/Limewire/Bearshare/Shareaza, iMesh, Jubster,
+Kceasy,KuroMiranda, MLDonkey, MoodAmp, MyNapster,Nova
+GWebCache, OpenNap, Ppstream, SoulSeek, Swapper
+GWebCache, Winny, WinMX, Xnap, Xolox,Zultrax
+
+-"-
+
+oAIM Express, Chikka SMS Messenger, eBuddy, ICQ2Go,
+ILoveIM Web Messenger, IMUnitive, mabber, meebo.
+
+•schopnosť určiť, aké sú dôveryhodné zdroje v sieti:
+
+odomény, orozsahy IP (dôveryhodné / nedôveryhodné),oservery:
+Kerberos, Active Directory, FTP, SMTP, HTTP proxy, Domain
+Controller,
+
+-"-
+
+ocontent Management Server, SMB, RADIUS, DNS, databázový
+server,ourčiť, aký je „normálny“ pracovný čas.
+
+•zoznam zakázaných / povolených:
+
+oIP / URL / DoménoMonitor / Monitor a reset (reset TCP, spoofing
+DNS)
+
+•výnimky:
+
+o Host (Protokol / IP adresa / rozsah IP)
+
+•možnosť sledovať všetky rozsahy IP a porty / špecifické
+IP (cieľ / zdroj) / cieľový port,•účet Admin + readonly účet
+pre správu,•automatické sťahovanie a aktualizácia
+nových detekčných pravidiel,
+
+•
+
+•výmena popisu škodlivého softvéru s inými
+zariadeniami (napríklad pravidlami YARA),•automatické
+prehľady-reporty (denne, týždenne, mesačne) vo
+formáte PDF,•detekčné filtre
+
+•
+
+•detekčné filtreoviditeľnosť fáz útoku:
+
+1.Inteligence Gathering,2.Point of Entry,3.C&C,4.lateral
+movement,5.asset/data discovery,6.data leakage,7.uknown phase
+
+oTypy rýchlych filtrov:
+
+•ovplyvnené hostiteľské počítače,•hostitelia s významnou
+detekciou udalostí,•podozrivé objekty (IP, doména, súbor,
+...),•všetky detekcie.
+
+Strana 2 z 8
+
+oExport do XLSotriedenie podľa zvoleného stĺpca (host,
+závažnosť, fáza útoku, meno klienta, IP, dátum,
+...)ovoliteľné widgety v dashboarde (CPU / disk / využitie
+RAM),
+
+•
+
+otop škodlivých URL,top Hostitelia s udalosťami,top
+podozrivé správanie,top infikovaných hostiteľov
+malwarom,top zneužitých hostov,top nebezpečné
+aplikácie,top podozrivé súbory,prevádzky v reál. čase.
+
+•
+
+•retro skenovanie - skenovanie starých logov z dôvodu
+identifikácie komunikácie “teraz, známej“ C &
+C,•aktuálny stav vyťaženia kapacity siete,•zoznam
+nájdených adries spätného volania C & C :
+
+oakcie „kópia“ popierať / povoliť zoznamu,ogeografické
+umiestnenie adries.
+
+•viac ako 1000+ BDS pravidiel, všetky možno aktivovať /
+deaktivovať alebo samostatne,•veputácia mobilných
+aplikácií, najmä aplikácie pre Android,•reputácia súborov
+/ IP / URL / domén,
+
+•
+
+• riešenie by malo mať bezpečnostné certifikáty /
+odporúčania (ako EAL, FIPS alebo akreditáciu
+NSA)•všetky analýzy a informácie z databázy
+Threat-Cloud zahrnuté v cene•podpora 24x7
+
+•
+
+•ochrana proti väčšine známych súčasných malware,
+minimálne tieto:
+
+ozraniteľnosti (CVEs): Struts, Foxit Reader, MS Silverlight, Mozilla,
+Joomla, Sun Java, IE, Shellshock, Injection SSL CCS,
+
+-"-
+
+oPayloady a hackovacie nástroje: Cobaltstrike, Metasloit reverse
+(shell, bash, telnet, perl, netcat…), Poisonivy, Meterpreter reverse
+PHP/Python/…,
+
+-"-
+
+/…, PsExec, Keylogger http request, IRCbot connection, DDOS
+tools (HOIC, LOWC, LOIC), TOR, Bitcoint request,oransomware:
+CERBER, Lock, Cryptesla, ...
+
+-"-
+
+oexploit sady: Neutrino, Magnitude, Rig, Angler, Nuclear, Range
+HTTP, Ghost SMTP,omalware: Zeus, Conficker, ...
+
+•od výrobcu zabezpečenia sa požaduje:
+
+ovývojové centrá a laboratóriá a zároveň musí táto organizácia
+prispievať a podávať správy o nájdení nových Zero Day
+zraniteľnostiach, ktoré sa využívajú v IT infraštruktúrach po celom
+svete,
+
+-"-
+
+omal by byť „odporúčaný“ aspoň jedným z nezávislých testov v
+každej z týchto kategórií: breach detekčné systémy, ako:
+
+•od výrobcu zabezpečenia sa požaduje: omal by byť
+„odporúčaný“ aspoň jedným z nezávislých testov v
+každej z týchto kategórií: - breach detekčné systémy,
+ako:
+
+•NSS Labs - Breach Detection systems,•Forrester Wave Automated Malware Analysis,•ICSA Labs
+
+•od výrobcu zabezpečenia sa požaduje: omal by byť
+„odporúčaný“ aspoň jedným z nezávislých testov v
+každej z týchto kategórií: - systémy IDS / IPS,
+
+•
+
+•od výrobcu zabezpečenia sa požaduje: mal by byť
+„odporúčaný“ aspoň jedným z nezávislých testov v
+každej z týchto kategórií: - riešenie pre koncové body
+(anti-malware)
+
+•
+
+od výrobcu zabezpečenia sa požaduje: ovlastnú
+reputačnú databázu (nie OEM / 3 strannú URL / C & C
+/doménovú)
+
+•
+
+•minimálne použité / implementované pravidlá BDS:
+
+oPredvolený používateľ sa pokúsil prihlásiť do služby
+MySQLoPredvolený používateľ sa pokúsil prihlásiť do služby
+POSTGRESoPredvolený používateľ sa pokúsil prihlásiť do služby
+Oracle
+
+-"-
+
+oPrivilegované používateľské konto sa pokúsilo prihlásiť na server
+Vzdialenej pracovnej plochy mimo pracovného časuoPrivilegovaný
+používateľ sa pokúsil prihlásiť do služby MSSQL
+
+-"-
+
+oPrivilegovaný používateľ sa pokúsil prihlásiť sa k službe
+OracleoPrivilegovaný používateľ sa pokúsil prihlásiť sa k službe
+POSTGRESoActiveX spustí spustiteľný kód - HTTP (reakcia)
+
+-"-
+
+oZnaeužitie ANIoArchív súbor obsahujúci spustiteľný súboroArchív
+súbor obsahujúci spustiteľný súbor s podozrivým rozšírením
+Strana 3 z 8
+
+-"-
+
+oArchív súbor obsahujúci spustiteľný súbor s podozrivým
+rozšírením - e-mailoArchív súbor obsahujúci súbor s dvojitým
+rozšírenímoArchív súbor obsahujúci súbor s príponou skriptu
+
+-"-
+
+oArchív súbor obsahujúci zabalený spustiteľný súbor e-mailoArchív súbor s viacerými po sebe idúcimi medzerami v
+názve súboruoArchív UploadoBITCOIN HTTP Request
+
+-"-
+
+oBitcoin Mining TCP RequestoBMP exploitoBot command - IRC
+(Response)oC&C callback attempt
+
+-"-
+
+oCallback to domain in Central Manager User-Defined Suspicious
+Objects listoCallback to domain in Suspicious Objects list
+
+-"-
+
+oCallback to IP address in Central Manager User-Defined
+Suspicious Objects listoCallback to IP address in Suspicious
+Objects list
+
+-"-
+
+oCallback to URL in Central Manager User-Defined Suspicious
+Objects listoCallback to URL in Suspicious Objects listoCertificate
+fields with missing or useless data - SSL
+
+-"-
+
+oCompromised site with malicious URL injectionoConnection
+attempt to an APT-related CNC server detectedoCPL File Transfer
+detected
+
+-"-
+
+oCross-site scriptingoData-stealing malwareoData-stealing
+malware - C&C channel - IRC (Request)oData-stealing malware Connection attempt - FTP (Request)
+
+-"-
+
+oData-stealing malware - HTTP (Request)oData-stealing malware IMoData-stealing malware - Malicious domain - DNS
+(Response)oData-stealing malware - Message sender - Email
+
+-"-
+
+oData-stealing malware - Message subject - EmailoData-stealing
+malware - URI used as drop site - HTTP (Request)oData-stealing
+malware - URI used for callbacks and downloads - HTTP
+(Request)
+
+-"-
+
+oData-stealing malware - URL used as drop site - HTTP
+(Request)oData-stealing malware - URL used for callbacks and
+downloads - HTTP (Request)oDIRECTORY TRAVERSAL on
+Unknown Protocol
+
+-"-
+
+oDLL injection - SMBoDNS response of a queried malware
+Command and Control domainoDNS response of a queried
+targeted attack related domain
+
+-"-
+
+oDNS response resolves to dead IP addressoDNS Spoofing
+response oDomain in Deny List (Action is [Monitor and reset])
+
+-"-
+
+oDomain in Deny List (Action is [Monitor only])oDownloaded
+executable file - HTTP (Request)oDownloaded executable file
+through SMB response
+
+-"-
+
+oDownloaded file with spyware-related file name - HTTP
+(Response)oDownloaded packed file with malware-related file
+nameoEmail/Instant message containing malicious URL
+
+-"-
+
+oExecutable file - EmailoExecutable file - TFTPoExecutable file
+dropped in administrative share - SMB
+
+-"-"-
+
+oExecutable file sent from/to non-standard port - IRC
+(Request)oExecutable file via FTP - class 1oExecutable requested
+from root directory of web server
+
+-"-
+
+oExecutable with suspicious file name - HTTP
+(Request)oExploitable fileoFailed host DNS A record query of a
+non-trusted domain mail exchanger
+
+-"-
+
+oFile detected by Community File Reputation serviceoFile detected
+by File Retro Scan serviceoFile detected by Mobile Application
+Reputation Service
+
+-"-
+
+oFile detected by web sandbox - HTTPoFile Download From
+known CNC Server detectedofile dropped on a network
+administrative share
+
+Strana 4 z 8
+
+-"-
+
+oFile in Central Manager User-Defined Suspicious Objects listoFile
+in Deny List (Action is [Monitor only])oFile in Suspicious Objects list
+
+-"-
+
+oFile name with multiple consecutive spaces and executable
+extensionoFile with malware-related file name - HTTP
+(Request)oFile with multiple extensions ending with executable
+extension
+
+-"-
+
+oFile with spyware-related file name - HTTP
+(Request)oGrayware-related User-Agent string in header - HTTP
+(Request)oHigh risk exploitable file
+
+-"-
+
+oHost DNS IAXFR/IXFR request from a non-trusted sourceoHost
+DNS Mx record query of a non-trusted domainoHost DNS MX
+record query of a trusted domain
+
+-"-
+
+oHost DNS query to a non-trusted DNS serveroHotmail cross-site
+scripting exploit - HTTP (Request)oHTTP Request - Hostname is
+an IP address
+
+-"-
+
+oHTTP Request to a malware Command and Control
+SiteoHTTP_DIRECTORY_TRAVERSAL_EXPLOIToIdentified CBC
+Based Cipher Suite In SSLv3 Request
+
+-"-
+
+oIdentified Usage Of RC4 Cipher Suite - HTTPSoIncorrect
+Content-Type value in header - HTTP (Response) oIP address in
+Deny List (Action is [Monitor and reset])
+
+-"-
+
+oIP address in Deny List (Action is [Monitor only])oIP BLACKLIST Class 1oIRCBOT - Nickname - IRC oJPEG exploit
+
+-"-
+
+oLizaMoon - Compromised site with malicious URLoLogon attempt
+- RDPoLogon attempt by privileged user - RDP
+
+-"-
+
+oLSASS Dump File UploadoMalformed DNS responseoMalformed
+SSL request sent to port 80oMalicious certificate - HTTPS
+
+-"-
+
+oMalicious DNS server - DNS (Response)oMalicious IP address
+oMalicious IP address and port
+
+-"-
+
+oMalicious network activity matching object in Suspicious Objects
+listoMalicious recipient - EmailoMalicious URL - HTTP (Request)
+
+-"-
+
+oMalware-related subject and executable file EmailoMalware-related subject and packed executable file EmailoMalware-related User-Agent string in header - HTTP
+(Request)
+
+-"-
+
+oMeta tag redirecting to executable file - HTTP (Response)oMobile
+device accessing critical serveroMobile device accessing
+monitored network host
+
+-"-
+
+oMultiple unsuccessful logon attemptsoMySQL service responded
+with more than 5 MB of dataoNon-matching file type and
+extensionoOffice Document File Internal Transfer
+
+-"-
+
+oOffice Document File UploadoOracle HTTP Server exploitoOracle
+service responded with more than 5 MB of dataoOverride detection
+
+-"-
+
+oPacked executable file - IMoPacked executable file copied to
+administrative share - SMBoPassword-protected archive file
+
+-"-
+
+oPhishing domain containing hardcoded IP address EmailoPhishing-related sender domain and link to possible
+phishing site - EmailoPNG exploitoPossible Brute force - RDP
+
+-"-
+
+oPossible buffer overflowoPossible Command Execution in HTTP
+Response oPossible data-stealing malware - HTTP
+(Request)oPossible Gpass tunnel
+
+-"-
+
+oPossible NOP sledoPossible Superfish SSL certificate
+detectedoPossible SYN Flood DetectedoPossible TOR node
+certificate detected
+
+-"-
+
+oPossible unauthorized remote code execution Request in
+moadminoPROXY HTTP Request oPseudorandom Domain name
+queryoPsExec tool detected
+
+Strana 5 z 8
+
+-"-
+
+oPublic C&C IP address - IRC (Request)oPublic IRC C&C domain
+- DNS (Response)oPWDUMP through SMB Protocol
+DetectedoQuery of a non-trusted domain mail exchanger using the
+host's DNS A record
+
+-"-
+
+oRegular account usageoRegular connection - P2PoRemote Add
+Job through SMB Protocol DetectedoRemote Add Job through
+SMB2 Protocol Detected
+
+-"-
+
+oRemote Command Shell OPSoRemote Delete Job through SMB
+ATSVC DetectedoRemote Delete Job through SMB2 ATSVC
+DetectedoRemote Echo Command Detected
+
+-"-
+
+oRemote Registry modification through SMB protocol
+detectedoRemote Registry modification through SMB2 protocol
+detected
+
+-"-
+
+oRemote Schedule Tasks through SMB protocol detected –
+Create/run/delete CommandoRemote Service execution through
+SMB ATSVC detectedoRemote Service execution through SMB2
+ATSVC detected
+
+-"-
+
+oRemote shell oScheduled tasks via SMB protocol detectedoScript
+file name with multiple consecutive spaces
+
+-"-
+
+oSession using non-standard port - IRC (Request)oSession using
+standard port - IRCoShell command - HTTP (Request)
+
+-"-
+
+oSMB CreateService request detectedoSMB DeleteService
+request detectedoSMB File Infection detectedoSMB or SMB2 PE
+file Upload detected
+
+-"-
+
+oSMB or SMB2 PE file Upload to non-administrative share folder
+detectedoSMB Overwrite File detectedoSQL Dump File
+UploadoSQL injection - HTTP (Request)
+
+-"-
+
+oSuccessful log on to MSSQL serviceoSuccessful log on to
+MySQL serviceoSuccessful log on to Network ShareoSuccessful
+log on to Oracle service
+
+-"-
+
+oSuccessful log on to TELNEToSuccessful logon by privileged
+user - RDPoSuspicious executable file extensionoSuspicious file in
+E-mail identified by file reputation database
+
+-"-
+
+oSuspicious file in SMB network share identified by file reputation
+databaseoSuspicious file with low prevalenceoSuspicious LNK file
+transfer detectedoSuspicious packed executable file
+
+-"-
+
+oSuspicious script file extensionoSuspicious URL - HTTP
+(Request) - oSuspicious URL - IMoSuspicious User-Agent string in
+header - HTTP (Request)
+
+-"-
+
+oSWF exploitoTransmitted executable or script file - IRC
+(Request)oTrojan FTP request - Type 1oUnidentified protocol
+using standard service port
+
+-"-
+
+oUnregistered mail server - EmailoUnregistered sender and
+recipient domains - EmailoUnregistered serviceoUnregistered
+service running on non-standard port
+
+-"-
+
+oUnsuccessful log on to MSSQL serviceoUnsuccessful log on to
+Oracle serviceoUnsuccessful log on to POSTGRES service Database does not exist
+
+-"-
+
+oUnsuccessful log on to POSTGRES service - Username does not
+existoUnsuccessful log on to POSTGRES service - Wrong
+passwordoUnsuccessful logon by NTLM over SMB
+
+-"-
+
+oUnsuccessful logon to KerberosoURI containing internal IP
+address - HTTP (Request)oURL containing hardcoded IP address
+- EmailoURL in Deny List (Action is [Monitor and reset])
+
+-"-
+
+oURL in Deny List (Action is [Monitor only])ovCalendar
+exploitoWindows Metafile (EMF) exploitoWindows Remote
+Management Service Detected
+
+-"-
+
+oWMF exploitoWMI Execute Method Request detectedoWMI
+Remote Registry Request detected
+
+Strana 6 z 8
+
+2.4
+
+Osobitné požiadavky na plnenie:
+
+Názov
+Vrátane dopravy na miesto plnenia
+Požaduje sa predložiť podrobný aktualizovaný rozpočet do 7 dní od uzavretia zmluvy
+Požaduje sa predložiť rozpis sadzby DPH a ceny s DPH alebo bez DPH, ktorá ako údaj v zmluve chýba v prípade plnenia
+zahŕňajúce rôzne sadzby DPH do 7 dní od uzavretia zmluvy
+Pri uplatnení reklamácie je dodávateľ povinný materiál prevziať v sídle objednávateľa na vlastné náklady.
+Objednávateľ požaduje záruku minimálne 2 roky
+Nedodržanie ktorejkoľvek podmienky a požiadavky objednávateľa uvedenej v špecifikácii predmetu sa bude považovať za
+podstatné porušenie Zmluvy
+Odovzdanie tovaru za prítomnosti zástupcu dodávateľa v mieste plnenia
+V prípade ak bude zistené, že tovar nezodpovedá zadanej technickej špecifikácii predmetu zákazky, objednávateľ si
+vyhradzuje právo tovar neodobrať
+Objednávateľ si vyhradzuje právo, že v prípade reklamácie, žiadne dáta neopustia sídlo objednávateľa
+Požaduje sa implementácia v mieste dodania
+Názov
+2.5
+
+Upresnenie
+Prílohy opisného formulára Zmluvy:
+
+Popis
+
+Názov súboru
+
+III. Zmluvné podmienky
+3.1
+
+3.2
+
+Miesto plnenia Zmluvy:
+Štát:
+
+Slovenská republika
+
+Kraj:
+
+Žilinský
+
+Okres:
+
+Liptovský Mikuláš
+
+Obec:
+
+Liptovský Mikuláš
+
+Ulica:
+
+Demänová 393
+
+Čas / lehota plnenia zmluvy:
+11.08.2017 08:22:00 - 31.08.2017 08:23:00
+
+3.3
+
+3.4
+
+Dodávané množstvo/ rozsah zmluvného plnenia:
+Jednotka:
+
+zákazka
+
+Požadované množstvo:
+
+1,0000
+
+Práva a povinnosti zmluvných strán podľa tejto Zmluvy sa spravujú Obchodnými podmienkami elektronického
+trhoviska verzia 3.1, účinná zo dňa 1.2.2017 , ktoré tvoria neoddeliteľnú prílohu tejto Zmluvy.
+
+IV. Zmluvná cena
+4.1
+
+Celková cena predmetu Zmluvy vrátane DPH: 29 985,00 EUR
+
+V. Záverečné ustanovenia
+5.1
+
+Táto Zmluva bola uzavretá automatizovaným spôsobom v rámci Elektronického kontraktačného systému a v zmysle
+Obchodných podmienok elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017, ktoré tvoria jej prílohu č. 1.
+
+5.2
+
+Táto Zmluva nadobúda platnosť dňom jej uzavretia a účinnosť za podmienok definovaných v Obchodných
+podmienkach elektronického trhoviska uvedených v bode 5.1 tejto zmluvy.
+
+5.3
+
+Táto Zmluva vrátane jej príloh predstavuje úplnú dohodu zmluvných strán o jej predmete. Vedľajšie dohody k tejto
+zmluve neexistujú.
+Strana 7 z 8
+
+5.4
+
+Táto Zmluva je vyhotovená v elektronickej podobe v štyroch vyhotoveniach, po jednom pre každú zmluvnú stranu,
+jedno vyhotovenie bude zaslané na zverejnenie v Centrálnom registri zmlúv Úradu vlády Slovenskej republiky a jedno
+bude zverejnené v Centrálnom registri zmlúv trhoviska.
+
+5.5
+
+Túto Zmluvu bude možné meniť a dopĺňať za podmienok stanovených príslušnými všeobecne záväznými právnymi
+predpismi len vo forme písomného a číslovaného dodatku podpísaného oboma zmluvnými stranami.
+
+5.6
+
+Táto Zmluva má nasledovné prílohy:
+Príloha č.1 Obchodné podmienky elektronického trhoviska verzia 3.1, účinná zo dňa 01.02.2017,
+https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail/
+
+V Bratislave, dňa 03.08.2017 10:00:01
+Objednávateľ:
+Akadémia ozbrojených síl generála Milana Rastislava Štefánika
+konajúci prostredníctvom osoby poverenej zastupovať Objednávateľa v rámci elektronického trhoviska
+Dodávateľ:
+airo, s. r. o.
+konajúci prostredníctvom osoby poverenej zastupovať Dodávateľa v rámci elektronického trhoviska
+
+Strana 8 z 8
+
+

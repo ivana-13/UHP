@@ -1,0 +1,939 @@
+ZMLUVA O SPOLUPRÁCI PRI PRISTÚPENÍ DO SYSTÉMU TRANSCARD
+uzatvorená podľa ustanovenia § 269 ods. 2 zák. č. 513/1991 Zb. Obchodného zákonníka v znení neskorších predpisov (ďalej len „Zmluva”):
+
+Zmluvné strany:
+Názov:
+Sídlo:
+Zastúpený:
+
+TransData s.r.o.
+M.R. Štefánika 139, 010 01 Žilina
+Ing. Branislav Jurčišin – splnomocnený zástupca
+
+Osoba zodpovedná
+za plnenie zmluvy:
+IČO:
+DIČ:
+IČ DPH:
+Bankové spojenie
+číslo účtu / IBAN:
+Tel.:
+Email:
+Obchodný register:
+
+Mgr. František Štefanka
+35741236
+2020242763
+SK 2020242763
+SK421 100 0000 0026 2519 0579
+transdata@transdata.sk
+Okresného súdu Žilina, vložka č.: 69536/L, oddiel Sro.
+(ďalej len „TransData“)
+
+a
+
+Názov:
+Sídlo:
+Štatutárny orgán:
+Osoba zodpovedná
+za plnenie zmluvy:
+IČO:
+DIČ:
+
+Trnavská univerzita so sídlom v Trnave
+Hornopotočná 23, 918 43 Trnava
+prof. doc. JUDr. Marek Šmid, PhD., rektor
+Ing. Jozef Koricina, riaditeľ CIS TU
+31825249
+
+IČ DPH:
+
+2021177202
+SK2021177202
+
+Bankové spojenie
+číslo účtu / IBAN:
+Tel.:
+Email:
+
+Štátna pokladnica
+SK33 8180 0000 0070 0006 5500
++421/33/5939111
+rekrtor@truni.sk
+(ďalej len „Univerzita”)
+
+(TransData a
+
+Univezita ďalej spolu len ako „Zmluvné strany”)
+
+Preambula
+Keďže:
+Keďže:
+
+Keďže:
+Keďže:
+Preto teraz:
+
+Univerzita je vydavateľom preukazov pre denných a externých študentov ako aj pre zamestnancov Univerzity
+podľa podmienok uvedených v Zmluve;
+TransData je dodávateľom bezkontaktných čipových kariet s inicializovaným čipom a systémovým operátorom
+(integrátorom) informačného systému TransCard, ktorý zabezpečuje akceptáciu preukazov vydávaných
+Univerzitou u externých poskytovateľov služieb podľa podmienok uvedených v Zmluve;
+Univerzita má záujem o využívanie systému TransCard podľa podmienok uvedených v Zmluve;
+Transdata má záujem poskytnúť využívanie systému TransCard podľa podmienok uvedených v Zmluve;
+Zmluvné strany sa dohodli na uzatvorení Zmluvy nasledovne:
+
+Článok 1.
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+1/13
+
+Terminológia, východiskový stav a podklady pre uzavretie zmluvy
+Univerzita vydáva pre svojich študentov v dennej a externej forme, učiteľov a iných zamestnancov (ďalej len „držiteľ preukazu“ alebo „držiteľ karty“)
+preukazy vo forme bezkontaktnej čipovej karty (ďalej aj „BČK“) s čipom typu MIFARE Standard, MIFARE Desfire ev1 alebo ev2 alebo vo forme
+hybridnej čipovej karty. Vydané preukazy (ďalej len „preukaz“ alebo „karta“) sú vlastníctvom Univerzity.
+
+1)
+
+2)
+
+Preukazy majú jednostrannú alebo obojstrannú plnofarebnú potlač v dizajne stanovenom internými predpismi Univerzity.
+
+3)
+
+Externý poskytovateľ služieb je dopravca v zmysle § 6 zákona č. 514/2009 Z. z. zákon o doprave na dráhach v znení neskorších predpisov a dopravca
+v zmysle § 3 zákona č. 56/2012 Z. z. o cestnej doprave v znení neskorších predpisov, ako aj ďalšie subjekty v zmysle Prílohy č. 2.
+
+4)
+
+Externé aplikácie sú služby externých poskytovateľov služieb, pri využívaní ktorých môže byť použitá karta (preukaz) v systéme TransCard. Externý
+poskytovateľ služieb je oprávnený overiť nárok držiteľa preukazu na poskytnutie zľavy alebo inej výhody v kontexte aktuálneho právneho stavu v SR
+a svojej ponuky. Nárok na zľavu alebo inú výhodu preukazuje držiteľ preukazu prostredníctvom údajov, za ktorých správnosť zodpovedá Univerzita.
+Zoznam externých aplikácií pre preukaz v systéme TransCard je uvedený v Príloha č. 2.
+
+5)
+
+Externé prostredie označuje súhrn všetkých činností externých poskytovateľov služieb, ktoré súvisia s poskytovaním externých aplikácií držiteľom
+preukazov pomocou systému TransCard.
+
+6)
+
+Interné prostredie označuje súhrn vlastných interných poskytovaných činností a služieb Univerzity, pri ktorých sa využíva Preukaz (napr. prístupové
+systémy, stravovací systém, bezobslužné parkoviská, knižničná výpožičná služba a pod. v rámci Univerzity).
+
+7)
+
+Incident je každá neplánovaná zmena oproti bežnému prevádzkovému stavu systému TransCard alebo akákoľvek iná udalosť, ktorá znemožní (obmedzí)
+ďalšie použitie karty pre potreby držiteľa karty v systéme TransCard.
+
+8)
+
+Grafická (vizuálna) podoba študentského preukazu a čip preukazu vydaného podľa § 67 ods. 2 zákona č. 131/2002 Z. z. o vysokých školách v znení
+neskorších predpisov obsahujú výlučne údaje, ktoré sú predpísané platným Metodickým usmernením Ministerstva školstva, vedy, výskumu a športu SR
+(ďalej len „Usmernenie“). Všetky grafické podoby preukazov používané na Univerzite sú priebežne zverejňované na webovej stránke www.transdata.sk
+ako aj na stránkach Univerzity.
+
+9)
+
+TransCard je informačný systém prevádzkovaný spoločnosťou TransData, ktorý zabezpečuje akceptáciu elektronickej zložky Preukazu u dopravcov
+a iných externých poskytovateľov služieb, ktorí sú súčasťou tohto systému. Súčasťou systému sú terminály (vrátane softvérovej zložky), umožňujúce
+validáciu preukazu ako aj nahranie ďalších aplikácií na preukaz a ich aktiváciu. Ide o súhrn technických, ekonomických, organizačných prostriedkov,
+štandardov, právnych dokumentov a pravidiel.
+
+10)
+
+Inicializácia čipu BČK je súhrn činností zabezpečovaných spoločnosťou TransData, ktorý zahŕňa bezpečnostné nastavenie, testovanie dodávaných kariet
+a vytvorenie nastavení pre Externé aplikácie.
+
+11)
+
+Za validovaný preukaz sa pre účely tejto zmluvy rozumie preukaz v grafickej podobe podľa Článku 1 ods. 8), ktorý bol elektronicky aktivovaný
+a elektronicky prolongovaný. Pod elektronickou aktiváciou sa rozumie zapísanie alebo aktualizácia údajov do čipu preukazu v štruktúre a rozsahu určenom
+Usmernením. Pod elektronickou prolongáciou sa rozumie zapísanie alebo aktualizácia údajov pre externé aplikácie v rámci systému TransCard do čipu
+preukazu prostredníctvom terminálu TransData. Pri elektronickej aktivácii aj prolongácii preukazu sa zároveň stanoví a v preukaze zapíše doba platnosti
+preukazu.
+
+12)
+
+Výroba preukazu je vytvorenie fyzickej karty v dohodnutom vizuále a jej následná validácia.
+
+13)
+
+TransData je:
+a)
+
+prevádzkovateľ systému TransCard,
+
+b)
+
+priamy dodávateľ tovarov, služieb a aplikačného programového vybavenia pre systém TransCard. TransData zodpovedá za kompatibilitu ním
+dodaných tovarov, služieb a systémov pre akceptáciu kariet v externom prostredí.
+
+Článok 2.
+Právne predpisy
+Vzájomné vzťahy zmluvných strán sa riadia ustanoveniami zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších predpisov (ďalej len Obchodný
+zákonník), zákonom č. 18/1996 Z. z. o cenách v znení neskorších predpisov a vyhláškou Ministerstva financií SR č. 87/1996 Z. z., ktorou sa vykonáva zákon NR
+SR č. 18/1996 Z. z. o cenách v znení neskorších predpisov, zákonom č. 131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov (ďalej len zákon o vysokých školách), zákonom č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých
+zákonov (zákon o slobode informácií) v znení neskorších predpisov, zákonom č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov (ďalej
+len zákon o DPH), zákonom 291/2002 Z. z. o štátnej pokladnici a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ďalšími, s predmetom
+zmluvy súvisiacimi právnymi predpismi.
+
+Článok 3.
+Predmet zmluvy
+1)
+
+Predmetom zmluvy je:
+a)
+
+poskytnutie Externých aplikácií systému TransCard,
+
+b)
+
+dodanie, inicializovaných bezkontaktných čipových kariet MIFARE Desfire s potlačou ISIC a bezkontaktných čipových kariet MIFARE Standard bez
+potlače,
+
+c)
+
+výber poplatkov za aktiváciu Externých aplikácií pre TransData v zmysle tejto Zmluvy od študentov Univerzity, ktorí požadujú Externé aplikácie
+systému TransCard,
+
+d)
+
+forma a spôsob úhrady za akceptáciu Univerzitou validovaných preukazov v Externých aplikáciách systému TransCard a za správu dát v systéme
+TransCard,
+
+e)
+
+podpora riešenia Incidentov súvisiacich s validáciou Preukazu a správou dát v systéme TransCard. Týmto nie je dotknutá úprava článku 10 zmluvy
+o zabezpečovaní ochrany osobných údajov, uzatvorená osobitne medzi Zmluvnými stranami upravujúca aj oznamovanie bezpečnostných incidentov
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+2/13
+
+s charakterom porušenia ochrany osobných údajov v zmysle článku 4 ods. 12 Nariadenie Európskeho parlamentu a Rady (EÚ) z 27. apríla 2016
+č. 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES
+(všeobecné nariadenie o ochrane údajov), (ďalej len ako „GDPR“)
+2)
+
+Predmetom zmluvy nie je dodávka, servis terminálov ani aktualizácia softvérových produktov na nich. Spôsob dodávky terminálov, poskytovania servisu
+a aktualizácií terminálov je predmetom osobitnej zmluvy.
+
+Článok 4.
+Práva a povinnosti zmluvných strán
+1)
+
+Práva a povinnosti vyplývajúce z plnenia tejto zmluvy pre Univerzitu:
+a) Univerzita vyhlasuje, že je oprávnená na výkon svojej činnosti v zmysle platných právnych predpisov, resp. má splnené všetky zákonné normy
+oprávňujúce ju k výkonu činnosti v zmysle § 83 a nasledujúcich zákona o vysokých školách.
+b) Univerzita sa zaväzuje poskytnúť spoločnosti TransData grafické podoby vizuálu všetkých ňou vydávaných preukazov, aby TransData o nich mohla
+informovať poskytovateľov externých služieb vo forme e-mailovej informácie vždy pred začiatkom akademického roka v prípade, že došlo k zmene
+vizuálu. Grafické podoby vizuálu jednotlivých preukazov aktuálne vydávaných na Univerzite sú tiež zverejnené na webovej stránke Univerzity.
+c) Univerzita sa zaväzuje zabezpečiť pracovisko, ktoré
+i)
+
+bude emitovať preukazy a duplikáty preukazov s príslušným potvrdením o vydaní duplikátu. Ďalší postup pri emitovaní preukazov sa riadi
+internými postupmi/predpismi Univerzity,
+
+ii) bude zasielať údaje do systému TransCard a kontrolovať ich správnosť v rozsahu a za podmienok dohodnutých osobitnou zmluvou. Aktualizovaný
+zoznam pravidiel je uvedený na webovej stránke www.transcard.sk
+d)
+
+Univerzita sa zaväzuje zabezpečiť, že do informačného systému TransCard budú mať za Univerzitu prístup iba osoby na to oprávnené. Iba tie, ktoré sú
+uvedené v žiadosti o prístup do systému TransCard. Žiadosť o pridelenie prístupu do systému TransCard je v Prílohe č. 3.
+
+e)
+
+Univerzita zabezpečí možnosť validácie/prolongácie preukazu prostredníctvom terminálu študentom Univerzity, ktorí vlastnia preukaz platný pre
+konkrétny akademický rok.
+
+2) Práva a povinnosti vyplývajúce z plnenia tejto zmluvy pre TransData:
+a) TransData sa zaväzuje, že preukazy validované v systéme TransCard sú plne kompatibilné s existujúcim technickým vybavením poskytovateľov služieb,
+ktorí pristúpili do systému TransCard podľa Prílohy č. 2.
+b) TransData tvorí, spravuje a aktualizuje komplexnú databázu všetkých relevantných externých aplikácií systému TransCard, vyhodnocuje zmluvné
+plnenie zo strany externých poskytovateľov, rieši všetky vzniknuté incidenty a zabezpečuje komunikáciu medzi Univerzitou a externým prostredím v
+systéme TransCard.
+c) TransData sa v nadväznosti na Čl. 3 ods. 1) tejto Zmluvy zaväzuje zabezpečovať používanie Preukazov v externom prostredí systému TransCard
+a priebežne konkretizovať a aktualizovať informácie o externom prostredí na webovej stránke www.transcard.sk. Podmienkou plnenia tohto záväzku je
+súlad poskytovaných externých služieb s legislatívou SR, zmluvný súhlas poskytovateľov externých služieb a splnenie základných podmienok
+dohodnutých zmluvnými stranami podľa tejto Zmluvy a podľa zmluvy o zabezpečení ochrany osobných údajov, ktorú Zmluvné strany uzatvorili osobitne
+podľa článku 28 ods. 3 GDPR.
+d) TransData spravuje a prideľuje na základe tejto Zmluvy prístupové práva pre oprávnené osoby Univerzity (ods. 1), písm. d) tohto článku Zmluvy) do
+systému TransCard (Príloha č. 3). Prihlasovacie meno a heslo TransData doručí oprávneným osobám bezpečným spôsobom.
+e) TransData zverejňuje na svojej webovej stránke www.transcard.sk všetky relevantné informácie týkajúce sa používania čipových kariet u jednotlivých
+poskytovateľov služieb systému TransCard, ktorí umožňujú použitie čipových kariet prostredníctvom svojich systémov, napr.:
+i)
+
+Zoznam všetkých subjektov, ktoré pristúpili do systému TransCard,
+
+ii) Pravidlá pre používanie kariet a postupy pri riešení jednotlivých typov incidentov súvisiacich s kartou,
+iii) Reklamačné a ostatné pravidlá špecifické pre jednotlivé subjekty, ktoré poskytujú služby držiteľom kariet.
+iv) Postup riešenia incidentov, zverejnený na stránke www.transcard.sk
+O aktualizácii webovej stránky bude TransData informovať pracovisko na Univerzite uvedené v ods. 1), písm. c) tejto Zmluvy.
+f) TransData sa zaväzuje do systému TransCard implementovať nové funkcionality v prípade požiadaviek Univerzity a ďalších externých poskytovateľov
+služieb na základe podpisu zmluvy, v ktorej budú uvedené všetky technické, organizačné, ekonomické a iné podmienky s cieľom umožniť rozšírenie
+možností využitia študentských preukazov.
+
+Článok 5.
+Ochrana informácií
+1)
+
+Ak zmluvná strana A sprístupní zmluvnej strane B informáciu, ktorá nie je verejne známou a ktorú zmluvná strana A písomne označí ako dôvernú (ďalej
+len „dôverná informácia”), zmluvná strana B použije takúto informáciu výlučne na účel, na ktorý jej bola sprístupnená a inej osobe ju popri sprístupnení
+nevyhnutnom pre potreby plnenia záväzkov z tejto zmluvy bez súhlasu zmluvnej strany A sprístupní iba v prípade povinnosti vyplývajúcej jej zo zákona
+alebo z vykonateľného rozhodnutia príslušného orgánu.
+
+2)
+
+Zmluvné strany budú ochraňovať dôverné informácie druhej zmluvnej strany, a to s rovnakou starostlivosťou ako ochraňujú vlastné informácie rovnakého
+druhu, vždy však najmenej v rozsahu primeranej odbornej starostlivosti.
+
+3)
+
+V zmysle etického postupu „čo nie je tajné, je verejné“ a „prevažujúci verejný záujem nad obchodnými a ekonomickými záujmami osôb“ na základe
+dobrovoľnosti nad rámec povinnosti uloženej zákonom o slobode informácií, TransData výslovne súhlasí so zverejnením tejto zmluvy, resp. jej prípadných
+dodatkov, vrátane všetkých jej príloh, a to v plnom rozsahu (obsah, náležitosti, identifikácia zmluvných strán, osobné údaje, obchodné tajomstvo, fakturačné
+údaje, atď.), na internetovej stránke Univerzity, a tiež v CRZ za účelom zvyšovania transparentnosti samosprávy pre občanov a kontroly verejných financií
+občanmi.
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+3/13
+
+Článok 6.
+Cena a spôsob platby
+1)
+
+Cena za dodanie BČK na výrobu preukazov študentov a zamestnancov a tiež cena za akceptáciu Univerzitou validovaných preukazov v Externých
+aplikáciách systému TransCard a za správu dát v systéme TransCard je súčasťou zmluvy (Príloha č. 1). Držiteľ Preukazu, ktorý spĺňa kritériá uvedené
+v ods. 4) tohto článku, bude mať po splatení tejto sumy nárok na služby vymedzené touto zmluvou ako i na základe všeobecných informácií poskytnutých
+na webovej stránke www.transdata.sk. Poplatok sa pritom netýka duplikátov preukazov, pri ktorých sa vychádza zo skutočnosti, že poplatok už bol pre daný
+akademický rok zaplatený.
+
+2)
+
+Zmluvné strany sa dohodli, že počnúc akademickým rokom 2020/2021 bude Univerzita počas platnosti tejto zmluvy vyberať poplatok v zmysle dohodnutého
+variantu v Prílohe č. 1 Obchodný model.
+
+3)
+
+Univerzita sa zaväzuje prevziať od držiteľa platného a riadne validovaného preukazu študenta poplatok a poukázať ho na účet TransData na základe faktúry
+vydanej TransData podľa tejto Zmluvy a Obchodného modelu v Prilohe č. 1.
+
+4)
+
+Univerzita uhradí prijaté poplatky za akademický rok na základe faktúr, ktoré vydá TransData. Tieto faktúry budú vystavené na základe vzájomného
+zúčtovania, t. j. odsúhlasenia počtu preukazov spĺňajúcich kritériá výberu:
+-
+
+študent dennej formy štúdia,
+platnosť nároku na zľavu pre aktuálny akademický rok,
+vek do 26 rokov.
+
+5)
+
+Faktúry za akceptáciu Univerzitou validovaných preukazov v Externých aplikáciách systému TransCard budú vystavené k termínu 1. decembra a za dodávku
+BČK na výrobu preukazov k 30. júnu kalendárneho roka za obdobie dotknutého roka. Ku každej faktúre bude v elektronickej podobe priložená príloha,
+obsahom ktorej bude presná špecifikácia počtu preukazov s nárokom na zľavu spolu s číslami čipov preukazov. Faktúry budú mať 30-dňovú splatnosť od
+dátumu doručenia. Fakturácia bude uskutočnená v platnej mene na území Slovenskej republiky. TransData zabezpečí, aby ním vystavená faktúra obsahovala
+všetky potrebné náležitosti daňového dokladu v zmysle § 71 ods. 2 zákona č. 222/2004 Z.z. o DPH v znení neskorších predpisov
+a
+zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších predpisov. Univerzita si vyhradzuje právo vrátiť faktúru, ktorá nebude obsahovať všetky potrebné
+náležitosti. Po obdržaní opravenej faktúry začína plynúť nová lehota splatnosti faktúry.
+
+6)
+
+V prípade omeškania so zaplatením poplatku v termíne splatnosti faktúry má TransData právo účtovať úrok z omeškania vo výške 0,01% z fakturovanej
+sumy za každý deň omeškania.
+
+7)
+
+Zmluvné strany sa dohodli, že počas platnosti tejto zmluvy nebude mať ďalšie rozširovanie a zvyšovanie počtu poskytovateľov služieb v externom prostredí
+žiadny vplyv na zmluvne dohodnutú výšku poplatku.
+
+Článok 7.
+Ďalšie dojednania
+1)
+
+TransData týmto vyhlasuje, že systémTransCard je duševným vlastníctvom spoločnosti TransData s príslušnou právnou ochranou. Univerzita nebude
+používať žiadny názov ani obchodnú značku, ktorá predstavuje súčasť systému TransCard inak než v súvislosti s používaním preukazov alebo iným
+spôsobom len s predchádzajúcim písomným súhlasom spoločnosti TransData. Všetky autorské práva, práva k obchodným značkám atď. týkajúce sa
+TransCard si výhradne vyhradzuje spoločnosť TransData a zostanú vo vlastníctve spoločnosti TransData. Technická dokumentácia týkajúca sa všetkých
+externých aplikácií systému TransCard, ktoré jedna zo zmluvných strán zverí druhej strane pred alebo po uzavretí tejto Zmluvy, budú patriť a budú vrátené
+v čase skončenia platnosti tejto zmluvy tomu, kto ich poskytol; ak je to s prihliadnutím na všetky okolnosti možné. Technická dokumentácia alebo iné
+technické informácie systému TransCard, ktoré získala jedna zo zmluvných strán, nebudú bez písomného súhlasu TransData použité pre žiadne iné účely,
+než pre účely stanovené v tejto zmluve.
+
+2)
+
+Zmluvné strany sa dohodli, že všetky detaily súvisiace s riešením externých aplikácií v systéme TransCard sú predmetom obchodného tajomstva a Univerzita
+nie je oprávnená poskytnúť tieto detaily akejkoľvek tretej osobe bez súhlasu TransData. Taktiež TransData sa zaväzuje, že nie je oprávnená zverejňovať ani
+šíriť akékoľvek informácie o Univerzite, o ktorých sa dozvie pri plnení tejto zmluvy tretím osobám bez predchádzajúceho písomného súhlasu Univerzity.
+
+3)
+
+Zmluvné strany sa zaväzujú, že prijmú opatrenia zamedzujúce editácii/implementácii nepravdivých údajov vizuálne na kartu a elektronicky do čipu karty,
+ktoré môžu v rámci svojej pôsobnosti skutočne ovplyvniť. V prípade, že karta bude mať počas jej aplikácie v externom prostredí preukázateľne vizuálne
+a elektronické nesprávne alebo nepravdivé údaje alebo dizajn odlišný od platného Usmernenia, alebo ju Používateľ nemohol bez svojho zavinenia použiť
+podľa článku 3. tejto Zmluvy, zaväzuje sa ten účastník zmluvy, ktorý chybu spôsobil, jednak bezodkladne vykonať všetky kroky vedúce k okamžitému
+odstráneniu takéhoto stavu, ako i uhradiť všetky náklady preukázateľne spojené s odstránením nekorektného stavu, priamych súvisiacich škôd, a to za každú
+nekorektnú kartu poškodenej strane, ak tejto preukázateľne škoda vznikla. Uplatnenie takejto škody sa realizuje zásadne písomne, a to v prvom rade ako
+upozornenie na nežiaduci stav a až v termíne minimálne 30 kalendárnych dní od odoslania uvedenej písomnej výzvy sa môže predmetná škoda uplatniť,
+a to formou faktúry splatnej do 30 dní od jej vystavenia. Každá takáto faktúra musí ako prílohu obsahovať všetky relevantné prílohy preukazujúce vznik
+a zapríčinenie škody. Za nepravdivý údaj sa nepovažuje údaj, ktorý bol spôsobený ojedinelou alebo neúmyselnou chybou, napr. v rozsahu jedného znaku v
+mene, názve alebo inom identifikačnom údaji alebo ktorý neznemožňuje jednoznačnú identifikáciu používateľa karty, čo zmluvné strany svojim písomným
+súhlasom potvrdia. Uplatnenie náhrady škody je možné len v prípade, ak TransData nevykoná nápravu ani v lehote 60 kalendárnych dní po vzniku škody.
+
+4)
+
+Za nepravdivú a nekorektnú kartu zmluvné strany považujú:
+a) preukaz študenta vydaný pre osobu, ktorá nie je v čase vydania karty študentom ani nespĺňa podmienky na to, aby sa mohla zapísať na štúdium a stať
+sa v dobe platnosti preukazu študentom Univerzity,
+b) preukaz zamestnanca Univerzity vydanú osobe, ktorá nie je zamestnancom Univerzity,
+c) vrátená karta, ktorá bola opätovne po prepísaní údajov pôvodného držiteľa vydaná novému držiteľovi bez toho, aby sa zmenilo sériové výrobné číslo
+karty (tzv. Recyklovaná karta) ,
+d) kartu študenta vydanú bez príslušnej validácie.
+
+5)
+
+Držiteľ pravdivej a korektnej karty je oprávnený čerpať zľavu v zmysle podmienok jednotlivých externých poskytovateľov.
+
+6)
+
+Pri uplatnení náhrady škody postupujú zmluvné strany v zmysle § 373 až 386 Obchodného zákonníka.
+
+7)
+
+Zmluvné strany za zaväzujú zachovávať mlčanlivosť o technických aspektoch tejto zmluvy, a to najmä:
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+4/13
+
+a) technické informácie ohľadom štruktúry údajov preukazu, ktorá zabezpečuje akceptáciu preukazov v systéme TransCard,
+b) technické informácie o bezpečnosti karty, prístupových kľúčov k štruktúram údajov na karte, slúžiacim pre zabezpečenie akceptácie v systéme
+TransCard,
+c) technické informácie k hardware terminálu, použitého aplikačného vybavenia a SAM modul,
+d) technické informácie ohľadom detailov protokolu dát zasielaných do systému TransCard aj po jej skončení a zaväzujú sa neposkytovať žiadne
+informácie, ktoré sú predmetom obchodného tajomstva, tretím stranám s výnimkou tých subjektov, ktoré sú určené všeobecne záväzným právnym
+predpisom. Vzhľadom na právnu povahu obchodného tajomstva, povinnosť mlčanlivosti podľa tohto bodu je časovo neobmedzená.
+8)
+
+Ak dôjde v priebehu plnenia zmluvy k nepredvídateľne zmeneným podmienkam u ktorejkoľvek zmluvnej strany (zánik, likvidácia, vyhlásenie konkurzu,
+predaj podniku a iné), je zmluvná strana, ktorej sa nepredvídateľné zmenené podmienky týkajú, povinná zabezpečiť plnenie svojich povinností a záväzkov
+iným spôsobom tak, aby bol naplnený predmet a ďalšie podmienky tejto zmluvy, a to najmä vo vzťahu k držiteľom kariet až do skončenia doby platnosti
+Zmluvy podľa bodu 1) Čl.8. tejto Zmluvy.
+
+Článok 8.
+Doba platnosti zmluvy
+1)
+
+Zmluva sa uzatvára na 5 rokov odo dňa nadobudnutia účinnosti Zmluvy s možnosťou jej predĺženia.
+
+2)
+
+Zmluvu je možné skončiť písomnou dohodou zmluvných strán, pričom táto dohoda musí obsahovať dátum, od ktorého zmluvným stranám zanikajú
+povinnosti podľa tejto zmluvy, spôsob a formu vzájomného vysporiadania všetkých záväzkov.
+
+3)
+
+Zmluvné strany sa dohodli, že Zmluvu môže ktorákoľvek strana vypovedať písomnou výpoveďou aj bez uvedenia dôvodu. Pre prípad výpovede Zmluvné
+strany dohodli výpovednú dobu 30 kalendárnych dní, ktorá začne plynúť nasledujúci deň po dni, v ktorom bola doručená výpoveď druhej Zmluvnej strane.
+Tým nie je dotknuté právo zmluvných strán ukončiť zmluvu kedykoľvek a z akéhokoľvek dôvodu písomnou dohodou.
+
+Článok 9.
+Záverečné ustanovenia
+1)
+
+Zmluva nadobúda platnosť dňom podpisu poslednou z uvedených zmluvných strán.
+
+2)
+
+Táto zmluva nadobúda účinnosť dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv vedenom Úradom vlády SR (ďalej len „CRZ“)
+v zmysle § 47a zák. č. 40/1964 Zb. Občianskeho zákonníka v znení neskorších predpisov.
+
+3)
+
+Zmluvné strany berú na vedomie, že podľa ust. § 5a ods. 1 a 4 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení niektorých
+zákonov (zákon o slobode informácií) v znení neskorších predpisov sa v prípade tejto zmluvy jedná o povinne zverejňovanú zmluvu, ktorá sa zverejňuje
+v CRZ.
+
+4)
+
+Zmluvné strany berú na vedomie, že zverejnenie zmluvy v CRZ v súlade a rozsahu podľa zákona o slobode informácií nie je porušením alebo ohrozením
+obchodného tajomstva.
+
+5)
+
+Táto Zmluva je vyhotovená v 4 rovnopisoch, z ktorých každá zmluvná strana dostane po dve vyhotovenia. Každý rovnopis má hodnotu originálu.
+
+6)
+
+Prípadná neplatnosť jednotlivých vyššie uvedených ustanovení zmluvy nemá za následok celkovú neplatnosť zmluvy.
+
+7)
+
+Meniť obsah tejto zmluvy a príloh je možné len formou písomných dodatkov podpísaných štatutárnymi orgánmi všetkých zmluvných strán.
+
+8)
+
+Právne vzťahy touto zmluvou neupravené sa budú riadiť príslušnými ustanoveniami právnych predpisov uvedených v článku 2 tejto zmluvy.
+
+9)
+
+Akákoľvek písomná komunikácia medzi zmluvnými stranami v tejto súvislosti sa bude adresovať príslušnej zmluvnej strane na nižšie uvedenú adresu
+a bude sa považovať za doručenú v prípade:
+a)
+
+osobného doručenia, prostredníctvom kuriérskej služby alebo inak, po jej prijatí,
+
+b)
+
+doručenia e-mailom, po doručení potvrdenia od príjemcu o prijatí, alebo
+
+c)
+
+doporučenej zásielky, k dátumu uvedenému na potvrdení o doručení alebo na potvrdení o tom, že zásielku nemožno doručiť.
+
+10) Písomná komunikácia bude adresovaná nasledovne:
+Pošta pre Univerzitu
+Korešpondenčná adresa:
+Zástupca Univerzity:
+Mobilné tel. číslo:
+E-mailová adresa:
+
+Hornopočná 23, 918 43 Trnava
+Ing. Jozef Koricina
++421 917 912 030
+
+Pošta pre spoločnosť TransData
+Korešpondenčná adresa:
+Zástupca Dodávateľa:
+Mobilné tel. číslo:
+E-mailová adresa:
+
+TransData, s.r.o. Jašíkova 2, 821 03 Bratislava
+Mgr. František Štefanka
++421 907 858 199
+transdata@transdata.sk
+
+11) Zmluvné strany sa dohodli, že prípadné nezhody sa budú riešiť dohodou medzi zmluvnými stranami. Ak sa nedosiahne dohoda, všetky spory, ktoré vzniknú
+z tejto zmluvy, vrátane sporov o jej platnosť, výklad alebo zrušenie, sa budú riešiť pred príslušným súdom v Slovenskej republike na návrh ktorejkoľvek zo
+zmluvných strán.
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+5/13
+
+12) Zmluvné strany sa dohodli, že otázky týkajúce sa spracúvania osobných údajov a zabezpečovanie primeranej bezpečnosti spracúvania osobných údajov,
+ktorých potreba vzniká na základe tejto Zmluvy budú upravené osobitne samostatnou zmluvou o zabezpečovaní ochrany osobných údajov, ktorú Zmluvné
+strany uzatvorili podľa článku 28 ods. 3 GDPR dňa 12.3.2019 (ďalej len ako „Zmluva o ochrane osobných údajov“). V prípade záležitostí týkajúcich sa
+spracúvania osobných údajov a zabezpečovania ochrany osobných údajov v systéme TransCard má pred touto Zmluvou vždy prednosť Zmluva o ochrane
+osobných údajov.
+13) Zmluvné strany vyhlasujú, že ustanoveniam tejto zmluvy zhodne porozumeli, čo do obsahu i rozsahu, tieto vyjadrujú ich slobodnú a vážnu vôľu, neuzavreli
+ju v tiesni za nápadne nevýhodných podmienok alebo v rozpore s dobrými mravmi, súhlasia s ustanoveniami zmluvy a zaväzujú sa ich dobrovoľne plniť,
+čo potvrdzujú svojimi podpismi.
+V Žiline, dňa ............................
+
+V ....................., dňa ............................
+
+TransData s.r.o.
+
+Trnavská univerzita v Trnave
+
+......................................................................
+Ing. Branislav Jurčišin, splnomocnený zástupca
+konateľ TransData s.r.o.
+
+......................................................................
+prof. doc. JUDr. Marek Šmid, PhD. ,
+rektor Trnavskej univerzity v Trnave
+
+Zoznam príloh:
+Príloha č. 1: Obchodný model
+Príloha č. 2: Zoznam externých aplikácií pre preukaz študenta a zamestnanca v systéme TransCard
+Príloha č. 3: Žiadosť o prístup do systému TransCard
+Príloha č. 4: Nové vlastnosti a funkcionality preukazu študenta v segmente školstva
+Príloha č. 5: Export dát do systemu TransCard
+Príloha č. 6: Plnomocenstvo
+Príloha č.7: Čestné vyhlásenie spoločnosti TransData s.r.o.
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+6/13
+
+Príloha č. 1 Obchodný model
+Spôsob prolongácie
+
+Cena prolongácie za rok
+
+Obdobie platnosti
+
+Ročná prolongácia dopravných funkcionalít
+študentského preukazu
+
+2,00 € bez DPH
+
+za jeden rok
+
+Ceny dodávaných bezkontaktných čipových kariet (BČK)
+Názov a obsah položky
+
+Cena za ks v € bez DPH
+
+BČK Mifare Standard 4kB ( karta bez potlače, biela)
+
+1,40 € bez DPH /ks
+
+BČK Mifare DESFire ev1/ev2 8kB ( karta bez potlače, biela), inicializovaný
+
+4,60 € bez DPH /ks
+
+BČK Mifare DESFire EV1 4kB, s vizuálom ISIC ( ofsetová potlač), inicializovaný
+
+5,12 € bez DPH /ks
+
+Inicializácia čipu (bezpečnostné prvky, aplikácie TransCard)
+
+3,30 € bez DPH /ks
+
+............................
+TransData s.r.o.
+Ing. Branislav Jurčišin
+konateľ, splnomocnený zástupca
+
+.........................
+Univerzita
+prof. doc. JUDr. Marek Šmid, PhD.,
+rektor Trnavskej univerzity v Trnave
+
+V Žiline dňa ........................
+
+V Trnave dňa ......................
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+7/13
+
+Príloha č. 2 Zoznam externých aplikácií
+Držiteľ preukazu, používa svoj preukaz ako médium na realizáciu služieb poskytovaných Externými poskytovateľmi výhradne
+podľa nimi verejne vyhlásených podmienok (prepravné podmienky, tarifa, knižničný poriadok a pod.).
+Externé aplikácie sú platné pre preukaz typu MifareDesfire ev1 alebo ev2 8kB a hybridné preukazy.
+Dopravné spoločnosti:
+AD Púchov, s.r.o.
+Arriva Liorbus, a.s.
+Arriva Michalovce, a.s.
+Arriva Nitra, a.s.
+Arriva Nové Zámky, a.s.
+Arriva Trnava a.s.
+BUS Karpaty Stará Ľubovňa, s.r.o.
+Dopravný podnik B. Bystrica, a.s.
+Dopravný podnik Bratislava, a. s.
+Dopravný podnik mesta Košice, a.s.
+Dopravný podnik mesta Prešov, a.s.
+Eurobus Košice, a.s.
+Mestská dopravná spoločnosť, a.s. Považská Bystrica
+SAD Dunajská Streda, a.s.
+SAD Humenné, a.s.
+SAD Lučenec, a.s.
+SAD Poprad a.s.
+SAD Prešov, a.s.
+SAD Prievidza, a.s.
+SAD Trenčín, a.s.
+SAD Zvolen, a.s.
+SAD Žilina, a.s.
+SKAND Skalica, s.r.o.
+Slovak Lines Bratislava, a.s.
+Železničná spoločnosť Slovensko, a.s.
+
+Knižnice:
+Univerzitná knižnica Bratislava
+Centrum vedeckých a technických informácií SR, Bratislava
+Štátna vedecká knižnica v Prešove
+Štátna vedecká knižnica v Banskej Bystrici
+Štátna vedecká knižnica v Košiciach
+Slovenská lesnícka a drevárska knižnica vo Zvolene
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+8/13
+
+Príloha č. 3
+
+Žiadosť o prístup do systému TransCard
+
+Organizácia:
+(názov firmy)
+
+Žiadateľ:
+(meno a priezvisko žiadateľa)
+
+Login:
+(uviesť login, ktorým sa chcete prihlasovať)
+
+Spôsob poskytnutia hesla:
+(uviesť mailovú adresu, alebo mobilné telefónne číslo. Podľa výberu spôsobu poskytnutia hesla Vám bude poslaná
+sms správa alebo e-mail)
+
+Zodpovedný za pridelenie prístupu:
+
+Jana Chovancová, TransData s.r.o.
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+9/13
+
+Príloha č.4
+Nové vlastnosti študentských preukazov v segmente školstva:
+
+
+
+
+
+
+
+
+
+
+
+
+
+25 dopravných spoločností v SR poskytuje zľavnené cestovné pre držiteľov študentských preukazov
+Všetky dopravné spoločnosti akceptujú študentské preukazy na báze údajov z bezkontaktného čipu vo formáte
+MifareDesfire ev 1
+Vybudovaná sieť 50 UNITerminálov s možnosťou aktivácie dopravných funkcionalít a možnosťou on-line
+nahlasovania incidentov priamo na HelpDesk spol. TransData
+Zriadenie HelpDesk a ServisDesk pracoviska pre držiteľov študentských preukazov
+Prevádzkovanie sieti verejných UNITerminálov umiestnených v Zákazníckych centrách ZSSK, vybraných dopravných
+spoločností a na vybraných UNI v SR
+Systémová integrácia systému TransCard s akademickým systémom MAIS
+Nová verzia software produktu TransCard v XII /nové vlastnosti
+- integrovaná potlač kariet
+- implementované jednoduché nastavenie šablón pre potlač kariet s LIVE náhľadom
+- integrované informácie o odoslaných údajoch do systému TransCard
+- integrované informácie o stave karty
+- integrované informácie o prolongácií kariet
+- automatické nastavovanie platností kariet
+- integrovaná kontrola zliav v systéme CKM
+- zjednodušené vyhľadávanie cez novovytvorené filtre nad každým zobrazeným záznamom/
+Kompletný upgrade systému TransCard v zmysle novej legislatívy v zmysle GDPR
+Možnosť používať aplikáciu UBIAN (navigácia a on-line poloha dopravných prostriedkov) pre držiteľov preukazu
+študenta
+Integrácia študentských preukazov v externých systémoch na UNI /Salto, Anete .../
+Nová webová stránka TransCard a Ubian /on-line informácie pre držiteľov študentských preukazov/
+
+Pripravované vlastnosti a vylepšenia v mobilnej aplikácii Ubian:
+
+
+
+
+
+Dobíjanie kreditu na kartu cez mobil
+Kúpa PCL (predplatné cestovné lístky – električenka) priamo cez mobil
+Nákup cestovných lístkov z aplikácie cez SMS
+Ubian zľavy a vernostný program
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+10/13
+
+Príloha č. 5 Export dát do systému TransCard
+Atribút
+
+Povinne
+
+Popis
+
+Zdôvodnenie
+
+SNR
+
+*
+
+Sériové číslo karty
+
+Identifikátor preukazu
+
+Pôvodné SNR
+
+*
+
+povodne sériové číslo karty v prípade zmeny (duplikát karty)
+
+Pre účely blokovania pôvodného preukazu v externom prostredí
+
+Druh preukazu
+
+*
+
+Podľa usmernenia Ministerstva školstva SR
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Začiatok platnosti preukazu
+
+*
+
+dátum
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Koniec platnosti preukazu
+
+*
+
+koniec
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Osobné číslo
+
+*
+
+Identifikátor študenta
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Tituly pred menom
+
+*
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Meno
+
+*
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Priezvisko
+
+*
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Tituly za menom
+
+*
+
+Dátum narodenia
+
+*
+
+dátum YYYY/MM/DD
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Pohlavie
+
+*
+
+pohlavie (M,F)
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Trvalý pobyt - ulica a číslo domu
+
+*
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Trvalý pobyt - obec
+
+*
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Trvalý pobyt - PSČ
+
+*
+
+poštové smerovacie číslo bez medzery
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+*
+
+skratka sťatú trvalého bydliska ISO 3166-1 (Alpha 2)
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Prechodný pobyt - ulica a číslo domu
+
+*
+
+ulica prechodného bydliska
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Prechodný pobyt - obec
+
+*
+
+mesto prechodného bydliska
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Prechodný pobyt - PSČ
+
+*
+
+PSC prechodného bydliska
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Vysoká škola, fakulta, miesto štúdia - PSČ
+
+*
+
+SPC Školy/Fakulty
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Stupeň štúdia
+
+*
+
+podľa usmernia 1“ 2“ 3“
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Vysoká škola, fakulta, miesto štúdia - kód
+
+*
+
+identifikačne číslo školy podľa číselníka Cvs (www.uips.sk)
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Ročník
+
+*
+
+ročník štúdia v danom stupni
+
+Z dôvodu identifikácie predplatených služieb
+
+Trvalý pobyt – štát
+
+Položky, ktoré sa zapisujú do čipu preukazu na základe usmernenia MŠ SR 16/2014
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+11/13
+
+Príloha č.6
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+12/13
+
+Príloha č. 7
+
+Zmluva o spolupráci pri pristúpení do systému TransCard
+
+13/13
+
+

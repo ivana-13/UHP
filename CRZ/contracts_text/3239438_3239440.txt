@@ -1,0 +1,695 @@
+Zmluva o poskytnutí služby
+prístupu k digitálnemu obsahu
+Reg. č. zmluvy MZ SR 326/2017
+uzatvorená v súlade s § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník
+v znení neskorších právnych predpisov
+
+1.
+
+ZMLUVNÉ STRANY
+
+1.1. Objednávateľ
+Názov
+:
+Sídlo
+:
+IČO
+:
+DIČ
+:
+Bankové spojenie :
+IBAN
+:
+Zastúpený
+:
+
+Ministerstvo zdravotníctva Slovenskej republiky
+Limbová 2, 837 52 Bratislava, Slovenská republika
+00161565
+2020830141
+Štátna pokladnica
+SK69 8180 0000 0070 0015 0115
+Generálnym tajomníkom služobného úradu, JUDr. Ing. Jozefom Rážom
+(ďalej v zmluve len ako „Objednávateľ “
+
+1.2. Poskytovateľ
+Obchodné meno
+Sídlo
+IČO
+DIČ
+Zapísaný
+
+:
+:
+:
+:
+:
+
+Bankové spojenie :
+IBAN
+:
+Zastúpený
+:
+
+Lewik, s.r.o
+Stupavská 8H, 83106, Bratislava
+50631071
+2120430037
+v obchodnom registri Okresného súdu Bratislava I, Oddiel 116448/B,
+vložka: Sro
+Československá obchodní banka , a. s.
+SK19 7500 0000 0040 2436 0148
+RNDr. Michal Danilák, konateľ
+(ďalej v zmluve len ako „Poskytovateľ“)
+
+1.3. Poskytovateľ a Objednávateľ (ďalej v zmluve spoločne ako „Zmluvné strany“ v príslušnom
+gramatickom tvare) vzájomne uzatvárajú na základe a v súlade s ustanovením § 269 ods. 2 zákona
+č. 531/1991 Zb. Obchodný zákonník v znení neskorších právnych predpisov nasledovnú zmluvu
+o poskytnutí služby sprístupnenia digitálneho obsahu k znalostnej databáze a stromom vedomostí
+GDPR (General Data Protection Regulation) a súvisiacich dokumentov (ďalej len „Zmluva“).
+
+2.
+
+PREDMET ZMLUVY
+
+2.1. Na základe tejto Zmluvy sa Poskytovateľ zaväzuje poskytovať službu sprístupnenia digitálneho
+obsahu k znalostnej databáze GDPR (ďalej len „Služba“), v rozsahu, spôsobom a za podmienok
+dohodnutých v tejto Zmluve a to počas doby 12 (dvanásť) mesiacov odo dňa odovzdania a prevzatia
+Služby.
+2.2. Službu sa Poskytovateľ zaväzuje odovzdať, t. j. umožniť Objednávateľovi prístup k Službe,
+na základe preberacieho protokolu, potvrdeného oboma Zmluvnými stranami. Služba sa považuje
+za odovzdanú dňom podpisu preberacieho protokolu.
+2.3. Objednávateľ sa zaväzuje Službu užívať riadne a v zmysle podmienok a ustanovení tejto Zmluvy
+a zaplatiť za jej používanie Poskytovateľovi odplatu vo výške, spôsobom a za podmienok, ďalej
+dohodnutých v tejto Zmluve.
+
+Strana 1 z 9
+
+3.
+
+ŠPECIFIKÁCIA SLUŽBY
+
+3.1. Služba je poskytovaná prostredníctvom web - aplikácie KNOWWW, v súlade so štandardom Web 3.0
+W3C SKOS, prevádzkovanej v cloudovom prostredí.
+3.2. Jednotný identifikátor prostriedku (Uniform Resource Identifier - URI) poskytovanej Služby,
+vytvorenej Poskytovateľom pre Objednávateľa, je:
+3.2.1.
+3.2.2.
+
+Vedomostná základňa GDPR – informačné zdroje v rámci Slovenskej republiky
+https://knowww.eu/search-tree?t=59b8e986d54a862e9d7e895b&pblc
+Vedomostná základňa GDPR – informačné zdroje v rámci Európskej únie
+https://knowww.eu/search-tree?t=59f06a9b34b5700001830f2a&pblc
+
+3.3. Činnosť web - aplikácie KNOWWW, prostredníctvom ktorej je Služba poskytovaná, je realizovaná
+a zabezpečovaná prostredníctvom cloudových serverových služieb Amazon Web Services (ďalej len
+„AWS“).
+3.4. Web - aplikácia KNOWWW umožňuje Objednávateľovi využívať objednanú Službu v celom
+rozsahu, bez časového, dátového a iného obmedzenia a to po dobu, ako je dohodnutá v tejto Zmluve.
+Služba je prostredníctvom web - aplikácie KNOWWW publikovaná prostredníctvom siete internet
+a je dostupná využitím bežne dostupných internetových prehliadačov. Z dôvodu neustáleho vývoja
+a aktualizácie jednotlivých internetových prehliadačov môže byť Služba a jej funkčnosť pri uvedení
+nových verzií internetových prehliadačov dočasne obmedzená.
+3.5. Web - aplikácia KNOWWW umožňuje výber jednotlivých uzlov stromu vedomostí (znalostnej
+databázy) a prezeranie ich obsahu. Všetky dôležité pojmy, definície, práva, povinnosti, postupy
+a ďalšie sémantické entity z príslušných zákonov, podzákonných noriem a ďalších dokumentov
+sú identifikované a uvedené v samostatných uzloch. Každý uzol má svoje pomenovanie pre podporu
+vyhľadávania (tzv. sémantický tagging). Vyhľadávanie je možné realizovať na dvoch úrovniach:
+sémantické (nad pomenovaniami uzlov) a fulltextové (zadaním textového reťazca vo forme úvodných
+znakov hľadaného textu), pričom výsledky fulltextového vyhľadávania sú označené v uzloch stromov.
+Z uzlov stromov je následne možné kopírovať si text pre vlastné potreby Objednávateľa.
+3.6. Podrobná špecifikácia obsahu Služby je uvedená v Prílohe č. 1 Zmluvy, ktorá tvorí neoddeliteľnú
+súčasť Zmluvy.
+
+4.
+
+CENA A PLATOBNÉ PODMIENKY
+
+4.1. Výška ceny je stanovená v súlade so zákonom č. 18/1996 Z. z. o cenách v znení neskorších predpisov
+a vyhlášky Ministerstva financií SR č. 87/1996 Z. z., ktorou sa vykonáva zákon č. 18/1996 Z. z.
+o cenách v znení neskorších predpisov. Poskytovateľ nie je platca DPH.
+4.2. Cena za poskytnutie Služby bola dohodnutá celkovo na sumu vo výške 13.200,- € (trinásťtisícdvesto
+eur). V cene sú zahrnuté všetky náklady Poskytovateľa na realizáciu služby a táto cena je konečná.
+4.3. Spôsob výpočtu ceny:
+cena ročnej licencie za poskytnutie Služby na jednu organizáciu v pôsobnosti Objednávateľa
+vynásobená počtom organizácií v pôsobnosti Objednávateľa, t. j.:
+120,- € (jedenstodvadsať eur) bez DPH x 110 (jedenstodesať) organizácií v pôsobnosti
+Objednávateľa (Príloha č. 2 Zmluvy).
+4.4. Suma špecifikovaná v bode 4. 2 tejto Zmluvy bude Poskytovateľom fakturovaná Objednávateľovi
+jednorazovo a to do 14 (štrnásť) dní po nadobudnutí účinnosti tejto Zmluvy. Faktúra je splatná
+najneskôr do 21 (dvadsaťjeden) dní odo dňa jej doručenia Objednávateľovi.
+4.5. Poskytovateľom vystavená faktúra musí obsahovať všetky náležitosti daňového dokladu v zmysle
+§ 74 ods. 1 zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov. V prípade,
+že faktúra bude obsahovať nesprávne alebo neúplné údaje, Objednávateľ je oprávnený ju vrátiť
+a Poskytovateľ je povinný faktúru podľa charakteru nedostatku opraviť alebo vystaviť novú s tým, že
+od doručenia opravenej faktúry Objednávateľovi začína plynúť nová lehota splatnosti faktúry.
+Strana 2 z 9
+
+4.6. Objednávateľ sa zaväzuje uhradiť fakturovanú sumu v lehote splatnosti bezhotovostným bankovým
+prevodom na bankový účet Poskytovateľa, ktorý je uvedený bode 1. tejto Zmluvy.
+4.7. Zmluvné strany sa dohodli, že ak sa Objednávateľ dostane do omeškania s úhradou Ceny, je povinný
+uhradiť Poskytovateľovi úroky z omeškania vo výške 0,05% (päť stotín percenta) z dlžnej sumy
+za každý začatý deň omeškania. Uplatnením zmluvnej pokuty nie je dotknuté právo Poskytovateľa
+na náhradu škody.
+
+5.
+
+TRVANIE A UKONČENIE ZMLUVY
+
+5.1. Táto Zmluva sa uzatvára na dobu určitú a to do 31.12.2018. Poskytovateľ sa zaväzuje, že Službu
+dohodnutú v tejto Zmluve bude poskytovať Objednávateľovi priebežne počas celej doby trvania tejto
+Zmluvy. Uplynutím doby trvania tejto Zmluvy dochádza ku skončeniu zmluvného vzťahu založeného
+medzi Zmluvnými stranami touto Zmluvou.
+5.2. Zmluvný vzťah založený touto Zmluvou je možné skončiť aj:
+5.2.1.
+5.2.2.
+
+písomnou dohodou Zmluvných strán,
+odstúpením od Zmluvy z dôvodu podstatného porušenia zmluvných povinností jednej
+zo Zmluvných strán (bod. 5.3 Zmluvy).
+
+5.3. Podstatným porušením zmluvných povinností na strane Poskytovateľa sa rozumie neohlásené
+a neodôvodnené prerušenie poskytovania Služby prostredníctvom cloudovej web – aplikácie
+KNOWWW a to v trvaní viac ako 7 (sedem) dní. Za podstatné porušenie zmluvných povinností
+na strane Poskytovateľa sa však nepovažuje prerušenie poskytovania Služby z dôvodov, ktoré priamo,
+či nepriamo súvisia s poruchou prevádzky cloudových služieb AWS. Poskytovateľ je v prípade
+prevádzkového výpadku cloudovej služby AWS povinný Objednávateľa o tejto skutočnosti
+upovedomiť a to najneskôr v lehote 24 (dvadsaťštyri) hodín od okamihu, kedy sa mu informácia
+o uvedenom výpadku služby AWS stala známou.
+5.4. Podstatným porušením tejto Zmluvy na strane Objednávateľa sa rozumie omeškanie s úhradou Ceny
+o viac ako 30 (tridsať) dní po lehote splatnosti faktúry za Službu vystavenej Poskytovateľom v zmysle
+bodu 4.4 a násl. tejto Zmluvy. Za podstatné porušenie tejto Zmluvy sa považuje aj využívanie Služby
+zo strany Objednávateľa spôsobom, ktorý je v rozpore s podmienkami a ustanoveniami tejto Zmluvy.
+5.5. Odstúpením od tejto Zmluvy nie je dotknuté právo Zmluvných strán na náhradu škody. Zmluvné
+strany sa dohodli, že sa pri zodpovednosti za škody riadia všeobecne záväznými právnymi predpismi,
+najmä § 373 až § 383 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov.
+
+6.
+
+OSOBITNÉ USTANOVENIA O ZABEZPEČENÍ
+A ZODPOVEDNOSTI POSKYTOVATEĽA
+
+KONTINUITY
+
+SLUŽBY
+
+(SLA)
+
+6.1. Poskytovateľ sa zaväzuje udržiavať obsah Služby (Príloha č. 1 Zmluvy) aktualizovaný a dostupný
+prostredníctvom web - aplikácie KNOWWW po celú dobu trvania tejto Zmluvy.
+6.2. Poskytovateľ však nezodpovedá za prerušenie poskytovania Služby, ktoré je priamo, či nepriamo
+spôsobené v dôsledku prevádzkovej poruchy na strane AWS, prípadne v dôsledku výpadku
+internetových služieb a konektivity z dôvodu rozsiahleho DDoS útoku (angl. Distributed Denial-ofService attack) na národnú, ako aj medzinárodnú internetovú infraštruktúru, vrátane DNS (angl.
+Domain Name System) alebo z dôvodu prerušenia poskytovania služieb zo strany fyzických
+prevádzkovateľov národných sietí. Poskytovateľ rovnako nenesie zodpovednosť za prerušenie
+poskytovania Služby Objednávateľovi v prípade, že si Objednávateľ prerušenie alebo poruchu
+spôsobil vlastným konaním, v prípade zásahu tretích osôb, vis maior (napr. povodeň, požiar,
+zemetrasenie, vojnový stav a pod.) alebo v prípade poruchy na zariadení patriacemu tretej strane
+(najmä, ale nielen rozsiahly a dlhodobý výpadok dodávky elektrickej energie, telekomunikačného
+a internetového pripojenia, atď.).
+
+Strana 3 z 9
+
+6.3. Poskytovateľ sa zaväzuje obnoviť dostupnosť Služby v prípade, že tento výpadok Služby nebol
+spôsobený niektorým z dôvodov uvedeným v bode 6.2 Zmluvy, počas pracovných dní bez zbytočného
+odkladu, najneskôr však do 72 (sedemdesiatdva) hodín od doručenia výzvy zo strany Objednávateľa.
+Pre účely doručenia výzvy na obnovenie dostupnosti Služby v zmysle tohto bodu Zmluvy je platná
+nasledovná e-mailová adresa Poskytovateľa: michal.danilak@lewik.org.
+6.4. Poskytovateľ sa zaväzuje oboznámiť Objednávateľa zo základnými prvkami a postupmi v rámci
+používania Služby a to počas odovzdania a prevzatia Predmetu zmluvy, pričom Objednávateľ
+sa zaväzuje uvedenú skutočnosť potvrdiť svojím podpisom v preberacom protokole.
+6.5. Poskytovateľ je oprávnený:
+6.5.1.
+
+6.5.2.
+
+6.5.3.
+
+uskutočniť krátkodobé prerušenie poskytovania Služby na dobu nevyhnutne potrebnú
+za účelom údržby alebo aktualizácie cloudovej web - aplikácie KNOWWW, ako
+aj z dôvodu aktualizácie jednotlivých súčastí obsahu Služby,
+pozastaviť alebo obmedziť poskytovanie Služby bez predchádzajúceho upozornenia
+Objednávateľa, pokiaľ by bolo poskytovanie Služby znemožnené alebo obmedzené
+objektívne neodvrátiteľnou udalosťou (napr. v prípade vis maior alebo iných okolností
+vylučujúcich zodpovednosť v zmysle Obchodného zákonníka),
+dočasne prerušiť alebo obmedziť poskytovanie Služby v nevyhnutnom rozsahu
+a po predchádzajúcom upozornení Objednávateľa v prípade, ak dochádza k využívaniu
+Služby zo strany Objednávateľa v rozpore s podmienkami Zmluvy. Objednávateľ
+zodpovedá za dodržiavanie zmluvných podmienok využívania Služby aj zo strany
+organizácií v pôsobnosti Objednávateľa, ktoré sú uvedené v Prílohe č. 2 tejto Zmluvy.
+
+6.6. Objednávateľ a organizácie v pôsobnosti Objednávateľa, ktoré sú uvedené v Prílohe č. 2 tejto Zmluvy,
+nesmú používať Službu a jej obsah spôsobom, ktorý by bol v rozpore:
+6.6.1.
+6.6.2.
+
+6.6.3.
+6.6.4.
+6.6.5.
+6.6.6.
+
+s právnym poriadkom Slovenskej republiky alebo pokynmi Poskytovateľa,
+s právnymi normami príslušných orgánov Európskej únie, pokiaľ sa na základe prístupu
+Slovenskej republiky k Európskej únii priamo alebo nepriamo aplikujú aj na území
+Slovenskej republiky,
+s medzinárodnými zmluvami, ktorými je Slovenská republika viazaná a ktoré boli
+zákonnými spôsobom vyhlásené a uverejnené v Zbierke zákonov Slovenskej republiky,
+s dobrými mravmi,
+so zásadami poctivého obchodného styku
+s ustanoveniami tejto Zmluvy.
+
+6.7. Poskytovateľ zodpovedá výlučne a len za správnosť a úplnosť obsahovej náplne Služby, ktorá bola
+extrahovaná a prevedená do štruktúrovanej podoby na základe schválených oficiálnych dokumentov
+publikovaných na území Slovenskej republiky (databáza Slov-lex) a Európskej únie (databáza Eurlex).
+
+7.
+
+OCHRANA OBCHODNÉHO TAJOMSTVA A OSOBNÝCH ÚDAJOV
+
+7.1. Zmluvné strany sa zaväzujú zachovávať mlčanlivosť o všetkých skutočnostiach, o ktorých
+sa dozvedia pri plnení tejto Zmluvy alebo v súvislosti s jej uzatvorením, ako aj o všetkých
+informáciách, ktoré majú charakter dôverných informácií alebo tvoria predmet obchodného tajomstva
+druhej zmluvnej strany (ďalej aj ako „Dôverné informácie“). Zmluvné strany sa zaväzujú dôverné
+informácie používať výlučne a len na účely plnenia Zmluvy a zároveň sa zaväzujú prijať všetky
+potrebné opatrenia na ochranu a zabezpečenie dôverných informácií pred ich neoprávneným
+zverejnením a/alebo poskytnutím tretej osobe. Pre účely tohto ustanovenia nie sú príslušní
+zamestnanci, iní spolupracovníci alebo poradcovia ktorejkoľvek zo Zmluvných strán, ktorí
+prichádzajú do kontaktu s informáciami, určenými pre činnosti súvisiace s plnením Zmluvy,
+považovaní za tretiu stranu.
+7.2. Povinnosť zachovávať mlčanlivosť sa nedotýka tých informácií, ktoré boli v okamihu ich
+oboznámenia sa jednou zo Zmluvných strán:
+7.2.1.
+7.2.2.
+
+Už verejne dostupné a známe.
+Známe druhej zmluvnej strane alebo boli tejto zmluvnej strane neskôr oznámené treťou
+stranou, bez akéhokoľvek záväzku diskrétnosti.
+Strana 4 z 9
+
+7.2.3.
+
+Povinne zverejnené jednou zo Zmluvných strán na základe zákonných dôvodov.
+V takomto prípade je oslovená zmluvná strana pred zverejnením dôverných údajov
+povinná bez zbytočného odkladu informovať druhú zmluvnú stranu o svojej povinnosti.
+
+7.3. Zmluvné strany sú v prípade aplikácie bodov 7.2.1. až 7.2.3. povinné predložiť dôkazy o existencii
+uvedených skutočností.
+7.4. Zmluvné strany sú povinné v zmysle zákona č. 122/2013 Z. z. o ochrane osobných údajov a o zmene
+a doplnení niektorých údajov v znení neskorších predpisov zachovávať mlčanlivosť o všetkých
+osobných údajoch, s ktorými prišli do styku v súvislosti s plnením Predmetu zmluvy.
+7.5. Zmluvné strany sú zároveň odo dňa 25. mája 2018 povinné dodržiavať príslušné ustanovenia
+Nariadenia Európskeho Parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických
+osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje
+smernica 95/46/ES (všeobecné nariadenie o ochrane údajov), ktoré súvisia s plnením Predmetu
+zmluvy.
+7.6. Povinnosť zachovávať mlčanlivosť v zmysle bodu 7.1 Zmluvy trvá aj po uplynutí doby trvania tejto
+Zmluvy a zániku zmluvného vzťahu.
+8. LICENČNÉ PODMIENKY
+8.1. Poskytovateľ udeľuje Objednávateľovi v zmysle ust. § 70 a násl. zákona č. 185/2015 Z. z. Autorský
+zákon v znení neskorších predpisov nevýhradnú licenciu, ktorou Poskytovateľ udeľuje
+Objednávateľovi súhlas na využívanie Služby zo strany organizácií v pôsobnosti Objednávateľa,
+ktorých zoznam je uvedený v Prílohe č. 2 Zmluvy a to v rozsahu nevyhnutnom na riadne využívanie
+Služby a počas celej doby trvania Zmluvy. Poskytovateľ zároveň prehlasuje, že plnením záväzkov
+v zmysle tejto Zmluvy neporušuje práva duševného vlastníctva tretích osôb.
+8.2. Objednávateľ nie je oprávnený udeliť tretej osobe sublicenciu a ani akýkoľvek iný súhlas, resp.
+oprávnenie na používanie Služby. Objednávateľ rovnako nie je oprávnený udelenú licenciu postúpiť,
+prípadne previesť na akúkoľvek tretiu osobu. Odplata za poskytnutie licencie v zmysle bodu 8.1
+Zmluvy je už zahrnutá v Cene uvedenej v bode 4.2 Zmluvy.
+8.3. Objednávateľ sa zaväzuje, že Poskytovateľovi oznámi bez zbytočného odkladu všetky závažné
+skutočnosti alebo podozrivé prípady neautorizovaného a neoprávneného používania Služby
+a poskytne Poskytovateľovi primeranú súčinnosť a pomoc pri identifikácii a následnom
+preukazovaní neautorizovaného alebo neoprávneného používania Služby.
+
+9. ZÁVEREČNÉ USTANOVENIA
+9.1. Právne vzťahy Zmluvných strán založené touto Zmluvou sa riadia, ak nie sú expressis verbis
+upravené v Zmluve samotnej, príslušnými ustanoveniami Obchodného zákonníka, ako aj ďalšími
+právnymi predpismi platnými na území Slovenskej republiky. Akýkoľvek spor, nezrovnalosť a/alebo
+rozpor Zmluvných strán, ktorý vznikne z tejto Zmluvy alebo v akejkoľvek súvislosti so Zmluvou
+(vrátane akýchkoľvek sporov týkajúcich sa jej uzavretia, platnosti, účinnosti, existencie a/alebo
+ukončenia), sa bude riešiť prednostne vzájomnými rokovaniami Zmluvných strán vedenými v dobrej
+viere a s dobrým úmyslom. Ak sa takýto spor, nezrovnalosť a/alebo rozpor nepodarí vyriešiť ani
+vzájomnými rokovaniami Zmluvných strán najneskôr do 30 (tridsať) dní odo dňa ich začatia,
+je ktorákoľvek zmluvná strana oprávnená požiadať, aby tento spor, nezrovnalosť a/alebo rozpor
+Zmluvných strán rozhodol s konečnou platnosťou príslušný všeobecný súd Slovenskej republiky.
+9.2. V prípade, že sa niektoré z ustanovení Zmluvy stane podľa všeobecne záväzných právnych predpisov
+Slovenskej republiky neplatné a/alebo nevymožiteľné, platnosť a/alebo vymožiteľnosť ostatných
+ustanovení Zmluvy zostáva nedotknutá a Zmluvné strany sa zaväzujú bezodkladne začať rokovať
+v dobrej viere a dohodnúť sa na nahradení takéhoto ustanovenia novým ustanovením, ktoré bude mať
+účinky čo najviac podobné účinkom pôvodného ustanovenia, prihliadajúc pritom najmä na kontext,
+ako aj celkový právny účel daného ustanovenia a Zmluvy.
+9.3. Neuplatnenie akéhokoľvek práva na základe a/alebo v súvislosti s touto Zmluvou jednou
+zo Zmluvných strán a/alebo omeškanie s jeho uplatnením neznamená vzdanie sa tohto práva.
+Strana 5 z 9
+
+Akékoľvek vzdanie sa práva na základe a/alebo v súvislosti s touto Zmluvou nie je účinné, pokiaľ
+nie je urobené písomne a doručené druhej zmluvnej strane.
+9.4. Ak táto Zmluva neustanovuje inak, tak akékoľvek oznámenie, žiadosť, požiadavka, vzdanie sa práva,
+súhlas alebo akákoľvek iná súvisiaca komunikácia, ktorá sa vyžaduje alebo súvisí s plnením tejto
+Zmluvy (ďalej len „Oznámenie“), bude realizovaná osobne alebo poštovou listovou zásielkou
+s doručenkou, a to na adresu zmluvnej strany, uvedenej v bode 1. tejto Zmluvy (prípadne na inú
+adresu, ktorá bola zmluvnej strane oznámená najmenej 3 (tri) dni vopred). V prípade neúspešného
+doručenia Oznámenia doporučenou listovou zásielkou sa 5. (piaty) deň uloženia tejto zásielky
+na príslušnej pošte bude považovať za deň doručenia. Rovnako bude za riadne doručené považované
+aj akékoľvek Oznámenie, ktoré druhá zmluvná strana odmietne prevziať.
+9.5. Zmluvné strany sa dohodli, že akékoľvek ďalšie zmeny a/alebo doplnenia tejto Zmluvy musia mať
+písomnú formu a musia byť podpísané oboma Zmluvnými stranami.
+9.6. Žiadna zo Zmluvných strán nie je zodpovedná za nedodržanie ustanovení Zmluvy alebo
+za omeškanie pri plnení Zmluvy, spôsobené z dôvodu zásahu vyššej moci (vis maior). V prípade, že
+je plnenie Zmluvy ovplyvnené zásahom vyššej moci, predlžujú sa termíny plnenia jednotlivých
+ustanovení Zmluvy o dobu, počas ktorej prekážka v plnení, v podobe vyššej moci, pretrvávala.
+9.7. Zmluva je vyhotovená v 4 (štyroch) rovnopisoch, pričom každá zo Zmluvných strán obdrží
+po podpise Zmluvy 2 (dva) rovnopisy.
+9.8. Zmluva nadobúda platnosť okamihom jej podpisu oboma Zmluvnými stranami a účinnosť dňom
+nasledujúcim po dni zverejnenia v Centrálnom registri zmlúv vedenom na Úrade vlády SR. Zmluvu
+je možné meniť a dopĺňať len prostredníctvom číslovaných písomných dodatkov, podpísaných
+oprávnenými zástupcami Zmluvných strán.
+9.9. Zmluvné strany si Zmluvu riadne prečítali, všetky jej ustanovenia sú im jasné a zrozumiteľné, pričom
+ide o prejav ich slobodnej, určitej a vážnej vôle. Zároveň prehlasujú, že Zmluva nebola podpísaná
+v tiesni a ani za nápadne nevýhodných podmienok, na dôkaz čoho pripájajú svoje vlastnoručné
+podpisy.
+
+za Poskytovateľa
+
+za Objednávateľa
+
+podpis: v.r.
+
+podpis: v.r.
+
+meno: Michal Danilák
+
+meno: Jozef Ráž
+
+dátum: 11.12.2017
+
+dátum: 4.12.2017
+
+Strana 6 z 9
+
+PRÍLOHA č. 1
+Obsahové vymedzenie Služby
+
+-
+
+Nariadenie Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb
+pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov (v slovenskom jazyku)
+
+-
+
+Metodiky a usmernenia ku GDPR (Guidelines), ktoré vydáva Európska komisia prostredníctvom
+pracovnej skupiny WP 29 (v jazyku, akom ich vydá pracovná skupina, zvyčajne v anglickom jazyku),
+k 15.11.2017 bolo publikovaných zatiaľ 6 Guidelines WP 29:
+o
+o
+o
+o
+o
+o
+
+Guidelines on Data Protection Officers (DPO)
+Guidelines on Data Protection Impact Assessment (DPIA)
+Guidelines on Automated individual decision-making and Profiling
+Guidelines on Personal data breach notification
+Guidelines on the right to data portability
+Guidelines for identifying a controller or processor’s lead supervisory authority
+
+-
+
+Nový zákon o ochrane osobných údajov (očakáva sa začiatkom roku 2018)
+
+-
+
+Podzákonné právne predpisy, metodiky a odporúčania k zákonu, ak budú publikované na Slov-lexe
+alebo na webovom sídle Úradu na ochranu osobných údajov v priebehu nasledujúcich 12 mesiacov,
+zatiaľ sú v štádiu návrhu:
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Vykonávací predpis podľa § 29 ods. 9 návrhu zákona - "Informácie, ktoré majú byť
+obsiahnuté v štandardizovaných ikonách a postupy určovania štandardizovaných ikon,
+ustanoví všeobecne záväzný právny predpis."
+Vykonávací predpis podľa § 70 ods. 4 návrhu zákona - "Ďalšie spracovateľské operácie pre
+príslušný orgán, ktoré podliehajú povinnosti uskutočniť predchádzajúce konzultácie podľa
+odseku 1, ustanoví všeobecne záväzný právny predpis.".
+Vykonávací predpis podľa § 86 ods. 19 návrhu zákona - "Certifikačné kritéria, podmienky
+certifikačného postupu, obsahové náležitosti technickej a bezpečnostnej dokumentácie
+a podmienky výkonu auditu ochrany osobných údajov vrátane podmienok odborných
+znalostí audítora vykonávajúceho audit ochrany osobných údajov ustanoví všeobecne
+záväzný právny predpis, ktorý vydá úrad.".
+Vykonávací predpis podľa § 87 ods. 20 návrhu zákona - "Kritéria na udelenie akreditácie,
+podmienky akreditačného postupu, obsahové náležitosti technickej a bezpečnostnej
+dokumentácie a podmienky výkonu auditu monitorovania kódexu správania vrátane
+podmienok odborných znalostí audítora ustanoví všeobecne záväzný právny predpis, ktorý
+vydá úrad.".
+Vykonávací predpis podľa § 88 ods. 19 návrhu zákona - "Kritéria na udelenie akreditácie,
+podmienky certifikačného postupu, certifikačné kritéria, obsahové náležitosti technickej
+a bezpečnostnej dokumentácie a podmienky výkonu auditu certifikačného postupu vrátane
+podmienok odborných znalostí audítora ustanoví všeobecne záväzný právny predpis, ktorý
+vydá úrad.".
+Vykonávací predpis podľa § 108 ods. 2 návrhu zákona - "Ďalšie prípady spracovateľských
+operácii, ktoré podliehajú posúdeniu vplyvu na ochranu osobných údajov a postup pri
+posudzovaní vplyvu na ochranu osobných údajov podľa tohto zákona ustanoví všeobecne
+záväzný právny predpis, ktorý vydá úrad."
+
+Strana 7 z 9
+
+PRÍLOHA č. 2
+Zoznam organizácií v pôsobnosti Objednávateľa oprávnených používať Službu
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+
+Ministerstvo zdravotníctva Slovenskej republiky
+Centrum pre liečbu drogových závislostí Banská Bystrica
+Centrum pre liečbu drogových závislosti Bratislava
+Centrum pre liečbu drogových závislostí Košice
+Detská fakultná nemocnica s poliklinikou Banská Bystrica
+Detská fakultná nemocnica s poliklinikou Bratislava
+Detská fakultná nemocnica Košice
+Fakultná nemocnica s poliklinikou F. D. Roosevelta BB
+Fakultná nemocnica Nitra
+Fakultná nemocnica s poliklinikou Nové Zámky
+Fakultná nemocnica s poliklinikou J. A. Reimana Prešov
+Fakultná nemocnica Trenčín
+Fakultná nemocnica Trnava
+Fakultná nemocnica s poliklinikou Žilina
+Inštitút nukleárnej a molekulárnej medicíny Košice
+Liečebňa pre dlhodobo chorých Štiavnička, Ružomberok
+Národná transfúzna služba SR Bratislava
+Národné rehabilitačné centrum Kováčová
+Národný onkologický ústav Bratislava
+Národný ústav reumatických chorôb Piešťany
+Národný ústav tuberkulózy, pľúcnych chorôb Vyšné Hágy
+Psychiatrická liečebňa S. Bluma Plešivec
+Psychiatrická liečebňa Sučany
+Psychiatrická nemocnica Hronovce
+Psychiatrická nemocnica prof. Matulaya Kremnica
+Psychiatrická nemocnica Philippa Pinela Pezinok
+Psychiatrická nemocnica Veľké Zálužie
+Univerzitná nemocnica Bratislava
+Univerzitná nemocnica L. Pasteura Košice
+Univerzitná nemocnica Martin
+Záchranná zdravotná služba Bratislava
+Záchranná služba Košice
+Národná transplantačná organizácia Bratislava
+Národné centrum zdravotníckych informácií Bratislava
+Operačné stredisko záchrannej zdravotnej služby SR v Bratislave
+Slovenská zdravotnícka univerzita v Bratislave
+Zdravé regióny
+Nemocnica Rázsochy
+Štátny ústav pre kontrolu liečiv Bratislava
+Úrad verejného zdravotníctva Slovenskej republiky Bratislava
+Regionálny úrad verejného zdravotníctva Bratislava hlavné mesto so sídlom v BA
+Regionálny úrad verejného zdravotníctva so sídlom v Banskej Bystrici
+Regionálny úrad verejného zdravotníctva so sídlom v Bardejove
+Regionálny úrad verejného zdravotníctva so sídlom v Čadci
+Regionálny úrad verejného zdravotníctva so sídlom v Dolnom Kubíne
+Regionálny úrad verejného zdravotníctva so sídlom v Dunajskej Strede
+Regionálny úrad verejného zdravotníctva so sídlom v Galante
+Regionálny úrad verejného zdravotníctva so sídlom v Humennom
+Regionálny úrad verejného zdravotníctva so sídlom v Komárne
+Regionálny úrad verejného zdravotníctva so sídlom v Košiciach
+Regionálny úrad verejného zdravotníctva so sídlom v Leviciach
+Regionálny úrad verejného zdravotníctva so sídlom v Liptovskom Mikuláši
+Regionálny úrad verejného zdravotníctva so sídlom v Lučenci
+Regionálny úrad verejného zdravotníctva so sídlom v Martine
+Regionálny úrad verejného zdravotníctva so sídlom v Michalovciach
+Regionálny úrad verejného zdravotníctva so sídlom v Nitre
+Strana 8 z 9
+
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+
+Regionálny úrad verejného zdravotníctva so sídlom v Nových Zámkoch
+Regionálny úrad verejného zdravotníctva so sídlom v Poprade
+Regionálny úrad verejného zdravotníctva so sídlom v Považskej Bystrici
+Regionálny úrad verejného zdravotníctva so sídlom v Prešove
+Regionálny úrad verejného zdravotníctva so sídlom v Prievidzi
+Regionálny úrad verejného zdravotníctva so sídlom v Rimavskej Sobote
+Regionálny úrad verejného zdravotníctva so sídlom v Rožňave
+Regionálny úrad verejného zdravotníctva so sídlom v Senici
+Regionálny úrad verejného zdravotníctva so sídlom v Spišskej Novej Vsi
+Regionálny úrad verejného zdravotníctva so sídlom v Starej Ľubovni
+Regionálny úrad verejného zdravotníctva so sídlom vo Svidníku
+Regionálny úrad verejného zdravotníctva so sídlom v Topoľčanoch
+Regionálny úrad verejného zdravotníctva so sídlom v Trebišove
+Regionálny úrad verejného zdravotníctva so sídlom v Trenčíne
+Regionálny úrad verejného zdravotníctva so sídlom v Trnave
+Regionálny úrad verejného zdravotníctva so sídlom vo Veľkom Krtíši
+Regionálny úrad verejného zdravotníctva so sídlom vo Vranove nad Topľou
+Regionálny úrad verejného zdravotníctva so sídlom vo Zvolene
+Regionálny úrad verejného zdravotníctva so sídlom v Žiari nad Hronom
+Regionálny úrad verejného zdravotníctva so sídlom v Žiline
+Slovthermae, Kúpele Diamant Dudince, š.p.
+Špecializovaný liečebný ústav Marína, štátny podnik, Kúpele Kováčová
+Letecká vojenská nemocnica, a.s., Košice
+Národný ústav srdcových a cievnych chorôb, a.s., Bratislava
+Nemocnica Poprad, a.s.
+Spoločnosť pre zavedenie unitárneho systému verejného zdrav. poistenia a. s., BA
+Stredoslovenský ústav srdcových a cievnych chorôb, a.s., Banská Bystrica
+Všeobecná zdravotná poisťovňa, a.s., Bratislava
+Východoslovenský onkologický ústav, a.s., Košice
+Východoslovenský ústav srdcových a cievnych chorôb, a.s., Košice
+Detská psychiatrická liečebňa, n. o., Hraň
+Národný endokrinologický a diabetologický ústav n. o., Ľubochňa
+NsP Sv. Jakuba, n. o., Bardejov
+Nemocnica s poliklinikou Brezno, n. o.
+Nemocnica s poliklinikou Ilava, n. o.
+Nemocnica s poliklinikou n. o. Kráľovský Chlmec
+Nemocnica Modra n. o.
+NsP Nové Mesto nad Váhom, n. o.
+Nemocnica Alexandra Wintera n.o., Piešťany
+Nemocnica s poliklinikou, n.o. Revúca
+Odborný liečebný ústav psychiatrický n. o., Predná Hora
+Poliklinika "Veľké Kapušany n. o."
+Psychiatrická nemocnica Michalovce, n. o.
+Sanatórium Dr. Guhra n. o. Tatranská Polianka
+Sanatórium Tatranská Kotlina, n. o.
+Špecializovaná nemocnica pre ortopedickú protetiku Bratislava, n. o.
+Špecializovaná nemocnica sv. Svorada Zobor, n. o., Nitra
+Národný ústav detskej tuberkulózy a respiračných chorôb, n. o., Dolný Smokovec
+VITALITA n. o. Lehnice
+Všeobecná nemocnica s poliklinikou, n. o., Veľký Krtíš
+Vysokošpecializovaný odb. ústav geriatrický sv. Lukáša v Košiciach n. o.
+Úrad pre dohľad nad zdravotnou starostlivosťou
+Nemocnica Podunajské Biskupice k 1.12.2017
+Nemocnica LFUK Staré Mesto (1. Univerzitná nemocnica Bratislava.) k 1.2.2018
+
+Strana 9 z 9
+
+

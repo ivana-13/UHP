@@ -1,0 +1,465 @@
+Zmluva o poskytovaní služieb spojených s prevádzkou aplikácií
+uzavretá podľa ustanovenia § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník
+v znení neskorších právnych predpisov a ustanovenia § 117 zákona č. 343/2015 Z. z.
+o verejnom obstarávaní a o zmene a doplnení niektorých zákonov (ďalej len „zmluva“)
+uzavretá medzi
+Objednávateľ:
+
+Ministerstvo školstva, vedy, výskumu a športu
+Slovenskej republiky
+Sídlo:
+Stromová 1, 813 30 Bratislava
+IČO:
+00164381
+Zastúpený:
+Mgr. Helena Poláková PhD. – vedúci služobného úradu
+Bankové spojenie: Štátna pokladnica, Bratislava
+Číslo účtu v tvare IBAN: SK80 8180 0000 0070 0006 5236
+(ďalej len „Objednávateľ“)
+a
+Poskytovateľ:
+Aglo Solutions s.r.o.
+Sídlo:
+Lužná 5, 854 04 Bratislava
+IČO:
+35973072
+Zapísaný:
+Okresný súd Bratislava I, oddelenie Sro, vložka 38966/B
+Zastúpený :
+Michal Polan, konateľ spoločnosti
+Bankové spojenie: Tatra Banka, a.s.
+Číslo účtu v tvare IBAN:
+(ďalej len „Poskytovateľ“)
+(ďalej spolu Objednávateľ a Poskytovateľ aj ako „Zmluvné strany“)
+Preambula
+a) Táto zmluva je výsledkom postupu verejného obstarávania podľa § 117 zákona č.
+343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov
+(ďalej len „zákon o verejnom obstarávaní“) na predmet zákazky: „Prevádzka
+aplikácií minedu.sk a crz.minedu.sk“,
+b) Poskytovateľ je držiteľom autorských práv k redakčnému systému Syscom, na
+ktorom sú prevádzkované aplikácie objednávateľa a je vzhľadom k výhradnosti práv
+k systému Syscom výlučným poskytovateľom služieb, ktoré sú predmetom tejto
+zmluvy.
+Čl. I. Predmet zmluvy
+1. Predmetom tejto zmluvy je záväzok Poskytovateľa poskytovať Objednávateľovi:
+1.1 používateľskú podporu pri riešení problémov pri nesprávnej funkčnosti alebo
+výpadku webového sídla objednávateľa minedu.sk a aplikácie pre zverejňovanie
+zmlúv, objednávok a faktúr crz.minedu.sk alebo niektorých ich služieb opísaných
+v Prílohe č. 1 tejto zmluvy (ďalej len „používateľská podpora“),
+1.2 správu webového sídla minedu.sk a aplikácie pre zverejňovanie zmlúv, objednávok
+
+a faktúr crz.minedu.sk, ako aj správu webového servera, na ktorom je
+prevádzkované webové sídlo minedu.sk a aplikácia pre zverejňovanie zmlúv,
+objednávok a faktúr crz.minedu.sk a webového servera tzv. bridge,
+prostredníctvom ktorého je realizované prepojenie medzi aplikáciou crz.minedu.sk
+a systémom SAP prevádzkovaným v dátovom centre ministerstva financií SR.
+Dohľad a aktualizáciu a iné služby s tým spojené opísané v Prílohe č. 1 tejto
+zmluvy (ďalej len „správa aplikácií a webových serverov“)
+1.3 a na jeho požiadanie zabezpečovať práce počas trvania zmluvy, pozostávajúce
+z úprav z tzv. konfiguračných prác, implementačných prác, programátorských prác
+a vývoja novej funkcionality a ďalších služieb opísaných v Prílohe č. 1 tejto
+zmluvy (ďalej len „požadované práce“),
+a záväzok Objednávateľa zaplatiť za používateľskú podporu, správu webového
+servera a dohľad a požadované práce dohodnutú Cenu podľa čl. V a VI tejto
+zmluvy.
+(ďalej spolu aj ako „služby“)
+2. Tieto služby bude Poskytovateľ poskytovať Objednávateľovi pre webové sídlo
+objednávateľa www.minedu.sk a aplikáciu pre zverejňovanie zmlúv, objednávok a
+faktúr crz.minedu.sk.
+3. Poskytovateľ je v zmysle zákona č. 185/2015 Z. z. Autorský zákon v znení neskorších
+predpisov nositeľom autorských práv k nasledovným aplikáciám:
+a) Webové sídlo minedu.sk
+b) Zverejňovanie zmlúv, objednávok a faktúr crz.minedu.sk s integráciou na
+zverejňovanie zmlúv v Centrálnom registri zmlúv
+4. Presná špecifikácia služieb podľa ods. 1 tohto článku zmluvy tvorí prílohu č. 1 tejto
+zmluvy.
+Čl. II. Zmluvné podmienky
+1. Poskytovateľ spolu s Objednávateľom zabezpečí potrebnú spoluprácu všetkých
+subjektov zúčastnených na realizácii predmetu zmluvy podľa čl. I tejto zmluvy.
+2. Pri plnení svojich záväzkov podľa tejto zmluvy je Poskytovateľ povinný postupovať
+s odbornou starostlivosťou a v zmysle platnej legislatívy najmä požiadaviek zákona č.
+275/2006 Z. z. o informačných systémoch verejnej správy a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov a súvisiaceho výnosu MF SR č.
+55/2014 o štandardoch pre informačné systémy verejnej správy.
+3. Pre úrovne poskytovania služieb sú dohodnuté nasledovné kategorizácie incidentov:
+• kritický – majúci taký vplyv, že podstatné časti funkcionality sú nepoužiteľné,
+aplikácia nevyhovuje po funkčnej stránke, objednávateľ nemôže pokračovať v
+práci
+• hlavný – majúci vplyv na vznik problémov pri bežnom používaní alebo
+prevádzkovaní aplikácie, ktorý narušuje jej bežné fungovanie, použitie vadnej
+
+4.
+
+5.
+
+6.
+
+7.
+
+funkcie si nevyžaduje momentálnu prevádzkovú potrebu objednávateľa,
+prevádzková činnosť objednávateľa je dosiahnuteľná inými technologickými a
+metodickými postupmi
+• drobný - nenarušuje prevádzku, funkcionalitu a spoľahlivý chod aplikácie –
+formálny incident.
+Objednávateľ je povinný oznámiť spôsobom uvedeným v bode 5 tohto článku
+Poskytovateľovi skutočnosť, že sa vyskytol incident na aplikácii bez zbytočného
+odkladu. Za riadne oznámenie incidentu sa považuje, ak Objednávateľ v oznámení
+špecifikuje povahu incidentu a to, ako sa prejavuje. Ak špecifikácia incidentu v oznámení
+nie je dostatočná, Poskytovateľ požiada Objednávateľa o dodatočné informácie, ktoré mu
+je objednávateľ povinný poskytnúť bez zbytočného odkladu.
+Nahlasovanie incidentov je Objednávateľ povinný oznámiť Poskytovateľovi telefonicky
+alebo elektronickou poštou (email) nasledovne:
+• V prípade hlásenia Incidentov prostredníctvom telefónu, Poskytovateľ ako
+potvrdenie začatia plynutia času riešenia Incidentu zašle potvrdzujúci email
+oprávnenej kontaktnej osobe s označením „Potvrdenie prevzatia Incidentu“. Čas
+nahlásenia Incidentu sa počíta od prvotného telefonického kontaktu s nahlásením
+Incidentu. Čas telefonického kontaktu je zaevidovaný v rámci potvrdzujúceho
+emailu.
+• V prípade hlásenia incidentov elektronickou poštou (e-mail) (s nastavením
+vyžiadania potvrdenia o doručení správy): S označením „Potvrdenie prevzatia
+Incidentu“. Čas nahlásenia Incidentu sa počíta od prijatia potvrdenia o doručení
+správy.
+Objednávateľ môže nahlasovať incidenty nepretržite, ale pre čas zásahu sa počíta čas v
+pracovných dňoch od 8:00 do 16:30 hod. Lehoty na potvrdenie prijatia incidentu a jeho
+klasifikácie, ako aj lehota na vyriešenie incidentu plynú v pracovných dňoch od 8:00 do
+16:30 hod.
+(a)
+Poskytovateľ sa zaväzuje potvrdiť prijatie incidentu a jeho klasifikácie a
+zahájiť riešenie incidentu nasledovne:
+• v prípade výskytu kritického incidentu, v lehote do 3 hodín od oznámenia
+incidentu,
+• v prípade výskytu hlavného incidentu, v lehote do 12 hodín od oznámenia
+incidentu,
+• v prípade výskytu drobného incidentu, v lehote do 3 pracovných dní od
+oznámenia incidentu.
+(b)
+Poskytovateľ sa zaväzuje vyriešiť oznámené incidenty nasledovne:
+• kritický incident v lehote 12 hodín od prijatia incidentu a jeho klasifikácie
+• hlavný incident v lehote 3 pracovných dní od prijatia incidentu a jeho
+klasifikácie
+• drobný incident v lehote 10 pracovných dní od prijatia incidentu a jeho
+klasifikácie
+Aby nedošlo k pochybnostiam, za vyriešenie incidentu sa považuje aj zníženie úrovne
+incidentu (z kritického na hlavný alebo drobný, z hlavného na drobný). Poskytovateľ sa
+takto znížené incidenty zaväzuje vyriešiť v lehotách podľa článku II ods. 6 písm. b) tejto
+zmluvy.
+O plánovanej nedostupnosti služieb je Poskytovateľ povinný informovať Objednávateľa
+
+v dostatočnom časovom predstihu, minimálne jeden deň. V prípade neplánovanej
+nedostupnosti služieb trvajúcej viac ako 15 minút je Poskytovateľ povinný bezodkladne
+informovať vybrané osoby Objednávateľa o tejto udalosti.
+8. Poskytovateľ je povinný chrániť záujmy Objednávateľa súvisiace s predmetom tejto
+zmluvy.
+9. Poskytovateľ sa zaväzuje vypracovať a doručiť Objednávateľovi na základe jeho
+požiadania písomnú správu o objeme požadovaných prác, ktoré vykonal podľa tejto
+zmluvy.
+10. Hlavným miestom poskytovania služieb sú kancelárie (sídlo) Poskytovateľa – Lužná 5, 854
+04 Bratislava. V prípade potreby môžu byť niektoré služby poskytnuté aj v priestoroch
+Objednávateľa.
+
+Čl. III. Zodpovedné osoby
+1.
+
+2.
+
+Zodpovednou osobou za Poskytovateľa je Michal Polan, ktorý bude zodpovedný za
+celkové riadenie a realizáciu služieb zo strany Poskytovateľa a bude zastihnuteľný
+v pracovných dňoch v čase od 8:00 hod. do 16:30 hod. na tel. čísle 0915/131315
+a prostredníctvom elektronickej adresy: e-mail: polan@aglo.sk.
+Zodpovedné osoby za Objednávateľa, ktoré budú zodpovedné za celkové riadenie
+a realizáciu služieb zo strany Poskytovateľa, sú:
+•
+
+•
+
+3.
+
+Štefan Podolinský ktorý bude zastihnuteľný v pracovných dňoch v čase od 8:00
+hod. do 16:30 hod. na tel. čísle 0907 850 389 a prostredníctvom elektronickej
+adresy: e-mail: stefan.podolinsky@minedu.sk,
+Andrej Bederka ktorý bude zastihnuteľný v pracovných dňoch v čase od 8:00 hod.
+do 16:00 hod. na tel. čísle 0905 606 620 a prostredníctvom elektronickej adresy: email: andrej.bederka@minedu.sk.
+
+V prípade zmeny zodpovedných osôb sa obe zmluvné strany môžu o tejto skutočnosti
+informovať písomne alebo elektronicky poštou (email), pričom za Objednávateľa túto
+informáciu môže poskytnúť iba vedúci služobného úradu alebo generálny riaditeľ
+sekcie informatiky.
+
+Čl. IV. Realizácia služieb
+1. Realizácia služieb v zmysle čl. 1 ods. 1 bodu 1.1, 1.2, 1.3 sa realizuje :
+• Písomným oznámením incidentov podľa čl. II ods. 4, 5, 6 zmluvy
+• Formou písomných objednávok a žiadostí podľa ods. 2, 3, 4 tohto článku zmluvy.
+2. Zmluvné strany sa dohodli, že služby poskytované v zmysle čl. 1 ods. 1 bodu 1.3 tejto
+zmluvy t. j. „Požadované práce“ budú realizované na základe písomných objednávok
+vystavených Objednávateľom, ktoré budú tvoriť prílohu k faktúre Poskytovateľa.
+3. Zodpovedná osoba objednávateľa bude predkladať žiadosti týkajúce sa požadovaných
+prác predmetu zmluvy zodpovednej osobe poskytovateľa, ktorá vypracuje k žiadosti
+najneskôr do 5 dní od predloženia žiadosti stanovisko v ktorom uvedie:
+(a) Popis prác, ktoré sú potrebné na realizáciu požiadavky
+(b) Harmonogram realizácie
+
+Stanovenie prácnosti v osobohodinách (v detailnom členení podľa jednotlivých
+prác)
+Realizácia požiadavky sa uskutoční až po odsúhlasení (podpise) predbežného návrhu
+riešenia predloženého Poskytovateľom a zodpovednou osobou Objednávateľa, čím sa
+stane jeho obsah záväzným pre obe zmluvné strany.
+Realizované úpravy aplikácií sa zaväzuje Poskytovateľ odovzdávať Objednávateľovi s
+ohľadom na ich rozsah a závažnosť:
+(a)
+Pri menších a menej závažných úpravách bude odovzdávanie spočívať v
+poskytnutí informácie zodpovednej osobe objednávateľa o vykonaní prác písomne
+alebo e - mailom. Toto sa môže vykonať iba s písomným súhlasom zodpovednej
+osoby objednávateľa.
+(b)
+Pri väčších a závažnejších úpravách, zvyčajne po dohode oboch zodpovedných
+osôb, bude odovzdanie vykonané odovzdávacím testom, na ktorého metodike sa
+dohodnú zodpovedné osoby oboch zmluvných strán.
+(c)
+
+4.
+
+5.
+
+6.
+
+Ak sa pri odovzdávacom teste k úprave aplikácií nevyskytnú chyby, realizácia
+požiadavky sa bude považovať za vykonanú a odovzdanú Objednávateľovi podpisom
+protokolov o výsledkoch odovzdávacieho testu a o realizácii požiadavky. Zodpovedné
+osoby podpíšu protokol o výsledkoch odovzdávacieho testu, ako aj protokol o realizácii
+požiadavky. V prípade, ak sa vyskytli pri odovzdávacom teste chyby, zodpovedné osoby
+dojednajú primeranú lehotu na odstránenie chýb.
+V prípade, ak Poskytovateľ využije pri plnení zmluvy služby subdodávateľov je
+Poskytovateľ podľa § 41 ods. 4 zákona o verejnom obstarávaní povinný:
+a) oznámiť akúkoľvek zmenu údajov o subdodávateľovi,
+b) v prípade zmeny ktoréhokoľvek subdodávateľa počas trvania dohody medzi
+zmluvnými stranami je Poskytovateľ povinný najneskôr v deň, v ktorom má zmena
+subdodávateľa nastať, oznámiť Objednávateľovi zmenu subdodávateľa, kde uvedie
+nasledovné:
+- podiel zákazky, ktorý má v úmysle zadať navrhovanému subdodávateľovi,
+- predmet subdodávky,
+- preukázať, že subdodávateľ spĺňa, alebo najneskôr v čase plnenia bude spĺňať
+podmienky účasti týkajúce sa osobného postavenia a neexistujú dôvody na
+vylúčenie podľa § 40 ods. 6 písm. a) až h) a ods. 7 zákona o verejnom
+obstarávaní,
+- oprávnenie dodávať tovar alebo poskytovať službu vo vzťahu k tej časti predmetu
+zákazky, ktorú má v úmysle plniť,
+- údaje o osobe oprávnenej konať za subdodávateľa v rozsahu meno a priezvisko,
+adresa pobytu, dátum narodenia.
+V prípade porušenia ktorejkoľvek z povinností týkajúcich sa subdodávateľov alebo ich
+zmeny má Objednávateľ právo odstúpiť od zmluvy.
+
+7.
+
+Ak v rámci predmetu zmluvy realizovaného podľa čl. 1 bodu 1 bod 1.3 „Požadované
+práce“ vznikne dielo, ktoré bude mať charakter Autorského diela (ďalej len „autorské
+dielo“) podľa zákona č. 185/2015 Z. z. Autorský zákon v platnom znení (ďalej len
+
+„AZ“), zaväzuje sa Objednávateľ, že toto dielo bude používať v rozsahu udelenej licencie
+v zmysle bodu 8 tohto článku zmluvy.
+8.
+
+Na každé autorské dielo vytvorené Poskytovateľom počas trvania tejto zmluvy
+poskytovaním služieb „Požadované práce“ podľa čl. 1 ods. 1 bod 1.3 zmluvy, udeľuje
+Poskytovateľ Objednávateľovi v súlade s § 65 AZ ku dňu podpisu Protokolu o
+výsledkoch odovzdávacieho testu, resp. protokolu o realizácii požiadavky, časovo
+neobmedzenú (po dobu právnej ochrany majetkových práv trvajúcu), pre územie
+Slovenskej republiky a Európskej únie nevýhradnú licenciu, na akékoľvek použitie diela
+a to celku i jeho jednotlivých častí v neobmedzenom rozsahu, pričom Objednávateľ je
+oprávnený predovšetkým na:
+a) spracovanie diela,
+b) spojenie diela s iným dielom,
+c) zaradenie diela do databázy podľa § 131,
+d) vyhotovenie rozmnoženiny diela,
+e) verejné rozširovanie originálu diela alebo rozmnoženiny diel
+f) uvedenie diela na verejnosti
+Poskytovateľ dáva Objednávateľovi súhlas, aby dielo v rozsahu udelenej licencie mohli
+používať aj tretie osoby. Zmluvné strany berú na vedomie, že odmena za licenciu je
+započítaná v cene podľa čl. 5 tejto zmluvy resp. v Prílohe č. 2 tejto zmluvy v časti služieb
+„Požadované práce“. Objednávateľ berie na vedomie, že Poskytovateľ v rozsahu udelenej
+licencie neposkytuje Objednávateľovi zdrojové kódy.
+Čl. V. Cena predmetu zmluvy
+
+1. Zmluvné strany sa dohodli že celková cena za poskytnutie služieb je určená v zmysle
+ponuky Poskytovateľa v súlade so zákonom č. 18/1996 Z. z. o cenách v znení neskorších
+predpisov ako zmluvná cena za celú dobu platnosti a účinnosti zmluvy v celkovej výške
+23 616 Eur (slovom: dvadsaťtri tisíc šesťstošestnásť EUR), vrátane DPH v štruktúre
+podľa Prílohy č. 2 k tejto Zmluve:
+Cena v EUR bez DPH
+Sadzba DPH v %
+Výška DPH v EUR
+Cena v EUR vrátane DPH
+
+19 680 €
+20 %
+3 936 €
+23 616 €
+
+2. Mesačná cena používateľskej podpory, mesačná cena za správu aplikácií a webových
+serverov a Cena požadovaných prác vyžiadaných nad rámec pravidelných mesačných
+platieb za 1 osobohodinu je uvedená v Prílohe č. 2 – Návrh na plnenie kritérií, tejto
+zmluvy.
+3. V cene sú zahrnuté všetky ekonomické oprávnené náklady (vrátane vedľajších nákladov
+ako napr. cestovné, ubytovanie a pod.), ktoré sú spojené s realizáciou služieb a primeraný
+zisk. Cena je nemenná počas celej doby platnosti zmluvy. Poskytovateľ je platcom DPH.
+4. Objednávateľ nie je povinný počas trvania zmluvy vyčerpať celkovú zmluvnú cenu
+uvedenú v čl. V ods. 1 tejto zmluvy.
+
+Čl. VI. Platobné podmienky a fakturácia
+1. Objednávateľ zaplatí Poskytovateľovi cenu za poskytované služby na základe faktúry
+vystavenej Poskytovateľom. Neoddeliteľnou prílohou každej faktúry je súpis vykonaných
+prác /služieb a v prípade poskytovania služieb podľa čl. 1bodu 1 bodu 1.3 „požadované
+práce“ spočívajúce v úprave aplikácií sú prílohou každej faktúry objednávky Objednávateľa
+a Protokoly o výsledkoch odovzdávacieho testu a o realizácii požiadavky.
+2. Faktúra musí obsahovať náležitosti daňového dokladu v zmysle zákona č. 222/2004 Z. z. V
+prípade, že faktúra bude obsahovať nesprávne a neúplné údaje, je Objednávateľ oprávnený
+takúto faktúru vrátiť Poskytovateľovi na opravu. Splatnosť faktúry je 30 dní odo dňa jej
+doručenia, resp. odo dňa doručenia faktúry opravenej podľa predchádzajúcej vety, na
+bankový účet Poskytovateľa uvedený v záhlaví tejto zmluvy.
+
+Čl. VII. Zodpovednosť za škodu
+1.
+
+Poskytovateľ zodpovedá za škody, ktoré vzniknú Objednávateľovi v súvislosti
+s poskytovaním služieb podľa tejto zmluvy v súlade s § 373 a nasl. zákona č. 513/1991 Zb.
+Obchodného zákonník v znení neskorších predpisov.
+Čl. VIII Sankcie
+
+1.
+
+2.
+
+3.
+
+Poskytovateľ sa zaväzuje, že ak nevyrieši incident na aplikácií do termínov uvedených v čl. II
+bode 6 tejto zmluvy, na výzvu Objednávateľa zaplatí Objednávateľovi zmluvnú pokutu vo
+výške 0,05 % z dohodnutého mesačného paušálu za každú hodinu omeškania, až do úplného
+vyriešenia incidentu, maximálne do výšky 50 % z dohodnutého mesačného paušálu.
+Zmluvné strany sa dohodli, že Objednávateľ má právo v prípade omeškania Poskytovateľa
+s poskytovaním služieb, ktoré sú predmetom tejto zmluvy uplatniť si zmluvnú pokutu vo
+výške 10 % z ceny neposkytnutej služby, a to za každý deň omeškania okrem služieb
+poskytovaných podľa čl. 1 ods. 1 bod 1.1 /riešenie incidentov/, pre ktoré je stanovená
+sankcia v ods. 1 tohto článku.
+V prípade omeškania Objednávateľa s úhradou faktúr vzniká Poskytovateľovi nárok na úrok
+z omeškania vo výške 0,05% z dlžnej sumy za každý deň omeškania, v prípade omeškania
+zaplatenia faktúry si Poskytovateľ nebude uplatňovať nárok na úrok z omeškania, ak
+omeškanie bude spôsobené peňažným ústavom Objednávateľa alebo Poskytovateľa.
+Čl. IX Trvanie a zánik zmluvy
+
+1. Táto zmluva sa uzatvára na dobu určitú, a to na 24 mesiacov odo dňa nadobudnutia
+účinnosti tejto zmluvy alebo do vyčerpania celkovej zmluvnej ceny predmetu tejto zmluvy,
+podľa toho, čo nastane skôr.
+2. Zmluvné strany sa dohodli, že zmluvu je možné ukončiť aj pred uplynutím lehoty uvedenej
+v ods. 1. tohto článku zmluvy a to:
+a) písomnou dohodou zmluvných strán,
+b) písomnou výpoveďou zo zmluvy; každá zo zmluvných strán má právo vypovedať
+zmluvu bez udania dôvodov. Výpovedná doba je jednomesačná a začína plynúť prvým
+
+dňom kalendárneho mesiaca nasledujúceho po doručení výpovede druhej zmluvnej
+strane. Zmluvné strany sa zaväzujú dohodnúť podmienky vysporiadania vzájomných
+záväzkov po vypovedaní zmluvy,
+c) písomným odstúpením od zmluvy; Objednávateľ je oprávnený odstúpiť od zmluvy
+v prípade, ak Poskytovateľ nebude poskytovať Objednávateľovi služby uvedené v čl. I.
+tejto zmluvy v dohodnutých lehotách v zmysle tejto zmluvy, a to ani po písomnej výzve
+Objednávateľa na riadne a včasné poskytovanie služieb. Objednávateľ je oprávnený
+odstúpiť od zmluvy aj v prípade nedodržania bezpečnostných požiadaviek uvedených
+v čl. X ods. 3 tejto zmluvy zo strany Poskytovateľa. Poskytovateľ je oprávnený odstúpiť
+od zmluvy v prípade, ak Objednávateľ bude v omeškaní s úhradou splatnej faktúry viac
+ako 30 kal. dní, a svoju povinnosť si nesplní ani po predchádzajúcej písomnej výzve
+Poskytovateľa, v ktorej určí Poskytovateľ primeranú lehotu na splnenie povinnosti,
+ktorá nesmie byť kratšia ako 14 kal. dní.
+d) Písomným odstúpením od zmluvy, v prípadoch uvedených v § 19 zákona o verejnom
+obstarávaní.
+e) Písomným odstúpením od zmluvy, v prípade porušenia povinností k subdodávateľom
+v zmysle čl. IV bodu 6 tejto zmluvy.
+
+Čl. X. Záverečné ustanovenia
+1. Zmluvné vzťahy, ktoré výslovne neupravuje táto zmluva sa riadia platnými ustanoveniami
+Obchodného zákonníka č. 513/1991 Zb. v znení neskorších predpisov a všeobecne
+záväznými právnymi predpismi Slovenskej republiky.
+2. Poskytovateľ je povinný zachovávať mlčanlivosť o dôverných informáciách, ktoré získal
+v súvislosti s plnením predmetu zmluvy a získané informácie nesmie ďalej použiť.
+Povinnosť zachovávania mlčanlivosť sa vzťahuje aj na zamestnancov a subdodávateľov
+Poskytovateľa, ak ich činnosť súvisí s plnením predmetu tejto zmluvy. Dôverné
+informácie predstavujú akékoľvek verejne neprístupné technické, obchodné alebo iné
+informácie o špecifikách Objednávateľa, ktoré v súvislosti s touto zmluvou označí za
+dôverné.
+3. Poskytovateľ je povinný dodržiavať požiadavky bezpečnostnej politiky Objednávateľa,
+platnej legislatívy, najmä požiadaviek zákona č. 275/2006 Z. z. o informačných systémoch
+verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+a súvisiaceho výnosu MF SR č. 55/2014 a nevniesť nepožadované alebo neschválené
+funkcie do IS ministerstva. Nenaplnenie tejto požiadavky sa bude považovať za porušenie
+zmluvnej povinnosti, v prípade ktorej je Objednávateľ oprávnený odstúpiť od zmluvy
+v súlade s čl. IX bod 2 písm. c) tejto zmluvy. Za dodržanie uvedených požiadaviek zo
+strany Poskytovateľa je zodpovedná osoba uvedená v Čl. III bode 1. tejto zmluvy.
+4. Zmluvu je možné zmeniť len po vzájomnej dohode oboch zmluvných strán formou
+očíslovaných písomných dodatkov, ak to neodporuje § 18 zákona o verejnom obstarávaní.
+5. Zmluva je vyhotovená v šiestich originálnych vyhotoveniach rovnopisov, z ktorých
+Poskytovateľ obdrží dve originálne vyhotovenia rovnopisov a Objednávateľ obdrží štyri
+originálne vyhotovenia rovnopisov.
+
+6. Zmluva nadobúda platnosť dňom jej podpísania obidvoma zmluvnými stranami a účinnosť
+dňom nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv.
+7. Zmluvné strany vyhlasujú, že si zmluvu prečítali, jej obsahu porozumeli a na znak súhlasu
+ju podpisujú.
+
+Prílohy: 1. Špecifikácia služieb poskytovateľa
+2. Návrh na plnenie kritérií
+
+Bratislave, dňa:
+
+V Bratislave, dňa:
+
+___________________________
+___________________________
+za objednávateľa
+za poskytovateľa
+Mgr. Helena Poláková PhD.
+Mgr. Michal Polan
+Vedúci služobného úradu
+Aglo Solutions s.r.o.
+Ministerstva školstva, vedy, výskumu a športu SR
+
+Príloha č. 1
+Špecifikácia služieb
+1.POUŽÍVATEĽSKÁ PODPORA
+Používateľská podpora poskytuje pomoc pri riešení problémov pri výpadku aplikácie alebo
+niektorých jej služieb. Používateľská podpora zahŕňa taktiež krátkodobé poradenstvo,
+konzultačné služby a riešenie menej urgentných problémov, ktoré neohrozujú fungovanie
+aplikácie.
+Služba zahŕňa:
+• Používateľská podpora a riešenie incidentov. Riešenie incidentov prebieha pre
+jednotlivé kategórie incidentov v stanovených lehotách. Nahlasovanie incidentov
+prebieha telefonicky alebo mailom.
+• Optimalizácia systému, aktualizácia bezpečnostných záplat.
+• Konzultačné služby.
+2. SPRÁVA APLIKÁCIÍ A WEBOVÝCH SERVEROV
+Správa aplikácií minedu.sk a crz.minedu.sk a dvoch webových serverov. V rámci správy je
+zahrnutý aj dohľad a aktualizácia. Podpora je poskytovaná pre webový server na ktorom sú
+prevádzkované dané aplikácie ako aj webový server tzv. bridge prostredníctvom ktorého je
+realizované prepojenie medzi aplikáciou crz.minedu.sk a systémom SAP prevádzkovaným
+v dátovom centre ministerstva financií SR.
+Služba zahŕňa:
+• Aktualizácia redakčného systému, vývoj nových modulov a úprava existujúcich.
+• Aktualizáciu operačného systému a balíčkov webových serverov.
+• Pravidelná kontrola logov a stavu webových serverov.
+• Technická podpora pri riešení problémov/incidentov.
+• Zálohovanie webových serverov.
+• Správa WAF (web application firewall).
+• Správa monitoringu webových serverov.
+• Správa nastavení sieťových firewallov webových serverov.
+• Správa certifikátov pre administráciu.
+• Správa bezpečnostných nastavení.
+3. POŽADOVANÉ PRÁCE
+Služba zahŕňa:
+• Aktualizácia aplikácie pre zverejňovanie zmlúv, objednávok a faktúr, vývoj nových
+vlastností a úprava existujúcej funkcionality, vrátane interfejsu pre integráciu
+s ekonomickým informačným systémom rezortu a zobrazovania zverejnených
+informácií na WEBovom sídle.
+• Aktualizácia používateľskej , prevádzkovej a administrátorskej dokumentácie.
+• Prevádzkové zásahy.
+• Odborná poradenská a konzultačná pomoc, príprava odborných a technických
+podkladov.
+• Úpravy aplikácií podľa potrieb klienta (konzultačné, konfiguračné, implementačné,
+programátorské práce)
+
+
